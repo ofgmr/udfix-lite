@@ -41,13 +41,13 @@ import {
     type KatirChartMode,
     type KatirChartPrefs,
     type KatirChartSeries,
-} from '../../lib/katirChartPrefs';
-import { toKatirPlotMonths, type ChartPlotMonth } from '../../lib/katirChartMath';
+} from '../../lib/uyapChartPrefs';
+import { toKatirPlotMonths, type ChartPlotMonth } from '../../lib/uyapChartMath';
 import {
     KATIR_UPGRADE_URL,
     dashboardHasKatirCorpus,
     type AppEntitlements,
-} from '../../lib/katirProduct';
+} from '../../lib/appEntitlements';
 
 const SEARCH_DEBOUNCE_MS = 250;
 const RECENT_UYAP_EVRAK_LIMIT = 100;

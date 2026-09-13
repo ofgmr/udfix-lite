@@ -1,5 +1,5 @@
 import type { UyapDosyaTurBucket, UyapOpeningMonthRow } from '../services/dataService';
-import type { KatirChartMode, KatirChartSeries } from './katirChartPrefs';
+import type { KatirChartMode, KatirChartSeries } from './uyapChartPrefs';
 
 const BUCKETS: readonly UyapDosyaTurBucket[] = ['icra', 'hukuk', 'ceza', 'idare', 'other'];
 

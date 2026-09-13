@@ -1,22 +1,14 @@
 import { app, BrowserWindow, ipcMain, dialog, session, shell, protocol, Notification, type OpenDialogOptions, type WebPreferences } from 'electron';
 import path from 'path';
 import fs from 'fs';
-import { setupDatabase, registerDatabaseHandlers, getSqlitePath, resolveDatabaseLocation } from './database';
+import { setupDatabase, registerDatabaseHandlers } from './database';
 import { registerEntitlementHandlers } from './entitlements';
-import { ensureUyapCliBridge, stopUyapCliBridge } from './uyapCliBridgeProcess';
-import { bindKatirProtocolEvents, attachKatirProtocolQueue } from './katirProtocol';
 import { simpleParser } from 'mailparser';
 import os from 'os';
-import { signDetachedContentXml, UyapSigningError } from './uyapSignerBridge';
 import { extractSignerInfoFromDetachedSignature } from './udfDetachedSignatureInfo';
 import { loadAppPreferences, patchAppPreferences, pushWorkspaceRecent, type AppPreferences } from './appPreferences';
 import { rebuildApplicationMenu, registerApplicationMenuIpc, MENU_CHANNEL } from './applicationMenu';
 import { applyMacAppIcon, configureAppBrandingEarly, resolveBrowserWindowIcon, UDFIX_APP_NAME } from './appBranding';
-import { cliArgvFromProcess, runSeedPerformanceCli } from './seedPerformanceData';
-import {
-    cliArgvFromProcess as cliArgvImportIctihatlar,
-    runImportIctihatlarCli,
-} from './importIctihatlar';
 import {
     buildRendererEntryHref,
     getRendererIndexHtmlPath,
@@ -37,21 +29,20 @@ import { initMacAppLifecycle, setupMacPlatformMenus, scheduleFirstLaunchUdfPromp
 import { initMacMenuBarTray } from './macMenuBarTray';
 import { registerUdfixWithLaunchServices, reassertUdfDefaultHandlerIfEnabled } from './macLaunchServices';
 import { registerUdfQuickLookPlugins } from './macUdfQuickLook';
-import { runVerifyDatabaseFixCli } from './verifyDatabaseFix';
-import { registerUyapBridgeHandlers } from './uyapBridgeIpc';
 import { DEST_DIR_APP_OWNED, isAppOwnedEvrakPath, purgeAppOwnedUyapPreviewDirs } from './uyapEvrakStorage';
 import { startCalendarReminderService, stopCalendarReminderService } from './calendarReminderService';
 
-function isPerfSeedCli(): boolean {
-    return process.argv.includes('--seed-perf');
+class UyapSigningError extends Error {
+    readonly code: string;
+    constructor(code: string, message: string) {
+        super(message);
+        this.name = 'UyapSigningError';
+        this.code = code;
+    }
 }
 
-function isImportIctihatlarCli(): boolean {
-    return process.argv.includes('--import-ictihatlar');
-}
-
-function isVerifyDbFixCli(): boolean {
-    return process.argv.includes('--verify-db-fix');
+async function signDetachedContentXml(): Promise<never> {
+    throw new UyapSigningError('SIGNER_NOT_CONFIGURED', 'E-imza bu kaynak ağacında yapılandırılmaz.');
 }
 
 // Mitigate Chromium "tile memory limits exceeded" warnings (cc/tiles/tile_manager.cc) on glass-heavy UIs.
@@ -72,8 +63,6 @@ protocol.registerSchemesAsPrivileged([
         },
     },
 ]);
-
-bindKatirProtocolEvents();
 
 function rendererWebPreferences(): WebPreferences {
     return {
@@ -252,42 +241,6 @@ app.whenReady().then(async () => {
 
     const userDataPath = app.getPath('userData');
 
-    if (isPerfSeedCli()) {
-        try {
-            runSeedPerformanceCli(cliArgvFromProcess(), { userDataPath });
-        } catch (err) {
-            console.error(err);
-            app.exit(1);
-            return;
-        }
-        app.exit(0);
-        return;
-    }
-
-    if (isImportIctihatlarCli()) {
-        try {
-            runImportIctihatlarCli(cliArgvImportIctihatlar(), { userDataPath });
-        } catch (err) {
-            console.error(err);
-            app.exit(1);
-            return;
-        }
-        app.exit(0);
-        return;
-    }
-
-    if (isVerifyDbFixCli()) {
-        try {
-            runVerifyDatabaseFixCli();
-        } catch (err) {
-            console.error(err);
-            app.exit(1);
-            return;
-        }
-        app.exit(0);
-        return;
-    }
-
     try {
         startupMark('main:sqlite begin');
         setupDatabase(userDataPath, app.getVersion());
@@ -312,14 +265,6 @@ app.whenReady().then(async () => {
     registerDatabaseHandlers();
     startupMark('main:ipc db handlers');
     registerEntitlementHandlers(userDataPath);
-    attachKatirProtocolQueue(userDataPath);
-    registerUyapBridgeHandlers();
-    startupMark('main:ipc uyap bridge');
-    void ensureUyapCliBridge({
-        userDataPath,
-        dbPath: getSqlitePath() ?? resolveDatabaseLocation(userDataPath).dbPath,
-    });
-
     registerApplicationMenuIpc();
     startupMark('main:menu ipc');
     registerUpdateHandlers();
@@ -1019,7 +964,6 @@ app.on('window-all-closed', () => {
 });
 
 app.on('will-quit', () => {
-    stopUyapCliBridge();
     stopCalendarReminderService();
     try {
         session.defaultSession.flushStorageData();

@@ -10,16 +10,12 @@
   "main": "dist-electron/main.js",
   "scripts": {
     "dev": "concurrently -n vite,electron \"npm run dev:react\" \"npm run dev:electron\"",
-    "dev:lite": "cross-env UDFIX_KATIR=0 npm run dev",
     "dev:react": "vite",
-    "dev:electron": "wait-on tcp:5173 && node scripts/patch-electron-mac-branding.mjs && tsc -p electron/tsconfig.json && node scripts/copy-electron-assets.mjs && node scripts/build-launch-services-helper.mjs && cross-env NODE_ENV=development UDFIX_KATIR=0 electron .",
-    "dev:electron:dist": "node scripts/patch-electron-mac-branding.mjs && tsc -p electron/tsconfig.json && node scripts/copy-electron-assets.mjs && node scripts/build-launch-services-helper.mjs && cross-env NODE_ENV=development UDFIX_RENDERER_FILE=1 UDFIX_KATIR=0 electron .",
-    "dev:dist": "node scripts/ensure-renderer-build.mjs && npm run dev:electron:dist",
-    "build:renderer": "node scripts/build-renderer.mjs",
-    "build": "tsc && vite build && tsc -p electron/tsconfig.json && node scripts/copy-electron-assets.mjs && node scripts/build-launch-services-helper.mjs && electron-builder",
+    "dev:electron": "wait-on tcp:5173 && tsc -p electron/tsconfig.json && node scripts/copy-electron-assets.mjs && cross-env NODE_ENV=development electron .",
+    "build": "tsc && vite build && tsc -p electron/tsconfig.json && node scripts/copy-electron-assets.mjs && electron-builder",
     "lint": "eslint .",
     "preview": "vite preview",
-    "postinstall": "npx patch-package && node scripts/copy-pdfjs-assets.mjs && node scripts/patch-electron-mac-branding.mjs && node scripts/patch-dmgbuild-python3.mjs && npx @electron/rebuild -f -w better-sqlite3",
+    "postinstall": "npx patch-package && node scripts/copy-pdfjs-assets.mjs && npx @electron/rebuild -f -w better-sqlite3",
     "copy:pdfjs-assets": "node scripts/copy-pdfjs-assets.mjs",
     "rebuild:sqlite": "npx @electron/rebuild -f -w better-sqlite3"
   },
@@ -311,12 +307,7 @@
     "extraMetadata": {
       "udfixEdition": "lite"
     },
-    "extraResources": [
-      {
-        "from": "dist-electron/swift/udfLaunchServices",
-        "to": "udfLaunchServices"
-      }
-    ],
+    "extraResources": [],
     "publish": [
       {
         "provider": "generic",

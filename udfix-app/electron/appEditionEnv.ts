@@ -6,6 +6,6 @@ export function envTriState(key: string, env: NodeJS.ProcessEnv = process.env): 
     return null;
 }
 
-export function katirEnvOverride(env: NodeJS.ProcessEnv = process.env): boolean | null {
-    return envTriState('UDFIX_KATIR', env);
+export function katirEnvOverride(): boolean | null {
+    return false;
 }
