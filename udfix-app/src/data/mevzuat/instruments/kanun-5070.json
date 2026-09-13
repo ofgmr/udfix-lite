@@ -1,0 +1,500 @@
+{
+  "id": "kanun:5070",
+  "kind": "kanun",
+  "no": "5070",
+  "title": "Elektronik İmza Kanunu",
+  "shortName": "Elektronik İmza Kanunu",
+  "aliases": [
+    "Elektronik İmza Kanunu",
+    "5070"
+  ],
+  "tur": 1,
+  "tertip": 5,
+  "sourceUrl": "https://www.mevzuat.gov.tr/mevzuat?MevzuatNo=5070&MevzuatTur=1&MevzuatTertip=5",
+  "kabulTarihi": "15/1/2004",
+  "maddeCount": 28,
+  "maddeler": [
+    {
+      "id": "kanun:5070:m:1",
+      "maddeKind": "madde",
+      "maddeNo": "1",
+      "heading": "Madde 1",
+      "text": "Bu Kanunun amacı, elektronik imzanın hukukî ve teknik yönleri ile kullanımına ilişkin esasları düzenlemektir.",
+      "preview": "Bu Kanunun amacı, elektronik imzanın hukukî ve teknik yönleri ile kullanımına ilişkin esasları düzenlemektir.",
+      "kitap": null,
+      "kisim": null,
+      "bolum": null,
+      "ayirim": null,
+      "maddeBaslik": null,
+      "sectionPath": []
+    },
+    {
+      "id": "kanun:5070:m:2",
+      "maddeKind": "madde",
+      "maddeNo": "2",
+      "heading": "Madde 2",
+      "text": "Bu Kanun, elektronik imzanın hukukî yapısını, elektronik sertifika hizmet sağlayıcılarının faaliyetlerini ve her alanda elektronik imzanın kullanımına ilişkin işlemleri kapsar.",
+      "preview": "Bu Kanun, elektronik imzanın hukukî yapısını, elektronik sertifika hizmet sağlayıcılarının faaliyetlerini ve her alanda elektronik imzanın k…",
+      "kitap": null,
+      "kisim": null,
+      "bolum": null,
+      "ayirim": null,
+      "maddeBaslik": "Kapsam",
+      "sectionPath": [
+        "Kapsam"
+      ]
+    },
+    {
+      "id": "kanun:5070:m:3",
+      "maddeKind": "madde",
+      "maddeNo": "3",
+      "heading": "Madde 3",
+      "text": "Bu Kanunda geçen;\n a) Elektronik veri: Elektronik, optik veya benzeri yollarla üretilen, taşınan veya saklanan kayıtları,\n b) Elektronik imza: Başka bir elektronik veriye eklenen veya elektronik veriyle mantıksal bağlantısı bulunan ve kimlik doğrulama amacıyla kullanılan elektronik veriyi,\n c) İmza sahibi: Elektronik imza oluşturmak amacıyla bir imza oluşturma aracını kullanan gerçek kişiyi,\n d) İmza oluşturma verisi: İmza sahibine ait olan, imza sahibi tarafından elektronik imza oluşturma amacıyla kullanılan ve bir eşi daha olmayan şifreler, kriptografik gizli anahtarlar gibi verileri,\n e) İmza oluşturma aracı: Elektronik imza oluşturmak üzere, imza oluşturma verisini kullanan yazılım veya donanım aracını,\n f) İmza doğrulama verisi: Elektronik imzayı doğrulamak için kullanılan şifreler, kriptografik açık anahtarlar gibi verileri,\n g) İmza doğrulama aracı: Elektronik imzayı doğrulamak amacıyla imza doğrulama verisini kullanan yazılım veya donanım aracını,\n h) Zaman damgası: Bir elektronik verinin, üretildiği, değiştirildiği, gönderildiği, alındığı ve / veya kaydedildiği zamanın tespit edilmesi amacıyla, elektronik sertifika hizmet sağlayıcısı tarafından elektronik imzayla doğrulanan kaydı,\n ı) Elektronik sertifika: İmza sahibinin imza doğrulama verisini ve kimlik bilgilerini birbirine bağlayan elektronik kaydı,\n j) Kurum: Telekomünikasyon Kurumunu,\n ifade eder.",
+      "preview": "Bu Kanunda geçen; a) Elektronik veri: Elektronik, optik veya benzeri yollarla üretilen, taşınan veya saklanan kayıtları, b) Elektronik imza:…",
+      "kitap": null,
+      "kisim": null,
+      "bolum": null,
+      "ayirim": null,
+      "maddeBaslik": "Tanımlar",
+      "sectionPath": [
+        "Tanımlar"
+      ]
+    },
+    {
+      "id": "kanun:5070:m:4",
+      "maddeKind": "madde",
+      "maddeNo": "4",
+      "heading": "Madde 4",
+      "text": "Güvenli elektronik imza;\n a) Münhasıran imza sahibine bağlı olan,\n b) Sadece imza sahibinin tasarrufunda bulunan güvenli elektronik imza oluşturma aracı ile oluşturulan,\n c) Nitelikli elektronik sertifikaya dayanarak imza sahibinin kimliğinin tespitini sağlayan,\n d) İmzalanmış elektronik veride sonradan herhangi bir değişiklik yapılıp yapılmadığının tespitini sağlayan,\n elektronik imzadır.",
+      "preview": "Güvenli elektronik imza; a) Münhasıran imza sahibine bağlı olan, b) Sadece imza sahibinin tasarrufunda bulunan güvenli elektronik imza oluşt…",
+      "kitap": null,
+      "kisim": "İKİNCİ KISIM · Güvenli Elektronik İmza ve Sertifika Hizmetleri",
+      "bolum": "BİRİNCİ BÖLÜM · Güvenli Elektronik İmza, Güvenli Elektronik İmza",
+      "ayirim": null,
+      "maddeBaslik": "Güvenli elektronik imza",
+      "sectionPath": [
+        "İKİNCİ KISIM · Güvenli Elektronik İmza ve Sertifika Hizmetleri",
+        "BİRİNCİ BÖLÜM · Güvenli Elektronik İmza, Güvenli Elektronik İmza",
+        "Güvenli elektronik imza"
+      ]
+    },
+    {
+      "id": "kanun:5070:m:5",
+      "maddeKind": "madde",
+      "maddeNo": "5",
+      "heading": "Madde 5",
+      "text": "Güvenli elektronik imza, elle atılan imza ile aynı hukukî sonucu doğurur.\n Kanunların resmî şekle veya özel bir merasime tabi tuttuğu hukukî işlemler ile banka teminat mektupları ve Türkiye’de yerleşik sigorta şirketleri tarafından düzenlenen kefalet senetleri dışındaki teminat sözleşmeleri, güvenli elektronik imza ile gerçekleştirilemez.[2][3]",
+      "preview": "Güvenli elektronik imza, elle atılan imza ile aynı hukukî sonucu doğurur. Kanunların resmî şekle veya özel bir merasime tabi tuttuğu hukukî…",
+      "kitap": null,
+      "kisim": "İKİNCİ KISIM · Güvenli Elektronik İmza ve Sertifika Hizmetleri",
+      "bolum": "BİRİNCİ BÖLÜM · Güvenli Elektronik İmza, Güvenli Elektronik İmza",
+      "ayirim": null,
+      "maddeBaslik": "Güvenli elektronik imzanın hukukî sonucu ve uygulama alanı",
+      "sectionPath": [
+        "İKİNCİ KISIM · Güvenli Elektronik İmza ve Sertifika Hizmetleri",
+        "BİRİNCİ BÖLÜM · Güvenli Elektronik İmza, Güvenli Elektronik İmza",
+        "Güvenli elektronik imzanın hukukî sonucu ve uygulama alanı"
+      ]
+    },
+    {
+      "id": "kanun:5070:m:6",
+      "maddeKind": "madde",
+      "maddeNo": "6",
+      "heading": "Madde 6",
+      "text": "Güvenli elektronik imza oluşturma araçları;\n a) Ürettiği elektronik imza oluşturma verilerinin kendi aralarında bir eşi daha bulunmamasını,\n b) Üzerinde kayıtlı olan elektronik imza oluşturma verilerinin araç dışına hiçbir biçimde çıkarılamamasını ve gizliliğini,\n c) Üzerinde kayıtlı olan elektronik imza oluşturma verilerinin, üçüncü kişilerce elde edilememesini, kullanılamamasını ve elektronik imzanın sahteciliğe karşı korunmasını,\n d) İmzalanacak verinin imza sahibi dışında değiştirilememesini ve bu verinin imza sahibi tarafından imzanın oluşturulmasından önce görülebilmesini,\n sağlayan imza oluşturma araçlarıdır.",
+      "preview": "Güvenli elektronik imza oluşturma araçları; a) Ürettiği elektronik imza oluşturma verilerinin kendi aralarında bir eşi daha bulunmamasını, b…",
+      "kitap": null,
+      "kisim": "İKİNCİ KISIM · Güvenli Elektronik İmza ve Sertifika Hizmetleri",
+      "bolum": "BİRİNCİ BÖLÜM · Güvenli Elektronik İmza, Güvenli Elektronik İmza",
+      "ayirim": null,
+      "maddeBaslik": "Güvenli elektronik imza oluşturma araçları",
+      "sectionPath": [
+        "İKİNCİ KISIM · Güvenli Elektronik İmza ve Sertifika Hizmetleri",
+        "BİRİNCİ BÖLÜM · Güvenli Elektronik İmza, Güvenli Elektronik İmza",
+        "Güvenli elektronik imza oluşturma araçları"
+      ]
+    },
+    {
+      "id": "kanun:5070:m:7",
+      "maddeKind": "madde",
+      "maddeNo": "7",
+      "heading": "Madde 7",
+      "text": "Güvenli elektronik imza doğrulama araçları;\n a) İmzanın doğrulanması için kullanılan verileri, değiştirmeksizin doğrulama yapan kişiye gösteren,\n b) İmza doğrulama işlemini güvenilir ve kesin bir biçimde çalıştıran ve doğrulama sonuçlarını değiştirmeksizin doğrulama yapan kişiye gösteren,\n c) Gerektiğinde, imzalanmış verinin güvenilir bir biçimde gösterilmesini sağlayan,\n d) İmzanın doğrulanması için kullanılan elektronik sertifikanın doğruluğunu ve geçerliliğini güvenilir bir biçimde tespit ederek sonuçlarını değiştirmeksizin doğrulama yapan kişiye gösteren,\n e) İmza sahibinin kimliğini değiştirmeksizin doğrulama yapan kişiye gösteren,\n f) İmzanın doğrulanması ile ilgili şartlara etki edecek değişikliklerin tespit edilebilmesini sağlayan,\n imza doğrulama araçlarıdır.",
+      "preview": "Güvenli elektronik imza doğrulama araçları; a) İmzanın doğrulanması için kullanılan verileri, değiştirmeksizin doğrulama yapan kişiye göster…",
+      "kitap": null,
+      "kisim": "İKİNCİ KISIM · Güvenli Elektronik İmza ve Sertifika Hizmetleri",
+      "bolum": "BİRİNCİ BÖLÜM · Güvenli Elektronik İmza, Güvenli Elektronik İmza",
+      "ayirim": null,
+      "maddeBaslik": "Güvenli elektronik imza doğrulama araçları",
+      "sectionPath": [
+        "İKİNCİ KISIM · Güvenli Elektronik İmza ve Sertifika Hizmetleri",
+        "BİRİNCİ BÖLÜM · Güvenli Elektronik İmza, Güvenli Elektronik İmza",
+        "Güvenli elektronik imza doğrulama araçları"
+      ]
+    },
+    {
+      "id": "kanun:5070:m:8",
+      "maddeKind": "madde",
+      "maddeNo": "8",
+      "heading": "Madde 8",
+      "text": "Elektronik sertifika hizmet sağlayıcısı, elektronik sertifika, zaman damgası ve elektronik imzalarla ilgili hizmetleri sağlayan kamu kurum ve kuruluşları ile gerçek veya özel hukuk tüzel kişilerdir. Elektronik sertifika hizmet sağlayıcısı, Kuruma yapacağı bildirimden iki ay sonra faaliyete geçer.\n Elektronik sertifika hizmet sağlayıcısı yapacağı bildirimde;\n a) Güvenli ürün ve sistemleri kullanmak,\n b) Hizmeti güvenilir bir biçimde yürütmek,\n c) Sertifikaların taklit ve tahrif edilmesini önlemekle ilgili her türlü tedbiri almak,\n ile ilgili şartları sağladığını ayrıntılı bir biçimde gösterir.\n Kurum, yukarıdaki şartlardan birinin eksikliğini veya yerine getirilmediğini tespit ederse, bu eksikliklerin giderilmesi için, elektronik sertifika hizmet sağlayıcısına bir ayı geçmemek üzere bir süre verir, bu süre içinde elektronik sertifika hizmet sağlayıcısının faaliyetlerini durdurur. Sürenin sonunda eksikliklerin giderilmemesi halinde elektronik sertifika hizmet sağlayıcısının faaliyetine son verir. Kurumun bu kararlarına karşı 19 uncu maddenin ikinci fıkrası hükümleri gereğince itiraz edilebilir.\n Elektronik sertifika hizmet sağlayıcılarının faaliyetlerinin devamı sırasında bu maddede gösterilen şartları kaybetmeleri hâlinde de yukarıdaki fıkra hükümleri uygulanır.\n Elektronik sertifika hizmet sağlayıcıları, Kurumun belirleyeceği ücret alt ve üst sınırlarına uymak zorundadır.",
+      "preview": "Elektronik sertifika hizmet sağlayıcısı, elektronik sertifika, zaman damgası ve elektronik imzalarla ilgili hizmetleri sağlayan kamu kurum v…",
+      "kitap": null,
+      "kisim": "İKİNCİ KISIM · Güvenli Elektronik İmza ve Sertifika Hizmetleri",
+      "bolum": "İKİNCİ BÖLÜM · Elektronik Sertifika Hizmet Sağlayıcısı, Nitelikli Elektronik Sertifika ve",
+      "ayirim": null,
+      "maddeBaslik": "Elektronik sertifika hizmet sağlayıcısı",
+      "sectionPath": [
+        "İKİNCİ KISIM · Güvenli Elektronik İmza ve Sertifika Hizmetleri",
+        "İKİNCİ BÖLÜM · Elektronik Sertifika Hizmet Sağlayıcısı, Nitelikli Elektronik Sertifika ve",
+        "Elektronik sertifika hizmet sağlayıcısı"
+      ]
+    },
+    {
+      "id": "kanun:5070:m:9",
+      "maddeKind": "madde",
+      "maddeNo": "9",
+      "heading": "Madde 9",
+      "text": "Nitelikli elektronik sertifikada;\n a) Sertifikanın \"nitelikli elektronik sertifika\" olduğuna dair bir ibarenin,\n b) Sertifika hizmet sağlayıcısının kimlik bilgileri ve kurulduğu ülke adının,\n c) İmza sahibinin teşhis edilebileceği kimlik bilgilerinin,\n d) Elektronik imza oluşturma verisine karşılık gelen imza doğrulama verisinin,\n e) Sertifikanın geçerlilik süresinin başlangıç ve bitiş tarihlerinin,\n f) Sertifikanın seri numarasının,\n g) Sertifika sahibi diğer bir kişi adına hareket ediyorsa bu yetkisine ilişkin bilginin,\n h) Sertifika sahibi talep ederse meslekî veya diğer kişisel bilgilerinin,\n ı) Varsa sertifikanın kullanım şartları ve kullanılacağı işlemlerdeki maddî sınırlamalara ilişkin bilgilerin,\n j) Sertifika hizmet sağlayıcısının sertifikada yer alan bilgileri doğrulayan güvenli elektronik imzasının,\n bulunması zorunludur.",
+      "preview": "Nitelikli elektronik sertifikada; a) Sertifikanın \"nitelikli elektronik sertifika\" olduğuna dair bir ibarenin, b) Sertifika hizmet sağlayıcı…",
+      "kitap": null,
+      "kisim": "İKİNCİ KISIM · Güvenli Elektronik İmza ve Sertifika Hizmetleri",
+      "bolum": "İKİNCİ BÖLÜM · Elektronik Sertifika Hizmet Sağlayıcısı, Nitelikli Elektronik Sertifika ve",
+      "ayirim": null,
+      "maddeBaslik": "Nitelikli elektronik sertifika",
+      "sectionPath": [
+        "İKİNCİ KISIM · Güvenli Elektronik İmza ve Sertifika Hizmetleri",
+        "İKİNCİ BÖLÜM · Elektronik Sertifika Hizmet Sağlayıcısı, Nitelikli Elektronik Sertifika ve",
+        "Nitelikli elektronik sertifika"
+      ]
+    },
+    {
+      "id": "kanun:5070:m:10",
+      "maddeKind": "madde",
+      "maddeNo": "10",
+      "heading": "Madde 10",
+      "text": "Elektronik sertifika hizmet sağlayıcısı;\n a) Hizmetin gerektirdiği nitelikte personel istihdam etmekle,\n b) (Değişik: 14/1/2016-6661/7 md.) Nitelikli sertifika verdiği kişilerin kimliğini resmî belgelere göre veya Türkiye Cumhuriyeti kimlik kartı vasıtasıyla uzaktan güvenilir bir biçimde tespit etmekle,\n c) Sertifika sahibinin diğer bir kişi adına hareket edebilme yetkisi, meslekî veya diğer kişisel bilgilerinin sertifikada bulunması durumunda, bu bilgileri de resmî belgelere dayandırarak güvenilir bir biçimde belirlemekle,\n d) İmza oluşturma verisinin sertifika hizmet sağlayıcısı tarafından veya sertifika talep eden kişi tarafından sertifika hizmet sağlayıcısına ait yerlerde üretilmesi durumunda bu işlemin gizliliğini sağlamak veya sertifika hizmet sağlayıcısının sağladığı araçlarla üretilmesi durumunda, bu işleyişin güvenliğini sağlamakla,\n e) (Değişik: 14/1/2016-6661/7 md.) Kanunlarda öngörülen sınırlamalar saklı kalmak üzere sertifikanın kullanımına ilişkin özellikler, uyuşmazlıkların çözüm yolları ile ilgili şartlar ve güvenli elektronik imzanın elle atılan imza ile eşdeğer olduğu hakkında talep eden kişiyi sertifikanın tesliminden önce bilgilendirmekle,\n f) (Değişik: 14/1/2016-6661/7 md.) Sertifikada bulunan imza doğrulama verisine karşılık gelen imza oluşturma verisini başkasına kullandırmaması konusunda, sertifika sahibini bilgilendirmekle,\n g) Yaptığı hizmetlere ilişkin tüm kayıtları yönetmelikle belirlenen süreyle saklamakla,\n h) Faaliyetine son vereceği tarihten en az üç ay önce durumu Kuruma ve elektronik sertifika sahibine bildirmekle,\n yükümlüdür.\n Elektronik sertifika hizmet sağlayıcısı üretilen imza oluşturma verisinin bir kopyasını alamaz veya bu veriyi saklayamaz.\n (Ek fıkra:28/1/2021-7263/11 md.) Elektronik sertifika hizmet sağlayıcısı, nitelikli sertifika verdiği kişilerin kimlik bilgilerini Türkiye Cumhuriyeti kimlik kartı vasıtasıyla uzaktan güvenilir bir biçimde tespit etmiş ise nitelikli sertifikayı kimlik kartına uzaktan güvenilir bir biçimde yükleyebilir.",
+      "preview": "Elektronik sertifika hizmet sağlayıcısı; a) Hizmetin gerektirdiği nitelikte personel istihdam etmekle, b) (Değişik: 14/1/2016-6661/7 md.) Ni…",
+      "kitap": null,
+      "kisim": "İKİNCİ KISIM · Güvenli Elektronik İmza ve Sertifika Hizmetleri",
+      "bolum": "İKİNCİ BÖLÜM · Elektronik Sertifika Hizmet Sağlayıcısı, Nitelikli Elektronik Sertifika ve",
+      "ayirim": null,
+      "maddeBaslik": "Elektronik sertifika hizmet sağlayıcısının yükümlülükleri",
+      "sectionPath": [
+        "İKİNCİ KISIM · Güvenli Elektronik İmza ve Sertifika Hizmetleri",
+        "İKİNCİ BÖLÜM · Elektronik Sertifika Hizmet Sağlayıcısı, Nitelikli Elektronik Sertifika ve",
+        "Elektronik sertifika hizmet sağlayıcısının yükümlülükleri"
+      ]
+    },
+    {
+      "id": "kanun:5070:m:11",
+      "maddeKind": "madde",
+      "maddeNo": "11",
+      "heading": "Madde 11",
+      "text": "Elektronik sertifika hizmet sağlayıcısı;\n a) Nitelikli elektronik sertifika sahibinin talebi,\n b) Sağladığı nitelikli elektronik sertifikaya ilişkin veri tabanında bulunan bilgilerin sahteliğinin veya yanlışlığının ortaya çıkması veya bilgilerin değişmesi,\n c) Nitelikli elektronik sertifika sahibinin fiil ehliyetinin sınırlandığının, iflâsının veya gaipliğinin ya da ölümünün öğrenilmesi,\n Durumunda vermiş olduğu nitelikli elektronik sertifikaları derhâl iptal eder.\n Elektronik sertifika hizmet sağlayıcısı, nitelikli elektronik sertifikaların iptal edildiği zamanın tam olarak tespit edilmesine imkân veren ve üçüncü kişilerin hızlı ve güvenli bir biçimde ulaşabileceği bir kayıt oluşturur.\n Elektronik sertifika hizmet sağlayıcısı, faaliyetine son vermesi ve vermiş olduğu nitelikli elektronik sertifikaların başka bir elektronik sertifika hizmet sağlayıcısı tarafından kullanımının sağlanamaması durumunda vermiş olduğu nitelikli elektronik sertifikaları derhâl iptal eder.\n Elektronik sertifika hizmet sağlayıcısının faaliyetine Kurum tarafından son verilmesi halinde Kurum, faaliyetine son verilen elektronik sertifika hizmet sağlayıcısının vermiş olduğu nitelikli elektronik sertifikaların başka bir elektronik sertifika hizmet sağlayıcısına devredilmesine karar verir ve durumu ilgililere duyurur.\n Elektronik sertifika hizmet sağlayıcısı geçmişe yönelik olarak nitelikli elektronik sertifika iptal edemez.",
+      "preview": "Elektronik sertifika hizmet sağlayıcısı; a) Nitelikli elektronik sertifika sahibinin talebi, b) Sağladığı nitelikli elektronik sertifikaya i…",
+      "kitap": null,
+      "kisim": "İKİNCİ KISIM · Güvenli Elektronik İmza ve Sertifika Hizmetleri",
+      "bolum": "İKİNCİ BÖLÜM · Elektronik Sertifika Hizmet Sağlayıcısı, Nitelikli Elektronik Sertifika ve",
+      "ayirim": null,
+      "maddeBaslik": "Nitelikli elektronik sertifikaların iptal edilmesi",
+      "sectionPath": [
+        "İKİNCİ KISIM · Güvenli Elektronik İmza ve Sertifika Hizmetleri",
+        "İKİNCİ BÖLÜM · Elektronik Sertifika Hizmet Sağlayıcısı, Nitelikli Elektronik Sertifika ve",
+        "Nitelikli elektronik sertifikaların iptal edilmesi"
+      ]
+    },
+    {
+      "id": "kanun:5070:m:12",
+      "maddeKind": "madde",
+      "maddeNo": "12",
+      "heading": "Madde 12",
+      "text": "Elektronik sertifika hizmet sağlayıcısı;\n a) Elektronik sertifika talep eden kişiden, elektronik sertifika vermek için gerekli bilgiler hariç bilgi talep edemez ve bu bilgileri kişinin rızası dışında elde edemez,\n b) Elektronik sertifika sahibinin izni olmaksızın sertifikayı üçüncü kişilerin ulaşabileceği ortamlarda bulunduramaz,\n c) Elektronik sertifika talep eden kişinin yazılı rızası olmaksızın üçüncü kişilerin kişisel verileri elde etmesini engeller. Bu bilgileri sertifika sahibinin onayı olmaksızın üçüncü kişilere iletemez ve başka amaçlarla kullanamaz.",
+      "preview": "Elektronik sertifika hizmet sağlayıcısı; a) Elektronik sertifika talep eden kişiden, elektronik sertifika vermek için gerekli bilgiler hariç…",
+      "kitap": null,
+      "kisim": "İKİNCİ KISIM · Güvenli Elektronik İmza ve Sertifika Hizmetleri",
+      "bolum": "İKİNCİ BÖLÜM · Elektronik Sertifika Hizmet Sağlayıcısı, Nitelikli Elektronik Sertifika ve",
+      "ayirim": null,
+      "maddeBaslik": "Bilgilerin korunması",
+      "sectionPath": [
+        "İKİNCİ KISIM · Güvenli Elektronik İmza ve Sertifika Hizmetleri",
+        "İKİNCİ BÖLÜM · Elektronik Sertifika Hizmet Sağlayıcısı, Nitelikli Elektronik Sertifika ve",
+        "Bilgilerin korunması"
+      ]
+    },
+    {
+      "id": "kanun:5070:m:13",
+      "maddeKind": "madde",
+      "maddeNo": "13",
+      "heading": "Madde 13",
+      "text": "Elektronik sertifika hizmet sağlayıcısının, elektronik sertifika sahibine karşı sorumluluğu genel hükümlere tâbidir.\n Elektronik sertifika hizmet sağlayıcısı, bu Kanun veya bu Kanuna dayanılarak çıkarılan yönetmelik hükümlerinin ihlâli suretiyle üçüncü kişilere verdiği zararları tazminle yükümlüdür. Elektronik sertifika hizmet sağlayıcısı kusursuzluğunu ispat ettiği takdirde tazminat ödeme yükümlülüğü doğmaz.\n Elektronik sertifika hizmet sağlayıcısı, söz konusu yükümlülük ihlâlinin istihdam ettiği kişilerin davranışına dayanması hâlinde de zarardan sorumlu olup, elektronik sertifika hizmet sağlayıcısı, bu sorumluluğundan, Borçlar Kanununun 55 inci maddesinde öngörülen türden bir kurtuluş kanıtı getirerek kurtulamaz.\n Nitelikli elektronik sertifikanın içerdiği kullanım ve maddî kapsamına ilişkin sınırlamalar hariç olmak üzere, elektronik sertifika hizmet sağlayıcısının üçüncü kişilere ve nitelikli elektronik imza sahibine karşı sorumluluğunu ortadan kaldıran veya sınırlandıran her türlü şart geçersizdir.\n Elektronik sertifika hizmet sağlayıcısı, bu Kanundan doğan yükümlülüklerini yerine getirmemesi sonucu doğan zararların karşılanması amacıyla sertifika malî sorumluluk sigortası yaptırmak zorundadır. Sigortaya ilişkin usul ve esaslar Hazine Müsteşarlığının görüşü alınarak Kurum tarafından çıkarılacak yönetmelikle belirlenir.\n Bu maddede öngörülen sertifika malî sorumluluk sigortası Türkiye'de ilgili branşta çalışmaya yetkili olan sigorta şirketleri tarafından yapılır. Bu sigorta şirketleri sertifika malî sorumluluk sigortasını yapmakla yükümlüdürler. Bu yükümlülüğe uymayan sigorta şirketlerine Hazine Müsteşarlığınca sekizmilyar lira idarî para cezası verilir. Bu para cezasının tahsilinde ve cezaya itiraz usulünde 18 inci madde hükümleri uygulanır.\n Elektronik sertifika hizmet sağlayıcısı, nitelikli elektronik sertifikayı elektronik imza sahibine sigorta ettirerek teslim etmekle yükümlüdür.",
+      "preview": "Elektronik sertifika hizmet sağlayıcısının, elektronik sertifika sahibine karşı sorumluluğu genel hükümlere tâbidir. Elektronik sertifika hi…",
+      "kitap": null,
+      "kisim": "İKİNCİ KISIM · Güvenli Elektronik İmza ve Sertifika Hizmetleri",
+      "bolum": "İKİNCİ BÖLÜM · Elektronik Sertifika Hizmet Sağlayıcısı, Nitelikli Elektronik Sertifika ve",
+      "ayirim": null,
+      "maddeBaslik": "Hukukî sorumluluk",
+      "sectionPath": [
+        "İKİNCİ KISIM · Güvenli Elektronik İmza ve Sertifika Hizmetleri",
+        "İKİNCİ BÖLÜM · Elektronik Sertifika Hizmet Sağlayıcısı, Nitelikli Elektronik Sertifika ve",
+        "Hukukî sorumluluk"
+      ]
+    },
+    {
+      "id": "kanun:5070:m:14",
+      "maddeKind": "madde",
+      "maddeNo": "14",
+      "heading": "Madde 14",
+      "text": "Yabancı bir ülkede kurulu bir elektronik sertifika hizmet sağlayıcısı tarafından verilen elektronik sertifikaların hukukî sonuçları milletlerarası anlaşmalarla belirlenir.\n Yabancı bir ülkede kurulu bir elektronik sertifika hizmet sağlayıcısı tarafından verilen elektronik sertifikaların, Türkiye'de kurulu bir elektronik sertifika hizmet sağlayıcısı tarafından kabul edilmesi durumunda, bu elektronik sertifikalar nitelikli elektronik sertifika sayılır. Bu elektronik sertifikaların kullanılması sonucunda doğacak zararlardan, Türkiye'deki elektronik sertifika hizmet sağlayıcısı da sorumludur.",
+      "preview": "Yabancı bir ülkede kurulu bir elektronik sertifika hizmet sağlayıcısı tarafından verilen elektronik sertifikaların hukukî sonuçları milletle…",
+      "kitap": null,
+      "kisim": "İKİNCİ KISIM · Güvenli Elektronik İmza ve Sertifika Hizmetleri",
+      "bolum": "İKİNCİ BÖLÜM · Elektronik Sertifika Hizmet Sağlayıcısı, Nitelikli Elektronik Sertifika ve",
+      "ayirim": null,
+      "maddeBaslik": "Yabancı elektronik sertifikalar",
+      "sectionPath": [
+        "İKİNCİ KISIM · Güvenli Elektronik İmza ve Sertifika Hizmetleri",
+        "İKİNCİ BÖLÜM · Elektronik Sertifika Hizmet Sağlayıcısı, Nitelikli Elektronik Sertifika ve",
+        "Yabancı elektronik sertifikalar"
+      ]
+    },
+    {
+      "id": "kanun:5070:m:15",
+      "maddeKind": "madde",
+      "maddeNo": "15",
+      "heading": "Madde 15",
+      "text": "Elektronik sertifika hizmet sağlayıcılarının bu Kanunun uygulanmasına ilişkin faaliyet ve işlemlerinin denetimi Kurumca yerine getirilir.\n Kurum, gerekli gördüğü zamanlarda elektronik sertifika hizmet sağlayıcılarını denetleyebilir. Denetleme sırasında, denetleme yapmaya yetkili görevliler tarafından her türlü defter, belge ve kayıtların verilmesi, yönetim yerleri, binalar ve eklentilerine girme, yazılı ve sözlü bilgi alma, örnek alma ve işlem ve hesapları denetleme isteminin elektronik sertifika hizmet sağlayıcıları ve ilgililer tarafından yerine getirilmesi zorunludur.",
+      "preview": "Elektronik sertifika hizmet sağlayıcılarının bu Kanunun uygulanmasına ilişkin faaliyet ve işlemlerinin denetimi Kurumca yerine getirilir. Ku…",
+      "kitap": null,
+      "kisim": "ÜÇÜNCÜ KISIM · Denetim ve Ceza Hükümleri",
+      "bolum": null,
+      "ayirim": null,
+      "maddeBaslik": "Denetim",
+      "sectionPath": [
+        "ÜÇÜNCÜ KISIM · Denetim ve Ceza Hükümleri",
+        "Denetim"
+      ]
+    },
+    {
+      "id": "kanun:5070:m:16",
+      "maddeKind": "madde",
+      "maddeNo": "16",
+      "heading": "Madde 16",
+      "text": "(Değişik: 23/1/2008 – 5728/525 md.)\n Elektronik imza oluşturma amacı ile ilgili kişinin rızası dışında; imza oluşturma verisi veya imza oluşturma aracını elde eden, veren, kopyalayan ve bu araçları yeniden oluşturanlar ile izinsiz elde edilen imza oluşturma araçlarını kullanarak izinsiz elektronik imza oluşturanlar bir yıldan üç yıla kadar hapis ve elli günden az olmamak üzere adlî para cezasıyla cezalandırılırlar.\n Yukarıdaki fıkrada belirtilen suçlar elektronik sertifika hizmet sağlayıcısı çalışanları tarafından işlenirse bu cezalar yarısına kadar artırılır.",
+      "preview": "(Değişik: 23/1/2008 – 5728/525 md.) Elektronik imza oluşturma amacı ile ilgili kişinin rızası dışında; imza oluşturma verisi veya imza oluşt…",
+      "kitap": null,
+      "kisim": "ÜÇÜNCÜ KISIM · Denetim ve Ceza Hükümleri",
+      "bolum": null,
+      "ayirim": null,
+      "maddeBaslik": "İmza oluşturma verilerinin izinsiz kullanımı",
+      "sectionPath": [
+        "ÜÇÜNCÜ KISIM · Denetim ve Ceza Hükümleri",
+        "İmza oluşturma verilerinin izinsiz kullanımı"
+      ]
+    },
+    {
+      "id": "kanun:5070:m:17",
+      "maddeKind": "madde",
+      "maddeNo": "17",
+      "heading": "Madde 17",
+      "text": "(Değişik: 23/1/2008 – 5728/526 md.)\n Tamamen veya kısmen sahte elektronik sertifika oluşturanlar veya geçerli olarak oluşturulan elektronik sertifikaları taklit veya tahrif edenler ile bu elektronik sertifikaları bilerek kullananlar, iki yıldan beş yıla kadar hapis ve yüz günden az olmamak üzere adlî para cezasıyla cezalandırılır.\n Yukarıdaki fıkrada belirtilen suçlar elektronik sertifika hizmet sağlayıcısı çalışanları tarafından işlenirse bu cezalar yarısına kadar artırılır.",
+      "preview": "(Değişik: 23/1/2008 – 5728/526 md.) Tamamen veya kısmen sahte elektronik sertifika oluşturanlar veya geçerli olarak oluşturulan elektronik s…",
+      "kitap": null,
+      "kisim": "ÜÇÜNCÜ KISIM · Denetim ve Ceza Hükümleri",
+      "bolum": null,
+      "ayirim": null,
+      "maddeBaslik": "Elektronik sertifikalarda sahtekârlık",
+      "sectionPath": [
+        "ÜÇÜNCÜ KISIM · Denetim ve Ceza Hükümleri",
+        "Elektronik sertifikalarda sahtekârlık"
+      ]
+    },
+    {
+      "id": "kanun:5070:m:18",
+      "maddeKind": "madde",
+      "maddeNo": "18",
+      "heading": "Madde 18",
+      "text": "(Değişik: 23/1/2008 – 5728/527 md.)\n Bu Kanunun;\n a) 10 uncu maddesindeki yükümlülüklerinden herhangi birini yerine getirmeyen elektronik sertifika hizmet sağlayıcısına onbeşbin Türk Lirasından otuzbin Türk Lirasına kadar,\n b) 11 inci maddesindeki yükümlülüklerden herhangi birini yerine getirmeyen elektronik sertifika hizmet sağlayıcısına onikibin Türk Lirasından yirmibin Türk Lirasına kadar,\n c) 12 nci maddesi hükümlerine aykırı hareket edenler hakkında onbeşbin Türk Lirasından otuzbin Türk Lirasına kadar,\n d) 13 üncü maddesinin beşinci ve yedinci fıkralarındaki yükümlülükleri yerine getirmeyen elektronik sertifika hizmet sağlayıcısına onikibin Türk Lirasından yirmibin Türk Lirasına kadar,\n e) 15 inci maddesi hükümlerine aykırı hareket eden elektronik sertifika hizmet sağlayıcısına otuzbin Türk Lirasından ellibin Türk Lirasına kadar,\n idarî para cezası Telekomünikasyon Kurulu tarafından verilir. Bu madde hükümlerine göre ilgili tüzel kişi hakkında verilecek olan idarî para cezasının üst sınırı yetmişbeşbin Türk Lirasıdır.",
+      "preview": "(Değişik: 23/1/2008 – 5728/527 md.) Bu Kanunun; a) 10 uncu maddesindeki yükümlülüklerinden herhangi birini yerine getirmeyen elektronik sert…",
+      "kitap": null,
+      "kisim": "ÜÇÜNCÜ KISIM · Denetim ve Ceza Hükümleri",
+      "bolum": null,
+      "ayirim": null,
+      "maddeBaslik": "İdarî para cezaları",
+      "sectionPath": [
+        "ÜÇÜNCÜ KISIM · Denetim ve Ceza Hükümleri",
+        "İdarî para cezaları"
+      ]
+    },
+    {
+      "id": "kanun:5070:m:19",
+      "maddeKind": "madde",
+      "maddeNo": "19",
+      "heading": "Madde 19",
+      "text": "(Değişik: 23/1/2008 – 5728/528 md.)\n Bu Kanunda tanımlanan suçlar dolayısıyla ilgili tüzel kişiler hakkında Türk Ceza Kanununun 60 ıncı maddesi hükmüne göre tüzel kişilere özgü güvenlik tedbirlerine hükmolunur.\n İdarî para cezasını gerektiren eylemlerin işlendikleri tarihten itibaren geriye doğru üç yıl içinde üçüncü kez işlenmesi hâlinde Kurum tarafından elektronik sertifika hizmet sağlayıcısı tüzel kişinin faaliyet izninin iptaline karar verilir.\n\n DÖRDÜNCÜ KISIM\n Çeşitli Hükümler\n Yönetmelik",
+      "preview": "(Değişik: 23/1/2008 – 5728/528 md.) Bu Kanunda tanımlanan suçlar dolayısıyla ilgili tüzel kişiler hakkında Türk Ceza Kanununun 60 ıncı madde…",
+      "kitap": null,
+      "kisim": "ÜÇÜNCÜ KISIM · Denetim ve Ceza Hükümleri",
+      "bolum": null,
+      "ayirim": null,
+      "maddeBaslik": "Tüzel kişilere özgü güvenlik tedbirleri[4]",
+      "sectionPath": [
+        "ÜÇÜNCÜ KISIM · Denetim ve Ceza Hükümleri",
+        "Tüzel kişilere özgü güvenlik tedbirleri[4]"
+      ]
+    },
+    {
+      "id": "kanun:5070:m:20",
+      "maddeKind": "madde",
+      "maddeNo": "20",
+      "heading": "Madde 20",
+      "text": "(Değişik:28/1/2021-7263/12 md.)\n Bu Kanunun uygulanmasına ilişkin usul ve esaslar, ilgili kurum ve kuruluşların görüşü alınarak Kurum tarafından çıkarılacak yönetmeliklerle düzenlenir.",
+      "preview": "(Değişik:28/1/2021-7263/12 md.) Bu Kanunun uygulanmasına ilişkin usul ve esaslar, ilgili kurum ve kuruluşların görüşü alınarak Kurum tarafın…",
+      "kitap": null,
+      "kisim": "ÜÇÜNCÜ KISIM · Denetim ve Ceza Hükümleri",
+      "bolum": null,
+      "ayirim": null,
+      "maddeBaslik": "Tüzel kişilere özgü güvenlik tedbirleri[4]",
+      "sectionPath": [
+        "ÜÇÜNCÜ KISIM · Denetim ve Ceza Hükümleri",
+        "Tüzel kişilere özgü güvenlik tedbirleri[4]"
+      ]
+    },
+    {
+      "id": "kanun:5070:m:21",
+      "maddeKind": "madde",
+      "maddeNo": "21",
+      "heading": "Madde 21",
+      "text": "(Değişik:28/1/2021-7263/13 md.)\n Bu Kanunun 19 uncu maddesi hükmü, elektronik sertifika hizmet sağlama faaliyeti yerine getiren kamu kurum ve kuruluşları hakkında uygulanmaz.",
+      "preview": "(Değişik:28/1/2021-7263/13 md.) Bu Kanunun 19 uncu maddesi hükmü, elektronik sertifika hizmet sağlama faaliyeti yerine getiren kamu kurum ve…",
+      "kitap": null,
+      "kisim": "ÜÇÜNCÜ KISIM · Denetim ve Ceza Hükümleri",
+      "bolum": null,
+      "ayirim": null,
+      "maddeBaslik": "Kamu kurum ve kuruluşları hakkında uygulanmayacak hükümler",
+      "sectionPath": [
+        "ÜÇÜNCÜ KISIM · Denetim ve Ceza Hükümleri",
+        "Kamu kurum ve kuruluşları hakkında uygulanmayacak hükümler"
+      ]
+    },
+    {
+      "id": "kanun:5070:m:22",
+      "maddeKind": "madde",
+      "maddeNo": "22",
+      "heading": "Madde 22",
+      "text": "(22.4.1926 tarihli ve 818 sayılı Borçlar Kanunu ile ilgili olup yerine işlenmiştir.)",
+      "preview": "(22.4.1926 tarihli ve 818 sayılı Borçlar Kanunu ile ilgili olup yerine işlenmiştir.)",
+      "kitap": null,
+      "kisim": "ÜÇÜNCÜ KISIM · Denetim ve Ceza Hükümleri",
+      "bolum": null,
+      "ayirim": null,
+      "maddeBaslik": "Kamu kurum ve kuruluşları hakkında uygulanmayacak hükümler",
+      "sectionPath": [
+        "ÜÇÜNCÜ KISIM · Denetim ve Ceza Hükümleri",
+        "Kamu kurum ve kuruluşları hakkında uygulanmayacak hükümler"
+      ]
+    },
+    {
+      "id": "kanun:5070:m:23",
+      "maddeKind": "madde",
+      "maddeNo": "23",
+      "heading": "Madde 23",
+      "text": "(18.6.1927 tarihli ve 1086 sayılı Hukuk Usulü Muhakemeleri Kanunu ile ilgili olup yerine işlenmiştir.)",
+      "preview": "(18.6.1927 tarihli ve 1086 sayılı Hukuk Usulü Muhakemeleri Kanunu ile ilgili olup yerine işlenmiştir.)",
+      "kitap": null,
+      "kisim": "ÜÇÜNCÜ KISIM · Denetim ve Ceza Hükümleri",
+      "bolum": null,
+      "ayirim": null,
+      "maddeBaslik": "Kamu kurum ve kuruluşları hakkında uygulanmayacak hükümler",
+      "sectionPath": [
+        "ÜÇÜNCÜ KISIM · Denetim ve Ceza Hükümleri",
+        "Kamu kurum ve kuruluşları hakkında uygulanmayacak hükümler"
+      ]
+    },
+    {
+      "id": "kanun:5070:m:24",
+      "maddeKind": "madde",
+      "maddeNo": "24",
+      "heading": "Madde 24",
+      "text": "(5.4.1983 tarihli ve 2813 sayılı Telsiz Kanunu ile ilgili olup yerine işlenmiştir.)",
+      "preview": "(5.4.1983 tarihli ve 2813 sayılı Telsiz Kanunu ile ilgili olup yerine işlenmiştir.)",
+      "kitap": null,
+      "kisim": "ÜÇÜNCÜ KISIM · Denetim ve Ceza Hükümleri",
+      "bolum": null,
+      "ayirim": null,
+      "maddeBaslik": "Kamu kurum ve kuruluşları hakkında uygulanmayacak hükümler",
+      "sectionPath": [
+        "ÜÇÜNCÜ KISIM · Denetim ve Ceza Hükümleri",
+        "Kamu kurum ve kuruluşları hakkında uygulanmayacak hükümler"
+      ]
+    },
+    {
+      "id": "kanun:5070:m:ek:1",
+      "maddeKind": "ek",
+      "maddeNo": "1",
+      "heading": "Ek Madde 1",
+      "text": "(Ek:28/1/2021-7263/14 md.)\n Elektronik mühür, başka bir elektronik veriye eklenen veya elektronik veriyle mantıksal bağlantısı bulunan ve mühür sahibinin bilgilerini doğrulama amacıyla kullanılan elektronik veridir.\n Elektronik mühür sahibi; elektronik mührü oluşturan kamu kurum ve kuruluşları, kamu idareleri, kamu kurumu niteliğindeki meslek kuruluşları ve üst kuruluşları, kamu ve özel hukuk tüzel kişileri ile yargı mercileri ve noterliklerdir.\n Elektronik mühür, elektronik belgenin veya verinin mühür sahibi tarafından oluşturulduğunu, belgenin veya verinin kaynağını ve bütünlüğünü garanti eden delil kaydıdır.\n Elektronik mühür, resmî mühür dâhil her türlü fiziki mühür ile aynı hukuki niteliği haizdir.\n Elektronik mühür oluşturma amacı ile ilgili mühür sahibinin rızası veya talebi dışında; mühür oluşturma verisi veya mühür oluşturma aracını elde eden, veren, kopyalayan ve bu araçları yeniden oluşturanlar ile izinsiz elde edilen mühür oluşturma araçlarını kullanarak izinsiz elektronik mühür oluşturanlar bir yıldan üç yıla kadar hapis ve elli günden az olmamak üzere adlî para cezasıyla cezalandırılırlar. Suçun elektronik sertifika hizmet sağlayıcısı çalışanları tarafından işlenmesi halinde, bu cezalar yarısına kadar artırılır.\n Kanunlarda yer alan elektronik imzaya ilişkin hükümler, kıyasen elektronik mühür hakkında da uygulanır.\n Elektronik sertifika hizmet sağlayıcılarının kanunlarda yer alan elektronik imza ile ilgili hak, yetki ve yükümlülükleri, elektronik mühür hakkında da uygulanır. Bu yükümlülüklere aykırı hareket eden elektronik sertifika hizmet sağlayıcıları hakkında 18 inci maddede belirtilen idari para cezaları uygulanır.",
+      "preview": "(Ek:28/1/2021-7263/14 md.) Elektronik mühür, başka bir elektronik veriye eklenen veya elektronik veriyle mantıksal bağlantısı bulunan ve müh…",
+      "kitap": null,
+      "kisim": "ÜÇÜNCÜ KISIM · Denetim ve Ceza Hükümleri",
+      "bolum": null,
+      "ayirim": null,
+      "maddeBaslik": "Elektronik mühür",
+      "sectionPath": [
+        "ÜÇÜNCÜ KISIM · Denetim ve Ceza Hükümleri",
+        "Elektronik mühür"
+      ]
+    },
+    {
+      "id": "kanun:5070:m:ek:2",
+      "maddeKind": "ek",
+      "maddeNo": "2",
+      "heading": "Ek Madde 2",
+      "text": "(Ek:28/1/2021-7263/15 md.)\n İnternet sitesi kimlik doğrulama sertifikası, bir internet sitesi ile bu sitenin sahibi olan gerçek veya tüzel kişinin bilgilerini birbirine bağlayan elektronik kayıttır.\n Benzer altyapıyı kullanan diğer elektronik sertifikalar, elektronik veriyi şifreleme veya verinin bütünlüğünü, inkâr edilemezliğini ve kaynağını belirleme gibi amaçlarla kullanılmak üzere elektronik sertifika hizmet sağlayıcıları tarafından açık anahtar altyapısı vasıtasıyla üretilen sertifikalardır.\n Kanunlarda yer alan elektronik imzaya ilişkin hükümler, kıyasen internet sitesi kimlik doğrulama sertifikası ve benzer altyapıyı kullanan diğer elektronik sertifikalar hakkında da uygulanır.\n Elektronik sertifika hizmet sağlayıcılarının kanunlarda yer alan elektronik imza ile ilgili hak, yetki ve yükümlülükleri, internet sitesi kimlik doğrulama sertifikası ve benzer altyapıyı kullanan diğer elektronik sertifikalar hakkında da uygulanır. Bu yükümlülüklere aykırı hareket eden elektronik sertifika hizmet sağlayıcıları hakkında 18 inci maddede belirtilen idari para cezaları uygulanır.",
+      "preview": "(Ek:28/1/2021-7263/15 md.) İnternet sitesi kimlik doğrulama sertifikası, bir internet sitesi ile bu sitenin sahibi olan gerçek veya tüzel ki…",
+      "kitap": null,
+      "kisim": "ÜÇÜNCÜ KISIM · Denetim ve Ceza Hükümleri",
+      "bolum": null,
+      "ayirim": null,
+      "maddeBaslik": "İnternet sitesi kimlik doğrulama sertifikası ve diğer elektronik sertifikalar",
+      "sectionPath": [
+        "ÜÇÜNCÜ KISIM · Denetim ve Ceza Hükümleri",
+        "İnternet sitesi kimlik doğrulama sertifikası ve diğer elektronik sertifikalar"
+      ]
+    },
+    {
+      "id": "kanun:5070:m:25",
+      "maddeKind": "madde",
+      "maddeNo": "25",
+      "heading": "Madde 25",
+      "text": "Bu Kanun yayımı tarihinden altı ay sonra yürürlüğe girer.",
+      "preview": "Bu Kanun yayımı tarihinden altı ay sonra yürürlüğe girer.",
+      "kitap": null,
+      "kisim": "ÜÇÜNCÜ KISIM · Denetim ve Ceza Hükümleri",
+      "bolum": null,
+      "ayirim": null,
+      "maddeBaslik": "Yürürlük",
+      "sectionPath": [
+        "ÜÇÜNCÜ KISIM · Denetim ve Ceza Hükümleri",
+        "Yürürlük"
+      ]
+    },
+    {
+      "id": "kanun:5070:m:26",
+      "maddeKind": "madde",
+      "maddeNo": "26",
+      "heading": "Madde 26",
+      "text": "Bu Kanun hükümlerini Bakanlar Kurulu yürütür.\n\n 5070 SAYILI KANUNA EK VE DEĞİŞİKLİK GETİREN MEVZUATIN VEYA\n ANAYASA MAHKEMESİ TARAFINDAN İPTAL EDİLEN HÜKÜMLERİN\n YÜRÜRLÜĞE GİRİŞ TARİHİNİ GÖSTERİR LİSTE\n\n Değiştiren Kanunun/ KHK’nin/ İptal Eden Anayasa Mahkemesi Kararının Numarası\n 5070 Sayılı Kanunun Değişen veya İptal Edilen Maddeleri\n Yürürlüğe Giriş Tarihi\n\n 5728\n 16, 17, 18, 19\n 8/2/2008\n\n 6661\n 10\n 27/1/2016\n\n 6728\n 5\n 9/8/2016\n\n 7263\n 10, 20, 21, Ek Madde 1, Ek Madde 2\n 3/2/2021\n\n 7349\n 5\n 25/12/2021\n\n [1] 5/11/2008 tarihli ve 5809 sayılı Elektronik Haberleşme Kanununun 65 inci maddesinin üçüncü fıkrasında “Diğer mevzuatta geçen “Telekomünikasyon Kurumu” ibaresinden “Kurum”; “Telekomünikasyon Kurulu” ibaresinden de “Kurul” anlaşılır.” hükmü yer almaktadır.\n\n [2] 15/7/2016 tarihli ve 6728 sayılı Kanunun 45 inci maddesiyle, bu fıkrada yer alan “teminat sözleşmeleri,” ibaresi “banka teminat mektupları dışındaki teminat sözleşmeleri,” şeklinde değiştirilmiştir.\n\n [3] 22/12/2021 tarihli ve 7349 sayılı Kanunun 8 inci maddesiyle bu fıkraya “mektupları” ibaresinden sonra gelmek üzere “ve Türkiye’de yerleşik sigorta şirketleri tarafından düzenlenen kefalet senetleri” ibaresi eklenmiştir.\n\n [4] 23/1/2008 tarihli ve 5728 sayılı Kanunun 528 inci maddesiyle bu maddenin “İdarî nitelikteki suçların tekrarı ve kapatma” olan başlığı “Tüzel kişilere özgü güvenlik tedbirleri” olarak değiştirilmiş ve metne işlenmiştir.",
+      "preview": "Bu Kanun hükümlerini Bakanlar Kurulu yürütür. 5070 SAYILI KANUNA EK VE DEĞİŞİKLİK GETİREN MEVZUATIN VEYA ANAYASA MAHKEMESİ TARAFINDAN İPTAL…",
+      "kitap": null,
+      "kisim": "ÜÇÜNCÜ KISIM · Denetim ve Ceza Hükümleri",
+      "bolum": null,
+      "ayirim": null,
+      "maddeBaslik": "Yürütme",
+      "sectionPath": [
+        "ÜÇÜNCÜ KISIM · Denetim ve Ceza Hükümleri",
+        "Yürütme"
+      ]
+    }
+  ]
+}

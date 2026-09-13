@@ -1,0 +1,337 @@
+{
+  "id": "yonetmelik:38760",
+  "kind": "yonetmelik",
+  "no": "38760",
+  "title": "Hukuk Muhakemelerinde Ses ve Görüntü Nakledilmesi Yoluyla Duruşma İcrası Hakkında Yönetmelik",
+  "shortName": "e-Duruşma",
+  "aliases": [
+    "e-Duruşma",
+    "Hukuk Muhakemelerinde Ses ve Görüntü Nakledilmesi Yoluyla Duruşma İcrası Hakkında Yönetmelik",
+    "38760"
+  ],
+  "tur": 7,
+  "tertip": 5,
+  "sourceUrl": "https://www.mevzuat.gov.tr/mevzuat?MevzuatNo=38760&MevzuatTur=7&MevzuatTertip=5",
+  "kabulTarihi": null,
+  "maddeCount": 20,
+  "maddeler": [
+    {
+      "id": "yonetmelik:38760:m:1",
+      "maddeKind": "madde",
+      "maddeNo": "1",
+      "heading": "Madde 1",
+      "text": "(1) Bu Yönetmeliğin amacı, hukuk yargılamalarında aynı anda ses ve görüntü nakledilmesi yoluyla bulundukları yerden, tarafın veya vekilinin duruşmaya katılmalarına ve usul işlemleri yapabilmelerine; tanığın, bilirkişinin, uzmanın ve diğer ilgililerin dinlenilmelerine ilişkin usul ve esasları düzenlemektir.\n (2) Bu Yönetmelik, hukuk yargılamalarında aynı anda ses ve görüntü nakledilmesi yoluyla duruşma ve usul işlemleri yapılmasına ilişkin hususları kapsar.",
+      "preview": "(1) Bu Yönetmeliğin amacı, hukuk yargılamalarında aynı anda ses ve görüntü nakledilmesi yoluyla bulundukları yerden, tarafın veya vekilinin…",
+      "kitap": null,
+      "kisim": null,
+      "bolum": null,
+      "ayirim": null,
+      "maddeBaslik": null,
+      "sectionPath": []
+    },
+    {
+      "id": "yonetmelik:38760:m:2",
+      "maddeKind": "madde",
+      "maddeNo": "2",
+      "heading": "Madde 2",
+      "text": "(1) Bu Yönetmelik, 12/1/2011 tarihli ve 6100 sayılı Hukuk Muhakemeleri Kanununun 149 uncu maddesinin beşinci fıkrasına dayanılarak hazırlanmıştır.",
+      "preview": "(1) Bu Yönetmelik, 12/1/2011 tarihli ve 6100 sayılı Hukuk Muhakemeleri Kanununun 149 uncu maddesinin beşinci fıkrasına dayanılarak hazırlanm…",
+      "kitap": null,
+      "kisim": null,
+      "bolum": null,
+      "ayirim": null,
+      "maddeBaslik": "Dayanak",
+      "sectionPath": [
+        "Dayanak"
+      ]
+    },
+    {
+      "id": "yonetmelik:38760:m:3",
+      "maddeKind": "madde",
+      "maddeNo": "3",
+      "heading": "Madde 3",
+      "text": "(1) Bu Yönetmelikte geçen;\n a) Bakanlık: Adalet Bakanlığını,\n b) e-Duruşma: Hukuk yargılamalarında aynı anda ses ve görüntü nakledilmesi yoluyla bulundukları yerden, tarafın veya vekilinin duruşmaya katılmalarını ve usul işlemleri yapabilmelerini; tanığın, bilirkişinin, uzmanın ve diğer ilgililerin dinlenilmelerini,\n c) e-Duruşma Sistemi: Aynı anda ses ve görüntü nakledilmesi yoluyla duruşma işlemlerini yürütmek amacıyla Bakanlık tarafından Ulusal Yargı Ağı Bilişim Sistemine entegre olarak kurulan ve güvenliği sağlanan sistemi,\n ç) Kanun: 12/1/2011 tarihli ve 6100 sayılı Hukuk Muhakemeleri Kanununu,\n d) Merkezi Kayıt Sistemi: Mahkemece yargılamanın zorunlu kıldığı hâllerde e-Duruşmanın kaydedilip belirli süre ile saklandığı sistemi,\n e) UYAP: Ulusal Yargı Ağı Bilişim Sistemini,\n ifade eder.",
+      "preview": "(1) Bu Yönetmelikte geçen; a) Bakanlık: Adalet Bakanlığını, b) e-Duruşma: Hukuk yargılamalarında aynı anda ses ve görüntü nakledilmesi yoluy…",
+      "kitap": null,
+      "kisim": null,
+      "bolum": null,
+      "ayirim": null,
+      "maddeBaslik": "Tanımlar",
+      "sectionPath": [
+        "Tanımlar"
+      ]
+    },
+    {
+      "id": "yonetmelik:38760:m:4",
+      "maddeKind": "madde",
+      "maddeNo": "4",
+      "heading": "Madde 4",
+      "text": "(1) Bu Yönetmeliğin uygulanmasında hukuk yargılamasına hâkim olan tasarruf, taraflarca getirilme, taleple bağlılık, aleniyet ve usul ekonomisi ilkeleri, dürüst davranma ve doğruyu söyleme yükümlülüğü, hukuki dinlenilme hakkı, Türk Hukukunun resen uygulanması, hâkimin davayı aydınlatma ödevi ile yargılamanın sevk ve idaresine ilişkin ilkelerin yanı sıra aşağıdaki ilkeler göz önüne alınır:\n a) Bilgi güvenliğinin sağlanması.\n b) Kişisel verilerin korunması.\n c) Hizmet kalitesinin sağlanması.\n ç) Ulusal ve uluslararası standartların sağlanması.\n e-Duruşma Sisteminin standartları",
+      "preview": "(1) Bu Yönetmeliğin uygulanmasında hukuk yargılamasına hâkim olan tasarruf, taraflarca getirilme, taleple bağlılık, aleniyet ve usul ekonomi…",
+      "kitap": null,
+      "kisim": null,
+      "bolum": null,
+      "ayirim": null,
+      "maddeBaslik": "İlkeler",
+      "sectionPath": [
+        "İlkeler"
+      ]
+    },
+    {
+      "id": "yonetmelik:38760:m:5",
+      "maddeKind": "madde",
+      "maddeNo": "5",
+      "heading": "Madde 5",
+      "text": "(1) e-Duruşmada görüntü ile ses aynı anda güvenli bir şekilde nakledilir.\n (2) Görüntü, ilgilinin yüz ifadelerini, vücut hareketlerini, tavır ve davranışlarını gözlemlemeye; ses, ilgilinin duygularını anlamaya, söylediklerini anlaşılır ve net şekilde dinlemeye imkân verecek nitelikte olur.\n (3) e-Duruşma sırasında, bilgi, belge ve deliller UYAP üzerinden anında iletilebilir.\n İKİNCİ BÖLÜM\n e-Duruşma, Talep ve Değerlendirilmesi\n e-Duruşma",
+      "preview": "(1) e-Duruşmada görüntü ile ses aynı anda güvenli bir şekilde nakledilir. (2) Görüntü, ilgilinin yüz ifadelerini, vücut hareketlerini, tavır…",
+      "kitap": null,
+      "kisim": null,
+      "bolum": null,
+      "ayirim": null,
+      "maddeBaslik": "İlkeler",
+      "sectionPath": [
+        "İlkeler"
+      ]
+    },
+    {
+      "id": "yonetmelik:38760:m:6",
+      "maddeKind": "madde",
+      "maddeNo": "6",
+      "heading": "Madde 6",
+      "text": "(1) Hukuk yargılamalarında aynı anda ses ve görüntü nakledilmesi yoluyla, taraf veya vekili bu Yönetmelikte belirlenen yerden duruşmaya katılabilir ve usul işlemleri yapabilir; tanık, bilirkişi, uzman ve diğer ilgililer dinlenilebilir.",
+      "preview": "(1) Hukuk yargılamalarında aynı anda ses ve görüntü nakledilmesi yoluyla, taraf veya vekili bu Yönetmelikte belirlenen yerden duruşmaya katı…",
+      "kitap": null,
+      "kisim": null,
+      "bolum": null,
+      "ayirim": null,
+      "maddeBaslik": "İlkeler",
+      "sectionPath": [
+        "İlkeler"
+      ]
+    },
+    {
+      "id": "yonetmelik:38760:m:7",
+      "maddeKind": "madde",
+      "maddeNo": "7",
+      "heading": "Madde 7",
+      "text": "(1) Taraflardan birinin talebi üzerine; mahkeme, talep eden tarafın veya vekilinin, bu Yönetmelikte belirlenen yerden duruşmaya e-Duruşma Sistemi yoluyla katılmalarına ve usul işlemleri yapabilmelerine karar verebilir.\n (2) Taraflardan birinin talebi üzerine; mahkeme tanığın, bilirkişinin veya uzmanın bu Yönetmelikte belirlenen yerden e-Duruşma Sistemi yoluyla dinlenilmesine karar verebilir.\n e-Duruşma talep ve usulü",
+      "preview": "(1) Taraflardan birinin talebi üzerine; mahkeme, talep eden tarafın veya vekilinin, bu Yönetmelikte belirlenen yerden duruşmaya e-Duruşma Si…",
+      "kitap": null,
+      "kisim": null,
+      "bolum": null,
+      "ayirim": null,
+      "maddeBaslik": "Talep üzerine e-Duruşma",
+      "sectionPath": [
+        "Talep üzerine e-Duruşma"
+      ]
+    },
+    {
+      "id": "yonetmelik:38760:m:8",
+      "maddeKind": "madde",
+      "maddeNo": "8",
+      "heading": "Madde 8",
+      "text": "(1) Taraflardan biri veya vekili, duruşmaya e-Duruşma Sistemi yoluyla katılmayı, usul işlemleri yapmayı ya da tanığın, bilirkişinin veya uzmanın e-Duruşma Sistemi yoluyla dinlenilmesini gerekçesiyle birlikte mahkemeden talep edebilir.\n (2) e-Duruşma, UYAP mobil uygulamaları, avukat veya vatandaş portalı üzerinden duruşma gününden en az iki iş günü önce mahkemesinden talep edilir.\n e-Duruşma talebinin değerlendirilmesi",
+      "preview": "(1) Taraflardan biri veya vekili, duruşmaya e-Duruşma Sistemi yoluyla katılmayı, usul işlemleri yapmayı ya da tanığın, bilirkişinin veya uzm…",
+      "kitap": null,
+      "kisim": null,
+      "bolum": null,
+      "ayirim": null,
+      "maddeBaslik": "Talep üzerine e-Duruşma",
+      "sectionPath": [
+        "Talep üzerine e-Duruşma"
+      ]
+    },
+    {
+      "id": "yonetmelik:38760:m:9",
+      "maddeKind": "madde",
+      "maddeNo": "9",
+      "heading": "Madde 9",
+      "text": "(1) e-Duruşma talebi hakkında hâkim, duruşma gününden en az bir iş günü önce kabul veya ret hususunda karar verir. Bu karar kesindir.\n (2) Aşağıdaki sebeplerden birinin bulunması durumunda e-Duruşma talebi gerekçesi gösterilmek suretiyle reddedilebilir:\n a) Talebin süresinde yapılmaması.\n b) Talebin hakkın kötüye kullanılması veya yargılamayı sürüncemede bırakma amacı taşıması.\n c) e-Duruşma yapılmasını zorlaştıran hukuki, fiilî veya teknik engellerin bulunması.\n (3) Hastalığı, yaşlılığı veya engelliliği sebebiyle mahkemeye bizzat gelmesi durumunda zorluk yaşaması muhtemel olan taraf, tanık, bilirkişi, uzman ve diğer ilgililerin talepleri hâlinde öncelikle e-Duruşma Sistemi yoluyla dinlenilmelerine karar verilir.\n (4) e-Duruşma talebinin kabulüne veya reddine ilişkin karar, UYAP üzerinden veya diğer usullerle talepte bulunana bildirilir.",
+      "preview": "(1) e-Duruşma talebi hakkında hâkim, duruşma gününden en az bir iş günü önce kabul veya ret hususunda karar verir. Bu karar kesindir. (2) Aş…",
+      "kitap": null,
+      "kisim": null,
+      "bolum": null,
+      "ayirim": null,
+      "maddeBaslik": "Talep üzerine e-Duruşma",
+      "sectionPath": [
+        "Talep üzerine e-Duruşma"
+      ]
+    },
+    {
+      "id": "yonetmelik:38760:m:10",
+      "maddeKind": "madde",
+      "maddeNo": "10",
+      "heading": "Madde 10",
+      "text": "(1) Mahkeme; tanığın, bilirkişinin veya uzmanın e-Duruşma Sistemi yoluyla dinlenilmesine resen karar verebilir.\n (2) Mahkeme; tarafların üzerinde serbestçe tasarruf edemeyecekleri dava ve işlerde ilgililerin, e-Duruşma Sistemi yoluyla dinlenilmesine resen karar verebilir.\n (3) İsticvap olunacak veya yemin edecek taraf, mahkemenin bulunduğu il dışında oturuyor ve mahkemeye bizzat gelemiyor ise öncelikle e-Duruşma Sistemi yoluyla isticvap olunur veya yemin ettirilir.\n (4) Mahkemece, e-Duruşma Sistemi yoluyla dinlenilmesine karar verilen kişiye gönderilecek meşruhatlı davetiyeye ayrıca e-Duruşmaya ne şekilde katılacağı da yazılır.\n ÜÇÜNCÜ BÖLÜM\n e-Duruşmaya Katılma, e-Duruşmanın İcrası, Düzeni ve Kayıt\n e-Duruşmaya katılımın sağlanabileceği yer",
+      "preview": "(1) Mahkeme; tanığın, bilirkişinin veya uzmanın e-Duruşma Sistemi yoluyla dinlenilmesine resen karar verebilir. (2) Mahkeme; tarafların üzer…",
+      "kitap": null,
+      "kisim": null,
+      "bolum": null,
+      "ayirim": null,
+      "maddeBaslik": "Resen e-Duruşma",
+      "sectionPath": [
+        "Resen e-Duruşma"
+      ]
+    },
+    {
+      "id": "yonetmelik:38760:m:11",
+      "maddeKind": "madde",
+      "maddeNo": "11",
+      "heading": "Madde 11",
+      "text": "(1) e-Duruşma talep eden taraf vekili, avukatlık bürosundan, baro tarafından bu amaç için belirlenen bölümden, adliyede bu amaca tahsis edilen yerden veya beşinci fıkradaki şartları taşıyan başkaca uygun bir yerden duruşmaya katılabilir.\n (2) e-Duruşma talep eden veya e-Duruşma Sistemi yoluyla isticvap olunacak ya da yemin edecek taraf ile mahkemece e-Duruşma Sistemi yoluyla dinlenilmesine karar verilen tanık, bilirkişi, uzman ve diğer ilgililer bulundukları yerdeki adliye veya ceza infaz kurumlarında bu amaca tahsis edilen yerden duruşmaya katılabilir.\n (3) İsticvap olunacak veya yemin edecek olan hariç, taraf, vekili ile birlikte birinci fıkrada belirtilen yerlerden duruşmaya katılabilir.\n (4) Hastalığı, yaşlılığı veya engelliliği sebebiyle; e-Duruşma Sistemi yoluyla duruşmaya katılmasına ve usul işlemleri yapabilmesine karar verilen taraf ile e-Duruşma Sistemi yoluyla dinlenilmesine karar verilen tanık, bilirkişi, uzman veya diğer ilgililer bulundukları mesken ya da kurumdan duruşmaya katılabilir.\n (5) e-Duruşmaya katılımın sağlanacağı yerin, her türlü etki ve yönlendirmeden uzak, ilgilinin yüz ifadelerini, vücut hareketlerini, tavır ve davranışlarını gözlemlemeye, duygularını anlamaya ve söylediklerini net bir şekilde dinlemeye imkân sağlayacak nitelikte olması gerekir.\n e-Duruşmaya katılacakların kimlik tespiti",
+      "preview": "(1) e-Duruşma talep eden taraf vekili, avukatlık bürosundan, baro tarafından bu amaç için belirlenen bölümden, adliyede bu amaca tahsis edil…",
+      "kitap": null,
+      "kisim": null,
+      "bolum": null,
+      "ayirim": null,
+      "maddeBaslik": "Resen e-Duruşma",
+      "sectionPath": [
+        "Resen e-Duruşma"
+      ]
+    },
+    {
+      "id": "yonetmelik:38760:m:12",
+      "maddeKind": "madde",
+      "maddeNo": "12",
+      "heading": "Madde 12",
+      "text": "(1) e-Duruşmaya katılan taraf vekilinin kimlik tespiti; güvenli elektronik imza veya mobil imza ile UYAP kayıtları ve benzeri yöntemler kullanılarak mahkemece yapılır.\n (2) Mahkemece e-Duruşmaya katılmasına karar verilen taraf, tanık, bilirkişi, uzman ve diğer ilgililerin kimlik tespiti; bulundukları yerdeki adliye veya ceza infaz kurumunda e-Duruşma için tahsis edilen yerde görevlendirilecek yazı işleri müdürü, zabıt kâtibi veya ceza infaz kurumu görevlisi tarafından yapılır ve bu hususta bir tutanak düzenlenir.\n (3) Vekili ile birlikte 11 inci maddenin birinci fıkrasında belirtilen yerlerden e-Duruşmaya katılan tarafın kimlik tespiti, UYAP kayıtları incelenerek veya benzeri yöntemler kullanılarak mahkemece yapılır.\n (4) Hastalığı, yaşlılığı veya engelliliği sebebiyle bulunduğu mesken veya kurumdan e-Duruşmaya katılan taraf, tanık, bilirkişi, uzman ve diğer ilgililerin kimlik tespiti, güvenli elektronik imza veya mobil imza kullanılarak yapılır.\n e-Duruşma icrası",
+      "preview": "(1) e-Duruşmaya katılan taraf vekilinin kimlik tespiti; güvenli elektronik imza veya mobil imza ile UYAP kayıtları ve benzeri yöntemler kull…",
+      "kitap": null,
+      "kisim": null,
+      "bolum": null,
+      "ayirim": null,
+      "maddeBaslik": "Resen e-Duruşma",
+      "sectionPath": [
+        "Resen e-Duruşma"
+      ]
+    },
+    {
+      "id": "yonetmelik:38760:m:13",
+      "maddeKind": "madde",
+      "maddeNo": "13",
+      "heading": "Madde 13",
+      "text": "(1) e-Duruşma, mahkeme huzurunda yapılan duruşma ile aynı hukuki sonuçları doğurur.\n (2) Birden fazla vekil ile takip edilen dosyalarda e-Duruşmaya, ancak talepte bulunan ve talebi kabul edilen vekiller katılabilir.\n (3) e-Duruşma Sistemi yoluyla beyanda bulunan tarafın, vekilin ve diğer ilgililerin sözlü açıklamaları, Kanunun 154 üncü maddesinde belirtilen usul ve esaslara göre zabıt kâtibi aracılığıyla tutanağa yazdırılır.\n (4) e-Duruşma Sistemi yoluyla duruşmaya katılan taraf veya vekilince davaya son veren feragat, kabul ve sulhe ilişkin beyanda bulunulması hâlinde, mahkemece yeni bir duruşma günü tayin edilir ve tayin edilen günde feragat, kabul ve sulhe ilişkin bu işlem mahkeme huzurunda yenilenerek, duruşma tutanağı beyanda bulunan tarafından imza edilirse geçerli hâle gelir.\n (5) e-Duruşma Sistemi yoluyla beyanda bulunan tarafın, vekilin veya ilgililerin imzasının alınması gereken diğer durumlarda, mahkemece düzenlenen ve güvenli elektronik imza ile imzalanan duruşma tutanağı, e-Duruşmanın yapıldığı adliyeye elektronik ortamda gönderilir. e-Duruşmaya tahsis edilen yerde görevlendirilen yazı işleri müdürü veya zabıt kâtibi elektronik ortamda gelen duruşma tutanağının ilgili kısmına beyanda bulunanın imzasını alır ve evrakı tarayarak sistem üzerinden mahkemesine geri gönderir. Ayrıca el yazısıyla imzalanmış tutanak aslı da dosyasına, masrafı talep edenin yatırmış olduğu avanstan karşılanarak posta yoluyla gönderilir.\n (6) e-Duruşma Sistemi yoluyla beyanda bulunan tarafın, vekilin veya ilgililerin imzası, UYAP’a entegre olmuş güvenli elektronik imza ile alınabilir.\n (7) e-Duruşmaya katılan taraf veya vekili ile dinlenilen bilirkişi, uzman ve diğer ilgililer, UYAP üzerinden belge iletebilir.\n (8) e-Duruşma esnasında ses ve görüntü naklinin aynı anda sağlanamaması veya yaşanan kesintinin beyanların anlaşılmasını güçleştirmesi durumunda e-Duruşma yeniden açılır. Söz konusu aksaklığın devam etmesi hâlinde gerekçesi belirtilerek e-Duruşma sonlandırılır ve bu husus tutanağa geçirilir.\n (9) Taraf veya vekilin kusuru olmaksızın teknik sebeplerden dolayı e-Duruşmanın yapılamaması hâlinde, ilgili taraf veya vekil yönünden Kanunun 150 nci maddesinin birinci fıkrası uygulanmaz.\n (10) e-Duruşma öncesinde veya e-Duruşma sırasında ortaya çıkan teknik sorunlar ve bu sorunların kaynağı, istem hâlinde Bakanlık tarafından mahkemeye bildirilir.\n e-Duruşma düzeni",
+      "preview": "(1) e-Duruşma, mahkeme huzurunda yapılan duruşma ile aynı hukuki sonuçları doğurur. (2) Birden fazla vekil ile takip edilen dosyalarda e-Dur…",
+      "kitap": null,
+      "kisim": null,
+      "bolum": null,
+      "ayirim": null,
+      "maddeBaslik": "Resen e-Duruşma",
+      "sectionPath": [
+        "Resen e-Duruşma"
+      ]
+    },
+    {
+      "id": "yonetmelik:38760:m:14",
+      "maddeKind": "madde",
+      "maddeNo": "14",
+      "heading": "Madde 14",
+      "text": "(1) e-Duruşma düzeni, mahkeme huzurunda yapılan duruşma düzeniyle aynı usul ve esaslara tabidir.\n (2) e-Duruşma sırasında fotoğraf çekilemez ve hiçbir şekilde ses ve görüntü kaydı yapılamaz. Ancak, yargılamanın zorunlu kıldığı hâllerde, mahkemece kayıt yapılabilir. Kayıt ve yayın yasağına aykırı davranan kişi hakkında 26/9/2004 tarihli ve 5237 sayılı Türk Ceza Kanununun 286 ncı maddesi hükümleri uygulanır.",
+      "preview": "(1) e-Duruşma düzeni, mahkeme huzurunda yapılan duruşma düzeniyle aynı usul ve esaslara tabidir. (2) e-Duruşma sırasında fotoğraf çekilemez…",
+      "kitap": null,
+      "kisim": null,
+      "bolum": null,
+      "ayirim": null,
+      "maddeBaslik": "Resen e-Duruşma",
+      "sectionPath": [
+        "Resen e-Duruşma"
+      ]
+    },
+    {
+      "id": "yonetmelik:38760:m:15",
+      "maddeKind": "madde",
+      "maddeNo": "15",
+      "heading": "Madde 15",
+      "text": "(1) Mahkeme, yargılamanın zorunlu kıldığı hâllerde, gerekçesini belirterek e-Duruşmanın kayıt altına alınmasına karar verebilir.\n (2) e-Duruşma Sistemi ile elde edilen kayıtlar, mahkemece e-Duruşmanın yönetildiği bilgisayarda veya veri depolayabilen aygıta aktarılarak dosyasında saklanmak üzere Merkezi Kayıt Sisteminde iki hafta süre ile muhafaza edilir. Süre sonunda Merkezi Kayıt Sistemindeki bu veriler geri döndürülemeyecek şekilde silinir.\n (3) Bu şekilde alınan kayıtlar mahkemenin ve ilgili kişilerin açık izni olmadıkça hiçbir yerde yayımlanamaz.\n DÖRDÜNCÜ BÖLÜM\n Çeşitli ve Son Hükümler\n e-Duruşma Sisteminin kurulması ve idamesi",
+      "preview": "(1) Mahkeme, yargılamanın zorunlu kıldığı hâllerde, gerekçesini belirterek e-Duruşmanın kayıt altına alınmasına karar verebilir. (2) e-Duruş…",
+      "kitap": null,
+      "kisim": null,
+      "bolum": null,
+      "ayirim": null,
+      "maddeBaslik": "Kayıt alınması ve saklanması",
+      "sectionPath": [
+        "Kayıt alınması ve saklanması"
+      ]
+    },
+    {
+      "id": "yonetmelik:38760:m:16",
+      "maddeKind": "madde",
+      "maddeNo": "16",
+      "heading": "Madde 16",
+      "text": "(1) Bakanlık, e-Duruşma Sistemini kurar, geliştirir, sistemin güvenliğini, bakım ve idamesini sağlar.\n (2) e-Duruşma Sisteminin etkin, verimli ve güvenli bir şekilde yürütülmesi için kullanılacak sistemler ve cihazlar hakkındaki teknik kriterlere ilişkin usul ve esaslar Bakanlık tarafından belirlenir.\n (3) Bakanlık, önceden bildirim yapmak koşuluyla, e-Duruşma Sisteminin idamesi, güncellenmesi ve bakımına ilişkin işlemleri yerine getirmek için süreli veya süresiz kesinti yapabilir.\n (4) Bakanlık, e-Duruşma Sisteminin kurulması, idamesi ve geliştirilmesinde kamu veya özel kurum ya da kuruluşlarla iş birliği yapabilir.\n e-Duruşmaya katılanın yükümlülükleri",
+      "preview": "(1) Bakanlık, e-Duruşma Sistemini kurar, geliştirir, sistemin güvenliğini, bakım ve idamesini sağlar. (2) e-Duruşma Sisteminin etkin, veriml…",
+      "kitap": null,
+      "kisim": null,
+      "bolum": null,
+      "ayirim": null,
+      "maddeBaslik": "Kayıt alınması ve saklanması",
+      "sectionPath": [
+        "Kayıt alınması ve saklanması"
+      ]
+    },
+    {
+      "id": "yonetmelik:38760:m:17",
+      "maddeKind": "madde",
+      "maddeNo": "17",
+      "heading": "Madde 17",
+      "text": "(1) e-Duruşmaya katılanın yükümlülükleri şunlardır:\n a) Bakanlık tarafından belirlenen teknik kriterleri sağlamak.\n b) Bulunduğu yerin e-Duruşma Sistemi ile dinlenilmeye elverişli ve güvenli olmasını sağlamak.\n c) Mahkemece belirlenen gün ve saatte, e-Duruşmaya katılacağı yer ve e-Duruşma Sisteminde hazır bulunmak.",
+      "preview": "(1) e-Duruşmaya katılanın yükümlülükleri şunlardır: a) Bakanlık tarafından belirlenen teknik kriterleri sağlamak. b) Bulunduğu yerin e-Duruş…",
+      "kitap": null,
+      "kisim": null,
+      "bolum": null,
+      "ayirim": null,
+      "maddeBaslik": "Kayıt alınması ve saklanması",
+      "sectionPath": [
+        "Kayıt alınması ve saklanması"
+      ]
+    },
+    {
+      "id": "yonetmelik:38760:m:gecici:1",
+      "maddeKind": "gecici",
+      "maddeNo": "1",
+      "heading": "Geçici Madde 1",
+      "text": "(1) Bu Yönetmelikte düzenlenen ve elektronik ortamda yapılması gerekmekle birlikte henüz UYAP’ta bulunmayan işlemlere ilişkin hükümler, gerekli yazılım çalışması tamamlandıktan sonra uygulanır.",
+      "preview": "(1) Bu Yönetmelikte düzenlenen ve elektronik ortamda yapılması gerekmekle birlikte henüz UYAP’ta bulunmayan işlemlere ilişkin hükümler, gere…",
+      "kitap": null,
+      "kisim": null,
+      "bolum": null,
+      "ayirim": null,
+      "maddeBaslik": "Geçiş hükmü",
+      "sectionPath": [
+        "Geçiş hükmü"
+      ]
+    },
+    {
+      "id": "yonetmelik:38760:m:18",
+      "maddeKind": "madde",
+      "maddeNo": "18",
+      "heading": "Madde 18",
+      "text": "(1) Bu Yönetmelik yayımı tarihinde yürürlüğe girer.",
+      "preview": "(1) Bu Yönetmelik yayımı tarihinde yürürlüğe girer.",
+      "kitap": null,
+      "kisim": null,
+      "bolum": null,
+      "ayirim": null,
+      "maddeBaslik": "Yürürlük",
+      "sectionPath": [
+        "Yürürlük"
+      ]
+    },
+    {
+      "id": "yonetmelik:38760:m:19",
+      "maddeKind": "madde",
+      "maddeNo": "19",
+      "heading": "Madde 19",
+      "text": "(1) Bu Yönetmelik hükümlerini Adalet Bakanı yürütür.",
+      "preview": "(1) Bu Yönetmelik hükümlerini Adalet Bakanı yürütür.",
+      "kitap": null,
+      "kisim": null,
+      "bolum": null,
+      "ayirim": null,
+      "maddeBaslik": "Yürütme",
+      "sectionPath": [
+        "Yürütme"
+      ]
+    }
+  ]
+}

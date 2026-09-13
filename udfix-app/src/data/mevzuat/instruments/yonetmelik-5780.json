@@ -1,0 +1,1375 @@
+{
+  "id": "yonetmelik:5780",
+  "kind": "yonetmelik",
+  "no": "5780",
+  "title": "Türkiye Barolar Birliği Avukatlık Kanunu Yönetmeliği",
+  "shortName": "AvYön",
+  "aliases": [
+    "AvYön",
+    "TBB Yönetmeliği",
+    "Türkiye Barolar Birliği Avukatlık Kanunu Yönetmeliği",
+    "5780"
+  ],
+  "tur": 7,
+  "tertip": 5,
+  "sourceUrl": "https://www.mevzuat.gov.tr/mevzuat?MevzuatNo=5780&MevzuatTur=7&MevzuatTertip=5",
+  "kabulTarihi": null,
+  "maddeCount": 80,
+  "maddeler": [
+    {
+      "id": "yonetmelik:5780:m:1",
+      "maddeKind": "madde",
+      "maddeNo": "1",
+      "heading": "Madde 1",
+      "text": "Bu Yönetmelik, 19/3/1969 tarihli ve 1136 sayılı Avukatlık Kanununun uygulanması amacıyla düzenlenmiştir.",
+      "preview": "Bu Yönetmelik, 19/3/1969 tarihli ve 1136 sayılı Avukatlık Kanununun uygulanması amacıyla düzenlenmiştir.",
+      "kitap": null,
+      "kisim": null,
+      "bolum": null,
+      "ayirim": null,
+      "maddeBaslik": null,
+      "sectionPath": []
+    },
+    {
+      "id": "yonetmelik:5780:m:2",
+      "maddeKind": "madde",
+      "maddeNo": "2",
+      "heading": "Madde 2",
+      "text": "(Değişik:RG-27/6/2009-27271)\n Bu Yönetmelik, 1136 sayılı Avukatlık Kanununun uygulanmasına ilişkin usul ve esasları kapsar.\n Ancak, 1136 sayılı Kanunun 55 inci maddesine dayanılarak çıkarılan Türkiye Barolar Birliği Reklâm Yasağı Yönetmeliğinde, 176 ila 181 inci maddelerine dayanılarak çıkarılan Türkiye Barolar Birliği Adli Yardım Yönetmeliğinde, 44 üncü maddesinin (B) bendine dayanılarak çıkarılan Türkiye Barolar Birliği Avukatlık Ortaklığı Yönetmeliğinde, 27 nci maddesine dayanılarak çıkarılan Türkiye Barolar Birliği Staj Kredi Yönetmeliğinde ve 23 üncü maddesine dayanılarak çıkarılan Türkiye Barolar Birliği Avukatlık Staj Yönetmeliğinde düzenlenen hususları kapsamaz.",
+      "preview": "(Değişik:RG-27/6/2009-27271) Bu Yönetmelik, 1136 sayılı Avukatlık Kanununun uygulanmasına ilişkin usul ve esasları kapsar. Ancak, 1136 sayıl…",
+      "kitap": null,
+      "kisim": null,
+      "bolum": null,
+      "ayirim": null,
+      "maddeBaslik": "Kapsam",
+      "sectionPath": [
+        "Kapsam"
+      ]
+    },
+    {
+      "id": "yonetmelik:5780:m:3",
+      "maddeKind": "madde",
+      "maddeNo": "3",
+      "heading": "Madde 3",
+      "text": "Bu Yönetmelik, Avukatlık Kanununun 182 nci maddesi gereğince çıkarılmıştır.",
+      "preview": "Bu Yönetmelik, Avukatlık Kanununun 182 nci maddesi gereğince çıkarılmıştır.",
+      "kitap": null,
+      "kisim": null,
+      "bolum": null,
+      "ayirim": null,
+      "maddeBaslik": "Hukuki Dayanak",
+      "sectionPath": [
+        "Hukuki Dayanak"
+      ]
+    },
+    {
+      "id": "yonetmelik:5780:m:4",
+      "maddeKind": "madde",
+      "maddeNo": "4",
+      "heading": "Madde 4",
+      "text": "(Değişik:RG-27/6/2009-27271) Avukatlık Kanununun 4 üncü maddesinde yazılı şartları haiz olanlar levhasına yazılmak üzere, diledikleri baroya başvurabilirler.\n Başvurma dilekçe ile olur. Dilekçeye aşağıdaki belgeler ikişer adet eklenir;\n a) Nüfus cüzdanının onaylanmış örneği,\n b) Türk veya yabancı hukuk fakültelerinden birinin bitirildiğini gösteren belge ya da lisans diplomasının aslı veya onaylanmış örneği,\n Yabancı bir memleket hukuk fakültesini bitirmiş olanlar ayrıca Türkiye hukuk fakültelerinden herhangi birinin programına göre eksik kalan derslerden usulüne uygun başarılı sınav vermiş olduklarını belgelendirmek zorundadırlar.\n c) Staj bitim belgesi,\n d) (Mülga:RG-27/6/2009-27271)\n e) Levhasına yazılmak üzere başvurulan baro bölgesinde ikâmet edildiğine dair belge,\n f) Avukat adayının Avukatlık Kanununun 5 inci maddesinde yazılı avukatlığa kabule engel halleri bulunmadığına dair imzalı beyanı,\n g) Bu Yönetmeliğin 6 ncı maddesinde belirtilen yerden alınacak ve başvuranın Avukatlık Kanununun 5 inci maddesinin (a) bendinde yazılı suçlardan hükümlü bulunmadığını gösteren arşivli adlî sicil belgesi,\n h) Başvurunun yapıldığı baro levhasında kayıtlı iki avukat tarafından ayrı ayrı düzenlenmiş, başvuranın ahlaki durumu hakkında tanıtma kağıdı,\n ı) Başvuru sahibinin avukatlığı sürekli olarak gereği gibi yapmasına engel vücut veya akılca malul olmadığına dair resmî tabipliklerin birinden alınacak rapor.\n Baro yönetim kurulu sağlık incelemesinin baro merkezinin bulunduğu resmi bir hastanenin sağlık kurulu tarafından yapılmasını da isteyebilir.",
+      "preview": "(Değişik:RG-27/6/2009-27271) Avukatlık Kanununun 4 üncü maddesinde yazılı şartları haiz olanlar levhasına yazılmak üzere, diledikleri baroya…",
+      "kitap": null,
+      "kisim": null,
+      "bolum": "İKİNCİ BÖLÜM · Avukatlık Mesleğine Kabul",
+      "ayirim": null,
+      "maddeBaslik": "Başvurma ve Eklenecek Belgeler",
+      "sectionPath": [
+        "İKİNCİ BÖLÜM · Avukatlık Mesleğine Kabul",
+        "Başvurma ve Eklenecek Belgeler"
+      ]
+    },
+    {
+      "id": "yonetmelik:5780:m:5",
+      "maddeKind": "madde",
+      "maddeNo": "5",
+      "heading": "Madde 5",
+      "text": "a) Bu Yönetmeliğin 4 üncü maddesinde yazılı belgelerden, staj dosyasında bulunanların ayrıca başvuru dilekçesine eklenmesi gerekmez.\n b) Avukatlık Kanununun 4 üncü maddesi yoluyla levhaya yazılma isteğinde bulunanlar için; bu Yönetmeliğin 4 üncü maddesinin ikinci fıkrasının (a), (b), (e) ve (f) bentlerinde yazılı belgeler aranır. Bu kişilerin sicil özetleri baro başkanlıklarınca ilgili dairelerden istenir.\n c) Yabancı hukuk fakültesini bitiren yabancı avukatlardan Türk uyruğuna geçmiş olanlar için, 4 üncü maddenin ikinci fıkrasının (Değişik ibare:RG-27/6/2009-27271) (c) bendinde yazılı belgeler aranmaz. Ancak bu kişiler başvuru dilekçelerine, ayrıca aşağıdaki belgeleri de eklemek zorundadırlar.\n (1) Yabancı ülkede yazılı bulunduğu baro veya benzeri kuruluş tarafından verilmiş, beş yıl süre ile mahkemelerin her derecesinde avukatlık yaptığını gösteren belge.\n (2) Başvurduğu baro yönetim kurulu tarafından yapılmış; başvuru sahibinin avukatlık, mesleğini yürütmeye yeterli ölçüde Türkçe bildiğini kanıtlayan sınav başarı belgesi; bu sınav yazılı ve sözlü olarak iki aşamada yapılır.\n (3)Türkiye Hukuk Fakültelerinden herhangi birinin programına göre noksan kalan derslerden usulüne uygun olarak yapılan sınavı başarı ile verdiğine dair resmi belge.",
+      "preview": "a) Bu Yönetmeliğin 4 üncü maddesinde yazılı belgelerden, staj dosyasında bulunanların ayrıca başvuru dilekçesine eklenmesi gerekmez. b) Avuk…",
+      "kitap": null,
+      "kisim": null,
+      "bolum": "İKİNCİ BÖLÜM · Avukatlık Mesleğine Kabul",
+      "ayirim": null,
+      "maddeBaslik": "İstisnalar",
+      "sectionPath": [
+        "İKİNCİ BÖLÜM · Avukatlık Mesleğine Kabul",
+        "İstisnalar"
+      ]
+    },
+    {
+      "id": "yonetmelik:5780:m:6",
+      "maddeKind": "madde",
+      "maddeNo": "6",
+      "heading": "Madde 6",
+      "text": "Avukatın levhasına yazılma isteğinde bulunduğu baro başkanlığınca Cumhuriyet Savcılığı aracılığı ile adlî sicil müdürlüğünden adlî sicil araştırması yapılır.",
+      "preview": "Avukatın levhasına yazılma isteğinde bulunduğu baro başkanlığınca Cumhuriyet Savcılığı aracılığı ile adlî sicil müdürlüğünden adlî sicil ara…",
+      "kitap": null,
+      "kisim": null,
+      "bolum": "İKİNCİ BÖLÜM · Avukatlık Mesleğine Kabul",
+      "ayirim": null,
+      "maddeBaslik": "Adli Sicil Araştırması",
+      "sectionPath": [
+        "İKİNCİ BÖLÜM · Avukatlık Mesleğine Kabul",
+        "Adli Sicil Araştırması"
+      ]
+    },
+    {
+      "id": "yonetmelik:5780:m:7",
+      "maddeKind": "madde",
+      "maddeNo": "7",
+      "heading": "Madde 7",
+      "text": "Staj bitim belgesi aldığı barodan başka bir baro levhasına yazılma isteminde bulunanların staj dosyaları ilgili barodan getirtilerek incelenir ve bu Yönetmeliğin 4 üncü maddesine göre eksik olan belgeler tamamlattırılır.",
+      "preview": "Staj bitim belgesi aldığı barodan başka bir baro levhasına yazılma isteminde bulunanların staj dosyaları ilgili barodan getirtilerek incelen…",
+      "kitap": null,
+      "kisim": null,
+      "bolum": "İKİNCİ BÖLÜM · Avukatlık Mesleğine Kabul",
+      "ayirim": null,
+      "maddeBaslik": "Staj Dosyasının Getirtilmesi",
+      "sectionPath": [
+        "İKİNCİ BÖLÜM · Avukatlık Mesleğine Kabul",
+        "Staj Dosyasının Getirtilmesi"
+      ]
+    },
+    {
+      "id": "yonetmelik:5780:m:8",
+      "maddeKind": "madde",
+      "maddeNo": "8",
+      "heading": "Madde 8",
+      "text": "Bu Yönetmeliğin 4 üncü, 5 inci ve 7 nci maddesine göre eklenmesi gereken belgelerde herhangi bir eksiklik bulunmadığı ve adlî sicil araştırması ile sağlık incelemesi sonucu alındığı takdirde, başvuru dilekçeleri baro başkanlığı tarafından kabul edilerek deftere yazılır.\n Başvuru dilekçesinin kayıt tarihini ve numarasını tespit eden iki nüsha belge düzenlenir. Bu belgelerden biri adaya verilir, diğeri başvuru dilekçesine eklenir. Avukatlık Kanununun 7 nci maddesinde yazılı bir aylık süre, bu tarihten itibaren işlemeye başlar.\n Belgelerde eksiklik bulunması halinde başvuru dilekçesi, belgeler tamamlanıncaya kadar kabul edilmez.",
+      "preview": "Bu Yönetmeliğin 4 üncü, 5 inci ve 7 nci maddesine göre eklenmesi gereken belgelerde herhangi bir eksiklik bulunmadığı ve adlî sicil araştırm…",
+      "kitap": null,
+      "kisim": null,
+      "bolum": "İKİNCİ BÖLÜM · Avukatlık Mesleğine Kabul",
+      "ayirim": null,
+      "maddeBaslik": "Başvuru Dilekçesinin Kaydı",
+      "sectionPath": [
+        "İKİNCİ BÖLÜM · Avukatlık Mesleğine Kabul",
+        "Başvuru Dilekçesinin Kaydı"
+      ]
+    },
+    {
+      "id": "yonetmelik:5780:m:9",
+      "maddeKind": "madde",
+      "maddeNo": "9",
+      "heading": "Madde 9",
+      "text": "Başvuruyu kabul eden baro yönetim kurulu, başvuranın avukatlık mesleğine kabul ile levhasına yazılması konusunda, başvurma dilekçesinin kabul edildiği tarihten itibaren bir ay içinde gerekçeli kararını verir. Karar ile kararın dayanağı dosya, karar tarihinden itibaren onbeş gün içinde Türkiye Barolar Birliğine gönderilir. 19/12/2001 tarihli ve 24615 sayılı Resmî Gazete’de yayımlanan Türkiye Barolar Birliği Avukatlık Staj Yönetmeliğinin 4 üncü maddesi uyarınca evvelce Türkiye Barolar Birliğine gönderilen evrakın, Birliğe gönderilen dosyaya konmasına lüzum yoktur. Türkiye Barolar Birliğince düzenlenecek Avukatlık ruhsatname bedeli ve ruhsat harcının ödendiğine ilişkin belgeler ile avukatın başı açık ve erkek avukatların kravatlı olarak çekilmiş (6x9) büyüklüğünde iki adet cübbeli fotoğrafı da Türkiye Barolar Birliğine gönderilen dosyaya eklenir.\n Türkiye Barolar Birliği, kararın kendisine ulaştığı tarihten itibaren bir ay içinde uygun bulma ya da bulmama konusunda bir karar verir ve bu kararını, dosya ile birlikte, onaylanmak üzere Adalet Bakanlığına gönderir. Türkiye Barolar Birliğinin bu kararı, Adalet Bakanlığına ulaştığı tarihten itibaren iki ay içinde Bakanlıkça karar verilmediği veya onaylandığı takdirde kesinleşir. Adalet Bakanlığı, uygun bulmadığı kararları bir daha görüşülmek üzere, uygun bulmama gerekçesi ile birlikte Türkiye Barolar Birliğine geri gönderir. Geri gönderilen bu kararlar, Türkiye Barolar Birliği Yönetim Kurulunca üçte iki çoğunlukla aynen kabul edildiği takdirde onaylanmış, aksi halde onaylanmamış sayılır; sonuç Türkiye Barolar Birliği tarafından Adalet Bakanlığına ve ilgili baroya bildirilir.\n Adalet Bakanlığının ikinci fıkra uyarınca verdiği kararlara karşı Türkiye Barolar Birliği, aday ve ilgili baro; Adalet Bakanlığının uygun bulmayıp bir daha görüşülmek üzere geri göndermesi üzerine Türkiye Barolar Birliğince verilen kararlara karşı ise, Adalet Bakanlığı, aday ve ilgili baro idari yargı merciine başvurabilirler.\n Baro kesinleşen kararı derhal uygulamak zorundadır.",
+      "preview": "Başvuruyu kabul eden baro yönetim kurulu, başvuranın avukatlık mesleğine kabul ile levhasına yazılması konusunda, başvurma dilekçesinin kabu…",
+      "kitap": null,
+      "kisim": null,
+      "bolum": "İKİNCİ BÖLÜM · Avukatlık Mesleğine Kabul",
+      "ayirim": null,
+      "maddeBaslik": "İsteğin Kabulü",
+      "sectionPath": [
+        "İKİNCİ BÖLÜM · Avukatlık Mesleğine Kabul",
+        "İsteğin Kabulü"
+      ]
+    },
+    {
+      "id": "yonetmelik:5780:m:10",
+      "maddeKind": "madde",
+      "maddeNo": "10",
+      "heading": "Madde 10",
+      "text": "Baro yönetim kurulunca, levhaya yazılma isteğinin reddedilmesine veya kovuşturma sonucuna kadar beklenmesine karar verilmesi halinde aday, gerekçeli kararın tebliğinden itibaren onbeş gün içinde kararı veren baro vasıtasıyla Türkiye Barolar Birliğine itiraz edebilir. Adaya itiraz edildiğini belirten bir belge verilir.\n Posta gideri itirazcıdan alınır.",
+      "preview": "Baro yönetim kurulunca, levhaya yazılma isteğinin reddedilmesine veya kovuşturma sonucuna kadar beklenmesine karar verilmesi halinde aday, g…",
+      "kitap": null,
+      "kisim": null,
+      "bolum": "İKİNCİ BÖLÜM · Avukatlık Mesleğine Kabul",
+      "ayirim": null,
+      "maddeBaslik": "İsteğin Reddi ve İtiraz",
+      "sectionPath": [
+        "İKİNCİ BÖLÜM · Avukatlık Mesleğine Kabul",
+        "İsteğin Reddi ve İtiraz"
+      ]
+    },
+    {
+      "id": "yonetmelik:5780:m:11",
+      "maddeKind": "madde",
+      "maddeNo": "11",
+      "heading": "Madde 11",
+      "text": "İtiraz, Türkiye Barolar Birliği Yönetim Kurulu tarafından, dosyanın geldiği tarihten itibaren bir ay içinde incelenerek, karara bağlanır. Türkiye Barolar Birliği tarafından, bu süre içinde karar verilmezse itiraz reddedilmiş sayılır. Türkiye Barolar Birliği Yönetim Kurulunca yapılan incelemede belgelerde eksiklik tespit edilerek, eksikliklerin tamamlattırılması veya tamamlatılmak üzere dosyanın iadesine karar verilmesi halinde bu bir aylık süre; eksik belgelerin tamamlandığı veya dosyanın Türkiye Barolar Birliğine intikal ettirildiği tarihten itibaren başlar.\n Türkiye Barolar Birliğinin; itirazın kabul veya reddi hakkındaki kararları onaylanmak üzere, karar tarihinden itibaren bir ay içinde Adalet Bakanlığına gönderilir. Bu kararlar, Adalet Bakanlığına ulaştığı tarihten itibaren iki ay içinde Bakanlıkça bir karar verilmediği veya onaylandığı takdirde kesinleşir. Adalet Bakanlığınca yapılan incelemede belgelerde eksiklik tespit edilerek, eksikliklerin tamamlattırılması veya tamamlatılmak üzere dosyanın iadesine karar verilmesi halinde bu iki aylık süre; eksik belgelerin tamamlandığı veya dosyanın Adalet Bakanlığına tekrar intikal ettirildiği tarihten itibaren başlar.\n Adalet Bakanlığı uygun bulmadığı kararları bir daha görüşülmek üzere, gerekçesi ile birlikte Türkiye Barolar Birliğine geri gönderir. Geri gönderilen kararlar, Türkiye Barolar Birliği Yönetim Kurulunca 2/3 çoğunlukla aynen kabul edildiği takdirde onaylanmış, aksi halde onaylanmamış sayılır. Sonuç Türkiye Barolar Birliği tarafından Adalet Bakanlığına ve ilgili baroya bildirilir.\n Adalet Bakanlığının bu madde uyarınca verdiği kararlara karşı Türkiye Barolar Birliği, aday ve ilgili baro; Adalet Bakanlığının uygun bulmayıp bir daha görüşülmek üzere geri göndermesi üzerine Türkiye Barolar Birliğince verilen kararlara karşı ise, Adalet Bakanlığı, aday ve ilgili baro idari yargı merciine başvurabilirler.",
+      "preview": "İtiraz, Türkiye Barolar Birliği Yönetim Kurulu tarafından, dosyanın geldiği tarihten itibaren bir ay içinde incelenerek, karara bağlanır. Tü…",
+      "kitap": null,
+      "kisim": null,
+      "bolum": "İKİNCİ BÖLÜM · Avukatlık Mesleğine Kabul",
+      "ayirim": null,
+      "maddeBaslik": "İtirazın İncelenmesi",
+      "sectionPath": [
+        "İKİNCİ BÖLÜM · Avukatlık Mesleğine Kabul",
+        "İtirazın İncelenmesi"
+      ]
+    },
+    {
+      "id": "yonetmelik:5780:m:12",
+      "maddeKind": "madde",
+      "maddeNo": "12",
+      "heading": "Madde 12",
+      "text": "İtirazın kabulüne ilişkin kararın Adalet Bakanlığınca onaylanması veya onaylanmış sayılması yoluyla kesinleşmesi halinde bu Yönetmeliğin 9 uncu, 10 uncu ve 13 üncü maddeleri gereğince işlem yapılarak aday baro levhasına yazılır, ruhsatnamesi verilir.\n İtirazın reddine ilişkin karar Adalet Bakanlığınca onaylanarak veya onaylanmış sayılarak kesinleştiği takdirde adayın kimliği, Türkiye Barolar Birliği tarafından gereği yapılmak üzere tüm barolara duyurulur.\n Adayın kimliği Türkiye Barolar Birliğinde bu iş için tutulan özel bir deftere yazılır.\n Ret ve bekleme sebepleri kalkmadıkça hiç bir baro o kimseyi levhasına yazamaz.",
+      "preview": "İtirazın kabulüne ilişkin kararın Adalet Bakanlığınca onaylanması veya onaylanmış sayılması yoluyla kesinleşmesi halinde bu Yönetmeliğin 9 u…",
+      "kitap": null,
+      "kisim": null,
+      "bolum": "İKİNCİ BÖLÜM · Avukatlık Mesleğine Kabul",
+      "ayirim": null,
+      "maddeBaslik": "İtirazın Sonuçları",
+      "sectionPath": [
+        "İKİNCİ BÖLÜM · Avukatlık Mesleğine Kabul",
+        "İtirazın Sonuçları"
+      ]
+    },
+    {
+      "id": "yonetmelik:5780:m:13",
+      "maddeKind": "madde",
+      "maddeNo": "13",
+      "heading": "Madde 13",
+      "text": "Avukatlık ruhsatnamesi ve avukat kimliği, Türkiye Barolar Birliği tarafından tek tip olarak bastırılır ve düzenlenir.\n Türkiye Barolar Birliği, mesleğe kabul edilen adayın dosyasındaki bilgilere göre ruhsatnameyi düzenleyerek, soğuk damga ile fotoğrafını mühürler ve ruhsatname defterine kaydeder. Türkiye Barolar Birliği Başkanınca imzalanan ruhsatname, baro başkanı tarafından imzalanmak üzere barosuna gönderilir ve imza tamamlandıktan sonra ilgilisine verilir. Mesleğe kabul edilen adayın avukat kimliği de, ruhsatname ile birlikte ilgilisine verilmek üzere Türkiye Barolar Birliği tarafından düzenlenerek barosuna gönderilir.\n Adayın Avukatlık Kanununun 9 uncu maddesi uyarınca \"hukuka, ahlaka, mesleğin onuruna ve kurallarına uygun davranacağıma namusum ve vicdanım üzerine ant içerim\" şeklinde ant içtiği ve ruhsatnamesinin verildiğine ilişkin bir tutanak düzenlenerek bu tutanak, baro yönetim kurulu üyeleri ve ant içen avukat tarafından imzalanır.\n Ant içmeyen adaya ruhsatnamesi verilmez.\n Aday, ruhsatnamesini aldıktan sonra, Avukat unvanını kazanır.\n Durum ve ruhsatnamenin alındığına ilişkin belge, Türkiye Barolar Birliğine gönderilir. Türkiye Barolar Birliği arşiv kartı bu yazıya eklenir.\n Türkiye Barolar Birliği tarafından tek tip olarak bastırılan ve barolardan gelen bilgilere göre düzenlenen kimlikler ilgilisine verilmek üzere barosuna gönderilir.\n Avukat kimliği resmi belge niteliğindedir.",
+      "preview": "Avukatlık ruhsatnamesi ve avukat kimliği, Türkiye Barolar Birliği tarafından tek tip olarak bastırılır ve düzenlenir. Türkiye Barolar Birliğ…",
+      "kitap": null,
+      "kisim": null,
+      "bolum": "İKİNCİ BÖLÜM · Avukatlık Mesleğine Kabul",
+      "ayirim": null,
+      "maddeBaslik": "Avukatlık Ruhsatnamesi, Ant ve Avukat Kimliği",
+      "sectionPath": [
+        "İKİNCİ BÖLÜM · Avukatlık Mesleğine Kabul",
+        "Avukatlık Ruhsatnamesi, Ant ve Avukat Kimliği"
+      ]
+    },
+    {
+      "id": "yonetmelik:5780:m:14",
+      "maddeKind": "madde",
+      "maddeNo": "14",
+      "heading": "Madde 14",
+      "text": "Dava açmaya yeteneği olan herkes kendi davasına ait evrakı düzenleyebilir, davasını bizzat açabilir ve işini takip edebilir.\n Kanun işlerinde ve hukuki meselelerde mütalaa vermek, mahkeme, hakem ve yargı yetkisini taşıyan diğer organlar huzurunda gerçek ve tüzel kişilere ait hakları dava etmek ve savunmak, adli işlemleri takip etmek, bu işlere ait bütün evrakı düzenlemek yalnız baroda kayıtlı avukatlar tarafından yapılabilir.\n Yukarıda belirtilen konularda, avukatlar dışında hiç kimse evrak düzenleyemez ve takipte bulunamaz. Bu konularda iş takibi yapamaz.",
+      "preview": "Dava açmaya yeteneği olan herkes kendi davasına ait evrakı düzenleyebilir, davasını bizzat açabilir ve işini takip edebilir. Kanun işlerinde…",
+      "kitap": null,
+      "kisim": null,
+      "bolum": "ÜÇÜNCÜ BÖLÜM · Yalnız Avukatların Yapabileceği İşler ve Kılık",
+      "ayirim": null,
+      "maddeBaslik": "Yalnız Avukatların Yapabileceği İşler",
+      "sectionPath": [
+        "ÜÇÜNCÜ BÖLÜM · Yalnız Avukatların Yapabileceği İşler ve Kılık",
+        "Yalnız Avukatların Yapabileceği İşler"
+      ]
+    },
+    {
+      "id": "yonetmelik:5780:m:15",
+      "maddeKind": "madde",
+      "maddeNo": "15",
+      "heading": "Madde 15",
+      "text": "29/6/1956 tarihli ve 6762 sayılı Türk Ticaret Kanununun 272 nci maddesinde öngörülen esas sermaye miktarının beş katı veya daha fazla esas sermayesi bulunan anonim şirketler ile üye sayısı yüz veya daha fazla olan yapı kooperatifleri sözleşmeli bir avukat bulundurmak zorundadır.\n (Mülga ikinci fıkra:RG-27/6/2009-27271)\n (Mülga üçüncü fıkra:RG-27/6/2009-27271)\n (Mülga dördüncü fıkra:RG-27/6/2009-27271)",
+      "preview": "29/6/1956 tarihli ve 6762 sayılı Türk Ticaret Kanununun 272 nci maddesinde öngörülen esas sermaye miktarının beş katı veya daha fazla esas s…",
+      "kitap": null,
+      "kisim": null,
+      "bolum": "ÜÇÜNCÜ BÖLÜM · Yalnız Avukatların Yapabileceği İşler ve Kılık",
+      "ayirim": null,
+      "maddeBaslik": "Kooperatif ve Anonim Şirketler",
+      "sectionPath": [
+        "ÜÇÜNCÜ BÖLÜM · Yalnız Avukatların Yapabileceği İşler ve Kılık",
+        "Kooperatif ve Anonim Şirketler"
+      ]
+    },
+    {
+      "id": "yonetmelik:5780:m:16",
+      "maddeKind": "madde",
+      "maddeNo": "16",
+      "heading": "Madde 16",
+      "text": "(Mülga:RG-14/4/2017-30038)(2)",
+      "preview": "(Mülga:RG-14/4/2017-30038)(2)",
+      "kitap": null,
+      "kisim": null,
+      "bolum": "ÜÇÜNCÜ BÖLÜM · Yalnız Avukatların Yapabileceği İşler ve Kılık",
+      "ayirim": null,
+      "maddeBaslik": "Uzlaşma Müzakereleri",
+      "sectionPath": [
+        "ÜÇÜNCÜ BÖLÜM · Yalnız Avukatların Yapabileceği İşler ve Kılık",
+        "Uzlaşma Müzakereleri"
+      ]
+    },
+    {
+      "id": "yonetmelik:5780:m:17",
+      "maddeKind": "madde",
+      "maddeNo": "17",
+      "heading": "Madde 17",
+      "text": "(Mülga:RG-14/4/2017-30038)(2)",
+      "preview": "(Mülga:RG-14/4/2017-30038)(2)",
+      "kitap": null,
+      "kisim": null,
+      "bolum": "ÜÇÜNCÜ BÖLÜM · Yalnız Avukatların Yapabileceği İşler ve Kılık",
+      "ayirim": null,
+      "maddeBaslik": "Uzlaşma Tutanağının Şekli",
+      "sectionPath": [
+        "ÜÇÜNCÜ BÖLÜM · Yalnız Avukatların Yapabileceği İşler ve Kılık",
+        "Uzlaşma Tutanağının Şekli"
+      ]
+    },
+    {
+      "id": "yonetmelik:5780:m:18",
+      "maddeKind": "madde",
+      "maddeNo": "18",
+      "heading": "Madde 18",
+      "text": "Avukatın çıkaracağı vekaletname örneğinde; vekaletnameyi düzenleyen merciin adı, kayıt numarası, düzenleme tarihi ile avukatın adı, soyadı, vergi numarası, imzası ve ayrıca vekil edenin adı, soyadı, adresi ve yetki kapsamının ne olduğunun bulunması zorunludur.\n Avukatlar veya avukatlık ortaklıkları, başkasını tevkil etme yetkisini taşıdıkları tüm vekaletnameleri kapsayacak şekilde tek bir genel ya da ayrı ayrı özel yetki belgesi düzenleyerek; bir başka avukatı veya avukatlık ortaklığını müvekkilleri adına vekil tayin edebilirler. Vekaletname hükmünde olan bu yetki belgesi; tüm yargı mercileri ile resmi ve özel kişi, kurum ve kuruluşlar için hukuken vekaletname işlev ve etkisi taşır. Yetki belgesinde yetki verenin ve yetkilendirilenin adı, soyadı, barosu, sicil ve vergi numarası ve bu maddenin birinci fıkrasında yazılı hususların yer alması gereklidir.\n Vekaletname ve yetki belgesinin asıl ve örnekleri ibraz edilirken, vekaletname pulu yapıştırılması zorunludur. (Ek cümle:RG-3/5/2012-28281)Vekalet pulunun elektronik ortamda tedavülü ile elektronik ortamda vekaletname sunulan mercilerin vekaletname pulu bedelinin ödendiğini elektronik ortamda teyit etmelerini sağlayacak usul ve esaslar Adalet Bakanlığı ve Türkiye Barolar Birliği tarafından müştereken belirlenir.\n Baro tarafından 1/4/1929 tarihli ve 1412 sayılı Ceza Muhakemeleri Usulü Kanunu ve adli yardımdan görevlendirilen avukat, görevlendirildiği işle ilgili olarak başka bir avukata yetki veremez, bu konuda yetki ilgili baroya aittir.",
+      "preview": "Avukatın çıkaracağı vekaletname örneğinde; vekaletnameyi düzenleyen merciin adı, kayıt numarası, düzenleme tarihi ile avukatın adı, soyadı,…",
+      "kitap": null,
+      "kisim": null,
+      "bolum": "ÜÇÜNCÜ BÖLÜM · Yalnız Avukatların Yapabileceği İşler ve Kılık",
+      "ayirim": null,
+      "maddeBaslik": "Vekaletname Örneği ve Yetki Belgesi",
+      "sectionPath": [
+        "ÜÇÜNCÜ BÖLÜM · Yalnız Avukatların Yapabileceği İşler ve Kılık",
+        "Vekaletname Örneği ve Yetki Belgesi"
+      ]
+    },
+    {
+      "id": "yonetmelik:5780:m:19",
+      "maddeKind": "madde",
+      "maddeNo": "19",
+      "heading": "Madde 19",
+      "text": "Vekaletname örneklerinin asıllarına uygunluğunu onaylama şekli, Avukatlık Kanununun 56 ncı maddesine göre avukatların örneklerinin aslına uygunluğunu onaylamağa yetkili oldukları diğer belgelerde de uygulanır.\n Avukat, usulüne uygun olarak düzenlenen ve kendisine verilmiş olan vekaletnamelerin örneklerini çıkarıp aslına uygunluğunu imzası ile onaylayarak kullanabilir. Asıllarının verilmesi kanunda açıkça öngörülmeyen hallerde avukat, takip ettiği işlerde, aslı kendisinde olan her türlü kağıt ve belgenin örneğini de onaylayarak kullanabilir. Avukatın onayladığı bu örnekler ile vekaletname örnekleri bütün yargı mercileri, resmi daire ve kurumlar ile gerçek ve tüzel kişiler için resmi örnek hükmündedir.\n Aslı olmayan vekaletname veya diğer kağıt ve belgelerin örneğini onaylayan ya da aslına aykırı örnek veren avukat, Avukatlık Kanununun 56 ncı maddesinin üçüncü fıkrasına göre cezalandırılır.\n Avukatlar, vekalet aldıkları işlerde, ilgili yargı mercii aracılığı ile ve bu yargı merciinin tebligat konusunda bir kararı olmaksızın, diğer tarafa adli kağıt ve belge tebliğ edebilirler. Tebliğ edilen kağıt ve belgelerin birer nüshası, gerekli harç, vergi ve resim ödenmek şartıyla, ilgili yargı merciinin dosyasına konur.",
+      "preview": "Vekaletname örneklerinin asıllarına uygunluğunu onaylama şekli, Avukatlık Kanununun 56 ncı maddesine göre avukatların örneklerinin aslına uy…",
+      "kitap": null,
+      "kisim": null,
+      "bolum": "ÜÇÜNCÜ BÖLÜM · Yalnız Avukatların Yapabileceği İşler ve Kılık",
+      "ayirim": null,
+      "maddeBaslik": "Onaylama ve Tebligat Yapabilme Hakkı",
+      "sectionPath": [
+        "ÜÇÜNCÜ BÖLÜM · Yalnız Avukatların Yapabileceği İşler ve Kılık",
+        "Onaylama ve Tebligat Yapabilme Hakkı"
+      ]
+    },
+    {
+      "id": "yonetmelik:5780:m:20",
+      "maddeKind": "madde",
+      "maddeNo": "20",
+      "heading": "Madde 20",
+      "text": "Avukatlar, mahkemelerde, Türkiye Barolar Birliği ve baro disiplin kurullarında görev yaparken ve avukatlık ant içme törenlerinde, Türkiye Barolar Birliğinin belirlediği resmi kılığı giymek zorundadırlar.\n Türkiye Barolar Birliğince belirlenen resmi kılık, Türkiye Barolar Birliği ve baro genel kurullarında ya da yargı kuruluşları mensuplarının resmi kılıkları ile katıldıkları resmi törenlerde de giyilebilir.\n Avukatlar, mahkemelerde münhasıran vekalet görevi ifa ettikleri davalar dışında resmi kılık giyemezler.\n Avukatlar, mesleki ve yargısal faaliyetleri sırasında meslek kurallarının 20 nci maddesine uygun davranmak zorundadırlar.",
+      "preview": "Avukatlar, mahkemelerde, Türkiye Barolar Birliği ve baro disiplin kurullarında görev yaparken ve avukatlık ant içme törenlerinde, Türkiye Ba…",
+      "kitap": null,
+      "kisim": null,
+      "bolum": "ÜÇÜNCÜ BÖLÜM · Yalnız Avukatların Yapabileceği İşler ve Kılık",
+      "ayirim": null,
+      "maddeBaslik": "Kılık",
+      "sectionPath": [
+        "ÜÇÜNCÜ BÖLÜM · Yalnız Avukatların Yapabileceği İşler ve Kılık",
+        "Kılık"
+      ]
+    },
+    {
+      "id": "yonetmelik:5780:m:21",
+      "maddeKind": "madde",
+      "maddeNo": "21",
+      "heading": "Madde 21",
+      "text": "Nakil için başvuru, avukatın levhasına yazılmak istediği baro yönetim kuruluna yazı ile yapılır.\n Başvuru yazısında, istekte bulunan avukatın levhasında kayıtlı olduğu baronun adı, baro sicil numarası, ruhsatname tarih ve numarası, sosyal güvenlik yönünden hangi statüye tabi bulunduğu, levhasına yazılmak istediği baro bölgesindeki tebligat adresini bildirmesi şarttır.\n Başvuru yazısına; ikametgah belgesi, avukatların başı açık ve erkekler için kravatlı çekilmiş iki adet 6x9 büyüklüğünde cübbeli fotoğrafı eklenir.",
+      "preview": "Nakil için başvuru, avukatın levhasına yazılmak istediği baro yönetim kuruluna yazı ile yapılır. Başvuru yazısında, istekte bulunan avukatın…",
+      "kitap": null,
+      "kisim": null,
+      "bolum": "DÖRDÜNCÜ BÖLÜM · Başka Baroya Nakil",
+      "ayirim": null,
+      "maddeBaslik": "Başvurma",
+      "sectionPath": [
+        "DÖRDÜNCÜ BÖLÜM · Başka Baroya Nakil",
+        "Başvurma"
+      ]
+    },
+    {
+      "id": "yonetmelik:5780:m:22",
+      "maddeKind": "madde",
+      "maddeNo": "22",
+      "heading": "Madde 22",
+      "text": "Başvurunun yapıldığı baro yönetim kurulu nakil istemi üzerine;\n a) Avukatın levhasına yazılı olduğu barodan, avukatın nakil isteğinde bulunduğunu da bildirerek; baroya aidat borcu, yaşlılık sigortası prim borcu olup olmadığını, disiplin kovuşturması altında bulunup bulunmadığını ve gerekli gördüğü diğer hususları sorar.\n b) Türkiye Barolar Birliğine avukatın nakil yoluyla levhasına yazılmak istediğini bildirir, ruhsatname tarih ve numarasını belirterek, avukatın bu konudaki bildirisini doğrular.\n c) Gerekli gördüğü diğer incelemeleri yapar.",
+      "preview": "Başvurunun yapıldığı baro yönetim kurulu nakil istemi üzerine; a) Avukatın levhasına yazılı olduğu barodan, avukatın nakil isteğinde bulundu…",
+      "kitap": null,
+      "kisim": null,
+      "bolum": "DÖRDÜNCÜ BÖLÜM · Başka Baroya Nakil",
+      "ayirim": null,
+      "maddeBaslik": "İnceleme",
+      "sectionPath": [
+        "DÖRDÜNCÜ BÖLÜM · Başka Baroya Nakil",
+        "İnceleme"
+      ]
+    },
+    {
+      "id": "yonetmelik:5780:m:23",
+      "maddeKind": "madde",
+      "maddeNo": "23",
+      "heading": "Madde 23",
+      "text": "Baro yönetim kurulu, avukatın, istek sırasında levhasına yazılı olduğu baroya yıllık kesenek borcu, Sosyal Sigortalar Kurumuna (Mülga ibare:RG-27/6/2009-27271) (…) prim borcu olduğunu veya disiplin kovuşturması altında bulunduğunu tespit ederse, bu engeller ortadan kalkıncaya kadar işlem yapılmamasını kararlaştırır ve avukata, nakil isteği hakkında bir karar verilebilmesi için borçlarının ödenmesinin ve/veya disiplin kovuşturmasının sonuçlanmasının gerektiğini tebliğ eder.\n Avukatın; levhasına yazılı olduğu baroya yukarıda sözü edilen türde borçları yoksa ya da yapılan tebligat üzerine bu borçlarının ödendiği, avukatın borçlu olduğu baro tarafından düzenlenecek bir belge ile kanıtlanmışsa; avukat disiplin kovuşturması altında bulunmuyor ya da hakkındaki disiplin kovuşturmasının sonuçlandığı, kovuşturma yapan baronun bu konudaki yazısı ile kanıtlanmışsa; nakil isteminde bulunulan baro yönetim kurulu nakil istemini inceler ve istemin kabulü veya reddine dair bir karar verir.",
+      "preview": "Baro yönetim kurulu, avukatın, istek sırasında levhasına yazılı olduğu baroya yıllık kesenek borcu, Sosyal Sigortalar Kurumuna (Mülga ibare:…",
+      "kitap": null,
+      "kisim": null,
+      "bolum": "DÖRDÜNCÜ BÖLÜM · Başka Baroya Nakil",
+      "ayirim": null,
+      "maddeBaslik": "Karar",
+      "sectionPath": [
+        "DÖRDÜNCÜ BÖLÜM · Başka Baroya Nakil",
+        "Karar"
+      ]
+    },
+    {
+      "id": "yonetmelik:5780:m:24",
+      "maddeKind": "madde",
+      "maddeNo": "24",
+      "heading": "Madde 24",
+      "text": "İstemin kabulü kararı ile birlikte avukat o baronun levhasına yazılmış olur. Baro levhasına yazılma günü, derhal Türkiye Barolar Birliğine ve avukatın önceden yazılı olduğu baroya bildirilir. Avukatın nakil öncesi kayıtlı bulunduğu baro bu bildirim üzerine, naklin gerçekleştiği baro levhasına kayıt tarihi itibariyle avukatın adını kendi baro levhasından siler. Avukatın baro sicil ve sigorta dosyaları naklettiği baroya gönderilir. Avukatın naklettiği baronun adı, Türkiye Barolar Birliğine ve Adalet Bakanlığına bildirilir.\n Avukattan, naklettiği baro levhasına kaydı yapılırken giriş keseneği alınır. (Ek cümle:RG-28/3/2023-32146)(4) Deprem, sel gibi doğal afetlerden kaynaklı mücbir sebep hallerinde giriş keseneği, avukatın nakil olduğu Baro Yönetim Kurulu kararı ile alınmayabilir.\n (Mülga:RG-19/08/2005-25911)",
+      "preview": "İstemin kabulü kararı ile birlikte avukat o baronun levhasına yazılmış olur. Baro levhasına yazılma günü, derhal Türkiye Barolar Birliğine v…",
+      "kitap": null,
+      "kisim": null,
+      "bolum": "DÖRDÜNCÜ BÖLÜM · Başka Baroya Nakil",
+      "ayirim": null,
+      "maddeBaslik": "İstemin Kabulü ve Reddi",
+      "sectionPath": [
+        "DÖRDÜNCÜ BÖLÜM · Başka Baroya Nakil",
+        "İstemin Kabulü ve Reddi"
+      ]
+    },
+    {
+      "id": "yonetmelik:5780:m:25",
+      "maddeKind": "madde",
+      "maddeNo": "25",
+      "heading": "Madde 25",
+      "text": "Avukatın baro ve Türkiye Barolar Birliği keseneklerini ödememekte direndiği ya da topluluk sigorta primlerini zamanında ödemediği veya Avukatlık Kanununun 72 nci maddesinde yazılı levhadan silinmeyi gerektiren nedenlerden birinin varlığının tespit edilmesi ya da avukatın yazılı istemi üzerine; levhasına yazılı olduğu baro yönetim kurulu tarafından, avukatın adının levhadan silinmesine karar verilir.\n Baro yönetim kurulu levhadan silme kararı almadan önce avukata tebligat yaparak tebliğden itibaren on gün içinde cevap vermesini ister; bu tebligatta avukata ayrıca, gün ve saati yazılarak dinlenmek üzere yönetim kurulunda hazır bulunması da bildirilir.\n Avukatın yazılı cevabı alındıktan, sözlü açıklamaları dinlendikten veya süresi içinde yazılı cevap vermediği ya da yapılan çağrıya uymadığı bir tutanakla tespit edildikten sonra, baro yönetim kurulu levhadan silme hakkında bir karar verir. Karar gerekçeli olur ve avukata tebliğ edilir. Bu karara karşı Avukatlık Kanununun 71 inci maddesinin üçüncü fıkrası hükmü uyarınca işlem yapılır.",
+      "preview": "Avukatın baro ve Türkiye Barolar Birliği keseneklerini ödememekte direndiği ya da topluluk sigorta primlerini zamanında ödemediği veya Avuka…",
+      "kitap": null,
+      "kisim": null,
+      "bolum": "BEŞİNCİ BÖLÜM · Levhadan ve Avukatlık Ortaklığı Sicilinden Silinme ve Yeniden Yazılma",
+      "ayirim": null,
+      "maddeBaslik": "Levhadan ve Avukatlık Ortaklığı Sicilinden Silinme",
+      "sectionPath": [
+        "BEŞİNCİ BÖLÜM · Levhadan ve Avukatlık Ortaklığı Sicilinden Silinme ve Yeniden Yazılma",
+        "Levhadan ve Avukatlık Ortaklığı Sicilinden Silinme"
+      ]
+    },
+    {
+      "id": "yonetmelik:5780:m:26",
+      "maddeKind": "madde",
+      "maddeNo": "26",
+      "heading": "Madde 26",
+      "text": "Avukat, Avukatlık Kanununun 74 üncü ve bu Yönetmeliğin 27 nci maddelerine göre levhadan silinmiş olmadıkça, silinmesini gerektiren hallerin sona erdiğini kanıtlayarak yeniden levhaya yazılma isteminde bulunabilir.\n Baro yönetim kurulu başvuru üzerine, öncelikle avukatın bu Yönetmeliğin 4 üncü maddesinde yazılı belgelerden hangilerini tekrar baroya vermesi gerektiğine karar verir. Tekrar yazılma isteminde bulunan avukat dilekçesine;\n a) Levhadan silinmesine sebep olan olayın ortadan kalktığını kanıtlayan belgeyi,\n b) Levhadan silinme kararının kesinleşme tarihi ile tekrar yazılma istemi tarihi arasında bir yıldan fazla bir süre geçmiş ise bu süre içinde meşgul olduğu işi kanıtlayan belge ile levhasına yazılmak istediği baro bölgesinde ikamet ettiğine ilişkin belgeyi eklemek zorundadır. Bu durumdakiler hakkında baro, ayrıca adli sicil incelemesi de yapar.",
+      "preview": "Avukat, Avukatlık Kanununun 74 üncü ve bu Yönetmeliğin 27 nci maddelerine göre levhadan silinmiş olmadıkça, silinmesini gerektiren hallerin…",
+      "kitap": null,
+      "kisim": null,
+      "bolum": "BEŞİNCİ BÖLÜM · Levhadan ve Avukatlık Ortaklığı Sicilinden Silinme ve Yeniden Yazılma",
+      "ayirim": null,
+      "maddeBaslik": "Yeniden Yazılma",
+      "sectionPath": [
+        "BEŞİNCİ BÖLÜM · Levhadan ve Avukatlık Ortaklığı Sicilinden Silinme ve Yeniden Yazılma",
+        "Yeniden Yazılma"
+      ]
+    },
+    {
+      "id": "yonetmelik:5780:m:27",
+      "maddeKind": "madde",
+      "maddeNo": "27",
+      "heading": "Madde 27",
+      "text": "Baro yönetim kurulu aşağıdaki durumların varlığı halinde avukatın bir daha yazılmamak üzere levhadan silinmesine karar verir.\n a) Yargı organları tarafından verilen ceza kararı ile meslekten çıkarılanlar,\n b) Haklarında Avukatlık Kanununun 135 inci maddesinin beş numaralı bendi uyarınca meslekten çıkarma cezası verilmiş olanlar,\n c) Avukatlık Kanununun 5 inci maddesinin (a) bendinde yazılı olan suçlardan hüküm giyenler.\n Adı levhadan silinen avukat, Avukatlık Kanununun 71 inci maddesinde yazıldığı şekilde bu karara itiraz edebilir.\n Avukatlık Kanununun 8 inci maddesinin altıncı ve yedinci fıkraları hükmü ile bu Yönetmeliğin 11 inci maddesi bu konuda da kıyasen uygulanır.\n Avukatlık Kanununun 74 üncü maddesine göre adları baro levhasından silinenlerin kimlikleri ruhsatnamenin geri alınıp alınmadığı da belirtilmek suretiyle Türkiye Barolar Birliği ve Adalet Bakanlığına bildirilir. (Ek cümle:RG-5/12/2015-29553) İlgilinin sicil durumu, Baro Başkanlığınca Ulusal Yargı Ağı Bilişim Sistemine (UYAP) işlenir.\n (Değişik:RG-5/12/2015-29553) Durum, Türkiye Barolar Birliğince Resmî Gazete’de yayımlanır.",
+      "preview": "Baro yönetim kurulu aşağıdaki durumların varlığı halinde avukatın bir daha yazılmamak üzere levhadan silinmesine karar verir. a) Yargı organ…",
+      "kitap": null,
+      "kisim": null,
+      "bolum": "BEŞİNCİ BÖLÜM · Levhadan ve Avukatlık Ortaklığı Sicilinden Silinme ve Yeniden Yazılma",
+      "ayirim": null,
+      "maddeBaslik": "Bir Daha Yazılmamak Üzere Levhadan Silinme",
+      "sectionPath": [
+        "BEŞİNCİ BÖLÜM · Levhadan ve Avukatlık Ortaklığı Sicilinden Silinme ve Yeniden Yazılma",
+        "Bir Daha Yazılmamak Üzere Levhadan Silinme"
+      ]
+    },
+    {
+      "id": "yonetmelik:5780:m:28",
+      "maddeKind": "madde",
+      "maddeNo": "28",
+      "heading": "Madde 28",
+      "text": "(Değişik:RG-2/9/2020-31232)\n Avukatlık Kanununun 77 nci maddesinin birinci fıkrasının ilk cümlesine göre bölgesi içinde en az otuz avukat olan her il merkezinde kurulmuş bulunan baroların kanuni organlarını kurabilme olanağını sonradan yitirmeleri halinde, Türkiye Barolar Birliği bu baroya kayıtlı avukatların en yakın baroya bağlanmasına karar verir.\n Avukatlık Kanununun 77 nci maddesinin birinci fıkrasının üçüncü cümlesine göre beşbinden fazla avukat bulunan illerde asgari ikibin avukatla kurulan barolarda avukat sayısının ikibinin altına düşmesi halinde Birlik, asgari avukat sayısının altı ay içinde sağlanmasını yazılı olarak ilgili baroya bildirir. Verilen süre içinde eksiklik giderilemezse baronun tüzel kişiliğine Birlik tarafından son verilir ve son verme kararı Birliğin resmi internet sitesinde ilan edilir. Tüzel kişiliği sona eren baroya kayıtlı avukatlar ve stajyerler ilan tarihinden itibaren on beş gün içinde o ilde bir baro varsa o baroya, birden fazla baro varsa diledikleri baroya kaydolur ve bunların devam eden iş ve işlemleri kaydoldukları baro tarafından yürütülür. Tüzel kişiliği sona eren baronun tasfiye işlemleri son yönetim kurulu tarafından Birliğin denetim ve gözetiminde yapılır ve kalan malvarlığı Birliğe geçer.\n Protokolde baro başkanları, bir nolu barodan başlamak kaydıyla sırasıyla ve araya başka makam girmeksizin İl Cumhuriyet Başsavcısının yanında yer alır.",
+      "preview": "(Değişik:RG-2/9/2020-31232) Avukatlık Kanununun 77 nci maddesinin birinci fıkrasının ilk cümlesine göre bölgesi içinde en az otuz avukat ola…",
+      "kitap": null,
+      "kisim": null,
+      "bolum": "ALTINCI BÖLÜM · Baroların Kuruluşu ve Baro Genel Kurulları",
+      "ayirim": null,
+      "maddeBaslik": "Kuruluş",
+      "sectionPath": [
+        "ALTINCI BÖLÜM · Baroların Kuruluşu ve Baro Genel Kurulları",
+        "Kuruluş"
+      ]
+    },
+    {
+      "id": "yonetmelik:5780:m:29",
+      "maddeKind": "madde",
+      "maddeNo": "29",
+      "heading": "Madde 29",
+      "text": "(Değişik:RG-2/9/2020-31232)\n Baro bulunmayan bir ilin bölgesi içinde otuz avukatın sürekli olarak çalıştığının anlaşılması, o ilde yeni bir baro kurulmasını gerektirir.\n a) Türkiye Barolar Birliği, bağlı bulundukları bölge barosundan baro kurmak isteyen avukatların ad ve adresleriyle, kaç yıldan beri orada oturduklarını ve meslek kıdemlerini belirten listeyi göndermelerini ister.\n b) Yeni baro kurulması için gerekli yasal koşulların saptanmasından sonra Türkiye Barolar Birliği, baronun kurulacağı il merkezinde ikametgâhı bulunan avukatlardan en kıdemlisini, kuruluşu gerçekleştirmek üzere görevlendirir.\n c) Görevli avukatın seçeceği ve başkanlığını yapacağı dört kişilik kurucu kurul, en geç altı ay içinde yeni baronun kuruluşunu tamamlar ve Türkiye Barolar Birliğine bildirir. Baro bu bildirimle tüzel kişilik kazanır. Baronun kuruluşu, Türkiye Barolar Birliği tarafından Adalet Bakanlığına bildirilir.\n ç) Avukatlık Kanununun 77 nci maddesinin ikinci fıkrası uyarınca baro kurulmasını gerektiren koşulların mevcudiyeti, Türkiye Barolar Birliği Yönetim Kurulu tarafından saptandığı hallerde de bu fıkranın (a), (b) ve (c) bentleri uygulanır.\n Beşbinden fazla avukat bulunan illerde asgari ikibin avukatla yeni bir baro kurulabilir.\n a) Bu sayıların belirlenmesinde baro levhasına kayıtlı avukatlar ile kamu kurum ve kuruluşları ile kamu iktisadi teşebbüslerinde görev yapan avukatlar esas alınır. Kuruluş müracaatında, kuruluş talebini içeren dilekçe ile ikibin avukatın imzasının ve bu avukatların belirlediği dört kişilik kurucular kurulunun isimlerinin yer aldığı liste Türkiye Barolar Birliğine verilir.\n b) Başvuruda bulunan avukat, 1136 sayılı Avukatlık Kanunu uyarınca işten yasaklı bulunmadığını, baronun kuruluşuna katılma isteğini, tüzel kişilik kazandığında o baronun levhasına kayıt olacağını ve verdiği bilgi ve belgelerin doğru olduğunu kabul, beyan, taahhüt eder.\n c) Başvuruların asgari ikibin sayısına ulaşması halinde kurucular kurulu 1136 sayılı Avukatlık Kanunu uyarınca gerekli şartları yerine getirdiklerini, verilen bilgi ve belgelerin doğru olduğunu kabul, beyan ve taahhüt etmek suretiyle baro kurmayı talep eder.\n ç) Birlik, kuruluş işlemlerini yerine getirmek üzere kurucular kurulunu görevlendirir. Kurucular kurulu en geç altı ay içinde organ seçimlerini yapmak üzere kuruluş genel kurulunu toplar ve yeni baronun kuruluşunu tamamlayarak Birliğe bildirir. Baro bu bildirimle tüzel kişilik kazanır. Baronun kuruluşu, Türkiye Barolar Birliği tarafından Adalet Bakanlığına bildirilir.\n d) Baro tüzel kişilik kazandığı anda, kuruluş müracaatının ekinde imzası bulunan avukatlar, yeni kurulmuş olan baroya kaydedilmiş ve önceki barodan kaydı silinmiş kabul edilir. Baro, avukatın önceki kayıtlı olduğu baroya durumu yazılı olarak bildirir. Avukatın önceki Barosu bu bildirim üzerine, avukatın sicil dosyasını Barosuna gönderir ve kendi levhasında gerekli düzenlemeyi yapar.\n e) Her iki baro levhasının güncellemesi elektronik ortamda da gerçekleştirilir. Güncelleme Türkiye Barolar Birliğine yazılı ya da elektronik ortamda iletilir.\n f) Kamu kurum ve kuruluşları ile kamu iktisadi teşebbüslerinde görev yapan avukatların tüzel kişilik kazanan baro levhasına kayıt işlemleri bu Yönetmeliğin 4 üncü maddesinden başlamak üzere ilgili maddeler uyarınca gerçekleştirilir.\n g) Yeni kurulan baro, seçimli ilk olağan genel kurulunu yapıncaya kadar Birlikte temsil edilmez ve seçimli ilk olağan genel kurulunu Kanunun 82 nci maddesi hükmü uyarınca yapar.\n ğ) Aynı ilde yeni bir baronun kurulması halinde Türkiye Barolar Birliği, tüzel kişilik kazanma tarihini esas almak ve birden başlamak suretiyle baroları o ilin adıyla numaralandırır.",
+      "preview": "(Değişik:RG-2/9/2020-31232) Baro bulunmayan bir ilin bölgesi içinde otuz avukatın sürekli olarak çalıştığının anlaşılması, o ilde yeni bir b…",
+      "kitap": null,
+      "kisim": null,
+      "bolum": "ALTINCI BÖLÜM · Baroların Kuruluşu ve Baro Genel Kurulları",
+      "ayirim": null,
+      "maddeBaslik": "Yeni Baro Kurulması",
+      "sectionPath": [
+        "ALTINCI BÖLÜM · Baroların Kuruluşu ve Baro Genel Kurulları",
+        "Yeni Baro Kurulması"
+      ]
+    },
+    {
+      "id": "yonetmelik:5780:m:30",
+      "maddeKind": "madde",
+      "maddeNo": "30",
+      "heading": "Madde 30",
+      "text": "Genel kurul baronun en yüksek organıdır.\n Baro genel kurulu levhada yazılı bütün avukatlardan oluşur. Aşağıda yazılı kimseler genel kurula katılamaz.\n a) Levhaya yazılmasına karar verilmiş olmakla birlikte, henüz mesleki andını içmemiş olanlar,\n b) Avukatlık Kanununun 71 inci maddesinin son fıkrası gereğince işten yasaklanmış olanlar.\n c) (Mülga:RG-2/9/2020-31232)",
+      "preview": "Genel kurul baronun en yüksek organıdır. Baro genel kurulu levhada yazılı bütün avukatlardan oluşur. Aşağıda yazılı kimseler genel kurula ka…",
+      "kitap": null,
+      "kisim": null,
+      "bolum": "ALTINCI BÖLÜM · Baroların Kuruluşu ve Baro Genel Kurulları",
+      "ayirim": null,
+      "maddeBaslik": "Baro Genel Kurulunun Oluşumu",
+      "sectionPath": [
+        "ALTINCI BÖLÜM · Baroların Kuruluşu ve Baro Genel Kurulları",
+        "Baro Genel Kurulunun Oluşumu"
+      ]
+    },
+    {
+      "id": "yonetmelik:5780:m:31",
+      "maddeKind": "madde",
+      "maddeNo": "31",
+      "heading": "Madde 31",
+      "text": "Baro genel kurulu olağan ve olağanüstü olmak üzere iki türlü toplanır.\n (Ek:RG-2/9/2020-31232)(3) Beşbinden fazla avukat bulunan illerde asgari ikibin avukatla kurulan barolarda yapılacak toplantılara katılacak tüm avukatların levhaya yazılı olması zorunludur.\n Baro levhasında yazılı avukat, gerek olağan gerek olağanüstü genel kurul toplantılarına katılmak ve oy kullanmakla yükümlüdür. Bu toplantılara haklı bir neden olmaksızın gelmeyenlere veya oy kullanmayanlara, ilçe seçim kurulu başkanı tarafından, o baroya kayıtlı avukatların yıllık keseneğinin üçte biri miktarında para cezası verilir. Bu para cezaları baro başkanlığınca tahsil edilir ve baro bütçesine gelir kaydedilir.\n Toplantıyı terk edenlerle toplantıya katılmayanların, genel kurul toplantısı sona ermeden önce, özürlerini, baro başkanı veya başkanlık divanına bildirmeleri gereklidir.",
+      "preview": "Baro genel kurulu olağan ve olağanüstü olmak üzere iki türlü toplanır. (Ek:RG-2/9/2020-31232)(3) Beşbinden fazla avukat bulunan illerde asga…",
+      "kitap": null,
+      "kisim": null,
+      "bolum": "ALTINCI BÖLÜM · Baroların Kuruluşu ve Baro Genel Kurulları",
+      "ayirim": null,
+      "maddeBaslik": "Toplantılar",
+      "sectionPath": [
+        "ALTINCI BÖLÜM · Baroların Kuruluşu ve Baro Genel Kurulları",
+        "Toplantılar"
+      ]
+    },
+    {
+      "id": "yonetmelik:5780:m:32",
+      "maddeKind": "madde",
+      "maddeNo": "32",
+      "heading": "Madde 32",
+      "text": "Baro olağan toplantıları (Ek ibare:RG-2/9/2020-31232) son rakamı çift olan yıllarda olmak kaydıyla, iki yılda bir ekim ayının ilk haftası içinde yapılır. Bu toplantıların gündemini baro yönetim kurulu belirler.\n Aşağıda yazılı hususların gündemde bulunması zorunludur;\n a) Açılış ve genel kurul başkanlık divanının seçimi,\n b) Yönetim kurulunun geçmiş dönem çalışmaları ve işlemleri hakkında hesap raporu ile denetleme kurulu raporlarının okunup görüşülmesi ve karara bağlanması,\n c) Takip eden yıl bütçesinin okunması, görüşülmesi ve karara bağlanması,\n d) Seçim süreleri sona eren baro başkanı, yönetim kurulu, disiplin kurulu ve denetleme kurulu asıl ve yedek üyeleriyle Türkiye Barolar Birliği delegeleri seçimlerinin yapılması,\n Genel kurul, istek üzerine gündeme yeni bir madde eklenmesine karar veremez. Yeni bir toplantı yapılması kararı bu hükmün dışındadır.",
+      "preview": "Baro olağan toplantıları (Ek ibare:RG-2/9/2020-31232) son rakamı çift olan yıllarda olmak kaydıyla, iki yılda bir ekim ayının ilk haftası iç…",
+      "kitap": null,
+      "kisim": null,
+      "bolum": "ALTINCI BÖLÜM · Baroların Kuruluşu ve Baro Genel Kurulları",
+      "ayirim": null,
+      "maddeBaslik": "Olağan Toplantılar",
+      "sectionPath": [
+        "ALTINCI BÖLÜM · Baroların Kuruluşu ve Baro Genel Kurulları",
+        "Olağan Toplantılar"
+      ]
+    },
+    {
+      "id": "yonetmelik:5780:m:33",
+      "maddeKind": "madde",
+      "maddeNo": "33",
+      "heading": "Madde 33",
+      "text": "Baro genel kurulu;\n a) Türkiye Barolar Birliği,\n b) Baro başkanı,\n c) Baro yönetim veya denetleme kurulları,\n tarafından olağanüstü toplantıya çağrılabilir.\n Ayrıca, levhada yazılı avukatların beşte birinin yazılı istemi ile de baro başkanı, genel kurulu onbeş gün içinde toplantıya çağırmak zorundadır.\n Avukatların olağanüstü toplantı isteğinin kabul ve uygulanabilmesi için görüşme konularının yazılı olarak belirtilmesi şarttır. Sebebi belirtilmemiş olağanüstü toplantı istekleri dikkate alınmaz.\n Bu Yönetmeliğin 34 üncü maddesinin birinci fıkrası hükümleri, olağanüstü toplantılarda da kıyasen uygulanır.",
+      "preview": "Baro genel kurulu; a) Türkiye Barolar Birliği, b) Baro başkanı, c) Baro yönetim veya denetleme kurulları, tarafından olağanüstü toplantıya ç…",
+      "kitap": null,
+      "kisim": null,
+      "bolum": "ALTINCI BÖLÜM · Baroların Kuruluşu ve Baro Genel Kurulları",
+      "ayirim": null,
+      "maddeBaslik": "Olağanüstü Toplantılar",
+      "sectionPath": [
+        "ALTINCI BÖLÜM · Baroların Kuruluşu ve Baro Genel Kurulları",
+        "Olağanüstü Toplantılar"
+      ]
+    },
+    {
+      "id": "yonetmelik:5780:m:34",
+      "maddeKind": "madde",
+      "maddeNo": "34",
+      "heading": "Madde 34",
+      "text": "Genel kurulun olağan toplantısının yapılacağı yer, toplantı saati ve gündemi ile ilk toplantıda yeterli çoğunluk sağlanamadığı takdirde ikinci toplantının yeri, günü ve saati, baro çevresi adalet dairelerinde ve baronun uygun bir yerinde en az otuz gün önceden başlamak üzere, genel kurulun toplanacağı tarihe kadar duyurulur. Bu duyuru, tebligat hükmündedir.\n Yönetim kurulu toplantı tutanaklarıyla çalışma raporunun, kesin hesap ve denetçi raporunun ve bütçenin, yeterli sayıda örneklerinin, olağan toplantı çağrısının yapılmasıyla birlikte, baroda avukatların incelemesine sunulması gereklidir.",
+      "preview": "Genel kurulun olağan toplantısının yapılacağı yer, toplantı saati ve gündemi ile ilk toplantıda yeterli çoğunluk sağlanamadığı takdirde ikin…",
+      "kitap": null,
+      "kisim": null,
+      "bolum": "ALTINCI BÖLÜM · Baroların Kuruluşu ve Baro Genel Kurulları",
+      "ayirim": null,
+      "maddeBaslik": "Toplantılara Çağrı ve Gündem",
+      "sectionPath": [
+        "ALTINCI BÖLÜM · Baroların Kuruluşu ve Baro Genel Kurulları",
+        "Toplantılara Çağrı ve Gündem"
+      ]
+    },
+    {
+      "id": "yonetmelik:5780:m:35",
+      "maddeKind": "madde",
+      "maddeNo": "35",
+      "heading": "Madde 35",
+      "text": "Genel kurul toplantılarında, baro levhasında yazılı avukatların baro sicil numaraları sırasına uygun olarak ad ve soyadlarının yer aldığı bir yoklama cetveli düzenlenir.\n Avukatın toplantıya katılabilmesi, yoklama cetvelinde adının karşısını imzalamasıyla mümkündür. Avukatlık Kanununun 87 nci maddesinde yazılı toplantı yeter sayısı sağlanırsa, başkan genel kurul toplantısını açar.\n İtiraz halinde, cetvele göre ad okumak suretiyle yoklama yapılır, sonuç kesindir.",
+      "preview": "Genel kurul toplantılarında, baro levhasında yazılı avukatların baro sicil numaraları sırasına uygun olarak ad ve soyadlarının yer aldığı bi…",
+      "kitap": null,
+      "kisim": null,
+      "bolum": "ALTINCI BÖLÜM · Baroların Kuruluşu ve Baro Genel Kurulları",
+      "ayirim": null,
+      "maddeBaslik": "Yoklama Cetveli",
+      "sectionPath": [
+        "ALTINCI BÖLÜM · Baroların Kuruluşu ve Baro Genel Kurulları",
+        "Yoklama Cetveli"
+      ]
+    },
+    {
+      "id": "yonetmelik:5780:m:36",
+      "maddeKind": "madde",
+      "maddeNo": "36",
+      "heading": "Madde 36",
+      "text": "Olağan ve olağanüstü genel kurul toplantılarında; öncelikle bir başkan, bir başkan vekili ile iki üyeden oluşan bir başkanlık divanı seçilir. Seçim, her aday için ayrı ayrı ve genel kurulda aksine karar alınmamışsa işari oyla yapılır. Kullanılan oyların en çoğunu alanlar seçilir.\n Baro başkanı ile yönetim ve denetleme kurulu üyeleri, başkanlık divanına seçilemezler.",
+      "preview": "Olağan ve olağanüstü genel kurul toplantılarında; öncelikle bir başkan, bir başkan vekili ile iki üyeden oluşan bir başkanlık divanı seçilir…",
+      "kitap": null,
+      "kisim": null,
+      "bolum": "ALTINCI BÖLÜM · Baroların Kuruluşu ve Baro Genel Kurulları",
+      "ayirim": null,
+      "maddeBaslik": "Genel Kurul Başkanlık Divanı",
+      "sectionPath": [
+        "ALTINCI BÖLÜM · Baroların Kuruluşu ve Baro Genel Kurulları",
+        "Genel Kurul Başkanlık Divanı"
+      ]
+    },
+    {
+      "id": "yonetmelik:5780:m:37",
+      "maddeKind": "madde",
+      "maddeNo": "37",
+      "heading": "Madde 37",
+      "text": "Başkan, söz isteyenlere sırası ile söz verir. Ancak, baro başkanı ile yönetim kurulu üyelerine ve Türkiye Barolar Birliğini ilgilendiren konularda da Türkiye Barolar Birliği Genel Kuruluna seçilmiş delegelere öncelik tanınır.\n Başkanlık divanı, usul hakkında yapılacak konuşmalara öncelik verilmesine karar verebilir.",
+      "preview": "Başkan, söz isteyenlere sırası ile söz verir. Ancak, baro başkanı ile yönetim kurulu üyelerine ve Türkiye Barolar Birliğini ilgilendiren kon…",
+      "kitap": null,
+      "kisim": null,
+      "bolum": "ALTINCI BÖLÜM · Baroların Kuruluşu ve Baro Genel Kurulları",
+      "ayirim": null,
+      "maddeBaslik": "Söz Alma Sırası ve Süresi",
+      "sectionPath": [
+        "ALTINCI BÖLÜM · Baroların Kuruluşu ve Baro Genel Kurulları",
+        "Söz Alma Sırası ve Süresi"
+      ]
+    },
+    {
+      "id": "yonetmelik:5780:m:38",
+      "maddeKind": "madde",
+      "maddeNo": "38",
+      "heading": "Madde 38",
+      "text": "Gündem maddeleri ile ilgili önergelerin görüşülmesi sırasında, önerge sahibinin açıklaması dışında, önergenin lehinde ve aleyhinde konuşmak üzere en az birer konuşmacıya da söz verilir.",
+      "preview": "Gündem maddeleri ile ilgili önergelerin görüşülmesi sırasında, önerge sahibinin açıklaması dışında, önergenin lehinde ve aleyhinde konuşmak…",
+      "kitap": null,
+      "kisim": null,
+      "bolum": "ALTINCI BÖLÜM · Baroların Kuruluşu ve Baro Genel Kurulları",
+      "ayirim": null,
+      "maddeBaslik": "Önergelerin Görüşülmesi",
+      "sectionPath": [
+        "ALTINCI BÖLÜM · Baroların Kuruluşu ve Baro Genel Kurulları",
+        "Önergelerin Görüşülmesi"
+      ]
+    },
+    {
+      "id": "yonetmelik:5780:m:39",
+      "maddeKind": "madde",
+      "maddeNo": "39",
+      "heading": "Madde 39",
+      "text": "Bir gündem maddesinin görüşülmesi; söz isteyenlerin konuşmalarının bitmesiyle veya yeterlik önergesinin kabul edilmesiyle tamamlanmış olur.\n Başkan, görüşülmesi tamamlanan konuyu ve ileri sürülen görüşleri özetleyerek genel kurulun oyuna sunar. Avukatlık Kanununda ve bu Yönetmelikte aksine hüküm bulunmadıkça; kararlar toplantıda hazır bulunan üyelerin açık oylarıyla ve oyçokluğu ile alınır.\n Genel kurul toplantısında, görüşüleceği gündemde belirtilmemiş konular hakkında karar verilemez, yeni bir toplantı kararı bu hükmün dışındadır.",
+      "preview": "Bir gündem maddesinin görüşülmesi; söz isteyenlerin konuşmalarının bitmesiyle veya yeterlik önergesinin kabul edilmesiyle tamamlanmış olur.…",
+      "kitap": null,
+      "kisim": null,
+      "bolum": "ALTINCI BÖLÜM · Baroların Kuruluşu ve Baro Genel Kurulları",
+      "ayirim": null,
+      "maddeBaslik": "Görüşme Sonucu Oylama",
+      "sectionPath": [
+        "ALTINCI BÖLÜM · Baroların Kuruluşu ve Baro Genel Kurulları",
+        "Görüşme Sonucu Oylama"
+      ]
+    },
+    {
+      "id": "yonetmelik:5780:m:40",
+      "maddeKind": "madde",
+      "maddeNo": "40",
+      "heading": "Madde 40",
+      "text": "Genel kurul başkanlık divanı, toplantının ve görüşmelerin düzenini korumakla görevlidir. Toplantı ve görüşme düzenini bozan avukata ihtar verilebileceği gibi, oy hakkı saklı kalmak kaydıyla, konuşulan hususun sonuna kadar toplantıdan çıkarılmasına da karar verilebilir.",
+      "preview": "Genel kurul başkanlık divanı, toplantının ve görüşmelerin düzenini korumakla görevlidir. Toplantı ve görüşme düzenini bozan avukata ihtar ve…",
+      "kitap": null,
+      "kisim": null,
+      "bolum": "ALTINCI BÖLÜM · Baroların Kuruluşu ve Baro Genel Kurulları",
+      "ayirim": null,
+      "maddeBaslik": "Toplantı Düzeni",
+      "sectionPath": [
+        "ALTINCI BÖLÜM · Baroların Kuruluşu ve Baro Genel Kurulları",
+        "Toplantı Düzeni"
+      ]
+    },
+    {
+      "id": "yonetmelik:5780:m:41",
+      "maddeKind": "madde",
+      "maddeNo": "41",
+      "heading": "Madde 41",
+      "text": "Toplantı, aşağıda yazılı durumlarda ertelenebilir.\n a) Toplantıya devam edilemeyecek kadar düzenin bozulması,\n b) Toplantıya katılan avukatların, üye sayısı altmışa kadar (altmış dahil) olan barolarda en az 1/3 ünün, dörtyüze kadar (dörtyüz dahil) olan barolarda 1/5 inin, dörtyüzden çok olanlarda 1/10 unun toplantı salonunda bulunmadığı yoklama sonucu anlaşılması.\n Başkanlık divanı bu maddenin (a) bendindeki durumun tespiti halinde, toplantıya en fazla iki saat ara verir; bu maddenin (b) bendindeki durumun saptanması halinde ise başkanlık divanı toplantıyı onbeş günü geçmemek üzere başka bir güne erteler. Ertelenen toplantı önceki toplantının devamı niteliğindedir. Önceki toplantıda görevli bulunanlar bu toplantıda da görevlidirler.",
+      "preview": "Toplantı, aşağıda yazılı durumlarda ertelenebilir. a) Toplantıya devam edilemeyecek kadar düzenin bozulması, b) Toplantıya katılan avukatlar…",
+      "kitap": null,
+      "kisim": null,
+      "bolum": "ALTINCI BÖLÜM · Baroların Kuruluşu ve Baro Genel Kurulları",
+      "ayirim": null,
+      "maddeBaslik": "Toplantıya Ara Verme ve Erteleme",
+      "sectionPath": [
+        "ALTINCI BÖLÜM · Baroların Kuruluşu ve Baro Genel Kurulları",
+        "Toplantıya Ara Verme ve Erteleme"
+      ]
+    },
+    {
+      "id": "yonetmelik:5780:m:42",
+      "maddeKind": "madde",
+      "maddeNo": "42",
+      "heading": "Madde 42",
+      "text": "Yönetim kurulu, üyelerinin salt çoğunluğu ile toplanır.\n Başkanın bulunmadığı toplantıya, başkan yardımcısı; yardımcının da bulunmadığı toplantıya, en kıdemli üye başkanlık eder.",
+      "preview": "Yönetim kurulu, üyelerinin salt çoğunluğu ile toplanır. Başkanın bulunmadığı toplantıya, başkan yardımcısı; yardımcının da bulunmadığı topla…",
+      "kitap": null,
+      "kisim": null,
+      "bolum": "YEDİNCİ BÖLÜM · Baro Yönetim Kurulları ve Baroların Çalışmaları",
+      "ayirim": null,
+      "maddeBaslik": "Yönetim Kurulu Toplantısı",
+      "sectionPath": [
+        "YEDİNCİ BÖLÜM · Baro Yönetim Kurulları ve Baroların Çalışmaları",
+        "Yönetim Kurulu Toplantısı"
+      ]
+    },
+    {
+      "id": "yonetmelik:5780:m:43",
+      "maddeKind": "madde",
+      "maddeNo": "43",
+      "heading": "Madde 43",
+      "text": "Yönetim kurulu tarafından aksi kararlaştırılmadıkça, oylama açık olarak yapılır. Başkan, tartışılması biten konuyu, sicil numarası sırasına göre en kıdemsiz üyeden başlayarak oylar, en son kendi oyunu kullanır.\n Toplantıya katılan üyelerin sayısı ne olursa olsun, kararlar, üye tam sayısının salt çoğunluğu ile alınır. Oylarda eşitlik halinde başkanın bulunduğu taraf üstün tutulur. Baro başkanı veya yönetim kurulu üyeleri, ilgili oldukları işlerin görüşülmesine katılamazlar ve oy kullanamazlar.",
+      "preview": "Yönetim kurulu tarafından aksi kararlaştırılmadıkça, oylama açık olarak yapılır. Başkan, tartışılması biten konuyu, sicil numarası sırasına…",
+      "kitap": null,
+      "kisim": null,
+      "bolum": "YEDİNCİ BÖLÜM · Baro Yönetim Kurulları ve Baroların Çalışmaları",
+      "ayirim": null,
+      "maddeBaslik": "Oylama Şekli ve Karar",
+      "sectionPath": [
+        "YEDİNCİ BÖLÜM · Baro Yönetim Kurulları ve Baroların Çalışmaları",
+        "Oylama Şekli ve Karar"
+      ]
+    },
+    {
+      "id": "yonetmelik:5780:m:44",
+      "maddeKind": "madde",
+      "maddeNo": "44",
+      "heading": "Madde 44",
+      "text": "Yönetim kurulu toplantı tutanakları, genel sekreterler tarafından tutulur. Tutanağa kurulun aldığı kararlar yazılır. Karar alınmadan önce yapılan tartışmaların tutanağa yazılması yönetim kurulunun kararına bağlıdır. Tutanak, toplantıda hazır bulunanlar tarafından imzalanır. Karara karşı olanlar karşı oy nedenlerini yazarak tutanağı imzalarlar.",
+      "preview": "Yönetim kurulu toplantı tutanakları, genel sekreterler tarafından tutulur. Tutanağa kurulun aldığı kararlar yazılır. Karar alınmadan önce ya…",
+      "kitap": null,
+      "kisim": null,
+      "bolum": "YEDİNCİ BÖLÜM · Baro Yönetim Kurulları ve Baroların Çalışmaları",
+      "ayirim": null,
+      "maddeBaslik": "Tutanak",
+      "sectionPath": [
+        "YEDİNCİ BÖLÜM · Baro Yönetim Kurulları ve Baroların Çalışmaları",
+        "Tutanak"
+      ]
+    },
+    {
+      "id": "yonetmelik:5780:m:45",
+      "maddeKind": "madde",
+      "maddeNo": "45",
+      "heading": "Madde 45",
+      "text": "Baro idari işlemleri, baro başkanı, başkanlık divanı ve görevli personel tarafından yürütülür.\n Baro başkanı, aynı zamanda baro idari teşkilatının da başıdır.\n Avukatların ve diğer kişilerin başvuru yeri baro başkanlığıdır.\n Sayman; para alma ve verme işlemlerinde düzenlenen kağıtları; başkan ile birlikte, başkanın yokluğunda da başkan yardımcısı veya genel sekreter ile birlikte imzalar.\n Baro başkanı veya yönetim kurulu, levhada yazılı avukatlara veya avukat stajyerlerine, geçici olmak kaydıyla idari işlerin yürütülmesinde görev verebilir.\n Hizmetler ücretsizdir.\n Komisyon, Kurul ve Heyet Görevlendirilmeleri\n Madde 45/A- (Ek:RG-7/7/2022-31889)\n Birden fazla baro kurulan illerde, özel kanununa göre baro tüzel kişiliği dışında kurulmuş komisyon, kurul ve heyetlere mevzuat gereği üye veya temsilci görevlendirmeleri, eşit ve dönüşümlü temsil esası uyarınca her bir görev süresi için bir nolu barodan başlamak üzere sıra ile yapılır. Görevlendirme yapılacak komisyon, kurul veya heyet, mevcut üyenin görev süresi tamamlanmadan önce, sıradaki baroya görevlendirme için başvurur.",
+      "preview": "Baro idari işlemleri, baro başkanı, başkanlık divanı ve görevli personel tarafından yürütülür. Baro başkanı, aynı zamanda baro idari teşkila…",
+      "kitap": null,
+      "kisim": null,
+      "bolum": "YEDİNCİ BÖLÜM · Baro Yönetim Kurulları ve Baroların Çalışmaları",
+      "ayirim": null,
+      "maddeBaslik": "İdari İşlemlerin Yürütülmesi",
+      "sectionPath": [
+        "YEDİNCİ BÖLÜM · Baro Yönetim Kurulları ve Baroların Çalışmaları",
+        "İdari İşlemlerin Yürütülmesi"
+      ]
+    },
+    {
+      "id": "yonetmelik:5780:m:46",
+      "maddeKind": "madde",
+      "maddeNo": "46",
+      "heading": "Madde 46",
+      "text": "Baro başkanı, başkanlık divanı ve üyeleri baro idari işlemlerinin yürütülmesinden dolayı öncelikle yönetim kuruluna karşı sorumludurlar.\n Genel kurul karşısında sorumluluk yönetim kuruluna aittir.",
+      "preview": "Baro başkanı, başkanlık divanı ve üyeleri baro idari işlemlerinin yürütülmesinden dolayı öncelikle yönetim kuruluna karşı sorumludurlar. Gen…",
+      "kitap": null,
+      "kisim": null,
+      "bolum": "YEDİNCİ BÖLÜM · Baro Yönetim Kurulları ve Baroların Çalışmaları",
+      "ayirim": null,
+      "maddeBaslik": "Sorumluluk",
+      "sectionPath": [
+        "YEDİNCİ BÖLÜM · Baro Yönetim Kurulları ve Baroların Çalışmaları",
+        "Sorumluluk"
+      ]
+    },
+    {
+      "id": "yonetmelik:5780:m:47",
+      "maddeKind": "madde",
+      "maddeNo": "47",
+      "heading": "Madde 47",
+      "text": "Baro yönetim kurulu, bölgesindeki adliye merkezlerinde iki yıl için görev yapmak üzere, bir temsilci atar.\n Temsil görevini üstlenen avukat kendisine, uygun göreceği en fazla iki yardımcı seçer ve yönetim kurulunun onayına sunar.\n Temsilci, Avukatlık Kanunu ve baro yönetim kurulunun kararları doğrultusunda ve onların gözetiminde görev yapar. Baro yönetim kurulu, staj ve baroya ait diğer görev ve etkinlikleri düzenler ve gözetir. İlgili defter ve kayıtları tutarlar, üyeler, kurum, resmi daireler ve baro arasındaki koordinasyona yardımcı olurlar. Adli yardım ve CMUK temsilcilikleri baro temsilciliği ile birleşebilir.\n Temsilcinin görevinin; sürenin dolması, istifa, göreve son verilme ve başka nedenlerle sona ermesi halinde, yerine baro yönetim kurulunca yeni temsilci atanır. Yeni atanan temsilci, eski temsilcinin süresini tamamlar.",
+      "preview": "Baro yönetim kurulu, bölgesindeki adliye merkezlerinde iki yıl için görev yapmak üzere, bir temsilci atar. Temsil görevini üstlenen avukat k…",
+      "kitap": null,
+      "kisim": null,
+      "bolum": "YEDİNCİ BÖLÜM · Baro Yönetim Kurulları ve Baroların Çalışmaları",
+      "ayirim": null,
+      "maddeBaslik": "Baro Bölgesindeki Adliye Merkezlerinde Temsilciler",
+      "sectionPath": [
+        "YEDİNCİ BÖLÜM · Baro Yönetim Kurulları ve Baroların Çalışmaları",
+        "Baro Bölgesindeki Adliye Merkezlerinde Temsilciler"
+      ]
+    },
+    {
+      "id": "yonetmelik:5780:m:48",
+      "maddeKind": "madde",
+      "maddeNo": "48",
+      "heading": "Madde 48",
+      "text": "Herhangi bir idari işlemin yapılmasına ilişkin başvurular, yazılı olarak baroya yapılır.\n Baro başkanı veya varsa görevlendirdiği başkanlık divanı üyesi tarafından görülüp ilgilisine havale edilmemiş başvurular, deftere kaydedilmez ve işlem görmez. Aynı kural resmi başvurularla ilgili evrak hakkında da uygulanır.",
+      "preview": "Herhangi bir idari işlemin yapılmasına ilişkin başvurular, yazılı olarak baroya yapılır. Baro başkanı veya varsa görevlendirdiği başkanlık d…",
+      "kitap": null,
+      "kisim": null,
+      "bolum": "YEDİNCİ BÖLÜM · Baro Yönetim Kurulları ve Baroların Çalışmaları",
+      "ayirim": null,
+      "maddeBaslik": "Başvurma",
+      "sectionPath": [
+        "YEDİNCİ BÖLÜM · Baro Yönetim Kurulları ve Baroların Çalışmaları",
+        "Başvurma"
+      ]
+    },
+    {
+      "id": "yonetmelik:5780:m:49",
+      "maddeKind": "madde",
+      "maddeNo": "49",
+      "heading": "Madde 49",
+      "text": "Baro başkanı, başkan yardımcısı ya da kıdemli üye veya başkanın görevlendirdiği bir yönetim kurulu üyesi tarafından imzalanmamış yazılar, baro adına düzenlenemez.",
+      "preview": "Baro başkanı, başkan yardımcısı ya da kıdemli üye veya başkanın görevlendirdiği bir yönetim kurulu üyesi tarafından imzalanmamış yazılar, ba…",
+      "kitap": null,
+      "kisim": null,
+      "bolum": "YEDİNCİ BÖLÜM · Baro Yönetim Kurulları ve Baroların Çalışmaları",
+      "ayirim": null,
+      "maddeBaslik": "Yetkili İmzalar",
+      "sectionPath": [
+        "YEDİNCİ BÖLÜM · Baro Yönetim Kurulları ve Baroların Çalışmaları",
+        "Yetkili İmzalar"
+      ]
+    },
+    {
+      "id": "yonetmelik:5780:m:50",
+      "maddeKind": "madde",
+      "maddeNo": "50",
+      "heading": "Madde 50",
+      "text": "Baro başkanı idari bir işlemin görülmesi için, varsa başkanlık divanından yoksa yönetim kurulundan bir üyeyi, ayrıca görevlendirebilir.",
+      "preview": "Baro başkanı idari bir işlemin görülmesi için, varsa başkanlık divanından yoksa yönetim kurulundan bir üyeyi, ayrıca görevlendirebilir.",
+      "kitap": null,
+      "kisim": null,
+      "bolum": "YEDİNCİ BÖLÜM · Baro Yönetim Kurulları ve Baroların Çalışmaları",
+      "ayirim": null,
+      "maddeBaslik": "Görevlendirme",
+      "sectionPath": [
+        "YEDİNCİ BÖLÜM · Baro Yönetim Kurulları ve Baroların Çalışmaları",
+        "Görevlendirme"
+      ]
+    },
+    {
+      "id": "yonetmelik:5780:m:51",
+      "maddeKind": "madde",
+      "maddeNo": "51",
+      "heading": "Madde 51",
+      "text": "Başkanlık divanı ve yönetim kurulu, baro idari işlerinin en iyi şekilde yürütülebilmesi için gerekli tedbirleri alır, tutulacak defterleri ve dosyaları belirler.\n a) Genel kurul tutanak ve karar,\n b) Yönetim kurulu karar,\n c) Gelen ve giden evrak,\n d) Disiplin kararları esas,\n e) Soruşturma esas,\n f) Baro gelir ve giderleri,\n g) Adli yardım,\n h) (Değişik:RG-26/1/2024-32441) CMK,\n ı) Avukatlık ortaklığı sicil,\n j) Vekalet pulu,\n k) (Mülga:RG-27/6/2009-27271)\n konularında defter tutulması zorunludur.\n Defterlerin yönetim kurulu tarafından sayfa numaraları belli edilerek ve kaç sayfadan ibaret olduğu defterin başına ve sonuna yazılmak suretiyle mühür ve imza ile onaylanması şarttır. Gereken durumlarda bu defterlerin tamamı veya bir kısmı dosya şeklinde düzenlenebilir. (Ek cümle:RG-26/1/2024-32441) Başkanlık, defter kayıtları ve dayanağı belgelerin düzenli bir şekilde saklanması için gerekli tedbirleri alır.\n (Değişik fıkra:RG-26/1/2024-32441) Barolar, defter kayıtlarını ve dayanağı belgeleri, elektronik ortamda da tutabilirler. Başkanlık, sistemin güvenliğini sağlamak suretiyle defter kayıtları ve dayanağı belgelerin elektronik ortamda tutulması, yedeğinin alınması ve düzenli bir şekilde saklanması için gerekli tedbirleri alır.\n (Mülga fıkra:RG-26/1/2024-32441)",
+      "preview": "Başkanlık divanı ve yönetim kurulu, baro idari işlerinin en iyi şekilde yürütülebilmesi için gerekli tedbirleri alır, tutulacak defterleri v…",
+      "kitap": null,
+      "kisim": null,
+      "bolum": "YEDİNCİ BÖLÜM · Baro Yönetim Kurulları ve Baroların Çalışmaları",
+      "ayirim": null,
+      "maddeBaslik": "Tutulacak Defterler",
+      "sectionPath": [
+        "YEDİNCİ BÖLÜM · Baro Yönetim Kurulları ve Baroların Çalışmaları",
+        "Tutulacak Defterler"
+      ]
+    },
+    {
+      "id": "yonetmelik:5780:m:52",
+      "maddeKind": "madde",
+      "maddeNo": "52",
+      "heading": "Madde 52",
+      "text": "Üye sayısı 400’ü aşan barolarda görüşmeler Cumartesi günü sonuçlandırılır. Oy verme işlemi Pazar günü saat 9.00’da başlar saat 17.00’de sona erer.\n Üye sayısı 400’den az (400 dahil) olan barolarda görüşmeler ve seçimler aynı gün yapılabilir. Gündemdeki konuların görüşülmesinden sonra seçim süresinin başlangıç ve bitiş saatini seçim sandık kurulu belirler.",
+      "preview": "Üye sayısı 400’ü aşan barolarda görüşmeler Cumartesi günü sonuçlandırılır. Oy verme işlemi Pazar günü saat 9.00’da başlar saat 17.00’de sona…",
+      "kitap": null,
+      "kisim": null,
+      "bolum": "SEKİZİNCİ BÖLÜM · Seçim",
+      "ayirim": null,
+      "maddeBaslik": "Seçim İşlerinin Yürütülmesi",
+      "sectionPath": [
+        "SEKİZİNCİ BÖLÜM · Seçim",
+        "Seçim İşlerinin Yürütülmesi"
+      ]
+    },
+    {
+      "id": "yonetmelik:5780:m:53",
+      "maddeKind": "madde",
+      "maddeNo": "53",
+      "heading": "Madde 53",
+      "text": "Organlara aday olanların isimleri seçim saatine kadar seçim sandık kuruluna ayrı ayrı veya liste halinde verilir.\n (Mülga ikinci fıkra:RG-27/6/2009-27271)",
+      "preview": "Organlara aday olanların isimleri seçim saatine kadar seçim sandık kuruluna ayrı ayrı veya liste halinde verilir. (Mülga ikinci fıkra:RG-27/…",
+      "kitap": null,
+      "kisim": null,
+      "bolum": "SEKİZİNCİ BÖLÜM · Seçim",
+      "ayirim": null,
+      "maddeBaslik": "Adayların Tespiti",
+      "sectionPath": [
+        "SEKİZİNCİ BÖLÜM · Seçim",
+        "Adayların Tespiti"
+      ]
+    },
+    {
+      "id": "yonetmelik:5780:m:54",
+      "maddeKind": "madde",
+      "maddeNo": "54",
+      "heading": "Madde 54",
+      "text": "Oy verme zarflarının mühürlenmiş olması gerekir. Oy pusulalarının mühürlü olması gerekmez. Oy pusulası el ile yazılabileceği gibi basılmış veya çoğaltılmış olabilir. Oy pusulasında yazılı isim çizilip yerine başkası yazılabilir.",
+      "preview": "Oy verme zarflarının mühürlenmiş olması gerekir. Oy pusulalarının mühürlü olması gerekmez. Oy pusulası el ile yazılabileceği gibi basılmış v…",
+      "kitap": null,
+      "kisim": null,
+      "bolum": "SEKİZİNCİ BÖLÜM · Seçim",
+      "ayirim": null,
+      "maddeBaslik": "Oy Pusulaları",
+      "sectionPath": [
+        "SEKİZİNCİ BÖLÜM · Seçim",
+        "Oy Pusulaları"
+      ]
+    },
+    {
+      "id": "yonetmelik:5780:m:55",
+      "maddeKind": "madde",
+      "maddeNo": "55",
+      "heading": "Madde 55",
+      "text": "Oy verme gizli olur. İlçe seçim kurulu tarafından belirlenmiş seçim sandık kurulu, oy vermenin gizli ve her türlü etkiden uzak düzenli bir şekilde yürütülmesinden sorumludur.",
+      "preview": "Oy verme gizli olur. İlçe seçim kurulu tarafından belirlenmiş seçim sandık kurulu, oy vermenin gizli ve her türlü etkiden uzak düzenli bir ş…",
+      "kitap": null,
+      "kisim": null,
+      "bolum": "SEKİZİNCİ BÖLÜM · Seçim",
+      "ayirim": null,
+      "maddeBaslik": "Oy Verme",
+      "sectionPath": [
+        "SEKİZİNCİ BÖLÜM · Seçim",
+        "Oy Verme"
+      ]
+    },
+    {
+      "id": "yonetmelik:5780:m:56",
+      "maddeKind": "madde",
+      "maddeNo": "56",
+      "heading": "Madde 56",
+      "text": "Genel kurula katılan avukatların tümünün oyunu kullanması ya da oy verme süresinin dolmasından sonra oy verme işlemi sona erer. Durum bir tutanakla tespit edilir ve açık sayım yapılır.\n a) Sandıktan çıkan oy zarfları sayılır.\n b) Zarf sayısının verilen oy sayısından fazla olması halinde, fazla olan miktarda zarf rastgele alınarak açılmadan yok edilir.\n c) Zarflar teker teker açılır ve oy pusulası çıkan zarflar ayrı ayrı olmak üzere sıralanır. Birden fazla oy pusulası çıkan zarflar sayıma katılmaz.\n d) Üye tam sayısının yarısından en az bir fazla ad yazılı bulunmayan oy pusulası geçersizdir.\n e) Seçilecek üye sayısından daha fazla ad yazılı bulunan oy pusulasında, sondan başlanarak fazla adlar hesaba katılmaz.\n f) Oyların sayımı yapılır ve sonuç en çok oy alandan en az oy alana doğru sıralanarak bir tutanakla tespit ve ilan olunur.\n Adayların aldıkları oylarda eşitlik olması halinde, meslek kıdemi fazla olan, kıdemlerin eşitliği halinde ise adayların en yaşlısı ön sırada yer alır.\n Seçim sonuçlarını belirtir tutanağın bir örneği Türkiye Barolar Birliğine gönderilir.\n Bu kurallar tüm organ seçimlerinde geçerlidir.\n Yönetmeliğin bu bölümünde yer alan seçime ilişkin hükümler ile Yönetmeliğin Altıncı Bölümündeki genel kurul toplantısına ilişkin hükümler; Türkiye Barolar Birliği için de kıyasen uygulanır.",
+      "preview": "Genel kurula katılan avukatların tümünün oyunu kullanması ya da oy verme süresinin dolmasından sonra oy verme işlemi sona erer. Durum bir tu…",
+      "kitap": null,
+      "kisim": null,
+      "bolum": "SEKİZİNCİ BÖLÜM · Seçim",
+      "ayirim": null,
+      "maddeBaslik": "Oy Vermenin Bitimi ve Sayım",
+      "sectionPath": [
+        "SEKİZİNCİ BÖLÜM · Seçim",
+        "Oy Vermenin Bitimi ve Sayım"
+      ]
+    },
+    {
+      "id": "yonetmelik:5780:m:57",
+      "maddeKind": "madde",
+      "maddeNo": "57",
+      "heading": "Madde 57",
+      "text": "Denetleme kurulunun görevi baronun mali işlerini incelemektir.\n Kurul, denetleme görevini en az iki ayda bir yapar. Bunun şeklini ve yöntemini kendisi kararlaştırır. Ancak, denetim sırasında aşağıdaki hususların yerine getirilmesi zorunludur.\n a) Baro gelir ve gider hesaplarının ve kayıtların dayanaklarının incelemesini yapmak,\n b) Kayıtların usulüne göre yapılıp yapılmadığını tespit etmek,\n c) Gider kayıtlarının; bütçeye, genel kurul ve yönetim kurulu kararı ile mevzuata uygunluğunu incelemek,\n d) Baro yönetim kurulu tarafından kendilerine tevdi edilen hesap raporlarını incelemek ve varsa usulsüzlük ve hataları tespit etmek,\n e) CMUK hesaplarının denetimini yapmak.\n Denetçiler, inceleme sonunda üç nüsha rapor düzenlerler. Bu raporlardan biri denetleme kurulunun karar ve rapor dosyasına konur, biri yönetim kuruluna verilir, diğeri de dönem sonunda bu Yönetmeliğin 58 inci maddesine göre hazırlanacak yıllık raporlara eklenir.\n Baro yönetim kurulu; denetleme kurulunun çalışmalarını kolaylaştırmak ve istenilen belge ve kayıtları denetleme kurulunun incelemesine hazır bulundurmak zorundadır.\n Denetleme kurulunun görev süresi, baro genel kurulunun bir toplantı dönemidir.",
+      "preview": "Denetleme kurulunun görevi baronun mali işlerini incelemektir. Kurul, denetleme görevini en az iki ayda bir yapar. Bunun şeklini ve yöntemin…",
+      "kitap": null,
+      "kisim": null,
+      "bolum": "DOKUZUNCU BÖLÜM · Denetleme Kurulu",
+      "ayirim": null,
+      "maddeBaslik": "Görevleri",
+      "sectionPath": [
+        "DOKUZUNCU BÖLÜM · Denetleme Kurulu",
+        "Görevleri"
+      ]
+    },
+    {
+      "id": "yonetmelik:5780:m:58",
+      "maddeKind": "madde",
+      "maddeNo": "58",
+      "heading": "Madde 58",
+      "text": "Baro denetleme kurulu, dönem sonunda genel kurula sunulmak üzere, baronun iki yıllık mali işlerini gösteren bir rapor düzenler.",
+      "preview": "Baro denetleme kurulu, dönem sonunda genel kurula sunulmak üzere, baronun iki yıllık mali işlerini gösteren bir rapor düzenler.",
+      "kitap": null,
+      "kisim": null,
+      "bolum": "DOKUZUNCU BÖLÜM · Denetleme Kurulu",
+      "ayirim": null,
+      "maddeBaslik": "Rapor Düzenlenmesi",
+      "sectionPath": [
+        "DOKUZUNCU BÖLÜM · Denetleme Kurulu",
+        "Rapor Düzenlenmesi"
+      ]
+    },
+    {
+      "id": "yonetmelik:5780:m:59",
+      "maddeKind": "madde",
+      "maddeNo": "59",
+      "heading": "Madde 59",
+      "text": "Baro denetleme kurulu, incelemeleri sırasında baro mali işlerinde ve kayıtların tutulmasında düzensizlikler ve açıklar tespit eder ve bu düzensizliklerin devam ettiği sonucuna varırsa veya mevcut düzensizlikleri vahim görürse; bu konuda bir rapor düzenler ve baro genel kurulunun olağanüstü toplantıya çağırılmasına karar verir. Genel kurul, Avukatlık Kanununun 84, 85 ve 87 nci maddelerine göre toplanarak karar verir.",
+      "preview": "Baro denetleme kurulu, incelemeleri sırasında baro mali işlerinde ve kayıtların tutulmasında düzensizlikler ve açıklar tespit eder ve bu düz…",
+      "kitap": null,
+      "kisim": null,
+      "bolum": "DOKUZUNCU BÖLÜM · Denetleme Kurulu",
+      "ayirim": null,
+      "maddeBaslik": "Olağanüstü Toplantıya Çağrı",
+      "sectionPath": [
+        "DOKUZUNCU BÖLÜM · Denetleme Kurulu",
+        "Olağanüstü Toplantıya Çağrı"
+      ]
+    },
+    {
+      "id": "yonetmelik:5780:m:60",
+      "maddeKind": "madde",
+      "maddeNo": "60",
+      "heading": "Madde 60",
+      "text": "Avukatlık Kanunu ve bu Yönetmelik hükümleri gereğince baro kararlarına karşı yapılan itirazlar, kararı veren baro aracılığıyla veya doğrudan Türkiye Barolar Birliğine yapılır.\n Türkiye Barolar Birliği Başkanı protokolde, Yargıtay Cumhuriyet Başsavcısının yanında yer alır.",
+      "preview": "Avukatlık Kanunu ve bu Yönetmelik hükümleri gereğince baro kararlarına karşı yapılan itirazlar, kararı veren baro aracılığıyla veya doğrudan…",
+      "kitap": null,
+      "kisim": null,
+      "bolum": "ONUNCU BÖLÜM · Türkiye Barolar Birliğinin İşlemleri",
+      "ayirim": null,
+      "maddeBaslik": "İdari İşler",
+      "sectionPath": [
+        "ONUNCU BÖLÜM · Türkiye Barolar Birliğinin İşlemleri",
+        "İdari İşler"
+      ]
+    },
+    {
+      "id": "yonetmelik:5780:m:61",
+      "maddeKind": "madde",
+      "maddeNo": "61",
+      "heading": "Madde 61",
+      "text": "Bu Yönetmelikte yer alan baro denetleme kurullarının çalışma biçim ve yöntemleri, Türkiye Barolar Birliği Denetleme Kurulu hakkında da uygulanır.",
+      "preview": "Bu Yönetmelikte yer alan baro denetleme kurullarının çalışma biçim ve yöntemleri, Türkiye Barolar Birliği Denetleme Kurulu hakkında da uygul…",
+      "kitap": null,
+      "kisim": null,
+      "bolum": "ONUNCU BÖLÜM · Türkiye Barolar Birliğinin İşlemleri",
+      "ayirim": null,
+      "maddeBaslik": "Denetleme Kurulu",
+      "sectionPath": [
+        "ONUNCU BÖLÜM · Türkiye Barolar Birliğinin İşlemleri",
+        "Denetleme Kurulu"
+      ]
+    },
+    {
+      "id": "yonetmelik:5780:m:62",
+      "maddeKind": "madde",
+      "maddeNo": "62",
+      "heading": "Madde 62",
+      "text": "Türkiye Barolar Birliği Yönetim ve Disiplin Kurulları, itirazen inceledikleri dosyada noksan gördükleri hususları tamamlatmak üzere dosyayı, kararı veren kurula iade edebilir. Böyle bir durumda noksan tamamlanıncaya kadar inceleme yapılmaz ve Türkiye Barolar Birliğinin karar verme süresi işlemez.",
+      "preview": "Türkiye Barolar Birliği Yönetim ve Disiplin Kurulları, itirazen inceledikleri dosyada noksan gördükleri hususları tamamlatmak üzere dosyayı,…",
+      "kitap": null,
+      "kisim": null,
+      "bolum": "ONUNCU BÖLÜM · Türkiye Barolar Birliğinin İşlemleri",
+      "ayirim": null,
+      "maddeBaslik": "İtirazlarla İlgili Dosyadaki Eksiklikler",
+      "sectionPath": [
+        "ONUNCU BÖLÜM · Türkiye Barolar Birliğinin İşlemleri",
+        "İtirazlarla İlgili Dosyadaki Eksiklikler"
+      ]
+    },
+    {
+      "id": "yonetmelik:5780:m:63",
+      "maddeKind": "madde",
+      "maddeNo": "63",
+      "heading": "Madde 63",
+      "text": "Disiplin kovuşturmalarında; isnat olunan hususların ilgiliye açıkça ve yazılı olarak bildirilmesi, yazılı savunmasının istenmesi ve savunma için en az on günlük bir süre tanınması şarttır. Disiplin işlemleri; soruşturma ve disiplin kovuşturması olmak üzere iki bölümden oluşur. Disiplin kovuşturmasının açılmasına veya açılmasına yer olmadığına karar verilebilmesi, soruşturmanın yapılmasına bağlıdır.\n Avukatlık Kanununa ve Meslek Kurallarına aykırı davranışlar, disiplin kovuşturmasını gerektirir.",
+      "preview": "Disiplin kovuşturmalarında; isnat olunan hususların ilgiliye açıkça ve yazılı olarak bildirilmesi, yazılı savunmasının istenmesi ve savunma…",
+      "kitap": null,
+      "kisim": null,
+      "bolum": "ONBİRİNCİ BÖLÜM · Disiplin İşlemleri",
+      "ayirim": null,
+      "maddeBaslik": "Genel Kural",
+      "sectionPath": [
+        "ONBİRİNCİ BÖLÜM · Disiplin İşlemleri",
+        "Genel Kural"
+      ]
+    },
+    {
+      "id": "yonetmelik:5780:m:64",
+      "maddeKind": "madde",
+      "maddeNo": "64",
+      "heading": "Madde 64",
+      "text": "Avukat hakkında soruşturma;\n a) İlgilinin ihbar veya şikayeti,\n b) Cumhuriyet Savcısının isteği,\n c) Baro yönetim kurulunca görülecek lüzum,\n üzerine yapılır.",
+      "preview": "Avukat hakkında soruşturma; a) İlgilinin ihbar veya şikayeti, b) Cumhuriyet Savcısının isteği, c) Baro yönetim kurulunca görülecek lüzum, üz…",
+      "kitap": null,
+      "kisim": null,
+      "bolum": "ONBİRİNCİ BÖLÜM · Disiplin İşlemleri",
+      "ayirim": null,
+      "maddeBaslik": "Soruşturma",
+      "sectionPath": [
+        "ONBİRİNCİ BÖLÜM · Disiplin İşlemleri",
+        "Soruşturma"
+      ]
+    },
+    {
+      "id": "yonetmelik:5780:m:65",
+      "maddeKind": "madde",
+      "maddeNo": "65",
+      "heading": "Madde 65",
+      "text": "İhbar veya şikayet, yazılı ya da sözlü olarak yapılır.\n a) Sözlü ihbar veya şikayet, herhangi bir kişinin baroya başvurması ve hakkında ihbarda bulunduğu avukatı belirtip, iddialarını açıklamasıyla yapılmış olur.\n b) Yazılı ihbar veya şikayet, bu konuda baroya verilecek yazı ile yapılır.\n Her iki durumda da başvuran kişinin açık kimliği ve adresi, ihbar veya şikayet olunan avukatın kimliği, ihbar veya şikayet konusu, maddi olaylar ve ihbar gününün belirtilmesi zorunludur. Sözlü ihbar veya şikayette bu hususlar, baro başkanı veya yönetim kurulu üyelerinden biri ile ihbar veya şikayette bulunan kişi ve katip tarafından imzalanacak bir tutanakla tespit edilir.\n Şikayet edenden, şikayetin mahiyeti ve genişliği göz önünde bulundurularak, baro başkanınca masraf avansı istenebilir. Talep edilen avans ve tamamlanması istenen miktar ilgilisi tarafından ödenmedikçe, işlem yapılmayabilir.",
+      "preview": "İhbar veya şikayet, yazılı ya da sözlü olarak yapılır. a) Sözlü ihbar veya şikayet, herhangi bir kişinin baroya başvurması ve hakkında ihbar…",
+      "kitap": null,
+      "kisim": null,
+      "bolum": "ONBİRİNCİ BÖLÜM · Disiplin İşlemleri",
+      "ayirim": null,
+      "maddeBaslik": "İhbar veya Şikayet",
+      "sectionPath": [
+        "ONBİRİNCİ BÖLÜM · Disiplin İşlemleri",
+        "İhbar veya Şikayet"
+      ]
+    },
+    {
+      "id": "yonetmelik:5780:m:66",
+      "maddeKind": "madde",
+      "maddeNo": "66",
+      "heading": "Madde 66",
+      "text": "Yönetim kurulu, acil durumlar dışında, ihbar veya şikayetin yapılmasından sonra yapacağı ilk toplantıda ihbar veya şikayeti inceler.\n İhbar veya şikayette bulunanın kimliği, adresi ve imzası bulunmayan istekler işleme konamaz. Ancak yönetim kurulu lüzum gördüğü durumlarda ihbar veya şikayet konusu olay hakkında kendiliğinden soruşturma yapabilir.",
+      "preview": "Yönetim kurulu, acil durumlar dışında, ihbar veya şikayetin yapılmasından sonra yapacağı ilk toplantıda ihbar veya şikayeti inceler. İhbar v…",
+      "kitap": null,
+      "kisim": null,
+      "bolum": "ONBİRİNCİ BÖLÜM · Disiplin İşlemleri",
+      "ayirim": null,
+      "maddeBaslik": "İlk İnceleme",
+      "sectionPath": [
+        "ONBİRİNCİ BÖLÜM · Disiplin İşlemleri",
+        "İlk İnceleme"
+      ]
+    },
+    {
+      "id": "yonetmelik:5780:m:67",
+      "maddeKind": "madde",
+      "maddeNo": "67",
+      "heading": "Madde 67",
+      "text": "Şikayet veya ihbar ya da istek konusu olan husus, yönetim kurulunun üyeleri arasından görevlendireceği biri tarafından incelenir. Bu üye delilleri toplar, ihbar veya şikayette bulunanları dinleyebilir ve gerekli göreceği kimselerin ifadelerini yeminli olarak da alabilir. Dayanak olan veya lüzum görülen dava ve icra dosyaları görevli üye tarafından incelendikten ve hakkında ihbar veya şikayette bulunulan avukat dinlendikten veya dinlenmek üzere verilen süre dolduktan sonra düzenlenecek rapor yönetim kuruluna verilir.\n Yönetim kurulu, soruşturma raporunu eksik görürse daha önce görevlendirdiği üyeyi veya diğer bir üyeyi eksikliğin tamamlattırılması için görevlendirebilir.\n Yönetim kurulu, ivedilikle ve her halde şikayet, ihbar veya istek tarihinden itibaren en çok bir yıl içinde disiplin kovuşturması hakkında bir karar vermek zorundadır.",
+      "preview": "Şikayet veya ihbar ya da istek konusu olan husus, yönetim kurulunun üyeleri arasından görevlendireceği biri tarafından incelenir. Bu üye del…",
+      "kitap": null,
+      "kisim": null,
+      "bolum": "ONBİRİNCİ BÖLÜM · Disiplin İşlemleri",
+      "ayirim": null,
+      "maddeBaslik": "Soruşturma Yapılması Görevi",
+      "sectionPath": [
+        "ONBİRİNCİ BÖLÜM · Disiplin İşlemleri",
+        "Soruşturma Yapılması Görevi"
+      ]
+    },
+    {
+      "id": "yonetmelik:5780:m:68",
+      "maddeKind": "madde",
+      "maddeNo": "68",
+      "heading": "Madde 68",
+      "text": "Yönetim kurulu dosyayı ve raporu inceleyerek, aleyhinde şikayet veya ihbarda bulunulan avukat hakkında disiplin kovuşturması açılmasını gerektirecek bir durumun mevcut olmadığını tespit ederse disiplin kovuşturması açılmasına yer olmadığına karar verir.\n Bu kararda; ihbar veya şikayette bulunanın adı ve adresi, şikayet olunan avukatın kimliği, isnat olunan fiil, yapılan inceleme ve deliller ile gerekçe belirtilir.\n Karar, ilgili dosya eklenerek Cumhuriyet Savcılığına resmi yazı ile bildirilir; hakkında soruşturma açılmış bulunan avukata ve varsa şikayetçiye tebliğ olunur.\n Şikayetçiye tebligat, Tebligat Kanunu hükümlerine göre yapılır. Şu kadar ki, karar örneğinin elden verilerek tebliği de mümkündür. Bu takdirde tebligatın yapıldığı tarih, tebellüğ eden şikayetçinin adı ve soyadı bir tutanakla tespit edilerek şikayetçi ile baro adına başkatip ve ilgili memur tarafından imzalanır. Cumhuriyet Savcısına gönderilen resmi yazının bir örneği, yazıyı alan tarafından yazının alındığı tarih belirtilerek imzalanır. Tebligat parçaları veya tutanakla savcılık alındısı dosyaya konur.",
+      "preview": "Yönetim kurulu dosyayı ve raporu inceleyerek, aleyhinde şikayet veya ihbarda bulunulan avukat hakkında disiplin kovuşturması açılmasını gere…",
+      "kitap": null,
+      "kisim": null,
+      "bolum": "ONBİRİNCİ BÖLÜM · Disiplin İşlemleri",
+      "ayirim": null,
+      "maddeBaslik": "Disiplin Kovuşturmasına Yer Olmadığı Kararı",
+      "sectionPath": [
+        "ONBİRİNCİ BÖLÜM · Disiplin İşlemleri",
+        "Disiplin Kovuşturmasına Yer Olmadığı Kararı"
+      ]
+    },
+    {
+      "id": "yonetmelik:5780:m:69",
+      "maddeKind": "madde",
+      "maddeNo": "69",
+      "heading": "Madde 69",
+      "text": "Baro yönetim kurulunun disiplin kovuşturması açılmasına yer olmadığı kararlarına karşı tebliğ tarihinden itibaren 15 gün içinde; ilgili Cumhuriyet Savcılığı ile şikayet eden tarafından, Türkiye Barolar Birliği Yönetim Kuruluna itiraz edilebilir. Baro, itiraz dilekçesini, dosyayı da ekleyerek Türkiye Barolar Birliğine gönderir. Dosyanın Türkiye Barolar Birliğine gidiş dönüş posta gideri itiraz edenden alınır. İtirazın Cumhuriyet Savcılığınca yapılması halinde posta gideri ilgili baro tarafından ödenir.\n Türkiye Barolar Birliğinin; itirazın reddi hakkındaki kararları onaylanmak üzere, karar tarihinden itibaren bir ay içinde Adalet Bakanlığına gönderilir. Bu kararlar, Adalet Bakanlığına ulaştığı tarihten itibaren iki ay içinde Bakanlıkça bir karar verilmediği veya onaylandığı takdirde kesinleşir.\n Adalet Bakanlığı uygun bulmadığı kararları bir daha görüşülmek üzere, gerekçesi ile birlikte Türkiye Barolar Birliğine geri gönderir. Geri gönderilen kararlar, Türkiye Barolar Birliği Yönetim Kurulunca 2/3 çoğunlukla aynen kabul edildiği takdirde onaylanmış, aksi halde onaylanmamış sayılır. Sonuç Türkiye Barolar Birliği tarafından Adalet Bakanlığına ve ilgili baroya bildirilir.\n Adalet Bakanlığının bu madde uyarınca verdiği kararlara karşı Türkiye Barolar Birliği, şikayetçi ve ilgili baro; Adalet Bakanlığının uygun bulmayıp bir daha görüşülmek üzere geri göndermesi üzerine Türkiye Barolar Birliğince verilen kararlara karşı ise, Adalet Bakanlığı, şikayetçi ve ilgili baro idari yargı merciine başvurabilirler.",
+      "preview": "Baro yönetim kurulunun disiplin kovuşturması açılmasına yer olmadığı kararlarına karşı tebliğ tarihinden itibaren 15 gün içinde; ilgili Cumh…",
+      "kitap": null,
+      "kisim": null,
+      "bolum": "ONBİRİNCİ BÖLÜM · Disiplin İşlemleri",
+      "ayirim": null,
+      "maddeBaslik": "İtirazlar",
+      "sectionPath": [
+        "ONBİRİNCİ BÖLÜM · Disiplin İşlemleri",
+        "İtirazlar"
+      ]
+    },
+    {
+      "id": "yonetmelik:5780:m:70",
+      "maddeKind": "madde",
+      "maddeNo": "70",
+      "heading": "Madde 70",
+      "text": "Baro yönetim kurulunun disiplin kovuşturması açılmasına karar vermesi halinde; dosya derhal baro disiplin kuruluna gönderilir ve Avukatlık Kanununun 144 üncü ve sonraki maddeleri uyarınca işlem yapılır.\n Disiplin kurulu kararı, ilgililer ile Cumhuriyet Savcısına bu Yönetmeliğin 68 inci maddesine göre tebliğ olunur.",
+      "preview": "Baro yönetim kurulunun disiplin kovuşturması açılmasına karar vermesi halinde; dosya derhal baro disiplin kuruluna gönderilir ve Avukatlık K…",
+      "kitap": null,
+      "kisim": null,
+      "bolum": "ONBİRİNCİ BÖLÜM · Disiplin İşlemleri",
+      "ayirim": null,
+      "maddeBaslik": "Disiplin Kovuşturması Açılması",
+      "sectionPath": [
+        "ONBİRİNCİ BÖLÜM · Disiplin İşlemleri",
+        "Disiplin Kovuşturması Açılması"
+      ]
+    },
+    {
+      "id": "yonetmelik:5780:m:71",
+      "maddeKind": "madde",
+      "maddeNo": "71",
+      "heading": "Madde 71",
+      "text": "Cumhuriyet Savcısı ve ilgililer, disiplin kurulu kararının tebliğinden itibaren otuz gün içinde, Türkiye Barolar Birliği Disiplin Kuruluna itiraz edebilirler.\n İtiraz dilekçesi ilgili baroya verilir. Baro dosya ile birlikte itiraz dilekçesini Türkiye Barolar Birliği Disiplin Kurulu Başkanlığına gönderir. Dosyanın Türkiye Barolar Birliği Disiplin Kuruluna gidiş dönüş posta gideri itiraz edenden alınır. İtirazın Cumhuriyet Savcılığınca yapılması halinde gider baro tarafından ödenir.",
+      "preview": "Cumhuriyet Savcısı ve ilgililer, disiplin kurulu kararının tebliğinden itibaren otuz gün içinde, Türkiye Barolar Birliği Disiplin Kuruluna i…",
+      "kitap": null,
+      "kisim": null,
+      "bolum": "ONBİRİNCİ BÖLÜM · Disiplin İşlemleri",
+      "ayirim": null,
+      "maddeBaslik": "Baro Disiplin Kurulu Kararına İtiraz",
+      "sectionPath": [
+        "ONBİRİNCİ BÖLÜM · Disiplin İşlemleri",
+        "Baro Disiplin Kurulu Kararına İtiraz"
+      ]
+    },
+    {
+      "id": "yonetmelik:5780:m:72",
+      "maddeKind": "madde",
+      "maddeNo": "72",
+      "heading": "Madde 72",
+      "text": "Resmi ve özel kuruluşlarla yargı mercileri, gerçek ve tüzel kişiler; baroların, yönetim kurulunca görevlendirilen üyelerinin, baro disiplin kurulunun ve Türkiye Barolar Birliği Yönetim ve Disiplin Kurullarının isteği üzerine soruşturma, kovuşturma veya itiraz konusu ile ilgili dosya ve belgelerin incelenmesine izin verirler.\n İncelemenin başka bir baro bölgesinde istinabe yoluyla yapılması gereken hallerde de bu madde hükümleri uygulanır.",
+      "preview": "Resmi ve özel kuruluşlarla yargı mercileri, gerçek ve tüzel kişiler; baroların, yönetim kurulunca görevlendirilen üyelerinin, baro disiplin…",
+      "kitap": null,
+      "kisim": null,
+      "bolum": "ONBİRİNCİ BÖLÜM · Disiplin İşlemleri",
+      "ayirim": null,
+      "maddeBaslik": "Resmi ve Özel Kuruluşların İncelemeye İzin Vermeleri",
+      "sectionPath": [
+        "ONBİRİNCİ BÖLÜM · Disiplin İşlemleri",
+        "Resmi ve Özel Kuruluşların İncelemeye İzin Vermeleri"
+      ]
+    },
+    {
+      "id": "yonetmelik:5780:m:73",
+      "maddeKind": "madde",
+      "maddeNo": "73",
+      "heading": "Madde 73",
+      "text": "Barolar ve Türkiye Barolar Birliğinin idari ve mali denetimi, hazırlanacak program dahilinde adalet müfettişlerince yapılır.\n İdari denetim; barolar ve Türkiye Barolar Birliği organlarının görevlerini kanun hükümlerine uygun olarak yapıp yapmadıklarını tespite yönelik olup, bu sebeple tüm kayıt, işlem, defter, her türlü evrak ve belgelerin (Ek ibare:RG-26/1/2024-32441) fiziksel veya elektronik ortamda incelenmesi suretiyle yapılır.\n Mali denetim;\n a) Barolar ve Türkiye Barolar Birliğinin gelir ve giderlerin incelenmesi,\n b) Giderlerin amacına ve usulüne uygun olup olmadığı,\n c) Gelirlerin yasal kaynaklara dayalı ve zamanında eksiksiz olarak kayıtlara intikal ettirilip ettirilmediği,\n d) Üye keseneklerinin tahsil edilip edilmediği,\n e) Türkiye Barolar Birliği keseneklerinin vaktinde ödenip ödenmediği,\n f) Ölüm yardımı keseneklerinin hak sahiplerine ödenmek üzere Türkiye Barolar Birliğine vaktinde gönderilip gönderilmediği,\n g) Barolar ve Türkiye Barolar Birliğinin, memur ve hizmetlilerin prim ve stopaj vergileri ile ücretlerini, baroların avukatlara ait Sosyal Sigortalar Kurumu prim borçlarını zamanında ödeyip ödemedikleri,\n h) Baro hesaplarında herhangi bir suiistimal bulunup bulunmadığı,\n ı) (Değişik ibare:RG-26/1/2024-32441) CMK hesaplarının denetimi,\n hususlarını kapsar.\n Denetimin amacına uygun ve sağlıklı yürütülebilmesi için, denetim süresince yetkililer müfettişlere yardımcı olur. İstenilen bilgi ve belgeler geciktirilmeden temin edilir.\n Yapılan denetimde, mahallinde giderilmesi mümkün aksaklıklar dışında öneriye değer hususlar ilgili baroya ve Türkiye Barolar Birliğine bildirilir. Müteakip denetimde bu hususlara uyulup uyulmadığı üzerinde durulur.\n Denetim sırasında idari ve mali konularda tespit edilecek organların usulsüzlük ve yolsuzluklarından dolayı yapılan soruşturma sonunda düzenlenecek fezlekeli evrak Adalet Bakanlığı Teftiş Kurulu Başkanlığına tevdi edilir.\n\n (Ek bölüm:RG-6/9/2008-26989)\n ONÜÇÜNCÜ BÖLÜM\n Sürekli Avukatlık Hizmetlerinde Uygulanacak Esaslar\n\n Sözleşme yapılması ve sözleşmede bulunması gereken hükümler\n MADDE 73/A – Sürekli avukatlık hizmeti içeren çalışma şekillerinde, 1136 sayılı Avukatlık Kanununa ve Avukatlık Asgari Ücret Tarifesine uygun, yazılı sürekli avukatlık hizmetleri sözleşmesi düzenlenmesi zorunludur. Bu sözleşme taraf sayısından bir fazla nüsha olarak hazırlanır. Birer nüshası taraflara, bir nüshası da sözleşmenin tarafı olan avukat tarafından kayıtlı olduğu baroya verilir. Sözleşme metninde uyuşmazlık çıkması halinde Baroda saklanan nüshaya itibar edilir.\n Her baro sözleşmeler için ayrıca bir kayıt defteri tutar ve bu deftere yıl bağlantılı sıra numarasına göre sözleşmeler kayıt edilir. Kaydı yapılan sözleşme kayıt sıra numarasına göre sözleşmeler klasöründe, bir fotokopisi de avukatın sicil dosyasında saklanır.\n Sözleşmede;\n a) İş sahibinin adı, soyadı, mesleki ya da ticari unvanı, adresi, vergi/T.C. kimlik numarası,\n b) Avukatın/avukatlık bürosunun/avukatlık ortaklığının adı, soyadı, unvanı, vergi/T.C. kimlik numarası,\n c) İşin tanımı,\n ç) Avukatlık ücreti ve bu ücretin ödenme şekli,\n d) Sözleşme hükümlerinin Avukatlık Asgari Ücret Tarifesi değişikliklerine uyarlanacağı,\n e) Süresi,\n g) Sona erme koşulları,\n ğ) İşin harç ve giderlerinin iş sahibine ait olduğu, bunların peşin olarak ya da avukatın ilk talebinde derhal ödenmesi gerektiği, sözleşmede yazılı adresin avukatın bu konudaki taleplerini ileteceği adres olduğu, bu adrese yapılan tebligatların iş sahibine yapılmış sayılacağı,\n h) (Mülga:RG-7/9/2010-27695)\n yer alır.\n Serbest meslek makbuzu veya bordro düzenlenmesi ve baroya ibraz\n MADDE 73/B – 1136 sayılı Avukatlık Kanunu kapsamındaki sürekli avukatlık hizmeti içeren çalışma şekillerinde sözleşmelere göre tahsil edilen avukatlık ücretine ilişkin serbest meslek makbuz veya bordro örnekleri, her yıl sonunda avukat tarafından bir liste ekinde kayıtlı olduğu baro başkanlığına sunulur. Bu belgeler avukatın sicil dosyasında saklanır.\n Kanuna uygun davranmayan tüzel kişiler ve yıllık rapor\n MADDE 73/C – 1136 sayılı Avukatlık Kanununun 35 inci maddesinin üçüncü fıkrasına aykırı davranan tüzel kişiler, merkezlerinin bulunduğu yer barosu tarafından takip edilerek haklarında suç duyurusunda bulunulur. Baro başkanlığı bu konudaki çalışmaların sonuçlarını sözleşmeye taraf olan avukatları da içeren bir rapor ile her yıl sonunda Türkiye Barolar Birliğine bildirir.\n Disiplin sorumluluğu\n MADDE 73/D – 73/A ve 73/B maddelerine aykırı davranışlar ile Avukatlık Asgari Ücret Tarifesi altında vekalet ücreti kararlaştırılması Meslek Kurallarına aykırılık oluşturur.",
+      "preview": "Barolar ve Türkiye Barolar Birliğinin idari ve mali denetimi, hazırlanacak program dahilinde adalet müfettişlerince yapılır. İdari denetim;…",
+      "kitap": null,
+      "kisim": null,
+      "bolum": "ONİKİNCİ BÖLÜM · Denetim",
+      "ayirim": null,
+      "maddeBaslik": "Barolar ve Türkiye Barolar Birliğinin Denetimi",
+      "sectionPath": [
+        "ONİKİNCİ BÖLÜM · Denetim",
+        "Barolar ve Türkiye Barolar Birliğinin Denetimi"
+      ]
+    },
+    {
+      "id": "yonetmelik:5780:m:74",
+      "maddeKind": "madde",
+      "maddeNo": "74",
+      "heading": "Madde 74",
+      "text": "Avukatlık Kanununun Geçici 13 üncü maddesinin birinci fıkrası uyarınca dava vekilliği yapmaları kabul edilenler, barolarca düzenlenen listeye yazılmakla yükümlüdürler.\n Dava vekilleri listesinde, dava vekillerinin adları ve soyadları dava vekilliği ruhsatnamelerinin tarihi, Bakanlık sicil ve baro listesinde kayıt sıra numarası gösterilir. Liste, isim alfabe sırasına göre düzenlenir. Her adli yılın başında 31 Aralık tarihine kadar, baro listesinde yazılı dava vekillerinin isimlerinin yer aldığı liste düzenlenerek avukatlar listesine eklenip Adalet Bakanlığı ile Türkiye Barolar Birliği ile dava vekillerinin vekalet icra edebilecekleri yer Cumhuriyet Savcılıklarına, en büyük idare amirine, o yer yargı mercilerine, icra ve iflas dairelerine ve noterlerine gönderilir.\n Dava vekillerinin listeye yazılmak için başvurmalarına, listeden silinmelerine ve istemlerinin reddine dair kararlara karşı itirazlar hakkında, avukatlarla ilgili hükümler kıyasen uygulanır.",
+      "preview": "Avukatlık Kanununun Geçici 13 üncü maddesinin birinci fıkrası uyarınca dava vekilliği yapmaları kabul edilenler, barolarca düzenlenen listey…",
+      "kitap": null,
+      "kisim": null,
+      "bolum": "ONİKİNCİ BÖLÜM · Denetim",
+      "ayirim": null,
+      "maddeBaslik": "Dava Vekilleri",
+      "sectionPath": [
+        "ONİKİNCİ BÖLÜM · Denetim",
+        "Dava Vekilleri"
+      ]
+    },
+    {
+      "id": "yonetmelik:5780:m:75",
+      "maddeKind": "madde",
+      "maddeNo": "75",
+      "heading": "Madde 75",
+      "text": "Avukatlık Kanununun Geçici 17 nci maddesi hükümleri saklı kalmak üzere bu Yönetmeliğin 74 üncü maddesi ile avukatlık mesleğine kabul, yalnız avukatların yapabileceği işler, başka baroya nakil, disiplin işlemlerine ilişkin hükümleri dava ve iş takipçileri hakkında da kıyasen uygulanır.\n Dava ve iş takipçileri, Avukatlık Kanununun Geçici 17 nci maddesinin dördüncü fıkrası uyarınca bulundukları yerdeki avukat veya dava vekilleri sayısı üçü bulmadıkça listesine yazılı oldukları baro veya başka bir baro bölgesindeki bir yere nakledilemezler.\n Dava ve iş takipçilerine verilecek yetki belgesi Türkiye Barolar Birliğinin belirleyeceği örneğe göre düzenlenir.",
+      "preview": "Avukatlık Kanununun Geçici 17 nci maddesi hükümleri saklı kalmak üzere bu Yönetmeliğin 74 üncü maddesi ile avukatlık mesleğine kabul, yalnız…",
+      "kitap": null,
+      "kisim": null,
+      "bolum": "ONİKİNCİ BÖLÜM · Denetim",
+      "ayirim": null,
+      "maddeBaslik": "Dava ve İş Takipçileri",
+      "sectionPath": [
+        "ONİKİNCİ BÖLÜM · Denetim",
+        "Dava ve İş Takipçileri"
+      ]
+    },
+    {
+      "id": "yonetmelik:5780:m:76",
+      "maddeKind": "madde",
+      "maddeNo": "76",
+      "heading": "Madde 76",
+      "text": "20/2/1973 tarihli ve 14454 sayılı Resmî Gazete’de yayımlanan Avukatlık Kanunu Yönetmeliği yürürlükten kaldırılmıştır.",
+      "preview": "20/2/1973 tarihli ve 14454 sayılı Resmî Gazete’de yayımlanan Avukatlık Kanunu Yönetmeliği yürürlükten kaldırılmıştır.",
+      "kitap": null,
+      "kisim": null,
+      "bolum": "ONİKİNCİ BÖLÜM · Denetim",
+      "ayirim": null,
+      "maddeBaslik": "Yürürlükten Kaldırılan Hükümler",
+      "sectionPath": [
+        "ONİKİNCİ BÖLÜM · Denetim",
+        "Yürürlükten Kaldırılan Hükümler"
+      ]
+    },
+    {
+      "id": "yonetmelik:5780:m:gecici:1",
+      "maddeKind": "gecici",
+      "maddeNo": "1",
+      "heading": "Geçici Madde 1",
+      "text": "Bu Yönetmeliğin 13 üncü maddesi uyarınca Türkiye Barolar Birliği tarafından düzenlenen avukat kimlikleri dışındaki kimlikler, 1/1/2003 tarihinden sonra avukat kimliği olarak kullanılamaz.",
+      "preview": "Bu Yönetmeliğin 13 üncü maddesi uyarınca Türkiye Barolar Birliği tarafından düzenlenen avukat kimlikleri dışındaki kimlikler, 1/1/2003 tarih…",
+      "kitap": null,
+      "kisim": null,
+      "bolum": "ONİKİNCİ BÖLÜM · Denetim",
+      "ayirim": null,
+      "maddeBaslik": "Yürürlükten Kaldırılan Hükümler",
+      "sectionPath": [
+        "ONİKİNCİ BÖLÜM · Denetim",
+        "Yürürlükten Kaldırılan Hükümler"
+      ]
+    },
+    {
+      "id": "yonetmelik:5780:m:gecici:2",
+      "maddeKind": "gecici",
+      "maddeNo": "2",
+      "heading": "Geçici Madde 2",
+      "text": "(Ek:RG-6/9/2008-26989)\n Bu Yönetmeliğin onüçüncü bölüm hükümlerinin yürürlük tarihinden önce düzenlenen sürekli avukatlık hizmetleri sözleşmeleri, 31/12/2008 tarihine kadar bu Yönetmelikle uyumlu hale getirilir ve sözleşmenin tarafı olan avukatların Yönetmelikten doğan yükümlülükleri aynı süre için devam eder.",
+      "preview": "(Ek:RG-6/9/2008-26989) Bu Yönetmeliğin onüçüncü bölüm hükümlerinin yürürlük tarihinden önce düzenlenen sürekli avukatlık hizmetleri sözleşme…",
+      "kitap": null,
+      "kisim": null,
+      "bolum": "ONİKİNCİ BÖLÜM · Denetim",
+      "ayirim": null,
+      "maddeBaslik": "Mevcut sözleşmelerin uyumu",
+      "sectionPath": [
+        "ONİKİNCİ BÖLÜM · Denetim",
+        "Mevcut sözleşmelerin uyumu"
+      ]
+    },
+    {
+      "id": "yonetmelik:5780:m:77",
+      "maddeKind": "madde",
+      "maddeNo": "77",
+      "heading": "Madde 77",
+      "text": "Bu Yönetmelik yayımı tarihinde yürürlüğe girer.",
+      "preview": "Bu Yönetmelik yayımı tarihinde yürürlüğe girer.",
+      "kitap": null,
+      "kisim": null,
+      "bolum": "ONİKİNCİ BÖLÜM · Denetim",
+      "ayirim": null,
+      "maddeBaslik": "Yürürlük",
+      "sectionPath": [
+        "ONİKİNCİ BÖLÜM · Denetim",
+        "Yürürlük"
+      ]
+    },
+    {
+      "id": "yonetmelik:5780:m:78",
+      "maddeKind": "madde",
+      "maddeNo": "78",
+      "heading": "Madde 78",
+      "text": "Bu Yönetmelik hükümleri Türkiye Barolar Birliği Yönetim Kurulu tarafından yürütülür.\n ___________\n (1) 6/9/2008 tarihli ve 26989 sayılı Resmi Gazete’de yayımlanan Türkiye Barolar Birliği Avukatlık Kanunu Yönetmeliğinde Değişiklik Yapilmasina Dair Yönetmelik uyarınca, bu Yönetmeliğe onikinci bölümünden sonra gelmek üzere onüçüncü bölüm eklenmiş, mevcut onüçüncü bölüm ondördüncü bölüm olarak teselsül ettirilmiştir.\n (2) 14/4/2017 tarihli ve 30038 sayılı Resmi Gazete’de yayımlanan Türkiye Barolar Birliği Uzlaşma Sağlama Yönetmeliği ile Yönetmeliğin 16 ncı ve 17 nci maddeleri yürürlükten kaldırılmıştır.\n (3) 2/9/2020 tarihli ve 31232 sayılı Resmî Gazete’de yayımlanan değişiklik ile Yönetmeliğe 31 inci maddesine birinci fıkradan sonra gelmek üzere fıkra eklenmiş ve diğer fıkralar buna göre teselsül ettirilmiştir.\n (4) Bu değişiklik 6/2/2023 tarihinden geçerli olmak üzere yayımı tarihinde yürürlüğe girer.",
+      "preview": "Bu Yönetmelik hükümleri Türkiye Barolar Birliği Yönetim Kurulu tarafından yürütülür. ___________ (1) 6/9/2008 tarihli ve 26989 sayılı Resmi…",
+      "kitap": null,
+      "kisim": null,
+      "bolum": "ONİKİNCİ BÖLÜM · Denetim",
+      "ayirim": null,
+      "maddeBaslik": "Yürütme",
+      "sectionPath": [
+        "ONİKİNCİ BÖLÜM · Denetim",
+        "Yürütme"
+      ]
+    }
+  ]
+}

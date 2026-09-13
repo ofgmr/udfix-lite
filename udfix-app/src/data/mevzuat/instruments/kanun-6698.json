@@ -1,0 +1,626 @@
+{
+  "id": "kanun:6698",
+  "kind": "kanun",
+  "no": "6698",
+  "title": "Kişisel Verilerin Korunması Kanunu",
+  "shortName": "KVKK",
+  "aliases": [
+    "KVKK",
+    "Kişisel Verilerin Korunması Kanunu",
+    "6698"
+  ],
+  "tur": 1,
+  "tertip": 5,
+  "sourceUrl": "https://www.mevzuat.gov.tr/mevzuat?MevzuatNo=6698&MevzuatTur=1&MevzuatTertip=5",
+  "kabulTarihi": "24/3/2016",
+  "maddeCount": 36,
+  "maddeler": [
+    {
+      "id": "kanun:6698:m:1",
+      "maddeKind": "madde",
+      "maddeNo": "1",
+      "heading": "Madde 1",
+      "text": "(1) Bu Kanunun amacı, kişisel verilerin işlenmesinde başta özel hayatın gizliliği olmak üzere kişilerin temel hak ve özgürlüklerini korumak ve kişisel verileri işleyen gerçek ve tüzel kişilerin yükümlülükleri ile uyacakları usul ve esasları düzenlemektir.",
+      "preview": "(1) Bu Kanunun amacı, kişisel verilerin işlenmesinde başta özel hayatın gizliliği olmak üzere kişilerin temel hak ve özgürlüklerini korumak…",
+      "kitap": null,
+      "kisim": null,
+      "bolum": null,
+      "ayirim": null,
+      "maddeBaslik": null,
+      "sectionPath": []
+    },
+    {
+      "id": "kanun:6698:m:2",
+      "maddeKind": "madde",
+      "maddeNo": "2",
+      "heading": "Madde 2",
+      "text": "(1) Bu Kanun hükümleri, kişisel verileri işlenen gerçek kişiler ile bu verileri tamamen veya kısmen otomatik olan ya da herhangi bir veri kayıt sisteminin parçası olmak kaydıyla otomatik olmayan yollarla işleyen gerçek ve tüzel kişiler hakkında uygulanır.",
+      "preview": "(1) Bu Kanun hükümleri, kişisel verileri işlenen gerçek kişiler ile bu verileri tamamen veya kısmen otomatik olan ya da herhangi bir veri ka…",
+      "kitap": null,
+      "kisim": null,
+      "bolum": null,
+      "ayirim": null,
+      "maddeBaslik": "Kapsam",
+      "sectionPath": [
+        "Kapsam"
+      ]
+    },
+    {
+      "id": "kanun:6698:m:3",
+      "maddeKind": "madde",
+      "maddeNo": "3",
+      "heading": "Madde 3",
+      "text": "(1) Bu Kanunun uygulanmasında;\n a) Açık rıza: Belirli bir konuya ilişkin, bilgilendirilmeye dayanan ve özgür iradeyle açıklanan rızayı,\n b) Anonim hâle getirme: Kişisel verilerin, başka verilerle eşleştirilerek dahi hiçbir surette kimliği belirli veya belirlenebilir bir gerçek kişiyle ilişkilendirilemeyecek hâle getirilmesini,\n c) Başkan: Kişisel Verileri Koruma Kurumu Başkanını,\n ç) İlgili kişi: Kişisel verisi işlenen gerçek kişiyi,\n d) Kişisel veri: Kimliği belirli veya belirlenebilir gerçek kişiye ilişkin her türlü bilgiyi,\n e) Kişisel verilerin işlenmesi: Kişisel verilerin tamamen veya kısmen otomatik olan ya da herhangi bir veri kayıt sisteminin parçası olmak kaydıyla otomatik olmayan yollarla elde edilmesi, kaydedilmesi, depolanması, muhafaza edilmesi, değiştirilmesi, yeniden düzenlenmesi, açıklanması, aktarılması, devralınması, elde edilebilir hâle getirilmesi, sınıflandırılması ya da kullanılmasının engellenmesi gibi veriler üzerinde gerçekleştirilen her türlü işlemi,\n f) Kurul: Kişisel Verileri Koruma Kurulunu,\n g) Kurum: Kişisel Verileri Koruma Kurumunu,\n ğ) Veri işleyen: Veri sorumlusunun verdiği yetkiye dayanarak onun adına kişisel verileri işleyen gerçek veya tüzel kişiyi,\n h) Veri kayıt sistemi: Kişisel verilerin belirli kriterlere göre yapılandırılarak işlendiği kayıt sistemini,\n ı) Veri sorumlusu: Kişisel verilerin işleme amaçlarını ve vasıtalarını belirleyen, veri kayıt sisteminin kurulmasından ve yönetilmesinden sorumlu olan gerçek veya tüzel kişiyi,\n ifade eder.",
+      "preview": "(1) Bu Kanunun uygulanmasında; a) Açık rıza: Belirli bir konuya ilişkin, bilgilendirilmeye dayanan ve özgür iradeyle açıklanan rızayı, b) An…",
+      "kitap": null,
+      "kisim": null,
+      "bolum": null,
+      "ayirim": null,
+      "maddeBaslik": "Tanımlar",
+      "sectionPath": [
+        "Tanımlar"
+      ]
+    },
+    {
+      "id": "kanun:6698:m:4",
+      "maddeKind": "madde",
+      "maddeNo": "4",
+      "heading": "Madde 4",
+      "text": "(1) Kişisel veriler, ancak bu Kanunda ve diğer kanunlarda öngörülen usul ve esaslara uygun olarak işlenebilir.\n (2) Kişisel verilerin işlenmesinde aşağıdaki ilkelere uyulması zorunludur:\n a) Hukuka ve dürüstlük kurallarına uygun olma.\n b) Doğru ve gerektiğinde güncel olma.\n c) Belirli, açık ve meşru amaçlar için işlenme.\n ç) İşlendikleri amaçla bağlantılı, sınırlı ve ölçülü olma.\n d) İlgili mevzuatta öngörülen veya işlendikleri amaç için gerekli olan süre kadar muhafaza edilme.",
+      "preview": "(1) Kişisel veriler, ancak bu Kanunda ve diğer kanunlarda öngörülen usul ve esaslara uygun olarak işlenebilir. (2) Kişisel verilerin işlenme…",
+      "kitap": null,
+      "kisim": null,
+      "bolum": "İKİNCİ BÖLÜM · Kişisel Verilerin İşlenmesi",
+      "ayirim": null,
+      "maddeBaslik": "Genel ilkeler",
+      "sectionPath": [
+        "İKİNCİ BÖLÜM · Kişisel Verilerin İşlenmesi",
+        "Genel ilkeler"
+      ]
+    },
+    {
+      "id": "kanun:6698:m:5",
+      "maddeKind": "madde",
+      "maddeNo": "5",
+      "heading": "Madde 5",
+      "text": "(1) Kişisel veriler ilgili kişinin açık rızası olmaksızın işlenemez.\n (2) Aşağıdaki şartlardan birinin varlığı hâlinde, ilgili kişinin açık rızası aranmaksızın kişisel verilerinin işlenmesi mümkündür:\n a) Kanunlarda açıkça öngörülmesi.\n b) Fiili imkânsızlık nedeniyle rızasını açıklayamayacak durumda bulunan veya rızasına hukuki geçerlilik tanınmayan kişinin kendisinin ya da bir başkasının hayatı veya beden bütünlüğünün korunması için zorunlu olması.\n c) Bir sözleşmenin kurulması veya ifasıyla doğrudan doğruya ilgili olması kaydıyla, sözleşmenin taraflarına ait kişisel verilerin işlenmesinin gerekli olması.\n ç) Veri sorumlusunun hukuki yükümlülüğünü yerine getirebilmesi için zorunlu olması.\n d) İlgili kişinin kendisi tarafından alenileştirilmiş olması.\n e) Bir hakkın tesisi, kullanılması veya korunması için veri işlemenin zorunlu olması.\n f) İlgili kişinin temel hak ve özgürlüklerine zarar vermemek kaydıyla, veri sorumlusunun meşru menfaatleri için veri işlenmesinin zorunlu olması.",
+      "preview": "(1) Kişisel veriler ilgili kişinin açık rızası olmaksızın işlenemez. (2) Aşağıdaki şartlardan birinin varlığı hâlinde, ilgili kişinin açık r…",
+      "kitap": null,
+      "kisim": null,
+      "bolum": "İKİNCİ BÖLÜM · Kişisel Verilerin İşlenmesi",
+      "ayirim": null,
+      "maddeBaslik": "Kişisel verilerin işlenme şartları",
+      "sectionPath": [
+        "İKİNCİ BÖLÜM · Kişisel Verilerin İşlenmesi",
+        "Kişisel verilerin işlenme şartları"
+      ]
+    },
+    {
+      "id": "kanun:6698:m:6",
+      "maddeKind": "madde",
+      "maddeNo": "6",
+      "heading": "Madde 6",
+      "text": "(1) Kişilerin ırkı, etnik kökeni, siyasi düşüncesi, felsefi inancı, dini, mezhebi veya diğer inançları, kılık ve kıyafeti, dernek, vakıf ya da sendika üyeliği, sağlığı, cinsel hayatı, ceza mahkûmiyeti ve güvenlik tedbirleriyle ilgili verileri ile biyometrik ve genetik verileri özel nitelikli kişisel veridir.\n (2) (Mülga:2/3/2024-7499/33 md.)\n (3) (Değişik:2/3/2024-7499/33 md.) Özel nitelikli kişisel verilerin işlenmesi yasaktır. Ancak bu verilerin işlenmesi;\n a) İlgili kişinin açık rızasının olması,\n b) Kanunlarda açıkça öngörülmesi,\n c) Fiili imkânsızlık nedeniyle rızasını açıklayamayacak durumda bulunan veya rızasına hukuki geçerlilik tanınmayan kişinin, kendisinin ya da bir başkasının hayatı veya beden bütünlüğünün korunması için zorunlu olması,\n ç) İlgili kişinin alenileştirdiği kişisel verilere ilişkin ve alenileştirme iradesine uygun olması,\n d) Bir hakkın tesisi, kullanılması veya korunması için zorunlu olması,\n e) Sır saklama yükümlülüğü altında bulunan kişiler veya yetkili kurum ve kuruluşlarca, kamu sağlığının korunması, koruyucu hekimlik, tıbbi teşhis, tedavi ve bakım hizmetlerinin yürütülmesi ile sağlık hizmetlerinin planlanması, yönetimi ve finansmanı amacıyla gerekli olması,\n f) İstihdam, iş sağlığı ve güvenliği, sosyal güvenlik, sosyal hizmetler ve sosyal yardım alanlarındaki hukuki yükümlülüklerin yerine getirilmesi için zorunlu olması,\n g) Siyasi, felsefi, dini veya sendikal amaçlarla kurulan vakıf, dernek ve diğer kâr amacı gütmeyen kuruluş ya da oluşumların, tâbi oldukları mevzuata ve amaçlarına uygun olmak, faaliyet alanlarıyla sınırlı olmak ve üçüncü kişilere açıklanmamak kaydıyla; mevcut veya eski üyelerine ve mensuplarına veyahut bu kuruluş ve oluşumlarla düzenli olarak temasta olan kişilere yönelik olması,\n halinde mümkündür.\n (4) Özel nitelikli kişisel verilerin işlenmesinde, ayrıca Kurul tarafından belirlenen yeterli önlemlerin alınması şarttır.",
+      "preview": "(1) Kişilerin ırkı, etnik kökeni, siyasi düşüncesi, felsefi inancı, dini, mezhebi veya diğer inançları, kılık ve kıyafeti, dernek, vakıf ya…",
+      "kitap": null,
+      "kisim": null,
+      "bolum": "İKİNCİ BÖLÜM · Kişisel Verilerin İşlenmesi",
+      "ayirim": null,
+      "maddeBaslik": "Özel nitelikli kişisel verilerin işlenme şartları",
+      "sectionPath": [
+        "İKİNCİ BÖLÜM · Kişisel Verilerin İşlenmesi",
+        "Özel nitelikli kişisel verilerin işlenme şartları"
+      ]
+    },
+    {
+      "id": "kanun:6698:m:7",
+      "maddeKind": "madde",
+      "maddeNo": "7",
+      "heading": "Madde 7",
+      "text": "(1) Bu Kanun ve ilgili diğer kanun hükümlerine uygun olarak işlenmiş olmasına rağmen, işlenmesini gerektiren sebeplerin ortadan kalkması hâlinde kişisel veriler resen veya ilgili kişinin talebi üzerine veri sorumlusu tarafından silinir, yok edilir veya anonim hâle getirilir.\n (2) Kişisel verilerin silinmesi, yok edilmesi veya anonim hâle getirilmesine ilişkin diğer kanunlarda yer alan hükümler saklıdır.\n (3) Kişisel verilerin silinmesine, yok edilmesine veya anonim hâle getirilmesine ilişkin usul ve esaslar yönetmelikle düzenlenir.",
+      "preview": "(1) Bu Kanun ve ilgili diğer kanun hükümlerine uygun olarak işlenmiş olmasına rağmen, işlenmesini gerektiren sebeplerin ortadan kalkması hâl…",
+      "kitap": null,
+      "kisim": null,
+      "bolum": "İKİNCİ BÖLÜM · Kişisel Verilerin İşlenmesi",
+      "ayirim": null,
+      "maddeBaslik": "Kişisel verilerin silinmesi, yok edilmesi veya anonim hâle getirilmesi",
+      "sectionPath": [
+        "İKİNCİ BÖLÜM · Kişisel Verilerin İşlenmesi",
+        "Kişisel verilerin silinmesi, yok edilmesi veya anonim hâle getirilmesi"
+      ]
+    },
+    {
+      "id": "kanun:6698:m:8",
+      "maddeKind": "madde",
+      "maddeNo": "8",
+      "heading": "Madde 8",
+      "text": "(1) Kişisel veriler, ilgili kişinin açık rızası olmaksızın aktarılamaz.\n (2) Kişisel veriler;\n a) 5 inci maddenin ikinci fıkrasında,\n b) Yeterli önlemler alınmak kaydıyla, 6 ncı maddenin üçüncü fıkrasında,\n belirtilen şartlardan birinin bulunması hâlinde, ilgili kişinin açık rızası aranmaksızın aktarılabilir.\n (3) Kişisel verilerin aktarılmasına ilişkin diğer kanunlarda yer alan hükümler saklıdır.",
+      "preview": "(1) Kişisel veriler, ilgili kişinin açık rızası olmaksızın aktarılamaz. (2) Kişisel veriler; a) 5 inci maddenin ikinci fıkrasında, b) Yeterl…",
+      "kitap": null,
+      "kisim": null,
+      "bolum": "İKİNCİ BÖLÜM · Kişisel Verilerin İşlenmesi",
+      "ayirim": null,
+      "maddeBaslik": "Kişisel verilerin aktarılması",
+      "sectionPath": [
+        "İKİNCİ BÖLÜM · Kişisel Verilerin İşlenmesi",
+        "Kişisel verilerin aktarılması"
+      ]
+    },
+    {
+      "id": "kanun:6698:m:9",
+      "maddeKind": "madde",
+      "maddeNo": "9",
+      "heading": "Madde 9",
+      "text": "(Değişik:2/3/2024-7499/34 md.)\n (1) Kişisel veriler, 5 inci ve 6 ncı maddelerde belirtilen şartlardan birinin varlığı ve aktarımın yapılacağı ülke, ülke içerisindeki sektörler veya uluslararası kuruluşlar hakkında yeterlilik kararı bulunması halinde, veri sorumluları ve veri işleyenler tarafından yurt dışına aktarılabilir.\n (2) Yeterlilik kararı, Kurul tarafından verilir ve Resmî Gazete’de yayımlanır. Kurul, ihtiyaç duyması halinde ilgili kurum ve kuruluşların görüşünü alır. Yeterlilik kararı, en geç dört yılda bir değerlendirilir. Kurul, değerlendirme sonucunda veya gerekli gördüğü diğer hallerde, yeterlilik kararını ileriye etkili olmak üzere değiştirebilir, askıya alabilir veya kaldırabilir.\n (3) Yeterlilik kararı verilirken öncelikle aşağıdaki hususlar dikkate alınır:\n a) Kişisel verilerin aktarılacağı ülke, ülke içerisindeki sektörler veya uluslararası kuruluşlar ile Türkiye arasında kişisel veri aktarımına ilişkin karşılıklılık durumu.\n b) Kişisel verilerin aktarılacağı ülkenin ilgili mevzuatı ve uygulaması ile kişisel verilerin aktarılacağı uluslararası kuruluşun tâbi olduğu kurallar.\n c) Kişisel verilerin aktarılacağı ülkede veya uluslararası kuruluşun tâbi olduğu bağımsız ve etkin bir veri koruma kurumunun varlığı ile idari ve adli başvuru yollarının bulunması.\n ç) Kişisel verilerin aktarılacağı ülkenin veya uluslararası kuruluşun, kişisel verilerin korunmasıyla ilgili uluslararası sözleşmelere taraf veya uluslararası kuruluşlara üye olma durumu.\n d) Kişisel verilerin aktarılacağı ülkenin veya uluslararası kuruluşun, Türkiye’nin üye olduğu küresel veya bölgesel kuruluşlara üye olma durumu.\n e) Türkiye’nin taraf olduğu uluslararası sözleşmeler.\n (4) Kişisel veriler, yeterlilik kararının bulunmaması durumunda, 5 inci ve 6 ncı maddelerde belirtilen şartlardan birinin varlığı, ilgili kişinin aktarımın yapılacağı ülkede de haklarını kullanma ve etkili kanun yollarına başvurma imkânının bulunması kaydıyla, aşağıda belirtilen uygun güvencelerden birinin taraflarca sağlanması halinde veri sorumluları ve veri işleyenler tarafından yurt dışına aktarılabilir:\n a) Yurt dışındaki kamu kurum ve kuruluşları veya uluslararası kuruluşlar ile Türkiye’deki kamu kurum ve kuruluşları veya kamu kurumu niteliğindeki meslek kuruluşları arasında yapılan uluslararası sözleşme niteliğinde olmayan anlaşmanın varlığı ve Kurul tarafından aktarıma izin verilmesi.\n b) Ortak ekonomik faaliyette bulunan teşebbüs grubu bünyesindeki şirketlerin uymakla yükümlü oldukları, kişisel verilerin korunmasına ilişkin hükümler ihtiva eden ve Kurul tarafından onaylanan bağlayıcı şirket kurallarının varlığı.\n c) Kurul tarafından ilan edilen, veri kategorileri, veri aktarımının amaçları, alıcı ve alıcı grupları, veri alıcısı tarafından alınacak teknik ve idari tedbirler, özel nitelikli kişisel veriler için alınan ek önlemler gibi hususları ihtiva eden standart sözleşmenin varlığı.\n ç) Yeterli korumayı sağlayacak hükümlerin yer aldığı yazılı bir taahhütnamenin varlığı ve Kurul tarafından aktarıma izin verilmesi.\n (5) Standart sözleşme, imzalanmasından itibaren beş iş günü içinde veri sorumlusu veya veri işleyen tarafından Kuruma bildirilir.\n (6) Veri sorumluları ve veri işleyenler, yeterlilik kararının bulunmaması ve dördüncü fıkrada öngörülen uygun güvencelerden herhangi birinin sağlanamaması durumunda, arızi olmak kaydıyla sadece aşağıdaki hallerden birinin varlığı halinde yurt dışına kişisel veri aktarabilir:\n a) İlgili kişinin, muhtemel riskler hakkında bilgilendirilmesi kaydıyla, aktarıma açık rıza vermesi.\n b) Aktarımın, ilgili kişi ile veri sorumlusu arasındaki bir sözleşmenin ifası veya ilgili kişinin talebi üzerine alınan sözleşme öncesi tedbirlerin uygulanması için zorunlu olması.\n c) Aktarımın, ilgili kişi yararına veri sorumlusu ve diğer bir gerçek veya tüzel kişi arasında yapılacak bir sözleşmenin kurulması veya ifası için zorunlu olması.\n ç) Aktarımın üstün bir kamu yararı için zorunlu olması.\n d) Bir hakkın tesisi, kullanılması veya korunması için kişisel verilerin aktarılmasının zorunlu olması.\n e) Fiili imkânsızlık nedeniyle rızasını açıklayamayacak durumda bulunan veya rızasına hukuki geçerlilik tanınmayan kişinin kendisinin ya da bir başkasının hayatı veya beden bütünlüğünün korunması için kişisel verilerin aktarılmasının zorunlu olması.\n f) Kamuya veya meşru menfaati bulunan kişilere açık olan bir sicilden, ilgili mevzuatta sicile erişmek için gereken şartların sağlanması ve meşru menfaati olan kişinin talep etmesi kaydıyla aktarım yapılması.\n (7) Altıncı fıkranın (a), (b) ve (c) bentleri, kamu kurum ve kuruluşlarının kamu hukukuna tâbi faaliyetlerine uygulanmaz.\n (8) Veri sorumlusu ve veri işleyenler tarafından, yurt dışına aktarılan kişisel verilerin sonraki aktarımları ve uluslararası kuruluşlara aktarımlar bakımından da bu Kanunda yer alan güvenceler sağlanır ve bu madde hükümleri uygulanır.\n (9) Kişisel veriler, uluslararası sözleşme hükümleri saklı kalmak üzere, Türkiye’nin veya ilgili kişinin menfaatinin ciddi bir şekilde zarar göreceği durumlarda, ancak ilgili kamu kurum veya kuruluşunun görüşü alınarak Kurulun izniyle yurt dışına aktarılabilir.\n (10) Kişisel verilerin yurt dışına aktarılmasına ilişkin diğer kanunlarda yer alan hükümler saklıdır.\n (11) Bu maddenin uygulanmasına ilişkin usul ve esaslar yönetmelikle düzenlenir.",
+      "preview": "(Değişik:2/3/2024-7499/34 md.) (1) Kişisel veriler, 5 inci ve 6 ncı maddelerde belirtilen şartlardan birinin varlığı ve aktarımın yapılacağı…",
+      "kitap": null,
+      "kisim": null,
+      "bolum": "İKİNCİ BÖLÜM · Kişisel Verilerin İşlenmesi",
+      "ayirim": null,
+      "maddeBaslik": "Kişisel verilerin yurt dışına aktarılması",
+      "sectionPath": [
+        "İKİNCİ BÖLÜM · Kişisel Verilerin İşlenmesi",
+        "Kişisel verilerin yurt dışına aktarılması"
+      ]
+    },
+    {
+      "id": "kanun:6698:m:10",
+      "maddeKind": "madde",
+      "maddeNo": "10",
+      "heading": "Madde 10",
+      "text": "(1) Kişisel verilerin elde edilmesi sırasında veri sorumlusu veya yetkilendirdiği kişi, ilgili kişilere;\n a) Veri sorumlusunun ve varsa temsilcisinin kimliği,\n b) Kişisel verilerin hangi amaçla işleneceği,\n c) İşlenen kişisel verilerin kimlere ve hangi amaçla aktarılabileceği,\n ç) Kişisel veri toplamanın yöntemi ve hukuki sebebi,\n d) 11 inci maddede sayılan diğer hakları,\n konusunda bilgi vermekle yükümlüdür.",
+      "preview": "(1) Kişisel verilerin elde edilmesi sırasında veri sorumlusu veya yetkilendirdiği kişi, ilgili kişilere; a) Veri sorumlusunun ve varsa temsi…",
+      "kitap": null,
+      "kisim": null,
+      "bolum": "ÜÇÜNCÜ BÖLÜM · Haklar ve Yükümlülükler",
+      "ayirim": null,
+      "maddeBaslik": "Veri sorumlusunun aydınlatma yükümlülüğü",
+      "sectionPath": [
+        "ÜÇÜNCÜ BÖLÜM · Haklar ve Yükümlülükler",
+        "Veri sorumlusunun aydınlatma yükümlülüğü"
+      ]
+    },
+    {
+      "id": "kanun:6698:m:11",
+      "maddeKind": "madde",
+      "maddeNo": "11",
+      "heading": "Madde 11",
+      "text": "(1) Herkes, veri sorumlusuna başvurarak kendisiyle ilgili;\n a) Kişisel veri işlenip işlenmediğini öğrenme,\n b) Kişisel verileri işlenmişse buna ilişkin bilgi talep etme,\n c) Kişisel verilerin işlenme amacını ve bunların amacına uygun kullanılıp kullanılmadığını öğrenme,\n ç) Yurt içinde veya yurt dışında kişisel verilerin aktarıldığı üçüncü kişileri bilme,\n d) Kişisel verilerin eksik veya yanlış işlenmiş olması hâlinde bunların düzeltilmesini isteme,\n e) 7 nci maddede öngörülen şartlar çerçevesinde kişisel verilerin silinmesini veya yok edilmesini isteme,\n f) (d) ve (e) bentleri uyarınca yapılan işlemlerin, kişisel verilerin aktarıldığı üçüncü kişilere bildirilmesini isteme,\n g) İşlenen verilerin münhasıran otomatik sistemler vasıtasıyla analiz edilmesi suretiyle kişinin kendisi aleyhine bir sonucun ortaya çıkmasına itiraz etme,\n ğ) Kişisel verilerin kanuna aykırı olarak işlenmesi sebebiyle zarara uğraması hâlinde zararın giderilmesini talep etme,\n haklarına sahiptir.",
+      "preview": "(1) Herkes, veri sorumlusuna başvurarak kendisiyle ilgili; a) Kişisel veri işlenip işlenmediğini öğrenme, b) Kişisel verileri işlenmişse bun…",
+      "kitap": null,
+      "kisim": null,
+      "bolum": "ÜÇÜNCÜ BÖLÜM · Haklar ve Yükümlülükler",
+      "ayirim": null,
+      "maddeBaslik": "İlgili kişinin hakları",
+      "sectionPath": [
+        "ÜÇÜNCÜ BÖLÜM · Haklar ve Yükümlülükler",
+        "İlgili kişinin hakları"
+      ]
+    },
+    {
+      "id": "kanun:6698:m:12",
+      "maddeKind": "madde",
+      "maddeNo": "12",
+      "heading": "Madde 12",
+      "text": "(1) Veri sorumlusu;\n a) Kişisel verilerin hukuka aykırı olarak işlenmesini önlemek,\n b) Kişisel verilere hukuka aykırı olarak erişilmesini önlemek,\n c) Kişisel verilerin muhafazasını sağlamak,\n amacıyla uygun güvenlik düzeyini temin etmeye yönelik gerekli her türlü teknik ve idari tedbirleri almak zorundadır.\n (2) Veri sorumlusu, kişisel verilerin kendi adına başka bir gerçek veya tüzel kişi tarafından işlenmesi hâlinde, birinci fıkrada belirtilen tedbirlerin alınması hususunda bu kişilerle birlikte müştereken sorumludur.\n (3) Veri sorumlusu, kendi kurum veya kuruluşunda, bu Kanun hükümlerinin uygulanmasını sağlamak amacıyla gerekli denetimleri yapmak veya yaptırmak zorundadır.\n (4) Veri sorumluları ile veri işleyen kişiler, öğrendikleri kişisel verileri bu Kanun hükümlerine aykırı olarak başkasına açıklayamaz ve işleme amacı dışında kullanamazlar. Bu yükümlülük görevden ayrılmalarından sonra da devam eder.\n (5) İşlenen kişisel verilerin kanuni olmayan yollarla başkaları tarafından elde edilmesi hâlinde, veri sorumlusu bu durumu en kısa sürede ilgilisine ve Kurula bildirir. Kurul, gerekmesi hâlinde bu durumu, kendi internet sitesinde ya da uygun göreceği başka bir yöntemle ilan edebilir.",
+      "preview": "(1) Veri sorumlusu; a) Kişisel verilerin hukuka aykırı olarak işlenmesini önlemek, b) Kişisel verilere hukuka aykırı olarak erişilmesini önl…",
+      "kitap": null,
+      "kisim": null,
+      "bolum": "ÜÇÜNCÜ BÖLÜM · Haklar ve Yükümlülükler",
+      "ayirim": null,
+      "maddeBaslik": "Veri güvenliğine ilişkin yükümlülükler",
+      "sectionPath": [
+        "ÜÇÜNCÜ BÖLÜM · Haklar ve Yükümlülükler",
+        "Veri güvenliğine ilişkin yükümlülükler"
+      ]
+    },
+    {
+      "id": "kanun:6698:m:13",
+      "maddeKind": "madde",
+      "maddeNo": "13",
+      "heading": "Madde 13",
+      "text": "(1) İlgili kişi, bu Kanunun uygulanmasıyla ilgili taleplerini yazılı olarak veya Kurulun belirleyeceği diğer yöntemlerle veri sorumlusuna iletir.\n (2) Veri sorumlusu başvuruda yer alan talepleri, talebin niteliğine göre en kısa sürede ve en geç otuz gün içinde ücretsiz olarak sonuçlandırır. Ancak, işlemin ayrıca bir maliyeti gerektirmesi hâlinde, Kurulca belirlenen tarifedeki ücret alınabilir.\n (3) Veri sorumlusu talebi kabul eder veya gerekçesini açıklayarak reddeder ve cevabını ilgili kişiye yazılı olarak veya elektronik ortamda bildirir. Başvuruda yer alan talebin kabul edilmesi hâlinde veri sorumlusunca gereği yerine getirilir. Başvurunun veri sorumlusunun hatasından kaynaklanması hâlinde alınan ücret ilgiliye iade edilir.",
+      "preview": "(1) İlgili kişi, bu Kanunun uygulanmasıyla ilgili taleplerini yazılı olarak veya Kurulun belirleyeceği diğer yöntemlerle veri sorumlusuna il…",
+      "kitap": null,
+      "kisim": null,
+      "bolum": "DÖRDÜNCÜ BÖLÜM · Başvuru, Şikâyet ve Veri Sorumluları Sicili",
+      "ayirim": null,
+      "maddeBaslik": "Veri sorumlusuna başvuru",
+      "sectionPath": [
+        "DÖRDÜNCÜ BÖLÜM · Başvuru, Şikâyet ve Veri Sorumluları Sicili",
+        "Veri sorumlusuna başvuru"
+      ]
+    },
+    {
+      "id": "kanun:6698:m:14",
+      "maddeKind": "madde",
+      "maddeNo": "14",
+      "heading": "Madde 14",
+      "text": "(1) Başvurunun reddedilmesi, verilen cevabın yetersiz bulunması veya süresinde başvuruya cevap verilmemesi hâllerinde; ilgili kişi, veri sorumlusunun cevabını öğrendiği tarihten itibaren otuz ve her hâlde başvuru tarihinden itibaren altmış gün içinde Kurula şikâyette bulunabilir.\n (2) 13 üncü madde uyarınca başvuru yolu tüketilmeden şikâyet yoluna başvurulamaz.\n (3) Kişilik hakları ihlal edilenlerin, genel hükümlere göre tazminat hakkı saklıdır.",
+      "preview": "(1) Başvurunun reddedilmesi, verilen cevabın yetersiz bulunması veya süresinde başvuruya cevap verilmemesi hâllerinde; ilgili kişi, veri sor…",
+      "kitap": null,
+      "kisim": null,
+      "bolum": "DÖRDÜNCÜ BÖLÜM · Başvuru, Şikâyet ve Veri Sorumluları Sicili",
+      "ayirim": null,
+      "maddeBaslik": "Kurula şikâyet",
+      "sectionPath": [
+        "DÖRDÜNCÜ BÖLÜM · Başvuru, Şikâyet ve Veri Sorumluları Sicili",
+        "Kurula şikâyet"
+      ]
+    },
+    {
+      "id": "kanun:6698:m:15",
+      "maddeKind": "madde",
+      "maddeNo": "15",
+      "heading": "Madde 15",
+      "text": "(1) Kurul, şikâyet üzerine veya ihlal iddiasını öğrenmesi durumunda resen, görev alanına giren konularda gerekli incelemeyi yapar.\n (2) 1/11/1984 tarihli ve 3071 sayılı Dilekçe Hakkının Kullanılmasına Dair Kanunun 6 ncı maddesinde belirtilen şartları taşımayan ihbar veya şikâyetler incelemeye alınmaz.\n (3) Devlet sırrı niteliğindeki bilgi ve belgeler hariç; veri sorumlusu, Kurulun, inceleme konusuyla ilgili istemiş olduğu bilgi ve belgeleri on beş gün içinde göndermek ve gerektiğinde yerinde inceleme yapılmasına imkân sağlamak zorundadır.\n (4) Şikâyet üzerine Kurul, talebi inceleyerek ilgililere bir cevap verir. Şikâyet tarihinden itibaren altmış gün içinde cevap verilmezse talep reddedilmiş sayılır.\n (5) Şikâyet üzerine veya resen yapılan inceleme sonucunda, ihlalin varlığının anlaşılması hâlinde Kurul, tespit ettiği hukuka aykırılıkların veri sorumlusu tarafından giderilmesine karar vererek ilgililere tebliğ eder. Bu karar, tebliğden itibaren gecikmeksizin ve en geç otuz gün içinde yerine getirilir.\n (6) Şikâyet üzerine veya resen yapılan inceleme sonucunda, ihlalin yaygın olduğunun tespit edilmesi hâlinde Kurul, bu konuda ilke kararı alır ve bu kararı yayımlar. Kurul, ilke kararı almadan önce ihtiyaç duyması hâlinde, ilgili kurum ve kuruluşların görüşlerini de alabilir.\n (7) Kurul, telafisi güç veya imkânsız zararların doğması ve açıkça hukuka aykırılık olması hâlinde, veri işlenmesinin veya verinin yurt dışına aktarılmasının durdurulmasına karar verebilir.",
+      "preview": "(1) Kurul, şikâyet üzerine veya ihlal iddiasını öğrenmesi durumunda resen, görev alanına giren konularda gerekli incelemeyi yapar. (2) 1/11/…",
+      "kitap": null,
+      "kisim": null,
+      "bolum": "DÖRDÜNCÜ BÖLÜM · Başvuru, Şikâyet ve Veri Sorumluları Sicili",
+      "ayirim": null,
+      "maddeBaslik": "Şikâyet üzerine veya resen incelemenin usul ve esasları",
+      "sectionPath": [
+        "DÖRDÜNCÜ BÖLÜM · Başvuru, Şikâyet ve Veri Sorumluları Sicili",
+        "Şikâyet üzerine veya resen incelemenin usul ve esasları"
+      ]
+    },
+    {
+      "id": "kanun:6698:m:16",
+      "maddeKind": "madde",
+      "maddeNo": "16",
+      "heading": "Madde 16",
+      "text": "(1) Kurulun gözetiminde, Başkanlık tarafından kamuya açık olarak Veri Sorumluları Sicili tutulur.\n (2) Kişisel verileri işleyen gerçek ve tüzel kişiler, veri işlemeye başlamadan önce Veri Sorumluları Siciline kaydolmak zorundadır. Ancak, işlenen kişisel verinin niteliği, sayısı, veri işlemenin kanundan kaynaklanması veya üçüncü kişilere aktarılma durumu gibi Kurulca belirlenecek objektif kriterler göz önüne alınmak suretiyle, Kurul tarafından, Veri Sorumluları Siciline kayıt zorunluluğuna istisna getirilebilir.\n (3) Veri Sorumluları Siciline kayıt başvurusu aşağıdaki hususları içeren bir bildirimle yapılır:\n a) Veri sorumlusu ve varsa temsilcisinin kimlik ve adres bilgileri.\n b) Kişisel verilerin hangi amaçla işleneceği.\n c) Veri konusu kişi grubu ve grupları ile bu kişilere ait veri kategorileri hakkındaki açıklamalar.\n ç) Kişisel verilerin aktarılabileceği alıcı veya alıcı grupları.\n d) Yabancı ülkelere aktarımı öngörülen kişisel veriler.\n e) Kişisel veri güvenliğine ilişkin alınan tedbirler.\n f) Kişisel verilerin işlendikleri amaç için gerekli olan azami süre.\n (4) Üçüncü fıkra uyarınca verilen bilgilerde meydana gelen değişiklikler derhâl Başkanlığa bildirilir.\n (5) Veri Sorumluları Siciline ilişkin diğer usul ve esaslar yönetmelikle düzenlenir.",
+      "preview": "(1) Kurulun gözetiminde, Başkanlık tarafından kamuya açık olarak Veri Sorumluları Sicili tutulur. (2) Kişisel verileri işleyen gerçek ve tüz…",
+      "kitap": null,
+      "kisim": null,
+      "bolum": "DÖRDÜNCÜ BÖLÜM · Başvuru, Şikâyet ve Veri Sorumluları Sicili",
+      "ayirim": null,
+      "maddeBaslik": "Veri Sorumluları Sicili",
+      "sectionPath": [
+        "DÖRDÜNCÜ BÖLÜM · Başvuru, Şikâyet ve Veri Sorumluları Sicili",
+        "Veri Sorumluları Sicili"
+      ]
+    },
+    {
+      "id": "kanun:6698:m:17",
+      "maddeKind": "madde",
+      "maddeNo": "17",
+      "heading": "Madde 17",
+      "text": "(1) Kişisel verilere ilişkin suçlar bakımından 26/9/2004 tarihli ve 5237 sayılı Türk Ceza Kanununun 135 ila 140 ıncı madde hükümleri uygulanır.\n (2) Bu Kanunun 7 nci maddesi hükmüne aykırı olarak; kişisel verileri silmeyen veya anonim hâle getirmeyenler 5237 sayılı Kanunun 138 inci maddesine göre cezalandırılır.",
+      "preview": "(1) Kişisel verilere ilişkin suçlar bakımından 26/9/2004 tarihli ve 5237 sayılı Türk Ceza Kanununun 135 ila 140 ıncı madde hükümleri uygulan…",
+      "kitap": null,
+      "kisim": null,
+      "bolum": "BEŞİNCİ BÖLÜM · Suçlar ve Kabahatler",
+      "ayirim": null,
+      "maddeBaslik": "Suçlar",
+      "sectionPath": [
+        "BEŞİNCİ BÖLÜM · Suçlar ve Kabahatler",
+        "Suçlar"
+      ]
+    },
+    {
+      "id": "kanun:6698:m:18",
+      "maddeKind": "madde",
+      "maddeNo": "18",
+      "heading": "Madde 18",
+      "text": "(1) Bu Kanunun;\n a) 10 uncu maddesinde öngörülen aydınlatma yükümlülüğünü yerine getirmeyenler hakkında 5.000 Türk lirasından 100.000 Türk lirasına kadar,\n b) 12 nci maddesinde öngörülen veri güvenliğine ilişkin yükümlülükleri yerine getirmeyenler hakkında 15.000 Türk lirasından 1.000.000 Türk lirasına kadar,\n c) 15 inci maddesi uyarınca Kurul tarafından verilen kararları yerine getirmeyenler hakkında 25.000 Türk lirasından 1.000.000 Türk lirasına kadar,\n ç) 16 ncı maddesinde öngörülen Veri Sorumluları Siciline kayıt ve bildirim yükümlülüğüne aykırı hareket edenler hakkında 20.000 Türk lirasından 1.000.000 Türk lirasına kadar,\n d) (Ek:2/3/2024-7499/35 md.) 9 uncu maddenin beşinci fıkrasında öngörülen bildirim yükümlülüğünü yerine getirmeyenler hakkında 50.000 Türk lirasından 1.000.000 Türk lirasına kadar,\n idari para cezası verilir.\n (2) (Değişik:2/3/2024-7499/35 md.) Birinci fıkranın (a), (b), (c) ve (ç) bentlerinde öngörülen idari para cezaları veri sorumlusu, (d) bendinde öngörülen idari para cezası veri sorumlusu veya veri işleyen gerçek kişiler ile özel hukuk tüzel kişileri hakkında uygulanır.\n (3) (Ek:2/3/2024-7499/35 md.) Kurulca verilen idari para cezalarına karşı, idare mahkemelerinde dava açılabilir.\n (4) Birinci fıkrada sayılan eylemlerin kamu kurum ve kuruluşları ile kamu kurumu niteliğindeki meslek kuruluşları bünyesinde işlenmesi hâlinde, Kurulun yapacağı bildirim üzerine, ilgili kamu kurum ve kuruluşunda görev yapan memurlar ve diğer kamu görevlileri ile kamu kurumu niteliğindeki meslek kuruluşlarında görev yapanlar hakkında disiplin hükümlerine göre işlem yapılır ve sonucu Kurula bildirilir.",
+      "preview": "(1) Bu Kanunun; a) 10 uncu maddesinde öngörülen aydınlatma yükümlülüğünü yerine getirmeyenler hakkında 5.000 Türk lirasından 100.000 Türk li…",
+      "kitap": null,
+      "kisim": null,
+      "bolum": "BEŞİNCİ BÖLÜM · Suçlar ve Kabahatler",
+      "ayirim": null,
+      "maddeBaslik": "Kabahatler[1]",
+      "sectionPath": [
+        "BEŞİNCİ BÖLÜM · Suçlar ve Kabahatler",
+        "Kabahatler[1]"
+      ]
+    },
+    {
+      "id": "kanun:6698:m:19",
+      "maddeKind": "madde",
+      "maddeNo": "19",
+      "heading": "Madde 19",
+      "text": "(1) Bu Kanunla verilen görevleri yerine getirmek üzere, idari ve mali özerkliğe sahip ve kamu tüzel kişiliğini haiz Kişisel Verileri Koruma Kurumu kurulmuştur.\n (2) Kurum Cumhurbaşkanının görevlendireceği bakan ile ilişkilidir.[2]\n (3) Kurumun merkezi Ankara’dadır.\n (4) Kurum, Kurul ve Başkanlıktan oluşur. Kurumun karar organı Kuruldur.",
+      "preview": "(1) Bu Kanunla verilen görevleri yerine getirmek üzere, idari ve mali özerkliğe sahip ve kamu tüzel kişiliğini haiz Kişisel Verileri Koruma…",
+      "kitap": null,
+      "kisim": null,
+      "bolum": "ALTINCI BÖLÜM · Kişisel Verileri Koruma Kurumu ve Teşkilat",
+      "ayirim": null,
+      "maddeBaslik": "Kişisel Verileri Koruma Kurumu",
+      "sectionPath": [
+        "ALTINCI BÖLÜM · Kişisel Verileri Koruma Kurumu ve Teşkilat",
+        "Kişisel Verileri Koruma Kurumu"
+      ]
+    },
+    {
+      "id": "kanun:6698:m:20",
+      "maddeKind": "madde",
+      "maddeNo": "20",
+      "heading": "Madde 20",
+      "text": "(1) Kurumun görevleri şunlardır:\n a) Görev alanı itibarıyla, uygulamaları ve mevzuattaki gelişmeleri takip etmek, değerlendirme ve önerilerde bulunmak, araştırma ve incelemeler yapmak veya yaptırmak.\n b) İhtiyaç duyulması hâlinde, görev alanına giren konularda kamu kurum ve kuruluşları, sivil toplum kuruluşları, meslek örgütleri veya üniversitelerle iş birliği yapmak.\n c) Kişisel verilerle ilgili uluslararası gelişmeleri izlemek ve değerlendirmek, görev alanına giren konularda uluslararası kuruluşlarla iş birliği yapmak, toplantılara katılmak.\n ç) Yıllık faaliyet raporunu Cumhurbaşkanlığına, Türkiye Büyük Millet Meclisi İnsan Haklarını İnceleme Komisyonuna (…)[3] sunmak.\n d) Kanunlarla verilen diğer görevleri yerine getirmek.",
+      "preview": "(1) Kurumun görevleri şunlardır: a) Görev alanı itibarıyla, uygulamaları ve mevzuattaki gelişmeleri takip etmek, değerlendirme ve önerilerde…",
+      "kitap": null,
+      "kisim": null,
+      "bolum": "ALTINCI BÖLÜM · Kişisel Verileri Koruma Kurumu ve Teşkilat",
+      "ayirim": null,
+      "maddeBaslik": "Kurumun görevleri",
+      "sectionPath": [
+        "ALTINCI BÖLÜM · Kişisel Verileri Koruma Kurumu ve Teşkilat",
+        "Kurumun görevleri"
+      ]
+    },
+    {
+      "id": "kanun:6698:m:21",
+      "maddeKind": "madde",
+      "maddeNo": "21",
+      "heading": "Madde 21",
+      "text": "(1) Kurul, bu Kanunla ve diğer mevzuatla verilen görev ve yetkilerini kendi sorumluluğu altında, bağımsız olarak yerine getirir ve kullanır. Görev alanına giren konularla ilgili olarak hiçbir organ, makam, merci veya kişi, Kurula emir ve talimat veremez, tavsiye veya telkinde bulunamaz.\n (2) Kurul, dokuz üyeden oluşur. Kurulun beş üyesi Türkiye Büyük Millet Meclisi, dört üyesi Cumhurbaşkanı tarafından seçilir. [4]\n (3) Kurula üye olabilmek için aşağıdaki şartlar aranır:\n a) Kurumun görev alanındaki konularda bilgi ve deneyim sahibi olmak.\n b) 14/7/1965 tarihli ve 657 sayılı Devlet Memurları Kanununun 48 inci maddesinin birinci fıkrasının (A) bendinin (1), (4), (5), (6) ve (7) numaralı alt bentlerinde belirtilen nitelikleri taşımak.\n c) Herhangi bir siyasi parti üyesi olmamak.\n ç) En az dört yıllık lisans düzeyinde yükseköğrenim görmüş olmak.\n d) (Mülga: 2/7/2018-KHK-703/163 md.)\n (4) (Mülga: 2/7/2018-KHK-703/163 md.)\n (5) Türkiye Büyük Millet Meclisi, Kurula üye seçimini aşağıdaki usulle yapar:\n a) Seçim için, siyasi parti gruplarının üye sayısı oranında belirlenecek üye sayısının ikişer katı aday gösterilir ve Kurul üyeleri bu adaylar arasından her siyasi parti grubuna düşen üye sayısı esas alınmak suretiyle Türkiye Büyük Millet Meclisi Genel Kurulunca seçilir. Ancak, siyasi parti gruplarında, Türkiye Büyük Millet Meclisinde yapılacak seçimlerde kime oy kullanılacağına dair görüşme yapılamaz ve karar alınamaz.\n b) Kurul üyelerinin seçimi, adayların belirlenerek ilanından sonra on gün içinde yapılır. Siyasi parti grupları tarafından gösterilen adaylar için ayrı ayrı listeler hâlinde birleşik oy pusulası düzenlenir. Adayların adlarının karşısındaki özel yer işaretlenmek suretiyle oy kullanılır. Siyasi parti gruplarının ikinci fıkraya göre belirlenen kontenjanlarından Kurula seçilecek üyelerin sayısından fazla verilen oylar geçersiz sayılır.\n c) Karar yeter sayısı olmak şartıyla seçimde en çok oyu alan boş üyelik sayısı kadar aday seçilmiş olur.\n ç) Üyelerin görev sürelerinin bitiminden iki ay önce; üyeliklerde herhangi bir sebeple boşalma olması hâlinde, boşalma tarihinden veya boşalma tarihinde Türkiye Büyük Millet Meclisi tatilde ise tatilin bitiminden itibaren bir ay içinde aynı usulle seçim yapılır. Bu seçimlerde, boşalan üyeliklerin siyasi parti gruplarına dağılımı, ilk seçimde siyasi parti grupları kontenjanından seçilen üye sayısı ve siyasi parti gruplarının hâlihazırdaki oranı dikkate alınmak suretiyle yapılır.\n (6) Cumhurbaşkanı (…)[5] tarafından seçilen üyelerden birinin görev süresinin bitiminden kırk beş gün önce veya herhangi bir sebeple görevin sona ermesi hâlinde durum, on beş gün içinde Kurum tarafından, Cumhurbaşkanlığına (…)5 bildirilir. Üyelerin görev süresinin dolmasına bir ay kala yeni üye seçimi yapılır. Bu üyeliklerde, görev süresi dolmadan herhangi bir sebeple boşalma olması hâlinde ise bildirimden itibaren on beş gün içinde seçim yapılır.\n (7) Kurul, üyeleri arasından Başkan ve İkinci Başkanı seçer. Kurulun Başkanı, Kurumun da başkanıdır.\n (8) Kurul üyelerinin görev süresi dört yıldır. Süresi biten üye yeniden seçilebilir. Görev süresi dolmadan herhangi bir sebeple görevi sona eren üyenin yerine seçilen kişi, yerine seçildiği üyenin kalan süresini tamamlar.\n (9) Seçilen üyeler Yargıtay Birinci Başkanlık Kurulu huzurunda “Görevimi Anayasaya ve kanunlara uygun olarak, tam bir tarafsızlık, dürüstlük, hakkaniyet ve adalet anlayışı içinde yerine getireceğime, namusum ve şerefim üzerine yemin ederim.” şeklinde yemin ederler. Yargıtaya yemin için yapılan başvuru acele işlerden sayılır.\n (10) Kurul üyeleri özel bir kanuna dayanmadıkça, Kuruldaki resmî görevlerinin yürütülmesi dışında resmî veya özel hiçbir görev alamaz, dernek, vakıf, kooperatif ve benzeri yerlerde yöneticilik yapamaz, ticaretle uğraşamaz, serbest meslek faaliyetinde bulunamaz, hakemlik ve bilirkişilik yapamazlar. Ancak, Kurul üyeleri, asli görevlerini aksatmayacak şekilde bilimsel amaçlı yayın yapabilir, ders ve konferans verebilir ve bunlardan doğacak telif hakları ile ders ve konferans ücretlerini alabilirler.\n (11) Üyelerin görevleri sebebiyle işledikleri iddia edilen suçlara ilişkin soruşturmalar 2/12/1999 tarihli ve 4483 sayılı Memurlar ve Diğer Kamu Görevlilerinin Yargılanması Hakkında Kanuna göre yapılır ve bunlar hakkında soruşturma izni Cumhurbaşkanı tarafından verilir.[6]\n (12) Kurul üyeleri hakkında yapılacak disiplin soruşturması ve kovuşturmasında 657 sayılı Kanun hükümleri uygulanır.\n (13) Kurul üyelerinin süreleri dolmadan herhangi bir nedenle görevlerine son verilemez. Kurul üyelerinin;\n a) Seçilmek için gereken şartları taşımadıklarının sonradan anlaşılması,\n b) Görevleriyle ilgili olarak işledikleri suçlardan dolayı haklarında verilen mahkûmiyet kararının kesinleşmesi,\n c) Görevlerini yerine getiremeyeceklerinin sağlık kurulu raporuyla kesin olarak tespit edilmesi,\n ç) Görevlerine izinsiz, mazeretsiz ve kesintisiz olarak on beş gün ya da bir yılda toplam otuz gün süreyle devam etmediklerinin tespit edilmesi,\n d) Bir ay içinde izinsiz ve mazeretsiz olarak toplam üç, bir yıl içinde toplam on Kurul toplantısına katılmadıklarının tespit edilmesi,\n hâllerinde Kurul kararıyla üyelikleri sona erer.\n (14) Kurul üyeliğine seçilenlerin Kurulda görev yaptıkları sürece önceki görevleri ile olan ilişikleri kesilir. Kamu görevlisi iken üyeliğe seçilenler, memuriyete giriş şartlarını kaybetmemeleri kaydıyla, görev sürelerinin sona ermesi veya görevden ayrılma isteğinde bulunmaları ve otuz gün içinde eski kurumlarına başvurmaları durumunda atamaya yetkili makam tarafından bir ay içinde mükteseplerine uygun bir kadroya atanır. Atama gerçekleşinceye kadar, bunların almakta oldukları her türlü ödemelerin Kurum tarafından ödenmesine devam olunur. Bir kamu kurumunda çalışmayanlardan üyeliğe seçilip yukarıda belirtilen şekilde görevi sona erenlere herhangi bir görev veya işe başlayıncaya kadar, almakta oldukları her türlü ödemeler Kurum tarafından ödenmeye devam edilir ve bu şekilde üyeliği sona erenlere Kurum tarafından yapılacak ödeme üç ayı geçemez. Bunların Kurumda geçirdiği süreler, özlük ve diğer hakları açısından önceki kurum veya kuruluşlarında geçirilmiş sayılır.",
+      "preview": "(1) Kurul, bu Kanunla ve diğer mevzuatla verilen görev ve yetkilerini kendi sorumluluğu altında, bağımsız olarak yerine getirir ve kullanır.…",
+      "kitap": null,
+      "kisim": null,
+      "bolum": "ALTINCI BÖLÜM · Kişisel Verileri Koruma Kurumu ve Teşkilat",
+      "ayirim": null,
+      "maddeBaslik": "Kişisel Verileri Koruma Kurulu",
+      "sectionPath": [
+        "ALTINCI BÖLÜM · Kişisel Verileri Koruma Kurumu ve Teşkilat",
+        "Kişisel Verileri Koruma Kurulu"
+      ]
+    },
+    {
+      "id": "kanun:6698:m:22",
+      "maddeKind": "madde",
+      "maddeNo": "22",
+      "heading": "Madde 22",
+      "text": "(1) Kurulun görev ve yetkileri şunlardır:\n a) Kişisel verilerin, temel hak ve özgürlüklere uygun şekilde işlenmesini sağlamak.\n b) Kişisel verilerle ilgili haklarının ihlal edildiğini ileri sürenlerin şikâyetlerini karara bağlamak.\n c) Şikâyet üzerine veya ihlal iddiasını öğrenmesi durumunda resen görev alanına giren konularda kişisel verilerin kanunlara uygun olarak işlenip işlenmediğini incelemek ve gerektiğinde bu konuda geçici önlemler almak.\n ç) Özel nitelikli kişisel verilerin işlenmesi için aranan yeterli önlemleri belirlemek.\n d) Veri Sorumluları Sicilinin tutulmasını sağlamak.\n e) Kurulun görev alanı ile Kurumun işleyişine ilişkin konularda gerekli düzenleyici işlemleri yapmak.\n f) Veri güvenliğine ilişkin yükümlülükleri belirlemek amacıyla düzenleyici işlem yapmak.\n g) Veri sorumlusunun ve temsilcisinin görev, yetki ve sorumluluklarına ilişkin düzenleyici işlem yapmak.\n ğ) Bu Kanunda öngörülen idari yaptırımlara karar vermek.\n h) Diğer kurum ve kuruluşlarca hazırlanan ve kişisel verilere ilişkin hüküm içeren mevzuat taslakları hakkında görüş bildirmek.\n ı) Kurumun; stratejik planını karara bağlamak, amaç ve hedeflerini, hizmet kalite standartlarını ve performans kriterlerini belirlemek.\n i) Kurumun stratejik planı ile amaç ve hedeflerine uygun olarak hazırlanan bütçe teklifini görüşmek ve karara bağlamak.\n j) Kurumun performansı, mali durumu, yıllık faaliyetleri ve ihtiyaç duyulan konular hakkında hazırlanan rapor taslaklarını onaylamak ve yayımlamak.\n k) Taşınmaz alımı, satımı ve kiralanması konularındaki önerileri görüşüp karara bağlamak.\n l) Kanunlarla verilen diğer görevleri yerine getirmek.",
+      "preview": "(1) Kurulun görev ve yetkileri şunlardır: a) Kişisel verilerin, temel hak ve özgürlüklere uygun şekilde işlenmesini sağlamak. b) Kişisel ver…",
+      "kitap": null,
+      "kisim": null,
+      "bolum": "ALTINCI BÖLÜM · Kişisel Verileri Koruma Kurumu ve Teşkilat",
+      "ayirim": null,
+      "maddeBaslik": "Kurulun görev ve yetkileri",
+      "sectionPath": [
+        "ALTINCI BÖLÜM · Kişisel Verileri Koruma Kurumu ve Teşkilat",
+        "Kurulun görev ve yetkileri"
+      ]
+    },
+    {
+      "id": "kanun:6698:m:23",
+      "maddeKind": "madde",
+      "maddeNo": "23",
+      "heading": "Madde 23",
+      "text": "(1) Kurulun toplantı günlerini ve gündemini Başkan belirler. Başkan gereken hâllerde Kurulu olağanüstü toplantıya çağırabilir.\n (2) Kurul, başkan dâhil en az altı üye ile toplanır ve üye tam sayısının salt çoğunluğuyla karar alır. Kurul üyeleri çekimser oy kullanamaz.\n (3) Kurul üyeleri; kendilerini, üçüncü dereceye kadar kan ve ikinci dereceye kadar kayın hısımlarını, evlatlıklarını ve aralarındaki evlilik bağı kalkmış olsa bile eşlerini ilgilendiren konularla ilgili toplantı ve oylamaya katılamaz.\n (4) Kurul üyeleri çalışmaları sırasında ilgililere ve üçüncü kişilere ait öğrendikleri sırları bu konuda kanunen yetkili kılınan mercilerden başkasına açıklayamazlar ve kendi yararlarına kullanamazlar. Bu yükümlülük görevden ayrılmalarından sonra da devam eder.\n (5) Kurulda görüşülen işler tutanağa bağlanır. Kararlar ve varsa karşı oy gerekçeleri karar tarihinden itibaren en geç on beş gün içinde yazılır. Kurul, gerekli gördüğü kararları kamuoyuna duyurur.\n (6) Aksi kararlaştırılmadıkça, Kurul toplantılarındaki görüşmeler gizlidir.\n (7) Kurulun çalışma usul ve esasları ile kararların yazımı ve diğer hususlar yönetmelikle düzenlenir.",
+      "preview": "(1) Kurulun toplantı günlerini ve gündemini Başkan belirler. Başkan gereken hâllerde Kurulu olağanüstü toplantıya çağırabilir. (2) Kurul, ba…",
+      "kitap": null,
+      "kisim": null,
+      "bolum": "ALTINCI BÖLÜM · Kişisel Verileri Koruma Kurumu ve Teşkilat",
+      "ayirim": null,
+      "maddeBaslik": "Kurulun çalışma esasları",
+      "sectionPath": [
+        "ALTINCI BÖLÜM · Kişisel Verileri Koruma Kurumu ve Teşkilat",
+        "Kurulun çalışma esasları"
+      ]
+    },
+    {
+      "id": "kanun:6698:m:24",
+      "maddeKind": "madde",
+      "maddeNo": "24",
+      "heading": "Madde 24",
+      "text": "(1) Başkan, Kurul ve Kurumun başkanı sıfatıyla Kurumun en üst amiri olup Kurum hizmetlerini mevzuata, Kurumun amaç ve politikalarına, stratejik planına, performans ölçütlerine ve hizmet kalite standartlarına uygun olarak düzenler, yürütür ve hizmet birimleri arasında koordinasyonu sağlar.\n (2) Başkan, Kurumun genel yönetim ve temsilinden sorumludur. Bu sorumluluk, Kurum çalışmalarının düzenlenmesi, yürütülmesi, denetlenmesi, değerlendirilmesi ve gerektiğinde kamuoyuna duyurulması görev ve yetkilerini kapsar.\n (3) Başkanın görevleri şunlardır:\n a) Kurul toplantılarını idare etmek.\n b) Kurul kararlarının tebliğini ve Kurulca gerekli görülenlerin kamuoyuna duyurulmasını sağlamak ve uygulanmalarını izlemek.\n c) Başkan Yardımcısını, daire başkanlarını ve Kurum personelini atamak.\n ç) Hizmet birimlerinden gelen önerilere son şeklini vererek Kurula sunmak.\n d) Stratejik planın uygulanmasını sağlamak, hizmet kalite standartları doğrultusunda insan kaynakları ve çalışma politikalarını oluşturmak.\n e) Belirlenen stratejilere, yıllık amaç ve hedeflere uygun olarak Kurumun yıllık bütçesi ile mali tablolarını hazırlamak.\n f) Kurul ve hizmet birimlerinin uyumlu, verimli, disiplinli ve düzenli bir biçimde çalışması amacıyla koordinasyonu sağlamak.\n g) Kurumun diğer kuruluşlarla ilişkilerini yürütmek.\n ğ) Kurum Başkanı adına imzaya yetkili personelin görev ve yetki alanını belirlemek.\n h) Kurumun yönetim ve işleyişine ilişkin diğer görevleri yerine getirmek.\n (4) Kurum Başkanının yokluğunda İkinci Başkan, Başkana vekalet eder.",
+      "preview": "(1) Başkan, Kurul ve Kurumun başkanı sıfatıyla Kurumun en üst amiri olup Kurum hizmetlerini mevzuata, Kurumun amaç ve politikalarına, strate…",
+      "kitap": null,
+      "kisim": null,
+      "bolum": "ALTINCI BÖLÜM · Kişisel Verileri Koruma Kurumu ve Teşkilat",
+      "ayirim": null,
+      "maddeBaslik": "Başkan",
+      "sectionPath": [
+        "ALTINCI BÖLÜM · Kişisel Verileri Koruma Kurumu ve Teşkilat",
+        "Başkan"
+      ]
+    },
+    {
+      "id": "kanun:6698:m:25",
+      "maddeKind": "madde",
+      "maddeNo": "25",
+      "heading": "Madde 25",
+      "text": "(1) Başkanlık; Başkan Yardımcısı ve hizmet birimlerinden oluşur. Başkanlık, dördüncü fıkrada sayılan görevleri daire başkanlıkları şeklinde teşkilatlanan hizmet birimleri aracılığıyla yerine getirir. Daire başkanlıklarının sayısı yediyi geçemez.\n (2) Başkan tarafından, Kuruma ilişkin görevlerinde yardımcı olmak üzere bir Başkan Yardımcısı atanır.\n (3) Başkan Yardımcısı ve daire başkanları; en az dört yıllık yükseköğretim kurumu mezunu, on yıl süreyle kamu hizmetinde bulunan kişiler arasından Başkan tarafından atanır.\n (4) Başkanlığın görevleri şunlardır:\n a) Veri Sorumluları Sicilini tutmak.\n b) Kurumun ve Kurulun büro ve sekretarya işlemlerini yürütmek.\n c) Kurumun taraf olduğu davalar ile icra takiplerinde avukatlar vasıtasıyla Kurumu temsil etmek, davaları takip etmek veya ettirmek, hukuk hizmetlerini yürütmek.\n ç) Kurul üyeleri ile Kurumda görev yapanların özlük işlemlerini yürütmek.\n d) Kanunlarla mali hizmet ve strateji geliştirme birimlerine verilen görevleri yapmak.\n e) Kurumun iş ve işlemlerinin yürütülmesi amacıyla bilişim sisteminin kurulmasını ve kullanılmasını sağlamak.\n f) Kurulun yıllık faaliyetleri hakkında veya ihtiyaç duyulan konularda rapor taslaklarını hazırlamak ve Kurula sunmak.\n g) Kurumun stratejik plan taslağını hazırlamak.\n ğ) Kurumun personel politikasını belirlemek, personelin kariyer ve eğitim planlarını hazırlamak ve uygulamak.\n h) Personelin atama, nakil, disiplin, performans, terfi, emeklilik ve benzeri işlemlerini yürütmek.\n ı) Personelin uyacağı etik kuralları belirlemek ve gerekli eğitimi vermek.\n i) 10/12/2003 tarihli ve 5018 sayılı Kamu Malî Yönetimi ve Kontrol Kanunu çerçevesinde Kurumun ihtiyacı olan her türlü satın alma, kiralama, bakım, onarım, yapım, arşiv, sağlık, sosyal ve benzeri hizmetleri yürütmek.\n j) Kuruma ait taşınır ve taşınmazların kayıtlarını tutmak.\n k) Kurul veya Başkan tarafından verilen diğer görevleri yapmak.\n (5) Hizmet birimleri ile bu birimlerin çalışma usul ve esasları, bu Kanunda belirtilen faaliyet alanı, görev ve yetkilere uygun olarak Kurumun teklifi üzerine Cumhurbaşkanınca yürürlüğe konulan yönetmelikle belirlenir.[7]",
+      "preview": "(1) Başkanlık; Başkan Yardımcısı ve hizmet birimlerinden oluşur. Başkanlık, dördüncü fıkrada sayılan görevleri daire başkanlıkları şeklinde…",
+      "kitap": null,
+      "kisim": null,
+      "bolum": "ALTINCI BÖLÜM · Kişisel Verileri Koruma Kurumu ve Teşkilat",
+      "ayirim": null,
+      "maddeBaslik": "Başkanlığın oluşumu ve görevleri",
+      "sectionPath": [
+        "ALTINCI BÖLÜM · Kişisel Verileri Koruma Kurumu ve Teşkilat",
+        "Başkanlığın oluşumu ve görevleri"
+      ]
+    },
+    {
+      "id": "kanun:6698:m:26",
+      "maddeKind": "madde",
+      "maddeNo": "26",
+      "heading": "Madde 26",
+      "text": "(1) Kurumda, Kişisel Verileri Koruma Uzmanı ve Kişisel Verileri Koruma Uzman Yardımcısı istihdam edilebilir. Bunlardan 657 sayılı Kanunun ek 41 inci maddesi çerçevesinde Kişisel Verileri Koruma Uzmanı kadrosuna atananlara bir defaya mahsus olmak üzere bir derece yükseltilmesi uygulanır.",
+      "preview": "(1) Kurumda, Kişisel Verileri Koruma Uzmanı ve Kişisel Verileri Koruma Uzman Yardımcısı istihdam edilebilir. Bunlardan 657 sayılı Kanunun ek…",
+      "kitap": null,
+      "kisim": null,
+      "bolum": "ALTINCI BÖLÜM · Kişisel Verileri Koruma Kurumu ve Teşkilat",
+      "ayirim": null,
+      "maddeBaslik": "Kişisel Verileri Koruma Uzmanı ve uzman yardımcıları",
+      "sectionPath": [
+        "ALTINCI BÖLÜM · Kişisel Verileri Koruma Kurumu ve Teşkilat",
+        "Kişisel Verileri Koruma Uzmanı ve uzman yardımcıları"
+      ]
+    },
+    {
+      "id": "kanun:6698:m:27",
+      "maddeKind": "madde",
+      "maddeNo": "27",
+      "heading": "Madde 27",
+      "text": "(1) Kurum personeli, bu Kanunla düzenlenen hususlar dışında 657 sayılı Kanuna tabidir.\n (2) Kurul Başkan ve üyeleri ile Kurum personeline 27/6/1989 tarihli ve 375 sayılı Kanun Hükmünde Kararnamenin ek 11 inci maddesi uyarınca belirlenmiş emsali personele mali ve sosyal haklar kapsamında yapılan ödemeler aynı usul ve esaslar çerçevesinde ödenir. Emsali personele yapılan ödemelerden vergi ve diğer yasal kesintilere tabi olmayanlar bu Kanuna göre de vergi ve diğer kesintilere tabi olmaz.\n (3) Kurul Başkan ve üyeleri ile Kurum personeli 31/5/2006 tarihli ve 5510 sayılı Sosyal Sigortalar ve Genel Sağlık Sigortası Kanununun 4 üncü maddesinin birinci fıkrasının (c) bendi hükümlerine tabidir. Kurul Başkan ve üyeleri ile Kurum personeli emeklilik hakları bakımından da emsali olarak belirlenen personel ile denk kabul edilir. 5510 sayılı Kanunun 4 üncü maddesinin birinci fıkrasının (c) bendi kapsamında sigortalı iken Kurul Başkanı ve üyeliklerine atananlardan bu görevleri sona erenler veya bu görevlerinden ayrılma isteğinde bulunanların bu görevlerde geçen hizmet süreleri kazanılmış hak aylık, derece ve kademelerinin tespitinde dikkate alınır. Bunlardan bu görevleri sırasında 5510 sayılı Kanunun geçici 4 üncü maddesi kapsamına girenlerin bu görevlerde geçen süreleri makam tazminatı ile temsil tazminatı ödenmesi gereken süre olarak değerlendirilir. Kamu kurum ve kuruluşlarında 5510 sayılı Kanunun 4 üncü maddesinin birinci fıkrasının (a) bendi kapsamında sigortalı iken Kurul Başkanı ve üyeliklerine atananların, önceki kurum ve kuruluşları ile ilişiklerinin kesilmesi kendilerine kıdem tazminatı veya iş sonu tazminatı ödenmesini gerektirmez. Bu durumda olanların kıdem tazminatı veya iş sonu tazminatı ödenmesi gereken hizmet süreleri, Kurul Başkanı ile Kurul üyeliği olarak geçen hizmet süreleri ile birleştirilir ve emeklilik ikramiyesi ödenecek süre olarak değerlendirilir.\n (4) Merkezi yönetim kapsamındaki kamu idarelerinde, sosyal güvenlik kurumlarında, mahallî idarelerde, mahallî idarelere bağlı idarelerde, mahallî idare birliklerinde, döner sermayeli kuruluşlarda, kanunlarla kurulan fonlarda, kamu tüzel kişiliğini haiz kuruluşlarda, sermayesinin yüzde ellisinden fazlası kamuya ait kuruluşlarda, iktisadi devlet teşekkülleri ve kamu iktisadi kuruluşları ile bunlara bağlı ortaklıklar ve müesseselerde görevli memurlar ile diğer kamu görevlileri kurumlarının muvafakati, hâkimler ve savcılar ise kendilerinin muvafakati ile aylık, ödenek, her türlü zam ve tazminatlar ile diğer mali ve sosyal hak ve yardımları kurumlarınca ödenmek kaydıyla geçici olarak Kurumda görevlendirilebilir. Kurumun bu konudaki talepleri, ilgili kurum ve kuruluşlarca öncelikle sonuçlandırılır. Bu şekilde görevlendirilen personel, kurumlarından aylıklı izinli sayılır. Bu personelin izinli oldukları sürece memuriyetleri ile ilgileri ve özlük hakları devam ettiği gibi, bu süreler yükselme ve emekliliklerinde de hesaba katılır ve yükselmeleri başkaca bir işleme gerek duyulmadan süresinde yapılır. Bu madde kapsamında görevlendirilenlerin, Kurumda geçirdikleri süreler, kendi kurumlarında geçirilmiş sayılır. Bu şekilde görevlendirilenlerin sayısı Kişisel Verileri Koruma Uzmanı ve Kişisel Verileri Koruma Uzman Yardımcısı toplam kadro sayısının yüzde onunu aşamaz ve görevlendirme süresi iki yılı geçemez. Ancak ihtiyaç hâlinde bu süre bir yıllık dönemler hâlinde uzatılabilir.[8]\n (5) Kurumda istihdam edilecek personele ilişkin kadro unvan ve sayıları ekli (I) sayılı cetvelde gösterilmiştir. Toplam kadro sayısını geçmemek üzere 13/12/1983 tarihli ve 190 sayılı Genel Kadro ve Usulü Hakkında Kanun Hükmünde Kararnamenin eki cetvellerde yer alan kadro unvanlarıyla sınırlı olmak kaydıyla unvan ve derece değişikliği yapma, yeni unvan ekleme ve boş kadroların iptali Kurul kararıyla yapılır.",
+      "preview": "(1) Kurum personeli, bu Kanunla düzenlenen hususlar dışında 657 sayılı Kanuna tabidir. (2) Kurul Başkan ve üyeleri ile Kurum personeline 27/…",
+      "kitap": null,
+      "kisim": null,
+      "bolum": "ALTINCI BÖLÜM · Kişisel Verileri Koruma Kurumu ve Teşkilat",
+      "ayirim": null,
+      "maddeBaslik": "Personele ve özlük haklarına ilişkin hükümler",
+      "sectionPath": [
+        "ALTINCI BÖLÜM · Kişisel Verileri Koruma Kurumu ve Teşkilat",
+        "Personele ve özlük haklarına ilişkin hükümler"
+      ]
+    },
+    {
+      "id": "kanun:6698:m:28",
+      "maddeKind": "madde",
+      "maddeNo": "28",
+      "heading": "Madde 28",
+      "text": "(1) Bu Kanun hükümleri aşağıdaki hâllerde uygulanmaz:\n a) Kişisel verilerin, üçüncü kişilere verilmemek ve veri güvenliğine ilişkin yükümlülüklere uyulmak kaydıyla gerçek kişiler tarafından tamamen kendisiyle veya aynı konutta yaşayan aile fertleriyle ilgili faaliyetler kapsamında işlenmesi.\n b) Kişisel verilerin resmi istatistik ile anonim hâle getirilmek suretiyle araştırma, planlama ve istatistik gibi amaçlarla işlenmesi.\n c) Kişisel verilerin millî savunmayı, millî güvenliği, kamu güvenliğini, kamu düzenini, ekonomik güvenliği, özel hayatın gizliliğini veya kişilik haklarını ihlal etmemek ya da suç teşkil etmemek kaydıyla, sanat, tarih, edebiyat veya bilimsel amaçlarla ya da ifade özgürlüğü kapsamında işlenmesi.\n ç) Kişisel verilerin millî savunmayı, millî güvenliği, kamu güvenliğini, kamu düzenini veya ekonomik güvenliği sağlamaya yönelik olarak kanunla görev ve yetki verilmiş kamu kurum ve kuruluşları tarafından yürütülen önleyici, koruyucu ve istihbari faaliyetler kapsamında işlenmesi.\n d) Kişisel verilerin soruşturma, kovuşturma, yargılama veya infaz işlemlerine ilişkin olarak yargı makamları veya infaz mercileri tarafından işlenmesi.\n (2) Bu Kanunun amacına ve temel ilkelerine uygun ve orantılı olmak kaydıyla veri sorumlusunun aydınlatma yükümlülüğünü düzenleyen 10 uncu, zararın giderilmesini talep etme hakkı hariç, ilgili kişinin haklarını düzenleyen 11 inci ve Veri Sorumluları Siciline kayıt yükümlülüğünü düzenleyen 16 ncı maddeleri aşağıdaki hâllerde uygulanmaz:\n a) Kişisel veri işlemenin suç işlenmesinin önlenmesi veya suç soruşturması için gerekli olması.\n b) İlgili kişinin kendisi tarafından alenileştirilmiş kişisel verilerin işlenmesi.\n c) Kişisel veri işlemenin kanunun verdiği yetkiye dayanılarak görevli ve yetkili kamu kurum ve kuruluşları ile kamu kurumu niteliğindeki meslek kuruluşlarınca, denetleme veya düzenleme görevlerinin yürütülmesi ile disiplin soruşturma veya kovuşturması için gerekli olması.\n ç) Kişisel veri işlemenin bütçe, vergi ve mali konulara ilişkin olarak Devletin ekonomik ve mali çıkarlarının korunması için gerekli olması.",
+      "preview": "(1) Bu Kanun hükümleri aşağıdaki hâllerde uygulanmaz: a) Kişisel verilerin, üçüncü kişilere verilmemek ve veri güvenliğine ilişkin yükümlülü…",
+      "kitap": null,
+      "kisim": null,
+      "bolum": "YEDİNCİ BÖLÜM · Çeşitli Hükümler",
+      "ayirim": null,
+      "maddeBaslik": "İstisnalar",
+      "sectionPath": [
+        "YEDİNCİ BÖLÜM · Çeşitli Hükümler",
+        "İstisnalar"
+      ]
+    },
+    {
+      "id": "kanun:6698:m:29",
+      "maddeKind": "madde",
+      "maddeNo": "29",
+      "heading": "Madde 29",
+      "text": "(1) Kurumun bütçesi, 5018 sayılı Kanunda belirlenen usul ve esaslara göre hazırlanır ve kabul edilir.\n (2) Kurumun gelirleri şunlardır:\n a) Genel bütçeden yapılacak hazine yardımları.\n b) Kuruma ait taşınır ve taşınmazlardan elde edilen gelirler.\n c) Alınan bağış ve yardımlar.\n ç) Gelirlerinin değerlendirilmesinden elde edilen gelirler.\n d) Diğer gelirler.",
+      "preview": "(1) Kurumun bütçesi, 5018 sayılı Kanunda belirlenen usul ve esaslara göre hazırlanır ve kabul edilir. (2) Kurumun gelirleri şunlardır: a) Ge…",
+      "kitap": null,
+      "kisim": null,
+      "bolum": "YEDİNCİ BÖLÜM · Çeşitli Hükümler",
+      "ayirim": null,
+      "maddeBaslik": "Kurumun bütçesi ve gelirleri",
+      "sectionPath": [
+        "YEDİNCİ BÖLÜM · Çeşitli Hükümler",
+        "Kurumun bütçesi ve gelirleri"
+      ]
+    },
+    {
+      "id": "kanun:6698:m:30",
+      "maddeKind": "madde",
+      "maddeNo": "30",
+      "heading": "Madde 30",
+      "text": "(1) (10/12/2003 tarihli ve 5018 sayılı Kanun ile ilgili olup yerine işlenmiştir.)\n (2) ila (5) - (26/9/2004 tarihli ve 5237 sayılı Kanun ile ilgili olup yerine işlenmiştir.)\n (6) (7/5/1987 tarihli ve 3359 sayılı Sağlık Hizmetleri Temel Kanunu ile ilgili olup yerine işlenmiştir.)\n (7) (11/10/2011 tarihli ve 663 sayılı Sağlık Bakanlığı ve Bağlı Kuruluşlarının Teşkilat ve Görevleri Hakkında Kanun Hükmünde Kararname ile ilgili olup yerine işlenmiştir.)\n\n Yönetmelik",
+      "preview": "(1) (10/12/2003 tarihli ve 5018 sayılı Kanun ile ilgili olup yerine işlenmiştir.) (2) ila (5) - (26/9/2004 tarihli ve 5237 sayılı Kanun ile…",
+      "kitap": null,
+      "kisim": null,
+      "bolum": "YEDİNCİ BÖLÜM · Çeşitli Hükümler",
+      "ayirim": null,
+      "maddeBaslik": "Değiştirilen ve eklenen hükümler",
+      "sectionPath": [
+        "YEDİNCİ BÖLÜM · Çeşitli Hükümler",
+        "Değiştirilen ve eklenen hükümler"
+      ]
+    },
+    {
+      "id": "kanun:6698:m:31",
+      "maddeKind": "madde",
+      "maddeNo": "31",
+      "heading": "Madde 31",
+      "text": "(1) Bu Kanunun uygulanmasına ilişkin yönetmelikler Kurum tarafından yürürlüğe konulur.",
+      "preview": "(1) Bu Kanunun uygulanmasına ilişkin yönetmelikler Kurum tarafından yürürlüğe konulur.",
+      "kitap": null,
+      "kisim": null,
+      "bolum": "YEDİNCİ BÖLÜM · Çeşitli Hükümler",
+      "ayirim": null,
+      "maddeBaslik": "Değiştirilen ve eklenen hükümler",
+      "sectionPath": [
+        "YEDİNCİ BÖLÜM · Çeşitli Hükümler",
+        "Değiştirilen ve eklenen hükümler"
+      ]
+    },
+    {
+      "id": "kanun:6698:m:gecici:1",
+      "maddeKind": "gecici",
+      "maddeNo": "1",
+      "heading": "Geçici Madde 1",
+      "text": "(1) Bu Kanunun yayımı tarihinden itibaren altı ay içinde 21 inci maddede öngörülen usule göre Kurul üyeleri seçilir ve Başkanlık teşkilatı oluşturulur.\n (2) Veri sorumluları, Kurul tarafından belirlenen ve ilan edilen süre içinde Veri Sorumluları Siciline kayıt yaptırmak zorundadır.\n (3) Bu Kanunun yayımı tarihinden önce işlenmiş olan kişisel veriler, yayımı tarihinden itibaren iki yıl içinde bu Kanun hükümlerine uygun hâle getirilir. Bu Kanun hükümlerine aykırı olduğu tespit edilen kişisel veriler derhâl silinir, yok edilir veya anonim hâle getirilir. Ancak bu Kanunun yayımı tarihinden önce hukuka uygun olarak alınmış rızalar, bir yıl içinde aksine bir irade beyanında bulunulmaması hâlinde, bu Kanuna uygun kabul edilir.\n (4) Bu Kanunda öngörülen yönetmelikler bu Kanunun yayımı tarihinden itibaren bir yıl içinde yürürlüğe konulur.\n (5) Bu Kanunun yayımı tarihinden itibaren bir yıl içinde, kamu kurum ve kuruluşlarında bu Kanunun uygulanmasıyla ilgili koordinasyonu sağlamak üzere üst düzey bir yönetici belirlenerek Başkanlığa bildirilir.\n (6) İlk seçilen Başkan, İkinci Başkan ve kura ile belirlenen iki üye altı yıl; diğer beş üye ise dört yıl görev yapar.\n (7) Kuruma bütçe tahsis edilene kadar;\n a) Kurumun giderleri Başbakanlık bütçesinden karşılanır.\n b) Kurumun hizmetlerini yerine getirmesi amacıyla bina, araç, gereç, mefruşat ve donanım gibi gerekli tüm destek hizmetleri Başbakanlıkça sağlanır.\n (8) Kurumun hizmet birimleri faaliyete geçinceye kadar sekretarya hizmetleri Başbakanlık tarafından yerine getirilir.",
+      "preview": "(1) Bu Kanunun yayımı tarihinden itibaren altı ay içinde 21 inci maddede öngörülen usule göre Kurul üyeleri seçilir ve Başkanlık teşkilatı o…",
+      "kitap": null,
+      "kisim": null,
+      "bolum": "YEDİNCİ BÖLÜM · Çeşitli Hükümler",
+      "ayirim": null,
+      "maddeBaslik": "Geçiş hükümleri",
+      "sectionPath": [
+        "YEDİNCİ BÖLÜM · Çeşitli Hükümler",
+        "Geçiş hükümleri"
+      ]
+    },
+    {
+      "id": "kanun:6698:m:gecici:2",
+      "maddeKind": "gecici",
+      "maddeNo": "2",
+      "heading": "Geçici Madde 2",
+      "text": "(Ek:28/11/2017-7061/120 md.)\n (1) En az dört yıllık lisans öğrenimi veren siyasal bilgiler, iktisadi ve idari bilimler, iktisat, hukuk ve işletme fakültelerinden, mühendislik fakültelerinin elektronik, elektrik-elektronik, elektronik ve haberleşme, bilgisayar, bilişim sistemleri mühendisliği bölümlerinden ya da bunlara denkliği Yükseköğretim Kurulu tarafından kabul edilen yurt içi ve yurt dışındaki yükseköğrenim kurumlarından mezun olanlardan; mesleğe özel yarışma sınavı ile girilen ve belirli süreli meslek içi eğitimden ve özel bir yeterlik sınavından sonra 657 sayılı Kanunun 36 ncı maddesinin “Ortak Hükümler” başlıklı bölümünün (A) fıkrasının (11) numaralı bendinde belirtilen unvanlara ilişkin kurumların merkez teşkilatlarına ait kadrolara atanmış ve bu kadrolarda aylıksız izin süreleri hariç en az iki yıl bulunmuş olanlar ile öğretim üyesi kadrolarında bulunanlar, Yabancı Dil Bilgisi Seviye Tespit Sınavından en az yetmiş puan almış olmak ve atama tarihi itibarıyla kırk yaşından gün almamış olmak kaydıyla, bu maddenin yürürlüğe girdiği tarihten itibaren bir yıl içinde Kişisel Verileri Koruma Uzmanı olarak atanabilirler. Bu şekilde atanacakların sayısı on beşi geçemez.",
+      "preview": "(Ek:28/11/2017-7061/120 md.) (1) En az dört yıllık lisans öğrenimi veren siyasal bilgiler, iktisadi ve idari bilimler, iktisat, hukuk ve işl…",
+      "kitap": null,
+      "kisim": null,
+      "bolum": "YEDİNCİ BÖLÜM · Çeşitli Hükümler",
+      "ayirim": null,
+      "maddeBaslik": "Geçiş hükümleri",
+      "sectionPath": [
+        "YEDİNCİ BÖLÜM · Çeşitli Hükümler",
+        "Geçiş hükümleri"
+      ]
+    },
+    {
+      "id": "kanun:6698:m:gecici:3",
+      "maddeKind": "gecici",
+      "maddeNo": "3",
+      "heading": "Geçici Madde 3",
+      "text": "(Ek:2/3/2024-7499/36 md.)\n (1) 9 uncu maddenin bu maddeyi ihdas eden Kanunla değiştirilmeden önceki birinci fıkrası, maddenin yürürlüğe giren değişik haliyle birlikte 1/9/2024 tarihine kadar uygulanmaya devam olunur.\n (2) 1/6/2024 tarihi itibarıyla sulh ceza hâkimliklerinde görülmekte olan başvurular, bu hâkimliklerce görülmeye devam olunur.",
+      "preview": "(Ek:2/3/2024-7499/36 md.) (1) 9 uncu maddenin bu maddeyi ihdas eden Kanunla değiştirilmeden önceki birinci fıkrası, maddenin yürürlüğe giren…",
+      "kitap": null,
+      "kisim": null,
+      "bolum": "YEDİNCİ BÖLÜM · Çeşitli Hükümler",
+      "ayirim": null,
+      "maddeBaslik": "Geçiş hükümleri",
+      "sectionPath": [
+        "YEDİNCİ BÖLÜM · Çeşitli Hükümler",
+        "Geçiş hükümleri"
+      ]
+    },
+    {
+      "id": "kanun:6698:m:32",
+      "maddeKind": "madde",
+      "maddeNo": "32",
+      "heading": "Madde 32",
+      "text": "(1) Bu Kanunun;\n a) 8 inci, 9 uncu, 11 inci, 13 üncü, 14 üncü, 15 inci, 16 ncı, 17 nci ve 18 inci maddeleri yayımı tarihinden altı ay sonra,\n b) Diğer maddeleri ise yayımı tarihinde,\n yürürlüğe girer.",
+      "preview": "(1) Bu Kanunun; a) 8 inci, 9 uncu, 11 inci, 13 üncü, 14 üncü, 15 inci, 16 ncı, 17 nci ve 18 inci maddeleri yayımı tarihinden altı ay sonra,…",
+      "kitap": null,
+      "kisim": null,
+      "bolum": "YEDİNCİ BÖLÜM · Çeşitli Hükümler",
+      "ayirim": null,
+      "maddeBaslik": "Yürürlük",
+      "sectionPath": [
+        "YEDİNCİ BÖLÜM · Çeşitli Hükümler",
+        "Yürürlük"
+      ]
+    },
+    {
+      "id": "kanun:6698:m:33",
+      "maddeKind": "madde",
+      "maddeNo": "33",
+      "heading": "Madde 33",
+      "text": "(1) Bu Kanun hükümlerini Bakanlar Kurulu yürütür.\n (I) SAYILI CETVEL\n KİŞİSEL VERİLERİ KORUMA KURUMU KADRO LİSTESİ\n\n SINIF\n UNVAN\n DERECE\n TOPLAM\n\n GİH\n Başkan Yardımcısı\n 1\n 1\n\n GİH\n Daire Başkanı\n 1\n 7\n\n GİH\n Hukuk Müşaviri\n 1\n 1\n\n GİH\n Hukuk Müşaviri\n 3\n 3\n\n AH\n Avukat\n 6\n 4\n\n GİH\n Kişisel Verileri Koruma Uzmanı\n 5\n 10\n\n GİH\n Kişisel Verileri Koruma Uzmanı\n 7\n 20\n\n GİH\n Kişisel Verileri Koruma Uzman Yardımcısı\n 9\n 60\n\n GİH\n Mali Hizmetler Uzmanı\n 6\n 2\n\n GİH\n Mali Hizmetler Uzman Yardımcısı\n 9\n 2\n\n GİH\n Memur\n 5\n 5\n\n GİH\n Memur\n 7\n 5\n\n GİH\n Memur\n 9\n 5\n\n GİH\n Memur\n 11\n 5\n\n GİH\n Memur\n 13\n 5\n\n GİH\n Bilgisayar İşletmeni\n 7\n 5\n\n GİH\n Veri Hazırlama ve Kontrol İşletmeni\n 6\n 5\n\n GİH\n Veri Hazırlama ve Kontrol İşletmeni\n 7\n 5\n\n GİH\n Veri Hazırlama ve Kontrol İşletmeni\n 8\n 5\n\n GİH\n Veri Hazırlama ve Kontrol İşletmeni\n 9\n 5\n\n GİH\n Veri Hazırlama ve Kontrol İşletmeni\n 10\n 5\n\n GİH\n Sekreter\n 5\n 3\n\n GİH\n Sekreter\n 8\n 7\n\n GİH\n Santral Memuru\n 9\n 1\n\n GİH\n Şoför\n 11\n 4\n\n TH\n Teknisyen\n 6\n 3\n\n YH\n Teknisyen Yardımcısı\n 9\n 2\n\n YH\n Hizmetli\n 11\n 10\n\n TOPLAM\n 195\n\n 6698 SAYILI KANUNA EK VE DEĞİŞİKLİK GETİREN MEVZUATIN VEYA ANAYASA MAHKEMESİ TARAFINDAN İPTAL EDİLEN HÜKÜMLERİN YÜRÜRLÜĞE GİRİŞ TARİHİNİ GÖSTERİR LİSTE\n\n Değiştiren Kanunun/ KHK’nin/İptal Eden Anayasa Mahkemesi Kararının Numarası\n 6698 Sayılı Kanunun Değişen veya İptal Edilen Maddeleri\n Yürürlüğe Giriş Tarihi\n\n 7061\n 27, Geçici Madde 2\n 5/12/2017\n\n KHK/703\n 19, 20, 21, 25\n 24/6/2018 tarihinde birlikte yapılan Türkiye Büyük Millet Meclisi ve Cumhurbaşkanlığı seçimleri sonucunda Cumhurbaşkanının andiçerek göreve başladığı tarihte (9/7/2018)\n\n 7499\n 6, 9, 18, Geçici Madde 3\n 1/6/2024\n\n [1] 2/3/2024 tarihli ve 7499 sayılı Kanunun 35 inci maddesi ile bu maddeye ikinci fıkradan sonra gelmek üzere fıkra eklenmiş ve diğer fıkra buna göre teselsül ettirilmiştir.\n\n [2] 2/7/2018 tarihli ve 703 sayılı KHK’nin 163 üncü maddesiyle, bu fıkrada yer alan “Başbakanlıkla” ibaresi “Cumhurbaşkanının görevlendireceği bakan ile” şeklinde değiştirilmiştir.\n\n [3] 2/7/2018 tarihli ve 703 sayılı KHK’nin 163 üncü maddesiyle, bu bentte yer alan “ ve Başbakanlığa” ibaresi yürürlükten kaldırılmıştır.\n\n [4] 2/7/2018 tarihli ve 703 sayılı KHK’nin 163 üncü maddesiyle, bu maddenin ikinci fıkrasında yer alan “iki üyesi Cumhurbaşkanı, iki üyesi Bakanlar Kurulu” ibaresi “dört üyesi Cumhurbaşkanı” şeklinde değiştirilmiştir.\n\n [5] 2/7/2018 tarihli ve 703 sayılı KHK’nin 163 üncü maddesiyle, bu fıkrada yer alan “veya Bakanlar Kurulu” ve “veya Bakanlar Kuruluna sunulmak üzere Başbakanlığa” ibareleri madde metninden çıkarılmıştır.\n\n [6] 2/7/2018 tarihli ve 703 sayılı KHK’nin 163 üncü maddesiyle, bu fıkrada yer alan “Başbakan” ibaresi “Cumhurbaşkanı” şeklinde değiştirilmiştir.\n\n [7] 2/7/2018 tarihli ve 703 sayılı KHK’nin 163 üncü maddesiyle, bu fıkrada yer alan “Bakanlar Kurulu kararıyla” ibaresi “Cumhurbaşkanınca” şeklinde değiştirilmiştir.\n\n [8] 28/11/2017 tarihli ve 7061 sayılı Kanunun 119 uncu maddesiyle bu fıkrada yer alan “diğer kamu görevlileri kurumlarının muvafakati” ibaresinden sonra gelmek üzere “, hâkimler ve savcılar ise kendilerinin muvafakati” ibaresi eklenmiştir.",
+      "preview": "(1) Bu Kanun hükümlerini Bakanlar Kurulu yürütür. (I) SAYILI CETVEL KİŞİSEL VERİLERİ KORUMA KURUMU KADRO LİSTESİ SINIF UNVAN DERECE TOPLAM G…",
+      "kitap": null,
+      "kisim": null,
+      "bolum": "YEDİNCİ BÖLÜM · Çeşitli Hükümler",
+      "ayirim": null,
+      "maddeBaslik": "Yürütme",
+      "sectionPath": [
+        "YEDİNCİ BÖLÜM · Çeşitli Hükümler",
+        "Yürütme"
+      ]
+    }
+  ]
+}

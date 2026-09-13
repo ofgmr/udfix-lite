@@ -1,0 +1,1409 @@
+{
+  "id": "yonetmelik:15828",
+  "kind": "yonetmelik",
+  "no": "15828",
+  "title": "Tebligat Kanununun Uygulanmasına Dair Yönetmelik",
+  "shortName": "TebYön",
+  "aliases": [
+    "TebYön",
+    "Tebligat Yönetmeliği",
+    "Tebligat Kanununun Uygulanmasına Dair Yönetmelik",
+    "15828"
+  ],
+  "tur": 7,
+  "tertip": 5,
+  "sourceUrl": "https://www.mevzuat.gov.tr/mevzuat?MevzuatNo=15828&MevzuatTur=7&MevzuatTertip=5",
+  "kabulTarihi": null,
+  "maddeCount": 82,
+  "maddeler": [
+    {
+      "id": "yonetmelik:15828:m:1",
+      "maddeKind": "madde",
+      "maddeNo": "1",
+      "heading": "Madde 1",
+      "text": "(1) Bu Yönetmeliğin amacı, 11/2/1959 tarihli ve 7201 sayılı Tebligat Kanununun uygulanmasına ilişkin usul ve esasları düzenlemektir.",
+      "preview": "(1) Bu Yönetmeliğin amacı, 11/2/1959 tarihli ve 7201 sayılı Tebligat Kanununun uygulanmasına ilişkin usul ve esasları düzenlemektir.",
+      "kitap": null,
+      "kisim": null,
+      "bolum": null,
+      "ayirim": null,
+      "maddeBaslik": null,
+      "sectionPath": []
+    },
+    {
+      "id": "yonetmelik:15828:m:2",
+      "maddeKind": "madde",
+      "maddeNo": "2",
+      "heading": "Madde 2",
+      "text": "(1) Bu Yönetmelik; yargı mercileri, 10/12/2003 tarihli ve 5018 sayılı Kamu Malî Yönetimi ve Kontrol Kanununa ekli (I) sayılı cetvelde yer alan genel bütçe kapsamındaki kamu idareleri, (II) sayılı cetvelde yer alan özel bütçeli idareler, (III) sayılı cetvelde yer alan düzenleyici ve denetleyici kurumlar, (IV) sayılı cetvelde yer alan sosyal güvenlik kurumları ile il özel idareleri, belediyeler, köy hükmî şahsiyetleri, barolar ve noterler tarafından yapılacak tüm tebligat işlemlerine ilişkin usul ve esasları kapsar.",
+      "preview": "(1) Bu Yönetmelik; yargı mercileri, 10/12/2003 tarihli ve 5018 sayılı Kamu Malî Yönetimi ve Kontrol Kanununa ekli (I) sayılı cetvelde yer al…",
+      "kitap": null,
+      "kisim": null,
+      "bolum": null,
+      "ayirim": null,
+      "maddeBaslik": "Kapsam",
+      "sectionPath": [
+        "Kapsam"
+      ]
+    },
+    {
+      "id": "yonetmelik:15828:m:3",
+      "maddeKind": "madde",
+      "maddeNo": "3",
+      "heading": "Madde 3",
+      "text": "(1) Bu Yönetmelik, Tebligat Kanununun 60 ıncı maddesine dayanılarak hazırlanmıştır.",
+      "preview": "(1) Bu Yönetmelik, Tebligat Kanununun 60 ıncı maddesine dayanılarak hazırlanmıştır.",
+      "kitap": null,
+      "kisim": null,
+      "bolum": null,
+      "ayirim": null,
+      "maddeBaslik": "Dayanak",
+      "sectionPath": [
+        "Dayanak"
+      ]
+    },
+    {
+      "id": "yonetmelik:15828:m:4",
+      "maddeKind": "madde",
+      "maddeNo": "4",
+      "heading": "Madde 4",
+      "text": "(1) 2 nci maddede belirtilen merciler tarafından yapılacak tüm tebliğler, bu Yönetmelik hükümlerine göre Posta ve Telgraf Teşkilatı Genel Müdürlüğü (PTT) veya memur vasıtasıyla yapılır.",
+      "preview": "(1) 2 nci maddede belirtilen merciler tarafından yapılacak tüm tebliğler, bu Yönetmelik hükümlerine göre Posta ve Telgraf Teşkilatı Genel Mü…",
+      "kitap": null,
+      "kisim": null,
+      "bolum": "İKİNCİ BÖLÜM · Tebligatın Yapılması",
+      "ayirim": null,
+      "maddeBaslik": "Tebligatın yapılması",
+      "sectionPath": [
+        "İKİNCİ BÖLÜM · Tebligatın Yapılması",
+        "Tebligatın yapılması"
+      ]
+    },
+    {
+      "id": "yonetmelik:15828:m:5",
+      "maddeKind": "madde",
+      "maddeNo": "5",
+      "heading": "Madde 5",
+      "text": "(1) Tebligatın;\n a) Kanunlarda özel hüküm bulunan hallerde,\n b) Gecikmesi halinde zarar doğabilecek işlerde,\n c) 2 nci maddede belirtilen ve aynı yerde bulunan merciler arasında ya da bu mercilerde bulunan kişilere,\n yapılması durumunda, tebliğler kendi memurları veya mahalli mülki idare amirinin emriyle kolluk vasıtasıyla yaptırılır.\n (2) Memur vasıtasıyla tebligat yaptırılmasını gerektiren sebep tebligat evrakında gösterilir.\n (3) Kolluk vasıtasıyla tebligat yaptırılabilmesi için, tebliği çıkaran merciin, sebebini de belirtmek suretiyle mahalli mülki idare amirine müracaat etmesi gerekir. Mahalli mülki idare amirinin emri olmadan kolluğa gönderilen tebliğ evrakı gönderen mercie iade edilir.\n (4) Zor kullanılmasını gerektiren veya soruşturma evresine ilişkin görevlerin kolluk tarafından yapılacağına dair olan hükümlerle bu Yönetmeliğin Yedinci Bölümünde yer alan özel hükümler saklıdır.",
+      "preview": "(1) Tebligatın; a) Kanunlarda özel hüküm bulunan hallerde, b) Gecikmesi halinde zarar doğabilecek işlerde, c) 2 nci maddede belirtilen ve ay…",
+      "kitap": null,
+      "kisim": null,
+      "bolum": "İKİNCİ BÖLÜM · Tebligatın Yapılması",
+      "ayirim": null,
+      "maddeBaslik": "Tebligatın memur vasıtasıyla yapılması",
+      "sectionPath": [
+        "İKİNCİ BÖLÜM · Tebligatın Yapılması",
+        "Tebligatın memur vasıtasıyla yapılması"
+      ]
+    },
+    {
+      "id": "yonetmelik:15828:m:6",
+      "maddeKind": "madde",
+      "maddeNo": "6",
+      "heading": "Madde 6",
+      "text": "(1) Posta ve Telgraf Teşkilatı Genel Müdürlüğü, bu Yönetmeliğe göre yapacağı işlerden dolayı alacağı ücretleri ayrı bir tarifeyle tespit eder.",
+      "preview": "(1) Posta ve Telgraf Teşkilatı Genel Müdürlüğü, bu Yönetmeliğe göre yapacağı işlerden dolayı alacağı ücretleri ayrı bir tarifeyle tespit ede…",
+      "kitap": null,
+      "kisim": null,
+      "bolum": "İKİNCİ BÖLÜM · Tebligatın Yapılması",
+      "ayirim": null,
+      "maddeBaslik": "Ücret tarifesi",
+      "sectionPath": [
+        "İKİNCİ BÖLÜM · Tebligatın Yapılması",
+        "Ücret tarifesi"
+      ]
+    },
+    {
+      "id": "yonetmelik:15828:m:7",
+      "maddeKind": "madde",
+      "maddeNo": "7",
+      "heading": "Madde 7",
+      "text": "(1) Bu Yönetmelik gereğince memur vasıtasıyla yaptırılacak tebliğlerde, tebliğ yapana verilecek zorunlu masrafların miktarı, tebliğ yapılacak şahsın bulunduğu yerin uzaklığına göre, her mali yılbaşında, il idare kurullarınca, merkez ilçe ve bağlı ilçeler için ayrı ayrı tespit olunur.\n (2) 10/2/1954 tarihli ve 6245 sayılı Harcırah Kanununun 49 uncu maddesine göre tazminat alan memurlara, yaptıkları tebliğler için ödeme yapılmaz.",
+      "preview": "(1) Bu Yönetmelik gereğince memur vasıtasıyla yaptırılacak tebliğlerde, tebliğ yapana verilecek zorunlu masrafların miktarı, tebliğ yapılaca…",
+      "kitap": null,
+      "kisim": null,
+      "bolum": "İKİNCİ BÖLÜM · Tebligatın Yapılması",
+      "ayirim": null,
+      "maddeBaslik": "Memur vasıtasıyla tebliğde zorunlu masraflar",
+      "sectionPath": [
+        "İKİNCİ BÖLÜM · Tebligatın Yapılması",
+        "Memur vasıtasıyla tebliğde zorunlu masraflar"
+      ]
+    },
+    {
+      "id": "yonetmelik:15828:m:8",
+      "maddeKind": "madde",
+      "maddeNo": "8",
+      "heading": "Madde 8",
+      "text": "(1) Tebligatın yapılmasını isteyen, aksine bir hüküm bulunmadıkça 6 ncı madde gereğince hazırlanan tarifede belirtilen ücreti veya 7 nci madde gereğince verilecek zorunlu masrafları peşin olarak öder. Tebligat masrafları kesin olarak belirlenemez ise avans olarak alınır ve daha sonra mahsubu yapılarak bakiyesi iade edilir.\n (2) Tebliği çıkaracak merci tarafından belirlenen süre içinde gerekli masrafın verilmemesi halinde talepten vazgeçilmiş sayılır. Haklı sebeplerden dolayı bu süreye uyulmaması halinde yeni bir süre verilir.\n (3) Adli yardımdan faydalananların, birinci fıkra gereğince vermeleri gereken ücret veya masraflar, ileride haksız çıkacak taraftan alınmak üzere ilgili mercilerce ödenir.\n (4) Yabancı elçilik ve konsolosluklardan gönderilen evraka ait ücret veya masrafın bu elçilik veya konsolosluklardan talep edilebilmesi, anlaşma hükümlerine ve mütekabiliyet esaslarına tabidir.\n (5) Yabancı ülkelerde yapılacak tebligat ücretleri, 39 uncu madde gereğince yayımlanacak tebliğ esaslarına göre tebliği çıkaran merci tarafından alınır.",
+      "preview": "(1) Tebligatın yapılmasını isteyen, aksine bir hüküm bulunmadıkça 6 ncı madde gereğince hazırlanan tarifede belirtilen ücreti veya 7 nci mad…",
+      "kitap": null,
+      "kisim": null,
+      "bolum": "İKİNCİ BÖLÜM · Tebligatın Yapılması",
+      "ayirim": null,
+      "maddeBaslik": "Ücret ve masrafların peşin ödenmesi",
+      "sectionPath": [
+        "İKİNCİ BÖLÜM · Tebligatın Yapılması",
+        "Ücret ve masrafların peşin ödenmesi"
+      ]
+    },
+    {
+      "id": "yonetmelik:15828:m:9",
+      "maddeKind": "madde",
+      "maddeNo": "9",
+      "heading": "Madde 9",
+      "text": "(1) PTT İşletmesine tevdi edilen tebliğ evrakının, mücbir haller dışında kaybedilmesi halinde masraflar, 2/3/1950 tarihli ve 5584 sayılı Posta Kanununun taahhütlü maddeler hakkındaki hükümleri gereğince karşılanır. Masraf miktarı, tebliğ evrakının tanzim ve tebliği için gerekli masraf miktarından fazla olamaz.\n (2) Tebliğ evrakı, postaya değerli olarak verilirse, kaybı halinde tazminat, Posta Kanununun değerli maddeler hakkındaki hükümleri gereğince ödenir.\n (3) Tebliğ evrakının telgraf servisinde kayıp veya gecikmeye uğraması halinde birinci fıkra hükümleri uygulanır.",
+      "preview": "(1) PTT İşletmesine tevdi edilen tebliğ evrakının, mücbir haller dışında kaybedilmesi halinde masraflar, 2/3/1950 tarihli ve 5584 sayılı Pos…",
+      "kitap": null,
+      "kisim": null,
+      "bolum": "İKİNCİ BÖLÜM · Tebligatın Yapılması",
+      "ayirim": null,
+      "maddeBaslik": "Tebliğ evrakının kaybı halinde masraflar",
+      "sectionPath": [
+        "İKİNCİ BÖLÜM · Tebligatın Yapılması",
+        "Tebliğ evrakının kaybı halinde masraflar"
+      ]
+    },
+    {
+      "id": "yonetmelik:15828:m:10",
+      "maddeKind": "madde",
+      "maddeNo": "10",
+      "heading": "Madde 10",
+      "text": "(1) Tebligat, uçakla veya postada kullanılan diğer seri ve özel vasıtalarla veya muhtelif işaretli telgraflarla da yaptırılabilir.\n (2) Tebliğin bu vasıtalardan hangisiyle yapılacağı ilgilinin talebi üzerine veya resen, mahkeme başkanı, hâkim veya tebliği yaptıracak diğer merciler tarafından kararlaştırılır. Talepte bulunan müracaatını yazılı olarak yapmamışsa, talep, ilgili evrak üzerine yazılarak kendisine imzalattırılır.\n (3) İlgilinin talebi veya resen görülen lüzum üzerine birinci fıkrada yazılı vasıtalardan biriyle tebligat yapılabilmesi için, tebligatı çıkaran merci tarafından sebebinin evrak üzerinde gösterilmesi gerekir.",
+      "preview": "(1) Tebligat, uçakla veya postada kullanılan diğer seri ve özel vasıtalarla veya muhtelif işaretli telgraflarla da yaptırılabilir. (2) Tebli…",
+      "kitap": null,
+      "kisim": null,
+      "bolum": "İKİNCİ BÖLÜM · Tebligatın Yapılması",
+      "ayirim": null,
+      "maddeBaslik": "Uçak, telgraf ve diğer seri veya özel vasıtalarla tebligat",
+      "sectionPath": [
+        "İKİNCİ BÖLÜM · Tebligatın Yapılması",
+        "Uçak, telgraf ve diğer seri veya özel vasıtalarla tebligat"
+      ]
+    },
+    {
+      "id": "yonetmelik:15828:m:11",
+      "maddeKind": "madde",
+      "maddeNo": "11",
+      "heading": "Madde 11",
+      "text": "(1) Tebligatın, resen veya talep üzerine uçak, telgraf ve diğer seri veya özel vasıtalarla yapılması halinde bunlara ait ücretler, 6 ncı madde gereğince hazırlanan ücret tarifesine göre tebliği isteyenden, tebliğ ücretine ilaveten alınır.",
+      "preview": "(1) Tebligatın, resen veya talep üzerine uçak, telgraf ve diğer seri veya özel vasıtalarla yapılması halinde bunlara ait ücretler, 6 ncı mad…",
+      "kitap": null,
+      "kisim": null,
+      "bolum": "İKİNCİ BÖLÜM · Tebligatın Yapılması",
+      "ayirim": null,
+      "maddeBaslik": "Uçak, telgraf ve diğer seri veya özel vasıtalarla tebligat ücretleri",
+      "sectionPath": [
+        "İKİNCİ BÖLÜM · Tebligatın Yapılması",
+        "Uçak, telgraf ve diğer seri veya özel vasıtalarla tebligat ücretleri"
+      ]
+    },
+    {
+      "id": "yonetmelik:15828:m:12",
+      "maddeKind": "madde",
+      "maddeNo": "12",
+      "heading": "Madde 12",
+      "text": "(1) Tebligatlar, elektronik yolla yapılabilir, zorunlu bir sebeple yapılamaması hâlinde bu Yönetmelikte belirtilen usullerle tebligat yapılır. Elektronik yolla tebligata ilişkin usul ve esaslar buna ilişkin yönetmelikle düzenlenir.",
+      "preview": "(1) Tebligatlar, elektronik yolla yapılabilir, zorunlu bir sebeple yapılamaması hâlinde bu Yönetmelikte belirtilen usullerle tebligat yapılı…",
+      "kitap": null,
+      "kisim": null,
+      "bolum": "İKİNCİ BÖLÜM · Tebligatın Yapılması",
+      "ayirim": null,
+      "maddeBaslik": "Elektronik tebligat",
+      "sectionPath": [
+        "İKİNCİ BÖLÜM · Tebligatın Yapılması",
+        "Elektronik tebligat"
+      ]
+    },
+    {
+      "id": "yonetmelik:15828:m:13",
+      "maddeKind": "madde",
+      "maddeNo": "13",
+      "heading": "Madde 13",
+      "text": "(1) Tebliğ olunacak her nevi evrak, biri dosyasına konulmak ve diğeri tebliğ edilecek kişilere verilmek üzere yeterli sayıdaki nüshadan oluşur. Bu nüshalarda, iş sahibi veya vekilinin imzası bulunur. Resen yapılan tebligata ait evrak, tebliği çıkaran merciin yetkili memuru tarafından imzalanır.\n (2) Tebliğ olunmak üzere yetkili mercilere verilecek evrakın her nüshasına bu mercilerce, verildiği tarih yazılır ve istenirse makbuz verilir.\n (3) Her nevi evrakın tebliğine ve davetiyelere ait tebliğ mazbataları dosyasına konulur.",
+      "preview": "(1) Tebliğ olunacak her nevi evrak, biri dosyasına konulmak ve diğeri tebliğ edilecek kişilere verilmek üzere yeterli sayıdaki nüshadan oluş…",
+      "kitap": null,
+      "kisim": null,
+      "bolum": "ÜÇÜNCÜ BÖLÜM · Tebligat Esasları",
+      "ayirim": null,
+      "maddeBaslik": "Tebliğ evrakının nüshaları ve makbuz verilmesi",
+      "sectionPath": [
+        "ÜÇÜNCÜ BÖLÜM · Tebligat Esasları",
+        "Tebliğ evrakının nüshaları ve makbuz verilmesi"
+      ]
+    },
+    {
+      "id": "yonetmelik:15828:m:14",
+      "maddeKind": "madde",
+      "maddeNo": "14",
+      "heading": "Madde 14",
+      "text": "(1) Tebligat Kanununun 9 uncu maddesinde yazılı kayıtları içermek üzere tanzim olunacak davetiyeler, ek-1’de yer alan (1) numaralı örnekte gösterildiği şekilde hazırlanır.",
+      "preview": "(1) Tebligat Kanununun 9 uncu maddesinde yazılı kayıtları içermek üzere tanzim olunacak davetiyeler, ek-1’de yer alan (1) numaralı örnekte g…",
+      "kitap": null,
+      "kisim": null,
+      "bolum": "ÜÇÜNCÜ BÖLÜM · Tebligat Esasları",
+      "ayirim": null,
+      "maddeBaslik": "Davetiyelerin tanzimi",
+      "sectionPath": [
+        "ÜÇÜNCÜ BÖLÜM · Tebligat Esasları",
+        "Davetiyelerin tanzimi"
+      ]
+    },
+    {
+      "id": "yonetmelik:15828:m:15",
+      "maddeKind": "madde",
+      "maddeNo": "15",
+      "heading": "Madde 15",
+      "text": "(1) 10 uncu maddede sayılan vasıtalarla yapılan tebligatlar dışındaki her çeşit tebliğ evrakı ve davetiyelerin, ilgililere ulaşması ve ilgililerin tebliğin veya davetiyenin gereklerini yerine getirebilmesi için bu evrakı çıkaran merci tarafından tayin edilecek müddetin hesabında, evrakın gönderileceği mahallin yakınlık veya uzaklığı, mevsim koşulları, ulaşım araçlarının durumu gibi hususlar dikkate alınır.",
+      "preview": "(1) 10 uncu maddede sayılan vasıtalarla yapılan tebligatlar dışındaki her çeşit tebliğ evrakı ve davetiyelerin, ilgililere ulaşması ve ilgil…",
+      "kitap": null,
+      "kisim": null,
+      "bolum": "ÜÇÜNCÜ BÖLÜM · Tebligat Esasları",
+      "ayirim": null,
+      "maddeBaslik": "Müddet tayini",
+      "sectionPath": [
+        "ÜÇÜNCÜ BÖLÜM · Tebligat Esasları",
+        "Müddet tayini"
+      ]
+    },
+    {
+      "id": "yonetmelik:15828:m:16",
+      "maddeKind": "madde",
+      "maddeNo": "16",
+      "heading": "Madde 16",
+      "text": "(1) Tebligat, öncelikle tebliğ yapılacak şahsın bilinen en son adresinde yapılır. Bilinen en son adresin tespitinde, tebliğ isteyenin beyanı, muhatabın veya diğer ilgililerin bildirimleri ya da mevcut belgeler esas alınır.\n (2) Bilinen en son adresin tebligata elverişli olmadığının anlaşılması veya tebligat yapılamaması hâlinde, muhatabın adres kayıt sisteminde bulunan yerleşim yeri adresi bilinen en son adresi olarak kabul edilir ve tebligat buraya yapılır. Ayrıca başkaca adres araştırması yapılmaz. 79 uncu maddenin ikinci fıkrasına göre renkli bastırılan tebligat zarfında, adresin muhatabın adres kayıt sistemindeki yerleşim yeri adresi olduğu belirtilerek bu adrese tebligat yapılacağına dair meşruhata yer verilir.",
+      "preview": "(1) Tebligat, öncelikle tebliğ yapılacak şahsın bilinen en son adresinde yapılır. Bilinen en son adresin tespitinde, tebliğ isteyenin beyanı…",
+      "kitap": null,
+      "kisim": null,
+      "bolum": "ÜÇÜNCÜ BÖLÜM · Tebligat Esasları",
+      "ayirim": null,
+      "maddeBaslik": "Bilinen adreste tebligat",
+      "sectionPath": [
+        "ÜÇÜNCÜ BÖLÜM · Tebligat Esasları",
+        "Bilinen adreste tebligat"
+      ]
+    },
+    {
+      "id": "yonetmelik:15828:m:17",
+      "maddeKind": "madde",
+      "maddeNo": "17",
+      "heading": "Madde 17",
+      "text": "(1) Bir şahsa, adresinden başka bir yerde tebligat yapılabilmesi, o şahsın kabulü halinde mümkündür.\n (2) Tebliğ yapılacak şahsın, tebliği çıkaran mercie, PTT merkezine veya tebliğ memuruna müracaat etmesi durumunda da tebliğ yapılır.",
+      "preview": "(1) Bir şahsa, adresinden başka bir yerde tebligat yapılabilmesi, o şahsın kabulü halinde mümkündür. (2) Tebliğ yapılacak şahsın, tebliği çı…",
+      "kitap": null,
+      "kisim": null,
+      "bolum": "ÜÇÜNCÜ BÖLÜM · Tebligat Esasları",
+      "ayirim": null,
+      "maddeBaslik": "Adresten başka yerde tebligat",
+      "sectionPath": [
+        "ÜÇÜNCÜ BÖLÜM · Tebligat Esasları",
+        "Adresten başka yerde tebligat"
+      ]
+    },
+    {
+      "id": "yonetmelik:15828:m:18",
+      "maddeKind": "madde",
+      "maddeNo": "18",
+      "heading": "Madde 18",
+      "text": "(1) Vekil vasıtasıyla takip edilen işlerde tebligat vekile yapılır. Vekile bürosunda yapılacak tebligat, resmî çalışma gün ve saatleri içinde yapılır.\n (2) Vekil birden çok ise bunlardan birine tebligat yapılması yeterlidir. Eğer tebligat birden fazla vekile yapılmış ise bunlardan ilkine yapılan tebliğ tarihi asıl tebliğ tarihi sayılır. Ancak, 4/12/2004 tarihli ve 5271 sayılı Ceza Muhakemesi Kanununun, kararların sanıklara tebliğ edilmesine ilişkin hükümleri saklıdır.",
+      "preview": "(1) Vekil vasıtasıyla takip edilen işlerde tebligat vekile yapılır. Vekile bürosunda yapılacak tebligat, resmî çalışma gün ve saatleri içind…",
+      "kitap": null,
+      "kisim": null,
+      "bolum": "ÜÇÜNCÜ BÖLÜM · Tebligat Esasları",
+      "ayirim": null,
+      "maddeBaslik": "Vekile tebligat",
+      "sectionPath": [
+        "ÜÇÜNCÜ BÖLÜM · Tebligat Esasları",
+        "Vekile tebligat"
+      ]
+    },
+    {
+      "id": "yonetmelik:15828:m:19",
+      "maddeKind": "madde",
+      "maddeNo": "19",
+      "heading": "Madde 19",
+      "text": "(1) Kanuni temsilcisi bulunanlara yapılacak tebligat temsilciye yapılır.\n (2) Kanuni temsilcisi bulunanlara kanun hükümleri gereğince bizzat kendilerine tebligat yapılması icap ederse temsilciye tebligat yapılmaz.\n (3) Kanuni temsilcisi olmayıp da bulunması gerekenlere usulüne göre kanuni temsilci tayini yoluna gidilir.",
+      "preview": "(1) Kanuni temsilcisi bulunanlara yapılacak tebligat temsilciye yapılır. (2) Kanuni temsilcisi bulunanlara kanun hükümleri gereğince bizzat…",
+      "kitap": null,
+      "kisim": null,
+      "bolum": "ÜÇÜNCÜ BÖLÜM · Tebligat Esasları",
+      "ayirim": null,
+      "maddeBaslik": "Kanuni temsilciye tebligat",
+      "sectionPath": [
+        "ÜÇÜNCÜ BÖLÜM · Tebligat Esasları",
+        "Kanuni temsilciye tebligat"
+      ]
+    },
+    {
+      "id": "yonetmelik:15828:m:20",
+      "maddeKind": "madde",
+      "maddeNo": "20",
+      "heading": "Madde 20",
+      "text": "(1) Tüzel kişilere tebliğ yetkili temsilcilerine, bunlar birden çok ise yalnız birine yapılır.\n (2) Bakanlıkların ve bunların teşkilatının, Kamu Malî Yönetimi ve Kontrol Kanununa ekli (I) sayılı cetvelde yer alan genel bütçe kapsamındaki kamu idareleri, (II) sayılı cetvelde yer alan özel bütçeli idareler, (III) sayılı cetvelde yer alan düzenleyici ve denetleyici kurumlar, (IV) sayılı cetvelde yer alan sosyal güvenlik kurumları ile il özel idarelerinin, belediyelerin, köylerin ve özel kanunlarına dayanılarak kurulmuş bulunan teşekküllerle, şirketlerin, derneklerin ve vakıfların yetkili temsilcileri, bağlı bulundukları kanunlara ve statülerine göre tayin edilir.\n (3) Gerçek ve tüzel kişilere ait ticari işletmelerin işlemlerinden kaynaklanan uyuşmazlıklarda, ticari işletmenin o işlemde yetkili ticari temsilcisine yapılan tebliğ geçerlidir.",
+      "preview": "(1) Tüzel kişilere tebliğ yetkili temsilcilerine, bunlar birden çok ise yalnız birine yapılır. (2) Bakanlıkların ve bunların teşkilatının, K…",
+      "kitap": null,
+      "kisim": null,
+      "bolum": "ÜÇÜNCÜ BÖLÜM · Tebligat Esasları",
+      "ayirim": null,
+      "maddeBaslik": "Tüzel kişilere ve ticari işletmelere tebligat",
+      "sectionPath": [
+        "ÜÇÜNCÜ BÖLÜM · Tebligat Esasları",
+        "Tüzel kişilere ve ticari işletmelere tebligat"
+      ]
+    },
+    {
+      "id": "yonetmelik:15828:m:21",
+      "maddeKind": "madde",
+      "maddeNo": "21",
+      "heading": "Madde 21",
+      "text": "(1) Tüzel kişiler adına tebligatı almaya yetkili kişiler, herhangi bir sebeple mutat iş saatlerinde işyerinde bulunmamaları veya o sırada evrakı bizzat alamayacak bir halde olmaları durumunda tebliğ, tüzel kişinin o yerdeki sürekli çalışan memur veya müstahdemlerinden birine yapılır.\n (2) Ancak, kendisine tebliğ yapılacak memur veya müstahdemin, tüzel kişinin o yerdeki teşkilatı veya personeli içinde görev itibariyle tebligatın muhatabı olan tüzel kişinin temsilcisinden sonra gelen bir kimse veya evrak müdürü gibi esasen bu tür işlerle görevlendirilmiş bir kişi olması gereklidir.\n (3) Bu kişilerin de bulunmaması halinde, bu husus tebliğ mazbatasında belirtilir ve tebliğ, o yerdeki diğer bir memur veya müstahdeme yapılır.",
+      "preview": "(1) Tüzel kişiler adına tebligatı almaya yetkili kişiler, herhangi bir sebeple mutat iş saatlerinde işyerinde bulunmamaları veya o sırada ev…",
+      "kitap": null,
+      "kisim": null,
+      "bolum": "ÜÇÜNCÜ BÖLÜM · Tebligat Esasları",
+      "ayirim": null,
+      "maddeBaslik": "Tüzel kişilerin memur ve müstahdemlerine tebligat",
+      "sectionPath": [
+        "ÜÇÜNCÜ BÖLÜM · Tebligat Esasları",
+        "Tüzel kişilerin memur ve müstahdemlerine tebligat"
+      ]
+    },
+    {
+      "id": "yonetmelik:15828:m:22",
+      "maddeKind": "madde",
+      "maddeNo": "22",
+      "heading": "Madde 22",
+      "text": "(1) Er ve erbaşlara yapılacak tebliğ, kıta komutanı ve kurum amiri gibi en yakın üste yapılır.\n (2) Nöbetçi amiri veya subayı, tebliğ memurunun en yakın üste tebliğ yapmasını temin eder.",
+      "preview": "(1) Er ve erbaşlara yapılacak tebliğ, kıta komutanı ve kurum amiri gibi en yakın üste yapılır. (2) Nöbetçi amiri veya subayı, tebliğ memurun…",
+      "kitap": null,
+      "kisim": null,
+      "bolum": "ÜÇÜNCÜ BÖLÜM · Tebligat Esasları",
+      "ayirim": null,
+      "maddeBaslik": "Er ve erbaşlara tebligat",
+      "sectionPath": [
+        "ÜÇÜNCÜ BÖLÜM · Tebligat Esasları",
+        "Er ve erbaşlara tebligat"
+      ]
+    },
+    {
+      "id": "yonetmelik:15828:m:23",
+      "maddeKind": "madde",
+      "maddeNo": "23",
+      "heading": "Madde 23",
+      "text": "(1) 22 nci maddenin kapsamı dışında kalan askeri şahıslara, birlik veya kurumda tebligat yapılması gerektiğinde, tebliğin yapılmasını nöbetçi amiri veya subayı temin eder. Muhatap bu kişiler tarafından derhal bulundurulamaz veya tebellüğden kaçınırsa ya da diğer bir sebeple tebliğin temini mümkün olmazsa, tebliğ o nöbetçi amiri veya subayına yapılır.",
+      "preview": "(1) 22 nci maddenin kapsamı dışında kalan askeri şahıslara, birlik veya kurumda tebligat yapılması gerektiğinde, tebliğin yapılmasını nöbetç…",
+      "kitap": null,
+      "kisim": null,
+      "bolum": "ÜÇÜNCÜ BÖLÜM · Tebligat Esasları",
+      "ayirim": null,
+      "maddeBaslik": "Diğer askeri şahıslara tebligat",
+      "sectionPath": [
+        "ÜÇÜNCÜ BÖLÜM · Tebligat Esasları",
+        "Diğer askeri şahıslara tebligat"
+      ]
+    },
+    {
+      "id": "yonetmelik:15828:m:24",
+      "maddeKind": "madde",
+      "maddeNo": "24",
+      "heading": "Madde 24",
+      "text": "(1) Sefer halinde olan birlik veya kuruma mensup askeri şahıslara tebligat, bağlı bulundukları Kara, Deniz ve Hava Kuvvetleri Komutanlıkları aracılığıyla yapılır.\n (2) Tebligatı, kıta komutanı, kurum amiri gibi en yakın üst yapar.",
+      "preview": "(1) Sefer halinde olan birlik veya kuruma mensup askeri şahıslara tebligat, bağlı bulundukları Kara, Deniz ve Hava Kuvvetleri Komutanlıkları…",
+      "kitap": null,
+      "kisim": null,
+      "bolum": "ÜÇÜNCÜ BÖLÜM · Tebligat Esasları",
+      "ayirim": null,
+      "maddeBaslik": "Seferde askeri şahıslara tebligat",
+      "sectionPath": [
+        "ÜÇÜNCÜ BÖLÜM · Tebligat Esasları",
+        "Seferde askeri şahıslara tebligat"
+      ]
+    },
+    {
+      "id": "yonetmelik:15828:m:25",
+      "maddeKind": "madde",
+      "maddeNo": "25",
+      "heading": "Madde 25",
+      "text": "(1) Kendisine tebligat yapılacak kişi adresinde bulunmazsa tebliğ, kendisi ile aynı konutta oturan kişilere veya hizmetçilerinden birine yapılır.",
+      "preview": "(1) Kendisine tebligat yapılacak kişi adresinde bulunmazsa tebliğ, kendisi ile aynı konutta oturan kişilere veya hizmetçilerinden birine yap…",
+      "kitap": null,
+      "kisim": null,
+      "bolum": "ÜÇÜNCÜ BÖLÜM · Tebligat Esasları",
+      "ayirim": null,
+      "maddeBaslik": "Aynı konutta oturan kişilere veya hizmetçiye tebligat",
+      "sectionPath": [
+        "ÜÇÜNCÜ BÖLÜM · Tebligat Esasları",
+        "Aynı konutta oturan kişilere veya hizmetçiye tebligat"
+      ]
+    },
+    {
+      "id": "yonetmelik:15828:m:26",
+      "maddeKind": "madde",
+      "maddeNo": "26",
+      "heading": "Madde 26",
+      "text": "(1) Belirli bir yerde devamlı olarak meslek veya sanatını icra edenlere, o yerde de tebligat yapılabilir.\n (2) Muhatabın işyerinde bulunmaması halinde tebliğ, aynı yerde sürekli olarak çalışan memur veya müstahdemlerinden birine yapılır.\n (3) Muhatap, meslek veya sanatını konutunda icra ediyorsa, kendisi bulunmadığı takdirde memur veya müstahdemlerinden birine yapılır. Bunlardan hiç birinin bulunmaması durumunda tebliğ, aynı konutta sürekli olarak oturan kişilere veya hizmetçilerinden birine yapılır.",
+      "preview": "(1) Belirli bir yerde devamlı olarak meslek veya sanatını icra edenlere, o yerde de tebligat yapılabilir. (2) Muhatabın işyerinde bulunmamas…",
+      "kitap": null,
+      "kisim": null,
+      "bolum": "ÜÇÜNCÜ BÖLÜM · Tebligat Esasları",
+      "ayirim": null,
+      "maddeBaslik": "Meslek ve sanat erbabına tebligat",
+      "sectionPath": [
+        "ÜÇÜNCÜ BÖLÜM · Tebligat Esasları",
+        "Meslek ve sanat erbabına tebligat"
+      ]
+    },
+    {
+      "id": "yonetmelik:15828:m:27",
+      "maddeKind": "madde",
+      "maddeNo": "27",
+      "heading": "Madde 27",
+      "text": "(1) Tebliğ yapılacak kişi; otel, pansiyon, hastane, tedavi veya istirahat evi, fabrika, okul, öğrenci yurdu, resmi veya özel daire veya kurum gibi içine serbestçe girilemeyen veya arananın kolayca bulunması mümkün olmayan bir yerde bulunuyorsa tebliğin yapılmasını, o yeri idare eden veya muhatabın bulunduğu kısmın amiri temin eder.\n (2) Muhatap bu kişiler tarafından derhal bulundurulamaz veya tebellüğden kaçınırsa yahut diğer bir sebeple tebliğin temini mümkün olmazsa tebliğ o yeri idare eden veya muhatabın bulunduğu kısmın amirine yapılır.",
+      "preview": "(1) Tebliğ yapılacak kişi; otel, pansiyon, hastane, tedavi veya istirahat evi, fabrika, okul, öğrenci yurdu, resmi veya özel daire veya kuru…",
+      "kitap": null,
+      "kisim": null,
+      "bolum": "ÜÇÜNCÜ BÖLÜM · Tebligat Esasları",
+      "ayirim": null,
+      "maddeBaslik": "Otel, hastane, fabrika ve okul gibi yerlerde tebligat",
+      "sectionPath": [
+        "ÜÇÜNCÜ BÖLÜM · Tebligat Esasları",
+        "Otel, hastane, fabrika ve okul gibi yerlerde tebligat"
+      ]
+    },
+    {
+      "id": "yonetmelik:15828:m:28",
+      "maddeKind": "madde",
+      "maddeNo": "28",
+      "heading": "Madde 28",
+      "text": "(1) Tutuklu ve hükümlülere tebligat yapılmasını, bu kişilerin bulunduğu kurum müdürü, müdür yoksa orayı idare eden memur temin eder.\n (2) Bir yıl veya daha fazla hürriyeti bağlayıcı ceza ile mahkûm olup kendilerine kanuni temsilci atanmış olanlara ait tebligat, 19 uncu maddeye göre yapılır.\n (3) Tutuklu ve hükümlüye tebligat yapılamazsa tebliğ mazbatasına müdür veya memur tarafından belirtilen sebep şerh verilir.\n (4) Tutuklu veya hükümlünün hastanede bulunması halinde dahi tebligat, yukarıdaki fıkralar hükümlerine göre yapılır.",
+      "preview": "(1) Tutuklu ve hükümlülere tebligat yapılmasını, bu kişilerin bulunduğu kurum müdürü, müdür yoksa orayı idare eden memur temin eder. (2) Bir…",
+      "kitap": null,
+      "kisim": null,
+      "bolum": "ÜÇÜNCÜ BÖLÜM · Tebligat Esasları",
+      "ayirim": null,
+      "maddeBaslik": "Tutuklu ve hükümlülere tebligat",
+      "sectionPath": [
+        "ÜÇÜNCÜ BÖLÜM · Tebligat Esasları",
+        "Tutuklu ve hükümlülere tebligat"
+      ]
+    },
+    {
+      "id": "yonetmelik:15828:m:29",
+      "maddeKind": "madde",
+      "maddeNo": "29",
+      "heading": "Madde 29",
+      "text": "(1) 21, 22, 23, 25, 26 ve 27 nci maddelerde yazılı kişiler, tebliğ yapılacak olanın geçici olarak başka yere gittiğini belirtirlerse, tebliğ memuru, muhatabın hangi sebeple adresten geçici olarak ayrıldığını, beyanda bulunanın adı ve soyadı ile sıfatını tebliğ tutanağına yazar. Tebliğ tutanağını beyanda bulunana imzalattırır ve tebliğ edilecek evrakı beyanda bulunana verir. Bu kişiler, tebliğ evrakını kabule mecburdurlar.\n (2) Bu kişilerin beyanlarını imzadan kaçınmaları ve tebliğ evrakını kabul etmemeleri durumunda, tebliğ memuru bu hususu tutanağa yazar, imzalar ve tebliğ olunacak evrakı, o yerin muhtar veya ihtiyar heyeti üyesinden birine ya da kolluk amir veya memurlarına imza karşılığında teslim eder ve teslim ettiği kişinin adresini içeren ihbarnameyi gösterilen adresin kapısına yapıştırır.\n (3) Bu maddeye göre yapılacak tebligatlarda tebliğ, tebliğ evrakının 21, 22, 23, 25, 26 ve 27 nci maddelerde yazılı kişilere verildiği tarihte veya ihbarname kapıya yapıştırılmışsa bu tarihten itibaren onbeş gün sonra yapılmış sayılır.\n Muhatabın adreste bulunmaması, ölmesi veya adresinden sürekli olarak ayrılması halinde yapılacak işlem",
+      "preview": "(1) 21, 22, 23, 25, 26 ve 27 nci maddelerde yazılı kişiler, tebliğ yapılacak olanın geçici olarak başka yere gittiğini belirtirlerse, tebliğ…",
+      "kitap": null,
+      "kisim": null,
+      "bolum": "ÜÇÜNCÜ BÖLÜM · Tebligat Esasları",
+      "ayirim": null,
+      "maddeBaslik": "Muhatabın geçici olarak başka yere gitmesi",
+      "sectionPath": [
+        "ÜÇÜNCÜ BÖLÜM · Tebligat Esasları",
+        "Muhatabın geçici olarak başka yere gitmesi"
+      ]
+    },
+    {
+      "id": "yonetmelik:15828:m:30",
+      "maddeKind": "madde",
+      "maddeNo": "30",
+      "heading": "Madde 30",
+      "text": "(1) Adres kayıt sistemindeki yerleşim yeri adresine meşruhat verilerek çıkarılan tebligatlar hariç olmak üzere, muhatap veya muhatap adına tebliğ yapılabilecek olanlardan hiçbiri gösterilen adreste sürekli olarak bulunmazsa, tebliğ memurunun, adreste bulunmama sebebini bilmesi muhtemel komşu, yönetici, kapıcı, muhtar, ihtiyar heyeti veya meclisi üyeleri, kolluk amir ve memurlarından araştırarak beyanlarını tebliğ mazbatasına yazıp imzalatması, imzadan çekinmeleri halinde bu durumu yazarak imzalaması gerekir.\n (2) Muhatap ölmüşse veya gösterilen adresten sürekli olarak ayrılmış ve yeni adresi de tebliğ memurunca tespit edilememişse tebligat evrakı, tebligatı çıkaran mercie geri gönderilir.\n (3) Yeni adres, tebliğ memuru tarafından tespit edilmişse bu adres, tebliğ mazbatasındaki mahsus yerine ve tebliğ evrakındaki adresin bulunduğu tarafa yazılır.\n (4) Yeni adres, tebliğ memurunun tevzi bölgesi dâhilinde bulunduğu takdirde tebligat o adrese yapılır. Yeni adres, aynı PTT merkezinin diğer bir tevzi bölgesinde veya başka bir PTT merkezinin mıntıkası içinde bulunursa, tebliğ evrakı yeni adreste tebliğinin temini için memur tarafından bağlı olduğu merkeze iade olunur.\n (5) 15 inci maddede yer alan hususlar göz önünde bulundurulduğunda tebligatın, tebliğ evrakında belirtilen tarihten önce yapılamayacağının anlaşılması veya yeni adresin yabancı bir ülkeye ait olması durumunda PTT merkezi tebliğ evrakını tebligatı çıkaran mercie geri gönderir.\n Tebliğ imkânsızlığı ve tebellüğden kaçınma ile adres kayıt sistemindeki adreste bulunamama halinde yapılacak işlem",
+      "preview": "(1) Adres kayıt sistemindeki yerleşim yeri adresine meşruhat verilerek çıkarılan tebligatlar hariç olmak üzere, muhatap veya muhatap adına t…",
+      "kitap": null,
+      "kisim": null,
+      "bolum": "ÜÇÜNCÜ BÖLÜM · Tebligat Esasları",
+      "ayirim": null,
+      "maddeBaslik": "Muhatabın geçici olarak başka yere gitmesi",
+      "sectionPath": [
+        "ÜÇÜNCÜ BÖLÜM · Tebligat Esasları",
+        "Muhatabın geçici olarak başka yere gitmesi"
+      ]
+    },
+    {
+      "id": "yonetmelik:15828:m:31",
+      "maddeKind": "madde",
+      "maddeNo": "31",
+      "heading": "Madde 31",
+      "text": "(1) Tebliğ memuru;\n a) Muhatap veya muhatap adına tebligat yapılabilecek kişiler, o adreste bulundukları halde hiçbirinin tebliğ anında gösterilen adreste mevcut olmamaları,\n b) Muhatap ya da kendilerine tebligat yapılabilecek kişilerin tebellüğden kaçınması,\n c) Muhatap, gösterilen adreste hiç oturmamış veya bu adresten sürekli olarak ayrılmış olsa dahi tebligatın, muhatabın adres kayıt sistemindeki yerleşim yeri adresine bu husus meşruhat verilerek çıkarılması,\n hallerinden biri gerçekleştiği takdirde tebliğ olunacak evrakı, o yerin muhtar veya ihtiyar heyeti veya meclisi üyesinden birine ya da kolluk amir veya memuruna imza karşılığında teslim eder. Tebliğ memuru, ek-1’de yer alan (2) numaralı örneğe uygun olarak düzenlenen ihbarnameyi gösterilen adresteki kapıya yapıştırır. (a) bendinde belirtilen halin gerçekleşmesi durumunda tebliğ memuru, tebliğ olunacak şahsa keyfiyetin haber verilmesini de mümkün oldukça en yakın komşularından birine, varsa yönetici veya kapıcıya da bildirir.\n (2) Birinci fıkranın (c) bendi gereğince yapılacak tebligatlarda tebliğ memurunca 30 uncu maddeye göre araştırma yapılmaz.",
+      "preview": "(1) Tebliğ memuru; a) Muhatap veya muhatap adına tebligat yapılabilecek kişiler, o adreste bulundukları halde hiçbirinin tebliğ anında göste…",
+      "kitap": null,
+      "kisim": null,
+      "bolum": "ÜÇÜNCÜ BÖLÜM · Tebligat Esasları",
+      "ayirim": null,
+      "maddeBaslik": "Muhatabın geçici olarak başka yere gitmesi",
+      "sectionPath": [
+        "ÜÇÜNCÜ BÖLÜM · Tebligat Esasları",
+        "Muhatabın geçici olarak başka yere gitmesi"
+      ]
+    },
+    {
+      "id": "yonetmelik:15828:m:32",
+      "maddeKind": "madde",
+      "maddeNo": "32",
+      "heading": "Madde 32",
+      "text": "(1) 31 inci maddenin birinci fıkrasına göre yapılacak tebligatlarda, ihbarnamenin gösterilen adresin kapısına yapıştırıldığı tarih, tebliğ tarihi sayılır.",
+      "preview": "(1) 31 inci maddenin birinci fıkrasına göre yapılacak tebligatlarda, ihbarnamenin gösterilen adresin kapısına yapıştırıldığı tarih, tebliğ t…",
+      "kitap": null,
+      "kisim": null,
+      "bolum": "ÜÇÜNCÜ BÖLÜM · Tebligat Esasları",
+      "ayirim": null,
+      "maddeBaslik": "Tebliğ tarihi",
+      "sectionPath": [
+        "ÜÇÜNCÜ BÖLÜM · Tebligat Esasları",
+        "Tebliğ tarihi"
+      ]
+    },
+    {
+      "id": "yonetmelik:15828:m:33",
+      "maddeKind": "madde",
+      "maddeNo": "33",
+      "heading": "Madde 33",
+      "text": "(1) 29 uncu maddenin ikinci fıkrası ve 31 inci madde gereğince kendisine tebliğ evrakı teslim edilen kişiler, tebliğ evrakını üç ay saklamakla yükümlüdürler. Tebliğ evrakının belirli süre içermesi durumunda, bu evrak içerdiği sürenin bitiminden itibaren üç ay daha saklanır. Bu süreden sonra tebliğ evrakı hakkında yapılacak işlemler ilgili kurumların mevzuatına tâbidir.\n (2) 29 ve 31 inci maddeler gereğince yapılan tebligatlarda kapıya yapıştırılan ihbarname on gün süreyle kapıda kalır.",
+      "preview": "(1) 29 uncu maddenin ikinci fıkrası ve 31 inci madde gereğince kendisine tebliğ evrakı teslim edilen kişiler, tebliğ evrakını üç ay saklamak…",
+      "kitap": null,
+      "kisim": null,
+      "bolum": "ÜÇÜNCÜ BÖLÜM · Tebligat Esasları",
+      "ayirim": null,
+      "maddeBaslik": "Tebliğ evrakının saklanması ve ihbarnamenin kapıda kalma süresi",
+      "sectionPath": [
+        "ÜÇÜNCÜ BÖLÜM · Tebligat Esasları",
+        "Tebliğ evrakının saklanması ve ihbarnamenin kapıda kalma süresi"
+      ]
+    },
+    {
+      "id": "yonetmelik:15828:m:34",
+      "maddeKind": "madde",
+      "maddeNo": "34",
+      "heading": "Madde 34",
+      "text": "(1) Muhatap yerine kendisine tebliğ yapılacak kişinin görünüşüne nazaran onsekiz yaşından aşağı olmaması ve açıkça anlaşılır bir şekilde ehliyetsiz bulunmaması gerekir.\n (2) Akıl hastalığı, akıl zayıflığı veya diğer bir hastalık ya da engel sebebiyle kendisi ile anlaşma imkânı olmayan kişiye tebligat yapılmaz.\n (3) Muhatap adına kendisine tebligat yapılacak olan, görünüşüne nazaran onsekiz yaşından aşağı veya açıkça anlaşılır bir şekilde ehliyetsiz olur ve o adreste muhatap yerine tebligat yapılacak başka bir kişi de bulunmazsa 30 ve 31 inci madde hükümlerine göre işlem yapılır.",
+      "preview": "(1) Muhatap yerine kendisine tebliğ yapılacak kişinin görünüşüne nazaran onsekiz yaşından aşağı olmaması ve açıkça anlaşılır bir şekilde ehl…",
+      "kitap": null,
+      "kisim": null,
+      "bolum": "ÜÇÜNCÜ BÖLÜM · Tebligat Esasları",
+      "ayirim": null,
+      "maddeBaslik": "Muhatap yerine tebligat yapılacak kişinin yaş ve ehliyet şartı",
+      "sectionPath": [
+        "ÜÇÜNCÜ BÖLÜM · Tebligat Esasları",
+        "Muhatap yerine tebligat yapılacak kişinin yaş ve ehliyet şartı"
+      ]
+    },
+    {
+      "id": "yonetmelik:15828:m:35",
+      "maddeKind": "madde",
+      "maddeNo": "35",
+      "heading": "Madde 35",
+      "text": "(1) Tebliğ bir mazbata ile belgelendirilir. Bu mazbatanın;\n a) Tebliği çıkaran merciin adını,\n b) Tebliği isteyen tarafın adını, soyadını ve adresini,\n c) Muhatabın adını, soyadını ve adresini,\n ç) Tebliğin konusunu,\n d) Tebliğin kime yapıldığını ve tebliğ muhatabından başkasına yapılmış ise o kişinin adını, soyadını, adresini ve 34 üncü madde gereğince tebellüğe ehil olduğunu,\n e) Tebliğ tarihini, saatini ve nerede yapıldığını,\n f) 30 uncu ve 31 inci maddelerdeki durumların gerçekleşmesi halinde bu hususlarla ilgili hangi işlemlerin yapıldığını, adreste bulunmama ve kaçınma için gösterilen sebebi,\n g) Tebligatın adres kayıt sistemindeki yerleşim yeri adresine yapılması durumunda buna ilişkin kaydı,\n ğ) Tebliğ evrakı kime verilmiş ise onun adı, soyadı, sıfatı ve imzası ile tebliğ memurunun adı, soyadı ve imzasını,\n içermesi gerekir.\n (2) Tebliğ mazbatasında yukarıda belirtilen hususları kaydetmek için yeterli alan bulunmaması halinde tebliğ memuru usulüne uygun şekilde mazbataya eklenti yapabilir.\n (3) Bu maddeye göre hazırlanarak bastırılan ve tebligatı çıkaran merci tarafından tanzim edilen ek-1’de yer alan (3) numaralı örnek tebliğ mazbatasının ilgili bölümleri tebliğ memuru tarafından tebliğ yerinde düzenlenir.\n (4) Tebliğ mazbatası, tebliği çıkaran merci ve tebliğ memuru tarafından okunaklı şekilde düzenlenir.\n (5) Tebliğ mazbatasında muhatabın birden fazla adresine yer verilemez. Aksi halde tebliğ mazbatası tebligatı çıkaran mercie iade edilir.",
+      "preview": "(1) Tebliğ bir mazbata ile belgelendirilir. Bu mazbatanın; a) Tebliği çıkaran merciin adını, b) Tebliği isteyen tarafın adını, soyadını ve a…",
+      "kitap": null,
+      "kisim": null,
+      "bolum": "ÜÇÜNCÜ BÖLÜM · Tebligat Esasları",
+      "ayirim": null,
+      "maddeBaslik": "Tebliğ mazbatasında bulunması gereken bilgiler ve tanzimi",
+      "sectionPath": [
+        "ÜÇÜNCÜ BÖLÜM · Tebligat Esasları",
+        "Tebliğ mazbatasında bulunması gereken bilgiler ve tanzimi"
+      ]
+    },
+    {
+      "id": "yonetmelik:15828:m:36",
+      "maddeKind": "madde",
+      "maddeNo": "36",
+      "heading": "Madde 36",
+      "text": "(1) Tebliğ memuru, tebligat yaparken muhatabın veya bu Yönetmelik hükümlerine göre onun adına tebliğ yapılacak kişilerin kimlikleri ile bu Yönetmelikte belirtilen şartları taşıyıp taşımadıklarını incelemeye yetkilidir.",
+      "preview": "(1) Tebliğ memuru, tebligat yaparken muhatabın veya bu Yönetmelik hükümlerine göre onun adına tebliğ yapılacak kişilerin kimlikleri ile bu Y…",
+      "kitap": null,
+      "kisim": null,
+      "bolum": "ÜÇÜNCÜ BÖLÜM · Tebligat Esasları",
+      "ayirim": null,
+      "maddeBaslik": "Kimlik araştırması",
+      "sectionPath": [
+        "ÜÇÜNCÜ BÖLÜM · Tebligat Esasları",
+        "Kimlik araştırması"
+      ]
+    },
+    {
+      "id": "yonetmelik:15828:m:37",
+      "maddeKind": "madde",
+      "maddeNo": "37",
+      "heading": "Madde 37",
+      "text": "(1) Kendisine tebliğ yapılacak kişi, imza atacak kadar yazı bilmez veya diğer sebeplerle imza atamayacak durumda bulunursa okuryazar komşulardan bir kimse, okuryazar bir komşu bulunmaz veya bulunan komşu imzadan kaçınırsa tebliğ memurunun daveti üzerine gelecek olan o mahalle veya köyün muhtar veya ihtiyar heyeti ya da meclisi üyelerinden birisi yahut bir kolluk görevlisi huzurunda aşağıdaki hükümlere göre tebligat yapılır:\n a) Kendisine tebliğ yapılan kişinin sol elinin başparmağı, sol elinin baş parmağı yoksa aynı elinin diğer bir parmağı, sol eli yoksa sağ elinin baş parmağı, bu da yoksa diğer parmaklarından biri bastırılır.\n b) Tebliğ yapılacak kişinin iki eli de yoksa tebliğ evrakı kendisine verilir.\n c) Tebliğ mazbatasında hangi elin hangi parmağının bastırıldığı ve sebebi, tebliğ yapılacak kişinin iki eli de yoksa evrakın kendisine verildiği ve huzurunda tebligat yapılan şahsın kimliği yazılarak hazır bulunan şahsa da imzalattırılır.",
+      "preview": "(1) Kendisine tebliğ yapılacak kişi, imza atacak kadar yazı bilmez veya diğer sebeplerle imza atamayacak durumda bulunursa okuryazar komşula…",
+      "kitap": null,
+      "kisim": null,
+      "bolum": "ÜÇÜNCÜ BÖLÜM · Tebligat Esasları",
+      "ayirim": null,
+      "maddeBaslik": "İmza edemeyecek durumda olmak",
+      "sectionPath": [
+        "ÜÇÜNCÜ BÖLÜM · Tebligat Esasları",
+        "İmza edemeyecek durumda olmak"
+      ]
+    },
+    {
+      "id": "yonetmelik:15828:m:38",
+      "maddeKind": "madde",
+      "maddeNo": "38",
+      "heading": "Madde 38",
+      "text": "(1) Yabancı ülkelerde bulunanlara tebliğ olunacak evrak, tebligatı çıkaran merciin bağlı bulunduğu bakanlık aracılığıyla Dışişleri Bakanlığına, oradan da o yerdeki Türkiye Büyükelçiliğine veya başkonsolosluğuna gönderilir.\n (2) Dışişleri Bakanlığının aracılığına gerek görülmeyen hallerde, tebligat evrakı bakanlıklarca doğrudan o yerdeki Türkiye Büyükelçiliğine veya başkonsolosluğuna gönderilebilir.\n (3) Dışişleri Bakanlığı ve tebliği çıkaran merciin bağlı olduğu bakanlık tebliğ evrakını, 39, 40, 41, 43 ve 47 nci madde hükümlerine göre düzenlenip düzenlenmediği yönünden inceler, varsa yanlışlık ve eksiklikleri düzelttirir veya tamamlattırır.",
+      "preview": "(1) Yabancı ülkelerde bulunanlara tebliğ olunacak evrak, tebligatı çıkaran merciin bağlı bulunduğu bakanlık aracılığıyla Dışişleri Bakanlığı…",
+      "kitap": null,
+      "kisim": null,
+      "bolum": "DÖRDÜNCÜ BÖLÜM · Yabancı Ülkede Yapılacak, Yabancı Ülkeden Gelecek veya",
+      "ayirim": null,
+      "maddeBaslik": "Yabancı ülkelerde bulunanlara tebligat",
+      "sectionPath": [
+        "DÖRDÜNCÜ BÖLÜM · Yabancı Ülkede Yapılacak, Yabancı Ülkeden Gelecek veya",
+        "Yabancı ülkelerde bulunanlara tebligat"
+      ]
+    },
+    {
+      "id": "yonetmelik:15828:m:39",
+      "maddeKind": "madde",
+      "maddeNo": "39",
+      "heading": "Madde 39",
+      "text": "(1) Yabancı ülkelere gönderilecek tebliğ evrakı, anlaşma hükümleri ve mütekabiliyet esaslarına göre düzenlenir.\n (2) Yabancı ülkelere gönderilecek tebliğ evrakında; muhatabın adı ve soyadı, tam adresi ve uyruğu gösterilir. Bu bilgiler yazı makinesi ile yazılır.\n (3) Her takvim yılı başında, tebligat işleriyle ilgili anlaşmalar hükümleri, mütekabiliyet esasları ve hangi ülkeler için avans olarak ne kadar tebligat masrafı yatırılması gerektiği Adalet Bakanlığınca Dışişleri Bakanlığından görüş alınarak Resmî Gazete’de yayımlanır.\n (4) Bir takvim yılı içinde meydana gelen değişiklikler de aynı usulle ilan edilir.",
+      "preview": "(1) Yabancı ülkelere gönderilecek tebliğ evrakı, anlaşma hükümleri ve mütekabiliyet esaslarına göre düzenlenir. (2) Yabancı ülkelere gönderi…",
+      "kitap": null,
+      "kisim": null,
+      "bolum": "DÖRDÜNCÜ BÖLÜM · Yabancı Ülkede Yapılacak, Yabancı Ülkeden Gelecek veya",
+      "ayirim": null,
+      "maddeBaslik": "Tebliğ evrakının düzenlenmesi",
+      "sectionPath": [
+        "DÖRDÜNCÜ BÖLÜM · Yabancı Ülkede Yapılacak, Yabancı Ülkeden Gelecek veya",
+        "Tebliğ evrakının düzenlenmesi"
+      ]
+    },
+    {
+      "id": "yonetmelik:15828:m:40",
+      "maddeKind": "madde",
+      "maddeNo": "40",
+      "heading": "Madde 40",
+      "text": "(1) Tebliğ evrakı ve tebliğ mazbatalı kapalı zarf, muhatabın bulunduğu ülke diline veya anlaşmalarla belirlenen dile tercüme ettirilir.\n (2) Tebliğ evrakı, ilgili tarafından tebligatı çıkaracak mercie verilmişse, tercümenin noterlikte yaptırılması gerekir. İlgilinin bulunduğu yerdeki noterlikte o dili bilen mütercim bulunmaz ve ilgilinin tercümeyi şahsen veya vekili tarafından diğer bir şehirdeki noterlikte yaptırması imkânı da bulunmazsa, tercüme, tebligatı çıkaracak merci tarafından tercüme yapılabilecek yerde bulunan denk bir merci vasıtasıyla oradaki noterlikte yaptırılır.\n (3) Tebligat evrakı, ilgili merci tarafından resen tanzim edilmişse, merciin mütercimi varsa onun tarafından tercüme edilir ve merci tarafından onaylanır. Aksi halde, o yerdeki noterlikte veya diğer bir yerde bulunan denk bir merci vasıtasıyla tercüme ettirilir.\n (4) Şu kadar ki ilgili merci, adli mercilerden ibaret ise, tercüme, mütercim bulunabilecek yerdeki yetkili merciin istinabesi suretiyle yaptırılır.",
+      "preview": "(1) Tebliğ evrakı ve tebliğ mazbatalı kapalı zarf, muhatabın bulunduğu ülke diline veya anlaşmalarla belirlenen dile tercüme ettirilir. (2)…",
+      "kitap": null,
+      "kisim": null,
+      "bolum": "DÖRDÜNCÜ BÖLÜM · Yabancı Ülkede Yapılacak, Yabancı Ülkeden Gelecek veya",
+      "ayirim": null,
+      "maddeBaslik": "Tebliğ evrakının tercüme ettirilmesi",
+      "sectionPath": [
+        "DÖRDÜNCÜ BÖLÜM · Yabancı Ülkede Yapılacak, Yabancı Ülkeden Gelecek veya",
+        "Tebliğ evrakının tercüme ettirilmesi"
+      ]
+    },
+    {
+      "id": "yonetmelik:15828:m:41",
+      "maddeKind": "madde",
+      "maddeNo": "41",
+      "heading": "Madde 41",
+      "text": "(1) Yabancı ülkelere gönderilecek olan ve belirli bir günü içeren tebliğ evrakının, tebliği çıkaran merci tarafından, belirlenen günden en az üç ay önce ilgili bakanlığa gönderilmesi gerekir.",
+      "preview": "(1) Yabancı ülkelere gönderilecek olan ve belirli bir günü içeren tebliğ evrakının, tebliği çıkaran merci tarafından, belirlenen günden en a…",
+      "kitap": null,
+      "kisim": null,
+      "bolum": "DÖRDÜNCÜ BÖLÜM · Yabancı Ülkede Yapılacak, Yabancı Ülkeden Gelecek veya",
+      "ayirim": null,
+      "maddeBaslik": "Müddet tayini",
+      "sectionPath": [
+        "DÖRDÜNCÜ BÖLÜM · Yabancı Ülkede Yapılacak, Yabancı Ülkeden Gelecek veya",
+        "Müddet tayini"
+      ]
+    },
+    {
+      "id": "yonetmelik:15828:m:42",
+      "maddeKind": "madde",
+      "maddeNo": "42",
+      "heading": "Madde 42",
+      "text": "(1) Yabancı ülkede kendisine tebligat yapılacak kişi Türk vatandaşı olmadığı takdirde, tebligat o ülkenin yetkili makamı vasıtasıyla yapılır. Bunun için anlaşma veya o ülke kanunları müsait ise, o yerdeki Türkiye siyasi memuru veya konsolosu tebligat yapılmasını yetkili makamdan ister.",
+      "preview": "(1) Yabancı ülkede kendisine tebligat yapılacak kişi Türk vatandaşı olmadığı takdirde, tebligat o ülkenin yetkili makamı vasıtasıyla yapılır…",
+      "kitap": null,
+      "kisim": null,
+      "bolum": "DÖRDÜNCÜ BÖLÜM · Yabancı Ülkede Yapılacak, Yabancı Ülkeden Gelecek veya",
+      "ayirim": null,
+      "maddeBaslik": "Yabancı ülkelerdeki Türk vatandaşı olmayanlara tebligat",
+      "sectionPath": [
+        "DÖRDÜNCÜ BÖLÜM · Yabancı Ülkede Yapılacak, Yabancı Ülkeden Gelecek veya",
+        "Yabancı ülkelerdeki Türk vatandaşı olmayanlara tebligat"
+      ]
+    },
+    {
+      "id": "yonetmelik:15828:m:43",
+      "maddeKind": "madde",
+      "maddeNo": "43",
+      "heading": "Madde 43",
+      "text": "(1) Yabancı ülkede kendisine tebligat yapılacak kişi, Türk vatandaşı olduğu takdirde tebligat, o yerdeki Türkiye siyasi memuru veya konsolosu vasıtasıyla da yapılabilir.\n (2) Bu halde tebligatı Türkiye siyasi memuru veya konsolosu ya da bunların görevlendirecekleri bir memur yapar.\n (3) Tebliğin konusu ile hangi merci tarafından çıkarıldığı bilgilerinin yer aldığı ve otuz gün içinde başvurulmadığı takdirde tebliğin yapılmış sayılacağı ihtarını içeren bildirim, muhataba o ülkenin mevzuatının izin verdiği yöntemle gönderilir.\n (4) Bildirimin o ülkenin mevzuatına göre muhataba tebliğ edildiği belgelendirildiğinde, tebliğ tarihinden itibaren otuz gün içinde Türkiye Büyükelçiliği veya Konsolosluğuna başvurulmadığı takdirde tebligat otuzuncu günün bitiminde yapılmış sayılır. Muhatap Türkiye Büyükelçiliği veya Konsolosluğuna başvurduğu takdirde tebliğ evrakını almaktan kaçınırsa, bu hususta düzenlenecek tutanak tarihinde tebliğ yapılmış sayılır. Evrak bekletilmeksizin merciine iade edilir.\n (5) Tebligat, ek-1’de yer alan (4) numaralı örneğe göre düzenlenecek bir mazbata ile belgelendirilir.\n (6) Tebellüğden kaçınma halinde bu husus mazbataya yazılarak tebliğ yapan tarafından imzalanır.\n (7) Bu maddeye göre kazaî merciler tarafından çıkarılacak tebligatta, tebliğ evrakı doğrudan o yerdeki Türkiye Büyükelçiliği veya Konsolosluğuna gönderilebilir. Türkiye Büyükelçiliği veya Konsolosluğu tarafından tebliğ işleminin gerçekleştirilmesinden sonra evrak doğrudan ilgili kazaî mercie gönderilir.\n (8) Tebligatı çıkaran kazaî merci bu madde hükmüne ya da 38 inci maddeye göre tebliğ yapma hususunda takdir hakkına sahiptir.",
+      "preview": "(1) Yabancı ülkede kendisine tebligat yapılacak kişi, Türk vatandaşı olduğu takdirde tebligat, o yerdeki Türkiye siyasi memuru veya konsolos…",
+      "kitap": null,
+      "kisim": null,
+      "bolum": "DÖRDÜNCÜ BÖLÜM · Yabancı Ülkede Yapılacak, Yabancı Ülkeden Gelecek veya",
+      "ayirim": null,
+      "maddeBaslik": "Yabancı ülkelerde Türk vatandaşına yapılacak tebligat",
+      "sectionPath": [
+        "DÖRDÜNCÜ BÖLÜM · Yabancı Ülkede Yapılacak, Yabancı Ülkeden Gelecek veya",
+        "Yabancı ülkelerde Türk vatandaşına yapılacak tebligat"
+      ]
+    },
+    {
+      "id": "yonetmelik:15828:m:44",
+      "maddeKind": "madde",
+      "maddeNo": "44",
+      "heading": "Madde 44",
+      "text": "(1) Yerleşim yeri Türkiye’de bulunan yerli veya yabancı şahıslara tebliğ edilmek üzere yabancı bir ülkenin elçiliğinden veya havzasında bulunduğu valilik kanalıyla konsolosluğundan Dışişleri Bakanlığına tevdi olunan evrak, Dışişleri Bakanlığı tarafından anlaşma hükümleri ve mütekabiliyet esaslarına uygun görüldüğü takdirde, ek-1’de yer alan (5) numaralı örnek şeklindeki tebliğ mazbatası, zarf içinde tebligatın mahiyetine göre ilgili bakanlığa gönderilir. İlgili bakanlık tebligatı, muhatabın bulunduğu yerdeki yetkili merci vasıtasıyla bu Yönetmelik hükümleri gereğince yaptırır.\n (2) Tebliğ işlemi yerine getirildikten sonra tebliğ mazbatası aynı yollardan iade edilir.",
+      "preview": "(1) Yerleşim yeri Türkiye’de bulunan yerli veya yabancı şahıslara tebliğ edilmek üzere yabancı bir ülkenin elçiliğinden veya havzasında bulu…",
+      "kitap": null,
+      "kisim": null,
+      "bolum": "DÖRDÜNCÜ BÖLÜM · Yabancı Ülkede Yapılacak, Yabancı Ülkeden Gelecek veya",
+      "ayirim": null,
+      "maddeBaslik": "Yabancı ülkelerden gelen evrakın tebliği",
+      "sectionPath": [
+        "DÖRDÜNCÜ BÖLÜM · Yabancı Ülkede Yapılacak, Yabancı Ülkeden Gelecek veya",
+        "Yabancı ülkelerden gelen evrakın tebliği"
+      ]
+    },
+    {
+      "id": "yonetmelik:15828:m:45",
+      "maddeKind": "madde",
+      "maddeNo": "45",
+      "heading": "Madde 45",
+      "text": "(1) Türkiye’de kendisine tebligat yapılamayacak olan bir yabancıya tebligat çıkarılması durumunda muhatap, tebliğ memuruna kendisine tebligat yapılamayacağını beyan eder veya tebliğ memuru bu hususu bizzat öğrenirse keyfiyet tebliğ mazbatasına şerh edilerek evrak iade olunur.\n (2) Muhatap, tebliğ yapılabilecek kişilerden olmasına rağmen, muhatabın adresi, “ülke dışı” muamelesi gören bir yer ise ve tebliğ memuru tebligatı yapamazsa birinci fıkra gereğince işlem yapılır.\n (3) Birinci ve ikinci fıkralarda belirtilen hallerde, tebellüğden kaçınma gibi bu Yönetmelik hükümlerine göre diğer bir işlem yapılmaz.\n (4) Birinci ve ikinci fıkralarda belirtilen hallerde tebligatı çıkaran merci, tebliğ evrakını, bağlı olduğu bakanlık kanalıyla Dışişleri Bakanlığına gönderir.\n (5) Türkiye’de kendilerine tebligat yapılamayacak olan elçi, elçilik katibi gibi kişiler Dışişleri Bakanlığı tarafından belirlenir.",
+      "preview": "(1) Türkiye’de kendisine tebligat yapılamayacak olan bir yabancıya tebligat çıkarılması durumunda muhatap, tebliğ memuruna kendisine tebliga…",
+      "kitap": null,
+      "kisim": null,
+      "bolum": "DÖRDÜNCÜ BÖLÜM · Yabancı Ülkede Yapılacak, Yabancı Ülkeden Gelecek veya",
+      "ayirim": null,
+      "maddeBaslik": "Türkiye’de yabancılara tebligat",
+      "sectionPath": [
+        "DÖRDÜNCÜ BÖLÜM · Yabancı Ülkede Yapılacak, Yabancı Ülkeden Gelecek veya",
+        "Türkiye’de yabancılara tebligat"
+      ]
+    },
+    {
+      "id": "yonetmelik:15828:m:46",
+      "maddeKind": "madde",
+      "maddeNo": "46",
+      "heading": "Madde 46",
+      "text": "(1) Resmî görevle yabancı ülkede bulunan Türk memurlarına 38 inci maddenin birinci fıkrası veya 43 üncü madde hükümlerine göre tebliğ yapılır.",
+      "preview": "(1) Resmî görevle yabancı ülkede bulunan Türk memurlarına 38 inci maddenin birinci fıkrası veya 43 üncü madde hükümlerine göre tebliğ yapılı…",
+      "kitap": null,
+      "kisim": null,
+      "bolum": "DÖRDÜNCÜ BÖLÜM · Yabancı Ülkede Yapılacak, Yabancı Ülkeden Gelecek veya",
+      "ayirim": null,
+      "maddeBaslik": "Yabancı ülkelerde Türk memurlarına tebligat",
+      "sectionPath": [
+        "DÖRDÜNCÜ BÖLÜM · Yabancı Ülkede Yapılacak, Yabancı Ülkeden Gelecek veya",
+        "Yabancı ülkelerde Türk memurlarına tebligat"
+      ]
+    },
+    {
+      "id": "yonetmelik:15828:m:47",
+      "maddeKind": "madde",
+      "maddeNo": "47",
+      "heading": "Madde 47",
+      "text": "(1) Yabancı ülkede bulunan Türk askerî şahıslarına yapılacak tebligat bağlı bulundukları Kara, Deniz, Hava Kuvvetleri Komutanlığı, Jandarma Genel Komutanlığı ve Sahil Güvenlik Komutanlığı vasıtasıyla yapılır.\n (2) Bu komutanlıklar tebliğ evrakını, tebligat yapılacak şahsın bulunduğu yabancı ülkedeki birlik veya kurum komutan veya amirine gönderirler.\n (3) Tebligatı, kıta komutanı, kurum amiri gibi en yakın üst yapar. Kıta veya bir kurum yoksa tebligat en yakın amiri tarafından yapılır.\n (4) Üçüncü fıkradaki haller dışında yurt dışında bulunan asker kişilere tebligat, 46 ncı madde hükmüne göre yapılır.",
+      "preview": "(1) Yabancı ülkede bulunan Türk askerî şahıslarına yapılacak tebligat bağlı bulundukları Kara, Deniz, Hava Kuvvetleri Komutanlığı, Jandarma…",
+      "kitap": null,
+      "kisim": null,
+      "bolum": "DÖRDÜNCÜ BÖLÜM · Yabancı Ülkede Yapılacak, Yabancı Ülkeden Gelecek veya",
+      "ayirim": null,
+      "maddeBaslik": "Yabancı ülkelerde Türk askerî şahıslarına tebligat",
+      "sectionPath": [
+        "DÖRDÜNCÜ BÖLÜM · Yabancı Ülkede Yapılacak, Yabancı Ülkeden Gelecek veya",
+        "Yabancı ülkelerde Türk askerî şahıslarına tebligat"
+      ]
+    },
+    {
+      "id": "yonetmelik:15828:m:48",
+      "maddeKind": "madde",
+      "maddeNo": "48",
+      "heading": "Madde 48",
+      "text": "(1) Bu Yönetmelik hükümleri uyarınca kendisine tebligat yapılamayan, tebliğ memuru tarafından adresi tespit edilemeyen, adres kayıt sisteminde de yerleşim yeri adresi bulunmayan kişinin adresinin tespiti için tebligatı çıkaran merci tarafından adres araştırması yapılır.\n (2) Tebligatı çıkaran merci, muhatabın adresini öncelikle resmî veya özel kurum ve dairelerden, bunlardan sonuç alınamadığı takdirde kolluk vasıtasıyla araştırabilir ve tespit ettirebilir. Yapılan araştırmalara rağmen muhatabın adresinin tespit edilememesi halinde adres meçhul sayılır.\n (3) Adresi meçhul olanlara tebligat ilanen yapılır.\n (4) İlânen tebligat, bu maddedeki usuller izlendikten sonra başvurulacak son çaredir.",
+      "preview": "(1) Bu Yönetmelik hükümleri uyarınca kendisine tebligat yapılamayan, tebliğ memuru tarafından adresi tespit edilemeyen, adres kayıt sistemin…",
+      "kitap": null,
+      "kisim": null,
+      "bolum": "BEŞİNCİ BÖLÜM · İlanen Tebligat",
+      "ayirim": null,
+      "maddeBaslik": "Adresin meçhul olması",
+      "sectionPath": [
+        "BEŞİNCİ BÖLÜM · İlanen Tebligat",
+        "Adresin meçhul olması"
+      ]
+    },
+    {
+      "id": "yonetmelik:15828:m:49",
+      "maddeKind": "madde",
+      "maddeNo": "49",
+      "heading": "Madde 49",
+      "text": "(1) İlanen tebliğ, 48 inci madde gereğince ilgili merciin sebebini göstermek suretiyle vereceği karar üzerine aşağıdaki şekilde yapılır:\n a) İlan, kendisine tebliğ yapılacak kişinin en güvenilir bir şekilde öğrenmesini sağlayabilecek ve varsa tebliği çıkaran merciin bulunduğu yerde yayımlanan bir gazetede ve elektronik ortamda Basın İlan Kurumu vasıtasıyla yapılır. Muhatabın en güvenilir bir şekilde öğrenmesini sağlayabileceği umulan gazete, tebliği çıkaran merciin bulunduğu yerde yayımlanan bir gazete ise, ayrıca bir diğer gazete ile ilan yapılmaz.\n b) Tebliğ olunacak evrak ve ilan sureti bir ay süreyle tebliği çıkaran mercide herkesin kolayca görebileceği bir yere asılır.\n c) Merci, gerekirse, ikinci defa ilan yapılmasına karar verebilir. İkinci ilan da (a) ve (b) bendi hükümlerine göre yapılır. İki ilan arasındaki süre bir haftadan az olamaz. İkinci ilan, gerekiyorsa yabancı ülke gazeteleriyle de yaptırılabilir.\n (2) Adresi yabancı ülkede bulunanlara ilan yoluyla tebliğ yapılmasını gerektiren hallerde, tebliği çıkaran merci, tebliğ olunacak evrak ile ilan suretlerini yabancı ülkede bulunan kişinin varsa bilinen en son adresine, ayrıca, iadeli taahhütlü mektupla gönderir ve posta makbuzunu dosyasında saklar.",
+      "preview": "(1) İlanen tebliğ, 48 inci madde gereğince ilgili merciin sebebini göstermek suretiyle vereceği karar üzerine aşağıdaki şekilde yapılır: a)…",
+      "kitap": null,
+      "kisim": null,
+      "bolum": "BEŞİNCİ BÖLÜM · İlanen Tebligat",
+      "ayirim": null,
+      "maddeBaslik": "İlanen tebligat usulü",
+      "sectionPath": [
+        "BEŞİNCİ BÖLÜM · İlanen Tebligat",
+        "İlanen tebligat usulü"
+      ]
+    },
+    {
+      "id": "yonetmelik:15828:m:50",
+      "maddeKind": "madde",
+      "maddeNo": "50",
+      "heading": "Madde 50",
+      "text": "(1) İlan, tebliği çıkaran merci tarafından masrafı 8 inci maddeye göre ilgilisinden alınarak 49 uncu madde gereğince yayımlattırılır.\n (2) İlan yabancı bir ülke gazetesiyle yayımlanacak ise 38 ilâ 41 inci madde hükümleri de kıyasen uygulanır.",
+      "preview": "(1) İlan, tebliği çıkaran merci tarafından masrafı 8 inci maddeye göre ilgilisinden alınarak 49 uncu madde gereğince yayımlattırılır. (2) İl…",
+      "kitap": null,
+      "kisim": null,
+      "bolum": "BEŞİNCİ BÖLÜM · İlanen Tebligat",
+      "ayirim": null,
+      "maddeBaslik": "İlanın yaptırılması",
+      "sectionPath": [
+        "BEŞİNCİ BÖLÜM · İlanen Tebligat",
+        "İlanın yaptırılması"
+      ]
+    },
+    {
+      "id": "yonetmelik:15828:m:51",
+      "maddeKind": "madde",
+      "maddeNo": "51",
+      "heading": "Madde 51",
+      "text": "(1) İlanda; ilgililerin ad ve soyadları, işleri, yerleşim yeri veya mesken ya da işyeri adresleri, tebliğ olunacak evrakın içeriğinin özeti, tebliğin anlaşılabilecek şekilde konusu, sebebi, ilanın hangi merciden verildiği, ilan daveti gerektiriyorsa nerede ve ne için, hangi gün ve saatte hazır bulunacağı hususlarına yer verilir.",
+      "preview": "(1) İlanda; ilgililerin ad ve soyadları, işleri, yerleşim yeri veya mesken ya da işyeri adresleri, tebliğ olunacak evrakın içeriğinin özeti,…",
+      "kitap": null,
+      "kisim": null,
+      "bolum": "BEŞİNCİ BÖLÜM · İlanen Tebligat",
+      "ayirim": null,
+      "maddeBaslik": "İlanın içeriği",
+      "sectionPath": [
+        "BEŞİNCİ BÖLÜM · İlanen Tebligat",
+        "İlanın içeriği"
+      ]
+    },
+    {
+      "id": "yonetmelik:15828:m:52",
+      "maddeKind": "madde",
+      "maddeNo": "52",
+      "heading": "Madde 52",
+      "text": "(1) İlan yoluyla tebliğ, son ilan tarihinden itibaren yedi gün sonra yapılmış sayılır. İlan yoluyla tebliğ yapılmasına karar veren merci, işin gereğine göre daha uzun bir süre tayin edebilir. Ancak bu süre onbeş günü geçemez.",
+      "preview": "(1) İlan yoluyla tebliğ, son ilan tarihinden itibaren yedi gün sonra yapılmış sayılır. İlan yoluyla tebliğ yapılmasına karar veren merci, iş…",
+      "kitap": null,
+      "kisim": null,
+      "bolum": "BEŞİNCİ BÖLÜM · İlanen Tebligat",
+      "ayirim": null,
+      "maddeBaslik": "Tebliğ tarihi",
+      "sectionPath": [
+        "BEŞİNCİ BÖLÜM · İlanen Tebligat",
+        "Tebliğ tarihi"
+      ]
+    },
+    {
+      "id": "yonetmelik:15828:m:53",
+      "maddeKind": "madde",
+      "maddeNo": "53",
+      "heading": "Madde 53",
+      "text": "(1) Tebliğ, usulüne aykırı yapılmış olsa bile, muhatabı tebliği öğrenmiş ise geçerlidir. Aksi takdirde tebligat yapılmamış sayılır. Muhatap, her ne şekilde olursa olsun tebliğ evrakını veya davetiyeyi alırsa ya da bunların içeriğini öğrenirse tebliği öğrenmiş sayılır.\n (2) Muhatabın tebliği öğrendiğini beyan ettiği tarih, tebliğ tarihi olarak kabul edilir.\n (3) Tebliğin usulüne aykırı yapılmış olması halinde, muhatabın tebliği öğrendiğinin ve bunun tarihinin iddia ve ispatı mümkün değildir.",
+      "preview": "(1) Tebliğ, usulüne aykırı yapılmış olsa bile, muhatabı tebliği öğrenmiş ise geçerlidir. Aksi takdirde tebligat yapılmamış sayılır. Muhatap,…",
+      "kitap": null,
+      "kisim": null,
+      "bolum": "ALTINCI BÖLÜM · Usulsüz Tebligat, Gece ve Tatil Günlerinde Tebligat",
+      "ayirim": null,
+      "maddeBaslik": "Usulüne aykırı tebliğin hükmü",
+      "sectionPath": [
+        "ALTINCI BÖLÜM · Usulsüz Tebligat, Gece ve Tatil Günlerinde Tebligat",
+        "Usulüne aykırı tebliğin hükmü"
+      ]
+    },
+    {
+      "id": "yonetmelik:15828:m:54",
+      "maddeKind": "madde",
+      "maddeNo": "54",
+      "heading": "Madde 54",
+      "text": "(1) Gece vakti tebligat yapılabilir.",
+      "preview": "(1) Gece vakti tebligat yapılabilir.",
+      "kitap": null,
+      "kisim": null,
+      "bolum": "ALTINCI BÖLÜM · Usulsüz Tebligat, Gece ve Tatil Günlerinde Tebligat",
+      "ayirim": null,
+      "maddeBaslik": "Gece vakti tebligat",
+      "sectionPath": [
+        "ALTINCI BÖLÜM · Usulsüz Tebligat, Gece ve Tatil Günlerinde Tebligat",
+        "Gece vakti tebligat"
+      ]
+    },
+    {
+      "id": "yonetmelik:15828:m:55",
+      "maddeKind": "madde",
+      "maddeNo": "55",
+      "heading": "Madde 55",
+      "text": "(1) Resmî ve adli tatil günlerinde de tebligat yapılabilir.",
+      "preview": "(1) Resmî ve adli tatil günlerinde de tebligat yapılabilir.",
+      "kitap": null,
+      "kisim": null,
+      "bolum": "ALTINCI BÖLÜM · Usulsüz Tebligat, Gece ve Tatil Günlerinde Tebligat",
+      "ayirim": null,
+      "maddeBaslik": "Tatil günlerinde tebligat",
+      "sectionPath": [
+        "ALTINCI BÖLÜM · Usulsüz Tebligat, Gece ve Tatil Günlerinde Tebligat",
+        "Tatil günlerinde tebligat"
+      ]
+    },
+    {
+      "id": "yonetmelik:15828:m:56",
+      "maddeKind": "madde",
+      "maddeNo": "56",
+      "heading": "Madde 56",
+      "text": "(1) Adli, idari ve askerî kaza mercilerince yapılacak tebligat işlerinde bu Yönetmelik hükümleri uygulanır.",
+      "preview": "(1) Adli, idari ve askerî kaza mercilerince yapılacak tebligat işlerinde bu Yönetmelik hükümleri uygulanır.",
+      "kitap": null,
+      "kisim": null,
+      "bolum": "YEDİNCİ BÖLÜM · Kazaî Tebligat",
+      "ayirim": null,
+      "maddeBaslik": "Kazaî tebligatın kapsamı",
+      "sectionPath": [
+        "YEDİNCİ BÖLÜM · Kazaî Tebligat",
+        "Kazaî tebligatın kapsamı"
+      ]
+    },
+    {
+      "id": "yonetmelik:15828:m:57",
+      "maddeKind": "madde",
+      "maddeNo": "57",
+      "heading": "Madde 57",
+      "text": "(1) Muhataba veya adresinde bu Yönetmeliğin gösterdiği usullere göre onun yerine tebellüğ edebilecek birine tebligat yapılmasından veya 31 inci madde gereğince işlem yapılmasından sonra muhatap bu adresini değiştirirse, yeni adresini hemen tebliği yaptırmış olan kaza merciine bildirmek zorundadır. Bu takdirde bundan sonraki tebliğler, bildirilen yeni adrese yapılır.\n (2) Adresini değiştiren kişi yenisini bildirmediği ve adres kayıt sisteminde yerleşim yeri adresi de tespit edilemediği takdirde, adres araştırması yapılmasına gerek kalmaksızın ek-1’de yer alan (6) numaralı örneğe göre düzenlenecek tebliğ evrakının bir nüshası eski adresin kapısına asılır ve asılma tarihi tebliğ tarihi sayılır.\n (3) Bundan sonra eski adrese çıkarılan tebliğler muhataba yapılmış sayılır.\n (4) Daha önce tebligat yapılmamış olsa bile, tüzel kişiler bakımından ana statü, sicil, tüzük ve kuruluş senedi gibi resmî kayıtlardaki adresleri esas alınır ve bu madde hükümleri uygulanır.\n (5) Daha önce yurt dışındaki adresine tebligat yapılmış Türk vatandaşı, yurt dışı adresini değiştirir ve bunu tebliği çıkaran mercie bildirmez, adres kayıt sisteminden de yerleşim yeri adresi tespit edilemezse, bu kişinin yurt dışında daha önce tebligat yapılan adresine Türkiye Büyükelçiliği veya Konsolosluğunca 43 üncü maddeye göre gönderilen bildirimin adrese ulaştığının belgelendiği tarihten itibaren otuz gün sonra tebligat yapılmış sayılır.",
+      "preview": "(1) Muhataba veya adresinde bu Yönetmeliğin gösterdiği usullere göre onun yerine tebellüğ edebilecek birine tebligat yapılmasından veya 31 i…",
+      "kitap": null,
+      "kisim": null,
+      "bolum": "YEDİNCİ BÖLÜM · Kazaî Tebligat",
+      "ayirim": null,
+      "maddeBaslik": "Değiştirilen adresin bildirilmesi zorunluluğu ve yapılacak işlemler",
+      "sectionPath": [
+        "YEDİNCİ BÖLÜM · Kazaî Tebligat",
+        "Değiştirilen adresin bildirilmesi zorunluluğu ve yapılacak işlemler"
+      ]
+    },
+    {
+      "id": "yonetmelik:15828:m:58",
+      "maddeKind": "madde",
+      "maddeNo": "58",
+      "heading": "Madde 58",
+      "text": "(1) Celse esnasında veya kalemde soruşturmaya, davaya ya da takibe ait evrakın; taraflara, ilgili üçüncü kişilere, katılana, vekillere veya kanuni temsilcilere tutanağa geçirilmek suretiyle veya imza karşılığında, tebliğ konusu belirtilerek tevdii, tebliğ hükmündedir. Bu durumda ayrıca tebliğ mazbatası düzenlenmesi gerekmez ve masraf da alınmaz.",
+      "preview": "(1) Celse esnasında veya kalemde soruşturmaya, davaya ya da takibe ait evrakın; taraflara, ilgili üçüncü kişilere, katılana, vekillere veya…",
+      "kitap": null,
+      "kisim": null,
+      "bolum": "YEDİNCİ BÖLÜM · Kazaî Tebligat",
+      "ayirim": null,
+      "maddeBaslik": "Celse esnasında veya kalemde tebligat",
+      "sectionPath": [
+        "YEDİNCİ BÖLÜM · Kazaî Tebligat",
+        "Celse esnasında veya kalemde tebligat"
+      ]
+    },
+    {
+      "id": "yonetmelik:15828:m:59",
+      "maddeKind": "madde",
+      "maddeNo": "59",
+      "heading": "Madde 59",
+      "text": "(1) Celse esnasında kazaî merci tarafından, sıfatları usulen tespit edilen avukat kâtiplerine ve stajyerlerine bir sonraki celse gün ve saatinin bildirilmesi, avukata tebliğ hükmündedir.",
+      "preview": "(1) Celse esnasında kazaî merci tarafından, sıfatları usulen tespit edilen avukat kâtiplerine ve stajyerlerine bir sonraki celse gün ve saat…",
+      "kitap": null,
+      "kisim": null,
+      "bolum": "YEDİNCİ BÖLÜM · Kazaî Tebligat",
+      "ayirim": null,
+      "maddeBaslik": "Avukat kâtiplerine ve stajyerlerine tebligat",
+      "sectionPath": [
+        "YEDİNCİ BÖLÜM · Kazaî Tebligat",
+        "Avukat kâtiplerine ve stajyerlerine tebligat"
+      ]
+    },
+    {
+      "id": "yonetmelik:15828:m:60",
+      "maddeKind": "madde",
+      "maddeNo": "60",
+      "heading": "Madde 60",
+      "text": "(1) Vekil vasıtasıyla takip edilen davalarda, vekil, makbuz karşılığında diğer vekile tebligat yapabilir.",
+      "preview": "(1) Vekil vasıtasıyla takip edilen davalarda, vekil, makbuz karşılığında diğer vekile tebligat yapabilir.",
+      "kitap": null,
+      "kisim": null,
+      "bolum": "YEDİNCİ BÖLÜM · Kazaî Tebligat",
+      "ayirim": null,
+      "maddeBaslik": "Vekillerin birbirlerine tebligat yapması",
+      "sectionPath": [
+        "YEDİNCİ BÖLÜM · Kazaî Tebligat",
+        "Vekillerin birbirlerine tebligat yapması"
+      ]
+    },
+    {
+      "id": "yonetmelik:15828:m:61",
+      "maddeKind": "madde",
+      "maddeNo": "61",
+      "heading": "Madde 61",
+      "text": "(1) 59 uncu ve 60 ıncı maddeler gereğince yapılan tebligatta, ayrıca tebliğ mazbatası tanzim edilmez.",
+      "preview": "(1) 59 uncu ve 60 ıncı maddeler gereğince yapılan tebligatta, ayrıca tebliğ mazbatası tanzim edilmez.",
+      "kitap": null,
+      "kisim": null,
+      "bolum": "YEDİNCİ BÖLÜM · Kazaî Tebligat",
+      "ayirim": null,
+      "maddeBaslik": "Tebliğ mazbatası tanzim edilmemesi",
+      "sectionPath": [
+        "YEDİNCİ BÖLÜM · Kazaî Tebligat",
+        "Tebliğ mazbatası tanzim edilmemesi"
+      ]
+    },
+    {
+      "id": "yonetmelik:15828:m:62",
+      "maddeKind": "madde",
+      "maddeNo": "62",
+      "heading": "Madde 62",
+      "text": "(1) Bu Yönetmelik hükümlerine göre muhatap adına kendilerine tebliğ yapılabilecek kişilerin, o davada hasım olarak ilgileri varsa, muhatap adına kendilerine tebligat yapılamaz.",
+      "preview": "(1) Bu Yönetmelik hükümlerine göre muhatap adına kendilerine tebliğ yapılabilecek kişilerin, o davada hasım olarak ilgileri varsa, muhatap a…",
+      "kitap": null,
+      "kisim": null,
+      "bolum": "YEDİNCİ BÖLÜM · Kazaî Tebligat",
+      "ayirim": null,
+      "maddeBaslik": "Tebellüğ edecek şahsın hasım olması",
+      "sectionPath": [
+        "YEDİNCİ BÖLÜM · Kazaî Tebligat",
+        "Tebellüğ edecek şahsın hasım olması"
+      ]
+    },
+    {
+      "id": "yonetmelik:15828:m:63",
+      "maddeKind": "madde",
+      "maddeNo": "63",
+      "heading": "Madde 63",
+      "text": "(1) Tebliğe dair kararlar, daha önce belirlenmiş celse günü beklenmeden verilir.",
+      "preview": "(1) Tebliğe dair kararlar, daha önce belirlenmiş celse günü beklenmeden verilir.",
+      "kitap": null,
+      "kisim": null,
+      "bolum": "YEDİNCİ BÖLÜM · Kazaî Tebligat",
+      "ayirim": null,
+      "maddeBaslik": "Tebliğ kararlarının ivediliği",
+      "sectionPath": [
+        "YEDİNCİ BÖLÜM · Kazaî Tebligat",
+        "Tebliğ kararlarının ivediliği"
+      ]
+    },
+    {
+      "id": "yonetmelik:15828:m:64",
+      "maddeKind": "madde",
+      "maddeNo": "64",
+      "heading": "Madde 64",
+      "text": "(1) Adli, idari ve askerî yargı yerleriyle diğer adalet daireleri, resen veya talep halinde, işin mahiyetine göre, memurları vasıtasıyla tebligat yapılmasına karar verebilirler.",
+      "preview": "(1) Adli, idari ve askerî yargı yerleriyle diğer adalet daireleri, resen veya talep halinde, işin mahiyetine göre, memurları vasıtasıyla teb…",
+      "kitap": null,
+      "kisim": null,
+      "bolum": "YEDİNCİ BÖLÜM · Kazaî Tebligat",
+      "ayirim": null,
+      "maddeBaslik": "Yargı yerlerinde memur vasıtasıyla tebliğ",
+      "sectionPath": [
+        "YEDİNCİ BÖLÜM · Kazaî Tebligat",
+        "Yargı yerlerinde memur vasıtasıyla tebliğ"
+      ]
+    },
+    {
+      "id": "yonetmelik:15828:m:65",
+      "maddeKind": "madde",
+      "maddeNo": "65",
+      "heading": "Madde 65",
+      "text": "(1) Cumhuriyet başsavcılığına yapılacak tebligat, tebliğ olunacak evrak aslının gösterilmesi ya da elektronik ortamda gönderilmesi suretiyle yapılır. Tebligatın belgelendirilmesi için, elektronik ortamda güvenli elektronik imzalı olarak gönderilen evrak hariç olmak üzere Cumhuriyet savcısı tarafından evrak aslına “Görüldü” ibaresi yazılarak imzalanır.\n (2) Şu kadar ki, bu Tebliğ bir sürenin başlangıcına esas olacaksa, Cumhuriyet savcısı evrakın gösterildiği günü de evrak aslına yazar ve imzalar.",
+      "preview": "(1) Cumhuriyet başsavcılığına yapılacak tebligat, tebliğ olunacak evrak aslının gösterilmesi ya da elektronik ortamda gönderilmesi suretiyle…",
+      "kitap": null,
+      "kisim": null,
+      "bolum": "YEDİNCİ BÖLÜM · Kazaî Tebligat",
+      "ayirim": null,
+      "maddeBaslik": "Cumhuriyet başsavcılığına tebligat",
+      "sectionPath": [
+        "YEDİNCİ BÖLÜM · Kazaî Tebligat",
+        "Cumhuriyet başsavcılığına tebligat"
+      ]
+    },
+    {
+      "id": "yonetmelik:15828:m:66",
+      "maddeKind": "madde",
+      "maddeNo": "66",
+      "heading": "Madde 66",
+      "text": "(1) Askerî kaza makam ve mercilerince askeri şahıslara yapılacak tebligat, yazılı bir emirle ifa olunur ve tebellüğ ilmühaberi, tebligatı talep veya emreden makam veya mercie gönderilir.\n (2) Tebellüğ ilmühaberinin;\n a) Tebliği çıkaran merciin adını,\n b) Tebliği talep veya emreden makam veya merciin adını,\n c) Tebliğ olunan şahsın, adını, soyadını ve künyesini,\n ç) Tebliğin konusunu,\n d) Tebliğin nerede yapıldığını, tarihi ve saatini,\n e) Tebliğ ve tebellüğ eden şahısların imzalarını,\n içermesi gerekir.",
+      "preview": "(1) Askerî kaza makam ve mercilerince askeri şahıslara yapılacak tebligat, yazılı bir emirle ifa olunur ve tebellüğ ilmühaberi, tebligatı ta…",
+      "kitap": null,
+      "kisim": null,
+      "bolum": "YEDİNCİ BÖLÜM · Kazaî Tebligat",
+      "ayirim": null,
+      "maddeBaslik": "Askerî kazada tebligat",
+      "sectionPath": [
+        "YEDİNCİ BÖLÜM · Kazaî Tebligat",
+        "Askerî kazada tebligat"
+      ]
+    },
+    {
+      "id": "yonetmelik:15828:m:67",
+      "maddeKind": "madde",
+      "maddeNo": "67",
+      "heading": "Madde 67",
+      "text": "(1) Kazaî ve mali tebligatın dışında kalan tebligat, idari tebligattır.",
+      "preview": "(1) Kazaî ve mali tebligatın dışında kalan tebligat, idari tebligattır.",
+      "kitap": null,
+      "kisim": null,
+      "bolum": "SEKİZİNCİ BÖLÜM · İdari Tebligat",
+      "ayirim": null,
+      "maddeBaslik": "Kapsamı",
+      "sectionPath": [
+        "SEKİZİNCİ BÖLÜM · İdari Tebligat",
+        "Kapsamı"
+      ]
+    },
+    {
+      "id": "yonetmelik:15828:m:68",
+      "maddeKind": "madde",
+      "maddeNo": "68",
+      "heading": "Madde 68",
+      "text": "(1) Birden fazla kişinin temsilcisine, tebliğ olunacak evrakın ancak bir nüshası verilir.\n (2) Şu kadar ki, yalnız evrakı tebellüğ için vekalet verilen kişiye temsil ettiği kişilerin sayısı kadar nüsha verilir.\n (3) Evrakı tebellüğ için temsilci tayin ederek merciine bildirmiş olan kişiye tebligat yapılmaz.",
+      "preview": "(1) Birden fazla kişinin temsilcisine, tebliğ olunacak evrakın ancak bir nüshası verilir. (2) Şu kadar ki, yalnız evrakı tebellüğ için vekal…",
+      "kitap": null,
+      "kisim": null,
+      "bolum": "SEKİZİNCİ BÖLÜM · İdari Tebligat",
+      "ayirim": null,
+      "maddeBaslik": "Birden fazla kişinin temsilcisine tebligat",
+      "sectionPath": [
+        "SEKİZİNCİ BÖLÜM · İdari Tebligat",
+        "Birden fazla kişinin temsilcisine tebligat"
+      ]
+    },
+    {
+      "id": "yonetmelik:15828:m:69",
+      "maddeKind": "madde",
+      "maddeNo": "69",
+      "heading": "Madde 69",
+      "text": "(1) Gümrük ve tekel işlerinde, kendi kanunlarının imkân verdiği hallerde, işlemin yapıldığı yerde hazır bulunan ilgiliye tebligat, bu işle görevli memurlar vasıtasıyla yapılır.",
+      "preview": "(1) Gümrük ve tekel işlerinde, kendi kanunlarının imkân verdiği hallerde, işlemin yapıldığı yerde hazır bulunan ilgiliye tebligat, bu işle g…",
+      "kitap": null,
+      "kisim": null,
+      "bolum": "SEKİZİNCİ BÖLÜM · İdari Tebligat",
+      "ayirim": null,
+      "maddeBaslik": "Gümrük ve tekel işlerinde tebligat",
+      "sectionPath": [
+        "SEKİZİNCİ BÖLÜM · İdari Tebligat",
+        "Gümrük ve tekel işlerinde tebligat"
+      ]
+    },
+    {
+      "id": "yonetmelik:15828:m:70",
+      "maddeKind": "madde",
+      "maddeNo": "70",
+      "heading": "Madde 70",
+      "text": "(1) Tapuda kayıtlı taşınmazların veya miras, istimlak, cebrî icra veya mahkeme ilâmıyla iktisapta bulunan hak sahipleri, adreslerini ve değiştirdikleri takdirde yenisini bulundukları yerin tapu idaresine bildirmeye mecburdur. Kendilerine bu durumu belgeleyen bir makbuz verilir. Davetiye veya tebliğ evrakı, bu suretle bilinen son adrese gönderilir. Hak sahiplerinin adres bildirmemeleri hâlinde adres kayıt sistemindeki adresleri tebligat adresleri olarak kabul edilir.",
+      "preview": "(1) Tapuda kayıtlı taşınmazların veya miras, istimlak, cebrî icra veya mahkeme ilâmıyla iktisapta bulunan hak sahipleri, adreslerini ve deği…",
+      "kitap": null,
+      "kisim": null,
+      "bolum": "SEKİZİNCİ BÖLÜM · İdari Tebligat",
+      "ayirim": null,
+      "maddeBaslik": "Tapu idarelerince yapılacak tebligat",
+      "sectionPath": [
+        "SEKİZİNCİ BÖLÜM · İdari Tebligat",
+        "Tapu idarelerince yapılacak tebligat"
+      ]
+    },
+    {
+      "id": "yonetmelik:15828:m:71",
+      "maddeKind": "madde",
+      "maddeNo": "71",
+      "heading": "Madde 71",
+      "text": "(1) Sayıştay tarafından yapılacak tebligat, tebliğ yapılacak kişilerden merkez teşkilatlarında görevli bulunanlara bağlı oldukları daireler, bunların haricinde kalanlara mahalli mülki amiri vasıtasıyla ve memur marifetiyle yaptırılır.\n (2) Adresin tespit olunamaması veya tebellüğden kaçınma hallerinde tebligat, Tebligat Kanunu ve bu Yönetmelik hükümlerine göre yapılır.",
+      "preview": "(1) Sayıştay tarafından yapılacak tebligat, tebliğ yapılacak kişilerden merkez teşkilatlarında görevli bulunanlara bağlı oldukları daireler,…",
+      "kitap": null,
+      "kisim": null,
+      "bolum": "DOKUZUNCU BÖLÜM · Malî Tebligat",
+      "ayirim": null,
+      "maddeBaslik": "Sayıştay tarafından yapılacak tebligat",
+      "sectionPath": [
+        "DOKUZUNCU BÖLÜM · Malî Tebligat",
+        "Sayıştay tarafından yapılacak tebligat"
+      ]
+    },
+    {
+      "id": "yonetmelik:15828:m:72",
+      "maddeKind": "madde",
+      "maddeNo": "72",
+      "heading": "Madde 72",
+      "text": "(1) Özel kanunlarda tebligata ilişkin bir hüküm bulunmaması halinde mali tebliğler, Tebligat Kanunu ve bu Yönetmelik hükümlerine göre yapılır.",
+      "preview": "(1) Özel kanunlarda tebligata ilişkin bir hüküm bulunmaması halinde mali tebliğler, Tebligat Kanunu ve bu Yönetmelik hükümlerine göre yapılı…",
+      "kitap": null,
+      "kisim": null,
+      "bolum": "DOKUZUNCU BÖLÜM · Malî Tebligat",
+      "ayirim": null,
+      "maddeBaslik": "Diğer mali tebligat",
+      "sectionPath": [
+        "DOKUZUNCU BÖLÜM · Malî Tebligat",
+        "Diğer mali tebligat"
+      ]
+    },
+    {
+      "id": "yonetmelik:15828:m:73",
+      "maddeKind": "madde",
+      "maddeNo": "73",
+      "heading": "Madde 73",
+      "text": "(1) 2 nci maddede belirtilen mercilerce çıkarılacak tebliğ evrakı, teslim sırasında kolaylıkla ayrılabilecek şekilde, ek-1’de yer alan (7) numaralı örneğe göre hazırlanmış olan tebliğ mazbatalı bir zarf içine konulur.\n (2) Tebliğ evrakının tebliğ mazbatası haricindeki kısımları, tebliği çıkaran merci tarafından doldurulur.",
+      "preview": "(1) 2 nci maddede belirtilen mercilerce çıkarılacak tebliğ evrakı, teslim sırasında kolaylıkla ayrılabilecek şekilde, ek-1’de yer alan (7) n…",
+      "kitap": null,
+      "kisim": null,
+      "bolum": "ONUNCU BÖLÜM · Tebliğ Evrakının Hazırlanması ve PTT İşletmesine Tevdi",
+      "ayirim": null,
+      "maddeBaslik": "Tebliğ mazbatalı zarfın düzenlenmesi",
+      "sectionPath": [
+        "ONUNCU BÖLÜM · Tebliğ Evrakının Hazırlanması ve PTT İşletmesine Tevdi",
+        "Tebliğ mazbatalı zarfın düzenlenmesi"
+      ]
+    },
+    {
+      "id": "yonetmelik:15828:m:74",
+      "maddeKind": "madde",
+      "maddeNo": "74",
+      "heading": "Madde 74",
+      "text": "(1) Telgrafla tebligat, normal veya acele işaretli olmak üzere iki tür olarak kabul edilir. Telgraf otomasyon sistemi üzerinden alınacak listenin bir örneği çıkaran mercie verilir.",
+      "preview": "(1) Telgrafla tebligat, normal veya acele işaretli olmak üzere iki tür olarak kabul edilir. Telgraf otomasyon sistemi üzerinden alınacak lis…",
+      "kitap": null,
+      "kisim": null,
+      "bolum": "ONUNCU BÖLÜM · Tebliğ Evrakının Hazırlanması ve PTT İşletmesine Tevdi",
+      "ayirim": null,
+      "maddeBaslik": "Telgrafla tebligat",
+      "sectionPath": [
+        "ONUNCU BÖLÜM · Tebliğ Evrakının Hazırlanması ve PTT İşletmesine Tevdi",
+        "Telgrafla tebligat"
+      ]
+    },
+    {
+      "id": "yonetmelik:15828:m:75",
+      "maddeKind": "madde",
+      "maddeNo": "75",
+      "heading": "Madde 75",
+      "text": "(1) Tebligat çıkarmaya yetkili mercilerce usulüne uygun olarak düzenlenen tebliğ evrakı, ek-1’de yer alan (8) numaralı örneğe uygun olarak tanzim edilen tevdi listesi ile birlikte PTT işyerlerine tevdi edilir.",
+      "preview": "(1) Tebligat çıkarmaya yetkili mercilerce usulüne uygun olarak düzenlenen tebliğ evrakı, ek-1’de yer alan (8) numaralı örneğe uygun olarak t…",
+      "kitap": null,
+      "kisim": null,
+      "bolum": "ONUNCU BÖLÜM · Tebliğ Evrakının Hazırlanması ve PTT İşletmesine Tevdi",
+      "ayirim": null,
+      "maddeBaslik": "Liste ile tevdi",
+      "sectionPath": [
+        "ONUNCU BÖLÜM · Tebliğ Evrakının Hazırlanması ve PTT İşletmesine Tevdi",
+        "Liste ile tevdi"
+      ]
+    },
+    {
+      "id": "yonetmelik:15828:m:76",
+      "maddeKind": "madde",
+      "maddeNo": "76",
+      "heading": "Madde 76",
+      "text": "(1) PTT İşletmesi, tebliğ evrakının tebliğ mazbatası haricinde kalan kısımlarının tebliği çıkaran merci tarafından tamamen doldurup doldurmadığı, posta pullarının tarifeye göre yapıştırıp yapıştırmadığı, evrakı tevdi edenin huzurunda tetkik eder. Usulüne uygun olmayan evrak, sebebi tevdi listesinde yazılarak iade edilir.",
+      "preview": "(1) PTT İşletmesi, tebliğ evrakının tebliğ mazbatası haricinde kalan kısımlarının tebliği çıkaran merci tarafından tamamen doldurup doldurma…",
+      "kitap": null,
+      "kisim": null,
+      "bolum": "ONUNCU BÖLÜM · Tebliğ Evrakının Hazırlanması ve PTT İşletmesine Tevdi",
+      "ayirim": null,
+      "maddeBaslik": "Tebliğ evrakının tetkiki",
+      "sectionPath": [
+        "ONUNCU BÖLÜM · Tebliğ Evrakının Hazırlanması ve PTT İşletmesine Tevdi",
+        "Tebliğ evrakının tetkiki"
+      ]
+    },
+    {
+      "id": "yonetmelik:15828:m:77",
+      "maddeKind": "madde",
+      "maddeNo": "77",
+      "heading": "Madde 77",
+      "text": "(1) Tebliğ evrakı, barkod numaraları vasıtasıyla kayıtlı posta otomasyon sistemine kaydedilir. Sistem üzerinden kabul listesi düzenlenir. Kabul listesinin bir örneği çıkaran mercie verilir. Kabul edilen tebliğ evrakı, sistem üzerinden takip edilir. Tebliğ evrakının teslimi ile mazbatalarının çıkış merciine iade işlemleri bu Yönetmelik hükümleri kapsamında yapılır.",
+      "preview": "(1) Tebliğ evrakı, barkod numaraları vasıtasıyla kayıtlı posta otomasyon sistemine kaydedilir. Sistem üzerinden kabul listesi düzenlenir. Ka…",
+      "kitap": null,
+      "kisim": null,
+      "bolum": "ONUNCU BÖLÜM · Tebliğ Evrakının Hazırlanması ve PTT İşletmesine Tevdi",
+      "ayirim": null,
+      "maddeBaslik": "Tebliğ evrakının kabulü",
+      "sectionPath": [
+        "ONUNCU BÖLÜM · Tebliğ Evrakının Hazırlanması ve PTT İşletmesine Tevdi",
+        "Tebliğ evrakının kabulü"
+      ]
+    },
+    {
+      "id": "yonetmelik:15828:m:78",
+      "maddeKind": "madde",
+      "maddeNo": "78",
+      "heading": "Madde 78",
+      "text": "(1) Tebliğ vaktinde yapılmaz veya tebliğ mazbatası belirlenen zamanda gelmezse tebligatı çıkaran merci durumu mahalli PTT merkezine bildirir.\n (2) Mahalli PTT merkezi, şikâyet konusu olan evrakın ne işlem gördüğünü inceler ve gerekirse varış merkezinden araştırır ve takip eder.\n (3) Yapılan araştırma ve takip sonucu, mahalli PTT merkezi ve gerektiğinde Posta ve Telgraf Teşkilatı Genel Müdürlüğü tarafından mümkün olduğu kadar kısa bir zaman içinde tebligatı çıkaran mercie bildirilir.",
+      "preview": "(1) Tebliğ vaktinde yapılmaz veya tebliğ mazbatası belirlenen zamanda gelmezse tebligatı çıkaran merci durumu mahalli PTT merkezine bildirir…",
+      "kitap": null,
+      "kisim": null,
+      "bolum": "ONBİRİNCİ BÖLÜM · Çeşitli ve Son Hükümler",
+      "ayirim": null,
+      "maddeBaslik": "Tebliğin vaktinde yapılmaması",
+      "sectionPath": [
+        "ONBİRİNCİ BÖLÜM · Çeşitli ve Son Hükümler",
+        "Tebliğin vaktinde yapılmaması"
+      ]
+    },
+    {
+      "id": "yonetmelik:15828:m:79",
+      "maddeKind": "madde",
+      "maddeNo": "79",
+      "heading": "Madde 79",
+      "text": "(1) Ek-1’de yer alan (2) ve (7) numaralı örnek basılı evrağı, Posta ve Telgraf Teşkilatı Genel Müdürlüğü, diğerleri ise tebliği çıkaran merciler tarafından temin edilir.\n (2) Bu Yönetmeliğe ekli örneklere göre bastırılacak evrakın beyaz renkte olması gerekir. Ancak, 16 ncı maddenin ikinci fıkrası uyarınca adres kayıt sistemine göre düzenlenecek tebliğ zarfı açık mavi renkte bastırılır.",
+      "preview": "(1) Ek-1’de yer alan (2) ve (7) numaralı örnek basılı evrağı, Posta ve Telgraf Teşkilatı Genel Müdürlüğü, diğerleri ise tebliği çıkaran merc…",
+      "kitap": null,
+      "kisim": null,
+      "bolum": "ONBİRİNCİ BÖLÜM · Çeşitli ve Son Hükümler",
+      "ayirim": null,
+      "maddeBaslik": "Basılı evrak",
+      "sectionPath": [
+        "ONBİRİNCİ BÖLÜM · Çeşitli ve Son Hükümler",
+        "Basılı evrak"
+      ]
+    },
+    {
+      "id": "yonetmelik:15828:m:80",
+      "maddeKind": "madde",
+      "maddeNo": "80",
+      "heading": "Madde 80",
+      "text": "(1) Bu Yönetmeliğin yürürlüğe girmesiyle, mevzuatta, 20/8/1959 tarihli ve 4/12059 sayılı Bakanlar Kurulu Kararı ile yürürlüğe konulan Tebligat Tüzüğüne yapılan atıflar, bu Yönetmeliğe yapılmış sayılır.",
+      "preview": "(1) Bu Yönetmeliğin yürürlüğe girmesiyle, mevzuatta, 20/8/1959 tarihli ve 4/12059 sayılı Bakanlar Kurulu Kararı ile yürürlüğe konulan Teblig…",
+      "kitap": null,
+      "kisim": null,
+      "bolum": "ONBİRİNCİ BÖLÜM · Çeşitli ve Son Hükümler",
+      "ayirim": null,
+      "maddeBaslik": "Atıflar",
+      "sectionPath": [
+        "ONBİRİNCİ BÖLÜM · Çeşitli ve Son Hükümler",
+        "Atıflar"
+      ]
+    },
+    {
+      "id": "yonetmelik:15828:m:81",
+      "maddeKind": "madde",
+      "maddeNo": "81",
+      "heading": "Madde 81",
+      "text": "(1) Bu Yönetmelik yayımı tarihinde yürürlüğe girer.",
+      "preview": "(1) Bu Yönetmelik yayımı tarihinde yürürlüğe girer.",
+      "kitap": null,
+      "kisim": null,
+      "bolum": "ONBİRİNCİ BÖLÜM · Çeşitli ve Son Hükümler",
+      "ayirim": null,
+      "maddeBaslik": "Yürürlük",
+      "sectionPath": [
+        "ONBİRİNCİ BÖLÜM · Çeşitli ve Son Hükümler",
+        "Yürürlük"
+      ]
+    },
+    {
+      "id": "yonetmelik:15828:m:82",
+      "maddeKind": "madde",
+      "maddeNo": "82",
+      "heading": "Madde 82",
+      "text": "(1) Bu Yönetmelik hükümlerini Adalet Bakanı yürütür.",
+      "preview": "(1) Bu Yönetmelik hükümlerini Adalet Bakanı yürütür.",
+      "kitap": null,
+      "kisim": null,
+      "bolum": "ONBİRİNCİ BÖLÜM · Çeşitli ve Son Hükümler",
+      "ayirim": null,
+      "maddeBaslik": "Yürütme",
+      "sectionPath": [
+        "ONBİRİNCİ BÖLÜM · Çeşitli ve Son Hükümler",
+        "Yürütme"
+      ]
+    }
+  ]
+}

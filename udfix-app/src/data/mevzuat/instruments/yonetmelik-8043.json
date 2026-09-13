@@ -1,0 +1,2043 @@
+{
+  "id": "yonetmelik:8043",
+  "kind": "yonetmelik",
+  "no": "8043",
+  "title": "İcra ve İflâs Kanunu Yönetmeliği",
+  "shortName": "İİKYön",
+  "aliases": [
+    "İİKYön",
+    "İİK Yönetmeliği",
+    "İcra ve İflâs Kanunu Yönetmeliği",
+    "8043"
+  ],
+  "tur": 7,
+  "tertip": 5,
+  "sourceUrl": "https://www.mevzuat.gov.tr/mevzuat?MevzuatNo=8043&MevzuatTur=7&MevzuatTertip=5",
+  "kabulTarihi": null,
+  "maddeCount": 120,
+  "maddeler": [
+    {
+      "id": "yonetmelik:8043:m:1",
+      "maddeKind": "madde",
+      "maddeNo": "1",
+      "heading": "Madde 1",
+      "text": "Bu Yönetmeliğin amacı, 9/6/1932 tarihli ve 2004 sayılı İcra ve İflâs Kanunu uyarınca icra ve iflâs daireleri ile icra mahkemelerinde tutulacak (Değişik ibare:RG-16/4/2013-28620) kayıt, dosyalar ve diğer basılı kâğıtlara ilişkin hususlar ile aciz vesikası sicili, icra dairelerinin teftiş ve denetimi ve malvarlığının terki suretiyle konkordatoda alacaklılar kurulu ile tasfiye memurlarına (Değişik ibare:RG-16/4/2013-28620) ilişkin hususlar ile elektronik ortamda yapılacak işlemleri düzenlemektir.",
+      "preview": "Bu Yönetmeliğin amacı, 9/6/1932 tarihli ve 2004 sayılı İcra ve İflâs Kanunu uyarınca icra ve iflâs daireleri ile icra mahkemelerinde tutulac…",
+      "kitap": null,
+      "kisim": null,
+      "bolum": null,
+      "ayirim": null,
+      "maddeBaslik": null,
+      "sectionPath": []
+    },
+    {
+      "id": "yonetmelik:8043:m:2",
+      "maddeKind": "madde",
+      "maddeNo": "2",
+      "heading": "Madde 2",
+      "text": "Bu Yönetmelik, 9/6/1932 tarihli ve 2004 sayılı İcra ve İflâs Kanununun (Ek ibare:RG-16/4/2013-28620) 8/a, 14, 26 ve 143 üncü maddesi ile 17/2/2003 tarihli ve 4949 sayılı İcra ve İflâs Kanununda Değişiklik Yapılmasına Dair Kanunun 104 üncü maddesine dayanılarak hazırlanmıştır.\n\n İKİNCİ KISIM\n İcra ve İflâs Dairelerinde Tutulacak (Değişik ibare:RG-16/4/2013-28620) Kayıtlar,\n Dosyalar, Kartonlar ve Kullanılacak Basılı Kâğıtlar\n\n BİRİNCİ BÖLÜM\n (Değişik ibare:RG-16/4/2013-28620) Kayıtlar",
+      "preview": "Bu Yönetmelik, 9/6/1932 tarihli ve 2004 sayılı İcra ve İflâs Kanununun (Ek ibare:RG-16/4/2013-28620) 8/a, 14, 26 ve 143 üncü maddesi ile 17/…",
+      "kitap": null,
+      "kisim": null,
+      "bolum": null,
+      "ayirim": null,
+      "maddeBaslik": "Dayanak",
+      "sectionPath": [
+        "Dayanak"
+      ]
+    },
+    {
+      "id": "yonetmelik:8043:m:3",
+      "maddeKind": "madde",
+      "maddeNo": "3",
+      "heading": "Madde 3",
+      "text": "(Başlığıyla birlikte değişik:RG-16/4/2013-28620)\n Her icra ve iflâs dairesinde aşağıda gösterilen kayıtların elektronik ortamda tutulması zorunludur.\n a) Esas kaydı.\n b) Talimat kaydı.\n c) Disiplin soruşturması kaydı.\n d) Kasa kaydı.\n e) Cezaevi yapı harcı kaydı.\n f) Zimmet kaydı.\n g) İcra dairesince alınan kıymetli evrak ve değerli şeylerin kaydı.\n h) Posta mutemet kaydı.\n ı) Muhabere kaydı.\n j) Haciz takip kaydı.\n\n İKİNCİ BÖLÜM\n (Değişik ibare:RG-16/4/2013-28620) Kayıtların Düzenlenme Amacı ve Kullanma Biçimi",
+      "preview": "(Başlığıyla birlikte değişik:RG-16/4/2013-28620) Her icra ve iflâs dairesinde aşağıda gösterilen kayıtların elektronik ortamda tutulması zor…",
+      "kitap": null,
+      "kisim": null,
+      "bolum": null,
+      "ayirim": null,
+      "maddeBaslik": "Tutulması zorunlu olan kayıtlar",
+      "sectionPath": [
+        "Tutulması zorunlu olan kayıtlar"
+      ]
+    },
+    {
+      "id": "yonetmelik:8043:m:4",
+      "maddeKind": "madde",
+      "maddeNo": "4",
+      "heading": "Madde 4",
+      "text": "(Başlığıyla birlikte değişik:RG-16/4/2013-28620)\n Esas kaydı; elektronik veya fiziki ortamda gelen takip talepleri, ihtiyatî haciz ve tedbire yönelik isteklerin tutulduğu kayıttır.\n Bu kayıtta; sıra numarası, başvurma tarihi, alacaklının ve varsa kanuni temsilcisinin veya vekilinin adı, soyadı, vergi kimlik numarası ve yerleşim yerindeki adresi (yabancı ülkede oturuyorsa Türkiye'de göstereceği yerleşim yerindeki adresi), borçlunun (bir terekeye karşı söz konusu olan takiplerde kendilerine tebligat yapılacak mirasçıların adı ve soyadı, yerleşim yerindeki adresleri) ve varsa kanuni temsilcisinin adı, soyadı, alacaklı tarafından biliniyorsa vergi kimlik numarası ve yerleşim yerindeki adresi, takibin şekli ve niteliği, alacağın veya teminatın Türk parasıyla tutarı ve faiz miktarı ile faizin işlemeye başladığı gün, alacak veya teminat yabancı para ise alacağın hangi tarihteki kur üzerinden talep edildiği ve faizi, takibin dayanağı olan belgenin niteliği, tarihi, varsa sayısı, alacaklının takip talebinde bulunduğuna ve ibraz ettiği belgelerin talep ve takip giderinin alındığına ilişkin verilen makbuzun tarih ve numarası, İcra ve İflâs Kanununun 62 ve 176/a maddelerinin son fıkraları gereğince borçluya verilmesi zorunlu olan belgenin tarih ve numarası, işlem sonuçlandığında bu sonucun neden ibaret olduğunu belirten sütunlar yer alır.\n Yıl sonunda sonuçlanmayan takip dosyaları, yeni yıl esas kaydına devir suretiyle kaydedilmez.\n Yıl sonunda, gelen işlerden ne kadarının icra edildiği, ne kadarının takipsiz bırakıldığı ve ne kadarının yeni yıla devredilmiş olduğu ve devredilen dosyaların sıra numaraları, Ulusal Yargı Ağı Bilişim Sisteminde (UYAP) bir cetvel halinde rapor olarak gösterilir.",
+      "preview": "(Başlığıyla birlikte değişik:RG-16/4/2013-28620) Esas kaydı; elektronik veya fiziki ortamda gelen takip talepleri, ihtiyatî haciz ve tedbire…",
+      "kitap": null,
+      "kisim": null,
+      "bolum": null,
+      "ayirim": null,
+      "maddeBaslik": "Esas kaydı",
+      "sectionPath": [
+        "Esas kaydı"
+      ]
+    },
+    {
+      "id": "yonetmelik:8043:m:5",
+      "maddeKind": "madde",
+      "maddeNo": "5",
+      "heading": "Madde 5",
+      "text": "(Başlığıyla birlikte değişik:RG-16/4/2013-28620)\n Talimat kaydı, başka yer icra ve iflâs dairelerinden gelen işlerle ilgili gönderilen talimat taleplerine ilişkin bilgilerin tutulduğu kayıttır.\n Bu kayda; sıra numarası, talimat evrakının geldiği tarih ve gönderen icra dairesi, talimat evrakının tarih ve dosya esas sıra numarası, alacaklı ve varsa kanuni temsilcisinin veya vekilinin adı ve soyadı veya vergi kimlik numarası, yerleşim yerindeki adresi, borçlu ve varsa kanuni temsilcisinin adı ve soyadı veya vergi kimlik numarası, yerleşim yerindeki adresi, talimat evrakıyla yapılması istenilen işlem ve sonucunun neden ibaret olduğu kaydedilir.\n Bu kayıtta da, 4 üncü maddenin son fıkrası hükmü gereğince yılsonunda devir işlemi yapılır.\n\n Kasa kaydı (Değişik madde başlığı:RG-16/4/2013-28620)",
+      "preview": "(Başlığıyla birlikte değişik:RG-16/4/2013-28620) Talimat kaydı, başka yer icra ve iflâs dairelerinden gelen işlerle ilgili gönderilen talima…",
+      "kitap": null,
+      "kisim": null,
+      "bolum": null,
+      "ayirim": null,
+      "maddeBaslik": "Talimat kaydı",
+      "sectionPath": [
+        "Talimat kaydı"
+      ]
+    },
+    {
+      "id": "yonetmelik:8043:m:6",
+      "maddeKind": "madde",
+      "maddeNo": "6",
+      "heading": "Madde 6",
+      "text": "(Değişik ibare:RG-16/4/2013-28620) Kasa kaydı; tahsilât ve reddiyat makbuzları karşılığında kasaya giren ve çıkan para (Değişik:RG-16/4/2013-28620) için tutulan kayıttır.\n (Değişik ikinci fıkra:RG-16/4/2013-28620) Bu kayıt; sıra numarası, işlem türü, işlem tarihi, parayı yatıran veya çekenin adı ve soyadı, işlemi yapanın sicil numarası, birim adı, dosya esas sıra numarası, makbuz numarası, miktar sütunlarını içerir. İşlem türü sütununa işlemin tahsilât veya reddiyat olduğu yazılır.\n Kasaya giren ve çıkan paraların mutlaka bir tahsilât veya reddiyat makbuzuna dayanması gerekir.\n (Mülga dördüncü fıkra:RG-27/06/2007-26565)\n Günlük tahsilât ve reddiyat toplamları, tahsilât ve reddiyat makbuzları ile karşılaştırılarak mevcut kontrol edilir. Sayfadaki günlük tahsilât ve reddiyat tutarı, sayfa sonunda genel toplama eklenir; diğer sayfadaki (toplam nakil) kelimesinin karşısına (Mülga ibare:RG-16/4/2013-28620) (…) gün (Mülga ibare:RG-16/4/2013-28620) (…) sonunda aktarılır.\n Takvim yılı sonuna kadar bu şekilde işlem yapılır. Yıl sonunda bir önceki yılın devri de dahil olmak üzere, yıllık tahsilât toplamından yıllık reddiyat çıkarılır. Yıl içinde reddedilmeyen ve ertesi yıla kalan paralar, Devlet Muhasebesi Muamelât Yönetmeliği hükümleri çerçevesinde, yeni yıl (Değişik ibare:RG-16/4/2013-28620) kasa kaydına ayrıntılı olarak yeni tahsil edilmiş bir para gibi eski tahsilât makbuzu, tarih ve numaraları da gösterilmek suretiyle geçirilir. Bir önceki yıla ait (Değişik ibare:RG-16/4/2013-28620) kasa kaydında tahsilât ve reddiyat kayıtları devir işlemine tabi tutulur.\n Hak sahipleri tarafından on yıl geçmiş olmasına rağmen başvurulup alınmayan paralar, Hazineye intikal ettirilip (Mülga ibare:RG-16/4/2013-28620) (…) kayıtlarının karşısına açıklama yazılır.\n Yıl başında bankaya yatırılan paraların faizleri çekilip, Hazineye intikal ettirilir ve alınan makbuz, ayrı bir kartonda saklanarak yıl sonu cetvelinde bu husus gösterilir.",
+      "preview": "(Değişik ibare:RG-16/4/2013-28620) Kasa kaydı; tahsilât ve reddiyat makbuzları karşılığında kasaya giren ve çıkan para (Değişik:RG-16/4/2013…",
+      "kitap": null,
+      "kisim": null,
+      "bolum": null,
+      "ayirim": null,
+      "maddeBaslik": "Talimat kaydı",
+      "sectionPath": [
+        "Talimat kaydı"
+      ]
+    },
+    {
+      "id": "yonetmelik:8043:m:7",
+      "maddeKind": "madde",
+      "maddeNo": "7",
+      "heading": "Madde 7",
+      "text": "(Başlığıyla birlikte değişik:RG-16/4/2013-28620)\n Cezaevi yapı harcı kaydı; icra ve iflâs dairesi tarafından tahsil edilen cezaevi yapı harcının tutulduğu kayıttır.\n Bu kayıt; yevmiye numarası, tarihi, cezaevi yapı harcının günlük ve genel toplamı, dosya esas sıra numarası, ilgilinin adı ve soyadı sütunlarını içerir.\n Cezaevi yapı harcı olarak tahsil edilen paralar, en geç ertesi günü mesai saati sonuna kadar 93 üncü madde uyarınca Adalet Bakanlığınca uygun görülen bankalardaki hesaplara yatırılır.",
+      "preview": "(Başlığıyla birlikte değişik:RG-16/4/2013-28620) Cezaevi yapı harcı kaydı; icra ve iflâs dairesi tarafından tahsil edilen cezaevi yapı harcı…",
+      "kitap": null,
+      "kisim": null,
+      "bolum": null,
+      "ayirim": null,
+      "maddeBaslik": "Cezaevi yapı harcı kaydı",
+      "sectionPath": [
+        "Cezaevi yapı harcı kaydı"
+      ]
+    },
+    {
+      "id": "yonetmelik:8043:m:8",
+      "maddeKind": "madde",
+      "maddeNo": "8",
+      "heading": "Madde 8",
+      "text": "(Başlığıyla birlikte değişik:RG-16/4/2013-28620)\n Kıymetli evrak ve değerli şeylerin kaydı; icra ve iflâs dairesince alınan yabancı para, kıymetli evrak ve altın, gümüş gibi değerli şeylerin işlendiği kayıttır. Kıymetli evrak, yabancı para ve altın, gümüş gibi değerli şeylerin alındığına ilişkin 38 inci maddedeki örneğine uygun makbuz düzenlenir. Bu kayıt; sıra numarası, dosya esas sıra numarası, verilen makbuzun tarih ve numarası, kıymetli evrakın ve değerli şeyin cinsi ve niteliği, sahibinin adı ve soyadı, değerli şeyin takdir edilen kıymeti, satılmış veya paraya çevrilmişse bedeli, kasa kaydındaki tahsilât tarihi ve numarası, aynen iade olunmuşsa iade tarihi, iade alanın adı, soyadı ve imzası, nerede saklandığı ve düşünceler sütunlarını içerir.\n İcra ve İflâs Kanununun 88 inci maddesinin birinci fıkrası uyarınca icra dairesinde muhafazası gereken haczedilen kıymetli evrak ve değerli şeylerin de kaydedilmesi zorunludur.",
+      "preview": "(Başlığıyla birlikte değişik:RG-16/4/2013-28620) Kıymetli evrak ve değerli şeylerin kaydı; icra ve iflâs dairesince alınan yabancı para, kıy…",
+      "kitap": null,
+      "kisim": null,
+      "bolum": null,
+      "ayirim": null,
+      "maddeBaslik": "Kıymetli evrak ve değerli şeylerin kaydı",
+      "sectionPath": [
+        "Kıymetli evrak ve değerli şeylerin kaydı"
+      ]
+    },
+    {
+      "id": "yonetmelik:8043:m:9",
+      "maddeKind": "madde",
+      "maddeNo": "9",
+      "heading": "Madde 9",
+      "text": "(Başlığıyla birlikte değişik:RG-16/4/2013-28620)\n Posta mutemet kaydı; icra ve iflâs dairesi adına, posta ile veya kasa emanet hesabının bulunduğu banka haricindeki bankalara yapılan havale yolu ile gelen paraya ilişkin bilgilerin tutulduğu kayıttır.\n Bu kayıt; havale çıkış yeri, numarası, tarihi, değeri, miktarı, gönderenin adı ve soyadı, dosya numarası, posta memurunun adı ve soyadı, kasa tarihi ve numarası, tahsilât makbuzunun tarih ve numarası sütunlarını içerir.\n Elektronik ortamda tutulan kaydın çıktısı alınır, ilgili sütun imzalatıldıktan sonra ayrı bir kartonda saklanır.\n Posta mutemet kaydına kaydedilerek alınan para için, aynı gün tahsilât makbuzu kesilir ve ilgili sütuna tahsilât makbuzunun tarih ve numarası işlenir.\n Cumhuriyet savcıları, posta merkezinden havale almaya yetkili mutemetlerin adı, soyadı ve memuriyetleri ile uygulamaya elverişli imzalarını, bu kişilerden başkasına ödeme ve teslimat yapılmamasını o yer Posta ve Telgraf Teşkilatı Müdürlüklerine bir yazı ile bildirirler.",
+      "preview": "(Başlığıyla birlikte değişik:RG-16/4/2013-28620) Posta mutemet kaydı; icra ve iflâs dairesi adına, posta ile veya kasa emanet hesabının bulu…",
+      "kitap": null,
+      "kisim": null,
+      "bolum": null,
+      "ayirim": null,
+      "maddeBaslik": "Posta mutemet kaydı",
+      "sectionPath": [
+        "Posta mutemet kaydı"
+      ]
+    },
+    {
+      "id": "yonetmelik:8043:m:10",
+      "maddeKind": "madde",
+      "maddeNo": "10",
+      "heading": "Madde 10",
+      "text": "(Başlığıyla birlikte değişik:RG-16/4/2013-28620)\n Muhabere kaydı; icra ve iflâs dairesinden yazılan veya icra ve iflâs dairesine gelen ve yukarıdaki maddelerde düzenlenen kayıtlara işlenmesi gerekenler dışında gelen ve giden evrak ile başka yer icra ve iflâs dairelerine gönderilmek üzere verilen dilekçelere ilişkin bilgilerin tutulduğu kayıttır.\n Bu kayıt; sıra numarası, evrakın tarih ve numarası, gönderilen veya gönderen daire, geliş veya gönderilme tarihi, evrakın özeti ve düşünceler sütunlarını içerir.\n Bir takip dolayısıyla çeşitli mercilere gönderilen yazılarla, onlara verilen cevaplar ve icra talimat kaydına kayıtlı işlere ait yazışmalar ayrıca muhabere kaydına işlenmez.",
+      "preview": "(Başlığıyla birlikte değişik:RG-16/4/2013-28620) Muhabere kaydı; icra ve iflâs dairesinden yazılan veya icra ve iflâs dairesine gelen ve yuk…",
+      "kitap": null,
+      "kisim": null,
+      "bolum": null,
+      "ayirim": null,
+      "maddeBaslik": "Muhabere kaydı",
+      "sectionPath": [
+        "Muhabere kaydı"
+      ]
+    },
+    {
+      "id": "yonetmelik:8043:m:11",
+      "maddeKind": "madde",
+      "maddeNo": "11",
+      "heading": "Madde 11",
+      "text": "(Başlığıyla birlikte değişik:RG-16/4/2013-28620)\n Zimmet kaydı; icra ve iflâs dairesinden çeşitli mercilere gönderilen evrakın işlendiği kayıttır.\n Bu kayıt; sıra ve evrak numarası, gönderildiği yer, alındığı tarih, evrakı alanın adı ve soyadı ve evrakı alanın imzası sütunlarını içerir.\n Elektronik ortamda tutulan kaydın çıktısı alınır, ilgili sütün imzalatıldıktan sonra ayrı bir kartonda saklanır.",
+      "preview": "(Başlığıyla birlikte değişik:RG-16/4/2013-28620) Zimmet kaydı; icra ve iflâs dairesinden çeşitli mercilere gönderilen evrakın işlendiği kayı…",
+      "kitap": null,
+      "kisim": null,
+      "bolum": null,
+      "ayirim": null,
+      "maddeBaslik": "Zimmet kaydı",
+      "sectionPath": [
+        "Zimmet kaydı"
+      ]
+    },
+    {
+      "id": "yonetmelik:8043:m:12",
+      "maddeKind": "madde",
+      "maddeNo": "12",
+      "heading": "Madde 12",
+      "text": "(Başlığıyla birlikte değişik:RG-16/4/2013-28620)\n Disiplin soruşturması kaydı; icra ve iflâs daireleri görevlileri hakkında yürütülen disiplin soruşturması ile ilgili tutulan kayıttır.\n Bu kayıtta; sıra numarası, müşteki veya varsa kanuni temsilcisinin veya vekilinin adı, soyadı, adresi, başvurma tarihi, hakkında şikâyette bulunulanın adı, soyadı, unvan ve sicil numarası, karar tarih ve numarası yer alır.\n\n Haciz takip kaydı\n MADDE 12/A – (Ek:RG-27/06/2007-26565) (Başlığıyla birlikte değişik:RG-16/4/2013-28620)\n Haciz takip kaydı; haciz talebine istinaden haciz, teslim ve satış harcının yatırıldığı tarihlere göre işlendiği kayıttır.\n Bu kayıtta; sıra numarası, dosya numarası, alacaklının, varsa kanuni temsilcisinin veya vekilinin adı, soyadı, sayman mutemedi alındı makbuzu yevmiye numarası, tarihi, sütunları yer alır.\n\n ÜÇÜNCÜ BÖLÜM\n (Değişik ibare:RG-16/4/2013-28620) Kayıtlara İlişkin Ortak Hükümler",
+      "preview": "(Başlığıyla birlikte değişik:RG-16/4/2013-28620) Disiplin soruşturması kaydı; icra ve iflâs daireleri görevlileri hakkında yürütülen disipli…",
+      "kitap": null,
+      "kisim": null,
+      "bolum": null,
+      "ayirim": null,
+      "maddeBaslik": "Disiplin soruşturması kaydı",
+      "sectionPath": [
+        "Disiplin soruşturması kaydı"
+      ]
+    },
+    {
+      "id": "yonetmelik:8043:m:13",
+      "maddeKind": "madde",
+      "maddeNo": "13",
+      "heading": "Madde 13",
+      "text": "(Mülga:RG-16/4/2013-28620)",
+      "preview": "(Mülga:RG-16/4/2013-28620)",
+      "kitap": null,
+      "kisim": null,
+      "bolum": null,
+      "ayirim": null,
+      "maddeBaslik": "Defterlerin numaralanması ve onaylanması",
+      "sectionPath": [
+        "Defterlerin numaralanması ve onaylanması"
+      ]
+    },
+    {
+      "id": "yonetmelik:8043:m:14",
+      "maddeKind": "madde",
+      "maddeNo": "14",
+      "heading": "Madde 14",
+      "text": "(Başlığıyla birlikte değişik:RG-16/4/2013-28620)\n Takip ve diğer işler belirli kriterlere göre dairelere tevzi edilir. Birden fazla icra ve iflâs dairesi olan yerlerde, her daireye eşit ağırlıkta iş gönderilmesi sağlanır. Tevzi kriterleri Adalet Bakanlığı tarafından belirlenir.",
+      "preview": "(Başlığıyla birlikte değişik:RG-16/4/2013-28620) Takip ve diğer işler belirli kriterlere göre dairelere tevzi edilir. Birden fazla icra ve i…",
+      "kitap": null,
+      "kisim": null,
+      "bolum": null,
+      "ayirim": null,
+      "maddeBaslik": "Tevzi işlemleri",
+      "sectionPath": [
+        "Tevzi işlemleri"
+      ]
+    },
+    {
+      "id": "yonetmelik:8043:m:15",
+      "maddeKind": "madde",
+      "maddeNo": "15",
+      "heading": "Madde 15",
+      "text": "(Başlığıyla birlikte değişik:RG-16/4/2013-28620)\n Bu Yönetmelikte düzenlenen kayıtlara, gerek görüldüğünde Adalet Bakanlığı tarafından yeni kayıtlar veya mevcut kayıtlara yeni sütunlar eklenebilir.\n Bu kayıtlardaki verilerin bir veya birkaçı bir arada sorgulanıp raporlanabilir.",
+      "preview": "(Başlığıyla birlikte değişik:RG-16/4/2013-28620) Bu Yönetmelikte düzenlenen kayıtlara, gerek görüldüğünde Adalet Bakanlığı tarafından yeni k…",
+      "kitap": null,
+      "kisim": null,
+      "bolum": null,
+      "ayirim": null,
+      "maddeBaslik": "Yeni kayıt eklenmesi ve sorgulama",
+      "sectionPath": [
+        "Yeni kayıt eklenmesi ve sorgulama"
+      ]
+    },
+    {
+      "id": "yonetmelik:8043:m:16",
+      "maddeKind": "madde",
+      "maddeNo": "16",
+      "heading": "Madde 16",
+      "text": "(Başlığıyla birlikte değişik:RG-16/4/2013-28620)\n İcra mahkemeleri, icra ve iflâs dairelerinin iş süreçlerindeki her türlü veri, bilgi ve belge akışı ile dokümantasyon işlemleri, bu işlemlere ilişkin her türlü kayıt, dosyalama, saklama ve arşivleme işlemleri ile uyum ve işbirliği sağlanmış dış birimlerle yapılacak her türlü işlemler UYAP ortamında gerçekleştirilir.\n Hâkim, icra müdürü, icra müdür yardımcısı, icra kâtibi ve diğer personel iş listesini günlük olarak kontrol etmek ve süresinde yerine getirmekle yükümlüdür.\n Mahkemelere ve icra ve iflâs dairelerine fizikî olarak verilen ve gönderilen her türlü evrak, elektronik ortama aktarılarak UYAP’a kaydedilir ve ilgili birime gönderilir.\n (Ek fıkra:RG-3/2/2017-29968) Doğru ve güvenilir adlî istatistikler elde edilebilmesi amacıyla verilerin sisteme doğru, eksiksiz ve zamanında girilmesinden UYAP'a veri girişi yapan personel sorumludur. Bu verilerin usulüne uygun girilmesini temin için icra müdürü de gözetim ve denetimle yükümlüdür.\n Taraf ve vekilleri ile diğer ilgililer, güvenli elektronik imza ile imzalamak suretiyle UYAP vasıtasıyla mahkemeler veya icra ve iflâs dairelerine elektronik ortamda bilgi ve belge gönderebilirler, takip açabilirler.\n İcra iflâs dairelerinde yapılacak sorgulamalarda vekil ile takip edilen dosyalarda, aynı konu hakkında Adalet Bakanlığı tarafından belirlenecek sürelerde sorgulama yapılması talep edilebilir.(1) UYAP Avukat Portal üzerinden ise her zaman sorgulama yapılabilir.\n Gelen evraktan sorumlu personel, UYAP üzerinden mahkeme veya icra ve iflâs dairelerine gönderilen ve iş listesine düşen belgeleri derhal ilgili kişiye ya da doğrudan dosyasına aktarır. Hâkimin veya icra müdürünün onayını gerektiren evrak hâkimin veya icra müdürünün iş listesine yönlendirilir.\n Tutanak, belge ve kararlar elektronik ortamda düzenlenir ve gerekli olanlar ilgilileri tarafından güvenli elektronik imza ile imzalanır. Elektronik ortamda düzenlenen ve güvenli elektronik imza ile imzalanan evrak UYAP kapsamındaki birimlere elektronik ortamda gönderilir. Ayrıca fizikî olarak gönderilmez.\n Teknik nedenlerle fizikî olarak düzenlenen belge veya kararlar, engelin ortadan kalkmasından sonra derhal elektronik ortama aktarılır, yetkili kişilerce güvenli elektronik imza ile imzalanarak UYAP’a kaydedilir ve gerektiğinde UYAP vasıtasıyla ilgili birimlere iletilir. Bu şekilde elektronik ortama aktarılarak ilgili birimlere iletilen belge ve kararların asılları mahallinde saklanır, ayrıca fizikî olarak gönderilmez. Ancak, belge veya kararın aslının incelenmesinin zorunlu olduğu hâller saklıdır. Elektronik ortama aktarılması imkânsız olan belgeler ise fiziki ortamda saklanır ve gerektiğinde fizikî olarak gönderilir.\n UYAP üzerinden hazırlanmış ve güvenli elektronik imza ile imzalanmış evrakın dış birimlere elektronik ortamda gönderilememesi halinde; belge veya kararın fizikî örneği alınır, güvenli elektronik imza ile imzalanmış aslının aynı olduğu belirtilerek altı hâkim, icra müdürü veya görevlendireceği personel tarafından imzalanmak sureti ile gönderilir.\n Taraf veya vekilleri tarafından elektronik ortamda yapılan işlemlerde süre gün sonunda biter. Elektronik ortamda yapılacak işlemlerin, ertesi güne sarkmaması açısından saat 00:00'a kadar tamamlanması zorunludur.\n Fizikî ortamda yapılan işlemlerde süre mesai saati sonunda biter.",
+      "preview": "(Başlığıyla birlikte değişik:RG-16/4/2013-28620) İcra mahkemeleri, icra ve iflâs dairelerinin iş süreçlerindeki her türlü veri, bilgi ve bel…",
+      "kitap": null,
+      "kisim": null,
+      "bolum": "DÖRDÜNCÜ BÖLÜM · Dosyalar",
+      "ayirim": null,
+      "maddeBaslik": "UYAP’ın kullanılması",
+      "sectionPath": [
+        "DÖRDÜNCÜ BÖLÜM · Dosyalar",
+        "UYAP’ın kullanılması"
+      ]
+    },
+    {
+      "id": "yonetmelik:8043:m:17",
+      "maddeKind": "madde",
+      "maddeNo": "17",
+      "heading": "Madde 17",
+      "text": "Herhangi bir sebeple takip dosyası bir başka makam veya mercie gönderildiğinde bu dosya yerine geçmek üzere geçici bir dosya düzenlenir.\n Geçici dosyaya asıl takip dosyasındaki tüm evrakın okunaklı ve icra ve iflâs müdürü tarafından onaylı bir örneği konulur.",
+      "preview": "Herhangi bir sebeple takip dosyası bir başka makam veya mercie gönderildiğinde bu dosya yerine geçmek üzere geçici bir dosya düzenlenir. Geç…",
+      "kitap": null,
+      "kisim": null,
+      "bolum": "DÖRDÜNCÜ BÖLÜM · Dosyalar",
+      "ayirim": null,
+      "maddeBaslik": "Geçici dosya",
+      "sectionPath": [
+        "DÖRDÜNCÜ BÖLÜM · Dosyalar",
+        "Geçici dosya"
+      ]
+    },
+    {
+      "id": "yonetmelik:8043:m:18",
+      "maddeKind": "madde",
+      "maddeNo": "18",
+      "heading": "Madde 18",
+      "text": "Bu Yönetmelik hükümleri uyarınca icra ve iflâs dairelerinde aşağıda yazılı kartonlar bulundurulur:\n a) Faizlerin çekilip maliyeye yatırıldığına ilişkin makbuz kartonu,\n b) Zamanaşımına uğrayan paraların maliyeye teslim edildiğine ilişkin makbuz kartonu,\n c) Disiplin soruşturması sonucunda verilen kararlara ilişkin karton,\n d) Adalet müfettişlerince yapılan denetimlere ilişkin tavsiyeler kartonu,\n e) Cumhuriyet savcılığı teftiş kartonu,\n f) İhtiyaç duyulan diğer kartonlar.",
+      "preview": "Bu Yönetmelik hükümleri uyarınca icra ve iflâs dairelerinde aşağıda yazılı kartonlar bulundurulur: a) Faizlerin çekilip maliyeye yatırıldığı…",
+      "kitap": null,
+      "kisim": null,
+      "bolum": "BEŞİNCİ BÖLÜM · Kartonlar",
+      "ayirim": null,
+      "maddeBaslik": "Kartonlar",
+      "sectionPath": [
+        "BEŞİNCİ BÖLÜM · Kartonlar",
+        "Kartonlar"
+      ]
+    },
+    {
+      "id": "yonetmelik:8043:m:19",
+      "maddeKind": "madde",
+      "maddeNo": "19",
+      "heading": "Madde 19",
+      "text": "İcra ve iflâs işleri için aşağıda gösterilen basılı kâğıtların kullanılması zorunludur:\n a) İcra tutanağı ve takip talebi, (Örnek No.1)\n b) Taşınır teslimine veya taşınmaz tahliye ve teslimine ilişkin icra emri, (Örnek No.2)\n c) Çocuk teslimi veya çocukla kişisel ilişki kurulmasına ilişkin icra emri, (Örnek No.3)\n d) Bir işin yapılmasına veya yapılmamasına, bir irtifak hakkının kaldırılmasına veya gemi üzerindeki intifa hakkının kaldırılmasına veya yükletilmesine ilişkin ilâmların yerine getirilmesinde icra emri, (Örnek No.4)\n e) Para borcuna veya teminat verilmesine ilişkin ilâm veya ilâm niteliğindeki belgelere dayanan takiplerde icra emri, (Örnek No.5)\n f) İpoteğin paraya çevrilmesi yolu ile takipte icra emri, (Örnek No.6)\n g) İlâmsız takipte ödeme emri, (Örnek No.7)\n h) Taşınır rehninin paraya çevrilmesi yolu ile takipte ödeme emri, (Örnek No.8)\n ı) İpoteğin paraya çevrilmesi yolu ile takipte ödeme emri, (Örnek No.9)\n j) Kambiyo senetlerine (çek, poliçe ve emre muharrer senet) özgü haciz yolu ile takipte ödeme emri, (Örnek No.10)\n k) İflâs yolu ile adî takipte ödeme emri, (Örnek No.11)\n l) Kambiyo senetlerine (çek, poliçe ve emre muharrer senet) özgü iflâs yolu ile takipte ödeme emri, (Örnek No.12)\n m) Adî kira ve hasılat kiralarına ait takipte ödeme emri, (Örnek No.13)\n n) Yazılı sözleşme ile kiralanan taşınmazın kira süresinin bitmesi durumunda tahliye emri, (Örnek No.14)\n o) Taşınır rehninin paraya çevrilmesinde borçlunun mal beyanında bulunmasına davet kâğıdı, (Örnek No.15)\n p) Kıymetli evrak ve değerli şeylerin alındı makbuzu, (m.38) (Örnek No.16)\n r) Takip talebinde bulunulduğuna, verilen belgelere ve ödenen giderlere ilişkin verilecek makbuz (Örnek No.17)\n s) İtiraz belgesi, (Örnek No.18)\n t) Haciz tutanağı, (Örnek No.19)\n u) Birinci haciz ihbarnamesi, (Örnek No.20)\n v) İkinci haciz ihbarnamesi, (Örnek No.21)\n y) Üçüncü haciz ihbarnamesi, (Bildirim) (Örnek No.21a)\n z) Davet kâğıdı, (Örnek No.22)\n aa) İstihkak iddiasının bildirilmesine ilişkin belge, (Örnek No.23)\n bb) (Mülga:RG-8/3/2022-31772)\n cc) (Mülga:RG-8/3/2022-31772)\n dd) (Mülga:RG-8/3/2022-31772)\n ee) (Mülga:RG-8/3/2022-31772)\n ff) Borç ödemeden aciz vesikası, (Örnek No.28)\n gg) İlâmın icrası belgesi, (Örnek No.29)\n hh) Muvakkat rehin açığı belgesi, (Örnek No.30)\n ıı) Rehin açığı belgesi, (Örnek No.31)\n jj) İflâsın açılmasına, kapanmasına, kaldırılmasına ilişkin ilân, (Örnek No.32)\n kk) Tasfiyenin tatili ilânı, (Örnek No.33)\n ll) Basit tasfiyede alacaklıları davet ilânı, (Örnek No.34)\n mm) Adî tasfiye ve iflasın açılmasının ilânı, (Örnek No.35)\n nn) İcra ve İflâs Kanununun 206 ve 207. maddeleri gereğince düzenlenen sıra cetveli, (Örnek No.36)\n oo) Sıra cetvelinin ve ikinci alacaklar toplantısının ilânı, (Örnek No.37)\n pp) Tahsilât makbuzu, (Örnek No.38)\n rr) Reddiyat makbuzu, (Örnek No.39)\n ss) Harç tahsil müzekkeresi, (Örnek No.40)\n tt) Tebliğ mazbatalı zarf, (Örnek No.41)\n uu) Telgrafla tebliğ zarfı, (Örnek No.42)\n vv) Postaya verilen taahhütlü maddelerle telgraflara ait tevdi listesi, (Örnek No.43)\n yy) Taşınır rehninin paraya çevrilmesi yolu ile ilâmlı takipte icra emri. (Örnek No.44)",
+      "preview": "İcra ve iflâs işleri için aşağıda gösterilen basılı kâğıtların kullanılması zorunludur: a) İcra tutanağı ve takip talebi, (Örnek No.1) b) Ta…",
+      "kitap": null,
+      "kisim": null,
+      "bolum": "ALTINCI BÖLÜM · Basılı Kâğıtlar",
+      "ayirim": null,
+      "maddeBaslik": "Kullanılması zorunlu olan basılı kâğıtlar",
+      "sectionPath": [
+        "ALTINCI BÖLÜM · Basılı Kâğıtlar",
+        "Kullanılması zorunlu olan basılı kâğıtlar"
+      ]
+    },
+    {
+      "id": "yonetmelik:8043:m:20",
+      "maddeKind": "madde",
+      "maddeNo": "20",
+      "heading": "Madde 20",
+      "text": "İlâmların ve ilâm niteliğindeki belgelerin icrasına ilişkin işlemler, icra tutanağına tarih sırası ile düzenli olarak geçirilir.\n Bu tutanağın ilk sayfası takip talebini içerir. Bu sayfaya ilâmın veya belgenin tarih ve numarası; hangi mahkeme veya makamdan verildiği; alacaklının ve varsa kanuni temsilcisinin ve vekilinin adı, soyadı; yerleşim yerindeki adresi, vergi kimlik numarası; (Değişik:RG-16/4/2013-28620) , ödemenin yapılacağı banka adı ve hesap bilgisi borçlu ve varsa kanuni temsilcisinin adı, soyadı; alacaklı tarafından biliniyorsa vergi kimlik numarası ve yerleşim yerindeki adresi; alacaklı yabancı ülkede oturuyorsa Türkiye'de göstereceği yerleşim yerindeki adresi (yerleşim yeri göstermezse icra dairesinin bulunduğu yer yerleşim yeri sayılır) ve hükmün veya belgenin özeti; bir terekeye karşı açılan takiplerde kendilerine tebligat yapılacak olan mirasçıların adı ve soyadı; yerleşim yerindeki adresleri; alacağın veya talep olunan teminatın cins ve Türk parası ile tutarı, faizli alacaklarda faizin miktarı ile işlemeye başladığı gün; alacak veya teminat yabancı para ise alacağın hangi tarihteki kur üzerinden talep edildiği ve faizi; alacaklının takip yollarından hangisini seçtiği geçirilir.\n İlâmsız takibe ilişkin bütün işlemler, icra tutanağına tarih sırası ile kaydedilir. Bu tutanağın ilk sayfasını teşkil eden takip talebinde birinci fıkrada yazılı hususlara ek olarak, talep senede dayanıyorsa senedin tarih ve özeti ve senet yoksa borcun sebebi de gösterilir.",
+      "preview": "İlâmların ve ilâm niteliğindeki belgelerin icrasına ilişkin işlemler, icra tutanağına tarih sırası ile düzenli olarak geçirilir. Bu tutanağı…",
+      "kitap": null,
+      "kisim": null,
+      "bolum": "YEDİNCİ BÖLÜM · Basılı Kâğıtların Düzenlenme Amacı ve Kullanma Biçimi",
+      "ayirim": null,
+      "maddeBaslik": "İcra tutanağı ve takip talebi",
+      "sectionPath": [
+        "YEDİNCİ BÖLÜM · Basılı Kâğıtların Düzenlenme Amacı ve Kullanma Biçimi",
+        "İcra tutanağı ve takip talebi"
+      ]
+    },
+    {
+      "id": "yonetmelik:8043:m:21",
+      "maddeKind": "madde",
+      "maddeNo": "21",
+      "heading": "Madde 21",
+      "text": "Takip talebine eklenecek belgeler ve bildirilecek hususlar aşağıda gösterilmiştir.\n a) Takip talebi, bir belgeye veya senede dayanmakta ise belgenin veya senedin alacaklı veya kanuni temsilcisi tarafından onaylanmış, borçlu sayısından bir fazla örneği.\n b) Takip talebi, taşınır rehninin paraya çevrilmesi yolu ile yapılmakta ise, alacaklı 20 nci maddede yazılı hususlardan başka, rehnedilen şeyin ne olduğu ve rehin üçüncü kişi tarafından verilmiş veya rehnedilen şeyin mülkiyeti üçüncü kişiye geçmiş ise onun ve rehnedilen şey üzerinde, sonra gelen rehin hakkı varsa bu hakka sahip olan kişinin adı, soyadı ve yerleşim yerindeki adresi.\n c) Kambiyo senetlerine (çek, poliçe ve emre muharrer senet) dayalı takip talebinde kambiyo senedinin aslı ve borçlu adedi kadar, alacaklı tarafından onaylı örneği, kısmî ödeme yapılmış olması halinde (Değişik ibare:RG-16/4/2013-28620) 14/12/2009 tarihli ve 5941 sayılı Çek Kanunu gereğince çekin ön ve arka yüzünün bankaca onaylı fotokopisi.\n d) İcra ve İflas Kanununun 272 nci maddesi gereğince tahliye istendiğinde, kira sözleşmesinin veya kiracının, kira süresinin bitiminden önce kiralananı tahliye edeceğine ilişkin yazılı taahhüdü varsa bu taahhütnamenin aslı veya kendisi tarafından onaylanmış iki örneği.\n e) İpoteğin paraya çevrilmesi yolu ile yapılan takipte ipotek akit tablosunun tapu sicil müdürlüğünce verilmiş bir örneği ve ipotek, bir cari hesap veya işleyecek kredi vesaire gibi bir sözleşmenin teminatı olarak verilmişse, bu sözleşme ve bununla ilgili diğer belge ve makbuzların aslı veya borçlu adedinden bir fazla onaylı örneği.\n Kambiyo senetlerine dayanan takip talebinde, 20 nci maddede yazılı hususlardan başka, alacaklı iflâsa tâbi borçlusu aleyhine haciz ve iflâs yollarından hangisini istediğini, takip talebinde belirtmek zorundadır.\n (Ek fıkra:RG-16/4/2013-28620) Takibin elektronik ortamda açılması durumunda, takibe eklenecek belgeler elektronik ortama aktarılarak güvenli elektronik imza ile imzalanır. Birinci fıkranın (c) bendinde belirtilen kambiyo senetleri elektronik ortamda takip talebine eklense de, en geç 3 gün içinde belgenin aslının ilgili daireye ibraz edilmesi zorunludur. Aksi takdirde ödeme emri düzenlenmez.",
+      "preview": "Takip talebine eklenecek belgeler ve bildirilecek hususlar aşağıda gösterilmiştir. a) Takip talebi, bir belgeye veya senede dayanmakta ise b…",
+      "kitap": null,
+      "kisim": null,
+      "bolum": "YEDİNCİ BÖLÜM · Basılı Kâğıtların Düzenlenme Amacı ve Kullanma Biçimi",
+      "ayirim": null,
+      "maddeBaslik": "İbraz edilecek belgeler, ayrıca bildirilecek hususlar",
+      "sectionPath": [
+        "YEDİNCİ BÖLÜM · Basılı Kâğıtların Düzenlenme Amacı ve Kullanma Biçimi",
+        "İbraz edilecek belgeler, ayrıca bildirilecek hususlar"
+      ]
+    },
+    {
+      "id": "yonetmelik:8043:m:22",
+      "maddeKind": "madde",
+      "maddeNo": "22",
+      "heading": "Madde 22",
+      "text": "(Değişik:RG-16/4/2013-28620)\n İcra tutanağına birbirini takip eden sayfa numaraları verilmesi ve gerekirse tutanağın sonuna eklenecek sayfalarla birlikte 16 ncı maddede gösterilen dosya içine konulması zorunludur.\n Yazılı veya sözlü olarak yapılan talepler, itirazlar ve her türlü bildirim, süresinde ait olduğu tutanağa geçirilir ve altı tarih belirtilerek, ilgilisi ve icra müdürü veya yardımcısı veya kâtibi tarafından imzalanmak suretiyle dosyasına takılır. Elektronik ortamda gelen talepler, itirazlar ve her türlü bildirim ise UYAP’ta kayıtlı dosyasına aktarılır.\n Reddedilen paralar ve bu paralardan yapılan kanunî kesinti miktarı tablo halinde tutanakta gösterilir.",
+      "preview": "(Değişik:RG-16/4/2013-28620) İcra tutanağına birbirini takip eden sayfa numaraları verilmesi ve gerekirse tutanağın sonuna eklenecek sayfala…",
+      "kitap": null,
+      "kisim": null,
+      "bolum": "YEDİNCİ BÖLÜM · Basılı Kâğıtların Düzenlenme Amacı ve Kullanma Biçimi",
+      "ayirim": null,
+      "maddeBaslik": "İcra tutanağının teselsülü",
+      "sectionPath": [
+        "YEDİNCİ BÖLÜM · Basılı Kâğıtların Düzenlenme Amacı ve Kullanma Biçimi",
+        "İcra tutanağının teselsülü"
+      ]
+    },
+    {
+      "id": "yonetmelik:8043:m:23",
+      "maddeKind": "madde",
+      "maddeNo": "23",
+      "heading": "Madde 23",
+      "text": "İcra emrine;\n a) 20 nci maddenin ikinci fıkrasındaki kayıtlar,\n b) Yedi gün içinde taşınmazı tahliye veya taşınırı teslim etmesi,\n c) 26 ncı maddenin birinci fıkrasının (c) bendindeki kayda ek olarak, İcra ve İflas Kanununun 24 ve 26 ncı maddeleri gereğince, ilâm hükmünün zorla yerine getirileceği,\n d) Teslimi emredilen mal yedinde bulunmazsa, ilâmda yazılı değerinin; taşınır malın değeri ilâmda yazılı olmadığı halde veya ihtilaf halinde, icra müdürü tarafından haczin yapıldığı tarihteki rayice göre takdir olunan değerin alınacağı; bu değer de ödenmediği takdirde ayrıca icra emri tebliğine gerek kalmaksızın haciz yolu ile icra olunacağı ihtarı,\n yazılır.",
+      "preview": "İcra emrine; a) 20 nci maddenin ikinci fıkrasındaki kayıtlar, b) Yedi gün içinde taşınmazı tahliye veya taşınırı teslim etmesi, c) 26 ncı ma…",
+      "kitap": null,
+      "kisim": null,
+      "bolum": "YEDİNCİ BÖLÜM · Basılı Kâğıtların Düzenlenme Amacı ve Kullanma Biçimi",
+      "ayirim": null,
+      "maddeBaslik": "Taşınır teslimine veya taşınmaz tahliye ve teslimine ilişkin icra emri",
+      "sectionPath": [
+        "YEDİNCİ BÖLÜM · Basılı Kâğıtların Düzenlenme Amacı ve Kullanma Biçimi",
+        "Taşınır teslimine veya taşınmaz tahliye ve teslimine ilişkin icra emri"
+      ]
+    },
+    {
+      "id": "yonetmelik:8043:m:24",
+      "maddeKind": "madde",
+      "maddeNo": "24",
+      "heading": "Madde 24",
+      "text": "İcra emrine;\n a) 20 nci maddenin ikinci fıkrasındaki kayıtlar,\n b) Çocuğun yedi gün içinde teslim edilmesi,\n c) (b) bendindeki süre içinde çocuk teslim edilmediği takdirde İcra ve İflas Kanununun 341 inci maddesi uyarınca cezalandırılacağı ve ilâmın 25 inci maddeye göre zorla yerine getirileceği ihtarı,\n d) Çocukla kişisel ilişki kurulmasına ilişkin takipte ise, lehine hüküm verilen taraf ile çocuğun ilâm hükümleri çerçevesinde kişisel ilişki kurulmasına engel olunmaması; aksi halin İcra ve İflas Kanununun 341 inci maddesindeki cezayı gerektireceği ve ilâmın İcra ve İflas Kanununun 25/a maddesine göre zorla yerine getirileceği ihtarı da,\n yazılır.\n\n Bir işin yapılmasına veya yapılmamasına, bir irtifak hakkının veya gemi üzerindeki intifa hakkının kaldırılmasına veya yükletilmesine ilişkin ilâmların yerine getirilmesinde icra emri",
+      "preview": "İcra emrine; a) 20 nci maddenin ikinci fıkrasındaki kayıtlar, b) Çocuğun yedi gün içinde teslim edilmesi, c) (b) bendindeki süre içinde çocu…",
+      "kitap": null,
+      "kisim": null,
+      "bolum": "YEDİNCİ BÖLÜM · Basılı Kâğıtların Düzenlenme Amacı ve Kullanma Biçimi",
+      "ayirim": null,
+      "maddeBaslik": "Çocuk teslimi veya çocukla kişisel ilişki kurulmasına ilişkin icra emri",
+      "sectionPath": [
+        "YEDİNCİ BÖLÜM · Basılı Kâğıtların Düzenlenme Amacı ve Kullanma Biçimi",
+        "Çocuk teslimi veya çocukla kişisel ilişki kurulmasına ilişkin icra emri"
+      ]
+    },
+    {
+      "id": "yonetmelik:8043:m:25",
+      "maddeKind": "madde",
+      "maddeNo": "25",
+      "heading": "Madde 25",
+      "text": "İcra emrine;\n a) 20 nci maddenin ikinci fıkrasındaki kayıtlar,\n b) Yapılacak veya yapılmayacak işin, kaldırılacak veya yükletilecek irtifak hakkının ve gemi üzerindeki irtifak hakkının veya gemi üzerindeki intifa hakkının neden ibaret olduğu,\n c) Yapılacak işin ilâmda gösterilen veya ilâmda tayin edilmemişse icra müdürünce belirtilen süre içinde yapılması; aksi halde İcra ve İflas Kanununun 30 uncu maddesi gereğince zorla yerine getirileceği,\n d) Yalnız borçlu tarafından yapılacak bir iş ise, ilâmda gösterilen veya ilâmda tayin edilmemişse icra müdürünce belirtilen süre içinde işin yapılmaması halinin İcra ve İflas Kanununun 343 üncü maddesindeki cezayı gerektireceği,\n e) İlâm bir işin yapılmamasına ilişkin ise, ilâmda gösterilen veya ilâmda tayin edilmemişse icra müdürünce belirtilen süre içinde, ilâm hükmüne uyulması; aksi halin İcra ve İflas Kanununun 343 üncü maddesindeki cezayı gerektireceği,\n f) Bir işin yapılmasına veya yapılmamasına ilişkin olan ilâm hükmü yerine getirildikten sonra, borçlu ilâm hükmünü ortadan kaldıracak bir eylemde bulunursa, mahkemeden ayrıca hüküm almaya gerek kalmadan, önceki ilâm hükmünün tekrar zorla yerine getirileceği,\n g) İlâm, bir irtifak hakkının veya gemi üzerindeki intifa hakkının kaldırılmasına veya yükletilmesine ilişkin ise, yedi gün içinde ilâm hükmünün yerine getirilmesi, aksi halde ilâm hükmünün zorla icra olunacağı; ilâm hükmüne muhalefetin ayrıca İcra ve İflas Kanununun 343 üncü maddesindeki cezayı gerektireceği,\n yazılır.\n\n Para borcuna veya teminat verilmesine ilişkin ilâm veya ilâm niteliğindeki belgelere dayanan takiplerde icra emri",
+      "preview": "İcra emrine; a) 20 nci maddenin ikinci fıkrasındaki kayıtlar, b) Yapılacak veya yapılmayacak işin, kaldırılacak veya yükletilecek irtifak ha…",
+      "kitap": null,
+      "kisim": null,
+      "bolum": "YEDİNCİ BÖLÜM · Basılı Kâğıtların Düzenlenme Amacı ve Kullanma Biçimi",
+      "ayirim": null,
+      "maddeBaslik": "Çocuk teslimi veya çocukla kişisel ilişki kurulmasına ilişkin icra emri",
+      "sectionPath": [
+        "YEDİNCİ BÖLÜM · Basılı Kâğıtların Düzenlenme Amacı ve Kullanma Biçimi",
+        "Çocuk teslimi veya çocukla kişisel ilişki kurulmasına ilişkin icra emri"
+      ]
+    },
+    {
+      "id": "yonetmelik:8043:m:26",
+      "maddeKind": "madde",
+      "maddeNo": "26",
+      "heading": "Madde 26",
+      "text": "İcra emrine;\n a) 20 nci maddenin ikinci fıkrasındaki kayıtlar,\n b) (Değişik:RG-17/4/2013-28621) Borcun yedi gün içinde icra emrini gönderen icra dairesine ait banka hesabına yatırılması veya teminatın verilmesi gereği,\n c) (b) bendindeki süre içinde borç ödenmez veya teminat verilmezse icra mahkemesinden, Yargıtay’dan veya yargılanmanın yenilenmesi yolu ile ait olduğu mahkemeden icranın geri bırakılması hakkında bir karar getirilmedikçe cebrî icra yapılacağı,\n d) Yine (b) bendindeki süre içinde mal beyanında bulunulması, bulunulmazsa hapisle tazyik olunacağı veya gerçeğe aykırı beyanda bulunulursa hapisle cezalandırılacağı ihtarı,\n yazılır.",
+      "preview": "İcra emrine; a) 20 nci maddenin ikinci fıkrasındaki kayıtlar, b) (Değişik:RG-17/4/2013-28621) Borcun yedi gün içinde icra emrini gönderen ic…",
+      "kitap": null,
+      "kisim": null,
+      "bolum": "YEDİNCİ BÖLÜM · Basılı Kâğıtların Düzenlenme Amacı ve Kullanma Biçimi",
+      "ayirim": null,
+      "maddeBaslik": "Çocuk teslimi veya çocukla kişisel ilişki kurulmasına ilişkin icra emri",
+      "sectionPath": [
+        "YEDİNCİ BÖLÜM · Basılı Kâğıtların Düzenlenme Amacı ve Kullanma Biçimi",
+        "Çocuk teslimi veya çocukla kişisel ilişki kurulmasına ilişkin icra emri"
+      ]
+    },
+    {
+      "id": "yonetmelik:8043:m:27",
+      "maddeKind": "madde",
+      "maddeNo": "27",
+      "heading": "Madde 27",
+      "text": "İcra emrine;\n a) 20 nci maddenin ikinci fıkrasındaki kayıtlar,\n b) İpotek üçüncü kişi tarafından verilmiş veya ipotekli taşınmazın mülkiyeti üçüncü kişiye geçmişse bu kişinin adı, soyadı ve yerleşim yerindeki adresi,\n c) (Değişik:RG-16/4/2013-28620) Borcun otuz gün içinde icra emrini gönderen icra dairesine ait banka hesabına yatırılması gerektiği,\n d) (c) bendindeki süre içinde borç ödenmez ve icra mahkemesinden icranın geri bırakılmasına ilişkin bir karar getirilmezse, alacaklının taşınmazın satışını isteyebileceği ihtarı,\n yazılır.",
+      "preview": "İcra emrine; a) 20 nci maddenin ikinci fıkrasındaki kayıtlar, b) İpotek üçüncü kişi tarafından verilmiş veya ipotekli taşınmazın mülkiyeti ü…",
+      "kitap": null,
+      "kisim": null,
+      "bolum": "YEDİNCİ BÖLÜM · Basılı Kâğıtların Düzenlenme Amacı ve Kullanma Biçimi",
+      "ayirim": null,
+      "maddeBaslik": "İpoteğin paraya çevrilmesi yolu ile takipte icra emri",
+      "sectionPath": [
+        "YEDİNCİ BÖLÜM · Basılı Kâğıtların Düzenlenme Amacı ve Kullanma Biçimi",
+        "İpoteğin paraya çevrilmesi yolu ile takipte icra emri"
+      ]
+    },
+    {
+      "id": "yonetmelik:8043:m:28",
+      "maddeKind": "madde",
+      "maddeNo": "28",
+      "heading": "Madde 28",
+      "text": "İcra emrine;\n a) 20 nci maddenin ikinci fıkrasındaki kayıtlar,\n b) Rehin üçüncü kişi tarafından verilmiş veya mülkiyeti üçüncü kişiye geçmişse adı, soyadı ve yerleşim yerindeki adresi,\n c) (Değişik:RG-16/4/2013-28620) Borç yedi gün içinde icra emrinde yazılı olan icra dairesine ait banka hesabına yatırılmaz veya icra mahkemesinden veya Yargıtay'dan yahut yargılamanın yenilenmesi yolu ile ait olduğu mahkemeden icranın geri bırakılmasına ilişkin bir karar getirilmezse, alacaklının rehnedilmiş malın satışını isteyebileceği,\n yazılır.",
+      "preview": "İcra emrine; a) 20 nci maddenin ikinci fıkrasındaki kayıtlar, b) Rehin üçüncü kişi tarafından verilmiş veya mülkiyeti üçüncü kişiye geçmişse…",
+      "kitap": null,
+      "kisim": null,
+      "bolum": "YEDİNCİ BÖLÜM · Basılı Kâğıtların Düzenlenme Amacı ve Kullanma Biçimi",
+      "ayirim": null,
+      "maddeBaslik": "Taşınır rehninin paraya çevrilmesi yolu ile ilâmlı takipte icra emri",
+      "sectionPath": [
+        "YEDİNCİ BÖLÜM · Basılı Kâğıtların Düzenlenme Amacı ve Kullanma Biçimi",
+        "Taşınır rehninin paraya çevrilmesi yolu ile ilâmlı takipte icra emri"
+      ]
+    },
+    {
+      "id": "yonetmelik:8043:m:29",
+      "maddeKind": "madde",
+      "maddeNo": "29",
+      "heading": "Madde 29",
+      "text": "Ödeme emrine;\n a) 20 nci maddedeki kayıtlar,\n b) (Değişik:RG-16/4/2013-28620) Borcun ve takip giderlerinin yedi gün içinde ödeme emrini gönderen icra dairesine ait banka hesabına yatırılması, teminat verilmesi yükümlülüğüne ilişkin borçlarda teminatın bu süre içinde gösterilmesi,\n c) Takibin dayandığı senet altındaki imza kendisine ait değilse, (b) bendindeki süre içinde bu durumun ayrıca ve açıkça bildirilmesi; aksi halde icra takibinde bu senedin kendisinden sâdır olmuş sayılacağı; imzayı reddettiği takdirde icra mahkemesi önünde yapılacak duruşmada hazır bulunması; buna uymazsa itirazın geçici kaldırılmasına karar verileceği,\n d) (b) bendindeki süre içinde borcun tamamına veya bir kısmına yahut alacaklının icra takibi yapma hakkına ilişkin bir itirazı varsa bunu da bildirmesi; borcun bir kısmına itiraz eden borçlunun, itiraz ettiği kısmı ve miktarını açıkça göstermesi; aksi takdirde itiraz etmemiş sayılacağı,\n e) Senet veya borca itirazını bildirmediği takdirde, (b) bendindeki süre içinde İcra ve İflas Kanununun 74 üncü maddesine göre mal beyanında bulunması, bulunmazsa hapisle tazyik olunacağı, hiç mal beyanında bulunmaz veya gerçeğe aykırı beyanda bulunursa ayrıca hapisle cezalandırılacağı,\n f) Borçlunun, dava ve takip işlemlerine esas olmak üzere kendisine ait yurt içinde bir adresi itirazla birlikte bildirmek zorunda olduğu; adresini değiştiren borçlunun yurt içinde yeni bir adres bildirmediği ve yeni adresinin de tespit edilemediği durumda, takip talebinde gösterilen adrese çıkarılacak tebligatın kendisine yapılmış sayılacağı,\n g) Borç ödenmez ve itiraz olunmazsa cebrî icraya devam edileceği,\n ihtarları yazılır.\n Ödeme emri iki nüsha olarak düzenlenir. Bir nüshası borçluya gönderilir, diğeri icra dosyasına konulur. Alacaklı isterse, kendisine ayrıca hiç bir vergi veya harç alınmaksızın onaylı bir nüsha verilir.",
+      "preview": "Ödeme emrine; a) 20 nci maddedeki kayıtlar, b) (Değişik:RG-16/4/2013-28620) Borcun ve takip giderlerinin yedi gün içinde ödeme emrini gönder…",
+      "kitap": null,
+      "kisim": null,
+      "bolum": "YEDİNCİ BÖLÜM · Basılı Kâğıtların Düzenlenme Amacı ve Kullanma Biçimi",
+      "ayirim": null,
+      "maddeBaslik": "İlâmsız takipte ödeme emri",
+      "sectionPath": [
+        "YEDİNCİ BÖLÜM · Basılı Kâğıtların Düzenlenme Amacı ve Kullanma Biçimi",
+        "İlâmsız takipte ödeme emri"
+      ]
+    },
+    {
+      "id": "yonetmelik:8043:m:30",
+      "maddeKind": "madde",
+      "maddeNo": "30",
+      "heading": "Madde 30",
+      "text": "Ödeme emrine;\n a) 20 nci maddedeki kayıtlar ile 21 inci maddenin birinci fıkrasının (b) bendindeki hususlar,\n b) Rehin üçüncü kişi tarafından verilmiş veya rehinli malın mülkiyeti üçüncü kişiye geçmiş ise, bu kişinin adı, soyadı ve yerleşim yerindeki adresi,\n c) Ödeme süresinin onbeş gün olduğu,\n d) (Değişik:RG-16/4/2013-28620) Yedi gün içinde itiraz olunmaz ve onbeş gün içinde ödeme emrinde yazılı olan icra dairesine ait banka hesabına borç yatırılmazsa, rehinli malın satılacağı,\n e) Yedi gün içinde rehin hakkına açıkça itiraz edilmezse, alacaklının rehin hakkının bu takipte artık tartışma konusu olamayacağı ihtarı,\n f) Sırf rehin hakkına itiraz edildiği takdirde, alacaklının rehnin paraya çevrilmesi yolu ile takipten vazgeçerek takibin haciz yolu ile devamını isteyebileceği,\n yazılır.",
+      "preview": "Ödeme emrine; a) 20 nci maddedeki kayıtlar ile 21 inci maddenin birinci fıkrasının (b) bendindeki hususlar, b) Rehin üçüncü kişi tarafından…",
+      "kitap": null,
+      "kisim": null,
+      "bolum": "YEDİNCİ BÖLÜM · Basılı Kâğıtların Düzenlenme Amacı ve Kullanma Biçimi",
+      "ayirim": null,
+      "maddeBaslik": "Taşınır rehninin paraya çevrilmesi yolu ile takipte ödeme emri",
+      "sectionPath": [
+        "YEDİNCİ BÖLÜM · Basılı Kâğıtların Düzenlenme Amacı ve Kullanma Biçimi",
+        "Taşınır rehninin paraya çevrilmesi yolu ile takipte ödeme emri"
+      ]
+    },
+    {
+      "id": "yonetmelik:8043:m:31",
+      "maddeKind": "madde",
+      "maddeNo": "31",
+      "heading": "Madde 31",
+      "text": "Ödeme emrine;\n a) 20 nci maddedeki kayıtlar ile 21 inci maddenin birinci fıkrasının (e) bendindeki hususlar,\n b) Ödeme süresinin otuz gün olduğu,\n c) (Değişik:RG-16/4/2013-28620) Yedi gün içinde borca itiraz edilmez ve (b) bendinde yazılı süre içinde borç ödeme emrinde yazılı olan icra dairesine ait banka hesabına yatırılmazsa alacaklının taşınmazın satışını isteyebileceği ihtarı,\n d) İpotek hakkına itiraz edilemeyeceği,\n yazılır.\n\n Kambiyo senetlerine (çek, poliçe ve emre muharrer senet) özgü haciz yolu ile takipte ödeme emri",
+      "preview": "Ödeme emrine; a) 20 nci maddedeki kayıtlar ile 21 inci maddenin birinci fıkrasının (e) bendindeki hususlar, b) Ödeme süresinin otuz gün oldu…",
+      "kitap": null,
+      "kisim": null,
+      "bolum": "YEDİNCİ BÖLÜM · Basılı Kâğıtların Düzenlenme Amacı ve Kullanma Biçimi",
+      "ayirim": null,
+      "maddeBaslik": "İpoteğin paraya çevrilmesi yolu ile takipte ödeme emri",
+      "sectionPath": [
+        "YEDİNCİ BÖLÜM · Basılı Kâğıtların Düzenlenme Amacı ve Kullanma Biçimi",
+        "İpoteğin paraya çevrilmesi yolu ile takipte ödeme emri"
+      ]
+    },
+    {
+      "id": "yonetmelik:8043:m:32",
+      "maddeKind": "madde",
+      "maddeNo": "32",
+      "heading": "Madde 32",
+      "text": "Ödeme emrine;\n a) 20 nci maddedeki kayıtlar,\n b) (Değişik:RG-16/4/2013-28620) Borcun ve takip giderlerinin on gün içinde ödeme emrini gönderen icra dairesine ait banka hesabına yatırılması,\n c) Takibin dayanağı olan senet, kambiyo senedi niteliğini taşımıyorsa, beş gün içinde icra mahkemesine şikâyet edilmesi gereği,\n d) Borçlunun, takip dayanağı kambiyo senedindeki imzanın kendisine ait olmadığı iddiasında ise, bunu beş gün içinde ayrıca ve açıkca bir dilekçe ile icra mahkemesine bildirmesi; aksi takdirde kambiyo senedindeki imzanın İcra ve İflas Kanununun kambiyo senetleri (çek, poliçe ve emre muharrer senet) hakkındaki özel usuller kısmındaki hükümler gereğince yapılacak icra takibinde kendisinden sâdır sayılacağı ve imzasını haksız yere inkâr ederse sözü edilen senede dayanan takip konusu alacağın yüzde onu oranında para cezası ile mahkûm edileceği,\n e) Borçlu olmadığı veya borcun itfa veya imhal edildiği veya alacağın zamanaşımına uğradığı hakkında veya yetki itirazı varsa, bunu sebepleriyle birlikte beş gün içinde icra mahkemesine bir dilekçe ile bildirerek icra mahkemesinden itirazın kabulüne dair bir karar getirmedikçe cebrî icraya devam olunacağı,\n f) İtiraz edilmediği ve borç ödenmediği takdirde on gün içinde İcra ve İflas Kanununun 74 üncü maddesine göre mal beyanında bulunması, bulunmazsa hapisle tazyik edileceği, hiç mal beyanında bulunmaz veya gerçeğe aykırı beyanda bulunursa hapisle cezalandırılacağı ihtarları,\n yazılır.\n 29 uncu maddenin birinci fıkrasının (g) bendi hükmü burada da uygulanır.",
+      "preview": "Ödeme emrine; a) 20 nci maddedeki kayıtlar, b) (Değişik:RG-16/4/2013-28620) Borcun ve takip giderlerinin on gün içinde ödeme emrini gönderen…",
+      "kitap": null,
+      "kisim": null,
+      "bolum": "YEDİNCİ BÖLÜM · Basılı Kâğıtların Düzenlenme Amacı ve Kullanma Biçimi",
+      "ayirim": null,
+      "maddeBaslik": "İpoteğin paraya çevrilmesi yolu ile takipte ödeme emri",
+      "sectionPath": [
+        "YEDİNCİ BÖLÜM · Basılı Kâğıtların Düzenlenme Amacı ve Kullanma Biçimi",
+        "İpoteğin paraya çevrilmesi yolu ile takipte ödeme emri"
+      ]
+    },
+    {
+      "id": "yonetmelik:8043:m:33",
+      "maddeKind": "madde",
+      "maddeNo": "33",
+      "heading": "Madde 33",
+      "text": "Ödeme emrine;\n a) 20 nci maddedeki kayıtlar,\n b) (Değişik:RG-16/4/2013-28620) Borcun ve takip giderlerinin yedi gün içinde ödeme emrini gönderen icra ve iflâs dairesine ait banka hesabına yatırılması,\n c) Bu süre içinde gerek borcu olmadığına ve gerek kendisinin iflâsa tâbi kimselerden bulunmadığına ilişkin itirazı varsa, icra dairesine dilekçe ile bildirmesi gereği ve konkordato teklif edebileceği,\n d) Aynı süre içinde borcu ödemediği takdirde, alacaklının ticaret mahkemesinden iflâs kararı isteyebileceği ihtarı,\n yazılır.\n\n Kambiyo senetlerine (çek, poliçe ve emre muharrer senet) özgü iflâs yolu ile takipte ödeme emri",
+      "preview": "Ödeme emrine; a) 20 nci maddedeki kayıtlar, b) (Değişik:RG-16/4/2013-28620) Borcun ve takip giderlerinin yedi gün içinde ödeme emrini gönder…",
+      "kitap": null,
+      "kisim": null,
+      "bolum": "YEDİNCİ BÖLÜM · Basılı Kâğıtların Düzenlenme Amacı ve Kullanma Biçimi",
+      "ayirim": null,
+      "maddeBaslik": "İflâs yolu ile adî takipte ödeme emri",
+      "sectionPath": [
+        "YEDİNCİ BÖLÜM · Basılı Kâğıtların Düzenlenme Amacı ve Kullanma Biçimi",
+        "İflâs yolu ile adî takipte ödeme emri"
+      ]
+    },
+    {
+      "id": "yonetmelik:8043:m:34",
+      "maddeKind": "madde",
+      "maddeNo": "34",
+      "heading": "Madde 34",
+      "text": "Ödeme emrine;\n a) 20 nci maddedeki kayıtlar,\n b) (Değişik:RG-16/4/2013-28620) Borcun ve takip giderlerinin beş gün içinde ödeme emrini gönderen icra ve iflâs dairesine ait banka hesabına yatırılması,\n c) Kambiyo senedi ve borca ait her türlü itiraz ve şikâyeti sebepleri ile birlikte, diğer tarafa tebliğ edilecek nüshadan bir fazla dilekçe ile beş gün içinde icra dairesine bildirilmesi,\n d) Beş gün içinde borç ödenmediği, itiraz ve şikâyet edilmediği takdirde, alacaklının ticaret mahkemesinden iflâs isteyebileceği; itiraz ve şikâyet edildiği takdirde alacaklının itiraz ve şikâyetin kaldırılmasını ve iflâs kararı verilmesini ticaret mahkemesinden isteyebileceği ihtarı,\n yazılır.",
+      "preview": "Ödeme emrine; a) 20 nci maddedeki kayıtlar, b) (Değişik:RG-16/4/2013-28620) Borcun ve takip giderlerinin beş gün içinde ödeme emrini göndere…",
+      "kitap": null,
+      "kisim": null,
+      "bolum": "YEDİNCİ BÖLÜM · Basılı Kâğıtların Düzenlenme Amacı ve Kullanma Biçimi",
+      "ayirim": null,
+      "maddeBaslik": "İflâs yolu ile adî takipte ödeme emri",
+      "sectionPath": [
+        "YEDİNCİ BÖLÜM · Basılı Kâğıtların Düzenlenme Amacı ve Kullanma Biçimi",
+        "İflâs yolu ile adî takipte ödeme emri"
+      ]
+    },
+    {
+      "id": "yonetmelik:8043:m:35",
+      "maddeKind": "madde",
+      "maddeNo": "35",
+      "heading": "Madde 35",
+      "text": "Ödeme emrine;\n a) 20 nci maddedeki kayıtlar,\n b) Alacaklı ayrıca talep ettiğinde 22/4/1926 tarihli ve 818 sayılı Borçlar Kanununun 260 ve 288 inci maddelerinde yazılı ihtar,\n c) Ödeme emrine yedi gün içinde itiraz edilebileceği ancak 818 sayılı Kanunun 260 ıncı maddesinin kiralayana altı günlük mühlet sonunda fesih hakkı tanıdığı durumda itiraz müddetinin üç gün olduğu,\n d) Kira sözleşmesini veya varsa sözleşmedeki imzasını açık ve kesin olarak reddetmezse, sözleşmeyi kabul etmiş sayılacağı,\n e) (c) bendindeki süreler içinde İcra ve İflas Kanununun 62 nci maddesi hükmü çerçevesinde borca itiraz edilmez ve 818 sayılı Kanunun 260 ve 288 inci maddelerinde yazılı süre içinde borç (Ek ibare:RG-16/4/2013-28620) ödeme emrinde yazılı olan icra dairesine ait banka hesabına yatırılmazsa (Mülga ibare:RG-16/4/2013-28620) (…), kesinleşen kira alacağı için alacaklının haciz talep edebileceği ve icra mahkemesinden borçlunun kiralanan şeyden çıkarılmasını isteyebileceği,\n yazılır.",
+      "preview": "Ödeme emrine; a) 20 nci maddedeki kayıtlar, b) Alacaklı ayrıca talep ettiğinde 22/4/1926 tarihli ve 818 sayılı Borçlar Kanununun 260 ve 288…",
+      "kitap": null,
+      "kisim": null,
+      "bolum": "YEDİNCİ BÖLÜM · Basılı Kâğıtların Düzenlenme Amacı ve Kullanma Biçimi",
+      "ayirim": null,
+      "maddeBaslik": "Adî kira ve hasılât kiralarına ilişkin takipte ödeme emri",
+      "sectionPath": [
+        "YEDİNCİ BÖLÜM · Basılı Kâğıtların Düzenlenme Amacı ve Kullanma Biçimi",
+        "Adî kira ve hasılât kiralarına ilişkin takipte ödeme emri"
+      ]
+    },
+    {
+      "id": "yonetmelik:8043:m:36",
+      "maddeKind": "madde",
+      "maddeNo": "36",
+      "heading": "Madde 36",
+      "text": "Tahliye emrine;\n a) Kiralayanın ve kiracının varsa temsilcilerinin adları, soyadları ve yerleşim yerindeki adresleri,\n b) Tahliyesi istenen taşınmazın türü ve adresi,\n c) Sözleşme tarihine, kiranın yenilendiğine veya uzatıldığına ilişkin bir itiraz varsa yedi gün içinde bildirilmesi,\n d) (c) bendindeki süre içinde itirazda bulunulmaz veya taşınmaz tahliye edilmezse, tahliye emrinin tebliği tarihinden itibaren on beş gün içinde tahliye ve teslimi, aksi halde taşınmazdan zorla çıkarılacağı ihtarı,\n yazılır.",
+      "preview": "Tahliye emrine; a) Kiralayanın ve kiracının varsa temsilcilerinin adları, soyadları ve yerleşim yerindeki adresleri, b) Tahliyesi istenen ta…",
+      "kitap": null,
+      "kisim": null,
+      "bolum": "YEDİNCİ BÖLÜM · Basılı Kâğıtların Düzenlenme Amacı ve Kullanma Biçimi",
+      "ayirim": null,
+      "maddeBaslik": "Yazılı sözleşme ile kiralanan taşınmazın kira süresinin bitmesi durumunda tahliye emri",
+      "sectionPath": [
+        "YEDİNCİ BÖLÜM · Basılı Kâğıtların Düzenlenme Amacı ve Kullanma Biçimi",
+        "Yazılı sözleşme ile kiralanan taşınmazın kira süresinin bitmesi durumunda tahliye emri"
+      ]
+    },
+    {
+      "id": "yonetmelik:8043:m:37",
+      "maddeKind": "madde",
+      "maddeNo": "37",
+      "heading": "Madde 37",
+      "text": "Bu davet kâğıdı, 30 uncu maddenin birinci fıkrasının (f) bendi gereğince, alacaklı takibin haciz yolu ile devamını istediği takdirde, borçluya mal beyanında bulun-ması için gönderilen bir kâğıt olup, buna dosya numarası, alacaklı ve borçlunun varsa vekili veya kanuni temsilcilerinin adı, soyadı ve yerleşim yerleri; borçlunun yedi gün içinde, İcra ve İflas Kanununun 74 üncü maddesine ve 147 nci maddesinin birinci fıkrasının (2) numaralı bendine göre mal beyanında bulunması; bulunmazsa hapisle tazyik edileceği; hiç mal beyanında bulunmazsa hapisle cezalandırılacağı ihtarı,\n yazılır.",
+      "preview": "Bu davet kâğıdı, 30 uncu maddenin birinci fıkrasının (f) bendi gereğince, alacaklı takibin haciz yolu ile devamını istediği takdirde, borçlu…",
+      "kitap": null,
+      "kisim": null,
+      "bolum": "YEDİNCİ BÖLÜM · Basılı Kâğıtların Düzenlenme Amacı ve Kullanma Biçimi",
+      "ayirim": null,
+      "maddeBaslik": "Taşınır rehninin paraya çevrilmesinde borçlunun mal beyanında bulunmasına davet kâğıdı",
+      "sectionPath": [
+        "YEDİNCİ BÖLÜM · Basılı Kâğıtların Düzenlenme Amacı ve Kullanma Biçimi",
+        "Taşınır rehninin paraya çevrilmesinde borçlunun mal beyanında bulunmasına davet kâğıdı"
+      ]
+    },
+    {
+      "id": "yonetmelik:8043:m:38",
+      "maddeKind": "madde",
+      "maddeNo": "38",
+      "heading": "Madde 38",
+      "text": "Kıymetli evrak ve değerli şeylerin alındı makbuzu, dosya numarasını; kıymetli evrakı ve değerli şeyin alındığı kimsenin adını, soyadını; alınan şeyin cinsini, niteliğini, miktarını, takdir edilen kıymetini; kıymetli evrak ve değerli şeylerin kaydına özgü (Değişik ibare:RG-16/4/2013-28620) kayıt numarasını, tarihini; icra müdürünün veya yardımcısının adını, soyadını, imzasını ve mührü sütunlarını içeren ve iki nüsha olarak düzenlenen bedava ve pulsuz bir belgedir.",
+      "preview": "Kıymetli evrak ve değerli şeylerin alındı makbuzu, dosya numarasını; kıymetli evrakı ve değerli şeyin alındığı kimsenin adını, soyadını; alı…",
+      "kitap": null,
+      "kisim": null,
+      "bolum": "YEDİNCİ BÖLÜM · Basılı Kâğıtların Düzenlenme Amacı ve Kullanma Biçimi",
+      "ayirim": null,
+      "maddeBaslik": "Kıymetli evrak ve değerli şeylerin alındı makbuzu",
+      "sectionPath": [
+        "YEDİNCİ BÖLÜM · Basılı Kâğıtların Düzenlenme Amacı ve Kullanma Biçimi",
+        "Kıymetli evrak ve değerli şeylerin alındı makbuzu"
+      ]
+    },
+    {
+      "id": "yonetmelik:8043:m:39",
+      "maddeKind": "madde",
+      "maddeNo": "39",
+      "heading": "Madde 39",
+      "text": "İcra ve İflas Kanununun 58 inci maddesinin son fıkrası gereğince düzenlenen bir makbuz olup, bu makbuz; dosya esas numarası, alacaklının adı ve soyadı, takip talebinde bulunulduğu tarih; verilen belgenin adedi, cinsi ve tarih ve numarası; ödenen takip giderleri sütunlarını içeren, iki nüsha olarak düzenlenen bedava ve pulsuz bir belgedir. İcra müdürü veya yardımcısı yahut bunların yokluklarında kâtip tarafından imzalanıp onaylandıktan sonra bir nüshası alacaklıya verilir, diğer nüshası dosyaya konur. Ayrıca dosyada saklanacak nüshaya ilgilinin imzası alınır.",
+      "preview": "İcra ve İflas Kanununun 58 inci maddesinin son fıkrası gereğince düzenlenen bir makbuz olup, bu makbuz; dosya esas numarası, alacaklının adı…",
+      "kitap": null,
+      "kisim": null,
+      "bolum": "YEDİNCİ BÖLÜM · Basılı Kâğıtların Düzenlenme Amacı ve Kullanma Biçimi",
+      "ayirim": null,
+      "maddeBaslik": "Takip talebinde bulunulduğuna, verilen belgelere ve ödenen giderlere ilişkin verilecek makbuz",
+      "sectionPath": [
+        "YEDİNCİ BÖLÜM · Basılı Kâğıtların Düzenlenme Amacı ve Kullanma Biçimi",
+        "Takip talebinde bulunulduğuna, verilen belgelere ve ödenen giderlere ilişkin verilecek makbuz"
+      ]
+    },
+    {
+      "id": "yonetmelik:8043:m:40",
+      "maddeKind": "madde",
+      "maddeNo": "40",
+      "heading": "Madde 40",
+      "text": "Ödeme emrine karşı yapılacak her türlü itiraz halinde borçluya dosya numarası; borçlunun adı ve soyadı; itirazın niteliği ve tarihini içeren bedava ve pulsuz bir belge verilir. Bu belge icra müdürü veya yardımcısı tarafından imzalanıp onaylandıktan sonra diğer nüshası dosyasına konulur. Ayrıca dosyada saklanacak nüshaya ilgilinin imzası alınır.\n İtiraz, takibi yapan icra dairesinden başka yer icra dairesine yapıldığı takdirde, bu daire gereken gideri, itirazla birlikte alır; yukarıdaki fıkraya göre düzenlenen belgede bu hususu belirtir ve itirazı derhal yetkili icra dairesine gönderir.",
+      "preview": "Ödeme emrine karşı yapılacak her türlü itiraz halinde borçluya dosya numarası; borçlunun adı ve soyadı; itirazın niteliği ve tarihini içeren…",
+      "kitap": null,
+      "kisim": null,
+      "bolum": "YEDİNCİ BÖLÜM · Basılı Kâğıtların Düzenlenme Amacı ve Kullanma Biçimi",
+      "ayirim": null,
+      "maddeBaslik": "İtiraz belgesi",
+      "sectionPath": [
+        "YEDİNCİ BÖLÜM · Basılı Kâğıtların Düzenlenme Amacı ve Kullanma Biçimi",
+        "İtiraz belgesi"
+      ]
+    },
+    {
+      "id": "yonetmelik:8043:m:41",
+      "maddeKind": "madde",
+      "maddeNo": "41",
+      "heading": "Madde 41",
+      "text": "Haciz tutanağında, alacaklı ve borçlunun adı ve soyadı; alacağın miktarı; haciz tarihi ve saati; haczin nerede ve kimin huzurunda yapıldığı; haczedilen mallar ve takdir edilen kıymetleri; yediemine teslim edilmişse yedieminin adı ve soyadı, sıfatı ve yerleşim yeri adresi, kendisine takdir edilen ücret miktarı, ücret takdir edilmemişse sebebi; varsa borçlunun ve üçüncü kişilerin iddiaları; başvurulmuşsa kıymeti takdir eden bilirkişinin adı, soyadı, mesleği, adresi, kendisine takdir edilen ücret miktarı; başka alacaklıların iştiraki ve bu sebeple yapılan ilâve hacizler; haciz taşınmaza ilişkin ise cinsi, niteliği, sınırları, kıymeti ve gerekli diğer hususlar yazılır.\n Tutanağın altı, haczi yapan memur; hazır bulunan alacaklı, varsa temsilcisi veya vekili; borçlu, varsa temsilcisi, vekili veya haciz sırasında hazır bulunan diğer kişiler; yediemin ve bilirkişi tarafından imzalanır.\n Ayrıca, haczedilen mal daha önce ihtiyaten haczedilmişse ihtiyatî haciz sahibinin iştirak hakkı ile haczedilebilen malların değeri alacağı karşılamazsa veya borçlunun haczedilebilir malı bulunmazsa, bu durum tutanağa yazılır.",
+      "preview": "Haciz tutanağında, alacaklı ve borçlunun adı ve soyadı; alacağın miktarı; haciz tarihi ve saati; haczin nerede ve kimin huzurunda yapıldığı;…",
+      "kitap": null,
+      "kisim": null,
+      "bolum": "YEDİNCİ BÖLÜM · Basılı Kâğıtların Düzenlenme Amacı ve Kullanma Biçimi",
+      "ayirim": null,
+      "maddeBaslik": "Haciz tutanağı",
+      "sectionPath": [
+        "YEDİNCİ BÖLÜM · Basılı Kâğıtların Düzenlenme Amacı ve Kullanma Biçimi",
+        "Haciz tutanağı"
+      ]
+    },
+    {
+      "id": "yonetmelik:8043:m:42",
+      "maddeKind": "madde",
+      "maddeNo": "42",
+      "heading": "Madde 42",
+      "text": "Bu ihbarname, borçlunun hamiline ait olmayan veya ciro edilebilen bir senede dayanmayan alacak veya diğer bir talep hakkının veya üçüncü kişi elindeki taşınır bir malın haczi halinde, üçüncü kişiye gönderilir.\n Bu ihbarname, dosya numarasını; üçüncü kişinin adını, soyadını ve adresini; alacaklının, borçlunun, varsa vekillerinin adını, soyadını ve adreslerini; alacak tutarı ile faiz ve giderler; haczin neye ilişkin olduğu; haczin hangi miktar için yapıldığı hakkındaki bilgileri içerir.\n (Değişik üçüncü fıkra:RG-16/4/2013-28620) Ayrıca, üçüncü kişinin alacak tahsil edilinceye kadar borcunu yalnız haciz ihbarnamesini gönderen icra dairesine ait banka hesabına yatırması gerektiği, borçluya yapılan ödemenin geçerli olmayacağı veya hacizli malı ancak icra dairesine teslim edebileceği, malı borçluya vermemesi, aksi halde malın bedelini icra dairesine ödemek zorunda kalacağı ihtarını içerir.\n Bu ihbarname, üçüncü kişinin borcu olmadığı veya malın elinde bulunmadığı veya haciz ihbarnamesinin tebliğinden önce borç ödenmiş; mal istihlak edilmiş, kusuru olmaksızın telef olmuş, malın borçluya ait olmadığı veya malın kendisine rehnedilmiş olduğu veya alacağın borçluya veya emrettiği yere verilmiş olduğu gibi bir iddiası varsa, haciz ihbarnamesinin kendisine tebliğinden itibaren yedi gün içinde icra dairesine yazılı veya sözlü olarak itirazda bulunabileceği ihtarını da içerir.\n Bu ihbarname ile İcra ve İflas Kanununun 89 uncu maddesinin iki, üç, dört ve beşinci fıkraları hükümleri de üçüncü kişiye bildirilir.",
+      "preview": "Bu ihbarname, borçlunun hamiline ait olmayan veya ciro edilebilen bir senede dayanmayan alacak veya diğer bir talep hakkının veya üçüncü kiş…",
+      "kitap": null,
+      "kisim": null,
+      "bolum": "YEDİNCİ BÖLÜM · Basılı Kâğıtların Düzenlenme Amacı ve Kullanma Biçimi",
+      "ayirim": null,
+      "maddeBaslik": "Birinci haciz ihbarnamesi",
+      "sectionPath": [
+        "YEDİNCİ BÖLÜM · Basılı Kâğıtların Düzenlenme Amacı ve Kullanma Biçimi",
+        "Birinci haciz ihbarnamesi"
+      ]
+    },
+    {
+      "id": "yonetmelik:8043:m:43",
+      "maddeKind": "madde",
+      "maddeNo": "43",
+      "heading": "Madde 43",
+      "text": "(Değişik birinci fıkra:RG-16/4/2013-28620) İkinci haciz ihbarnamesinde 42 nci maddenin ikinci fıkrasındaki bilgiler yer alır. Bunun dışında birinci haciz ihbarnamesinin tebliğ tarihi, yedi gün içinde itiraz edilmemesi nedeniyle borcun üçüncü kişinin zimmetinde ve malın yedinde sayıldığı bildirilir. Ayrıca, üçüncü kişinin ihbarnamenin kendisine tebliğinden itibaren yedi gün içinde birinci haciz ihbarnamesinde bildirilen sebeplerle yazılı veya sözlü olarak icra dairesine itirazda bulunması, itirazda bulunmadığı takdirde zimmetinde sayılan borcu aynı yedi gün içinde haciz ihbarnamesini gönderen icra dairesine ait banka hesabına yatırması veya yedinde sayılan malı icra dairesine teslim etmesi de ihtar edilir.\n Bu ihbarname ile İcra ve İflas Kanununun 89 uncu maddesinin iki, üç, dört ve beşinci fıkraları hükümleri de üçüncü kişiye bildirilir.",
+      "preview": "(Değişik birinci fıkra:RG-16/4/2013-28620) İkinci haciz ihbarnamesinde 42 nci maddenin ikinci fıkrasındaki bilgiler yer alır. Bunun dışında…",
+      "kitap": null,
+      "kisim": null,
+      "bolum": "YEDİNCİ BÖLÜM · Basılı Kâğıtların Düzenlenme Amacı ve Kullanma Biçimi",
+      "ayirim": null,
+      "maddeBaslik": "İkinci haciz ihbarnamesi",
+      "sectionPath": [
+        "YEDİNCİ BÖLÜM · Basılı Kâğıtların Düzenlenme Amacı ve Kullanma Biçimi",
+        "İkinci haciz ihbarnamesi"
+      ]
+    },
+    {
+      "id": "yonetmelik:8043:m:44",
+      "maddeKind": "madde",
+      "maddeNo": "44",
+      "heading": "Madde 44",
+      "text": "Üçüncü haciz ihbarnamesinde, bu Yönetmeliğin 42 inci maddesinin ikinci fıkrasındaki bilgiler yer alır. Bunun dışında ikinci haciz ihbarnamesinin tebliğ tarihi; malın üçüncü kişinin elinde veya borcun zimmetinde sayıldığı; ayrıca üçüncü kişinin bu ihbarnamenin tebliğinden itibaren onbeş gün içinde borcu (Değişik ibare:RG-16/4/2013-28620) haciz ihbarnamesini gönderen icra dairesine ait banka hesabına yatırması; malı aynı sürede (Ek ibare:RG-16/4/2013-28620) icra dairesine teslim etmesi; ihbarnamenin tebliğinden itibaren onbeş gün içinde takibin yapıldığı veya kendi yerleşim yerinin bulunduğu yer mahkemesinde menfî tespit davası açabileceği ve bu davayı açtığına dair belgeyi, bu bildirimin yapıldığı tarihten itibaren yirmi gün içinde, ilgili icra dairesine vermesi; dava açmaz veya dava açtığını gösterir belgeyi vermezse ihbarnamenin tebliğinden itibaren onbeş gün içinde zimmetinde sayılan borcu (Değişik ibare:RG-16/4/2013-28620) haciz ihbarnamesini gönderen icra dairesine ait banka hesabına yatırması veya elinde sayılan malı icra dairesine teslim etmesi gereği, aksi halde cebrî icra yolu ile borcun tahsil edileceği veya malın aynen alınacağı ihtarı yazılır.\n Bu ihbarname ile İcra ve İflas Kanununun 89 uncu maddesinin üç, dört ve beşinci fıkraları hükümleri de üçüncü kişiye bildirilir.",
+      "preview": "Üçüncü haciz ihbarnamesinde, bu Yönetmeliğin 42 inci maddesinin ikinci fıkrasındaki bilgiler yer alır. Bunun dışında ikinci haciz ihbarnames…",
+      "kitap": null,
+      "kisim": null,
+      "bolum": "YEDİNCİ BÖLÜM · Basılı Kâğıtların Düzenlenme Amacı ve Kullanma Biçimi",
+      "ayirim": null,
+      "maddeBaslik": "Üçüncü haciz ihbarnamesi (bildirim)",
+      "sectionPath": [
+        "YEDİNCİ BÖLÜM · Basılı Kâğıtların Düzenlenme Amacı ve Kullanma Biçimi",
+        "Üçüncü haciz ihbarnamesi (bildirim)"
+      ]
+    },
+    {
+      "id": "yonetmelik:8043:m:45",
+      "maddeKind": "madde",
+      "maddeNo": "45",
+      "heading": "Madde 45",
+      "text": "Davet kâğıdı, haciz, alacaklı veya borçlunun veya her ikisinin yokluğunda yapılmış ise, haciz sırasında hazır bulunmayanlara, 41 inci madde uyarınca düzenlenmiş haciz tutanağına karşı diyeceklerini bildirmek üzere yapılan davete ilişkin olup, dosya numarasını; alacaklı ve borçlunun ad ve soyadlarını; varsa vekillerinin ad, soyad ve adreslerini; haczin yapıldığı tarihi içerir; bu davet kâğıdında, üç gün içinde haciz tutanağı incelenerek hacze karşı diyeceklerini bildirmeleri hususu da ihtar olunur.",
+      "preview": "Davet kâğıdı, haciz, alacaklı veya borçlunun veya her ikisinin yokluğunda yapılmış ise, haciz sırasında hazır bulunmayanlara, 41 inci madde…",
+      "kitap": null,
+      "kisim": null,
+      "bolum": "YEDİNCİ BÖLÜM · Basılı Kâğıtların Düzenlenme Amacı ve Kullanma Biçimi",
+      "ayirim": null,
+      "maddeBaslik": "Davet kâğıdı",
+      "sectionPath": [
+        "YEDİNCİ BÖLÜM · Basılı Kâğıtların Düzenlenme Amacı ve Kullanma Biçimi",
+        "Davet kâğıdı"
+      ]
+    },
+    {
+      "id": "yonetmelik:8043:m:46",
+      "maddeKind": "madde",
+      "maddeNo": "46",
+      "heading": "Madde 46",
+      "text": "İstihkak iddiasının bildirilmesine ilişkin belgeye, alacaklının, borçlunun, üçüncü kişinin ve istihkak beyan eden kimselerin adları, soyadları ve yerleşim yerindeki adresleri; istihkak beyanı üzerine kime ihbar yapıldığı, istihkak konusu malın neden ibaret olduğu yazılır. Bu belgede, kendisine tebligat yapılan kimsenin üç gün içinde istihkak iddiasına karşı itirazları varsa bildirmesi, aksi takdirde İcra ve İflas Kanununun 96 ve 150/g maddeleri uyarınca istihkak iddiasını kabul etmiş sayılacağı hususu da ihtar olunur.",
+      "preview": "İstihkak iddiasının bildirilmesine ilişkin belgeye, alacaklının, borçlunun, üçüncü kişinin ve istihkak beyan eden kimselerin adları, soyadla…",
+      "kitap": null,
+      "kisim": null,
+      "bolum": "YEDİNCİ BÖLÜM · Basılı Kâğıtların Düzenlenme Amacı ve Kullanma Biçimi",
+      "ayirim": null,
+      "maddeBaslik": "İstihkak iddiasının bildirilmesine ilişkin belge",
+      "sectionPath": [
+        "YEDİNCİ BÖLÜM · Basılı Kâğıtların Düzenlenme Amacı ve Kullanma Biçimi",
+        "İstihkak iddiasının bildirilmesine ilişkin belge"
+      ]
+    },
+    {
+      "id": "yonetmelik:8043:m:47",
+      "maddeKind": "madde",
+      "maddeNo": "47",
+      "heading": "Madde 47",
+      "text": "(Mülga:RG-8/3/2022-31772)",
+      "preview": "(Mülga:RG-8/3/2022-31772)",
+      "kitap": null,
+      "kisim": null,
+      "bolum": "YEDİNCİ BÖLÜM · Basılı Kâğıtların Düzenlenme Amacı ve Kullanma Biçimi",
+      "ayirim": null,
+      "maddeBaslik": "Taşınırın açık artırma şartnamesi ve tutanağı",
+      "sectionPath": [
+        "YEDİNCİ BÖLÜM · Basılı Kâğıtların Düzenlenme Amacı ve Kullanma Biçimi",
+        "Taşınırın açık artırma şartnamesi ve tutanağı"
+      ]
+    },
+    {
+      "id": "yonetmelik:8043:m:48",
+      "maddeKind": "madde",
+      "maddeNo": "48",
+      "heading": "Madde 48",
+      "text": "(Mülga:RG-8/3/2022-31772)\n\n Taşınırın ihale usulü\n MADDE 48/A – (Ek:RG-16/4/2013-28620) (Mülga:RG-8/3/2022-31772)",
+      "preview": "(Mülga:RG-8/3/2022-31772) Taşınırın ihale usulü MADDE 48/A – (Ek:RG-16/4/2013-28620) (Mülga:RG-8/3/2022-31772)",
+      "kitap": null,
+      "kisim": null,
+      "bolum": "YEDİNCİ BÖLÜM · Basılı Kâğıtların Düzenlenme Amacı ve Kullanma Biçimi",
+      "ayirim": null,
+      "maddeBaslik": "Taşınırın açık artırma ilânı",
+      "sectionPath": [
+        "YEDİNCİ BÖLÜM · Basılı Kâğıtların Düzenlenme Amacı ve Kullanma Biçimi",
+        "Taşınırın açık artırma ilânı"
+      ]
+    },
+    {
+      "id": "yonetmelik:8043:m:49",
+      "maddeKind": "madde",
+      "maddeNo": "49",
+      "heading": "Madde 49",
+      "text": "(Mülga:RG-8/3/2022-31772)",
+      "preview": "(Mülga:RG-8/3/2022-31772)",
+      "kitap": null,
+      "kisim": null,
+      "bolum": "YEDİNCİ BÖLÜM · Basılı Kâğıtların Düzenlenme Amacı ve Kullanma Biçimi",
+      "ayirim": null,
+      "maddeBaslik": "Taşınmazın açık artırma şartnamesi ve tutanağı",
+      "sectionPath": [
+        "YEDİNCİ BÖLÜM · Basılı Kâğıtların Düzenlenme Amacı ve Kullanma Biçimi",
+        "Taşınmazın açık artırma şartnamesi ve tutanağı"
+      ]
+    },
+    {
+      "id": "yonetmelik:8043:m:50",
+      "maddeKind": "madde",
+      "maddeNo": "50",
+      "heading": "Madde 50",
+      "text": "(Mülga:RG-8/3/2022-31772)\n\n Taşınmazın ihale usulü\n MADDE 50/A – (Ek:RG-16/4/2013-28620) (Mülga:RG-8/3/2022-31772)",
+      "preview": "(Mülga:RG-8/3/2022-31772) Taşınmazın ihale usulü MADDE 50/A – (Ek:RG-16/4/2013-28620) (Mülga:RG-8/3/2022-31772)",
+      "kitap": null,
+      "kisim": null,
+      "bolum": "YEDİNCİ BÖLÜM · Basılı Kâğıtların Düzenlenme Amacı ve Kullanma Biçimi",
+      "ayirim": null,
+      "maddeBaslik": "Taşınmazın açık artırma ilânı",
+      "sectionPath": [
+        "YEDİNCİ BÖLÜM · Basılı Kâğıtların Düzenlenme Amacı ve Kullanma Biçimi",
+        "Taşınmazın açık artırma ilânı"
+      ]
+    },
+    {
+      "id": "yonetmelik:8043:m:51",
+      "maddeKind": "madde",
+      "maddeNo": "51",
+      "heading": "Madde 51",
+      "text": "Bu vesikaya, dosya numarası; alacaklının ve borçlunun adları, soyadları ve yerleşim yerindeki adresleri; takibin hangi yolla yapıldığı; yapılan işlem sonucu; alacağın faiz ve gideri ile birlikte miktarı; aciz vesikasının ne miktar alacak için verildiği ve kanunî dayanağı; ayrıca takip, iflâs yolu ile yapılmakta ise müflisin alacağı kabul veya reddettiği hususu da İcra ve İflâs Kanununun 251 inci maddesi gereğince yazılır; vesika, icra müdürü tarafından imzalanır ve mühürlenir.",
+      "preview": "Bu vesikaya, dosya numarası; alacaklının ve borçlunun adları, soyadları ve yerleşim yerindeki adresleri; takibin hangi yolla yapıldığı; yapı…",
+      "kitap": null,
+      "kisim": null,
+      "bolum": "YEDİNCİ BÖLÜM · Basılı Kâğıtların Düzenlenme Amacı ve Kullanma Biçimi",
+      "ayirim": null,
+      "maddeBaslik": "Borç ödemeden aciz vesikası",
+      "sectionPath": [
+        "YEDİNCİ BÖLÜM · Basılı Kâğıtların Düzenlenme Amacı ve Kullanma Biçimi",
+        "Borç ödemeden aciz vesikası"
+      ]
+    },
+    {
+      "id": "yonetmelik:8043:m:52",
+      "maddeKind": "madde",
+      "maddeNo": "52",
+      "heading": "Madde 52",
+      "text": "İlâmın icrası belgesi, borçlu istediği takdirde, kendisine bedava ve pulsuz olarak verilen bir belge olup bu belgeye, dosya numarası; alacaklının adı, soyadı; ilâm veya ilâm niteliğindeki belgenin verildiği makam veya merciin adı; tarihi; numarası, ilâmın ne derece yerine getirildiği; tamamen veya kısmen yerine getirme tarihi yazılır; icra müdürü tarafından imzalanır ve mühürlenir.",
+      "preview": "İlâmın icrası belgesi, borçlu istediği takdirde, kendisine bedava ve pulsuz olarak verilen bir belge olup bu belgeye, dosya numarası; alacak…",
+      "kitap": null,
+      "kisim": null,
+      "bolum": "YEDİNCİ BÖLÜM · Basılı Kâğıtların Düzenlenme Amacı ve Kullanma Biçimi",
+      "ayirim": null,
+      "maddeBaslik": "İlâmın icrası belgesi",
+      "sectionPath": [
+        "YEDİNCİ BÖLÜM · Basılı Kâğıtların Düzenlenme Amacı ve Kullanma Biçimi",
+        "İlâmın icrası belgesi"
+      ]
+    },
+    {
+      "id": "yonetmelik:8043:m:53",
+      "maddeKind": "madde",
+      "maddeNo": "53",
+      "heading": "Madde 53",
+      "text": "Alacaklıya, satış talebinden sonra, isteği üzerine verilen bedava ve pulsuz bir belge olup, bu belgeye, dosya numarası; alacaklı ve borçlunun adı ve soyadı; alacağın miktarı, rehnedilenin takdir edilen kıymeti ve kıymete göre açık kalan miktar ve ne için verildiği; bu belgenin kanunî dayanağı yazılır; belge, icra müdürü tarafından imzalanır ve mühürlenir.\n Bu belge iki nüsha olarak düzenlenir, biri dosyasında saklanır.",
+      "preview": "Alacaklıya, satış talebinden sonra, isteği üzerine verilen bedava ve pulsuz bir belge olup, bu belgeye, dosya numarası; alacaklı ve borçlunu…",
+      "kitap": null,
+      "kisim": null,
+      "bolum": "YEDİNCİ BÖLÜM · Basılı Kâğıtların Düzenlenme Amacı ve Kullanma Biçimi",
+      "ayirim": null,
+      "maddeBaslik": "Muvakkat rehin açığı belgesi",
+      "sectionPath": [
+        "YEDİNCİ BÖLÜM · Basılı Kâğıtların Düzenlenme Amacı ve Kullanma Biçimi",
+        "Muvakkat rehin açığı belgesi"
+      ]
+    },
+    {
+      "id": "yonetmelik:8043:m:54",
+      "maddeKind": "madde",
+      "maddeNo": "54",
+      "heading": "Madde 54",
+      "text": "Alacaklıya, rehnedilenin satılıp da satış bedelinin alacağın tamamını karşılamaması veya hiç satılamaması halinde bedava ve pulsuz olarak verilen bir belge olup, bu belgeye, dosya numarası; alacaklı ve borçlunun adı ve soyadı; alacağın miktarı; rehnedilenin takdir edilen kıymeti; satış tutarı; satış yapılamamışsa sebebi; geriye kalan alacak miktarı ve ne için verildiği; kanunî dayanağı yazılır; belge, icra müdürü tarafından imzalanır ve mühürlenir.\n Bu belge iki nüsha olarak düzenlenir, biri dosyasında saklanır.",
+      "preview": "Alacaklıya, rehnedilenin satılıp da satış bedelinin alacağın tamamını karşılamaması veya hiç satılamaması halinde bedava ve pulsuz olarak ve…",
+      "kitap": null,
+      "kisim": null,
+      "bolum": "YEDİNCİ BÖLÜM · Basılı Kâğıtların Düzenlenme Amacı ve Kullanma Biçimi",
+      "ayirim": null,
+      "maddeBaslik": "Rehin açığı belgesi",
+      "sectionPath": [
+        "YEDİNCİ BÖLÜM · Basılı Kâğıtların Düzenlenme Amacı ve Kullanma Biçimi",
+        "Rehin açığı belgesi"
+      ]
+    },
+    {
+      "id": "yonetmelik:8043:m:55",
+      "maddeKind": "madde",
+      "maddeNo": "55",
+      "heading": "Madde 55",
+      "text": "İcra ve İflas Kanununun 166 ncı maddesine göre iflâs kararı verildiğinin ilânı ile 254 üncü maddeye göre iflâsın kapanmasına ilişkin kararın ilânında, iflâs dosya numarası, müflisin adı, soyadı, adresi, iflâsın açılması veya kapanması kararının hangi mahkeme tarafından verildiği, kararın tarih ve sayısı ile özeti yazılır.\n İcra ve İflas Kanununun 182 nci maddesine göre iflâsın kaldırılmasına ilişkin ilânda, iflâs dosya numarası; müflisin adı, soyadı ve adresi ile iflâsın kaldırılması kararının hangi mahkeme tarafından verildiği; kararın tarih ve sayısı ile özeti yazılır.\n İcra ve İflas Kanununun 179/a maddesine göre iflâsın ertelenmesine ilişkin yapılacak ilânda, kararın hangi mahkeme tarafından verildiği, karar tarihi ve sayısı, borçlu şirket veya kooperatifin adı ve adresi ile kararın hüküm fıkrası yazılır.",
+      "preview": "İcra ve İflas Kanununun 166 ncı maddesine göre iflâs kararı verildiğinin ilânı ile 254 üncü maddeye göre iflâsın kapanmasına ilişkin kararın…",
+      "kitap": null,
+      "kisim": null,
+      "bolum": "YEDİNCİ BÖLÜM · Basılı Kâğıtların Düzenlenme Amacı ve Kullanma Biçimi",
+      "ayirim": null,
+      "maddeBaslik": "İflâsın açılmasına, kapanmasına ve kaldırılmasına ilişkin ilân",
+      "sectionPath": [
+        "YEDİNCİ BÖLÜM · Basılı Kâğıtların Düzenlenme Amacı ve Kullanma Biçimi",
+        "İflâsın açılmasına, kapanmasına ve kaldırılmasına ilişkin ilân"
+      ]
+    },
+    {
+      "id": "yonetmelik:8043:m:56",
+      "maddeKind": "madde",
+      "maddeNo": "56",
+      "heading": "Madde 56",
+      "text": "İflâs dairesinin, masaya ait hiç bir mal bulunmadığı takdirde tasfiyenin tatiline dair vereceği karara ilişkin ilânda; dosya numarası, müflisin adı, soyadı, ilândan itibaren alacaklılar tarafından otuz gün içinde iflâsa ilişkin işlemlerin yürütülmesinin devamı istenmediği ve gideri peşin verilmediği takdirde iflâsın kapatılacağı ihtarı yazılır.",
+      "preview": "İflâs dairesinin, masaya ait hiç bir mal bulunmadığı takdirde tasfiyenin tatiline dair vereceği karara ilişkin ilânda; dosya numarası, müfli…",
+      "kitap": null,
+      "kisim": null,
+      "bolum": "YEDİNCİ BÖLÜM · Basılı Kâğıtların Düzenlenme Amacı ve Kullanma Biçimi",
+      "ayirim": null,
+      "maddeBaslik": "Tasfiyenin tatili ilânı",
+      "sectionPath": [
+        "YEDİNCİ BÖLÜM · Basılı Kâğıtların Düzenlenme Amacı ve Kullanma Biçimi",
+        "Tasfiyenin tatili ilânı"
+      ]
+    },
+    {
+      "id": "yonetmelik:8043:m:57",
+      "maddeKind": "madde",
+      "maddeNo": "57",
+      "heading": "Madde 57",
+      "text": "Bu ilâna; dosya numarası, müflisin adı, soyadı, yerleşim yerindeki adresi ve İcra ve İflâs Kanununun 218 inci maddesi gereğince yirmi günden az ve iki aydan çok olmamak üzere belirtilecek bir süre içinde, alacaklıların alacaklarını ve iddialarını iflâs dairesine bildirmeleri gerektiği, keza bu süre içinde alacaklılardan birinin giderleri peşin vermek suretiyle adî tasfiye istemediği takdirde basit tasfiye yapılacağı ihtarı yazılır.\n Tasfiyenin kapandığı aynı şekilde ilân olunur.",
+      "preview": "Bu ilâna; dosya numarası, müflisin adı, soyadı, yerleşim yerindeki adresi ve İcra ve İflâs Kanununun 218 inci maddesi gereğince yirmi günden…",
+      "kitap": null,
+      "kisim": null,
+      "bolum": "YEDİNCİ BÖLÜM · Basılı Kâğıtların Düzenlenme Amacı ve Kullanma Biçimi",
+      "ayirim": null,
+      "maddeBaslik": "Basit tasfiyede alacaklıları davet ilânı",
+      "sectionPath": [
+        "YEDİNCİ BÖLÜM · Basılı Kâğıtların Düzenlenme Amacı ve Kullanma Biçimi",
+        "Basit tasfiyede alacaklıları davet ilânı"
+      ]
+    },
+    {
+      "id": "yonetmelik:8043:m:58",
+      "maddeKind": "madde",
+      "maddeNo": "58",
+      "heading": "Madde 58",
+      "text": "Bu ilânda;\n a) Dosya numarası,\n b) Müflisin adı, soyadı ve adresi,\n c) İflâsın açıldığı tarih,\n d) Alacaklıların ve istihkak iddiası sahiplerinin, alacak ve istihkaklarını ve bunların dayanağı olan belgeleri veya örneklerini ilân tarihinden itibaren bir ay içinde kaydettirmeleri ve tevdi etmeleri,\n e) Müflise borçlu olanların aynı süre içinde kendilerini ve borçlarını bildirmeleri, aksi halin İcra ve İflas Kanununun 336 ncı maddesi uyarınca cezaî sorumluluğu gerektireceği,\n f) Müflisin mallarını her ne sıfatla olursa olsun ellerinde bulunduranların, o mallar üzerindeki hakları saklı kalmak şartıyla, bunları aynı süre içinde iflâs dairesi emrine tevdi etmeleri; geçerli bir mazerete dayanmaksızın vermezlerse İcra ve İflas Kanununun 336 ncı maddesi uyarınca cezaî sorumluluğa uğrayacakları ve rüçhan haklarından mahrum kalacakları,\n g) İlânı takip eden en geç on günü geçmemek üzere belirtilecek gün ve saatte ilk alacaklılar toplantısı yapılacağı; alacaklıların bu toplantıya gelmeleri veya vekil göndermeleri ve bu toplantıya müflis ile müşterek borçlu olanlar ve kefillerinin ve borcu tekeffül edenlerin veya bunların vekillerinin katılmaya hakları bulunduğu,\n yazılır.\n Birinci fıkranın (d) bendindeki süre alacaklıların yerleşim yerlerinin uzak yerde veya yabancı ülkede olması halinde uzatılabilir.",
+      "preview": "Bu ilânda; a) Dosya numarası, b) Müflisin adı, soyadı ve adresi, c) İflâsın açıldığı tarih, d) Alacaklıların ve istihkak iddiası sahiplerini…",
+      "kitap": null,
+      "kisim": null,
+      "bolum": "YEDİNCİ BÖLÜM · Basılı Kâğıtların Düzenlenme Amacı ve Kullanma Biçimi",
+      "ayirim": null,
+      "maddeBaslik": "Adî tasfiye ve iflâsın açılmasının ilânı",
+      "sectionPath": [
+        "YEDİNCİ BÖLÜM · Basılı Kâğıtların Düzenlenme Amacı ve Kullanma Biçimi",
+        "Adî tasfiye ve iflâsın açılmasının ilânı"
+      ]
+    },
+    {
+      "id": "yonetmelik:8043:m:59",
+      "maddeKind": "madde",
+      "maddeNo": "59",
+      "heading": "Madde 59",
+      "text": "Bu cetvele; alacaklıların ad ve soyadları, talep edilen, kabul edilen ve reddedilen para miktarları, alacak hakkındaki kararın ne olduğu ve hangi sıraya kabul edildiği yazılır.",
+      "preview": "Bu cetvele; alacaklıların ad ve soyadları, talep edilen, kabul edilen ve reddedilen para miktarları, alacak hakkındaki kararın ne olduğu ve…",
+      "kitap": null,
+      "kisim": null,
+      "bolum": "YEDİNCİ BÖLÜM · Basılı Kâğıtların Düzenlenme Amacı ve Kullanma Biçimi",
+      "ayirim": null,
+      "maddeBaslik": "İcra ve iflâs kanununun 206 ve 207 nci maddeleri gereğince düzenlenen sıra cetveli",
+      "sectionPath": [
+        "YEDİNCİ BÖLÜM · Basılı Kâğıtların Düzenlenme Amacı ve Kullanma Biçimi",
+        "İcra ve iflâs kanununun 206 ve 207 nci maddeleri gereğince düzenlenen sıra cetveli"
+      ]
+    },
+    {
+      "id": "yonetmelik:8043:m:60",
+      "maddeKind": "madde",
+      "maddeNo": "60",
+      "heading": "Madde 60",
+      "text": "Bu ilâna, dosya numarası, müflisin adı, soyadı, adresi; İcra ve İflas Kanununun 206 ve 207 nci maddeleri gereğince düzenlenmiş sıra cetvelinin hazır olduğu; alacağın esasına ve miktarına ilişkin itirazların on beş gün içinde iflâsa karar verilen yerdeki ticaret mahkemesinde dava yoluyla ileri sürülebileceği; yalnız sıraya ilişkin itirazların ise yedi gün içinde şikâyet yoluyla icra mahkemesinde ileri sürülebileceği; müflis, konkordato teklif etmişse, bu konunun müzakere edileceği ve toplantının gün ve saati ile bu toplantıda hazır bulunulması veya bir vekil gönderilmesi gereği yazılır.",
+      "preview": "Bu ilâna, dosya numarası, müflisin adı, soyadı, adresi; İcra ve İflas Kanununun 206 ve 207 nci maddeleri gereğince düzenlenmiş sıra cetvelin…",
+      "kitap": null,
+      "kisim": null,
+      "bolum": "YEDİNCİ BÖLÜM · Basılı Kâğıtların Düzenlenme Amacı ve Kullanma Biçimi",
+      "ayirim": null,
+      "maddeBaslik": "Sıra cetvelinin ve ikinci alacaklılar toplantısının ilânı",
+      "sectionPath": [
+        "YEDİNCİ BÖLÜM · Basılı Kâğıtların Düzenlenme Amacı ve Kullanma Biçimi",
+        "Sıra cetvelinin ve ikinci alacaklılar toplantısının ilânı"
+      ]
+    },
+    {
+      "id": "yonetmelik:8043:m:61",
+      "maddeKind": "madde",
+      "maddeNo": "61",
+      "heading": "Madde 61",
+      "text": "(Değişik:RG-16/4/2013-28620)\n Tahsilât makbuzu, kasa kaydına işlenecek paralar için düzenlenen makbuzdur. Bu makbuzda dosya ve sıra numarası, alınan paraların rakam ve yazı ile belirtilecek tutarı, yatırılma sebebi, kim tarafından yatırıldığı sütunları bulunur. Tahsilât makbuzu memur tarafından imzalanır ve mühürlenir.\n Bu makbuz, iki nüsha olarak düzenlenir, nüshalardan biri parayı yatırana verilir diğeri ise dosyasında saklanır.\n İcra ve iflâs dairelerine listeye bağlı olarak topluca gelen paralar on ve daha fazla dosyayı ilgilendirdiği takdirde, toplam miktar için tek tahsilât makbuzu kesilebilir. Bu makbuz parayı yatıran kurum veya daireye verilir, ayrıca UYAP’ta kayıtlı dosyalarına eklenir. Makbuz muhteviyatı para, listeler esas alınarak kasa kaydına ayrıntılı olarak geçirilir ve ait olduğu dosyalara da işlenir.",
+      "preview": "(Değişik:RG-16/4/2013-28620) Tahsilât makbuzu, kasa kaydına işlenecek paralar için düzenlenen makbuzdur. Bu makbuzda dosya ve sıra numarası,…",
+      "kitap": null,
+      "kisim": null,
+      "bolum": "YEDİNCİ BÖLÜM · Basılı Kâğıtların Düzenlenme Amacı ve Kullanma Biçimi",
+      "ayirim": null,
+      "maddeBaslik": "Tahsilât makbuzu",
+      "sectionPath": [
+        "YEDİNCİ BÖLÜM · Basılı Kâğıtların Düzenlenme Amacı ve Kullanma Biçimi",
+        "Tahsilât makbuzu"
+      ]
+    },
+    {
+      "id": "yonetmelik:8043:m:62",
+      "maddeKind": "madde",
+      "maddeNo": "62",
+      "heading": "Madde 62",
+      "text": "(Değişik:RG-16/4/2013-28620)\n Reddiyat makbuzu, kasa kaydına işlenen paraların reddinde doldurulan bir makbuzdur. Bu makbuzda, sıra ve dosya numarası, alacaklının ve borçlunun ad ve soyadı, tahsilât makbuzundaki numara, tarih ve miktar ile reddedilen paraların miktarı, bundan kesilecek tahsil ve cezaevi harcı, verilmesi gereken paranın rakam ve yazı ile belirtilecek miktarı, tarih, müdürün imza ve mühürü bulunur.\n İcra ve iflâs dairelerinden, başka bir icra ve iflâs dairesine Posta ve Telgraf Teşkilâtı ve banka aracılığı ile gönderilmesi gereken toplu para on ve daha fazla dosyayı ilgilendirdiği takdirde bu paraların toplamı için tek bir reddiyat makbuzu kesilebilir. Bu makbuz UYAP’ta kayıtlı dosyalarına eklenir. Reddiyat makbuzu ve cetvelde yer alan paraların çıkışı, usulünce kasa kaydında gösterilir ve ait olduğu dosyalara işlenir.",
+      "preview": "(Değişik:RG-16/4/2013-28620) Reddiyat makbuzu, kasa kaydına işlenen paraların reddinde doldurulan bir makbuzdur. Bu makbuzda, sıra ve dosya…",
+      "kitap": null,
+      "kisim": null,
+      "bolum": "YEDİNCİ BÖLÜM · Basılı Kâğıtların Düzenlenme Amacı ve Kullanma Biçimi",
+      "ayirim": null,
+      "maddeBaslik": "Reddiyat makbuzu",
+      "sectionPath": [
+        "YEDİNCİ BÖLÜM · Basılı Kâğıtların Düzenlenme Amacı ve Kullanma Biçimi",
+        "Reddiyat makbuzu"
+      ]
+    },
+    {
+      "id": "yonetmelik:8043:m:63",
+      "maddeKind": "madde",
+      "maddeNo": "63",
+      "heading": "Madde 63",
+      "text": "(Başlığıyla beraber değişik:RG-16/4/2013-28620)\n Tahsilat ve reddiyat makbuzları UYAP Bilişim Sistemi üzerinden seri ve sıra numarası verilerek düzenlenir.",
+      "preview": "(Başlığıyla beraber değişik:RG-16/4/2013-28620) Tahsilat ve reddiyat makbuzları UYAP Bilişim Sistemi üzerinden seri ve sıra numarası veriler…",
+      "kitap": null,
+      "kisim": null,
+      "bolum": "YEDİNCİ BÖLÜM · Basılı Kâğıtların Düzenlenme Amacı ve Kullanma Biçimi",
+      "ayirim": null,
+      "maddeBaslik": "Tahsilât ve reddiyat makbuzlarının düzenlenmesi",
+      "sectionPath": [
+        "YEDİNCİ BÖLÜM · Basılı Kâğıtların Düzenlenme Amacı ve Kullanma Biçimi",
+        "Tahsilât ve reddiyat makbuzlarının düzenlenmesi"
+      ]
+    },
+    {
+      "id": "yonetmelik:8043:m:64",
+      "maddeKind": "madde",
+      "maddeNo": "64",
+      "heading": "Madde 64",
+      "text": "Harç tahsil müzekkeresi 492 sayılı Harçlar Kanununun 28 ve 130 uncu maddeleri uyarınca düzenlenecek bir müzekkeredir. Bu müzekkere, dosya numarası, ilgili icra ve iflâs dairesinin adı, yükümlünün adı, soyadı, son yerleşim yerindeki adresi, harcın kesinleştiği tarih, harcın türü ve niteliği, miktarı, hangi yer maliye dairesine hitaben yazıldığı, harcın kanunî dayanağı, tarih, sütunları ile icra müdürünün imza ve mührünü içerir.\n (Değişik ikinci fıkra:RG-16/4/2013-28620) Bu müzekkerenin tarih ve sayısı, esas kaydının, “düşünceler” sütununa işlenir ve müzekkerenin bir örneği dosyasında saklanır; bir örneği özel kartonuna konulur, diğer örneği de zimmet kaydına işlenir ve maliyeye verilir.",
+      "preview": "Harç tahsil müzekkeresi 492 sayılı Harçlar Kanununun 28 ve 130 uncu maddeleri uyarınca düzenlenecek bir müzekkeredir. Bu müzekkere, dosya nu…",
+      "kitap": null,
+      "kisim": null,
+      "bolum": "YEDİNCİ BÖLÜM · Basılı Kâğıtların Düzenlenme Amacı ve Kullanma Biçimi",
+      "ayirim": null,
+      "maddeBaslik": "Harç tahsil müzekkeresi",
+      "sectionPath": [
+        "YEDİNCİ BÖLÜM · Basılı Kâğıtların Düzenlenme Amacı ve Kullanma Biçimi",
+        "Harç tahsil müzekkeresi"
+      ]
+    },
+    {
+      "id": "yonetmelik:8043:m:65",
+      "maddeKind": "madde",
+      "maddeNo": "65",
+      "heading": "Madde 65",
+      "text": "İcra ve iflâs dairelerince posta ile yapılacak tebliğlerde Tebligat Tüzüğünün 33 ve 75 inci maddelerinde belirtilen esaslara uygun ve sözü edilen Tüzükte örneği gösterilen (Örnek: 7) tebliğ mazbatalı zarfın kullanılması zorunludur.",
+      "preview": "İcra ve iflâs dairelerince posta ile yapılacak tebliğlerde Tebligat Tüzüğünün 33 ve 75 inci maddelerinde belirtilen esaslara uygun ve sözü e…",
+      "kitap": null,
+      "kisim": null,
+      "bolum": "YEDİNCİ BÖLÜM · Basılı Kâğıtların Düzenlenme Amacı ve Kullanma Biçimi",
+      "ayirim": null,
+      "maddeBaslik": "Tebliğ mazbatalı zarf",
+      "sectionPath": [
+        "YEDİNCİ BÖLÜM · Basılı Kâğıtların Düzenlenme Amacı ve Kullanma Biçimi",
+        "Tebliğ mazbatalı zarf"
+      ]
+    },
+    {
+      "id": "yonetmelik:8043:m:66",
+      "maddeKind": "madde",
+      "maddeNo": "66",
+      "heading": "Madde 66",
+      "text": "İcra ve iflâs dairelerince telgrafla yapılacak tebligatta Tebligat Tüzüğünün 78 ve 83 üncü maddelerinde belirtilen esaslara uygun ve sözü edilen Tüzükte örneği gösterilen (Örnek : 12) telgrafla tebliğ zarfının kullanılması zorunludur.",
+      "preview": "İcra ve iflâs dairelerince telgrafla yapılacak tebligatta Tebligat Tüzüğünün 78 ve 83 üncü maddelerinde belirtilen esaslara uygun ve sözü ed…",
+      "kitap": null,
+      "kisim": null,
+      "bolum": "YEDİNCİ BÖLÜM · Basılı Kâğıtların Düzenlenme Amacı ve Kullanma Biçimi",
+      "ayirim": null,
+      "maddeBaslik": "Telgrafla tebliğ zarfı",
+      "sectionPath": [
+        "YEDİNCİ BÖLÜM · Basılı Kâğıtların Düzenlenme Amacı ve Kullanma Biçimi",
+        "Telgrafla tebliğ zarfı"
+      ]
+    },
+    {
+      "id": "yonetmelik:8043:m:67",
+      "maddeKind": "madde",
+      "maddeNo": "67",
+      "heading": "Madde 67",
+      "text": "İcra ve iflâs dairelerinde postaya verilen taahhütlü maddeler ile telgraflar için Adalet dairelerinde kullanılmakta olan postaya verilen taahhütlü maddelere özgü zimmet (Değişik ibare:RG-16/4/2013-28620) kaydı ve tevdi listesinin kullanılması zorunludur.\n\n (Değişik ibare:RG-16/4/2013-28620) ÜÇÜNCÜ KISIM\n İcra Mahkemelerinde Tutulacak (Değişik ibare:RG-16/4/2013-28620) Kayıtlar, Dosyalar ve Kullanılacak Basılı Kağıtlar\n\n BİRİNCİ BÖLÜM\n (Değişik bölüm başlığı:RG-16/4/2013-28620)",
+      "preview": "İcra ve iflâs dairelerinde postaya verilen taahhütlü maddeler ile telgraflar için Adalet dairelerinde kullanılmakta olan postaya verilen taa…",
+      "kitap": null,
+      "kisim": null,
+      "bolum": "YEDİNCİ BÖLÜM · Basılı Kâğıtların Düzenlenme Amacı ve Kullanma Biçimi",
+      "ayirim": null,
+      "maddeBaslik": "Postaya verilen taahhütlü maddelerle, telgraflara ilişkin tevdi listesi",
+      "sectionPath": [
+        "YEDİNCİ BÖLÜM · Basılı Kâğıtların Düzenlenme Amacı ve Kullanma Biçimi",
+        "Postaya verilen taahhütlü maddelerle, telgraflara ilişkin tevdi listesi"
+      ]
+    },
+    {
+      "id": "yonetmelik:8043:m:68",
+      "maddeKind": "madde",
+      "maddeNo": "68",
+      "heading": "Madde 68",
+      "text": "(Başlığıyla birlikte değişik:RG-16/4/2013-28620)\n İcra mahkemesinde aşağıda gösterilen kayıtların elektronik ortamda tutulması zorunludur.\n a) Esas kaydı.\n b) Değişik işler ve talimat kaydı.\n c) Muhabere kaydı.\n d) Kanun yoluna başvuru kaydı.\n e) Duruşma günleri kaydı.\n f) Zimmet kaydı.\n g) Posta mutemet kaydı.\n h) Disiplin soruşturması kaydı.\n ı) Ceza infaz kaydı.\n j) Diğer kayıtlar.\n\n İKİNCİ BÖLÜM\n (Değişik:RG-16/4/2013-28620) Kayıtların Düzenlenme Amacı ve Kullanma Biçimi",
+      "preview": "(Başlığıyla birlikte değişik:RG-16/4/2013-28620) İcra mahkemesinde aşağıda gösterilen kayıtların elektronik ortamda tutulması zorunludur. a)…",
+      "kitap": null,
+      "kisim": null,
+      "bolum": "YEDİNCİ BÖLÜM · Basılı Kâğıtların Düzenlenme Amacı ve Kullanma Biçimi",
+      "ayirim": null,
+      "maddeBaslik": "Tutulması zorunlu olan kayıtlar",
+      "sectionPath": [
+        "YEDİNCİ BÖLÜM · Basılı Kâğıtların Düzenlenme Amacı ve Kullanma Biçimi",
+        "Tutulması zorunlu olan kayıtlar"
+      ]
+    },
+    {
+      "id": "yonetmelik:8043:m:69",
+      "maddeKind": "madde",
+      "maddeNo": "69",
+      "heading": "Madde 69",
+      "text": "(Başlığıyla birlikte değişik:RG-16/4/2013-28620)\n Esas kaydı; icra mahkemesine intikal eden her türlü dava, şikâyet, itirazın kaldırılması, konkordato ve bu nitelikteki diğer işlerin tutulduğu kayıttır.\n Bu kayıtta; sıra numarası, icra ve iflâs dairesi veya Cumhuriyet savcılığı esas numarası, alacaklının veya şikâyetçinin adı, soyadı ve yerleşim yerindeki adresi, borçlu veya sanığın adı, soyadı ve yerleşim yerindeki adresi, evrakın geldiği tarih, davanın türü, hükmün özeti, tarih ve numarası, yoklukta verilen hükmün tebliğ tarihi, dosyanın bölge adliye mahkemesine veya Yargıtay’a gönderildiği ve geldiği tarih, istinaf ve temyiz sonucu, ilâm ve fişin Cumhuriyet savcılığına verildiği tarih, ilâmat kayıt numarası; harç tahsil müzekkeresinin tarih ve numarası ile düşünceler sütunları yer alır.\n Sözü edilen kayıt icra mahkemesinde hukuk ve ceza davaları için ayrı ayrı tutulur. İcra mahkemesinde ceza davaları için tutulacak kayıtta, her sanık için aynı sıra numarası altında ayrı ayrı sütunlar açılır.\n İcra mahkemesine gelen iş miktarını kolayca bilmek ve numara değişikliği yüzünden çıkan karışıklıkları önlemek için, yıl sonunda sonuçlanmamış dosyalar yeni yıl kaydına devir suretiyle kaydedilmez.\n Yıl sonunda, gelen işlerden ne kadarının karara bağlandığı ve ne kadarının yeni yıla devredilmiş olduğu, toplam olarak yazılmakla beraber, devredilen dosyaların sıra numaraları UYAP’ta bir cetvel halinde rapor olarak gösterilir.\n İcra ceza mahkemelerinden verilip, kanun yoluna başvurulmaksızın kesinleşen ve mahkûmiyete ilişkin ilâmların en fazla bir hafta, temyiz edilen ilâmların Yargıtay'dan onanarak gelmesini izleyen bir hafta içerisinde infaza verilmesi zorunludur. İlâm ve eklerinin infaz için Cumhuriyet savcılığına verildiği tarih, esas kaydının özel sütununa işlenir. Cumhuriyet savcılığına her hükümlü için ayrı ayrı ilâm verilmesi zorunlu olduğu gibi, bir hükümlü hem hürriyeti bağlayıcı ceza ve hem para cezasına mahkûm olmuşsa her ceza için ayrı ilâm verilir.",
+      "preview": "(Başlığıyla birlikte değişik:RG-16/4/2013-28620) Esas kaydı; icra mahkemesine intikal eden her türlü dava, şikâyet, itirazın kaldırılması, k…",
+      "kitap": null,
+      "kisim": null,
+      "bolum": "YEDİNCİ BÖLÜM · Basılı Kâğıtların Düzenlenme Amacı ve Kullanma Biçimi",
+      "ayirim": null,
+      "maddeBaslik": "Esas kaydı",
+      "sectionPath": [
+        "YEDİNCİ BÖLÜM · Basılı Kâğıtların Düzenlenme Amacı ve Kullanma Biçimi",
+        "Esas kaydı"
+      ]
+    },
+    {
+      "id": "yonetmelik:8043:m:70",
+      "maddeKind": "madde",
+      "maddeNo": "70",
+      "heading": "Madde 70",
+      "text": "(Başlığıyla birlikte değişik:RG-16/4/2013-28620)\n Değişik işler ve talimat kaydı; İcra ve İflâs Kanununun 76 ncı maddesi ve 21/7/1953 tarihli ve 6183 sayılı Amme Alacaklarının Tahsil Usulü Hakkında Kanun uyarınca hapsen tazyik kararı verilmesi istemine ilişkin taleplerle başka yer icra mahkemesinden gelen talimat evraklarının işlendiği kayıttır.\n Bu kayıtta; sıra numarası, müracaat veya tevdi tarihi, alacaklı ve varsa vekilinin adı, soyadı, yerleşim yerindeki adresi, borçlunun (mükellefin) varsa kanuni temsilcisinin adı, soyadı ve yerleşim yerindeki adresi, talebin niteliği, türü ve miktarı, talimat veya belgeyi gönderen mahkeme, makam veya merciin adı ve belgenin tarihi, numarası, işlemin sonucu, kararın özeti, hapsen tazyik kararının infaz için tevdi olunduğu tarih ve düşünceler sütunları yer alır.\n Bu kayda geçirilen talepler doğrultusunda yazılacak tezkerelere, talebin kayıt numarası verilir. Bu tür yazılar ayrıca muhabere kaydına işlenmez.",
+      "preview": "(Başlığıyla birlikte değişik:RG-16/4/2013-28620) Değişik işler ve talimat kaydı; İcra ve İflâs Kanununun 76 ncı maddesi ve 21/7/1953 tarihli…",
+      "kitap": null,
+      "kisim": null,
+      "bolum": "YEDİNCİ BÖLÜM · Basılı Kâğıtların Düzenlenme Amacı ve Kullanma Biçimi",
+      "ayirim": null,
+      "maddeBaslik": "Değişik işler ve talimat kaydı",
+      "sectionPath": [
+        "YEDİNCİ BÖLÜM · Basılı Kâğıtların Düzenlenme Amacı ve Kullanma Biçimi",
+        "Değişik işler ve talimat kaydı"
+      ]
+    },
+    {
+      "id": "yonetmelik:8043:m:71",
+      "maddeKind": "madde",
+      "maddeNo": "71",
+      "heading": "Madde 71",
+      "text": "(Başlığıyla birlikte değişik:RG-16/4/2013-28620)\n Muhabere kaydı; icra mahkemelerinde kullanılan diğer kayıtlara işlenmesi gerekmeyen ancak icra mahkemesince yazılan veya icra mahkemesine gelen evrakın işlendiği kayıttır.\n Bu kayıtta; sıra numarası, belgenin tarihi ve numarası, gönderilen veya gönderen daire, geliş veya sevk tarihi, belgenin özeti ve düşünceler sütunları yer alır.\n Esas, değişik işler ve talimat kaydına kayıtlı işlere ait yazışmalar ayrıca bu kayda geçirilmez, zimmet kaydına kaydedilmekle yetinilir.",
+      "preview": "(Başlığıyla birlikte değişik:RG-16/4/2013-28620) Muhabere kaydı; icra mahkemelerinde kullanılan diğer kayıtlara işlenmesi gerekmeyen ancak i…",
+      "kitap": null,
+      "kisim": null,
+      "bolum": "YEDİNCİ BÖLÜM · Basılı Kâğıtların Düzenlenme Amacı ve Kullanma Biçimi",
+      "ayirim": null,
+      "maddeBaslik": "Muhabere kaydı",
+      "sectionPath": [
+        "YEDİNCİ BÖLÜM · Basılı Kâğıtların Düzenlenme Amacı ve Kullanma Biçimi",
+        "Muhabere kaydı"
+      ]
+    },
+    {
+      "id": "yonetmelik:8043:m:72",
+      "maddeKind": "madde",
+      "maddeNo": "72",
+      "heading": "Madde 72",
+      "text": "(Başlığıyla birlikte değişik:RG-16/4/2013-28620)\n Kanun yoluna başvuru kaydı; kanun yoluna başvurulması halinde, ilgilileri tarafından verilen lâyiha veya dilekçelerin işlendiği kayıttır.\n Bu kayıtta; sıra numarası, belge numarası, geldiği tarih, dilekçe veya lâyiha tarihi, kanun yoluna başvuranın adı, soyadı ve yerleşim yerindeki adresi, aleyhine kanun yoluna başvurulanın adı, soyadı ve yerleşim yerindeki adresi, davanın türü, kanun yoluna başvurulan ilâmın tarihi ve numarası, kanun yoluna başvurma koşullarının yerine getirilip getirilmediği, ilâm ve evrakın gönderilmek üzere Cumhuriyet savcılığına veya ait olduğu mercie tevdi tarihi, ilâmın aleyhine kanun yoluna başvurulana tebliğ tarihi, kanun yolu sonucunun özeti ve düşünceler sütunları yer alır.",
+      "preview": "(Başlığıyla birlikte değişik:RG-16/4/2013-28620) Kanun yoluna başvuru kaydı; kanun yoluna başvurulması halinde, ilgilileri tarafından verile…",
+      "kitap": null,
+      "kisim": null,
+      "bolum": "YEDİNCİ BÖLÜM · Basılı Kâğıtların Düzenlenme Amacı ve Kullanma Biçimi",
+      "ayirim": null,
+      "maddeBaslik": "Kanun yoluna başvuru kaydı",
+      "sectionPath": [
+        "YEDİNCİ BÖLÜM · Basılı Kâğıtların Düzenlenme Amacı ve Kullanma Biçimi",
+        "Kanun yoluna başvuru kaydı"
+      ]
+    },
+    {
+      "id": "yonetmelik:8043:m:73",
+      "maddeKind": "madde",
+      "maddeNo": "73",
+      "heading": "Madde 73",
+      "text": "(Başlığıyla birlikte değişik:RG-16/4/2013-28620)\n Duruşma günleri kaydı; dava, hakkında duruşma yapılan itiraz ve şikâyetlerin görüleceği gün ve saatin işlendiği kayıttır.\n Bu kayıtta; sıra numarası, dosya numarası, alacaklı (müşteki) ve varsa vekilinin, borçlu (sanık) ve varsa kanuni temsilcisinin adı, soyadı, duruşmanın (veya murafaanın) yapılacağı gün ve saat, ertelendiği gün ve düşünceler sütunları yer alır.",
+      "preview": "(Başlığıyla birlikte değişik:RG-16/4/2013-28620) Duruşma günleri kaydı; dava, hakkında duruşma yapılan itiraz ve şikâyetlerin görüleceği gün…",
+      "kitap": null,
+      "kisim": null,
+      "bolum": "YEDİNCİ BÖLÜM · Basılı Kâğıtların Düzenlenme Amacı ve Kullanma Biçimi",
+      "ayirim": null,
+      "maddeBaslik": "Duruşma günleri kaydı",
+      "sectionPath": [
+        "YEDİNCİ BÖLÜM · Basılı Kâğıtların Düzenlenme Amacı ve Kullanma Biçimi",
+        "Duruşma günleri kaydı"
+      ]
+    },
+    {
+      "id": "yonetmelik:8043:m:74",
+      "maddeKind": "madde",
+      "maddeNo": "74",
+      "heading": "Madde 74",
+      "text": "(Başlığıyla birlikte değişik:RG-16/4/2013-28620)\n Zimmet kaydı; icra mahkemelerinden, mahkemelere, muhtelif daire ve mercilere gönderilecek evrakın işlendiği kayıttır.\n Bu kayıtta; sıra numarası, dosya numarası, belgenin nereye gönderildiği ve ne tarihte alındığı, evrakı alanın adı, soyadı, imzası ve düşünceler sütunları yer alır.\n Elektronik ortamda tutulan kaydın çıktısı alınır, ilgili sütun imzalatıldıktan sonra ayrı bir kartonda saklanır.",
+      "preview": "(Başlığıyla birlikte değişik:RG-16/4/2013-28620) Zimmet kaydı; icra mahkemelerinden, mahkemelere, muhtelif daire ve mercilere gönderilecek e…",
+      "kitap": null,
+      "kisim": null,
+      "bolum": "YEDİNCİ BÖLÜM · Basılı Kâğıtların Düzenlenme Amacı ve Kullanma Biçimi",
+      "ayirim": null,
+      "maddeBaslik": "Zimmet kaydı",
+      "sectionPath": [
+        "YEDİNCİ BÖLÜM · Basılı Kâğıtların Düzenlenme Amacı ve Kullanma Biçimi",
+        "Zimmet kaydı"
+      ]
+    },
+    {
+      "id": "yonetmelik:8043:m:75",
+      "maddeKind": "madde",
+      "maddeNo": "75",
+      "heading": "Madde 75",
+      "text": "(Başlığıyla birlikte değişik:RG-16/4/2013-28620)\n Posta mutemet kaydı; icra mahkemelerine havale yoluyla gelen paralara ilişkin bilgilerin tutulduğu kayıttır.\n Bu kayıtta; paranın geldiği yer, havale numarası, tarihi, dosya numarası, gönderenin adı, soyadı, paranın miktarı ile alacak olanın adı ve soyadı sütunları yer alır.",
+      "preview": "(Başlığıyla birlikte değişik:RG-16/4/2013-28620) Posta mutemet kaydı; icra mahkemelerine havale yoluyla gelen paralara ilişkin bilgilerin tu…",
+      "kitap": null,
+      "kisim": null,
+      "bolum": "YEDİNCİ BÖLÜM · Basılı Kâğıtların Düzenlenme Amacı ve Kullanma Biçimi",
+      "ayirim": null,
+      "maddeBaslik": "Posta mutemet kaydı",
+      "sectionPath": [
+        "YEDİNCİ BÖLÜM · Basılı Kâğıtların Düzenlenme Amacı ve Kullanma Biçimi",
+        "Posta mutemet kaydı"
+      ]
+    },
+    {
+      "id": "yonetmelik:8043:m:76",
+      "maddeKind": "madde",
+      "maddeNo": "76",
+      "heading": "Madde 76",
+      "text": "(Başlığıyla birlikte değişik:RG-16/4/2013-28620)\n Disiplin soruşturması kaydı; icra ve iflâs dairelerinde görev yapan personel hakkında, disiplin amiri tarafından yapılan soruşturmalarının işlendiği kayıttır.\n Bu kayıtta; sıra numarası, müşteki veya varsa kanuni temsilcisinin adı, soyadı, haklarında soruşturma yapılan personelin adı, soyadı, görevli olduğu daire, şikâyet tarihi, şikâyetin konusu, karar özeti ve numarası ile düşünceler sütunları yer alır.\n Disiplin soruşturması sonucu verilen kararlar, özel bir kartonda sıra numarası altında saklanır.",
+      "preview": "(Başlığıyla birlikte değişik:RG-16/4/2013-28620) Disiplin soruşturması kaydı; icra ve iflâs dairelerinde görev yapan personel hakkında, disi…",
+      "kitap": null,
+      "kisim": null,
+      "bolum": "YEDİNCİ BÖLÜM · Basılı Kâğıtların Düzenlenme Amacı ve Kullanma Biçimi",
+      "ayirim": null,
+      "maddeBaslik": "Disiplin soruşturması kaydı",
+      "sectionPath": [
+        "YEDİNCİ BÖLÜM · Basılı Kâğıtların Düzenlenme Amacı ve Kullanma Biçimi",
+        "Disiplin soruşturması kaydı"
+      ]
+    },
+    {
+      "id": "yonetmelik:8043:m:77",
+      "maddeKind": "madde",
+      "maddeNo": "77",
+      "heading": "Madde 77",
+      "text": "(Başlığıyla birlikte değişik:RG-16/4/2013-28620)\n Ceza infaz kaydı; icra mahkemelerinden Cumhuriyet savcılığına gönderilen mahkûmiyeti içeren kararların işlendiği kayıttır.\n Bu kayıtta; sıra numarası, esas ve karar numarası, sanığın adı, soyadı, karar tarihi ve özeti, hükmü veren hâkimin adı, soyadı ve sicil numarası, kararın kesinleşme tarihi, Cumhuriyet savcılığına verildiği tarih, belgeyi alanın adı, soyadı ve imzası ile düşünceler sütunları yer alır.",
+      "preview": "(Başlığıyla birlikte değişik:RG-16/4/2013-28620) Ceza infaz kaydı; icra mahkemelerinden Cumhuriyet savcılığına gönderilen mahkûmiyeti içeren…",
+      "kitap": null,
+      "kisim": null,
+      "bolum": "YEDİNCİ BÖLÜM · Basılı Kâğıtların Düzenlenme Amacı ve Kullanma Biçimi",
+      "ayirim": null,
+      "maddeBaslik": "Ceza infaz kaydı",
+      "sectionPath": [
+        "YEDİNCİ BÖLÜM · Basılı Kâğıtların Düzenlenme Amacı ve Kullanma Biçimi",
+        "Ceza infaz kaydı"
+      ]
+    },
+    {
+      "id": "yonetmelik:8043:m:78",
+      "maddeKind": "madde",
+      "maddeNo": "78",
+      "heading": "Madde 78",
+      "text": "(Başlığıyla birlikte değişik:RG-16/4/2013-28620)\n İcra mahkemelerinde, 68 inci maddede yazılı kayıtlardan başka kasa kaydı (kanun yoluna başvuru-sevk giderleri için avans olarak alınan paralar da bu kayda işlenir) ile kıymetli evrak ve değerli şeylere özgü kayıt tutulur.\n\n ÜÇÜNCÜ BÖLÜM\n (Değişik ibare:RG-16/4/2013-28620) Kayıtlara Ait Ortak Hükümler",
+      "preview": "(Başlığıyla birlikte değişik:RG-16/4/2013-28620) İcra mahkemelerinde, 68 inci maddede yazılı kayıtlardan başka kasa kaydı (kanun yoluna başv…",
+      "kitap": null,
+      "kisim": null,
+      "bolum": "YEDİNCİ BÖLÜM · Basılı Kâğıtların Düzenlenme Amacı ve Kullanma Biçimi",
+      "ayirim": null,
+      "maddeBaslik": "Diğer kayıtlar",
+      "sectionPath": [
+        "YEDİNCİ BÖLÜM · Basılı Kâğıtların Düzenlenme Amacı ve Kullanma Biçimi",
+        "Diğer kayıtlar"
+      ]
+    },
+    {
+      "id": "yonetmelik:8043:m:79",
+      "maddeKind": "madde",
+      "maddeNo": "79",
+      "heading": "Madde 79",
+      "text": "(Başlığıyla birlikte değişik:RG-16/4/2013-28620)\n İcra mahkemesinde hukuk ve cezaya ilişkin olmak üzere sözü geçen kayıtlar ayrı ayrı tutulur.",
+      "preview": "(Başlığıyla birlikte değişik:RG-16/4/2013-28620) İcra mahkemesinde hukuk ve cezaya ilişkin olmak üzere sözü geçen kayıtlar ayrı ayrı tutulur…",
+      "kitap": null,
+      "kisim": null,
+      "bolum": "YEDİNCİ BÖLÜM · Basılı Kâğıtların Düzenlenme Amacı ve Kullanma Biçimi",
+      "ayirim": null,
+      "maddeBaslik": "Kayıt tutma usulü",
+      "sectionPath": [
+        "YEDİNCİ BÖLÜM · Basılı Kâğıtların Düzenlenme Amacı ve Kullanma Biçimi",
+        "Kayıt tutma usulü"
+      ]
+    },
+    {
+      "id": "yonetmelik:8043:m:80",
+      "maddeKind": "madde",
+      "maddeNo": "80",
+      "heading": "Madde 80",
+      "text": "(Mülga:RG-16/4/2013-28620)",
+      "preview": "(Mülga:RG-16/4/2013-28620)",
+      "kitap": null,
+      "kisim": null,
+      "bolum": "YEDİNCİ BÖLÜM · Basılı Kâğıtların Düzenlenme Amacı ve Kullanma Biçimi",
+      "ayirim": null,
+      "maddeBaslik": "Defterlerin numaralanması ve onayı",
+      "sectionPath": [
+        "YEDİNCİ BÖLÜM · Basılı Kâğıtların Düzenlenme Amacı ve Kullanma Biçimi",
+        "Defterlerin numaralanması ve onayı"
+      ]
+    },
+    {
+      "id": "yonetmelik:8043:m:81",
+      "maddeKind": "madde",
+      "maddeNo": "81",
+      "heading": "Madde 81",
+      "text": "(Mülga:RG-16/4/2013-28620)",
+      "preview": "(Mülga:RG-16/4/2013-28620)",
+      "kitap": null,
+      "kisim": null,
+      "bolum": "YEDİNCİ BÖLÜM · Basılı Kâğıtların Düzenlenme Amacı ve Kullanma Biçimi",
+      "ayirim": null,
+      "maddeBaslik": "Defter kayıtlarının nasıl işleneceği",
+      "sectionPath": [
+        "YEDİNCİ BÖLÜM · Basılı Kâğıtların Düzenlenme Amacı ve Kullanma Biçimi",
+        "Defter kayıtlarının nasıl işleneceği"
+      ]
+    },
+    {
+      "id": "yonetmelik:8043:m:82",
+      "maddeKind": "madde",
+      "maddeNo": "82",
+      "heading": "Madde 82",
+      "text": "(Değişik:RG-16/4/2013-28620)\n İcra mahkemesinde her bir iş için UYAP’ta dosya tutulur. Duruşmalar için 12/1/2011 tarihli ve 6100 sayılı Hukuk Muhakemeleri Kanununa göre tutanak düzenlenmesi ve gerek şikâyet, gerek itiraz üzerine verilecek kararların anılan Kanunun 297 nci maddesinde yazılı hususları içermesi gerekir. Ayrıca, aynı Kanunun 298, 299, 301 inci maddeleri hükümleri burada da uygulanır.",
+      "preview": "(Değişik:RG-16/4/2013-28620) İcra mahkemesinde her bir iş için UYAP’ta dosya tutulur. Duruşmalar için 12/1/2011 tarihli ve 6100 sayılı Hukuk…",
+      "kitap": null,
+      "kisim": null,
+      "bolum": "DÖRDÜNCÜ BÖLÜM · Dosyalar",
+      "ayirim": null,
+      "maddeBaslik": "Dosya usulü",
+      "sectionPath": [
+        "DÖRDÜNCÜ BÖLÜM · Dosyalar",
+        "Dosya usulü"
+      ]
+    },
+    {
+      "id": "yonetmelik:8043:m:83",
+      "maddeKind": "madde",
+      "maddeNo": "83",
+      "heading": "Madde 83",
+      "text": "İcra mahkemesinde aşağıda gösterilen basılı kâğıtların kullanılması zorunludur:\n a) Davetiye tebliğ kâğıdı, (Örnek No. 45)\n b) Tebliğ mazbatalı zarf, (Davetiyeli), (Örnek No. 41)\n c) Telgrafla tebliğ zarfı, (Örnek No. 42)\n d) Postaya verilen taahhütlü maddelerle telgraflara ait tevdi listesi, (Örnek No. 43)\n e) İhzar müzekkeresi (Tanıklar için), (Örnek No.46)\n f) İhzar müzekkeresi (Sanıklar için), (Örnek No.47)\n g) Harç tahsil müzekkeresi, (Örnek No. 40)\n h) Kıymetli evrak ve değerli şeylerin alındı makbuzu. (Örnek No. 16)",
+      "preview": "İcra mahkemesinde aşağıda gösterilen basılı kâğıtların kullanılması zorunludur: a) Davetiye tebliğ kâğıdı, (Örnek No. 45) b) Tebliğ mazbatal…",
+      "kitap": null,
+      "kisim": null,
+      "bolum": "BEŞİNCİ BÖLÜM · Basılı Kâğıtlar",
+      "ayirim": null,
+      "maddeBaslik": "Kullanılması zorunlu olan basılı kâğıtlar",
+      "sectionPath": [
+        "BEŞİNCİ BÖLÜM · Basılı Kâğıtlar",
+        "Kullanılması zorunlu olan basılı kâğıtlar"
+      ]
+    },
+    {
+      "id": "yonetmelik:8043:m:84",
+      "maddeKind": "madde",
+      "maddeNo": "84",
+      "heading": "Madde 84",
+      "text": "Davetiye tebliğ kâğıdı, taraflara ve tanıklara, bilirkişilere duruşma gününün bildirilmesine ilişkin bir kâğıt olup, icra mahkemesinin adı; dosya numarası; muhatabın adı, soyadı, açık adresi; tebliğin veya davanın konusu; tebliğ edilecek husus; tebliğ isteyenin adı ve soyadı ve unvanı; kanunlara göre yer alması gereken diğer hususlar ile tebliğ memurunun adı, soyadı, imzası; tebliğin yapılma biçimini belgelendiren mazbata sütunlarını içerir.\n İcra mahkemesi hukuk bölümünde taraflar adına çıkarılan davetiye tebliğ kâğıdının her iki sayfasına ayrı ayrı, 1086 sayılı Kanunun 509 ve 510 uncu maddeleri hükümlerinin uygulanacağı yazılır.",
+      "preview": "Davetiye tebliğ kâğıdı, taraflara ve tanıklara, bilirkişilere duruşma gününün bildirilmesine ilişkin bir kâğıt olup, icra mahkemesinin adı;…",
+      "kitap": null,
+      "kisim": null,
+      "bolum": "ALTINCI BÖLÜM · Basılı Kâğıtların Düzenlenme Amacı ve Kullanma Biçimi",
+      "ayirim": null,
+      "maddeBaslik": "Davetiye tebliğ kâğıdı",
+      "sectionPath": [
+        "ALTINCI BÖLÜM · Basılı Kâğıtların Düzenlenme Amacı ve Kullanma Biçimi",
+        "Davetiye tebliğ kâğıdı"
+      ]
+    },
+    {
+      "id": "yonetmelik:8043:m:85",
+      "maddeKind": "madde",
+      "maddeNo": "85",
+      "heading": "Madde 85",
+      "text": "65 inci maddede belirtilen tebliğ mazbatalı zarfın icra mahkemesinde de kullanılması zorunludur. Bu zarf ayrıca duruşma günü tebliğ ediliyorsa 1086 sayılı Kanunun 509 ve 510 uncu maddelerindeki kayıtları da içerir.",
+      "preview": "65 inci maddede belirtilen tebliğ mazbatalı zarfın icra mahkemesinde de kullanılması zorunludur. Bu zarf ayrıca duruşma günü tebliğ ediliyor…",
+      "kitap": null,
+      "kisim": null,
+      "bolum": "ALTINCI BÖLÜM · Basılı Kâğıtların Düzenlenme Amacı ve Kullanma Biçimi",
+      "ayirim": null,
+      "maddeBaslik": "Tebliğ mazbatalı zarf",
+      "sectionPath": [
+        "ALTINCI BÖLÜM · Basılı Kâğıtların Düzenlenme Amacı ve Kullanma Biçimi",
+        "Tebliğ mazbatalı zarf"
+      ]
+    },
+    {
+      "id": "yonetmelik:8043:m:86",
+      "maddeKind": "madde",
+      "maddeNo": "86",
+      "heading": "Madde 86",
+      "text": "66 ncı maddede belirtilen telgrafla tebliğ zarfının icra mahkemesinde de kullanılması zorunludur. Zarf taraflara gönderiliyor ve duruşma günü bildiriliyorsa ve 1086 sayılı Kanunun 509 ve 510 uncu maddelerindeki kayıtları da içermelidir.",
+      "preview": "66 ncı maddede belirtilen telgrafla tebliğ zarfının icra mahkemesinde de kullanılması zorunludur. Zarf taraflara gönderiliyor ve duruşma gün…",
+      "kitap": null,
+      "kisim": null,
+      "bolum": "ALTINCI BÖLÜM · Basılı Kâğıtların Düzenlenme Amacı ve Kullanma Biçimi",
+      "ayirim": null,
+      "maddeBaslik": "Telgrafla tebliğ zarfı",
+      "sectionPath": [
+        "ALTINCI BÖLÜM · Basılı Kâğıtların Düzenlenme Amacı ve Kullanma Biçimi",
+        "Telgrafla tebliğ zarfı"
+      ]
+    },
+    {
+      "id": "yonetmelik:8043:m:87",
+      "maddeKind": "madde",
+      "maddeNo": "87",
+      "heading": "Madde 87",
+      "text": "İcra mahkemesinde de, 67 nci maddede belirtilen postaya verilen taahhütlü maddeler ile telgraflar için, adalet dairelerinde kullanılmakta olan postaya verilen taahhütlü maddelere özgü zimmet (Değişik ibare:RG-16/4/2013-28620) kaydı ve tevdi listesinin kullanılması zorunludur.",
+      "preview": "İcra mahkemesinde de, 67 nci maddede belirtilen postaya verilen taahhütlü maddeler ile telgraflar için, adalet dairelerinde kullanılmakta ol…",
+      "kitap": null,
+      "kisim": null,
+      "bolum": "ALTINCI BÖLÜM · Basılı Kâğıtların Düzenlenme Amacı ve Kullanma Biçimi",
+      "ayirim": null,
+      "maddeBaslik": "Postaya verilen taahhütlü maddelerle telgraflara ilişkin tevdi listesi",
+      "sectionPath": [
+        "ALTINCI BÖLÜM · Basılı Kâğıtların Düzenlenme Amacı ve Kullanma Biçimi",
+        "Postaya verilen taahhütlü maddelerle telgraflara ilişkin tevdi listesi"
+      ]
+    },
+    {
+      "id": "yonetmelik:8043:m:88",
+      "maddeKind": "madde",
+      "maddeNo": "88",
+      "heading": "Madde 88",
+      "text": "İhzar müzekkeresi genel olarak, davetiye tebliğine rağmen duruşmaya gelmeyen tanıkların zorla getirilmesini sağlamak üzere kullanılan bir müzekkere olup, ihzar kararını veren icra mahkemesinin adı; dosya numarası; tanığın adı ve soyadı, yerleşim yeri ve işyeri adresi; çağrıldığı davanın davacısı veya sanığı; suçun türü; ihzar kararı verilmesi sebebi; duruşma günü ve saati; düzenlenme tarihi; hâkim ve kâtibin imzaları ve mahkeme mührü sütunlarını içerir.",
+      "preview": "İhzar müzekkeresi genel olarak, davetiye tebliğine rağmen duruşmaya gelmeyen tanıkların zorla getirilmesini sağlamak üzere kullanılan bir mü…",
+      "kitap": null,
+      "kisim": null,
+      "bolum": "ALTINCI BÖLÜM · Basılı Kâğıtların Düzenlenme Amacı ve Kullanma Biçimi",
+      "ayirim": null,
+      "maddeBaslik": "İhzar müzekkeresi (tanıklar için)",
+      "sectionPath": [
+        "ALTINCI BÖLÜM · Basılı Kâğıtların Düzenlenme Amacı ve Kullanma Biçimi",
+        "İhzar müzekkeresi (tanıklar için)"
+      ]
+    },
+    {
+      "id": "yonetmelik:8043:m:89",
+      "maddeKind": "madde",
+      "maddeNo": "89",
+      "heading": "Madde 89",
+      "text": "İhzar müzekkeresi, genel olarak davetiye tebliğine rağmen duruşmaya gelmeyen sanıkların zorla getirilmesini sağlamak üzere kullanılan bir müzekkere olup, ihzar kararını veren icra mahkemesinin adı; sanığın adı, soyadı, yerleşim yeri ve işyeri adresi; dosya numarası; çağrıldığı davanın davacısı; suçun türü; ihzar kararı verilmesi nedeni; duruşma günü ve saati; müzekkerenin düzenlenme tarihi; hâkim ve kâtibin imzaları ve mahkeme mührü sütunlarını içerir.",
+      "preview": "İhzar müzekkeresi, genel olarak davetiye tebliğine rağmen duruşmaya gelmeyen sanıkların zorla getirilmesini sağlamak üzere kullanılan bir mü…",
+      "kitap": null,
+      "kisim": null,
+      "bolum": "ALTINCI BÖLÜM · Basılı Kâğıtların Düzenlenme Amacı ve Kullanma Biçimi",
+      "ayirim": null,
+      "maddeBaslik": "İhzar müzekkeresi (sanıklar için)",
+      "sectionPath": [
+        "ALTINCI BÖLÜM · Basılı Kâğıtların Düzenlenme Amacı ve Kullanma Biçimi",
+        "İhzar müzekkeresi (sanıklar için)"
+      ]
+    },
+    {
+      "id": "yonetmelik:8043:m:90",
+      "maddeKind": "madde",
+      "maddeNo": "90",
+      "heading": "Madde 90",
+      "text": "Harç tahsil müzekkeresi 492 sayılı Kanunun 28 ve 130 uncu maddeleri uyarınca düzenlenecek bir müzekkeredir. Bu müzekkere, dosya numarası; icra mahkemesinin adı; yükümlünün adı, soyadı, son yerleşim yeri adresi; harcın kesinleştiği tarih; harcın türü ve niteliği, miktarı; hangi yer maliye dairesine hitaben yazıldığı; harcın kanunî dayanağı; tarih ve hâkimin imza ve mührü sütunlarını içerir.\n Bu müzekkerenin tarih ve sayısı, esas (Değişik ibare:RG-16/4/2013-28620) kaydının \"düşünceler\" sütununa işlenir ve müzekkerenin bir örneği dosyasında saklanır, bir örneği özel kartonuna konulur, diğer örneği de zimmet (Değişik ibare:RG-16/4/2013-28620) kaydına işlenerek maliyeye verilir.",
+      "preview": "Harç tahsil müzekkeresi 492 sayılı Kanunun 28 ve 130 uncu maddeleri uyarınca düzenlenecek bir müzekkeredir. Bu müzekkere, dosya numarası; ic…",
+      "kitap": null,
+      "kisim": null,
+      "bolum": "ALTINCI BÖLÜM · Basılı Kâğıtların Düzenlenme Amacı ve Kullanma Biçimi",
+      "ayirim": null,
+      "maddeBaslik": "Harç tahsil müzekkeresi",
+      "sectionPath": [
+        "ALTINCI BÖLÜM · Basılı Kâğıtların Düzenlenme Amacı ve Kullanma Biçimi",
+        "Harç tahsil müzekkeresi"
+      ]
+    },
+    {
+      "id": "yonetmelik:8043:m:91",
+      "maddeKind": "madde",
+      "maddeNo": "91",
+      "heading": "Madde 91",
+      "text": "Kıymetli evrak ve değerli şeylerin alındı makbuzu hakkındaki 38 inci madde hükmü, icra mahkemesinde de icra müdürü veya yardımcısı ibaresi yerine yazı işleri müdürü ikamesi suretiyle aynen uygulanır.\n\n (Değişik ibare:RG-16/4/2013-28620) DÖRDÜNCÜ KISIM",
+      "preview": "Kıymetli evrak ve değerli şeylerin alındı makbuzu hakkındaki 38 inci madde hükmü, icra mahkemesinde de icra müdürü veya yardımcısı ibaresi y…",
+      "kitap": null,
+      "kisim": null,
+      "bolum": "ALTINCI BÖLÜM · Basılı Kâğıtların Düzenlenme Amacı ve Kullanma Biçimi",
+      "ayirim": null,
+      "maddeBaslik": "Kıymetli evrak ve değerli şeylerin alındı makbuzu",
+      "sectionPath": [
+        "ALTINCI BÖLÜM · Basılı Kâğıtların Düzenlenme Amacı ve Kullanma Biçimi",
+        "Kıymetli evrak ve değerli şeylerin alındı makbuzu"
+      ]
+    },
+    {
+      "id": "yonetmelik:8043:m:92",
+      "maddeKind": "madde",
+      "maddeNo": "92",
+      "heading": "Madde 92",
+      "text": "İcra ve İflas Kanunu uyarınca, icra ve iflâs daireleri aldıkları parayı ve değerli şeyleri icra ve iflâs dairelerinin bulunduğu yerler de gözönünde tutularak, ülke çapında teşkilâtlanmış bankalardan Adalet Bakanlığınca uygun görülenlere tevdi ederler.\n Bakanlığın izni alınmadıkça, vadeli hesap açtırılamayacağı gibi tahvil de alınamaz.\n (Ek fıkra:RG-16/4/2013-28620) İcra ve iflâs dairelerine yapılacak her türlü nakdî ödeme, Adalet Bakanlığı tarafından uygun görülecek bankalarda icra ve iflâs dairesi adına açılan hesaba yapılır.\n (Ek fıkra:RG-16/4/2013-28620) Haciz sırasında, borçlu veya üçüncü kişiler tarafından yapılan ödeme nedeniyle tahsil edilen paralar, en geç tahsilâtın yapıldığı günü takip eden ilk iş günü çalışma saati sonuna kadar banka hesabına yatırılmak üzere icra veya mahkeme kasalarında muhafaza edilir.\n (Ek fıkra:RG-16/4/2013-28620) İcra ve iflâs dairelerince yapılması gereken her türlü nakdî ödeme, ilgilisinin gösterdiği banka hesabına aktarılmak üzere, icra müdürü tarafından resen bankaya verilecek talimat gereği yapılır. Talimat, paranın icra ve iflâs dairesi hesabına yatırılmasını takip eden en geç üç iş günü sonuna kadar verilir.",
+      "preview": "İcra ve İflas Kanunu uyarınca, icra ve iflâs daireleri aldıkları parayı ve değerli şeyleri icra ve iflâs dairelerinin bulunduğu yerler de gö…",
+      "kitap": null,
+      "kisim": null,
+      "bolum": "ALTINCI BÖLÜM · Basılı Kâğıtların Düzenlenme Amacı ve Kullanma Biçimi",
+      "ayirim": null,
+      "maddeBaslik": "Para ve değerli şeylerin tevdi edileceği bankalar",
+      "sectionPath": [
+        "ALTINCI BÖLÜM · Basılı Kâğıtların Düzenlenme Amacı ve Kullanma Biçimi",
+        "Para ve değerli şeylerin tevdi edileceği bankalar"
+      ]
+    },
+    {
+      "id": "yonetmelik:8043:m:93",
+      "maddeKind": "madde",
+      "maddeNo": "93",
+      "heading": "Madde 93",
+      "text": "İcra mahkemelerince her ne suretle olursa olsun alınan paraların günlük ihtiyaçtan fazlası 92 nci madde uyarınca belirlenecek bankalara yatırılır.\n Değerli şeyler kasada veya bankada muhafaza edilir.\n\n (Değişik ibare:RG-16/4/2013-28620) BEŞİNCİ KISIM",
+      "preview": "İcra mahkemelerince her ne suretle olursa olsun alınan paraların günlük ihtiyaçtan fazlası 92 nci madde uyarınca belirlenecek bankalara yatı…",
+      "kitap": null,
+      "kisim": null,
+      "bolum": "ALTINCI BÖLÜM · Basılı Kâğıtların Düzenlenme Amacı ve Kullanma Biçimi",
+      "ayirim": null,
+      "maddeBaslik": "İcra mahkemesinin aldığı para ve değerli şeyler",
+      "sectionPath": [
+        "ALTINCI BÖLÜM · Basılı Kâğıtların Düzenlenme Amacı ve Kullanma Biçimi",
+        "İcra mahkemesinin aldığı para ve değerli şeyler"
+      ]
+    },
+    {
+      "id": "yonetmelik:8043:m:94",
+      "maddeKind": "madde",
+      "maddeNo": "94",
+      "heading": "Madde 94",
+      "text": "(Değişik birinci fıkra:RG-16/4/2013-28620) İcra daireleri, yapılan takipler sonucunda alacağının tamamını alamayan alacaklılara verdikleri aciz vesikalarının bir nüshasını, bulundukları il merkezinde Adalet Bakanlığınca aciz vesikası sicili tutmakla görevlendirilen icra dairesine elektronik ortamda gönderir. Aciz vesikası, sicili tutan birimce elektronik ortamda sorgulanıp, görüntülenebilir.\n Borç ödemeden aciz vesikası sicili alenidir. Menfaati bulunan herkes, gerçek veya tüzel bir kişinin sicilde bir kaydı bulunup bulunmadığı ve varsa kapsamı hakkında sözlü veya yazılı bilgi verilmesini sicili tutan icra dairesinden isteyebilir.",
+      "preview": "(Değişik birinci fıkra:RG-16/4/2013-28620) İcra daireleri, yapılan takipler sonucunda alacağının tamamını alamayan alacaklılara verdikleri a…",
+      "kitap": null,
+      "kisim": null,
+      "bolum": "ALTINCI BÖLÜM · Basılı Kâğıtların Düzenlenme Amacı ve Kullanma Biçimi",
+      "ayirim": null,
+      "maddeBaslik": "Borç ödemeden aciz vesikası sicili",
+      "sectionPath": [
+        "ALTINCI BÖLÜM · Basılı Kâğıtların Düzenlenme Amacı ve Kullanma Biçimi",
+        "Borç ödemeden aciz vesikası sicili"
+      ]
+    },
+    {
+      "id": "yonetmelik:8043:m:95",
+      "maddeKind": "madde",
+      "maddeNo": "95",
+      "heading": "Madde 95",
+      "text": "(Değişik:RG-16/4/2013-28620)\n Borç ödemeden aciz vesikası sicili kaydı, elektronik ortamda UYAP’ta yer alan şablona göre tutulur.\n Aciz vesikası sicili kaydının birinci sütunu sıra numarasını, ikinci sütunu aciz vesikasının düzenleme tarihi ile ilgili icra dairesinin dosya numarasını, üçüncü sütunu borçlunun adı, soyadı ve yerleşim yerindeki adresi ile gerçek kişilerin T.C. kimlik numarasını, dördüncü sütunu alacaklının adı, soyadı ve yerleşim yerindeki adresi, beşinci sütunu aciz vesikasının hangi tutarda alacak için verildiği, altıncı sütunu kaydın sicilden terkin nedenini, yedinci sütunu açıklamaları içerir.\n Sicile kaydedilen borçlulardan gerçek kişiler için adı ve soyadı, tüzel kişiler için ticaret unvanı esas alınarak elektronik ortamda sorgulama yapılabilir.",
+      "preview": "(Değişik:RG-16/4/2013-28620) Borç ödemeden aciz vesikası sicili kaydı, elektronik ortamda UYAP’ta yer alan şablona göre tutulur. Aciz vesika…",
+      "kitap": null,
+      "kisim": null,
+      "bolum": "ALTINCI BÖLÜM · Basılı Kâğıtların Düzenlenme Amacı ve Kullanma Biçimi",
+      "ayirim": null,
+      "maddeBaslik": "Sicilin tutulması",
+      "sectionPath": [
+        "ALTINCI BÖLÜM · Basılı Kâğıtların Düzenlenme Amacı ve Kullanma Biçimi",
+        "Sicilin tutulması"
+      ]
+    },
+    {
+      "id": "yonetmelik:8043:m:96",
+      "maddeKind": "madde",
+      "maddeNo": "96",
+      "heading": "Madde 96",
+      "text": "(Mülga:RG-16/4/2013-28620)",
+      "preview": "(Mülga:RG-16/4/2013-28620)",
+      "kitap": null,
+      "kisim": null,
+      "bolum": "ALTINCI BÖLÜM · Basılı Kâğıtların Düzenlenme Amacı ve Kullanma Biçimi",
+      "ayirim": null,
+      "maddeBaslik": "Fihrist defteri",
+      "sectionPath": [
+        "ALTINCI BÖLÜM · Basılı Kâğıtların Düzenlenme Amacı ve Kullanma Biçimi",
+        "Fihrist defteri"
+      ]
+    },
+    {
+      "id": "yonetmelik:8043:m:97",
+      "maddeKind": "madde",
+      "maddeNo": "97",
+      "heading": "Madde 97",
+      "text": "(Mülga:RG-16/4/2013-28620)",
+      "preview": "(Mülga:RG-16/4/2013-28620)",
+      "kitap": null,
+      "kisim": null,
+      "bolum": "ALTINCI BÖLÜM · Basılı Kâğıtların Düzenlenme Amacı ve Kullanma Biçimi",
+      "ayirim": null,
+      "maddeBaslik": "Aciz vesikası kartonu",
+      "sectionPath": [
+        "ALTINCI BÖLÜM · Basılı Kâğıtların Düzenlenme Amacı ve Kullanma Biçimi",
+        "Aciz vesikası kartonu"
+      ]
+    },
+    {
+      "id": "yonetmelik:8043:m:98",
+      "maddeKind": "madde",
+      "maddeNo": "98",
+      "heading": "Madde 98",
+      "text": "(Değişik:RG-16/4/2013-28620)\n Aciz vesikası siciline kayıt düşülürken kayda esas oluşturan aciz vesikasından açıkça anlaşılan bir yazı veya rakam hatası yapılmışsa sicili tutan icra dairesi bu maddî hatayı resen veya talep üzerine elektronik ortamda düzeltir. Sicil kaydının açıklamalar sütununda düzeltmenin nedeni ve tarihi gösterilir.",
+      "preview": "(Değişik:RG-16/4/2013-28620) Aciz vesikası siciline kayıt düşülürken kayda esas oluşturan aciz vesikasından açıkça anlaşılan bir yazı veya r…",
+      "kitap": null,
+      "kisim": null,
+      "bolum": "ALTINCI BÖLÜM · Basılı Kâğıtların Düzenlenme Amacı ve Kullanma Biçimi",
+      "ayirim": null,
+      "maddeBaslik": "Sicildeki maddî hataların düzeltilmesi",
+      "sectionPath": [
+        "ALTINCI BÖLÜM · Basılı Kâğıtların Düzenlenme Amacı ve Kullanma Biçimi",
+        "Sicildeki maddî hataların düzeltilmesi"
+      ]
+    },
+    {
+      "id": "yonetmelik:8043:m:99",
+      "maddeKind": "madde",
+      "maddeNo": "99",
+      "heading": "Madde 99",
+      "text": "Sicil kaydının terkinini gerektiren haller dışında ödeme, ibra, feragat, mahkeme kararı gibi aciz vesikasının içeriğinde değişiklik yapılmasını zorunlu kılan bir durum ortaya çıktığında, aciz vesikasını düzenleyen icra dairesinin bu durumu bildirmesi üzerine, sicili tutmakla görevli icra dairesi aciz vesikası sicilinde gerekli değişikliği yapar.\n (Değişik ikinci fıkra:RG-16/4/2013-28620) Yapılan değişiklik, kaydın açıklamalar kısmında belirtilir.",
+      "preview": "Sicil kaydının terkinini gerektiren haller dışında ödeme, ibra, feragat, mahkeme kararı gibi aciz vesikasının içeriğinde değişiklik yapılmas…",
+      "kitap": null,
+      "kisim": null,
+      "bolum": "ALTINCI BÖLÜM · Basılı Kâğıtların Düzenlenme Amacı ve Kullanma Biçimi",
+      "ayirim": null,
+      "maddeBaslik": "Sicildeki değişikliklerin kaydı",
+      "sectionPath": [
+        "ALTINCI BÖLÜM · Basılı Kâğıtların Düzenlenme Amacı ve Kullanma Biçimi",
+        "Sicildeki değişikliklerin kaydı"
+      ]
+    },
+    {
+      "id": "yonetmelik:8043:m:100",
+      "maddeKind": "madde",
+      "maddeNo": "100",
+      "heading": "Madde 100",
+      "text": "Borç ödemeden aciz vesikası sicilinden bir kaydın terkin edilebilmesi için;\n a) Borcun, aciz vesikasını düzenlemiş olan icra dairesine işlemiş faizleriyle birlikte tamamının ödenmesi,\n b) Aciz vesikasının dayanağı olan icra takibinin bâtıl olduğuna veya iptal edildiğine dair mahkeme kararı ibraz edilmesi,\n c) Hakkında aciz vesikası verilmiş olan borçlunun borçlu olmadığını gösteren mahkeme kararının ibraz edilmesi,\n d) Alacaklının icra takibini geri alması,\n hallerinden birinin gerçekleşmiş olması gereklidir.\n Sicilden bir kaydın terkin edilebilmesi için, aciz vesikasını veren icra dairesine ibraz edilen mahkeme kararı veya icra takibinin geri alınmasına ilişkin alacaklının dilekçesinin bir örneği aciz vesikasını veren icra dairesi tarafından terkin talebiyle birlikte sicilin tutulduğu icra dairesine gönderilir.\n (Değişik üçüncü fıkra:RG-16/4/2013-28620) Terkin, aciz vesikası sicil kaydında ilgili sütuna terkin sebebi, terkine esas olan belgenin tarih ve numarası işlenmek suretiyle gerçekleştirilir.",
+      "preview": "Borç ödemeden aciz vesikası sicilinden bir kaydın terkin edilebilmesi için; a) Borcun, aciz vesikasını düzenlemiş olan icra dairesine işlemi…",
+      "kitap": null,
+      "kisim": null,
+      "bolum": "ALTINCI BÖLÜM · Basılı Kâğıtların Düzenlenme Amacı ve Kullanma Biçimi",
+      "ayirim": null,
+      "maddeBaslik": "Sicildeki kayıtların terkini",
+      "sectionPath": [
+        "ALTINCI BÖLÜM · Basılı Kâğıtların Düzenlenme Amacı ve Kullanma Biçimi",
+        "Sicildeki kayıtların terkini"
+      ]
+    },
+    {
+      "id": "yonetmelik:8043:m:101",
+      "maddeKind": "madde",
+      "maddeNo": "101",
+      "heading": "Madde 101",
+      "text": "Aciz vesikası verilen takip dosyalarının üzerine aciz vesikası verildiğini belirten bir kayıt düşülür. Bu dosyalar yirmi yıl boyunca saklanır.\n\n (Değişik ibare:RG-16/4/2013-28620) ALTINCI KISIM",
+      "preview": "Aciz vesikası verilen takip dosyalarının üzerine aciz vesikası verildiğini belirten bir kayıt düşülür. Bu dosyalar yirmi yıl boyunca saklanı…",
+      "kitap": null,
+      "kisim": null,
+      "bolum": "ALTINCI BÖLÜM · Basılı Kâğıtların Düzenlenme Amacı ve Kullanma Biçimi",
+      "ayirim": null,
+      "maddeBaslik": "Aciz vesikası verilen dosyaların saklanması",
+      "sectionPath": [
+        "ALTINCI BÖLÜM · Basılı Kâğıtların Düzenlenme Amacı ve Kullanma Biçimi",
+        "Aciz vesikası verilen dosyaların saklanması"
+      ]
+    },
+    {
+      "id": "yonetmelik:8043:m:102",
+      "maddeKind": "madde",
+      "maddeNo": "102",
+      "heading": "Madde 102",
+      "text": "İcra mahkemesinde görev yapan hâkimler, icra ve iflâs dairelerini denetlerler. Bu daireler, ayrıca Cumhuriyet savcılarının da devamlı denetimi altında olup, en az yılda bir kez teftiş olunurlar. Bundan başka icra daireleri, görevlendirilecek Adalet müfettişleri aracılığı ile de sürekli olarak teftişe tâbi tutulurlar.",
+      "preview": "İcra mahkemesinde görev yapan hâkimler, icra ve iflâs dairelerini denetlerler. Bu daireler, ayrıca Cumhuriyet savcılarının da devamlı deneti…",
+      "kitap": null,
+      "kisim": null,
+      "bolum": "ALTINCI BÖLÜM · Basılı Kâğıtların Düzenlenme Amacı ve Kullanma Biçimi",
+      "ayirim": null,
+      "maddeBaslik": "Genel olarak teftiş",
+      "sectionPath": [
+        "ALTINCI BÖLÜM · Basılı Kâğıtların Düzenlenme Amacı ve Kullanma Biçimi",
+        "Genel olarak teftiş"
+      ]
+    },
+    {
+      "id": "yonetmelik:8043:m:103",
+      "maddeKind": "madde",
+      "maddeNo": "103",
+      "heading": "Madde 103",
+      "text": "Cumhuriyet savcılarınca 102 nci madde gereğince yapılacak ilk teftişin geçen bir yıllık işlemleri kapsamak üzere, her yıl Ocak ayı içinde yapılması ve bu hususta, (Değişik ibare:RG-16/4/2013-28620) iki örnek olarak düzenlenecek raporların birer örneğinin icra ve iflâs dairesi ile Cumhuriyet savcılığında saklanması, (Mülga ibare:RG-16/4/2013-28620) (…) gereklidir.",
+      "preview": "Cumhuriyet savcılarınca 102 nci madde gereğince yapılacak ilk teftişin geçen bir yıllık işlemleri kapsamak üzere, her yıl Ocak ayı içinde ya…",
+      "kitap": null,
+      "kisim": null,
+      "bolum": "ALTINCI BÖLÜM · Basılı Kâğıtların Düzenlenme Amacı ve Kullanma Biçimi",
+      "ayirim": null,
+      "maddeBaslik": "Birinci teftiş",
+      "sectionPath": [
+        "ALTINCI BÖLÜM · Basılı Kâğıtların Düzenlenme Amacı ve Kullanma Biçimi",
+        "Birinci teftiş"
+      ]
+    },
+    {
+      "id": "yonetmelik:8043:m:104",
+      "maddeKind": "madde",
+      "maddeNo": "104",
+      "heading": "Madde 104",
+      "text": "Cumhuriyet savcıları, icra ve iflâs dairelerini teftişleri sırasında:\n a) Teftişe başlarken kasaya el koyarak, kasa (Mülga ibare:RG-16/4/2013-28620) (…) kayıtları esas alınmak üzere kasada ve bankada bulunması gereken para miktarı ve son tahsilât ve reddiyat makbuzu numaralarını bir tutanakla tespit ettikten sonra, banka ve maliyeden alınacak cevapları tespit tutanağı ile karşılaştırıp, mevcut ile kayıtlar ve cevaplar arasında bir uyumsuzluk bulunduğu takdirde bunun nedeni ve farkın nereden ileri geldiği,\n b) Paraların tahsil ve reddinde makbuz kullanılıp kullanılmadığı, makbuz içeriklerinin günü gününe ve aynen kayıtlara geçirilip geçirilmediği, kasa (Değişik ibare:RG-16/4/2013-28620) kaydında günlük toplamların bağlanarak sayfa toplamalarının doğru ve düzenli olarak yapılıp yapılmadığı,\n c) Kıymetli evrak ve değerli şeylerin alınmasında 38 inci maddedeki makbuzun kullanılıp kullanılmadığı,\n d) İcra dairelerince tahsil olunan para veya alınan kıymetli evrak ve değerli şeylerin bankaya yatırılmasında veya verilmesinde İcra ve İflas Kanununun 9 uncu ve bu Yönetmeliğin 93 üncü maddeleri hükümlerine uyulup uyulmadığı,\n e) Kasa (Değişik ibare:RG-16/4/2013-28620) kaydında yıl sonlarında ayrıntılı devir yapılıp yapılmadığı,\n f) Bankadaki para faizleri ile zamanaşımına uğrayan paraların zamanında maliyeye aktarılıp aktarılmadığı, bu hususu belgelendiren makbuzların özel bir kartonda saklanıp saklanmadığı,\n g) Posta ve banka aracılığı ile gelen paraların günü gününe (Değişik ibare:RG-16/4/2013-28620) kayıtlara geçirilip geçirilmediği,\n h) İcra takiplerine ait işlemlerde haciz ve satış işlerinin İcra ve İflas Kanununun hükümlerine uygun şekilde ve kanunî süre içinde yapılmasına dikkat edilip edilmediği,\n ı) İş durumuna göre sondaj suretiyle derdest, icra etme/yerine getirme, takipsizlik ve vazgeçmeyle işlemden kaldırılan yeter sayıda dosyanın incelenmesiyle, gerekli harç ve cezaevi yapı (Değişik ibare:RG-16/4/2013-28620) harcının doğru olarak hesaplanıp hesaplanmadığı,\n j) Haciz ve satış işlemleri için alınan gider ve ücretlerin kanuna uygun olarak hesaplanıp hesaplanmadığı,\n k) Diğer icra ve iflâs dairelerinden gelen talimatların kayıt ve dosyalarının düzenli olup olmadığı ve bunlara ait işlemlerde bir gecikme ve yolsuzluk bulunup bulunmadığı, artan para varsa gecikmeksizin iade edilip edilmediği,\n l) İcra ve İflas Kanununun 223 üncü maddesi ile iflâs dairelerine yükletilen görevlerin yerine getirilip getirilmediği,\n m) Takip dosyaları, tutanaklar ve kartonların tertip ve düzenlenmesi ve basılı kâğıtların kullanılmasında kanun, tüzük ve yönetmelik hükümlerine uyulup uyulmadığı,\n n) İcra ve iflâs dairelerinde kullanılması gereken (Değişik ibare:RG-16/4/2013-28620) kayıtlarının usûlüne uygun şekilde tutulup tutulmadığı,\n o) 11/2/1959 tarihli ve 7201 sayılı Tebligat Kanunu ve Tebligat Tüzüğü hükümlerine uyulup uyulmadığı,\n p) Devir, gelen ve çıkan iş miktarları gözönünde tutularak, işlerin yığılmasına neden olunup olunmadığı,\n r) İcra ve iflâs dairelerinin bulunduğu yerin ekonomik durumu dikkate alınarak büyük meblâğa ilişkin olduğu kanısına varılan reddiyat makbuzları sondaj usulü ile incelenip, içeriklerinin dosya kayıtlarına uygun olup olmadığı ve bankadan para çekilmesini haklı gösterir nedenlerin bulunup bulunmadığı,\n s) Yukarıdaki bentler dışında kalıp, teftişinde yarar olduğu düşünülen diğer konularda kanun, tüzük ve yönetmelik hükümlerine uyulup uyulmadığı,\n hususlarını gözönünde bulundururlar.",
+      "preview": "Cumhuriyet savcıları, icra ve iflâs dairelerini teftişleri sırasında: a) Teftişe başlarken kasaya el koyarak, kasa (Mülga ibare:RG-16/4/2013…",
+      "kitap": null,
+      "kisim": null,
+      "bolum": "ALTINCI BÖLÜM · Basılı Kâğıtların Düzenlenme Amacı ve Kullanma Biçimi",
+      "ayirim": null,
+      "maddeBaslik": "Cumhuriyet savcılıklarınca yapılacak teftişte gözönünde bulundurulacak hususlar",
+      "sectionPath": [
+        "ALTINCI BÖLÜM · Basılı Kâğıtların Düzenlenme Amacı ve Kullanma Biçimi",
+        "Cumhuriyet savcılıklarınca yapılacak teftişte gözönünde bulundurulacak hususlar"
+      ]
+    },
+    {
+      "id": "yonetmelik:8043:m:105",
+      "maddeKind": "madde",
+      "maddeNo": "105",
+      "heading": "Madde 105",
+      "text": "Teftiş raporları;\n a) Teftişi yapan Cumhuriyet savcısının adı, soyadı, sicil numarası,\n b) Teftiş edilen icra ve iflâs dairesinin adı,\n c) İcra ve iflâs müdürünün adı, soyadı, sicil numarası,\n d) Teftişin başladığı ve bittiği tarih,\n e) Teftiş raporunun düzenlenme tarihi,\n f) Kadro durumu,\n g) Esas ve talimat ayrı ayrı tablo halinde gösterilmek suretiyle iş durumu, (Devir-gelen-toplam-çıkan-kalan)\n h) Para hesap durumu, kasa (Değişik ibare:RG-16/4/2013-28620) kaydıyla, devir, tahsilât ve reddiyat miktarları ile kasada ve bankada bulunan ve bulunması gereken miktarlar, fazla veya eksik varsa nedenleri,\n ı) Bankaya yatırılan para için tahakkuk ettirilen faiz ve diğer menfaatlerin ve Hazine lehine zamanaşımına uğrayan paraların 492 sayılı Kanunun 36 ncı maddesi uyarınca maliyeye aktarılıp aktarılmadığı,\n j) İncelenen esas ve talimat dosyalarının numaraları,\n k) İcra ve iflâs dairelerinde tutulması gereken (Değişik ibare:RG-16/4/2013-28620) kayıt ve kartonların ve basılı kâğıtların Yönetmeliğin öngördüğü biçimde kullanılıp kullanılmadığı,\n l) Yapılacak teftişler sırasında gözönünde bulundurulması gereken hususları belirten 104 üncü maddede belirtilen diğer konuların da incelenip incelenmediği,\n m) Dairenin işleyiş tarzı,\n n) Yapılan teftişe göre eleştiri konusu olarak tespit edilen hususların nelerden ibaret bulunduğu,\n o) Varsa alınması gerekli görülen tedbirlerin niteliği,\n gösterilmek suretiyle düzenlenir.\n Teftiş raporları, teftişi yapan Cumhuriyet savcısı tarafından imzalanır ve mühürlenir.\n İncelenen (Mülga ibare:RG-16/4/2013-28620) (…) kartonlara \"görüldü\" şerhi verilip tarih konularak imzalanır.\n (Mülga dördüncü fıkra:RG-16/4/2013-28620)\n\n (Değişik ibare:RG-16/4/2013-28620) YEDİNCİ KISIM",
+      "preview": "Teftiş raporları; a) Teftişi yapan Cumhuriyet savcısının adı, soyadı, sicil numarası, b) Teftiş edilen icra ve iflâs dairesinin adı, c) İcra…",
+      "kitap": null,
+      "kisim": null,
+      "bolum": "ALTINCI BÖLÜM · Basılı Kâğıtların Düzenlenme Amacı ve Kullanma Biçimi",
+      "ayirim": null,
+      "maddeBaslik": "Teftiş raporunun düzenlenme şekli",
+      "sectionPath": [
+        "ALTINCI BÖLÜM · Basılı Kâğıtların Düzenlenme Amacı ve Kullanma Biçimi",
+        "Teftiş raporunun düzenlenme şekli"
+      ]
+    },
+    {
+      "id": "yonetmelik:8043:m:106",
+      "maddeKind": "madde",
+      "maddeNo": "106",
+      "heading": "Madde 106",
+      "text": "Alacaklılar kurulu, konkordato talebi hakkında karar veren alacaklılar tarafından, beş kişiyi geçmemek üzere, alacaklılar toplanmasında konkordato metniyle birlikte belirlenir.",
+      "preview": "Alacaklılar kurulu, konkordato talebi hakkında karar veren alacaklılar tarafından, beş kişiyi geçmemek üzere, alacaklılar toplanmasında konk…",
+      "kitap": null,
+      "kisim": null,
+      "bolum": "ALTINCI BÖLÜM · Basılı Kâğıtların Düzenlenme Amacı ve Kullanma Biçimi",
+      "ayirim": null,
+      "maddeBaslik": "Malvarlığının terki suretiyle konkordatoda alacaklılar kurulu",
+      "sectionPath": [
+        "ALTINCI BÖLÜM · Basılı Kâğıtların Düzenlenme Amacı ve Kullanma Biçimi",
+        "Malvarlığının terki suretiyle konkordatoda alacaklılar kurulu"
+      ]
+    },
+    {
+      "id": "yonetmelik:8043:m:107",
+      "maddeKind": "madde",
+      "maddeNo": "107",
+      "heading": "Madde 107",
+      "text": "Konkordato tasfiye memurları, konkordato talebi hakkında karar veren alacaklılar, alacaklılar temsilcileri veya üçüncü kişiler arasından üç kişiyi geçmemek üzere seçilir. Konkordato komiseri de tasfiye memuru olabilir.\n Konkordato tasfiye memurlarının kimler olacağı alacaklılar toplanmasında, konkordato metni ile birlikte yapılacak oylama ile belirlenir.\n Konkordatonun mahkemece tasdikinden sonra konkordato metninde isimleri belirlenen tasfiye memurları icra mahkemesinin seçime ilişkin kararı onaylamasından sonra göreve başlar.",
+      "preview": "Konkordato tasfiye memurları, konkordato talebi hakkında karar veren alacaklılar, alacaklılar temsilcileri veya üçüncü kişiler arasından üç…",
+      "kitap": null,
+      "kisim": null,
+      "bolum": "ALTINCI BÖLÜM · Basılı Kâğıtların Düzenlenme Amacı ve Kullanma Biçimi",
+      "ayirim": null,
+      "maddeBaslik": "Malvarlığının terki suretiyle konkordatoda tasfiye memurları",
+      "sectionPath": [
+        "ALTINCI BÖLÜM · Basılı Kâğıtların Düzenlenme Amacı ve Kullanma Biçimi",
+        "Malvarlığının terki suretiyle konkordatoda tasfiye memurları"
+      ]
+    },
+    {
+      "id": "yonetmelik:8043:m:108",
+      "maddeKind": "madde",
+      "maddeNo": "108",
+      "heading": "Madde 108",
+      "text": "(Başlığıyla birlikte değişik:RG-16/4/2013-28620)\n İcra ve iflâs dairelerinde işlemde olan dosya ve kayıtlar, yıllarına ve sıra numaralarına göre tasnif edilmiş şekilde elektronik ortamda korunur.\n Takipsizlik veya yerine getirilmesi (infaz) suretiyle işlemden kaldırılan dosyalarla, kullanılmayan kartonlar, buna ait bir tevdi ve teslim cetveli düzenlenerek, arşiv işi ile görevlendirilen memura tevdi ve teslim olunur. Tevdi ve teslim cetveli tevdi eden ve teslim alan memurlar tarafından imzalanır.",
+      "preview": "(Başlığıyla birlikte değişik:RG-16/4/2013-28620) İcra ve iflâs dairelerinde işlemde olan dosya ve kayıtlar, yıllarına ve sıra numaralarına g…",
+      "kitap": null,
+      "kisim": null,
+      "bolum": "ALTINCI BÖLÜM · Basılı Kâğıtların Düzenlenme Amacı ve Kullanma Biçimi",
+      "ayirim": null,
+      "maddeBaslik": "Dosyaların ve kayıtların saklanması",
+      "sectionPath": [
+        "ALTINCI BÖLÜM · Basılı Kâğıtların Düzenlenme Amacı ve Kullanma Biçimi",
+        "Dosyaların ve kayıtların saklanması"
+      ]
+    },
+    {
+      "id": "yonetmelik:8043:m:109",
+      "maddeKind": "madde",
+      "maddeNo": "109",
+      "heading": "Madde 109",
+      "text": "(Değişik birinci fıkra:RG-16/4/2013-28620) İcra ve iflâs müdürleri, kasa kayıtlarına intikal ettirdikleri paralarla, harç ve cezaevi yapı harcını kasada ayrı yerlerde saklarlar.\n İcra ve iflâs müdürlüğü görevinin mahkeme yazı işleri müdürü, yazı işleri müdür yardımcısı veya kâtibi tarafından yürütüldüğü yerlerde, bunların diğer görevleri sebebiyle aldıkları ve saklamak zorunda oldukları para, pul ve kıymetli evrak ve değerli şeyler, icra ve iflâs dairesine ait para, pul ve kıymetli evrak ve değerli şeylerle karıştırılmayarak, kasada ayrı ayrı yerlerde saklanır.",
+      "preview": "(Değişik birinci fıkra:RG-16/4/2013-28620) İcra ve iflâs müdürleri, kasa kayıtlarına intikal ettirdikleri paralarla, harç ve cezaevi yapı ha…",
+      "kitap": null,
+      "kisim": null,
+      "bolum": "ALTINCI BÖLÜM · Basılı Kâğıtların Düzenlenme Amacı ve Kullanma Biçimi",
+      "ayirim": null,
+      "maddeBaslik": "Para ve pulun kasada ayrı ayrı saklanması",
+      "sectionPath": [
+        "ALTINCI BÖLÜM · Basılı Kâğıtların Düzenlenme Amacı ve Kullanma Biçimi",
+        "Para ve pulun kasada ayrı ayrı saklanması"
+      ]
+    },
+    {
+      "id": "yonetmelik:8043:m:110",
+      "maddeKind": "madde",
+      "maddeNo": "110",
+      "heading": "Madde 110",
+      "text": "Kasa hesaplarının müdür tarafından tutulması zorunludur.\n Kasa (Değişik ibare:RG-16/4/2013-28620) kaydına göre kasada ve bankada bulunması gereken para miktarı ile mevcut para miktarı arasında hesap hatasından kaynaklanmadığı anlaşılan uyumsuzluktan, bu hesapları tutan ve bunları saklamak ile görevli olan müdür sorumludur.\n Dosya, (Mülga ibare:RG-16/4/2013-28620) (…) ve kartonların saklanması ve kaybolmasından icra ve iflâs müdürü, icra mahkemesi işlerinde icra mahkemesi yazı işleri müdürü sorumludur. Ancak, usulen yapılmış bir iş dağılımı mevcutsa, bu işle görevlendirilen kimse sorumlu olup, bu hal, gözetim görevi bakımından icra ve iflâs müdürü ile icra mahkemesi işlerine bakan yazı işleri müdürünü sorumluluktan kurtaramaz.\n İcra ve İflas Kanununun 9 uncu ve bu Yönetmeliğin 92 nci maddesi uyarınca, alınan para ve değerli şeylerin Adalet Bakanlığının tespit ettiği bankalardan başka bir bankaya yatırılması halinde, icra ve iflâs müdürü veya sayman sorumludur. Ancak bu sorumluluğun derecesi, yatırılmış para ve değerli şeyin miktarının çokluğuna uygun şekilde artar.",
+      "preview": "Kasa hesaplarının müdür tarafından tutulması zorunludur. Kasa (Değişik ibare:RG-16/4/2013-28620) kaydına göre kasada ve bankada bulunması ge…",
+      "kitap": null,
+      "kisim": null,
+      "bolum": "ALTINCI BÖLÜM · Basılı Kâğıtların Düzenlenme Amacı ve Kullanma Biçimi",
+      "ayirim": null,
+      "maddeBaslik": "Sorumluluk",
+      "sectionPath": [
+        "ALTINCI BÖLÜM · Basılı Kâğıtların Düzenlenme Amacı ve Kullanma Biçimi",
+        "Sorumluluk"
+      ]
+    },
+    {
+      "id": "yonetmelik:8043:m:111",
+      "maddeKind": "madde",
+      "maddeNo": "111",
+      "heading": "Madde 111",
+      "text": "(Değişik:RG-16/4/2013-28620)\n Kasanın kontrolü veya yapılan teftiş ve denetim sonucunda kasada bulunduğu anlaşılan fazla para, tek kalem halinde açıklama yapılarak birim kasa hesabına tahsilât makbuzu kesilmek suretiyle kasa kaydına işlenir. Her yıl sonu, tespit edilen bu fazlalığın yeni yıla devredilerek adı geçen kayıtta gösterilmesi ve İcra ve İflâs Kanununun 362 ve 492 sayılı Kanunun 36 ncı maddesi hükümleri çerçevesinde on yıllık zamanaşımı sonuna kadar ilgilinin başvurusunun beklenmesi; zamanaşımı işledikten sonra Hazineye gelir kaydedilmek üzere makbuz karşılığında maliyeye yatırılması ve makbuzun özel kartonunda saklanması zorunludur.",
+      "preview": "(Değişik:RG-16/4/2013-28620) Kasanın kontrolü veya yapılan teftiş ve denetim sonucunda kasada bulunduğu anlaşılan fazla para, tek kalem hali…",
+      "kitap": null,
+      "kisim": null,
+      "bolum": "ALTINCI BÖLÜM · Basılı Kâğıtların Düzenlenme Amacı ve Kullanma Biçimi",
+      "ayirim": null,
+      "maddeBaslik": "Kasa ve pul fazlası hakkında yapılacak işlem",
+      "sectionPath": [
+        "ALTINCI BÖLÜM · Basılı Kâğıtların Düzenlenme Amacı ve Kullanma Biçimi",
+        "Kasa ve pul fazlası hakkında yapılacak işlem"
+      ]
+    },
+    {
+      "id": "yonetmelik:8043:m:112",
+      "maddeKind": "madde",
+      "maddeNo": "112",
+      "heading": "Madde 112",
+      "text": "(Başlığıyla birlikte değişik:RG-16/4/2013-28620)\n 3/4/2012 tarihli ve 28253 sayılı Resmî Gazete’de yayımlanan Hukuk Muhakemeleri Kanunu Yönetmeliğinin bu Yönetmeliğe aykırı olmayan hükümleri icra mahkemesinde de uygulanır.",
+      "preview": "(Başlığıyla birlikte değişik:RG-16/4/2013-28620) 3/4/2012 tarihli ve 28253 sayılı Resmî Gazete’de yayımlanan Hukuk Muhakemeleri Kanunu Yönet…",
+      "kitap": null,
+      "kisim": null,
+      "bolum": "ALTINCI BÖLÜM · Basılı Kâğıtların Düzenlenme Amacı ve Kullanma Biçimi",
+      "ayirim": null,
+      "maddeBaslik": "Hukuk Muhakemeleri Kanunu Yönetmeliğinin uygulanması",
+      "sectionPath": [
+        "ALTINCI BÖLÜM · Basılı Kâğıtların Düzenlenme Amacı ve Kullanma Biçimi",
+        "Hukuk Muhakemeleri Kanunu Yönetmeliğinin uygulanması"
+      ]
+    },
+    {
+      "id": "yonetmelik:8043:m:113",
+      "maddeKind": "madde",
+      "maddeNo": "113",
+      "heading": "Madde 113",
+      "text": "Bu Yönetmelik hükümlerinin yerine getirilmesinde icra mahkemeleri, adalet müfettişleri, Cumhuriyet savcıları gözetimle görevlidirler.",
+      "preview": "Bu Yönetmelik hükümlerinin yerine getirilmesinde icra mahkemeleri, adalet müfettişleri, Cumhuriyet savcıları gözetimle görevlidirler.",
+      "kitap": null,
+      "kisim": null,
+      "bolum": "ALTINCI BÖLÜM · Basılı Kâğıtların Düzenlenme Amacı ve Kullanma Biçimi",
+      "ayirim": null,
+      "maddeBaslik": "Yönetmeliğin yerine getirilmesini gözetimle görevli olanlar",
+      "sectionPath": [
+        "ALTINCI BÖLÜM · Basılı Kâğıtların Düzenlenme Amacı ve Kullanma Biçimi",
+        "Yönetmeliğin yerine getirilmesini gözetimle görevli olanlar"
+      ]
+    },
+    {
+      "id": "yonetmelik:8043:m:114",
+      "maddeKind": "madde",
+      "maddeNo": "114",
+      "heading": "Madde 114",
+      "text": "Bu Yönetmelik hükümlerine göre, tutulması ve kullanılması zorunlu olan (Mülga ibare:RG-16/4/2013-28620) (…) basılı kâğıtların örnekleri Yönetmeliğin ekinde verilmiştir.\n Örneklerdeki esaslar bozulmamak şartıyla icra ve iflâs daireleri veya icra hâkimliklerince, bu örneklere gerekli ilâveler yapılabilir.\n İcra ve iflas daireleri veya icra mahkemelerinde mevcut (Değişik ibare:RG-16/4/2013-28620) kayıt ve basılı kağıtlardan bu Yönetmeliğe alınmamış olanlar kullanılamaz.",
+      "preview": "Bu Yönetmelik hükümlerine göre, tutulması ve kullanılması zorunlu olan (Mülga ibare:RG-16/4/2013-28620) (…) basılı kâğıtların örnekleri Yöne…",
+      "kitap": null,
+      "kisim": null,
+      "bolum": "ALTINCI BÖLÜM · Basılı Kâğıtların Düzenlenme Amacı ve Kullanma Biçimi",
+      "ayirim": null,
+      "maddeBaslik": "Örnekler",
+      "sectionPath": [
+        "ALTINCI BÖLÜM · Basılı Kâğıtların Düzenlenme Amacı ve Kullanma Biçimi",
+        "Örnekler"
+      ]
+    },
+    {
+      "id": "yonetmelik:8043:m:115",
+      "maddeKind": "madde",
+      "maddeNo": "115",
+      "heading": "Madde 115",
+      "text": "(Mülga:RG-16/4/2013-28620)\n Yürürlükten kaldırılan yönetmelik",
+      "preview": "(Mülga:RG-16/4/2013-28620) Yürürlükten kaldırılan yönetmelik",
+      "kitap": null,
+      "kisim": null,
+      "bolum": "ALTINCI BÖLÜM · Basılı Kâğıtların Düzenlenme Amacı ve Kullanma Biçimi",
+      "ayirim": null,
+      "maddeBaslik": "Elektronik ortamda kayıt tutulması",
+      "sectionPath": [
+        "ALTINCI BÖLÜM · Basılı Kâğıtların Düzenlenme Amacı ve Kullanma Biçimi",
+        "Elektronik ortamda kayıt tutulması"
+      ]
+    },
+    {
+      "id": "yonetmelik:8043:m:116",
+      "maddeKind": "madde",
+      "maddeNo": "116",
+      "heading": "Madde 116",
+      "text": "25/5/1965 tarihli ve 12006 sayılı Resmî Gazete’de yayımlanan İcra ve İflâs Kanunu Yönetmeliği yürürlükten kaldırılmıştır.\n\n Geçici Madde l — (Mülga:RG-16/4/2013-28620)",
+      "preview": "25/5/1965 tarihli ve 12006 sayılı Resmî Gazete’de yayımlanan İcra ve İflâs Kanunu Yönetmeliği yürürlükten kaldırılmıştır. Geçici Madde l — (…",
+      "kitap": null,
+      "kisim": null,
+      "bolum": "ALTINCI BÖLÜM · Basılı Kâğıtların Düzenlenme Amacı ve Kullanma Biçimi",
+      "ayirim": null,
+      "maddeBaslik": "Elektronik ortamda kayıt tutulması",
+      "sectionPath": [
+        "ALTINCI BÖLÜM · Basılı Kâğıtların Düzenlenme Amacı ve Kullanma Biçimi",
+        "Elektronik ortamda kayıt tutulması"
+      ]
+    },
+    {
+      "id": "yonetmelik:8043:m:gecici:2",
+      "maddeKind": "gecici",
+      "maddeNo": "2",
+      "heading": "Geçici Madde 2",
+      "text": "(Ek:RG-16/4/2013-28620)\n Bu Yönetmeliğin, elektronik ortamda yapılması öngörülmüş olup henüz UYAP uygulamalarında bulunmayan işlemlere ilişkin hükümleri, gerekli yazılım çalışması tamamlanıp uygulama güncelleme duyuruları yapıldıktan sonra uygulanır.",
+      "preview": "(Ek:RG-16/4/2013-28620) Bu Yönetmeliğin, elektronik ortamda yapılması öngörülmüş olup henüz UYAP uygulamalarında bulunmayan işlemlere ilişki…",
+      "kitap": null,
+      "kisim": null,
+      "bolum": "ALTINCI BÖLÜM · Basılı Kâğıtların Düzenlenme Amacı ve Kullanma Biçimi",
+      "ayirim": null,
+      "maddeBaslik": "Elektronik ortamda kayıt tutulması",
+      "sectionPath": [
+        "ALTINCI BÖLÜM · Basılı Kâğıtların Düzenlenme Amacı ve Kullanma Biçimi",
+        "Elektronik ortamda kayıt tutulması"
+      ]
+    },
+    {
+      "id": "yonetmelik:8043:m:gecici:3",
+      "maddeKind": "gecici",
+      "maddeNo": "3",
+      "heading": "Geçici Madde 3",
+      "text": "(Ek:RG-8/3/2022-31772)\n Bu Yönetmeliğin bu maddeyi ihdas eden Yönetmelikle yürürlükten kaldırılan hükümleri, elektronik satış uygulamasına geçilmeyen il ve ilçelerde elektronik satış uygulamasına geçilinceye kadar uygulanmaya devam eder.",
+      "preview": "(Ek:RG-8/3/2022-31772) Bu Yönetmeliğin bu maddeyi ihdas eden Yönetmelikle yürürlükten kaldırılan hükümleri, elektronik satış uygulamasına ge…",
+      "kitap": null,
+      "kisim": null,
+      "bolum": "ALTINCI BÖLÜM · Basılı Kâğıtların Düzenlenme Amacı ve Kullanma Biçimi",
+      "ayirim": null,
+      "maddeBaslik": "Elektronik ortamda kayıt tutulması",
+      "sectionPath": [
+        "ALTINCI BÖLÜM · Basılı Kâğıtların Düzenlenme Amacı ve Kullanma Biçimi",
+        "Elektronik ortamda kayıt tutulması"
+      ]
+    },
+    {
+      "id": "yonetmelik:8043:m:117",
+      "maddeKind": "madde",
+      "maddeNo": "117",
+      "heading": "Madde 117",
+      "text": "Bu Yönetmelik yayımı tarihinde yürürlüğe girer.",
+      "preview": "Bu Yönetmelik yayımı tarihinde yürürlüğe girer.",
+      "kitap": null,
+      "kisim": null,
+      "bolum": "ALTINCI BÖLÜM · Basılı Kâğıtların Düzenlenme Amacı ve Kullanma Biçimi",
+      "ayirim": null,
+      "maddeBaslik": "Yürürlük",
+      "sectionPath": [
+        "ALTINCI BÖLÜM · Basılı Kâğıtların Düzenlenme Amacı ve Kullanma Biçimi",
+        "Yürürlük"
+      ]
+    },
+    {
+      "id": "yonetmelik:8043:m:118",
+      "maddeKind": "madde",
+      "maddeNo": "118",
+      "heading": "Madde 118",
+      "text": "Bu Yönetmelik hükümlerini Adalet Bakanı yürütür.\n\n ---------------------------\n (1) Danıştay Onuncu Dairesinin 28/4/2016 tarihli ve Esas No: 2013/3788; Karar No:2016/2403 sayılı kararı ile Yönetmeliğin 16 ncı maddesinin beşinci fıkrasında yer alan “İcra iflâs dairelerinde yapılacak sorgulamalarda vekil ile takip edilen dosyalarda, aynı konu hakkında Adalet Bakanlığı tarafından belirlenecek sürelerde sorgulama yapılması talep edilebilir.” cümlesinin iptaline karar verilmiştir. Sonrasında Danıştay İdari Dava Daireleri Kurulunun 5/11/2018 tarihli ve Esas No:2016/4891; Karar No:2018/4489 sayılı kararı ile onanmasına karar verilmiştir.\n\n Yönetmeliğin eklerini görmek için tıklayınız:\n Örnek 1-47\n Örnek Defterler (Mülga:RG-16/4/2013-28620)\n\n Yönetmeliğin Yayımlandığı Resmî Gazete’nin\n\n Tarihi\n Sayısı\n\n 11/4/2005\n 25783\n\n Yönetmelikte Değişiklik Yapan Yönetmeliklerin Yayımlandığı Resmî Gazetelerin\n\n Tarihi\n Sayısı\n\n 1\n 3/2/2017\n 29968\n\n 2\n 8/3/2022\n 31772\n\n 3",
+      "preview": "Bu Yönetmelik hükümlerini Adalet Bakanı yürütür. --------------------------- (1) Danıştay Onuncu Dairesinin 28/4/2016 tarihli ve Esas No: 20…",
+      "kitap": null,
+      "kisim": null,
+      "bolum": "ALTINCI BÖLÜM · Basılı Kâğıtların Düzenlenme Amacı ve Kullanma Biçimi",
+      "ayirim": null,
+      "maddeBaslik": "Yürütme",
+      "sectionPath": [
+        "ALTINCI BÖLÜM · Basılı Kâğıtların Düzenlenme Amacı ve Kullanma Biçimi",
+        "Yürütme"
+      ]
+    }
+  ]
+}

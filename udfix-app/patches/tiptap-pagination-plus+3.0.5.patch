@@ -1,0 +1,97 @@
+diff --git a/node_modules/tiptap-pagination-plus/dist/PaginationPlus.js b/node_modules/tiptap-pagination-plus/dist/PaginationPlus.js
+index 52bd368..ebc0291 100644
+--- a/node_modules/tiptap-pagination-plus/dist/PaginationPlus.js
++++ b/node_modules/tiptap-pagination-plus/dist/PaginationPlus.js
+@@ -414,39 +414,54 @@ const getExistingPageCount = (view) => {
+     }
+     return 0;
+ };
++/** NOMAI: prevent runaway page widgets + view.update dispatch storm */
++const NOMAI_MAX_TOTAL_PAGES = 500;
++const NOMAI_MAX_ADD_PAGES_PER_PASS = 24;
+ const calculatePageCount = (view, pageOptions, headerHeight = 0, footerHeight = 0) => {
+     var _a;
+     const editorDom = view.dom;
+-    const _pageHeaderHeight = pageOptions.contentMarginTop + pageOptions.marginTop + headerHeight;
+-    const _pageFooterHeight = pageOptions.contentMarginBottom + pageOptions.marginBottom + footerHeight;
+-    const pageContentAreaHeight = pageOptions.pageHeight - _pageHeaderHeight - _pageFooterHeight;
++    const domHeaderEl = editorDom.querySelector(".rm-first-page-header");
++    const domFooterEl = editorDom.querySelector("[data-rm-pagination] .rm-page-footer") || editorDom.querySelector(".rm-page-footer");
++    const hDom = domHeaderEl ? domHeaderEl.clientHeight : 0;
++    const fDom = domFooterEl ? domFooterEl.clientHeight : 0;
++    const _pageHeaderHeight = pageOptions.contentMarginTop + pageOptions.marginTop + Math.max(headerHeight, hDom);
++    const _pageFooterHeight = pageOptions.contentMarginBottom + pageOptions.marginBottom + Math.max(footerHeight, fDom);
++    const rawArea = pageOptions.pageHeight - _pageHeaderHeight - _pageFooterHeight;
++    const pageContentAreaHeight = Math.max(80, Number.isFinite(rawArea) ? rawArea : 80);
+     const paginationElement = editorDom.querySelector("[data-rm-pagination]");
+     const currentPageCount = getExistingPageCount(view);
+     if (paginationElement) {
+-        const lastElementOfEditor = editorDom.lastElementChild;
++        const lastEl = editorDom.lastElementChild;
+         const lastPageBreak = (_a = paginationElement.lastElementChild) === null || _a === void 0 ? void 0 : _a.querySelector(".breaker");
+-        if (lastElementOfEditor && lastPageBreak) {
+-            const lastElementRect = lastElementOfEditor.getBoundingClientRect();
++        /** If last DOM child is the whole #pages column, its bottom is thousands of px below the last .breaker — false "overflow". */
++        let gapBottomEl = lastEl;
++        if (lastEl && paginationElement.contains(lastEl)) {
++            const lastPageInner = paginationElement.querySelector(".rm-page-break:last-child .page");
++            if (lastPageInner)
++                gapBottomEl = lastPageInner;
++        }
++        if (gapBottomEl && lastPageBreak) {
++            const lastElementRect = gapBottomEl.getBoundingClientRect();
+             const lastPageBreakRect = lastPageBreak.getBoundingClientRect();
+-            const lastPageGap = lastElementRect.bottom -
+-                lastPageBreakRect.bottom;
+-            if (lastPageGap > 0) {
+-                const addPage = Math.ceil(lastPageGap / pageContentAreaHeight);
+-                return currentPageCount + addPage;
++            const lastPageGap = lastElementRect.bottom - lastPageBreakRect.bottom;
++            if (lastPageGap > 1) {
++                let addPage = Math.ceil(lastPageGap / pageContentAreaHeight);
++                addPage = Math.min(NOMAI_MAX_ADD_PAGES_PER_PASS, addPage);
++                return Math.min(NOMAI_MAX_TOTAL_PAGES, currentPageCount + addPage);
+             }
+             else {
+                 const lpFrom = -10;
+                 const lpTo = -(pageOptions.pageHeight - 10);
+                 if (lastPageGap > lpTo && lastPageGap < lpFrom) {
+-                    return currentPageCount;
++                    return Math.min(NOMAI_MAX_TOTAL_PAGES, currentPageCount);
+                 }
+                 else if (lastPageGap < lpTo) {
+                     const pageHeightOnRemove = pageOptions.pageHeight + pageOptions.pageGap;
+                     const removePage = Math.floor(lastPageGap / pageHeightOnRemove);
+-                    return currentPageCount + removePage;
++                    return Math.min(NOMAI_MAX_TOTAL_PAGES, currentPageCount + removePage);
+                 }
+                 else {
+-                    return currentPageCount;
++                    return Math.min(NOMAI_MAX_TOTAL_PAGES, currentPageCount);
+                 }
+             }
+         }
+@@ -456,7 +471,7 @@ const calculatePageCount = (view, pageOptions, headerHeight = 0, footerHeight =
+         const editorHeight = editorDom.scrollHeight;
+         let pageCount = Math.ceil(editorHeight / pageContentAreaHeight);
+         pageCount = pageCount <= 0 ? 1 : pageCount;
+-        return pageCount;
++        return Math.min(NOMAI_MAX_TOTAL_PAGES, pageCount);
+     }
+ };
+ function createDecoration(pageOptions, headerHeightMap, footerHeightMap) {
+diff --git a/node_modules/tiptap-pagination-plus/dist/utils.js b/node_modules/tiptap-pagination-plus/dist/utils.js
+index 8ee009b..9f78940 100644
+--- a/node_modules/tiptap-pagination-plus/dist/utils.js
++++ b/node_modules/tiptap-pagination-plus/dist/utils.js
+@@ -170,7 +170,9 @@ export function getHeader(headerRightContent, headerLeftContent, onHeaderClick,
+ export const getHeight = (pageOptions, _headerHeight, _footerHeight) => {
+     const _pageHeaderHeight = pageOptions.contentMarginTop + pageOptions.marginTop + _headerHeight;
+     const _pageFooterHeight = pageOptions.contentMarginBottom + pageOptions.marginBottom + _footerHeight;
+-    const _pageHeight = pageOptions.pageHeight - _pageHeaderHeight - _pageFooterHeight;
++    const raw = pageOptions.pageHeight - _pageHeaderHeight - _pageFooterHeight;
++    /** NOMAI: negative/zero blows up calculatePageCount (ceil(lastGap / 0) → Infinity pages). */
++    const _pageHeight = Math.max(80, Number.isFinite(raw) ? raw : 80);
+     return {
+         _pageHeaderHeight,
+         _pageFooterHeight,

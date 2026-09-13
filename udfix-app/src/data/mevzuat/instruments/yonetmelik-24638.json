@@ -1,0 +1,1116 @@
+{
+  "id": "yonetmelik:24638",
+  "kind": "yonetmelik",
+  "no": "24638",
+  "title": "Hukuk Uyuşmazlıklarında Arabuluculuk Kanunu Yönetmeliği",
+  "shortName": "ArabuluculukYön",
+  "aliases": [
+    "ArabuluculukYön",
+    "HUAKYön",
+    "Hukuk Uyuşmazlıklarında Arabuluculuk Kanunu Yönetmeliği",
+    "24638"
+  ],
+  "tur": 7,
+  "tertip": 5,
+  "sourceUrl": "https://www.mevzuat.gov.tr/mevzuat?MevzuatNo=24638&MevzuatTur=7&MevzuatTertip=5",
+  "kabulTarihi": null,
+  "maddeCount": 62,
+  "maddeler": [
+    {
+      "id": "yonetmelik:24638:m:1",
+      "maddeKind": "madde",
+      "maddeNo": "1",
+      "heading": "Madde 1",
+      "text": "(1) Bu Yönetmeliğin amacı, hukuk uyuşmazlıklarının arabuluculuk yoluyla çözümlenmesine ilişkin her türlü arabuluculuk faaliyeti ile arabuluculuğa ilişkin usul ve esasları düzenlemektir.",
+      "preview": "(1) Bu Yönetmeliğin amacı, hukuk uyuşmazlıklarının arabuluculuk yoluyla çözümlenmesine ilişkin her türlü arabuluculuk faaliyeti ile arabuluc…",
+      "kitap": null,
+      "kisim": null,
+      "bolum": null,
+      "ayirim": null,
+      "maddeBaslik": null,
+      "sectionPath": []
+    },
+    {
+      "id": "yonetmelik:24638:m:2",
+      "maddeKind": "madde",
+      "maddeNo": "2",
+      "heading": "Madde 2",
+      "text": "(1) Bu Yönetmelik; hukuk uyuşmazlıklarının arabuluculuk yoluyla çözümlenmesine ilişkin her türlü arabuluculuk faaliyeti, idarenin taraf olduğu özel hukuk uyuşmazlıklarında idarenin temsili, dava şartı olarak düzenlenen arabuluculuk sürecinin usul ve esasları ile arabulucuların eğitimi, arabuluculuk sınavının yapılması, arabulucular sicilinin düzenlenmesi, arabulucuların ve eğitim kuruluşlarının denetlenmesi ile Arabuluculuk Daire Başkanlığı ve Arabuluculuk Kurulunun çalışma usul ve esaslarını kapsar.",
+      "preview": "(1) Bu Yönetmelik; hukuk uyuşmazlıklarının arabuluculuk yoluyla çözümlenmesine ilişkin her türlü arabuluculuk faaliyeti, idarenin taraf oldu…",
+      "kitap": null,
+      "kisim": null,
+      "bolum": null,
+      "ayirim": null,
+      "maddeBaslik": "Kapsam",
+      "sectionPath": [
+        "Kapsam"
+      ]
+    },
+    {
+      "id": "yonetmelik:24638:m:3",
+      "maddeKind": "madde",
+      "maddeNo": "3",
+      "heading": "Madde 3",
+      "text": "(1) Bu Yönetmelik, 7/6/2012 tarihli ve 6325 sayılı Hukuk Uyuşmazlıklarında Arabuluculuk Kanununun 15 inci maddesinin onuncu fıkrası, 19 uncu maddesinin ikinci fıkrası, 22 nci maddesi, 31 inci maddesinin sekizinci fıkrası, 36 ncı maddesi ile 12/10/2017 tarihli ve 7036 sayılı İş Mahkemeleri Kanununun 3 üncü maddesinin yirmi ikinci fıkrasına dayanılarak hazırlanmıştır.",
+      "preview": "(1) Bu Yönetmelik, 7/6/2012 tarihli ve 6325 sayılı Hukuk Uyuşmazlıklarında Arabuluculuk Kanununun 15 inci maddesinin onuncu fıkrası, 19 uncu…",
+      "kitap": null,
+      "kisim": null,
+      "bolum": null,
+      "ayirim": null,
+      "maddeBaslik": "Dayanak",
+      "sectionPath": [
+        "Dayanak"
+      ]
+    },
+    {
+      "id": "yonetmelik:24638:m:4",
+      "maddeKind": "madde",
+      "maddeNo": "4",
+      "heading": "Madde 4",
+      "text": "(1) Bu Yönetmelikte geçen;\n a) Adliye arabuluculuk bürosu: Arabuluculuğa başvuranları bilgilendirmek, arabulucuları görevlendirmek ve kanunla verilen diğer görevleri yerine getirmek üzere Bakanlıkça adliyelerde kurulan birimi,\n b) Arabulucu: Arabuluculuk faaliyetini yürüten ve Bakanlıkça oluşturulan arabulucular siciline kaydedilmiş gerçek kişiyi,\n c) Arabuluculuk: Sistematik teknikler uygulayarak, görüşmek ve müzakerelerde bulunmak amacıyla tarafları bir araya getiren, onların birbirlerini anlamalarını ve bu suretle çözümlerini kendilerinin üretmesini sağlamak için aralarında iletişim sürecinin kurulmasını gerçekleştiren, tarafların çözüm üretemediklerinin ortaya çıkması hâlinde çözüm önerisi de getirebilen, uzmanlık eğitimi almış olan tarafsız ve bağımsız bir üçüncü kişinin katılımıyla ve kamu hizmeti olarak yürütülen ihtiyari bir uyuşmazlık çözüm yöntemini,\n ç) Arabulucu Bilgi Sistemi: Arabuluculukla ilgili tüm iş ve işlemlerin elektronik ortamda yapılmasını sağlayan bilişim sistemini,\n d) Arabuluculuk bürosu: Arabulucunun işlerini yürüttüğü yeri,\n e) Bakanlık: Adalet Bakanlığını,\n f) Daire Başkanlığı: Adalet Bakanlığı Hukuk İşleri Genel Müdürlüğü bünyesinde kurulan Arabuluculuk Daire Başkanlığını,\n g) Eğitim kuruluşları sicili: Arabuluculuk eğitimi verme izni alan eğitim kuruluşlarının kaydedildiği sicili,\n ğ) Eğitim modulü: Daire Başkanlığı tarafından hazırlanan ve eğitim kuruluşlarına arabuluculuk eğitiminde kullanılmak üzere verilen eğitim ve öğretim materyallerini,\n h) Elektronik ortam: Bilişim sistemi ve bilişim ağından oluşan toplam ortamı,\n ı) Genel Müdürlük: Adalet Bakanlığı Hukuk İşleri Genel Müdürlüğünü,\n i) İdare: 10/12/2003 tarihli ve 5018 sayılı Kamu Malî Yönetimi ve Kontrol Kanununa ekli (I), (II), (III) ve (IV) sayılı cetvellerde yer alan idare ve kurumlar ile 5018 sayılı Kanunda tanımlanan mahalli idareler ve bu idareler tarafından kurulan işletmeleri, özel kanunla kurulmuş diğer kamu kurum, kurul, üst kurul ve kuruluşları, kamu iktisadi teşebbüsleri ile bunların bağlı ortaklıkları, müessese ve işletmelerini, sermayesinin yüzde ellisinden fazlası kamuya ait diğer ortaklıkları,\n j) Kanun: Hukuk Uyuşmazlıklarında Arabuluculuk Kanununu,\n k) Komisyon: Arabuluculuk müzakerelerinde idareyi temsil eden komisyonu,\n l) Kurul: Arabuluculuk Kurulunu,\n m) Sicil: Arabulucular sicilini,\n n) Tarife: Arabuluculuk Daire Başkanlığı tarafından yıllık olarak hazırlanan ve Kurul tarafından onaylanan Arabuluculuk Asgari Ücret Tarifesini,\n o) Üst yönetici: Bakanlıklarda müsteşarı, il özel idarelerinde valiyi, belediyelerde belediye başkanını, diğer kamu idarelerinde kendi mevzuatına göre tanımlanan en üst yöneticiyi veya kurulu,\n ö) Yazılı sınav: Temel arabuluculuk eğitimini tamamlayanlara Bakanlıkça yapılacak yazılı sınavı,\n ifade eder.",
+      "preview": "(1) Bu Yönetmelikte geçen; a) Adliye arabuluculuk bürosu: Arabuluculuğa başvuranları bilgilendirmek, arabulucuları görevlendirmek ve kanunla…",
+      "kitap": null,
+      "kisim": null,
+      "bolum": null,
+      "ayirim": null,
+      "maddeBaslik": "Tanımlar",
+      "sectionPath": [
+        "Tanımlar"
+      ]
+    },
+    {
+      "id": "yonetmelik:24638:m:5",
+      "maddeKind": "madde",
+      "maddeNo": "5",
+      "heading": "Madde 5",
+      "text": "(1) Taraflar, arabulucuya başvurmak, süreci devam ettirmek, sonuçlandırmak veya bu süreçten vazgeçmek konusunda tamamen serbest olup, öncelikle uyuşmazlığı arabuluculuk yoluyla sonuçlandırma konusunda anlaşırlar. Taraflar, bu sürecin içine zorla dâhil edilemeyecekleri gibi her aşamada uyuşmazlığı arabuluculuk yoluyla çözmekten de vazgeçebilirler. Ancak dava şartı olarak arabuluculuğa ilişkin özel hükümler saklıdır.\n (2) Taraflar, gerek arabulucuya başvururken gerekse süreç boyunca eşit haklara sahiptirler. Taraflardan biri arabuluculuk sürecinin dışında bırakılamayacağı gibi söz hakkı da diğerine göre kısıtlanamaz.",
+      "preview": "(1) Taraflar, arabulucuya başvurmak, süreci devam ettirmek, sonuçlandırmak veya bu süreçten vazgeçmek konusunda tamamen serbest olup, önceli…",
+      "kitap": null,
+      "kisim": null,
+      "bolum": "İKİNCİ BÖLÜM · Arabuluculuğun Temel İlkeleri",
+      "ayirim": null,
+      "maddeBaslik": "İradi olma ve eşitlik",
+      "sectionPath": [
+        "İKİNCİ BÖLÜM · Arabuluculuğun Temel İlkeleri",
+        "İradi olma ve eşitlik"
+      ]
+    },
+    {
+      "id": "yonetmelik:24638:m:6",
+      "maddeKind": "madde",
+      "maddeNo": "6",
+      "heading": "Madde 6",
+      "text": "(1) Taraflarca aksi kararlaştırılmadıkça arabulucu, arabuluculuk faaliyeti çerçevesinde kendisine sunulan veya herhangi bir şekilde elde ettiği bilgi ve belgeler ile diğer kayıtları gizli tutmakla yükümlüdür.\n (2) Aksi kararlaştırılmadıkça taraflar, kanuni temsilcileri, avukatları ve görüşmelere katılan diğer kişiler de bu konudaki gizliliğe uymak zorundadır.\n (3) Gizlilik kuralına uyma yükümlülüğü, arabulucunun yanında çalışan kişiler, denetim ve gözetimi altında ilgili mevzuat çerçevesinde staj yapanlar, Bakanlık ve Kurul görevlileri yönünden de geçerlidir.\n (4) Gizlilik kuralına aykırı hareket eden arabulucunun; hukuki ve cezai sorumluluğu saklı olup, sicilden silinmesine karar verilebilir.",
+      "preview": "(1) Taraflarca aksi kararlaştırılmadıkça arabulucu, arabuluculuk faaliyeti çerçevesinde kendisine sunulan veya herhangi bir şekilde elde ett…",
+      "kitap": null,
+      "kisim": null,
+      "bolum": "İKİNCİ BÖLÜM · Arabuluculuğun Temel İlkeleri",
+      "ayirim": null,
+      "maddeBaslik": "Gizlilik",
+      "sectionPath": [
+        "İKİNCİ BÖLÜM · Arabuluculuğun Temel İlkeleri",
+        "Gizlilik"
+      ]
+    },
+    {
+      "id": "yonetmelik:24638:m:7",
+      "maddeKind": "madde",
+      "maddeNo": "7",
+      "heading": "Madde 7",
+      "text": "(1) Taraflar, arabulucu veya arabuluculuğa katılanlar da dâhil olmak üzere üçüncü bir kişi, uyuşmazlıkla ilgili olarak hukuk davası açıldığında yahut tahkim yoluna başvurulduğunda, aşağıdaki beyan veya belgeleri delil olarak ileri süremez ve bunlar hakkında tanıklık yapamaz:\n a) Taraflarca yapılan arabuluculuk daveti veya bir tarafın arabuluculuk faaliyetine katılma isteği.\n b) Uyuşmazlığın arabuluculuk yolu ile sona erdirilmesi için taraflarca ileri sürülen görüşler ve teklifler.\n c) Arabuluculuk faaliyeti esnasında, taraflarca ileri sürülen öneriler veya herhangi bir vakıa veya iddianın kabulü.\n ç) Sadece arabuluculuk faaliyeti dolayısıyla hazırlanan belgeler.\n (2) Birinci fıkra hükmü, beyan veya belgenin şekline bakılmaksızın uygulanır.\n (3) Birinci fıkrada belirtilen bilgilerin açıklanması mahkeme, hakem veya herhangi bir idari makam tarafından istenemez. Bu beyan veya belgeler, birinci fıkrada öngörülenin aksine, delil olarak sunulmuş olsa dahi hükme esas alınamaz. Ancak, söz konusu bilgiler bir kanun hükmü tarafından emredildiği veya arabuluculuk süreci sonunda varılan anlaşmanın uygulanması ve icrası için gerekli olduğu ölçüde açıklanabilir.\n (4) Birinci, ikinci ve üçüncü fıkralar, arabuluculuğun konusuyla ilgili olup olmadığına bakılmaksızın, hukuk davası ve tahkimde uygulanır.\n (5) Birinci fıkrada belirtilen sınırlamalar saklı kalmak koşuluyla, hukuk davası ve tahkimde ileri sürülebilen deliller, sadece arabuluculukta sunulmaları sebebiyle kabul edilemeyecek deliller hâline gelmez.",
+      "preview": "(1) Taraflar, arabulucu veya arabuluculuğa katılanlar da dâhil olmak üzere üçüncü bir kişi, uyuşmazlıkla ilgili olarak hukuk davası açıldığı…",
+      "kitap": null,
+      "kisim": null,
+      "bolum": "İKİNCİ BÖLÜM · Arabuluculuğun Temel İlkeleri",
+      "ayirim": null,
+      "maddeBaslik": "Beyan veya belgelerin kullanılamaması",
+      "sectionPath": [
+        "İKİNCİ BÖLÜM · Arabuluculuğun Temel İlkeleri",
+        "Beyan veya belgelerin kullanılamaması"
+      ]
+    },
+    {
+      "id": "yonetmelik:24638:m:8",
+      "maddeKind": "madde",
+      "maddeNo": "8",
+      "heading": "Madde 8",
+      "text": "(1) Arabulucu unvanını ve bu unvanın sağladığı yetkileri sadece sicile kayıtlı arabulucular kullanabilir. Hukuk uyuşmazlıklarında arabulucular haricinde, her ne nam altında olursa olsun taraflar arasında iletişim ve müzakere sürecini yürütmek üzere bir üçüncü kişi görevlendirilemez.\n (2) Arabulucu, arabuluculuk faaliyetine başlamadan önce bu unvanını taraflara bildirmek zorundadır.\n (3) Daire Başkanlığı, arabulucuların uzmanlık alanlarını ve uzmanlığa ilişkin usul ve esasları belirler.",
+      "preview": "(1) Arabulucu unvanını ve bu unvanın sağladığı yetkileri sadece sicile kayıtlı arabulucular kullanabilir. Hukuk uyuşmazlıklarında arabulucul…",
+      "kitap": null,
+      "kisim": null,
+      "bolum": "ÜÇÜNCÜ BÖLÜM · Arabulucuların Hak ve Yükümlülükleri",
+      "ayirim": null,
+      "maddeBaslik": "Unvanın kullanılması",
+      "sectionPath": [
+        "ÜÇÜNCÜ BÖLÜM · Arabulucuların Hak ve Yükümlülükleri",
+        "Unvanın kullanılması"
+      ]
+    },
+    {
+      "id": "yonetmelik:24638:m:9",
+      "maddeKind": "madde",
+      "maddeNo": "9",
+      "heading": "Madde 9",
+      "text": "(1) Arabulucu yapmış olduğu faaliyet karşılığı ücret ve masrafları isteme hakkına sahiptir. Arabulucu, ücret ve masraflar için avans da talep edebilir.\n (2) Arabulucu, arabuluculuk süreci başlamadan önce de arabuluculuk teklifinde bulunan taraf veya taraflardan ücret ve masraflar için avans isteyebilir. Bu fıkra uyarınca alınan ücret arabuluculuk süreci sonunda alınacak arabuluculuk ücretinden mahsup edilir. Arabuluculuk sürecinin başlamaması hâlinde bu ücret iade edilmez. Masraftan kullanılmayan kısım arabuluculuk süreci sonunda iade edilir.\n (3) Aksi kararlaştırılmadıkça arabulucunun ücreti, faaliyetin sona erdiği tarihte yürürlükte bulunan Tarifeye göre belirlenir ve ücret ile masraf, taraflarca eşit olarak karşılanır.\n (4) Arabulucu, arabuluculuk sürecine ilişkin olarak belirli kişiler için aracılık yapma veya belirli kişileri tavsiye etmenin karşılığı olarak herhangi bir ücret talep edemez. Bu yasağa aykırı olarak tesis edilen işlemler batıldır.",
+      "preview": "(1) Arabulucu yapmış olduğu faaliyet karşılığı ücret ve masrafları isteme hakkına sahiptir. Arabulucu, ücret ve masraflar için avans da tale…",
+      "kitap": null,
+      "kisim": null,
+      "bolum": "ÜÇÜNCÜ BÖLÜM · Arabulucuların Hak ve Yükümlülükleri",
+      "ayirim": null,
+      "maddeBaslik": "Ücret ve masrafların istenmesi",
+      "sectionPath": [
+        "ÜÇÜNCÜ BÖLÜM · Arabulucuların Hak ve Yükümlülükleri",
+        "Ücret ve masrafların istenmesi"
+      ]
+    },
+    {
+      "id": "yonetmelik:24638:m:10",
+      "maddeKind": "madde",
+      "maddeNo": "10",
+      "heading": "Madde 10",
+      "text": "(1) Arabulucu, tarafların her biri ile ayrı ayrı veya birlikte görüşebilir. Bu amaçla her türlü iletişim aracını kullanabilir.\n (2) Arabulucu, arabuluculuk faaliyetine ilişkin işlem ve eylemlerin doğru uygulandığına dair başlangıcından sona ermesine kadar sürece ilişkin önemli hususları belgelendirir. Belge, arabulucu, taraflar ile varsa tarafların kanuni temsilcileri veya avukatlarınca imzalanır. Belge, taraflar, kanuni temsilcileri veya avukatlarınca imzalanmaz ise sebebi belirtilmek sureti ile sadece arabulucu tarafından imzalanır.",
+      "preview": "(1) Arabulucu, tarafların her biri ile ayrı ayrı veya birlikte görüşebilir. Bu amaçla her türlü iletişim aracını kullanabilir. (2) Arabulucu…",
+      "kitap": null,
+      "kisim": null,
+      "bolum": "ÜÇÜNCÜ BÖLÜM · Arabulucuların Hak ve Yükümlülükleri",
+      "ayirim": null,
+      "maddeBaslik": "Taraflarla görüşme ve iletişim kurulması",
+      "sectionPath": [
+        "ÜÇÜNCÜ BÖLÜM · Arabulucuların Hak ve Yükümlülükleri",
+        "Taraflarla görüşme ve iletişim kurulması"
+      ]
+    },
+    {
+      "id": "yonetmelik:24638:m:11",
+      "maddeKind": "madde",
+      "maddeNo": "11",
+      "heading": "Madde 11",
+      "text": "(1) Arabulucu görevini özenle ve bizzat kendisi yerine getirmek zorunda olup, bu görevini kısmen dahi olsa bir başkasına devredemez.\n (2) Arabulucu, arabuluculuk faaliyetini yürütürken tarafsız davranmak zorunda olup, tarafsızlığı hakkında şüpheye yol açacak tutum ve davranışta bulunamaz.\n (3) Arabulucu olarak görevlendirilen kimse, tarafsızlığından şüphe edilmesini gerektirecek önemli hâl ve şartların varlığı veya bu hâl ve şartların sonradan ortaya çıkması hâlinde tarafları bilgilendirmekle yükümlüdür. Bu açıklamaya rağmen taraflar, arabulucudan görevi üstlenmesini birlikte talep ederlerse, arabulucu bu görevi üstlenebilir yahut üstlenmiş olduğu görevi sürdürebilir.\n (4) Arabulucu, taraflar arasında eşitliği gözetmekle yükümlüdür.\n (5) Arabulucu, bu sıfatla görev yaptığı uyuşmazlık ile ilgili olarak açılan davada, daha sonra taraflardan birinin avukatı olarak görev üstlenemez.",
+      "preview": "(1) Arabulucu görevini özenle ve bizzat kendisi yerine getirmek zorunda olup, bu görevini kısmen dahi olsa bir başkasına devredemez. (2) Ara…",
+      "kitap": null,
+      "kisim": null,
+      "bolum": "ÜÇÜNCÜ BÖLÜM · Arabulucuların Hak ve Yükümlülükleri",
+      "ayirim": null,
+      "maddeBaslik": "Görevin özenle ve tarafsız biçimde yerine getirilmesi",
+      "sectionPath": [
+        "ÜÇÜNCÜ BÖLÜM · Arabulucuların Hak ve Yükümlülükleri",
+        "Görevin özenle ve tarafsız biçimde yerine getirilmesi"
+      ]
+    },
+    {
+      "id": "yonetmelik:24638:m:12",
+      "maddeKind": "madde",
+      "maddeNo": "12",
+      "heading": "Madde 12",
+      "text": "(1) Arabulucuların iş elde etmek için reklam sayılabilecek her türlü teşebbüs ve harekette bulunmaları ve özellikle tabelalarında ve basılı kâğıtlarında arabulucu, avukat ve akademik unvan ile sicil numarası haricinde başka sıfat kullanmaları yasaktır.",
+      "preview": "(1) Arabulucuların iş elde etmek için reklam sayılabilecek her türlü teşebbüs ve harekette bulunmaları ve özellikle tabelalarında ve basılı…",
+      "kitap": null,
+      "kisim": null,
+      "bolum": "ÜÇÜNCÜ BÖLÜM · Arabulucuların Hak ve Yükümlülükleri",
+      "ayirim": null,
+      "maddeBaslik": "Reklam yasağı",
+      "sectionPath": [
+        "ÜÇÜNCÜ BÖLÜM · Arabulucuların Hak ve Yükümlülükleri",
+        "Reklam yasağı"
+      ]
+    },
+    {
+      "id": "yonetmelik:24638:m:13",
+      "maddeKind": "madde",
+      "maddeNo": "13",
+      "heading": "Madde 13",
+      "text": "(1) Arabulucu, arabuluculuk faaliyetinin başında, tarafları arabuluculuğun esasları, süreci ve hukuki sonuçları hakkında, şahsen ve gerektiği gibi aydınlatmakla yükümlüdür.\n (2) Arabulucu, arabuluculuk yoluyla çözümlenen hukuki uyuşmazlıklar ve arabuluculuk faaliyeti sonucunda tarafların anlaşmaya varması durumunda düzenlenecek olan anlaşma belgesi ile icra edilebilirliğin nitelik ve hukuki sonuçları hakkında tarafları bilgilendirir.",
+      "preview": "(1) Arabulucu, arabuluculuk faaliyetinin başında, tarafları arabuluculuğun esasları, süreci ve hukuki sonuçları hakkında, şahsen ve gerektiğ…",
+      "kitap": null,
+      "kisim": null,
+      "bolum": "ÜÇÜNCÜ BÖLÜM · Arabulucuların Hak ve Yükümlülükleri",
+      "ayirim": null,
+      "maddeBaslik": "Tarafların aydınlatılması",
+      "sectionPath": [
+        "ÜÇÜNCÜ BÖLÜM · Arabulucuların Hak ve Yükümlülükleri",
+        "Tarafların aydınlatılması"
+      ]
+    },
+    {
+      "id": "yonetmelik:24638:m:14",
+      "maddeKind": "madde",
+      "maddeNo": "14",
+      "heading": "Madde 14",
+      "text": "(1) Arabuluculardan sicile kayıtlarında giriş aidatı ve her yıl için yıllık aidat alınır. Aidatlar Maliye Bakanlığına ödenir.\n (2) Aidatlar, her yıl için Kurul tarafından belirlenir.\n (3) Giriş aidatı ve yıllık aidatlar genel bütçeye gelir kaydedilir.\n (4) Yıllık aidat her yılın Haziran ayı sonuna kadar ödenir.",
+      "preview": "(1) Arabuluculardan sicile kayıtlarında giriş aidatı ve her yıl için yıllık aidat alınır. Aidatlar Maliye Bakanlığına ödenir. (2) Aidatlar,…",
+      "kitap": null,
+      "kisim": null,
+      "bolum": "ÜÇÜNCÜ BÖLÜM · Arabulucuların Hak ve Yükümlülükleri",
+      "ayirim": null,
+      "maddeBaslik": "Aidat ödenmesi",
+      "sectionPath": [
+        "ÜÇÜNCÜ BÖLÜM · Arabulucuların Hak ve Yükümlülükleri",
+        "Aidat ödenmesi"
+      ]
+    },
+    {
+      "id": "yonetmelik:24638:m:15",
+      "maddeKind": "madde",
+      "maddeNo": "15",
+      "heading": "Madde 15",
+      "text": "(1) Taraflar dava açılmadan önce veya davanın görülmesi sırasında arabulucuya başvurma konusunda anlaşabilirler. Mahkeme de tarafları arabulucuya başvurmak konusunda; arabuluculuğun esasları, süreci ve hukuki sonuçları hakkında aydınlatıp, arabuluculuk yoluyla uyuşmazlığın çözülmesinin sosyal, ekonomik ve psikolojik açıdan faydalarının olabileceğini hatırlatarak onları teşvik edebilir. 12/1/2011 tarihli ve 6100 sayılı Hukuk Muhakemeleri Kanunundaki ön incelemeye ilişkin düzenlemeler saklıdır.\n (2) Aksi kararlaştırılmadıkça, taraflardan birinin arabulucuya başvuru teklifine otuz gün içinde olumlu cevap verilmez ise bu teklif reddedilmiş sayılır.\n (3) Arabuluculuk ücretini karşılamak için adli yardıma ihtiyaç duyan taraf, adliye arabuluculuk bürosunun bulunduğu yerdeki sulh hukuk mahkemesinin kararıyla adli yardımdan yararlanabilir. Bu konuda 6100 sayılı Kanunun 334 ilâ 340 ıncı maddeleri kıyasen uygulanır.\n (4) Üçüncü fıkra kapsamında arabuluculuk hizmeti verilmesi hâlinde arabulucunun ücreti Tarifeye göre belirlenir.\n (5) Arabuluculuk sürecinde tarafların avukatlık hizmeti bakımından adli yardımdan yararlanabilmesi hususunda 19/3/1969 tarihli ve 1136 sayılı Avukatlık Kanununun 176 ilâ 181 inci maddeleri uygulanır.",
+      "preview": "(1) Taraflar dava açılmadan önce veya davanın görülmesi sırasında arabulucuya başvurma konusunda anlaşabilirler. Mahkeme de tarafları arabul…",
+      "kitap": null,
+      "kisim": "İKİNCİ KISIM · Özel Hükümler",
+      "bolum": "BİRİNCİ BÖLÜM · Arabuluculuk Faaliyeti",
+      "ayirim": null,
+      "maddeBaslik": "Arabulucuya başvuru",
+      "sectionPath": [
+        "İKİNCİ KISIM · Özel Hükümler",
+        "BİRİNCİ BÖLÜM · Arabuluculuk Faaliyeti",
+        "Arabulucuya başvuru"
+      ]
+    },
+    {
+      "id": "yonetmelik:24638:m:16",
+      "maddeKind": "madde",
+      "maddeNo": "16",
+      "heading": "Madde 16",
+      "text": "(1) Başkaca bir usul kararlaştırılmadıkça arabulucu veya arabulucular taraflarca seçilir.",
+      "preview": "(1) Başkaca bir usul kararlaştırılmadıkça arabulucu veya arabulucular taraflarca seçilir.",
+      "kitap": null,
+      "kisim": "İKİNCİ KISIM · Özel Hükümler",
+      "bolum": "BİRİNCİ BÖLÜM · Arabuluculuk Faaliyeti",
+      "ayirim": null,
+      "maddeBaslik": "Arabulucunun seçilmesi",
+      "sectionPath": [
+        "İKİNCİ KISIM · Özel Hükümler",
+        "BİRİNCİ BÖLÜM · Arabuluculuk Faaliyeti",
+        "Arabulucunun seçilmesi"
+      ]
+    },
+    {
+      "id": "yonetmelik:24638:m:17",
+      "maddeKind": "madde",
+      "maddeNo": "17",
+      "heading": "Madde 17",
+      "text": "(1) Arabulucu, seçildikten sonra tarafları en kısa sürede ilk toplantıya davet eder.\n (2) Taraflar, emredici hukuk kurallarına aykırı olmamak kaydı ile arabuluculuk usulünü serbestçe kararlaştırabilir.\n (3) Taraflarca kararlaştırılmamışsa arabulucu; uyuşmazlığın niteliğini, tarafların isteklerini ve uyuşmazlığın hızlı bir şekilde çözümlenmesi için gereken usul ve esasları göz önüne alarak arabuluculuk faaliyetini yürütür.\n (4) Niteliği gereği yargısal bir yetkinin kullanımı olarak sadece hâkim tarafından yapılabilecek işlemler arabulucu tarafından yapılamaz.\n (5) Arabulucu, sürecin yürütülmesi sırasında, taraflara hukuki tavsiyelerde bulunamaz.\n (6) Arabulucu, arabuluculuk sürecini yürütürken tarafların temel çıkar ve gereksinimlerini ortaya koymaları ve bu doğrultuda menfaat temelli anlaşma sağlamaları için çaba gösterir. Arabulucu bu aşamada çözüm önerisinde bulunamaz. Ancak tarafların çözüm üretemediklerinin ortaya çıkması hâlinde arabulucu menfaat temelli bir çözüm önerisinde bulunabilir. Bununla beraber tarafları bir çözüm önerisi ya da öneriler dizisini kabule zorlayamaz. Ancak, taraflardan birinin uyuşmazlığın çözümü bağlamında sunmuş olduğu bir önerinin arabulucu tarafından, diğer tarafa iletilmesi ve onun bu konudaki beyanının alınması bu kapsamda değerlendirilemez.\n (7) Dava açıldıktan sonra tarafların birlikte arabulucuya başvuracaklarını beyan etmeleri hâlinde yargılama, mahkemece üç ayı geçmemek üzere ertelenir. Bu süre, tarafların birlikte başvurusu üzerine bir defaya mahsus olmak üzere üç aya kadar uzatılabilir.\n (8) Arabuluculuk müzakerelerine taraflar bizzat, kanuni temsilcileri veya avukatları aracılığı ile katılabilirler. Tarafların açık rızasıyla uyuşmazlığın çözümüne katkı sağlayabilecek uzman kişiler de müzakerelerde hazır bulundurulabilir.\n (9) Arabulucular, Arabulucu Bilgi Sistemi üzerinden faaliyetlerini yürütebilirler.\n (10) Arabulucular, yargı organları ve elektronik altyapısını tamamlamış kamu kurum ve kuruluşları ile bilgi ve belge alışverişini elektronik ortamda yapabilirler.",
+      "preview": "(1) Arabulucu, seçildikten sonra tarafları en kısa sürede ilk toplantıya davet eder. (2) Taraflar, emredici hukuk kurallarına aykırı olmamak…",
+      "kitap": null,
+      "kisim": "İKİNCİ KISIM · Özel Hükümler",
+      "bolum": "BİRİNCİ BÖLÜM · Arabuluculuk Faaliyeti",
+      "ayirim": null,
+      "maddeBaslik": "Arabuluculuk faaliyetinin yürütülmesi",
+      "sectionPath": [
+        "İKİNCİ KISIM · Özel Hükümler",
+        "BİRİNCİ BÖLÜM · Arabuluculuk Faaliyeti",
+        "Arabuluculuk faaliyetinin yürütülmesi"
+      ]
+    },
+    {
+      "id": "yonetmelik:24638:m:18",
+      "maddeKind": "madde",
+      "maddeNo": "18",
+      "heading": "Madde 18",
+      "text": "(1) Arabuluculuk müzakerelerinde idareyi, üst yönetici tarafından belirlenen iki üye ile hukuk birimi amiri veya onun belirleyeceği bir avukat ya da hukuk müşavirinden oluşan komisyon temsil eder. Hukuk biriminin veya kurum avukatının olmadığı hallerde komisyon üyelerinin tamamı üst yönetici tarafından belirlenir. Yedek komisyon üyeleri de aynı usulle seçilir. Komisyon kendisini vekil ile temsil ettiremez.\n (2) İdare, arabuluculuk davetlerinin yapılacağı adres, kayıtlı elektronik posta adresi ve telefon numarasını, bu Yönetmeliğin yürürlüğe girdiği tarihten itibaren bir ay içerisinde internet sitesinde yayınlar. Arabulucular görüşmeler kapsamında yapacakları davetlerde öncelikle bu bilgileri esas alır.\n (3) Komisyonda 2 yıl süreyle görev yapmak üzere asıl ve yedek üyeler belirlenir. İdare merkezde veya taşra teşkilatlarında komisyonlar kurabilir.\n (4) Süresi dolan üye yeniden seçilebilir. Asıl üyenin katılamadığı toplantıya yedek üye katılır. Komisyon kararlarını oy birliği ile alır.\n (5) Belirlenen komisyon üyeleri arabuluculuk sürecinde karar alma konusunda tam yetkilidir.\n (6) Komisyon, arabuluculuk müzakereleri sonunda gerekçeli bir rapor düzenler ve beş yıl boyunca saklar. Komisyonun sekretarya hizmetlerini yürüten birim tarafından gerekçeli raporların saklanmasına ilişkin gerekli tedbirler alınır.\n (7) Komisyon üyeleri, bu madde kapsamındaki görevleri uyarınca aldıkları kararlar ve yaptıkları işlemler nedeniyle görevinin gereklerine aykırı davrandıklarının mahkeme kararıyla tespit edilmesi dışında, mali ve idari yönden sorumlu tutulamazlar.\n (8) Komisyon üyelerinin arabuluculuk faaliyeti kapsamında yaptıkları işler ve aldıkları kararlar sebebiyle açılacak tazminat davaları, ancak Devlet aleyhine açılabilir. Devlet ödediği tazminattan dolayı görevinin gereklerine aykırı hareket etmek suretiyle görevini kötüye kullanan üyelere ödeme tarihinden itibaren bir yıl içinde rücu eder.\n (9) Devlet aleyhine tazminat davası açılması hâlinde mahkeme ilgili komisyon üyelerine davayı re’sen ihbar eder.\n (10) Komisyonun ve sekretaryasının çalışma usul ve esasları idareler tarafından belirlenir.\n (11) Komisyon üyeleri bu madde kapsamındaki görevleri uyarınca ilgili özel ve kamu kurum ve kuruluşları ile sekretarya aracılığıyla yazışma yetkisine sahiptir. Kurum ve kuruluşlar tarafından komisyona ivedi olarak cevap verilir.\n (12) İdarelerin taraf olduğu özel hukuk uyuşmazlıklarında, arabuluculuk sürecinde idarenin temsili, anlaşma belgesinin düzenlenmesi ve diğer hususlarda 7036 sayılı Kanun ile bu Yönetmelik hükümleri uygulanır.",
+      "preview": "(1) Arabuluculuk müzakerelerinde idareyi, üst yönetici tarafından belirlenen iki üye ile hukuk birimi amiri veya onun belirleyeceği bir avuk…",
+      "kitap": null,
+      "kisim": "İKİNCİ KISIM · Özel Hükümler",
+      "bolum": "BİRİNCİ BÖLÜM · Arabuluculuk Faaliyeti",
+      "ayirim": null,
+      "maddeBaslik": "İdarenin temsili",
+      "sectionPath": [
+        "İKİNCİ KISIM · Özel Hükümler",
+        "BİRİNCİ BÖLÜM · Arabuluculuk Faaliyeti",
+        "İdarenin temsili"
+      ]
+    },
+    {
+      "id": "yonetmelik:24638:m:19",
+      "maddeKind": "madde",
+      "maddeNo": "19",
+      "heading": "Madde 19",
+      "text": "(1) Arabuluculuk süreci, dava açılmadan önce arabulucuya başvuru hâlinde, tarafların ilk toplantıya davet edilmeleri ve taraflarla arabulucu arasında sürecin devam ettirilmesi konusunda anlaşmaya varılıp bu durumun bir tutanakla belgelendirildiği tarihten itibaren işlemeye başlar. Dava açılmasından sonra arabulucuya başvuru hâlinde ise bu süreç, mahkemenin tarafları arabuluculuğa davetinin taraflarca kabul edilmesi veya tarafların arabulucuya başvurma konusunda anlaşmaya vardıklarını duruşma dışında mahkemeye yazılı olarak beyan ettikleri ya da duruşmada bu beyanlarının tutanağa geçirildiği tarihten itibaren işlemeye başlar.\n (2) Arabuluculuk sürecinin başlamasından sona ermesine kadar geçirilen süre, zamanaşımı ve hak düşürücü sürelerin hesaplanmasında dikkate alınmaz.",
+      "preview": "(1) Arabuluculuk süreci, dava açılmadan önce arabulucuya başvuru hâlinde, tarafların ilk toplantıya davet edilmeleri ve taraflarla arabulucu…",
+      "kitap": null,
+      "kisim": "İKİNCİ KISIM · Özel Hükümler",
+      "bolum": "BİRİNCİ BÖLÜM · Arabuluculuk Faaliyeti",
+      "ayirim": null,
+      "maddeBaslik": "Arabuluculuk sürecinin başlaması ve sürelere etkisi",
+      "sectionPath": [
+        "İKİNCİ KISIM · Özel Hükümler",
+        "BİRİNCİ BÖLÜM · Arabuluculuk Faaliyeti",
+        "Arabuluculuk sürecinin başlaması ve sürelere etkisi"
+      ]
+    },
+    {
+      "id": "yonetmelik:24638:m:20",
+      "maddeKind": "madde",
+      "maddeNo": "20",
+      "heading": "Madde 20",
+      "text": "(1) Aşağıda belirtilen hâllerde arabuluculuk faaliyeti sona erer:\n a) Tarafların uyuşmazlık konusu üzerinde anlaşmaya varması.\n b) Taraflardan birinin karşı tarafa veya arabulucuya, arabuluculuk faaliyetinden çekildiğini bildirmesi.\n c) Tarafların anlaşarak arabuluculuk faaliyetini sona erdirmesi.\n ç) Taraflara danışıldıktan sonra arabuluculuk için daha fazla çaba sarf edilmesinin gereksiz olduğunun arabulucu tarafından tespit edilmesi.\n d) Uyuşmazlığın arabuluculuğa elverişli olmadığının tespit edilmesi.\n (2) Arabuluculuk faaliyeti sonunda tarafların anlaştıkları, anlaşamadıkları veya arabuluculuk faaliyetinin nasıl sonuçlandığı son tutanak ile belgelendirilir. Arabulucu tarafından düzenlenecek bu tutanak; arabulucu, taraflar, kanuni temsilcileri veya avukatlarınca imzalanır. Tutanak; taraflar, kanuni temsilcileri veya avukatlarınca imzalanmazsa, sebebi belirtilmek sureti ile sadece arabulucu tarafından imzalanır.\n (3) Arabuluculuk faaliyeti sonunda düzenlenen son tutanağa, faaliyetin sonuçlanması dışında hangi hususların yazılacağına taraflar karar verir. Arabulucu, bu tutanak ve sonuçları konusunda taraflara gerekli açıklamaları yapar.\n (4) Arabuluculuk faaliyetinin sona ermesi hâlinde, arabulucu, bu faaliyete ilişkin kendisine yapılan bildirimi, tevdi edilen ve elinde bulunan belgeleri, ikinci fıkraya göre düzenlenen tutanağı beş yıl süre ile saklamak zorundadır. Arabulucu, arabuluculuk faaliyeti sonunda düzenlediği son tutanağın birer örneğini taraflara verir. Tutanağın bir örneğini de arabuluculuk faaliyetinin sona ermesinden itibaren bir ay içinde Arabulucu Bilgi Sistemi üzerinden Genel Müdürlüğe gönderir.\n (5) Arabulucu, arabuluculuk sürecinde hukuki ve fiili sebeplerle görevini yapamayacak hâle gelirse, tarafların üzerinde anlaştığı yeni bir arabulucu ile süreç kaldığı yerden devam ettirilebilir. Önceki yapılan işlemler geçerliliğini korur.",
+      "preview": "(1) Aşağıda belirtilen hâllerde arabuluculuk faaliyeti sona erer: a) Tarafların uyuşmazlık konusu üzerinde anlaşmaya varması. b) Taraflardan…",
+      "kitap": null,
+      "kisim": "İKİNCİ KISIM · Özel Hükümler",
+      "bolum": "BİRİNCİ BÖLÜM · Arabuluculuk Faaliyeti",
+      "ayirim": null,
+      "maddeBaslik": "Arabuluculuğun sona ermesi",
+      "sectionPath": [
+        "İKİNCİ KISIM · Özel Hükümler",
+        "BİRİNCİ BÖLÜM · Arabuluculuk Faaliyeti",
+        "Arabuluculuğun sona ermesi"
+      ]
+    },
+    {
+      "id": "yonetmelik:24638:m:21",
+      "maddeKind": "madde",
+      "maddeNo": "21",
+      "heading": "Madde 21",
+      "text": "(1) Arabuluculuk faaliyeti sonunda varılan anlaşmanın kapsamı taraflarca belirlenir, anlaşma belgesi düzenlenmesi hâlinde, bu belge taraflar ve arabulucu tarafından imzalanır.\n (2) Taraflar, arabuluculuk faaliyeti sonunda bir anlaşmaya varırsa, bu anlaşma belgesinin icra edilebilirliğine ilişkin şerh verilmesini talep edebilirler. Bu şerhi içeren anlaşma, ilam niteliğinde belge sayılır.\n (3) Dava açılmadan önce arabuluculuğa başvurulmuşsa, anlaşmanın icra edilebilirliğine ilişkin şerh verilmesi, çekişmesiz yargıya ilişkin yetki hükümleri yanında arabulucunun görev yaptığı yer sulh hukuk mahkemesinden talep edilebilir.\n (4) Davanın görülmesi sırasında arabuluculuğa başvurulması durumunda anlaşmanın icra edilebilirliğine ilişkin şerh verilmesi, davanın görüldüğü mahkemeden talep edilebilir.\n (5) İcra edilebilirlik şerhinin verilmesi, çekişmesiz yargı işidir ve buna ilişkin inceleme dosya üzerinden yapılır. Ancak arabuluculuğa elverişli olan aile hukukuna ilişkin uyuşmazlıklarda inceleme duruşmalı olarak yapılır. Bu incelemenin kapsamı anlaşmanın içeriğinin arabuluculuğa ve cebrî icraya elverişli olup olmadığı hususları ile sınırlıdır. Anlaşma belgesine icra edilebilirlik şerhi verilmesi için mahkemeye yapılacak olan başvuru ile bunun üzerine verilecek kararlara karşı ilgili tarafından istinaf yoluna gidilmesi hâlinde, maktu harç alınır. Taraflar anlaşma belgesini icra edilebilirlik şerhi verdirmeden başka bir resmî işlemde kullanmak isterlerse, damga vergisi de maktu olarak alınır.\n (6) Taraflar ve avukatları ile arabulucunun birlikte imzaladıkları anlaşma belgesi, icra edilebilirlik şerhi aranmaksızın ilam niteliğinde belge sayılır.\n (7) Arabuluculuk faaliyeti sonunda anlaşmaya varılması hâlinde, üzerinde anlaşılan hususlar hakkında taraflarca dava açılamaz.",
+      "preview": "(1) Arabuluculuk faaliyeti sonunda varılan anlaşmanın kapsamı taraflarca belirlenir, anlaşma belgesi düzenlenmesi hâlinde, bu belge taraflar…",
+      "kitap": null,
+      "kisim": "İKİNCİ KISIM · Özel Hükümler",
+      "bolum": "BİRİNCİ BÖLÜM · Arabuluculuk Faaliyeti",
+      "ayirim": null,
+      "maddeBaslik": "Tarafların anlaşması",
+      "sectionPath": [
+        "İKİNCİ KISIM · Özel Hükümler",
+        "BİRİNCİ BÖLÜM · Arabuluculuk Faaliyeti",
+        "Tarafların anlaşması"
+      ]
+    },
+    {
+      "id": "yonetmelik:24638:m:22",
+      "maddeKind": "madde",
+      "maddeNo": "22",
+      "heading": "Madde 22",
+      "text": "(1) Arabulucuya başvurulmuş olmasının kanunla dava şartı olarak düzenlendiği durumlarda davacı, arabuluculuk faaliyeti sonunda anlaşmaya varılamadığına ilişkin son tutanağın aslını veya arabulucu tarafından onaylanmış bir örneğini dava dilekçesine eklemek zorundadır.\n (2) Bu zorunluluğa uyulmaması hâlinde mahkemece davacıya, son tutanağın bir haftalık kesin süre içinde mahkemeye sunulması gerektiği, aksi takdirde davanın usulden reddedileceği ihtarını içeren davetiye gönderilir. İhtarın gereği yerine getirilmez ise dava dilekçesi karşı tarafa tebliğe çıkarılmaksızın davanın usulden reddine karar verilir.\n (3) Dava dilekçesi içeriğinden açıkça arabulucuya başvurulmadan dava açıldığının anlaşılması hâlinde derhal herhangi bir usuli işlem yapılmadan ve duruşma yapılmaksızın dosya üzerinden davanın, dava şartı yokluğu sebebiyle usulden reddine karar verilir.",
+      "preview": "(1) Arabulucuya başvurulmuş olmasının kanunla dava şartı olarak düzenlendiği durumlarda davacı, arabuluculuk faaliyeti sonunda anlaşmaya var…",
+      "kitap": null,
+      "kisim": "İKİNCİ KISIM · Özel Hükümler",
+      "bolum": "İKİNCİ BÖLÜM · Dava Şartı Olarak Arabuluculuk",
+      "ayirim": null,
+      "maddeBaslik": "Dava şartı olarak arabuluculuk",
+      "sectionPath": [
+        "İKİNCİ KISIM · Özel Hükümler",
+        "İKİNCİ BÖLÜM · Dava Şartı Olarak Arabuluculuk",
+        "Dava şartı olarak arabuluculuk"
+      ]
+    },
+    {
+      "id": "yonetmelik:24638:m:23",
+      "maddeKind": "madde",
+      "maddeNo": "23",
+      "heading": "Madde 23",
+      "text": "(1) Başvuru karşı tarafın, karşı taraf birden fazla ise bunlardan birinin yerleşim yerindeki veya işin yapıldığı yerdeki adliye arabuluculuk bürosuna, adliye arabuluculuk bürosu kurulmayan yerlerde ise görevlendirilen sulh hukuk mahkemesi yazı işleri müdürlüğüne yapılır. Adliye arabuluculuk bürosu kurulmayan yerlerde, büronun görevini, görevlendirilen sulh hukuk mahkemesi yazı işleri müdürlüğü yerine getirir.\n (2) Tarafların ve uyuşmazlık konusunun aynı olduğu durumlarda birden fazla başvuru yapılmış ise, başvurunun hukuki sonuçları bakımından ilk başvuru esas alınır.\n (3) Başvuru, dilekçe ile veya bürolarda bulunan formların doldurulması suretiyle yahut elektronik ortamda yapılabilir.\n (4) Arabuluculuk başvurusu sırasında başvurandan, uyuşmazlık konusuna ilişkin hususların açıklanması istenir.",
+      "preview": "(1) Başvuru karşı tarafın, karşı taraf birden fazla ise bunlardan birinin yerleşim yerindeki veya işin yapıldığı yerdeki adliye arabuluculuk…",
+      "kitap": null,
+      "kisim": "İKİNCİ KISIM · Özel Hükümler",
+      "bolum": "İKİNCİ BÖLÜM · Dava Şartı Olarak Arabuluculuk",
+      "ayirim": null,
+      "maddeBaslik": "Dava şartı olarak arabuluculuğa başvuru",
+      "sectionPath": [
+        "İKİNCİ KISIM · Özel Hükümler",
+        "İKİNCİ BÖLÜM · Dava Şartı Olarak Arabuluculuk",
+        "Dava şartı olarak arabuluculuğa başvuru"
+      ]
+    },
+    {
+      "id": "yonetmelik:24638:m:24",
+      "maddeKind": "madde",
+      "maddeNo": "24",
+      "heading": "Madde 24",
+      "text": "(1) Arabulucu, adli yargı ilk derece mahkemesi adalet komisyonu başkanlıklarına bildirilen listeden adliye arabuluculuk bürosu tarafından puanlama yöntemiyle belirlenir. Ancak tarafların listede yer alan herhangi bir arabulucu üzerinde başvuru sırasında anlaşmaları hâlinde taraflar veya tarafların imzasını taşıyan bir tutanakla beraber üzerinde anlaşılan arabulucu, durumu adliye arabuluculuk bürosuna bildirdiğinde bu arabulucu görevlendirilir. Dava şartı olan arabuluculuk ile ilgili uyuşmazlıklarda liste dışında bir arabulucu görevlendirilemez.\n (2) Başvuran taraf, kendisine ve elinde bulunması hâlinde karşı tarafa ait her türlü iletişim bilgisini adliye arabuluculuk bürosuna verir. Adliye arabuluculuk bürosu, tarafların resmi kayıtlarda yer alan iletişim bilgilerini araştırmaya da yetkilidir. İlgili kurum ve kuruluşlar, uyuşmazlık konusuyla sınırlı olmak üzere adliye arabuluculuk bürosu tarafından talep edilen iletişim bilgilerini vermekle yükümlüdür.\n (3) Taraflara ait iletişim bilgileri, görevlendirilen arabulucuya adliye arabuluculuk bürosu tarafından verilir. Arabulucu bu iletişim bilgilerini esas alır, ihtiyaç duyduğunda kendiliğinden araştırma da yapabilir. Elindeki bilgiler itibarıyla her türlü iletişim vasıtasını kullanarak görevlendirme konusunda tarafları bilgilendirir ve ilk toplantıya tarafları ve varsa avukatlarını birlikte davet eder. Bilgilendirme ve davete ilişkin işlemlerini belgeye bağlar. Arabulucu taraflara ulaşamaması hâlinde, ulaşmak için hangi yolları denediğini ve hangi sebeplerle ulaşamadığını son tutanakta belirtir.",
+      "preview": "(1) Arabulucu, adli yargı ilk derece mahkemesi adalet komisyonu başkanlıklarına bildirilen listeden adliye arabuluculuk bürosu tarafından pu…",
+      "kitap": null,
+      "kisim": "İKİNCİ KISIM · Özel Hükümler",
+      "bolum": "İKİNCİ BÖLÜM · Dava Şartı Olarak Arabuluculuk",
+      "ayirim": null,
+      "maddeBaslik": "Dava şartı olarak arabuluculukta arabulucunun görevlendirilmesi",
+      "sectionPath": [
+        "İKİNCİ KISIM · Özel Hükümler",
+        "İKİNCİ BÖLÜM · Dava Şartı Olarak Arabuluculuk",
+        "Dava şartı olarak arabuluculukta arabulucunun görevlendirilmesi"
+      ]
+    },
+    {
+      "id": "yonetmelik:24638:m:25",
+      "maddeKind": "madde",
+      "maddeNo": "25",
+      "heading": "Madde 25",
+      "text": "(1) Arabuluculuk görüşmelerine taraflar bizzat, kanuni temsilcileri veya avukatları, idareler ise oluşturacakları komisyon aracılığıyla katılabilirler. İşverenin adi veya resmi yazılı belgeyle yetkilendirdiği çalışanı da görüşmelerde işvereni temsil edebilir ve son tutanağı imzalayabilir.\n (2) (Danıştay Onuncu Dairesinin 8/4/2021 tarihli ve E.:2018/3449; K.:2021/1714 sayılı kararı ile iptal cümle; Arabulucu adliye arabuluculuk bürosu tarafından görevlendirildikten sonra ilk önce başvuran taraftan başlamak üzere asiller ile ön görüşme yapar, başvurucudan ve diğer taraftan uyuşmazlığın esasını öğrenir.) Arabulucu asilleri, arabuluculuğun esasları, süreci ve sonuçları hakkında aydınlatıp, arabuluculuk yoluyla uyuşmazlığın çözümünün ekonomik, sosyal ve psikolojik faydalarının olduğunu hatırlatarak onları bilgilendirir. Asilleri ilk oturuma varsa vekilleri ile birlikte davet eder.\n (3) Arabulucu ilk oturum davetini yaparken toplantı tarihi ve yerinin belirlenmesi konusunda taraflar ile iletişim kurar. Taraflarla yaptığı görüşme sonucunda bir mutabakat sağlanamazsa toplantı tarihini ve yerini kendisi belirler.\n (4) Arabulucu, görevlendirmeyi yapan adliye arabuluculuk bürosunun yetkili olup olmadığını kendiliğinden dikkate alamaz. Karşı taraf en geç ilk toplantıda, yerleşim yeri ve işin yapıldığı yere ilişkin belgelerini sunmak suretiyle adliye arabuluculuk bürosunun yetkisine itiraz edebilir. Bu durumda arabulucu, dosyayı derhal ilgili sulh hukuk mahkemesine gönderilmek üzere adliye arabuluculuk bürosuna teslim eder. Mahkeme, harç alınmaksızın dosya üzerinden ivedilikle yapacağı inceleme sonunda yetkili adliye arabuluculuk bürosunu belirleyip kesin olarak karara bağlar ve dosyayı adliye arabuluculuk bürosuna iade eder. Yetki itirazına ilişkin inceleme yapılırken mahkemece atamayı yapan büro değil görevlendirilen arabulucunun listesinde kayıtlı bulunduğu komisyon dikkate alınır. Mahkeme kararı adliye arabuluculuk bürosu tarafından 11/2/1959 tarihli ve 7201 sayılı Tebligat Kanunu hükümleri uyarınca taraflara masrafı suçüstü ödeneğinden karşılanmak üzere tebliğ edilir. Yetkisiz adliye arabuluculuk bürosu ayrıca kararı görevlendirdiği arabulucuya bildirir. Arabulucu görevlendirmeyi Arabulucu Bilgi Sistemi üzerinden sonlandırır. Arabulucu bundan önceki yaptığı hizmetler sebebiyle 26 ncı maddenin ikinci fıkrası uyarınca ücrete hak kazanır. Yetki itirazının reddi durumunda aynı arabulucu yeniden görevlendirilir ve 27 nci maddenin birinci fıkrasında belirtilen süreler yeni görevlendirme tarihinden başlar. Yetki itirazının kabulü durumunda ise kararın tebliğinden itibaren bir hafta içinde yetkili adliye arabuluculuk bürosuna başvurulabilir. Bu takdirde yetkisiz adliye arabuluculuk bürosuna başvurma tarihi yetkili adliye arabuluculuk bürosuna başvurma tarihi olarak kabul edilir. Yetkili adliye arabuluculuk bürosu, 24 üncü maddenin birinci fıkrası uyarınca arabulucu görevlendirir.\n (5) Arabulucu, yapılan başvuruyu görevlendirildiği tarihten itibaren üç hafta içinde sonuçlandırır. Bu süre zorunlu hallerde arabulucu tarafından en fazla bir hafta uzatılabilir. Sürenin sonucunda arabulucu anlaşamama yönünde re’sen son tutanağı düzenler.\n (6) Tarafların uyuşmazlık konusunda anlaşmaları veya kısmen anlaşmaları hâlinde süreç anlaşma son tutanağı ile sonuçlandırılır. Bunların haricindeki her durumda taraflar anlaşmamış sayılır ve anlaşmama son tutanağı düzenlenir.\n (7) Tarafların arabuluculuk sürecinde ileri sürülen taleplerden bir kısmı üzerinde anlaşmaya varmaları hâlinde, üzerinde anlaşma sağlanan ve sağlanamayan hususlar son tutanakta açıkça belirtilir ve ücret taraflardan aksi kararlaştırılmadıkça eşitçe alınır.\n (8) Arabulucu, taraflara ulaşılamaması, taraflar katılmadığı için görüşme yapılamaması, yapılan görüşmeler sonucunda veya kanunda belirtilen süre içerisinde anlaşmaya varılamaması yahut varılması hallerinde arabuluculuk faaliyetini sona erdirir ve son tutanağı düzenleyerek durumu derhal adliye arabuluculuk bürosuna bildirir.\n (9) Taraflardan birinin geçerli bir mazeret göstermeksizin ilk toplantıya katılmaması sebebiyle arabuluculuk faaliyetinin sona ermesi durumunda toplantıya katılmayan taraf, son tutanakta belirtilir ve bu taraf davada kısmen veya tamamen haklı çıksa bile yargılama giderinin tamamından sorumlu tutulur. Ayrıca bu taraf lehine vekâlet ücretine hükmedilmez. Her iki tarafın da ilk toplantıya katılmaması sebebiyle sona eren arabuluculuk faaliyeti üzerine açılacak davalarda tarafların yaptıkları yargılama giderleri kendi üzerlerinde bırakılır. Arabulucu tarafları ilk toplantıya her türlü iletişim aracıyla davet ettiğini belgelendirir. Arabulucunun düzenlediği belgeler geçerli mazeretin değerlendirilmesinde esas alınır.",
+      "preview": "(1) Arabuluculuk görüşmelerine taraflar bizzat, kanuni temsilcileri veya avukatları, idareler ise oluşturacakları komisyon aracılığıyla katı…",
+      "kitap": null,
+      "kisim": "İKİNCİ KISIM · Özel Hükümler",
+      "bolum": "İKİNCİ BÖLÜM · Dava Şartı Olarak Arabuluculuk",
+      "ayirim": null,
+      "maddeBaslik": "Dava şartı olarak arabuluculukta arabuluculuk faaliyeti",
+      "sectionPath": [
+        "İKİNCİ KISIM · Özel Hükümler",
+        "İKİNCİ BÖLÜM · Dava Şartı Olarak Arabuluculuk",
+        "Dava şartı olarak arabuluculukta arabuluculuk faaliyeti"
+      ]
+    },
+    {
+      "id": "yonetmelik:24638:m:26",
+      "maddeKind": "madde",
+      "maddeNo": "26",
+      "heading": "Madde 26",
+      "text": "(1) Tarafların arabuluculuk faaliyeti sonunda tamamen veya kısmen anlaşmaları hâlinde, arabuluculuk ücreti, Arabuluculuk Asgari Ücret Tarifesinin eki Arabuluculuk Ücret Tarifesinin İkinci Kısmına göre aksi kararlaştırılmadıkça taraflarca eşit şekilde karşılanır. Bu durumda ücret, Tarifenin Birinci Kısmında belirlenen iki saatlik ücret tutarından az olamaz. İşe iade talebiyle yapılan görüşmelerde tarafların anlaşmaları durumunda, arabulucuya ödenecek ücretin belirlenmesinde işçiye işe başlatılmaması hâlinde ödenecek tazminat miktarı ile çalıştırılmadığı süre için ödenecek ücret ve diğer haklarının toplamı, Tarifenin İkinci Kısmı uyarınca üzerinde anlaşılan miktar olarak kabul edilir.\n (2) Arabuluculuk faaliyeti sonunda tarafların anlaşamamaları hâlinde iki saatlik ücret tutarı Tarifenin Birinci Kısmına göre Bakanlık bütçesinden ödenir. İki saatten fazla süren görüşmeler sonunda tarafların anlaşamamaları hâlinde ise iki saati aşan kısma ilişkin ücret aksi kararlaştırılmadıkça taraflarca eşit şekilde, Tarifenin Birinci Kısmına göre karşılanır. Bakanlık bütçesinden ödenen ve taraflarca karşılanan arabuluculuk ücreti, yargılama giderlerinden sayılır. Dava açılması hâlinde mahkeme tarafından dava öncesi ödenen arabuluculuk ücretlerine ilişkin makbuz dosyaya eklenir. Yargılama giderleri olarak hükmedilen tutar 6183 sayılı Kanuna göre tahsil edilir.\n (3) Sürecin sehven kayıt, mükerrer kayıt veya arabuluculuğa elverişli olmama nedeniyle sona erdirilmesi hallerinde arabulucuya ikinci fıkra uyarınca ücret ödenmez.\n (4) Bu madde uyarınca adliye arabuluculuk bürosu tarafından yapılması gereken zaruri giderler; arabuluculuk faaliyeti sonunda anlaşmaya varılması hâlinde anlaşma uyarınca taraflarca ödenmek, anlaşmaya varılamaması hâlinde ise ileride haksız çıkacak taraftan tahsil olunmak üzere Bakanlık bütçesinden karşılanır. Dava açılması hâlinde mahkeme tarafından, yapılan zorunlu giderlere ilişkin makbuz dosyaya eklenir. Yargılama giderleri olarak hükmedilen tutar 6183 sayılı Kanuna göre tahsil edilir.\n (5) Adliye arabuluculuk bürosu tarafından, adliye arabuluculuk bürosu bulunmayan yerde sulh hukuk mahkemesi yazı işleri müdürlüğü tarafından Bakanlık tarafından ödenen arabuluculuk ücretine ilişkin liste, ödenmek üzere Cumhuriyet başsavcılığına gönderilir.\n (6) Kamu görevlileri tarafından yürütülen arabuluculuk faaliyetleri sonucunda taraflarca anlaşılan ya da Tarifeye göre tahakkuk edecek arabuluculuk ücreti, arabulucunun listesinde yer aldığı komisyona bağlı adliye arabuluculuk bürosu veya adliye arabuluculuk bürosu bulunmayan yerde sulh hukuk mahkemesi yazı işleri müdürlüğüne arabulucu tarafından bildirilir. Taraflar, arabulucu ücretini belirlenen tarihte adliye arabuluculuk bürosu veznesine yatırır. Adliye arabuluculuk bürosu yasal kesintileri yaptıktan sonra arabulucunun bildirmiş olduğu banka hesabına havale eder. Dava şartı olan arabuluculukta anlaşamama hâlinde düzenlenen sarf kararı gereğince ücret Cumhuriyet savcılığınca arabulucunun banka hesabına yatırılır.",
+      "preview": "(1) Tarafların arabuluculuk faaliyeti sonunda tamamen veya kısmen anlaşmaları hâlinde, arabuluculuk ücreti, Arabuluculuk Asgari Ücret Tarife…",
+      "kitap": null,
+      "kisim": "İKİNCİ KISIM · Özel Hükümler",
+      "bolum": "İKİNCİ BÖLÜM · Dava Şartı Olarak Arabuluculuk",
+      "ayirim": null,
+      "maddeBaslik": "Dava şartı olarak arabuluculukta arabuluculuk ücreti ve giderler",
+      "sectionPath": [
+        "İKİNCİ KISIM · Özel Hükümler",
+        "İKİNCİ BÖLÜM · Dava Şartı Olarak Arabuluculuk",
+        "Dava şartı olarak arabuluculukta arabuluculuk ücreti ve giderler"
+      ]
+    },
+    {
+      "id": "yonetmelik:24638:m:27",
+      "maddeKind": "madde",
+      "maddeNo": "27",
+      "heading": "Madde 27",
+      "text": "(1) Adliye arabuluculuk bürosuna başvurulmasından, son tutanağın düzenlendiği tarihe kadar geçen sürede uyuşmazlık konusu hususlarda zamanaşımı durur ve hak düşürücü süre işlemez.",
+      "preview": "(1) Adliye arabuluculuk bürosuna başvurulmasından, son tutanağın düzenlendiği tarihe kadar geçen sürede uyuşmazlık konusu hususlarda zamanaş…",
+      "kitap": null,
+      "kisim": "İKİNCİ KISIM · Özel Hükümler",
+      "bolum": "İKİNCİ BÖLÜM · Dava Şartı Olarak Arabuluculuk",
+      "ayirim": null,
+      "maddeBaslik": "Dava şartı olarak arabuluculuğun sürelere etkisi",
+      "sectionPath": [
+        "İKİNCİ KISIM · Özel Hükümler",
+        "İKİNCİ BÖLÜM · Dava Şartı Olarak Arabuluculuk",
+        "Dava şartı olarak arabuluculuğun sürelere etkisi"
+      ]
+    },
+    {
+      "id": "yonetmelik:24638:m:28",
+      "maddeKind": "madde",
+      "maddeNo": "28",
+      "heading": "Madde 28",
+      "text": "(1) Arabuluculuk görüşmeleri, taraflarca aksi kararlaştırılmadıkça, arabulucuyu görevlendiren adliye arabuluculuk bürosunun bağlı bulunduğu adli yargı ilk derece mahkemesi adalet komisyonunun yetki alanı içinde yürütülür.\n (2) Seri uyuşmazlıklar, adliye arabuluculuk bürosu tarafından atanan aynı arabulucuya tevdi edilir. Seri uyuşmazlığın sayısı ve puanlama usulü Daire Başkanlığınca belirlenir.\n (3) Adliye arabuluculuk bürosunca yapılan atamalarda her dosya için arabulucuya puan verilir, puanlama ve atama usulü ile performans kriterleri Daire Başkanlığı tarafından belirlenir.",
+      "preview": "(1) Arabuluculuk görüşmeleri, taraflarca aksi kararlaştırılmadıkça, arabulucuyu görevlendiren adliye arabuluculuk bürosunun bağlı bulunduğu…",
+      "kitap": null,
+      "kisim": "İKİNCİ KISIM · Özel Hükümler",
+      "bolum": "İKİNCİ BÖLÜM · Dava Şartı Olarak Arabuluculuk",
+      "ayirim": null,
+      "maddeBaslik": "Dava şartı olarak arabuluculukta yetki ve atama usulü",
+      "sectionPath": [
+        "İKİNCİ KISIM · Özel Hükümler",
+        "İKİNCİ BÖLÜM · Dava Şartı Olarak Arabuluculuk",
+        "Dava şartı olarak arabuluculukta yetki ve atama usulü"
+      ]
+    },
+    {
+      "id": "yonetmelik:24638:m:29",
+      "maddeKind": "madde",
+      "maddeNo": "29",
+      "heading": "Madde 29",
+      "text": "(1) Özel hukuk uyuşmazlıklarında arabuluculuk yapma yetkisini kazanmış kişilerin sicilleri, sicil numarası verilmek suretiyle, Daire Başkanlığınca tutulur.\n (2) Sicilde kişinin ad ve soyadı, uzmanlık alanı, varsa diğer mesleği, iş adresi ve akademik unvanı gibi şahsi bilgileri yer alır. Bu bilgiler, Daire Başkanlığı internet sitesinde duyurulur.\n (3) Arabulucu, sicilde yer alan kendisine ait bilgilerde meydana gelen her türlü değişikliği bir ay içinde varsa belgesi ile birlikte Genel Müdürlüğe bildirmek zorundadır. Bu değişiklikler ile ilgili olarak Daire Başkanlığı tarafından elektronik ortamda gerekli düzeltmeler yapılır.\n (4) Daire Başkanlığı, arabulucular hakkında elektronik ortamda şahsi sicil dosyası tutar. Şahsi sicil dosyasına arabulucunun kimliği, öğrenim ve meslek durumu, bildiği yabancı dil, meslekî eserleri ve yazıları, disiplin ve ceza soruşturması ve sonuçları, başka görevlerde geçen hizmet gibi hususlara ilişkin belgeler konulur.",
+      "preview": "(1) Özel hukuk uyuşmazlıklarında arabuluculuk yapma yetkisini kazanmış kişilerin sicilleri, sicil numarası verilmek suretiyle, Daire Başkanl…",
+      "kitap": null,
+      "kisim": "İKİNCİ KISIM · Özel Hükümler",
+      "bolum": "ÜÇÜNCÜ BÖLÜM · Arabulucular Sicili",
+      "ayirim": null,
+      "maddeBaslik": "Sicilin tutulması",
+      "sectionPath": [
+        "İKİNCİ KISIM · Özel Hükümler",
+        "ÜÇÜNCÜ BÖLÜM · Arabulucular Sicili",
+        "Sicilin tutulması"
+      ]
+    },
+    {
+      "id": "yonetmelik:24638:m:30",
+      "maddeKind": "madde",
+      "maddeNo": "30",
+      "heading": "Madde 30",
+      "text": "(1) Sicile kayıt, ilgilinin Daire Başkanlığına Arabulucu Bilgi Sistemi üzerinden başvurması ve şartları taşıdığının anlaşılması üzerine yapılır.\n (2) Sicile kaydedilebilmek için;\n a) Türk vatandaşı olmak,\n b) Mesleğinde en az beş yıllık kıdeme sahip hukuk fakültesi mezunu olmak,\n c) Tam ehliyetli olmak,\n ç) 26/9/2004 tarihli ve 5237 sayılı Türk Ceza Kanununun 53 üncü maddesinde belirtilen süreler geçmiş olsa bile; kasten işlenen bir suçtan dolayı bir yıldan fazla süreyle hapis cezasına ya da affa uğramış olsa bile Devletin güvenliğine karşı suçlar, Anayasal düzene ve bu düzenin işleyişine karşı suçlar, zimmet, irtikâp, rüşvet, hırsızlık, dolandırıcılık, sahtecilik, güveni kötüye kullanma, hileli iflas, ihaleye fesat karıştırma, edimin ifasına fesat karıştırma, suçtan kaynaklanan malvarlığı değerlerini aklama veya kaçakçılık, gerçeğe aykırı bilirkişilik yapma, yalan tanıklık ve yalan yere yemin suçlarından mahkûm olmamak,\n d) Terör örgütleriyle iltisaklı veya irtibatlı olmamak,\n e) Arabuluculuk eğitimini tamamlamak ve Bakanlıkça yapılan yazılı sınavda başarılı olmak,\n gerekir.\n (3) İlgili, başvuru sırasında 29 uncu maddenin ikinci fıkrasında belirtilen şahsi bilgilerini içeren belgeler ile bu maddenin ikinci fıkrasındaki şartları taşıdığına dair belgeleri elektronik ortamda iletir.\n (4) Başvuru tarihi itibarı ile fiilen avukatlık mesleğini veya bir kamu görevini ifa etmeyen başvuru sahiplerinin, arabuluculuk mesleğini yapmalarına ruhen ve bedenen engel bir hâllerinin bulunmadığını sağlık kuruluşlarından alacakları raporlarla belgelendirmeleri gerekir.\n (5) Sicile kayıt için başvuruda bulunan kişi, ikinci fıkranın (b) bendindeki şartı taşıdığını ve dördüncü fıkrada bahsedilen sağlık durumunu düzenlenme tarihi itibarı ile altı aydan daha eski tarihli olmayan belgelerle ispatlamak zorundadır.\n (6) İkinci fıkrada sayılan sicile kayıt şartlarını taşıdığı anlaşılan ve belgelerinde eksiklik bulunmayan başvuru sahiplerinin sicile kayıtlarının yapılacağı hususu ile şartları taşımadığı anlaşılan veya verilen bir aylık süreye rağmen eksik belgelerini sunmayan başvuru sahiplerinin sicile kayıtlarının yapılamayacağı hususunda Daire Başkanlığınca başvuru tarihinden veya eksik belgenin ikmalinden itibaren iki ay içinde karar verilir. Bu kararlar ilgilisine de tebliğ edilir. Bu kişiler belge eksikliklerini ikmal ettiklerinde yeniden sicile kayıt için başvuruda bulunabilirler.\n (7) Arabulucu, sicile kayıt tarihinden itibaren faaliyetine başlayabilir.\n (8) Arabulucu, üçüncü fıkrada sayılan şartlarla ilgili olarak kendisine ait bilgilerde meydana gelen her türlü değişikliği bir ay içinde varsa belgesi ile birlikte Genel Müdürlüğe iletir. Bu değişiklikler ile ilgili olarak Daire Başkanlığı tarafından sicilde ve elektronik ortamda gerekli düzeltmeler yapılır.\n (9) Daire Başkanlığı, sicile kayıtlı arabulucuları, görev yapmak istedikleri adli yargı ilk derece mahkemesi adalet komisyonlarına göre listeler ve listeleri ilgili komisyon başkanlıklarına bildirir. Bir arabulucu, en fazla üç komisyon listesine kaydolabilir.",
+      "preview": "(1) Sicile kayıt, ilgilinin Daire Başkanlığına Arabulucu Bilgi Sistemi üzerinden başvurması ve şartları taşıdığının anlaşılması üzerine yapı…",
+      "kitap": null,
+      "kisim": "İKİNCİ KISIM · Özel Hükümler",
+      "bolum": "ÜÇÜNCÜ BÖLÜM · Arabulucular Sicili",
+      "ayirim": null,
+      "maddeBaslik": "Sicile kayıt olma şartları",
+      "sectionPath": [
+        "İKİNCİ KISIM · Özel Hükümler",
+        "ÜÇÜNCÜ BÖLÜM · Arabulucular Sicili",
+        "Sicile kayıt olma şartları"
+      ]
+    },
+    {
+      "id": "yonetmelik:24638:m:31",
+      "maddeKind": "madde",
+      "maddeNo": "31",
+      "heading": "Madde 31",
+      "text": "(1) Arabuluculuk için aranan koşulları taşımadığı hâlde sicile kaydedilen veya daha sonra bu koşulları kaybeden arabulucunun kaydı Daire Başkanlığınca silinir. Arabulucunun ölümü hâlinde de aynı işlem yapılır.\n (2) Daire Başkanlığı, Kanunun öngördüğü yükümlülükleri önemli ölçüde veya sürekli yerine getirmediğini tespit ettiği arabulucuyu yazılı olarak uyarır; uyarıya uyulmaması hâlinde arabulucunun yazılı savunmasını ister. Arabulucu, istemin tebliğinden itibaren on günlük süre içinde savunmasını vermek zorundadır. Tebliğden imtina eden veya bu süre içinde savunmada bulunmayan arabulucu savunma hakkından vazgeçmiş sayılır. Bu işlemlerden sonra Daire Başkanlığı, gerekirse arabulucunun adının sicilden silinmesini Kuruldan talep eder. Kurul tarafından sicilden silinmeye yönelik bir karar verilirse Daire Başkanlığınca bu karar ilgilisine tebliğ edilir.\n (3) Arabulucu, sicilden kaydının silinmesini her zaman isteyebilir. Bu şekilde sicilden kaydı silinenler sınav şartı aranmaksızın diğer şartları haiz ise yeniden sicile kayıt yaptırabilirler.",
+      "preview": "(1) Arabuluculuk için aranan koşulları taşımadığı hâlde sicile kaydedilen veya daha sonra bu koşulları kaybeden arabulucunun kaydı Daire Baş…",
+      "kitap": null,
+      "kisim": "İKİNCİ KISIM · Özel Hükümler",
+      "bolum": "ÜÇÜNCÜ BÖLÜM · Arabulucular Sicili",
+      "ayirim": null,
+      "maddeBaslik": "Sicilden silinme",
+      "sectionPath": [
+        "İKİNCİ KISIM · Özel Hükümler",
+        "ÜÇÜNCÜ BÖLÜM · Arabulucular Sicili",
+        "Sicilden silinme"
+      ]
+    },
+    {
+      "id": "yonetmelik:24638:m:32",
+      "maddeKind": "madde",
+      "maddeNo": "32",
+      "heading": "Madde 32",
+      "text": "(1) Arabuluculuk eğitimi, hukuk fakültesi mezunu ve beş yıllık meslekî kıdem kazanmış kişiler tarafından alınan, arabuluculuk faaliyetinin yürütülmesi ile arabuluculuğun yerine getirilmesi için gerekli olan bilgi ve becerilerin kazanılmasını amaçlayan eğitimi ifade eder.\n (2) Arabulucu olacak kişilere altmışsekiz saati teorik ve onaltı saati uygulamalı olmak üzere asgari toplam seksendört saat arabuluculuk eğitimi verilir.\n (3) Teorik ve uygulamalı eğitimin verilmesinde, eğitim modulü esas alınır.\n (4) Eğitime katılanların, belgeye dayalı ve eğitim kuruluşlarınca kabul edilen haklı bir mazeretleri olmadıkça arabuluculuk eğitimi süresince verilen ders ve çalışmalara katılımları zorunludur. Eğitim kuruluşlarınca, adayların derslere devam durumunu gösteren çizelge düzenlenir ve derslerin 1/12’sine devam etmeyenlerin eğitim programıyla ilişiği kesilir.\n (5) Daire Başkanlığı, arabulucuların uzmanlık alanlarını ve uzmanlığa ilişkin usul ve esasları belirlemeye yetkilidir.\n (6) Arabuluculara, arabuluculuk eğitim izni verilen kuruluşlarca teorik ve uygulamalı, toplam sekiz saatten az olmamak üzere üç yılda bir defa yenileme eğitimi verilir. Arabulucular yenileme eğitimine sicile kaydedildiği tarihten itibaren üçüncü yılın içinde katılmak zorundadır.\n (7) Yenileme eğitiminde; arabuluculuğa ilişkin mevzuat ve içtihat değişiklikleri ile arabuluculuk becerilerinin geliştirilmesine yönelik eğitim verilir.",
+      "preview": "(1) Arabuluculuk eğitimi, hukuk fakültesi mezunu ve beş yıllık meslekî kıdem kazanmış kişiler tarafından alınan, arabuluculuk faaliyetinin y…",
+      "kitap": null,
+      "kisim": "ÜÇÜNCÜ KISIM · Eğitim, Sınav ve Denetim",
+      "bolum": "BİRİNCİ BÖLÜM · Arabuluculuk Eğitimi ve Eğitim Kuruluşları",
+      "ayirim": null,
+      "maddeBaslik": "Arabuluculuk eğitimi",
+      "sectionPath": [
+        "ÜÇÜNCÜ KISIM · Eğitim, Sınav ve Denetim",
+        "BİRİNCİ BÖLÜM · Arabuluculuk Eğitimi ve Eğitim Kuruluşları",
+        "Arabuluculuk eğitimi"
+      ]
+    },
+    {
+      "id": "yonetmelik:24638:m:33",
+      "maddeKind": "madde",
+      "maddeNo": "33",
+      "heading": "Madde 33",
+      "text": "(1) Eğitim kuruluşlarınca, eğitimlerini başarı ile tamamlayan kişilere en geç bir ay içinde arabuluculuk eğitimini tamamladıklarına dair katılım belgesi verilir.",
+      "preview": "(1) Eğitim kuruluşlarınca, eğitimlerini başarı ile tamamlayan kişilere en geç bir ay içinde arabuluculuk eğitimini tamamladıklarına dair kat…",
+      "kitap": null,
+      "kisim": "ÜÇÜNCÜ KISIM · Eğitim, Sınav ve Denetim",
+      "bolum": "BİRİNCİ BÖLÜM · Arabuluculuk Eğitimi ve Eğitim Kuruluşları",
+      "ayirim": null,
+      "maddeBaslik": "Arabuluculuk eğitimi katılım belgesi",
+      "sectionPath": [
+        "ÜÇÜNCÜ KISIM · Eğitim, Sınav ve Denetim",
+        "BİRİNCİ BÖLÜM · Arabuluculuk Eğitimi ve Eğitim Kuruluşları",
+        "Arabuluculuk eğitimi katılım belgesi"
+      ]
+    },
+    {
+      "id": "yonetmelik:24638:m:34",
+      "maddeKind": "madde",
+      "maddeNo": "34",
+      "heading": "Madde 34",
+      "text": "(1) Arabuluculuk eğitimi üniversitelerin hukuk fakülteleri, Türkiye Barolar Birliği veya Türkiye Adalet Akademisi tarafından verilir. Bu kuruluşlar Bakanlıktan izin alarak eğitim verebilirler. İzin verilen eğitim kuruluşlarının listesi elektronik ortamda yayınlanır.\n (2) İzin için yazılı olarak başvurulur. Başvuruda eğitimin içeriğini ve süresini kapsar şekilde eğitim programı, eğiticilerin sayısı, unvanları, uzmanlıkları, yeterlikleri ve eğitim programının finansman kaynakları ile eğitim verilecek mekânlar hakkında gerekçeli ve yeterli bilgilere yer verilir.\n (3) Başvuruda sunulan belgelere dayalı olarak, eğitimin amacına ulaşacağı, eğitimin yapılacağı mekânların uygunluğu ve eğitim kuruluşlarında eğitim faaliyetinin devamlılığının sağlanacağı tespit edilirse, ilgili eğitim kuruluşuna en çok üç yıl için geçerli olmak üzere izin verilir. İzin verilen eğitim kuruluşu, eğitim kuruluşları siciline kaydedilir.\n (4) İkinci ve üçüncü fıkralarda belirtilen nitelikleri taşımadığı anlaşılan eğitim kuruluşunun başvurusu, başvuru talebinin Bakanlığa ulaştığı tarihten itibaren iki ay içinde incelenerek reddedilir ve karar ilgilisine tebliğ edilir. Bakanlıkça iki ay içinde karar verilemediği takdirde talep reddedilmiş sayılır.\n (5) İzin süresi uzatılmayan veya izni iptal edilen eğitim kuruluşu, eğitim kuruluşları sicilinden ve elektronik ortamdaki listeden silinir. Bu eğitim kuruluşuna ait belgeler dosyasında saklanır.",
+      "preview": "(1) Arabuluculuk eğitimi üniversitelerin hukuk fakülteleri, Türkiye Barolar Birliği veya Türkiye Adalet Akademisi tarafından verilir. Bu kur…",
+      "kitap": null,
+      "kisim": "ÜÇÜNCÜ KISIM · Eğitim, Sınav ve Denetim",
+      "bolum": "BİRİNCİ BÖLÜM · Arabuluculuk Eğitimi ve Eğitim Kuruluşları",
+      "ayirim": null,
+      "maddeBaslik": "Eğitim kuruluşlarına izin verilmesi",
+      "sectionPath": [
+        "ÜÇÜNCÜ KISIM · Eğitim, Sınav ve Denetim",
+        "BİRİNCİ BÖLÜM · Arabuluculuk Eğitimi ve Eğitim Kuruluşları",
+        "Eğitim kuruluşlarına izin verilmesi"
+      ]
+    },
+    {
+      "id": "yonetmelik:24638:m:35",
+      "maddeKind": "madde",
+      "maddeNo": "35",
+      "heading": "Madde 35",
+      "text": "(1) Sicile kayıtlı olan bir eğitim kuruluşu kayıt süresinin bitiminden en erken bir yıl ve en geç üç ay önce, eğitim kuruluşları sicilindeki kaydının geçerlilik süresinin uzatılmasını yazılı olarak talep edebilir. Eğitim kuruluşunun 36 ncı maddeye göre sunduğu raporlardan, arabuluculuk eğitiminin başarılı şekilde devam ettiği ve 37 nci maddede belirtilen sebepler bulunmadığı takdirde, verilmiş bulunan iznin geçerlilik süresi her defasında üç yıl uzatılabilir. Eğitim kuruluşu, süresi içinde yaptığı başvuru hakkında karar verilinceye kadar listede kayıtlı kalır.\n (2) İzin süresinin uzatılmasına ilişkin talepler, talebin Bakanlığa ulaştığı tarihten itibaren iki ay içinde incelenerek karara bağlanır ve karar ilgilisine tebliğ edilir.",
+      "preview": "(1) Sicile kayıtlı olan bir eğitim kuruluşu kayıt süresinin bitiminden en erken bir yıl ve en geç üç ay önce, eğitim kuruluşları sicilindeki…",
+      "kitap": null,
+      "kisim": "ÜÇÜNCÜ KISIM · Eğitim, Sınav ve Denetim",
+      "bolum": "BİRİNCİ BÖLÜM · Arabuluculuk Eğitimi ve Eğitim Kuruluşları",
+      "ayirim": null,
+      "maddeBaslik": "İzin süresinin uzatılması",
+      "sectionPath": [
+        "ÜÇÜNCÜ KISIM · Eğitim, Sınav ve Denetim",
+        "BİRİNCİ BÖLÜM · Arabuluculuk Eğitimi ve Eğitim Kuruluşları",
+        "İzin süresinin uzatılması"
+      ]
+    },
+    {
+      "id": "yonetmelik:24638:m:36",
+      "maddeKind": "madde",
+      "maddeNo": "36",
+      "heading": "Madde 36",
+      "text": "(1) Eğitim kuruluşları, her yıl ocak ayında bir önceki yıl içinde gerçekleştirdikleri eğitim faaliyetinin kapsamı, içeriği ve başarısı konusunda Daire Başkanlığına bir rapor sunar.\n (2) Rapor sunmayan eğitim kuruluşuna yazılı ihtarda bulunularak bir aylık süre verilir. İhtarda, raporun verilen süreye rağmen sunulmaması hâlinde eğitim verme izninin iptal edileceği hususu belirtilir.",
+      "preview": "(1) Eğitim kuruluşları, her yıl ocak ayında bir önceki yıl içinde gerçekleştirdikleri eğitim faaliyetinin kapsamı, içeriği ve başarısı konus…",
+      "kitap": null,
+      "kisim": "ÜÇÜNCÜ KISIM · Eğitim, Sınav ve Denetim",
+      "bolum": "BİRİNCİ BÖLÜM · Arabuluculuk Eğitimi ve Eğitim Kuruluşları",
+      "ayirim": null,
+      "maddeBaslik": "Daire Başkanlığına bilgi verme yükümlülüğü",
+      "sectionPath": [
+        "ÜÇÜNCÜ KISIM · Eğitim, Sınav ve Denetim",
+        "BİRİNCİ BÖLÜM · Arabuluculuk Eğitimi ve Eğitim Kuruluşları",
+        "Daire Başkanlığına bilgi verme yükümlülüğü"
+      ]
+    },
+    {
+      "id": "yonetmelik:24638:m:37",
+      "maddeKind": "madde",
+      "maddeNo": "37",
+      "heading": "Madde 37",
+      "text": "(1) Aşağıdaki hâllerde eğitim kuruluşuna verilmiş olan izin, Bakanlığın talebi üzerine Kurul tarafından iptal edilir:\n a) İzin verilebilmesi için aranan şartlardan birinin ortadan kalkmış olduğunun veya mevcut olmadığının tespiti.\n b) Eğitimin yeterli şekilde verilemediğinin tespiti.\n c) Arabuluculuk eğitimi başarı belgesi düzenlenmesinde sahtecilik veya önemli hatalar yapılması.\n ç) 36 ncı maddedeki rapor verme yükümlülüğünün yapılan ihtara rağmen yerine getirilmemesi.\n d) Eğitim faaliyetinin devamlılığının sağlanmadığının tespiti.\n (2) Eğitim kuruluşunun yazılı talebi üzerine Daire Başkanlığınca her zaman eğitim izninin iptaline karar verilebilir.",
+      "preview": "(1) Aşağıdaki hâllerde eğitim kuruluşuna verilmiş olan izin, Bakanlığın talebi üzerine Kurul tarafından iptal edilir: a) İzin verilebilmesi…",
+      "kitap": null,
+      "kisim": "ÜÇÜNCÜ KISIM · Eğitim, Sınav ve Denetim",
+      "bolum": "BİRİNCİ BÖLÜM · Arabuluculuk Eğitimi ve Eğitim Kuruluşları",
+      "ayirim": null,
+      "maddeBaslik": "Eğitim kuruluşuna verilen iznin iptali",
+      "sectionPath": [
+        "ÜÇÜNCÜ KISIM · Eğitim, Sınav ve Denetim",
+        "BİRİNCİ BÖLÜM · Arabuluculuk Eğitimi ve Eğitim Kuruluşları",
+        "Eğitim kuruluşuna verilen iznin iptali"
+      ]
+    },
+    {
+      "id": "yonetmelik:24638:m:38",
+      "maddeKind": "madde",
+      "maddeNo": "38",
+      "heading": "Madde 38",
+      "text": "(1) Arabuluculuk eğitimini tamamlayanların sicile kayıt olabilmeleri için bu Yönetmeliğe uygun olarak yapılacak yazılı sınavda başarılı olmaları zorunludur.\n (2) Başarılı olanların sınav sonuçları, sicile kayıt işlemleri tamamlanıncaya kadar geçerliliğini korur.",
+      "preview": "(1) Arabuluculuk eğitimini tamamlayanların sicile kayıt olabilmeleri için bu Yönetmeliğe uygun olarak yapılacak yazılı sınavda başarılı olma…",
+      "kitap": null,
+      "kisim": "ÜÇÜNCÜ KISIM · Eğitim, Sınav ve Denetim",
+      "bolum": "İKİNCİ BÖLÜM · Sınav İlke ve Kuralları",
+      "ayirim": null,
+      "maddeBaslik": "Sınav",
+      "sectionPath": [
+        "ÜÇÜNCÜ KISIM · Eğitim, Sınav ve Denetim",
+        "İKİNCİ BÖLÜM · Sınav İlke ve Kuralları",
+        "Sınav"
+      ]
+    },
+    {
+      "id": "yonetmelik:24638:m:39",
+      "maddeKind": "madde",
+      "maddeNo": "39",
+      "heading": "Madde 39",
+      "text": "(1) (Mülga cümle:RG-17/11/2021-31662) Sınavın yapılacağı yer, tarih ve saat Daire Başkanlığınca belirlenir.\n (2) Sınavın yeri, tarihi ve saati Genel Müdürlüğün resmî internet sayfasında yayımlanmak suretiyle duyurulur.",
+      "preview": "(1) (Mülga cümle:RG-17/11/2021-31662) Sınavın yapılacağı yer, tarih ve saat Daire Başkanlığınca belirlenir. (2) Sınavın yeri, tarihi ve saat…",
+      "kitap": null,
+      "kisim": "ÜÇÜNCÜ KISIM · Eğitim, Sınav ve Denetim",
+      "bolum": "İKİNCİ BÖLÜM · Sınav İlke ve Kuralları",
+      "ayirim": null,
+      "maddeBaslik": "Sınavın yeri ve günü",
+      "sectionPath": [
+        "ÜÇÜNCÜ KISIM · Eğitim, Sınav ve Denetim",
+        "İKİNCİ BÖLÜM · Sınav İlke ve Kuralları",
+        "Sınavın yeri ve günü"
+      ]
+    },
+    {
+      "id": "yonetmelik:24638:m:40",
+      "maddeKind": "madde",
+      "maddeNo": "40",
+      "heading": "Madde 40",
+      "text": "(1) Sınav, 32 nci madde uyarınca arabuluculuk eğitimi sırasında verilen konuları kapsar.",
+      "preview": "(1) Sınav, 32 nci madde uyarınca arabuluculuk eğitimi sırasında verilen konuları kapsar.",
+      "kitap": null,
+      "kisim": "ÜÇÜNCÜ KISIM · Eğitim, Sınav ve Denetim",
+      "bolum": "İKİNCİ BÖLÜM · Sınav İlke ve Kuralları",
+      "ayirim": null,
+      "maddeBaslik": "Sınavın konusu",
+      "sectionPath": [
+        "ÜÇÜNCÜ KISIM · Eğitim, Sınav ve Denetim",
+        "İKİNCİ BÖLÜM · Sınav İlke ve Kuralları",
+        "Sınavın konusu"
+      ]
+    },
+    {
+      "id": "yonetmelik:24638:m:41",
+      "maddeKind": "madde",
+      "maddeNo": "41",
+      "heading": "Madde 41",
+      "text": "(1) Daire Başkanlığı sınavla ilgili soruların hazırlattırılması, sınavın ilanı, süresi, sınav tutanaklarının düzenlenmesi ile sınavlara ilişkin diğer işlemlerin yürütülmesini sağlar.",
+      "preview": "(1) Daire Başkanlığı sınavla ilgili soruların hazırlattırılması, sınavın ilanı, süresi, sınav tutanaklarının düzenlenmesi ile sınavlara iliş…",
+      "kitap": null,
+      "kisim": "ÜÇÜNCÜ KISIM · Eğitim, Sınav ve Denetim",
+      "bolum": "İKİNCİ BÖLÜM · Sınav İlke ve Kuralları",
+      "ayirim": null,
+      "maddeBaslik": "Sınav işlemlerinin yürütülmesi",
+      "sectionPath": [
+        "ÜÇÜNCÜ KISIM · Eğitim, Sınav ve Denetim",
+        "İKİNCİ BÖLÜM · Sınav İlke ve Kuralları",
+        "Sınav işlemlerinin yürütülmesi"
+      ]
+    },
+    {
+      "id": "yonetmelik:24638:m:42",
+      "maddeKind": "madde",
+      "maddeNo": "42",
+      "heading": "Madde 42",
+      "text": "(1) Sınava girmek isteyenlerin 30 uncu maddenin ikinci fıkrasının (a), (b), (c), (ç) ve (d) bentlerinde belirtilen şartları taşıması ve arabuluculuk eğitimini tamamlaması gerekir.\n (2) Sınava başvurular, Arabulucu Bilgi Sistemi üzerinden elektronik imza ya da e-Devlet şifresi kullanmak suretiyle, T.C. kimlik numarasını gösteren belge, adli sicil beyanı veya belgesi, arabuluculuk eğitimini tamamladığını gösteren katılım belgesi, hukuk fakültesi mezunu ve mesleğinde en az beş yıllık kıdeme sahip olduğunu gösterir belgenin son başvuru günü bitimine kadar sisteme yüklenmesi suretiyle yapılır.\n (3) Başvuruya ilişkin diğer usul ve esaslar sınav ilanında belirtilir.",
+      "preview": "(1) Sınava girmek isteyenlerin 30 uncu maddenin ikinci fıkrasının (a), (b), (c), (ç) ve (d) bentlerinde belirtilen şartları taşıması ve arab…",
+      "kitap": null,
+      "kisim": "ÜÇÜNCÜ KISIM · Eğitim, Sınav ve Denetim",
+      "bolum": "İKİNCİ BÖLÜM · Sınav İlke ve Kuralları",
+      "ayirim": null,
+      "maddeBaslik": "Sınava başvuru",
+      "sectionPath": [
+        "ÜÇÜNCÜ KISIM · Eğitim, Sınav ve Denetim",
+        "İKİNCİ BÖLÜM · Sınav İlke ve Kuralları",
+        "Sınava başvuru"
+      ]
+    },
+    {
+      "id": "yonetmelik:24638:m:43",
+      "maddeKind": "madde",
+      "maddeNo": "43",
+      "heading": "Madde 43",
+      "text": "(1) Başvuru, ilgilinin sınava girebilme şartlarını taşıyıp taşımadığının tespiti açısından incelenir.\n (2) Başvuru sırasında istenen belgeleri sisteme eksik veya hatalı yüklemiş olanların ya da sınava girebilme şartlarını taşımadığı tespit edilenlerin başvuruları reddedilip, bu durum kendilerine bildirilir.\n (3) Sınava girebilme şartlarını taşıyanlara ilişkin gerekli bilgiler, sınavı yapacak kuruma iletilir.",
+      "preview": "(1) Başvuru, ilgilinin sınava girebilme şartlarını taşıyıp taşımadığının tespiti açısından incelenir. (2) Başvuru sırasında istenen belgeler…",
+      "kitap": null,
+      "kisim": "ÜÇÜNCÜ KISIM · Eğitim, Sınav ve Denetim",
+      "bolum": "İKİNCİ BÖLÜM · Sınav İlke ve Kuralları",
+      "ayirim": null,
+      "maddeBaslik": "Başvurunun incelenmesi",
+      "sectionPath": [
+        "ÜÇÜNCÜ KISIM · Eğitim, Sınav ve Denetim",
+        "İKİNCİ BÖLÜM · Sınav İlke ve Kuralları",
+        "Başvurunun incelenmesi"
+      ]
+    },
+    {
+      "id": "yonetmelik:24638:m:44",
+      "maddeKind": "madde",
+      "maddeNo": "44",
+      "heading": "Madde 44",
+      "text": "(1) Sınav, klasik veya test usulü şeklinde yapılır.\n (2) Bu sınav, Ölçme, Seçme ve Yerleştirme Merkezi Başkanlığı, Türkiye ve Orta Doğu Amme İdaresi Enstitüsü veya yükseköğretim kurumları arasından Bakanlıkça belirlenecek bir kuruluşa yaptırılabilir.",
+      "preview": "(1) Sınav, klasik veya test usulü şeklinde yapılır. (2) Bu sınav, Ölçme, Seçme ve Yerleştirme Merkezi Başkanlığı, Türkiye ve Orta Doğu Amme…",
+      "kitap": null,
+      "kisim": "ÜÇÜNCÜ KISIM · Eğitim, Sınav ve Denetim",
+      "bolum": "İKİNCİ BÖLÜM · Sınav İlke ve Kuralları",
+      "ayirim": null,
+      "maddeBaslik": "Sınavların yapılışı",
+      "sectionPath": [
+        "ÜÇÜNCÜ KISIM · Eğitim, Sınav ve Denetim",
+        "İKİNCİ BÖLÜM · Sınav İlke ve Kuralları",
+        "Sınavların yapılışı"
+      ]
+    },
+    {
+      "id": "yonetmelik:24638:m:45",
+      "maddeKind": "madde",
+      "maddeNo": "45",
+      "heading": "Madde 45",
+      "text": "(Değişik:RG-17/11/2021-31662)\n (1) Sınavda yüz tam puan üzerinden en az yetmiş puan alan adaylar başarılı sayılır. Ancak Bakanlıkça, ihtiyaç durumuna göre başarılı sayılacak aday sayısı belirlenebilir. Bu durumda, arabulucu ihtiyaç sayısı sınav ilanında duyurulur.\n (2) İhtiyaç sayısının Bakanlıkça belirlenmesi halinde, sınavda yüz tam puan üzerinden en az yetmiş puan alması koşuluyla en yüksek puan alan adaydan başlamak üzere sınav ilanında belirtilen arabulucu ihtiyaç sayısı kadar aday, sınavda başarılı sayılır. Başarılı sayılan en düşük puanlı adayla aynı puanı alan adaylar da başarılı sayılır.",
+      "preview": "(Değişik:RG-17/11/2021-31662) (1) Sınavda yüz tam puan üzerinden en az yetmiş puan alan adaylar başarılı sayılır. Ancak Bakanlıkça, ihtiyaç…",
+      "kitap": null,
+      "kisim": "ÜÇÜNCÜ KISIM · Eğitim, Sınav ve Denetim",
+      "bolum": "İKİNCİ BÖLÜM · Sınav İlke ve Kuralları",
+      "ayirim": null,
+      "maddeBaslik": "Sınavda başarı koşulu",
+      "sectionPath": [
+        "ÜÇÜNCÜ KISIM · Eğitim, Sınav ve Denetim",
+        "İKİNCİ BÖLÜM · Sınav İlke ve Kuralları",
+        "Sınavda başarı koşulu"
+      ]
+    },
+    {
+      "id": "yonetmelik:24638:m:46",
+      "maddeKind": "madde",
+      "maddeNo": "46",
+      "heading": "Madde 46",
+      "text": "(1) Daire Başkanlığı, sınav sonuçlarını, sınav sonuçlarının kendisine intikal ettiği tarihten itibaren bir ay içinde ilan eder.\n (2) (Mülga:RG-17/11/2021-31662)\n (3) (Mülga:RG-17/11/2021-31662)\n (4) Sınava yapılan itirazlar, sınavı yapan kurum tarafından karara bağlanır.\n (5) (Mülga:RG-17/11/2021-31662)",
+      "preview": "(1) Daire Başkanlığı, sınav sonuçlarını, sınav sonuçlarının kendisine intikal ettiği tarihten itibaren bir ay içinde ilan eder. (2) (Mülga:R…",
+      "kitap": null,
+      "kisim": "ÜÇÜNCÜ KISIM · Eğitim, Sınav ve Denetim",
+      "bolum": "İKİNCİ BÖLÜM · Sınav İlke ve Kuralları",
+      "ayirim": null,
+      "maddeBaslik": "Sınav sonuçlarının açıklanması ve itiraz",
+      "sectionPath": [
+        "ÜÇÜNCÜ KISIM · Eğitim, Sınav ve Denetim",
+        "İKİNCİ BÖLÜM · Sınav İlke ve Kuralları",
+        "Sınav sonuçlarının açıklanması ve itiraz"
+      ]
+    },
+    {
+      "id": "yonetmelik:24638:m:47",
+      "maddeKind": "madde",
+      "maddeNo": "47",
+      "heading": "Madde 47",
+      "text": "(1) Sınava girenlerden;\n a) İzin almadan sınav salonu veya yerini terk edenler,\n b) Sınavda kopya çekenler veya kopya çekmeye teşebbüs edenler,\n c) Sınavda kopya verenler veya kopya vermeye teşebbüs edenler,\n ç) Kendi yerine başkasının sınava girmesini sağlayanlar,\n d) Sınav düzenine aykırı davranışta bulunanlar\n hakkında düzenlenen tutanak üzerine bunların sınavları geçersiz sayılır.\n (2) Sınavı kazananlardan başvuruda gerçeğe aykırı beyanda bulunduğu tespit edilenlerin sınavı da geçersiz sayılır. Bu durumda olanlar hiçbir hak talebinde bulunamazlar. Ayrıca gerçeğe aykırı beyanda bulunduğu tespit edilenler hakkında idari ve yasal işlemler yapılır.",
+      "preview": "(1) Sınava girenlerden; a) İzin almadan sınav salonu veya yerini terk edenler, b) Sınavda kopya çekenler veya kopya çekmeye teşebbüs edenler…",
+      "kitap": null,
+      "kisim": "ÜÇÜNCÜ KISIM · Eğitim, Sınav ve Denetim",
+      "bolum": "İKİNCİ BÖLÜM · Sınav İlke ve Kuralları",
+      "ayirim": null,
+      "maddeBaslik": "Sınavların geçersiz sayılması",
+      "sectionPath": [
+        "ÜÇÜNCÜ KISIM · Eğitim, Sınav ve Denetim",
+        "İKİNCİ BÖLÜM · Sınav İlke ve Kuralları",
+        "Sınavların geçersiz sayılması"
+      ]
+    },
+    {
+      "id": "yonetmelik:24638:m:48",
+      "maddeKind": "madde",
+      "maddeNo": "48",
+      "heading": "Madde 48",
+      "text": "(1) Sınava başvuranlardan;\n a) 45 inci maddedeki sınav başarı koşulunu sağlamayanlar,\n b) Sınavı geçersiz sayılanlar,\n c) Sınava katılmayanlar,\n başarısız kabul edilirler.",
+      "preview": "(1) Sınava başvuranlardan; a) 45 inci maddedeki sınav başarı koşulunu sağlamayanlar, b) Sınavı geçersiz sayılanlar, c) Sınava katılmayanlar,…",
+      "kitap": null,
+      "kisim": "ÜÇÜNCÜ KISIM · Eğitim, Sınav ve Denetim",
+      "bolum": "İKİNCİ BÖLÜM · Sınav İlke ve Kuralları",
+      "ayirim": null,
+      "maddeBaslik": "Sınavlarda başarısız kabul edilme",
+      "sectionPath": [
+        "ÜÇÜNCÜ KISIM · Eğitim, Sınav ve Denetim",
+        "İKİNCİ BÖLÜM · Sınav İlke ve Kuralları",
+        "Sınavlarda başarısız kabul edilme"
+      ]
+    },
+    {
+      "id": "yonetmelik:24638:m:49",
+      "maddeKind": "madde",
+      "maddeNo": "49",
+      "heading": "Madde 49",
+      "text": "(1) 47 nci maddenin birinci fıkrasının (a) bendi gereğince sınavları geçersiz sayılanlar ile 48 inci maddenin birinci fıkrasının (a) ve (c) bentleri gereğince sınavlarda başarısız kabul edilenler, sınavlara yeniden girebilme hakkına sahiptirler.",
+      "preview": "(1) 47 nci maddenin birinci fıkrasının (a) bendi gereğince sınavları geçersiz sayılanlar ile 48 inci maddenin birinci fıkrasının (a) ve (c)…",
+      "kitap": null,
+      "kisim": "ÜÇÜNCÜ KISIM · Eğitim, Sınav ve Denetim",
+      "bolum": "İKİNCİ BÖLÜM · Sınav İlke ve Kuralları",
+      "ayirim": null,
+      "maddeBaslik": "Yeni sınav hakkı",
+      "sectionPath": [
+        "ÜÇÜNCÜ KISIM · Eğitim, Sınav ve Denetim",
+        "İKİNCİ BÖLÜM · Sınav İlke ve Kuralları",
+        "Yeni sınav hakkı"
+      ]
+    },
+    {
+      "id": "yonetmelik:24638:m:50",
+      "maddeKind": "madde",
+      "maddeNo": "50",
+      "heading": "Madde 50",
+      "text": "(1) Arabulucular, arabuluculuk büroları ve arabuluculuk eğitim izni verilen kuruluşlar, Daire Başkanlığının denetimi altındadır.",
+      "preview": "(1) Arabulucular, arabuluculuk büroları ve arabuluculuk eğitim izni verilen kuruluşlar, Daire Başkanlığının denetimi altındadır.",
+      "kitap": null,
+      "kisim": "ÜÇÜNCÜ KISIM · Eğitim, Sınav ve Denetim",
+      "bolum": "ÜÇÜNCÜ BÖLÜM · Denetim",
+      "ayirim": null,
+      "maddeBaslik": "Denetim yetkisi",
+      "sectionPath": [
+        "ÜÇÜNCÜ KISIM · Eğitim, Sınav ve Denetim",
+        "ÜÇÜNCÜ BÖLÜM · Denetim",
+        "Denetim yetkisi"
+      ]
+    },
+    {
+      "id": "yonetmelik:24638:m:51",
+      "maddeKind": "madde",
+      "maddeNo": "51",
+      "heading": "Madde 51",
+      "text": "(1) Eğitim kuruluşları, arabulucular ve arabuluculuk büroları, Kanun, Yönetmelik ve ilgili mevzuat uyarınca çıkarılan diğer düzenleyici işlemlere uygun hareket edip etmediği yönünden denetlenir.\n (2) Denetim sonucunda tespit edilen eksiklikler duruma göre Daire Başkanlığınca ilgili kişi ve kuruluşlara yazılı bir şekilde bildirilerek bu eksikliklerin giderilmesi için eksikliğin niteliğine göre uygun bir süre verilir. Verilen süre sonunda eksiklikler giderilmediği takdirde veya denetim sonucu, konusu suç teşkil eden uygulamalar tespit edildiğinde arabulucu veya eğitim kuruluşları hakkında Kanun, Yönetmelik ve bu mevzuat uyarınca çıkarılan diğer düzenleyici işlemler uyarınca işlem yapılır ve gerekirse adli mercilere bildirimde bulunulur.",
+      "preview": "(1) Eğitim kuruluşları, arabulucular ve arabuluculuk büroları, Kanun, Yönetmelik ve ilgili mevzuat uyarınca çıkarılan diğer düzenleyici işle…",
+      "kitap": null,
+      "kisim": "ÜÇÜNCÜ KISIM · Eğitim, Sınav ve Denetim",
+      "bolum": "ÜÇÜNCÜ BÖLÜM · Denetim",
+      "ayirim": null,
+      "maddeBaslik": "Denetimin kapsamı",
+      "sectionPath": [
+        "ÜÇÜNCÜ KISIM · Eğitim, Sınav ve Denetim",
+        "ÜÇÜNCÜ BÖLÜM · Denetim",
+        "Denetimin kapsamı"
+      ]
+    },
+    {
+      "id": "yonetmelik:24638:m:52",
+      "maddeKind": "madde",
+      "maddeNo": "52",
+      "heading": "Madde 52",
+      "text": "(1) Daire Başkanlığı, bir daire başkanı, yeteri kadar tetkik hâkimi ve diğer personelden oluşur.\n (2) Daire Başkanlığı nezdinde, Kanun ve bu Yönetmelikle verilen arabuluculuk faaliyetleri ile ilgili görevleri yerine getirmek üzere; Arabuluculuk Hizmetleri Bürosu, Sicil Bürosu ve Eğitim Bürosu gibi bürolar başta olmak üzere hizmetin gereklerine uygun olarak yeterli sayıda büro oluşturulur.",
+      "preview": "(1) Daire Başkanlığı, bir daire başkanı, yeteri kadar tetkik hâkimi ve diğer personelden oluşur. (2) Daire Başkanlığı nezdinde, Kanun ve bu…",
+      "kitap": null,
+      "kisim": "DÖRDÜNCÜ KISIM · Teşkilat",
+      "bolum": "BİRİNCİ BÖLÜM · Daire Başkanlığı",
+      "ayirim": null,
+      "maddeBaslik": "Daire Başkanlığı",
+      "sectionPath": [
+        "DÖRDÜNCÜ KISIM · Teşkilat",
+        "BİRİNCİ BÖLÜM · Daire Başkanlığı",
+        "Daire Başkanlığı"
+      ]
+    },
+    {
+      "id": "yonetmelik:24638:m:53",
+      "maddeKind": "madde",
+      "maddeNo": "53",
+      "heading": "Madde 53",
+      "text": "(1) Daire Başkanlığının görevleri genel olarak şunlardır:\n a) Arabuluculuk hizmetlerinin düzenli ve verimli olarak yürütülmesini sağlamak.\n b) Arabuluculukla ilgili yayın yapmak, bu konudaki bilimsel çalışmaları teşvik etmek ve desteklemek.\n c) Kurulun çalışması ile ilgili her türlü karar ve işlemi yürütmek ve görevleri ile ilgili bakanlık, diğer kamu kurum ve kuruluşları, üniversiteler, kamu kurumu niteliğindeki meslek kuruluşları, kamu yararına çalışan vakıf ve dernekler ile uygun görülen gönüllü gerçek ve tüzel kişilerle işbirliği yapmak.\n ç) Arabuluculuk kurumunun tanıtımını yapmak, bu konuda kamuoyunu bilgilendirmek, ulusal ve uluslararası kongre, sempozyum ve seminer gibi bilimsel organizasyonları düzenlemek veya desteklemek.\n d) Ülke genelinde arabuluculuk uygulamalarını izlemek, ilgili istatistikleri tutmak ve yayımlamak.\n e) Arabuluculuk eğitimi verecek kuruluşlar tarafından bu amaçla yapılan başvuru ile eğitim kuruluşları sicilindeki kaydın geçerlilik süresinin uzatılması talebinin karara bağlanmasını Bakanlığın onayına sunmak, arabuluculuk eğitimi verecek eğitim kuruluşlarını listelemek ve elektronik ortamda yayımlamak.\n f) Arabulucu sicilini tutmak, sicile kayıt taleplerini karara bağlamak, 31 inci maddenin birinci ve ikinci fıkraları kapsamında arabulucunun sicilden silinmesine karar vermek ve bu sicilde yer alan kişilere ilişkin bilgileri elektronik ortamda duyurmak.\n g) Arabulucular tarafından arabuluculuk faaliyeti sonunda düzenlenen son tutanakların kayıtlarını tutmak ve birer örneklerini saklamak.\n ğ) Görev alanına giren kanun ve düzenleyici işlemler hakkında inceleme ve araştırma yaparak Genel Müdürlüğe öneride bulunmak.\n h) Yıllık faaliyet raporunu ve izleyen yıl faaliyet planını hazırlayarak Kurulun bilgisine sunmak.\n ı) Yıllık Arabuluculuk Asgari Ücret Tarifesini hazırlamak.",
+      "preview": "(1) Daire Başkanlığının görevleri genel olarak şunlardır: a) Arabuluculuk hizmetlerinin düzenli ve verimli olarak yürütülmesini sağlamak. b)…",
+      "kitap": null,
+      "kisim": "DÖRDÜNCÜ KISIM · Teşkilat",
+      "bolum": "BİRİNCİ BÖLÜM · Daire Başkanlığı",
+      "ayirim": null,
+      "maddeBaslik": "Daire Başkanlığının görevleri",
+      "sectionPath": [
+        "DÖRDÜNCÜ KISIM · Teşkilat",
+        "BİRİNCİ BÖLÜM · Daire Başkanlığı",
+        "Daire Başkanlığının görevleri"
+      ]
+    },
+    {
+      "id": "yonetmelik:24638:m:54",
+      "maddeKind": "madde",
+      "maddeNo": "54",
+      "heading": "Madde 54",
+      "text": "(1) Kurul aşağıdaki üyelerden oluşur:\n a) Hukuk İşleri Genel Müdürü.\n b) Arabuluculuk Daire Başkanı.\n c) Hâkimler ve Savcılar Kurulu tarafından hukuk mahkemelerinde görev yapmakta olan birinci sınıfa ayrılmış hâkimler arasından seçilecek iki hâkim.\n ç) Türkiye Barolar Birliğinden üç temsilci.\n d) Türkiye Noterler Birliğinden bir temsilci.\n e) Yükseköğretim Kurulu tarafından seçilen özel hukuk alanından bir öğretim üyesi.\n f) Adalet Bakanı tarafından seçilecek üç arabulucu.\n g) Türkiye Odalar ve Borsalar Birliğinden bir temsilci.\n ğ) Kendisine mensup işçi sayısı en çok olan üç işçi sendikaları konfederasyonunca seçilecek birer temsilci.\n h) En çok işveren mensubu olan işveren sendikaları konfederasyonunca seçilecek bir temsilci.\n ı) Türkiye Esnaf ve Sanatkârları Konfederasyonundan bir temsilci.\n i) Türkiye Adalet Akademisi Eğitim Merkezi Başkanı.\n (2) Kurul Başkanı ihtiyaca göre Kurul toplantılarına uzman kişileri çağırabilir.\n (3) Kurul Başkanı Hukuk İşleri Genel Müdürüdür. Genel Müdürün bulunmadığı toplantılarda Başkanlık görevi Arabuluculuk Daire Başkanı tarafından yerine getirilir.\n (4) Kurul, mart ve eylül aylarında olmak üzere yılda en az iki kez toplanır. Ayrıca, Başkanın veya en az beş üyenin talebiyle Kurul her zaman toplantıya çağrılabilir.\n (5) Kurul en az on kişi ile toplanır.\n (6) Kurul üye tam sayısının salt çoğunluğu ile karar alır. Karara muhalif kalan üyelerin görüşlerini yazılı olarak sunma hakları vardır. Karara muhalif üyeler, muhalefet gerekçelerini en geç on gün içinde Kurul başkanlığına ibraz ederler.\n (7) Mazeretsiz olarak art arda iki toplantıya katılmayan üyenin üyeliği düşer. Üyeliği düşen kişinin yerine, kalan süreyi tamamlamak üzere kurum veya kuruluşunca yeni bir üye görevlendirilir. Üyenin istifası veya ölümü hâlinde de aynı hüküm geçerlidir.\n (8) Kurulun Bakanlık dışından görevlendirilen üyelerinin görev süresi üç yıldır. Görev süresi dolan üyeler yeniden görevlendirilebilir. Eski Kurulun görevi yeni Kurul oluşuncaya kadar devam eder.\n (9) Kurulun gündemi Daire Başkanlığınca belirlenip, Kurul toplantısından beş gün önce Kurul üyelerinin iletişim adreslerine elektronik posta yoluyla gönderilir. Gündem dışı konular da Kurulda görüşülebilir.\n (10) Kurulun sekretaryası Daire Başkanlığınca yürütülür.\n (11) Arabuluculuk Kuruluna başka yerden katılan Kurul üyelerinin gündelik, yol gideri, konaklama ve diğer zorunlu giderleri 10/2/1954 tarihli ve 6245 sayılı Harcırah Kanunu hükümlerine göre Bakanlıkça karşılanır.",
+      "preview": "(1) Kurul aşağıdaki üyelerden oluşur: a) Hukuk İşleri Genel Müdürü. b) Arabuluculuk Daire Başkanı. c) Hâkimler ve Savcılar Kurulu tarafından…",
+      "kitap": null,
+      "kisim": "DÖRDÜNCÜ KISIM · Teşkilat",
+      "bolum": "İKİNCİ BÖLÜM · Arabuluculuk Kurulu ve Görevleri",
+      "ayirim": null,
+      "maddeBaslik": "Kurul",
+      "sectionPath": [
+        "DÖRDÜNCÜ KISIM · Teşkilat",
+        "İKİNCİ BÖLÜM · Arabuluculuk Kurulu ve Görevleri",
+        "Kurul"
+      ]
+    },
+    {
+      "id": "yonetmelik:24638:m:55",
+      "maddeKind": "madde",
+      "maddeNo": "55",
+      "heading": "Madde 55",
+      "text": "(1) Kurulun görevleri şunlardır:\n a) Arabuluculuk hizmetlerine ilişkin temel ilkeler ile arabuluculuk meslek kurallarını belirlemek.\n b) Arabuluculuk eğitimine ve eğitim kuruluşlarının nitelikleri ile çalışma usul ve esaslarına yönelik ilke ve standartlar ile arabuluculuk eğitimi sonunda yapılacak olan sınava ilişkin temel ilke ve standartları tespit etmek.\n c) Arabulucuların denetimine ilişkin kuralları belirlemek.\n ç) Kanuna göre çıkarılması gereken ve Genel Müdürlük tarafından hazırlanan yönetmelik taslaklarına, gerekirse değişiklik yaparak son şeklini vermek.\n d) Eğitim kuruluşlarının eğitim izinlerini iptal etmek.\n e) 31 inci maddenin üçüncü fıkrası kapsamında arabulucunun sicilden silinmesine karar vermek.\n f) Arabulucuların ödeyecekleri giriş aidatını ve yıllık aidatları tespit etmek.\n g) Arabuluculuk Asgari Ücret Tarifesini gerekiyorsa değişiklik yapmak suretiyle onaylamak.\n ğ) Daire Başkanlığı tarafından yürütülecek faaliyetlerin etkinliğini artırmak üzere tavsiyelerde bulunmak.\n h) Daire Başkanlığının yıllık faaliyet raporu ve planı hakkında görüş bildirmek.\n ı) Daire Başkanlığının faaliyet planında yer alan konularla ilgili kurum ve kuruluşların uygulamaya sağlayabileceği katkıları belirlemek.\n i) Arabuluculuk hizmetlerinin yürütülmesiyle ilgili olarak gerek Daire Başkanlığınca bildirilen ve gerekse re’sen öğrenilen genel ve önemli sorunları görüşüp, çözüm önerilerinde bulunmak.",
+      "preview": "(1) Kurulun görevleri şunlardır: a) Arabuluculuk hizmetlerine ilişkin temel ilkeler ile arabuluculuk meslek kurallarını belirlemek. b) Arabu…",
+      "kitap": null,
+      "kisim": "DÖRDÜNCÜ KISIM · Teşkilat",
+      "bolum": "İKİNCİ BÖLÜM · Arabuluculuk Kurulu ve Görevleri",
+      "ayirim": null,
+      "maddeBaslik": "Kurulun görevleri",
+      "sectionPath": [
+        "DÖRDÜNCÜ KISIM · Teşkilat",
+        "İKİNCİ BÖLÜM · Arabuluculuk Kurulu ve Görevleri",
+        "Kurulun görevleri"
+      ]
+    },
+    {
+      "id": "yonetmelik:24638:m:56",
+      "maddeKind": "madde",
+      "maddeNo": "56",
+      "heading": "Madde 56",
+      "text": "(1) Arabuluculuğa başvuranları bilgilendirmek, arabulucuları görevlendirmek ve kanunla verilen diğer görevleri yerine getirmek üzere Bakanlık tarafından uygun görülen adliyelerde, adliye arabuluculuk büroları kurulur.",
+      "preview": "(1) Arabuluculuğa başvuranları bilgilendirmek, arabulucuları görevlendirmek ve kanunla verilen diğer görevleri yerine getirmek üzere Bakanlı…",
+      "kitap": null,
+      "kisim": "DÖRDÜNCÜ KISIM · Teşkilat",
+      "bolum": "ÜÇÜNCÜ BÖLÜM · Adliye Arabuluculuk Bürosu",
+      "ayirim": null,
+      "maddeBaslik": "Adliye arabuluculuk bürosu",
+      "sectionPath": [
+        "DÖRDÜNCÜ KISIM · Teşkilat",
+        "ÜÇÜNCÜ BÖLÜM · Adliye Arabuluculuk Bürosu",
+        "Adliye arabuluculuk bürosu"
+      ]
+    },
+    {
+      "id": "yonetmelik:24638:m:57",
+      "maddeKind": "madde",
+      "maddeNo": "57",
+      "heading": "Madde 57",
+      "text": "(1) Adli yargı ilk derece mahkemesi adalet komisyonu tarafından, münhasıran bu bürolarda çalışmak üzere bir yazı işleri müdürü ile yeteri kadar personel görevlendirilir.",
+      "preview": "(1) Adli yargı ilk derece mahkemesi adalet komisyonu tarafından, münhasıran bu bürolarda çalışmak üzere bir yazı işleri müdürü ile yeteri ka…",
+      "kitap": null,
+      "kisim": "DÖRDÜNCÜ KISIM · Teşkilat",
+      "bolum": "ÜÇÜNCÜ BÖLÜM · Adliye Arabuluculuk Bürosu",
+      "ayirim": null,
+      "maddeBaslik": "Adliye arabuluculuk büro personeli",
+      "sectionPath": [
+        "DÖRDÜNCÜ KISIM · Teşkilat",
+        "ÜÇÜNCÜ BÖLÜM · Adliye Arabuluculuk Bürosu",
+        "Adliye arabuluculuk büro personeli"
+      ]
+    },
+    {
+      "id": "yonetmelik:24638:m:58",
+      "maddeKind": "madde",
+      "maddeNo": "58",
+      "heading": "Madde 58",
+      "text": "(1) Adliye arabuluculuk büroları, Hâkimler ve Savcılar Kurulu tarafından belirlenen sulh hukuk hâkiminin gözetim ve denetimi altında görev yapar. Adliye arabuluculuk bürosu kurulmayan yerlerde bu büroların görevi, adli yargı ilk derece mahkemesi adalet komisyonunca görevlendirilen sulh hukuk mahkemesi yazı işleri müdürlüğü tarafından ilgili hâkimin gözetim ve denetimi altında yerine getirilir.\n BEŞİNCİ KISIM\n Çeşitli ve Son Hükümler\n Yürürlükten kaldırılan yönetmelik",
+      "preview": "(1) Adliye arabuluculuk büroları, Hâkimler ve Savcılar Kurulu tarafından belirlenen sulh hukuk hâkiminin gözetim ve denetimi altında görev y…",
+      "kitap": null,
+      "kisim": "DÖRDÜNCÜ KISIM · Teşkilat",
+      "bolum": "ÜÇÜNCÜ BÖLÜM · Adliye Arabuluculuk Bürosu",
+      "ayirim": null,
+      "maddeBaslik": "Adliye arabuluculuk bürolarının denetimi",
+      "sectionPath": [
+        "DÖRDÜNCÜ KISIM · Teşkilat",
+        "ÜÇÜNCÜ BÖLÜM · Adliye Arabuluculuk Bürosu",
+        "Adliye arabuluculuk bürolarının denetimi"
+      ]
+    },
+    {
+      "id": "yonetmelik:24638:m:59",
+      "maddeKind": "madde",
+      "maddeNo": "59",
+      "heading": "Madde 59",
+      "text": "(1) 26/1/2013 tarihli 28540 sayılı Resmî Gazete’de yayımlanan Hukuk Uyuşmazlıklarında Arabuluculuk Kanunu Yönetmeliği yürürlükten kaldırılmıştır.",
+      "preview": "(1) 26/1/2013 tarihli 28540 sayılı Resmî Gazete’de yayımlanan Hukuk Uyuşmazlıklarında Arabuluculuk Kanunu Yönetmeliği yürürlükten kaldırılmı…",
+      "kitap": null,
+      "kisim": "DÖRDÜNCÜ KISIM · Teşkilat",
+      "bolum": "ÜÇÜNCÜ BÖLÜM · Adliye Arabuluculuk Bürosu",
+      "ayirim": null,
+      "maddeBaslik": "Adliye arabuluculuk bürolarının denetimi",
+      "sectionPath": [
+        "DÖRDÜNCÜ KISIM · Teşkilat",
+        "ÜÇÜNCÜ BÖLÜM · Adliye Arabuluculuk Bürosu",
+        "Adliye arabuluculuk bürolarının denetimi"
+      ]
+    },
+    {
+      "id": "yonetmelik:24638:m:gecici:1",
+      "maddeKind": "gecici",
+      "maddeNo": "1",
+      "heading": "Geçici Madde 1",
+      "text": "(1) 1/1/2018 tarihinden önce sicile kaydolanlar bakımından bu Yönetmeliğin Resmî Gazete’de yayımlandığı tarih 32 nci maddenin altıncı fıkrası uyarınca, sicile kayıt tarihi sayılır.",
+      "preview": "(1) 1/1/2018 tarihinden önce sicile kaydolanlar bakımından bu Yönetmeliğin Resmî Gazete’de yayımlandığı tarih 32 nci maddenin altıncı fıkras…",
+      "kitap": null,
+      "kisim": "DÖRDÜNCÜ KISIM · Teşkilat",
+      "bolum": "ÜÇÜNCÜ BÖLÜM · Adliye Arabuluculuk Bürosu",
+      "ayirim": null,
+      "maddeBaslik": "Yenileme eğitimine esas kayıt tarihi",
+      "sectionPath": [
+        "DÖRDÜNCÜ KISIM · Teşkilat",
+        "ÜÇÜNCÜ BÖLÜM · Adliye Arabuluculuk Bürosu",
+        "Yenileme eğitimine esas kayıt tarihi"
+      ]
+    },
+    {
+      "id": "yonetmelik:24638:m:60",
+      "maddeKind": "madde",
+      "maddeNo": "60",
+      "heading": "Madde 60",
+      "text": "(1) Bu Yönetmelik yayımı tarihinde yürürlüğe girer.",
+      "preview": "(1) Bu Yönetmelik yayımı tarihinde yürürlüğe girer.",
+      "kitap": null,
+      "kisim": "DÖRDÜNCÜ KISIM · Teşkilat",
+      "bolum": "ÜÇÜNCÜ BÖLÜM · Adliye Arabuluculuk Bürosu",
+      "ayirim": null,
+      "maddeBaslik": "Yürürlük",
+      "sectionPath": [
+        "DÖRDÜNCÜ KISIM · Teşkilat",
+        "ÜÇÜNCÜ BÖLÜM · Adliye Arabuluculuk Bürosu",
+        "Yürürlük"
+      ]
+    },
+    {
+      "id": "yonetmelik:24638:m:61",
+      "maddeKind": "madde",
+      "maddeNo": "61",
+      "heading": "Madde 61",
+      "text": "(1) Bu Yönetmelik hükümlerini Adalet Bakanı yürütür.\n\n Yönetmeliğin Yayımlandığı Resmî Gazete’nin\n\n Tarihi\n Sayısı\n\n 2/6/2018\n 30439\n\n Yönetmelikte Değişiklik Yapan Yönetmeliklerin Yayımlandığı Resmî Gazetelerin\n\n Tarihi\n Sayısı\n\n 1.\n 17/11/2021\n 31662\n\n 2.",
+      "preview": "(1) Bu Yönetmelik hükümlerini Adalet Bakanı yürütür. Yönetmeliğin Yayımlandığı Resmî Gazete’nin Tarihi Sayısı 2/6/2018 30439 Yönetmelikte De…",
+      "kitap": null,
+      "kisim": "DÖRDÜNCÜ KISIM · Teşkilat",
+      "bolum": "ÜÇÜNCÜ BÖLÜM · Adliye Arabuluculuk Bürosu",
+      "ayirim": null,
+      "maddeBaslik": "Yürütme",
+      "sectionPath": [
+        "DÖRDÜNCÜ KISIM · Teşkilat",
+        "ÜÇÜNCÜ BÖLÜM · Adliye Arabuluculuk Bürosu",
+        "Yürütme"
+      ]
+    }
+  ]
+}

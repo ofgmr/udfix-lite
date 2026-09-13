@@ -1,0 +1,1155 @@
+{
+  "id": "kanun:5718",
+  "kind": "kanun",
+  "no": "5718",
+  "title": "Milletlerarası Özel Hukuk ve Usul Hukuku Hakkında Kanun",
+  "shortName": "MÖHUK",
+  "aliases": [
+    "MÖHUK",
+    "Milletlerarası Özel Hukuk ve Usul Hukuku Hakkında Kanun",
+    "5718"
+  ],
+  "tur": 1,
+  "tertip": 5,
+  "sourceUrl": "https://www.mevzuat.gov.tr/mevzuat?MevzuatNo=5718&MevzuatTur=1&MevzuatTertip=5",
+  "kabulTarihi": "27/11/2007",
+  "maddeCount": 66,
+  "maddeler": [
+    {
+      "id": "kanun:5718:m:1",
+      "maddeKind": "madde",
+      "maddeNo": "1",
+      "heading": "Madde 1",
+      "text": "(1) Yabancılık unsuru taşıyan özel hukuka ilişkin işlem ve ilişkilerde uygulanacak hukuk, Türk mahkemelerinin milletlerarası yetkisi, yabancı kararların tanınması ve tenfizi bu Kanunla düzenlenmiştir.\n (2) Türkiye Cumhuriyetinin taraf olduğu milletlerarası sözleşme hükümleri saklıdır.",
+      "preview": "(1) Yabancılık unsuru taşıyan özel hukuka ilişkin işlem ve ilişkilerde uygulanacak hukuk, Türk mahkemelerinin milletlerarası yetkisi, yabanc…",
+      "kitap": null,
+      "kisim": null,
+      "bolum": null,
+      "ayirim": null,
+      "maddeBaslik": null,
+      "sectionPath": []
+    },
+    {
+      "id": "kanun:5718:m:2",
+      "maddeKind": "madde",
+      "maddeNo": "2",
+      "heading": "Madde 2",
+      "text": "(1) Hâkim, Türk kanunlar ihtilâfı kurallarını ve bu kurallara göre yetkili olan yabancı hukuku re’sen uygular. Hâkim, yetkili yabancı hukukun muhtevasının tespitinde tarafların yardımını isteyebilir.\n (2) Yabancı hukukun olaya ilişkin hükümlerinin tüm araştırmalara rağmen tespit edilememesi hâlinde, Türk hukuku uygulanır.\n (3) Uygulanacak yabancı hukukun kanunlar ihtilâfı kurallarının başka bir hukuku yetkili kılması, sadece kişinin hukuku ve aile hukukuna ilişkin ihtilâflarda dikkate alınır ve bu hukukun maddî hukuk hükümleri uygulanır.\n (4) Uygulanacak hukuku seçme imkânı verilen hâllerde, taraflarca aksi açıkça kararlaştırılmadıkça seçilen hukukun maddî hukuk hükümleri uygulanır.\n (5) Hukuku uygulanacak devlet iki veya daha çok bölgesel birime ve bu birimler de değişik hukuk düzenlerine sahipse, hangi bölge hukukunun uygulanacağı o devletin hukukuna göre belirlenir. O devlet hukukunda belirleyici bir hükmün yokluğu hâlinde ihtilâfla en sıkı ilişkili bölge hukuku uygulanır.",
+      "preview": "(1) Hâkim, Türk kanunlar ihtilâfı kurallarını ve bu kurallara göre yetkili olan yabancı hukuku re’sen uygular. Hâkim, yetkili yabancı hukuku…",
+      "kitap": null,
+      "kisim": null,
+      "bolum": null,
+      "ayirim": null,
+      "maddeBaslik": "Yabancı hukukun uygulanması",
+      "sectionPath": [
+        "Yabancı hukukun uygulanması"
+      ]
+    },
+    {
+      "id": "kanun:5718:m:3",
+      "maddeKind": "madde",
+      "maddeNo": "3",
+      "heading": "Madde 3",
+      "text": "(1) Yetkili hukukun vatandaşlık, yerleşim yeri veya mutad mesken esaslarına göre tayin edildiği hâllerde, aksine hüküm olmadıkça, dava tarihindeki vatandaşlık, yerleşim yeri veya mutad mesken esas alınır.",
+      "preview": "(1) Yetkili hukukun vatandaşlık, yerleşim yeri veya mutad mesken esaslarına göre tayin edildiği hâllerde, aksine hüküm olmadıkça, dava tarih…",
+      "kitap": null,
+      "kisim": null,
+      "bolum": null,
+      "ayirim": null,
+      "maddeBaslik": "Değişken ihtilâflar",
+      "sectionPath": [
+        "Değişken ihtilâflar"
+      ]
+    },
+    {
+      "id": "kanun:5718:m:4",
+      "maddeKind": "madde",
+      "maddeNo": "4",
+      "heading": "Madde 4",
+      "text": "(1) Bu Kanun hükümleri uyarınca yetkili olan hukukun vatandaşlık esasına göre tayin edildiği hâllerde, bu Kanunda aksi öngörülmedikçe;\n a) Vatansızlar ve mülteciler hakkında yerleşim yeri, bulunmadığı hâllerde mutad mesken, o da yok ise dava tarihinde bulunduğu ülke hukuku,\n b) Birden fazla devlet vatandaşlığına sahip olanlar hakkında, bunların aynı zamanda Türk vatandaşı olmaları hâlinde Türk hukuku,\n c) Birden fazla devlet vatandaşlığına sahip olup, aynı zamanda Türk vatandaşı olmayanlar hakkında, daha sıkı ilişki hâlinde bulundukları devlet hukuku,\n uygulanır.",
+      "preview": "(1) Bu Kanun hükümleri uyarınca yetkili olan hukukun vatandaşlık esasına göre tayin edildiği hâllerde, bu Kanunda aksi öngörülmedikçe; a) Va…",
+      "kitap": null,
+      "kisim": null,
+      "bolum": null,
+      "ayirim": null,
+      "maddeBaslik": "Vatandaşlık esasına göre yetkili hukuk",
+      "sectionPath": [
+        "Vatandaşlık esasına göre yetkili hukuk"
+      ]
+    },
+    {
+      "id": "kanun:5718:m:5",
+      "maddeKind": "madde",
+      "maddeNo": "5",
+      "heading": "Madde 5",
+      "text": "(1) Yetkili yabancı hukukun belirli bir olaya uygulanan hükmünün Türk kamu düzenine açıkça aykırı olması hâlinde, bu hüküm uygulanmaz; gerekli görülen hâllerde, Türk hukuku uygulanır.",
+      "preview": "(1) Yetkili yabancı hukukun belirli bir olaya uygulanan hükmünün Türk kamu düzenine açıkça aykırı olması hâlinde, bu hüküm uygulanmaz; gerek…",
+      "kitap": null,
+      "kisim": null,
+      "bolum": null,
+      "ayirim": null,
+      "maddeBaslik": "Kamu düzenine aykırılık",
+      "sectionPath": [
+        "Kamu düzenine aykırılık"
+      ]
+    },
+    {
+      "id": "kanun:5718:m:6",
+      "maddeKind": "madde",
+      "maddeNo": "6",
+      "heading": "Madde 6",
+      "text": "(1) Yetkili yabancı hukukun uygulandığı durumlarda, düzenleme amacı ve uygulama alanı bakımından Türk hukukunun doğrudan uygulanan kurallarının kapsamına giren hâllerde o kural uygulanır.",
+      "preview": "(1) Yetkili yabancı hukukun uygulandığı durumlarda, düzenleme amacı ve uygulama alanı bakımından Türk hukukunun doğrudan uygulanan kuralları…",
+      "kitap": null,
+      "kisim": null,
+      "bolum": null,
+      "ayirim": null,
+      "maddeBaslik": "Türk hukukunun doğrudan uygulanan kuralları",
+      "sectionPath": [
+        "Türk hukukunun doğrudan uygulanan kuralları"
+      ]
+    },
+    {
+      "id": "kanun:5718:m:7",
+      "maddeKind": "madde",
+      "maddeNo": "7",
+      "heading": "Madde 7",
+      "text": "(1) Hukukî işlemler, yapıldıkları ülke hukukunun veya o hukukî işlemin esası hakkında yetkili olan hukukun maddî hukuk hükümlerinin öngördüğü şekle uygun olarak yapılabilir.",
+      "preview": "(1) Hukukî işlemler, yapıldıkları ülke hukukunun veya o hukukî işlemin esası hakkında yetkili olan hukukun maddî hukuk hükümlerinin öngördüğ…",
+      "kitap": null,
+      "kisim": null,
+      "bolum": null,
+      "ayirim": null,
+      "maddeBaslik": "Hukukî işlemlerde şekil",
+      "sectionPath": [
+        "Hukukî işlemlerde şekil"
+      ]
+    },
+    {
+      "id": "kanun:5718:m:8",
+      "maddeKind": "madde",
+      "maddeNo": "8",
+      "heading": "Madde 8",
+      "text": "(1) Zamanaşımı, hukukî işlem ve ilişkinin esasına uygulanan hukuka tâbidir.",
+      "preview": "(1) Zamanaşımı, hukukî işlem ve ilişkinin esasına uygulanan hukuka tâbidir.",
+      "kitap": null,
+      "kisim": null,
+      "bolum": null,
+      "ayirim": null,
+      "maddeBaslik": "Zamanaşımı",
+      "sectionPath": [
+        "Zamanaşımı"
+      ]
+    },
+    {
+      "id": "kanun:5718:m:9",
+      "maddeKind": "madde",
+      "maddeNo": "9",
+      "heading": "Madde 9",
+      "text": "(1) Hak ve fiil ehliyeti ilgilinin millî hukukuna tâbidir.\n (2) Millî hukukuna göre ehliyetsiz olan bir kişi, işlemin yapıldığı ülke hukukuna göre ehil ise yaptığı hukukî işlemle bağlıdır. Aile ve miras hukuku ile başka bir ülkedeki taşınmazlar üzerindeki aynî haklara ilişkin işlemler bu hükmün dışındadır.\n (3) Kişinin millî hukukuna göre kazandığı erginlik, vatandaşlığının değişmesi ile sona ermez.\n (4) Tüzel kişilerin veya kişi veya mal topluluklarının hak ve fiil ehliyetleri, statülerindeki idare merkezi hukukuna tâbidir. Ancak fiilî idare merkezinin Türkiye'de olması hâlinde Türk hukuku uygulanabilir.\n (5) Statüsü bulunmayan tüzel kişiler ile tüzel kişiliği bulunmayan kişi veya mal topluluklarının ehliyeti, fiilî idare merkezi hukukuna tâbidir.",
+      "preview": "(1) Hak ve fiil ehliyeti ilgilinin millî hukukuna tâbidir. (2) Millî hukukuna göre ehliyetsiz olan bir kişi, işlemin yapıldığı ülke hukukuna…",
+      "kitap": null,
+      "kisim": null,
+      "bolum": "İKİNCİ BÖLÜM · Kanunlar İhtilâfı Kuralları",
+      "ayirim": null,
+      "maddeBaslik": "Ehliyet",
+      "sectionPath": [
+        "İKİNCİ BÖLÜM · Kanunlar İhtilâfı Kuralları",
+        "Ehliyet"
+      ]
+    },
+    {
+      "id": "kanun:5718:m:10",
+      "maddeKind": "madde",
+      "maddeNo": "10",
+      "heading": "Madde 10",
+      "text": "(1) Vesâyet veya kısıtlılık kararı verilmesi veya sona erdirilmesi sebepleri, hakkında vesâyet veya kısıtlılık kararının verilmesi veya sona erdirilmesi istenen kişinin millî hukukuna tâbidir.\n (2) Yabancının millî hukukuna göre vesâyet veya kısıtlılık kararı verilmesi mümkün olmayan hâllerde bu kişinin mutad meskeni Türkiye'de ise Türk hukukuna göre vesâyet veya kısıtlılık kararı verilebilir veya kaldırılabilir. Kişinin zorunlu olarak Türkiye’de bulunduğu hâllerde de Türk hukuku uygulanır.\n (3) Vesâyet veya kısıtlılık kararı verilmesi veya sona erdirilmesi sebepleri dışında kalan bütün kısıtlılık veya vesâyete ilişkin hususlar ve kayyımlık Türk hukukuna tâbidir.",
+      "preview": "(1) Vesâyet veya kısıtlılık kararı verilmesi veya sona erdirilmesi sebepleri, hakkında vesâyet veya kısıtlılık kararının verilmesi veya sona…",
+      "kitap": null,
+      "kisim": null,
+      "bolum": "İKİNCİ BÖLÜM · Kanunlar İhtilâfı Kuralları",
+      "ayirim": null,
+      "maddeBaslik": "Vesâyet, kısıtlılık ve kayyımlık",
+      "sectionPath": [
+        "İKİNCİ BÖLÜM · Kanunlar İhtilâfı Kuralları",
+        "Vesâyet, kısıtlılık ve kayyımlık"
+      ]
+    },
+    {
+      "id": "kanun:5718:m:11",
+      "maddeKind": "madde",
+      "maddeNo": "11",
+      "heading": "Madde 11",
+      "text": "(1) Gaiplik veya ölmüş sayılma kararı, hakkında karar verilecek kişinin millî hukukuna tâbidir. Millî hukukuna göre hakkında gaiplik veya ölmüş sayılma kararı verilemeyen kişinin mallarının Türkiye'de bulunması veya eşinin veya mirasçılardan birinin Türk vatandaşı olması hâlinde, Türk hukukuna göre gaiplik veya ölmüş sayılma kararı verilir.",
+      "preview": "(1) Gaiplik veya ölmüş sayılma kararı, hakkında karar verilecek kişinin millî hukukuna tâbidir. Millî hukukuna göre hakkında gaiplik veya öl…",
+      "kitap": null,
+      "kisim": null,
+      "bolum": "İKİNCİ BÖLÜM · Kanunlar İhtilâfı Kuralları",
+      "ayirim": null,
+      "maddeBaslik": "Gaiplik veya ölmüş sayılma",
+      "sectionPath": [
+        "İKİNCİ BÖLÜM · Kanunlar İhtilâfı Kuralları",
+        "Gaiplik veya ölmüş sayılma"
+      ]
+    },
+    {
+      "id": "kanun:5718:m:12",
+      "maddeKind": "madde",
+      "maddeNo": "12",
+      "heading": "Madde 12",
+      "text": "(1) Nişanlanma ehliyeti ve şartları taraflardan her birinin nişanlanma anındaki millî hukukuna tâbidir.\n (2) Nişanlılığın hükümlerine ve sonuçlarına müşterek millî hukuk, taraflar ayrı vatandaşlıkta iseler Türk hukuku uygulanır.",
+      "preview": "(1) Nişanlanma ehliyeti ve şartları taraflardan her birinin nişanlanma anındaki millî hukukuna tâbidir. (2) Nişanlılığın hükümlerine ve sonu…",
+      "kitap": null,
+      "kisim": null,
+      "bolum": "İKİNCİ BÖLÜM · Kanunlar İhtilâfı Kuralları",
+      "ayirim": null,
+      "maddeBaslik": "Nişanlılık",
+      "sectionPath": [
+        "İKİNCİ BÖLÜM · Kanunlar İhtilâfı Kuralları",
+        "Nişanlılık"
+      ]
+    },
+    {
+      "id": "kanun:5718:m:13",
+      "maddeKind": "madde",
+      "maddeNo": "13",
+      "heading": "Madde 13",
+      "text": "(1) Evlenme ehliyeti ve şartları, taraflardan her birinin evlenme anındaki millî hukukuna tâbidir.\n (2) Evliliğin şekline yapıldığı ülke hukuku uygulanır.\n (3) Evliliğin genel hükümleri, eşlerin müşterek millî hukukuna tâbidir. Tarafların ayrı vatandaşlıkta olmaları hâlinde müşterek mutad mesken hukuku, bulunmadığı takdirde Türk hukuku uygulanır.",
+      "preview": "(1) Evlenme ehliyeti ve şartları, taraflardan her birinin evlenme anındaki millî hukukuna tâbidir. (2) Evliliğin şekline yapıldığı ülke huku…",
+      "kitap": null,
+      "kisim": null,
+      "bolum": "İKİNCİ BÖLÜM · Kanunlar İhtilâfı Kuralları",
+      "ayirim": null,
+      "maddeBaslik": "Evlilik ve genel hükümleri",
+      "sectionPath": [
+        "İKİNCİ BÖLÜM · Kanunlar İhtilâfı Kuralları",
+        "Evlilik ve genel hükümleri"
+      ]
+    },
+    {
+      "id": "kanun:5718:m:14",
+      "maddeKind": "madde",
+      "maddeNo": "14",
+      "heading": "Madde 14",
+      "text": "(1) Boşanma ve ayrılık sebepleri ve hükümleri, eşlerin müşterek millî hukukuna tâbidir. Tarafların ayrı vatandaşlıkta olmaları hâlinde müşterek mutad mesken hukuku, bulunmadığı takdirde Türk hukuku uygulanır.\n (2) Boşanmış eşler arasındaki nafaka talepleri hakkında birinci fıkra hükmü uygulanır. Bu hüküm ayrılık ve evlenmenin butlanı hâlinde de geçerlidir.\n (3) Boşanmada velâyet ve velâyete ilişkin sorunlar da birinci fıkra hükmüne tâbidir.\n (4) Geçici tedbir taleplerine Türk hukuku uygulanır.",
+      "preview": "(1) Boşanma ve ayrılık sebepleri ve hükümleri, eşlerin müşterek millî hukukuna tâbidir. Tarafların ayrı vatandaşlıkta olmaları hâlinde müşte…",
+      "kitap": null,
+      "kisim": null,
+      "bolum": "İKİNCİ BÖLÜM · Kanunlar İhtilâfı Kuralları",
+      "ayirim": null,
+      "maddeBaslik": "Boşanma ve ayrılık",
+      "sectionPath": [
+        "İKİNCİ BÖLÜM · Kanunlar İhtilâfı Kuralları",
+        "Boşanma ve ayrılık"
+      ]
+    },
+    {
+      "id": "kanun:5718:m:15",
+      "maddeKind": "madde",
+      "maddeNo": "15",
+      "heading": "Madde 15",
+      "text": "(1) Evlilik malları hakkında eşler evlenme anındaki mutad mesken veya millî hukuklarından birini açık olarak seçebilirler; böyle bir seçimin yapılmamış olması hâlinde evlilik malları hakkında eşlerin evlenme anındaki müşterek millî hukuku, bulunmaması hâlinde evlenme anındaki müşterek mutad mesken hukuku, bunun da bulunmaması hâlinde Türk hukuku uygulanır.\n (2) Malların tasfiyesinde, taşınmazlar için bulundukları ülke hukuku uygulanır.\n (3) Evlenmeden sonra yeni bir müşterek hukuka sahip olan eşler, üçüncü kişilerin hakları saklı kalmak üzere, bu yeni hukuka tâbi olabilirler.",
+      "preview": "(1) Evlilik malları hakkında eşler evlenme anındaki mutad mesken veya millî hukuklarından birini açık olarak seçebilirler; böyle bir seçimin…",
+      "kitap": null,
+      "kisim": null,
+      "bolum": "İKİNCİ BÖLÜM · Kanunlar İhtilâfı Kuralları",
+      "ayirim": null,
+      "maddeBaslik": "Evlilik malları",
+      "sectionPath": [
+        "İKİNCİ BÖLÜM · Kanunlar İhtilâfı Kuralları",
+        "Evlilik malları"
+      ]
+    },
+    {
+      "id": "kanun:5718:m:16",
+      "maddeKind": "madde",
+      "maddeNo": "16",
+      "heading": "Madde 16",
+      "text": "(1) Soybağının kuruluşu, çocuğun doğum anındaki millî hukukuna, kurulamaması hâlinde çocuğun mutad meskeni hukukuna tâbidir. Soybağı bu hukuklara göre kurulamıyorsa, ananın veya babanın, çocuğun doğumu anındaki millî hukuklarına, bunlara göre kurulamaması hâlinde ana ve babanın, çocuğun doğumu anındaki müşterek mutad mesken hukukuna, buna göre de kurulamıyorsa çocuğun doğum yeri hukukuna tâbi olarak kurulur.\n (2) Soybağı hangi hukuka göre kurulmuşsa iptali de o hukuka tâbidir.",
+      "preview": "(1) Soybağının kuruluşu, çocuğun doğum anındaki millî hukukuna, kurulamaması hâlinde çocuğun mutad meskeni hukukuna tâbidir. Soybağı bu huku…",
+      "kitap": null,
+      "kisim": null,
+      "bolum": "İKİNCİ BÖLÜM · Kanunlar İhtilâfı Kuralları",
+      "ayirim": null,
+      "maddeBaslik": "Soybağının kurulması",
+      "sectionPath": [
+        "İKİNCİ BÖLÜM · Kanunlar İhtilâfı Kuralları",
+        "Soybağının kurulması"
+      ]
+    },
+    {
+      "id": "kanun:5718:m:17",
+      "maddeKind": "madde",
+      "maddeNo": "17",
+      "heading": "Madde 17",
+      "text": "(1) Soybağının hükümleri, soybağını kuran hukuka tâbidir. Ancak ana, baba ve çocuğun müşterek millî hukuku bulunuyorsa, soybağının hükümlerine o hukuk, bulunmadığı takdirde müşterek mutad mesken hukuku uygulanır.",
+      "preview": "(1) Soybağının hükümleri, soybağını kuran hukuka tâbidir. Ancak ana, baba ve çocuğun müşterek millî hukuku bulunuyorsa, soybağının hükümleri…",
+      "kitap": null,
+      "kisim": null,
+      "bolum": "İKİNCİ BÖLÜM · Kanunlar İhtilâfı Kuralları",
+      "ayirim": null,
+      "maddeBaslik": "Soybağının hükümleri",
+      "sectionPath": [
+        "İKİNCİ BÖLÜM · Kanunlar İhtilâfı Kuralları",
+        "Soybağının hükümleri"
+      ]
+    },
+    {
+      "id": "kanun:5718:m:18",
+      "maddeKind": "madde",
+      "maddeNo": "18",
+      "heading": "Madde 18",
+      "text": "(1) Evlât edinme ehliyeti ve şartları, taraflardan her birinin evlât edinme anındaki millî hukukuna tâbidir.\n (2) Evlât edinmeye ve edinilmeye diğer eşin rızası konusunda eşlerin millî hukukları birlikte uygulanır.\n (3) Evlât edinmenin hükümleri evlât edinenin millî hukukuna, eşlerin birlikte evlât edinmesi hâlinde ise evlenmenin genel hükümlerini düzenleyen hukuka tâbidir.",
+      "preview": "(1) Evlât edinme ehliyeti ve şartları, taraflardan her birinin evlât edinme anındaki millî hukukuna tâbidir. (2) Evlât edinmeye ve edinilmey…",
+      "kitap": null,
+      "kisim": null,
+      "bolum": "İKİNCİ BÖLÜM · Kanunlar İhtilâfı Kuralları",
+      "ayirim": null,
+      "maddeBaslik": "Evlât edinme",
+      "sectionPath": [
+        "İKİNCİ BÖLÜM · Kanunlar İhtilâfı Kuralları",
+        "Evlât edinme"
+      ]
+    },
+    {
+      "id": "kanun:5718:m:19",
+      "maddeKind": "madde",
+      "maddeNo": "19",
+      "heading": "Madde 19",
+      "text": "(1) Nafaka talepleri, nafaka alacaklısının mutad meskeni hukukuna tâbidir.",
+      "preview": "(1) Nafaka talepleri, nafaka alacaklısının mutad meskeni hukukuna tâbidir.",
+      "kitap": null,
+      "kisim": null,
+      "bolum": "İKİNCİ BÖLÜM · Kanunlar İhtilâfı Kuralları",
+      "ayirim": null,
+      "maddeBaslik": "Nafaka",
+      "sectionPath": [
+        "İKİNCİ BÖLÜM · Kanunlar İhtilâfı Kuralları",
+        "Nafaka"
+      ]
+    },
+    {
+      "id": "kanun:5718:m:20",
+      "maddeKind": "madde",
+      "maddeNo": "20",
+      "heading": "Madde 20",
+      "text": "(1) Miras ölenin millî hukukuna tâbidir. Türkiye'de bulunan taşınmazlar hakkında Türk hukuku uygulanır.\n (2) Mirasın açılması sebeplerine, iktisabına ve taksimine ilişkin hükümler terekenin bulunduğu ülke hukukuna tâbidir.\n (3) Türkiye'de bulunan mirasçısız tereke Devlete kalır.\n (4) Ölüme bağlı tasarrufun şekline 7 nci madde hükmü uygulanır. Ölenin millî hukukuna uygun şekilde yapılan ölüme bağlı tasarruflar da geçerlidir.\n (5) Ölüme bağlı tasarruf ehliyeti, tasarrufta bulunanın, tasarrufun yapıldığı andaki millî hukukuna tâbidir.",
+      "preview": "(1) Miras ölenin millî hukukuna tâbidir. Türkiye'de bulunan taşınmazlar hakkında Türk hukuku uygulanır. (2) Mirasın açılması sebeplerine, ik…",
+      "kitap": null,
+      "kisim": null,
+      "bolum": "İKİNCİ BÖLÜM · Kanunlar İhtilâfı Kuralları",
+      "ayirim": null,
+      "maddeBaslik": "Miras",
+      "sectionPath": [
+        "İKİNCİ BÖLÜM · Kanunlar İhtilâfı Kuralları",
+        "Miras"
+      ]
+    },
+    {
+      "id": "kanun:5718:m:21",
+      "maddeKind": "madde",
+      "maddeNo": "21",
+      "heading": "Madde 21",
+      "text": "(1) Taşınırlar ve taşınmazlar üzerindeki mülkiyet hakkı ve diğer aynî haklar, işlem anında malların bulunduğu ülke hukukuna tâbidir.\n (2) Taşınmakta olan mallar üzerindeki aynî haklara varma yeri hukuku uygulanır.\n (3) Yer değişikliği hâlinde henüz kazanılmamış aynî haklar malın son bulunduğu ülke hukukuna tâbidir.\n (4) Taşınmazlar üzerindeki aynî haklara ilişkin hukukî işlemlere şekil yönünden bu malların bulundukları ülke hukuku uygulanır.",
+      "preview": "(1) Taşınırlar ve taşınmazlar üzerindeki mülkiyet hakkı ve diğer aynî haklar, işlem anında malların bulunduğu ülke hukukuna tâbidir. (2) Taş…",
+      "kitap": null,
+      "kisim": null,
+      "bolum": "İKİNCİ BÖLÜM · Kanunlar İhtilâfı Kuralları",
+      "ayirim": null,
+      "maddeBaslik": "Aynî haklar",
+      "sectionPath": [
+        "İKİNCİ BÖLÜM · Kanunlar İhtilâfı Kuralları",
+        "Aynî haklar"
+      ]
+    },
+    {
+      "id": "kanun:5718:m:22",
+      "maddeKind": "madde",
+      "maddeNo": "22",
+      "heading": "Madde 22",
+      "text": "(1) Hava, deniz ve raylı taşıma araçları üzerindeki aynî haklar, menşe ülke hukukuna tâbidir.\n (2) Menşe ülke, hava ve deniz taşıma araçlarında aynî hakların tescil edildiği sicil yeri, deniz taşıma araçlarında bu sicil yeri yoksa bağlama limanı, raylı taşıma araçlarında ruhsat yeridir.",
+      "preview": "(1) Hava, deniz ve raylı taşıma araçları üzerindeki aynî haklar, menşe ülke hukukuna tâbidir. (2) Menşe ülke, hava ve deniz taşıma araçların…",
+      "kitap": null,
+      "kisim": null,
+      "bolum": "İKİNCİ BÖLÜM · Kanunlar İhtilâfı Kuralları",
+      "ayirim": null,
+      "maddeBaslik": "Taşıma araçları",
+      "sectionPath": [
+        "İKİNCİ BÖLÜM · Kanunlar İhtilâfı Kuralları",
+        "Taşıma araçları"
+      ]
+    },
+    {
+      "id": "kanun:5718:m:23",
+      "maddeKind": "madde",
+      "maddeNo": "23",
+      "heading": "Madde 23",
+      "text": "(1) Fikrî mülkiyete ilişkin haklar, hangi ülkenin hukukuna göre koruma talep ediliyorsa o hukuka tâbidir.\n (2) Taraflar, fikrî mülkiyet hakkının ihlâlinden doğan talepler hakkında, ihlâlden sonra mahkemenin hukukunun uygulanmasını kararlaştırabilirler.",
+      "preview": "(1) Fikrî mülkiyete ilişkin haklar, hangi ülkenin hukukuna göre koruma talep ediliyorsa o hukuka tâbidir. (2) Taraflar, fikrî mülkiyet hakkı…",
+      "kitap": null,
+      "kisim": null,
+      "bolum": "İKİNCİ BÖLÜM · Kanunlar İhtilâfı Kuralları",
+      "ayirim": null,
+      "maddeBaslik": "Fikrî mülkiyete ilişkin haklara uygulanacak hukuk",
+      "sectionPath": [
+        "İKİNCİ BÖLÜM · Kanunlar İhtilâfı Kuralları",
+        "Fikrî mülkiyete ilişkin haklara uygulanacak hukuk"
+      ]
+    },
+    {
+      "id": "kanun:5718:m:24",
+      "maddeKind": "madde",
+      "maddeNo": "24",
+      "heading": "Madde 24",
+      "text": "(1) Sözleşmeden doğan borç ilişkileri tarafların açık olarak seçtikleri hukuka tâbidir. Sözleşme hükümlerinden veya hâlin şartlarından tereddüde yer vermeyecek biçimde anlaşılabilen hukuk seçimi de geçerlidir.\n (2) Taraflar, seçilen hukukun sözleşmenin tamamına veya bir kısmına uygulanacağını kararlaştırabilirler.\n (3) Hukuk seçimi taraflarca her zaman yapılabilir veya değiştirilebilir. Sözleşmenin kurulmasından sonraki hukuk seçimi, üçüncü kişilerin hakları saklı kalmak kaydıyla, geriye etkili olarak geçerlidir.\n (4) Tarafların hukuk seçimi yapmamış olmaları hâlinde sözleşmeden doğan ilişkiye, o sözleşmeyle en sıkı ilişkili olan hukuk uygulanır. Bu hukuk, karakteristik edim borçlusunun, sözleşmenin kuruluşu sırasındaki mutad meskeni hukuku, ticarî veya meslekî faaliyetler gereği kurulan sözleşmelerde karakteristik edim borçlusunun işyeri, bulunmadığı takdirde yerleşim yeri hukuku, karakteristik edim borçlusunun birden çok işyeri varsa söz konusu sözleşmeyle en sıkı ilişki içinde bulunan işyeri hukuku olarak kabul edilir. Ancak hâlin bütün şartlarına göre sözleşmeyle daha sıkı ilişkili bir hukukun bulunması hâlinde sözleşme, bu hukuka tâbi olur.",
+      "preview": "(1) Sözleşmeden doğan borç ilişkileri tarafların açık olarak seçtikleri hukuka tâbidir. Sözleşme hükümlerinden veya hâlin şartlarından tered…",
+      "kitap": null,
+      "kisim": null,
+      "bolum": "İKİNCİ BÖLÜM · Kanunlar İhtilâfı Kuralları",
+      "ayirim": null,
+      "maddeBaslik": "Sözleşmeden doğan borç ilişkilerinde uygulanacak hukuk",
+      "sectionPath": [
+        "İKİNCİ BÖLÜM · Kanunlar İhtilâfı Kuralları",
+        "Sözleşmeden doğan borç ilişkilerinde uygulanacak hukuk"
+      ]
+    },
+    {
+      "id": "kanun:5718:m:25",
+      "maddeKind": "madde",
+      "maddeNo": "25",
+      "heading": "Madde 25",
+      "text": "(1) Taşınmazlara veya onların kullanımına ilişkin sözleşmeler taşınmazın bulunduğu ülke hukukuna tâbidir.",
+      "preview": "(1) Taşınmazlara veya onların kullanımına ilişkin sözleşmeler taşınmazın bulunduğu ülke hukukuna tâbidir.",
+      "kitap": null,
+      "kisim": null,
+      "bolum": "İKİNCİ BÖLÜM · Kanunlar İhtilâfı Kuralları",
+      "ayirim": null,
+      "maddeBaslik": "Taşınmazlara ilişkin sözleşmeler",
+      "sectionPath": [
+        "İKİNCİ BÖLÜM · Kanunlar İhtilâfı Kuralları",
+        "Taşınmazlara ilişkin sözleşmeler"
+      ]
+    },
+    {
+      "id": "kanun:5718:m:26",
+      "maddeKind": "madde",
+      "maddeNo": "26",
+      "heading": "Madde 26",
+      "text": "(1) Meslekî veya ticarî olmayan amaçla mal veya hizmet ya da kredi sağlanmasına yönelik tüketici sözleşmeleri, tüketicinin mutad meskeni hukukunun emredici hükümleri uyarınca sahip olacağı asgarî koruma saklı kalmak kaydıyla, tarafların seçtikleri hukuka tâbidir.\n (2) Tarafların hukuk seçimi yapmamış olması hâlinde, tüketicinin mutad meskeni hukuku uygulanır. Tüketicinin mutad meskeni hukukunun uygulanabilmesi için;\n a) Sözleşme, tüketicinin mutad meskeninin bulunduğu ülkede, ona gönderilen özel bir davet üzerine veya ilân sonucunda kurulmuş ve sözleşmenin kurulması için tüketici tarafından yapılması gerekli hukukî fiiller bu ülkede yapılmış veya\n b) Diğer taraf veya onun temsilcisi, tüketicinin siparişini bu ülkede almış veya\n c) İlişkinin bir satım sözleşmesi olması hâlinde, satıcı tüketiciyi satın almaya ikna etmek amacıyla bir gezi düzenlemiş ve tüketici de bu gezi ile bulunduğu ülkeden başka ülkeye gidip siparişini orada vermiş,\n olmalıdır.\n (3) İkinci fıkradaki şartlar altında yapılan tüketici sözleşmelerinin şekline, tüketicinin mutad meskeni hukuku uygulanır.\n (4) Bu madde, paket turlar hariç, taşıma sözleşmeleri ve tüketiciye hizmetin onun mutad meskeninin bulunduğu ülkeden başka bir ülkede sağlanması zorunlu olan sözleşmelere uygulanmaz.",
+      "preview": "(1) Meslekî veya ticarî olmayan amaçla mal veya hizmet ya da kredi sağlanmasına yönelik tüketici sözleşmeleri, tüketicinin mutad meskeni huk…",
+      "kitap": null,
+      "kisim": null,
+      "bolum": "İKİNCİ BÖLÜM · Kanunlar İhtilâfı Kuralları",
+      "ayirim": null,
+      "maddeBaslik": "Tüketici sözleşmeleri",
+      "sectionPath": [
+        "İKİNCİ BÖLÜM · Kanunlar İhtilâfı Kuralları",
+        "Tüketici sözleşmeleri"
+      ]
+    },
+    {
+      "id": "kanun:5718:m:27",
+      "maddeKind": "madde",
+      "maddeNo": "27",
+      "heading": "Madde 27",
+      "text": "(1) (Değişik:4/6/2025-7550/18 md.) İş sözleşmeleri, işçinin mutad işyeri hukukunun emredici hükümleri uyarınca sahip olacağı asgarî koruma saklı kalmak üzere, tarafların sözleşmeyle belirledikleri hukuka tâbidir.\n (2) Tarafların hukuk seçimi yapmamış olmaları hâlinde iş sözleşmesine, işçinin işini mutad olarak yaptığı işyeri hukuku uygulanır. İşçinin işini geçici olarak başka bir ülkede yapması hâlinde, bu işyeri mutad işyeri sayılmaz.\n (3) İşçinin işini belirli bir ülkede mutad olarak yapmayıp devamlı olarak birden fazla ülkede yapması hâlinde iş sözleşmesi, işverenin esas işyerinin bulunduğu ülke hukukuna tâbidir.\n (4) (Değişik:4/6/2025-7550/18 md.) Ancak hâlin bütün şartlarına göre işin yapıldığı yer hukukunun işin yapıldığı sırada uygulanmak zorunda olan hükümleri hariç olmak üzere, iş sözleşmesiyle daha sıkı ilişkili bir hukukun bulunması hâlinde sözleşmeye birinci, ikinci ve üçüncü fıkra hükümleri yerine bu hukuk uygulanabilir.",
+      "preview": "(1) (Değişik:4/6/2025-7550/18 md.) İş sözleşmeleri, işçinin mutad işyeri hukukunun emredici hükümleri uyarınca sahip olacağı asgarî koruma s…",
+      "kitap": null,
+      "kisim": null,
+      "bolum": "İKİNCİ BÖLÜM · Kanunlar İhtilâfı Kuralları",
+      "ayirim": null,
+      "maddeBaslik": "İş sözleşmeleri",
+      "sectionPath": [
+        "İKİNCİ BÖLÜM · Kanunlar İhtilâfı Kuralları",
+        "İş sözleşmeleri"
+      ]
+    },
+    {
+      "id": "kanun:5718:m:28",
+      "maddeKind": "madde",
+      "maddeNo": "28",
+      "heading": "Madde 28",
+      "text": "(1) Fikrî mülkiyet haklarına ilişkin sözleşmeler, tarafların seçtikleri hukuka tâbidir.\n (2) Tarafların hukuk seçimi yapmamış olmaları hâlinde sözleşmeden doğan ilişkiye, fikrî mülkiyet hakkını veya onun kullanımını devreden tarafın sözleşmenin kuruluşu sırasındaki işyeri, bulunmadığı takdirde, mutad meskeni hukuku uygulanır. Ancak hâlin bütün şartlarına göre sözleşmeyle daha sıkı ilişkili bir hukukun bulunması hâlinde sözleşme bu hukuka tâbi olur.\n (3) İşçinin, işi kapsamında ve işinin ifası sırasında meydana getirdiği fikrî ürünler üzerindeki fikrî mülkiyet haklarıyla ilgili işçi ve işveren arasındaki sözleşmelere, iş sözleşmesinin tâbi olduğu hukuk uygulanır.",
+      "preview": "(1) Fikrî mülkiyet haklarına ilişkin sözleşmeler, tarafların seçtikleri hukuka tâbidir. (2) Tarafların hukuk seçimi yapmamış olmaları hâlind…",
+      "kitap": null,
+      "kisim": null,
+      "bolum": "İKİNCİ BÖLÜM · Kanunlar İhtilâfı Kuralları",
+      "ayirim": null,
+      "maddeBaslik": "Fikrî mülkiyet haklarına ilişkin sözleşmeler",
+      "sectionPath": [
+        "İKİNCİ BÖLÜM · Kanunlar İhtilâfı Kuralları",
+        "Fikrî mülkiyet haklarına ilişkin sözleşmeler"
+      ]
+    },
+    {
+      "id": "kanun:5718:m:29",
+      "maddeKind": "madde",
+      "maddeNo": "29",
+      "heading": "Madde 29",
+      "text": "(1) Eşyanın taşınmasına ilişkin sözleşmeler tarafların seçtikleri hukuka tâbidir.\n (2) Tarafların hukuk seçimi yapmamış olmaları hâlinde, sözleşmenin kuruluşu sırasında taşıyıcının esas işyerinin bulunduğu ülke aynı zamanda yüklemenin veya boşaltmanın yapıldığı ülke veya gönderenin esas işyerinin bulunduğu ülke ise bu ülkenin sözleşmeyle en sıkı ilişkili olduğu kabul edilir ve sözleşmeye bu ülkenin hukuku uygulanır. Tek seferlik çarter sözleşmeleri ve esas konusu eşya taşıma olan diğer sözleşmeler de bu madde hükümlerine tâbidir.\n (3) Hâlin bütün şartlarına göre eşyanın taşınmasına ilişkin sözleşmeyle daha sıkı ilişkili bir hukukun bulunması hâlinde sözleşmeye bu hukuk uygulanır.",
+      "preview": "(1) Eşyanın taşınmasına ilişkin sözleşmeler tarafların seçtikleri hukuka tâbidir. (2) Tarafların hukuk seçimi yapmamış olmaları hâlinde, söz…",
+      "kitap": null,
+      "kisim": null,
+      "bolum": "İKİNCİ BÖLÜM · Kanunlar İhtilâfı Kuralları",
+      "ayirim": null,
+      "maddeBaslik": "Eşyanın taşınmasına ilişkin sözleşmeler",
+      "sectionPath": [
+        "İKİNCİ BÖLÜM · Kanunlar İhtilâfı Kuralları",
+        "Eşyanın taşınmasına ilişkin sözleşmeler"
+      ]
+    },
+    {
+      "id": "kanun:5718:m:30",
+      "maddeKind": "madde",
+      "maddeNo": "30",
+      "heading": "Madde 30",
+      "text": "(1) Temsilci ile temsil olunan arasındaki hukukî ilişkiden doğan temsil yetkisi, aralarındaki sözleşmeden doğan ilişkiye uygulanan hukuka tâbidir.\n (2) Temsilcinin bir fiilinin, temsil olunanı üçüncü kişiye karşı taahhüt altına sokabilmesi için aranan şartlara temsilcinin işyeri hukuku uygulanır. Temsilcinin işyeri bulunmadığı veya üçüncü kişi tarafından bilinemediği veya yetkinin işyeri dışında kullanıldığı durumlarda temsil yetkisi, yetkinin fiilen kullanıldığı ülke hukukuna tâbidir. Yetkisiz temsilde, temsilci ile üçüncü kişi arasındaki ilişkiye de bu fıkra hükmü uygulanır.\n (3) Temsilci ile temsil olunan arasında hizmet ilişkisi varsa ve temsilcinin bağımsız bir işyeri yoksa temsil yetkisi, temsil olunanın işyerinin bulunduğu ülke hukukuna tâbidir.",
+      "preview": "(1) Temsilci ile temsil olunan arasındaki hukukî ilişkiden doğan temsil yetkisi, aralarındaki sözleşmeden doğan ilişkiye uygulanan hukuka tâ…",
+      "kitap": null,
+      "kisim": null,
+      "bolum": "İKİNCİ BÖLÜM · Kanunlar İhtilâfı Kuralları",
+      "ayirim": null,
+      "maddeBaslik": "Temsil yetkisi",
+      "sectionPath": [
+        "İKİNCİ BÖLÜM · Kanunlar İhtilâfı Kuralları",
+        "Temsil yetkisi"
+      ]
+    },
+    {
+      "id": "kanun:5718:m:31",
+      "maddeKind": "madde",
+      "maddeNo": "31",
+      "heading": "Madde 31",
+      "text": "(1) Sözleşmeden doğan ilişkinin tâbi olduğu hukuk uygulanırken, sözleşmeyle sıkı ilişkili olduğu takdirde üçüncü bir devletin hukukunun doğrudan uygulanan kurallarına etki tanınabilir. Söz konusu kurallara etki tanımak ve uygulayıp uygulamamak konusunda bu kuralların amacı, niteliği, muhtevası ve sonuçları dikkate alınır.",
+      "preview": "(1) Sözleşmeden doğan ilişkinin tâbi olduğu hukuk uygulanırken, sözleşmeyle sıkı ilişkili olduğu takdirde üçüncü bir devletin hukukunun doğr…",
+      "kitap": null,
+      "kisim": null,
+      "bolum": "İKİNCİ BÖLÜM · Kanunlar İhtilâfı Kuralları",
+      "ayirim": null,
+      "maddeBaslik": "Doğrudan uygulanan kurallar",
+      "sectionPath": [
+        "İKİNCİ BÖLÜM · Kanunlar İhtilâfı Kuralları",
+        "Doğrudan uygulanan kurallar"
+      ]
+    },
+    {
+      "id": "kanun:5718:m:32",
+      "maddeKind": "madde",
+      "maddeNo": "32",
+      "heading": "Madde 32",
+      "text": "(1) Sözleşmeden doğan ilişkinin veya bir hükmünün varlığı ve maddî geçerliliği, sözleşmenin geçerli olması hâlinde hangi hukuk uygulanacaksa o hukuka tâbidir.\n (2) Taraflardan birinin davranışına hüküm tanımanın, uygulanacak hukuka tâbi kılınmasının hakkaniyete uygun olmayacağı hâlin şartlarından anlaşılırsa, irade beyanının varlığına, rızası olmadığını iddia eden tarafın mutad meskeninin bulunduğu ülke hukuku uygulanır.",
+      "preview": "(1) Sözleşmeden doğan ilişkinin veya bir hükmünün varlığı ve maddî geçerliliği, sözleşmenin geçerli olması hâlinde hangi hukuk uygulanacaksa…",
+      "kitap": null,
+      "kisim": null,
+      "bolum": "İKİNCİ BÖLÜM · Kanunlar İhtilâfı Kuralları",
+      "ayirim": null,
+      "maddeBaslik": "Sözleşmeden doğan ilişkinin varlığı ve maddî geçerliliği",
+      "sectionPath": [
+        "İKİNCİ BÖLÜM · Kanunlar İhtilâfı Kuralları",
+        "Sözleşmeden doğan ilişkinin varlığı ve maddî geçerliliği"
+      ]
+    },
+    {
+      "id": "kanun:5718:m:33",
+      "maddeKind": "madde",
+      "maddeNo": "33",
+      "heading": "Madde 33",
+      "text": "(1) İfa sırasında gerçekleştirilen fiil ve işlemler ile malların korunmasına ilişkin tedbirler konusunda bu işlem veya fiillerin yapıldığı veya tedbirin alındığı ülke hukuku dikkate alınır.",
+      "preview": "(1) İfa sırasında gerçekleştirilen fiil ve işlemler ile malların korunmasına ilişkin tedbirler konusunda bu işlem veya fiillerin yapıldığı v…",
+      "kitap": null,
+      "kisim": null,
+      "bolum": "İKİNCİ BÖLÜM · Kanunlar İhtilâfı Kuralları",
+      "ayirim": null,
+      "maddeBaslik": "İfanın gerçekleştirilme biçimi ve tedbirler",
+      "sectionPath": [
+        "İKİNCİ BÖLÜM · Kanunlar İhtilâfı Kuralları",
+        "İfanın gerçekleştirilme biçimi ve tedbirler"
+      ]
+    },
+    {
+      "id": "kanun:5718:m:34",
+      "maddeKind": "madde",
+      "maddeNo": "34",
+      "heading": "Madde 34",
+      "text": "(1) Haksız fiilden doğan borçlar haksız fiilin işlendiği ülke hukukuna tâbidir.\n (2) Haksız fiilin işlendiği yer ile zararın meydana geldiği yerin farklı ülkelerde olması hâlinde, zararın meydana geldiği ülke hukuku uygulanır.\n (3) Haksız fiilden doğan borç ilişkisinin başka bir ülke ile daha sıkı ilişkili olması hâlinde bu ülke hukuku uygulanır.\n (4) Haksız fiile veya sigorta sözleşmesine uygulanan hukuk imkân veriyorsa, zarar gören, talebini doğrudan doğruya sorumlunun sigortacısına karşı ileri sürebilir.\n (5) Taraflar, haksız fiilin meydana gelmesinden sonra uygulanacak hukuku açık olarak seçebilirler.",
+      "preview": "(1) Haksız fiilden doğan borçlar haksız fiilin işlendiği ülke hukukuna tâbidir. (2) Haksız fiilin işlendiği yer ile zararın meydana geldiği…",
+      "kitap": null,
+      "kisim": null,
+      "bolum": "İKİNCİ BÖLÜM · Kanunlar İhtilâfı Kuralları",
+      "ayirim": null,
+      "maddeBaslik": "Haksız fiiller",
+      "sectionPath": [
+        "İKİNCİ BÖLÜM · Kanunlar İhtilâfı Kuralları",
+        "Haksız fiiller"
+      ]
+    },
+    {
+      "id": "kanun:5718:m:35",
+      "maddeKind": "madde",
+      "maddeNo": "35",
+      "heading": "Madde 35",
+      "text": "(1) Kişilik haklarının, basın, radyo, televizyon gibi medya yoluyla, internet veya diğer kitle iletişim araçları ile ihlâlinden doğan taleplere, zarar görenin seçimine göre;\n a) Zarar veren, zararın bu ülkede meydana geleceğini bilecek durumda ise zarar görenin mutad meskeni hukuku,\n b) Zarar verenin işyeri veya mutad meskeninin bulunduğu ülke hukuku veya\n c) Zarar veren, zararın bu ülkede meydana geleceğini bilecek durumda ise zararın meydana geldiği ülke hukuku,\n uygulanır.\n (2) Kişilik haklarının ihlâlinde cevap hakkı, süreli yayınlarda, münhasıran baskının yapıldığı ya da programın yayınlandığı ülke hukukuna tâbidir.\n (3) Maddenin birinci fıkrası, kişisel verilerin işlenmesi veya kişisel veriler hakkında bilgi alma hakkının sınırlandırılması yolu ile kişiliğin ihlâl edilmesinden doğan taleplere de uygulanır.",
+      "preview": "(1) Kişilik haklarının, basın, radyo, televizyon gibi medya yoluyla, internet veya diğer kitle iletişim araçları ile ihlâlinden doğan talepl…",
+      "kitap": null,
+      "kisim": null,
+      "bolum": "İKİNCİ BÖLÜM · Kanunlar İhtilâfı Kuralları",
+      "ayirim": null,
+      "maddeBaslik": "Kişilik haklarının ihlâlinde sorumluluk",
+      "sectionPath": [
+        "İKİNCİ BÖLÜM · Kanunlar İhtilâfı Kuralları",
+        "Kişilik haklarının ihlâlinde sorumluluk"
+      ]
+    },
+    {
+      "id": "kanun:5718:m:36",
+      "maddeKind": "madde",
+      "maddeNo": "36",
+      "heading": "Madde 36",
+      "text": "(1) İmal edilen şeylerin sebep olduğu zarardan doğan sorumluluğa, zarar görenin seçimine göre, zarar verenin mutad meskeni veya işyeri hukuku ya da imal edilen şeyin iktisap edildiği ülke hukuku uygulanır. İktisap yeri hukukunun uygulanabilmesi için zarar verenin, mamulün o ülkeye rızası dışında sokulduğunu ispat edememiş olması gerekir.",
+      "preview": "(1) İmal edilen şeylerin sebep olduğu zarardan doğan sorumluluğa, zarar görenin seçimine göre, zarar verenin mutad meskeni veya işyeri hukuk…",
+      "kitap": null,
+      "kisim": null,
+      "bolum": "İKİNCİ BÖLÜM · Kanunlar İhtilâfı Kuralları",
+      "ayirim": null,
+      "maddeBaslik": "İmalâtçının sözleşme dışı sorumluluğu",
+      "sectionPath": [
+        "İKİNCİ BÖLÜM · Kanunlar İhtilâfı Kuralları",
+        "İmalâtçının sözleşme dışı sorumluluğu"
+      ]
+    },
+    {
+      "id": "kanun:5718:m:37",
+      "maddeKind": "madde",
+      "maddeNo": "37",
+      "heading": "Madde 37",
+      "text": "(1) Haksız rekabetten doğan talepler, haksız rekabet sebebiyle piyasası doğrudan etkilenen ülke hukukuna tâbidir.\n (2) Haksız rekabet sonucunda zarar görenin münhasıran işletmesine ilişkin menfaatleri ihlâl edilmişse, söz konusu işletmenin işyerinin bulunduğu ülke hukuku uygulanır.",
+      "preview": "(1) Haksız rekabetten doğan talepler, haksız rekabet sebebiyle piyasası doğrudan etkilenen ülke hukukuna tâbidir. (2) Haksız rekabet sonucun…",
+      "kitap": null,
+      "kisim": null,
+      "bolum": "İKİNCİ BÖLÜM · Kanunlar İhtilâfı Kuralları",
+      "ayirim": null,
+      "maddeBaslik": "Haksız rekabet",
+      "sectionPath": [
+        "İKİNCİ BÖLÜM · Kanunlar İhtilâfı Kuralları",
+        "Haksız rekabet"
+      ]
+    },
+    {
+      "id": "kanun:5718:m:38",
+      "maddeKind": "madde",
+      "maddeNo": "38",
+      "heading": "Madde 38",
+      "text": "(1) Rekabetin engellenmesinden doğan talepler, bu engellemeden doğrudan etkilenen piyasanın bulunduğu ülkenin hukukuna tâbidir.\n (2) Türkiye’de rekabetin engellenmesine yabancı hukuk uygulanan hâllerde, Türk hukuku uygulansaydı verilecek tazminattan daha fazla tazminata hükmedilemez.",
+      "preview": "(1) Rekabetin engellenmesinden doğan talepler, bu engellemeden doğrudan etkilenen piyasanın bulunduğu ülkenin hukukuna tâbidir. (2) Türkiye’…",
+      "kitap": null,
+      "kisim": null,
+      "bolum": "İKİNCİ BÖLÜM · Kanunlar İhtilâfı Kuralları",
+      "ayirim": null,
+      "maddeBaslik": "Rekabetin engellenmesi",
+      "sectionPath": [
+        "İKİNCİ BÖLÜM · Kanunlar İhtilâfı Kuralları",
+        "Rekabetin engellenmesi"
+      ]
+    },
+    {
+      "id": "kanun:5718:m:39",
+      "maddeKind": "madde",
+      "maddeNo": "39",
+      "heading": "Madde 39",
+      "text": "(1) Sebepsiz zenginleşmeden doğan talepler, zenginleşmeye sebep olan mevcut veya mevcut olduğu iddia edilen hukukî ilişkiye uygulanan hukuka tâbidir. Diğer hâllerde sebepsiz zenginleşmeye, zenginleşmenin gerçekleştiği ülke hukuku uygulanır.\n (2) Taraflar, sebepsiz zenginleşmenin meydana gelmesinden sonra, uygulanacak hukuku açık olarak seçebilirler.",
+      "preview": "(1) Sebepsiz zenginleşmeden doğan talepler, zenginleşmeye sebep olan mevcut veya mevcut olduğu iddia edilen hukukî ilişkiye uygulanan hukuka…",
+      "kitap": null,
+      "kisim": null,
+      "bolum": "İKİNCİ BÖLÜM · Kanunlar İhtilâfı Kuralları",
+      "ayirim": null,
+      "maddeBaslik": "Sebepsiz zenginleşme",
+      "sectionPath": [
+        "İKİNCİ BÖLÜM · Kanunlar İhtilâfı Kuralları",
+        "Sebepsiz zenginleşme"
+      ]
+    },
+    {
+      "id": "kanun:5718:m:40",
+      "maddeKind": "madde",
+      "maddeNo": "40",
+      "heading": "Madde 40",
+      "text": "(1) Türk mahkemelerinin milletlerarası yetkisini, iç hukukun yer itibariyle yetki kuralları tayin eder.",
+      "preview": "(1) Türk mahkemelerinin milletlerarası yetkisini, iç hukukun yer itibariyle yetki kuralları tayin eder.",
+      "kitap": null,
+      "kisim": "İKİNCİ KISIM · Milletlerarası Usul Hukuku",
+      "bolum": "BİRİNCİ BÖLÜM · Türk Mahkemelerinin Milletlerarası Yetkisi",
+      "ayirim": null,
+      "maddeBaslik": "Milletlerarası yetki",
+      "sectionPath": [
+        "İKİNCİ KISIM · Milletlerarası Usul Hukuku",
+        "BİRİNCİ BÖLÜM · Türk Mahkemelerinin Milletlerarası Yetkisi",
+        "Milletlerarası yetki"
+      ]
+    },
+    {
+      "id": "kanun:5718:m:41",
+      "maddeKind": "madde",
+      "maddeNo": "41",
+      "heading": "Madde 41",
+      "text": "(1) Türk vatandaşlarının kişi hâllerine ilişkin davaları, yabancı ülke mahkemelerinde açılmadığı veya açılamadığı takdirde Türkiye’de yer itibariyle yetkili mahkemede, bulunmaması hâlinde ilgilinin sâkin olduğu yer, Türkiye’de sâkin değilse Türkiye’deki son yerleşim yeri mahkemesinde, o da bulunmadığı takdirde Ankara, İstanbul veya İzmir mahkemelerinden birinde görülür.",
+      "preview": "(1) Türk vatandaşlarının kişi hâllerine ilişkin davaları, yabancı ülke mahkemelerinde açılmadığı veya açılamadığı takdirde Türkiye’de yer it…",
+      "kitap": null,
+      "kisim": "İKİNCİ KISIM · Milletlerarası Usul Hukuku",
+      "bolum": "BİRİNCİ BÖLÜM · Türk Mahkemelerinin Milletlerarası Yetkisi",
+      "ayirim": null,
+      "maddeBaslik": "Türklerin kişi hâllerine ilişkin davalar",
+      "sectionPath": [
+        "İKİNCİ KISIM · Milletlerarası Usul Hukuku",
+        "BİRİNCİ BÖLÜM · Türk Mahkemelerinin Milletlerarası Yetkisi",
+        "Türklerin kişi hâllerine ilişkin davalar"
+      ]
+    },
+    {
+      "id": "kanun:5718:m:42",
+      "maddeKind": "madde",
+      "maddeNo": "42",
+      "heading": "Madde 42",
+      "text": "(1) Türkiye'de yerleşim yeri bulunmayan yabancı hakkında vesâyet, kayyımlık, kısıtlılık, gaiplik ve ölmüş sayılma kararları ilgilinin Türkiye'de sâkin olduğu yer, sâkin değilse mallarının bulunduğu yer mahkemesince verilir.",
+      "preview": "(1) Türkiye'de yerleşim yeri bulunmayan yabancı hakkında vesâyet, kayyımlık, kısıtlılık, gaiplik ve ölmüş sayılma kararları ilgilinin Türkiy…",
+      "kitap": null,
+      "kisim": "İKİNCİ KISIM · Milletlerarası Usul Hukuku",
+      "bolum": "BİRİNCİ BÖLÜM · Türk Mahkemelerinin Milletlerarası Yetkisi",
+      "ayirim": null,
+      "maddeBaslik": "Yabancıların kişi hâllerine ilişkin bazı davalar",
+      "sectionPath": [
+        "İKİNCİ KISIM · Milletlerarası Usul Hukuku",
+        "BİRİNCİ BÖLÜM · Türk Mahkemelerinin Milletlerarası Yetkisi",
+        "Yabancıların kişi hâllerine ilişkin bazı davalar"
+      ]
+    },
+    {
+      "id": "kanun:5718:m:43",
+      "maddeKind": "madde",
+      "maddeNo": "43",
+      "heading": "Madde 43",
+      "text": "(1) Mirasa ilişkin davalar ölenin Türkiye'deki son yerleşim yeri mahkemesinde, son yerleşim yerinin Türkiye'de olmaması hâlinde terekeye dâhil malların bulunduğu yer mahkemesinde görülür.",
+      "preview": "(1) Mirasa ilişkin davalar ölenin Türkiye'deki son yerleşim yeri mahkemesinde, son yerleşim yerinin Türkiye'de olmaması hâlinde terekeye dâh…",
+      "kitap": null,
+      "kisim": "İKİNCİ KISIM · Milletlerarası Usul Hukuku",
+      "bolum": "BİRİNCİ BÖLÜM · Türk Mahkemelerinin Milletlerarası Yetkisi",
+      "ayirim": null,
+      "maddeBaslik": "Miras davaları",
+      "sectionPath": [
+        "İKİNCİ KISIM · Milletlerarası Usul Hukuku",
+        "BİRİNCİ BÖLÜM · Türk Mahkemelerinin Milletlerarası Yetkisi",
+        "Miras davaları"
+      ]
+    },
+    {
+      "id": "kanun:5718:m:44",
+      "maddeKind": "madde",
+      "maddeNo": "44",
+      "heading": "Madde 44",
+      "text": "(1) Bireysel iş sözleşmesinden veya iş ilişkisinden doğan uyuşmazlıklarda işçinin işini mutaden yaptığı işyerinin Türkiye’de bulunduğu yer mahkemesi yetkilidir. İşçinin, işverene karşı açtığı davalarda işverenin yerleşim yeri, işçinin yerleşim yeri veya mutad meskeninin bulunduğu Türk mahkemeleri de yetkilidir.",
+      "preview": "(1) Bireysel iş sözleşmesinden veya iş ilişkisinden doğan uyuşmazlıklarda işçinin işini mutaden yaptığı işyerinin Türkiye’de bulunduğu yer m…",
+      "kitap": null,
+      "kisim": "İKİNCİ KISIM · Milletlerarası Usul Hukuku",
+      "bolum": "BİRİNCİ BÖLÜM · Türk Mahkemelerinin Milletlerarası Yetkisi",
+      "ayirim": null,
+      "maddeBaslik": "İş sözleşmesi ve iş ilişkisi davaları",
+      "sectionPath": [
+        "İKİNCİ KISIM · Milletlerarası Usul Hukuku",
+        "BİRİNCİ BÖLÜM · Türk Mahkemelerinin Milletlerarası Yetkisi",
+        "İş sözleşmesi ve iş ilişkisi davaları"
+      ]
+    },
+    {
+      "id": "kanun:5718:m:45",
+      "maddeKind": "madde",
+      "maddeNo": "45",
+      "heading": "Madde 45",
+      "text": "(1) 26 ncı maddede tanımlanan tüketici sözleşmelerinden doğan uyuşmazlıklarda, tüketicinin seçimine göre, tüketicinin yerleşim yeri veya mutad meskeni ya da karşı tarafın işyeri, yerleşim yeri veya mutad meskeninin bulunduğu Türk mahkemeleri yetkilidir.\n (2) Birinci fıkra uyarınca yapılan tüketici sözleşmeleri hakkında tüketiciye karşı açılacak davalarda yetkili mahkeme, tüketicinin Türkiye’deki mutad meskeni mahkemesidir.",
+      "preview": "(1) 26 ncı maddede tanımlanan tüketici sözleşmelerinden doğan uyuşmazlıklarda, tüketicinin seçimine göre, tüketicinin yerleşim yeri veya mut…",
+      "kitap": null,
+      "kisim": "İKİNCİ KISIM · Milletlerarası Usul Hukuku",
+      "bolum": "BİRİNCİ BÖLÜM · Türk Mahkemelerinin Milletlerarası Yetkisi",
+      "ayirim": null,
+      "maddeBaslik": "Tüketici sözleşmesine ilişkin davalar",
+      "sectionPath": [
+        "İKİNCİ KISIM · Milletlerarası Usul Hukuku",
+        "BİRİNCİ BÖLÜM · Türk Mahkemelerinin Milletlerarası Yetkisi",
+        "Tüketici sözleşmesine ilişkin davalar"
+      ]
+    },
+    {
+      "id": "kanun:5718:m:46",
+      "maddeKind": "madde",
+      "maddeNo": "46",
+      "heading": "Madde 46",
+      "text": "(1) Sigorta sözleşmesinden doğan uyuşmazlıklarda, sigortacının esas işyeri veya sigorta sözleşmesini yapan şubesinin ya da acentasının Türkiye’de bulunduğu yer mahkemesi yetkilidir. Ancak sigorta ettirene, sigortalıya veya lehdara karşı açılacak davalarda yetkili mahkeme, onların Türkiye’deki yerleşim yeri veya mutad meskeni mahkemesidir.",
+      "preview": "(1) Sigorta sözleşmesinden doğan uyuşmazlıklarda, sigortacının esas işyeri veya sigorta sözleşmesini yapan şubesinin ya da acentasının Türki…",
+      "kitap": null,
+      "kisim": "İKİNCİ KISIM · Milletlerarası Usul Hukuku",
+      "bolum": "BİRİNCİ BÖLÜM · Türk Mahkemelerinin Milletlerarası Yetkisi",
+      "ayirim": null,
+      "maddeBaslik": "Sigorta sözleşmesine ilişkin davalar",
+      "sectionPath": [
+        "İKİNCİ KISIM · Milletlerarası Usul Hukuku",
+        "BİRİNCİ BÖLÜM · Türk Mahkemelerinin Milletlerarası Yetkisi",
+        "Sigorta sözleşmesine ilişkin davalar"
+      ]
+    },
+    {
+      "id": "kanun:5718:m:47",
+      "maddeKind": "madde",
+      "maddeNo": "47",
+      "heading": "Madde 47",
+      "text": "(1) Yer itibariyle yetkinin münhasır yetki esasına göre tayin edilmediği hâllerde, taraflar, aralarındaki yabancılık unsuru taşıyan ve borç ilişkilerinden doğan uyuşmazlığın yabancı bir devletin mahkemesinde görülmesi konusunda anlaşabilirler. Anlaşma, yazılı delille ispat edilmesi hâlinde geçerli olur. Dava, ancak yabancı mahkemenin kendisini yetkisiz sayması veya Türk mahkemelerinde yetki itirazında bulunulmaması hâlinde yetkili Türk mahkemesinde görülür.\n (2) 44, 45 ve 46 ncı maddelerde belirlenen mahkemelerin yetkisi tarafların anlaşmasıyla bertaraf edilemez.",
+      "preview": "(1) Yer itibariyle yetkinin münhasır yetki esasına göre tayin edilmediği hâllerde, taraflar, aralarındaki yabancılık unsuru taşıyan ve borç…",
+      "kitap": null,
+      "kisim": "İKİNCİ KISIM · Milletlerarası Usul Hukuku",
+      "bolum": "BİRİNCİ BÖLÜM · Türk Mahkemelerinin Milletlerarası Yetkisi",
+      "ayirim": null,
+      "maddeBaslik": "Yetki anlaşması ve sınırları",
+      "sectionPath": [
+        "İKİNCİ KISIM · Milletlerarası Usul Hukuku",
+        "BİRİNCİ BÖLÜM · Türk Mahkemelerinin Milletlerarası Yetkisi",
+        "Yetki anlaşması ve sınırları"
+      ]
+    },
+    {
+      "id": "kanun:5718:m:48",
+      "maddeKind": "madde",
+      "maddeNo": "48",
+      "heading": "Madde 48",
+      "text": "(1) Türk mahkemesinde dava açan, davaya katılan veya icra takibinde bulunan yabancı gerçek ve tüzel kişiler, yargılama ve takip giderleriyle karşı tarafın zarar ve ziyanını karşılamak üzere mahkemenin belirleyeceği teminatı göstermek zorundadır.\n (2) Mahkeme, dava açanı, davaya katılanı veya icra takibi yapanı karşılıklılık esasına göre teminattan muaf tutar.",
+      "preview": "(1) Türk mahkemesinde dava açan, davaya katılan veya icra takibinde bulunan yabancı gerçek ve tüzel kişiler, yargılama ve takip giderleriyle…",
+      "kitap": null,
+      "kisim": "İKİNCİ KISIM · Milletlerarası Usul Hukuku",
+      "bolum": "BİRİNCİ BÖLÜM · Türk Mahkemelerinin Milletlerarası Yetkisi",
+      "ayirim": null,
+      "maddeBaslik": "Teminat",
+      "sectionPath": [
+        "İKİNCİ KISIM · Milletlerarası Usul Hukuku",
+        "BİRİNCİ BÖLÜM · Türk Mahkemelerinin Milletlerarası Yetkisi",
+        "Teminat"
+      ]
+    },
+    {
+      "id": "kanun:5718:m:49",
+      "maddeKind": "madde",
+      "maddeNo": "49",
+      "heading": "Madde 49",
+      "text": "(1) Yabancı devlete, özel hukuk ilişkilerinden doğan hukukî uyuşmazlıklarda yargı muafiyeti tanınmaz.\n (2) Bu gibi uyuşmazlıklarda yabancı devletin diplomatik temsilcilerine tebligat yapılabilir.",
+      "preview": "(1) Yabancı devlete, özel hukuk ilişkilerinden doğan hukukî uyuşmazlıklarda yargı muafiyeti tanınmaz. (2) Bu gibi uyuşmazlıklarda yabancı de…",
+      "kitap": null,
+      "kisim": "İKİNCİ KISIM · Milletlerarası Usul Hukuku",
+      "bolum": "BİRİNCİ BÖLÜM · Türk Mahkemelerinin Milletlerarası Yetkisi",
+      "ayirim": null,
+      "maddeBaslik": "Yabancı devletin yargı muafiyetinden yararlanamayacağı hâller",
+      "sectionPath": [
+        "İKİNCİ KISIM · Milletlerarası Usul Hukuku",
+        "BİRİNCİ BÖLÜM · Türk Mahkemelerinin Milletlerarası Yetkisi",
+        "Yabancı devletin yargı muafiyetinden yararlanamayacağı hâller"
+      ]
+    },
+    {
+      "id": "kanun:5718:m:50",
+      "maddeKind": "madde",
+      "maddeNo": "50",
+      "heading": "Madde 50",
+      "text": "(1) Yabancı mahkemelerden hukuk davalarına ilişkin olarak verilmiş ve o devlet kanunlarına göre kesinleşmiş bulunan ilâmların Türkiye'de icra olunabilmesi yetkili Türk mahkemesi tarafından tenfiz kararı verilmesine bağlıdır.\n (2) Yabancı mahkemelerin ceza ilâmlarında yer alan kişisel haklarla ilgili hükümler hakkında da tenfiz kararı istenebilir.",
+      "preview": "(1) Yabancı mahkemelerden hukuk davalarına ilişkin olarak verilmiş ve o devlet kanunlarına göre kesinleşmiş bulunan ilâmların Türkiye'de icr…",
+      "kitap": null,
+      "kisim": "İKİNCİ KISIM · Milletlerarası Usul Hukuku",
+      "bolum": "İKİNCİ BÖLÜM · Yabancı Mahkeme ve Hakem Kararlarının Tenfizi ve Tanınması",
+      "ayirim": null,
+      "maddeBaslik": "Tenfiz kararı",
+      "sectionPath": [
+        "İKİNCİ KISIM · Milletlerarası Usul Hukuku",
+        "İKİNCİ BÖLÜM · Yabancı Mahkeme ve Hakem Kararlarının Tenfizi ve Tanınması",
+        "Tenfiz kararı"
+      ]
+    },
+    {
+      "id": "kanun:5718:m:51",
+      "maddeKind": "madde",
+      "maddeNo": "51",
+      "heading": "Madde 51",
+      "text": "(1) Tenfiz kararları hakkında görevli mahkeme asliye mahkemesidir.\n (2) Bu kararlar kendisine karşı tenfiz istenen kişinin Türkiye'deki yerleşim yeri, yoksa sâkin olduğu yer mahkemesinden, Türkiye'de yerleşim yeri veya sâkin olduğu bir yer mevcut değilse Ankara, İstanbul veya İzmir mahkemelerinden birinden istenebilir.",
+      "preview": "(1) Tenfiz kararları hakkında görevli mahkeme asliye mahkemesidir. (2) Bu kararlar kendisine karşı tenfiz istenen kişinin Türkiye'deki yerle…",
+      "kitap": null,
+      "kisim": "İKİNCİ KISIM · Milletlerarası Usul Hukuku",
+      "bolum": "İKİNCİ BÖLÜM · Yabancı Mahkeme ve Hakem Kararlarının Tenfizi ve Tanınması",
+      "ayirim": null,
+      "maddeBaslik": "Görev ve yetki",
+      "sectionPath": [
+        "İKİNCİ KISIM · Milletlerarası Usul Hukuku",
+        "İKİNCİ BÖLÜM · Yabancı Mahkeme ve Hakem Kararlarının Tenfizi ve Tanınması",
+        "Görev ve yetki"
+      ]
+    },
+    {
+      "id": "kanun:5718:m:52",
+      "maddeKind": "madde",
+      "maddeNo": "52",
+      "heading": "Madde 52",
+      "text": "(1) Kararın tenfiz edilmesinde hukukî yararı bulunan herkes tenfiz isteminde bulunabilir. Tenfiz istemi dilekçe ile olur. Dilekçeye karşı tarafın sayısı kadar örnek eklenir. Dilekçede aşağıdaki hususlar yer alır:\n a) Tenfiz isteyenle, karşı tarafın ve varsa kanunî temsilci ve vekillerinin ad, soyad ve adresleri.\n b) Tenfiz konusu hükmün hangi devlet mahkemesinden verilmiş olduğu ve mahkemenin adı ile ilâmın tarih ve numarası ve hükmün özeti.\n c) Tenfiz, hükmün bir kısmı hakkında isteniyorsa bunun hangi kısım olduğu.",
+      "preview": "(1) Kararın tenfiz edilmesinde hukukî yararı bulunan herkes tenfiz isteminde bulunabilir. Tenfiz istemi dilekçe ile olur. Dilekçeye karşı ta…",
+      "kitap": null,
+      "kisim": "İKİNCİ KISIM · Milletlerarası Usul Hukuku",
+      "bolum": "İKİNCİ BÖLÜM · Yabancı Mahkeme ve Hakem Kararlarının Tenfizi ve Tanınması",
+      "ayirim": null,
+      "maddeBaslik": "Tenfiz istemi",
+      "sectionPath": [
+        "İKİNCİ KISIM · Milletlerarası Usul Hukuku",
+        "İKİNCİ BÖLÜM · Yabancı Mahkeme ve Hakem Kararlarının Tenfizi ve Tanınması",
+        "Tenfiz istemi"
+      ]
+    },
+    {
+      "id": "kanun:5718:m:53",
+      "maddeKind": "madde",
+      "maddeNo": "53",
+      "heading": "Madde 53",
+      "text": "(1) Tenfiz dilekçesine aşağıdaki belgeler eklenir:\n a) Yabancı mahkeme ilâmının o ülke makamlarınca usulen onanmış aslı veya ilâmı veren yargı organı tarafından onanmış örneği ve onanmış tercümesi.\n b) İlâmın kesinleştiğini gösteren ve o ülke makamlarınca usulen onanmış yazı veya belge ile onanmış tercümesi.",
+      "preview": "(1) Tenfiz dilekçesine aşağıdaki belgeler eklenir: a) Yabancı mahkeme ilâmının o ülke makamlarınca usulen onanmış aslı veya ilâmı veren yarg…",
+      "kitap": null,
+      "kisim": "İKİNCİ KISIM · Milletlerarası Usul Hukuku",
+      "bolum": "İKİNCİ BÖLÜM · Yabancı Mahkeme ve Hakem Kararlarının Tenfizi ve Tanınması",
+      "ayirim": null,
+      "maddeBaslik": "Dilekçeye eklenecek belgeler",
+      "sectionPath": [
+        "İKİNCİ KISIM · Milletlerarası Usul Hukuku",
+        "İKİNCİ BÖLÜM · Yabancı Mahkeme ve Hakem Kararlarının Tenfizi ve Tanınması",
+        "Dilekçeye eklenecek belgeler"
+      ]
+    },
+    {
+      "id": "kanun:5718:m:54",
+      "maddeKind": "madde",
+      "maddeNo": "54",
+      "heading": "Madde 54",
+      "text": "(1) Yetkili mahkeme tenfiz kararını aşağıdaki şartlar dâhilinde verir:\n a) Türkiye Cumhuriyeti ile ilâmın verildiği devlet arasında karşılıklılık esasına dayanan bir anlaşma yahut o devlette Türk mahkemelerinden verilmiş ilâmların tenfizini mümkün kılan bir kanun hükmünün veya fiilî uygulamanın bulunması.\n b) İlâmın, Türk mahkemelerinin münhasır yetkisine girmeyen bir konuda verilmiş olması veya davalının itiraz etmesi şartıyla ilâmın, dava konusu veya taraflarla gerçek bir ilişkisi bulunmadığı hâlde kendisine yetki tanıyan bir devlet mahkemesince verilmiş olmaması.\n c) Hükmün kamu düzenine açıkça aykırı bulunmaması.\n ç) O yer kanunları uyarınca, kendisine karşı tenfiz istenen kişinin hükmü veren mahkemeye usulüne uygun bir şekilde çağrılmamış veya o mahkemede temsil edilmemiş yahut bu kanunlara aykırı bir şekilde gıyabında veya yokluğunda hüküm verilmiş ve bu kişinin yukarıdaki hususlardan birine dayanarak tenfiz istemine karşı Türk mahkemesine itiraz etmemiş olması.",
+      "preview": "(1) Yetkili mahkeme tenfiz kararını aşağıdaki şartlar dâhilinde verir: a) Türkiye Cumhuriyeti ile ilâmın verildiği devlet arasında karşılıkl…",
+      "kitap": null,
+      "kisim": "İKİNCİ KISIM · Milletlerarası Usul Hukuku",
+      "bolum": "İKİNCİ BÖLÜM · Yabancı Mahkeme ve Hakem Kararlarının Tenfizi ve Tanınması",
+      "ayirim": null,
+      "maddeBaslik": "Tenfiz şartları",
+      "sectionPath": [
+        "İKİNCİ KISIM · Milletlerarası Usul Hukuku",
+        "İKİNCİ BÖLÜM · Yabancı Mahkeme ve Hakem Kararlarının Tenfizi ve Tanınması",
+        "Tenfiz şartları"
+      ]
+    },
+    {
+      "id": "kanun:5718:m:55",
+      "maddeKind": "madde",
+      "maddeNo": "55",
+      "heading": "Madde 55",
+      "text": "(1) Tenfiz istemine ilişkin dilekçe, duruşma günü ile birlikte karşı tarafa tebliğ edilir. İhtilâfsız kaza kararlarının tanınması ve tenfizi de aynı hükme tâbidir. Hasımsız ihtilâfsız kaza kararlarında tebliğ hükmü uygulanmaz. İstem, basit yargılama usulü hükümlerine göre incelenerek karara bağlanır.\n (2) Karşı taraf ancak bu bölüm hükümlerine göre tenfiz şartlarının bulunmadığını veya yabancı mahkeme ilâmının kısmen veya tamamen yerine getirilmiş yahut yerine getirilmesine engel bir sebep ortaya çıkmış olduğunu öne sürerek itiraz edebilir.",
+      "preview": "(1) Tenfiz istemine ilişkin dilekçe, duruşma günü ile birlikte karşı tarafa tebliğ edilir. İhtilâfsız kaza kararlarının tanınması ve tenfizi…",
+      "kitap": null,
+      "kisim": "İKİNCİ KISIM · Milletlerarası Usul Hukuku",
+      "bolum": "İKİNCİ BÖLÜM · Yabancı Mahkeme ve Hakem Kararlarının Tenfizi ve Tanınması",
+      "ayirim": null,
+      "maddeBaslik": "Tebliğ ve itiraz",
+      "sectionPath": [
+        "İKİNCİ KISIM · Milletlerarası Usul Hukuku",
+        "İKİNCİ BÖLÜM · Yabancı Mahkeme ve Hakem Kararlarının Tenfizi ve Tanınması",
+        "Tebliğ ve itiraz"
+      ]
+    },
+    {
+      "id": "kanun:5718:m:56",
+      "maddeKind": "madde",
+      "maddeNo": "56",
+      "heading": "Madde 56",
+      "text": "(1) Mahkemece ilâmın kısmen veya tamamen tenfizine veya istemin reddine karar verilebilir. Bu karar yabancı mahkeme ilâmının altına yazılır ve hâkim tarafından mühürlenip imzalanır.",
+      "preview": "(1) Mahkemece ilâmın kısmen veya tamamen tenfizine veya istemin reddine karar verilebilir. Bu karar yabancı mahkeme ilâmının altına yazılır…",
+      "kitap": null,
+      "kisim": "İKİNCİ KISIM · Milletlerarası Usul Hukuku",
+      "bolum": "İKİNCİ BÖLÜM · Yabancı Mahkeme ve Hakem Kararlarının Tenfizi ve Tanınması",
+      "ayirim": null,
+      "maddeBaslik": "Karar",
+      "sectionPath": [
+        "İKİNCİ KISIM · Milletlerarası Usul Hukuku",
+        "İKİNCİ BÖLÜM · Yabancı Mahkeme ve Hakem Kararlarının Tenfizi ve Tanınması",
+        "Karar"
+      ]
+    },
+    {
+      "id": "kanun:5718:m:57",
+      "maddeKind": "madde",
+      "maddeNo": "57",
+      "heading": "Madde 57",
+      "text": "(1) Tenfizine karar verilen yabancı ilâmlar Türk mahkemelerinden verilmiş ilâmlar gibi icra olunur.\n (2) Tenfiz isteminin kabul veya reddi hususunda verilen kararların temyizi genel hükümlere tâbidir. Temyiz, yerine getirmeyi durdurur.",
+      "preview": "(1) Tenfizine karar verilen yabancı ilâmlar Türk mahkemelerinden verilmiş ilâmlar gibi icra olunur. (2) Tenfiz isteminin kabul veya reddi hu…",
+      "kitap": null,
+      "kisim": "İKİNCİ KISIM · Milletlerarası Usul Hukuku",
+      "bolum": "İKİNCİ BÖLÜM · Yabancı Mahkeme ve Hakem Kararlarının Tenfizi ve Tanınması",
+      "ayirim": null,
+      "maddeBaslik": "Yerine getirme ve temyiz yolu",
+      "sectionPath": [
+        "İKİNCİ KISIM · Milletlerarası Usul Hukuku",
+        "İKİNCİ BÖLÜM · Yabancı Mahkeme ve Hakem Kararlarının Tenfizi ve Tanınması",
+        "Yerine getirme ve temyiz yolu"
+      ]
+    },
+    {
+      "id": "kanun:5718:m:58",
+      "maddeKind": "madde",
+      "maddeNo": "58",
+      "heading": "Madde 58",
+      "text": "(1) Yabancı mahkeme ilâmının kesin delil veya kesin hüküm olarak kabul edilebilmesi yabancı ilâmın tenfiz şartlarını taşıdığının mahkemece tespitine bağlıdır. Tanımada 54 üncü maddenin birinci fıkrasının (a) bendi uygulanmaz.\n (2) İhtilâfsız kaza kararlarının tanınması da aynı hükme tâbidir.\n (3) Yabancı mahkeme ilâmına dayanılarak Türkiye'de idarî bir işlemin yapılmasında da aynı usul uygulanır.",
+      "preview": "(1) Yabancı mahkeme ilâmının kesin delil veya kesin hüküm olarak kabul edilebilmesi yabancı ilâmın tenfiz şartlarını taşıdığının mahkemece t…",
+      "kitap": null,
+      "kisim": "İKİNCİ KISIM · Milletlerarası Usul Hukuku",
+      "bolum": "İKİNCİ BÖLÜM · Yabancı Mahkeme ve Hakem Kararlarının Tenfizi ve Tanınması",
+      "ayirim": null,
+      "maddeBaslik": "Tanıma",
+      "sectionPath": [
+        "İKİNCİ KISIM · Milletlerarası Usul Hukuku",
+        "İKİNCİ BÖLÜM · Yabancı Mahkeme ve Hakem Kararlarının Tenfizi ve Tanınması",
+        "Tanıma"
+      ]
+    },
+    {
+      "id": "kanun:5718:m:59",
+      "maddeKind": "madde",
+      "maddeNo": "59",
+      "heading": "Madde 59",
+      "text": "(1) Yabancı ilâmın kesin hüküm veya kesin delil etkisi yabancı mahkeme kararının kesinleştiği andan itibaren hüküm ifade eder.",
+      "preview": "(1) Yabancı ilâmın kesin hüküm veya kesin delil etkisi yabancı mahkeme kararının kesinleştiği andan itibaren hüküm ifade eder.",
+      "kitap": null,
+      "kisim": "İKİNCİ KISIM · Milletlerarası Usul Hukuku",
+      "bolum": "İKİNCİ BÖLÜM · Yabancı Mahkeme ve Hakem Kararlarının Tenfizi ve Tanınması",
+      "ayirim": null,
+      "maddeBaslik": "Kesin hüküm ve kesin delil etkisi",
+      "sectionPath": [
+        "İKİNCİ KISIM · Milletlerarası Usul Hukuku",
+        "İKİNCİ BÖLÜM · Yabancı Mahkeme ve Hakem Kararlarının Tenfizi ve Tanınması",
+        "Kesin hüküm ve kesin delil etkisi"
+      ]
+    },
+    {
+      "id": "kanun:5718:m:60",
+      "maddeKind": "madde",
+      "maddeNo": "60",
+      "heading": "Madde 60",
+      "text": "(1) Kesinleşmiş ve icra kabiliyeti kazanmış veya taraflar için bağlayıcı olan yabancı hakem kararları tenfiz edilebilir.\n (2) Yabancı hakem kararlarının tenfizi, tarafların yazılı olarak kararlaştırdıkları yer asliye mahkemesinden dilekçeyle istenir. Taraflar arasında böyle bir anlaşma olmadığı takdirde, aleyhine karar verilen tarafın Türkiye'deki yerleşim yeri, yoksa sâkin olduğu, bu da yoksa icraya konu teşkil edebilecek malların bulunduğu yer mahkemesi yetkili sayılır.",
+      "preview": "(1) Kesinleşmiş ve icra kabiliyeti kazanmış veya taraflar için bağlayıcı olan yabancı hakem kararları tenfiz edilebilir. (2) Yabancı hakem k…",
+      "kitap": null,
+      "kisim": "İKİNCİ KISIM · Milletlerarası Usul Hukuku",
+      "bolum": "İKİNCİ BÖLÜM · Yabancı Mahkeme ve Hakem Kararlarının Tenfizi ve Tanınması",
+      "ayirim": null,
+      "maddeBaslik": "Yabancı hakem kararlarının tenfizi",
+      "sectionPath": [
+        "İKİNCİ KISIM · Milletlerarası Usul Hukuku",
+        "İKİNCİ BÖLÜM · Yabancı Mahkeme ve Hakem Kararlarının Tenfizi ve Tanınması",
+        "Yabancı hakem kararlarının tenfizi"
+      ]
+    },
+    {
+      "id": "kanun:5718:m:61",
+      "maddeKind": "madde",
+      "maddeNo": "61",
+      "heading": "Madde 61",
+      "text": "(1) Yabancı bir hakem kararının tenfizini isteyen taraf, dilekçesine aşağıda yazılı belgeleri, karşı tarafın sayısı kadar örnekleriyle birlikte ekler:\n a) Tahkim sözleşmesi veya şartının, aslı yahut usulüne göre onanmış örneği.\n b) Hakem kararının usulen kesinleşmiş ve icra kabiliyeti kazanmış veya taraflar için bağlayıcılık kazanmış aslı veya usulüne göre onanmış örneği.\n c) (a) ve (b) bentlerinde sayılan belgelerin tercüme edilmiş ve usulen onanmış örnekleri.\n (2) Mahkemece hakem kararlarının tenfizinde 55 inci, 56 ncı ve 57 nci madde hükümleri kıyas yoluyla uygulanır.",
+      "preview": "(1) Yabancı bir hakem kararının tenfizini isteyen taraf, dilekçesine aşağıda yazılı belgeleri, karşı tarafın sayısı kadar örnekleriyle birli…",
+      "kitap": null,
+      "kisim": "İKİNCİ KISIM · Milletlerarası Usul Hukuku",
+      "bolum": "İKİNCİ BÖLÜM · Yabancı Mahkeme ve Hakem Kararlarının Tenfizi ve Tanınması",
+      "ayirim": null,
+      "maddeBaslik": "Dilekçe ve inceleme usulü",
+      "sectionPath": [
+        "İKİNCİ KISIM · Milletlerarası Usul Hukuku",
+        "İKİNCİ BÖLÜM · Yabancı Mahkeme ve Hakem Kararlarının Tenfizi ve Tanınması",
+        "Dilekçe ve inceleme usulü"
+      ]
+    },
+    {
+      "id": "kanun:5718:m:62",
+      "maddeKind": "madde",
+      "maddeNo": "62",
+      "heading": "Madde 62",
+      "text": "(1) Mahkeme,\n a) Tahkim sözleşmesi yapılmamış veya esas sözleşmeye tahkim şartı konulmamış ise,\n b) Hakem kararı genel ahlâka veya kamu düzenine aykırı ise,\n c) Hakem kararına konu olan uyuşmazlığın Türk kanunlarına göre tahkim yoluyla çözümü mümkün değilse,\n ç) Taraflardan biri hakemler önünde usulüne göre temsil edilmemiş ve yapılan işlemleri sonradan açıkça kabul etmemiş ise,\n d) Hakkında hakem kararının tenfizi istenen taraf, hakem seçiminden usulen haberdar edilmemiş yahut iddia ve savunma imkânından yoksun bırakılmış ise,\n e) Tahkim sözleşmesi veya şartı taraflarca tâbi kılındığı kanuna, bu konuda bir anlaşma yoksa hakem hükmünün verildiği ülke hukukuna göre hükümsüz ise,\n f) Hakemlerin seçimi veya hakemlerin uyguladıkları usul, tarafların anlaşmasına, böyle bir anlaşma yok ise hakem hükmünün verildiği ülke hukukuna aykırı ise,\n g) Hakem kararı, hakem sözleşmesinde veya şartında yer almayan bir hususa ilişkin ise veya sözleşme veya şartın sınırlarını aşıyor ise bu kısım hakkında,\n h) Hakem kararı tâbi olduğu veya verildiği ülke hukuku hükümlerine veya tâbi olduğu usule göre kesinleşmemiş yahut icra kabiliyeti veya bağlayıcılık kazanmamış veya verildiği yerin yetkili mercii tarafından iptal edilmiş ise,\n yabancı hakem kararının tenfizi istemini reddeder.\n (2) Birinci fıkranın (ç), (d), (e), (f), (g) ve (h) bentlerinde yazılı hususların ispat yükü, hakkında tenfiz istenen tarafa aittir.",
+      "preview": "(1) Mahkeme, a) Tahkim sözleşmesi yapılmamış veya esas sözleşmeye tahkim şartı konulmamış ise, b) Hakem kararı genel ahlâka veya kamu düzeni…",
+      "kitap": null,
+      "kisim": "İKİNCİ KISIM · Milletlerarası Usul Hukuku",
+      "bolum": "İKİNCİ BÖLÜM · Yabancı Mahkeme ve Hakem Kararlarının Tenfizi ve Tanınması",
+      "ayirim": null,
+      "maddeBaslik": "Ret sebepleri",
+      "sectionPath": [
+        "İKİNCİ KISIM · Milletlerarası Usul Hukuku",
+        "İKİNCİ BÖLÜM · Yabancı Mahkeme ve Hakem Kararlarının Tenfizi ve Tanınması",
+        "Ret sebepleri"
+      ]
+    },
+    {
+      "id": "kanun:5718:m:63",
+      "maddeKind": "madde",
+      "maddeNo": "63",
+      "heading": "Madde 63",
+      "text": "(1) Yabancı hakem kararlarının tanınması da tenfizine ilişkin hükümlere tâbidir.",
+      "preview": "(1) Yabancı hakem kararlarının tanınması da tenfizine ilişkin hükümlere tâbidir.",
+      "kitap": null,
+      "kisim": "İKİNCİ KISIM · Milletlerarası Usul Hukuku",
+      "bolum": "İKİNCİ BÖLÜM · Yabancı Mahkeme ve Hakem Kararlarının Tenfizi ve Tanınması",
+      "ayirim": null,
+      "maddeBaslik": "Yabancı hakem kararlarının tanınması",
+      "sectionPath": [
+        "İKİNCİ KISIM · Milletlerarası Usul Hukuku",
+        "İKİNCİ BÖLÜM · Yabancı Mahkeme ve Hakem Kararlarının Tenfizi ve Tanınması",
+        "Yabancı hakem kararlarının tanınması"
+      ]
+    },
+    {
+      "id": "kanun:5718:m:64",
+      "maddeKind": "madde",
+      "maddeNo": "64",
+      "heading": "Madde 64",
+      "text": "(1) 20/5/1982 tarihli ve 2675 sayılı Milletlerarası Özel Hukuk ve Usul Hukuku Hakkında Kanun,\n (2) 29/6/1956 tarihli ve 6762 sayılı Türk Ticaret Kanununun 866 ncı maddesinin ikinci fıkrası,\n (3) 5/12/1951 tarihli ve 5846 sayılı Fikir ve Sanat Eserleri Kanununun 88 inci maddesi,\n yürürlükten kaldırılmıştır.",
+      "preview": "(1) 20/5/1982 tarihli ve 2675 sayılı Milletlerarası Özel Hukuk ve Usul Hukuku Hakkında Kanun, (2) 29/6/1956 tarihli ve 6762 sayılı Türk Tica…",
+      "kitap": null,
+      "kisim": "ÜÇÜNCÜ KISIM · Son Hükümler",
+      "bolum": null,
+      "ayirim": null,
+      "maddeBaslik": "Yürürlükten kaldırılan hükümler",
+      "sectionPath": [
+        "ÜÇÜNCÜ KISIM · Son Hükümler",
+        "Yürürlükten kaldırılan hükümler"
+      ]
+    },
+    {
+      "id": "kanun:5718:m:65",
+      "maddeKind": "madde",
+      "maddeNo": "65",
+      "heading": "Madde 65",
+      "text": "(1) Bu Kanun yayımı tarihinde yürürlüğe girer.",
+      "preview": "(1) Bu Kanun yayımı tarihinde yürürlüğe girer.",
+      "kitap": null,
+      "kisim": "ÜÇÜNCÜ KISIM · Son Hükümler",
+      "bolum": null,
+      "ayirim": null,
+      "maddeBaslik": "Yürürlük",
+      "sectionPath": [
+        "ÜÇÜNCÜ KISIM · Son Hükümler",
+        "Yürürlük"
+      ]
+    },
+    {
+      "id": "kanun:5718:m:66",
+      "maddeKind": "madde",
+      "maddeNo": "66",
+      "heading": "Madde 66",
+      "text": "(1) Bu Kanun hükümlerini Bakanlar Kurulu yürütür.\n\n 5718 SAYILI KANUNA EK VE DEĞİŞİKLİK GETİREN MEVZUATIN VEYA\n ANAYASA MAHKEMESİ TARAFINDAN VERİLEN İPTAL KAREARLARININ\n YÜRÜRLÜĞE GİRİŞ TARİHLERİNİ GÖSTERİR LİSTE\n\n Değiştiren Kanunun/ KHK’nin veya İptal Eden Anayasa Mahkemesi Kararının Numarası\n 5718 Sayılı Kanunun Değişen veya İptal Edilen Maddeleri\n Yürürlüğe Giriş Tarihi\n\n 7550\n 27\n 4/6/2025",
+      "preview": "(1) Bu Kanun hükümlerini Bakanlar Kurulu yürütür. 5718 SAYILI KANUNA EK VE DEĞİŞİKLİK GETİREN MEVZUATIN VEYA ANAYASA MAHKEMESİ TARAFINDAN VE…",
+      "kitap": null,
+      "kisim": "ÜÇÜNCÜ KISIM · Son Hükümler",
+      "bolum": null,
+      "ayirim": null,
+      "maddeBaslik": "Yürütme",
+      "sectionPath": [
+        "ÜÇÜNCÜ KISIM · Son Hükümler",
+        "Yürütme"
+      ]
+    }
+  ]
+}

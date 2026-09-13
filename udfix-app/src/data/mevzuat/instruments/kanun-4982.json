@@ -1,0 +1,574 @@
+{
+  "id": "kanun:4982",
+  "kind": "kanun",
+  "no": "4982",
+  "title": "Bilgi Edinme Hakkı Kanunu",
+  "shortName": "Bilgi Edinme Hakkı Kanunu",
+  "aliases": [
+    "Bilgi Edinme Hakkı Kanunu",
+    "4982"
+  ],
+  "tur": 1,
+  "tertip": 5,
+  "sourceUrl": "https://www.mevzuat.gov.tr/mevzuat?MevzuatNo=4982&MevzuatTur=1&MevzuatTertip=5",
+  "kabulTarihi": "9/10/2003",
+  "maddeCount": 33,
+  "maddeler": [
+    {
+      "id": "kanun:4982:m:1",
+      "maddeKind": "madde",
+      "maddeNo": "1",
+      "heading": "Madde 1",
+      "text": "Bu Kanunun amacı; demokratik ve şeffaf yönetimin gereği olan eşitlik, tarafsızlık ve açıklık ilkelerine uygun olarak kişilerin bilgi edinme hakkını kullanmalarına ilişkin esas ve usulleri düzenlemektir.",
+      "preview": "Bu Kanunun amacı; demokratik ve şeffaf yönetimin gereği olan eşitlik, tarafsızlık ve açıklık ilkelerine uygun olarak kişilerin bilgi edinme…",
+      "kitap": null,
+      "kisim": null,
+      "bolum": null,
+      "ayirim": null,
+      "maddeBaslik": null,
+      "sectionPath": []
+    },
+    {
+      "id": "kanun:4982:m:2",
+      "maddeKind": "madde",
+      "maddeNo": "2",
+      "heading": "Madde 2",
+      "text": "Bu Kanun; kamu kurum ve kuruluşları ile kamu kurumu niteliğindeki meslek kuruluşlarının faaliyetlerinde uygulanır.\n 1.11.1984 tarihli ve 3071 sayılı Dilekçe Hakkının Kullanılmasına Dair Kanun hükümleri saklıdır.\n (Ek fıkra: 12/7/2013-6495/33 md.; İptal fıkra: Anayasa Mahkemesi’nin 4/12/2014 tarihli ve E.:2013/114, K.:2014/184 sayılı Kararı ile.)",
+      "preview": "Bu Kanun; kamu kurum ve kuruluşları ile kamu kurumu niteliğindeki meslek kuruluşlarının faaliyetlerinde uygulanır. 1.11.1984 tarihli ve 3071…",
+      "kitap": null,
+      "kisim": null,
+      "bolum": null,
+      "ayirim": null,
+      "maddeBaslik": "Kapsam",
+      "sectionPath": [
+        "Kapsam"
+      ]
+    },
+    {
+      "id": "kanun:4982:m:3",
+      "maddeKind": "madde",
+      "maddeNo": "3",
+      "heading": "Madde 3",
+      "text": "Bu Kanunda geçen;\n a) Kurum ve kuruluş: Bu Kanunun 2 nci maddesinde geçen ve kapsama dahil olan bilgi edinme başvurusu yapılacak bütün makam ve mercileri,\n b) Başvuru sahibi: Bu Kanun kapsamında bilgi edinme hakkını kullanarak kurum ve kuruluşlara başvuran gerçek ve tüzel kişileri,\n c) Bilgi: Kurum ve kuruluşların sahip oldukları kayıtlarda yer alan bu Kanun kapsamındaki her türlü veriyi,\n d) Belge: Kurum ve kuruluşların sahip oldukları bu Kanun kapsamındaki yazılı, basılı veya çoğaltılmış dosya, evrak, kitap, dergi, broşür, etüt, mektup, program, talimat, kroki, plân, film, fotoğraf, teyp ve video kaseti, harita, elektronik ortamda kaydedilen her türlü bilgi, haber ve veri taşıyıcılarını,\n e) Bilgi veya belgeye erişim: İstenen bilgi veya belgenin niteliğine göre, kurum ve kuruluşlarca, başvuru sahibine söz konusu bilgi veya belgenin bir kopyasının verilmesini, kopya verilmesinin mümkün olmadığı hâllerde, başvuru sahibinin bilgi veya belgenin aslını inceleyerek not almasına veya içeriğini görmesine veya işitmesine izin verilmesini,\n f) Kurul: Bilgi Edinme Değerlendirme Kurulunu,\n ifade eder.",
+      "preview": "Bu Kanunda geçen; a) Kurum ve kuruluş: Bu Kanunun 2 nci maddesinde geçen ve kapsama dahil olan bilgi edinme başvurusu yapılacak bütün makam…",
+      "kitap": null,
+      "kisim": null,
+      "bolum": null,
+      "ayirim": null,
+      "maddeBaslik": "Tanımlar",
+      "sectionPath": [
+        "Tanımlar"
+      ]
+    },
+    {
+      "id": "kanun:4982:m:4",
+      "maddeKind": "madde",
+      "maddeNo": "4",
+      "heading": "Madde 4",
+      "text": "Herkes bilgi edinme hakkına sahiptir.\n Türkiye'de ikamet eden yabancılar ile Türkiye'de faaliyette bulunan yabancı tüzel kişiler, isteyecekleri bilgi kendileriyle veya faaliyet alanlarıyla ilgili olmak kaydıyla ve karşılıklılık ilkesi çerçevesinde, bu Kanun hükümlerinden yararlanırlar.\n Türkiye'nin taraf olduğu uluslararası sözleşmelerden doğan hak ve yükümlülükleri saklıdır.",
+      "preview": "Herkes bilgi edinme hakkına sahiptir. Türkiye'de ikamet eden yabancılar ile Türkiye'de faaliyette bulunan yabancı tüzel kişiler, isteyecekle…",
+      "kitap": null,
+      "kisim": null,
+      "bolum": "İKİNCİ BÖLÜM · Bilgi Edinme Hakkı ve Bilgi Verme Yükümlülüğü",
+      "ayirim": null,
+      "maddeBaslik": "Bilgi edinme hakkı",
+      "sectionPath": [
+        "İKİNCİ BÖLÜM · Bilgi Edinme Hakkı ve Bilgi Verme Yükümlülüğü",
+        "Bilgi edinme hakkı"
+      ]
+    },
+    {
+      "id": "kanun:4982:m:5",
+      "maddeKind": "madde",
+      "maddeNo": "5",
+      "heading": "Madde 5",
+      "text": "Kurum ve kuruluşlar, bu Kanunda yer alan istisnalar dışındaki her türlü bilgi veya belgeyi başvuranların yararlanmasına sunmak ve bilgi edinme başvurularını etkin, süratli ve doğru sonuçlandırmak üzere, gerekli idarî ve teknik tedbirleri almakla yükümlüdürler.\n Bu Kanun yürürlüğe girdiği tarihten itibaren diğer kanunların bu Kanuna aykırı hükümleri uygulanmaz.",
+      "preview": "Kurum ve kuruluşlar, bu Kanunda yer alan istisnalar dışındaki her türlü bilgi veya belgeyi başvuranların yararlanmasına sunmak ve bilgi edin…",
+      "kitap": null,
+      "kisim": null,
+      "bolum": "İKİNCİ BÖLÜM · Bilgi Edinme Hakkı ve Bilgi Verme Yükümlülüğü",
+      "ayirim": null,
+      "maddeBaslik": "Bilgi verme yükümlülüğü",
+      "sectionPath": [
+        "İKİNCİ BÖLÜM · Bilgi Edinme Hakkı ve Bilgi Verme Yükümlülüğü",
+        "Bilgi verme yükümlülüğü"
+      ]
+    },
+    {
+      "id": "kanun:4982:m:6",
+      "maddeKind": "madde",
+      "maddeNo": "6",
+      "heading": "Madde 6",
+      "text": "Bilgi edinme başvurusu, başvuru sahibinin adı ve soyadı, imzası, oturma yeri veya iş adresini, başvuru sahibi tüzel kişi ise tüzel kişinin unvanı ve adresi ile yetkili kişinin imzasını ve yetki belgesini içeren dilekçe ile istenen bilgi veya belgenin bulunduğu kurum veya kuruluşa yapılır. Bu başvuru, kişinin kimliğinin ve imzasının veya yazının kimden neşet ettiğinin tespitine yarayacak başka bilgilerin yasal olarak belirlenebilir olması kaydıyla elektronik ortamda veya diğer iletişim araçlarıyla da yapılabilir.\n Dilekçede, istenen bilgi veya belgeler açıkça belirtilir.",
+      "preview": "Bilgi edinme başvurusu, başvuru sahibinin adı ve soyadı, imzası, oturma yeri veya iş adresini, başvuru sahibi tüzel kişi ise tüzel kişinin u…",
+      "kitap": null,
+      "kisim": null,
+      "bolum": "ÜÇÜNCÜ BÖLÜM · Bilgi Edinme Başvurusu",
+      "ayirim": null,
+      "maddeBaslik": "Başvuru usulü",
+      "sectionPath": [
+        "ÜÇÜNCÜ BÖLÜM · Bilgi Edinme Başvurusu",
+        "Başvuru usulü"
+      ]
+    },
+    {
+      "id": "kanun:4982:m:7",
+      "maddeKind": "madde",
+      "maddeNo": "7",
+      "heading": "Madde 7",
+      "text": "Bilgi edinme başvurusu, başvurulan kurum ve kuruluşların ellerinde bulunan veya görevleri gereği bulunması gereken bilgi veya belgelere ilişkin olmalıdır.\n Kurum ve kuruluşlar, ayrı veya özel bir çalışma, araştırma, inceleme ya da analiz neticesinde oluşturulabilecek türden bir bilgi veya belge için yapılacak başvurulara olumsuz cevap verebilirler.\n İstenen bilgi veya belge, başvurulan kurum ve kuruluştan başka bir yerde bulunuyorsa, başvuru dilekçesi bu kurum ve kuruluşa gönderilir ve durum ilgiliye yazılı olarak bildirilir.",
+      "preview": "Bilgi edinme başvurusu, başvurulan kurum ve kuruluşların ellerinde bulunan veya görevleri gereği bulunması gereken bilgi veya belgelere iliş…",
+      "kitap": null,
+      "kisim": null,
+      "bolum": "ÜÇÜNCÜ BÖLÜM · Bilgi Edinme Başvurusu",
+      "ayirim": null,
+      "maddeBaslik": "İstenecek bilgi veya belgenin niteliği",
+      "sectionPath": [
+        "ÜÇÜNCÜ BÖLÜM · Bilgi Edinme Başvurusu",
+        "İstenecek bilgi veya belgenin niteliği"
+      ]
+    },
+    {
+      "id": "kanun:4982:m:8",
+      "maddeKind": "madde",
+      "maddeNo": "8",
+      "heading": "Madde 8",
+      "text": "Kurum ve kuruluşlarca yayımlanmış veya yayın, broşür, ilân ve benzeri yollarla kamuya açıklanmış bilgi veya belgeler, bilgi edinme başvurularına konu olamaz. Ancak, yayımlanmış veya kamuya açıklanmış bilgi veya belgelerin ne şekilde, ne zaman ve nerede yayımlandığı veya açıklandığı başvurana bildirilir.",
+      "preview": "Kurum ve kuruluşlarca yayımlanmış veya yayın, broşür, ilân ve benzeri yollarla kamuya açıklanmış bilgi veya belgeler, bilgi edinme başvurula…",
+      "kitap": null,
+      "kisim": null,
+      "bolum": "ÜÇÜNCÜ BÖLÜM · Bilgi Edinme Başvurusu",
+      "ayirim": null,
+      "maddeBaslik": "Yayımlanmış veya kamuya açıklanmış bilgi veya belgeler",
+      "sectionPath": [
+        "ÜÇÜNCÜ BÖLÜM · Bilgi Edinme Başvurusu",
+        "Yayımlanmış veya kamuya açıklanmış bilgi veya belgeler"
+      ]
+    },
+    {
+      "id": "kanun:4982:m:9",
+      "maddeKind": "madde",
+      "maddeNo": "9",
+      "heading": "Madde 9",
+      "text": "İstenen bilgi veya belgelerde, gizlilik dereceli veya açıklanması yasaklanan bilgiler ile açıklanabilir nitelikte olanlar birlikte bulunuyor ve bunlar birbirlerinden ayrılabiliyorsa, söz konusu bilgi veya belge, gizlilik dereceli veya açıklanması yasaklanan bilgiler çıkarıldıktan sonra başvuranın bilgisine sunulur. Ayırma gerekçesi başvurana yazılı olarak bildirilir.",
+      "preview": "İstenen bilgi veya belgelerde, gizlilik dereceli veya açıklanması yasaklanan bilgiler ile açıklanabilir nitelikte olanlar birlikte bulunuyor…",
+      "kitap": null,
+      "kisim": null,
+      "bolum": "ÜÇÜNCÜ BÖLÜM · Bilgi Edinme Başvurusu",
+      "ayirim": null,
+      "maddeBaslik": "Gizli bilgileri ayırarak bilgi veya belge verme",
+      "sectionPath": [
+        "ÜÇÜNCÜ BÖLÜM · Bilgi Edinme Başvurusu",
+        "Gizli bilgileri ayırarak bilgi veya belge verme"
+      ]
+    },
+    {
+      "id": "kanun:4982:m:10",
+      "maddeKind": "madde",
+      "maddeNo": "10",
+      "heading": "Madde 10",
+      "text": "Kurum ve kuruluşlar, başvuru sahibine istenen belgenin onaylı bir kopyasını verirler.\n Bilgi veya belgenin niteliği gereği kopyasının verilmesinin mümkün olmadığı veya kopya çıkarılmasının aslına zarar vereceği hâllerde, kurum ve kuruluşlar ilgilinin;\n a) Yazılı veya basılı belgeler için, söz konusu belgenin aslını incelemesi ve not alabilmesini,\n b) Ses kaydı şeklindeki bilgi veya belgelerde bunları dinleyebilmesini,\n c) Görüntü kaydı şeklindeki bilgi veya belgelerde bunları izleyebilmesini,\n sağlarlar.\n Bilgi veya belgenin yukarıda belirtilenlerden farklı bir şekilde elde edilmesi mümkün ise, belgeye zarar vermemek koşuluyla bu olanak sağlanır.\n Başvurunun yapıldığı kurum ve kuruluş, erişimine olanak sağladığı bilgi veya belgeler için başvuru sahibinden erişimin gerektirdiği maliyet tutarı kadar bir ücreti bütçeye gelir kaydedilmek üzere tahsil edebilir.",
+      "preview": "Kurum ve kuruluşlar, başvuru sahibine istenen belgenin onaylı bir kopyasını verirler. Bilgi veya belgenin niteliği gereği kopyasının verilme…",
+      "kitap": null,
+      "kisim": null,
+      "bolum": "ÜÇÜNCÜ BÖLÜM · Bilgi Edinme Başvurusu",
+      "ayirim": null,
+      "maddeBaslik": "Bilgi veya belgeye erişim",
+      "sectionPath": [
+        "ÜÇÜNCÜ BÖLÜM · Bilgi Edinme Başvurusu",
+        "Bilgi veya belgeye erişim"
+      ]
+    },
+    {
+      "id": "kanun:4982:m:11",
+      "maddeKind": "madde",
+      "maddeNo": "11",
+      "heading": "Madde 11",
+      "text": "Kurum ve kuruluşlar, başvuru üzerine istenen bilgi veya belgeye erişimi onbeş iş günü içinde sağlarlar. Ancak istenen bilgi veya belgenin, başvurulan kurum ve kuruluş içindeki başka bir birimden sağlanması; başvuru ile ilgili olarak bir başka kurum ve kuruluşun görüşünün alınmasının gerekmesi veya başvuru içeriğinin birden fazla kurum ve kuruluşu ilgilendirmesi durumlarında bilgi veya belgeye erişim otuz iş günü içinde sağlanır. Bu durumda, sürenin uzatılması ve bunun gerekçesi başvuru sahibine yazılı olarak ve onbeş iş günlük sürenin bitiminden önce bildirilir.\n 10 uncu maddede belirtilen bilgi veya belgelere erişim için gereken maliyet tutarının idare tarafından başvuru sahibine bildirilmesiyle onbeş iş günlük süre kesilir. Başvuru sahibi onbeş iş günü içinde ücreti ödemezse talebinden vazgeçmiş sayılır.",
+      "preview": "Kurum ve kuruluşlar, başvuru üzerine istenen bilgi veya belgeye erişimi onbeş iş günü içinde sağlarlar. Ancak istenen bilgi veya belgenin, b…",
+      "kitap": null,
+      "kisim": null,
+      "bolum": "ÜÇÜNCÜ BÖLÜM · Bilgi Edinme Başvurusu",
+      "ayirim": null,
+      "maddeBaslik": "Bilgi veya belgeye erişim süreleri",
+      "sectionPath": [
+        "ÜÇÜNCÜ BÖLÜM · Bilgi Edinme Başvurusu",
+        "Bilgi veya belgeye erişim süreleri"
+      ]
+    },
+    {
+      "id": "kanun:4982:m:12",
+      "maddeKind": "madde",
+      "maddeNo": "12",
+      "heading": "Madde 12",
+      "text": "Kurum ve kuruluşlar, bilgi edinme başvurularıyla ilgili cevaplarını yazılı olarak veya elektronik ortamda başvuru sahibine bildirirler. Başvurunun reddedilmesi hâlinde bu kararın gerekçesi ve buna karşı başvuru yolları belirtilir.",
+      "preview": "Kurum ve kuruluşlar, bilgi edinme başvurularıyla ilgili cevaplarını yazılı olarak veya elektronik ortamda başvuru sahibine bildirirler. Başv…",
+      "kitap": null,
+      "kisim": null,
+      "bolum": "ÜÇÜNCÜ BÖLÜM · Bilgi Edinme Başvurusu",
+      "ayirim": null,
+      "maddeBaslik": "Başvuruların cevaplandırılması",
+      "sectionPath": [
+        "ÜÇÜNCÜ BÖLÜM · Bilgi Edinme Başvurusu",
+        "Başvuruların cevaplandırılması"
+      ]
+    },
+    {
+      "id": "kanun:4982:m:13",
+      "maddeKind": "madde",
+      "maddeNo": "13",
+      "heading": "Madde 13",
+      "text": "Bilgi edinme istemi (…)[1] reddedilen başvuru sahibi, yargı yoluna başvurmadan önce kararın tebliğinden itibaren onbeş gün içinde Kurula itiraz edebilir. Kurul, bu konudaki kararını otuz iş günü içinde verir. Kurum ve kuruluşlar, Kurulun istediği her türlü bilgi veya belgeyi onbeş iş günü içinde vermekle yükümlüdürler.\n Kurula itiraz, başvuru sahibinin idarî yargıya başvurma süresini durdurur.",
+      "preview": "Bilgi edinme istemi (…)[1] reddedilen başvuru sahibi, yargı yoluna başvurmadan önce kararın tebliğinden itibaren onbeş gün içinde Kurula iti…",
+      "kitap": null,
+      "kisim": null,
+      "bolum": "ÜÇÜNCÜ BÖLÜM · Bilgi Edinme Başvurusu",
+      "ayirim": null,
+      "maddeBaslik": "İtiraz usulü",
+      "sectionPath": [
+        "ÜÇÜNCÜ BÖLÜM · Bilgi Edinme Başvurusu",
+        "İtiraz usulü"
+      ]
+    },
+    {
+      "id": "kanun:4982:m:14",
+      "maddeKind": "madde",
+      "maddeNo": "14",
+      "heading": "Madde 14",
+      "text": "Bilgi edinme başvurusuyla ilgili yapılacak itirazlar üzerine, (…)3 verilen kararları incelemek ve kurum ve kuruluşlar için bilgi edinme hakkının kullanılmasına ilişkin olarak kararlar vermek üzere; Bilgi Edinme Değerlendirme Kurulu oluşturulmuştur.\n Kurul; birer üyesi Yargıtay ve Danıştay genel kurullarının kendi kurumları içinden önerecekleri ikişer aday, birer üyesi ceza hukuku, idare hukuku ve anayasa hukuku alanlarında profesör veya doçent unvanına sahip kişiler, bir üyesi Türkiye Barolar Birliğinin baro başkanı seçilme yeterliliğine sahip kişiler içinden göstereceği iki aday, iki üyesi en az genel müdür düzeyinde görev yapmakta olanlar ve bir üyesi de Adalet Bakanının önerisi üzerine bu Bakanlıkta idarî görevlerde çalışan hâkimler arasından Cumhurbaşkanınca seçilecek dokuz üyeden oluşur.\n Kurul üyeliğine önerilen adayların muvafakatları aranır.\n Kurul Başkanı, kurul üyelerince kendi aralarından seçilir.\n Kurul, en az ayda bir defa veya ihtiyaç duyulduğu her zaman Başkanın çağrısı üzerine toplanır.\n Kurul üyelerinin görev süreleri dört yıldır. Görev süresi sona erenler yeniden seçilebilirler. Görev süresi dolmadan görevinden ayrılan üyenin yerine aynı usule göre seçilen üye, yerine seçildiği üyenin görev süresini tamamlar. Yeni seçilen Kurul göreve başlayıncaya kadar önceki Kurul görevine devam eder.\n Kurul üyelerine 10.2.1954 tarihli ve 6245 sayılı Harcırah Kanunu hükümleri saklı kalmak kaydıyla fiilen görev yaptıkları her gün için (3000) gösterge rakamının memur aylık katsayısı ile çarpımı sonucu bulunacak miktarda huzur hakkı ödenir. Bu ödemelerde damga vergisi hariç herhangi bir kesinti yapılmaz. (Ek cümle: 17/11/2005-5432/2 md.) Bir ayda fiilen görev yapılan gün sayısının dördü aşması halinde, aşan günler için huzur hakkı ödenmez.\n Kurul, belirleyeceği konularda komisyonlar ve çalışma grupları kurabilir; ayrıca gerekli gördüğü takdirde, ilgili bakanlık ile diğer kurum ve kuruluşların ve sivil toplum örgütlerinin temsilcilerini bilgi almak üzere toplantılarına katılmaya davet edebilir.\n Kurulun sekretarya hizmetleri Adalet Bakanlığı tarafından yerine getirilir.\n Kurulun görev ve çalışmalarına ilişkin esas ve usuller Cumhurbaşkanlığınca hazırlanarak yürürlüğe konulacak bir yönetmelikle düzenlenir.",
+      "preview": "Bilgi edinme başvurusuyla ilgili yapılacak itirazlar üzerine, (…)3 verilen kararları incelemek ve kurum ve kuruluşlar için bilgi edinme hakk…",
+      "kitap": null,
+      "kisim": null,
+      "bolum": "ÜÇÜNCÜ BÖLÜM · Bilgi Edinme Başvurusu",
+      "ayirim": null,
+      "maddeBaslik": "Bilgi Edinme Değerlendirme Kurulu[2][3]",
+      "sectionPath": [
+        "ÜÇÜNCÜ BÖLÜM · Bilgi Edinme Başvurusu",
+        "Bilgi Edinme Değerlendirme Kurulu[2][3]"
+      ]
+    },
+    {
+      "id": "kanun:4982:m:15",
+      "maddeKind": "madde",
+      "maddeNo": "15",
+      "heading": "Madde 15",
+      "text": "Yargı denetimi dışında kalan idarî işlemlerden kişinin çalışma hayatını ve mesleki onurunu etkileyecek nitelikte olanlar, bu Kanun kapsamına dahildir. Bu şekilde sağlanan bilgi edinme hakkı işlemin yargı denetimine açılması sonucunu doğurmaz.",
+      "preview": "Yargı denetimi dışında kalan idarî işlemlerden kişinin çalışma hayatını ve mesleki onurunu etkileyecek nitelikte olanlar, bu Kanun kapsamına…",
+      "kitap": null,
+      "kisim": null,
+      "bolum": "DÖRDÜNCÜ BÖLÜM · Bilgi Edinme Hakkının Sınırları",
+      "ayirim": null,
+      "maddeBaslik": "Yargı denetimi dışında kalan işlemler",
+      "sectionPath": [
+        "DÖRDÜNCÜ BÖLÜM · Bilgi Edinme Hakkının Sınırları",
+        "Yargı denetimi dışında kalan işlemler"
+      ]
+    },
+    {
+      "id": "kanun:4982:m:16",
+      "maddeKind": "madde",
+      "maddeNo": "16",
+      "heading": "Madde 16",
+      "text": "Açıklanması hâlinde Devletin emniyetine, dış ilişkilerine, millî savunmasına ve millî güvenliğine açıkça zarar verecek ve niteliği itibarıyla Devlet sırrı olan gizlilik dereceli bilgi veya belgeler, bilgi edinme hakkı kapsamı dışındadır.",
+      "preview": "Açıklanması hâlinde Devletin emniyetine, dış ilişkilerine, millî savunmasına ve millî güvenliğine açıkça zarar verecek ve niteliği itibarıyl…",
+      "kitap": null,
+      "kisim": null,
+      "bolum": "DÖRDÜNCÜ BÖLÜM · Bilgi Edinme Hakkının Sınırları",
+      "ayirim": null,
+      "maddeBaslik": "Devlet sırrına ilişkin bilgi veya belgeler",
+      "sectionPath": [
+        "DÖRDÜNCÜ BÖLÜM · Bilgi Edinme Hakkının Sınırları",
+        "Devlet sırrına ilişkin bilgi veya belgeler"
+      ]
+    },
+    {
+      "id": "kanun:4982:m:17",
+      "maddeKind": "madde",
+      "maddeNo": "17",
+      "heading": "Madde 17",
+      "text": "Açıklanması ya da zamanından önce açıklanması hâlinde, ülkenin ekonomik çıkarlarına zarar verecek veya haksız rekabet ve kazanca sebep olacak bilgi veya belgeler, bu Kanun kapsamı dışındadır.",
+      "preview": "Açıklanması ya da zamanından önce açıklanması hâlinde, ülkenin ekonomik çıkarlarına zarar verecek veya haksız rekabet ve kazanca sebep olaca…",
+      "kitap": null,
+      "kisim": null,
+      "bolum": "DÖRDÜNCÜ BÖLÜM · Bilgi Edinme Hakkının Sınırları",
+      "ayirim": null,
+      "maddeBaslik": "Ülkenin ekonomik çıkarlarına ilişkin bilgi veya belgeler",
+      "sectionPath": [
+        "DÖRDÜNCÜ BÖLÜM · Bilgi Edinme Hakkının Sınırları",
+        "Ülkenin ekonomik çıkarlarına ilişkin bilgi veya belgeler"
+      ]
+    },
+    {
+      "id": "kanun:4982:m:18",
+      "maddeKind": "madde",
+      "maddeNo": "18",
+      "heading": "Madde 18",
+      "text": "Sivil ve askerî istihbarat birimlerinin görev ve faaliyetlerine ilişkin bilgi veya belgeler, bu Kanun kapsamı dışındadır.\n Ancak, bu bilgi ve belgeler kişilerin çalışma hayatını ve meslek onurunu etkileyecek nitelikte ise, istihbarata ilişkin bilgi ve belgeler bilgi edinme hakkı kapsamı içindedir.",
+      "preview": "Sivil ve askerî istihbarat birimlerinin görev ve faaliyetlerine ilişkin bilgi veya belgeler, bu Kanun kapsamı dışındadır. Ancak, bu bilgi ve…",
+      "kitap": null,
+      "kisim": null,
+      "bolum": "DÖRDÜNCÜ BÖLÜM · Bilgi Edinme Hakkının Sınırları",
+      "ayirim": null,
+      "maddeBaslik": "İstihbarata ilişkin bilgi veya belgeler",
+      "sectionPath": [
+        "DÖRDÜNCÜ BÖLÜM · Bilgi Edinme Hakkının Sınırları",
+        "İstihbarata ilişkin bilgi veya belgeler"
+      ]
+    },
+    {
+      "id": "kanun:4982:m:19",
+      "maddeKind": "madde",
+      "maddeNo": "19",
+      "heading": "Madde 19",
+      "text": "Kurum ve kuruluşların yetkili birimlerince yürütülen idarî soruşturmalarla ilgili olup, açıklanması veya zamanından önce açıklanması hâlinde;\n a) Kişilerin özel hayatına açıkça haksız müdahale sonucunu doğuracak,\n b) Kişilerin veya soruşturmayı yürüten görevlilerin hayatını ya da güvenliğini tehlikeye sokacak,\n c) Soruşturmanın güvenliğini tehlikeye düşürecek,\n d) Gizli kalması gereken bilgi kaynağının açığa çıkmasına neden olacak veya soruşturma ile ilgili benzeri bilgi ve bilgi kaynaklarının temin edilmesini güçleştirecek,\n bilgi veya belgeler, bu Kanun kapsamı dışındadır.",
+      "preview": "Kurum ve kuruluşların yetkili birimlerince yürütülen idarî soruşturmalarla ilgili olup, açıklanması veya zamanından önce açıklanması hâlinde…",
+      "kitap": null,
+      "kisim": null,
+      "bolum": "DÖRDÜNCÜ BÖLÜM · Bilgi Edinme Hakkının Sınırları",
+      "ayirim": null,
+      "maddeBaslik": "İdarî soruşturmaya ilişkin bilgi veya belgeler",
+      "sectionPath": [
+        "DÖRDÜNCÜ BÖLÜM · Bilgi Edinme Hakkının Sınırları",
+        "İdarî soruşturmaya ilişkin bilgi veya belgeler"
+      ]
+    },
+    {
+      "id": "kanun:4982:m:20",
+      "maddeKind": "madde",
+      "maddeNo": "20",
+      "heading": "Madde 20",
+      "text": "Açıklanması veya zamanından önce açıklanması hâlinde;\n a) Suç işlenmesine yol açacak,\n b) Suçların önlenmesi ve soruşturulması ya da suçluların kanunî yollarla yakalanıp kovuşturulmasını tehlikeye düşürecek,\n c) Yargılama görevinin gereğince yerine getirilmesini engelleyecek,\n d) Hakkında dava açılmış bir kişinin adil yargılanma hakkını ihlâl edecek,\n Nitelikteki bilgi veya belgeler, bu Kanun kapsamı dışındadır.\n 4.4.1929 tarihli ve 1412 sayılı Ceza Muhakemeleri Usulü Kanunu, 18.6.1927 tarihli ve 1086 sayılı Hukuk Usulü Muhakemeleri Kanunu, 6.1.1982 tarihli ve 2577 sayılı İdari Yargılama Usulü Kanunu ve diğer özel kanun hükümleri saklıdır.",
+      "preview": "Açıklanması veya zamanından önce açıklanması hâlinde; a) Suç işlenmesine yol açacak, b) Suçların önlenmesi ve soruşturulması ya da suçluları…",
+      "kitap": null,
+      "kisim": null,
+      "bolum": "DÖRDÜNCÜ BÖLÜM · Bilgi Edinme Hakkının Sınırları",
+      "ayirim": null,
+      "maddeBaslik": "Adlî soruşturma ve kovuşturmaya ilişkin bilgi veya belgeler",
+      "sectionPath": [
+        "DÖRDÜNCÜ BÖLÜM · Bilgi Edinme Hakkının Sınırları",
+        "Adlî soruşturma ve kovuşturmaya ilişkin bilgi veya belgeler"
+      ]
+    },
+    {
+      "id": "kanun:4982:m:21",
+      "maddeKind": "madde",
+      "maddeNo": "21",
+      "heading": "Madde 21",
+      "text": "Kişinin izin verdiği hâller saklı kalmak üzere, özel hayatın gizliliği kapsamında, açıklanması hâlinde kişinin sağlık bilgileri ile özel ve aile hayatına, şeref ve haysiyetine, meslekî ve ekonomik değerlerine haksız müdahale oluşturacak bilgi veya belgeler, bilgi edinme hakkı kapsamı dışındadır.\n Kamu yararının gerektirdiği hâllerde, kişisel bilgi veya belgeler, kurum ve kuruluşlar tarafından, ilgili kişiye en az yedi gün önceden haber verilerek yazılı rızası alınmak koşuluyla açıklanabilir.",
+      "preview": "Kişinin izin verdiği hâller saklı kalmak üzere, özel hayatın gizliliği kapsamında, açıklanması hâlinde kişinin sağlık bilgileri ile özel ve…",
+      "kitap": null,
+      "kisim": null,
+      "bolum": "DÖRDÜNCÜ BÖLÜM · Bilgi Edinme Hakkının Sınırları",
+      "ayirim": null,
+      "maddeBaslik": "Özel hayatın gizliliği",
+      "sectionPath": [
+        "DÖRDÜNCÜ BÖLÜM · Bilgi Edinme Hakkının Sınırları",
+        "Özel hayatın gizliliği"
+      ]
+    },
+    {
+      "id": "kanun:4982:m:22",
+      "maddeKind": "madde",
+      "maddeNo": "22",
+      "heading": "Madde 22",
+      "text": "Haberleşmenin gizliliği esasını ihlâl edecek bilgi veya belgeler, bu Kanun kapsamı dışındadır.",
+      "preview": "Haberleşmenin gizliliği esasını ihlâl edecek bilgi veya belgeler, bu Kanun kapsamı dışındadır.",
+      "kitap": null,
+      "kisim": null,
+      "bolum": "DÖRDÜNCÜ BÖLÜM · Bilgi Edinme Hakkının Sınırları",
+      "ayirim": null,
+      "maddeBaslik": "Haberleşmenin gizliliği",
+      "sectionPath": [
+        "DÖRDÜNCÜ BÖLÜM · Bilgi Edinme Hakkının Sınırları",
+        "Haberleşmenin gizliliği"
+      ]
+    },
+    {
+      "id": "kanun:4982:m:23",
+      "maddeKind": "madde",
+      "maddeNo": "23",
+      "heading": "Madde 23",
+      "text": "Kanunlarda ticarî sır olarak nitelenen bilgi veya belgeler ile, kurum ve kuruluşlar tarafından gerçek veya tüzel kişilerden gizli kalması kaydıyla sağlanan ticarî ve malî bilgiler, bu Kanun kapsamı dışındadır.",
+      "preview": "Kanunlarda ticarî sır olarak nitelenen bilgi veya belgeler ile, kurum ve kuruluşlar tarafından gerçek veya tüzel kişilerden gizli kalması ka…",
+      "kitap": null,
+      "kisim": null,
+      "bolum": "DÖRDÜNCÜ BÖLÜM · Bilgi Edinme Hakkının Sınırları",
+      "ayirim": null,
+      "maddeBaslik": "Ticarî sır",
+      "sectionPath": [
+        "DÖRDÜNCÜ BÖLÜM · Bilgi Edinme Hakkının Sınırları",
+        "Ticarî sır"
+      ]
+    },
+    {
+      "id": "kanun:4982:m:24",
+      "maddeKind": "madde",
+      "maddeNo": "24",
+      "heading": "Madde 24",
+      "text": "Fikir ve sanat eserlerine ilişkin olarak yapılacak bilgi edinme başvuruları hakkında ilgili kanun hükümleri uygulanır.",
+      "preview": "Fikir ve sanat eserlerine ilişkin olarak yapılacak bilgi edinme başvuruları hakkında ilgili kanun hükümleri uygulanır.",
+      "kitap": null,
+      "kisim": null,
+      "bolum": "DÖRDÜNCÜ BÖLÜM · Bilgi Edinme Hakkının Sınırları",
+      "ayirim": null,
+      "maddeBaslik": "Fikir ve sanat eserleri",
+      "sectionPath": [
+        "DÖRDÜNCÜ BÖLÜM · Bilgi Edinme Hakkının Sınırları",
+        "Fikir ve sanat eserleri"
+      ]
+    },
+    {
+      "id": "kanun:4982:m:25",
+      "maddeKind": "madde",
+      "maddeNo": "25",
+      "heading": "Madde 25",
+      "text": "Kurum ve kuruluşların, kamuoyunu ilgilendirmeyen ve sadece kendi personeli ile kurum içi uygulamalarına ilişkin düzenlemeler hakkındaki bilgi veya belgeler, bilgi edinme hakkının kapsamı dışındadır. Ancak, söz konusu düzenlemeden etkilenen kurum çalışanlarının bilgi edinme hakları saklıdır.",
+      "preview": "Kurum ve kuruluşların, kamuoyunu ilgilendirmeyen ve sadece kendi personeli ile kurum içi uygulamalarına ilişkin düzenlemeler hakkındaki bilg…",
+      "kitap": null,
+      "kisim": null,
+      "bolum": "DÖRDÜNCÜ BÖLÜM · Bilgi Edinme Hakkının Sınırları",
+      "ayirim": null,
+      "maddeBaslik": "Kurum içi düzenlemeler",
+      "sectionPath": [
+        "DÖRDÜNCÜ BÖLÜM · Bilgi Edinme Hakkının Sınırları",
+        "Kurum içi düzenlemeler"
+      ]
+    },
+    {
+      "id": "kanun:4982:m:26",
+      "maddeKind": "madde",
+      "maddeNo": "26",
+      "heading": "Madde 26",
+      "text": "Kurum ve kuruluşların faaliyetlerini yürütmek üzere, elde ettikleri görüş, bilgi notu, teklif ve tavsiye niteliğindeki bilgi veya belgeler, kurum ve kuruluş tarafından aksi kararlaştırılmadıkça bilgi edinme hakkı kapsamındadır.\n Bilimsel, kültürel, istatistik, teknik, tıbbî, malî, hukukî ve benzeri uzmanlık alanlarında yasal olarak görüş verme yükümlülüğü bulunan kişi, birim ya da kurumların görüşleri, kurum ve kuruluşların alacakları kararlara esas teşkil etmesi kaydıyla bilgi edinme istemlerine açıktır.",
+      "preview": "Kurum ve kuruluşların faaliyetlerini yürütmek üzere, elde ettikleri görüş, bilgi notu, teklif ve tavsiye niteliğindeki bilgi veya belgeler,…",
+      "kitap": null,
+      "kisim": null,
+      "bolum": "DÖRDÜNCÜ BÖLÜM · Bilgi Edinme Hakkının Sınırları",
+      "ayirim": null,
+      "maddeBaslik": "Kurum içi görüş, bilgi notu ve tavsiyeler",
+      "sectionPath": [
+        "DÖRDÜNCÜ BÖLÜM · Bilgi Edinme Hakkının Sınırları",
+        "Kurum içi görüş, bilgi notu ve tavsiyeler"
+      ]
+    },
+    {
+      "id": "kanun:4982:m:27",
+      "maddeKind": "madde",
+      "maddeNo": "27",
+      "heading": "Madde 27",
+      "text": "Tavsiye ve mütalaa talepleri bu Kanun kapsamı dışındadır.",
+      "preview": "Tavsiye ve mütalaa talepleri bu Kanun kapsamı dışındadır.",
+      "kitap": null,
+      "kisim": null,
+      "bolum": "DÖRDÜNCÜ BÖLÜM · Bilgi Edinme Hakkının Sınırları",
+      "ayirim": null,
+      "maddeBaslik": "Tavsiye ve mütalaa talepleri",
+      "sectionPath": [
+        "DÖRDÜNCÜ BÖLÜM · Bilgi Edinme Hakkının Sınırları",
+        "Tavsiye ve mütalaa talepleri"
+      ]
+    },
+    {
+      "id": "kanun:4982:m:28",
+      "maddeKind": "madde",
+      "maddeNo": "28",
+      "heading": "Madde 28",
+      "text": "Gizliliği kaldırılmış olan bilgi veya belgeler, bu Kanunda belirtilen diğer istisnalar kapsamına girmiyor ise, bilgi edinme başvurularına açık hâle gelir.",
+      "preview": "Gizliliği kaldırılmış olan bilgi veya belgeler, bu Kanunda belirtilen diğer istisnalar kapsamına girmiyor ise, bilgi edinme başvurularına aç…",
+      "kitap": null,
+      "kisim": null,
+      "bolum": "DÖRDÜNCÜ BÖLÜM · Bilgi Edinme Hakkının Sınırları",
+      "ayirim": null,
+      "maddeBaslik": "Gizliliği kaldırılan bilgi veya belgeler",
+      "sectionPath": [
+        "DÖRDÜNCÜ BÖLÜM · Bilgi Edinme Hakkının Sınırları",
+        "Gizliliği kaldırılan bilgi veya belgeler"
+      ]
+    },
+    {
+      "id": "kanun:4982:m:29",
+      "maddeKind": "madde",
+      "maddeNo": "29",
+      "heading": "Madde 29",
+      "text": "Bu Kanunun uygulanmasında ihmâli, kusuru veya kastı bulunan memurlar ve diğer kamu görevlileri hakkında, işledikleri fiillerin genel hükümler çerçevesinde ceza kovuşturması gerektirmesi hususu saklı kalmak kaydıyla, tâbi oldukları mevzuatta yer alan disiplin cezaları uygulanır.\n Bu Kanunla erişilen bilgi ve belgeler ticarî amaçla çoğaltılamaz ve kullanılamaz.",
+      "preview": "Bu Kanunun uygulanmasında ihmâli, kusuru veya kastı bulunan memurlar ve diğer kamu görevlileri hakkında, işledikleri fiillerin genel hükümle…",
+      "kitap": null,
+      "kisim": null,
+      "bolum": "BEŞİNCİ BÖLÜM · Çeşitli ve Son Hükümler",
+      "ayirim": null,
+      "maddeBaslik": "Ceza hükümleri",
+      "sectionPath": [
+        "BEŞİNCİ BÖLÜM · Çeşitli ve Son Hükümler",
+        "Ceza hükümleri"
+      ]
+    },
+    {
+      "id": "kanun:4982:m:30",
+      "maddeKind": "madde",
+      "maddeNo": "30",
+      "heading": "Madde 30",
+      "text": "Kurum ve kuruluşlar, bir önceki yıla ait olmak üzere;\n a) Kendilerine yapılan bilgi edinme başvurularının sayısını,\n b) Olumlu cevaplanarak bilgi veya belgelere erişim sağlanan başvuru sayısını,\n c) Reddedilen başvuru sayısı ve bunların dağılımını gösterir istatistik bilgileri,\n d) Gizli ya da sır niteliğindeki bilgiler çıkarılarak ya da bu nitelikteki bilgiler ayrılarak bilgi veya belgelere erişim sağlanan başvuru sayısını,\n e) Başvurunun reddedilmesi üzerine itiraz edilen başvuru sayısı ile bunların sonuçlarını,\n Gösterir bir rapor hazırlayarak, bu raporları her yıl Şubat ayının sonuna kadar Bilgi Edinme Değerlendirme Kuruluna gönderirler. Bağlı, ilgili ve ilişkili kamu kurum ve kuruluşları raporlarını bağlı, ilgili ya da ilişkili oldukları bakanlık vasıtasıyla iletirler. Kurul, hazırlayacağı genel raporu, söz konusu kurum ve kuruluşların raporları ile birlikte her yıl Nisan ayının sonuna kadar Türkiye Büyük Millet Meclisine gönderir. Bu raporlar takip eden iki ay içinde Türkiye Büyük Millet Meclisi Başkanlığınca kamuoyuna açıklanır.\n\nYönetmelik[4]",
+      "preview": "Kurum ve kuruluşlar, bir önceki yıla ait olmak üzere; a) Kendilerine yapılan bilgi edinme başvurularının sayısını, b) Olumlu cevaplanarak bi…",
+      "kitap": null,
+      "kisim": null,
+      "bolum": "BEŞİNCİ BÖLÜM · Çeşitli ve Son Hükümler",
+      "ayirim": null,
+      "maddeBaslik": "Rapor düzenlenmesi",
+      "sectionPath": [
+        "BEŞİNCİ BÖLÜM · Çeşitli ve Son Hükümler",
+        "Rapor düzenlenmesi"
+      ]
+    },
+    {
+      "id": "kanun:4982:m:31",
+      "maddeKind": "madde",
+      "maddeNo": "31",
+      "heading": "Madde 31",
+      "text": "Bu Kanunun uygulanması ile ilgili esas ve usullerin belirlenmesine ilişkin yönetmelik, Kanunun yayımını takip eden altı ay içinde Cumhurbaşkanlığı tarafından hazırlanarak (…)4 yürürlüğe konulur.",
+      "preview": "Bu Kanunun uygulanması ile ilgili esas ve usullerin belirlenmesine ilişkin yönetmelik, Kanunun yayımını takip eden altı ay içinde Cumhurbaşk…",
+      "kitap": null,
+      "kisim": null,
+      "bolum": "BEŞİNCİ BÖLÜM · Çeşitli ve Son Hükümler",
+      "ayirim": null,
+      "maddeBaslik": "Rapor düzenlenmesi",
+      "sectionPath": [
+        "BEŞİNCİ BÖLÜM · Çeşitli ve Son Hükümler",
+        "Rapor düzenlenmesi"
+      ]
+    },
+    {
+      "id": "kanun:4982:m:32",
+      "maddeKind": "madde",
+      "maddeNo": "32",
+      "heading": "Madde 32",
+      "text": "Bu Kanun yayımı tarihinden itibaren altı ay sonra yürürlüğe girer.",
+      "preview": "Bu Kanun yayımı tarihinden itibaren altı ay sonra yürürlüğe girer.",
+      "kitap": null,
+      "kisim": null,
+      "bolum": "BEŞİNCİ BÖLÜM · Çeşitli ve Son Hükümler",
+      "ayirim": null,
+      "maddeBaslik": "Yürürlük",
+      "sectionPath": [
+        "BEŞİNCİ BÖLÜM · Çeşitli ve Son Hükümler",
+        "Yürürlük"
+      ]
+    },
+    {
+      "id": "kanun:4982:m:33",
+      "maddeKind": "madde",
+      "maddeNo": "33",
+      "heading": "Madde 33",
+      "text": "Bu Kanun hükümlerini Cumhurbaşkanı yürütür.\n\n 4982 SAYILI KANUNA EK VE DEĞİŞİKLİK GETİREN MEVZUATIN VEYA\n ANAYASA MAHKEMESİ TARAFINDAN İPTAL EDİLEN HÜKÜMLERİN\n YÜRÜRLÜĞE GİRİŞ TARİHİNİ GÖSTERİR LİSTE\n\n Değiştiren Kanunun/ KHK’nin/ İptal Eden Anayasa Mahkemesi Kararının Numarası\n 4982 Sayılı Kanunun Değişen veya İptal Edilen Maddeleri\n Yürürlüğe Giriş Tarihi\n\n 5432\n 13, 14\n 22/11/2005\n\n 6495\n 2\n 2/8/2013\n\n Anayasa Mahkemesi’nin 4/12/2014 tarihli ve E.: 2013/114, K.: 2014/22 (Yürürlüğü Durdurma) Kararı\n 2\n 6/12/2014\n\n Anayasa Mahkemesi’nin 4/12/2014 tarihli ve E.: 2013/114, K.: 2014/184 sayılı Kararı\n 2\n 16/7/2015\n\n KHK/703\n 14, 31, 33\n 24/6/2018 tarihinde birlikte yapılan Türkiye Büyük Millet Meclisi ve Cumhurbaşkanlığı seçimleri sonucunda Cumhurbaşkanının andiçerek göreve başladığı tarihte (9/7/2018)\n\n [1] 17/11/2005 tarihli ve 5432 sayılı Kanunun 1 inci maddesiyle bu fıkrada yer alan “16 ve 17 nci maddelerde öngörülen sebeplerle” ibaresi madde metninden çıkarılmıştır.\n\n [2] 2/7/2018 tarihli ve 703 sayılı KHK’nin 35 inci maddesiyle, bu maddenin ikinci fıkrasında yer alan “Bakanlar Kurulunca” ibaresi “Cumhurbaşkanınca” şeklinde, dokuzuncu fıkrasında yer alan “Başbakanlık” ibaresi “Adalet Bakanlığı” şeklinde ve onuncu fıkrasında yer alan “Başbakanlıkça” ibaresi “Cumhurbaşkanlığınca” şeklinde değiştirilmiştir.\n\n [3] 17/11/2005 tarihli ve 5432 sayılı Kanunun 2 nci maddesiyle, birinci fıkrada yer alan “16 ve 17 nci maddelerde öngörülen sebeplere dayanılarak” ibaresi, madde metninden çıkarılmış; yedinci fıkrada yer alan “uhdesinde kamu görevi bulunanlara (1000), uhdesinde kamu görevi bulunmayanlara ise (2000)\" ibaresi, \"(3000)\" olarak değiştirilmiştir.\n\n [4] 2/7/2018 tarihli ve 703 sayılı KHK’nin 35 inci maddesiyle, bu maddede yer alan “Başbakanlık” ibaresi “Cumhurbaşkanlığı” şeklinde değiştirilmiş ve “Bakanlar Kurulunca” ibaresi madde metninden çıkarılmıştır.\n\n [5] 2/7/2018 tarihli ve 703 sayılı KHK’nin 35 inci maddesiyle, bu maddede yer alan “Bakanlar Kurulu” ibaresi “Cumhurbaşkanı” şeklinde değiştirilmiştir.",
+      "preview": "Bu Kanun hükümlerini Cumhurbaşkanı yürütür. 4982 SAYILI KANUNA EK VE DEĞİŞİKLİK GETİREN MEVZUATIN VEYA ANAYASA MAHKEMESİ TARAFINDAN İPTAL ED…",
+      "kitap": null,
+      "kisim": null,
+      "bolum": "BEŞİNCİ BÖLÜM · Çeşitli ve Son Hükümler",
+      "ayirim": null,
+      "maddeBaslik": "Yürütme[5]",
+      "sectionPath": [
+        "BEŞİNCİ BÖLÜM · Çeşitli ve Son Hükümler",
+        "Yürütme[5]"
+      ]
+    }
+  ]
+}

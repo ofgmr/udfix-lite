@@ -1,0 +1,1008 @@
+{
+  "id": "kanun:854",
+  "kind": "kanun",
+  "no": "854",
+  "title": "Deniz İş Kanunu",
+  "shortName": "Deniz İş Kanunu",
+  "aliases": [
+    "Deniz İş Kanunu",
+    "854"
+  ],
+  "tur": 1,
+  "tertip": 5,
+  "sourceUrl": "https://www.mevzuat.gov.tr/mevzuat?MevzuatNo=854&MevzuatTur=1&MevzuatTertip=5",
+  "kabulTarihi": "20/4/1967",
+  "maddeCount": 62,
+  "maddeler": [
+    {
+      "id": "kanun:854:m:1",
+      "maddeKind": "madde",
+      "maddeNo": "1",
+      "heading": "Madde 1",
+      "text": "Bu kanun denizlerde, göllerde ve akarsularda Türk Bayrağını taşıyan ve yüz ve daha yukarı grostonilatoluk gemilerde bir hizmet akti ile çalışan gemiadamları ve bunların işverenleri hakkında uygulanır.\n Aynı işverene ait gemilerin grostonilatoları toplamı yüz veya daha fazla olduğu veyahut işverenin çalıştırdığı gemiadamı sayısı 5 veya daha fazla bulunduğu takdirde birinci bent hükmü uygulanır.\n Bu kanunun uygulanmasında; sandal, mavna, şat, salapurya gibi olanlar da (gemi) sayılır.\n Cumhurbaşkanı, ekonomik ve sosyal gerekler bakımından bu kanun hükümlerini yukardaki bentlerin kapsamı dışında kalan gemilerle gemiadamlarına ve bunların işverenlerine kısmen veya tamamen teşmile yetkilidir.[2]\n Yukardaki bentlerde yazılı gemilerin bu kanun kapsamına alınmaları sebebiyle yapılabilecek itirazlar Çalışma Bakanlığı tarafından incelenerek karara bağlanır. Bu itirazlar kanunun uygulanmasını durduramaz.",
+      "preview": "Bu kanun denizlerde, göllerde ve akarsularda Türk Bayrağını taşıyan ve yüz ve daha yukarı grostonilatoluk gemilerde bir hizmet akti ile çalı…",
+      "kitap": null,
+      "kisim": null,
+      "bolum": null,
+      "ayirim": null,
+      "maddeBaslik": null,
+      "sectionPath": []
+    },
+    {
+      "id": "kanun:854:m:2",
+      "maddeKind": "madde",
+      "maddeNo": "2",
+      "heading": "Madde 2",
+      "text": "Bu kanunun uygulanmasında,\n A) Gemi sahibine veya kendisinin olmıyan bir gemiyi kendi adına ve hesabına işleten kimseye “işveren” denir.\n B) Bir hizmet aktine dayanarak gemide çalışan kaptan, zabit ve tayfalarla diğer kimselere “gemiadamı” denir.\n C) Gemiyi sevk ve idare eden kimseye veya zorunlu sebeplerle görevi başında bulunmaması halinde ona vekalet eden kimseye “kaptan” denir.\n Ç) Kaptan veya işveren adına ve hesabına harekete yetkili olan kimseye “işveren vekili” denir.\n İşveren vekilinin bu sıfatla gemiadamlarına karşı muamele ve taahhütlerinden doğrudan doğruya işveren sorumludur.",
+      "preview": "Bu kanunun uygulanmasında, A) Gemi sahibine veya kendisinin olmıyan bir gemiyi kendi adına ve hesabına işleten kimseye “işveren” denir. B) B…",
+      "kitap": null,
+      "kisim": null,
+      "bolum": null,
+      "ayirim": null,
+      "maddeBaslik": "İşveren, gemiadamı, kaptan ve işveren vekilinin tarifi:",
+      "sectionPath": [
+        "İşveren, gemiadamı, kaptan ve işveren vekilinin tarifi:"
+      ]
+    },
+    {
+      "id": "kanun:854:m:3",
+      "maddeKind": "madde",
+      "maddeNo": "3",
+      "heading": "Madde 3",
+      "text": "Türk Ticaret Kanununun deniz ticaretinden bahseden dördüncü kitabındaki kaptan ile işveren arasındaki ilişkilere ait hükümler saklıdır.",
+      "preview": "Türk Ticaret Kanununun deniz ticaretinden bahseden dördüncü kitabındaki kaptan ile işveren arasındaki ilişkilere ait hükümler saklıdır.",
+      "kitap": null,
+      "kisim": null,
+      "bolum": null,
+      "ayirim": null,
+      "maddeBaslik": "Saklı hükümler:",
+      "sectionPath": [
+        "Saklı hükümler:"
+      ]
+    },
+    {
+      "id": "kanun:854:m:4",
+      "maddeKind": "madde",
+      "maddeNo": "4",
+      "heading": "Madde 4",
+      "text": "Bu kanun hükümleri, mütekabiliyet esaslarına göre Türk gemiadamlarına aynı mahiyette haklar tanıyan devletlerin uyruğunda olup bu kanun kapsamına giren gemilerde çalışan gemiadamlarına bu uygulanır.",
+      "preview": "Bu kanun hükümleri, mütekabiliyet esaslarına göre Türk gemiadamlarına aynı mahiyette haklar tanıyan devletlerin uyruğunda olup bu kanun kaps…",
+      "kitap": null,
+      "kisim": null,
+      "bolum": null,
+      "ayirim": null,
+      "maddeBaslik": "Yabancı gemiadamları:",
+      "sectionPath": [
+        "Yabancı gemiadamları:"
+      ]
+    },
+    {
+      "id": "kanun:854:m:5",
+      "maddeKind": "madde",
+      "maddeNo": "5",
+      "heading": "Madde 5",
+      "text": "Hizmet akti işveren veya işveren vekiliyle gemiadamı arasında yazılı olarak iki nüsha yapılır ve taraflardan her birine birer nüsha verilir.",
+      "preview": "Hizmet akti işveren veya işveren vekiliyle gemiadamı arasında yazılı olarak iki nüsha yapılır ve taraflardan her birine birer nüsha verilir.",
+      "kitap": null,
+      "kisim": null,
+      "bolum": null,
+      "ayirim": null,
+      "maddeBaslik": "Yazılı akit:",
+      "sectionPath": [
+        "Yazılı akit:"
+      ]
+    },
+    {
+      "id": "kanun:854:m:6",
+      "maddeKind": "madde",
+      "maddeNo": "6",
+      "heading": "Madde 6",
+      "text": "Bu kanuna göre yapılacak yazılı akitlerde aşağıdaki hususların bulunması gerekir:\n 1. İşverenin adı ve soyadiyle ikametgah adresi,\n 2. Gemiadamının adı, soyadı, doğum tarihi ve yeri, sicil numarası ve ikametgah adresi,\n 3. Gemiadamının çalışacağı geminin ismi, sicil numarası, grostonilatosu ve kaydedildiği sicil dairesi (Gemiadamının aynı işverenin muhtelif gemilerinde çalışması ihtimali mevcutsa, bu hizmet aktinde ayrıca belirtilir.)\n 4. Aktin yapıldığı yer ve tarih,\n 5. Gemiadamının göreceği iş,\n 6. Gemiadamının hizmete başlıyacağı tarih ve yer,\n 7. Hizmet aktinin belli bir süre için yapılmış olup olmadığı, belli bir süre için yapılmış ise süresi veya sefer üzerine ise hangi sefer olduğu,\n 8. Kararlaştırılan ücret esası ile miktarı,\n 9. Ücretin ödeme zamanı ve yeri ile zorunlu tutulan işverenler için gemiadamının ücret, prim, ikramiye ve bu nitelikteki her çeşit istihkakının ödeneceği banka özel hesap numarası,[3]\n 10. Avans şartları,\n 11. Diğer iş şartları,\n 12. Tirimciler ve ateşçiler ile yapılacak hizmet akitlerinde 25/5/1959 gün ve 7292 sayılı kanunla onanan sözleşmenin özeti.",
+      "preview": "Bu kanuna göre yapılacak yazılı akitlerde aşağıdaki hususların bulunması gerekir: 1. İşverenin adı ve soyadiyle ikametgah adresi, 2. Gemiada…",
+      "kitap": null,
+      "kisim": null,
+      "bolum": null,
+      "ayirim": null,
+      "maddeBaslik": "Yazılı aktin şekli:",
+      "sectionPath": [
+        "Yazılı aktin şekli:"
+      ]
+    },
+    {
+      "id": "kanun:854:m:7",
+      "maddeKind": "madde",
+      "maddeNo": "7",
+      "heading": "Madde 7",
+      "text": "Hizmet akti belirli bir süre veya sefer için yahut süresiz olarak yapılabilir.\n I - Belirli bir süre için yapılmış hizmet akti bu sürenin bitiminde sona erer. Hizmet akti gemi seyir halinde iken sona ererse akit, geminin ilk limana varmasına ve güvenlik altına alınmasına kadar devam eder.\n II - Belirli sefer için yapılmış hizmet akti, akitte yazılı seferin sonunda geminin vardığı limanda yükünü boşaltmasıyla sona erer.",
+      "preview": "Hizmet akti belirli bir süre veya sefer için yahut süresiz olarak yapılabilir. I - Belirli bir süre için yapılmış hizmet akti bu sürenin bit…",
+      "kitap": null,
+      "kisim": null,
+      "bolum": null,
+      "ayirim": null,
+      "maddeBaslik": "Belirli süre veya sefer için akit:",
+      "sectionPath": [
+        "Belirli süre veya sefer için akit:"
+      ]
+    },
+    {
+      "id": "kanun:854:m:8",
+      "maddeKind": "madde",
+      "maddeNo": "8",
+      "heading": "Madde 8",
+      "text": "Belirli bir sefer için yapılmış olan hizmet aktinin sonunda gemiadamı işveren veya işveren vekilinin muvafakatiyle işe devam eder ve gemi de sefere çıkarsa, hizmet akti bu sefer süresince uzatılmış sayılır.\n Belirli bir süre için yapılmış olan hizmet aktinin sonunda gemiadamı işveren veya işveren vekilinin muvafakatiyle işe devam ederse hizmet akti, aynı süre için uzatılmış sayılır.",
+      "preview": "Belirli bir sefer için yapılmış olan hizmet aktinin sonunda gemiadamı işveren veya işveren vekilinin muvafakatiyle işe devam eder ve gemi de…",
+      "kitap": null,
+      "kisim": null,
+      "bolum": null,
+      "ayirim": null,
+      "maddeBaslik": "Akit süresinin uzaması:",
+      "sectionPath": [
+        "Akit süresinin uzaması:"
+      ]
+    },
+    {
+      "id": "kanun:854:m:9",
+      "maddeKind": "madde",
+      "maddeNo": "9",
+      "heading": "Madde 9",
+      "text": "Gemiadamıyla işveren veya işveren vekili arasında yapılacak hizmet akitleri, her türlü resim ve harçtan muaftır.",
+      "preview": "Gemiadamıyla işveren veya işveren vekili arasında yapılacak hizmet akitleri, her türlü resim ve harçtan muaftır.",
+      "kitap": null,
+      "kisim": null,
+      "bolum": null,
+      "ayirim": null,
+      "maddeBaslik": "Resim ve harçtan muafiyet:",
+      "sectionPath": [
+        "Resim ve harçtan muafiyet:"
+      ]
+    },
+    {
+      "id": "kanun:854:m:10",
+      "maddeKind": "madde",
+      "maddeNo": "10",
+      "heading": "Madde 10",
+      "text": "Süresi belirli olmıyan hizmet akitlerinde deneme süresi en çok bir aydır.\n Bu süre içinde taraflar hizmet aktini bildirimsiz ve tazminatsız bozabilirler. Ancak gemiadamının çalıştığı günler için ücret hakkı saklıdır.",
+      "preview": "Süresi belirli olmıyan hizmet akitlerinde deneme süresi en çok bir aydır. Bu süre içinde taraflar hizmet aktini bildirimsiz ve tazminatsız b…",
+      "kitap": null,
+      "kisim": null,
+      "bolum": null,
+      "ayirim": null,
+      "maddeBaslik": "Deneme süresi:",
+      "sectionPath": [
+        "Deneme süresi:"
+      ]
+    },
+    {
+      "id": "kanun:854:m:11",
+      "maddeKind": "madde",
+      "maddeNo": "11",
+      "heading": "Madde 11",
+      "text": "(Mülga: 10/9/2014-6552/144 md.)",
+      "preview": "(Mülga: 10/9/2014-6552/144 md.)",
+      "kitap": null,
+      "kisim": null,
+      "bolum": null,
+      "ayirim": null,
+      "maddeBaslik": "Çalışma ve kimlik karnesi:",
+      "sectionPath": [
+        "Çalışma ve kimlik karnesi:"
+      ]
+    },
+    {
+      "id": "kanun:854:m:12",
+      "maddeKind": "madde",
+      "maddeNo": "12",
+      "heading": "Madde 12",
+      "text": "İşinden ayrılan gemiadamına işveren veya işveren vekili tarafından işinin çeşidinin ne olduğunu ve süresini gösteren bir belge verilir. Bu belgeye gemiadamı isterse, kendisinin durumu ve davranışlariyle, çalışmasının ne yolda olduğu da ayrıca yazılır. İşveren veya işveren vekilinin belgedeki imzası, gemiadamı dilerse bağlama limanındaki liman reisliği tarafından onaylanır.\n Kamu hizmeti gören idarelere yahut kamu yararına yardımcı derneklere bağlı gemilerden çıkan gemiadamının aldığı belgeler hakkında yukarıki onay hükmü uygulanmaz.\n İşveren veya işveren vekili, gemiadamının istediği belgeyi vermemekte direnirse veyahut belgeye gemiadamı için doğru olmıyan yazılar yazarsa, gemiadamının yahut yeni işine girdiği işverenin isteği üzerine, bağlama limanındaki liman reisliğince yapılacak inceleme sonucunu gösteren bir belge gemiadamına veya yeni işverene verilir. Liman reisliği tarafından yapılacak inceleme bir haftada bitirilir.\n Kamu hizmeti gören idarelere bağlı gemilerden çıkan gemiadamına belge verilmek istenmez veyahut belgeye doğru olmıyan yazılar yazılırsa, gerekli incelemenin yapılması için bu gemilerin bağlı oldukları makamlara başvurulur.\n Belgenin vaktinde verilmemesi veyahut belgede doğru olmıyan yazılar bulunmasından zarar gören gemiadamı veyahut gemiadamını işe alan yeni işveren eski işverenden tazminat isteyebilir.\n Bu belgeler her türlü resim ve harçtan muaftır.",
+      "preview": "İşinden ayrılan gemiadamına işveren veya işveren vekili tarafından işinin çeşidinin ne olduğunu ve süresini gösteren bir belge verilir. Bu b…",
+      "kitap": null,
+      "kisim": null,
+      "bolum": null,
+      "ayirim": null,
+      "maddeBaslik": "Çalışma belgesi:",
+      "sectionPath": [
+        "Çalışma belgesi:"
+      ]
+    },
+    {
+      "id": "kanun:854:m:13",
+      "maddeKind": "madde",
+      "maddeNo": "13",
+      "heading": "Madde 13",
+      "text": "Bu kanunun kapsamına giren işveren veya işveren vekilleri, işyerlerinde İş Kanununun ve bununla ilgili yönetmeliğin bu konuda koyduğu hükümler, esaslar, ölçüler ve şartlara göre engelli ve eski hükümlü gemiadamı çalıştırmak zorundadır.[5]",
+      "preview": "Bu kanunun kapsamına giren işveren veya işveren vekilleri, işyerlerinde İş Kanununun ve bununla ilgili yönetmeliğin bu konuda koyduğu hüküml…",
+      "kitap": null,
+      "kisim": null,
+      "bolum": null,
+      "ayirim": null,
+      "maddeBaslik": "Engelli ve eski hükümlü çalıştırma:[4]",
+      "sectionPath": [
+        "Engelli ve eski hükümlü çalıştırma:[4]"
+      ]
+    },
+    {
+      "id": "kanun:854:m:14",
+      "maddeKind": "madde",
+      "maddeNo": "14",
+      "heading": "Madde 14",
+      "text": "Süresi belirli olan veya olmıyan yahut da sefer üzerine yapılan hizmet akti:\n I - İşveren veya işveren vekili tarafından:\n a) Gemiadamının herhangi bir limanda geminin hareketinden önce gemiye dönerek hizmete girmemesi veya gemiye hiç dönmemesi,\n b) Gemiadamının gemide hizmet görmesinin tutukluluk, hapis veya gemide çalışmaktan menolunması gibi sebeplerle imkansız bir hal alması,\n c) Gemiadamının işveren veya işveren vekiline karşı, kanuna, hizmet akitlerine sair iş ve çalışma şartlarına aykırı hareket etmesi,\n ç) Gemiadamının işveren veya işveren vekiline karşı denizcilik kural ve teamüllerine veya ahlak ve adaba aykırı hareket etmesi,\n II - Gemiadamı tarafından:\n a) Ücretin kanun hükümleri veya hizmet akti gereğince ödenmemesi,\n b) İşveren veya işveren vekilinin gemiadamına karşı, kanuna, hizmet akitlerine veya sair iş şartlarına aykırı hareket etmesi,\n c) İşveren veya işveren vekilinin gemiadamına karşı denizcilik kural ve teamüllerine veya ahlak ve adaba aykırı hareket etmesi,\n III - İşveren, işveren vekili veya gemiadamı tarafından:\n a) Geminin herhangi bir sebeple 30 günden fazla bir süre seferden kaldırılması,\n b) Gemiadamının herhangi bir sebeple sürekli olarak gemide çalışmasına engel bir hastalığa yakalanması veya engelli hâle gelmesi,[6]\n Hallerinde feshedilebilir.\n IV - Geminin kayba uğraması, terk edilmesi veya harp ganimeti ilan edilmesi veyahut Türk Bayrağından ayrılması hallerinde ise hizmet akti kendiliğinden bozulur.",
+      "preview": "Süresi belirli olan veya olmıyan yahut da sefer üzerine yapılan hizmet akti: I - İşveren veya işveren vekili tarafından: a) Gemiadamının her…",
+      "kitap": null,
+      "kisim": null,
+      "bolum": null,
+      "ayirim": null,
+      "maddeBaslik": "Önelsiz fesih ve infisah:",
+      "sectionPath": [
+        "Önelsiz fesih ve infisah:"
+      ]
+    },
+    {
+      "id": "kanun:854:m:15",
+      "maddeKind": "madde",
+      "maddeNo": "15",
+      "heading": "Madde 15",
+      "text": "14 üncü maddede işveren, işveren vekili veya gemiadamına tanınan akti feshetmek yetkisi, iki taraftan birinin bu çeşit davranışlarda bulunduğunu öbür tarafın öğrendiği günden başlıyarak (6) işgünü geçtikten ve herhalde fiilin vukuundan itibaren bir sene sonra kullanılamaz.\n Bu hallere dayanılarak akti süresi içinde fesheden taraf ayrıca mahkemeye başvurarak öbür taraftan bir tazminat istiyebilir.",
+      "preview": "14 üncü maddede işveren, işveren vekili veya gemiadamına tanınan akti feshetmek yetkisi, iki taraftan birinin bu çeşit davranışlarda bulundu…",
+      "kitap": null,
+      "kisim": null,
+      "bolum": null,
+      "ayirim": null,
+      "maddeBaslik": "Fesih hakkını kullanma öneli:",
+      "sectionPath": [
+        "Fesih hakkını kullanma öneli:"
+      ]
+    },
+    {
+      "id": "kanun:854:m:16",
+      "maddeKind": "madde",
+      "maddeNo": "16",
+      "heading": "Madde 16",
+      "text": "A) Süresi belirsiz hizmet akti, 14 üncü maddede yazılı durumlar dışında gemiadamının işe alınmasından itibaren altı ay geçmedikçe bozulamaz.\n B) Süresi belirsiz hizmet akitlerinin çözülmesinden önce durumun diğer tarafa bildirilmesi gerekir.\n Hizmet akti:\n a) İşi altı ay sürmüş olan gemiadamı için, bildirimin diğer tarafa yapılmasından başlıyarak iki hafta sonra,\n b) İşi altı aydan birbuçuk yıla kadar sürmüş olan gemiadamı için, bildirimin diğer tarafa yapılmasından başlıyarak dört hafta sonra,\n c) İşi birbuçuk yıldan üç yıla kadar sürmüş olan gemiadamı için bildirimin diğer tarafa yapılmasından başlıyarak altı hafta sonra,\n ç) İşi üç yıldan fazla sürmüş olan gemiadamı için, bildirimin diğer tarafa yapılmasından başlıyarak sekiz hafta sonra,\n Bozulmuş olur.\n C) Öneller asgari olup toplu iş sözleşmesiyle veya hizmet akti ile artırılabilir.\n D) Bildirme şartına uymıyan taraf, yukarıda yazılı önellere uygun ücret tutarında tazminat ödemek zorundadır.\n Gemiadamının sendikaya üye olması, şikayete başvurması gibi sebeplerle işinden çıkarılması hallerinde ve genel olarak hizmet aktini bozma hakkının kötüye kullanıldığını gösteren diğer durumlarda “B” bendinde yazılı önellere ait ücretlerin üç katı tutarı tazminat olarak ödenir.\n Tarafların ayrıca tazminat isteme hakkı saklıdır.",
+      "preview": "A) Süresi belirsiz hizmet akti, 14 üncü maddede yazılı durumlar dışında gemiadamının işe alınmasından itibaren altı ay geçmedikçe bozulamaz.…",
+      "kitap": null,
+      "kisim": null,
+      "bolum": null,
+      "ayirim": null,
+      "maddeBaslik": "Aktin çözülmesinde bildirim:",
+      "sectionPath": [
+        "Aktin çözülmesinde bildirim:"
+      ]
+    },
+    {
+      "id": "kanun:854:m:17",
+      "maddeKind": "madde",
+      "maddeNo": "17",
+      "heading": "Madde 17",
+      "text": "14 ve 16 ncı maddelere göre hizmet aktinin feshinde fesih keyfiyeti, gemi seyir halinde ise, kararlaştırılmış limanda ve kararlaştırılmış liman değiştirildiği takdirde ilk uğrıyacağı limanda geminin emniyet altına alınmasına kadar uzatılmış sayılır.",
+      "preview": "14 ve 16 ncı maddelere göre hizmet aktinin feshinde fesih keyfiyeti, gemi seyir halinde ise, kararlaştırılmış limanda ve kararlaştırılmış li…",
+      "kitap": null,
+      "kisim": null,
+      "bolum": null,
+      "ayirim": null,
+      "maddeBaslik": "Fesih hükmünün başlangıcı:",
+      "sectionPath": [
+        "Fesih hükmünün başlangıcı:"
+      ]
+    },
+    {
+      "id": "kanun:854:m:18",
+      "maddeKind": "madde",
+      "maddeNo": "18",
+      "heading": "Madde 18",
+      "text": "Hizmet aktinin işveren veya işveren vekili tarafından feshedilmesi halinde sebepleri ile birlikte gemiadamına yazılı olarak bildirilmesi şarttır. Bildirim imkanı olmıyan hallerde durum bir tutanakla tespit olunur.",
+      "preview": "Hizmet aktinin işveren veya işveren vekili tarafından feshedilmesi halinde sebepleri ile birlikte gemiadamına yazılı olarak bildirilmesi şar…",
+      "kitap": null,
+      "kisim": null,
+      "bolum": null,
+      "ayirim": null,
+      "maddeBaslik": "Feshin bildirilmesi:",
+      "sectionPath": [
+        "Feshin bildirilmesi:"
+      ]
+    },
+    {
+      "id": "kanun:854:m:19",
+      "maddeKind": "madde",
+      "maddeNo": "19",
+      "heading": "Madde 19",
+      "text": "Geminin Türk Bayrağını taşıma hakkı bulunduğu sürece mülkiyetin kısmen veya tamamen herhangi bir şahsa geçmesi hizmet aktinin feshini gerektirmez.",
+      "preview": "Geminin Türk Bayrağını taşıma hakkı bulunduğu sürece mülkiyetin kısmen veya tamamen herhangi bir şahsa geçmesi hizmet aktinin feshini gerekt…",
+      "kitap": null,
+      "kisim": null,
+      "bolum": null,
+      "ayirim": null,
+      "maddeBaslik": "Feshi kapsamayan hal:",
+      "sectionPath": [
+        "Feshi kapsamayan hal:"
+      ]
+    },
+    {
+      "id": "kanun:854:m:20",
+      "maddeKind": "madde",
+      "maddeNo": "20",
+      "heading": "Madde 20",
+      "text": "(Değişik: 17/10/1980 - 2319/1 md.)\n Bu Kanuna tabi gemi adamlarının hizmet akitlerinin:\n 1. İşveren tarafından bu Kanunun 14 üncü maddesinin 1 inci bendinde gösterilen sebepler dışında,\n 2. Gemi adamı tarafından bu Kanunun 14 üncü maddesinin II nci ve III üncü bentleri uyarınca,\n 3. Muvazzaf askerlik hizmeti dolayısıyla,\n 4. Bağlı bulundukları kanunla kurulu kurum veya sandıklardan yaşlılık, emeklilik veya malullük aylığı, yahut toptan ödeme almak amacıyla,\n Feshedilmesi veya gemi adamının ölümü veya 14 üncü maddenin 4 üncü bendi sebebiyle son bulması hallerinde gemi adamının işe başladığı tarihten itibaren hizmet akdinin devamı süresince her geçen tam yıl için işverence gemi adamına 30 günlük ücreti tutarında kıdem tazminatı ödenir. Bir yıldan artan süreler için de aynı oran üzerinden ödeme yapılır.\n Gemi adamlarının kıdemleri hizmet akdinin devam etmiş veya fasılalarla yeniden akdedilmiş olmasına bakılmaksızın aynı işverenin bir veya değişik gemilerinde ve hizmetinde çalıştıkları süreler gözönüne alınarak hesaplanır. Geminin devir veya intikali yahut herhangi bir suretle bir işverenden başka bir işverene geçmesi veya başka bir yere nakli halinde gemiadamının kıdemi, işyeri veya işyerlerindeki hizmet akitleri sürelerinin toplamı üzerinden hesaplanır. 12/7/1975 tarihinden itibaren geminin devri veya herhangi bir suretle el değiştirmesi halinde işlemiş kıdem tazminatlarından her iki işveren sorumludur. Ancak işyerini devreden işverenlerin bu sorumlulukları gemiadamını çalıştırdıkları sürelerle ve devir esnasındaki gemiadamının aldığı ücret seviyesiyle sınırlıdır.[7]\n 12/7/1975 tarihinden evvel işyeri devrolmuş veya herhangi bir suretle el değiştirmişse devir mukavelesinde aksine bir hüküm yoksa işlemiş kıdem tazminatlarından yeni işveren sorumludur.7\n Gemiadamının birinci bendin 4 üncü fıkrası hükmünden faydalanabilmesi için aylık veya toptan ödemeye hak kazanmış bulunduğunu ve kendisine aylık bağlanması veya toptan ödeme yapılması için yaşlılık sigortası bakımından bağlı bulunduğu kuruma veya sandığa müracaat etmiş olduğunu belgelemesi şarttır. Gemiadamının ölümü halinde bu şart aranmaz.\n T.C. Emekli Sandığı Kanunu ve Sosyal Sigortalar Kanununa veya yalnız Sosyal Sigortalar Kanununa tabi olarak sadece aynı ya da değişik kamu kuruluşlarında geçen hizmet sürelerinin birleştirilmesi suretiyle Sosyal Sigortalar Kanununa göre yaşlılık veya malullük aylığına ya da toptan ödemeye hak kazanan gemiadamına, bu kamu kuruluşlarında geçirdiği hizmet sürelerinin toplamı üzerinden son kamu kuruluşu işverenince kıdem tazminatı ödenir.\n Yukarıda belirtilen kamu kuruluşlarında gemiadamının hizmet akdinin evvelce bu maddeye göre kıdem tazminatı ödenmesini gerektirmiyecek şekilde sona ermesi suretiyle geçen hizmet süreleri kıdem tazminatının hesabında dikkate alınmaz.\n Ancak, bu tazminatın T.C. Emekli Sandığına tabi olarak geçen hizmet süresine ait kısmı için ödenecek miktar, yaşlılık veya malullük aylığının başlangıç tarihinde T.C. Emekli Sandığı Kanununun yürürlükteki hükümlerine göre emeklilik ikramiyesi için öngörülen miktardan fazla olamaz.\n Bu maddede geçen kamu kuruluşları deyimi genel, katma ve özel bütçeli idareler ile 468 sayılı Kanunun 4 üncü maddesinde sayılan kurumları kapsar.\n Aynı kıdem süresi için bir defadan fazla kıdem tazminatı veya ikramiye ödenmez.\n Kıdem tazminatının hesaplanması, son ücret üzerinden yapılır. Sefer, parça başına akord, götürü veya yüzde usulü gibi ücretin sabit olmadığı hallerde son bir yıllık süre içinde ödenen ücretin o süre içinde çalışılan günlere bölünmesi suretiyle bulunacak ortalama ücret bu tazminatın hesabına esas tutulur.\n Ancak, son bir yıl içinde işçi ücretine zam yapıldığı takdirde tazminata esas ücret, gemi adamının işten ayrılma tarihi ile zammın yapıldığı tarih arasında alınan ücretin aynı süre içinde çalışılan günlere bölünmesi suretiyle hesaplanır.\n 16 ncı maddenin (D) bendinde sözü geçen tazminat ile bu maddede yer alan kıdem tazminatına esas olacak ücretin hesabında 29 uncu maddenin birinci fıkrasında yazılı ücrete ilaveten gemiadamına sağlanmış olan para ve para ile ölçülmesi mümkün akdi ve kanundan doğan menfaatler de gözönünde tutulur.\n Bu maddede belirtilen kıdem tazminatı ile ilgili 30 günlük süre hizmet akitleri veya toplu iş sözleşmeleri ile gemiadamı lehine değiştirilebilir.\n (Değişik: 10/12/1982 - 2762/2 md.) Ancak, toplu sözleşmelerle ve hizmet akitleriyle belirlenen kıdem tazminatlarının yıllık miktarı, Devlet Memurları Kanununa tabi en yüksek Devlet memuruna 5434 sayılı T.C. Emekli Sandığı Kanunu hükümlerine göre bir hizmet yılı için ödenecek azami emeklilik ikramiyesini geçemez.\n Gemiadamının ölümü halinde yukarıdaki hükümlere göre doğan tazminat tutarı, kanuni mirasçılarına ödenir.\n Kıdem tazminatından doğan sorumluluğu işveren, özel şahıslara veya sigorta şirketlerine sigorta ettiremez.\n İşveren sorumluluğu altında ve sadece yaşlılık, emeklilik, malullük, ölüm ve toptan ödeme hallerine mahsus olmak kaydiyle Devlet veya kanunla kurulu kurumlarda veya % 50 hisseden fazlası Devlete ait bir bankada veya bir kurumda işveren tarafından kıdem tazminatı ile ilgili bir fon tesis edilir.\n Fon tesisi ile ilgili hususlar kanunla düzenlenir.",
+      "preview": "(Değişik: 17/10/1980 - 2319/1 md.) Bu Kanuna tabi gemi adamlarının hizmet akitlerinin: 1. İşveren tarafından bu Kanunun 14 üncü maddesinin 1…",
+      "kitap": null,
+      "kisim": null,
+      "bolum": null,
+      "ayirim": null,
+      "maddeBaslik": "Kıdem tazminatı:",
+      "sectionPath": [
+        "Kıdem tazminatı:"
+      ]
+    },
+    {
+      "id": "kanun:854:m:21",
+      "maddeKind": "madde",
+      "maddeNo": "21",
+      "heading": "Madde 21",
+      "text": "Hizmet aktinin, 14 üncü maddenin, I, II, III ve IV üncü bentlerine göre işveren veya işveren vekili veya gemiadamı tarafından yurt dışında feshi halinde, işveren veya işveren vekili gemiadamını hizmet aktinde başka hüküm yoksa, geminin bağlama limanına iade etmek ve gemiadamının iadeye ilişkin ve durumuna uygun yol, iaşe vesair zaruri masraflarını karşılamak veya ödemek zorundadır.\n Şu kadar ki, hizmet aktinin feshi 14 üncü maddenin 1 inci bendine ve II nci bendin (a) veya (b) fıkralarına göre yapılmış ise işveren veya işveren vekili yaptığı iade masraflarını gemiadamından yurtta istiyebilir.",
+      "preview": "Hizmet aktinin, 14 üncü maddenin, I, II, III ve IV üncü bentlerine göre işveren veya işveren vekili veya gemiadamı tarafından yurt dışında f…",
+      "kitap": null,
+      "kisim": null,
+      "bolum": null,
+      "ayirim": null,
+      "maddeBaslik": "Yurda iade:",
+      "sectionPath": [
+        "Yurda iade:"
+      ]
+    },
+    {
+      "id": "kanun:854:m:22",
+      "maddeKind": "madde",
+      "maddeNo": "22",
+      "heading": "Madde 22",
+      "text": "Yabancı gemiadamiyle yapılan hizmet aktinde ayrı bir hüküm yoksa, işveren veya işveren vekili yabancı gemiadamını ikametgahının bulunduğu mahal limanına iade etmek zorundadır.",
+      "preview": "Yabancı gemiadamiyle yapılan hizmet aktinde ayrı bir hüküm yoksa, işveren veya işveren vekili yabancı gemiadamını ikametgahının bulunduğu ma…",
+      "kitap": null,
+      "kisim": null,
+      "bolum": null,
+      "ayirim": null,
+      "maddeBaslik": "Yabancı gemiadamının iadesi:",
+      "sectionPath": [
+        "Yabancı gemiadamının iadesi:"
+      ]
+    },
+    {
+      "id": "kanun:854:m:23",
+      "maddeKind": "madde",
+      "maddeNo": "23",
+      "heading": "Madde 23",
+      "text": "Hizmet aktinin herhangi bir Türk limanında feshi halinde akitte başka hüküm yoksa, gemiadamının işveren veya işveren vekili tarafından 21 inci maddedeki ölçüler içinde bağlama limanına iadesi zorunludur.\n Ancak, hizmet aktinin, 14 üncü maddesinin 1 inci bendine göre, feshi halinde bu madde hükmü uygulanmaz.",
+      "preview": "Hizmet aktinin herhangi bir Türk limanında feshi halinde akitte başka hüküm yoksa, gemiadamının işveren veya işveren vekili tarafından 21 in…",
+      "kitap": null,
+      "kisim": null,
+      "bolum": null,
+      "ayirim": null,
+      "maddeBaslik": "Yurt içinde iade zorunluğu:",
+      "sectionPath": [
+        "Yurt içinde iade zorunluğu:"
+      ]
+    },
+    {
+      "id": "kanun:854:m:24",
+      "maddeKind": "madde",
+      "maddeNo": "24",
+      "heading": "Madde 24",
+      "text": "İşveren veya işveren vekilinin 21 ve 23 üncü maddelerde belirtilen zorunluğa uymaması halinde, gemiadamı yurda dönmek için yaptığı durumuna uygun yol, iaşe vesair masrafları ve ayrıca 15 günlük ücreti tutarında bir tazminatı işveren veya işveren vekilinden istiyebilir.",
+      "preview": "İşveren veya işveren vekilinin 21 ve 23 üncü maddelerde belirtilen zorunluğa uymaması halinde, gemiadamı yurda dönmek için yaptığı durumuna…",
+      "kitap": null,
+      "kisim": null,
+      "bolum": null,
+      "ayirim": null,
+      "maddeBaslik": "İade zorunluluğuna uymamak:",
+      "sectionPath": [
+        "İade zorunluluğuna uymamak:"
+      ]
+    },
+    {
+      "id": "kanun:854:m:25",
+      "maddeKind": "madde",
+      "maddeNo": "25",
+      "heading": "Madde 25",
+      "text": "Yabancı bir memlekette işine son verilen veya hizmet akti yabancı bir memlekette sona eren gemiadamı o memlekette denizcilik işleriyle ilgili olsun veya olmasın, başka bir işverenle hizmet akti yaparsa eski işveren veya işveren vekilinin gemiadamını yurda iade zorunluluğu kalkar.\n 21, 22 ve 23 üncü maddelerde yazılı hallerde gemiadamı, işine son verilmesi yahutta hizmet aktinin sona ermesi gününden başlıyarak bir hafta içinde yurda iade edilmesini istemezse işveren veya işveren vekili iade ile zorunlu tutulamaz.\n Bu kanunun 14 üncü maddesinin (1) numaralı bendinin (b) fıkrasında yazılı durumlar gemiadamına yüklenemiyecek sebepler altında doğmuşsa veya gemiadamı için hastalık vesair zorunlu sebepler meydana gelmişse bu maddenin ikinci fıkrasındaki bir haftalık süre, engellerin kalktığı günden itibaren başlar.",
+      "preview": "Yabancı bir memlekette işine son verilen veya hizmet akti yabancı bir memlekette sona eren gemiadamı o memlekette denizcilik işleriyle ilgil…",
+      "kitap": null,
+      "kisim": null,
+      "bolum": null,
+      "ayirim": null,
+      "maddeBaslik": "İade hakkında yoksunluk:",
+      "sectionPath": [
+        "İade hakkında yoksunluk:"
+      ]
+    },
+    {
+      "id": "kanun:854:m:26",
+      "maddeKind": "madde",
+      "maddeNo": "26",
+      "heading": "Madde 26",
+      "text": "Genel bakımdan iş süresi, günde sekiz ve haftada kırksekiz saattir. Bu süre haftanın iş günlerine eşit olarak bölünmek suretiyle uygulanır.\n İş süresi, gemiadamının işbaşında çalıştığı veya vardiya tuttuğu süredir.\n İşveren veya işveren vekili, gemiadamının vardiyalarını yemek ve dinlenme zamanlarını bir çizelge ile belirtmek ve bu çizelgeyi gemiadamlarının görebilecekleri bir yere asmak zorundadır.",
+      "preview": "Genel bakımdan iş süresi, günde sekiz ve haftada kırksekiz saattir. Bu süre haftanın iş günlerine eşit olarak bölünmek suretiyle uygulanır.…",
+      "kitap": null,
+      "kisim": null,
+      "bolum": null,
+      "ayirim": null,
+      "maddeBaslik": "İş süresi:",
+      "sectionPath": [
+        "İş süresi:"
+      ]
+    },
+    {
+      "id": "kanun:854:m:27",
+      "maddeKind": "madde",
+      "maddeNo": "27",
+      "heading": "Madde 27",
+      "text": "Aşağıdaki işleri görenler bu kanunun iş sürelerine ilişkin hükümlerine tabi değildirler.\n 1. Birden fazla kaptanın bulunduğu gemilerde birinci kaptan veya bu kanunun 2 nci maddesinin (C) fıkrasında yazılı olduğu şekilde kendisine vekalet eden kimse (klavuz kaptanlar dahil),\n 2. Birden fazla makinistin bulunduğu gemilerde başmakinist,\n 3. Doktor ve sağlık memurları,\n 4. Hemşire ve hastabakıcılar,\n 5. Asli görevleri can, mal ve gemi kurtarma olan kurtarma gemilerinde çalışan gemiadamları,\n 6. Gemide kendi nam ve hesabına çalışanlar.",
+      "preview": "Aşağıdaki işleri görenler bu kanunun iş sürelerine ilişkin hükümlerine tabi değildirler. 1. Birden fazla kaptanın bulunduğu gemilerde birinc…",
+      "kitap": null,
+      "kisim": null,
+      "bolum": null,
+      "ayirim": null,
+      "maddeBaslik": "İstisnalar:",
+      "sectionPath": [
+        "İstisnalar:"
+      ]
+    },
+    {
+      "id": "kanun:854:m:28",
+      "maddeKind": "madde",
+      "maddeNo": "28",
+      "heading": "Madde 28",
+      "text": "Bu kanuna göre tespit edilmiş bulunan iş sürelerinin aşılması suretiyle yapılan çalışmalar, fazla saatlerde çalışma sayılır.\n Yapılacak fazla çalışmanın her saatine ödenecek ücret normal çalışma ücretinin saat başına düşen miktarı % 25 oranında artırılmak suretiyle bulunacak miktardan az olamaz.\n Aşağıda yazılı haller fazla saatlerle çalışma sayılmaz.\n 1. Geminin, gemideki şahısların veya gemi hamulesinin selameti için kaptanın yapılmasını zaruri gördüğü işler,\n 2. Gümrük, karantina vesair sıhhi formaliteler dolayısiyle yerine getirilmesinde zorunluluk bulunan ilave işler,\n 3. Gemi seyir halinde veya limanda iken gemide yaptırılan (yangın, gemiyi terketme, denizde çatışma, denizden adam kurtarma ve savunma) talimleri. Fazla saatlerle çalışmaları belgelemek üzere işveren veya işveren vekili noterden tasdikli ayrı bir defter tutmak zorundadır.\n Bu defterde gemiadamına uygulanan zam nispetleriyle fazla çalışmanın yapıldığı gün ve o güne düşen miktarı ve gemiadamının hakettiği fazla çalışma ücreti gösterilir. Fazla saatlerle çalışma ücretlerinin asıl ücretler için hizmet aktinde gösterilmiş bulunan zaman, yer ve devrelerde, işveren veya işveren vekili tarafından gemiadamlarına tam olarak ödenmesi zorunludur.",
+      "preview": "Bu kanuna göre tespit edilmiş bulunan iş sürelerinin aşılması suretiyle yapılan çalışmalar, fazla saatlerde çalışma sayılır. Yapılacak fazla…",
+      "kitap": null,
+      "kisim": null,
+      "bolum": null,
+      "ayirim": null,
+      "maddeBaslik": "Fazla saatlerle çalışma:",
+      "sectionPath": [
+        "Fazla saatlerle çalışma:"
+      ]
+    },
+    {
+      "id": "kanun:854:m:29",
+      "maddeKind": "madde",
+      "maddeNo": "29",
+      "heading": "Madde 29",
+      "text": "(Değişik birinci fıkra: 17/4/2008-5754/84 md.) Ücret, prim, ikramiye ve bu nitelikteki her çeşit istihkak gemiadamına işi karşılığında işveren veya işveren vekili tarafından ödenen bir meblağdır. Çalıştırılan gemiadamına ücret, prim, ikramiye ve bu nitelikteki her çeşit istihkakın özel olarak açılan banka hesabına yatırılmak suretiyle ödenmesi hususunda; tabi olduğu vergi mükellefiyeti türü, işletme büyüklüğü, çalıştırdığı gemiadamı sayısı, işyerinin bulunduğu il ve benzeri gibi unsurları dikkate alarak işverenleri veya işveren vekillerini zorunlu tutmaya, banka hesabına yatırılacak ücret, prim, ikramiye ve bu nitelikteki her çeşit istihkakın, brüt ya da kanuni kesintiler düşüldükten sonra kalan net miktar üzerinden olup olmayacağını belirlemeye Çalışma ve Sosyal Güvenlik Bakanlığı, Maliye Bakanlığı ve Hazine Müsteşarlığından sorumlu Devlet Bakanlığı müştereken yetkilidir. Çalıştırdığı gemiadamlarının ücret, prim, ikramiye ve bu nitelikteki her çeşit istihkakını özel olarak açılan banka hesapları vasıtasıyla ödeme zorunluluğuna tabi tutulan işverenler veya işveren vekilleri, gemiadamlarının ücret, prim, ikramiye ve bu nitelikteki her çeşit istihkakını özel olarak açılan banka hesapları dışında ödeyemezler. Gemiadamlarının ücret, prim, ikramiye ve bu nitelikteki her çeşit istihkakının özel olarak açılan banka hesaplarına yatırılmak suretiyle ödenmesine ilişkin diğer usûl ve esaslar anılan bakanlıklarca müştereken çıkarılacak yönetmelikle düzenlenir.\n (Değişik ikinci fıkra: 17/4/2008-5754/84 md.) Ücret, prim, ikramiye ve bu nitelikteki her çeşit istihkakın, gemi adamına hizmet akdinde gösterilen yer ve devrelerde tam olarak ödenmesi, işverenler ile işveren vekillerinin birinci fıkra uyarınca zorunlu tutulduğu durumlarda ise özel olarak açılan banka hesabına yatırılması mecburidir.\n Ücret ödeme devresi bir aydan fazla olamaz.\n Hizmet aktinin sona ermesi veya bozulması halinde işveren veya işveren vekili gemiadamının ücretini derhal ve tam olarak ödemek zorundadır.\n Haklı bir sebep olmaksızın işini yapmıyan gemiadamı, keyfiyet gemi jurnalina kaydedilmek ve jurnalı yoksa bir tutanakla belgelenmek şartiyle bu müddete ait ücretten mahrum edilir. Bu yüzden uğradığı zararın telafisi için işverenin tazminat istemek hakkı saklıdır.",
+      "preview": "(Değişik birinci fıkra: 17/4/2008-5754/84 md.) Ücret, prim, ikramiye ve bu nitelikteki her çeşit istihkak gemiadamına işi karşılığında işver…",
+      "kitap": null,
+      "kisim": null,
+      "bolum": null,
+      "ayirim": null,
+      "maddeBaslik": "Ücret:",
+      "sectionPath": [
+        "Ücret:"
+      ]
+    },
+    {
+      "id": "kanun:854:m:30",
+      "maddeKind": "madde",
+      "maddeNo": "30",
+      "heading": "Madde 30",
+      "text": "İşveren veya işveren vekili, gemiadamlarının istekleri halinde kendilerine hizmet aktinde yazılı esaslara göre avans ödemeye zorunludur.",
+      "preview": "İşveren veya işveren vekili, gemiadamlarının istekleri halinde kendilerine hizmet aktinde yazılı esaslara göre avans ödemeye zorunludur.",
+      "kitap": null,
+      "kisim": null,
+      "bolum": null,
+      "ayirim": null,
+      "maddeBaslik": "Avans:",
+      "sectionPath": [
+        "Avans:"
+      ]
+    },
+    {
+      "id": "kanun:854:m:31",
+      "maddeKind": "madde",
+      "maddeNo": "31",
+      "heading": "Madde 31",
+      "text": "Her gemide, noterlikçe tasdikli bir ücret ödeme defteri tutulur. Şu kadar ki, liman seferi yapan gemilerde bu defter işveren bürosunda da tutulabilir.\n Hizmet akitleri gereğince gemiadamlarına yapılacak her çeşit ödemelerin bu deftere kaydedilmesi ve kayıtların imza veya makbuzla belgelenmesi zorunludur.\n İstek halinde, bu kayıtların tasdikli bir örneği gemiadamına verilir. Bu muameleler her türlü resimden muaftır.\n Belgeye dayanmaksızın yapılan ödeme iddiaları muteber değildir.",
+      "preview": "Her gemide, noterlikçe tasdikli bir ücret ödeme defteri tutulur. Şu kadar ki, liman seferi yapan gemilerde bu defter işveren bürosunda da tu…",
+      "kitap": null,
+      "kisim": null,
+      "bolum": null,
+      "ayirim": null,
+      "maddeBaslik": "Ücret defteri:",
+      "sectionPath": [
+        "Ücret defteri:"
+      ]
+    },
+    {
+      "id": "kanun:854:m:32",
+      "maddeKind": "madde",
+      "maddeNo": "32",
+      "heading": "Madde 32",
+      "text": "Gemiadamının ücretinin ayda 240 lirası haczedilemez veya başkasına devir ve temlik olunamaz. Ancak gemiadamının bakmak zorunda olduğu aile üyeleri için hakim tarafından takdir edilecek miktar bu paraya dahil değildir. Bu kayıtlamalar, nafaka borcu alacaklılarının haklarını kaldırmaz.",
+      "preview": "Gemiadamının ücretinin ayda 240 lirası haczedilemez veya başkasına devir ve temlik olunamaz. Ancak gemiadamının bakmak zorunda olduğu aile ü…",
+      "kitap": null,
+      "kisim": null,
+      "bolum": null,
+      "ayirim": null,
+      "maddeBaslik": "Ücretin saklı kısmı:",
+      "sectionPath": [
+        "Ücretin saklı kısmı:"
+      ]
+    },
+    {
+      "id": "kanun:854:m:33",
+      "maddeKind": "madde",
+      "maddeNo": "33",
+      "heading": "Madde 33",
+      "text": "Bu kanuna tabi gemilerde iaşe servisi kurulması zorunludur. Gemiadamları hizmete başladığı günden başlıyarak hizmetten çıkış anına kadar gemide işveren tarafından bedelsiz iaşe olunurlar. İaşenin zorunlu sebeplerle uygulanamaması halinde işveren veya vekilince başkaca münasip bir iaşe imkanı sağlanır veya nakden ödeme usulü uygulanır.\n Limanlar içinde, şehir hatlarında, körfezlerde, göllerde ve akarsularda yolcu ve yük nakleden gemilerde, mavna, şat ve benzerlerinde iaşe servisi kurulması zorunlu değildir. Bu durumda işveren veya işveren vekili iaşe zorunluluğunu nakden ödemek suretiyle yerine getirir.",
+      "preview": "Bu kanuna tabi gemilerde iaşe servisi kurulması zorunludur. Gemiadamları hizmete başladığı günden başlıyarak hizmetten çıkış anına kadar gem…",
+      "kitap": null,
+      "kisim": null,
+      "bolum": null,
+      "ayirim": null,
+      "maddeBaslik": "İşveren hesabına iaşe:",
+      "sectionPath": [
+        "İşveren hesabına iaşe:"
+      ]
+    },
+    {
+      "id": "kanun:854:m:34",
+      "maddeKind": "madde",
+      "maddeNo": "34",
+      "heading": "Madde 34",
+      "text": "Gemiadamlarına işe giriş gününden başlıyarak işten çıkış gününe kadar rütbeleri, sayıları ve geminin büyüklüğüne uygun olarak ve yalnız kendileriyle eşyalarına ait olmak üzere gemi içinde ikamet yerleri bedelsiz olarak sağlanır.\n Herhangi bir zorunlu sebep yüzünden gemiadamlarının gemide ikametine imkan olmazsa işveren veya işveren vekili tarafından başka bir ikamet imkanı sağlanır.",
+      "preview": "Gemiadamlarına işe giriş gününden başlıyarak işten çıkış gününe kadar rütbeleri, sayıları ve geminin büyüklüğüne uygun olarak ve yalnız kend…",
+      "kitap": null,
+      "kisim": null,
+      "bolum": null,
+      "ayirim": null,
+      "maddeBaslik": "İkamet yeri sağlanması:",
+      "sectionPath": [
+        "İkamet yeri sağlanması:"
+      ]
+    },
+    {
+      "id": "kanun:854:m:35",
+      "maddeKind": "madde",
+      "maddeNo": "35",
+      "heading": "Madde 35",
+      "text": "(Değişik: 4/7/1988 - KHK - 336/1 md.; Aynen kabul: 7/2/1990 - 3612/53 md.)\n Bu Kanuna tabi gemilerde gemiadamları tahsis edilen yatma, dinlenme ve yemek yerleriyle gemide bulundurulacak ilaç, tıbbi alet ve malzeme ve revirlerde bulunması gereken şartlar ve gemiadamlarına verilecek iaşe maddelerinin ölçü ve nitelikleri bu şart ve niteliklerinden hangilerinin önemleri bakımından esasa ilişkin ve 1 inci derecede ve hangilerinin ise ikinci derecede sayılacakları ve iaşe ile ilgili ne çeşit kurullar kurulacağı ve bu kurulların görev ve yetkileri Çalışma ve Sosyal Güvenlik, Sağlık ve Sosyal Yardım ve Ulaştırma Bakanlıkları tarafından beraberce hazırlanacak bir yönetmelikte gösterilir.\n Gemiadamı, işveren veya işveren vekili tarafından sağlanacak iaşenin yukarıda sözü geçen yönetmelikte gösterilen ölçülerden noksan olması halinde aradaki farkın bedelini veya iaşenin hiç verilmemesi halinde tamamının bedelini işveren veya işveren vekilinden isteyebilir. Şu kadar ki gemiadamının iddiasını, tazminde esas teşkil edecek iaşe ve şartlardaki aksamanın vuku bulduğu günde durumu işveren veya işveren vekiline veya kaptana bildirmesi şarttır.",
+      "preview": "(Değişik: 4/7/1988 - KHK - 336/1 md.; Aynen kabul: 7/2/1990 - 3612/53 md.) Bu Kanuna tabi gemilerde gemiadamları tahsis edilen yatma, dinlen…",
+      "kitap": null,
+      "kisim": null,
+      "bolum": null,
+      "ayirim": null,
+      "maddeBaslik": "İkamet yerleri ve iaşe hakkında:",
+      "sectionPath": [
+        "İkamet yerleri ve iaşe hakkında:"
+      ]
+    },
+    {
+      "id": "kanun:854:m:36",
+      "maddeKind": "madde",
+      "maddeNo": "36",
+      "heading": "Madde 36",
+      "text": "35 inci maddede sözü geçen yönetmelik hükümleri:[8]\n a) 500 grostonilatodan daha küçük gemiler,\n b) Balık avı ve benzeri işlerde çalışan gemiler,\n c) Romorkörler,\n d) Yüzer vinçler,\n İçin uygulanmaz.",
+      "preview": "35 inci maddede sözü geçen yönetmelik hükümleri:[8] a) 500 grostonilatodan daha küçük gemiler, b) Balık avı ve benzeri işlerde çalışan gemil…",
+      "kitap": null,
+      "kisim": null,
+      "bolum": null,
+      "ayirim": null,
+      "maddeBaslik": "İstisna:",
+      "sectionPath": [
+        "İstisna:"
+      ]
+    },
+    {
+      "id": "kanun:854:m:37",
+      "maddeKind": "madde",
+      "maddeNo": "37",
+      "heading": "Madde 37",
+      "text": "Gemiadamlarının asgari ücretleri, İş Kanununun ilgili maddesi gereğince tespit olunur.",
+      "preview": "Gemiadamlarının asgari ücretleri, İş Kanununun ilgili maddesi gereğince tespit olunur.",
+      "kitap": null,
+      "kisim": null,
+      "bolum": null,
+      "ayirim": null,
+      "maddeBaslik": "Asgari ücret:",
+      "sectionPath": [
+        "Asgari ücret:"
+      ]
+    },
+    {
+      "id": "kanun:854:m:38",
+      "maddeKind": "madde",
+      "maddeNo": "38",
+      "heading": "Madde 38",
+      "text": "İşveren veya işveren vekili toplu iş sözleşmesi ve hizmet akitlerinde gösterilmiş olan sebepler dışında gemiadamına ücret kesintisi cezası uygulayamaz.\n Gemiadamı ücretlerinden ceza olarak yapılacak kesintilerin gemiadamına hemen sebepleriyle bildirilmesi gerekir. Gemiadamı ücretlerinden bu yolda yapılacak kesintiler bir ayda üç gündelikten fazla olamaz.\n Gemiadamlarından kesilen ücret kesimi cezaları hakkında İş Kanununun aynı konuya ilişkin diğer hükümleri uygulanır.",
+      "preview": "İşveren veya işveren vekili toplu iş sözleşmesi ve hizmet akitlerinde gösterilmiş olan sebepler dışında gemiadamına ücret kesintisi cezası u…",
+      "kitap": null,
+      "kisim": null,
+      "bolum": null,
+      "ayirim": null,
+      "maddeBaslik": "Ücret kesintisi:",
+      "sectionPath": [
+        "Ücret kesintisi:"
+      ]
+    },
+    {
+      "id": "kanun:854:m:39",
+      "maddeKind": "madde",
+      "maddeNo": "39",
+      "heading": "Madde 39",
+      "text": "Hizmet akitlerinde işveren veya işveren vekilinin tazminat karşılığı olarak gemiadamı ücretlerinden geçici olarak alıkoyacağı miktar on haftada eşit taksitlerle kesilmek üzere gemiadamının on günlük ücret tutarından fazla olamaz. Tazminat karşılığı bu kesintiler, bütün iş süresi içindir ve bundan bir miktar mahsubedilince yeniden aynı esaslar dairesinde kesinti yapılabilir.\n Tazminat kesintileri, mahsup yapılmasını gerektirecek bir zarar yapılmadan işten ayrılma hallerinde gemiadamına kesintisiz olarak geri verilir. Tazminat karşılığı geçici olarak alıkonulan paradan, mahsup yapılması gerektiği zaman gemiadamı isterse işveren kendisine mahsubun hangi esaslara göre yapıldığını anlatmak ve buna ait hesaplarla fatura ve başka belgeleri göstermek zorundadır.\n Tazminat karşılığı olarak alıkonulan paradan ancak o gemiadamı tarafından yapılan zarar için mahsup yapılır.\n Tazminat kesintileri milli bankalardan birisine en geç üç ay içinde yatırılır. Banka faizleriyle diğer gelirleri işçilere iadesine kesinti ile birlikte ödenir.",
+      "preview": "Hizmet akitlerinde işveren veya işveren vekilinin tazminat karşılığı olarak gemiadamı ücretlerinden geçici olarak alıkoyacağı miktar on haft…",
+      "kitap": null,
+      "kisim": null,
+      "bolum": null,
+      "ayirim": null,
+      "maddeBaslik": "Zarar karşılığı kesinti:",
+      "sectionPath": [
+        "Zarar karşılığı kesinti:"
+      ]
+    },
+    {
+      "id": "kanun:854:m:40",
+      "maddeKind": "madde",
+      "maddeNo": "40",
+      "heading": "Madde 40",
+      "text": "Aynı işveren emrinde veya aynı gemide bir takvim yılı içinde bir veya birkaç hizmet aktine dayanarak en az altı ay çalışmış olan gemiadamı, yıllık ücretli izine hak kazanır.\n İzin süresi, altı aydan bir yıla kadar hizmeti olan gemiadamları için 15 günden ve bir yıl ve daha fazla hizmeti olanlar için yılda bir aydan az olamaz.\n İzin işverenin uygun göreceği bir zamanda kullanılır. Bu haktan feragat edilemez.\n Bir aylık izin, tarafların rızasiyle aynı yıl içinde kullanılmak suretiyle ikiye bölünebilir.\n Gemiadamı, yıllık ücretli iznini yabancı bir memleket limanında veya hizmet aktinin yapılmış bulunduğu mahalden gayri bir yerde kullanmaya zorlanamaz.\n Gemiadamı, dilerse, işveren veya işveren vekilinden ücretli izne ilişkin olarak 7 güne kadar ücretsiz yol izni de istiyebilir.\n (İptal yedinci fıkra: Anayasa Mahkemesinin 1/2/2024 Tarihli ve E: 2022/154, K: 2024/33 Sayılı Kararı ile.)",
+      "preview": "Aynı işveren emrinde veya aynı gemide bir takvim yılı içinde bir veya birkaç hizmet aktine dayanarak en az altı ay çalışmış olan gemiadamı,…",
+      "kitap": null,
+      "kisim": null,
+      "bolum": null,
+      "ayirim": null,
+      "maddeBaslik": "Yıllık ücretli izin:",
+      "sectionPath": [
+        "Yıllık ücretli izin:"
+      ]
+    },
+    {
+      "id": "kanun:854:m:41",
+      "maddeKind": "madde",
+      "maddeNo": "41",
+      "heading": "Madde 41",
+      "text": "Liman hizmeti ve şehir hattı gemilerinde gemiadamının haftada altı günden fazla çalıştırılması yasaktır. Bunlardan hafta tatili günü çalıştırılanlara, haftanın diğer bir gününde nöbetleşe izin verilir.",
+      "preview": "Liman hizmeti ve şehir hattı gemilerinde gemiadamının haftada altı günden fazla çalıştırılması yasaktır. Bunlardan hafta tatili günü çalıştı…",
+      "kitap": null,
+      "kisim": null,
+      "bolum": null,
+      "ayirim": null,
+      "maddeBaslik": "Hafta tatili:",
+      "sectionPath": [
+        "Hafta tatili:"
+      ]
+    },
+    {
+      "id": "kanun:854:m:42",
+      "maddeKind": "madde",
+      "maddeNo": "42",
+      "heading": "Madde 42",
+      "text": "Bu kanunun uygulandığı gemilerde, haftanın tatilden önceki günlerinde sürekli olarak çalışmış bulunan gemiadamlarına çalışılmıyan hafta tatili günü için işveren veya işveren vekili tarafından bir iş karşılığı olmaksızın ve ücret ödeme şekline bakılmaksızın bir gündelik tutarında ücret ödenir.\n Evlenmelerde üç güne, ana ve babanın, karı ve kocanın, kardeş ve çocukların ölümünde iki güne kadar verilmesi gereken izin süreleriyle bir haftalık süre içinde kalmak üzere işveren tarafından verilen diğer izinler ve hekim raporlariyle verilen dinlenme ve hastalık izinleri, fiilen çalışılmış günler gibi hesaba katılır.\n Zorlayıcı ve ekonomik bir sebep olmadan gemideki çalışmaların haftanın bir veya birkaç gününde işveren veya işveren vekili tarafından tatil edilmesi halinde, haftanın çalışılmıyan günleri, ücretli hafta tatiline hak kazanmak için çalışılması gereken altı günün hesabında gözönünde tutulur.\n Gemide işin bir haftadan fazla süre ile tatil edilmesini gerektiren zorlayıcı sebepler ortaya çıktığı zaman, bu süreye rastlıyan hafta tatili ücreti, yarım gündelik tutarında ödenir.\n Kısa, yakın ve uzak sefer yapan gemilerde çalışan gemiadamlarına işveren veya işveren vekili tarafından geminin seferde bulunduğu müddete rastlıyan hafta tatili günleri için yukarıdaki şartlar aranmaksızın ve bir iş karşılığı olmaksızın, ayrıca bir gündelik tutarında hafta tatili ücreti ödenir.",
+      "preview": "Bu kanunun uygulandığı gemilerde, haftanın tatilden önceki günlerinde sürekli olarak çalışmış bulunan gemiadamlarına çalışılmıyan hafta tati…",
+      "kitap": null,
+      "kisim": null,
+      "bolum": null,
+      "ayirim": null,
+      "maddeBaslik": "Hafta tatili ücreti:",
+      "sectionPath": [
+        "Hafta tatili ücreti:"
+      ]
+    },
+    {
+      "id": "kanun:854:m:43",
+      "maddeKind": "madde",
+      "maddeNo": "43",
+      "heading": "Madde 43",
+      "text": "Bu kanun kapsamına giren gemilerde çalışan gemiadamlarına, 2739 sayılı Ulusal Bayram ve Genel Tatiller Kanunu ile anılan kanuna ek 3466 ve 221 sayılı kanunlarda yazılı bulunan ulusal bayram ve genel tatil günlerinde, bir iş karşılığı olmaksızın bir günlük ücreti tutarında tatil ücreti, ücret ödeme şekline bakılmaksızın ayrıca ödenir.",
+      "preview": "Bu kanun kapsamına giren gemilerde çalışan gemiadamlarına, 2739 sayılı Ulusal Bayram ve Genel Tatiller Kanunu ile anılan kanuna ek 3466 ve 2…",
+      "kitap": null,
+      "kisim": null,
+      "bolum": null,
+      "ayirim": null,
+      "maddeBaslik": "Genel tatil ücreti:",
+      "sectionPath": [
+        "Genel tatil ücreti:"
+      ]
+    },
+    {
+      "id": "kanun:854:m:44",
+      "maddeKind": "madde",
+      "maddeNo": "44",
+      "heading": "Madde 44",
+      "text": "Fazla çalışma karşılığı olarak alınan ücret ve primlerle sosyal yardımlar, ulusal bayram, hafta tatili ve genel tatil günleri için verilen ücretlerin tespitinde hesaba katılmaz.",
+      "preview": "Fazla çalışma karşılığı olarak alınan ücret ve primlerle sosyal yardımlar, ulusal bayram, hafta tatili ve genel tatil günleri için verilen ü…",
+      "kitap": null,
+      "kisim": null,
+      "bolum": null,
+      "ayirim": null,
+      "maddeBaslik": "Tatil ücretlerine girmeyen kısımlar:",
+      "sectionPath": [
+        "Tatil ücretlerine girmeyen kısımlar:"
+      ]
+    },
+    {
+      "id": "kanun:854:m:45",
+      "maddeKind": "madde",
+      "maddeNo": "45",
+      "heading": "Madde 45",
+      "text": "Gemiadamlarına, geçici iş göremezlik ödeneği ödenmesi gerektiği zamanlarda, geçici iş göremezlik süresine rastlıyan ulusal bayram, genel tatil ve hafta tatili ödenekleri, aynı ölçülerle ödeme yapan kurum ve sandıklar tarafından ödenir.",
+      "preview": "Gemiadamlarına, geçici iş göremezlik ödeneği ödenmesi gerektiği zamanlarda, geçici iş göremezlik süresine rastlıyan ulusal bayram, genel tat…",
+      "kitap": null,
+      "kisim": null,
+      "bolum": null,
+      "ayirim": null,
+      "maddeBaslik": "Geçici iş göremezlik:",
+      "sectionPath": [
+        "Geçici iş göremezlik:"
+      ]
+    },
+    {
+      "id": "kanun:854:m:46",
+      "maddeKind": "madde",
+      "maddeNo": "46",
+      "heading": "Madde 46",
+      "text": "Bu kanun kapsamına giren gemiadamlariyle bunların işveren veya işveren vekilleri arasında bu kanundan veya hizmet aktinden doğan davalar hakkında, 5521 sayılı kanun hükümleri uygulanır.\n Hizmet aktinde ayrıca bir hüküm yoksa dava, geminin bağlama limanında iş davalarını bakmaya yetkili mahkemede görülür.",
+      "preview": "Bu kanun kapsamına giren gemiadamlariyle bunların işveren veya işveren vekilleri arasında bu kanundan veya hizmet aktinden doğan davalar hak…",
+      "kitap": null,
+      "kisim": null,
+      "bolum": null,
+      "ayirim": null,
+      "maddeBaslik": "Görevli ve yetkili mahkeme:",
+      "sectionPath": [
+        "Görevli ve yetkili mahkeme:"
+      ]
+    },
+    {
+      "id": "kanun:854:m:47",
+      "maddeKind": "madde",
+      "maddeNo": "47",
+      "heading": "Madde 47",
+      "text": "Bildirimlerin ilgiliye yazılı olarak ve imza karşılığında yapılması gerekir. Bildirim yapılan kişi bunu imzalamazsa; durum o yerde tutanakla tespit edilir. Ancak, 7201 sayılı kanun kapsamına giren tebligat, anılan kanun hükümlerine göre yapılır.",
+      "preview": "Bildirimlerin ilgiliye yazılı olarak ve imza karşılığında yapılması gerekir. Bildirim yapılan kişi bunu imzalamazsa; durum o yerde tutanakla…",
+      "kitap": null,
+      "kisim": null,
+      "bolum": null,
+      "ayirim": null,
+      "maddeBaslik": "Bildirimler:",
+      "sectionPath": [
+        "Bildirimler:"
+      ]
+    },
+    {
+      "id": "kanun:854:m:48",
+      "maddeKind": "madde",
+      "maddeNo": "48",
+      "heading": "Madde 48",
+      "text": "Bu kanun hükümleri, gemiadamına daha elverişli hak ve menfaatler sağlayan kanun, toplu iş sözleşmesi, hizmet akti, örf ve adetlerden doğan haklara halel getirmez. Bu kanunun uygulanması sonucu olarak işverene düşen yükümlülükler, gemiadamlarının ücret vesair haklarının daha aşağı hadlere indirilmesine sebep tutulamaz.",
+      "preview": "Bu kanun hükümleri, gemiadamına daha elverişli hak ve menfaatler sağlayan kanun, toplu iş sözleşmesi, hizmet akti, örf ve adetlerden doğan h…",
+      "kitap": null,
+      "kisim": null,
+      "bolum": null,
+      "ayirim": null,
+      "maddeBaslik": "Saklı hükümler:",
+      "sectionPath": [
+        "Saklı hükümler:"
+      ]
+    },
+    {
+      "id": "kanun:854:m:49",
+      "maddeKind": "madde",
+      "maddeNo": "49",
+      "heading": "Madde 49",
+      "text": "Bu kanun hükümlerinin gereği gibi yürütülmesini sağlamak üzere yapılması gereken takip, denetim ve teftişler Çalışma Bakanlığı tarafından yapılır. Bu konuda İş Kanununun iş hayatının denetim ve teftişine ilişkin hükümleri ve aynı kanunun bu hükümlerle ilgili ceza maddeleri uygulanır.",
+      "preview": "Bu kanun hükümlerinin gereği gibi yürütülmesini sağlamak üzere yapılması gereken takip, denetim ve teftişler Çalışma Bakanlığı tarafından ya…",
+      "kitap": null,
+      "kisim": null,
+      "bolum": null,
+      "ayirim": null,
+      "maddeBaslik": "Denetim ve teftiş:",
+      "sectionPath": [
+        "Denetim ve teftiş:"
+      ]
+    },
+    {
+      "id": "kanun:854:m:50",
+      "maddeKind": "madde",
+      "maddeNo": "50",
+      "heading": "Madde 50",
+      "text": "(Değişik: 24/4/2003-4854/1 md.)\n a) Kanunun 5 inci maddesi gereğince gemi adamları ile yazılı akit yapmayan,\n b) (Mülga: 10/9/2014-6552/144 md.)\n c) (Değişik: 23/1/2008-5728/319 md.) 12 nci madde gereğince işinden ayrılan gemi adamına çalışma belgesi vermeyen, beş işçiye kadar (beş işçi dahil) işçi çalıştıran işveren veya vekili binbeşyüz Türk Lirası, daha fazla işçi çalıştıranlara üçbin Türk Lirası idarî para cezası verilir.\n ç) (Değişik: 23/1/2008-5728/319 md.) 13 üncü madde gereğince engelli ve eski hükümlü gemi adamı çalıştırma ile ilgili kanun ve yönetmelik hükümlerine uymayan işveren veya işveren vekiline çalıştırmadığı her engelli veya eski hükümlü ve çalıştırmadığı her ay için ikibin Türk Lirası idarî para cezası verilir.[9][10]",
+      "preview": "(Değişik: 24/4/2003-4854/1 md.) a) Kanunun 5 inci maddesi gereğince gemi adamları ile yazılı akit yapmayan, b) (Mülga: 10/9/2014-6552/144 md…",
+      "kitap": null,
+      "kisim": null,
+      "bolum": null,
+      "ayirim": null,
+      "maddeBaslik": "Ceza hükümleri:",
+      "sectionPath": [
+        "Ceza hükümleri:"
+      ]
+    },
+    {
+      "id": "kanun:854:m:51",
+      "maddeKind": "madde",
+      "maddeNo": "51",
+      "heading": "Madde 51",
+      "text": "(Değişik: 23/1/2008-5728/320 md.)\n 1. a) 20 nci madde gereğince gemiadamının kıdem tazminatını ödemeyen,\n b) 28 inci madde gereğince gemiadamının fazla çalışma ücretini ödemeyen,\n c) 29 uncu madde gereğince gemiadamının ücretini zamanında ve tam olarak ödemeyen,\n ç) 33 üncü maddede sözü geçen iaşe veya nakden ödeme zorunluluğuna uymayan,\n d) 37 nci maddede sözü geçen asgari ücretten aşağı ücret ödeyen,\n İşveren veya işveren vekili hakkında, bu durumda olan her gemiadamına karşılık, ödemediği meblağ veya temin ile mükellef olduğu iaşenin tekabül ettiği bedelin, bin Türk Lirasından aşağı olmamak üzere iki katı tutarında idarî para cezası verilir.\n 2. a) 21 ve 23 üncü maddeler gereğince gemiadamının iade zorunluluğuna uymayan,\n b) 26 ncı maddede gösterilen iş sürelerine uymayan,\n İşveren veya işveren vekili hakkında bin Türk Lirası idarî para cezası verilir.\n (Ek fıkra: 17/4/2008-5754/84 md.) Gemiadamının ücret, prim, ikramiye ve bu nitelikteki her çeşit istihkakını zorunlu tutulduğu halde özel olarak açılan banka hesabına yatırmayan işveren, işveren vekili hakkında, bu durumda olan her gemiadamı için bin iki yüz Yeni Türk Lirası idari para cezası verilir.\n Birinci fıkradaki fiiller yurt dışında işlendiği takdirde verilecek cezalar iki kat olarak uygulanır. 20 nci madde hükümlerine aykırı harekette bulunarak kıdem tazminatının öngörülen esaslar dışında veya saptanan miktar veya tavan aşılarak ödenmesi için emir veya talimat veren veya bu yolda hareket eden özel veya kamu kurumu veya kuruluşlarının yönetim kurulu üyeleri, genel müdür, müessese müdürü, muhasebe müdürü gibi yetkili sorumluları hakkında, fiil daha ağır cezayı gerektiren bir suç teşkil etmediği takdirde altı aydan iki seneye kadar hapis ve adlî para cezasına hükmolunur. Kanuna aykırı olarak fazla ödenen miktarın da ayrıca Hazine lehine re’sen tahsiline karar verilir.",
+      "preview": "(Değişik: 23/1/2008-5728/320 md.) 1. a) 20 nci madde gereğince gemiadamının kıdem tazminatını ödemeyen, b) 28 inci madde gereğince gemiadamı…",
+      "kitap": null,
+      "kisim": null,
+      "bolum": null,
+      "ayirim": null,
+      "maddeBaslik": "Ceza hükümleri:",
+      "sectionPath": [
+        "Ceza hükümleri:"
+      ]
+    },
+    {
+      "id": "kanun:854:m:52",
+      "maddeKind": "madde",
+      "maddeNo": "52",
+      "heading": "Madde 52",
+      "text": "Bu kanunun 35 inci maddesinde bahsi geçen yönetmelikte esasa müteallik ve birinci derecede olarak gösterilmiş bulunan vasıf ve şartlara riayet etmiyen işveren veya işveren vekili hakkında bin Türk Lirası idarî para cezası,[11]\n İkinci derecede olarak gösterilen vasıf ve şartlara riayet etmiyen işveren veya işveren vekili hakkında beşyüz Türk Lirası idarî para cezası verilir.[12]",
+      "preview": "Bu kanunun 35 inci maddesinde bahsi geçen yönetmelikte esasa müteallik ve birinci derecede olarak gösterilmiş bulunan vasıf ve şartlara riay…",
+      "kitap": null,
+      "kisim": null,
+      "bolum": null,
+      "ayirim": null,
+      "maddeBaslik": "Ceza hükümleri:",
+      "sectionPath": [
+        "Ceza hükümleri:"
+      ]
+    },
+    {
+      "id": "kanun:854:m:53",
+      "maddeKind": "madde",
+      "maddeNo": "53",
+      "heading": "Madde 53",
+      "text": "a) Gemiadamı ücretlerinden 38 inci maddede gösterilen esaslar dışında para cezası uygulıyan,\n b) 39 uncu maddede sözü edilen zarar karşılığı kesintileri, anılan madde hükümlerine uymıyarak yapan,\n c) 40 ıncı madde gereğince gemiadamına yıllık ücretli izin vermiyen,\n ç) 41 inci madde gereğince gemiadamlarına hafta tatili izni uygulamıyan,\n d) 42 nci madde gereğince gemiadamına hafta tatili ücretini ödemiyen,\n e) 43 üncü madde gereğince gemiadamına genel tatil ücretini ödemiyen,\n İşveren veya işveren vekili hakkında beşyüz Türk Lirası idarî para cezası verilir.12\n Bu kanundan doğan suçlara müteallik davalar, geminin bağlama limanındaki, sulh ceza mahkemelerinde görülür.\n (Mülga üçüncü fıkra: 23/1/2008-5728/578 md.)",
+      "preview": "a) Gemiadamı ücretlerinden 38 inci maddede gösterilen esaslar dışında para cezası uygulıyan, b) 39 uncu maddede sözü edilen zarar karşılığı…",
+      "kitap": null,
+      "kisim": null,
+      "bolum": null,
+      "ayirim": null,
+      "maddeBaslik": "Ceza hükümleri:",
+      "sectionPath": [
+        "Ceza hükümleri:"
+      ]
+    },
+    {
+      "id": "kanun:854:m:54",
+      "maddeKind": "madde",
+      "maddeNo": "54",
+      "heading": "Madde 54",
+      "text": "10/3/1954 tarihli 6379 sayılı ve 25/5/1959 tarihli 7283 sayılı kanunlar yürürlükten kaldırılmıştır.\n\n Yönetmelik:[13]",
+      "preview": "10/3/1954 tarihli 6379 sayılı ve 25/5/1959 tarihli 7283 sayılı kanunlar yürürlükten kaldırılmıştır. Yönetmelik:[13]",
+      "kitap": null,
+      "kisim": null,
+      "bolum": null,
+      "ayirim": null,
+      "maddeBaslik": "Yürürlükten kaldırılan kanunlar:",
+      "sectionPath": [
+        "Yürürlükten kaldırılan kanunlar:"
+      ]
+    },
+    {
+      "id": "kanun:854:m:55",
+      "maddeKind": "madde",
+      "maddeNo": "55",
+      "heading": "Madde 55",
+      "text": "Bu kanunun 35 inci maddesinde sözü geçen yönetmelik çıkarılıncaya kadar, bu kanunla yürürlükten kaldırılan 6379 sayılı Kanunun 31 inci maddesine dayanılarak çıkarılmış bulunan 7/2/1958 tarihli ve 4/9968 sayılı Bakanlar Kurulu Kararnamesiyle yürürlüğe konulan (Gemiadamlarının Sağlık, İaşe ve İkamet Şartlarını Gösterir Tüzük) ün aynı konulara ilişkin hükümleri uygulanır.",
+      "preview": "Bu kanunun 35 inci maddesinde sözü geçen yönetmelik çıkarılıncaya kadar, bu kanunla yürürlükten kaldırılan 6379 sayılı Kanunun 31 inci madde…",
+      "kitap": null,
+      "kisim": null,
+      "bolum": null,
+      "ayirim": null,
+      "maddeBaslik": "Yürürlükten kaldırılan kanunlar:",
+      "sectionPath": [
+        "Yürürlükten kaldırılan kanunlar:"
+      ]
+    },
+    {
+      "id": "kanun:854:m:ek:1",
+      "maddeKind": "ek",
+      "maddeNo": "1",
+      "heading": "Ek Madde 1",
+      "text": "(Ek: 24/4/2003-4854/2 md.; Değişik: 23/1/2008-5728/323 md.)\n Bu Kanunda yazılı idarî para cezaları geminin bağlama limanının bulunduğu yer Çalışma ve Sosyal Güvenlik Bakanlığı bölge müdürünce verilir.",
+      "preview": "(Ek: 24/4/2003-4854/2 md.; Değişik: 23/1/2008-5728/323 md.) Bu Kanunda yazılı idarî para cezaları geminin bağlama limanının bulunduğu yer Ça…",
+      "kitap": null,
+      "kisim": null,
+      "bolum": null,
+      "ayirim": null,
+      "maddeBaslik": "Yürürlükten kaldırılan kanunlar:",
+      "sectionPath": [
+        "Yürürlükten kaldırılan kanunlar:"
+      ]
+    },
+    {
+      "id": "kanun:854:m:gecici:1",
+      "maddeKind": "gecici",
+      "maddeNo": "1",
+      "heading": "Geçici Madde 1",
+      "text": "(4/7/1975 tarih ve 1926 sayılı Kanunun numarasız geçici maddesi olup teselsül için numaralandırılmıştır.)\n 20 nci maddenin son fıkrası gereğince tesisi öngörülen Fona ilişkin kanun çıkarılıncaya kadar, kıdem tazminatının işveren tarafından doğrudan doğruya ödenmesine devam olunur.\n\n Ek Geçici Madde 1 – (10/12/1982 tarih ve 2762 sayılı kanunla eklenen numarasız ek geçici madde olup, teselsül için numaralandırılmıştır.)\n Kıdem tazminatının yıllık tavan miktarı ile Devlet Memurları Kanununa tabi en yüksek Devlet memuruna 5434 sayılı T.C. Emekli Sandığı Kanunu hükümlerine göre bir hizmet yılı için ödenecek azami emekli ikramiye miktarı eşitleninceye kadar, beher yıl için ödenecek kıdem tazminatı tavanı 2 500 göstergenin bütçe kanunları ile belirlenen memur aylık katsayısı ile çarpılması suretiyle bulunacak tutar ile (75 000) yetmişbeşbin lira arasındaki farkın dörtte birinin (75 000) yetmişbeşbin liraya eklenmesi suretiyle tespit edilir.",
+      "preview": "(4/7/1975 tarih ve 1926 sayılı Kanunun numarasız geçici maddesi olup teselsül için numaralandırılmıştır.) 20 nci maddenin son fıkrası gereği…",
+      "kitap": null,
+      "kisim": null,
+      "bolum": null,
+      "ayirim": null,
+      "maddeBaslik": "Yürürlükten kaldırılan kanunlar:",
+      "sectionPath": [
+        "Yürürlükten kaldırılan kanunlar:"
+      ]
+    },
+    {
+      "id": "kanun:854:m:56",
+      "maddeKind": "madde",
+      "maddeNo": "56",
+      "heading": "Madde 56",
+      "text": "Bu kanun yayımı tarihinde yürürlüğe girer.",
+      "preview": "Bu kanun yayımı tarihinde yürürlüğe girer.",
+      "kitap": null,
+      "kisim": null,
+      "bolum": null,
+      "ayirim": null,
+      "maddeBaslik": "Yürürlükten kaldırılan kanunlar:",
+      "sectionPath": [
+        "Yürürlükten kaldırılan kanunlar:"
+      ]
+    },
+    {
+      "id": "kanun:854:m:57",
+      "maddeKind": "madde",
+      "maddeNo": "57",
+      "heading": "Madde 57",
+      "text": "Bu kanun hükümlerini Bakanlar Kurulu yürütür.\n\n 20/4/1967 TARİHLİ VE 854 SAYILI ANA KANUNA İŞLENEMİYEN GEÇİCİ MADDELER:\n\n 1) 17/10/1980 tarih ve 2319 sayılı Kanuna 5/5/1981 tarih ve 2457 sayılı Kanunla eklenen geçici maddeler:",
+      "preview": "Bu kanun hükümlerini Bakanlar Kurulu yürütür. 20/4/1967 TARİHLİ VE 854 SAYILI ANA KANUNA İŞLENEMİYEN GEÇİCİ MADDELER: 1) 17/10/1980 tarih ve…",
+      "kitap": null,
+      "kisim": null,
+      "bolum": null,
+      "ayirim": null,
+      "maddeBaslik": "Yürürlükten kaldırılan kanunlar:",
+      "sectionPath": [
+        "Yürürlükten kaldırılan kanunlar:"
+      ]
+    },
+    {
+      "id": "kanun:854:m:gecici:1",
+      "maddeKind": "gecici",
+      "maddeNo": "1",
+      "heading": "Geçici Madde 1",
+      "text": "12/9/1980 ile 23/10/1980 tarihleri arasında işten ayrılan hizmet erbabına ödenen veya hak edilmiş olmakla beraber henüz kısmen veya tamamen ödenmeyen kıdem tazminatlarının, 854 sayılı Deniz İş Kanununun 2319 sayılı Kanunla değişik 20 nci maddesi ile 1475 sayılı İş Kanununun 2320 sayılı Kanunla değişik 14 üncü maddesinde belirtilen esaslara göre hesaplanan miktarı veya tavanı aşan kısımları, işveren tarafından herhangi bir nedenle hizmet erbabından geri istenemez, alınamaz veya yapılacak kanuni kesintiler dışında eksik ödenemez.",
+      "preview": "12/9/1980 ile 23/10/1980 tarihleri arasında işten ayrılan hizmet erbabına ödenen veya hak edilmiş olmakla beraber henüz kısmen veya tamamen…",
+      "kitap": null,
+      "kisim": null,
+      "bolum": null,
+      "ayirim": null,
+      "maddeBaslik": "Yürürlükten kaldırılan kanunlar:",
+      "sectionPath": [
+        "Yürürlükten kaldırılan kanunlar:"
+      ]
+    },
+    {
+      "id": "kanun:854:m:gecici:2",
+      "maddeKind": "gecici",
+      "maddeNo": "2",
+      "heading": "Geçici Madde 2",
+      "text": "12/9/1980 ile 23/10/1980 tarihleri arasında işten ayrılan hizmet erbabına herhangi bir sebeple ödenmemiş bulunan kıdem tazminatlarının vergiden istisna edilecek kısmı, 193 sayılı Gelir Vergisi Kanununun 2320 sayılı Kanunla değişik 25 inci maddesinin 7 nci fıkrasına göre hesaplanır ve istisna miktarını aşan kısmı, ödemenin yapıldığı anda, Gelir Vergisi Kanununun işten ayrılma tarihinde yürürlükte bulunan hükümlerine göre işveren tarafından vergi tevkifatına tabi tutulur.",
+      "preview": "12/9/1980 ile 23/10/1980 tarihleri arasında işten ayrılan hizmet erbabına herhangi bir sebeple ödenmemiş bulunan kıdem tazminatlarının vergi…",
+      "kitap": null,
+      "kisim": null,
+      "bolum": null,
+      "ayirim": null,
+      "maddeBaslik": "Yürürlükten kaldırılan kanunlar:",
+      "sectionPath": [
+        "Yürürlükten kaldırılan kanunlar:"
+      ]
+    },
+    {
+      "id": "kanun:854:m:gecici:3",
+      "maddeKind": "gecici",
+      "maddeNo": "3",
+      "heading": "Geçici Madde 3",
+      "text": "12/9/1980 ile 23/10/1980 tarihleri arasında işten ayrılan hizmet erbabı ile ilgili olarak işverenler (Genel ve Katma Bütçeye dahil idareler, Mahalli İdareler, Kamu İktisadi Teşebbüsleri, Döner Sermayeler ve Fonlar ile diğer kamu kurumları dahil), her hizmet erbabı için ayrı ayrı olmak üzere, ödedikleri kıdem tazminatının miktarını, bunlar üzerinden tevkif ettikleri vergileri, işten ayrılan hizmet erbabına yaptıkları diğer yıllık ücret ödemeleri ile bunlar üzerinden tevkif ettikleri vergileri, hizmet erbabının kıdem tazminatına esas hizmet sürelerini, kıdem tazminatının vergiden istisna edilen miktarlarını ve hizmet erbabının adı soyadı ve adreslerini gösterir cetvelleri ikişer nüsha olarak düzenlemek, tasdik etmek ve bir nüshasını bu kanunun yayımı tarihinden itibaren bir ay içinde vergi sorumlusu sıfatıyla bağlı oldukları vergi dairelerine, diğer nüshasını Maliye Bakanlığına göndermek zorundadırlar.\n Vergi daireleri tarafından işverenlerce verilecek cetveller üzerinde 193 sayılı Gelir Vergisi Kanununun 2320 sayılı Kanunla değişik 25 inci maddesinin 7 nci fıkrası hükmü dikkate alınarak, her hizmet erbabı için ayrı ayrı hesaplanacak vergi farkları bir ay içinde ihbarname ile hizmet erbabına tebliğ edilir. Bu suretle tebliğ edilen vergi farkları tebliğ tarihinde 1980 takvim yılına ilişkin olarak ikmalen tarh olunmuş addolunur.\n Hizmet erbabı kendilerine tebliğ edilen bu vergileri, tebliğ tarihini takip eden 12 ay içinde ve 6 eşit taksitte kendilerine tebligatı yapan vergi dairesine yatırmak zorundadırlar. Vadesinde ödenmeyen vergiler için 6183 sayılı Amme Alacaklarının Tahsili Usulü Hakkındaki Kanun hükümleri uygulanır.\n 193 sayılı Gelir Vergisi Kanunu uyarınca yıllık beyanname veren mükelleflerin, bu madde hükmüne göre 1980 takvim yılı geliri olarak vergilendirilen ücretleri yıllık gelir vergisi beyannamelerine dahil edilmez ve bu maddeye göre ödenen vergiler yıllık beyannameler üzerinden hesaplanacak vergilerden mahsup edilmez.\n İşverenlerin (muhtasar beyanname verme yükümlülüğü olmayanlar hariç) eksik, yanlış veya yanıltıcı bilgi vermesi veya süresinde bilgi vermemesi nedeniyle zamanında tarh ve tahsil edilemeyen vergiler, 213 sayılı Vergi Usul Kanununun hükümlerine göre cezalı olarak işverenler adına tarh olunur. İşverenlerin münhasıran bu surette ödeyecekleri vergiler için asıl mükelleflere rücu hakkı saklıdır.\n\n 854 SAYILI KANUNA EK VE DEĞİŞİKLİK GETİREN MEVZUATIN\n YÜRÜRLÜĞE GİRİŞ TARİHİNİ GÖSTERİR LİSTE\n\n Değiştiren Kanunun/ KHK’nin Numarası\n 854 sayılı Kanunun değişen veya iptal edilen maddeleri\n Yürürlüğe Giriş Tarihi\n\n 1926\n 20\n 1/2/1974 tarihinden geçerli olmak üzere 12/7/1975\n\n 2319\n 20\n 12/9/1980\n\n 51\n 23/10/1980\n\n 2457\n 20\n 12/9/1980\n\n 2762\n 20, Ek Geçici Madde\n 1/1/1983\n\n KHK/336\n 35\n 5/8/1988\n\n 4854\n 51, 52, 53\n 6/5/2003\n\n 5728\n 50, 51, 52, 53, Ek Madde 1\n 8/2/2008\n\n 5754\n 6, 29, 51\n 8/5/2008\n\n 6462\n 13, 14, 50\n 3/5/2013\n\n 6552\n 11, 50\n 11/9/2014\n\n KHK/698\n 1, 13, 36, 50, 52, 55\n 24/6/2018 tarihinde birlikte yapılan Türkiye Büyük Millet Meclisi ve Cumhurbaşkanlığı seçimleri sonucunda Cumhurbaşkanının andiçerek göreve başladığı tarihte\n\n Anayasa Mahkemesinin 1/2/2024 Tarihli ve E: 2022/154, K: 2024/33 Sayılı Kararı\n 40\n Resmî Gazete’de yayımlanmasından başlayarak altı ay sonra (14/9/2024)\n\n [1] 193 sayılı “Gelir Vergisi Kanununun” 17/10/1980 tarih ve 2320 sayılı Kanunla değişik 25 inci maddesi gereğince bu Kanuna göre ödenen kıdem tazminatlarının hizmet erbabının 24 aylığını aşmayan miktarları (hizmet ifa etmeksizin ödenen ücretler) tazminat sayılmaz.\n\n [2] 2/7/2018 tarihli ve 698 sayılı KHK’nin 28 inci maddesi ile bu fıkrada yer alan “Bakanlar Kurulu” ibaresi “Cumhurbaşkanı” şeklinde değiştirilmiştir.\n\n [3] 17/4/2008 tarihli ve 5754 sayılı Kanunun 84 üncü maddesiyle bu bentte yer alan “yeri” ibaresinden sonra gelmek üzere “ile zorunlu tutulan işverenler için gemiadamının ücret, prim, ikramiye ve bu nitelikteki her çeşit istihkakının ödeneceği banka özel hesap numarası” ibaresi eklenmiştir.\n\n [4] 25/4/2013 tarihli ve 6462 sayılı Kanunun 1 inci maddesiyle, bu madde başlığında yer alan “Sakat” ibaresi “Engelli”, birinci fıkrasında yer alan “sakat” ibaresi “engelli” şeklinde değiştirilmiştir.\n\n [5] 2/7/2018 tarihli ve 698 sayılı KHK’nin 28 inci maddesi ile bu fıkrada yer alan “tüzüğün” ibaresi “yönetmeliğin” şeklinde değiştirilmiştir.\n\n [6] 25/4/2013 tarihli ve 6462 sayılı Kanunun 1 inci maddesiyle, bu alt bentte yer alan “engel bir hastalığa veya sakatlığa uğraması” ibaresi “engel bir hastalığa yakalanması veya engelli hâle gelmesi” şeklinde değiştirilmiştir.\n\n [7] 5/5/1981 tarih ve 2457 sayılı Kanunun 1 inci maddesi ile, bu fıkradaki “Bu Kanunun neşri tarihinden itibaren” ibaresi, “12/7/1975 tarihinden itibaren” şeklinde değiştirilmiştir.\n\n [8] 2/7/2018 tarihli ve 698 sayılı KHK’nin 28 inci maddesi ile bu fıkrada yer alan “tüzük” ibaresi “yönetmelik” şeklinde değiştirilmiştir.\n\n [9] 25/4/2013 tarihli ve 6462 sayılı Kanunun 1 inci maddesiyle, bu bentte yer alan “sakat” ibareleri “engelli” şeklinde değiştirilmiştir.\n\n [10] 2/7/2018 tarihli ve 698 sayılı KHK’nin 28 inci maddesi ile bu fıkrada yer alan “tüzük” ibaresi “yönetmelik” şeklinde değiştirilmiştir.\n\n [11] 2/7/2018 tarihli ve 698 sayılı KHK’nin 28 inci maddesi ile bu fıkrada yer alan “tüzükte” ibaresi “yönetmelikte” şeklinde değiştirilmiştir.\n\n [12] 24/4/2003 tarihli ve 4854 sayılı Kanunun 1 inci maddesiyle, 52 nci maddenin birinci fıkrasında yer alan \"2000 liradan az olmamak üzere ağır para cezası\" ibaresi \"yediyüzmilyon lira idarî para cezası\", ikinci fıkrada yer alan \"250 liradan az olmamak üzere ağır para cezası hükmolunur.\" ibaresi, \"üçyüzellimilyon lira idarî para cezası verilir.\"; 53 üncü maddede yer alan \"500 liradan aşağı olmamak üzere ağır para cezası hükmolunur.\" ibaresi, \"dörtyüzmilyon lira idarî para cezası verilir.\" şeklinde değiştirilmiştir. Daha sonra 23/1/2008 tarihili ve 5728 sayılı Kanunun 321 inci maddesiyle; 52 nci maddesinin birinci fıkrasında yer alan “yediyüzmilyon lira” ibaresi “bin Türk Lirası” ve ikinci fıkrasında yer alan “üçyüzellimilyon lira” ibaresi “beşyüz Türk Lirası” şeklinde, 322 nci maddesiyle; 53 üncü maddesinin birinci fıkrasında yer alan “dörtyüzmilyon lira” ibaresi “beşyüz Türk Lirası” şeklinde değiştirilmiştir.\n\n [13] 2/7/2018 tarihli ve 698 sayılı KHK’nin 28 inci maddesi ile bu maddenin başlığı “Tüzük:” iken “Yönetmelik” şeklinde ve birinci fıkrasında “sözü geçen” ibaresinden sonra yer alan “tüzük” ibaresi “yönetmelik” şeklinde, değiştirilmiştir.",
+      "preview": "12/9/1980 ile 23/10/1980 tarihleri arasında işten ayrılan hizmet erbabı ile ilgili olarak işverenler (Genel ve Katma Bütçeye dahil idareler,…",
+      "kitap": null,
+      "kisim": null,
+      "bolum": null,
+      "ayirim": null,
+      "maddeBaslik": "Yürürlükten kaldırılan kanunlar:",
+      "sectionPath": [
+        "Yürürlükten kaldırılan kanunlar:"
+      ]
+    }
+  ]
+}

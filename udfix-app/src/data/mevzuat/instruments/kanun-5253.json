@@ -1,0 +1,745 @@
+{
+  "id": "kanun:5253",
+  "kind": "kanun",
+  "no": "5253",
+  "title": "Dernekler Kanunu",
+  "shortName": "Dernekler Kanunu",
+  "aliases": [
+    "Dernekler Kanunu",
+    "5253"
+  ],
+  "tur": 1,
+  "tertip": 5,
+  "sourceUrl": "https://www.mevzuat.gov.tr/mevzuat?MevzuatNo=5253&MevzuatTur=1&MevzuatTertip=5",
+  "kabulTarihi": "4/11/2004",
+  "maddeCount": 43,
+  "maddeler": [
+    {
+      "id": "kanun:5253:m:1",
+      "maddeKind": "madde",
+      "maddeNo": "1",
+      "heading": "Madde 1",
+      "text": "Bu Kanunun amacı; dernekler, dernek şube veya temsilcilikleri, federasyonlar, konfederasyonlar, merkezleri yurt dışında bulunan dernekler ve vakıflar ile diğer kâr amacı gütmeyen kuruluşların Türkiye'deki şube veya temsilciliklerinin yasak ve izne tâbi faaliyetlerini, yükümlülüklerini, denetimlerini ve uygulanacak cezalar ile bunlara ilişkin diğer hususları düzenlemektir.",
+      "preview": "Bu Kanunun amacı; dernekler, dernek şube veya temsilcilikleri, federasyonlar, konfederasyonlar, merkezleri yurt dışında bulunan dernekler ve…",
+      "kitap": null,
+      "kisim": null,
+      "bolum": null,
+      "ayirim": null,
+      "maddeBaslik": null,
+      "sectionPath": []
+    },
+    {
+      "id": "kanun:5253:m:2",
+      "maddeKind": "madde",
+      "maddeNo": "2",
+      "heading": "Madde 2",
+      "text": "Bu Kanunun uygulanmasında;\n a) Dernek: Kazanç paylaşma dışında, kanunlarla yasaklanmamış belirli ve ortak bir amacı gerçekleştirmek üzere, en az yedi gerçek veya tüzel kişinin, bilgi ve çalışmalarını sürekli olarak birleştirmek suretiyle oluşturdukları tüzel kişiliğe sahip kişi topluluklarını,\n b) Derneğin yerleşim yeri: Derneğin yönetim faaliyetlerinin yürütüldüğü yeri,\n c) Dernek merkezi: Derneğin yerleşim yerinin bulunduğu il veya ilçeyi,\n d) Mülkî idare amiri: Dernek merkezinin bulunduğu yerin vali veya kaymakamını,\n e) Dernekler birimi: İllerde il dernekler müdürlüğünü, ilçelerde dernekler büro şefliğini,\n f) Plâtform: Derneklerin kendi aralarında veya vakıf, sendika ve benzeri sivil toplum kuruluşlarıyla ortak bir amacı gerçekleştirmek üzere girişim, hareket ve benzeri adlarla oluşturdukları tüzel kişiliği bulunmayan geçici nitelikteki birliktelikleri,\n g) Üst kuruluş: Derneklerin oluşturduğu tüzel kişiliği bulunan federasyonları ve federasyonların oluşturduğu konfederasyonları,\n h) Şube: Dernek faaliyetlerinin yürütülebilmesi için bir derneğe bağlı olarak açılan, tüzel kişiliği olmayan ve bünyesinde organları bulunan alt birimi,\n i) Temsilcilik: Dernek faaliyetlerinin yürütülebilmesi için bir derneğe bağlı olarak açılan, tüzel kişiliği ve bünyesinde organları bulunmayan alt birimi,\n j) (Ek:21/11/2024-7533/29 md.) Lokal: Derneklerin tüzüklerindeki amaçları gerçekleştirmek üzere mülki idare amiri izni ile açılan, üyelerinin bir araya geldiği sosyal mekânı,\n İfade eder.",
+      "preview": "Bu Kanunun uygulanmasında; a) Dernek: Kazanç paylaşma dışında, kanunlarla yasaklanmamış belirli ve ortak bir amacı gerçekleştirmek üzere, en…",
+      "kitap": null,
+      "kisim": null,
+      "bolum": null,
+      "ayirim": null,
+      "maddeBaslik": "Tanımlar",
+      "sectionPath": [
+        "Tanımlar"
+      ]
+    },
+    {
+      "id": "kanun:5253:m:3",
+      "maddeKind": "madde",
+      "maddeNo": "3",
+      "heading": "Madde 3",
+      "text": "Fiil ehliyetine sahip gerçek veya tüzel kişiler, önceden izin almaksızın dernek kurma hakkına sahiptir.\n Ancak, Türk Silâhlı Kuvvetleri ve kolluk kuvvetleri mensupları ile kamu kurum ve kuruluşlarının memur statüsündeki görevlileri hakkında özel kanunlarında getirilen kısıtlamalar saklıdır.\n (Ek fıkra:27/12/2020-7262/12 md.) 26/9/2004 tarihli ve 5237 sayılı Türk Ceza Kanununun 53 üncü maddesinde belirtilen süreler geçmiş veya affa uğramış olsa bile; 7/2/2013 tarihli ve 6415 sayılı Terörizmin Finansmanının Önlenmesi Hakkında Kanun kapsamında yer alan suçlar ile Türk Ceza Kanununda yer alan uyuşturucu veya uyarıcı madde imal ve ticareti veya suçtan kaynaklanan malvarlığı değerlerini aklama suçlarından mahkûm olanlar derneklerin genel kurul dışındaki organlarında görev alamazlar. Dernek organlarına seçildikten sonra yukarıdaki suçlardan mahkûm olanların görevi sona erer. Yasaklanmış hakların geri verilmesi kararı verildiği takdirde bu fıkra hükümleri uygulanmaz.\n Onbeş yaşını bitiren ayırt etme gücüne sahip küçükler; toplumsal, ruhsal, ahlakî, bedensel ve zihinsel yetenekleri ile spor, eğitim ve öğretim haklarını, sosyal ve kültürel varlıklarını, aile yapısını ve özel yaşantılarını korumak ve geliştirmek amacıyla yasal temsilcilerinin yazılı izni ile çocuk dernekleri kurabilir veya kurulmuş çocuk derneklerine üye olabilirler.\n Oniki yaşını bitiren küçükler yasal temsilcilerinin izni ile çocuk derneklerine üye olabilirler ancak yönetim ve denetim kurullarında görev alamazlar.\n Çocuk derneklerine onsekiz yaşından büyükler kurucu veya üye olamazlar.",
+      "preview": "Fiil ehliyetine sahip gerçek veya tüzel kişiler, önceden izin almaksızın dernek kurma hakkına sahiptir. Ancak, Türk Silâhlı Kuvvetleri ve ko…",
+      "kitap": null,
+      "kisim": null,
+      "bolum": "İKİNCİ BÖLÜM · Genel Hükümler",
+      "ayirim": null,
+      "maddeBaslik": "Dernek kurma hakkı",
+      "sectionPath": [
+        "İKİNCİ BÖLÜM · Genel Hükümler",
+        "Dernek kurma hakkı"
+      ]
+    },
+    {
+      "id": "kanun:5253:m:4",
+      "maddeKind": "madde",
+      "maddeNo": "4",
+      "heading": "Madde 4",
+      "text": "Her derneğin bir tüzüğü bulunur. Bu tüzükte aşağıda gösterilen hususların belirtilmesi zorunludur:\n a) Derneğin adı ve merkezi.\n b) Derneğin amacı ve bu amacı gerçekleştirmek için dernekçe sürdürülecek çalışma konuları ve çalışma biçimleri ile faaliyet alanı.\n c) Derneğe üye olma ve üyelikten çıkmanın şart ve şekilleri.\n d) Genel kurulun toplanma şekli ve zamanı.\n e) Genel kurulun görevleri, yetkileri, oy kullanma ve karar alma usul ve şekilleri.\n f) Yönetim ve denetim kurullarının görev ve yetkileri, ne suretle seçileceği, asıl ve yedek üye sayısı.\n g) Derneğin şubesinin bulunup bulunmayacağı, bulunacak ise şubelerin nasıl kurulacağı, görev ve yetkileri ile dernek genel kurulunda nasıl temsil edileceği.\n h) Üyelerin ödeyecekleri giriş ve yıllık aidat miktarının belirlenme şekli.\n ı) Derneğin borçlanma usulleri.\n j) Derneğin iç denetim şekilleri.\n k) Tüzüğün ne şekilde değiştirileceği.\n l) Derneğin feshi halinde mal varlığının tasfiye şekli.",
+      "preview": "Her derneğin bir tüzüğü bulunur. Bu tüzükte aşağıda gösterilen hususların belirtilmesi zorunludur: a) Derneğin adı ve merkezi. b) Derneğin a…",
+      "kitap": null,
+      "kisim": null,
+      "bolum": "İKİNCİ BÖLÜM · Genel Hükümler",
+      "ayirim": null,
+      "maddeBaslik": "Dernek tüzüğü",
+      "sectionPath": [
+        "İKİNCİ BÖLÜM · Genel Hükümler",
+        "Dernek tüzüğü"
+      ]
+    },
+    {
+      "id": "kanun:5253:m:5",
+      "maddeKind": "madde",
+      "maddeNo": "5",
+      "heading": "Madde 5",
+      "text": "Dernekler, tüzüklerinde gösterilen amaçları gerçekleştirmek üzere uluslararası faaliyette veya işbirliğinde bulunabilir, yurt dışında temsilcilik veya şube açabilir, yurt dışında dernek veya üst kuruluş kurabilir veya yurt dışında kurulmuş dernek veya kuruluşlara katılabilirler.\n Yabancı dernekler, Dışişleri Bakanlığının görüşü alınmak suretiyle İçişleri Bakanlığının izniyle Türkiye'de faaliyette veya işbirliğinde bulunabilir, temsilcilik veya şube açabilir, dernek veya üst kuruluş kurabilir veya kurulmuş dernek veya üst kuruluşlara katılabilirler.",
+      "preview": "Dernekler, tüzüklerinde gösterilen amaçları gerçekleştirmek üzere uluslararası faaliyette veya işbirliğinde bulunabilir, yurt dışında temsil…",
+      "kitap": null,
+      "kisim": null,
+      "bolum": "İKİNCİ BÖLÜM · Genel Hükümler",
+      "ayirim": null,
+      "maddeBaslik": "Uluslararası faaliyet",
+      "sectionPath": [
+        "İKİNCİ BÖLÜM · Genel Hükümler",
+        "Uluslararası faaliyet"
+      ]
+    },
+    {
+      "id": "kanun:5253:m:6",
+      "maddeKind": "madde",
+      "maddeNo": "6",
+      "heading": "Madde 6",
+      "text": "Tüzel kişinin üye olması halinde, tüzel kişinin yönetim kurulu başkanı veya temsille görevlendireceği kişi oy kullanır. Bu kişinin başkanlık veya temsil görevi sona erdiğinde, tüzel kişi adına oy kullanacak kimse yeniden belirlenir.",
+      "preview": "Tüzel kişinin üye olması halinde, tüzel kişinin yönetim kurulu başkanı veya temsille görevlendireceği kişi oy kullanır. Bu kişinin başkanlık…",
+      "kitap": null,
+      "kisim": null,
+      "bolum": "İKİNCİ BÖLÜM · Genel Hükümler",
+      "ayirim": null,
+      "maddeBaslik": "Tüzel kişilerin oy kullanması",
+      "sectionPath": [
+        "İKİNCİ BÖLÜM · Genel Hükümler",
+        "Tüzel kişilerin oy kullanması"
+      ]
+    },
+    {
+      "id": "kanun:5253:m:7",
+      "maddeKind": "madde",
+      "maddeNo": "7",
+      "heading": "Madde 7",
+      "text": "Şube genel kurulları olağan toplantılarını merkez genel kurulu toplantısından en az iki ay önce bitirmek zorundadırlar.",
+      "preview": "Şube genel kurulları olağan toplantılarını merkez genel kurulu toplantısından en az iki ay önce bitirmek zorundadırlar.",
+      "kitap": null,
+      "kisim": null,
+      "bolum": "İKİNCİ BÖLÜM · Genel Hükümler",
+      "ayirim": null,
+      "maddeBaslik": "Şube genel kurulları",
+      "sectionPath": [
+        "İKİNCİ BÖLÜM · Genel Hükümler",
+        "Şube genel kurulları"
+      ]
+    },
+    {
+      "id": "kanun:5253:m:8",
+      "maddeKind": "madde",
+      "maddeNo": "8",
+      "heading": "Madde 8",
+      "text": "Federasyonların üye sayısının beşten ve konfederasyonların üye sayısının üçten aşağı düştüğü ve bu durum üç ay içinde giderilmediği takdirde haklarında kendiliğinden sona erme hükümleri uygulanır.\n Federasyonlar ve konfederasyonlar temsilcilik dışında her ne ad altında olursa olsun, başka bir örgüt kuramazlar.",
+      "preview": "Federasyonların üye sayısının beşten ve konfederasyonların üye sayısının üçten aşağı düştüğü ve bu durum üç ay içinde giderilmediği takdirde…",
+      "kitap": null,
+      "kisim": null,
+      "bolum": "İKİNCİ BÖLÜM · Genel Hükümler",
+      "ayirim": null,
+      "maddeBaslik": "Federasyon ve konfederasyonlar",
+      "sectionPath": [
+        "İKİNCİ BÖLÜM · Genel Hükümler",
+        "Federasyon ve konfederasyonlar"
+      ]
+    },
+    {
+      "id": "kanun:5253:m:9",
+      "maddeKind": "madde",
+      "maddeNo": "9",
+      "heading": "Madde 9",
+      "text": "Derneklerde iç denetim esastır. Genel kurul, yönetim kurulu veya denetim kurulu tarafından iç denetim yapılabileceği gibi, bağımsız denetim kuruluşlarına da denetim yaptırılabilir. Genel kurul, yönetim kurulu veya bağımsız denetim kuruluşlarınca denetim yapılmış olması, denetim kurulunun yükümlülüğünü ortadan kaldırmaz.\n Denetim kurulu; derneğin, tüzüğünde gösterilen amaç ve amacın gerçekleştirilmesi için sürdürüleceği belirtilen çalışma konuları doğrultusunda faaliyet gösterip göstermediğini, defter, hesap ve kayıtların mevzuata ve dernek tüzüğüne uygun olarak tutulup tutulmadığını, dernek tüzüğünde tespit edilen esas ve usullere göre ve bir yılı geçmeyen aralıklarla denetler ve denetim sonuçlarını bir rapor halinde yönetim kuruluna ve toplandığında genel kurula sunar.\n Denetim kurulu üyelerinin istemi üzerine, her türlü bilgi, belge ve kayıtların, dernek yetkilileri tarafından gösterilmesi veya verilmesi, yönetim yerleri, müesseseler ve eklentilerine girme isteğinin yerine getirilmesi zorunludur.",
+      "preview": "Derneklerde iç denetim esastır. Genel kurul, yönetim kurulu veya denetim kurulu tarafından iç denetim yapılabileceği gibi, bağımsız denetim…",
+      "kitap": null,
+      "kisim": null,
+      "bolum": "İKİNCİ BÖLÜM · Genel Hükümler",
+      "ayirim": null,
+      "maddeBaslik": "İç denetim",
+      "sectionPath": [
+        "İKİNCİ BÖLÜM · Genel Hükümler",
+        "İç denetim"
+      ]
+    },
+    {
+      "id": "kanun:5253:m:10",
+      "maddeKind": "madde",
+      "maddeNo": "10",
+      "heading": "Madde 10",
+      "text": "Dernekler, tüzüklerinde gösterilen amaçları gerçekleştirmek üzere, benzer amaçlı derneklerden, siyasi partilerden, işçi ve işveren sendikalarından ve meslekî kuruluşlardan maddî yardım alabilir ve adı geçen kurumlara maddî yardımda bulunabilirler.[2]\n 5072 sayılı Dernek ve Vakıfların Kamu Kurum ve Kuruluşları ile İlişkilerine Dair Kanun hükümleri saklı kalmak üzere, dernekler kamu kurum ve kuruluşları ile görev alanlarına giren konularda ortak projeler yürütebilirler. Bu projelerde kamu kurum ve kuruluşları, proje maliyetlerinin en fazla yüzde ellisi oranında aynî veya nakdî katkı sağlayabilirler. (Ek cümle: 18/2/2009-5838/7 md.) 4857 sayılı İş Kanununun 30 uncu maddesi çerçevesinde engellilerin ve eski hükümlülerin mesleki eğitim ve mesleki rehabilitasyonu, kendi işlerini kurmaları, engellilerin iş bulmasını sağlayacak destek teknolojilerine ilişkin projeler ile benzeri projelerde bu oran aranmaz.[3]",
+      "preview": "Dernekler, tüzüklerinde gösterilen amaçları gerçekleştirmek üzere, benzer amaçlı derneklerden, siyasi partilerden, işçi ve işveren sendikala…",
+      "kitap": null,
+      "kisim": null,
+      "bolum": "İKİNCİ BÖLÜM · Genel Hükümler",
+      "ayirim": null,
+      "maddeBaslik": "Yardım ve işbirliği",
+      "sectionPath": [
+        "İKİNCİ BÖLÜM · Genel Hükümler",
+        "Yardım ve işbirliği"
+      ]
+    },
+    {
+      "id": "kanun:5253:m:11",
+      "maddeKind": "madde",
+      "maddeNo": "11",
+      "heading": "Madde 11",
+      "text": "Dernek gelirleri alındı belgesi ile toplanır ve giderler harcama belgesi ile yapılır. Dernek gelirlerinin bankalar aracılığı ile toplanması halinde banka tarafından düzenlenen dekont veya hesap özeti gibi belgeler alındı belgesi yerine geçer. Alındı belgeleri ve harcama belgelerinin saklama süresi beş yıldır.\n Dernek gelirlerinin toplanmasında kullanılacak alındı belgeleri yönetim kurulu kararı ile bastırılır. Alındı belgelerinin şekli, bastırılması, onaylanması ve kullanılması ile dernek gelirlerinin toplanmasında kullanılacak yetki belgesine ilişkin hususlar yönetmelikte düzenlenir.\n Dernek gelirlerini toplayacak kişiler yönetim kurulu kararıyla belirlenir ve bunlar adına yetki belgesi düzenlenir.\n Dernekler tarafından tutulacak defter ve kayıtlar ile ilgili usul ve esaslar yönetmelikte düzenlenir. Bu defterlerin dernekler biriminden ya da noterden onaylı olması zorunludur.",
+      "preview": "Dernek gelirleri alındı belgesi ile toplanır ve giderler harcama belgesi ile yapılır. Dernek gelirlerinin bankalar aracılığı ile toplanması…",
+      "kitap": null,
+      "kisim": null,
+      "bolum": "İKİNCİ BÖLÜM · Genel Hükümler",
+      "ayirim": null,
+      "maddeBaslik": "Gelir ve giderlerde usul ile dernek defterleri",
+      "sectionPath": [
+        "İKİNCİ BÖLÜM · Genel Hükümler",
+        "Gelir ve giderlerde usul ile dernek defterleri"
+      ]
+    },
+    {
+      "id": "kanun:5253:m:12",
+      "maddeKind": "madde",
+      "maddeNo": "12",
+      "heading": "Madde 12",
+      "text": "Dernekler, tüzüklerinde yazılı olmak ve sağlanan kârı üyelerine paylaştırmamak, gelir, faiz veya başka adlarla üyelerine aktarmamak şartıyla üyelerinin yiyecek, giyecek gibi zarurî ihtiyaç maddelerini ve diğer mal ve hizmetlerle kısa vadeli kredi ihtiyaçlarını karşılamak amacıyla sandık kurabilirler.\n Bu sandıkların kuruluş ve çalışma esasları yönetmelikte düzenlenir.",
+      "preview": "Dernekler, tüzüklerinde yazılı olmak ve sağlanan kârı üyelerine paylaştırmamak, gelir, faiz veya başka adlarla üyelerine aktarmamak şartıyla…",
+      "kitap": null,
+      "kisim": null,
+      "bolum": "İKİNCİ BÖLÜM · Genel Hükümler",
+      "ayirim": null,
+      "maddeBaslik": "Sandık kurma",
+      "sectionPath": [
+        "İKİNCİ BÖLÜM · Genel Hükümler",
+        "Sandık kurma"
+      ]
+    },
+    {
+      "id": "kanun:5253:m:13",
+      "maddeKind": "madde",
+      "maddeNo": "13",
+      "heading": "Madde 13",
+      "text": "(…)[4] dernek hizmetleri gönüllüler veya yönetim kurulu kararı ile göreve başlatılan ücretliler aracılığıyla yürütülür.\n Dernek yönetim ve denetim kurullarının kamu görevlisi olmayan başkan ve üyelerine ücret verilebilir. Verilecek ücret ile her türlü ödenek, yolluk ve tazminatlar genel kurul tarafından tespit olunur. Yönetim ve denetim kurulu üyeleri dışındaki üyelere ücret, huzur hakkı veya başka bir ad altında herhangi bir karşılık ödenemez.\n Dernek hizmetleri için görevlendirilecek üyelere verilecek gündelik ve yolluk miktarları genel kurul tarafından tespit olunur.",
+      "preview": "(…)[4] dernek hizmetleri gönüllüler veya yönetim kurulu kararı ile göreve başlatılan ücretliler aracılığıyla yürütülür. Dernek yönetim ve de…",
+      "kitap": null,
+      "kisim": null,
+      "bolum": "İKİNCİ BÖLÜM · Genel Hükümler",
+      "ayirim": null,
+      "maddeBaslik": "Dernek görevlileri ve ücretleri",
+      "sectionPath": [
+        "İKİNCİ BÖLÜM · Genel Hükümler",
+        "Dernek görevlileri ve ücretleri"
+      ]
+    },
+    {
+      "id": "kanun:5253:m:14",
+      "maddeKind": "madde",
+      "maddeNo": "14",
+      "heading": "Madde 14",
+      "text": "(Mülga:22/4/2022-7405/58 md.)",
+      "preview": "(Mülga:22/4/2022-7405/58 md.)",
+      "kitap": null,
+      "kisim": null,
+      "bolum": "İKİNCİ BÖLÜM · Genel Hükümler",
+      "ayirim": null,
+      "maddeBaslik": "Gençlik ve spor kulüpleri",
+      "sectionPath": [
+        "İKİNCİ BÖLÜM · Genel Hükümler",
+        "Gençlik ve spor kulüpleri"
+      ]
+    },
+    {
+      "id": "kanun:5253:m:15",
+      "maddeKind": "madde",
+      "maddeNo": "15",
+      "heading": "Madde 15",
+      "text": "Genel kurul kararı ile feshedilen veya kendiliğinden sona erdiği tespit edilen derneğin para, mal ve haklarının tasfiyesi, tüzüğünde gösterilen esaslara göre yapılır. Tüzükte tasfiyenin ne şekilde yapılacağının genel kurul kararına bırakıldığı hallerde, genel kurul tarafından bir karar alınmamış veya genel kurul toplanamamışsa, yahut dernek mahkeme kararı ile feshedilmişse, derneğin bütün para, mal ve hakları, mahkeme kararıyla derneğin amacına en yakın ve kapatıldığı tarihte en fazla üyeye sahip derneğe devredilir.\n Kendiliğinden sona erdiği tespit edilen veya feshine karar verilen derneklerin tasfiye ve devir işlemleri tamamlandıktan sonra dernekler kütüğündeki kayıtları silinir.\n Feshedilmesi için hakkında soruşturma veya dava açılmış olan bir dernek, fesih ve buna bağlı olarak dernek mallarının devrine dair bir karar aldığı takdirde, soruşturma ve dava sonuçlanıncaya kadar devir işlemi yapılmaz.\n Tasfiye işlemleri sonucu derneklerin defter ve belgelerinin saklanma usulü, süresi ve tasfiyeye ilişkin gerekli belgeler yönetmelikte düzenlenir.",
+      "preview": "Genel kurul kararı ile feshedilen veya kendiliğinden sona erdiği tespit edilen derneğin para, mal ve haklarının tasfiyesi, tüzüğünde gösteri…",
+      "kitap": null,
+      "kisim": null,
+      "bolum": "İKİNCİ BÖLÜM · Genel Hükümler",
+      "ayirim": null,
+      "maddeBaslik": "Tasfiye",
+      "sectionPath": [
+        "İKİNCİ BÖLÜM · Genel Hükümler",
+        "Tasfiye"
+      ]
+    },
+    {
+      "id": "kanun:5253:m:16",
+      "maddeKind": "madde",
+      "maddeNo": "16",
+      "heading": "Madde 16",
+      "text": "Basımevleri, dernek gelirlerinin toplanmasında kullanılacak alındı belgelerini bastıktan sonra, bu belgelerin seri ve sıra numaralarını onbeş gün içinde mülkî idare amirliğine bildirmek zorundadır.",
+      "preview": "Basımevleri, dernek gelirlerinin toplanmasında kullanılacak alındı belgelerini bastıktan sonra, bu belgelerin seri ve sıra numaralarını onbe…",
+      "kitap": null,
+      "kisim": null,
+      "bolum": "İKİNCİ BÖLÜM · Genel Hükümler",
+      "ayirim": null,
+      "maddeBaslik": "Basımevlerinin sorumluluğu",
+      "sectionPath": [
+        "İKİNCİ BÖLÜM · Genel Hükümler",
+        "Basımevlerinin sorumluluğu"
+      ]
+    },
+    {
+      "id": "kanun:5253:m:17",
+      "maddeKind": "madde",
+      "maddeNo": "17",
+      "heading": "Madde 17",
+      "text": "Derneklerin iş ve işlemlerinde, bu Kanun ve 4721 sayılı Türk Medenî Kanunu ile bunlara dayanılarak çıkarılan yönetmeliklerin hükümlerine aykırılık tespit edilmesi halinde, konusu suç teşkil etmeyen hata ve noksanlıkların mülkî idare amirinin yazılı istemi üzerine, ilgili dernek tarafından otuz gün içerisinde giderilmesi zorunludur.",
+      "preview": "Derneklerin iş ve işlemlerinde, bu Kanun ve 4721 sayılı Türk Medenî Kanunu ile bunlara dayanılarak çıkarılan yönetmeliklerin hükümlerine ayk…",
+      "kitap": null,
+      "kisim": null,
+      "bolum": "İKİNCİ BÖLÜM · Genel Hükümler",
+      "ayirim": null,
+      "maddeBaslik": "Hata ve noksanlıkların giderilmesi",
+      "sectionPath": [
+        "İKİNCİ BÖLÜM · Genel Hükümler",
+        "Hata ve noksanlıkların giderilmesi"
+      ]
+    },
+    {
+      "id": "kanun:5253:m:18",
+      "maddeKind": "madde",
+      "maddeNo": "18",
+      "heading": "Madde 18",
+      "text": "Bu Kanunla ilgili olarak hukuk mahkemelerinde bakılacak davalarda basit yargılama usulü uygulanır.\n (Mülga ikinci fıkra: 23/1/2008-5728/578 md.)",
+      "preview": "Bu Kanunla ilgili olarak hukuk mahkemelerinde bakılacak davalarda basit yargılama usulü uygulanır. (Mülga ikinci fıkra: 23/1/2008-5728/578 m…",
+      "kitap": null,
+      "kisim": null,
+      "bolum": "İKİNCİ BÖLÜM · Genel Hükümler",
+      "ayirim": null,
+      "maddeBaslik": "Yargılama usulü",
+      "sectionPath": [
+        "İKİNCİ BÖLÜM · Genel Hükümler",
+        "Yargılama usulü"
+      ]
+    },
+    {
+      "id": "kanun:5253:m:19",
+      "maddeKind": "madde",
+      "maddeNo": "19",
+      "heading": "Madde 19",
+      "text": "Dernekler, yıl sonu itibarıyla faaliyetlerini, gelir ve gider işlemlerinin sonuçlarını düzenleyecekleri beyanname ile her yıl Nisan ayı sonuna kadar mülkî idare amirliğine vermekle yükümlüdürler. Beyannamenin düzenlenmesine ilişkin esas ve usuller yönetmelikte düzenlenir.\n Gerekli görülen hallerde, derneklerin tüzüklerinde gösterilen amaçlar doğrultusunda faaliyet gösterip göstermedikleri, defterlerini ve kayıtlarını mevzuata uygun olarak tutup tutmadıkları İçişleri Bakanı veya mülkî idare amiri tarafından kamu görevlilerine denetletilebilir. (Ek cümle:27/12/2020-7262/13 md.) Bu denetimlerin, yapılacak risk değerlendirmelerine göre üç yılı geçmeyecek şekilde her yıl yapılması esastır. Bu denetimlerde kolluk kuvveti mensupları görevlendirilemez. İçişleri Bakanlığı ve mülkî idare amirlerinin yapacağı denetimler mesai saatleri içerisinde yapılır. Bu denetimler en az yirmidört saat önce derneklere bildirilir. (Ek cümleler:27/12/2020-7262/13 md.) (İptal altıncı cümle: Anayasa Mahkemesinin 18/1/2024 Tarihli ve E: 2021/28, K: 2024/11 Sayılı Kararı ile.) Bu denetimlerde görevlendirileceklere ilişkin usul ve esaslar yönetmelikte düzenlenir.[5]\n Denetim sırasında görevli memurlar tarafından istenecek her türlü bilgi, belge ve kayıtların, dernek yetkilileri tarafından gösterilmesi veya verilmesi, yönetim yerleri, müesseseler ve eklentilerine girme isteğinin yerine getirilmesi zorunludur.\n (Ek fıkra:27/12/2020-7262/13 md.) (İptal dördüncü fıkra: Anayasa Mahkemesinin 18/1/2024 Tarihli ve E: 2021/28, K: 2024/11 Sayılı Kararı ile.)\n (Ek fıkra:27/12/2020-7262/13 md.) (İptal beşinci fıkra: Anayasa Mahkemesinin 18/1/2024 Tarihli ve E: 2021/28, K: 2024/11 Sayılı Kararı ile.)\n (Ek fıkra:27/12/2020-7262/13 md.) Denetim sırasında, uzmanlık veya teknik bilgi gerektiren durumlarda İçişleri Bakanlığı, valilikler ve kaymakamlıklar tarafından bilirkişi görevlendirilebilir. Bilirkişinin görevlendirilmesine ilişkin usul ve esaslar yönetmelikte düzenlenir. Bilirkişiye verilecek ücretin tutarı İçişleri Bakanlığı ile Hazine ve Maliye Bakanlığınca birlikte tespit olunur ve bu ücret İçişleri Bakanlığı bütçesine konulacak ödenekten karşılanır.\n Denetim sırasında, suç teşkil eden fiillerin tespit edilmesi hâlinde, mülkî idare amiri durumu derhal Cumhuriyet savcılığına ve derneğe bildirir.",
+      "preview": "Dernekler, yıl sonu itibarıyla faaliyetlerini, gelir ve gider işlemlerinin sonuçlarını düzenleyecekleri beyanname ile her yıl Nisan ayı sonu…",
+      "kitap": null,
+      "kisim": null,
+      "bolum": "ÜÇÜNCÜ BÖLÜM · Denetim ve Bildirimler",
+      "ayirim": null,
+      "maddeBaslik": "Beyanname verme yükümlülüğü ve denetim",
+      "sectionPath": [
+        "ÜÇÜNCÜ BÖLÜM · Denetim ve Bildirimler",
+        "Beyanname verme yükümlülüğü ve denetim"
+      ]
+    },
+    {
+      "id": "kanun:5253:m:20",
+      "maddeKind": "madde",
+      "maddeNo": "20",
+      "heading": "Madde 20",
+      "text": "Kamu düzeninin korunması veya suç işlenmesinin önlenmesi nedenlerinden birine bağlı olarak usulüne göre verilmiş hâkim kararı olmadıkça, yine bu nedenlere bağlı olarak gecikmesinde sakınca bulunan durumlarda mülkî idare amirinin yazılı emri bulunmadıkça, kolluk kuvvetleri, dernek ve eklentilerine giremez, arama yapamaz ve buradaki eşyaya el koyamaz. Mülkî idare amirinin kararı yirmidört saat içinde görevli hâkimin onayına sunulur. Hâkim, kararını el koymadan itibaren kırksekiz saat içinde açıklar; aksi halde, el koyma kendiliğinden kalkar. Hâkim kararı, mülkî idare amiri tarafından dernek yöneticilerine yazıyla duyurulur.",
+      "preview": "Kamu düzeninin korunması veya suç işlenmesinin önlenmesi nedenlerinden birine bağlı olarak usulüne göre verilmiş hâkim kararı olmadıkça, yin…",
+      "kitap": null,
+      "kisim": null,
+      "bolum": "ÜÇÜNCÜ BÖLÜM · Denetim ve Bildirimler",
+      "ayirim": null,
+      "maddeBaslik": "Kolluk kuvvetlerinin yetkisi",
+      "sectionPath": [
+        "ÜÇÜNCÜ BÖLÜM · Denetim ve Bildirimler",
+        "Kolluk kuvvetlerinin yetkisi"
+      ]
+    },
+    {
+      "id": "kanun:5253:m:21",
+      "maddeKind": "madde",
+      "maddeNo": "21",
+      "heading": "Madde 21",
+      "text": "Dernekler mülkî idare amirliğine önceden bildirimde bulunmak şartıyla yurt dışındaki kişi, kurum ve kuruluşlardan aynî ve nakdî yardım alabilirler. Bildirimin şekli ve içeriği yönetmelikte düzenlenir. Nakdî yardımların bankalar aracılığıyla alınması zorunludur.\n (Ek fıkra:27/12/2020-7262/14 md.) Yurt dışına yapılacak yardımlar ise, yardım yapılmadan önce dernekler tarafından mülki idare amirliğine bildirilir. Bildirimin şekli ve içeriği ile yurt dışına yapılacak yardımlara ilişkin usul ve esaslar yönetmelikte düzenlenir.",
+      "preview": "Dernekler mülkî idare amirliğine önceden bildirimde bulunmak şartıyla yurt dışındaki kişi, kurum ve kuruluşlardan aynî ve nakdî yardım alabi…",
+      "kitap": null,
+      "kisim": null,
+      "bolum": "ÜÇÜNCÜ BÖLÜM · Denetim ve Bildirimler",
+      "ayirim": null,
+      "maddeBaslik": "Yurt dışı yardımlar[6]",
+      "sectionPath": [
+        "ÜÇÜNCÜ BÖLÜM · Denetim ve Bildirimler",
+        "Yurt dışı yardımlar[6]"
+      ]
+    },
+    {
+      "id": "kanun:5253:m:22",
+      "maddeKind": "madde",
+      "maddeNo": "22",
+      "heading": "Madde 22",
+      "text": "Dernekler genel kurullarının yetki vermesi üzerine yönetim kurulu kararıyla taşınmaz mal satın alabilir veya taşınmaz mallarını satabilirler. Dernekler edindikleri taşınmazları, tapuya tescilinden itibaren bir ay içinde mülkî idare amirliğine bildirmekle yükümlüdürler.",
+      "preview": "Dernekler genel kurullarının yetki vermesi üzerine yönetim kurulu kararıyla taşınmaz mal satın alabilir veya taşınmaz mallarını satabilirler…",
+      "kitap": null,
+      "kisim": null,
+      "bolum": "ÜÇÜNCÜ BÖLÜM · Denetim ve Bildirimler",
+      "ayirim": null,
+      "maddeBaslik": "Taşınmaz mal edinme",
+      "sectionPath": [
+        "ÜÇÜNCÜ BÖLÜM · Denetim ve Bildirimler",
+        "Taşınmaz mal edinme"
+      ]
+    },
+    {
+      "id": "kanun:5253:m:23",
+      "maddeKind": "madde",
+      "maddeNo": "23",
+      "heading": "Madde 23",
+      "text": "Dernekler, genel kurulu izleyen otuz gün içinde, yönetim kurulu ve denetim kurulu ile derneğin diğer organlarına seçilen asıl ve yedek üyeleri, üyeliğe kabul edilenler ile üyeliği sona erenlerin adını, soyadını, doğum tarihini ve kimlik numarasını kabul edilme ve sona erme tarihinden itibaren kırk beş gün içinde merkezinin bulunduğu dernekler birimine bildirmekle yükümlüdür. Dernek organlarında ve yerleşim yerinde meydana gelen değişiklikler de aynı usule tâbidir. Genel kurul sonuç bildirimi ile üyeliğe ilişkin bildirimlerin şekli, içeriği ve gerekli belgeler yönetmelikte düzenlenir.",
+      "preview": "Dernekler, genel kurulu izleyen otuz gün içinde, yönetim kurulu ve denetim kurulu ile derneğin diğer organlarına seçilen asıl ve yedek üyele…",
+      "kitap": null,
+      "kisim": null,
+      "bolum": "ÜÇÜNCÜ BÖLÜM · Denetim ve Bildirimler",
+      "ayirim": null,
+      "maddeBaslik": "Genel kurul toplantısı ve organlara seçilenler ile üyelerin idareye bildirilmesi[7]",
+      "sectionPath": [
+        "ÜÇÜNCÜ BÖLÜM · Denetim ve Bildirimler",
+        "Genel kurul toplantısı ve organlara seçilenler ile üyelerin idareye bildirilmesi[7]"
+      ]
+    },
+    {
+      "id": "kanun:5253:m:24",
+      "maddeKind": "madde",
+      "maddeNo": "24",
+      "heading": "Madde 24",
+      "text": "Dernekler, gerekli gördükleri yerlerde dernek faaliyetlerini yürütmek amacıyla temsilcilik açabilirler. Temsilcilikler, şube veya dernek genel kurullarında temsil edilmezler. Şubeler temsilcilik açamazlar. Temsilciliğin adresi, yönetim kurulu kararıyla temsilci olarak görevlendirilen kişi veya kişiler tarafından o yerin mülkî idare amirliğine yazılı olarak bildirilir.",
+      "preview": "Dernekler, gerekli gördükleri yerlerde dernek faaliyetlerini yürütmek amacıyla temsilcilik açabilirler. Temsilcilikler, şube veya dernek gen…",
+      "kitap": null,
+      "kisim": null,
+      "bolum": "ÜÇÜNCÜ BÖLÜM · Denetim ve Bildirimler",
+      "ayirim": null,
+      "maddeBaslik": "Temsilcilik",
+      "sectionPath": [
+        "ÜÇÜNCÜ BÖLÜM · Denetim ve Bildirimler",
+        "Temsilcilik"
+      ]
+    },
+    {
+      "id": "kanun:5253:m:25",
+      "maddeKind": "madde",
+      "maddeNo": "25",
+      "heading": "Madde 25",
+      "text": "Dernekler, amaçları ile ilgisi bulunan ve kanunlarla yasaklanmayan alanlarda, kendi aralarında veya vakıf, sendika ve benzeri sivil toplum kuruluşlarıyla ortak bir amacı gerçekleştirmek üzere ve yetkili organlarının kararı ile plâtformlar oluşturabilirler.\n Plâtformlar, kanunların dernekler için yasakladığı amaç ve faaliyet konuları doğrultusunda kurulamazlar ve faaliyet gösteremezler. Bu yasağa aykırı hareket edenler hakkında, bu Kanun ve ilgili kanunların cezaî hükümleri uygulanır.",
+      "preview": "Dernekler, amaçları ile ilgisi bulunan ve kanunlarla yasaklanmayan alanlarda, kendi aralarında veya vakıf, sendika ve benzeri sivil toplum k…",
+      "kitap": null,
+      "kisim": null,
+      "bolum": "ÜÇÜNCÜ BÖLÜM · Denetim ve Bildirimler",
+      "ayirim": null,
+      "maddeBaslik": "Plâtform oluşturma",
+      "sectionPath": [
+        "ÜÇÜNCÜ BÖLÜM · Denetim ve Bildirimler",
+        "Plâtform oluşturma"
+      ]
+    },
+    {
+      "id": "kanun:5253:m:26",
+      "maddeKind": "madde",
+      "maddeNo": "26",
+      "heading": "Madde 26",
+      "text": "Derneklerin, tüzüklerinde gösterilen amaçları gerçekleştirmek üzere, eğitim ve öğretim faaliyetleri için yurt, pansiyon; üyeleri için lokal açmaları ve lokallerinde alkollü içki kullanılması ile bu tesislerin işletilmesi mülkî idare amirinden izin almalarına bağlıdır. (Mülga cümle:21/11/2024-7533/30 md.)\n\n Dernek lokallerinin açılması ve işletilmesi\n MADDE 26/A- (Ek:21/11/2024-7533/31 md.)\n En az bir yıldan beri faaliyette bulunan dernekler lokal açabilirler. Federasyon ve konfederasyonlarda bu şart aranmaz. Çocuk dernekleri lokal açamaz.\n Patlayıcı, parlayıcı ve yanıcı gibi tehlikeli maddeler üretilen, satılan, kullanılan ve depolanan yerlerde, öğretim kurumlarında, ibadethanelerde, öğretim kurumlarına ve ibadethanelere yüz metreden yakın mesafe içinde, öğrenci yurtlarının bulunduğu binalarda, itfaiye ve ambulans gibi müdahale ve yardım hizmetlerinin kolaylıkla ulaşamayacağı yerlerde, binaların ortak kullanılan bağımsız bölümlerinde, sabit veya seyyar olarak kullanılan kara, deniz, hava ve her çeşit taşıma araçlarında lokal açılamaz. Lokallerin açılmasına ilişkin usuller yönetmelikle düzenlenir.\n Lokalin hangi derneğe ait olduğunu belirten tabelanın dışarıdan ilk bakışta görülebilecek bir yere asılması zorunludur. Dernek lokallerinde bir sorumlu müdür bulunur. Dernek lokallerine mülki idare amiri tarafından alkollü içki izni verilebilmesi için lokalin içkili yer bölgesi içinde bulunması zorunludur. Dernek lokallerinde mülki idare amirinin kararıyla canlı müzik izni verilebilir.\n Dernek lokalleri, yönetim kurullarınca hazırlanan yönergeye göre işletilir. Lokallerin işletilmesine ilişkin usuller yönetmelikle düzenlenir.\n\n Dernek lokallerinin denetimi ve kapatılması\n MADDE 26/B- (Ek:21/11/2024-7533/32 md.)\n Lokallerin denetimi mülki idare amiri tarafından kamu görevlilerine veya kolluk kuvvetlerine yaptırılır. Lokal denetiminde önceden bildirimde bulunma ve mesai saatleri içinde yapılması şartı aranmaz.\n Bu Kanuna aykırı faaliyet gösterdiği, kumar oynandığı, alkollü içki sunumuna ilişkin izinler alınmaksızın alkollü içki kullandırıldığı, 24/6/2004 tarihli ve 5199 sayılı Hayvanları Koruma Kanunu kapsamında hayvanlara kötü muamelede bulunulduğu, fiziki veya psikolojik acı çektirildiği denetimde yetkilendirilmiş kişiler tarafından tespit edilen lokaller mülki idare amiri tarafından otuz günü geçmemek üzere geçici süreyle faaliyetten men edilir.\n Lokallerde 5237 sayılı Kanun kapsamında kumar oynanması için yer ve imkan sağlanmasının, uyuşturucu veya uyarıcı madde imal ve ticaretinin, kullanımının, kullanımının kolaylaştırılmasının, 10/7/1953 tarihli ve 6136 sayılı Ateşli Silahlar ve Bıçaklar ile Diğer Aletler Hakkında Kanuna aykırı silah bulundurulmasının veya satılmasının denetimde yetkilendirilmiş kişiler tarafından tespiti durumunda veya ikinci fıkrada belirtilen fiiller nedeniyle bir yıl içinde üç defa faaliyetten men edilen lokallerde, bu fiiller tekrar işlendiği takdirde lokal açma ve işletme belgesi mülki idare amirince iptal edilir.\n Bu maddenin uygulanmasına ilişkin usuller yönetmelikle düzenlenir.",
+      "preview": "Derneklerin, tüzüklerinde gösterilen amaçları gerçekleştirmek üzere, eğitim ve öğretim faaliyetleri için yurt, pansiyon; üyeleri için lokal…",
+      "kitap": null,
+      "kisim": null,
+      "bolum": "DÖRDÜNCÜ BÖLÜM · İzne Tâbi Faaliyetler",
+      "ayirim": null,
+      "maddeBaslik": "Derneklerin izinle kurabileceği tesisler",
+      "sectionPath": [
+        "DÖRDÜNCÜ BÖLÜM · İzne Tâbi Faaliyetler",
+        "Derneklerin izinle kurabileceği tesisler"
+      ]
+    },
+    {
+      "id": "kanun:5253:m:27",
+      "maddeKind": "madde",
+      "maddeNo": "27",
+      "heading": "Madde 27",
+      "text": "Kamu yararına çalışan dernekler, Cumhurbaşkanı kararıyla tespit edilir. Bir derneğin kamu yararına çalışan derneklerden sayılabilmesi için, en az bir yıldan beri faaliyette bulunması ve derneğin amacı ve bu amacı gerçekleştirmek üzere giriştiği faaliyetlerin topluma yararlı sonuçlar verecek nitelikte ve ölçüde olması şarttır.[8]\n Kamu yararına çalışan dernek statüsünün kazanılması, kaybedilmesi ve gerekli belgeler ile diğer esas ve usuller yönetmelikte düzenlenir.\n Kamu yararına çalışan dernekler en az iki yılda bir denetlenir. Yapılan denetimler sonucunda düzenlenen raporlar üzerine, kamu yararına çalışan derneklerin organlarında görev alan üyeler veya ilgili personel, hapis cezası verilmesini gerektiren suçların işlendiğinin tespit edilmesi halinde, geçici bir tedbir olarak İçişleri Bakanınca görevden uzaklaştırılabilir.[9] (Mülga son cümle: 8/6/2006-5519/1 md.)\n (Ek fıkra: 8/6/2006-5519/1 md.) Dernek merkezinin bulunduğu ilin valisi, görevden uzaklaştırılma kararının derneğe bildirilmesiyle eş zamanlı olarak, görevden uzaklaştırılan organların yerlerine; Türk Medenî Kanunu hükümlerine göre dernek merkezinin bulunduğu yerdeki sulh hukuk mahkemesinden kayyım atanmasını ister. Mahkeme bir hafta içinde, öncelikle dernek üyeleri arasından görevden uzaklaştırılanların sayısı kadar kayyım atanmasına karar verir ve bu kararda kayyımın görev ve yetkileri ile dernek tarafından kayyıma verilecek ücret de belirtilir. Kayyımın görevi dava sonucu verilen hüküm kesinleşinceye kadar devam eder. Çeşitli nedenlerle boşalan bu kayyımların yerine, aynı usûlle yeni kayyım atanır.\n Kamu yararına çalıştıklarına karar verilen dernekler, denetimler sonunda bu niteliklerini kaybettikleri tespit edilirse, birinci fıkrada öngörülen usulle haklarında alınan kamu yararına çalışan derneklerden sayılma kararı kaldırılır.\n Türkiye Kızılay Derneği ve Türk Hava Kurumunun tüzüklerini onaylamaya Cumhurbaşkanı yetkilidir.[10]\n Kamu yararına çalışan derneklerin mallarına karşı suç işleyenler Devlet malına karşı suç işlemiş gibi cezalandırılır.\n\n Madde 27/A- (Ek: 15/1/2009 – 5832/1 md.)\n Türkiye Kızılay Derneği uluslararası anlaşmalara göre tayin edilen nitelik ve duruma göre; merkezinde genel kurul, yönetim kurulu ve denetim kurulu, şubelerinde genel kurul ve yönetim kurulu oluşturulması şartıyla tüzüğünde belirlenen şekilde teşkilatlanır ve yönetilir. Kızılay’ın iş ve işlemleri; kanunların verdiği görev ve yetkilere, tüzüğüne ve yönetim kurulunca çıkarılan yönetmeliklere göre yürütülür.",
+      "preview": "Kamu yararına çalışan dernekler, Cumhurbaşkanı kararıyla tespit edilir. Bir derneğin kamu yararına çalışan derneklerden sayılabilmesi için,…",
+      "kitap": null,
+      "kisim": null,
+      "bolum": "DÖRDÜNCÜ BÖLÜM · İzne Tâbi Faaliyetler",
+      "ayirim": null,
+      "maddeBaslik": "Kamu yararına çalışan dernekler",
+      "sectionPath": [
+        "DÖRDÜNCÜ BÖLÜM · İzne Tâbi Faaliyetler",
+        "Kamu yararına çalışan dernekler"
+      ]
+    },
+    {
+      "id": "kanun:5253:m:28",
+      "maddeKind": "madde",
+      "maddeNo": "28",
+      "heading": "Madde 28",
+      "text": "Dernek adlarında; Türk, Türkiye, Milli, Cumhuriyet, Atatürk, Mustafa Kemal, Şehit, Gazi kelimeleri ile bunların baş ve sonlarına getirilen eklerle oluşturulan kelimeler İçişleri Bakanlığının izni ile kullanılabilir.[11]",
+      "preview": "Dernek adlarında; Türk, Türkiye, Milli, Cumhuriyet, Atatürk, Mustafa Kemal, Şehit, Gazi kelimeleri ile bunların baş ve sonlarına getirilen e…",
+      "kitap": null,
+      "kisim": null,
+      "bolum": "DÖRDÜNCÜ BÖLÜM · İzne Tâbi Faaliyetler",
+      "ayirim": null,
+      "maddeBaslik": "Dernek adları",
+      "sectionPath": [
+        "DÖRDÜNCÜ BÖLÜM · İzne Tâbi Faaliyetler",
+        "Dernek adları"
+      ]
+    },
+    {
+      "id": "kanun:5253:m:29",
+      "maddeKind": "madde",
+      "maddeNo": "29",
+      "heading": "Madde 29",
+      "text": "Derneklerin, mevcut veya mahkeme kararıyla kapatılmış veya feshedilmiş bir siyasî partinin, bir sendikanın veya üst kuruluşun, bir derneğin veya üst kuruluşun adını, amblemini, rumuzunu, rozetini ve benzeri işaretleri ya da başka bir ülkeye ve daha önce kurulmuş Türk devletlerine ait bayrak, amblem ve flamaları kullanmaları yasaktır.",
+      "preview": "Derneklerin, mevcut veya mahkeme kararıyla kapatılmış veya feshedilmiş bir siyasî partinin, bir sendikanın veya üst kuruluşun, bir derneğin…",
+      "kitap": null,
+      "kisim": null,
+      "bolum": "BEŞİNCİ BÖLÜM · Yasaklar",
+      "ayirim": null,
+      "maddeBaslik": "Bazı ad ve işaretleri kullanma yasağı",
+      "sectionPath": [
+        "BEŞİNCİ BÖLÜM · Yasaklar",
+        "Bazı ad ve işaretleri kullanma yasağı"
+      ]
+    },
+    {
+      "id": "kanun:5253:m:30",
+      "maddeKind": "madde",
+      "maddeNo": "30",
+      "heading": "Madde 30",
+      "text": "Dernekler;\n a) Tüzüklerinde gösterilen amaç ve bu amacı gerçekleştirmek üzere sürdürüleceği belirtilen çalışma konuları dışında faaliyette bulunamazlar.\n b) Anayasa ve kanunlarla açıkça yasaklanan amaçları veya konusu suç teşkil eden fiilleri gerçekleştirmek amacıyla kurulamaz.\n c) Askerliğe, millî savunma ve genel kolluk hizmetlerine hazırlayıcı öğretim ve eğitim faaliyetlerinde bulunamaz, bu amaçları gerçekleştirmek üzere kamp veya eğitim yerleri açamazlar. Üyeleri için özel kıyafet veya üniforma kullanamazlar.\n\n Görevden uzaklaştırma ve faaliyetten geçici alıkoyma\n MADDE 30/A- (Ek:27/12/2020-7262/15 md.) (İptal:Anayasa Mahkemesinin 18/1/2024 Tarihli ve E: 2021/28, K: 2024/11 Sayılı Kararı ile.)",
+      "preview": "Dernekler; a) Tüzüklerinde gösterilen amaç ve bu amacı gerçekleştirmek üzere sürdürüleceği belirtilen çalışma konuları dışında faaliyette bu…",
+      "kitap": null,
+      "kisim": null,
+      "bolum": "BEŞİNCİ BÖLÜM · Yasaklar",
+      "ayirim": null,
+      "maddeBaslik": "Kurulması yasak olan dernekler ve yasak faaliyetler",
+      "sectionPath": [
+        "BEŞİNCİ BÖLÜM · Yasaklar",
+        "Kurulması yasak olan dernekler ve yasak faaliyetler"
+      ]
+    },
+    {
+      "id": "kanun:5253:m:31",
+      "maddeKind": "madde",
+      "maddeNo": "31",
+      "heading": "Madde 31",
+      "text": "Dernekler, defterlerinde ve kayıtlarında ve Türkiye Cumhuriyetinin resmi kurumlarıyla yazışmalarında Türkçe kullanırlar.",
+      "preview": "Dernekler, defterlerinde ve kayıtlarında ve Türkiye Cumhuriyetinin resmi kurumlarıyla yazışmalarında Türkçe kullanırlar.",
+      "kitap": null,
+      "kisim": null,
+      "bolum": "BEŞİNCİ BÖLÜM · Yasaklar",
+      "ayirim": null,
+      "maddeBaslik": "Kayıt ve yazışma dili",
+      "sectionPath": [
+        "BEŞİNCİ BÖLÜM · Yasaklar",
+        "Kayıt ve yazışma dili"
+      ]
+    },
+    {
+      "id": "kanun:5253:m:32",
+      "maddeKind": "madde",
+      "maddeNo": "32",
+      "heading": "Madde 32",
+      "text": "(Değişik: 23/1/2008-5728/558 md.)\n Bu Kanun hükümlerine aykırı davrananlara uygulanacak cezalar aşağıdaki şekildedir:\n a) Dernek kurma hakkına sahip olmadıkları halde dernek kuranlar veya derneklere üye olmaları kanunlarla yasaklandığı halde dernek üyesi olanlar ile derneklere üye olması kanunlarla yasaklanmış kişileri bilerek dernek üyeliğine kabul eden veya kaydını silmeyen veya dernek üyesi iken derneklere üye olma hakkını kaybeden kişileri dernek üyeliğinden silmeyen dernek yöneticilerine beşyüz Türk Lirası idarî para cezası verilir.\n b) Genel kurulu süresinde toplantıya çağırmayan, genel kurul toplantılarını kanun ve tüzük hükümlerine aykırı olarak veya dernek merkezinin bulunduğu veya tüzüğünde belirtilen yer dışında yapan dernek yöneticilerine beşyüz Türk Lirası idarî para cezası verilir. Mahkemece, kanun ve tüzük hükümlerine aykırı olarak yapılan genel kurul toplantılarının iptaline de karar verilebilir.\n c) Yurt dışı yardımı bankalar aracılığıyla almayan dernek yöneticilerine, bu şekilde alınan paranın yüzde yirmi beşi oranında idarî para cezası verilir.\n d) Derneğe ait tutulması gereken defter veya kayıtları tutmayan veya tasdiksiz defter tutan dernek yöneticileri üç aydan bir yıla kadar hapis veya adlî para cezası ile cezalandırılır. Bu defter ve kayıtların usulüne uygun tutulmaması halinde dernek yöneticilerine ve defterleri tutmakla sorumlu kişilere beşyüz Türk Lirası idarî para cezası verilir. Adına yetki belgesi düzenlenmediği halde gelir toplayanlar ile bilerek bu şekilde gelir toplanmasına izin veren yönetim kurulu üyelerine bin Türk Lirası idarî para cezası verilir.\n e) Genel kurul ve diğer dernek organlarında yapılan seçimler ve oylamalar ile oyların sayım ve dökümüne hile karıştıranlar ve defter veya kayıtları tahrif veya yok edenler veya gizleyenler, fiilleri daha ağır bir cezayı gerektirmediği takdirde altı aydan iki yıla kadar hapis ve adlî para cezası ile cezalandırılır.\n f) Her ne suretle olursa olsun kendisine tevdi olunan derneğe ait para veya para hükmündeki evrak, senet veya sair malları kendisinin veya başkasının menfaatine olarak sarf veya istihlâk veya rehneden veya satan, gizleyen, imha, inkâr, tahrif veya tağyir eden yönetim kurulu başkanı ve üyeleri veya denetçiler ile derneğin diğer personeli Türk Ceza Kanununun güveni kötüye kullanma suçuna ilişkin hükümlerine göre cezalandırılır. Ayrıca, mahkeme yargılama sırasında sanıkların, organlardaki görevlerinden geçici olarak uzaklaştırılmasına da karar verebilir.\n g) Yetkili mercilerin izni olmaksızın yabancı dernekler ve merkezi yurt dışında bulunan kâr amacı gütmeyen kuruluşların Türkiye’de temsilciliklerini veya şubelerini açanlar, faaliyetlerini yürütenler, bunlarla işbirliğinde bulunanlar veya bunları üye kabul edenlere bin Türk Lirası idarî para cezası verilir ve izinsiz açılan şube veya temsilciliğin de kapatılmasına karar verilir.\n h) 16 ncı maddede belirtilen bildirim yükümlülüğünü yerine getirmeyen basımevi yöneticilerine beşyüz Türk Lirası idarî para cezası verilir.\n ı) 17 nci maddede yer alan zorunluluğa uymayanlara yüz Türk Lirası idarî para cezası verilir.\n j) 19 uncu maddede belirtilen beyannameyi bilerek gerçeğe aykırı olarak verenler yüz günden az olmamak üzere adlî para cezası ile cezalandırılır.\n k) (Değişik:27/12/2020-7262/16 md.) 9 ve 19 uncu maddelerinin üçüncü fıkralarındaki zorunluluğa uymayanlar ile tutulması zorunlu olan defter ve belgelerin, gerekli dikkat ve özen gösterilmiş olması şartıyla elde olmayan bir nedenle okunamayacak hâle gelmesi veya kaybolması hâlinde, öğrenme tarihinden itibaren on beş gün içinde dernek merkezinin bulunduğu yerin yetkili mahkemesine zayi belgesi almak için başvurmayan veya bu belgeyi denetim sırasında ibraz edemeyenler üç aydan bir yıla kadar hapis veya adlî para cezası ile cezalandırılır. 21 inci maddenin birinci ve ikinci fıkralarındaki yükümlülüklere aykırı hareket edenlere beş bin Türk lirasından yüz bin Türk lirasına kadar idari para cezası verilir.\n l) 22 ve 24 üncü maddelerde belirtilen bildirim yükümlülüğünü, 19 uncu maddede belirtilen beyanname verme yükümlülüğünü yerine getirmeyen dernek yöneticilerine ve 24 üncü maddede belirtilen temsilcilere beşyüz Türk Lirası idarî para cezası verilir.[12]\n m) 26 ncı maddede belirtilen tesisleri izinsiz açan dernek yöneticilerine beşyüz Türk Lirası idarî para cezası verilir ve tesisin kapatılmasına da karar verilebilir.\n n) 28 inci maddede belirtilen kelimeleri izinsiz kullanan veya 29 uncu maddede belirtilen yasaklara, yazılı olarak uyarılmalarına rağmen, aykırı hareket eden dernek yöneticileri, fiilleri daha ağır bir cezayı gerektirmediği takdirde, yüz günden az olmamak üzere adlî para cezası ile cezalandırılır ve derneğin feshine de karar verilir.\n o) 30 uncu maddenin (a) bendinde belirtilen yasağa aykırı hareket eden dernek yöneticileri elli günden az olmamak üzere adlî para cezası ile cezalandırılır. Aynı maddenin (c) bendine aykırı faaliyette bulunan dernek yöneticileri, fiilleri daha ağır bir cezayı gerektirmediği takdirde, bir yıldan üç yıla kadar hapis cezası ile cezalandırılır ve tesisin kapatılmasına da karar verilir.\n p) 30 uncu maddenin (b) bendinde belirtilen kurulması yasak dernekleri kuranlar ile bu bende aykırı harekette bulunan dernek yöneticileri fiilleri daha ağır bir cezayı gerektirmediği takdirde bir yıldan üç yıla kadar hapis ve elli günden az olmamak üzere adlî para cezası ile cezalandırılır ve derneğin feshine de karar verilir.\n r) 31 inci maddede öngörülen zorunluluğa uymayanlara bin Türk Lirası idarî para cezası verilir.\n s) (Ek:25/3/2020-7226/22 md.) 23 üncü maddede belirtilen bildirim yükümlülüğünü yerine getirmeyen dernek yöneticilerine beş yüz Türk lirası idarî para cezası verilir.\n t) (Ek:27/12/2020-7262/16 md.) 19 uncu maddenin dördüncü fıkrasına aykırı hareket edenlere beş bin Türk lirasından yirmi bin Türk lirasına kadar idari para cezası verilir. Ancak bu aykırılığın kamu kurum ve kuruluşları bünyesinde gerçekleşmesi hâlinde, 33 üncü maddenin üçüncü fıkrası uyarınca yetkilendirilen makamın yapacağı bildirim üzerine, ilgili kamu kurum ve kuruluşunda çalıştırılma biçimine bakılmaksızın görev yapanlar hakkında disiplin hükümlerine göre işlem yapılır ve sonucu yetkili makama bildirilir.\n u) (Ek:27/12/2020-7262/16 md.) Yedi bin Türk lirasını aşan her türlü gelir, tahsilat, gider ve ödemelerini bankalar ve diğer finans kuruluşları veya Posta ve Telgraf Teşkilatı Anonim Şirketi aracılığıyla yapmayan dernek yöneticilerine her bir işlem için işleme konu tutarın %10’una kadar idari para cezası verilir. Bu bentte öngörülen parasal sınır; her takvim yılı başından geçerli olmak üzere, önceki yılda uygulanan parasal sınırın, o yıl için 4/1/1961 tarihli ve 213 sayılı Vergi Usul Kanununun mükerrer 298 inci maddesi hükümleri uyarınca Hazine ve Maliye Bakanlığınca tespit ve ilan edilen yeniden değerleme oranında artırılması suretiyle uygulanır. Bu şekilde belirlenen sınırların hesabında bir Türk lirasının küsuru dikkate alınmaz.\n (Ek fıkra:27/12/2020-7262/16 md.) Bu Kanunun 3 üncü maddesinin üçüncü fıkrasına aykırı olarak dernek organlarında görev alanlara ve bu kişilerin görevlerini yazılı uyarıya rağmen yedi gün içerisinde sonlandırmayan dernek yöneticilerine bin beş yüz Türk lirası idari para cezası verilir. Mülki idare amirince yapılan ikinci yazılı uyarıya rağmen otuz gün içinde bu kişilerin organlardaki görevlerinin sonlandırılmaması hâlinde Türk Medenî Kanununun 89 uncu maddesine göre işlem tesis edilir.",
+      "preview": "(Değişik: 23/1/2008-5728/558 md.) Bu Kanun hükümlerine aykırı davrananlara uygulanacak cezalar aşağıdaki şekildedir: a) Dernek kurma hakkına…",
+      "kitap": null,
+      "kisim": null,
+      "bolum": "ALTINCI BÖLÜM · Ceza Hükümleri",
+      "ayirim": null,
+      "maddeBaslik": "Ceza hükümleri",
+      "sectionPath": [
+        "ALTINCI BÖLÜM · Ceza Hükümleri",
+        "Ceza hükümleri"
+      ]
+    },
+    {
+      "id": "kanun:5253:m:33",
+      "maddeKind": "madde",
+      "maddeNo": "33",
+      "heading": "Madde 33",
+      "text": "Bu Kanunda belirtilen cezalar çocuk dernekleri hakkında, yazılı olarak uyarılmasına rağmen tekrar edilmesi halinde uygulanır.\n Bu Kanunun 32 nci maddesinde geçen “dernek yöneticileri” ibareleri dernek yönetim kurulu başkanını ifade eder.\n (Değişik üçüncü fıkra: 23/1/2008-5728/559 md.) Bu Kanunda yazılı olan idarî yaptırımlara karar vermeye mahalli mülki amir yetkilidir.\n (Mülga dördüncü fıkra: 23/1/2008-5728/578 md.)\n (Mülga beşinci fıkra: 23/1/2008-5728/578 md.)",
+      "preview": "Bu Kanunda belirtilen cezalar çocuk dernekleri hakkında, yazılı olarak uyarılmasına rağmen tekrar edilmesi halinde uygulanır. Bu Kanunun 32…",
+      "kitap": null,
+      "kisim": null,
+      "bolum": "ALTINCI BÖLÜM · Ceza Hükümleri",
+      "ayirim": null,
+      "maddeBaslik": "Cezaların uygulanması",
+      "sectionPath": [
+        "ALTINCI BÖLÜM · Ceza Hükümleri",
+        "Cezaların uygulanması"
+      ]
+    },
+    {
+      "id": "kanun:5253:m:34",
+      "maddeKind": "madde",
+      "maddeNo": "34",
+      "heading": "Madde 34",
+      "text": "Diğer kanunlarda, 3512 sayılı Cemiyetler Kanunu, 1630 sayılı Dernekler Kanunu veya 2908 sayılı Dernekler Kanunu ile bunların ek ve değişikliklerine veya belli maddelerine yapılan atıflar, bu Kanuna veya bu Kanunun aynı konuları düzenleyen madde veya maddelerine yapılmış sayılır. Bu Kanunda hüküm bulunmayan hallerde aynı konuları düzenleyen 4721 sayılı Türk Medeni Kanununun ilgili hükümlerine atıf yapılmış sayılır.",
+      "preview": "Diğer kanunlarda, 3512 sayılı Cemiyetler Kanunu, 1630 sayılı Dernekler Kanunu veya 2908 sayılı Dernekler Kanunu ile bunların ek ve değişikli…",
+      "kitap": null,
+      "kisim": null,
+      "bolum": "YEDİNCİ BÖLÜM · Diğer Hükümler",
+      "ayirim": null,
+      "maddeBaslik": "Cemiyetler ve Dernekler kanunlarına yapılan atıflar",
+      "sectionPath": [
+        "YEDİNCİ BÖLÜM · Diğer Hükümler",
+        "Cemiyetler ve Dernekler kanunlarına yapılan atıflar"
+      ]
+    },
+    {
+      "id": "kanun:5253:m:35",
+      "maddeKind": "madde",
+      "maddeNo": "35",
+      "heading": "Madde 35",
+      "text": "Bu Kanunun 19, 20, 23, 26, 28, 29, 30 ve 31 inci maddeleri özel kanunlarında hüküm bulunmamak kaydıyla kamu kurumu niteliğindeki meslek kuruluşları ile işçi ve işveren sendikaları ve üst kuruluşları için de ceza hükümleriyle birlikte uygulanır.",
+      "preview": "Bu Kanunun 19, 20, 23, 26, 28, 29, 30 ve 31 inci maddeleri özel kanunlarında hüküm bulunmamak kaydıyla kamu kurumu niteliğindeki meslek kuru…",
+      "kitap": null,
+      "kisim": null,
+      "bolum": "YEDİNCİ BÖLÜM · Diğer Hükümler",
+      "ayirim": null,
+      "maddeBaslik": "Kanunun meslekî kuruluşlara uygulanacak hükümleri",
+      "sectionPath": [
+        "YEDİNCİ BÖLÜM · Diğer Hükümler",
+        "Kanunun meslekî kuruluşlara uygulanacak hükümleri"
+      ]
+    },
+    {
+      "id": "kanun:5253:m:36",
+      "maddeKind": "madde",
+      "maddeNo": "36",
+      "heading": "Madde 36",
+      "text": "(Değişik:27/12/2020-7262/17 md.)\n Bu Kanun hükümleri; derneklerin şubeleri, dernek ve vakıfların üst kuruluşları, merkezleri yurt dışında bulunan dernekler, vakıflar ve diğer kâr amacı gütmeyen kuruluşların Türkiye’deki şube veya temsilcilikleri ile Türkiye’de faaliyette veya iş birliğinde bulunma izinleri hakkında da ceza hükümleri ile birlikte uygulanır. Bu Kanunda hüküm bulunmayan hâllerde Türk Medenî Kanunu hükümleri uygulanır.\n\n Yönetmelik",
+      "preview": "(Değişik:27/12/2020-7262/17 md.) Bu Kanun hükümleri; derneklerin şubeleri, dernek ve vakıfların üst kuruluşları, merkezleri yurt dışında bul…",
+      "kitap": null,
+      "kisim": null,
+      "bolum": "YEDİNCİ BÖLÜM · Diğer Hükümler",
+      "ayirim": null,
+      "maddeBaslik": "Uygulanacak hükümler",
+      "sectionPath": [
+        "YEDİNCİ BÖLÜM · Diğer Hükümler",
+        "Uygulanacak hükümler"
+      ]
+    },
+    {
+      "id": "kanun:5253:m:37",
+      "maddeKind": "madde",
+      "maddeNo": "37",
+      "heading": "Madde 37",
+      "text": "Bu Kanunun ilgili maddelerinde düzenlenmesi öngörülen yönetmelikler İçişleri Bakanlığınca, kulüp adını alan derneklerle ilgili yönetmelik ise Gençlik ve Spor Genel Müdürlüğünün bağlı olduğu Bakanlıkça en geç altı ay içinde Resmi Gazetede yayımlanarak yürürlüğe konulur. Bu yönetmelikler çıkarılıncaya kadar mevcut yönetmeliklerin bu Kanuna aykırı olmayan hükümlerinin uygulanmasına devam olunur.",
+      "preview": "Bu Kanunun ilgili maddelerinde düzenlenmesi öngörülen yönetmelikler İçişleri Bakanlığınca, kulüp adını alan derneklerle ilgili yönetmelik is…",
+      "kitap": null,
+      "kisim": null,
+      "bolum": "YEDİNCİ BÖLÜM · Diğer Hükümler",
+      "ayirim": null,
+      "maddeBaslik": "Uygulanacak hükümler",
+      "sectionPath": [
+        "YEDİNCİ BÖLÜM · Diğer Hükümler",
+        "Uygulanacak hükümler"
+      ]
+    },
+    {
+      "id": "kanun:5253:m:38",
+      "maddeKind": "madde",
+      "maddeNo": "38",
+      "heading": "Madde 38",
+      "text": "A) (22.11.2001 tarihli ve 4721 sayılı Türk Medeni Kanunu ile ilgili olup yerine işlenmiştir.)\n B) 4721 sayılı Kanunun 58 inci maddesinin ikinci fıkrasında yer alan \"yerleşim yeri, kurucuları,\", 64 üncü maddesinin ikinci fıkrasında yer alan \"tüzükte başkaca bir düzenleme yoksa,\", 77 nci maddesinin birinci fıkrasında yer alan \"yerel bir gazete ile ilan edilir ve aynı zamanda ve bir yazıyla\", 92 nci maddesinde yer alan \"uluslararası alanda işbirliği yapılmasında yarar görülen hallerde ve karşılıklı olmak koşuluyla\" ve 93 üncü maddesinde yer alan \"karşılıklı olmak koşuluyla\" ibareleri madde metinlerinden çıkarılmıştır.\n C) 4721 sayılı Kanunun 61 inci maddesi ile 79 uncu maddesinin üçüncü fıkrası yürürlükten kaldırılmıştır.\n D) (14.2.1985 tarihli ve 3152 sayılı İçişleri Bakanlığı Teşkilât ve Görevleri Hakkında Kanun ile ilgili olup yerine işlenmiştir.)\n E) (8.6.1984 tarihli ve 227 sayılı Vakıflar Genel Müdürlüğünün Teşkilat ve Görevleri Hakkında Kanun Hükmünde Kararname ile ilgili olup yerine işlenmiştir.)\n F-G) (23.6.1983 tarihli ve 2860 sayılı Yardım Toplama Kanunu ile ilgili olup yerine işlenmiştir.)\n H) 6.10.1983 tarihli ve 2908 sayılı Dernekler Kanunu yürürlükten kaldırılmıştır.",
+      "preview": "A) (22.11.2001 tarihli ve 4721 sayılı Türk Medeni Kanunu ile ilgili olup yerine işlenmiştir.) B) 4721 sayılı Kanunun 58 inci maddesinin ikin…",
+      "kitap": null,
+      "kisim": null,
+      "bolum": "YEDİNCİ BÖLÜM · Diğer Hükümler",
+      "ayirim": null,
+      "maddeBaslik": "Değiştirilen ve yürürlükten kaldırılan hükümler",
+      "sectionPath": [
+        "YEDİNCİ BÖLÜM · Diğer Hükümler",
+        "Değiştirilen ve yürürlükten kaldırılan hükümler"
+      ]
+    },
+    {
+      "id": "kanun:5253:m:ek:1",
+      "maddeKind": "ek",
+      "maddeNo": "1",
+      "heading": "Ek Madde 1",
+      "text": "(Ek: 2/7/2018-KHK-703/19 md.) (İptal: Anayasa Mahkemesinin 7/12/2023 Tarihli ve E: 2018/117, K: 2023/212 Sayılı Kararı ile)",
+      "preview": "(Ek: 2/7/2018-KHK-703/19 md.) (İptal: Anayasa Mahkemesinin 7/12/2023 Tarihli ve E: 2018/117, K: 2023/212 Sayılı Kararı ile)",
+      "kitap": null,
+      "kisim": null,
+      "bolum": "YEDİNCİ BÖLÜM · Diğer Hükümler",
+      "ayirim": null,
+      "maddeBaslik": "Değiştirilen ve yürürlükten kaldırılan hükümler",
+      "sectionPath": [
+        "YEDİNCİ BÖLÜM · Diğer Hükümler",
+        "Değiştirilen ve yürürlükten kaldırılan hükümler"
+      ]
+    },
+    {
+      "id": "kanun:5253:m:ek:2",
+      "maddeKind": "ek",
+      "maddeNo": "2",
+      "heading": "Ek Madde 2",
+      "text": "(Ek:25/3/2020-7226/23 md.)\n (Ek fıkra:21/11/2024-7533/33 md.) Bu Kanuna ve 4721 sayılı Kanuna göre kurulan derneklerin, 26/3/1987 tarihli ve 3335 sayılı Uluslararası Nitelikteki Teşekküllerin Kurulması Hakkında Kanuna göre kurulan teşekküllerin ve bunlara ait müesseselerin; bunların tabi olduğu kanunlara istinaden elde edilen bilgi ve belgelerin kayıtları İçişleri Bakanlığınca ve mülki idare amirliklerince tutulur. Bu kayıtlar İçişleri Bakanlığınca oluşturulan dernekler kütüğüne kaydedilir.\n (Ek fıkra:21/11/2024-7533/33 md.) Türk vatandaşları tarafından yurt dışında kurulan dernek ve diğer kâr amacı gütmeyen kuruluşların kayıtları, ilgili makamlar aracılığıyla İçişleri Bakanlığı tarafından tutulur.\n Bu Kanun ve 22/11/2001 tarihli ve 4721 sayılı Türk Medeni Kanununa göre derneklerle ilgili her türlü kayıt ile iş ve işlem elektronik ortamda da yapılabilir.\n (Ek fıkra:21/11/2024-7533/33 md.) Bu maddede belirtilen kuruluşlarca, İçişleri Bakanlığınca belirlenen iş ve işlemler de elektronik ortamda yapılabilir.\n Bu maddenin uygulanmasına ilişkin usul ve esaslar İçişleri Bakanlığınca çıkarılan yönetmelikle belirlenir.",
+      "preview": "(Ek:25/3/2020-7226/23 md.) (Ek fıkra:21/11/2024-7533/33 md.) Bu Kanuna ve 4721 sayılı Kanuna göre kurulan derneklerin, 26/3/1987 tarihli ve…",
+      "kitap": null,
+      "kisim": null,
+      "bolum": "YEDİNCİ BÖLÜM · Diğer Hükümler",
+      "ayirim": null,
+      "maddeBaslik": "Derneklerin kayıtlarının tutulması ve işlemlerin elektronik ortamda yapılması [13]",
+      "sectionPath": [
+        "YEDİNCİ BÖLÜM · Diğer Hükümler",
+        "Derneklerin kayıtlarının tutulması ve işlemlerin elektronik ortamda yapılması [13]"
+      ]
+    },
+    {
+      "id": "kanun:5253:m:gecici:1",
+      "maddeKind": "gecici",
+      "maddeNo": "1",
+      "heading": "Geçici Madde 1",
+      "text": "(Ek:25/3/2020-7226/24 md.)\n Dernekler, bu maddenin yürürlüğe girdiği tarihten itibaren altı ay içinde, üyeliği devam edenlerin adını, soyadını, doğum tarihini ve kimlik numarasını merkezinin bulunduğu dernekler birimine bildirirler. Bu bildirimi yerine getirmeyen dernek yöneticileri hakkında, 32 nci maddenin birinci fıkrasının (s) bendi hükmü uygulanır.",
+      "preview": "(Ek:25/3/2020-7226/24 md.) Dernekler, bu maddenin yürürlüğe girdiği tarihten itibaren altı ay içinde, üyeliği devam edenlerin adını, soyadın…",
+      "kitap": null,
+      "kisim": null,
+      "bolum": "YEDİNCİ BÖLÜM · Diğer Hükümler",
+      "ayirim": null,
+      "maddeBaslik": "Üyeliği devam edenlerin bildirilmesi",
+      "sectionPath": [
+        "YEDİNCİ BÖLÜM · Diğer Hükümler",
+        "Üyeliği devam edenlerin bildirilmesi"
+      ]
+    },
+    {
+      "id": "kanun:5253:m:39",
+      "maddeKind": "madde",
+      "maddeNo": "39",
+      "heading": "Madde 39",
+      "text": "Bu Kanun yayımı tarihinde yürürlüğe girer.",
+      "preview": "Bu Kanun yayımı tarihinde yürürlüğe girer.",
+      "kitap": null,
+      "kisim": null,
+      "bolum": "YEDİNCİ BÖLÜM · Diğer Hükümler",
+      "ayirim": null,
+      "maddeBaslik": "Yürürlük",
+      "sectionPath": [
+        "YEDİNCİ BÖLÜM · Diğer Hükümler",
+        "Yürürlük"
+      ]
+    },
+    {
+      "id": "kanun:5253:m:40",
+      "maddeKind": "madde",
+      "maddeNo": "40",
+      "heading": "Madde 40",
+      "text": "Bu Kanun hükümlerini Bakanlar Kurulu yürütür.\n 5253 SAYILI KANUNA EK VE DEĞİŞİKLİK GETİREN MEVZUATIN VEYA\n ANAYASA MAHKEMESİ KARARLARININ YÜRÜRLÜĞE GİRİŞ\n TARİHLERİNİ GÖSTERİR TABLO\n\n Değiştiren Kanunun/ KHK’nin veya İptal Eden Anayasa Mahkemesi Kararının Numarası\n 5253 Sayılı Kanunun Değişen Veya İptal Edilen Maddeleri\n Yürürlüğe Giriş Tarihi\n\n 5519\n 27\n 15/6/2006\n\n Anayasa Mahkemesinin E.: 2004/107, K.: 2007/44 sayılı Kararı\n 10, 13\n 22/11/2007\n\n 5728\n 18, 27, 32, 33\n 8/2/2008\n\n 5832\n 27/A\n 23/1/2009\n\n 5838\n 10\n 28/2/2009\n\n 6462\n 10\n 3/5/2013\n\n KHK/703\n 27, Ek Madde 1\n 24/6/2018 tarihinde birlikte yapılan Türkiye Büyük Millet Meclisi ve Cumhurbaşkanlığı seçimleri sonucunda Cumhurbaşkanının andiçerek göreve başladığı tarihte (9/7/2018)\n\n 7196\n 28\n 24/12/2019\n\n 7226\n 23, 32, Ek Madde 2, Geçici Madde 1\n 26/3/2020\n\n 7262\n 1, 3, 19, 21, 30/A, 32, 36\n 31/12/2020\n\n Anayasa Mahkemesi’nin 16/12/2021 tarihli ve E.:2021/59, K.:2021/90 sayılı Kararı\n 26\n Yayımlanmasından başlayarak dokuz ay sonra\n 22/11/2022\n\n 7405\n 14\n 26/4/2022\n\n Anayasa Mahkemesinin 18/1/2024 Tarihli ve E: 2021/28, K: 2024/11 Sayılı Kararı\n 19 uncu maddesinin beşinci fıkrası\n 3/4/2024\n\n 19 uncu maddesinin ikinci fıkrası, 30/A\n Yayımlanmasından başlayarak dokuz ay sonra\n 1/3/2025\n\n Anayasa Mahkemesinin 7/12/2023 Tarihli ve E: 2018/117, K: 2023/212 Sayılı Kararı ile\n Ek Madde 1\n 4/6/2024\n\n 7533\n 2, 26, 26/A, 26/B, Ek Madde 2\n 30/11/2024\n\n [1] 27/12/2020 tarihli ve 7262 sayılı Kanunun 11 inci maddesiyle bu maddede yer alan “ve yabancı dernekler ile merkezleri yurt dışında bulunan dernek ve vakıf dışındaki” ibaresi “, merkezleri yurt dışında bulunan dernekler ve vakıflar ile diğer” şeklinde ve “ile derneklere” ibaresi “ile bunlara” şeklinde değiştirilmiştir.\n\n [2] Anayasa Mahkemesinin 5/4/2007 tarihli ve E.:2004/107, K.:2007/44 sayılı Kararı ile bu fıkrada yer alan “... ve adı geçen kurumlara maddî yardımda bulunabilirler” bölümü, siyasî partiler yönünden iptal edilmiştir.\n\n [3] 25/4/2013 tarihli ve 6462 sayılı Kanunun 1 inci maddesiyle, bu fıkrada yer alan “özürlülerin” ibareleri “engellilerin” şeklinde değiştirilmiştir.\n\n [4] Anayasa Mahkemesinin 5/4/2007 tarihli ve E.:2004/107, K.:2007/44 sayılı Kararı ile bu fıkrada yer alan “Üye sayısının 100 kişiden çok olması şartıyla ...” ibaresi, iptal edilmiştir.\n\n [5] 27/12/2020 tarihli ve 7262 sayılı Kanunun 13 üncü maddesiyle bu fıkranın birinci cümlesine “tarafından” ibaresinden sonra gelmek üzere “kamu görevlilerine” ibaresi eklenmiştir.\n\n [6] 27/12/2020 tarihli ve 7262 sayılı Kanunun 14 üncü maddesiyle bu madde başlığı “Yurt dışından yardım alınması” iken metne işlendiği şekilde değiştirilmiştir.\n\n [7] 25/3/2020 tarihli ve 7226 sayılı Kanunun 21 inci maddesiyle, madde başlığında yer alan “seçilenlerin” ibaresi “seçilenler ile üyelerin” şeklinde değiştirilmiş, birinci fıkraya “üyeleri” ibaresinden sonra gelmek üzere “, üyeliğe kabul edilenler ile üyeliği sona erenlerin adını, soyadını, doğum tarihini ve kimlik numarasını kabul edilme ve sona erme tarihinden itibaren kırk beş gün içinde” ibaresi eklenmiş, fıkrada yer alan “mülkî idare amirliğine” ibaresi “merkezinin bulunduğu dernekler birimine” şeklinde ve “bildiriminin” ibaresi “bildirimi ile üyeliğe ilişkin bildirimlerin” şeklinde değiştirilmiştir.\n\n [8] 2/7/2018 tarihli ve 703 sayılı KHK’nin 19 uncu maddesiyle, bu fıkrada yer alan “ilgili bakanlıkların ve Maliye Bakanlığının görüşü üzerine, İçişleri Bakanlığının teklifi ve Bakanlar Kurulu” ibaresi “Cumhurbaşkanı” şeklinde değiştirilmiştir.\n\n [9] 23/1/2008 tarihli ve 5728 sayılı Kanunun 557 nci maddesiyle bu fıkrada yer alan “ağır hapis veya ağır para cezası” ibaresi “hapis cezası” olarak değiştirilmiştir.\n\n [10] 2/7/2018 tarihli ve 703 sayılı KHK’nin 19 uncu maddesiyle, bu fıkrada yer alan “Bakanlar Kurulu” ibaresi “Cumhurbaşkanı” şeklinde değiştirilmiştir.\n\n [11] 6/12/2019 tarihli ve 7196 sayılı Kanunun 57 nci maddesiyle bu fıkraya “Mustafa Kemal” ibaresinden sonra gelmek üzere “, Şehit, Gazi” ibaresi eklenmiştir.\n\n [12] 25/3/2020 tarihli ve 7226 sayılı Kanunun 22 nci maddesiyle bu bentte yer alan “, 23” ibaresi madde metninden çıkarılmıştır.\n\n [13] 21/11/2024 tarihli ve 7533 sayılı Kanunun 33 üncü maddesi ile bu madde başlığı “İşlemlerin elektronik ortamda yapılması” iken metne işlendiği şekilde değiştirilmiştir.",
+      "preview": "Bu Kanun hükümlerini Bakanlar Kurulu yürütür. 5253 SAYILI KANUNA EK VE DEĞİŞİKLİK GETİREN MEVZUATIN VEYA ANAYASA MAHKEMESİ KARARLARININ YÜRÜ…",
+      "kitap": null,
+      "kisim": null,
+      "bolum": "YEDİNCİ BÖLÜM · Diğer Hükümler",
+      "ayirim": null,
+      "maddeBaslik": "Yürütme",
+      "sectionPath": [
+        "YEDİNCİ BÖLÜM · Diğer Hükümler",
+        "Yürütme"
+      ]
+    }
+  ]
+}

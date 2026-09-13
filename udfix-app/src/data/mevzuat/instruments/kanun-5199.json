@@ -1,0 +1,710 @@
+{
+  "id": "kanun:5199",
+  "kind": "kanun",
+  "no": "5199",
+  "title": "Hayvanları Koruma Kanunu",
+  "shortName": "Hayvanları Koruma Kanunu",
+  "aliases": [
+    "Hayvanları Koruma Kanunu",
+    "5199"
+  ],
+  "tur": 1,
+  "tertip": 5,
+  "sourceUrl": "https://www.mevzuat.gov.tr/mevzuat?MevzuatNo=5199&MevzuatTur=1&MevzuatTertip=5",
+  "kabulTarihi": "24/6/2004",
+  "maddeCount": 39,
+  "maddeler": [
+    {
+      "id": "kanun:5199:m:1",
+      "maddeKind": "madde",
+      "maddeNo": "1",
+      "heading": "Madde 1",
+      "text": "Bu Kanunun amacı; insan, hayvan ve çevre sağlığı gözetilmek kaydıyla hayvanların rahat yaşamlarını ve hayvanlara iyi ve uygun muamele edilmesini temin etmek, hayvanların acı, ıstırap ve eziyet çekmelerine karşı en iyi şekilde korunmalarını, her türlü mağduriyetlerinin önlenmesini sağlamaktır.[1]",
+      "preview": "Bu Kanunun amacı; insan, hayvan ve çevre sağlığı gözetilmek kaydıyla hayvanların rahat yaşamlarını ve hayvanlara iyi ve uygun muamele edilme…",
+      "kitap": null,
+      "kisim": null,
+      "bolum": null,
+      "ayirim": null,
+      "maddeBaslik": null,
+      "sectionPath": []
+    },
+    {
+      "id": "kanun:5199:m:2",
+      "maddeKind": "madde",
+      "maddeNo": "2",
+      "heading": "Madde 2",
+      "text": "Bu Kanun, amaç maddesi doğrultusunda yapılacak düzenlemeleri, alınacak önlemleri, sağlanacak eşgüdümü, denetim, sınırlama ve yükümlülükler ile tâbi olunacak cezaî hükümleri kapsar.",
+      "preview": "Bu Kanun, amaç maddesi doğrultusunda yapılacak düzenlemeleri, alınacak önlemleri, sağlanacak eşgüdümü, denetim, sınırlama ve yükümlülükler i…",
+      "kitap": null,
+      "kisim": null,
+      "bolum": null,
+      "ayirim": null,
+      "maddeBaslik": "Kapsam",
+      "sectionPath": [
+        "Kapsam"
+      ]
+    },
+    {
+      "id": "kanun:5199:m:3",
+      "maddeKind": "madde",
+      "maddeNo": "3",
+      "heading": "Madde 3",
+      "text": "Bu Kanunda geçen terimlerden;\n a) Yaşama ortamı: Bir hayvanın veya hayvan topluluğunun doğal olarak yaşadığı yeri,\n b) Etoloji: Bir hayvan türünün doğuştan gelen, kendine özgü davranışlarını inceleyen bilim dalını,\n c) Ekosistem: Canlıların kendi aralarında ve cansız çevreleriyle ilişkilerini bir düzen içinde yürüttükleri biyolojik, fiziksel ve kimyasal sistemi,\n d) Tür: Birbirleriyle çiftleşebilen ve üreme yeteneğine sahip verimli döller verebilen populasyonları,\n e) Evcil hayvan: İnsan tarafından kültüre alınmış ve eğitilmiş hayvanları,\n f) (Değişik: 30/7/2024-7527/2 md.) Sahipsiz hayvan: Sahipli hayvanlar dışında kalan evcil hayvanları,\n g) Güçten düşmüş hayvan: Bulaşıcı ve salgın hayvan hastalıkları haricinde yaşlanma, sakatlanma, yaralanma ve hastalanma gibi çeşitli nedenlerle fizikî olarak iş yapabilme yeteneğini kaybetmiş binek ve yük hayvanlarını,\n h) Yabani hayvan: Doğada serbest yaşayan evcilleştirilmemiş ve kültüre alınmamış omurgalı ve omurgasız hayvanları,\n ı) (Değişik:9/7/2021-7332/1 md.) Ev hayvanı: Gerçek veya tüzel kişiler tarafından özellikle evde, iş yerlerinde ya da arazisinde özel ilgi ve refakat amacıyla muhafaza edilen, bakımı ve sorumluluğu sahiplerince üstlenilen her türlü hayvanı,\n j) (Değişik: 30/7/2024-7527/2 md.) Sahipli hayvan: Bir kişi, kuruluş, kurum ya da tüzel kişilik tarafından sahiplenilen, bakımı, aşıları, periyodik sağlık kontrolleri yapılan ve Bakanlık veri tabanına kaydedilen ev hayvanlarını,\n k) (Değişik:9/7/2021-7332/1 md.) Hayvan bakımevi: Bakanlıktan izin alınmak suretiyle kurulan, hayvanların sahiplendirilinceye kadar barındırıldığı ve rehabilite edildiği bir tesisi,[2]\n l) Deney: Herhangi bir hayvanın acı, eziyet, üzüntü veya uzun süreli hasara neden olacak deneysel ya da diğer bilimsel amaçlarla kullanılmasını,\n m) Deney hayvanı: Deneyde kullanılan ya da kullanılacak olan hayvanı,\n n) Kesim hayvanı: Gıda amaçlı kesimi yapılan hayvanları,\n o) Bakanlık: Tarım ve Orman Bakanlığını,\n p) (Ek:9/7/2021-7332/1 md.) Rehabilitasyon: Sahipsiz hayvanların tedavi ve parazit mücadelesinin yapılmasını, aşılanmasını, kısırlaştırılmasını ve dijital kimliklendirme yöntemleriyle işaretlenmesini,\n ifade eder.",
+      "preview": "Bu Kanunda geçen terimlerden; a) Yaşama ortamı: Bir hayvanın veya hayvan topluluğunun doğal olarak yaşadığı yeri, b) Etoloji: Bir hayvan tür…",
+      "kitap": null,
+      "kisim": null,
+      "bolum": null,
+      "ayirim": null,
+      "maddeBaslik": "Tanımlar",
+      "sectionPath": [
+        "Tanımlar"
+      ]
+    },
+    {
+      "id": "kanun:5199:m:4",
+      "maddeKind": "madde",
+      "maddeNo": "4",
+      "heading": "Madde 4",
+      "text": "Hayvanların korunmasına ve rahat yaşamalarına ilişkin temel ilkeler şunlardır:\n a) Bütün hayvanlar eşit doğar ve bu Kanun hükümleri çerçevesinde yaşama hakkına sahiptir.\n b) (Mülga: 30/7/2024-7527/3 md.)\n c) Hayvanların korunması, gözetilmesi, bakımı ve kötü muamelelerden uzak tutulması için gerekli önlemler alınmalıdır.\n d) Hiçbir maddî kazanç ve menfaat amacı gütmeksizin, sadece insanî ve vicdanî sorumluluklarla, sahipsiz ve güçten düşmüş hayvanları sahiplenmek isteyen ve bu Kanunda öngörülen koşulları taşıyan gerçek ve tüzel kişilerin teşviki ve bu kapsamda eşgüdüm sağlanması esastır.[3]\n e) Nesli yok olma tehlikesi altında bulunan tür ve bunların yaşama ortamlarının korunması esastır.\n f) Yabani hayvanların yaşama ortamlarından koparılmaması, doğada serbestçe yaşayan bir hayvanın yakalanıp özgürlükten yoksun bırakılmaması esastır.\n g) Hayvanların korunması ve rahat yaşamalarının sağlanmasında; insanlarla diğer hayvanların hijyen, sağlık ve güvenlikleri de dikkate alınmalıdır.\n h) Hayvanların türüne özgü şartlarda bakılması, beslenmesi, barındırılma ve taşınması esastır.\n ı) Hayvanları taşıyan ve taşıtanlar onları türüne ve özelliğine uygun ortam ve şartlarda taşımalı, taşıma sırasında beslemeli ve bakımını yapmalıdırlar.\n j) (Değişik:9/7/2021-7332/2 md.) Yerel yönetimler, gönüllü kuruluşlarla iş birliği içerisinde, sahipsiz hayvanların sahiplendirilinceye kadar bakılmaları için hayvan bakımevleri kurarak onların bakımlarını ve tedavilerini sağlar ve eğitim çalışmaları yapar. Ayrıca yerel yönetimler, ilgili karar organının uygun görmesi halinde hayvan hastanesi kurar.[4]\n k) Kontrolsüz üremeyi önlemek amacıyla, toplu yaşanan yerlerde beslenen ve barındırılan kedi ve köpeklerin sahiplerince kısırlaştırılması esastır. (Değişik ikinci cümle: 9/7/2021-7332/2 md.) Kedi ve köpek sahipleri, hayvanlarını dijital kimliklendirme yöntemleriyle kayıt altına aldırmakla yükümlüdürler. (Ek cümle: 9/7/2021-7332/2 md.) Dijital kimliklendirme yöntemlerine ilişkin usul ve esaslar Bakanlıkça yürürlüğe konulacak yönetmelikle belirlenir.",
+      "preview": "Hayvanların korunmasına ve rahat yaşamalarına ilişkin temel ilkeler şunlardır: a) Bütün hayvanlar eşit doğar ve bu Kanun hükümleri çerçevesi…",
+      "kitap": null,
+      "kisim": null,
+      "bolum": null,
+      "ayirim": null,
+      "maddeBaslik": "İlkeler",
+      "sectionPath": [
+        "İlkeler"
+      ]
+    },
+    {
+      "id": "kanun:5199:m:5",
+      "maddeKind": "madde",
+      "maddeNo": "5",
+      "heading": "Madde 5",
+      "text": "Bir hayvanı, (…)5 sahiplenen (…)6 kişi, hayvanı barındırmak, hayvanın türüne ve üreme yöntemine uygun olan etolojik ihtiyaçlarını temin etmek, sağlığına dikkat etmek, insan, hayvan ve çevre sağlığı açısından gerekli tüm önlemleri almakla yükümlüdür.\n Hayvan sahipleri, sahip oldukları hayvanlardan kaynaklanan çevre kirliliğini ve insanlara verilebilecek zarar ve rahatsızlıkları önleyici tedbirleri almakla yükümlü olup; zamanında ve yeterli seviyede tedbir alınmamasından kaynaklanan zararları tazmin etmek zorundadırlar.\n Ev (…)5 hayvanı satan kişiler, bu hayvanların bakımı ve korunması ile ilgili olarak yerel yönetimler tarafından düzenlenen eğitim programlarına katılarak sertifika almakla yükümlüdürler.\n (Değişik dördüncü fıkra:9/7/2021-7332/3 md.) Ev hayvanı (…)6 sahiplenme şartları, hayvan bakımı ve korunması konularında verilecek eğitim ile ilgili usul ve esaslar ile sahiplenilerek bakılan hayvanların çevreye verecekleri zarar ve rahatsızlıkları önleyici tedbirler, Bakanlıkça çıkarılacak yönetmelikle belirlenir.\n Ticarî amaç güdülmeden (…)5 bakılan ev (…)5 hayvanları sahiplerinin borcundan dolayı haczedilemezler.\n (Mülga altıncı fıkra:9/7/2021-7332/3 md.)\n (Mülga yedinci fıkra:9/7/2021-7332/3 md.)",
+      "preview": "Bir hayvanı, (…)5 sahiplenen (…)6 kişi, hayvanı barındırmak, hayvanın türüne ve üreme yöntemine uygun olan etolojik ihtiyaçlarını temin etme…",
+      "kitap": null,
+      "kisim": "İKİNCİ KISIM · Koruma Tedbirleri",
+      "bolum": "BİRİNCİ BÖLÜM · Hayvanların Sahiplenilmesi, Bakımı ve Korunması",
+      "ayirim": null,
+      "maddeBaslik": "Hayvanların sahiplenilmesi ve bakımı[5][6]",
+      "sectionPath": [
+        "İKİNCİ KISIM · Koruma Tedbirleri",
+        "BİRİNCİ BÖLÜM · Hayvanların Sahiplenilmesi, Bakımı ve Korunması",
+        "Hayvanların sahiplenilmesi ve bakımı[5][6]"
+      ]
+    },
+    {
+      "id": "kanun:5199:m:6",
+      "maddeKind": "madde",
+      "maddeNo": "6",
+      "heading": "Madde 6",
+      "text": "Sahipsiz ya da güçten düşmüş hayvanların kanuni istisnalar hariç öldürülmeleri yasaktır.[7]\n Güçten düşmüş hayvanlar ticarî ve gösteri amaçlı veya herhangi bir şekilde binicilik ve taşımacılık amacıyla çalıştırılamaz.\n Sahipsiz hayvanların korunması, bakılması ve gözetimi için yürürlükteki mevzuat hükümleri çerçevesinde, yerel yönetimler yetki ve sorumluluklarına ilişkin düzenlemeler ile insan ve çevre sağlığı için oluşabilecek olumsuz etkilerini gidermeye yönelik tedbirler, Çevre, Şehircilik ve İklim Değişikliği Bakanlığı ve İçişleri Bakanlığı ile eşgüdüm sağlanarak, diğer ilgili kuruluşların da görüşü alınmak suretiyle Bakanlıkça çıkarılacak yönetmelikle belirlenir.[8][9]\n Sahipsiz veya güçten düşmüş hayvanların en hızlı şekilde yerel yönetimlerce kurulan veya izin verilen hayvan bakımevlerine götürülmesi zorunludur. Bu hayvanların öncelikle söz konusu merkezlerde oluşturulacak müşahede yerlerinde tutulması sağlanır. (Değişik son cümle: 30/7/2024-7527/4 md.) Bakımevlerine alınan hayvanlar Bakanlık veri sistemine kaydedilir ve rehabilite edilen köpekler, sahiplendirilinceye kadar hayvan bakımevlerinde barındırılır.\n Sahipsiz veya güçten düşmüş hayvanların toplatılması ve hayvan bakımevlerinin çalışma usul ve esasları ile burada çalışan personelin niteliğine ilişkin hususlar ilgili kurum ve kuruluşların görüşleri alınarak Bakanlıkça çıkarılacak yönetmelikle belirlenir. Hayvan bakımevleri ve hastanelerin kurulması amacıyla Hazineye ait araziler öncelikle tahsis edilir. Amacı dışında kullanıldığı tespit edilen arazilerin tahsisi iptal edilir.[10]\n Hiçbir kazanç ve menfaat sağlamamak kaydıyla sadece insanî ve vicdanî amaçlarla sahipsiz ve güçten düşmüş hayvanları hayvan bakımevi kurarak sahiplenmek isteyen ve bu Kanunda öngörülen şartları taşıyan gerçek ve tüzel kişilere; belediyeler, orman idareleri, Maliye Bakanlığı, Özelleştirme İdaresi Başkanlığı tarafından, mülkiyeti idarelerde kalmak koşuluyla arazi ve buna ait binalar ve demirbaşlar tahsis edilebilir. Tahsis edilen arazilerin üzerinde amaca uygun tesisler ilgili Bakanlığın/İdarenin izni ile yapılır.[11]",
+      "preview": "Sahipsiz ya da güçten düşmüş hayvanların kanuni istisnalar hariç öldürülmeleri yasaktır.[7] Güçten düşmüş hayvanlar ticarî ve gösteri amaçlı…",
+      "kitap": null,
+      "kisim": "İKİNCİ KISIM · Koruma Tedbirleri",
+      "bolum": "BİRİNCİ BÖLÜM · Hayvanların Sahiplenilmesi, Bakımı ve Korunması",
+      "ayirim": null,
+      "maddeBaslik": "Sahipsiz ve güçten düşmüş hayvanların korunması",
+      "sectionPath": [
+        "İKİNCİ KISIM · Koruma Tedbirleri",
+        "BİRİNCİ BÖLÜM · Hayvanların Sahiplenilmesi, Bakımı ve Korunması",
+        "Sahipsiz ve güçten düşmüş hayvanların korunması"
+      ]
+    },
+    {
+      "id": "kanun:5199:m:7",
+      "maddeKind": "madde",
+      "maddeNo": "7",
+      "heading": "Madde 7",
+      "text": "Hayvanlara tıbbî ve cerrahi müdahaleler sadece veteriner hekimler tarafından yapılır.\n Kontrolsüz üremenin önlenmesi için, hayvanlara acı vermeden kısırlaştırma müdahaleleri yapılır.",
+      "preview": "Hayvanlara tıbbî ve cerrahi müdahaleler sadece veteriner hekimler tarafından yapılır. Kontrolsüz üremenin önlenmesi için, hayvanlara acı ver…",
+      "kitap": null,
+      "kisim": "İKİNCİ KISIM · Koruma Tedbirleri",
+      "bolum": "İKİNCİ BÖLÜM · Hayvanlara Müdahaleler",
+      "ayirim": null,
+      "maddeBaslik": "Cerrahi müdahaleler",
+      "sectionPath": [
+        "İKİNCİ KISIM · Koruma Tedbirleri",
+        "İKİNCİ BÖLÜM · Hayvanlara Müdahaleler",
+        "Cerrahi müdahaleler"
+      ]
+    },
+    {
+      "id": "kanun:5199:m:8",
+      "maddeKind": "madde",
+      "maddeNo": "8",
+      "heading": "Madde 8",
+      "text": "Bir hayvan neslini yok edecek her türlü müdahale yasaktır.\n Hayvanların, yaşadıkları sürece, tıbbî amaçlar dışında organ veya dokularının tümü ya da bir bölümü çıkarılıp alınamaz veya tahrip edilemez.\n Ev (…)[12] hayvanının dış görünüşünü değiştirmeye yönelik veya diğer tedavi edici olmayan kuyruk ve kulak kesilmesi, ses tellerinin alınması ve tırnak ve dişlerinin sökülmesine yönelik cerrahi müdahale yapılması yasaktır. Ancak bu yasaklamalara; bir veteriner hekimin, veteriner hekimliği uygulamaları ile ilgili tıbbî sebepler veya özel bir hayvanın yararı için gerektiğinde tedavi edici olmayan müdahaleyi gerekli görmesi veya üremenin önlenmesi durumlarında izin verilebilir.\n Bir hayvana tıbbî amaçlar dışında, onun türüne ve etolojik özelliklerine aykırı hale getirecek şekilde ve dozda hormon ve ilaç vermek, çeşitli maddelerle doping yapmak, hayvanların türlerine has davranış ve fizikî özelliklerini yapay yöntemlerle değiştirmek yasaktır.",
+      "preview": "Bir hayvan neslini yok edecek her türlü müdahale yasaktır. Hayvanların, yaşadıkları sürece, tıbbî amaçlar dışında organ veya dokularının tüm…",
+      "kitap": null,
+      "kisim": "İKİNCİ KISIM · Koruma Tedbirleri",
+      "bolum": "İKİNCİ BÖLÜM · Hayvanlara Müdahaleler",
+      "ayirim": null,
+      "maddeBaslik": "Yasak müdahaleler",
+      "sectionPath": [
+        "İKİNCİ KISIM · Koruma Tedbirleri",
+        "İKİNCİ BÖLÜM · Hayvanlara Müdahaleler",
+        "Yasak müdahaleler"
+      ]
+    },
+    {
+      "id": "kanun:5199:m:9",
+      "maddeKind": "madde",
+      "maddeNo": "9",
+      "heading": "Madde 9",
+      "text": "Hayvanlar, bilimsel olmayan teşhis, tedavi ve deneylerde kullanılamazlar.\n Tıbbî ve bilimsel deneylerin uygulanması ve deneylerin hayvanları koruyacak şekilde yapılması ve deneylerde kullanılacak hayvanların uygun biçimde bakılması ve barındırılması esastır.\n Başkaca bir seçenek olmaması halinde, hayvanlar bilimsel çalışmalarda deney hayvanı olarak kullanılabilir.\n Hayvan deneyi yapan kurum ve kuruluşlarda bu deneylerin yapılmasına kendi bünyelerinde kurulmuş ve kurulacak etik kurullar yoluyla izin verilir.\n Etik kurulların kuruluşu, çalışma usul ve esasları, (…)[13] Sağlık Bakanlığının ve ilgili kuruluşların görüşleri alınarak Bakanlıkça çıkarılacak yönetmelikle belirlenir.\n Deney hayvanlarının yetiştirilmesi, beslenmesi, barındırılması, bakılması, deney hayvanı besleyen, tedarik eden ve kullanıcı işletmelerin tescil edilmesi, çalışan personelin nitelikleri, tutulacak kayıtlar, ne tür hayvanların yetiştirileceği ve deney hayvanı besleyen, tedarik eden ve kullanıcı işletmelerin uyacağı esaslar Bakanlıkça çıkarılacak yönetmelikle belirlenir.13",
+      "preview": "Hayvanlar, bilimsel olmayan teşhis, tedavi ve deneylerde kullanılamazlar. Tıbbî ve bilimsel deneylerin uygulanması ve deneylerin hayvanları…",
+      "kitap": null,
+      "kisim": "İKİNCİ KISIM · Koruma Tedbirleri",
+      "bolum": "İKİNCİ BÖLÜM · Hayvanlara Müdahaleler",
+      "ayirim": null,
+      "maddeBaslik": "Hayvan deneyleri",
+      "sectionPath": [
+        "İKİNCİ KISIM · Koruma Tedbirleri",
+        "İKİNCİ BÖLÜM · Hayvanlara Müdahaleler",
+        "Hayvan deneyleri"
+      ]
+    },
+    {
+      "id": "kanun:5199:m:10",
+      "maddeKind": "madde",
+      "maddeNo": "10",
+      "heading": "Madde 10",
+      "text": "Satılırken; hayvanların sağlıklarının iyi, barındırıldıkları yerin temiz ve sağlık şartlarına uygun olması zorunludur. (Ek cümle: 9/7/2021-7332/4 md.) Ev hayvanı satış yerlerinde kedi ve köpek bulundurulamaz, ancak buralarda Bakanlıkça izin verilen ev hayvanı üretim yerlerindeki kedi ve köpeklerin satışı yapılabilir.\n Çiftlik hayvanlarının bakımı, beslenmesi, nakliyesi ve kesimi esnasında hayvanların refahı ve güvenliğinin sağlanması hususundaki düzenlemeler Bakanlıkça çıkarılacak yönetmelikle belirlenir.\n Yabani hayvanların ticaretine ilişkin düzenlemeler Bakanlıkça çıkarılacak yönetmelikle belirlenir.\n Ev hayvanlarının üretimini ve ticaretini yapanlar, hayvanların sağlığını tehlikeye atmamak için gerekli anatomik, fizyolojik ve davranış karakteristikleri ile ilgili önlemleri almakla yükümlüdür.\n Hayvanların ticarî amaçla film çekimi ve reklam için kullanılması ile ilgili hususlar izne tâbidir. Bu izne ait usul ve esaslar ilgili kuruluşların görüşü alınarak Bakanlıkça çıkarılacak yönetmelikle belirlenir.\n Bir hayvan; acı, ıstırap ya da zarar görecek şekilde, film çekimi, gösteri, reklam ve benzeri işler için kullanılamaz.\n Deney hayvanlarının ithalat ve ihracatı izne tâbidir. Bu izin, Bakanlıkça verilir.\n Hasta, sakat ve yaşlı durumda bulunan veya iyileşemeyecek derecede ağrısı veya acısı olan bir hayvanı usulüne uygun kesmek ya da ağrısız öldürme amacından başka bir amaçla birine devretmek, satmak veya almak yasaktır.",
+      "preview": "Satılırken; hayvanların sağlıklarının iyi, barındırıldıkları yerin temiz ve sağlık şartlarına uygun olması zorunludur. (Ek cümle: 9/7/2021-7…",
+      "kitap": null,
+      "kisim": "İKİNCİ KISIM · Koruma Tedbirleri",
+      "bolum": "ÜÇÜNCÜ BÖLÜM · Hayvanların Ticareti ve Eğitilmesi",
+      "ayirim": null,
+      "maddeBaslik": "Hayvanların ticareti[14]",
+      "sectionPath": [
+        "İKİNCİ KISIM · Koruma Tedbirleri",
+        "ÜÇÜNCÜ BÖLÜM · Hayvanların Ticareti ve Eğitilmesi",
+        "Hayvanların ticareti[14]"
+      ]
+    },
+    {
+      "id": "kanun:5199:m:11",
+      "maddeKind": "madde",
+      "maddeNo": "11",
+      "heading": "Madde 11",
+      "text": "Hayvanlar, doğal kapasitesini veya gücünü aşacak şekilde veya yaralanmasına, gereksiz acı çekmesine, kötü alışkanlıklara özendirilmesine neden olacak yöntemlerle eğitilemez.\n Hayvanları başka bir canlı hayvanla dövüştürmek yasaktır. Folklorik amaca yönelik, şiddet içermeyen geleneksel gösteriler, Bakanlığın uygun görüşü alınarak il hayvanları koruma kurullarından izin alınmak suretiyle düzenlenebilir.",
+      "preview": "Hayvanlar, doğal kapasitesini veya gücünü aşacak şekilde veya yaralanmasına, gereksiz acı çekmesine, kötü alışkanlıklara özendirilmesine ned…",
+      "kitap": null,
+      "kisim": "İKİNCİ KISIM · Koruma Tedbirleri",
+      "bolum": "ÜÇÜNCÜ BÖLÜM · Hayvanların Ticareti ve Eğitilmesi",
+      "ayirim": null,
+      "maddeBaslik": "Eğitim",
+      "sectionPath": [
+        "İKİNCİ KISIM · Koruma Tedbirleri",
+        "ÜÇÜNCÜ BÖLÜM · Hayvanların Ticareti ve Eğitilmesi",
+        "Eğitim"
+      ]
+    },
+    {
+      "id": "kanun:5199:m:12",
+      "maddeKind": "madde",
+      "maddeNo": "12",
+      "heading": "Madde 12",
+      "text": "Hayvanların kesilmesi; dini kuralların gerektirdiği özel koşullar dikkate alınarak hayvanı korkutmadan, ürkütmeden, en az acı verecek şekilde, hijyenik kurallara uyularak ve usulüne uygun olarak bir anda yapılır. Hayvanların kesiminin ehliyetli kişilerce yapılması sağlanır.\n Dini amaçla kurban kesmek isteyenlerin kurbanlarını dini hükümlere, sağlık şartlarına, çevre temizliğine uygun olarak, hayvana en az acı verecek şekilde bir anda kesimi, kesim yerleri, ehliyetli kesim yapacak kişiler ve ilgili diğer hususlar Bakanlık, kurum ve kuruluşların görüşü alınarak, Diyanet İşleri Başkanlığının bağlı olduğu Bakanlıkça çıkarılacak yönetmelikle belirlenir.\n\n Hayvanların ötanazisi (Değişik başlık: 30/7/2024-7527/5 md.)",
+      "preview": "Hayvanların kesilmesi; dini kuralların gerektirdiği özel koşullar dikkate alınarak hayvanı korkutmadan, ürkütmeden, en az acı verecek şekild…",
+      "kitap": null,
+      "kisim": "İKİNCİ KISIM · Koruma Tedbirleri",
+      "bolum": "DÖRDÜNCÜ BÖLÜM · Hayvanların Kesimi, Ötanazisi ve Yasaklar[15]",
+      "ayirim": null,
+      "maddeBaslik": "Hayvanların kesimi",
+      "sectionPath": [
+        "İKİNCİ KISIM · Koruma Tedbirleri",
+        "DÖRDÜNCÜ BÖLÜM · Hayvanların Kesimi, Ötanazisi ve Yasaklar[15]",
+        "Hayvanların kesimi"
+      ]
+    },
+    {
+      "id": "kanun:5199:m:13",
+      "maddeKind": "madde",
+      "maddeNo": "13",
+      "heading": "Madde 13",
+      "text": "(Ek: 30/7/2024-7527/5 md.) Bakımevine alınan köpeklerden; insan ve hayvanların hayatı ve sağlığı için tehlike teşkil eden ve olumsuz davranışları kontrol edilemeyen, bulaşıcı veya tedavi edilemeyen hastalığı bulunan ya da sahiplenilmesi yasak olanlara 11/6/2010 tarihli ve 5996 sayılı Veteriner Hizmetleri, Bitki Sağlığı, Gıda ve Yem Kanununun 9 uncu maddesinin üçüncü fıkrasında belirtilen tedbir uygulanır.\n (Ek: 30/7/2024-7527/5 md.) Yerel yönetimler sahipsiz köpeklere ilişkin yürüttüğü iş ve işlemlerde Bakanlar Kurulunun 28/8/2003 tarihli ve 2003/6168 sayılı Kararı ile onaylanan Ev Hayvanlarının Korunmasına Dair Avrupa Sözleşmesi kapsamında gerekli idari tedbirleri almaya yetkilidir.\n Kanunî istisnalar ile tıbbî ve bilimsel gerekçeler ve gıda amaçlı olmayan, insan ve çevre sağlığına yönelen önlenemez tehditler bulunan acil durumlar dışında yavrulama, gebelik ve süt anneliği dönemlerinde hayvanlar öldürülemez.\n Öldürme işleminden sorumlu kişi ve kuruluşlar, hayvanın kesin olarak öldüğünden emin olunduktan sonra, hayvanın ölüsünü usulüne uygun olarak bertaraf etmek veya ettirmekle yükümlüdürler. Öldürme ve ötanazi işlemine ilişkin esas ve usuller Bakanlıkça çıkarılacak yönetmelikle belirlenir.[16]",
+      "preview": "(Ek: 30/7/2024-7527/5 md.) Bakımevine alınan köpeklerden; insan ve hayvanların hayatı ve sağlığı için tehlike teşkil eden ve olumsuz davranı…",
+      "kitap": null,
+      "kisim": "İKİNCİ KISIM · Koruma Tedbirleri",
+      "bolum": "DÖRDÜNCÜ BÖLÜM · Hayvanların Kesimi, Ötanazisi ve Yasaklar[15]",
+      "ayirim": null,
+      "maddeBaslik": "Hayvanların kesimi",
+      "sectionPath": [
+        "İKİNCİ KISIM · Koruma Tedbirleri",
+        "DÖRDÜNCÜ BÖLÜM · Hayvanların Kesimi, Ötanazisi ve Yasaklar[15]",
+        "Hayvanların kesimi"
+      ]
+    },
+    {
+      "id": "kanun:5199:m:14",
+      "maddeKind": "madde",
+      "maddeNo": "14",
+      "heading": "Madde 14",
+      "text": "Hayvanlarla ilgili yasaklar şunlardır:\n a) Hayvanlara kasıtlı olarak kötü davranmak, (…)17 dövmek, aç ve susuz bırakmak, aşırı soğuğa ve sıcağa maruz bırakmak, bakımlarını ihmal etmek, fiziksel ve psikolojik acı çektirmek.\n b) Hayvanları, gücünü aştığı açıkça görülen fiillere zorlamak.\n c) Hayvan bakımı eğitimi almamış kişilerce ev (…)17 hayvanı satmak.\n d) Ev (…)17 hayvanlarını onaltı yaşından küçüklere satmak.\n e) Hayvanların kesin olarak öldüğü anlaşılmadan, vücutlarına tedavi maksatlı olmayan müdahalelerde bulunmak.17\n f) Kesim hayvanları ve 4915 sayılı Kanun çerçevesinde avlanmasına ve özel üretim çiftliklerinde kesim hayvanı olarak üretimine izin verilen av hayvanları ile ticarete konu yabani hayvanlar dışındaki hayvanları, et ihtiyacı amacıyla kesip ya da öldürüp piyasaya sürmek.\n g) Kesim için yetiştirilmiş hayvanlar dışındaki hayvanları ödül, ikramiye ya da prim olarak dağıtmak.\n h) Kanunî ve tıbbî gerekçeler hariç hayvanlara ya da onların ana karnındaki yavrularına veya havyar üretimi hariç yumurtalarına zarar verebilecek sunî müdahaleler yapmak, yabancı maddeler vermek.[18]\n ı) Hayvanları hasta, gebelik süresinin 2/3’ünü tamamlamış gebe ve yeni ana iken çalıştırmak, uygun olmayan koşullarda barındırmak.\n j) (Değişik:9/7/2021-7332/5 md.) Hayvanlara cinsel saldırıda bulunmak veya tecavüz etmek.\n k) Sağlık nedenleri ile gerekli olmadıkça bir hayvana zor kullanarak yem yedirmek, acı, ıstırap ya da zarar veren yiyecekler ile alkollü içki, sigara, uyuşturucu ve bunun gibi bağımlılık yapan yiyecek veya içecekler vermek.\n l) (Değişik:9/7/2021-7332/5 md.) Bakanlıkça belirlenen tehlike arz eden hayvanları üretmek, sahiplenmek, sahiplendirmek, barındırmak, beslemek, takas etmek, sergilemek, hediye etmek ve bunların ülkemize girişini, satışını ve reklamını yapmak.\n m) (Ek:9/7/2021-7332/5 md.) Hayvanlara işkence yapmak veya acımasız ve zalimce muamelede bulunmak.\n n) (Ek:9/7/2021-7332/5 md.) Ev hayvanını terk etmek.\n o) (Ek: 30/7/2024-7527/6 md.) Yerel yönetimler adına toplanan sahipsiz hayvanları bakımevi dışında bir yere terk etmek veya bakımevinde barındırılan köpekleri bakımevi dışında bir yere bırakmak.",
+      "preview": "Hayvanlarla ilgili yasaklar şunlardır: a) Hayvanlara kasıtlı olarak kötü davranmak, (…)17 dövmek, aç ve susuz bırakmak, aşırı soğuğa ve sıca…",
+      "kitap": null,
+      "kisim": "İKİNCİ KISIM · Koruma Tedbirleri",
+      "bolum": "DÖRDÜNCÜ BÖLÜM · Hayvanların Kesimi, Ötanazisi ve Yasaklar[15]",
+      "ayirim": null,
+      "maddeBaslik": "Yasaklar[17]",
+      "sectionPath": [
+        "İKİNCİ KISIM · Koruma Tedbirleri",
+        "DÖRDÜNCÜ BÖLÜM · Hayvanların Kesimi, Ötanazisi ve Yasaklar[15]",
+        "Yasaklar[17]"
+      ]
+    },
+    {
+      "id": "kanun:5199:m:15",
+      "maddeKind": "madde",
+      "maddeNo": "15",
+      "heading": "Madde 15",
+      "text": "Her ilde il hayvanları koruma kurulu, valinin başkanlığında, sadece hayvanların korunması ve mevcut sorunlar ile çözümlerine yönelik olmak üzere toplanır.\n Bu toplantılara;[19]\n a) Büyükşehir belediyesi olan illerde büyükşehir belediye başkanları, büyükşehire bağlı ilçe belediye başkanları, büyükşehir olmayan illerde belediye başkanları,\n b) (Değişik:9/7/2021-7332/6 md.) Doğa koruma ve milli parklar il şube müdürü,\n c) (Değişik:9/7/2021-7332/6 md.) Tarım ve orman il müdürü,\n d) (Ek:9/7/2021-7332/6 md.) Çevre ve şehircilik il müdürü,\n e) İl sağlık müdürü,\n f) İl millî eğitim müdürü,\n g) İl müftüsü,\n h) Belediyelerin veteriner işleri müdürü,\n ı) Veteriner fakülteleri olan yerlerde fakülte temsilcisi,\n j) Münhasıran hayvanları koruma ile ilgili faaliyet gösteren gönüllü kuruluşlardan valilik tarafından seçilecek en çok iki temsilci,\n k) İl veya bölge veteriner hekimler odasından bir temsilci,\n 1) (Ek:9/7/2021-7332/6 md.) İl baro temsilcisi veya ildeki barolardan birer temsilci,\n katılır.\n Kurul başkanı gerekli gördüğü durumlarda konuyla ilgili olarak diğer kurum ve kuruluşlardan yetkili isteyebilir.\n İl hayvan koruma kurulu sekretaryasını, doğa koruma ve milli parklar il şube müdürlüğü yürütür. Kurul, çalışmalarının sonucunu, önemli politika, strateji, uygulama, inceleme ve görüşleri Bakanlığa bildirir. İllerde temsilciliği bulunmayan kuruluş var ise il hayvan koruma kurulları diğer üyelerden oluşur. (Değişik cümle:9/7/2021-7332/6 md.) Kurul en geç üç ayda bir başkanın çağrısı üzerine toplanır. (Ek cümle:9/7/2021-7332/6 md.) Gerektiğinde olağanüstü toplantılar yapılabilir.[20]\n İl hayvan koruma kurulunun çalışma esas ve usulleri Bakanlıkça çıkarılacak yönetmelikle belirlenir.",
+      "preview": "Her ilde il hayvanları koruma kurulu, valinin başkanlığında, sadece hayvanların korunması ve mevcut sorunlar ile çözümlerine yönelik olmak ü…",
+      "kitap": null,
+      "kisim": "ÜÇÜNCÜ KISIM · Hayvan Koruma Yönetimi",
+      "bolum": "BİRİNCİ BÖLÜM · Mahallî Hayvan Koruma Kurulları Teşkilât, Görev ve Sorumluluklar",
+      "ayirim": null,
+      "maddeBaslik": "İl hayvanları koruma kurulu",
+      "sectionPath": [
+        "ÜÇÜNCÜ KISIM · Hayvan Koruma Yönetimi",
+        "BİRİNCİ BÖLÜM · Mahallî Hayvan Koruma Kurulları Teşkilât, Görev ve Sorumluluklar",
+        "İl hayvanları koruma kurulu"
+      ]
+    },
+    {
+      "id": "kanun:5199:m:16",
+      "maddeKind": "madde",
+      "maddeNo": "16",
+      "heading": "Madde 16",
+      "text": "Hayvanları koruma kurulu münhasıran hayvanların korunması, sorunların tespiti ve çözümlerini karara bağlamak üzere; av ve yaban hayvanlarının ve yaşama alanlarının korunması ve avcılığın düzenlenmesi hususlarında alınmış olan Merkez Av Komisyonu kararlarını göz önünde bulundurarak;[21]\n a) Hayvanların korunması ve kullanılmasında onların yasal temsilciliği niteliği ile bu Kanunda belirtilen görevleri yerine getirmek,\n b) (Değişik: 30/7/2024-7527/7 md.) İl sınırları içinde hayvanların korunmasına ilişkin ve sahipsiz hayvanlardan kaynaklı sorunları belirleyip, sorunların çözüm tekliflerini içeren yıllık, beş yıllık ve on yıllık plan ve projeler yapmak, yıllık hedef raporları hazırlayıp Bakanlığın uygun görüşüne sunmak, Bakanlığın olumlu görüşünü alarak insan, hayvan ve çevre sağlığına ilişkin her türlü önlemi almak,\n c) Hazırlanan uygulama programlarının uygulanmasını sağlamak ve sonuçtan Bakanlığa bilgi vermek,\n d) Hayvanların korunması ile ilgili olarak çeşitli kişi, kurum ve kuruluşların il düzeyindeki faaliyetlerini izlemek, yönlendirmek ve bu konuda gerekli eşgüdümü sağlamak,\n e) İlde kurulacak olan hayvan bakımevleri ve hayvan hastanelerini desteklemek, geliştirmek, denetlemek ve gerekli önlemleri almak,\n f) (Mülga: 30/7/2024-7527/7 md.)\n g) Hayvan sevgisi, korunması ve yaşatılması ile ilgili eğitici faaliyetler düzenlemek,\n h) (Ek:9/7/2021-7332/7 md.) Kanunda belirtilen faaliyet ve görevleri yerel yönetimler ve tarım ve orman il müdürlükleri ile eşgüdüm sağlayarak yaptırmak,\n ı) Bu Kanuna göre çıkarılacak mevzuatla verilecek görevleri yapmak,\n İle görevli ve yükümlüdür.",
+      "preview": "Hayvanları koruma kurulu münhasıran hayvanların korunması, sorunların tespiti ve çözümlerini karara bağlamak üzere; av ve yaban hayvanlarını…",
+      "kitap": null,
+      "kisim": "ÜÇÜNCÜ KISIM · Hayvan Koruma Yönetimi",
+      "bolum": "BİRİNCİ BÖLÜM · Mahallî Hayvan Koruma Kurulları Teşkilât, Görev ve Sorumluluklar",
+      "ayirim": null,
+      "maddeBaslik": "İl hayvanları koruma kurulunun görevleri",
+      "sectionPath": [
+        "ÜÇÜNCÜ KISIM · Hayvan Koruma Yönetimi",
+        "BİRİNCİ BÖLÜM · Mahallî Hayvan Koruma Kurulları Teşkilât, Görev ve Sorumluluklar",
+        "İl hayvanları koruma kurulunun görevleri"
+      ]
+    },
+    {
+      "id": "kanun:5199:m:17",
+      "maddeKind": "madde",
+      "maddeNo": "17",
+      "heading": "Madde 17",
+      "text": "Bu Kanun hükümlerine uyulup uyulmadığını denetleme yetkisi Bakanlığa aittir. Gerektiğinde bu yetki Bakanlıkça mahallin en büyük mülkî amirine yetki devri suretiyle devredilebilir.\n Denetim elemanlarının nitelikleri ve denetime ilişkin usul ve esaslar ile kayıt ve izleme sistemi kurma, bildirim yükümlülüğü ile bunları verecekler hakkındaki usul ve esaslar Bakanlıkça çıkarılacak yönetmelikle belirlenir.\n Yerel yönetimler, (…)[23] sahipsiz hayvanların kayıt altına alınması ile ilgili işlemleri yapmakla yükümlüdürler.",
+      "preview": "Bu Kanun hükümlerine uyulup uyulmadığını denetleme yetkisi Bakanlığa aittir. Gerektiğinde bu yetki Bakanlıkça mahallin en büyük mülkî amirin…",
+      "kitap": null,
+      "kisim": "ÜÇÜNCÜ KISIM · Hayvan Koruma Yönetimi",
+      "bolum": "İKİNCİ BÖLÜM · Denetim (…)[22]",
+      "ayirim": null,
+      "maddeBaslik": "Denetim",
+      "sectionPath": [
+        "ÜÇÜNCÜ KISIM · Hayvan Koruma Yönetimi",
+        "İKİNCİ BÖLÜM · Denetim (…)[22]",
+        "Denetim"
+      ]
+    },
+    {
+      "id": "kanun:5199:m:18",
+      "maddeKind": "madde",
+      "maddeNo": "18",
+      "heading": "Madde 18",
+      "text": "(Mülga: 30/7/2024-7527/15 md.)",
+      "preview": "(Mülga: 30/7/2024-7527/15 md.)",
+      "kitap": null,
+      "kisim": "ÜÇÜNCÜ KISIM · Hayvan Koruma Yönetimi",
+      "bolum": "İKİNCİ BÖLÜM · Denetim (…)[22]",
+      "ayirim": null,
+      "maddeBaslik": "Yerel hayvan koruma görevlilerinin sorumlulukları",
+      "sectionPath": [
+        "ÜÇÜNCÜ KISIM · Hayvan Koruma Yönetimi",
+        "İKİNCİ BÖLÜM · Denetim (…)[22]",
+        "Yerel hayvan koruma görevlilerinin sorumlulukları"
+      ]
+    },
+    {
+      "id": "kanun:5199:m:19",
+      "maddeKind": "madde",
+      "maddeNo": "19",
+      "heading": "Madde 19",
+      "text": "(Değişik birinci cümle: 30/7/2024-7527/8 md.) İnsan, hayvan ve çevre sağlığının korunması amacıyla bakımevleri, hastaneler ve ameliyathaneler kurmak, bunlara ilişkin ilaç, alet ve ekipmanları temin etmek ile bakımevlerinde bakım, rehabilitasyon ve sahiplendirme gibi faaliyetleri yürütmek için, başta yerel yönetimler olmak üzere diğer ilgili kurum ve kuruluşlara teşvik veya Bakanlıkça uygun görülen miktarlarda mali destek sağlanır. Bu amaçla Bakanlık bütçesine gerekli ödenek konulur. Bu ödeneğin kullanımına ilişkin esas ve usuller, Hazine ve Maliye Bakanlığının olumlu görüşü alınmak suretiyle Bakanlıkça çıkarılacak yönetmelikle belirlenir.[24]\n (Ek ikinci fıkra:9/7/2021-7332/8 md.) Birinci fıkra kapsamındaki faaliyetlerde kullanılmak üzere, gerçek ve tüzel kişilerce ayni veya nakdî bağış Bakanlığa ve yerel yönetimlere yapılabilir.",
+      "preview": "(Değişik birinci cümle: 30/7/2024-7527/8 md.) İnsan, hayvan ve çevre sağlığının korunması amacıyla bakımevleri, hastaneler ve ameliyathanele…",
+      "kitap": null,
+      "kisim": "ÜÇÜNCÜ KISIM · Hayvan Koruma Yönetimi",
+      "bolum": "ÜÇÜNCÜ BÖLÜM · Hayvanların Korunmasının Desteklenmesi",
+      "ayirim": null,
+      "maddeBaslik": "Mali destek",
+      "sectionPath": [
+        "ÜÇÜNCÜ KISIM · Hayvan Koruma Yönetimi",
+        "ÜÇÜNCÜ BÖLÜM · Hayvanların Korunmasının Desteklenmesi",
+        "Mali destek"
+      ]
+    },
+    {
+      "id": "kanun:5199:m:20",
+      "maddeKind": "madde",
+      "maddeNo": "20",
+      "heading": "Madde 20",
+      "text": "Hayvanların korunması ve refahı amacıyla; yaygın ve örgün eğitime yönelik programların yapılması, radyo ve televizyon programlarında bu konuya yer verilmesi esastır. Türkiye Radyo ve Televizyon Kurumu ile özel televizyon kanallarına ait televizyon programlarında ayda en az iki saat, özel radyo kanallarının programlarında ise ayda en az yarım saat eğitici yayınların yapılması zorunludur. Bu yayınların % 20'sinin izlenme ve dinlenme oranı en yüksek saatlerde yapılması esastır. Radyo ve Televizyon Üst Kurulu görev alanına giren hususlarda bu maddenin takibi ile yükümlüdür.\n (Ek ikinci fıkra:9/7/2021-7332/9 md.) Bu madde hakkında 15/2/2011 tarihli ve 6112 sayılı Radyo ve Televizyonların Kuruluş ve Yayın Hizmetleri Hakkında Kanunun 48 inci maddesinin ikinci fıkrası hükmü uygulanmaz.",
+      "preview": "Hayvanların korunması ve refahı amacıyla; yaygın ve örgün eğitime yönelik programların yapılması, radyo ve televizyon programlarında bu konu…",
+      "kitap": null,
+      "kisim": "ÜÇÜNCÜ KISIM · Hayvan Koruma Yönetimi",
+      "bolum": "DÖRDÜNCÜ BÖLÜM · Diğer Hükümler",
+      "ayirim": null,
+      "maddeBaslik": "Eğitici yayınlar",
+      "sectionPath": [
+        "ÜÇÜNCÜ KISIM · Hayvan Koruma Yönetimi",
+        "DÖRDÜNCÜ BÖLÜM · Diğer Hükümler",
+        "Eğitici yayınlar"
+      ]
+    },
+    {
+      "id": "kanun:5199:m:21",
+      "maddeKind": "madde",
+      "maddeNo": "21",
+      "heading": "Madde 21",
+      "text": "Bir hayvana çarpan ve ona zarar veren sürücü, onu en yakın veteriner hekim ya da tedavi ünitesine götürmek veya götürülmesini sağlamak zorundadır.",
+      "preview": "Bir hayvana çarpan ve ona zarar veren sürücü, onu en yakın veteriner hekim ya da tedavi ünitesine götürmek veya götürülmesini sağlamak zorun…",
+      "kitap": null,
+      "kisim": "ÜÇÜNCÜ KISIM · Hayvan Koruma Yönetimi",
+      "bolum": "DÖRDÜNCÜ BÖLÜM · Diğer Hükümler",
+      "ayirim": null,
+      "maddeBaslik": "Trafik kazaları",
+      "sectionPath": [
+        "ÜÇÜNCÜ KISIM · Hayvan Koruma Yönetimi",
+        "DÖRDÜNCÜ BÖLÜM · Diğer Hükümler",
+        "Trafik kazaları"
+      ]
+    },
+    {
+      "id": "kanun:5199:m:22",
+      "maddeKind": "madde",
+      "maddeNo": "22",
+      "heading": "Madde 22",
+      "text": "İşletme sahipleri ve belediyeler hayvanat bahçelerini, doğal yaşama ortamına en uygun şekilde tanzim etmekle ve ettirmekle yükümlüdürler. (Mülga ikinci cümle: 9/7/2021-7332/10 md.)\n (Ek ikinci fıkra:9/7/2021-7332/10 md.) Gerçek veya tüzel kişiler, hayvanların etolojisine ve habitatına uygun, serbest dolaşımlarına imkan sağlayan doğal yaşam parkları kurabilir.\n (Ek üçüncü fıkra:9/7/2021-7332/10 md.) Hayvanat bahçeleri ile doğal yaşam parklarının kuruluşu ile çalışma usul ve esasları Bakanlıkça çıkarılacak yönetmelikle belirlenir.",
+      "preview": "İşletme sahipleri ve belediyeler hayvanat bahçelerini, doğal yaşama ortamına en uygun şekilde tanzim etmekle ve ettirmekle yükümlüdürler. (M…",
+      "kitap": null,
+      "kisim": "ÜÇÜNCÜ KISIM · Hayvan Koruma Yönetimi",
+      "bolum": "DÖRDÜNCÜ BÖLÜM · Diğer Hükümler",
+      "ayirim": null,
+      "maddeBaslik": "Hayvanat bahçeleri ve doğal yaşam parkları[25]",
+      "sectionPath": [
+        "ÜÇÜNCÜ KISIM · Hayvan Koruma Yönetimi",
+        "DÖRDÜNCÜ BÖLÜM · Diğer Hükümler",
+        "Hayvanat bahçeleri ve doğal yaşam parkları[25]"
+      ]
+    },
+    {
+      "id": "kanun:5199:m:23",
+      "maddeKind": "madde",
+      "maddeNo": "23",
+      "heading": "Madde 23",
+      "text": "(Mülga: 11/6/2010-5996/47 md.)",
+      "preview": "(Mülga: 11/6/2010-5996/47 md.)",
+      "kitap": null,
+      "kisim": "ÜÇÜNCÜ KISIM · Hayvan Koruma Yönetimi",
+      "bolum": "DÖRDÜNCÜ BÖLÜM · Diğer Hükümler",
+      "ayirim": null,
+      "maddeBaslik": "Yasak ve izinler",
+      "sectionPath": [
+        "ÜÇÜNCÜ KISIM · Hayvan Koruma Yönetimi",
+        "DÖRDÜNCÜ BÖLÜM · Diğer Hükümler",
+        "Yasak ve izinler"
+      ]
+    },
+    {
+      "id": "kanun:5199:m:24",
+      "maddeKind": "madde",
+      "maddeNo": "24",
+      "heading": "Madde 24",
+      "text": "Bu Kanunun hayvanları korumaya yönelik hükümlerine aykırı hareket eden veya sahiplendiği hayvanların bakımını ciddi şekilde ihmal eden ya da onlara ağrı, acı veya zarar veren kişilerin denetimle yetkili merci tarafından hayvan bulundurması yasaklanır ve hayvanlarına el konulur. (Değişik son cümle: 30/7/2024-7527/9 md.) Söz konusu hayvanlardan sahiplendirilme niteliği olanlar sahiplendirilinceye kadar hayvan bakımevinde barındırılır.[26]\n\n DÖRDÜNCÜ KISIM\n Cezai Hükümler\n\n BİRİNCİ BÖLÜM\n İdari Para Cezası Verme Yetkisi, Cezalar, Ödeme Süresi, Tahsil ve İtiraz",
+      "preview": "Bu Kanunun hayvanları korumaya yönelik hükümlerine aykırı hareket eden veya sahiplendiği hayvanların bakımını ciddi şekilde ihmal eden ya da…",
+      "kitap": null,
+      "kisim": "ÜÇÜNCÜ KISIM · Hayvan Koruma Yönetimi",
+      "bolum": "DÖRDÜNCÜ BÖLÜM · Diğer Hükümler",
+      "ayirim": null,
+      "maddeBaslik": "Koruma altına alma",
+      "sectionPath": [
+        "ÜÇÜNCÜ KISIM · Hayvan Koruma Yönetimi",
+        "DÖRDÜNCÜ BÖLÜM · Diğer Hükümler",
+        "Koruma altına alma"
+      ]
+    },
+    {
+      "id": "kanun:5199:m:25",
+      "maddeKind": "madde",
+      "maddeNo": "25",
+      "heading": "Madde 25",
+      "text": "Bu Kanunda öngörülen idarî para cezaları bu Kanunun 17 nci maddesinde belirtilen denetime yetkili merci tarafından verilir.",
+      "preview": "Bu Kanunda öngörülen idarî para cezaları bu Kanunun 17 nci maddesinde belirtilen denetime yetkili merci tarafından verilir.",
+      "kitap": null,
+      "kisim": "ÜÇÜNCÜ KISIM · Hayvan Koruma Yönetimi",
+      "bolum": "DÖRDÜNCÜ BÖLÜM · Diğer Hükümler",
+      "ayirim": null,
+      "maddeBaslik": "İdarî para cezası verme yetkisi",
+      "sectionPath": [
+        "ÜÇÜNCÜ KISIM · Hayvan Koruma Yönetimi",
+        "DÖRDÜNCÜ BÖLÜM · Diğer Hükümler",
+        "İdarî para cezası verme yetkisi"
+      ]
+    },
+    {
+      "id": "kanun:5199:m:26",
+      "maddeKind": "madde",
+      "maddeNo": "26",
+      "heading": "Madde 26",
+      "text": "(Mülga: 23/1/2008 – 5728/578 md.)",
+      "preview": "(Mülga: 23/1/2008 – 5728/578 md.)",
+      "kitap": null,
+      "kisim": "ÜÇÜNCÜ KISIM · Hayvan Koruma Yönetimi",
+      "bolum": "DÖRDÜNCÜ BÖLÜM · Diğer Hükümler",
+      "ayirim": null,
+      "maddeBaslik": "İdari para cezalarına itiraz",
+      "sectionPath": [
+        "ÜÇÜNCÜ KISIM · Hayvan Koruma Yönetimi",
+        "DÖRDÜNCÜ BÖLÜM · Diğer Hükümler",
+        "İdari para cezalarına itiraz"
+      ]
+    },
+    {
+      "id": "kanun:5199:m:27",
+      "maddeKind": "madde",
+      "maddeNo": "27",
+      "heading": "Madde 27",
+      "text": "(Mülga: 23/1/2008 – 5728/578 md.)",
+      "preview": "(Mülga: 23/1/2008 – 5728/578 md.)",
+      "kitap": null,
+      "kisim": "ÜÇÜNCÜ KISIM · Hayvan Koruma Yönetimi",
+      "bolum": "DÖRDÜNCÜ BÖLÜM · Diğer Hükümler",
+      "ayirim": null,
+      "maddeBaslik": "İdarî para cezalarının ödenme süresi ve tahsili",
+      "sectionPath": [
+        "ÜÇÜNCÜ KISIM · Hayvan Koruma Yönetimi",
+        "DÖRDÜNCÜ BÖLÜM · Diğer Hükümler",
+        "İdarî para cezalarının ödenme süresi ve tahsili"
+      ]
+    },
+    {
+      "id": "kanun:5199:m:28",
+      "maddeKind": "madde",
+      "maddeNo": "28",
+      "heading": "Madde 28",
+      "text": "(Değişik:9/7/2021-7332/11 md.)\n Bu Kanun hükümlerine aykırı davrananlara aşağıdaki idarî para cezaları verilir:\n a) 4 üncü maddenin birinci fıkrasının (k) bendinin ikinci cümlesine aykırı davrananlara hayvan başına bin iki yüz Türk lirası idarî para cezası.\n b) 5 inci maddenin birinci ve ikinci fıkralarında öngörülen hayvanların sahiplenilmesi ve bakımı ile ilgili yasaklara ve yükümlülüklere uymayan ve alınması gereken önlemleri almayanlara hayvan başına bin Türk lirası; üçüncü fıkrasına aykırı davranan işletme sahiplerine beş bin Türk lirası idarî para cezası.\n c) 7 nci maddede yazılan cerrahi amaçlı müdahaleler ile ilgili hükümlere aykırı davrananlara hayvan başına bin Türk lirası idarî para cezası.\n d) Fiil suç teşkil etmediği takdirde, 8 inci maddenin birinci fıkrasında yazılı, bir hayvan neslini yok edecek müdahalede bulunanlara hayvan başına otuz beş bin Türk lirası; ikinci, üçüncü ve dördüncü fıkralarına uymayanlara hayvan başına dört bin beş yüz Türk lirası idarî para cezası.\n e) 9 uncu maddede ve çıkarılacak yönetmeliklerinde belirtilen hususlara uymayanlara hayvan başına bin iki yüz Türk lirası; yetkisi olmadığı hâlde hayvan deneyi yapanlara hayvan başına dört bin beş yüz Türk lirası idarî para cezası.\n f) 10 uncu maddenin birinci fıkrasının birinci cümlesine aykırı davrananlara beş yüz Türk lirası; birinci fıkrasının ikinci cümlesine aykırı davrananlara hayvan başına bin beş yüz Türk lirası; dördüncü fıkrasındaki yükümlülüklere aykırı davrananlara hayvan başına beş yüz Türk lirası; beşinci fıkrası uyarınca çıkarılacak yönetmelik hükümlerine aykırı davrananlara beş bin Türk lirası; altıncı fıkrasına aykırı davrananlara üç bin Türk lirası; sekizinci fıkrasına aykırı davrananlara hayvan başına bin Türk lirası idarî para cezası.\n g) 11 inci maddenin birinci fıkrasındaki eğitim ile ilgili yasaklara aykırı davrananlara beş bin beş yüz Türk lirası idarî para cezası.\n h) 12 nci maddenin birinci fıkrasına aykırı hareket edenlere hayvan başına iki bin yüz Türk lirası; ikinci fıkrasına aykırı hareket edenlere hayvan başına beş bin iki yüz elli Türk lirası idarî para cezası.\n ı) 13 üncü maddenin dördüncü fıkrası hükmüne aykırı davrananlara hayvan başına iki bin iki yüz Türk lirası; aykırı davranışların işletmelerce gösterilmesi hâlinde hayvan başına beş bin beş yüz Türk lirası idarî para cezası.\n j) 14 üncü maddenin birinci fıkrasının (a), (b), (e), (g), (h), (ı) ve (k) bentlerine aykırı davrananlara hayvan başına bin beş yüz Türk lirası; (f) ve (1) bentlerine aykırı davrananlara hayvan başına on bir bin Türk lirası; (d) bendine aykırı davrananlara iki bin Türk lirası; (n) bendine aykırı davrananlara hayvan başına altmış bin Türk lirası; (o) bendine aykırı davrananlara hayvan başına elli bin Türk lirası idarî para cezası.\n k) Radyo ve Televizyon Üst Kurulunun takibi sonucunda 20 nci maddeye aykırı hareket ettiği tespit edilen ulusal radyo ve televizyon kurum ve kuruluşlarına maddenin ihlal edildiği her ay için yirmi bir bin Türk lirası idarî para cezası.\n 1) 21 inci maddeye aykırı hareket edenlere hayvan başına bin beş yüz Türk lirası idarî para cezası.\n m) 22 nci maddede belirtilen yükümlülüğe ve çıkarılacak yönetmelikte belirlenen hükümlere aykırı davrananlara hayvan başına iki bin beş yüz Türk lirası idarî para cezası.\n Maddede düzenlenen kabahatlerin veteriner hekim, veteriner sağlık teknisyeni, (…)28 hayvan koruma derneği üyeleri, hayvan koruma vakfı üyeleri veya hayvanlara bakmak veya onları korumakla görevlendirilen kişiler tarafından işlenmesi durumunda verilecek ceza iki kat artırılarak uygulanır.\n Maddede düzenlenen kabahatlere konu olan ve 24 üncü madde uyarınca el konulan kedi ve köpekler ile Bakanlıkça uygun görülen diğer hayvanlar koruma altına alınarak bakımevi bulunan en yakın belediye tarafından hayvan bakımevine götürülür.\n\n Adli cezalar\n MADDE 28/A – (Ek:9/7/2021-7332/12 md.)\n Nesli yok olma tehlikesi altında olan bir hayvanı öldüren kişi bir yıldan beş yıla kadar hapis cezası; bir hayvan neslini yok eden kişi beş yıldan on yıla kadar hapis cezası ile cezalandırılır.\n 12 nci madde kapsamındaki hayvan kesimleri ile 13 üncü maddenin birinci, ikinci ve üçüncü fıkrasında belirtilen hususlar dışında bir ev hayvanını veya evcil hayvanı kasten öldüren kişi altı aydan dört yıla kadar hapis cezası ile cezalandırılır.[29]\n Hayvanlara cinsel saldırıda bulunan veya tecavüz eden kişi altı aydan üç yıla kadar hapis ve yüz günden az olmamak üzere adli para cezası ile cezalandırılır.\n 14 üncü maddenin birinci fıkrasının (m) bendinde düzenlenen yasağa aykırı davranmak suretiyle bir ev hayvanına veya evcil hayvana işkence eden veya acımasız ve zalimce muamelede bulunan kişi altı aydan üç yıla kadar hapis cezası ile cezalandırılır.\n 11 inci maddenin ikinci fıkrasının ikinci cümlesi saklı kalmak üzere, hayvanları dövüştüren kişi üç aydan iki yıla kadar hapis veya adli para cezası ile cezalandırılır.\n Maddede düzenlenen suçların birden fazla hayvana karşı aynı anda işlenmesi durumunda verilecek ceza yarı oranında artırılır.\n Maddede düzenlenen suçların veteriner hekim, veteriner sağlık teknisyeni, (…)[30] hayvan koruma derneği üyeleri, hayvan koruma vakfı üyeleri veya hayvanlara bakmak yahut onları korumakla görevlendirilen kişiler tarafından işlenmesi durumunda verilecek ceza yarı oranında artırılır.\n Sahibi tarafından işlenen suçlar da dahil olmak üzere bu maddede belirtilen suçların işlenmesi halinde soruşturma yapılması Tarım ve Orman Bakanlığının il veya ilçe müdürlükleri tarafından Cumhuriyet başsavcılığına yazılı başvuruda bulunulmasına bağlıdır. Bu başvuru muhakeme şartı niteliğindedir. Suçüstü halinde ise soruşturma genel hükümlere göre yapılır. İkinci, üçüncü, dördüncü ve beşinci fıkralarda belirtilen suçların başka bir kişi tarafından sahipli hayvana karşı işlenmesi halinde hayvan sahibinin şikayeti üzerine de soruşturma yapılır.\n Maddede düzenlenen suçlara konu olan ve 24 üncü madde uyarınca el konulan kedi ve köpekler ile Bakanlıkça uygun görülen diğer hayvanlar koruma altına alınarak bakımevi bulunan en yakın belediye tarafından hayvan bakımevine götürülür.",
+      "preview": "(Değişik:9/7/2021-7332/11 md.) Bu Kanun hükümlerine aykırı davrananlara aşağıdaki idarî para cezaları verilir: a) 4 üncü maddenin birinci fı…",
+      "kitap": null,
+      "kisim": "ÜÇÜNCÜ KISIM · Hayvan Koruma Yönetimi",
+      "bolum": "DÖRDÜNCÜ BÖLÜM · Diğer Hükümler",
+      "ayirim": null,
+      "maddeBaslik": "İdarî para cezaları[27][28]",
+      "sectionPath": [
+        "ÜÇÜNCÜ KISIM · Hayvan Koruma Yönetimi",
+        "DÖRDÜNCÜ BÖLÜM · Diğer Hükümler",
+        "İdarî para cezaları[27][28]"
+      ]
+    },
+    {
+      "id": "kanun:5199:m:29",
+      "maddeKind": "madde",
+      "maddeNo": "29",
+      "heading": "Madde 29",
+      "text": "(Mülga: 23/1/2008 – 5728/578 md.)",
+      "preview": "(Mülga: 23/1/2008 – 5728/578 md.)",
+      "kitap": null,
+      "kisim": "BEŞİNCİ KISIM · Çeşitli, Son ve Geçici Hükümler",
+      "bolum": "BİRİNCİ BÖLÜM · Çeşitli Hükümler",
+      "ayirim": null,
+      "maddeBaslik": "Birden fazla hükmün ihlâli",
+      "sectionPath": [
+        "BEŞİNCİ KISIM · Çeşitli, Son ve Geçici Hükümler",
+        "BİRİNCİ BÖLÜM · Çeşitli Hükümler",
+        "Birden fazla hükmün ihlâli"
+      ]
+    },
+    {
+      "id": "kanun:5199:m:30",
+      "maddeKind": "madde",
+      "maddeNo": "30",
+      "heading": "Madde 30",
+      "text": "Bu Kanunda, ceza hükmü altına alınmış fiillerin tekrarı halinde para cezaları bir kat, daha fazla tekrarı halinde üç kat artırılarak verilir.",
+      "preview": "Bu Kanunda, ceza hükmü altına alınmış fiillerin tekrarı halinde para cezaları bir kat, daha fazla tekrarı halinde üç kat artırılarak verilir…",
+      "kitap": null,
+      "kisim": "BEŞİNCİ KISIM · Çeşitli, Son ve Geçici Hükümler",
+      "bolum": "BİRİNCİ BÖLÜM · Çeşitli Hükümler",
+      "ayirim": null,
+      "maddeBaslik": "Fiillerin tekrarı",
+      "sectionPath": [
+        "BEŞİNCİ KISIM · Çeşitli, Son ve Geçici Hükümler",
+        "BİRİNCİ BÖLÜM · Çeşitli Hükümler",
+        "Fiillerin tekrarı"
+      ]
+    },
+    {
+      "id": "kanun:5199:m:31",
+      "maddeKind": "madde",
+      "maddeNo": "31",
+      "heading": "Madde 31",
+      "text": "4915 sayılı Kara Avcılığı Kanunu, 5996 sayılı Kanun ile 1380 sayılı Su Ürünleri Kanunu hükümleri saklıdır.[31]\n\n Yerel yönetimlerin sorumluluğu (Değişik başlık: 30/7/2024-7527/13 md.)[32]",
+      "preview": "4915 sayılı Kara Avcılığı Kanunu, 5996 sayılı Kanun ile 1380 sayılı Su Ürünleri Kanunu hükümleri saklıdır.[31] Yerel yönetimlerin sorumluluğ…",
+      "kitap": null,
+      "kisim": "BEŞİNCİ KISIM · Çeşitli, Son ve Geçici Hükümler",
+      "bolum": "İKİNCİ BÖLÜM · Son ve Geçici Hükümler",
+      "ayirim": null,
+      "maddeBaslik": "Saklı hükümler",
+      "sectionPath": [
+        "BEŞİNCİ KISIM · Çeşitli, Son ve Geçici Hükümler",
+        "İKİNCİ BÖLÜM · Son ve Geçici Hükümler",
+        "Saklı hükümler"
+      ]
+    },
+    {
+      "id": "kanun:5199:m:ek:1",
+      "maddeKind": "ek",
+      "maddeNo": "1",
+      "heading": "Ek Madde 1",
+      "text": "(Ek:9/7/2021-7332/13 md.)\n Büyükşehir belediyeleri, il belediyeleri ve nüfusu yirmi beş bini aşan (…)32 belediyeler, sahipsiz veya güçten düşmüş ya da tehlike arz eden hayvanların korunması ve sahiplendirilinceye kadar bakımının yapılması ile rehabilitasyonunun sağlanması amacıyla hayvan bakımevleri kurar.\n Birinci fıkrada belirtilen hayvanlar, ilgili belediyeler tarafından hayvan bakımevine götürülür. Hayvan bakımevi kurma zorunluluğu olmayan belediyeler ile il özel idareleri ise sorumluluk alanındaki bu hayvanları en yakın hayvan bakımevine götürür. (Değişik üçüncü ve dördüncü cümle: 30/7/2024-7527/13 md.) Bakımevlerine alınan hayvanlar Bakanlık veri sistemine kaydedilir. Rehabilite edilen köpekler, sahiplendirilinceye kadar hayvan bakımevlerinde barındırılır.\n (Değişik: 30/7/2024-7527/13 md.) Büyükşehir belediyeleri, il belediyeleri ve nüfusu yirmi beş bini aşan belediyeler bakımından, geçici 4 üncü maddenin ikinci fıkrasında belirtilen kaynağı ayırmayan belediye başkanı ve meclis üyeleri ile ayrılan kaynağı hayvan bakımevi kurmak, sahipsiz hayvanları toplamak, rehabilite etmek veya sahiplendirilinceye kadar bakmak için sarf etmeyen ya da bu kaynağı başka amaçlar için sarf eden belediye başkanı ve belediye yetkililerine altı aydan iki yıla kadar hapis cezası verilir.",
+      "preview": "(Ek:9/7/2021-7332/13 md.) Büyükşehir belediyeleri, il belediyeleri ve nüfusu yirmi beş bini aşan (…)32 belediyeler, sahipsiz veya güçten düş…",
+      "kitap": null,
+      "kisim": "BEŞİNCİ KISIM · Çeşitli, Son ve Geçici Hükümler",
+      "bolum": "İKİNCİ BÖLÜM · Son ve Geçici Hükümler",
+      "ayirim": null,
+      "maddeBaslik": "Saklı hükümler",
+      "sectionPath": [
+        "BEŞİNCİ KISIM · Çeşitli, Son ve Geçici Hükümler",
+        "İKİNCİ BÖLÜM · Son ve Geçici Hükümler",
+        "Saklı hükümler"
+      ]
+    },
+    {
+      "id": "kanun:5199:m:ek:2",
+      "maddeKind": "ek",
+      "maddeNo": "2",
+      "heading": "Ek Madde 2",
+      "text": "(Ek:9/7/2021-7332/14 md.)\n Bu maddenin yürürlüğe girdiği tarihten sonra hayvanların kullanıldığı kara ve su sirkleri ile yunus parklarının kurulması yasaktır.\n Mevcut işletmeler, herhangi bir nedenle eksilen hayvan sayısını tamamlama ya da artırma, yeni şube açma gibi yollarla kapasite artırımına gidemez, üretim yapamaz, Bakanlığın izni olmadan işletme hakkını devredemez, on yılın sonunda faaliyetine son verir. Bu işletmelerin hayvanların etolojisine uygun olarak faaliyet göstermesini sağlayacak kriterler, bu maddenin yürürlüğe girdiği tarihten itibaren altı ay içinde Bakanlık tarafından çıkarılacak yönetmelikle belirlenir.\n Bu maddede belirtilen yasaklara aykırı davrananlara hayvan başına yirmi beş bin Türk lirası idarî para cezası verilir.",
+      "preview": "(Ek:9/7/2021-7332/14 md.) Bu maddenin yürürlüğe girdiği tarihten sonra hayvanların kullanıldığı kara ve su sirkleri ile yunus parklarının ku…",
+      "kitap": null,
+      "kisim": "BEŞİNCİ KISIM · Çeşitli, Son ve Geçici Hükümler",
+      "bolum": "İKİNCİ BÖLÜM · Son ve Geçici Hükümler",
+      "ayirim": null,
+      "maddeBaslik": "Saklı hükümler",
+      "sectionPath": [
+        "BEŞİNCİ KISIM · Çeşitli, Son ve Geçici Hükümler",
+        "İKİNCİ BÖLÜM · Son ve Geçici Hükümler",
+        "Saklı hükümler"
+      ]
+    },
+    {
+      "id": "kanun:5199:m:gecici:1",
+      "maddeKind": "gecici",
+      "maddeNo": "1",
+      "heading": "Geçici Madde 1",
+      "text": "Bu Kanunun 14 üncü maddesinin (l) bendinde belirtilen hayvanlardan, yurda bu Kanunun yürürlüğe girdiği tarihten önce sokulmuş olanların sahipleri; üç ay içerisinde hayvan koruma kurullarına bildirimde bulunarak bunları kayıt altına aldırmak; altı ay içerisinde kısırlaştırarak kısırlaştırıldıklarına ilişkin belgeleri il hayvan koruma kurullarına teslim etmek zorundadırlar.",
+      "preview": "Bu Kanunun 14 üncü maddesinin (l) bendinde belirtilen hayvanlardan, yurda bu Kanunun yürürlüğe girdiği tarihten önce sokulmuş olanların sahi…",
+      "kitap": null,
+      "kisim": "BEŞİNCİ KISIM · Çeşitli, Son ve Geçici Hükümler",
+      "bolum": "İKİNCİ BÖLÜM · Son ve Geçici Hükümler",
+      "ayirim": null,
+      "maddeBaslik": "Saklı hükümler",
+      "sectionPath": [
+        "BEŞİNCİ KISIM · Çeşitli, Son ve Geçici Hükümler",
+        "İKİNCİ BÖLÜM · Son ve Geçici Hükümler",
+        "Saklı hükümler"
+      ]
+    },
+    {
+      "id": "kanun:5199:m:gecici:2",
+      "maddeKind": "gecici",
+      "maddeNo": "2",
+      "heading": "Geçici Madde 2",
+      "text": "Bu Kanun gereğince çıkarılması gerekli bulunan yönetmelikler, Kanunun yürürlüğe girdiği tarihten itibaren bir yıl içinde hazırlanır.",
+      "preview": "Bu Kanun gereğince çıkarılması gerekli bulunan yönetmelikler, Kanunun yürürlüğe girdiği tarihten itibaren bir yıl içinde hazırlanır.",
+      "kitap": null,
+      "kisim": "BEŞİNCİ KISIM · Çeşitli, Son ve Geçici Hükümler",
+      "bolum": "İKİNCİ BÖLÜM · Son ve Geçici Hükümler",
+      "ayirim": null,
+      "maddeBaslik": "Saklı hükümler",
+      "sectionPath": [
+        "BEŞİNCİ KISIM · Çeşitli, Son ve Geçici Hükümler",
+        "İKİNCİ BÖLÜM · Son ve Geçici Hükümler",
+        "Saklı hükümler"
+      ]
+    },
+    {
+      "id": "kanun:5199:m:gecici:3",
+      "maddeKind": "gecici",
+      "maddeNo": "3",
+      "heading": "Geçici Madde 3",
+      "text": "(Ek:9/7/2021-7332/15 md.)\n 14 üncü maddenin birinci fıkrasının (1) bendi uyarınca, tehlike arz eden hayvanların belirlenmesine ilişkin Bakanlıkça yapılacak düzenleme yürürlüğe konuluncaya kadar; Pitbull Terrier, Japanese Tosa, Dogo Argentino, Fila Brasilerio türlerini veya bunların melezlerini üreten, sahiplenen, sahiplendiren, barındıran, besleyen, takas eden, sergileyen, hediye eden ve bunların ülkemize girişini, satışını ve reklamını yapana hayvan başına on bir bin Türk lirası idarî para cezası verilir. Bu hayvanlara el konulur ve bu hayvanlar belediyeler tarafından hayvan bakımevine götürülür.\n Birinci fıkra kapsamına giren hayvanları bu madde yürürlüğe girinceye kadar sahiplenmiş olanlardan, maddenin yürürlüğe girdiği tarihten itibaren altı aylık süre içinde hayvanlarını kısırlaştıran ve buna dair belgeyle birlikte Bakanlığa başvurarak veri tabanına kayıt ettirenler hakkında, birinci fıkrada veya 28 inci maddenin birinci fıkrasının (j) bendinde öngörülen idari yaptırım hükümleri uygulanmaz. Kısırlaştırma işlemi için maddenin yürürlüğe girmesinden önce gebe kalmış hayvanların doğum yapması, yavruların dört aylık olması beklenir. Bu hayvanların ölümü halinde Bakanlığa bilgi verilir ve kayıttan düşürülür.\n Kısırlaştırılan ve kayıt altına alınan bu hayvanlar kayıt belgesiz, ağızlıksız ve tasmasız olarak dolaştırılamaz, halkın yoğun olarak bulunduğu yerler ile çocuk oyun alanları ve parklarına sokulamaz. Ağızlık ve tasma takma zorunluluğu ile halkın yoğun olarak bulunduğu yerlere ve çocuk oyun alanları ve parklarına girme yasağı maddenin yürürlüğe girmesiyle birlikte uygulanmaya başlanır. Bu fıkra hükümlerine aykırı hareket edenlere, on bir bin Türk lirası idarî para cezası verilir. Bu fıkrada belirtilen yasaklara aykırılığın tekrarı halinde, idarî para cezası verilir ve hayvanlara el konulur ve hayvan, konulabileceği bakımevi bulunan en yakın belediye tarafından hayvan bakımevine götürülür.\n Bu madde kapsamında hayvan sahibi olanlar, hayvanlarını en yakın bakımevine bırakabilirler. Bu hayvanların sokağa terki halinde otuz bin Türk lirası idarî para cezası verilir.\n Yerel yönetimler tarafından kurulan hayvan bakımevleri, bu madde uyarınca teslim edilen hayvanları kabul etmek zorundadır.\n Bu Kanun uyarınca çıkarılacak yönetmelikler, Kanunun yürürlüğe girdiği tarihten itibaren altı ay içinde yürürlüğe konulur.",
+      "preview": "(Ek:9/7/2021-7332/15 md.) 14 üncü maddenin birinci fıkrasının (1) bendi uyarınca, tehlike arz eden hayvanların belirlenmesine ilişkin Bakanl…",
+      "kitap": null,
+      "kisim": "BEŞİNCİ KISIM · Çeşitli, Son ve Geçici Hükümler",
+      "bolum": "İKİNCİ BÖLÜM · Son ve Geçici Hükümler",
+      "ayirim": null,
+      "maddeBaslik": "Saklı hükümler",
+      "sectionPath": [
+        "BEŞİNCİ KISIM · Çeşitli, Son ve Geçici Hükümler",
+        "İKİNCİ BÖLÜM · Son ve Geçici Hükümler",
+        "Saklı hükümler"
+      ]
+    },
+    {
+      "id": "kanun:5199:m:gecici:4",
+      "maddeKind": "gecici",
+      "maddeNo": "4",
+      "heading": "Geçici Madde 4",
+      "text": "(Ek:9/7/2021-7332/16 md.) (Değişik: 30/7/2024-7527/14 md.)\n Büyükşehir belediyeleri, il belediyeleri ve nüfusu yirmi beş bini aşan belediyeler 31/12/2028 tarihine kadar ek 1 inci maddenin birinci fıkrasında belirtilen hayvan bakımevlerini kurmakla ve mevcut bakımevlerinin koşullarını iyileştirmekle yükümlüdür.\n Belediyeler 31/12/2028 tarihine kadar birinci fıkra gereğince hayvan bakımevleri kurmak, rehabilitasyon işlemlerini gerçekleştirmek ve sahipsiz hayvanlara sahiplendirilinceye kadar bakmak için kesinleşmiş en son bütçe gelirlerinin binde beşi oranında kaynak ayırır. Bu oran büyükşehir belediyelerinde binde üç olarak uygulanır. Bu fıkra uyarınca ayrılan ödenekler başka bir amaç için kullanılamaz.\n Belediyelerce bu maddenin ikinci fıkrasında belirlenen oranların üzerinde yapılan harcamaların yüzde 40’ı, tevsik edilmesi kaydıyla ilgili belediyeye Hazine ve Maliye Bakanlığınca aktarılır. Ancak, aktarılacak tutar hiçbir şekilde ikinci fıkrada belirlenen oranların yüzde 40’ını geçemez. Bu fıkranın uygulanmasına ilişkin usul ve esaslar Hazine ve Maliye Bakanlığınca belirlenir.\n Kedi ve köpek sahipleri, hayvanlarını en geç 31/12/2025 tarihine kadar dijital kimliklendirme yöntemleriyle kayıt altına aldırmak zorundadır.",
+      "preview": "(Ek:9/7/2021-7332/16 md.) (Değişik: 30/7/2024-7527/14 md.) Büyükşehir belediyeleri, il belediyeleri ve nüfusu yirmi beş bini aşan belediyele…",
+      "kitap": null,
+      "kisim": "BEŞİNCİ KISIM · Çeşitli, Son ve Geçici Hükümler",
+      "bolum": "İKİNCİ BÖLÜM · Son ve Geçici Hükümler",
+      "ayirim": null,
+      "maddeBaslik": "Saklı hükümler",
+      "sectionPath": [
+        "BEŞİNCİ KISIM · Çeşitli, Son ve Geçici Hükümler",
+        "İKİNCİ BÖLÜM · Son ve Geçici Hükümler",
+        "Saklı hükümler"
+      ]
+    },
+    {
+      "id": "kanun:5199:m:32",
+      "maddeKind": "madde",
+      "maddeNo": "32",
+      "heading": "Madde 32",
+      "text": "Bu Kanun yayımı tarihinde yürürlüğe girer.",
+      "preview": "Bu Kanun yayımı tarihinde yürürlüğe girer.",
+      "kitap": null,
+      "kisim": "BEŞİNCİ KISIM · Çeşitli, Son ve Geçici Hükümler",
+      "bolum": "İKİNCİ BÖLÜM · Son ve Geçici Hükümler",
+      "ayirim": null,
+      "maddeBaslik": "Yürürlük",
+      "sectionPath": [
+        "BEŞİNCİ KISIM · Çeşitli, Son ve Geçici Hükümler",
+        "İKİNCİ BÖLÜM · Son ve Geçici Hükümler",
+        "Yürürlük"
+      ]
+    },
+    {
+      "id": "kanun:5199:m:33",
+      "maddeKind": "madde",
+      "maddeNo": "33",
+      "heading": "Madde 33",
+      "text": "Bu Kanun hükümlerini Bakanlar Kurulu yürütür.\n 5199 SAYILI KANUNA EK VE DEĞİŞİKLİK GETİREN MEVZUATIN\n YÜRÜRLÜĞE GİRİŞ TARİHİNİ GÖSTERİR LİSTE\n\n Değiştiren Kanunun/ KHK’nin veya İptal Eden Anayasa Mahkemesi Kararının Numarası\n 5199 Sayılı Kanunun Değişen veya İptal Edilen Maddeleri\n Yürürlüğe Giriş Tarihi\n\n 5728\n 26, 27, 28, 29\n 8/2/2008\n\n 5996\n 23\n 13/12/2010\n\n 7332\n 3, 4, 5, 6, 8, 9, 10, 14, 15, 16, 17, 19, 20, 22, 28, 28/A, Ek Madde 1, Ek Madde 2, Geçici Madde 3, Geçici Madde 4\n 14/7/2021\n\n 10 uncu maddenin birinci fıkrasına eklenen cümle\n yayımı tarihinden bir yıl sonra\n (14/7/2022)\n\n 7527\n 1, 3, 4, 5, 6, İkinci Kısım Dördüncü Bölüm Başlığı, Üçüncü Kısım İkinci Bölüm Başlığı, 13, 14, 16, 17, 18, 19, 24, 28, 28/A, 31, Ek Madde 1, Geçici Madde 4\n 2/8/2024\n\n [1] 30/7/2024 tarihli ve 7527 sayılı Kanunun 1 inci maddesiyle, bu fıkrada yer alan “Kanunun amacı;” ibaresinden sonra gelmek üzere “insan, hayvan ve çevre sağlığı gözetilmek kaydıyla” ibaresi eklenmiştir.\n\n [2] 30/7/2024 tarihli ve 7527 sayılı Kanunun 2 nci maddesiyle, bu bentte yer alan “ve hayvanların rehabilite edileceği” ibaresi “, hayvanların sahiplendirilinceye kadar barındırıldığı ve rehabilite edildiği” şeklinde değiştirilmiştir.\n\n [3] 30/7/2024 tarihli ve 7527 sayılı Kanunun 3 üncü maddesiyle, bu bentte yer alan “hayvanlara bakan veya bakmak” ibaresi “hayvanları sahiplenmek” şeklinde değiştirilmiştir.\n\n [4] 30/7/2024 tarihli ve 7527 sayılı Kanunun 3 üncü maddesiyle, bu bentte yer alan “ve güçten düşmüş hayvanların korunması” ibaresi “hayvanların sahiplendirilinceye kadar bakılmaları” şeklinde değiştirilmiştir.\n\n [5] 9/7/2021 tarihli ve 7332 sayılı Kanunun 3 üncü maddesiyle, birinci fıkrada yer alan “bakımının gerektirdiği yaygın eğitim programına katılarak” ibaresi, üçüncü ve beşinci fıkralarda yer alan “ve süs” ibareleri ile beşinci fıkrasında yer alan “bilhassa ev ve bahçesi içerisinde” ibaresi madde metninden çıkarılmıştır.\n\n [6] 30/7/2024 tarihli ve 7527 sayılı Kanunun 15 inci maddesiyle, bu maddenin birinci fıkrasında yer alan “veya ona bakan” ibaresi ve dördüncü fıkrasında yer alan “ve kontrollü hayvanları bulundurma ve” ibaresi metinden çıkarılmıştır.\n\n [7] 30/7/2024 tarihli ve 7527 sayılı Kanunun 4 üncü maddesiyle, bu fıkrada yer alan “, 3285 sayılı Hayvan Sağlığı Zabıtası Kanununda öngörülen durumlar dışında” ibaresi “kanuni istisnalar hariç” şeklinde değiştirilmiştir.\n\n [8] 9/7/2021 tarihli ve 7332 sayılı Kanunun 17 nci maddesiyle, bu fıkrada yer alan “Tarım ve Köyişleri” ibaresi “Çevre ve Şehircilik” şeklinde değiştirilmiştir.\n\n [9] 30/7/2024 tarihli ve 7527 sayılı Kanunun 4 üncü maddesiyle, bu fıkrada yer alan “çevreye olabilecek” ibaresi “insan ve çevre sağlığı için oluşabilecek” şeklinde ve “Çevre ve Şehircilik Bakanlığı” ibaresi “Çevre, Şehircilik ve İklim Değişikliği Bakanlığı” şeklinde değiştirilmiştir.\n\n [10] 9/7/2021 tarihli ve 7332 sayılı Kanunun 17 nci maddesiyle, bu fıkrada yer alan “usul ve esasları,” ibaresi “usul ve esasları ile burada çalışan personelin niteliğine ilişkin hususlar” şeklinde değiştirilmiştir.\n\n [11] 30/7/2024 tarihli ve 7527 sayılı Kanunun 4 üncü maddesiyle, bu fıkrada yer alan “hayvanlara bakan veya bakmak” ibaresi “hayvanları hayvan bakımevi kurarak sahiplenmek” şeklinde değiştirilmiştir.\n\n [12] 9/7/2021 tarihli ve 7332 sayılı Kanunun 17 nci maddesiyle, bu fıkrada yer alan “ve süs” ibaresi madde metninden çıkarılmıştır.\n\n [13] 9/7/2021 tarihli ve 7332 sayılı Kanunun 17 nci maddesiyle, beşinci fıkrada yer alan “Tarım ve Köyişleri Bakanlığı ile” ibaresi madde metninden çıkarılmış ve altıncı fıkrada yer alan “Tarım ve Köyişleri Bakanlığınca” ibaresi “Bakanlıkça” şeklinde değiştirilmiştir.\n\n [14] 9/7/2021 tarihli ve 7332 sayılı Kanunun 4 üncü maddesiyle, ikinci fıkrada yer alan “Tarım ve Köyişleri Bakanlığınca” ibaresi “Bakanlıkça” şeklinde, dördüncü fıkrada yer alan “Ev ve süs hayvanlarının üretimini ve ticaretini yapanlar, annenin ve yavrularının” ibaresi “Ev hayvanlarının üretimini ve ticaretini yapanlar, hayvanların” şeklinde, yedinci fıkrada yer alan “Bakanlığın görüşü alınarak Tarım ve Köyişleri Bakanlığınca” ibaresi “Bakanlıkça” şeklinde değiştirilmiştir.\n\n [15] 30/7/2024 tarihli ve 7527 sayılı Kanunun 5 inci maddesiyle, bu bölüm başlığında yer alan “Öldürülmesi” ibaresi “Ötanazisi” şeklinde değiştirilmiştir.\n\n [16] 30/7/2024 tarihli ve 7527 sayılı Kanunun 5 inci maddesiyle, bu fıkranın ikinci cümlesinde yer alan “Öldürme esas ve usulleri” ibaresi “Öldürme ve ötanazi işlemine ilişkin esas ve usuller” şeklinde değiştirilmiştir.\n\n [17] 9/7/2021 tarihli ve 7332 sayılı Kanunun 5 inci maddesiyle, (a) bendinde yer alan “acımasız ve zalimce işlem yapmak,” ibaresi ve (c) ve (d) bentlerinde yer alan “ve süs” ibareleri madde metninden çıkarılmış, (e) bendine “vücutlarına” ibaresinden sonra gelmek üzere “tedavi maksatlı olmayan” ibaresi eklenmiştir.\n\n [18] 30/7/2024 tarihli ve 7527 sayılı Kanunun 6 ncı maddesiyle, bu bentte yer alan “Tıbbî” ibaresi “Kanunî ve tıbbî” şeklinde değiştirilmiştir.\n\n [19] 9/7/2021 tarihli ve 7332 sayılı Kanunun 6 ncı maddesiyle, bu fıkraya (c) bendinden sonra gelmek üzere (d) bendi eklenmiş ve diğer bentler buna göre teselsül ettirilmiş, fıkranın mevcut (ı) bendinde yer alan “takdiri ile” ibaresi “tarafından” şeklinde değiştirilmiştir.\n\n [20] 9/7/2021 tarihli ve 7332 sayılı Kanunun 6 ncı maddesiyle, bu fıkrada yer alan “il çevre ve orman” ibaresi “doğa koruma ve milli parklar il şube” şeklinde değiştirilmiştir.\n\n [21] 9/7/2021 tarihli ve 7332 sayılı Kanunun 7 nci maddesiyle, (e) bendine “geliştirmek” ibaresinden sonra gelmek üzere “, denetlemek” ibaresi ve fıkraya (g) bendinden sonra gelmek üzere (h) bendi eklenmiş, diğer bent buna göre (ı) bendi olarak teselsül ettirilmiştir.\n\n [22] 30/7/2024 tarihli ve 7527 sayılı Kanunun 15 inci maddesiyle, bu bölüm başlığında yer alan “ve Hayvan Koruma Gönüllüleri” ibaresi metinden çıkarılmıştır.\n\n [23] 30/7/2024 tarihli ve 7527 sayılı Kanunun 15 inci maddesiyle, bu fıkrada yer alan “ev hayvanları ile” ibaresi metinden çıkarılmıştır.\n\n [24] 9/7/2021 tarihli ve 7332 sayılı Kanunun 8 inci maddesiyle, bu fıkrada yer alan “Ev ve süs hayvanlarının” ibaresi “Hayvanların” şeklinde değiştirilmiş, fıkraya “kurum ve kuruluşlara” ibaresinden sonra gelmek üzere “teşvik veya” ibaresi ve “esas ve usuller,” ibaresinden sonra gelmek üzere “Hazine ve” ibaresi eklenmiştir.\n\n [25] 9/7/2021 tarihli ve 7332 sayılı Kanunun 10 uncu maddesiyle, bu madde başlığı “Hayvanat bahçeleri” iken metne işlendiği şekilde değiştirilmiştir.\n\n [26] 30/7/2024 tarihli ve 7527 sayılı Kanunun 9 uncu maddesiyle, bu fıkrada yer alan “ve bu suretle bulundurduğu” ibaresi “veya sahiplendiği” şeklinde değiştirilmiştir.\n\n [27] 23/1/2008 tarihli ve 5728 sayılı Kanunun 553 üncü maddesiyle bu maddenin “Cezalar” olan başlığı “İdarî para cezaları” olarak değiştirilmiştir.\n\n [28] 30/7/2024 tarihli ve 7527 sayılı Kanunun 10 uncu maddesiyle, bu maddenin birinci fıkrasının (ı) bendinde yer alan “ikinci” ibaresi “dördüncü” şeklinde, (j) bendinde yer alan “hayvan başına iki bin” ibaresi “hayvan başına altmış bin” şeklinde ve aynı bentte yer alan “idarî para cezası.” ibaresi “; (o) bendine aykırı davrananlara hayvan başına elli bin Türk lirası idarî para cezası.” şeklinde değiştirilmiş, ikinci fıkrasında yer alan “hayvan koruma gönüllüsü,” ibaresi madde metninden çıkarılmıştır.\n\n [29] 30/7/2024 tarihli ve 7527 sayılı Kanunun 11 inci maddesiyle, bu fıkraya “birinci” ibaresinden sonra gelmek üzere “, ikinci ve üçüncü” ibaresi eklenmiştir.\n\n [30] 30/7/2024 tarihli ve 7527 sayılı Kanunun 11 inci maddesiyle, bu fıkrada yer alan “hayvan koruma gönüllüsü,” ibaresi madde metninden çıkarılmıştır.\n\n [31] 30/7/2024 tarihli ve 7527 sayılı Kanunun 12 nci maddesiyle, bu maddede yer alan “3285 sayılı Hayvan Sağlığı ve Zabıtası Kanunu, 4631 sayılı Hayvan Islahı Kanunu” ibaresi “5996 sayılı Kanun” şeklinde değiştirilmiştir.\n\n [32] 30/7/2024 tarihli ve 7527 sayılı Kanunun 13 üncü maddesiyle, bu maddenin birinci fıkrasında yer alan “büyükşehir ilçe belediyeleri ile diğer” ibaresi madde metninden çıkarılmış, fıkraya “korunması ve” ibaresinden sonra gelmek üzere “sahiplendirilinceye kadar” ibaresi, ikinci fıkrasının ikinci cümlesinde yer alan “olmayan belediyeler” ibaresinden sonra gelmek üzere “ile il özel idareleri” ibaresi eklenmiştir.",
+      "preview": "Bu Kanun hükümlerini Bakanlar Kurulu yürütür. 5199 SAYILI KANUNA EK VE DEĞİŞİKLİK GETİREN MEVZUATIN YÜRÜRLÜĞE GİRİŞ TARİHİNİ GÖSTERİR LİSTE…",
+      "kitap": null,
+      "kisim": "BEŞİNCİ KISIM · Çeşitli, Son ve Geçici Hükümler",
+      "bolum": "İKİNCİ BÖLÜM · Son ve Geçici Hükümler",
+      "ayirim": null,
+      "maddeBaslik": "Yürütme",
+      "sectionPath": [
+        "BEŞİNCİ KISIM · Çeşitli, Son ve Geçici Hükümler",
+        "İKİNCİ BÖLÜM · Son ve Geçici Hükümler",
+        "Yürütme"
+      ]
+    }
+  ]
+}

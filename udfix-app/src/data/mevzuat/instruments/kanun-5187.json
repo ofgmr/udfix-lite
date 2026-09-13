@@ -1,0 +1,720 @@
+{
+  "id": "kanun:5187",
+  "kind": "kanun",
+  "no": "5187",
+  "title": "Basın Kanunu",
+  "shortName": "Basın Kanunu",
+  "aliases": [
+    "Basın Kanunu",
+    "5187"
+  ],
+  "tur": 1,
+  "tertip": 5,
+  "sourceUrl": "https://www.mevzuat.gov.tr/mevzuat?MevzuatNo=5187&MevzuatTur=1&MevzuatTertip=5",
+  "kabulTarihi": "9/6/2004",
+  "maddeCount": 44,
+  "maddeler": [
+    {
+      "id": "kanun:5187:m:1",
+      "maddeKind": "madde",
+      "maddeNo": "1",
+      "heading": "Madde 1",
+      "text": "(Değişik fıkra:13/10/2022-7418/1 md.) Bu Kanunun amacı, basın özgürlüğü ve bu özgürlüğün kullanımı ile basın kartına ilişkin usul ve esasları belirlemektir.\n Bu Kanun basılmış eserlerin basımı ve yayımı ile internet haber sitelerini kapsar.[1]\n (Ek fıkra:13/10/2022-7418/1 md.) Basın kartı düzenlenmesi bakımından basın kartı talep eden medya mensupları ve enformasyon görevlileri bu Kanun kapsamına dâhildir.",
+      "preview": "(Değişik fıkra:13/10/2022-7418/1 md.) Bu Kanunun amacı, basın özgürlüğü ve bu özgürlüğün kullanımı ile basın kartına ilişkin usul ve esaslar…",
+      "kitap": null,
+      "kisim": null,
+      "bolum": null,
+      "ayirim": null,
+      "maddeBaslik": null,
+      "sectionPath": []
+    },
+    {
+      "id": "kanun:5187:m:2",
+      "maddeKind": "madde",
+      "maddeNo": "2",
+      "heading": "Madde 2",
+      "text": "Bu Kanunun uygulanmasında;[2]\n a) Basılmış eser: Yayımlanmak üzere her türlü basım araçları ile basılan veya diğer araçlarla çoğaltılan yazı, resim ve benzeri eserler ile haber ajansı yayınlarını,\n b) Yayım: Basılmış eserin herhangi bir şekilde kamuya sunulmasını,\n c) Süreli yayın: Belli aralıklarla yayımlanan gazete, dergi gibi basılmış eserler ile haber ajansları yayınlarını ve internet haber sitelerini,\n d) Yaygın süreli yayın: Tek bir basın-yayın kuruluşu tarafından aynı isimle basılan ve her coğrafi bölgede en az bir ilde olmak üzere, ülkenin en az yüzde yetmişinde yayımlanan süreli yayın ile haber ajanslarının yayınlarını,\n e) Bölgesel süreli yayın: Tek bir basın-yayın kuruluşu tarafından basılan ve en az üç komşu ilde veya en az bir coğrafi bölgede yayımlanan süreli yayını,\n f) Yerel süreli yayın: Tek bir yerleşim biriminde yayımlanan süreli yayınlar ile haftada bir veya daha uzun aralıklarla yayımlanan yaygın ve bölgesel yayınları,\n g) Yayın türü: Süreli yayınların yaygın, bölgesel ve yerel yayın türlerinden hangisinin kapsamında olduğunu,\n h) Süresiz yayın: Belli aralıklarla yayımlanmayan kitap, armağan gibi basılmış eserleri,\n ı) Eser sahibi: Süreli veya süresiz yayının içeriğini oluşturan yazıyı veya haberi yazanı, çevireni veya resmi ya da karikatürü yapanı, görsel veya işitsel içerikleri kaydeden veya düzenleyeni,\n j) Yayımcı: Bir eseri basılmış eser durumuna getirip yayımlayan gerçek veya tüzel kişiyi,\n k) Basımcı: Bir eseri basım araçları ile basan veya diğer araçlarla çoğaltan gerçek veya tüzel kişiyi,\n l) Tüzel kişi temsilcisi: Yayın sahibi veya yayımcının tüzel kişi olması halinde bu tüzel kişiliğin yetkili organı tarafından, yöneticiler arasından belirlenen gerçek kişiyi veya kamu kurum ve kuruluşlarınca belirlenen gerçek kişiyi,\n m) (Ek:13/10/2022-7418/2 md.) İnternet haber sitesi: İnternet ortamında, belirli aralıklarla haber veya yorum niteliğinde yazılı, görsel veya işitsel içeriklerin sunumunu yapmak üzere kurulan ve işletilen süreli yayını,\n n) (Ek:13/10/2022-7418/2 md.) Basın kartı: Bu Kanunda belirtilen kişilere, Başkanlıkça verilen kimlik kartını,\n o) (Ek:13/10/2022-7418/2 md.) Başkan: İletişim Başkanını,\n ö) (Ek:13/10/2022-7418/2 md.) Başkanlık: İletişim Başkanlığını,\n p) (Ek:13/10/2022-7418/2 md.) Komisyon: Basın Kartı Komisyonunu,\n r) (Ek:13/10/2022-7418/2 md.) Medya mensubu: Radyo, televizyon ve süreli yayınların basın-yayın faaliyeti yürüten çalışanlarını,\n s) (Ek:13/10/2022-7418/2 md.) Enformasyon görevlisi: Kamu kurum ve kuruluşlarının yürüttükleri Devlet enformasyon hizmetlerinde çalışan kamu personelini,\n ifade eder.",
+      "preview": "Bu Kanunun uygulanmasında;[2] a) Basılmış eser: Yayımlanmak üzere her türlü basım araçları ile basılan veya diğer araçlarla çoğaltılan yazı,…",
+      "kitap": null,
+      "kisim": null,
+      "bolum": null,
+      "ayirim": null,
+      "maddeBaslik": "Tanımlar",
+      "sectionPath": [
+        "Tanımlar"
+      ]
+    },
+    {
+      "id": "kanun:5187:m:3",
+      "maddeKind": "madde",
+      "maddeNo": "3",
+      "heading": "Madde 3",
+      "text": "Basın özgürdür. Bu özgürlük; bilgi edinme, yayma, eleştirme, yorumlama ve eser yaratma haklarını içerir.\n Basın özgürlüğünün kullanılması ancak demokratik bir toplumun gereklerine uygun olarak; başkalarının şöhret ve haklarının, toplum sağlığının ve ahlâkının, millî güvenlik, kamu düzeni, kamu güvenliği ve toprak bütünlüğünün korunması, Devlet sırlarının açıklanmasının veya suç işlenmesinin önlenmesi, yargı gücünün otorite ve tarafsızlığının sağlanması amacıyla sınırlanabilir.",
+      "preview": "Basın özgürdür. Bu özgürlük; bilgi edinme, yayma, eleştirme, yorumlama ve eser yaratma haklarını içerir. Basın özgürlüğünün kullanılması anc…",
+      "kitap": null,
+      "kisim": null,
+      "bolum": null,
+      "ayirim": null,
+      "maddeBaslik": "Basın özgürlüğü",
+      "sectionPath": [
+        "Basın özgürlüğü"
+      ]
+    },
+    {
+      "id": "kanun:5187:m:4",
+      "maddeKind": "madde",
+      "maddeNo": "4",
+      "heading": "Madde 4",
+      "text": "Her basılmış eserde, basıldığı yer ve tarih, basımcının ve varsa yayımcının adları, varsa ticarî unvanları ve işyeri adresleri gösterilir. İlân, tarife, sirküler ve benzerleri hakkında bu hüküm uygulanmaz.\n Haber ajansı yayınları hariç her türlü süreli yayında, ayrıca yönetim yeri, sahibinin, varsa temsilcisinin, sorumlu müdürün adları ve yayının türü gösterilir.\n (Ek fıkra:13/10/2022-7418/3 md.) İnternet haber sitelerinde ayrıca, faaliyet gösterdiği iş yeri adresi, ticari unvanı, elektronik posta adresi, iletişim telefonu ve elektronik tebligat adresi ile yer sağlayıcısının adı ve adresi kendilerine ait internet ortamında kullanıcıların ana sayfadan doğrudan ulaşabileceği şekilde ve iletişim başlığı altında bulundurulur.\n (Ek fıkra:13/10/2022-7418/3 md.) İnternet haber sitelerinde bir içeriğin ilk kez sunulmaya başlandığı tarih ile sonraki güncelleme tarihleri, her erişildiğinde değişmeyecek şekilde içeriğin üzerinde belirtilir.",
+      "preview": "Her basılmış eserde, basıldığı yer ve tarih, basımcının ve varsa yayımcının adları, varsa ticarî unvanları ve işyeri adresleri gösterilir. İ…",
+      "kitap": null,
+      "kisim": null,
+      "bolum": null,
+      "ayirim": null,
+      "maddeBaslik": "Zorunlu bilgiler",
+      "sectionPath": [
+        "Zorunlu bilgiler"
+      ]
+    },
+    {
+      "id": "kanun:5187:m:5",
+      "maddeKind": "madde",
+      "maddeNo": "5",
+      "heading": "Madde 5",
+      "text": "Her süreli yayının bir sorumlu müdürü bulunur. Sorumlu müdür, birden fazla ise her birinin sorumlu olduğu bölüm belirtilir.\n Sorumlu müdür olabilmek için;\n a) Onsekiz yaşını bitirmiş olmak,\n b) Türkiye'de yerleşim yeri sahibi olmak ve devamlı oturmak,\n c) En az ortaöğretim veya dengi bir eğitim kurumundan mezun olmak,\n d) Kısıtlı veya kamu hizmetlerinden yasaklı olmamak,\n e) Yüz kızartıcı suçlardan mahkûm olmamak,\n f) T.C. vatandaşı olmayanlar için karşılıklılık koşulu aramak,\n gerekir.\n Sorumlu müdürün Türkiye Büyük Millet Meclisi üyesi olması halinde sorumlu müdürlüğü üstlenmek üzere müdür yardımcısı tayin edilir. Sorumlu müdür için bu Kanunda yer alan hükümler, sorumluluğu üstlenen yardımcı için de geçerlidir.",
+      "preview": "Her süreli yayının bir sorumlu müdürü bulunur. Sorumlu müdür, birden fazla ise her birinin sorumlu olduğu bölüm belirtilir. Sorumlu müdür ol…",
+      "kitap": null,
+      "kisim": null,
+      "bolum": null,
+      "ayirim": null,
+      "maddeBaslik": "Sorumlu müdür",
+      "sectionPath": [
+        "Sorumlu müdür"
+      ]
+    },
+    {
+      "id": "kanun:5187:m:6",
+      "maddeKind": "madde",
+      "maddeNo": "6",
+      "heading": "Madde 6",
+      "text": "Gerçek ve tüzel kişiler ile kamu kurum ve kuruluşları süreli yayın sahibi olabilirler.\n Süreli yayın sahibinin onsekiz yaşından küçük veya kısıtlı olması halinde kanunî temsilcisi, tüzel kişi olması halinde ise tüzel kişi temsilcisi hakkında da 5 inci maddenin ikinci fıkrasında belirtilen şartlar aranır.",
+      "preview": "Gerçek ve tüzel kişiler ile kamu kurum ve kuruluşları süreli yayın sahibi olabilirler. Süreli yayın sahibinin onsekiz yaşından küçük veya kı…",
+      "kitap": null,
+      "kisim": null,
+      "bolum": null,
+      "ayirim": null,
+      "maddeBaslik": "Süreli yayın sahibi",
+      "sectionPath": [
+        "Süreli yayın sahibi"
+      ]
+    },
+    {
+      "id": "kanun:5187:m:7",
+      "maddeKind": "madde",
+      "maddeNo": "7",
+      "heading": "Madde 7",
+      "text": "Süreli yayınların çıkarılması için, kaydedilmek üzere yönetim yerinin bulunduğu yer Cumhuriyet Başsavcılığına bir beyanname verilmesi yeterlidir. Cumhuriyet Başsavcılığı tarafından düzenlenen kayıtlar alenidir.\n Kayıt için verilen ve yayın sahibi, sahibin küçük veya tüzel kişi olması halinde temsilcisi ile sorumlu müdür tarafından imzalanan beyannamede yayının adı ve mahiyeti, hangi aralıklarla yayımlanacağı, yönetim yeri, sahibinin, varsa temsilcisinin, sorumlu müdürün ad ve adresleri ile yayının türü ve elektronik tebligat adresi gösterilir.[3]\n Beyannameye, 5 inci ve 6 ncı maddelerde yazılı şartların varlığını gösteren belgeler ile yayın sahibi tüzel kişi ise tüzüğünün veya ana sözleşmesinin veya vakıf senedinin bir sureti eklenir.\n Cumhuriyet Başsavcılığı tarafından beyanname ve eklerinin teslim edildiğini gösteren bir alındı belgesi verilir.",
+      "preview": "Süreli yayınların çıkarılması için, kaydedilmek üzere yönetim yerinin bulunduğu yer Cumhuriyet Başsavcılığına bir beyanname verilmesi yeterl…",
+      "kitap": null,
+      "kisim": null,
+      "bolum": null,
+      "ayirim": null,
+      "maddeBaslik": "Beyanname verilmesi",
+      "sectionPath": [
+        "Beyanname verilmesi"
+      ]
+    },
+    {
+      "id": "kanun:5187:m:8",
+      "maddeKind": "madde",
+      "maddeNo": "8",
+      "heading": "Madde 8",
+      "text": "Beyannamenin ve eklerinin gerekli veya gerçek bilgileri içermemesi veya yayın sahibinin veya temsilcisinin veya sorumlu müdürün 5 inci ve 6 ncı maddelerde yazılı şartlara sahip olmaması halinde, Cumhuriyet Başsavcılığı beyannamenin verilmesinden itibaren iki hafta içinde eksikliğin giderilmesini veya gerçeğe aykırı bilgilerin düzeltilmesini yayın sahibinden ister. Bu istemin tebliği tarihinden itibaren iki hafta içerisinde yerine getirilmemesi halinde, Cumhuriyet Başsavcılığı yayımın durdurulmasını asliye ceza mahkemesinden talep eder. Mahkeme en geç iki hafta içinde karar verir. Bu karara karşı acele itiraz yoluna başvurulabilir.\n Beyanname içeriğinde meydana gelen her değişiklik, iki hafta içinde, gerekli belgelerle birlikte yeni bir beyanname ile aynı makama bildirilir.\n Birinci fıkra hükmü, değişikliğe ilişkin beyannameler hakkında da uygulanır.\n Sorumlu müdürün bu görevden ayrılması halinde, yenisi tayin edilinceye kadar sorumluluk yayın sahibine veya temsilcisine aittir.\n (Ek fıkra:13/10/2022-7418/5 md.) Birinci fıkrada düzenlenen yayım durdurma müeyyidesi internet haber siteleri bakımından uygulanmaz. İnternet haber sitesinin bu madde hükmüne uymaması hâlinde, Cumhuriyet Başsavcılığı iki hafta içinde eksikliğin giderilmesini veya gerçeğe aykırı bilgilerin düzeltilmesini internet haber sitesinden ister. İstemin iki hafta içinde yerine getirilmemesi durumunda, Cumhuriyet Başsavcılığı internet haber sitesi vasfının kazanılmadığının tespiti amacıyla asliye ceza mahkemesine başvurur. Mahkeme en geç iki hafta içinde kararını verir. Bu karara karşı itiraz yoluna başvurulabilir.\n (Ek fıkra:13/10/2022-7418/5 md.) Başvurunun kabul edilmesi hâlinde internet haber siteleri için sağlanabilecek resmî ilan ve reklam ile çalışanlarının basın kartına ilişkin hakları ortadan kalkar. İnternet haber sitesi için sağlanan hakların ortadan kaldırılması, bu Kanun ve/veya ilgili mevzuat uyarınca öngörülen yaptırımların uygulanmasına engel değildir.",
+      "preview": "Beyannamenin ve eklerinin gerekli veya gerçek bilgileri içermemesi veya yayın sahibinin veya temsilcisinin veya sorumlu müdürün 5 inci ve 6…",
+      "kitap": null,
+      "kisim": null,
+      "bolum": null,
+      "ayirim": null,
+      "maddeBaslik": "Beyannamenin incelenmesi",
+      "sectionPath": [
+        "Beyannamenin incelenmesi"
+      ]
+    },
+    {
+      "id": "kanun:5187:m:9",
+      "maddeKind": "madde",
+      "maddeNo": "9",
+      "heading": "Madde 9",
+      "text": "Süreli yayın sahibinin beyanname verdiği tarihten itibaren bir sene içinde süreli yayın yayımlanmaz veya yayımlandıktan sonra yayıma üç yıl müddetle ara verilirse beyanname hükümsüz kalır ve sağladığı hak ortadan kalkar.\n 556 sayılı Markaların Korunması Hakkında Kanun Hükmünde Kararname hükümleri saklıdır. (İptal ikinci cümle: Anayasa Mahkemesi’nin 31/1/2008 tarihli ve E.: 2004/81, K.: 2008/48 sayılı Kararı ile.)\n\n Teslim ve muhafaza yükümlülüğü (Değişik başlık:13/10/2022-7418/6 md.)",
+      "preview": "Süreli yayın sahibinin beyanname verdiği tarihten itibaren bir sene içinde süreli yayın yayımlanmaz veya yayımlandıktan sonra yayıma üç yıl…",
+      "kitap": null,
+      "kisim": null,
+      "bolum": null,
+      "ayirim": null,
+      "maddeBaslik": "Süreli yayın sahibinin hakkını kaybetmesi",
+      "sectionPath": [
+        "Süreli yayın sahibinin hakkını kaybetmesi"
+      ]
+    },
+    {
+      "id": "kanun:5187:m:10",
+      "maddeKind": "madde",
+      "maddeNo": "10",
+      "heading": "Madde 10",
+      "text": "Basımcı, bastığı her türlü yayının imzalı iki nüshasını, dağıtım veya yayımın yapıldığı gün, mahallin Cumhuriyet Başsavcılığına teslim etmekle yükümlüdür.\n Bu yükümlülük, basılmış eserin içerik ve biçim yönünden herhangi bir değişikliği içeren daha sonraki basımları ile tıpkı basımları için de geçerlidir.\n Basımcıya bu yükümlülüğünü yerine getirdiğine dair bir alındı belgesi verilir.\n (Ek fıkra:13/10/2022-7418/6 md.) İnternet haber sitesinde yayınlanan içerikler, gerektiğinde talep eden Cumhuriyet Başsavcılığına teslim edilmek üzere doğruluğu ve bütünlüğü sağlanmış şekilde iki yıl süre ile muhafaza edilir.\n (Ek fıkra:13/10/2022-7418/6 md.) Yargı mercileri tarafından yayının soruşturma ve kovuşturma konusu olduğunun internet haber sitesine yazılı olarak bildirilmesi hâlinde, bu işlemlerin sonuçlandığının bildirilmesine kadar soruşturma ve kovuşturma konusu yayın kaydının saklanması zorunludur.",
+      "preview": "Basımcı, bastığı her türlü yayının imzalı iki nüshasını, dağıtım veya yayımın yapıldığı gün, mahallin Cumhuriyet Başsavcılığına teslim etmek…",
+      "kitap": null,
+      "kisim": null,
+      "bolum": null,
+      "ayirim": null,
+      "maddeBaslik": "Süreli yayın sahibinin hakkını kaybetmesi",
+      "sectionPath": [
+        "Süreli yayın sahibinin hakkını kaybetmesi"
+      ]
+    },
+    {
+      "id": "kanun:5187:m:11",
+      "maddeKind": "madde",
+      "maddeNo": "11",
+      "heading": "Madde 11",
+      "text": "Basılmış eserler veya internet haber siteleri yoluyla işlenen suç yayım anında oluşur.[4]\n Süreli yayınlar ve süresiz yayınlar yoluyla işlenen suçlardan eser sahibi sorumludur.\n Süreli yayınlarda eser sahibinin belli olmaması veya yayım sırasında ceza ehliyetine sahip bulunmaması ya da yurt dışında bulunması nedeniyle Türkiye'de yargılanamaması veya verilecek cezanın eser sahibinin diğer bir suçtan dolayı kesin hükümle mahkûm olduğu cezaya etki etmemesi hallerinde, sorumlu müdür ve yayın yönetmeni, genel yayın yönetmeni, editör, basın danışmanı gibi sorumlu müdürün bağlı olduğu yetkili sorumlu olur. Ancak bu eserin sorumlu müdürün ve sorumlu müdürün bağlı olduğu yetkilinin karşı çıkmasına rağmen yayımlanması halinde, bundan doğan sorumluluk yayımlatana aittir.\n Süresiz yayınlarda eser sahibinin belli olmaması veya yayım sırasında ceza ehliyetine sahip bulunmaması ya da yurt dışında olması nedeniyle Türkiye'de yargılanamaması veya verilecek cezanın eser sahibinin diğer bir suçtan dolayı kesin hükümle mahkûm olduğu cezaya etki etmemesi hallerinde yayımcı; yayımcının belli olmaması veya basım sırasında ceza ehliyetine sahip bulunmaması ya da yurt dışında olması nedeniyle Türkiye'de yargılanamaması hallerinde ise basımcı sorumlu olur.\n Yukarıdaki hükümler, süreli yayınlar ve süresiz yayınlar için bu Kanunda aranan şartlara uyulmaksızın yapılan yayınlar hakkında da uygulanır.",
+      "preview": "Basılmış eserler veya internet haber siteleri yoluyla işlenen suç yayım anında oluşur.[4] Süreli yayınlar ve süresiz yayınlar yoluyla işlene…",
+      "kitap": null,
+      "kisim": null,
+      "bolum": null,
+      "ayirim": null,
+      "maddeBaslik": "Cezai sorumluluk",
+      "sectionPath": [
+        "Cezai sorumluluk"
+      ]
+    },
+    {
+      "id": "kanun:5187:m:12",
+      "maddeKind": "madde",
+      "maddeNo": "12",
+      "heading": "Madde 12",
+      "text": "Süreli yayın sahibi, sorumlu müdür ve eser sahibi, bilgi ve belge dahil her türlü haber kaynaklarını açıklamaya ve bu konuda tanıklık yapmaya zorlanamaz.",
+      "preview": "Süreli yayın sahibi, sorumlu müdür ve eser sahibi, bilgi ve belge dahil her türlü haber kaynaklarını açıklamaya ve bu konuda tanıklık yapmay…",
+      "kitap": null,
+      "kisim": null,
+      "bolum": null,
+      "ayirim": null,
+      "maddeBaslik": "Haber kaynağı",
+      "sectionPath": [
+        "Haber kaynağı"
+      ]
+    },
+    {
+      "id": "kanun:5187:m:13",
+      "maddeKind": "madde",
+      "maddeNo": "13",
+      "heading": "Madde 13",
+      "text": "Basılmış eserler veya internet haber siteleri yoluyla işlenen fiillerden doğan maddî ve manevî zararlardan dolayı süreli yayınlarda, eser sahibi ile yayın sahibi ve varsa temsilcisi, süresiz yayınlarda ise eser sahibi ile yayımcı, yayımcının belli olmaması halinde ise basımcı müştereken ve müteselsilen sorumludur.[5]\n Bu hüküm, süreli veya süreli olmayan yayınlarda yayın sahibi, marka veya lisans sahibi, kiralayan, işleten veya herhangi bir sıfatla yayımlayan, yayımcı gibi hareket eden gerçek veya tüzel kişiler hakkında da uygulanır. Tüzel kişi şirketse, anonim şirketlerde yönetim kurulu başkanı, diğer şirketlerde en üst yönetici, şirket ile birlikte müştereken ve müteselsilen sorumludur.\n Zararı doğuran fiilin işlenmesinden sonra yayının her ne surette olursa olsun devredilmesi, başka bir yayınla birleştirilmesi veya sahibi olan gerçek veya tüzel kişinin herhangi bir surette değişmesi halinde, yayını devir alan, birleşen ve her ne surette olursa olsun yayın sahibi gibi hareket eden gerçek ve tüzel kişiler ve anonim şirketlerde yönetim kurulu başkanı, diğer şirketlerde üst yönetici, bu fiil nedeniyle hükmedilecek tazminattan birinci ve ikinci fıkrada sayılanlarla birlikte müştereken ve müteselsilen sorumludur.",
+      "preview": "Basılmış eserler veya internet haber siteleri yoluyla işlenen fiillerden doğan maddî ve manevî zararlardan dolayı süreli yayınlarda, eser sa…",
+      "kitap": null,
+      "kisim": null,
+      "bolum": null,
+      "ayirim": null,
+      "maddeBaslik": "Hukukî sorumluluk",
+      "sectionPath": [
+        "Hukukî sorumluluk"
+      ]
+    },
+    {
+      "id": "kanun:5187:m:14",
+      "maddeKind": "madde",
+      "maddeNo": "14",
+      "heading": "Madde 14",
+      "text": "Süreli yayınlarda kişilerin şeref ve haysiyetini ihlâl edici veya kişilerle ilgili gerçeğe aykırı yayım yapılması halinde, bundan zarar gören kişinin yayım tarihinden itibaren iki ay içinde göndereceği suç unsuru içermeyen, üçüncü kişilerin hukuken korunan menfaatlerine aykırı olmayan düzeltme ve cevap yazısını; sorumlu müdür hiçbir düzeltme ve ekleme yapmaksızın, günlük süreli yayınlarda yazıyı aldığı tarihten itibaren en geç üç gün içinde, diğer süreli yayınlarda yazıyı aldığı tarihten itibaren üç günden sonraki ilk nüshada, ilgili yayının yer aldığı sayfa ve sütunlarda, aynı puntolarla ve aynı şekilde yayımlamak zorundadır. (Ek cümleler:13/10/2022-7418/7 md.) İnternet haber sitelerinde ise zarar gören kişinin düzeltme ve cevap yazısını; sorumlu müdür, hiçbir düzeltme ve ekleme yapmaksızın, yazıyı aldığı tarihten itibaren en geç bir gün içinde, ilgili yayının yer aldığı sayfa ve sütunlarda, URL bağlantısı sağlanmak suretiyle, aynı puntolarla ve aynı şekilde yayımlamak zorundadır. Yayın hakkında verilen erişimin engellenmesi ve/veya içeriğin çıkarılması kararının uygulanması ya da internet haber sitesi tarafından içeriğin kendiliğinden çıkarılması durumunda, düzeltme ve cevap metni ilgili yayının yapıldığı internet haber sitesinde ilk yirmi dört saati ana sayfada olmak üzere bir hafta süreyle yayımlanır.\n Düzeltme ve cevapta, buna neden olan eser belirtilir. Düzeltme ve cevap, ilgili yazıdan uzun olamaz. Düzeltme ve cevaba neden olan eserin yirmi satırdan az yazı veya resim veya karikatür olması hallerinde düzeltme ve cevap otuz satırı geçemez.\n Süreli yayının birden fazla yerde basılması halinde, düzeltme ve cevap yazısı, düzeltme ve cevap hakkının kullanılmasına sebebiyet veren eserin yayımlandığı bütün baskılarda yayımlanır.\n Düzeltme ve cevabın birinci fıkrada belirlenen süreler içinde yayımlanmaması halinde yayım için tanınan sürenin bitiminden itibaren, birinci fıkra hükümlerine aykırı şekilde yayımlanması halinde ise yayım tarihinden itibaren onbeş gün içinde cevap ve düzeltme talep eden kişi, bulunduğu yer sulh ceza hâkiminden yayımın yapılmasına veya bu Kanun hükümlerine uygun olarak yapılmasına karar verilmesini isteyebilir. Sulh ceza hâkimi bu istemi üç gün içerisinde, duruşma yapmaksızın, karara bağlar.\n Sulh ceza hâkiminin kararına karşı acele itiraz yoluna gidilebilir. Yetkili makam üç gün içinde itirazı inceleyerek karar verir. Yetkili makamın kararı kesindir.\n Düzeltme ve cevabın yayımlanmasına hâkim tarafından karar verilmesi halinde, birinci fıkradaki süreler, sulh ceza hâkiminin kararına itiraz edilmemişse kararın kesinleştiği tarihten, itiraz edilmişse yetkili makamın kararının tebliği tarihinden itibaren başlar.\n Düzeltme ve cevap hakkına sahip olan kişinin ölmesi halinde bu hak, mirasçılardan biri tarafından kullanılabilir. Bu durumda, birinci fıkradaki iki aylık düzeltme ve cevap hakkı süresine bir ay ilave edilir.",
+      "preview": "Süreli yayınlarda kişilerin şeref ve haysiyetini ihlâl edici veya kişilerle ilgili gerçeğe aykırı yayım yapılması halinde, bundan zarar göre…",
+      "kitap": null,
+      "kisim": null,
+      "bolum": null,
+      "ayirim": null,
+      "maddeBaslik": "Düzeltme ve cevap",
+      "sectionPath": [
+        "Düzeltme ve cevap"
+      ]
+    },
+    {
+      "id": "kanun:5187:m:15",
+      "maddeKind": "madde",
+      "maddeNo": "15",
+      "heading": "Madde 15",
+      "text": "4 üncü maddeye göre basılmış eserlerde ve internet haber sitelerinde gösterilmesi öngörülen hususların gösterilmemesi veya gerçeğe aykırı olarak gösterilmesi halinde, süreli yayınlarda sorumlu müdür ve sorumlu müdürün bağlı olduğu yetkili, süresiz yayınlarda yayımcı ve adını ve adresini göstermeyen veya yanlış gösteren basımcı beşyüzmilyon liradan yirmimilyar liraya kadar ağır para cezasıyla cezalandırılır. Bu ceza, bölgesel süreli yayınlarda ikimilyar liradan, yaygın süreli yayınlarda beşmilyar liradan az olamaz. [6]",
+      "preview": "4 üncü maddeye göre basılmış eserlerde ve internet haber sitelerinde gösterilmesi öngörülen hususların gösterilmemesi veya gerçeğe aykırı ol…",
+      "kitap": null,
+      "kisim": null,
+      "bolum": null,
+      "ayirim": null,
+      "maddeBaslik": "Zorunlu bilgileri göstermeme",
+      "sectionPath": [
+        "Zorunlu bilgileri göstermeme"
+      ]
+    },
+    {
+      "id": "kanun:5187:m:16",
+      "maddeKind": "madde",
+      "maddeNo": "16",
+      "heading": "Madde 16",
+      "text": "8 inci maddeye göre mahkeme kararıyla durdurulan yayına, usulüne uygun beyanname vermeden veya değişiklikleri bildirmeden devam edilmesi halinde yayın sahibi, sorumlu müdür ve sorumlu müdürün bağlı olduğu yetkili birmilyar liradan onbeş milyar liraya kadar ağır para cezasıyla cezalandırılır. Bu ceza, bölgesel süreli yayınlarda beşmilyar liradan, yaygın süreli yayınlarda onmilyar liradan az olamaz.\n\n Teslim ve muhafaza yükümlülüğüne uymama (Değişik başlık:13/10/2022-7418/8 md.)",
+      "preview": "8 inci maddeye göre mahkeme kararıyla durdurulan yayına, usulüne uygun beyanname vermeden veya değişiklikleri bildirmeden devam edilmesi hal…",
+      "kitap": null,
+      "kisim": null,
+      "bolum": null,
+      "ayirim": null,
+      "maddeBaslik": "Durdurulan yayının yayımına devam etme",
+      "sectionPath": [
+        "Durdurulan yayının yayımına devam etme"
+      ]
+    },
+    {
+      "id": "kanun:5187:m:17",
+      "maddeKind": "madde",
+      "maddeNo": "17",
+      "heading": "Madde 17",
+      "text": "10 uncu maddeye göre teslim yükümlülüğünü yerine getirmeyen basımcı ile teslim ve muhafaza yükümlülüğünü yerine getirmeyen internet haber sitesi sorumlu müdürü üçyüzmilyon liradan birmilyar liraya kadar ağır para cezasıyla cezalandırılır.[7]",
+      "preview": "10 uncu maddeye göre teslim yükümlülüğünü yerine getirmeyen basımcı ile teslim ve muhafaza yükümlülüğünü yerine getirmeyen internet haber si…",
+      "kitap": null,
+      "kisim": null,
+      "bolum": null,
+      "ayirim": null,
+      "maddeBaslik": "Durdurulan yayının yayımına devam etme",
+      "sectionPath": [
+        "Durdurulan yayının yayımına devam etme"
+      ]
+    },
+    {
+      "id": "kanun:5187:m:18",
+      "maddeKind": "madde",
+      "maddeNo": "18",
+      "heading": "Madde 18",
+      "text": "Düzeltme ve cevabın yayımlanmasına ilişkin kesinleşmiş hâkim kararlarına uymayan sorumlu müdür ve sorumlu müdürün bağlı olduğu yetkili onmilyar liradan yüzellimilyar liraya kadar ağır para cezasıyla cezalandırılır. Ağır para cezası, bölgesel süreli yayınlarda yirmimilyar liradan, yaygın süreli yayınlarda ellimilyar liradan az olamaz.\n Sorumlu müdür ve sorumlu müdürün bağlı olduğu yetkili hakkında verilen ağır para cezasının ödenmesinden yayın sahibi, sorumlu müdür ve sorumlu müdürün bağlı olduğu yetkili ile birlikte müteselsilen sorumludur.\n Düzeltme ve cevap yazısının yayımlanmaması veya 14 üncü maddenin birinci fıkrasında belirtilen şartlara uyulmaksızın yayımlanması hallerinde hâkim ayrıca, masraflar yayın sahibi tarafından karşılanmak üzere, bu yazının iki internet haber sitesi ile tirajı yüzbinin üzerinde olan iki gazetede ilân şeklinde yayımlanmasına da karar verir.[8]",
+      "preview": "Düzeltme ve cevabın yayımlanmasına ilişkin kesinleşmiş hâkim kararlarına uymayan sorumlu müdür ve sorumlu müdürün bağlı olduğu yetkili onmil…",
+      "kitap": null,
+      "kisim": null,
+      "bolum": null,
+      "ayirim": null,
+      "maddeBaslik": "Düzeltme ve cevabın yayımlanmaması",
+      "sectionPath": [
+        "Düzeltme ve cevabın yayımlanmaması"
+      ]
+    },
+    {
+      "id": "kanun:5187:m:19",
+      "maddeKind": "madde",
+      "maddeNo": "19",
+      "heading": "Madde 19",
+      "text": "(Mülga: 2/7/2012-6352/105 md.)",
+      "preview": "(Mülga: 2/7/2012-6352/105 md.)",
+      "kitap": null,
+      "kisim": null,
+      "bolum": null,
+      "ayirim": null,
+      "maddeBaslik": "Yargıyı etkileme",
+      "sectionPath": [
+        "Yargıyı etkileme"
+      ]
+    },
+    {
+      "id": "kanun:5187:m:20",
+      "maddeKind": "madde",
+      "maddeNo": "20",
+      "heading": "Madde 20",
+      "text": "Cinsel saldırı, cinayet ve intihar olayları hakkında, haber vermenin sınırlarını aşan ve okuyucuyu bu tür fiillere özendirebilecek nitelikte olan yazı ve resim yayımlayanlar birmilyar liradan yirmimilyar liraya kadar ağır para cezasıyla cezalandırılır. Bu ceza bölgesel süreli yayınlarda ikimilyar liradan, yaygın süreli yayınlarda ve internet haber sitelerinde onmilyar liradan az olamaz.",
+      "preview": "Cinsel saldırı, cinayet ve intihar olayları hakkında, haber vermenin sınırlarını aşan ve okuyucuyu bu tür fiillere özendirebilecek nitelikte…",
+      "kitap": null,
+      "kisim": null,
+      "bolum": null,
+      "ayirim": null,
+      "maddeBaslik": "Cinsel saldırı, cinayet ve intihara özendirme [9]",
+      "sectionPath": [
+        "Cinsel saldırı, cinayet ve intihara özendirme [9]"
+      ]
+    },
+    {
+      "id": "kanun:5187:m:21",
+      "maddeKind": "madde",
+      "maddeNo": "21",
+      "heading": "Madde 21",
+      "text": "Süreli yayınlarda;\n a) 22.11.2001 tarihli ve 4721 sayılı Türk Medeni Kanununa göre evlenmeleri yasaklanmış olan kimseler arasındaki cinsel ilişkiyle ilgili haberlerde bu kişilerin,\n b) 1.3.1926 tarihli ve 765 sayılı Türk Ceza Kanununun 414, 415, 416, 421, 423, 429, 430, 435 ve 436 ncı maddelerinde yazılı cürümlere ilişkin haberlerde mağdurların,\n c) Onsekiz yaşından küçük olan suç faili veya mağdurlarının,\n Kimliklerini açıklayacak ya da tanınmalarına yol açacak şekilde yayın yapanlar birmilyar liradan yirmimilyar liraya kadar ağır para cezasıyla cezalandırılır. Bu ceza bölgesel süreli yayınlarda ikimilyar liradan, yaygın süreli yayınlarda ve internet haber sitelerinde onmilyar liradan az olamaz.",
+      "preview": "Süreli yayınlarda; a) 22.11.2001 tarihli ve 4721 sayılı Türk Medeni Kanununa göre evlenmeleri yasaklanmış olan kimseler arasındaki cinsel il…",
+      "kitap": null,
+      "kisim": null,
+      "bolum": null,
+      "ayirim": null,
+      "maddeBaslik": "Kimliğin açıklanmaması[10]",
+      "sectionPath": [
+        "Kimliğin açıklanmaması[10]"
+      ]
+    },
+    {
+      "id": "kanun:5187:m:22",
+      "maddeKind": "madde",
+      "maddeNo": "22",
+      "heading": "Madde 22",
+      "text": "Kanuna uygun olarak basılmış eserleri, bunların yayımını veya dağıtımını veya satışını önlemek amacıyla tahrip eden veya bozan kimse, fiili daha ağır bir suç teşkil etmediği takdirde, bir yıla kadar hapis ve birmilyar liradan beşmilyar liraya kadar ağır para cezasıyla cezalandırılır.\n Kanunun aradığı şartlara uyulmasına rağmen süreli ve süresiz yayınların basılmasını, yayımını, dağıtımını veya satışını şiddet veya tehditle engelleyen kimse, fiili daha ağır bir suç teşkil etmediği takdirde, iki yıla kadar hapis ve ikimilyar liradan onmilyar liraya kadar ağır para cezasıyla cezalandırılır.\n Yukarıdaki fıkralarda öngörülen fiiller, umumi mahalde veya matbaanın veya umuma satış yapan veya dağıtım yapan yerlerde birden fazla kişi tarafından işlendiği takdirde verilecek ceza yarıya kadar artırılır.",
+      "preview": "Kanuna uygun olarak basılmış eserleri, bunların yayımını veya dağıtımını veya satışını önlemek amacıyla tahrip eden veya bozan kimse, fiili…",
+      "kitap": null,
+      "kisim": null,
+      "bolum": null,
+      "ayirim": null,
+      "maddeBaslik": "Basılmış eserleri engelleme, tahrip ve bozma",
+      "sectionPath": [
+        "Basılmış eserleri engelleme, tahrip ve bozma"
+      ]
+    },
+    {
+      "id": "kanun:5187:m:23",
+      "maddeKind": "madde",
+      "maddeNo": "23",
+      "heading": "Madde 23",
+      "text": "Süreli yayınların dağıtımını yapan kişiler, kendilerinden dağıtımı istenen yayınları, dağıtımını yaptıkları diğer yayınlar için aldıkları satış fiyatı, tiraj ve sayfa sayısına göre belirlenen dağıtım ücretini aşmayacak bir bedel karşılığında, dağıtmakla yükümlüdürler. Bu yükümlülüğe aykırı davrananlar, dağıtımından kaçındıkları yayının toplam bedelinin on misli ağır para cezasıyla cezalandırılırlar.\n Süreli yayınları perakende olarak satışa sunan gerçek veya tüzel kişiler, aynı anda diledikleri kadar dağıtım şirketiyle anlaşıp diledikleri yayınları satabilirler. Hiç kimse, bu kişilere, rakip yayınları satmama yükümlülüğü getiremez ve bu yayınları satmama koşuluna bağlı olan veya bu sonucu doğuracak edimlerde bulunamaz.",
+      "preview": "Süreli yayınların dağıtımını yapan kişiler, kendilerinden dağıtımı istenen yayınları, dağıtımını yaptıkları diğer yayınlar için aldıkları sa…",
+      "kitap": null,
+      "kisim": null,
+      "bolum": null,
+      "ayirim": null,
+      "maddeBaslik": "Süreli yayınların dağıtımı",
+      "sectionPath": [
+        "Süreli yayınların dağıtımı"
+      ]
+    },
+    {
+      "id": "kanun:5187:m:24",
+      "maddeKind": "madde",
+      "maddeNo": "24",
+      "heading": "Madde 24",
+      "text": "Bir süreli yayında yayımlanmış haber, yazı ve resimleri kaynak göstermeksizin yeniden yayımlayanlar beşmilyar liradan onmilyar liraya kadar ağır para cezasıyla cezalandırılırlar.\n Bu eserleri, yeniden yayım hakkı saklı tutulmuş olmasına rağmen, süreli yayın sahibinin izni olmadan yeniden yayımlayanlar yirmimilyar liradan kırkmilyar liraya kadar ağır para cezasıyla cezalandırılırlar.",
+      "preview": "Bir süreli yayında yayımlanmış haber, yazı ve resimleri kaynak göstermeksizin yeniden yayımlayanlar beşmilyar liradan onmilyar liraya kadar…",
+      "kitap": null,
+      "kisim": null,
+      "bolum": null,
+      "ayirim": null,
+      "maddeBaslik": "Yeniden yayım",
+      "sectionPath": [
+        "Yeniden yayım"
+      ]
+    },
+    {
+      "id": "kanun:5187:m:25",
+      "maddeKind": "madde",
+      "maddeNo": "25",
+      "heading": "Madde 25",
+      "text": "Soruşturma için sübut vasıtası olarak her türlü basılmış eserin en fazla üç adedine Cumhuriyet savcısı, gecikmesinde sakınca bulunan hallerde de kolluk el koyabilir.\n Soruşturma veya kovuşturmanın başlatılmış olması şartıyla 25.7.1951 tarihli ve 5816 sayılı Atatürk Aleyhine İşlenen Suçlar Hakkında Kanunda, Anayasanın 174 üncü maddesinde yer alan inkılap kanunlarında, 765 sayılı Türk Ceza Kanununun 146 ncı maddesinin ikinci fıkrasında, 153 üncü maddesinin birinci ve dördüncü fıkralarında, 155 inci maddesinde, 311 inci maddesinin birinci ve ikinci fıkralarında, 312 nci maddesinin ikinci ve dördüncü fıkralarında, 312/a maddesinde ve 12.4.1991 tarihli ve 3713 sayılı Terörle Mücadele Kanununun 7 nci maddesinin ikinci ve beşinci fıkralarında öngörülen suçlarla ilgili olarak basılmış eserlerin tamamına hâkim kararıyla el konulabilir.\n Hangi dilde olursa olsun Türkiye dışında basılan süreli veya süresiz yayın ve gazetelerin ikinci fıkrada belirtilen suçları içerdiklerine dair kuvvetli delil bulunması halinde, bunların Türkiye'de dağıtılması veya satışa sunulması, Cumhuriyet Başsavcılığının talebi üzerine sulh ceza hâkiminin kararı ile yasaklanabilir. Gecikmesinde sakınca bulunan hallerde Cumhuriyet Başsavcılığının kararı yeterlidir. Bu karar en geç yirmidört saat içinde hâkimin onayına sunulur. Kırksekiz saat içinde hâkim tarafından onaylanmaması halinde Cumhuriyet Başsavcılığının kararı hükümsüz kalır.\n Yukarıdaki fıkra uyarınca yasaklanmış yayın veya gazeteleri bilerek dağıtanlar veya satışa sunanlar bu yayınlar yoluyla işlenen suçlardan eser sahibi gibi sorumludurlar.",
+      "preview": "Soruşturma için sübut vasıtası olarak her türlü basılmış eserin en fazla üç adedine Cumhuriyet savcısı, gecikmesinde sakınca bulunan hallerd…",
+      "kitap": null,
+      "kisim": null,
+      "bolum": null,
+      "ayirim": null,
+      "maddeBaslik": "El koyma, dağıtım ve satış yasağı",
+      "sectionPath": [
+        "El koyma, dağıtım ve satış yasağı"
+      ]
+    },
+    {
+      "id": "kanun:5187:m:26",
+      "maddeKind": "madde",
+      "maddeNo": "26",
+      "heading": "Madde 26",
+      "text": "Basılmış eserler veya internet haber siteleri yoluyla işlenen veya bu Kanunda öngörülen diğer suçlarla ilgili ceza davalarının bir muhakeme şartı olarak, günlük süreli yayınlar ve internet haber siteleri yönünden dört ay, diğer basılmış eserler yönünden altı ay içinde açılması zorunludur.\n Bu süreler basılmış eserlerin Cumhuriyet Başsavcılığına teslim edildiği tarihten, internet haber siteleri için ise habere ilişkin suç ihbarının yapıldığı tarihten başlar. Basılmış eserlerin Cumhuriyet Başsavcılığına teslim edilmemesi halinde yukarıdaki sürelerin başlama tarihi, suçu oluşturan fiilin Cumhuriyet Başsavcılığı tarafından öğrenildiği tarihtir. Ancak bu süreler, Türk Ceza Kanununun dava zamanaşımına ilişkin maddesinde öngörülen süreleri aşamaz.\n Sorumlu müdürün ve sorumlu müdürün bağlı olduğu yetkilinin karşı çıkmasına rağmen yayımlatıldığı iddia edilen eserden dolayı yayımlatan aleyhine açılacak dava yönünden süre, sorumlu müdür ve sorumlu müdürün bağlı olduğu yetkili hakkında verilecek beraat kararının kesinleşmesinden itibaren başlar.\n Sorumlu müdürün yayımlanan eserin sahibini bildirmesi durumunda, eser sahibi aleyhine açılacak davada süre, bildirim tarihinden itibaren başlar.\n Kovuşturulması şikâyete bağlı suçlarda dava açma süreleri, suç için kanunun öngördüğü dava zamanaşımı süresini aşmamak şartıyla, suçun işlendiğinin öğrenildiği tarihten başlar.\n Kamu davasının açılması izin veya karar alınmasına bağlı olan suçlarda, izin veya karar için gerekli başvurunun yapılmasıyla dava açma süresi durur. Durma süresi dört ayı geçemez.",
+      "preview": "Basılmış eserler veya internet haber siteleri yoluyla işlenen veya bu Kanunda öngörülen diğer suçlarla ilgili ceza davalarının bir muhakeme…",
+      "kitap": null,
+      "kisim": null,
+      "bolum": null,
+      "ayirim": null,
+      "maddeBaslik": "Dava süreleri[11] [12]",
+      "sectionPath": [
+        "Dava süreleri[11] [12]"
+      ]
+    },
+    {
+      "id": "kanun:5187:m:27",
+      "maddeKind": "madde",
+      "maddeNo": "27",
+      "heading": "Madde 27",
+      "text": "Basılmış eserler veya internet haber siteleri yoluyla işlenen veya bu Kanunda öngörülen diğer suçlardan dolayı açılan davalardan, ağır ceza işlerinden olanlar ağır ceza mahkemelerinde, diğerleri asliye ceza mahkemelerinde görülür.\n Bir yerde ağır ceza veya asliye ceza mahkemesinin birden fazla dairesi bulunması halinde bu davalar iki numaralı mahkemede görülür.\n Basılmış eserler veya internet haber siteleri yoluyla işlenen veya bu Kanunda öngörülen diğer suçlara ilişkin davalar acele işlerden sayılır.",
+      "preview": "Basılmış eserler veya internet haber siteleri yoluyla işlenen veya bu Kanunda öngörülen diğer suçlardan dolayı açılan davalardan, ağır ceza…",
+      "kitap": null,
+      "kisim": null,
+      "bolum": null,
+      "ayirim": null,
+      "maddeBaslik": "Görevli mahkemeler ve yargılama usulü [13]",
+      "sectionPath": [
+        "Görevli mahkemeler ve yargılama usulü [13]"
+      ]
+    },
+    {
+      "id": "kanun:5187:m:28",
+      "maddeKind": "madde",
+      "maddeNo": "28",
+      "heading": "Madde 28",
+      "text": "18 inci ve 22 nci maddelerdeki suçlar dışında bu Kanunda öngörülen suçlar için hükmedilen para cezaları, hürriyeti bağlayıcı cezaya çevrilemez.",
+      "preview": "18 inci ve 22 nci maddelerdeki suçlar dışında bu Kanunda öngörülen suçlar için hükmedilen para cezaları, hürriyeti bağlayıcı cezaya çevrilem…",
+      "kitap": null,
+      "kisim": null,
+      "bolum": null,
+      "ayirim": null,
+      "maddeBaslik": "Hürriyeti bağlayıcı cezaya çevirme yasağı",
+      "sectionPath": [
+        "Hürriyeti bağlayıcı cezaya çevirme yasağı"
+      ]
+    },
+    {
+      "id": "kanun:5187:m:29",
+      "maddeKind": "madde",
+      "maddeNo": "29",
+      "heading": "Madde 29",
+      "text": "Süreli yayının yönetim yeri, tebligat işlemleri yönünden, yayın sahibinin ve temsilcisinin, görevi devam ettiği sürece sorumlu müdürün yerleşim yeri sayılır.",
+      "preview": "Süreli yayının yönetim yeri, tebligat işlemleri yönünden, yayın sahibinin ve temsilcisinin, görevi devam ettiği sürece sorumlu müdürün yerle…",
+      "kitap": null,
+      "kisim": null,
+      "bolum": null,
+      "ayirim": null,
+      "maddeBaslik": "Tebligat",
+      "sectionPath": [
+        "Tebligat"
+      ]
+    },
+    {
+      "id": "kanun:5187:m:30",
+      "maddeKind": "madde",
+      "maddeNo": "30",
+      "heading": "Madde 30",
+      "text": "15.7.1950 tarihli ve 5680 sayılı Basın Kanunu yürürlükten kaldırılmıştır.",
+      "preview": "15.7.1950 tarihli ve 5680 sayılı Basın Kanunu yürürlükten kaldırılmıştır.",
+      "kitap": null,
+      "kisim": null,
+      "bolum": null,
+      "ayirim": null,
+      "maddeBaslik": "Yürürlükten kaldırılan hükümler",
+      "sectionPath": [
+        "Yürürlükten kaldırılan hükümler"
+      ]
+    },
+    {
+      "id": "kanun:5187:m:ek:1",
+      "maddeKind": "ek",
+      "maddeNo": "1",
+      "heading": "Ek Madde 1",
+      "text": "(Ek:13/10/2022-7418/10 md.)\n Basın kartı başvurusu Başkanlığa yapılır.\n Basın kartı, resmî nitelikte bir kimlik belgesidir.\n Basın kartı türleri aşağıda sayılanlardan ibarettir:\n a) Göreve bağlı basın kartı: Bir medya kuruluşuna bağlı olarak çalışan Türk vatandaşı medya mensuplarına ve enformasyon görevlilerine verilen basın kartını,\n b) Süreli basın kartı: Görev alanı Türkiye’yi kapsayan yabancı medya mensuplarına verilen basın kartını,\n c) Geçici basın kartı: Görev alanı Türkiye’yi kapsamamakla beraber geçici bir süreyle Türkiye’ye haber amaçlı gelen yabancı medya mensuplarına verilen basın kartını,\n ç) Serbest basın kartı: Geçici bir süreyle çalışmayan veya yurt dışında serbest gazetecilik yapan Türk vatandaşı medya mensuplarına verilen basın kartını,\n d) Sürekli basın kartı: En az on sekiz yıl mesleki hizmeti bulunan medya mensupları ve enformasyon görevlilerine ömür boyu verilen basın kartını,\n ifade eder.",
+      "preview": "(Ek:13/10/2022-7418/10 md.) Basın kartı başvurusu Başkanlığa yapılır. Basın kartı, resmî nitelikte bir kimlik belgesidir. Basın kartı türler…",
+      "kitap": null,
+      "kisim": null,
+      "bolum": null,
+      "ayirim": null,
+      "maddeBaslik": "Basın kartı başvurusu, niteliği ve türleri",
+      "sectionPath": [
+        "Basın kartı başvurusu, niteliği ve türleri"
+      ]
+    },
+    {
+      "id": "kanun:5187:m:ek:2",
+      "maddeKind": "ek",
+      "maddeNo": "2",
+      "heading": "Ek Madde 2",
+      "text": "(Ek:13/10/2022-7418/11 md.)\n Basın kartı;\n a) Türkiye’de faaliyet gösteren medya kuruluşlarının Türk vatandaşı medya mensuplarına,\n b) Süreli yayınların sahiplerine veya tüzel kişi temsilcileri ile radyo ve televizyonların yönetim kurulu başkanlarına,\n c) Medya kuruluşları adına hareket eden ve görev alanı Türkiye’yi kapsayan yabancı medya mensupları ile görev alanı Türkiye’yi kapsamamakla beraber geçici bir süreyle Türkiye’ye haber amaçlı gelen yabancı medya mensuplarına,\n ç) Yurt dışında yayın yapan medya kuruluşlarının, Türk vatandaşı sahiplerine ve çalışanlarına,\n d) Yurt dışında serbest gazetecilik yapan Türk vatandaşı medya mensuplarına,\n e) Medya alanında hizmet veren kamu kurum ve kuruluşlarında ve kamu kurum ve kuruluşlarının yürüttükleri enformasyon hizmetlerinde çalışan kamu personeline,\n f) Medya alanında faaliyet göstermeleri şartıyla, sendikalar ile kamu yararına faaliyette bulunduğu tespit edilen dernek ve vakıfların yöneticilerine,\n verilebilir.",
+      "preview": "(Ek:13/10/2022-7418/11 md.) Basın kartı; a) Türkiye’de faaliyet gösteren medya kuruluşlarının Türk vatandaşı medya mensuplarına, b) Süreli y…",
+      "kitap": null,
+      "kisim": null,
+      "bolum": null,
+      "ayirim": null,
+      "maddeBaslik": "Basın kartı alabilecek kişiler",
+      "sectionPath": [
+        "Basın kartı alabilecek kişiler"
+      ]
+    },
+    {
+      "id": "kanun:5187:m:ek:3",
+      "maddeKind": "ek",
+      "maddeNo": "3",
+      "heading": "Ek Madde 3",
+      "text": "(Ek:13/10/2022-7418/12 md.)\n Basın kartı talep edenlerin başvuruda bulunabilmeleri için;\n a) 18 yaşını bitirmiş olması,\n b) En az lise veya dengi bir eğitim kurumundan mezun olması,\n c) Kısıtlı veya kamu hizmetlerinden yasaklı olmaması,\n ç) 26/9/2004 tarihli ve 5237 sayılı Türk Ceza Kanununun 53 üncü maddesinde belirtilen süreler geçmiş olsa bile; kasten işlenen bir suçtan dolayı beş yıl veya daha fazla süreyle hapis cezasına ya da şantaj, hırsızlık, sahtecilik, dolandırıcılık, güveni kötüye kullanma, yalan tanıklık, yalan yere yemin, iftira, suç uydurma, müstehcenlik, fuhuş, hileli iflas, zimmet, irtikâp, rüşvet, kaçakçılık, ihaleye fesat karıştırma, edimin ifasına fesat karıştırma, suçtan kaynaklanan malvarlığı değerlerini aklama suçları ile cinsel dokunulmazlığa karşı suçlar, kamu barışına karşı suçlar, Anayasal düzene ve bu düzenin işleyişine karşı suçlar, milli savunmaya karşı suçlar, devlet sırlarına karşı suçlar ve casusluk suçlarından hüküm giymemiş olması,\n d) Terörle Mücadele Kanununun 3 üncü maddesinde sayılan terör suçları ile 4 üncü maddesinde sayılan terör amacı ile işlenen suçlardan veya 6 ncı maddede belirtilen suçlar ile 7/2/2013 tarihli ve 6415 sayılı Terörizmin Finansmanının Önlenmesi Hakkında Kanunun 4 üncü maddesi uyarınca hüküm giymemiş olması,\n e) Bu Kanunun 25 inci maddesinin ikinci fıkrasında yer alan suçlardan hüküm giymemiş olması,\n f) 13/6/1952 tarihli ve 5953 sayılı Basın Mesleğinde Çalışanlarla Çalıştıranlar Arasındaki Münasebetlerin Tanzimi Hakkında Kanun hükümlerine uygun sözleşme yapmış olması ve mücbir sebepler dışında işten ayrıldığı tarihten itibaren bir aydan fazla olmamak üzere ara vermeden çalışması,\n g) Medya faaliyeti dışında ticari faaliyette bulunmaması,\n şarttır.\n Basın kartı talep eden süreli yayın sahipleri veya tüzel kişi temsilcileri ile radyo ve televizyonların yönetim kurulu başkanlarında, kamu kurum ve kuruluşlarında basın kartı alabilecek çalışanlarda ve yabancı basın-yayın kuruluşlarında çalışan Türk vatandaşı medya mensuplarından basın kartı talep edenlerde birinci fıkranın (f) ve (g) bentlerinde belirtilen şartlar aranmaz.\n Sürekli ve serbest basın kartı talep edenler ile Türkiye Radyo Televizyon Kurumu aracılığıyla göreve bağlı basın kartı talep edenlerde birinci fıkranın (f) bendinde belirtilen şart aranmaz.",
+      "preview": "(Ek:13/10/2022-7418/12 md.) Basın kartı talep edenlerin başvuruda bulunabilmeleri için; a) 18 yaşını bitirmiş olması, b) En az lise veya den…",
+      "kitap": null,
+      "kisim": null,
+      "bolum": null,
+      "ayirim": null,
+      "maddeBaslik": "Basın kartı alabilecek kişilerde aranan şartlar",
+      "sectionPath": [
+        "Basın kartı alabilecek kişilerde aranan şartlar"
+      ]
+    },
+    {
+      "id": "kanun:5187:m:ek:4",
+      "maddeKind": "ek",
+      "maddeNo": "4",
+      "heading": "Ek Madde 4",
+      "text": "(Ek:13/10/2022-7418/13 md.)\n Basın kartı talep eden yabancı medya mensuplarına;\n a) Medya kuruluşu tarafından görevlendirildiklerini belgelendirmeleri,\n b) 28/7/2016 tarihli ve 6735 sayılı Uluslararası İşgücü Kanunu uyarınca çalışma izinlerinin olması,\n c) Bağlı bulundukları kuruluşun idare merkezinin bulunduğu ülkenin Türkiye’deki büyükelçilik, elçilik veya konsolosluklarından aldıkları takdim mektubunu ibraz etmeleri,\n hâlinde, karşılıklılık esası da gözetilerek Başkanlıkça basın kartı verilebilir.\n 31/5/2006 tarihli ve 5510 sayılı Sosyal Sigortalar ve Genel Sağlık Sigortası Kanununun 4 üncü maddesinin birinci fıkrasının (a) bendi kapsamında sigortalı olmayan ve geçici basın kartı talep edenler için de 6735 sayılı Kanun uyarınca çalışma izni alınması zorunludur. Bu fıkra kapsamında çalışma izni başvuruları 6735 sayılı Kanunun 16 ncı maddesi çerçevesinde istisnai olarak değerlendirilir.",
+      "preview": "(Ek:13/10/2022-7418/13 md.) Basın kartı talep eden yabancı medya mensuplarına; a) Medya kuruluşu tarafından görevlendirildiklerini belgelend…",
+      "kitap": null,
+      "kisim": null,
+      "bolum": null,
+      "ayirim": null,
+      "maddeBaslik": "Basın kartı alabilecek yabancı medya mensuplarında aranan şartlar",
+      "sectionPath": [
+        "Basın kartı alabilecek yabancı medya mensuplarında aranan şartlar"
+      ]
+    },
+    {
+      "id": "kanun:5187:m:ek:5",
+      "maddeKind": "ek",
+      "maddeNo": "5",
+      "heading": "Ek Madde 5",
+      "text": "(Ek:13/10/2022-7418/14 md.)\n Komisyon;\n a) Başkanlığı temsilen üç üye,\n b) Basın-yayın meslek kuruluşlarının birleşerek oluşturdukları üst kuruluşlar hariç olmak üzere; süreli yayın organlarının sahip ve/veya çalışanlarınca kurulan basın-yayın meslek kuruluşlarından basın kartı sahibi en fazla üyesi bulunan meslek kuruluşu tarafından belirlenecek bir üye,\n c) Basın-yayın meslek kuruluşlarının birleşerek oluşturdukları üst kuruluşlar hariç olmak üzere; İstanbul, Ankara ve İzmir illerinde bulunan en fazla basın kartı sahibi üyesi meslek kuruluşu tarafından belirlenecek birer üye ile bu iller dışındaki illerde kurulu basın-yayın meslek kuruluşlarının sahip ve/veya çalışanları tarafından kurulmuş basın-yayın meslek kuruluşlarından en fazla basın kartı sahibi üyesi bulunan meslek kuruluşu tarafından belirlenecek bir üye olmak üzere toplam dört üye,\n ç) Sürekli nitelikte basın kartı sahipleri arasından Başkanlıkça belirlenecek dört üye,\n d) Basın-yayın meslek kuruluşlarının birleşerek oluşturdukları üst kuruluşlar hariç olmak üzere, ulusal düzeyde yayın yapan radyo ve/veya televizyonların yönetim kurulu başkanları ve/veya gazeteci çalışanlarınca kurulmuş olan basın-yayın meslek kuruluşlarından en fazla üyesi bulunan meslek kuruluşu tarafından belirlenecek bir üye,\n e) Göreve bağlı basın kartı sahibi gazeteciler arasından Başkanlıkça belirlenecek bir üye,\n f) İşçi sendikası şeklinde faaliyet gösteren sendikalardan basın kartı sahibi üyesi en fazla olan sendika tarafından belirlenecek iki üye,\n g) İletişim Fakültesi dekanları veya basın kartı sahibi gazeteciler arasından Başkanlıkça belirlenecek üç üye,\n olmak üzere, toplam on dokuz üyeden oluşur.\n Üyelerin görev süresi iki yıldır. Süresi dolan üyeler yeniden seçilebilir.\n Komisyon, başvuru sahibinin niteliklerini, mesleki çalışmalarını, eserlerini, ödüllerini değerlendirerek basın kartı taşıyıp taşımayacağına karar verir.",
+      "preview": "(Ek:13/10/2022-7418/14 md.) Komisyon; a) Başkanlığı temsilen üç üye, b) Basın-yayın meslek kuruluşlarının birleşerek oluşturdukları üst kuru…",
+      "kitap": null,
+      "kisim": null,
+      "bolum": null,
+      "ayirim": null,
+      "maddeBaslik": "Basın Kartı Komisyonu",
+      "sectionPath": [
+        "Basın Kartı Komisyonu"
+      ]
+    },
+    {
+      "id": "kanun:5187:m:ek:6",
+      "maddeKind": "ek",
+      "maddeNo": "6",
+      "heading": "Ek Madde 6",
+      "text": "(Ek:13/10/2022-7418/15 md.)\n Basın kartı sahibinin, ek 3 üncü maddede yer alan niteliklere sahip olmadığının veya bu nitelikleri sonradan kaybettiğinin anlaşılması hâlinde basın kartı Başkanlıkça iptal edilir.\n Basın kartı sahibinin, 2/1/1961 tarihli ve 195 sayılı Basın-İlân Kurumu Teşkiline Dair Kanunun 49 uncu maddesine göre belirlenen basın ahlak esaslarına aykırı davranışlarda bulunması hâlinde ihlalin mahiyeti göz önünde bulundurularak, Komisyon tarafından basın kartı sahibi uyarılabileceği gibi basın kartının iptaline de karar verilebilir. Buna ilişkin usul ve esaslar yönetmelikle belirlenir.",
+      "preview": "(Ek:13/10/2022-7418/15 md.) Basın kartı sahibinin, ek 3 üncü maddede yer alan niteliklere sahip olmadığının veya bu nitelikleri sonradan kay…",
+      "kitap": null,
+      "kisim": null,
+      "bolum": null,
+      "ayirim": null,
+      "maddeBaslik": "Basın kartının iptal edileceği hâller",
+      "sectionPath": [
+        "Basın kartının iptal edileceği hâller"
+      ]
+    },
+    {
+      "id": "kanun:5187:m:ek:7",
+      "maddeKind": "ek",
+      "maddeNo": "7",
+      "heading": "Ek Madde 7",
+      "text": "(Ek:13/10/2022-7418/16 md.)\n Basın kartının ek 6 ncı maddenin ikinci fıkrası uyarınca iptali hâlinde, kartın iade edildiği tarihten itibaren bir yıl geçmedikçe yeniden basın kartı verilmez.\n Ek 3 üncü maddenin birinci fıkrasının (ç), (d) ve (e) bentlerine aykırı duruma düşenlere, 25/5/2005 tarihli ve 5352 sayılı Adlî Sicil Kanununun 12 nci ve/veya 13/A maddeleri uyarınca işlem tesis edildiği belirlenmedikçe yeniden basın kartı verilmez.\n\n Yönetmelik",
+      "preview": "(Ek:13/10/2022-7418/16 md.) Basın kartının ek 6 ncı maddenin ikinci fıkrası uyarınca iptali hâlinde, kartın iade edildiği tarihten itibaren…",
+      "kitap": null,
+      "kisim": null,
+      "bolum": null,
+      "ayirim": null,
+      "maddeBaslik": "Basın kartının iptalinin sonuçları",
+      "sectionPath": [
+        "Basın kartının iptalinin sonuçları"
+      ]
+    },
+    {
+      "id": "kanun:5187:m:ek:8",
+      "maddeKind": "ek",
+      "maddeNo": "8",
+      "heading": "Ek Madde 8",
+      "text": "(Ek:13/10/2022-7418/17 md.)\n Başkanlıkça düzenlenecek olan basın kartlarının şekli, medya kuruluşlarında aranacak şartlar, kontenjanlar, Komisyonun çalışma ve karar alma usulleri, başvuru türleri ile başvuruda istenilecek belgeler Başkanlık tarafından çıkarılacak yönetmelikle düzenlenir.",
+      "preview": "(Ek:13/10/2022-7418/17 md.) Başkanlıkça düzenlenecek olan basın kartlarının şekli, medya kuruluşlarında aranacak şartlar, kontenjanlar, Komi…",
+      "kitap": null,
+      "kisim": null,
+      "bolum": null,
+      "ayirim": null,
+      "maddeBaslik": "Basın kartının iptalinin sonuçları",
+      "sectionPath": [
+        "Basın kartının iptalinin sonuçları"
+      ]
+    },
+    {
+      "id": "kanun:5187:m:gecici:1",
+      "maddeKind": "gecici",
+      "maddeNo": "1",
+      "heading": "Geçici Madde 1",
+      "text": "Bu Kanunun yürürlüğe girdiği tarihten önce yayımlanmakta olan süreli yayınların sahibi, sorumlu müdürü, Kanunun yürürlüğe girdiği tarihten itibaren otuz gün içinde yayınlarının türünü yönetim yerinin bulunduğu yer Cumhuriyet Başsavcılığına bildirmek zorundadır. Bu süre içerisinde bildirim yükümlülüğüne uyulmaması halinde yayın sahibi, sorumlu müdür, beşyüzmilyon liradan yirmimilyar liraya kadar ağır para cezasıyla cezalandırılır. Bu ceza bölgesel süreli yayınlarda ikimilyar liradan, yaygın süreli yayınlarda beşmilyar liradan az olamaz.",
+      "preview": "Bu Kanunun yürürlüğe girdiği tarihten önce yayımlanmakta olan süreli yayınların sahibi, sorumlu müdürü, Kanunun yürürlüğe girdiği tarihten i…",
+      "kitap": null,
+      "kisim": null,
+      "bolum": null,
+      "ayirim": null,
+      "maddeBaslik": "Basın kartının iptalinin sonuçları",
+      "sectionPath": [
+        "Basın kartının iptalinin sonuçları"
+      ]
+    },
+    {
+      "id": "kanun:5187:m:gecici:2",
+      "maddeKind": "gecici",
+      "maddeNo": "2",
+      "heading": "Geçici Madde 2",
+      "text": "Bu Kanunun yürürlüğe girdiği tarihten önce kamu kurum ve kuruluşlarınca yayımlanmakta olan süreli yayınların temsilcisi ve sorumlu müdürleri, Kanunun yürürlüğe girdiği tarihten itibaren altı ay içerisinde süreli yayının basım ve yayımını bu Kanunda öngörülen hükümlere uygun hale getirirler.",
+      "preview": "Bu Kanunun yürürlüğe girdiği tarihten önce kamu kurum ve kuruluşlarınca yayımlanmakta olan süreli yayınların temsilcisi ve sorumlu müdürleri…",
+      "kitap": null,
+      "kisim": null,
+      "bolum": null,
+      "ayirim": null,
+      "maddeBaslik": "Basın kartının iptalinin sonuçları",
+      "sectionPath": [
+        "Basın kartının iptalinin sonuçları"
+      ]
+    },
+    {
+      "id": "kanun:5187:m:gecici:3",
+      "maddeKind": "gecici",
+      "maddeNo": "3",
+      "heading": "Geçici Madde 3",
+      "text": "(Ek: 2/7/2012-6352/78 md.)\n 31/12/2011 tarihine kadar mahkemeler, yetkili mülki idari amirlikleri ve diğer makamlarca basılı yayınlarla ilgili olarak verilmiş toplatma, yasaklama, dağıtım ve satışın engellenmesi kararları, bu Kanunun yayımı tarihinden itibaren altı ay içinde, yetkili ve görevli mahkemeden bu yasaklılığın devamı niteliğinde bir karar alınmamış olması durumunda kendiliğinden hükümsüz hale gelir. Bu tür kararlarla ilgili mevcut bilgi ve deliller kolluk tarafından iki ay içinde yetkili Cumhuriyet başsavcılığına iletilir. Mahkemelerce, bu yönde alınmış olan kararların bir örneği İçişleri Bakanlığına gönderilir.",
+      "preview": "(Ek: 2/7/2012-6352/78 md.) 31/12/2011 tarihine kadar mahkemeler, yetkili mülki idari amirlikleri ve diğer makamlarca basılı yayınlarla ilgil…",
+      "kitap": null,
+      "kisim": null,
+      "bolum": null,
+      "ayirim": null,
+      "maddeBaslik": "Basın kartının iptalinin sonuçları",
+      "sectionPath": [
+        "Basın kartının iptalinin sonuçları"
+      ]
+    },
+    {
+      "id": "kanun:5187:m:gecici:4",
+      "maddeKind": "gecici",
+      "maddeNo": "4",
+      "heading": "Geçici Madde 4",
+      "text": "(Ek:13/10/2022-7418/18 md.)\n Bu maddenin yürürlüğe girdiği tarihten önce faaliyet gösteren internet haber siteleri, bu maddenin yürürlüğe girdiği tarihten itibaren üç ay içinde bu Kanunda öngörülen yükümlülüklerini yerine getirmek zorundadır.\n Bu maddenin yürürlüğe girdiği tarihten önce usulünce verilmiş olan basın kartları ek 3 üncü maddede yer alan şartları taşımaları kaydıyla geçerliliğini korumaya devam eder.",
+      "preview": "(Ek:13/10/2022-7418/18 md.) Bu maddenin yürürlüğe girdiği tarihten önce faaliyet gösteren internet haber siteleri, bu maddenin yürürlüğe gir…",
+      "kitap": null,
+      "kisim": null,
+      "bolum": null,
+      "ayirim": null,
+      "maddeBaslik": "Basın kartının iptalinin sonuçları",
+      "sectionPath": [
+        "Basın kartının iptalinin sonuçları"
+      ]
+    },
+    {
+      "id": "kanun:5187:m:31",
+      "maddeKind": "madde",
+      "maddeNo": "31",
+      "heading": "Madde 31",
+      "text": "Bu Kanun yayımı tarihinde yürürlüğe girer.",
+      "preview": "Bu Kanun yayımı tarihinde yürürlüğe girer.",
+      "kitap": null,
+      "kisim": null,
+      "bolum": null,
+      "ayirim": null,
+      "maddeBaslik": "Yürürlük",
+      "sectionPath": [
+        "Yürürlük"
+      ]
+    },
+    {
+      "id": "kanun:5187:m:32",
+      "maddeKind": "madde",
+      "maddeNo": "32",
+      "heading": "Madde 32",
+      "text": "Bu Kanun hükümlerini Bakanlar Kurulu yürütür.\n\n 5187 SAYILI KANUNA EK VE DEĞİŞİKLİK GETİREN MEVZUATIN VEYA\n ANAYASA MAHKEMESİ TARAFINDAN İPTAL EDİLEN HÜKÜMLERİN\n YÜRÜRLÜĞE GİRİŞ TARİHİNİ GÖSTERİR LİSTE\n\n Değiştiren Kanunun/ İptal Eden Anayasa Mahkemesinin Kararının Numarası\n 5187 Sayılı Kanunun Değişen veya İptal Edilen Maddeleri\n Yürürlüğe Giriş Tarihi\n\n 6352\n 19, 26, Geçici Madde 3\n 5/7/2012\n\n 7418\n 1, 2, 4, 7, 8, 10, 11, 13, 14, 15, 17, 18, 20, 21, 26, 27,\n Ek Madde 1, Ek Madde 2,\n Ek Madde 3, Ek Madde 4,\n Ek Madde 5, Ek Madde 6,\n Ek Madde 7, Ek Madde 8,\n Geçici Madde 4\n 18/10/2022\n\n [1] 13/10/2022 tarihli ve 7418 sayılı Kanunun 1 inci maddesiyle bu fıkrada yer alan “yayımını” ibaresi “yayımı ile internet haber sitelerini” şeklinde değiştirilmiştir.\n\n [2] 13/10/2022 tarihli ve 7418 sayılı Kanunun 2 nci maddesiyle bu fıkranın (c) bendine “yayınlarını” ibaresinden sonra gelmek üzere “ve internet haber sitelerini” ibaresi; (ı) bendine “karikatürü yapanı,” ibaresinden sonra gelmek üzere “görsel veya işitsel içerikleri kaydeden veya düzenleyeni,” ibaresi eklenmiştir.\n\n [3] 13/10/2022 tarihli ve 7418 sayılı Kanunun 4 üncü maddesiyle bu fıkraya “türü” ibaresinden sonra gelmek üzere “ve elektronik tebligat adresi” ibaresi eklenmiştir.\n\n [4] 13/10/2022 tarihli ve 7418 sayılı Kanunun 28 inci maddesiyle bu fıkraya “Basılmış eserler” ibarelerinden sonra gelmek üzere “veya internet haber siteleri” ibaresi eklenmiştir.\n\n [5] 13/10/2022 tarihli ve 7418 sayılı Kanunun 28 inci maddesiyle bu fıkraya “Basılmış eserler” ibarelerinden sonra gelmek üzere “veya internet haber siteleri” ibaresi eklenmiştir.\n\n [6] 13/10/2022 tarihli ve 7418 sayılı Kanunun 28 inci maddesiyle bu fıkraya “basılmış eserlerde” ibaresinden sonra gelmek üzere “ve internet haber sitelerinde” ibaresi eklenmiştir.\n\n [7] 13/10/2022 tarihli ve 7418 sayılı Kanunun 8 inci maddesiyle bu fıkrada yer alan “basımcı,” ibaresi “basımcı ile teslim ve muhafaza yükümlülüğünü yerine getirmeyen internet haber sitesi sorumlu müdürü” şeklinde değiştirilmiştir.\n\n [8] 13/10/2022 tarihli ve 7418 sayılı Kanunun 28 inci maddesiyle bu fıkraya “bu yazının” ibaresinden sonra gelmek üzere “iki internet haber sitesi ile” ibaresi eklenmiştir.\n\n [9] 13/10/2022 tarihli ve 7418 sayılı Kanunun 28 inci maddesiyle bu maddenin birinci fıkrasına “yaygın süreli yayınlarda” ibaresinden sonra gelmek üzere “ve internet haber sitelerinde” ibaresi eklenmiştir.\n\n [10] 13/10/2022 tarihli ve 7418 sayılı Kanunun 28 inci maddesiyle bu maddenin birinci fıkrasına “yaygın süreli yayınlarda” ibaresinden sonra gelmek üzere “ve internet haber sitelerinde” ibaresi eklenmiştir.\n\n [11] 2/7/2012 tarihli ve 6352 sayılı Kanunun 77 nci maddesiyle, bu maddenin birinci fıkrasında yer alan “ceza davalarının” ibaresinden sonra gelmek üzere “bir muhakeme şartı olarak,” ibaresi eklenmiş, fıkrada yer alan “iki ay” ibaresi “dört ay”, “dört ay” ibaresi “altı ay” ve aynı maddenin altıncı fıkrasında yer alan “iki ayı” ibaresi “dört ayı” şeklinde değiştirilmiştir.\n\n [12] 13/10/2022 tarihli ve 7418 sayılı Kanunun 9 uncu maddesiyle bu maddenin birinci fıkrasına “Basılmış eserler” ibaresinden sonra gelmek üzere “veya internet haber siteleri” ibaresi, “günlük süreli yayınlar” ibaresinden sonra gelmek üzere “ve internet haber siteleri” ibaresi ve ikinci fıkrasına “teslim edildiği tarihten” ibaresinden sonra gelmek üzere “, internet haber siteleri için ise habere ilişkin suç ihbarının yapıldığı tarihten” ibaresi eklenmiştir.\n\n [13] 13/10/2022 tarihli ve 7418 sayılı Kanunun 28 inci maddesiyle bu maddenin birinci ve üçüncü fıkralarına “Basılmış eserler” ibarelerinden sonra gelmek üzere “veya internet haber siteleri” ibaresi eklenmiştir.",
+      "preview": "Bu Kanun hükümlerini Bakanlar Kurulu yürütür. 5187 SAYILI KANUNA EK VE DEĞİŞİKLİK GETİREN MEVZUATIN VEYA ANAYASA MAHKEMESİ TARAFINDAN İPTAL…",
+      "kitap": null,
+      "kisim": null,
+      "bolum": null,
+      "ayirim": null,
+      "maddeBaslik": "Yürütme",
+      "sectionPath": [
+        "Yürütme"
+      ]
+    }
+  ]
+}

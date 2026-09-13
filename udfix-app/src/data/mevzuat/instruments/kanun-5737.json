@@ -1,0 +1,1620 @@
+{
+  "id": "kanun:5737",
+  "kind": "kanun",
+  "no": "5737",
+  "title": "Vakıflar Kanunu",
+  "shortName": "Vakıflar Kanunu",
+  "aliases": [
+    "Vakıflar Kanunu",
+    "5737"
+  ],
+  "tur": 1,
+  "tertip": 5,
+  "sourceUrl": "https://www.mevzuat.gov.tr/mevzuat?MevzuatNo=5737&MevzuatTur=1&MevzuatTertip=5",
+  "kabulTarihi": "20/2/2008",
+  "maddeCount": 95,
+  "maddeler": [
+    {
+      "id": "kanun:5737:m:1",
+      "maddeKind": "madde",
+      "maddeNo": "1",
+      "heading": "Madde 1",
+      "text": "Bu Kanun; vakıfların yönetimi, faaliyetleri ve denetimine, yurt içi ve yurt dışındaki taşınır ve taşınmaz vakıf kültür varlıklarının tescili, muhafazası, onarımı ve yaşatılmasına, vakıf varlıklarının ekonomik şekilde işletilmesi ve değerlendirilmesinin sağlanmasına ilişkin usûl ve esasların belirlenmesi (…)[2] amacıyla hazırlanmıştır.",
+      "preview": "Bu Kanun; vakıfların yönetimi, faaliyetleri ve denetimine, yurt içi ve yurt dışındaki taşınır ve taşınmaz vakıf kültür varlıklarının tescili…",
+      "kitap": null,
+      "kisim": null,
+      "bolum": null,
+      "ayirim": null,
+      "maddeBaslik": null,
+      "sectionPath": []
+    },
+    {
+      "id": "kanun:5737:m:2",
+      "maddeKind": "madde",
+      "maddeNo": "2",
+      "heading": "Madde 2",
+      "text": "Bu Kanun; mazbut, mülhak ve yeni vakıflar, cemaat ve esnaf vakıfları ile Vakıflar Genel Müdürlüğünü kapsar.\n Bu Kanunun uygulanmasında milletlerarası mütekabiliyet ilkesi saklıdır.",
+      "preview": "Bu Kanun; mazbut, mülhak ve yeni vakıflar, cemaat ve esnaf vakıfları ile Vakıflar Genel Müdürlüğünü kapsar. Bu Kanunun uygulanmasında millet…",
+      "kitap": null,
+      "kisim": null,
+      "bolum": null,
+      "ayirim": null,
+      "maddeBaslik": "Kapsam",
+      "sectionPath": [
+        "Kapsam"
+      ]
+    },
+    {
+      "id": "kanun:5737:m:3",
+      "maddeKind": "madde",
+      "maddeNo": "3",
+      "heading": "Madde 3",
+      "text": "Bu Kanunun uygulanmasında;\n Genel Müdürlük veya Denetim Makamı: Vakıflar Genel Müdürlüğünü,\n Genel Müdür: Vakıflar Genel Müdürünü,\n Meclis: Vakıflar Meclisini,\n Vakıflar: Mazbut, mülhak, cemaat ve esnaf vakıfları ile yeni vakıfları,\n Vakfiye: Mazbut, mülhak ve cemaat vakıflarının malvarlığını, vakıf şartlarını ve vakfedenin isteklerini içeren belgeleri,\n 1936 Beyannamesi: Cemaat vakıflarının 2762 sayılı Vakıflar Kanunu gereğince verdikleri beyannameyi,\n Vakıf senedi: Mülga 743 sayılı Türk Kanunu Medenisi ile 22/11/2001 tarihli ve 4721 sayılı Türk Medenî Kanunu hükümlerine göre kurulan vakıfların, malvarlığını ve vakıf şartlarını içeren belgeyi,\n Mazbut vakıf: Bu Kanun uyarınca Genel Müdürlükçe yönetilecek ve temsil edilecek vakıflar ile mülga 743 sayılı Türk Kanunu Medenisinin yürürlük tarihinden önce kurulmuş ve 2762 sayılı Vakıflar Kanunu gereğince Vakıflar Genel Müdürlüğünce yönetilen vakıfları,\n Mülhak vakıf: Mülga 743 sayılı Türk Kanunu Medenisinin yürürlük tarihinden önce kurulmuş ve yönetimi vakfedenlerin soyundan gelenlere şart edilmiş vakıfları,\n Cemaat vakfı: Vakfiyeleri olup olmadığına bakılmaksızın 2762 sayılı Vakıflar Kanunu gereğince tüzel kişilik kazanmış, mensupları Türkiye Cumhuriyeti vatandaşı olan Türkiye’deki gayrimüslim cemaatlere ait vakıfları,\n Esnaf vakfı: 2762 sayılı Vakıflar Kanununun yürürlüğünden önce kurulmuş ve esnafın seçtiği yönetim kurulu tarafından yönetilen vakıfları,\n Yeni vakıf: Mülga 743 sayılı Türk Kanunu Medenisi ile 4721 sayılı Türk Medenî Kanunu hükümlerine göre kurulan vakıfları,\n Şube: Vakıf faaliyetlerinin yürütülebilmesi için yeni vakfa bağlı olarak açılan, tüzel kişiliği olmayan ve bünyesinde organları bulunan alt birimi,\n Temsilcilik: Vakıf faaliyetlerinin yürütülebilmesi için yeni vakfa bağlı olarak açılan, tüzel kişiliği ve bünyesinde organları bulunmayan alt birimi,\n Vakıf yönetimi: Mülhak, cemaat ve esnaf vakıfları ile yeni vakıflarda; vakfiye, 1936 Beyannamesi, vakıf senedi, 4721 sayılı Türk Medenî Kanunu ve bu Kanuna göre vakfı yönetmeye ve temsile yetkili organı,\n Vakıf yöneticisi: Mülhak, cemaat ve esnaf vakıfları ile yeni vakıflarda; vakfiye, 1936 Beyannamesi, vakıf senedi, 4721 sayılı Türk Medenî Kanunu ve bu Kanuna göre vakfı yönetmeye ve temsile yetkili kişi veya yetkili organlarda görev alan kişileri,\n Hayrat: Mazbut, mülhak, cemaat ve esnaf vakıfları ile yeni vakıfların, doğrudan toplumun istifadesine bedelsiz olarak sundukları mal veya hizmetleri,\n Akar: Vakıf amaç ve faaliyetlerinin yerine getirilmesi için gelir getirici şekilde değerlendirilmesi zorunlu olan taşınır ve taşınmazları,\n Mukataalı vakıf: Zemini vakfa, üzerindeki yapı ve ağaçlar tasarruf edene ait olan ve kirası yıllık olarak alınan vakıf taşınmazlarını,\n İcareteynli vakıf: Değerine yakın peşin ücret ve ayrıca yıllık kira alınmak suretiyle süresiz olarak kiralanan vakıf taşınmazlarını,\n Taviz bedeli: Mukataalı ve icareteynli taşınmazların serbest tasarrufa terki için alınan bedeli,\n Galle fazlası: Mazbut ve mülhak vakıflarda, vakfın hayrat ve akarlarının onarımı ile vakfiyelerindeki hayrat hizmetlerin ifasından sonra kalan miktarı,\n İntifa hakkı: Mazbut ve mülhak vakıflarda, vakfiyelerindeki şartlara göre ilgililere bırakılmış galle fazlaları ve hakları,\n ifade eder.\n\n İKİNCİ KISIM\n Vakıflarla İlgili Hükümler\n\n BİRİNCİ BÖLÜM\n Tüzel Kişilik, Ehliyet, Yönetim, Temsil",
+      "preview": "Bu Kanunun uygulanmasında; Genel Müdürlük veya Denetim Makamı: Vakıflar Genel Müdürlüğünü, Genel Müdür: Vakıflar Genel Müdürünü, Meclis: Vak…",
+      "kitap": null,
+      "kisim": null,
+      "bolum": null,
+      "ayirim": null,
+      "maddeBaslik": "Tanımlar",
+      "sectionPath": [
+        "Tanımlar"
+      ]
+    },
+    {
+      "id": "kanun:5737:m:4",
+      "maddeKind": "madde",
+      "maddeNo": "4",
+      "heading": "Madde 4",
+      "text": "Vakıflar, özel hukuk tüzel kişiliğine sahiptir.",
+      "preview": "Vakıflar, özel hukuk tüzel kişiliğine sahiptir.",
+      "kitap": null,
+      "kisim": null,
+      "bolum": null,
+      "ayirim": null,
+      "maddeBaslik": "Tüzel kişilik",
+      "sectionPath": [
+        "Tüzel kişilik"
+      ]
+    },
+    {
+      "id": "kanun:5737:m:5",
+      "maddeKind": "madde",
+      "maddeNo": "5",
+      "heading": "Madde 5",
+      "text": "Yeni vakıflar; Türk Medenî Kanunu hükümlerine göre kurulur ve faaliyet gösterirler.\n Yeni vakıfların kuruluşunda amaçlarına göre özgülenecek asgarî mal varlığı her yıl Meclisçe belirlenir.\n Yeni vakıflar, vakıf senetlerinde yazılı amaçlarını gerçekleştirmek üzere Genel Müdürlüğe beyanda bulunmak şartıyla şube ve temsilcilik açabilirler. Beyannamenin düzenlenmesine ilişkin usûl ve esaslar yönetmelikle düzenlenir.\n Yabancılar, Türkiye’de, hukukî ve fiilî mütekabiliyet esasına göre yeni vakıf kurabilirler.",
+      "preview": "Yeni vakıflar; Türk Medenî Kanunu hükümlerine göre kurulur ve faaliyet gösterirler. Yeni vakıfların kuruluşunda amaçlarına göre özgülenecek…",
+      "kitap": null,
+      "kisim": null,
+      "bolum": null,
+      "ayirim": null,
+      "maddeBaslik": "Yeni vakıfların kuruluşu, mal varlığı, şube ve temsilcilikleri",
+      "sectionPath": [
+        "Yeni vakıfların kuruluşu, mal varlığı, şube ve temsilcilikleri"
+      ]
+    },
+    {
+      "id": "kanun:5737:m:6",
+      "maddeKind": "madde",
+      "maddeNo": "6",
+      "heading": "Madde 6",
+      "text": "Mazbut vakıflar, Genel Müdürlük tarafından yönetilir ve temsil edilir.\n Mülhak vakıflar, Anayasaya aykırılık teşkil etmeyen vakfiye şartlarına göre Meclis tarafından atanacak yöneticiler eliyle yönetilir ve temsil edilir. Vakıf yöneticileri kendilerine yardımcı tayin edebilirler. Mülhak vakıf yöneticilerinde aranacak şartlar ile yardımcılarının nitelikleri yönetmelikle düzenlenir. Vakfiyedeki şartları taşımamaları nedeniyle kendilerine yöneticilik verilemeyenler bu şartları elde edinceye, küçükler ile kısıtlılar fiil ehliyetlerini kazanıncaya ve boş kalan yöneticilik yenisine verilinceye kadar, vakıf işleri Genel Müdürlükçe temsilen yürütülür.\n Cemaat vakıflarının yöneticileri mensuplarınca kendi aralarından seçilir. Vakıf yöneticilerinin seçim usûl ve esasları yönetmelikle düzenlenir.\n Esnaf vakıfları, mülhak vakıfların tabi olduğu hükümlere tabidir. Bu vakıflar, esnafın seçtiği yönetim kurulu tarafından yönetilir.\n Yeni vakıfların yönetim organı vakıf senedine göre oluşturulur ve bu vakıfların yönetim organlarında görev alanların çoğunluğunun, Türkiye’de yerleşik bulunması gerekir.",
+      "preview": "Mazbut vakıflar, Genel Müdürlük tarafından yönetilir ve temsil edilir. Mülhak vakıflar, Anayasaya aykırılık teşkil etmeyen vakfiye şartların…",
+      "kitap": null,
+      "kisim": null,
+      "bolum": null,
+      "ayirim": null,
+      "maddeBaslik": "Yönetim ve temsil şekli",
+      "sectionPath": [
+        "Yönetim ve temsil şekli"
+      ]
+    },
+    {
+      "id": "kanun:5737:m:7",
+      "maddeKind": "madde",
+      "maddeNo": "7",
+      "heading": "Madde 7",
+      "text": "On yıl süreyle yönetici atanamayan veya yönetim organı oluşturulamayan mülhak vakıflar, mahkeme kararıyla Genel Müdürlükçe yönetilir ve temsil edilir.\n Bu Kanunun yürürlüğe girmesinden önce mazbut vakıflar arasına alınan vakıflarla, bu Kanuna göre mazbut vakıflar arasına alınan vakıflara bir daha yönetici seçimi ve ataması yapılamaz.\n İlgililerin vakfiye şartlarına göre intifa hakları saklıdır.\n (Ek fıkra:13/2/2011-6111/208 md.) İntifa haklarına ilişkin talepler galle fazlası almaya hak kazanıldığını gösteren mahkeme kararının kesinleştiği tarihten itibaren beş yıl geçmekle düşer.\n (Ek fıkra:13/2/2011-6111/208 md.) Mazbut vakıflarda intifa hakları, galle fazlası almaya hak kazanıldığını gösteren mahkeme kararının kesinleştiği tarihten itibaren, vakfın son beş yıl içindeki malvarlığı, gelirleri ve giderleri ile sınırlı olmak ve galle fazlasının mevcudiyeti şartıyla Genel Müdürlükçe belirlenir.",
+      "preview": "On yıl süreyle yönetici atanamayan veya yönetim organı oluşturulamayan mülhak vakıflar, mahkeme kararıyla Genel Müdürlükçe yönetilir ve tems…",
+      "kitap": null,
+      "kisim": null,
+      "bolum": null,
+      "ayirim": null,
+      "maddeBaslik": "Genel Müdürlükçe yönetilecek ve temsil edilecek vakıflar",
+      "sectionPath": [
+        "Genel Müdürlükçe yönetilecek ve temsil edilecek vakıflar"
+      ]
+    },
+    {
+      "id": "kanun:5737:m:8",
+      "maddeKind": "madde",
+      "maddeNo": "8",
+      "heading": "Madde 8",
+      "text": "Yeni vakıfların organlarında ölüm, istifa ya da herhangi bir nedenle eksilme olduğu takdirde; vakıf senedindeki hükümlere göre, hüküm bulunmaması halinde vakıf senedi değişikliğine yetkili organın, bunun bulunmaması halinde ise icraya yetkili organın kararı ve Genel Müdürlüğün görüşü alınarak mahkemece yenisi seçilir.",
+      "preview": "Yeni vakıfların organlarında ölüm, istifa ya da herhangi bir nedenle eksilme olduğu takdirde; vakıf senedindeki hükümlere göre, hüküm bulunm…",
+      "kitap": null,
+      "kisim": null,
+      "bolum": null,
+      "ayirim": null,
+      "maddeBaslik": "Yeni vakıf organlarının tamamlanması",
+      "sectionPath": [
+        "Yeni vakıf organlarının tamamlanması"
+      ]
+    },
+    {
+      "id": "kanun:5737:m:9",
+      "maddeKind": "madde",
+      "maddeNo": "9",
+      "heading": "Madde 9",
+      "text": "Vakıflarda; hırsızlık, nitelikli hırsızlık, yağma, nitelikli yağma, dolandırıcılık, nitelikli dolandırıcılık, zimmet, rüşvet, sahtecilik, hileli iflas, ihaleye fesat karıştırma, edimin ifasına fesat karıştırma, güveni kötüye kullanma, kaçakçılık suçları ile Devletin güvenliğine karşı işlenen suçların birinden mahkûm olanlar yönetici olamazlar.\n Vakıf yöneticisi seçildikten sonra yukarıdaki suçlardan mahkûm olanların yöneticiliği sona erer.",
+      "preview": "Vakıflarda; hırsızlık, nitelikli hırsızlık, yağma, nitelikli yağma, dolandırıcılık, nitelikli dolandırıcılık, zimmet, rüşvet, sahtecilik, hi…",
+      "kitap": null,
+      "kisim": null,
+      "bolum": null,
+      "ayirim": null,
+      "maddeBaslik": "Vakıf yöneticisi olamayacaklar",
+      "sectionPath": [
+        "Vakıf yöneticisi olamayacaklar"
+      ]
+    },
+    {
+      "id": "kanun:5737:m:10",
+      "maddeKind": "madde",
+      "maddeNo": "10",
+      "heading": "Madde 10",
+      "text": "Vakıf yöneticileri; vakfın amacına ve yürürlükteki mevzuata uymak zorundadır.\n Birinci fıkrada belirtilen zorunluluğa uymayanlar ile;\n a) Vakfın amacı doğrultusunda faaliyette bulunmayan,\n b) Vakfın mallarını ve gelirlerini amaçlarına uygun olarak kullanmayan,\n c) Ağır ihmal ve kasıtlı fiilleriyle vakfı zarara uğratan,\n d) Denetim Makamınca tespit edilen noksanlık ve yanlışlıkları verilen süre içerisinde tamamlamayan, düzeltmeyen veya aykırı işlemlere devam eden,\n e) Medeni hakları kullanma ehliyetini kaybeden veya görevini sürekli olarak yapmasına engel teşkil edecek hastalığa veya maluliyete yakalanan,\n f) (Mülga: 12/7/2013-6495/48 md.)\n vakıf yöneticileri, Meclisin vereceği karara dayalı olarak Denetim Makamının başvurusu üzerine vakfın yerleşim yeri asliye hukuk mahkemesince görevlerinden alınabilir. Telafisi imkânsız sonuçlar doğurabilecek hallerde dava sonuçlanıncaya kadar, Meclis kararı üzerine Denetim Makamınca, vakıf yönetiminin geçici olarak görevden uzaklaştırılması ve kayyımca yönetilmesi ihtiyati tedbir olarak mahkemeden talep edilir.\n Görevinden alınan vakıf yöneticileri Meclis üyesi olamaz ve beş yıl süreyle aynı vakfın yönetim ve denetim organında görev alamazlar. Ayrıca ikinci fıkranın (c) ve (e) bentlerinde belirtilen nedenlerle görevinden alınan vakıf yöneticileri başka bir vakfın yöneticisi ise o görevinden de alınmış sayılır ve beş yıl süreyle hiçbir vakfın yönetim ve denetim organında görev alamazlar.[3]\n Vakıf yönetiminde yer alan kişiler ile vakıf çalışanları kusurlu fiilleri nedeniyle vakfa verdikleri zararlardan sorumludurlar.\n Vakıf yöneticileri mahkeme kararı olmaksızın görevlerinden uzaklaştırılamazlar.",
+      "preview": "Vakıf yöneticileri; vakfın amacına ve yürürlükteki mevzuata uymak zorundadır. Birinci fıkrada belirtilen zorunluluğa uymayanlar ile; a) Vakf…",
+      "kitap": null,
+      "kisim": null,
+      "bolum": null,
+      "ayirim": null,
+      "maddeBaslik": "Vakıf yöneticilerinin sorumlulukları ve görevden alınması",
+      "sectionPath": [
+        "Vakıf yöneticilerinin sorumlulukları ve görevden alınması"
+      ]
+    },
+    {
+      "id": "kanun:5737:m:11",
+      "maddeKind": "madde",
+      "maddeNo": "11",
+      "heading": "Madde 11",
+      "text": "Genel Müdürlükçe yapılan tebligata rağmen, bu Kanun uyarınca istenen beyanname, bilgi ve belgeleri zamanında vermeyen, organların vakfiye veya vakıf senedine aykırı olarak toplanmasına sebebiyet veren veya gerçeğe aykırı beyanda bulunan vakıf yönetimine Genel Müdürlükçe her bir eylem için beşyüz Türk Lirası idarî para cezası verilir. İdarî para cezalarına karşı tebliğ tarihinden itibaren onbeş gün içinde 30/3/2005 tarihli ve 5326 sayılı Kabahatler Kanunu hükümlerine göre kanun yoluna başvurulabilir.",
+      "preview": "Genel Müdürlükçe yapılan tebligata rağmen, bu Kanun uyarınca istenen beyanname, bilgi ve belgeleri zamanında vermeyen, organların vakfiye ve…",
+      "kitap": null,
+      "kisim": null,
+      "bolum": null,
+      "ayirim": null,
+      "maddeBaslik": "İdarî para cezası",
+      "sectionPath": [
+        "İdarî para cezası"
+      ]
+    },
+    {
+      "id": "kanun:5737:m:12",
+      "maddeKind": "madde",
+      "maddeNo": "12",
+      "heading": "Madde 12",
+      "text": "Vakıflar; mal edinebilirler, malları üzerinde her türlü tasarrufta bulunabilirler.\n Genel Müdürlüğe ve mazbut vakıflara ait akar mallar ile hakların daha yararlı olanları ile değiştirilmesine, paraya çevrilmesine veya değerlendirilmesine Meclis yetkilidir.\n Mülhak, cemaat, esnaf vakıfları ile yeni vakıflara, başlangıçta özgülenen mal ve haklar, vakıf yönetiminin başvurusu üzerine, haklı kılan sebepler varsa, Denetim Makamının görüşü alınarak mahkeme kararı ile sonradan iktisap ettikleri mal ve hakları ise bağımsız ekspertiz kuruluşlarınca düzenlenecek rapora dayalı olarak vakıf yetkili organının kararı ile daha yararlı olanları ile değiştirilebilir veya paraya çevrilebilir.\n Vakıf yöneticileri, iktisap ettikleri veya değiştirdikleri taşınmaz malları tapuya tescil tarihinden itibaren bir ay içerisinde Genel Müdürlüğe bildirirler.\n Kurucularının çoğunluğu yabancı uyruklu olan vakıfların, taşınmaz mal edinmeleri hakkında, 22/12/1934 tarihli ve 2644 sayılı Tapu Kanununun 35 inci maddesi uygulanır.",
+      "preview": "Vakıflar; mal edinebilirler, malları üzerinde her türlü tasarrufta bulunabilirler. Genel Müdürlüğe ve mazbut vakıflara ait akar mallar ile h…",
+      "kitap": null,
+      "kisim": null,
+      "bolum": "İKİNCİ BÖLÜM · Vakıf Malları ve Faaliyetleri",
+      "ayirim": null,
+      "maddeBaslik": "Vakıfların mal edinmesi, akar cinsinden olan malların değiştirilmesi",
+      "sectionPath": [
+        "İKİNCİ BÖLÜM · Vakıf Malları ve Faaliyetleri",
+        "Vakıfların mal edinmesi, akar cinsinden olan malların değiştirilmesi"
+      ]
+    },
+    {
+      "id": "kanun:5737:m:13",
+      "maddeKind": "madde",
+      "maddeNo": "13",
+      "heading": "Madde 13",
+      "text": "Mazbut vakıfların tescil görmemiş hayrat taşınmazları, Genel Müdürlüğün isteği üzerine tapu idaresince vakıfları adına tescil edilir.\n Mazbut ve mülhak vakıflara ait akar taşınmazların satış ve taviz bedelleri ile satın alınacak, trampa ile edinilecek veya yeniden yaptırılacak taşınmazlar, vakıfları adına hisseleri oranında tapuya tescil ettirilerek kayıtlara işlenir.",
+      "preview": "Mazbut vakıfların tescil görmemiş hayrat taşınmazları, Genel Müdürlüğün isteği üzerine tapu idaresince vakıfları adına tescil edilir. Mazbut…",
+      "kitap": null,
+      "kisim": null,
+      "bolum": "İKİNCİ BÖLÜM · Vakıf Malları ve Faaliyetleri",
+      "ayirim": null,
+      "maddeBaslik": "Taşınmazların vakıfları adına tescili",
+      "sectionPath": [
+        "İKİNCİ BÖLÜM · Vakıf Malları ve Faaliyetleri",
+        "Taşınmazların vakıfları adına tescili"
+      ]
+    },
+    {
+      "id": "kanun:5737:m:14",
+      "maddeKind": "madde",
+      "maddeNo": "14",
+      "heading": "Madde 14",
+      "text": "Vakıfların, vakfiyelerindeki şartların yerine getirilmesine fiilen veya hukuken imkân kalmaması halinde; vakfedenin iradesine aykırı olmamak kaydıyla mazbut vakıflarda Genel Müdürlüğün; mülhak, cemaat ve esnaf vakıflarında, vakıf yöneticilerinin teklifi üzerine bu şartları değiştirmeye; hayır şartlarındaki parasal değerleri güncel vakıf gelirlerine uyarlamaya Meclis yetkilidir.",
+      "preview": "Vakıfların, vakfiyelerindeki şartların yerine getirilmesine fiilen veya hukuken imkân kalmaması halinde; vakfedenin iradesine aykırı olmamak…",
+      "kitap": null,
+      "kisim": null,
+      "bolum": "İKİNCİ BÖLÜM · Vakıf Malları ve Faaliyetleri",
+      "ayirim": null,
+      "maddeBaslik": "Amaç ve işlev değişikliği",
+      "sectionPath": [
+        "İKİNCİ BÖLÜM · Vakıf Malları ve Faaliyetleri",
+        "Amaç ve işlev değişikliği"
+      ]
+    },
+    {
+      "id": "kanun:5737:m:15",
+      "maddeKind": "madde",
+      "maddeNo": "15",
+      "heading": "Madde 15",
+      "text": "Vakıfların hayrat taşınmazları haczedilemez, rehnedilemez, bu taşınmazlarda mülkiyet ve irtifak hakkı için kazandırıcı zamanaşımı işlemez.\n Genel Müdürlüğe, mazbut ve mülhak vakıflara ait olup, tahsis edildikleri amaca göre kullanılmaları kanunlara veya kamu düzenine aykırı yahut tahsis amacına uygunluğunu kaybetmiş, kısmen veya tamamen hayrat olarak kullanılması mümkün olmayan taşınmazlar; mazbut vakıflarda Meclis kararı ile mülhak vakıflarda vakıf yöneticisinin talebi üzerine Meclis kararı ile gayece aynı veya en yakın başka bir hayrata dönüştürülebilir, akara devredilebilir veya paraya çevrilebilir. Bu paralar aynı surette diğer bir hayrata tahsis olunur. Aynı vakıf içerisindeki dönüştürme veya devirlerde bedel ödenmez.",
+      "preview": "Vakıfların hayrat taşınmazları haczedilemez, rehnedilemez, bu taşınmazlarda mülkiyet ve irtifak hakkı için kazandırıcı zamanaşımı işlemez. G…",
+      "kitap": null,
+      "kisim": null,
+      "bolum": "İKİNCİ BÖLÜM · Vakıf Malları ve Faaliyetleri",
+      "ayirim": null,
+      "maddeBaslik": "Hayrat taşınmazların nitelikleri ve değerlendirilmesi",
+      "sectionPath": [
+        "İKİNCİ BÖLÜM · Vakıf Malları ve Faaliyetleri",
+        "Hayrat taşınmazların nitelikleri ve değerlendirilmesi"
+      ]
+    },
+    {
+      "id": "kanun:5737:m:16",
+      "maddeKind": "madde",
+      "maddeNo": "16",
+      "heading": "Madde 16",
+      "text": "Mazbut vakıflara ait hayrat taşınmazlara, Genel Müdürlük tarafından öncelikle vakfiyeleri doğrultusunda işlev verilir. Genel Müdürlükçe değerlendirilemeyen veya işlev verilemeyen hayrat taşınmazlar; fiilen asli niteliğine uygun olarak kullanılıncaya kadar kiraya verilebilir.\n Bu hayrat taşınmazlar; Genel Müdürlükçe işlev verilmek amacıyla, vakfiyesinde yazılı hizmetlerde kullanılmak üzere Genel Müdürlüğün denetiminde onarım ve restorasyon karşılığı kamu kurum ve kuruluşlarına, benzer amaçlı vakıflara veya kamu yararına çalışan derneklere tahsis edilebilir.\n Mülhak vakfa ait hayrat taşınmazın tahsisinde Genel Müdürlük görüşü alınır.\n Tahsis edilen taşınmaz; ticari bir faaliyette kullanılamaz, tahsise aykırı kullanımın tespiti halinde Genel Müdürlüğün talebi üzerine taşınmaz, bulunduğu yerin mülki amirliğince tahliye edilir.\n Cemaat vakıflarına ait, kısmen veya tamamen hayrat olarak kullanılmayan taşınmazlar, vakıf yönetiminin talebi halinde Meclis kararıyla; aynı cemaate ait başka bir vakfa tahsis edilebilir veya vakfın akarına dönüştürülebilir.",
+      "preview": "Mazbut vakıflara ait hayrat taşınmazlara, Genel Müdürlük tarafından öncelikle vakfiyeleri doğrultusunda işlev verilir. Genel Müdürlükçe değe…",
+      "kitap": null,
+      "kisim": null,
+      "bolum": "İKİNCİ BÖLÜM · Vakıf Malları ve Faaliyetleri",
+      "ayirim": null,
+      "maddeBaslik": "Hayrat taşınmazların tahsisi",
+      "sectionPath": [
+        "İKİNCİ BÖLÜM · Vakıf Malları ve Faaliyetleri",
+        "Hayrat taşınmazların tahsisi"
+      ]
+    },
+    {
+      "id": "kanun:5737:m:17",
+      "maddeKind": "madde",
+      "maddeNo": "17",
+      "heading": "Madde 17",
+      "text": "Tasarruf edenlerin veya maliklerin mirasçı bırakmadan ölümleri, kaybolmaları, terk veya mübadil gibi durumlara düşmeleri halinde icareteynli ve mukataalı taşınmaz malların mülkiyeti vakfı adına tescil edilir.",
+      "preview": "Tasarruf edenlerin veya maliklerin mirasçı bırakmadan ölümleri, kaybolmaları, terk veya mübadil gibi durumlara düşmeleri halinde icareteynli…",
+      "kitap": null,
+      "kisim": null,
+      "bolum": "İKİNCİ BÖLÜM · Vakıf Malları ve Faaliyetleri",
+      "ayirim": null,
+      "maddeBaslik": "Taşınmazların vakfına dönmesi",
+      "sectionPath": [
+        "İKİNCİ BÖLÜM · Vakıf Malları ve Faaliyetleri",
+        "Taşınmazların vakfına dönmesi"
+      ]
+    },
+    {
+      "id": "kanun:5737:m:18",
+      "maddeKind": "madde",
+      "maddeNo": "18",
+      "heading": "Madde 18",
+      "text": "Tapu kayıtlarında, icareteyn ve mukataalı vakıf şerhi bulunan gerçek ve tüzel kişilerin mülkiyetinde veya tasarrufundaki taşınmazlar, işlem tarihindeki emlak vergisi değerinin yüzde onu oranında taviz bedeli alınarak serbest tasarrufa terk edilir. Ancak miri arazilerden mukataalı hayrata tahsis edilmeyenler ile aşar ve rüsumu vakfedilen taşınmazlar tavize tâbi değildir.\n Taviz bedelinin hesaplanmasında; ortaklığın giderilmesi veya cebri icra yoluyla satılanlarda satış bedeli, kamulaştırmalarda ise kamulaştırma bedeli esas alınır.\n Bu Kanun hükümleri gereğince taviz bedelinin tamamı vakfı adına ödenmedikçe, taşınmaz üzerindeki temliki tasarruflar tapu dairelerince tescil olunmaz.\n Vakıf şerhleri ile ilgili olarak, diğer kanunlarda yer alan zamanaşımı ve hak düşürücü sürelere ilişkin hükümler uygulanmaz.",
+      "preview": "Tapu kayıtlarında, icareteyn ve mukataalı vakıf şerhi bulunan gerçek ve tüzel kişilerin mülkiyetinde veya tasarrufundaki taşınmazlar, işlem…",
+      "kitap": null,
+      "kisim": null,
+      "bolum": "İKİNCİ BÖLÜM · Vakıf Malları ve Faaliyetleri",
+      "ayirim": null,
+      "maddeBaslik": "Taviz bedeli",
+      "sectionPath": [
+        "İKİNCİ BÖLÜM · Vakıf Malları ve Faaliyetleri",
+        "Taviz bedeli"
+      ]
+    },
+    {
+      "id": "kanun:5737:m:19",
+      "maddeKind": "madde",
+      "maddeNo": "19",
+      "heading": "Madde 19",
+      "text": "Taviz bedelleri, yapılacak tebligat üzerine altmış gün içerisinde peşin olarak ödenebileceği gibi eşdeğer bir taşınmazla takas edilebilir veya yarısı peşin, kalanı bir yılda beş eşit taksitte ödenebilir. Taksitlendirme halinde, taşınmaza birinci derece ve birinci sırada ipotek konulur. Taksitlerden birinin zamanında ödenmemesi halinde geri kalan taksitlerin tamamı muaccel olur.\n Genel Müdürlükçe tahakkuk ettirilen taviz bedelleri, yapılacak tebligata rağmen ödenmediği takdirde 6183 sayılı Amme Alacaklarının Tahsil Usulü Hakkında Kanun hükümlerine göre gecikme zammı ile birlikte tahsil edilerek vakfı adına gelir kaydedilir.",
+      "preview": "Taviz bedelleri, yapılacak tebligat üzerine altmış gün içerisinde peşin olarak ödenebileceği gibi eşdeğer bir taşınmazla takas edilebilir ve…",
+      "kitap": null,
+      "kisim": null,
+      "bolum": "İKİNCİ BÖLÜM · Vakıf Malları ve Faaliyetleri",
+      "ayirim": null,
+      "maddeBaslik": "Taviz bedelinin tahsil şekli",
+      "sectionPath": [
+        "İKİNCİ BÖLÜM · Vakıf Malları ve Faaliyetleri",
+        "Taviz bedelinin tahsil şekli"
+      ]
+    },
+    {
+      "id": "kanun:5737:m:20",
+      "maddeKind": "madde",
+      "maddeNo": "20",
+      "heading": "Madde 20",
+      "text": "(Değişik fıkra:28/11/2017-7061/94 md.) Genel Müdürlüğe ve mazbut vakıflara ait taşınmazların kira süresi azami beş yıldır. Ancak bu süre Genel Müdürlüğün bağlı olduğu Bakanın onayı ile on yıla kadar belirlenebilir. Ayrıca onarım veya inşa karşılığı kiralamalarda; onarım ve inşa bedeli göz önüne alınarak kira süresi Genel Müdürün onayı ile yirmi yıla, Meclis kararı ile kırk dokuz yıla kadar tespit edilebilir.[5][6]\n (Ek:20/11/2025-7565/10 md.) Sermayesinin tamamı Genel Müdürlük ve mazbut vakıflara ait olan şirketlerin faaliyetlerini yürütürken ihtiyaç duyduğu taşınmazlar, Genel Müdürlük tarafından rayiç bedelinden düşük olmamak koşuluyla bu şirketlere doğrudan kiraya verilebilir.\n (Ek:20/11/2025-7565/10 md.) Yatırım karşılığı uzun süreli kira sözleşmeleri hariç, yıllık kira bedeli Meclis tarafından her yıl belirlenecek bedelin altında kalan taşınmazların sözleşmeleri noter tasdiki olmaksızın imza altına alınabilir.\n (Ek:20/11/2025-7565/10 md.) Genel Müdürlüğe ve mazbut vakıflara ait işgalli taşınmazlar için tespit ve takdir edilecek kullanım bedeline 8/9/1983 tarihli ve 2886 sayılı Devlet İhale Kanununun 75 inci maddesinin ikinci fıkrasında yer alan indirimler uygulanmaz.\n (Ek:4/4/2023-7451/17 md.) Genel Müdürlük tarafından, ekspertiz bedeli kira devir talebinde bulunan kiracıya ait olmak üzere, bağımsız ekspertiz kuruluşları tarafından hazırlanacak ekspertiz raporu ile belirlenecek kira bedeli üzerinden kira sözleşmelerinin üçüncü kişilere devrine izin verilebilir. Belirlenecek yeni kira bedeli mevcut kira bedelinden düşük olamaz.\n (Ek:4/4/2023-7451/17 md.) Tarımsal faaliyet karşılığı kiralamalarda kira süresi, tarımsal faaliyet yatırım bedeli göz önüne alınarak Genel Müdür onayı ile yirmi yıla kadar tespit edilebilir. Tarımsal faaliyet karşılığı kiralamalarda ilgili kamu kurum ve kuruluşları ile işbirliği yapılabilir.\n (Ek:4/4/2023-7451/17 md.) Yatırım karşılığı uzun süreli kiralamalar; tarımsal faaliyet yatırımı ile onarım, inşa veya restorasyon karşılığı kiralama modellerinden oluşur.\n Genel Müdürlüğe veya mazbut vakıflara ait onarımı planlanan vakıf kültür varlıkları ile yatırım yapılacak taşınmazlar; kira süresinin bitiminden bir ay önce bildirim yapılmak kaydıyla, hiçbir hüküm ve karara bağlı olmaksızın Genel Müdürlüğün talebi üzerine kira süresi sonunda mülki amirlikçe tahliye edilir.\n (Ek: 25/3/2020 - 7226/33 md.) (Değişik:4/4/2023-7451/17 md.) Genel Müdürlüğe ve mazbut vakıflara ait taşınmazların yatırım karşılığı uzun süreli kira sözleşmeleri işletme döneminin başında, işletme döneminin ilk yılına ait üç aylık kira bedeli tutarı kadar teminat alınır. Bu teminat kira artış oranı dikkate alınarak işletme süresini müteakip her yılın ilk kira ödemesi sırasında güncellenir. İşletme teminatının nakit olarak alınması halinde İdarece vadeli hesapta tutulur. Alınan üç aylık teminat; kira süresinin sona ermesiyle, varsa kira ve ecrimisil alacaklarına, tahliye masraflarına ve taşınmazda meydana gelen zararlara mahsup edilir ve kalan kısım kiracıya iade edilir.\n (Ek: 25/3/2020 - 7226/33 md.) Genel Müdürlüğe ve mazbut vakıflara ait taşınmazların yatırım karşılığı uzun süreli kira sözleşmeleri hariç olmak üzere kiralamalarında, sözleşme süresi içinde üç aylık kira bedelinin ödenmediği tarihten itibaren on beş gün içinde Genel Müdürlükçe, kiracıya bir ihtarname tebliğ ettirilmek suretiyle kira bedelinin tamamının tebliğ tarihinden itibaren otuz gün içinde ödenmesi gerektiği, aksi hâlde taşınmazdan hiçbir hüküm ve karara bağlı olmaksızın mülki amirlikçe tahliye edileceği bildirilir. Verilen sürede borcun tamamını ödemeyen kiracının sözleşmesi feshedilmiş sayılır. Bu durum Genel Müdürlük tarafından mülki amirliğe derhal bildirilir ve taşınmaz mülki amirlikçe en geç on beş gün içinde tahliye ve teslim edilir. Alınan (…)[7] teminat; kira alacağı, tahliye masrafları ve varsa taşınmazda meydana gelen zararlara mahsup edilir ve kalan kısım kiracıya iade edilir. (Ek cümleler:20/11/2025-7565/10 md.) Zirai faaliyet kapsamında kiralanan vakıf taşınmaz kiracılarının verilen sürede borcun tamamını ödememesi durumunda ise kiracının sözleşmesi feshedilmiş sayılır ancak tahliye süreci ürünün kaldırılmasından sonra gerçekleştirilir. Sözleşmenin feshi ile tahliye süreci arasında geçen süre için ecrimisil tahakkuk ettirilir. [8]\n (Ek:4/4/2023-7451/17 md.) Yatırım karşılığı uzun süreli kiralama sözleşmelerinde; sözleşme süresinin bitiminden önce günün koşullarına göre, emsal ve rayiç bedeller gözetilerek tespit edilecek kira bedelinin yüklenici tarafından kabul edilmesi halinde sözleşme süresinin bitiminden itibaren yüklenici ile yıllık kira sözleşmesi yapılabilir.",
+      "preview": "(Değişik fıkra:28/11/2017-7061/94 md.) Genel Müdürlüğe ve mazbut vakıflara ait taşınmazların kira süresi azami beş yıldır. Ancak bu süre Gen…",
+      "kitap": null,
+      "kisim": null,
+      "bolum": "İKİNCİ BÖLÜM · Vakıf Malları ve Faaliyetleri",
+      "ayirim": null,
+      "maddeBaslik": "Kiralama[4]",
+      "sectionPath": [
+        "İKİNCİ BÖLÜM · Vakıf Malları ve Faaliyetleri",
+        "Kiralama[4]"
+      ]
+    },
+    {
+      "id": "kanun:5737:m:21",
+      "maddeKind": "madde",
+      "maddeNo": "21",
+      "heading": "Madde 21",
+      "text": "Özel vakıf ormanları kurulabilir.",
+      "preview": "Özel vakıf ormanları kurulabilir.",
+      "kitap": null,
+      "kisim": null,
+      "bolum": "İKİNCİ BÖLÜM · Vakıf Malları ve Faaliyetleri",
+      "ayirim": null,
+      "maddeBaslik": "Vakıf ormanları",
+      "sectionPath": [
+        "İKİNCİ BÖLÜM · Vakıf Malları ve Faaliyetleri",
+        "Vakıf ormanları"
+      ]
+    },
+    {
+      "id": "kanun:5737:m:22",
+      "maddeKind": "madde",
+      "maddeNo": "22",
+      "heading": "Madde 22",
+      "text": "Kamu kurum ve kuruluşları, koruma imar planlarını düzenlerken vakıf kültür varlıklarıyla ilgili hususlarda Genel Müdürlüğün görüşünü almak zorundadırlar.\n Genel Müdürlüğe ve mazbut vakıflara ait taşınmaz mallarla ilgili olarak belediyeler ile diğer kamu kurum ve kuruluşlarınca yapılan uygulama imar ve parselasyon planlarının, askıya çıkarılmadan önce ilgili idareler tarafından Genel Müdürlüğe bildirilmesi zorunludur.\n Mazbut vakıf taşınmazlarında akar niteliğini koruyacak şekilde imar düzenlemesi yapılır.\n Genel Müdürlüğe ve mazbut vakıflara ait olup uygulama imar planlarında okul, hastane veya spor alanlarında kalan taşınmazlar; ilgili kurumlar tarafından, imar planının tasdik tarihinden itibaren iki yıl içerisinde kamulaştırılmadığı takdirde ilgili bakanlığın görüşü alınarak Genel Müdürlükçe özel okul, özel hastane veya özel spor tesisi olarak değerlendirilebilir.",
+      "preview": "Kamu kurum ve kuruluşları, koruma imar planlarını düzenlerken vakıf kültür varlıklarıyla ilgili hususlarda Genel Müdürlüğün görüşünü almak z…",
+      "kitap": null,
+      "kisim": null,
+      "bolum": "İKİNCİ BÖLÜM · Vakıf Malları ve Faaliyetleri",
+      "ayirim": null,
+      "maddeBaslik": "Vakıf kültür varlıklarının korunması ve imar uygulamalarının bildirilmesi",
+      "sectionPath": [
+        "İKİNCİ BÖLÜM · Vakıf Malları ve Faaliyetleri",
+        "Vakıf kültür varlıklarının korunması ve imar uygulamalarının bildirilmesi"
+      ]
+    },
+    {
+      "id": "kanun:5737:m:23",
+      "maddeKind": "madde",
+      "maddeNo": "23",
+      "heading": "Madde 23",
+      "text": "Vakıfların malları üzerinde zilyetlik yoluyla kazanma hükümleri uygulanmaz.",
+      "preview": "Vakıfların malları üzerinde zilyetlik yoluyla kazanma hükümleri uygulanmaz.",
+      "kitap": null,
+      "kisim": null,
+      "bolum": "İKİNCİ BÖLÜM · Vakıf Malları ve Faaliyetleri",
+      "ayirim": null,
+      "maddeBaslik": "Zilyetlik yoluyla kazanım",
+      "sectionPath": [
+        "İKİNCİ BÖLÜM · Vakıf Malları ve Faaliyetleri",
+        "Zilyetlik yoluyla kazanım"
+      ]
+    },
+    {
+      "id": "kanun:5737:m:24",
+      "maddeKind": "madde",
+      "maddeNo": "24",
+      "heading": "Madde 24",
+      "text": "(Değişik: 12/7/2013-6495/49 md.)\n Kiraya verilen veya tahsis edilen Genel Müdürlük ve mazbut vakıf taşınmaz mallarının, yangın, hırsızlık ve doğal afetlere karşı, kullananları tarafından Genel Müdürlük adına sigortalanması zorunludur.\n Vakıf kültür varlıklarının sigorta işlemlerinde bedel, Çevre ve Şehircilik Bakanlığının mimarlık ve mühendislik hizmet bedellerinin hesabında kullanılan yapı yaklaşık birim maliyetleri V.Sınıf (D) Grubu Yapılar birim fiyatı ile taşınmazda yer alan taşınırların değeri dikkate alınarak Genel Müdürlükçe belirlenir.",
+      "preview": "(Değişik: 12/7/2013-6495/49 md.) Kiraya verilen veya tahsis edilen Genel Müdürlük ve mazbut vakıf taşınmaz mallarının, yangın, hırsızlık ve…",
+      "kitap": null,
+      "kisim": null,
+      "bolum": "İKİNCİ BÖLÜM · Vakıf Malları ve Faaliyetleri",
+      "ayirim": null,
+      "maddeBaslik": "Sigorta",
+      "sectionPath": [
+        "İKİNCİ BÖLÜM · Vakıf Malları ve Faaliyetleri",
+        "Sigorta"
+      ]
+    },
+    {
+      "id": "kanun:5737:m:25",
+      "maddeKind": "madde",
+      "maddeNo": "25",
+      "heading": "Madde 25",
+      "text": "Vakıflar; vakıf senetlerinde yer almak kaydıyla, amaç veya faaliyetleri doğrultusunda, uluslararası faaliyet ve işbirliğinde bulunabilirler, yurt dışında şube ve temsilcilik açabilirler, üst kuruluşlar kurabilirler ve yurt dışında kurulmuş kuruluşlara üye olabilirler.\n Vakıflar; yurt içi ve yurt dışındaki kişi, kurum ve kuruluşlardan ayni ve nakdi bağış ve yardım alabilirler, yurt içi ve yurt dışındaki benzer amaçlı vakıf ve derneklere ayni ve nakdi bağış ve yardımda bulunabilirler. Nakdi yardımların yurt dışından alınması veya yurt dışına yapılması banka aracılığı ile olur ve sonuç Genel Müdürlüğe bildirilir. Bildirimin şekli ve içeriği yönetmelikle düzenlenir.",
+      "preview": "Vakıflar; vakıf senetlerinde yer almak kaydıyla, amaç veya faaliyetleri doğrultusunda, uluslararası faaliyet ve işbirliğinde bulunabilirler,…",
+      "kitap": null,
+      "kisim": null,
+      "bolum": "İKİNCİ BÖLÜM · Vakıf Malları ve Faaliyetleri",
+      "ayirim": null,
+      "maddeBaslik": "Uluslararası faaliyet",
+      "sectionPath": [
+        "İKİNCİ BÖLÜM · Vakıf Malları ve Faaliyetleri",
+        "Uluslararası faaliyet"
+      ]
+    },
+    {
+      "id": "kanun:5737:m:26",
+      "maddeKind": "madde",
+      "maddeNo": "26",
+      "heading": "Madde 26",
+      "text": "Vakıflar; amacını gerçekleştirmeye yardımcı olmak ve vakfa gelir temin etmek amacıyla, Genel Müdürlüğe bilgi vermek şartıyla iktisadî işletme ve şirket kurabilir, kurulmuş şirketlere ortak olabilirler. Şirketler dahil iktisadî işletmelerden elde edilen gelirler vakfın amacından başka bir amaca tahsis edilemez. Kurucuların çoğunluğu yabancı uyruklu olan vakıfların kurduğu yahut paylarının yarıdan fazlasına bu nevi vakıfların sahip olduğu şirketlerin mal edinmeleri hakkında aynı vakıfların mal edinmelerini düzenleyen hükümler uygulanır.\n Genel Müdürlük; Cumhurbaşkanı kararıyla Genel Müdürlük ve mazbut vakıfların gelirleri ve akar malları ile iktisadî işletme veya şirket kurmaya yetkilidir. Şirket hisseleri ve hakların daha yararlı olanları ile değiştirilmesi, paraya çevrilmesi, değerlendirilmesi ve bunlara bağlı her türlü hakkın kullanılması ile ortaklık paylarına bağlı hakların kullanılması Genel Müdürlük tarafından yürütülür.[9]",
+      "preview": "Vakıflar; amacını gerçekleştirmeye yardımcı olmak ve vakfa gelir temin etmek amacıyla, Genel Müdürlüğe bilgi vermek şartıyla iktisadî işletm…",
+      "kitap": null,
+      "kisim": null,
+      "bolum": "İKİNCİ BÖLÜM · Vakıf Malları ve Faaliyetleri",
+      "ayirim": null,
+      "maddeBaslik": "İktisadî işletme ve şirket kurulması",
+      "sectionPath": [
+        "İKİNCİ BÖLÜM · Vakıf Malları ve Faaliyetleri",
+        "İktisadî işletme ve şirket kurulması"
+      ]
+    },
+    {
+      "id": "kanun:5737:m:27",
+      "maddeKind": "madde",
+      "maddeNo": "27",
+      "heading": "Madde 27",
+      "text": "Sona eren yeni vakıfların borçlarının tasfiyesinden arta kalan mal ve haklar; vakıf senedinde yazılı hükümlere göre, senetlerinde özel bir hüküm bulunmayanlarda ise Genel Müdürlüğün görüşü alınarak mahkeme kararıyla benzer amaçlı bir vakfa; dağıtılan yeni vakıfların borçlarının tasfiyesinden arta kalan mal ve haklar ise Genel Müdürlüğe intikal eder.",
+      "preview": "Sona eren yeni vakıfların borçlarının tasfiyesinden arta kalan mal ve haklar; vakıf senedinde yazılı hükümlere göre, senetlerinde özel bir h…",
+      "kitap": null,
+      "kisim": null,
+      "bolum": "İKİNCİ BÖLÜM · Vakıf Malları ve Faaliyetleri",
+      "ayirim": null,
+      "maddeBaslik": "Sona eren veya dağıtılan yeni vakıfların mal ve hakları",
+      "sectionPath": [
+        "İKİNCİ BÖLÜM · Vakıf Malları ve Faaliyetleri",
+        "Sona eren veya dağıtılan yeni vakıfların mal ve hakları"
+      ]
+    },
+    {
+      "id": "kanun:5737:m:28",
+      "maddeKind": "madde",
+      "maddeNo": "28",
+      "heading": "Madde 28",
+      "text": "Vakıflara ait yurt içi ve yurt dışındaki taşınır ve taşınmaz vakıf kültür varlıklarının tespiti, envanterinin çıkarılması, tescili, Genel Müdürlüğe ve mazbut vakıflara ait olanların korunması, mülkiyeti el değiştirmiş vakıf kültür varlıkları ile koruma alanlarının kamulaştırılması, değerlendirilmesi, onarımı, restorasyonu ve gerektiğinde yeniden inşası Genel Müdürlükçe yürütülür.\n (Mülga: 3/4/2013-6456/52 md.)\n Yeterli geliri bulunmayan mazbut vakıflara ait vakıf kültür varlığı niteliğindeki taşınmazların, benzer amaçlı mazbut vakıfların gelirleriyle korunmasına ve yaşatılmasına Meclis yetkilidir.",
+      "preview": "Vakıflara ait yurt içi ve yurt dışındaki taşınır ve taşınmaz vakıf kültür varlıklarının tespiti, envanterinin çıkarılması, tescili, Genel Mü…",
+      "kitap": null,
+      "kisim": null,
+      "bolum": "ÜÇÜNCÜ BÖLÜM · Vakıf Kültür ve Tabiat Varlıkları",
+      "ayirim": null,
+      "maddeBaslik": "Vakıf kültür varlıklarının tespiti, tescili ve yaşatılması",
+      "sectionPath": [
+        "ÜÇÜNCÜ BÖLÜM · Vakıf Kültür ve Tabiat Varlıkları",
+        "Vakıf kültür varlıklarının tespiti, tescili ve yaşatılması"
+      ]
+    },
+    {
+      "id": "kanun:5737:m:29",
+      "maddeKind": "madde",
+      "maddeNo": "29",
+      "heading": "Madde 29",
+      "text": "Vakıflara ait taşınır ve taşınmaz kültür ve tabiat varlıkları; Genel Müdürlük, ilgili kamu kurum ve kuruluşları ile kullananları tarafından korunur.",
+      "preview": "Vakıflara ait taşınır ve taşınmaz kültür ve tabiat varlıkları; Genel Müdürlük, ilgili kamu kurum ve kuruluşları ile kullananları tarafından…",
+      "kitap": null,
+      "kisim": null,
+      "bolum": "ÜÇÜNCÜ BÖLÜM · Vakıf Kültür ve Tabiat Varlıkları",
+      "ayirim": null,
+      "maddeBaslik": "Vakıf kültür ve tabiat varlıklarının korunması",
+      "sectionPath": [
+        "ÜÇÜNCÜ BÖLÜM · Vakıf Kültür ve Tabiat Varlıkları",
+        "Vakıf kültür ve tabiat varlıklarının korunması"
+      ]
+    },
+    {
+      "id": "kanun:5737:m:30",
+      "maddeKind": "madde",
+      "maddeNo": "30",
+      "heading": "Madde 30",
+      "text": "(Değişik:20/11/2025-7565/11 md.) Vakıf yoluyla meydana gelip de her ne suretle olursa olsun Hazine, belediye, özel idareler, köy veya diğer kamu tüzel kişileri ile bunlara ait müessese, iktisadi işletme ve bağlı ortaklıklarının mülkiyetine geçmiş vakıf kültür varlıkları mazbut vakfına devrolunur.\n (Ek fıkra:20/11/2025-7565/11 md.) Birinci fıkrada sayılan tüzel kişilerin mülkiyetinde olup doğrudan vakfedilen veya mevcut olup olmadığına bakılmaksızın vakıf kaynaklarından inşa edilmiş, onarılmış veya ilaveler yapılmak suretiyle katkı sağlanmış vakıf kültür varlıkları, vakıf yoluyla meydana gelmiş sayılır.",
+      "preview": "(Değişik:20/11/2025-7565/11 md.) Vakıf yoluyla meydana gelip de her ne suretle olursa olsun Hazine, belediye, özel idareler, köy veya diğer…",
+      "kitap": null,
+      "kisim": null,
+      "bolum": "ÜÇÜNCÜ BÖLÜM · Vakıf Kültür ve Tabiat Varlıkları",
+      "ayirim": null,
+      "maddeBaslik": "Vakıf kültür varlıklarının devri",
+      "sectionPath": [
+        "ÜÇÜNCÜ BÖLÜM · Vakıf Kültür ve Tabiat Varlıkları",
+        "Vakıf kültür varlıklarının devri"
+      ]
+    },
+    {
+      "id": "kanun:5737:m:31",
+      "maddeKind": "madde",
+      "maddeNo": "31",
+      "heading": "Madde 31",
+      "text": "Vakıflar, muhasebe kayıtlarını Genel Müdürlükçe belirlenecek usûl ve esaslar dahilinde tutmak zorundadırlar. Tutulacak defter ve kayıtlar ile ilgili usûl ve esaslar yönetmelikle düzenlenir.\n Mazbut vakıfların her birinin gelir ve giderleri ayrı ayrı takip edilir.\n Vakıflar, varlıklarını, ekonomik kural ve riskleri gözetmek suretiyle değerlendirirler.",
+      "preview": "Vakıflar, muhasebe kayıtlarını Genel Müdürlükçe belirlenecek usûl ve esaslar dahilinde tutmak zorundadırlar. Tutulacak defter ve kayıtlar il…",
+      "kitap": null,
+      "kisim": null,
+      "bolum": "DÖRDÜNCÜ BÖLÜM · Vakıfların Muhasebesi ve Denetimi",
+      "ayirim": null,
+      "maddeBaslik": "Vakıf muhasebesi",
+      "sectionPath": [
+        "DÖRDÜNCÜ BÖLÜM · Vakıfların Muhasebesi ve Denetimi",
+        "Vakıf muhasebesi"
+      ]
+    },
+    {
+      "id": "kanun:5737:m:32",
+      "maddeKind": "madde",
+      "maddeNo": "32",
+      "heading": "Madde 32",
+      "text": "Vakıf yönetimi; vakfın yönetici veya yönetim kurulu üyeleri listesini, bir önceki yıla ait faaliyet raporlarını, bütçe ve bilançolarını, gayrimenkullerini, malî tablolarını ve bu tabloların uygun araçlarla yayınlandığına dair belgeyi, işletme ve iştiraklerinin malî tabloları ile yönetmelikle belirlenecek diğer bilgileri içeren beyannameyi her takvim yılının ilk altı ayı içerisinde Genel Müdürlüğe verir.",
+      "preview": "Vakıf yönetimi; vakfın yönetici veya yönetim kurulu üyeleri listesini, bir önceki yıla ait faaliyet raporlarını, bütçe ve bilançolarını, gay…",
+      "kitap": null,
+      "kisim": null,
+      "bolum": "DÖRDÜNCÜ BÖLÜM · Vakıfların Muhasebesi ve Denetimi",
+      "ayirim": null,
+      "maddeBaslik": "Beyanname verme yükümlülüğü",
+      "sectionPath": [
+        "DÖRDÜNCÜ BÖLÜM · Vakıfların Muhasebesi ve Denetimi",
+        "Beyanname verme yükümlülüğü"
+      ]
+    },
+    {
+      "id": "kanun:5737:m:33",
+      "maddeKind": "madde",
+      "maddeNo": "33",
+      "heading": "Madde 33",
+      "text": "Mülhak, cemaat, esnaf vakıfları ile yeni vakıflarda iç denetim esastır. Vakıf; organları tarafından denetlenebileceği gibi, bağımsız denetim kuruluşlarına da denetim yaptırabilir.\n Vakıf yöneticileri, en az yılda bir defa yapılacak iç denetim raporları ile sonuçlarını, rapor tarihini takip eden iki ay içerisinde Genel Müdürlüğe bildirir.\n Vakıfların amaca ve yasalara uygunluk denetimi ile iktisadî işletmelerinin faaliyet ve mevzuata uygunluk denetimi Genel Müdürlükçe yapılır.",
+      "preview": "Mülhak, cemaat, esnaf vakıfları ile yeni vakıflarda iç denetim esastır. Vakıf; organları tarafından denetlenebileceği gibi, bağımsız denetim…",
+      "kitap": null,
+      "kisim": null,
+      "bolum": "DÖRDÜNCÜ BÖLÜM · Vakıfların Muhasebesi ve Denetimi",
+      "ayirim": null,
+      "maddeBaslik": "Vakıfların denetimi",
+      "sectionPath": [
+        "DÖRDÜNCÜ BÖLÜM · Vakıfların Muhasebesi ve Denetimi",
+        "Vakıfların denetimi"
+      ]
+    },
+    {
+      "id": "kanun:5737:m:34",
+      "maddeKind": "madde",
+      "maddeNo": "34",
+      "heading": "Madde 34",
+      "text": "İntifa hakkına konu mazbut vakıflar ile Genel Müdürlük tarafından geçici olarak yönetilen vakıfların yıllık gayrisafi gelirlerinin yüzde kırkı yönetim ve temsil masrafı olarak Genel Müdürlük bütçesine gelir kaydedilir.[10]\n\nÜÇÜNCÜ KISIM\nVakıflar Genel Müdürlüğü, Vakıflar Meclisi,",
+      "preview": "İntifa hakkına konu mazbut vakıflar ile Genel Müdürlük tarafından geçici olarak yönetilen vakıfların yıllık gayrisafi gelirlerinin yüzde kır…",
+      "kitap": null,
+      "kisim": null,
+      "bolum": "DÖRDÜNCÜ BÖLÜM · Vakıfların Muhasebesi ve Denetimi",
+      "ayirim": null,
+      "maddeBaslik": "Yönetim ve temsil masrafı",
+      "sectionPath": [
+        "DÖRDÜNCÜ BÖLÜM · Vakıfların Muhasebesi ve Denetimi",
+        "Yönetim ve temsil masrafı"
+      ]
+    },
+    {
+      "id": "kanun:5737:m:35",
+      "maddeKind": "madde",
+      "maddeNo": "35",
+      "heading": "Madde 35",
+      "text": "(Mülga: 2/7/2018/KHK/703/102 md.)",
+      "preview": "(Mülga: 2/7/2018/KHK/703/102 md.)",
+      "kitap": null,
+      "kisim": null,
+      "bolum": "BİRİNCİ BÖLÜM · Vakıflar Genel Müdürlüğü",
+      "ayirim": null,
+      "maddeBaslik": "Vakıflar Genel Müdürlüğü",
+      "sectionPath": [
+        "BİRİNCİ BÖLÜM · Vakıflar Genel Müdürlüğü",
+        "Vakıflar Genel Müdürlüğü"
+      ]
+    },
+    {
+      "id": "kanun:5737:m:36",
+      "maddeKind": "madde",
+      "maddeNo": "36",
+      "heading": "Madde 36",
+      "text": "(Mülga: 2/7/2018/KHK/703/102 md.)\n\n (Mülga birinci cümle: 2/7/2018/KHK/703/102 md.) Genel Müdürlük gerektiğinde ihtiyaç duyulan konuyla sınırlı olmak üzere 4734 sayılı Kamu İhale Kanununa tâbi olmaksızın uzman kişi, kurum ve kuruluşlardan danışmanlık ve hukukî mütalaa şeklinde hizmet satın alabilir.",
+      "preview": "(Mülga: 2/7/2018/KHK/703/102 md.) (Mülga birinci cümle: 2/7/2018/KHK/703/102 md.) Genel Müdürlük gerektiğinde ihtiyaç duyulan konuyla sınırl…",
+      "kitap": null,
+      "kisim": null,
+      "bolum": "BİRİNCİ BÖLÜM · Vakıflar Genel Müdürlüğü",
+      "ayirim": null,
+      "maddeBaslik": "Genel Müdürlüğün görevleri",
+      "sectionPath": [
+        "BİRİNCİ BÖLÜM · Vakıflar Genel Müdürlüğü",
+        "Genel Müdürlüğün görevleri"
+      ]
+    },
+    {
+      "id": "kanun:5737:m:37",
+      "maddeKind": "madde",
+      "maddeNo": "37",
+      "heading": "Madde 37",
+      "text": "(Mülga: 2/7/2018/KHK/703/102 md.)",
+      "preview": "(Mülga: 2/7/2018/KHK/703/102 md.)",
+      "kitap": null,
+      "kisim": null,
+      "bolum": "BİRİNCİ BÖLÜM · Vakıflar Genel Müdürlüğü",
+      "ayirim": null,
+      "maddeBaslik": "Genel Müdürlüğün denetimi",
+      "sectionPath": [
+        "BİRİNCİ BÖLÜM · Vakıflar Genel Müdürlüğü",
+        "Genel Müdürlüğün denetimi"
+      ]
+    },
+    {
+      "id": "kanun:5737:m:38",
+      "maddeKind": "madde",
+      "maddeNo": "38",
+      "heading": "Madde 38",
+      "text": "(Mülga: 2/7/2018/KHK/703/102 md.)",
+      "preview": "(Mülga: 2/7/2018/KHK/703/102 md.)",
+      "kitap": null,
+      "kisim": null,
+      "bolum": "BİRİNCİ BÖLÜM · Vakıflar Genel Müdürlüğü",
+      "ayirim": null,
+      "maddeBaslik": "Genel Müdürlüğün bütçesi",
+      "sectionPath": [
+        "BİRİNCİ BÖLÜM · Vakıflar Genel Müdürlüğü",
+        "Genel Müdürlüğün bütçesi"
+      ]
+    },
+    {
+      "id": "kanun:5737:m:39",
+      "maddeKind": "madde",
+      "maddeNo": "39",
+      "heading": "Madde 39",
+      "text": "(Mülga: 2/7/2018/KHK/703/102 md.)",
+      "preview": "(Mülga: 2/7/2018/KHK/703/102 md.)",
+      "kitap": null,
+      "kisim": null,
+      "bolum": "BİRİNCİ BÖLÜM · Vakıflar Genel Müdürlüğü",
+      "ayirim": null,
+      "maddeBaslik": "Genel Müdürlüğün gelirleri",
+      "sectionPath": [
+        "BİRİNCİ BÖLÜM · Vakıflar Genel Müdürlüğü",
+        "Genel Müdürlüğün gelirleri"
+      ]
+    },
+    {
+      "id": "kanun:5737:m:40",
+      "maddeKind": "madde",
+      "maddeNo": "40",
+      "heading": "Madde 40",
+      "text": "(Mülga: 2/7/2018/KHK/703/102 md.)",
+      "preview": "(Mülga: 2/7/2018/KHK/703/102 md.)",
+      "kitap": null,
+      "kisim": null,
+      "bolum": "BİRİNCİ BÖLÜM · Vakıflar Genel Müdürlüğü",
+      "ayirim": null,
+      "maddeBaslik": "Bazı gelirler ile bağışların harcanması",
+      "sectionPath": [
+        "BİRİNCİ BÖLÜM · Vakıflar Genel Müdürlüğü",
+        "Bazı gelirler ile bağışların harcanması"
+      ]
+    },
+    {
+      "id": "kanun:5737:m:41",
+      "maddeKind": "madde",
+      "maddeNo": "41",
+      "heading": "Madde 41",
+      "text": "(Mülga: 2/7/2018/KHK/703/102 md.)",
+      "preview": "(Mülga: 2/7/2018/KHK/703/102 md.)",
+      "kitap": null,
+      "kisim": null,
+      "bolum": "İKİNCİ BÖLÜM · Vakıflar Meclisi",
+      "ayirim": null,
+      "maddeBaslik": "Meclisin oluşumu",
+      "sectionPath": [
+        "İKİNCİ BÖLÜM · Vakıflar Meclisi",
+        "Meclisin oluşumu"
+      ]
+    },
+    {
+      "id": "kanun:5737:m:42",
+      "maddeKind": "madde",
+      "maddeNo": "42",
+      "heading": "Madde 42",
+      "text": "(Mülga: 2/7/2018/KHK/703/102 md.)",
+      "preview": "(Mülga: 2/7/2018/KHK/703/102 md.)",
+      "kitap": null,
+      "kisim": null,
+      "bolum": "İKİNCİ BÖLÜM · Vakıflar Meclisi",
+      "ayirim": null,
+      "maddeBaslik": "Meclisin görevleri",
+      "sectionPath": [
+        "İKİNCİ BÖLÜM · Vakıflar Meclisi",
+        "Meclisin görevleri"
+      ]
+    },
+    {
+      "id": "kanun:5737:m:43",
+      "maddeKind": "madde",
+      "maddeNo": "43",
+      "heading": "Madde 43",
+      "text": "(Mülga birinci fıkra: 2/7/2018/KHK/703/102 md.)\n Kamu görevlisi olmayan Meclis üyeleri, görevleri ile ilgili olarak işledikleri suçlar ve kendilerine karşı işlenen suçlar yönünden kamu görevlisi sayılır.\n (Mülga üçüncü fıkra: 2/7/2018/KHK/703/102 md.)\n Memur veya diğer kamu görevlisi iken ortak kararnameyle Meclis üyeliğine atananların Mecliste görev yaptıkları sürece eski görevleriyle olan ilişikleri kesilir. Bu üyelerin; memuriyete giriş şartlarını kaybetme dışındaki herhangi bir nedenle görevlerinin sona ermesi, görevden ayrılma isteğinde bulunması veya görev sürelerinin dolması durumunda otuz gün içinde eski kurumlarına başvurmaları halinde mükteseplerine uygun bir kadroya atanırlar. Bu durumda Genel Müdürlükte geçirdikleri süreler atandığı kurumda geçmiş gibi değerlendirilir. Akademik unvanların kazanılmasına ilişkin hükümler saklı kalmak kaydıyla üniversitelerden gelen personel hakkında da aynı hükümler uygulanır.",
+      "preview": "(Mülga birinci fıkra: 2/7/2018/KHK/703/102 md.) Kamu görevlisi olmayan Meclis üyeleri, görevleri ile ilgili olarak işledikleri suçlar ve ken…",
+      "kitap": null,
+      "kisim": null,
+      "bolum": "İKİNCİ BÖLÜM · Vakıflar Meclisi",
+      "ayirim": null,
+      "maddeBaslik": "Meclis üyelerinin nitelikleri ve görev süresi",
+      "sectionPath": [
+        "İKİNCİ BÖLÜM · Vakıflar Meclisi",
+        "Meclis üyelerinin nitelikleri ve görev süresi"
+      ]
+    },
+    {
+      "id": "kanun:5737:m:44",
+      "maddeKind": "madde",
+      "maddeNo": "44",
+      "heading": "Madde 44",
+      "text": "(Mülga: 2/7/2018/KHK/703/102 md.)",
+      "preview": "(Mülga: 2/7/2018/KHK/703/102 md.)",
+      "kitap": null,
+      "kisim": null,
+      "bolum": "İKİNCİ BÖLÜM · Vakıflar Meclisi",
+      "ayirim": null,
+      "maddeBaslik": "Meclis üyelerinin yenilenmesi ve huzur hakkı",
+      "sectionPath": [
+        "İKİNCİ BÖLÜM · Vakıflar Meclisi",
+        "Meclis üyelerinin yenilenmesi ve huzur hakkı"
+      ]
+    },
+    {
+      "id": "kanun:5737:m:45",
+      "maddeKind": "madde",
+      "maddeNo": "45",
+      "heading": "Madde 45",
+      "text": "(Mülga: 2/7/2018/KHK/703/102 md.)",
+      "preview": "(Mülga: 2/7/2018/KHK/703/102 md.)",
+      "kitap": null,
+      "kisim": null,
+      "bolum": "İKİNCİ BÖLÜM · Vakıflar Meclisi",
+      "ayirim": null,
+      "maddeBaslik": "Meclisin toplantı şekli ve karar nisabı",
+      "sectionPath": [
+        "İKİNCİ BÖLÜM · Vakıflar Meclisi",
+        "Meclisin toplantı şekli ve karar nisabı"
+      ]
+    },
+    {
+      "id": "kanun:5737:m:46",
+      "maddeKind": "madde",
+      "maddeNo": "46",
+      "heading": "Madde 46",
+      "text": "Meclis üyeleri, görevleri süresince ve görevlerinin sona ermesinden itibaren iki yıl süre ile Genel Müdürlük ve ilgili kuruluşlarına karşı doğrudan doğruya veya dolaylı olarak taahhüde giremez, komisyonculuk ve temsilcilik yapamaz.\n Meclis üyeleri görevleri süresince edindikleri gizli bilgi ve belgeleri kanunen yetkili kılınan mercilerden başkasına açıklayamaz, kendilerinin veya üçüncü şahısların lehine veya aleyhine kullanamazlar. Bu yükümlülük görevden ayrılmalarından sonra da devam eder.\n (Mülga üçüncü fıkra: 2/7/2018/KHK/703/102 md.)",
+      "preview": "Meclis üyeleri, görevleri süresince ve görevlerinin sona ermesinden itibaren iki yıl süre ile Genel Müdürlük ve ilgili kuruluşlarına karşı d…",
+      "kitap": null,
+      "kisim": null,
+      "bolum": "İKİNCİ BÖLÜM · Vakıflar Meclisi",
+      "ayirim": null,
+      "maddeBaslik": "Meclis üyelerince uyulması gereken hususlar",
+      "sectionPath": [
+        "İKİNCİ BÖLÜM · Vakıflar Meclisi",
+        "Meclis üyelerince uyulması gereken hususlar"
+      ]
+    },
+    {
+      "id": "kanun:5737:m:47",
+      "maddeKind": "madde",
+      "maddeNo": "47",
+      "heading": "Madde 47",
+      "text": "(Mülga: 2/7/2018/KHK/703/102 md.)",
+      "preview": "(Mülga: 2/7/2018/KHK/703/102 md.)",
+      "kitap": null,
+      "kisim": null,
+      "bolum": "ÜÇÜNCÜ BÖLÜM · Teşkilât",
+      "ayirim": null,
+      "maddeBaslik": "Merkez teşkilâtı",
+      "sectionPath": [
+        "ÜÇÜNCÜ BÖLÜM · Teşkilât",
+        "Merkez teşkilâtı"
+      ]
+    },
+    {
+      "id": "kanun:5737:m:48",
+      "maddeKind": "madde",
+      "maddeNo": "48",
+      "heading": "Madde 48",
+      "text": "(Mülga: 2/7/2018/KHK/703/102 md.)",
+      "preview": "(Mülga: 2/7/2018/KHK/703/102 md.)",
+      "kitap": null,
+      "kisim": null,
+      "bolum": "ÜÇÜNCÜ BÖLÜM · Teşkilât",
+      "ayirim": null,
+      "maddeBaslik": "Genel Müdür",
+      "sectionPath": [
+        "ÜÇÜNCÜ BÖLÜM · Teşkilât",
+        "Genel Müdür"
+      ]
+    },
+    {
+      "id": "kanun:5737:m:49",
+      "maddeKind": "madde",
+      "maddeNo": "49",
+      "heading": "Madde 49",
+      "text": "(Mülga: 2/7/2018/KHK/703/102 md.)",
+      "preview": "(Mülga: 2/7/2018/KHK/703/102 md.)",
+      "kitap": null,
+      "kisim": null,
+      "bolum": "ÜÇÜNCÜ BÖLÜM · Teşkilât",
+      "ayirim": null,
+      "maddeBaslik": "Genel müdür yardımcıları",
+      "sectionPath": [
+        "ÜÇÜNCÜ BÖLÜM · Teşkilât",
+        "Genel müdür yardımcıları"
+      ]
+    },
+    {
+      "id": "kanun:5737:m:50",
+      "maddeKind": "madde",
+      "maddeNo": "50",
+      "heading": "Madde 50",
+      "text": "(Mülga: 2/7/2018/KHK/703/102 md.)",
+      "preview": "(Mülga: 2/7/2018/KHK/703/102 md.)",
+      "kitap": null,
+      "kisim": null,
+      "bolum": "ÜÇÜNCÜ BÖLÜM · Teşkilât",
+      "ayirim": null,
+      "maddeBaslik": "Ana hizmet birimleri",
+      "sectionPath": [
+        "ÜÇÜNCÜ BÖLÜM · Teşkilât",
+        "Ana hizmet birimleri"
+      ]
+    },
+    {
+      "id": "kanun:5737:m:51",
+      "maddeKind": "madde",
+      "maddeNo": "51",
+      "heading": "Madde 51",
+      "text": "(Mülga: 2/7/2018/KHK/703/102 md.)",
+      "preview": "(Mülga: 2/7/2018/KHK/703/102 md.)",
+      "kitap": null,
+      "kisim": null,
+      "bolum": "ÜÇÜNCÜ BÖLÜM · Teşkilât",
+      "ayirim": null,
+      "maddeBaslik": "Vakıf Hizmetleri Daire Başkanlığı",
+      "sectionPath": [
+        "ÜÇÜNCÜ BÖLÜM · Teşkilât",
+        "Vakıf Hizmetleri Daire Başkanlığı"
+      ]
+    },
+    {
+      "id": "kanun:5737:m:52",
+      "maddeKind": "madde",
+      "maddeNo": "52",
+      "heading": "Madde 52",
+      "text": "Hayır Hizmetleri Daire Başkanlığının görevleri şunlardır:\n a) (Mülga: 2/7/2018/KHK/703/102 md.)\n b) (Mülga: 2/7/2018/KHK/703/102 md.)\n c) (Mülga: 2/7/2018/KHK/703/102 md.)\n d) (Ek: 22/8/2011-KHK-651/15 md. ) Usul ve esasları Genel Müdürlükçe çıkarılan yönetmelikle belirlenmek üzere ihtiyaç sahibi yükseköğrenim öğrencilerine 3/3/2004 tarihli ve 5102 sayılı Yüksek Öğrenim Öğrencilerine Burs Kredi Verilmesine İlişkin Kanun hükümlerine tabi olmaksızın burs vermek.\n e) (Değişik: 2/7/2018-KHK/703/102 md.) Genel Müdürlüğün teşkilatına ilişkin Cumhurbaşkanlığı Kararnamesinde belirtilen diğer görevler.\n f) (Mülga: 2/7/2018/KHK/703/102 md.)\n g) (Ek: 28/11/2017-7061/95 md.;Mülga: 2/7/2018/KHK/703/102 md.)\n h) (Mülga: 2/7/2018/KHK/703/102 md.)",
+      "preview": "Hayır Hizmetleri Daire Başkanlığının görevleri şunlardır: a) (Mülga: 2/7/2018/KHK/703/102 md.) b) (Mülga: 2/7/2018/KHK/703/102 md.) c) (Mülg…",
+      "kitap": null,
+      "kisim": null,
+      "bolum": "ÜÇÜNCÜ BÖLÜM · Teşkilât",
+      "ayirim": null,
+      "maddeBaslik": "Hayır Hizmetleri Daire Başkanlığı[11][12]",
+      "sectionPath": [
+        "ÜÇÜNCÜ BÖLÜM · Teşkilât",
+        "Hayır Hizmetleri Daire Başkanlığı[11][12]"
+      ]
+    },
+    {
+      "id": "kanun:5737:m:53",
+      "maddeKind": "madde",
+      "maddeNo": "53",
+      "heading": "Madde 53",
+      "text": "(Mülga: 2/7/2018/KHK/703/102 md.)",
+      "preview": "(Mülga: 2/7/2018/KHK/703/102 md.)",
+      "kitap": null,
+      "kisim": null,
+      "bolum": "ÜÇÜNCÜ BÖLÜM · Teşkilât",
+      "ayirim": null,
+      "maddeBaslik": "Sanat Eserleri ve Yapı İşleri Daire Başkanlığı",
+      "sectionPath": [
+        "ÜÇÜNCÜ BÖLÜM · Teşkilât",
+        "Sanat Eserleri ve Yapı İşleri Daire Başkanlığı"
+      ]
+    },
+    {
+      "id": "kanun:5737:m:54",
+      "maddeKind": "madde",
+      "maddeNo": "54",
+      "heading": "Madde 54",
+      "text": "(Mülga: 2/7/2018/KHK/703/102 md.)",
+      "preview": "(Mülga: 2/7/2018/KHK/703/102 md.)",
+      "kitap": null,
+      "kisim": null,
+      "bolum": "ÜÇÜNCÜ BÖLÜM · Teşkilât",
+      "ayirim": null,
+      "maddeBaslik": "Yatırım ve Emlak Daire Başkanlığı",
+      "sectionPath": [
+        "ÜÇÜNCÜ BÖLÜM · Teşkilât",
+        "Yatırım ve Emlak Daire Başkanlığı"
+      ]
+    },
+    {
+      "id": "kanun:5737:m:55",
+      "maddeKind": "madde",
+      "maddeNo": "55",
+      "heading": "Madde 55",
+      "text": "(Mülga: 2/7/2018/KHK/703/102 md.)",
+      "preview": "(Mülga: 2/7/2018/KHK/703/102 md.)",
+      "kitap": null,
+      "kisim": null,
+      "bolum": "ÜÇÜNCÜ BÖLÜM · Teşkilât",
+      "ayirim": null,
+      "maddeBaslik": "Sağlık Hizmetleri Daire Başkanlığı",
+      "sectionPath": [
+        "ÜÇÜNCÜ BÖLÜM · Teşkilât",
+        "Sağlık Hizmetleri Daire Başkanlığı"
+      ]
+    },
+    {
+      "id": "kanun:5737:m:56",
+      "maddeKind": "madde",
+      "maddeNo": "56",
+      "heading": "Madde 56",
+      "text": "(Mülga: 2/7/2018/KHK/703/102 md.)\n\n Dış İlişkiler Daire Başkanlığı\n MADDE 57 (Mülga: 2/7/2018/KHK/703/102 md.)",
+      "preview": "(Mülga: 2/7/2018/KHK/703/102 md.) Dış İlişkiler Daire Başkanlığı MADDE 57 (Mülga: 2/7/2018/KHK/703/102 md.)",
+      "kitap": null,
+      "kisim": null,
+      "bolum": "ÜÇÜNCÜ BÖLÜM · Teşkilât",
+      "ayirim": null,
+      "maddeBaslik": "Kültür ve Tescil Daire Başkanlığı",
+      "sectionPath": [
+        "ÜÇÜNCÜ BÖLÜM · Teşkilât",
+        "Kültür ve Tescil Daire Başkanlığı"
+      ]
+    },
+    {
+      "id": "kanun:5737:m:58",
+      "maddeKind": "madde",
+      "maddeNo": "58",
+      "heading": "Madde 58",
+      "text": "(Mülga: 2/7/2018/KHK/703/102 md.)\n\n Hukuk Müşavirliği\n MADDE 59 (Mülga: 2/7/2018/KHK/703/102 md.)",
+      "preview": "(Mülga: 2/7/2018/KHK/703/102 md.) Hukuk Müşavirliği MADDE 59 (Mülga: 2/7/2018/KHK/703/102 md.)",
+      "kitap": null,
+      "kisim": null,
+      "bolum": "ÜÇÜNCÜ BÖLÜM · Teşkilât",
+      "ayirim": null,
+      "maddeBaslik": "Danışma ve denetim birimleri",
+      "sectionPath": [
+        "ÜÇÜNCÜ BÖLÜM · Teşkilât",
+        "Danışma ve denetim birimleri"
+      ]
+    },
+    {
+      "id": "kanun:5737:m:60",
+      "maddeKind": "madde",
+      "maddeNo": "60",
+      "heading": "Madde 60",
+      "text": "(Mülga: 2/7/2018/KHK/703/102 md.)",
+      "preview": "(Mülga: 2/7/2018/KHK/703/102 md.)",
+      "kitap": null,
+      "kisim": null,
+      "bolum": "ÜÇÜNCÜ BÖLÜM · Teşkilât",
+      "ayirim": null,
+      "maddeBaslik": "Rehberlik ve Teftiş Başkanlığı",
+      "sectionPath": [
+        "ÜÇÜNCÜ BÖLÜM · Teşkilât",
+        "Rehberlik ve Teftiş Başkanlığı"
+      ]
+    },
+    {
+      "id": "kanun:5737:m:61",
+      "maddeKind": "madde",
+      "maddeNo": "61",
+      "heading": "Madde 61",
+      "text": "(Mülga: 2/7/2018/KHK/703/102 md.)",
+      "preview": "(Mülga: 2/7/2018/KHK/703/102 md.)",
+      "kitap": null,
+      "kisim": null,
+      "bolum": "ÜÇÜNCÜ BÖLÜM · Teşkilât",
+      "ayirim": null,
+      "maddeBaslik": "Strateji Geliştirme Daire Başkanlığı",
+      "sectionPath": [
+        "ÜÇÜNCÜ BÖLÜM · Teşkilât",
+        "Strateji Geliştirme Daire Başkanlığı"
+      ]
+    },
+    {
+      "id": "kanun:5737:m:62",
+      "maddeKind": "madde",
+      "maddeNo": "62",
+      "heading": "Madde 62",
+      "text": "(Mülga: 2/7/2018/KHK/703/102 md.)",
+      "preview": "(Mülga: 2/7/2018/KHK/703/102 md.)",
+      "kitap": null,
+      "kisim": null,
+      "bolum": "ÜÇÜNCÜ BÖLÜM · Teşkilât",
+      "ayirim": null,
+      "maddeBaslik": "Basın ve Halkla İlişkiler Müşavirliği",
+      "sectionPath": [
+        "ÜÇÜNCÜ BÖLÜM · Teşkilât",
+        "Basın ve Halkla İlişkiler Müşavirliği"
+      ]
+    },
+    {
+      "id": "kanun:5737:m:63",
+      "maddeKind": "madde",
+      "maddeNo": "63",
+      "heading": "Madde 63",
+      "text": "(Mülga: 2/7/2018/KHK/703/102 md.)",
+      "preview": "(Mülga: 2/7/2018/KHK/703/102 md.)",
+      "kitap": null,
+      "kisim": null,
+      "bolum": "ÜÇÜNCÜ BÖLÜM · Teşkilât",
+      "ayirim": null,
+      "maddeBaslik": "Yardımcı hizmet birimleri",
+      "sectionPath": [
+        "ÜÇÜNCÜ BÖLÜM · Teşkilât",
+        "Yardımcı hizmet birimleri"
+      ]
+    },
+    {
+      "id": "kanun:5737:m:64",
+      "maddeKind": "madde",
+      "maddeNo": "64",
+      "heading": "Madde 64",
+      "text": "(Mülga: 2/7/2018/KHK/703/102 md.)",
+      "preview": "(Mülga: 2/7/2018/KHK/703/102 md.)",
+      "kitap": null,
+      "kisim": null,
+      "bolum": "ÜÇÜNCÜ BÖLÜM · Teşkilât",
+      "ayirim": null,
+      "maddeBaslik": "İnsan Kaynakları Daire Başkanlığı",
+      "sectionPath": [
+        "ÜÇÜNCÜ BÖLÜM · Teşkilât",
+        "İnsan Kaynakları Daire Başkanlığı"
+      ]
+    },
+    {
+      "id": "kanun:5737:m:65",
+      "maddeKind": "madde",
+      "maddeNo": "65",
+      "heading": "Madde 65",
+      "text": "(Mülga: 2/7/2018/KHK/703/102 md.)",
+      "preview": "(Mülga: 2/7/2018/KHK/703/102 md.)",
+      "kitap": null,
+      "kisim": null,
+      "bolum": "ÜÇÜNCÜ BÖLÜM · Teşkilât",
+      "ayirim": null,
+      "maddeBaslik": "Destek Hizmetleri Daire Başkanlığı",
+      "sectionPath": [
+        "ÜÇÜNCÜ BÖLÜM · Teşkilât",
+        "Destek Hizmetleri Daire Başkanlığı"
+      ]
+    },
+    {
+      "id": "kanun:5737:m:66",
+      "maddeKind": "madde",
+      "maddeNo": "66",
+      "heading": "Madde 66",
+      "text": "(Mülga: 2/7/2018/KHK/703/102 md.)",
+      "preview": "(Mülga: 2/7/2018/KHK/703/102 md.)",
+      "kitap": null,
+      "kisim": null,
+      "bolum": "ÜÇÜNCÜ BÖLÜM · Teşkilât",
+      "ayirim": null,
+      "maddeBaslik": "Taşra teşkilâtı",
+      "sectionPath": [
+        "ÜÇÜNCÜ BÖLÜM · Teşkilât",
+        "Taşra teşkilâtı"
+      ]
+    },
+    {
+      "id": "kanun:5737:m:67",
+      "maddeKind": "madde",
+      "maddeNo": "67",
+      "heading": "Madde 67",
+      "text": "(Mülga: 2/7/2018/KHK/703/102 md.)",
+      "preview": "(Mülga: 2/7/2018/KHK/703/102 md.)",
+      "kitap": null,
+      "kisim": null,
+      "bolum": "DÖRDÜNCÜ BÖLÜM · İstihdam",
+      "ayirim": null,
+      "maddeBaslik": "Personel rejimi",
+      "sectionPath": [
+        "DÖRDÜNCÜ BÖLÜM · İstihdam",
+        "Personel rejimi"
+      ]
+    },
+    {
+      "id": "kanun:5737:m:68",
+      "maddeKind": "madde",
+      "maddeNo": "68",
+      "heading": "Madde 68",
+      "text": "(Mülga: 2/7/2018/KHK/703/102 md.)",
+      "preview": "(Mülga: 2/7/2018/KHK/703/102 md.)",
+      "kitap": null,
+      "kisim": null,
+      "bolum": "DÖRDÜNCÜ BÖLÜM · İstihdam",
+      "ayirim": null,
+      "maddeBaslik": "Atamalar",
+      "sectionPath": [
+        "DÖRDÜNCÜ BÖLÜM · İstihdam",
+        "Atamalar"
+      ]
+    },
+    {
+      "id": "kanun:5737:m:69",
+      "maddeKind": "madde",
+      "maddeNo": "69",
+      "heading": "Madde 69",
+      "text": "(Mülga: 2/7/2018/KHK/703/102 md.)",
+      "preview": "(Mülga: 2/7/2018/KHK/703/102 md.)",
+      "kitap": null,
+      "kisim": null,
+      "bolum": "DÖRDÜNCÜ BÖLÜM · İstihdam",
+      "ayirim": null,
+      "maddeBaslik": "Vakıf Uzmanı ve Vakıf Uzman Yardımcısı",
+      "sectionPath": [
+        "DÖRDÜNCÜ BÖLÜM · İstihdam",
+        "Vakıf Uzmanı ve Vakıf Uzman Yardımcısı"
+      ]
+    },
+    {
+      "id": "kanun:5737:m:70",
+      "maddeKind": "madde",
+      "maddeNo": "70",
+      "heading": "Madde 70",
+      "text": "(Mülga: 2/7/2018/KHK/703/102 md.)",
+      "preview": "(Mülga: 2/7/2018/KHK/703/102 md.)",
+      "kitap": null,
+      "kisim": null,
+      "bolum": "DÖRDÜNCÜ BÖLÜM · İstihdam",
+      "ayirim": null,
+      "maddeBaslik": "Müfettiş ve Müfettiş Yardımcısı",
+      "sectionPath": [
+        "DÖRDÜNCÜ BÖLÜM · İstihdam",
+        "Müfettiş ve Müfettiş Yardımcısı"
+      ]
+    },
+    {
+      "id": "kanun:5737:m:71",
+      "maddeKind": "madde",
+      "maddeNo": "71",
+      "heading": "Madde 71",
+      "text": "(Mülga: 2/7/2018/KHK/703/102 md.)",
+      "preview": "(Mülga: 2/7/2018/KHK/703/102 md.)",
+      "kitap": null,
+      "kisim": null,
+      "bolum": "DÖRDÜNCÜ BÖLÜM · İstihdam",
+      "ayirim": null,
+      "maddeBaslik": "Kadro iptal ve ihdasları",
+      "sectionPath": [
+        "DÖRDÜNCÜ BÖLÜM · İstihdam",
+        "Kadro iptal ve ihdasları"
+      ]
+    },
+    {
+      "id": "kanun:5737:m:72",
+      "maddeKind": "madde",
+      "maddeNo": "72",
+      "heading": "Madde 72",
+      "text": "(Mülga birinci fıkra: 11/10/2011-KHK-666/1 md.[13]\n (Mülga ikinci fıkra: 11/10/2011-KHK-666/1 md.)\n Genel Müdürlük lehine sonuçlanan dava ve icra takipleri nedeniyle hükme bağlanarak karşı taraftan tahsil olunan vekalet ücretlerinin; avukatlara ve hukuk servislerinde fiilen görev yapan memurlara dağıtımı hakkında 2/2/1929 tarihli ve 1389 sayılı Devlet Davalarını İntaç Eden Avukat ve Saireye Verilecek Ücreti Vekalet Hakkında Kanun hükümleri kıyas yoluyla uygulanır.",
+      "preview": "(Mülga birinci fıkra: 11/10/2011-KHK-666/1 md.[13] (Mülga ikinci fıkra: 11/10/2011-KHK-666/1 md.) Genel Müdürlük lehine sonuçlanan dava ve i…",
+      "kitap": null,
+      "kisim": null,
+      "bolum": "DÖRDÜNCÜ BÖLÜM · İstihdam",
+      "ayirim": null,
+      "maddeBaslik": "Performans ve vekalet ücreti",
+      "sectionPath": [
+        "DÖRDÜNCÜ BÖLÜM · İstihdam",
+        "Performans ve vekalet ücreti"
+      ]
+    },
+    {
+      "id": "kanun:5737:m:73",
+      "maddeKind": "madde",
+      "maddeNo": "73",
+      "heading": "Madde 73",
+      "text": "(Mülga: 2/7/2018/KHK/703/102 md.)",
+      "preview": "(Mülga: 2/7/2018/KHK/703/102 md.)",
+      "kitap": null,
+      "kisim": "DÖRDÜNCÜ KISIM · Çeşitli Hükümler",
+      "bolum": null,
+      "ayirim": null,
+      "maddeBaslik": "Görev ve yetki",
+      "sectionPath": [
+        "DÖRDÜNCÜ KISIM · Çeşitli Hükümler",
+        "Görev ve yetki"
+      ]
+    },
+    {
+      "id": "kanun:5737:m:74",
+      "maddeKind": "madde",
+      "maddeNo": "74",
+      "heading": "Madde 74",
+      "text": "(Mülga: 2/7/2018/KHK/703/102 md.)",
+      "preview": "(Mülga: 2/7/2018/KHK/703/102 md.)",
+      "kitap": null,
+      "kisim": "DÖRDÜNCÜ KISIM · Çeşitli Hükümler",
+      "bolum": null,
+      "ayirim": null,
+      "maddeBaslik": "Yetki devri",
+      "sectionPath": [
+        "DÖRDÜNCÜ KISIM · Çeşitli Hükümler",
+        "Yetki devri"
+      ]
+    },
+    {
+      "id": "kanun:5737:m:75",
+      "maddeKind": "madde",
+      "maddeNo": "75",
+      "heading": "Madde 75",
+      "text": "Mazbut ve mülhak vakıfların vakfiyelerindeki şartlar doğrultusunda, ilgililerin hakları saklıdır. Bu hakların kullanılmasına ilişkin usûl ve esaslar yönetmelikle düzenlenir.",
+      "preview": "Mazbut ve mülhak vakıfların vakfiyelerindeki şartlar doğrultusunda, ilgililerin hakları saklıdır. Bu hakların kullanılmasına ilişkin usûl ve…",
+      "kitap": null,
+      "kisim": "DÖRDÜNCÜ KISIM · Çeşitli Hükümler",
+      "bolum": null,
+      "ayirim": null,
+      "maddeBaslik": "İntifa hakkı",
+      "sectionPath": [
+        "DÖRDÜNCÜ KISIM · Çeşitli Hükümler",
+        "İntifa hakkı"
+      ]
+    },
+    {
+      "id": "kanun:5737:m:76",
+      "maddeKind": "madde",
+      "maddeNo": "76",
+      "heading": "Madde 76",
+      "text": "Mülhak vakıflarda vakıf yönetimine, mülkiyet ve intifa hakkı iddiasına ait davalarda vakıf yönetimi ile Genel Müdürlük birlikte hasım gösterilir.",
+      "preview": "Mülhak vakıflarda vakıf yönetimine, mülkiyet ve intifa hakkı iddiasına ait davalarda vakıf yönetimi ile Genel Müdürlük birlikte hasım göster…",
+      "kitap": null,
+      "kisim": "DÖRDÜNCÜ KISIM · Çeşitli Hükümler",
+      "bolum": null,
+      "ayirim": null,
+      "maddeBaslik": "Mülhak vakıflarda hasım gösterilme",
+      "sectionPath": [
+        "DÖRDÜNCÜ KISIM · Çeşitli Hükümler",
+        "Mülhak vakıflarda hasım gösterilme"
+      ]
+    },
+    {
+      "id": "kanun:5737:m:77",
+      "maddeKind": "madde",
+      "maddeNo": "77",
+      "heading": "Madde 77",
+      "text": "Genel Müdürlüğe ve mazbut vakıflara ait taşınmazlar Devlet malı imtiyazından yararlanır, haczedilemez, rehnedilemezler. Tüm iş ve işlemleri, her türlü vergi, resim, harç ve kamu kurum ve kuruluşlarına ödenecek katılım payları ile değerli kâğıt ve işlem bedelinden istisnadır.[14]\n (Değişik ikinci fıkra:7/11/2024-7531/20 md.) Genel Müdürlük 2/7/1964 tarihli ve 492 sayılı Harçlar Kanununda sayılan yargı harçlarından muaftır. Genel Müdürlüğün dava, icra takibi ve geçici hukuki koruma tedbirleri gibi her türlü dava ve işte teminat gösterme zorunluluğu yoktur. Bu fıkra hükmü, Genel Müdürlüğün idare ve temsil ettiği mazbut vakıflar adına taraf olduğu dava, icra takibi ve geçici hukuki koruma tedbirleri gibi her türlü dava ve iş hakkında da uygulanır.\n Genel Müdürlüğün ve mazbut vakıfların tahsil edilemeyen gelirleri, 21/7/1953 tarihli ve 6183 sayılı Amme Alacaklarının Tahsil Usulü Hakkında Kanun hükümlerine göre Genel Müdürlükçe tahsil edilir.\n (Mülga dördüncü fıkra:7/11/2024-7531/20 md.)\n Vakıf kültür varlıklarının, restorasyon veya onarım karşılığı kiralama işlemleri, ceza ve ihalelerden yasaklama hükümleri hariç 2886 sayılı Devlet İhale Kanunu hükümlerine tâbi değildir.[15]\n (Değişik altıncı fıkra:7/11/2024-7531/20 md.) Vakıf kültür varlıklarının restorasyon veya onarım karşılığı kiralama işlemlerine ilişkin usul ve esaslar yönetmelikle düzenlenir.\n Yurt içi veya yurt dışında vakıf kültürünü araştırmak, geliştirmek ve desteklemek amacıyla gerçek ve tüzel kişiler; Genel Müdürlüğün görev alanı ile ilgili faaliyet ve yatırım programlarında yer alan her türlü ilmi organizasyon, stratejik araştırma, konferans, sempozyum ve benzeri kültürel faaliyetlerin yürütülmesi kapsamında sponsorluk yapabilirler. Bu faaliyetlerle ilgili sponsor kişi veya şirketler Genel Müdürlüğün belirleyeceği esaslar dahilinde reklam alabilirler. Vakıflar adına kayıtlı taşınır ve taşınmaz vakıf kültür varlıklarının; bakım, onarım ve restore edilmesi, yaşatılması, çevre düzenlemesi ve kamulaştırılması dahil Genel Müdürlüğün kontrolünde gerçek ve tüzel kişilerin kendileri tarafından yapılacak harcamalar, bağış ve yardımlar ile sponsorluk harcamalarının tamamı Gelir ve Kurumlar Vergisi matrahından düşülür.\n Kuruluşunda veya kurulduktan sonra vakıflara bağışlanan taşınır ve taşınmaz mallar Veraset ve İntikal Vergisinden istisnadır.",
+      "preview": "Genel Müdürlüğe ve mazbut vakıflara ait taşınmazlar Devlet malı imtiyazından yararlanır, haczedilemez, rehnedilemezler. Tüm iş ve işlemleri,…",
+      "kitap": null,
+      "kisim": "DÖRDÜNCÜ KISIM · Çeşitli Hükümler",
+      "bolum": null,
+      "ayirim": null,
+      "maddeBaslik": "Muafiyet ve istisnalar",
+      "sectionPath": [
+        "DÖRDÜNCÜ KISIM · Çeşitli Hükümler",
+        "Muafiyet ve istisnalar"
+      ]
+    },
+    {
+      "id": "kanun:5737:m:78",
+      "maddeKind": "madde",
+      "maddeNo": "78",
+      "heading": "Madde 78",
+      "text": "Bir sözleşme mevcut olmasa dahi, Genel Müdürlük menfaatinin olması kaydıyla hangi aşamada olursa olsun;\n a) Genel Müdürlük ile diğer kamu kurum, kuruluş, gerçek ve tüzel kişiler arasında çıkan hukukî ihtilafların anlaşma veya sözleşme değişikliği ile neticelendirilmesinde Meclis,\n b) Maddî ve hukukî sebeplerle takibinde veya yüksek dereceli mahkemelerce incelenmesini istemekte fayda umulmayan dava ve icra takiplerinden vazgeçilmesi, bir hakkın tanınması, menfaatin terkininde ellibin Türk Lirasına kadar Genel Müdür, bu miktarı aşanlarda Meclis,\n yetkilidir.\n Genel Müdür bu yetkisini kısmen veya tamamen Genel Müdür yardımcılarına, I. Hukuk Müşavirine veya bölge müdürlerine devredebilir.\n Bu maddenin uygulanmasına ve miktarların tespitine ilişkin hususlar Meclisçe belirlenir.",
+      "preview": "Bir sözleşme mevcut olmasa dahi, Genel Müdürlük menfaatinin olması kaydıyla hangi aşamada olursa olsun; a) Genel Müdürlük ile diğer kamu kur…",
+      "kitap": null,
+      "kisim": "DÖRDÜNCÜ KISIM · Çeşitli Hükümler",
+      "bolum": null,
+      "ayirim": null,
+      "maddeBaslik": "Dava ve icra takibi ile alacaklardan vazgeçme",
+      "sectionPath": [
+        "DÖRDÜNCÜ KISIM · Çeşitli Hükümler",
+        "Dava ve icra takibi ile alacaklardan vazgeçme"
+      ]
+    },
+    {
+      "id": "kanun:5737:m:79",
+      "maddeKind": "madde",
+      "maddeNo": "79",
+      "heading": "Madde 79",
+      "text": "a) (27/1/1954 tarihli ve 6237 sayılı Limanlar İnşaatı Hakkında Kanun ile ilgili olup yerine işlenmiştir.)\n b) (14/7/1965 tarihli ve 657 sayılı Devlet Memurları Kanunu ile ilgili olup yerine işlenmiştir.)\n c) (8/9/1983 tarihli ve 2886 sayılı Devlet İhale Kanunu ile ilgili olup yerine işlenmiştir.)\n d) (4/1/2002 tarihli ve 4734 sayılı Kamu İhale Kanunu ile ilgili olup yerine işlenmiştir.)",
+      "preview": "a) (27/1/1954 tarihli ve 6237 sayılı Limanlar İnşaatı Hakkında Kanun ile ilgili olup yerine işlenmiştir.) b) (14/7/1965 tarihli ve 657 sayıl…",
+      "kitap": null,
+      "kisim": "DÖRDÜNCÜ KISIM · Çeşitli Hükümler",
+      "bolum": null,
+      "ayirim": null,
+      "maddeBaslik": "Değiştirilen hükümler",
+      "sectionPath": [
+        "DÖRDÜNCÜ KISIM · Çeşitli Hükümler",
+        "Değiştirilen hükümler"
+      ]
+    },
+    {
+      "id": "kanun:5737:m:80",
+      "maddeKind": "madde",
+      "maddeNo": "80",
+      "heading": "Madde 80",
+      "text": "5/6/1935 tarihli ve 2762 sayılı Vakıflar Kanunu, 27/6/1956 tarihli ve 6760 sayılı Vakıflar Umum Müdürlüğü Vazife ve Teşkilâtı Hakkında Kanunun 16 ncı maddesi hariç diğer maddeleri, 20/4/1936 tarihli ve 2950 sayılı Vakıf Malların Taksitle Satılması ve Kiraya Verilmesi ve Satış Paralarının Kullanılması ve Emaneten İdare Edilen Mülhak Vakıflardan İdare ve Tahsil Masrafı Alınması Hakkında Kanun, 10/9/1957 tarihli ve 7044 sayılı Aslında Vakıf Olan Tarihi ve Mimari Kıymeti Haiz Eski Eserlerin Vakıflar Umum Müdürlüğüne Devrine Dair Kanun, 22/2/1926 tarihli ve 748 sayılı Emvalı Milliye ve Metrukeden veya Mazbut Vakıflardan, Bazı Müessesat ile Belediyelere Satılabilecek Arazi ve Arsalar Hakkında Kanun, 1/7/1953 tarihli ve 6092 sayılı Vakıf Zeytinlik, İncirlik, Fındıklık, Narenciye ve Meyvalıkların Satış Şekli Hakkında Kanun, 8/6/1984 tarihli ve 227 sayılı Vakıflar Genel Müdürlüğünün Teşkilat ve Görevleri Hakkında Kanun Hükmünde Kararname ve bu kanunların ek ve değişiklikleri ile 22/11/2001 tarihli ve 4721 sayılı Türk Medenî Kanununun 111 inci maddesinin ikinci fıkrası yürürlükten kaldırılmıştır.\n 23/2/1995 tarihli ve 547 sayılı Kanun Hükmünde Kararnamenin 20 nci maddesinde ve 27/6/1989 tarihli ve 375 sayılı Kanun Hükmünde Kararnamenin ek 3 üncü maddesinin birinci fıkrasında yer alan \"Vakıflar Genel Müdürlüğü\" ibareleri madde metinlerinden çıkarılmıştır.",
+      "preview": "5/6/1935 tarihli ve 2762 sayılı Vakıflar Kanunu, 27/6/1956 tarihli ve 6760 sayılı Vakıflar Umum Müdürlüğü Vazife ve Teşkilâtı Hakkında Kanun…",
+      "kitap": null,
+      "kisim": "DÖRDÜNCÜ KISIM · Çeşitli Hükümler",
+      "bolum": null,
+      "ayirim": null,
+      "maddeBaslik": "Yürürlükten kaldırılan hükümler",
+      "sectionPath": [
+        "DÖRDÜNCÜ KISIM · Çeşitli Hükümler",
+        "Yürürlükten kaldırılan hükümler"
+      ]
+    },
+    {
+      "id": "kanun:5737:m:gecici:1",
+      "maddeKind": "gecici",
+      "maddeNo": "1",
+      "heading": "Geçici Madde 1",
+      "text": "(Mülga: 2/7/2018/KHK/703/102 md.)",
+      "preview": "(Mülga: 2/7/2018/KHK/703/102 md.)",
+      "kitap": null,
+      "kisim": "DÖRDÜNCÜ KISIM · Çeşitli Hükümler",
+      "bolum": null,
+      "ayirim": null,
+      "maddeBaslik": "Yürürlükten kaldırılan hükümler",
+      "sectionPath": [
+        "DÖRDÜNCÜ KISIM · Çeşitli Hükümler",
+        "Yürürlükten kaldırılan hükümler"
+      ]
+    },
+    {
+      "id": "kanun:5737:m:gecici:2",
+      "maddeKind": "gecici",
+      "maddeNo": "2",
+      "heading": "Geçici Madde 2",
+      "text": "(Mülga: 2/7/2018/KHK/703/102 md.)",
+      "preview": "(Mülga: 2/7/2018/KHK/703/102 md.)",
+      "kitap": null,
+      "kisim": "DÖRDÜNCÜ KISIM · Çeşitli Hükümler",
+      "bolum": null,
+      "ayirim": null,
+      "maddeBaslik": "Yürürlükten kaldırılan hükümler",
+      "sectionPath": [
+        "DÖRDÜNCÜ KISIM · Çeşitli Hükümler",
+        "Yürürlükten kaldırılan hükümler"
+      ]
+    },
+    {
+      "id": "kanun:5737:m:gecici:3",
+      "maddeKind": "gecici",
+      "maddeNo": "3",
+      "heading": "Geçici Madde 3",
+      "text": "(Mülga: 2/7/2018/KHK/703/102 md.)",
+      "preview": "(Mülga: 2/7/2018/KHK/703/102 md.)",
+      "kitap": null,
+      "kisim": "DÖRDÜNCÜ KISIM · Çeşitli Hükümler",
+      "bolum": null,
+      "ayirim": null,
+      "maddeBaslik": "Yürürlükten kaldırılan hükümler",
+      "sectionPath": [
+        "DÖRDÜNCÜ KISIM · Çeşitli Hükümler",
+        "Yürürlükten kaldırılan hükümler"
+      ]
+    },
+    {
+      "id": "kanun:5737:m:gecici:4",
+      "maddeKind": "gecici",
+      "maddeNo": "4",
+      "heading": "Geçici Madde 4",
+      "text": "(Mülga: 2/7/2018/KHK/703/102 md.)",
+      "preview": "(Mülga: 2/7/2018/KHK/703/102 md.)",
+      "kitap": null,
+      "kisim": "DÖRDÜNCÜ KISIM · Çeşitli Hükümler",
+      "bolum": null,
+      "ayirim": null,
+      "maddeBaslik": "Yürürlükten kaldırılan hükümler",
+      "sectionPath": [
+        "DÖRDÜNCÜ KISIM · Çeşitli Hükümler",
+        "Yürürlükten kaldırılan hükümler"
+      ]
+    },
+    {
+      "id": "kanun:5737:m:gecici:5",
+      "maddeKind": "gecici",
+      "maddeNo": "5",
+      "heading": "Geçici Madde 5",
+      "text": "Vakıf şerhleri ile ilgili devam etmekte olan davalarda; diğer kanunlarda yer alan zamanaşımı ve hak düşürücü sürelere ilişkin hükümler bu Kanun açısından uygulanmaz.",
+      "preview": "Vakıf şerhleri ile ilgili devam etmekte olan davalarda; diğer kanunlarda yer alan zamanaşımı ve hak düşürücü sürelere ilişkin hükümler bu Ka…",
+      "kitap": null,
+      "kisim": "DÖRDÜNCÜ KISIM · Çeşitli Hükümler",
+      "bolum": null,
+      "ayirim": null,
+      "maddeBaslik": "Yürürlükten kaldırılan hükümler",
+      "sectionPath": [
+        "DÖRDÜNCÜ KISIM · Çeşitli Hükümler",
+        "Yürürlükten kaldırılan hükümler"
+      ]
+    },
+    {
+      "id": "kanun:5737:m:gecici:6",
+      "maddeKind": "gecici",
+      "maddeNo": "6",
+      "heading": "Geçici Madde 6",
+      "text": "Mülhak vakıfların vakfiyelerinde; intifa hakları hayır şartlarından fazla olanlar, vakıf yöneticisi ve ilgililerinin istekleri halinde, Meclis kararı alınarak, mahkemesince, 4721 sayılı Türk Medenî Kanununun 372 nci maddesinde belirtilen aile vakfına dönüştürülür.",
+      "preview": "Mülhak vakıfların vakfiyelerinde; intifa hakları hayır şartlarından fazla olanlar, vakıf yöneticisi ve ilgililerinin istekleri halinde, Mecl…",
+      "kitap": null,
+      "kisim": "DÖRDÜNCÜ KISIM · Çeşitli Hükümler",
+      "bolum": null,
+      "ayirim": null,
+      "maddeBaslik": "Yürürlükten kaldırılan hükümler",
+      "sectionPath": [
+        "DÖRDÜNCÜ KISIM · Çeşitli Hükümler",
+        "Yürürlükten kaldırılan hükümler"
+      ]
+    },
+    {
+      "id": "kanun:5737:m:gecici:7",
+      "maddeKind": "gecici",
+      "maddeNo": "7",
+      "heading": "Geçici Madde 7",
+      "text": "Cemaat vakıflarının;\n a) 1936 Beyannamelerinde kayıtlı olup, halen tasarruflarında bulunan nam-ı müstear veya nam-ı mevhumlar adına tapuda kayıtlı olan taşınmazlar,\n b) 1936 Beyannamesinden sonra cemaat vakıfları tarafından satın alınmış veya cemaat vakıflarına vasiyet edildiği veya bağışlandığı halde, mal edinememe gerekçesiyle halen; Hazine veya Genel Müdürlük ya da vasiyet edenler veya bağışlayanlar adına tapuda kayıtlı olan taşınmazlar,\n tapu kayıtlarındaki hak ve mükellefiyetleri ile birlikte bu Kanunun yürürlüğe girdiği tarihten itibaren onsekiz ay içinde müracaat edilmesi halinde, Meclisin olumlu kararından sonra, ilgili tapu sicil müdürlüklerince cemaat vakıfları adına tescilleri yapılır.",
+      "preview": "Cemaat vakıflarının; a) 1936 Beyannamelerinde kayıtlı olup, halen tasarruflarında bulunan nam-ı müstear veya nam-ı mevhumlar adına tapuda ka…",
+      "kitap": null,
+      "kisim": "DÖRDÜNCÜ KISIM · Çeşitli Hükümler",
+      "bolum": null,
+      "ayirim": null,
+      "maddeBaslik": "Yürürlükten kaldırılan hükümler",
+      "sectionPath": [
+        "DÖRDÜNCÜ KISIM · Çeşitli Hükümler",
+        "Yürürlükten kaldırılan hükümler"
+      ]
+    },
+    {
+      "id": "kanun:5737:m:gecici:8",
+      "maddeKind": "gecici",
+      "maddeNo": "8",
+      "heading": "Geçici Madde 8",
+      "text": "4046 sayılı Özelleştirme Uygulamaları Hakkında Kanun uyarınca Vakıflar Genel Müdürlüğüne tahsis edilmiş olan kadroların kullanılmasına devam olunur.",
+      "preview": "4046 sayılı Özelleştirme Uygulamaları Hakkında Kanun uyarınca Vakıflar Genel Müdürlüğüne tahsis edilmiş olan kadroların kullanılmasına devam…",
+      "kitap": null,
+      "kisim": "DÖRDÜNCÜ KISIM · Çeşitli Hükümler",
+      "bolum": null,
+      "ayirim": null,
+      "maddeBaslik": "Yürürlükten kaldırılan hükümler",
+      "sectionPath": [
+        "DÖRDÜNCÜ KISIM · Çeşitli Hükümler",
+        "Yürürlükten kaldırılan hükümler"
+      ]
+    },
+    {
+      "id": "kanun:5737:m:gecici:9",
+      "maddeKind": "gecici",
+      "maddeNo": "9",
+      "heading": "Geçici Madde 9",
+      "text": "Sağlık Bakanlığı kadrolarında bulunarak Bezm-i Alem Valide Sultan Vakıf Gureba Hastanesinde çalışırken Genel Müdürlük kadrolarına nakledilen personelin, 6/1/2005 tarihli ve 5283 sayılı Kanunun 5 inci maddesinin altıncı fıkrasında yer alan hükümlerden yararlandırılmasına devam olunur.\n Genel Müdürlüğe bağlı olarak faaliyette bulunan Ayvalık Vakıf Zeytinlikleri, Vakıf Memba Suları ve Bezm-i Alem Valide Sultan Vakıf Gureba Hastanesi işletmeleri; 5018 sayılı Kamu Malî Yönetimi ve Kontrol Kanununun geçici 11 inci maddesi hükmüne göre, döner sermayeli işletmelerin yeniden yapılandırılması ile ilgili düzenleme yapılıncaya kadar faaliyetlerini döner sermaye işletmesi olarak yürütmeye devam ederler.",
+      "preview": "Sağlık Bakanlığı kadrolarında bulunarak Bezm-i Alem Valide Sultan Vakıf Gureba Hastanesinde çalışırken Genel Müdürlük kadrolarına nakledilen…",
+      "kitap": null,
+      "kisim": "DÖRDÜNCÜ KISIM · Çeşitli Hükümler",
+      "bolum": null,
+      "ayirim": null,
+      "maddeBaslik": "Yürürlükten kaldırılan hükümler",
+      "sectionPath": [
+        "DÖRDÜNCÜ KISIM · Çeşitli Hükümler",
+        "Yürürlükten kaldırılan hükümler"
+      ]
+    },
+    {
+      "id": "kanun:5737:m:gecici:10",
+      "maddeKind": "gecici",
+      "maddeNo": "10",
+      "heading": "Geçici Madde 10",
+      "text": "(Ek:13/2/2011-6111/209 md.)\n Bu maddenin yürürlüğe girdiği tarih itibarıyla bu Kanunun 7 nci maddesine eklenen hükümler, bu maddenin yürürlüğe girdiği tarihten önce açılmış ve halen devam eden intifa haklarının ödenmesi, malvarlığı ve gelirlerinin tespitine ilişkin davalarda da uygulanır.",
+      "preview": "(Ek:13/2/2011-6111/209 md.) Bu maddenin yürürlüğe girdiği tarih itibarıyla bu Kanunun 7 nci maddesine eklenen hükümler, bu maddenin yürürlüğ…",
+      "kitap": null,
+      "kisim": "DÖRDÜNCÜ KISIM · Çeşitli Hükümler",
+      "bolum": null,
+      "ayirim": null,
+      "maddeBaslik": "Yürürlükten kaldırılan hükümler",
+      "sectionPath": [
+        "DÖRDÜNCÜ KISIM · Çeşitli Hükümler",
+        "Yürürlükten kaldırılan hükümler"
+      ]
+    },
+    {
+      "id": "kanun:5737:m:gecici:11",
+      "maddeKind": "gecici",
+      "maddeNo": "11",
+      "heading": "Geçici Madde 11",
+      "text": "(Ek: 22/8/2011-KHK-651/17 md. )\n Cemaat vakıflarının;\n a) 1936 Beyannamesinde kayıtlı olup malik hanesi açık olan taşınmazları,\n b) 1936 Beyannamesinde kayıtlı olup kamulaştırma, satış ve trampa dışındaki nedenlerle Hazine, Vakıflar Genel Müdürlüğü, belediye ve il özel idaresi adına kayıtlı taşınmazları,\n c) 1936 Beyannamesinde kayıtlı olup kamu kurumları adına tescilli olan mezarlıkları ve çeşmeleri,\n tapu kayıtlarındaki hak ve mükellefiyetleri ile birlikte bu maddenin yürürlüğe girdiği tarihten itibaren oniki ay içinde müracaat edilmesi halinde, Meclisin olumlu kararından sonra, ilgili tapu sicil müdürlüklerince cemaat vakıfları adına tescil edilir.\n Cemaat vakıfları tarafından satın alınmış veya cemaat vakıflarına vasiyet edildiği veya bağışlandığı halde, mal edinememe gerekçesiyle Hazine veya Genel Müdürlük adına tapuda kayıt edilen taşınmazlardan üçüncü şahıslar adına kayıtlı olanların Maliye Bakanlığınca tespit edilen rayiç değeri Hazine veya Genel Müdürlük tarafından ödenir.\n Bu maddenin uygulanmasına ilişkin usul ve esaslar yönetmelikle düzenlenir.",
+      "preview": "(Ek: 22/8/2011-KHK-651/17 md. ) Cemaat vakıflarının; a) 1936 Beyannamesinde kayıtlı olup malik hanesi açık olan taşınmazları, b) 1936 Beyann…",
+      "kitap": null,
+      "kisim": "DÖRDÜNCÜ KISIM · Çeşitli Hükümler",
+      "bolum": null,
+      "ayirim": null,
+      "maddeBaslik": "Yürürlükten kaldırılan hükümler",
+      "sectionPath": [
+        "DÖRDÜNCÜ KISIM · Çeşitli Hükümler",
+        "Yürürlükten kaldırılan hükümler"
+      ]
+    },
+    {
+      "id": "kanun:5737:m:gecici:12",
+      "maddeKind": "gecici",
+      "maddeNo": "12",
+      "heading": "Geçici Madde 12",
+      "text": "(Ek: 12/7/2013-6495/50 md.)\n 1/1/1990 tarihinden bu maddenin yayımı tarihine kadar Genel Müdürlüğün dağıtılma talebiyle açtığı dava sonucunda dağılmasına veya dağıtılmasına karar verilen yeni vakıfların hayatta bulunan kurucularının birlikte başvurusu üzerine vakfın adı ve amacı aynı olmak kaydıyla bin lira kuruluş malvarlığı tahsis edilerek Türk Medeni Kanunu hükümlerine göre yeni bir vakıf kurulabilir.\n Kurulan bu vakıflar 4721 sayılı Kanun ve bu Kanun hükümlerine göre faaliyette bulunurlar, ancak kanunla kurulan vakıf statüsünde sayılmazlar.\n Dağıtılan vakfın Genel Müdürlüğe intikal eden ve hâlihazırda Genel Müdürlük tarafından tasarruf edilen taşınmazları, yeni kurulan vakfa mahkeme siciline tescilinden itibaren üç ay içinde devredilir. Devredilen mallarla ilgili başkaca bir talepte bulunulamaz.",
+      "preview": "(Ek: 12/7/2013-6495/50 md.) 1/1/1990 tarihinden bu maddenin yayımı tarihine kadar Genel Müdürlüğün dağıtılma talebiyle açtığı dava sonucunda…",
+      "kitap": null,
+      "kisim": "DÖRDÜNCÜ KISIM · Çeşitli Hükümler",
+      "bolum": null,
+      "ayirim": null,
+      "maddeBaslik": "Yürürlükten kaldırılan hükümler",
+      "sectionPath": [
+        "DÖRDÜNCÜ KISIM · Çeşitli Hükümler",
+        "Yürürlükten kaldırılan hükümler"
+      ]
+    },
+    {
+      "id": "kanun:5737:m:gecici:13",
+      "maddeKind": "gecici",
+      "maddeNo": "13",
+      "heading": "Geçici Madde 13",
+      "text": "(Ek: 21/3/2017-7103/78 md.)\n Genel Müdürlüğün mülkiyetinde bulunan aşağıdaki listede belirtilen taşınmazlar, tapu kayıtlarındaki hak ve mükellefiyetleri ile birlikte, taşınmazların bulunduğu bölgede yer alan Süryani cemaatine ait vakıflar arasından Vakıflar Meclisinin kararı ile belirlenecek vakıflar adına, ilgili tapu sicil müdürlüklerince tescil edilir.",
+      "preview": "(Ek: 21/3/2017-7103/78 md.) Genel Müdürlüğün mülkiyetinde bulunan aşağıdaki listede belirtilen taşınmazlar, tapu kayıtlarındaki hak ve mükel…",
+      "kitap": null,
+      "kisim": "DÖRDÜNCÜ KISIM · Çeşitli Hükümler",
+      "bolum": null,
+      "ayirim": null,
+      "maddeBaslik": "Yürürlükten kaldırılan hükümler",
+      "sectionPath": [
+        "DÖRDÜNCÜ KISIM · Çeşitli Hükümler",
+        "Yürürlükten kaldırılan hükümler"
+      ]
+    },
+    {
+      "id": "kanun:5737:m:gecici:14",
+      "maddeKind": "gecici",
+      "maddeNo": "14",
+      "heading": "Geçici Madde 14",
+      "text": "(Ek: 25/3/2020 - 7226/34 md.)\n 20 nci maddenin üçüncü ve dördüncü fıkraları, bu maddenin yürürlüğe girdiği tarihte Genel Müdürlüğe ve mazbut vakıflara ait taşınmazların devam eden kiralamalarında da uygulanır. Ancak bu kiralamalarda altı aylık teminat alınmaz.\n Genel Müdürlüğe ve mazbut vakıflara ait taşınmazların devam eden kiralamalarında birikmiş üç aylık veya daha fazla kira borcu olanların bu maddenin yürürlüğe girdiği tarihten itibaren üç ay içinde borcunu tamamen ödememesi halinde kira sözleşmeleri feshedilmiş sayılır. Bu durum Genel Müdürlük tarafından mülki amirliğe derhal bildirilir ve taşınmaz mülki amirlikçe en geç on beş gün içinde tahliye ve teslim edilir.",
+      "preview": "(Ek: 25/3/2020 - 7226/34 md.) 20 nci maddenin üçüncü ve dördüncü fıkraları, bu maddenin yürürlüğe girdiği tarihte Genel Müdürlüğe ve mazbut…",
+      "kitap": null,
+      "kisim": "DÖRDÜNCÜ KISIM · Çeşitli Hükümler",
+      "bolum": null,
+      "ayirim": null,
+      "maddeBaslik": "Yürürlükten kaldırılan hükümler",
+      "sectionPath": [
+        "DÖRDÜNCÜ KISIM · Çeşitli Hükümler",
+        "Yürürlükten kaldırılan hükümler"
+      ]
+    },
+    {
+      "id": "kanun:5737:m:gecici:15",
+      "maddeKind": "gecici",
+      "maddeNo": "15",
+      "heading": "Geçici Madde 15",
+      "text": "(Ek:20/11/2025-7565/13 md.)\n Genel Müdürlüğe veya mazbut vakıflara ait taşınmazlarda kiracılık ilişkisi nizalı şekilde devam edenler veya 30/6/2025 tarihinden önce işgalci olanlar ile taşınmazları ticari faaliyetlerde kullanan mevcut kiracılarla; Genel Müdürlüğe herhangi bir borcunun bulunmaması, Genel Müdürlüğe karşı açtıkları davalardan tüm yargılama giderlerini üstlenerek kayıtsız ve şartsız olarak feragat etmeleri, belirlenecek yeni kira bedeli ve kira şartlarını kabul etmeleri ve bu maddenin yürürlüğe girdiği tarihten itibaren altı ay içinde başvurmaları halinde bu Kanunun 20 nci maddesi kapsamında beş yıla kadar kira sözleşmesi yapılabilir.\n Genel Müdürlüğe veya mazbut vakıflara ait taşınmazlarda işgalci olanlardan bu madde kapsamında başvurmayanlar ile Genel Müdürlük tarafından belirlenen sözleşmeyi imzalamayanlar, 2886 sayılı Kanunun 75 inci maddesi uyarınca tahliye edilir.\n Bu maddenin uygulanmasına ilişkin usul ve esasları belirlemeye Genel Müdürlük yetkilidir.\n\n SIRA NO\n İLİ\n İLÇESİ\n KÖYÜ/MAHALLE\n PAFTA\n ADA\n PARSEL\n\n 1\n MARDİN\n NUSAYBİN\n DAĞİÇİ\n -\n 118\n 1\n\n 2\n MARDİN\n NUSAYBİN\n DİBEK\n -\n 101\n 2\n\n 3\n MARDİN\n NUSAYBİN\n DİBEK\n -\n 108\n 24\n\n 4\n MARDİN\n NUSAYBİN\n DİBEK\n -\n 110\n 31\n\n 5\n MARDİN\n NUSAYBİN\n TAŞKÖY\n -\n 118\n 6\n\n 6\n MARDİN\n NUSAYBİN\n TAŞKÖY\n -\n 119\n 2\n\n 7\n MARDİN\n NUSAYBİN\n TAŞKÖY\n -\n 119\n 4\n\n 8\n MARDİN\n NUSAYBİN\n TAŞKÖY\n -\n 119\n 15\n\n 9\n MARDİN\n NUSAYBİN\n TAŞKÖY\n -\n 132\n 9\n\n 10\n MARDİN\n NUSAYBİN\n TAŞKÖY\n -\n 135\n 26\n\n 11\n MARDİN\n NUSAYBİN\n TAŞKÖY\n -\n 137\n 1\n\n 12\n MARDİN\n NUSAYBİN\n ÜÇKÖY\n -\n 101\n 2\n\n 13\n MARDİN\n NUSAYBİN\n ÜÇKÖY\n -\n 102\n 5\n\n 14\n MARDİN\n NUSAYBİN\n ÜÇKÖY\n -\n 105\n 42\n\n 15\n MARDİN\n NUSAYBİN\n ÜÇKÖY\n -\n 134\n 4\n\n 16\n MARDİN\n NUSAYBİN\n ÜÇKÖY\n -\n 149\n 45\n\n 17\n MARDİN\n NUSAYBİN\n ÜÇKÖY\n -\n 149\n 53\n\n 18\n MARDİN\n NUSAYBİN\n ÜÇKÖY\n -\n 149\n 66\n\n 19\n MARDİN\n NUSAYBİN\n ÜÇKÖY\n -\n 150\n 2\n\n 20\n MARDİN\n NUSAYBİN\n ÜÇYOL\n -\n 109\n 3\n\n 21\n MARDİN\n DARGEÇİT\n ÇATALÇAM\n M47-D-1\n 128\n 1\n\n 22\n MARDİN\n SAVUR\n DEREİÇİ KÖYÜ\n M45-C20-C\n 126\n 11\n\n 23\n MARDİN\n SAVUR\n DEREİÇİ KÖYÜ\n M45-C20-D\n 120\n 6\n\n 24\n MARDİN\n SAVUR\n DEREİÇİ KÖYÜ\n M45-C-25-A\n 148\n 1\n\n 25\n MARDİN\n SAVUR\n DEREİÇİ KÖYÜ\n M45-C-25-A\n 148\n 13\n\n 26\n MARDİN\n SAVUR\n DEREİÇİ KÖYÜ\n M45-C-25-A\n 175\n 1\n\n 27\n MARDİN\n NUSAYBİN\n ODABAŞI\n -\n -\n 90\n\n 28\n MARDİN\n NUSAYBİN\n GÜNYURDU\n -\n -\n 88\n\n 29\n MARDİN\n NUSAYBİN\n BALABAN\n -\n -\n 173\n\n 30\n MARDİN\n MİDYAT\n BAĞLARBAŞI\n -\n 140\n 3\n\n 31\n MARDİN\n MİDYAT\n MERCİMEKLİ\n -\n 122\n 1\n\n 32\n MARDİN\n MİDYAT\n MERCİMEKLİ\n -\n 134\n 1\n\n 33\n MARDİN\n MİDYAT\n MERCİMEKLİ\n -\n 108\n 63\n\n 34\n MARDİN\n MİDYAT\n DOĞANÇAY\n -\n 149\n 1\n\n 35\n MARDİN\n MİDYAT\n ALAGÖZ\n -\n 129\n 56\n\n 36\n MARDİN\n MİDYAT\n ALAGÖZ\n -\n 145\n 1\n\n 37\n MARDİN\n MİDYAT\n ALTINTAŞ\n -\n 105\n 471\n\n 38\n MARDİN\n MİDYAT\n ALTINTAŞ\n -\n 118\n 43\n\n 39\n MARDİN\n MİDYAT\n ALTINTAŞ\n -\n 123\n 11\n\n 40\n MARDİN\n MİDYAT\n ALTINTAŞ\n -\n 131\n 14\n\n 41\n MARDİN\n MİDYAT\n ANITLI\n -\n 118\n 16\n\n 42\n MARDİN\n MİDYAT\n ANITLI\n -\n 107\n 7\n\n 43\n MARDİN\n MİDYAT\n ANITLI\n -\n 107\n 24\n\n 44\n MARDİN\n MİDYAT\n ANITLI\n -\n 112\n 20\n\n 45\n MARDİN\n MİDYAT\n ANITLI\n -\n 132\n 7\n\n 46\n MARDİN\n MİDYAT\n ANITLI\n -\n 135\n 8\n\n 47\n MARDİN\n MİDYAT\n ANITLI\n -\n 136\n 7\n\n 48\n MARDİN\n MİDYAT\n ANITLI\n -\n 103\n 72\n\n 49\n MARDİN\n MİDYAT\n ANITLI\n -\n 136\n 14\n\n 50\n MARDİN\n MİDYAT\n BARDAKÇI\n -\n 150\n 4\n\n 51\n MARDİN\n NUSAYBİN\n BALABAN\n -\n -\n 194\n\n 52\n MARDİN\n NUSAYBİN\n ESKİHİSAR\n -\n -\n 33\n\n 53\n MARDİN\n NUSAYBİN\n GÜNYURDU\n -\n -\n 90\n\n 54\n MARDİN\n NUSAYBİN\n GÜNYURDU\n -\n -\n 107\n\n 55\n MARDİN\n NUSAYBİN\n ÜÇKÖY\n -\n 105\n 43\n\n 56\n MARDİN\n DARGEÇİT\n ÇATALÇAM\n -\n 104\n 53",
+      "preview": "(Ek:20/11/2025-7565/13 md.) Genel Müdürlüğe veya mazbut vakıflara ait taşınmazlarda kiracılık ilişkisi nizalı şekilde devam edenler veya 30/…",
+      "kitap": null,
+      "kisim": "DÖRDÜNCÜ KISIM · Çeşitli Hükümler",
+      "bolum": null,
+      "ayirim": null,
+      "maddeBaslik": "Yürürlükten kaldırılan hükümler",
+      "sectionPath": [
+        "DÖRDÜNCÜ KISIM · Çeşitli Hükümler",
+        "Yürürlükten kaldırılan hükümler"
+      ]
+    },
+    {
+      "id": "kanun:5737:m:81",
+      "maddeKind": "madde",
+      "maddeNo": "81",
+      "heading": "Madde 81",
+      "text": "Bu Kanun yayımı tarihinde yürürlüğe girer.",
+      "preview": "Bu Kanun yayımı tarihinde yürürlüğe girer.",
+      "kitap": null,
+      "kisim": "DÖRDÜNCÜ KISIM · Çeşitli Hükümler",
+      "bolum": null,
+      "ayirim": null,
+      "maddeBaslik": "Yürürlük",
+      "sectionPath": [
+        "DÖRDÜNCÜ KISIM · Çeşitli Hükümler",
+        "Yürürlük"
+      ]
+    },
+    {
+      "id": "kanun:5737:m:82",
+      "maddeKind": "madde",
+      "maddeNo": "82",
+      "heading": "Madde 82",
+      "text": "Bu Kanun hükümlerini Bakanlar Kurulu yürütür.\n\n (I) SAYILI CETVEL\n\n VAKIFLAR GENEL MÜDÜRLÜĞÜ MERKEZ TEŞKİLATI\n (Mülga: 2/7/2018/KHK/703/102 md.)\n\n (II) SAYILI CETVEL\n\n VAKIFLAR GENEL MÜDÜRLÜĞÜ\n (TAŞRA TEŞKİLATI)\n (Mülga: 2/7/2018/KHK/703/102 md.)\n\n (III) SAYILI CETVEL\n (Mülga: 11/10/2011-KHK-666/1 md.)\n\n 5737 SAYILI KANUNA EK VE DEĞİŞİKLİK GETİREN MEVZUATIN VEYA\n ANAYASA MAHKEMESİ TARAFINDAN İPTAL EDİLEN HÜKÜMLERİN\n YÜRÜRLÜĞE GİRİŞ TARİHİNİ GÖSTERİR LİSTE\n\n Değiştiren Kanunun/ İptal Eden Anayasa Mahkemesinin Kararının Numarası\n 5737 Sayılı Kanunun Değişen veya İptal Edilen Maddeleri\n Yürürlüğe Giriş Tarihi\n\n 5917\n III Sayılı Cetvel\n 1/7/2009 tarihinden geçerli olmak üzere 10/7/2009\n\n 6111\n 7 ve Geçici madde 10\n 25/2/2011\n\n Anayasa Mahkemesi’nin 17/6/2010 tarihli ve E.: 2008/22, K.: 2010/82 sayılı Kararı\n 68\n 11/7/2011\n\n KHK/651\n 35, 52, 68, Geçici Madde 11\n 27/8/2011\n\n KHK/666\n 67, 72, III Sayılı Cetvel\n 14/1/2012 tarihinden geçerli olmak üzere 2/11/2011\n\n 6456\n 28\n 27/2/2008 tarihinden itibaren geçerli olmak üzere 18/4/2013 tarihinde\n\n 6462\n 43\n 3/5/2013\n\n 6495\n 10, 24, Geçici Madde 12\n 2/8/2013\n\n Anayasa Mahkemesi’nin 27/12/2012 tarihli ve E.: 2011/139, K.: 2012/205 sayılı Kararı\n 67, 72\n 10/10/2013\n\n 7061\n 20, 52\n 5/12/2017\n\n 7103\n Geçici Madde 13\n 27/3/2018\n\n KHK/703\n 1,20,26, 35,36,37 ila 42,43,44,\n 45,46,47 ila 51, 52,53 ila 71,\n 73,74, Geçici Madde 1 İla Geçici Madde 4,\n (I) ve (II) sayılı cetveller\n 24/6/2018 tarihinde birlikte yapılan Türkiye Büyük Millet Meclisi ve Cumhurbaşkanlığı seçimleri sonucunda Cumhurbaşkanının andiçerek göreve başladığı tarihte (9/7/2018)\n\n 7226\n 20, Geçici madde 14\n 1/1/2021\n\n 7451\n 20\n 10/4/2023\n\n 7531\n 77\n 14/11/2024\n\n 7565\n 20, 30, 34, Geçici Madde 15\n 5/12/2025\n\n [1] Anayasa Mahkemesinin 7/12/2023 Tarihli ve E: 2021/125, K: 2023/213 Sayılı Kararı ile bu Kanunun 35. Maddesinin, 36. Maddesinin birinci fıkrası ile ikinci fıkrasının birinci cümlesinin, 37 ila 42. Maddelerinin, 43. Maddesinin birinci ve üçüncü fıkralarının, 44. ve 45. Maddelerinin, 46. Maddesinin üçüncü fıkrasının, 47 ila 51. Maddelerinin, 52. Maddesinin (a), (b), (c), (f), (g) ve (h) bentlerinin, 53 ila 71., 73., 74., geçici 1 ila geçici 4. Maddeleri ile ekli (I) ve (II) sayılı cetvellerin yürürlükten kaldırılması iptal edilmiştir.\n\n [2] 2/7/2018 tarihli ve 703 sayılı KHK’nin 102 nci maddesiyle, bu fıkrada yer alan “; Vakıflar Genel Müdürlüğünün kuruluşu ile Genel Müdürlüğün teşkilât, görev, yetki ve sorumluluklarının düzenlenmesi” ibaresi madde metninden çıkarılmıştır.\n\n [3] 12/7/2013 tarihli ve 6495 sayılı Kanunun 48 inci maddesiyle, bu fıkrada yer alan “(c), (e) ve (f) bentlerinde” ibaresi “(c) ve (e) bentlerinde” şeklinde değiştirilmiştir.\n\n [4] 25/3/2020 tarihli ve 7226 sayılı Kanunun 33 üncü maddesiyle, bu maddenin başlığı ‘Kira süresi’ iken metne işlendiği şeklinde değiştirilmiştir.\n\n [5] 2/7/2018 tarihli ve 703 sayılı KHK’nin 102 nci maddesiyle, bu fıkrada yer alan “Başbakan Yardımcısının” ibaresi “Bakanın” şeklinde değiştirilmiştir.\n\n [6] 20/11/2025 tarihli ve 7565 sayılı Kanunun 10 uncu maddesiyle bu fıkranın ilk cümlesinde yer alan “üç” ibaresi “beş” şeklinde değiştirilmiştir.\n\n [7] 20/11/2025 tarihli ve 7565 sayılı Kanunun 10 uncu maddesiyle fıkrada yer alan “altı aylık” ibaresi madde metninden çıkartılmıştır.\n\n [8] 4/4/2023 tarihli ve 7451 sayılı Kanunun 17 nci maddesiyle bu fıkranın birinci cümlesinde yer alan “mazbut vakıflara ait taşınmazların” ibaresinden sonra gelmek üzere “yatırım karşılığı uzun süreli kira sözleşmeleri hariç olmak üzere” ibaresi eklenmiştir.\n\n [9] 2/7/2018 tarihli ve 703 sayılı KHK’nin 102 nci maddesiyle, bu fıkrada yer alan “Bakanlar Kurulu” ibaresi “Cumhurbaşkanı” şeklinde değiştirilmiştir.\n\n [10] 20/11/2025 tarihli ve 7565 sayılı Kanunun 12 nci maddesiyle bu fıkrada yer alan “yirmisi” ibaresi “kırkı” şeklinde değiştirilmiştir.\n\n [11] 22/8/2011 tarihli ve 651 sayılı KHK’nın 15 inci maddesi ile bu maddenin birinci fıkrasına (c) bendinden sonra gelmek üzere (d) bendi eklenmiş ve mevcut bentler buna göre teselsül ettirilmiştir.\n\n [12] 28/11/2017 tarihli ve 7061 sayılı Kanunun 95 inci maddesiyle, bu maddenin birinci fıkrasına (f) bendinden sonra gelmek üzere (g) bendi eklenmiş ve mevcut (g) bendi (h) bendi olarak teselsül ettirilmiştir.\n\n [13] 11/10/2011 tarihli ve 666 sayılı KHK ile bu fıkrada yapılan düzenleme; 10/10/2013 tarihli ve 28791 sayılı Resmi Gazete’de yayımlanan Anayasa Mahkemesi’nin 27/12/2012 tarihli ve E.: 2011/139, K.: 2012/205 sayılı Kararı ile iptal edilmiştir.\n\n [14] 7/11/2024 tarihli ve 7531 sayılı Kanunun 20 nci maddesiyle bu fıkrada yer alan “katılım payından” ibaresi “kamu kurum ve kuruluşlarına ödenecek katılım payları ile değerli kâğıt ve işlem bedelinden” şeklinde değiştirilmiştir.\n\n [15] 7/11/2024 tarihli ve 7531 sayılı Kanunun 20 nci maddesiyle bu fıkraya “işlemleri,” ibaresinden sonra gelmek üzere “ceza ve ihalelerden yasaklama hükümleri hariç” ibaresi eklenmiştir.",
+      "preview": "Bu Kanun hükümlerini Bakanlar Kurulu yürütür. (I) SAYILI CETVEL VAKIFLAR GENEL MÜDÜRLÜĞÜ MERKEZ TEŞKİLATI (Mülga: 2/7/2018/KHK/703/102 md.)…",
+      "kitap": null,
+      "kisim": "DÖRDÜNCÜ KISIM · Çeşitli Hükümler",
+      "bolum": null,
+      "ayirim": null,
+      "maddeBaslik": "Yürütme",
+      "sectionPath": [
+        "DÖRDÜNCÜ KISIM · Çeşitli Hükümler",
+        "Yürütme"
+      ]
+    }
+  ]
+}

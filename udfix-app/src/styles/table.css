@@ -1,0 +1,248 @@
+:root {
+    /* Light Mode Değişkenleri */
+    --fallback-border: #e5e7eb;
+    --table-border-color: var(--primary, var(--fallback-border));
+    --table-header-bg: var(--muted, #f9fafb);
+    --table-row-hover-bg: rgba(0, 0, 0, 0.02);
+    --selected-cell-bg: rgba(59, 130, 246, 0.1);
+    --table-glass-blur: 8px;
+}
+
+/* Dark Mode Düzenlemesi */
+.dark {
+    /* Dark modda borderlar için primary rengi kullanıyoruz */
+    --table-border-color: var(--primary, rgba(59, 130, 246, 0.3));
+    --table-header-bg: rgba(255, 255, 255, 0.05);
+    --table-row-hover-bg: rgba(255, 255, 255, 0.05);
+    --selected-cell-bg: rgba(255, 255, 255, 0.1);
+}
+
+/* Base Table Styles — .table-plus is the real table in tiptap-table-plus node view */
+.ProseMirror table,
+.ProseMirror table.table-plus {
+    border-collapse: collapse;
+    margin: 1rem 0;
+    overflow: hidden;
+    table-layout: fixed;
+    width: 100%;
+    max-width: 100%;
+    box-sizing: border-box;
+    border-radius: var(--radius, 0.5rem);
+    backdrop-filter: blur(var(--table-glass-blur));
+    border: var(--table-border-width, 1px) var(--table-border-style, solid) var(--table-border-color) !important;
+}
+
+.ProseMirror td,
+.ProseMirror th {
+    border: var(--table-border-width, 1px) var(--table-border-style, solid) var(--table-border-color) !important;
+    padding: 10px 12px;
+    vertical-align: top;
+    box-sizing: border-box;
+    position: relative;
+    transition: all 0.2s ease;
+}
+
+.ProseMirror th {
+    font-weight: 600;
+    text-align: left;
+    background-color: var(--table-header-bg) !important;
+    color: var(--foreground);
+}
+
+/* Başlık satırı / ilk satır başlık hücreleri — tableHeader ile uyumlu vurgu */
+.ProseMirror table thead th,
+.ProseMirror table tr:first-child th {
+    background-color: var(--table-header-bg) !important;
+}
+
+.ProseMirror tr {
+    transition: background-color 0.15s ease;
+}
+
+/* Hover effect */
+.ProseMirror tr:hover td {
+    background-color: var(--table-row-hover-bg);
+}
+
+.ProseMirror .selectedCell:after {
+    z-index: 2;
+    position: absolute;
+    content: "";
+    left: 0;
+    right: 0;
+    top: 0;
+    bottom: 0;
+    background: var(--selected-cell-bg);
+    pointer-events: none;
+    border: 1.5px solid var(--primary);
+}
+
+/* Note: tiptap-table-plus uses its own handle system via TablePlusNodeView */
+/* These styles are for the tiptap-table-plus slider handles */
+.ProseMirror .table-plus-wrapper .handle {
+    position: absolute;
+    top: 50%;
+    width: 12px;
+    height: 12px;
+    z-index: 9999;
+    border-radius: 50%;
+    transform: translate(-50%, -50%);
+    cursor: ew-resize;
+    background: var(--primary);
+    border: 2px solid var(--background);
+    box-shadow: 0 1px 3px rgba(0, 0, 0, 0.3);
+}
+
+/* Standard column-resize-handle (fallback for non-pagination tables) */
+.column-resize-handle {
+    background-color: var(--primary);
+    bottom: 0;
+    position: absolute;
+    right: -2px;
+    top: 0;
+    width: 4px;
+    z-index: 20;
+    opacity: 0;
+    transition: opacity 0.2s;
+    cursor: col-resize;
+    pointer-events: auto;
+}
+
+.ProseMirror table:hover .column-resize-handle {
+    opacity: 0.3;
+}
+
+.ProseMirror th:hover .column-resize-handle,
+.ProseMirror td:hover .column-resize-handle {
+    opacity: 1;
+}
+
+/* Active resizing state */
+.ProseMirror.resize-cursor {
+    cursor: col-resize;
+}
+
+.ProseMirror .column-resize-handle.active {
+    opacity: 1;
+    background-color: var(--primary);
+    width: 6px;
+    right: -3px;
+}
+
+.dark .ProseMirror td {
+    box-shadow: inset 0 0 0 calc(var(--table-border-width) * 0.5) var(--table-border-color);
+}
+
+/* UYAP borderNone form tables — no forced grid, allow content to grow */
+.ProseMirror table.uyap-border-none,
+.ProseMirror table[data-uyap-border="none"] {
+    --table-border-width: 0px;
+    --table-border-style: none;
+    border: none !important;
+    overflow: visible;
+    table-layout: auto;
+    margin: 0.25rem 0;
+    border-radius: 0;
+    backdrop-filter: none;
+}
+
+.ProseMirror table.uyap-border-none td,
+.ProseMirror table.uyap-border-none th,
+.ProseMirror table[data-uyap-border="none"] td,
+.ProseMirror table[data-uyap-border="none"] th {
+    border: none !important;
+    box-shadow: none !important;
+    padding: 4px 6px;
+    overflow: visible;
+}
+
+/* Amount / form value cells: don't clip right-aligned figures */
+.ProseMirror table.uyap-border-none td p[style*="text-align: right"],
+.ProseMirror table[data-uyap-border="none"] td p[style*="text-align: right"] {
+    overflow: visible;
+    text-indent: 0 !important;
+    padding-left: 0 !important;
+}
+
+.ProseMirror table.uyap-border-none tr:hover td,
+.ProseMirror table[data-uyap-border="none"] tr:hover td {
+    background-color: transparent;
+}
+
+.ProseMirror td table.uyap-border-none,
+.ProseMirror th table.uyap-border-none,
+.ProseMirror td table[data-uyap-border="none"],
+.ProseMirror th table[data-uyap-border="none"] {
+    margin: 0;
+    width: 100%;
+}
+
+/* Birleşik hücre: sürekli "seçili" görünmesin — sadece seçili hücrede hafif ton */
+.ProseMirror td[colspan]:not([colspan="1"]),
+.ProseMirror th[colspan]:not([colspan="1"]),
+.ProseMirror td[rowspan]:not([rowspan="1"]),
+.ProseMirror th[rowspan]:not([rowspan="1"]) {
+    background-color: color-mix(in srgb, var(--selected-cell-bg) 35%, transparent);
+}
+
+.ProseMirror th[colspan]:not([colspan="1"]),
+.ProseMirror th[rowspan]:not([rowspan="1"]) {
+    background-color: color-mix(in srgb, var(--table-header-bg) 85%, var(--selected-cell-bg) 15%) !important;
+}
+
+/* Ensure colgroup columns maintain their widths */
+.ProseMirror colgroup col {
+    min-width: var(--table-col-min-width, 25px);
+}
+
+/* Fix for merged cell selection highlighting */
+.ProseMirror .selectedCell {
+    position: relative;
+}
+
+/* Prevent width collapse during merge/split operations */
+.ProseMirror table[data-resizing="true"] {
+    table-layout: fixed !important;
+}
+
+/* Ensure table doesn't shrink during cell operations */
+.ProseMirror table td,
+.ProseMirror table th {
+    min-width: 25px;
+}
+
+/* tiptap-table-plus specific fixes */
+.ProseMirror .table-plus {
+    width: 100%;
+    table-layout: fixed;
+    border-collapse: collapse;
+}
+
+/* Prevent vibrating/shaking by disabling conflicting transitions during resize */
+.ProseMirror .table-plus-wrapper {
+    position: relative;
+    width: 100%;
+}
+
+/* Ensure tiptap-table-plus slider doesn't conflict with our styles */
+.ProseMirror [contenteditable="false"] .slider {
+    pointer-events: none;
+}
+
+/* Fix for nested table issues - prevent tables inside cells from vibrating */
+.ProseMirror td table,
+.ProseMirror th table {
+    margin: 0;
+    width: 100%;
+}
+
+.hidden-scrollbar::-webkit-scrollbar {
+    display: none;
+}
+
+.hidden-scrollbar {
+    -ms-overflow-style: none;
+    /* IE and Edge */
+    scrollbar-width: none;
+    /* Firefox */
+}

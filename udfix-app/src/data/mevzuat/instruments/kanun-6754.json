@@ -1,0 +1,499 @@
+{
+  "id": "kanun:6754",
+  "kind": "kanun",
+  "no": "6754",
+  "title": "Bilirkişilik Kanunu",
+  "shortName": "Bilirkişilik Kanunu",
+  "aliases": [
+    "Bilirkişilik Kanunu",
+    "6754"
+  ],
+  "tur": 1,
+  "tertip": 5,
+  "sourceUrl": "https://www.mevzuat.gov.tr/mevzuat?MevzuatNo=6754&MevzuatTur=1&MevzuatTertip=5",
+  "kabulTarihi": "3/11/2016",
+  "maddeCount": 29,
+  "maddeler": [
+    {
+      "id": "kanun:6754:m:1",
+      "maddeKind": "madde",
+      "maddeNo": "1",
+      "heading": "Madde 1",
+      "text": "(1) Bu Kanunun amacı; bilirkişilerin nitelikleri, eğitimi, seçimi ve denetimine ilişkin usul ve esasların belirlenmesi ile bilirkişilik için etkin ve verimli bir kurumsal yapı oluşturulmasıdır.\n (2) Bu Kanun adli ve idari yargı alanında yürütülen her türlü bilirkişilik faaliyetini kapsar.[1]\n (3) Kanunlarda bilirkişilik hizmeti verebileceği öngörülen kurumlar ile yargı mercilerinin talebi üzerine bilimsel ve teknik görüş bildiren kamu kurum ve kuruluşları bu Kanunun kapsamı dışındadır.",
+      "preview": "(1) Bu Kanunun amacı; bilirkişilerin nitelikleri, eğitimi, seçimi ve denetimine ilişkin usul ve esasların belirlenmesi ile bilirkişilik için…",
+      "kitap": null,
+      "kisim": null,
+      "bolum": null,
+      "ayirim": null,
+      "maddeBaslik": null,
+      "sectionPath": []
+    },
+    {
+      "id": "kanun:6754:m:2",
+      "maddeKind": "madde",
+      "maddeNo": "2",
+      "heading": "Madde 2",
+      "text": "(1) Bu Kanunun uygulanmasında;\n a) Bakanlık: Adalet Bakanlığını,\n b) Bilirkişi: Çözümü uzmanlığı, özel veya teknik bilgiyi gerektiren hâllerde oy ve görüşünü sözlü veya yazılı olarak vermesi için başvurulan gerçek veya özel hukuk tüzel kişisini,\n c) Bölge kurulu: Bilirkişilik bölge kurullarını,\n ç) Daire Başkanlığı: Adalet Bakanlığı Hukuk İşleri Genel Müdürlüğü bünyesinde kurulan Bilirkişilik Daire Başkanlığını,\n d) Danışma Kurulu: Bilirkişilik Danışma Kurulunu,\n e) Temel eğitim: Kanunlarda yer alan esaslar ve Bakanlık tarafından belirlenen ilkeler kapsamında bilirkişilik faaliyeti öncesinde verilen zorunlu eğitimi,\n ifade eder.",
+      "preview": "(1) Bu Kanunun uygulanmasında; a) Bakanlık: Adalet Bakanlığını, b) Bilirkişi: Çözümü uzmanlığı, özel veya teknik bilgiyi gerektiren hâllerde…",
+      "kitap": null,
+      "kisim": null,
+      "bolum": null,
+      "ayirim": null,
+      "maddeBaslik": "Tanımlar",
+      "sectionPath": [
+        "Tanımlar"
+      ]
+    },
+    {
+      "id": "kanun:6754:m:3",
+      "maddeKind": "madde",
+      "maddeNo": "3",
+      "heading": "Madde 3",
+      "text": "(1) Bilirkişi, görevini dürüstlük kuralları çerçevesinde bağımsız, tarafsız ve objektif olarak yerine getirir.\n (2) Bilirkişi, raporunda çözümü uzmanlığı, özel veya teknik bilgiyi gerektiren hususlar dışında açıklama yapamaz; hukuki nitelendirme ve değerlendirmelerde bulunamaz.\n (3) Genel bilgi veya tecrübeyle ya da hâkimlik mesleğinin gerektirdiği hukuki bilgiyle çözümlenmesi mümkün olan konularda bilirkişiye başvurulamaz.\n (4) Bilirkişi, kendisine tevdi olunan görevi bizzat yerine getirmekle yükümlü olup, görevinin icrasını kısmen yahut tamamen başka bir kimseye devredemez.\n (5) Bilirkişi, görevi sebebiyle kendisine tevdi edilen bilgi ve belgelerin veya öğrendiği sırların gizliliğini sağlamakla yükümlüdür. Bu yükümlülük, bilirkişilik görevi sona erdikten sonra da devam eder.\n (6) Çözümü uzmanlığı, özel veya teknik bilgiyi gerektiren sorun açıkça belirtilmeden ve inceleme yaptırılacak konunun kapsamı ile sınırları açıkça gösterilmeden bilirkişi görevlendirilemez.\n (7) Aynı konuda bir kez rapor alınması esastır; ancak rapordaki eksiklik veya belirsizliğin giderilmesi için ek rapor istenebilir.\n (8) Ulusal Yargı Ağı Bilişim Sistemi ile bu Sisteme entegre bilişim sistemleri veya yazılımlar vasıtasıyla ulaşılabilen bilgiler veya çözülebilen sorunlar için bilirkişiye başvurulamaz.",
+      "preview": "(1) Bilirkişi, görevini dürüstlük kuralları çerçevesinde bağımsız, tarafsız ve objektif olarak yerine getirir. (2) Bilirkişi, raporunda çözü…",
+      "kitap": null,
+      "kisim": null,
+      "bolum": null,
+      "ayirim": null,
+      "maddeBaslik": "Temel ilkeler",
+      "sectionPath": [
+        "Temel ilkeler"
+      ]
+    },
+    {
+      "id": "kanun:6754:m:4",
+      "maddeKind": "madde",
+      "maddeNo": "4",
+      "heading": "Madde 4",
+      "text": "(1) Bu Kanunla verilen görevleri yerine getirmek üzere Bilirkişilik Danışma Kurulu kurulmuştur.\n (2) Danışma Kurulu aşağıdaki üyelerden oluşur:\n a) Adalet Bakanlığı Müsteşarı\n b) Hâkimler ve Savcılar Yüksek Kurulu Genel Sekreteri\n c) Adalet Bakanlığı Hukuk İşleri Genel Müdürü\n ç) Adalet Bakanlığı Ceza İşleri Genel Müdürü\n d) Yargıtay Birinci Başkanlık Kurulu tarafından Yargıtay ceza ve hukuk dairelerinden seçilen birer üye olmak üzere toplam iki kişi\n e) Danıştay Başkanlık Kurulu tarafından Danıştay idari dava daireleri ve vergi dava dairelerinden seçilen birer üye olmak üzere toplam iki kişi\n f) Yükseköğretim Kurulu tarafından üniversitelerin öğretim üyeleri arasından seçilen toplam üç kişi\n g) Hâkimler ve Savcılar Yüksek Kurulu Birinci Dairesi tarafından, istekleri bulunan, bölge adliye ve bölge idare mahkemelerinde görev yapan birer hâkim olmak üzere seçilen toplam iki kişi\n ğ) Hâkimler ve Savcılar Yüksek Kurulu Birinci Dairesi tarafından, istekleri bulunan ve birinci sınıf olan; adli yargı ilk derece hukuk ve ceza mahkemelerinde görev yapan birer hâkim, bir Cumhuriyet savcısı ve idari yargı ilk derece idare ve vergi mahkemelerinde görev yapan birer hâkim olmak üzere seçilen toplam beş kişi\n h) Adalet Bakanlığı tarafından Adlî Tıp Kurumunda görev yapanlar arasından seçilen bir kişi\n ı) Bilim, Sanayi ve Teknoloji Bakanlığı tarafından Türkiye Bilimsel ve Teknolojik Araştırma Kurumunda görev yapanlar arasından seçilen bir kişi\n i) İçişleri Bakanlığı tarafından Jandarma Genel Komutanlığı Jandarma Kriminal Daire Başkanlığında ve Emniyet Genel Müdürlüğü Kriminal Daire Başkanlığında görev yapanlar arasından birer olmak üzere seçilen toplam iki kişi\n j) Türkiye Barolar Birliği Yönetim Kurulu tarafından avukatlar arasından seçilen bir kişi\n k) Türk Mühendis ve Mimar Odaları Birliği Yönetim Kurulu tarafından mühendis veya mimarlar arasından seçilen bir kişi\n l) Türkiye Serbest Muhasebeci Mali Müşavirler ve Yeminli Mali Müşavirler Odaları Birliği Yönetim Kurulu tarafından serbest muhasebeci mali müşavir veya yeminli mali müşavirler arasından seçilen bir kişi\n m) Türkiye Odalar ve Borsalar Birliği Yönetim Kurulu tarafından seçilen bir kişi\n n) Türkiye Esnaf ve Sanatkârları Konfederasyonu Yönetim Kurulu tarafından seçilen bir kişi\n o) Türk Tabipleri Birliği Yönetim Kurulu tarafından seçilen bir kişi\n (3) Danışma Kurulunun Başkanı Adalet Bakanlığı Müsteşarıdır. Müsteşar gerekli gördüğünde yardımcılarından birini Kurula başkanlık etmek üzere görevlendirebilir. Başkan, Danışma Kurulunu temsil eder ve Kurul toplantılarının gündemini belirler.\n (4) İkinci fıkranın (a), (b), (c) ve (ç) bentlerinde yer alan üyeler dışındaki üyelerin görev süresi üç yıldır. Görev süresi dolan üyeler yeniden seçilebilir.\n (5) Danışma Kurulu üyeliğinin ölüm, emeklilik, istifa, atama ve benzeri nedenlerle boşalması hâlinde, boşalmayı takip eden on beş gün içinde yeni üyenin seçimi yapılır.\n (6) Danışma Kurulu toplantılarına, uzman kişiler ile kamu ya da özel kurum veya kuruluşların temsilcileri davet edilerek görüşleri alınabilir.\n (7) Danışma Kurulu, her takvim yılında iki defa toplanır. Başkan gerekli gördüğü hâllerde Danışma Kurulunu her zaman toplantıya çağırabilir.\n (8) Danışma Kurulunun sekretarya hizmetleri Daire Başkanlığı tarafından yerine getirilir.",
+      "preview": "(1) Bu Kanunla verilen görevleri yerine getirmek üzere Bilirkişilik Danışma Kurulu kurulmuştur. (2) Danışma Kurulu aşağıdaki üyelerden oluşu…",
+      "kitap": null,
+      "kisim": null,
+      "bolum": "İKİNCİ BÖLÜM · Bilirkişilik Danışma Kurulu, Bilirkişilik Daire Başkanlığı ve",
+      "ayirim": null,
+      "maddeBaslik": "Bilirkişilik Danışma Kurulu",
+      "sectionPath": [
+        "İKİNCİ BÖLÜM · Bilirkişilik Danışma Kurulu, Bilirkişilik Daire Başkanlığı ve",
+        "Bilirkişilik Danışma Kurulu"
+      ]
+    },
+    {
+      "id": "kanun:6754:m:5",
+      "maddeKind": "madde",
+      "maddeNo": "5",
+      "heading": "Madde 5",
+      "text": "(1) Danışma Kurulunun görevleri şunlardır:\n a) Bilirkişilik hizmetlerinin yürütülmesinde yaşanan sorunlar hakkında çözüm önerilerinde bulunmak.\n b) Daire Başkanlığının görev alanına giren konular hakkında önerilerde bulunmak.\n c) Daire Başkanlığının ve bölge kurullarının yıllık faaliyetleri hakkında önerilerde bulunmak.\n ç) Kanunlarla verilen diğer görevleri yapmak.",
+      "preview": "(1) Danışma Kurulunun görevleri şunlardır: a) Bilirkişilik hizmetlerinin yürütülmesinde yaşanan sorunlar hakkında çözüm önerilerinde bulunma…",
+      "kitap": null,
+      "kisim": null,
+      "bolum": "İKİNCİ BÖLÜM · Bilirkişilik Danışma Kurulu, Bilirkişilik Daire Başkanlığı ve",
+      "ayirim": null,
+      "maddeBaslik": "Bilirkişilik Danışma Kurulunun görevleri",
+      "sectionPath": [
+        "İKİNCİ BÖLÜM · Bilirkişilik Danışma Kurulu, Bilirkişilik Daire Başkanlığı ve",
+        "Bilirkişilik Danışma Kurulunun görevleri"
+      ]
+    },
+    {
+      "id": "kanun:6754:m:6",
+      "maddeKind": "madde",
+      "maddeNo": "6",
+      "heading": "Madde 6",
+      "text": "(1) Bilirkişilik hizmetlerinin etkin, düzenli ve verimli bir şekilde yürütülmesini sağlamak amacıyla bu Kanunla verilen görevleri yerine getirmek üzere Adalet Bakanlığı Hukuk İşleri Genel Müdürlüğü bünyesinde Bilirkişilik Daire Başkanlığı kurulur. Daire Başkanlığı, bir daire başkanı ile yeteri kadar tetkik hâkimi ve diğer personelden oluşur.\n (2) Daire Başkanlığının görevleri şunlardır:\n a) Bilirkişilik hizmetlerine ilişkin temel ve alt uzmanlık alanlarını tespit etmek.\n b) Temel ve alt uzmanlık alanlarına göre bilirkişilerin sahip olması gereken nitelikleri belirlemek.\n c) Bilirkişilerin, görevlerini yürütürken uymaları gereken etik ilkeleri belirlemek.\n ç) Temel ve alt uzmanlık alanlarına göre bilirkişilerin uyacağı rehber ilkeleri ve hazırlayacağı raporların standardını belirlemek.\n d) Bilirkişilik temel eğitimine ilişkin usul ve esasları belirlemek, eğitim verecek eğitim ve öğretim kurumları ile diğer kurumların niteliklerini belirlemek ve bunlara izin vermek, bu kurum ve kuruluşları listelemek ve elektronik ortamda yayımlamak.\n e) Alanlarındaki uzmanlıkları ve bilimsel yeterliliklerini dikkate alarak bilirkişilik temel eğitiminden veya listeye kaydolmaktan muaf tutulacaklara ilişkin usul ve esasları belirlemek, bu kişilerin listesini oluşturmak ve yayımlamak.\n f) Bilirkişilerin denetimine ve performansına ilişkin usul ve esasları belirlemek.\n g) Bilirkişiliğe kabule ilişkin usul ve esasları belirlemek.\n ğ) Bilirkişilik Asgari Ücret Tarifesini belirlemek ve her yıl güncellemek.\n h) Temel ve alt uzmanlık alanlarına göre bilirkişilerin aylık olarak bakacağı iş sayısını belirlemek.\n ı) Bilirkişi olarak hizmet verecek özel hukuk tüzel kişilerinin ve bu tüzel kişilik bünyesinde bilirkişi olarak çalışacak kişilerin taşıması gereken nitelikleri belirlemek.\n i) Bilirkişi olarak hizmet verecek özel hukuk tüzel kişilerinin temel ve alt uzmanlık alanları ile yetki çevrelerini belirlemek.\n j) Bilirkişiliğe kabul şartları bakımından 10 uncu maddenin birinci fıkrasının (f) bendinde aranan asgari çalışma süresini, temel ve alt uzmanlık alanlarına göre artırmak.[2]\n k) Yıllık faaliyet raporunu ve izleyen yıl faaliyet planını hazırlamak.\n l) Görev alanına giren konularda bilim komisyonları veya çalışma grupları oluşturmak.\n m) Danışma Kurulunun sekretarya hizmetini yürütmek.\n n) Bilirkişilikle ilgili uygulamaları izlemek, sorunları tespit etmek ve bu sorunlara çözüm önerileri geliştirmek.\n o) Bilirkişilik alanında her türlü istatistiki veriyi toplamak ve bu alana ilişkin planlamaları yapmak.\n ö) Bilirkişilik sicilini ve listesini tutmak.\n p) Bilirkişilikle ilgili yayınlar ile bilimsel çalışmaları teşvik etmek ve desteklemek.\n r) Bilirkişiliğe ilişkin ulusal ve uluslararası kongre, sempozyum ve panel gibi bilimsel organizasyonları düzenlemek veya desteklemek.\n s) Görev alanıyla ilgili kamu ya da özel kurum veya kuruluşlarla iş birliği yapmak.\n ş) Bilirkişilik listelerinden çıkarılanlar ile bilirkişilik yapmaktan yasaklananların listesini tutmak ve yayımlamak.\n t) Kanunlarla verilen diğer görevleri yapmak.",
+      "preview": "(1) Bilirkişilik hizmetlerinin etkin, düzenli ve verimli bir şekilde yürütülmesini sağlamak amacıyla bu Kanunla verilen görevleri yerine get…",
+      "kitap": null,
+      "kisim": null,
+      "bolum": "İKİNCİ BÖLÜM · Bilirkişilik Danışma Kurulu, Bilirkişilik Daire Başkanlığı ve",
+      "ayirim": null,
+      "maddeBaslik": "Bilirkişilik Daire Başkanlığı ve görevleri",
+      "sectionPath": [
+        "İKİNCİ BÖLÜM · Bilirkişilik Danışma Kurulu, Bilirkişilik Daire Başkanlığı ve",
+        "Bilirkişilik Daire Başkanlığı ve görevleri"
+      ]
+    },
+    {
+      "id": "kanun:6754:m:7",
+      "maddeKind": "madde",
+      "maddeNo": "7",
+      "heading": "Madde 7",
+      "text": "(1) Her bölge adliye mahkemesinin kurulu bulunduğu yerde bir bilirkişilik bölge kurulu kurulur.\n (2) Bölge kurulu aşağıdaki üyelerden oluşur:\n a) Hâkimler ve Savcılar Yüksek Kurulu Birinci Dairesi tarafından istekleri bulunan ve bölge kurulunun bulunduğu yer bölge adliye mahkemesi üyeleri arasından seçilen bir kişi\n b) Hâkimler ve Savcılar Yüksek Kurulu Birinci Dairesi tarafından bölge kurulunun bulunduğu il merkezi adli yargı ilk derece hukuk ve ceza mahkemelerinde görev yapan birer hâkim ve bir Cumhuriyet savcısı ile idari yargı ilk derece idare ve vergi mahkemelerinde görev yapan birer hâkim olmak üzere seçilen toplam beş kişi\n (3) Bölge adliye mahkemesi üyeleri arasından Hâkimler ve Savcılar Yüksek Kurulu tarafından seçilen üye, bölge kurulunun başkanıdır. Başkanın yokluğunda en kıdemli üye başkana vekalet eder.\n (4) Bölge kurulunun sekretarya hizmetlerini yerine getirmek üzere bölge adliye mahkemesinde bir yazı işleri müdürlüğü kurulur. Bu müdürlükte Bakanlık tarafından görevlendirilen bir müdür ile yeteri kadar memur bulunur.[3]\n (5) Bölge kurulu, ayda bir toplanır. Bölge kurulunun başkanı, bölge kurulunu her zaman toplantıya çağırabilir. Bölge kurulu üye tamsayısının salt çoğunluğu ile toplanır ve üye tamsayısının salt çoğunluğu ile karar alır.\n (6) Bölge kurullarının denetimi, adalet müfettişlerince yapılır.",
+      "preview": "(1) Her bölge adliye mahkemesinin kurulu bulunduğu yerde bir bilirkişilik bölge kurulu kurulur. (2) Bölge kurulu aşağıdaki üyelerden oluşur:…",
+      "kitap": null,
+      "kisim": null,
+      "bolum": "İKİNCİ BÖLÜM · Bilirkişilik Danışma Kurulu, Bilirkişilik Daire Başkanlığı ve",
+      "ayirim": null,
+      "maddeBaslik": "Bilirkişilik bölge kurulları",
+      "sectionPath": [
+        "İKİNCİ BÖLÜM · Bilirkişilik Danışma Kurulu, Bilirkişilik Daire Başkanlığı ve",
+        "Bilirkişilik bölge kurulları"
+      ]
+    },
+    {
+      "id": "kanun:6754:m:8",
+      "maddeKind": "madde",
+      "maddeNo": "8",
+      "heading": "Madde 8",
+      "text": "(1) Bölge kurullarının görevleri şunlardır:\n a) Bilirkişilik hizmetlerinin ilgili mevzuata uygun olarak yerine getirilmesini sağlamak.\n b) Bilirkişiliğe kabule ve bilirkişilerin sicile ve listeye kaydedilmesine karar vermek.\n c) Sicile kayıtlı bilirkişilerin temel ve alt uzmanlık alanlarına göre bilirkişilik listelerini oluşturmak.\n ç) Bilirkişilerin sicil ve listeden çıkarılmasına karar vermek.\n d) İlgili mevzuat çerçevesinde bilirkişilerin denetimini yapmak ve performansını ölçmek.\n e) Özel hukuk tüzel kişilerinin bilirkişilik faaliyetinde bulunmalarına izin vermek, izinlerini iptal etmek, bilirkişiliğe ilişkin faaliyet ve raporlarını denetlemek.\n f) Kanunlarla verilen diğer görevleri yapmak.",
+      "preview": "(1) Bölge kurullarının görevleri şunlardır: a) Bilirkişilik hizmetlerinin ilgili mevzuata uygun olarak yerine getirilmesini sağlamak. b) Bil…",
+      "kitap": null,
+      "kisim": null,
+      "bolum": "İKİNCİ BÖLÜM · Bilirkişilik Danışma Kurulu, Bilirkişilik Daire Başkanlığı ve",
+      "ayirim": null,
+      "maddeBaslik": "Bilirkişilik bölge kurullarının görevleri",
+      "sectionPath": [
+        "İKİNCİ BÖLÜM · Bilirkişilik Danışma Kurulu, Bilirkişilik Daire Başkanlığı ve",
+        "Bilirkişilik bölge kurullarının görevleri"
+      ]
+    },
+    {
+      "id": "kanun:6754:m:9",
+      "maddeKind": "madde",
+      "maddeNo": "9",
+      "heading": "Madde 9",
+      "text": "(1) Bölge kurulu başkanının görevleri şunlardır:\n a) Bölge kurulunun uyumlu, verimli ve düzenli çalışmasını sağlamak.\n b) Bölge kurulu kararlarını uygulamak.\n c) Bölge kurulu toplantılarının gündemini belirlemek ve toplantılara başkanlık etmek; Kurul üyelerinden en az ikisinin imzası ile verilecek önerileri gündeme almak.\n ç) Bilirkişiliğe kabul edilenlerin sicil ve listeye kayıt işlemlerini yürütmek.\n d) Sicil ve listeden çıkarılmasına karar verilen bilirkişilerle ilgili işlemleri yürütmek.\n e) Bilirkişilik temel ilkeleri ile etik ilkeleri ihlal ettiği iddia edilen bilirkişiler hakkında başvuru üzerine veya resen gerekli inceleme ve araştırmayı yapmak veya yaptırmak.\n f) Bilirkişilere veya bilirkişilik için başvuru yapanlara ilişkin ihtiyaç duyulan bilgi ve belgeleri ilgili kurum veya kuruluşlardan istemek, gerektiğinde ilgilileri davet etmek ve dinlemek.\n g) Bölge kurulu yazı işleri müdürlüğü personelini denetlemek.\n ğ) Bölge kurulunun diğer kurum ve kuruluşlarla iş birliği hâlinde çalışmasını sağlamak.\n h) Bilirkişi raporlarını belirlenen esaslar dâhilinde arşivlemek.\n ı) Yıllık faaliyet raporu hazırlayarak Bakanlığa sunmak.\n i) Kanunlarla verilen diğer görevleri yapmak.\n (2) Bölge kurulu başkanı münhasıran bu Kanunda belirtilen görevleri yerine getirir; bölge kurulu başkanına başka bir görev verilemez.",
+      "preview": "(1) Bölge kurulu başkanının görevleri şunlardır: a) Bölge kurulunun uyumlu, verimli ve düzenli çalışmasını sağlamak. b) Bölge kurulu kararla…",
+      "kitap": null,
+      "kisim": null,
+      "bolum": "İKİNCİ BÖLÜM · Bilirkişilik Danışma Kurulu, Bilirkişilik Daire Başkanlığı ve",
+      "ayirim": null,
+      "maddeBaslik": "Bilirkişilik bölge kurulu başkanının görevleri",
+      "sectionPath": [
+        "İKİNCİ BÖLÜM · Bilirkişilik Danışma Kurulu, Bilirkişilik Daire Başkanlığı ve",
+        "Bilirkişilik bölge kurulu başkanının görevleri"
+      ]
+    },
+    {
+      "id": "kanun:6754:m:10",
+      "maddeKind": "madde",
+      "maddeNo": "10",
+      "heading": "Madde 10",
+      "text": "(1) Bilirkişilik faaliyetinde bulunacak gerçek kişilerde aşağıdaki şartlar aranır:\n a) 26/9/2004 tarihli ve 5237 sayılı Türk Ceza Kanununun 53 üncü maddesinde belirtilen süreler geçmiş olsa bile; kasten işlenen bir suçtan dolayı bir yıldan fazla süreyle hapis cezasına ya da affa uğramış olsa bile Devletin güvenliğine karşı suçlar, Anayasal düzene ve bu düzenin işleyişine karşı suçlar, zimmet, irtikâp, rüşvet, hırsızlık, dolandırıcılık, sahtecilik, güveni kötüye kullanma, hileli iflas, ihaleye fesat karıştırma, edimin ifasına fesat karıştırma, suçtan kaynaklanan malvarlığı değerlerini aklama veya kaçakçılık, gerçeğe aykırı bilirkişilik veya tercümanlık yapma, yalan tanıklık ve yalan yere yemin suçlarından mahkûm olmamak.\n b) (Ek: 5/6/2017-KHK-691/10 md.; Aynen kabul: 31/1/2018-7069/10 md.) Terör örgütleriyle iltisaklı veya irtibatlı olmamak. 4\n c) Daha önce kendi isteği dışında bilirkişilik sicilinden çıkarılmamış olmak.\n ç) Disiplin yönünden meslekten veya memuriyetten çıkarılmamış ya da sanat icrasından veya mesleki faaliyetten geçici ya da sürekli olarak yasaklanmamış olmak.\n d) Başka bir bölge kurulunun listesine kayıtlı olmamak.\n e) Bilirkişilik temel eğitimini tamamlamak.\n f) Bilirkişilik yapacağı uzmanlık alanında en az beş yıl fiilen çalışmış olmak ya da daha fazla çalışma süresi belirlenmiş ise bu süre kadar fiilen çalışmış olmak.\n g) Meslek mensubu olarak görev yapabilmek için mevzuat tarafından aranan şartları haiz olmak ve mesleğini yapabilmek için gerekli olan uzmanlık alanını gösteren diploma, mesleki yeterlilik belgesi, uzmanlık belgesi veya benzeri belgeye sahip olmak.\n ğ) Bilirkişilik temel ve alt uzmanlık alanlarına göre belirlenen yeterlilik koşullarını taşımak.\n (2) Özel hukuk tüzel kişilerinin bünyesinde bilirkişi olarak çalışacak kişiler bakımından da birinci fıkradaki şartlar aranır ve düzenlenen raporlarda bu kişilerin adı ve soyadı ile imzası bulunur.\n (3) Daha önce yaptığı başvurusu mesleki olarak yeterli nitelikte bulunmadığı gerekçesiyle reddedilenler, bir yıl geçmedikçe yeniden bilirkişilik yapmak için başvuruda bulunamazlar.\n (4) Hukuk öğrenimi görmüş kişiler, hukuk alanı dışında ayrı bir uzmanlığa sahip olduğunu ve birinci fıkradaki şartları taşıdığını belgelendirmediği takdirde, bilirkişilik siciline ve listesine kaydedilemez.",
+      "preview": "(1) Bilirkişilik faaliyetinde bulunacak gerçek kişilerde aşağıdaki şartlar aranır: a) 26/9/2004 tarihli ve 5237 sayılı Türk Ceza Kanununun 5…",
+      "kitap": null,
+      "kisim": null,
+      "bolum": "ÜÇÜNCÜ BÖLÜM · Bilirkişiliğe Kabul, Bilirkişilik Sicili ve Bilirkişilik Listesi",
+      "ayirim": null,
+      "maddeBaslik": "Bilirkişiliğe kabul şartları[4]",
+      "sectionPath": [
+        "ÜÇÜNCÜ BÖLÜM · Bilirkişiliğe Kabul, Bilirkişilik Sicili ve Bilirkişilik Listesi",
+        "Bilirkişiliğe kabul şartları[4]"
+      ]
+    },
+    {
+      "id": "kanun:6754:m:11",
+      "maddeKind": "madde",
+      "maddeNo": "11",
+      "heading": "Madde 11",
+      "text": "(1) (Değişik:6/12/2018-7155/25 md.) Bilirkişiliğe başvuru, ilgilinin yerleşim yerinin veya mesleki faaliyetlerini yürüttüğü yerin bağlı olduğu bölge kuruluna ilgili belgeler eklenmek suretiyle yapılır. Başvuru şekline ilişkin usul ve esaslar Bakanlıkça belirlenir.\n (2) Başvuru dilekçesine eklenmesi zorunlu belgelerin eksik olması hâlinde, başvuru sahibine belgeleri tamamlaması için on beş gün süre verilir. Eksik belgelerin tamamlanması hâlinde bölge kurulu tarafından başvuru hakkında karar verilir.\n (3) Bölge kurulu karar verirken sicile kayıt bakımından öncelikle başvuranın 10 uncu maddedeki şartları taşıyıp taşımadığını değerlendirir ve şartları taşıyanlar arasından başvuranın mesleki tecrübesini, katıldığı meslek içi eğitimleri veya uzmanlığı gösteren belgeleri dikkate alarak en liyakatli olanları seçer.\n (4) Bilirkişiliğe kabul edilenler, sicile üç yıl için kaydedilir.",
+      "preview": "(1) (Değişik:6/12/2018-7155/25 md.) Bilirkişiliğe başvuru, ilgilinin yerleşim yerinin veya mesleki faaliyetlerini yürüttüğü yerin bağlı oldu…",
+      "kitap": null,
+      "kisim": null,
+      "bolum": "ÜÇÜNCÜ BÖLÜM · Bilirkişiliğe Kabul, Bilirkişilik Sicili ve Bilirkişilik Listesi",
+      "ayirim": null,
+      "maddeBaslik": "Bilirkişiliğe başvuru, seçilme usulü ve sicile kayıt",
+      "sectionPath": [
+        "ÜÇÜNCÜ BÖLÜM · Bilirkişiliğe Kabul, Bilirkişilik Sicili ve Bilirkişilik Listesi",
+        "Bilirkişiliğe başvuru, seçilme usulü ve sicile kayıt"
+      ]
+    },
+    {
+      "id": "kanun:6754:m:12",
+      "maddeKind": "madde",
+      "maddeNo": "12",
+      "heading": "Madde 12",
+      "text": "(1) Bilirkişilik sicilinde aşağıdaki hususlar ile gerekli görülen diğer bilgiler yer alır:\n a) Bilirkişinin adı ve soyadı ile iletişim bilgileri\n b) Türkiye Cumhuriyeti kimlik numarası\n c) Yerleşim yeri\n ç) Mesleği\n d) Temel ve alt uzmanlık alanları\n e) Çalıştığı kurum veya kuruluşun adı\n f) Bilirkişilik temel eğitim tarihi\n g) Hazırlanan rapor sayısı\n (2) Bilirkişilik sicili, bölge kurulları ile hâkim ve Cumhuriyet savcılarının erişimine açılır.\n (3) Bilirkişilik siciline kayıtlı kişilerin ad ve soyadları, temel ve alt uzmanlık alanları ve meslekleri gösterilmek suretiyle bölge kurulu bilirkişi listesi oluşturulur. Bu listeler alenidir.\n (4) Bilirkişiler, sicile kaydolmak şartıyla yemin ederek göreve başlar.\n (5) Adli ve idari yargıda görev alacak bilirkişiler, bölge adliye mahkemelerinin yargı çevreleri esas alınmak suretiyle bilirkişilik bölge kurulları tarafından hazırlanan listelerden görevlendirilir. Ancak kendi bölge kurulu bilirkişi listesinde ilgili uzmanlık alanında bilirkişi olmasına rağmen diğer bir bölgedeki bilirkişinin, görevlendirme yapılan yere daha yakın bir mesafede bulunması durumunda, bu listeden de görevlendirme yapılabilir.[5]\n (6) Bölge kurulunun hazırladığı listede bilgisine başvurulacak uzmanlık dalında bilirkişi bulunmaması hâlinde, diğer bölge kurulları bilirkişilik listelerinden, burada da bulunmaması hâlinde, 10 uncu maddenin (d), (e) ve (f) bentleri hariç birinci fıkrasında yer alan şartları taşımak kaydıyla listelerin dışından bilirkişi görevlendirilebilir. Listelerin dışından görevlendirilen bilirkişiler, bölge kuruluna bildirilir.[6]\n (7) Yüksek mahkemelerin ilk derece mahkemesi olarak baktıkları işlerde, tüm bölge kurulları bilirkişilik listelerinde kayıtlı bilirkişiler arasından görevlendirme yapılabilir.",
+      "preview": "(1) Bilirkişilik sicilinde aşağıdaki hususlar ile gerekli görülen diğer bilgiler yer alır: a) Bilirkişinin adı ve soyadı ile iletişim bilgil…",
+      "kitap": null,
+      "kisim": null,
+      "bolum": "ÜÇÜNCÜ BÖLÜM · Bilirkişiliğe Kabul, Bilirkişilik Sicili ve Bilirkişilik Listesi",
+      "ayirim": null,
+      "maddeBaslik": "Bilirkişilik sicilinin ve listesinin tutulması ile bilirkişinin görevlendirilmesi",
+      "sectionPath": [
+        "ÜÇÜNCÜ BÖLÜM · Bilirkişiliğe Kabul, Bilirkişilik Sicili ve Bilirkişilik Listesi",
+        "Bilirkişilik sicilinin ve listesinin tutulması ile bilirkişinin görevlendirilmesi"
+      ]
+    },
+    {
+      "id": "kanun:6754:m:13",
+      "maddeKind": "madde",
+      "maddeNo": "13",
+      "heading": "Madde 13",
+      "text": "(1) Bilirkişiler, aşağıdaki şartlardan birinin gerçekleşmesi hâlinde sicilden ve listeden çıkarılır:\n a) Bilirkişiliğe kabul şartlarının kaybedilmesi veya sicile kabul tarihinde gerekli şartların bulunmadığının sonradan tespit edilmesi.\n b) Kanuni bir sebep olmaksızın bilirkişilik yapmaktan kaçınılması veya raporun belirlenen süre içinde mazeretsiz olarak verilmemesi.\n c) Bilirkişilik görevi ve bu görevin gerektirdiği etik ilkelerle bağdaşmayan, güven duygusunu sarsıcı tutum ve davranışlarda bulunulması.\n ç) 3 üncü maddede belirtilen temel ilkelere aykırı olarak bilirkişilik faaliyetinde bulunulması.\n d) Bölge kurulu tarafından yapılacak performans değerlendirmeleri sonucunda yeterli bulunulmaması.\n e) Bilirkişilik süresinin dolmasına rağmen süresi içerisinde yenileme talebinde bulunulmaması.\n f) Bilirkişinin sicilden çıkarılmayı talep etmesi.\n (2) Birinci fıkranın (b), (c), (ç) ve (d) bentlerinde belirtilen hâllerde ihlalin niteliğine göre sicilden ve listeden çıkarma yaptırımı yerine uyarma veya bir yıla kadar geçici süreyle listeden çıkarma yaptırımı uygulanabilir.",
+      "preview": "(1) Bilirkişiler, aşağıdaki şartlardan birinin gerçekleşmesi hâlinde sicilden ve listeden çıkarılır: a) Bilirkişiliğe kabul şartlarının kayb…",
+      "kitap": null,
+      "kisim": null,
+      "bolum": "ÜÇÜNCÜ BÖLÜM · Bilirkişiliğe Kabul, Bilirkişilik Sicili ve Bilirkişilik Listesi",
+      "ayirim": null,
+      "maddeBaslik": "Bilirkişilik sicilinden ve listesinden çıkarılma",
+      "sectionPath": [
+        "ÜÇÜNCÜ BÖLÜM · Bilirkişiliğe Kabul, Bilirkişilik Sicili ve Bilirkişilik Listesi",
+        "Bilirkişilik sicilinden ve listesinden çıkarılma"
+      ]
+    },
+    {
+      "id": "kanun:6754:m:14",
+      "maddeKind": "madde",
+      "maddeNo": "14",
+      "heading": "Madde 14",
+      "text": "(1) Bilirkişiler, görevleriyle ilgili tutum ve davranışlarının veya hazırladıkları raporların ilgili mevzuata uygunluğu bakımından bölge kurulları tarafından resen veya başvuru üzerine denetlenir.\n (2) Hâkim veya Cumhuriyet savcısı, görevlendirdiği bilirkişinin göreviyle ilgili tutum ve davranışlarının veya hazırladığı raporun mevzuata uygun olmadığına ilişkin kanaat edinmesi durumunda, bu hususu bölge kuruluna bildirir.\n (3) Bölge kurulları, bilirkişi raporlarını özel veya teknik bilgi yönünden denetleyemez.\n (4) Bilirkişi raporlarının özel veya teknik bilgi yönünden içeriğine ilişkin bölge kurullarına başvuru yapılamaz; yapılan başvurular incelenmeksizin reddedilir.\n (5) Bölge kurulu yaptığı inceleme sırasında yargı mercilerinden, kamu kurum ve kuruluşlarından, meslek odalarından, özel hukuk tüzel kişilerinden ve gerçek kişilerden inceleme konusuyla ilgili bilgi ve belge talep edebilir. İlgililerce bu talebin yerine getirilmesi zorunludur.\n (6) Bilirkişilik sicili ve listesinde kayıtlı olmayıp da 12 nci maddenin altıncı fıkrası uyarınca görevlendirilenler ile listeye kaydolmaktan muaf tutulanlar, 3 üncü maddede belirtilen temel ilkeler ile etik ilkelere aykırı olarak bilirkişilik faaliyetinde bulunduklarının tespit edilmesi hâlinde, bölge kurulu kararıyla bilirkişilik yapmaktan yasaklanabilir. Bu karar, ilan edilmek üzere Daire Başkanlığına bildirilir.",
+      "preview": "(1) Bilirkişiler, görevleriyle ilgili tutum ve davranışlarının veya hazırladıkları raporların ilgili mevzuata uygunluğu bakımından bölge kur…",
+      "kitap": null,
+      "kisim": null,
+      "bolum": "ÜÇÜNCÜ BÖLÜM · Bilirkişiliğe Kabul, Bilirkişilik Sicili ve Bilirkişilik Listesi",
+      "ayirim": null,
+      "maddeBaslik": "Denetim ve inceleme",
+      "sectionPath": [
+        "ÜÇÜNCÜ BÖLÜM · Bilirkişiliğe Kabul, Bilirkişilik Sicili ve Bilirkişilik Listesi",
+        "Denetim ve inceleme"
+      ]
+    },
+    {
+      "id": "kanun:6754:m:15",
+      "maddeKind": "madde",
+      "maddeNo": "15",
+      "heading": "Madde 15",
+      "text": "(1) Bölge kurulu kararlarına karşı, kararın tebliğ veya ilan tarihinden itibaren otuz gün içinde kararı veren bölge kuruluna itiraz edilir. Bölge kurulunun itiraz üzerine verdiği kararlara karşı yetkili idare mahkemesine dava açılabilir.",
+      "preview": "(1) Bölge kurulu kararlarına karşı, kararın tebliğ veya ilan tarihinden itibaren otuz gün içinde kararı veren bölge kuruluna itiraz edilir.…",
+      "kitap": null,
+      "kisim": null,
+      "bolum": "DÖRDÜNCÜ BÖLÜM · Çeşitli ve Son Hükümler",
+      "ayirim": null,
+      "maddeBaslik": "İtiraz ve dava hakkı",
+      "sectionPath": [
+        "DÖRDÜNCÜ BÖLÜM · Çeşitli ve Son Hükümler",
+        "İtiraz ve dava hakkı"
+      ]
+    },
+    {
+      "id": "kanun:6754:m:16",
+      "maddeKind": "madde",
+      "maddeNo": "16",
+      "heading": "Madde 16",
+      "text": "(1) Danışma Kurulu üyelerine, her toplantı için (2250) gösterge rakamının memur aylık katsayısıyla çarpımı sonucunda bulunan tutarda huzur hakkı veya huzur ücreti ödenir.\n (2) Bölge kurulu üyelerine, ayda dört toplantıyı geçmemek üzere her toplantı için (2250) gösterge rakamının memur aylık katsayısıyla çarpımı sonucunda bulunan tutarda huzur hakkı ödenir.\n (3) Kurulan bilim komisyonu üyelerinden, öğretim elemanları ile uhdesinde kamu görevi bulunmayanlara ayda dördü geçmemek üzere fiilen görev yapılan her gün için (2250) gösterge rakamının memur aylık katsayısıyla çarpımı sonucunda bulunacak tutarda huzur hakkı veya huzur ücreti ödenir.\n (4) Bakanlık, Danışma Kurulu, bölge kurulu ve bilim komisyonu toplantılarına başka bir mahalden gelerek katılan üyelerin gündelik, yol gideri, konaklama ve diğer zorunlu giderleri, 10/2/1954 tarihli ve 6245 sayılı Harcırah Kanunu hükümlerine göre ödenir.\n (5) Kurulların ve bilim komisyonunun ihtiyaçlarına yönelik harcamalar ile ödenecek huzur hakları ve huzur ücretleri Bakanlık bütçesinden karşılanır.",
+      "preview": "(1) Danışma Kurulu üyelerine, her toplantı için (2250) gösterge rakamının memur aylık katsayısıyla çarpımı sonucunda bulunan tutarda huzur h…",
+      "kitap": null,
+      "kisim": null,
+      "bolum": "DÖRDÜNCÜ BÖLÜM · Çeşitli ve Son Hükümler",
+      "ayirim": null,
+      "maddeBaslik": "Huzur hakkı ve kurulların ihtiyaçlarının karşılanması",
+      "sectionPath": [
+        "DÖRDÜNCÜ BÖLÜM · Çeşitli ve Son Hükümler",
+        "Huzur hakkı ve kurulların ihtiyaçlarının karşılanması"
+      ]
+    },
+    {
+      "id": "kanun:6754:m:17",
+      "maddeKind": "madde",
+      "maddeNo": "17",
+      "heading": "Madde 17",
+      "text": "(1) Ekli (1), (2) ve (3) sayılı listelerde yer alan kadrolar ihdas edilerek 13/12/1983 tarihli ve 190 sayılı Genel Kadro ve Usulü Hakkında Kanun Hükmünde Kararnameye ekli (I) ve (II) sayılı cetvellerin Adalet Bakanlığına ait bölümlerine eklenmiştir.\n (2) Ekli (4) sayılı listede yer alan kadrolar ihdas edilerek 190 sayılı Kanun Hükmünde Kararnameye ekli (I) sayılı cetvelin Adlî Tıp Kurumuna ait bölümüne eklenmiştir.\n\n Yönetmelik",
+      "preview": "(1) Ekli (1), (2) ve (3) sayılı listelerde yer alan kadrolar ihdas edilerek 13/12/1983 tarihli ve 190 sayılı Genel Kadro ve Usulü Hakkında K…",
+      "kitap": null,
+      "kisim": null,
+      "bolum": "DÖRDÜNCÜ BÖLÜM · Çeşitli ve Son Hükümler",
+      "ayirim": null,
+      "maddeBaslik": "Kadrolar[7]",
+      "sectionPath": [
+        "DÖRDÜNCÜ BÖLÜM · Çeşitli ve Son Hükümler",
+        "Kadrolar[7]"
+      ]
+    },
+    {
+      "id": "kanun:6754:m:18",
+      "maddeKind": "madde",
+      "maddeNo": "18",
+      "heading": "Madde 18",
+      "text": "(1) Bu Kanunun uygulanmasına ilişkin yönetmelikler Bakanlık tarafından yürürlüğe konulur.",
+      "preview": "(1) Bu Kanunun uygulanmasına ilişkin yönetmelikler Bakanlık tarafından yürürlüğe konulur.",
+      "kitap": null,
+      "kisim": null,
+      "bolum": "DÖRDÜNCÜ BÖLÜM · Çeşitli ve Son Hükümler",
+      "ayirim": null,
+      "maddeBaslik": "Kadrolar[7]",
+      "sectionPath": [
+        "DÖRDÜNCÜ BÖLÜM · Çeşitli ve Son Hükümler",
+        "Kadrolar[7]"
+      ]
+    },
+    {
+      "id": "kanun:6754:m:19",
+      "maddeKind": "madde",
+      "maddeNo": "19",
+      "heading": "Madde 19",
+      "text": "(9/6/1932 tarihli ve 2004 sayılı İcra ve İflas Kanunu ile ilgili olup yerine işlenmiştir.)",
+      "preview": "(9/6/1932 tarihli ve 2004 sayılı İcra ve İflas Kanunu ile ilgili olup yerine işlenmiştir.)",
+      "kitap": null,
+      "kisim": null,
+      "bolum": "BEŞİNCİ BÖLÜM · Değiştirilen ve Yürürlükten Kaldırılan Hükümler",
+      "ayirim": null,
+      "maddeBaslik": null,
+      "sectionPath": [
+        "BEŞİNCİ BÖLÜM · Değiştirilen ve Yürürlükten Kaldırılan Hükümler"
+      ]
+    },
+    {
+      "id": "kanun:6754:m:20",
+      "maddeKind": "madde",
+      "maddeNo": "20",
+      "heading": "Madde 20",
+      "text": "(25/10/1963 tarihli ve 353 sayılı Askerî Mahkemeler Kuruluşu ve Yargılama Usulü Kanunu ile ilgili olup yerine işlenmiştir.)",
+      "preview": "(25/10/1963 tarihli ve 353 sayılı Askerî Mahkemeler Kuruluşu ve Yargılama Usulü Kanunu ile ilgili olup yerine işlenmiştir.)",
+      "kitap": null,
+      "kisim": null,
+      "bolum": "BEŞİNCİ BÖLÜM · Değiştirilen ve Yürürlükten Kaldırılan Hükümler",
+      "ayirim": null,
+      "maddeBaslik": null,
+      "sectionPath": [
+        "BEŞİNCİ BÖLÜM · Değiştirilen ve Yürürlükten Kaldırılan Hükümler"
+      ]
+    },
+    {
+      "id": "kanun:6754:m:21",
+      "maddeKind": "madde",
+      "maddeNo": "21",
+      "heading": "Madde 21",
+      "text": "(4/7/1972 tarihli ve 1602 sayılı Askeri Yüksek İdare Mahkemesi Kanunu ile ilgili olup yerine işlenmiştir.)",
+      "preview": "(4/7/1972 tarihli ve 1602 sayılı Askeri Yüksek İdare Mahkemesi Kanunu ile ilgili olup yerine işlenmiştir.)",
+      "kitap": null,
+      "kisim": null,
+      "bolum": "BEŞİNCİ BÖLÜM · Değiştirilen ve Yürürlükten Kaldırılan Hükümler",
+      "ayirim": null,
+      "maddeBaslik": null,
+      "sectionPath": [
+        "BEŞİNCİ BÖLÜM · Değiştirilen ve Yürürlükten Kaldırılan Hükümler"
+      ]
+    },
+    {
+      "id": "kanun:6754:m:22",
+      "maddeKind": "madde",
+      "maddeNo": "22",
+      "heading": "Madde 22",
+      "text": "(6/1/1982 tarihli ve 2577 sayılı İdari Yargılama Usulü Kanunu ile ilgili olup yerine işlenmiştir.)\n\n MADDE 23 ila 36 - (14/4/1982 tarihli ve 2659 sayılı Adlî Tıp Kurumu Kanunu ile ilgili olup yerine işlenmiştir.)",
+      "preview": "(6/1/1982 tarihli ve 2577 sayılı İdari Yargılama Usulü Kanunu ile ilgili olup yerine işlenmiştir.) MADDE 23 ila 36 - (14/4/1982 tarihli ve 2…",
+      "kitap": null,
+      "kisim": null,
+      "bolum": "BEŞİNCİ BÖLÜM · Değiştirilen ve Yürürlükten Kaldırılan Hükümler",
+      "ayirim": null,
+      "maddeBaslik": null,
+      "sectionPath": [
+        "BEŞİNCİ BÖLÜM · Değiştirilen ve Yürürlükten Kaldırılan Hükümler"
+      ]
+    },
+    {
+      "id": "kanun:6754:m:37",
+      "maddeKind": "madde",
+      "maddeNo": "37",
+      "heading": "Madde 37",
+      "text": "(24/2/1983 tarihli ve 2802 sayılı Hâkimler ve Savcılar Kanunu ile ilgili olup yerine işlenmiştir.)\n\n MADDE 38 ila 40 - (4/11/1983 tarihli ve 2942 sayılı Kamulaştırma Kanunu ile ilgili olup yerine işlenmiştir.)",
+      "preview": "(24/2/1983 tarihli ve 2802 sayılı Hâkimler ve Savcılar Kanunu ile ilgili olup yerine işlenmiştir.) MADDE 38 ila 40 - (4/11/1983 tarihli ve 2…",
+      "kitap": null,
+      "kisim": null,
+      "bolum": "BEŞİNCİ BÖLÜM · Değiştirilen ve Yürürlükten Kaldırılan Hükümler",
+      "ayirim": null,
+      "maddeBaslik": null,
+      "sectionPath": [
+        "BEŞİNCİ BÖLÜM · Değiştirilen ve Yürürlükten Kaldırılan Hükümler"
+      ]
+    },
+    {
+      "id": "kanun:6754:m:41",
+      "maddeKind": "madde",
+      "maddeNo": "41",
+      "heading": "Madde 41",
+      "text": "(26/9/2004 tarihli ve 5237 sayılı Türk Ceza Kanunu ile ilgili olup yerine işlenmiştir.)\n\n MADDE 42 ila 47- (4/12/2004 tarihli ve 5271 sayılı Ceza Muhakemesi Kanunu ile ilgili olup yerine işlenmiştir.)",
+      "preview": "(26/9/2004 tarihli ve 5237 sayılı Türk Ceza Kanunu ile ilgili olup yerine işlenmiştir.) MADDE 42 ila 47- (4/12/2004 tarihli ve 5271 sayılı C…",
+      "kitap": null,
+      "kisim": null,
+      "bolum": "BEŞİNCİ BÖLÜM · Değiştirilen ve Yürürlükten Kaldırılan Hükümler",
+      "ayirim": null,
+      "maddeBaslik": null,
+      "sectionPath": [
+        "BEŞİNCİ BÖLÜM · Değiştirilen ve Yürürlükten Kaldırılan Hükümler"
+      ]
+    },
+    {
+      "id": "kanun:6754:m:48",
+      "maddeKind": "madde",
+      "maddeNo": "48",
+      "heading": "Madde 48",
+      "text": "(16/6/2005 tarihli ve 5366 sayılı Yıpranan Tarihi ve Kültürel Taşınmaz Varlıkların Yenilenerek Korunması ve Yaşatılarak Kullanılması Hakkında Kanun ile ilgili olup yerine işlenmiştir.)\n\n MADDE 49 ila 54- (12/1/2011 tarihli ve 6100 sayılı Hukuk Muhakemeleri Kanunu ile ilgili olup yerine işlenmiştir.)",
+      "preview": "(16/6/2005 tarihli ve 5366 sayılı Yıpranan Tarihi ve Kültürel Taşınmaz Varlıkların Yenilenerek Korunması ve Yaşatılarak Kullanılması Hakkınd…",
+      "kitap": null,
+      "kisim": null,
+      "bolum": "BEŞİNCİ BÖLÜM · Değiştirilen ve Yürürlükten Kaldırılan Hükümler",
+      "ayirim": null,
+      "maddeBaslik": null,
+      "sectionPath": [
+        "BEŞİNCİ BÖLÜM · Değiştirilen ve Yürürlükten Kaldırılan Hükümler"
+      ]
+    },
+    {
+      "id": "kanun:6754:m:gecici:1",
+      "maddeKind": "gecici",
+      "maddeNo": "1",
+      "heading": "Geçici Madde 1",
+      "text": "(1) Bu Kanunun yayımı tarihinden itibaren en geç bir ay içinde Danışma Kurulu ve bölge kurullarının üyeleri ilgili kurum veya kurullar tarafından seçilir ve Daire Başkanlığına bildirilir.\n (2) Danışma Kurulunun ilk toplantı tarihi, üyelerin üç yıllık görev süresinin başlangıcı olarak kabul edilir.\n (3) Bu Kanunun uygulanmasına ilişkin yönetmelikler, bu Kanunun yayımı tarihinden itibaren en geç altı ay içinde yürürlüğe konulur ve bu yönetmeliklerin yürürlüğe girdiği tarihten itibaren en geç altı ay içinde bilirkişilik sicili ve listeleri oluşturulur.\n (4) Bilirkişilik sicili ve listelerinin oluşturulmasını müteakip bu sicil ve listelere uygun bilirkişi görevlendirilmesini sağlamak amacıyla Bakanlık tarafından bir ilan yapılır. Bu ilan yapılıncaya kadar mevcut bilirkişi listelerine göre bilirkişi görevlendirilmesine devam olunur ve bu bilirkişiler görevlerini tamamlar.",
+      "preview": "(1) Bu Kanunun yayımı tarihinden itibaren en geç bir ay içinde Danışma Kurulu ve bölge kurullarının üyeleri ilgili kurum veya kurullar taraf…",
+      "kitap": null,
+      "kisim": null,
+      "bolum": "BEŞİNCİ BÖLÜM · Değiştirilen ve Yürürlükten Kaldırılan Hükümler",
+      "ayirim": null,
+      "maddeBaslik": "Geçiş hükümleri",
+      "sectionPath": [
+        "BEŞİNCİ BÖLÜM · Değiştirilen ve Yürürlükten Kaldırılan Hükümler",
+        "Geçiş hükümleri"
+      ]
+    },
+    {
+      "id": "kanun:6754:m:gecici:2",
+      "maddeKind": "gecici",
+      "maddeNo": "2",
+      "heading": "Geçici Madde 2",
+      "text": "(Ek:7/11/2023-7471/18 md.)\n (1) 6/2/2023 tarihinde meydana gelen depremler nedeniyle genel hayata etkili afet bölgesi olarak kabul edilen yerlerde 1/1/2028 tarihine kadar, bu depremler ve akabinde meydana gelen depremlerle bağlantılı iş, dava, soruşturma ve kovuşturmalarda, 10 uncu maddenin (d) ve (e) bentleri hariç birinci fıkrasında yer alan şartları taşımak kaydıyla 12 nci maddenin beşinci ve altıncı fıkraları ile 4/12/2004 tarihli ve 5271 sayılı Ceza Muhakemesi Kanununun 64 üncü maddesinin birinci ve ikinci fıkraları ve 12/1/2011 tarihli ve 6100 sayılı Hukuk Muhakemeleri Kanununun 268 inci maddesinin birinci ve ikinci fıkralarındaki usule tabi olmaksızın listeler dışından da bilirkişi görevlendirilebilir. Listeler dışından görevlendirilen bilirkişiler, bölge kuruluna bildirilir.",
+      "preview": "(Ek:7/11/2023-7471/18 md.) (1) 6/2/2023 tarihinde meydana gelen depremler nedeniyle genel hayata etkili afet bölgesi olarak kabul edilen yer…",
+      "kitap": null,
+      "kisim": null,
+      "bolum": "BEŞİNCİ BÖLÜM · Değiştirilen ve Yürürlükten Kaldırılan Hükümler",
+      "ayirim": null,
+      "maddeBaslik": "Geçiş hükümleri",
+      "sectionPath": [
+        "BEŞİNCİ BÖLÜM · Değiştirilen ve Yürürlükten Kaldırılan Hükümler",
+        "Geçiş hükümleri"
+      ]
+    },
+    {
+      "id": "kanun:6754:m:55",
+      "maddeKind": "madde",
+      "maddeNo": "55",
+      "heading": "Madde 55",
+      "text": "(1) Bu Kanun yayımı tarihinde yürürlüğe girer.",
+      "preview": "(1) Bu Kanun yayımı tarihinde yürürlüğe girer.",
+      "kitap": null,
+      "kisim": null,
+      "bolum": "BEŞİNCİ BÖLÜM · Değiştirilen ve Yürürlükten Kaldırılan Hükümler",
+      "ayirim": null,
+      "maddeBaslik": "Yürürlük",
+      "sectionPath": [
+        "BEŞİNCİ BÖLÜM · Değiştirilen ve Yürürlükten Kaldırılan Hükümler",
+        "Yürürlük"
+      ]
+    },
+    {
+      "id": "kanun:6754:m:56",
+      "maddeKind": "madde",
+      "maddeNo": "56",
+      "heading": "Madde 56",
+      "text": "(1) Bu Kanun hükümlerini Bakanlar Kurulu yürütür.\n\n 6754 SAYILI KANUNA EK VE DEĞİŞİKLİK GETİREN MEVZUATIN VEYA ANAYASA MAHKEMESİ İPTAL KARARLARININ YÜRÜRLÜĞE GİRİŞ TARİHLERİNİ GÖSTERİR TABLO\n\n Değiştiren Kanunun/\n KHK’nin veya İptal Eden Anayasa Mahkemesi Kararının Numarası\n 6754 Sayılı Kanunun Değişen veya İptal Edilen Maddeleri\n Yürürlüğe Giriş Tarihi\n\n KHK/691\n 10\n 22/6/2017\n\n KHK/694\n 6, 12\n 25/8/2017\n\n 7069\n 10\n 8/3/2018\n\n 7078\n 6, 12\n 8/3/2018\n\n KHK/700\n 1, 12\n 24/6/2018 tarihinde birlikte yapılan Türkiye Büyük Millet Meclisi ve Cumhurbaşkanlığı seçimleri sonucunda Cumhurbaşkanının andiçerek göreve başladığı tarihte\n (9/7/2018)\n\n 7155\n 7, 11\n 19/12/2018\n\n 7471\n Geçici Madde 2\n 9/11/2023\n\n [1] 2/7/2018 tarihli ve 700 sayılı Kanun Hükmünde Kararnamenin 208 inci maddesiyle bu fıkrada yer alan “adli, idari ve askerî” ibaresi “adli ve idari” şeklinde değiştirilmiştir.\n\n [2] 15/8/2017 tarihli ve 694 sayılı KHK’nin 175 inci maddesiyle, bu bentte yer alan “(e)” ibaresi “(f)” şeklinde değiştirilmiş, daha sonra bu hüküm 1/2/2018 tarihli ve 7078 sayılı Kanunun 169 uncu maddesiyle aynen kabul edilerek kanunlaşmıştır.\n\n [3] (1) 6/12/2018 tarihli ve 7155 sayılı Kanunun 24 üncü maddesiyle bu fıkrada yer alan “bölge adliye mahkemesi adalet komisyonu” ibaresi “Bakanlık” şeklinde değiştirilmiştir.\n\n [4] 5/6/2017 tarihli ve 691 sayılı KHK’nin 10 uncu maddesiyle, bu maddenin birinci fıkrasına (a) bendinden sonra gelmek üzere (b) bendi eklenmiş ve diğer bentler buna göre teselsül ettirilmiş, daha sonra bu hüküm 31/1/2018 tarihli ve 7069 sayılı Kanunun 10 uncu maddesiyle aynen kabul edilerek kanunlaşmıştır.\n\n [5] 2/7/2018 tarihli ve 700 sayılı Kanun Hükmünde Kararnamenin 208 inci maddesiyle bu fıkrada yer alan “Adli, idari ve askerî” ibaresi “Adli ve idari” şeklinde değiştirilmiştir.\n\n [6] 15/8/2017 tarihli ve 694 sayılı KHK’nin 176 ncı maddesiyle, bu fıkrada yer alan “(ç), (d) ve (e)” ibaresi “(d), (e) ve (f)” şeklinde değiştirilmiş, daha sonra bu hüküm 1/2/2018 tarihli ve 7078 sayılı Kanunun 170 inci maddesiyle aynen kabul edilerek kanunlaşmıştır.\n\n [7] Bu maddede yer alan kadrolarla ilgili olarak 24/11/2016 tarihli ve 29898 sayılı Resmi Gazete’ye bakınız.",
+      "preview": "(1) Bu Kanun hükümlerini Bakanlar Kurulu yürütür. 6754 SAYILI KANUNA EK VE DEĞİŞİKLİK GETİREN MEVZUATIN VEYA ANAYASA MAHKEMESİ İPTAL KARARLA…",
+      "kitap": null,
+      "kisim": null,
+      "bolum": "BEŞİNCİ BÖLÜM · Değiştirilen ve Yürürlükten Kaldırılan Hükümler",
+      "ayirim": null,
+      "maddeBaslik": "Yürütme",
+      "sectionPath": [
+        "BEŞİNCİ BÖLÜM · Değiştirilen ve Yürürlükten Kaldırılan Hükümler",
+        "Yürütme"
+      ]
+    }
+  ]
+}

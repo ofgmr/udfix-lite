@@ -1,0 +1,436 @@
+{
+  "id": "kanun:5346",
+  "kind": "kanun",
+  "no": "5346",
+  "title": "Yenilenebilir Enerji Kaynaklarının Elektrik Enerjisi Üretimi Amaçlı Kullanımına İlişkin Kanun",
+  "shortName": "Yenilenebilir Enerji Kaynaklarının Elektrik Enerjisi Üretimi Amaçlı Kullanımına İlişkin Kanun",
+  "aliases": [
+    "Yenilenebilir Enerji Kaynaklarının Elektrik Enerjisi Üretimi Amaçlı Kullanımına İlişkin Kanun",
+    "5346"
+  ],
+  "tur": 1,
+  "tertip": 5,
+  "sourceUrl": "https://www.mevzuat.gov.tr/mevzuat?MevzuatNo=5346&MevzuatTur=1&MevzuatTertip=5",
+  "kabulTarihi": "10/5/2005",
+  "maddeCount": 25,
+  "maddeler": [
+    {
+      "id": "kanun:5346:m:1",
+      "maddeKind": "madde",
+      "maddeNo": "1",
+      "heading": "Madde 1",
+      "text": "Bu Kanunun amacı; yenilenebilir enerji kaynaklarının elektrik enerjisi üretimi amaçlı kullanımının yaygınlaştırılması, bu kaynakların güvenilir, ekonomik ve kaliteli biçimde ekonomiye kazandırılması, kaynak çeşitliliğinin artırılması, sera gazı emisyonlarının azaltılması, atıkların değerlendirilmesi, çevrenin korunması ve bu amaçların gerçekleştirilmesinde ihtiyaç duyulan imalat sektörünün geliştirilmesidir.",
+      "preview": "Bu Kanunun amacı; yenilenebilir enerji kaynaklarının elektrik enerjisi üretimi amaçlı kullanımının yaygınlaştırılması, bu kaynakların güveni…",
+      "kitap": null,
+      "kisim": null,
+      "bolum": null,
+      "ayirim": null,
+      "maddeBaslik": null,
+      "sectionPath": []
+    },
+    {
+      "id": "kanun:5346:m:2",
+      "maddeKind": "madde",
+      "maddeNo": "2",
+      "heading": "Madde 2",
+      "text": "Bu Kanun; yenilenebilir enerji kaynak alanlarının korunması, bu kaynaklardan elde edilen elektrik enerjisinin belgelendirilmesi ve bu kaynakların kullanımına ilişkin usul ve esasları kapsar.",
+      "preview": "Bu Kanun; yenilenebilir enerji kaynak alanlarının korunması, bu kaynaklardan elde edilen elektrik enerjisinin belgelendirilmesi ve bu kaynak…",
+      "kitap": null,
+      "kisim": null,
+      "bolum": null,
+      "ayirim": null,
+      "maddeBaslik": "Kapsam",
+      "sectionPath": [
+        "Kapsam"
+      ]
+    },
+    {
+      "id": "kanun:5346:m:3",
+      "maddeKind": "madde",
+      "maddeNo": "3",
+      "heading": "Madde 3",
+      "text": "Bu Kanunda geçen;\n 1. Bakanlık : Enerji ve Tabiî Kaynaklar Bakanlığını,\n 2. EPDK : Enerji Piyasası Düzenleme Kurumunu,\n 3. DSİ : Devlet Su İşleri Genel Müdürlüğünü,\n 4. (Değişik:25/11/2020-7257/12 md.) EİGM: Enerji İşleri Genel Müdürlüğünü,\n 5. TEİAŞ : Türkiye Elektrik İletim Anonim Şirketini,\n 6. (Mülga:25/11/2020-7257/12 md.)\n 7. (Değişik:25/11/2020-7257/12 md.) EPİAŞ: Enerji Piyasaları İşletme Anonim Şirketini,\n 8. (Değişik: 29/12/2010-6094/1 md.) Yenilenebilir enerji kaynakları (YEK): Hidrolik, rüzgâr, güneş, jeotermal, biyokütle, (…)[1] dalga, akıntı (…)1 ve gel-git gibi fosil olmayan enerji kaynaklarını,\n 9. (Değişik: 4/6/2016-6719/13 md.) Biyokütle: İthal edilmemek kaydıyla; belediye atıklarının (çöp gazı dâhil) yanı sıra bitkisel yağ atıkları, gıda ve yem değeri olmayan tarımsal atıkları, endüstriyel odun dışındaki orman ürünleri ile atık lastiklerin işlenmesi sonucu ortaya çıkan yan ürünlerden elde edilen kaynakları ve sanayi atık çamurları ile arıtma çamurlarını,[2]\n 10. Jeotermal kaynak: Yerkabuğundaki doğal ısı nedeniyle sıcaklığı sürekli olarak bölgesel atmosferik ortalama sıcaklığın üzerinde olan, erimiş madde ve gaz içerebilen su, buhar ve gazlar ile kızgın kuru kayaların enerjisini taşıyan su, buhar ve gazları,[3]\n 11. (Mülga:25/11/2020-7257/12 md.)\n 12. Türkiye ortalama elektrik toptan satış fiyatı: Yılı içerisinde ülkede uygulanan ve EPDK tarafından hesap edilen elektrik toptan satış fiyatlarının ortalamasını,\n 13. (Ek: 29/12/2010-6094/1 md.) (Mülga:25/11/2020-7257/12 md.)\n 14. (Ek: 29/12/2010-6094/1 md.) YEK Destekleme Mekanizması: Bu Kanun kapsamındaki yenilenebilir enerji kaynaklarına dayalı üretim faaliyeti gösterenlerin faydalanabileceği fiyat, süreler, miktarlar ve bunlara yapılacak ödemelere ilişkin usul ve esasları içeren destekleme mekanizmasını,[4]\n 15. (Ek: 29/12/2010-6094/1 md.) (Mülga:25/11/2020-7257/12 md.)\n 16. (Ek: 29/12/2010-6094/1 md.) YEK toplam bedeli: YEK Destekleme Mekanizmasına tabi olanların her biri tarafından iletim veya dağıtım sistemine verilen elektrik enerjisi miktarı ile YEK listesindeki fiyatların çarpılması suretiyle Türk lirası olarak veya enerjinin sisteme verildiği tarihteki Türkiye Cumhuriyet Merkez Bankası döviz alış kuru üzerinden Türk Lirası olarak hesaplanan bedellerin toplamını,[5]\n 17. (Ek: 29/12/2010-6094/1 md.) Ödeme yükümlülüğü oranı: Tüketicilere elektrik enerjisi satışı yapan tedarikçilerin ödemekle yükümlü olacağı tutarın hesaplanmasında kullanılacak olan, her bir tedarikçinin tüketicilerine sattığı elektrik enerjisi miktarının, bu tedarikçilerin tamamının tüketicilere sattığı toplam elektrik enerjisi miktarına bölünmesi suretiyle hesaplanan oranı,\n İfade eder.\n (Ek fıkra: 29/12/2010-6094/1 md.) Bu Kanunda geçmekle birlikte tanımlanmamış diğer terim ve kavramlar, 14/3/2013 tarihli ve 6446 sayılı Elektrik Piyasası Kanunundaki anlama sahiptir.[6]\n\nİKİNCİ BÖLÜM\nYenilenebilir Enerji Kaynak Alanlarının Belirlenmesi, Korunması,",
+      "preview": "Bu Kanunda geçen; 1. Bakanlık : Enerji ve Tabiî Kaynaklar Bakanlığını, 2. EPDK : Enerji Piyasası Düzenleme Kurumunu, 3. DSİ : Devlet Su İşle…",
+      "kitap": null,
+      "kisim": null,
+      "bolum": null,
+      "ayirim": null,
+      "maddeBaslik": "Tanımlar ve kısaltmalar",
+      "sectionPath": [
+        "Tanımlar ve kısaltmalar"
+      ]
+    },
+    {
+      "id": "kanun:5346:m:4",
+      "maddeKind": "madde",
+      "maddeNo": "4",
+      "heading": "Madde 4",
+      "text": "(Değişik:25/3/2020-7226/26 md.)\n Bakanlık, yenilenebilir enerji kaynaklarının etkin ve verimli kullanılması, bu alanların ve bağlantı kapasitelerinin yatırımcılara tahsisiyle yatırımların hızlı bir şekilde gerçekleştirilmesi amacıyla kamu ve Hazine taşınmazları ile özel mülkiyete konu taşınmazlarda ilgili kurum ve kuruluşların görüşü alınarak yer seçimi yapmak suretiyle yenilenebilir enerji kaynak alanları oluşturur. Bu husus tapu kütüğüne şerh edilir. Şerh tarihinden itibaren üç yıl içinde 4/11/1983 tarihli ve 2942 sayılı Kamulaştırma Kanununun 10 uncu maddesine göre kamulaştırma bedelinin tespitiyle Hazine adına tescili isteğinde bulunulduğuna dair mahkemeden alınacak belge tapu idaresine ibraz edilmediği takdirde, bu şerh tapu idaresince resen sicilden silinir. Yenilenebilir enerji kaynak alanlarının kullanımını ve verimliliğini etkileyici imar planları düzenlenemez. Belirlenen yenilenebilir enerji kaynak alanları imar planlarına resen işlenmek üzere Bakanlık tarafından ilgili mercilere bildirilir.\n Elektrik enerjisi üretimine yönelik yenilenebilir enerji kaynak alanlarının ilgili kurum ve kuruluşların görüşü alınarak belirlenmesi, derecelendirilmesi, korunması, kullanılması, bu alanları kullanacak tüzel kişilerde aranacak koşulların belirlenmesi, TEİAŞ ve/veya ilgili dağıtım şirketi tarafından bağlantı ve sistem kullanımı hakkında görüş verilmesi ve kapasite tahsisi yapılması, yapılacak yarışma, yenilenebilir enerji kaynak alanı tahsisi, teminat alınması, yükümlülüklerin yerine getirilmemesi hâlinde teminatın irat kaydedilmesi, yerli malı kullanım şartlı aksamın özellikleri ile uygulamaya ilişkin usul ve esaslar Bakanlık tarafından çıkarılan yönetmelikle düzenlenir. (Değişik ikinci ve üçüncü cümle:2/5/2024-7501/7 md.) Yarışmaya ilişkin usul ve esaslar ilgili yarışma şartnamesinde Bakanlık tarafından belirlenir. Yarışma sonucunda oluşan fiyat ve/veya bedel, yarışma şartnamesinde belirlenecek süre boyunca YEK Destekleme Mekanizması kapsamında değerlendirilir. Bu madde kapsamında kurulacak üretim tesisleri için ön lisans ve lisans verme koşulları, iptali ve tadili ile ilgili hususlar EPDK tarafından çıkarılan yönetmelikle düzenlenir.[7]\n Özel mülkiyete konu taşınmazların yenilenebilir enerji kaynak alanı olarak belirlenmesi hâlinde, söz konusu alanlar üzerinde 2942 sayılı Kanunun 27 nci maddesi uyarınca acele kamulaştırma yapılabilir. 9/1/2002 tarihli ve 4737 sayılı Endüstri Bölgeleri Kanunu kapsamında belirlenen bölgelerin aynı zamanda bu Kanuna göre yenilenebilir enerji kaynak alanı olarak da belirlenmesi hâlinde, bu alanların tahsis edileceği tüzel kişilerin belirlenmesi dışındaki diğer gerekli işlemler 4737 sayılı Kanuna göre yürütülür. Ancak bu alanları kullanacak tüzel kişiler, bu madde hükümleri kapsamında Bakanlık tarafından belirlenir.",
+      "preview": "(Değişik:25/3/2020-7226/26 md.) Bakanlık, yenilenebilir enerji kaynaklarının etkin ve verimli kullanılması, bu alanların ve bağlantı kapasit…",
+      "kitap": null,
+      "kisim": null,
+      "bolum": null,
+      "ayirim": null,
+      "maddeBaslik": "Kaynak alanlarının belirlenmesi, korunması ve kullanılması",
+      "sectionPath": [
+        "Kaynak alanlarının belirlenmesi, korunması ve kullanılması"
+      ]
+    },
+    {
+      "id": "kanun:5346:m:5",
+      "maddeKind": "madde",
+      "maddeNo": "5",
+      "heading": "Madde 5",
+      "text": "Yenilenebilir enerji kaynaklarından üretilen elektrik enerjisinin iç piyasada ve uluslararası piyasalarda alım satımında kaynak türünün belirlenmesi ve takibi için üretim lisansı sahibi tüzel kişiye EPDK tarafından \"Yenilenebilir Enerji Kaynak Belgesi\" (YEK Belgesi) verilir.\n YEK Belgesi ile ilgili usul ve esaslar yönetmelikle düzenlenir.",
+      "preview": "Yenilenebilir enerji kaynaklarından üretilen elektrik enerjisinin iç piyasada ve uluslararası piyasalarda alım satımında kaynak türünün beli…",
+      "kitap": null,
+      "kisim": null,
+      "bolum": null,
+      "ayirim": null,
+      "maddeBaslik": "YEK belgesi",
+      "sectionPath": [
+        "YEK belgesi"
+      ]
+    },
+    {
+      "id": "kanun:5346:m:6",
+      "maddeKind": "madde",
+      "maddeNo": "6",
+      "heading": "Madde 6",
+      "text": "(Değişik:25/11/2020-7257/13 md.)\n Bu Kanunun yürürlüğe girdiği 18/5/2005 tarihinden 31/12/2020 tarihine kadar işletmeye girmiş veya girecek olan YEK Destekleme Mekanizmasına tabi üretim lisansı sahipleri için, bu Kanuna ekli I sayılı Cetvelde yer alan fiyatlar, on yıl süre ile uygulanır. 31/12/2020 tarihinden sonra işletmeye girecek olan YEK Belgeli üretim tesisleri için bu Kanuna göre uygulanacak fiyat ve süreler Cetveldeki fiyatları geçmemek üzere Cumhurbaşkanı tarafından belirlenir.\n (Değişik ikinci fıkra:2/5/2024-7501/8 md.) On yıllık süresini bitiren lisanssız üretim faaliyeti kapsamındaki tesisler için tesis sahibi tarafından talep edilmesi ve lisans alma bedeli ile lisans süresi boyunca elektrik piyasasında oluşan saatlik piyasa takas fiyatının, bu madde kapsamında tesis tipi bazında uygulanan güncel YEK Destekleme Mekanizması fiyatından fazla olması halinde aradaki fiyat farkının YEK Destekleme Mekanizmasına katkı bedeli olarak ödenmesi koşullarıyla lisanslı üretim faaliyetine geçilebilir. Bu kapsamdaki başvurular için uygulanacak lisans alma bedeli, lisans süresi ve lisanslı üretim faaliyetine geçilmesine ilişkin diğer hususlar EPDK tarafından ayrıca belirlenir. Lisanssız üretime devam edecek üretim tesislerinde üretilecek ihtiyaç fazlası elektrik enerjisi için, elektrik piyasasında oluşan piyasa takas fiyatını geçmemek üzere uygulanacak fiyat ve uygulamaya ilişkin usul ve esaslar Cumhurbaşkanı tarafından belirlenir.[8]\n Bu Kanuna ekli I sayılı Cetvelde hidroelektrik üretim tesisleri için yer alan fiyatlardan pompaj depolamalı, nehir tipi veya rezervuar alanı on beş kilometrekarenin altında olan hidroelektrik üretim tesisleri ile dalga, akıntı ve gel-git enerjisine dayalı elektrik üretim tesisleri faydalanabilir.[9]\n 30/6/2021 tarihinden sonra işletmeye girecek olan elektrik üretim tesisleri için Türk lirası olarak uygulanacak YEK Destekleme Mekanizmasına ve fiyatların güncellenmesine ilişkin usul ve esaslar Cumhurbaşkanı tarafından belirlenir. İşletmeye giren lisanslı elektrik üretim tesislerinden YEK Destekleme Mekanizmasına bir sonraki takvim yılında tabi olmak isteyenler YEK Belgesi almak ve EPDK tarafından belirlenecek tarihe kadar EPDK’ya başvurmak zorundadır.\n YEK Destekleme Mekanizmasında öngörülen süreler; tesislerden işletmedekiler için işletmeye girdiği tarihten, henüz işletmeye girmemiş olanlar için işletmeye girecekleri tarihten itibaren başlar. YEK Destekleme Mekanizmasına tabi olanlar, uygulamaya dâhil oldukları yıl içerisinde uygulamanın dışına çıkamaz.\n YEK Destekleme Mekanizmasına tabi olanların listesi ile bunlara ait tesislerin işletmeye giriş tarihlerine, yıllık elektrik enerjisi üretim kapasitelerine ve yıllık üretim programına ilişkin bilgiler, kaynak türlerine göre EPDK tarafından yıl sonuna kadar yayımlanır.\n Tamamı yenilenebilir olmak üzere birden fazla enerji kaynağından elektrik üretmek amacı ile kurulan üretim tesislerinde üretilerek sisteme verilen net enerji miktarının YEK Destekleme Mekanizmasından faydalanmasına ilişkin usul ve esaslar EPDK tarafından çıkarılan yönetmelikle düzenlenir.\n EPİAŞ, her fatura dönemi için YEK toplam bedelini ilan eder ve her bir tedarikçinin ödeme yükümlülüğü oranını belirler. Ödeme yükümlülüğü oranının belirlenmesi sırasında, bu Kanun kapsamındaki yenilenebilir enerji kaynaklarından üretilerek YEK Destekleme Mekanizmasına tabi olmaksızın serbest piyasada satışı yapılan elektrik enerjisi miktarı bu Kanun kapsamındaki hesaplamalara dâhil edilmez. Tüketicilere elektrik enerjisi sağlayan her bir tedarikçinin ödemekle yükümlü olduğu tutar belirlenerek ilgili tedarikçiye fatura edilir ve yapılan tahsilat YEK Destekleme Mekanizmasına tabi tüzel kişilere payları oranında ödenir. Bu fıkra kapsamındaki EPİAŞ dâhil uygulamalara ilişkin usul ve esaslar, EPDK tarafından çıkarılacak yönetmelikle düzenlenir.\n Yenilenebilir enerji kaynaklarından elektrik enerjisi üreten tesislerin lisanslarına derç edilecek yıllık üretim miktarı, bu tesislerin kaynağına göre mevcut kurulu gücü ile üretebileceği yıllık azami üretim miktarıdır.\n Bu Kanun kapsamındaki yenilenebilir enerji kaynaklarından elektrik enerjisi üreten ve bu madde hükmüne tabi olmak istemeyen tüzel kişiler, lisansları kapsamında serbest piyasada satış yapabilirler.\n YEK Destekleme Mekanizmasına tabi üretim tesislerinin iletim ve/veya dağıtım sistem güvenliği açısından uymaları gereken yükümlülükler ile bu üretim tesislerinden dengeleme güç piyasası ve/veya yan hizmetler piyasası dâhilinde faaliyette bulunacakların belirlenmesi ve bu piyasalarda faaliyette bulunacak tüzel kişilere ilişkin hak ve yükümlülükler EPDK tarafından yürürlüğe konulan yönetmelikle düzenlenir.\n Yenilenebilir enerji kaynaklarına dayalı elektrik üretiminin desteklenmesi amacıyla uygulanan tarifeler ile YEK Destekleme Mekanizması kapsamındaki diğer gelirlerin değerlendirilmesine ilişkin usul ve esaslar EPDK tarafından çıkarılacak yönetmelikle düzenlenir.\n\n Lisanssız elektrik üretim faaliyeti\n MADDE 6/A- (Ek: 29/12/2010-6094/4 md.) (Başlığı ile Birlikte Değişik:25/11/2020-7257/14 md.)\n Kendi tüketim ihtiyacını karşılamaya yönelik olarak yenilenebilir enerji kaynaklarından elektrik enerjisi üreten lisanssız elektrik üretim faaliyetinde bulunan gerçek ve tüzel kişiler; ihtiyaçlarının üzerinde ürettikleri elektrik enerjisini iletim veya dağıtım sistemine vermeleri halinde I sayılı Cetveldeki fiyatlardan on yıl süre ile faydalanabilir. Bu kapsamda iletim veya dağıtım sistemine verilen elektrik enerjisinin görevli tedarik şirketi tarafından satın alınması zorunludur. İlgili şirketlerin bu madde gereğince satın aldıkları elektrik enerjisi, ilgili görevli tedarik şirketi tarafından YEK Destekleme Mekanizması kapsamında üretilmiş ve sisteme verilmiş kabul edilir.[10]\n Yerli ürün kullanımı\n MADDE 6/B – (Ek: 29/12/2010-6094/4 md.) (Değişik:25/11/2020-7257/15 md.)\n Lisans sahibi tüzel kişilerin bu Kanun kapsamındaki yenilenebilir enerji kaynaklarına dayalı ve 30/6/2021 tarihinden önce işletmeye giren üretim tesislerinde kullanılan mekanik ve/veya elektro-mekanik aksamın yurt içinde imal edilmiş olması halinde; bu tesislerde üretilerek iletim veya dağıtım sistemine verilen elektrik enerjisi için, I sayılı Cetvelde belirtilen fiyatlara, üretim tesisinin işletmeye giriş tarihinden itibaren beş yıl süreyle; bu Kanuna ekli II sayılı Cetvelde belirtilen fiyatlar ilave edilir.\n 30/6/2021 tarihinden sonra işletmeye girecek yerli aksam kullanan, YEK Belgeli üretim tesisleri ile tüketim tesisinin ihtiyacını karşılamaya yönelik olarak kurulacak lisanssız üretim tesisleri için Türk lirası olarak uygulanacak yerli katkı fiyatları, bu fiyatların güncellenmesi, uygulanacak süre ve uygulamaya ilişkin diğer usul ve esaslar Cumhurbaşkanı tarafından belirlenerek ilan edilir.\n Yerli aksam kapsamının tanımı, standartları, sertifikasyonu ve denetimi ile ilgili usul ve esaslar, Bakanlık tarafından çıkarılacak yönetmelikle düzenlenir.\n\n Diğer uygulamalar\n Madde 6/C – (Ek: 29/12/2010-6094/4 md.)\n Bu Kanun kapsamındaki yenilenebilir enerji kaynaklarından elektrik enerjisi üretimi yapmak üzere lisans alan tüzel kişiler, lisanslarında belirlenen sahaların dışına çıkılmaması ve işletme anında sisteme verilen gücün lisanslarında belirtilen kurulu gücü aşmaması kaydıyla ek kapasite kurabilirler.\n (Ek fıkra:14/2/2019-7164/39 md.) Yenilenebilir enerji kaynaklarına dayalı elektrik üretim lisansları için bu fıkranın yürürlüğe girdiği tarihten sonra 14/3/2013 tarihli ve 6446 sayılı Elektrik Piyasası Kanununun 7 nci maddesi kapsamında yapılacak kapasite artışı lisans tadili EPDK tarafından uygun görülenler söz konusu kapasite artışı için YEK Destekleme Mekanizmasından yararlanamaz. (Ek cümle:6/1/2022-7350/5 md.) Ancak, 30/6/2021 tarihinden sonra işletmeye giren söz konusu kapasite artışları işletmeye giriş tarihinden itibaren 6/B maddesi kapsamında yerli katkı fiyatından yararlanır. Uygulamaya ilişkin usul ve esaslar EPDK tarafından çıkarılan yönetmelikle düzenlenir.\n (Ek fıkra:14/2/2019-7164/39 md.) İkinci fıkra kapsamında işletmeye alınan kapasite için 4628 sayılı Kanun ve 6446 sayılı Kanun uyarınca ödenmesi taahhüt edilen katkı payı veya katılım bedeli ödeme zorunluluğunu ortadan kaldırmaz.\n (Mülga fıkra:25/11/2020-7257/16 md.)\n EPDK tarafından lisans başvuruları değerlendirilirken bağlantı görüşünün oluşturulması aşamasında, bu Kanun kapsamındaki yenilenebilir enerji kaynaklarına dayalı üretim tesislerine öncelik tanınır.\n (Mülga fıkra: 14/3/2013-6446/30 md.)\n (Mülga fıkra:25/11/2020-7257/16 md.)\n (Değişik fıkra: 4/7/2012-6353/31 md.; Mülga fıkra: 14/3/2013-6446/30 md.)",
+      "preview": "(Değişik:25/11/2020-7257/13 md.) Bu Kanunun yürürlüğe girdiği 18/5/2005 tarihinden 31/12/2020 tarihine kadar işletmeye girmiş veya girecek o…",
+      "kitap": null,
+      "kisim": null,
+      "bolum": "ÜÇÜNCÜ BÖLÜM · Yenilenebilir Enerji Kaynaklarından Elektrik Enerjisi Üretiminde",
+      "ayirim": null,
+      "maddeBaslik": "YEK Destekleme Mekanizması",
+      "sectionPath": [
+        "ÜÇÜNCÜ BÖLÜM · Yenilenebilir Enerji Kaynaklarından Elektrik Enerjisi Üretiminde",
+        "YEK Destekleme Mekanizması"
+      ]
+    },
+    {
+      "id": "kanun:5346:m:7",
+      "maddeKind": "madde",
+      "maddeNo": "7",
+      "heading": "Madde 7",
+      "text": "Yenilenebilir enerji kaynaklarını kullanarak sadece kendi ihtiyaçlarını karşılamak amacıyla azami bin kilovatlık kurulu güce sahip izole elektrik üretim tesisi ve şebeke destekli elektrik üretim tesisi kuran gerçek ve tüzel kişilerden kesin projesi, planlaması, master planı, ön incelemesi veya ilk etüdü DSİ veya EİGM tarafından hazırlanan projeler için hizmet bedelleri alınmaz.[11]\n Bu Kanun kapsamında;\n a) Enerji üretim tesis yatırımları,\n b) Kullanılacak elektro-mekanik sistemlerin yurt içinde imalat olarak temini,\n c) Güneş pilleri ve odaklayıcılı üniteler kullanan elektrik üretim sistemleri kapsamındaki yapılacak AR-GE ve imalat yatırımları,\n d) Biyokütle kaynaklarını kullanarak elektrik enerjisi veya yakıt üretimine yönelik AR-GE tesis yatırımları,\n Cumhurbaşkanı kararı ile teşviklerden yararlandırılabilir.[12]\n Yeterli jeotermal kaynakların bulunduğu bölgelerdeki valilik ve belediyelerin sınırları içinde kalan yerleşim birimlerinin ısı enerjisi ihtiyaçlarını öncelikle jeotermal ve güneş termal kaynaklarından karşılamaları esastır.",
+      "preview": "Yenilenebilir enerji kaynaklarını kullanarak sadece kendi ihtiyaçlarını karşılamak amacıyla azami bin kilovatlık kurulu güce sahip izole ele…",
+      "kitap": null,
+      "kisim": null,
+      "bolum": "DÖRDÜNCÜ BÖLÜM · Yatırım Dönemine İlişkin Uygulama Esasları",
+      "ayirim": null,
+      "maddeBaslik": "Yatırım dönemi uygulamaları",
+      "sectionPath": [
+        "DÖRDÜNCÜ BÖLÜM · Yatırım Dönemine İlişkin Uygulama Esasları",
+        "Yatırım dönemi uygulamaları"
+      ]
+    },
+    {
+      "id": "kanun:5346:m:8",
+      "maddeKind": "madde",
+      "maddeNo": "8",
+      "heading": "Madde 8",
+      "text": "(Değişik: 9/7/2008-5784/23 md.)\n Orman vasıflı olan veya Hazinenin özel mülkiyetinde ya da Devletin hüküm ve tasarrufu altında bulunan taşınmazlardan bu Kanun kapsamındaki yenilenebilir enerji kaynaklarından elektrik enerjisi üretimi yapılmak amacıyla tesis, ulaşım yolları ve şebekeye bağlantı noktasına kadarki enerji nakil hattı için kullanılacak olanlar hakkında Çevre ve Orman Bakanlığı veya Maliye Bakanlığı tarafından bedeli karşılığında izin verilir, kiralama yapılır, irtifak hakkı tesis edilir veya kullanma izni verilir.\n Bu maddenin birinci fıkrasında belirtilen amaçlarda kullanılacak olan taşınmazların 25/2/1998 tarihli ve 4342 sayılı Mera Kanunu kapsamında bulunan mera, yaylak, kışlak ile kamuya ait otlak ve çayır olması halinde, 4342 sayılı Mera Kanunu hükümleri uyarınca bu taşınmazlar, tahsis amacı değiştirilerek Hazine adına tescil edilir. Bu taşınmazlara ilişkin olarak, Maliye Bakanlığı tarafından bedeli karşılığında kiralama yapılır veya irtifak hakkı tesis edilir.\n (Değişik birinci cümle: 29/12/2010-6094/5 md.) Bu Kanunun yayımı tarihi itibariyle işletmede olanlar dâhil, 31/12/2030 tarihine kadar işletmeye girecek bu Kanun kapsamındaki yenilenebilir enerji kaynaklarına dayalı üretim tesislerinden, ulaşım yollarından ve lisanslarında belirtilen sisteme bağlantı noktasına kadarki TEİAŞ ve dağıtım şirketlerine devredilecek olanlar da dâhil enerji nakil hatlarından lisans tarihinden itibaren on yıl boyunca izin, kira, irtifak hakkı ve kullanma izni bedellerine yüzde seksenbeş indirim uygulanır. Orman Köylüleri Kalkındırma Geliri, Ağaçlandırma ve Erozyon Kontrolü Geliri alınmaz.[14][15]\n Bu Kanun kapsamındaki hidroelektrik üretim tesislerinin rezervuar alanında bulunan Hazinenin özel mülkiyetindeki ve Devletin hüküm ve tasarrufu altındaki taşınmaz mallar için Maliye Bakanlığı tarafından bedelsiz olarak kullanma izni verilir.\n (Ek fıkra: 29/12/2010-6094/5 md.) Milli park, tabiat parkı, tabiat anıtı ile tabiatı koruma alanlarında, muhafaza ormanlarında, yaban hayatı geliştirme sahalarında, özel çevre koruma bölgelerinde ilgili Bakanlığın, doğal sit alanlarında ise ilgili koruma bölge kurulunun olumlu görüşü alınmak kaydıyla yenilenebilir enerji kaynaklarına dayalı elektrik üretim tesislerinin kurulmasına izin verilir.\n (Ek fıkra:19/7/2025-7554/15 md.) Orman vasıflı taşınmazlarda rüzgâr veya güneş enerjisine dayalı elektrik üretim tesislerinin kurulabilmesine ilişkin izin süreci aşağıdaki esaslar dahilinde yürütülür:\n a) Ön lisans belgesine istinaden, süre uzatımları dahil olmak üzere, ön lisans süresi kadar izin verilebilir. Üretim lisansı aşamasına geçilememesi halinde bu izin ön lisans süresi sonunda resen sona erer. Üretim lisansı aşamasına geçildiğinin EPDK tarafından ilgili idareye bildirilmesi durumunda, ön lisansa dayalı izin, üretim lisansı süresi sonuna kadar uzatılır.\n b) Proje ve etüt aşamasındaki ölçüm ve sondaj faaliyetleri için, ilgili projenin ön lisans veya üretim lisansı almış olması şartı aranmaksızın izin verilebilir. Ancak, (a) bendi kapsamında izin verilen bir saha içerisinde, izne konu projeye yönelik yapılan ölçüm ve sondaj faaliyetleri için ayrıca izin aranmaz.\n c) İzin başvuruları, başvuru tarihinden itibaren azami altmış gün içinde sonuçlandırılır.\n (Ek fıkra:19/7/2025-7554/15 md.) Rüzgâr veya güneş enerjisine dayalı elektrik üretim tesislerine ilişkin proje tanıtım dosyası veya çevresel etki değerlendirmesi raporu hazırlanması süreçlerinde, rüzgâr projelerinin ana kuş göç yolları üzerinde, güneş projelerinin ise ana kuş göç yolları üzerindeki darboğazlarda olması halinde ornitolojik gözlem yapılması zorunludur. Diğer alanlardaki rüzgâr ve güneş projeleri için ornitolojik gözlem yapılması gerekmez; ancak bu projeler için yatırımcı bu hususta ilgili idare tarafından talep edilen tedbirleri almakla yükümlüdür.\n (Ek fıkra: 29/12/2010-6094/5 md.) Bu Kanun kapsamındaki yenilenebilir enerji kaynaklarına dayalı elektrik enerjisi üretim tesisleri için 29/6/2001 tarihli ve 4706 sayılı Hazineye Ait Taşınmaz Malların Değerlendirilmesi ve Katma Değer Vergisi Kanununda Değişiklik Yapılması Hakkında Kanunun ek 2 nci maddesi hükümleri uygulanmaz.",
+      "preview": "(Değişik: 9/7/2008-5784/23 md.) Orman vasıflı olan veya Hazinenin özel mülkiyetinde ya da Devletin hüküm ve tasarrufu altında bulunan taşınm…",
+      "kitap": null,
+      "kisim": null,
+      "bolum": "DÖRDÜNCÜ BÖLÜM · Yatırım Dönemine İlişkin Uygulama Esasları",
+      "ayirim": null,
+      "maddeBaslik": "Arazi ihtiyacına ve diğer izin süreçlerine ilişkin uygulamalar [13]",
+      "sectionPath": [
+        "DÖRDÜNCÜ BÖLÜM · Yatırım Dönemine İlişkin Uygulama Esasları",
+        "Arazi ihtiyacına ve diğer izin süreçlerine ilişkin uygulamalar [13]"
+      ]
+    },
+    {
+      "id": "kanun:5346:m:9",
+      "maddeKind": "madde",
+      "maddeNo": "9",
+      "heading": "Madde 9",
+      "text": "Bakanlık, bu Kanunda belirtilen temel ilkelerin ve yükümlülüklerin uygulanması, yönlendirilmesi, izlenmesi, değerlendirilmesi ve alınacak tedbirlerin planlanmasında koordinasyonu sağlar.",
+      "preview": "Bakanlık, bu Kanunda belirtilen temel ilkelerin ve yükümlülüklerin uygulanması, yönlendirilmesi, izlenmesi, değerlendirilmesi ve alınacak te…",
+      "kitap": null,
+      "kisim": null,
+      "bolum": "BEŞİNCİ BÖLÜM · Çeşitli Hükümler",
+      "ayirim": null,
+      "maddeBaslik": "Uygulamaların koordinasyonu",
+      "sectionPath": [
+        "BEŞİNCİ BÖLÜM · Çeşitli Hükümler",
+        "Uygulamaların koordinasyonu"
+      ]
+    },
+    {
+      "id": "kanun:5346:m:10",
+      "maddeKind": "madde",
+      "maddeNo": "10",
+      "heading": "Madde 10",
+      "text": "(Değişik: 29/12/2010-6094/6 md.)\n Bu Kanunun 6 ve 6/A maddelerine aykırı faaliyet gösterdiği tespit edilenler hakkında, 6446 sayılı Kanunun 16 ncı maddesi hükümleri uygulanır.[16]",
+      "preview": "(Değişik: 29/12/2010-6094/6 md.) Bu Kanunun 6 ve 6/A maddelerine aykırı faaliyet gösterdiği tespit edilenler hakkında, 6446 sayılı Kanunun 1…",
+      "kitap": null,
+      "kisim": null,
+      "bolum": "BEŞİNCİ BÖLÜM · Çeşitli Hükümler",
+      "ayirim": null,
+      "maddeBaslik": "Yaptırımlar",
+      "sectionPath": [
+        "BEŞİNCİ BÖLÜM · Çeşitli Hükümler",
+        "Yaptırımlar"
+      ]
+    },
+    {
+      "id": "kanun:5346:m:11",
+      "maddeKind": "madde",
+      "maddeNo": "11",
+      "heading": "Madde 11",
+      "text": "Bu Kanunun yürürlük tarihinden itibaren dört ay içerisinde, bu Kanunun 5 inci maddesine ilişkin yönetmelik EPDK tarafından, diğer yönetmelikler Bakanlık tarafından hazırlanarak yürürlüğe konulur.",
+      "preview": "Bu Kanunun yürürlük tarihinden itibaren dört ay içerisinde, bu Kanunun 5 inci maddesine ilişkin yönetmelik EPDK tarafından, diğer yönetmelik…",
+      "kitap": null,
+      "kisim": null,
+      "bolum": "BEŞİNCİ BÖLÜM · Çeşitli Hükümler",
+      "ayirim": null,
+      "maddeBaslik": "Yönetmelikler",
+      "sectionPath": [
+        "BEŞİNCİ BÖLÜM · Çeşitli Hükümler",
+        "Yönetmelikler"
+      ]
+    },
+    {
+      "id": "kanun:5346:m:12",
+      "maddeKind": "madde",
+      "maddeNo": "12",
+      "heading": "Madde 12",
+      "text": "(18.12.1953 tarihli ve 6200 sayılı Devlet Su İşleri Umum Müdürlüğü Teşkilat ve Vazifeleri Hakkında Kanun ile ilgili olup yerine işlenmiştir.)",
+      "preview": "(18.12.1953 tarihli ve 6200 sayılı Devlet Su İşleri Umum Müdürlüğü Teşkilat ve Vazifeleri Hakkında Kanun ile ilgili olup yerine işlenmiştir.…",
+      "kitap": null,
+      "kisim": null,
+      "bolum": "BEŞİNCİ BÖLÜM · Çeşitli Hükümler",
+      "ayirim": null,
+      "maddeBaslik": "Yönetmelikler",
+      "sectionPath": [
+        "BEŞİNCİ BÖLÜM · Çeşitli Hükümler",
+        "Yönetmelikler"
+      ]
+    },
+    {
+      "id": "kanun:5346:m:13",
+      "maddeKind": "madde",
+      "maddeNo": "13",
+      "heading": "Madde 13",
+      "text": "(4.12.1984 tarihli ve 3096 sayılı Kanun ile ilgili olup yerine işlenmiştir.)",
+      "preview": "(4.12.1984 tarihli ve 3096 sayılı Kanun ile ilgili olup yerine işlenmiştir.)",
+      "kitap": null,
+      "kisim": null,
+      "bolum": "BEŞİNCİ BÖLÜM · Çeşitli Hükümler",
+      "ayirim": null,
+      "maddeBaslik": "Yönetmelikler",
+      "sectionPath": [
+        "BEŞİNCİ BÖLÜM · Çeşitli Hükümler",
+        "Yönetmelikler"
+      ]
+    },
+    {
+      "id": "kanun:5346:m:ek:1",
+      "maddeKind": "ek",
+      "maddeNo": "1",
+      "heading": "Ek Madde 1",
+      "text": "(Ek:19/7/2025-7554/16 md.)\n 3/5/1985 tarihli ve 3194 sayılı İmar Kanununun 4 üncü maddesi hükmü saklı kalmak kaydıyla, ön lisans veya üretim lisansı bulunan rüzgâr veya güneş enerjisine dayalı elektrik üretim tesislerinin imar planları, parselasyon planları ve bunların değişiklikleri Bakanlıkça da onaylanabilir. Bakanlık tarafından onaylanan imar planları ve parselasyon planları, onay tarihi itibarıyla yürürlüğe girer. Onaylı planlar, Bakanlık internet sitesinde on beş gün süre ile ilan edilir, itiraz olmaması halinde ilan süresinin sonunda kesinleşir.\n Ön lisans veya üretim lisansı bulunan rüzgâr veya güneş enerjisine dayalı elektrik üretim tesislerinde yer alan yapı ve müştemilata ilişkin yapı ruhsatı, yapı kullanma izin belgesi ve iş yeri açma ve çalışma ruhsatı Bakanlıkça da düzenlenebilir.\n Birinci fıkra kapsamında imar planları Bakanlıkça onaylanan tesislerde ruhsatsız olarak yapımına başlanıldığı tespit edilen yapılar ile ikinci fıkra kapsamında yapı ruhsatı Bakanlıkça düzenlenen yapılardan ruhsata aykırılığı tespit edilenler için 3194 sayılı Kanunun 32 nci ve 42 nci maddeleri çerçevesinde yapılacak işlemler Bakanlıkça tesis edilir. Yapılara ilişkin yıkım kararı alınması hâlinde, Bakanlığın bildirimi üzerine, ilgisine göre büyükşehir belediyesi, belediye veya il özel idaresi tarafından yıkım işlemi gerçekleştirilir.\n Ön lisans veya üretim lisansı bulunan yenilenebilir enerji kaynaklarına dayalı elektrik üretim tesislerine ilişkin yapı ruhsatı başvurularında, acele kamulaştırma kararına istinaden mahkemece verilen taşınmaza el koyma kararı ruhsat alma şartları içerisinde değerlendirilecek belge sayılır.\n Bu maddenin uygulanmasına ilişkin usul ve esaslar Bakanlıkça çıkarılan yönetmelikle belirlenir.",
+      "preview": "(Ek:19/7/2025-7554/16 md.) 3/5/1985 tarihli ve 3194 sayılı İmar Kanununun 4 üncü maddesi hükmü saklı kalmak kaydıyla, ön lisans veya üretim…",
+      "kitap": null,
+      "kisim": null,
+      "bolum": "BEŞİNCİ BÖLÜM · Çeşitli Hükümler",
+      "ayirim": null,
+      "maddeBaslik": "İmar ve ruhsat işlemleri",
+      "sectionPath": [
+        "BEŞİNCİ BÖLÜM · Çeşitli Hükümler",
+        "İmar ve ruhsat işlemleri"
+      ]
+    },
+    {
+      "id": "kanun:5346:m:gecici:1",
+      "maddeKind": "gecici",
+      "maddeNo": "1",
+      "heading": "Geçici Madde 1",
+      "text": "4628 sayılı Elektrik Piyasası Kanunu kapsamında tanımlanan mevcut sözleşmeler arasında yer alan ve bu Kanun kapsamındaki yenilenebilir enerji kaynaklarından üretim yapacak olan işletmeye girmemiş yap-işlet-devret modeli kapsamındaki tüzel kişiler, mevcut sözleşmelerinden doğan haklarından feragat etmek şartıyla, bu Kanun kapsamındaki uygulamalardan yararlanırlar. EPDK tarafından bu projelere üretim lisansı verilir.",
+      "preview": "4628 sayılı Elektrik Piyasası Kanunu kapsamında tanımlanan mevcut sözleşmeler arasında yer alan ve bu Kanun kapsamındaki yenilenebilir enerj…",
+      "kitap": null,
+      "kisim": null,
+      "bolum": "BEŞİNCİ BÖLÜM · Çeşitli Hükümler",
+      "ayirim": null,
+      "maddeBaslik": "İmar ve ruhsat işlemleri",
+      "sectionPath": [
+        "BEŞİNCİ BÖLÜM · Çeşitli Hükümler",
+        "İmar ve ruhsat işlemleri"
+      ]
+    },
+    {
+      "id": "kanun:5346:m:gecici:2",
+      "maddeKind": "gecici",
+      "maddeNo": "2",
+      "heading": "Geçici Madde 2",
+      "text": "Perakende satış lisansı sahibi kamu dağıtım şirketleri Bakanlık ve EPDK'nın mevcut mevzuatı ve uygulamaları dışında, bu Kanunun 6 ncı maddesi kapsamındaki alım yükümlülüklerinden 1.1.2007 tarihine kadar muaftır. Ancak bu Kanunun yürürlük tarihinden sonra kendilerine müracaat eden YEK belgeli üretim lisansı sahibi tüzel kişilerle alım yükümlülüğü 1.1.2007 tarihinden geçerli olacak elektrik satış anlaşmalarını yaparlar.",
+      "preview": "Perakende satış lisansı sahibi kamu dağıtım şirketleri Bakanlık ve EPDK'nın mevcut mevzuatı ve uygulamaları dışında, bu Kanunun 6 ncı maddes…",
+      "kitap": null,
+      "kisim": null,
+      "bolum": "BEŞİNCİ BÖLÜM · Çeşitli Hükümler",
+      "ayirim": null,
+      "maddeBaslik": "İmar ve ruhsat işlemleri",
+      "sectionPath": [
+        "BEŞİNCİ BÖLÜM · Çeşitli Hükümler",
+        "İmar ve ruhsat işlemleri"
+      ]
+    },
+    {
+      "id": "kanun:5346:m:gecici:3",
+      "maddeKind": "gecici",
+      "maddeNo": "3",
+      "heading": "Geçici Madde 3",
+      "text": "Bu Kanunun 6 ncı maddesinde belirtilen projeksiyon, bu Kanunun yürürlüğe girdiği tarihten itibaren üç ay içerisinde Bakanlık tarafından yayımlanır. Ancak bu projeksiyon, Kanunun yürürlük tarihinden önce EPDK tarafından üretim lisansları verilmiş projeleri ve geçici 1 inci maddede tanımlanan mevcut sözleşmeli projelerden bu Kanun kapsamında üretim lisansı alacak olan projeleri de kapsar.",
+      "preview": "Bu Kanunun 6 ncı maddesinde belirtilen projeksiyon, bu Kanunun yürürlüğe girdiği tarihten itibaren üç ay içerisinde Bakanlık tarafından yayı…",
+      "kitap": null,
+      "kisim": null,
+      "bolum": "BEŞİNCİ BÖLÜM · Çeşitli Hükümler",
+      "ayirim": null,
+      "maddeBaslik": "İmar ve ruhsat işlemleri",
+      "sectionPath": [
+        "BEŞİNCİ BÖLÜM · Çeşitli Hükümler",
+        "İmar ve ruhsat işlemleri"
+      ]
+    },
+    {
+      "id": "kanun:5346:m:gecici:4",
+      "maddeKind": "gecici",
+      "maddeNo": "4",
+      "heading": "Geçici Madde 4",
+      "text": "(Mülga: 14/3/2013-6446/30 md.)",
+      "preview": "(Mülga: 14/3/2013-6446/30 md.)",
+      "kitap": null,
+      "kisim": null,
+      "bolum": "BEŞİNCİ BÖLÜM · Çeşitli Hükümler",
+      "ayirim": null,
+      "maddeBaslik": "İmar ve ruhsat işlemleri",
+      "sectionPath": [
+        "BEŞİNCİ BÖLÜM · Çeşitli Hükümler",
+        "İmar ve ruhsat işlemleri"
+      ]
+    },
+    {
+      "id": "kanun:5346:m:gecici:5",
+      "maddeKind": "gecici",
+      "maddeNo": "5",
+      "heading": "Geçici Madde 5",
+      "text": "(Ek: 29/12/2010-6094/7 md.)\n Bu Kanunun 6, 6/A, 6/B ve 6/C maddelerinde çıkarılması öngörülen yönetmelikler, bu maddenin yürürlüğe girdiği tarihten itibaren 3 ay içerisinde yayımlanır. YEK Destekleme Mekanizmasına 2011 yılında tabi olmak isteyenler, YEK Belgesi almak ve 6, 6/A, 6/B ve 6/C maddelerinde çıkarılması öngörülen yönetmeliklerin yayımlanmasını takip eden 1 ay içerisinde EPDK’ya başvurmak zorundadır. YEK Destekleme Mekanizmasına 2011 yılında tabi olanların listesi, başvuruların alınmasını takip eden 1 ay içerisinde EPDK tarafından yayımlanır.",
+      "preview": "(Ek: 29/12/2010-6094/7 md.) Bu Kanunun 6, 6/A, 6/B ve 6/C maddelerinde çıkarılması öngörülen yönetmelikler, bu maddenin yürürlüğe girdiği ta…",
+      "kitap": null,
+      "kisim": null,
+      "bolum": "BEŞİNCİ BÖLÜM · Çeşitli Hükümler",
+      "ayirim": null,
+      "maddeBaslik": "İmar ve ruhsat işlemleri",
+      "sectionPath": [
+        "BEŞİNCİ BÖLÜM · Çeşitli Hükümler",
+        "İmar ve ruhsat işlemleri"
+      ]
+    },
+    {
+      "id": "kanun:5346:m:gecici:6",
+      "maddeKind": "gecici",
+      "maddeNo": "6",
+      "heading": "Geçici Madde 6",
+      "text": "(Ek:17/7/2019-7186/15 md.)\n 4/6/2016 tarihli ve 6719 sayılı Elektrik Piyasası Kanunu ile Bazı Kanunlarda Değişiklik Yapılmasına Dair Kanun ile 3 üncü maddenin birinci fıkrasının (9) numaralı bendinde yer alan biyokütletanımı kapsamına dahil edilen kaynaklardan enerji üreten tesisler için YEK Destekleme Mekanizmasında öngörülen süreler, üretim tesisinin YEK Destekleme Mekanizmasına dahil edildiği tarihten itibaren başlar.",
+      "preview": "(Ek:17/7/2019-7186/15 md.) 4/6/2016 tarihli ve 6719 sayılı Elektrik Piyasası Kanunu ile Bazı Kanunlarda Değişiklik Yapılmasına Dair Kanun il…",
+      "kitap": null,
+      "kisim": null,
+      "bolum": "BEŞİNCİ BÖLÜM · Çeşitli Hükümler",
+      "ayirim": null,
+      "maddeBaslik": "İmar ve ruhsat işlemleri",
+      "sectionPath": [
+        "BEŞİNCİ BÖLÜM · Çeşitli Hükümler",
+        "İmar ve ruhsat işlemleri"
+      ]
+    },
+    {
+      "id": "kanun:5346:m:gecici:7",
+      "maddeKind": "gecici",
+      "maddeNo": "7",
+      "heading": "Geçici Madde 7",
+      "text": "(Ek:25/11/2020-7257/19 md.)\n (İptal madde: Anayasa Mahkemesinin 11/10/2023 tarihli ve E: 2021/14, K: 2023/173 sayılı Kararı ile)",
+      "preview": "(Ek:25/11/2020-7257/19 md.) (İptal madde: Anayasa Mahkemesinin 11/10/2023 tarihli ve E: 2021/14, K: 2023/173 sayılı Kararı ile)",
+      "kitap": null,
+      "kisim": null,
+      "bolum": "BEŞİNCİ BÖLÜM · Çeşitli Hükümler",
+      "ayirim": null,
+      "maddeBaslik": "İmar ve ruhsat işlemleri",
+      "sectionPath": [
+        "BEŞİNCİ BÖLÜM · Çeşitli Hükümler",
+        "İmar ve ruhsat işlemleri"
+      ]
+    },
+    {
+      "id": "kanun:5346:m:gecici:8",
+      "maddeKind": "gecici",
+      "maddeNo": "8",
+      "heading": "Geçici Madde 8",
+      "text": "(Ek:25/11/2020-7257/20 md.)\n 12/5/2014 ile 30/4/2015 tarihleri arasında yapılan güneş enerjisine dayalı önlisans başvurularına ilişkin yarışmalar kapsamında kapasite tahsisi gerçekleştirilen üretim tesisleri için yarışma sonucu teklif edilen katkı payı tutarı, 31/12/2020 tarihinden sonra işletmeye girilmesi durumunda da ilgili mevzuatı kapsamında ödenir.",
+      "preview": "(Ek:25/11/2020-7257/20 md.) 12/5/2014 ile 30/4/2015 tarihleri arasında yapılan güneş enerjisine dayalı önlisans başvurularına ilişkin yarışm…",
+      "kitap": null,
+      "kisim": null,
+      "bolum": "BEŞİNCİ BÖLÜM · Çeşitli Hükümler",
+      "ayirim": null,
+      "maddeBaslik": "İmar ve ruhsat işlemleri",
+      "sectionPath": [
+        "BEŞİNCİ BÖLÜM · Çeşitli Hükümler",
+        "İmar ve ruhsat işlemleri"
+      ]
+    },
+    {
+      "id": "kanun:5346:m:gecici:9",
+      "maddeKind": "gecici",
+      "maddeNo": "9",
+      "heading": "Geçici Madde 9",
+      "text": "(Ek:25/11/2020-7257/21 md.)\n 15/2/2011 ile 13/9/2011 tarihleri arasında yapılan rüzgar enerjisine dayalı lisans başvurularına ilişkin yarışmalar kapsamında kapasite tahsisi gerçekleştirilen üretim tesisleri için yarışma sonucu teklif edilen katkı payı, 31/12/2020 tarihinden sonra işletmeye girilmesi durumunda da ilgili mevzuatı kapsamında uygulanır.",
+      "preview": "(Ek:25/11/2020-7257/21 md.) 15/2/2011 ile 13/9/2011 tarihleri arasında yapılan rüzgar enerjisine dayalı lisans başvurularına ilişkin yarışma…",
+      "kitap": null,
+      "kisim": null,
+      "bolum": "BEŞİNCİ BÖLÜM · Çeşitli Hükümler",
+      "ayirim": null,
+      "maddeBaslik": "İmar ve ruhsat işlemleri",
+      "sectionPath": [
+        "BEŞİNCİ BÖLÜM · Çeşitli Hükümler",
+        "İmar ve ruhsat işlemleri"
+      ]
+    },
+    {
+      "id": "kanun:5346:m:14",
+      "maddeKind": "madde",
+      "maddeNo": "14",
+      "heading": "Madde 14",
+      "text": "Bu Kanun yayımı tarihinde yürürlüğe girer.",
+      "preview": "Bu Kanun yayımı tarihinde yürürlüğe girer.",
+      "kitap": null,
+      "kisim": null,
+      "bolum": "BEŞİNCİ BÖLÜM · Çeşitli Hükümler",
+      "ayirim": null,
+      "maddeBaslik": "Yürürlük",
+      "sectionPath": [
+        "BEŞİNCİ BÖLÜM · Çeşitli Hükümler",
+        "Yürürlük"
+      ]
+    },
+    {
+      "id": "kanun:5346:m:15",
+      "maddeKind": "madde",
+      "maddeNo": "15",
+      "heading": "Madde 15",
+      "text": "Bu Kanun hükümlerini Bakanlar Kurulu yürütür.\n\n (Değişik:25/11/2020-7257/22 md.)\n I Sayılı Cetvel\n\n Yenilenebilir Enerji Kaynağına\n Dayalı Üretim Tesis Tipi\n Uygulanacak Fiyatlar\n\n a. Hidroelektrik üretim tesisi\n 7,3 (ABD Doları cent/kWh)\n\n b. Rüzgar enerjisine dayalı üretim tesisi\n 7,3 (ABD Doları cent/kWh)\n\n c. Jeotermal enerjisine dayalı üretim tesisi\n 10,5 (ABD Doları cent/kWh)\n\n ç. Biyokütleye dayalı üretim tesisi (çöp gazı dâhil)\n 13,3 (ABD Doları cent/kWh)\n\n d. Güneş enerjisine dayalı üretim tesisi\n 13,3 (ABD Doları cent/kWh)\n\n e. 10/5/2019 tarihinden itibaren bağlantı anlaşmasına çağrı mektubu almaya hak kazanılan yenilenebilir enerji kaynaklarına dayalı lisanssız elektrik üretim faaliyeti kapsamındaki tesisler\n EPDK tarafından TL kuruş/kWh olarak ilan edilen kendi abone grubuna ait perakende tek zamanlı aktif enerji bedeli\n\n II Sayılı Cetvel\n (29/12/2010 tarihli ve 6094 sayılı Kanunun hükmüdür.)\n\n Tesis Tipi\n Yurt İçinde Gerçekleşen İmalat\n Yerli Katkı Fiyatları[17]\n (ABD Doları cent/kWh)\n\n A- Hidrolelektrik üretim tesisi\n 1- Türbin\n 1,3\n\n 2- Jeneratör ve güç elektroniği\n 1,0\n\n B- Rüzgar enerjisine dayalı üretim tesisi\n 1- Kanat\n 0,8\n\n 2- Jeneratör ve güç elektroniği\n 1,0\n\n 3- Türbin kulesi\n 0,6\n\n 4- Rotor ve nasel gruplarındaki mekanik aksamın tamamı (Kanat grubu ile jeneratör ve güç elektroniği için yapılan ödemeler hariç.)\n 1,3\n\n C- Fotovoltaik güneş enerjisine dayalı üretim tesisi\n 1- PV panel entegrasyonu ve güneş yapısal mekaniği imalatı\n 0,8\n\n 2- PV modülleri\n 1,3\n\n 3- PV modülünü oluşturan hücreler\n 3,5\n\n 4- İnvertör\n 0,6\n\n 5- PV modülü üzerine güneş ışınını odaklayan malzeme\n 0,5\n\n D- Yoğunlaştırılmış güneş enerjisine dayalı üretim tesisi\n 1- Radyasyon toplama tüpü\n 2,4\n\n 2- Yansıtıcı yüzey levhası\n 0,6\n\n 3- Güneş takip sistemi\n 0,6\n\n 4- Isı enerjisi depolama sisteminin mekanik aksamı\n 1,3\n\n 5- Kulede güneş ışınını toplayarak buhar üretim sisteminin mekanik aksamı\n 2,4\n\n 6- Stirling motoru\n 1,3\n\n 7- Panel entegrasyonu ve güneş paneli yapısal mekaniği\n 0,6\n\n E- Biyokütle enerjisine dayalı üretim tesisi\n 1- Akışkan yataklı buhar kazanı\n 0,8\n\n 2- Sıvı veya gaz yakıtlı buhar kazanı\n 0,4\n\n 3- Gazlaştırma ve gaz temizleme grubu\n 0,6\n\n 4- Buhar veya gaz türbini\n 2,0\n\n 5- İçten yanmalı motor veya stirling motoru\n 0,9\n\n 6- Jeneratör ve güç elektroniği\n 0,5\n\n 7- Kojenerasyon sistemi\n 0,4\n\n F- Jeotermal enerjisine dayalı üretim tesisi\n 1- Buhar veya gaz türbini\n 1,3\n\n 2- Jeneratör ve güç elektroniği\n 0,7\n\n 3- Buhar enjektörü veya vakum kompresörü\n 0,7\n\n 5346 SAYILI KANUNA EK VE DEĞİŞİKLİK GETİREN MEVZUATIN VEYA\n ANAYASA MAHKEMESİ TARAFINDAN İPTAL EDİLEN HÜKÜMLERİN\n YÜRÜRLÜĞE GİRİŞ TARİHİNİ GÖSTERİR LİSTE\n\n Değiştiren Kanunun/ İptal Eden Anayasa Mahkemesinin Kararının Numarası\n 5346 Sayılı Kanunun Değişen veya İptal Edilen Maddeleri\n Yürürlüğe Giriş Tarihi\n\n 5627\n 6, 8\n 2/5/2007\n\n 5784\n 8\n 26/7/2008\n\n 6094\n 3, 4, 6, 6/A, 6/B, 6/C, 8, 10, Geçici Madde 5,\n (I) ve (II) sayılı cetvel\n 8/1/2011\n\n 6111\n Geçici Madde 4\n 25/2/2011\n\n 6353\n 6/C\n 12/7/2012\n\n 6446\n 6/C maddesinin dördüncü ve altıncı fıkraları ile Geçici Madde 4\n 30/3/2013\n\n 6719\n 3, 6\n 17/6/2016\n\n KHK/700\n 6, 6/B, 6/C ,7\n 24/6/2018 tarihinde birlikte yapılan Türkiye Büyük Millet Meclisi ve Cumhurbaşkanlığı seçimleri sonucunda Cumhurbaşkanının andiçerek göreve başladığı tarihte (9/7/2018)\n\n 7153\n 6/A\n 10/12/2018\n\n 7164\n 6,6/C\n 28/2/2019\n\n 7186\n Geçici Madde 6\n 19/7/2019\n\n 7226\n 4, 6\n 26/3/2020\n\n 7257\n 3, 6, 6/A, 6/B, 6/C, 7, 8, Geçici Madde 7, Geçici Madde 8, Geçici Madde 9, I sayılı Cetvel, II sayılı Cetvel\n 2/12/2020\n\n 7346\n 6/A, 10\n 25/12/2021\n\n 7350\n 6/C\n 11/1/2022\n\n 7451\n 6\n 10/4/2023\n\n Anayasa Mahkemesinin 11/10/2023 Tarihli ve E: 2021/14, K: 2023/173 Sayılı Kararı\n Geçici Madde 7\n 13/12/2023\n\n 7501\n 4, 6\n 11/5/2024\n\n 7554\n 8, Ek Madde 1\n 24/7/2025\n\n [1] 25/11/2020 tarihli ve 7257 sayılı Kanunun 12 nci maddesiyle bu bentte yer alan “biyokütleden elde edilen gaz (çöp gazı dâhil),” ibaresi ile “enerjisi” ibaresi madde metninden çıkarılmıştır.\n\n [2] 25/11/2020 tarihli ve 7257 sayılı Kanunun 12 nci maddesiyle bu bentte yer alan “kentsel atıkların” ibaresi “belediye atıklarının (çöp gazı dâhil)” şeklinde, “tarımsal hasat atıkları dâhil olmak üzere tarım ve orman ürünlerinden ve bu ürünler” ibaresi “gıda ve yem değeri olmayan tarımsal atıkları, endüstriyel odun dışındaki orman ürünleri” şeklinde değiştirilmiştir.\n\n [3] 25/11/2020 tarihli ve 7257 sayılı Kanunun 12 nci maddesiyle bu bentte yer alan “doğal su, buhar ve gazlar ile kızgın kuru kayalardan elde edilen su, buhar ve gazları” ibaresi “su, buhar ve gazlar ile kızgın kuru kayaların enerjisini taşıyan su, buhar ve gazları” şeklinde değiştirilmiştir.\n\n [4] 25/11/2020 tarihli ve 7257 sayılı Kanunun 12 nci maddesiyle bu bentte yer alan “süreler” ibaresinden sonra gelmek üzere “, miktarlar” ibaresi eklenmiştir.\n\n [5] 25/11/2020 tarihli ve 7257 sayılı Kanunun 12 nci maddesiyle bu bentte yer alan “fiyatların çarpılması suretiyle,” ibaresi “fiyatların çarpılması suretiyle Türk lirası olarak veya” şeklinde değiştirilmiştir.\n\n [6] 25/11/2020 tarihli ve 7257 sayılı Kanunun 12 nci maddesiyle bu fıkrada yer alan “20/2/2001 tarihli ve 4628 sayılı Elektrik Piyasası Kanunundaki” ibaresi “14/3/2013 tarihli ve 6446 sayılı Elektrik Piyasası Kanunundaki” şeklinde değiştirilmiştir.\n\n [7] Anayasa Mahkemesinin 26/11/2025 tarihli ve E.:2024/133; K.:2025/233 sayılı Kararı ile bu fıkranın ikinci cümlesi iptal edilmiştir. Kararın Resmî Gazete’de yayımlanmasından başlayarak dokuz ay sonra (10/12/2026) yürürlüğe gireceği hüküm altına alınmıştır.\n\n [8] Anayasa Mahkemesinin 26/11/2025 tarihli ve E.:2024/133; K.:2025/233 sayılı Kararı ile bu fıkranın birinci ve ikinci cümleleri iptal edilmiştir. Kararın Resmî Gazete’de yayımlanmasından başlayarak dokuz ay sonra (10/12/2026) yürürlüğe gireceği hüküm altına alınmıştır.\n\n [9] 4/4/2023 tarihli ve 7451 sayılı Kanunun 15 inci maddesiyle bu fıkrada yer alan “fiyatlardan” ibaresinden sonra gelmek üzere “pompaj depolamalı,” ibaresi eklenmiştir.\n\n [10] 21/12/2021 tarihli ve 7346 sayılı Kanunun 21 inci maddesiyle bu fıkranın birinci cümlesine “ihtiyaçlarının üzerinde ürettikleri elektrik enerjisini” ibaresinden sonra gelmek üzere ve ikinci cümlesine “Bu kapsamda” ibaresinden sonra gelmek üzere “iletim veya” ibareleri eklenmiştir.\n\n [11] 25/11/2020 tarihli ve 7257 sayılı Kanunun 17 nci maddesiyle bu fıkrada yer alan “EİE” ibaresi “EİGM” şeklinde değiştirilmiştir.\n\n [12] 2/7/2018 tarihli ve 700 sayılı KHK’nin 164 üncü maddesiyle bu fıkrada yer alan “Bakanlar Kurulu” ibaresi “Cumhurbaşkanı” şeklinde değiştirilmiştir.\n\n [13] 19/7/2025 tarihli ve 7554 sayılı Kanunun 15 inci maddesiyle bu madde başlığı “Arazi ihtiyacına ilişkin uygulamalar” iken metne işlendiği şekilde değiştirilmiştir.\n\n [14] 25/11/2020 tarihli ve 7257 sayılı Kanunun 18 inci maddesiyle bu fıkrada yer alan “31/12/2015” ibaresi “31/12/2025” şeklinde, “yatırım ve işletme dönemlerinin ilk on yılında” ibaresi ise “lisans tarihinden itibaren on yıl boyunca” şeklinde değiştirilmiştir.\n\n [15] 19/7/2025 tarihli ve 7554 sayılı Kanunun 15 inci maddesiyle bu fıkrada yer alan “31/12/2025” ibaresi “31/12/2030” şeklinde değiştirilmiştir.\n\n [16] 21/12/2021 tarihli ve 7346 sayılı Kanunun 22 nci maddesiyle bu fıkrada yer alan “4628” ibaresi “6446” şeklinde ve “11 inci” ibaresi “16 ncı” şeklinde değiştirilmiştir.\n\n [17] 25/11/2020 tarihli ve 7257 sayılı Kanunun 23 üncü maddesiyle bu cetvelin “Yerli Katkı İlavesi (ABD Doları cent/kWh)” başlığında yer alan “İlavesi” ibaresi “Fiyatları” şeklinde değiştirilmiştir.",
+      "preview": "Bu Kanun hükümlerini Bakanlar Kurulu yürütür. (Değişik:25/11/2020-7257/22 md.) I Sayılı Cetvel Yenilenebilir Enerji Kaynağına Dayalı Üretim…",
+      "kitap": null,
+      "kisim": null,
+      "bolum": "BEŞİNCİ BÖLÜM · Çeşitli Hükümler",
+      "ayirim": null,
+      "maddeBaslik": "Yürütme",
+      "sectionPath": [
+        "BEŞİNCİ BÖLÜM · Çeşitli Hükümler",
+        "Yürütme"
+      ]
+    }
+  ]
+}

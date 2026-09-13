@@ -1,0 +1,1652 @@
+{
+  "id": "kanun:2797",
+  "kind": "kanun",
+  "no": "2797",
+  "title": "Yargıtay Kanunu",
+  "shortName": "Yargıtay Kanunu",
+  "aliases": [
+    "Yargıtay Kanunu",
+    "2797"
+  ],
+  "tur": 1,
+  "tertip": 5,
+  "sourceUrl": "https://www.mevzuat.gov.tr/mevzuat?MevzuatNo=2797&MevzuatTur=1&MevzuatTertip=5",
+  "kabulTarihi": "4/2/1983",
+  "maddeCount": 98,
+  "maddeler": [
+    {
+      "id": "kanun:2797:m:1",
+      "maddeKind": "madde",
+      "maddeNo": "1",
+      "heading": "Madde 1",
+      "text": "Yargıtay, adliye mahkemelerince verilen ve kanunun başka bir adli yargı merciine bırakmadığı karar ve hükümlerin son inceleme mercii olup, Türkiye Cumhuriyeti Anayasası ile bu Kanun ve diğer kanunların hükümlerine göre görev yapan bağımsız bir yüksek mahkemedir.",
+      "preview": "Yargıtay, adliye mahkemelerince verilen ve kanunun başka bir adli yargı merciine bırakmadığı karar ve hükümlerin son inceleme mercii olup, T…",
+      "kitap": null,
+      "kisim": null,
+      "bolum": null,
+      "ayirim": null,
+      "maddeBaslik": null,
+      "sectionPath": []
+    },
+    {
+      "id": "kanun:2797:m:2",
+      "maddeKind": "madde",
+      "maddeNo": "2",
+      "heading": "Madde 2",
+      "text": "Yargıtay; Birinci Başkanlık, daireler, Yargıtay Cumhuriyet Başsavcılığı, bürolar ve idari birimlerden oluşur.",
+      "preview": "Yargıtay; Birinci Başkanlık, daireler, Yargıtay Cumhuriyet Başsavcılığı, bürolar ve idari birimlerden oluşur.",
+      "kitap": null,
+      "kisim": null,
+      "bolum": null,
+      "ayirim": null,
+      "maddeBaslik": "Kuruluş:",
+      "sectionPath": [
+        "Kuruluş:"
+      ]
+    },
+    {
+      "id": "kanun:2797:m:3",
+      "maddeKind": "madde",
+      "maddeNo": "3",
+      "heading": "Madde 3",
+      "text": "Yargıtayın karar organları şunlardır:\n 1.Daireler,\n 2. Hukuk Genel Kurulu,\n 3. Ceza Genel Kurulu,\n 4. Büyük Genel Kurul,\n 5. Başkanlar Kurulları,\n 6. Birinci Başkanlık Kurulu,\n 7. Yüksek Disiplin Kurulu,\n 8. Yönetim Kurulu.",
+      "preview": "Yargıtayın karar organları şunlardır: 1.Daireler, 2. Hukuk Genel Kurulu, 3. Ceza Genel Kurulu, 4. Büyük Genel Kurul, 5. Başkanlar Kurulları,…",
+      "kitap": null,
+      "kisim": null,
+      "bolum": null,
+      "ayirim": null,
+      "maddeBaslik": "Karar organları:",
+      "sectionPath": [
+        "Karar organları:"
+      ]
+    },
+    {
+      "id": "kanun:2797:m:4",
+      "maddeKind": "madde",
+      "maddeNo": "4",
+      "heading": "Madde 4",
+      "text": "Birinci Başkanlık; Birinci Başkan ve başkanvekilleriyle Genel Sekreterden oluşur.",
+      "preview": "Birinci Başkanlık; Birinci Başkan ve başkanvekilleriyle Genel Sekreterden oluşur.",
+      "kitap": null,
+      "kisim": null,
+      "bolum": null,
+      "ayirim": null,
+      "maddeBaslik": "Birinci Başkanlık:",
+      "sectionPath": [
+        "Birinci Başkanlık:"
+      ]
+    },
+    {
+      "id": "kanun:2797:m:5",
+      "maddeKind": "madde",
+      "maddeNo": "5",
+      "heading": "Madde 5",
+      "text": "(Değişik: 2/12/2014-6572/21 md.)[1]\n Yargıtayda on iki hukuk, on iki ceza dairesi ve her dairede bir daire başkanı ile yeteri kadar üye bulunur.",
+      "preview": "(Değişik: 2/12/2014-6572/21 md.)[1] Yargıtayda on iki hukuk, on iki ceza dairesi ve her dairede bir daire başkanı ile yeteri kadar üye bulun…",
+      "kitap": null,
+      "kisim": null,
+      "bolum": null,
+      "ayirim": null,
+      "maddeBaslik": "Daireler:",
+      "sectionPath": [
+        "Daireler:"
+      ]
+    },
+    {
+      "id": "kanun:2797:m:6",
+      "maddeKind": "madde",
+      "maddeNo": "6",
+      "heading": "Madde 6",
+      "text": "Yargıtay Cumhuriyet Başsavcılığı; Cumhuriyet Başsavcısı, Cumhuriyet Başsavcıvekili, Cumhuriyet Başsavcı Başyardımcısı ile Cumhuriyet Başsavcı yardımcılarından oluşur.",
+      "preview": "Yargıtay Cumhuriyet Başsavcılığı; Cumhuriyet Başsavcısı, Cumhuriyet Başsavcıvekili, Cumhuriyet Başsavcı Başyardımcısı ile Cumhuriyet Başsavc…",
+      "kitap": null,
+      "kisim": null,
+      "bolum": null,
+      "ayirim": null,
+      "maddeBaslik": "Yargıtay Cumhuriyet Başsavcılığı:",
+      "sectionPath": [
+        "Yargıtay Cumhuriyet Başsavcılığı:"
+      ]
+    },
+    {
+      "id": "kanun:2797:m:7",
+      "maddeKind": "madde",
+      "maddeNo": "7",
+      "heading": "Madde 7",
+      "text": "Hukuk Genel Kurulu, hukuk dairelerinin başkan ve üyelerinden; Ceza Genel Kurulu, ceza dairelerinin başkan ve üyelerinden oluşur.\n Hukuk ve Ceza Genel Kurullarının içtihadı birleştirme toplantılarında; bu kurullara bağlı dairelerin her birinin mevcudu üç itibar edilerek toplamının en az üçte ikisi kadar üyenin, diğer toplantılarında, işi görüşme konusu olan daireden üçten fazla üyenin katılmaması koşuluyla bu kurullara bağlı her daireden en az bir üyenin bulunması zorunludur. (Ek cümle: 1/7/2016-6723/16 md.) Genel kurul toplantısına katılan üye sayısının çift olması hâlinde, ilgili kurul başkanı tarafından belirlenecek daireden bir üye daha Kurula katılır.\n Toplantılarda daire başkanlarının en az yarısından fazlasının (…)2 bulunması zorunludur.\n Ceza Genel Kurulunun içtihadı birleştirme toplantılarına ayrıca Yargıtay Cumhuriyet Başsavcısı ve Yargıtay Cumhuriyet Başsavcıvekili de katılır.\n İtiraz ettiği konularda görüşünü açıklamak, müzakere ve oya katılmamak koşuluyla Yargıtay Cumhuriyet Başsavcısı veya Yargıtay Cumhuriyet Başsavcıvekili Ceza Genel Kuruluna bizzat katılabilir.\n Hukuk ve Ceza Genel Kurullarındaki Başkanlar yeter sayısı, başkanların izinli veya özürlü olması halinde aynı dairenin kıdemli üyesi ile doldurulur.\n Birinci Başkanın başkanlık etmediği veya bulunmadığı zamanlarda Hukuk Genel Kuruluna hukuk dairelerinden, Ceza Genel Kuruluna ise ceza dairelerinden seçilmiş olan başkanvekili başkanlık eder.\n Birinci Başkanla belli kurulda onun yerini tutacak olan Birinci Başkanvekilinin bulunmaması halinde, diğer birinci başkanvekili, onun da bulunmaması halinde o toplantıya katılmış olan daire başkanlarından en kıdemlisi başkanlık görevini yapar.\n İcra ve İflas Kanunundaki ceza hükümlerinin uygulanmasına ilişkin daire kararlarının Ceza Genel Kurulunda incelenmesi sırasında ilgili dairenin başkan ve en az bir üyesi de Ceza Genel Kuruluna katılır.\n (Mülga onuncu fıkra: 2/1/2017-KHK-680/2 md.; Aynen kabul: 1/2/2018-7072/1 md.)",
+      "preview": "Hukuk Genel Kurulu, hukuk dairelerinin başkan ve üyelerinden; Ceza Genel Kurulu, ceza dairelerinin başkan ve üyelerinden oluşur. Hukuk ve Ce…",
+      "kitap": null,
+      "kisim": null,
+      "bolum": null,
+      "ayirim": null,
+      "maddeBaslik": "Hukuk ve Ceza Genel Kurulları:[2]",
+      "sectionPath": [
+        "Hukuk ve Ceza Genel Kurulları:[2]"
+      ]
+    },
+    {
+      "id": "kanun:2797:m:8",
+      "maddeKind": "madde",
+      "maddeNo": "8",
+      "heading": "Madde 8",
+      "text": "Yargıtay Büyük Genel Kurulu; Birinci Başkan, birinci başkanvekilleri, daire başkanları, üyeler ile Yargıtay Cumhuriyet Başsavcısı ve Yargıtay Cumhuriyet Başsavcıvekilinden oluşur.\n Yargıtay Büyük Genel Kurulu, dairelerden her birinin mevcudu beş itibar edilerek toplamının en az üçte ikisi ile toplanır. Şu kadar ki, Ceza Genel Kuruluna katılması zorunlu üye sayısının üçte ikisi kadar ceza dairesi üyesi ile hukuk ve ceza daireleri başkanlarının en az yarısından fazlasının toplantıda hazır bulunması şarttır.\n Başkanlar yeter sayısı, diğer başkanlarla doldurulmak mümkün oldukça en kıdemli üye ile doldurulamaz.",
+      "preview": "Yargıtay Büyük Genel Kurulu; Birinci Başkan, birinci başkanvekilleri, daire başkanları, üyeler ile Yargıtay Cumhuriyet Başsavcısı ve Yargıta…",
+      "kitap": null,
+      "kisim": null,
+      "bolum": null,
+      "ayirim": null,
+      "maddeBaslik": "Yargıtay Büyük Genel Kurulu:",
+      "sectionPath": [
+        "Yargıtay Büyük Genel Kurulu:"
+      ]
+    },
+    {
+      "id": "kanun:2797:m:9",
+      "maddeKind": "madde",
+      "maddeNo": "9",
+      "heading": "Madde 9",
+      "text": "Yargıtayda;\n 1. Birinci Başkan ile birinci başkanvekillerinden ve daire başkanlarından oluşan Başkanlar Kurulu.\n 2. Birinci Başkan ile hukuk dairelerinden seçilen Birinci Başkanvekili ve hukuk daireleri başkanlarından oluşan Hukuk Daireleri Başkanları Kurulu,\n 3. Birinci Başkan ile ceza dairelerinden seçilen Birinci Başkanvekili ve ceza daireleri başkanlarından oluşan Ceza Daireleri Başkanlar Kurulu,\n Bulunur.\n Birinci Başkanın bulunmadığı hallerde Başkanlar Kurulunun başkanlık görevi, birinci başkanvekillerinden kıdemlisi, bulunmaması halinde diğer başkanvekili, onun da bulunmaması halinde ise kurula katılan daire başkanlarından kıdemli olanı tarafından yerine getirilir.\n Hukuk ve Ceza daireleri Başkanlar Kurullarında Birinci Başkanın bulunmadığı hallerde; Hukuk Daireleri Başkanlar Kuruluna hukuk dairelerinden seçilen Birinci Başkanvekili; Ceza Daireleri Başkanlar Kuruluna ceza dairelerinden seçilen Birinci Başkanvekili başkanlık yapar. İlgili birinci başkanvekilinin bulunmaması halinde diğer başkanvekili, onun da bulunmaması halinde en kıdemli daire başkanı başkanlık görevini yerine getirir.\n Başkanlar kendileriyle ilgili konuların görüşülmesinde, Başkanlar Kuruluna katılamazlar.\n Daire başkanlarının özürleri halinde, dairenin kıdemli üyesi, Başkanlar Kurulu ile Hukuk ve Ceza Başkanlar Kuruluna katılırlar.",
+      "preview": "Yargıtayda; 1. Birinci Başkan ile birinci başkanvekillerinden ve daire başkanlarından oluşan Başkanlar Kurulu. 2. Birinci Başkan ile hukuk d…",
+      "kitap": null,
+      "kisim": null,
+      "bolum": null,
+      "ayirim": null,
+      "maddeBaslik": "Başkanlar Kurulları:",
+      "sectionPath": [
+        "Başkanlar Kurulları:"
+      ]
+    },
+    {
+      "id": "kanun:2797:m:10",
+      "maddeKind": "madde",
+      "maddeNo": "10",
+      "heading": "Madde 10",
+      "text": "Birinci Başkanlık Kurulu; Yargıtay Birinci Başkanının başkanlığında dördü daire başkanı, dördü Yargıtay üyesi olmak üzere sekiz asıl ve ikisi daire başkanı ve ikisi Yargıtay üyesi olmak üzere dört yedek üyeden oluşur.",
+      "preview": "Birinci Başkanlık Kurulu; Yargıtay Birinci Başkanının başkanlığında dördü daire başkanı, dördü Yargıtay üyesi olmak üzere sekiz asıl ve ikis…",
+      "kitap": null,
+      "kisim": null,
+      "bolum": null,
+      "ayirim": null,
+      "maddeBaslik": "Birinci Başkanlık Kurulu:[3][4]",
+      "sectionPath": [
+        "Birinci Başkanlık Kurulu:[3][4]"
+      ]
+    },
+    {
+      "id": "kanun:2797:m:11",
+      "maddeKind": "madde",
+      "maddeNo": "11",
+      "heading": "Madde 11",
+      "text": "Yüksek Disiplin Kurulu; Yargıtay Birinci Başkanı, birinci başkanvekillerinden kıdemli olanı, Yargıtay Cumhuriyet Başsavcısı ile altı hukuk ve üç ceza dairesi başkanları ve başkanlarının katılmadığı dairelerin beş üyesinden oluşur.\n Yüksek Disiplin Kurulunda ayrıca, Kurula asıl üye olarak katılmayan daire başkanları ile bunların dışındaki dairelerin birer üyesi yedek üye olarak bulunur.",
+      "preview": "Yüksek Disiplin Kurulu; Yargıtay Birinci Başkanı, birinci başkanvekillerinden kıdemli olanı, Yargıtay Cumhuriyet Başsavcısı ile altı hukuk v…",
+      "kitap": null,
+      "kisim": null,
+      "bolum": null,
+      "ayirim": null,
+      "maddeBaslik": "Yüksek Disiplin Kurulu:",
+      "sectionPath": [
+        "Yüksek Disiplin Kurulu:"
+      ]
+    },
+    {
+      "id": "kanun:2797:m:12",
+      "maddeKind": "madde",
+      "maddeNo": "12",
+      "heading": "Madde 12",
+      "text": "Yönetim Kurulu; Yargıtay Birinci Başkanı, Yargıtay Cumhuriyet Başsavcısı, Genel Sekreter ile Başkanlar Kurulu tarafından iki yıl için seçilen bir asıl ve bir yedek daire başkanı, üç asıl ve iki yedek Yargıtay üyesinden oluşur.",
+      "preview": "Yönetim Kurulu; Yargıtay Birinci Başkanı, Yargıtay Cumhuriyet Başsavcısı, Genel Sekreter ile Başkanlar Kurulu tarafından iki yıl için seçile…",
+      "kitap": null,
+      "kisim": null,
+      "bolum": null,
+      "ayirim": null,
+      "maddeBaslik": "Yönetim Kurulu:",
+      "sectionPath": [
+        "Yönetim Kurulu:"
+      ]
+    },
+    {
+      "id": "kanun:2797:m:13",
+      "maddeKind": "madde",
+      "maddeNo": "13",
+      "heading": "Madde 13",
+      "text": "Yargıtayın görevleri şunlardır:\n 1. Adliye mahkemelerince verilen ve kanunun başka bir adli yargı merciine bırakmadığı karar ve hükümleri ilk ve son merci olarak inceleyip karara bağlamak,\n 2. Yargıtay Başkan ve üyeleri ile Yargıtay Cumhuriyet Başsavcısı, Yargıtay Cumhuriyet Başsavcıvekili ve özel kanunlarında belirtilen kimseler aleyhindeki görevden doğan tazminat davalarına ve bunların kişisel suçlarına ait ceza davalarına ve kanunlarda gösterilen diğer davalara ilk ve son derece mahkemesi olarak bakmak,\n 3. Kanunlarla verilen diğer işleri görmek.",
+      "preview": "Yargıtayın görevleri şunlardır: 1. Adliye mahkemelerince verilen ve kanunun başka bir adli yargı merciine bırakmadığı karar ve hükümleri ilk…",
+      "kitap": null,
+      "kisim": null,
+      "bolum": "İKİNCİ BÖLÜM · Yargıtay Daire ve Kurullarının Görevleri",
+      "ayirim": null,
+      "maddeBaslik": "Yargıtayın görevleri:",
+      "sectionPath": [
+        "İKİNCİ BÖLÜM · Yargıtay Daire ve Kurullarının Görevleri",
+        "Yargıtayın görevleri:"
+      ]
+    },
+    {
+      "id": "kanun:2797:m:14",
+      "maddeKind": "madde",
+      "maddeNo": "14",
+      "heading": "Madde 14",
+      "text": "(Değişik: 9/2/2011-6110/8 md.)\n (Ek cümle: 18/6/2014-6545/31 md.; Mülga birinci cümle: 2/12/2014-6572/22 md.) (…) Hukuk daireleri ile ceza daireleri kendi aralarında işbölümü esasına göre çalışır. Özel kanunlarda başkaca hüküm bulunmadığı takdirde, dairelerin (…)[5] aralarındaki işbölümü karar tasarısı aşağıdaki esaslar uyarınca, Başkanlar Kurulu tarafından hazırlanır. Hazırlanan (…)6 karar tasarısı, toplantı tarihinden yedi gün önce ilân edilmek kaydıyla Büyük Genel Kurulun onayına sunulur. Büyük Genel Kurul, (…)6 karar tasarısını aynen onaylayabileceği gibi üye tam sayısının en az onda birinin teklifi üzerine değiştirerek de onaylayabilir. Bu iş için toplanan Yargıtay Büyük Genel Kuruluna Birinci Başkan, birinci başkanvekilleri, daire başkanları, üyeler ile Yargıtay Cumhuriyet Başsavcısı ve Yargıtay Cumhuriyet Başsavcıvekili katılabilir. Toplantı yeter sayısı üye tam sayısının salt çoğunluğu, karar yeter sayısı ise katılanların salt çoğunluğudur. Oylarda eşitlik hâlinde Başkanın bulunduğu taraf çoğunluğu sağlamış sayılır.[6]\n Hukuk dairelerinde:\n a) (Değişik: 18/6/2014-6545/31 md.) Daireler arasındaki iş bölümünün belirlenmesinde mahkeme kararındaki nitelendirme de gözetilerek, temyizin kapsamı esas alınır.\n b) Bir davadaki uyuşmazlık konusu, taraflar arasındaki hukukî ilişkinin aslına değil de bu ilişkiden doğan diğer isteklerle ilgili ise temyiz incelemesi asıl hukukî ilişkiye ait hüküm ve kararları incelemekle görevli dairece yapılır.\n c) Bir davada birden fazla hukuk dairesinin görevine giren uyuşmazlık söz konusu ise temyiz incelemesi uyuşmazlığı doğuran asıl hukukî ilişkiye ait hüküm ve kararları inceleyen dairece yapılır.\n d) Bir davada uyuşmazlık konusu hukukî ilişki birden fazla dairenin görev alanına giren karma sözleşmeye yahut birden ziyade sözleşme türüne ayrı ayrı dayanıyorsa temyiz incelemesi bunlardan 22/4/1926 tarihli ve 818 sayılı Borçlar Kanunundaki özel sözleşme türüne ilişkin davalara ait hüküm ve kararları incelemekle görevli dairece yapılır.\n e) Bir sözleşme ile ilgili alacak ve tazminat davalarının temyiz incelemesini yapmakla görevli daire, bu sözleşme türüne ilişkin tespit davalarının temyiz incelemesini de yapmakla görevlidir.\n f) Bir dava dosyasının incelenerek eksikliklerinin giderilmesinden sonra geri çevrilmesi için mahalline gönderilmesi veya duruşmasının olması o dosyanın görevli daireye gönderilmesine engel teşkil etmez.\n g) Özel kanunlardan doğan ve ayın davası açılması imkânı bulunmayan durumlarda açılan tazminat davaları ile 18/6/1927 tarihli ve 1086 sayılı Hukuk Usulü Muhakemeleri Kanununun 186 ncı maddesi hükmünden yararlanılmak suretiyle tazminata dönüştürülen davalara ilişkin olarak verilen hüküm ve kararların temyiz incelemesi ayın uyuşmazlığını inceleyecek dairece yapılır.\n h) İşbölümünde hukuk dairelerinden herhangi birinin görevinde olduğu belirlenmemiş davalara bakmak üzere bir daire görevlendirilir.\n Ceza dairelerinde:\n a) (Değişik: 18/6/2014-6545/31 md.) Daireler arasındaki iş bölümünün belirlenmesinde mahkeme kararındaki nitelendirme, mahkûmiyet dışındaki kararlarda ise iddianamede veya iddianame yerine geçen belgedeki nitelendirme esas alınır.\n b) Çeşitli suçlara ait davalarda, suçların en ağırını incelemeye yetkili olan daire görevlidir.\n c) Temyiz davasına bakmakla görevli olan daire, Yargıtayın ilk derece mahkemesi olarak bakmakla görevli olduğu davalar ile olağanüstü kanun yollarına ilişkin davalara bakmakla da görevlidir.\n d) Hüküm veren dairenin, Ceza Genel Kurulu kararına uymayarak kendi kararında direnmesi hâlinde Ceza Genel Kurulunca verilecek ikinci karar kesin olup, ilgili dairece uyulması zorunludur.\n e) İşbölümünde ceza dairelerinden herhangi birinin görevinde olduğu belirlenmemiş davalara bakmak üzere bir daire görevlendirilir.\n f) (Ek: 2/1/2017-KHK-680/3 md.; Aynen kabul: 1/2/2018-7072/2 md.) Yargıtayın ilk derece mahkemesi olarak bakmakla görevli olduğu davalarda, iş yoğunluğunun zorunlu kılması halinde Birinci Başkanlık Kurulu bir veya birden fazla daireyi sadece bu işlere bakmak amacıyla görevlendirebilir. Bu durumda, görevlendirilen dairenin bakmakta olduğu işler, bir sonraki takvim yılı beklenmeksizin Birinci Başkanlık Kurulu tarafından başka dairelere verilebilir.\n Dairelerden birinin yıl içinde gelen işleri normal çalışma ile karşılanamayacak oranda artmış ve daireler arasında iş bakımından bir dengesizlik meydana gelmiş ise takvim yılı başında birinci fıkrada belirlenen usule göre bir kısım işler başka daireye verilebilir.\n Bu madde uyarınca alınan kararlar Resmî Gazetede yayımlanır ve yayımı izleyen ay başından itibaren uygulanır.",
+      "preview": "(Değişik: 9/2/2011-6110/8 md.) (Ek cümle: 18/6/2014-6545/31 md.; Mülga birinci cümle: 2/12/2014-6572/22 md.) (…) Hukuk daireleri ile ceza da…",
+      "kitap": null,
+      "kisim": null,
+      "bolum": "İKİNCİ BÖLÜM · Yargıtay Daire ve Kurullarının Görevleri",
+      "ayirim": null,
+      "maddeBaslik": "Dairelerin görevleri:",
+      "sectionPath": [
+        "İKİNCİ BÖLÜM · Yargıtay Daire ve Kurullarının Görevleri",
+        "Dairelerin görevleri:"
+      ]
+    },
+    {
+      "id": "kanun:2797:m:15",
+      "maddeKind": "madde",
+      "maddeNo": "15",
+      "heading": "Madde 15",
+      "text": "Hukuk ve Ceza Genel Kurullarının görevleri şunlardır:\n 1. Yargıtay dairelerinin bozma kararlarına karşı mahkemelerce verilen direnme kararlarını inceleyerek karar vermek,\n 2. a) (Ek: 26/9/2004-5235/51 md.; Mülga: 20/11/2017-KHK-696/46 md.; Aynen kabul: 1/2/2018-7079/41 md.)[7]\n b) Hukuk daireleri arasında veya ceza daireleri arasında içtihat uyuşmazlıkları bulunursa,\n c) Yargıtay dairelerinden biri; yerleşmiş içtihadından dönmek isterse, benzer olaylarda birbirine uymayan kararlar vermiş bulunursa,\n Bunları içtihatların birleştirilmesi yoluyla kesin olarak karara bağlamak,\n 3. (Değişik: 2/1/2017-KHK-680/4 md.; Aynen kabul: 1/2/2018-7072/3 md.) İlk derece mahkemesi olarak ilgili dairelerce verilen hükümlerin temyiz yoluyla incelemesini yapmak,\n 4. Kanunlarla verilen diğer görevleri yerine getirmek.\n Hukuk ve Ceza Genel Kurullarına katılmak zorunda olan Başkan ve üyelerin belirlenmesine ilişkin esaslar, görüşmelerin gündemi, yönetimi, çalışma gün ve saatleri, oylama ve karar, ön sorun ve öncelikle karara bağlanacak hususlar, kararın çıkmış sayılması, kanun hükümleri çerçevesinde Yargıtay İç Yönetmeliği ile düzenlenir.",
+      "preview": "Hukuk ve Ceza Genel Kurullarının görevleri şunlardır: 1. Yargıtay dairelerinin bozma kararlarına karşı mahkemelerce verilen direnme kararlar…",
+      "kitap": null,
+      "kisim": null,
+      "bolum": "İKİNCİ BÖLÜM · Yargıtay Daire ve Kurullarının Görevleri",
+      "ayirim": null,
+      "maddeBaslik": "Hukuk ve Ceza Genel Kurullarının görevleri:",
+      "sectionPath": [
+        "İKİNCİ BÖLÜM · Yargıtay Daire ve Kurullarının Görevleri",
+        "Hukuk ve Ceza Genel Kurullarının görevleri:"
+      ]
+    },
+    {
+      "id": "kanun:2797:m:16",
+      "maddeKind": "madde",
+      "maddeNo": "16",
+      "heading": "Madde 16",
+      "text": "Yargıtay Büyük Genel Kurulunun görevleri şunlardır:\n 1. Birinci Başkanı, birinci başkanvekillerini, daire başkanlarını ve bu Kanunda gösterilen kurulların üyelerini seçmek,\n 2. Yargıtay Cumhuriyet Başsavcısı ve Yargıtay Cumhuriyet Başsavcıvekili adaylarını belirlemek,\n 3. Özel kanunların Yargıtay üyelerinin katılmasını öngördüğü kurullara üye seçmek veya üye adayı belirlemek,\n 4. Yargıtay İç Yönetmeliğini yapmak ve gerektiğinde değiştirmek,\n 5. Hukuk Genel Kurulunun benzer olaylarda birbirine aykırı biçimde verdiği kararları ile Ceza Genel Kurulunun yine benzer olaylarda birbirine aykırı olarak verdiği kararları veya Hukuk Genel Kurulu ile Ceza Genel Kurulu; Hukuk Genel Kurulu ile bir hukuk dairesi; Hukuk Genel Kurulu ile bir ceza dairesi veya Ceza Genel Kurulu ile bir ceza dairesi; Ceza Genel Kurulu ile bir hukuk dairesi veya bir hukuk dairesi ile bir ceza dairesi arasındaki içtihat uyuşmazlıklarını gidermek ve içtihatları birleştirmek,\n 6. Kanunlarla verilen diğer görevleri yerine getirmek.\n Yargıtay Büyük Genel Kurulu görevlerinin yapılmasında, içinden seçtiği bir komisyona hazırlık çalışması yaptırabilir.\n Yargıtay Büyük Genel Kurulunun kararları kesin olup, bu kararlar aleyhine başka bir yargı merciine başvurulamaz.",
+      "preview": "Yargıtay Büyük Genel Kurulunun görevleri şunlardır: 1. Birinci Başkanı, birinci başkanvekillerini, daire başkanlarını ve bu Kanunda gösteril…",
+      "kitap": null,
+      "kisim": null,
+      "bolum": "İKİNCİ BÖLÜM · Yargıtay Daire ve Kurullarının Görevleri",
+      "ayirim": null,
+      "maddeBaslik": "Yargıtay Büyük Genel Kurulunun görevleri:",
+      "sectionPath": [
+        "İKİNCİ BÖLÜM · Yargıtay Daire ve Kurullarının Görevleri",
+        "Yargıtay Büyük Genel Kurulunun görevleri:"
+      ]
+    },
+    {
+      "id": "kanun:2797:m:17",
+      "maddeKind": "madde",
+      "maddeNo": "17",
+      "heading": "Madde 17",
+      "text": "Başkanlar kurullarının görevleri şunlardır:\n 1. Başkanlar Kurulunun Görevleri:\n a) Hukuk ve ceza daireleri arasında meydana gelen görev ve iş bölümü uyuşmazlıklarını kesin karara bağlamak, fiili veya hukuki imkansızlık sebebiyle bir dairenin görevine giren işe bakamaması halinde bir başka daireyi görevlendirmek,\n b) (Mülga: 9/2/2011 – 6110/14 md.)\n c) İçtihadı birleştirme görüşmelerine ve kararlarının alınmasına ilişkin olarak ilke kararları almak,\n d) Birinci Başkanlık Kurulu, Yüksek Disiplin Kurulu ile Yönetim Kurulu kararlarına karşı yapılan itirazları kesin olarak karara bağlamak. Bu itirazların incelenmesinde karara katılan kurul üyesi daire başkanları Kurula katılamaz ve eksiklikler o dairenin kıdemli üyeleriyle tamamlanır.\n e) Kanunlarla verilen diğer görevleri yerine getirmek.\n 2. (Mülga: 1/4/2015-6644/1 md.)\n 3. Ceza Daireleri Başkanlar Kurulunun Görevi:\n Ceza daireleri arasında meydana gelen görev ve işbölümü uyuşmazlıklarını karara bağlamaktır.\n Oylamanın şekli, ilgili kurullarca belirlenir. Ancak bu maddenin (1/b) ve (1/d) bentlerinde öngörülen hususlara ilişkin oylama gizli yapılır.\n Başkanlar kurullarının itiraz üzerine veya doğrudan doğruya verdikleri bütün kararlar kesin olup, bu kararlar aleyhine başka bir yargı merciine başvurulamaz.",
+      "preview": "Başkanlar kurullarının görevleri şunlardır: 1. Başkanlar Kurulunun Görevleri: a) Hukuk ve ceza daireleri arasında meydana gelen görev ve iş…",
+      "kitap": null,
+      "kisim": null,
+      "bolum": "İKİNCİ BÖLÜM · Yargıtay Daire ve Kurullarının Görevleri",
+      "ayirim": null,
+      "maddeBaslik": "Başkanlar Kurullarının görevleri:",
+      "sectionPath": [
+        "İKİNCİ BÖLÜM · Yargıtay Daire ve Kurullarının Görevleri",
+        "Başkanlar Kurullarının görevleri:"
+      ]
+    },
+    {
+      "id": "kanun:2797:m:18",
+      "maddeKind": "madde",
+      "maddeNo": "18",
+      "heading": "Madde 18",
+      "text": "Birinci Başkanlık Kurulunun görevleri şunlardır:\n 1. Yeni gelen üyelerin yerlerini, dairelerin iş durumunu ve ihtiyaçlarını gözönünde tutarak belli etmek,\n 2. Zorunlu hallerde daire başkanı ve üyelerin dairelerini değiştirmek,\n 3. Yargıtay tetkik hakimlerinin çalışacakları daireleri, kurulları ve görecekleri işleri belli etmek ve gerektiğinde yerlerini değiştirmek,\n 4. Yargıtay Birinci Başkanı, birinci başkanvekilleri daire başkanları ve üyeleri ile Yargıtay Cumhuriyet Başsavcısı ve Yargıtay Cumhuriyet Başsavcıvekilinin hakimlik vakar ve onuruna ve kişisel haysiyetlerine dokunan veya görev gereklerine uygun düşmeyen davranışlarından, kişisel ve görevle ilgili suçlardan dolayı ön veya ilk soruşturma yapmak ve bu soruşturmanın, bir daire başkanı veya üye tarafından yapılması gerektiği takdirde, hakkında soruşturma yapılacak olandan kıdemli olması koşulu ile bu görevliyi belli etmek, bu mümkün olmadığı takdirde eşit kıdemli, o da yok ise en yakın kıdemli başkan veya üyeyi görevlendirmek,\n 5. Yetkili merciin neresi olduğu belirtilmemiş olan yönetim işlerinin yerini belli etmek veya bu işleri yapmak,\n 6. Kanunlarla verilen diğer görevleri yerine getirmek.",
+      "preview": "Birinci Başkanlık Kurulunun görevleri şunlardır: 1. Yeni gelen üyelerin yerlerini, dairelerin iş durumunu ve ihtiyaçlarını gözönünde tutarak…",
+      "kitap": null,
+      "kisim": null,
+      "bolum": "İKİNCİ BÖLÜM · Yargıtay Daire ve Kurullarının Görevleri",
+      "ayirim": null,
+      "maddeBaslik": "Birinci Başkanlık Kurulunun görevleri:",
+      "sectionPath": [
+        "İKİNCİ BÖLÜM · Yargıtay Daire ve Kurullarının Görevleri",
+        "Birinci Başkanlık Kurulunun görevleri:"
+      ]
+    },
+    {
+      "id": "kanun:2797:m:19",
+      "maddeKind": "madde",
+      "maddeNo": "19",
+      "heading": "Madde 19",
+      "text": "Yüksek Disiplin Kurulu; Yargıtay üyeliği vakar ve onuruna dokunan, kişisel haysiyet ve itibarını kıran veya görev icaplarına uymayan davranışlarından dolayı Yargıtay Birinci Başkanı, birinci başkanvekilleri, daire başkanları ve üyeleri ile Yargıtay Cumhuriyet Başsavcısı ve Yargıtay Cumhuriyet Başsavcıvekili hakkında disiplin kovuşturmasını gerektiren eylemin ağırlığına göre “Uyarma” veya “Görevden çekilmeye davet” işlemlerinden birini uygular.",
+      "preview": "Yüksek Disiplin Kurulu; Yargıtay üyeliği vakar ve onuruna dokunan, kişisel haysiyet ve itibarını kıran veya görev icaplarına uymayan davranı…",
+      "kitap": null,
+      "kisim": null,
+      "bolum": "İKİNCİ BÖLÜM · Yargıtay Daire ve Kurullarının Görevleri",
+      "ayirim": null,
+      "maddeBaslik": "Yüksek Disiplin Kurulunun görevleri:",
+      "sectionPath": [
+        "İKİNCİ BÖLÜM · Yargıtay Daire ve Kurullarının Görevleri",
+        "Yüksek Disiplin Kurulunun görevleri:"
+      ]
+    },
+    {
+      "id": "kanun:2797:m:20",
+      "maddeKind": "madde",
+      "maddeNo": "20",
+      "heading": "Madde 20",
+      "text": "Yönetim Kurulunun görevleri şunlardır.\n 1. Hakimlik ve savcılık sınıfından olmayan Yargıtay personelinin atama ve nakil, yükselme, disiplin ve sair özlük işlerini yürütmek ve bunlarla ilgili karar ve tedbirleri almak ve yönetmelikleri yapmak,\n 2. Kanunlarla verilen diğer görevleri yerine getirmek.\n Yönetim Kurulu üye tamsayısıyla toplanır.",
+      "preview": "Yönetim Kurulunun görevleri şunlardır. 1. Hakimlik ve savcılık sınıfından olmayan Yargıtay personelinin atama ve nakil, yükselme, disiplin v…",
+      "kitap": null,
+      "kisim": null,
+      "bolum": "İKİNCİ BÖLÜM · Yargıtay Daire ve Kurullarının Görevleri",
+      "ayirim": null,
+      "maddeBaslik": "Yönetim Kurulunun görevleri:",
+      "sectionPath": [
+        "İKİNCİ BÖLÜM · Yargıtay Daire ve Kurullarının Görevleri",
+        "Yönetim Kurulunun görevleri:"
+      ]
+    },
+    {
+      "id": "kanun:2797:m:21",
+      "maddeKind": "madde",
+      "maddeNo": "21",
+      "heading": "Madde 21",
+      "text": "Birinci Başkanın görevleri şunlardır:\n 1. Yargıtayı temsil etmek,\n 2. Hukuk ve Ceza Genel Kurullarına katılması zorunlu olan daire başkanlarını belli etmek,\n 3. Kurullara başkanlık etmek; başkanlık yaptığı kurullarda kendi yazmayacağı kararların hangi üye tarafından yazılacağını belli etmek ve yazılan kararlardan ilgili dairelere örnekler göndermek,\n 4. Yargıtayın verimli ve düzenli çalışmasını sağlamak ve bu amaçla uygun göreceği tedbirleri almak, daire ve kurullara katılmamak veya geç katılmak suretiyle, kurul çalışmalarını aksatan başkan ve üyelerin dikkatini çekmek,\n 5. Dairelerin çalışma durumları ile ilgili olarak gerekli gördüğü bilgileri yazı ile istemek,\n 6. Kurullarca verilen yönetime ilişkin kararları yerine getirmek,\n 7. Zorunlu hallerde Yargıtaya ait geçici işlerde veya başkanlık ettiği kurullarda dosya takrir etmek üzere Yargıtay daire başkan ve üyelerini ve tetkik hakimlerini görevlendirmek,\n 8. Bir dairede ani olarak meydana gelen bir boşluğu doldurmak üzere çok kısa bir süre için başka bir daire üyesini, o dairede görevlendirmek,\n 9. Yargıtay memurlarını denetlemek ve denetletmek,\n 10. Yargıtay üyeleri arasından Genel Sekreteri seçmek,\n 11. Kanunlarla verilen diğer görevleri yerine getirmek.",
+      "preview": "Birinci Başkanın görevleri şunlardır: 1. Yargıtayı temsil etmek, 2. Hukuk ve Ceza Genel Kurullarına katılması zorunlu olan daire başkanların…",
+      "kitap": null,
+      "kisim": null,
+      "bolum": "ÜÇÜNCÜ BÖLÜM · Görev ve Haklar",
+      "ayirim": null,
+      "maddeBaslik": "Birinci Başkanın görevleri:",
+      "sectionPath": [
+        "ÜÇÜNCÜ BÖLÜM · Görev ve Haklar",
+        "Birinci Başkanın görevleri:"
+      ]
+    },
+    {
+      "id": "kanun:2797:m:22",
+      "maddeKind": "madde",
+      "maddeNo": "22",
+      "heading": "Madde 22",
+      "text": "Birinci başkanvekillerinin görevleri şunlardır:\n 1.Birinci Başkana ait görevlerden, Birinci Başkan tarafından verilenleri yapmak,\n 2. Birinci Başkanın yokluğunda kıdem sırasına göre ona vekillik etmek,\n Birinci başkanvekillerinin de yokluğunda Birinci Başkana en kıdemli daire başkanı, kıdemlerde eşitlik halinde ise yaşlısı vekillik eder.",
+      "preview": "Birinci başkanvekillerinin görevleri şunlardır: 1.Birinci Başkana ait görevlerden, Birinci Başkan tarafından verilenleri yapmak, 2. Birinci…",
+      "kitap": null,
+      "kisim": null,
+      "bolum": "ÜÇÜNCÜ BÖLÜM · Görev ve Haklar",
+      "ayirim": null,
+      "maddeBaslik": "Birinci Başkanvekillerinin görevleri:",
+      "sectionPath": [
+        "ÜÇÜNCÜ BÖLÜM · Görev ve Haklar",
+        "Birinci Başkanvekillerinin görevleri:"
+      ]
+    },
+    {
+      "id": "kanun:2797:m:23",
+      "maddeKind": "madde",
+      "maddeNo": "23",
+      "heading": "Madde 23",
+      "text": "Genel Sekreter, yönetim işlerinde Birinci Başkanın yardımcısıdır. Birinci Başkanın vereceği yönetim ve yazı işlerini yürütür.\n Genel Sekretere, Birinci Başkanın onayı ile lüzumunda Yargıtayda görev yapan birinci sınıfa ayrılmış tetkik hakimlerinden yeteri kadar yardımcı ile genel sekreterlik hizmetleri için yeteri kadar memur verilir.[8]\n Birinci Başkan, Genel Sekreterin İzinli veya özürlü olması hallerinde bir Yargıtay üyesini geçici olarak görevlendirebilir.",
+      "preview": "Genel Sekreter, yönetim işlerinde Birinci Başkanın yardımcısıdır. Birinci Başkanın vereceği yönetim ve yazı işlerini yürütür. Genel Sekreter…",
+      "kitap": null,
+      "kisim": null,
+      "bolum": "ÜÇÜNCÜ BÖLÜM · Görev ve Haklar",
+      "ayirim": null,
+      "maddeBaslik": "Genel Sekreterin görevleri:",
+      "sectionPath": [
+        "ÜÇÜNCÜ BÖLÜM · Görev ve Haklar",
+        "Genel Sekreterin görevleri:"
+      ]
+    },
+    {
+      "id": "kanun:2797:m:24",
+      "maddeKind": "madde",
+      "maddeNo": "24",
+      "heading": "Madde 24",
+      "text": "Daire başkanlarının görevleri şunlardır:\n 1. Dairelerinde ahenkli, verimli ve düzenli bir çalışmanın gerçekleşmesini ve işlerin mümkün olan süratle incelenip karara bağlanmasını sağlamak, dairenin kendi kararları arasında çelişkiyi önlemek amacıyla gerekli göreceği bütün tedbirleri almak, dosyaları takrir edecek kişileri, bu esaslar uyarınca tespit etmek ve kendi yazmayacağı kararların hangi üye tarafından yazılacağını belli etmek,\n 2. Kararların zamanında yazılıp dosyaların mahallerine iadesini sağlamak,\n 3. Büro görevlilerini denetlemek,\n 4. Büro personeli hakkında ilgili kanunda belirtilen uyarma, kınama ve aylıktan kesme disiplin cezalarını vermek,\n 5. Kanunlarla verilen diğer görevleri yerine getirmek.\n Daire başkanına, gerektiğinde kıdemli üye vekillik eder.",
+      "preview": "Daire başkanlarının görevleri şunlardır: 1. Dairelerinde ahenkli, verimli ve düzenli bir çalışmanın gerçekleşmesini ve işlerin mümkün olan s…",
+      "kitap": null,
+      "kisim": null,
+      "bolum": "ÜÇÜNCÜ BÖLÜM · Görev ve Haklar",
+      "ayirim": null,
+      "maddeBaslik": "Daire Başkanlarının görevleri:",
+      "sectionPath": [
+        "ÜÇÜNCÜ BÖLÜM · Görev ve Haklar",
+        "Daire Başkanlarının görevleri:"
+      ]
+    },
+    {
+      "id": "kanun:2797:m:25",
+      "maddeKind": "madde",
+      "maddeNo": "25",
+      "heading": "Madde 25",
+      "text": "Yargıtay üyelerinin görevleri şunlardır:\n 1. Kendilerine verilecek dosyaları gerekli şekilde ve zamanında inceleyip kurula takrir etmek ve kararları yazmak,\n 2. Üyesi bulundukları kurullarda görüşmelere katılmak ve oylarını vermek,\n 3. Dairenin ahenkli, verimli ve düzenli çalışmalarının sağlanmasında ve işlerin çabuklukla incelenip karara bağlanmasında başkana yardım etmek.",
+      "preview": "Yargıtay üyelerinin görevleri şunlardır: 1. Kendilerine verilecek dosyaları gerekli şekilde ve zamanında inceleyip kurula takrir etmek ve ka…",
+      "kitap": null,
+      "kisim": null,
+      "bolum": "ÜÇÜNCÜ BÖLÜM · Görev ve Haklar",
+      "ayirim": null,
+      "maddeBaslik": "Yargıtay Üyelerinin görevleri:",
+      "sectionPath": [
+        "ÜÇÜNCÜ BÖLÜM · Görev ve Haklar",
+        "Yargıtay Üyelerinin görevleri:"
+      ]
+    },
+    {
+      "id": "kanun:2797:m:26",
+      "maddeKind": "madde",
+      "maddeNo": "26",
+      "heading": "Madde 26",
+      "text": "Tetkik hakimleri kurul ve daire başkanlarının kendilerine verecekleri dosya ve evrakı, süresinde inceleyerek bir rapor düzenlerler. Kararlara ve yapılacak işlere ilişkin düşüncelerini rapora yazıp kurullara açıklamakla yetinirler.\n Birinci Başkan, kurul ve daire başkanlarının verecekleri diğer görevleri yerine getirirler.",
+      "preview": "Tetkik hakimleri kurul ve daire başkanlarının kendilerine verecekleri dosya ve evrakı, süresinde inceleyerek bir rapor düzenlerler. Kararlar…",
+      "kitap": null,
+      "kisim": null,
+      "bolum": "ÜÇÜNCÜ BÖLÜM · Görev ve Haklar",
+      "ayirim": null,
+      "maddeBaslik": "Tetkik Hakimlerinin görevleri:",
+      "sectionPath": [
+        "ÜÇÜNCÜ BÖLÜM · Görev ve Haklar",
+        "Tetkik Hakimlerinin görevleri:"
+      ]
+    },
+    {
+      "id": "kanun:2797:m:27",
+      "maddeKind": "madde",
+      "maddeNo": "27",
+      "heading": "Madde 27",
+      "text": "Yargıtay Cumhuriyet Başsavcısının görevleri şunlardır:\n 1. Cumhuriyet Başsavcılığını temsil etmek,\n 2. Anayasa Mahkemesinde Cumhuriyet Savcılığı görevini yapmak,\n 3. Ceza Genel Kurulunda görülen davaların duruşmalarına katılmak,\n 4. Bizzat veya Cumhuriyet Başsavcı Başyardımcısı, Cumhuriyet Başsavcı yardımcıları marifetiyle siyasi partilerin tüzük ve programlarını ve kurucularının hukuki durumlarının Anayasa ve kanun hükümlerine uygunluğunu, kuruluşlarını takiben ve öncelikle denetlemek, faaliyetlerini takip etmek, gerektiğinde siyasi parti, siyasi parti üyesi veya kuruluşu hakkında mahallinde denetleme, inceleme ve soruşturma yapmak, yaptırmak,\n 5. Siyasi partilerin kapatılması hakkında dava açmak,\n 6. Yargıtay Cumhuriyet Başsavcılığının verimli ve düzenli bir şekilde çalışmasını sağlamak ve bu yolda uygun göreceği her türlü tedbiri almak,\n 7. (Mülga: 2/12/2014-6572/23 md.)\n 8. Yargıtay Cumhuriyet Başsavcı Başyardımcısı ile Yargıtay Cumhuriyet Başsavcı yardımcılarının yükselme ve ilerleme fişlerini düzenlemek,\n 9. Yargıtay Cumhuriyet Başsavcılığı bürolarını ve personelini denetim ve gözetim altında bulundurmak veya bu denetim ve gözetimi tensip edeceği yardımcılarından birine yaptırmak,\n 10. Yargıtay Cumhuriyet Başsavcılığı bürolarına naklen atanacak personelin inhalarını yapmak,\n 11. Yargıtay Cumhuriyet Başsavcılığında görevli personel hakkında ilgili kanunla belirtilen uyarma, kınama ve aylıktan kesme disiplin cezalarını uygulamak,\n 12. Yargıtay Büyük Genel Kurulu ile Ceza Genel Kurulundaki içtihadların birleştirilmesi müzakere ve kararlarına katılıp oyunu kullanmak,\n 13. Siyasi partiler ve diğer kanunlarla verilen görevleri yerine getirmek.\n Yargıtay Cumhuriyet Başsavcıvekilinin görevleri şunlardır:\n 1. Yargıtay Cumhuriyet Başsavcısının kanuni nedenlerle görevi başında bulunmaması halinde, kanunların bizzat Yargıtay Cumhuriyet Başsavcısı tarafından yapılmasını öngördüğü görevler dahil, Yargıtay Cumhuriyet Başsavcısının tüm görevlerini yerine getirmek,\n 2. Ayrıca, Yargıtay Cumhuriyet Başsavcısı görevi başında bulunsa dahi kanunların bizzat Yargıtay Cumhuriyet Başsavcısı tarafından yapılmasını öngördüğü görevler dahil olmak üzere Yargıtay Cumhuriyet Başsavcısının vereceği işleri ifa etmek,\n 3. Yargıtay Büyük Genel Kurulu ile Ceza Genel Kurulundaki içtihadların birleştirilmesi müzakere ve kararlarına katılıp oyunu kullanmak.",
+      "preview": "Yargıtay Cumhuriyet Başsavcısının görevleri şunlardır: 1. Cumhuriyet Başsavcılığını temsil etmek, 2. Anayasa Mahkemesinde Cumhuriyet Savcılı…",
+      "kitap": null,
+      "kisim": null,
+      "bolum": "ÜÇÜNCÜ BÖLÜM · Görev ve Haklar",
+      "ayirim": null,
+      "maddeBaslik": "Yargıtay Cumhuriyet Başsavcısı ve Yargıtay Cumhuriyet Başsavcıvekilinin görevleri:",
+      "sectionPath": [
+        "ÜÇÜNCÜ BÖLÜM · Görev ve Haklar",
+        "Yargıtay Cumhuriyet Başsavcısı ve Yargıtay Cumhuriyet Başsavcıvekilinin görevleri:"
+      ]
+    },
+    {
+      "id": "kanun:2797:m:28",
+      "maddeKind": "madde",
+      "maddeNo": "28",
+      "heading": "Madde 28",
+      "text": "Yargıtay Cumhuriyet Başsavcı Başyardımcısı, Yargıtay Cumhuriyet Başsavcısının veya Yargıtay Cumhuriyet Başsavcıvekilinin vereceği görevleri yapar. Özel hükümler saklı kalmak kaydıyla Yargıtay Cumhuriyet Başsavcısı ve Vekilinin yokluğunda Yargıtay Cumhuriyet Başsavcısına vekillik eder. Başyardımcının da bulunmadığı zamanlarda bu görevi en kıdemli Yargıtay Cumhuriyet Başsavcıyardımcısı yapar.\n Yargıtay Cumhuriyet Başsavcıyardımcıları, kendilerine verilen dosyaların tebliğnamelerini, karar düzeltme ve itiraz yoluna başvurma işlemlerini Yargıtay Cumhuriyet Başsavcısı adına düzenler ve onun yerine imza ederler. Yargıtay Cumhuriyet Başsavcısının vereceği diğer işleri görürler.\n (Ek fıkra: 14/7/2004-5219/13 md.) Zamanaşımı Türk Ceza Kanununun 102 nci maddesinin birinci fıkrasının (5) ve (6) numaralı bentleri kapsamında olan suçlara ilişkin dava dosyaları temyiz üzerine Yargıtay Cumhuriyet Başsavcılığınca tebliğname düzenlenmeksizin ilgili daireye gönderilir. Daire kararına karşı Yargıtay Cumhuriyet Başsavcılığının karar düzeltme ve itiraz kanun yollarına başvurma yetkisi vardır.",
+      "preview": "Yargıtay Cumhuriyet Başsavcı Başyardımcısı, Yargıtay Cumhuriyet Başsavcısının veya Yargıtay Cumhuriyet Başsavcıvekilinin vereceği görevleri…",
+      "kitap": null,
+      "kisim": null,
+      "bolum": "ÜÇÜNCÜ BÖLÜM · Görev ve Haklar",
+      "ayirim": null,
+      "maddeBaslik": "Yargıtay Cumhuriyet Başsavcı Başyardımcısı ile yardımcılarının görevleri:",
+      "sectionPath": [
+        "ÜÇÜNCÜ BÖLÜM · Görev ve Haklar",
+        "Yargıtay Cumhuriyet Başsavcı Başyardımcısı ile yardımcılarının görevleri:"
+      ]
+    },
+    {
+      "id": "kanun:2797:m:29",
+      "maddeKind": "madde",
+      "maddeNo": "29",
+      "heading": "Madde 29",
+      "text": "(Değişik birinci fıkra: 27/6/2013-6494/19 md.) Yargıtay üyeleri, birinci sınıfa ayrıldıktan sonra en az üç yıl süre ile başarılı görev yapmış ve birinci sınıfa ayrılmayı gerektiren nitelikleri yitirmemiş adli yargı hâkim ve Cumhuriyet savcıları ile bu meslekten sayılanlar arasından seçilir. (Mülga son cümle: 20/11/2017-KHK-696/46 md.; Aynen kabul: 1/2/2018-7079/41 md.) (…)\n (Ek fıkra: 1/7/2016-6723/17 md.) Yargıtay üyeleri on iki yıl için seçilir. Bir kimse iki defa Yargıtay üyesi seçilemez.\n (Ek fıkra: 1/7/2016-6723/17 md.) Görev süresi sona erenler, Hâkimler ve Savcılar Yüksek Kurulu ilgili dairesi tarafından adli yargıda sınıf ve derecelerine uygun bir göreve atanır.\n (Ek fıkra: 1/7/2016-6723/17 md.) Görevi sona eren üyelerin Yargıtayla ilişkileri kesilir; ancak atamaları gerçekleşinceye kadar, özlük hakları Yargıtay tarafından karşılanmaya devam olunur.\n Yargıtayda boşalan üyelikler yetkili kurula bildirilir.\n Boş olan üyelik sayısı en çok onu bulunca onuncu üyeliğin boşaldığı tarihten başlamak üzere en geç iki ay içinde seçim yapılması zorunludur.\n (Değişik dördüncü fıkra: 27/6/2013-6494/19 md.) Yargıtay Birinci Başkanlık Kurulu ihtiyaç durumunu, boşalan üyeliklerin ceza ve hukuk dairesi üyeliği olduğunu da belirtmek suretiyle, yetkili kurula duyurur.\n\n Başkanlar, Yargıtay Cumhuriyet Başsavcısı ve Yargıtay Cumhuriyet Başsavcıvekilinin nitelikleri:[9][10]",
+      "preview": "(Değişik birinci fıkra: 27/6/2013-6494/19 md.) Yargıtay üyeleri, birinci sınıfa ayrıldıktan sonra en az üç yıl süre ile başarılı görev yapmı…",
+      "kitap": null,
+      "kisim": null,
+      "bolum": "DÖRDÜNCÜ BÖLÜM · Nitelikler – Seçim ve Atama",
+      "ayirim": null,
+      "maddeBaslik": "Yargıtay Üyelerinin nitelikleri ve seçimi:",
+      "sectionPath": [
+        "DÖRDÜNCÜ BÖLÜM · Nitelikler – Seçim ve Atama",
+        "Yargıtay Üyelerinin nitelikleri ve seçimi:"
+      ]
+    },
+    {
+      "id": "kanun:2797:m:30",
+      "maddeKind": "madde",
+      "maddeNo": "30",
+      "heading": "Madde 30",
+      "text": "(Değişik birinci cümle: 18/6/2014-6545/33 md.) Yargıtay Birinci Başkanı seçilebilmek için en az altı yıl, Yargıtay Cumhuriyet Başsavcısı, Birinci Başkanvekili ve Yargıtay Cumhuriyet Başsavcıvekili seçilebilmek için en az beş yıl, daire başkanı seçilebilmek için en az üç yıl süreyle Yargıtay üyeliği yapmış olmak zorunludur. Bu süreler Yargıtay üyeliğine başlama tarihinden hesaplanır.\n\n Genel Sekreterin nitelikleri, seçimi ve görev süresi:\n Madde 30/A – (Ek: 18/6/2014-6545/34 md.)\n Genel Sekreter, Yargıtay üyeleri arasından Birinci Başkan tarafından seçilir.[11]\n Genel Sekreterin görev süresi iki yıldır. Ancak bu süre sona ermeden Birinci Başkanın kararı üzerine veya Birinci Başkanın görevinin sona ermesi hâlinde Genel Sekreterin görevi sona erer. Görevi sona eren Genel Sekreter bir kere daha seçilebilir.",
+      "preview": "(Değişik birinci cümle: 18/6/2014-6545/33 md.) Yargıtay Birinci Başkanı seçilebilmek için en az altı yıl, Yargıtay Cumhuriyet Başsavcısı, Bi…",
+      "kitap": null,
+      "kisim": null,
+      "bolum": "DÖRDÜNCÜ BÖLÜM · Nitelikler – Seçim ve Atama",
+      "ayirim": null,
+      "maddeBaslik": "Yargıtay Üyelerinin nitelikleri ve seçimi:",
+      "sectionPath": [
+        "DÖRDÜNCÜ BÖLÜM · Nitelikler – Seçim ve Atama",
+        "Yargıtay Üyelerinin nitelikleri ve seçimi:"
+      ]
+    },
+    {
+      "id": "kanun:2797:m:31",
+      "maddeKind": "madde",
+      "maddeNo": "31",
+      "heading": "Madde 31",
+      "text": "(Değişik: 15/7/2003-4929/1 md.)\n Yargıtay Büyük Genel Kurulu; Birinci Başkanı, birinci başkanvekilleri ile daire başkanlarını kendi üyeleri arasından, üye tamsayısının salt çoğunluğu ile ve gizli oyla seçer.\n İlk üç oylamada sonuç alınamazsa, seçim, üçüncü oylamada en çok oy alan iki aday arasında yapılır. Dördüncü oylamaya katılacak olan adayların aldığı oya eşit sayıda oy alanlar da seçime katılırlar. Dördüncü ve beşinci oylamalarda da salt çoğunluk sağlanamazsa seçim yeniden adaylık başvurusunda bulunanlarla tekrarlanır.\n Bu seçimlerde üye tamsayısının salt çoğunluğunun hazır bulunması şarttır.[12]\n Birinci başkanvekilliklerine seçileceklerden birinin hukuk ve diğerinin ceza daireleri başkanı veya üyelerinden olması zorunludur.\n Daire başkanlık seçimi, her boş daire başkanlığı için ayrı ayrı yapılır.\n Birinci Başkan, birinci başkanvekili veya daire başkanı seçilmek isteyenler seçim gününden önce yazı ile Birinci Başkanlığa başvurabilecekleri gibi, ilk seçim gününde oylama başlamadan önce sözlü olarak da adaylıklarını koyabilirler.\n Birinci Başkanlıkça oylama başlamadan adayların ad ve soyadları üyelere duyurulur.\n Seçimler, Birinci Başkanlıkça belli edilen gün ve saatte yapılır. Çalışma saati sonuna kadar seçime devam olunur. Seçim bir günde sonuçlanmazsa, onu izleyen çalışma günlerinde sonuç alınıncaya kadar adaylar arasında oylama devam eder.\n Yargıtay Birinci Başkanı, birinci başkanvekilleri, daire başkanlarının görev süreleri dört yıldır. Süresi bitenler yeniden seçilebilirler. Yeni seçim yapılıncaya kadar eski başkanlar görevlerine devam ederler.\n Herhangi bir nedenle boşalan başkanlıklar ile yeniden daire kurulması halinde onbeş gün içinde seçim yapılır.\n Birinci başkanvekilleri ile daire başkanlarının kıdeminin tespitinde, Yargıtay üyeliğindeki kıdem esas alınır.",
+      "preview": "(Değişik: 15/7/2003-4929/1 md.) Yargıtay Büyük Genel Kurulu; Birinci Başkanı, birinci başkanvekilleri ile daire başkanlarını kendi üyeleri a…",
+      "kitap": null,
+      "kisim": null,
+      "bolum": "DÖRDÜNCÜ BÖLÜM · Nitelikler – Seçim ve Atama",
+      "ayirim": null,
+      "maddeBaslik": "Başkanların seçimi:",
+      "sectionPath": [
+        "DÖRDÜNCÜ BÖLÜM · Nitelikler – Seçim ve Atama",
+        "Başkanların seçimi:"
+      ]
+    },
+    {
+      "id": "kanun:2797:m:32",
+      "maddeKind": "madde",
+      "maddeNo": "32",
+      "heading": "Madde 32",
+      "text": "Yargıtay Cumhuriyet Başsavcısı ve Yargıtay Cumhuriyet Başsavcıvekili, Yargıtay Büyük Genel Kurulunun, kendi üyeleri içinden göstereceği adaylar arasından Cumhurbaşkanı tarafından seçilir.\n Yargıtay Büyük Genel Kurulu, Yargıtay Cumhuriyet Başsavcısı adaylarını belirlemek için üye tamsayısının çoğunluğu ile toplanır. (Ek cümle: 18/6/2014-6545/35 md.) Her üye, ancak bir adaya oy verebilir. Adaylar gizli oyla tespit edilir. İlk oylamada en çok oy alan beş üye aday gösterilmiş olur.\n İlk oylamada oy alanların sayısı beşten az ise, aynı gün yapılacak diğer oylamalarla noksan adaylar tamamlanır.\n Aday tespiti için yapılan oylamada; oyların eşitliği nedeniyle beşten fazla aday belirlenmesi halinde, eşit oy alan adaylardan Yargıtay üyeliğinde kıdemli olanı, kıdem eşitliği halinde ise yaşlı olanı aday gösterilmiş sayılarak beş aday tespit edilir.\n Oylama sonucu, liste halinde Yargıtay Birinci Başkanlığınca Cumhurbaşkanına sunulur. Cumhurbaşkanı listenin sunuluşundan itibaren onbeş gün içinde gösterilen adaylar arasından Cumhuriyet Başsavcısını seçer, seçim sonucu ilgililere duyurulur ve Resmi Gazete’de yayınlanır.\n Yargıtay Cumhuriyet Başsavcıvekili de yukarıdaki usul ve esaslara göre aday gösterilir ve seçilir.\n Yargıtay Cumhuriyet Başsavcısı ve Yargıtay Cumhuriyet Başsavcıvekilinin görev süreleri dört yıldır. Süresi bitenler yeniden seçilebilirler.\n Yargıtay Büyük Genel Kurulu, Yargıtay Cumhuriyet Başsavcısı ve Yargıtay Cumhuriyet Başsavcıvekilinin görev sürelerinin bitmesinden veya yaş haddi nedeniyle emekli olacakları tarihlerden yirmi gün önce; bunların dışında bir nedenle bu görevlerde boşalma olduğu takdirde boşalmayı izleyen onbeş gün içinde bu madde uyarınca adaylarını belirler.\n Yargıtay Cumhuriyet Başsavcısı ve Yargıtay Cumhuriyet Başsavcıvekilinin görev sürelerinin bitmesi veya yaş haddi nedeniyle emekliye ayrılmaları halinde, yeni seçilen Yargıtay Cumhuriyet Başsavcısı ve Yargıtay Cumhuriyet Başsavcıvekili, eskilerin görev süresinin bitmesi veya emekliye ayrılmalarını, diğer hallerde seçimin Resmi Gazete ile yayınlanmasını izleyen ilk işgününde göreve başlar.",
+      "preview": "Yargıtay Cumhuriyet Başsavcısı ve Yargıtay Cumhuriyet Başsavcıvekili, Yargıtay Büyük Genel Kurulunun, kendi üyeleri içinden göstereceği aday…",
+      "kitap": null,
+      "kisim": null,
+      "bolum": "DÖRDÜNCÜ BÖLÜM · Nitelikler – Seçim ve Atama",
+      "ayirim": null,
+      "maddeBaslik": "Yargıtay Cumhuriyet Başsavcısının ve Yargıtay Cumhuriyet Başsavcıvekilinin seçimi:",
+      "sectionPath": [
+        "DÖRDÜNCÜ BÖLÜM · Nitelikler – Seçim ve Atama",
+        "Yargıtay Cumhuriyet Başsavcısının ve Yargıtay Cumhuriyet Başsavcıvekilinin seçimi:"
+      ]
+    },
+    {
+      "id": "kanun:2797:m:33",
+      "maddeKind": "madde",
+      "maddeNo": "33",
+      "heading": "Madde 33",
+      "text": "(Mülga birinci fıkra: 9/2/2011 – 6110/14 md.)\n Birinci Başkanlık Kuruluna seçilecek iki asıl daire başkanı ile bir yedek daire başkanı ve iki asıl üye ile bir yedek üye hukuk dairelerinden; iki asıl daire başkanı ile bir yedek daire başkanı ve iki asıl üye ile bir yedek üye ceza dairelerinden olmak üzere Yargıtay Büyük Genel Kurulunca seçilir. (Ek cümle: 18/6/2014-6545/36 md.) Birinci Başkanlık Kuruluna üye seçilebilmek için üç yıl süreyle Yargıtay üyeliğinde çalışmış olmak şarttır. Birinci Başkanlık Kurulu üyeliğine aynı daireden birden fazla kimse seçilemez.[13][14]\n Asıl üyelerden birinin Kurula katılamaması halinde noksanlık yedeği ile tamamlanır.\n Birinci Başkanlık Kurulu, üye tam sayısı ile toplanır.\n Birinci Başkanlık Kurulu üyeleri kendileri ile ilgili konularda kurul toplantılarına katılamazlar.\n Birinci Başkanlık Kuruluna seçilecek olanların tamamının bir oy pusulasında gösterilmesi suretiyle oy kullanılması mümkündür. Aday çıkmadığı veya yeter sayıda başvuru olmadığı takdirde Başkanlar Kurulu tarafından gizli oyla ve oy çokluğu ile adaylar dışından seçilebileceklerin üç katı aday gösterilir. Seçimler 31 inci madde hükümleri gereğince yapılır.\n (Değişik fıkra: 23/6/2022-7413/18 md.) Birinci Başkanlık Kuruluna seçilenlerin görev süresi iki yıldır.\n Birinci Başkanlık Kurulu üyeliğine seçilen daire başkan ve üyelerinin seçim süresi dolmadan bu sıfatları değiştiğinde kurul üyeliğinden ayrılmış sayılırlar.\n Birinci Başkanlık Kurulu üyeliğinin herhangi bir nedenle boşalması halinde onbeş gün içinde boşalan üyelik için seçim yapılır ve seçilen üye yerine seçildiği üyenin süresini tamamlar.",
+      "preview": "(Mülga birinci fıkra: 9/2/2011 – 6110/14 md.) Birinci Başkanlık Kuruluna seçilecek iki asıl daire başkanı ile bir yedek daire başkanı ve iki…",
+      "kitap": null,
+      "kisim": null,
+      "bolum": "DÖRDÜNCÜ BÖLÜM · Nitelikler – Seçim ve Atama",
+      "ayirim": null,
+      "maddeBaslik": "Birinci Başkanlık Kurulu Üyelerinin nitelik ve seçimleri:",
+      "sectionPath": [
+        "DÖRDÜNCÜ BÖLÜM · Nitelikler – Seçim ve Atama",
+        "Birinci Başkanlık Kurulu Üyelerinin nitelik ve seçimleri:"
+      ]
+    },
+    {
+      "id": "kanun:2797:m:34",
+      "maddeKind": "madde",
+      "maddeNo": "34",
+      "heading": "Madde 34",
+      "text": "Yüksek Disiplin Kurulunun toplanması gerektiğinde, kurula katılacak başkanlardan altısı hukuk daireleri başkanları, üçü ceza daireleri başkanları ve diğer beş üye de başkanları katılmayacak olan dairelerin üyeleri arasından her daireden birden fazla olmamak üzere, Birinci Başkanlık Kurulunca ad çekme suretiyle asıl üye olarak belli edilir.\n Yüksek Disiplin Kurulunun yedek üyeleri, geriye kalan başkanlarla bunların daireleri dışındaki dairelerden birer üye olmak üzere Birinci Başkanlık Kurulunca ad çekme suretiyle belirlenir. Yedeklerin Kurula katılması sırası İç Yönetmelikle düzenlenir.\n Hakkında soruşturma yapılan ile ön ve ilk soruşturma yapanlar ve Birinci Başkanlık Kurulunda görevli olup karara katılan asıl ve yedek daire başkan ve üyeleri yukarıdaki fıkralarda sözü edilen ad çekmeye dahil edilmez.",
+      "preview": "Yüksek Disiplin Kurulunun toplanması gerektiğinde, kurula katılacak başkanlardan altısı hukuk daireleri başkanları, üçü ceza daireleri başka…",
+      "kitap": null,
+      "kisim": null,
+      "bolum": "DÖRDÜNCÜ BÖLÜM · Nitelikler – Seçim ve Atama",
+      "ayirim": null,
+      "maddeBaslik": "Yüksek Disiplin Kurulu Üyelerinin seçimi:",
+      "sectionPath": [
+        "DÖRDÜNCÜ BÖLÜM · Nitelikler – Seçim ve Atama",
+        "Yüksek Disiplin Kurulu Üyelerinin seçimi:"
+      ]
+    },
+    {
+      "id": "kanun:2797:m:35",
+      "maddeKind": "madde",
+      "maddeNo": "35",
+      "heading": "Madde 35",
+      "text": "Yönetim Kurulu üyeleri Başkanlar Kurulunca gizli oyla ve çoğunlukla başka kurullarda görev almamış üyeler arasından seçilir.\n Seçilecek olanların tamamının bir oy pusulasında gösterilmesi suretiyle oy kullanılması mümkündür. Aday çıkmadığı veya yeter sayıda başvuru olmadığı takdirde, Birinci Başkanlık Kurulu tarafından gizli oyla ve oy çokluğu ile adaylar dışından seçilebileceklerin üç katı aday gösterilir.",
+      "preview": "Yönetim Kurulu üyeleri Başkanlar Kurulunca gizli oyla ve çoğunlukla başka kurullarda görev almamış üyeler arasından seçilir. Seçilecek olanl…",
+      "kitap": null,
+      "kisim": null,
+      "bolum": "DÖRDÜNCÜ BÖLÜM · Nitelikler – Seçim ve Atama",
+      "ayirim": null,
+      "maddeBaslik": "Yönetim Kurulu Üyelerinin seçimi:",
+      "sectionPath": [
+        "DÖRDÜNCÜ BÖLÜM · Nitelikler – Seçim ve Atama",
+        "Yönetim Kurulu Üyelerinin seçimi:"
+      ]
+    },
+    {
+      "id": "kanun:2797:m:36",
+      "maddeKind": "madde",
+      "maddeNo": "36",
+      "heading": "Madde 36",
+      "text": "(Değişik: 2/12/2014-6572/25 md.)\n Yargıtayda yeteri kadar tetkik hâkimi bulunur. Tetkik hâkimleri, meslekte en az beş yılını fiilen doldurmuş adli yargı hâkim ve Cumhuriyet savcıları arasından Hâkimler ve Savcılar Yüksek Kurulunca atanır.\n\n Yargıtay Cumhuriyet Başsavcı Başyardımcısı ile Yargıtay Cumhuriyet Başsavcı Yardımcısının nitelikleri ve atanmaları:",
+      "preview": "(Değişik: 2/12/2014-6572/25 md.) Yargıtayda yeteri kadar tetkik hâkimi bulunur. Tetkik hâkimleri, meslekte en az beş yılını fiilen doldurmuş…",
+      "kitap": null,
+      "kisim": null,
+      "bolum": "DÖRDÜNCÜ BÖLÜM · Nitelikler – Seçim ve Atama",
+      "ayirim": null,
+      "maddeBaslik": "Tetkik Hakimlerinin nitelikleri ve atanmaları:",
+      "sectionPath": [
+        "DÖRDÜNCÜ BÖLÜM · Nitelikler – Seçim ve Atama",
+        "Tetkik Hakimlerinin nitelikleri ve atanmaları:"
+      ]
+    },
+    {
+      "id": "kanun:2797:m:37",
+      "maddeKind": "madde",
+      "maddeNo": "37",
+      "heading": "Madde 37",
+      "text": "Yargıtay Cumhuriyet Başsavcı Başyardımcısının birinci sınıfa ayrılmış bulunması; Yargıtay Cumhuriyet Başsavcı yardımcılarının ise beşinci ve daha yukarı derecelere ulaşmış ve meslekte fiilen en az beş yıl süre ile adli yargı hakimliği veya savcılığı yapmış bulunmaları zorunludur.\n Atamanın gecikeceği ve ihtiyacın zorunlu bulunduğu hallerde, boş bulunan Yargıtay Cumhuriyet Başsavcı yardımcıları kadrolarına, bu kadrolara atanma niteliğine sahip hakimler ve Cumhuriyet savcıları yetkili kurulca geçici yetki ile görevlendirilebilirler.",
+      "preview": "Yargıtay Cumhuriyet Başsavcı Başyardımcısının birinci sınıfa ayrılmış bulunması; Yargıtay Cumhuriyet Başsavcı yardımcılarının ise beşinci ve…",
+      "kitap": null,
+      "kisim": null,
+      "bolum": "DÖRDÜNCÜ BÖLÜM · Nitelikler – Seçim ve Atama",
+      "ayirim": null,
+      "maddeBaslik": "Tetkik Hakimlerinin nitelikleri ve atanmaları:",
+      "sectionPath": [
+        "DÖRDÜNCÜ BÖLÜM · Nitelikler – Seçim ve Atama",
+        "Tetkik Hakimlerinin nitelikleri ve atanmaları:"
+      ]
+    },
+    {
+      "id": "kanun:2797:m:38",
+      "maddeKind": "madde",
+      "maddeNo": "38",
+      "heading": "Madde 38",
+      "text": "Yargıtayda yapılan bütün seçimlerde, Yargıtayın içinde ve dışında seçimle ilgili olarak propaganda anlamına gelecek davranışlarda bulunulamaz.",
+      "preview": "Yargıtayda yapılan bütün seçimlerde, Yargıtayın içinde ve dışında seçimle ilgili olarak propaganda anlamına gelecek davranışlarda bulunulama…",
+      "kitap": null,
+      "kisim": null,
+      "bolum": "DÖRDÜNCÜ BÖLÜM · Nitelikler – Seçim ve Atama",
+      "ayirim": null,
+      "maddeBaslik": "Propaganda yasağı:",
+      "sectionPath": [
+        "DÖRDÜNCÜ BÖLÜM · Nitelikler – Seçim ve Atama",
+        "Propaganda yasağı:"
+      ]
+    },
+    {
+      "id": "kanun:2797:m:39",
+      "maddeKind": "madde",
+      "maddeNo": "39",
+      "heading": "Madde 39",
+      "text": "Yargıtay daireleri ile kurulları oylamaya katılacakların tümünün hazır bulunması veya bu Kanunla belli edilen çoğunluğun meydana gelmesi halinde toplanır.\n Görüşmeler gizli olur. Daire ve kurullarda kararlar çoğunlukla verilir. Özel hükümler saklıdır.\n Dairelerin veya genel kurulların başkan ve üyeleri reddolunabilirler. Ret hususundaki istemler, reddedilen başkan veya üye katılmaksızın ilgili daire veya genel kurullarca incelenerek kesin karara bağlanır. Daire ve kurulların toplantılarını engelleyen toplu ret istemleri dinlenmez.",
+      "preview": "Yargıtay daireleri ile kurulları oylamaya katılacakların tümünün hazır bulunması veya bu Kanunla belli edilen çoğunluğun meydana gelmesi hal…",
+      "kitap": null,
+      "kisim": null,
+      "bolum": "BEŞİNCİ BÖLÜM · Çalışma Usulleri",
+      "ayirim": null,
+      "maddeBaslik": "Genel esaslar:",
+      "sectionPath": [
+        "BEŞİNCİ BÖLÜM · Çalışma Usulleri",
+        "Genel esaslar:"
+      ]
+    },
+    {
+      "id": "kanun:2797:m:40",
+      "maddeKind": "madde",
+      "maddeNo": "40",
+      "heading": "Madde 40",
+      "text": "(Değişik birinci fıkra: 9/2/2011 – 6110/9 md.) Daireler heyet hâlinde çalışır, heyet bir başkan ve dört üyenin katılmasıyla toplanır. Üye sayısının yeterli olması halinde birden fazla heyet oluşturulabilir. Bu durumda, oluşturulan diğer heyetlere, heyette yer alan en kıdemli üye başkanlık eder. Heyetler işi müzakere eder ve salt çoğunlukla karar verirler. Müzakereler gizli cereyan eder.\n Görüşmeye katılan başkan ve üyelerin adları mahallerine gönderilecek karar örneklerine de yazılır. Karar çoğunluk ile verilmişse karşı oy yazısı, kararların asıl ve örneklerinde gösterilir.\n Yargıtay incelemesi için dairelere gelen dosyalar bekletilmeksizin görev ve iş bölümü, temyiz kabiliyetinin bulunup bulunmadığı, temyiz isteminin süresi içinde olup olmadığı, temyiz şartı ve diğer usul eksiklikleri yönlerinden ön incelemeye tabi tutulur.\n Ön inceleme sırasında, temyiz incelemesinin başka daireye ait olduğu, temyiz kabiliyetinin bulunmadığı, temyiz isteminin süresi içinde olmadığı, temyiz şartının yerine getirilmediği veya diğer usul eksiklikleri bulunduğu saptanan dosyalar dairede öncelikle incelenip karara bağlanır.\n Yukarıdaki fıkralar, özel hükümler saklı kalmak üzere Hukuk ve Ceza Genel Kurulları çalışmalarında da uygulanır.",
+      "preview": "(Değişik birinci fıkra: 9/2/2011 – 6110/9 md.) Daireler heyet hâlinde çalışır, heyet bir başkan ve dört üyenin katılmasıyla toplanır. Üye sa…",
+      "kitap": null,
+      "kisim": null,
+      "bolum": "BEŞİNCİ BÖLÜM · Çalışma Usulleri",
+      "ayirim": null,
+      "maddeBaslik": "Dairelerin çalışması:",
+      "sectionPath": [
+        "BEŞİNCİ BÖLÜM · Çalışma Usulleri",
+        "Dairelerin çalışması:"
+      ]
+    },
+    {
+      "id": "kanun:2797:m:41",
+      "maddeKind": "madde",
+      "maddeNo": "41",
+      "heading": "Madde 41",
+      "text": "Hukuk ve Ceza Genel Kurulları 7 nci maddede yazılı şekilde toplanır. Toplantıda bulunanların üçte ikisinin oyu ile karar verilir. Birinci toplantıda üçte iki oy çoğunluğu sağlanamazsa ikinci toplantıda bulunanların çoğunluğu ile karar verilir. Ancak, içtihadı birleştirme toplantılarında birinci ve ikinci toplantıda üçte iki çoğunluk sağlanamazsa üçüncü toplantıdakilerin çoğunluğu ile karar verilir.\n Özel dairenin ilk derece mahkemesi olarak verdiği kararın temyiz veya itiraz yoluyla incelenmesinde özel dairelerde duruşmaya katılıp da hükme müessir olacak hukuki işlemlerin yapıldığı oturumda bulunmuş veya karara katılmış olanlar genel kurullarda bulunamazlar.\n Bir işin duruşmasında bulunmuş olan başkan ve üyelerin çoğunluğunun kurul kadrolarında değişiklik, izin veya hastalık gibi nedenler dışında o işin görüşülmesinin yapıldığı kurullarda yer alması zorunludur.\n Tarafların sözlü açıklamalarının dinlenmiş olduğu işlerde, o gün dosya incelenip karara varılamadığı takdirde, sonraki toplantıda yeniden dinlenmelerine ihtiyaç olmaksızın kağıtların okunmasıyla yetinilir.",
+      "preview": "Hukuk ve Ceza Genel Kurulları 7 nci maddede yazılı şekilde toplanır. Toplantıda bulunanların üçte ikisinin oyu ile karar verilir. Birinci to…",
+      "kitap": null,
+      "kisim": null,
+      "bolum": "BEŞİNCİ BÖLÜM · Çalışma Usulleri",
+      "ayirim": null,
+      "maddeBaslik": "Hukuk ve Ceza Genel Kurullarının çalışması:",
+      "sectionPath": [
+        "BEŞİNCİ BÖLÜM · Çalışma Usulleri",
+        "Hukuk ve Ceza Genel Kurullarının çalışması:"
+      ]
+    },
+    {
+      "id": "kanun:2797:m:42",
+      "maddeKind": "madde",
+      "maddeNo": "42",
+      "heading": "Madde 42",
+      "text": "Yargıtay Büyük Genel Kurulu, toplantıda bulunanların üçte iki çoğunluğuyla karar verir. Ancak, birinci ve ikinci toplantıda bu çoğunluk sağlanamaz ise, üçüncü toplantıda bulunanların çoğunluk oyu ile yetinilir.\n Toplantı ve karar yeter sayısı bakımından özel hükümler saklıdır.\n Yargıtay Büyük Genel Kurulunun toplantı günlerinde ve müzakerelerinin devamı süresince bütün daireler; Hukuk İçtihadı Birleştirme Genel Kurulunun toplantı günlerinde ve müzakerelerinin devamı süresince hukuk daireleri; Ceza İçti hadı Birleştirme Genel Kurulunun toplantı günlerinde ve müzakerelerinin devamı süresince de ceza daireleri kurul olarak çalışamazlar.",
+      "preview": "Yargıtay Büyük Genel Kurulu, toplantıda bulunanların üçte iki çoğunluğuyla karar verir. Ancak, birinci ve ikinci toplantıda bu çoğunluk sağl…",
+      "kitap": null,
+      "kisim": null,
+      "bolum": "BEŞİNCİ BÖLÜM · Çalışma Usulleri",
+      "ayirim": null,
+      "maddeBaslik": "Yargıtay Büyük Genel Kurulun çalışması:",
+      "sectionPath": [
+        "BEŞİNCİ BÖLÜM · Çalışma Usulleri",
+        "Yargıtay Büyük Genel Kurulun çalışması:"
+      ]
+    },
+    {
+      "id": "kanun:2797:m:43",
+      "maddeKind": "madde",
+      "maddeNo": "43",
+      "heading": "Madde 43",
+      "text": "19 uncu maddede yazılı eylem ve davranışları her ne biçimde olursa olsun haber alan Birinci Başkan gerekli soruşturma işlemini yapmak üzere durumu Birinci Başkanlık Kuruluna bildirir.\n Adalet Bakanlığı ile Hakimler ve Savcılar Yüksek Kurulundan gelen ihbar ve şikayetlerin sonucu Adalet Bakanlığına veya Hakimler ve Savcılar Yüksek Kuruluna bildirilir.\n Şu kadar ki, şikayet ve ihbar soruşturmayı gerektiren belli bir konuyu ihtiva etmezse işleme konulmaz.\n Birinci Başkanlık Kurulu yapacağı veya yaptıracağı soruşturma sonunda toplanan delilleri yeterli görürse, soruşturma dosyasının bir raporla Yüksek Disiplin Kuruluna gönderilmesine, aksi takdirde bir işleme yer olmadığına kesin olarak karar verir.\n Soruşturma dosyasının Yüksek Disiplin Kuruluna intikali üzerine, Başkan, hakkında soruşturma yapılandan daha kıdemli olan bir başkan veya üyeyi gerekli soruşturmayı yapmak üzere görevlendirir. Görevlendirilen başkan veya üye gerekli ise konu ile ilgili bilgi ve delilleri toplar, lüzum gördüğü kimseleri yeminle dinler. Bütün daire, kurum ve kuruluşlar ile gerçek ve tüzelkişiler sorulan hususlara cevap vermek zorundadır.\n İlgiliye tebliğ tarihinden itibaren on gün içinde yazılı savunmasını yapmak üzere bildirimde bulunur. Hakkında soruşturma yapılan bu dosyayı soruşturmayı yapan üyenin huzurunda inceleyebilir.\n Savunmanın alınması ve soruşturmanın bitiminde, görevli başkan veya üye sonucu kanaati ile birlikte bir rapor halinde Yüksek Disiplin Kuruluna sunar.\n Hakkında soruşturma yapılanın istemi ve Yüksek Disiplin Kurulunun uygun görmesi halinde, kendisinin kurulda dinlenmesine karar verilebilir. İlgili istediği takdirde vekili aracılığı ile de yazılı ve sözlü savunmasını yapabilir.\n Yüksek Disiplin Kurulu üye tamsayısı ile toplanır ve üçte iki çoğunlukla karar verir. Üçüncü oylamada çoğunluk oyu yeterlidir. Oylama gizli yapılır. Soruşturmayı yapan, kurula katılamaz, noksan üye yedeği ile tamamlanır.\n Yüksek Disiplin Kurulu delilleri serbestçe takdir eder.\n Bu kararlar aleyhine tebliği tarihinden itibaren onbeş gün içinde Başkanlar Kuruluna itiraz edilebilir. İtirazın incelenmesinde karara katılan Yüksek Disiplin Kurulu üyeleri kurula katılamaz ve eksikler o dairelerin kıdemli üyeleriyle tamamlanır. İtiraz üzerine inceleme evrak üzerinde yapılır. İtiraz yerinde görülürse ceza tümüyle kaldırılır veya değiştirilir.\n İlgili kesinleşmiş olan görevden çekilmeye davet kararının tebliğinden itibaren bir ay içinde görevden çekilmediği veya emekliliğini istemediği takdirde çekilmiş kabul edilir. Bu bir aylık süre içinde ilgili izinli sayılır.",
+      "preview": "19 uncu maddede yazılı eylem ve davranışları her ne biçimde olursa olsun haber alan Birinci Başkan gerekli soruşturma işlemini yapmak üzere…",
+      "kitap": null,
+      "kisim": null,
+      "bolum": "BEŞİNCİ BÖLÜM · Çalışma Usulleri",
+      "ayirim": null,
+      "maddeBaslik": "Yüksek Disiplin Kurulununun çalışması:",
+      "sectionPath": [
+        "BEŞİNCİ BÖLÜM · Çalışma Usulleri",
+        "Yüksek Disiplin Kurulununun çalışması:"
+      ]
+    },
+    {
+      "id": "kanun:2797:m:44",
+      "maddeKind": "madde",
+      "maddeNo": "44",
+      "heading": "Madde 44",
+      "text": "Genel Kurullarda görüşülecek işlerin gündemi, kurul başkanları tarafından toplantı gününden en az bir hafta önce dairelere ve gerektiğinde diğer ilgililere dağıtılır.\n Gündemin düzenleniş şekli İç Yönetmelikte gösterilir.",
+      "preview": "Genel Kurullarda görüşülecek işlerin gündemi, kurul başkanları tarafından toplantı gününden en az bir hafta önce dairelere ve gerektiğinde d…",
+      "kitap": null,
+      "kisim": null,
+      "bolum": "BEŞİNCİ BÖLÜM · Çalışma Usulleri",
+      "ayirim": null,
+      "maddeBaslik": "Kurulların gündemi:",
+      "sectionPath": [
+        "BEŞİNCİ BÖLÜM · Çalışma Usulleri",
+        "Kurulların gündemi:"
+      ]
+    },
+    {
+      "id": "kanun:2797:m:45",
+      "maddeKind": "madde",
+      "maddeNo": "45",
+      "heading": "Madde 45",
+      "text": "İçtihadların birleştirilmesini Birinci Başkan, doğrudan doğruya veya Yargıtay dairelerinin veya genel kurulların verdikleri karar sonucunda veya Yargıtay Cumhuriyet Başsavcısının bizzat yazı ile başvurması halinde, ilgili kuruldan ister. Bu istemlerin gerekçeli olması zorunludur.\n Diğer merci veya kişilerin gerekçe göstererek yazılı başvurmaları halinde, içtihadı birleştirme yoluna gitmenin gerekip gerekmediğine Birinci Başkanlık Kurulu karar verir. Bu karar kesindir.\n İçtihadı birleştirme kararlarının değiştirilmesi veya kaldırılmasının istenmesi de yukarıdaki usule bağlıdır.\n İçtihadı birleştirme görüşmeleri, alınmış olan ilke kararları çerçevesinde yürütülür ve kararları yazılır.\n İçtihadı birleştirme kararları benzer hukuki konularda Yargıtay Genel Kurullarını, dairelerini ve adliye mahkemelerini bağlar.\n İçtihadı birleştirme kararlarının niteliğini açıkça belirten özeti, kararın verilmesini izleyen en kısa zamanda Adalet Bakanlığına bildirilir. Adalet Bakanlığı bütün adliye mahkemelerine ve Cumhuriyet savcılıklarına bu kararları gecikmeksizin duyurur.\n İçtihadı Birleştirme Kurulları, genel kurulların veya dairelerin kararlarındaki gerekçe ve görüşlerle bağlı olmaksızın sorunu başka bir görüşle karara bağlayabilirler.",
+      "preview": "İçtihadların birleştirilmesini Birinci Başkan, doğrudan doğruya veya Yargıtay dairelerinin veya genel kurulların verdikleri karar sonucunda…",
+      "kitap": null,
+      "kisim": null,
+      "bolum": "BEŞİNCİ BÖLÜM · Çalışma Usulleri",
+      "ayirim": null,
+      "maddeBaslik": "İçtihadların birleştirilmesini istemek yetkisi ve bağlayıcılığı:",
+      "sectionPath": [
+        "BEŞİNCİ BÖLÜM · Çalışma Usulleri",
+        "İçtihadların birleştirilmesini istemek yetkisi ve bağlayıcılığı:"
+      ]
+    },
+    {
+      "id": "kanun:2797:m:46",
+      "maddeKind": "madde",
+      "maddeNo": "46",
+      "heading": "Madde 46",
+      "text": "Yargıtay Birinci Başkanı, birinci başkanvekilleri, daire başkanları, üyeleri, Yargıtay Cumhuriyet Başsavcısı ve Yargıtay Cumhuriyet Başsavcıvekilinin görevleriyle ilgili veya kişisel suçlarından dolayı haklarında soruşturma yapılabilmesi Birinci Başkanlık Kurulunun kararına bağlıdır. Ancak, ağır cezayı gerektiren suçüstü hallerinin hazırlık ve ilk soruşturması genel hükümlere tabidir.\n Birinci Başkanlık Kurulu kendisine intikal eden veya ettirilen ihbar ve şikayetleri inceleyerek soruşturma açılmasını gerektirir nitelikte gördüğü takdirde, ilk soruşturma yapılması için ceza dairesi başkanlarından birini görevlendirir. Aksi takdirde dosyanın işlemden kaldırılmasına karar verir. Bu karar kesindir.\n Soruşturma ile görevlendirilen başkan, soruşturmayı ikmal ettikten sonra evrakı Birinci Başkanlık Kuruluna gönderir.\n Soruşturmayı yapan ceza dairesi başkanı sorgu hakiminin yetkisini haiz olup Ceza Muhakemeleri Usulü Kanununun ilk soruşturmaya ait hükümlerini uygular. Vereceği tutuklama ve tutuklamanın kaldırılması veya kefaletle salıvermeye ait kararları Birinci Başkanlık Kurulunun onaması ile tekemmül eder.\n Birinci Başkanlık Kurulu, incelediği evrakı eksik bulursa soruşturmayı yapan başkana tamamlattırır. Son soruşturmanın açılmasına gerek görmediği takdirde evrakın işlemden kaldırılmasına, aksi halde son soruşturmanın açılmasına karar verir ve görevle ilgili suçlarda Anayasa Mahkemesine, kişisel suçlarda Yargıtay ilgili ceza dairesine tevdi olunmak üzere dosyayı Yargıtay Cumhuriyet Başsavcılığına gönderir. Evrakın işlemden kaldırılmasına dair verilen kararlar kesindir.[15]\n (Mülga altıncı fıkra: 2/1/2017-KHK-680/5 md.; Yeniden düzenleme: 17/4/2017-KHK-690/2 md.; Aynen kabul: 1/2/2018-7072/4 md.) Ağır ceza mahkemesinin görevine giren kişisel suçlarla ilgili suçüstü halinde genel hükümlere göre yürütülen soruşturma sonucunda dosya, düzenlenen fezlekeyle birlikte Yargıtay Cumhuriyet Başsavcılığına gönderilir. Hâkim kararı gerektiren işlemlere dair Yargıtay Cumhuriyet Başsavcılığının talepleri ile kovuşturmaya yer olmadığına dair kararlara yapılan itirazlar hakkında, soruşturma konusu suçların en ağırına bakmakla görevli Yargıtay ceza dairesini numara itibarıyla izleyen ceza dairesi başkanı tarafından karar verilir. Suçun son numaralı ceza dairesinin görevine girmesi halinde talebi inceleme yetkisi Birinci Ceza Dairesi Başkanına aittir. Hâkim kararı gerektiren işlemlerde başkanın verdiği kararlara karşı yapılan itirazı numara itibarıyla izleyen ceza dairesi başkanı inceler. Son numaralı daire başkanının kararı, Birinci Ceza Dairesi Başkanı tarafından incelenir. İddianame hazırlanması hâlinde kovuşturma Yargıtay ilgili ceza dairesince yapılır.\n Haklarında inceleme ve soruşturma yapılacakların, inceleme ve soruşturma mercilerinin tayininde son görev ve sıfatları esas alınır. Sıkıyönetim Kanununda sözü edilen yetkili izin mercii, Yargıtay Büyük Genel Kuruludur.",
+      "preview": "Yargıtay Birinci Başkanı, birinci başkanvekilleri, daire başkanları, üyeleri, Yargıtay Cumhuriyet Başsavcısı ve Yargıtay Cumhuriyet Başsavcı…",
+      "kitap": null,
+      "kisim": null,
+      "bolum": "ALTINCI BÖLÜM · Suçlarla İlgili İnceleme, Soruşturma ve Kovuşturma",
+      "ayirim": null,
+      "maddeBaslik": "Kişisel ve görevle ilgili suçlar:",
+      "sectionPath": [
+        "ALTINCI BÖLÜM · Suçlarla İlgili İnceleme, Soruşturma ve Kovuşturma",
+        "Kişisel ve görevle ilgili suçlar:"
+      ]
+    },
+    {
+      "id": "kanun:2797:m:47",
+      "maddeKind": "madde",
+      "maddeNo": "47",
+      "heading": "Madde 47",
+      "text": "Ceza yönünden açılan soruşturma ve kovuşturmalar, disiplin işlemlerinin ayrıca yapılmasına ve uygulanmasına engel olmaz.",
+      "preview": "Ceza yönünden açılan soruşturma ve kovuşturmalar, disiplin işlemlerinin ayrıca yapılmasına ve uygulanmasına engel olmaz.",
+      "kitap": null,
+      "kisim": null,
+      "bolum": "ALTINCI BÖLÜM · Suçlarla İlgili İnceleme, Soruşturma ve Kovuşturma",
+      "ayirim": null,
+      "maddeBaslik": "Disiplin işlemlerinin uygulanması:",
+      "sectionPath": [
+        "ALTINCI BÖLÜM · Suçlarla İlgili İnceleme, Soruşturma ve Kovuşturma",
+        "Disiplin işlemlerinin uygulanması:"
+      ]
+    },
+    {
+      "id": "kanun:2797:m:48",
+      "maddeKind": "madde",
+      "maddeNo": "48",
+      "heading": "Madde 48",
+      "text": "Yayın Kurulu, yayın işleriyle ilgili konularda gerekli kararları vermek ve düzenli aralıklarla toplanıp çalışmak üzere, Birinci Başkanlık Kurulunca Yargıtay üyeleri arasından seçilen dört üye ile tasnif kurulu başkanından oluşur. Kurul, kendi üyelerinden birini gizli oyla başkanlığa seçer. Üyelerin seçim süresi dört yıldır. Aynı kişiler yeniden seçilebilirler.\n Yayın Kurulu Başkanının ve üyelerinin bu görevleri, yargı görevlerinin devam etmesine engel olmaz.\n Yayın Kurulu Başkanının, Yayın Kurulunun verdiği kararların uygulanması, kurul ve daire kararlarının zamanında düzenli olarak yayımlanması koşulu ile sınırlı olmak üzere Yayın İşleri Müdürlüğü birimi üzerinde gözetim ve denetim yetkisi vardır.\n Bu Kurulun görevleri, İç Yönetmelikte gösterilir.",
+      "preview": "Yayın Kurulu, yayın işleriyle ilgili konularda gerekli kararları vermek ve düzenli aralıklarla toplanıp çalışmak üzere, Birinci Başkanlık Ku…",
+      "kitap": null,
+      "kisim": null,
+      "bolum": "YEDİNCİ BÖLÜM · İdari Birimler ve Bürolar",
+      "ayirim": null,
+      "maddeBaslik": "Yayın Kurulu ve görevleri:",
+      "sectionPath": [
+        "YEDİNCİ BÖLÜM · İdari Birimler ve Bürolar",
+        "Yayın Kurulu ve görevleri:"
+      ]
+    },
+    {
+      "id": "kanun:2797:m:49",
+      "maddeKind": "madde",
+      "maddeNo": "49",
+      "heading": "Madde 49",
+      "text": "Birinci başkanvekilleri ile daire başkanları, genel kurullardan ve dairelerden verilen, emsal teşkil eden kararlardan iki örneğini, gerekirse özetleriyle birlikte kararların verildiği tarihten başlayarak en geç bir ay içinde Yayın İşleri Müdürlüğüne gönderilmelerini sağlamakla görevlidirler. Birinci Başkan bu görevin gereği gibi yerine getirilmesini denetler. Gönderilen kararların özetleriyle birlikte aynen yayımlanması zorunludur.\n Kararların tasnifi işleri, Birinci Başkanlık Kurulu tarafından görevlendirilecek bir Yargıtay üyesinin başkanlığında yeteri kadar tetkik hakiminden oluşan Tasnif Kurulu tarafından yapılır.\n Tasnif Kurulu Başkanı dört yıl için görevlendirilir. Süre bitiminde yeniden görevlendirilebilir.\n Bu Kurulun görevleri şunlardır:\n a) Birinci fıkra hükmüne göre Yayın İşleri Müdürlüğünden verilen kararları tasnif etmek, daire ve kurullarınca özetlenmeyen kararları özetlemek,\n b) Uygulanacak tasnif ilkelerini ve yöntemlerini, yapacağı inceleme ve araştırmalarla bilime uygun olarak saptamak.",
+      "preview": "Birinci başkanvekilleri ile daire başkanları, genel kurullardan ve dairelerden verilen, emsal teşkil eden kararlardan iki örneğini, gerekirs…",
+      "kitap": null,
+      "kisim": null,
+      "bolum": "YEDİNCİ BÖLÜM · İdari Birimler ve Bürolar",
+      "ayirim": null,
+      "maddeBaslik": "Tasnif Kurulu ve görevleri:",
+      "sectionPath": [
+        "YEDİNCİ BÖLÜM · İdari Birimler ve Bürolar",
+        "Tasnif Kurulu ve görevleri:"
+      ]
+    },
+    {
+      "id": "kanun:2797:m:50",
+      "maddeKind": "madde",
+      "maddeNo": "50",
+      "heading": "Madde 50",
+      "text": "Yargıtay Yayın İşleri Müdürlüğü, Yargıtay kuruluşu içerisinde Birinci Başkanlığa bağlı olmak üzere yükseköğrenim yapmış bir müdürün yönetiminde yeteri kadar müdür yardımcısı ve memurlardan oluşur.\n Yayın İşleri Müdürlüğünün Görevleri Şunlardır:\n a) Tasnif Kurulunca tasnif edilen Yargıtay İçtihadı Birleştirme Genel Kurul ve daire kararlarını kanun (…)[16] ve diğer mevzuat maddelerine göre kartlara geçirmek ve fihristlerini yapmak,\n b) Kararları ve özetlerini fihristleriyle, resmi külliyat olarak teselsül eden ciltler halinde yayınlamak,\n c) Yayın Kurulunca Türkçe‘ye çevrilmesi saptanan yabancı dillerde yazılmış kitaplarla kararların çeviri ve yayın işlerini yürütmek,\n d) Yayın Kurulunca saptanan kitapları satın almak,\n e) Yargıtaydaki dosyalama, arşiv ve benzeri işlerle ilgili araştırmalar yapmak ve yaptırmak,\n f) Yayınların dağıtım ve satımı ile ilgili bütün işlemleri yapmak,\n g) Yayın Kurulunun yayımla ilgili konularda aldığı kararları yerine getirmek,\n h) Yargıtay İç Yönetmeliğinde gösterilen diğer görevleri yapmak.",
+      "preview": "Yargıtay Yayın İşleri Müdürlüğü, Yargıtay kuruluşu içerisinde Birinci Başkanlığa bağlı olmak üzere yükseköğrenim yapmış bir müdürün yönetimi…",
+      "kitap": null,
+      "kisim": null,
+      "bolum": "YEDİNCİ BÖLÜM · İdari Birimler ve Bürolar",
+      "ayirim": null,
+      "maddeBaslik": "Yayın İşleri Müdürlüğü ve görevleri:",
+      "sectionPath": [
+        "YEDİNCİ BÖLÜM · İdari Birimler ve Bürolar",
+        "Yayın İşleri Müdürlüğü ve görevleri:"
+      ]
+    },
+    {
+      "id": "kanun:2797:m:51",
+      "maddeKind": "madde",
+      "maddeNo": "51",
+      "heading": "Madde 51",
+      "text": "Yargıtay sağlık hizmetleri, Sağlık Müdürlüğünce yürütülür.\n Sağlık Müdürlüğünde; üç uzman hekim, bir diş hekimi ile laboratuvar ünitesi bulunur.\n Birinci Başkanlık, atama yapılamadığı takdirde birinci fıkrada yazılı uzman hekimleri sözleşmeli personel olarak çalıştırabilir.",
+      "preview": "Yargıtay sağlık hizmetleri, Sağlık Müdürlüğünce yürütülür. Sağlık Müdürlüğünde; üç uzman hekim, bir diş hekimi ile laboratuvar ünitesi bulun…",
+      "kitap": null,
+      "kisim": null,
+      "bolum": "YEDİNCİ BÖLÜM · İdari Birimler ve Bürolar",
+      "ayirim": null,
+      "maddeBaslik": "Sağlık Müdürlüğü:",
+      "sectionPath": [
+        "YEDİNCİ BÖLÜM · İdari Birimler ve Bürolar",
+        "Sağlık Müdürlüğü:"
+      ]
+    },
+    {
+      "id": "kanun:2797:m:52",
+      "maddeKind": "madde",
+      "maddeNo": "52",
+      "heading": "Madde 52",
+      "text": "Yargıtay personelinin meslek öncesi ve meslek içi eğitimleri ve kurulacak tesislerin yönetimi, bir müdürün başkanlığında yeteri kadar müdür yardımcısı, memur ve hizmetliden oluşan Eğitim ve Sosyal İşler Müdürlüğünce yürütülür.\n Eğitime tabi tutulacakların tespiti, eğitim süresi, eğitim programı, eğitim ve görev alacakların nitelikleri ve bunlara ilişkin diğer hususlar İç Yönetmelikte belirtilir.",
+      "preview": "Yargıtay personelinin meslek öncesi ve meslek içi eğitimleri ve kurulacak tesislerin yönetimi, bir müdürün başkanlığında yeteri kadar müdür…",
+      "kitap": null,
+      "kisim": null,
+      "bolum": "YEDİNCİ BÖLÜM · İdari Birimler ve Bürolar",
+      "ayirim": null,
+      "maddeBaslik": "Eğitim ve Sosyal İşler Müdürlüğü:",
+      "sectionPath": [
+        "YEDİNCİ BÖLÜM · İdari Birimler ve Bürolar",
+        "Eğitim ve Sosyal İşler Müdürlüğü:"
+      ]
+    },
+    {
+      "id": "kanun:2797:m:53",
+      "maddeKind": "madde",
+      "maddeNo": "53",
+      "heading": "Madde 53",
+      "text": "Yargıtay Birinci Başkanlığında, Yargıtay dairelerinde, kurullarında birer, Yargıtay Cumhuriyet Başsavcılığında ise yeteri kadar yazı işleri bürosu bulunur.\n Bürolarda bir yazı işleri müdürü, yeteri kadar yazı işleri müdür yardımcısı, memur, katip, mübaşir ve odacı bulunur.\n Yazı İşleri Müdürlüğüne, öncelikle hukuk fakültesi mezunları; bunlardan müracaat eden olmadığı takdirde sırasıyla Adalet Yüksekokulu, fakülte, yüksekokul, lise veya ticaret lisesi mezunları veya en az beş yıl yazı işleri müdür yardımcılığı veya ilk derece mahkemelerinde aynı süre yazı işleri müdürlüğü yapmış olanlar atanır.\n Yazı işleri müdür yardımcılığına atanabilmek için lise veya ticaret lisesini bitirmiş olmak veya Yargıtayda en az beş yıl süre ile katiplik veya ilk derece mahkemelerinde aynı süre yazı işleri müdür yardımcılığı veya katiplik yapmış olmak gerekir.\n Bürolara yapılacak atamalarda ve atanacakların bütün özlük haklarıyla sair işlemlerinde bu Kanunda yazılı istisnalar dışında Devlet Memurları Kanununun ilgili hükümleri uygulanır.[17]\n Açılan kadrolara ilk kez atanacaklar Yönetim Kurulunca yapılacak açık yarışma sınavı ile belli edilir. Naklen atanacaklar için daire başkanı veya amirinin ve Yargıtay Cumhuriyet Başsavcılığı yazı işleri büroları için Yargıtay Cumhuriyet Başsavcısının inhaları göz önünde tutulur.\n Yarışma sınavında kazananlar başarı sırasına göre bir çizelge ile tespit olunarak en üst derecede kazananlardan başlamak üzere sıra ile atama yapılır.\n Yazı İşleri Müdürü büronun birinci derecede sorumlu görevlisidir. Büro işlerinin düzenle yürütülmesini sağlar ve Yargıtay İç Yönetmeliğinde gösterilen görevleri yapar.\n\n Bilgi İşlem Merkezi Müdürlüğü ve görevleri\n Madde 53/A – (Ek: 9/2/2011 – 6110/10 md.)\n Bilgi İşlem Merkezi, Yargıtay Birinci Başkanlığına bağlı olarak görev yapar ve bir müdür yönetiminde yeteri kadar şef, mühendis, programcı, çözümleyici, bilgisayar işletmeni, veri hazırlama ve kontrol işletmeni ile teknisyenden oluşur.\n Bilgi İşlem Merkezi Müdürlüğünün görevleri şunlardır:\n a) Yargıtay Başkanlığında bilgi işlem sistemini ilk derece ve bölge adliye mahkemeleri bilişim sistemiyle koordineli olarak kurmak, işletmek, bakım ve onarımlarını yapmak veya yaptırmak, bilgi işlem sistemleri ile ilgili teknolojileri ve gelişmeleri takip ederek ihtiyaçlara göre gerekli güncellemeleri yapmak, Yargıtay Başkanlığının ihtiyaçlarına göre projeler üreterek yazılım geliştirmek ve güncellemek.\n b) Gerektiğinde, diğer kamu kurum ve kuruluşlarının geliştirmiş olduğu yazılımlarla uyumunu sağlamak, uluslararası kapsamda, sistemler arası çevrim içi ve çevrim dışı veri akışını ve koordinasyonu sağlamak, bilişim teknolojileri ile ilgili ulusal ve uluslararası faaliyetlerde Yargıtay Birinci Başkanlığınca verilen görevleri yerine getirmek.\n c) Yargıtayın faaliyet alanına ilişkin olarak hazırlanan karar, mevzuat, genelge, görüş, metin ve belgelerin, Türkiye’nin üyesi olduğu ve yargı yetkisi tanınan uluslararası mahkeme kararlarının, kullanıcıların hizmetine sunulması için gerekli desteği sağlamak.\n d) Yargıtay Başkanlığı bilgi sistemlerinde güvenlik politikalarının usul ve esaslarının belirlenmesi, uygulanması ve güncellenerek denetlenmesini sağlamak.\n e) Bilgisayar ve bilgi sistemlerinin kullanılmasında Yargıtay Başkanlığınca çıkartılacak esasları hazırlamak, Yargıtayın tüm birimlerinde görev yapan bilgisayar kullanıcılarının talepleri de dikkate alınarak gerekli eğitimlerini sağlamak.\n f) Yargıtay Başkanlığı tarafından verilen benzeri görevleri yapmak.",
+      "preview": "Yargıtay Birinci Başkanlığında, Yargıtay dairelerinde, kurullarında birer, Yargıtay Cumhuriyet Başsavcılığında ise yeteri kadar yazı işleri…",
+      "kitap": null,
+      "kisim": null,
+      "bolum": "YEDİNCİ BÖLÜM · İdari Birimler ve Bürolar",
+      "ayirim": null,
+      "maddeBaslik": "Yazı işleri büroları:",
+      "sectionPath": [
+        "YEDİNCİ BÖLÜM · İdari Birimler ve Bürolar",
+        "Yazı işleri büroları:"
+      ]
+    },
+    {
+      "id": "kanun:2797:m:54",
+      "maddeKind": "madde",
+      "maddeNo": "54",
+      "heading": "Madde 54",
+      "text": "Yargıtay, genel bütçe içinde kendi bütçesiyle yönetilir.\n Bütçenin birinci derecede ita amiri Yargıtay Birinci Başkanıdır. Muhasebe İşleri Yargıtay nezdindeki muhasebe teşkilatı tarafından yürütülür. Gider tahakkuk memurluğu görevi, Birinci Başkanın tensip edeceği memurlar tarafından yerine getirilir.\n Yasama Organı komisyon ve genel kurullarında Yargıtayı, Birinci Başkanın görevlendireceği Genel Sekreter veya yardımcısı temsil eder.",
+      "preview": "Yargıtay, genel bütçe içinde kendi bütçesiyle yönetilir. Bütçenin birinci derecede ita amiri Yargıtay Birinci Başkanıdır. Muhasebe İşleri Ya…",
+      "kitap": null,
+      "kisim": null,
+      "bolum": "SEKİZİNCİ BÖLÜM · Çeşitli Hükümler",
+      "ayirim": null,
+      "maddeBaslik": "Bütçe:",
+      "sectionPath": [
+        "SEKİZİNCİ BÖLÜM · Çeşitli Hükümler",
+        "Bütçe:"
+      ]
+    },
+    {
+      "id": "kanun:2797:m:55",
+      "maddeKind": "madde",
+      "maddeNo": "55",
+      "heading": "Madde 55",
+      "text": "(Değişik: 2/6/2000 – 4574/1 md.)\n Yargıtay Yayın İşleri Müdürlüğü görevlerinin yerine getirilebilmesi amacıyla kurulmuş bulunan “Yargıtay Yayınları Döner Sermayesi” on milyon Türk lirasına çıkarılmıştır. Döner sermaye miktarı on milyon Türk lirasına ulaşıncaya kadar, kârlar döner sermayeye eklenir. Bu miktar, Yargıtay Birinci Başkanlığınca gösterilecek lüzum üzerine, Cumhurbaşkanı kararıyla beş katına kadar artırılabilir. [19][20]\n Döner sermaye işlemleri, 1050 sayılı Muhasebe-i Umumiye Kanunu ile 2886 sayılı Devlet İhale Kanununa bağlı değildir.\n Döner sermaye ile yapılacak yayınların fiyatlarının hesaplanması, maliyete eklenecek kâr oranı veya miktarı, döner sermayenin işletilmesine, sarf usullerine ilişkin kurallar, Yargıtay Birinci Başkanlığı ile Maliye Bakanlığınca müştereken yapılacak bir yönetmelikle düzenlenir.\n Döner Sermaye İşletmesi Yönetim Kurulu; Genel Sekreterin başkanlığında, Yayın İşleri Müdürü, Sorumlu Sayman ve Yayın Şefinden oluşur. Döner Sermaye İşletmesinin işlemleri her malî yıl sonunda Birinci Başkanlıkça denetlenir.\n (Mülga beşinci fıkra: 11/10/2011-KHK-666/1 md.)18\n (Mülga altıncı fıkra: 11/10/2011-KHK-666/1 md.)18\n Döner sermayenin yıllık bilançoları gider belgeleriyle birlikte malî yılın bitiminden itibaren iki ay içinde Sayıştaya ve bilançonun bir örneği de Maliye Bakanlığına gönderilir.\n (Ek fıkra: 1/7/2016 – 6723/20 md.) Ulusal veya uluslararası sempozyum, seminer ve diğer bilimsel toplantılar ile fiziki veya elektronik olarak kitap, dergi veya diğer her türlü yayın faaliyetlerinin giderleri ve kütüphaneye satın alınacak her türlü süreli veya süresiz yayınların bedeli döner sermayeden karşılanabilir.",
+      "preview": "(Değişik: 2/6/2000 – 4574/1 md.) Yargıtay Yayın İşleri Müdürlüğü görevlerinin yerine getirilebilmesi amacıyla kurulmuş bulunan “Yargıtay Yay…",
+      "kitap": null,
+      "kisim": null,
+      "bolum": "SEKİZİNCİ BÖLÜM · Çeşitli Hükümler",
+      "ayirim": null,
+      "maddeBaslik": "Döner sermaye:[18]",
+      "sectionPath": [
+        "SEKİZİNCİ BÖLÜM · Çeşitli Hükümler",
+        "Döner sermaye:[18]"
+      ]
+    },
+    {
+      "id": "kanun:2797:m:56",
+      "maddeKind": "madde",
+      "maddeNo": "56",
+      "heading": "Madde 56",
+      "text": "Yargıtayda adli araverme sırasında dava ve işleri görmek için biri hukuk, biri ceza olmak üzere iki nöbetçi daire kurulur. Hukuk Genel Kuruluna yapılan icranın geri bırakılması istekleri nöbetçi hukuk dairesince incelenerek karara bağlanır.\n Nöbetçi dairelerde görevlendirilecek başkan ve üyelerle nöbetçi kalacak tetkik hakimleri Birinci Başkanlık Kurulunca belli edilir. Ancak tetkik hakimlerinin tespitinde ilgili daire başkanının önceden görüşü alınır.\n Daire başkanları ile üyelerin nöbetlerinin düzenlenmesinde kendilerinden sonrakiler nöbet tutmadıkça tekrar nöbetçi bırakılmamak ve mümkün oldukça kıdemliden daha kıdemsize doğru sıraya koymak kuralı ve mümkün oldukça ilgililerin istekleri ve adli aravermede görülecek dava ve işlerin niteliğine göre daire başkanlarının da düşünceleri göz önünde bulundurulur.\n (Değişik dördüncü fıkra: 8/8/2011-KHK-650/13 md.; İptal fıkra: Anayasa Mahkemesi’nin 18/7/2012 tarihli ve E.: 2011/113 K.: 2012/108 sayılı Kararı ile.; Yeniden düzenleme: 27/6/2013-6494/20 md.) Adli ara vermeden yararlanmayan Yargıtay üyeleri yılın diğer dönemlerinde yol süresi dâhil adli ara verme süresi kadar izin kullanabilirler.\n Adli aravermeden faydalananlar, kısmen veya tamamen yıllık izin kullanamazlar. O yılın yıllık iznini adli aravermeden önce kısmen veya tamamen kullanmış olanların nöbetçi kalması zorunludur.\n Adli aravermede nöbetçi kalacaklara durum, adli aravermeden en az iki ay önce duyurulur.\n\n Yargıtay İç Yönetmeliği:",
+      "preview": "Yargıtayda adli araverme sırasında dava ve işleri görmek için biri hukuk, biri ceza olmak üzere iki nöbetçi daire kurulur. Hukuk Genel Kurul…",
+      "kitap": null,
+      "kisim": null,
+      "bolum": "SEKİZİNCİ BÖLÜM · Çeşitli Hükümler",
+      "ayirim": null,
+      "maddeBaslik": "Adli araverme:",
+      "sectionPath": [
+        "SEKİZİNCİ BÖLÜM · Çeşitli Hükümler",
+        "Adli araverme:"
+      ]
+    },
+    {
+      "id": "kanun:2797:m:57",
+      "maddeKind": "madde",
+      "maddeNo": "57",
+      "heading": "Madde 57",
+      "text": "Yargıtaydaki kurulların, üyelerin, tetkik hakimleri ve Yargıtay Cumhuriyet Başsavcı yardımcıları ile diğer personelin görev ve yetkileri, çalışma usulleri, seçimlerin yöntemi, tutulacak defterler, kullanılacak basılı kağıtlar ile bu Kanunun uygulanmasına ilişkin diğer hususlar Yargıtay Büyük Genel Kurulunun oy çoğunluğuyla kabul edeceği İç Yönetmelikle düzenlenir.",
+      "preview": "Yargıtaydaki kurulların, üyelerin, tetkik hakimleri ve Yargıtay Cumhuriyet Başsavcı yardımcıları ile diğer personelin görev ve yetkileri, ça…",
+      "kitap": null,
+      "kisim": null,
+      "bolum": "SEKİZİNCİ BÖLÜM · Çeşitli Hükümler",
+      "ayirim": null,
+      "maddeBaslik": "Adli araverme:",
+      "sectionPath": [
+        "SEKİZİNCİ BÖLÜM · Çeşitli Hükümler",
+        "Adli araverme:"
+      ]
+    },
+    {
+      "id": "kanun:2797:m:58",
+      "maddeKind": "madde",
+      "maddeNo": "58",
+      "heading": "Madde 58",
+      "text": "Bu Kanun hükümlerine göre alınacak ilke kararları, yapılacak yönetmelikler, içtihadı birleştirme kararları, Birinci Başkanlıkça emsal teşkil edebileceği belirlenen Hukuk ve Ceza Genel Kurul kararları Resmi Gazete‘de yayımlanır.",
+      "preview": "Bu Kanun hükümlerine göre alınacak ilke kararları, yapılacak yönetmelikler, içtihadı birleştirme kararları, Birinci Başkanlıkça emsal teşkil…",
+      "kitap": null,
+      "kisim": null,
+      "bolum": "SEKİZİNCİ BÖLÜM · Çeşitli Hükümler",
+      "ayirim": null,
+      "maddeBaslik": "Resmi Gazete‘de yayınlanma:",
+      "sectionPath": [
+        "SEKİZİNCİ BÖLÜM · Çeşitli Hükümler",
+        "Resmi Gazete‘de yayınlanma:"
+      ]
+    },
+    {
+      "id": "kanun:2797:m:59",
+      "maddeKind": "madde",
+      "maddeNo": "59",
+      "heading": "Madde 59",
+      "text": "(Mülga: 2/12/2014-6572/26 md.)",
+      "preview": "(Mülga: 2/12/2014-6572/26 md.)",
+      "kitap": null,
+      "kisim": null,
+      "bolum": "SEKİZİNCİ BÖLÜM · Çeşitli Hükümler",
+      "ayirim": null,
+      "maddeBaslik": "Adli yılın açılışı:",
+      "sectionPath": [
+        "SEKİZİNCİ BÖLÜM · Çeşitli Hükümler",
+        "Adli yılın açılışı:"
+      ]
+    },
+    {
+      "id": "kanun:2797:m:60",
+      "maddeKind": "madde",
+      "maddeNo": "60",
+      "heading": "Madde 60",
+      "text": "(Değişik: 1/4/2015-6644/2 md.)\n Adliye mahkemelerinden Yargıtay hukuk dairelerine temyiz incelemesi yapılmak üzere gönderilecek dava dosyalarının temyiz dilekçesinde gösterilen daire ismiyle bağlı kalınmaksızın mahkeme hâkimi tarafından Kanunun 14 üncü maddesi uyarınca yapılan işbölümüne göre görevli dairesi de belirtilerek ilgili daireye gönderilmesi sağlanır.\n Temyiz üzerine gelen dosyalarda çıkabilecek görev ve işbölümü uyuşmazlıklarını çözmekle görevli, Hukuk Genel Kurulu Başkanı olarak görevlendirilen Yargıtay Birinci Başkanvekilinin başkanlığında, Yargıtay Birinci Başkanlık Kurulunca aynı daireden birden fazla olmamak kaydıyla Yargıtay üyeleri arasından bir yıllık süre için görevlendirilen dört asıl ve dört yedek üyeden oluşan Hukuk İşbölümü İnceleme Kurulu oluşturulur. Bu Kurul bünyesinde bir büro kurulur; burada çalışmak üzere yeteri kadar tetkik hâkimi ve personel görevlendirilir.\n (Değişik: 1/7/2016 – 6723/21 md.) Birinci fıkra uyarınca dosya kendisine gönderilen ilgili hukuk dairesi, bir ay içinde yapacağı ön inceleme sonucunda iş bölümü bakımından kendisini görevli görmez ise gerekçesiyle birlikte dosyayı görevli olduğu kanısına vardığı ilgili hukuk dairesine gönderir. Bir aylık sürenin bitiminden sonra veya duruşma günü verilen dosya hakkında gönderme kararı verilemez. Gönderme kararı üzerine dosya kendisine gelen hukuk dairesi iki hafta içinde yapacağı ön inceleme sonucunda görevli olmadığı kanaatindeyse, varsa geçici hukuki koruma tedbirlerine dair talepler hakkında da karar vermek suretiyle dosyayı Hukuk İşbölümü İnceleme Kuruluna gönderir. İki haftalık sürenin bitiminden sonra gönderme kararı verilemez. Kurul tarafından yapılan ön inceleme sonunda verilen iş bölümüne ilişkin karar kesindir.\n Kurul, Başkanvekili ve dört asıl üyenin katılımıyla toplanır ve oyçokluğuyla karar verir. Başkanvekilinin bulunmadığı durumlarda asıl üyelerden en kıdemlisi toplantıya başkanlık eder; asıl üyelerin eksikliği yedek üyelerin katılımıyla tamamlanır.\n Kurul, ayda en az iki hafta çalışır. Bu süre zarfında Kurul üyeleri dairelerindeki çalışmalara katılmaz.",
+      "preview": "(Değişik: 1/4/2015-6644/2 md.) Adliye mahkemelerinden Yargıtay hukuk dairelerine temyiz incelemesi yapılmak üzere gönderilecek dava dosyalar…",
+      "kitap": null,
+      "kisim": null,
+      "bolum": "SEKİZİNCİ BÖLÜM · Çeşitli Hükümler",
+      "ayirim": null,
+      "maddeBaslik": "Dava dosyalarının Yargıtaya gönderilmesi ve Hukuk İşbölümü İnceleme Kurulu:[21]",
+      "sectionPath": [
+        "SEKİZİNCİ BÖLÜM · Çeşitli Hükümler",
+        "Dava dosyalarının Yargıtaya gönderilmesi ve Hukuk İşbölümü İnceleme Kurulu:[21]"
+      ]
+    },
+    {
+      "id": "kanun:2797:m:61",
+      "maddeKind": "madde",
+      "maddeNo": "61",
+      "heading": "Madde 61",
+      "text": "Birinci başkanvekilleri ile daire başkanlarının yıllık izin istekleri Birinci Başkanın, Yargıtay Cumhuriyet Başsavcıvekilinin izni isteği Yargıtay Cumhuriyet Başsavcısının, üyelerin izin istekleri daire başkanlarının düşüncesi alındıktan sonra Hakimler ve Savcılar Kanunundaki esaslara göre Birinci Başkanlık Kurulunca karara bağlanır.\n Tetkik hakimlerine yıllık izin verilmesinde, görev yaptıkları kurul ve daire başkanlarının, Yargıtay Cumhuriyet Başsavcı yardımcılarına izin verilmesinde ise Yargıtay Cumhuriyet Başsavcısının düşüncesi alınır.\n İzin hususundaki tasarruflar ilgilinin siciline işlenmek üzere Hakimler ve Savcılar Yüksek Kuruluna bildirilir.",
+      "preview": "Birinci başkanvekilleri ile daire başkanlarının yıllık izin istekleri Birinci Başkanın, Yargıtay Cumhuriyet Başsavcıvekilinin izni isteği Ya…",
+      "kitap": null,
+      "kisim": null,
+      "bolum": "SEKİZİNCİ BÖLÜM · Çeşitli Hükümler",
+      "ayirim": null,
+      "maddeBaslik": "İzinler:",
+      "sectionPath": [
+        "SEKİZİNCİ BÖLÜM · Çeşitli Hükümler",
+        "İzinler:"
+      ]
+    },
+    {
+      "id": "kanun:2797:m:62",
+      "maddeKind": "madde",
+      "maddeNo": "62",
+      "heading": "Madde 62",
+      "text": "Yargıtay Birinci Başkanı, Başkanvekilleri, daire başkanları ve üyeleri ile Yargıtay Cumhuriyet Başsavcı ve Yargıtay Cumhuriyet Başsavcıvekili, mesleki incelemelerde bulunmak için bir yılı geçmemek kaydıyla; kongre, konferans, seminer ve benzeri bilimsel toplantılara katılmak üzere gerektiği süre kadar; aylık ve ödenekleri, gerçek yol giderleri ve gündelikleri verilmek suretiyle Birinci Başkanlık Kurulu kararı ile dış ülkelere gönderilebilirler. Bu amaçla Yargıtay bütçesine her yıl yeteri kadar ödenek konur. Bu suretle dış ülkelere gönderileceklerin nitelikleri ve belirlenme usulleri İç Yönetmelikte düzenlenir.\n Birinci fıkrada sayılanların, istekleri halinde, yolluk almaksızın yurt içinde ve dışında davet edildikleri kongre, konferans, seminer ve benzeri bilimsel toplantılara katılmalarına ve bu suretle bilimsel araştırma ve inceleme yapmalarına Birinci Başkanlık Kurulunca izin verilebilir.\n Birinci fıkrada sayılanlar, ilmi araştırma ve yayınlarda bulunabilirler. Esas görevleri yanında Birinci Başkanlık Kurulu kararıyla Yükseköğretim kurumlarında konferans verebilirler.\n Başkanların, Yargıtay Cumhuriyet Başsavcısının ve Yargıtay Cumhuriyet Başsavcıvekilinin bu sıfatlarının sona ermesi:",
+      "preview": "Yargıtay Birinci Başkanı, Başkanvekilleri, daire başkanları ve üyeleri ile Yargıtay Cumhuriyet Başsavcı ve Yargıtay Cumhuriyet Başsavcıvekil…",
+      "kitap": null,
+      "kisim": null,
+      "bolum": "SEKİZİNCİ BÖLÜM · Çeşitli Hükümler",
+      "ayirim": null,
+      "maddeBaslik": "Mesleki inceleme ve görevledirme:",
+      "sectionPath": [
+        "SEKİZİNCİ BÖLÜM · Çeşitli Hükümler",
+        "Mesleki inceleme ve görevledirme:"
+      ]
+    },
+    {
+      "id": "kanun:2797:m:63",
+      "maddeKind": "madde",
+      "maddeNo": "63",
+      "heading": "Madde 63",
+      "text": "Birinci Başkan, birinci başkanvekilleri, daire başkanları, Yargıtay Cumhuriyet Başsavcısı ile Yargıtay Cumhuriyet Başsavcıvekili görevle ayrılma halleri ile adli ara verme, yıllık ve mazeret izinleri dışında bir yıl içinde aralıksız dört ay veya bir seçim döneminde seçildiği günden itibaren toplam bir yıl görev yapamazlarsa bu görevlerinden çekilmiş sayılırlar. Ancak, Yargıtay üyeliği görevleri devam eder.\n Seçimle gelinen görevlerden ayrılma açıkça bildirilmedikçe Yargıtay üyeliği görevini sona erdirmez.",
+      "preview": "Birinci Başkan, birinci başkanvekilleri, daire başkanları, Yargıtay Cumhuriyet Başsavcısı ile Yargıtay Cumhuriyet Başsavcıvekili görevle ayr…",
+      "kitap": null,
+      "kisim": null,
+      "bolum": "SEKİZİNCİ BÖLÜM · Çeşitli Hükümler",
+      "ayirim": null,
+      "maddeBaslik": "Mesleki inceleme ve görevledirme:",
+      "sectionPath": [
+        "SEKİZİNCİ BÖLÜM · Çeşitli Hükümler",
+        "Mesleki inceleme ve görevledirme:"
+      ]
+    },
+    {
+      "id": "kanun:2797:m:64",
+      "maddeKind": "madde",
+      "maddeNo": "64",
+      "heading": "Madde 64",
+      "text": "Yargıtay Birinci Başkanı, başkanvekilleri, daire başkanları ve üyeleri ile Yargıtay Cumhuriyet Başsavcısı ve Yargıtay Cumhuriyet Başsavcıvekili ile tetkik hakimleri ve Yargıtay Cumhuriyet Başsavcıyardımcılarının bu Kanunda belirtilenlerin dışındaki özlük işleri ve hakları Hakimler ve Savcılar Yüksek Kurulu tarafından yerine getirilir.\n (Ek fıkra: 20/11/2017-KHK-696/42 md.; Aynen kabul: 1/2/2018-7079/37 md.) Yargıtay Birinci Başkanı, başkanvekilleri, daire başkanları ve üyeleri ile Yargıtay Cumhuriyet Başsavcısı ve Yargıtay Cumhuriyet Başsavcıvekili ile bunların emeklileri ve bakmakla yükümlü oldukları aile fertlerinin sağlık giderleri, Türkiye Büyük Millet Meclisi üyelerinin tabi oldukları hükümler ve esaslar çerçevesinde Yargıtay bütçesinden ödenir.",
+      "preview": "Yargıtay Birinci Başkanı, başkanvekilleri, daire başkanları ve üyeleri ile Yargıtay Cumhuriyet Başsavcısı ve Yargıtay Cumhuriyet Başsavcıvek…",
+      "kitap": null,
+      "kisim": null,
+      "bolum": "SEKİZİNCİ BÖLÜM · Çeşitli Hükümler",
+      "ayirim": null,
+      "maddeBaslik": "Özlük işleri:",
+      "sectionPath": [
+        "SEKİZİNCİ BÖLÜM · Çeşitli Hükümler",
+        "Özlük işleri:"
+      ]
+    },
+    {
+      "id": "kanun:2797:m:65",
+      "maddeKind": "madde",
+      "maddeNo": "65",
+      "heading": "Madde 65",
+      "text": "Her yılın Temmuz ayının birinci günü Yargıtay Onur Günüdür. O dönem içinde emekliye ayrılmış olan Yargıtay Birinci Başkanı, başkanvekilleri, daire başkanları ve üyeleri ile Yargıtay Cumhuriyet Başsavcısı ve Yargıtay Cumhuriyet Başsavcıvekili onuruna Birinci Başkanlıkça tensip edilecek yerde düzenlenecek gecede kendilerine törenle onur belgesi ile geçmiş hizmetlerinin onurunu simgeleyen birer armağan verilir.\n Bu amaçla yapılacak tören ile armağanların giderini karşılamak üzere her yıl Yargıtay bütçesine yeterli ödenek konulur.",
+      "preview": "Her yılın Temmuz ayının birinci günü Yargıtay Onur Günüdür. O dönem içinde emekliye ayrılmış olan Yargıtay Birinci Başkanı, başkanvekilleri,…",
+      "kitap": null,
+      "kisim": null,
+      "bolum": "SEKİZİNCİ BÖLÜM · Çeşitli Hükümler",
+      "ayirim": null,
+      "maddeBaslik": "Onur günü:",
+      "sectionPath": [
+        "SEKİZİNCİ BÖLÜM · Çeşitli Hükümler",
+        "Onur günü:"
+      ]
+    },
+    {
+      "id": "kanun:2797:m:66",
+      "maddeKind": "madde",
+      "maddeNo": "66",
+      "heading": "Madde 66",
+      "text": "Yargıtay Birinci Başkanı, başkanvekilleri, daire başkanları ve üyeleri ile Yargıtay Cumhuriyet Başsavcısı ve Yargıtay Cumhuriyet Başsavcıvekilinin duruşmalarda ve törenlerde giyecekleri ve Yargıtayca sağlanacak resmi kıyafetlerin özellikleri ve şekilleri Yargıtay İç yönetmeliği ile düzenlenir.",
+      "preview": "Yargıtay Birinci Başkanı, başkanvekilleri, daire başkanları ve üyeleri ile Yargıtay Cumhuriyet Başsavcısı ve Yargıtay Cumhuriyet Başsavcıvek…",
+      "kitap": null,
+      "kisim": null,
+      "bolum": "SEKİZİNCİ BÖLÜM · Çeşitli Hükümler",
+      "ayirim": null,
+      "maddeBaslik": "Kıyafet:",
+      "sectionPath": [
+        "SEKİZİNCİ BÖLÜM · Çeşitli Hükümler",
+        "Kıyafet:"
+      ]
+    },
+    {
+      "id": "kanun:2797:m:67",
+      "maddeKind": "madde",
+      "maddeNo": "67",
+      "heading": "Madde 67",
+      "text": "Yargıtay Birinci Başkanı, başkanvekilleri, daire başkanları ve üyeleri ile Yargıtay Cumhuriyet Başsavcısı, Yargıtay Cumhuriyet Başsavcıvekili ile Yargıtayda görevli tetkik hakimleri ve Yargıtay Cumhuriyet Başsavcı Başyardımcısı, Yargıtay Cumhuriyet başsavcı yardımcılarından keşif, bilirkişi incelemesi veya delillerin tespiti ve soruşturma için görevlendirilenlere gerçek yol giderleri ile görevde geçen günler için ek gösterge dahil brüt aylık tutarlarının otuzda biri oranında gündelik verilir. Bu gündelikler, zorunlu giderleri karşılamazsa, aradaki fark belgelere dayalı olmak şartı ile ayrıca ödenir. Ancak, bu suretle yapılacak ödemeler, gündeliklerin yüzde ellisini geçemez.\n (Ek: 29/11/1984-KHK-243/39 md.) Cumhuriyet Başsavcı Başyardımcısı ve Yardımcılarından 2820 sayılı Siyasi Partiler Kanunu uyarınca başka bir yerde görevlendirilenlere bu görevleri süresince günde 1500 lira ilave net ödemede bulunulur.",
+      "preview": "Yargıtay Birinci Başkanı, başkanvekilleri, daire başkanları ve üyeleri ile Yargıtay Cumhuriyet Başsavcısı, Yargıtay Cumhuriyet Başsavcıvekil…",
+      "kitap": null,
+      "kisim": null,
+      "bolum": "SEKİZİNCİ BÖLÜM · Çeşitli Hükümler",
+      "ayirim": null,
+      "maddeBaslik": "Yol giderleri, tazminatlar ve gündelikler:",
+      "sectionPath": [
+        "SEKİZİNCİ BÖLÜM · Çeşitli Hükümler",
+        "Yol giderleri, tazminatlar ve gündelikler:"
+      ]
+    },
+    {
+      "id": "kanun:2797:m:ek:1",
+      "maddeKind": "ek",
+      "maddeNo": "1",
+      "heading": "Ek Madde 1",
+      "text": "(12/3/1985-3164 sayılı Kanunun ek maddesi hükmü olup teselsül için numaralandırılmıştır.)\n Bürolarda ve diğer idari görevlerde çalışan 657 sayılı Devlet Memurları Kanununa tabi personel, Yönetim Kurulunun kararı ve Birinci Başkanın teklifi üzerine, Adalet Bakanlığınca iktisap ettikleri kadro ve aylığa uygun, Adalet Bakanlığı teşkilatındaki görevlere atanabilirler.",
+      "preview": "(12/3/1985-3164 sayılı Kanunun ek maddesi hükmü olup teselsül için numaralandırılmıştır.) Bürolarda ve diğer idari görevlerde çalışan 657 sa…",
+      "kitap": null,
+      "kisim": null,
+      "bolum": "SEKİZİNCİ BÖLÜM · Çeşitli Hükümler",
+      "ayirim": null,
+      "maddeBaslik": "Yol giderleri, tazminatlar ve gündelikler:",
+      "sectionPath": [
+        "SEKİZİNCİ BÖLÜM · Çeşitli Hükümler",
+        "Yol giderleri, tazminatlar ve gündelikler:"
+      ]
+    },
+    {
+      "id": "kanun:2797:m:ek:2",
+      "maddeKind": "ek",
+      "maddeNo": "2",
+      "heading": "Ek Madde 2",
+      "text": "(Ek: 20/11/2017-KHK-696/43 md.; Aynen kabul: 1/2/2018-7079/38 md.)[22]\n Ekli (3) sayılı listede yer alan kadrolar ihdas edilerek 13/12/1983 tarihli ve 190 sayılı Genel Kadro ve Usulü Hakkında Kanun Hükmünde Kararnamenin eki (II) sayılı cetvelin Yargıtay Başkanlığına ait bölümüne eklenmiştir.",
+      "preview": "(Ek: 20/11/2017-KHK-696/43 md.; Aynen kabul: 1/2/2018-7079/38 md.)[22] Ekli (3) sayılı listede yer alan kadrolar ihdas edilerek 13/12/1983 t…",
+      "kitap": null,
+      "kisim": null,
+      "bolum": "SEKİZİNCİ BÖLÜM · Çeşitli Hükümler",
+      "ayirim": null,
+      "maddeBaslik": "Yol giderleri, tazminatlar ve gündelikler:",
+      "sectionPath": [
+        "SEKİZİNCİ BÖLÜM · Çeşitli Hükümler",
+        "Yol giderleri, tazminatlar ve gündelikler:"
+      ]
+    },
+    {
+      "id": "kanun:2797:m:ek:3",
+      "maddeKind": "ek",
+      "maddeNo": "3",
+      "heading": "Ek Madde 3",
+      "text": "(Ek:14/11/2024-7532/10 md.)\n Yargıtay Birinci Başkanı, Cumhuriyet Başsavcısı, birinci başkanvekili, Cumhuriyet Başsavcıvekili, daire başkanı, üye ve iç denetçi kadroları bu Kanuna ekli (I) sayılı Kadro Cetvelinde düzenlenmiştir. Geçici 15 inci madde hükümleri saklıdır.",
+      "preview": "(Ek:14/11/2024-7532/10 md.) Yargıtay Birinci Başkanı, Cumhuriyet Başsavcısı, birinci başkanvekili, Cumhuriyet Başsavcıvekili, daire başkanı,…",
+      "kitap": null,
+      "kisim": null,
+      "bolum": "SEKİZİNCİ BÖLÜM · Çeşitli Hükümler",
+      "ayirim": null,
+      "maddeBaslik": "Yol giderleri, tazminatlar ve gündelikler:",
+      "sectionPath": [
+        "SEKİZİNCİ BÖLÜM · Çeşitli Hükümler",
+        "Yol giderleri, tazminatlar ve gündelikler:"
+      ]
+    },
+    {
+      "id": "kanun:2797:m:gecici:1",
+      "maddeKind": "gecici",
+      "maddeNo": "1",
+      "heading": "Geçici Madde 1",
+      "text": "Bu Kanunun yürürlüğe girdiği tarihte Yargıtay Birinci Başkanı, birinci başkanvekilleri, daire başkanları, Yargıtay Cumhuriyet Başsavcısı, Yargıtay Cumhuriyet Başsavcıvekili bulunanların bu görevleri seçildikleri tarihten itibaren dört yıllık süreleri doluncaya kadar devam eder.",
+      "preview": "Bu Kanunun yürürlüğe girdiği tarihte Yargıtay Birinci Başkanı, birinci başkanvekilleri, daire başkanları, Yargıtay Cumhuriyet Başsavcısı, Ya…",
+      "kitap": null,
+      "kisim": null,
+      "bolum": "DOKUZUNCU BÖLÜM · Geçici Hükümler",
+      "ayirim": null,
+      "maddeBaslik": null,
+      "sectionPath": [
+        "DOKUZUNCU BÖLÜM · Geçici Hükümler"
+      ]
+    },
+    {
+      "id": "kanun:2797:m:gecici:2",
+      "maddeKind": "gecici",
+      "maddeNo": "2",
+      "heading": "Geçici Madde 2",
+      "text": "Bu Kanunun yürürlüğe girdiği tarihte Yargıtay üyelerinin bulundukları dairelerdeki görevleri devam eder.",
+      "preview": "Bu Kanunun yürürlüğe girdiği tarihte Yargıtay üyelerinin bulundukları dairelerdeki görevleri devam eder.",
+      "kitap": null,
+      "kisim": null,
+      "bolum": "DOKUZUNCU BÖLÜM · Geçici Hükümler",
+      "ayirim": null,
+      "maddeBaslik": null,
+      "sectionPath": [
+        "DOKUZUNCU BÖLÜM · Geçici Hükümler"
+      ]
+    },
+    {
+      "id": "kanun:2797:m:gecici:3",
+      "maddeKind": "gecici",
+      "maddeNo": "3",
+      "heading": "Geçici Madde 3",
+      "text": "Birinci Başkanlık Kurulunun asıl ve yedek üyelerinin Yargıtay Büyük Genel Kurulunca ve Yönetim Kurulunun Yargıtay Cumhuriyet Başsavcısı ve Genel Sekreter dışında kalan asıl ve yedek üyelerinin Başkanlar Kurulunca seçimleri, bu Kanunun yürürlüğe girdiği tarihten itibaren bir ay içinde yapılır. Ancak, bu seçimler yapılıncaya kadar Birinci Başkanlık Divanı ile Yönetim Kurulunun görevleri devam eder.",
+      "preview": "Birinci Başkanlık Kurulunun asıl ve yedek üyelerinin Yargıtay Büyük Genel Kurulunca ve Yönetim Kurulunun Yargıtay Cumhuriyet Başsavcısı ve G…",
+      "kitap": null,
+      "kisim": null,
+      "bolum": "DOKUZUNCU BÖLÜM · Geçici Hükümler",
+      "ayirim": null,
+      "maddeBaslik": null,
+      "sectionPath": [
+        "DOKUZUNCU BÖLÜM · Geçici Hükümler"
+      ]
+    },
+    {
+      "id": "kanun:2797:m:gecici:4",
+      "maddeKind": "gecici",
+      "maddeNo": "4",
+      "heading": "Geçici Madde 4",
+      "text": "Birinci Başkanlık Kurulunca, Yayın Kurulu üyeleri ile Tasnif Kurulu Başkanının seçimleri, bu Kanunun yürürlüğe girdiği tarihten itibaren iki ay içinde yapılır. Ancak, bu seçimler yapılıncaya kadar yayın, özetleme ve tasnif işleri ile görevlendirilmiş bulunanların bu görevleri devam eder.",
+      "preview": "Birinci Başkanlık Kurulunca, Yayın Kurulu üyeleri ile Tasnif Kurulu Başkanının seçimleri, bu Kanunun yürürlüğe girdiği tarihten itibaren iki…",
+      "kitap": null,
+      "kisim": null,
+      "bolum": "DOKUZUNCU BÖLÜM · Geçici Hükümler",
+      "ayirim": null,
+      "maddeBaslik": null,
+      "sectionPath": [
+        "DOKUZUNCU BÖLÜM · Geçici Hükümler"
+      ]
+    },
+    {
+      "id": "kanun:2797:m:gecici:5",
+      "maddeKind": "gecici",
+      "maddeNo": "5",
+      "heading": "Geçici Madde 5",
+      "text": "Bu Kanunun yürürlüğe girdiği tarihte görevleri ve iş bölümü değiştirilen dairelere gelmiş olan işler, eski dairelerince incelenip karara bağlanır. Bu işlere ait tavzih ve karar düzeltme istekleri de bu dairelerce incelenip sonuçlandırılır.",
+      "preview": "Bu Kanunun yürürlüğe girdiği tarihte görevleri ve iş bölümü değiştirilen dairelere gelmiş olan işler, eski dairelerince incelenip karara bağ…",
+      "kitap": null,
+      "kisim": null,
+      "bolum": "DOKUZUNCU BÖLÜM · Geçici Hükümler",
+      "ayirim": null,
+      "maddeBaslik": null,
+      "sectionPath": [
+        "DOKUZUNCU BÖLÜM · Geçici Hükümler"
+      ]
+    },
+    {
+      "id": "kanun:2797:m:gecici:6",
+      "maddeKind": "gecici",
+      "maddeNo": "6",
+      "heading": "Geçici Madde 6",
+      "text": "Bu Kanunun yürürlüğe girdiği tarihte Yargıtayda tetkik hakimi ve Yargıtay Cumhuriyet Başsavcıyardımcısı olarak görev yapmakta bulunanlar için 36 ve 37 nci maddelerde öngörülen beş yıl fiilen meslekte çalışmış olma şartı aranmaz.",
+      "preview": "Bu Kanunun yürürlüğe girdiği tarihte Yargıtayda tetkik hakimi ve Yargıtay Cumhuriyet Başsavcıyardımcısı olarak görev yapmakta bulunanlar içi…",
+      "kitap": null,
+      "kisim": null,
+      "bolum": "DOKUZUNCU BÖLÜM · Geçici Hükümler",
+      "ayirim": null,
+      "maddeBaslik": null,
+      "sectionPath": [
+        "DOKUZUNCU BÖLÜM · Geçici Hükümler"
+      ]
+    },
+    {
+      "id": "kanun:2797:m:gecici:7",
+      "maddeKind": "gecici",
+      "maddeNo": "7",
+      "heading": "Geçici Madde 7",
+      "text": "Bu Kanunda yapılması öngörülen yönetmelikler, Kanunun yayımı tarihinden itibaren en geç üç ay içinde hazırlanarak yürürlüğe konur. Yeni yönetmelikler çıkarılıncaya kadar mevcut yönetmeliklerin bu Kanuna aykırı olmayan hükümlerinin uygulanmasına devam olunur.",
+      "preview": "Bu Kanunda yapılması öngörülen yönetmelikler, Kanunun yayımı tarihinden itibaren en geç üç ay içinde hazırlanarak yürürlüğe konur. Yeni yöne…",
+      "kitap": null,
+      "kisim": null,
+      "bolum": "DOKUZUNCU BÖLÜM · Geçici Hükümler",
+      "ayirim": null,
+      "maddeBaslik": null,
+      "sectionPath": [
+        "DOKUZUNCU BÖLÜM · Geçici Hükümler"
+      ]
+    },
+    {
+      "id": "kanun:2797:m:gecici:8",
+      "maddeKind": "gecici",
+      "maddeNo": "8",
+      "heading": "Geçici Madde 8",
+      "text": "Bu Kanunun yürürlüğe girdiği tarihte Yargıtayda görevli bulunan kalem şeflerinin unvanı “Yazı işleri müdür yardımcısı“ olarak değiştirilmiştir.\n Bu değişiklik sebebiyle ilgililerin yeniden atanmaları gerekmez.\n Kalem şefi unvanı, bu Kanun ile yazı işleri müdür yardımcısı olarak değiştirilenlerin yeni unvanları yan ödeme kararnamesinde yer alıncaya kadar, eski unvanları üzerinden yan ödeme almaya devam ederler.",
+      "preview": "Bu Kanunun yürürlüğe girdiği tarihte Yargıtayda görevli bulunan kalem şeflerinin unvanı “Yazı işleri müdür yardımcısı“ olarak değiştirilmişt…",
+      "kitap": null,
+      "kisim": null,
+      "bolum": "DOKUZUNCU BÖLÜM · Geçici Hükümler",
+      "ayirim": null,
+      "maddeBaslik": null,
+      "sectionPath": [
+        "DOKUZUNCU BÖLÜM · Geçici Hükümler"
+      ]
+    },
+    {
+      "id": "kanun:2797:m:gecici:9",
+      "maddeKind": "gecici",
+      "maddeNo": "9",
+      "heading": "Geçici Madde 9",
+      "text": "Yargıtayın mevcut kadrolarına:\n 1. Bu Kanunla, kurulan Eğitim ve Sosyal İşler Müdürlüğü için genel idare hizmetleri sınıfından;\n a) Eğitim ve Sosyal İşler Müdürü için bir adet birinci derece kadro,\n b) Eğitim ve Sosyal İşler Müdür Yardımcısı için bir adet ikinci derece kadro,\n c) Eğitim ve Sosyal İşler Müdürlüğü şefliği için bir adet üçüncü derece kadro,\n d) Eğitim ve Sosyal İşler Müdürlüğü memurluğu için birer adet dördüncü, beşinci, altıncı, yedinci derece kadrolar,\n 2. Eğitim ve Sosyal İşler Müdürlüğü için yardımcı hizmetler sınıfından iki adet onüçüncü derece kadrolar,\n 3. Sağlık hizmetleri ve yardımcı sağlık hizmetleri sınıfından iki adet birinci derece kadro,\n 4. Yargıtay yazı işleri müdürlükleri için genel idare hizmetleri sınıfından onüç adet birinci derece, onüç adet de ikinci derece kadro,\n Eklenmiştir.",
+      "preview": "Yargıtayın mevcut kadrolarına: 1. Bu Kanunla, kurulan Eğitim ve Sosyal İşler Müdürlüğü için genel idare hizmetleri sınıfından; a) Eğitim ve…",
+      "kitap": null,
+      "kisim": null,
+      "bolum": "DOKUZUNCU BÖLÜM · Geçici Hükümler",
+      "ayirim": null,
+      "maddeBaslik": null,
+      "sectionPath": [
+        "DOKUZUNCU BÖLÜM · Geçici Hükümler"
+      ]
+    },
+    {
+      "id": "kanun:2797:m:gecici:10",
+      "maddeKind": "gecici",
+      "maddeNo": "10",
+      "heading": "Geçici Madde 10",
+      "text": "(Ek: 17/11/1983 – 2958/1 md.) Yargıtayın mevcut kadrolarına; Genel Kadro Kanunu yürürlüğe girinceye kadar Cumhuriyet Başsavcılığında kurulacak olan Bilgi Sayar İşlem Merkezi için,\n a) Teknik Hizmetler Sınıfından;\n 1. Bilgi Sayar Programcısı için 1 adet 1 inci derece kadro,\n 2. Bilgi İşlem Sistem Çözümleyicisi için 1 adet 2 nci derece kadro,\n 3. Bilgi İşlem Sistem Çözümleyici Yardımcısı için 1 adet 3 üncü derece kadro,\n 4. Bilgi Sayar Analisti için 1 adet 3 üncü derece kadro,\n 5. Bilgi Sayar Sistem Çözümleyici için 1 adet 3 üncü derece kadro,\n 6. Bilgi Sayar Sistem Çözümleme Yardımcısı için 1 adet 4 üncü derece kadro,\n b) Genel İdare Hizmetleri sınıfından 4 adet 3 üncü derece kadro.\n Eklenmiştir.\n Teknik Hizmetler Sınıfına giren kadrolara sözleşmeli personel de atanabilir.",
+      "preview": "(Ek: 17/11/1983 – 2958/1 md.) Yargıtayın mevcut kadrolarına; Genel Kadro Kanunu yürürlüğe girinceye kadar Cumhuriyet Başsavcılığında kurulac…",
+      "kitap": null,
+      "kisim": null,
+      "bolum": "DOKUZUNCU BÖLÜM · Geçici Hükümler",
+      "ayirim": null,
+      "maddeBaslik": null,
+      "sectionPath": [
+        "DOKUZUNCU BÖLÜM · Geçici Hükümler"
+      ]
+    },
+    {
+      "id": "kanun:2797:m:gecici:11",
+      "maddeKind": "gecici",
+      "maddeNo": "11",
+      "heading": "Geçici Madde 11",
+      "text": "(Ek: 8/8/2011-KHK-650/14 md.)\n Bu Kanun Hükmünde Kararnamenin yürürlüğe girdiği tarihten itibaren Yargıtay tetkik hâkimliğine on yıl içinde yapılacak atamalarda, 36 ncı maddenin birinci fıkrasında yer alan beş yıllık hizmet süresi şartı aranmaz.",
+      "preview": "(Ek: 8/8/2011-KHK-650/14 md.) Bu Kanun Hükmünde Kararnamenin yürürlüğe girdiği tarihten itibaren Yargıtay tetkik hâkimliğine on yıl içinde y…",
+      "kitap": null,
+      "kisim": null,
+      "bolum": "DOKUZUNCU BÖLÜM · Geçici Hükümler",
+      "ayirim": null,
+      "maddeBaslik": null,
+      "sectionPath": [
+        "DOKUZUNCU BÖLÜM · Geçici Hükümler"
+      ]
+    },
+    {
+      "id": "kanun:2797:m:gecici:12",
+      "maddeKind": "gecici",
+      "maddeNo": "12",
+      "heading": "Geçici Madde 12",
+      "text": "(Ek: 8/8/2011-KHK-650/14 md.)\n Yargıtay Başkanlığının boş memur kadrolarından 582 adedine 2011 Yılı Merkezi Yönetim Bütçe Kanunundaki sınırlamalara tabi olmadan atama yapılabilir.",
+      "preview": "(Ek: 8/8/2011-KHK-650/14 md.) Yargıtay Başkanlığının boş memur kadrolarından 582 adedine 2011 Yılı Merkezi Yönetim Bütçe Kanunundaki sınırla…",
+      "kitap": null,
+      "kisim": null,
+      "bolum": "DOKUZUNCU BÖLÜM · Geçici Hükümler",
+      "ayirim": null,
+      "maddeBaslik": null,
+      "sectionPath": [
+        "DOKUZUNCU BÖLÜM · Geçici Hükümler"
+      ]
+    },
+    {
+      "id": "kanun:2797:m:gecici:13",
+      "maddeKind": "gecici",
+      "maddeNo": "13",
+      "heading": "Geçici Madde 13",
+      "text": "(Ek: 18/6/2014-6545/37 md.)\n Bu Kanunun yürürlüğe girdiği tarihten itibaren;\n a) Üç gün içinde bu Kanunda yapılan değişikliğe uygun olarak Genel Sekreter ve genel sekreter yardımcıları yeniden belirlenir.\n b) Yedi gün içinde bu Kanunda yapılan değişikliğe uygun olarak Birinci Başkanlık Kurulu yeniden belirlenir.\n Belirlenen Birinci Başkanlık Kurulu on gün içinde, iş durumunu dikkate alarak, ceza ve hukuk dairelerinin sayısı ile bu daireler arasındaki iş bölümüne ilişkin karar tasarısını hazırlar ve Yargıtay Büyük Genel Kurulunun onayına sunar.\n Yargıtay Büyük Genel Kurulu, tasarıyı beş gün içinde karara bağlar. Yargıtay Büyük Genel Kurulunun iş bölümünün onaylanmasına ilişkin kararı derhâl Resmî Gazete’de yayımlanır ve yayım tarihinden itibaren on gün sonra uygulanmaya başlanır.\n Birinci Başkanlık Kurulu, iş bölümüne ilişkin kararın Resmî Gazete’de yayımlanmasından itibaren on gün içinde, dairelerin iş durumunu ve ihtiyaçlarını göz önünde bulundurarak Yargıtayın daire başkanları, üyeleri ve tetkik hâkimlerinin hangi dairelerde görev yapacağını yeniden belirler.\n Yargıtay Büyük Genel Kurulunun iş bölümünün onaylanmasına ilişkin kararı uygulanmaya başlayıncaya kadar bu Kanunla yapılan değişiklikten önceki iş bölümüne ilişkin hükümler uygulanmaya devam olunur.\n Daha önce başka dairelerde görülmekte olup da dairesi değiştirilen dava dosyaları mevcut hâlleriyle ilgili daireye gönderilir.",
+      "preview": "(Ek: 18/6/2014-6545/37 md.) Bu Kanunun yürürlüğe girdiği tarihten itibaren; a) Üç gün içinde bu Kanunda yapılan değişikliğe uygun olarak Gen…",
+      "kitap": null,
+      "kisim": null,
+      "bolum": "DOKUZUNCU BÖLÜM · Geçici Hükümler",
+      "ayirim": null,
+      "maddeBaslik": null,
+      "sectionPath": [
+        "DOKUZUNCU BÖLÜM · Geçici Hükümler"
+      ]
+    },
+    {
+      "id": "kanun:2797:m:gecici:14",
+      "maddeKind": "gecici",
+      "maddeNo": "14",
+      "heading": "Geçici Madde 14",
+      "text": "(Ek: 2/12/2014-6572/27 md.)\n Bu Kanunun yürürlüğe girdiği tarihten itibaren on beş gün içinde bu Kanuna göre oluşturulan Yargıtay üyeliği kadroları için seçim yapılır.\n Seçimin tamamlanmasından itibaren beş gün içinde bu Kanunla ihdas edilen daire başkanlığı kadroları için seçim yapılır.\n İkinci fıkra uyarınca yapılan seçimin tamamlanmasından itibaren beş gün içinde Birinci Başkanlık Kurulu yeniden belirlenir.\n Yeni oluşan Birinci Başkanlık Kurulu, iş durumunu dikkate alarak daireler arasındaki iş bölümünü yeniden belirler ve buna ilişkin karar derhâl Resmî Gazete’de yayımlanır. Bu karar, yayım tarihinden itibaren on gün sonra uygulanmaya başlanır.\n Birinci Başkanlık Kurulu, iş bölümüne ilişkin kararın Resmî Gazete’de yayımlanmasından itibaren on gün içinde, dairelerin iş durumunu ve ihtiyaçlarını göz önünde bulundurarak Yargıtay daire başkanları, üyeleri ve tetkik hâkimlerinin hangi dairelerde görev yapacağını yeniden belirler.\n Yargıtay Birinci Başkanlık Kurulunun iş bölümü kararı uygulanmaya başlayıncaya kadar bu Kanunla yapılan değişiklikten önceki iş bölümüne ilişkin hükümler uygulanmaya devam olunur.\n Yeni iş bölümüyle dairesi değiştirilen dava dosyaları, beşinci fıkra uyarınca görevlendirme yapılmasından itibaren on gün içinde mevcut hâlleriyle ilgili daireye gönderilir.",
+      "preview": "(Ek: 2/12/2014-6572/27 md.) Bu Kanunun yürürlüğe girdiği tarihten itibaren on beş gün içinde bu Kanuna göre oluşturulan Yargıtay üyeliği kad…",
+      "kitap": null,
+      "kisim": null,
+      "bolum": "DOKUZUNCU BÖLÜM · Geçici Hükümler",
+      "ayirim": null,
+      "maddeBaslik": null,
+      "sectionPath": [
+        "DOKUZUNCU BÖLÜM · Geçici Hükümler"
+      ]
+    },
+    {
+      "id": "kanun:2797:m:gecici:15",
+      "maddeKind": "gecici",
+      "maddeNo": "15",
+      "heading": "Geçici Madde 15",
+      "text": "(Ek: 1/7/2016 – 6723/22 md.)\n Bu Kanunun yürürlüğe girdiği tarihte Yargıtay üyelerinin üyelikleri sona erer. Ancak yeni seçim yapılıncaya kadar görevlerine devam eden eski başkanlar hariç olmak üzere, bu tarih itibarıyla Yargıtay Birinci Başkanı, Cumhuriyet Başsavcısı, birinci başkanvekili, Cumhuriyet Başsavcıvekili ve daire başkanı olarak görev yapanların Yargıtay üyelikleri devam eder.\n Birinci fıkra uyarınca üyelikleri sona eren Yargıtay üyeleri arasından, Hâkimler ve Savcılar Yüksek Kurulunca bu Kanunun yürürlüğe girdiği tarihten itibaren beş gün içinde, üçüncü fıkradaki kadro sayısı dikkate alınmak suretiyle Yargıtay üyesi seçimi yapılır.\n Bu Kanunun yürürlüğe girdiği tarih itibarıyla Yargıtay meslek mensuplarının (Yargıtay Birinci Başkanı, Cumhuriyet Başsavcısı, birinci başkanvekilleri, Cumhuriyet Başsavcıvekili, daire başkanları ve üyeler) kadro sayısı üç yüz ondur. Birinci fıkranın ikinci cümlesi uyarınca üyelikleri devam edenler, kadro sayısında dikkate alınır.\n Bu Kanunun yürürlüğe girdiği tarih itibarıyla üçüncü fıkrada belirtilen kadro sayısını aşan üye kadroları herhangi bir işleme gerek kalmaksızın iptal edilmiş sayılır.\n Yargıtay üyeliğine seçilmeyenler, Hâkimler ve Savcılar Yüksek Kurulu ilgili dairesi tarafından, bu Kanunun yürürlüğe girdiği tarihten itibaren on gün içinde sınıf ve derecelerine uygun bir göreve atanır.\n Üyelikleri sona erenlerin, seçim veya atamaları yapılıncaya kadar, özlük hakları Yargıtay tarafından karşılanmaya devam olunur.\n (İptal birinci cümle: Anayasa Mahkemesi’nin 10/12/2020 tarihli ve E.:2016/144 K.:2020/75 sayılı Kararı ile.) Yeniden seçilenler, Hâkimler ve Savcılar Yüksek Kurulu üyeliğinin sona ermesinden itibaren on iki yıl görev yaparlar. (İptal üçüncü cümle: Anayasa Mahkemesi’nin 10/12/2020 tarihli ve E.:2016/144 K.:2020/75 sayılı Kararı ile.) (İptal dördüncü cümle: Anayasa Mahkemesi’nin 10/12/2020 tarihli ve E.:2016/144 K.:2020/75 sayılı Kararı ile.)\n Birinci fıkranın ikinci cümlesi uyarınca üyelikleri devam eden üyeler ile ikinci fıkra uyarınca seçilen üyeler, bu Kanunun yürürlüğe girdiği tarihten itibaren on iki yıl görev yaparlar. Bu üyelerin atama veya seçim nedeniyle yürüttükleri görevleri, bu görevlerinin süresi bitene kadar devam eder.\n Seçilmeyen üyelerin atama veya seçim nedeniyle yürüttükleri görevler de bu Kanunun yürürlüğe girdiği tarih itibarıyla sona erer. Bu görevler için ikinci fıkra uyarınca seçim yapıldığı tarihten itibaren on gün içinde atama veya seçim yapılır.\n Birinci fıkranın ikinci cümlesi uyarınca üyelikleri devam eden üyeler ile ikinci fıkra uyarınca seçilen üyelerin daha önce Yargıtay üyesi olarak çalıştıkları süreler üyelik kıdeminde dikkate alınır.\n Birinci Başkanlık Kurulu, ikinci fıkra uyarınca yapılan seçimden itibaren on gün içinde, dairelerin iş durumunu ve ihtiyaçlarını dikkate alarak Yargıtay üyelerinin hangi dairelerde görev yapacağını yeniden belirler.\n Birinci Başkanlık Kurulu, iş durumunu ve ihtiyaçları dikkate alarak bu Kanunun yürürlüğe girdiği tarihten itibaren en geç altı yıl içinde daire sayısını 5 inci maddede öngörülen daire sayısına indirir. Ancak bu daireler, Birinci Başkanlık Kurulunca kapatılıncaya kadar görevlerine devam ederler.[23]\n Birinci Başkanlık Kurulu, on ikinci fıkra uyarınca yapılan her daire kapatma işleminden sonra iş durumunu ve ihtiyaçları dikkate alarak daireler arasındaki iş bölümünü yeniden belirler. Buna ilişkin karar derhâl Resmî Gazete’de yayımlanır ve yayımı tarihinden itibaren on gün sonra uygulanmaya başlanır.\n Birinci Başkanlık Kurulu, iş bölümüne ilişkin kararın Resmî Gazete’de yayımlanmasından itibaren on gün içinde, dairelerin iş durumunu ve ihtiyaçlarını dikkate alarak kapatılan dairelerde görev yapan daire başkanı, üye ve tetkik hâkimlerinin hangi dairelerde görev yapacağını belirler. Dairelerde görev verilmeyen daire başkanları, başkanlık süresinin bitimine kadar Yargıtay Birinci Başkanlığı nezdinde görev yapar. Başkanlık görev süresi Yargıtay Birinci Başkanlığı nezdinde sona erenlerin veya başka bir daireye başkan olarak görevlendirilenlerin daire başkanlığı kadroları başka bir işleme gerek kalmaksızın üye kadrosuna dönüşür.\n İş bölümüne ilişkin kararın Resmî Gazete’de yayımlanmasından itibaren on gün içinde, dava dosyaları ayrıca bir karar verilmesine yer olmaksızın listeye bağlanmak suretiyle mevcut hâlleriyle ilgili daireye devredilir.\n Yargıtay meslek mensupları (Yargıtay Birinci Başkanı, Cumhuriyet Başsavcısı, Birinci başkanvekilleri, Cumhuriyet Başsavcıvekili, daire başkanları ve üyeler) kadro sayısı iki yüze düşünceye kadar, boşalan her iki üyelik için bir üye seçimi yapılır. Seçim yapılmayan üye kadroları başka bir işleme gerek kalmaksızın iptal edilmiş sayılır.",
+      "preview": "(Ek: 1/7/2016 – 6723/22 md.) Bu Kanunun yürürlüğe girdiği tarihte Yargıtay üyelerinin üyelikleri sona erer. Ancak yeni seçim yapılıncaya kad…",
+      "kitap": null,
+      "kisim": null,
+      "bolum": "DOKUZUNCU BÖLÜM · Geçici Hükümler",
+      "ayirim": null,
+      "maddeBaslik": null,
+      "sectionPath": [
+        "DOKUZUNCU BÖLÜM · Geçici Hükümler"
+      ]
+    },
+    {
+      "id": "kanun:2797:m:gecici:16",
+      "maddeKind": "gecici",
+      "maddeNo": "16",
+      "heading": "Geçici Madde 16",
+      "text": "(Ek: 20/11/2017-KHK-696/45 md.; Aynen kabul: 1/2/2018-7079/40 md.)\n Hukuk Genel Kurulu ve Ceza Genel Kurulunun içtihadı birleştirme toplantılarına ilişkin hükümler saklı kalmak kaydıyla, 31/12/2022 tarihine kadar bu kurulların oluşumu ve çalışma usulü hakkında aşağıdaki hükümler uygulanır.\n a) Hukuk Genel Kurulu ve Ceza Genel Kurulu, her hukuk ve ceza dairesinden en az bir üye olmak kaydıyla Birinci Başkanlık Kurulu tarafından görevlendirilen yirmişer üyeden oluşur. Bu kurullara, Birinci Başkan veya ilgili başkanvekili, bunların bulunmaması halinde kurulların en kıdemli üyesi başkanlık eder.\n b) Üyeler Hukuk Genel Kurulu ve Ceza Genel Kurulunda sürekli olarak görev yaparlar. Ancak, iş durumu gözönüne alınmak suretiyle üyelerin daire çalışmalarına katılmalarına Büyük Genel Kurul tarafından karar verilebilir.\n c) Kurullarda toplantı ve görüşme yeter sayısı onbeştir. Toplantıda bulunanların üçte ikisinin oyu ile karar verilir. Birinci toplantıda üçte iki oy çoğunluğu sağlanamazsa ikinci toplantıda bulunanların çoğunluğuyla karar verilir.\n Bu maddede hüküm bulunmayan hallerde, Hukuk Genel Kurulu ve Ceza Genel Kurulunun çalışmasına ilişkin bu Kanunun mevcut hükümleri uygulanmaya devam olunur.",
+      "preview": "(Ek: 20/11/2017-KHK-696/45 md.; Aynen kabul: 1/2/2018-7079/40 md.) Hukuk Genel Kurulu ve Ceza Genel Kurulunun içtihadı birleştirme toplantıl…",
+      "kitap": null,
+      "kisim": null,
+      "bolum": "DOKUZUNCU BÖLÜM · Geçici Hükümler",
+      "ayirim": null,
+      "maddeBaslik": null,
+      "sectionPath": [
+        "DOKUZUNCU BÖLÜM · Geçici Hükümler"
+      ]
+    },
+    {
+      "id": "kanun:2797:m:gecici:17",
+      "maddeKind": "gecici",
+      "maddeNo": "17",
+      "heading": "Geçici Madde 17",
+      "text": "(Ek: 20/11/2017-KHK-696/45 md.; Aynen kabul: 1/2/2018-7079/40 md.)\n Bu maddenin yürürlüğe girdiği tarihte yeni ihdas edilen yüz Yargıtay üyeliği kadrosunun tamamı için bu maddenin yürürlük tarihinden itibaren en geç altı ay içinde seçim yapılır.\n Birinci fıkra uyarınca yapılan seçimin tamamlanmasından itibaren beş gün içinde Birinci Başkanlık Kurulu yeniden belirlenir.\n Yeni oluşan Birinci Başkanlık Kurulu, on gün içinde dairelerin iş durumunu ve ihtiyaçlarını gözönünde bulundurarak yeni seçilen üyelerin hangi dairelerde görev yapacağını belirler ve Hukuk Genel Kurulu ve Ceza Genel Kurulu üyelerini görevlendirir. Bu görevlendirme yapılıncaya kadar mevcut Hukuk Genel Kurulu ve Ceza Genel Kurulu çalışmaya devam eder.\n Yargıtay Büyük Genel Kurulunun üye tamsayısının hesabında, birinci fıkra uyarınca üye seçimi yapılıncaya kadar yeni ihdas edilen kadrolar dikkate alınmaz.",
+      "preview": "(Ek: 20/11/2017-KHK-696/45 md.; Aynen kabul: 1/2/2018-7079/40 md.) Bu maddenin yürürlüğe girdiği tarihte yeni ihdas edilen yüz Yargıtay üyel…",
+      "kitap": null,
+      "kisim": null,
+      "bolum": "DOKUZUNCU BÖLÜM · Geçici Hükümler",
+      "ayirim": null,
+      "maddeBaslik": null,
+      "sectionPath": [
+        "DOKUZUNCU BÖLÜM · Geçici Hükümler"
+      ]
+    },
+    {
+      "id": "kanun:2797:m:gecici:18",
+      "maddeKind": "gecici",
+      "maddeNo": "18",
+      "heading": "Geçici Madde 18",
+      "text": "(Ek: 2/7/2018-KHK-703/186 md.)\n Kapatılan Askeri Yargıtay Başkan, Başsavcı, İkinci Başkan, Daire Başkanı ve üyelerinden emekliye ayrılmış olanlar ile bunların bakmakla yükümlü oldukları aile fertlerinin 64 üncü maddenin ikinci fıkrası kapsamındaki sağlık giderleri anılan fıkra hükümleri çerçevesinde Yargıtay bütçesinden karşılanır.",
+      "preview": "(Ek: 2/7/2018-KHK-703/186 md.) Kapatılan Askeri Yargıtay Başkan, Başsavcı, İkinci Başkan, Daire Başkanı ve üyelerinden emekliye ayrılmış ola…",
+      "kitap": null,
+      "kisim": null,
+      "bolum": "DOKUZUNCU BÖLÜM · Geçici Hükümler",
+      "ayirim": null,
+      "maddeBaslik": null,
+      "sectionPath": [
+        "DOKUZUNCU BÖLÜM · Geçici Hükümler"
+      ]
+    },
+    {
+      "id": "kanun:2797:m:68",
+      "maddeKind": "madde",
+      "maddeNo": "68",
+      "heading": "Madde 68",
+      "text": "1730 sayılı Yargıtay Kanunu ile değişiklikleri yürürlükten kaldırılmıştır.",
+      "preview": "1730 sayılı Yargıtay Kanunu ile değişiklikleri yürürlükten kaldırılmıştır.",
+      "kitap": null,
+      "kisim": null,
+      "bolum": "ONUNCU BÖLÜM · Son Hükümler",
+      "ayirim": null,
+      "maddeBaslik": "Kaldırılan hükümler:",
+      "sectionPath": [
+        "ONUNCU BÖLÜM · Son Hükümler",
+        "Kaldırılan hükümler:"
+      ]
+    },
+    {
+      "id": "kanun:2797:m:69",
+      "maddeKind": "madde",
+      "maddeNo": "69",
+      "heading": "Madde 69",
+      "text": "Bu Kanun yayımı tarihinde yürürlüğe girer.",
+      "preview": "Bu Kanun yayımı tarihinde yürürlüğe girer.",
+      "kitap": null,
+      "kisim": null,
+      "bolum": "ONUNCU BÖLÜM · Son Hükümler",
+      "ayirim": null,
+      "maddeBaslik": "Yürürlük:",
+      "sectionPath": [
+        "ONUNCU BÖLÜM · Son Hükümler",
+        "Yürürlük:"
+      ]
+    },
+    {
+      "id": "kanun:2797:m:70",
+      "maddeKind": "madde",
+      "maddeNo": "70",
+      "heading": "Madde 70",
+      "text": "Bu Kanun hükümlerini Bakanlar Kurulu yürütür.\n\n (I) SAYILI KADRO CETVELİ\n (Ek cetvel:14/11/2024-7532/10 md.)\n KURUMU : YARGITAY\n TEŞKİLATI : MERKEZ\n\n UNVANI\n DERECESİ\n ADEDİ\n\n Birinci Başkan\n 1\n 1\n\n Cumhuriyet Başsavcısı\n 1\n 1\n\n Birinci Başkanvekili\n 1\n 2\n\n Cumhuriyet Başsavcıvekili\n 1\n 1\n\n Daire Başkanı\n 1\n 24\n\n Üye\n 1\n 311\n\n İç Denetçi\n 1-5\n 3\n\n TOPLAM\n 343\n\n 4/2/1983 TARİH VE 2797 SAYILI KANUNA İŞLENEMEYEN HÜKÜMLER\n 1 – 20/5/1987 tarih ve 3368 sayılı Kanunun Geçici Maddesi :\n Geçici Madde – Bu Kanun yürürlüğe girdiği tarihte Yedinci Hukuk Dairesinde bulunan işlerin yarısı, Onaltıncı Hukuk Dairesinin kurulup göreve başladığı tarihte, Başkanlar Kurulunun tespit edeceği esaslar dahilinde bu daireye devredilir.",
+      "preview": "Bu Kanun hükümlerini Bakanlar Kurulu yürütür. (I) SAYILI KADRO CETVELİ (Ek cetvel:14/11/2024-7532/10 md.) KURUMU : YARGITAY TEŞKİLATI : MERK…",
+      "kitap": null,
+      "kisim": null,
+      "bolum": "ONUNCU BÖLÜM · Son Hükümler",
+      "ayirim": null,
+      "maddeBaslik": "Yürütme:",
+      "sectionPath": [
+        "ONUNCU BÖLÜM · Son Hükümler",
+        "Yürütme:"
+      ]
+    },
+    {
+      "id": "kanun:2797:m:gecici:1",
+      "maddeKind": "gecici",
+      "maddeNo": "1",
+      "heading": "Geçici Madde 1",
+      "text": "Diğer dairelerden bu Kanunla yeni kurulan dairelere verilen işlerin devri, Başkanlar Kurulunun tespit edeceği esaslara göre dairelerin kurulup göreve başladığı tarihte ilgili Daire Başkanlıklarınca sağlanır.\n Bu Kanunla ihdas edilen üye kadrolarına, Hakimler ve Savcılar Yüksek Kurulu Başkanının teklifi üzerine, ilgili Kanun hükümleri uygulanmak suretiyle üye seçimi yapılır.",
+      "preview": "Diğer dairelerden bu Kanunla yeni kurulan dairelere verilen işlerin devri, Başkanlar Kurulunun tespit edeceği esaslara göre dairelerin kurul…",
+      "kitap": null,
+      "kisim": null,
+      "bolum": "ONUNCU BÖLÜM · Son Hükümler",
+      "ayirim": null,
+      "maddeBaslik": "2 – 30/5/1991 tarih ve 3749 sayılı Kanunun Geçici Maddeleri:",
+      "sectionPath": [
+        "ONUNCU BÖLÜM · Son Hükümler",
+        "2 – 30/5/1991 tarih ve 3749 sayılı Kanunun Geçici Maddeleri:"
+      ]
+    },
+    {
+      "id": "kanun:2797:m:gecici:2",
+      "maddeKind": "gecici",
+      "maddeNo": "2",
+      "heading": "Geçici Madde 2",
+      "text": "3402 sayılı Kadastro Kanunundan önce yürürlükte bulunan 2613 sayılı Kadastro ve Tapu Tahriri Kanununun 27 nci maddesinde yazılı ve 5572 sayılı Kanuna dayanılarak görevlendirilen asliye mahkemelerince verilen hüküm ve kararlar ile 766 sayılı Tapulama Kanununa göre çözümlenen dava ve işlerin temyiz tetkikatlarına Yedinci, Onaltıncı ve Onyedinci Hukuk Dairelerince devam olunur.",
+      "preview": "3402 sayılı Kadastro Kanunundan önce yürürlükte bulunan 2613 sayılı Kadastro ve Tapu Tahriri Kanununun 27 nci maddesinde yazılı ve 5572 sayı…",
+      "kitap": null,
+      "kisim": null,
+      "bolum": "ONUNCU BÖLÜM · Son Hükümler",
+      "ayirim": null,
+      "maddeBaslik": "2 – 30/5/1991 tarih ve 3749 sayılı Kanunun Geçici Maddeleri:",
+      "sectionPath": [
+        "ONUNCU BÖLÜM · Son Hükümler",
+        "2 – 30/5/1991 tarih ve 3749 sayılı Kanunun Geçici Maddeleri:"
+      ]
+    },
+    {
+      "id": "kanun:2797:m:gecici:1",
+      "maddeKind": "gecici",
+      "maddeNo": "1",
+      "heading": "Geçici Madde 1",
+      "text": "Diğer dairelerden bu Kanunla yeni kurulan dairelere işlerin devri, Başkanlar Kurulunun tespit edeceği esaslara göre dairelerin kurulup göreve başladığı tarihte ilgili daire başkanlıklarınca sağlanır.",
+      "preview": "Diğer dairelerden bu Kanunla yeni kurulan dairelere işlerin devri, Başkanlar Kurulunun tespit edeceği esaslara göre dairelerin kurulup görev…",
+      "kitap": null,
+      "kisim": null,
+      "bolum": "ONUNCU BÖLÜM · Son Hükümler",
+      "ayirim": null,
+      "maddeBaslik": "3 – 7/12/1994 tarih ve 4053 sayılı Kanunun Geçici Maddesi:",
+      "sectionPath": [
+        "ONUNCU BÖLÜM · Son Hükümler",
+        "3 – 7/12/1994 tarih ve 4053 sayılı Kanunun Geçici Maddesi:"
+      ]
+    },
+    {
+      "id": "kanun:2797:m:gecici:1",
+      "maddeKind": "gecici",
+      "maddeNo": "1",
+      "heading": "Geçici Madde 1",
+      "text": "Bu Kanunla yapılan değişiklikler halen devam etmekte olan seçimlere de uygulanır.",
+      "preview": "Bu Kanunla yapılan değişiklikler halen devam etmekte olan seçimlere de uygulanır.",
+      "kitap": null,
+      "kisim": null,
+      "bolum": "ONUNCU BÖLÜM · Son Hükümler",
+      "ayirim": null,
+      "maddeBaslik": "4 – 15/7/2003 tarih ve 4929 sayılı Kanunun Geçici Maddesi:",
+      "sectionPath": [
+        "ONUNCU BÖLÜM · Son Hükümler",
+        "4 – 15/7/2003 tarih ve 4929 sayılı Kanunun Geçici Maddesi:"
+      ]
+    },
+    {
+      "id": "kanun:2797:m:gecici:1",
+      "maddeKind": "gecici",
+      "maddeNo": "1",
+      "heading": "Geçici Madde 1",
+      "text": "(1) Danıştay Başkanlık Kurulu ile Yargıtay Başkanlar Kurulu, bu Kanunla ihdas edilen üye kadrolarına seçim yapılmasından ve dairelerde çalışacak üyelerin belirlenmesinden itibaren bir ay içinde toplanarak daireler arasındaki işbölümüne ilişkin karar tasarısını hazırlar, Danıştayda Genel Kurulun ve Yargıtayda Büyük Genel Kurulun onayına sunar. Danıştayda Genel Kurulun, Yargıtayda Büyük Genel Kurulun işbölümünün onaylanmasına ilişkin kararları Resmî Gazetede yayımlanıp yürürlüğe girinceye kadar bu Kanunla yapılan değişiklikten önceki işbölümüne ilişkin hükümler uygulanmaya devam olunur.\n (2) Daha önce başka dairelerde görülmekte olup da dairesi değiştirilen dava dosyaları mevcut hâlleriyle ilgili daireye gönderilir.\n (3) Bu Kanunla Yargıtayda ihdas edilen üye kadrolarına seçim yapılmasından itibaren onbeş gün içinde Birinci Başkanlık Kurulu yeniden belirlenir. Üyelerin hangi dairelerde görev yapacağını, dairelerin iş durumunu ve ihtiyaçlarını göz önünde tutarak, oluşturulan yeni Başkanlık Kurulu belirler.",
+      "preview": "(1) Danıştay Başkanlık Kurulu ile Yargıtay Başkanlar Kurulu, bu Kanunla ihdas edilen üye kadrolarına seçim yapılmasından ve dairelerde çalış…",
+      "kitap": null,
+      "kisim": null,
+      "bolum": "ONUNCU BÖLÜM · Son Hükümler",
+      "ayirim": null,
+      "maddeBaslik": "5 – 9/2/2011 tarihli ve 6110 sayılı Kanunun Geçici Maddesi: [24]",
+      "sectionPath": [
+        "ONUNCU BÖLÜM · Son Hükümler",
+        "5 – 9/2/2011 tarihli ve 6110 sayılı Kanunun Geçici Maddesi: [24]"
+      ]
+    },
+    {
+      "id": "kanun:2797:m:17",
+      "maddeKind": "madde",
+      "maddeNo": "17",
+      "heading": "Madde 17",
+      "text": "Bu Kanuna ekli (1) sayılı listede yer alan kadrolar ihdas edilerek 13/12/1983 tarihli ve 190 sayılı Genel Kadro ve Usulü Hakkında Kanun Hükmünde Kararnamenin eki (I) sayılı cetvelin Danıştay Başkanlığına ait bölümüne, ekli (2) sayılı listede yer alan kadrolar ihdas edilerek 190 sayılı Kanun Hükmünde Kararnamenin eki (I) sayılı cetvelin Yargıtay Başkanlığına ait bölümüne eklenmiştir.",
+      "preview": "Bu Kanuna ekli (1) sayılı listede yer alan kadrolar ihdas edilerek 13/12/1983 tarihli ve 190 sayılı Genel Kadro ve Usulü Hakkında Kanun Hükm…",
+      "kitap": null,
+      "kisim": null,
+      "bolum": "ONUNCU BÖLÜM · Son Hükümler",
+      "ayirim": null,
+      "maddeBaslik": "6- 31/3/2011 tarihli ve 6217 sayılı Kanunun 17 nci maddesi:[25]",
+      "sectionPath": [
+        "ONUNCU BÖLÜM · Son Hükümler",
+        "6- 31/3/2011 tarihli ve 6217 sayılı Kanunun 17 nci maddesi:[25]"
+      ]
+    },
+    {
+      "id": "kanun:2797:m:49",
+      "maddeKind": "madde",
+      "maddeNo": "49",
+      "heading": "Madde 49",
+      "text": "Bu Kanuna ekli (1) sayılı listede yer alan kadrolar ihdas edilerek 13/12/1983 tarihli ve 190 sayılı Genel Kadro ve Usulü Hakkında Kanun Hükmünde Kararnamenin eki (II) sayılı cetvelin Adalet Bakanlığına ait bölümüne; ekli (2) sayılı listede yer alan kadrolar ihdas edilerek 190 sayılı Kanun Hükmünde Kararnamenin eki (I) sayılı cetvelin, (3) sayılı listede yer alan kadrolar ihdas edilerek (II) sayılı cetvelin Yargıtay Başkanlığına ait bölümüne; ekli (4) sayılı listede yer alan kadrolar ihdas edilerek 190 sayılı Kanun Hükmünde Kararnamenin eki (I) sayılı cetvelin, (5) sayılı listede yer alan kadrolar ihdas edilerek (II) sayılı cetvelin Danıştay Başkanlığına ait bölümüne; ekli (6) sayılı listede yer alan kadrolar ihdas edilerek l90 sayılı Kanun Hükmünde Kararnamenin eki (I) sayılı cetvelin Adalet Bakanlığına ait bölümüne eklenmiştir.\n\n 2797 SAYILI KANUNA EK VE DEĞİŞİKLİK GETİREN MEVZUATIN VEYA\n ANAYASA MAHKEMESİ TARAFINDAN VERİLEN İPTAL KARARLARININ\n YÜRÜRLÜĞE GİRİŞ TARİHLERİNİ GÖSTERİR LİSTE\n\n Değiştiren Kanunun/ KHK’nin veya İptal Eden Anayasa Mahkemesi Kararının Numarası\n 2797 Kanunun Değişen veya İptal Edilen Maddeleri\n Yürürlüğe Giriş Tarihi\n\n 2958\n Geçici Madde 10\n 19/11/1983\n\n KHK/243\n 67\n 31/12/1984\n\n 3164\n Ek Madde\n 22/3/1985\n\n 3368\n 5, 14\n 26/5/1987\n\n 3749\n 55\n 5/6/1991\n\n 4053\n 5\n 11/12/1994\n\n 4574\n 55\n 13/6/2000\n\n 4929\n 31\n 22/7/2003\n\n 5218\n 14\n 21/7/2004\n\n 5219\n 28\n 21/7/2004\n\n 5235\n 56\n 1/1/2005\n\n 15\n 1/4/2005\n\n 6110\n 5,14,17, 31,33,40, 53/A ve İşlenemeyen Hüküm\n 14/2/2011\n\n 6217\n İşlenemeyen Hüküm\n 14/4/2011\n\n KHK/650\n 30, Geçici Madde 11,\n Geçici Madde 12\n 26/8/2011\n\n 56\n 1/1/2012\n\n KHK/666\n 55\n 31/12/2011 tarihinden geçerli olmak üzere 2/11/2011\n\n Anayasa Mahkemesi’nin 18/7/2012 tarihli ve\n E.: 2011/113 K.: 2012/108 sayılı Kararı\n 56\n 1/1/2013 tarihinden başlayarak altı ay sonra (1/7/2013)\n\n 6494\n 29, 56\n 7/7/2013\n\n Anayasa Mahkemesi’nin 27/12/2012 tarihli ve\n E.: 2011/139, K.: 2012/205 sayılı Kararı\n 55\n 10/10/2013\n\n 6545\n 5, 10, 14, 23, 30, 30/A, 32, 33,\n Geçici Madde 13\n 28/6/2014\n\n 6572\n 5, 14, 27, 29, 36, 59, Geçici Madde 14, İşlenmeyen hüküm\n 12/12/2014\n\n 6644\n 17, 60\n 11/4/2015\n\n 6723\n 5, 7, 29, 30, 30/A, 55, 60,\n Geçici Madde 15\n 23/7/2016\n\n KHK/680\n 7, 14, 15, 46\n 6/1/2017\n\n KHK/690\n 46\n 29/4/2017\n\n KHK/696\n 15, 29, 64, Ek Madde 2,\n Geçici Madde 15, Geçici Madde 16, Geçici Madde 17\n 24/12/2017\n\n 7072\n 7, 14, 15, 46\n 8/3/2018\n\n 7079\n 15, 29, 64, Ek Madde 2, Geçici Madde 15, Geçici Madde 16, Geçici Madde 17\n 8/3/2018\n\n KHK/703\n 50, 55, Geçici Madde 18\n 24/6/2018 tarihinde birlikte yapılan Türkiye Büyük Millet Meclisi ve Cumhurbaşkanlığı seçimleri sonucunda Cumhurbaşkanının andiçerek göreve başladığı tarihte\n (9/7/2018)\n\n Anayasa Mahkemesi’nin 10/12/2020 tarihli ve E.:2016/144 K.:2020/75 sayılı Kararı ile.\n Geçici Madde 15\n 1/10/2021\n\n 7413\n 10, 33\n 28/6/2022\n\n 7532\n Ek Madde 3, (I) Sayılı Cetvel\n 27/11/2024\n\n [1] 1/7/2016 tarihli ve 6723 sayılı Kanunun 15 inci maddesiyle, bu maddede yer alan “yirmi üç” ibareleri “on iki” şeklinde değiştirilmiştir.\n\n [2] 1/7/2016 tarihli ve 6723 sayılı Kanunun 16 ncı maddesiyle, bu maddenin ikinci fıkrada yer alan “beş” ibaresi “üç”, “beşten” ibaresi “üçten”, “daire sayısının en az iki katı” ibaresi “her daireden en az bir” şeklinde değiştirilmiş ve üçüncü fıkrasında yer alan “ve başkanlarının katıldığı dairelerden bir, katılmadığı dairelerden iki üyenin” ibaresi madde metninden çıkarılmıştır.\n\n [3] 18/6/2014 tarihli ve 6545 sayılı Kanunun 30 uncu maddesiyle, bu fıkrada yer alan yer alan “dördü” ibareleri “altısı”, “sekiz” ibaresi “on iki”, “ikisi” ibareleri “dördü” ve “dört” ibaresi “sekiz” şeklinde değiştirilmiştir.\n\n [4] 23/6/2022 tarihli ve 7413 sayılı Kanunun 17 nci maddesiyle bu maddede yer alan “altısı” ibareleri “dördü” şeklinde, “on iki” ibaresi “sekiz” şeklinde, “dördü” ibareleri “ikisi” şeklinde ve “sekiz” ibaresi “dört” şeklinde değiştirilmiştir.\n\n [5] 2/12/2014 tarihli ve 6572 sayılı Kanunun 22 nci maddesiyle, bu fıkrada yer alan “hukuk veya ceza dairesi olarak belirlenmesi ile” ibaresi madde metninden çıkarılmıştır.\n\n [6] 18/6/2014 tarihli ve 6545 sayılı Kanunun 31 inci maddesiyle, bu fıkrada yer alan “arasındaki” ibaresi “hukuk veya ceza dairesi olarak belirlenmesi ile aralarındaki” şeklinde ve “üçte” ibaresi “onda” şeklinde değiştirilmiş; mevcut birinci fıkrasının üçüncü ve dördüncü cümlelerinde yer alan “işbölümü” ibareleri madde metninden çıkarılmıştır.\n\n [7] 26/9/2004 tarihli ve 5235 sayılı Kanunun 51 inci maddesiyle 1/4/2005 tarihinden geçerli olmak üzere (2) numaralı bende (a) alt bendi eklenmiş ve diğer alt bentler buna göre teselsül ettirilmiştir.\n\n [8] 18/6/2014 tarihli ve 6545 sayılı Kanunun 32 nci maddesiyle, bu fıkrada yer alan “lüzumunda” ibaresinden sonra gelmek üzere “Yargıtayda görev yapan birinci sınıfa ayrılmış” ibaresi eklenmiştir.\n\n [9] 8/8/2011 tarihli ve 650 sayılı KHK’nin 12 nci maddesiyle, bu maddenin birinci fıkrasında yer alan “sekiz yıl” ibaresi “dört yıl”, “altı yıl” ibaresi “üç yıl” şeklinde değiştirilmiş ve metne işlenmiştir.\n\n [10] 1/7/2016 tarihli ve 6723 sayılı Kanunun 18 inci maddesiyle, bu maddede yer alan “on” ibaresi “altı” şeklinde değiştirilmiştir.\n\n [11] 1/7/2016 tarihli ve 6723 sayılı Kanunun 19 uncu maddesiyle, bu fıkrada yer alan “en az beş yıl Yargıtay üyeliği yapmış olanlar” ibaresi “Yargıtay üyeleri” şeklinde değiştirilmiştir.\n\n [12] Bu fıkrada yer alan “en az üçte ikisinin” ibaresi, 9/2/2011 tarihli ve 6110 sayılı Kanunun 14 üncü maddesi ile “salt çoğunluğunun” şeklinde değiştirilmiş ve metne işlenmiştir\n\n [13] 18/6/2014 tarihli ve 6545 sayılı Kanunun 36 ncı maddesiyle, bu fıkrada yer alan “iki” ibareleri “üç”, “bir” ibareleri “iki” şeklinde değiştirilmiştir.\n\n [14] 23/6/2022 tarihli ve 7413 sayılı Kanunun 18 inci maddesiyle bu fıkrada yer alan “üç” ibareleri “iki” şeklinde, “iki” ibareleri “bir” şeklinde değiştirilmiştir.\n\n [15] 2/1/2017 tarihli ve 680 sayılı KHK’nin 5 inci maddesiyle, bu fıkrada yer alan “Yargıtay Ceza Genel Kuruluna” ibaresi “Yargıtay ilgili ceza dairesine” şeklinde değiştirilmiş, daha sonra bu hüküm 1/2/2018 tarihli ve 7072 sayılı Kanunun 4 üncü maddesiyle aynen kabul edilerek kanunlaşmıştır.\n\n [16] 2/7/2018 tarihli ve 703 sayılı Kanun Hükmünde Kararnamenin 186 ncı maddesiyle bu bentte yer alan “, tüzük, yönetmelik” ibaresi madde metninden çıkarılmıştır.\n\n [17] Bu hükmün uygulanmasında ek 1 inci maddeye bakınız.\n\n [18] 11/10/2011 tarihli ve 666 sayılı KHK ile bu maddede yapılan düzenlemeler; 10/10/2013 tarihli ve 28791 sayılı Resmi Gazete’de yayımlanan Anayasa Mahkemesi’nin 27/12/2012 tarihli ve E.: 2011/139, K.: 2012/205 sayılı Kararı ile iptal edilmiştir.\n\n [19] 1/7/2016 tarihli 6723 sayılı Kanunun 20 nci maddesiyle, bu maddenin birinci fıkrasında yer alan “ellimilyar liraya” ibareleri “on milyon Türk lirasına” şeklinde değiştirilmiştir.\n\n [20] 2/7/2018 tarihli ve 703 sayılı Kanun Hükmünde Kararnamenin 186 ncı maddesiyle bu fıkrada yer alan “Maliye Bakanlığının görüşü alınarak Bakanlar Kurulu” ibaresi “Cumhurbaşkanı” şeklinde değiştirilmiştir.\n\n [21] Bu madde başlığı “Hukuk dava dosyalarının Yargıtaya gönderilmesi:” iken, 1/4/2015 tarihli ve 6644 sayılı Kanunun 2 nci maddesiyle metne işlendiği şekilde değiştirilmiştir.\n\n [22] Bu maddede yer alan kadrolar için 24/12/2017 tarihli ve 30280 sayılı Resmi Gazete’ye ve 8/3/2018 tarihli ve 30354 (Mükerrer) sayılı Resmi Gazete’ye bakınız.\n\n [23] 20/11/2017 tarihli ve 696 sayılı KHK’nin 44 üncü maddesiyle, bu fıkrada yer alan “üç” ibaresi “altı” şeklinde değiştirilmiş, daha sonra bu hüküm 1/2/2018 tarihli ve 7079 sayılı Kanunun 39 uncu maddesiyle aynen kabul edilerek kanunlaşmıştır.\n\n [24] Bu maddede yer alan kadrolar için 14/2/2011 tarihli ve 27846 sayılı Resmi Gazete’ye bakınız.\n\n [25] Bu maddede yer alan kadrolarla ilgili olarak 14/4/2011 tarihli ve 27905 sayılı Resmi Gazete’ye bakınız.\n\n [26] Bu maddede yer alan kadrolarla ilgili olarak 12/12/2014 tarihli ve 29203 Mükerrer sayılı Resmi Gazete’ye bakınız.",
+      "preview": "Bu Kanuna ekli (1) sayılı listede yer alan kadrolar ihdas edilerek 13/12/1983 tarihli ve 190 sayılı Genel Kadro ve Usulü Hakkında Kanun Hükm…",
+      "kitap": null,
+      "kisim": null,
+      "bolum": "ONUNCU BÖLÜM · Son Hükümler",
+      "ayirim": null,
+      "maddeBaslik": "7- 2/12/2014 tarihli ve 6572 sayılı Kanunun 49 uncu maddesi:[26]",
+      "sectionPath": [
+        "ONUNCU BÖLÜM · Son Hükümler",
+        "7- 2/12/2014 tarihli ve 6572 sayılı Kanunun 49 uncu maddesi:[26]"
+      ]
+    }
+  ]
+}

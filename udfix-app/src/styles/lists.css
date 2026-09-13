@@ -1,0 +1,528 @@
+/* ========================================
+   LIST STYLING ENGINE (Ordered & Unordered)
+   ======================================== */
+
+/* ── Base list container constraints (prevents overflow) ── */
+.ProseMirror ol,
+.ProseMirror ul:not([data-type="taskList"]) {
+    --start: 0;
+    --t-ml: 40px;
+    --t-ti: 0px;
+    --list-marker-width: 34px;
+    list-style-type: none;
+    padding-left: 0;
+    margin: 0;
+    /* Prevent list from exceeding container width */
+    max-width: 100%;
+    box-sizing: border-box;
+}
+
+/* ── Nested list geometry: flat nesting, margins only from li ── */
+.ProseMirror ol ol,
+.ProseMirror ul:not([data-type="taskList"]) ul:not([data-type="taskList"]) {
+    margin-left: 0 !important;
+    padding-left: 0 !important;
+    /* Ensure nested lists don't overflow parent */
+    max-width: 100%;
+    box-sizing: border-box;
+}
+
+/* ── List item base: positioning and overflow protection ── */
+.ProseMirror ol li,
+.ProseMirror ul:not([data-type="taskList"]) > li {
+    position: relative;
+    text-indent: 0;
+    margin-left: var(--t-ml, 40px);
+    /* Prevent li from overflowing container */
+    max-width: calc(100% - var(--t-ml, 40px));
+    box-sizing: border-box;
+}
+
+/* ── List content blocks: text wrapping and overflow protection ── */
+.ProseMirror ol li>p,
+.ProseMirror ol li>div,
+.ProseMirror ol li>h1,
+.ProseMirror ol li>h2,
+.ProseMirror ol li>h3,
+.ProseMirror ol li>h4,
+.ProseMirror ol li>h5,
+.ProseMirror ol li>h6,
+.ProseMirror ul:not([data-type="taskList"]) > li > p,
+.ProseMirror ul:not([data-type="taskList"]) > li > div,
+.ProseMirror ul:not([data-type="taskList"]) > li > h1,
+.ProseMirror ul:not([data-type="taskList"]) > li > h2,
+.ProseMirror ul:not([data-type="taskList"]) > li > h3,
+.ProseMirror ul:not([data-type="taskList"]) > li > h4,
+.ProseMirror ul:not([data-type="taskList"]) > li > h5,
+.ProseMirror ul:not([data-type="taskList"]) > li > h6 {
+    margin-left: 0 !important;
+    margin-top: 0;
+    margin-bottom: 0;
+    text-indent: var(--t-ti, 0px) !important;
+    overflow-wrap: break-word;
+    word-wrap: break-word;
+    word-break: break-word;
+    white-space: pre-wrap;
+    /* Ensure content doesn't overflow li boundary */
+    max-width: 100%;
+    box-sizing: border-box;
+}
+
+/* ── List markers: positioning and sizing ── */
+.ProseMirror ol li::before,
+.ProseMirror ul:not([data-type="taskList"]) > li::before {
+    position: absolute;
+    right: 100%;
+    width: var(--list-marker-width, 34px);
+    min-width: var(--list-marker-width, 34px);
+    text-indent: 0 !important;
+    margin-left: 0;
+    margin-right: 8px;
+    transform: none;
+    padding-right: 0;
+    white-space: nowrap;
+    text-align: right;
+    line-height: inherit;
+
+    /* Tied dynamically to the ListMarkerFormat extension */
+    font-family: var(--marker-font-family, inherit);
+    font-weight: var(--marker-weight, 500);
+    font-style: var(--marker-style, normal);
+    text-decoration: var(--marker-text-decoration, none);
+    color: var(--editor-text);
+}
+
+/* ── Nested lists within li: width constraint ── */
+.ProseMirror ol li > ol,
+.ProseMirror ol li > ul:not([data-type="taskList"]),
+.ProseMirror ul:not([data-type="taskList"]) > li > ol,
+.ProseMirror ul:not([data-type="taskList"]) > li > ul:not([data-type="taskList"]) {
+    width: 100%;
+    max-width: 100%;
+    margin-top: 0.1em;
+    box-sizing: border-box;
+}
+
+.ProseMirror ol li .mention,
+.ProseMirror ul:not([data-type="taskList"]) > li .mention {
+    display: inline;
+    vertical-align: baseline;
+    line-height: inherit;
+}
+
+/* Numaralı liste: sayaç ile satır içi metin aynı hizada (ilk satır baseline’a yakın) */
+.ProseMirror ol li::before {
+    top: 0.14em;
+    line-height: 1.35;
+}
+
+/* ── Unordered list bullet markers ── */
+.ProseMirror ul:not([data-type="taskList"]) {
+    list-style-type: disc;
+}
+
+.ProseMirror ul:not([data-type="taskList"]) ul:not([data-type="taskList"]) {
+    list-style-type: circle;
+}
+
+.ProseMirror ul:not([data-type="taskList"]) ul:not([data-type="taskList"]) ul:not([data-type="taskList"]) {
+    list-style-type: square;
+}
+
+/* Ensure ul li has proper marker display */
+.ProseMirror ul:not([data-type="taskList"]) > li {
+    list-style-type: inherit;
+    display: list-item;
+}
+
+/* Override ::before for ul bullets (browser handles the marker) */
+.ProseMirror ul:not([data-type="taskList"]) > li::before {
+    content: none !important;
+    display: none !important;
+}
+
+/*
+ * Pagination içerik sütununda: işaretçiyi hafif içe çek — tam -100% sol marj çizgisinin dışına taşmasın.
+ * (Liste marginLeft / ruler ile uyum)
+ */
+.rm-with-pagination .ProseMirror ol li::before,
+.rm-with-pagination .ProseMirror ul:not([data-type="taskList"]) > li::before {
+    width: var(--list-marker-width, 34px);
+    min-width: var(--list-marker-width, 34px);
+    padding-right: 8px;
+}
+
+/* Sayfa içi sütun: liste gövdesi sağ sayfa marjı dışına taşmasın */
+.rm-with-pagination .ProseMirror :is(ol, ul:not([data-type="taskList"])) {
+    max-width: 100%;
+    box-sizing: border-box;
+    /* Prevent horizontal overflow at container level */
+    overflow-x: visible;
+}
+
+.rm-with-pagination .ProseMirror :is(ol, ul:not([data-type="taskList"])) > li {
+    box-sizing: border-box;
+    max-width: 100%;
+    /* Ensure nested lists don't grow beyond parent */
+    overflow-wrap: break-word;
+    word-break: break-word;
+}
+
+/* Sayfa kırığı: mümkünse tek öğeyi ikiye bölmeden sonraki sayfaya taşı (footer bandına süzülmeyi azaltır) */
+.rm-with-pagination .ProseMirror ol > li,
+.rm-with-pagination .ProseMirror ul:not([data-type="taskList"]) > li {
+    break-inside: avoid-page;
+    page-break-inside: avoid;
+}
+
+/* Deep nesting protection: max 5 levels, after that prevent further margin growth */
+.rm-with-pagination .ProseMirror ol ol ol ol ol ol,
+.rm-with-pagination .ProseMirror ul:not([data-type="taskList"]) ul:not([data-type="taskList"]) ul:not([data-type="taskList"]) ul:not([data-type="taskList"]) ul:not([data-type="taskList"]) ul:not([data-type="taskList"]) {
+    --t-ml: 20px !important;
+}
+
+/* ── 1. DEFAULT STYLE (5 Levels) ── */
+.ProseMirror ol[data-list-type="default"] {
+    counter-reset: d1 var(--start);
+}
+
+.ProseMirror ol[data-list-type="default"]>li {
+    counter-increment: d1;
+}
+
+.ProseMirror ol[data-list-type="default"]>li::before {
+    content: counter(d1, decimal) ".";
+}
+
+.ProseMirror ol[data-list-type="default"] ol {
+    counter-reset: d2 var(--start);
+}
+
+.ProseMirror ol[data-list-type="default"] ol>li {
+    counter-increment: d2;
+}
+
+.ProseMirror ol[data-list-type="default"] ol>li::before {
+    content: counter(d2, lower-alpha) ".";
+}
+
+.ProseMirror ol[data-list-type="default"] ol ol {
+    counter-reset: d3 var(--start);
+}
+
+.ProseMirror ol[data-list-type="default"] ol ol>li {
+    counter-increment: d3;
+}
+
+.ProseMirror ol[data-list-type="default"] ol ol>li::before {
+    content: counter(d3, lower-roman) ".";
+}
+
+.ProseMirror ol[data-list-type="default"] ol ol ol {
+    counter-reset: d4 var(--start);
+}
+
+.ProseMirror ol[data-list-type="default"] ol ol ol>li {
+    counter-increment: d4;
+}
+
+.ProseMirror ol[data-list-type="default"] ol ol ol>li::before {
+    content: "(" counter(d4, decimal) ")";
+}
+
+.ProseMirror ol[data-list-type="default"] ol ol ol ol {
+    counter-reset: d5 var(--start);
+}
+
+.ProseMirror ol[data-list-type="default"] ol ol ol ol>li {
+    counter-increment: d5;
+}
+
+.ProseMirror ol[data-list-type="default"] ol ol ol ol>li::before {
+    content: "(" counter(d5, lower-alpha) ")";
+}
+
+/* ── 2. ROMAN STYLE (5 Levels) ── */
+.ProseMirror ol[data-list-type="roman"] {
+    counter-reset: r1 var(--start);
+}
+
+.ProseMirror ol[data-list-type="roman"]>li {
+    counter-increment: r1;
+}
+
+.ProseMirror ol[data-list-type="roman"]>li::before {
+    content: counter(r1, upper-roman) ".";
+    font-weight: var(--marker-weight, 700);
+}
+
+.ProseMirror ol[data-list-type="roman"] ol {
+    counter-reset: r2 var(--start);
+}
+
+.ProseMirror ol[data-list-type="roman"] ol>li {
+    counter-increment: r2;
+}
+
+.ProseMirror ol[data-list-type="roman"] ol>li::before {
+    content: counter(r2, upper-alpha) ".";
+    font-weight: var(--marker-weight, 700);
+}
+
+.ProseMirror ol[data-list-type="roman"] ol ol {
+    counter-reset: r3 var(--start);
+}
+
+.ProseMirror ol[data-list-type="roman"] ol ol>li {
+    counter-increment: r3;
+}
+
+.ProseMirror ol[data-list-type="roman"] ol ol>li::before {
+    content: counter(r3, decimal) ".";
+}
+
+.ProseMirror ol[data-list-type="roman"] ol ol ol {
+    counter-reset: r4 var(--start);
+}
+
+.ProseMirror ol[data-list-type="roman"] ol ol ol>li {
+    counter-increment: r4;
+}
+
+.ProseMirror ol[data-list-type="roman"] ol ol ol>li::before {
+    content: counter(r4, lower-alpha) ".";
+}
+
+.ProseMirror ol[data-list-type="roman"] ol ol ol ol {
+    counter-reset: r5 var(--start);
+}
+
+.ProseMirror ol[data-list-type="roman"] ol ol ol ol>li {
+    counter-increment: r5;
+}
+
+.ProseMirror ol[data-list-type="roman"] ol ol ol ol>li::before {
+    content: counter(r5, lower-roman) ".";
+}
+
+/* ── 3. PAREN STYLE (5 Levels) ── */
+.ProseMirror ol[data-list-type="paren"] {
+    counter-reset: p1 var(--start);
+}
+
+.ProseMirror ol[data-list-type="paren"]>li {
+    counter-increment: p1;
+}
+
+.ProseMirror ol[data-list-type="paren"]>li::before {
+    content: counter(p1, decimal) ")";
+}
+
+.ProseMirror ol[data-list-type="paren"] ol {
+    counter-reset: p2 var(--start);
+}
+
+.ProseMirror ol[data-list-type="paren"] ol>li {
+    counter-increment: p2;
+}
+
+.ProseMirror ol[data-list-type="paren"] ol>li::before {
+    content: counter(p2, lower-alpha) ")";
+}
+
+.ProseMirror ol[data-list-type="paren"] ol ol {
+    counter-reset: p3 var(--start);
+}
+
+.ProseMirror ol[data-list-type="paren"] ol ol>li {
+    counter-increment: p3;
+}
+
+.ProseMirror ol[data-list-type="paren"] ol ol>li::before {
+    content: counter(p3, lower-roman) ")";
+}
+
+.ProseMirror ol[data-list-type="paren"] ol ol ol {
+    counter-reset: p4 var(--start);
+}
+
+.ProseMirror ol[data-list-type="paren"] ol ol ol>li {
+    counter-increment: p4;
+}
+
+.ProseMirror ol[data-list-type="paren"] ol ol ol>li::before {
+    content: "[" counter(p4, decimal) "]";
+}
+
+.ProseMirror ol[data-list-type="paren"] ol ol ol ol {
+    counter-reset: p5 var(--start);
+}
+
+.ProseMirror ol[data-list-type="paren"] ol ol ol ol>li {
+    counter-increment: p5;
+}
+
+.ProseMirror ol[data-list-type="paren"] ol ol ol ol>li::before {
+    content: "[" counter(p5, lower-alpha) "]";
+}
+
+/* ── 4. NEW OUTLINE STYLE: A. → 1. → a. → i. → aa. ── */
+.ProseMirror ol[data-list-type="outline"] {
+    counter-reset: out1 var(--start);
+}
+
+.ProseMirror ol[data-list-type="outline"]>li {
+    counter-increment: out1;
+}
+
+.ProseMirror ol[data-list-type="outline"]>li::before {
+    content: counter(out1, upper-alpha) ".";
+}
+
+.ProseMirror ol[data-list-type="outline"] ol {
+    counter-reset: out2 var(--start);
+}
+
+.ProseMirror ol[data-list-type="outline"] ol>li {
+    counter-increment: out2;
+}
+
+.ProseMirror ol[data-list-type="outline"] ol>li::before {
+    content: counter(out2, decimal) ".";
+}
+
+.ProseMirror ol[data-list-type="outline"] ol ol {
+    counter-reset: out3 var(--start);
+}
+
+.ProseMirror ol[data-list-type="outline"] ol ol>li {
+    counter-increment: out3;
+}
+
+.ProseMirror ol[data-list-type="outline"] ol ol>li::before {
+    content: counter(out3, lower-alpha) ".";
+}
+
+.ProseMirror ol[data-list-type="outline"] ol ol ol {
+    counter-reset: out4 var(--start);
+}
+
+.ProseMirror ol[data-list-type="outline"] ol ol ol>li {
+    counter-increment: out4;
+}
+
+.ProseMirror ol[data-list-type="outline"] ol ol ol>li::before {
+    content: counter(out4, lower-roman) ".";
+}
+
+.ProseMirror ol[data-list-type="outline"] ol ol ol ol {
+    counter-reset: out5 var(--start);
+}
+
+.ProseMirror ol[data-list-type="outline"] ol ol ol ol>li {
+    counter-increment: out5;
+}
+
+.ProseMirror ol[data-list-type="outline"] ol ol ol ol>li::before {
+    content: counter(out5, lower-alpha) counter(out5, lower-alpha) ".";
+}
+
+/* ── 5. LEGAL STYLE: 1. → 1.1. → 1.1.1. (hierarchical) ── */
+.ProseMirror ol[data-list-type="legal"] {
+    counter-reset: legal-l1 var(--start);
+}
+
+.ProseMirror ol[data-list-type="legal"]>li {
+    counter-increment: legal-l1;
+    --list-marker-width: 2.2em;
+}
+
+.ProseMirror ol[data-list-type="legal"]>li::before {
+    content: counter(legal-l1) ".";
+}
+
+.ProseMirror ol[data-list-type="legal"] ol {
+    counter-reset: legal-l2 var(--start);
+}
+
+.ProseMirror ol[data-list-type="legal"] ol>li {
+    counter-increment: legal-l2;
+    --list-marker-width: 2.8em;
+}
+
+.ProseMirror ol[data-list-type="legal"] ol>li::before {
+    content: counter(legal-l1) "." counter(legal-l2) ".";
+}
+
+.ProseMirror ol[data-list-type="legal"] ol ol {
+    counter-reset: legal-l3 var(--start);
+}
+
+.ProseMirror ol[data-list-type="legal"] ol ol>li {
+    counter-increment: legal-l3;
+    --list-marker-width: 3.6em;
+}
+
+.ProseMirror ol[data-list-type="legal"] ol ol>li::before {
+    content: counter(legal-l1) "." counter(legal-l2) "." counter(legal-l3) ".";
+}
+
+.ProseMirror ol[data-list-type="legal"] ol ol ol {
+    counter-reset: legal-l4 var(--start);
+}
+
+.ProseMirror ol[data-list-type="legal"] ol ol ol>li {
+    counter-increment: legal-l4;
+    --list-marker-width: 4.4em;
+}
+
+.ProseMirror ol[data-list-type="legal"] ol ol ol>li::before {
+    content: counter(legal-l1) "." counter(legal-l2) "." counter(legal-l3) "." counter(legal-l4) ".";
+}
+
+.ProseMirror ol[data-list-type="legal"] ol ol ol ol {
+    counter-reset: legal-l5 var(--start);
+}
+
+.ProseMirror ol[data-list-type="legal"] ol ol ol ol>li {
+    counter-increment: legal-l5;
+    --list-marker-width: 5.2em;
+}
+
+.ProseMirror ol[data-list-type="legal"] ol ol ol ol>li::before {
+    content: counter(legal-l1) "." counter(legal-l2) "." counter(legal-l3) "." counter(legal-l4) "." counter(legal-l5) ".";
+}
+
+/* ── 6. DEEP NESTING FALLBACK (Level 6+) ── */
+.ProseMirror ol ol ol ol ol ol>li::before {
+    content: "•" !important;
+    font-size: 1.2em;
+}
+
+.ProseMirror ol ol ol ol ol ol ol>li::before {
+    content: "○" !important;
+    font-size: 1.1em;
+}
+
+.ProseMirror ol ol ol ol ol ol ol ol>li::before {
+    content: "▪" !important;
+    font-size: 1.1em;
+}
+
+/* ========================================
+   LIST MARKER SELECTION
+========================================*/
+.ProseMirror ol.ProseMirror-selectednode,
+.ProseMirror ol li.ProseMirror-selectednode,
+.ProseMirror ul:not([data-type="taskList"]).ProseMirror-selectednode,
+.ProseMirror ul:not([data-type="taskList"]) > li.ProseMirror-selectednode {
+    outline: none !important;
+}
+
+.ProseMirror ol.ProseMirror-selectednode>li::before,
+.ProseMirror ol li.ProseMirror-selectednode::before {
+    background-color: color-mix(in srgb, var(--primary) 90%, transparent);
+    color: var(--primary-foreground) !important;
+    border-radius: 2px;
+    box-shadow: 0 0 0 2px color-mix(in srgb, var(--primary) 90%, transparent);
+}

@@ -1,0 +1,144 @@
+diff --git a/node_modules/dockview-core/dist/cjs/popoutWindow.js b/node_modules/dockview-core/dist/cjs/popoutWindow.js
+index 4def965..c62f5b0 100644
+--- a/node_modules/dockview-core/dist/cjs/popoutWindow.js
++++ b/node_modules/dockview-core/dist/cjs/popoutWindow.js
+@@ -171,36 +171,51 @@ var PopoutWindow = /** @class */ (function (_super) {
+                     window: externalWindow,
+                 });
+                 return [2 /*return*/, new Promise(function (resolve, reject) {
+-                        externalWindow.addEventListener('unload', function (e) {
+-                            // if page fails to load before unloading
+-                            // this.close();
+-                        });
+-                        externalWindow.addEventListener('load', function () {
+-                            /**
+-                             * @see https://developer.mozilla.org/en-US/docs/Web/API/Window/load_event
+-                             */
++                        var mounted = false;
++                        var mountPopout = function () {
++                            if (mounted) {
++                                return true;
++                            }
+                             try {
+                                 var externalDocument = externalWindow.document;
++                                if (!externalDocument || !externalDocument.body) {
++                                    return false;
++                                }
++                                mounted = true;
+                                 externalDocument.title = document.title;
+                                 externalDocument.body.appendChild(container);
+                                 (0, dom_1.addStyles)(externalDocument, window.document.styleSheets);
+-                                /**
+-                                 * beforeunload must be registered after load for reasons I could not determine
+-                                 * otherwise the beforeunload event will not fire when the window is closed
+-                                 */
+                                 (0, events_1.addDisposableListener)(externalWindow, 'beforeunload', function () {
+-                                    /**
+-                                     * @see https://developer.mozilla.org/en-US/docs/Web/API/Window/beforeunload_event
+-                                     */
+                                     _this.close();
+                                 });
+                                 resolve(container);
++                                return true;
+                             }
+                             catch (err) {
+-                                // only except this is the DOM isn't setup. e.g. in a in correctly configured test
++                                if (!externalWindow.document || !externalWindow.document.body) {
++                                    return false;
++                                }
+                                 reject(err);
++                                return true;
+                             }
++                        };
++                        if (mountPopout()) {
++                            return;
++                        }
++                        externalWindow.addEventListener('load', function () {
++                            mountPopout();
+                         });
++                        var poll = window.setInterval(function () {
++                            if (mountPopout()) {
++                                window.clearInterval(poll);
++                            }
++                        }, 16);
++                        window.setTimeout(function () {
++                            window.clearInterval(poll);
++                            if (!mounted) {
++                                reject(new Error('popout window failed to become ready'));
++                            }
++                        }, 5000);
+                     })];
+             });
+         });
+diff --git a/node_modules/dockview-core/dist/esm/popoutWindow.js b/node_modules/dockview-core/dist/esm/popoutWindow.js
+index 5047f7e..5f6a3f6 100644
+--- a/node_modules/dockview-core/dist/esm/popoutWindow.js
++++ b/node_modules/dockview-core/dist/esm/popoutWindow.js
+@@ -101,36 +101,51 @@ export class PopoutWindow extends CompositeDisposable {
+                 window: externalWindow,
+             });
+             return new Promise((resolve, reject) => {
+-                externalWindow.addEventListener('unload', (e) => {
+-                    // if page fails to load before unloading
+-                    // this.close();
+-                });
+-                externalWindow.addEventListener('load', () => {
+-                    /**
+-                     * @see https://developer.mozilla.org/en-US/docs/Web/API/Window/load_event
+-                     */
++                let mounted = false;
++                const mountPopout = () => {
++                    if (mounted) {
++                        return true;
++                    }
+                     try {
+                         const externalDocument = externalWindow.document;
++                        if (!externalDocument || !externalDocument.body) {
++                            return false;
++                        }
++                        mounted = true;
+                         externalDocument.title = document.title;
+                         externalDocument.body.appendChild(container);
+                         addStyles(externalDocument, window.document.styleSheets);
+-                        /**
+-                         * beforeunload must be registered after load for reasons I could not determine
+-                         * otherwise the beforeunload event will not fire when the window is closed
+-                         */
+                         addDisposableListener(externalWindow, 'beforeunload', () => {
+-                            /**
+-                             * @see https://developer.mozilla.org/en-US/docs/Web/API/Window/beforeunload_event
+-                             */
+                             this.close();
+                         });
+                         resolve(container);
++                        return true;
+                     }
+                     catch (err) {
+-                        // only except this is the DOM isn't setup. e.g. in a in correctly configured test
++                        if (!externalWindow.document?.body) {
++                            return false;
++                        }
+                         reject(err);
++                        return true;
+                     }
++                };
++                if (mountPopout()) {
++                    return;
++                }
++                externalWindow.addEventListener('load', () => {
++                    mountPopout();
+                 });
++                const poll = window.setInterval(() => {
++                    if (mountPopout()) {
++                        window.clearInterval(poll);
++                    }
++                }, 16);
++                window.setTimeout(() => {
++                    window.clearInterval(poll);
++                    if (!mounted) {
++                        reject(new Error('popout window failed to become ready'));
++                    }
++                }, 5000);
+             });
+         });
+     }

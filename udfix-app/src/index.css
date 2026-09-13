@@ -1,0 +1,2025 @@
+@import "tailwindcss";
+@plugin "tailwindcss-animate";
+
+@theme inline {
+    --color-background: var(--background);
+    --color-foreground: var(--foreground);
+    --color-border: var(--border);
+    --color-input: var(--input);
+    --color-ring: var(--ring);
+    --color-primary: var(--primary);
+    --color-primary-foreground: var(--primary-foreground);
+    --color-secondary: var(--secondary);
+    --color-secondary-foreground: var(--secondary-foreground);
+    --color-muted: var(--muted);
+    --color-muted-foreground: var(--muted-foreground);
+    --color-accent: var(--accent);
+    --color-accent-foreground: var(--accent-foreground);
+    --color-popover: var(--popover);
+    --color-popover-foreground: var(--popover-foreground);
+    --color-card: var(--card);
+    --color-card-foreground: var(--card-foreground);
+    --color-destructive: var(--destructive);
+    --color-destructive-foreground: var(--destructive-foreground);
+
+    --radius-lg: var(--radius);
+    --radius-md: calc(var(--radius) - 2px);
+    --radius-sm: calc(var(--radius) - 4px);
+}
+
+/* ============================================================
+   UDFIX THEME SYSTEM — 8 PALETTES × 2 MODES
+   ============================================================
+   Usage: apply `theme-{name}` class on <html>.
+   Apply `.dark` class for dark variant.
+   Default (no theme class) → Tokmak (gavel).
+   ============================================================ */
+
+/* ---- SHARED CONSTANTS ---- */
+:root {
+    --radius: 0.75rem;
+    --z-background: -1;
+    --z-canvas: 10;
+    --z-interface: 20;
+    --z-editor-floating: 2300;
+    --z-command-palette: 2800;
+    --z-command-palette-floating: 2900;
+    /* Transient popovers/selects must stack above editor floating tools and sheets/dialogs. */
+    --z-floating: 2600;
+    --z-modal: 2000;
+    --legal-navy: #1F456E;
+    --legal-navy-bright: #4a7ab5;
+    --legal-crimson: #B22222;
+    --legal-crimson-bright: #D64545;
+    --destructive: #ef4444;
+    --destructive-foreground: #ffffff;
+}
+
+/* ============================================================
+   1. TOKMAK — Koyu orman yeşili (DEFAULT)
+   ============================================================ */
+:root,
+.theme-gavel {
+    --primary: #294545;
+    --primary-foreground: #ffffff;
+    --background: #F4F7F6;
+    --foreground: #1A2424;
+    --border: rgba(41, 69, 69, 0.15);
+    --input: rgba(41, 69, 69, 0.12);
+    --ring: rgba(41, 69, 69, 0.4);
+    --secondary: #E8EEEE;
+    --secondary-foreground: #1A2424;
+    --muted: #E8EEEE;
+    --muted-foreground: #5E8B8B;
+    --accent: #D4E2E2;
+    --accent-foreground: #1A2424;
+    --popover: rgba(244, 247, 246, 0.97);
+    --popover-foreground: #1A2424;
+    --card: rgba(255, 255, 255, 0.85);
+    --card-foreground: #1A2424;
+    --glass-bg: rgba(255, 255, 255, 0.55);
+    --glass-border: rgba(41, 69, 69, 0.12);
+    --glass-panel-bg: rgba(244, 247, 246, 0.82);
+    --glass-dock-bg: rgba(41, 69, 69, 0.07);
+    --glass-icon: #294545;
+    --glass-icon-hover: #1A2424;
+    --glass-icon-bg-hover: rgba(41, 69, 69, 0.1);
+    --editor-paper-bg: #ffffff;
+    --editor-text: #1A2424;
+    --editor-border: #CBD5D5;
+    --sidebar-bg: rgba(41, 69, 69, 0.06);
+    --sidebar-border: rgba(41, 69, 69, 0.12);
+}
+
+.dark,
+.theme-gavel.dark {
+    --primary: #5E8B8B;
+    --primary-foreground: #ffffff;
+    --background: #1A2424;
+    --foreground: #E0E5E5;
+    --border: rgba(94, 139, 139, 0.2);
+    --input: rgba(94, 139, 139, 0.15);
+    --ring: rgba(94, 139, 139, 0.5);
+    --secondary: #243030;
+    --secondary-foreground: #E0E5E5;
+    --muted: #243030;
+    --muted-foreground: #8AADAD;
+    --accent: #2D3D3D;
+    --accent-foreground: #E0E5E5;
+    --popover: rgba(26, 36, 36, 0.97);
+    --popover-foreground: #E0E5E5;
+    --card: rgba(36, 48, 48, 0.8);
+    --card-foreground: #E0E5E5;
+    --glass-bg: rgba(26, 36, 36, 0.55);
+    --glass-border: rgba(94, 139, 139, 0.15);
+    --glass-panel-bg: rgba(36, 48, 48, 0.75);
+    --glass-dock-bg: rgba(26, 36, 36, 0.6);
+    --glass-icon: #8AADAD;
+    --glass-icon-hover: #E0E5E5;
+    --glass-icon-bg-hover: rgba(94, 139, 139, 0.15);
+    --editor-paper-bg: rgba(36, 48, 48, 0.5);
+    --editor-text: #E0E5E5;
+    --editor-border: #3D5555;
+    --sidebar-bg: rgba(26, 36, 36, 0.8);
+    --sidebar-border: rgba(94, 139, 139, 0.15);
+}
+
+/* ============================================================
+   2. AVUKAT — Gece laciverti
+   ============================================================ */
+.theme-barrister {
+    --primary: #1B263B;
+    --primary-foreground: #ffffff;
+    --background: #F0F2F5;
+    --foreground: #0D1B2A;
+    --border: rgba(27, 38, 59, 0.15);
+    --input: rgba(27, 38, 59, 0.12);
+    --ring: rgba(27, 38, 59, 0.4);
+    --secondary: #E2E6ED;
+    --secondary-foreground: #0D1B2A;
+    --muted: #E2E6ED;
+    --muted-foreground: #415A77;
+    --accent: #C8D3E2;
+    --accent-foreground: #0D1B2A;
+    --popover: rgba(240, 242, 245, 0.97);
+    --popover-foreground: #0D1B2A;
+    --card: rgba(255, 255, 255, 0.85);
+    --card-foreground: #0D1B2A;
+    --glass-bg: rgba(255, 255, 255, 0.55);
+    --glass-border: rgba(27, 38, 59, 0.12);
+    --glass-panel-bg: rgba(240, 242, 245, 0.82);
+    --glass-dock-bg: rgba(27, 38, 59, 0.07);
+    --glass-icon: #1B263B;
+    --glass-icon-hover: #0D1B2A;
+    --glass-icon-bg-hover: rgba(27, 38, 59, 0.1);
+    --editor-paper-bg: #ffffff;
+    --editor-text: #0D1B2A;
+    --editor-border: #C8D3E2;
+    --sidebar-bg: rgba(27, 38, 59, 0.06);
+    --sidebar-border: rgba(27, 38, 59, 0.12);
+}
+
+.theme-barrister.dark {
+    --primary: #415A77;
+    --primary-foreground: #ffffff;
+    --background: #0D131D;
+    --foreground: #E0E1DD;
+    --border: rgba(65, 90, 119, 0.2);
+    --input: rgba(65, 90, 119, 0.15);
+    --ring: rgba(65, 90, 119, 0.5);
+    --secondary: #16202E;
+    --secondary-foreground: #E0E1DD;
+    --muted: #16202E;
+    --muted-foreground: #778DA9;
+    --accent: #1E2D3E;
+    --accent-foreground: #E0E1DD;
+    --popover: rgba(13, 19, 29, 0.97);
+    --popover-foreground: #E0E1DD;
+    --card: rgba(22, 32, 46, 0.8);
+    --card-foreground: #E0E1DD;
+    --glass-bg: rgba(13, 19, 29, 0.55);
+    --glass-border: rgba(65, 90, 119, 0.2);
+    --glass-panel-bg: rgba(22, 32, 46, 0.75);
+    --glass-dock-bg: rgba(13, 19, 29, 0.65);
+    --glass-icon: #778DA9;
+    --glass-icon-hover: #E0E1DD;
+    --glass-icon-bg-hover: rgba(65, 90, 119, 0.15);
+    --editor-paper-bg: rgba(22, 32, 46, 0.5);
+    --editor-text: #E0E1DD;
+    --editor-border: #2A3D55;
+    --sidebar-bg: rgba(13, 19, 29, 0.8);
+    --sidebar-border: rgba(65, 90, 119, 0.2);
+}
+
+/* ============================================================
+   3. NOTER — Soluk gül kurusu
+   ============================================================ */
+.theme-notary {
+    --primary: #987D7C;
+    --primary-foreground: #ffffff;
+    --background: #FAF7F7;
+    --foreground: #3D3333;
+    --border: rgba(152, 125, 124, 0.18);
+    --input: rgba(152, 125, 124, 0.14);
+    --ring: rgba(152, 125, 124, 0.4);
+    --secondary: #EEE9E9;
+    --secondary-foreground: #3D3333;
+    --muted: #EEE9E9;
+    --muted-foreground: #987D7C;
+    --accent: #E3D8D8;
+    --accent-foreground: #3D3333;
+    --popover: rgba(250, 247, 247, 0.97);
+    --popover-foreground: #3D3333;
+    --card: rgba(255, 255, 255, 0.85);
+    --card-foreground: #3D3333;
+    --glass-bg: rgba(255, 255, 255, 0.55);
+    --glass-border: rgba(152, 125, 124, 0.14);
+    --glass-panel-bg: rgba(250, 247, 247, 0.82);
+    --glass-dock-bg: rgba(152, 125, 124, 0.06);
+    --glass-icon: #987D7C;
+    --glass-icon-hover: #3D3333;
+    --glass-icon-bg-hover: rgba(152, 125, 124, 0.12);
+    --editor-paper-bg: #ffffff;
+    --editor-text: #3D3333;
+    --editor-border: #DDD0D0;
+    --sidebar-bg: rgba(152, 125, 124, 0.06);
+    --sidebar-border: rgba(152, 125, 124, 0.14);
+}
+
+.theme-notary.dark {
+    --primary: #B59A99;
+    --primary-foreground: #3D3333;
+    --background: #262121;
+    --foreground: #EDE7E7;
+    --border: rgba(181, 154, 153, 0.2);
+    --input: rgba(181, 154, 153, 0.15);
+    --ring: rgba(181, 154, 153, 0.5);
+    --secondary: #302A2A;
+    --secondary-foreground: #EDE7E7;
+    --muted: #302A2A;
+    --muted-foreground: #A08887;
+    --accent: #3B3333;
+    --accent-foreground: #EDE7E7;
+    --popover: rgba(38, 33, 33, 0.97);
+    --popover-foreground: #EDE7E7;
+    --card: rgba(48, 42, 42, 0.8);
+    --card-foreground: #EDE7E7;
+    --glass-bg: rgba(38, 33, 33, 0.55);
+    --glass-border: rgba(181, 154, 153, 0.18);
+    --glass-panel-bg: rgba(48, 42, 42, 0.75);
+    --glass-dock-bg: rgba(38, 33, 33, 0.65);
+    --glass-icon: #A08887;
+    --glass-icon-hover: #EDE7E7;
+    --glass-icon-bg-hover: rgba(181, 154, 153, 0.15);
+    --editor-paper-bg: rgba(48, 42, 42, 0.5);
+    --editor-text: #EDE7E7;
+    --editor-border: #4A3E3E;
+    --sidebar-bg: rgba(38, 33, 33, 0.8);
+    --sidebar-border: rgba(181, 154, 153, 0.18);
+}
+
+/* ============================================================
+   4. BORDO — Bordo ve krem
+   ============================================================ */
+.theme-oxford {
+    --primary: #6B2D2D;
+    --primary-foreground: #ffffff;
+    --background: #FCF9F2;
+    --foreground: #2B1A1A;
+    --border: rgba(107, 45, 45, 0.16);
+    --input: rgba(107, 45, 45, 0.12);
+    --ring: rgba(107, 45, 45, 0.4);
+    --secondary: #F2EDE0;
+    --secondary-foreground: #2B1A1A;
+    --muted: #F2EDE0;
+    --muted-foreground: #8B5858;
+    --accent: #E8DEC8;
+    --accent-foreground: #2B1A1A;
+    --popover: rgba(252, 249, 242, 0.97);
+    --popover-foreground: #2B1A1A;
+    --card: rgba(255, 255, 255, 0.85);
+    --card-foreground: #2B1A1A;
+    --glass-bg: rgba(255, 250, 240, 0.6);
+    --glass-border: rgba(107, 45, 45, 0.12);
+    --glass-panel-bg: rgba(252, 249, 242, 0.82);
+    --glass-dock-bg: rgba(107, 45, 45, 0.06);
+    --glass-icon: #6B2D2D;
+    --glass-icon-hover: #2B1A1A;
+    --glass-icon-bg-hover: rgba(107, 45, 45, 0.1);
+    --editor-paper-bg: #ffffff;
+    --editor-text: #2B1A1A;
+    --editor-border: #E0D0C0;
+    --sidebar-bg: rgba(107, 45, 45, 0.05);
+    --sidebar-border: rgba(107, 45, 45, 0.12);
+}
+
+.theme-oxford.dark {
+    --primary: #A65D5D;
+    --primary-foreground: #ffffff;
+    --background: #1F1A1A;
+    --foreground: #F2E9E9;
+    --border: rgba(166, 93, 93, 0.2);
+    --input: rgba(166, 93, 93, 0.15);
+    --ring: rgba(166, 93, 93, 0.5);
+    --secondary: #2A2222;
+    --secondary-foreground: #F2E9E9;
+    --muted: #2A2222;
+    --muted-foreground: #9B7070;
+    --accent: #352828;
+    --accent-foreground: #F2E9E9;
+    --popover: rgba(31, 26, 26, 0.97);
+    --popover-foreground: #F2E9E9;
+    --card: rgba(42, 34, 34, 0.8);
+    --card-foreground: #F2E9E9;
+    --glass-bg: rgba(31, 26, 26, 0.55);
+    --glass-border: rgba(166, 93, 93, 0.18);
+    --glass-panel-bg: rgba(42, 34, 34, 0.75);
+    --glass-dock-bg: rgba(31, 26, 26, 0.65);
+    --glass-icon: #9B7070;
+    --glass-icon-hover: #F2E9E9;
+    --glass-icon-bg-hover: rgba(166, 93, 93, 0.15);
+    --editor-paper-bg: rgba(42, 34, 34, 0.5);
+    --editor-text: #F2E9E9;
+    --editor-border: #4A3535;
+    --sidebar-bg: rgba(31, 26, 26, 0.8);
+    --sidebar-border: rgba(166, 93, 93, 0.18);
+}
+
+/* ============================================================
+   5. ARDUVAZ — Tek renk
+   ============================================================ */
+.theme-slate {
+    --primary: #4A4E69;
+    --primary-foreground: #ffffff;
+    --background: #FFFFFF;
+    --foreground: #22223B;
+    --border: rgba(74, 78, 105, 0.15);
+    --input: rgba(74, 78, 105, 0.12);
+    --ring: rgba(74, 78, 105, 0.4);
+    --secondary: #EEEEF2;
+    --secondary-foreground: #22223B;
+    --muted: #EEEEF2;
+    --muted-foreground: #6B6F8A;
+    --accent: #DCDDE8;
+    --accent-foreground: #22223B;
+    --popover: rgba(255, 255, 255, 0.97);
+    --popover-foreground: #22223B;
+    --card: rgba(250, 250, 252, 0.9);
+    --card-foreground: #22223B;
+    --glass-bg: rgba(255, 255, 255, 0.6);
+    --glass-border: rgba(74, 78, 105, 0.12);
+    --glass-panel-bg: rgba(255, 255, 255, 0.86);
+    --glass-dock-bg: rgba(74, 78, 105, 0.07);
+    --glass-icon: #4A4E69;
+    --glass-icon-hover: #22223B;
+    --glass-icon-bg-hover: rgba(74, 78, 105, 0.1);
+    --editor-paper-bg: #ffffff;
+    --editor-text: #22223B;
+    --editor-border: #D0D1DC;
+    --sidebar-bg: rgba(74, 78, 105, 0.06);
+    --sidebar-border: rgba(74, 78, 105, 0.12);
+}
+
+.theme-slate.dark {
+    --primary: #9A9DB3;
+    --primary-foreground: #22223B;
+    --background: #121212;
+    --foreground: #F8F9FA;
+    --border: rgba(154, 157, 179, 0.18);
+    --input: rgba(154, 157, 179, 0.14);
+    --ring: rgba(154, 157, 179, 0.5);
+    --secondary: #1E1E22;
+    --secondary-foreground: #F8F9FA;
+    --muted: #1E1E22;
+    --muted-foreground: #7B7E96;
+    --accent: #282830;
+    --accent-foreground: #F8F9FA;
+    --popover: rgba(18, 18, 18, 0.97);
+    --popover-foreground: #F8F9FA;
+    --card: rgba(30, 30, 34, 0.85);
+    --card-foreground: #F8F9FA;
+    --glass-bg: rgba(18, 18, 18, 0.6);
+    --glass-border: rgba(154, 157, 179, 0.15);
+    --glass-panel-bg: rgba(30, 30, 34, 0.8);
+    --glass-dock-bg: rgba(18, 18, 18, 0.7);
+    --glass-icon: #7B7E96;
+    --glass-icon-hover: #F8F9FA;
+    --glass-icon-bg-hover: rgba(154, 157, 179, 0.12);
+    --editor-paper-bg: rgba(30, 30, 34, 0.5);
+    --editor-text: #F8F9FA;
+    --editor-border: #38383E;
+    --sidebar-bg: rgba(18, 18, 18, 0.85);
+    --sidebar-border: rgba(154, 157, 179, 0.15);
+}
+
+/* ============================================================
+   6. HÜKÜM — Zümrüt ve altın
+   ============================================================ */
+.theme-verdict {
+    --primary: #15523E;
+    --primary-foreground: #ffffff;
+    --background: #F2FBF8;
+    --foreground: #082018;
+    --border: rgba(21, 82, 62, 0.15);
+    --input: rgba(21, 82, 62, 0.12);
+    --ring: rgba(21, 82, 62, 0.4);
+    --secondary: #E0F2EC;
+    --secondary-foreground: #082018;
+    --muted: #E0F2EC;
+    --muted-foreground: #2D9B78;
+    --accent: #C2E8DA;
+    --accent-foreground: #082018;
+    --popover: rgba(242, 251, 248, 0.97);
+    --popover-foreground: #082018;
+    --card: rgba(255, 255, 255, 0.85);
+    --card-foreground: #082018;
+    --glass-bg: rgba(255, 255, 255, 0.55);
+    --glass-border: rgba(21, 82, 62, 0.12);
+    --glass-panel-bg: rgba(242, 251, 248, 0.82);
+    --glass-dock-bg: rgba(21, 82, 62, 0.06);
+    --glass-icon: #15523E;
+    --glass-icon-hover: #082018;
+    --glass-icon-bg-hover: rgba(21, 82, 62, 0.1);
+    --editor-paper-bg: #ffffff;
+    --editor-text: #082018;
+    --editor-border: #C0DDD5;
+    --sidebar-bg: rgba(21, 82, 62, 0.05);
+    --sidebar-border: rgba(21, 82, 62, 0.12);
+}
+
+.theme-verdict.dark {
+    --primary: #2D9B78;
+    --primary-foreground: #ffffff;
+    --background: #0B1411;
+    --foreground: #D1E8E0;
+    --border: rgba(45, 155, 120, 0.2);
+    --input: rgba(45, 155, 120, 0.15);
+    --ring: rgba(45, 155, 120, 0.5);
+    --secondary: #131D1A;
+    --secondary-foreground: #D1E8E0;
+    --muted: #131D1A;
+    --muted-foreground: #56B898;
+    --accent: #1A2C26;
+    --accent-foreground: #D1E8E0;
+    --popover: rgba(11, 20, 17, 0.97);
+    --popover-foreground: #D1E8E0;
+    --card: rgba(19, 29, 26, 0.8);
+    --card-foreground: #D1E8E0;
+    --glass-bg: rgba(11, 20, 17, 0.6);
+    --glass-border: rgba(45, 155, 120, 0.18);
+    --glass-panel-bg: rgba(19, 29, 26, 0.75);
+    --glass-dock-bg: rgba(11, 20, 17, 0.65);
+    --glass-icon: #56B898;
+    --glass-icon-hover: #D1E8E0;
+    --glass-icon-bg-hover: rgba(45, 155, 120, 0.15);
+    --editor-paper-bg: rgba(19, 29, 26, 0.5);
+    --editor-text: #D1E8E0;
+    --editor-border: #214038;
+    --sidebar-bg: rgba(11, 20, 17, 0.85);
+    --sidebar-border: rgba(45, 155, 120, 0.18);
+}
+
+/* ============================================================
+   7. ŞANSÖLYE — Konyak ve kehribar
+   ============================================================ */
+.theme-chancellor {
+    --primary: #8C5E3C;
+    --primary-foreground: #ffffff;
+    --background: #FDFBF7;
+    --foreground: #442B1B;
+    --border: rgba(140, 94, 60, 0.15);
+    --input: rgba(140, 94, 60, 0.12);
+    --ring: rgba(140, 94, 60, 0.4);
+    --secondary: #F3ECE0;
+    --secondary-foreground: #442B1B;
+    --muted: #F3ECE0;
+    --muted-foreground: #A0734E;
+    --accent: #E8DDCC;
+    --accent-foreground: #442B1B;
+    --popover: rgba(253, 251, 247, 0.97);
+    --popover-foreground: #442B1B;
+    --card: rgba(255, 255, 255, 0.85);
+    --card-foreground: #442B1B;
+    --glass-bg: rgba(255, 253, 248, 0.6);
+    --glass-border: rgba(140, 94, 60, 0.12);
+    --glass-panel-bg: rgba(253, 251, 247, 0.82);
+    --glass-dock-bg: rgba(140, 94, 60, 0.06);
+    --glass-icon: #8C5E3C;
+    --glass-icon-hover: #442B1B;
+    --glass-icon-bg-hover: rgba(140, 94, 60, 0.1);
+    --editor-paper-bg: #ffffff;
+    --editor-text: #442B1B;
+    --editor-border: #E0CDB8;
+    --sidebar-bg: rgba(140, 94, 60, 0.05);
+    --sidebar-border: rgba(140, 94, 60, 0.12);
+}
+
+.theme-chancellor.dark {
+    --primary: #D9A066;
+    --primary-foreground: #442B1B;
+    --background: #1C1917;
+    --foreground: #F5EFE6;
+    --border: rgba(217, 160, 102, 0.2);
+    --input: rgba(217, 160, 102, 0.15);
+    --ring: rgba(217, 160, 102, 0.5);
+    --secondary: #272320;
+    --secondary-foreground: #F5EFE6;
+    --muted: #272320;
+    --muted-foreground: #B08060;
+    --accent: #322B25;
+    --accent-foreground: #F5EFE6;
+    --popover: rgba(28, 25, 23, 0.97);
+    --popover-foreground: #F5EFE6;
+    --card: rgba(39, 35, 32, 0.8);
+    --card-foreground: #F5EFE6;
+    --glass-bg: rgba(28, 25, 23, 0.6);
+    --glass-border: rgba(217, 160, 102, 0.18);
+    --glass-panel-bg: rgba(39, 35, 32, 0.75);
+    --glass-dock-bg: rgba(28, 25, 23, 0.65);
+    --glass-icon: #B08060;
+    --glass-icon-hover: #F5EFE6;
+    --glass-icon-bg-hover: rgba(217, 160, 102, 0.15);
+    --editor-paper-bg: rgba(39, 35, 32, 0.5);
+    --editor-text: #F5EFE6;
+    --editor-border: #4A3B2E;
+    --sidebar-bg: rgba(28, 25, 23, 0.85);
+    --sidebar-border: rgba(217, 160, 102, 0.18);
+}
+
+/* ============================================================
+   8. YÜKSEK KONTRAST — Siyah ve beyaz
+   ============================================================ */
+.theme-contrast {
+    --primary: #000000;
+    --primary-foreground: #ffffff;
+    --background: #ffffff;
+    --foreground: #000000;
+    --border: #000000;
+    --input: #000000;
+    --ring: #000000;
+    --secondary: #f2f2f2;
+    --secondary-foreground: #000000;
+    --muted: #f2f2f2;
+    --muted-foreground: #000000;
+    --accent: #e6e6e6;
+    --accent-foreground: #000000;
+    --popover: #ffffff;
+    --popover-foreground: #000000;
+    --card: #ffffff;
+    --card-foreground: #000000;
+    --glass-bg: rgba(255, 255, 255, 0.94);
+    --glass-border: #000000;
+    --glass-panel-bg: rgba(255, 255, 255, 0.96);
+    --glass-dock-bg: rgba(0, 0, 0, 0.08);
+    --glass-icon: #000000;
+    --glass-icon-hover: #000000;
+    --glass-icon-bg-hover: rgba(0, 0, 0, 0.12);
+    --editor-paper-bg: #ffffff;
+    --editor-text: #000000;
+    --editor-border: #000000;
+    --sidebar-bg: #ffffff;
+    --sidebar-border: #000000;
+    --destructive: #9b0000;
+    --destructive-foreground: #ffffff;
+}
+
+.theme-contrast.dark {
+    --primary: #ffe500;
+    --primary-foreground: #000000;
+    --background: #000000;
+    --foreground: #ffffff;
+    --border: #ffffff;
+    --input: #ffffff;
+    --ring: #ffe500;
+    --secondary: #1a1a1a;
+    --secondary-foreground: #ffffff;
+    --muted: #1a1a1a;
+    --muted-foreground: #ffffff;
+    --accent: #2a2a2a;
+    --accent-foreground: #ffffff;
+    --popover: #000000;
+    --popover-foreground: #ffffff;
+    --card: #000000;
+    --card-foreground: #ffffff;
+    --glass-bg: rgba(0, 0, 0, 0.94);
+    --glass-border: #ffffff;
+    --glass-panel-bg: rgba(0, 0, 0, 0.96);
+    --glass-dock-bg: rgba(255, 255, 255, 0.12);
+    --glass-icon: #ffe500;
+    --glass-icon-hover: #ffffff;
+    --glass-icon-bg-hover: rgba(255, 229, 0, 0.2);
+    --editor-paper-bg: #000000;
+    --editor-text: #ffffff;
+    --editor-border: #ffffff;
+    --sidebar-bg: #000000;
+    --sidebar-border: #ffffff;
+    --destructive: #ff6b6b;
+    --destructive-foreground: #000000;
+}
+
+/* ============================================================
+   BASE RESETS
+   ============================================================ */
+@layer base {
+    * {
+        @apply border-border;
+    }
+
+    body {
+        @apply bg-background text-foreground transition-colors duration-300;
+        font-family: 'Inter', sans-serif;
+        -webkit-font-smoothing: antialiased;
+        counter-reset: footnote-counter;
+    }
+}
+
+/* Dark mode body gradient — uses foreground channel for subtle depth */
+.dark body,
+[class*="theme-"].dark body {
+    background: radial-gradient(circle at top right, var(--secondary), var(--background));
+    background-attachment: fixed;
+}
+
+.theme-contrast body,
+.theme-contrast.dark body {
+    background: var(--background);
+}
+
+.theme-contrast :is(.glass, .glass-bg, .glass-frosted, .glass-fluted, .glass-panel, .glass-tooltip) {
+    backdrop-filter: none;
+    -webkit-backdrop-filter: none;
+}
+
+/* ============================================================
+   GLASSMORPHISM UTILITIES
+   (All borders/backgrounds now use CSS vars — theme-aware)
+   ============================================================ */
+.glass {
+    background: var(--glass-bg);
+    backdrop-filter: blur(20px);
+    -webkit-backdrop-filter: blur(20px);
+    border: 1px solid var(--glass-border);
+    box-shadow: 0 8px 32px 0 rgba(0, 0, 0, 0.12);
+}
+
+.glass-bg {
+    background: var(--glass-bg);
+    backdrop-filter: blur(20px) saturate(180%);
+    -webkit-backdrop-filter: blur(20px) saturate(180%);
+    border: 1px solid var(--glass-border);
+    box-shadow: 0 8px 32px 0 rgba(0, 0, 0, 0.12);
+}
+
+.glass-frosted {
+    background: var(--glass-panel-bg);
+    backdrop-filter: blur(32px) saturate(190%);
+    -webkit-backdrop-filter: blur(32px) saturate(190%);
+    border: 1px solid var(--glass-border);
+    box-shadow: 0 12px 48px rgba(0, 0, 0, 0.15);
+}
+
+.glass-fluted {
+    background:
+        repeating-linear-gradient(
+            90deg,
+            rgba(255, 255, 255, 0.08) 0,
+            rgba(255, 255, 255, 0.14) 4px,
+            rgba(255, 255, 255, 0.04) 10px
+        ),
+        var(--glass-bg);
+    backdrop-filter: blur(20px) saturate(180%);
+    -webkit-backdrop-filter: blur(20px) saturate(180%);
+    border: 1px solid var(--glass-border);
+    box-shadow: 0 8px 32px 0 rgba(0, 0, 0, 0.12);
+}
+
+.glass-crystal {
+    position: relative;
+    background:
+        linear-gradient(to bottom right, rgba(255, 255, 255, 0.15), transparent 50%),
+        var(--glass-bg);
+    backdrop-filter: blur(8px) saturate(160%);
+    -webkit-backdrop-filter: blur(8px) saturate(160%);
+    border: 1px solid var(--glass-border);
+    box-shadow: 0 8px 32px 0 rgba(0, 0, 0, 0.12);
+}
+
+.glass-panel {
+    background: var(--glass-panel-bg);
+    backdrop-filter: blur(28px);
+    -webkit-backdrop-filter: blur(28px);
+    border: 1px solid var(--glass-border);
+    box-shadow: 0 12px 48px rgba(0, 0, 0, 0.15);
+}
+
+.glass-dock {
+    background: var(--glass-dock-bg);
+    backdrop-filter: blur(24px);
+    -webkit-backdrop-filter: blur(24px);
+    border: 1px solid var(--glass-border);
+}
+
+/** Compact glass for tooltips (lighter blur than .glass) */
+.glass-tooltip {
+    background: var(--glass-bg);
+    backdrop-filter: blur(10px);
+    -webkit-backdrop-filter: blur(10px);
+    border: 1px solid var(--glass-border);
+    box-shadow: 0 4px 20px 0 rgba(0, 0, 0, 0.12);
+}
+
+/* Dark variants → deeper shadows */
+.dark .glass-tooltip,
+[class*="theme-"].dark .glass-tooltip {
+    box-shadow: 0 4px 20px 0 rgba(0, 0, 0, 0.35);
+}
+
+.dark .glass,
+[class*="theme-"].dark .glass {
+    box-shadow: 0 8px 32px 0 rgba(0, 0, 0, 0.4);
+}
+
+.dark .glass-bg,
+[class*="theme-"].dark .glass-bg {
+    box-shadow: 0 8px 32px 0 rgba(0, 0, 0, 0.4);
+}
+
+.dark .glass-frosted,
+[class*="theme-"].dark .glass-frosted {
+    box-shadow: 0 12px 48px rgba(0, 0, 0, 0.45);
+}
+
+.dark .glass-fluted,
+[class*="theme-"].dark .glass-fluted,
+.dark .glass-crystal,
+[class*="theme-"].dark .glass-crystal {
+    box-shadow: 0 8px 32px 0 rgba(0, 0, 0, 0.4);
+}
+
+.dark .glass-panel,
+[class*="theme-"].dark .glass-panel {
+    box-shadow: 0 12px 48px rgba(0, 0, 0, 0.45);
+}
+
+/*
+   Command palette keeps a readable glass surface while inheriting the active
+   legal theme tokens instead of pinning itself to one color palette.
+*/
+.nomai-command-palette {
+    --command-palette-panel: color-mix(in srgb, var(--glass-panel-bg) 88%, var(--background) 12%);
+    --command-palette-surface: color-mix(in srgb, var(--card) 82%, transparent);
+    --command-palette-surface-muted: color-mix(in srgb, var(--background) 74%, transparent);
+    --command-palette-hover: color-mix(in srgb, var(--primary) 14%, transparent);
+    --command-palette-border: color-mix(in srgb, var(--border) 80%, var(--glass-border) 20%);
+    background: var(--command-palette-panel) !important;
+    backdrop-filter: blur(28px) saturate(155%) !important;
+    -webkit-backdrop-filter: blur(28px) saturate(155%) !important;
+    color: var(--foreground);
+    border-color: var(--command-palette-border) !important;
+    box-shadow:
+        0 24px 80px color-mix(in srgb, var(--foreground) 18%, transparent),
+        inset 0 1px 0 color-mix(in srgb, var(--card) 45%, transparent) !important;
+}
+
+.nomai-command-palette :where(.glass, .glass-bg, .glass-panel, [cmdk-input-wrapper]) {
+    background-image: none !important;
+    background-color: var(--command-palette-surface) !important;
+    backdrop-filter: blur(18px) saturate(145%) !important;
+    -webkit-backdrop-filter: blur(18px) saturate(145%) !important;
+}
+
+.nomai-command-palette :where([class*="bg-white"], [class*="bg-neutral"], [class*="bg-slate"], .bg-card\/55, .bg-background\/45) {
+    background-color: var(--command-palette-surface) !important;
+}
+
+.nomai-command-palette :where([class*="bg-emerald"], [cmdk-item][data-selected='true'], [cmdk-item]:hover) {
+    background-color: var(--command-palette-hover) !important;
+}
+
+.nomai-command-palette :where(h1, h2, h3, h4, p, span, label, button, input, textarea, [cmdk-item]) {
+    color: var(--foreground);
+}
+
+.nomai-command-palette :where(.text-muted-foreground, [cmdk-group-heading], [class*="text-slate-5"], [class*="text-slate-6"], [class*="text-neutral-4"], [class*="text-neutral-5"]) {
+    color: var(--muted-foreground) !important;
+}
+
+.nomai-command-palette input::placeholder,
+.nomai-command-palette textarea::placeholder {
+    color: var(--muted-foreground) !important;
+}
+
+.nomai-command-palette :where(.text-primary, [class*="text-emerald"], .group-hover\:text-primary) {
+    color: var(--primary) !important;
+}
+
+.nomai-command-palette :where(.text-destructive) {
+    color: var(--destructive) !important;
+}
+
+.nomai-command-palette :where([class*="border-white"], [class*="border-slate"], .border-border\/70) {
+    border-color: var(--command-palette-border) !important;
+}
+
+/* Sonner toast notifications use the same glass surface as small overlays. */
+[data-sonner-toast] {
+    background: var(--glass-bg) !important;
+    backdrop-filter: blur(20px) !important;
+    -webkit-backdrop-filter: blur(20px) !important;
+    border: 1px solid var(--glass-border) !important;
+    box-shadow: 0 12px 48px rgba(0, 0, 0, 0.15) !important;
+    color: var(--foreground) !important;
+}
+
+.dark [data-sonner-toast],
+[class*="theme-"].dark [data-sonner-toast] {
+    box-shadow: 0 12px 48px rgba(0, 0, 0, 0.45) !important;
+}
+
+[data-sonner-toast][data-type="success"] {
+    border-color: rgba(34, 197, 94, 0.3) !important;
+}
+
+[data-sonner-toast][data-type="error"] {
+    border-color: rgba(239, 68, 68, 0.3) !important;
+}
+
+[data-sonner-toast][data-type="warning"] {
+    border-color: rgba(234, 179, 8, 0.3) !important;
+}
+
+[data-sonner-toast][data-type="info"] {
+    border-color: rgba(59, 130, 246, 0.3) !important;
+}
+
+[data-sonner-toast] [data-description] {
+    color: var(--muted-foreground) !important;
+}
+
+[data-sonner-toast] [data-button],
+[data-sonner-toast] [data-cancel],
+[data-sonner-toast] [data-close-button] {
+    background: var(--glass-bg) !important;
+    backdrop-filter: blur(10px) !important;
+    -webkit-backdrop-filter: blur(10px) !important;
+    border: 1px solid var(--glass-border) !important;
+    color: var(--foreground) !important;
+    transition: opacity 0.2s ease !important;
+}
+
+[data-sonner-toast] [data-cancel] {
+    color: var(--muted-foreground) !important;
+}
+
+[data-sonner-toast] [data-button]:hover,
+[data-sonner-toast] [data-cancel]:hover,
+[data-sonner-toast] [data-close-button]:hover {
+    opacity: 0.9 !important;
+}
+
+/* ============================================================
+   SIDEBAR GLASS DOCK — theme-aware icon colors
+   ============================================================ */
+.sidebar-dock-icon {
+    color: var(--glass-icon);
+    transition: color 0.2s, background 0.2s, transform 0.2s;
+}
+
+.sidebar-dock-icon:hover {
+    color: var(--glass-icon-hover);
+    background: var(--glass-icon-bg-hover);
+}
+
+/* ============================================================
+   EDITOR (PAPER) STYLES
+   ============================================================ */
+/*
+  Default body copy color on the ProseMirror root only. Do NOT use `.a4-page *`:
+  that sets an explicit `color` on every descendant (strong, u, em, …), which
+  overrides inheritance from ancestor spans with inline TextStyle colors.
+*/
+.a4-page .ProseMirror {
+    color: var(--editor-text);
+}
+
+/* Break markers: theme UI (muted), not body copy */
+.a4-page .ProseMirror .nomai-break-label,
+.a4-page .ProseMirror p[data-nomai-section-start]::before {
+    color: var(--muted-foreground) !important;
+}
+
+/* Pagination Plus Styles */
+.ProseMirror .page {
+    outline: 1px solid var(--editor-border);
+    outline-offset: 0;
+    box-shadow: 0 1px 8px rgba(0, 0, 0, 0.08);
+    background: transparent;
+}
+
+/*
+  NOT: `[data-rm-pagination] .page` düğümleri PaginationPlus'ın 0 genişlikli (boş)
+  dikey aralık float'larıdır; gerçek editör metni bu düğümlerin İÇİNDE değil,
+  `[data-rm-pagination]` ile kardeş olarak akar. Bu yüzden `.page { overflow: clip }`
+  hiçbir metni kırpmaz (ölçülen genişlik = 0px). Eski "band-aid" kuralı kaldırıldı;
+  metin taşması/harf-harf sarılma artık paragraf kutusu + asılı girinti clamp'i ile
+  kaynağında engelleniyor (aşağıya bakın).
+*/
+
+/*
+  UYAP hanging indent = padding-left + negatif text-indent. Varsayılan content-box
+  padding'i blok genişliğine ekler → metin sağ kenardan taşar, sayfa aralığında
+  harf harf sarılır. border-box padding'i iç genişlikten düşer.
+
+  Ek savunma: çok dar bir sayfa/içerik kutusunda (zoom, dar dock, büyük marj) metin
+  sütunu 0'a yaklaşırsa `overflow-wrap` kelimeleri harf harf dikey istifler. Kelime
+  kırma yalnızca GERÇEKTEN sığmayan (boşluksuz) token'larda olsun; kısa kelimeler
+  asla tek-harf sütununa parçalanmasın diye `word-break: normal` + `overflow-wrap`
+  kontrollü tutulur. Tireli/kesik UYAP numaraları (`E-77105351-010.03-1667/30514`)
+  tire ve `/` doğal kırılma fırsatlarıyla zaten sarılır.
+*/
+.ProseMirror.rm-with-pagination :where(p, h1, h2, h3, h4, h5, h6, li) {
+    box-sizing: border-box;
+    max-width: 100%;
+    word-break: normal;
+    overflow-wrap: break-word;
+}
+
+/*
+  Alt sayfa boşluğu `padding-bottom: var(--rm-margin-bottom)` ile gelir (headerFooter.css).
+  Eski sürümlerde footer’a ek `margin-bottom` binmesini bu kural engeller; çift boşluk olmasın.
+*/
+.ProseMirror.rm-with-pagination [data-rm-pagination] .rm-page-break .rm-page-footer {
+    margin-bottom: 0 !important;
+}
+
+/* Hide page numbers */
+.ProseMirror .page-number,
+.ProseMirror span[data-page-number] {
+    color: transparent !important;
+    opacity: 0 !important;
+}
+
+/* ── Page Break & Section Break Node Visuals ────────────────────────────── */
+
+/* Atom node outer shell — keeps PaginationPlus measuring correctly */
+.ProseMirror .page-break {
+    display: block;
+    margin: 3px 0;
+    user-select: none;
+    cursor: default;
+    /* print: force a real page break */
+    break-after: page;
+}
+
+/* Inner flex row: line ─── label (skeleton strip, @see components/ui/skeleton.tsx) ─── line */
+.ProseMirror .nomai-break-visual {
+    display: flex;
+    align-items: center;
+    gap: 8px;
+    min-height: 1.375rem;
+    padding: 0 2px;
+    pointer-events: none;
+}
+
+.ProseMirror .nomai-break-line {
+    flex: 1;
+    display: block;
+    height: 0;
+    border-top: 1px dashed color-mix(in srgb, var(--border) 70%, transparent);
+}
+
+/* Single-line skeleton placeholder: bg-muted + muted-foreground (theme-aware) */
+.ProseMirror .nomai-break-label {
+    flex-shrink: 0;
+    display: inline-flex;
+    align-items: center;
+    min-height: 1.25rem;
+    padding: 0.125rem 0.5rem;
+    font-size: 0.625rem;
+    font-weight: 500;
+    letter-spacing: 0.06em;
+    text-transform: uppercase;
+    font-family: var(--font-sans, ui-sans-serif, system-ui, sans-serif);
+    line-height: 1.25;
+    white-space: nowrap;
+    color: var(--muted-foreground);
+    background: var(--muted);
+    border: none;
+    border-radius: 0.375rem;
+    box-shadow: inset 0 0 0 1px color-mix(in srgb, var(--border) 35%, transparent);
+}
+
+/* Section break (next page) — same skeleton strip as page break */
+.ProseMirror .page-break[data-break-kind="sectionNext"] .nomai-break-line {
+    border-top-color: color-mix(in srgb, var(--border) 70%, transparent);
+}
+
+.ProseMirror .page-break[data-break-kind="sectionNext"] .nomai-break-label {
+    color: var(--muted-foreground);
+    background: var(--muted);
+    box-shadow: inset 0 0 0 1px color-mix(in srgb, var(--border) 35%, transparent);
+}
+
+/* Section break continuous — paragraph-marker styling */
+.ProseMirror p[data-nomai-section-start="continuous"] {
+    position: relative;
+    border-top: 1.5px dashed hsl(var(--muted-foreground) / 0.28);
+    padding-top: 6px;
+    margin-top: 4px;
+    user-select: none;
+    cursor: default;
+}
+
+.ProseMirror p[data-nomai-section-start="nextPage"] {
+    position: relative;
+    border-top: 1.5px solid color-mix(in srgb, var(--accent) 20%, transparent);
+    padding-top: 6px;
+    margin-top: 4px;
+    user-select: none;
+    cursor: default;
+}
+
+.ProseMirror p[data-nomai-section-start="continuous"]::before {
+    content: 'Bölüm Sonu — Devam';
+    position: absolute;
+    top: 0;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    font-size: 0.625rem;
+    font-weight: 500;
+    letter-spacing: 0.06em;
+    text-transform: uppercase;
+    font-family: var(--font-sans, ui-sans-serif, system-ui, sans-serif);
+    white-space: nowrap;
+    padding: 0.125rem 0.5rem;
+    pointer-events: none;
+    user-select: none;
+    border-radius: 0.375rem;
+    color: var(--muted-foreground);
+    background: var(--muted);
+    box-shadow: inset 0 0 0 1px color-mix(in srgb, var(--border) 35%, transparent);
+}
+
+.ProseMirror p[data-nomai-section-start="nextPage"]::before {
+    content: 'Bölüm Başlangıcı';
+    position: absolute;
+    top: 0;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    font-size: 0.625rem;
+    font-weight: 500;
+    letter-spacing: 0.06em;
+    text-transform: uppercase;
+    font-family: var(--font-sans, ui-sans-serif, system-ui, sans-serif);
+    white-space: nowrap;
+    padding: 0.125rem 0.5rem;
+    pointer-events: none;
+    user-select: none;
+    border-radius: 0.375rem;
+    color: var(--muted-foreground);
+    background: var(--muted);
+    box-shadow: inset 0 0 0 1px color-mix(in srgb, var(--border) 35%, transparent);
+}
+
+/* TipTap Placeholder
+   - `is-editor-empty`: editör tamamen boşken ProseMirror kökünde
+   - `is-empty`: boş node'larda (p, heading, vb.)
+   Enter ile yeni boş paragraf açınca placeholder tekrar görünmesin diye
+   sadece `.ProseMirror.is-editor-empty` iken render ediyoruz. */
+:where(
+        /* Yaygın durum: class doğrudan ProseMirror kökünde */
+        .ProseMirror.is-editor-empty,
+        /* Bazı editor'lerde class dış wrapper'a eklenebiliyor */
+        .tiptap.is-editor-empty .ProseMirror
+    )
+    :where(p, h1, h2, h3, h4, h5, h6).is-empty::before,
+/* Fallback: bazı kurulumlarda `is-editor-empty` node’un kendisine (ilk paragraf) eklenebiliyor */
+.ProseMirror :where(p, h1, h2, h3, h4, h5, h6).is-editor-empty::before {
+    content: attr(data-placeholder);
+    /*
+      Placeholder'ı layout akışından çıkarıyoruz ki caret (imleç) en üstte kalsın.
+      İstek: placeholder gerekirse 1 satır aşağıdan başlasın.
+    */
+    display: block;
+    position: absolute;
+    top: 1.25em;
+    left: 0;
+    right: 0;
+    pointer-events: none;
+    user-select: none;
+    white-space: pre-line;
+    color: hsl(var(--muted-foreground));
+    opacity: 0.72;
+    line-height: 1.45;
+}
+
+/* Absolute placeholder için anchor: boş ilk blok relative olmalı. */
+.ProseMirror :where(p, h1, h2, h3, h4, h5, h6).is-empty {
+    position: relative;
+}
+
+.ProseMirror {
+    outline: none;
+    min-height: 100%;
+    /* ProseMirror-view: whitespace + wrapping (quiet checkCSS / caret correctness) */
+    white-space: pre-wrap;
+    /* UYAP's silent tab stops advance by about 2.5 cm when no paragraph TabSet exists. */
+    tab-size: 2.5cm;
+    word-wrap: break-word;
+}
+
+/* Document heading scale — editor (toolbar “Başlık 1–6” ile uyumlu hiyerarşi) */
+.ProseMirror :where(h1, h2, h3, h4, h5, h6) {
+    font-weight: 600;
+    line-height: 1.28;
+    margin-top: 0.45em;
+    margin-bottom: 0.35em;
+}
+.ProseMirror h1 {
+    font-size: 1.875rem;
+    font-weight: 700;
+    letter-spacing: -0.02em;
+}
+.ProseMirror h2 {
+    font-size: 1.5rem;
+    font-weight: 700;
+}
+.ProseMirror h3 {
+    font-size: 1.25rem;
+    font-weight: 600;
+}
+.ProseMirror h4 {
+    font-size: 1.125rem;
+    font-weight: 600;
+}
+.ProseMirror h5 {
+    font-size: 1rem;
+    font-weight: 600;
+}
+.ProseMirror h6 {
+    font-size: 0.875rem;
+    font-weight: 600;
+    text-transform: none;
+}
+
+/*
+  PaginationPlus `width` + `padding-left/right` (sayfa marjları) ile birlikte:
+  content-box iken dış genişlik = width + padding → grid sütunu (pageWidth) ile çakışır,
+  sayfa arası beyaz şerit yatay marj değişince zıplar. border-box: dış boyut = width.
+*/
+.ProseMirror.rm-with-pagination {
+    box-sizing: border-box;
+}
+
+/* Kağıt sütunu zaten grid’de sabit px; %100 üst bloktan küçülüp % tabanlı şerit hatasına yol açmasın */
+.ProseMirror.rm-with-pagination [data-rm-pagination] {
+    box-sizing: border-box;
+    max-width: var(--rm-page-width, 794px);
+}
+
+/*
+  Sayfa kırığı (.breaker) ve sayfa arası beyaz şerit (.rm-pagination-gap):
+  — Genişlik her zaman sabit kağıt pikseli: var(--rm-page-width) (PaginationPlus ile aynı).
+  — % veya "içerik sütunu" tabanı KULLANMA: paragraf cetveli (asılı/ilk satır/sağ girinti)
+    değişince %, yanlış üst bloktan hesaplanıp şeridi metin sütununa kilitleyebiliyordu.
+  — Negatif margin yalnızca üst kutunun sayfa padding’i (--rm-margin-left/right) ile
+    tam kağıt kenarına hizalamak içindir; bu sayfa marjıdır, paragraf girintisi değildir.
+*/
+.ProseMirror.rm-with-pagination [data-rm-pagination] .breaker {
+    box-sizing: border-box;
+    width: var(--rm-page-width, 794px) !important;
+    min-width: var(--rm-page-width, 794px) !important;
+    max-width: none !important;
+    margin-left: calc(-1 * var(--rm-margin-left, 0px)) !important;
+    margin-right: calc(-1 * var(--rm-margin-right, 0px)) !important;
+    position: relative;
+    z-index: 10;
+    clear: both;
+}
+
+.ProseMirror.rm-with-pagination .rm-pagination-gap {
+    box-sizing: border-box;
+    /* 1px kenar çizgileri için eklentiyle uyum; genişlik yine sabit px — % yok */
+    width: calc(var(--rm-page-width, 794px) + 2px) !important;
+    min-width: calc(var(--rm-page-width, 794px) + 2px) !important;
+    max-width: none !important;
+    margin-left: 0 !important;
+    margin-right: 0 !important;
+    left: -1px !important;
+    position: relative;
+    display: block;
+    float: none !important;
+    clear: both;
+}
+
+/* Paragraf / başlık sıra numaraları (kenar çubuğu — fiziksel satır değil, blok bazlı) */
+.udfix-editor-line-numbers .ProseMirror {
+    counter-reset: udfix-line-gutter;
+    padding-left: 0;
+    overflow: visible;
+}
+
+.udfix-editor-line-numbers .ProseMirror :where(p, h1, h2, h3, h4, h5, h6) {
+    position: relative;
+}
+
+.udfix-editor-line-numbers .ProseMirror :where(p, h1, h2, h3, h4, h5, h6)::before {
+    counter-increment: udfix-line-gutter;
+    content: counter(udfix-line-gutter);
+    position: absolute;
+    left: -5rem;
+    width: 3.2rem;
+    text-align: right;
+    font-size: 10px;
+    line-height: 1.5;
+    padding-top: 0.2em;
+    color: var(--muted-foreground);
+    opacity: 0.8;
+    pointer-events: none;
+    user-select: none;
+    font-variant-numeric: tabular-nums;
+}
+
+/* Header/footer widget content must not affect body line counters. */
+.udfix-editor-line-numbers
+    .ProseMirror
+    :where(
+        .rm-page-header,
+        .rm-page-footer,
+        .rm-first-page-header,
+        .rm-page-header-left,
+        .rm-page-header-right,
+        .rm-page-footer-left,
+        .rm-page-footer-right
+    )
+    :where(p, h1, h2, h3, h4, h5, h6)::before {
+    content: none !important;
+    counter-increment: none !important;
+}
+
+/* Sequential Footnotes */
+sup.footnote-ref {
+    position: relative;
+    cursor: pointer;
+    color: var(--primary);
+    font-size: 0.75rem;
+    font-weight: 600;
+    vertical-align: super;
+    line-height: 0;
+    padding: 1px 1px;
+    margin: 1px 1px;
+    border-radius: 4px;
+    transition: all 0.2s;
+    user-select: none;
+}
+
+sup.footnote-ref::after {
+    content: attr(data-footnote-number);
+}
+
+sup.footnote-ref:hover,
+sup.footnote-ref.ProseMirror-selectednode {
+    background-color: color-mix(in srgb, var(--primary) 15%, transparent);
+    transform: translateY(-1px);
+}
+
+/* Ordered List styles are in /styles/lists.css */
+
+/* ============================================================
+   TASK LIST (CHECKLIST) — checkbox & text on same line
+   ============================================================ */
+.ProseMirror ul[data-type="taskList"] {
+    list-style: none;
+    padding-left: 0;
+    margin: 0.25em 0;
+}
+
+.ProseMirror ul[data-type="taskList"] li {
+    display: flex;
+    align-items: flex-start;
+    gap: 0.5em;
+    margin: 0.15em 0;
+}
+
+/* The label wrapper that Tiptap renders */
+.ProseMirror ul[data-type="taskList"] li>label {
+    flex-shrink: 0;
+    display: flex;
+    align-items: center;
+    margin-top: 0.15em;
+    cursor: pointer;
+}
+
+.ProseMirror ul[data-type="taskList"] li>label input[type="checkbox"] {
+    width: 1em;
+    height: 1em;
+    cursor: pointer;
+    accent-color: var(--primary);
+    flex-shrink: 0;
+}
+
+/* The text content div stays on same line, never wraps under checkbox */
+.ProseMirror ul[data-type="taskList"] li>div {
+    flex: 1;
+    min-width: 0;
+}
+
+.ProseMirror ul[data-type="taskList"] li>div>p {
+    margin: 0;
+}
+
+/* Checked state: strike-through + muted */
+.ProseMirror ul[data-type="taskList"] li[data-checked="true"]>div {
+    text-decoration: line-through;
+    opacity: 0.55;
+}
+
+
+
+/* Table Styling */
+.ProseMirror table {
+    border-collapse: collapse;
+    width: 100%;
+    margin: 1.5em 0;
+}
+
+.ProseMirror td,
+.ProseMirror th {
+    border: 1px solid var(--editor-border);
+    padding: 8px 12px;
+}
+
+.ProseMirror th {
+    background: var(--muted);
+    color: var(--foreground);
+    font-weight: 700;
+}
+
+/* Toolbar Icons */
+.material-symbols-sharp {
+    line-height: 1;
+    display: inline-flex;
+}
+
+/* ============================================================
+   COMMENT HIGHLIGHTS
+   ============================================================ */
+.comment-highlight {
+    background-color: rgba(251, 191, 36, 0.3);
+    border-bottom: 2px solid rgba(251, 191, 36, 0.6);
+    cursor: pointer;
+    transition: all 0.2s ease;
+    position: relative;
+}
+
+.comment-highlight:hover {
+    background-color: rgba(251, 191, 36, 0.4);
+    border-bottom-color: rgba(251, 191, 36, 0.8);
+}
+
+.comment-highlight[data-comment-selected="true"] {
+    background-color: rgba(251, 191, 36, 0.5);
+    border-bottom: 2px solid rgba(251, 191, 36, 1);
+    box-shadow: 0 0 0 3px rgba(251, 191, 36, 0.2);
+}
+
+.comment-highlight[data-comment-resolved="true"] {
+    background-color: rgba(156, 163, 175, 0.15);
+    border-bottom: 2px solid rgba(156, 163, 175, 0.3);
+}
+
+.comment-highlight[data-comment-resolved="true"]:hover {
+    background-color: rgba(156, 163, 175, 0.25);
+    border-bottom-color: rgba(156, 163, 175, 0.5);
+}
+
+.dark .comment-highlight,
+[class*="theme-"].dark .comment-highlight {
+    background-color: rgba(251, 191, 36, 0.15);
+    border-bottom-color: rgba(251, 191, 36, 0.4);
+}
+
+.dark .comment-highlight:hover,
+[class*="theme-"].dark .comment-highlight:hover {
+    background-color: rgba(251, 191, 36, 0.22);
+    border-bottom-color: rgba(251, 191, 36, 0.6);
+}
+
+.dark .comment-highlight[data-comment-selected="true"],
+[class*="theme-"].dark .comment-highlight[data-comment-selected="true"] {
+    background-color: rgba(251, 191, 36, 0.3);
+    border-bottom-color: rgba(251, 191, 36, 0.8);
+    box-shadow: 0 0 0 3px rgba(251, 191, 36, 0.1);
+}
+
+.dark .comment-highlight[data-comment-resolved="true"],
+[class*="theme-"].dark .comment-highlight[data-comment-resolved="true"] {
+    background-color: rgba(156, 163, 175, 0.1);
+    border-bottom-color: rgba(156, 163, 175, 0.2);
+}
+
+/* ============================================================
+   DOCKVIEW CUSTOM THEME (GLASS)
+   ============================================================ */
+/* Custom React tab content lives inside draggable .dv-tab — do not suppress native tab drag. */
+.dockview-theme-abyss .dv-tab > .dv-react-part {
+    height: 100%;
+    width: 100%;
+    min-width: 0;
+}
+
+.dockview-theme-abyss {
+    --dv-pane-background-color: transparent;
+    --dv-group-view-background-color: var(--background);
+    --dv-tabs-and-actions-container-background-color: var(--glass-dock-bg);
+    --dv-active-sash-color: var(--primary);
+    --dv-tab-divider-color: var(--border);
+    --dv-activegroup-visiblepanel-tab-background-color: transparent;
+    --dv-activegroup-hiddenpanel-tab-background-color: color-mix(in srgb, var(--muted) 40%, transparent);
+    --dv-inactivegroup-visiblepanel-tab-background-color: transparent;
+    --dv-inactivegroup-hiddenpanel-tab-background-color: color-mix(in srgb, var(--muted) 25%, transparent);
+    --dv-activegroup-visiblepanel-tab-color: var(--foreground);
+    --dv-activegroup-hiddenpanel-tab-color: var(--muted-foreground);
+    --dv-inactivegroup-visiblepanel-tab-color: var(--muted-foreground);
+    --dv-inactivegroup-hiddenpanel-tab-color: color-mix(in srgb, var(--muted-foreground) 65%, transparent);
+    --dv-separator-border: var(--border);
+    --dv-scrollbar-background-color: color-mix(in srgb, var(--foreground) 18%, transparent);
+}
+
+.dockview-theme-abyss .dv-tabs-and-actions-container {
+    height: 44px !important;
+    background: var(--glass-panel-bg) !important;
+    backdrop-filter: blur(12px);
+    border-bottom: 1px solid var(--border);
+    transition: height 0.3s ease, opacity 0.3s ease, border-color 0.3s ease;
+}
+
+.dockview-theme-abyss .dv-tabs-and-actions-container:has([data-entity-floating-tab]) {
+    height: 10px !important;
+    min-height: 10px !important;
+    background: transparent !important;
+    border-bottom-color: transparent;
+    backdrop-filter: none;
+}
+
+.dockview-theme-abyss .dv-tab:has([data-entity-floating-tab]) {
+    height: 10px !important;
+    min-height: 10px !important;
+    padding: 0 !important;
+}
+
+/* Zen / focus mode — minimal chrome, document-first */
+.zen-workspace {
+    --zen-vignette: color-mix(in srgb, var(--background) 88%, var(--foreground) 12%);
+}
+
+.zen-dockview-host .dockview-theme-abyss .dv-tabs-and-actions-container {
+    height: 0 !important;
+    min-height: 0 !important;
+    opacity: 0;
+    pointer-events: none;
+    overflow: hidden;
+    border-bottom-color: transparent;
+}
+
+.zen-dockview-host .dockview-theme-abyss .dv-content-container {
+    border-color: transparent !important;
+}
+
+.zen-editor-canvas {
+    background: var(--zen-vignette);
+    background-image: radial-gradient(
+        ellipse 80% 60% at 50% 42%,
+        color-mix(in srgb, var(--primary) 6%, transparent),
+        transparent 70%
+    );
+}
+
+[data-zen-toggle][aria-pressed='true'] {
+    animation: zen-toggle-glow 2.4s ease-in-out infinite;
+}
+
+@keyframes zen-toggle-glow {
+    0%,
+    100% {
+        box-shadow:
+            0 0 0 1px color-mix(in srgb, var(--primary) 35%, transparent),
+            0 0 20px color-mix(in srgb, var(--primary) 32%, transparent);
+    }
+    50% {
+        box-shadow:
+            0 0 0 1px color-mix(in srgb, var(--primary) 50%, transparent),
+            0 0 28px color-mix(in srgb, var(--primary) 48%, transparent);
+    }
+}
+
+@media (prefers-reduced-motion: reduce) {
+    [data-zen-toggle][aria-pressed='true'] {
+        animation: none;
+    }
+
+    .zen-dockview-host .dockview-theme-abyss .dv-tabs-and-actions-container,
+    .dockview-theme-abyss .dv-tabs-and-actions-container {
+        transition: none;
+    }
+}
+
+/* Sekme taşması: dockview’un kendi overflow + “N” dropdown’ını kullan (scroll override etme). */
+.dockview-theme-abyss .dv-tab-scrollable {
+    min-width: 0;
+}
+
+.dockview-theme-abyss .dv-tab {
+    background: transparent !important;
+    border: none !important;
+    color: var(--muted-foreground) !important;
+}
+
+.dockview-theme-abyss .dv-tab.dv-active-tab {
+    color: var(--foreground) !important;
+}
+
+/* Sürükle-bırak hedeflerinin dar sütunlarda takılmaması (çekirdekte contain: layout) */
+.dockview-theme-abyss.dv-dockview,
+.dockview-theme-abyss .dv-dockview {
+    contain: none;
+}
+
+.dockview-theme-abyss .dv-groupview {
+    min-width: 0;
+    min-height: 0;
+}
+
+.dockview-theme-abyss .dv-content-container {
+    background: var(--background) !important;
+    border: 1px solid var(--border) !important;
+}
+
+/* Cold-start empty dock canvas — light + dark palettes */
+.dockview-empty-canvas {
+    color: var(--muted-foreground);
+    background: color-mix(in srgb, var(--background) 92%, var(--card) 8%);
+}
+
+/* Full-screen empty workspace drop target (must stay above Dockview and receive pointer events). */
+.dockview-empty-canvas--drop-target {
+    pointer-events: auto;
+    z-index: 20;
+}
+
+.dockview-empty-canvas__card {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    gap: 0.75rem;
+    max-width: 20rem;
+    padding: 1.75rem 2rem;
+    text-align: center;
+    border-radius: 1rem;
+    border: 1px solid var(--border);
+    background: color-mix(in srgb, var(--card) 86%, var(--background) 14%);
+    backdrop-filter: blur(20px);
+    -webkit-backdrop-filter: blur(20px);
+    box-shadow: 0 8px 32px color-mix(in srgb, var(--foreground) 10%, transparent);
+}
+
+.dark .dockview-empty-canvas,
+[class*='theme-'].dark .dockview-empty-canvas {
+    background: var(--background);
+}
+
+.dark .dockview-empty-canvas__card,
+[class*='theme-'].dark .dockview-empty-canvas__card {
+    background: var(--glass-panel-bg);
+    box-shadow: 0 12px 40px rgba(0, 0, 0, 0.35);
+}
+
+.dockview-empty-canvas__icon {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    width: 3rem;
+    height: 3rem;
+    border-radius: 0.75rem;
+    background: color-mix(in srgb, var(--primary) 12%, var(--background));
+    color: var(--primary);
+}
+
+.dockview-empty-canvas__title {
+    font-size: 0.875rem;
+    font-weight: 600;
+    color: var(--foreground);
+}
+
+.dockview-empty-canvas__hint {
+    font-size: 0.75rem;
+    line-height: 1.45;
+    color: var(--muted-foreground);
+}
+
+/* Scrollbar styling */
+.dockview-theme-abyss ::-webkit-scrollbar {
+    width: 6px;
+    height: 6px;
+}
+
+.dockview-theme-abyss ::-webkit-scrollbar-track {
+    background: transparent;
+}
+
+.dockview-theme-abyss ::-webkit-scrollbar-thumb {
+    background: var(--border);
+    border-radius: 10px;
+}
+
+.dockview-theme-abyss ::-webkit-scrollbar-thumb:hover {
+    background: var(--muted-foreground);
+}
+
+/* Drag and Drop feedback */
+@keyframes pulse-primary {
+    0% {
+        box-shadow: 0 0 0 0 color-mix(in srgb, var(--primary) 40%, transparent);
+    }
+
+    70% {
+        box-shadow: 0 0 0 15px color-mix(in srgb, var(--primary) 0%, transparent);
+    }
+
+    100% {
+        box-shadow: 0 0 0 0 color-mix(in srgb, var(--primary) 0%, transparent);
+    }
+}
+
+.drag-active {
+    animation: pulse-primary 1.5s infinite;
+}
+
+/* Comment Decoration Highlight */
+.comment-active-highlight {
+    background-color: rgba(251, 191, 36, 0.5) !important;
+    border-bottom: 2px solid rgba(251, 191, 36, 1) !important;
+    box-shadow: 0 0 0 3px rgba(251, 191, 36, 0.2) !important;
+    z-index: 10;
+    position: relative;
+    border-radius: 2px;
+}
+
+.dark .comment-active-highlight,
+[class*="theme-"].dark .comment-active-highlight {
+    background-color: rgba(251, 191, 36, 0.3) !important;
+    border-bottom-color: rgba(251, 191, 36, 0.8) !important;
+    box-shadow: 0 0 0 3px rgba(251, 191, 36, 0.1) !important;
+}
+
+/* ============================================================ 
+   UNIVERSAL VIEWER DARK MODE (Invert Trick)
+   ============================================================ */
+.dark-mode-pdf-canvas {
+    filter: invert(1) hue-rotate(180deg) brightness(1.1) contrast(1.1);
+}
+
+/* ============================================================
+   PDF.JS TEXTLAYER OVERRIDES
+   pdf_viewer.css sets color-scheme:only light which hides the
+   text layer in Electron dark mode. Reset it here.
+   Also ensure text is always selectable and pointer events work.
+   ============================================================ */
+.textLayer {
+    color-scheme: unset !important;
+    user-select: text !important;
+    -webkit-user-select: text !important;
+    pointer-events: auto !important;
+    cursor: text;
+}
+
+/* PDF.js renders spans with position:absolute — make sure they are selectable */
+.textLayer span,
+.textLayer br {
+    color: transparent !important;
+    /* PDF font names often lack Turkish glyphs; system stack keeps selection metrics stable */
+    font-family: system-ui, -apple-system, "Segoe UI", Roboto, "Noto Sans", sans-serif !important;
+    user-select: text !important;
+    -webkit-user-select: text !important;
+    pointer-events: auto !important;
+    cursor: text;
+}
+
+/* ============================================================
+   OCR OVERLAY (ImageViewer / TIFFViewer / PDFPage)
+   Invisible but fully selectable and copyable text overlay.
+   ============================================================ */
+.ocr-overlay {
+    position: absolute;
+    inset: 0;
+    overflow: hidden;
+    pointer-events: none;
+    /* container geçirgen — span'ler kendi pointer-events'ini override eder */
+}
+
+.ocr-overlay[data-select="true"] {
+    pointer-events: auto;
+    user-select: text;
+    -webkit-user-select: text;
+    cursor: text;
+}
+
+/* ============================================================
+   OCR WORD STYLING
+   ============================================================ */
+.ocr-word {
+    position: absolute;
+    color: transparent !important;
+    white-space: pre !important;
+    /* Boşlukları koru ki kopyalayınca bitişik olmasın */
+    line-height: 1 !important;
+    transform-origin: 0 0;
+    user-select: text !important;
+    -webkit-user-select: text !important;
+    pointer-events: auto !important;
+    cursor: text;
+}
+
+/* 
+   Şeffaf metni seçince görünür yapmak için arka plan rengi ekle 
+   PDFPage içindeki textLayer span'lerini de kapsar
+*/
+.ocr-word::selection,
+.textLayer span::selection {
+    background: Highlight !important;
+    background: rgba(0, 120, 215, 0.4) !important;
+    /* Standart seçim mavisi */
+    color: transparent !important;
+}
+
+/* ============================================================
+   VIEWER SEARCH HIGHLIGHT (mark.js)
+   ============================================================ */
+.viewer-search-highlight {
+    background-color: rgba(255, 213, 0, 0.45);
+    color: inherit;
+    border-radius: 2px;
+    padding: 0 1px;
+    box-shadow: 0 0 0 1px rgba(255, 213, 0, 0.25);
+}
+
+.dark .viewer-search-highlight,
+[class*="theme-"].dark .viewer-search-highlight {
+    background-color: rgba(255, 213, 0, 0.35);
+    box-shadow: 0 0 0 1px rgba(255, 213, 0, 0.2);
+}
+
+.viewer-search-highlight.viewer-search-highlight-active {
+    background-color: rgba(245, 158, 11, 0.75);
+    box-shadow: 0 0 0 2px rgba(245, 158, 11, 0.5);
+    border-radius: 2px;
+}
+
+.dark .viewer-search-highlight.viewer-search-highlight-active,
+[class*="theme-"].dark .viewer-search-highlight.viewer-search-highlight-active {
+    background-color: rgba(251, 191, 36, 0.55);
+    box-shadow: 0 0 0 2px rgba(251, 191, 36, 0.45);
+}
+
+/* Inside dark-mode-pdf-canvas the parent has filter:invert(1) hue-rotate(180deg).
+   Use a pre-inverted blue that becomes yellow after the parent's invert.
+   rgba(0, 42, 255, 0.45) → inverted → approx. rgba(255, 213, 0, 0.45) */
+.dark-mode-pdf-canvas .viewer-search-highlight,
+.dark-mode-pdf-canvas .pdf-search-highlight {
+    background-color: rgba(0, 42, 255, 0.45) !important;
+    box-shadow: 0 0 0 1px rgba(0, 42, 255, 0.25) !important;
+    color: inherit !important;
+    border-radius: 2px;
+}
+
+/* PDF search highlight base style */
+.pdf-search-highlight {
+    background-color: rgba(255, 213, 0, 0.45);
+    color: transparent !important;
+    border-radius: 2px;
+    padding: 0 1px;
+}
+
+/* Active search result — current Enter-navigated match */
+.search-active-highlight {
+    outline: 2px solid rgba(255, 140, 0, 0.8) !important;
+    outline-offset: 1px;
+}
+
+.dark-mode-pdf-canvas .search-active-highlight {
+    outline-color: rgba(0, 115, 255, 0.8) !important;
+}
+
+/* ============================================================
+   EDITOR SEARCH HIGHLIGHT (Tiptap Search Extension)
+   ============================================================ */
+.search-result {
+    background-color: rgba(255, 213, 0, 0.45);
+    border-bottom: 2px solid #eab308;
+    border-radius: 2px;
+}
+
+.dark .search-result {
+    background-color: rgba(234, 179, 8, 0.3);
+    border-bottom: 2px solid #ca8a04;
+}
+
+/* Current find match (selection synced with Önceki / Sonraki) */
+.search-result.search-result-active {
+    background-color: rgba(245, 158, 11, 0.85);
+    border-bottom: 2px solid #d97706;
+    box-shadow: 0 0 0 2px rgba(245, 158, 11, 0.45);
+    color: inherit;
+}
+
+.dark .search-result.search-result-active {
+    background-color: rgba(251, 191, 36, 0.5);
+    border-bottom-color: #fbbf24;
+    box-shadow: 0 0 0 2px rgba(251, 191, 36, 0.35);
+}
+
+/* Print target: A5 output while editor stays fixed A4 runtime. */
+@media print {
+    @page {
+        size: A5 portrait;
+        margin: 10mm;
+    }
+}
+
+/* USER GUIDANCE — expanded rail tiles (icon + compact word labels) */
+.guidance-rail-btn--expanded {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: flex-start;
+    width: 100%;
+    min-width: 3.25rem;
+    padding: 0.3125rem 0.25rem 0.4375rem;
+    gap: 0;
+}
+
+.guidance-rail-btn__icon {
+    display: flex;
+    flex-shrink: 0;
+    align-items: center;
+    justify-content: center;
+    width: 2.25rem;
+    height: 2.25rem;
+}
+
+.guidance-rail-btn__label-zone {
+    display: flex;
+    width: 100%;
+    align-items: center;
+    justify-content: center;
+    margin-top: 0.1875rem;
+    padding-top: 0.3125rem;
+    border-top: 1px solid color-mix(in srgb, var(--border) 70%, transparent);
+}
+
+.guidance-rail-btn.bg-primary.text-primary-foreground .guidance-rail-btn__label-zone {
+    border-top-color: color-mix(in srgb, var(--primary-foreground) 28%, transparent);
+}
+
+.guidance-rail-label {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    gap: 0.0625rem;
+    width: 100%;
+    max-width: 100%;
+}
+
+.guidance-rail-label__line {
+    display: block;
+    max-width: 100%;
+    overflow: hidden;
+    text-overflow: ellipsis;
+    font-size: 0.625rem;
+    font-weight: 700;
+    line-height: 1.15;
+    letter-spacing: 0.01em;
+    text-align: center;
+    white-space: nowrap;
+    color: hsl(var(--foreground) / 0.92);
+    user-select: none;
+    pointer-events: none;
+}
+
+.guidance-rail-btn.bg-primary.text-primary-foreground .guidance-rail-label__line {
+    color: hsl(var(--primary-foreground));
+}
+
+.guidance-rail-btn--expanded:hover .guidance-rail-label__line {
+    color: hsl(var(--foreground));
+}
+
+.dark .guidance-rail-label__line {
+    color: hsl(0 0% 96%);
+    text-shadow: 0 1px 1px hsl(0 0% 0% / 0.35);
+}
+
+.dark .guidance-rail-btn.bg-primary.text-primary-foreground .guidance-rail-label__line {
+    color: hsl(var(--primary-foreground));
+    text-shadow: none;
+}
+
+.guidance-rail-scroll {
+    scrollbar-width: thin;
+    scrollbar-color: color-mix(in srgb, var(--border) 80%, transparent) transparent;
+}
+
+.guidance-rail-scroll::-webkit-scrollbar {
+    width: 4px;
+}
+
+.guidance-rail-scroll::-webkit-scrollbar-thumb {
+    border-radius: 999px;
+    background: color-mix(in srgb, var(--border) 80%, transparent);
+}
+
+:root[data-user-guidance='true'] [data-layout-rail] {
+    gap: 0.5rem;
+}
+
+/* ============================================================
+   NOTE EDITOR — StarterKit lists (not Udfix legal list engine)
+   Global lists.css targets ExtendedOrderedList; without overrides
+   ordered markers disappear and li max-width squeezes content.
+   ============================================================ */
+.note-editor .ProseMirror ol,
+.note-editor .ProseMirror ul:not([data-type="taskList"]) {
+    list-style-position: outside;
+    padding-left: 1.5em;
+    margin: 0.35em 0;
+    max-width: 100%;
+}
+
+.note-editor .ProseMirror ol {
+    list-style-type: decimal;
+}
+
+.note-editor .ProseMirror ul:not([data-type="taskList"]) {
+    list-style-type: disc;
+}
+
+.note-editor .ProseMirror ol li,
+.note-editor .ProseMirror ul:not([data-type="taskList"]) > li {
+    margin-left: 0;
+    max-width: 100%;
+    display: list-item;
+}
+
+.note-editor .ProseMirror ol li::before,
+.note-editor .ProseMirror ul:not([data-type="taskList"]) > li::before {
+    content: none !important;
+    display: none !important;
+}
+
+.note-editor .ProseMirror ol li > p,
+.note-editor .ProseMirror ul:not([data-type="taskList"]) > li > p {
+    margin-left: 0 !important;
+    text-indent: 0 !important;
+}
+
+.note-editor .ProseMirror .nomai-wiki-link-chip,
+.note-editor .ProseMirror [data-wiki-note-link="1"] {
+    color: hsl(201 85% 26%);
+    background: hsl(199 70% 93%);
+    border: 1px solid hsl(199 42% 68%);
+    border-radius: 0.25rem;
+    padding: 0.05em 0.2em;
+    box-decoration-break: clone;
+    -webkit-box-decoration-break: clone;
+    font-weight: 500;
+    cursor: text;
+}
+
+.dark .note-editor .ProseMirror .nomai-wiki-link-chip,
+.dark .note-editor .ProseMirror [data-wiki-note-link="1"],
+[class*='theme-'].dark .note-editor .ProseMirror .nomai-wiki-link-chip,
+[class*='theme-'].dark .note-editor .ProseMirror [data-wiki-note-link="1"] {
+    color: hsl(199 75% 88%);
+    background: hsl(199 35% 20%);
+    border-color: hsl(199 30% 42%);
+}
+
+.note-editor .ProseMirror ul[data-type="taskList"] {
+    list-style: none;
+    padding-left: 0;
+    margin: 0.35em 0;
+}
+
+.note-editor .ProseMirror ul[data-type="taskList"] li {
+    display: flex;
+    align-items: flex-start;
+    gap: 0.5em;
+    margin: 0.12em 0;
+    max-width: 100%;
+}
+
+.note-editor .ProseMirror ul[data-type="taskList"] li[data-checked="true"] > div {
+    text-decoration: line-through;
+    opacity: 0.55;
+}
+
+.note-editor .ProseMirror ul[data-type="taskList"] li[data-task-id] {
+    position: relative;
+}
+
+.note-editor .ProseMirror ul[data-type="taskList"] li[data-task-id]::after {
+    content: 'görev';
+    flex-shrink: 0;
+    margin-left: auto;
+    align-self: center;
+    border-radius: 0.25rem;
+    border: 1px solid color-mix(in oklab, var(--color-emerald-500, #10b981) 35%, transparent);
+    background: color-mix(in oklab, var(--color-emerald-500, #10b981) 12%, transparent);
+    color: color-mix(in oklab, var(--color-emerald-700, #047857) 90%, white);
+    font-size: 9px;
+    font-weight: 600;
+    letter-spacing: 0.02em;
+    padding: 1px 5px;
+    text-transform: lowercase;
+}

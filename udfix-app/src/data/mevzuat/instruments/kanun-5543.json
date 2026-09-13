@@ -1,0 +1,1067 @@
+{
+  "id": "kanun:5543",
+  "kind": "kanun",
+  "no": "5543",
+  "title": "İskân Kanunu",
+  "shortName": "İskân Kanunu",
+  "aliases": [
+    "İskân Kanunu",
+    "5543"
+  ],
+  "tur": 1,
+  "tertip": 5,
+  "sourceUrl": "https://www.mevzuat.gov.tr/mevzuat?MevzuatNo=5543&MevzuatTur=1&MevzuatTertip=5",
+  "kabulTarihi": "19/9/2006",
+  "maddeCount": 62,
+  "maddeler": [
+    {
+      "id": "kanun:5543:m:1",
+      "maddeKind": "madde",
+      "maddeNo": "1",
+      "heading": "Madde 1",
+      "text": "(1) Bu Kanunun amacı; göçmenlerin, göçebelerin, yerleri kamulaştırılanlar ile millî güvenlik nedeniyle yapılacak iskân çalışmalarını, köylerde fiziksel yerleşimin düzenlenmesine ilişkin uygulamaya esas şartları ve alınacak tedbirleri, iskân edilenlerin hak ve yükümlülüklerini düzenlemektir.",
+      "preview": "(1) Bu Kanunun amacı; göçmenlerin, göçebelerin, yerleri kamulaştırılanlar ile millî güvenlik nedeniyle yapılacak iskân çalışmalarını, köyler…",
+      "kitap": null,
+      "kisim": null,
+      "bolum": null,
+      "ayirim": null,
+      "maddeBaslik": null,
+      "sectionPath": []
+    },
+    {
+      "id": "kanun:5543:m:2",
+      "maddeKind": "madde",
+      "maddeNo": "2",
+      "heading": "Madde 2",
+      "text": "(1) Bu Kanun; yurt dışından gelen göçmenlerin, yerleri kamulaştırılanların, göçebelerin ve millî güvenlik nedeniyle yerlerinin değiştirilmesine karar verilenlerin iskânı ile köylerin toplulaştırılmasına ve fiziksel yerleşimin düzenlenmesine ilişkin uygulamaya esas alınacak tedbirlere dair hükümleri kapsar.",
+      "preview": "(1) Bu Kanun; yurt dışından gelen göçmenlerin, yerleri kamulaştırılanların, göçebelerin ve millî güvenlik nedeniyle yerlerinin değiştirilmes…",
+      "kitap": null,
+      "kisim": null,
+      "bolum": null,
+      "ayirim": null,
+      "maddeBaslik": "Kapsam",
+      "sectionPath": [
+        "Kapsam"
+      ]
+    },
+    {
+      "id": "kanun:5543:m:3",
+      "maddeKind": "madde",
+      "maddeNo": "3",
+      "heading": "Madde 3",
+      "text": "(1) Bu Kanuna göre;\n a) Tarımsal iskân: Bir aileye projesinde öngörülen miktarda tarım arazisi, işletme binası, konut, irat hayvanı, araç, gereç, tezgah ve kredilerden bir veya birkaçının verilmesiyle yapılan iskândır.\n b) Tarım dışı iskân: Bir aileye projesinde öngörülen miktarda arsa, konut, araç, gereç, tezgah ve kredilerden bir veya birkaçının verilmesiyle yapılan iskândır.\n c) Fiziksel yerleşim: Bir aileye, yerleşim yerinin elverişsizliği nedeniyle köylerin nakledilmesi veya dağınık yerleşim birimleri ve afet sonucu parçalanmış köylerin toplulaştırılması amacıyla veya köy gelişme alanından ihtiyaçlılara yapılacak arsa satışından sonra Bakanlıkça belirlenecek kredi miktarı üzerinden verilecek kredi desteğiyle yapılan iskândır.\n ç) Göçebe: Yerleşik tarımsal faaliyetler dışında kalmış, sabit ve daimi bir konuta bağlı olmadan geçimlerini göçer hayvancılıkla sağlayan, tabiat ve iklim şartlarına göre yurt içinde yaylak ve kışlaklar arasında göçen, bu hayat tarzını kadimden beri sürdüren, aralarında hısımlık ilişkileri bulunan ve hayvancılık faaliyetlerini bir grup halinde yürüten Türk vatandaşlarıdır.\n d) Göçmen: Türk soyundan ve Türk kültürüne bağlı olup, yerleşmek amacıyla tek başına veya toplu halde Türkiye'ye gelip bu Kanun gereğince kabul olunanlardır.\n e) Serbest göçmen: Türk soyundan ve Türk kültürüne bağlı olup, yerleşmek amacıyla tek başına veya toplu halde Türkiye'ye gelip, Devlet eliyle iskân edilmelerini istememek şartıyla yurda kabul edilenlerdir.\n f) İskânlı göçmen: Türk soyundan ve Türk kültürüne bağlı olup, özel kanunlarla yurt dışından getirilen ve bu Kanun hükümlerine göre taşınmaz mal verilerek iskânları sağlananlardır.\n g) Münferit göçmen: Türk soyundan ve Türk kültürüne bağlı olup, yurdumuza yerleşmek amacıyla bir aile olarak gelenlerdir.\n ğ) Toplu göçmen: Türk soyundan ve Türk kültürüne bağlı olup, iki ülke arasında yapılan anlaşmaya göre yurdumuza yerleşmek amacıyla toplu olarak gelen ailelerdir.\n h) Bakan: Bayındırlık ve İskân Bakanıdır.\n ı) Bakanlık: Bayındırlık ve İskân Bakanlığıdır.",
+      "preview": "(1) Bu Kanuna göre; a) Tarımsal iskân: Bir aileye projesinde öngörülen miktarda tarım arazisi, işletme binası, konut, irat hayvanı, araç, ge…",
+      "kitap": null,
+      "kisim": null,
+      "bolum": null,
+      "ayirim": null,
+      "maddeBaslik": "Tanımlar",
+      "sectionPath": [
+        "Tanımlar"
+      ]
+    },
+    {
+      "id": "kanun:5543:m:4",
+      "maddeKind": "madde",
+      "maddeNo": "4",
+      "heading": "Madde 4",
+      "text": "(1) Türk soyundan ve Türk kültürüne bağlı olmayan yabancılar ile Türk soyundan ve Türk kültürüne bağlı bulunup da sınır dışı edilenler ve güvenlik bakımından Türkiye'ye gelmeleri uygun görülmeyenler göçmen olarak kabul edilmezler.",
+      "preview": "(1) Türk soyundan ve Türk kültürüne bağlı olmayan yabancılar ile Türk soyundan ve Türk kültürüne bağlı bulunup da sınır dışı edilenler ve gü…",
+      "kitap": null,
+      "kisim": null,
+      "bolum": "İKİNCİ BÖLÜM · Göçmenlerin Kabulü",
+      "ayirim": null,
+      "maddeBaslik": "Göçmen olarak kabul edilmeyecekler",
+      "sectionPath": [
+        "İKİNCİ BÖLÜM · Göçmenlerin Kabulü",
+        "Göçmen olarak kabul edilmeyecekler"
+      ]
+    },
+    {
+      "id": "kanun:5543:m:5",
+      "maddeKind": "madde",
+      "maddeNo": "5",
+      "heading": "Madde 5",
+      "text": "(1) Türkiye'de yerleşmek isteyen Türk soyundan ve Türk kültürüne bağlı bulunan kimselerden, Türk uyruklu ve Türkiye'deki birinci veya ikinci derecede bir yakını tarafından referans verilen veya bulundukları ülkedeki konsolosluk temsilciliklerimize bizzat müracaat eden ve bu Kanun hükümlerine göre Dışişleri ve İçişleri bakanlıklarınca yapılacak incelemelerden sonra uygun görülerek serbest göçmen vizesi alanlar, Hükümetten hiçbir iskân yardımı istememeleri şartıyla İçişleri Bakanlığınca serbest göçmen olarak kabul edilirler.\n (2) Bu yolla geleceklerin pasaportlarına gerekli açıklama yazılır ve haklarında 8 inci madde hükümlerine göre işlem yapılır.",
+      "preview": "(1) Türkiye'de yerleşmek isteyen Türk soyundan ve Türk kültürüne bağlı bulunan kimselerden, Türk uyruklu ve Türkiye'deki birinci veya ikinci…",
+      "kitap": null,
+      "kisim": null,
+      "bolum": "İKİNCİ BÖLÜM · Göçmenlerin Kabulü",
+      "ayirim": null,
+      "maddeBaslik": "Münferit göçmen kabulü",
+      "sectionPath": [
+        "İKİNCİ BÖLÜM · Göçmenlerin Kabulü",
+        "Münferit göçmen kabulü"
+      ]
+    },
+    {
+      "id": "kanun:5543:m:6",
+      "maddeKind": "madde",
+      "maddeNo": "6",
+      "heading": "Madde 6",
+      "text": "(1) Yabancı ülkelerle yapılan anlaşmalar gereğince Türkiye'ye gelmek isteyen Türk soyundan ve Türk kültürüne bağlı kimseler, anlaşma hükümlerine göre ve Cumhurbaşkanınca verilecek karar uyarınca İçişleri Bakanlığınca serbest göçmen olarak kabul olunurlar.[1]\n (2) Bunlar hakkında 8 inci madde hükümlerine göre işlem yapılır.",
+      "preview": "(1) Yabancı ülkelerle yapılan anlaşmalar gereğince Türkiye'ye gelmek isteyen Türk soyundan ve Türk kültürüne bağlı kimseler, anlaşma hükümle…",
+      "kitap": null,
+      "kisim": null,
+      "bolum": "İKİNCİ BÖLÜM · Göçmenlerin Kabulü",
+      "ayirim": null,
+      "maddeBaslik": "Toplu göçmen kabulü",
+      "sectionPath": [
+        "İKİNCİ BÖLÜM · Göçmenlerin Kabulü",
+        "Toplu göçmen kabulü"
+      ]
+    },
+    {
+      "id": "kanun:5543:m:7",
+      "maddeKind": "madde",
+      "maddeNo": "7",
+      "heading": "Madde 7",
+      "text": "(1) Göçmen olarak kabul edilecekler bakımından Türk soyundan olmanın ve Türk kültürüne bağlılığın tayin ve tespiti Cumhurbaşkanı kararı ile yapılır.[2]",
+      "preview": "(1) Göçmen olarak kabul edilecekler bakımından Türk soyundan olmanın ve Türk kültürüne bağlılığın tayin ve tespiti Cumhurbaşkanı kararı ile…",
+      "kitap": null,
+      "kisim": null,
+      "bolum": "İKİNCİ BÖLÜM · Göçmenlerin Kabulü",
+      "ayirim": null,
+      "maddeBaslik": "Türk soyundan olmanın ve Türk kültürüne bağlılığın tayin ve tespiti",
+      "sectionPath": [
+        "İKİNCİ BÖLÜM · Göçmenlerin Kabulü",
+        "Türk soyundan olmanın ve Türk kültürüne bağlılığın tayin ve tespiti"
+      ]
+    },
+    {
+      "id": "kanun:5543:m:8",
+      "maddeKind": "madde",
+      "maddeNo": "8",
+      "heading": "Madde 8",
+      "text": "(1) 5 inci ve 6 ncı maddeler uyarınca yurda toplu olarak kabul olunan göçmenler, sınırlarımızdan girdikten sonra giriş noktalarındaki göçmen kabul merkezlerinde sağlık, gümrük, idari ve nakil işlemleri tamamlanıncaya kadar misafir edilirler. Bu süre içinde bakım, beslenme ve barınma ihtiyaçları Kızılay Derneğinin de yardımlarıyla İçişleri Bakanlığınca karşılıksız sağlanır.[3]\n (2) Bu giderler için Maliye Bakanlığınca ivedilikle ödenek aktarılır.\n (3) Özel kanunlarla yurdumuza getirilen iskânlı göçmenler, sınırlarımızdan yurda girdikten sonra geçici veya kesin iskânları için belirlenen yerlerin, serbest göçmenler ise yerleştikleri yerlerin en büyük mülki amirine müracaatla kendileri ve aile fertleri için \"Vatandaşlığa Girme Beyannamesi\"ni imzalayarak \"Göçmen Belgesi\" almaya mecburdur. Göçmen Belgesi, iki yıl için geçerli olup, geçici kimlik belgesi olarak kullanılır. Bu belgede, göçmenin bu Kanunun hangi maddesi uyarınca yurda kabul edildiği belirtilir.\n (4) Göçmen olarak kabul edilenler, gerekli işlemlerin ilgili kuruluşlarca tamamlanmasından sonra Cumhurbaşkanı kararıyla vatandaşlığa alınırlar. Küçükler; baba ve analarına, baba veya anaları yoksa kan ve kayın hısımlarına bağlı tutulurlar. Kimsesiz gelen küçükler, yaşlarına bakılmaksızın vatandaşlığa alınırlar.[4]\n (5) 4 üncü maddede sayılan engellerden herhangi birini taşıdığı yurda girdikten sonra tespit edilen şahısların, göçmenlik işlemleri iptal edilir.",
+      "preview": "(1) 5 inci ve 6 ncı maddeler uyarınca yurda toplu olarak kabul olunan göçmenler, sınırlarımızdan girdikten sonra giriş noktalarındaki göçmen…",
+      "kitap": null,
+      "kisim": null,
+      "bolum": "İKİNCİ BÖLÜM · Göçmenlerin Kabulü",
+      "ayirim": null,
+      "maddeBaslik": "Geçici barındırma, göçmen belgesi verilmesi ve vatandaşlığa kabul",
+      "sectionPath": [
+        "İKİNCİ BÖLÜM · Göçmenlerin Kabulü",
+        "Geçici barındırma, göçmen belgesi verilmesi ve vatandaşlığa kabul"
+      ]
+    },
+    {
+      "id": "kanun:5543:m:9",
+      "maddeKind": "madde",
+      "maddeNo": "9",
+      "heading": "Madde 9",
+      "text": "(1) Göçmen, göçebe, yerleri kamulaştırılanlar ve millî güvenlik nedeniyle yerlerinin değiştirilmesine karar verilenlerin iskânı; şehir, kasaba ve köylerde, Bakanlıkça hazırlanacak plan ve projesine uygun olarak;\n a) Öncelikle konut ve arsası,\n b) Esnaf, sanatkâr ve tüccarlara, geçimlerini sağlayacak işyeri ve arsası ile işletme kredisi,\n c) Çiftçilere tarımsal projesinde öngörülen arazi, gerekli tarımsal girdiler, tarımsal yapılar veya arsası ile aynî ve nakdî işletme ve donatım kredileri,\n ç) Hak sahiplerinin talepleri halinde, konut, işyeri ve tarım arazisi kendileri tarafından bulunarak teklif edilmesi ve Bakanlıkça uygun görülmesi halinde toplu veya münferit olarak ailelere iskân kredileri,\n verilmek suretiyle bu Kanun hükümlerine göre borçlandırma yoluyla yapılır.\n (2) Tarımsal iskân projesinde öngörülen yıllık işletme ve donatım kredilerini, tarım arazilerinin devrinden sonraki iki yıl içinde istemeyen ailelere bu krediler kullandırılmaz.\n (3) Bu Kanun uyarınca yurda kabul edilen göçmenlerin, gümrükten muaf kullanılmış eşyalarıyla birlikte sınırlarımızdan girişlerinden itibaren; yerleri kamulaştırılanlarla, millî güvenlik nedeniyle iskân edilenlere ve göçebelere yeni iskân alanına nakledilmeye başladıkları tarihten itibaren barındırma, yiyecek, yakacak ve tedavi yardımları ile bunlardan muhtaç durumda olanlara bir defaya mahsus olmak üzere giyecek yardımları ve ayrıca yerleri kamulaştırılanlara geçici iskân için karşılıksız yardımlar yönetmelikte belirtilen süre, miktar ve şartlara göre yapılır.\n (4) Yukarıda sayılanların yeni iskân alanına nakilleri, hazırlanacak nakil projesine göre Devlet tarafından karşılıksız olarak sağlanır.",
+      "preview": "(1) Göçmen, göçebe, yerleri kamulaştırılanlar ve millî güvenlik nedeniyle yerlerinin değiştirilmesine karar verilenlerin iskânı; şehir, kasa…",
+      "kitap": null,
+      "kisim": null,
+      "bolum": "ÜÇÜNCÜ BÖLÜM · İskân Esasları",
+      "ayirim": null,
+      "maddeBaslik": "İskân yardımları",
+      "sectionPath": [
+        "ÜÇÜNCÜ BÖLÜM · İskân Esasları",
+        "İskân yardımları"
+      ]
+    },
+    {
+      "id": "kanun:5543:m:10",
+      "maddeKind": "madde",
+      "maddeNo": "10",
+      "heading": "Madde 10",
+      "text": "(1) Yurda kabul edilen iskânlı göçmenler, şartların elverdiği yerlerde Bakanlıkça bu Kanun hükümlerine göre iskân olunurlar. Ancak, Türkiye'ye geldikleri tarihten itibaren iki yıl içinde iskânını istemeyen göçmenler, Bakanlıkça iskân edilemezler ve yapılmakta olan karşılıksız yardımlar kesilir.",
+      "preview": "(1) Yurda kabul edilen iskânlı göçmenler, şartların elverdiği yerlerde Bakanlıkça bu Kanun hükümlerine göre iskân olunurlar. Ancak, Türkiye'…",
+      "kitap": null,
+      "kisim": null,
+      "bolum": "ÜÇÜNCÜ BÖLÜM · İskân Esasları",
+      "ayirim": null,
+      "maddeBaslik": "İskânlı göçmenlerin iskânı",
+      "sectionPath": [
+        "ÜÇÜNCÜ BÖLÜM · İskân Esasları",
+        "İskânlı göçmenlerin iskânı"
+      ]
+    },
+    {
+      "id": "kanun:5543:m:11",
+      "maddeKind": "madde",
+      "maddeNo": "11",
+      "heading": "Madde 11",
+      "text": "(1) Göçebeler, İçişleri Bakanlığı ile gerektiğinde diğer ilgili kamu kurum ve kuruluşlarının da görüşleri alınmak suretiyle Bakanlıkça uygun görülecek yerlere bu Kanun hükümlerine göre iskân edilirler. Ancak, iskân duyurusu tarihinin bitiminden sonra yüzseksen gün içinde müracaat etmeyen aileler iskân edilemezler.",
+      "preview": "(1) Göçebeler, İçişleri Bakanlığı ile gerektiğinde diğer ilgili kamu kurum ve kuruluşlarının da görüşleri alınmak suretiyle Bakanlıkça uygun…",
+      "kitap": null,
+      "kisim": null,
+      "bolum": "ÜÇÜNCÜ BÖLÜM · İskân Esasları",
+      "ayirim": null,
+      "maddeBaslik": "Göçebelerin iskânı",
+      "sectionPath": [
+        "ÜÇÜNCÜ BÖLÜM · İskân Esasları",
+        "Göçebelerin iskânı"
+      ]
+    },
+    {
+      "id": "kanun:5543:m:12",
+      "maddeKind": "madde",
+      "maddeNo": "12",
+      "heading": "Madde 12",
+      "text": "(1) Kamu kurum ve kuruluşlarınca yapılacak baraj, baraj mücavir alanı, koruma alanı, havaalanı, karayolu, demiryolu, fabrika, ekonomi ve savunma ile ilgili diğer tesislerin inşası, tarih ve tabiat kıymetlerinin korunması gibi amaçlar için veya özel kanunların uygulanması sebebiyle;\n a) Taşınmaz mallarının kısmen veya tamamen kamulaştırılması sonucu yerlerini terk etmek zorunda kalan aileler,\n b) Yapılan iskân planlama etütlerinin başladığı takvim yılı başlangıcından en az üç yıl önce kamulaştırma sahasında yerleşmiş olup da taşınmaz malı olmayan aileler,\n talep ettikleri takdirde Bakanlıkça gösterilecek yerlerde bu Kanun hükümlerine göre iskân edilirler.\n (2) Ancak, iskân planlama etütlerinin başladığı tarihten önce yerini terk etmiş olup kamulaştırılacak taşınmaz malı bulunan aileler iskân edilmezler. Bu tarihten geriye doğru üç yıl içerisinde, taşınmaz mallarını zorunlu hal olmadan ellerinden çıkaran ve yerine eşdeğerde veya daha fazla değerde taşınmaz mal almayan aileler yerlerini terk etmemiş olsalar dahi iskân edilmezler. Zorunlu haller yönetmelikle belirlenir.\n (3) Kamu kurum ve kuruluşlarınca kamulaştırılan alanlarda yerleşik olan ve kamulaştırmadan etkilenen ailelerden Devlet eliyle başka yerde iskânını istemeyenler, yazılı başvuruları üzerine, ilgili valiliğin teklifi ve İçişleri Bakanlığının olumlu görüşü alınmak şartıyla Bakanlıkça kendi köy hudutları içinde gösterilecek bir yerde iskân edilebilirler.\n (4) Bu madde kapsamına giren ve Devlet eliyle iskânlarını isteyen ailelerden; iskân duyurusu tarihinin bitiminden sonra doksan gün içinde müracaat etmeyenler ile aldıkları veya alacakları kamulaştırma bedelinin, Bakanlıkça belirlenen miktarını; kamulaştırma bedelinin Bakanlıkça belirlenen miktardan az olması halinde ise kamulaştırma ve tezyidi bedellerinin tamamını, Bakanlık Merkez Muhasebe Birimi Hesabına yatırmayı taahhüt etmeyenler iskân edilmezler.",
+      "preview": "(1) Kamu kurum ve kuruluşlarınca yapılacak baraj, baraj mücavir alanı, koruma alanı, havaalanı, karayolu, demiryolu, fabrika, ekonomi ve sav…",
+      "kitap": null,
+      "kisim": null,
+      "bolum": "ÜÇÜNCÜ BÖLÜM · İskân Esasları",
+      "ayirim": null,
+      "maddeBaslik": "Yerleri kamulaştırılanların iskânı",
+      "sectionPath": [
+        "ÜÇÜNCÜ BÖLÜM · İskân Esasları",
+        "Yerleri kamulaştırılanların iskânı"
+      ]
+    },
+    {
+      "id": "kanun:5543:m:13",
+      "maddeKind": "madde",
+      "maddeNo": "13",
+      "heading": "Madde 13",
+      "text": "(1) (İptal: Anayasa Mahkemesi’nin 24/9/2008 tarihli ve E.: 2006/142, K.: 2008/148 sayılı Kararı ile.)",
+      "preview": "(1) (İptal: Anayasa Mahkemesi’nin 24/9/2008 tarihli ve E.: 2006/142, K.: 2008/148 sayılı Kararı ile.)",
+      "kitap": null,
+      "kisim": null,
+      "bolum": "ÜÇÜNCÜ BÖLÜM · İskân Esasları",
+      "ayirim": null,
+      "maddeBaslik": "Millî güvenlik nedeniyle iskân",
+      "sectionPath": [
+        "ÜÇÜNCÜ BÖLÜM · İskân Esasları",
+        "Millî güvenlik nedeniyle iskân"
+      ]
+    },
+    {
+      "id": "kanun:5543:m:14",
+      "maddeKind": "madde",
+      "maddeNo": "14",
+      "heading": "Madde 14",
+      "text": "(1) 10, 11, 12 ve 13 üncü maddeler kapsamına giren hak sahibi ailelerin, Bakanlığın gösterdiği yerlerde iskân edilmeyi kabul etmemeleri halinde hak sahiplilik durumları Mahalli İskân Komisyonunca iptal edilir. Bu durumdaki aileler ikinci bir iskân talebinde bulunamazlar.",
+      "preview": "(1) 10, 11, 12 ve 13 üncü maddeler kapsamına giren hak sahibi ailelerin, Bakanlığın gösterdiği yerlerde iskân edilmeyi kabul etmemeleri hali…",
+      "kitap": null,
+      "kisim": null,
+      "bolum": "ÜÇÜNCÜ BÖLÜM · İskân Esasları",
+      "ayirim": null,
+      "maddeBaslik": "Gösterilen yerde iskânı kabul etmeyenler",
+      "sectionPath": [
+        "ÜÇÜNCÜ BÖLÜM · İskân Esasları",
+        "Gösterilen yerde iskânı kabul etmeyenler"
+      ]
+    },
+    {
+      "id": "kanun:5543:m:15",
+      "maddeKind": "madde",
+      "maddeNo": "15",
+      "heading": "Madde 15",
+      "text": "(1) 11, 12 ve 13 üncü maddeler uyarınca iskân edileceklere, iskân şekli ve şartları bağlı bulundukları köy, kasaba veya ilçe merkezlerinde duyurulur. İskân duyurusu ve bu duyuru üzerine yapılacak müracaatların usûl ve esasları yönetmelikle belirlenir.",
+      "preview": "(1) 11, 12 ve 13 üncü maddeler uyarınca iskân edileceklere, iskân şekli ve şartları bağlı bulundukları köy, kasaba veya ilçe merkezlerinde d…",
+      "kitap": null,
+      "kisim": null,
+      "bolum": "ÜÇÜNCÜ BÖLÜM · İskân Esasları",
+      "ayirim": null,
+      "maddeBaslik": "İskân duyurusu",
+      "sectionPath": [
+        "ÜÇÜNCÜ BÖLÜM · İskân Esasları",
+        "İskân duyurusu"
+      ]
+    },
+    {
+      "id": "kanun:5543:m:16",
+      "maddeKind": "madde",
+      "maddeNo": "16",
+      "heading": "Madde 16",
+      "text": "(1) Kırsal alanda fiziksel yerleşimin düzenlenmesi amacıyla;\n a) Yerleşim yerinin elverişsizliği sebebiyle yerinde kalkındırılmasına imkân olmayan köyler ile altyapı hizmetlerinin pahalıya mal olacağı tespit edilen yerleşim birimlerinin daha elverişli bir yerleşim yerine nakledilmesi,\n b) Birden fazla istekli köy veya bir köy hudutları içinde kalan mahalle, kom, mezra ve benzeri dağınık yerleşim ünitelerinin mevcut yerleşim ünitelerinden birinde veya yeni bir yerleşim yerinde toplulaştırılması,\n c) Afet nedeniyle parçalanmış köylerde, afete maruz kalmayan ailelerin talepleri halinde yeni yerleşim yerine ekleme yapılması,\n ç) Nakli, toplulaştırılması ve fiziksel yerleşim iyileştirilmesi yapılacak köylerin imar planlarının yapılması, onaylanması ve bu planlara uyulmasının sağlanması, ayrıca onaylanmış köy imar planlarına göre ayrılan alanlardan istekli hak sahiplerine arsa satılması,\n d) Çevrenin iklimine, sosyal ve ekonomik şartlarına, yapı malzemesi imkânlarına uygun nitelikte konut, tarımsal işletme binaları ve sosyal tesislerin tiplerinin ve uygun yerleşim modellerinin araştırılması, teknik yardım niteliğindeki tip projelerin hazırlanarak istekli köy veya köylülere verilmesi, gerektiği hallerde köylerde sosyal, kültürel, idari, ekonomik yapı ve tesisler ile köy içi altyapılarının yapılması,\n e) Nakil, toplulaştırma ve fiziksel yerleşim iyileştirilmesi uygulamaları tamamlanan köylerde, daha sonraki yıllarda rezerv arsalardan satın alan ailelere, kendi evini yapana yardım metodu ile kredi açılması,\n hizmetleri, imar mevzuatına uyularak hazırlanacak plan ve projelere göre yapılır veya yaptırılır. Gerektiğinde, yönetmelikte belirtilen esas ve usûller dahilinde hak sahibi ailelere borçlanmaya tâbi olmak kaydıyla konut ve işletme binası için nakdi kredi açılır.\n (2) Ancak, birinci fıkranın (a) ve (b) bentlerindeki hizmetlerin yapılabilmesi için köy seçmen listesinde kayıtlı olanların yarıdan bir fazlasının, o yerin en büyük mülki amirliğine yazılı müracaatı esastır.",
+      "preview": "(1) Kırsal alanda fiziksel yerleşimin düzenlenmesi amacıyla; a) Yerleşim yerinin elverişsizliği sebebiyle yerinde kalkındırılmasına imkân ol…",
+      "kitap": null,
+      "kisim": null,
+      "bolum": "DÖRDÜNCÜ BÖLÜM · Fiziksel Yerleşim Düzenlenmesi",
+      "ayirim": null,
+      "maddeBaslik": "Fiziksel yerleşim",
+      "sectionPath": [
+        "DÖRDÜNCÜ BÖLÜM · Fiziksel Yerleşim Düzenlenmesi",
+        "Fiziksel yerleşim"
+      ]
+    },
+    {
+      "id": "kanun:5543:m:17",
+      "maddeKind": "madde",
+      "maddeNo": "17",
+      "heading": "Madde 17",
+      "text": "(1) Bu Kanunun uygulanmasında aile bir bütün olarak kabul edilir ve aşağıda sıralananlar aile sayılır.\n a) Karı ile koca,\n b) Evlenmemiş çocuklar, ana ve baba ile veya bunlardan sağ olanı ile birlikte,\n c) Evli çocuklar, evli torunlar ile çocuksuz erkek ve kadın dullar başlı başına,\n ç) (Değişik:14/2/2020-7221/36 md.) Anasız ve babasız bekâr kardeş çocuklar birlikte ve eşit hisselerle; bekâr kardeşi olmayan ya da tek kalan çocuklar başlı başına,\n bir aile olarak iskân edilirler.",
+      "preview": "(1) Bu Kanunun uygulanmasında aile bir bütün olarak kabul edilir ve aşağıda sıralananlar aile sayılır. a) Karı ile koca, b) Evlenmemiş çocuk…",
+      "kitap": null,
+      "kisim": null,
+      "bolum": "BEŞİNCİ BÖLÜM · İskânda Aile, İskân Komisyonları ve İskân Tedbirleri",
+      "ayirim": null,
+      "maddeBaslik": "İskânda aile kabul edilecekler",
+      "sectionPath": [
+        "BEŞİNCİ BÖLÜM · İskânda Aile, İskân Komisyonları ve İskân Tedbirleri",
+        "İskânda aile kabul edilecekler"
+      ]
+    },
+    {
+      "id": "kanun:5543:m:18",
+      "maddeKind": "madde",
+      "maddeNo": "18",
+      "heading": "Madde 18",
+      "text": "(1) Bakanlıkça ihtiyaç duyulması halinde, Bakanın veya görevlendireceği kişinin başkanlığında, gerekli görülecek diğer bakanlık ve kuruluşların temsilcilerinden oluşan bir Merkezi İskân Komisyonu kurulur.\n (2) Bu komisyon, göçebelerin, göçmenlerin, yerleri kamulaştırılanların ve millî güvenlik nedeniyle iskân edilecek ailelerin ekonomik, sosyal ve sağlık şartlarına göre yerleştirilecekleri yerleri ve iskân programlarını tetkik etmek, iskâna yarayacak taşınmaz malları araştırıp bulmak, iskân ödeneklerini sağlamak ve harcanmasını kararlaştırmak, iskân konusunda görevli bakanlık ve kuruluşlarla işbirliği yapmak gibi görevleri yerine getirir.\n (3) Bu Kanun hükümlerine göre iskân edilecekleri tespite ve taşınmaz mal tahsisine mahallin en büyük mülki amirinin veya görevlendireceği kişinin başkanlığında; bayındırlık ve iskân, tapu, maliye, tarım ve gerektiğinde ihtiyaç duyulacak konularda hizmet veren kamu kurum ve kuruluşlarının görevlilerinden teşekkül edecek Mahalli İskân Komisyonu yetkilidir.\n (4) Bu komisyonlar, eldeki bilgi ve belgelere göre iskân edileceklerin hak sahibi olup olmadıklarına dair karar alırlar.\n (5) Bu maddede belirtilen komisyonların çalışma usûl ve esasları, Bakanlıkça çıkarılacak yönetmelikle belirlenir.",
+      "preview": "(1) Bakanlıkça ihtiyaç duyulması halinde, Bakanın veya görevlendireceği kişinin başkanlığında, gerekli görülecek diğer bakanlık ve kuruluşla…",
+      "kitap": null,
+      "kisim": null,
+      "bolum": "BEŞİNCİ BÖLÜM · İskânda Aile, İskân Komisyonları ve İskân Tedbirleri",
+      "ayirim": null,
+      "maddeBaslik": "Komisyonlar",
+      "sectionPath": [
+        "BEŞİNCİ BÖLÜM · İskânda Aile, İskân Komisyonları ve İskân Tedbirleri",
+        "Komisyonlar"
+      ]
+    },
+    {
+      "id": "kanun:5543:m:19",
+      "maddeKind": "madde",
+      "maddeNo": "19",
+      "heading": "Madde 19",
+      "text": "(1) Bu Kanun hükümlerine göre verilen taşınmaz malların temlikine, vali ve kaymakamlar yetkilidir. Dağıtım defter veya kararlarının vali veya kaymakamlarca onanması, temliktir. Onaylı defter veya kararlardaki miktarlar geçerlidir.\n (2) Verilen taşınmaz mallar, temlik tarihinde yaşayan aile fertleri adına eşit hisselerle temlik ve tapuya tescil ettirilir.",
+      "preview": "(1) Bu Kanun hükümlerine göre verilen taşınmaz malların temlikine, vali ve kaymakamlar yetkilidir. Dağıtım defter veya kararlarının vali vey…",
+      "kitap": null,
+      "kisim": null,
+      "bolum": "BEŞİNCİ BÖLÜM · İskânda Aile, İskân Komisyonları ve İskân Tedbirleri",
+      "ayirim": null,
+      "maddeBaslik": "Temlik ve tescil",
+      "sectionPath": [
+        "BEŞİNCİ BÖLÜM · İskânda Aile, İskân Komisyonları ve İskân Tedbirleri",
+        "Temlik ve tescil"
+      ]
+    },
+    {
+      "id": "kanun:5543:m:20",
+      "maddeKind": "madde",
+      "maddeNo": "20",
+      "heading": "Madde 20",
+      "text": "(1) Temlik edilmiş olan taşınmaz mallar mülkiyetine ilişkin olarak açılacak davalarda, davalı yeni malik ile birlikte tapudaki tescil durumuna göre Hazinedir.\n (2) Temlik tarihinden itibaren bir yıl geçtikten sonra malın kendisine ait olduğunu iddia edenler tarafından, el koyma tarihindeki rayiç bedel üzerinden dava açılabilir.",
+      "preview": "(1) Temlik edilmiş olan taşınmaz mallar mülkiyetine ilişkin olarak açılacak davalarda, davalı yeni malik ile birlikte tapudaki tescil durumu…",
+      "kitap": null,
+      "kisim": null,
+      "bolum": "BEŞİNCİ BÖLÜM · İskânda Aile, İskân Komisyonları ve İskân Tedbirleri",
+      "ayirim": null,
+      "maddeBaslik": "Mülkiyete ve bedele ilişkin ihtilaflar",
+      "sectionPath": [
+        "BEŞİNCİ BÖLÜM · İskânda Aile, İskân Komisyonları ve İskân Tedbirleri",
+        "Mülkiyete ve bedele ilişkin ihtilaflar"
+      ]
+    },
+    {
+      "id": "kanun:5543:m:21",
+      "maddeKind": "madde",
+      "maddeNo": "21",
+      "heading": "Madde 21",
+      "text": "(Değişik: 11/5/2018-7143/25 md.)\n (1) Bu Kanuna göre verilen taşınmaz mallar, temlik tarihinden itibaren borcun tamamı ödenmeden önce hiçbir suretle satılamaz, bağışlanamaz, rehin edilemez, tapu kütüğüne satış vaadi şerhi konulamaz ve haczolunamaz. Bu taşınmazların tapu kütüklerinin beyanlar hanesine bu yönde belirtme yapılır. Ancak, temlik tarihinden itibaren beşinci yılın sonunda başlamak üzere, borçlandırma bedelinin tamamını ödeyenlerin tapu kaydına yapılan belirtme kaldırılır.\n (2) Bu Kanuna göre hak sahiplerine verilen taşınmazların takyit süresi içinde belgelendirilmiş olmak koşuluyla ticari faaliyet dahil geçim imkanının temini, eğitim, yurt dışına çıkış, askerlik, tutukluluk, afet ve uzun hastalık gibi geçerli bir özrü olmaksızın kullanılmadığı, bağışlandığı veya satıldığı tespit olunduğunda, Mahalli İskân Komisyonunca hak sahiplilik durumu iptal edilir, iskân amaçlarında kullanılmak üzere tapu kaydının iptali ile Hazine adına tescili mahkemeden istenir.",
+      "preview": "(Değişik: 11/5/2018-7143/25 md.) (1) Bu Kanuna göre verilen taşınmaz mallar, temlik tarihinden itibaren borcun tamamı ödenmeden önce hiçbir…",
+      "kitap": null,
+      "kisim": null,
+      "bolum": "BEŞİNCİ BÖLÜM · İskânda Aile, İskân Komisyonları ve İskân Tedbirleri",
+      "ayirim": null,
+      "maddeBaslik": "Devir, takyit ve geri alma",
+      "sectionPath": [
+        "BEŞİNCİ BÖLÜM · İskânda Aile, İskân Komisyonları ve İskân Tedbirleri",
+        "Devir, takyit ve geri alma"
+      ]
+    },
+    {
+      "id": "kanun:5543:m:22",
+      "maddeKind": "madde",
+      "maddeNo": "22",
+      "heading": "Madde 22",
+      "text": "(1) Bu Kanunun uygulanması amacıyla sağlanan veya hak sahiplerine verilecek yapılar, arsa ve araziler; kimin işgali altında olursa olsun o yerin en büyük mülki amirinin yazılı emirleriyle kolluk kuvvetlerince boşaltılır ve kendilerine teslim olunur. Bunlara vuku bulacak tecavüzlerde de o yerin en büyük mülki amirleri kolluk kuvvetlerini kullanarak tahliyeye yetkilidir.",
+      "preview": "(1) Bu Kanunun uygulanması amacıyla sağlanan veya hak sahiplerine verilecek yapılar, arsa ve araziler; kimin işgali altında olursa olsun o y…",
+      "kitap": null,
+      "kisim": null,
+      "bolum": "BEŞİNCİ BÖLÜM · İskânda Aile, İskân Komisyonları ve İskân Tedbirleri",
+      "ayirim": null,
+      "maddeBaslik": "Taşınmazların fuzuli işgalden korunması",
+      "sectionPath": [
+        "BEŞİNCİ BÖLÜM · İskânda Aile, İskân Komisyonları ve İskân Tedbirleri",
+        "Taşınmazların fuzuli işgalden korunması"
+      ]
+    },
+    {
+      "id": "kanun:5543:m:23",
+      "maddeKind": "madde",
+      "maddeNo": "23",
+      "heading": "Madde 23",
+      "text": "(1) Bu Kanun hükümlerine uygun olarak iskân edilenlerin istihkaklarının eksiksiz olarak vaktinde dağıtılıp teslim olunmasına ve üretici hale getirilmesine ait işler ile diğer iskân işleri Bakanlığın mahalli teşkilatınca yürütülür. Bakanlığa ait personel, araç ve gerecin yetersiz olduğu yerlerdeki vali ve kaymakamlar; kendi il ve ilçelerindeki yargı organları hariç, Devlet memurları, özel idare ve belediye personeli ile araç ve gereçlerden uygun gördüklerini, iskân olunanları yerleştirmek, bunlara verilecek yerleri ölçmek, dağıtmak ve inşaatları kontrol etmek gibi iskân ve nakil işlerinde görevlendirmeye yetkilidir. Görevlendirilen personel öncelikle bu işleri yapmaya zorunludur.\n (2) Zaruri durumlarda Genelkurmay Başkanlığından izin alınmak kaydıyla yukarıda belirtilen hizmetlerde Silahlı Kuvvetler personelinden de yararlanılabilir.",
+      "preview": "(1) Bu Kanun hükümlerine uygun olarak iskân edilenlerin istihkaklarının eksiksiz olarak vaktinde dağıtılıp teslim olunmasına ve üretici hale…",
+      "kitap": null,
+      "kisim": null,
+      "bolum": "BEŞİNCİ BÖLÜM · İskânda Aile, İskân Komisyonları ve İskân Tedbirleri",
+      "ayirim": null,
+      "maddeBaslik": "İskân işlerinin yürütülmesi",
+      "sectionPath": [
+        "BEŞİNCİ BÖLÜM · İskânda Aile, İskân Komisyonları ve İskân Tedbirleri",
+        "İskân işlerinin yürütülmesi"
+      ]
+    },
+    {
+      "id": "kanun:5543:m:24",
+      "maddeKind": "madde",
+      "maddeNo": "24",
+      "heading": "Madde 24",
+      "text": "(1) Bu Kanuna göre iskân edilenlerin tespit edilecek hayat seviyesine kavuşabilmeleri için geliştirme, yan gelir temini gibi tedbirler, Bakanlık ile diğer ilgili kurum ve kuruluşlarca ortaklaşa hazırlanacak plan ve projelere göre yürütülür. Bu projelerde yer alan tarım araç ve gereçleri, iskânlı ailelerin kooperatif kurmaları şartıyla kullandırılır.\n (2) Hayat seviyesinin tespitinde, kredi verilmesinde ve bu kredilerin yerinde kullanılmaması halinde uygulanacak usûl ve esaslar yönetmelikte belirtilir.",
+      "preview": "(1) Bu Kanuna göre iskân edilenlerin tespit edilecek hayat seviyesine kavuşabilmeleri için geliştirme, yan gelir temini gibi tedbirler, Baka…",
+      "kitap": null,
+      "kisim": null,
+      "bolum": "BEŞİNCİ BÖLÜM · İskânda Aile, İskân Komisyonları ve İskân Tedbirleri",
+      "ayirim": null,
+      "maddeBaslik": "Proje kredisi",
+      "sectionPath": [
+        "BEŞİNCİ BÖLÜM · İskânda Aile, İskân Komisyonları ve İskân Tedbirleri",
+        "Proje kredisi"
+      ]
+    },
+    {
+      "id": "kanun:5543:m:25",
+      "maddeKind": "madde",
+      "maddeNo": "25",
+      "heading": "Madde 25",
+      "text": "(1) İskâna ilişkin olarak;\n a) Resmî ve özel, yerli ve yabancı kurumlar ile şahıslar ve milletlerarası göçmen ve mülteci teşkilatları tarafından yapılacak maddi yardımlarla nakde çevrilecek yardımlar,\n b) Yabancı devletlerden göçmenler için alınacak tazminatlar,\n c) İskân amaçlı alınmış, tahsis edilmiş veya inşa sonrası elde edilmiş ancak çeşitli nedenlerle hak sahiplerine devredilememiş taşınmaz malların ihale usûllerine göre satışından elde edilen gelirler,\n ç) Hak sahiplerine yapılan arsa satışlarından sağlanan gelirler,\n d) Kamulaştırma bedelleri ile tezyidi bedel davaları sonucunda alınan paralar,\n e) Geri ödeme tahsilatlarından sağlanan gelirler,\n f) Diğer hibe, yardım ve gelirler,\n genel bütçeye gelir kaydedilir.",
+      "preview": "(1) İskâna ilişkin olarak; a) Resmî ve özel, yerli ve yabancı kurumlar ile şahıslar ve milletlerarası göçmen ve mülteci teşkilatları tarafın…",
+      "kitap": null,
+      "kisim": null,
+      "bolum": "ALTINCI BÖLÜM · Malî Hükümler",
+      "ayirim": null,
+      "maddeBaslik": "Gelirler",
+      "sectionPath": [
+        "ALTINCI BÖLÜM · Malî Hükümler",
+        "Gelirler"
+      ]
+    },
+    {
+      "id": "kanun:5543:m:26",
+      "maddeKind": "madde",
+      "maddeNo": "26",
+      "heading": "Madde 26",
+      "text": "(1) İskâna ilişkin giderler;\n a) Arazi ve arsa satın alma veya kamulaştırma bedellerini,\n b) Borçlandırmaya tâbi bilumum tesis ve inşaat harcamalarını,\n c) Kredi ödemelerini,\n ç) Barındırma giderlerini,\n d) Bu Kanunun 9 uncu maddesine göre yapılacak karşılıksız yardım giderlerini,\n e) İskân hizmetlerinin gerektirdiği taşınır ile taşınmaz mal kiralanması ve satın alınması giderlerini,\n f) İskân hizmetleri için etüt, plan, proje, harita ve araştırma yapma, yaptırma giderlerini,\n g) Bu Kanun kapsamında yapılacak her türlü bina, tesis ve donatıları ile altyapı yapım giderlerini,\n ğ) Kamulaştırma bedellerinin iadesine ilişkin giderleri,\n h) Kırtasiye, yayın, büro malzemeleri, haberleşme, ilan, sigorta, mahkeme, noter giderlerini,\n ı) İskân hizmetlerinin gerektirdiği diğer giderleri,\n i) İskân hizmetleriyle ilgili olarak kamu kurum ve kuruluşlarına yaptırılacak işlerin bedellerini,\n kapsar.\n (2) İskâna ilişkin giderler Bakanlık bütçesine bu amaçla konulacak ödeneklerle karşılanır.",
+      "preview": "(1) İskâna ilişkin giderler; a) Arazi ve arsa satın alma veya kamulaştırma bedellerini, b) Borçlandırmaya tâbi bilumum tesis ve inşaat harca…",
+      "kitap": null,
+      "kisim": null,
+      "bolum": "ALTINCI BÖLÜM · Malî Hükümler",
+      "ayirim": null,
+      "maddeBaslik": "Giderler",
+      "sectionPath": [
+        "ALTINCI BÖLÜM · Malî Hükümler",
+        "Giderler"
+      ]
+    },
+    {
+      "id": "kanun:5543:m:27",
+      "maddeKind": "madde",
+      "maddeNo": "27",
+      "heading": "Madde 27",
+      "text": "(1) İskân ve fiziksel yerleşim düzenlemelerinde hak sahipleri; kendilerine verilen taşınmazlardan dolayı, kamulaştırılan ve satın alınan taşınmaz mallar için kamulaştırma veya satın alma bedelleri, yapılar için maliyet bedelleri, Hazine arazileri için rayiç bedelleri üzerinden borçlandırılırlar. Ancak, iskân amacıyla kamulaştırılmış, satın alınmış, inşa edilmiş olup, çeşitli nedenlerle tahsisleri bir yıl içinde yapılmamış taşınmaz mallar yeniden iskân uygulamasına alındığı takdirde, yeni hak sahipleri bu taşınmaz malların rayiç bedelleri üzerinden borçlandırılırlar. (Ek cümleler:10/6/2022-7410/21 md.) Bu Kanunun 10 uncu, 11 inci ve 12 nci maddeleri kapsamına giren hak sahibi ailelerden sözleşme aşamasında borcunu peşin olarak ödemek isteyenlere borçlandırma bedeli üzerinden yüzde altmış beş oranında indirim yapılır. Ödemesiz süre içerisindeki işlerde ise borçlandırma bedeli üzerinden yapılacak peşin ödeme indirim oranları yönetmelikte belirtilir.\n (2) Borçlandırma muameleleri, aile fertleri veya kendi başlarına iskân edilenlerin adına yapılır.\n (3) Taşınmaz mallara ait borçlandırma bedelleri faizsiz olarak tahsil olunur. Bu Kanun uyarınca açılacak işletme ve donatım kredileri ile fiziksel yerleşimi düzenleme amacıyla yapılacak taksitli arsa satışları ve aileye verilen konut ve işletme binası kredileri faize tâbidir.\n (4) Taşınmaz malların borçlandırılmasında ödemesiz süre ve vade, açılacak kredilerin ve arsa borçlarının faiz nispeti ve vadeleri ile borçlandırma ve kredilendirmeye ait diğer hususlar yönetmelikte belirtilir.\n (5) (İptal: Anayasa Mahkemesi’nin 24/9/2008 tarihli ve E.: 2006/142, K.: 2008/148 sayılı Kararı ile.)\n (6) Bu Kanun hükümlerine göre borçlandırma suretiyle yapılan iskân yardımlarının tamamı için, verilecek taşınmaz mallarda Hazine lehine birinci derecede ve birinci sırada ipotek tesis edilir.\n (7) Erteleme sebepleri dışında kalıp da muaccel hale gelen alacaklar, Bakanlıkça millî bir bankayla yapılacak protokol çerçevesinde takip ve tahsil olunur. Erteleme sebepleri yönetmelikle belirlenir.\n (8) Borçlunun haczedilebilir taşınır malı bulunmadığı veya borcuna yetmediği takdirde, borcun tamamı muacceliyet kesbeder ve bu Kanuna göre verilen veya kredi açmak suretiyle sağlanan taşınmaz malların tapu kayıtları mahkeme kararıyla Hazine adına tashihen tescil edilir ve bu taşınmaz malların iade işlemleri 29 uncu madde hükümlerine göre yürütülür.\n (9) İskân edilen ailelere verilen taşınmaz mallar, gerek idarenin ve gerekse iskân edilen ailelerin istek ve rızaları dışında geri alındığı takdirde, geri alınmadan dolayı eksilen istihkaklarının karşılanması maksadı ile yapılacak kamulaştırma ve satın alınmadan doğan ilave bedeller geri verilecek paralar tertibinden karşılanır.",
+      "preview": "(1) İskân ve fiziksel yerleşim düzenlemelerinde hak sahipleri; kendilerine verilen taşınmazlardan dolayı, kamulaştırılan ve satın alınan taş…",
+      "kitap": null,
+      "kisim": null,
+      "bolum": "ALTINCI BÖLÜM · Malî Hükümler",
+      "ayirim": null,
+      "maddeBaslik": "Borçlandırma, teminat ve vadesinde ödenmeyen borçlar",
+      "sectionPath": [
+        "ALTINCI BÖLÜM · Malî Hükümler",
+        "Borçlandırma, teminat ve vadesinde ödenmeyen borçlar"
+      ]
+    },
+    {
+      "id": "kanun:5543:m:28",
+      "maddeKind": "madde",
+      "maddeNo": "28",
+      "heading": "Madde 28",
+      "text": "(1) Bakanlık Merkez Muhasebe Birimi Hesabına yatırılmış kamulaştırma bedelleri, borçlandırma bedellerinden düşülür; fazlası iade edilir; eksik kaldığı takdirde bu Kanun hükümlerine göre ilgililer borçlandırılır. Yatırılmış kamulaştırma bedelleri, borçlandırma ve/veya iade tarihi itibariyle güncelleştirilir.",
+      "preview": "(1) Bakanlık Merkez Muhasebe Birimi Hesabına yatırılmış kamulaştırma bedelleri, borçlandırma bedellerinden düşülür; fazlası iade edilir; eks…",
+      "kitap": null,
+      "kisim": null,
+      "bolum": "ALTINCI BÖLÜM · Malî Hükümler",
+      "ayirim": null,
+      "maddeBaslik": "Borçlandırmadan tenkis edilecek değerler",
+      "sectionPath": [
+        "ALTINCI BÖLÜM · Malî Hükümler",
+        "Borçlandırmadan tenkis edilecek değerler"
+      ]
+    },
+    {
+      "id": "kanun:5543:m:29",
+      "maddeKind": "madde",
+      "maddeNo": "29",
+      "heading": "Madde 29",
+      "text": "(1) Mahkeme kararı ile taşınmaz malların geri alınması halinde, evvelce ödenen taksitler veya zaruri ve faydalı giderler, geri verilecek paralar tertibinden iade edilir.",
+      "preview": "(1) Mahkeme kararı ile taşınmaz malların geri alınması halinde, evvelce ödenen taksitler veya zaruri ve faydalı giderler, geri verilecek par…",
+      "kitap": null,
+      "kisim": null,
+      "bolum": "ALTINCI BÖLÜM · Malî Hükümler",
+      "ayirim": null,
+      "maddeBaslik": "Verilen taşınmaz malların geri alınmasında iade işlemleri",
+      "sectionPath": [
+        "ALTINCI BÖLÜM · Malî Hükümler",
+        "Verilen taşınmaz malların geri alınmasında iade işlemleri"
+      ]
+    },
+    {
+      "id": "kanun:5543:m:30",
+      "maddeKind": "madde",
+      "maddeNo": "30",
+      "heading": "Madde 30",
+      "text": "(1) Bu Kanunun uygulanmasına ilişkin olarak yapılacak; karşılıksız iskân yardımları, altyapı tesisleri, sosyal, kültürel, idari, ekonomik ve diğer tesisler, imar planları ve teknik yardım niteliğindeki tip projeler karşılıksız olarak yapılır veya yaptırılır.",
+      "preview": "(1) Bu Kanunun uygulanmasına ilişkin olarak yapılacak; karşılıksız iskân yardımları, altyapı tesisleri, sosyal, kültürel, idari, ekonomik ve…",
+      "kitap": null,
+      "kisim": null,
+      "bolum": "ALTINCI BÖLÜM · Malî Hükümler",
+      "ayirim": null,
+      "maddeBaslik": "Borçlandırmasız hizmetler, harcamalar",
+      "sectionPath": [
+        "ALTINCI BÖLÜM · Malî Hükümler",
+        "Borçlandırmasız hizmetler, harcamalar"
+      ]
+    },
+    {
+      "id": "kanun:5543:m:31",
+      "maddeKind": "madde",
+      "maddeNo": "31",
+      "heading": "Madde 31",
+      "text": "(1) Ödemesi yapılacak proje, inşaat ve benzeri hizmetler için, her yıl ödenecek miktarı yılı ödenek tutarının yüzde ellisini geçmemek şartıyla beş yıla kadar gelecek yıllara sari taahhüde Bakan yetkilidir.",
+      "preview": "(1) Ödemesi yapılacak proje, inşaat ve benzeri hizmetler için, her yıl ödenecek miktarı yılı ödenek tutarının yüzde ellisini geçmemek şartıy…",
+      "kitap": null,
+      "kisim": null,
+      "bolum": "ALTINCI BÖLÜM · Malî Hükümler",
+      "ayirim": null,
+      "maddeBaslik": "Sari taahhüt yetkisi",
+      "sectionPath": [
+        "ALTINCI BÖLÜM · Malî Hükümler",
+        "Sari taahhüt yetkisi"
+      ]
+    },
+    {
+      "id": "kanun:5543:m:32",
+      "maddeKind": "madde",
+      "maddeNo": "32",
+      "heading": "Madde 32",
+      "text": "(1) 12 nci maddede belirtilen nedenlerle veya özel kanunlar gereğince taşınmaz malları kamulaştırılanlardan iskânını isteyenlerin kamulaştırma bedelleri ile tezyidi bedel davası sonucu alacakları paralar, kamulaştırmayı yapan kuruluşça bu taşınmaz mallarla ilgili her türlü vergi, resim ve harçlar kesildikten sonra, Bakanlıkça tespit edilen miktar veya kamulaştırma bedeli ve tezyidi bedel kadar iskân edilecekler adına Bakanlık Merkez Muhasebe Birimi Hesabına yatırılır. Vergi, resim ve harçlar ise kamulaştırmayı yapan ilgili kuruluşlara ödenir.\n (2) İskân hakkı doğan aynı aile fertlerinin ayrı ayrı kamulaştırma bedeli alacağının olması halinde ve aile fertlerinin tamamı iskân istedikleri takdirde, ilgili kuruluşça bunlara ait kamulaştırma bedelleri toplu halde Bakanlık Merkez Muhasebe Birimi Hesabına yatırılır.",
+      "preview": "(1) 12 nci maddede belirtilen nedenlerle veya özel kanunlar gereğince taşınmaz malları kamulaştırılanlardan iskânını isteyenlerin kamulaştır…",
+      "kitap": null,
+      "kisim": null,
+      "bolum": "ALTINCI BÖLÜM · Malî Hükümler",
+      "ayirim": null,
+      "maddeBaslik": "Kamulaştırma bedelleri",
+      "sectionPath": [
+        "ALTINCI BÖLÜM · Malî Hükümler",
+        "Kamulaştırma bedelleri"
+      ]
+    },
+    {
+      "id": "kanun:5543:m:33",
+      "maddeKind": "madde",
+      "maddeNo": "33",
+      "heading": "Madde 33",
+      "text": "(1) 12 nci madde kapsamına giren ailelerin iskânı için ana projeyi yürüten kuruluşun bütçesinde yeniden yerleşimi de kapsayacak şekilde gerekli ödenekler ile 13 üncü madde uyarınca iskânı yapılacaklar için gerekli iskân ödeneği ve kamulaştırılacak taşınmaz malların kamulaştırma ödenekleri, Bakanlığın görüşü alınmak suretiyle kamulaştırmayı yapacak kuruluşlar tarafından Bakanlık bütçesine transfer edilmek üzere bu kuruluşların kendi bütçelerine konulur.",
+      "preview": "(1) 12 nci madde kapsamına giren ailelerin iskânı için ana projeyi yürüten kuruluşun bütçesinde yeniden yerleşimi de kapsayacak şekilde gere…",
+      "kitap": null,
+      "kisim": null,
+      "bolum": "ALTINCI BÖLÜM · Malî Hükümler",
+      "ayirim": null,
+      "maddeBaslik": "Kamulaştırmayı yapan kuruluş bütçesine gerekli iskân ödeneğinin konması",
+      "sectionPath": [
+        "ALTINCI BÖLÜM · Malî Hükümler",
+        "Kamulaştırmayı yapan kuruluş bütçesine gerekli iskân ödeneğinin konması"
+      ]
+    },
+    {
+      "id": "kanun:5543:m:34",
+      "maddeKind": "madde",
+      "maddeNo": "34",
+      "heading": "Madde 34",
+      "text": "(1) Bu Kanun hükümlerine göre kabul edilen göçmenlerin, bir aile veya aile sayılan kişiler ile bir köy, mahalle veya topluluk olarak yurda getirecekleri kullanılmış zati, mesleki ve ev eşyaları bir defaya mahsus olmak üzere gümrük vergileri ile damga vergisinden ve diğer her türlü resim, vergi ve harçlardan muaftır.",
+      "preview": "(1) Bu Kanun hükümlerine göre kabul edilen göçmenlerin, bir aile veya aile sayılan kişiler ile bir köy, mahalle veya topluluk olarak yurda g…",
+      "kitap": null,
+      "kisim": null,
+      "bolum": "YEDİNCİ BÖLÜM · Muafiyetler",
+      "ayirim": null,
+      "maddeBaslik": "Gümrük muafiyetlerinden yararlanma",
+      "sectionPath": [
+        "YEDİNCİ BÖLÜM · Muafiyetler",
+        "Gümrük muafiyetlerinden yararlanma"
+      ]
+    },
+    {
+      "id": "kanun:5543:m:35",
+      "maddeKind": "madde",
+      "maddeNo": "35",
+      "heading": "Madde 35",
+      "text": "(1) Göçmenlerin pasaportları üzerinde yapılacak vize muamelesi ile kendilerine verilecek eşya belgeleri her türlü resim ve harçtan muaftır. Göçmen, göçebe, millî güvenlik nedeniyle ve kamulaştırmadan etkilenen ailelerden iskân edilenlere bu Kanun hükümleri gereğince yapılacak iskân yardımı gümrük ve vergi muafiyeti, tabiiyet, nüfusa ve tapuya tescil ve nakil işlemleri dolayısıyla gerek kendileri tarafından verilecek gerekse ilgili dairelerce düzenlenecek her türlü evrak damga vergisi ile sair resim ve harçlardan muaftır.",
+      "preview": "(1) Göçmenlerin pasaportları üzerinde yapılacak vize muamelesi ile kendilerine verilecek eşya belgeleri her türlü resim ve harçtan muaftır.…",
+      "kitap": null,
+      "kisim": null,
+      "bolum": "YEDİNCİ BÖLÜM · Muafiyetler",
+      "ayirim": null,
+      "maddeBaslik": "Muamelelerle ilgili muafiyetler",
+      "sectionPath": [
+        "YEDİNCİ BÖLÜM · Muafiyetler",
+        "Muamelelerle ilgili muafiyetler"
+      ]
+    },
+    {
+      "id": "kanun:5543:m:36",
+      "maddeKind": "madde",
+      "maddeNo": "36",
+      "heading": "Madde 36",
+      "text": "(1) Bu Kanun hükümlerine göre temlik edilen arsa, arazi ve yapılardan bu temlik dolayısıyla veraset ve intikal vergisi ve ferağ harcı alınmaz; noterlerce yapılacak iskân ile ilgili taahhütname ve borçlanma senetleri ve bu konuda düzenlenen belgeler damga vergisi ve harca tâbi değildir.\n (2) Bu Kanuna göre, gerek borçlandırılarak ve gerekse peşin bedelli olarak verilen bütün arsa, arazi ve yapılar harçsız tapuya tescil edilerek tapu senedi verilir. Temlik, tefviz, borçlandırma ve ipotek işlemleri koyup kaldırma muameleleri, damga vergisi ve harca tâbi tutulmaz.\n (3) İskân hizmetlerine ilişkin her türlü tapu ve kadastro işlemlerinden döner sermaye hizmet bedeli alınmaz.[5]\n (4) (Ek:14/2/2020-7221/37 md.) Bu Kanun hükümlerine göre yapılacak yapılara ilişkin ruhsat ve izinler, 26/5/1981 tarihli ve 2464 sayılı Belediye Gelirleri Kanununa göre alınan bina inşaat harcı ve imarla ilgili harçlardan müstesnadır. Ayrıca, bu yapılara ilişkin belediyece ve il özel idaresince verilen hizmetlerden ücret alınmaz.",
+      "preview": "(1) Bu Kanun hükümlerine göre temlik edilen arsa, arazi ve yapılardan bu temlik dolayısıyla veraset ve intikal vergisi ve ferağ harcı alınma…",
+      "kitap": null,
+      "kisim": null,
+      "bolum": "YEDİNCİ BÖLÜM · Muafiyetler",
+      "ayirim": null,
+      "maddeBaslik": "İskân yoluyla verilen taşınmaz malların vergilerden muafiyeti",
+      "sectionPath": [
+        "YEDİNCİ BÖLÜM · Muafiyetler",
+        "İskân yoluyla verilen taşınmaz malların vergilerden muafiyeti"
+      ]
+    },
+    {
+      "id": "kanun:5543:m:37",
+      "maddeKind": "madde",
+      "maddeNo": "37",
+      "heading": "Madde 37",
+      "text": "(1) Göçmenlerin askerlikle ilgili muafiyetleri ve bu muafiyetlerden yararlanma usûlleri, 21/6/1927 tarihli ve 1111 sayılı Askerlik Kanunundaki esaslara göre yürütülür.",
+      "preview": "(1) Göçmenlerin askerlikle ilgili muafiyetleri ve bu muafiyetlerden yararlanma usûlleri, 21/6/1927 tarihli ve 1111 sayılı Askerlik Kanununda…",
+      "kitap": null,
+      "kisim": null,
+      "bolum": "YEDİNCİ BÖLÜM · Muafiyetler",
+      "ayirim": null,
+      "maddeBaslik": "Askerlik muafiyeti",
+      "sectionPath": [
+        "YEDİNCİ BÖLÜM · Muafiyetler",
+        "Askerlik muafiyeti"
+      ]
+    },
+    {
+      "id": "kanun:5543:m:38",
+      "maddeKind": "madde",
+      "maddeNo": "38",
+      "heading": "Madde 38",
+      "text": "(1) Özel kanunlarda yazılı hükümler saklı kalmak kaydıyla bu Kanun uygulamalarında kullanılabilecek arsa ve araziler aşağıda belirtilmiştir:\n a) Devletin hüküm ve tasarrufu altında bulunan araziler.\n b) Devletin özel mülkiyetinde bulunup da kamu hizmetlerine tahsis olunmamış ve kullanılmayan arazi ve arsalar.\n c) Bir veya birkaç köy, kasaba ve şehir orta malı olan ve tahsis amacı değiştirilmek suretiyle Hazine adına tescil ettirilen araziler.\n ç) Hazineden bedelsiz olarak belediyelere devredilmiş ve maksada tahsis edilmemiş olup 20/7/1966 tarihli ve 775 sayılı Gecekondu Kanunu amaçları dışında kalan yerler.\n d) İşlenmeye elverişli olmayan tuzlu, alkali, taşlık ve benzeri topraklardan Devletçe ıslah suretiyle elde edilen araziler.\n e) Bakanlık tarafından gerçek ve tüzel kişilerden satın alınacak veya kamulaştırılacak arsa ve araziler.\n f) Köy tüzel kişiliğine ait arazi ve arsalar.\n (2) (a), (b), (c) ve (d) bentlerinde belirtilen arsa ve araziler Maliye Bakanlığınca bu amaçla kullanılmak üzere tahsis edildikten sonra; (ç), (e), (f) bentlerinde belirtilen arsa ve araziler ise işlemleri sonuçlandıktan sonra iskân hizmetlerinde kullanılır.",
+      "preview": "(1) Özel kanunlarda yazılı hükümler saklı kalmak kaydıyla bu Kanun uygulamalarında kullanılabilecek arsa ve araziler aşağıda belirtilmiştir:…",
+      "kitap": null,
+      "kisim": null,
+      "bolum": "SEKİZİNCİ BÖLÜM · Çeşitli Hükümler",
+      "ayirim": null,
+      "maddeBaslik": "Tahsis, devir ve temlik edilecek arazi ve arsalar",
+      "sectionPath": [
+        "SEKİZİNCİ BÖLÜM · Çeşitli Hükümler",
+        "Tahsis, devir ve temlik edilecek arazi ve arsalar"
+      ]
+    },
+    {
+      "id": "kanun:5543:m:39",
+      "maddeKind": "madde",
+      "maddeNo": "39",
+      "heading": "Madde 39",
+      "text": "(1) Köy tüzel kişiliğine ait arsa ve araziler, köy ihtiyar heyetince karar verildiği takdirde bu Kanun kapsamında kullanılabilir. Bu tür arsa ve arazilerin kıymet takdiri köy ihtiyar heyetince yapılır, arsa ve arazinin hak sahiplerine satışından elde edilen para köy bütçesine gelir kaydedilir.",
+      "preview": "(1) Köy tüzel kişiliğine ait arsa ve araziler, köy ihtiyar heyetince karar verildiği takdirde bu Kanun kapsamında kullanılabilir. Bu tür ars…",
+      "kitap": null,
+      "kisim": null,
+      "bolum": "SEKİZİNCİ BÖLÜM · Çeşitli Hükümler",
+      "ayirim": null,
+      "maddeBaslik": "Köy tüzel kişiliğine ait arsa ve araziler",
+      "sectionPath": [
+        "SEKİZİNCİ BÖLÜM · Çeşitli Hükümler",
+        "Köy tüzel kişiliğine ait arsa ve araziler"
+      ]
+    },
+    {
+      "id": "kanun:5543:m:40",
+      "maddeKind": "madde",
+      "maddeNo": "40",
+      "heading": "Madde 40",
+      "text": "(1) Bu Kanun kapsamında kullanılacak arsa ve araziler, özel kanun hükümleri ve millî güvenlik nedeniyle tahsis edilmiş veya 18/12/1981 tarihli ve 2565 sayılı Askeri Yasak Bölgeler ve Güvenlik Bölgeleri Kanunu hükümlerine göre tesis edilecek askeri yasak bölgeler ve güvenlik bölgeleri sınırları kapsamında kalan yerlerden seçilmez.\n (2) Ancak zorunlu hallerde söz konusu arsa ve araziler ilgili kurumların uygun görüşü doğrultusunda kullanılabilir.",
+      "preview": "(1) Bu Kanun kapsamında kullanılacak arsa ve araziler, özel kanun hükümleri ve millî güvenlik nedeniyle tahsis edilmiş veya 18/12/1981 tarih…",
+      "kitap": null,
+      "kisim": null,
+      "bolum": "SEKİZİNCİ BÖLÜM · Çeşitli Hükümler",
+      "ayirim": null,
+      "maddeBaslik": "Seçilemeyecek arsa ve araziler",
+      "sectionPath": [
+        "SEKİZİNCİ BÖLÜM · Çeşitli Hükümler",
+        "Seçilemeyecek arsa ve araziler"
+      ]
+    },
+    {
+      "id": "kanun:5543:m:41",
+      "maddeKind": "madde",
+      "maddeNo": "41",
+      "heading": "Madde 41",
+      "text": "(1) Bu Kanun hükümleri uyarınca karşılıksız yapılan ortak tesis ve yapılar, kullanış amacına göre ilgili tüzel kişilik adına tapuya tescil edilir.\n (2) Bu ortak yapı ve tesislerin korunması, bakım ve onarımı ile amacına uygun olarak kullanılmasından, adına tescil işlemi yapılan tüzel kişilik sorumludur. Belirtilen hususların yerine getirilip getirilmediği, mülki amirlerince kontrol edilir ve gerekli tedbirler alınır.",
+      "preview": "(1) Bu Kanun hükümleri uyarınca karşılıksız yapılan ortak tesis ve yapılar, kullanış amacına göre ilgili tüzel kişilik adına tapuya tescil e…",
+      "kitap": null,
+      "kisim": null,
+      "bolum": "SEKİZİNCİ BÖLÜM · Çeşitli Hükümler",
+      "ayirim": null,
+      "maddeBaslik": "Ortak tesis ve yapıların tescili",
+      "sectionPath": [
+        "SEKİZİNCİ BÖLÜM · Çeşitli Hükümler",
+        "Ortak tesis ve yapıların tescili"
+      ]
+    },
+    {
+      "id": "kanun:5543:m:42",
+      "maddeKind": "madde",
+      "maddeNo": "42",
+      "heading": "Madde 42",
+      "text": "(1) Bu Kanunun uygulamasına ilişkin hizmetlerin hızlandırılabilmesi için iskâna tâbi kimselerin gönüllü katkılarından yararlanılır.",
+      "preview": "(1) Bu Kanunun uygulamasına ilişkin hizmetlerin hızlandırılabilmesi için iskâna tâbi kimselerin gönüllü katkılarından yararlanılır.",
+      "kitap": null,
+      "kisim": null,
+      "bolum": "SEKİZİNCİ BÖLÜM · Çeşitli Hükümler",
+      "ayirim": null,
+      "maddeBaslik": "Gönüllü katkı",
+      "sectionPath": [
+        "SEKİZİNCİ BÖLÜM · Çeşitli Hükümler",
+        "Gönüllü katkı"
+      ]
+    },
+    {
+      "id": "kanun:5543:m:43",
+      "maddeKind": "madde",
+      "maddeNo": "43",
+      "heading": "Madde 43",
+      "text": "(1) Bu Kanunun yürürlüğe girmesinden önce iskân uygulamaları tamamlanmış olan aileler ile taahhütname verenlerden işlemleri devam edenlerin hak ve mükellefiyetleri saklı olup bu konuda ortaya çıkacak ihtilaflar, bu Kanundan önceki mevzuata göre çözümlenir.",
+      "preview": "(1) Bu Kanunun yürürlüğe girmesinden önce iskân uygulamaları tamamlanmış olan aileler ile taahhütname verenlerden işlemleri devam edenlerin…",
+      "kitap": null,
+      "kisim": null,
+      "bolum": "SEKİZİNCİ BÖLÜM · Çeşitli Hükümler",
+      "ayirim": null,
+      "maddeBaslik": "Devir ve intikal eden hükümler",
+      "sectionPath": [
+        "SEKİZİNCİ BÖLÜM · Çeşitli Hükümler",
+        "Devir ve intikal eden hükümler"
+      ]
+    },
+    {
+      "id": "kanun:5543:m:44",
+      "maddeKind": "madde",
+      "maddeNo": "44",
+      "heading": "Madde 44",
+      "text": "(1) Yapılacak takip sonunda tahsili imkânsız veya tahsili için yapılacak giderlerin alacaktan fazla olacağı anlaşılan sözleşmeye bağlanmış alacaklar ile gerçek ve tüzel kişilerden olan alacaklardan 21/7/1953 tarihli ve 6183 sayılı Amme Alacaklarının Tahsil Usulü Hakkında Kanunun 106 ncı maddesindeki parasal miktara kadar olanları terkin etmeye Bakan yetkilidir.",
+      "preview": "(1) Yapılacak takip sonunda tahsili imkânsız veya tahsili için yapılacak giderlerin alacaktan fazla olacağı anlaşılan sözleşmeye bağlanmış a…",
+      "kitap": null,
+      "kisim": null,
+      "bolum": "SEKİZİNCİ BÖLÜM · Çeşitli Hükümler",
+      "ayirim": null,
+      "maddeBaslik": "Tahsil imkânsızlığı sebebiyle terkin",
+      "sectionPath": [
+        "SEKİZİNCİ BÖLÜM · Çeşitli Hükümler",
+        "Tahsil imkânsızlığı sebebiyle terkin"
+      ]
+    },
+    {
+      "id": "kanun:5543:m:45",
+      "maddeKind": "madde",
+      "maddeNo": "45",
+      "heading": "Madde 45",
+      "text": "(1) Bu Kanunda yazılı görevlerin gerektirdiği etüt, araştırma, planlama, projeleme ve uygulama işleri Bakanlıkça yapılır veya yaptırılır.\n (2) İskân işleriyle ilgili teknik ve idari personel, hizmet içi eğitim yapılacak kamu yapı ve tesisleri giderleri, Bakanlık bütçesine konulacak ödeneklerden karşılanır.",
+      "preview": "(1) Bu Kanunda yazılı görevlerin gerektirdiği etüt, araştırma, planlama, projeleme ve uygulama işleri Bakanlıkça yapılır veya yaptırılır. (2…",
+      "kitap": null,
+      "kisim": null,
+      "bolum": "SEKİZİNCİ BÖLÜM · Çeşitli Hükümler",
+      "ayirim": null,
+      "maddeBaslik": "Bütçeye ödenek konulması",
+      "sectionPath": [
+        "SEKİZİNCİ BÖLÜM · Çeşitli Hükümler",
+        "Bütçeye ödenek konulması"
+      ]
+    },
+    {
+      "id": "kanun:5543:m:46",
+      "maddeKind": "madde",
+      "maddeNo": "46",
+      "heading": "Madde 46",
+      "text": "(1) Bu Kanunun 10, 11, 12 ve 13 üncü maddeleri gereğince yapılacak iskânlarda elektrik, okul, sağlık evi ve benzeri tesisler ile altyapı hizmetleri ilgili kurum ve kuruluşların görüşleri doğrultusunda Bakanlıkça yapılır veya yaptırılır.",
+      "preview": "(1) Bu Kanunun 10, 11, 12 ve 13 üncü maddeleri gereğince yapılacak iskânlarda elektrik, okul, sağlık evi ve benzeri tesisler ile altyapı hiz…",
+      "kitap": null,
+      "kisim": null,
+      "bolum": "SEKİZİNCİ BÖLÜM · Çeşitli Hükümler",
+      "ayirim": null,
+      "maddeBaslik": "Yeni yerleşim yerinde ilgili kurum ve kuruluşlarca yapılacak hizmetler",
+      "sectionPath": [
+        "SEKİZİNCİ BÖLÜM · Çeşitli Hükümler",
+        "Yeni yerleşim yerinde ilgili kurum ve kuruluşlarca yapılacak hizmetler"
+      ]
+    },
+    {
+      "id": "kanun:5543:m:47",
+      "maddeKind": "madde",
+      "maddeNo": "47",
+      "heading": "Madde 47",
+      "text": "(1) Bu Kanunla, yönetmelikle düzenlenmesi öngörülen hususlar ile bu Kanunun uygulanmasına ait diğer düzenlemeler, ilgili bakanlık ve kuruluşların da görüşleri alınarak Bakanlıkça düzenlenecek ve altı ay içerisinde çıkarılacak yönetmelikle belirlenir.",
+      "preview": "(1) Bu Kanunla, yönetmelikle düzenlenmesi öngörülen hususlar ile bu Kanunun uygulanmasına ait diğer düzenlemeler, ilgili bakanlık ve kuruluş…",
+      "kitap": null,
+      "kisim": null,
+      "bolum": "SEKİZİNCİ BÖLÜM · Çeşitli Hükümler",
+      "ayirim": null,
+      "maddeBaslik": "Yönetmelik düzenleme yetkisi",
+      "sectionPath": [
+        "SEKİZİNCİ BÖLÜM · Çeşitli Hükümler",
+        "Yönetmelik düzenleme yetkisi"
+      ]
+    },
+    {
+      "id": "kanun:5543:m:48",
+      "maddeKind": "madde",
+      "maddeNo": "48",
+      "heading": "Madde 48",
+      "text": "(1) 15/5/1959 tarihli ve 7269 sayılı Umumi Hayata Müessir Afetler Dolayısiyle Alınacak Tedbirlerle Yapılacak Yardımlara Dair Kanunun ek 7 nci maddesi ile 14/6/1934 tarihli ve 2510 sayılı İskân Kanunu ek ve değişiklikleri ile birlikte yürürlükten kaldırılmıştır.",
+      "preview": "(1) 15/5/1959 tarihli ve 7269 sayılı Umumi Hayata Müessir Afetler Dolayısiyle Alınacak Tedbirlerle Yapılacak Yardımlara Dair Kanunun ek 7 nc…",
+      "kitap": null,
+      "kisim": null,
+      "bolum": "SEKİZİNCİ BÖLÜM · Çeşitli Hükümler",
+      "ayirim": null,
+      "maddeBaslik": "Yürürlükten kaldırılan hükümler",
+      "sectionPath": [
+        "SEKİZİNCİ BÖLÜM · Çeşitli Hükümler",
+        "Yürürlükten kaldırılan hükümler"
+      ]
+    },
+    {
+      "id": "kanun:5543:m:ek:1",
+      "maddeKind": "ek",
+      "maddeNo": "1",
+      "heading": "Ek Madde 1",
+      "text": "(Ek: 16/5/2012-6306/18 md.)\n (1) Afet riski veya fen, sanat ve sağlık kurallarına aykırılık sebebiyle veya Cumhurbaşkanınca belirlenen özel proje alanlarında gerçekleştirilecek olan yeniden iskân uygulamalarında, buralardaki yerleşim merkezlerinde yaşayan ailelerin daha elverişli yerlerde iskânları ile köye dönüş projeleri çerçevesindeki iskân çalışmaları; ilgili proje için alınan Cumhurbaşkanı kararında belirtilen hak sahipliği ve borçlandırma usul ve esaslarına göre, Cumhurbaşkanınca tespit edilen orman veya mera vasıflı alanlardan ve Hazinenin özel mülkiyetinde veya Devletin hüküm ve tasarrufu altında bulunan taşınmazlardan uygun görülen yeni yerleşim yerlerinde, bu Kanun hükümlerine göre yapılır.[6]\n (2) Bu madde kapsamındaki uygulamalara ilişkin talebin diğer kamu kurum veya kuruluşlarından gelmesi hâlinde, altyapı hizmetleri de dâhil olmak üzere yeniden yerleşim için gerekli görülen her türlü ödenek, Bakanlığın görüşü alınarak ana projeyi yürüten kuruluşun bütçesine konulur ve ihtiyaç duyulan ödenek, Bakanlık bütçesine ilgili kuruluş tarafından transfer edilir. Afet riski altındaki alanların dönüştürülmesi hizmetleri için kanun ile öngörülen dönüşüm projeleri özel hesabından bu madde kapsamındaki uygulamalarda kullanılmak üzere kaynak aktarılabilir.",
+      "preview": "(Ek: 16/5/2012-6306/18 md.) (1) Afet riski veya fen, sanat ve sağlık kurallarına aykırılık sebebiyle veya Cumhurbaşkanınca belirlenen özel p…",
+      "kitap": null,
+      "kisim": null,
+      "bolum": "SEKİZİNCİ BÖLÜM · Çeşitli Hükümler",
+      "ayirim": null,
+      "maddeBaslik": "Yürürlükten kaldırılan hükümler",
+      "sectionPath": [
+        "SEKİZİNCİ BÖLÜM · Çeşitli Hükümler",
+        "Yürürlükten kaldırılan hükümler"
+      ]
+    },
+    {
+      "id": "kanun:5543:m:ek:2",
+      "maddeKind": "ek",
+      "maddeNo": "2",
+      "heading": "Ek Madde 2",
+      "text": "(Ek: 23/2/2017-6824/21 md.)\n (1) Devlet Su İşleri Genel Müdürlüğü tarafından yapılmakta ve yapılacak olan baraj ile baraj mücavir alanında kalan taşınmazların kısmen veya tamamen kamulaştırılması sonucunda yerlerini terk etmek zorunda kalanların iskânına ilişkin olarak bu Kanunla ve ilgili diğer mevzuatla Bakanlığa verilen her türlü hak, görev ve yetkiler, Devlet Su İşleri Genel Müdürlüğü tarafından gerçekleştirilir. Bu madde kapsamında yapılacak iskân ile ilgili usul ve esaslar Cumhurbaşkanı kararı ile belirlenir.[7]\n (2) Birinci fıkra kapsamındaki hak, yetki ve görevlerin Devlet Su İşleri Genel Müdürlüğü tarafından gerçekleştirilebilmesi maksadıyla, bu Kanunun hükümlerine göre kullanılabilecek arazi ve arsalardan gerekli olanlar birinci fıkra kapsamında kalan iskân faaliyetleri maksadıyla kullanılmak üzere tapuda Devlet Su İşleri Genel Müdürlüğü adına tescil edilir. Aynı maksatla kullanılmak üzere ihtiyaç duyulan ve talep edilen Hazinenin özel mülkiyetinde veya Devletin hüküm ve tasarrufu altında bulunan taşınmazlardan Maliye Bakanlığınca uygun görülenler tapuda Devlet Su İşleri Genel Müdürlüğü adına bedelsiz olarak devren tescil edilir, ancak bunlardan iskân faaliyetleri için ihtiyaç duyulmayan veya kullanılmayanlar Maliye Bakanlığının talebi üzerine tapuda yeniden bedelsiz olarak devren Hazine adına tescil edilir. Bu fıkra kapsamında yapılacak her türlü devir, temlik, tevhid, ifraz, tescil, terkin ve sair işlemleri tapu sicilinde yapmaya Devlet Su İşleri Genel Müdürlüğü yetkilidir. Bu madde kapsamında iskân faaliyetinde kullanılmak üzere 19/4/2012 tarihli ve 6292 sayılı Orman Köylülerinin Kalkınmalarının Desteklenmesi ve Hazine Adına Orman Sınırları Dışına Çıkarılan Yerlerin Değerlendirilmesi ile Hazineye Ait Tarım Arazilerinin Satışı Hakkında Kanunun 4 üncü maddesi uyarınca orman sınırları dışına çıkarılacak alanlar tapuda Devlet Su İşleri Genel Müdürlüğü adına resen tescil edilerek devredilir.\n (3) Bu maddenin yürürlük tarihinden önce bu Kanuna göre iskân duyurusu yapılmış projeler Bakanlıkça yürütülür.",
+      "preview": "(Ek: 23/2/2017-6824/21 md.) (1) Devlet Su İşleri Genel Müdürlüğü tarafından yapılmakta ve yapılacak olan baraj ile baraj mücavir alanında ka…",
+      "kitap": null,
+      "kisim": null,
+      "bolum": "SEKİZİNCİ BÖLÜM · Çeşitli Hükümler",
+      "ayirim": null,
+      "maddeBaslik": "Yürürlükten kaldırılan hükümler",
+      "sectionPath": [
+        "SEKİZİNCİ BÖLÜM · Çeşitli Hükümler",
+        "Yürürlükten kaldırılan hükümler"
+      ]
+    },
+    {
+      "id": "kanun:5543:m:gecici:1",
+      "maddeKind": "gecici",
+      "maddeNo": "1",
+      "heading": "Geçici Madde 1",
+      "text": "(1) Cumhurbaşkanı, Bulgaristan'dan zorunlu göçe tâbi tutulup, Türkiye'ye gelerek yerleşmek isteyen Türk soylu kişilerle ilgili olarak bu Kanun çerçevesinde yapılacak işlemler ile alınacak kararların genel koordinasyonu ve bu kişiler için yapılan veya yapılacak konutların proje, yapım, kontrol ve hak sahibi seçimi, tahsis ve dağıtımı, kişiler adına temlik ve tapuda tescili ile borçlandırma konularında Toplu Konut İdaresi Başkanını görevlendirebilir.[8]\n (2) Bu Kanun uyarınca hak sahibine tahsis edilmiş olan konutun, takyit süresi içerisinde; işyeri, ticarethane ve sair biçimde amacı dışında kullanılması ya da satış vaadi şerhi konulması, devredilmesi, satılması veya terhin edilmesi hallerinden birinin ya da birkaçının valiliklerce tespit edilmesi üzerine ya da konut bedelinin geri ödenmesine ilişkin borçlanma taksitlerinin yatırılmamış olması gibi hallerde, söz konusu taşınmazın, aynı durumdaki göçmenlerin hizmetinde kullanılmak maksadıyla tapu kaydının iptali ile Toplu Konut İdaresi Başkanlığı adına tescili Toplu Konut İdaresi Başkanlığı tarafından mahkemeden istenir. Mahkemece tapu kaydının iptaline ve Toplu Konut İdaresi Başkanlığı adına tesciline karar verilen konutlar, Toplu Konut İdaresi Başkanlığının talebi üzerine, bu Kanun ve 4/12/1984 tarihli ve 3091 sayılı Taşınmaz Mal Zilyedliğine Yapılan Tecavüzlerin Önlenmesi Hakkında Kanun çerçevesinde valiliklerce tahliye edilir.\n (3) Mahkeme kararı ile taşınmaz malların geri alınması halinde, evvelce ödenen taksitler veya yapılan zaruri ve faydalı giderlerle, taşınmaz maldan elde edilen intifaın bedelleri karşılıklı olarak hesap edilir, değerlerdeki fazlalıklar taraflarca iade edilir. Bu işlemlerden doğan bakiye alacaklar, Toplu Konut İdaresi Başkanlığınca genel hükümlere göre takip ve tahsil olunur.\n (4) Bu madde kapsamında açılacak dava ve takiplerde Toplu Konut İdaresi Başkanlığı her türlü vergi, resim ve harçtan muaftır.\n (5) (Değişik fıkra: 27/11/2008-5819/1 md.) Bulgaristan'dan zorunlu göçe tabi tutulup, Türkiye'ye gelerek yerleşmek isteyen Türk soylu kişilere yaptırılan konutlardan almak üzere müracaat ederek para yatıranlardan konut sahibi olamayanların, bu Kanunun yayımı tarihinden itibaren bir yıl içerisinde müracaat etmeleri halinde yatırmış oldukları bedel, yatırıldığı tarihten ödeneceği tarihe kadar Tüketici Fiyat Endeksi esas alınmak suretiyle hesaplanarak Toplu Konut İdaresi Başkanlığı tarafından göçmen konutları hesabından ödenir. Bu durumda olan şahıslar, Toplu Konut İdaresi Başkanlığınca aranılacak başvuru şartlarını taşımaları kaydıyla talepleri halinde, herhangi bir kura şartına tabi olmaksızın yukarıdaki şekilde hesaplanarak kendilerine ödenecek bedelin, konut peşinat ya da anapara ödemesinden mahsup edilmesi suretiyle Toplu Konut İdaresi Başkanlığının alt gelir grubu ile yoksullara yönelik sosyal konut projelerinden yararlandırılırlar. Süresi içerisinde müracaat etmeyen soydaşların yatırmış oldukları bedel, göçmen konutları hesabına gelir kaydedilerek toplanmış bulunan paralar bu şekilde tasfiye edilir. Toplu Konut İdaresi Başkanlığınca göçmen konutları hesabından karşılanamayan tutarlar, Maliye Bakanlığınca bu amaçla Toplu Konut İdaresi Başkanlığına aktarılacak tutarlardan karşılanır. Bu fıkra hükümlerinin uygulanmasına ilişkin gerekli düzenlemeleri yapmaya Toplu Konut İdaresi Başkanlığı yetkilidir.\n (6) (Ek fıkra: 27/11/2008-5819/1 md.) Bu maddeye göre tahsis edilen ve temlik tarihinden itibaren on yıl geçmeden satılması, bağışlanması, terhin edilmesi, tapu kütüğüne satış vaadi şerhi konulması nedeniyle tahsisi iptal edilen konutlardan, bu fıkranın yürürlüğe girdiği tarih itibarıyla temlik tarihinden itibaren on yıl geçmiş olan konutlarla ilgili yapılacak tasarrufları belirlemeye, Toplu Konut İdaresi Başkanlığının bağlı bulunduğu Bakan yetkilidir.",
+      "preview": "(1) Cumhurbaşkanı, Bulgaristan'dan zorunlu göçe tâbi tutulup, Türkiye'ye gelerek yerleşmek isteyen Türk soylu kişilerle ilgili olarak bu Kan…",
+      "kitap": null,
+      "kisim": null,
+      "bolum": "SEKİZİNCİ BÖLÜM · Çeşitli Hükümler",
+      "ayirim": null,
+      "maddeBaslik": "Yürürlükten kaldırılan hükümler",
+      "sectionPath": [
+        "SEKİZİNCİ BÖLÜM · Çeşitli Hükümler",
+        "Yürürlükten kaldırılan hükümler"
+      ]
+    },
+    {
+      "id": "kanun:5543:m:gecici:2",
+      "maddeKind": "gecici",
+      "maddeNo": "2",
+      "heading": "Geçici Madde 2",
+      "text": "(1) Bu Kanunun yürürlüğe girdiği tarihten itibaren 2510 sayılı Kanun ve anılan Kanunun ek ve tadilleri gereğince hak sahibi olup da iskân edilemeyen aileler bu Kanunun yürürlüğe girdiği tarihten başlayarak iki yıl içinde valiliklere ve Bakanlığa yazılı olarak müracaat ettikleri takdirde, bunlara hak sahibi oldukları tarihte yürürlükte olan Kanun hükümleri ve aşağıdaki esaslar dahilinde iskân yardımı yapılır:\n a) Bu ailelerin halen muhtaç durumda olması gerekir. Ailelerin muhtaçlık durumlarının tespiti için asgari ücretin yıllık tutarı esas alınır.\n b) İlk iskân kararında adı geçen ve halen yaşayan aile fertleri, bir bütün olarak bu yardımdan yararlanırlar. (İptal son cümle: Anayasa Mahkemesi’nin 24/9/2008 tarihli ve E.: 2006/142, K.: 2008/148 sayılı Kararı ile.) (…)\n c) Evlenmek suretiyle aileden ayrılan kadın ve erkekler, müstakil aile olarak bu yolda iskân yardımı isteyemezler.\n ç) İlk iskân kararının veriliş tarihi ile bu Kanunun yürürlüğe girdiği tarih arasında taşınmaz mal edinen aileler, bu taşınmaz malları devir ve temlik etmiş olsalar dahi bu yardımdan yararlanamazlar.\n d) Bu Kanunun yürürlüğe girdiği tarihten itibaren iki yıl içerisinde müracaat etmeyenlerle Bakanlığın yapacağı iskân yardımını herhangi bir nedenle istemeyenler, gösterilen yeri kabul etmeyenler ve iskân edildikleri yeri terk edenler, ikinci bir iskân talebinde bulunamazlar ve iskân hakları kaybolur.\n e) Verilen taşınmaz mallar aile fertleri adına eşit hisselerle tapuya tescil ettirilir. Taşınmaz mallar on yıl süreyle hiçbir şekilde satılamaz, bağışlanamaz, terhin ve haczedilemez. Tapularına bu yolda kayıt düşülür.\n (2) Bu madde hükümlerine göre yapılacak harcamalar Bakanlık bütçesinden karşılanır.",
+      "preview": "(1) Bu Kanunun yürürlüğe girdiği tarihten itibaren 2510 sayılı Kanun ve anılan Kanunun ek ve tadilleri gereğince hak sahibi olup da iskân ed…",
+      "kitap": null,
+      "kisim": null,
+      "bolum": "SEKİZİNCİ BÖLÜM · Çeşitli Hükümler",
+      "ayirim": null,
+      "maddeBaslik": "Yürürlükten kaldırılan hükümler",
+      "sectionPath": [
+        "SEKİZİNCİ BÖLÜM · Çeşitli Hükümler",
+        "Yürürlükten kaldırılan hükümler"
+      ]
+    },
+    {
+      "id": "kanun:5543:m:gecici:3",
+      "maddeKind": "gecici",
+      "maddeNo": "3",
+      "heading": "Geçici Madde 3",
+      "text": "(1) Bu Kanunun öngördüğü yönetmelikler yürürlüğe girinceye kadar, mevcut tüzük ve yönetmeliklerin bu Kanuna aykırı olmayan hükümlerinin uygulanmasına devam olunur.",
+      "preview": "(1) Bu Kanunun öngördüğü yönetmelikler yürürlüğe girinceye kadar, mevcut tüzük ve yönetmeliklerin bu Kanuna aykırı olmayan hükümlerinin uygu…",
+      "kitap": null,
+      "kisim": null,
+      "bolum": "SEKİZİNCİ BÖLÜM · Çeşitli Hükümler",
+      "ayirim": null,
+      "maddeBaslik": "Yürürlükten kaldırılan hükümler",
+      "sectionPath": [
+        "SEKİZİNCİ BÖLÜM · Çeşitli Hükümler",
+        "Yürürlükten kaldırılan hükümler"
+      ]
+    },
+    {
+      "id": "kanun:5543:m:gecici:4",
+      "maddeKind": "gecici",
+      "maddeNo": "4",
+      "heading": "Geçici Madde 4",
+      "text": "(Ek: 21/3/2007-5608/1 md.)\n (1) Tarım İşletmeleri Genel Müdürlüğü Ceylanpınar Tarım İşletmesi Müdürlüğüne ait arazi içinde, mahallinde göçer olarak adlandırılan ve nüfus kayıtlarına bağlı kalınarak 31/12/2003 tarihi itibariyle arazi içinde yaşadıkları ve hayvancılık dışında başka bir işle iştigal etmedikleri, Şanlıurfa Valisinin Başkanlığında, Bayındırlık ve İskân İl Müdürü, Tarım İl Müdürü, Nüfus ve Vatandaşlık İl Müdürü, Defterdar, Tarım Reformu Bölge Müdürü, Kadastro İl Müdürü, GAP Bölge Kalkınma İdaresi Başkanlığı Bölge Müdürü, İl Emniyet Müdürü, Bölge Jandarma Komutanı, Ceylanpınar Kaymakamı ve Tarım İşletmeleri Genel Müdürlüğü Temsilcisinden oluşan Komisyon tarafından bireyleriyle birlikte tespit edilen aileler, bu Kanuna göre hak sahibi sayılır.\n (2) (Değişik: 21/5/2013-6486/9 md.) Mülkiyeti Tarım İşletmeleri Genel Müdürlüğüne ait olan ve Şanlıurfa İli, Ceylanpınar İlçesi, Merkez ve Gümüşsu mevkiilerinde bulunan, ada ve parsel numaraları ile yüzölçümleri ekli (1) sayılı listede belirtilen toplam 141.793.751 metrekare yüzölçümlü taşınmazlardan hak sahipliği Şanlıurfa Valiliğince geçici 4 üncü maddenin birinci fıkrasına göre 2007 yılında tespit edilmiş göçer ailelerinin iskânı için gerekli olan kısımları ayrılarak bedelsiz olarak hak sahiplerine verilmek üzere tapuda Hazine adına tescil edilir ve bu taşınmazlar bu madde kapsamında değerlendirilmek üzere Maliye Bakanlığınca, Bakanlığa tahsis edilir. Tescil işlemleri ve bunlara bağlı tamamlayıcı nitelikteki tüm işlemler her türlü vergi, resim ve harçtan müstesnadır. Hak sahiplerinin iskânı için belirlenen arazide 3/7/2005 tarihli ve 5403 sayılı Toprak Koruma ve Arazi Kullanımı Kanunu ile getirilen sınırlamalara uymak şartıyla tüm ifraz, tevhid ve bunlara bağlı gerekli her türlü işlemler Tapu ve Kadastro Genel Müdürlüğünce yerine getirilir. Ekli (1) sayılı listede ada ve parselleri belirtilen taşınmazlardan, arazi sınırını belirleyen DSİ Mardin Sulama Kanalının böldüğü parsellere ilişkin ada ve parsel numaraları ile alanlar, ifraz işleminden sonra kesinleşir.[9]\n (3) Bu iş için ihtiyaç duyulacak ödenek, yılları Bütçe Kanunları ile gösterilir.\n (4) (Değişik: 21/5/2013-6486/9 md.) Hak sahibi ailelere iskânen verilecek taşınmazların teslimini takiben üç ay içinde, göçer ailelerin bulundukları eski arazilerin üzerinde bulunan ev, baraka, ahır ve benzeri yapı ve müştemilatı valilikçe yıktırılarak bu araziler Ceylanpınar Tarım İşletmeleri Müdürlüğü yetkililerine teslim edilir.",
+      "preview": "(Ek: 21/3/2007-5608/1 md.) (1) Tarım İşletmeleri Genel Müdürlüğü Ceylanpınar Tarım İşletmesi Müdürlüğüne ait arazi içinde, mahallinde göçer…",
+      "kitap": null,
+      "kisim": null,
+      "bolum": "SEKİZİNCİ BÖLÜM · Çeşitli Hükümler",
+      "ayirim": null,
+      "maddeBaslik": "Yürürlükten kaldırılan hükümler",
+      "sectionPath": [
+        "SEKİZİNCİ BÖLÜM · Çeşitli Hükümler",
+        "Yürürlükten kaldırılan hükümler"
+      ]
+    },
+    {
+      "id": "kanun:5543:m:gecici:5",
+      "maddeKind": "gecici",
+      "maddeNo": "5",
+      "heading": "Geçici Madde 5",
+      "text": "(Ek: 29/3/2011-6215/22 md.)[10]\n (1) Kıbrıs’a Anamur (Dragon) Çayından Boru ile Su Götürme Projesi kapsamındaki Alaköprü Barajı rezervuarı ile inşaat alanında kalan ve bulundukları yerleşim yerlerinden kaldırılmaları zorunlu bulunan orman içi ve kenarı mahalle, köy veya belde halkının iskânlarının temini için, Çevre ve Orman Bakanlığınca bilim ve fen bakımından orman olarak muhafazasında hiçbir yarar görülmeyen ve tarım alanına dönüştürülmesi de mümkün olmayan orman sınırları dışına çıkarılmış ve çıkarılacak alanlar, Cumhurbaşkanınca alınacak kararda belirtilen şekil ve şartlar çerçevesinde Bayındırlık ve İskân Bakanlığına devredilir.\n (2) Birinci fıkra hükümlerine göre iskân edilecek ailelerin hak sahipliliği ve borçlandırılmalarına ilişkin usul ve esaslar Cumhurbaşkanınca belirlenir.\n (3) Çevre ve Orman Bakanlığınca belirlenen alanlarda, 21/6/1987 tarihli ve 3402 sayılı Kadastro Kanununun 22 nci maddesinin kadastrosu yapılmış olan yerlerin ikinci defa kadastroya tabi tutulamayacağına ilişkin hükmü uygulanmaz.\n (4) Birinci fıkraya göre Bayındırlık ve İskân Bakanlığına devredilecek alanların tespiti amacıyla Çevre ve Orman Bakanlığınca yeteri kadar orman kadastro komisyonu görevlendirilir ve bu tespit sırasında ilan süresi bir hafta, itiraz süresi bir ay olarak uygulanır.\n (5) 31/8/1956 tarihli ve 6831 sayılı Orman Kanununun 1 inci maddesine göre ilk defa yapılacak orman kadastrosu uygulamasındaki işlemlere ilişkin sürelerde de dördüncü fıkra hükümleri uygulanır.",
+      "preview": "(Ek: 29/3/2011-6215/22 md.)[10] (1) Kıbrıs’a Anamur (Dragon) Çayından Boru ile Su Götürme Projesi kapsamındaki Alaköprü Barajı rezervuarı il…",
+      "kitap": null,
+      "kisim": null,
+      "bolum": "SEKİZİNCİ BÖLÜM · Çeşitli Hükümler",
+      "ayirim": null,
+      "maddeBaslik": "Yürürlükten kaldırılan hükümler",
+      "sectionPath": [
+        "SEKİZİNCİ BÖLÜM · Çeşitli Hükümler",
+        "Yürürlükten kaldırılan hükümler"
+      ]
+    },
+    {
+      "id": "kanun:5543:m:gecici:6",
+      "maddeKind": "gecici",
+      "maddeNo": "6",
+      "heading": "Geçici Madde 6",
+      "text": "(Ek: 12/7/2013-6495/44 md.)\n (1) 12/11/2012 tarihli ve 6360 sayılı On Dört İlde Büyükşehir Belediyesi ve Yirmi Yedi İlçe Kurulması ile Bazı Kanun ve Kanun Hükmünde Kararnamelerde Değişiklik Yapılmasına Dair Kanun ile tüzel kişiliği kaldırılarak mahalleye dönüşen köylerde bu Kanunun 16 ncı maddesi uygulamalarına devam edilebilir. Bu yerlerde hak sahipliği, borçlandırma, yer seçimi, yer belirlenmesi, arsa satışı, arsa devri ve imar ile diğer işlere ilişkin tüm uygulamalar Bakanlıkça belirlenen usul ve esaslara göre yürütülür. Bu fıkranın uygulanması sırasında 6360 sayılı Kanun, 10/7/2004 tarihli ve 5216 sayılı Büyükşehir Belediyesi Kanunu ile 3/7/2005 tarihli ve 5393 sayılı Belediye Kanunu ve diğer kanunların bu Kanuna aykırı hükümleri uygulanmaz.\n (2) Bu madde kapsamındaki taşınmazlardan mera vasfında olanlar, 25/2/1998 tarihli ve 4342 sayılı Mera Kanunu gereğince istenilen ot bedeli alınmaksızın tahsis amacı değiştirilerek tapuda Hazine adına tescil edilir ve bu madde kapsamında değerlendirilir.",
+      "preview": "(Ek: 12/7/2013-6495/44 md.) (1) 12/11/2012 tarihli ve 6360 sayılı On Dört İlde Büyükşehir Belediyesi ve Yirmi Yedi İlçe Kurulması ile Bazı K…",
+      "kitap": null,
+      "kisim": null,
+      "bolum": "SEKİZİNCİ BÖLÜM · Çeşitli Hükümler",
+      "ayirim": null,
+      "maddeBaslik": "Yürürlükten kaldırılan hükümler",
+      "sectionPath": [
+        "SEKİZİNCİ BÖLÜM · Çeşitli Hükümler",
+        "Yürürlükten kaldırılan hükümler"
+      ]
+    },
+    {
+      "id": "kanun:5543:m:gecici:7",
+      "maddeKind": "gecici",
+      "maddeNo": "7",
+      "heading": "Geçici Madde 7",
+      "text": "(Ek: 12/7/2013-6495/45 md.)\n (1) Mülga 2510 sayılı Kanun hükümlerine göre Sarıkeçili göçebe grubuna mensup göçebe oldukları gerekçesiyle ve tarım dışı olarak Karaman ilinde iskân edilip, kendilerine taşınmaz verilen ailelerden, evlenmek suretiyle ayrılanlar ile sonradan doğup göçebelik ile ilgili şartları haiz olanlardan, 12/1/2009 tarihinde yapılan iskân duyurusu neticesinde hak sahibi olarak kabul edilen aileler, bu maddenin yürürlüğe girdiği tarihten itibaren altmış gün içinde müracaat etmeleri hâlinde bu Kanun kapsamında hak sahibi olarak kabul edilebilirler.\n (2) Birinci fıkra dışında kalan ve mülga 2510 sayılı Kanun ile bu Kanun hükümlerine göre hak sahibi olarak belirlenmesine rağmen en az on yıl içinde kendilerine taşınmaz verilemeyen ailelerden, evlenmek suretiyle ayrılanlar ile sonradan bu Kanunda belirtilen hak sahipliği şartlarını haiz oldukları anlaşılanlar, bu maddenin yürürlüğe girdiği tarihten itibaren bir yıl içinde müracaat etmeleri hâlinde hak sahibi olarak kabul edilebilirler.\n (3) Mülga 2510 sayılı Kanuna göre hak sahibi olanların hak sahiplikleri herhangi bir koşul aranmaksızın bu Kanuna göre devam eder.",
+      "preview": "(Ek: 12/7/2013-6495/45 md.) (1) Mülga 2510 sayılı Kanun hükümlerine göre Sarıkeçili göçebe grubuna mensup göçebe oldukları gerekçesiyle ve t…",
+      "kitap": null,
+      "kisim": null,
+      "bolum": "SEKİZİNCİ BÖLÜM · Çeşitli Hükümler",
+      "ayirim": null,
+      "maddeBaslik": "Yürürlükten kaldırılan hükümler",
+      "sectionPath": [
+        "SEKİZİNCİ BÖLÜM · Çeşitli Hükümler",
+        "Yürürlükten kaldırılan hükümler"
+      ]
+    },
+    {
+      "id": "kanun:5543:m:gecici:8",
+      "maddeKind": "gecici",
+      "maddeNo": "8",
+      "heading": "Geçici Madde 8",
+      "text": "(Ek: 10/9/2014-6552/125 md.)[11]\n (1) Artvin ili Yusufeli ilçe merkezinin, 16/4/2008 tarihli ve 5753 sayılı Artvin İli Yusufeli İlçesinin Merkezinin Değiştirilmesi Hakkında Kanun ile belirlenen alana naklinde, bu alanda iskân edilecek aileler ile Yusufeli Barajı ve Hidroelektrik Santrali yapımından etkilenen köyler için yeniden yapılacak iskân etütleri sonrasında belirlenecek alanlarda iskân edilecek ailelerin hak sahipliği ve borçlandırılmaları Cumhurbaşkanınca belirlenecek usul ve esaslara göre yürütülür.\n (2) Denizli ili Acıpayam ilçesi Dalaman Çayı üzerinde Sami Soydam Barajı ve Hidroelektrik Santrali Projesi kapsamında kalan ve bulundukları yerleşim yerlerinden kaldırılmaları zorunlu bulunan orman içi ve kenarı mahalle, köy veya belde halkının iskânlarının temini, ailelerin hak sahipliği ve borçlandırılmalarına ilişkin usul ve esaslar Cumhurbaşkanınca belirlenir.\n (3) Batman ili Hasankeyf ilçe merkezinde Ilısu HES Projesi yapımından etkilenen ailelerin, Yeni Hasankeyf Yerleşim Alanına nakilleri, hak sahiplikleri ve borçlandırılmalarına ilişkin usul ve esaslar Cumhurbaşkanınca belirlenir.\n (4) (Ek:16/11/2022-7421/21 md.) Antalya ili Kaş ilçesi Kemer mahallesinde Antalya-Kaş Kasaba Projesi Kıbrıs Barajı yapımından etkilenen ailelerin, iskânlarının temini için yeniden yapılacak iskân etütleri ve devamında iskân edilecek ailelerin yeni yerleşim alanına nakilleri, hak sahipliği duyuruları, hak sahiplikleri ve borçlandırılmalarına ilişkin işlemler bu Kanunun ek 2 nci maddesi kapsamında Cumhurbaşkanınca belirlenecek usul ve esaslar çerçevesinde Devlet Su İşleri Genel Müdürlüğü tarafından yürütülür.",
+      "preview": "(Ek: 10/9/2014-6552/125 md.)[11] (1) Artvin ili Yusufeli ilçe merkezinin, 16/4/2008 tarihli ve 5753 sayılı Artvin İli Yusufeli İlçesinin Mer…",
+      "kitap": null,
+      "kisim": null,
+      "bolum": "SEKİZİNCİ BÖLÜM · Çeşitli Hükümler",
+      "ayirim": null,
+      "maddeBaslik": "Yürürlükten kaldırılan hükümler",
+      "sectionPath": [
+        "SEKİZİNCİ BÖLÜM · Çeşitli Hükümler",
+        "Yürürlükten kaldırılan hükümler"
+      ]
+    },
+    {
+      "id": "kanun:5543:m:gecici:9",
+      "maddeKind": "gecici",
+      "maddeNo": "9",
+      "heading": "Geçici Madde 9",
+      "text": "(Ek: 27/3/2015-6639/11 md.)[12]\n (1) Konya ili Hadim ilçesi Dedemli mahallesinde Bozkır Barajı yapımından etkilenen ailelerin, belirlenecek yeni yerleşim alanına nakilleri, hak sahipliği duyuruları, hak sahiplikleri ve borçlandırılmalarına ilişkin usul ve esaslar Cumhurbaşkanınca belirlenir.",
+      "preview": "(Ek: 27/3/2015-6639/11 md.)[12] (1) Konya ili Hadim ilçesi Dedemli mahallesinde Bozkır Barajı yapımından etkilenen ailelerin, belirlenecek y…",
+      "kitap": null,
+      "kisim": null,
+      "bolum": "SEKİZİNCİ BÖLÜM · Çeşitli Hükümler",
+      "ayirim": null,
+      "maddeBaslik": "Yürürlükten kaldırılan hükümler",
+      "sectionPath": [
+        "SEKİZİNCİ BÖLÜM · Çeşitli Hükümler",
+        "Yürürlükten kaldırılan hükümler"
+      ]
+    },
+    {
+      "id": "kanun:5543:m:gecici:10",
+      "maddeKind": "gecici",
+      "maddeNo": "10",
+      "heading": "Geçici Madde 10",
+      "text": "(Ek: 16/5/2018-7144/17 md.)\n (1) Mülga 2510 sayılı Kanun ile bu Kanun kapsamında hak sahibi olan ailelerden kendilerine verilen taşınmazlara ait ödemedikleri anapara taksit borçlarının her biri için, vadesinin bittiği tarihten itibaren ödeme tarihine kadar geçen süre için tüketici fiyat endeksindeki (TÜFE) değişim oranı ile güncellenmiş tutarını bu maddenin yürürlüğe girdiği tarihten itibaren bir yıl içerisinde defaten ödeyenlerden gecikme ve temerrüt faizi alınmaz. Bu fıkranın uygulanmasına ilişkin usul ve esaslar Maliye Bakanlığının görüşü alınarak Bakanlıkça belirlenir.\n (2) Mülga 2510 sayılı Kanun hükümlerine göre Diyarbakır ili Bismil ilçesi Çeltikli’de hak sahibi kabul edilerek kendilerine 2003 ve 2004 yıllarında taşınmaz verilen, ancak konutları ve işletme binalarının zemin hareketlerinden dolayı hasar gördüğü teknik raporlarla tespit edilen hak sahibi ailelerden bu maddenin yürürlüğe girdiği tarihten itibaren altmış gün içerisinde Diyarbakır Valiliğince yaptırılacak teknik tespit raporuna göre hak sahiplerine yapılacak yazılı bildirim tarihini izleyen günden itibaren yüz seksen gün içinde varsa açmış oldukları davadan feragat ederek müracaat edenlerin konut ve işletme binaları yıkılarak yerlerine yenileri yapılır. Bu süre sonrasında yapılan müracaatlar dikkate alınmaz ve herhangi bir hak talebinde bulunulamaz. Bu aileler; yapılan ve yapılacak yapıların bedelleri için mülga 2510 sayılı Kanun hükümlerine göre yeniden borçlandırılır ve varsa önceden ödedikleri bedeller güncellenerek yeni borçlarından mahsup edilir. Konutları yeniden yapılacak hak sahibi ailelere, talep etmeleri halinde konutları teslim edilinceye kadar borçlarına eklenmek kaydıyla kira yardımı yapılabilir. Diğer hususlarda ilgili mevzuat hükümleri uygulanır.",
+      "preview": "(Ek: 16/5/2018-7144/17 md.) (1) Mülga 2510 sayılı Kanun ile bu Kanun kapsamında hak sahibi olan ailelerden kendilerine verilen taşınmazlara…",
+      "kitap": null,
+      "kisim": null,
+      "bolum": "SEKİZİNCİ BÖLÜM · Çeşitli Hükümler",
+      "ayirim": null,
+      "maddeBaslik": "Yürürlükten kaldırılan hükümler",
+      "sectionPath": [
+        "SEKİZİNCİ BÖLÜM · Çeşitli Hükümler",
+        "Yürürlükten kaldırılan hükümler"
+      ]
+    },
+    {
+      "id": "kanun:5543:m:49",
+      "maddeKind": "madde",
+      "maddeNo": "49",
+      "heading": "Madde 49",
+      "text": "(1) Bu Kanun yayımı tarihinde yürürlüğe girer.",
+      "preview": "(1) Bu Kanun yayımı tarihinde yürürlüğe girer.",
+      "kitap": null,
+      "kisim": null,
+      "bolum": "SEKİZİNCİ BÖLÜM · Çeşitli Hükümler",
+      "ayirim": null,
+      "maddeBaslik": "Yürürlük",
+      "sectionPath": [
+        "SEKİZİNCİ BÖLÜM · Çeşitli Hükümler",
+        "Yürürlük"
+      ]
+    },
+    {
+      "id": "kanun:5543:m:50",
+      "maddeKind": "madde",
+      "maddeNo": "50",
+      "heading": "Madde 50",
+      "text": "(1) Bu Kanun hükümlerini Bakanlar Kurulu yürütür.\n (Ek: 21/5/2013-6486/9 md.)\n 5543 SAYILI KANUNA EK VE DEĞİŞİKLİK GETİREN MEVZUATIN VEYA\n ANAYASA MAHKEMESİ TARAFINDAN İPTAL EDİLEN HÜKÜMLERİN\n YÜRÜRLÜĞE GİRİŞ TARİHİNİ GÖSTERİR LİSTE\n\n Değiştiren Kanunun/ KHK’nin veya İptal Eden Anayasa Mahkemesi Kararının Numarası\n 5543 Sayılı Kanunun Değişen veya İptal Edilen Maddeleri\n Yürürlüğe Giriş Tarihi\n\n 5608\n Geçici Madde 4\n 28/3/2007\n\n 5819\n Geçici Madde 1\n 5/12/2008\n\n 6215\n Geçici Madde 5\n 12/4/2011\n\n 6306\n Ek Madde 1\n 31/5/2012\n\n 6486\n Geçici Madde 4, (1) Sayılı Liste\n 29/5/2013\n\n 6495\n GEÇİCİ MADDE 6, 7\n 2/8/2013\n\n 6552\n GEÇİCİ MADDE 8\n 11/9/2014\n\n 6639\n GEÇİCİ MADDE 9\n 15/4/2015\n\n 6645\n GEÇİCİ MADDE 4\n 23/4/2015\n\n 6824\n EK MADDE 2\n 8/3/2017\n\n 7143\n 21\n 18/5/2018\n\n 7144\n GEÇİCİ MADDE 10\n 25/5/2018\n\n KHK/700\n 6, 7, 8, EK MADDE 1, EK MADDE 2, GEÇİCİ MADDE 1, GEÇİCİ MADDE 5, GEÇİCİ MADDE 8, GEÇİCİ MADDE 9\n 24/6/2018 tarihinde birlikte yapılan Türkiye Büyük Millet Meclisi ve Cumhurbaşkanlığı seçimleri sonucunda Cumhurbaşkanının andiçerek göreve başladığı tarihte (9/7/2018)\n\n 7221\n 8, 17, 36\n 20/2/2020\n\n 7410\n 27\n 15/6/2022\n\n 7421\n Geçici Madde 8\n 26/11/2022\n\n [1] 2/7/2018 tarihli ve 700 sayılı KHK’nin 174 üncü maddesiyle, bu fıkrada yer alan “Dışişleri Bakanlığının teklifi üzerine Bakanlar Kurulunca” ibaresi “Cumhurbaşkanınca” şeklinde değiştirilmiştir.\n\n [2] 2/7/2018 tarihli ve 700 sayılı KHK’nin 174 üncü maddesiyle, bu fıkrada yer alan “, ilgili bakanlıkların görüşü alınarak Dışişleri Bakanlığının teklifi üzerine Bakanlar Kurulu” ibaresi “Cumhurbaşkanı” şeklinde değiştirilmiştir.\n\n [3] 14/2/2020 tarihli ve 7221 sayılı Kanunun 35 inci maddesiyle, bu fıkrada yer alan “Bakanlıkça” ibaresi “İçişleri Bakanlığınca” şeklinde değiştirilmiştir.\n\n [4] 2/7/2018 tarihli ve 700 sayılı KHK’nin 174 üncü maddesiyle, bu fıkrada yer alan “Bakanlar Kurulu” ibaresi “Cumhurbaşkanı” şeklinde değiştirilmiştir.\n\n [5] 14/2/2020 tarihli ve 7221 sayılı Kanunun 37 nci maddesiyle, bu fıkrada yer alan “muamelesinden” ibaresi “ve kadastro işlemlerinden” şeklinde, “katkı payı” ibaresi “hizmet bedeli” şeklinde değiştirilmiştir.\n\n [6] 2/7/2018 tarihli ve 700 sayılı KHK’nin 174 üncü maddesiyle, bu fıkrada yer alan “Bakanlar Kurulunca” ibareleri “Cumhurbaşkanınca” ve “Bakanlar Kurulu” ibaresi “Cumhurbaşkanı” şeklinde değiştirilmiştir.\n\n [7] 2/7/2018 tarihli ve 700 sayılı KHK’nin 174 üncü maddesiyle, bu fıkrada yer alan “Orman ve Su İşleri Bakanlığının teklifi üzerine Bakanlar Kurulu” ibaresi “Cumhurbaşkanı” şeklinde değiştirilmiştir.\n\n [8] 2/7/2018 tarihli ve 700 sayılı KHK’nin 174 üncü maddesiyle, bu fıkrada yer alan “Başbakan” ibaresi “Cumhurbaşkanı” şeklinde değiştirilmiştir.\n\n [9] 4/4/2015 tarihli ve 6645 sayılı Kanunun 30 uncu maddesiyle, bu fıkranın birinci cümlesinde yer alan “tapuda Hazine adına tescil edilir.” ibaresinden önce gelmek üzere “hak sahiplerine verilmek üzere” ibaresi eklenmiştir.\n\n [10] 2/7/2018 tarihli ve 700 sayılı KHK’nin 174 üncü maddesiyle, bu maddenin birinci ve ikinci fıkralarında yer alan “Bakanlar Kurulunca” ibareleri “Cumhurbaşkanınca” şeklinde değiştirilmiştir.\n\n [11] 2/7/2018 tarihli ve 700 sayılı KHK’nin 174 üncü maddesiyle, bu maddenin birinci, ikinci ve üçüncü fıkralarında yer alan “Bakanlar Kurulunca” ibareleri “Cumhurbaşkanınca” şeklinde değiştirilmiştir.\n\n [12] 2/7/2018 tarihli ve 700 sayılı KHK’nin 174 üncü maddesiyle, bu maddede yer alan “Bakanlar Kurulunca” ibaresi “Cumhurbaşkanınca” şeklinde değiştirilmiştir.",
+      "preview": "(1) Bu Kanun hükümlerini Bakanlar Kurulu yürütür. (Ek: 21/5/2013-6486/9 md.) 5543 SAYILI KANUNA EK VE DEĞİŞİKLİK GETİREN MEVZUATIN VEYA ANAY…",
+      "kitap": null,
+      "kisim": null,
+      "bolum": "SEKİZİNCİ BÖLÜM · Çeşitli Hükümler",
+      "ayirim": null,
+      "maddeBaslik": "Yürütme",
+      "sectionPath": [
+        "SEKİZİNCİ BÖLÜM · Çeşitli Hükümler",
+        "Yürütme"
+      ]
+    }
+  ]
+}

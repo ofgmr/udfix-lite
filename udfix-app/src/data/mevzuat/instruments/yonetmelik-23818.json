@@ -1,0 +1,1560 @@
+{
+  "id": "yonetmelik:23818",
+  "kind": "yonetmelik",
+  "no": "23818",
+  "title": "Bilirkişilik Yönetmeliği",
+  "shortName": "BilirkişiYön",
+  "aliases": [
+    "BilirkişiYön",
+    "Bilirkişilik Yönetmeliği",
+    "23818"
+  ],
+  "tur": 7,
+  "tertip": 5,
+  "sourceUrl": "https://www.mevzuat.gov.tr/mevzuat?MevzuatNo=23818&MevzuatTur=7&MevzuatTertip=5",
+  "kabulTarihi": null,
+  "maddeCount": 91,
+  "maddeler": [
+    {
+      "id": "yonetmelik:23818:m:1",
+      "maddeKind": "madde",
+      "maddeNo": "1",
+      "heading": "Madde 1",
+      "text": "(1) Bu Yönetmeliğin amacı; bilirkişiliğe başvuru ve kabul şartları, bilirkişilerin nitelikleri, eğitimi, sicil ve listeye kaydı, görevlendirilmesi, uymaları gereken temel ve etik ilkeler, çalışma esasları, denetimi, sicil ve listeden çıkarılması ile Bilirkişilik Danışma Kurulu, Bilirkişilik Daire Başkanlığı ve bilirkişilik bölge kurullarının çalışma usul ve esaslarını düzenlemektir.",
+      "preview": "(1) Bu Yönetmeliğin amacı; bilirkişiliğe başvuru ve kabul şartları, bilirkişilerin nitelikleri, eğitimi, sicil ve listeye kaydı, görevlendir…",
+      "kitap": null,
+      "kisim": null,
+      "bolum": null,
+      "ayirim": null,
+      "maddeBaslik": null,
+      "sectionPath": []
+    },
+    {
+      "id": "yonetmelik:23818:m:2",
+      "maddeKind": "madde",
+      "maddeNo": "2",
+      "heading": "Madde 2",
+      "text": "(1) Bu Yönetmelik adlî ve idarî yargı alanında yürütülen her türlü bilirkişilik faaliyetini kapsar.\n (2) Kanunlarda bilirkişilik hizmeti verebileceği öngörülen kurumlar ile yargı mercilerinin talebi üzerine bilimsel ve teknik görüş bildiren kamu kurum ve kuruluşları bu Yönetmeliğin kapsamı dışındadır.",
+      "preview": "(1) Bu Yönetmelik adlî ve idarî yargı alanında yürütülen her türlü bilirkişilik faaliyetini kapsar. (2) Kanunlarda bilirkişilik hizmeti vere…",
+      "kitap": null,
+      "kisim": null,
+      "bolum": null,
+      "ayirim": null,
+      "maddeBaslik": "Kapsam",
+      "sectionPath": [
+        "Kapsam"
+      ]
+    },
+    {
+      "id": "yonetmelik:23818:m:3",
+      "maddeKind": "madde",
+      "maddeNo": "3",
+      "heading": "Madde 3",
+      "text": "(1) Bu Yönetmelik, 3/11/2016 tarihli ve 6754 sayılı Bilirkişilik Kanununun 18 inci maddesine dayanılarak hazırlanmıştır.",
+      "preview": "(1) Bu Yönetmelik, 3/11/2016 tarihli ve 6754 sayılı Bilirkişilik Kanununun 18 inci maddesine dayanılarak hazırlanmıştır.",
+      "kitap": null,
+      "kisim": null,
+      "bolum": null,
+      "ayirim": null,
+      "maddeBaslik": "Dayanak",
+      "sectionPath": [
+        "Dayanak"
+      ]
+    },
+    {
+      "id": "yonetmelik:23818:m:4",
+      "maddeKind": "madde",
+      "maddeNo": "4",
+      "heading": "Madde 4",
+      "text": "(1) Bu Yönetmelikte geçen;\n a) Bakanlık: Adalet Bakanlığını,\n b) Başkan: Bilirkişilik Danışma Kurulu Başkanını,\n c) Bilirkişi: Çözümü uzmanlığı, özel veya teknik bilgiyi gerektiren hâllerde oy ve görüşünü sözlü veya yazılı olarak vermesi için başvurulan gerçek veya özel hukuk tüzel kişisini,\n ç) Bilirkişi Bilgi Sistemi: Bilirkişilerin internet üzerinden UYAP’a erişim yaparak elektronik ortamda işlem yapabilmelerini sağlayan sistemi,\n d) Bilişim sistemi: Bilgisayar, çevre birimleri, iletişim altyapısı ve programlardan oluşan veri işleme, saklama, düzeltme, silme, yok etme ve iletmeye yönelik sistemi,\n e) Bölge kurulu: Bilirkişilik bölge kurullarını,\n f) Daire Başkanlığı: Adalet Bakanlığı Hukuk İşleri Genel Müdürlüğü bünyesinde kurulan Bilirkişilik Daire Başkanlığını,\n g) Danışma Kurulu: Bilirkişilik Danışma Kurulunu,\n ğ) Elektronik ortam: Bilişim sistemi ve bilişim ağından oluşan toplam ortamı,\n h) Genel Müdürlük: Adalet Bakanlığı Hukuk İşleri Genel Müdürlüğünü,\n ı) Kanun: Bilirkişilik Kanununu,\n i) (Değişik:RG-3/5/2025-32889) Liste: Bilirkişilik siciline kayıtlı gerçek kişilerin ad, soyad ve mesleklerini, tüzel kişilerin ticaret ünvanlarını ve işletme konularını, bilirkişilerin temel ve alt uzmanlık alanlarını gösteren ve bölge kurulları tarafından hazırlanan bilirkişi listesini,\n j) Sicil: Bilirkişilik sicilini,\n k) Tarife: Daire Başkanlığı tarafından yıllık olarak hazırlanan Bilirkişilik Asgari Ücret Tarifesini,\n l) Temel eğitim: Kanunlarda yer alan esaslar ve Bakanlık tarafından belirlenen ilkeler kapsamında bilirkişiliğe başvuru öncesinde alınması gereken zorunlu eğitimi,\n m) UYAP: Adalet hizmetlerinin elektronik ortamda yürütülmesi amacıyla oluşturulan Ulusal Yargı Ağı Bilişim Sistemini,\n ifade eder.",
+      "preview": "(1) Bu Yönetmelikte geçen; a) Bakanlık: Adalet Bakanlığını, b) Başkan: Bilirkişilik Danışma Kurulu Başkanını, c) Bilirkişi: Çözümü uzmanlığı…",
+      "kitap": null,
+      "kisim": null,
+      "bolum": null,
+      "ayirim": null,
+      "maddeBaslik": "Tanımlar",
+      "sectionPath": [
+        "Tanımlar"
+      ]
+    },
+    {
+      "id": "yonetmelik:23818:m:5",
+      "maddeKind": "madde",
+      "maddeNo": "5",
+      "heading": "Madde 5",
+      "text": "(1) Bilirkişi, görevini dürüstlük kuralları çerçevesinde bağımsız, tarafsız ve objektif olarak yerine getirir.\n (2) Bilirkişi, raporunda çözümü uzmanlığı, özel veya teknik bilgiyi gerektiren hususlar dışında açıklama yapamaz; hukuki nitelendirme ve değerlendirmelerde bulunamaz.\n (3) Genel bilgi veya tecrübeyle ya da hâkimlik mesleğinin gerektirdiği hukuki bilgiyle çözümlenmesi mümkün olan konularda bilirkişiye başvurulamaz.\n (4) Bilirkişi, kendisine tevdi olunan görevi bizzat yerine getirmekle yükümlü olup, görevinin icrasını kısmen yahut tamamen başka bir kimseye devredemez.\n (5) Bilirkişi, görevi sebebiyle kendisine tevdi edilen bilgi ve belgelerin veya öğrendiği sırların gizliliğini sağlamakla ve korumakla yükümlüdür. Bu yükümlülük, bilirkişilik görevi sona erdikten sonra da devam eder.\n (6) Çözümü uzmanlığı, özel veya teknik bilgiyi gerektiren sorun açıkça belirtilmeden ve inceleme yaptırılacak konunun kapsamı ile sınırları açıkça gösterilmeden bilirkişi görevlendirilemez.\n (7) Aynı konuda bir kez rapor alınması esastır. Ancak rapordaki eksiklik veya belirsizliğin giderilmesi için ek rapor istenebilir.\n (8) UYAP ile bu Sisteme entegre bilişim sistemleri veya yazılımlar vasıtasıyla ulaşılabilen bilgiler veya çözülebilen sorunlar için bilirkişiye başvurulamaz.",
+      "preview": "(1) Bilirkişi, görevini dürüstlük kuralları çerçevesinde bağımsız, tarafsız ve objektif olarak yerine getirir. (2) Bilirkişi, raporunda çözü…",
+      "kitap": null,
+      "kisim": null,
+      "bolum": "İKİNCİ BÖLÜM · Temel ve Etik İlkeler",
+      "ayirim": null,
+      "maddeBaslik": "Temel ilkeler",
+      "sectionPath": [
+        "İKİNCİ BÖLÜM · Temel ve Etik İlkeler",
+        "Temel ilkeler"
+      ]
+    },
+    {
+      "id": "yonetmelik:23818:m:6",
+      "maddeKind": "madde",
+      "maddeNo": "6",
+      "heading": "Madde 6",
+      "text": "(1) Sicile ve listeye kaydolan bilirkişiler ile liste dışından görevlendirilen bilirkişiler, bu Yönetmeliğin 7 ila 14 üncü maddelerindeki ilkelere ve bilirkişilik göreviyle bağdaştığı ölçüde 13/4/2005 tarihli ve 25785 sayılı Resmî Gazete’de yayımlanan Kamu Görevlileri Etik Davranış İlkeleri ile Başvuru Usul ve Esasları Hakkında Yönetmelikte düzenlenen etik ilkelere uymakla yükümlüdürler.",
+      "preview": "(1) Sicile ve listeye kaydolan bilirkişiler ile liste dışından görevlendirilen bilirkişiler, bu Yönetmeliğin 7 ila 14 üncü maddelerindeki il…",
+      "kitap": null,
+      "kisim": null,
+      "bolum": "İKİNCİ BÖLÜM · Temel ve Etik İlkeler",
+      "ayirim": null,
+      "maddeBaslik": "Etik ilkelerin kapsamı ve etik ilkelere bağlılık",
+      "sectionPath": [
+        "İKİNCİ BÖLÜM · Temel ve Etik İlkeler",
+        "Etik ilkelerin kapsamı ve etik ilkelere bağlılık"
+      ]
+    },
+    {
+      "id": "yonetmelik:23818:m:7",
+      "maddeKind": "madde",
+      "maddeNo": "7",
+      "heading": "Madde 7",
+      "text": "(1) Bilirkişi, adalete hizmet etme bilinciyle, görevini etkin, zamanında ve verimli biçimde yerine getirmeyi, sunduğu hizmet kalitesini yükseltmeyi hedefler.\n (2) Bilirkişi, oy ve görüşünü oluştururken uzmanlık alanına ait teknik terim ve ifadeleri, mümkün olduğu ölçüde, görevlendirmeyi yapan merci ve tarafların anlayabileceği bir dil ile açıklar.",
+      "preview": "(1) Bilirkişi, adalete hizmet etme bilinciyle, görevini etkin, zamanında ve verimli biçimde yerine getirmeyi, sunduğu hizmet kalitesini yüks…",
+      "kitap": null,
+      "kisim": null,
+      "bolum": "İKİNCİ BÖLÜM · Temel ve Etik İlkeler",
+      "ayirim": null,
+      "maddeBaslik": "Yetkinlik ve mesleki özen",
+      "sectionPath": [
+        "İKİNCİ BÖLÜM · Temel ve Etik İlkeler",
+        "Yetkinlik ve mesleki özen"
+      ]
+    },
+    {
+      "id": "yonetmelik:23818:m:8",
+      "maddeKind": "madde",
+      "maddeNo": "8",
+      "heading": "Madde 8",
+      "text": "(1) Bilirkişi, görevlendirmeyi yapan mercie, davanın taraflarına ve kendi işverenine karşı bağımsız olup, görevini yalnızca uzmanlık alanındaki bilimsel verilere göre yerine getirir.\n (2) Bilirkişi, bağımsızlığına zarar verebilecek veya böyle bir izlenim uyandırabilecek her türlü davranış ve ilişkiden uzak durur.",
+      "preview": "(1) Bilirkişi, görevlendirmeyi yapan mercie, davanın taraflarına ve kendi işverenine karşı bağımsız olup, görevini yalnızca uzmanlık alanınd…",
+      "kitap": null,
+      "kisim": null,
+      "bolum": "İKİNCİ BÖLÜM · Temel ve Etik İlkeler",
+      "ayirim": null,
+      "maddeBaslik": "Bağımsızlık",
+      "sectionPath": [
+        "İKİNCİ BÖLÜM · Temel ve Etik İlkeler",
+        "Bağımsızlık"
+      ]
+    },
+    {
+      "id": "yonetmelik:23818:m:9",
+      "maddeKind": "madde",
+      "maddeNo": "9",
+      "heading": "Madde 9",
+      "text": "(1) Bilirkişi, görevini dil, ırk, renk, cinsiyet, siyasi düşünce, felsefi inanç, din, mezhep ve benzeri sebeplerle ayrım yapmaksızın dürüstlük ve tarafsızlık ilkeleri doğrultusunda yerine getirir.\n (2) Bilirkişi, görev süresince doğrudan veya dolaylı olarak uyuşmazlığın taraflarından gelen uzman görüşü, danışmanlık, hakemlik ya da buna benzer bir görevi kabul edemez.\n (3) Bilirkişi, yakınlarının veya iş ilişkisinin bulunduğu kişi, kurum veya kuruluşların, tarafı olduğu ya da ilgili bulunduğu davalarda görevlendirmeyi kabul edemez.",
+      "preview": "(1) Bilirkişi, görevini dil, ırk, renk, cinsiyet, siyasi düşünce, felsefi inanç, din, mezhep ve benzeri sebeplerle ayrım yapmaksızın dürüstl…",
+      "kitap": null,
+      "kisim": null,
+      "bolum": "İKİNCİ BÖLÜM · Temel ve Etik İlkeler",
+      "ayirim": null,
+      "maddeBaslik": "Dürüstlük ve tarafsızlık",
+      "sectionPath": [
+        "İKİNCİ BÖLÜM · Temel ve Etik İlkeler",
+        "Dürüstlük ve tarafsızlık"
+      ]
+    },
+    {
+      "id": "yonetmelik:23818:m:10",
+      "maddeKind": "madde",
+      "maddeNo": "10",
+      "heading": "Madde 10",
+      "text": "(1) Bilirkişi, görevinin saygınlığını ve kişilerin adalete olan güvenini zedeleyen veya şüpheye düşüren her türlü tavır ve davranıştan kaçınır.\n (2) Bilirkişi, kendisine tevdi olunan görevin her türlü kişisel veya özel menfaatin üzerinde olduğu bilinciyle hareket eder; görevini layıkıyla yerine getirir.\n (3) Bilirkişi, görev almak amacıyla her türlü öneri veya girişimden kaçınır.",
+      "preview": "(1) Bilirkişi, görevinin saygınlığını ve kişilerin adalete olan güvenini zedeleyen veya şüpheye düşüren her türlü tavır ve davranıştan kaçın…",
+      "kitap": null,
+      "kisim": null,
+      "bolum": "İKİNCİ BÖLÜM · Temel ve Etik İlkeler",
+      "ayirim": null,
+      "maddeBaslik": "Saygınlık ve güven",
+      "sectionPath": [
+        "İKİNCİ BÖLÜM · Temel ve Etik İlkeler",
+        "Saygınlık ve güven"
+      ]
+    },
+    {
+      "id": "yonetmelik:23818:m:11",
+      "maddeKind": "madde",
+      "maddeNo": "11",
+      "heading": "Madde 11",
+      "text": "(1) Sicile ve listeye kayıtlı olan bilirkişi kendisine verilen görevi kabulle yükümlüdür.\n (2) Bilirkişi, görevlendirildiği konuda uzmanlık bilgisi ve tecrübesinin yeterli olmadığını, konunun kendi uzmanlık alanına girmediğini, varsa görevi kabulden kaçınmasını haklı kılacak mazeretini, görevlendirmeyi yapan mercie bildirmekle yükümlüdür.",
+      "preview": "(1) Sicile ve listeye kayıtlı olan bilirkişi kendisine verilen görevi kabulle yükümlüdür. (2) Bilirkişi, görevlendirildiği konuda uzmanlık b…",
+      "kitap": null,
+      "kisim": null,
+      "bolum": "İKİNCİ BÖLÜM · Temel ve Etik İlkeler",
+      "ayirim": null,
+      "maddeBaslik": "Görevi kabul yükümlülüğü",
+      "sectionPath": [
+        "İKİNCİ BÖLÜM · Temel ve Etik İlkeler",
+        "Görevi kabul yükümlülüğü"
+      ]
+    },
+    {
+      "id": "yonetmelik:23818:m:12",
+      "maddeKind": "madde",
+      "maddeNo": "12",
+      "heading": "Madde 12",
+      "text": "(1) Bilirkişi, bilirkişilik görev, unvan ve yetkilerini kullanarak kendisi, yakınları veya üçüncü kişiler lehine menfaat sağlayamaz, hediye alamaz ve aracılıkta bulunamaz.\n (2) Bilirkişi, görevi sırasında elde ettiği resmi veya gizli nitelikteki bilgileri, kendisi, yakınları veya üçüncü kişiler yararına doğrudan veya dolaylı olarak bir menfaat elde etmek için kullanamaz.",
+      "preview": "(1) Bilirkişi, bilirkişilik görev, unvan ve yetkilerini kullanarak kendisi, yakınları veya üçüncü kişiler lehine menfaat sağlayamaz, hediye…",
+      "kitap": null,
+      "kisim": null,
+      "bolum": "İKİNCİ BÖLÜM · Temel ve Etik İlkeler",
+      "ayirim": null,
+      "maddeBaslik": "Menfaat elde etme yasağı",
+      "sectionPath": [
+        "İKİNCİ BÖLÜM · Temel ve Etik İlkeler",
+        "Menfaat elde etme yasağı"
+      ]
+    },
+    {
+      "id": "yonetmelik:23818:m:13",
+      "maddeKind": "madde",
+      "maddeNo": "13",
+      "heading": "Madde 13",
+      "text": "(1) Bilirkişi, etik ilkelerle bağdaşmayan veya hukuka aykırı iş ve eylemlerde bulunmasının kendisinden talep edilmesi halinde ya da görevini yerine getirirken bu tür bir eylem veya işlemden haberdar olduğunda durumu gecikmeksizin görevlendirmeyi yapan mercie bildirir.",
+      "preview": "(1) Bilirkişi, etik ilkelerle bağdaşmayan veya hukuka aykırı iş ve eylemlerde bulunmasının kendisinden talep edilmesi halinde ya da görevini…",
+      "kitap": null,
+      "kisim": null,
+      "bolum": "İKİNCİ BÖLÜM · Temel ve Etik İlkeler",
+      "ayirim": null,
+      "maddeBaslik": "Bildirim yükümlülüğü",
+      "sectionPath": [
+        "İKİNCİ BÖLÜM · Temel ve Etik İlkeler",
+        "Bildirim yükümlülüğü"
+      ]
+    },
+    {
+      "id": "yonetmelik:23818:m:14",
+      "maddeKind": "madde",
+      "maddeNo": "14",
+      "heading": "Madde 14",
+      "text": "(1) Bilirkişinin, bilirkişilik görevi almak için reklam sayılabilecek her türlü girişim ve eylemde bulunması, internet sitesinde, tabelalarında ve basılı kâğıtlarında sicil ve listeye kayıtlı bilirkişi olduğuna dair ibareler kullanması yasaktır.\n (2) Bilirkişi; bilirkişilik görevi almak amacıyla özel amaçlı arama motorlarına, rehberlerine, listelerine, veri tabanlarına ve benzerlerine kayıt olamaz, kayıt edilmesine rıza gösteremez. Ancak, bilirkişilik görevi alma amacına yönelik olmamak kaydıyla, internet sayfasını özel amaçlı arama motorlarına kayıt edebilir, anahtar kelime olarak da; sadece adı soyadı ve mesleki unvanı ile bulunduğu şehrin adını kullanabilir.\n (3) Bilirkişi, internet kullanıcılarını kendi sitesine yönlendirecek şekilde internet kısa yolları kullanılmasına izin veremez ve reklam yapamaz.",
+      "preview": "(1) Bilirkişinin, bilirkişilik görevi almak için reklam sayılabilecek her türlü girişim ve eylemde bulunması, internet sitesinde, tabelaları…",
+      "kitap": null,
+      "kisim": null,
+      "bolum": "İKİNCİ BÖLÜM · Temel ve Etik İlkeler",
+      "ayirim": null,
+      "maddeBaslik": "Reklam yasağı",
+      "sectionPath": [
+        "İKİNCİ BÖLÜM · Temel ve Etik İlkeler",
+        "Reklam yasağı"
+      ]
+    },
+    {
+      "id": "yonetmelik:23818:m:15",
+      "maddeKind": "madde",
+      "maddeNo": "15",
+      "heading": "Madde 15",
+      "text": "(1) Kanunla verilen görevleri yerine getirmek üzere Bilirkişilik Danışma Kurulu oluşturulur.\n (2) Danışma Kurulu aşağıdaki üyelerden oluşur:\n a) Adalet Bakanlığı Müsteşarı.\n b) Hâkimler ve Savcılar Kurulu Genel Sekreteri.\n c) Adalet Bakanlığı Hukuk İşleri Genel Müdürü.\n ç) Adalet Bakanlığı Ceza İşleri Genel Müdürü.\n d) Yargıtay Birinci Başkanlık Kurulu tarafından Yargıtay ceza ve hukuk dairelerinden seçilen birer üye olmak üzere toplam iki kişi.\n e) Danıştay Başkanlık Kurulu tarafından Danıştay idari dava daireleri ve vergi dava dairelerinden seçilen birer üye olmak üzere toplam iki kişi.\n f) Yükseköğretim Kurulu tarafından üniversitelerin öğretim üyeleri arasından seçilen toplam üç kişi.\n g) Hâkimler ve Savcılar Kurulu Birinci Dairesi tarafından, istekleri bulunan, bölge adliye ve bölge idare mahkemelerinde görev yapan birer hâkim olmak üzere seçilen toplam iki kişi.\n ğ) Hâkimler ve Savcılar Kurulu Birinci Dairesi tarafından, istekleri bulunan ve birinci sınıf olan; adli yargı ilk derece hukuk ve ceza mahkemelerinde görev yapan birer hâkim, bir Cumhuriyet savcısı ve idari yargı ilk derece idare ve vergi mahkemelerinde görev yapan birer hâkim olmak üzere seçilen toplam beş kişi.\n h) Adalet Bakanlığı tarafından Adlî Tıp Kurumunda görev yapanlar arasından seçilen bir kişi.\n ı) Bilim, Sanayi ve Teknoloji Bakanlığı tarafından Türkiye Bilimsel ve Teknolojik Araştırma Kurumunda görev yapanlar arasından seçilen bir kişi.\n i) İçişleri Bakanlığı tarafından Jandarma Genel Komutanlığı Jandarma Kriminal Daire Başkanlığında ve Emniyet Genel Müdürlüğü Kriminal Daire Başkanlığında görev yapanlar arasından birer olmak üzere seçilen toplam iki kişi.\n j) Türkiye Barolar Birliği Yönetim Kurulu tarafından avukatlar arasından seçilen bir kişi.\n k) Türk Mühendis ve Mimar Odaları Birliği Yönetim Kurulu tarafından mühendis veya mimarlar arasından seçilen bir kişi.\n l) Türkiye Serbest Muhasebeci Mali Müşavirler ve Yeminli Mali Müşavirler Odaları Birliği Yönetim Kurulu tarafından serbest muhasebeci mali müşavir veya yeminli mali müşavirler arasından seçilen bir kişi.\n m) Türkiye Odalar ve Borsalar Birliği Yönetim Kurulu tarafından seçilen bir kişi.\n n) Türkiye Esnaf ve Sanatkârları Konfederasyonu Yönetim Kurulu tarafından seçilen bir kişi.\n o) Türk Tabipleri Birliği Yönetim Kurulu tarafından seçilen bir kişi.",
+      "preview": "(1) Kanunla verilen görevleri yerine getirmek üzere Bilirkişilik Danışma Kurulu oluşturulur. (2) Danışma Kurulu aşağıdaki üyelerden oluşur:…",
+      "kitap": null,
+      "kisim": null,
+      "bolum": "ÜÇÜNCÜ BÖLÜM · Teşkilat",
+      "ayirim": null,
+      "maddeBaslik": "Danışma Kurulunun oluşumu ve üyelerin nitelikleri",
+      "sectionPath": [
+        "ÜÇÜNCÜ BÖLÜM · Teşkilat",
+        "Danışma Kurulunun oluşumu ve üyelerin nitelikleri"
+      ]
+    },
+    {
+      "id": "yonetmelik:23818:m:16",
+      "maddeKind": "madde",
+      "maddeNo": "16",
+      "heading": "Madde 16",
+      "text": "(1) Danışma Kurulunun görevleri şunlardır:\n a) Bilirkişilik hizmetlerinin yürütülmesinde yaşanan sorunlar hakkında çözüm önerilerinde bulunmak.\n b) Daire Başkanlığının görev alanına giren konular hakkında önerilerde bulunmak.\n c) Daire Başkanlığının ve bölge kurullarının yıllık faaliyetleri hakkında önerilerde bulunmak.\n ç) Kanunlarla verilen diğer görevleri yapmak.",
+      "preview": "(1) Danışma Kurulunun görevleri şunlardır: a) Bilirkişilik hizmetlerinin yürütülmesinde yaşanan sorunlar hakkında çözüm önerilerinde bulunma…",
+      "kitap": null,
+      "kisim": null,
+      "bolum": "ÜÇÜNCÜ BÖLÜM · Teşkilat",
+      "ayirim": null,
+      "maddeBaslik": "Danışma Kurulunun görevleri",
+      "sectionPath": [
+        "ÜÇÜNCÜ BÖLÜM · Teşkilat",
+        "Danışma Kurulunun görevleri"
+      ]
+    },
+    {
+      "id": "yonetmelik:23818:m:17",
+      "maddeKind": "madde",
+      "maddeNo": "17",
+      "heading": "Madde 17",
+      "text": "(1) Danışma Kurulunun Başkanı Adalet Bakanlığı Müsteşarıdır. Müsteşar gerekli gördüğünde yardımcılarından birini Kurula başkanlık etmek üzere görevlendirebilir. Başkan, Danışma Kurulunu temsil eder ve toplantı gündemini belirler.\n (2) 15 inci maddenin ikinci fıkrasının (a), (b), (c) ve (ç) bentlerinde yer alan üyeler dışındaki üyelerin görev süresi üç yıldır. Görev süresi dolan üyeler yeniden seçilebilir.\n (3) Danışma Kurulunun üyeliklerinin ölüm, emeklilik, istifa, atama ve benzeri nedenlerle boşalması hâlinde, boşalmayı takip eden on beş gün içinde yeni üyenin seçimi yapılır.\n (4) Danışma Kurulu toplantılarına, uzman kişiler ile kamu ya da özel kurum veya kuruluşların temsilcileri davet edilerek görüşleri alınabilir.\n (5) Danışma Kurulu, her takvim yılında iki defa toplanır. Başkan gerekli gördüğü hâllerde Danışma Kurulunu her zaman toplantıya çağırabilir.\n (6) Danışma Kurulunun sekretarya hizmetleri Daire Başkanlığı tarafından yerine getirilir.\n (7)Danışma Kurulu, üye tam sayısının salt çoğunluğu ile toplanır. Toplantıya katılan üyelerin, gündemle ilgili konular hakkındaki önerileri müzakere edilir ve katılanların salt çoğunluğu ile kabul edilenler öneri haline getirilerek Başkan tarafından Daire Başkanlığına gönderilir.",
+      "preview": "(1) Danışma Kurulunun Başkanı Adalet Bakanlığı Müsteşarıdır. Müsteşar gerekli gördüğünde yardımcılarından birini Kurula başkanlık etmek üzer…",
+      "kitap": null,
+      "kisim": null,
+      "bolum": "ÜÇÜNCÜ BÖLÜM · Teşkilat",
+      "ayirim": null,
+      "maddeBaslik": "Danışma Kurulunun çalışma usul ve esasları",
+      "sectionPath": [
+        "ÜÇÜNCÜ BÖLÜM · Teşkilat",
+        "Danışma Kurulunun çalışma usul ve esasları"
+      ]
+    },
+    {
+      "id": "yonetmelik:23818:m:18",
+      "maddeKind": "madde",
+      "maddeNo": "18",
+      "heading": "Madde 18",
+      "text": "(1) Bilirkişilik hizmetlerinin etkin, düzenli ve verimli bir şekilde yürütülmesini sağlamak amacıyla Kanunla verilen görevleri yerine getirmek üzere Genel Müdürlük bünyesinde Bilirkişilik Daire Başkanlığı kurulmuştur. Daire Başkanlığı, bir daire başkanı, yeteri kadar tetkik hâkimi ve diğer personelden oluşur.",
+      "preview": "(1) Bilirkişilik hizmetlerinin etkin, düzenli ve verimli bir şekilde yürütülmesini sağlamak amacıyla Kanunla verilen görevleri yerine getirm…",
+      "kitap": null,
+      "kisim": null,
+      "bolum": "ÜÇÜNCÜ BÖLÜM · Teşkilat",
+      "ayirim": null,
+      "maddeBaslik": "Daire Başkanlığı",
+      "sectionPath": [
+        "ÜÇÜNCÜ BÖLÜM · Teşkilat",
+        "Daire Başkanlığı"
+      ]
+    },
+    {
+      "id": "yonetmelik:23818:m:19",
+      "maddeKind": "madde",
+      "maddeNo": "19",
+      "heading": "Madde 19",
+      "text": "(1) Daire Başkanlığının görevleri şunlardır:\n a) Bilirkişilik hizmetlerine ilişkin temel ve alt uzmanlık alanları ile temel ve alt uzmanlık alanlarına göre bilirkişilerin sahip olması gereken nitelikleri ve bilirkişilerin aylık bakacağı iş sayısını; ilgili kurum ve kuruluşların görüşleri ile bu alandaki çalışmaları dikkate alarak tespit etmek.\n b) Bilirkişilerin, görevlerini yürütürken uymaları gereken etik ilkeleri belirlemek.\n c) Temel ve alt uzmanlık alanlarına göre bilirkişilerin uyacağı rehber ilkeleri ve hazırlayacağı raporların standardını belirlemek.\n ç) Bilirkişilik temel eğitimine ilişkin usul ve esaslar ile eğitim verecek eğitim ve öğretim kurumları ve diğer kurumların niteliklerini belirlemek, gerektiğinde güncellemek, bunlara izin vermek, bu kurum ve kuruluşları listelemek ve elektronik ortamda yayımlamak.\n d) Alanlarındaki uzmanlıkları ve bilimsel yeterliliklerini dikkate alarak bilirkişilik temel eğitiminden veya listeye kaydolmaktan muaf tutulacaklara ilişkin usul ve esasları belirlemek, gerektiğinde güncellemek, bu kişilerin listesini oluşturmak ve yayımlamak.\n e) Bilirkişilerin denetimine ve performansına ilişkin usul ve esasları belirlemek.\n f) Bilirkişiliğe kabule ilişkin usul ve esasları belirlemek.\n g) Bilirkişilik Asgari Ücret Tarifesini belirlemek ve her yıl güncellemek.\n ğ) Bilirkişi olarak hizmet verecek özel hukuk tüzel kişilerinin ve bu tüzel kişilik bünyesinde bilirkişi olarak çalışacak kişilerin taşıması gereken nitelikleri belirlemek.\n h) Bilirkişi olarak hizmet verecek özel hukuk tüzel kişilerinin temel ve alt uzmanlık alanları ile yetki çevrelerini; ilgili kurum ve kuruluşların görüşleri, bu alandaki çalışmaları dikkate alarak belirlemek.\n ı) Bilirkişiliğe kabul şartları bakımından Kanunun 10 uncu maddesinin birinci fıkrasının (f) bendinde aranan asgari çalışma süresini, temel ve alt uzmanlık alanlarına göre artırmak.\n i) Bölge kurulları tarafından gönderilen yıllık faaliyet raporlarını değerlendirerek takip eden takvim yılı içinde faaliyet raporu ile faaliyet planını hazırlamak ve yayımlamak.\n j) Görev alanına giren konularda bilim komisyonları veya çalışma grupları oluşturmak.\n k) Danışma Kurulunun sekretarya hizmetini yürütmek.\n l) Bilirkişilikle ilgili uygulamaları izlemek, sorunları tespit etmek ve bu sorunlara çözüm önerileri geliştirmek.\n m) Bilirkişilik alanında her türlü istatistikî veriyi Bakanlık Adli Sicil ve İstatistik Genel Müdürlüğü ve Bilgi İşlem Dairesi Başkanlığı ile işbirliği içinde toplamak ve bu alana ilişkin planlamaları yapmak.\n n) Bilirkişilik sicilini ve listesini tutmak.\n o) Bilirkişilikle ilgili yayınlar ile bilimsel çalışmaları teşvik etmek ve desteklemek.\n ö) Bilirkişiliğe ilişkin ulusal ve uluslararası kongre, sempozyum ve panel gibi bilimsel organizasyonlar düzenlemek veya desteklemek.\n p) Görev alanıyla ilgili kamu veya özel kurum ya da kuruluşlar ile işbirliği yapmak.\n r) Bilirkişilik listelerinden çıkarılanlar ile bilirkişilik yapmaktan yasaklananların listesini tutmak ve elektronik ortamda yayımlamak.\n s) Kanunlarla verilen diğer görevleri yapmak.\n (2) Daire Başkanlığı, birinci fıkranın (a), (b), (c), (e), (f), (ğ) ve (h) bentlerinde sayılan görevlere ilişkin olarak gerektiğinde güncellemeleri yapar, elektronik ortamda yayımlar ve bölge kurullarına gönderir.",
+      "preview": "(1) Daire Başkanlığının görevleri şunlardır: a) Bilirkişilik hizmetlerine ilişkin temel ve alt uzmanlık alanları ile temel ve alt uzmanlık a…",
+      "kitap": null,
+      "kisim": null,
+      "bolum": "ÜÇÜNCÜ BÖLÜM · Teşkilat",
+      "ayirim": null,
+      "maddeBaslik": "Daire Başkanlığının görevleri",
+      "sectionPath": [
+        "ÜÇÜNCÜ BÖLÜM · Teşkilat",
+        "Daire Başkanlığının görevleri"
+      ]
+    },
+    {
+      "id": "yonetmelik:23818:m:20",
+      "maddeKind": "madde",
+      "maddeNo": "20",
+      "heading": "Madde 20",
+      "text": "(1) Her bölge adliye mahkemesinin kurulu bulunduğu yerde bir bilirkişilik bölge kurulu oluşturulur.\n (2) Bölge kurulu aşağıdaki üyelerden oluşur:\n a) Hâkimler ve Savcılar Kurulu Birinci Dairesi tarafından istekleri bulunan ve bölge kurulunun bulunduğu yer bölge adliye mahkemesi üyeleri arasından seçilecek bir kişi.\n b) Hâkimler ve Savcılar Kurulu Birinci Dairesi tarafından bölge kurulunun bulunduğu il merkezi adli yargı ilk derece hukuk ve ceza mahkemelerinde görev yapan birer hâkim ve bir Cumhuriyet savcısı ile idari yargı ilk derece idare ve vergi mahkemelerinde görev yapan birer hâkim olmak üzere seçilen toplam beş kişi.\n (3) Bölge adliye mahkemesi üyeleri arasından Hâkimler ve Savcılar Kurulu Birinci Dairesi tarafından seçilen üye, bölge kurulunun başkanıdır.",
+      "preview": "(1) Her bölge adliye mahkemesinin kurulu bulunduğu yerde bir bilirkişilik bölge kurulu oluşturulur. (2) Bölge kurulu aşağıdaki üyelerden olu…",
+      "kitap": null,
+      "kisim": null,
+      "bolum": "ÜÇÜNCÜ BÖLÜM · Teşkilat",
+      "ayirim": null,
+      "maddeBaslik": "Bölge kurulunun oluşumu ve üyelerin nitelikleri",
+      "sectionPath": [
+        "ÜÇÜNCÜ BÖLÜM · Teşkilat",
+        "Bölge kurulunun oluşumu ve üyelerin nitelikleri"
+      ]
+    },
+    {
+      "id": "yonetmelik:23818:m:21",
+      "maddeKind": "madde",
+      "maddeNo": "21",
+      "heading": "Madde 21",
+      "text": "(1) Bölge kurulunun görevleri şunlardır:\n a) Bilirkişilik hizmetlerinin ilgili mevzuata ve belirlenen ilkelere uygun olarak yerine getirilmesini sağlamak.\n b) Bilirkişiliğe kabule ve bilirkişilerin sicile ve listeye kaydedilmesine karar vermek.\n c) Sicile kayıtlı bilirkişilerin temel ve alt uzmanlık alanlarına göre bölge listesini oluşturmak.\n ç) Bilirkişilerin sicil ve bölge listesinden çıkarılmasına karar vermek.\n d) İlgili mevzuat ve Bakanlığın düzenleyici işlemleri ile belirlediği ilkeler çerçevesinde bilirkişilerin denetimini yapmak ve performansını ölçmek.\n e) Özel hukuk tüzel kişilerinin bilirkişilik faaliyetinde bulunmalarına izin vermek, izinlerini iptal etmek, bilirkişiliğe ilişkin faaliyet ve raporlarını denetlemek.\n f) Kanunlarla verilen diğer görevleri yapmak.",
+      "preview": "(1) Bölge kurulunun görevleri şunlardır: a) Bilirkişilik hizmetlerinin ilgili mevzuata ve belirlenen ilkelere uygun olarak yerine getirilmes…",
+      "kitap": null,
+      "kisim": null,
+      "bolum": "ÜÇÜNCÜ BÖLÜM · Teşkilat",
+      "ayirim": null,
+      "maddeBaslik": "Bölge kurulunun görevleri",
+      "sectionPath": [
+        "ÜÇÜNCÜ BÖLÜM · Teşkilat",
+        "Bölge kurulunun görevleri"
+      ]
+    },
+    {
+      "id": "yonetmelik:23818:m:22",
+      "maddeKind": "madde",
+      "maddeNo": "22",
+      "heading": "Madde 22",
+      "text": "(1) Bölge kurulu başkanının görevleri şunlardır:\n a) Bölge kurulunun uyumlu, verimli ve düzenli çalışmasını sağlamak.\n b) Bölge kurulu kararlarını uygulamak.\n c) Bölge kurulu toplantılarının gündemini resen veya bölge kurulunun en az iki üyesinin imzalı önerisi üzerine belirlemek, toplantı gündemini en az iki gün önce bölge kurulu üyelerine göndermek ve toplantılarına başkanlık etmek.\n ç) Bilirkişiliğe kabul edilenlerin sicil ve listeye kayıt işlemlerini yürütmek, Daire Başkanlığınca belirlenen şekle uygun olarak düzenlenen bilirkişilik yetki belgesini vermek.\n d) Sicil ve listeden çıkarılmasına veya bilirkişilik yapmaktan yasaklanmasına karar verilen bilirkişilere, bu kararları yazı işleri müdürü vasıtasıyla tebliğ etmek veya ettirmek ve söz konusu kararlara karşı yapılan itirazlar ile diğer işlemleri yürütmek.\n e) Bilirkişilik temel ilkeleri ile etik ilkelerini ihlal ettiği iddia edilen bilirkişiler hakkında başvuru üzerine veya resen gerekli inceleme ve araştırmayı yapmak veya görevlendireceği bölge kurulu üyelerinden birine yaptırmak.\n f) Bilirkişilere veya bilirkişilik için başvuru yapanlara ilişkin ihtiyaç duyulan bilgi ve belgeleri ilgili kurum veya kuruluşlardan istemek, gerektiğinde ilgilileri telefon, kısa mesaj, elektronik posta veya tebligat yoluyla davet etmek, dinlemek ve beyanlarını tutanak altına almak.\n g) Bölge kurulu yazı işleri müdürlüğü personelini üç ayda bir denetlemek.\n ğ) Bölge kurulunun diğer kurum ve kuruluşlarla iş birliği hâlinde çalışmasını sağlamak.\n h) Bilirkişi raporlarını belirlenen esaslar dâhilinde arşivlemek.\n ı) Yıllık faaliyet raporunu hazırlayarak takip eden yılın Ocak ayı sonuna kadar Daire Başkanlığına sunmak.\n i) Kanunlarla verilen diğer görevleri yapmak.\n (2) Bölge kurulu başkanı münhasıran Kanun ve bu Yönetmelikte belirtilen görevleri yerine getirir; bölge kurulu başkanına başka bir görev verilemez.",
+      "preview": "(1) Bölge kurulu başkanının görevleri şunlardır: a) Bölge kurulunun uyumlu, verimli ve düzenli çalışmasını sağlamak. b) Bölge kurulu kararla…",
+      "kitap": null,
+      "kisim": null,
+      "bolum": "ÜÇÜNCÜ BÖLÜM · Teşkilat",
+      "ayirim": null,
+      "maddeBaslik": "Bölge kurulu başkanının görevleri",
+      "sectionPath": [
+        "ÜÇÜNCÜ BÖLÜM · Teşkilat",
+        "Bölge kurulu başkanının görevleri"
+      ]
+    },
+    {
+      "id": "yonetmelik:23818:m:23",
+      "maddeKind": "madde",
+      "maddeNo": "23",
+      "heading": "Madde 23",
+      "text": "(1) Bölge kurulu, ayda bir toplanır. Bölge kurulu başkanı, kurulu her zaman toplantıya çağırabilir.\n (2) Bölge kurulu başkanının izinli veya mazeretli olması halinde mesleki olarak en kıdemli üye bölge kurulu başkanının görevlerini yerine getirir.\n (3) Bölge kurulu üyeliklerinin ölüm, emeklilik, istifa, atama ve benzeri nedenlerle boşalması hâlinde, boşalmayı takip eden on beş gün içinde yenisinin seçimi yapılır.",
+      "preview": "(1) Bölge kurulu, ayda bir toplanır. Bölge kurulu başkanı, kurulu her zaman toplantıya çağırabilir. (2) Bölge kurulu başkanının izinli veya…",
+      "kitap": null,
+      "kisim": null,
+      "bolum": "ÜÇÜNCÜ BÖLÜM · Teşkilat",
+      "ayirim": null,
+      "maddeBaslik": "Bölge kurulunun çalışma usul ve esasları",
+      "sectionPath": [
+        "ÜÇÜNCÜ BÖLÜM · Teşkilat",
+        "Bölge kurulunun çalışma usul ve esasları"
+      ]
+    },
+    {
+      "id": "yonetmelik:23818:m:24",
+      "maddeKind": "madde",
+      "maddeNo": "24",
+      "heading": "Madde 24",
+      "text": "(1) Toplantı gündemi, toplantıdan en az iki gün önce UYAP ortamında üyelere dağıtılır.\n (2) Gündem, bölge kurulu başkanı tarafından işin önemine, ivedi veya süreli oluşuna göre belirlenir. Ayrıca kurul üyelerinden en az ikisinin imzasıyla verilecek öneriler gündeme alınır.\n (3) Gündemde, toplantının yapılacağı gün, saat ve yer ile görüşülecek işler ve sırası yer alır.\n (4) Gündemde olup tamamlanmayan işler, bir sonraki gündemin kendi bölümünde ilk sırada yer alır.\n (5) Gündemin düzenlenip üyelere dağıtılmasından sonra ortaya çıkan ivedi ve süreli işlerin gündeme alınması, işlerden birinin sırasından önce veya sonra görüşülmesi, ertelenmesi ya da gündemden çıkarılması bölge kurulu başkanı veya en az iki üye tarafından istenebilir. Değişiklik talepleri hakkında, gündeme geçilmeden önce oylama yapılarak karar verilir.",
+      "preview": "(1) Toplantı gündemi, toplantıdan en az iki gün önce UYAP ortamında üyelere dağıtılır. (2) Gündem, bölge kurulu başkanı tarafından işin önem…",
+      "kitap": null,
+      "kisim": null,
+      "bolum": "ÜÇÜNCÜ BÖLÜM · Teşkilat",
+      "ayirim": null,
+      "maddeBaslik": "Bölge kurulu toplantı gündemi",
+      "sectionPath": [
+        "ÜÇÜNCÜ BÖLÜM · Teşkilat",
+        "Bölge kurulu toplantı gündemi"
+      ]
+    },
+    {
+      "id": "yonetmelik:23818:m:25",
+      "maddeKind": "madde",
+      "maddeNo": "25",
+      "heading": "Madde 25",
+      "text": "(1) Bölge kurulu toplantısında işler, gündemdeki sıraya göre incelenir ve karara bağlanır.",
+      "preview": "(1) Bölge kurulu toplantısında işler, gündemdeki sıraya göre incelenir ve karara bağlanır.",
+      "kitap": null,
+      "kisim": null,
+      "bolum": "ÜÇÜNCÜ BÖLÜM · Teşkilat",
+      "ayirim": null,
+      "maddeBaslik": "Görüşme usulü",
+      "sectionPath": [
+        "ÜÇÜNCÜ BÖLÜM · Teşkilat",
+        "Görüşme usulü"
+      ]
+    },
+    {
+      "id": "yonetmelik:23818:m:26",
+      "maddeKind": "madde",
+      "maddeNo": "26",
+      "heading": "Madde 26",
+      "text": "(1) Konular üzerinde görüşmeler tamamlandıktan sonra oylamaya başlanır.\n (2) Oylama açık yapılır.\n (3) Usule ilişkin konular öncelikle oylanır. Usul konularında azınlıkta kalanlar, esas hakkındaki oylamaya katılmak zorundadır.\n (4) Bölge kurulu başkanı, öncelikle mesleki kıdem sırasına göre en kıdemsiz üyeden başlayarak oyları toplar ve son olarak kendi oyunu açıklar. Oylamalarda çekimser oy kullanılamaz.\n (5) Bölge kurulu üye tam sayısının salt çoğunluğu ile toplanır ve üye tam sayısının salt çoğunluğu ile karar alır.\n (6) Bölge kurulu kararları, UYAP ortamında üyeler ve bölge kurulu başkanı tarafından imzalanıp karar kaydına işlenir.",
+      "preview": "(1) Konular üzerinde görüşmeler tamamlandıktan sonra oylamaya başlanır. (2) Oylama açık yapılır. (3) Usule ilişkin konular öncelikle oylanır…",
+      "kitap": null,
+      "kisim": null,
+      "bolum": "ÜÇÜNCÜ BÖLÜM · Teşkilat",
+      "ayirim": null,
+      "maddeBaslik": "Oylama ve karar",
+      "sectionPath": [
+        "ÜÇÜNCÜ BÖLÜM · Teşkilat",
+        "Oylama ve karar"
+      ]
+    },
+    {
+      "id": "yonetmelik:23818:m:27",
+      "maddeKind": "madde",
+      "maddeNo": "27",
+      "heading": "Madde 27",
+      "text": "(1) Kararda aşağıdaki hususlar yer alır:\n a) Karar tarihi.\n b) Karar numarası.\n c) Kararı veren bölge kurulu ile karara katılan, varsa karşı oy kullanan başkan, üyeler ve zabıt kậtibinin adı ve soyadı, sicil numaraları ile imzaları.\n ç) İlgili gerçek kişi ise adı ve soyadı, Türkiye Cumhuriyeti kimlik veya yabancılar için pasaport veya yabancı kimlik numarası, sicil numarası; tüzel kişi ise ticaret unvanı, MERSİS numarası ve adresleri.\n d) Konunun, varsa iddia ve savunmanın özeti.\n e) Kararın ve varsa karşı oyun gerekçesi ile sonucu.\n f) Karara karşı başvuru yolu, süresi ve merci.\n (2) Bölge kurulu kararları en geç on beş gün içinde yazılır ve yazıldığı tarihten itibaren bir hafta içinde ilgilisine tebliğe çıkarılır.",
+      "preview": "(1) Kararda aşağıdaki hususlar yer alır: a) Karar tarihi. b) Karar numarası. c) Kararı veren bölge kurulu ile karara katılan, varsa karşı oy…",
+      "kitap": null,
+      "kisim": null,
+      "bolum": "ÜÇÜNCÜ BÖLÜM · Teşkilat",
+      "ayirim": null,
+      "maddeBaslik": "Kararda bulunacak hususlar",
+      "sectionPath": [
+        "ÜÇÜNCÜ BÖLÜM · Teşkilat",
+        "Kararda bulunacak hususlar"
+      ]
+    },
+    {
+      "id": "yonetmelik:23818:m:28",
+      "maddeKind": "madde",
+      "maddeNo": "28",
+      "heading": "Madde 28",
+      "text": "(1) Bölge kurulu kararlarına karşı, kararın tebliğ veya ilan tarihinden itibaren otuz gün içinde kararı veren bölge kuruluna itiraz edilir. İtiraz üzerine bölge kurulu tarafından verilen karar yeniden değerlendirilerek itirazın kabulüne ya da reddine karar verilir ve karar itiraz edene tebliğ edilir.\n (2) Bölge kurulunun itiraz üzerine verdiği kararlara karşı yetkili idare mahkemesinde dava açılabilir.",
+      "preview": "(1) Bölge kurulu kararlarına karşı, kararın tebliğ veya ilan tarihinden itibaren otuz gün içinde kararı veren bölge kuruluna itiraz edilir.…",
+      "kitap": null,
+      "kisim": null,
+      "bolum": "ÜÇÜNCÜ BÖLÜM · Teşkilat",
+      "ayirim": null,
+      "maddeBaslik": "İtiraz ve dava hakkı",
+      "sectionPath": [
+        "ÜÇÜNCÜ BÖLÜM · Teşkilat",
+        "İtiraz ve dava hakkı"
+      ]
+    },
+    {
+      "id": "yonetmelik:23818:m:29",
+      "maddeKind": "madde",
+      "maddeNo": "29",
+      "heading": "Madde 29",
+      "text": "(1) Bölge kurulunun sekretarya hizmetlerini yerine getirmek üzere bölge adliye mahkemesinde bir bilirkişilik bölge kurulu yazı işleri müdürlüğü kurulur.\n (2) Bölge kurulu yazı işleri müdürlüğüne, bölge adliye mahkemesi adalet komisyonu tarafından bir müdür ve yeteri kadar memur görevlendirilir.\n (3) Görevlendirilen yazı işleri müdürü ve memurlar, münhasıran Kanun ve bu Yönetmelikte belirtilen görevleri yerine getirir; bu personele başka bir görev verilemez.",
+      "preview": "(1) Bölge kurulunun sekretarya hizmetlerini yerine getirmek üzere bölge adliye mahkemesinde bir bilirkişilik bölge kurulu yazı işleri müdürl…",
+      "kitap": null,
+      "kisim": null,
+      "bolum": "ÜÇÜNCÜ BÖLÜM · Teşkilat",
+      "ayirim": null,
+      "maddeBaslik": "Bölge kurulu yazı işleri müdürlüğü",
+      "sectionPath": [
+        "ÜÇÜNCÜ BÖLÜM · Teşkilat",
+        "Bölge kurulu yazı işleri müdürlüğü"
+      ]
+    },
+    {
+      "id": "yonetmelik:23818:m:30",
+      "maddeKind": "madde",
+      "maddeNo": "30",
+      "heading": "Madde 30",
+      "text": "(1) Bilirkişilik temel eğitimi, beş yıllık meslekî kıdem kazanmış kişiler tarafından alınan ve bilirkişilik faaliyetinin yürütülmesi ile ilgili temel, teorik ve pratik bilgileri içeren eğitimi ifade eder.\n (2) (Değişik:RG-3/5/2025-32889) Temel eğitim, on iki saati teorik ve on iki saati uygulamalı olmak üzere en az yirmi dört ders saatinden oluşur.\n (3) Eğitim kuruluşları, Daire Başkanlığının uygun görüşü ile temel eğitim ders saatini arttırabilirler.\n (4) Teorik eğitim; yargılama hukukunun genel ilkeleri, bilirkişilik mevzuat hükümleri, bilirkişinin taşıması gereken nitelikler, bilirkişinin yetkileri ve yükümlülükleri, uyması gereken temel ve etik ilkeler, ispat faaliyeti ve bilirkişi incelemesinin usul ve esasları, teknik konu-hukuki konu ayrımına ilişkin usul ve esaslar ile rapor yazım usul ve tekniğini kapsar. (Ek cümle:RG-3/5/2025-32889) Teorik eğitim, hukuk alanında Yükseköğretim Kurulu tarafından kabul edilen, en az doktora ve üzeri akademik ünvana sahip olanlar tarafından verilir.\n (5) Uygulama eğitimi; Bilirkişi Bilgi Sisteminin kullanılması, katılımcıların bireysel veya heyet hâlinde sistematik teknikleri kullanma becerilerini geliştirmelerini sağlayacak örnek bir olaya ilişkin bilirkişi raporu düzenleme ile uygulama gözetimi faaliyetlerini içerir. (Ek cümle:RG-3/5/2025-32889) Uygulama eğitimi, en az beş yıl bilirkişilik yapmış olanlar tarafından verilir.\n (6) Teorik eğitim ve uygulama eğitiminin içeriği, yöntemi ile usul ve esasları bu alanlardaki ihtiyaca göre Daire Başkanlığınca güncellenebilir.\n (7) Temel eğitime katılmak zorunludur. Eğitim kuruluşlarınca, katılımcıların derslere devam durumunu gösteren çizelge düzenlenir ve derslerin 1/12'sine devam etmeyenlerin eğitim programıyla ilişiği kesilir.\n (8) Bilirkişilere, bilirkişilik eğitim izni verilen kuruluşlarca teorik ve uygulamalı, toplam altı saatten az olmamak üzere üç yılda bir defa yenileme eğitimi verilir. Bilirkişiler yenileme eğitimine sicile kaydedildiği tarihten itibaren üçüncü yılın içinde katılmak zorundadır. Yenileme eğitimine katılmayan bilirkişiler bu eğitimi almadıkça yeniden bilirkişilik yapmak için başvuruda bulunamaz.\n (9) Temel eğitime ilişkin usul ve esaslar genelge ile belirlenir.",
+      "preview": "(1) Bilirkişilik temel eğitimi, beş yıllık meslekî kıdem kazanmış kişiler tarafından alınan ve bilirkişilik faaliyetinin yürütülmesi ile ilg…",
+      "kitap": null,
+      "kisim": null,
+      "bolum": "DÖRDÜNCÜ BÖLÜM · Eğitim",
+      "ayirim": null,
+      "maddeBaslik": "Temel eğitim",
+      "sectionPath": [
+        "DÖRDÜNCÜ BÖLÜM · Eğitim",
+        "Temel eğitim"
+      ]
+    },
+    {
+      "id": "yonetmelik:23818:m:31",
+      "maddeKind": "madde",
+      "maddeNo": "31",
+      "heading": "Madde 31",
+      "text": "(1) Alanlarındaki uzmanlıkları ve bilimsel yeterlilikleri dikkate alınarak, bilirkişilik temel eğitiminden ve listeye kaydolmaktan muaf tutulacaklara ilişkin usul ve esasların belirlenmesine dair genelgeye göre oluşturulan listede yer alan kişiler temel eğitimden muaftır.\n (2) 6/12/2012 tarihli ve 6362 sayılı Sermaye Piyasası Kanununa göre yetkilendirilen gayrimenkul değerleme uzmanları için, 4/11/1983 tarihli ve 2942 sayılı Kamulaştırma Kanununun 15 inci maddesi gereğince sadece kamulaştırma alt uzmanlık alanında görev yapmak kaydıyla, bilirkişiliğe kabul şartları bakımından temel eğitim alma şartı aranmaz.",
+      "preview": "(1) Alanlarındaki uzmanlıkları ve bilimsel yeterlilikleri dikkate alınarak, bilirkişilik temel eğitiminden ve listeye kaydolmaktan muaf tutu…",
+      "kitap": null,
+      "kisim": null,
+      "bolum": "DÖRDÜNCÜ BÖLÜM · Eğitim",
+      "ayirim": null,
+      "maddeBaslik": "Temel eğitimden muaf tutulacaklar",
+      "sectionPath": [
+        "DÖRDÜNCÜ BÖLÜM · Eğitim",
+        "Temel eğitimden muaf tutulacaklar"
+      ]
+    },
+    {
+      "id": "yonetmelik:23818:m:32",
+      "maddeKind": "madde",
+      "maddeNo": "32",
+      "heading": "Madde 32",
+      "text": "(1) Eğitim kuruluşları, eğitimlerini tamamlayan katılımcılara en geç on beş gün içinde temel eğitimi tamamladıklarına dair bir belge verir.",
+      "preview": "(1) Eğitim kuruluşları, eğitimlerini tamamlayan katılımcılara en geç on beş gün içinde temel eğitimi tamamladıklarına dair bir belge verir.",
+      "kitap": null,
+      "kisim": null,
+      "bolum": "DÖRDÜNCÜ BÖLÜM · Eğitim",
+      "ayirim": null,
+      "maddeBaslik": "Temel eğitim katılım belgesi",
+      "sectionPath": [
+        "DÖRDÜNCÜ BÖLÜM · Eğitim",
+        "Temel eğitim katılım belgesi"
+      ]
+    },
+    {
+      "id": "yonetmelik:23818:m:33",
+      "maddeKind": "madde",
+      "maddeNo": "33",
+      "heading": "Madde 33",
+      "text": "(Danıştay Onuncu Dairesinin 26/11/2020 tarihli ve E.:2017/2621; K.:2020/5474 sayılı kararı ile iptal madde; Danıştay İDDK’nın 14/2/2022 tarihli E.:2021/1632, K.:2022/452 sayılı Onama kararı ile mezkûr karar kesinleşmiştir.) (Yeniden Düzenleme:RG-3/5/2025-32889)\n (1) (Değişik birinci cümle:RG-30/7/2025-32971) Bilirkişilik temel eğitimi; Daire Başkanlığınca izin verilmek kaydıyla, üniversiteler, Türkiye Adalet Akademisi, Adli Tıp Kurumu veya kamu kurumu niteliğindeki meslek üst kuruluşları tarafından verilebilir. İzin verilen eğitim kuruluşlarının listesi Daire Başkanlığınca elektronik ortamda yayımlanır.\n (2) İzin için yazılı olarak başvurulur. Başvuruda; eğitimin içeriği ve sürelerini kapsar şekilde eğitim programı, eğiticilerin sayısı, ünvanları, uzmanlıkları, yeterlilikleri ile eğitim verilecek mekânlar hakkında gerekçeli ve yeterli bilgiler verilir.\n (3) Başvuruda sunulan bilgi ve belgelerin incelenmesi sonucunda aranan şartları taşıdığı tespit edilen eğitim kuruluşuna en çok üç yıl için geçerli olmak üzere izin verilir.\n (4) Daire Başkanlığınca otuz gün içinde yapılacak inceleme sonucunda başvuran kuruluşun aranılan nitelikleri taşımadığının tespiti halinde talep reddedilir ve ilgilisine tebliğ edilir.",
+      "preview": "(Danıştay Onuncu Dairesinin 26/11/2020 tarihli ve E.:2017/2621; K.:2020/5474 sayılı kararı ile iptal madde; Danıştay İDDK’nın 14/2/2022 tari…",
+      "kitap": null,
+      "kisim": null,
+      "bolum": "DÖRDÜNCÜ BÖLÜM · Eğitim",
+      "ayirim": null,
+      "maddeBaslik": "Eğitim kuruluşlarına izin verilmesi",
+      "sectionPath": [
+        "DÖRDÜNCÜ BÖLÜM · Eğitim",
+        "Eğitim kuruluşlarına izin verilmesi"
+      ]
+    },
+    {
+      "id": "yonetmelik:23818:m:34",
+      "maddeKind": "madde",
+      "maddeNo": "34",
+      "heading": "Madde 34",
+      "text": "(1) Eğitim kuruluşu, izin süresinin bitiminden en az dört ay önce bu sürenin uzatılması için yazılı olarak başvurmak zorundadır.\n (2) Daire Başkanlığınca, eğitim kuruluşunun 35 inci maddeye göre sunduğu faaliyet raporları ile yapılan denetime ilişkin raporların incelenmesi sonucunda, eğitimin belirlenen şartlar ve içerikte başarılı bir şekilde devam ettiğinin ve 36 ncı maddede düzenlenen eğitim izninin iptalini gerektirir hallerin bulunmadığının anlaşılması halinde, verilen izin üç yıla kadar uzatılabilir.\n (3) İzin süresinin uzatılmasına ilişkin talep, Daire Başkanlığınca altmış gün içinde incelenerek karara bağlanır ve karar ilgilisine tebliğ edilir.\n (4) İzin süresi uzatılmayan eğitim kuruluşu listeden çıkarılır. Bu eğitim kuruluşuna ait belgeler dosyasında saklanır.",
+      "preview": "(1) Eğitim kuruluşu, izin süresinin bitiminden en az dört ay önce bu sürenin uzatılması için yazılı olarak başvurmak zorundadır. (2) Daire B…",
+      "kitap": null,
+      "kisim": null,
+      "bolum": "DÖRDÜNCÜ BÖLÜM · Eğitim",
+      "ayirim": null,
+      "maddeBaslik": "İzin süresinin uzatılması",
+      "sectionPath": [
+        "DÖRDÜNCÜ BÖLÜM · Eğitim",
+        "İzin süresinin uzatılması"
+      ]
+    },
+    {
+      "id": "yonetmelik:23818:m:35",
+      "maddeKind": "madde",
+      "maddeNo": "35",
+      "heading": "Madde 35",
+      "text": "(1) Eğitim kuruluşları, Daire Başkanlığına her yıl Ocak ayında bir önceki yıl içinde gerçekleştirdikleri eğitim programı sayısı, eğitime katılan ve eğitimi tamamlayan kişi sayısı, eğitim alan kişilerin uzmanlık alanları ile meslekleri, eğitim veren kişiler, eğitim verilen yerler ile istenilen diğer hususları içerir bir rapor sunar.\n (2) Rapor sunmayan eğitim kuruluşuna yazılı ihtarda bulunularak on beş gün içinde raporun sunulmaması hâlinde, eğitim izninin iptal edileceği hususu belirtilir.",
+      "preview": "(1) Eğitim kuruluşları, Daire Başkanlığına her yıl Ocak ayında bir önceki yıl içinde gerçekleştirdikleri eğitim programı sayısı, eğitime kat…",
+      "kitap": null,
+      "kisim": null,
+      "bolum": "DÖRDÜNCÜ BÖLÜM · Eğitim",
+      "ayirim": null,
+      "maddeBaslik": "Daire Başkanlığına bilgi verme yükümlülüğü",
+      "sectionPath": [
+        "DÖRDÜNCÜ BÖLÜM · Eğitim",
+        "Daire Başkanlığına bilgi verme yükümlülüğü"
+      ]
+    },
+    {
+      "id": "yonetmelik:23818:m:36",
+      "maddeKind": "madde",
+      "maddeNo": "36",
+      "heading": "Madde 36",
+      "text": "(1) Aşağıdaki hâllerde eğitim kuruluşuna verilen izin Daire Başkanlığınca iptal edilir:\n a) İzin şartlarından birinin ortadan kalktığının veya mevcut olmadığının sonradan anlaşılması.\n b) Belirlenen usul ve esaslara uygun eğitim verilmediğinin tespiti.\n c) Temel eğitim katılım belgesi düzenlenmesinde sahtecilik yapılması.\n ç) 35 inci maddedeki rapor verme yükümlülüğünün yapılan ihtara rağmen yerine getirilmemesi.\n d) Eğitim kuruluşunun iznin iptali için yazılı talepte bulunması.\n (2) İzni iptal edilen eğitim kuruluşu listeden çıkarılır. Bu eğitim kuruluşuna ait belgeler dosyasında saklanır.",
+      "preview": "(1) Aşağıdaki hâllerde eğitim kuruluşuna verilen izin Daire Başkanlığınca iptal edilir: a) İzin şartlarından birinin ortadan kalktığının vey…",
+      "kitap": null,
+      "kisim": null,
+      "bolum": "DÖRDÜNCÜ BÖLÜM · Eğitim",
+      "ayirim": null,
+      "maddeBaslik": "Eğitim kuruluşuna verilen iznin iptali",
+      "sectionPath": [
+        "DÖRDÜNCÜ BÖLÜM · Eğitim",
+        "Eğitim kuruluşuna verilen iznin iptali"
+      ]
+    },
+    {
+      "id": "yonetmelik:23818:m:37",
+      "maddeKind": "madde",
+      "maddeNo": "37",
+      "heading": "Madde 37",
+      "text": "(1) Eğitim kuruluşları Daire Başkanlığının gözetimi ve denetimi altındadır.\n (2) Eğitim kuruluşları, Daire Başkanlığı tarafından bizzat veya bölge kurulları marifetiyle; bilirkişilik temel eğitiminin verilip verilmediği, verilen eğitimin içeriği, kim tarafından ve nerede verildiği, sınıf mevcutları ve eğitim başvurusu için sunulan bilgi ve belgeler ile belirlenen diğer hususlar yönünden her zaman denetlenebilir.",
+      "preview": "(1) Eğitim kuruluşları Daire Başkanlığının gözetimi ve denetimi altındadır. (2) Eğitim kuruluşları, Daire Başkanlığı tarafından bizzat veya…",
+      "kitap": null,
+      "kisim": null,
+      "bolum": "DÖRDÜNCÜ BÖLÜM · Eğitim",
+      "ayirim": null,
+      "maddeBaslik": "Eğitim kuruluşunun denetimi",
+      "sectionPath": [
+        "DÖRDÜNCÜ BÖLÜM · Eğitim",
+        "Eğitim kuruluşunun denetimi"
+      ]
+    },
+    {
+      "id": "yonetmelik:23818:m:38",
+      "maddeKind": "madde",
+      "maddeNo": "38",
+      "heading": "Madde 38",
+      "text": "(1) Bilirkişilik başvurusunda bulunacak gerçek kişilerde aşağıdaki nitelikler aranır:\n a) 26/9/2004 tarihli ve 5237 sayılı Türk Ceza Kanununun 53 üncü maddesinde belirtilen süreler geçmiş olsa bile; kasten işlenen bir suçtan dolayı bir yıldan fazla süreyle hapis cezasına ya da affa uğramış olsa bile devletin güvenliğine karşı suçlar, Anayasal düzene ve bu düzenin işleyişine karşı suçlar ile zimmet, irtikâp, rüşvet, hırsızlık, dolandırıcılık, sahtecilik, güveni kötüye kullanma, hileli iflas, ihaleye fesat karıştırma, edimin ifasına fesat karıştırma, suçtan kaynaklanan malvarlığı değerlerini aklama veya kaçakçılık, gerçeğe aykırı bilirkişilik veya tercümanlık yapma, yalan tanıklık ve yalan yere yemin suçlarından mahkûm olmamak.\n b) Terör örgütleriyle iltisaklı veya irtibatlı olmamak.\n c) Daha önce kendi isteği dışında sicilden ve listeden çıkarılmamış veya bilirkişilik yapmaktan yasaklanmamış olmak.\n ç) Disiplin yönünden meslekten veya memuriyetten çıkarılmamış ya da sanat icrasından veya mesleki faaliyetten geçici ya da sürekli olarak yasaklanmamış olmak.\n d) Başka bir bölge kurulunun listesine kayıtlı olmamak.\n e) Bilirkişilik temel eğitimini başarıyla tamamlamak.\n f) Bilirkişilik yapacağı uzmanlık alanında en az beş yıl fiilen çalışmış olmak ya da Daire Başkanlığınca daha fazla çalışma süresi belirlenmiş ise bu süre kadar fiilen çalışmış olmak.\n g) Meslek mensubu olarak görev yapabilmek için ilgili mevzuat gereği aranan şartları haiz olmak ve mesleğini yapabilmek için gerekli olan uzmanlık alanını gösteren diploma, meslekî yeterlilik belgesi, uzmanlık belgesi, ustalık belgesi veya benzeri belgeye sahip olmak.\n ğ) Daire Başkanlığının bilirkişilik temel ve alt uzmanlık alanlarına göre belirlediği yeterlilik koşullarını taşımak.\n (2) Özel hukuk tüzel kişilerinde birinci fıkradaki şartları taşıyan ve sicile kayıtlı gerçek kişilerin istihdam edilmesi gerekir.\n (3) Daha önce yaptığı başvurusu, meslekî olarak yeterli nitelikte bulunmadığı gerekçesiyle reddedilenler, bir yıl geçmedikçe yeniden bilirkişilik yapmak için başvuruda bulunamazlar.\n (4) Hukuk öğrenimi görmüş kişiler, hukuk alanı dışında ayrı bir uzmanlığa sahip olduğunu ve birinci fıkradaki şartları taşıdığını belgelendirmediği takdirde, sicile ve listeye kaydedilemez.\n (5) Sermaye Piyasası Kanununa göre yetkilendirilen gayrimenkul değerleme uzmanları ile taşınmaz geliştirme konusunda yüksek lisans veya doktora yapmış uzmanlar için, Kamulaştırma Kanununun 15 inci maddesi gereğince sadece kamulaştırma alt uzmanlık alanında görev yapmak kaydıyla, bilirkişiliğe kabul şartları bakımından fiilen beş yıl görev yapma şartı aranmaz.",
+      "preview": "(1) Bilirkişilik başvurusunda bulunacak gerçek kişilerde aşağıdaki nitelikler aranır: a) 26/9/2004 tarihli ve 5237 sayılı Türk Ceza Kanununu…",
+      "kitap": null,
+      "kisim": null,
+      "bolum": "BEŞİNCİ BÖLÜM · Bilirkişiliğe Başvuru ve Sicile Kayıt",
+      "ayirim": null,
+      "maddeBaslik": "Bilirkişiliğe başvuru ve kabul şartları",
+      "sectionPath": [
+        "BEŞİNCİ BÖLÜM · Bilirkişiliğe Başvuru ve Sicile Kayıt",
+        "Bilirkişiliğe başvuru ve kabul şartları"
+      ]
+    },
+    {
+      "id": "yonetmelik:23818:m:39",
+      "maddeKind": "madde",
+      "maddeNo": "39",
+      "heading": "Madde 39",
+      "text": "(1) Bölge kurulu, bilirkişi listelerinin oluşturulması veya ihtiyaca göre güncellenmesi amacıyla, bilirkişi sıfatıyla listeye kaydolmak isteyen ilgililerin yerleşim yerinin veya mesleki faaliyetlerini yürüttüğü yerin bağlı olduğu bölge kuruluna ya da ilk derece mahkemesi adli veya idari yargı adalet komisyonuna müracaat etmeleri hususunda her yıl Daire Başkanlığınca belirlenecek tarihe kadar ilân yapar. Bu hususu, yetki çevresinde gerekli gördüğü kamu kurum ve kuruluşlarına, kamu kurumu niteliğindeki meslek kuruluşlarına ve ilgili diğer yerlere yazıyla bildirir.\n (2) İlân, Daire Başkanlığı, bölge kurulları ile bölge adliye ve bölge idare mahkemelerinin internet sitelerinde yayımlanır.\n (3) İlânda, sicile ve listeye başvuru ve kabul şartları için gerekli belgeler ile başvuru alınacak temel ve alt uzmanlık alanları gösterilir.",
+      "preview": "(1) Bölge kurulu, bilirkişi listelerinin oluşturulması veya ihtiyaca göre güncellenmesi amacıyla, bilirkişi sıfatıyla listeye kaydolmak iste…",
+      "kitap": null,
+      "kisim": null,
+      "bolum": "BEŞİNCİ BÖLÜM · Bilirkişiliğe Başvuru ve Sicile Kayıt",
+      "ayirim": null,
+      "maddeBaslik": "İlân",
+      "sectionPath": [
+        "BEŞİNCİ BÖLÜM · Bilirkişiliğe Başvuru ve Sicile Kayıt",
+        "İlân"
+      ]
+    },
+    {
+      "id": "yonetmelik:23818:m:40",
+      "maddeKind": "madde",
+      "maddeNo": "40",
+      "heading": "Madde 40",
+      "text": "(1) Gerçek kişiler, başvuru dilekçesine aşağıdaki belgeleri eklemek zorundadır:\n a) Türkiye Cumhuriyeti vatandaşları için Türkiye Cumhuriyeti kimlik numarası, yabancılar için pasaport veya yabancı kimlik numarası ve çalışma iznini gösteren belge.\n b) Bölge kurulunun yetki çevresinde oturduğu ya da meslekî faaliyetini yürüttüğüne dair yazılı beyan.\n c) Uzmanlık alanını gösteren diploma, meslekî yeterlilik belgesi, uzmanlık belgesi, ustalık belgesi veya benzeri belgelerin aslı veya onaylı sureti.\n ç) Mesleğini icra edebilmek için herhangi bir meslek kuruluşuna kayıtlı olmak zorunda olanlar için, meslek kuruluşuna üye olduğuna dair son altı ay içinde alınmış oda faaliyet belgesi veya oda kayıt belgesi.\n d) Daire Başkanlığı tarafından daha fazla bir süre belirlenmemiş olmak kaydıyla, bilirkişilik yapacağı uzmanlık alanında en az beş yıl fiilen çalıştığını gösterir belge.\n e) Görev belgesi veya mesleki faaliyetten veya sanat icrasından geçici ya da sürekli olarak yasaklı olmadığına dair kayıtlı olduğu meslek kuruluşu veya çalıştığı kurum ya da kuruluştan alacağı belge.\n f) Bilirkişilik temel eğitimini tamamladığına dair belge.\n g) Banka hesap numarası.\n (2) Tüzel kişiler, başvuru dilekçesine aşağıdaki belgeleri eklemek zorundadır:\n a) Şirketler için ticaret sicil tasdiknamesi, diğer tüzel kişiler için halen faaliyetine devam ettiğini gösterir belge.\n b) Tüzel kişi bünyesinde faaliyet gösteren gerçek kişi bilirkişileri ve uzmanlık alanlarını gösterir liste.\n c) Banka hesap numarası.\n ç) MERSİS numarası.\n d) Daire Başkanlığı tarafından gerekli görülen diğer belgeler.\n (3) Bu madde uyarınca istenen belgelerin aslının getirilmesi hâlinde, belgenin fotokopisi, aslına uygunluğu kontrol edildikten sonra bölge kurulu başkanının görevlendirdiği memur tarafından isim ve unvan yazılarak tasdik edilir.",
+      "preview": "(1) Gerçek kişiler, başvuru dilekçesine aşağıdaki belgeleri eklemek zorundadır: a) Türkiye Cumhuriyeti vatandaşları için Türkiye Cumhuriyeti…",
+      "kitap": null,
+      "kisim": null,
+      "bolum": "BEŞİNCİ BÖLÜM · Bilirkişiliğe Başvuru ve Sicile Kayıt",
+      "ayirim": null,
+      "maddeBaslik": "Başvuru dilekçesine eklenecek belgeler",
+      "sectionPath": [
+        "BEŞİNCİ BÖLÜM · Bilirkişiliğe Başvuru ve Sicile Kayıt",
+        "Başvuru dilekçesine eklenecek belgeler"
+      ]
+    },
+    {
+      "id": "yonetmelik:23818:m:41",
+      "maddeKind": "madde",
+      "maddeNo": "41",
+      "heading": "Madde 41",
+      "text": "(1) Başvurular, bölge kurullarına yapılır. Başvuruların nasıl yapılacağına dair usul ve esaslar Daire Başkanlığınca belirlenir.",
+      "preview": "(1) Başvurular, bölge kurullarına yapılır. Başvuruların nasıl yapılacağına dair usul ve esaslar Daire Başkanlığınca belirlenir.",
+      "kitap": null,
+      "kisim": null,
+      "bolum": "BEŞİNCİ BÖLÜM · Bilirkişiliğe Başvuru ve Sicile Kayıt",
+      "ayirim": null,
+      "maddeBaslik": "Bilirkişiliğe başvuru usulü",
+      "sectionPath": [
+        "BEŞİNCİ BÖLÜM · Bilirkişiliğe Başvuru ve Sicile Kayıt",
+        "Bilirkişiliğe başvuru usulü"
+      ]
+    },
+    {
+      "id": "yonetmelik:23818:m:42",
+      "maddeKind": "madde",
+      "maddeNo": "42",
+      "heading": "Madde 42",
+      "text": "(1) Başvurular, bölge kurulunca başvuru kaydına işlenir.\n (2) Başvuru dilekçesine eklenmesi zorunlu belgelerin eksik olması halinde, başvuru sahibine belgeleri tamamlaması için on beş gün kesin süre verilir.\n (3) Bilirkişilik için başvuru yapanlara ilişkin ihtiyaç duyulan bilgi ve belgeler ilgili kurum veya kuruluşlardan istenebilir, gerektiğinde ilgililer davet edilir ve dinlenir.\n (4) Başvurular Daire Başkanlığınca belirlenecek süre içinde bölge kurulu tarafından değerlendirilir. Yapılan değerlendirme sonucu 40 ıncı maddede belirtilen belgelerin ihtara rağmen tamamlanmamış olması ya da başvuru sahibinin 38 inci maddedeki şartları taşımadığının tespiti hâlinde talebin reddine karar verilir.\n (5) Başvurunun reddine ilişkin karar bölge kurulları, bölge adliye ve bölge idare mahkemelerinin internet sitelerinde yayımlanması suretiyle duyurulur. Bu duyuru tebliğ yerine geçer.\n (6) Talepleri uygun görülenler hakkında 43 ve 44 üncü maddelerde belirtilen işlemler yapılır.",
+      "preview": "(1) Başvurular, bölge kurulunca başvuru kaydına işlenir. (2) Başvuru dilekçesine eklenmesi zorunlu belgelerin eksik olması halinde, başvuru…",
+      "kitap": null,
+      "kisim": null,
+      "bolum": "BEŞİNCİ BÖLÜM · Bilirkişiliğe Başvuru ve Sicile Kayıt",
+      "ayirim": null,
+      "maddeBaslik": "Başvuruların değerlendirilmesi",
+      "sectionPath": [
+        "BEŞİNCİ BÖLÜM · Bilirkişiliğe Başvuru ve Sicile Kayıt",
+        "Başvuruların değerlendirilmesi"
+      ]
+    },
+    {
+      "id": "yonetmelik:23818:m:43",
+      "maddeKind": "madde",
+      "maddeNo": "43",
+      "heading": "Madde 43",
+      "text": "(1) Bölge kurulu, sicile kayıt bakımından öncelikle başvuranın 38 inci maddedeki koşulları taşıyıp taşımadığını değerlendirir. Kurul, bu koşulları taşıyanlar arasından en liyakatli olanları seçerek sicile ve listeye kaydedilmesine karar verir. Kurul liyakati değerlendirirken, başvuranın meslekî tecrübesini, alanında yüksek lisans, doktora, sanatta yeterlilik gibi uzmanlık eğitimini, katıldığı meslek içi eğitimleri veya uzmanlığı gösteren diğer belgeleri de dikkate alır.\n (2) Bilirkişiliğe kabul edilen kişilere bölge kurulu tarafından üç yıl süreyle geçerli olmak üzere bilirkişilik yetki belgesi verilir.",
+      "preview": "(1) Bölge kurulu, sicile kayıt bakımından öncelikle başvuranın 38 inci maddedeki koşulları taşıyıp taşımadığını değerlendirir. Kurul, bu koş…",
+      "kitap": null,
+      "kisim": null,
+      "bolum": "BEŞİNCİ BÖLÜM · Bilirkişiliğe Başvuru ve Sicile Kayıt",
+      "ayirim": null,
+      "maddeBaslik": "Sicile ve listeye kayıt",
+      "sectionPath": [
+        "BEŞİNCİ BÖLÜM · Bilirkişiliğe Başvuru ve Sicile Kayıt",
+        "Sicile ve listeye kayıt"
+      ]
+    },
+    {
+      "id": "yonetmelik:23818:m:44",
+      "maddeKind": "madde",
+      "maddeNo": "44",
+      "heading": "Madde 44",
+      "text": "(1) Listeye ilk defa kabul edilenler ile listeden kendi isteğiyle çıkarılıp yeniden kabul edilenler, bölge kurulunca veya bölge kurulu bulunmayan yerlerde bulundukları yer ilk derece mahkemesi adli yargı adalet komisyonunca daha önce belirlenen ve ilan edilen tarihlerde 5271 sayılı Ceza Muhakemesi Kanununun 64 üncü maddesinin beşinci fıkrası ve 6100 sayılı Hukuk Muhakemeleri Kanununun 271 inci maddesinin birinci fıkrasında belirtilen usule göre yemin ederler.\n (2) Yemin, bölge kurulu başkanı veya görevlendireceği bölge kurulu üyesi huzurunda yapılır.\n\n (3) Yemin, bölge kurulunun bulunmadığı yerlerde, bulunulan yer ilk derece mahkemesi adli yargı adalet komisyonu başkanı veya görevlendireceği üye ya da sulh hukuk hakiminin huzurunda yapılır.\n (4) Yeminin icrasından önce yemin edecek bilirkişiye, hangi konuda yemin edeceği, yeminin anlam ve önemi anlatılır.\n (5) Bilirkişi, yemin metnini yüksek sesle tekrar ederek veya okuyarak yeminini eda eder.\n (6) Yemin eda edilirken hazır bulunan herkes ayağa kalkar.\n (7) Bilirkişinin, haklı ve kabul edilebilir bir mazereti nedeniyle yemin için tayin edilen günde hazır bulunamaması halinde bölge kurulu başkanı tarafından tayin edilecek bir günde yemini yaptırılır.\n (8) Listeye kayıtlı bilirkişilere, görevlendirildikleri her dava veya işte ayrıca yemin verdirilmez; sadece bilirkişilere önceden etmiş bulundukları yemine bağlı kalmak suretiyle oy ve görüş bildirmek zorunda oldukları hususu hatırlatılır.\n (9) Listelerde yer almamış bilirkişiler, görevlendirildiklerinde kendilerini atamış olan merci huzurunda birinci fıkrada öngörülen biçimde yemin ederler. Yemin tutanağı bilirkişiye imzalatılarak dosyasına konulur.",
+      "preview": "(1) Listeye ilk defa kabul edilenler ile listeden kendi isteğiyle çıkarılıp yeniden kabul edilenler, bölge kurulunca veya bölge kurulu bulun…",
+      "kitap": null,
+      "kisim": null,
+      "bolum": "BEŞİNCİ BÖLÜM · Bilirkişiliğe Başvuru ve Sicile Kayıt",
+      "ayirim": null,
+      "maddeBaslik": "Yemin",
+      "sectionPath": [
+        "BEŞİNCİ BÖLÜM · Bilirkişiliğe Başvuru ve Sicile Kayıt",
+        "Yemin"
+      ]
+    },
+    {
+      "id": "yonetmelik:23818:m:45",
+      "maddeKind": "madde",
+      "maddeNo": "45",
+      "heading": "Madde 45",
+      "text": "(1) Bilirkişilik sicili, Daire Başkanlığı nezdinde bilirkişilere sicil numarası verilmek suretiyle merkezi kayıt şeklinde tutulur.\n (2) Bilirkişilik sicilinde aşağıdaki hususlar yer alır:\n a) Sicil numarası.\n b) Bilirkişi gerçek kişi ise adı ve soyadı, son altı ay içinde çekilmiş fotoğrafı, Türkiye Cumhuriyeti kimlik veya yabancı ise pasaport ya da yabancı kimlik numarası.\n c) Yerleşim yeri ve iletişim bilgileri.\n ç) Mesleği, temel ve alt uzmanlık alanı, çalıştığı kurum veya kuruluşun adı.\n d) Bilirkişi tüzel kişi ise ticaret unvanı, MERSİS numarası, merkezi, iletişim bilgileri, temel ve alt uzmanlık alanı; tüzel kişi bünyesinde çalışan bilirkişinin adı ve soyadı, fotoğrafı, Türkiye Cumhuriyeti kimlik veya yabancı ise pasaport ya da yabancı kimlik numarası, yerleşim yeri, iletişim bilgileri, mesleği, temel ve alt uzmanlık alanı.\n e) Bilirkişilik temel eğitim tarihi.\n f) Bilirkişilik yetki belgesi ve tarihi.\n g) Uzmanlığı gösteren belgelerin verildiği yer, tarih ve sayısı.\n ğ) Mesleki tecrübe bilgileri.\n h) Meslek içi eğitim bilgileri.\n ı) Öğrenim bilgileri.\n i) Adlî sicil ve arşiv kaydı.\n j) Kayıtlı bulunduğu bölge kurulu.\n k) Yemin tarihi.\n l) Meslekten geçici veya sürekli yasaklılık bilgileri.\n m) Uyarma, listeden geçici veya sürekli çıkarılmaya ilişkin yaptırım bilgileri.\n n) Hazırlanan rapor sayısı.\n o) Hükme esas alınan rapor sayısı.\n ö) Bilirkişinin cevaplaması gereken soruları eksik bırakması ve hatalı cevaplaması nedeniyle alınan ek rapor sayısı.\n p) Denetim ve performans bilgileri.\n r) Banka hesap numarası.\n s) Daire Başkanlığı tarafından gerekli görülen diğer bilgiler.\n (3) Bu kayıtta yer alan bilgilerden rapora ilişkin hususlar görevlendirmeyi yapan merci tarafından, diğer bilgiler bölge kurulu yazı işleri müdürü ve görevli personel tarafından girilir.\n (4) Sicil, Daire Başkanlığı ve bölge kurulları ile hâkim ve Cumhuriyet savcılarının erişimine açıktır.",
+      "preview": "(1) Bilirkişilik sicili, Daire Başkanlığı nezdinde bilirkişilere sicil numarası verilmek suretiyle merkezi kayıt şeklinde tutulur. (2) Bilir…",
+      "kitap": null,
+      "kisim": null,
+      "bolum": "BEŞİNCİ BÖLÜM · Bilirkişiliğe Başvuru ve Sicile Kayıt",
+      "ayirim": null,
+      "maddeBaslik": "Bilirkişilik sicili",
+      "sectionPath": [
+        "BEŞİNCİ BÖLÜM · Bilirkişiliğe Başvuru ve Sicile Kayıt",
+        "Bilirkişilik sicili"
+      ]
+    },
+    {
+      "id": "yonetmelik:23818:m:46",
+      "maddeKind": "madde",
+      "maddeNo": "46",
+      "heading": "Madde 46",
+      "text": "(1) (Değişik:RG-3/5/2025-32889) Bilirkişi listesi, bilirkişilik siciline kayıtlı gerçek kişilerin ad, soyad ve meslekleri, tüzel kişilerin ticaret ünvanları ve işletme konuları, bilirkişilerin temel ve alt uzmanlık alanları ve 24/3/2016 tarihli ve 6698 sayılı Kişisel Verilerin Korunması Kanunu hükümleri gözetilerek Daire Başkanlığınca belirlenecek diğer hususlar gösterilmek suretiyle bölge kurulları tarafından oluşturulan listedir.\n (2) Bilirkişilik siciline kayıtlı bilirkişiler yemin etmek suretiyle listeye kaydedilir.\n (3) Bilirkişi olarak hizmet verecek özel hukuk tüzel kişileri bünyesinde bilirkişi olarak çalışacak kişiler listeye kaydedilmez.\n (4) Liste aleni olup, herkesin erişimine açıktır.\n (5) Bilirkişi, yerleşim yeri, görev veya iş yeri değişikliği nedeni ile başka bir bölge kurulunun bulunduğu listeye nakil suretiyle kayıt olabilir.",
+      "preview": "(1) (Değişik:RG-3/5/2025-32889) Bilirkişi listesi, bilirkişilik siciline kayıtlı gerçek kişilerin ad, soyad ve meslekleri, tüzel kişilerin t…",
+      "kitap": null,
+      "kisim": null,
+      "bolum": "BEŞİNCİ BÖLÜM · Bilirkişiliğe Başvuru ve Sicile Kayıt",
+      "ayirim": null,
+      "maddeBaslik": "Bilirkişi Listesi",
+      "sectionPath": [
+        "BEŞİNCİ BÖLÜM · Bilirkişiliğe Başvuru ve Sicile Kayıt",
+        "Bilirkişi Listesi"
+      ]
+    },
+    {
+      "id": "yonetmelik:23818:m:47",
+      "maddeKind": "madde",
+      "maddeNo": "47",
+      "heading": "Madde 47",
+      "text": "(1) Muafiyet listesi, Daire Başkanlığınca oluşturulan ve alanlarındaki uzmanlıkları ve bilimsel yeterlilikleri dikkate alınarak, sicile ve listeye kaydolmaktan muaf tutulanların yer aldığı listedir.",
+      "preview": "(1) Muafiyet listesi, Daire Başkanlığınca oluşturulan ve alanlarındaki uzmanlıkları ve bilimsel yeterlilikleri dikkate alınarak, sicile ve l…",
+      "kitap": null,
+      "kisim": null,
+      "bolum": "BEŞİNCİ BÖLÜM · Bilirkişiliğe Başvuru ve Sicile Kayıt",
+      "ayirim": null,
+      "maddeBaslik": "Muafiyet listesi",
+      "sectionPath": [
+        "BEŞİNCİ BÖLÜM · Bilirkişiliğe Başvuru ve Sicile Kayıt",
+        "Muafiyet listesi"
+      ]
+    },
+    {
+      "id": "yonetmelik:23818:m:48",
+      "maddeKind": "madde",
+      "maddeNo": "48",
+      "heading": "Madde 48",
+      "text": "(1) Bilirkişiler, aşağıdaki şartlardan birinin gerçekleşmesi hâlinde sicilden ve listeden çıkarılır:\n a) Bilirkişiliğe kabul şartlarının kaybedilmesi veya sicile kabul tarihinde gerekli şartların bulunmadığının sonradan tespit edilmesi.\n b) Kanuni bir sebep olmaksızın bilirkişilik yapmaktan kaçınılması veya raporun belirlenen süre içinde mazeretsiz olarak verilmemesi.\n c) Bilirkişilik görevi ve bu görevin gerektirdiği etik ilkelerle bağdaşmayan, güven duygusunu sarsıcı tutum ve davranışlarda bulunulması.\n ç) Temel ilkelere aykırı olarak bilirkişilik faaliyetinde bulunulması.\n d) Bölge kurulu tarafından yapılacak performans değerlendirmeleri sonucunda yeterli bulunulmaması.\n e) Bilirkişilik süresinin dolmasına rağmen süresi içerisinde yenileme talebinde bulunulmaması.\n f) Bilirkişinin sicilden ve listeden çıkarılmayı talep etmesi.\n (2) Birinci fıkranın (b), (c), (ç) ve (d) bentlerinde belirtilen hâllerde ihlalin niteliğine göre sicilden ve listeden çıkarma yaptırımı yerine uyarma veya bir yıla kadar geçici süreyle listeden çıkarma yaptırımı uygulanabilir.",
+      "preview": "(1) Bilirkişiler, aşağıdaki şartlardan birinin gerçekleşmesi hâlinde sicilden ve listeden çıkarılır: a) Bilirkişiliğe kabul şartlarının kayb…",
+      "kitap": null,
+      "kisim": null,
+      "bolum": "BEŞİNCİ BÖLÜM · Bilirkişiliğe Başvuru ve Sicile Kayıt",
+      "ayirim": null,
+      "maddeBaslik": "Sicil ve listeden çıkarılma",
+      "sectionPath": [
+        "BEŞİNCİ BÖLÜM · Bilirkişiliğe Başvuru ve Sicile Kayıt",
+        "Sicil ve listeden çıkarılma"
+      ]
+    },
+    {
+      "id": "yonetmelik:23818:m:49",
+      "maddeKind": "madde",
+      "maddeNo": "49",
+      "heading": "Madde 49",
+      "text": "(1) Çözümü uzmanlığı, özel veya teknik bilgiyi gerektiren hallerde bilirkişinin görüşüne başvurulabilir.\n (2) Genel bilgi veya tecrübeyle ya da hâkimlik mesleğinin gerektirdiği hukuki bilgiyle çözümlenmesi mümkün olan konularda bilirkişiye başvurulamaz.",
+      "preview": "(1) Çözümü uzmanlığı, özel veya teknik bilgiyi gerektiren hallerde bilirkişinin görüşüne başvurulabilir. (2) Genel bilgi veya tecrübeyle ya…",
+      "kitap": null,
+      "kisim": null,
+      "bolum": "ALTINCI BÖLÜM · Bilirkişi Görevlendirilmesi",
+      "ayirim": null,
+      "maddeBaslik": "Bilirkişi görevlendirilmesini gerektiren haller",
+      "sectionPath": [
+        "ALTINCI BÖLÜM · Bilirkişi Görevlendirilmesi",
+        "Bilirkişi görevlendirilmesini gerektiren haller"
+      ]
+    },
+    {
+      "id": "yonetmelik:23818:m:50",
+      "maddeKind": "madde",
+      "maddeNo": "50",
+      "heading": "Madde 50",
+      "text": "(1) Bilirkişi, resen veya talep üzerine ilgili merci tarafından görevlendirilebilir.\n (2) Bilirkişiler, bölge kurullarınca düzenlenen listelerden seçilir. İşin mahiyetine göre gerekçesi açıkça gösterilmek kaydıyla birden fazla bilirkişi görevlendirilebilir.\n (3) Adlî ve idarî yargıda görev alacak bilirkişiler, bölge adliye mahkemelerinin yargı çevreleri esas alınmak suretiyle bilirkişilik bölge kurulları tarafından hazırlanan listelerden görevlendirilir. Ancak kendi bölge listesinde ilgili uzmanlık alanında bilirkişi olmasına rağmen diğer bir bölgedeki bilirkişinin, görevlendirme yapılan yere daha yakın bir mesafede bulunması durumunda, bu listeden de görevlendirme yapılabilir.\n (4) Bölge kurulunun hazırladığı listede bilgisine başvurulacak uzmanlık alanında bilirkişi bulunmaması hâlinde, diğer bölge kurullarının listelerinden, burada da bulunmaması halinde listelerin dışından bilirkişiliğe kabul şartlarını haiz kişiler arasından görevlendirme yapılabilir. Listelerin dışından görevlendirilen bilirkişiler, bölge kuruluna bildirilir. Liste dışından görevlendirilen bilirkişinin, bilirkişilik yapma şartlarını taşımadığının bölge kurulu tarafından tespiti halinde, bu kişi UYAP’a kaydedilmez ve durum görevlendirmeyi yapan mercie bildirilir.\n (5) Yüksek mahkemelerin ilk derece mahkemesi olarak baktıkları dava ve işlerde, tüm bölge kurulları listelerinde kayıtlı bilirkişiler arasından görevlendirme yapılabilir.\n (6) İnceleme konusunun başka bir bölgede bulunması halinde ya da fizikî evrak gönderilmesi ve mahallinde inceleme yapılmasının gerekmemesi durumunda bölge kurulunun hazırladığı listede bilgisine başvurulacak uzmanlık alanında bilirkişi bulunmaması kaydıyla, bölge listesi esasına uyulmaksızın ilgili bölge kurulu listesinden UYAP vasıtasıyla elektronik ortamda doğrudan bilirkişi görevlendirilebilir.",
+      "preview": "(1) Bilirkişi, resen veya talep üzerine ilgili merci tarafından görevlendirilebilir. (2) Bilirkişiler, bölge kurullarınca düzenlenen listele…",
+      "kitap": null,
+      "kisim": null,
+      "bolum": "ALTINCI BÖLÜM · Bilirkişi Görevlendirilmesi",
+      "ayirim": null,
+      "maddeBaslik": "Bilirkişi görevlendirilmesi ve sayısı",
+      "sectionPath": [
+        "ALTINCI BÖLÜM · Bilirkişi Görevlendirilmesi",
+        "Bilirkişi görevlendirilmesi ve sayısı"
+      ]
+    },
+    {
+      "id": "yonetmelik:23818:m:51",
+      "maddeKind": "madde",
+      "maddeNo": "51",
+      "heading": "Madde 51",
+      "text": "(1) Görevlendirilen bilirkişiye, inceleme yaptırılacak konunun kapsamı ve sınırları yazılı olarak bildirilir ve açıkça anlatılır. Bu yazıda aşağıdaki hususlara yer verilir:\n a) İnceleme konusunun bütün sınırlarıyla ve açıkça belirlenmesi.\n b) Bilirkişinin cevaplaması gereken sorular.\n c) Takdir edilen bilirkişi ücreti.\n ç) Raporun verilme süresi.\n d) Gerçeğe aykırı mütalaada bulunması halinde 26/9/2004 tarihli ve 5237 sayılı Türk Ceza Kanununun 276 ncı maddesi uyarınca cezalandırılacağı.\n (2) Bilirkişiye, inceleme konusu ile ilgili belgelerin aslı veya onaylı bir sureti dizi pusulasına bağlanarak imza karşılığı teslim edilir; ayrıca bu husus tutanağa bağlanır. UYAP vasıtasıyla dosyanın incelenmesinin mümkün olduğu hallerde, dosya veya belge fizikî olarak teslim edilmez; bilirkişiye UYAP üzerinden dosya inceleme yetkisi verilir.",
+      "preview": "(1) Görevlendirilen bilirkişiye, inceleme yaptırılacak konunun kapsamı ve sınırları yazılı olarak bildirilir ve açıkça anlatılır. Bu yazıda…",
+      "kitap": null,
+      "kisim": null,
+      "bolum": "ALTINCI BÖLÜM · Bilirkişi Görevlendirilmesi",
+      "ayirim": null,
+      "maddeBaslik": "Bilirkişinin görev alanının belirlenmesi ve bilirkişiye bilgi verilmesi",
+      "sectionPath": [
+        "ALTINCI BÖLÜM · Bilirkişi Görevlendirilmesi",
+        "Bilirkişinin görev alanının belirlenmesi ve bilirkişiye bilgi verilmesi"
+      ]
+    },
+    {
+      "id": "yonetmelik:23818:m:52",
+      "maddeKind": "madde",
+      "maddeNo": "52",
+      "heading": "Madde 52",
+      "text": "(1) Bilirkişi, görevlendirmeyi yapan merci tarafından verilen süre içinde raporunu hazırlayarak sunmakla yükümlüdür. Ancak işin niteliği itibariyle verilen süre içinde\n raporun hazırlanmasına imkân bulunmazsa, talebi halinde bilirkişiye ek süre verilebilir.\n (2) Belirlenen süre içinde raporunu vermeyen bilirkişi görevden alınıp, yerine başka bir bilirkişi görevlendirilebilir. Bu durumda, görevlendirmeyi yapan merci, görevden alınan bilirkişiden o ana kadar yapmış olduğu işlemler hakkında açıklama yapmasını ve kendisine incelenmek üzere dizi pusulasına bağlanarak teslim edilen dosya ve eklerinin eksiksiz olarak hemen geri verilmesini ister.\n (3) Bilirkişi, kendisine verilen asıl veya ek süre dolmasına rağmen mazeretsiz olarak raporunu sunmadığı takdirde, raporunu verinceye kadar kendisine yeni bir bilirkişilik görevi verilemez. Görevlendirmeyi yapan merci bu durumu tespit ettiğinde derhal bölge kuruluna bildirimde bulunur.\n (4) Görevden alınan bilirkişinin hukuki ve cezai sorumlulukları saklı kalmak kaydıyla, görevlendirmeyi yapan merci tarafından, gerekçesi belirtilmek suretiyle kendisine ücret ve masraf adı altında ödeme yapılıp yapılmayacağına karar verilir. Ayrıca durum bölge kuruluna bildirilir.",
+      "preview": "(1) Bilirkişi, görevlendirmeyi yapan merci tarafından verilen süre içinde raporunu hazırlayarak sunmakla yükümlüdür. Ancak işin niteliği iti…",
+      "kitap": null,
+      "kisim": null,
+      "bolum": "ALTINCI BÖLÜM · Bilirkişi Görevlendirilmesi",
+      "ayirim": null,
+      "maddeBaslik": "Bilirkişinin görev süresi",
+      "sectionPath": [
+        "ALTINCI BÖLÜM · Bilirkişi Görevlendirilmesi",
+        "Bilirkişinin görev süresi"
+      ]
+    },
+    {
+      "id": "yonetmelik:23818:m:53",
+      "maddeKind": "madde",
+      "maddeNo": "53",
+      "heading": "Madde 53",
+      "text": "(1) Bilirkişi, kendisine tevdi olunan görevin, uzmanlığı, özel veya teknik bilgiyi gerektirmediğini, temel ve alt uzmanlık alanına girmediğini, inceleme konusu iş ve işlemlerin açıklığa kavuşturulması için alanında uzman başka bir bilirkişi ile işbirliğine ihtiyaç duyduğunu veya varsa görevden çekinmeyi haklı kılacak bir mazeretinin bulunduğunu, görevin kendisine verilme tarihinden veya çekinmeyi gerektirecek durumun sonradan öğrenilmesi halinde bu tarihten itibaren en geç bir hafta içinde görevlendirmeyi yapan mercie bildirir.",
+      "preview": "(1) Bilirkişi, kendisine tevdi olunan görevin, uzmanlığı, özel veya teknik bilgiyi gerektirmediğini, temel ve alt uzmanlık alanına girmediği…",
+      "kitap": null,
+      "kisim": null,
+      "bolum": "ALTINCI BÖLÜM · Bilirkişi Görevlendirilmesi",
+      "ayirim": null,
+      "maddeBaslik": "Bilirkişinin bildirim ve çekinme yükümlülüğü",
+      "sectionPath": [
+        "ALTINCI BÖLÜM · Bilirkişi Görevlendirilmesi",
+        "Bilirkişinin bildirim ve çekinme yükümlülüğü"
+      ]
+    },
+    {
+      "id": "yonetmelik:23818:m:54",
+      "maddeKind": "madde",
+      "maddeNo": "54",
+      "heading": "Madde 54",
+      "text": "(1) Bilirkişi, yapacağı ön incelemede, incelemeyi gerçekleştirebilmesi için bazı hususların önceden araştırılması ve tespiti ile kendisine teslim edilen dosya ve belgelere ilave olarak başka kayıt ve belgelere ihtiyaç duyması halinde bir hafta içinde görevlendirmeyi yapan merciden talepte bulunur.\n (2) Bilirkişi, görev alanı veya sınırları hakkında tereddüde düşerse, bunun giderilmesini, görevlendirmeyi yapan merciden her zaman talep edebilir.",
+      "preview": "(1) Bilirkişi, yapacağı ön incelemede, incelemeyi gerçekleştirebilmesi için bazı hususların önceden araştırılması ve tespiti ile kendisine t…",
+      "kitap": null,
+      "kisim": null,
+      "bolum": "ALTINCI BÖLÜM · Bilirkişi Görevlendirilmesi",
+      "ayirim": null,
+      "maddeBaslik": "Bilirkişinin yetkileri",
+      "sectionPath": [
+        "ALTINCI BÖLÜM · Bilirkişi Görevlendirilmesi",
+        "Bilirkişinin yetkileri"
+      ]
+    },
+    {
+      "id": "yonetmelik:23818:m:55",
+      "maddeKind": "madde",
+      "maddeNo": "55",
+      "heading": "Madde 55",
+      "text": "(1) Bilirkişi raporunda aşağıdaki hususlar yer alır:\n a) Görevlendirmeyi yapan merci.\n b) Dosya numarası.\n c) Yargılamanın taraflarına ait bilgiler.\n ç) Görevlendirme tarihi ve süresi.\n d) İncelemenin konusu.\n e) Kendisinden gözlemlenmesi ve incelenmesi istenen maddi unsurlar.\n f) İnceleme yöntemi.\n g) Bilimsel ve teknik dayanaklar.\n ğ) Gerekçeli sonuç.\n h) Raporun düzenlenme tarihi.\n ı) Bilirkişi gerçek kişi ise adı ve soyadı, unvanı, sicil numarası ve imzası.\n i) Bilirkişi tüzel kişi ise ticaret unvanı, kanuni temsilcisinin adı ve soyadı, tüzel kişi adına raporu tanzim eden gerçek kişi bilirkişinin adı ve soyadı ile sicil numarası ve imzası.\n (2) Birden fazla bilirkişi görevlendirilen durumlarda, farklı görüşler varsa raporda ayrı ayrı açıklanır. Farklı görüşler ayrı bir rapor halinde de mahkemeye sunulabilir.\n (3) Bilirkişi raporuna, incelemeye esas maddi unsurları belgeleyen ve sonuçların açıklanmasına yardımcı olan şema, harita, kroki, fotoğraf, tablo ile diğer kayıt ve belgeler de eklenir.\n (4) Bilirkişi, raporunda ve sözlü açıklamaları sırasında hukuki nitelendirme ve değerlendirmelerde bulunamaz.",
+      "preview": "(1) Bilirkişi raporunda aşağıdaki hususlar yer alır: a) Görevlendirmeyi yapan merci. b) Dosya numarası. c) Yargılamanın taraflarına ait bilg…",
+      "kitap": null,
+      "kisim": null,
+      "bolum": "ALTINCI BÖLÜM · Bilirkişi Görevlendirilmesi",
+      "ayirim": null,
+      "maddeBaslik": "Bilirkişi raporu",
+      "sectionPath": [
+        "ALTINCI BÖLÜM · Bilirkişi Görevlendirilmesi",
+        "Bilirkişi raporu"
+      ]
+    },
+    {
+      "id": "yonetmelik:23818:m:56",
+      "maddeKind": "madde",
+      "maddeNo": "56",
+      "heading": "Madde 56",
+      "text": "(1) Bilirkişi raporu, görevlendirmeyi yapan merci tarafından diğer delillerle birlikte serbestçe değerlendirilir.\n (2) Görevlendirmeyi yapan merci, bilirkişi raporundaki eksiklik yahut belirsizliğin tamamlanması veya açıklığa kavuşturulmasını sağlamak için, bilirkişiden, yeni sorular yöneltmek suretiyle ek rapor isteyebilir.\n (3) Bilirkişi raporunda eksik veya anlaşılmaz hususların bulunması halinde; görevlendirmeyi yapan merci tarafından belirlenen süre içinde bilirkişiden yazılı açıklama istenir. İhtiyaç duyulduğu takdirde, bilirkişinin oy ve görüşünü sözlü olarak açıklamasına karar verilirse, açıklamaları tutanağa geçirilir ve bilirkişinin de imzası alınır. Kurul hâlinde görevlendirme söz konusu ise, bilirkişilerin bilgilerine başvurulan hususu hemen aralarında müzakere etmelerine imkân tanınır ve müzakere sonucunda açıklanan oy ve görüş, tutanağa geçirilerek bilirkişilere imza ettirilir.",
+      "preview": "(1) Bilirkişi raporu, görevlendirmeyi yapan merci tarafından diğer delillerle birlikte serbestçe değerlendirilir. (2) Görevlendirmeyi yapan…",
+      "kitap": null,
+      "kisim": null,
+      "bolum": "ALTINCI BÖLÜM · Bilirkişi Görevlendirilmesi",
+      "ayirim": null,
+      "maddeBaslik": "Bilirkişinin oy ve görüşünün değerlendirilmesi",
+      "sectionPath": [
+        "ALTINCI BÖLÜM · Bilirkişi Görevlendirilmesi",
+        "Bilirkişinin oy ve görüşünün değerlendirilmesi"
+      ]
+    },
+    {
+      "id": "yonetmelik:23818:m:57",
+      "maddeKind": "madde",
+      "maddeNo": "57",
+      "heading": "Madde 57",
+      "text": "(1) Bilirkişiye, tarife esas alınmak suretiyle görevlendirmeyi yapan merci tarafından incelemenin nitelik ve önemi, bilirkişinin sarf etmiş olduğu emek ve zaman göz önünde bulundurularak belirlenen ücret ödenir.\n (2) Bilirkişi gider ve ücretine ilişkin usul ve esaslar tarife ile belirlenir.",
+      "preview": "(1) Bilirkişiye, tarife esas alınmak suretiyle görevlendirmeyi yapan merci tarafından incelemenin nitelik ve önemi, bilirkişinin sarf etmiş…",
+      "kitap": null,
+      "kisim": null,
+      "bolum": "ALTINCI BÖLÜM · Bilirkişi Görevlendirilmesi",
+      "ayirim": null,
+      "maddeBaslik": "Bilirkişi gider ve ücreti",
+      "sectionPath": [
+        "ALTINCI BÖLÜM · Bilirkişi Görevlendirilmesi",
+        "Bilirkişi gider ve ücreti"
+      ]
+    },
+    {
+      "id": "yonetmelik:23818:m:58",
+      "maddeKind": "madde",
+      "maddeNo": "58",
+      "heading": "Madde 58",
+      "text": "(1) Bilirkişi, Türk Ceza Kanunu anlamında kamu görevlisidir.\n (2) Bilirkişi, kasten gerçeğe aykırı mütalaada bulunması halinde, Türk Ceza Kanununun 276 ncı maddesi uyarınca sorumlu tutulur.\n (3) Bilirkişinin kasten veya ağır ihmal suretiyle düzenlemiş olduğu gerçeğe aykırı raporun, hükme esas alınması sebebiyle zarar görmüş olanlar, bu zararın tazmini için Devlete karşı tazminat davası açabilirler.\n (4) Devlet, ödediği tazminat için sorumlu bilirkişiye rücu eder.",
+      "preview": "(1) Bilirkişi, Türk Ceza Kanunu anlamında kamu görevlisidir. (2) Bilirkişi, kasten gerçeğe aykırı mütalaada bulunması halinde, Türk Ceza Kan…",
+      "kitap": null,
+      "kisim": null,
+      "bolum": "ALTINCI BÖLÜM · Bilirkişi Görevlendirilmesi",
+      "ayirim": null,
+      "maddeBaslik": "Bilirkişinin cezai ve hukuki sorumluluğu",
+      "sectionPath": [
+        "ALTINCI BÖLÜM · Bilirkişi Görevlendirilmesi",
+        "Bilirkişinin cezai ve hukuki sorumluluğu"
+      ]
+    },
+    {
+      "id": "yonetmelik:23818:m:59",
+      "maddeKind": "madde",
+      "maddeNo": "59",
+      "heading": "Madde 59",
+      "text": "(1) Bilirkişiler, görevleriyle ilgili tutum ve davranışlarının veya hazırladıkları raporların mevzuata uygunluğu bakımından bölge kurulları tarafından resen veya başvuru üzerine denetlenir.\n (2) Görevlendirmeyi yapan merci, görevlendirdiği bilirkişinin göreviyle ilgili tutum ve davranışlarının veya hazırladığı raporun mevzuata uygun olmadığına ilişkin kanaat edinmesi durumunda, varsa dayanak bilgi ve belgeleri de ekleyerek, bu hususu bölge kuruluna bildirir.\n (3) Bilirkişi raporlarının özel veya teknik bilgi yönünden içeriğine ilişkin bölge kurullarına başvuru yapılamaz.",
+      "preview": "(1) Bilirkişiler, görevleriyle ilgili tutum ve davranışlarının veya hazırladıkları raporların mevzuata uygunluğu bakımından bölge kurulları…",
+      "kitap": null,
+      "kisim": null,
+      "bolum": "YEDİNCİ BÖLÜM · Denetim",
+      "ayirim": null,
+      "maddeBaslik": "Denetim ve inceleme",
+      "sectionPath": [
+        "YEDİNCİ BÖLÜM · Denetim",
+        "Denetim ve inceleme"
+      ]
+    },
+    {
+      "id": "yonetmelik:23818:m:60",
+      "maddeKind": "madde",
+      "maddeNo": "60",
+      "heading": "Madde 60",
+      "text": "(1) Bölge kurulları, bilirkişi raporlarının kanun, tüzük, yönetmelik ve genelgelerde gösterilen usul ve esaslara uygun hazırlanıp hazırlanmadığı ile Daire Başkanlığı tarafından belirlenen rehber ilkelerle bağdaşıp bağdaşmadığı hususlarını denetler.\n (2) Bölge kurulları, bilirkişi raporlarını özel veya teknik bilgi yönünden denetleyemez.\n (3) Bilirkişi raporlarına ilişkin yargı mercileri tarafından yapılacak denetimler bu Yönetmelik kapsamı dışındadır.",
+      "preview": "(1) Bölge kurulları, bilirkişi raporlarının kanun, tüzük, yönetmelik ve genelgelerde gösterilen usul ve esaslara uygun hazırlanıp hazırlanma…",
+      "kitap": null,
+      "kisim": null,
+      "bolum": "YEDİNCİ BÖLÜM · Denetim",
+      "ayirim": null,
+      "maddeBaslik": "Denetimin kapsamı",
+      "sectionPath": [
+        "YEDİNCİ BÖLÜM · Denetim",
+        "Denetimin kapsamı"
+      ]
+    },
+    {
+      "id": "yonetmelik:23818:m:61",
+      "maddeKind": "madde",
+      "maddeNo": "61",
+      "heading": "Madde 61",
+      "text": "(1) Bölge kurulu başkanı, bilirkişilik temel ilkeleri ile etik ilkeleri ihlal ettiği iddia edilen bilirkişiler hakkında başvuru üzerine veya resen gerekli inceleme ve araştırmayı bizzat yapabileceği gibi bölge kurulu üyelerinden biri vasıtasıyla da yapabilir. (Değişik cümle:RG-3/5/2025-32889) Bölge kurulu başkanı veya görevlendirilen üye, bizzat veya istinabe suretiyle delilleri toplar ve bölge kuruluna sunar.\n (2) Bilirkişi hakkındaki inceleme, ivedilikle ve her halde başvuru veya resen incelemeye başlama tarihinden itibaren en geç altı ay içinde sonuçlandırılır.\n (3) Bölge kurulu başkanı veya görevlendirilen üye, inceleme sırasında yargı mercilerinden, kamu kurum ve kuruluşlarından, meslek odalarından, özel hukuk tüzel kişilerinden ve gerçek kişilerden inceleme konusuyla ilgili bilgi ve belge talep edebilir. İlgililerce bu talebin yerine getirilmesi zorunludur.",
+      "preview": "(1) Bölge kurulu başkanı, bilirkişilik temel ilkeleri ile etik ilkeleri ihlal ettiği iddia edilen bilirkişiler hakkında başvuru üzerine veya…",
+      "kitap": null,
+      "kisim": null,
+      "bolum": "YEDİNCİ BÖLÜM · Denetim",
+      "ayirim": null,
+      "maddeBaslik": "İncelemenin usul ve esasları",
+      "sectionPath": [
+        "YEDİNCİ BÖLÜM · Denetim",
+        "İncelemenin usul ve esasları"
+      ]
+    },
+    {
+      "id": "yonetmelik:23818:m:62",
+      "maddeKind": "madde",
+      "maddeNo": "62",
+      "heading": "Madde 62",
+      "text": "(1) Bilirkişi raporlarının özel veya teknik bilgi yönünden içeriğine ilişkin bölge kurullarına yapılan başvurular incelenmeksizin reddedilir. Bu yöndeki başvurular görevlendirmeyi yapan merci ile bilirkişinin bağlı bulunduğu meslek kuruluşu veya görev yaptığı kuruluşlara gönderilir.\n (2) Bilirkişiler hakkında yapılan denetim sonucunda 48 inci maddenin birinci fıkrasının (a), (b), (c), (ç) ve (d) bentlerinde belirtilen şartlardan birinin gerçekleşmesi hâlinde sicilden ve listeden çıkarma kararı verilir.\n (3) Bilirkişiler hakkında yapılan denetim sonucunda 48 inci maddenin birinci fıkrasının (b), (c), (ç) ve (d) bentlerinde belirtilen hâllerde ihlalin niteliğine göre sicilden ve listeden çıkarma yaptırımı yerine uyarma veya bir yıla kadar geçici süreyle listeden çıkarma yaptırımı uygulanabilir.\n (4) Bilirkişilik sicili ve listesinde kayıtlı olmayıp da 50 nci maddenin dördüncü fıkrası uyarınca görevlendirilenler ile listeye kaydolmaktan muaf tutulanlar, temel ilkeler ile etik ilkelere aykırı olarak bilirkişilik faaliyetinde bulunduklarının tespit edilmesi hâlinde, görevlendirmeyi yapan merciin yetki çevresinde bulunan bölge kurulu tarafından resen veya başvuru üzerine denetim ve incelemeye tabi tutularak, bölge kurulu kararı ile bilirkişilik yapmaktan yasaklanabilir. Bu karar, ilan edilmek üzere Daire Başkanlığına bildirilir.\n (5) Denetim raporu bölge kurulu denetim ve performans kaydına işlenir, bir sureti de Daire Başkanlığına sunulur.\n (6) Bölge kurulu, yaptığı denetim ve inceleme sonucunda bilirkişi hakkında bu maddenin ikinci, üçüncü ve dördüncü fıkraları uyarınca verdiği kararları, bilirkişinin görev yaptığı kamu kurum ve kuruluşlarına, kamu kurumu niteliğindeki meslek kuruluşlarına ve ilgili diğer yerlere bildirir.",
+      "preview": "(1) Bilirkişi raporlarının özel veya teknik bilgi yönünden içeriğine ilişkin bölge kurullarına yapılan başvurular incelenmeksizin reddedilir…",
+      "kitap": null,
+      "kisim": null,
+      "bolum": "YEDİNCİ BÖLÜM · Denetim",
+      "ayirim": null,
+      "maddeBaslik": "Denetim ve inceleme sonucu verilecek kararlar",
+      "sectionPath": [
+        "YEDİNCİ BÖLÜM · Denetim",
+        "Denetim ve inceleme sonucu verilecek kararlar"
+      ]
+    },
+    {
+      "id": "yonetmelik:23818:m:63",
+      "maddeKind": "madde",
+      "maddeNo": "63",
+      "heading": "Madde 63",
+      "text": "(1) Bölge kurulu, resen veya başvuru üzerine yapacağı denetim ve\n inceleme sırasında bilirkişi hakkındaki iddiaları ciddi bulması halinde bilirkişiye tebligat yaparak bir hafta içinde yazılı savunma yapmasını ister.\n (2) Yapılacak inceleme sonucunda 48 inci maddede sayılan sicilden çıkarılma ve yasaklama sebeplerinin gerçekleştiğinin anlaşılması hâlinde uyarma veya bir yıla kadar geçici süreyle listeden çıkarılmasına ya da bilirkişinin kalıcı olarak sicilden ve listeden çıkarılmasına karar verilebilir. Karar bilirkişiye tebliğ edilir.\n (3) Bilirkişinin geçici veya sürekli olarak sicilden ve listeden çıkarılması ile bilirkişilik yapmaktan yasaklama kararına karşı yapılan itirazın bölge kurulunca reddedilmesi halinde, bu karar aleyhine idari yargı yoluna başvurulması durumunda ayrıca yürütmeyi durdurma kararı verilmedikçe ilgili, bilirkişilik yapmaktan el çektirilerek UYAP sistemindeki kaydı pasif hale getirilir.\n (4) Bu madde hükümleri tüzel kişi bilirkişiler ve bünyesinde çalıştırdığı gerçek kişi bilirkişiler hakkında da uygulanır.",
+      "preview": "(1) Bölge kurulu, resen veya başvuru üzerine yapacağı denetim ve inceleme sırasında bilirkişi hakkındaki iddiaları ciddi bulması halinde bil…",
+      "kitap": null,
+      "kisim": null,
+      "bolum": "YEDİNCİ BÖLÜM · Denetim",
+      "ayirim": null,
+      "maddeBaslik": "Listeden çıkarılma usulü",
+      "sectionPath": [
+        "YEDİNCİ BÖLÜM · Denetim",
+        "Listeden çıkarılma usulü"
+      ]
+    },
+    {
+      "id": "yonetmelik:23818:m:64",
+      "maddeKind": "madde",
+      "maddeNo": "64",
+      "heading": "Madde 64",
+      "text": "(1) Bölge kurulları idari yönden adalet müfettişleri tarafından denetlenir.\n (2) Yapılacak denetimde, işlerin kanun, tüzük, yönetmelik ve genelgeler ile Bakanlığın düzenleyici işlemlerine uygun olarak yürütülüp yürütülmediği incelenir.",
+      "preview": "(1) Bölge kurulları idari yönden adalet müfettişleri tarafından denetlenir. (2) Yapılacak denetimde, işlerin kanun, tüzük, yönetmelik ve gen…",
+      "kitap": null,
+      "kisim": null,
+      "bolum": "YEDİNCİ BÖLÜM · Denetim",
+      "ayirim": null,
+      "maddeBaslik": "Bölge kurullarının denetimi",
+      "sectionPath": [
+        "YEDİNCİ BÖLÜM · Denetim",
+        "Bölge kurullarının denetimi"
+      ]
+    },
+    {
+      "id": "yonetmelik:23818:m:65",
+      "maddeKind": "madde",
+      "maddeNo": "65",
+      "heading": "Madde 65",
+      "text": "(1) Yazı işleri hizmetleri bölge kurulu başkanının denetimi altında yazı işleri müdürü ile onun yönetimindeki memur ve diğer görevliler tarafından yürütülür.\n (2) Yazı işleri müdürünün görev ve sorumlulukları şunlardır:\n a) Yazı işleri hizmetlerinin düzenli bir şekilde yürütülmesini sağlamak ve denetlemek.\n b) Memurlar arasında bölge kurulu başkanının onayını alarak işbölümü yapmak.\n c) Memurlara işlerin öğretilmesi de dahil olmak üzere hizmetlerin verimli ve düzenli bir şekilde yürütülmesi için her türlü tedbiri almak.\n ç) Bölge kurulu başkanının uygun göreceği evrakın havalesini yapmak.\n d) Bölge kurulu kararlarının talep olmaksızın tebliğini sağlamak.\n e) Fizikî gelen evrakların taranarak UYAP ortamına aktarıldığını kontrol etmek, güvenli elektronik imza ile imzalamak ve diğer gerekli işlemleri yapmak.\n f) Bölge kurulu kararlarının kesinleştirme işlemlerini yaparak bölge kurulu başkanının onayına sunmak.\n g) Mühür ve beratın muhafazasını sağlamak.\n ğ) Arşivin düzenli tutulmasını sağlamak.\n h) Memurun olmadığı ya da yetersiz kaldığı zamanlarda ona ait işleri yapmak ve yardımcı olmak.\n ı) Bilirkişi hakkında verilen disiplin cezalarına ilişkin kararların, bilirkişinin görev yaptığı kamu kurum ve kuruluşlarına, kamu kurumu niteliğindeki meslek kuruluşlarına ve ilgili diğer yerlere yazıyla bildirilmesini sağlamak.\n i) Bölge kurulunca 62 nci maddenin dördüncü fıkrası uyarınca verilen bilirkişilikten yasaklama kararlarının kesinleşmesini takiben bir hafta içinde ilan edilmek üzere Daire Başkanlığına bildirilmesini sağlamak.\n j) Sicil ve liste kayıtlarını oluşturmak.\n k) Doğru ve güvenilir adli istatistikler elde edilebilmesi amacıyla, veriyi sisteme doğru, eksiksiz ve zamanında girmek ve bu verinin usulüne uygun girildiğini denetlemek.\n l) Mevzuattan kaynaklanan veya bölge kurulu başkanı tarafından verilen diğer görevleri yerine getirmek.\n (3) Memurun görev ve sorumlulukları şunlardır:\n a) İş bölümüne göre kendisine verilen işleri biriktirmeden zamanında yapmak.\n b) Dosyaları ve evrakı zamanında kaydetmek ve düzenli bir şekilde muhafaza etmek.\n c) Müzekkere yazarak, takip ve tekit işlemlerini yapmak.\n ç) Bölge kurulu toplantılarında hazır bulunarak tutanağı yazmak ve imzalamak.\n d) Bölge kurulu kararlarının gereğini yapmak.\n e) Karar ve tutanakları bölge kurulu başkanı veya üyesinin bildirdiği şekilde dikkat ve itina ile yazarak imzalamak.\n f) Her türlü tebligat evrakını hazırlamak.\n g) İşi biten dosyaları arşive kaldırmak.\n ğ) Müzekkere ve tebligatların ilgili kurum ya da kişilere ulaşmasını sağlamak amacıyla posta ve zimmet işlemlerini yerine getirmek.\n h) Arşive götürülmesi veya arşivden çıkarılması gereken dosyalara ilişkin işlemleri yapmak ve arşivi düzenli tutmak.\n ı) Dosya incelenmesine nezaret etmek.\n i) Dizi pusulası düzenlemek.\n j) Sicil ile liste kayıtlarını oluşturmak.\n k) Doğru ve güvenilir adli istatistikler elde edilebilmesi amacıyla, veriyi sisteme doğru, eksiksiz ve zamanında girmek.\n l) Mevzuattan kaynaklanan veya bölge kurulu başkanı, üyesi veya yazı işleri müdürü tarafından verilen diğer görevleri yapmak.\n (4) Yazı işleri müdürü, yerine getirmekle yükümlü olduğu görevleri yazı işleri hizmetlerinde görevli memura devredemez.",
+      "preview": "(1) Yazı işleri hizmetleri bölge kurulu başkanının denetimi altında yazı işleri müdürü ile onun yönetimindeki memur ve diğer görevliler tara…",
+      "kitap": null,
+      "kisim": null,
+      "bolum": "SEKİZİNCİ BÖLÜM · Bölge Kurulu Yazı İşleri Hizmetleri",
+      "ayirim": null,
+      "maddeBaslik": "Yazı işleri hizmetlerinin yürütülmesi",
+      "sectionPath": [
+        "SEKİZİNCİ BÖLÜM · Bölge Kurulu Yazı İşleri Hizmetleri",
+        "Yazı işleri hizmetlerinin yürütülmesi"
+      ]
+    },
+    {
+      "id": "yonetmelik:23818:m:66",
+      "maddeKind": "madde",
+      "maddeNo": "66",
+      "heading": "Madde 66",
+      "text": "(1) Bölge kurulu yazı işleri müdürlüğünde aşağıdaki kayıt ve kartonlar tutulur:\n a) Başvuru kaydı.\n b) Bilgi edinme kaydı.\n c) Bilirkişi raporları arşiv kaydı.\n ç) Bölge kurulu gündem kaydı.\n d) Dava işleri kaydı.\n e) Denetim ve performans kaydı.\n f) Disiplin soruşturma kaydı.\n g) Duyuru ve ilan kaydı.\n ğ) Genelge ve görüş kaydı.\n h) İtiraz kaydı.\n ı) Karar kaydı.\n i) Muhabere kaydı.\n j) Posta mutemet kaydı.\n k) Teftiş kaydı.\n l) Zimmet kaydı.\n m) Bilirkişi listesi kartonu.\n n) Yıllık faaliyet raporu kartonu.\n o) Zimmet kartonu.\n ö) Daire Başkanlığı ve bölge kurulu başkanı tarafından uygun görülen diğer kayıt ve kartonlar.",
+      "preview": "(1) Bölge kurulu yazı işleri müdürlüğünde aşağıdaki kayıt ve kartonlar tutulur: a) Başvuru kaydı. b) Bilgi edinme kaydı. c) Bilirkişi raporl…",
+      "kitap": null,
+      "kisim": null,
+      "bolum": "SEKİZİNCİ BÖLÜM · Bölge Kurulu Yazı İşleri Hizmetleri",
+      "ayirim": null,
+      "maddeBaslik": "Tutulacak kayıt ve kartonlar",
+      "sectionPath": [
+        "SEKİZİNCİ BÖLÜM · Bölge Kurulu Yazı İşleri Hizmetleri",
+        "Tutulacak kayıt ve kartonlar"
+      ]
+    },
+    {
+      "id": "yonetmelik:23818:m:67",
+      "maddeKind": "madde",
+      "maddeNo": "67",
+      "heading": "Madde 67",
+      "text": "(1) Bölge kurulu tarafından bilirkişiliğe başvuruların tutulduğu kayıttır.\n (2) Bu kayıt; başvuran gerçek kişi ise adı ve soyadı, Türkiye Cumhuriyeti kimlik veya yabancı ise pasaport ya da yabancı kimlik numarası; tüzel kişi ise ticaret unvanı, MERSİS numarası ile başvuranın yerleşim yeri, iletişim bilgileri, mesleği, temel ve alt uzmanlık alanı, çalıştığı kurum veya kuruluşun adı, başvuru sonucu ve düşünceler sütunlarından oluşur.",
+      "preview": "(1) Bölge kurulu tarafından bilirkişiliğe başvuruların tutulduğu kayıttır. (2) Bu kayıt; başvuran gerçek kişi ise adı ve soyadı, Türkiye Cum…",
+      "kitap": null,
+      "kisim": null,
+      "bolum": "SEKİZİNCİ BÖLÜM · Bölge Kurulu Yazı İşleri Hizmetleri",
+      "ayirim": null,
+      "maddeBaslik": "Başvuru kaydı",
+      "sectionPath": [
+        "SEKİZİNCİ BÖLÜM · Bölge Kurulu Yazı İşleri Hizmetleri",
+        "Başvuru kaydı"
+      ]
+    },
+    {
+      "id": "yonetmelik:23818:m:68",
+      "maddeKind": "madde",
+      "maddeNo": "68",
+      "heading": "Madde 68",
+      "text": "(1) 9/10/2003 tarihli ve 4982 sayılı Bilgi Edinme Hakkı Kanunu gereğince yapılan bilgi edinme başvurularının tutulduğu kayıttır.\n (2) Bu kayıt; başvuranın kimlik ve iletişim bilgileri, talep tarihi, konusu ile cevap ve tarihi sütunlarından oluşur.",
+      "preview": "(1) 9/10/2003 tarihli ve 4982 sayılı Bilgi Edinme Hakkı Kanunu gereğince yapılan bilgi edinme başvurularının tutulduğu kayıttır. (2) Bu kayı…",
+      "kitap": null,
+      "kisim": null,
+      "bolum": "SEKİZİNCİ BÖLÜM · Bölge Kurulu Yazı İşleri Hizmetleri",
+      "ayirim": null,
+      "maddeBaslik": "Bilgi edinme kaydı",
+      "sectionPath": [
+        "SEKİZİNCİ BÖLÜM · Bölge Kurulu Yazı İşleri Hizmetleri",
+        "Bilgi edinme kaydı"
+      ]
+    },
+    {
+      "id": "yonetmelik:23818:m:69",
+      "maddeKind": "madde",
+      "maddeNo": "69",
+      "heading": "Madde 69",
+      "text": "(1) Bilirkişi raporlarının tutulduğu kayıttır.\n (2) Bu kayıtta aşağıdaki hususlar yer alır:\n a) İlgili başsavcılık, mahkeme veya daire adı ve dosya numarası.\n b) Raporu düzenleyen bilirkişinin adı ve soyadı ve sicil numarası ile ticaret unvanı.\n c) Kayıtlı bulunduğu bölge kurulu.\n ç) Raporun hükme esas alınıp alınmadığı.\n d) Raporun türü.\n e) Rapor tarihi.\n f) Raporun teslim süresi.\n (3) Bu kayıtta yer alan bilgiler bölge kurulu yazı işleri müdürü ve görevli personel tarafından girilir.\n (4) Arşiv kaydındaki bilgilere Daire Başkanlığı, bölge kurulları ile hâkim ve Cumhuriyet savcıları erişebilir.\n (5) Arşiv kaydındaki raporlarda yer alan taraf bilgileri ile diğer kişisel bilgilerin gizliliğinin sağlanmasına yönelik tedbirler ve bu bilgilerin Kişisel Verilerin Korunması Kanununda öngörülen veya işlendikleri amaç için gerekli olan muhafaza süresinin belirlenmesine yönelik kararlar Daire Başkanlığı ve bölge kurulları tarafından alınır.",
+      "preview": "(1) Bilirkişi raporlarının tutulduğu kayıttır. (2) Bu kayıtta aşağıdaki hususlar yer alır: a) İlgili başsavcılık, mahkeme veya daire adı ve…",
+      "kitap": null,
+      "kisim": null,
+      "bolum": "SEKİZİNCİ BÖLÜM · Bölge Kurulu Yazı İşleri Hizmetleri",
+      "ayirim": null,
+      "maddeBaslik": "Bilirkişi raporları arşiv kaydı",
+      "sectionPath": [
+        "SEKİZİNCİ BÖLÜM · Bölge Kurulu Yazı İşleri Hizmetleri",
+        "Bilirkişi raporları arşiv kaydı"
+      ]
+    },
+    {
+      "id": "yonetmelik:23818:m:70",
+      "maddeKind": "madde",
+      "maddeNo": "70",
+      "heading": "Madde 70",
+      "text": "(1) Bölge kurulu gündemine ilişkin bilgilerin tutulduğu kayıttır.\n (2) Bu kayıt; sıra numarası, gündemin dağıtıldığı tarih, konusu, görüşülme tarihi, sonucu ve ilgili kişi sütunlarından oluşur.",
+      "preview": "(1) Bölge kurulu gündemine ilişkin bilgilerin tutulduğu kayıttır. (2) Bu kayıt; sıra numarası, gündemin dağıtıldığı tarih, konusu, görüşülme…",
+      "kitap": null,
+      "kisim": null,
+      "bolum": "SEKİZİNCİ BÖLÜM · Bölge Kurulu Yazı İşleri Hizmetleri",
+      "ayirim": null,
+      "maddeBaslik": "Bölge kurulu gündem kaydı",
+      "sectionPath": [
+        "SEKİZİNCİ BÖLÜM · Bölge Kurulu Yazı İşleri Hizmetleri",
+        "Bölge kurulu gündem kaydı"
+      ]
+    },
+    {
+      "id": "yonetmelik:23818:m:71",
+      "maddeKind": "madde",
+      "maddeNo": "71",
+      "heading": "Madde 71",
+      "text": "(1) Bölge kurulunun itiraz üzerine verdiği kararlara karşı açılan davalara ilişkin bilgilerin tutulduğu kayıttır.\n (2) Bu kayıtta aşağıdaki hususlar yer alır:\n a) Davaya bakan mahkeme ve esas numarası.\n b) Davacı, davalı ve varsa vekilleri.\n c) Davanın konusu.\n ç) Davanın açıldığı tarih.\n d) Dava dilekçesinin tebliğ tarihi.\n e) Cevap dilekçesi tarihi.\n f) Varsa yürütmenin durdurulması istemi hakkında verilen karar ve tarihi.\n g) Karar tarihi ve numarası.\n ğ) İtiraz tarihi.\n h) İstinaf tarihi.\n ı) Temyiz tarihi.\n i) Kanun yolu sonucu.\n j) Kararın uygulama bilgileri.",
+      "preview": "(1) Bölge kurulunun itiraz üzerine verdiği kararlara karşı açılan davalara ilişkin bilgilerin tutulduğu kayıttır. (2) Bu kayıtta aşağıdaki h…",
+      "kitap": null,
+      "kisim": null,
+      "bolum": "SEKİZİNCİ BÖLÜM · Bölge Kurulu Yazı İşleri Hizmetleri",
+      "ayirim": null,
+      "maddeBaslik": "Dava işleri kaydı",
+      "sectionPath": [
+        "SEKİZİNCİ BÖLÜM · Bölge Kurulu Yazı İşleri Hizmetleri",
+        "Dava işleri kaydı"
+      ]
+    },
+    {
+      "id": "yonetmelik:23818:m:72",
+      "maddeKind": "madde",
+      "maddeNo": "72",
+      "heading": "Madde 72",
+      "text": "(1) Bilirkişiler hakkında bölge kurulu tarafından yapılacak denetim ve performans değerlendirmeleri ile sonuçlarının tutulduğu kayıttır.\n (2) Bu kayıtta aşağıdaki hususlar yer alır:\n a) Bilirkişiye dosyanın tevdi tarihi.\n b) Rapor için verilen süre.\n c) Rapor teslim tarihi.\n ç) Dosyanın bilirkişide kaldığı süre.\n d) Hukuki konularda görüş beyan etme.\n e) Raporu bizzat hazırlama.\n f) Rapor yazım tekniğine uyma.\n g) Raporun hükme esas alınması.\n ğ) Etik ilkelere uyma.\n h) Bilirkişi kusurundan kaynaklı ek rapor.\n ı) Yeni bilirkişi raporu.\n i) Bilirkişilik temel ve alt uzmanlık alanı dışında rapor tanzim etme.\n j) Bilirkişilik yapmaktan kaçınma.\n k) Raporu belirlenen süre içinde mazeretsiz olarak vermeme.\n l) Denetim ve performans sonucu.\n m) Düşünceler.\n (3) Bu kayıtta yer alan bilgilerden rapora ilişkin hususlar görevlendirmeyi yapan merci tarafından, diğer bilgiler bölge kurulu yazı işleri müdürü ve görevli personel tarafından girilir.\n (4) Denetim ve performansın değerlendirilmesine ilişkin bilgilere Daire Başkanlığı, bölge kurulları ile hâkim ve Cumhuriyet savcıları erişebilir.\n (5) Bilirkişilerin denetimine ve performansına ilişkin usul ve esaslar çıkarılacak genelgede düzenlenir.",
+      "preview": "(1) Bilirkişiler hakkında bölge kurulu tarafından yapılacak denetim ve performans değerlendirmeleri ile sonuçlarının tutulduğu kayıttır. (2)…",
+      "kitap": null,
+      "kisim": null,
+      "bolum": "SEKİZİNCİ BÖLÜM · Bölge Kurulu Yazı İşleri Hizmetleri",
+      "ayirim": null,
+      "maddeBaslik": "Denetim ve performans kaydı",
+      "sectionPath": [
+        "SEKİZİNCİ BÖLÜM · Bölge Kurulu Yazı İşleri Hizmetleri",
+        "Denetim ve performans kaydı"
+      ]
+    },
+    {
+      "id": "yonetmelik:23818:m:73",
+      "maddeKind": "madde",
+      "maddeNo": "73",
+      "heading": "Madde 73",
+      "text": "(1) Bilirkişiler hakkında idarî yönden yapılan soruşturma ve sonuçların tutulduğu kayıttır.\n (2) Bu kayıt; sıra numarası, başvuranın kimlik ve iletişim bilgileri, belgenin geliş tarihi, soruşturma açılan bilirkişinin adı, soyadı, uzmanlık alanı, çalıştığı kurum, ticaret unvanı, eylemin türü, disiplin soruşturmasına başlama tarihi, savunmanın istenildiği tarih, nihai karar sonucu ve tarihi ile verilen karara karşı idare mahkemesince verilen kararın sonucu sütunlarından oluşur.",
+      "preview": "(1) Bilirkişiler hakkında idarî yönden yapılan soruşturma ve sonuçların tutulduğu kayıttır. (2) Bu kayıt; sıra numarası, başvuranın kimlik v…",
+      "kitap": null,
+      "kisim": null,
+      "bolum": "SEKİZİNCİ BÖLÜM · Bölge Kurulu Yazı İşleri Hizmetleri",
+      "ayirim": null,
+      "maddeBaslik": "Disiplin soruşturma kaydı",
+      "sectionPath": [
+        "SEKİZİNCİ BÖLÜM · Bölge Kurulu Yazı İşleri Hizmetleri",
+        "Disiplin soruşturma kaydı"
+      ]
+    },
+    {
+      "id": "yonetmelik:23818:m:74",
+      "maddeKind": "madde",
+      "maddeNo": "74",
+      "heading": "Madde 74",
+      "text": "(1) Bakanlıklar, bölge kurulu ya da diğer kamu kurum veya kuruluşları tarafından çıkarılıp, teşkilâta duyurulmasına gerek görülen duyurular ile bilirkişilik başvuru ve sonuçları ile diğer hususlara ilişkin duyuruların tutulduğu kayıttır.\n (2) Bu kayıt; sıra numarası, duyurunun yayın tarihi, geçerlilik tarihi, konusu ve gönderen birim sütunlarından oluşur.",
+      "preview": "(1) Bakanlıklar, bölge kurulu ya da diğer kamu kurum veya kuruluşları tarafından çıkarılıp, teşkilâta duyurulmasına gerek görülen duyurular…",
+      "kitap": null,
+      "kisim": null,
+      "bolum": "SEKİZİNCİ BÖLÜM · Bölge Kurulu Yazı İşleri Hizmetleri",
+      "ayirim": null,
+      "maddeBaslik": "Duyuru ve ilan kaydı",
+      "sectionPath": [
+        "SEKİZİNCİ BÖLÜM · Bölge Kurulu Yazı İşleri Hizmetleri",
+        "Duyuru ve ilan kaydı"
+      ]
+    },
+    {
+      "id": "yonetmelik:23818:m:75",
+      "maddeKind": "madde",
+      "maddeNo": "75",
+      "heading": "Madde 75",
+      "text": "(1) Bakanlık tarafından çıkarılan genelge ve görüşlerin tutulduğu kayıttır.\n (2) Bu kayıt; genelge ve görüşlerin sıra numarası, tarihi, konusu ve çıkaran birim sütunlarından oluşur.",
+      "preview": "(1) Bakanlık tarafından çıkarılan genelge ve görüşlerin tutulduğu kayıttır. (2) Bu kayıt; genelge ve görüşlerin sıra numarası, tarihi, konus…",
+      "kitap": null,
+      "kisim": null,
+      "bolum": "SEKİZİNCİ BÖLÜM · Bölge Kurulu Yazı İşleri Hizmetleri",
+      "ayirim": null,
+      "maddeBaslik": "Genelge ve görüş kaydı",
+      "sectionPath": [
+        "SEKİZİNCİ BÖLÜM · Bölge Kurulu Yazı İşleri Hizmetleri",
+        "Genelge ve görüş kaydı"
+      ]
+    },
+    {
+      "id": "yonetmelik:23818:m:76",
+      "maddeKind": "madde",
+      "maddeNo": "76",
+      "heading": "Madde 76",
+      "text": "(1) Bölge kurulu kararlarına karşı, ilgililer tarafından yapılan itirazlara ilişkin bilgilerin işlendiği kayıttır.\n (2) Bu kayıtta aşağıdaki hususlar yer alır:\n a) Sıra numarası.\n b) İtiraz edenin adı ve soyadı ile Türkiye Cumhuriyeti kimlik numarası.\n c) Ticaret unvanı ve MERSİS numarası.\n ç) İtiraza konu karar sayısı ve tarihi.\n d) Başvurma tarihi.\n e) İtiraz karar tarihi ve sonucu.\n f) Düşünceler.",
+      "preview": "(1) Bölge kurulu kararlarına karşı, ilgililer tarafından yapılan itirazlara ilişkin bilgilerin işlendiği kayıttır. (2) Bu kayıtta aşağıdaki…",
+      "kitap": null,
+      "kisim": null,
+      "bolum": "SEKİZİNCİ BÖLÜM · Bölge Kurulu Yazı İşleri Hizmetleri",
+      "ayirim": null,
+      "maddeBaslik": "İtiraz kaydı",
+      "sectionPath": [
+        "SEKİZİNCİ BÖLÜM · Bölge Kurulu Yazı İşleri Hizmetleri",
+        "İtiraz kaydı"
+      ]
+    },
+    {
+      "id": "yonetmelik:23818:m:77",
+      "maddeKind": "madde",
+      "maddeNo": "77",
+      "heading": "Madde 77",
+      "text": "(1) Bölge kurulunca verilen kararların tarih sırasına göre tutulduğu kayıttır.\n (2) Bu kayıt; karar numarası, başvuru tarihi, kararın alındığı tarih, karar türü, ilgilinin adı ve soyadı veya ticaret unvanı ve karar sonucu sütunlarından oluşur.",
+      "preview": "(1) Bölge kurulunca verilen kararların tarih sırasına göre tutulduğu kayıttır. (2) Bu kayıt; karar numarası, başvuru tarihi, kararın alındığ…",
+      "kitap": null,
+      "kisim": null,
+      "bolum": "SEKİZİNCİ BÖLÜM · Bölge Kurulu Yazı İşleri Hizmetleri",
+      "ayirim": null,
+      "maddeBaslik": "Karar kaydı",
+      "sectionPath": [
+        "SEKİZİNCİ BÖLÜM · Bölge Kurulu Yazı İşleri Hizmetleri",
+        "Karar kaydı"
+      ]
+    },
+    {
+      "id": "yonetmelik:23818:m:78",
+      "maddeKind": "madde",
+      "maddeNo": "78",
+      "heading": "Madde 78",
+      "text": "(1) Diğer kayıtlarda tutulması gerekmeyen her türlü yazışmaların tutulduğu kayıttır.\n (2) Muhabereye gelen cevap ayrı bir kayıt işlemine tâbi tutulmaz, sadece kayıtta aldığı numaranın karşısına geldiği işaret olunur.\n (3) Bu kayıt; sıra numarası, evrakın tarihi, numarası, gönderilen veya gönderen Cumhuriyet başsavcılığı, mahkeme, daire, Yargıtay, Danıştay ya da kurumun adı, geliş veya gönderilme tarihi, evrakın özeti ile düşünceler sütunlarından oluşur.",
+      "preview": "(1) Diğer kayıtlarda tutulması gerekmeyen her türlü yazışmaların tutulduğu kayıttır. (2) Muhabereye gelen cevap ayrı bir kayıt işlemine tâbi…",
+      "kitap": null,
+      "kisim": null,
+      "bolum": "SEKİZİNCİ BÖLÜM · Bölge Kurulu Yazı İşleri Hizmetleri",
+      "ayirim": null,
+      "maddeBaslik": "Muhabere kaydı",
+      "sectionPath": [
+        "SEKİZİNCİ BÖLÜM · Bölge Kurulu Yazı İşleri Hizmetleri",
+        "Muhabere kaydı"
+      ]
+    },
+    {
+      "id": "yonetmelik:23818:m:79",
+      "maddeKind": "madde",
+      "maddeNo": "79",
+      "heading": "Madde 79",
+      "text": "(1) Postayla gelen havale veya kayıtlı gönderilerin işlendiği kayıttır.\n (2) Bu kayıt; havalenin çıkış yeri, numarası, tarihi, cinsi, miktarı, gönderenin adı ve soyadı, dosya numarası, posta görevlisinin adı ve soyadı, imza ve mührü, kasa kayıt tarihi ve numarası, tahsilât makbuzunun tarihi ve numarası sütunlarından oluşur.\n (3) Mutemetlerce PTT’den gelen havale ve kayıtlı gönderi alındığında, PTT personelinin imza ve mührü hanesine kadar olan sütunlar, mutemet tarafından doldurulduktan sonra ilgili PTT personeli tarafından imzalanır ve mühürlenir. Daireye gelinir gelinmez, tahsilât makbuzu kesilerek kasa ve ilgili kayda işlenir. Gerek makbuz, gerek kayıtlardaki tarih ve numaralar da son iki sütuna işlenir.\n (4) Bölge kurulu başkanı PTT işyerinden havale ve kayıtlı gönderileri almaya yetkili mutemetlerin adı ve soyadı, memuriyet sıfatı ve tatbiki imzaları ile bunlardan başkasına ödeme ve teslimat yapılmamasını o yer PTT müdürlüklerine bir yazı ile bildirir.\n (5) Banka havaleleri hakkında da yukarıdaki fıkralar uygulanır.\n (6) Elektronik ortamda tutulan kaydın çıktısı alınır, ilgili sütun imzalatıldıktan sonra ayrı bir kartonda saklanır.",
+      "preview": "(1) Postayla gelen havale veya kayıtlı gönderilerin işlendiği kayıttır. (2) Bu kayıt; havalenin çıkış yeri, numarası, tarihi, cinsi, miktarı…",
+      "kitap": null,
+      "kisim": null,
+      "bolum": "SEKİZİNCİ BÖLÜM · Bölge Kurulu Yazı İşleri Hizmetleri",
+      "ayirim": null,
+      "maddeBaslik": "Posta mutemet kaydı",
+      "sectionPath": [
+        "SEKİZİNCİ BÖLÜM · Bölge Kurulu Yazı İşleri Hizmetleri",
+        "Posta mutemet kaydı"
+      ]
+    },
+    {
+      "id": "yonetmelik:23818:m:80",
+      "maddeKind": "madde",
+      "maddeNo": "80",
+      "heading": "Madde 80",
+      "text": "(1) Adalet müfettişleri tarafından bölge kurulunun işlemlerine ilişkin yapılan teftişte tespit edilmiş olan aksaklıklara ve bunların düzeltilmesine ilişkin öneriler listesinin tutulduğu kayıttır.\n (2) Bu kayıt; denetimin yapıldığı tarihi, denetim yapan adalet müfettişlerinin ad ve soyadları ile öneriler sütunlarından oluşur.",
+      "preview": "(1) Adalet müfettişleri tarafından bölge kurulunun işlemlerine ilişkin yapılan teftişte tespit edilmiş olan aksaklıklara ve bunların düzelti…",
+      "kitap": null,
+      "kisim": null,
+      "bolum": "SEKİZİNCİ BÖLÜM · Bölge Kurulu Yazı İşleri Hizmetleri",
+      "ayirim": null,
+      "maddeBaslik": "Teftiş kaydı",
+      "sectionPath": [
+        "SEKİZİNCİ BÖLÜM · Bölge Kurulu Yazı İşleri Hizmetleri",
+        "Teftiş kaydı"
+      ]
+    },
+    {
+      "id": "yonetmelik:23818:m:81",
+      "maddeKind": "madde",
+      "maddeNo": "81",
+      "heading": "Madde 81",
+      "text": "(1) Bölge kurulundan dış birimlere zorunlu nedenlerle fizikî olarak gönderilen evrak bilgilerinin tutulduğu kayıttır.\n (2) Bu kayıt; sıra numarası, evrak numarası, gönderildiği merci, alındığı tarih, evrakı alanın adı ve soyadı, görevi ve imzası ile düşünceler sütunlarından oluşur.\n (3) Elektronik ortamda tutulan kaydın çıktısı alınır, ilgili sütun imzalatıldıktan sonra ayrı bir kartonda saklanır.",
+      "preview": "(1) Bölge kurulundan dış birimlere zorunlu nedenlerle fizikî olarak gönderilen evrak bilgilerinin tutulduğu kayıttır. (2) Bu kayıt; sıra num…",
+      "kitap": null,
+      "kisim": null,
+      "bolum": "SEKİZİNCİ BÖLÜM · Bölge Kurulu Yazı İşleri Hizmetleri",
+      "ayirim": null,
+      "maddeBaslik": "Zimmet kaydı",
+      "sectionPath": [
+        "SEKİZİNCİ BÖLÜM · Bölge Kurulu Yazı İşleri Hizmetleri",
+        "Zimmet kaydı"
+      ]
+    },
+    {
+      "id": "yonetmelik:23818:m:82",
+      "maddeKind": "madde",
+      "maddeNo": "82",
+      "heading": "Madde 82",
+      "text": "(1) Bölge kurulu tarafından oluşturulan bilirkişi listelerinin saklandığı kartondur.",
+      "preview": "(1) Bölge kurulu tarafından oluşturulan bilirkişi listelerinin saklandığı kartondur.",
+      "kitap": null,
+      "kisim": null,
+      "bolum": "SEKİZİNCİ BÖLÜM · Bölge Kurulu Yazı İşleri Hizmetleri",
+      "ayirim": null,
+      "maddeBaslik": "Bilirkişi listesi kartonu",
+      "sectionPath": [
+        "SEKİZİNCİ BÖLÜM · Bölge Kurulu Yazı İşleri Hizmetleri",
+        "Bilirkişi listesi kartonu"
+      ]
+    },
+    {
+      "id": "yonetmelik:23818:m:83",
+      "maddeKind": "madde",
+      "maddeNo": "83",
+      "heading": "Madde 83",
+      "text": "(1) Bölge kurulu başkanı tarafından her yıl için hazırlanan yıllık faaliyet raporlarının tutulduğu kartondur.",
+      "preview": "(1) Bölge kurulu başkanı tarafından her yıl için hazırlanan yıllık faaliyet raporlarının tutulduğu kartondur.",
+      "kitap": null,
+      "kisim": null,
+      "bolum": "SEKİZİNCİ BÖLÜM · Bölge Kurulu Yazı İşleri Hizmetleri",
+      "ayirim": null,
+      "maddeBaslik": "Yıllık faaliyet raporu kartonu",
+      "sectionPath": [
+        "SEKİZİNCİ BÖLÜM · Bölge Kurulu Yazı İşleri Hizmetleri",
+        "Yıllık faaliyet raporu kartonu"
+      ]
+    },
+    {
+      "id": "yonetmelik:23818:m:84",
+      "maddeKind": "madde",
+      "maddeNo": "84",
+      "heading": "Madde 84",
+      "text": "(1) Bölge kurulu tarafından UYAP üzerinden gönderilemeyen veya fizikî olarak gönderilmesi gereken evrakın teslimine ilişkin belgelerin konulduğu ve saklandığı kartondur.",
+      "preview": "(1) Bölge kurulu tarafından UYAP üzerinden gönderilemeyen veya fizikî olarak gönderilmesi gereken evrakın teslimine ilişkin belgelerin konul…",
+      "kitap": null,
+      "kisim": null,
+      "bolum": "SEKİZİNCİ BÖLÜM · Bölge Kurulu Yazı İşleri Hizmetleri",
+      "ayirim": null,
+      "maddeBaslik": "Zimmet kartonu",
+      "sectionPath": [
+        "SEKİZİNCİ BÖLÜM · Bölge Kurulu Yazı İşleri Hizmetleri",
+        "Zimmet kartonu"
+      ]
+    },
+    {
+      "id": "yonetmelik:23818:m:85",
+      "maddeKind": "madde",
+      "maddeNo": "85",
+      "heading": "Madde 85",
+      "text": "(1) İş süreçlerindeki her türlü veri, bilgi ve belge akışı ile dokümantasyon işlemleri, bu işlemlere ilişkin her türlü kayıt, dosyalama, saklama ve arşivleme işlemleri ile uyum ve işbirliği sağlanmış dış birimlerle yapılacak her türlü işlemler UYAP ortamında gerçekleştirilir.\n (2) UYAP kullanıcıları iş listesini günlük olarak kontrol etmek, işlemlerin gereğini yerine getirmek, ihtiyaç duyulan alanlarda veri ve bilgilerin derlenmesi, değerlendirilmesi ile gerekli adlî istatistiklerin üretilmesine esas bilgileri güvenilirlik, tutarlılık ve güncellik ilkelerine uygun olarak UYAP ortamına doğru, eksiksiz ve zamanında girmekle yükümlüdür.\n (3) Fizikî olarak verilen ve gönderilen her türlü evrak, elektronik ortama aktarılarak UYAP’a kaydedilir ve ilgili birime gönderilir.\n (4) İhtiyaç duyulan nüfus, tapu, adlî sicil kaydı gibi dış bilişim sistemlerinden UYAP vasıtasıyla temin edilen bilgi, belge ve kayıtlar, zorunlu olmadıkça ayrıca fizikî olarak istenilmez. UYAP’tan dış bilişim sistemlerine gönderilen bilgi ve belgeler zorunlu olmadıkça ayrıca fizikî ortamda gönderilmez.\n (5) İlgililer güvenli elektronik imza ile imzalamak suretiyle UYAP vasıtasıyla birimlere elektronik ortamda bilgi ve belge gönderebilirler.\n (6) Gelen evraktan sorumlu personel, UYAP üzerinden birimlere gönderilen ve iş listesine düşen belgeleri derhâl ilgili kişiye ya da doğrudan dosyasına aktarır. Onay gerektiren evrak ilgilinin iş listesine yönlendirilir.\n (7) Tutanak, belge ve kararlar elektronik ortamda düzenlenir ve gerekli olanlar ilgilileri tarafından güvenli elektronik imza ile imzalanır. Elektronik ortamda düzenlenen ve güvenli elektronik imza ile imzalanan evrak UYAP kapsamındaki birimlere elektronik ortamda gönderilir. Ayrıca fizikî olarak gönderilmez.\n (8) Teknik nedenlerle fizikî olarak düzenlenen belge veya kararlar, engelin ortadan kalkmasından sonra derhâl elektronik ortama aktarılır, yetkili kişilerce güvenli elektronik imza ile imzalanarak UYAP'a kaydedilir ve gerektiğinde UYAP vasıtasıyla ilgili birimlere iletilir. Bu şekilde elektronik ortama aktarılarak ilgili birimlere iletilen belge ve kararların asılları mahallinde saklanır, ayrıca fizikî olarak gönderilmez. Ancak, belge veya karar aslının incelenmesinin zorunlu olduğu hâller saklıdır. Elektronik ortama aktarılması imkânsız olan belgeler ise fizikî ortamda saklanır ve gerektiğinde fizikî olarak gönderilir.\n (9) UYAP üzerinde hazırlanmış ve güvenli elektronik imza ile imzalanmış evrakın dış birimlere elektronik ortamda gönderilememesi hâlinde belge veya kararın fizikî örneği alınır, güvenli elektronik imza ile imzalanmış aslının aynı olduğu belirtilerek ilgilisi tarafından imzalanmak sureti ile gönderilir.\n (10) Elektronik ortamda yapılan işlemlerde süre gün sonunda biter. Elektronik ortamda yapılacak işlemlerin, ertesi güne sarkmaması açısından saat 00.00’a kadar yapılması zorunludur.\n (11) Güvenli elektronik imzalı belgenin elle atılan imzalı belgeyle çelişmesi hâlinde UYAP’ta kayıtlı olan güvenli elektronik imzalı belge geçerli kabul edilir.\n (12) Kanunlarda gösterilen istisnalar hariç olmak üzere, dosyalar güvenli elektronik imza kullanılarak UYAP’ta incelenebilir ve her türlü muhakeme işlemi yapılabilir.\n (13) Güvenli elektronik imza ile imzalanan belge ve kararlarda, mühürleme işlemi ile kanunlarda birden fazla nüshanın düzenlenmesini öngören hükümler uygulanmaz.\n (14) Fizikî ortamda yapılan işlemlerde süre mesai saati sonunda biter.\n (15) Kayıtların düzgün ve sağlıklı bir şekilde tutulmasından memur ve diğer görevliler ile müdür birlikte sorumludur.",
+      "preview": "(1) İş süreçlerindeki her türlü veri, bilgi ve belge akışı ile dokümantasyon işlemleri, bu işlemlere ilişkin her türlü kayıt, dosyalama, sak…",
+      "kitap": null,
+      "kisim": null,
+      "bolum": "DOKUZUNCU BÖLÜM · Çeşitli ve Son Hükümler",
+      "ayirim": null,
+      "maddeBaslik": "UYAP’ın kullanılması",
+      "sectionPath": [
+        "DOKUZUNCU BÖLÜM · Çeşitli ve Son Hükümler",
+        "UYAP’ın kullanılması"
+      ]
+    },
+    {
+      "id": "yonetmelik:23818:m:86",
+      "maddeKind": "madde",
+      "maddeNo": "86",
+      "heading": "Madde 86",
+      "text": "(1) Bilişim sistemleri ve yazılımlar Adalet Bakanlığı Bilgi İşlem Dairesi Başkanlığınca gerektiğinde ilgili kurum ve kuruluşlarla işbirliği yapılarak hazırlanır ve yetkili mercilerin kullanımına sunulur.",
+      "preview": "(1) Bilişim sistemleri ve yazılımlar Adalet Bakanlığı Bilgi İşlem Dairesi Başkanlığınca gerektiğinde ilgili kurum ve kuruluşlarla işbirliği…",
+      "kitap": null,
+      "kisim": null,
+      "bolum": "DOKUZUNCU BÖLÜM · Çeşitli ve Son Hükümler",
+      "ayirim": null,
+      "maddeBaslik": "UYAP'a entegre bilişim sistemleri ve yazılımlar",
+      "sectionPath": [
+        "DOKUZUNCU BÖLÜM · Çeşitli ve Son Hükümler",
+        "UYAP'a entegre bilişim sistemleri ve yazılımlar"
+      ]
+    },
+    {
+      "id": "yonetmelik:23818:m:87",
+      "maddeKind": "madde",
+      "maddeNo": "87",
+      "heading": "Madde 87",
+      "text": "(1) Danışma Kurulu üyelerine, her toplantı için (2250) gösterge rakamının memur aylık katsayısıyla çarpımı sonucunda bulunan tutarda huzur hakkı veya huzur ücreti ödenir.\n (2) Bölge kurulu üyelerine, ayda dört toplantıyı geçmemek üzere her toplantı için (2250) gösterge rakamının memur aylık katsayısıyla çarpımı sonucunda bulunan tutarda huzur hakkı ödenir.\n (3) Kurulan bilim komisyonu üyelerinden, öğretim elemanları ile uhdesinde kamu görevi bulunmayanlara ayda dördü geçmemek üzere fiilen görev yapılan her gün için (2250) gösterge rakamının memur aylık katsayısıyla çarpımı sonucunda bulunacak tutarda huzur hakkı veya huzur ücreti ödenir.\n (4) Bakanlık, Danışma Kurulu, bölge kurulu ve bilim komisyonu toplantılarına başka bir mahalden gelerek katılan üyelerin gündelik, yol gideri, konaklama ve diğer zorunlu giderleri, 10/2/1954 tarihli ve 6245 sayılı Harcırah Kanunu hükümlerine göre ödenir.\n (5) Kurulların ve bilim komisyonunun ihtiyaçlarına yönelik harcamalar ile ödenecek huzur hakları ve huzur ücretleri Bakanlık bütçesinden karşılanır.",
+      "preview": "(1) Danışma Kurulu üyelerine, her toplantı için (2250) gösterge rakamının memur aylık katsayısıyla çarpımı sonucunda bulunan tutarda huzur h…",
+      "kitap": null,
+      "kisim": null,
+      "bolum": "DOKUZUNCU BÖLÜM · Çeşitli ve Son Hükümler",
+      "ayirim": null,
+      "maddeBaslik": "Huzur hakkı ve kurulların ihtiyaçlarının karşılanması",
+      "sectionPath": [
+        "DOKUZUNCU BÖLÜM · Çeşitli ve Son Hükümler",
+        "Huzur hakkı ve kurulların ihtiyaçlarının karşılanması"
+      ]
+    },
+    {
+      "id": "yonetmelik:23818:m:88",
+      "maddeKind": "madde",
+      "maddeNo": "88",
+      "heading": "Madde 88",
+      "text": "(1)Bölge kurulları ile yazı işleri müdürlüklerinin fizikî ve teknik ihtiyaçları, kurulu bulunduğu yerdeki bölge adliye mahkemesi adalet komisyonu tarafından karşılanır.",
+      "preview": "(1)Bölge kurulları ile yazı işleri müdürlüklerinin fizikî ve teknik ihtiyaçları, kurulu bulunduğu yerdeki bölge adliye mahkemesi adalet komi…",
+      "kitap": null,
+      "kisim": null,
+      "bolum": "DOKUZUNCU BÖLÜM · Çeşitli ve Son Hükümler",
+      "ayirim": null,
+      "maddeBaslik": "Bölge kurullarının fizikî ve teknik ihtiyaçlarının karşılanması",
+      "sectionPath": [
+        "DOKUZUNCU BÖLÜM · Çeşitli ve Son Hükümler",
+        "Bölge kurullarının fizikî ve teknik ihtiyaçlarının karşılanması"
+      ]
+    },
+    {
+      "id": "yonetmelik:23818:m:89",
+      "maddeKind": "madde",
+      "maddeNo": "89",
+      "heading": "Madde 89",
+      "text": "(1) 8/4/2012 tarihli ve 28258 sayılı Resmî Gazete’de yayımlanan Bölge Adliye Mahkemesi Adli Yargı Adalet Komisyonlarınca Bilirkişi Listelerinin Düzenlenmesi Hakkında Yönetmelik ile 1/6/2005 tarihli ve 25832 sayılı Resmî Gazete’de yayımlanan Ceza Muhakemesi Kanununa Göre İl Adli Yargı Adalet Komisyonlarınca Bilirkişi Listelerinin Düzenlenmesi Hakkında Yönetmelik yürürlükten kaldırılmıştır.",
+      "preview": "(1) 8/4/2012 tarihli ve 28258 sayılı Resmî Gazete’de yayımlanan Bölge Adliye Mahkemesi Adli Yargı Adalet Komisyonlarınca Bilirkişi Listeleri…",
+      "kitap": null,
+      "kisim": null,
+      "bolum": "DOKUZUNCU BÖLÜM · Çeşitli ve Son Hükümler",
+      "ayirim": null,
+      "maddeBaslik": "Yürürlükten kaldırılan yönetmelikler",
+      "sectionPath": [
+        "DOKUZUNCU BÖLÜM · Çeşitli ve Son Hükümler",
+        "Yürürlükten kaldırılan yönetmelikler"
+      ]
+    },
+    {
+      "id": "yonetmelik:23818:m:90",
+      "maddeKind": "madde",
+      "maddeNo": "90",
+      "heading": "Madde 90",
+      "text": "(1) Bu Yönetmelik yayımı tarihinde yürürlüğe girer.",
+      "preview": "(1) Bu Yönetmelik yayımı tarihinde yürürlüğe girer.",
+      "kitap": null,
+      "kisim": null,
+      "bolum": "DOKUZUNCU BÖLÜM · Çeşitli ve Son Hükümler",
+      "ayirim": null,
+      "maddeBaslik": "Yürürlük",
+      "sectionPath": [
+        "DOKUZUNCU BÖLÜM · Çeşitli ve Son Hükümler",
+        "Yürürlük"
+      ]
+    },
+    {
+      "id": "yonetmelik:23818:m:91",
+      "maddeKind": "madde",
+      "maddeNo": "91",
+      "heading": "Madde 91",
+      "text": "(1) Bu Yönetmelik hükümlerini Adalet Bakanı yürütür.\n\n Yönetmeliğin Yayımlandığı Resmî Gazete’nin\n\n Tarihi\n Sayısı\n\n 3/8/2017\n 30143\n\n Yönetmelikte Değişiklik Yapan Yönetmeliklerin Yayımlandığı Resmî Gazetelerin\n\n Tarihi\n Sayısı\n\n 1.\n 3/5/2025\n 32889\n\n 2.\n 30/7/2025\n 32971",
+      "preview": "(1) Bu Yönetmelik hükümlerini Adalet Bakanı yürütür. Yönetmeliğin Yayımlandığı Resmî Gazete’nin Tarihi Sayısı 3/8/2017 30143 Yönetmelikte De…",
+      "kitap": null,
+      "kisim": null,
+      "bolum": "DOKUZUNCU BÖLÜM · Çeşitli ve Son Hükümler",
+      "ayirim": null,
+      "maddeBaslik": "Yürütme",
+      "sectionPath": [
+        "DOKUZUNCU BÖLÜM · Çeşitli ve Son Hükümler",
+        "Yürütme"
+      ]
+    }
+  ]
+}

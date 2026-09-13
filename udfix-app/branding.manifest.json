@@ -1,0 +1,15 @@
+{
+  "appIconPng": "udfix-app-icon.png",
+  "faviconSvg": "1-d_icon.svg",
+  "aboutLogoSvg": "10-l_logo.svg",
+  "railLogosByTheme": {
+    "gavel": { "light": "10-l_logo.svg", "dark": "7-d_logo.svg" },
+    "barrister": { "light": "11-l_logo.svg", "dark": "8-d_logo.svg" },
+    "notary": { "light": "11-l_logo.svg", "dark": "8-d_logo.svg" },
+    "oxford": { "light": "11-l_logo.svg", "dark": "8-d_logo.svg" },
+    "slate": { "light": "10-l_logo.svg", "dark": "8-d_logo.svg" },
+    "verdict": { "light": "12-l_logo.svg", "dark": "9-d_logo.svg" },
+    "chancellor": { "light": "11-l_logo.svg", "dark": "8-d_logo.svg" },
+    "contrast": { "light": "10-l_logo.svg", "dark": "7-d_logo.svg" }
+  }
+}

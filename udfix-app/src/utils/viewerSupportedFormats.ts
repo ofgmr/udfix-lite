@@ -1,0 +1,57 @@
+import { resolveViewerExtension } from './viewerExtension';
+
+/** Extensions handled by `UniversalViewer` (excluding nested archive routing). */
+export const UNIVERSAL_VIEWER_EXTENSIONS = new Set([
+    'pdf',
+    'jpg',
+    'jpeg',
+    'png',
+    'webp',
+    'gif',
+    'bmp',
+    'svg',
+    'tiff',
+    'tif',
+    'udf',
+    'md',
+    'markdown',
+    'docx',
+    'doc',
+    'odt',
+    'rtf',
+    'xlsx',
+    'xls',
+    'csv',
+    'txt',
+    'text',
+    'log',
+    'json',
+    'xml',
+    'yaml',
+    'yml',
+    'toml',
+    'ini',
+    'env',
+    'sh',
+    'ts',
+    'tsx',
+    'js',
+    'jsx',
+    'css',
+    'html',
+    'py',
+    'java',
+    'c',
+    'cpp',
+    'rs',
+    'eml',
+    'msg',
+    'zip',
+    'jar',
+    'eyp',
+]);
+
+export function isUniversalViewerSupported(fileName: string): boolean {
+    const extension = resolveViewerExtension(fileName);
+    return UNIVERSAL_VIEWER_EXTENSIONS.has(extension);
+}

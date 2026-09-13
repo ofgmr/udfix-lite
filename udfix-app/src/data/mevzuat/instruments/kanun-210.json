@@ -1,0 +1,192 @@
+{
+  "id": "kanun:210",
+  "kind": "kanun",
+  "no": "210",
+  "title": "Değerli Kağıtlar Kanunu",
+  "shortName": "Değerli Kağıtlar Kanunu",
+  "aliases": [
+    "Değerli Kağıtlar Kanunu",
+    "210"
+  ],
+  "tur": 1,
+  "tertip": 5,
+  "sourceUrl": "https://www.mevzuat.gov.tr/mevzuat?MevzuatNo=210&MevzuatTur=1&MevzuatTertip=5",
+  "kabulTarihi": "21/2/1963",
+  "maddeCount": 11,
+  "maddeler": [
+    {
+      "id": "kanun:210:m:1",
+      "maddeKind": "madde",
+      "maddeNo": "1",
+      "heading": "Madde 1",
+      "text": "(Değişik: 21/11/1980 - 2343/1 md.)\n Bu Kanuna bağlı tabloda yazılı kağıtlar ve belgeler ile elektronik imza kullanılmak suretiyle manyetik ortamda ve elektronik veri şeklinde oluşturulan noter belgeleri \"değerli kağıt\" sayılır.[1]\n Bu Kanunun kapsamına giren veya diğer kanunlarla kapsama alınacak olan değerli kağıtların basımı, dağıtımı ve bedellerinin tahsili ile ilgili usul ve esasları ve bu kağıtların bedellerini tespite Maliye Bakanlığı yetkilidir.",
+      "preview": "(Değişik: 21/11/1980 - 2343/1 md.) Bu Kanuna bağlı tabloda yazılı kağıtlar ve belgeler ile elektronik imza kullanılmak suretiyle manyetik or…",
+      "kitap": null,
+      "kisim": null,
+      "bolum": null,
+      "ayirim": null,
+      "maddeBaslik": null,
+      "sectionPath": []
+    },
+    {
+      "id": "kanun:210:m:2",
+      "maddeKind": "madde",
+      "maddeNo": "2",
+      "heading": "Madde 2",
+      "text": "(Değişik: 30/12/2004-5281/12 md.)\n Değerli kâğıtların ilgili bulundukları işlemlerde kullanılması mecburidir.",
+      "preview": "(Değişik: 30/12/2004-5281/12 md.) Değerli kâğıtların ilgili bulundukları işlemlerde kullanılması mecburidir.",
+      "kitap": null,
+      "kisim": null,
+      "bolum": null,
+      "ayirim": null,
+      "maddeBaslik": "Kullanma mecburiyeti:",
+      "sectionPath": [
+        "Kullanma mecburiyeti:"
+      ]
+    },
+    {
+      "id": "kanun:210:m:3",
+      "maddeKind": "madde",
+      "maddeNo": "3",
+      "heading": "Madde 3",
+      "text": "Değerli kağıtlar, ilgili bakanlık ve dairelerin mütalaası alınmak suretiyle Maliye Bakanlığınca hazırlanır ve bastırılır.\n (Değişik ikinci fıkra: 28/11/2017-7061/27 md.) Bu kâğıtların, Maliye Bakanlığının muvafakati ile ilgili bakanlık, daireler veya kamu kurumu niteliğindeki meslek kuruluşları tarafından hazırlanıp bastırılması veya elektronik belge olarak düzenlenmesi mümkündür.\n Değerli kağıtlar malsandıklarınca veya Maliye Bakanlığınca tayin edilecek yerlerde satılır.\n (Ek: 26/11/1999-4481/12 md.) Çekler ilgili bankalarca bastırılır ve satılır. Satılan çeklerin (genel ve katma bütçeli idareler, il özel idareleri ve belediyelere verilen çekler hariç) değerli kâğıt bedelleri, bankalarca her ayın yedinci günü akşamına kadar ilgili mal sandıklarına ödenir.",
+      "preview": "Değerli kağıtlar, ilgili bakanlık ve dairelerin mütalaası alınmak suretiyle Maliye Bakanlığınca hazırlanır ve bastırılır. (Değişik ikinci fı…",
+      "kitap": null,
+      "kisim": null,
+      "bolum": null,
+      "ayirim": null,
+      "maddeBaslik": "Değerli kağıtların hazırlanması ve satılması:",
+      "sectionPath": [
+        "Değerli kağıtların hazırlanması ve satılması:"
+      ]
+    },
+    {
+      "id": "kanun:210:m:4",
+      "maddeKind": "madde",
+      "maddeNo": "4",
+      "heading": "Madde 4",
+      "text": "Değerli kağıtlar ilgililere, bu kanuna bağlı tabloda gösterilen bedeller karşılığında satılır.",
+      "preview": "Değerli kağıtlar ilgililere, bu kanuna bağlı tabloda gösterilen bedeller karşılığında satılır.",
+      "kitap": null,
+      "kisim": null,
+      "bolum": null,
+      "ayirim": null,
+      "maddeBaslik": "Değerli kağıtların bedeli:",
+      "sectionPath": [
+        "Değerli kağıtların bedeli:"
+      ]
+    },
+    {
+      "id": "kanun:210:m:5",
+      "maddeKind": "madde",
+      "maddeNo": "5",
+      "heading": "Madde 5",
+      "text": "(Değişik: 30/12/2004-5281/13 md.)\n Bu Kanunda yazılı noter kâğıtları yerine adi kâğıt kullanılması halinde, bu evraka ait değerli kağıt bedeli noterlerce tahsil edilir.\n Bu mecburiyete uymayan noterlerden birinci fıkraya göre tahsil edilecek bedelin üç katı tutarında ceza alınır.",
+      "preview": "(Değişik: 30/12/2004-5281/13 md.) Bu Kanunda yazılı noter kâğıtları yerine adi kâğıt kullanılması halinde, bu evraka ait değerli kağıt bedel…",
+      "kitap": null,
+      "kisim": null,
+      "bolum": null,
+      "ayirim": null,
+      "maddeBaslik": "Değerli kağıt yerine adi kağıt kullanılması:",
+      "sectionPath": [
+        "Değerli kağıt yerine adi kağıt kullanılması:"
+      ]
+    },
+    {
+      "id": "kanun:210:m:6",
+      "maddeKind": "madde",
+      "maddeNo": "6",
+      "heading": "Madde 6",
+      "text": "Aşağıda yazılı kanunlar ve kanun hükümleri yürürlükten kaldırılmıştır:\n 1. 28/5/1934 tarihli ve 2459 sayılı Tayyere Resmi hakkındaki Kanunun 5 inci maddesi,\n 2. 22/6/1938 tarihli ve 3478 sayılı kanunun 25 inci maddesinin kira kontratları, noter evrakı ve ferağ ve intikal ilmühaberleri ile ilgili fıkraları,\n 3. 11/4/1938 tarihli ve 3356 sayılı kanun,\n 4. 2/4/1958 tarihli ve 7109 sayılı kanun,\n 5. 12/4/1927 tarihli ve 1025 sayılı kanun,\n 6. 5/7/1939 tarihli ve 3686 sayılı kanunun 2 nci maddesi,\n 7. 26/5/1926 tarihli ve 859 sayılı kanunun 9 uncu maddesinin son fıkrası,\n 8. 29/6/1938 tarihli ve 3529 sayılı kanunun 5 inci maddesi ile 7 nci maddesinin son fıkrası,\n 9. 21/7/1953 tarihli ve 6183 sayılı kanunun 45 inci maddesinin 2 nci fıkrası,\n 10. 2/5/1949 tarihli ve 5383 sayılı kanunun 153 üncü maddesinin 2 nci fıkrası.",
+      "preview": "Aşağıda yazılı kanunlar ve kanun hükümleri yürürlükten kaldırılmıştır: 1. 28/5/1934 tarihli ve 2459 sayılı Tayyere Resmi hakkındaki Kanunun…",
+      "kitap": null,
+      "kisim": null,
+      "bolum": null,
+      "ayirim": null,
+      "maddeBaslik": "Kaldırılan hükümler:",
+      "sectionPath": [
+        "Kaldırılan hükümler:"
+      ]
+    },
+    {
+      "id": "kanun:210:m:gecici:1",
+      "maddeKind": "gecici",
+      "maddeNo": "1",
+      "heading": "Geçici Madde 1",
+      "text": "Bu kanunun yürürlüğe girdiği tarihten evvel satılıp da kullanılmayan değerli kağıtların eski ve yeni bedelleri arasındaki fark ilgililer tarafından tamamlattırılır. Değerli kağıtlar arasından çıkarılanlardan kullanılmamış bulunanların bedelleri geri verilir.\n Bu madde gereğince yapılacak işlemleri Maliye Bakanlığı düzenler.",
+      "preview": "Bu kanunun yürürlüğe girdiği tarihten evvel satılıp da kullanılmayan değerli kağıtların eski ve yeni bedelleri arasındaki fark ilgililer tar…",
+      "kitap": null,
+      "kisim": null,
+      "bolum": null,
+      "ayirim": null,
+      "maddeBaslik": "Kaldırılan hükümler:",
+      "sectionPath": [
+        "Kaldırılan hükümler:"
+      ]
+    },
+    {
+      "id": "kanun:210:m:gecici:2",
+      "maddeKind": "gecici",
+      "maddeNo": "2",
+      "heading": "Geçici Madde 2",
+      "text": "Bu kanun yürürlüğe girdikten sonra satın alınacak pasaportlardan damga resmi ve nüfus hüviyet cüzdanlarından harc ve damga resmi alınmaz.",
+      "preview": "Bu kanun yürürlüğe girdikten sonra satın alınacak pasaportlardan damga resmi ve nüfus hüviyet cüzdanlarından harc ve damga resmi alınmaz.",
+      "kitap": null,
+      "kisim": null,
+      "bolum": null,
+      "ayirim": null,
+      "maddeBaslik": "Kaldırılan hükümler:",
+      "sectionPath": [
+        "Kaldırılan hükümler:"
+      ]
+    },
+    {
+      "id": "kanun:210:m:gecici:3",
+      "maddeKind": "gecici",
+      "maddeNo": "3",
+      "heading": "Geçici Madde 3",
+      "text": "(Ek: 14/1/2016-6661/4 md.)[2]\n 31/12/2016 tarihine kadar nüfus cüzdanlarından 8 TL (10,50 TL) değerli kâğıt bedeli alınır ve bu bedelin tespiti Kanunun 1 inci maddesi kapsamında yapılmaya devam edilir.",
+      "preview": "(Ek: 14/1/2016-6661/4 md.)[2] 31/12/2016 tarihine kadar nüfus cüzdanlarından 8 TL (10,50 TL) değerli kâğıt bedeli alınır ve bu bedelin tespi…",
+      "kitap": null,
+      "kisim": null,
+      "bolum": null,
+      "ayirim": null,
+      "maddeBaslik": "Kaldırılan hükümler:",
+      "sectionPath": [
+        "Kaldırılan hükümler:"
+      ]
+    },
+    {
+      "id": "kanun:210:m:7",
+      "maddeKind": "madde",
+      "maddeNo": "7",
+      "heading": "Madde 7",
+      "text": "Bu Kanun yayımı tarihinde yürürlüğe girer.",
+      "preview": "Bu Kanun yayımı tarihinde yürürlüğe girer.",
+      "kitap": null,
+      "kisim": null,
+      "bolum": null,
+      "ayirim": null,
+      "maddeBaslik": "Yürürlük:",
+      "sectionPath": [
+        "Yürürlük:"
+      ]
+    },
+    {
+      "id": "kanun:210:m:8",
+      "maddeKind": "madde",
+      "maddeNo": "8",
+      "heading": "Madde 8",
+      "text": "Bu Kanunu Maliye Bakanı yürütür.\n DEĞERLİ KAĞITLAR TABLOSU[3]\n (Değişik: 4/12/1985 - 3239/99 md.)\n Değerli Kağıdın Cinsi\n Uygulanan Bedel (TL)3\n Kanunla Getirilen Bedel (TL)\n\n 1. Noter kağıtları:\n\n a) Noter kağıdı\n (149,00)\n 100\n\n b) Beyanname\n (149,00)\n 100\n\n c) Protesto, vekaletname, resen senet\n (298,00)\n 200\n\n 2. (Mülga: 30/12/2004-5281/14 md.)\n\n 3. Pasaportlar\n (1351,00)\n 7.500\n\n 4. (Değişik: 28/7/2016-6735/27 md.) İkamet izni\n (964,00)\n 58,50 TL\n\n 5. (Mülga: 30/12/2004-5281/14 md.)\n\n 6. (Değişik: 14/1/2016-6661/3 md.)\n\n a) Kanuni bildirim süresi dışında doğum nedeniyle düzenlenen Türkiye Cumhuriyeti kimlik kartı\n (220,00)\n 15\n\n b) Değiştirme nedeniyle düzenlenen Türkiye Cumhuriyeti kimlik kartı\n (220,00)\n 15\n\n c) Kayıp nedeniyle düzenlenen Türkiye Cumhuriyeti kimlik kartı\n (440,00)\n 30\n\n 7. Aile cüzdanları\n (1202,00)\n 1.000\n\n 8. (Mülga: 30/12/2004-5281/14 md.)\n\n 9. Sürücü belgeleri\n (1690,00)\n 1.000\n\n 10. Sürücü çalışma belgeleri (karneleri)\n (1690,00)\n 1.000\n\n 11. (Mülga: 2/1/2017-KHK-680/35 md.; Aynen kabul: 1/2/2018-7072/34 md.)\n\n 12. Motorlu araç tescil belgesi\n (1511,00)\n 500\n\n 13. İş makinesi tescil belgesi\n (1261,00)\n 500\n\n 14. (Ek: 26/11/1999 - 4481/12 md.) Banka Çekleri (her bir çek yaprağı)\n (95,00)\n 600.000\n\n 15. (Ek: 9/5/2012-6304/9 md.)Mavi Kart\n (220,00)\n 5,00 TL\n\n 16. (Ek: 28/7/2016-6735/27 md.) Yabancı çalışma izni belgesi\n (964,00)\n 58,50 TL\n\n 17.(Ek: 28/7/2016-6735/27 md.) Çalışma izni muafiyeti belgesi\n (964,00)\n 58,50 TL\n\n 210 SAYILI KANUNDA TEBLİĞLER İLE YAPILAN\n DEĞİŞİKLİKLER CETVELİ\n\n Değişiklik Yapan Tebliğin\n Yayımlandığı Resmi Gazete'nin\n\n Seri Numarası\n Tarihi\n Numarası\n\n 7\n 26/12/1990\n 20737\n\n 8\n 24/12/1991\n 21091\n\n 9\n 18/12/1992\n 21439\n\n 10\n 23/12/1993\n 21797\n\n 11\n 22/12/1994\n 22149\n\n 12\n 25/12/1995\n 22504\n\n 13\n 27/12/1996\n 22859\n\n 14\n 16/12/1997\n 23202 (Mükerrer)\n\n 15\n 1/12/1998\n 23540 (Mükerrer)\n\n 16\n 28/7/1999\n 23769\n\n 18\n 10/12/2000\n 24256\n\n 19\n 27/11/2001\n 24596\n\n 20\n 28/12/2002\n 24977\n\n 21\n 22/12/2003\n 25324 (Mükerrer)\n\n 45\n 30/12/2004\n 25686\n\n 46\n 5/1/2005\n 25691\n\n 23\n 17/12/2005\n 26026\n\n 2006/1\n 19/12/2006\n 26381\n\n 2007/1\n 28/12/2007\n 26740\n\n 2008/1\n 23/12/2008\n 27089\n\n 2009/1\n 31/12/2008\n 27097 (7. Mükerrer)\n\n 2009/9\n 14/7/2009\n 27288\n\n 2009/3\n 31/12/2009\n 27449\n\n 2010/1\n 20/6/2010\n 27617\n\n 2010/2\n 31/12/2010\n 27802\n\n 2011/1\n 30/12/2011\n 28158\n\n 2012/1\n 31/12/2012\n 28514 (4. Mükerrer)\n\n 2013/1\n 30/12/2013\n 28867 (Mükerrer)\n\n 2014/1\n 10/4/2014\n 28968\n\n 2013/1 Sayılı Tebliğde Değişiklik Tebliği\n 6/12/2014\n 29197\n\n 2014/1 Sayılı Tebliğde Değişiklik Tebliği\n 6/12/2014\n 29197\n\n 40\n 31/12/2014\n 29222\n\n 50\n 25/12/2015\n 29573\n\n 52\n 21/12/2016\n 29925\n\n 56\n 30/12/2017\n 30286 (Mükerrer)\n\n 60\n 31/12/2018\n 30642 (3. Mükerrer)\n\n 64\n 31/12/2019\n 30995 (4. Mükerrer)\n\n 70\n 21/12/2021\n 31696\n\n 71\n 30/12/2022\n 32059 (2. Mükerrer)\n\n 86\n 28/12/2023\n 32413\n\n 92\n 31/12/2024\n 32769\n\n 97\n 24/12/2025\n 33117\n\n 210 SAYILI KANUNA EK VE DEĞİŞİKLİK GETİREN MEVZUATIN VEYA\n ANAYASA MAHKEMESİ TARAFINDAN İPTAL EDİLEN HÜKÜMLERİN\n YÜRÜRLÜĞE GİRİŞ TARİHİNİ GÖSTERİR LİSTE\n\n Değiştiren Kanunun/ KHK’nin/İptal Eden Anayasa Mahkemesi\n Kararının Numarası\n 210 Sayılı Kanunun Değişen veya İptal Edilen Maddeleri\n Yürürlüğe Giriş Tarihi\n\n 2343\n Değerli Kağıtlar tablosuna alınan ve bu tablonun 6, 8, 11, 12, 13 ve 14 üncü bentlerinde belirtlilen kağıtlara ait hükümler\n 1/3/1981\n\n Diğer hükümler\n 1/12/1980\n\n 3239\n A) Birinci bölümün araziye ait asgari ölçüde birim değer tespiti için yeniden kurulan Takdir Komisyonları ve arazi ile ilgili diğer hükümleri ve yoklamadan maksat ve yoklama memurlarına ilişkin hükümleri.\n 11/12/1985\n\n B) Arsalara ait asgari ölçüde birim değer tespiti için yeniden kurulan Takdir Komisyonları ile ilgili hükümleri\n 1/3/1986\n\n C) Beşinci bölümünün, 96 ncı maddesiyle 492sayılı Kanunun (8) sayılı tarifesine eklenen Telsiz Harçlarına ilişkin hükümleri (Yıllık harçlara ait hükümleri hariç)\n 7/10/1983 tarihinden geçerli olmak üzere (11/12/1985)\n\n D) 107, 115, 119, 126, 132, 133, 134, 135 ve Geçici 2, 3 ve 4 üncü maddeleri\n 11/12/1985\n\n E) Bakanlar Kuruluna ve Maliye ve Gümrük Bakan lığına yetki veren hükümleri\n 1/1/1986 tarihinden geçerli olmak üzere (11/12/1985)\n\n F) Diğer hükümleri\n 1/1/1986\n\n 4481\n A) 8, 9 ve 12 nci maddeleri\n 26/11/1999 tarihini izleyen aybaşında\n\n B) Diğer maddeleri\n 26/11/1999\n\n 210 SAYILI KANUNA EK VE DEĞİŞİKLİK GETİREN MEVZUATIN VEYA\n ANAYASA MAHKEMESİ TARAFINDAN İPTAL EDİLEN HÜKÜMLERİN\n YÜRÜRLÜĞE GİRİŞ TARİHİNİ GÖSTERİR LİSTE\n\n Değiştiren Kanunun/ KHK’nin/İptal Eden Anayasa Mahkemesi\n Kararının Numarası\n 210 Sayılı Kanunun Değişen veya\n İptal Edilen Maddeleri\n Yürürlüğe Giriş Tarihi\n\n 5281\n 2, 5 ve Değerli Kağıtlar Tablosu\n 1/1/2005 tarihinden geçerli olmak üzere 31/12/2004\n\n 6304\n Değerli Kağıtlar Tablosu\n 18/5/2012\n\n 6661\n Geçici Madde 3, Değerli Kağıtlar Tablosu\n 27/1/2016\n\n 6735\n Değerli Kağıtlar Tablosu\n 13/8/2016\n\n 6745\n 1\n 7/9/2016\n\n KHK/680\n Değerli Kağıtlar Tablosu\n 1/7/2017\n\n 7061\n 3\n 5/12/2017\n\n 7072\n Değerli Kağıtlar Tablosu\n 1/7/2017\n\n [1] 20/8/2016 tarihli ve 6745 sayılı Kanunun 10 uncu maddesiyle, bu maddenin birinci fıkrasında yer alan “belgeler” ibaresinden sonra gelmek üzere “ile elektronik imza kullanılmak suretiyle manyetik ortamda ve elektronik veri şeklinde oluşturulan noter belgeleri” ibaresi eklenmiştir.\n\n [2] Bu maddeye Kanunla getirilmiş olan miktar aynen bırakılmış olup; bu Kanunun 1 inci maddesi uyarınca 30/12/2017 tarihli ve 30286 (Mükerrer) sayılı Resmi Gazete'de yayımlanan, Muhasebat Genel Müdürlüğü Genel Tebliği (Sıra No: 56) ile 1/1/2018 tarihinden geçerli olarak getirilen miktar ise metne parantez içinde siyah punto ile işlenmiştir. Daha önce bu Kanunda tebliğlerle yapılan değişiklikler için Kanunun sonundaki \"TEBLİĞLER İLE YAPILAN DEĞİŞİKLİKLER CETVELİ\" ne bakınız.\n\n [3] Bu tabloya Kanunla getirilmiş olan miktarlar aynen bırakılmış; bu Kanunun 1 inci maddesi uyarınca 24/12/2025 tarihli ve 33117 sayılı Resmî Gazete'de yayımlanan Muhasebat Genel Müdürlüğü Genel Tebliği (Sıra No: 97) ile 1/1/2026 tarihinden geçerli olarak getirilen miktarlar metne parantez içinde siyah punto ile işlenmiştir. Daha önce bu Kanunda tebliğlerle yapılan değişiklikler için Kanunun sonundaki \"TEBLİĞLER İLE YAPILAN DEĞİŞİKLİKLER CETVELİ\" ne bakınız.",
+      "preview": "Bu Kanunu Maliye Bakanı yürütür. DEĞERLİ KAĞITLAR TABLOSU[3] (Değişik: 4/12/1985 - 3239/99 md.) Değerli Kağıdın Cinsi Uygulanan Bedel (TL)3…",
+      "kitap": null,
+      "kisim": null,
+      "bolum": null,
+      "ayirim": null,
+      "maddeBaslik": "Yürütme:",
+      "sectionPath": [
+        "Yürütme:"
+      ]
+    }
+  ]
+}
