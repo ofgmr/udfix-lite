@@ -196,7 +196,6 @@
       "dist",
       "dist-electron",
       "release",
-      ".repo-health",
       "scripts/.cache"
     ],
     "ignoreMatches": [
