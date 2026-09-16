@@ -40,6 +40,8 @@ export function pdfJsDocumentInitOptions(baseWindow?: Window): {
     disableFontFace: boolean;
     useWorkerFetch: boolean;
     verbosity: number;
+    isEvalSupported: boolean;
+    enableXfa: boolean;
 } {
     return {
         cMapUrl: pdfJsCMapUrl(baseWindow),
@@ -51,6 +53,8 @@ export function pdfJsDocumentInitOptions(baseWindow?: Window): {
         useSystemFonts: true,
         useWorkerFetch: false,
         verbosity: 0,
+        isEvalSupported: false,
+        enableXfa: false,
     };
 }
 

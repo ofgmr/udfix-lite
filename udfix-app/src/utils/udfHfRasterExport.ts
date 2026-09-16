@@ -12,6 +12,7 @@ import { pxToUyapPt } from './uyapExportBuild';
 import { resolveCssVarsInHtmlString } from './resolveCssVarsForExport';
 import { sanitizeModernColorsInDom } from './sanitizeColorsForHtml2canvas';
 import { applyHfImageAlignStylesToDom } from './hfImageAlignExport';
+import { sanitizeTrustedDocumentHtml } from './sanitizeDocumentHtml';
 import type { HeaderFooterSection, HeaderFooterSettings } from '../stores/useHeaderFooterStore';
 
 export type UdfHfRasterBand = {
@@ -210,7 +211,10 @@ export async function rasterizeHfBandHtml(bandHtml: string, contentWidthPt: numb
     root.style.width = `${widthPx}px`;
     root.style.background = 'transparent';
     root.style.overflow = 'visible';
-    root.innerHTML = `<style>${fontFaceCss}\n${HF_RASTER_BASE_CSS}</style>${trimmed}`;
+    const style = document.createElement('style');
+    style.textContent = `${fontFaceCss}\n${HF_RASTER_BASE_CSS}`;
+    root.appendChild(style);
+    root.insertAdjacentHTML('beforeend', sanitizeTrustedDocumentHtml(trimmed));
     host.appendChild(root);
     document.body.appendChild(host);
 

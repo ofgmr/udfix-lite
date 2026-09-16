@@ -14,7 +14,7 @@ import { EypViewer } from './EypViewer';
 import { useThemeStore } from '../../stores/useThemeStore';
 import { cn } from '../../lib/utils';
 import { resolveToBlobUrl } from '../../utils/localResource';
-import { isRemoteFetchableUrl } from '../../utils/fileUrl';
+import { isRemoteFetchableUrl, toSafeViewerResourceUrl } from '../../utils/fileUrl';
 import { isArchiveViewerExtension, resolveViewerExtension } from '../../utils/viewerExtension';
 
 /** `auto`: uygulama temasına uy; `original` / `adapted`: bu sekme için sabitle */
@@ -241,8 +241,10 @@ export const UniversalViewer: React.FC<UniversalViewerProps> = ({
     // ── Kaydet (Download) ───────────────────────────────────────────────────
     const handleDownload = useCallback(() => {
         if (!resolvedUrl || !fileName) return;
+        const safeHref = toSafeViewerResourceUrl(resolvedUrl);
+        if (!safeHref) return;
         const a = document.createElement('a');
-        a.href = resolvedUrl;
+        a.href = safeHref;
         a.download = fileName;
         document.body.appendChild(a);
         a.click();
@@ -485,16 +487,20 @@ export const UniversalViewer: React.FC<UniversalViewerProps> = ({
             case 'eyp':
                 return <EypViewer fileUrl={resolvedUrl} />;
 
-            default:
+            default: {
+                const safeHref = toSafeViewerResourceUrl(resolvedUrl);
                 return (
                     <div className="h-full w-full flex flex-col items-center justify-center gap-4 text-gray-500">
                         <span className="material-symbols-sharp text-4xl opacity-40">draft</span>
                         <p className="text-sm">Desteklenmeyen dosya formatı: <strong>.{extension}</strong></p>
-                        <a href={resolvedUrl} download className="mt-2 px-4 py-2 rounded-lg text-sm bg-primary text-primary-foreground hover:opacity-80 transition-opacity">
+                        {safeHref ? (
+                        <a href={safeHref} download className="mt-2 px-4 py-2 rounded-lg text-sm bg-primary text-primary-foreground hover:opacity-80 transition-opacity">
                             Dosyayı İndir
                         </a>
+                        ) : null}
                     </div>
                 );
+            }
         }
     };
 

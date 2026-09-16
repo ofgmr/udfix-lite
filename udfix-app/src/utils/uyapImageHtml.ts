@@ -4,6 +4,13 @@ import { uyapPtStringToPx } from './uyapImportUnits';
 /** Marker class shared with HfImageExtension — keep string literal to avoid React import cycle. */
 const HF_SIZED_IMAGE_CLASS = 'hf-sized-img';
 
+/** Standard base64 only — quotes/whitespace would break `src="data:…,${data}"`. */
+const SAFE_IMAGE_BASE64 = /^[A-Za-z0-9+/]+=*$/;
+
+function isSafeBase64ImageData(data: string): boolean {
+    return SAFE_IMAGE_BASE64.test(data);
+}
+
 export function paragraphHasImages(p: XmlParagraph): boolean {
     return (p.image?.length ?? 0) > 0;
 }
@@ -20,7 +27,7 @@ export function uyapImagesToHtml(
     let html = '';
     for (const img of images) {
         const data = img.$?.imageData?.trim();
-        if (!data) continue;
+        if (!data || !isSafeBase64ImageData(data)) continue;
         const src = `data:image/png;base64,${data}`;
         const widthPx = uyapPtStringToPx(img.$.width);
         const heightPx = uyapPtStringToPx(img.$.height);
@@ -50,7 +57,7 @@ export function uyapImagesToTipTapNodes(
     const nodes: Array<{ type: 'image'; attrs: { src: string; width?: string } }> = [];
     for (const img of images) {
         const data = img.$?.imageData?.trim();
-        if (!data) continue;
+        if (!data || !isSafeBase64ImageData(data)) continue;
         const widthPx = uyapPtStringToPx(img.$.width);
         nodes.push({
             type: 'image',

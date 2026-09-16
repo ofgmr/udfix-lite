@@ -3,6 +3,9 @@
  * Renderer’da çalışır (`document`, `Image`, `canvas`).
  */
 
+import { parseHtmlFragment } from './sanitizeDocumentHtml';
+import { stripHtmlTags } from './stripHtmlTags';
+
 /** Üst / alt bantta görünür yükseklik (~px marj bandına denk pt). */
 export const HF_EXPORT_IMG_MAX_HEIGHT_PT = 30;
 export const HF_EXPORT_IMG_MAX_WIDTH_PT = 200;
@@ -258,7 +261,7 @@ export function parseHfHtmlToExportSegments(html: string): HfExportSegment[] {
         let last = 0;
         let m: RegExpExecArray | null;
         const plainFrom = (chunk: string) => {
-            const t = chunk.replace(/<[^>]+>/g, '').replace(/\u00a0/g, ' ');
+            const t = stripHtmlTags(chunk).replace(/\u00a0/g, ' ');
             if (t) segments.push({ type: 'text', text: t, mark: defaultMark() });
         };
         while ((m = re.exec(trimmed)) !== null) {
@@ -282,8 +285,8 @@ export function parseHfHtmlToExportSegments(html: string): HfExportSegment[] {
         return segments;
     }
 
-    const wrap = document.createElement('div');
-    wrap.innerHTML = flattenParagraphTags(trimmed);
+    const wrap = parseHtmlFragment(flattenParagraphTags(trimmed));
+    if (!wrap) return [];
     const segments: HfExportSegment[] = [];
     const base = defaultMark();
 
@@ -419,8 +422,8 @@ export async function scaleDataUrlsInHfHtml(html: string, _slot: 'header' | 'foo
     const maxH = HF_EXPORT_IMG_MAX_HEIGHT_PT;
     const maxW = HF_EXPORT_IMG_MAX_WIDTH_PT;
 
-    const div = document.createElement('div');
-    div.innerHTML = html;
+    const div = parseHtmlFragment(html);
+    if (!div) return html;
     const imgs = Array.from(div.querySelectorAll<HTMLImageElement>('img[src^="data:"]'));
     if (!imgs.length) return html;
 

@@ -1,5 +1,6 @@
 import { compileHfHtml } from './compileHfHtml';
 import { resolveCssVarsInHtmlString } from './resolveCssVarsForExport';
+import { stripHtmlTags } from './stripHtmlTags';
 import type {
     HeaderFooterSection,
     HeaderFooterSettings,
@@ -64,7 +65,7 @@ export function hfHtmlLooksEmpty(html: string): boolean {
     if (/<(img|svg)\b/i.test(s)) return false;
     if (/\{(?:page|total|totalPages|date|title)\}/i.test(s)) return false;
     if (/data-type=["']variable["']/i.test(s)) return false;
-    const text = s.replace(/<[^>]*>/g, '').replace(/&nbsp;/gi, ' ').replace(/\s+/g, ' ').trim();
+    const text = stripHtmlTags(s).replace(/&nbsp;/gi, ' ').replace(/\s+/g, ' ').trim();
     return text.length === 0;
 }
 

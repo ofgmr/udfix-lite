@@ -83,11 +83,12 @@ function developmentContentSecurityPolicy(): string {
         `default-src 'self' ${host} ${ws} blob: data: about:`,
         `script-src 'self' 'unsafe-inline' 'unsafe-eval' ${host}`,
         `style-src 'self' 'unsafe-inline' ${host}`,
-        `connect-src 'self' ${host} ${ws} blob: data: http://127.0.0.1:* http://localhost:*`,
-        `img-src 'self' data: blob: ${host}`,
+        `connect-src 'self' ${host} ${ws} blob: data: nomai-file: http://127.0.0.1:* http://localhost:*`,
+        `img-src 'self' data: blob: nomai-file: ${host}`,
         `font-src 'self' data: ${host}`,
         `worker-src 'self' blob: ${host}`,
-        `frame-src 'self' blob: data: ${host}`,
+        `frame-src 'self' blob: data: nomai-file: ${host}`,
+        `media-src 'self' blob: data: nomai-file: ${host}`,
         "object-src 'none'",
         "base-uri 'self'",
     ].join('; ');
@@ -135,6 +136,22 @@ export function attachWebContentsSecurityGuards(webContents: WebContents, devMod
 
     webContents.on('will-navigate', (event, url) => {
         denyNavigation(event, url, 'navigation');
+    });
+
+    webContents.on('will-redirect', (event, url) => {
+        denyNavigation(event, url, 'redirect');
+    });
+
+    webContents.session.setPermissionRequestHandler((_contents, permission, callback) => {
+        switch (permission) {
+            case 'media':
+            case 'geolocation':
+            case 'openExternal':
+                callback(false);
+                return;
+            default:
+                callback(true);
+        }
     });
 
     webContents.setWindowOpenHandler(({ url }) => {

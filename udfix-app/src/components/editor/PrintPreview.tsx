@@ -1,11 +1,20 @@
 import React, { useEffect, useRef, useState } from 'react';
 import { Previewer } from 'pagedjs';
+import { stripNestedStyleTagTokens } from '../../utils/stripHtmlTags';
+import { sanitizeTrustedDocumentHtml } from '../../utils/sanitizeDocumentHtml';
 
 interface PrintPreviewProps {
     content: string;
     onClose: () => void;
     headerContent?: string;
     footerContent?: string;
+}
+
+function cssGeneratedContent(raw: string): string {
+    return raw
+        .split(/\{\{pageNumber\}\}/g)
+        .map((part) => JSON.stringify(stripNestedStyleTagTokens(part)))
+        .join(' counter(page) ');
 }
 
 const PrintPreview: React.FC<PrintPreviewProps> = ({ content, onClose, headerContent = '', footerContent = '' }) => {
@@ -21,18 +30,14 @@ const PrintPreview: React.FC<PrintPreviewProps> = ({ content, onClose, headerCon
 
         // Create a temporary container for the content
         const contentDiv = document.createElement('div');
-        contentDiv.innerHTML = content;
+        contentDiv.innerHTML = sanitizeTrustedDocumentHtml(content);
 
         // Prepare safe CSS content strings
         // Replace {{pageNumber}} with Paged.js counter syntax
         // Escape double quotes in the content
-        const safeHeader = headerContent
-            ? `"${headerContent.replace(/"/g, '\\"').replace(/{{pageNumber}}/g, '" counter(page) "')}"`
-            : 'none';
+        const safeHeader = headerContent ? cssGeneratedContent(headerContent) : 'none';
 
-        const safeFooter = footerContent
-            ? `"${footerContent.replace(/"/g, '\\"').replace(/{{pageNumber}}/g, '" counter(page) "')}"`
-            : 'none';
+        const safeFooter = footerContent ? cssGeneratedContent(footerContent) : 'none';
 
         // Add some basic styles for the preview
         const style = document.createElement('style');

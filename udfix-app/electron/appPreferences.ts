@@ -36,7 +36,7 @@ const DEFAULT_PREFERENCES: AppPreferences = {
     autosaveDebounceMs: 2000,
     workspaceRoot: null,
     workspaceRecents: [],
-    telemetryConsent: 'opted_in',
+    telemetryConsent: 'opted_out',
     menuBarTrayEnabled: true,
     udfDefaultHandlerEnabled: false,
     udfDefaultHandlerPromptDismissed: false,

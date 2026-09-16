@@ -1,5 +1,7 @@
 import type { XmlField, XmlParagraph, XmlTextSpan } from '../types/uyapXml';
 import { uyapParagraphPlainText } from './uyapParagraphText';
+import { sanitizeTrustedDocumentHtml } from './sanitizeDocumentHtml';
+import { stripHtmlTags } from './stripHtmlTags';
 
 type DataRecord = Record<string, unknown>;
 type XmlOffsetNode = { $: { startOffset?: string; length?: string } & Record<string, string | undefined> };
@@ -248,21 +250,13 @@ function isTemplatePlaceholder(rawFallback: string, fieldName: string): boolean 
     return false;
 }
 
-function decodeUyapStoredHtml(value: string): string {
-    return value
-        .replace(/&lt;/g, '<')
-        .replace(/&gt;/g, '>')
-        .replace(/&amp;/g, '&')
-        .replace(/&quot;/g, '"')
-        .replace(/&#39;/g, "'");
-}
-
 function htmlToPlainText(html: string): string {
-    return html
-        .replace(/<br\s*\/?>/gi, '\n')
-        .replace(/<\/tr>/gi, '\n')
-        .replace(/<\/td>/gi, ' ')
-        .replace(/<[^>]+>/g, '')
+    return stripHtmlTags(
+        html
+            .replace(/<br\s*\/?>/gi, '\n')
+            .replace(/<\/tr>/gi, '\n')
+            .replace(/<\/td>/gi, ' '),
+    )
         .replace(/\u00a0/g, ' ')
         .replace(/[ \t]+\n/g, '\n')
         .replace(/\n{3,}/g, '\n\n')
@@ -424,7 +418,7 @@ function resolveFieldOutput(
     const byData = lookupUyapFieldValue(ctx, paragraphGroup, fieldGroup, fieldName);
     if (byData != null && byData.length > 0) {
         if (fieldName === 'imza' && /<table/i.test(byData)) {
-            const html = decodeUyapStoredHtml(byData);
+            const html = sanitizeTrustedDocumentHtml(byData);
             return { text: htmlToPlainText(html), html, suppressAfterOffset };
         }
         return { text: byData, suppressAfterOffset };

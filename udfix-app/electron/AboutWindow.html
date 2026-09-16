@@ -58,10 +58,12 @@
   <p class="developer">©2025-2026 OFG</p>
   <script>
     const params = new URLSearchParams(location.search);
-    const logo = params.get('logo');
-    if (logo) document.getElementById('logo').src = logo;
     const v = params.get('v');
     document.getElementById('version').textContent = v ? 'Sürüm ' + v : '';
+    const logoFile = params.get('logoFile');
+    if (logoFile && /^[A-Za-z0-9._-]+\.(svg|png|webp)$/.test(logoFile)) {
+      document.getElementById('logo').src = 'branding/' + logoFile;
+    }
   </script>
 </body>
 </html>

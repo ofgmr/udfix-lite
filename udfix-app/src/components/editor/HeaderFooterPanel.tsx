@@ -39,6 +39,7 @@ import {
 } from '../../utils/editorLayout';
 import { normalizeHfColumnHtml } from '../../utils/normalizeHfColumnHtml';
 import { syncHfImageAlignFromParagraphInEditor } from '../../utils/hfImageAlignExport';
+import { parseHtmlFragment, sanitizeTrustedDocumentHtml } from '../../utils/sanitizeDocumentHtml';
 
 // ── Variable Definitions ──────────────────────────────────
 
@@ -213,21 +214,20 @@ const RichDropZone: React.FC<DropZoneProps> = ({ label, value, onChange, placeho
         if (current === value) return;
 
         // Normalize via DOM roundtrip to compare semantic content, not string format
-        const tmp = document.createElement('div');
-        tmp.innerHTML = current;
-        const normalizedCurrent = tmp.innerHTML;
-
-        tmp.innerHTML = value || '';
-        const normalizedValue = tmp.innerHTML;
+        const currentWrap = parseHtmlFragment(current);
+        const valueWrap = parseHtmlFragment(value || '');
+        if (!currentWrap || !valueWrap) return;
+        const normalizedCurrent = currentWrap.innerHTML;
+        const normalizedValue = valueWrap.innerHTML;
 
         if (normalizedCurrent !== normalizedValue) {
             const next = value || '';
             queueMicrotask(() => {
                 if (editor.isDestroyed) return;
-                tmp.innerHTML = editor.getHTML();
-                const nowNormalized = tmp.innerHTML;
-                tmp.innerHTML = next;
-                if (nowNormalized === tmp.innerHTML) return;
+                const nowWrap = parseHtmlFragment(editor.getHTML());
+                const nextWrap = parseHtmlFragment(next);
+                if (!nowWrap || !nextWrap) return;
+                if (nowWrap.innerHTML === nextWrap.innerHTML) return;
                 editor.commands.setContent(next, false);
             });
         }
@@ -325,7 +325,7 @@ const RichDropZone: React.FC<DropZoneProps> = ({ label, value, onChange, placeho
                     <div
                         className="hf-mini-editor-preview"
                         style={{ fontSize: '11px', color: 'var(--hf-text)', minHeight: '20px' }}
-                        dangerouslySetInnerHTML={{ __html: value }}
+                        dangerouslySetInnerHTML={{ __html: sanitizeTrustedDocumentHtml(value) }}
                     />
                 ) : (
                     <span className="hf-drop-zone__placeholder">{placeholder || '—'}</span>

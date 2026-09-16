@@ -118,7 +118,7 @@ async function loadFaceCss(packageId: string, weight: number, style: 'normal' | 
         if (!face) continue;
         const dataUrl = await face.loader();
         rules.push(`@font-face {
-  font-family: '${family.replace(/'/g, "\\'")}';
+  font-family: ${JSON.stringify(family)};
   font-style: ${style};
   font-weight: ${weight};
   font-display: swap;

@@ -7,6 +7,8 @@ import { loadAppPreferences, type AppPreferences } from './appPreferences';
 import type { TelemetryConsent, TelemetryEvent, TelemetryTrackInput } from './telemetryTypes';
 import {
     getTelemetryEndpoint,
+    TELEMETRY_ALLOWED_CATEGORIES,
+    TELEMETRY_ALLOWED_PROPERTY_KEYS,
     TELEMETRY_MAX_PROPERTY_STRING_LENGTH,
     TELEMETRY_MAX_QUEUE_EVENTS,
     TELEMETRY_SCHEMA_VERSION,
@@ -95,6 +97,7 @@ function sanitizeProperties(
     const out: Record<string, string | number | boolean | null> = {};
 
     for (const [key, value] of Object.entries(raw)) {
+        if (!TELEMETRY_ALLOWED_PROPERTY_KEYS.has(key)) continue;
         if (blockedKey.test(key)) continue;
         if (value === null) {
             out[key] = null;
@@ -321,6 +324,7 @@ export function registerTelemetryHandlers(): void {
     ipcMain.handle('telemetry-track', (_event, input: TelemetryTrackInput) => {
         if (!input || typeof input !== 'object') return false;
         if (typeof input.name !== 'string' || typeof input.category !== 'string') return false;
+        if (!(TELEMETRY_ALLOWED_CATEGORIES as readonly string[]).includes(input.category)) return false;
         enqueueTelemetryEvent(input);
         return true;
     });

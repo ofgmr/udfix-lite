@@ -28,7 +28,15 @@ export type UpdateFeedSelection = {
 
 export function resolveUpdateFeed(): UpdateFeedSelection {
     const fromEnv = process.env.UDFIX_UPDATE_FEED_URL?.trim();
-    return { url: withSlash(fromEnv || LITE_UPDATE_FEED_URL) };
+    let url = LITE_UPDATE_FEED_URL;
+    if (!app.isPackaged && fromEnv) {
+        try {
+            if (new URL(fromEnv).protocol === 'https:') url = fromEnv;
+        } catch {
+            /* ignore invalid override */
+        }
+    }
+    return { url: withSlash(url) };
 }
 
 export function resolveUpdateFeedUrl(): string | undefined {

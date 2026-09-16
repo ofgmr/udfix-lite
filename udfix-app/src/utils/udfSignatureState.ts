@@ -19,6 +19,16 @@ export type UdfSignatureMetadata = {
 const STORAGE_PREFIX = 'udfix-udf-signature-meta-';
 const SIGNER_NAME_JOINER = ' · ';
 
+/** Session-only certificate CN labels; localStorage keeps signed/timestamps only. */
+const holderLabelsByDocument = new Map<string, string[]>();
+
+type PersistedSignatureUiState = {
+    signed: boolean;
+    signedAtIso: string | null;
+    certificateValidUntilIso: string | null;
+    invalidatedAtIso?: string | null;
+};
+
 function keyForDocument(documentId: string): string {
     return `${STORAGE_PREFIX}${documentId}`;
 }
@@ -107,6 +117,30 @@ export function normalizeUdfSignatureMetadata(
     };
 }
 
+function persistSignatureUiState(documentId: string, metadata: UdfSignatureMetadata): void {
+    holderLabelsByDocument.set(documentId, metadata.signerNames);
+    const signed = metadata.signed === true;
+    const signedAtIso = typeof metadata.signedAtIso === 'string' ? metadata.signedAtIso : null;
+    const certificateValidUntilIso =
+        typeof metadata.certificateValidUntilIso === 'string' ? metadata.certificateValidUntilIso : null;
+    const invalidatedAtIso =
+        typeof metadata.invalidatedAtIso === 'string' ? metadata.invalidatedAtIso : undefined;
+    const persisted: PersistedSignatureUiState = {
+        signed,
+        signedAtIso,
+        certificateValidUntilIso,
+    };
+    if (invalidatedAtIso) persisted.invalidatedAtIso = invalidatedAtIso;
+    localStorage.setItem(keyForDocument(documentId), JSON.stringify(persisted));
+}
+
+function persistedHasHolderLabels(parsed: Partial<UdfSignatureMetadata>): boolean {
+    if (typeof parsed.signerName === 'string' && parsed.signerName.trim()) return true;
+    if (Array.isArray(parsed.signerNames) && parsed.signerNames.length > 0) return true;
+    if (Array.isArray(parsed.signers) && parsed.signers.length > 0) return true;
+    return false;
+}
+
 export function readUdfSignatureMetadata(documentId: string): UdfSignatureMetadata | null {
     const safeId = String(documentId ?? '').trim();
     if (!safeId) return null;
@@ -114,16 +148,31 @@ export function readUdfSignatureMetadata(documentId: string): UdfSignatureMetada
     if (!raw) return null;
     try {
         const parsed = JSON.parse(raw) as Partial<UdfSignatureMetadata>;
-        return normalizeUdfSignatureMetadata({
+        const cachedHolders = holderLabelsByDocument.get(safeId);
+        const normalized = normalizeUdfSignatureMetadata({
             signed: parsed.signed === true,
             signerName: typeof parsed.signerName === 'string' ? parsed.signerName : null,
-            signerNames: Array.isArray(parsed.signerNames) ? parsed.signerNames : [],
+            signerNames:
+                cachedHolders && cachedHolders.length > 0
+                    ? cachedHolders
+                    : Array.isArray(parsed.signerNames)
+                      ? parsed.signerNames
+                      : [],
             signers: Array.isArray(parsed.signers) ? parsed.signers : undefined,
             signedAtIso: typeof parsed.signedAtIso === 'string' ? parsed.signedAtIso : null,
             certificateValidUntilIso:
                 typeof parsed.certificateValidUntilIso === 'string' ? parsed.certificateValidUntilIso : null,
             invalidatedAtIso: typeof parsed.invalidatedAtIso === 'string' ? parsed.invalidatedAtIso : null,
         });
+        if (persistedHasHolderLabels(parsed)) {
+            persistSignatureUiState(safeId, normalized);
+        } else if (cachedHolders && cachedHolders.length > 0) {
+            return normalizeUdfSignatureMetadata({
+                ...normalized,
+                signerNames: cachedHolders,
+            });
+        }
+        return normalized;
     } catch {
         return null;
     }
@@ -133,13 +182,14 @@ export function writeUdfSignatureMetadata(documentId: string, metadata: UdfSigna
     const safeId = String(documentId ?? '').trim();
     if (!safeId) return;
     const normalized = normalizeUdfSignatureMetadata(metadata);
-    localStorage.setItem(keyForDocument(safeId), JSON.stringify(normalized));
+    persistSignatureUiState(safeId, normalized);
     emitSignatureStateChange(safeId);
 }
 
 export function clearUdfSignatureMetadata(documentId: string): void {
     const safeId = String(documentId ?? '').trim();
     if (!safeId) return;
+    holderLabelsByDocument.delete(safeId);
     localStorage.removeItem(keyForDocument(safeId));
     emitSignatureStateChange(safeId);
 }

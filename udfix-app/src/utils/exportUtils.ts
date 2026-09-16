@@ -19,6 +19,7 @@ import {
     shouldPreserveLiveBandFlowMetrics,
 } from './pdfExportLayoutMath';
 import { getElectronInvoke } from './electronBridge';
+import { sanitizeTrustedDocumentHtml } from './sanitizeDocumentHtml';
 import { trackExportAction } from '../telemetry/trackEvent';
 import { readPersistedUyapVerificationMeta, type UyapVerificationMeta } from './uyapVerification';
 import { appendUyapVerificationToHtml } from './uyapVerificationBlock';
@@ -626,7 +627,7 @@ export const exportToPDF = async (
         });
         const base = sanitizeExportBaseName(suggestedBaseName);
         const payload: PdfExportIpcPayload = {
-            documentHtml,
+            documentHtml: sanitizeTrustedDocumentHtml(documentHtml),
             suggestedBaseName: base,
             printToPdfOptions,
         };

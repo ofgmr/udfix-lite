@@ -1,14 +1,14 @@
-/**
- * Plain text from HTML fragments (header/footer for UDF export, etc.).
- * Uses DOM parsing so tags like `<br>` become newlines via layout text.
- */
+import { parseHtmlFragment } from './sanitizeDocumentHtml';
+import { stripHtmlTags } from './stripHtmlTags';
+
+/** Plain text from HTML fragments (header/footer for UDF export, etc.). */
+
 export function htmlStringToPlainText(html: string): string {
     if (!html?.trim()) return '';
     if (typeof document === 'undefined') {
-        return html.replace(/<[^>]+>/g, ' ').replace(/\s+/g, ' ').trim();
+        return stripHtmlTags(html).replace(/\s+/g, ' ').trim();
     }
-    const d = document.createElement('div');
-    d.innerHTML = html;
-    const t = d.textContent ?? d.innerText ?? '';
+    const wrap = parseHtmlFragment(html);
+    const t = wrap?.textContent ?? wrap?.innerText ?? '';
     return t.replace(/\u00a0/g, ' ').trim();
 }

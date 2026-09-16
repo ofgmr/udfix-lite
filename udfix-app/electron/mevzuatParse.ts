@@ -36,14 +36,18 @@ export function decodeHtmlEntities(text: string): string {
 
 export function htmlToPlainText(html: string): string {
     let s = html.replace(/\r\n/g, '\n').replace(/\r/g, '\n');
-    s = s.replace(/<script[\s\S]*?<\/script>/gi, ' ');
-    s = s.replace(/<style[\s\S]*?<\/style>/gi, ' ');
+    s = s.replace(/<script\b[^>]*>[\s\S]*?<\/script[^>]*>/gi, ' ');
+    s = s.replace(/<style\b[^>]*>[\s\S]*?<\/style[^>]*>/gi, ' ');
     s = s.replace(/<!--[\s\S]*?-->/g, ' ');
     // Word HTML wraps lines inside spans; collapse those before block-tag conversion.
     s = s.replace(/\n+/g, ' ');
     s = s.replace(/<br\s*\/?>/gi, '\n');
     s = s.replace(/<\/(p|div|tr|h[1-6]|li|blockquote|table)>/gi, '\n');
-    s = s.replace(/<[^>]+>/g, '');
+    let prev = '';
+    while (s !== prev) {
+        prev = s;
+        s = s.replace(/<[^>]*>/g, '');
+    }
     s = decodeHtmlEntities(s);
     s = s.replace(/\u00a0/g, ' ');
     s = s.replace(/[ \t]+\n/g, '\n');

@@ -9,6 +9,7 @@ import { htmlStringToPlainText } from './htmlPlainText';
 import { resolveCssVarsInHtmlString } from './resolveCssVarsForExport';
 import { HF_EXPORT_IMG_MAX_HEIGHT_PT, parseHfHtmlToExportSegments } from './udfHfExportSegments';
 import type { UyapHfLayoutPreset } from './uyapExportBuild';
+import { parseHtmlFragment } from './sanitizeDocumentHtml';
 
 export type HfCompiledColumns = { left: string; center: string; right: string };
 
@@ -21,8 +22,8 @@ export function extractHfColumnsFromCompiledHtml(compiled: string): HfCompiledCo
         return { left: trimmed, center: '', right: '' };
     }
 
-    const wrap = document.createElement('div');
-    wrap.innerHTML = trimmed;
+    const wrap = parseHtmlFragment(trimmed);
+    if (!wrap) return { left: trimmed, center: '', right: '' };
 
     const table = wrap.querySelector('table[role="presentation"]');
     if (table) {

@@ -1,28 +1,22 @@
 import diff_match_patch, { DIFF_DELETE, DIFF_EQUAL, DIFF_INSERT } from 'diff-match-patch';
 import type { DocumentVersionRow } from '../services/dataService';
+import { parseHtmlFragment } from './sanitizeDocumentHtml';
+import { stripHtmlTags } from './stripHtmlTags';
 
 export function htmlToPlainText(html: string): string {
+    const withBreaks = html
+        .replace(/<br\s*\/?>/gi, '\n')
+        .replace(/<\/p>|<\/div>|<\/h[1-6]>/gi, '\n');
+
     if (typeof document === 'undefined') {
-        return html
-            .replace(/<br\s*\/?>/gi, '\n') // <br> etiketlerini satır atlamaya çevir
-            .replace(/<\/p>|<\/div>|<\/h[1-6]>/gi, '\n') // Blok eleman kapanışlarını satır atlamaya çevir
-            .replace(/<[^>]+>/g, '') // Kalan tagleri temizle
-            .replace(/[ \t]+/g, ' ') // Sadece boşluk ve tab'ları temizle (\n silinmez)
+        return stripHtmlTags(withBreaks)
+            .replace(/[ \t]+/g, ' ')
             .trim();
     }
 
-    const d = document.createElement('div');
-    
-    // HTML'i DOM'a vermeden önce blok etiketlerini \n ile değiştirelim ki textContent satırları birleştirmesin
-    const tempHtml = html
-        .replace(/<br\s*\/?>/gi, '\n')
-        .replace(/<\/p>|<\/div>|<\/h[1-6]>/gi, '\n');
-        
-    d.innerHTML = tempHtml;
-    const text = d.textContent || d.innerText || '';
+    const wrap = parseHtmlFragment(withBreaks);
+    const text = wrap?.textContent || wrap?.innerText || '';
 
-    // \s kullanmak yerine sadece [ \t] kullanıyoruz ki satır atlamaları (newline) korunsun.
-    // Çoklu satır boşluklarını da maksimum 2 satır olacak şekilde sınırlandırıyoruz.
     return text.replace(/[ \t]+/g, ' ').replace(/\n{3,}/g, '\n\n').trim();
 }
 

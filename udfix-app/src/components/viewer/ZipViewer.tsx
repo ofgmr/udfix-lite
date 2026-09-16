@@ -6,6 +6,7 @@ import {
     resolveEypEntryLabel,
 } from '../../utils/eypMetadata';
 import { canViewArchiveEntry, filterViewableArchiveEntries } from '../../utils/archiveViewerEntries';
+import { assertArchiveByteLimit, assertLoadedZipBudget, ZIP_MAX_ENTRY_UNCOMPRESSED } from '../../utils/zipBombGuard';
 
 interface ZipEntry {
     name: string;
@@ -22,7 +23,7 @@ interface ZipViewerProps {
     variant?: ZipViewerVariant;
 }
 
-const FILE_SIZE_LIMIT = 1 * 1024 * 1024 * 1024; // 1 GB
+const FILE_SIZE_LIMIT = ZIP_MAX_ENTRY_UNCOMPRESSED;
 
 function formatBytes(bytes: number): string {
     if (bytes === 0) return '0 B';
@@ -70,7 +71,9 @@ export const ZipViewer: React.FC<ZipViewerProps> = ({ fileUrl, variant = 'zip' }
                 setLoading(true);
                 const response = await fetch(fileUrl);
                 const arrayBuffer = await response.arrayBuffer();
+                assertArchiveByteLimit(arrayBuffer.byteLength);
                 const zip = await JSZip.loadAsync(arrayBuffer);
+                assertLoadedZipBudget(zip);
                 setZipRef(zip);
 
                 const allEntries: ZipEntry[] = [];

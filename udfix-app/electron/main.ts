@@ -2,13 +2,13 @@ import { app, BrowserWindow, ipcMain, dialog, session, shell, protocol, Notifica
 import path from 'path';
 import fs from 'fs';
 import { setupDatabase, registerDatabaseHandlers } from './database';
-import { registerEntitlementHandlers } from './entitlements';
 import { simpleParser } from 'mailparser';
 import os from 'os';
 import { extractSignerInfoFromDetachedSignature } from './udfDetachedSignatureInfo';
 import { loadAppPreferences, patchAppPreferences, pushWorkspaceRecent, type AppPreferences } from './appPreferences';
 import { rebuildApplicationMenu, registerApplicationMenuIpc, MENU_CHANNEL } from './applicationMenu';
 import { applyMacAppIcon, configureAppBrandingEarly, resolveBrowserWindowIcon, UDFIX_APP_NAME } from './appBranding';
+import { installIpcSecurityGuard } from './ipcAllowlist';
 import {
     buildRendererEntryHref,
     getRendererIndexHtmlPath,
@@ -31,6 +31,9 @@ import { registerUdfixWithLaunchServices, reassertUdfDefaultHandlerIfEnabled } f
 import { registerUdfQuickLookPlugins } from './macUdfQuickLook';
 import { DEST_DIR_APP_OWNED, isAppOwnedEvrakPath, purgeAppOwnedUyapPreviewDirs } from './uyapEvrakStorage';
 import { startCalendarReminderService, stopCalendarReminderService } from './calendarReminderService';
+import { assertUserFsPathAllowed } from './fsPathPolicy';
+import { isNomaiFileServingAllowed } from './nomaiFileProtocol';
+import { loadPrintHtmlFile, PRINT_WINDOW_WEB_PREFERENCES } from './printHtml';
 
 class UyapSigningError extends Error {
     readonly code: string;
@@ -59,7 +62,7 @@ protocol.registerSchemesAsPrivileged([
             secure: true,
             supportFetchAPI: true,
             stream: true,
-            bypassCSP: true,
+            bypassCSP: false,
         },
     },
 ]);
@@ -69,7 +72,7 @@ function rendererWebPreferences(): WebPreferences {
         preload: path.join(__dirname, 'preload.js'),
         contextIsolation: true,
         nodeIntegration: false,
-        sandbox: false,
+        sandbox: true,
     };
 }
 
@@ -93,14 +96,7 @@ type FsListEntry = {
 };
 
 const normalizeAbsolutePath = (rawPath: string): string => {
-    if (typeof rawPath !== 'string' || rawPath.trim().length === 0) {
-        throw new Error('Invalid path');
-    }
-    const normalized = path.resolve(rawPath);
-    if (!path.isAbsolute(normalized)) {
-        throw new Error('Only absolute paths are allowed');
-    }
-    return normalized;
+    return assertUserFsPathAllowed(rawPath);
 };
 
 function clampPrintScale(raw: unknown): number {
@@ -184,6 +180,28 @@ async function waitForPrintWindowAssets(printWin: BrowserWindow): Promise<void> 
     }
 }
 
+async function runHeadlessHtmlPrint<T>(
+    documentHtml: string,
+    run: (printWin: BrowserWindow) => Promise<T>,
+): Promise<T> {
+    const printWin = new BrowserWindow({
+        show: false,
+        webPreferences: { ...PRINT_WINDOW_WEB_PREFERENCES },
+    });
+    printWin.setSize(1400, 2200);
+    let tempDir: string | undefined;
+    try {
+        tempDir = await loadPrintHtmlFile(printWin, documentHtml);
+        await waitForPrintWindowAssets(printWin);
+        return await run(printWin);
+    } finally {
+        printWin.close();
+        if (tempDir) {
+            await fs.promises.rm(tempDir, { recursive: true, force: true }).catch(() => undefined);
+        }
+    }
+}
+
 function createWindow(): BrowserWindow {
     if (mainWindow && !mainWindow.isDestroyed()) {
         return mainWindow;
@@ -225,6 +243,7 @@ function createWindow(): BrowserWindow {
 
 app.whenReady().then(async () => {
     startupMark('main:whenReady');
+    installIpcSecurityGuard();
     applyMacAppIcon();
     startupMark('main:branding');
     registerRendererSecurityHandlers();
@@ -233,6 +252,10 @@ app.whenReady().then(async () => {
         try {
             const raw = decodeURIComponent(request.url.replace(/^nomai-file:\/\//i, ''));
             const filePath = normalizeAbsolutePath(raw);
+            if (!isNomaiFileServingAllowed(filePath) || !fs.existsSync(filePath)) {
+                callback({ error: -6 });
+                return;
+            }
             callback({ path: filePath });
         } catch {
             callback({ error: -2 });
@@ -264,7 +287,6 @@ app.whenReady().then(async () => {
     }
     registerDatabaseHandlers();
     startupMark('main:ipc db handlers');
-    registerEntitlementHandlers(userDataPath);
     registerApplicationMenuIpc();
     startupMark('main:menu ipc');
     registerUpdateHandlers();
@@ -291,10 +313,14 @@ app.whenReady().then(async () => {
     });
 
     ipcMain.handle('fs-file-url', (_event, rawPath: string) => {
-        const filePath = String(rawPath || '').trim();
-        if (!filePath || !fs.existsSync(filePath)) return null;
-        const normalized = filePath.replace(/\\/g, '/');
-        return `nomai-file://${encodeURI(normalized)}`;
+        try {
+            const filePath = normalizeAbsolutePath(String(rawPath || ''));
+            if (!fs.existsSync(filePath) || !isNomaiFileServingAllowed(filePath)) return null;
+            const normalized = filePath.replace(/\\/g, '/');
+            return `nomai-file://${encodeURI(normalized)}`;
+        } catch {
+            return null;
+        }
     });
 
     ipcMain.handle('app-preferences-get', (): AppPreferences => loadAppPreferences());
@@ -746,38 +772,23 @@ app.whenReady().then(async () => {
         });
 
         if (filePath) {
-            const printWin = new BrowserWindow({
-                show: false,
-                webPreferences: {
-                    nodeIntegration: false,
-                    contextIsolation: true
-                }
-            });
-            // The default hidden-window viewport (~800px wide) reflows PaginationPlus
-            // and produces extra PDF pages. Sizing the window to comfortably hold an
-            // A4 column at 96 DPI keeps the float-based page geometry stable.
-            printWin.setSize(1400, 2200);
-
             try {
                 const printExtras =
                     isNewPayload && typeof (payload as { printToPdfOptions?: unknown }).printToPdfOptions === 'object'
                         ? ((payload as { printToPdfOptions?: Record<string, unknown> }).printToPdfOptions ?? {})
                         : {};
 
-                await printWin.loadURL('data:text/html;charset=utf-8,' + encodeURIComponent(documentHtml));
-                await waitForPrintWindowAssets(printWin);
-
                 const useChromeHeaderFooter = (printExtras as Record<string, unknown>).displayHeaderFooter === true;
                 const printOptions = normalizePdfPrintOptions(printExtras, useChromeHeaderFooter);
-                const data = await printWin.webContents.printToPDF({
-                    ...printOptions,
-                } as any);
+                const data = await runHeadlessHtmlPrint(documentHtml, (printWin) =>
+                    printWin.webContents.printToPDF({
+                        ...printOptions,
+                    } as never),
+                );
                 await fs.promises.writeFile(filePath, data);
             } catch (error) {
                 console.error('PDF export error:', error);
                 throw error;
-            } finally {
-                printWin.close();
             }
         }
     }
@@ -845,29 +856,17 @@ app.whenReady().then(async () => {
             throw new Error('convert-html-to-pdf: geçersiz payload');
         }
 
-        const printWin = new BrowserWindow({
-            show: false,
-            webPreferences: {
-                nodeIntegration: false,
-                contextIsolation: true,
-            },
-        });
-        printWin.setSize(1400, 2200);
-
         try {
-            await printWin.loadURL('data:text/html;charset=utf-8,' + encodeURIComponent(documentHtml));
-            await waitForPrintWindowAssets(printWin);
             const printOptions = normalizePdfPrintOptions(
                 { margins: { top: 0, bottom: 0, left: 0, right: 0 }, ...printExtras },
                 false,
             );
-            const data = await printWin.webContents.printToPDF(printOptions as never);
-            return data;
+            return await runHeadlessHtmlPrint(documentHtml, (printWin) =>
+                printWin.webContents.printToPDF(printOptions as never),
+            );
         } catch (error) {
             console.error('HTML to PDF conversion error:', error);
             throw error;
-        } finally {
-            printWin.close();
         }
     });
 
@@ -879,7 +878,7 @@ app.whenReady().then(async () => {
             if (payload.buffer) {
                 buffer = Buffer.from(new Uint8Array(payload.buffer));
             } else if (payload.path) {
-                buffer = await fs.promises.readFile(payload.path);
+                buffer = await fs.promises.readFile(normalizeAbsolutePath(payload.path));
             } else {
                 throw new Error('parse-email requires buffer or path');
             }
@@ -914,14 +913,25 @@ app.whenReady().then(async () => {
     });
 
     // Save attachment to temp and return path
-    ipcMain.handle('save-attachment-temp', async (event, buffer: Buffer | ArrayBuffer | Uint8Array, filename: string) => {
+    ipcMain.handle('save-attachment-temp', async (_event, buffer: Buffer | ArrayBuffer | Uint8Array, filename: string) => {
         const tempDir = path.join(os.tmpdir(), 'nomai-attachments');
-        if (!fs.existsSync(tempDir)) fs.mkdirSync(tempDir, { recursive: true });
+        fs.mkdirSync(tempDir, { recursive: true });
+
+        const safeName = path.basename(String(filename ?? ''));
+        if (!safeName || safeName === '.' || safeName === '..') {
+            throw new Error('Invalid attachment filename');
+        }
+
+        const root = path.resolve(tempDir);
+        const dest = path.resolve(root, `${Date.now()}-${safeName}`);
+        const rel = path.relative(root, dest);
+        if (!rel || rel.startsWith('..') || path.isAbsolute(rel)) {
+            throw new Error('Invalid attachment path');
+        }
 
         const buf = Buffer.isBuffer(buffer) ? buffer : Buffer.from(new Uint8Array(buffer));
-        const filePath = path.join(tempDir, Date.now() + '-' + filename);
-        await fs.promises.writeFile(filePath, buf);
-        return filePath;
+        await fs.promises.writeFile(dest, buf);
+        return dest;
     });
 
     // Open Separate Viewer Window

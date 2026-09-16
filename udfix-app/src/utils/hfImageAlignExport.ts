@@ -1,5 +1,6 @@
 import type { Editor } from '@tiptap/react';
 import { NodeSelection } from '@tiptap/pm/state';
+import { parseHtmlFragment } from './sanitizeDocumentHtml';
 
 /** HF logo/image horizontal alignment for UDF raster + normalize (html2canvas ignores text-align). */
 
@@ -104,8 +105,8 @@ export function applyHfImageAlignStylesInHtml(html: string): string {
     const trimmed = (html || '').trim();
     if (!trimmed || !/<img\b/i.test(trimmed) || typeof document === 'undefined') return html;
 
-    const wrap = document.createElement('div');
-    wrap.innerHTML = trimmed;
+    const wrap = parseHtmlFragment(trimmed);
+    if (!wrap) return html;
     applyHfImageAlignStylesToDom(wrap);
     return wrap.innerHTML;
 }
@@ -186,8 +187,8 @@ export function ensureParagraphAlignFromImgDataAlignInHtml(html: string): string
     const trimmed = (html || '').trim();
     if (!trimmed || !/<img\b/i.test(trimmed) || typeof document === 'undefined') return html;
 
-    const wrap = document.createElement('div');
-    wrap.innerHTML = trimmed;
+    const wrap = parseHtmlFragment(trimmed);
+    if (!wrap) return html;
     for (const img of wrap.querySelectorAll<HTMLImageElement>('img')) {
         const fromData = normalizeAlign(img.getAttribute('data-hf-align'));
         if (!fromData) continue;

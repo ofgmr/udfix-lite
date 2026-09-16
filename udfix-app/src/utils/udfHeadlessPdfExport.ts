@@ -7,6 +7,7 @@ import { resolveUdfEditorInitialContent } from './udfEditorContent';
 import { applyUyapImportMetaToEditor } from './uyapImportApply';
 import { parseUyapImportMeta } from './uyapImportMeta';
 import { getElectronInvoke } from './electronBridge';
+import { sanitizeTrustedDocumentHtml } from './sanitizeDocumentHtml';
 import type { UyapVerificationMeta } from './uyapVerification';
 
 const BATCH_EDITOR_HOST_ID = 'udfix-udf-batch-pdf-host';
@@ -95,7 +96,7 @@ export async function renderUdfContentXmlToPdfBytes(
         });
         const invoke = getElectronInvoke();
         const pdfBuffer = await invoke('convert-html-to-pdf', {
-            documentHtml,
+            documentHtml: sanitizeTrustedDocumentHtml(documentHtml),
             printToPdfOptions,
         });
         const pdfBytes = bytesFromIpcPdf(pdfBuffer);

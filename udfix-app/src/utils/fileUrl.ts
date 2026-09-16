@@ -15,6 +15,33 @@ export function isRemoteFetchableUrl(fileUrl: string): boolean {
     return /^(https?:|blob:|data:)/i.test(fileUrl);
 }
 
+const VIEWER_RESOURCE_PROTOCOLS = new Set([
+    'blob:',
+    'http:',
+    'https:',
+    'file:',
+    'nomai-file:',
+]);
+
+/**
+ * Allowlisted URL for `<a href>` / `<img src>` (no `javascript:` / `vbscript:`).
+ * Returns the parsed href so callers assign a checked value, not the raw input.
+ */
+export function toSafeViewerResourceUrl(url: string | null | undefined): string | null {
+    if (!url) return null;
+    try {
+        const parsed = new URL(url);
+        const protocol = parsed.protocol.toLowerCase();
+        if (protocol === 'data:') {
+            return /^data:image\/[a-z0-9.+-]+[;,]/i.test(url) ? parsed.href : null;
+        }
+        if (VIEWER_RESOURCE_PROTOCOLS.has(protocol)) return parsed.href;
+        return null;
+    } catch {
+        return null;
+    }
+}
+
 export function isLocalFileScheme(fileUrl: string): boolean {
     return /^(nomai-file:|file:)/i.test(fileUrl);
 }

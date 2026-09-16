@@ -28,6 +28,7 @@ import { toast, toastUyapSigningError } from '../../lib/glass-utils';
 import { mapUyapSigningErrorMessage } from '../../utils/udfSignatureState';
 import { formatSaveErrorMessage } from '../../utils/saveErrorMessage';
 import { settleUdfSave, settleUdfSaveAs } from '../../utils/udfSaveBus';
+import { sanitizeTrustedDocumentHtml } from '../../utils/sanitizeDocumentHtml';
 
 interface UdfFileEditorPanelProps {
     filePath: string;
@@ -113,8 +114,10 @@ const UdfFileEditorPanel: React.FC<UdfFileEditorPanelProps> = ({ filePath, fileN
                 const protectTemplate = templateAnalysis.isUyapProtectedTemplate;
                 setIsUyapTemplateProtected(protectTemplate);
                 if (protectTemplate) {
-                    const html = stripUyapVerificationFromHtml(
-                        (await parseUyapToHtml(contentXml)) || '<p></p>',
+                    const html = sanitizeTrustedDocumentHtml(
+                        stripUyapVerificationFromHtml(
+                            (await parseUyapToHtml(contentXml)) || '<p></p>',
+                        ),
                     );
                     localStorage.removeItem(`nomai-udf-initial-json-${documentId}`);
                     localStorage.setItem(`nomai-content-${documentId}`, html);
@@ -132,8 +135,10 @@ const UdfFileEditorPanel: React.FC<UdfFileEditorPanelProps> = ({ filePath, fileN
                 }
                 if (!useStructured) {
                     localStorage.removeItem(`nomai-udf-initial-json-${documentId}`);
-                    const html = stripUyapVerificationFromHtml(
-                        (await parseUyapToHtml(contentXml)) || '<p></p>',
+                    const html = sanitizeTrustedDocumentHtml(
+                        stripUyapVerificationFromHtml(
+                            (await parseUyapToHtml(contentXml)) || '<p></p>',
+                        ),
                     );
                     localStorage.setItem(`nomai-content-${documentId}`, html);
                 }

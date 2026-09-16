@@ -2,6 +2,7 @@ import { getPdfFontFaceStyleBlock } from '../fonts/pdfFontFaceHtml';
 import { getListStylesCSS } from './listStylesExport';
 import { compileHfHtml, type CompileHfOptions } from './compileHfHtml';
 import { EDITOR_PAGE_WIDTH_PX } from './editorLayout';
+import { stripNestedStyleTagTokens } from './stripHtmlTags';
 
 /** Page / section breaks + optional continuous section marker */
 export function getUdfixBreakAndSectionCss(): string {
@@ -137,7 +138,7 @@ export function collectThemeAndPaginationVars(proseMirrorRoot: HTMLElement): str
  */
 export function buildPdfBodyTypographyDeclsFromProseMirror(pmRoot: HTMLElement): string {
     const cs = getComputedStyle(pmRoot);
-    const ffSafe = (cs.fontFamily || 'system-ui, sans-serif').replace(/<\/?style/gi, '');
+    const ffSafe = stripNestedStyleTagTokens(cs.fontFamily || 'system-ui, sans-serif');
     const rows = [
         `font-family: ${ffSafe}`,
         `font-size: ${cs.fontSize}`,

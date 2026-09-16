@@ -1,6 +1,7 @@
 import React, { useState, useRef, useCallback, useEffect } from 'react';
 import { TransformWrapper, TransformComponent, useControls } from 'react-zoom-pan-pinch';
 import { enqueueOcr, applyWords } from '../../services/ocrService';
+import { toSafeViewerResourceUrl } from '../../utils/fileUrl';
 
 interface ImageViewerProps {
     src: string;
@@ -88,6 +89,7 @@ const ZoomBar: React.FC<{
 
 // ─── Main Component ───────────────────────────────────────────────────────────
 export const ImageViewer: React.FC<ImageViewerProps> = ({ src, alt = 'Image', lang = 'tur', searchQuery = '' }) => {
+    const safeSrc = toSafeViewerResourceUrl(src);
     const imgRef = useRef<HTMLImageElement>(null);
     const overlayRef = useRef<HTMLDivElement>(null);
 
@@ -198,9 +200,10 @@ export const ImageViewer: React.FC<ImageViewerProps> = ({ src, alt = 'Image', la
                     >
                         {/* Görsel + OCR overlay aynı transform container'ında → zoom birlikte ölçeklenir */}
                         <div style={{ position: 'relative', display: 'inline-block', lineHeight: 0 }}>
+                            {safeSrc ? (
                             <img
                                 ref={imgRef}
-                                src={src}
+                                src={safeSrc}
                                 alt={alt}
                                 draggable={false}
                                 style={{
@@ -212,6 +215,7 @@ export const ImageViewer: React.FC<ImageViewerProps> = ({ src, alt = 'Image', la
                                     cursor: isSelect ? 'default' : 'grab',
                                 }}
                             />
+                            ) : null}
 
                             {/* Invisible OCR text overlay — .ocr-overlay CSS kuralları ile yönetilir */}
                             <div

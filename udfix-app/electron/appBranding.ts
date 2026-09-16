@@ -1,7 +1,6 @@
 import { app, BrowserWindow, nativeImage } from 'electron';
 import fs from 'fs';
 import path from 'path';
-import { pathToFileURL } from 'url';
 
 export const UDFIX_APP_NAME = 'UDFIX';
 
@@ -170,7 +169,7 @@ export function showAboutDialog(): void {
         htmlFile: 'AboutWindow.html',
         query: {
             v: app.getVersion(),
-            logo: pathToFileURL(resolveAboutLogoPath()).href,
+            logoFile: loadBrandingManifest().aboutLogoSvg,
         },
     });
 

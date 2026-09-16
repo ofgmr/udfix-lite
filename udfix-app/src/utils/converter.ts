@@ -1,4 +1,5 @@
 import xml2js from 'xml2js';
+import { XML2JS_SAFE_OPTIONS } from './xml2jsSafe';
 import type {
     XmlCell,
     XmlParagraph,
@@ -158,6 +159,10 @@ export function udfXmlContainsTable(xmlData: string): boolean {
     return /<table[\s>]/.test(xmlData);
 }
 
+function createUyapXmlParser(extra?: ConstructorParameters<typeof xml2js.Parser>[0]) {
+    return new xml2js.Parser({ ...XML2JS_SAFE_OPTIONS, ...extra });
+}
+
 /** Nested `<table>` inside a cell forces HTML import path. */
 export function udfXmlHasNestedTable(xmlData: string): boolean {
     return /<cell[\s>][\s\S]*?<table[\s>]/i.test(xmlData);
@@ -165,7 +170,7 @@ export function udfXmlHasNestedTable(xmlData: string): boolean {
 
 async function parseParagraphFragment(xml: string): Promise<XmlParagraph | null> {
     const wrapped = `<?xml version="1.0"?><root>${xml}</root>`;
-    const parser = new xml2js.Parser({ explicitArray: true });
+    const parser = createUyapXmlParser({ explicitArray: true });
     try {
         const parsed = (await parser.parseStringPromise(wrapped)) as { root?: { paragraph?: XmlParagraph[] } };
         return parsed.root?.paragraph?.[0] ?? null;
@@ -176,7 +181,7 @@ async function parseParagraphFragment(xml: string): Promise<XmlParagraph | null>
 
 async function parseTableFragment(xml: string): Promise<XmlTable | null> {
     const wrapped = `<?xml version="1.0"?><root>${xml}</root>`;
-    const parser = new xml2js.Parser({
+    const parser = createUyapXmlParser({
         explicitArray: true,
         explicitChildren: true,
         preserveChildrenOrder: true,
@@ -420,7 +425,7 @@ function pageBreakHtml(): string {
 async function parseParagraphsInBand(xml: string): Promise<XmlParagraph[]> {
     const inner = xml.replace(/^<(header|footer)\b[^>]*>/i, '').replace(/<\/(header|footer)>$/i, '');
     const wrapped = `<?xml version="1.0"?><band>${inner}</band>`;
-    const parser = new xml2js.Parser({ explicitArray: true });
+    const parser = createUyapXmlParser({ explicitArray: true });
     try {
         const parsed = (await parser.parseStringPromise(wrapped)) as {
             band?: { paragraph?: XmlParagraph[] };
@@ -447,7 +452,7 @@ async function renderUyapBandToHtml(
 }
 
 export async function parseUyapToTipTap(xmlData: string): Promise<TiptapDoc | null> {
-    const parser = new xml2js.Parser();
+    const parser = createUyapXmlParser();
 
     try {
         const result = (await parser.parseStringPromise(xmlData)) as XmlParseResult;
@@ -501,7 +506,7 @@ export async function parseUyapToHtml(
     xmlData: string,
     options?: ParseUyapToHtmlOptions,
 ): Promise<string | null> {
-    const parser = new xml2js.Parser();
+    const parser = createUyapXmlParser();
 
     try {
         const result = (await parser.parseStringPromise(xmlData)) as XmlParseResult;

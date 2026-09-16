@@ -1,6 +1,7 @@
 import type { Editor } from '@tiptap/core';
 import type { JSONContent } from '../types/tiptapContent';
 import JSZip from 'jszip';
+import { assertArchiveByteLimit, assertLoadedZipBudget } from './zipBombGuard';
 import { saveAs } from 'file-saver';
 import { parseUyapToTipTap, parseUyapToHtml, type TiptapDoc } from './converter';
 import { sanitizeExportBaseName } from './sanitizeExportBaseName';
@@ -294,8 +295,10 @@ type UdfPayloadLoadResult = {
 
 async function loadUdfPayload(file: File): Promise<UdfPayloadLoadResult> {
     const bytes = await readUdfFileBytes(file);
+    assertArchiveByteLimit(bytes.byteLength);
     if (isZipArchiveBytes(bytes)) {
         const zip = await new JSZip().loadAsync(bytes);
+        assertLoadedZipBudget(zip);
         const contentFile = zip.file('content.xml');
         if (!contentFile) {
             throw new Error('Geçersiz UYAP Dosyası: content.xml bulunamadı.');

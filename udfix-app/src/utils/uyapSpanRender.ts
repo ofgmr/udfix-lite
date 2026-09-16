@@ -1,6 +1,8 @@
 import type { UyapRenderedSpan } from './uyapFieldResolver';
 import { uyapArgbToCssColor } from './uyapColor';
 
+const SAFE_CSS_FONT_FAMILY = /^[A-Za-z0-9 ._-]+$/;
+
 export function escapeHtml(value: string): string {
     return value
         .replace(/&/g, '&amp;')
@@ -10,6 +12,13 @@ export function escapeHtml(value: string): string {
         .replace(/'/g, '&#39;');
 }
 
+/** Allow only CSS font-family identifiers; omit the declaration when unsafe. */
+function sanitizeCssFontFamily(family: string): string | null {
+    const stripped = family.replace(/["';\\<>]/g, '').trim();
+    if (!stripped || !SAFE_CSS_FONT_FAMILY.test(stripped)) return null;
+    return stripped;
+}
+
 function spanAttrsToInlineStyle(attrs: Record<string, string | undefined> | undefined): string {
     if (!attrs) return '';
     let spanStyle = '';
@@ -17,15 +26,23 @@ function spanAttrsToInlineStyle(attrs: Record<string, string | undefined> | unde
     if (attrs.italic === 'true') spanStyle += 'font-style: italic;';
     if (attrs.underline === 'true') spanStyle += 'text-decoration: underline;';
     if (attrs.strikethrough === 'true') spanStyle += 'text-decoration: line-through;';
-    if (attrs.family) spanStyle += `font-family: ${attrs.family};`;
-    if (attrs.size) spanStyle += `font-size: ${attrs.size}pt;`;
+    if (attrs.family) {
+        const family = sanitizeCssFontFamily(attrs.family);
+        if (family) spanStyle += `font-family: ${family};`;
+    }
+    if (attrs.size) {
+        const size = String(attrs.size).trim();
+        if (/^\d+(?:\.\d+)?$/.test(size)) {
+            spanStyle += `font-size: ${size}pt;`;
+        }
+    }
     if (attrs.foreground) {
         const cssColor = uyapArgbToCssColor(attrs.foreground);
-        spanStyle += `color: ${cssColor ?? attrs.foreground};`;
+        if (cssColor) spanStyle += `color: ${cssColor};`;
     }
     if (attrs.background) {
         const cssBg = uyapArgbToCssColor(attrs.background);
-        spanStyle += `background-color: ${cssBg ?? (attrs.background === '-256' ? '#ffff00' : attrs.background)};`;
+        if (cssBg) spanStyle += `background-color: ${cssBg};`;
     }
     return spanStyle;
 }
