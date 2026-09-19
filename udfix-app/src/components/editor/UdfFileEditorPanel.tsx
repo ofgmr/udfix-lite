@@ -45,6 +45,11 @@ function basenameFromPath(filePath: string): string {
     return slash >= 0 ? filePath.slice(slash + 1) : filePath;
 }
 
+/** Open-tab HTML draft for TipTap. Local-first cache, not a credential. */
+function writeUdfEditorHtmlDraft(documentId: string, html: string): void {
+    localStorage.setItem(`nomai-content-${documentId}`, html);
+}
+
 const UdfFileEditorPanel: React.FC<UdfFileEditorPanelProps> = ({ filePath, fileName }) => {
     const [isLoading, setIsLoading] = React.useState(true);
     const [error, setError] = React.useState<string | null>(null);
@@ -120,7 +125,7 @@ const UdfFileEditorPanel: React.FC<UdfFileEditorPanelProps> = ({ filePath, fileN
                         ),
                     );
                     localStorage.removeItem(`nomai-udf-initial-json-${documentId}`);
-                    localStorage.setItem(`nomai-content-${documentId}`, html);
+                    writeUdfEditorHtmlDraft(documentId, html);
                     return;
                 }
 
@@ -140,7 +145,7 @@ const UdfFileEditorPanel: React.FC<UdfFileEditorPanelProps> = ({ filePath, fileN
                             (await parseUyapToHtml(contentXml)) || '<p></p>',
                         ),
                     );
-                    localStorage.setItem(`nomai-content-${documentId}`, html);
+                    writeUdfEditorHtmlDraft(documentId, html);
                 }
             } catch (e: unknown) {
                 if (!cancelled) {

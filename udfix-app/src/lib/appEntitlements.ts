@@ -2,6 +2,14 @@ import type { UyapDashboardStats } from '../services/dataService';
 
 export const KATIR_UPGRADE_URL = 'https://udfiix.app/indir#katir';
 
+export type EntitlementPhase =
+    | 'anonymous'
+    | 'authenticated'
+    | 'entitled'
+    | 'grace'
+    | 'expired'
+    | 'revoked';
+
 export type AppEntitlements = {
     edition: 'lite' | 'katir';
     katirLive: boolean;
@@ -9,6 +17,14 @@ export type AppEntitlements = {
     upgradePending: boolean;
     hasAccountToken: boolean;
     accountEmail: string | null;
+    signedIn: boolean;
+    phase: EntitlementPhase;
+    periodEndsAt: string | null;
+    graceEndsAt: string | null;
+    reason: string;
+    source: string;
+    seatBound: boolean;
+    boundLawyerName: string | null;
 };
 
 export function dashboardHasKatirCorpus(

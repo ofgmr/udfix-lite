@@ -1365,6 +1365,14 @@ export const DataService = {
         upgradePending: boolean;
         hasAccountToken: boolean;
         accountEmail: string | null;
+        signedIn: boolean;
+        phase: 'anonymous' | 'authenticated' | 'entitled' | 'grace' | 'expired' | 'revoked';
+        periodEndsAt: string | null;
+        graceEndsAt: string | null;
+        reason: string;
+        source: string;
+        seatBound: boolean;
+        boundLawyerName: string | null;
     }> {
         try {
             const invoke = getInvoke();
@@ -1375,7 +1383,16 @@ export const DataService = {
                 upgradePending?: boolean;
                 hasAccountToken?: boolean;
                 accountEmail?: string | null;
+                signedIn?: boolean;
+                phase?: 'anonymous' | 'authenticated' | 'entitled' | 'grace' | 'expired' | 'revoked';
+                periodEndsAt?: string | null;
+                graceEndsAt?: string | null;
+                reason?: string;
+                source?: string;
+                seatBound?: boolean;
+                boundLawyerName?: string | null;
             }>('app-entitlements-get');
+            const phase = row?.phase;
             return {
                 edition: row?.edition === 'katir' ? 'katir' : 'lite',
                 katirLive: row?.katirLive === true,
@@ -1383,6 +1400,21 @@ export const DataService = {
                 upgradePending: row?.upgradePending === true,
                 hasAccountToken: row?.hasAccountToken === true,
                 accountEmail: row?.accountEmail ?? null,
+                signedIn: row?.signedIn === true,
+                phase:
+                    phase === 'authenticated' ||
+                    phase === 'entitled' ||
+                    phase === 'grace' ||
+                    phase === 'expired' ||
+                    phase === 'revoked'
+                        ? phase
+                        : 'anonymous',
+                periodEndsAt: row?.periodEndsAt ?? null,
+                graceEndsAt: row?.graceEndsAt ?? null,
+                reason: typeof row?.reason === 'string' ? row.reason : '',
+                source: typeof row?.source === 'string' ? row.source : 'none',
+                seatBound: row?.seatBound === true,
+                boundLawyerName: typeof row?.boundLawyerName === 'string' ? row.boundLawyerName : null,
             };
         } catch {
             return {
@@ -1392,7 +1424,33 @@ export const DataService = {
                 upgradePending: false,
                 hasAccountToken: false,
                 accountEmail: null,
+                signedIn: false,
+                phase: 'anonymous',
+                periodEndsAt: null,
+                graceEndsAt: null,
+                reason: 'Oturum yok.',
+                source: 'none',
+                seatBound: false,
+                boundLawyerName: null,
             };
+        }
+    },
+
+    async signInAccount(email: string): Promise<{ ok: boolean; error?: string }> {
+        try {
+            const invoke = getInvoke();
+            return await invoke('app-account-sign-in', { email });
+        } catch (err) {
+            return { ok: false, error: err instanceof Error ? err.message : String(err) };
+        }
+    },
+
+    async signOutAccount(): Promise<{ ok: boolean; error?: string }> {
+        try {
+            const invoke = getInvoke();
+            return await invoke('app-account-sign-out');
+        } catch (err) {
+            return { ok: false, error: err instanceof Error ? err.message : String(err) };
         }
     },
 
@@ -1703,6 +1761,14 @@ export type UyapBridgeStatus = {
     scheduleEnabled?: boolean;
     lastEvrakScanAt?: string | null;
     catalogCoverage?: string | null;
+    seat?: {
+        bound?: boolean;
+        fullName?: string | null;
+        verified?: boolean;
+        mismatch?: boolean;
+        seenFullName?: string | null;
+        error?: string | null;
+    };
     error?: string;
 };
 

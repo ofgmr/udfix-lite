@@ -43,11 +43,7 @@ import {
     type KatirChartSeries,
 } from '../../lib/uyapChartPrefs';
 import { toKatirPlotMonths, type ChartPlotMonth } from '../../lib/uyapChartMath';
-import {
-    KATIR_UPGRADE_URL,
-    dashboardHasKatirCorpus,
-    type AppEntitlements,
-} from '../../lib/appEntitlements';
+import { KATIR_UPGRADE_URL, dashboardHasKatirCorpus, type AppEntitlements } from '../../lib/appEntitlements';
 
 const SEARCH_DEBOUNCE_MS = 250;
 const RECENT_UYAP_EVRAK_LIMIT = 100;
@@ -183,9 +179,37 @@ function jobProgressLine(job?: string | null): string {
     }
 }
 
-function liveLine(status: UyapBridgeStatus | null, katirLive: boolean): string {
-    if (!katirLive) return 'Katır edinin — Katır yok, köprü kapalı.';
+function liveLine(status: UyapBridgeStatus | null, entitlements: AppEntitlements | null): string {
+    const katirLive = entitlements?.katirLive === true;
+    if (!katirLive) {
+        switch (entitlements?.phase) {
+            case 'authenticated':
+                return 'Üyelik yok — köprü kapalı.';
+            case 'expired':
+                return 'Üyelik süresi doldu — köprü kapalı.';
+            case 'revoked':
+                return 'Üyelik iptal edildi — köprü kapalı.';
+            case 'entitled':
+            case 'grace':
+                return 'Katır paketi yok, köprü kapalı.';
+            case 'anonymous':
+            case undefined:
+                return 'Katır için e-posta ile giriş yapın.';
+            default: {
+                const _never: never = entitlements?.phase as never;
+                void _never;
+                return 'Katır yok, köprü kapalı.';
+            }
+        }
+    }
     if (!status?.up) return 'Katır bağlı değil. UYAP Avukat Portal\'ına giriş yapınız.';
+    if (status.seat?.mismatch) {
+        const bound = status.seat.fullName || entitlements?.boundLawyerName || 'kayıtlı avukat';
+        const seen = status.seat.seenFullName;
+        return seen
+            ? `Bu üyelik ${bound} için; açık UYAP oturumu ${seen}.`
+            : `Bu üyelik ${bound} için. Chrome’da o avukatın UYAP oturumunu açın.`;
+    }
     if (status.walkRunning) {
         const p = status.lastWalk?.progress;
         const quiet =
@@ -216,7 +240,7 @@ function liveLine(status: UyapBridgeStatus | null, katirLive: boolean): string {
         }
         return `${jobLabel(status.lastWalk.job)} tamamlandı.`;
     }
-    if (!status.sessionReady) return 'Eklentide Katır hesabı ve UYAP oturumu açık olsun.';
+    if (!status.sessionReady) return 'UYAP Avukat Portal sekmesini açın.';
     return 'Oturum hazır.';
 }
 
@@ -231,6 +255,141 @@ function formatScanClock(iso?: string | null): string | null {
         hour: '2-digit',
         minute: '2-digit',
     });
+}
+
+type MembershipTone = 'neutral' | 'warning' | 'danger';
+
+type MembershipCopy = {
+    icon: string;
+    badge: string;
+    title: string;
+    body: string;
+    tone: MembershipTone;
+    dateLabel: string | null;
+    dateIso: string | null;
+    acquireLabel: string;
+};
+
+function membershipCopy(entitlements: AppEntitlements): MembershipCopy {
+    const { phase, katirLive, upgradePending, periodEndsAt, graceEndsAt } = entitlements;
+    if (upgradePending && !katirLive) {
+        return {
+            icon: 'system_update',
+            badge: 'Güncelleme',
+            title: 'Katır Paketi Bekleniyor',
+            body: 'Üyelik alındı. Güncelleme bitince köprü açılır.',
+            tone: 'neutral',
+            dateLabel: periodEndsAt ? 'Bitiş' : null,
+            dateIso: periodEndsAt,
+            acquireLabel: 'Güncellemeyi Denetle',
+        };
+    }
+    switch (phase) {
+        case 'anonymous':
+            return {
+                icon: 'login',
+                badge: 'Giriş',
+                title: 'Katır’a Giriş',
+                body: 'E-posta ile giriş yapın. Üyelik olmadan köprü açılmaz.',
+                tone: 'neutral',
+                dateLabel: null,
+                dateIso: null,
+                acquireLabel: 'Katır Edin',
+            };
+        case 'authenticated':
+            return {
+                icon: 'card_membership',
+                badge: 'Üyelik Yok',
+                title: 'Katır Üyeliği',
+                body: 'Oturum açık. UYAP senkronizasyonu için Katır üyeliği gerekir.',
+                tone: 'neutral',
+                dateLabel: null,
+                dateIso: null,
+                acquireLabel: 'Katır Edin',
+            };
+        case 'entitled':
+            return {
+                icon: katirLive ? 'verified' : 'inventory_2',
+                badge: 'Üye',
+                title: katirLive ? 'Katır Üyeliği' : 'Katır Paketi Yok',
+                body: katirLive
+                    ? 'Üyelik dönemi içinde.'
+                    : 'Üyelik var. Bu kurulumda canlı yol kapalı.',
+                tone: katirLive ? 'neutral' : 'warning',
+                dateLabel: periodEndsAt ? 'Bitiş' : null,
+                dateIso: periodEndsAt,
+                acquireLabel: 'Güncellemeyi Denetle',
+            };
+        case 'grace':
+            return {
+                icon: 'schedule',
+                badge: 'Ek Süre',
+                title: 'Üyelik Doldu',
+                body: katirLive
+                    ? 'Köprü ek süre boyunca açık kalır. Süre bitince senkronizasyon durur.'
+                    : 'Üyelik doldu. Bu kurulumda canlı yol kapalı.',
+                tone: 'warning',
+                dateLabel: graceEndsAt ? 'Ek Süre Sonu' : periodEndsAt ? 'Bitiş' : null,
+                dateIso: graceEndsAt || periodEndsAt,
+                acquireLabel: 'Katır Yenile',
+            };
+        case 'expired':
+            return {
+                icon: 'event_busy',
+                badge: 'Süre Doldu',
+                title: 'Üyelik Süresi Doldu',
+                body: 'UYAP senkronizasyonu durdu. Yerel kayıtlar durur.',
+                tone: 'danger',
+                dateLabel: periodEndsAt ? 'Bitiş' : null,
+                dateIso: periodEndsAt,
+                acquireLabel: 'Katır Yenile',
+            };
+        case 'revoked':
+            return {
+                icon: 'block',
+                badge: 'İptal',
+                title: 'Üyelik İptal Edildi',
+                body: 'UYAP senkronizasyonu durdu. Köprü kapalı.',
+                tone: 'danger',
+                dateLabel: null,
+                dateIso: null,
+                acquireLabel: 'Katır Edin',
+            };
+        default: {
+            const _never: never = phase;
+            return _never;
+        }
+    }
+}
+
+function membershipToneClass(tone: MembershipTone): string {
+    switch (tone) {
+        case 'warning':
+            return 'border-amber-500/40 bg-amber-500/[0.08]';
+        case 'danger':
+            return 'border-destructive/40 bg-destructive/[0.06]';
+        case 'neutral':
+            return '';
+        default: {
+            const _never: never = tone;
+            return _never;
+        }
+    }
+}
+
+function membershipBadgeClass(tone: MembershipTone): string {
+    switch (tone) {
+        case 'warning':
+            return 'border-amber-500/40 text-amber-800 dark:text-amber-300';
+        case 'danger':
+            return 'border-destructive/40 text-destructive';
+        case 'neutral':
+            return 'border-border/70 text-muted-foreground';
+        default: {
+            const _never: never = tone;
+            return _never;
+        }
+    }
 }
 
 function lastResultLine(status: UyapBridgeStatus | null): string | null {
@@ -1449,12 +1608,27 @@ function TrailingMetricsGrid({
     );
 }
 
-function KatirUpsellPanel({
+function KatirMembershipPanel({
     entitlements,
+    onChanged,
+    variant,
 }: {
     entitlements: AppEntitlements;
+    onChanged?: () => void;
+    variant: 'gate' | 'grace';
 }) {
     const [busy, setBusy] = useState(false);
+    const [email, setEmail] = useState(entitlements.accountEmail ?? '');
+    const [error, setError] = useState<string | null>(null);
+    const copy = membershipCopy(entitlements);
+    const dateLine = copy.dateIso ? formatScanClock(copy.dateIso) : null;
+    const showSignIn = variant === 'gate' && !entitlements.signedIn;
+    const showUpdate = copy.acquireLabel === 'Güncellemeyi Denetle';
+    const showAcquire = copy.acquireLabel === 'Katır Edin' || copy.acquireLabel === 'Katır Yenile';
+
+    useEffect(() => {
+        setEmail(entitlements.accountEmail ?? '');
+    }, [entitlements.accountEmail]);
 
     const onUpgradeSite = async () => {
         const result = await DataService.openExternalUrl(KATIR_UPGRADE_URL);
@@ -1471,32 +1645,146 @@ function KatirUpsellPanel({
         }
     };
 
+    const onSignIn = async () => {
+        setBusy(true);
+        setError(null);
+        try {
+            const result = await DataService.signInAccount(email);
+            if (!result.ok) {
+                setError(result.error || 'Giriş başarısız');
+                return;
+            }
+            onChanged?.();
+        } finally {
+            setBusy(false);
+        }
+    };
+
+    const onSignOut = async () => {
+        setBusy(true);
+        try {
+            await DataService.signOutAccount();
+            onChanged?.();
+        } finally {
+            setBusy(false);
+        }
+    };
+
     return (
-        <div className={cn(glassCard, 'flex items-center gap-2 px-3 py-2 text-sm')}>
-            <MaterialIcon icon="sync_desktop" size={16} className="shrink-0 text-primary" />
-            <span className="shrink-0 font-medium">Katır</span>
-            <span className="min-w-0 flex-1 truncate text-xs text-muted-foreground">
-                UYAP Avukat Portal'ına bağlanarak dosyalarınızı sessizce günceller, veri tabanınıza yazar.
-            </span>
-            {entitlements.upgradePending ? (
-                <Button
-                    type="button"
-                    size="sm"
-                    className="h-7 shrink-0 px-2.5"
-                    disabled={busy}
-                    onClick={() => void onResumeUpgrade()}
+        <div className={cn(glassCard, 'flex flex-col gap-3 p-3', membershipToneClass(copy.tone))}>
+            <div className="flex items-start gap-2.5">
+                <MaterialIcon
+                    icon={copy.icon}
+                    size={18}
+                    className={cn(
+                        'mt-0.5 shrink-0',
+                        copy.tone === 'danger'
+                            ? 'text-destructive'
+                            : copy.tone === 'warning'
+                              ? 'text-amber-700 dark:text-amber-300'
+                              : 'text-primary',
+                    )}
+                />
+                <div className="min-w-0 flex-1">
+                    <div className="flex flex-wrap items-center gap-2">
+                        <h2 className="text-sm font-medium text-foreground">{copy.title}</h2>
+                        <span
+                            className={cn(
+                                'rounded-md border px-1.5 py-0.5 text-[10px] font-medium',
+                                membershipBadgeClass(copy.tone),
+                            )}
+                        >
+                            {copy.badge}
+                        </span>
+                    </div>
+                    <p className="mt-1 text-xs leading-relaxed text-muted-foreground">{copy.body}</p>
+                    {copy.dateLabel && dateLine ? (
+                        <p className="mt-1 text-[11px] tabular-nums text-foreground/85">
+                            {copy.dateLabel} {dateLine}
+                        </p>
+                    ) : null}
+                    {entitlements.signedIn && entitlements.accountEmail ? (
+                        <p className="mt-1 truncate text-[11px] text-muted-foreground">{entitlements.accountEmail}</p>
+                    ) : null}
+                </div>
+            </div>
+
+            {showSignIn ? (
+                <form
+                    className="flex min-w-0 flex-col gap-2"
+                    onSubmit={(event) => {
+                        event.preventDefault();
+                        void onSignIn();
+                    }}
                 >
-                    Güncellemeyi denetle
-                </Button>
+                    <Input
+                        type="email"
+                        autoComplete="username"
+                        placeholder="E-posta"
+                        aria-label="E-posta"
+                        value={email}
+                        error={Boolean(error)}
+                        onChange={(event) => setEmail(event.target.value)}
+                        className="h-9 border-border/70 bg-card/45"
+                    />
+                    {error ? <p className="text-xs text-destructive">{error}</p> : null}
+                    <div className="flex flex-wrap items-center gap-2">
+                        <Button
+                            type="submit"
+                            size="sm"
+                            className="h-8 px-3"
+                            disabled={busy || !email.trim()}
+                        >
+                            Giriş Yap
+                        </Button>
+                        <Button
+                            type="button"
+                            size="sm"
+                            variant="ghost"
+                            className="h-8 px-3"
+                            disabled={busy}
+                            onClick={() => void onUpgradeSite()}
+                        >
+                            Katır Edin
+                        </Button>
+                    </div>
+                </form>
             ) : (
-                <Button
-                    type="button"
-                    size="sm"
-                    className="h-7 shrink-0 px-2.5"
-                    onClick={() => void onUpgradeSite()}
-                >
-                    Katır edin
-                </Button>
+                <div className="flex flex-wrap items-center gap-2">
+                    {showUpdate ? (
+                        <Button
+                            type="button"
+                            size="sm"
+                            className="h-8 px-3"
+                            disabled={busy}
+                            onClick={() => void onResumeUpgrade()}
+                        >
+                            Güncellemeyi Denetle
+                        </Button>
+                    ) : showAcquire ? (
+                        <Button
+                            type="button"
+                            size="sm"
+                            className="h-8 px-3"
+                            disabled={busy}
+                            onClick={() => void onUpgradeSite()}
+                        >
+                            {copy.acquireLabel}
+                        </Button>
+                    ) : null}
+                    {entitlements.signedIn && variant === 'gate' ? (
+                        <Button
+                            type="button"
+                            size="sm"
+                            variant="ghost"
+                            className="h-8 px-3"
+                            disabled={busy}
+                            onClick={() => void onSignOut()}
+                        >
+                            Çıkış
+                        </Button>
+                    ) : null}
+                </div>
             )}
         </div>
     );
@@ -1505,11 +1793,11 @@ function KatirUpsellPanel({
 function KatirStatusRow({
     status,
     dash,
-    katirLive,
+    entitlements,
 }: {
     status: UyapBridgeStatus | null;
     dash: UyapDashboardStats | null;
-    katirLive: boolean;
+    entitlements: AppEntitlements | null;
 }) {
     const katirReady = Boolean(status?.up && status.sessionReady);
     const lastScanIso = status?.lastEvrakScanAt || dash?.lastEvrakScanAt || null;
@@ -1538,13 +1826,23 @@ function KatirStatusRow({
 
                 <div className="flex shrink-0 items-center gap-1.5 text-muted-foreground">
                     <StatusDot on={katirReady} />
-                    <span className="hidden sm:inline">{status?.up ? (status.sessionReady ? 'Oturum hazır' : 'Oturum yok') : 'Köprü kapalı'}</span>
+                    <span className="hidden sm:inline">
+                        {status?.up
+                            ? status.seat?.mismatch
+                                ? 'Koltuk uyuşmaz'
+                                : status.sessionReady
+                                  ? entitlements?.boundLawyerName
+                                      ? `Oturum: ${entitlements.boundLawyerName}`
+                                      : 'Oturum hazır'
+                                  : 'Oturum yok'
+                            : 'Köprü kapalı'}
+                    </span>
                 </div>
 
                 <div className="h-3 w-px shrink-0 bg-border/50" />
 
                 <div className="flex min-w-0 flex-1 flex-wrap items-center gap-x-2 gap-y-0.5 text-xs text-muted-foreground">
-                    <span className="truncate text-foreground/90">{liveLine(status, katirLive)}</span>
+                    <span className="truncate text-foreground/90">{liveLine(status, entitlements)}</span>
                     {extra ? <span className="shrink-0 truncate">· {extra}</span> : null}
                     {lastScanLine ? (
                         <span className="shrink-0 tabular-nums text-foreground/85" title="Son damla taraması (app_meta / köprü). Tam ofis turu değil.">
@@ -1569,10 +1867,29 @@ function KatirStatusRow({
                             · 24s +{formatCount(added24h)} evrak
                         </span>
                     ) : null}
+                    {entitlements?.phase === 'entitled' && entitlements.periodEndsAt ? (
+                        <span className="shrink-0 tabular-nums text-foreground/85">
+                            · Üye {formatScanClock(entitlements.periodEndsAt)}
+                        </span>
+                    ) : null}
                 </div>
             </div>
 
-            <div className="shrink-0 pl-2">
+            <div className="flex shrink-0 items-center gap-1 pl-2">
+                {entitlements?.signedIn ? (
+                    <Button
+                        type="button"
+                        size="sm"
+                        variant="ghost"
+                        className="h-6 px-1.5 text-[11px]"
+                        title="Oturumu kapat ve köprüyü durdur"
+                        onClick={() => {
+                            void DataService.signOutAccount();
+                        }}
+                    >
+                        Çıkış
+                    </Button>
+                ) : null}
                 <WalkStatusSummary events={status?.lastWalk?.events} />
             </div>
         </div>
@@ -1755,8 +2072,14 @@ const KatirDashboardPanel = React.memo(function KatirDashboardPanel({
             ) : null}
             {idleOpen ? (
                 <div className={cn(glassCard, 'p-2')}>
-                    <div className="mb-1 text-[10px] font-medium text-muted-foreground">
-                        {`İşlem Bekleyen / Hareketsiz${dash?.idleUsesTasks ? '' : ' (Yalnızca Evrak)'}`}
+                    <div className="mb-1 flex items-baseline justify-between gap-3">
+                        <div className="min-w-0 text-[10px] font-medium text-muted-foreground">
+                            {`İşlem Bekleyen / Hareketsiz${dash?.idleUsesTasks ? '' : ' (Yalnızca Evrak)'}`}
+                        </div>
+                        <div className="shrink-0 text-right text-[10px] text-muted-foreground">
+                            {dash?.idleUsesTasks ? '3 Ay Evrak/Görev Yok' : '3 Ay Evrak Yok'}
+                            {idleTruncated ? ` · ${idleMatters.length}` : ''}
+                        </div>
                     </div>
                     {idleMatters.length === 0 ? (
                         <p className="text-xs text-muted-foreground">Kayıt Yok.</p>
@@ -1783,13 +2106,13 @@ const KatirDashboardPanel = React.memo(function KatirDashboardPanel({
                                             {displayCourtName(row.court_name, 'Mahkeme Yok')}
                                         </span>
                                     </button>
-                                    <span className="inline-flex shrink-0 gap-0.5" aria-label="Snooze">
+                                    <span className="inline-flex shrink-0 gap-0.5" aria-label="Ertelendi">
                                         {HAREKETSIZ_SNOOZE_MONTHS.map((n) => (
                                             <button
                                                 key={n}
                                                 type="button"
                                                 className="rounded border border-border/60 bg-card/45 px-1 py-px text-[9px] tabular-nums text-muted-foreground hover:bg-accent/40"
-                                                title={`${n} ay snooze`}
+                                                title={`${n} ay erteleme`}
                                                 onClick={() => onSnoozeIdle?.(row.id, hareketsizSnoozeUntilIso(n))}
                                             >
                                                 {n}ay
@@ -1801,46 +2124,52 @@ const KatirDashboardPanel = React.memo(function KatirDashboardPanel({
                         </ul>
                     )}
                     {idleSnoozed.length > 0 ? (
-                        <div className="mt-2 border-t border-border/50 pt-2">
-                            <div className="mb-1 text-[10px] font-medium text-muted-foreground">Snooze</div>
-                            <ul className="max-h-28 space-y-0.5 overflow-y-auto">
-                                {idleSnoozed.map((row) => (
-                                    <li key={row.id} className="flex min-w-0 items-center gap-1">
-                                        <button
-                                            type="button"
-                                            className="flex min-w-0 flex-1 items-baseline gap-2 rounded-md px-1 py-0.5 text-left text-xs hover:bg-accent/40"
-                                            onClick={() =>
-                                                onPickMatter?.({
-                                                    id: row.id,
-                                                    title: row.file_number,
-                                                    file_number: row.file_number,
-                                                    court_name: row.court_name,
-                                                    matter_type: null,
-                                                    status: 'OPEN',
-                                                })
-                                            }
-                                        >
-                                            <span className="min-w-0 truncate font-medium tabular-nums">{row.file_number}</span>
-                                            <span className="min-w-0 truncate text-[10px] text-muted-foreground">
-                                                {displayCourtName(row.court_name, 'Mahkeme Yok')}
-                                            </span>
-                                        </button>
-                                        <button
-                                            type="button"
-                                            className="shrink-0 rounded border border-border/60 bg-card/45 px-1.5 py-px text-[9px] text-muted-foreground hover:bg-accent/40"
-                                            onClick={() => onSnoozeIdle?.(row.id, null)}
-                                        >
-                                            Kaldır
-                                        </button>
-                                    </li>
-                                ))}
-                            </ul>
-                        </div>
+                        <Collapsible defaultOpen={false} className="mt-2 border-t border-border/50">
+                            <CollapsibleTrigger className="group flex w-full items-center gap-1 pt-2 text-[10px] font-medium text-muted-foreground hover:text-foreground">
+                                <span className="min-w-0 flex-1 text-left">Ertelendi</span>
+                                <span className="tabular-nums">{idleSnoozed.length}</span>
+                                <MaterialIcon
+                                    icon="expand_more"
+                                    size={14}
+                                    className="shrink-0 transition-transform group-data-[state=open]:rotate-180"
+                                />
+                            </CollapsibleTrigger>
+                            <CollapsibleContent>
+                                <ul className="mt-1 max-h-28 space-y-0.5 overflow-y-auto">
+                                    {idleSnoozed.map((row) => (
+                                        <li key={row.id} className="flex min-w-0 items-center gap-1">
+                                            <button
+                                                type="button"
+                                                className="flex min-w-0 flex-1 items-baseline gap-2 rounded-md px-1 py-0.5 text-left text-xs hover:bg-accent/40"
+                                                onClick={() =>
+                                                    onPickMatter?.({
+                                                        id: row.id,
+                                                        title: row.file_number,
+                                                        file_number: row.file_number,
+                                                        court_name: row.court_name,
+                                                        matter_type: null,
+                                                        status: 'OPEN',
+                                                    })
+                                                }
+                                            >
+                                                <span className="min-w-0 truncate font-medium tabular-nums">{row.file_number}</span>
+                                                <span className="min-w-0 truncate text-[10px] text-muted-foreground">
+                                                    {displayCourtName(row.court_name, 'Mahkeme Yok')}
+                                                </span>
+                                            </button>
+                                            <button
+                                                type="button"
+                                                className="shrink-0 rounded border border-border/60 bg-card/45 px-1.5 py-px text-[9px] text-muted-foreground hover:bg-accent/40"
+                                                onClick={() => onSnoozeIdle?.(row.id, null)}
+                                            >
+                                                Kaldır
+                                            </button>
+                                        </li>
+                                    ))}
+                                </ul>
+                            </CollapsibleContent>
+                        </Collapsible>
                     ) : null}
-                    <p className="mt-1 text-[10px] text-muted-foreground">
-                        {dash?.idleUsesTasks ? '3 Ay Evrak/Görev Yok' : '3 Ay Evrak Yok'}
-                        {idleTruncated ? ` · ${idleMatters.length}` : ''}
-                    </p>
                 </div>
             ) : null}
             <Collapsible defaultOpen={false}>
@@ -2081,9 +2410,14 @@ export const UyapCommandTab: React.FC = () => {
             if (!document.hidden) void refresh();
         };
         document.addEventListener('visibilitychange', onVisibility);
+        const onEntitlements = () => {
+            void refresh();
+        };
+        window.electron?.on?.('app-entitlements-changed', onEntitlements);
         return () => {
             window.clearInterval(timer);
             document.removeEventListener('visibilitychange', onVisibility);
+            window.electron?.off?.('app-entitlements-changed', onEntitlements);
         };
     }, [refresh]);
 
@@ -2348,7 +2682,7 @@ export const UyapCommandTab: React.FC = () => {
         async (matterId: string, untilIso: string | null) => {
             const ok = await DataService.setMatterHareketsizSnooze(matterId, untilIso);
             if (!ok) {
-                toast.error('Snooze kaydedilemedi.');
+                toast.error('Erteleme işlemi kaydedilemedi.');
                 return;
             }
             void refresh();
@@ -2359,10 +2693,19 @@ export const UyapCommandTab: React.FC = () => {
     return (
         <ScrollArea className={cn('h-full', paneScroll)}>
             <div className="flex min-w-0 flex-col gap-2 overflow-x-hidden p-3">
-                {entitlements && !katirLive ? <KatirUpsellPanel entitlements={entitlements} /> : null}
+                {entitlements && !katirLive ? (
+                    <KatirMembershipPanel
+                        entitlements={entitlements}
+                        onChanged={() => void refresh()}
+                        variant="gate"
+                    />
+                ) : null}
+                {entitlements?.phase === 'grace' && katirLive ? (
+                    <KatirMembershipPanel entitlements={entitlements} variant="grace" />
+                ) : null}
                 {showEmptyUpsell ? null : (
                     <>
-                <KatirStatusRow status={status} dash={dash} katirLive={katirLive} />
+                <KatirStatusRow status={status} dash={dash} entitlements={entitlements} />
                 <KatirDashboardPanel dash={dash} onPickMatter={selectMatter} onSnoozeIdle={onSnoozeIdle} />
 
                 <div className="grid min-w-0 gap-2 lg:grid-cols-2">

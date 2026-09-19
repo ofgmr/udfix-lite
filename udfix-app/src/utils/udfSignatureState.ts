@@ -25,7 +25,7 @@ const holderLabelsByDocument = new Map<string, string[]>();
 type PersistedSignatureUiState = {
     signed: boolean;
     signedAtIso: string | null;
-    certificateValidUntilIso: string | null;
+    validUntilIso: string | null;
     invalidatedAtIso?: string | null;
 };
 
@@ -121,14 +121,12 @@ function persistSignatureUiState(documentId: string, metadata: UdfSignatureMetad
     holderLabelsByDocument.set(documentId, metadata.signerNames);
     const signed = metadata.signed === true;
     const signedAtIso = typeof metadata.signedAtIso === 'string' ? metadata.signedAtIso : null;
-    const certificateValidUntilIso =
-        typeof metadata.certificateValidUntilIso === 'string' ? metadata.certificateValidUntilIso : null;
     const invalidatedAtIso =
         typeof metadata.invalidatedAtIso === 'string' ? metadata.invalidatedAtIso : undefined;
     const persisted: PersistedSignatureUiState = {
         signed,
         signedAtIso,
-        certificateValidUntilIso,
+        validUntilIso: typeof metadata.certificateValidUntilIso === 'string' ? metadata.certificateValidUntilIso : null,
     };
     if (invalidatedAtIso) persisted.invalidatedAtIso = invalidatedAtIso;
     localStorage.setItem(keyForDocument(documentId), JSON.stringify(persisted));
@@ -147,8 +145,14 @@ export function readUdfSignatureMetadata(documentId: string): UdfSignatureMetada
     const raw = localStorage.getItem(keyForDocument(safeId));
     if (!raw) return null;
     try {
-        const parsed = JSON.parse(raw) as Partial<UdfSignatureMetadata>;
+        const parsed = JSON.parse(raw) as Partial<UdfSignatureMetadata> & { validUntilIso?: string | null };
         const cachedHolders = holderLabelsByDocument.get(safeId);
+        const validUntilIso =
+            typeof parsed.validUntilIso === 'string'
+                ? parsed.validUntilIso
+                : typeof parsed.certificateValidUntilIso === 'string'
+                  ? parsed.certificateValidUntilIso
+                  : null;
         const normalized = normalizeUdfSignatureMetadata({
             signed: parsed.signed === true,
             signerName: typeof parsed.signerName === 'string' ? parsed.signerName : null,
@@ -160,8 +164,7 @@ export function readUdfSignatureMetadata(documentId: string): UdfSignatureMetada
                       : [],
             signers: Array.isArray(parsed.signers) ? parsed.signers : undefined,
             signedAtIso: typeof parsed.signedAtIso === 'string' ? parsed.signedAtIso : null,
-            certificateValidUntilIso:
-                typeof parsed.certificateValidUntilIso === 'string' ? parsed.certificateValidUntilIso : null,
+            certificateValidUntilIso: validUntilIso,
             invalidatedAtIso: typeof parsed.invalidatedAtIso === 'string' ? parsed.invalidatedAtIso : null,
         });
         if (persistedHasHolderLabels(parsed)) {
