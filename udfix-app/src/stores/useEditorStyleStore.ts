@@ -45,6 +45,7 @@ interface EditorStyleState {
     removePreset: (id: string) => Promise<void>;
     refreshPresets: () => Promise<void>;
     saveBlockDefault: (key: BlockStyleKey, payload: EditorTypographyPayload) => Promise<void>;
+    clearDefaults: () => Promise<void>;
 }
 
 export const useEditorStyleStore = create<EditorStyleState>((set, get) => ({
@@ -141,6 +142,12 @@ export const useEditorStyleStore = create<EditorStyleState>((set, get) => ({
             console.warn('Block style DB save failed; kept in localStorage + memory.', e);
         }
         set({ blockDefaults: next });
+    },
+
+    clearDefaults: async () => {
+        await DataService.setEditorTypographyDefaults({ payload: {}, applyOnOpen: false });
+        const defaults = await DataService.getEditorTypographyDefaults();
+        set({ defaults });
     },
 }));
 

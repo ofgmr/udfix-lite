@@ -1,6 +1,6 @@
 import type { UyapDashboardStats } from '../services/dataService';
 
-export const KATIR_UPGRADE_URL = 'https://udfiix.app/indir#katir';
+export const KATIR_UPGRADE_URL = 'https://udfix.app/lisans';
 
 export type EntitlementPhase =
     | 'anonymous'

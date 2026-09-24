@@ -65,7 +65,7 @@ const SheetContent = React.forwardRef<
       ref={ref}
       className={cn(
         sheetVariants({ side }),
-        variant === "glass" && "glass-panel border-l-[#ffffff20]",
+        variant === "glass" && "glass-panel border-l-border",
         glow && "shadow-lg shadow-purple-500/20",
         className
       )}

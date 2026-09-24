@@ -19,3 +19,15 @@ export function formatShortcutKeys(combo: ShortcutCombo, winCombo?: ShortcutComb
     if (isMacPlatform() || macStr === winStr) return macStr;
     return `${macStr} / ${winStr}`;
 }
+
+/** Spaced modifier glyphs for compact UI (tab chips). Shift is always ⇧ so it stays visible. */
+export function shortcutGlyphs(combo: ShortcutCombo, winCombo?: ShortcutCombo): string[] {
+    const mac = isMacPlatform();
+    const used = !mac && winCombo ? winCombo : combo;
+    const parts: string[] = [];
+    if (used.mod) parts.push(mac ? '⌘' : 'Ctrl');
+    if (used.shift) parts.push('⇧');
+    if (used.alt) parts.push(mac ? '⌥' : 'Alt');
+    parts.push(used.key === 'Enter' ? '↵' : used.key.toUpperCase());
+    return parts;
+}

@@ -395,7 +395,7 @@ export const MevzuatPanel: React.FC = () => {
                             <span className="font-mono">npm run mevzuat:fetch</span>
                         </p>
                     ) : (
-                        <p className="mt-1.5">{packagedCount} metin uygulama ile birlikte gelir.</p>
+                        <p className="mt-1.5">{packagedCount} mevzuat metni. Otomatik olarak güncellenmemektedir.</p>
                     )}
                 </div>
             ) : loading ? (

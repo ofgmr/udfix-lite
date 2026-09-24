@@ -1,0 +1,766 @@
+{
+  "id": "kanun:2911",
+  "kind": "kanun",
+  "no": "2911",
+  "title": "Toplantı ve Gösteri Yürüyüşleri Kanunu",
+  "shortName": "Toplantı ve Gösteri Yürüyüşleri Kanunu",
+  "aliases": [
+    "Toplantı ve Gösteri Yürüyüşleri Kanunu",
+    "2911"
+  ],
+  "tur": 1,
+  "tertip": 5,
+  "sourceUrl": "https://www.mevzuat.gov.tr/mevzuat?MevzuatNo=2911&MevzuatTur=1&MevzuatTertip=5",
+  "kabulTarihi": "6/10/1983",
+  "maddeCount": 44,
+  "maddeler": [
+    {
+      "id": "kanun:2911:m:1",
+      "maddeKind": "madde",
+      "maddeNo": "1",
+      "heading": "Madde 1",
+      "text": "Bu Kanun; toplantı ve gösteri yürüyüşü düzenleme hakkının kullanılmasında uygulanacak şekil, şart ve usuller ile gerçek ve tüzelkişilerin düzenleyecekleri toplantı ve gösteri yürüyüşlerinin yerini, zamanını, usul ve şartlarını, düzenleme kurulunun görev ve sorumluluklarını, yetkili merciin yasaklama ve erteleme hallerini, güvenlik kuvvetlerinin görev ve yetkileri ile yasakları ve ceza hükümlerini düzenler.",
+      "preview": "Bu Kanun; toplantı ve gösteri yürüyüşü düzenleme hakkının kullanılmasında uygulanacak şekil, şart ve usuller ile gerçek ve tüzelkişilerin dü…",
+      "kitap": null,
+      "kisim": null,
+      "bolum": "BİRİNCİ BÖLÜM · Genel Hükümler",
+      "ayirim": null,
+      "maddeBaslik": "Amaç ve kapsam",
+      "sectionPath": [
+        "BİRİNCİ BÖLÜM · Genel Hükümler",
+        "Amaç ve kapsam"
+      ]
+    },
+    {
+      "id": "kanun:2911:m:2",
+      "maddeKind": "madde",
+      "maddeNo": "2",
+      "heading": "Madde 2",
+      "text": "Bu Kanunda geçen deyimlerden;\n a) Toplantı; belirli konular üzerinde halkı aydınlatmak ve bir kamuoyu yaratmak suretiyle o konuyu benimsetmek için gerçek ve tüzelkişiler tarafından bu Kanun çerçevesinde düzenlenen açık ve kapalı yer toplantılarını,\n b) Gösteri yürüyüşü; belirli konular üzerinde halkı aydınlatmak ve bir kamuoyu yaratmak suretiyle o konuyu benimsetmek için gerçek ve tüzelkişler tarafından bu Kanun çerçevesinde düzenlenen yürüyüşleri,\n c) Mahallin en büyük mülki amiri; illerde vali, ilçelerde kaymakamı,\n d) (Değişik: 2/1/2017-KHK-680/50 md.; Aynen kabul: 1/2/2018-7072/49 md.) Mahallin güvenlik amirleri; illerde il emniyet müdürü ve il jandarma komutanını, ilçelerde ilçe emniyet amiri veya komiseri ve ilçe jandarma komutanını, Sahil Güvenlik Komutanlığı için Sahil Güvenlik Bölge Komutanını, Sahil Güvenlik Grup Komutanını ve Sahil Güvenlik Karakol Komutanı ile Sahil Güvenlik Gemi/Bot Komutanını,\n İfade eder.\n Bir il'e bağlı ilçelerin, o ilin belediye sınırları içindeki kısımlarına ilişkin olarak bu Kanunun uygulaması yönünden mahallin en büyük mülki amiri, ilin valisidir.",
+      "preview": "Bu Kanunda geçen deyimlerden; a) Toplantı; belirli konular üzerinde halkı aydınlatmak ve bir kamuoyu yaratmak suretiyle o konuyu benimsetmek…",
+      "kitap": null,
+      "kisim": null,
+      "bolum": "BİRİNCİ BÖLÜM · Genel Hükümler",
+      "ayirim": null,
+      "maddeBaslik": "Tanımlar",
+      "sectionPath": [
+        "BİRİNCİ BÖLÜM · Genel Hükümler",
+        "Tanımlar"
+      ]
+    },
+    {
+      "id": "kanun:2911:m:3",
+      "maddeKind": "madde",
+      "maddeNo": "3",
+      "heading": "Madde 3",
+      "text": "Herkes, önceden izin almaksızın, bu Kanun hükümlerine göre silahsız ve saldırısız olarak kanunların suç saymadığı belirli amaçlarla toplantı ve gösteri yürüyüşü düzenleme hakkına sahiptir.\n (Değişik: 3/8/2002-4771/5 md.) Yabancıların bu Kanun hükümlerine göre toplantı ve gösteri yürüyüşü düzenlemeleri, İçişleri Bakanlığının iznine bağlıdır. Yabancıların bu Kanuna göre düzenlenen toplantı ve gösteri yürüyüşlerinde topluluğa hitap etmeleri, afiş, pankart, resim, flama, levha, araç ve gereçler taşımaları, toplantının yapılacağı mahallin en büyük mülkî idare amirliğine toplantıdan en az kırksekiz saat önce yapılacak bildirimle mümkündür.",
+      "preview": "Herkes, önceden izin almaksızın, bu Kanun hükümlerine göre silahsız ve saldırısız olarak kanunların suç saymadığı belirli amaçlarla toplantı…",
+      "kitap": null,
+      "kisim": null,
+      "bolum": "BİRİNCİ BÖLÜM · Genel Hükümler",
+      "ayirim": null,
+      "maddeBaslik": "Toplantı ve gösteri yürüyüşü hakkı",
+      "sectionPath": [
+        "BİRİNCİ BÖLÜM · Genel Hükümler",
+        "Toplantı ve gösteri yürüyüşü hakkı"
+      ]
+    },
+    {
+      "id": "kanun:2911:m:4",
+      "maddeKind": "madde",
+      "maddeNo": "4",
+      "heading": "Madde 4",
+      "text": "Aşağıda belirtilen toplantı ve faaliyetler bu Kanun hükümlerine tabi değildir.\n a) Siyasi partilerin, kamu kurumu niteliğindeki meslek kuruluşlarının, sendikaların, vakıfların, derneklerin, ticari ortaklıkların ve diğer tüzelkişilirin özel kanunlarına ve kendi tüzüklerine göre yapacakları kapalı yer toplantıları,\n b) Kanunlara uymak, kendi kural ve sınırları içinde kalmak şartıyla kanun veya gelenek ve göreneklere göre yapılacak toplantı, tören, şenlik, karşılama ve uğurlamalar,\n c) Spor faaliyetleri ile bilimsel, ticari ve ekonomik amaçlarla yapılan toplantılar,\n d) Cumhurbaşkanı, Cumhurbaşkanı yardımcıları ve bakanların Devlet (…)[1] işleri hakkındaki toplantı ve konuşmaları ile Türkiye Büyük Millet Meclisi üyelerinin halk ile yapacakları sohbet niteliğindeki görüşmeler.1",
+      "preview": "Aşağıda belirtilen toplantı ve faaliyetler bu Kanun hükümlerine tabi değildir. a) Siyasi partilerin, kamu kurumu niteliğindeki meslek kurulu…",
+      "kitap": null,
+      "kisim": null,
+      "bolum": "BİRİNCİ BÖLÜM · Genel Hükümler",
+      "ayirim": null,
+      "maddeBaslik": "İstisnalar",
+      "sectionPath": [
+        "BİRİNCİ BÖLÜM · Genel Hükümler",
+        "İstisnalar"
+      ]
+    },
+    {
+      "id": "kanun:2911:m:5",
+      "maddeKind": "madde",
+      "maddeNo": "5",
+      "heading": "Madde 5",
+      "text": "Seçim zamanlarında yapılacak propaganda toplantıları ile ilgili kanun hükümleri saklıdır.",
+      "preview": "Seçim zamanlarında yapılacak propaganda toplantıları ile ilgili kanun hükümleri saklıdır.",
+      "kitap": null,
+      "kisim": null,
+      "bolum": "BİRİNCİ BÖLÜM · Genel Hükümler",
+      "ayirim": null,
+      "maddeBaslik": "Seçim zamanına ilişkin hükümler",
+      "sectionPath": [
+        "BİRİNCİ BÖLÜM · Genel Hükümler",
+        "Seçim zamanına ilişkin hükümler"
+      ]
+    },
+    {
+      "id": "kanun:2911:m:6",
+      "maddeKind": "madde",
+      "maddeNo": "6",
+      "heading": "Madde 6",
+      "text": "(Değişik: 2/3/2014-6529/5 md.)\n Toplantı ve gösteri yürüyüşleri, tüm il ve ilçe sınırları içerisinde aşağıdaki hükümlere uyulmak şartıyla her yerde yapılabilir.\n İl ve ilçelerde toplantı ve gösteri yürüyüşü yer ve güzergâhı, kamu düzenini ve genel asayişi bozmayacak, vatandaşların günlük yaşamını aşırı ve katlanılmaz derecede zorlaştırmayacak (…)[2] şekilde ve 22 nci maddenin birinci fıkrasında sayılan sınırlamalara uyulması kaydıyla Türkiye Büyük Millet Meclisinde grubu bulunan siyasi partilerin il ve ilçe temsilcileri ile güzergâhın geçeceği ilçe ve il belediye başkanlarının, en çok üyeye sahip üç sendikanın ve kamu kurumu niteliğindeki meslek kuruluşlarının il ve ilçe temsilcilerinin görüşleri alınarak mahallin en büyük mülki amiri tarafından belirlenir. İl ve ilçenin büyüklüğü, gelişmişliği ve yerleşim özellikleri dikkate alınarak birden fazla toplantı ve gösteri yürüyüşü yer ve güzergâhı belirlenebilir.[3]\n Belirlenen toplantı ve gösteri yürüyüşü yer ve güzergâhı yerel gazeteler ve internet haber siteleri ile valilik ve kaymakamlık internet sitelerinden ilan edilerek halka duyurulur.[4]\n Toplantı ve gösteri yürüyüşleri yer ve güzergâhı hakkında sonradan yapılacak değişiklikler de aynı yöntemle yapılır. Bu değişiklikler duyurudan on beş gün sonra geçerli olur.\n Birden fazla toplantı ve gösteri yürüyüşü yer ve güzergâhının belirlendiği il ve ilçelerde düzenleme kurulu, kamu düzenini ve genel asayişi bozmayacak (…)[5] belirlenen yer ve güzergâhlardan birisini tercih edebilir.",
+      "preview": "(Değişik: 2/3/2014-6529/5 md.) Toplantı ve gösteri yürüyüşleri, tüm il ve ilçe sınırları içerisinde aşağıdaki hükümlere uyulmak şartıyla her…",
+      "kitap": null,
+      "kisim": null,
+      "bolum": "İKİNCİ BÖLÜM · Toplantı ve Gösteri Yürüyüşü Yerleri",
+      "ayirim": null,
+      "maddeBaslik": "Toplantı ve gösteri yürüyüşü yer ve güzergahı",
+      "sectionPath": [
+        "İKİNCİ BÖLÜM · Toplantı ve Gösteri Yürüyüşü Yerleri",
+        "Toplantı ve gösteri yürüyüşü yer ve güzergahı"
+      ]
+    },
+    {
+      "id": "kanun:2911:m:7",
+      "maddeKind": "madde",
+      "maddeNo": "7",
+      "heading": "Madde 7",
+      "text": "Toplantı ve yürüyüşlere ve bu amaçla toplanmalara güneş doğmadan başlanamaz.\n (Değişik ikinci fıkra: 25/7/2018-7145/9 md.) (İptal: Anayasa Mahkemesi’nin 30/6/2022 tarihli ve E.: 2018/137, K.: 2022/86 sayılı Kararı ile.)",
+      "preview": "Toplantı ve yürüyüşlere ve bu amaçla toplanmalara güneş doğmadan başlanamaz. (Değişik ikinci fıkra: 25/7/2018-7145/9 md.) (İptal: Anayasa Ma…",
+      "kitap": null,
+      "kisim": null,
+      "bolum": "İKİNCİ BÖLÜM · Toplantı ve Gösteri Yürüyüşü Yerleri",
+      "ayirim": null,
+      "maddeBaslik": "Toplantı ve gösteri yürüyüşü zamanı",
+      "sectionPath": [
+        "İKİNCİ BÖLÜM · Toplantı ve Gösteri Yürüyüşü Yerleri",
+        "Toplantı ve gösteri yürüyüşü zamanı"
+      ]
+    },
+    {
+      "id": "kanun:2911:m:8",
+      "maddeKind": "madde",
+      "maddeNo": "8",
+      "heading": "Madde 8",
+      "text": "Toplantının yapıldığı yer, toplantı süresince umuma açık yer sayılır.",
+      "preview": "Toplantının yapıldığı yer, toplantı süresince umuma açık yer sayılır.",
+      "kitap": null,
+      "kisim": null,
+      "bolum": "İKİNCİ BÖLÜM · Toplantı ve Gösteri Yürüyüşü Yerleri",
+      "ayirim": null,
+      "maddeBaslik": "Umuma açık yer sayılma",
+      "sectionPath": [
+        "İKİNCİ BÖLÜM · Toplantı ve Gösteri Yürüyüşü Yerleri",
+        "Umuma açık yer sayılma"
+      ]
+    },
+    {
+      "id": "kanun:2911:m:9",
+      "maddeKind": "madde",
+      "maddeNo": "9",
+      "heading": "Madde 9",
+      "text": "(Değişik:26/3/2002-4748/6 md.)\n Bu Kanuna göre yapılacak toplantılar, fiil ehliyetine sahip ve onsekiz yaşını doldurmuş, en az yedi kişiden oluşan bir düzenleme kurulu tarafından düzenlenir. Bu kurul, kendi aralarından birini başkan seçer. Diplomatik dokunulmazlıkları bulunan kişiler, düzenleme kurulu başkan veya üyesi olamazlar.\n Tüzel kişilerin toplantı ve gösteri yürüyüşü düzenlemeleri, yetkili organlarının kararına bağlıdır.",
+      "preview": "(Değişik:26/3/2002-4748/6 md.) Bu Kanuna göre yapılacak toplantılar, fiil ehliyetine sahip ve onsekiz yaşını doldurmuş, en az yedi kişiden o…",
+      "kitap": null,
+      "kisim": null,
+      "bolum": "ÜÇÜNCÜ BÖLÜM · Toplantı Şekil ve Şartları",
+      "ayirim": null,
+      "maddeBaslik": "Düzenleme Kurulu",
+      "sectionPath": [
+        "ÜÇÜNCÜ BÖLÜM · Toplantı Şekil ve Şartları",
+        "Düzenleme Kurulu"
+      ]
+    },
+    {
+      "id": "kanun:2911:m:10",
+      "maddeKind": "madde",
+      "maddeNo": "10",
+      "heading": "Madde 10",
+      "text": "(Değişik: 3/8/2002-4771/5 md.) Toplantı yapılabilmesi için, düzenleme kurulu üyelerinin tamamının imzalayacakları bir bildirim, toplantının yapılmasından en az kırksekiz saat önce ve çalışma saatleri içinde, toplantının yapılacağı yerin bağlı bulunduğu valilik veya kaymakamlığa verilir.\n Bu bildirimde;\n a) Toplantının amacı,\n b) Toplantının yapılacağı yer, gün, başlayış ve bitiş saatleri,\n c) Düzenleme kurulunun başkan ile üyelerinin açık kimlikleri, meslekleri ikametgahları ve varsa çalışma yerleri,\n Belirtilir ve bildirime yönetmelikte gösterilecek belgeler eklenir.\n Bu bildirim karşılığında gün ve saati gösteren alındı belgesi verilmesi zorunludur.\n Bu bildirim, valilik veya kaymakamlıkça kabul edilmez veya karşılığında alındı belgesi verilmez ise keyfiyet bir tutanakla tespit edilir. Bu halde noter vasıtasıyla ihbar yapılır. İhbar saati bildirimin verilme saati sayılır.\n Aynı yerde, aynı gün toplantı yapmak üzere ayrı ayrı düzenleme kurullarınca bildirim verilmişse ilk verilen bildirim geçerlidir. Diğerlerine durum hemen yazılı olarak bildirilir.",
+      "preview": "(Değişik: 3/8/2002-4771/5 md.) Toplantı yapılabilmesi için, düzenleme kurulu üyelerinin tamamının imzalayacakları bir bildirim, toplantının…",
+      "kitap": null,
+      "kisim": null,
+      "bolum": "ÜÇÜNCÜ BÖLÜM · Toplantı Şekil ve Şartları",
+      "ayirim": null,
+      "maddeBaslik": "Bildirim verilmesi",
+      "sectionPath": [
+        "ÜÇÜNCÜ BÖLÜM · Toplantı Şekil ve Şartları",
+        "Bildirim verilmesi"
+      ]
+    },
+    {
+      "id": "kanun:2911:m:11",
+      "maddeKind": "madde",
+      "maddeNo": "11",
+      "heading": "Madde 11",
+      "text": "Toplantı, 6 ncı madde hükümlerine uymak suretiyle bildirimde belirtilen yerde yapılır. Düzenleme kurulu, kendi üyelerinden başkan dahil en az yedi kişiyi toplantının yapıldığı yerde bulundurmakla yükümlüdür. (Değişik üçüncü cümle: 2/3/2014-6529/7 md.) Bu yükümlülüğün yerine getirildiğine dair tutulan tutanak, düzenleme kurulu tarafından hazırlanarak yetkili kolluk amirine teslim edilir.\n (Ek fıkra: 2/3/2014-6529/7 md.) Toplantı ve gösteri yürüyüşlerinde katılımcıların ve konuşmacıların ses ve görüntüleri kolluk tarafından yapıldığı belli olacak şekilde kaydedilebilir. Elde edilen kayıt ve görüntüler şüphelilerin ve suç delillerinin tespiti dışında başka bir amaçla kullanılamaz.",
+      "preview": "Toplantı, 6 ncı madde hükümlerine uymak suretiyle bildirimde belirtilen yerde yapılır. Düzenleme kurulu, kendi üyelerinden başkan dahil en a…",
+      "kitap": null,
+      "kisim": null,
+      "bolum": "ÜÇÜNCÜ BÖLÜM · Toplantı Şekil ve Şartları",
+      "ayirim": null,
+      "maddeBaslik": "Toplantının yapılması",
+      "sectionPath": [
+        "ÜÇÜNCÜ BÖLÜM · Toplantı Şekil ve Şartları",
+        "Toplantının yapılması"
+      ]
+    },
+    {
+      "id": "kanun:2911:m:12",
+      "maddeKind": "madde",
+      "maddeNo": "12",
+      "heading": "Madde 12",
+      "text": "Düzenleme kurulu, toplantının sükun ve düzenini, bildirimde yazılı amaç dışına çıkılmamasını sağlamakla yükümlü ve sorumludur. Kurul, bunun için gereken önlemleri alır ve gerektiğinde güvenlik kuvvetlerinin yardımını ister. (Değişik üçüncü cümle: 2/3/2014-6529/8 md.) Toplantının amacı dışına çıktığı veya düzen içinde gerçekleşmesini imkânsız gördüğü takdirde kurul veya toplanamadığı takdirde kurul başkanı dağılma kararı alır ve durumu derhâl yetkili kolluk amirine bildirir.\n Düzenleme kurulunun sorumluluğu, topluluk toplantı yerinden tamamen dağılıncaya kadar sürer,",
+      "preview": "Düzenleme kurulu, toplantının sükun ve düzenini, bildirimde yazılı amaç dışına çıkılmamasını sağlamakla yükümlü ve sorumludur. Kurul, bunun…",
+      "kitap": null,
+      "kisim": null,
+      "bolum": "ÜÇÜNCÜ BÖLÜM · Toplantı Şekil ve Şartları",
+      "ayirim": null,
+      "maddeBaslik": "Düzenleme kurulunun görev ve sorumlulukları",
+      "sectionPath": [
+        "ÜÇÜNCÜ BÖLÜM · Toplantı Şekil ve Şartları",
+        "Düzenleme kurulunun görev ve sorumlulukları"
+      ]
+    },
+    {
+      "id": "kanun:2911:m:13",
+      "maddeKind": "madde",
+      "maddeNo": "13",
+      "heading": "Madde 13",
+      "text": "(Mülga: 2/3/2014-6529/16 md.)",
+      "preview": "(Mülga: 2/3/2014-6529/16 md.)",
+      "kitap": null,
+      "kisim": null,
+      "bolum": "ÜÇÜNCÜ BÖLÜM · Toplantı Şekil ve Şartları",
+      "ayirim": null,
+      "maddeBaslik": "Hükümet komiseri ve yetkileri",
+      "sectionPath": [
+        "ÜÇÜNCÜ BÖLÜM · Toplantı Şekil ve Şartları",
+        "Hükümet komiseri ve yetkileri"
+      ]
+    },
+    {
+      "id": "kanun:2911:m:14",
+      "maddeKind": "madde",
+      "maddeNo": "14",
+      "heading": "Madde 14",
+      "text": "Toplantı, toplantının yapılacağı saatten en az yirmidört saat önce düzenleme kurulunun çoğunluğu tarafından, bildirimin verildiği valilik veya kaymakamlığa yazı ile bildirilmek şartıyla kırksekiz saati geçmemek üzere yalnız bir kez geri bırakılabilir.",
+      "preview": "Toplantı, toplantının yapılacağı saatten en az yirmidört saat önce düzenleme kurulunun çoğunluğu tarafından, bildirimin verildiği valilik ve…",
+      "kitap": null,
+      "kisim": null,
+      "bolum": "DÖRDÜNCÜ BÖLÜM · Toplantının Ertelenmesi veya Yasaklanması",
+      "ayirim": null,
+      "maddeBaslik": "Düzenleme kurulunun toplantıyı geri bırakması",
+      "sectionPath": [
+        "DÖRDÜNCÜ BÖLÜM · Toplantının Ertelenmesi veya Yasaklanması",
+        "Düzenleme kurulunun toplantıyı geri bırakması"
+      ]
+    },
+    {
+      "id": "kanun:2911:m:15",
+      "maddeKind": "madde",
+      "maddeNo": "15",
+      "heading": "Madde 15",
+      "text": "Bir il sınırı içinde aynı günde birden çok toplantı yapılmak istenmesi halinde vali, emrindeki güvenlik kuvvetlerinin ve gerektiğinde yararlanabileceği diğer güçlerin bu toplantıların güvenlik içinde yapılmasını sağlamaya yeterli olmadığı kanısına varırsa, toplantılardan bir kısmını on günü aşmamak üzere bir kez erteleyebilir. Bu ertelemede müracaat önceliği göz önünde bulundurulur.[6]",
+      "preview": "Bir il sınırı içinde aynı günde birden çok toplantı yapılmak istenmesi halinde vali, emrindeki güvenlik kuvvetlerinin ve gerektiğinde yararl…",
+      "kitap": null,
+      "kisim": null,
+      "bolum": "DÖRDÜNCÜ BÖLÜM · Toplantının Ertelenmesi veya Yasaklanması",
+      "ayirim": null,
+      "maddeBaslik": "Birden fazla toplantıları erteleme",
+      "sectionPath": [
+        "DÖRDÜNCÜ BÖLÜM · Toplantının Ertelenmesi veya Yasaklanması",
+        "Birden fazla toplantıları erteleme"
+      ]
+    },
+    {
+      "id": "kanun:2911:m:16",
+      "maddeKind": "madde",
+      "maddeNo": "16",
+      "heading": "Madde 16",
+      "text": "a) Bir bölge valiliğine bağlı illerden; birden çok ilde aynı günde toplantı yapmak için bildirim verilmesi üzerine, toplantı güvenliğini sağlamak amacıyla ilgili valilerce bölge valiliğinden takviye istenmesi halinde, bölge valisi bu isteklerin karşılanamayacağı kanısına varırsa, takviye gönderilemeyen illerdeki toplantılar on günü aşmamak üzere bölge valiliğince bir kez ertelenebilir.\n b) Aynı günde birden çok bölge valiliğine bağlı illerde toplantı yapmak için bildirim verilmesi üzerine, toplantı güvenliğini sağlamak amacıyla ilgili bölge valilerince İçişleri Bakanlığından takviye istenmesi halinde, İçişleri Bakanlığı bu isteklerin karşılanamayacağı kanısına, varırsa, takviye gönderilemeyen bölge valiliğine bağlı illerdeki toplantılar on günü aşmamak üzere İçişleri Bakanlığınca bir kez ertelenebilir.\n Ertelemede müracaat önceliği göz önünde bulundurulur.",
+      "preview": "a) Bir bölge valiliğine bağlı illerden; birden çok ilde aynı günde toplantı yapmak için bildirim verilmesi üzerine, toplantı güvenliğini sağ…",
+      "kitap": null,
+      "kisim": null,
+      "bolum": "DÖRDÜNCÜ BÖLÜM · Toplantının Ertelenmesi veya Yasaklanması",
+      "ayirim": null,
+      "maddeBaslik": "Toplantının bölge valiliği ve İçişleri Bakanlığınca ertelenmesi[7]",
+      "sectionPath": [
+        "DÖRDÜNCÜ BÖLÜM · Toplantının Ertelenmesi veya Yasaklanması",
+        "Toplantının bölge valiliği ve İçişleri Bakanlığınca ertelenmesi[7]"
+      ]
+    },
+    {
+      "id": "kanun:2911:m:17",
+      "maddeKind": "madde",
+      "maddeNo": "17",
+      "heading": "Madde 17",
+      "text": "(Değişik: 26/3/2002-4748/6 md.)\n Bölge valisi, vali veya kaymakam, millî güvenlik, kamu düzeni, suç işlenmesinin önlenmesi, genel sağlığın ve genel ahlâkın veya başkalarının hak ve özgürlüklerinin korunması amacıyla belirli bir toplantıyı bir ayı aşmamak üzere erteleyebilir veya suç işleneceğine dair açık ve yakın tehlike mevcut olması hâlinde yasaklayabilir.8",
+      "preview": "(Değişik: 26/3/2002-4748/6 md.) Bölge valisi, vali veya kaymakam, millî güvenlik, kamu düzeni, suç işlenmesinin önlenmesi, genel sağlığın ve…",
+      "kitap": null,
+      "kisim": null,
+      "bolum": "DÖRDÜNCÜ BÖLÜM · Toplantının Ertelenmesi veya Yasaklanması",
+      "ayirim": null,
+      "maddeBaslik": "Toplantının ertelenmesi veya bazı hâllerde yasaklanması[8]",
+      "sectionPath": [
+        "DÖRDÜNCÜ BÖLÜM · Toplantının Ertelenmesi veya Yasaklanması",
+        "Toplantının ertelenmesi veya bazı hâllerde yasaklanması[8]"
+      ]
+    },
+    {
+      "id": "kanun:2911:m:18",
+      "maddeKind": "madde",
+      "maddeNo": "18",
+      "heading": "Madde 18",
+      "text": "Bölge valisi, Vali veya kaymakamlarca ertelenen veya yasaklanan veya İçişleri Bakanlığı tarafından ertelenen toplantılara ilişkin gerekçeli erteleme veya yasaklama kararı toplantının başlama saatinden en az yirmidört saat önce bir yazı ile düzenleme kurulu başkanına veya bulunamadığı takdirde üyelerden birine tebliğ edilir. Vali veya kaymakamlarca ertelenen veya yasaklanan toplantılar hakkında bölge valiliğine ve İçişleri Bakanlığına, bölge valilerince ertelenen veya yasaklanan toplantılar için de İçişleri Bakanlığına bilgi verilir.\n 17 nci maddede belirtilen durumlarda; toplantının en az yirmidört saat önce tebliğ şartı aranmaksızın bölge valiliği, valilik veya kaymakamlıklarca ertelenebileceği veya yasaklanabileceği haller yönetmelikte gösterilir.\n Toplantının ertelenen günden sonraki bir günde yapılabilmesi, düzenleme kurulunun 10 uncu maddeye göre yeni bildirimde bulunmasına bağlıdır.",
+      "preview": "Bölge valisi, Vali veya kaymakamlarca ertelenen veya yasaklanan veya İçişleri Bakanlığı tarafından ertelenen toplantılara ilişkin gerekçeli…",
+      "kitap": null,
+      "kisim": null,
+      "bolum": "DÖRDÜNCÜ BÖLÜM · Toplantının Ertelenmesi veya Yasaklanması",
+      "ayirim": null,
+      "maddeBaslik": "Yasaklama veya erteleme kararının tebliği[9]",
+      "sectionPath": [
+        "DÖRDÜNCÜ BÖLÜM · Toplantının Ertelenmesi veya Yasaklanması",
+        "Yasaklama veya erteleme kararının tebliği[9]"
+      ]
+    },
+    {
+      "id": "kanun:2911:m:19",
+      "maddeKind": "madde",
+      "maddeNo": "19",
+      "heading": "Madde 19",
+      "text": "(Değişik birinci cümle:26/3/2002-4748/6 md.)\n Bölge valisi, millî güvenlik, kamu düzeni, suç işlenmesinin önlenmesi, genel sağlığın ve genel ahlâkın veya başkalarının hak ve özgürlüklerinin korunması amacıyla bölgeye dahil illerin birinde veya birkaçında ya da bir ilin bir veya birkaç ilçesinde bütün toplantıları bir ayı geçmemek üzere erteleyebilir. (Değişik ikinci cümle: 30/7/2003-4963/22 md.) Valiler de aynı sebeplere dayalı olarak ve suç işleneceğine dair açık ve yakın tehlike mevcut olması hâlinde; ile bağlı ilçelerin birinde veya birkaçında bütün toplantıları bir ayı geçmemek üzere yasaklayabilir.\n Yasaklama kararı gerekçeli olarak verilir Kararın özeti yasaklamanın uygulanacağı yerlerde mutat vasıtalarla ilan edilir. Ayrıca, İçişleri Bakanlığına bilgi verilir.",
+      "preview": "(Değişik birinci cümle:26/3/2002-4748/6 md.) Bölge valisi, millî güvenlik, kamu düzeni, suç işlenmesinin önlenmesi, genel sağlığın ve genel…",
+      "kitap": null,
+      "kisim": null,
+      "bolum": "DÖRDÜNCÜ BÖLÜM · Toplantının Ertelenmesi veya Yasaklanması",
+      "ayirim": null,
+      "maddeBaslik": "İl veya ilçelerde bütün toplantıların ertelenmesi veya yasaklanması[10]",
+      "sectionPath": [
+        "DÖRDÜNCÜ BÖLÜM · Toplantının Ertelenmesi veya Yasaklanması",
+        "İl veya ilçelerde bütün toplantıların ertelenmesi veya yasaklanması[10]"
+      ]
+    },
+    {
+      "id": "kanun:2911:m:20",
+      "maddeKind": "madde",
+      "maddeNo": "20",
+      "heading": "Madde 20",
+      "text": "Gösteri yürüyüşlerinin şekil ve şartları ile ertelenmesi veya yasaklanması hakkında da bu Kanunun 3 üncü ve 4 üncü bölümlerindeki hükümler uygulanır.\n Şehir ve kasaba içindeki genel yollar üzerinde yapılacak yürüyüşlere ait bildirimlerde, 6 ncı madde gereğince ilan olunan yol ve yönlere uyulmak şartıyla, yürüyüşe geçmek için seçilecek toplanma yeri ile izlenecek yol ve dağılma yerinin belirtilmesi zorunludur.",
+      "preview": "Gösteri yürüyüşlerinin şekil ve şartları ile ertelenmesi veya yasaklanması hakkında da bu Kanunun 3 üncü ve 4 üncü bölümlerindeki hükümler u…",
+      "kitap": null,
+      "kisim": null,
+      "bolum": "BEŞİNCİ BÖLÜM · Gösteri Yürüyüşlerinin Şekil ve Şartları ile Ertelenmesi veya Yasaklanması",
+      "ayirim": null,
+      "maddeBaslik": "Gösteri yürüyüşlerinde uygulanacak hükümler",
+      "sectionPath": [
+        "BEŞİNCİ BÖLÜM · Gösteri Yürüyüşlerinin Şekil ve Şartları ile Ertelenmesi veya Yasaklanması",
+        "Gösteri yürüyüşlerinde uygulanacak hükümler"
+      ]
+    },
+    {
+      "id": "kanun:2911:m:21",
+      "maddeKind": "madde",
+      "maddeNo": "21",
+      "heading": "Madde 21",
+      "text": "(Mülga : 26/3/2002-4748/7 md.)",
+      "preview": "(Mülga : 26/3/2002-4748/7 md.)",
+      "kitap": null,
+      "kisim": null,
+      "bolum": "ALTINCI BÖLÜM · Yasaklar ve Kanuna Aykırı Toplantı ve Gösteri Yürüyüşleri",
+      "ayirim": null,
+      "maddeBaslik": "Amaç dışı toplantı ve gösteri yürüyüşü",
+      "sectionPath": [
+        "ALTINCI BÖLÜM · Yasaklar ve Kanuna Aykırı Toplantı ve Gösteri Yürüyüşleri",
+        "Amaç dışı toplantı ve gösteri yürüyüşü"
+      ]
+    },
+    {
+      "id": "kanun:2911:m:22",
+      "maddeKind": "madde",
+      "maddeNo": "22",
+      "heading": "Madde 22",
+      "text": "(…)[11] ile parklarda, mabetlerde, kamu hizmeti görülen bina ve tesislerde ve bunların eklentilerinde ve Türkiye Büyük Millet Meclisine bir kilometre uzaklıktaki alan içinde toplantı yapılamaz (İptal ibare: Anayasa Mahkemesinin 10/9/2020 tarihli ve E.: 2020/12, K.: 2020/46 sayılı kararı ile.)(…).\n Genel meydanlardaki toplantılarda, halkın ve ulaşım araçlarının gelip geçmesini sağlamak üzere valilik ve kaymakamlıklarca yapılacak düzenlemelere uyulması zorunludur.",
+      "preview": "(…)[11] ile parklarda, mabetlerde, kamu hizmeti görülen bina ve tesislerde ve bunların eklentilerinde ve Türkiye Büyük Millet Meclisine bir…",
+      "kitap": null,
+      "kisim": null,
+      "bolum": "ALTINCI BÖLÜM · Yasaklar ve Kanuna Aykırı Toplantı ve Gösteri Yürüyüşleri",
+      "ayirim": null,
+      "maddeBaslik": "Yasak yerler",
+      "sectionPath": [
+        "ALTINCI BÖLÜM · Yasaklar ve Kanuna Aykırı Toplantı ve Gösteri Yürüyüşleri",
+        "Yasak yerler"
+      ]
+    },
+    {
+      "id": "kanun:2911:m:23",
+      "maddeKind": "madde",
+      "maddeNo": "23",
+      "heading": "Madde 23",
+      "text": "a) 9 ve 10 uncu madde hükümlerine uygun biçimde bildirim verilmeden veya toplantı veya yürüyüş için belirtilen gün ve saatten önce veya sonra;\n b) (Değişik: 30/7/1998 - 4378/1 md.) Ateşli silahlar veya havai fişek, molotof ve benzeri el yapımı olanlar dâhil patlayıcı maddeler veya her türlü kesici, delici aletler veya taş, sopa, demir ve lastik çubuklar, boğma teli veya zincir, demir bilye ve sapan gibi bereleyici ve boğucu araçlar veya yakıcı, aşındırıcı, yaralayıcı eczalar veya diğer her türlü zehirler veya her türlü sis, gaz ve benzeri maddeler ile yasadışı örgüt ve topluluklara ait amblem ve işaret taşınarak veya bu işaret ve amblemleri üzerinde bulunduran üniformayı andırır giysiler giyilerek veya kimliklerini gizlemek amacıyla yüzlerini tamamen veya kısmen bez vesair unsurlarla örterek toplantı ve gösteri yürüyüşlerine katılma ve kanunların suç saydığı nitelik taşıyan afiş, pankart, döviz, resim, levha, araç ve gereçler taşınarak veya bu nitelikte sloganlar söylenerek veya ses cihazları ile yayınlanarak,[12]\n c) 7 nci madde hükümleri gözetilmeksizin,\n d) 6 ve 10 uncu maddeler gereğince belirtilen yerler dışında,\n e) 20 nci maddedeki yöntem ve şartlara ve 22 nci maddedeki yasak ve önlemlere uyulmaksızın,\n f) 4 üncü madde ile Kanun kapsamı dışında bırakılan konularda kendi amaç, kural ve sınırları dışına çıkılarak,\n g) Kanunların suç saydığı maksatlar için,\n h) Bildirimde belirtilen amaç dışına çıkılarak,\n i) Toplantı ve yürüyüşün 14, 15, 16, 17 ve 19 uncu maddelere dayanılarak yasaklanması veya ertelenmesi halinde tespit edilen erteleme veya yasaklama süresi sona ermeden,\n j) (Değişik: 2/3/2014-6529/9 md.) 12 nci madde gereğince toplantının dağılmasına karar verilmesi hâlinde,\n k) 21 inci madde hükmüne aykırı olarak,\n l) 3 üncü maddenin 2 nci fıkrası hükmüne uyulmadan,\n Yapılan toplantılar veya gösteri yürüyüşleri Kanuna aykırı sayılır.",
+      "preview": "a) 9 ve 10 uncu madde hükümlerine uygun biçimde bildirim verilmeden veya toplantı veya yürüyüş için belirtilen gün ve saatten önce veya sonr…",
+      "kitap": null,
+      "kisim": null,
+      "bolum": "ALTINCI BÖLÜM · Yasaklar ve Kanuna Aykırı Toplantı ve Gösteri Yürüyüşleri",
+      "ayirim": null,
+      "maddeBaslik": "Kanuna aykırı toplantı ve gösteri yürüyüşleri",
+      "sectionPath": [
+        "ALTINCI BÖLÜM · Yasaklar ve Kanuna Aykırı Toplantı ve Gösteri Yürüyüşleri",
+        "Kanuna aykırı toplantı ve gösteri yürüyüşleri"
+      ]
+    },
+    {
+      "id": "kanun:2911:m:24",
+      "maddeKind": "madde",
+      "maddeNo": "24",
+      "heading": "Madde 24",
+      "text": "(Değişik birinci fıkra: 2/3/2014-6529/10 md.) Kanuna uygun olarak başlayan bir toplantı veya gösteri yürüyüşü, daha sonra 23 üncü maddede belirtilen kanuna aykırı durumlardan bir veya birkaçının vuku bulması sebebiyle, Kanuna aykırı toplantı veya gösteri yürüyüşü hâline dönüşürse:\n a) Düzenleme kurulu veya kurul başkanı toplantı veya gösteri yürüyüşünün sona erdiğini topluluğa ilan eder ve durumu derhâl yetkili kolluk amirine bildirir.\n b) Düzenleme kurulunun veya kurul başkanının bu görevi yerine getirmemesi hâlinde, durum yetkili kolluk amiri tarafından mahallin en büyük mülki amirine bildirilir. Mahallin en büyük mülki amiri tarafından toplantının sona erdirilip erdirilmeyeceğine dair karar alınır.\n c) Mahallin en büyük mülki amiri, yazılı veya acele hâllerde sonradan yazı ile teyit edilmek kaydıyla sözlü emirle, mahallin güvenlik amirlerini veya bunlardan birini görevlendirerek olay yerine gönderir.\n Bu amir, topluluğa Kanuna uyularak dağılmalarını, dağılmazlarsa zor kullanılacağını ihtar eder. Topluluk dağılmazsa zor kullanılarak dağıtılır. (Mülga üçüncü cümle: 2/3/2014-6529/10 md.)\n Birinci fıkrada düzenlenen durumlarda güvenlik kuvvetlerine karşı fiili saldırı veya mukavemet veya korudukları yerlere ve kişilere karşı fiili saldırı hali mevcutsa, ihtara gerek olmaksızın zor kullanılır.[13]\n Toplantı ve gösteri yürüyüşüne 23 üncü madde (b) bendinde yazılı silah, araç, alet veya maddeler veya sloganlarla katılanların bulunması halinde bunlar güvenlik kuvvetlerince uzaklaştırılarak toplantı ve gösteri yürüyüşüne devam edilir. Ancak, bunların sayıları ve davranışları toplantı veya gösteri yürüyüşünü Kanuna aykırı addedilerek dağıtılmasını gerektirecek derecede ise yukarıdaki fıkra hükümleri uygulanır.\n Toplantı ve gösteri yürüyüşüne silah, araç, alet veya maddeler veya sloganlarla katılanların tanınması ve uzaklaştırılmasında düzenleme kurulu güvenlik kuvvetlerine yardım etmekle yükümlüdür.\n Toplantı veya gösteri yürüyüşlerinin Kanuna aykırı olarak başlaması hallerinde; güvenlik kuvvetleri mensupları, olayı en seri şekilde mahallin en büyük mülki amirine haber vermekle beraber, mevcut imkanlarla gerekli tedbirleri alır ve olaya müdahale eden güvenlik kuvvetleri amiri, topluluğa dağılmaları, aksi halde zor kullanılarak dağıtılıcakları ihtarında bulunur ve topluluk dağılmazsa zor kullanılarak dağıtılır.",
+      "preview": "(Değişik birinci fıkra: 2/3/2014-6529/10 md.) Kanuna uygun olarak başlayan bir toplantı veya gösteri yürüyüşü, daha sonra 23 üncü maddede be…",
+      "kitap": null,
+      "kisim": null,
+      "bolum": "ALTINCI BÖLÜM · Yasaklar ve Kanuna Aykırı Toplantı ve Gösteri Yürüyüşleri",
+      "ayirim": null,
+      "maddeBaslik": "Toplantı veya gösteri yürüyüşünün dağıtılması",
+      "sectionPath": [
+        "ALTINCI BÖLÜM · Yasaklar ve Kanuna Aykırı Toplantı ve Gösteri Yürüyüşleri",
+        "Toplantı veya gösteri yürüyüşünün dağıtılması"
+      ]
+    },
+    {
+      "id": "kanun:2911:m:25",
+      "maddeKind": "madde",
+      "maddeNo": "25",
+      "heading": "Madde 25",
+      "text": "Topluluk içinde suç işleyenleri ve suçluları yakalamak için 24 üncü maddede belirtilen emir ve ihtarların yapılmasına gerek yoktur.",
+      "preview": "Topluluk içinde suç işleyenleri ve suçluları yakalamak için 24 üncü maddede belirtilen emir ve ihtarların yapılmasına gerek yoktur.",
+      "kitap": null,
+      "kisim": null,
+      "bolum": "ALTINCI BÖLÜM · Yasaklar ve Kanuna Aykırı Toplantı ve Gösteri Yürüyüşleri",
+      "ayirim": null,
+      "maddeBaslik": "Suç işleyenlerin yakalanması",
+      "sectionPath": [
+        "ALTINCI BÖLÜM · Yasaklar ve Kanuna Aykırı Toplantı ve Gösteri Yürüyüşleri",
+        "Suç işleyenlerin yakalanması"
+      ]
+    },
+    {
+      "id": "kanun:2911:m:26",
+      "maddeKind": "madde",
+      "maddeNo": "26",
+      "heading": "Madde 26",
+      "text": "Toplantı veya yürüyüşlere ilişkin çağrı veya propoganda amacıyla kullanılan basılı veya çoğaltılmış veya el ile yazılmış davetiye, levha ve ilanlarda düzenleme kurulu başkanı ile en az altı üyesinin adları, soyadları ve imzalarının bulunması; bunlardan asılması gerekenlerin, Kanunun 6 ncı maddesinde belirtilen yönteme de uyulmak şartıyla valilik veya kaymakamlıklarca önceden tespit edilmiş yerlere asılması zorunludur.\n Bu propaganda ve çağrı alet ve araçlarında, halkı suç işlemeye özendiren veya kışkırtan yazı veya resim bulunması yasaktır.\n Toplantı veya gösteri yürüyüşünün yapılacağı tarihten bir önceki günden toplantı veya gösteri yürüyüşünün başlayacağı saate kadar, güneşin doğuşundan batışına kadarki zaman içinde olmak kaydıyla ses yükselten veya ileten herhangi bir alet veya araç ile çağrı yapılabilir. Bu süre dışında çağrı için sözü geçen alet veya araçlar kullanılamaz.\n Kapalı yer toplantılarında, ses yükseltici alet veya araçlarla dışarıya yayın yapılamaz.",
+      "preview": "Toplantı veya yürüyüşlere ilişkin çağrı veya propoganda amacıyla kullanılan basılı veya çoğaltılmış veya el ile yazılmış davetiye, levha ve…",
+      "kitap": null,
+      "kisim": null,
+      "bolum": "ALTINCI BÖLÜM · Yasaklar ve Kanuna Aykırı Toplantı ve Gösteri Yürüyüşleri",
+      "ayirim": null,
+      "maddeBaslik": "Çağrı ve propaganda araçları",
+      "sectionPath": [
+        "ALTINCI BÖLÜM · Yasaklar ve Kanuna Aykırı Toplantı ve Gösteri Yürüyüşleri",
+        "Çağrı ve propaganda araçları"
+      ]
+    },
+    {
+      "id": "kanun:2911:m:27",
+      "maddeKind": "madde",
+      "maddeNo": "27",
+      "heading": "Madde 27",
+      "text": "Halka karşı, doğrudan doğruya veya ses yükselten veya ileten herhangi bir alet veya araç ile söz söyleyerek veya seslenerek veya basılmış veya çoğaltılmış veya elle yazılmış veya çizilmiş kağıtları duvarlara veya diğer yerlere yapıştırarak veya dağıtarak veya benzeri araç ve yollarla halkı Kanuna aykırı toplantı veya yürüyüşe özendirmek veya kışkırtmak yasaktır.\n Bu hareketler güvenlik kuvvetlerince derhal menedilir.",
+      "preview": "Halka karşı, doğrudan doğruya veya ses yükselten veya ileten herhangi bir alet veya araç ile söz söyleyerek veya seslenerek veya basılmış ve…",
+      "kitap": null,
+      "kisim": null,
+      "bolum": "ALTINCI BÖLÜM · Yasaklar ve Kanuna Aykırı Toplantı ve Gösteri Yürüyüşleri",
+      "ayirim": null,
+      "maddeBaslik": "Kışkırtma yasağı",
+      "sectionPath": [
+        "ALTINCI BÖLÜM · Yasaklar ve Kanuna Aykırı Toplantı ve Gösteri Yürüyüşleri",
+        "Kışkırtma yasağı"
+      ]
+    },
+    {
+      "id": "kanun:2911:m:28",
+      "maddeKind": "madde",
+      "maddeNo": "28",
+      "heading": "Madde 28",
+      "text": "(Değişik: 23/1/2008-5728/422 md.)\n Kanuna aykırı toplantı veya gösteri yürüyüşleri düzenleyen veya yönetenlerle bunların hareketlerine katılanlar, fiil daha ağır bir cezayı gerektiren ayrı bir suç teşkil etmediği takdirde bir yıl altı aydan üç yıla kadar hapis cezası ile cezalandırılır.\n 10 uncu madde gereğince verilecek bildirimde düzenleme kurulu üyesi olarak gösterilenlerden 9 uncu maddede belli edilen nitelikleri taşımayanlar, toplantı veya yürüyüşün yapılması hâlinde, bir yıla kadar hapis cezası ile cezalandırılır.\n 11 ve 12 nci maddelerde yazılı görevleri yerine getirmeyen düzenleme kurulu üyeleri, altı aydan iki yıla kadar hapis cezası ile cezalandırılır.\n Güvenlik kuvvetlerine veya (…)[14] toplantı veya yürüyüş safahatının teknik araç ve gereçlerle tespit için görevlendirilenlere bu görevlerini yaptıkları sırada cebir ve şiddet veya tehdit veya nüfuz ve müessir kuvvet sarfetmek suretiyle mani olanlar hakkında, fiilleri daha ağır bir cezayı gerektirmediği takdirde, iki yıldan beş yıla kadar hapis cezası hükmolunur.",
+      "preview": "(Değişik: 23/1/2008-5728/422 md.) Kanuna aykırı toplantı veya gösteri yürüyüşleri düzenleyen veya yönetenlerle bunların hareketlerine katıla…",
+      "kitap": null,
+      "kisim": null,
+      "bolum": "YEDİNCİ BÖLÜM · Ceza Hükümleri",
+      "ayirim": null,
+      "maddeBaslik": "Yasaklara aykırı hareket",
+      "sectionPath": [
+        "YEDİNCİ BÖLÜM · Ceza Hükümleri",
+        "Yasaklara aykırı hareket"
+      ]
+    },
+    {
+      "id": "kanun:2911:m:29",
+      "maddeKind": "madde",
+      "maddeNo": "29",
+      "heading": "Madde 29",
+      "text": "Toplantı veya yürüyüş yapılmasına engel olan veya devamına imkan vermeyecek tertipler ile toplantı veya yürüyüşü ihlal eden kimse, fiil daha ağır bir cezayı gerektiren ayrı bir suç teşkil etmediği takdirde dokuz aydan bir yıl altı aya kadar hapis (...)[15] cezası ile cezalandırılır.",
+      "preview": "Toplantı veya yürüyüş yapılmasına engel olan veya devamına imkan vermeyecek tertipler ile toplantı veya yürüyüşü ihlal eden kimse, fiil daha…",
+      "kitap": null,
+      "kisim": null,
+      "bolum": "YEDİNCİ BÖLÜM · Ceza Hükümleri",
+      "ayirim": null,
+      "maddeBaslik": "Toplantı veya yürüyüşü engelleyenler",
+      "sectionPath": [
+        "YEDİNCİ BÖLÜM · Ceza Hükümleri",
+        "Toplantı veya yürüyüşü engelleyenler"
+      ]
+    },
+    {
+      "id": "kanun:2911:m:30",
+      "maddeKind": "madde",
+      "maddeNo": "30",
+      "heading": "Madde 30",
+      "text": "Yapılmakta olan toplantı veya yürüyüşte huzur ve sükünu bozmak maksadıyla tehdit veya hakaret veya saldırı veya mukavematte bulunanlar veya başka bir suretle huzur ve sükünun bozulmasına sebebiyet verenler, fiil daha ağır bir cezayı gerektiren ayrı bir suç teşkil etmediği takdirde, bir yıl altı aydan üç yıla kadar hapis (...)[16] cezası ile cezalandırılır.",
+      "preview": "Yapılmakta olan toplantı veya yürüyüşte huzur ve sükünu bozmak maksadıyla tehdit veya hakaret veya saldırı veya mukavematte bulunanlar veya…",
+      "kitap": null,
+      "kisim": null,
+      "bolum": "YEDİNCİ BÖLÜM · Ceza Hükümleri",
+      "ayirim": null,
+      "maddeBaslik": "Huzur ve sükünu bozanlar",
+      "sectionPath": [
+        "YEDİNCİ BÖLÜM · Ceza Hükümleri",
+        "Huzur ve sükünu bozanlar"
+      ]
+    },
+    {
+      "id": "kanun:2911:m:31",
+      "maddeKind": "madde",
+      "maddeNo": "31",
+      "heading": "Madde 31",
+      "text": "Düzenleme kurulu başkanı ve en az altı üyesinin ad ve soyadları ile imzalarını taşımayan 26 ncı maddede yazılı propaganda vasıtalarını hazırlayanlar, yazdıranlar, bastıranlar, propaganda maksadıyla kullananlar veya sair surette 26 ncı maddedeki yasak ve şartlara uymayanlar altı aydan bir yıla kadar hapis (...)[17] cezası ile cezalandırılır.\n Bu propaganda vasıtalarında halkı suç işlemeye teşvik ve tahrik eder mahiyette yazı veya resim veya işaret bulunursa veya bu maksatla başka araçlar kullanılmış olursa, fiil daha ağır bir cezayı gerektiren ayrı bir suç teşkil etmediği takdirde failleri bir yıl altı aydan üç yıla kadar hapis (...)17 cezası ile cezalandırılır.\n Teşvik ve tahrik neticesi olarak suç işlenir veya suçun icrasına teşebbüs edilirse, fiil daha ağır bir cezayı gerektiren ayrı bir suç teşkil etmediği takdirde teşvik veya tahrikte bulunanlar üç yıldan beş yıla kadar hapis (...)17 cezası ile cezalandırılır.",
+      "preview": "Düzenleme kurulu başkanı ve en az altı üyesinin ad ve soyadları ile imzalarını taşımayan 26 ncı maddede yazılı propaganda vasıtalarını hazır…",
+      "kitap": null,
+      "kisim": null,
+      "bolum": "YEDİNCİ BÖLÜM · Ceza Hükümleri",
+      "ayirim": null,
+      "maddeBaslik": "Kanuna aykırı propaganda vasıtaları ve suç işlemeye teşvik",
+      "sectionPath": [
+        "YEDİNCİ BÖLÜM · Ceza Hükümleri",
+        "Kanuna aykırı propaganda vasıtaları ve suç işlemeye teşvik"
+      ]
+    },
+    {
+      "id": "kanun:2911:m:32",
+      "maddeKind": "madde",
+      "maddeNo": "32",
+      "heading": "Madde 32",
+      "text": "(Değişik: 22/7/2010 - 6008/1 md.)\n Kanuna aykırı toplantı veya gösteri yürüyüşlerine katılanlar, ihtara ve zor kullanmaya rağmen dağılmamakta ısrar ederlerse, altı aydan üç yıla kadar hapis cezası ile cezalandırılır. Bu suçu, toplantı ve gösteri yürüyüşünü tertip edenlerin işlemesi halinde, bu fıkra hükmüne göre verilecek ceza yarı oranında artırılarak hükmolunur.\n İhtara ve zor kullanmaya rağmen kolluk görevlilerine karşı cebir veya tehdit kullanılarak direnilmesi halinde, ayrıca 26/9/2004 tarihli ve 5237 sayılı Türk Ceza Kanununun 265 inci maddesinde tanımlanan suçtan dolayı da cezaya hükmolunur.\n 23 üncü maddede yazılı hallerden biri gerçekleşmeden veya 24 üncü madde hükmü yerine getirilmeden yetki sınırı aşılarak toplantı veya gösteri yürüyüşlerinin dağıtılması halinde, yukarıdaki fıkralarda yazılı fiilleri işleyenlere verilecek cezalar, dörttebire kadar indirilerek uygulanabileceği gibi, ceza vermekten de vazgeçilebilir.",
+      "preview": "(Değişik: 22/7/2010 - 6008/1 md.) Kanuna aykırı toplantı veya gösteri yürüyüşlerine katılanlar, ihtara ve zor kullanmaya rağmen dağılmamakta…",
+      "kitap": null,
+      "kisim": null,
+      "bolum": "YEDİNCİ BÖLÜM · Ceza Hükümleri",
+      "ayirim": null,
+      "maddeBaslik": "Direnme[18]",
+      "sectionPath": [
+        "YEDİNCİ BÖLÜM · Ceza Hükümleri",
+        "Direnme[18]"
+      ]
+    },
+    {
+      "id": "kanun:2911:m:33",
+      "maddeKind": "madde",
+      "maddeNo": "33",
+      "heading": "Madde 33",
+      "text": "(Değişik: 22/7/2010 - 6008/2 md.)\n (Değişik birinci fıkra: 27/3/2015-6638/8 md.) Toplantı ve gösteri yürüyüşlerine;\n a) Ateşli silahlar veya havai fişek, molotof ve benzeri el yapımı olanlar dâhil patlayıcı maddeler veya her türlü kesici, delici aletler veya taş, sopa, demir ve lastik çubuklar, boğma teli veya zincir, demir bilye ve sapan gibi bereleyici ve boğucu araçlar veya yakıcı, aşındırıcı, yaralayıcı eczalar veya diğer her türlü zehirler veya her türlü sis, gaz ve benzeri maddeler taşıyarak veya kimliklerini gizlemek amacıyla yüzlerini tamamen veya kısmen bez vesair unsurlarla örterek katılanlar iki yıl altı aydan dört yıla kadar,\n b) Yasadışı örgüt ve topluluklara ait amblem ve işaret taşıyarak veya bu işaret ve amblemleri üzerinde bulunduran üniformayı andırır giysiler giyerek katılanlar ile kanunların suç saydığı nitelik taşıyan afiş, pankart, döviz, resim, levha, araç ve gereçler taşıyarak veya bu nitelikte sloganlar söyleyerek veya ses cihazları ile yayınlayarak katılanlar altı aydan üç yıla kadar,\n hapis cezası ile cezalandırılırlar.\n Toplantı ve gösteri yürüyüşünün kanuna aykırı olması halinde ve dağılmamak için direnildiği takdirde, ayrıca 32 nci madde hükümlerine göre cezaya hükmolunur.",
+      "preview": "(Değişik: 22/7/2010 - 6008/2 md.) (Değişik birinci fıkra: 27/3/2015-6638/8 md.) Toplantı ve gösteri yürüyüşlerine; a) Ateşli silahlar veya h…",
+      "kitap": null,
+      "kisim": null,
+      "bolum": "YEDİNCİ BÖLÜM · Ceza Hükümleri",
+      "ayirim": null,
+      "maddeBaslik": "Toplantı ve yürüyüşe silahlı katılanlar",
+      "sectionPath": [
+        "YEDİNCİ BÖLÜM · Ceza Hükümleri",
+        "Toplantı ve yürüyüşe silahlı katılanlar"
+      ]
+    },
+    {
+      "id": "kanun:2911:m:34",
+      "maddeKind": "madde",
+      "maddeNo": "34",
+      "heading": "Madde 34",
+      "text": "27 nci maddedeki yasağa aykırı hareket edenler toplantı veya yürüyüş vukubulmamış veya vukubulmuş olup da ilk emir ve ihtar üzerine dağıtılmış ise, fiil daha ağır bir cezayı gerektiren ayrı bir suç teşkil etmediği takdirde bir yıl altı aydan dört yıla, toplantı ve yürüyüş zorla dağıtılmış ise üç yıldan beş yıla kadar hapis cezası ile cezalandırılır.\n\n Çocuklar hakkında uygulanmayacak hüküm\n Madde 34/A – (Ek: 22/7/2010 - 6008/3 md.)\n Bu Kanuna aykırı toplantı ve gösteri yürüyüşlerine katılarak direnme suçunu veya katıldıkları toplantı ve gösteri yürüyüşleri sırasında propaganda suçunu işleyen çocuklar hakkında bu suçlara bağlı olarak ayrıca 3713 sayılı Terörle Mücadele Kanununun 2 nci maddesinin ikinci fıkrası hükmü uygulanmaz.",
+      "preview": "27 nci maddedeki yasağa aykırı hareket edenler toplantı veya yürüyüş vukubulmamış veya vukubulmuş olup da ilk emir ve ihtar üzerine dağıtılm…",
+      "kitap": null,
+      "kisim": null,
+      "bolum": "YEDİNCİ BÖLÜM · Ceza Hükümleri",
+      "ayirim": null,
+      "maddeBaslik": "Tahrikçiler ve suç ortakları",
+      "sectionPath": [
+        "YEDİNCİ BÖLÜM · Ceza Hükümleri",
+        "Tahrikçiler ve suç ortakları"
+      ]
+    },
+    {
+      "id": "kanun:2911:m:35",
+      "maddeKind": "madde",
+      "maddeNo": "35",
+      "heading": "Madde 35",
+      "text": "(Mülga: 23/1/2008-5728/578 md.)",
+      "preview": "(Mülga: 23/1/2008-5728/578 md.)",
+      "kitap": null,
+      "kisim": null,
+      "bolum": "SEKİZİNCİ BÖLÜM · Çeşitli Hükümler",
+      "ayirim": null,
+      "maddeBaslik": "Suçüstü hükümlerinin uygulanması",
+      "sectionPath": [
+        "SEKİZİNCİ BÖLÜM · Çeşitli Hükümler",
+        "Suçüstü hükümlerinin uygulanması"
+      ]
+    },
+    {
+      "id": "kanun:2911:m:36",
+      "maddeKind": "madde",
+      "maddeNo": "36",
+      "heading": "Madde 36",
+      "text": "(Mülga: 2/3/2014-6529/16 md.)",
+      "preview": "(Mülga: 2/3/2014-6529/16 md.)",
+      "kitap": null,
+      "kisim": null,
+      "bolum": "SEKİZİNCİ BÖLÜM · Çeşitli Hükümler",
+      "ayirim": null,
+      "maddeBaslik": "Hükümet komiserine verilecek ücret",
+      "sectionPath": [
+        "SEKİZİNCİ BÖLÜM · Çeşitli Hükümler",
+        "Hükümet komiserine verilecek ücret"
+      ]
+    },
+    {
+      "id": "kanun:2911:m:37",
+      "maddeKind": "madde",
+      "maddeNo": "37",
+      "heading": "Madde 37",
+      "text": "Düzenleme kurulunun (…)[19], güvenlik kuvvetlerinin ve görevli askeri birliklerin görev, yetki ve sorumluluklarının uygulanış biçimi ile bu Kanunun 10 ve 18 inci maddelerinde belirtilen hususlar ve Kanunun uygulanmasına ilişkin diğer hususlar Adalet, Milli Savunma ve İçişleri bakanlıklarınca bu Kanunun yayımı tarihinden itibaren üç ay içinde çıkarılacak ve Resmi Gazetede yayımlanacak bir yönetmelikle düzenlenir.",
+      "preview": "Düzenleme kurulunun (…)[19], güvenlik kuvvetlerinin ve görevli askeri birliklerin görev, yetki ve sorumluluklarının uygulanış biçimi ile bu…",
+      "kitap": null,
+      "kisim": null,
+      "bolum": "SEKİZİNCİ BÖLÜM · Çeşitli Hükümler",
+      "ayirim": null,
+      "maddeBaslik": "Yönetmelik düzenlenmesi",
+      "sectionPath": [
+        "SEKİZİNCİ BÖLÜM · Çeşitli Hükümler",
+        "Yönetmelik düzenlenmesi"
+      ]
+    },
+    {
+      "id": "kanun:2911:m:38",
+      "maddeKind": "madde",
+      "maddeNo": "38",
+      "heading": "Madde 38",
+      "text": "İl İdaresi Kanunu ile diğer kanunlardaki bu Kanun kapsamına giren konularla ilgili yetkiler saklıdır.",
+      "preview": "İl İdaresi Kanunu ile diğer kanunlardaki bu Kanun kapsamına giren konularla ilgili yetkiler saklıdır.",
+      "kitap": null,
+      "kisim": null,
+      "bolum": "SEKİZİNCİ BÖLÜM · Çeşitli Hükümler",
+      "ayirim": null,
+      "maddeBaslik": "Saklı hükümler",
+      "sectionPath": [
+        "SEKİZİNCİ BÖLÜM · Çeşitli Hükümler",
+        "Saklı hükümler"
+      ]
+    },
+    {
+      "id": "kanun:2911:m:39",
+      "maddeKind": "madde",
+      "maddeNo": "39",
+      "heading": "Madde 39",
+      "text": "10/2/1963 tarih ve 171 sayılı Toplantı ve Gösteri Yürüyüşü Hürriyeti Hakkında Kanun yürürlükten kaldırılmıştır.",
+      "preview": "10/2/1963 tarih ve 171 sayılı Toplantı ve Gösteri Yürüyüşü Hürriyeti Hakkında Kanun yürürlükten kaldırılmıştır.",
+      "kitap": null,
+      "kisim": null,
+      "bolum": "SEKİZİNCİ BÖLÜM · Çeşitli Hükümler",
+      "ayirim": null,
+      "maddeBaslik": "Kaldırılan hükümler",
+      "sectionPath": [
+        "SEKİZİNCİ BÖLÜM · Çeşitli Hükümler",
+        "Kaldırılan hükümler"
+      ]
+    },
+    {
+      "id": "kanun:2911:m:ek:1",
+      "maddeKind": "ek",
+      "maddeNo": "1",
+      "heading": "Ek Madde 1",
+      "text": "(27/3/2015-6638/9 md.)\n Şiddet olaylarının yaygınlaşarak kamu düzeninin ciddi şekilde bozulmasına yol açabilecek toplumsal olaylarda kamu mallarına verilen zararlar ile gerçek ve tüzel kişilerin mallarına verilen zararların Devlet tarafından karşılanması hâlinde, ilgili idare ödeme nedeniyle genel hükümlere göre sorumlulara rücu eder. Bu Kanun kapsamındaki rücu istemine ilişkin zamanaşımı süreleri bir kat artırılarak uygulanır.",
+      "preview": "(27/3/2015-6638/9 md.) Şiddet olaylarının yaygınlaşarak kamu düzeninin ciddi şekilde bozulmasına yol açabilecek toplumsal olaylarda kamu mal…",
+      "kitap": null,
+      "kisim": null,
+      "bolum": "SEKİZİNCİ BÖLÜM · Çeşitli Hükümler",
+      "ayirim": null,
+      "maddeBaslik": "Rücu",
+      "sectionPath": [
+        "SEKİZİNCİ BÖLÜM · Çeşitli Hükümler",
+        "Rücu"
+      ]
+    },
+    {
+      "id": "kanun:2911:m:gecici:1",
+      "maddeKind": "gecici",
+      "maddeNo": "1",
+      "heading": "Geçici Madde 1",
+      "text": "Kanunun 6 ve 26 ncı maddelerine göre yapılacak tespit ve ilan bu Kanunun yayımı tarihinden itibaren üç ay içinde yapılır.",
+      "preview": "Kanunun 6 ve 26 ncı maddelerine göre yapılacak tespit ve ilan bu Kanunun yayımı tarihinden itibaren üç ay içinde yapılır.",
+      "kitap": null,
+      "kisim": null,
+      "bolum": "SEKİZİNCİ BÖLÜM · Çeşitli Hükümler",
+      "ayirim": null,
+      "maddeBaslik": "Rücu",
+      "sectionPath": [
+        "SEKİZİNCİ BÖLÜM · Çeşitli Hükümler",
+        "Rücu"
+      ]
+    },
+    {
+      "id": "kanun:2911:m:gecici:2",
+      "maddeKind": "gecici",
+      "maddeNo": "2",
+      "heading": "Geçici Madde 2",
+      "text": "Bölge valilikleri kuruluncaya kadar geçecek süre içinde bu Kanun gereğince bölge valilerine tanınmış bulunan erteleme yetkisi İçişleri Bakanlığı tarafından kullanılır.",
+      "preview": "Bölge valilikleri kuruluncaya kadar geçecek süre içinde bu Kanun gereğince bölge valilerine tanınmış bulunan erteleme yetkisi İçişleri Bakan…",
+      "kitap": null,
+      "kisim": null,
+      "bolum": "SEKİZİNCİ BÖLÜM · Çeşitli Hükümler",
+      "ayirim": null,
+      "maddeBaslik": "Rücu",
+      "sectionPath": [
+        "SEKİZİNCİ BÖLÜM · Çeşitli Hükümler",
+        "Rücu"
+      ]
+    },
+    {
+      "id": "kanun:2911:m:40",
+      "maddeKind": "madde",
+      "maddeNo": "40",
+      "heading": "Madde 40",
+      "text": "Bu Kanun yayımı tarihinden üç ay sonra yürürlüğe girer.",
+      "preview": "Bu Kanun yayımı tarihinden üç ay sonra yürürlüğe girer.",
+      "kitap": null,
+      "kisim": null,
+      "bolum": "SEKİZİNCİ BÖLÜM · Çeşitli Hükümler",
+      "ayirim": null,
+      "maddeBaslik": "Yürürlük",
+      "sectionPath": [
+        "SEKİZİNCİ BÖLÜM · Çeşitli Hükümler",
+        "Yürürlük"
+      ]
+    },
+    {
+      "id": "kanun:2911:m:41",
+      "maddeKind": "madde",
+      "maddeNo": "41",
+      "heading": "Madde 41",
+      "text": "Bu Kanun hükümlerini Bakanlar Kurulu yürütür.\n 2911 SAYILI KANUNA EK VE DEĞİŞİKLİK GETİREN MEVZUATIN VEYA ANAYASA MAHKEMESİ KARARLARININ YÜRÜRLÜĞE GİRİŞ\n TARİHLERİNİ GÖSTERİR TABLO\n\n Değiştiren Kanunun/\n KHK’nin veya İptal Eden Anayasa Mahkemesi Kararının Numarası\n 2911 Sayılı Kanunun Değişen veya İptal Edilen Maddeleri\n Yürürlüğe Giriş Tarihi\n\n 4378\n 23\n 2/8/1998\n\n 4748\n 9, 17, 19, 21\n 9/4/2002\n\n 4771\n 3, 10\n 9/8/2002\n\n 4963\n 15, 16, 18, 19\n 7/8/2003\n\n 5728\n 28, 29, 30, 31, 32, 35\n 8/2/2008\n\n 6008\n 32, 33, 34/A\n 25/7/2010\n\n 6529\n 6, 7, 11, 12, 13, 23, 24, 28, 36, 37\n 13/3/2014\n\n 6638\n 23, 33, Ek Madde 1\n 4/4/2015\n\n KHK/680\n 2\n 6/1/2017\n\n Anayasa Mahkemesinin\n 28/9/2017 tarihli ve E.: 2014/1011, K.: 2017/142 sayılı Kararı\n 6, 22\n 27/12/2017\n\n 7\n Kararın Resmî Gazete’de yayımından dokuz ay sonra\n (27/9/2018)\n\n 7072\n 2\n 8/3/2018\n\n KHK/700\n 4\n 24/6/2018 tarihinde birlikte yapılan Türkiye Büyük Millet Meclisi ve Cumhurbaşkanlığı seçimleri sonucunda Cumhurbaşkanının andiçerek göreve başladığı tarihte (9/7/2018)\n\n 7145\n 6, 7\n 31/7/2018\n\n Anayasa Mahkemesinin 10/9/2020 tarihli ve E.: 2020/12, K.: 2020/46 sayılı Kararı\n 22\n 18/11/2020\n\n Anayasa Mahkemesi’nin 30/6/2022 tarihli ve E.: 2018/137, K.: 2022/86 sayılı Kararı\n 7\n 12/1/2023\n\n 7418\n 6\n 1/4/2023\n\n [1] 2/7/2018 tarihli ve 700 sayılı KHK’nin 83 üncü maddesiyle, bu bentte yer alan “Başbakan” ibaresi “Cumhurbaşkanı yardımcıları” şeklinde değiştirilmiş ve “ve Hükümet” ibaresi madde metninden çıkarılmıştır.\n\n [2] 27/12/2017 tarihli ve 30283 sayılı Resmî Gazete’de yayımlanan Anayasa Mahkemesinin 28/9/2017 tarihli ve E.: 2014/101, K.: 2017/142 sayılı Kararı ile, bu fıkranın birinci cümlesinde yer alan “…ve vatandaşların günlük yaşamını zorlaştırmayacak…” ibaresi iptal edilmiştir.\n\n [3] 25/7/2018 tarihli ve 7145 sayılı Kanunun 8 inci maddesiyle, bu fıkrada yer alan “genel asayişi bozmayacak” ibaresinden sonra gelmek üzere “, vatandaşların günlük yaşamını aşırı ve katlanılamaz derecede zorlaştırmayacak” ibaresi eklenmiştir.\n\n [4] 13/10/2022 tarihli ve 7418 sayılı Kanunun 28 inci maddesiyle; bu fıkraya “yerel gazeteler” ibaresinden sonra gelmek üzere “ve internet haber siteleri” ibaresi eklenmiştir.\n\n [5] 27/12/2017 tarihli ve 30283 sayılı Resmî Gazete’de yayımlanan Anayasa Mahkemesinin 28/9/2017 tarihli ve E.: 2014/101, K.: 2017/142 sayılı Kararı ile, bu fıkranın birinci cümlesinde yer alan “…ve vatandaşların günlük yaşamını zorlaştırmayacak…” ibaresi iptal edilmiştir.\n\n [6] 30/7/2003 tarihli ve 4963 sayılı Kanunun 18 inci maddesiyle bu maddede yer alan “otuz” ibaresi “on” şeklinde değiştirilmiştir.\n\n [7] 30/7/2003 tarihli ve 4963 sayılı Kanunun 19 uncu maddesiyle bu maddede yer alan “otuz” ibareleri “on” şeklinde değiştirilmiştir.\n\n [8] 30/7/2003 tarihli ve 4963 sayılı Kanunun 20 nci maddesi ile bu maddenin “Toplantının yasaklanması veya ertelenmesi” olan başlığı metne işlendiği şekilde; madde metninde yer alan “yasaklayabilir veya iki ayı aşmamak üzere erteleyebilir.” ibaresi de “bir ayı aşmamak üzere erteleyebilir veya suç işleneceğine dair açık ve yakın tehlike mevcut olması hâlinde yasaklayabilir.” şeklinde değiştirilmiştir.\n\n [9] 30/7/2003 tarihli ve 4963 sayılı Kanunun 21 inci maddesi ile bu maddenin “Yasaklama veya erteleme kararının tebliği” olan başlığı metne işlendiği şekilde; maddenin birinci fıkrasında yer alan “yasaklanan veya ertelenen” ibareleri “ertelenen veya yasaklanan”, “yasaklama veya ertelenen” ibaresi “erteleme veya yasaklama”; maddenin ikinci fıkrasında yer alan “yasaklanabileceği veya ertelenebileceği” ibaresi “ertelenebileceği veya yasaklanabileceği” şeklinde değiştirilmiştir.\n\n [10] 30/7/2003 tarihli ve 4963 sayılı Kanunun 22 nci maddesi ile bu maddenin “İl veya İlçelerde bütün toplantıların yasaklanması” olan başlığı metne işlendiği şekilde; maddenin birinci fıkrasının birinci cümlesinde yer alan “üç” ibaresi “bir” şeklinde değiştirilmiştir.\n\n [11] 27/12/2017 tarihli ve 30283 sayılı Resmî Gazete’de yayımlanan Anayasa Mahkemesinin 28/9/2017 tarihli ve E.: 2014/101, K.: 2017/142 sayılı Kararı ile, bu fıkranın birinci cümlesinde yer alan “Genel yollar …” ibaresi iptal edilmiştir.\n\n [12] 27/3/2015 tarihli ve 6638 sayılı Kanunun 7 nci maddesiyle, bu bentte yer alan “Ateşli silahlar veya” ibaresinden sonra gelmek üzere “havai fişek, molotof ve benzeri el yapımı olanlar dâhil” ibaresi ve “zincir” ibaresinden sonra gelmek üzere “, demir bilye ve sapan” ibaresi eklenmiştir.\n\n [13] 2/3/2014 tarihli ve 6529 sayılı Kanunun 10 uncu maddesiyle, bu fıkrada yer alan “(a) ve (b) bentlerindeki” ibaresi “Birinci fıkrada düzenlenen” şeklinde değiştirilmiştir.\n\n [14] 2/3/2014 tarihli ve 6529 sayılı Kanunun 16 ncı maddesiyle, bu fıkrada yer alan, “hükümet komiserine veya yardımcılarına veya hükümet komiseri tarafından” ibaresi yürürlükten kaldırılmıştır.\n\n [15] 23/1/2008 tarihli ve 5728 sayılı Kanunun 423 üncü maddesiyle, bu maddede yer alan “ve beşbin liradan onbin liraya kadar ağır para” ibaresi madde metninden çıkartılmıştır.\n\n [16] 23/1/2008 tarihli ve 5728 sayılı Kanunun 424 üncü maddesiyle, bu maddede yer alan “ve beşbin liradan yirmibin liraya kadar ağır para” ibaresi madde metninden çıkartılmıştır.\n\n [17] 23/1/2008 tarihli ve 5728 sayılı Kanunun 425 inci maddesiyle, bu maddenin birinci fıkrasında yer alan “ve beşbin liradan otuzbin liraya kadar ağır para” ibaresi, ikinci fıkrasında yer alan “ve onbin liradan ellibin liraya kadar ağır para” ibaresi ile üçüncü fıkrasında yer alan “ve yirmibin liradan yüzbin liraya kadar ağır para” ibaresi madde metninden çıkartılmıştır.\n\n [18] 22/7/2010 tarihli ve 6008 sayılı Kanunun 1 inci maddesiyle bu maddenin “Hükümet emrine karşı gelenler” olan başlığı metne işlendiği şekilde değiştirilmiştir.\n\n [19] 2/3/2014 tarihli ve 6529 sayılı Kanunun 16 ncı maddesiyle bu fıkrada yer alan, “, hükümet komiseri ve yardımcılarının” ibaresi yürürlükten kaldırılmıştır.",
+      "preview": "Bu Kanun hükümlerini Bakanlar Kurulu yürütür. 2911 SAYILI KANUNA EK VE DEĞİŞİKLİK GETİREN MEVZUATIN VEYA ANAYASA MAHKEMESİ KARARLARININ YÜRÜ…",
+      "kitap": null,
+      "kisim": null,
+      "bolum": "SEKİZİNCİ BÖLÜM · Çeşitli Hükümler",
+      "ayirim": null,
+      "maddeBaslik": "Yürütme",
+      "sectionPath": [
+        "SEKİZİNCİ BÖLÜM · Çeşitli Hükümler",
+        "Yürütme"
+      ]
+    }
+  ]
+}

@@ -26,7 +26,6 @@ import {
 import ColorPicker from '../../components/ui/ColorPicker';
 import {
     applyFontFamilyOrMarker,
-    getMarkerFontFamily,
     getMarkerFormatActive,
     toggleMarkerFormatOrMark,
 } from '../../utils/listFormatUtils';
@@ -46,6 +45,7 @@ import {
     getParagraphStyleSpecLine,
     firstFontNameFromSpecLine,
     formatBlockStyleCompactTag,
+    formatTypographySpecLine,
     hasBlockStylePayload,
     type BlockStyleKey,
 } from '../../utils/blockStyleFormat';
@@ -58,6 +58,7 @@ import '../../extensions/SectionBreakInsert';
 import { propagateBlockStyleDefaultsToDocument } from '../../utils/blockStylePropagate';
 import { promptSetLink } from '../../utils/editorLink';
 import { applyEditorTextColor } from '../../utils/editorTextColor';
+import { applyEditorHighlight, toggleEditorHighlight } from '../../utils/editorHighlight';
 import { applyTurkishCaseToSelection } from '../../utils/editorTextCaseApply';
 import { useEditorStyleStore } from '../../stores/useEditorStyleStore';
 import { useShallow } from 'zustand/react/shallow';
@@ -68,8 +69,9 @@ import * as SelectPrimitive from '@radix-ui/react-select';
 import TableSelector from './TableSelector';
 import MaterialIcon from '../../components/ui/MaterialIcon';
 import { Tooltip, TooltipContent, TooltipProvider, TooltipTrigger } from '../../components/ui/tooltip';
-import { ALL_FONTS, FONT_GROUPS } from '../../fonts/offlineFontRegistry';
+import { FONT_GROUPS } from '../../fonts/offlineFontRegistry';
 import { preloadAllBundledFonts } from '../../fonts/loadBundledFont';
+import { getSelectionFontFamilyState } from '../../utils/fontFamilyResolve';
 import {
     EDITOR_FONT_SIZES_PT,
     getSelectionFontSizeState,
@@ -414,22 +416,13 @@ const FontSizeInput: React.FC<FontSizeInputProps> = ({ editor }) => {
 // ─── Font Family Picker ──────────────────────────────────────────────────────
 interface FontFamilyPickerProps {
     editor: Editor;
-    /** Bu stil yuvası için kayıtlı varsayılan font varsa gösterim önceliği (Arial = Arial). */
-    preferredFontStack?: string | null;
 }
 
-const FontFamilyPicker: React.FC<FontFamilyPickerProps> = ({ editor, preferredFontStack }) => {
-    const markerFont = getMarkerFontFamily(editor);
-    const fromSelection = markerFont ?? editor.getAttributes('textStyle').fontFamily;
-    const trimmedSel = typeof fromSelection === 'string' ? fromSelection.trim() : '';
-    const currentStack =
-        trimmedSel !== ''
-            ? trimmedSel
-            : preferredFontStack && String(preferredFontStack).trim() !== ''
-              ? preferredFontStack
-              : 'Inter, sans-serif';
-    const foundFont = ALL_FONTS.find(f => f.stack === currentStack) ?? ALL_FONTS.find(f => currentStack.includes(f.name));
-    const currentFont = foundFont ?? { name: currentStack.split(',')[0].replace(/['"]/g, '').trim(), stack: currentStack };
+const FontFamilyPicker: React.FC<FontFamilyPickerProps> = ({ editor }) => {
+    const { mixed, font, raw } = getSelectionFontFamilyState(editor);
+    const currentFont = font ?? { name: 'Inter', stack: 'Inter, sans-serif' };
+    const currentStack = currentFont.stack;
+    const label = mixed ? 'Karışık' : currentFont.name;
     const [open, setOpen] = useState(false);
 
     useEffect(() => {
@@ -443,9 +436,10 @@ const FontFamilyPicker: React.FC<FontFamilyPickerProps> = ({ editor, preferredFo
                     variant="ghost"
                     className="h-8 px-2 gap-1 border-none bg-transparent hover:bg-muted/50 focus:ring-0 text-sm font-normal min-w-[110px] justify-between"
                     onMouseDown={(e) => e.preventDefault()}
+                    title={mixed ? 'Karışık yazı tipi' : (raw ?? currentFont.name)}
                 >
-                    <span style={{ fontFamily: currentFont.stack }} className="truncate max-w-[90px]">
-                        {currentFont.name}
+                    <span style={{ fontFamily: mixed ? undefined : currentFont.stack }} className="truncate max-w-[90px]">
+                        {label}
                     </span>
                     <MaterialIcon icon="arrow_drop_down" size={16} className="shrink-0 opacity-60" />
                 </Button>
@@ -458,19 +452,19 @@ const FontFamilyPicker: React.FC<FontFamilyPickerProps> = ({ editor, preferredFo
                             <p className="px-2 py-1 text-[10px] font-bold uppercase tracking-wider text-muted-foreground">
                                 {group.label}
                             </p>
-                            {group.fonts.map(font => (
+                            {group.fonts.map(fontOption => (
                                 <button
-                                    key={font.name}
+                                    key={fontOption.name}
                                     type="button"
-                                    className={`w-full text-left px-3 py-1.5 rounded-md text-sm transition-colors hover:bg-muted ${font.stack === currentStack ? 'bg-muted/80 font-semibold' : ''}`}
-                                    style={{ fontFamily: font.stack }}
+                                    className={`w-full text-left px-3 py-1.5 rounded-md text-sm transition-colors hover:bg-muted ${!mixed && fontOption.stack === currentStack ? 'bg-muted/80 font-semibold' : ''}`}
+                                    style={{ fontFamily: fontOption.stack }}
                                     onMouseDown={(e) => e.preventDefault()}
                                     onClick={() => {
-                                        applyFontFamilyOrMarker(editor, font.stack);
+                                        applyFontFamilyOrMarker(editor, fontOption.stack);
                                         setOpen(false);
                                     }}
                                 >
-                                    {font.name}
+                                    {fontOption.name}
                                 </button>
                             ))}
                         </div>
@@ -508,6 +502,7 @@ const EditorToolbar: React.FC<EditorToolbarProps> = ({
     const [isExpanded, setIsExpanded] = useState(false);
     const [isSpellCheckEnabled, setIsSpellCheckEnabled] = useState(false);
     const [orderedListStyleOpen, setOrderedListStyleOpen] = useState(false);
+    const toolsScrollRef = useRef<HTMLDivElement>(null);
 
     const {
         presets,
@@ -516,6 +511,7 @@ const EditorToolbar: React.FC<EditorToolbarProps> = ({
         addPreset: addTypographyPreset,
         removePreset: removeTypographyPreset,
         defaults: typographyDefaults,
+        clearDefaults: clearTypographyDefaults,
     } = useEditorStyleStore(
         useShallow((s) => ({
             presets: s.presets,
@@ -524,6 +520,7 @@ const EditorToolbar: React.FC<EditorToolbarProps> = ({
             addPreset: s.addPreset,
             removePreset: s.removePreset,
             defaults: s.defaults,
+            clearDefaults: s.clearDefaults,
         })),
     );
 
@@ -542,11 +539,33 @@ const EditorToolbar: React.FC<EditorToolbarProps> = ({
             }, 120);
         };
         editor.on('selectionUpdate', bump);
+        editor.on('update', bump);
         return () => {
             if (t) clearTimeout(t);
             editor.off('selectionUpdate', bump);
+            editor.off('update', bump);
         };
     }, [editor]);
+
+    useEffect(() => {
+        const el = toolsScrollRef.current;
+        if (!el || isExpanded) return;
+
+        const onWheel = (event: WheelEvent) => {
+            if (el.scrollWidth <= el.clientWidth + 1) return;
+            const delta =
+                Math.abs(event.deltaX) > Math.abs(event.deltaY) ? event.deltaX : event.deltaY;
+            if (delta === 0) return;
+            const maxScroll = el.scrollWidth - el.clientWidth;
+            const next = Math.min(maxScroll, Math.max(0, el.scrollLeft + delta));
+            if (next === el.scrollLeft) return;
+            event.preventDefault();
+            el.scrollLeft = next;
+        };
+
+        el.addEventListener('wheel', onWheel, { passive: false });
+        return () => el.removeEventListener('wheel', onWheel);
+    }, [isExpanded]);
 
     const handleSelectOrderedListStyle = useCallback(
         (style: 'default' | 'legal' | 'roman' | 'paren' | 'outline') => {
@@ -624,15 +643,21 @@ const EditorToolbar: React.FC<EditorToolbarProps> = ({
 
     return (
         <TooltipProvider delayDuration={200}>
-            <div className="w-full flex justify-center py-1.5 px-4 overflow-visible relative">
+            <div className="relative w-full min-w-0 flex justify-center py-1.5 px-4">
                 <div
-                    className={`w-full max-w-[794px] mx-auto glass-panel rounded-2xl transition-all duration-300 backdrop-blur-xl bg-background/70 ${isExpanded
-                        ? 'h-auto p-1.5 ring-2 ring-accent shadow-lg shadow-accent/20 cursor-default'
-                        : 'h-[43px] max-h-[43px] overflow-hidden overflow-y-hidden hover:shadow-[0_0_15px_color-mix(in_srgb,var(--secondary)_40%,transparent)] p-1.5'
-                        }`}
+                    ref={toolsScrollRef}
+                    className={cn(
+                        'w-full min-w-0 max-w-[794px] mx-auto glass-panel rounded-2xl transition-all duration-300 backdrop-blur-xl bg-background/70',
+                        isExpanded
+                            ? 'h-auto overflow-visible p-1.5 ring-2 ring-accent shadow-lg shadow-accent/20 cursor-default'
+                            : 'h-[43px] max-h-[43px] overflow-x-auto overflow-y-hidden overscroll-x-contain touch-pan-x p-1.5 hover:shadow-[0_0_15px_color-mix(in_srgb,var(--secondary)_40%,transparent)]',
+                    )}
                 >
                     <div
-                        className={`w-full min-h-0 h-full flex items-center gap-1 ${isExpanded ? 'flex-wrap' : 'flex-nowrap overflow-x-auto overflow-y-hidden no-scrollbar'}`}
+                        className={cn(
+                            'h-full min-h-0 flex items-center gap-1',
+                            isExpanded ? 'w-full flex-wrap' : 'w-max min-w-full flex-nowrap',
+                        )}
                     >
                         {/* Expand/Collapse Toggle & Search */}
                         <div className="flex items-center gap-0.5 shrink-0 sticky left-0 z-10 bg-background/90">
@@ -721,12 +746,16 @@ const EditorToolbar: React.FC<EditorToolbarProps> = ({
                                         onClick={async () => {
                                             const p = captureTypographyPayload(editor);
                                             await saveTypographyDefaults(p);
-                                            toast.success('Mevcut biçim varsayılan yapıldı');
+                                            const spec = formatTypographySpecLine(p);
+                                            toast.success(spec ? `Varsayılan kaydedildi · ${spec}` : 'Mevcut biçim varsayılan yapıldı');
                                         }}
                                     >
                                         <MaterialIcon icon="reset_settings" size={16} className="mr-2 opacity-70" />
                                         Varsayılan Yap
                                     </DropdownMenuItem>
+                                    <p className="px-3 pb-1 text-[10px] leading-snug text-muted-foreground">
+                                        Yeni boş belgede uygulanır. H1/H2 yuvaları sağdaki kaydet ikonundan ayrıdır.
+                                    </p>
 
                                     {/* Yeni Kayıt Alanı */}
                                     <div className="px-2 py-2 flex gap-1">
@@ -774,7 +803,7 @@ const EditorToolbar: React.FC<EditorToolbarProps> = ({
                                         <div className="flex items-center px-1">
                                             <DropdownMenuItem
                                                 className="text-sm flex-1 py-1 cursor-pointer"
-                                                disabled={!typographyDefaults?.payload}
+                                                disabled={!hasBlockStylePayload(typographyDefaults?.payload)}
                                                 onClick={() => {
                                                     const p = typographyDefaults?.payload;
                                                     if (!p) return;
@@ -782,8 +811,32 @@ const EditorToolbar: React.FC<EditorToolbarProps> = ({
                                                     toast.message('Varsayılan biçim uygulandı');
                                                 }}
                                             >
-                                                Varsayılan Stil
+                                                <div className="flex min-w-0 flex-col items-start">
+                                                    <span>Varsayılan Stil</span>
+                                                    {formatTypographySpecLine(typographyDefaults?.payload) && (
+                                                        <span className="font-mono text-[10px] text-muted-foreground">
+                                                            {formatTypographySpecLine(typographyDefaults?.payload)}
+                                                        </span>
+                                                    )}
+                                                </div>
                                             </DropdownMenuItem>
+                                            {hasBlockStylePayload(typographyDefaults?.payload) && (
+                                                <Button
+                                                    variant="ghost"
+                                                    size="icon"
+                                                    className="h-7 w-7 text-muted-foreground hover:text-destructive"
+                                                    title="Varsayılanı kaldır"
+                                                    aria-label="Varsayılanı kaldır"
+                                                    onClick={(ev) => {
+                                                        ev.preventDefault();
+                                                        ev.stopPropagation();
+                                                        void clearTypographyDefaults();
+                                                        toast.message('Varsayılan stil kaldırıldı');
+                                                    }}
+                                                >
+                                                    <MaterialIcon icon="close" size={14} />
+                                                </Button>
+                                            )}
                                         </div>
                                         {/* Dinamik Listeler */}
                                         {presets.map((pr) => (
@@ -795,7 +848,18 @@ const EditorToolbar: React.FC<EditorToolbarProps> = ({
                                                         toast.message(`Uygulandı: ${pr.name}`);
                                                     }}
                                                 >
-                                                    {pr.name}
+                                                    <div className="flex min-w-0 flex-col items-start">
+                                                        <span className="truncate">{pr.name}</span>
+                                                        {formatTypographySpecLine(pr.payload) ? (
+                                                            <span className="font-mono text-[10px] text-muted-foreground">
+                                                                {formatTypographySpecLine(pr.payload)}
+                                                            </span>
+                                                        ) : (
+                                                            <span className="text-[10px] italic text-muted-foreground">
+                                                                Eksik biçim
+                                                            </span>
+                                                        )}
+                                                    </div>
                                                 </DropdownMenuItem>
                                                 <Button
                                                     variant="ghost"
@@ -815,7 +879,7 @@ const EditorToolbar: React.FC<EditorToolbarProps> = ({
                                             </div>
                                         ))}
 
-                                        {presets.length === 0 && !typographyDefaults?.payload && (
+                                        {presets.length === 0 && !hasBlockStylePayload(typographyDefaults?.payload) && (
                                             <p className="px-3 py-4 text-center text-xs text-muted-foreground italic">
                                                 Henüz kayıtlı bir stil yok
                                             </p>
@@ -906,22 +970,7 @@ const EditorToolbar: React.FC<EditorToolbarProps> = ({
 
                         {/* Font Family — custom picker with preview */}
                         <div className="shrink-0 flex items-center">
-                            <FontFamilyPicker
-                                editor={editor}
-                                preferredFontStack={(() => {
-                                    void editorRev;
-                                    const bk = asBlockStyleKey(getHeadingSelectValue(editor)) ?? 'p';
-                                    const def = blockDefaults[bk];
-                                    if (
-                                        hasBlockStylePayload(def) &&
-                                        def?.fontFamily &&
-                                        String(def.fontFamily).trim() !== ''
-                                    ) {
-                                        return def.fontFamily;
-                                    }
-                                    return null;
-                                })()}
-                            />
+                            <FontFamilyPicker editor={editor} />
                         </div>
 
                         <Separator orientation="vertical" className="hidden sm:block h-6 mx-1 shrink-0" />
@@ -1209,14 +1258,9 @@ const EditorToolbar: React.FC<EditorToolbarProps> = ({
                             />
                             <ColorPicker
                                 color={editor.getAttributes('highlight').color}
-                                onChange={(color) => {
-                                    if (color === '#ffffff') {
-                                        editor.chain().focus().unsetHighlight().run();
-                                    } else {
-                                        editor.chain().focus().toggleHighlight({ color }).run();
-                                    }
-                                }}
-                                label="Vurgu Rengi"
+                                onChange={(color) => applyEditorHighlight(editor, color)}
+                                onApplyDefault={() => toggleEditorHighlight(editor)}
+                                label="Vurgu"
                                 mode="highlight"
                             />
                         </div>

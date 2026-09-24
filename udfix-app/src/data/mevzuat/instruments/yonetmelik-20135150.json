@@ -1,0 +1,1617 @@
+{
+  "id": "yonetmelik:20135150",
+  "kind": "yonetmelik",
+  "no": "20135150",
+  "title": "Tapu Sicili Tüzüğü",
+  "shortName": "TapuTüz",
+  "aliases": [
+    "TapuTüz",
+    "Tapu Sicili Tüzüğü",
+    "20135150"
+  ],
+  "tur": 2,
+  "tertip": 5,
+  "sourceUrl": "https://www.mevzuat.gov.tr/mevzuat?MevzuatNo=20135150&MevzuatTur=2&MevzuatTertip=5",
+  "kabulTarihi": null,
+  "maddeCount": 94,
+  "maddeler": [
+    {
+      "id": "yonetmelik:20135150:m:1",
+      "maddeKind": "madde",
+      "maddeNo": "1",
+      "heading": "Madde 1",
+      "text": "(1) Bu Tüzüğün amacı, 22/11/2001 tarih ve 4721 sayılı Türk Medeni Kanununun öngördüğü tapu sicillerinin düzenli bir biçimde tutulmasını sağlamaktır.",
+      "preview": "(1) Bu Tüzüğün amacı, 22/11/2001 tarih ve 4721 sayılı Türk Medeni Kanununun öngördüğü tapu sicillerinin düzenli bir biçimde tutulmasını sağl…",
+      "kitap": null,
+      "kisim": null,
+      "bolum": "BİRİNCİ BÖLÜM · Amaç, Kapsam, Dayanak ve Tanımlar",
+      "ayirim": null,
+      "maddeBaslik": "Amaç",
+      "sectionPath": [
+        "BİRİNCİ BÖLÜM · Amaç, Kapsam, Dayanak ve Tanımlar",
+        "Amaç"
+      ]
+    },
+    {
+      "id": "yonetmelik:20135150:m:2",
+      "maddeKind": "madde",
+      "maddeNo": "2",
+      "heading": "Madde 2",
+      "text": "(1) Bu Tüzük, taşınmazlarla ilgili mülkiyet hakkı, sınırlı aynî haklar ve kişisel hakların tapu siciline tescil, değişiklik, terkin ve düzeltme işlemleri ile sicil ve belgelerin arşivlenmesinin usûl ve esaslarını kapsar.",
+      "preview": "(1) Bu Tüzük, taşınmazlarla ilgili mülkiyet hakkı, sınırlı aynî haklar ve kişisel hakların tapu siciline tescil, değişiklik, terkin ve düzel…",
+      "kitap": null,
+      "kisim": null,
+      "bolum": "BİRİNCİ BÖLÜM · Amaç, Kapsam, Dayanak ve Tanımlar",
+      "ayirim": null,
+      "maddeBaslik": "Kapsam",
+      "sectionPath": [
+        "BİRİNCİ BÖLÜM · Amaç, Kapsam, Dayanak ve Tanımlar",
+        "Kapsam"
+      ]
+    },
+    {
+      "id": "yonetmelik:20135150:m:3",
+      "maddeKind": "madde",
+      "maddeNo": "3",
+      "heading": "Madde 3",
+      "text": "(1) Bu Tüzük, 4721 sayılı Kanunun 913 üncü, 997 nci, 998 inci, 1000 inci, 1012 nci ve 1017 nci maddelerine dayanılarak hazırlanmıştır.",
+      "preview": "(1) Bu Tüzük, 4721 sayılı Kanunun 913 üncü, 997 nci, 998 inci, 1000 inci, 1012 nci ve 1017 nci maddelerine dayanılarak hazırlanmıştır.",
+      "kitap": null,
+      "kisim": null,
+      "bolum": "BİRİNCİ BÖLÜM · Amaç, Kapsam, Dayanak ve Tanımlar",
+      "ayirim": null,
+      "maddeBaslik": "Dayanak",
+      "sectionPath": [
+        "BİRİNCİ BÖLÜM · Amaç, Kapsam, Dayanak ve Tanımlar",
+        "Dayanak"
+      ]
+    },
+    {
+      "id": "yonetmelik:20135150:m:4",
+      "maddeKind": "madde",
+      "maddeNo": "4",
+      "heading": "Madde 4",
+      "text": "(1) Bu Tüzükte geçen;\n a) Bölge müdürlüğü: Tapu ve Kadastro Genel Müdürlüğü bölge müdürlüklerini,\n b) Genel Müdürlük: Tapu ve Kadastro Genel Müdürlüğünü,\n c) İstem belgesi: Tescil veya terkin istem belgesini,\n ç) Kütük: Tapu kütüğü ve kat mülkiyeti kütüğünü,\n d) Müdür: Tapu müdürünü,\n e) Müdürlük: Tapu müdürlüğünü,\n f) TAKBİS: Tapu ve Kadastro Bilgi Sistemini,\n g) Tapu görevlisi: Tapu müdürlüklerinde işlem hazırlama ve kontrol işlerini yürüten memur veya sözleşmeli personeli,\n ifade eder.",
+      "preview": "(1) Bu Tüzükte geçen; a) Bölge müdürlüğü: Tapu ve Kadastro Genel Müdürlüğü bölge müdürlüklerini, b) Genel Müdürlük: Tapu ve Kadastro Genel M…",
+      "kitap": null,
+      "kisim": null,
+      "bolum": "BİRİNCİ BÖLÜM · Amaç, Kapsam, Dayanak ve Tanımlar",
+      "ayirim": null,
+      "maddeBaslik": "Tanımlar",
+      "sectionPath": [
+        "BİRİNCİ BÖLÜM · Amaç, Kapsam, Dayanak ve Tanımlar",
+        "Tanımlar"
+      ]
+    },
+    {
+      "id": "yonetmelik:20135150:m:5",
+      "maddeKind": "madde",
+      "maddeNo": "5",
+      "heading": "Madde 5",
+      "text": "(1) Tapu sicili, Devletin sorumluluğu altında, tescil ve açıklık ilkelerine göre taşınmazlar ile üzerindeki hakların durumlarını göstermek üzere tutulan sicildir.",
+      "preview": "(1) Tapu sicili, Devletin sorumluluğu altında, tescil ve açıklık ilkelerine göre taşınmazlar ile üzerindeki hakların durumlarını göstermek ü…",
+      "kitap": null,
+      "kisim": null,
+      "bolum": "İKİNCİ BÖLÜM · Genel Hükümler",
+      "ayirim": null,
+      "maddeBaslik": "Tapu sicili",
+      "sectionPath": [
+        "İKİNCİ BÖLÜM · Genel Hükümler",
+        "Tapu sicili"
+      ]
+    },
+    {
+      "id": "yonetmelik:20135150:m:6",
+      "maddeKind": "madde",
+      "maddeNo": "6",
+      "heading": "Madde 6",
+      "text": "(1) Her ilçenin idarî sınırları bir tapu sicili bölgesidir. Taşınmazlar, bulundukları bölgenin tapu siciline kaydedilir.\n (2) Tapu sicili, her mahalle veya köy için ayrı ayrı düzenlenir ve taşınmazlara Genel Müdürlük tarafından Türkiye Cumhuriyeti taşınmaz numarası verilir.\n (3) Birden çok bölgede bulunan taşınmaz, diğer bölge sicillerine kayıtlı olduğu belirtilmek suretiyle her bölgedeki sicile ayrı ayrı kaydedilir. Böyle bir taşınmaza ilişkin tescil istemleri ve tescil işlemleri taşınmazın büyük kısmının bulunduğu bölgede yapılır ve yapılan tescil kütüğe işlenmek üzere diğer bölgelerdeki ilgili müdürlüklere bildirilir.",
+      "preview": "(1) Her ilçenin idarî sınırları bir tapu sicili bölgesidir. Taşınmazlar, bulundukları bölgenin tapu siciline kaydedilir. (2) Tapu sicili, he…",
+      "kitap": null,
+      "kisim": null,
+      "bolum": "İKİNCİ BÖLÜM · Genel Hükümler",
+      "ayirim": null,
+      "maddeBaslik": "Sicil bölgeleri",
+      "sectionPath": [
+        "İKİNCİ BÖLÜM · Genel Hükümler",
+        "Sicil bölgeleri"
+      ]
+    },
+    {
+      "id": "yonetmelik:20135150:m:7",
+      "maddeKind": "madde",
+      "maddeNo": "7",
+      "heading": "Madde 7",
+      "text": "(1) Tapu sicili, aşağıda belirtilen ana ve yardımcı sicillerden oluşur:\n (2) Ana siciller:\n a) Tapu kütüğü,\n b) Kat mülkiyeti kütüğü,\n c) Yevmiye defteri,\n ç) Resmî belgeler (resmî senet, mahkeme kararı ve diğerleri),\n d) Plân.\n (3) Yardımcı siciller:\n a) Aziller sicili,\n b) Düzeltmeler sicili,\n c) Kamu orta malları sicili,\n ç) Tapu envanter defteri.",
+      "preview": "(1) Tapu sicili, aşağıda belirtilen ana ve yardımcı sicillerden oluşur: (2) Ana siciller: a) Tapu kütüğü, b) Kat mülkiyeti kütüğü, c) Yevmiy…",
+      "kitap": null,
+      "kisim": null,
+      "bolum": "İKİNCİ BÖLÜM · Genel Hükümler",
+      "ayirim": null,
+      "maddeBaslik": "Tapu sicilinin unsurları",
+      "sectionPath": [
+        "İKİNCİ BÖLÜM · Genel Hükümler",
+        "Tapu sicilinin unsurları"
+      ]
+    },
+    {
+      "id": "yonetmelik:20135150:m:8",
+      "maddeKind": "madde",
+      "maddeNo": "8",
+      "heading": "Madde 8",
+      "text": "(1) Tapu siciline taşınmaz olarak şunlar kaydedilir:\n a) Arazi,\n b) Bağımsız ve sürekli haklar,\n c) Kat mülkiyetine konu olan bağımsız bölümler.\n (2) Özel mülkiyete tâbi olmayan ve kamunun yararlanmasına ayrılan taşınmazlar, bunlara ilişkin tescili gerekli bir aynî hakkın kurulması söz konusu olmadıkça kütüğe kaydolunmaz.\n (3) Tapuya kayıtlı bir taşınmaz, kayda tâbi olmayan bir taşınmaza dönüşürse, tapu sicilinden terkin edilir.",
+      "preview": "(1) Tapu siciline taşınmaz olarak şunlar kaydedilir: a) Arazi, b) Bağımsız ve sürekli haklar, c) Kat mülkiyetine konu olan bağımsız bölümler…",
+      "kitap": null,
+      "kisim": null,
+      "bolum": "İKİNCİ BÖLÜM · Genel Hükümler",
+      "ayirim": null,
+      "maddeBaslik": "Tapu siciline kaydı gereken taşınmazlar",
+      "sectionPath": [
+        "İKİNCİ BÖLÜM · Genel Hükümler",
+        "Tapu siciline kaydı gereken taşınmazlar"
+      ]
+    },
+    {
+      "id": "yonetmelik:20135150:m:9",
+      "maddeKind": "madde",
+      "maddeNo": "9",
+      "heading": "Madde 9",
+      "text": "(1) Arazi, sınırları hukukî ve geometrik yöntemlerle belirlenmiş yeryüzü parçasıdır. Arazinin tapu siciline kaydı, özel kanun hükümlerine tâbidir.",
+      "preview": "(1) Arazi, sınırları hukukî ve geometrik yöntemlerle belirlenmiş yeryüzü parçasıdır. Arazinin tapu siciline kaydı, özel kanun hükümlerine tâ…",
+      "kitap": null,
+      "kisim": null,
+      "bolum": "İKİNCİ BÖLÜM · Genel Hükümler",
+      "ayirim": null,
+      "maddeBaslik": "Arazi",
+      "sectionPath": [
+        "İKİNCİ BÖLÜM · Genel Hükümler",
+        "Arazi"
+      ]
+    },
+    {
+      "id": "yonetmelik:20135150:m:10",
+      "maddeKind": "madde",
+      "maddeNo": "10",
+      "heading": "Madde 10",
+      "text": "(1) Süresiz veya en az otuz yıl süreli olan ve tasarrufları kısıtlanmayan ve izne tâbi kılınmayan bağımsız ve sürekli irtifak hakları, hak sahibinin yazılı istemi üzerine tapu kütüğünün ayrı bir sayfasına taşınmaz olarak tescil edilir.\n (2) Tapu kütüğüne taşınmaz olarak tescil edilen bağımsız ve sürekli haklar, üçüncü kişilere devredilebilir, mirasçılara geçebilir ve üzerinde her türlü aynî veya kişisel hak kurulabilir.",
+      "preview": "(1) Süresiz veya en az otuz yıl süreli olan ve tasarrufları kısıtlanmayan ve izne tâbi kılınmayan bağımsız ve sürekli irtifak hakları, hak s…",
+      "kitap": null,
+      "kisim": null,
+      "bolum": "İKİNCİ BÖLÜM · Genel Hükümler",
+      "ayirim": null,
+      "maddeBaslik": "Bağımsız ve sürekli haklar",
+      "sectionPath": [
+        "İKİNCİ BÖLÜM · Genel Hükümler",
+        "Bağımsız ve sürekli haklar"
+      ]
+    },
+    {
+      "id": "yonetmelik:20135150:m:11",
+      "maddeKind": "madde",
+      "maddeNo": "11",
+      "heading": "Madde 11",
+      "text": "(1) Ana taşınmazın bağımsız mülkiyete konu olan bölümleri, kat mülkiyeti kütüğünün ayrı sayfalarına kaydedilir.",
+      "preview": "(1) Ana taşınmazın bağımsız mülkiyete konu olan bölümleri, kat mülkiyeti kütüğünün ayrı sayfalarına kaydedilir.",
+      "kitap": null,
+      "kisim": null,
+      "bolum": "İKİNCİ BÖLÜM · Genel Hükümler",
+      "ayirim": null,
+      "maddeBaslik": "Bağımsız bölüm",
+      "sectionPath": [
+        "İKİNCİ BÖLÜM · Genel Hükümler",
+        "Bağımsız bölüm"
+      ]
+    },
+    {
+      "id": "yonetmelik:20135150:m:12",
+      "maddeKind": "madde",
+      "maddeNo": "12",
+      "heading": "Madde 12",
+      "text": "(1) Tapu kayıtlarının elektronik ortamda tutulması hâlinde, ana ve yardımcı siciller TAKBİS içerisinde saklanır ve yönetilir. TAKBİS’te saklanan ve güvenliği sağlanan taşınmaza ilişkin bilgiler, sicilde esas alınır.\n (2) TAKBİS üzerindeki kayıtlar, sicillerin elektronik ortamda tutulmaya başlandığı tarihten sonraki bilgileri gösterir.",
+      "preview": "(1) Tapu kayıtlarının elektronik ortamda tutulması hâlinde, ana ve yardımcı siciller TAKBİS içerisinde saklanır ve yönetilir. TAKBİS’te sakl…",
+      "kitap": null,
+      "kisim": null,
+      "bolum": "ÜÇÜNCÜ BÖLÜM · Tapu Sicilinin Elektronik Ortamda Tutulması",
+      "ayirim": null,
+      "maddeBaslik": "Sicillerin elektronik ortamda tutulması",
+      "sectionPath": [
+        "ÜÇÜNCÜ BÖLÜM · Tapu Sicilinin Elektronik Ortamda Tutulması",
+        "Sicillerin elektronik ortamda tutulması"
+      ]
+    },
+    {
+      "id": "yonetmelik:20135150:m:13",
+      "maddeKind": "madde",
+      "maddeNo": "13",
+      "heading": "Madde 13",
+      "text": "(1) Genel Müdürlük tarafından belirlenecek resmî şekle tabî olmayan belge ve kayıt örneği verilmesi gibi işlemler, elektronik ortamda başvuru yapılarak ve elektronik imza dâhil diğer kimlik doğrulama yöntemleri kullanılarak tamamlanabilir.",
+      "preview": "(1) Genel Müdürlük tarafından belirlenecek resmî şekle tabî olmayan belge ve kayıt örneği verilmesi gibi işlemler, elektronik ortamda başvur…",
+      "kitap": null,
+      "kisim": null,
+      "bolum": "ÜÇÜNCÜ BÖLÜM · Tapu Sicilinin Elektronik Ortamda Tutulması",
+      "ayirim": null,
+      "maddeBaslik": "Elektronik ortamda işlem yapılması",
+      "sectionPath": [
+        "ÜÇÜNCÜ BÖLÜM · Tapu Sicilinin Elektronik Ortamda Tutulması",
+        "Elektronik ortamda işlem yapılması"
+      ]
+    },
+    {
+      "id": "yonetmelik:20135150:m:14",
+      "maddeKind": "madde",
+      "maddeNo": "14",
+      "heading": "Madde 14",
+      "text": "(1) Mahkemeler, Cumhuriyet başsavcılıkları, icra ve iflas müdürlükleri ile kamu kurum ve kuruluşlarının görevleriyle ilgili taşınmaz verilerine erişimi protokol düzenlenerek sağlanabilir. Erişim hakkına sahip kuruluşlar, taşınmaz ile ilgili verileri TAKBİS üzerinden alırlar.\n (2) Kamu kurumu niteliğindeki meslek kuruluşları ile taşınmaza ilişkin konularda faaliyet gösteren gerçek ve tüzel kişiler, kendi işleriyle sınırlı olmak üzere, düzenlenecek protokol kapsamında gerekli verilere erişebilirler.\n (3) TAKBİS üzerinden sorgulama yapılabilmesi için, Genel Müdürlük tarafından belirlenecek sözleşme imzalanır. Bu sözleşmede, erişimin türü ve şekli, erişim kontrolü, verilerin kullanım amacı, üçüncü kişilere kullandırılmasına ilişkin sınırlamalar ve amacı dışında kullanımın sonuçları yer alır.\n (4) Taşınmaz malikleri ile taşınmaz üzerinde hak sahibi olanlar, düzenlenecek sözleşme şartları dahilinde verilere erişebilirler.\n (5) Tapu sicilinde kayıtlı taşınmazın tanımlayıcı bilgileri herkes tarafından sözleşme şartları kapsamında sorgulanabilir.\n (6) Verilere erişim hakkının kötüye kullanılması hâlinde, özel kanun hükümleri saklı kalmak üzere, TAKBİS’e erişim derhâl durdurulur.\n (7) TAKBİS verilerine erişime ilişkin döner sermaye katılma payını ve bunun istisnalarını belirlemeye Genel Müdürlük yetkilidir.",
+      "preview": "(1) Mahkemeler, Cumhuriyet başsavcılıkları, icra ve iflas müdürlükleri ile kamu kurum ve kuruluşlarının görevleriyle ilgili taşınmaz veriler…",
+      "kitap": null,
+      "kisim": null,
+      "bolum": "ÜÇÜNCÜ BÖLÜM · Tapu Sicilinin Elektronik Ortamda Tutulması",
+      "ayirim": null,
+      "maddeBaslik": "Elektronik ortamda verilere erişim hakkı",
+      "sectionPath": [
+        "ÜÇÜNCÜ BÖLÜM · Tapu Sicilinin Elektronik Ortamda Tutulması",
+        "Elektronik ortamda verilere erişim hakkı"
+      ]
+    },
+    {
+      "id": "yonetmelik:20135150:m:15",
+      "maddeKind": "madde",
+      "maddeNo": "15",
+      "heading": "Madde 15",
+      "text": "(1) TAKBİS üzerinden yapılacak her türlü sorgulama ve sorgulayan bilgisi kayıt altına alınır. Bu kayıtlar iki yıl süreyle saklanır.\n (2) TAKBİS üzerindeki verilere erişimi durdurmaya veya kısıtlama yapmaya Genel Müdürlük yetkilidir.\n (3) TAKBİS üzerinde, tapu görevlileri hariç olmak üzere, verilerin ardı ardına sorgulanmasına ilişkin her türlü güvenlik önlemi alınır.",
+      "preview": "(1) TAKBİS üzerinden yapılacak her türlü sorgulama ve sorgulayan bilgisi kayıt altına alınır. Bu kayıtlar iki yıl süreyle saklanır. (2) TAKB…",
+      "kitap": null,
+      "kisim": null,
+      "bolum": "ÜÇÜNCÜ BÖLÜM · Tapu Sicilinin Elektronik Ortamda Tutulması",
+      "ayirim": null,
+      "maddeBaslik": "Erişim ve bilgi güvenliği",
+      "sectionPath": [
+        "ÜÇÜNCÜ BÖLÜM · Tapu Sicilinin Elektronik Ortamda Tutulması",
+        "Erişim ve bilgi güvenliği"
+      ]
+    },
+    {
+      "id": "yonetmelik:20135150:m:16",
+      "maddeKind": "madde",
+      "maddeNo": "16",
+      "heading": "Madde 16",
+      "text": "(1) Kanunlarda veya bu Tüzükte belirlenen istisnalar dışında, yazılı istem olmadıkça tapu sicili üzerinde işlem yapılamaz,\n (2) İstem, tescili bozucu veya hükümsüz kılıcı kayıt ve şarta bağlanamaz,\n (3) Müdürlüklere her türlü tapu işlemi için yapılacak istemde, başvuru istem belgesi düzenlenir.\n (4) Tapu sicilinde yapılacak haciz dahil her türlü kayıt sorgulaması istemlerinde, Türkiye Cumhuriyeti kimlik numarası veya taşınmazın ada ve parsel numarasının belirtilmesi zorunludur. Aksi hâlde istem reddedilir.",
+      "preview": "(1) Kanunlarda veya bu Tüzükte belirlenen istisnalar dışında, yazılı istem olmadıkça tapu sicili üzerinde işlem yapılamaz, (2) İstem, tescil…",
+      "kitap": null,
+      "kisim": null,
+      "bolum": "DÖRDÜNCÜ BÖLÜM · İstem ve İşlemin Sonuçlandırılması",
+      "ayirim": null,
+      "maddeBaslik": "İstem",
+      "sectionPath": [
+        "DÖRDÜNCÜ BÖLÜM · İstem ve İşlemin Sonuçlandırılması",
+        "İstem"
+      ]
+    },
+    {
+      "id": "yonetmelik:20135150:m:17",
+      "maddeKind": "madde",
+      "maddeNo": "17",
+      "heading": "Madde 17",
+      "text": "(1) Kanunî istisnalar dışında, tapu sicilinde hak sahibi olan kişiler istemde bulunabilir. Tescilden önce hak sahibi olmuş kişiler de hakkın tescili için gerekli belgeleri ibraz ederek istemde bulunabilirler.\n (2) Aile konutu olarak özgülenen taşınmazın maliki olmayan eş, tapu kütüğüne konutun aile konutu olduğuna dair şerhin verilmesini isteyebilir.",
+      "preview": "(1) Kanunî istisnalar dışında, tapu sicilinde hak sahibi olan kişiler istemde bulunabilir. Tescilden önce hak sahibi olmuş kişiler de hakkın…",
+      "kitap": null,
+      "kisim": null,
+      "bolum": "DÖRDÜNCÜ BÖLÜM · İstem ve İşlemin Sonuçlandırılması",
+      "ayirim": null,
+      "maddeBaslik": "İstemde bulunacaklar",
+      "sectionPath": [
+        "DÖRDÜNCÜ BÖLÜM · İstem ve İşlemin Sonuçlandırılması",
+        "İstemde bulunacaklar"
+      ]
+    },
+    {
+      "id": "yonetmelik:20135150:m:18",
+      "maddeKind": "madde",
+      "maddeNo": "18",
+      "heading": "Madde 18",
+      "text": "(1) İstem, müdür veya görevlendireceği tapu görevlisi tarafından incelenir ve istemin hak sahibi tarafından yapılıp yapılmadığı belirlenir.\n (2) İstemde bulunan hak sahibi gerçek kişi ise, Türkiye Cumhuriyeti kimlik numaralı nüfus cüzdanı istenir, ibraz edilen kimlik bilgileri ile tescile esas belgelerde yer alan nüfus bilgileri karşılaştırılarak istemde bulunan ile hak sahibinin aynı kişi olup olmadığı tespit edilir.\n (3) Hak sahibinin tespit edilmesine yönelik kimlik doğrulama yöntemlerini belirleyerek her türlü teknolojik güvenlik önlemlerini almaya Genel Müdürlük yetkilidir.\n (4) İstem vekâleten yapılmışsa, vekilden 18/1/1972 tarih ve 1512 sayılı Noterlik Kanununa göre düzenlenmiş ve istem konusu işleri yapmaya yetkili olduğunu içerir vekâletname istenir. Tapu işlemi için düzenlenecek vekâletnamelerde, vekâlet verenin imzasının bulunması zorunludur. Vekil, tevkil yetkisine dayalı olarak bir başkasını vekil tayin etmiş ise, dayanağı olan vekâletname de aranır. Vekilin kimliği belirlendikten sonra, tapu sicilindeki hak sahibi ile vekâletnamedeki vekâlet verenin kimliği ikinci fıkra hükmüne göre karşılaştırılır.\n (5) İstem bir tüzel kişi adına yapılmış ise, tüzel kişinin istemde bulunulan işlemi yapabileceğini ve temsilcilerini belirten, kanunlarda yazılı mercilerden alınmış yetki belgesi ve imza sirküleri aranır. Yetki belgesinde, temsilcinin Türkiye Cumhuriyeti kimlik numarasının da bulunması zorunludur.\n (6) İstemde bulunan kişi kanunî temsilci ise, yetkili olduğunu belirten karar veya belge istenir.\n (7) İstem, kamu kurum ve kuruluşlarınca yapılırsa, bu kamu kurum ve kuruluşlarının ve temsilcilerinin yetkilerinin olup olmadığı belirlenir.\n (8) Yabancı uyruklu gerçek kişiler ve yabancı ülkelerde kendi ülkelerinin kanunlarına göre kurulan tüzel kişiliğe sahip ticaret şirketlerinin tapu ve kadastro işlemlerinde kullanılacak belgeleri belirlemeye Genel Müdürlük yetkilidir.",
+      "preview": "(1) İstem, müdür veya görevlendireceği tapu görevlisi tarafından incelenir ve istemin hak sahibi tarafından yapılıp yapılmadığı belirlenir.…",
+      "kitap": null,
+      "kisim": null,
+      "bolum": "DÖRDÜNCÜ BÖLÜM · İstem ve İşlemin Sonuçlandırılması",
+      "ayirim": null,
+      "maddeBaslik": "Hak sahibinin belirlenmesi",
+      "sectionPath": [
+        "DÖRDÜNCÜ BÖLÜM · İstem ve İşlemin Sonuçlandırılması",
+        "Hak sahibinin belirlenmesi"
+      ]
+    },
+    {
+      "id": "yonetmelik:20135150:m:19",
+      "maddeKind": "madde",
+      "maddeNo": "19",
+      "heading": "Madde 19",
+      "text": "(1) İstemde bulunanların fiil ehliyetinin bulunup bulunmadığı araştırılır.\n (2) Müdürlük, istem sahibinin ifade, tavır ve davranışlarından fiil ehliyetinin bulunup bulunmadığı hususunda şüpheye dûşerse resmî veya özel sağlık kuruluşundan ilgilinin ayırt etme gücüne sahip olup olmadığı hakkında fotoğraflı sağlık raporu ister. Raporun tarihi ve numarası resmî senet veya istem belgesi içeriğinde belirtilir ve raporun aslı işlem dosyasında saklanır.",
+      "preview": "(1) İstemde bulunanların fiil ehliyetinin bulunup bulunmadığı araştırılır. (2) Müdürlük, istem sahibinin ifade, tavır ve davranışlarından fi…",
+      "kitap": null,
+      "kisim": null,
+      "bolum": "DÖRDÜNCÜ BÖLÜM · İstem ve İşlemin Sonuçlandırılması",
+      "ayirim": null,
+      "maddeBaslik": "Tasarruf yetkisinin belirlenmesi",
+      "sectionPath": [
+        "DÖRDÜNCÜ BÖLÜM · İstem ve İşlemin Sonuçlandırılması",
+        "Tasarruf yetkisinin belirlenmesi"
+      ]
+    },
+    {
+      "id": "yonetmelik:20135150:m:20",
+      "maddeKind": "madde",
+      "maddeNo": "20",
+      "heading": "Madde 20",
+      "text": "(1) Resmî senet düzenlenmesini gerektirmeyen işlemlerde aynî hakların tescili için;\n a) İstem, yasal veya atanmış mirasçılar tarafından yapılırsa yetkili merciler tarafından verilmiş mirasçılık belgesi,\n b) İstem, vasiyet alacaklısı tarafından yapılırsa taşınmazın tanımlandığı ve tescil hükmünü de içerir tenfiz kararı veya hâkim tarafından tescil için yazılan yazı ile birlikte tenfiz kararı ve vasiyetnamenin onaylı bir örneği; vasiyet alacaklısı, yasal ve atanmış mirasçılar tarafından birlikte yapılırsa vasiyetnamenin açılıp okunduğuna dair karar ile birlikte vasiyetnamenin onaylı bir örneği,\n c) Miras taksim veya miras payının devri sözleşmesinde tescil yetkisini içerir noterce düzenlenmiş sözleşme; miras taksim sözleşmesi mirasçılar arasında yazılı olarak yapılmış olup da mirasçıların imzaları noterce onaylanmamışsa tüm mirasçıların; imzaların bir kısmı onaylanmış ise imzaları onaylanmamış olanların istemleri,\n ç) Hükmen yapılan kamulaştırmalarda; mahkeme kararı,\n d) Cebri icra veya ortaklığın giderilmesi yoluyla yapılan satışlarda; gerçek kişi ihale alıcısının Türkiye Cumhuriyeti kimlik numaralı nüfus bilgilerini ve fotoğrafını içeren, tüzel kişi ihale alıcılarında ise kanunlarda yazılı mercilerden alınmış yetki belgesi ile birlikte ihale alıcısı tüzel kişiliğin unvanını içeren ihalenin kesinleştiğini ve tescili belirten yetkili merciin yazısı,\n e) Mahkeme kararına dayalı tescillerde; kesinleşmiş mahkeme kararı,\n f) İmar uygulamalarında; kesinleşmiş imar parselasyon planları, dağıtım cetvelleri ve gerekli diğer belgeler,\n g) Devlet veya kamu kurumlarınca taşınmazın tahsis veya devir yoluyla dağıtımında; ilgili kanuna uygun şekilde yetkili mercilerce verilen karar, Türkiye Cumhuriyeti kimlik numarasını ve diğer kimlik bilgilerini içerir dağıtım cetvelleri,\n ğ) Arazi toplulaştırmalarında; yetkili mercilerce onanan kesinleşmiş toplulaştırma planları, Türkiye Cumhuriyeti kimlik numarasını ve diğer kimlik bilgilerini içerir dağıtım cetvelleri,\n h) Kooperatiflerin ferdileşme işlemlerinde; üyelerin Türkiye Cumhuriyeti kimlik numarasını ve diğer kimlik bilgilerini içerir liste,\n aranır.",
+      "preview": "(1) Resmî senet düzenlenmesini gerektirmeyen işlemlerde aynî hakların tescili için; a) İstem, yasal veya atanmış mirasçılar tarafından yapıl…",
+      "kitap": null,
+      "kisim": null,
+      "bolum": "DÖRDÜNCÜ BÖLÜM · İstem ve İşlemin Sonuçlandırılması",
+      "ayirim": null,
+      "maddeBaslik": "Resmî senet düzenlenmesini gerektirmeyen işlemler",
+      "sectionPath": [
+        "DÖRDÜNCÜ BÖLÜM · İstem ve İşlemin Sonuçlandırılması",
+        "Resmî senet düzenlenmesini gerektirmeyen işlemler"
+      ]
+    },
+    {
+      "id": "yonetmelik:20135150:m:21",
+      "maddeKind": "madde",
+      "maddeNo": "21",
+      "heading": "Madde 21",
+      "text": "(1) Sözleşme düzenlenmesi gereken işlemlerde resmî senet düzenlenir.\n (2) Resmî senetlerin düzenlenmesine ilişkin usul ve esaslar yönetmelikle belirlenir.",
+      "preview": "(1) Sözleşme düzenlenmesi gereken işlemlerde resmî senet düzenlenir. (2) Resmî senetlerin düzenlenmesine ilişkin usul ve esaslar yönetmelikl…",
+      "kitap": null,
+      "kisim": null,
+      "bolum": "DÖRDÜNCÜ BÖLÜM · İstem ve İşlemin Sonuçlandırılması",
+      "ayirim": null,
+      "maddeBaslik": "Resmî senet düzenlenmesi",
+      "sectionPath": [
+        "DÖRDÜNCÜ BÖLÜM · İstem ve İşlemin Sonuçlandırılması",
+        "Resmî senet düzenlenmesi"
+      ]
+    },
+    {
+      "id": "yonetmelik:20135150:m:22",
+      "maddeKind": "madde",
+      "maddeNo": "22",
+      "heading": "Madde 22",
+      "text": "(1) Sözleşme düzenlenmesini gerektirmeyen işlemlerde, istem sahibinin kimlik bilgileri ile merkezi nüfus idaresi sisteminden alınan yerleşim yeri bilgilerini içeren istem belgesi düzenlenir.\n (2) Müdür veya görevlendireceği tapu görevlisi, istem belgesinin imzalanmasından önce işlemle ilgili tüm belgeleri kontrol eder. İşlemi hazırlama ve kontrol etme görevleri aynı kişide birleşemez. Bu hüküm tek personel bulunan müdürlüklerde uygulanmaz.\n (3) İşlemde eksiklik ve yanlışlık bulunmuyorsa, kontrol görevini yapan, istem belgesinin “işlem kontrolü yapıldı” sütununa adını ve soyadını yazarak imzalar, işlemde eksiklik veya yanlışlık tespit edilmiş ise, bunlar giderilmeden imza aşamasına geçilmez.\n (4) İstem sahibi belgeyi, \"okudum\" ibaresini yazarak imzalar. İstem belgesi, müdür veya görevlendireceği tapu görevlisi ile belgeyi düzenleyen tapu görevlisi tarafından imzalanarak müdürlük mührü ile onanır.\n (5) İstem belgesinde silinti, kazıntı, çıkıntı yapılamaz.",
+      "preview": "(1) Sözleşme düzenlenmesini gerektirmeyen işlemlerde, istem sahibinin kimlik bilgileri ile merkezi nüfus idaresi sisteminden alınan yerleşim…",
+      "kitap": null,
+      "kisim": null,
+      "bolum": "DÖRDÜNCÜ BÖLÜM · İstem ve İşlemin Sonuçlandırılması",
+      "ayirim": null,
+      "maddeBaslik": "İstem belgesi düzenlenmesi",
+      "sectionPath": [
+        "DÖRDÜNCÜ BÖLÜM · İstem ve İşlemin Sonuçlandırılması",
+        "İstem belgesi düzenlenmesi"
+      ]
+    },
+    {
+      "id": "yonetmelik:20135150:m:23",
+      "maddeKind": "madde",
+      "maddeNo": "23",
+      "heading": "Madde 23",
+      "text": "(1) Yevmiye defterine, tapu sicili üzerinde işlem yapılmasını gerektiren veya reddedilen istemler kaydedilir. Tapu sicili üzerinde kayıtlı hakların birbirlerine üstünlüğü, bu deftere yazım tarih ve sıra numarasına göre belirlenir.\n (2) Müdürlüğe gelen istemler;\n a) Sözleşme düzenlenmesi gereken işlemlerde usulüne uygun resmî senet düzenlenerek taraflarca imzalanmasından,\n b) Sözleşme düzenlenmesi gerekmeyen işlemlerde istem belgesinin imzalanmasından,\n c) Resmî kurumlara ait yazıların alınmasından\n sonra yevmiye defterine kaydedilir.\n (3) Yevmiye defterine; işlemin yevmiye numarası, saat ve dakikası, istemde bulunanın adı ve soyadı, istemin niteliği, isteme konu taşınmazın köy veya mahalle adı, cilt ve sayfa numaraları ile işlemi hazırlayan, kontrol eden ve onaylayanın adı ve soyadı yazılır.\n (4) Yevmiye defteri müdür tarafından her iş günü tarih atılarak açılır ve iş günü sonunda kapatılarak imzalanır. Yevmiye defteri işlem olmadığı günlerde açılıp kapatılmaz.\n (5) Yevmiye defterine her sene başında, birden başlayan sıra numarası verilir.\n (6) Müdür, müdürlük dışına çıkarken veya izin ve rapor gibi nedenlerle görevinden ayrılırken yetki verdiği memuru yevmiye defterine yazar ve imza eder. Müdür göreve dönünce, göreve başladığını yine yevmiye defterine yazar ve imza eder.",
+      "preview": "(1) Yevmiye defterine, tapu sicili üzerinde işlem yapılmasını gerektiren veya reddedilen istemler kaydedilir. Tapu sicili üzerinde kayıtlı h…",
+      "kitap": null,
+      "kisim": null,
+      "bolum": "DÖRDÜNCÜ BÖLÜM · İstem ve İşlemin Sonuçlandırılması",
+      "ayirim": null,
+      "maddeBaslik": "Yevmiye defterine kayıt",
+      "sectionPath": [
+        "DÖRDÜNCÜ BÖLÜM · İstem ve İşlemin Sonuçlandırılması",
+        "Yevmiye defterine kayıt"
+      ]
+    },
+    {
+      "id": "yonetmelik:20135150:m:24",
+      "maddeKind": "madde",
+      "maddeNo": "24",
+      "heading": "Madde 24",
+      "text": "(1) Tapu işlemlerinde, istem sahiplerinden biri veya birkaçının imza atamaması, okuma ve yazma bilmemesi, kimliklerinde şüpheye düşülmesi, ölünceye kadar bakma sözleşmesi ile mevzuatın öngördüğü diğer hâllerde iki tanık bulundurulur.\n (2) İstem sahibinin, işitme, konuşma veya görme engelli olması hâlinde, işlemler isteğe bağlı olarak iki tanık huzurunda yapılır. Engellinin tanık istememesi hâlinde, bu husus istem belgesinde veya resmî senette belirtilir. İlgilinin işitme veya konuşma engelli olması ve yazı ile anlaşma imkânının da bulunmaması hâlinde, işaret dilinden anlayan yeminli bilirkişi bulundurulur.\n (3) İstem sahiplerinden biri veya birkaçının Türkçe bilmemesi hâlinde, yeminli tercüman bulundurulur.\n (4) Yeminli tercüman ve bilirkişinin, 12/1/2011 tarih ve 6100 sayılı Hukuk Muhakemeleri Kanununa göre mahkeme huzurunda yaptıkları yemine ilişkin tutanağı müdürlüğe ibraz etmeleri gerekir.\n (5) Tanıklar, bilirkişi ve tercüman da resmî senedi veya istem belgesini imzalarlar. Resmî senede veya istem belgesine, tanık, bilirkişi ve tercümanın yerleşim yeri ve kimlik bilgileri yazılır. Tanık, bilirkişi ve tercümanın okuma yazma bilmesi ve fiil ehliyetine sahip olması gerekir.\n (6) İşlemin yapıldığı müdürlükte görev yapanlar tanıklık ve tercümanlık yapamazlar.",
+      "preview": "(1) Tapu işlemlerinde, istem sahiplerinden biri veya birkaçının imza atamaması, okuma ve yazma bilmemesi, kimliklerinde şüpheye düşülmesi, ö…",
+      "kitap": null,
+      "kisim": null,
+      "bolum": "DÖRDÜNCÜ BÖLÜM · İstem ve İşlemin Sonuçlandırılması",
+      "ayirim": null,
+      "maddeBaslik": "Tanık bulundurulması gereken hâller",
+      "sectionPath": [
+        "DÖRDÜNCÜ BÖLÜM · İstem ve İşlemin Sonuçlandırılması",
+        "Tanık bulundurulması gereken hâller"
+      ]
+    },
+    {
+      "id": "yonetmelik:20135150:m:25",
+      "maddeKind": "madde",
+      "maddeNo": "25",
+      "heading": "Madde 25",
+      "text": "(1) İstem sahiplerinden biri veya birkaçı imza bilmiyorsa, sol elin başparmağı, yoksa sağ elin başparmağı o da yoksa diğer parmaklardan biri ilgili belgeye bastırılır. Sol el başparmağı dışında bir parmak kullanılmışsa, hangi parmağın bastırıldığı yazılır.\n (2) Mühür kullanılması hâlinde parmağın da bastırılması zorunludur.\n (3) Tanıklar, mühür ve parmak izini onaylarlar.",
+      "preview": "(1) İstem sahiplerinden biri veya birkaçı imza bilmiyorsa, sol elin başparmağı, yoksa sağ elin başparmağı o da yoksa diğer parmaklardan biri…",
+      "kitap": null,
+      "kisim": null,
+      "bolum": "DÖRDÜNCÜ BÖLÜM · İstem ve İşlemin Sonuçlandırılması",
+      "ayirim": null,
+      "maddeBaslik": "İmza bilmeyenin işareti",
+      "sectionPath": [
+        "DÖRDÜNCÜ BÖLÜM · İstem ve İşlemin Sonuçlandırılması",
+        "İmza bilmeyenin işareti"
+      ]
+    },
+    {
+      "id": "yonetmelik:20135150:m:26",
+      "maddeKind": "madde",
+      "maddeNo": "26",
+      "heading": "Madde 26",
+      "text": "(1) Mevzuat ve bu Tüzükte yer alan hükümlere uygun olmayan ve 4721 sayılı Kanunun 1011 inci maddesine göre geçici tescil şerhine de imkân bulunmayan istemler geciktirilmeden, gerekçesi, itiraz yeri ve süresi de belirtilmek suretiyle reddedilir.\n (2) Ret kararının varlığı, tarih ve yevmiye numarası esas alınarak kütüğün beyanlar sütununda belirtilir. İstemin reddi halinde, ret gerekçesi giderilmeden reddin konusu tapu işlemi yapılamaz.\n (3) Ret kararı, istem sahibine elden veya 11/2/1959 tarih ve 7201 sayılı Tebligat Kanunu hükümlerine göre tebliğ edilir.\n (4) Ret kararına, tebliğ tarihinden itibaren onbeş gün içinde müdürlüğün bağlı bulunduğu bölge müdürlüğüne, bölge müdürlüğünün kararına karşı da tebliğ tarihinden itibaren onbeş gün içinde Genel Müdürlüğe itiraz edilebilir.",
+      "preview": "(1) Mevzuat ve bu Tüzükte yer alan hükümlere uygun olmayan ve 4721 sayılı Kanunun 1011 inci maddesine göre geçici tescil şerhine de imkân bu…",
+      "kitap": null,
+      "kisim": null,
+      "bolum": "DÖRDÜNCÜ BÖLÜM · İstem ve İşlemin Sonuçlandırılması",
+      "ayirim": null,
+      "maddeBaslik": "İstemin reddedilmesi",
+      "sectionPath": [
+        "DÖRDÜNCÜ BÖLÜM · İstem ve İşlemin Sonuçlandırılması",
+        "İstemin reddedilmesi"
+      ]
+    },
+    {
+      "id": "yonetmelik:20135150:m:27",
+      "maddeKind": "madde",
+      "maddeNo": "27",
+      "heading": "Madde 27",
+      "text": "(1) İstem, yevmiye defterine kaydedildikten sonra, aynı tarih ve yevmiye numarası ile kütüğe tescil edilir. Tescil, siyah veya mavi mürekkepli kalemle ve kitap harfleriyle okunaklı şekilde yazılır. Kütük üzerinde kazıntı, silinti ve çıkıntı yapılamaz.",
+      "preview": "(1) İstem, yevmiye defterine kaydedildikten sonra, aynı tarih ve yevmiye numarası ile kütüğe tescil edilir. Tescil, siyah veya mavi mürekkep…",
+      "kitap": null,
+      "kisim": null,
+      "bolum": "BEŞİNCİ BÖLÜM · Mülkiyet Hakkı ve Sınırlı Aynî Hakların Tescili",
+      "ayirim": null,
+      "maddeBaslik": "Tescilin şekli",
+      "sectionPath": [
+        "BEŞİNCİ BÖLÜM · Mülkiyet Hakkı ve Sınırlı Aynî Hakların Tescili",
+        "Tescilin şekli"
+      ]
+    },
+    {
+      "id": "yonetmelik:20135150:m:28",
+      "maddeKind": "madde",
+      "maddeNo": "28",
+      "heading": "Madde 28",
+      "text": "(1) Kütük sayfası malik sütunundaki devreden kişinin adı ve soyadı, baba adı ile edinme nedeni, tarih ve yevmiye numarası kırmızı mürekkepli kalemle çizilir ve yine kırmızı mürekkepli kalemle tarih ve yevmiye numarası yazılır. Malik sütununun ilk beş satırına yeni malikin adı, soyadı ve baba adı, edinme nedeni, tarih ve yevmiye numarası yazılır.\n (2) Tüzel kişilerin unvanı tam olarak yazılır.\n (3) Paylı mülkiyette pay miktarı; paydaşların adı, soyadı ve baba adından sonraki kısımda, kesirli olarak gösterilir.\n (4) Bir paydaş sonradan başka bir paya sahip olduğu takdirde, paylar üzerinde herhangi bir kısıtlama bulunmaması hâlinde payın tescili sırasında payların toplamı yazılır. Kısıtlamanın terkin edilmesi durumunda, paylar re'sen birleştirilerek edinme sebebi sütununa pay birleştirmesi ifadesi yazılır.\n (5) Elbirliği mülkiyette elbirliğini doğuran neden, malik adlarının ortak paranteze alınmasından sonra belirtilir.\n (6) Aynı malike ait birden çok taşınmaz birbirine bitişik olmasa da, malikin istemiyle TAKBİS üzerinde müşterek tapu kütüğüne kaydedilerek, taşınmaz sayfa numaraları ile bağlantı sağlanır. Bu durumda, müşterek tapu kütüğüne kaydedilen taşınmazların asıl sayfaları üzerinde, herhangi bir işlem yapılamaz. Müşterek tapu kütüğünden çıkarılan taşınmazlar üzerindeki mevcut hak ve yükler, taşınmazların asıl sayfalarına nakledilir.",
+      "preview": "(1) Kütük sayfası malik sütunundaki devreden kişinin adı ve soyadı, baba adı ile edinme nedeni, tarih ve yevmiye numarası kırmızı mürekkepli…",
+      "kitap": null,
+      "kisim": null,
+      "bolum": "BEŞİNCİ BÖLÜM · Mülkiyet Hakkı ve Sınırlı Aynî Hakların Tescili",
+      "ayirim": null,
+      "maddeBaslik": "Mülkiyet hakkının tescili",
+      "sectionPath": [
+        "BEŞİNCİ BÖLÜM · Mülkiyet Hakkı ve Sınırlı Aynî Hakların Tescili",
+        "Mülkiyet hakkının tescili"
+      ]
+    },
+    {
+      "id": "yonetmelik:20135150:m:29",
+      "maddeKind": "madde",
+      "maddeNo": "29",
+      "heading": "Madde 29",
+      "text": "(1) Sosyal tesis, ticarî mahal, yüzme havuzu, tenis kortu gibi taşınmaz veya bağımsız bölümler ortaklaşa kullanıma ayrılmış ise, malik sütununa yararlanan taşınmazların ada ve parsel veya bağımsız bölüm numaraları yazılır.\n (2) Ortaklaşa kullanılan yerler, yararlanan taşınmazlarla aynı ada ve parsel içerisinde olabileceği gibi, ortak sınırı olmaksızın ayrı ada ve parsellerde de bulunabilir.\n (3) Yararlanan taşınmazların kütük sayfasının beyanlar sütununa, ortaklaşa kullanılan taşınmazın, hangi ada ve parsel veya bağımsız bölümle ortak olduğu belirtilir.\n (4) Ortaklaşa kullanılan yerler, kanunî istisnalar dışında, yararlanan bütün taşınmaz maliklerinin birlikte istemleri olmadan paylı mülkiyete dönüştürülemez.",
+      "preview": "(1) Sosyal tesis, ticarî mahal, yüzme havuzu, tenis kortu gibi taşınmaz veya bağımsız bölümler ortaklaşa kullanıma ayrılmış ise, malik sütun…",
+      "kitap": null,
+      "kisim": null,
+      "bolum": "BEŞİNCİ BÖLÜM · Mülkiyet Hakkı ve Sınırlı Aynî Hakların Tescili",
+      "ayirim": null,
+      "maddeBaslik": "Ortaklaşa kullanılan yerlerin tescili",
+      "sectionPath": [
+        "BEŞİNCİ BÖLÜM · Mülkiyet Hakkı ve Sınırlı Aynî Hakların Tescili",
+        "Ortaklaşa kullanılan yerlerin tescili"
+      ]
+    },
+    {
+      "id": "yonetmelik:20135150:m:30",
+      "maddeKind": "madde",
+      "maddeNo": "30",
+      "heading": "Madde 30",
+      "text": "(1) İrtifak hakları, kütük sayfasında ayrılan özel sütununa tescil edilir.\n (2) Kişisel irtifak hakları, ilgili taşınmazın kütük sayfası irtifak hakları sütununda mükellefiyet anlamına gelen \"m\" harfi ile gösterilir. Hak sahibinin adı, soyadı ve irtifak hakkının çeşidi belirtilerek ve varsa süresi yazılarak tescil edilir. Bu hakları tescilinde, ayrıca her bir irtifak hakkı için \"a\" harfinden başlamak üzere alfabenin tüm harfleri (a, b, c, ç, ... g, ğ, ... ı, i, j... gibi) kullanılır.\n (3) Taşınmaz lehine kurulan irtifak hakları, lehine irtifak hakkı kurulan taşınmazın kütük sayfasında hak anlamına gelen \"h\" harfi ile aleyhine irtifak hakkı kurulan yüklü taşınmazın kütük sayfasında ise, \"m\" harfi ile gösterilir. Yararlanan taşınmazın kütük sayfası irtifak hakları sütununda, yüklü taşınmaz üzerinde tescil edilecek irtifak hakkının niteliği belirtilir. Yüklü taşınmazın kütük sayfasında ise, yararlanan taşınmaz lehine kurulan irtifak hakkının niteliği tescil edilir. Taşınmaz lehine kurulacak irtifak hakları planında da gösterilir.\n (4) Taşınmaz yükü, yüklü taşınmazın kütük sayfası irtifak hakları sütununa tescil edilir. Hak sahibi ve kıymeti belirtilir. Belirli bir taşınmaz lehine yük söz konusu ise, aynı zamanda yararlanan taşınmaz kütük sayfası irtifak sütununda niteliği de belirtilerek tescil edilir.\n (5) Bağımsız ve sürekli irtifak hakları ise, tapu kütüğünün en son sayfasına tescil edilir, taşınmaz ve üzerindeki hakların tapu kütüğü sayfaları arasında bağlantı sağlanır.",
+      "preview": "(1) İrtifak hakları, kütük sayfasında ayrılan özel sütununa tescil edilir. (2) Kişisel irtifak hakları, ilgili taşınmazın kütük sayfası irti…",
+      "kitap": null,
+      "kisim": null,
+      "bolum": "BEŞİNCİ BÖLÜM · Mülkiyet Hakkı ve Sınırlı Aynî Hakların Tescili",
+      "ayirim": null,
+      "maddeBaslik": "İrtifak hakları ve taşınmaz yükünün tescili",
+      "sectionPath": [
+        "BEŞİNCİ BÖLÜM · Mülkiyet Hakkı ve Sınırlı Aynî Hakların Tescili",
+        "İrtifak hakları ve taşınmaz yükünün tescili"
+      ]
+    },
+    {
+      "id": "yonetmelik:20135150:m:31",
+      "maddeKind": "madde",
+      "maddeNo": "31",
+      "heading": "Madde 31",
+      "text": "(1) Taşınmaz rehni, kütük sayfasının ilgili sütununa aşağıdaki şekilde tescil edilir:\n a) Her bir rehin hakkı için, \"A\" harfinden başlamak üzere alfabenin tüm harfleri (A, B, C, Ç, ... G, Ğ,... I, İ, J... gibi) kullanılır.\n b) Tescilde, ipotek \"İ\", ipotekli borç senedi \"İ.B.S.\", irat senedi \"İ.S.\" harfleriyle gösterilir.\n c) Alacaklının adı, soyadı ve baba adı, tüzel kişinin unvanı tam olarak yazılır, ipotekli borç senedi hamiline yazılı ise bu durum belirtilir.\n ç) Rehin miktarı, varsa faiz oranı, rehin derecesi, rehin süresi ile tescil tarihi ve yevmiye numarası yazılır. Faiz oranı değişken ise, düşünceler sütununda belirtilir. Rehin haklarının terkini için sonraki ilk satır boş bırakılır.\n (2) Rehin hakkının kuruluşundaki şartlarda yapılan değişikliğe ait sözleşmeler, alacağın kısmen ödenmesine ilişkin istemler, 11/1/2011 tarih ve 6098 sayılı Türk Borçlar Kanununun 183 üncü maddesi uyarınca yapılacak alacağın devri sözleşmeleri ve benzerleri düşünceler sütununda belirtilir.\n (3) Boşalan dereceye geçme hakkı veren sözleşmeler, şerhler sütununda gösterilir.",
+      "preview": "(1) Taşınmaz rehni, kütük sayfasının ilgili sütununa aşağıdaki şekilde tescil edilir: a) Her bir rehin hakkı için, \"A\" harfinden başlamak üz…",
+      "kitap": null,
+      "kisim": null,
+      "bolum": "BEŞİNCİ BÖLÜM · Mülkiyet Hakkı ve Sınırlı Aynî Hakların Tescili",
+      "ayirim": null,
+      "maddeBaslik": "Rehin haklarının tescili",
+      "sectionPath": [
+        "BEŞİNCİ BÖLÜM · Mülkiyet Hakkı ve Sınırlı Aynî Hakların Tescili",
+        "Rehin haklarının tescili"
+      ]
+    },
+    {
+      "id": "yonetmelik:20135150:m:32",
+      "maddeKind": "madde",
+      "maddeNo": "32",
+      "heading": "Madde 32",
+      "text": "(1) Birden çok taşınmazın aynı alacak için rehnedilmesi hâlinde, tescil aşağıdaki şekilde yapılır;\n a) Aynı malike ait birden çok taşınmaz veya pay aynı alacak için rehin edilirse; ilgili taşınmazların kütük sayfaları rehin sütununa alacak miktarının tamamı tescil edilmekle birlikte, düşünceler sütununda hangi taşınmazlarla müşterek rehinli olduğu belirtilir.\n b) Müştereken ve/veya müteselsilen borçlu kimselere ait birden çok taşınmaz veya pay aynı alacak için rehin edilirse; ilgili taşınmazların kütük sayfaları rehin sütununa alacak miktarının tamamı tescil edilmekle birlikte, düşünceler sütununda hangi taşınmazlarla müşterek rehinli olduğu belirtilir.\n c) Müşterek ve/veya müteselsil borç durumu söz konusu olmaksızın aynı alacak için birden çok kişiye ait taşınmaz veya pay rehnedilirse; taşınmaz veya paylardan her birinin bu alacağın belli bir kısmı için rehin edilmesi gerekir. İlgili taşınmazların kütük sayfaları rehin sütununa, rehin miktarından taşınmaza isabet eden miktarı tescil edilir. Her bir taşınmaz veya payın ne miktar için rehnedildiği belirtilmezse istem reddedilir.\n ç) Bir rehin hakkı, 28 inci maddenin altıncı fıkrası gereğince oluşturulan müşterek tapu kütüğü sayfasına kaydedilen taşınmazların tamamını kapsamadıkça, bu sayfaya tescil olunamaz. İstem konusu rehin hakkı müşterek tapu kütüğü sayfasında tescilli bulunan taşınmazlardan bazılarını kapsamakta ise, rehin kapsamı dışında kalan taşınmaz, müşterek tapu kütüğü sayfasından çıkartılarak kayıtların taşınması hükümleri dikkate alınmak suretiyle tapu kütüğüne re'sen nakledilir.",
+      "preview": "(1) Birden çok taşınmazın aynı alacak için rehnedilmesi hâlinde, tescil aşağıdaki şekilde yapılır; a) Aynı malike ait birden çok taşınmaz ve…",
+      "kitap": null,
+      "kisim": null,
+      "bolum": "BEŞİNCİ BÖLÜM · Mülkiyet Hakkı ve Sınırlı Aynî Hakların Tescili",
+      "ayirim": null,
+      "maddeBaslik": "Müşterek rehnin tescili",
+      "sectionPath": [
+        "BEŞİNCİ BÖLÜM · Mülkiyet Hakkı ve Sınırlı Aynî Hakların Tescili",
+        "Müşterek rehnin tescili"
+      ]
+    },
+    {
+      "id": "yonetmelik:20135150:m:33",
+      "maddeKind": "madde",
+      "maddeNo": "33",
+      "heading": "Madde 33",
+      "text": "(1) Paylı mülkiyete konu taşınmazlarda payın rehnedilmesi hâlinde, hangi payın rehinli olduğu düşünceler sütununda belirtilir.\n (2) Taşınmaz, paylara ayrılarak rehnedilemeyeceği gibi, bir paydaşın payı da bölünerek rehnedilemez.\n (3) Pay üzerinde rehin kurulduktan sonra, paydaşlar taşınmazın tamamını rehnedemezler.\n (4) Elbirliği mülkiyeti, paylı mülkiyete çevrilmeden herhangi bir ortağın payı rehnedilmez.",
+      "preview": "(1) Paylı mülkiyete konu taşınmazlarda payın rehnedilmesi hâlinde, hangi payın rehinli olduğu düşünceler sütununda belirtilir. (2) Taşınmaz,…",
+      "kitap": null,
+      "kisim": null,
+      "bolum": "BEŞİNCİ BÖLÜM · Mülkiyet Hakkı ve Sınırlı Aynî Hakların Tescili",
+      "ayirim": null,
+      "maddeBaslik": "Paylı mülkiyete konu taşınmazlarda payın rehni",
+      "sectionPath": [
+        "BEŞİNCİ BÖLÜM · Mülkiyet Hakkı ve Sınırlı Aynî Hakların Tescili",
+        "Paylı mülkiyete konu taşınmazlarda payın rehni"
+      ]
+    },
+    {
+      "id": "yonetmelik:20135150:m:34",
+      "maddeKind": "madde",
+      "maddeNo": "34",
+      "heading": "Madde 34",
+      "text": "(1) Sonradan kurulacak rehin hakkı için boş derece bırakılmak istenirse, rehindeki şekle uyulmak kaydıyla, kütüğün rehin sütunu alacaklı adı kısmına \"korunmuş miktar\" ibaresi ve alacak sütununa da miktarı yazılır. Faiz ve müddet sütunu boş bırakılır.",
+      "preview": "(1) Sonradan kurulacak rehin hakkı için boş derece bırakılmak istenirse, rehindeki şekle uyulmak kaydıyla, kütüğün rehin sütunu alacaklı adı…",
+      "kitap": null,
+      "kisim": null,
+      "bolum": "BEŞİNCİ BÖLÜM · Mülkiyet Hakkı ve Sınırlı Aynî Hakların Tescili",
+      "ayirim": null,
+      "maddeBaslik": "Korunmuş miktar",
+      "sectionPath": [
+        "BEŞİNCİ BÖLÜM · Mülkiyet Hakkı ve Sınırlı Aynî Hakların Tescili",
+        "Korunmuş miktar"
+      ]
+    },
+    {
+      "id": "yonetmelik:20135150:m:35",
+      "maddeKind": "madde",
+      "maddeNo": "35",
+      "heading": "Madde 35",
+      "text": "(1) Rehin haklarına ilişkin düşünceler sütunundaki rehinle ilgili belirtmeler, rehin hangi harf ile tescil edilmiş ise, o harf kullanılarak yazılır.\n (2) Aynı rehin için birden fazla belirtme yazılması hâlinde de aynı harf kullanılır.\n (3) Rehinli pay devredilirse, düşünceler sütunundaki eski malikin adı çizilip, devir işlemine ilişkin tarih ve yevmiye ile rehne ait harf kullanılmak suretiyle yeni malikin adı yazılır.\n (4) Rehnin terkini hâlinde, düşünceler sütunundaki rehne ilişkin belirtmeler ve varsa boşalan dereceye geçme hakkı şerhi de terkin edilir.\n (5) Zanaatkârlar ve yüklenicilerin kanunî ipoteklerinin tescilinde, düşünceler sütununa “zanaatkâr ve yüklenici ipoteği” olduğu belirtilir.",
+      "preview": "(1) Rehin haklarına ilişkin düşünceler sütunundaki rehinle ilgili belirtmeler, rehin hangi harf ile tescil edilmiş ise, o harf kullanılarak…",
+      "kitap": null,
+      "kisim": null,
+      "bolum": "BEŞİNCİ BÖLÜM · Mülkiyet Hakkı ve Sınırlı Aynî Hakların Tescili",
+      "ayirim": null,
+      "maddeBaslik": "Düşünceler sütunu",
+      "sectionPath": [
+        "BEŞİNCİ BÖLÜM · Mülkiyet Hakkı ve Sınırlı Aynî Hakların Tescili",
+        "Düşünceler sütunu"
+      ]
+    },
+    {
+      "id": "yonetmelik:20135150:m:36",
+      "maddeKind": "madde",
+      "maddeNo": "36",
+      "heading": "Madde 36",
+      "text": "(1) Müdür veya görevlendireceği tapu görevlisi, tescil kontrolünü yapar. Tescil ve tescili kontrol etme görevleri aynı kişide birleşemez. Bu hüküm tek personel bulunan müdürlüklerde uygulanmaz.\n (2) Tescilde eksiklik ve yanlışlık bulunmuyorsa, kontrol görevini yapan, istem belgesinin ilgili sütununa \"tescil kontrolü yapıldı\" ibaresiyle birlikte adını ve soyadını yazarak imzalar.",
+      "preview": "(1) Müdür veya görevlendireceği tapu görevlisi, tescil kontrolünü yapar. Tescil ve tescili kontrol etme görevleri aynı kişide birleşemez. Bu…",
+      "kitap": null,
+      "kisim": null,
+      "bolum": "BEŞİNCİ BÖLÜM · Mülkiyet Hakkı ve Sınırlı Aynî Hakların Tescili",
+      "ayirim": null,
+      "maddeBaslik": "Tescilin kontrolü",
+      "sectionPath": [
+        "BEŞİNCİ BÖLÜM · Mülkiyet Hakkı ve Sınırlı Aynî Hakların Tescili",
+        "Tescilin kontrolü"
+      ]
+    },
+    {
+      "id": "yonetmelik:20135150:m:37",
+      "maddeKind": "madde",
+      "maddeNo": "37",
+      "heading": "Madde 37",
+      "text": "(1) İpotekli borç senedi veya irat senedi yoluyla rehin hakkı kurulması için rehin konusu taşınmazın değeri komisyon tarafından tespit edilir.\n (2) Taşınmaz değerleme komisyonu; müdürün başkanlığında, kadastro müdürlüğünden varsa mühendis yoksa kontrol memuru, defterdarlık veya malmüdürlüğünden bir temsilci, ilgisine göre belediye encümeni veya il veya ilçe idare kurulu tarafından belirlenecek bir teknik eleman, değeri tespit edilecek taşınmaz tarım arazisi ise tarım müdürlüğünce, konut veya arsa ise ticaret veya sanayi odası tarafından belirlenecek bir teknik eleman olmak üzere beş kişiden oluşur.\n (3) Komisyon üyeleri, müdürün yazılı talebi üzerine ilgili idarelerce yedi gün içerisinde belirlenerek müdürlüğe bildirilir. Komisyon; müdürün üyelere yazılı olarak bildireceği yer, gün ve saatte, üye tam sayısı ile toplanır ve salt çoğunlukla alacağı kararla değeri belirler. Karara katılmayan üye katılmama gerekçesini yazmak zorundadır.\n (4) Komisyon üyelerine, çalışacakları günler için ücret ödenir. Bu ücret, 10/2/1954 tarih ve 6245 sayılı Harcırah Kanununun birinci derecedeki memurlara öngördüğü miktarın üç katından fazla olmamak üzere Genel Müdürlükçe belirlenir.\n (5) Değer tespitiyle ilgili ücret, keşif ve inceleme giderleri ilgililer tarafından ödenir.\n (6) Taşınmazın kayıtlı bulunduğu müdürlüğün yetki alanı dışındaki taşınmaza yönelik ipotekli borç senedi veya irat senedi kurulması talep edilirse, değer tespiti taşınmazın kayıtlı bulunduğu müdürlük tarafından yapılır.",
+      "preview": "(1) İpotekli borç senedi veya irat senedi yoluyla rehin hakkı kurulması için rehin konusu taşınmazın değeri komisyon tarafından tespit edili…",
+      "kitap": null,
+      "kisim": null,
+      "bolum": "ALTINCI BÖLÜM · İpotekli Borç Senedi, İrat Senedi ve Taşınmaz Karşılık",
+      "ayirim": null,
+      "maddeBaslik": "Değerleme yapılması ve taşınmaz değerleme komisyonu",
+      "sectionPath": [
+        "ALTINCI BÖLÜM · İpotekli Borç Senedi, İrat Senedi ve Taşınmaz Karşılık",
+        "Değerleme yapılması ve taşınmaz değerleme komisyonu"
+      ]
+    },
+    {
+      "id": "yonetmelik:20135150:m:38",
+      "maddeKind": "madde",
+      "maddeNo": "38",
+      "heading": "Madde 38",
+      "text": "(1) Taşınmazın değeri;\n a) Cinsi,\n b) Yüzölçümü,\n c) Emlak vergisi beyan değeri,\n ç) Varsa resmî makamlarca yapılmış değer takdiri,\n d) Getireceği gelir,\n e) Arsa ve arazilerde emsal satış değerleri,\n f) Binalarda resmî maliyet değeri ve yıpranma payı,\n g) Değerini etkileyecek diğer nitelikleri,\n esas alınarak bir rapora dayalı olarak tespit edilir.\n (2) Taşınmazın komisyon tarafından tespit edilmiş değerini aşan miktar için ipotekli borç senedi yoluyla rehin hakkı kurulamaz.",
+      "preview": "(1) Taşınmazın değeri; a) Cinsi, b) Yüzölçümü, c) Emlak vergisi beyan değeri, ç) Varsa resmî makamlarca yapılmış değer takdiri, d) Getireceğ…",
+      "kitap": null,
+      "kisim": null,
+      "bolum": "ALTINCI BÖLÜM · İpotekli Borç Senedi, İrat Senedi ve Taşınmaz Karşılık",
+      "ayirim": null,
+      "maddeBaslik": "İpotekli borç senedi için değer tespiti",
+      "sectionPath": [
+        "ALTINCI BÖLÜM · İpotekli Borç Senedi, İrat Senedi ve Taşınmaz Karşılık",
+        "İpotekli borç senedi için değer tespiti"
+      ]
+    },
+    {
+      "id": "yonetmelik:20135150:m:39",
+      "maddeKind": "madde",
+      "maddeNo": "39",
+      "heading": "Madde 39",
+      "text": "(1) İrat senedi, tarım arazisi, binalar veya üzerinde bina yapılabilecek arsalar üzerinde kurulur.\n (2) İrat senedindeki alacak miktarı; irat senedi tarım arazisi üzerinde kurulacaksa, arazinin gelir değerinin, bina veya arsa üzerinde kurulacaksa gelir değeri ile bina veya arsanın rayiç değeri ortalamasının beşte üçünü aşamaz.",
+      "preview": "(1) İrat senedi, tarım arazisi, binalar veya üzerinde bina yapılabilecek arsalar üzerinde kurulur. (2) İrat senedindeki alacak miktarı; irat…",
+      "kitap": null,
+      "kisim": null,
+      "bolum": "ALTINCI BÖLÜM · İpotekli Borç Senedi, İrat Senedi ve Taşınmaz Karşılık",
+      "ayirim": null,
+      "maddeBaslik": "İrat senedi için değer tespiti",
+      "sectionPath": [
+        "ALTINCI BÖLÜM · İpotekli Borç Senedi, İrat Senedi ve Taşınmaz Karşılık",
+        "İrat senedi için değer tespiti"
+      ]
+    },
+    {
+      "id": "yonetmelik:20135150:m:40",
+      "maddeKind": "madde",
+      "maddeNo": "40",
+      "heading": "Madde 40",
+      "text": "(1) Tarım arazisinin gelir değeri, yıllık olağan kira ile ortalama kira bedeli toplamının yarısının (10) rakamı ile çarpımından elde edilecek tutardır. Olağan kira, araziyi işleten kimsenin emek ve masrafına karşılık makul bir kazanç elde etmesine elverişli olan kiradır. Ortalama kira, değeri belirlenecek arazinin geriye doğru on senelik getirdiği kira toplamının onda biridir.\n (2) Gelir değeri tespit edilecek taşınmaz kiraya verilmemiş olur ve bulunduğu bölge içinde veya civar bölgelerde karşılaştırma yoluyla olağan ve ortalama kirayı da belirleme mümkün olmaz ise, genel hâsılatın ortalaması bulunur. Hâsılat ortalamasının bulunmasında, on yılda getirdiği hâsılat gözönüne alınır. Tarımın gerektirdiği masraf düşülüp, kalan net hâsılat kabul edilerek on yıllık toplamı, gelir değeri kabul edilir.",
+      "preview": "(1) Tarım arazisinin gelir değeri, yıllık olağan kira ile ortalama kira bedeli toplamının yarısının (10) rakamı ile çarpımından elde edilece…",
+      "kitap": null,
+      "kisim": null,
+      "bolum": "ALTINCI BÖLÜM · İpotekli Borç Senedi, İrat Senedi ve Taşınmaz Karşılık",
+      "ayirim": null,
+      "maddeBaslik": "Gelir değerinin tespit edilmesi",
+      "sectionPath": [
+        "ALTINCI BÖLÜM · İpotekli Borç Senedi, İrat Senedi ve Taşınmaz Karşılık",
+        "Gelir değerinin tespit edilmesi"
+      ]
+    },
+    {
+      "id": "yonetmelik:20135150:m:41",
+      "maddeKind": "madde",
+      "maddeNo": "41",
+      "heading": "Madde 41",
+      "text": "(1) ipotekli borç senedi ve irat senedi nama veya hamile yazılı düzenlenebilir. Bu senetler yüklü taşınmazın maliki adına da düzenlenebilir.\n (2) İpotekli borç senedi ve irat senedinin şekli Genel Müdürlükçe belirlenir.\n (3) Bu senetlerde taşınmazın kayıtlı bulunduğu kütüğün; il ve ilçesi, mahallesi veya köyü, pafta, ada ve parsel numaraları, cinsi, cilt ve sayfa numarası, tespit edilen resmi değeri, rehin hakkı ile ilgili bilgiler ve taşınmaz üzerindeki tüm kısıtlamalar yer alır.\n (4) Bir senet iptal edilip de yerine yeniden senet verildiğinde, yeni senette eski senedin yerine verildiği belirtilir.\n (5) İpotekli borç senedi ve irat senedi, taşınmaz maliki ve borçlu tarafından birlikte imzalanır.\n (6) İpotekli borç senedi ve irat senedi tapu siciliyle karşılaştırılarak, kapsamı sicil içeriğine uygun olduğu takdirde müdür ile defterdar veya malmüdürü tarafından imzalanır.\n (7) İpotekli borç senedi veya irat senedi düzenlenirken, alacaklı, borçlu ve taşınmaz malikinin birlikte ortak bir temsilci atamaları halinde temsilcinin adı ve soyadı, ipotekli borç senedi veya irat senedinde ve kütüğün düşünceler sütununda belirtilir.\n (8) Müdür, borçlunun ve kısıtlanan taşınmaz malikinin yazılı istemiyle senedi alacaklıya veya temsilcisine teslim eder.",
+      "preview": "(1) ipotekli borç senedi ve irat senedi nama veya hamile yazılı düzenlenebilir. Bu senetler yüklü taşınmazın maliki adına da düzenlenebilir.…",
+      "kitap": null,
+      "kisim": null,
+      "bolum": "ALTINCI BÖLÜM · İpotekli Borç Senedi, İrat Senedi ve Taşınmaz Karşılık",
+      "ayirim": null,
+      "maddeBaslik": "İpotekli borç senedi veya irat senedinin düzenlenmesi",
+      "sectionPath": [
+        "ALTINCI BÖLÜM · İpotekli Borç Senedi, İrat Senedi ve Taşınmaz Karşılık",
+        "İpotekli borç senedi veya irat senedinin düzenlenmesi"
+      ]
+    },
+    {
+      "id": "yonetmelik:20135150:m:42",
+      "maddeKind": "madde",
+      "maddeNo": "42",
+      "heading": "Madde 42",
+      "text": "(1) Aynı alacak için aynı malike veya müşterek ve/veya müteselsil borçlu olan kimselere ait birden çok taşınmaz üzerinde ipotekli borç senedi veya irat senedi kurulursa tek bir senet verilir.\n (2) Aynı alacak için birden çok kişiye ait taşınmaz veya payı üzerinde müşterek borç durumu söz konusu olmaksızın ipotekli borç senedi veya irat senedi kurulursa, taşınmazı kısıtlayan her alacak için ayrı senet verilir.",
+      "preview": "(1) Aynı alacak için aynı malike veya müşterek ve/veya müteselsil borçlu olan kimselere ait birden çok taşınmaz üzerinde ipotekli borç sened…",
+      "kitap": null,
+      "kisim": null,
+      "bolum": "ALTINCI BÖLÜM · İpotekli Borç Senedi, İrat Senedi ve Taşınmaz Karşılık",
+      "ayirim": null,
+      "maddeBaslik": "Birden çok taşınmazın kısıtlanmasında senetler",
+      "sectionPath": [
+        "ALTINCI BÖLÜM · İpotekli Borç Senedi, İrat Senedi ve Taşınmaz Karşılık",
+        "Birden çok taşınmazın kısıtlanmasında senetler"
+      ]
+    },
+    {
+      "id": "yonetmelik:20135150:m:43",
+      "maddeKind": "madde",
+      "maddeNo": "43",
+      "heading": "Madde 43",
+      "text": "(1) Bir ipotekli borç senedinin ve irat senedinin kurulmasından sonra, başkaca taşınmazların aynı rehin hakkına dahil edilmesi, bu bölümdeki hükümlere göre yapılır.",
+      "preview": "(1) Bir ipotekli borç senedinin ve irat senedinin kurulmasından sonra, başkaca taşınmazların aynı rehin hakkına dahil edilmesi, bu bölümdeki…",
+      "kitap": null,
+      "kisim": null,
+      "bolum": "ALTINCI BÖLÜM · İpotekli Borç Senedi, İrat Senedi ve Taşınmaz Karşılık",
+      "ayirim": null,
+      "maddeBaslik": "Rehin kapsamına sonradan taşınmaz ilavesi",
+      "sectionPath": [
+        "ALTINCI BÖLÜM · İpotekli Borç Senedi, İrat Senedi ve Taşınmaz Karşılık",
+        "Rehin kapsamına sonradan taşınmaz ilavesi"
+      ]
+    },
+    {
+      "id": "yonetmelik:20135150:m:44",
+      "maddeKind": "madde",
+      "maddeNo": "44",
+      "heading": "Madde 44",
+      "text": "(1) İpotekli borç senedi ve irat senedi kayıtlarının değiştirilmesi tarafların anlaşması ve senetlerin müdürlüğe verilmesi ile yapılabilir. Anlaşma olmazsa mahkeme kararı olmadan değişiklik yapılamaz.\n (2) Kayıt üzerinde yapılan değişiklikler, senetler üzerine de yazılmak suretiyle müdür ile defterdar veya malmüdürü tarafından imzalanır.",
+      "preview": "(1) İpotekli borç senedi ve irat senedi kayıtlarının değiştirilmesi tarafların anlaşması ve senetlerin müdürlüğe verilmesi ile yapılabilir.…",
+      "kitap": null,
+      "kisim": null,
+      "bolum": "ALTINCI BÖLÜM · İpotekli Borç Senedi, İrat Senedi ve Taşınmaz Karşılık",
+      "ayirim": null,
+      "maddeBaslik": "İpotekli borç senedi ve irat senedi üzerinde yapılacak değişiklikler",
+      "sectionPath": [
+        "ALTINCI BÖLÜM · İpotekli Borç Senedi, İrat Senedi ve Taşınmaz Karşılık",
+        "İpotekli borç senedi ve irat senedi üzerinde yapılacak değişiklikler"
+      ]
+    },
+    {
+      "id": "yonetmelik:20135150:m:45",
+      "maddeKind": "madde",
+      "maddeNo": "45",
+      "heading": "Madde 45",
+      "text": "(1) 4721 sayılı Kanunun 931 inci maddesi uyarınca seri halinde senet çıkarılırsa, rehinle ilgili işlemlerden başka, çıkarılan senetlerin adedi, taşınmazın kayıtlı olduğu kütük sayfasının rehin haklarına ait düşünceler sütununda belirtilir.\n (2) Tahvilleri güvence altına almak üzere çıkarılan ipotekli borç veya irat senetleri, rehin olarak tescil edilirken, tahvillerin nama veya hamiline yazılı olduğu alacaklılar sütununda ayrıca belirtilir. Tahvillerin adet ve niteliği ile varsa alacaklı ve borçluyu temsil eden kişinin adı rehin haklarına ait düşünceler sütununda belirtilir.",
+      "preview": "(1) 4721 sayılı Kanunun 931 inci maddesi uyarınca seri halinde senet çıkarılırsa, rehinle ilgili işlemlerden başka, çıkarılan senetlerin ade…",
+      "kitap": null,
+      "kisim": null,
+      "bolum": "ALTINCI BÖLÜM · İpotekli Borç Senedi, İrat Senedi ve Taşınmaz Karşılık",
+      "ayirim": null,
+      "maddeBaslik": "Seri halinde senet çıkarılması",
+      "sectionPath": [
+        "ALTINCI BÖLÜM · İpotekli Borç Senedi, İrat Senedi ve Taşınmaz Karşılık",
+        "Seri halinde senet çıkarılması"
+      ]
+    },
+    {
+      "id": "yonetmelik:20135150:m:46",
+      "maddeKind": "madde",
+      "maddeNo": "46",
+      "heading": "Madde 46",
+      "text": "(1) Kütüğün şerhler sütununa kişisel haklar, tasarruf yetkisini kısıtlayan veya yasaklayan şerhler, geçici tescil şerhleri ile kanunlarda öngörülen diğer hususlar yazılır.",
+      "preview": "(1) Kütüğün şerhler sütununa kişisel haklar, tasarruf yetkisini kısıtlayan veya yasaklayan şerhler, geçici tescil şerhleri ile kanunlarda ön…",
+      "kitap": null,
+      "kisim": null,
+      "bolum": "YEDİNCİ BÖLÜM · Şerhler ve Beyanlar",
+      "ayirim": null,
+      "maddeBaslik": "Şerhler sütunu",
+      "sectionPath": [
+        "YEDİNCİ BÖLÜM · Şerhler ve Beyanlar",
+        "Şerhler sütunu"
+      ]
+    },
+    {
+      "id": "yonetmelik:20135150:m:47",
+      "maddeKind": "madde",
+      "maddeNo": "47",
+      "heading": "Madde 47",
+      "text": "(1) Kişisel hakların, şerhler sütununa kaydı için;\n a) Satışla birlikte kurulan gerialım hakkı, bağışla birlikte kurulan bağışlayana dönme hakkı, rehinle birlikte kurulan boşalan dereceye geçme hakkı ve irtifak hakkı vaadi için resmî senet,\n b) Satış sözleşmesinden ayrı olarak düzenlenen gerialım hakkı, bağış sözleşmesinden ayrı olarak düzenlenen bağışlayana dönme hakkı ve rehinden ayrı olarak düzenlenen boşalan dereceye geçme hakkı için noterce düzenlenen sözleşme,\n c) Alım, taşınmaz satış vaadi, bağışlama vaadi ve arsa payı karşılığı inşaat hakkı için noterce düzenlenen sözleşme,\n ç) Sözleşmeden doğan önalım hakkı ve taşınmaz kiraları için yazılı sözleşme,\n aranır.",
+      "preview": "(1) Kişisel hakların, şerhler sütununa kaydı için; a) Satışla birlikte kurulan gerialım hakkı, bağışla birlikte kurulan bağışlayana dönme ha…",
+      "kitap": null,
+      "kisim": null,
+      "bolum": "YEDİNCİ BÖLÜM · Şerhler ve Beyanlar",
+      "ayirim": null,
+      "maddeBaslik": "Kişisel hakların şerhi için aranacak belgeler",
+      "sectionPath": [
+        "YEDİNCİ BÖLÜM · Şerhler ve Beyanlar",
+        "Kişisel hakların şerhi için aranacak belgeler"
+      ]
+    },
+    {
+      "id": "yonetmelik:20135150:m:48",
+      "maddeKind": "madde",
+      "maddeNo": "48",
+      "heading": "Madde 48",
+      "text": "(1) Tasarruf yetkisini kısıtlayan şerhler için;\n a) Haciz ve ihtiyati haciz için yetkili merciin resmî yazısı,\n b) Devretmekle yükümlü önmirasçı atama hâlinde vasiyetnamenin onaylı bir örneği ve şerhi içeren mahkeme yazısı,\n c) Çekişmeli hakların korunmasına ilişkin hâllerde mahkeme kararı,\n ç) Kanunların kısıtlayıcı şerh verilmesini öngördüğü diğer hâllerde kanunda belirtilen belgeler,\n aranır.",
+      "preview": "(1) Tasarruf yetkisini kısıtlayan şerhler için; a) Haciz ve ihtiyati haciz için yetkili merciin resmî yazısı, b) Devretmekle yükümlü önmiras…",
+      "kitap": null,
+      "kisim": null,
+      "bolum": "YEDİNCİ BÖLÜM · Şerhler ve Beyanlar",
+      "ayirim": null,
+      "maddeBaslik": "Tasarruf yetkisini kısıtlayan şerhler için aranacak belgeler",
+      "sectionPath": [
+        "YEDİNCİ BÖLÜM · Şerhler ve Beyanlar",
+        "Tasarruf yetkisini kısıtlayan şerhler için aranacak belgeler"
+      ]
+    },
+    {
+      "id": "yonetmelik:20135150:m:49",
+      "maddeKind": "madde",
+      "maddeNo": "49",
+      "heading": "Madde 49",
+      "text": "(1) Tasarruf hakkını yasaklayan şerhler için;\n a) İhtiyatî tedbir için mahkeme kararı veya yazısı,\n b) Kamu haczi, iflas veya konkordato ile verilen sürenin şerhi için yetkili merciin resmî yazısı,\n c) Aile konutu şerhi için merkezi nüfus idaresi sisteminden veya nüfus müdürlüğünden alınan yerleşim yeri belgesi ile medeni hâli gösterir nüfus kayıt örneği,\n ç) Aile yurdu kurulması hâlinde mahkeme kararı veya yazısı,\n d) Eşlerden birinin taşınmaz üzerindeki tasarruf yetkisinin kaldırılması hâlinde mahkeme kararı,\n e) Kanunların yasaklayıcı şerh verilmesini öngördüğü diğer hâllerde kanunda belirtilen belgeler,\n aranır.",
+      "preview": "(1) Tasarruf hakkını yasaklayan şerhler için; a) İhtiyatî tedbir için mahkeme kararı veya yazısı, b) Kamu haczi, iflas veya konkordato ile v…",
+      "kitap": null,
+      "kisim": null,
+      "bolum": "YEDİNCİ BÖLÜM · Şerhler ve Beyanlar",
+      "ayirim": null,
+      "maddeBaslik": "Tasarruf hakkını yasaklayan şerhler için aranacak belgeler",
+      "sectionPath": [
+        "YEDİNCİ BÖLÜM · Şerhler ve Beyanlar",
+        "Tasarruf hakkını yasaklayan şerhler için aranacak belgeler"
+      ]
+    },
+    {
+      "id": "yonetmelik:20135150:m:50",
+      "maddeKind": "madde",
+      "maddeNo": "50",
+      "heading": "Madde 50",
+      "text": "(1) İddia edilen bir aynî hakkın güvence altına alınmasının gerektiği veya tasarruf yetkisini belirleyen belgelerdeki eksikliklerin sonradan tamamlanmasına kanunun olanak tanıdığı hâllerde, bütün ilgililerin istemi veya hâkim kararı ile geçici tescil şerhi verilebilir.",
+      "preview": "(1) İddia edilen bir aynî hakkın güvence altına alınmasının gerektiği veya tasarruf yetkisini belirleyen belgelerdeki eksikliklerin sonradan…",
+      "kitap": null,
+      "kisim": null,
+      "bolum": "YEDİNCİ BÖLÜM · Şerhler ve Beyanlar",
+      "ayirim": null,
+      "maddeBaslik": "Geçici tescil şerhi",
+      "sectionPath": [
+        "YEDİNCİ BÖLÜM · Şerhler ve Beyanlar",
+        "Geçici tescil şerhi"
+      ]
+    },
+    {
+      "id": "yonetmelik:20135150:m:51",
+      "maddeKind": "madde",
+      "maddeNo": "51",
+      "heading": "Madde 51",
+      "text": "(1) Şerhler, kütük sayfasındaki özel sütuna, konusu, süresi, tarih ve yevmiye numarası ile varsa değeri gösterilerek yazılır, terkini için sonraki ilk satır boş bırakılır.\n (2) Geçici tescil şerhleri “G.T.Ş.” harfleriyle gösterilir. Kesin tescil, terkin olunacak geçici tescil şerhinin tarih ve yevmiye numarası ile yapılır.\n (3) Şerhle yükümlü taşınmaz devre konu olursa, varsa şerhler sütunundaki eski malikin adı çizilip, şerhin tarih ve yevmiye numarası değiştirilmeksizin, devir işlemine ilişkin tarih ve yevmiye numarası ile yeni malikin adı yazılır.",
+      "preview": "(1) Şerhler, kütük sayfasındaki özel sütuna, konusu, süresi, tarih ve yevmiye numarası ile varsa değeri gösterilerek yazılır, terkini için s…",
+      "kitap": null,
+      "kisim": null,
+      "bolum": "YEDİNCİ BÖLÜM · Şerhler ve Beyanlar",
+      "ayirim": null,
+      "maddeBaslik": "Şerhin şekli",
+      "sectionPath": [
+        "YEDİNCİ BÖLÜM · Şerhler ve Beyanlar",
+        "Şerhin şekli"
+      ]
+    },
+    {
+      "id": "yonetmelik:20135150:m:52",
+      "maddeKind": "madde",
+      "maddeNo": "52",
+      "heading": "Madde 52",
+      "text": "(1) Kütüğün beyanlar sütununa, mevzuatın yazılmasını öngördüğü hususlar tarih ve yevmiye numarası belirtilerek yazılır.\n (2) Tescil, değişiklik, terkin veya düzeltmeyi yolsuz duruma getiren hukukî veya teknik sebeplerin Müdürlükçe tespiti hâlinde, bu husus kütüğün beyanlar sütununda re'sen belirtilir.",
+      "preview": "(1) Kütüğün beyanlar sütununa, mevzuatın yazılmasını öngördüğü hususlar tarih ve yevmiye numarası belirtilerek yazılır. (2) Tescil, değişikl…",
+      "kitap": null,
+      "kisim": null,
+      "bolum": "YEDİNCİ BÖLÜM · Şerhler ve Beyanlar",
+      "ayirim": null,
+      "maddeBaslik": "Beyanlar sütununda belirtme",
+      "sectionPath": [
+        "YEDİNCİ BÖLÜM · Şerhler ve Beyanlar",
+        "Beyanlar sütununda belirtme"
+      ]
+    },
+    {
+      "id": "yonetmelik:20135150:m:53",
+      "maddeKind": "madde",
+      "maddeNo": "53",
+      "heading": "Madde 53",
+      "text": "(1) Eklentiler, mülkiyet hakkı sahibinin yazılı istemi üzerine, kütüğün beyanlar sütununa tarih ve yevmiye numarası ile yazılır.\n (2) İstem sahibinin dilekçesinde eklentinin adedi, cinsi ve kıymeti gösterilir.\n (3) 23/6/1965 tarih ve 634 sayılı Kat Mülkiyeti Kanununun eklentiye dair hükümleri saklıdır.",
+      "preview": "(1) Eklentiler, mülkiyet hakkı sahibinin yazılı istemi üzerine, kütüğün beyanlar sütununa tarih ve yevmiye numarası ile yazılır. (2) İstem s…",
+      "kitap": null,
+      "kisim": null,
+      "bolum": "YEDİNCİ BÖLÜM · Şerhler ve Beyanlar",
+      "ayirim": null,
+      "maddeBaslik": "Eklentilerin yazımı",
+      "sectionPath": [
+        "YEDİNCİ BÖLÜM · Şerhler ve Beyanlar",
+        "Eklentilerin yazımı"
+      ]
+    },
+    {
+      "id": "yonetmelik:20135150:m:54",
+      "maddeKind": "madde",
+      "maddeNo": "54",
+      "heading": "Madde 54",
+      "text": "(1) 4721 sayılı Kanun hükümlerine göre kurulmaları artık mümkün olmayan aynî haklar, ilgili taşınmaz kütüğünün beyanlar sütununa yazılır. Bu hakların tasarruf işlemleri, bağımsız ve sürekli hakların kayıt usulüne tâbidir.",
+      "preview": "(1) 4721 sayılı Kanun hükümlerine göre kurulmaları artık mümkün olmayan aynî haklar, ilgili taşınmaz kütüğünün beyanlar sütununa yazılır. Bu…",
+      "kitap": null,
+      "kisim": null,
+      "bolum": "YEDİNCİ BÖLÜM · Şerhler ve Beyanlar",
+      "ayirim": null,
+      "maddeBaslik": "Kurulmaları artık mümkün olmayan aynî hakların yazımı",
+      "sectionPath": [
+        "YEDİNCİ BÖLÜM · Şerhler ve Beyanlar",
+        "Kurulmaları artık mümkün olmayan aynî hakların yazımı"
+      ]
+    },
+    {
+      "id": "yonetmelik:20135150:m:55",
+      "maddeKind": "madde",
+      "maddeNo": "55",
+      "heading": "Madde 55",
+      "text": "(1) Müdürlüğün, hak sahibinin vesayet altına alındığına veya vesayetin kaldırıldığına dair mahkeme kararlarından yazılı olarak bilgisi olursa, bu durum taşınmazın kütüğünün beyanlar sütununa tarih ve yevmiye numarası ile yazılır.",
+      "preview": "(1) Müdürlüğün, hak sahibinin vesayet altına alındığına veya vesayetin kaldırıldığına dair mahkeme kararlarından yazılı olarak bilgisi olurs…",
+      "kitap": null,
+      "kisim": null,
+      "bolum": "YEDİNCİ BÖLÜM · Şerhler ve Beyanlar",
+      "ayirim": null,
+      "maddeBaslik": "Vesayet kararlarının yazımı",
+      "sectionPath": [
+        "YEDİNCİ BÖLÜM · Şerhler ve Beyanlar",
+        "Vesayet kararlarının yazımı"
+      ]
+    },
+    {
+      "id": "yonetmelik:20135150:m:56",
+      "maddeKind": "madde",
+      "maddeNo": "56",
+      "heading": "Madde 56",
+      "text": "(1) İşe başlama tarihi, hak sahibi, zanaatkâr veya yüklenicinin bildirimi üzerine beyanlar sütununa yazılır.",
+      "preview": "(1) İşe başlama tarihi, hak sahibi, zanaatkâr veya yüklenicinin bildirimi üzerine beyanlar sütununa yazılır.",
+      "kitap": null,
+      "kisim": null,
+      "bolum": "YEDİNCİ BÖLÜM · Şerhler ve Beyanlar",
+      "ayirim": null,
+      "maddeBaslik": "Zanaatkârlar veya yüklenicilerin işe başlama tarihinin yazımı",
+      "sectionPath": [
+        "YEDİNCİ BÖLÜM · Şerhler ve Beyanlar",
+        "Zanaatkârlar veya yüklenicilerin işe başlama tarihinin yazımı"
+      ]
+    },
+    {
+      "id": "yonetmelik:20135150:m:57",
+      "maddeKind": "madde",
+      "maddeNo": "57",
+      "heading": "Madde 57",
+      "text": "(1) Bir taşınmazın bölünmesi sonucunda oluşan her yeni taşınmaz için bir kütük sayfası açılarak tescil edilir.",
+      "preview": "(1) Bir taşınmazın bölünmesi sonucunda oluşan her yeni taşınmaz için bir kütük sayfası açılarak tescil edilir.",
+      "kitap": null,
+      "kisim": null,
+      "bolum": "SEKİZİNCİ BÖLÜM · Taşınmazların Bölünmesi, Birleştirilmesi, Taksimi ve Kayıtların Taşınması",
+      "ayirim": null,
+      "maddeBaslik": "Taşınmazın bölünmesi",
+      "sectionPath": [
+        "SEKİZİNCİ BÖLÜM · Taşınmazların Bölünmesi, Birleştirilmesi, Taksimi ve Kayıtların Taşınması",
+        "Taşınmazın bölünmesi"
+      ]
+    },
+    {
+      "id": "yonetmelik:20135150:m:58",
+      "maddeKind": "madde",
+      "maddeNo": "58",
+      "heading": "Madde 58",
+      "text": "(1) İrtifak hakkından yararlanan taşınmazın bölünmesi hâlinde kural olarak, irtifak hakkı her taşınmaz yararına devam eder. Ancak bu haktan bir veya birden fazla taşınmaz yararlanıyorsa, yüklü taşınmaz maliki irtifak hakkının diğer taşınmazlardan terkinini isteyebilir. Müdürlük, bu istemi irtifak hakkı sahibine bildirir ve bildirim tarihinden itibaren bir ay içinde itiraz edilmezse irtifak hakkı terkin edilir.",
+      "preview": "(1) İrtifak hakkından yararlanan taşınmazın bölünmesi hâlinde kural olarak, irtifak hakkı her taşınmaz yararına devam eder. Ancak bu haktan…",
+      "kitap": null,
+      "kisim": null,
+      "bolum": "SEKİZİNCİ BÖLÜM · Taşınmazların Bölünmesi, Birleştirilmesi, Taksimi ve Kayıtların Taşınması",
+      "ayirim": null,
+      "maddeBaslik": "Yararlanan taşınmaz yönünden irtifak haklarının taşınması",
+      "sectionPath": [
+        "SEKİZİNCİ BÖLÜM · Taşınmazların Bölünmesi, Birleştirilmesi, Taksimi ve Kayıtların Taşınması",
+        "Yararlanan taşınmaz yönünden irtifak haklarının taşınması"
+      ]
+    },
+    {
+      "id": "yonetmelik:20135150:m:59",
+      "maddeKind": "madde",
+      "maddeNo": "59",
+      "heading": "Madde 59",
+      "text": "(1) Yüklü taşınmazın bölünmesi hâlinde kural olarak, irtifak hakkı her taşınmaz üzerinde devam eder. Ancak, irtifak hakkı belirli taşınmazlar üzerinde kullanılmazsa, bu taşınmazların maliklerinden her biri kendi taşınmazı üzerindeki irtifak hakkının terkinini isteyebilir. Müdürlük, bu istemi irtifak hakkı sahibine bildirir ve bildirim tarihinden itibaren bir ay içinde itiraz edilmezse irtifak hakkı terkin edilir.",
+      "preview": "(1) Yüklü taşınmazın bölünmesi hâlinde kural olarak, irtifak hakkı her taşınmaz üzerinde devam eder. Ancak, irtifak hakkı belirli taşınmazla…",
+      "kitap": null,
+      "kisim": null,
+      "bolum": "SEKİZİNCİ BÖLÜM · Taşınmazların Bölünmesi, Birleştirilmesi, Taksimi ve Kayıtların Taşınması",
+      "ayirim": null,
+      "maddeBaslik": "Yüklü taşınmaz yönünden irtifak haklarının taşınması",
+      "sectionPath": [
+        "SEKİZİNCİ BÖLÜM · Taşınmazların Bölünmesi, Birleştirilmesi, Taksimi ve Kayıtların Taşınması",
+        "Yüklü taşınmaz yönünden irtifak haklarının taşınması"
+      ]
+    },
+    {
+      "id": "yonetmelik:20135150:m:60",
+      "maddeKind": "madde",
+      "maddeNo": "60",
+      "heading": "Madde 60",
+      "text": "(Danıştay Onuncu Dairesinin 21/11/2023 tarihli ve E.:2019/7210; K.:2023/7212 sayılı kararı ile iptal madde; Danıştay İDDK’nın 30/10/2025 tarihli E.:2024/2157, K.:2025/2262 sayılı Onama kararı ile mezkûr karar kesinleşmiştir.)",
+      "preview": "(Danıştay Onuncu Dairesinin 21/11/2023 tarihli ve E.:2019/7210; K.:2023/7212 sayılı kararı ile iptal madde; Danıştay İDDK’nın 30/10/2025 tar…",
+      "kitap": null,
+      "kisim": null,
+      "bolum": "SEKİZİNCİ BÖLÜM · Taşınmazların Bölünmesi, Birleştirilmesi, Taksimi ve Kayıtların Taşınması",
+      "ayirim": null,
+      "maddeBaslik": "Taşınmazların bölünmesinde rehnin taşınması veya paylaştırılması",
+      "sectionPath": [
+        "SEKİZİNCİ BÖLÜM · Taşınmazların Bölünmesi, Birleştirilmesi, Taksimi ve Kayıtların Taşınması",
+        "Taşınmazların bölünmesinde rehnin taşınması veya paylaştırılması"
+      ]
+    },
+    {
+      "id": "yonetmelik:20135150:m:61",
+      "maddeKind": "madde",
+      "maddeNo": "61",
+      "heading": "Madde 61",
+      "text": "(1) Paylı mülkiyete konu bir taşınmazın paydaşlarından biri veya birkaçının payı üzerinde rehin hakkı olup da, bu taşınmazın bölünerek taksimi istenilirse, rehin alacaklısının onayı alınır. Rehin alacaklısı onay vermezse, istemde bulunan tarafın mahkemeden alacağı karara göre işlem yapılır ve işlem sonucu alacaklılara hemen bildirilir.\n (2) Paydaşlar, rehin haklarının hukukî sonuçlarını kabul ederek rehnin bölünme sonucunda oluşacak taşınmazlarına müşterek rehin olarak aynen taşınmasına onay verirlerse, bu duruma göre işlem yapılır.",
+      "preview": "(1) Paylı mülkiyete konu bir taşınmazın paydaşlarından biri veya birkaçının payı üzerinde rehin hakkı olup da, bu taşınmazın bölünerek taksi…",
+      "kitap": null,
+      "kisim": null,
+      "bolum": "SEKİZİNCİ BÖLÜM · Taşınmazların Bölünmesi, Birleştirilmesi, Taksimi ve Kayıtların Taşınması",
+      "ayirim": null,
+      "maddeBaslik": "Bölünme yolu ile taksimde rehnin taşınması",
+      "sectionPath": [
+        "SEKİZİNCİ BÖLÜM · Taşınmazların Bölünmesi, Birleştirilmesi, Taksimi ve Kayıtların Taşınması",
+        "Bölünme yolu ile taksimde rehnin taşınması"
+      ]
+    },
+    {
+      "id": "yonetmelik:20135150:m:62",
+      "maddeKind": "madde",
+      "maddeNo": "62",
+      "heading": "Madde 62",
+      "text": "(1) Aynı hissedarlara ait birden fazla taşınmaz, müşterek ve müteselsil rehinli olup, bölünme söz konusu olmaksızın taksim edilir ise, rehin bütün taşınmazlar üzerinde olduğu gibi korunur, işlemin sonucu alacaklıya hemen bildirilir,\n (2) Aynı hissedarlara ait birden fazla taşınmaz, müşterek ve müteselsil sorumlu olmaksızın ayrı ayrı rehinli olup, aynen taksimi istenirse, rehin alacaklısının onayı alınır. Rehin alacaklısı onay vermezse, istemde bulunan tarafın mahkemeden alacağı karara göre işlem yapılır ve işlem sonucu alacaklılara hemen bildirilir.\n (3) Hissedarlar, rehin haklarının hukukî sonuçlarını kabul ederek rehnin aynen taksim sonucunda oluşacak taşınmazlarına müşterek rehin olarak aynen taşınmasına onay verirlerse, bu duruma göre işlem yapılır.",
+      "preview": "(1) Aynı hissedarlara ait birden fazla taşınmaz, müşterek ve müteselsil rehinli olup, bölünme söz konusu olmaksızın taksim edilir ise, rehin…",
+      "kitap": null,
+      "kisim": null,
+      "bolum": "SEKİZİNCİ BÖLÜM · Taşınmazların Bölünmesi, Birleştirilmesi, Taksimi ve Kayıtların Taşınması",
+      "ayirim": null,
+      "maddeBaslik": "Aynen taksimde rehin hakkının taşınması",
+      "sectionPath": [
+        "SEKİZİNCİ BÖLÜM · Taşınmazların Bölünmesi, Birleştirilmesi, Taksimi ve Kayıtların Taşınması",
+        "Aynen taksimde rehin hakkının taşınması"
+      ]
+    },
+    {
+      "id": "yonetmelik:20135150:m:63",
+      "maddeKind": "madde",
+      "maddeNo": "63",
+      "heading": "Madde 63",
+      "text": "(1) Yararlanan ve yüklü taşınmazın bölünmesinde kütük sayfasında mevcut hak ve yükler, oluşan yeni taşınmazların kütük sayfalarına aynen nakledilir ve beyanlar sütununda aralarındaki bağlantı gösterilir.",
+      "preview": "(1) Yararlanan ve yüklü taşınmazın bölünmesinde kütük sayfasında mevcut hak ve yükler, oluşan yeni taşınmazların kütük sayfalarına aynen nak…",
+      "kitap": null,
+      "kisim": null,
+      "bolum": "SEKİZİNCİ BÖLÜM · Taşınmazların Bölünmesi, Birleştirilmesi, Taksimi ve Kayıtların Taşınması",
+      "ayirim": null,
+      "maddeBaslik": "Yararlanan ve yüklü taşınmazın bölünmesi",
+      "sectionPath": [
+        "SEKİZİNCİ BÖLÜM · Taşınmazların Bölünmesi, Birleştirilmesi, Taksimi ve Kayıtların Taşınması",
+        "Yararlanan ve yüklü taşınmazın bölünmesi"
+      ]
+    },
+    {
+      "id": "yonetmelik:20135150:m:64",
+      "maddeKind": "madde",
+      "maddeNo": "64",
+      "heading": "Madde 64",
+      "text": "(1) Bir taşınmazın bölünmesinde, üzerindeki bütün şerh ve beyan kayıtları, oluşan taşınmazların sayfalarına aynen nakledilerek aralarında bağlantı sağlanır. Şerh veya beyan kaydının hangi taşınmaz üzerinde devam ettiği hukuken ve teknik açıdan belirlenebiliyorsa, kaydın sadece o taşınmaza nakledilmesiyle yetinilir.\n (2) Taşınmazın bölünme yolu ile taksiminde, şerhler ve beyanlar 60 ıncı ve 61 inci madde hükümleri uyarınca nakledilir.",
+      "preview": "(1) Bir taşınmazın bölünmesinde, üzerindeki bütün şerh ve beyan kayıtları, oluşan taşınmazların sayfalarına aynen nakledilerek aralarında ba…",
+      "kitap": null,
+      "kisim": null,
+      "bolum": "SEKİZİNCİ BÖLÜM · Taşınmazların Bölünmesi, Birleştirilmesi, Taksimi ve Kayıtların Taşınması",
+      "ayirim": null,
+      "maddeBaslik": "Şerhler ve beyanların taşınması",
+      "sectionPath": [
+        "SEKİZİNCİ BÖLÜM · Taşınmazların Bölünmesi, Birleştirilmesi, Taksimi ve Kayıtların Taşınması",
+        "Şerhler ve beyanların taşınması"
+      ]
+    },
+    {
+      "id": "yonetmelik:20135150:m:65",
+      "maddeKind": "madde",
+      "maddeNo": "65",
+      "heading": "Madde 65",
+      "text": "(1) Taşınmazın kamulaştırma nedeniyle, hakların ve yüklerin aktarılmasına gerek olmaksızın bir parçasının ayrılarak sicilden terkini gerekiyor ise, kütük sayfası, taşınmazın diğer kısmı için olduğu gibi bırakılır. Ayrılan parçanın yüzölçümü, ayırma tarihi ve yevmiye numarası ile ayırma nedeni taşınmazın yüzölçümü kısmında gösterilir ve miktarından düşülür. İşlemin sonucu, kütükteki bütün hak sahiplerine ve kamulaştırmayı yapan idareye bildirilir.\n (2) Malikin istemiyle kamuya ayrılan alanlara terk hâlinde ise, kütükteki bütün hak sahiplerinin onayı aranır.",
+      "preview": "(1) Taşınmazın kamulaştırma nedeniyle, hakların ve yüklerin aktarılmasına gerek olmaksızın bir parçasının ayrılarak sicilden terkini gerekiy…",
+      "kitap": null,
+      "kisim": null,
+      "bolum": "SEKİZİNCİ BÖLÜM · Taşınmazların Bölünmesi, Birleştirilmesi, Taksimi ve Kayıtların Taşınması",
+      "ayirim": null,
+      "maddeBaslik": "Yeni parsel oluşumunu gerektirmeyen bölünmelerde hakların durumu",
+      "sectionPath": [
+        "SEKİZİNCİ BÖLÜM · Taşınmazların Bölünmesi, Birleştirilmesi, Taksimi ve Kayıtların Taşınması",
+        "Yeni parsel oluşumunu gerektirmeyen bölünmelerde hakların durumu"
+      ]
+    },
+    {
+      "id": "yonetmelik:20135150:m:66",
+      "maddeKind": "madde",
+      "maddeNo": "66",
+      "heading": "Madde 66",
+      "text": "(1) Aynı veya değişik maliklere ait birbirine bitişik taşınmazların birleştirilmesi mümkündür.\n (2) Birleştirilecek taşınmazların üzerinde sınırlı aynî haklar ile şerhedilmiş kişisel haklar var ise, bütün hak sahiplerinin onayı alınır.\n (3) Aynı malike ait yüklü olmayan bir taşınmaz ile yüklü bir taşınmazın birleştirilmesi istenildiğinde, hak sahiplerinin onayı aranmaz.\n (4) Yapılacak planlarla yola cepheli duruma gelen taşınmazlar üzerinde geçit hakkı bulunması hâlinde, birleştirme işleminde geçit hakkı lehtarının onayı aranmaz. 4721 sayılı Kanunun 1026 ncı maddesi uyarınca yüklü taşınmaz malikinin istemine istinaden birleştirme sonucu yola cepheli hâle gelen taşınmazların lehine olan geçit hakkı terkin edilir ve geçit hakkı lehtarına hemen bildirilir.\n (5) Birleştirilen taşınmazlar üzerindeki hak ve yükler, yeni oluşan taşınmazın kütük sayfasına aynen nakledilir. Nakledilen haklar ve yüklerin paydaşlardan hangisine ait olduğu da ayrıca belirtilir ve eski sayfalar kapatılır.",
+      "preview": "(1) Aynı veya değişik maliklere ait birbirine bitişik taşınmazların birleştirilmesi mümkündür. (2) Birleştirilecek taşınmazların üzerinde sı…",
+      "kitap": null,
+      "kisim": null,
+      "bolum": "SEKİZİNCİ BÖLÜM · Taşınmazların Bölünmesi, Birleştirilmesi, Taksimi ve Kayıtların Taşınması",
+      "ayirim": null,
+      "maddeBaslik": "Birleştirme ve hakların taşınması",
+      "sectionPath": [
+        "SEKİZİNCİ BÖLÜM · Taşınmazların Bölünmesi, Birleştirilmesi, Taksimi ve Kayıtların Taşınması",
+        "Birleştirme ve hakların taşınması"
+      ]
+    },
+    {
+      "id": "yonetmelik:20135150:m:67",
+      "maddeKind": "madde",
+      "maddeNo": "67",
+      "heading": "Madde 67",
+      "text": "(1) Bölünme, birleştirme, taşınmaz kaydının terkini ve aktarılması durumlarında kütük sayfası kapatılır. Bunun için \"Sayfa No\" sütunu sol üst köşeden sağa çapraz tek çizgiyle, \"Mülkiyet\" sütununda maliklerden sonra gelen ilk boş satır da yatay olmak üzere kırmızı mürekkepli kalemle ve çift çizgi ile çizilir. Beyanlar sütununda kütük sayfasının kapatılma nedeni yine kırmızı mürekkepli kalemle açıklanarak, işlemle ilgili tarih ve yevmiye numarası yazılır.\n (2) Kapatılan kütük sayfası ile birlikte varsa ek sayfalar da aynı şekilde kapatılır.\n (3) Bir taşınmaza ait kütük sayfası yıpranma veya kopma gibi nedenlerle kullanılamaz veya okunamaz hâle gelirse, re'sen kapatılır ve yeni sayfa açılır.\n (4) Kapatılan sayfa ve sayfalar üzerindeki terkin edilmemiş haklar ve beyanlar, açılan yeni sayfaya kendi tarih ve yevmiye numaraları değiştirilmeden aynen nakledilir. Kapatılan sayfa üzerinde işlem yapılamaz.\n (5) Kat mülkiyeti veya kat irtifakına tâbi taşınmazların tescilinde ve kütük sayfalarının açılıp kapatılmasında 634 sayılı Kanun hükümleri saklıdır.",
+      "preview": "(1) Bölünme, birleştirme, taşınmaz kaydının terkini ve aktarılması durumlarında kütük sayfası kapatılır. Bunun için \"Sayfa No\" sütunu sol üs…",
+      "kitap": null,
+      "kisim": null,
+      "bolum": "SEKİZİNCİ BÖLÜM · Taşınmazların Bölünmesi, Birleştirilmesi, Taksimi ve Kayıtların Taşınması",
+      "ayirim": null,
+      "maddeBaslik": "Sayfa kapatılması ve yeni sayfa açılması",
+      "sectionPath": [
+        "SEKİZİNCİ BÖLÜM · Taşınmazların Bölünmesi, Birleştirilmesi, Taksimi ve Kayıtların Taşınması",
+        "Sayfa kapatılması ve yeni sayfa açılması"
+      ]
+    },
+    {
+      "id": "yonetmelik:20135150:m:68",
+      "maddeKind": "madde",
+      "maddeNo": "68",
+      "heading": "Madde 68",
+      "text": "(1) Bir taşınmazın kayıtlı olduğu kütük sayfasının sütunlarından herhangi birisinin dolması hâlinde, ilgili mahalle veya köyün son kütüğünde ilk boş sayfa açılır ve sayfanın numara sütunundaki ek sayfa numarası ile karşılıklı bağlantı sağlanır. Açılan ek sayfalarda taşınmazın yüzölçümü ve niteliği belirtilmez.",
+      "preview": "(1) Bir taşınmazın kayıtlı olduğu kütük sayfasının sütunlarından herhangi birisinin dolması hâlinde, ilgili mahalle veya köyün son kütüğünde…",
+      "kitap": null,
+      "kisim": null,
+      "bolum": "SEKİZİNCİ BÖLÜM · Taşınmazların Bölünmesi, Birleştirilmesi, Taksimi ve Kayıtların Taşınması",
+      "ayirim": null,
+      "maddeBaslik": "Ek sayfa açılması",
+      "sectionPath": [
+        "SEKİZİNCİ BÖLÜM · Taşınmazların Bölünmesi, Birleştirilmesi, Taksimi ve Kayıtların Taşınması",
+        "Ek sayfa açılması"
+      ]
+    },
+    {
+      "id": "yonetmelik:20135150:m:69",
+      "maddeKind": "madde",
+      "maddeNo": "69",
+      "heading": "Madde 69",
+      "text": "(1) Tapu sicilinde terkin, tescilin kendisine hak sağladığı kimsenin istemine ya da yetkili makam veya mahkeme kararına istinaden yapılır.\n (2) Kayıtların terkininde, tescil istemleriyle ilgili hükümler uygulanır.\n (3) Kanunda açıkça gösterilen hâller ile şerhedilmiş kişisel haklarda ve tescil edilmiş taşınmaz lehine veya kişisel irtifak haklarında belli bir süre söz konusu ise, bu sürenin dolması hâlinde taşınmaz malikinin istemi üzerine terkin işlemi yapılır.\n (4) Bir aynî hakkın veya şerhedilmiş kişisel hakkın diğer sebeplere dayalı olarak sona ermesiyle kayıt hukukî değerini kaybettiği takdirde, yüklü taşınmaz maliki, terkini isteyebilir. Müdürlük, bu istemi yerine getirirse her ilgili, bu işlemin kendisine tebliğ tarihinden başlayarak otuz gün içinde terkine karşı dava açabilir.\n (5) 21/7/1953 tarih ve 6183 sayılı Amme Alacaklarının Tahsil Usulü Hakkında Kanun hükümleri uyarınca takip edilen kamu alacaklarına ilişkin haciz, iflas, konkordato ile verilen süre ve 9/6/1932 tarih ve 2004 sayılı İcra ve İflas Kanununun 150/c maddesi şerhi bulunan taşınmazlar hariç olmak üzere, tapu siciline yapılan şerhten itibaren iki yıllık sürenin sonunda Müdürlüğe yenilendiği bildirilmemiş olan hacizler, taşınmaz malikinin istemi üzerine terkin edilir ve durum icra müdürlüğüne bildirilir.[1][2][3][4][5]",
+      "preview": "(1) Tapu sicilinde terkin, tescilin kendisine hak sağladığı kimsenin istemine ya da yetkili makam veya mahkeme kararına istinaden yapılır. (…",
+      "kitap": null,
+      "kisim": null,
+      "bolum": "DOKUZUNCU BÖLÜM · Terkin, Değişiklik ve Düzeltmeler",
+      "ayirim": null,
+      "maddeBaslik": "Terkin",
+      "sectionPath": [
+        "DOKUZUNCU BÖLÜM · Terkin, Değişiklik ve Düzeltmeler",
+        "Terkin"
+      ]
+    },
+    {
+      "id": "yonetmelik:20135150:m:70",
+      "maddeKind": "madde",
+      "maddeNo": "70",
+      "heading": "Madde 70",
+      "text": "(1) Tapu sicili üzerinde yapılacak terkinler, terkin edilecek hakla ilgili kaydın üzerinin kırmızı mürekkepli kalemle çizilmesi ve altındaki satıra yine kırmızı mürekkepli kalemle \"terkin edildi\" ibaresi ile tarih ve yevmiye numarasının yazılması ve müdürün veya görevlendireceği tapu görevlisinin imzalamasıyla olur.\n (2) Hakkın tescilinde harf kullanılmış ise, terkininde de aynı harf kullanılır.",
+      "preview": "(1) Tapu sicili üzerinde yapılacak terkinler, terkin edilecek hakla ilgili kaydın üzerinin kırmızı mürekkepli kalemle çizilmesi ve altındaki…",
+      "kitap": null,
+      "kisim": null,
+      "bolum": "DOKUZUNCU BÖLÜM · Terkin, Değişiklik ve Düzeltmeler",
+      "ayirim": null,
+      "maddeBaslik": "Terkinin şekli",
+      "sectionPath": [
+        "DOKUZUNCU BÖLÜM · Terkin, Değişiklik ve Düzeltmeler",
+        "Terkinin şekli"
+      ]
+    },
+    {
+      "id": "yonetmelik:20135150:m:71",
+      "maddeKind": "madde",
+      "maddeNo": "71",
+      "heading": "Madde 71",
+      "text": "(1) İpotekli borç senedi veya irat senedinin iptali, kırmızı mürekkepli kalemle çapraz çizgi çekilmek ve terkin edildiği hususu yazılmak, terkine ilişkin tarih ve yevmiye numarası belirtilmek ve müdür tarafından imzalanmak suretiyle yapılır.\n (2) İpotekli borç senedi veya irat senedi yıpranmış ve okunamayacak hale gelmiş ise, aynı usulle ve üzerine iptal nedeni yazıldıktan sonra iptal edilip, yeniden verilme nedeni belirtilmek suretiyle yeni senet verilir. Yeni senet müdür ile defterdar veya malmüdürü tarafından imzalanır. İptal edilen senetler kütük sayfasına ait dosyada saklanır.",
+      "preview": "(1) İpotekli borç senedi veya irat senedinin iptali, kırmızı mürekkepli kalemle çapraz çizgi çekilmek ve terkin edildiği hususu yazılmak, te…",
+      "kitap": null,
+      "kisim": null,
+      "bolum": "DOKUZUNCU BÖLÜM · Terkin, Değişiklik ve Düzeltmeler",
+      "ayirim": null,
+      "maddeBaslik": "İpotekli borç senedi ve irat senedinin iptali",
+      "sectionPath": [
+        "DOKUZUNCU BÖLÜM · Terkin, Değişiklik ve Düzeltmeler",
+        "İpotekli borç senedi ve irat senedinin iptali"
+      ]
+    },
+    {
+      "id": "yonetmelik:20135150:m:72",
+      "maddeKind": "madde",
+      "maddeNo": "72",
+      "heading": "Madde 72",
+      "text": "(1) Tapu sicilinde değişiklik, hak sahibinin istemine ya da yetkili makam veya mahkeme kararına istinaden yapılır.\n (2) Tapu sicilindeki değişiklikler, üzerinin kırmızı mürekkepli kalemle çizilip, değişiklik tarih ve yevmiye numarasıyla yeni kaydın yazılması suretiyle yapılır.\n (3) Önceki kayıt bir harfle yazılı ise, değişiklikte de aynı harf kullanılır.\n (4) Rehinli alacağın kısmen ödenmesi veya rehnin miktar, faiz, derece, süre gibi unsurlarında yapılacak değişiklikler, düşünceler sütununda ilgili rehnin harfi kullanılmak suretiyle belirtilir.",
+      "preview": "(1) Tapu sicilinde değişiklik, hak sahibinin istemine ya da yetkili makam veya mahkeme kararına istinaden yapılır. (2) Tapu sicilindeki deği…",
+      "kitap": null,
+      "kisim": null,
+      "bolum": "DOKUZUNCU BÖLÜM · Terkin, Değişiklik ve Düzeltmeler",
+      "ayirim": null,
+      "maddeBaslik": "Kaydın değiştirilmesi",
+      "sectionPath": [
+        "DOKUZUNCU BÖLÜM · Terkin, Değişiklik ve Düzeltmeler",
+        "Kaydın değiştirilmesi"
+      ]
+    },
+    {
+      "id": "yonetmelik:20135150:m:73",
+      "maddeKind": "madde",
+      "maddeNo": "73",
+      "heading": "Madde 73",
+      "text": "(1) Rehinli alacağın devri hâlinde; kütük sayfasının ilgili sütununda eski alacaklının adı, soyadı ve baba adı kırmızı mürekkepli kalemle çizilir ve üzerine düşüncelere bakınız anlamına gelen \"D.B.\" harfleri, düşünceler sütununda da rehinle ilgili harfle yeni alacaklının adı, soyadı, baba adı ile işleme ait tarih ve yevmiye numarası yazılır.",
+      "preview": "(1) Rehinli alacağın devri hâlinde; kütük sayfasının ilgili sütununda eski alacaklının adı, soyadı ve baba adı kırmızı mürekkepli kalemle çi…",
+      "kitap": null,
+      "kisim": null,
+      "bolum": "DOKUZUNCU BÖLÜM · Terkin, Değişiklik ve Düzeltmeler",
+      "ayirim": null,
+      "maddeBaslik": "Rehinli alacağın devri",
+      "sectionPath": [
+        "DOKUZUNCU BÖLÜM · Terkin, Değişiklik ve Düzeltmeler",
+        "Rehinli alacağın devri"
+      ]
+    },
+    {
+      "id": "yonetmelik:20135150:m:74",
+      "maddeKind": "madde",
+      "maddeNo": "74",
+      "heading": "Madde 74",
+      "text": "(1) Kütük, yevmiye defteri ve yardımcı sicillerde, belgelere aykırı basit yazım hatası yapıldığının tespit edilmesi hâlinde, müdür tarafından nedeni düzeltmeler sicilinde açıklanarak, re'sen düzeltme yapılır.\n (2) İstem belgesinde yapılan yanlışlık veya eksiklik düzeltilerek belgenin uygun bir yerine yazılmak suretiyle taraflar ve tapu görevlilerince imzalanır ve sicilde buna uygun düzeltme yapılır.\n (3) Ana veya yardımcı siciller üzerinde yapılmış hata veya eksikliklerin, ilgililerce sunulan veya başka idarelerce düzenlenen belgelerden kaynaklanması hâlinde, ilgililerin gerçek durumu kanıtlayıcı belgelere dayalı başvuruları üzerine, istem yevmiye defterine kaydedilerek gerekli düzeltme yapılır.\n (4) Kütük, yevmiye defteri ve yardımcı sicillerde, belgelere aykırı tescil veya esaslı yazım hatasının düzeltilebilmesi için ilgililerin yazılı olurunun alınması gerekir. İlgililerden birisinin yazılı oluru olmazsa, bu durum beyanlar sütununda belirtilerek, 26/9/2011 tarih ve 659 sayılı Kanun Hükmünde Kararname hükümlerine göre işlem yapılır.\n (5) Yapılacak düzeltmeler hatalı yazımdan sonra hak sahibi olmuş kişilerin hakkını etkileyici nitelikte ise, bu hak sahiplerinin de yazılı olurları aranır.\n (6) Müdürlük, ilgililerin bilgisi dışında yaptığı işlemleri tebliğ etmekle yükümlüdür.",
+      "preview": "(1) Kütük, yevmiye defteri ve yardımcı sicillerde, belgelere aykırı basit yazım hatası yapıldığının tespit edilmesi hâlinde, müdür tarafında…",
+      "kitap": null,
+      "kisim": null,
+      "bolum": "DOKUZUNCU BÖLÜM · Terkin, Değişiklik ve Düzeltmeler",
+      "ayirim": null,
+      "maddeBaslik": "Ana veya yardımcı siciller üzerindeki düzeltmeler",
+      "sectionPath": [
+        "DOKUZUNCU BÖLÜM · Terkin, Değişiklik ve Düzeltmeler",
+        "Ana veya yardımcı siciller üzerindeki düzeltmeler"
+      ]
+    },
+    {
+      "id": "yonetmelik:20135150:m:75",
+      "maddeKind": "madde",
+      "maddeNo": "75",
+      "heading": "Madde 75",
+      "text": "(1) Kadastro çalışmalarından kaynaklanan malikin veya hak sahibinin adı, soyadı ve baba adına ilişkin tapu kütüğündeki yazım hataları ilgilisinin başvurusu üzerine;\n a) Senetsizden tespitlerde; nüfus kayıt örneği ve taşınmazın bulunduğu belediye veya muhtarlıktan alınacak fotoğraflı ilmühaber,\n b) Kayda dayalı tespitlerde; dayanağı kayıt ve belgeler,\n incelenmek ve gerektiğinde tanık ve varsa tespit bilirkişileri dinlemek ve zeminde inceleme yapmak suretiyle istemin gerçek hak sahibinden geldiği belirlenirse, istem yevmiye defterine kaydedilerek düzeltilir.\n (2) Zeminde inceleme, kadastro müdürlüğü teknik personeli ile birlikte yapılır ve inceleme neticesinde teknik rapor düzenlenir. Zeminde incelemede, komşu parsel malikleri, muhtar ve diğer ilgililer dinlenir; vergi kaydı ve diğer her türlü bilgi ve belgeden yararlanılır.\n (3) Tapu sicilindeki bilgilerin güncellenmesi ve eksikliklerin giderilmesinde de yukarıdaki fıkralar uygulanır.\n (4) Bu madde hükümleri uyarınca kayıt düzeltmeleri için müdürlüklere başvuru yapılması zorunludur.",
+      "preview": "(1) Kadastro çalışmalarından kaynaklanan malikin veya hak sahibinin adı, soyadı ve baba adına ilişkin tapu kütüğündeki yazım hataları ilgili…",
+      "kitap": null,
+      "kisim": null,
+      "bolum": "DOKUZUNCU BÖLÜM · Terkin, Değişiklik ve Düzeltmeler",
+      "ayirim": null,
+      "maddeBaslik": "Tapu sicilindeki bilgilerin güncellenmesi",
+      "sectionPath": [
+        "DOKUZUNCU BÖLÜM · Terkin, Değişiklik ve Düzeltmeler",
+        "Tapu sicilindeki bilgilerin güncellenmesi"
+      ]
+    },
+    {
+      "id": "yonetmelik:20135150:m:76",
+      "maddeKind": "madde",
+      "maddeNo": "76",
+      "heading": "Madde 76",
+      "text": "(1) Yanlış yazım okunacak şekilde, kırmızı mürekkepli kalemle çizilir ve ilk boş satıra doğrusu yazılır.\n (2) Kazıntı, silinti, satır aralarına veya sayfa kenarına çıkıntı veya kayda ek yapılmak suretiyle düzeltme yapılamaz.\n (3) Yevmiye defterine kaydedilerek yapılan düzeltmelerde tarih ve yevmiye numarası, düzeltmeler siciline kaydedilerek yapılanlarda ise, bu sicilin numarası düzeltilen işlemin üzerine “D.S.” şeklinde başlayarak yazılır. Düzeltme ile ilgili belgeler taşınmaza ait dosyada saklanır.",
+      "preview": "(1) Yanlış yazım okunacak şekilde, kırmızı mürekkepli kalemle çizilir ve ilk boş satıra doğrusu yazılır. (2) Kazıntı, silinti, satır araları…",
+      "kitap": null,
+      "kisim": null,
+      "bolum": "DOKUZUNCU BÖLÜM · Terkin, Değişiklik ve Düzeltmeler",
+      "ayirim": null,
+      "maddeBaslik": "Düzeltmenin şekli",
+      "sectionPath": [
+        "DOKUZUNCU BÖLÜM · Terkin, Değişiklik ve Düzeltmeler",
+        "Düzeltmenin şekli"
+      ]
+    },
+    {
+      "id": "yonetmelik:20135150:m:77",
+      "maddeKind": "madde",
+      "maddeNo": "77",
+      "heading": "Madde 77",
+      "text": "(1) Vekâletten aziller, vekâlet verenlerin adının baş harfleri ve Türkiye Cumhuriyeti kimlik numarasına göre, her harf için sicilde ayrılan bölüme yazılır.\n (2) Azil belgesi geldiğinde, müdür veya görevlendireceği tapu görevlisi tarafından üzerine alındığı tarih, saat ve dakika hemen yazılarak, aziller siciline kaydedilir.",
+      "preview": "(1) Vekâletten aziller, vekâlet verenlerin adının baş harfleri ve Türkiye Cumhuriyeti kimlik numarasına göre, her harf için sicilde ayrılan…",
+      "kitap": null,
+      "kisim": null,
+      "bolum": "ONUNCU BÖLÜM · Yardımcı Siciller, Sicillerin Arşivlenmesi ve Çeşitli Hükümler",
+      "ayirim": null,
+      "maddeBaslik": "Aziller sicili",
+      "sectionPath": [
+        "ONUNCU BÖLÜM · Yardımcı Siciller, Sicillerin Arşivlenmesi ve Çeşitli Hükümler",
+        "Aziller sicili"
+      ]
+    },
+    {
+      "id": "yonetmelik:20135150:m:78",
+      "maddeKind": "madde",
+      "maddeNo": "78",
+      "heading": "Madde 78",
+      "text": "(1) Yevmiye defterine yazılması gerekmeyen düzeltmelerin sebebi, düzeltmeler siciline kaydedilir.",
+      "preview": "(1) Yevmiye defterine yazılması gerekmeyen düzeltmelerin sebebi, düzeltmeler siciline kaydedilir.",
+      "kitap": null,
+      "kisim": null,
+      "bolum": "ONUNCU BÖLÜM · Yardımcı Siciller, Sicillerin Arşivlenmesi ve Çeşitli Hükümler",
+      "ayirim": null,
+      "maddeBaslik": "Düzeltmeler sicili",
+      "sectionPath": [
+        "ONUNCU BÖLÜM · Yardımcı Siciller, Sicillerin Arşivlenmesi ve Çeşitli Hükümler",
+        "Düzeltmeler sicili"
+      ]
+    },
+    {
+      "id": "yonetmelik:20135150:m:79",
+      "maddeKind": "madde",
+      "maddeNo": "79",
+      "heading": "Madde 79",
+      "text": "(1) Mera, yaylak, kışlak, otlak, harman ve panayır yerleri gibi kamu orta malları, özel siciline kaydedilir ve hangi köy veya belediyeye tahsisli olduğu belirtilir. İlgili belgeler özel dosyasında saklanır.",
+      "preview": "(1) Mera, yaylak, kışlak, otlak, harman ve panayır yerleri gibi kamu orta malları, özel siciline kaydedilir ve hangi köy veya belediyeye tah…",
+      "kitap": null,
+      "kisim": null,
+      "bolum": "ONUNCU BÖLÜM · Yardımcı Siciller, Sicillerin Arşivlenmesi ve Çeşitli Hükümler",
+      "ayirim": null,
+      "maddeBaslik": "Kamu orta malları sicili",
+      "sectionPath": [
+        "ONUNCU BÖLÜM · Yardımcı Siciller, Sicillerin Arşivlenmesi ve Çeşitli Hükümler",
+        "Kamu orta malları sicili"
+      ]
+    },
+    {
+      "id": "yonetmelik:20135150:m:80",
+      "maddeKind": "madde",
+      "maddeNo": "80",
+      "heading": "Madde 80",
+      "text": "(1) Müdürlükte bulunan bütün kütük, zabıt defteri, yevmiye defteri ve resmî senet ciltleri ile yardımcı siciller tapu envanter defterine kaydedilir.",
+      "preview": "(1) Müdürlükte bulunan bütün kütük, zabıt defteri, yevmiye defteri ve resmî senet ciltleri ile yardımcı siciller tapu envanter defterine kay…",
+      "kitap": null,
+      "kisim": null,
+      "bolum": "ONUNCU BÖLÜM · Yardımcı Siciller, Sicillerin Arşivlenmesi ve Çeşitli Hükümler",
+      "ayirim": null,
+      "maddeBaslik": "Tapu envanter defteri",
+      "sectionPath": [
+        "ONUNCU BÖLÜM · Yardımcı Siciller, Sicillerin Arşivlenmesi ve Çeşitli Hükümler",
+        "Tapu envanter defteri"
+      ]
+    },
+    {
+      "id": "yonetmelik:20135150:m:81",
+      "maddeKind": "madde",
+      "maddeNo": "81",
+      "heading": "Madde 81",
+      "text": "(1) Yetkili mercilerce tespit edilen idarî sınırlarla ilgili kararlar ve köy sınırları, idarî sınırlar kayıt defterine kaydedilir ve belgeleri özel dosyasında saklanır.",
+      "preview": "(1) Yetkili mercilerce tespit edilen idarî sınırlarla ilgili kararlar ve köy sınırları, idarî sınırlar kayıt defterine kaydedilir ve belgele…",
+      "kitap": null,
+      "kisim": null,
+      "bolum": "ONUNCU BÖLÜM · Yardımcı Siciller, Sicillerin Arşivlenmesi ve Çeşitli Hükümler",
+      "ayirim": null,
+      "maddeBaslik": "İdarî sınırlar kayıt defteri",
+      "sectionPath": [
+        "ONUNCU BÖLÜM · Yardımcı Siciller, Sicillerin Arşivlenmesi ve Çeşitli Hükümler",
+        "İdarî sınırlar kayıt defteri"
+      ]
+    },
+    {
+      "id": "yonetmelik:20135150:m:82",
+      "maddeKind": "madde",
+      "maddeNo": "82",
+      "heading": "Madde 82",
+      "text": "(1) Bu Tüzükte yazılı ana ve yardımcı siciller ile idarî sınırlar kayıt defteri özenle saklanır.\n (2) Resmî senetler her yıl tarih ve yevmiye sırasıyla ciltlenerek saklanır.",
+      "preview": "(1) Bu Tüzükte yazılı ana ve yardımcı siciller ile idarî sınırlar kayıt defteri özenle saklanır. (2) Resmî senetler her yıl tarih ve yevmiye…",
+      "kitap": null,
+      "kisim": null,
+      "bolum": "ONUNCU BÖLÜM · Yardımcı Siciller, Sicillerin Arşivlenmesi ve Çeşitli Hükümler",
+      "ayirim": null,
+      "maddeBaslik": "Sicillerin korunması ve senetlerin arşivlenmesi",
+      "sectionPath": [
+        "ONUNCU BÖLÜM · Yardımcı Siciller, Sicillerin Arşivlenmesi ve Çeşitli Hükümler",
+        "Sicillerin korunması ve senetlerin arşivlenmesi"
+      ]
+    },
+    {
+      "id": "yonetmelik:20135150:m:83",
+      "maddeKind": "madde",
+      "maddeNo": "83",
+      "heading": "Madde 83",
+      "text": "(1) Arşivlenecek belgelerin tespiti, elektronik ortamda arşivlenmesi, arşivlemenin usul ve esasları Genel Müdürlükçe belirlenir.\n (2) Hangi belgelerin imha edilebileceği ve imha edilme süreleri Genel Müdürlükçe belirlenir.",
+      "preview": "(1) Arşivlenecek belgelerin tespiti, elektronik ortamda arşivlenmesi, arşivlemenin usul ve esasları Genel Müdürlükçe belirlenir. (2) Hangi b…",
+      "kitap": null,
+      "kisim": null,
+      "bolum": "ONUNCU BÖLÜM · Yardımcı Siciller, Sicillerin Arşivlenmesi ve Çeşitli Hükümler",
+      "ayirim": null,
+      "maddeBaslik": "Belgelerin arşivlenmesi",
+      "sectionPath": [
+        "ONUNCU BÖLÜM · Yardımcı Siciller, Sicillerin Arşivlenmesi ve Çeşitli Hükümler",
+        "Belgelerin arşivlenmesi"
+      ]
+    },
+    {
+      "id": "yonetmelik:20135150:m:84",
+      "maddeKind": "madde",
+      "maddeNo": "84",
+      "heading": "Madde 84",
+      "text": "(1) Tapu sicilleri, Genel Müdürlük birimleri dışına çıkarılamaz.\n (2) Devlete, gerçek ve tüzel kişilere ait bir hizmetin görülmesi, bir hakkın korunması ve ispatı gerektiğinde, onaylı örnekleri verilir. Ancak, mahkemeler veya yetkili resmî merciiler tarafından sicil veya belgelerin aslı istenildiği takdirde, örnekleri müdür tarafından tasdik edilip, iade edilmek üzere imza karşılığında asılları verilir. Onaylı örnek belgeler, asılları iade edilene kadar özenle saklanır.",
+      "preview": "(1) Tapu sicilleri, Genel Müdürlük birimleri dışına çıkarılamaz. (2) Devlete, gerçek ve tüzel kişilere ait bir hizmetin görülmesi, bir hakkı…",
+      "kitap": null,
+      "kisim": null,
+      "bolum": "ONUNCU BÖLÜM · Yardımcı Siciller, Sicillerin Arşivlenmesi ve Çeşitli Hükümler",
+      "ayirim": null,
+      "maddeBaslik": "Sicillerin müdürlük dışına çıkarılması",
+      "sectionPath": [
+        "ONUNCU BÖLÜM · Yardımcı Siciller, Sicillerin Arşivlenmesi ve Çeşitli Hükümler",
+        "Sicillerin müdürlük dışına çıkarılması"
+      ]
+    },
+    {
+      "id": "yonetmelik:20135150:m:85",
+      "maddeKind": "madde",
+      "maddeNo": "85",
+      "heading": "Madde 85",
+      "text": "(1) Tapu işlemleri ile ilgili olarak düzenlenen istem belgesi, resmî senet, tapu senedi ve ipotek belgelerinin birer örneği, müdürlük tarafından hak sahiplerine verilir.\n (2) İlgilisinin istemi hâlinde, tapu sicilini oluşturan diğer bilgi ve belgelerin örneği verilir.",
+      "preview": "(1) Tapu işlemleri ile ilgili olarak düzenlenen istem belgesi, resmî senet, tapu senedi ve ipotek belgelerinin birer örneği, müdürlük tarafı…",
+      "kitap": null,
+      "kisim": null,
+      "bolum": "ONUNCU BÖLÜM · Yardımcı Siciller, Sicillerin Arşivlenmesi ve Çeşitli Hükümler",
+      "ayirim": null,
+      "maddeBaslik": "Belge örnekleri",
+      "sectionPath": [
+        "ONUNCU BÖLÜM · Yardımcı Siciller, Sicillerin Arşivlenmesi ve Çeşitli Hükümler",
+        "Belge örnekleri"
+      ]
+    },
+    {
+      "id": "yonetmelik:20135150:m:86",
+      "maddeKind": "madde",
+      "maddeNo": "86",
+      "heading": "Madde 86",
+      "text": "(1) Tapu işlemlerinde kullanılacak belgelerin şekilleri, Genel Müdürlük tarafından belirlenir.",
+      "preview": "(1) Tapu işlemlerinde kullanılacak belgelerin şekilleri, Genel Müdürlük tarafından belirlenir.",
+      "kitap": null,
+      "kisim": null,
+      "bolum": "ONUNCU BÖLÜM · Yardımcı Siciller, Sicillerin Arşivlenmesi ve Çeşitli Hükümler",
+      "ayirim": null,
+      "maddeBaslik": "Belgelerin şekli",
+      "sectionPath": [
+        "ONUNCU BÖLÜM · Yardımcı Siciller, Sicillerin Arşivlenmesi ve Çeşitli Hükümler",
+        "Belgelerin şekli"
+      ]
+    },
+    {
+      "id": "yonetmelik:20135150:m:87",
+      "maddeKind": "madde",
+      "maddeNo": "87",
+      "heading": "Madde 87",
+      "text": "(1) Kütük, yevmiye defteri ve yardımcı siciller kullanılmadan önce, birbirini takip eden sayfa numaraları verilerek müdür tarafından kaç sayfadan ibaret olduğu son sayfaya yazılıp tarih, imza ve mühürle onanır, sayfa araları da ayrıca müdürlük mührü ile mühürlenir. Kadastro aşamasında oluşturulan kütüklerin onama işlemi kadastro müdürü tarafından yapılır.",
+      "preview": "(1) Kütük, yevmiye defteri ve yardımcı siciller kullanılmadan önce, birbirini takip eden sayfa numaraları verilerek müdür tarafından kaç say…",
+      "kitap": null,
+      "kisim": null,
+      "bolum": "ONUNCU BÖLÜM · Yardımcı Siciller, Sicillerin Arşivlenmesi ve Çeşitli Hükümler",
+      "ayirim": null,
+      "maddeBaslik": "Sicillerin onanması",
+      "sectionPath": [
+        "ONUNCU BÖLÜM · Yardımcı Siciller, Sicillerin Arşivlenmesi ve Çeşitli Hükümler",
+        "Sicillerin onanması"
+      ]
+    },
+    {
+      "id": "yonetmelik:20135150:m:88",
+      "maddeKind": "madde",
+      "maddeNo": "88",
+      "heading": "Madde 88",
+      "text": "(1) Kamu kurum ve kuruluşları, kamu kurumu niteliğindeki meslek kuruluşları, mahkemeler, icra müdürlükleri, bankalar ve özel hukuk tüzel kişileri tarafından düzenlenen aynî veya kişisel hakkı sona erdirecek nitelikteki belgeler, tapu işlemi için elden ibraz edilemez. Bu belgeler 7201 sayılı Kanun hükümlerine göre müdürlüklere tebliğ edilir.\n (2) Birinci fıkra gereğince, tapu işlemlerine yönelik düzenlenen belgelerde silinti, kazıntı ve çıkıntı yapılamaz.\n\n Yönetmelik",
+      "preview": "(1) Kamu kurum ve kuruluşları, kamu kurumu niteliğindeki meslek kuruluşları, mahkemeler, icra müdürlükleri, bankalar ve özel hukuk tüzel kiş…",
+      "kitap": null,
+      "kisim": null,
+      "bolum": "ONUNCU BÖLÜM · Yardımcı Siciller, Sicillerin Arşivlenmesi ve Çeşitli Hükümler",
+      "ayirim": null,
+      "maddeBaslik": "Belgelerin elden takibi ve şekli",
+      "sectionPath": [
+        "ONUNCU BÖLÜM · Yardımcı Siciller, Sicillerin Arşivlenmesi ve Çeşitli Hükümler",
+        "Belgelerin elden takibi ve şekli"
+      ]
+    },
+    {
+      "id": "yonetmelik:20135150:m:89",
+      "maddeKind": "madde",
+      "maddeNo": "89",
+      "heading": "Madde 89",
+      "text": "(1) Bu Tüzüğün uygulanmasına ilişkin hususlar yönetmelikle düzenlenir.",
+      "preview": "(1) Bu Tüzüğün uygulanmasına ilişkin hususlar yönetmelikle düzenlenir.",
+      "kitap": null,
+      "kisim": null,
+      "bolum": "ONUNCU BÖLÜM · Yardımcı Siciller, Sicillerin Arşivlenmesi ve Çeşitli Hükümler",
+      "ayirim": null,
+      "maddeBaslik": "Belgelerin elden takibi ve şekli",
+      "sectionPath": [
+        "ONUNCU BÖLÜM · Yardımcı Siciller, Sicillerin Arşivlenmesi ve Çeşitli Hükümler",
+        "Belgelerin elden takibi ve şekli"
+      ]
+    },
+    {
+      "id": "yonetmelik:20135150:m:90",
+      "maddeKind": "madde",
+      "maddeNo": "90",
+      "heading": "Madde 90",
+      "text": "(1) 18/5/1994 tarihli ve 94/5623 sayılı Bakanlar Kurulu Kararı ile yürürlüğe konulan Tapu Sicili Tüzüğü yürürlükten kaldırılmıştır.",
+      "preview": "(1) 18/5/1994 tarihli ve 94/5623 sayılı Bakanlar Kurulu Kararı ile yürürlüğe konulan Tapu Sicili Tüzüğü yürürlükten kaldırılmıştır.",
+      "kitap": null,
+      "kisim": null,
+      "bolum": "ONUNCU BÖLÜM · Yardımcı Siciller, Sicillerin Arşivlenmesi ve Çeşitli Hükümler",
+      "ayirim": null,
+      "maddeBaslik": "Yürürlükten kaldırılan hükümler",
+      "sectionPath": [
+        "ONUNCU BÖLÜM · Yardımcı Siciller, Sicillerin Arşivlenmesi ve Çeşitli Hükümler",
+        "Yürürlükten kaldırılan hükümler"
+      ]
+    },
+    {
+      "id": "yonetmelik:20135150:m:gecici:1",
+      "maddeKind": "gecici",
+      "maddeNo": "1",
+      "heading": "Geçici Madde 1",
+      "text": "(1) Henüz kadastrosu yapılmamış yerlerde kütük yerine zabıt defteri veya kat mülkiyeti zabıt defteri tutulur. Taşınmazın sınırları hudut komşuları yazılarak gösterilir. Taşınmazın varsa resmî haritası veya planı dosyasında saklanır.",
+      "preview": "(1) Henüz kadastrosu yapılmamış yerlerde kütük yerine zabıt defteri veya kat mülkiyeti zabıt defteri tutulur. Taşınmazın sınırları hudut kom…",
+      "kitap": null,
+      "kisim": null,
+      "bolum": "ONUNCU BÖLÜM · Yardımcı Siciller, Sicillerin Arşivlenmesi ve Çeşitli Hükümler",
+      "ayirim": null,
+      "maddeBaslik": "Kadastrosu yapılmamış yerlerdeki taşınmazın tescili",
+      "sectionPath": [
+        "ONUNCU BÖLÜM · Yardımcı Siciller, Sicillerin Arşivlenmesi ve Çeşitli Hükümler",
+        "Kadastrosu yapılmamış yerlerdeki taşınmazın tescili"
+      ]
+    },
+    {
+      "id": "yonetmelik:20135150:m:gecici:2",
+      "maddeKind": "gecici",
+      "maddeNo": "2",
+      "heading": "Geçici Madde 2",
+      "text": "(1) Kadastrosu yapılmamış yerlerde, her işleme ait belgeler, o işlem için ayrı bir dosya içinde üzeri tarih, sıra ve yevmiye numarası yazılarak saklanır. İşlemlere ait dosyalar ayrıca aylık olarak arşivlenir.",
+      "preview": "(1) Kadastrosu yapılmamış yerlerde, her işleme ait belgeler, o işlem için ayrı bir dosya içinde üzeri tarih, sıra ve yevmiye numarası yazıla…",
+      "kitap": null,
+      "kisim": null,
+      "bolum": "ONUNCU BÖLÜM · Yardımcı Siciller, Sicillerin Arşivlenmesi ve Çeşitli Hükümler",
+      "ayirim": null,
+      "maddeBaslik": "Kadastrosu yapılmamış yerlerde arşiv",
+      "sectionPath": [
+        "ONUNCU BÖLÜM · Yardımcı Siciller, Sicillerin Arşivlenmesi ve Çeşitli Hükümler",
+        "Kadastrosu yapılmamış yerlerde arşiv"
+      ]
+    },
+    {
+      "id": "yonetmelik:20135150:m:91",
+      "maddeKind": "madde",
+      "maddeNo": "91",
+      "heading": "Madde 91",
+      "text": "(1) Danıştayca incelenmiş olan bu Tüzük yayımı tarihinde yürürlüğe girer.",
+      "preview": "(1) Danıştayca incelenmiş olan bu Tüzük yayımı tarihinde yürürlüğe girer.",
+      "kitap": null,
+      "kisim": null,
+      "bolum": "ONUNCU BÖLÜM · Yardımcı Siciller, Sicillerin Arşivlenmesi ve Çeşitli Hükümler",
+      "ayirim": null,
+      "maddeBaslik": "Yürürlük",
+      "sectionPath": [
+        "ONUNCU BÖLÜM · Yardımcı Siciller, Sicillerin Arşivlenmesi ve Çeşitli Hükümler",
+        "Yürürlük"
+      ]
+    },
+    {
+      "id": "yonetmelik:20135150:m:92",
+      "maddeKind": "madde",
+      "maddeNo": "92",
+      "heading": "Madde 92",
+      "text": "(1) Bu Tüzük hükümlerini Bakanlar Kurulu yürütür.\n\n [1] Bu fıkra, Danıştay Onuncu Dairesinin 18/3/2016 tarihli ve E.: 2013/7077, K.: 2016/1514 sayılı Kararı ile iptal edilmiştir.\n\n [2] Bu fıkra, Danıştay Onuncu Dairesinin 18/3/2016 tarihli ve E.: 2013/7878, K.: 2016/1515 sayılı Kararı ile iptal edilmiştir.\n\n [3] Bu fıkra, Danıştay Onuncu Dairesinin 18/3/2016 tarihli ve E.: 2013/6872, K.: 2016/1511 sayılı Kararı ile iptal edilmiştir.\n\n [4] Bu fıkra, Danıştay Onuncu Dairesinin 18/3/2016 tarihli ve E.: 2013/6805, K.: 2016/1513 sayılı Kararı ile iptal edilmiştir.\n\n [5] Bu fıkra, Danıştay Onuncu Dairesinin 18/3/2016 tarihli ve E.: 2013/6066, K.: 2016/1512 sayılı Kararı ile iptal edilmiştir.",
+      "preview": "(1) Bu Tüzük hükümlerini Bakanlar Kurulu yürütür. [1] Bu fıkra, Danıştay Onuncu Dairesinin 18/3/2016 tarihli ve E.: 2013/7077, K.: 2016/1514…",
+      "kitap": null,
+      "kisim": null,
+      "bolum": "ONUNCU BÖLÜM · Yardımcı Siciller, Sicillerin Arşivlenmesi ve Çeşitli Hükümler",
+      "ayirim": null,
+      "maddeBaslik": "Yürütme",
+      "sectionPath": [
+        "ONUNCU BÖLÜM · Yardımcı Siciller, Sicillerin Arşivlenmesi ve Çeşitli Hükümler",
+        "Yürütme"
+      ]
+    }
+  ]
+}

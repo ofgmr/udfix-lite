@@ -17,6 +17,8 @@ export function useUdfixEditorTypographyDefaults(editor: Editor | null): void {
             if (cancelled || editor.isDestroyed || typographyDefaultsRef.current) return;
             const row = useEditorStyleStore.getState().defaults;
             if (!row?.payload) return;
+            if (row.applyOnOpen === false) return;
+            if (editor.getText().trim() !== '') return;
             const p = row.payload;
             const hasAny = Object.values(p).some((v) => v != null && String(v).trim() !== '');
             if (!hasAny) return;

@@ -127,7 +127,7 @@ const RightActivityBar: React.FC = () => {
                                     <TooltipContent
                                         side="left"
                                         className={cn(
-                                            'text-[11px] font-medium mr-2 glass-tooltip border-white/10',
+                                            'text-[11px] font-medium mr-2 glass-tooltip border-border',
                                             showGuidance && 'hidden',
                                         )}
                                     >
@@ -141,10 +141,10 @@ const RightActivityBar: React.FC = () => {
                                     variant="glass"
                                     className={
                                         item.id === 'calendar'
-                                            ? 'w-[320px] max-h-[min(70vh,560px)] overflow-y-auto overflow-x-hidden rounded-xl border-white/10 p-3 shadow-2xl'
+                                            ? 'w-[320px] max-h-[min(70vh,560px)] overflow-y-auto overflow-x-hidden rounded-xl border-border p-3 shadow-2xl'
                                             : item.id === 'mevzuat'
-                                              ? 'w-[380px] max-h-[min(70vh,560px)] overflow-y-auto overflow-x-hidden rounded-xl border-white/10 p-3 shadow-2xl'
-                                              : 'w-[300px] max-h-[min(70vh,520px)] overflow-y-auto overflow-x-hidden rounded-xl border-white/10 p-3 shadow-2xl'
+                                              ? 'w-[380px] max-h-[min(70vh,560px)] overflow-y-auto overflow-x-hidden rounded-xl border-border p-3 shadow-2xl'
+                                              : 'w-[300px] max-h-[min(70vh,520px)] overflow-y-auto overflow-x-hidden rounded-xl border-border p-3 shadow-2xl'
                                     }
                                     onOpenAutoFocus={(event) => event.preventDefault()}
                                 >

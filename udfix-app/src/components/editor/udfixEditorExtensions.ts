@@ -52,6 +52,7 @@ import { compileHfHtml } from '../../utils/compileHfHtml'
 import { UdfixTable } from '@/extensions/UdfixTable'
 import { VariableSlot } from '../../extensions/VariableSlot'
 import { useHeaderFooterStore } from '../../stores/useHeaderFooterStore'
+import { readDocumentHfFromLocalStorage } from '../../utils/documentHfPersistence'
 import Bold from '@tiptap/extension-bold'
 import Italic from '@tiptap/extension-italic'
 import Strike from '@tiptap/extension-strike'
@@ -107,13 +108,17 @@ export const UdfixMention = Mention.extend({
 });
 
 function getInitialHfState(documentId: string): unknown {
-    try {
-        const raw = localStorage.getItem(`nomai-hf-${documentId}`);
-        if (raw) return JSON.parse(raw);
-    } catch {
-        return null;
+    const store = useHeaderFooterStore.getState();
+    if (store.currentDocumentId === documentId) {
+        return {
+            differentFirstPage: store.differentFirstPage,
+            differentLastPage: store.differentLastPage,
+            differentOddEvenPages: store.differentOddEvenPages,
+            sections: store.sections,
+            settings: store.settings,
+        };
     }
-    return null;
+    return readDocumentHfFromLocalStorage(documentId);
 }
 
 /**

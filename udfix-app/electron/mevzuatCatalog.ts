@@ -2,9 +2,9 @@ export type MevzuatCatalogEntry = {
     no: string;
     title: string;
     abbrev: string[];
+    turCandidates?: number[];
 };
 
-/** Core kanunlar for the bundled madde corpus (mevzuat.gov.tr, MevzuatTur=1). */
 export const MEVZUAT_CATALOG: MevzuatCatalogEntry[] = [
     { no: '2709', title: 'Türkiye Cumhuriyeti Anayasası', abbrev: ['Anayasa', 'AY'] },
     { no: '1136', title: 'Avukatlık Kanunu', abbrev: ['AvK'] },
@@ -25,6 +25,11 @@ export const MEVZUAT_CATALOG: MevzuatCatalogEntry[] = [
     { no: '6098', title: 'Türk Borçlar Kanunu', abbrev: ['TBK'] },
     { no: '6102', title: 'Türk Ticaret Kanunu', abbrev: ['TTK'] },
     { no: '6502', title: 'Tüketicinin Korunması Hakkında Kanun', abbrev: ['TKHK'] },
+    {
+        no: '7155',
+        title: 'Abonelik Sözleşmesinden Kaynaklanan Para Alacaklarına İlişkin Takibin Başlatılması Usulü Hakkında Kanun',
+        abbrev: ['MTS Kanunu'],
+    },
     { no: '5941', title: 'Çek Kanunu', abbrev: [] },
     { no: '2920', title: 'Türk Sivil Havacılık Kanunu', abbrev: [] },
     { no: '6362', title: 'Sermaye Piyasası Kanunu', abbrev: ['SPK'] },
@@ -35,11 +40,22 @@ export const MEVZUAT_CATALOG: MevzuatCatalogEntry[] = [
         title: 'Sosyal Sigortalar ve Genel Sağlık Sigortası Kanunu',
         abbrev: ['SSGSSK'],
     },
+    { no: '4447', title: 'İşsizlik Sigortası Kanunu', abbrev: [] },
     { no: '7036', title: 'İş Mahkemeleri Kanunu', abbrev: [] },
     { no: '6331', title: 'İş Sağlığı ve Güvenliği Kanunu', abbrev: ['İSGK'] },
     { no: '6356', title: 'Sendikalar ve Toplu İş Sözleşmesi Kanunu', abbrev: [] },
     { no: '5237', title: 'Türk Ceza Kanunu', abbrev: ['TCK'] },
     { no: '5271', title: 'Ceza Muhakemesi Kanunu', abbrev: ['CMK'] },
+    {
+        no: '5235',
+        title: 'Adlî Yargı İlk Derece Mahkemeleri ile Bölge Adliye Mahkemelerinin Kuruluş, Görev ve Yetkileri Hakkında Kanun',
+        abbrev: [],
+    },
+    {
+        no: '5402',
+        title: 'Denetimli Serbestlik ve Yardım Merkezleri ile Koruma Kurulları Kanunu',
+        abbrev: ['Denetimli Serbestlik Kanunu'],
+    },
     { no: '5275', title: 'Ceza ve Güvenlik Tedbirlerinin İnfazı Hakkında Kanun', abbrev: ['CGTİHK'] },
     { no: '5326', title: 'Kabahatler Kanunu', abbrev: [] },
     { no: '5395', title: 'Çocuk Koruma Kanunu', abbrev: ['ÇKK'] },
@@ -58,11 +74,18 @@ export const MEVZUAT_CATALOG: MevzuatCatalogEntry[] = [
     },
     { no: '2644', title: 'Tapu Kanunu', abbrev: [] },
     { no: '2942', title: 'Kamulaştırma Kanunu', abbrev: [] },
+    { no: '4342', title: 'Mera Kanunu', abbrev: [] },
+    { no: '2985', title: 'Toplu Konut Kanunu', abbrev: [] },
     { no: '3402', title: 'Kadastro Kanunu', abbrev: [] },
     { no: '2872', title: 'Çevre Kanunu', abbrev: [] },
     { no: '6100', title: 'Hukuk Muhakemeleri Kanunu', abbrev: ['HMK'] },
     { no: '2004', title: 'İcra ve İflas Kanunu', abbrev: ['İİK'] },
     { no: '2577', title: 'İdari Yargılama Usulü Kanunu', abbrev: ['İYUK'] },
+    {
+        no: '2576',
+        title: 'Bölge İdare Mahkemeleri, İdare Mahkemeleri ve Vergi Mahkemelerinin Kuruluşu ve Görevleri Hakkında Kanun',
+        abbrev: [],
+    },
     { no: '6325', title: 'Hukuk Uyuşmazlıklarında Arabuluculuk Kanunu', abbrev: ['HUAK'] },
     { no: '2918', title: 'Karayolları Trafik Kanunu', abbrev: ['KTK'] },
     { no: '1593', title: 'Umumi Hıfzıssıhha Kanunu', abbrev: [] },
@@ -70,6 +93,8 @@ export const MEVZUAT_CATALOG: MevzuatCatalogEntry[] = [
     { no: '6183', title: 'Amme Alacaklarının Tahsil Usulü Hakkında Kanun', abbrev: ['AATUHK'] },
     { no: '213', title: 'Vergi Usul Kanunu', abbrev: ['VUK'] },
     { no: '4734', title: 'Kamu İhale Kanunu', abbrev: ['KİK'] },
+    { no: '5018', title: 'Kamu Malî Yönetimi ve Kontrol Kanunu', abbrev: [] },
+    { no: '2464', title: 'Belediye Gelirleri Kanunu', abbrev: [] },
     { no: '5393', title: 'Belediye Kanunu', abbrev: [] },
     { no: '492', title: 'Harçlar Kanunu', abbrev: [] },
     { no: '5846', title: 'Fikir ve Sanat Eserleri Kanunu', abbrev: ['FSEK'] },
@@ -84,6 +109,12 @@ export const MEVZUAT_CATALOG: MevzuatCatalogEntry[] = [
     { no: '2575', title: 'Danıştay Kanunu', abbrev: [] },
     { no: '2802', title: 'Hakimler ve Savcılar Kanunu', abbrev: ['HSK'] },
     { no: '5411', title: 'Bankacılık Kanunu', abbrev: [] },
+    { no: '5464', title: 'Banka Kartları ve Kredi Kartları Kanunu', abbrev: [] },
+    {
+        no: '6493',
+        title: 'Ödeme ve Menkul Kıymet Mutabakat Sistemleri, Ödeme Hizmetleri ve Elektronik Para Kuruluşları Hakkında Kanun',
+        abbrev: [],
+    },
     { no: '4054', title: 'Rekabetin Korunması Hakkında Kanun', abbrev: [] },
     { no: '5684', title: 'Sigortacılık Kanunu', abbrev: [] },
     {
@@ -151,12 +182,59 @@ export const MEVZUAT_CATALOG: MevzuatCatalogEntry[] = [
     { no: '5188', title: 'Özel Güvenlik Hizmetlerine Dair Kanun', abbrev: [] },
     { no: '5543', title: 'İskân Kanunu', abbrev: [] },
     { no: '7269', title: 'Umumi Hayata Müessir Afetler Dolayısiyle Alınacak Tedbirlerle Yapılacak Yardımlara Dair Kanun', abbrev: [] },
+    { no: '5302', title: 'İl Özel İdaresi Kanunu', abbrev: [] },
+    { no: '2911', title: 'Toplantı ve Gösteri Yürüyüşleri Kanunu', abbrev: [] },
+    {
+        no: '2548',
+        title: 'Ceza Evleri ile Mahkeme Binaları İnşası Karşılığı Olarak Alınacak Harçlar ve Mahkûmlara Ödettirilecek Yiyecek Bedelleri Hakkında Kanun',
+        abbrev: [],
+    },
+    { no: '5996', title: 'Veteriner Hizmetleri, Bitki Sağlığı, Gıda ve Yem Kanunu', abbrev: [] },
+    { no: '5488', title: 'Tarım Kanunu', abbrev: [] },
+    { no: '1380', title: 'Su Ürünleri Kanunu', abbrev: [] },
+    { no: '4915', title: 'Kara Avcılığı Kanunu', abbrev: [] },
+    {
+        no: '7464',
+        title: 'Konutların Turizm Amaçlı Kiralanması Hakkında Kanun',
+        abbrev: ['Turizm Kiralaması Kanunu'],
+    },
+    { no: '1618', title: 'Seyahat Acentaları ve Seyahat Acentaları Birliği Kanunu', abbrev: [] },
+    { no: '6326', title: 'Turist Rehberliği Meslek Kanunu', abbrev: [] },
+    { no: '1163', title: 'Kooperatifler Kanunu', abbrev: [] },
+    {
+        no: '5174',
+        title: 'Türkiye Odalar ve Borsalar Birliği ile Odalar ve Borsalar Kanunu',
+        abbrev: ['TOBB Kanunu'],
+    },
+    {
+        no: '5957',
+        title: 'Sebze ve Meyve Ticareti ve Toptancı Halleri Hakkında Kanun',
+        abbrev: ['Hal Kanunu'],
+    },
+    { no: '7223', title: 'Ürün Güvenliği ve Teknik Düzenlemeler Kanunu', abbrev: [] },
+    {
+        no: '1567',
+        title: 'Türk Parasının Kıymetini Koruma Hakkında Kanun',
+        abbrev: ['TPKK'],
+    },
+    { no: '1262', title: 'İspençiyari ve Tıbbi Müstahzarlar Kanunu', abbrev: [] },
+    { no: '4646', title: 'Doğal Gaz Piyasası Kanunu', abbrev: [] },
+    { no: '5809', title: 'Elektronik Haberleşme Kanunu', abbrev: [] },
+    {
+        no: '663',
+        title: 'Sağlık Bakanlığı ve Bağlı Kuruluşlarının Teşkilat ve Görevleri Hakkında Kanun Hükmünde Kararname',
+        abbrev: ['KHK 663'],
+        turCandidates: [4],
+    },
+    {
+        no: '1',
+        title: 'Cumhurbaşkanlığı Teşkilatı Hakkında Cumhurbaşkanlığı Kararnamesi',
+        abbrev: ['CBK 1', '1 sayılı CBK'],
+        turCandidates: [19],
+    },
 ];
 
-/**
- * Lawyer shorthand for instrument search. Keys are official MevzuatNo from
- * `MEVZUAT_CATALOG` — do not invent numbers.
- */
+
 export const MEVZUAT_SEARCH_ALIASES: Readonly<Record<string, readonly string[]>> = {
     '6098': ['borçlar', 'borçlar kanunu', 'türk borçlar', 'türk borçlar kanunu'],
     '4721': ['medeni', 'medeni kanun', 'türk medeni', 'türk medeni kanunu'],
@@ -172,6 +250,31 @@ export const MEVZUAT_SEARCH_ALIASES: Readonly<Record<string, readonly string[]>>
     '7201': ['tebligat', 'tebligat kanunu'],
     '4857': ['iş kanunu', 'is kanunu'],
     '5326': ['kabahatler', 'kabahatler kanunu'],
+    '4447': ['işsizlik sigortası', 'işsizlik sigortası kanunu'],
+    '5464': ['kredi kartı', 'banka kartları', 'kredi kartları kanunu', 'banka kartları kanunu'],
+    '6493': ['ödeme sistemleri', 'elektronik para', 'ödeme hizmetleri'],
+    '4342': ['mera', 'mera kanunu'],
+    '2985': ['toplu konut', 'toki', 'toplu konut kanunu'],
+    '2576': ['idare mahkemeleri', 'vergi mahkemeleri kuruluş', 'bölge idare mahkemeleri'],
+    '5018': ['kamu mali yönetimi', 'kamu mali yönetimi ve kontrol'],
+    '2464': ['belediye gelirleri', 'belediye gelirleri kanunu'],
+    '5235': ['adli yargı kuruluş', 'bölge adliye mahkemeleri kuruluş'],
+    '5402': ['denetimli serbestlik', 'denetimli serbestlik kanunu'],
+    '7155': ['merkezi takip', 'mts', 'abonelik takip', 'e-takip'],
+    '2911': ['toplantı ve gösteri', 'gösteri yürüyüşleri'],
+    '5302': ['il özel idaresi', 'il özel idaresi kanunu'],
+    '5996': ['gıda ve yem', 'veteriner hizmetleri', 'tağşiş'],
+    '7464': ['turizm amaçlı kiralama', 'airbnb', 'kısa dönem kiralama'],
+    '6326': ['turist rehberliği', 'turist rehberliği meslek kanunu'],
+    '1163': ['kooperatifler', 'kooperatifler kanunu'],
+    '5174': ['tobb', 'odalar ve borsalar'],
+    '5957': ['hal kanunu', 'sebze ve meyve ticareti', 'toptancı halleri'],
+    '7223': ['ürün güvenliği', 'teknik düzenlemeler'],
+    '1567': ['kambiyo', 'türk parasının kıymetini koruma', 'tpkk'],
+    '5809': ['elektronik haberleşme', 'btk'],
+    '4646': ['doğal gaz piyasası', 'doğalgaz'],
+    '663': ['sağlık bakanlığı teşkilat', 'khk 663'],
+    '1': ['cumhurbaşkanlığı kararnamesi', 'cbk 1', '1 sayılı kararname'],
 };
 
 export function catalogSearchAliases(no: string): readonly string[] {
@@ -179,13 +282,14 @@ export function catalogSearchAliases(no: string): readonly string[] {
 }
 
 export type MevzuatYonetmelikCatalogEntry = MevzuatCatalogEntry & {
-    /** Official MevzuatTur values to probe (4 = Yönetmelik, 7 = Kurum ve Kuruluş Yönetmeliği). */
+    /** Official MevzuatTur values to probe (4 = Yönetmelik/KHK, 7 = Kurum Yönetmeliği, 9 = Tebliğ, 19 = CBK, 21 = CB Yönetmeliği, 2 = Tüzük). */
     turCandidates: number[];
 };
 
 /**
- * Focused lawyer-relevant yönetmelikler. Numbers come from mevzuat.gov.tr iframe URLs
- * (not invented). Generate skips any that do not resolve.
+ * Focused lawyer-relevant yönetmelikler / tüzük / tebliğ. Numbers come from
+ * mevzuat.gov.tr iframe URLs (not invented). Generate skips any that do not resolve.
+ * Tur: 7 then 4 for kurum/bakanlık yönetmeliği; 21 CB yönetmeliği; 9 tebliğ/tarife; 2 tüzük.
  */
 export const YONETMELIK_CATALOG: MevzuatYonetmelikCatalogEntry[] = [
     {
@@ -242,6 +346,252 @@ export const YONETMELIK_CATALOG: MevzuatYonetmelikCatalogEntry[] = [
         abbrev: ['ArabuluculukYön', 'HUAKYön'],
         turCandidates: [7, 4],
     },
+    {
+        no: '12459',
+        title: 'Alt İşverenlik Yönetmeliği',
+        abbrev: ['AltİşverenYön'],
+        turCandidates: [7, 4],
+    },
+    {
+        no: '5451',
+        title: 'Yıllık Ücretli İzin Yönetmeliği',
+        abbrev: ['İzinYön'],
+        turCandidates: [7, 4],
+    },
+    {
+        no: '5447',
+        title: 'İş Kanununa İlişkin Çalışma Süreleri Yönetmeliği',
+        abbrev: ['ÇalışmaSüreleriYön'],
+        turCandidates: [7, 4],
+    },
+    {
+        no: '31556',
+        title: 'Abonelik Sözleşmesinden Kaynaklanan Para Alacaklarına İlişkin Takibin Başlatılması Usulü Hakkında Yönetmelik',
+        abbrev: ['MTSYön', 'E-Takip Yönetmeliği'],
+        turCandidates: [7, 4],
+    },
+    {
+        no: '23722',
+        title: 'Planlı Alanlar İmar Yönetmeliği',
+        abbrev: ['İmarYön'],
+        turCandidates: [7, 4],
+    },
+    {
+        no: '20135150',
+        title: 'Tapu Sicili Tüzüğü',
+        abbrev: ['TapuTüz'],
+        turCandidates: [2],
+    },
+    {
+        no: '3935',
+        title: 'Devlet Memurları Disiplin Yönetmeliği',
+        abbrev: ['DisiplinYön'],
+        turCandidates: [21, 7, 4],
+    },
+    {
+        no: '8197',
+        title: 'Yakalama, Gözaltına Alma ve İfade Alma Yönetmeliği',
+        abbrev: ['YakalamaYön'],
+        turCandidates: [7, 4],
+    },
+    {
+        no: '8203',
+        title: 'Adlî ve Önleme Aramaları Yönetmeliği',
+        abbrev: ['AramaYön'],
+        turCandidates: [7, 4],
+    },
+    {
+        no: '24038',
+        title: 'Kişisel Verilerin Silinmesi, Yok Edilmesi veya Anonim Hale Getirilmesi Hakkında Yönetmelik',
+        abbrev: ['KVKKSilmeYön'],
+        turCandidates: [7, 4],
+    },
+    {
+        no: '2324',
+        title: 'Ceza İnfaz Kurumlarının Yönetimi ile Ceza ve Güvenlik Tedbirlerinin İnfazı Hakkında Yönetmelik',
+        abbrev: ['İnfazYön'],
+        turCandidates: [21, 7, 4],
+    },
+    {
+        no: '41015',
+        title: 'Avukatlık Asgari Ücret Tarifesi',
+        abbrev: ['AAÜT'],
+        turCandidates: [9, 7, 4],
+    },
+    {
+        no: '20059207',
+        title: 'İşyeri Açma ve Çalışma Ruhsatlarına İlişkin Yönetmelik',
+        abbrev: ['İşyeri Ruhsat Yön.'],
+        turCandidates: [21, 7, 4],
+    },
+    {
+        no: '39647',
+        title: 'Çevresel Etki Değerlendirmesi Yönetmeliği',
+        abbrev: ['ÇED Yön.'],
+        turCandidates: [7, 4],
+    },
+    {
+        no: '11951',
+        title: 'Yapı Denetimi Uygulama Yönetmeliği',
+        abbrev: ['Yapı Denetim Yön.'],
+        turCandidates: [7, 4],
+    },
+    {
+        no: '31300',
+        title: 'Şantiye Şefleri Hakkında Yönetmelik',
+        abbrev: ['Şantiye Şefi Yön.'],
+        turCandidates: [7, 4],
+    },
+    {
+        no: '39077',
+        title: 'Orman Kanununun 17 nci Maddesinin Üçüncü Fıkrasının Uygulanması Hakkında Yönetmelik',
+        abbrev: ['Orman 17/3 Yön.'],
+        turCandidates: [7, 4],
+    },
+    {
+        no: '15592',
+        title: 'Gıda Hijyeni Yönetmeliği',
+        abbrev: ['Gıda Hijyeni Yön.'],
+        turCandidates: [7, 4],
+    },
+    {
+        no: '31251',
+        title: 'Arazi Toplulaştırması ve Tarla İçi Geliştirme Hizmetleri Uygulama Yönetmeliği',
+        abbrev: ['Toplulaştırma Yön.'],
+        turCandidates: [7, 4],
+    },
+    {
+        no: '1134',
+        title: 'Turizm Tesislerinin Belgelendirilmesine ve Niteliklerine İlişkin Yönetmelik',
+        abbrev: ['Turizm Tesis Yön.'],
+        turCandidates: [21, 7, 4],
+    },
+    {
+        no: '9171',
+        title: 'Koruma Amaçlı İmar Planları ve Çevre Düzenleme Projelerinin Hazırlanması, Gösterimi, Uygulaması, Denetimi ve Müelliflerine İlişkin Usul ve Esaslara Ait Yönetmelik',
+        abbrev: ['Koruma Amaçlı İmar Yön.'],
+        turCandidates: [7, 4],
+    },
+    {
+        no: '11648',
+        title: 'Seyahat Acentaları Yönetmeliği',
+        abbrev: ['Seyahat Acentası Yön.'],
+        turCandidates: [7, 4],
+    },
+    {
+        no: '20124093',
+        title: 'Ticaret Sicili Yönetmeliği',
+        abbrev: ['Ticaret Sicili Yön.'],
+        turCandidates: [21, 7, 4],
+    },
+    {
+        no: '19819',
+        title: 'Fiyat Etiketi Yönetmeliği',
+        abbrev: ['Etiket Yön.'],
+        turCandidates: [7, 4],
+    },
+    {
+        no: '20237',
+        title: 'Mesafeli Sözleşmeler Yönetmeliği',
+        abbrev: ['Mesafeli Sözleşme Yön.'],
+        turCandidates: [7, 4],
+    },
+    {
+        no: '40940',
+        title: 'Motorlu Kara Taşıtlarının Ticareti Hakkında Yönetmelik',
+        abbrev: ['İkinci El Taşıt Yön.'],
+        turCandidates: [7, 4],
+    },
+    {
+        no: '24645',
+        title: 'Taşınmaz Ticareti Hakkında Yönetmelik',
+        abbrev: ['Emlak Ticareti Yön.'],
+        turCandidates: [7, 4],
+    },
+    {
+        no: '16924',
+        title: 'İş Sağlığı ve Güvenliği Hizmetleri Yönetmeliği',
+        abbrev: ['İSG Hizmetleri Yön.'],
+        turCandidates: [7, 4],
+    },
+    {
+        no: '15452',
+        title: 'Vergi İncelemelerinde Uyulacak Usul ve Esaslar Hakkında Yönetmelik',
+        abbrev: ['Vergi İnceleme Yön.'],
+        turCandidates: [7, 4],
+    },
+    {
+        no: '12916',
+        title: 'Yapım İşleri İhaleleri Uygulama Yönetmeliği',
+        abbrev: ['Yapım İhale Yön.'],
+        turCandidates: [7, 4],
+    },
+    {
+        no: '200713012',
+        title: 'Suç Gelirlerinin Aklanmasının ve Terörün Finansmanının Önlenmesine Dair Tedbirler Hakkında Yönetmelik',
+        abbrev: ['MASAK Tedbirler Yön.'],
+        turCandidates: [21, 7, 4],
+    },
+    {
+        no: '4847',
+        title: 'Hasta Hakları Yönetmeliği',
+        abbrev: ['Hasta Hakları Yön.'],
+        turCandidates: [7, 4],
+    },
+    {
+        no: '41265',
+        title: 'Özel Hastaneler Yönetmeliği',
+        abbrev: ['Özel Hastane Yön.'],
+        turCandidates: [7, 4],
+    },
+    {
+        no: '42369',
+        title: 'Ayakta Teşhis ve Tedavi Yapılan Özel Sağlık Kuruluşları Hakkında Yönetmelik',
+        abbrev: ['Ayakta Teşhis Yön.'],
+        turCandidates: [7, 4],
+    },
+    {
+        no: '38657',
+        title: 'Tıbbi Cihaz Yönetmeliği',
+        abbrev: ['Tıbbi Cihaz Yön.'],
+        turCandidates: [7, 4],
+    },
+    {
+        no: '24299',
+        title: 'Karayolu Taşıma Yönetmeliği',
+        abbrev: ['K1/K2 Yön.'],
+        turCandidates: [7, 4],
+    },
+    {
+        no: '31502',
+        title: 'Elektrik Piyasasında Lisanssız Elektrik Üretim Yönetmeliği',
+        abbrev: ['Lisanssız Üretim Yön.'],
+        turCandidates: [7, 4],
+    },
+    {
+        no: '5454',
+        title: 'Asgari Ücret Yönetmeliği',
+        abbrev: ['Asgari Ücret Yön.'],
+        turCandidates: [7, 4],
+    },
+    {
+        no: '13354',
+        title: 'Kamu İhale Genel Tebliği',
+        abbrev: ['KİK Genel Tebliği'],
+        turCandidates: [9, 7, 4],
+    },
+    {
+        no: '39873',
+        title: 'Maden Yönetmeliği',
+        abbrev: ['Maden Yön.'],
+        turCandidates: [7, 4],
+    },
+    {
+        no: '15958',
+        title: 'Korunması Gerekli Taşınmaz Kültür Varlıklarının ve Sitlerin Tespit ve Tescili Hakkında Yönetmelik',
+        abbrev: ['Kültür Varlığı Tescil Yön.'],
+        turCandidates: [7, 4],
+    },
 ];
 
 export type BundledMevzuatCatalogEntry = {
@@ -258,7 +608,7 @@ export function bundledMevzuatCatalog(): BundledMevzuatCatalogEntry[] {
         no: row.no,
         title: row.title,
         abbrev: row.abbrev,
-        turCandidates: [1],
+        turCandidates: row.turCandidates ?? [1],
     }));
     const yonetmelik: BundledMevzuatCatalogEntry[] = YONETMELIK_CATALOG.map((row) => ({
         kind: 'yonetmelik',

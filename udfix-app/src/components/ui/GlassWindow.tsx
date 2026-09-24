@@ -24,7 +24,7 @@ const GlassWindow: React.FC<GlassWindowProps> = ({
         <div className={cn("glass overflow-hidden flex flex-col", className)}>
             {/* Translucent Drag Header */}
             <div className={cn(
-                "h-10 shrink-0 flex items-center justify-between px-4 border-b border-white/10 select-none",
+                "h-10 shrink-0 flex items-center justify-between px-4 border-b border-border select-none",
                 headerClassName
             )}>
                 {/* Traffic Lights (Window Controls) */}
@@ -49,7 +49,7 @@ const GlassWindow: React.FC<GlassWindowProps> = ({
                 </div>
 
                 {/* Window Title */}
-                <span className="text-gray-300 text-sm font-medium tracking-wide">
+                <span className="text-foreground/80 text-sm font-medium tracking-wide">
                     {title}
                 </span>
 

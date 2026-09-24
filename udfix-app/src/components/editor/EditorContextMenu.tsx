@@ -4,15 +4,24 @@ import { TextSelection } from '@tiptap/pm/state';
 import { createPortal } from 'react-dom';
 import MaterialIcon from '../../components/ui/MaterialIcon';
 import { cn } from '../../lib/utils';
-import { useLayoutStore } from '../../stores/useLayoutStore';
-import { useDocumentCommentsStore } from '../../stores/useDocumentCommentsStore';
-import { selectAndScrollToComment } from '../../utils/commentUtils';
-import { pasteMarkdownFromClipboard, pastePlainMatchingDestination } from '../../utils/editorPaste';
+import { startCommentDraftOnSelection } from '../../utils/startCommentDraft';
+import {
+    copyEditorRange,
+    copyEditorRangeAsMarkdown,
+    cutEditorRange,
+    pasteMarkdownFromClipboard,
+    pastePlainMatchingDestination,
+} from '../../utils/editorPaste';
 import {
     isTableBubbleMenuEnabled,
     setTableBubbleMenuEnabled,
     subscribeToTableBubbleMenuEnabled,
 } from './tableBubbleMenuPreference';
+import {
+    isFloatingFormatMenuEnabled,
+    setFloatingFormatMenuEnabled,
+    subscribeToFloatingFormatMenuEnabled,
+} from './floatingFormatMenuPreference';
 import { pushEditorPreferenceToggle } from '../../preferences/pushEditorPreferences';
 
 function isMacLikePlatform(): boolean {
@@ -42,13 +51,27 @@ const EditorContextMenu: React.FC<ContextMenuProps> = ({
     const [hasSelection, setHasSelection] = useState(false);
     const [isInList, setIsInList] = useState(false);
     const [isInTable, setIsInTable] = useState(false);
+    const [clipboardRange, setClipboardRange] = useState<{ from: number; to: number } | null>(null);
     const [isTableBubbleEnabled, setIsTableBubbleEnabled] = useState(isTableBubbleMenuEnabled);
+    const [isFormatMenuEnabled, setIsFormatMenuEnabled] = useState(isFloatingFormatMenuEnabled);
     const [showStyleSubmenu, setShowStyleSubmenu] = useState(false);
 
     useEffect(() => subscribeToTableBubbleMenuEnabled(setIsTableBubbleEnabled), []);
+    useEffect(() => subscribeToFloatingFormatMenuEnabled(setIsFormatMenuEnabled), []);
 
     useEffect(() => {
         if (!editor) return;
+
+        const handleMouseDown = (event: MouseEvent) => {
+            if (event.button !== 2) return;
+            const { selection } = editor.state;
+            if (selection.empty) return;
+            const hit = editor.view.posAtCoords({ left: event.clientX, top: event.clientY });
+            if (!hit) return;
+            if (hit.pos >= selection.from && hit.pos <= selection.to) {
+                event.preventDefault();
+            }
+        };
 
         const handleContextMenu = (event: MouseEvent) => {
             // Check if the click is within the editor
@@ -68,14 +91,16 @@ const EditorContextMenu: React.FC<ContextMenuProps> = ({
             }
 
             // Check if there's a text selection
-            const { empty } = editor.state.selection;
+            const { from, to, empty } = editor.state.selection;
             setHasSelection(!empty);
+            setClipboardRange(empty ? null : { from, to });
 
             // Check conditions
             const targetElement = event.target instanceof Element ? event.target : null;
             setIsInList(editor.isActive('orderedList'));
             setIsInTable(editor.isActive('table') || Boolean(targetElement?.closest('table')));
             setIsTableBubbleEnabled(isTableBubbleMenuEnabled());
+            setIsFormatMenuEnabled(isFloatingFormatMenuEnabled());
             setShowStyleSubmenu(false);
 
             event.preventDefault();
@@ -93,11 +118,13 @@ const EditorContextMenu: React.FC<ContextMenuProps> = ({
             setShowStyleSubmenu(false);
         };
 
+        editor.view.dom.addEventListener('mousedown', handleMouseDown, true);
         document.addEventListener('contextmenu', handleContextMenu);
         document.addEventListener('click', handleClick);
         document.addEventListener('scroll', handleScroll, true);
 
         return () => {
+            editor.view.dom.removeEventListener('mousedown', handleMouseDown, true);
             document.removeEventListener('contextmenu', handleContextMenu);
             document.removeEventListener('click', handleClick);
             document.removeEventListener('scroll', handleScroll, true);
@@ -108,25 +135,37 @@ const EditorContextMenu: React.FC<ContextMenuProps> = ({
 
     const handleAddComment = () => {
         if (!hasSelection) return;
-
-        const id = `comment-${Date.now()}-${Math.random().toString(36).substring(2, 9)}`;
-        editor.chain().focus().setComment(id).run();
-        const layout = useLayoutStore.getState();
-        const comments = useDocumentCommentsStore.getState();
-        comments.setDocumentId(layout.activeDocument);
-        comments.startDraft(id);
-        selectAndScrollToComment(editor, id);
-
+        startCommentDraftOnSelection(editor);
         setVisible(false);
     };
 
-    const handleCut = () => {
-        document.execCommand('cut');
+    const handleCut = async () => {
+        if (!clipboardRange) return;
+        try {
+            await cutEditorRange(editor, clipboardRange.from, clipboardRange.to);
+        } catch (e) {
+            console.error(e);
+        }
         setVisible(false);
     };
 
-    const handleCopy = () => {
-        document.execCommand('copy');
+    const handleCopy = async () => {
+        if (!clipboardRange) return;
+        try {
+            await copyEditorRange(editor, clipboardRange.from, clipboardRange.to);
+        } catch (e) {
+            console.error(e);
+        }
+        setVisible(false);
+    };
+
+    const handleCopyMarkdown = async () => {
+        if (!clipboardRange) return;
+        try {
+            await copyEditorRangeAsMarkdown(editor, clipboardRange.from, clipboardRange.to);
+        } catch (e) {
+            console.error(e);
+        }
         setVisible(false);
     };
 
@@ -179,6 +218,14 @@ const EditorContextMenu: React.FC<ContextMenuProps> = ({
         setVisible(false);
     };
 
+    const handleToggleFormatMenu = () => {
+        const next = !isFormatMenuEnabled;
+        setFloatingFormatMenuEnabled(next);
+        setIsFormatMenuEnabled(next);
+        void pushEditorPreferenceToggle({ floatingFormatMenuEnabled: next });
+        setVisible(false);
+    };
+
     // Build menu items
     const menuItems: Array<{
         icon: string;
@@ -189,15 +236,17 @@ const EditorContextMenu: React.FC<ContextMenuProps> = ({
         divider?: boolean;
         hasSubmenu?: boolean;
         tooltip?: string;
+        disabled?: boolean;
     }> = [];
 
-    // Standard items
+    const mod = isMacLikePlatform() ? '⌘' : 'Ctrl+';
+    menuItems.push(
+        { icon: 'content_cut', label: 'Kes', action: handleCut, shortcut: `${mod}X`, disabled: !hasSelection },
+        { icon: 'content_copy', label: 'Kopyala', action: handleCopy, shortcut: `${mod}C`, disabled: !hasSelection },
+        { icon: 'markdown', label: 'Markdown kopyala', action: handleCopyMarkdown, disabled: !hasSelection },
+    );
     if (hasSelection) {
-        menuItems.push(
-            { icon: 'content_cut', label: 'Kes', action: handleCut, shortcut: '⌘X' },
-            { icon: 'content_copy', label: 'Kopyala', action: handleCopy, shortcut: '⌘C' },
-            { icon: 'comment', label: 'Yorum Ekle', action: handleAddComment, highlight: true },
-        );
+        menuItems.push({ icon: 'comment', label: 'Yorum Ekle', action: handleAddComment, highlight: true });
     }
     const pasteMatchShortcut = isMacLikePlatform() ? '⌘⇧V' : 'Ctrl+Shift+V';
     menuItems.push({ icon: 'content_paste', label: 'Yapıştır', action: handlePaste, shortcut: isMacLikePlatform() ? '⌘V' : 'Ctrl+V' });
@@ -211,6 +260,13 @@ const EditorContextMenu: React.FC<ContextMenuProps> = ({
         label: 'Eşleştirerek yapıştır',
         action: handlePasteMatchStyle,
         shortcut: pasteMatchShortcut,
+    });
+    menuItems.push({
+        icon: isFormatMenuEnabled ? 'visibility_off' : 'visibility',
+        label: 'Biçimlendirme açılır menüsü',
+        action: handleToggleFormatMenu,
+        shortcut: isFormatMenuEnabled ? 'Açık' : 'Kapalı',
+        divider: true,
     });
 
     if (onSaveSelectionAsTemplate) {
@@ -308,10 +364,13 @@ const EditorContextMenu: React.FC<ContextMenuProps> = ({
                         <button
                             type="button"
                             role="menuitem"
+                            disabled={item.disabled}
+                            onMouseDown={(e) => e.preventDefault()}
                             onClick={item.action}
                             className={cn(
                                 "w-full flex items-center gap-3 px-4 py-2.5 text-sm transition-colors",
                                 "hover:bg-white/10 text-foreground/90 hover:text-foreground",
+                                "disabled:pointer-events-none disabled:opacity-40",
                                 item.highlight && "text-amber-400 hover:bg-amber-500/10",
                             )}
                         >

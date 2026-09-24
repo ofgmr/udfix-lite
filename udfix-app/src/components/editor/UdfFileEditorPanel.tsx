@@ -14,6 +14,9 @@ import {
 } from '../../utils/uyapVerification';
 import UyapVerificationBand from './UyapVerificationBand';
 import { UyapIO, buildUdfHfExportOptionsFromStore } from '../../utils/uyapIO';
+import { getPaginationMargins } from '../../utils/paginationMarginSync';
+import { buildPageFormatFromMargins } from '../../utils/uyapExportBuild';
+import { warnHfPageVariantsOmittedFromNonPdfExport } from '../../utils/hfPageVariantExportWarning';
 import { useHeaderFooterStore } from '../../stores/useHeaderFooterStore';
 import { FileSystemService } from '../../services/fileSystemService';
 import { DataService } from '../../services/dataService';
@@ -25,6 +28,8 @@ import { syncUdfSignatureMetadataFromEntries } from '../../utils/udfSignatureFro
 import { readUdfSignatureMetadata, type UdfSignatureMetadata } from '../../utils/udfSignatureState';
 import { isUyapDebugEnabled, uyapDebugLog } from '../../utils/uyapDebug';
 import { toast, toastUyapSigningError } from '../../lib/glass-utils';
+import { matchesCombo } from '../../shortcuts/match';
+import { getRegistryEntry } from '../../shortcuts/registry';
 import { mapUyapSigningErrorMessage } from '../../utils/udfSignatureState';
 import { formatSaveErrorMessage } from '../../utils/saveErrorMessage';
 import { settleUdfSave, settleUdfSaveAs } from '../../utils/udfSaveBus';
@@ -55,6 +60,7 @@ const UdfFileEditorPanel: React.FC<UdfFileEditorPanelProps> = ({ filePath, fileN
     const [error, setError] = React.useState<string | null>(null);
     const [isSaving, setIsSaving] = React.useState(false);
     const [isUyapTemplateProtected, setIsUyapTemplateProtected] = React.useState(false);
+    const [isUdfMarkedTemplate, setIsUdfMarkedTemplate] = React.useState(false);
     const [udfSignatureMeta, setUdfSignatureMeta] = React.useState<UdfSignatureMetadata | null>(null);
     const [uyapVerificationMeta, setUyapVerificationMeta] = React.useState<UyapVerificationMeta | null>(null);
     const editorRef = React.useRef<Editor | null>(null);
@@ -81,6 +87,7 @@ const UdfFileEditorPanel: React.FC<UdfFileEditorPanelProps> = ({ filePath, fileN
             setIsLoading(true);
             setError(null);
             setIsUyapTemplateProtected(false);
+            setIsUdfMarkedTemplate(false);
             setUdfSignatureMeta(null);
             setUyapVerificationMeta(null);
             preserveZipEntriesRef.current = {};
@@ -110,6 +117,7 @@ const UdfFileEditorPanel: React.FC<UdfFileEditorPanelProps> = ({ filePath, fileN
                 setUyapVerificationMeta(verificationMeta);
 
                 const importMeta = await parseUyapImportMeta(contentXml);
+                setIsUdfMarkedTemplate(Boolean(importMeta.isTemplate));
                 localStorage.setItem(
                     `${UYAP_IMPORT_META_STORAGE_PREFIX}${documentId}`,
                     JSON.stringify(importMeta),
@@ -180,8 +188,7 @@ const UdfFileEditorPanel: React.FC<UdfFileEditorPanelProps> = ({ filePath, fileN
                 throw new Error('Editör hazır değil.');
             }
             const hf = useHeaderFooterStore.getState();
-            const { getPaginationMargins } = await import('../../utils/paginationMarginSync');
-            const { buildPageFormatFromMargins } = await import('../../utils/uyapExportBuild');
+            warnHfPageVariantsOmittedFromNonPdfExport(documentId);
             const pageFormat = buildPageFormatFromMargins(getPaginationMargins(editorRef.current), hf.settings);
             const hfExtras = await buildUdfHfExportOptionsFromStore(
                 hf.settings,
@@ -199,7 +206,7 @@ const UdfFileEditorPanel: React.FC<UdfFileEditorPanelProps> = ({ filePath, fileN
                 ...hfExtras,
             });
         },
-        [fileName, isUyapTemplateProtected],
+        [documentId, fileName, isUyapTemplateProtected],
     );
 
     const refreshAfterWrite = React.useCallback(
@@ -390,13 +397,14 @@ const UdfFileEditorPanel: React.FC<UdfFileEditorPanelProps> = ({ filePath, fileN
 
     React.useEffect(() => {
         const onKey = (e: KeyboardEvent) => {
-            if (!(e.metaKey || e.ctrlKey)) return;
-            if (e.key.toLowerCase() === 's' && e.shiftKey) {
+            const saveAsShortcut = getRegistryEntry('udf-save-as');
+            const saveShortcut = getRegistryEntry('udf-save');
+            if (saveAsShortcut && matchesCombo(e, saveAsShortcut.combo)) {
                 e.preventDefault();
                 void handleSaveAs();
                 return;
             }
-            if (e.key.toLowerCase() === 's') {
+            if (saveShortcut && matchesCombo(e, saveShortcut.combo)) {
                 e.preventDefault();
                 void handleSave();
             }
@@ -449,6 +457,11 @@ const UdfFileEditorPanel: React.FC<UdfFileEditorPanelProps> = ({ filePath, fileN
                 <div className="px-4 py-2 text-xs border-b border-amber-200/80 bg-amber-50 text-amber-950 dark:border-white/10 dark:bg-amber-500/10 dark:text-amber-100">
                     Bu UDF, UYAP tarafından doldurulan şablon alanları içeriyor. İçerik kilitlendi; belge yalnızca
                     olduğu gibi e-imzalanıp kaydedilir.
+                </div>
+            ) : isUdfMarkedTemplate ? (
+                <div className="px-4 py-2 text-xs border-b border-amber-200/80 bg-amber-50 text-amber-950 dark:border-white/10 dark:bg-amber-500/10 dark:text-amber-100">
+                    Bu UDF <span className="font-medium">isTemplate</span> olarak işaretlenmiş. Değişken kilidi
+                    uygulanmaz; içerik düzenlenebilir.
                 </div>
             ) : null}
             <div className="flex-1 min-h-0 flex flex-col">

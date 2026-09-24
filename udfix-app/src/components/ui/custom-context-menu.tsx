@@ -121,7 +121,7 @@ const ContextMenu: React.FC<ContextMenuProps> = ({ open, anchorPoint, onClose, i
             >
                 <div
                     ref={listRef}
-                    className="min-w-[200px] rounded-lg shadow-xl border overflow-hidden bg-popover text-popover-foreground glass border-white/10"
+                    className="min-w-[200px] rounded-lg shadow-xl border overflow-hidden bg-popover text-popover-foreground glass border-border"
                 >
                     {items.map((item, index) => {
                         if (item.divider) {

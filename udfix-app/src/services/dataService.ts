@@ -1240,6 +1240,22 @@ export const DataService = {
         return invoke('db-set-header-footer-library', data);
     },
 
+    async getDocumentHeaderFooter(documentId: string): Promise<unknown | null> {
+        const invoke = getInvoke();
+        const raw = await invoke('db-get-document-hf', documentId);
+        if (!raw || typeof raw !== 'object' || Array.isArray(raw)) return null;
+        return raw;
+    },
+
+    async setDocumentHeaderFooter(data: {
+        documentId: string;
+        payload: unknown;
+        allowEmpty?: boolean;
+    }): Promise<{ ok: boolean; skippedEmpty?: boolean }> {
+        const invoke = getInvoke();
+        return invoke('db-set-document-hf', data);
+    },
+
     // --- Filesystem metadata (optional SQLite layer) ---
     async getFileTags(path: string): Promise<FileTagRow[]> {
         const invoke = getInvoke();
@@ -1428,7 +1444,7 @@ export const DataService = {
                 phase: 'anonymous',
                 periodEndsAt: null,
                 graceEndsAt: null,
-                reason: 'Oturum yok.',
+                reason: 'Lisans yok.',
                 source: 'none',
                 seatBound: false,
                 boundLawyerName: null,
@@ -1436,10 +1452,11 @@ export const DataService = {
         }
     },
 
-    async signInAccount(email: string): Promise<{ ok: boolean; error?: string }> {
+    async activateLicenseKey(licenseKey: string): Promise<{ ok: boolean; error?: string }> {
         try {
             const invoke = getInvoke();
-            return await invoke('app-account-sign-in', { email });
+            const trimmed = licenseKey.trim();
+            return await invoke('app-account-activate-katir', { activationCode: trimmed, licenseKey: trimmed });
         } catch (err) {
             return { ok: false, error: err instanceof Error ? err.message : String(err) };
         }
@@ -1454,22 +1471,13 @@ export const DataService = {
         }
     },
 
-    async activateKatirAccount(payload: { token: string; email?: string | null }): Promise<{
+    async activateKatirAccount(payload: { token: string; periodEndsAt: string }): Promise<{
         ok: boolean;
         error?: string;
     }> {
         try {
             const invoke = getInvoke();
             return await invoke('app-account-activate-katir', payload);
-        } catch (err) {
-            return { ok: false, error: err instanceof Error ? err.message : String(err) };
-        }
-    },
-
-    async startKatirUpgrade(): Promise<{ ok: boolean; error?: string }> {
-        try {
-            const invoke = getInvoke();
-            return await invoke('app-katir-upgrade-start');
         } catch (err) {
             return { ok: false, error: err instanceof Error ? err.message : String(err) };
         }
@@ -1761,6 +1769,7 @@ export type UyapBridgeStatus = {
     scheduleEnabled?: boolean;
     lastEvrakScanAt?: string | null;
     catalogCoverage?: string | null;
+    activity?: UyapWalkLogEvent[];
     seat?: {
         bound?: boolean;
         fullName?: string | null;
@@ -1821,9 +1830,13 @@ export type UyapTrailingOpenings = {
     months12: number;
     months24: number;
     months36: number;
+    months48?: number;
+    months60?: number;
     window12?: UyapTrailingWindowMetrics;
     window24?: UyapTrailingWindowMetrics;
     window36?: UyapTrailingWindowMetrics;
+    window48?: UyapTrailingWindowMetrics;
+    window60?: UyapTrailingWindowMetrics;
 };
 
 export type UyapDashboardStats = {
@@ -1847,7 +1860,7 @@ export type UyapDashboardStats = {
     uyapLinked: number;
     openingDated: number;
     openingWindow: number;
-    /** Opening totals in the last 12/24/36 calendar months from today (includes the current month). */
+    /** Opening totals in the last 12/24/36/48/60 calendar months from today (includes the current month). */
     trailingOpenings?: UyapTrailingOpenings;
     /** Stored icra TL totals — chart overlay only; not a Katır KPI card. */
     alacak?: number;
@@ -1922,6 +1935,9 @@ export type UyapRecentEvrak = {
     matter_title: string;
     matter_type: string | null;
     status: string;
+    parties_line?: string | null;
+    /** Matter-card UYAP label: `uyap_icra_takip_yolu` or `uyap_dava_turu`, never coarse `dosyaTur`. */
+    dosya_tur_label?: string | null;
 };
 
 export type AppNotification = {

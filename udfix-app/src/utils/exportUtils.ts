@@ -1,8 +1,11 @@
 import { Editor } from '@tiptap/react';
+import { toast } from 'sonner';
 import { useLayoutStore } from '../stores/useLayoutStore';
 import { buildPdfFontFaceCss } from '../fonts/pdfFontFaces';
 import { getBundledFontByName } from '../fonts/offlineFontRegistry';
+import { trackExportAction } from '../telemetry/trackEvent';
 import {
+    buildNativeBodyPdfHtml,
     buildPdfBodyCanvasInsetDeclsFromProseMirror,
     buildPdfBodyTypographyDeclsFromProseMirror,
     buildPdfDocumentHtml,
@@ -18,11 +21,53 @@ import {
     resolveBandClampMaxHeightPx,
     shouldPreserveLiveBandFlowMetrics,
 } from './pdfExportLayoutMath';
+import {
+    applyFrozenTotalPageTokens,
+    countPdfExportPageBreaks,
+    freezePaginationCounters,
+    resolvePdfExportTotalPages,
+} from './pdfExportPaginationCounters';
+import {
+    extractPinnedPrintChromeFromClone,
+    removePrintOnlyPaginationChrome,
+} from './pdfExportPaginationChrome';
+import { getPaginationMargins, reconcilePaginationPlusLayout } from './paginationMarginSync';
+import {
+    EDITOR_PAGE_MARGIN_LEFT_PX,
+    EDITOR_PAGE_MARGIN_RIGHT_PX,
+    EDITOR_PAGE_WIDTH_PX,
+    EDITOR_PAGINATION_BODY_VERTICAL_BASE_PX,
+    EDITOR_PAGINATION_CONTENT_MARGIN_BASE_PX,
+} from './editorLayout';
 import { getElectronInvoke } from './electronBridge';
-import { sanitizeTrustedDocumentHtml } from './sanitizeDocumentHtml';
-import { trackExportAction } from '../telemetry/trackEvent';
-import { readPersistedUyapVerificationMeta, type UyapVerificationMeta } from './uyapVerification';
-import { appendUyapVerificationToHtml } from './uyapVerificationBlock';
+import { warnHfPageVariantsOmittedFromNonPdfExport } from './hfPageVariantExportWarning';
+import { buildHfOverlayPayload, type HfOverlaySlice } from './pdfOverlayExport';
+import type { ExportPdfWithOverlayPayload } from '../../electron/pdfOverlayShared';
+import { useHeaderFooterStore } from '../stores/useHeaderFooterStore';
+import { flushAllHfEditors } from './hfEditorFlushRegistry';
+import {
+    countUyapVerificationNoticeOccurrences,
+    readPersistedUyapVerificationMeta,
+    stripUyapVerificationFromTipTapJson,
+    type UyapVerificationMeta,
+} from './uyapVerification';
+import {
+    appendUyapVerificationToHtml,
+    buildUyapVerificationHtmlBlock,
+    insertTemporaryUyapVerificationBlock,
+    pauseProseMirrorDomObserver,
+    pinTemporaryUyapVerificationBlock,
+    removeTemporaryUyapVerificationBlock,
+} from './uyapVerificationBlock';
+
+const PDF_EXPORT_UNSETTLED_TOAST_ID = 'pdf-export-pagination-unsettled';
+
+export class PdfExportCancelledError extends Error {
+    constructor(message = 'PDF dışa aktarma iptal edildi') {
+        super(message);
+        this.name = 'PdfExportCancelledError';
+    }
+}
 
 export { sanitizeExportBaseName };
 
@@ -123,25 +168,98 @@ function snapshotsEqual(a: PaginationLayoutSnapshot, b: PaginationLayoutSnapshot
     );
 }
 
-async function waitForPaginationLayoutSettle(pmRoot: HTMLElement, maxPasses = 6): Promise<void> {
+function pinExportVerificationIfNeeded(pmRoot: HTMLElement, block: HTMLElement | null | undefined): void {
+    if (block) pinTemporaryUyapVerificationBlock(pmRoot, block);
+}
+
+/**
+ * Drop QR/notice nodes that ProseMirror adopted from a previous export pin.
+ * Prefer JSON rewrite so autosave does not persist the cleanup as an edit.
+ */
+function stripAdoptedUyapVerificationFromEditor(editor: Editor): void {
+    if (editor.isDestroyed) return;
+    const json = editor.getJSON();
+    const stripped = stripUyapVerificationFromTipTapJson(json);
+    if (stripped !== json) {
+        editor.commands.setContent(stripped, { emitUpdate: false });
+        return;
+    }
+    const pmRoot = editor.view?.dom as HTMLElement | undefined;
+    if (pmRoot) removeTemporaryUyapVerificationBlock(pmRoot);
+}
+
+async function waitForPaginationLayoutSettle(
+    pmRoot: HTMLElement,
+    maxPasses = 6,
+    pinLastChild?: HTMLElement | null,
+): Promise<boolean> {
+    pinExportVerificationIfNeeded(pmRoot, pinLastChild);
     let previous = readPaginationLayoutSnapshot(pmRoot);
     for (let i = 0; i < maxPasses; i += 1) {
         await waitTwoFrames();
+        pinExportVerificationIfNeeded(pmRoot, pinLastChild);
         const current = readPaginationLayoutSnapshot(pmRoot);
         if (snapshotsEqual(previous, current)) {
-            return;
+            return true;
         }
         previous = current;
     }
     console.warn('[PDF Export] pagination did not fully settle before snapshot', previous);
+    return false;
 }
 
-async function stabilizePdfExportLayout(pmRoot: HTMLElement): Promise<void> {
+function promptContinuePdfExportDespiteUnsettledLayout(): Promise<boolean> {
+    if (typeof window === 'undefined') return Promise.resolve(true);
+    return new Promise((resolve) => {
+        let done = false;
+        const finish = (value: boolean) => {
+            if (done) return;
+            done = true;
+            toast.dismiss(PDF_EXPORT_UNSETTLED_TOAST_ID);
+            resolve(value);
+        };
+        toast.warning('Sayfalama oturmadı', {
+            id: PDF_EXPORT_UNSETTLED_TOAST_ID,
+            description:
+                'PDF için sayfa düzeni henüz sabitlenmedi. Devam ederseniz sayfa sayısı kayabilir.',
+            duration: Infinity,
+            closeButton: true,
+            action: {
+                label: 'Devam et',
+                onClick: () => finish(true),
+            },
+            cancel: {
+                label: 'İptal',
+                onClick: () => finish(false),
+            },
+            onDismiss: () => finish(false),
+        });
+    });
+}
+
+async function stabilizePdfExportLayout(
+    pmRoot: HTMLElement,
+    pinLastChild?: HTMLElement | null,
+    options?: { promptOnUnsettledLayout?: boolean },
+): Promise<void> {
     await flushSyncHfToEditor();
+    pinExportVerificationIfNeeded(pmRoot, pinLastChild);
     await waitTwoFrames();
+    pinExportVerificationIfNeeded(pmRoot, pinLastChild);
     await warmupPaginationDomForPdf(pmRoot);
+    pinExportVerificationIfNeeded(pmRoot, pinLastChild);
     await Promise.all([waitForImagesReady(pmRoot), waitForFontsReady()]);
-    await waitForPaginationLayoutSettle(pmRoot);
+    pinExportVerificationIfNeeded(pmRoot, pinLastChild);
+    const settled = await waitForPaginationLayoutSettle(pmRoot, 6, pinLastChild);
+    if (!settled) {
+        const shouldPrompt = options?.promptOnUnsettledLayout !== false;
+        if (shouldPrompt) {
+            const shouldContinue = await promptContinuePdfExportDespiteUnsettledLayout();
+            if (!shouldContinue) {
+                throw new PdfExportCancelledError();
+            }
+        }
+    }
     const after = readPaginationLayoutSnapshot(pmRoot);
     if (after.pageCount > 0 && after.pageBreakCount > 0 && after.pageBreakCount !== after.pageCount) {
         console.warn('[PDF Export] pagination diagnostics: page-break/page count mismatch', after);
@@ -172,51 +290,6 @@ async function warmupPaginationDomForPdf(pmRoot: HTMLElement): Promise<void> {
 }
 
 /**
- * PaginationPlus DOM layout for `[data-rm-pagination] > .rm-page-break[i]`:
- *   .page                              → page (i+1) content
- *   .breaker > .rm-page-footer         → footer of page (i+1)
- *   .breaker > .rm-pagination-gap
- *   .breaker > .rm-page-header         → header of page (i+2) (next page)
- *
- * The page-1 header lives outside the wrapper as `.rm-first-page-header`.
- *
- * Page numbers come from a CSS counter in plugin head styles; the print window
- * does not load those styles, so we freeze numbers to text so footer of pb[i]
- * gets `i+1` and the header inside pb[i] (which belongs to the next page) gets
- * `i+2`. Treating both bands the same way prints `i+1` everywhere → every
- * header shows the previous page's number.
- */
-function freezePaginationCounters(clone: HTMLElement): void {
-    const pageBreaks = Array.from(clone.querySelectorAll<HTMLElement>('[data-rm-pagination] > .rm-page-break'));
-    const totalPages = Math.max(1, pageBreaks.length);
-    const totalPagesStr = String(totalPages);
-
-    pageBreaks.forEach((pb, i) => {
-        const footerPageNo = String(i + 1);
-        const headerPageNo = String(i + 2);
-
-        pb.querySelectorAll<HTMLElement>(
-            '.rm-page-footer .rm-page-number, .rm-page-footer .rm-page-number-plus, .rm-page-footer-1 .rm-page-number, .rm-page-footer-1 .rm-page-number-plus',
-        ).forEach((el) => {
-            el.textContent = footerPageNo;
-        });
-        pb.querySelectorAll<HTMLElement>('.rm-page-header .rm-page-number, .rm-page-header .rm-page-number-plus').forEach((el) => {
-            el.textContent = headerPageNo;
-        });
-        pb.querySelectorAll<HTMLElement>('[data-type="variable"][data-id="totalPages"], [data-type="variable"][data-id="total"]').forEach((el) => {
-            el.textContent = totalPagesStr;
-        });
-    });
-
-    clone.querySelectorAll<HTMLElement>('.rm-first-page-header .rm-page-number, .rm-first-page-header .rm-page-number-plus').forEach((el) => {
-        el.textContent = '1';
-    });
-    clone.querySelectorAll<HTMLElement>('.rm-first-page-header [data-type="variable"][data-id="totalPages"], .rm-first-page-header [data-type="variable"][data-id="total"]').forEach((el) => {
-        el.textContent = totalPagesStr;
-    });
-}
-
-/**
  * Snapshot the live editor DOM for the PDF body:
  * - drop UI-only break markers,
  * - zero out forced section-break paragraph spacing,
@@ -241,6 +314,7 @@ function sanitizePaginatedPdfSnapshotHtml(pmRoot: HTMLElement): string {
         paginationClone.style.setProperty('box-sizing', 'border-box', 'important');
     }
     clone.querySelectorAll('.nomai-break-visual').forEach((el) => el.remove());
+    clone.querySelectorAll('.ProseMirror-trailingBreak, .ProseMirror-separator').forEach((el) => el.remove());
     // TablePlus edit-time decorations must never be exported.
     clone.querySelectorAll(
         '.table-plus-wrapper .handle, .table-plus-wrapper .slider, .column-resize-handle, [data-resize-handle], .grip-column, .grip-row, .grip-table, .handle, .slider',
@@ -262,21 +336,14 @@ function sanitizePaginatedPdfSnapshotHtml(pmRoot: HTMLElement): string {
 
     freezePaginationCounters(clone);
     removePrintOnlyPaginationChrome(clone);
+    // Hoist page-1 header/footer out of the float/ProseMirror tree so print
+    // HTML can place them as direct body children (fixed chrome must not sit
+    // inside a fragmented float context — that paints content then chrome).
+    const { headerHtml, footerHtml } = extractPinnedPrintChromeFromClone(clone);
 
-    const totalPages = Math.max(1, clone.querySelectorAll('[data-rm-pagination] > .rm-page-break').length);
-    return clone.outerHTML
-        .replace(/\{totalPages\}/g, String(totalPages))
-        .replace(/\{total\}/g, String(totalPages));
-}
-
-function removePrintOnlyPaginationChrome(clone: HTMLElement): void {
-    // Gaps and the final "next page" header are screen pagination chrome.
-    // CSS hiding is not enough for Chromium print in some float layouts: the
-    // physical nodes can still push an exact A4 snapshot into a blank last page.
-    clone.querySelectorAll('.rm-pagination-gap').forEach((el) => el.remove());
-    const pageBreaks = Array.from(clone.querySelectorAll<HTMLElement>('[data-rm-pagination] > .rm-page-break'));
-    const lastBreak = pageBreaks.at(-1);
-    lastBreak?.querySelector<HTMLElement>(':scope > .breaker > .rm-page-header')?.remove();
+    const totalPages = resolvePdfExportTotalPages(countPdfExportPageBreaks(clone));
+    const pmHtml = applyFrozenTotalPageTokens(clone.outerHTML, totalPages);
+    return `${headerHtml}${footerHtml}${pmHtml}`;
 }
 
 function readPxFromInlineStyle(el: HTMLElement, prop: string): number | null {
@@ -420,14 +487,14 @@ function pinHeaderFooterPaddingFromLive(pmRoot: HTMLElement, clone: HTMLElement)
         copy(target, 'padding-top', cs.paddingTop);
         copy(target, 'padding-bottom', cs.paddingBottom);
         if (preserveLiveFlow) {
-            // First-page footer anchor lives on margin-top; keep only anchor margin
-            // and clear the opposite edge to avoid pushing body flow in print.
-            if (isFirstFooter) {
-                copy(target, 'margin-top', cs.marginTop);
-                target.style.setProperty('margin-bottom', '0px', 'important');
-            } else if (isFirstHeader) {
+            // In the ONE print model these first-page bands become `position: fixed`
+            // (header pinned top, footer pinned bottom). Any live flow margin
+            // pinned inline with !important would shift the fixed box, so zero
+            // both margins on both pinned bands. Padding (band internal insets)
+            // is still copied from live below and is the correct source.
+            if (isFirstFooter || isFirstHeader) {
                 target.style.setProperty('margin-top', '0px', 'important');
-                copy(target, 'margin-bottom', cs.marginBottom);
+                target.style.setProperty('margin-bottom', '0px', 'important');
             } else {
                 copy(target, 'margin-top', cs.marginTop);
                 copy(target, 'margin-bottom', cs.marginBottom);
@@ -467,12 +534,9 @@ function getPdfExportBodyHtml(editor: Editor): string {
     if (typeof document === 'undefined' || editor.isDestroyed || !editor.view?.dom) {
         return editor.getHTML();
     }
-    const pmRoot = editor.view.dom as HTMLElement;
-    try {
-        return sanitizePaginatedPdfSnapshotHtml(pmRoot);
-    } catch {
-        return pmRoot.outerHTML;
-    }
+    // Never fall back to unsanitized outerHTML: that keeps `.rm-pagination-gap`
+    // boxes in the print tree and reintroduces page-gap / footer drift.
+    return sanitizePaginatedPdfSnapshotHtml(editor.view.dom as HTMLElement);
 }
 
 /**
@@ -497,6 +561,7 @@ export const exportToDOCX = async (
             useLayoutStore.getState().documents.find((d) => d.id === useLayoutStore.getState().activeDocument)
                 ?.title ?? 'Belge';
         const documentId = documentIdOverride?.trim() || useLayoutStore.getState().activeDocument;
+        warnHfPageVariantsOmittedFromNonPdfExport(documentId);
         const { buffer } = await buildDocxFromEditor(editor, { docTitle, documentId });
         const base = sanitizeExportBaseName(suggestedBaseName);
         const docxPayload: DocxExportIpcPayload = {
@@ -516,6 +581,21 @@ export type PdfExportBuildOptions = {
     verificationMeta?: UyapVerificationMeta | null;
     /** Fallback when `verificationMeta` is omitted (editor tab id). */
     documentIdForVerification?: string | null;
+    /**
+     * Interactive PDF export prompts with a settle toast (Faz 2). Headless/batch
+     * (`convert-html-to-pdf`) must not block — pass `false` to auto-continue.
+     */
+    promptOnUnsettledLayout?: boolean;
+};
+
+/** Extra data the overlay pipeline needs from the body payload builder. */
+export type PdfExportPayloadExtras = {
+    /** Reserved top/bottom band heights (px) inlined into the body @page. */
+    pageMarginPx?: { top: number; bottom: number };
+    /** Offline @font-face CSS (base64 woff2) shared with the HF overlay. */
+    offlineFontFaceCss?: string;
+    /** Theme + PaginationPlus CSS variables snapshot shared with the overlay. */
+    themeVarsCss?: string;
 };
 
 /**
@@ -524,7 +604,7 @@ export type PdfExportBuildOptions = {
 export async function buildPdfExportPayloadFromEditor(
     editor: Editor,
     options: PdfExportBuildOptions,
-): Promise<{ documentHtml: string; printToPdfOptions: Record<string, unknown> }> {
+): Promise<{ documentHtml: string; printToPdfOptions: Record<string, unknown> } & PdfExportPayloadExtras> {
     const warmupRoot = editor.view?.dom as HTMLElement | undefined;
     const zoomShell =
         warmupRoot?.closest('.udfix-editor-zoom-shell') as HTMLElement | null | undefined;
@@ -536,17 +616,46 @@ export async function buildPdfExportPayloadFromEditor(
     const shouldNormalizeZoom =
         Number.isFinite(computedZoom) && computedZoom > 0 && Math.abs(computedZoom - 1) > 0.001;
 
+    const verificationMeta =
+        options.verificationMeta !== undefined
+            ? options.verificationMeta
+            : options.documentIdForVerification != null
+              ? readPersistedUyapVerificationMeta(options.documentIdForVerification)
+              : null;
+
     let bodyHtmlRaw = '';
+    let verificationBlock: HTMLElement | null = null;
+    let resumeObserver: () => void = () => {};
     try {
+        if (typeof document !== 'undefined') {
+            stripAdoptedUyapVerificationFromEditor(editor);
+        }
         if (shouldNormalizeZoom && zoomShell) {
             zoomShell.style.zoom = '1';
             await waitTwoFrames();
         }
+        if (typeof document !== 'undefined' && warmupRoot && verificationMeta?.accessToken?.trim()) {
+            resumeObserver = pauseProseMirrorDomObserver(editor.view);
+            const blockHtml = await buildUyapVerificationHtmlBlock(verificationMeta);
+            verificationBlock = insertTemporaryUyapVerificationBlock(warmupRoot, blockHtml);
+            if (verificationBlock) {
+                reconcilePaginationPlusLayout(editor, { forceDecorationRebuild: true });
+                pinTemporaryUyapVerificationBlock(warmupRoot, verificationBlock);
+            }
+        }
         if (typeof document !== 'undefined' && warmupRoot) {
-            await stabilizePdfExportLayout(warmupRoot);
+            await stabilizePdfExportLayout(warmupRoot, verificationBlock, {
+                promptOnUnsettledLayout: options.promptOnUnsettledLayout !== false,
+            });
+            pinExportVerificationIfNeeded(warmupRoot, verificationBlock);
         }
         bodyHtmlRaw = getPdfExportBodyHtml(editor);
     } finally {
+        if (warmupRoot) removeTemporaryUyapVerificationBlock(warmupRoot);
+        resumeObserver();
+        if (typeof document !== 'undefined') {
+            stripAdoptedUyapVerificationFromEditor(editor);
+        }
         if (zoomShell) {
             if (prevInlineZoom) zoomShell.style.zoom = prevInlineZoom;
             else zoomShell.style.removeProperty('zoom');
@@ -560,13 +669,12 @@ export async function buildPdfExportPayloadFromEditor(
     const extraPdfStyles = `${themeAndPaginationVarsCss}${paginationPlusPdfCss}`;
     let bodyHtml = resolveCssVarsInHtmlString(bodyHtmlRaw, pmRoot ?? null);
 
-    const verificationMeta =
-        options.verificationMeta !== undefined
-            ? options.verificationMeta
-            : options.documentIdForVerification != null
-              ? readPersistedUyapVerificationMeta(options.documentIdForVerification)
-              : null;
-    if (verificationMeta) {
+    // Snapshot-only: never write this HTML back into TipTap. Collapse N copies or
+    // fill a missing QR so the PDF has exactly one block at document end.
+    if (verificationMeta && countUyapVerificationNoticeOccurrences(bodyHtml) !== 1) {
+        if (countUyapVerificationNoticeOccurrences(bodyHtml) === 0) {
+            console.warn('[PDF Export] verification block missing from snapshot; appending after freeze');
+        }
         bodyHtml = await appendUyapVerificationToHtml(bodyHtml, verificationMeta);
     }
 
@@ -577,6 +685,15 @@ export async function buildPdfExportPayloadFromEditor(
     const paginatedBodyInsetDecls =
         pmRoot && typeof document !== 'undefined'
             ? buildPdfBodyCanvasInsetDeclsFromProseMirror(pmRoot)
+            : undefined;
+    // Header/footer band heights inlined into @page top/bottom margins so the
+    // pinned `position: fixed` chrome never overlaps body text on any sheet.
+    // CSS variables do not propagate to @page, so these must be literal px.
+    const pageMarginPx =
+        pmRoot && typeof document !== 'undefined'
+            ? readPdfBandBudgetSnapshotFromStyles({
+                  getPropertyValue: (name: string) => pmRoot.style.getPropertyValue(name),
+              })
             : undefined;
     const extraPdfFamilies: string[] = [];
     if (pmRoot && typeof document !== 'undefined') {
@@ -591,18 +708,167 @@ export async function buildPdfExportPayloadFromEditor(
         paginatedBodyTypographyDecls,
         paginatedBodyInsetDecls,
         offlineFontFaceCss,
+        pageMarginPx: pageMarginPx
+            ? { top: pageMarginPx.headerBudgetPx, bottom: pageMarginPx.footerBudgetPx }
+            : undefined,
     });
     const printToPdfOptions: Record<string, unknown> = {
         displayHeaderFooter: false,
         preferCSSPageSize: true,
         scale: 1,
     };
-    return { documentHtml, printToPdfOptions };
+    return {
+        documentHtml,
+        printToPdfOptions,
+        pageMarginPx: pageMarginPx
+            ? { top: pageMarginPx.headerBudgetPx, bottom: pageMarginPx.footerBudgetPx }
+            : undefined,
+        offlineFontFaceCss,
+        themeVarsCss: extraPdfStyles,
+    };
+}
+
+function readNativePdfPageMargins(editor: Editor): {
+    left: number;
+    right: number;
+    headerPadTop: number;
+    headerPadBottom: number;
+    footerPadTop: number;
+    footerPadBottom: number;
+} {
+    const m = getPaginationMargins(editor);
+    const pag = editor.storage?.PaginationPlus as
+        | { contentMarginTop?: number; contentMarginBottom?: number }
+        | undefined;
+    const contentTop = Number(pag?.contentMarginTop);
+    const contentBottom = Number(pag?.contentMarginBottom);
+    return {
+        left: m?.marginLeft ?? EDITOR_PAGE_MARGIN_LEFT_PX,
+        right: m?.marginRight ?? EDITOR_PAGE_MARGIN_RIGHT_PX,
+        headerPadTop: m?.marginTop ?? EDITOR_PAGINATION_BODY_VERTICAL_BASE_PX,
+        footerPadBottom: m?.marginBottom ?? EDITOR_PAGINATION_BODY_VERTICAL_BASE_PX,
+        headerPadBottom: Number.isFinite(contentTop) ? contentTop : EDITOR_PAGINATION_CONTENT_MARGIN_BASE_PX,
+        footerPadTop: Number.isFinite(contentBottom) ? contentBottom : EDITOR_PAGINATION_CONTENT_MARGIN_BASE_PX,
+    };
+}
+
+/** Panel HTML height at the text-column width, so the body band matches the ruler. */
+async function measureHfBlockHeightPx(html: string, widthPx: number): Promise<number> {
+    if (!html.trim() || typeof document === 'undefined') return 0;
+    const host = document.createElement('div');
+    host.style.cssText = `position:absolute;left:-10000px;top:0;width:${Math.max(1, widthPx)}px;visibility:hidden;pointer-events:none;font-size:10px;line-height:1.4;`;
+    host.innerHTML = html;
+    document.body.appendChild(host);
+    const imgs = [...host.querySelectorAll('img')];
+    await Promise.all(
+        imgs.map((img) =>
+            typeof img.decode === 'function' ? img.decode().catch(() => undefined) : Promise.resolve(),
+        ),
+    );
+    const height = Math.ceil(host.getBoundingClientRect().height);
+    host.remove();
+    return Number.isFinite(height) ? height : 0;
 }
 
 /**
- * Exports the current editor content to PDF using Electron's native print-to-pdf.
- * Sends a full HTML document (list styles, breaks, optional dipnot/üst-alt şablonu).
+ * Native PDF parts: TipTap HTML + ruler @page margins + panel `compileHfHtml`.
+ * Does not snapshot PaginationPlus DOM and does not read live `.rm-*` bands.
+ * Shared by interactive export and headless UDF→PDF. Does not touch UDF/DOCX writers.
+ */
+export async function buildNativePdfOverlayRequest(
+    editor: Editor,
+    options: PdfExportBuildOptions,
+): Promise<ExportPdfWithOverlayPayload> {
+    flushAllHfEditors();
+    await flushSyncHfToEditor();
+
+    const verificationMeta =
+        options.verificationMeta !== undefined
+            ? options.verificationMeta
+            : options.documentIdForVerification != null
+              ? readPersistedUyapVerificationMeta(options.documentIdForVerification)
+              : null;
+
+    let bodyInner = editor.getHTML();
+    if (verificationMeta) {
+        bodyInner = await appendUyapVerificationToHtml(bodyInner, verificationMeta);
+    }
+
+    const pads = readNativePdfPageMargins(editor);
+    const pmRoot = editor.view?.dom as HTMLElement | undefined;
+    const typographyDecls =
+        pmRoot && typeof document !== 'undefined'
+            ? buildPdfBodyTypographyDeclsFromProseMirror(pmRoot)
+            : undefined;
+    const extraPdfFamilies: string[] = [];
+    if (pmRoot && typeof document !== 'undefined') {
+        const primary = getComputedStyle(pmRoot).fontFamily.split(',')[0]?.trim().replace(/^["']|["']$/g, '');
+        if (primary && getBundledFontByName(primary)) extraPdfFamilies.push(primary);
+    }
+    const hfOverlay = buildHfOverlayPayload(readHfOverlaySliceFromStore(), {
+        docTitle: options.title,
+        pageMarginPx: { top: 0, bottom: 0 },
+        offlineFontFaceCss: '',
+        themeVarsCss: '',
+    });
+    const hfMarkup = Object.values(hfOverlay.variants)
+        .map((variant) => `${variant.headerHtml}\n${variant.footerHtml}`)
+        .join('\n');
+    const offlineFontFaceCss = await buildPdfFontFaceCss(`${bodyInner}\n${hfMarkup}`, {
+        extraFamilies: extraPdfFamilies,
+    });
+    const innerWidth = Math.max(1, EDITOR_PAGE_WIDTH_PX - pads.left - pads.right);
+    const variantList = Object.values(hfOverlay.variants);
+    const headerHeights = await Promise.all(
+        variantList.map((variant) => measureHfBlockHeightPx(variant.headerHtml, innerWidth)),
+    );
+    const footerHeights = await Promise.all(
+        variantList.map((variant) => measureHfBlockHeightPx(variant.footerHtml, innerWidth)),
+    );
+    const headerContent = Math.max(0, ...headerHeights);
+    const footerContent = Math.max(0, ...footerHeights);
+    const headerBand =
+        pads.headerPadTop + headerContent + (headerContent > 0 ? pads.headerPadBottom : 0);
+    const footerBand =
+        pads.footerPadBottom + footerContent + (footerContent > 0 ? pads.footerPadTop : 0);
+    const margins = {
+        top: headerBand,
+        right: pads.right,
+        bottom: footerBand,
+        left: pads.left,
+    };
+    const bodyHtml = buildNativeBodyPdfHtml({
+        bodyInnerHtml: bodyInner,
+        title: options.title,
+        margins,
+        offlineFontFaceCss,
+        typographyDecls,
+    });
+    hfOverlay.offlineFontFaceCss = offlineFontFaceCss;
+    hfOverlay.pageMarginPx = {
+        top: headerBand,
+        bottom: footerBand,
+        left: pads.left,
+        right: pads.right,
+        headerPadTop: pads.headerPadTop,
+        headerPadBottom: headerContent > 0 ? pads.headerPadBottom : 0,
+        footerPadTop: footerContent > 0 ? pads.footerPadTop : 0,
+        footerPadBottom: pads.footerPadBottom,
+    };
+    return {
+        bodyHtml,
+        hfOverlay,
+        printToPdfOptions: {
+            displayHeaderFooter: false,
+            preferCSSPageSize: true,
+            scale: 1,
+        },
+    };
+}
+
+/**
+ * PDF export: native body (`getHTML` + ruler margins) and panel header/footer
+ * stamped with pdf-lib. Screen pagination is not printed.
  */
 export const exportToPDF = async (
     editor: Editor | null,
@@ -618,23 +884,49 @@ export const exportToPDF = async (
             throw new Error("Electron IPC not available");
         }
 
+        const layout = useLayoutStore.getState();
+        const targetDocumentId = documentIdOverride?.trim() || layout.activeDocument;
         const title =
-            useLayoutStore.getState().documents.find((d) => d.id === useLayoutStore.getState().activeDocument)
-                ?.title ?? 'Belge';
-        const { documentHtml, printToPdfOptions } = await buildPdfExportPayloadFromEditor(editor, {
+            layout.documents.find((d) => d.id === targetDocumentId)?.title ??
+            suggestedBaseName?.trim() ??
+            'Belge';
+        const built = await buildNativePdfOverlayRequest(editor, {
             title,
-            documentIdForVerification: documentIdOverride?.trim() || useLayoutStore.getState().activeDocument,
+            documentIdForVerification: targetDocumentId,
         });
-        const base = sanitizeExportBaseName(suggestedBaseName);
-        const payload: PdfExportIpcPayload = {
-            documentHtml: sanitizeTrustedDocumentHtml(documentHtml),
-            suggestedBaseName: base,
-            printToPdfOptions,
+        const payload: ExportPdfWithOverlayPayload = {
+            ...built,
+            suggestedBaseName: sanitizeExportBaseName(suggestedBaseName),
         };
-        await invoke('export-pdf-from-html', payload);
+        await invoke('export-pdf-with-overlay', payload);
         trackExportAction('pdf');
     } catch (error) {
+        if (error instanceof PdfExportCancelledError) {
+            toast.message('PDF dışa aktarma iptal edildi');
+            return;
+        }
         console.error('PDF Export failed:', error);
         throw error;
     }
 };
+
+/**
+ * Read the current HF store state into the overlay slice shape. Exported for
+ * the headless batch path and tests.
+ */
+export function readHfOverlaySliceFromStore(): HfOverlaySlice {
+    const s = useHeaderFooterStore.getState();
+    return {
+        sections: {
+            default: { ...s.sections.default },
+            firstPage: { ...s.sections.firstPage },
+            lastPage: { ...s.sections.lastPage },
+            oddPage: { ...s.sections.oddPage },
+            evenPage: { ...s.sections.evenPage },
+        },
+        settings: { ...s.settings },
+        differentFirstPage: s.differentFirstPage,
+        differentLastPage: s.differentLastPage,
+        differentOddEvenPages: s.differentOddEvenPages,
+    };
+}

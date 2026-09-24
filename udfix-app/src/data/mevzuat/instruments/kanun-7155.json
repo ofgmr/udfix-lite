@@ -1,0 +1,291 @@
+{
+  "id": "kanun:7155",
+  "kind": "kanun",
+  "no": "7155",
+  "title": "Abonelik Sözleşmesinden Kaynaklanan Para Alacaklarına İlişkin Takibin Başlatılması Usulü Hakkında Kanun",
+  "shortName": "MTS Kanunu",
+  "aliases": [
+    "MTS Kanunu",
+    "Abonelik Sözleşmesinden Kaynaklanan Para Alacaklarına İlişkin Takibin Başlatılması Usulü Hakkında Kanun",
+    "7155"
+  ],
+  "tur": 1,
+  "tertip": 5,
+  "sourceUrl": "https://www.mevzuat.gov.tr/mevzuat?MevzuatNo=7155&MevzuatTur=1&MevzuatTertip=5",
+  "kabulTarihi": "6/12/2018",
+  "maddeCount": 17,
+  "maddeler": [
+    {
+      "id": "kanun:7155:m:1",
+      "maddeKind": "madde",
+      "maddeNo": "1",
+      "heading": "Madde 1",
+      "text": "(1) Bu Kanunun amacı; abonelik sözleşmelerinden ve bu sözleşmelerin ifası amacıyla tüketiciye sunulup bedeli faturaya yansıtılan mal veya hizmetten kaynaklanan para alacaklarına ilişkin haciz yoluyla ilamsız icra takiplerinin, Ulusal Yargı Ağı Bilişim Sistemi (UYAP) bünyesinde oluşturulan Merkezî Takip Sistemi üzerinden başlatılmasına ve haciz aşamasına kadar yürütülmesine ilişkin usul ve esasları düzenlemektir.",
+      "preview": "(1) Bu Kanunun amacı; abonelik sözleşmelerinden ve bu sözleşmelerin ifası amacıyla tüketiciye sunulup bedeli faturaya yansıtılan mal veya hi…",
+      "kitap": null,
+      "kisim": null,
+      "bolum": null,
+      "ayirim": null,
+      "maddeBaslik": "Amaç",
+      "sectionPath": [
+        "Amaç"
+      ]
+    },
+    {
+      "id": "kanun:7155:m:2",
+      "maddeKind": "madde",
+      "maddeNo": "2",
+      "heading": "Madde 2",
+      "text": "(1) Bu Kanun, 7/11/2013 tarihli ve 6502 sayılı Tüketicinin Korunması Hakkında Kanunda ve diğer mevzuatta düzenlenen abonelik sözleşmeleri ile bu sözleşmelerin ifası amacıyla tüketiciye sunulup bedeli faturaya yansıtılan mal veya hizmetten kaynaklanan ve avukatla takip edilen para alacaklarına ilişkin icra takiplerini kapsar.\n (2) Birinci fıkra kapsamındaki icra takipleri ancak bu Kanunda belirlenen yöntemle başlatılabilir. Aksi hâlde icra dairesi takip talebini reddeder.",
+      "preview": "(1) Bu Kanun, 7/11/2013 tarihli ve 6502 sayılı Tüketicinin Korunması Hakkında Kanunda ve diğer mevzuatta düzenlenen abonelik sözleşmeleri il…",
+      "kitap": null,
+      "kisim": null,
+      "bolum": null,
+      "ayirim": null,
+      "maddeBaslik": "Kapsam",
+      "sectionPath": [
+        "Kapsam"
+      ]
+    },
+    {
+      "id": "kanun:7155:m:3",
+      "maddeKind": "madde",
+      "maddeNo": "3",
+      "heading": "Madde 3",
+      "text": "(1) Bu Kanunda belirtilen takip işlemlerinin elektronik ortamda yapılmasını sağlamak amacıyla UYAP bünyesinde Merkezî Takip Sistemi oluşturulur.",
+      "preview": "(1) Bu Kanunda belirtilen takip işlemlerinin elektronik ortamda yapılmasını sağlamak amacıyla UYAP bünyesinde Merkezî Takip Sistemi oluşturu…",
+      "kitap": null,
+      "kisim": null,
+      "bolum": null,
+      "ayirim": null,
+      "maddeBaslik": "Merkezî Takip Sistemi",
+      "sectionPath": [
+        "Merkezî Takip Sistemi"
+      ]
+    },
+    {
+      "id": "kanun:7155:m:4",
+      "maddeKind": "madde",
+      "maddeNo": "4",
+      "heading": "Madde 4",
+      "text": "(1) Alacaklı avukatı, icra takibini başlatmak için Merkezî Takip Sisteminde yer alan takip talebini doldurur.\n (2) Takip talebinde aşağıdaki hususlar yer alır:\n a) Alacaklının ve varsa kanuni temsilcisi ile avukatının adı ve soyadı, Türkiye Cumhuriyeti kimlik numarası; tüzel kişi ise unvanı, vergi kimlik numarası, ticaret sicil numarası ve Merkezi Sicil Kayıt Sistemi numarası; adresi, telefonu ve elektronik iletişim bilgileri\n b) Alacaklının veya avukatının münhasıran Merkezî Takip Sistemi ile ilişkilendirilmiş hesap numarası\n c) Borçlunun ve varsa kanuni temsilcisinin adı ve soyadı, Türkiye Cumhuriyeti kimlik numarası; tüzel kişi ise unvanı, vergi kimlik numarası, biliniyorsa ticaret sicil numarası ve Merkezi Sicil Kayıt Sistemi numarası; adresi, biliniyorsa telefonu ve elektronik iletişim bilgileri\n ç) Terekeye karşı yapılan takiplerde kendilerine tebligat yapılacak mirasçıların adı ve soyadı, Türkiye Cumhuriyeti kimlik numarası ile adresi\n d) Alacağın tutarı ve faizli alacaklarda faizin türü, oranı, miktarı ve işlemeye başladığı gün; alacak yabancı para ise harca esas olmak üzere takip tarihindeki Türkiye Cumhuriyet Merkez Bankası efektif satış kuru üzerinden Türk lirası karşılığı, alacağın hangi tarihteki kur üzerinden talep edildiği ve faizli alacaklarda faizin türü, oranı, miktarı ve işlemeye başladığı gün\n e) Takip dayanağı belgelerin tarih ve numarası ile alacağın son ödeme tarihi\n f) Haciz ve müteakip işlemler için yetkili icra dairesi\n (3) Son ödeme tarihi belirtilen alacağa ilişkin fatura veya benzeri belgeler sisteme yüklenir.\n (4) Takip talebi ikinci fıkra uyarınca doldurulduktan, ilgili belgeler taranıp sisteme yüklendikten ve takip harç ve masrafları elektronik ortamda ödendikten sonra, güvenli elektronik imzayla onaylanır, sisteme kaydedilir ve takip, Merkezî Takip Numarası alır. İcra takibi, sisteme kaydedilmekle başlar.",
+      "preview": "(1) Alacaklı avukatı, icra takibini başlatmak için Merkezî Takip Sisteminde yer alan takip talebini doldurur. (2) Takip talebinde aşağıdaki…",
+      "kitap": null,
+      "kisim": null,
+      "bolum": null,
+      "ayirim": null,
+      "maddeBaslik": "Takip talebi",
+      "sectionPath": [
+        "Takip talebi"
+      ]
+    },
+    {
+      "id": "kanun:7155:m:5",
+      "maddeKind": "madde",
+      "maddeNo": "5",
+      "heading": "Madde 5",
+      "text": "(1) Takip talebinin sisteme kaydedilmesinden sonra sistem tarafından ödeme emri düzenlenir. Ödeme emrinde, takip talebinde yer alan bilgiler yanında aşağıdaki hususlar yer alır:\n a) Toplam borç miktarı ile takip harç ve masraflarının, tebliğden itibaren yedi gün içinde alacaklının veya avukatının Merkezî Takip Sistemi ile ilişkilendirilmiş hesap numarasına ödenmesi gerektiği\n b) Yetkiye, borcun tamamına veya bir kısmına ya da alacaklının takibat icrası hakkına dair bir itirazı varsa bunun da aynı süre içinde beyan edilmesi gerektiği\n c) Sadece yetkiye itiraz hâlinde yeniden ödeme emri tebliğ edilmeksizin alacaklının talebi üzerine, yetki itirazında gösterilen veya mahkemece yetkili görülen icra dairesinden haciz işlemlerinin başlatılacağı\n ç) İtirazların, herhangi bir icra dairesi aracılığıyla veya güvenli elektronik imza kullanılarak Merkezî Takip Sistemi üzerinden yapılabileceği\n d) Borç ödenmez veya itiraz olunmazsa yetkili icra dairesi aracılığıyla cebrî icraya devam edileceği\n (2) Bu Kanun kapsamındaki takiplerde Merkezî Takip Sistemi harcı alınır; ayrıca icraya başvurma harcı ile tahsil harcı alınmaz.\n (3) Merkezî Takip Numarası alan ödeme emri ile tebliğ mazbatalı kapalı zarfa ilişkin bilgiler, sistem üzerinden ilgili Posta ve Telgraf Teşkilatı Anonim Şirketi (PTT) birimine iletilir.",
+      "preview": "(1) Takip talebinin sisteme kaydedilmesinden sonra sistem tarafından ödeme emri düzenlenir. Ödeme emrinde, takip talebinde yer alan bilgiler…",
+      "kitap": null,
+      "kisim": null,
+      "bolum": null,
+      "ayirim": null,
+      "maddeBaslik": "Ödeme emri",
+      "sectionPath": [
+        "Ödeme emri"
+      ]
+    },
+    {
+      "id": "kanun:7155:m:6",
+      "maddeKind": "madde",
+      "maddeNo": "6",
+      "heading": "Madde 6",
+      "text": "(1) Ödeme emrini sistem üzerinden alan PTT birimi, ödeme emrinin ve tebliğ mazbatalı kapalı zarfın çıktısını alır ve 11/2/1959 tarihli ve 7201 sayılı Tebligat Kanunu hükümleri uyarınca borçluya tebliğ eder.\n (2) Borçlu, tebligatın elektronik yolla yapılması zorunlu olan kişilerden ise zorunlu elektronik tebligata ilişkin hükümler uygulanır.\n (3) Tebliğ durumunu belgeleyen mazbata, ilgili PTT birimi tarafından sisteme yüklenir ve mazbatanın aslı, alacaklı avukatının takip talebinde bildirdiği icra dairesine gönderilir. Alacaklı avukatı, buna ilişkin gideri, takibi başlatırken yatırmak zorundadır.\n (4) Adresin tebligata elverişli olmadığının anlaşılması veya tebligat yapılamaması hâlinde, takibe devam etmek isteyen alacaklı avukatı, sistem üzerinden, borçlunun adres kayıt sisteminde yer alan yerleşim yeri adresine tebligat çıkarılmasını sağlar.\n (5) Borçluya dördüncü fıkra uyarınca da tebligat yapılamaması veya borçlunun yerleşim yeri adresinin yurt dışında bulunduğunun anlaşılması hâlinde, alacaklı avukatının talebi üzerine, harçlar ikmal edilerek icra dairesinde takibe devam edilir. Bu durumda sistem üzerindeki takip kapatılır.\n (6) Takip konusu borç, takip harç ve masrafları ile birlikte, ödeme emrinde belirtilen hesap numarasına ödendiğinde takip sona erer.\n (7) Ödenen para, 30/6/1934 tarihli ve 2548 sayılı Ceza Evleriyle Mahkeme Binaları İnşası Karşılığı Olarak Alınacak Harçlar ve Mahkûmlara Ödettirilecek Yiyecek Bedelleri Hakkında Kanun uyarınca alacaklıdan alınması gereken harç miktarı ayrıldıktan sonra ilgili hesaba aktarılır.",
+      "preview": "(1) Ödeme emrini sistem üzerinden alan PTT birimi, ödeme emrinin ve tebliğ mazbatalı kapalı zarfın çıktısını alır ve 11/2/1959 tarihli ve 72…",
+      "kitap": null,
+      "kisim": null,
+      "bolum": null,
+      "ayirim": null,
+      "maddeBaslik": "Ödeme emrinin tebliği ve borcun ödenmesi",
+      "sectionPath": [
+        "Ödeme emrinin tebliği ve borcun ödenmesi"
+      ]
+    },
+    {
+      "id": "kanun:7155:m:7",
+      "maddeKind": "madde",
+      "maddeNo": "7",
+      "heading": "Madde 7",
+      "text": "(1) Borçlu, ödeme emrinin tebliğinden itibaren yedi gün içinde, herhangi bir icra dairesine başvurarak ödeme emrine itiraz edebilir. İcra dairesi, itiraza ilişkin evrakı, en geç iki iş günü içinde sisteme yükler, aslını alacaklının takip talebinde bildirdiği icra dairesine gönderir. Borçluya, itiraz ettiğine ilişkin ücretsiz bir alındı belgesi verilir.\n (2) Merkezî Takip Sistemi üzerinden güvenli elektronik imza kullanılarak da itiraz edilebilir.\n (3) Süresi içinde borca yapılan itiraz üzerine icra takibi durur. Duran takip hakkında, 9/6/1932 tarihli ve 2004 sayılı İcra ve İflas Kanununun ilgili hükümleri uygulanır.\n (4) İtiraz, itirazın sisteme yüklendiği tarihi izleyen beşinci günün sonunda alacaklı avukatına tebliğ edilmiş sayılır.\n (5) Sadece yetkiye itiraz hâlinde alacaklı avukatı, yetki itirazında gösterilen icra dairesinde haciz işlemlerini başlatabilir. Takip talebinde belirtilen icra dairesinde haciz işlemlerinin başlatılabilmesi için bu dairenin bağlı bulunduğu mahkemede yetki itirazının kaldırılması şarttır. Mahkeme, yetki itirazını dosya üzerinden inceleyip kesin olarak karara bağlar. Mahkemenin yetkili gördüğü icra dairesinde haciz işlemlerinin başlatılabilmesi için yeniden ödeme emri tebliği gerekmez.",
+      "preview": "(1) Borçlu, ödeme emrinin tebliğinden itibaren yedi gün içinde, herhangi bir icra dairesine başvurarak ödeme emrine itiraz edebilir. İcra da…",
+      "kitap": null,
+      "kisim": null,
+      "bolum": null,
+      "ayirim": null,
+      "maddeBaslik": "Ödeme emrine itiraz",
+      "sectionPath": [
+        "Ödeme emrine itiraz"
+      ]
+    },
+    {
+      "id": "kanun:7155:m:8",
+      "maddeKind": "madde",
+      "maddeNo": "8",
+      "heading": "Madde 8",
+      "text": "(1) Ödeme emrine itiraz edilmemesi veya itirazın hükümden düşürülmesine rağmen süresi içinde ödeme yapılmaması hâlinde, alacaklının yetkili icra dairesi nezdinde yapacağı talep üzerine 2004 sayılı Kanunun ilgili hükümleri uyarınca cebrî icraya devam olunur.\n (2) İcra müdürü, cebrî icraya devam edilmesi talep edildiğinde; alacağın bu Kanun kapsamında bulunduğunu, ödeme emrinin tebliğ edildiğini, takibe itiraz edilmediğini veya itirazın hükümden düşürüldüğünü tespit ederse cebrî icra işlemlerine devam eder. Aksi hâlde gerekçesini belirterek talebi reddeder. Verilen kararlara karşı alacaklı veya borçlu şikâyet yoluna başvurabilir.\n (3) İkinci fıkra uyarınca cebrî icra işlemlerine devam edilmesinin mümkün olduğu hâllerde, alacaklı avukatı dilerse haciz talebinde bulunmaksızın UYAP üzerinden, bu sisteme entegre bilişim sistemleri vasıtasıyla borçlunun mal, hak veya alacağı olup olmadığını sorgulayabilir. (Mülga cümleler:22/7/2020-7251/62 md.) (…)\n (4) Ödeme emrinin tebliği tarihinden itibaren beş yıl içinde haciz talep edilmezse takip düşer. İtirazın hükümden düşürülmesine ilişkin dava açılması hâlinde davanın açıldığı tarihten hükmün kesinleşmesine kadar geçen süre hesaba katılmaz.[1]\n\n Hüküm bulunmayan hâller ve yönetmelik",
+      "preview": "(1) Ödeme emrine itiraz edilmemesi veya itirazın hükümden düşürülmesine rağmen süresi içinde ödeme yapılmaması hâlinde, alacaklının yetkili…",
+      "kitap": null,
+      "kisim": null,
+      "bolum": null,
+      "ayirim": null,
+      "maddeBaslik": "Ödeme emrine itiraz edilmemesi veya itirazın hükümden düşürülmesi",
+      "sectionPath": [
+        "Ödeme emrine itiraz edilmemesi veya itirazın hükümden düşürülmesi"
+      ]
+    },
+    {
+      "id": "kanun:7155:m:9",
+      "maddeKind": "madde",
+      "maddeNo": "9",
+      "heading": "Madde 9",
+      "text": "(1) Bu Kanunda hüküm bulunmayan hâllerde 2004 sayılı Kanun hükümleri uygulanır.\n (2) Bu Kanunun uygulanmasına ilişkin hususlar Adalet Bakanlığınca yürürlüğe konulan yönetmelikle düzenlenir.",
+      "preview": "(1) Bu Kanunda hüküm bulunmayan hâllerde 2004 sayılı Kanun hükümleri uygulanır. (2) Bu Kanunun uygulanmasına ilişkin hususlar Adalet Bakanlı…",
+      "kitap": null,
+      "kisim": null,
+      "bolum": null,
+      "ayirim": null,
+      "maddeBaslik": "Ödeme emrine itiraz edilmemesi veya itirazın hükümden düşürülmesi",
+      "sectionPath": [
+        "Ödeme emrine itiraz edilmemesi veya itirazın hükümden düşürülmesi"
+      ]
+    },
+    {
+      "id": "kanun:7155:m:gecici:1",
+      "maddeKind": "gecici",
+      "maddeNo": "1",
+      "heading": "Geçici Madde 1",
+      "text": "(1) Bu Kanunun abonelik sözleşmesinden kaynaklanan para alacaklarının takibine ilişkin hükümleri, Kanunun yürürlüğe girdiği tarihte derdest olan takipler hakkında uygulanmaz; bu takipler, açıldıkları tarihte yürürlükte bulunan hükümler uyarınca yürütülür.",
+      "preview": "(1) Bu Kanunun abonelik sözleşmesinden kaynaklanan para alacaklarının takibine ilişkin hükümleri, Kanunun yürürlüğe girdiği tarihte derdest…",
+      "kitap": null,
+      "kisim": null,
+      "bolum": null,
+      "ayirim": null,
+      "maddeBaslik": "Geçiş hükmü",
+      "sectionPath": [
+        "Geçiş hükmü"
+      ]
+    },
+    {
+      "id": "kanun:7155:m:10",
+      "maddeKind": "madde",
+      "maddeNo": "10",
+      "heading": "Madde 10",
+      "text": "17-(2004 sayılı Kanun ile ilgili olup yerine işlenmiştir.)",
+      "preview": "17-(2004 sayılı Kanun ile ilgili olup yerine işlenmiştir.)",
+      "kitap": null,
+      "kisim": null,
+      "bolum": null,
+      "ayirim": null,
+      "maddeBaslik": "Geçiş hükmü",
+      "sectionPath": [
+        "Geçiş hükmü"
+      ]
+    },
+    {
+      "id": "kanun:7155:m:18",
+      "maddeKind": "madde",
+      "maddeNo": "18",
+      "heading": "Madde 18",
+      "text": "19- (2/7/1964 tarihli ve 492 sayılı Harçlar Kanunu ile ilgili olup yerine işlenmiştir.)",
+      "preview": "19- (2/7/1964 tarihli ve 492 sayılı Harçlar Kanunu ile ilgili olup yerine işlenmiştir.)",
+      "kitap": null,
+      "kisim": null,
+      "bolum": null,
+      "ayirim": null,
+      "maddeBaslik": "Geçiş hükmü",
+      "sectionPath": [
+        "Geçiş hükmü"
+      ]
+    },
+    {
+      "id": "kanun:7155:m:20",
+      "maddeKind": "madde",
+      "maddeNo": "20",
+      "heading": "Madde 20",
+      "text": "21- (13/1/2011 tarihli ve 6102 sayılı Türk Ticaret Kanunu ile ilgili olup yerine işlenmiştir.)",
+      "preview": "21- (13/1/2011 tarihli ve 6102 sayılı Türk Ticaret Kanunu ile ilgili olup yerine işlenmiştir.)",
+      "kitap": null,
+      "kisim": null,
+      "bolum": null,
+      "ayirim": null,
+      "maddeBaslik": "Geçiş hükmü",
+      "sectionPath": [
+        "Geçiş hükmü"
+      ]
+    },
+    {
+      "id": "kanun:7155:m:22",
+      "maddeKind": "madde",
+      "maddeNo": "22",
+      "heading": "Madde 22",
+      "text": "23- (7/6/2012 tarihli ve 6325 sayılı Hukuk Uyuşmazlıklarında Arabuluculuk Kanunu ile ilgili olup yerine işlenmiştir.)",
+      "preview": "23- (7/6/2012 tarihli ve 6325 sayılı Hukuk Uyuşmazlıklarında Arabuluculuk Kanunu ile ilgili olup yerine işlenmiştir.)",
+      "kitap": null,
+      "kisim": null,
+      "bolum": null,
+      "ayirim": null,
+      "maddeBaslik": "Geçiş hükmü",
+      "sectionPath": [
+        "Geçiş hükmü"
+      ]
+    },
+    {
+      "id": "kanun:7155:m:24",
+      "maddeKind": "madde",
+      "maddeNo": "24",
+      "heading": "Madde 24",
+      "text": "25- (3/11/2016 tarihli ve 6754 sayılı Bilirkişilik Kanunu ile ilgili olup yerine işlenmiştir.)",
+      "preview": "25- (3/11/2016 tarihli ve 6754 sayılı Bilirkişilik Kanunu ile ilgili olup yerine işlenmiştir.)",
+      "kitap": null,
+      "kisim": null,
+      "bolum": null,
+      "ayirim": null,
+      "maddeBaslik": "Geçiş hükmü",
+      "sectionPath": [
+        "Geçiş hükmü"
+      ]
+    },
+    {
+      "id": "kanun:7155:m:26",
+      "maddeKind": "madde",
+      "maddeNo": "26",
+      "heading": "Madde 26",
+      "text": "(1) Bu Kanunun;\n a) 10, 20 ve 21 inci maddeleri 1/1/2019 tarihinde,\n b) 1 ila 9 uncu maddeleri, geçici 1 inci maddesi, 18 ve 19 uncu maddeleri 1/6/2019 tarihinde,\n c) Diğer maddeleri yayımı tarihinde,\n yürürlüğe girer.",
+      "preview": "(1) Bu Kanunun; a) 10, 20 ve 21 inci maddeleri 1/1/2019 tarihinde, b) 1 ila 9 uncu maddeleri, geçici 1 inci maddesi, 18 ve 19 uncu maddeleri…",
+      "kitap": null,
+      "kisim": null,
+      "bolum": null,
+      "ayirim": null,
+      "maddeBaslik": "Yürürlük",
+      "sectionPath": [
+        "Yürürlük"
+      ]
+    },
+    {
+      "id": "kanun:7155:m:27",
+      "maddeKind": "madde",
+      "maddeNo": "27",
+      "heading": "Madde 27",
+      "text": "(1) Bu Kanun hükümlerini Cumhurbaşkanı yürütür.\n\n Değiştiren Kanunun/\n KHK’nin veya İptal Eden Anayasa Mahkemesi Kararının Numarası\n 7155 Sayılı Kanunun Değişen veya İptal Edilen Maddeleri\n Yürürlüğe Giriş Tarihi\n\n 7251\n 8\n 28/07/2020\n\n 7343\n 8\n 30/11/2021\n\n [1] 24/11/2021 tarihli ve 7343 sayılı Kanunun 56 ncı maddesiyle bu fıkrada yer alan “iki” ibaresi “beş” şeklinde değiştirilmiştir.",
+      "preview": "(1) Bu Kanun hükümlerini Cumhurbaşkanı yürütür. Değiştiren Kanunun/ KHK’nin veya İptal Eden Anayasa Mahkemesi Kararının Numarası 7155 Sayılı…",
+      "kitap": null,
+      "kisim": null,
+      "bolum": null,
+      "ayirim": null,
+      "maddeBaslik": "Yürütme",
+      "sectionPath": [
+        "Yürütme"
+      ]
+    }
+  ]
+}

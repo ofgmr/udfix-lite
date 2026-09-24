@@ -20,6 +20,7 @@ import {
 import { htmlStringToPlainText } from './htmlPlainText';
 import type { UyapSignatureExportOptions } from './uyapSignature';
 import type { UyapParagraphEnd } from './uyapParagraphText';
+import { cssLineHeightToUyapLineSpacing } from './uyapParagraphAttrs';
 
 export type UyapHfLayoutPreset =
     | '1-col'
@@ -54,13 +55,26 @@ export interface UyapHfExportInput {
     footerRaster?: { base64: string; widthPt: string; heightPt: string } | null;
 }
 
-/** UYAP pageFormat defaults aligned with official UDF samples (~42.52 pt margins, A4 portrait). */
+const PX_TO_PT = 72 / 96;
+
+export function pxToUyapPt(px: number): string {
+    if (!Number.isFinite(px)) return '0';
+    const pt = px * PX_TO_PT;
+    if (Math.abs(pt - Math.round(pt)) < 1e-6) return String(Math.round(pt));
+    return pt.toFixed(4).replace(/0+$/, '').replace(/\.$/, '');
+}
+
+/**
+ * UYAP `pageFormat` defaults derived from editor CSS px (ADR-0020).
+ * Horizontal: 57px → 42.75pt (15mm / 42.52pt snapped to integer 96dpi px).
+ * Vertical: PaginationPlus body base (40px → 30pt); HF extra lives in headerFOffset/footerFOffset.
+ */
 export const UYAP_DEFAULT_PAGE_FORMAT = {
     mediaSizeName: '1',
-    leftMargin: '42.51968479156494',
-    rightMargin: '42.51968479156494',
-    topMargin: '42.51968479156494',
-    bottomMargin: '42.51968479156494',
+    leftMargin: pxToUyapPt(EDITOR_PAGE_MARGIN_LEFT_PX),
+    rightMargin: pxToUyapPt(EDITOR_PAGE_MARGIN_RIGHT_PX),
+    topMargin: pxToUyapPt(EDITOR_PAGINATION_BODY_VERTICAL_BASE_PX),
+    bottomMargin: pxToUyapPt(EDITOR_PAGINATION_BODY_VERTICAL_BASE_PX),
     paperOrientation: '1',
     headerFOffset: '20.0',
     footerFOffset: '20.0',
@@ -174,7 +188,6 @@ export interface UyapExportBuildExtras {
 }
 
 const UYAP_IMAGE_PLACEHOLDER_CHAR = '\u00b8';
-const PX_TO_PT = 72 / 96;
 
 const ALIGN_MAP: Record<string, string> = {
     left: '0',
@@ -201,13 +214,6 @@ export function escapeXmlAttr(value: string): string {
         .replace(/&/g, '&amp;')
         .replace(/"/g, '&quot;')
         .replace(/</g, '&lt;');
-}
-
-export function pxToUyapPt(px: number): string {
-    if (!Number.isFinite(px)) return '0';
-    const pt = px * PX_TO_PT;
-    if (Math.abs(pt - Math.round(pt)) < 1e-6) return String(Math.round(pt));
-    return pt.toFixed(4).replace(/0+$/, '').replace(/\.$/, '');
 }
 
 function cssSizeToPx(value: string | number | null | undefined): number | null {
@@ -616,11 +622,35 @@ function uyapParagraphEndForExport(node: JSONContent): UyapParagraphEnd {
     return node.attrs?.nomaiUyapParagraphEnd === '\n\n' ? '\n\n' : '\n';
 }
 
-function appendUyapParagraphEndContent(acc: TextAccumulator, node: JSONContent): string {
-    if (node.attrs?.nomaiUyapSuppressParagraphEnd) return '';
-    const end = uyapParagraphEndForExport(node);
+function appendUyapParagraphEndContent(
+    acc: TextAccumulator,
+    node: JSONContent,
+    endOverride?: UyapParagraphEnd,
+): string {
+    if (endOverride == null && node.attrs?.nomaiUyapSuppressParagraphEnd) return '';
+    const end = endOverride ?? uyapParagraphEndForExport(node);
     const appendedBreak = acc.append(end);
     return `<content startOffset="${appendedBreak.start}" length="${appendedBreak.length}" />`;
+}
+
+/**
+ * UYAP treats a newline inside one `<paragraph>` as ordinary text (often dropped),
+ * so a TipTap hard break is a new paragraph with the same attrs. A paragraph whose
+ * only child is a hard break stays one empty paragraph.
+ */
+function splitParagraphContentOnHardBreaks(content: JSONContent[] | undefined): JSONContent[][] {
+    const segments: JSONContent[][] = [[]];
+    for (const child of content ?? []) {
+        if (child.type === 'hardBreak') {
+            segments.push([]);
+            continue;
+        }
+        segments[segments.length - 1].push(child);
+    }
+    if (segments.length > 1 && segments.every((segment) => segment.length === 0)) {
+        segments.pop();
+    }
+    return segments;
 }
 
 function createTextAccumulator(): TextAccumulator {
@@ -796,10 +826,7 @@ function buildParagraphOpenTag(node: JSONContent, listLevel: number): string {
     const spaceBelow = cssMarginToUyapSpacePt('below', attrs.marginBottom);
     if (spaceBelow) parts.push(`SpaceBelow="${spaceBelow}"`);
 
-    const lineHeight = attrs.lineHeight != null ? String(attrs.lineHeight).trim() : '';
-    if (lineHeight && lineHeight !== '1.5') {
-        parts.push(`LineSpacing="${escapeXmlAttr(lineHeight)}"`);
-    }
+    parts.push(`LineSpacing="${cssLineHeightToUyapLineSpacing(attrs.lineHeight)}"`);
 
     if (attrs.keepWithNext) parts.push('KeepWithNext="true"');
 
@@ -1088,19 +1115,21 @@ export function buildUyapContentXml(
             const needUyapPageBreak =
                 Boolean(node.attrs?.pageBreakBefore) ||
                 (node.type === 'paragraph' && node.attrs?.nomaiSectionStart === 'nextPage');
-            if (needUyapPageBreak) nodeXml += emitUyapPageBreak();
+            const segments = splitParagraphContentOnHardBreaks(node.content);
+            const useTabElements = node.attrs?.nomaiUyapTabElements === true;
 
-            nodeXml += buildParagraphOpenTag(node, listLevel);
+            segments.forEach((segment, segmentIndex) => {
+                if (segmentIndex === 0 && needUyapPageBreak) nodeXml += emitUyapPageBreak();
 
-            if (listLevel >= 0 && listIndex >= 0) {
-                const prefix = getListPrefix(listLevel, listIndex, isOrdered);
-                const appended = acc.append(prefix);
-                nodeXml += `<content startOffset="${appended.start}" length="${appended.length}" bold="true" />`;
-            }
+                nodeXml += buildParagraphOpenTag(node, listLevel);
 
-            if (node.content?.length) {
-                const useTabElements = node.attrs?.nomaiUyapTabElements === true;
-                for (const child of node.content) {
+                if (segmentIndex === 0 && listLevel >= 0 && listIndex >= 0) {
+                    const prefix = getListPrefix(listLevel, listIndex, isOrdered);
+                    const appended = acc.append(prefix);
+                    nodeXml += `<content startOffset="${appended.start}" length="${appended.length}" bold="true" />`;
+                }
+
+                for (const child of segment) {
                     if (child.type === 'text') {
                         const footnoteMark = child.marks?.find((mark: TipTapMark) => mark.type === 'footnote');
                         let text = child.text as string;
@@ -1117,15 +1146,13 @@ export function buildUyapContentXml(
                         }, useTabElements);
                     } else if (child.type === 'image') {
                         nodeXml += buildImageElement(child.attrs, acc);
-                    } else if (child.type === 'hardBreak') {
-                        const appended = acc.append('\n');
-                        nodeXml += `<content startOffset="${appended.start}" length="${appended.length}" />`;
                     }
                 }
-            }
 
-            nodeXml += appendUyapParagraphEndContent(acc, node);
-            nodeXml += '</paragraph>';
+                const endOverride = segmentIndex < segments.length - 1 ? '\n' : undefined;
+                nodeXml += appendUyapParagraphEndContent(acc, node, endOverride);
+                nodeXml += '</paragraph>';
+            });
         } else if (node.type === 'pageBreak') {
             nodeXml += emitUyapPageBreak();
         } else if (node.type === 'image') {

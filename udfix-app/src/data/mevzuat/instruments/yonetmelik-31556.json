@@ -1,0 +1,411 @@
+{
+  "id": "yonetmelik:31556",
+  "kind": "yonetmelik",
+  "no": "31556",
+  "title": "Abonelik Sözleşmesinden Kaynaklanan Para Alacaklarına İlişkin Takibin Başlatılması Usulü Hakkında Yönetmelik",
+  "shortName": "MTSYön",
+  "aliases": [
+    "MTSYön",
+    "E-Takip Yönetmeliği",
+    "Abonelik Sözleşmesinden Kaynaklanan Para Alacaklarına İlişkin Takibin Başlatılması Usulü Hakkında Yönetmelik",
+    "31556"
+  ],
+  "tur": 7,
+  "tertip": 5,
+  "sourceUrl": "https://www.mevzuat.gov.tr/mevzuat?MevzuatNo=31556&MevzuatTur=7&MevzuatTertip=5",
+  "kabulTarihi": null,
+  "maddeCount": 23,
+  "maddeler": [
+    {
+      "id": "yonetmelik:31556:m:1",
+      "maddeKind": "madde",
+      "maddeNo": "1",
+      "heading": "Madde 1",
+      "text": "(1) Bu Yönetmelik, abonelik sözleşmeleri ile bu sözleşmelerin ifası amacıyla tüketiciye sunulup bedeli faturaya yansıtılan mal veya hizmetten kaynaklanan para alacaklarına ilişkin haciz yoluyla ilamsız icra takiplerinin, Ulusal Yargı Ağı Bilişim Sisteminde (UYAP) oluşturulan Merkezi Takip Sistemi (MTS) üzerinden başlatılmasına ve haciz aşamasına kadar yürütülmesine ilişkin usul ve esasları belirlemek amacıyla hazırlanmıştır.",
+      "preview": "(1) Bu Yönetmelik, abonelik sözleşmeleri ile bu sözleşmelerin ifası amacıyla tüketiciye sunulup bedeli faturaya yansıtılan mal veya hizmette…",
+      "kitap": null,
+      "kisim": null,
+      "bolum": "BİRİNCİ BÖLÜM · Amaç, Kapsam, Dayanak ve Tanımlar",
+      "ayirim": null,
+      "maddeBaslik": "Amaç",
+      "sectionPath": [
+        "BİRİNCİ BÖLÜM · Amaç, Kapsam, Dayanak ve Tanımlar",
+        "Amaç"
+      ]
+    },
+    {
+      "id": "yonetmelik:31556:m:2",
+      "maddeKind": "madde",
+      "maddeNo": "2",
+      "heading": "Madde 2",
+      "text": "(1) Bu Yönetmelik hükümleri, 7/11/2013 tarihli ve 6502 sayılı Tüketicinin Korunması Hakkında Kanunda ve diğer mevzuatta düzenlenen abonelik sözleşmeleri ile bu sözleşmelerin ifası amacıyla tüketicinin kullanımına sunulup bedeli faturaya yansıtılan mal ve hizmetten kaynaklanan ve avukat ile takip edilen ilamsız takibe konu para alacaklarının, UYAP bünyesinde oluşturulan MTS üzerinden başlatılmasına ve yürütülmesine ilişkin takip işlemleri hakkında uygulanır.\n (2) Birinci fıkra kapsamındaki icra takipleri ancak bu Yönetmelikte belirlenen yöntemle başlatılabilir, aksi halde icra dairesi takip talebini reddeder.",
+      "preview": "(1) Bu Yönetmelik hükümleri, 7/11/2013 tarihli ve 6502 sayılı Tüketicinin Korunması Hakkında Kanunda ve diğer mevzuatta düzenlenen abonelik…",
+      "kitap": null,
+      "kisim": null,
+      "bolum": "BİRİNCİ BÖLÜM · Amaç, Kapsam, Dayanak ve Tanımlar",
+      "ayirim": null,
+      "maddeBaslik": "Kapsam",
+      "sectionPath": [
+        "BİRİNCİ BÖLÜM · Amaç, Kapsam, Dayanak ve Tanımlar",
+        "Kapsam"
+      ]
+    },
+    {
+      "id": "yonetmelik:31556:m:3",
+      "maddeKind": "madde",
+      "maddeNo": "3",
+      "heading": "Madde 3",
+      "text": "(1) Bu Yönetmelik, 6/12/2018 tarihli ve 7155 sayılı Abonelik Sözleşmesinden Kaynaklanan Para Alacaklarına İlişkin Takibin Başlatılması Usulü Hakkında Kanunun 9 uncu maddesinin ikinci fıkrasına dayanılarak hazırlanmıştır.",
+      "preview": "(1) Bu Yönetmelik, 6/12/2018 tarihli ve 7155 sayılı Abonelik Sözleşmesinden Kaynaklanan Para Alacaklarına İlişkin Takibin Başlatılması Usulü…",
+      "kitap": null,
+      "kisim": null,
+      "bolum": "BİRİNCİ BÖLÜM · Amaç, Kapsam, Dayanak ve Tanımlar",
+      "ayirim": null,
+      "maddeBaslik": "Dayanak",
+      "sectionPath": [
+        "BİRİNCİ BÖLÜM · Amaç, Kapsam, Dayanak ve Tanımlar",
+        "Dayanak"
+      ]
+    },
+    {
+      "id": "yonetmelik:31556:m:4",
+      "maddeKind": "madde",
+      "maddeNo": "4",
+      "heading": "Madde 4",
+      "text": "(1) Bu Yönetmelikte geçen;\n a) Bakanlık: Adalet Bakanlığını,\n b) Banka: Adalet Bakanlığı ile entegrasyon yapan ve bu Yönetmelik kapsamındaki borç ödemelerini kabul etmeye yetkili bankalar ile elektronik para kuruluşlarını,\n c) Başkanlık: İcra İşleri Dairesi Başkanlığını,\n ç) Güvenli elektronik imza: 15/1/2004 tarihli ve 5070 sayılı Elektronik İmza Kanununun 4 üncü maddesinde nitelikleri belirtilen güvenli elektronik imzayı,\n d) Hesap numarası: Hesaba ait banka IBAN numarasını,\n e) Kanun: 6/12/2018 tarihli ve 7155 sayılı Abonelik Sözleşmesinden Kaynaklanan Para Alacaklarına İlişkin Takibin Başlatılması Usulü Hakkında Kanunu,\n f) Komisyon: Adli Yargı İlk Derece Mahkemesi Adalet Komisyonunu,\n g) MTS: Kanun ve bu Yönetmelikte belirtilen takip işlemlerinin elektronik ortamda yapılmasını sağlamak amacıyla, UYAP bünyesinde yer alan ve Adalet Bakanlığı Bilgi İşlem Genel Müdürlüğü altında tanımlanan, Hazine ve Maliye Bakanlığı, Posta ve Telgraf Teşkilatı Anonim Şirketi (PTT), banka ve diğer ilgili kurum ve kuruluşlar ile entegrasyonu sağlanan takip sistemini,\n ğ) Muhabere icra dairesi: Birden fazla icra dairesinin bulunduğu mahallerde muhabere işini yapmakla görevli icra dairesini,\n h) PTT: Posta ve Telgraf Teşkilatı Anonim Şirketini,\n ı) UYAP: Ulusal Yargı Ağı Bilişim Sistemini,\n ifade eder.",
+      "preview": "(1) Bu Yönetmelikte geçen; a) Bakanlık: Adalet Bakanlığını, b) Banka: Adalet Bakanlığı ile entegrasyon yapan ve bu Yönetmelik kapsamındaki b…",
+      "kitap": null,
+      "kisim": null,
+      "bolum": "BİRİNCİ BÖLÜM · Amaç, Kapsam, Dayanak ve Tanımlar",
+      "ayirim": null,
+      "maddeBaslik": "Tanımlar",
+      "sectionPath": [
+        "BİRİNCİ BÖLÜM · Amaç, Kapsam, Dayanak ve Tanımlar",
+        "Tanımlar"
+      ]
+    },
+    {
+      "id": "yonetmelik:31556:m:5",
+      "maddeKind": "madde",
+      "maddeNo": "5",
+      "heading": "Madde 5",
+      "text": "(1) Alacaklı avukatı tarafından doldurulan takip talebinde aşağıdaki hususlar yer alır:\n a) Alacaklının ve varsa kanuni temsilcisi ile avukatının adı ve soyadı, Türkiye Cumhuriyeti kimlik numarası; tüzel kişi ise unvanı, vergi kimlik numarası, ticaret sicil numarası ve Merkezi Sicil Kayıt Sistemi (MERSİS) numarası; adresi, telefon numarası ve elektronik iletişim bilgileri.\n b) Alacaklı veya avukatının münhasıran MTS ile ilişkilendirilmiş ve banka tarafından da sadece bu Yönetmelik kapsamındaki borç tutarının yatırılmasına özgülenmiş hesap numarası.\n c) Borçlunun ve varsa kanuni temsilcisinin adı ve soyadı, Türkiye Cumhuriyeti kimlik numarası; tüzel kişi ise unvanı, vergi kimlik numarası, biliniyorsa ticaret sicil numarası ve MERSİS numarası; adresi, biliniyorsa telefon numarası ve elektronik iletişim bilgileri.\n ç) Terekeye karşı yapılan takiplerde kendilerine tebligat yapılacak mirasçıların adı ve soyadı, Türkiye Cumhuriyeti kimlik numarası ile adresi.\n d) Alacağın tutarı ve faizli alacaklarda faizin türü, oranı, miktarı ve işlemeye başladığı gün; alacak yabancı para ise harca esas olmak üzere takip tarihindeki Türkiye Cumhuriyet Merkez Bankası efektif satış kuru üzerinden Türk Lirası karşılığı, alacağın hangi tarihteki kur üzerinden talep edildiği ve faizli alacaklarda faizin türü, oranı, miktarı ve işlemeye başladığı gün.\n e) Takip dayanağı belgelerin tarih ve numarası ile alacağın son ödeme tarihi.\n f) Haciz ve müteakip işlemler için yetkili icra dairesi.\n (2) MTS’ye bilgi girişi yapan avukat, takip talebindeki bilgilerin doğru ve eksiksiz girilmesinden sorumludur.\n (3) Avukat tarafından takip talebinin doldurulmasından sonra son ödeme tarihi belirtilen alacağa ilişkin fatura veya benzeri belgeler MTS’ye taranmak suretiyle yüklenir.\n (4) Üçüncü fıkrada belirtilen fatura veya benzeri belgeler, borçluya tebliğ edilmez.",
+      "preview": "(1) Alacaklı avukatı tarafından doldurulan takip talebinde aşağıdaki hususlar yer alır: a) Alacaklının ve varsa kanuni temsilcisi ile avukat…",
+      "kitap": null,
+      "kisim": null,
+      "bolum": "İKİNCİ BÖLÜM · Takip Talebi ve Ödeme Emri ile Takibin Başlaması ve Sona Ermesi",
+      "ayirim": null,
+      "maddeBaslik": "Takip talebi",
+      "sectionPath": [
+        "İKİNCİ BÖLÜM · Takip Talebi ve Ödeme Emri ile Takibin Başlaması ve Sona Ermesi",
+        "Takip talebi"
+      ]
+    },
+    {
+      "id": "yonetmelik:31556:m:6",
+      "maddeKind": "madde",
+      "maddeNo": "6",
+      "heading": "Madde 6",
+      "text": "(1) Takip talebi 5 inci maddenin birinci fıkrası uyarınca doldurulduktan, ilgili belgeler taranıp MTS’ye yüklendikten ve takip harç ve masrafları elektronik ortamda ödendikten sonra güvenli elektronik imza ile onaylanır, MTS’ye kaydedilir ve merkezi takip numarası alır. İcra takibi MTS’ye kaydedildiği anda başlamış olur.",
+      "preview": "(1) Takip talebi 5 inci maddenin birinci fıkrası uyarınca doldurulduktan, ilgili belgeler taranıp MTS’ye yüklendikten ve takip harç ve masra…",
+      "kitap": null,
+      "kisim": null,
+      "bolum": "İKİNCİ BÖLÜM · Takip Talebi ve Ödeme Emri ile Takibin Başlaması ve Sona Ermesi",
+      "ayirim": null,
+      "maddeBaslik": "Takibin başlaması",
+      "sectionPath": [
+        "İKİNCİ BÖLÜM · Takip Talebi ve Ödeme Emri ile Takibin Başlaması ve Sona Ermesi",
+        "Takibin başlaması"
+      ]
+    },
+    {
+      "id": "yonetmelik:31556:m:7",
+      "maddeKind": "madde",
+      "maddeNo": "7",
+      "heading": "Madde 7",
+      "text": "(1) Takip talebinin MTS’ye kaydedilmesinden sonra bu talebe uygun olarak MTS tarafından otomatik olarak ödeme emri düzenlenir.\n (2) Ödeme emrinde takip talebinde yer alan bilgiler yanında aşağıdaki hususlar bulunur:\n a) Toplam borç miktarı ile takip harç ve masraflarının, tebliğden itibaren yedi gün içinde alacaklının veya avukatının MTS ile ilişkilendirilmiş hesap numarasına ödenmesi gerektiği.\n b) Yetkiye, borcun tamamına veya bir kısmına ya da alacaklının takibat icrası hakkına dair bir itirazı varsa bunun da aynı süre içinde beyan edilmesi gerektiği.\n c) Sadece yetkiye itiraz hâlinde yeniden ödeme emri tebliğ edilmeksizin alacaklının talebi üzerine, yetki itirazında gösterilen veya mahkemece yetkili görülen icra dairesinden haciz işlemlerinin başlatılacağı.\n ç) İtirazların, herhangi bir icra dairesi aracılığıyla veya güvenli elektronik imza kullanılarak MTS ile entegreçalışan UYAP Vatandaş Portal üzerinden yapılabileceği.\n d) Borç ödenmez veya itiraz olunmazsa yetkili icra dairesi aracılığıyla cebrî icraya devam edileceği.",
+      "preview": "(1) Takip talebinin MTS’ye kaydedilmesinden sonra bu talebe uygun olarak MTS tarafından otomatik olarak ödeme emri düzenlenir. (2) Ödeme emr…",
+      "kitap": null,
+      "kisim": null,
+      "bolum": "İKİNCİ BÖLÜM · Takip Talebi ve Ödeme Emri ile Takibin Başlaması ve Sona Ermesi",
+      "ayirim": null,
+      "maddeBaslik": "Ödeme emri",
+      "sectionPath": [
+        "İKİNCİ BÖLÜM · Takip Talebi ve Ödeme Emri ile Takibin Başlaması ve Sona Ermesi",
+        "Ödeme emri"
+      ]
+    },
+    {
+      "id": "yonetmelik:31556:m:8",
+      "maddeKind": "madde",
+      "maddeNo": "8",
+      "heading": "Madde 8",
+      "text": "(1) Borçlu, tebligatın elektronik yolla yapılması zorunlu olan kişilerden ise ödeme emri, 11/2/1959 tarihli ve 7201 sayılı Tebligat Kanununun hükümleri uyarınca borçluya elektronik tebligat yoluyla gönderilir.\n (2) Borçlu, tebligatın elektronik yolla yapılması zorunlu kişilerden değil ise ödeme emri ile tebliğ mazbatalı kapalı zarf, UYAP üzerinden ilgili PTT birimine iletilir.\n (3) Ödeme emrini ve tebliğ mazbatalı kapalı zarfı UYAP üzerinden alan PTT birimi, bunların çıktısını alır ve 7201 sayılı Kanun hükümleri uyarınca borçluya tebliğ eder.\n (4) Tebliğ durumunu belgeleyen mazbata taranarak, tebligatın akıbetine ilişkin bilgiler ise veri girişi yapılarak ilgili PTT birimi tarafından gecikmeksizin UYAP’a yüklenir. Mazbatanın aslı, ilgili PTT birimi tarafından alacaklı avukatının takip talebinde bildirdiği icra dairesine gönderilir. Alacaklı avukatı buna ilişkin PTT tarafından belirlenen gideri takibi başlatırken yatırmak zorundadır.\n (5) Adresin tebligata elverişli olmadığının anlaşılması veya tebligat yapılamaması hâlinde, takibe devam etmek isteyen alacaklı avukatının istemi üzerine, MTS üzerinden borçlunun adres kayıt sisteminde yer alan yerleşim yeri adresine tebligat çıkarılır. Alacaklı avukatı, tebligat çıkarılırken tebligat giderini ödemek zorundadır.\n (6) Borçluya beşinci fıkra uyarınca da tebligat yapılamaması veya borçlunun yerleşim yeri adresinin yurt dışında bulunduğunun anlaşılması hâlinde, alacaklı avukatının talebi üzerine, harçlar ikmal edilerek icra dairesinde takibe devam edilir. İcra dairesinde takibe devam edilebilmesi için alacaklı avukatının MTS üzerindeki takibi “tebliğ imkânsızlığı” seçeneğini seçerek kapatması zorunludur. Bu sebeple dosyanın kapatılmaması hâlinde son işlem tarihinden itibaren (Değişik ibare:RG-21/12/2023-32406) beş yıl geçmekle takip otomatik olarak kapatılır.",
+      "preview": "(1) Borçlu, tebligatın elektronik yolla yapılması zorunlu olan kişilerden ise ödeme emri, 11/2/1959 tarihli ve 7201 sayılı Tebligat Kanununu…",
+      "kitap": null,
+      "kisim": null,
+      "bolum": "İKİNCİ BÖLÜM · Takip Talebi ve Ödeme Emri ile Takibin Başlaması ve Sona Ermesi",
+      "ayirim": null,
+      "maddeBaslik": "Ödeme emrinin tebliği",
+      "sectionPath": [
+        "İKİNCİ BÖLÜM · Takip Talebi ve Ödeme Emri ile Takibin Başlaması ve Sona Ermesi",
+        "Ödeme emrinin tebliği"
+      ]
+    },
+    {
+      "id": "yonetmelik:31556:m:9",
+      "maddeKind": "madde",
+      "maddeNo": "9",
+      "heading": "Madde 9",
+      "text": "(1) Takip konusu borcun tamamı, takip harç ve masraflarıyla birlikte ödeme emrinde belirtilen hesap numarasına tahsilat kanalları ile ödendiğinde, MTS tarafından takip sona erdirilir.\n (2) Borç haricen tahsil edildiği takdirde alacaklı avukatı tarafından MTS ortamında haricen tahsil seçeneği seçilerek takip sona erdirilir.\n (3) Alacaklı, alacağından feragat ettiği takdirde, alacaklı avukatı tarafından MTS ortamında feragat seçeneği seçilerek takip sona erdirilir.\n (4) Birinci fıkra uyarınca takip sona erdiği takdirde banka, 30/6/1934 tarihli ve 2548 sayılı Ceza Evleriyle Mahkeme Binaları İnşası Karşılığı Olarak Alınacak Harçlar ve Mahkûmlara Ödettirilecek Yiyecek Bedelleri Hakkında Kanun uyarınca alacaklıdan alınması gereken harcı, ödenen paradan ayırarak Bakanlığın belirleyeceği hesaba aktarır. Bunun dışında yapılan ödemeler haricen tahsilat hükmündedir.",
+      "preview": "(1) Takip konusu borcun tamamı, takip harç ve masraflarıyla birlikte ödeme emrinde belirtilen hesap numarasına tahsilat kanalları ile ödendi…",
+      "kitap": null,
+      "kisim": null,
+      "bolum": "İKİNCİ BÖLÜM · Takip Talebi ve Ödeme Emri ile Takibin Başlaması ve Sona Ermesi",
+      "ayirim": null,
+      "maddeBaslik": "Takibin sona ermesi",
+      "sectionPath": [
+        "İKİNCİ BÖLÜM · Takip Talebi ve Ödeme Emri ile Takibin Başlaması ve Sona Ermesi",
+        "Takibin sona ermesi"
+      ]
+    },
+    {
+      "id": "yonetmelik:31556:m:10",
+      "maddeKind": "madde",
+      "maddeNo": "10",
+      "heading": "Madde 10",
+      "text": "(1) Kısmi ödeme halinde alacaklı ödemeyi reddedemez.\n (2) Kısmi ödeme durumunda, 9 uncu maddenin dördüncü fıkrası uyarınca alınması gereken harç yapılan ödeme miktarı üzerinden hesaplanarak alınır.\n (3) Kısmi ödeme durumunda, haciz yoluyla takibe geçilmesi hâlinde kalan miktar üzerinden takibe devam olunur.",
+      "preview": "(1) Kısmi ödeme halinde alacaklı ödemeyi reddedemez. (2) Kısmi ödeme durumunda, 9 uncu maddenin dördüncü fıkrası uyarınca alınması gereken h…",
+      "kitap": null,
+      "kisim": null,
+      "bolum": "İKİNCİ BÖLÜM · Takip Talebi ve Ödeme Emri ile Takibin Başlaması ve Sona Ermesi",
+      "ayirim": null,
+      "maddeBaslik": "Kısmi ödeme",
+      "sectionPath": [
+        "İKİNCİ BÖLÜM · Takip Talebi ve Ödeme Emri ile Takibin Başlaması ve Sona Ermesi",
+        "Kısmi ödeme"
+      ]
+    },
+    {
+      "id": "yonetmelik:31556:m:11",
+      "maddeKind": "madde",
+      "maddeNo": "11",
+      "heading": "Madde 11",
+      "text": "(1) Borçlu, ödeme emrinin tebliğinden itibaren yedi gün içinde, herhangi bir icra dairesine başvurarak ödeme emrine itiraz edebilir. Posta yolu ile itiraz yapılamaz.\n (2) İcra dairesi, itiraza ilişkin evrakı aynı gün UYAP’a yükler, aslını alacaklının takip talebinde bildirdiği icra dairesine gönderir. Borçluya, itiraz ettiğine ilişkin ücretsiz bir alındı belgesi verilir.\n (3) Güvenli elektronik imza kullanılarak MTS ile entegre çalışan UYAP Vatandaş Portal üzerinden de itiraz edilebilir. İtiraz evrakı MTS’ye kaydedildikten sonra PTT’nin UYAP’a bildirdiği tebliğ tarihi verisinden itibaren yedi günlük itiraz süresinin geçtiği tespit edilirse bilgi amacıyla uyarı verilir.\n (4) İtiraz, itirazın MTS dosyasına yüklendiği tarihi izleyen beşinci günün sonunda alacaklı avukatına tebliğ edilmiş sayılır.\n (5) PTT’nin UYAP’a bildirdiği tebliğ tarihi verisinden itirazın süresinde yapıldığı tespit edilirse MTS takibi otomatik olarak durdurur.\n (6) Duran takip hakkında, 2004 sayılı Kanunun ilgili hükümleri uygulanır.\n (7) Sadece yetkiye itiraz hâlinde, alacaklı avukatı MTS üzerinden yetki itirazının kabulü seçeneğini seçerek, UYAP üzerinden entegre bilişim sistemleri vasıtasıyla borçlunun mal, hak veya alacağı olup olmadığını sorgulayabilir veya yetki itirazında gösterilen icra dairesinde haciz işlemlerini başlatabilir. Yetki itirazını kabul eden avukatın, icra dairesinde takibe devam edebilmesi için; MTS üzerinden “Yetki İtirazının Kabulü” seçeneğini seçerek işlem yapması ve varsa harçları ikmal etmesi zorunludur. Bu işlemleri tamamlaması durumunda MTS dosyası kapatılır.\n (8) Takip talebinde belirtilen icra dairesinde haciz işlemlerinin başlatılabilmesi için bu dairenin bağlı bulunduğu mahkemede yetki itirazının kaldırılması şarttır. Mahkeme, yetki itirazını dosya üzerinden inceleyip kesin olarak karara bağlar. Mahkemenin yetkili gördüğü icra dairesinde haciz işlemlerinin başlatılabilmesi için yeniden ödeme emri tebliği gerekmez. Yetki itirazı kaldırıldıktan sonra avukatın, icra dairesinde takibe devam edebilmesi için; MTS üzerinden “Yetki İtirazının Kaldırılması” seçeneğini seçerek işlem yapması ve varsa harçları ikmal etmesi zorunludur.",
+      "preview": "(1) Borçlu, ödeme emrinin tebliğinden itibaren yedi gün içinde, herhangi bir icra dairesine başvurarak ödeme emrine itiraz edebilir. Posta y…",
+      "kitap": null,
+      "kisim": null,
+      "bolum": "İKİNCİ BÖLÜM · Takip Talebi ve Ödeme Emri ile Takibin Başlaması ve Sona Ermesi",
+      "ayirim": null,
+      "maddeBaslik": "Ödeme emrine itiraz",
+      "sectionPath": [
+        "İKİNCİ BÖLÜM · Takip Talebi ve Ödeme Emri ile Takibin Başlaması ve Sona Ermesi",
+        "Ödeme emrine itiraz"
+      ]
+    },
+    {
+      "id": "yonetmelik:31556:m:12",
+      "maddeKind": "madde",
+      "maddeNo": "12",
+      "heading": "Madde 12",
+      "text": "(1) Ödeme emrine itiraz edilmemesi veya itirazın hükümden düşürülmesine rağmen süresi içinde ödeme yapılmaması hâlinde, alacaklının yetkili icra dairesi nezdinde yapacağı talep üzerine 2004 sayılı Kanunun ilgili hükümleri uyarınca cebrî icraya devam olunur.\n (2) Avukatın, icra dairesinde takibe devam edebilmesi için; MTS üzerinden “İcra Takibi Başlat” seçeneğini seçerek işlem yapması ve varsa harçları ikmal etmesi zorunludur. Bu işlemleri tamamlaması durumunda MTS dosyası kapatılır.\n (3) Cebrî icraya devam edilmesi talep edildiğinde; icra müdürü, alacağın Kanun kapsamında bulunduğunu, ödeme emrinin tebliğ edildiğini, takibe itiraz edilmediğini, itirazın süresinde yapılmadığını veya itirazın hükümden düşürüldüğünü tespit ederse cebrî icra işlemlerine devam eder. Aksi hâlde gerekçesini belirterek talebi reddeder. Verilen kararlara karşı alacaklı veya borçlu şikâyet yoluna başvurabilir.\n (4) Üçüncü fıkra uyarınca cebrî icra işlemlerine devam edilmesinin mümkün olduğu hâllerde, icra dairesinde takibe geçmeden önce alacaklı avukatı dilerse haciz talebinde bulunmaksızın UYAP üzerinden, entegre bilişim sistemleri vasıtasıyla borçlunun mal, hak veya alacağı olup olmadığını sorgulayabilir. (Mülga ikinci cümle:RG-21/12/2023-32406) (Mülga üçüncü cümle:RG-21/12/2023-32406)\n (5) Ödeme emrinin tebliği tarihinden itibaren (Değişik ibare:RG-21/12/2023-32406) beş yıl içinde haciz talep edilmezse takip düşer. İtirazın hükümden düşürülmesine ilişkin dava açılması hâlinde davanın açıldığı tarihten hükmün kesinleşmesine kadar geçen süre hesaba katılmaz.",
+      "preview": "(1) Ödeme emrine itiraz edilmemesi veya itirazın hükümden düşürülmesine rağmen süresi içinde ödeme yapılmaması hâlinde, alacaklının yetkili…",
+      "kitap": null,
+      "kisim": null,
+      "bolum": "İKİNCİ BÖLÜM · Takip Talebi ve Ödeme Emri ile Takibin Başlaması ve Sona Ermesi",
+      "ayirim": null,
+      "maddeBaslik": "Ödeme emrine itiraz edilmemesi veya itirazın hükümden düşürülmesi",
+      "sectionPath": [
+        "İKİNCİ BÖLÜM · Takip Talebi ve Ödeme Emri ile Takibin Başlaması ve Sona Ermesi",
+        "Ödeme emrine itiraz edilmemesi veya itirazın hükümden düşürülmesi"
+      ]
+    },
+    {
+      "id": "yonetmelik:31556:m:13",
+      "maddeKind": "madde",
+      "maddeNo": "13",
+      "heading": "Madde 13",
+      "text": "(1) Bu Yönetmelik kapsamında abonelik sözleşmeleri ile bu sözleşmelerin ifası amacıyla tüketiciye sunulup bedeli faturaya yansıtılan mal veya hizmeti sunan gerçek kişiler veya tüzel kişilerin yetkilileri UYAP Kurum Portal üzerinden dilekçe ve şirket yetkilisi olduğunu gösteren belge ile (Değişik ibare:RG-21/12/2023-32406) sicil tasdiknamesini tarayıp güvenli elektronik imza ile imzalayarak Bakanlığa gönderir.\n (2) Bakanlık tarafından birinci fıkra uyarınca gönderilen belgeler incelendikten sonra yetkili olduğu tespit edilenlere şirket yetkilisi rolü tanımlanır.\n (3) Şirket yetkilisi rolü tanımlanan kişi UYAP Kurum Portal üzerinden güvenli elektronik imza ile MTS işlemlerinde yetkili avukatları belirler. Şirket yetkilisi belirlediği avukatları değiştirmeye, yeni avukat eklemeye veya avukat çıkarmaya yetkilidir.\n (4) Avukatın alacaklı adına MTS’de işlem yapabilmesi için yukarıdaki fıkra uyarınca yetkilendirilmesi zorunludur.",
+      "preview": "(1) Bu Yönetmelik kapsamında abonelik sözleşmeleri ile bu sözleşmelerin ifası amacıyla tüketiciye sunulup bedeli faturaya yansıtılan mal vey…",
+      "kitap": null,
+      "kisim": null,
+      "bolum": "ÜÇÜNCÜ BÖLÜM · Avukat Kaydı ile MTS Harcı",
+      "ayirim": null,
+      "maddeBaslik": "Avukat kaydı",
+      "sectionPath": [
+        "ÜÇÜNCÜ BÖLÜM · Avukat Kaydı ile MTS Harcı",
+        "Avukat kaydı"
+      ]
+    },
+    {
+      "id": "yonetmelik:31556:m:14",
+      "maddeKind": "madde",
+      "maddeNo": "14",
+      "heading": "Madde 14",
+      "text": "(1) Bu Yönetmelik kapsamındaki takiplerden MTS harcı peşin alınır.\n (2) Bu Yönetmelik kapsamındaki takip, haciz aşamasına geçilmeden neticelendirilirse icraya başvurma harcı ile tahsil harcı alınmaz.\n (3) Alacaklı avukatı takip talebini güvenli elektronik imza ile onayladıktan sonra MTS harcı ile alacaklı avukatı tarafından ödenen masraflar iade edilmez.\n (4) Kesinleşen MTS takibi ile adresin tebligata elverişli olmadığının veya borçlunun yerleşim yeri adresinin yurt dışında olduğunun anlaşılması veya tebligat yapılamaması durumlarında takibe icra dairesi vasıtasıyla devam edilmesi hâlinde, peşin alınan MTS harcının ödendiği tarihte geçerli olan icraya başvurma harcını aşan kısmı takip sonunda alınacak tahsil harcından mahsup olunur.\n (5) MTS takibinin başında yer almayan avukatın daha sonra vekil olarak MTS’ye eklenmesi durumunda vekaletname suret harcı ve diğer masrafları, herhangi bir mahaldeki MTS ile yetkili icra dairesine yatırır, buna ilişkin evrakı sisteme tarar. İcra müdürü haciz istenmesi hâlinde 12 nci maddenin üçüncü fıkrası uyarınca yapacağı kontrolde birinci cümledeki vekaletname suret harcı ve diğer masrafların yatırılıp yatırılmadığını da kontrol eder.",
+      "preview": "(1) Bu Yönetmelik kapsamındaki takiplerden MTS harcı peşin alınır. (2) Bu Yönetmelik kapsamındaki takip, haciz aşamasına geçilmeden neticele…",
+      "kitap": null,
+      "kisim": null,
+      "bolum": "ÜÇÜNCÜ BÖLÜM · Avukat Kaydı ile MTS Harcı",
+      "ayirim": null,
+      "maddeBaslik": "Merkezi takip sistemi harcı",
+      "sectionPath": [
+        "ÜÇÜNCÜ BÖLÜM · Avukat Kaydı ile MTS Harcı",
+        "Merkezi takip sistemi harcı"
+      ]
+    },
+    {
+      "id": "yonetmelik:31556:m:15",
+      "maddeKind": "madde",
+      "maddeNo": "15",
+      "heading": "Madde 15",
+      "text": "(1) Merkezi Takip Sistemine dayalı icra takiplerinde aşağıda gösterilen kayıtların tutulması zorunludur:\n a) Tebligat mazbatasının muhafaza kaydı.\n b) İtiraz dilekçesi kaydı.",
+      "preview": "(1) Merkezi Takip Sistemine dayalı icra takiplerinde aşağıda gösterilen kayıtların tutulması zorunludur: a) Tebligat mazbatasının muhafaza k…",
+      "kitap": null,
+      "kisim": null,
+      "bolum": "DÖRDÜNCÜ BÖLÜM · Merkezi Takip Sistemi Kayıtları",
+      "ayirim": null,
+      "maddeBaslik": "Merkezi takip sisteminde tutulan kayıtlar",
+      "sectionPath": [
+        "DÖRDÜNCÜ BÖLÜM · Merkezi Takip Sistemi Kayıtları",
+        "Merkezi takip sisteminde tutulan kayıtlar"
+      ]
+    },
+    {
+      "id": "yonetmelik:31556:m:16",
+      "maddeKind": "madde",
+      "maddeNo": "16",
+      "heading": "Madde 16",
+      "text": "(1) PTT tarafından alacaklı avukatının takip talebinde bildirdiği icra dairesine gönderilen tebliğ durumunu belgeleyen mazbata, Komisyon tarafından belirlenecek icra dairesince MTS tebliğ mazbatası kartonunda saklanır. Buna ilişkin ilgili icra dairesi tarafından kayıt tutulur.\n (2) İcra dairesince tutulacak kayıtta; muhatabın adı ve soyadı, MTS numarası, barkod numarası ile PTT tarafından tebligatın icra dairesine verildiği tarih bilgisi yer alır.\n (3) Takibe icra dairesinde devam edilmesi durumunda tebliğ mazbatası takibin açıldığı icra dairesine gönderilir. Gönderilen icra dairesi ve tarihi, tutulan kayda işlenir.",
+      "preview": "(1) PTT tarafından alacaklı avukatının takip talebinde bildirdiği icra dairesine gönderilen tebliğ durumunu belgeleyen mazbata, Komisyon tar…",
+      "kitap": null,
+      "kisim": null,
+      "bolum": "DÖRDÜNCÜ BÖLÜM · Merkezi Takip Sistemi Kayıtları",
+      "ayirim": null,
+      "maddeBaslik": "Tebliğ mazbatasının kaydı ve muhafazası",
+      "sectionPath": [
+        "DÖRDÜNCÜ BÖLÜM · Merkezi Takip Sistemi Kayıtları",
+        "Tebliğ mazbatasının kaydı ve muhafazası"
+      ]
+    },
+    {
+      "id": "yonetmelik:31556:m:17",
+      "maddeKind": "madde",
+      "maddeNo": "17",
+      "heading": "Madde 17",
+      "text": "(1) Borçlunun ödeme emrine itirazına ilişkin evrakı alan muhabere icra dairesi, itiraz dilekçesini aynı gün içinde UYAP’a yükler; aslını ise takip talebinde bildirilen icra dairesine gönderir.\n (2) Yukarıdaki fıkra uyarınca itiraz dilekçesinin gönderileceği adliyedeki Komisyon tarafından belirlenecek icra dairesince borçlunun itiraz dilekçesinin aslı MTS itiraz dilekçesi kartonunda saklanır, buna ilişkin icra dairesi tarafından kayıt tutulur.",
+      "preview": "(1) Borçlunun ödeme emrine itirazına ilişkin evrakı alan muhabere icra dairesi, itiraz dilekçesini aynı gün içinde UYAP’a yükler; aslını ise…",
+      "kitap": null,
+      "kisim": null,
+      "bolum": "DÖRDÜNCÜ BÖLÜM · Merkezi Takip Sistemi Kayıtları",
+      "ayirim": null,
+      "maddeBaslik": "İtiraz dilekçesinin kaydı ve muhafazası",
+      "sectionPath": [
+        "DÖRDÜNCÜ BÖLÜM · Merkezi Takip Sistemi Kayıtları",
+        "İtiraz dilekçesinin kaydı ve muhafazası"
+      ]
+    },
+    {
+      "id": "yonetmelik:31556:m:18",
+      "maddeKind": "madde",
+      "maddeNo": "18",
+      "heading": "Madde 18",
+      "text": "(1) Birden fazla icra dairesinin bulunduğu mahallerde komisyon dairelerden birini MTS takiplerinin yürütüleceği icra dairesi olarak yetkilendirebileceği gibi tevzi sistemine göre tüm dairelere eşit olarak dağıtımını da sağlayabilir.\n (2) Birden fazla icra dairesinin bulunduğu mahallerde komisyon dairelerden birini MTS takiplerine ilişkin itiraz dilekçelerinin ve tebliğ mazbatalarının muhafazası için yetkilendirir.",
+      "preview": "(1) Birden fazla icra dairesinin bulunduğu mahallerde komisyon dairelerden birini MTS takiplerinin yürütüleceği icra dairesi olarak yetkilen…",
+      "kitap": null,
+      "kisim": null,
+      "bolum": "BEŞİNCİ BÖLÜM · Çeşitli ve Son Hükümler",
+      "ayirim": null,
+      "maddeBaslik": "MTS işleri ile yetkili icra dairesi",
+      "sectionPath": [
+        "BEŞİNCİ BÖLÜM · Çeşitli ve Son Hükümler",
+        "MTS işleri ile yetkili icra dairesi"
+      ]
+    },
+    {
+      "id": "yonetmelik:31556:m:19",
+      "maddeKind": "madde",
+      "maddeNo": "19",
+      "heading": "Madde 19",
+      "text": "(1) Planlı bakım, onarım ve güncelleme çalışmaları kapsamında geçici olarak MTS’ye erişim kapatılabilir veya kısıtlanabilir. Bu çalışmaların yapılacağı zaman bilgisi, önceden MTS’de duyurulur ayrıca bu çalışmalar sırasında çalışma yapıldığına ilişkin uyarı verilir.\n (2) Aniden ortaya çıkan sebeplerden dolayı MTS’de yapılacak bakım, onarım ve güncelleme çalışmalarında, önceden duyuru yapılması hariç birinci fıkra gereğince işlem yapılır.\n (3) Entegrasyon yapılan kurumlar ile mutabakat sağlanması amacıyla; günün belirli bir zamanında MTS’ye erişim kapatılabilir veya kısıtlanabilir. Bu durumda birinci fıkra gereğince işlem yapılır.",
+      "preview": "(1) Planlı bakım, onarım ve güncelleme çalışmaları kapsamında geçici olarak MTS’ye erişim kapatılabilir veya kısıtlanabilir. Bu çalışmaların…",
+      "kitap": null,
+      "kisim": null,
+      "bolum": "BEŞİNCİ BÖLÜM · Çeşitli ve Son Hükümler",
+      "ayirim": null,
+      "maddeBaslik": "Bakım, onarım ve güncelleme çalışmaları",
+      "sectionPath": [
+        "BEŞİNCİ BÖLÜM · Çeşitli ve Son Hükümler",
+        "Bakım, onarım ve güncelleme çalışmaları"
+      ]
+    },
+    {
+      "id": "yonetmelik:31556:m:20",
+      "maddeKind": "madde",
+      "maddeNo": "20",
+      "heading": "Madde 20",
+      "text": "(1) Bu Yönetmelikte hüküm bulunmayan hallerde 2004 sayılı Kanun ile 11/4/2005 tarihli ve 25783 sayılı Resmî Gazete’de yayınlanan İcra ve İflas Kanunu Yönetmeliği hükümleri uygulanır.",
+      "preview": "(1) Bu Yönetmelikte hüküm bulunmayan hallerde 2004 sayılı Kanun ile 11/4/2005 tarihli ve 25783 sayılı Resmî Gazete’de yayınlanan İcra ve İfl…",
+      "kitap": null,
+      "kisim": null,
+      "bolum": "BEŞİNCİ BÖLÜM · Çeşitli ve Son Hükümler",
+      "ayirim": null,
+      "maddeBaslik": "Hüküm bulunmayan haller",
+      "sectionPath": [
+        "BEŞİNCİ BÖLÜM · Çeşitli ve Son Hükümler",
+        "Hüküm bulunmayan haller"
+      ]
+    },
+    {
+      "id": "yonetmelik:31556:m:gecici:1",
+      "maddeKind": "gecici",
+      "maddeNo": "1",
+      "heading": "Geçici Madde 1",
+      "text": "(1) Bu Yönetmelik, yürürlüğe girdiği tarihte derdest olan takipler hakkında uygulanmaz; bu takipler hakkında 2004 sayılı Kanun ile İcra ve İflas Kanunu Yönetmeliğinin ilgili hükümleri uygulanır.",
+      "preview": "(1) Bu Yönetmelik, yürürlüğe girdiği tarihte derdest olan takipler hakkında uygulanmaz; bu takipler hakkında 2004 sayılı Kanun ile İcra ve İ…",
+      "kitap": null,
+      "kisim": null,
+      "bolum": "BEŞİNCİ BÖLÜM · Çeşitli ve Son Hükümler",
+      "ayirim": null,
+      "maddeBaslik": "Geçiş hükmü",
+      "sectionPath": [
+        "BEŞİNCİ BÖLÜM · Çeşitli ve Son Hükümler",
+        "Geçiş hükmü"
+      ]
+    },
+    {
+      "id": "yonetmelik:31556:m:21",
+      "maddeKind": "madde",
+      "maddeNo": "21",
+      "heading": "Madde 21",
+      "text": "(1) Bu Yönetmelik 1/6/2019 tarihinde yürürlüğe girer.",
+      "preview": "(1) Bu Yönetmelik 1/6/2019 tarihinde yürürlüğe girer.",
+      "kitap": null,
+      "kisim": null,
+      "bolum": "BEŞİNCİ BÖLÜM · Çeşitli ve Son Hükümler",
+      "ayirim": null,
+      "maddeBaslik": "Yürürlük",
+      "sectionPath": [
+        "BEŞİNCİ BÖLÜM · Çeşitli ve Son Hükümler",
+        "Yürürlük"
+      ]
+    },
+    {
+      "id": "yonetmelik:31556:m:22",
+      "maddeKind": "madde",
+      "maddeNo": "22",
+      "heading": "Madde 22",
+      "text": "(1) Bu Yönetmelik hükümlerini Adalet Bakanı yürütür.\n\n Yönetmeliğin Yayımlandığı Resmî Gazete’nin\n\n Tarihi\n Sayısı\n\n 29/5/2019\n 30788\n\n Yönetmelikte Değişiklik Yapan Yönetmeliklerin Yayımlandığı Resmî Gazetelerin\n\n Tarihi\n Sayısı\n\n 1.\n 21/12/2023\n 32406",
+      "preview": "(1) Bu Yönetmelik hükümlerini Adalet Bakanı yürütür. Yönetmeliğin Yayımlandığı Resmî Gazete’nin Tarihi Sayısı 29/5/2019 30788 Yönetmelikte D…",
+      "kitap": null,
+      "kisim": null,
+      "bolum": "BEŞİNCİ BÖLÜM · Çeşitli ve Son Hükümler",
+      "ayirim": null,
+      "maddeBaslik": "Yürütme",
+      "sectionPath": [
+        "BEŞİNCİ BÖLÜM · Çeşitli ve Son Hükümler",
+        "Yürütme"
+      ]
+    }
+  ]
+}

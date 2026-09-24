@@ -1,0 +1,919 @@
+{
+  "id": "yonetmelik:1134",
+  "kind": "yonetmelik",
+  "no": "1134",
+  "title": "Turizm Tesislerinin Belgelendirilmesine ve Niteliklerine İlişkin Yönetmelik",
+  "shortName": "Turizm Tesis Yön.",
+  "aliases": [
+    "Turizm Tesis Yön.",
+    "Turizm Tesislerinin Belgelendirilmesine ve Niteliklerine İlişkin Yönetmelik",
+    "1134"
+  ],
+  "tur": 21,
+  "tertip": 5,
+  "sourceUrl": "https://www.mevzuat.gov.tr/mevzuat?MevzuatNo=1134&MevzuatTur=21&MevzuatTertip=5",
+  "kabulTarihi": null,
+  "maddeCount": 50,
+  "maddeler": [
+    {
+      "id": "yonetmelik:1134:m:1",
+      "maddeKind": "madde",
+      "maddeNo": "1",
+      "heading": "Madde 1",
+      "text": "(1) Bu Yönetmeliğin amacı; yeni turizm tesisi türlerinin gelişmesine olanak sağlanması, mevcut turizm tesislerinin geliştirilmesi, turizm tesislerinin asgari niteliklerinin belirlenmesi, bu tesisler arasında standart birliğinin sağlanması, kalitenin korunması, sürekliliğinin sağlanması ve yükseltilmesine ilişkin usul ve esasların belirlenmesidir.",
+      "preview": "(1) Bu Yönetmeliğin amacı; yeni turizm tesisi türlerinin gelişmesine olanak sağlanması, mevcut turizm tesislerinin geliştirilmesi, turizm te…",
+      "kitap": null,
+      "kisim": "BİRİNCİ KISIM · Başlangıç Hükümleri",
+      "bolum": "BİRİNCİ BÖLÜM · Amaç, Kapsam, Dayanak ve Tanımlar",
+      "ayirim": null,
+      "maddeBaslik": "Amaç",
+      "sectionPath": [
+        "BİRİNCİ KISIM · Başlangıç Hükümleri",
+        "BİRİNCİ BÖLÜM · Amaç, Kapsam, Dayanak ve Tanımlar",
+        "Amaç"
+      ]
+    },
+    {
+      "id": "yonetmelik:1134:m:2",
+      "maddeKind": "madde",
+      "maddeNo": "2",
+      "heading": "Madde 2",
+      "text": "(1) Bu Yönetmelik; turizm tesislerine turizm belgesi verilmesine, bu tesislerin yönetim, personel ve işletme özellikleri ile uymak zorunda oldukları fiziki şartların ve işletmecilik esaslarının belirlenmesine, tanıtım, bilgilendirme ve uygulanacak fiyat tarifelerinin onaylanmasına ilişkin usul ve esasları kapsar.",
+      "preview": "(1) Bu Yönetmelik; turizm tesislerine turizm belgesi verilmesine, bu tesislerin yönetim, personel ve işletme özellikleri ile uymak zorunda o…",
+      "kitap": null,
+      "kisim": "BİRİNCİ KISIM · Başlangıç Hükümleri",
+      "bolum": "BİRİNCİ BÖLÜM · Amaç, Kapsam, Dayanak ve Tanımlar",
+      "ayirim": null,
+      "maddeBaslik": "Kapsam",
+      "sectionPath": [
+        "BİRİNCİ KISIM · Başlangıç Hükümleri",
+        "BİRİNCİ BÖLÜM · Amaç, Kapsam, Dayanak ve Tanımlar",
+        "Kapsam"
+      ]
+    },
+    {
+      "id": "yonetmelik:1134:m:3",
+      "maddeKind": "madde",
+      "maddeNo": "3",
+      "heading": "Madde 3",
+      "text": "(1) Bu Yönetmelik, 12/3/1982 tarihli ve 2634 sayılı Turizmi Teşvik Kanununun 37 nci maddesinin (A) bendinin (2) numaralı alt bendine dayanılarak hazırlanmıştır.",
+      "preview": "(1) Bu Yönetmelik, 12/3/1982 tarihli ve 2634 sayılı Turizmi Teşvik Kanununun 37 nci maddesinin (A) bendinin (2) numaralı alt bendine dayanıl…",
+      "kitap": null,
+      "kisim": "BİRİNCİ KISIM · Başlangıç Hükümleri",
+      "bolum": "BİRİNCİ BÖLÜM · Amaç, Kapsam, Dayanak ve Tanımlar",
+      "ayirim": null,
+      "maddeBaslik": "Dayanak",
+      "sectionPath": [
+        "BİRİNCİ KISIM · Başlangıç Hükümleri",
+        "BİRİNCİ BÖLÜM · Amaç, Kapsam, Dayanak ve Tanımlar",
+        "Dayanak"
+      ]
+    },
+    {
+      "id": "yonetmelik:1134:m:4",
+      "maddeKind": "madde",
+      "maddeNo": "4",
+      "heading": "Madde 4",
+      "text": "(1) Bu Yönetmelikte geçen;\n a) Ana turizm işletmesi belgesi: Bileşik tesis türlerinde ana işletmeciye verilen belgeyi,\n b) Ana turizm yatırımı belgesi: Bileşik tesis türlerinde ana yatırımcıya verilen belgeyi,\n c) Bakan: Kültür ve Turizm Bakanını,\n ç) Bakanlık: Kültür ve Turizm Bakanlığını,\n d) Belge sahibi: Adına turizm belgesi düzenlenen gerçek veya tüzel kişileri,\n e) Belgelendirme denetimi: Turizm yatırımı belgesinin kısmi turizm işletmesi belgesine veya turizm işletmesi belgesine, kısmi turizm işletmesi belgesinin turizm işletmesi belgesine çevrilmesi ile doğrudan turizm işletmesi belgesi veya kısmi turizm işletmesi belgesi taleplerinin değerlendirilmesi amacıyla gerçekleştirilen denetimi,\n f) Belgelendirme heyeti: Sınıfı bulunan tesislerde belgelendirme denetimini gerçekleştirmek üzere oluşturulan ve en az iki kontrolörden oluşan heyeti,\n g) Çevreye duyarlı konaklama tesisi belgesi: Kısmi turizm işletmesi belgeli veya turizm işletmesi belgeli konaklama tesislerinin; sürdürülebilir turizm kapsamında, çevrenin korunması, çevre bilincinin artırılması, çevreye olan olumlu katkılarının teşvik edilmesi ve özendirilmesi, çevreye duyarlılık yönünde yaptığı çalışmaların değerlendirilmesi amacıyla yapılan çalışma ve değerlendirme sonucunda düzenlenen belgeyi,\n ğ) İşletmeci: Turizm tesisini kendi nam ve hesabına işleten gerçek veya tüzel kişiyi,\n h) Kanun: 2634 sayılı Turizmi Teşvik Kanununu,\n ı) Kısmi turizm işletmesi belgesi: İşletmeye açılan bölümü, bu Yönetmelikte tür ve varsa sınıfı için tanımlanan asgari nitelikleri sağlayan, ayrıca sınıfı bulunması durumunda yapılacak belgelendirme denetiminde sınıfı için belirlenen puan barajını aşan turizm tesislerine, yapılacak olan diğer bölümü yatırım kapsamında tutularak işletme aşamasında verilen belgeyi,\n i) Sektör temsilcisi: Sınıflandırma komisyonunda görevlendirilmek üzere Bakanlıktan kısmi turizm işletmesi veya turizm işletmesi belgeli tesislerin işletmecileri veya genel müdürleri arasından Bakanlık tarafından uygun görülen temsilciyi,\n j) Sınıflandırma çalışması: Bu Yönetmelikte sınıfı bulunan kısmi turizm işletmesi belgeli veya turizm işletmesi belgeli tesislerin sınıfının, sınıflandırma komisyonu tarafından değerlendirilmesini,\n k) Sınıflandırma komisyonu: Sınıflandırma çalışmalarını yürütmek üzere Kanunda belirtilen usule göre oluşturulan komisyonu,\n l) Turizm belgesi: Ana turizm yatırımı belgesi, ana turizm işletmesi belgesi, turizm yatırımı belgesi, kısmi turizm işletmesi belgesi veya turizm işletmesi belgesini,\n m) Turizm işletmesi: Türk veya yabancı uyruklu gerçek veya tüzel kişiler tarafından birlikte veya ayrı ayrı gerçekleştirilen ve turizm sektöründe faaliyet gösteren ticari işletmeleri,\n n) Turizm işletmesi belgesi: Bu Yönetmelikte nitelikleri belirtilen turizm işletmelerine işletme aşamasında verilen belgeyi,\n o) Turizm tesisi: Ayrıntıları ve tamamlayıcı unsurları ile birlikte turizm yatırımı kapsamında bulunan veya turizm işletmesi faaliyeti yapılan tesisleri,\n ö) Turizm yatırımı: Bu Yönetmelikte nitelikleri belirtilen turizm tesislerini gerçekleştirmek için yapılan yatırımı,\n p) Turizm yatırımı belgesi: Bu Yönetmelikte nitelikleri belirtilen tesisler için yatırım aşamasında verilen belgeyi,\n r) Yıldız: Bu Yönetmelikte yer alan otel ve tatil köylerinin sınıflarının tanımlanmasında münhasıran Bakanlık tarafından kullanılan terimi ve sembolü,\n s) (Ek:RG-16/3/2023-32134-CK-6969/1 md.) Tahsisli kamu taşınmazı: 10/12/2003 tarihli ve 5018 sayılı Kamu Mali Yönetimi ve Kontrol Kanunu kapsamındaki genel ve özel bütçeli kamu idareleri tarafından ön izin, kesin izin, tahsis, irtifak hakkı, kullanma izni veya kiralama sözleşmesi ile turizm tesisi gerçekleştirilmek üzere yatırımcıların kullanımına bırakılan taşınmazları,\n ş) (Ek:RG-29/8/2023-32294-CK-7519/1 md.) Turizm ulaşım hizmet alanı: Kültür ve Turizm Koruma ve Gelişim Bölgeleri ile turizm merkezleri içerisinde, taksi plakası belli araçların park edebileceği, taksi şoförlerinin bekleme ve dinlenme ihtiyaçlarını karşılamaya yönelik olarak bünyesinde tuvalet ve lavabo içeren ve en fazla otuz metrekare taban alanına sahip tek katlı yapı bulunan, kamu taşınmazı veya mahalli idarelere ait alanları,\n t) (Ek:RG-18/1/2024-32433-CK-8112/1 md.) Mobil ev: İlgili mevzuata uygun şekilde O2 sınıfı tip onay belgesine sahip, bir motorlu araç tarafından çekilmek üzere tasarlanmış, konaklama birimi şeklinde düzenlenmiş, içinde yaşam alanı, yatak ile banyo-tuvalet bulunan 13/10/1983 tarihli ve 2918 sayılı Karayolları Trafik Kanununa tabi aracı,\n ifade eder.",
+      "preview": "(1) Bu Yönetmelikte geçen; a) Ana turizm işletmesi belgesi: Bileşik tesis türlerinde ana işletmeciye verilen belgeyi, b) Ana turizm yatırımı…",
+      "kitap": null,
+      "kisim": "BİRİNCİ KISIM · Başlangıç Hükümleri",
+      "bolum": "BİRİNCİ BÖLÜM · Amaç, Kapsam, Dayanak ve Tanımlar",
+      "ayirim": null,
+      "maddeBaslik": "Tanımlar",
+      "sectionPath": [
+        "BİRİNCİ KISIM · Başlangıç Hükümleri",
+        "BİRİNCİ BÖLÜM · Amaç, Kapsam, Dayanak ve Tanımlar",
+        "Tanımlar"
+      ]
+    },
+    {
+      "id": "yonetmelik:1134:m:5",
+      "maddeKind": "madde",
+      "maddeNo": "5",
+      "heading": "Madde 5",
+      "text": "(1) Turizm yatırımı belgesi; yatırımın türü, sınıfı ve süresini gösteren, ibraz edilen belgelerle yatırımcının beyanı üzerine Bakanlık tarafından düzenlenen belgedir. Bu belge, imar planı yapımına veya değişikliğine dayanak teşkil etmez.\n (2) Kısmi turizm işletmesi belgesi ve turizm işletmesi belgesi; turizm işletmelerinin bu Yönetmelikte belirtilen nitelikleri sağladığını gösteren belgelerdir. Tesiste; fiziki ve işletmecilik bütünlüğünün sağlanması kaydıyla, fiilen işleticinin kullanımında bulunan ve müşteriye hizmet sunumu gerçekleştirilen tüm üniteler dikkate alınır. Tesis kapasitesi olarak değerlendirilen üniteler, hizmet sunumu yapılan alanların tespitinden ibaret olup, 3/5/1985 tarihli ve 3194 sayılı İmar Kanunu, 4/4/1990 tarihli ve 3621 sayılı Kıyı Kanunu ve ilgili diğer mevzuat hükümlerine göre hak oluşturmaz.",
+      "preview": "(1) Turizm yatırımı belgesi; yatırımın türü, sınıfı ve süresini gösteren, ibraz edilen belgelerle yatırımcının beyanı üzerine Bakanlık taraf…",
+      "kitap": null,
+      "kisim": "BİRİNCİ KISIM · Başlangıç Hükümleri",
+      "bolum": "İKİNCİ BÖLÜM · Turizm Tesislerinin Belgelendirilmesi",
+      "ayirim": null,
+      "maddeBaslik": "Turizm belgesinin niteliği",
+      "sectionPath": [
+        "BİRİNCİ KISIM · Başlangıç Hükümleri",
+        "İKİNCİ BÖLÜM · Turizm Tesislerinin Belgelendirilmesi",
+        "Turizm belgesinin niteliği"
+      ]
+    },
+    {
+      "id": "yonetmelik:1134:m:6",
+      "maddeKind": "madde",
+      "maddeNo": "6",
+      "heading": "Madde 6",
+      "text": "(1) Turizm yatırımı belgesi verilmesi için yapılan başvurularda aşağıda belirtilen bilgi ve belgeler aranır:\n a) Talebin gerçek kişi adına yapılması halinde Türkiye Cumhuriyeti Kimlik Numarası, tüzel kişilik adına yapılması halinde ticaret sicil veya MERSİS numarası ve vergi sicil numaraları gerçek ve tüzel kişiler için Ulusal Elektronik Tebligat Sistemi (UETS) adresi.[1][2]\n b) Tesisin adı, yatırımın amacı, yeri, süresi, kapasitesi, tür ve sınıfına ilişkin beyanlar.[3]\n c) Başvuru sahibinin gerçek kişi olması durumunda imza beyannamesi veya üzerinde imza bulunan Türkiye Cumhuriyeti kimlik kartı örneği (…)(1)[4]\n ç) İsim tescili yapılmış ise tescile ilişkin belge.\n d) Yatırımın kamu taşınmazı üzerinde yapılması durumunda; ilgili kurum veya kuruluşun uygunluk yazısı.[5]\n e) Özel konaklama tesisleri için yatırımın gerçekleştirileceği taşınmazın, korunması gerekli taşınmaz kültür varlığı olarak tescilli olduğuna ilişkin ilgili kurum veya kuruluştan alınacak belge.\n f) Termal tesisler ve sağlıklı yaşam tesisleri için ilgili kurum veya kuruluştan alınacak izin yazısı veya belgesi.\n g) (Değişik:RG-22/12/2024-32760-CK-9287/1 md.) Tahsisli kamu taşınmazları hariç tapu/tapu kayıt örneği,\n ğ) (Ek:RG-16/3/2023-32134-C.K.-6969/2 md.) Talep edilen türün, yatırımın yer aldığı parsel/parsellerin kullanım amacı ile uyumlu olduğunu gösteren ilgili kurum veya kuruluştan alınan belge.\n h) (Ek:RG-22/12/2024-32760-CK-9287/1 md.) Talebin mülkiyet sahibi dışındaki gerçek veya tüzel kişilerce yapılması halinde yatırıma konu taşınmazda talep edilen tesisin yapılmasına izin veren sözleşme veya muvafakatname ile mal sahibi gerçek kişi ise imza beyannamesi veya üzerinde imza bulunan Türkiye Cumhuriyeti kimlik kartı örneği, tüzel kişi ise MERSİS numarası veya ticaret sicil numarası.\n (2) Özel tesislere, gastronomi tesislerine, apart otellere, pansiyonlara, mobil evlere ve korunması gerekli taşınmaz kültür varlığı olan yapılarda yer almayan özel konaklama tesislerine turizm yatırımı belgesi verilmez.[6]\n (3) Turizm yatırımı belgeli tesislerin işletmeye açılma süresi, yatırım belgesi verilmesinden itibaren iki yıla kadar olmak üzere, yatırımın özellikleri ve yatırıma başlama koşulları dikkate alınarak Bakanlık tarafından belirlenir. Bu süre, belge sahibinin talebi üzerine, başlangıçta verilen yatırım süresini geçmemek kaydıyla bir defaya mahsus uzatılabilir. Yatırımın kamu taşınmazı üzerinde yapılması durumunda, yatırım süresi ve bu sürenin uzatılması konusunda ilgili kurum veya kuruluşun görüşü doğrultusunda işlem tesis edilir.\n (4) Turizm yatırımı belgeli tesislere ilişkin, işletmeye açılma süresi uzatımı, kısmi turizm işletmesi belgesi veya turizm işletmesi belgesi düzenlenmesi veya yatırım belgesi iptal işlemleri devam ettiği sürece turizm yatırımı belgeli olarak kabul edilir.\n (5) Bakanlık tarafından kabul edilebilir, kamudan kaynaklanan fiili veya hukuki imkânsızlık durumunun veya mücbir sebeplerin ortaya çıkması halinde, yatırımcının talebi üzerine, bu sebeplerin ortadan kalkmasına kadar geçecek süre boyunca yatırım süreleri dondurulur.\n (6) İşletme faaliyeti gösteren tesisler için turizm yatırımı belgesi talebinde bulunulamaz.\n (7) Kültür ve Turizm Koruma ve Gelişim Bölgeleri ile Turizm Merkezlerinde yer alan konaklama tesisleri için planlarında belirtilen kullanım amacına aykırı başvurulara turizm yatırımı belgesi düzenlenmez.\n (8) (Ek:RG-11/5/2024-32543-CK-8447/1 md.) Bakanlıkça, yatırım belgesi düzenlenen konaklama tesislerinin tapu kaydına; “turizm amaçlı kullanım dışında kullanılamayacağına veya konaklama birimleri üzerinde devre mülk, kat irtifakı veya kat mülkiyeti kurulamayacağına, yararlanma, kullanma ve yönetime ilişkin anlaşmaların tapu siciline şerh edilemeyeceğine” ilişkin belirtme yapılması ilgili Tapu Müdürlüğünden talep edilir.",
+      "preview": "(1) Turizm yatırımı belgesi verilmesi için yapılan başvurularda aşağıda belirtilen bilgi ve belgeler aranır: a) Talebin gerçek kişi adına ya…",
+      "kitap": null,
+      "kisim": "BİRİNCİ KISIM · Başlangıç Hükümleri",
+      "bolum": "İKİNCİ BÖLÜM · Turizm Tesislerinin Belgelendirilmesi",
+      "ayirim": null,
+      "maddeBaslik": "Turizm yatırımı belgesi",
+      "sectionPath": [
+        "BİRİNCİ KISIM · Başlangıç Hükümleri",
+        "İKİNCİ BÖLÜM · Turizm Tesislerinin Belgelendirilmesi",
+        "Turizm yatırımı belgesi"
+      ]
+    },
+    {
+      "id": "yonetmelik:1134:m:7",
+      "maddeKind": "madde",
+      "maddeNo": "7",
+      "heading": "Madde 7",
+      "text": "(1) Turizm yatırımı belgeli tesisin kısmen veya tamamen işletmeye açıldığının tespit edilmesi veya belge sahibi tarafından bildirilmesi halinde; belgede belirtilen süreye bakılmaksızın yatırım süresi sona erer. Bu durumda, Bakanlık tarafından tesise kısmi turizm işletmesi belgesi veya turizm işletmesi belgesi düzenlenmesine esas süreç başlatılarak, belge sahibinden aşağıda belirtilen bilgi ve belgeler istenir:\n a) Tesisin işletmeye açık ve kapalı olduğu dönemler.\n b) İşyeri açma ve çalışma ruhsatı.\n c) 29 uncu maddede belirtilen spor tesisleri için ilgili kurum veya kuruluştan alınacak uygunluk yazısı veya belgesi.\n ç) (Mülga:RG-16/3/2023-32134-C.K.-6969/3 md.)\n d) Termal tesisler ve sağlıklı yaşam tesisleri için ilgili kurum veya kuruluştan alınacak işletme iznine esas yazı veya belge.\n e) Personel eğitim tesisleri için ilgili kurum veya kuruluştan alınacak uygunluk yazısı veya belgesi.\n f) Korunması gerekli taşınmaz kültür varlığında yer alan özel konaklama tesisleri için görsel ve yazılı doküman.",
+      "preview": "(1) Turizm yatırımı belgeli tesisin kısmen veya tamamen işletmeye açıldığının tespit edilmesi veya belge sahibi tarafından bildirilmesi hali…",
+      "kitap": null,
+      "kisim": "BİRİNCİ KISIM · Başlangıç Hükümleri",
+      "bolum": "İKİNCİ BÖLÜM · Turizm Tesislerinin Belgelendirilmesi",
+      "ayirim": null,
+      "maddeBaslik": "Turizm yatırımı belgesinden kısmi turizm işletmesi belgesine veya turizm işletmesi belgesine geçiş",
+      "sectionPath": [
+        "BİRİNCİ KISIM · Başlangıç Hükümleri",
+        "İKİNCİ BÖLÜM · Turizm Tesislerinin Belgelendirilmesi",
+        "Turizm yatırımı belgesinden kısmi turizm işletmesi belgesine veya turizm işletmesi belgesine geçiş"
+      ]
+    },
+    {
+      "id": "yonetmelik:1134:m:8",
+      "maddeKind": "madde",
+      "maddeNo": "8",
+      "heading": "Madde 8",
+      "text": "(1) Turizm yatırımı belgesi alınmadan doğrudan kısmi turizm işletmesi belgesi veya turizm işletmesi belgesi başvurularında, 6 ncı maddenin birinci fıkrasının (g), (ğ) ve (h) bentleri hariç diğer bentlerinde ve 7 nci maddede belirtilen bilgi ve belgelere ek olarak, tesis türüne göre aşağıdaki belgeler istenir:[7][8]\n a) Özel konaklama tesisi, özel tesis, gastronomi tesisleri için tesis özelliğine ilişkin görsel ve yazılı doküman.\n b) Gastronomi tesisleri için 26 ncı maddenin ikinci fıkrasının (a) bendi ile (b) bendinin (6) numaralı alt bendinde belirtilen nitelikleri kanıtlayıcı belgeler.\n c) (Ek:RG-22/12/2024-32760-CK-9287/2 md.) Tahsisli kamu taşınmazlarında bulunanlar hariç konaklama tesisleri için tapu/tapu kayıt örneği.\n (2) (Ek:RG-16/3/2023-32134-C.K.-6969/4 md.) 29/6/2009 tarihli ve 2009/15212 sayılı Bakanlar Kurulu Kararıyla yürürlüğe konulan Deniz Turizmi Yönetmeliği kapsamında belgelendirilen yat limanlarında düzenlenen konaklama tesisleri için liman tesisleri faaliyete geçirilmeden konaklama tesisleri için kısmi turizm işletmesi veya turizm işletmesi belgesi talebinde bulunulamaz. Bu tesislerin yatak kapasitesi ile varsa yatçı konaklama ünitesinin toplam yatak kapasitesi, bağlama kapasitesinin yüzde yirmisini ve altmış yatağı aşamaz.\n (3) (Ek:RG-22/12/2024-32760-CK-9287/2 md.) Bakanlıkça, kısmi turizm işletmesi veya turizm işletmesi belgesi düzenlenen konaklama tesislerinin tapu kaydına; “turizm amaçlı kullanım dışında kullanılamayacağına veya konaklama birimleri üzerinde devre mülk, kat irtifakı veya kat mülkiyeti kurulamayacağına, yararlanma, kullanma ve yönetime ilişkin anlaşmaların tapu siciline şerh edilemeyeceğine” ilişkin belirtme yapılması ilgili Tapu Müdürlüğünden talep edilir.",
+      "preview": "(1) Turizm yatırımı belgesi alınmadan doğrudan kısmi turizm işletmesi belgesi veya turizm işletmesi belgesi başvurularında, 6 ncı maddenin b…",
+      "kitap": null,
+      "kisim": "BİRİNCİ KISIM · Başlangıç Hükümleri",
+      "bolum": "İKİNCİ BÖLÜM · Turizm Tesislerinin Belgelendirilmesi",
+      "ayirim": null,
+      "maddeBaslik": "Kısmi turizm işletmesi belgesi veya turizm işletmesi belgesi talebi",
+      "sectionPath": [
+        "BİRİNCİ KISIM · Başlangıç Hükümleri",
+        "İKİNCİ BÖLÜM · Turizm Tesislerinin Belgelendirilmesi",
+        "Kısmi turizm işletmesi belgesi veya turizm işletmesi belgesi talebi"
+      ]
+    },
+    {
+      "id": "yonetmelik:1134:m:9",
+      "maddeKind": "madde",
+      "maddeNo": "9",
+      "heading": "Madde 9",
+      "text": "(1) (Değişik:RG-8/4/2021-31448-C.K.-3793/2 md.) Belgelendirilmeye ilişkin tüm başvurular ile tüzel kişilerin talep ve bildirimlerine ilişkin diğer başvurular e-Devlet üzerinden yapılır. Bu madde kapsamında olan ancak e-Devlet üzerinden yapılmayan fiziki başvurular değerlendirilmeye alınmadan başvuru sahibine iade edilir.\n (2) (Ek cümle:RG-16/3/2023-32134-C.K.-6969/5 md.) Başvurularda, Bakanlıkça belirlenen tesisler için Kanun kapsamında alınması zorunlu tutulan sertifika ile Bakanlıkça zorunlu tutulan belgeler istenilebilir. Bakanlık tarafından başvuru evrakı incelenerek uygun görülmeyen başvurular gerekçesi belirtilerek reddedilir.\n (3) Başvuru evrakının incelenmesi sonucunda;\n a) Yatırım belgesi talepleri ile turizm işletmesi belgesinden kısmi turizm işletmesi belgesine geçiş taleplerinde evrak üzerinden yapılan incelemede, başvurusu uygun görülenler belgelendirilir.\n b) Turizm yatırımı belgeli tesislerin kısmi turizm işletmesi belgesi veya turizm işletmesi belgesine geçişlerinde, başvuru evrakı uygun görülenler denetim programına alınır. Yapılan belgelendirme denetimi sonucunda giderilebilir eksiklik tespit edilmesi halinde belge sahibine bir defaya mahsus olmak üzere süre verilir.\n c) Doğrudan kısmi turizm işletmesi belgesi veya turizm işletmesi belgesi taleplerinde, başvuru evrakı uygun görülenler denetim programına alınır. Yapılan belgelendirme denetiminde sadece evrak eksikliğinin bulunması durumunda, eksik evrakın tamamlanması için bir defaya mahsus olmak üzere otuz gün süre verilir. Belgelendirme denetimi sonucunda uygun görülmeyen veya verilen sürede uygun evrak gönderilmeyen başvurular gerekçesi belirtilerek reddedilir.\n (4) (Değişik:RG-30/12/2021-31705-CK-5026/1 md.) Doğrudan kısmi turizm işletmesi belgesi veya turizm işletmesi belgesi talepleri ile belgeli işletmelerin sınıflandırma taleplerinde; ilk belgelendirme denetimi veya sınıflandırma çalışması sonucunda talebi uygun görülmeyenlere yazılı tebligat yapılır. Tebligat tarihinden itibaren bir yıl içerisinde yapacakları ikinci talebin de uygun görülmemesi halinde, ikinci belgelendirme denetimi veya sınıflandırma çalışmasının sonucunun tebliğ tarihinden itibaren altı ay geçmedikçe aynı tür için yapılacak yeni talep değerlendirilmez. Bu hüküm, konaklama tesislerine ilişkin doğrudan kısmi turizm işletmesi belgesi veya turizm işletmesi belgesi taleplerinde uygulanmaz.\n (5) Kısmi turizm işletmesi belgesi veya turizm işletmesi belgesi düzenlendikten sonra, belge ile belgeye esas işyeri açma ve çalışma ruhsatının birer örneği ruhsatı düzenleyen kurum veya kuruluşa gönderilir.\n (6) Turizm işletmesi belgeli veya kısmi turizm işletmesi belgeli tesislerde ilave yapılaşma ile kapasite değişikliği tespit edilmesi veya belge sahibi tarafından kapasite değişikliği talebinde bulunulması halinde, belge sahibinden başkaca bilgi ve belge istenilmeksizin, işyeri açma ve çalışma ruhsatını düzenleyen kurum veya kuruluşa bilgi verilerek belgelendirme işlemleri yürütülür. İşyeri açma ve çalışma ruhsatının geçerliliğine ilişkin yazının veya yeni tarihli işyeri açma ve çalışma ruhsatının belge sahibi tarafından Bakanlığa sunulması halinde ilgili kurum veya kuruluşa ayrıca bilgi verilmeksizin işlemler sürdürülür.\n (7) İşyeri açma ve çalışma ruhsatını düzenleyen kurum veya kuruluş, ruhsata ilişkin her türlü değişiklik veya iptal işlemini Bakanlığa bildirmekle yükümlüdür.\n (8) Bakanlık tarafından, yöre, yapı ve işlev özellikleri göz önünde bulundurularak, bu Yönetmelikte belirtilen metrik limitlerin en fazla yüzde onu oranındaki uyumsuzluklar uygun görülebilir.\n (9) Turizm belgesi iptal edilen ve iptal işlemine yönelik dava süreci devam eden tesislere ilişkin belge talepleri, dava sonuçlanmadan değerlendirilmez.\n (10) (Ek:RG-10/1/2023-32069-CK-6661/1 md.) Tahsisli kamu taşınmazları üzerinde yer alan tesislere, sözleşmelerinde belirtilen tesis türü dışında turizm belgesi verilmez. (Değişik cümle:RG-16/3/2023-32134-C.K.-6969/5 md.) Bakanlıkça tahsis edilenler ve lüks çadır tesisleri dışında ilgili mevzuatları kapsamında diğer bakanlıklar tarafından düzenlenen sözleşmelere konu kırsal turizm tesisi, konaklamalı mesire yeri ve konaklamalı orman parkı tesisleri ile bu Yönetmelikte belirtilen türler dışındaki konaklama içeren diğer tesislerin konaklama ünitelerinin her birinin toplam alanı yirmi metrekareyi geçemez.",
+      "preview": "(1) (Değişik:RG-8/4/2021-31448-C.K.-3793/2 md.) Belgelendirilmeye ilişkin tüm başvurular ile tüzel kişilerin talep ve bildirimlerine ilişkin…",
+      "kitap": null,
+      "kisim": "BİRİNCİ KISIM · Başlangıç Hükümleri",
+      "bolum": "İKİNCİ BÖLÜM · Turizm Tesislerinin Belgelendirilmesi",
+      "ayirim": null,
+      "maddeBaslik": "Turizm belgesi işlemleri",
+      "sectionPath": [
+        "BİRİNCİ KISIM · Başlangıç Hükümleri",
+        "İKİNCİ BÖLÜM · Turizm Tesislerinin Belgelendirilmesi",
+        "Turizm belgesi işlemleri"
+      ]
+    },
+    {
+      "id": "yonetmelik:1134:m:10",
+      "maddeKind": "madde",
+      "maddeNo": "10",
+      "heading": "Madde 10",
+      "text": "(1) Turizm yatırımı belgesinin farklı gerçek veya tüzel kişilere devri talebinde bulunulması veya belgeye konu yatırımın devredildiğinin Bakanlıkça tespiti halinde, 6 ncı maddenin birinci fıkrasının (a), (b), (c), (ç), (d), (f) ve (g) bentlerinde belirtilen belgeler istenilir.\n (2) Kısmi turizm işletmesi belgesinin veya turizm işletmesi belgesinin farklı bir gerçek kişiye veya şirkete devri veya ana faaliyet konusuna ilişkin işletmeci şerhi taleplerinde ya da fiilen bu durumun gerçekleştiğinin tespiti halinde, 6 ncı maddenin birinci fıkrasının (a), (c), (ç), (d) ve (f) bentleri, 7 nci maddenin birinci fıkrasının (a), (b), (c), (d), (e) ve (f) bentleri ile 8 inci maddenin birinci fıkrasının (a) ve (b) bentlerinde belirtilen belgeler istenilir.\n (3) Belge sahibi veya işletmeci şirketin ticaret ünvanının tadili veya değişikliği ya da şirket türünün değişikliği durumunda, 7 nci maddenin birinci fıkrasında belirtilen belgeler ayrıca istenilmeksizin, 6 ncı maddenin birinci fıkrasının (d) bendinde belirtilen belge istenilerek turizm belgesi güncellenir. Kısmi turizm işletmesi veya turizm işletmesi belgeli tesislerin ana faaliyet konusu dışında alt ünitelerinin işletmecilerinin belgeye şerh düşülmesi taleplerinde sadece 6 ncı maddenin birinci fıkrasının (a), (c) ve (d) bentlerinde sayılan belgeler istenilir.[9]\n (4) İlgili kurum ve kuruluşun izniyle kamu taşınmazı üzerinde gerçekleştirilen işletmeler veya yatırımlarda ilgili kurum veya kuruluşun görüşü üzerine yürütülen işlemler hariç olmak üzere Bakanlık tarafından yürütülen idari işlemler belge devri taleplerinin değerlendirilmesini engellemez.\n (5) Mahkeme kararı ile belgesi ihya edilen tesislere ilişkin belge devri talepleri, dava sonuçlanıp karar kesinleşmeden değerlendirilmez.",
+      "preview": "(1) Turizm yatırımı belgesinin farklı gerçek veya tüzel kişilere devri talebinde bulunulması veya belgeye konu yatırımın devredildiğinin Bak…",
+      "kitap": null,
+      "kisim": "BİRİNCİ KISIM · Başlangıç Hükümleri",
+      "bolum": "İKİNCİ BÖLÜM · Turizm Tesislerinin Belgelendirilmesi",
+      "ayirim": null,
+      "maddeBaslik": "Belge devri, işletmeci şerhi ve belge sahibi veya işletmeci bilgilerinin değişikliği",
+      "sectionPath": [
+        "BİRİNCİ KISIM · Başlangıç Hükümleri",
+        "İKİNCİ BÖLÜM · Turizm Tesislerinin Belgelendirilmesi",
+        "Belge devri, işletmeci şerhi ve belge sahibi veya işletmeci bilgilerinin değişikliği"
+      ]
+    },
+    {
+      "id": "yonetmelik:1134:m:11",
+      "maddeKind": "madde",
+      "maddeNo": "11",
+      "heading": "Madde 11",
+      "text": "(1) Turizm yatırımı belgesinin kısmi turizm işletmesi belgesine veya turizm işletmesi belgesine geçişi veya kısmi turizm işletmesi belgesinin turizm işletmesi belgesine geçişi ile doğrudan kısmi turizm işletmesi belgesi veya turizm işletmesi belgesi taleplerinde tesisler; asgari nitelikler, kapasite, fiziki özellikler, kullanılan malzeme standardı, işletme ve hizmet kalitesi, temizlik, bakım ve hijyen ile personelin nitelikleri ve eğitim düzeyi gibi ölçütler dikkate alınarak;\n a) Bir, iki ve üç yıldızlı oteller hariç olmak üzere, bu Yönetmelikte sınıfı bulunan tesislerde, mahallinde belgelendirme heyeti tarafından puanlama sistemine dayalı değerlendirme formu uygulamak suretiyle denetim yapılarak,[10]\n b) Bu Yönetmelikte sınıfı bulunmayan tesisler ile bir, iki ve üç yıldızlı otellerde ise denetim yapılarak,[11]\n değerlendirilir.\n (2) Sınıflandırma talebinde bulunulması veya Bakanlık tarafından gerekli görülmesi halinde, bu Yönetmelikte sınıfı bulunan kısmi turizm işletmesi belgeli veya turizm işletmesi belgeli tesislerin sınıfı; asgari nitelikler, kapasite, fiziki özellikler, kullanılan malzeme standardı, işletme ve hizmet kalitesi, temizlik, bakım ve hijyen ile personelin nitelikleri ve eğitim düzeyi gibi ölçütler dikkate alınarak sınıflandırma komisyonunca puanlama sistemine dayalı değerlendirme formu uygulamak suretiyle belirlenir.\n (3) Sınıflandırma çalışması ve bir, iki ve üç yıldızlı oteller hariç olmak üzere sınıfı bulunan tesislerde yapılan belgelendirme denetimi sonucunda tesislerin aldıkları puan ve aldıkları puana karşılık gelen tür ve sınıfın bu Yönetmelikte yer alan asgari nitelikleri esas alınır.[12]\n (4) Yapılan sınıflandırma çalışması sonucunda belge değişikliğinin gerekmesi durumunda, belgesi düzenlenmeden yeni sınıflandırma talepleri değerlendirilmez.",
+      "preview": "(1) Turizm yatırımı belgesinin kısmi turizm işletmesi belgesine veya turizm işletmesi belgesine geçişi veya kısmi turizm işletmesi belgesini…",
+      "kitap": null,
+      "kisim": "BİRİNCİ KISIM · Başlangıç Hükümleri",
+      "bolum": "İKİNCİ BÖLÜM · Turizm Tesislerinin Belgelendirilmesi",
+      "ayirim": null,
+      "maddeBaslik": "Belgelendirme denetimi ve sınıflandırma çalışması",
+      "sectionPath": [
+        "BİRİNCİ KISIM · Başlangıç Hükümleri",
+        "İKİNCİ BÖLÜM · Turizm Tesislerinin Belgelendirilmesi",
+        "Belgelendirme denetimi ve sınıflandırma çalışması"
+      ]
+    },
+    {
+      "id": "yonetmelik:1134:m:12",
+      "maddeKind": "madde",
+      "maddeNo": "12",
+      "heading": "Madde 12",
+      "text": "(1) Değerlendirme Kurulu; Yatırım ve İşletmeler Genel Müdürlüğünün bağlı olduğu Bakan Yardımcısının başkanlığında, Yatırım ve İşletmeler Genel Müdürü ve Turizm İşletmeleri Belgelendirme ve Geliştirme Daire Başkanlığının bağlı olduğu Genel Müdür Yardımcısı, Kontrolörler Kurulu Başkanı ile Turizm İşletmeleri Belgelendirme ve Geliştirme Daire Başkanından oluşur.[13]\n (2) Değerlendirme Kurulu gerekli gördüğü hallerde görüş almak üzere konusunda uzman kişileri çağırabilir.\n (3) Kurulun sekretarya hizmetleri Turizm İşletmeleri Belgelendirme ve Geliştirme Daire Başkanlığınca yürütülür.[14]\n (4) Değerlendirme Kurulu;\n a) 42 nci madde kapsamında yer alan tesislere ilişkin turizm belgesi başvurularının denetim programına alınması veya reddedilmesini,\n b) 22 nci, 26 ncı ve 42 nci maddelerde belirtilen tesisler ile tahsisli kamu taşınmazında yer alan günübirlik tesislere ilişkin turizm belgesi düzenlenmesi, iptali, devri ve ana faaliyet konusunda işletmeci şerhi düşülmesi taleplerini,\n c) 6 ncı maddenin beşinci fıkrasının uygulanmasına ilişkin hususları,\n ç) Yatırım ve İşletmeler Genel Müdürü tarafından Kurulun gündemine alınması uygun görülen konuları,\n d) (Ek:RG-4/4/2020-31089-C.K-2360/1 md.) Gastronomi tesisi turizm işletmesi belgesi başvurularının 26 ncı maddenin ikinci fıkrasının (a) bendinin (5) numaralı alt bendi kapsamında yapılması halinde, tesisin denetim programına alınmasını veya reddedilmesini,\n karara bağlamakla görevlidir.\n (5) Değerlendirme Kurulu, Başkanın çağrısı üzerine toplanır. Kurul, kararlarını üye tam sayısının salt çoğunluğu ile alır. Karşı oylar ayrıntılı gerekçelerle belirtilir. Kurul kararları Bakan onayı ile yürürlüğe girer.\n\n ÜÇÜNCÜ BÖLÜM\n Turizm Tesislerinin Genel Asgari Nitelikleri\n Yerleşme özellikleri ve konaklama birimlerinin düzenlenmesi (Değişik başlık:RG-16/3/2023-32134-CK-6969/8 md.)",
+      "preview": "(1) Değerlendirme Kurulu; Yatırım ve İşletmeler Genel Müdürlüğünün bağlı olduğu Bakan Yardımcısının başkanlığında, Yatırım ve İşletmeler Gen…",
+      "kitap": null,
+      "kisim": "BİRİNCİ KISIM · Başlangıç Hükümleri",
+      "bolum": "İKİNCİ BÖLÜM · Turizm Tesislerinin Belgelendirilmesi",
+      "ayirim": null,
+      "maddeBaslik": "Değerlendirme Kurulu",
+      "sectionPath": [
+        "BİRİNCİ KISIM · Başlangıç Hükümleri",
+        "İKİNCİ BÖLÜM · Turizm Tesislerinin Belgelendirilmesi",
+        "Değerlendirme Kurulu"
+      ]
+    },
+    {
+      "id": "yonetmelik:1134:m:13",
+      "maddeKind": "madde",
+      "maddeNo": "13",
+      "heading": "Madde 13",
+      "text": "(1) Tesisler; bu Yönetmelikte öngörülen ve kullanım amacına uygun ölçülerde, kaliteli ve nitelikli tefriş ve donanım elemanları ile fonksiyonuna uygun dekore edilmiş ve kullanım amacına uygun büyüklüğe sahip mahallerde ve yapılarda gerçekleştirilir. Turizm tesisinin dış cephe, iç duvar, zemin, tavan, çatı kaplama malzemelerinin bakımlı ve nitelikli olması gerekir.\n (2) Yapının tamamı belge kapsamında değil ise; belge kapsamı dışındaki yerlerin müşteriyi rahatsız etmeyen bir kullanımda olması ve görünüşü bozmaması gerekir.[15]\n (3) Tesise ait ünitelerin aralarında yol, akarsu veya benzeri ayrımlar bulunan farklı parsellerde yer alması durumunda, hizmet ve işletme birliği ile fonksiyonel bağlantı sağlanması kaydıyla, tüm üniteler tek belge kapsamında değerlendirilir.\n (4) Turizm belgesi, bu Yönetmeliğe göre belgelendirilebilen birden fazla tür veya sınıfın bir araya gelerek oluşturdukları tesislere de verilebilir. Aynı turizm belgesi altında faaliyet gösteren bu tür tesislerde verilen hizmetin aksamaması kaydıyla müşteri kullanımında olmayan mahaller ortak olarak düzenlenebilir.\n (5) Bitişik parsellerde yer alan ve müstakilen belgelendirilen tesislerin tesisat mahalleri ve personel mahalleri, fonksiyonel kullanım imkânının sağlanması ve verilen hizmetin aksamaması kaydıyla ortak olarak düzenlenebilir.\n (6) Bahçesi olan tesislerde, bahçe özenle düzenlenir, aydınlatılır ve sürekli bakımı sağlanır.\n (7) Tesislerde çevre aydınlatması sağlanır.\n (8) (Ek:RG-16/3/2023-32134-C.K.-6969/8 md.) (Değişik:RG-11/5/2024-32543-CK-8447/2 md.) Konaklama hizmeti verilen tesisler, tek bir bağımsız bölüm olarak değerlendirilir ve bu tesislerin konaklama birimleri üzerinde şahsi hak sağlayan devre tatil hakkı tesis edilebilir. Ancak bu tesislerin konaklama birimleri üzerinde devre mülk, kat irtifakı ve kat mülkiyeti gibi şerhe konu haklar tesis edilemez, yararlanma, kullanma ve yönetime ilişkin anlaşmalar tapu siciline şerh edilemez. Bu tür tesislere turizm belgesi verilemez. İmar planında konaklama tesisi yapılması uygun görülen parsellerdeki turizm yatırımı belgesi başvurularında konaklama birimlerine ilişkin; yararlanma, kullanma ve yönetim anlaşmaları, devre mülk, kat irtifakı veya kat mülkiyeti kurulmasına ve yatırıma konu taşınmazın bu Yönetmelikte sayılan konaklama tesisleri dışında kullanılmasına yönelik hükümler içeren sözleşmeler, Bakanlıkça kabul edilmez. Bu fıkraya aykırı olduğu tespit edilen tesislerin belgeleri iptal edilir.\n (9) (Ek:RG-16/3/2023-32134-C.K.-6969/8 md.) Apart odaların toplam yatak sayısı, içinde yer aldıkları ve beraber işletildikleri konaklama hizmeti veren tesislerin apart odalar dahil toplam yatak sayısının yüzde yirmi beşini, dört ve beş yıldızlı otellerde yüzde kırkını aşamaz.",
+      "preview": "(1) Tesisler; bu Yönetmelikte öngörülen ve kullanım amacına uygun ölçülerde, kaliteli ve nitelikli tefriş ve donanım elemanları ile fonksiyo…",
+      "kitap": null,
+      "kisim": "BİRİNCİ KISIM · Başlangıç Hükümleri",
+      "bolum": "İKİNCİ BÖLÜM · Turizm Tesislerinin Belgelendirilmesi",
+      "ayirim": null,
+      "maddeBaslik": "Değerlendirme Kurulu",
+      "sectionPath": [
+        "BİRİNCİ KISIM · Başlangıç Hükümleri",
+        "İKİNCİ BÖLÜM · Turizm Tesislerinin Belgelendirilmesi",
+        "Değerlendirme Kurulu"
+      ]
+    },
+    {
+      "id": "yonetmelik:1134:m:14",
+      "maddeKind": "madde",
+      "maddeNo": "14",
+      "heading": "Madde 14",
+      "text": "(1) Mahallerin düzenlenmesinde, tesis türünün bu Yönetmelikte yer alan asgari niteliklerine ilişkin farklı düzenleme bulunmaması halinde, bu madde hükümleri uygulanır.\n (2) Bir ve iki yıldızlı oteller, apart oteller ve pansiyonlar hariç olmak üzere, genel mahallere hizmet verecek şekilde, kadın ve erkek müşteriler için ayrı tuvalet ve lavabo düzenlenir.[16][17]\n (3) Tesislerde ısıtma, merkezi sistem veya klima ile sağlanır. Tesisin bütün mekanlarında yeterli doğal veya mekanik havalandırma sağlanır. Tesislerde devamlı sıcak ve soğuk su bulunur.\n (4) Kapasitesi yüz kişinin veya yatağın üzerinde olan tesislerde jeneratör bulundurulur.\n (5) Tesislerin bünyesinde yer alabilecek kapalı ve açık genel mahaller ve nitelikleri aşağıda belirtilmiştir:\n a) Çok amaçlı salon; servis bağlantısı bulunan, çeşitli organizasyon ve faaliyetler için düzenlenebilen salonlardır.\n b) Toplantı salonu; kürsü, perde, projektör, bilgisayar gibi toplantıya yönelik donanımları bulunan salonlardır.\n c) Tiyatro ve gösteri salonu; sahne, sanatçı soyunma odası, ışık ve ses düzeni ile seyir imkânı sağlayan oturma düzeni bulunan salonlardır.\n ç) Sinema salonu; eğimli oturma düzeni, gösterim, perde, sinevizyon ve ses düzeni bulunan salonlardır.\n d) Konferans salonu; en az ikiyüz kişilik kapasitesi olan ve ses sistemi, gösterim, sunuma yönelik donanıma sahip salon, fuaye, fuaye veya salon ile bağlantılı en az iki çalışma odası bulunan ve simultane tercüme ile sekreterlik hizmeti sunulan ünitelerdir.\n e) Eğlence yerleri; tatil köyleri, dört ve beş yıldızlı oteller, tatil merkezleri ile turizm kentleri bünyesinde yer alabilen; gürültüyü önlemek için gerekli önlemlerin alındığı, havalandırma ve klima sistemi bulunan salon, bar düzenlemesi, dans pisti, yiyecek ve içecek hazırlık ve bulaşık yıkama yerleri bulunan ünitelerdir. Bu üniteler, diskjokey mahalli olması halinde diskotek; sahne, kadın ve erkek sanatçılar için hazırlık odaları, sanatçılar için ayrı bir giriş düzenlenmesi halinde ise gece kulübü olarak adlandırılır.\n f) Lokanta; tabldot, açık büfe veya alakart yemek servisinin kaliteli ve nitelikli tefriş, dekorasyon, donanım ve servis malzemesi ile sunulduğu ünitelerdir. Lokantalarda; en az elli kişilik yemek salonu, salon ile doğrudan bağlantılı mutfak bulunur. Mutfak; ikiyüz metrekareye kadar yemek salonu bulunan lokantalarda salonun yüzde yirmibeşi, daha büyük yemek salonu olanlarda ise en az elli metrekare olarak düzenlenir. Bu alana hazırlama, pişirme, bulaşık bölümleri ve mutfak fonksiyonlarını yerine getiren diğer alanlar dâhildir. Salon ve servis birimleri ayrı katlarda ise servis merdiveni veya monşarj bulunur. Mutfakla doğrudan bağlantısı bulunmayan ilave yemek salonları düzenlenmesi halinde ayrıca servis mutfağı düzenlenir. Ancak aynı kattaki salonlar için fonksiyonel düzenleme sağlanması kaydıyla tek bir servis mutfağı veya mutfak bağlantısı yeterli görülebilir. Mutfak ve servis alanlarında; malzeme deposu, soğuk saklama deposu veya soğuk dolap, sunulan yiyecek türlerine uygun hazırlık yerleri, ızgara, kuzine, verilen yemek türlerine uygun pişirme donanımı, servis takımları için bulaşık makinesi, soğuk sıcak sunuma ilişkin donanım yer alır. Lokantalarda, çevreyi ve müşteriyi rahatsız etmeksizin canlı yemek müziği yapılabilir.\n g) Alakart lokanta; ana lokantadan ayrı düzenlenen, alakart hizmet verilen ve (f) bendinde belirtilen nitelikleri sağlayan lokantalardır. Tesis bünyesinde yer alan lokantaların mutfakları, her birinin yemek salonuyla servis bağlantısı bulunması ve hizmeti aksatmayacak büyüklük ve donanımı haiz olması kaydıyla ortak düzenlenebilir.\n ğ) Kafeterya; garson servisi olmadan, yiyecek türlerinin servis bankosunda teşhir edilerek müşteriye süratli yeme-içme hizmetinin sunulduğu ünitelerdir. Kafeteryalar, mutfak metrekaresi dışında (f) bendinde belirtilen nitelikleri taşırlar. Tesis bünyesinde yer alan lokanta mutfakları, kafeterya yemek salonuyla servis bağlantısı bulunması ve yeterli kapasite ve donanımı haiz olması kaydıyla ortak düzenlenebilir.\n h) Bar salonu; alkollü içecek ve atıştırmalık yiyecek ihtiyaçlarını karşılamaya ve servis malzemelerinin yıkanmasına yönelik donanıma sahip bar bankosu, canlı müzik veya müzik yayını sistemi bulunan salonlardır.\n ı) Pasta salonu; pastane hizmetine yönelik, pasta teşhir ve servis malzemeleri ile oturma alanı ve düzeni bulunan salonlardır.\n i) Kafe; ağırlıklı olarak çeşitli türlerde sıcak veya soğuk içecekler ile yanında atıştırmalık yiyecek hizmeti sunulan, oturma alanı ve düzeni ile verilen hizmete uygun servis mutfağı bulunan salonlardır.\n j) Kahvaltı salonu; kahvaltı hizmeti vermeye yönelik yeterli donanıma sahip servis mutfağı bulunan salonlardır.\n k) Oturma alanı; oturma ve dinlenme amacıyla lobinin bir bölümünde düzenlenmiş mahal veya lobiden ayrı düzenlenmiş salonlardır.\n l) SPA; Türk hamamına ilave olarak buhar odası, kar odası, tuz odası, tuzlu buhar odası, sıcak taş odası, sauna, masaj üniteleri, aletli masaj üniteleri, güzellik üniteleri, kapalı yüzme havuzu, terapi ve bakıma yönelik solaryum, oksijen kapsülü gibi düzenlemeler ile en az kırk metrekare büyüklükte jimnastik salonu ünitelerinden en az dört çeşidini içeren, kadın ve erkek müşteriler için ayrı düzenlenen soyunma yeri ve dolapları, duş ve tuvalet düzenlemeleri bulunan ünitelerdir. Bu mahaller SPA ibaresi kullanılmaksızın tesislerin bünyesinde münferiden de yer alabilir.\n m) Spor salonu; basketbol, voleybol gibi spor olanakları sağlayan ve kadın ve erkek için ayrı düzenlenen soyunma yeri ve dolapları, duş ve tuvalet düzenlemeleri bulunan salonlardır. Tesis bünyesinde fonksiyonel ulaşım imkânı bulunacak şekilde düzenlenmesi halinde soyunma, duş ve tuvalet üniteleri ayrıca aranmaz.\n n) Oyun salonu; bilardo, masa tenisi, bilgisayar ve konsol oyunları gibi eğlenceye yönelik düzenlemelerden en az iki çeşidini içeren salonlardır.\n o) Bowling salonu.\n ö) Duvar tenisi salonu.\n p) Çocuk oyun merkezi; çocuklara yönelik yemek mahalli, açık oyun alanı, çocuk bakım odası ve tuvaletleri ile oynama, dinlenme ve eğlenme imkânı verilebilen ve salonu en az iki farklı yaş grubuna göre ayrı ayrı düzenlenen ünitelerdir. Çocuklara yönelik tuvalet düzenlemesi ile oynama, dinlenme ve eğlenme imkânı verilebilen salonu bulunması halinde ise bu ünite çocuk oyun ünitesi olarak adlandırılır.\n r) Açık spor alanı; açık alanlarda düzenlenen tenis kortu, basketbol, voleybol, futbol sahası gibi spor alanlarıdır.\n s) Binicilik tesisi; açık ve kapalı manej sahaları ile kadın ve erkek için ayrı düzenlenen soyunma yeri, dolapları ve tuvalet düzenlemeleri bulunan ünitelerdir.\n ş) Paintball sahası; açık veya kapalı alanlarda paintball oyununa imkân sağlayan, kadın ve erkek için ayrı düzenlenen soyunma yeri ve dolapları bulunan mahallerdir.\n t) Buz pateni pisti.\n u) Golf sahası.\n ü) Go-kart pisti.\n v) Yüzme havuzları;\n 1) Açık yüzme havuzları; zemin ve duvarları uygun ve nitelikli malzeme ile kaplı, çevresinde taşma oluğu veya aynı fonksiyonu yapan benzer sistem, suyunun devamlı temizliğini sağlayan filtrasyon ve dezenfeksiyon sistemi, çevresinde ve güneşlenme alanlarında kaymayı önleyici zemin kaplaması ve düzenlemesi, içinde emniyet basamakları, derinliğin değiştiği her kademede ölçü, çocuklar için en fazla elli santimetre derinlikte ayrı bir havuz, güvenlik ve hijyen önlemlerinin Türkçe ve en az iki yabancı dilde belirtildiği levha, büfe hizmeti veya büfe hizmetini de kapsayan bar mahalli, soyunma kabini, duş, kadın ve erkek müşteriler için ayrı tuvalet düzenlemesi ile en az iki olmak üzere tesisteki havuz sayısı ve büyüklükleri dikkate alınarak yeterli sayıda sertifikalı cankurtaran bulunan ünitelerdir. (Ek cümleler:RG-30/12/2021-31705-CK-5026/2 md.) Müşterilerin önceden bilgilendirilmesi şartıyla, pazarlama ve işletme politikası gereği sadece on iki yaş ve üzeri müşteri kabul eden konaklama tesislerinde çocuk havuzu şartı aranmaz. Ancak bu tesislerin söz konusu pazarlama ve işletme politikasını değiştirmeleri durumunda anılan politikaları uygulamaya geçmeden önce çocuk havuzu yapmaları zorunludur.\n 2) Kapalı yüzme havuzları; (1) numaralı alt bentte belirtilen düzenlemelere ilave olarak havuzun bulunduğu mahalde ısıtma ve havalandırma sistemi bulunan ünitelerdir.\n 3) Tesis bünyesinde açık ve kapalı havuzların en az birer adedinde ayrı çocuk havuzu düzenlemesi yapılır. Çocuk havuzlarının yetişkin havuzuna bitişik olması durumunda havuzlar arası geçişi önleyecek tedbirler alınır.\n 4) Birden fazla havuzu bulunan tesislerde, büfe hizmeti veya büfe hizmetini de kapsayan bar mahalli, soyunma kabini, duş ile kadın ve erkek müşteriler için ayrı tuvalet düzenlemeleri hizmeti aksatmayacak şekilde ortak kullanılabilir. Bu yan ünitelerin tesis bünyesinde fonksiyonel ulaşım imkânı bulunacak şekilde havuz mahalline yakın düzenlenmesi halinde, havuz çevresinde ayrıca aranmaz.\n 5) (Ek:RG-18/1/2024-32433-CK-8112/3 md.) Konaklama tesislerinde tek bir konaklama birimine hizmet verecek şekilde düzenlenen özel yüzme havuzlarında, büfe hizmeti veya büfe hizmetini de kapsayan bar mahalli, soyunma kabini, duş, kadın ve erkek müşteriler için ayrı tuvalet düzenlemesi, cankurtaran ve ayrı çocuk havuzu aranmaz.\n y) Eğlence havuzu; yüzme amaçlı kullanılmayan, kaydırak, şelale, dalga havuzu ve benzeri eğlence amaçlı su aktivitelerinin gerçekleştirildiği havuz ve düzenlemelerdir. Eğlence havuzunun faal olduğu zamanlarda düzeni ve emniyeti sağlamakla görevli personel bulundurulur. Çevresinde kaymayı önleyici zemin kaplaması, suyunun devamlı temizliğini sağlayan sistem ile güvenlik ve hijyen önlemlerinin Türkçe ve en az iki yabancı dilde belirtildiği levha aranır.\n z) Satış üniteleri; esas olarak tesis müşterilerinin giyim, kuyum, hediyelik eşya ve günlük ihtiyaçlarını karşılamaya yönelik düzenlenen, tesisle doğrudan bağlantısı olan dükkânlardır. Türlere ilişkin maddelerde istisna bulunmaması durumunda, tesis müşterilerinden ziyade genel kullanım için ve kapsamlı alışveriş faaliyetine yönelik düzenlenen mahaller belge kapsamında değerlendirilmez.\n aa) Erkek-kadın kuaförü; birlikte veya ayrı ayrı düzenlenebilen, fonksiyonuna uygun donanıma sahip ve sertifikalı kişilerce hizmet verilen ünitelerdir.\n bb) Açık yeme-içme üniteleri; kapalı mutfak alanı ile açık veya yarı açık yeme-içme alanı bulunan lokanta ve kafeterya, içecek ve basit yiyecek ihtiyaçlarını karşılamaya ve servis malzemelerinin yıkanmasına yönelik donanıma sahip servis mutfağı veya bar bankosu bulunan açık kafe, pastane, snack veya bar düzenlemeleridir.\n cc) Açık eğlence üniteleri; sahne ve oturma düzeni, ses ve ışık sistemi ile sahne arkası soyunma mahalleri bulunan açık gösteri alanı veya amfitiyatro; ışık ve ses düzeni, dans pisti, diskjokey mahalli ve barı bulunan açık diskotek düzenlemesidir.\n çç) Lunapark; tanımlanmış bir alanda eğlenceye yönelik dönme dolap, atlıkarınca, döner salıncak gibi elektrik, elektronik ve mekanik araçlar ve oyuncaklardan en az beş adedinin bulunduğu ünitelerdir.\n dd) Hobi atölyesi; resim, seramik, ahşap boyama gibi hobilerin yapılmasına imkân veren düzenlemeleri bulunan açık veya kapalı ünitelerdir.\n ee) Sergi salonu; çeşitli sergiler için eserlere odaklı ışıklandırma düzenlemelerinin yapılabileceği nitelikte; sergi panoları, kaideler, askı çubukları, camlı vitrin gibi donanıma sahip salonlardır.\n ff) Özel hizmet salonu; kişiye özel ayrıcalıklı hizmet veren, yeme-içme imkânı yanında dinlenme, televizyon izleme, çalışma, okuma gibi hizmetlerin sağlandığı, servis bağlantısı bulunan salonlardır.\n gg) Çalışma odası; müşterilere yönelik düzenlenen, internet bağlantılı bilgisayar, tablet, yazıcı gibi hizmetlerin sunulduğu mahallerdir.\n ğğ) Kütüphane; görsel ve işitsel bilgi kaynaklarını okuma, seyretme veya dinleme imkânları birlikte veya ayrı sunulan, mevcut kaynakların belli bir dizinde muhafazasına yönelik düzenlemeleri bulunan ve en az altmış metrekare büyüklükte olan salonlardır.\n (6) Müşterilerin yeme-içme, spor, eğlence gibi ihtiyaçlarını karşılayan ve bu maddenin beşinci fıkrasında belirtilmeyen bir mahal düzenlenmesi halinde, ünitenin niteliğine göre ayrıca değerlendirme yapılır.\n (7) Bu maddenin beşinci fıkrasında belirtilen mahallerin tesis kapasitesinde değerlendirilebilmesi için aynı fıkrada belirtilen nitelikleri sağlamaları zorunludur.\n (8) Kapasitesi kişi bazında tanımlanan ünitelerin kapasiteleri, salon veya mahallin fonksiyonu dikkate alınarak, müşteri kullanımında olan alanın kişi başına 1,2 metrekareye bölünmesiyle hesaplanır.",
+      "preview": "(1) Mahallerin düzenlenmesinde, tesis türünün bu Yönetmelikte yer alan asgari niteliklerine ilişkin farklı düzenleme bulunmaması halinde, bu…",
+      "kitap": null,
+      "kisim": "BİRİNCİ KISIM · Başlangıç Hükümleri",
+      "bolum": "İKİNCİ BÖLÜM · Turizm Tesislerinin Belgelendirilmesi",
+      "ayirim": null,
+      "maddeBaslik": "Mahallerin düzenlenmesi",
+      "sectionPath": [
+        "BİRİNCİ KISIM · Başlangıç Hükümleri",
+        "İKİNCİ BÖLÜM · Turizm Tesislerinin Belgelendirilmesi",
+        "Mahallerin düzenlenmesi"
+      ]
+    },
+    {
+      "id": "yonetmelik:1134:m:15",
+      "maddeKind": "madde",
+      "maddeNo": "15",
+      "heading": "Madde 15",
+      "text": "(1) Bakanlık tarafından belgelendirilen veya belge talebinde bulunulan tesislerde turizm alanında tecrübeli, eğitimli veya sertifikalı personel istihdam edilir. Tesislerde sağlık, güzellik ve bakım, çocuk oyun merkezi veya ünitesi, masaj, su sporları ve eğlenceleri, okçuluk, atıcılık, binicilik gibi üniteler bulunması durumunda, bu ünitelerde alanında sertifikalı veya eğitimli personel çalıştırılır. Lunapark, eğlence havuzu gibi ünitelerde güvenlikten sorumlu personel bulundurulur. Tesislerin tesisat, mekanik, elektrik, elektronik sistemlerinin bakımı sertifikalı veya eğitimli kişilere yaptırılır veya bu niteliklere sahip personel istihdam edilir. Turizm işletmelerinde görevli personelin hizmet standardını yükseltmek amacıyla eğitim için gerekli önlemler işveren tarafından alınır ve uygulanır.\n (2) Dört ve beş yıldızlı oteller, butik oteller, tatil köyleri ile yirmi oda ve üzeri kapasiteye sahip diğer konaklama tesislerinde kadın ve erkek personel için ayrı soyunma yerleri, dolapları, duş ve tuvalet ile oda sayısı altmış ve üzerinde olan tesislerde ayrıca personelin ortak oturma, dinlenme ve yemek ihtiyaçları için ayrı bir mahal düzenlenir. Dört ve beş yıldızlı oteller, butik oteller, tatil köyleri hariç, kapasitesi yirmi odanın altında olan konaklama tesislerinde ise personel için tuvalet ve lavabo düzenlenir. Pansiyon ve apart otellerde, personel mahallinin düzenlenmesi zorunlu değildir. Tesis bünyesinde personel lojmanı bulunması halinde kişi başı en az altı metrekare alan esas alınır.[18]\n (3) Tesisten ayrı parselde bulunan ve tahsisli kamu taşınmazında gerçekleştirilen personel lojmanlarında personelin konaklamasının yanı sıra, yeme-içme, eğlence, dinlenme, spor ve rekreasyon ihtiyaçlarının karşılanmasına yönelik kafeterya, lokanta, yüzme havuzu, açık spor alanları gibi düzenlemelere yer verilebilir. Bu lojmanlarda konaklama üniteleri ranzalı koğuş veya yatakhane sisteminde düzenlenemez, yatak odaları kişi başı en az altı metrekare olmak üzere en fazla iki kişilik olarak düzenlenir.\n (4) Turizm işletmeleri personelinin, çalışmaları sırasında işlerine ve görev mahallerine uygun, özel ve temiz kıyafet giymeleri zorunludur.\n (5) İşletmelerde ilk yardım konusunda sertifikalı personel çalıştırılır.",
+      "preview": "(1) Bakanlık tarafından belgelendirilen veya belge talebinde bulunulan tesislerde turizm alanında tecrübeli, eğitimli veya sertifikalı perso…",
+      "kitap": null,
+      "kisim": "BİRİNCİ KISIM · Başlangıç Hükümleri",
+      "bolum": "İKİNCİ BÖLÜM · Turizm Tesislerinin Belgelendirilmesi",
+      "ayirim": null,
+      "maddeBaslik": "Personelin nitelikleri ve personele yönelik düzenlemeler",
+      "sectionPath": [
+        "BİRİNCİ KISIM · Başlangıç Hükümleri",
+        "İKİNCİ BÖLÜM · Turizm Tesislerinin Belgelendirilmesi",
+        "Personelin nitelikleri ve personele yönelik düzenlemeler"
+      ]
+    },
+    {
+      "id": "yonetmelik:1134:m:16",
+      "maddeKind": "madde",
+      "maddeNo": "16",
+      "heading": "Madde 16",
+      "text": "(1) Bakanlık tarafından düzenlenen plaket, tesis girişinde müşterinin kolayca görebileceği bir yerde bulundurulur.\n (2) Tesis tanıtımı Bakanlıktan alınan belgeye uygun olarak yapılır. Belgeli tesislerin işyeri açma ve çalışma ruhsatında belirtilen isim ve türden farklı olarak belgelendirilmeleri halinde turizm belgesinde belirtilen isim ve tür esas alınarak tanıtım yapılması zorunludur. Tesis tanıtımında tüketici hakları açısından doğru bilgilere yer verilir; yanıltıcı olabilecek veya ülke turizmini zedeleyecek tanıtımlarda bulunulamaz. Tesis tanıtımında, belgelendirildiği sınıfın dışında algı yaratacak şekilde yıldız simgesini çağrıştıracak semboller kullanılamaz.\n (3) Tesis isminde, kapasitesinde yer almayan ünitelere ilişkin terimler kullanılamaz.\n (4) Belgeli tesisler, Bakanlık tarafından istenen her tür bilgi ve belgeyi zamanında ibraz etmekle yükümlüdür.\n (5) Belgeli işletmelerin uygulayacakları fiyat tarifeleri Bakanlık tarafından onaylanır.",
+      "preview": "(1) Bakanlık tarafından düzenlenen plaket, tesis girişinde müşterinin kolayca görebileceği bir yerde bulundurulur. (2) Tesis tanıtımı Bakanl…",
+      "kitap": null,
+      "kisim": "BİRİNCİ KISIM · Başlangıç Hükümleri",
+      "bolum": "İKİNCİ BÖLÜM · Turizm Tesislerinin Belgelendirilmesi",
+      "ayirim": null,
+      "maddeBaslik": "Tanıtım, bilgilendirme ve fiyat tarifeleri",
+      "sectionPath": [
+        "BİRİNCİ KISIM · Başlangıç Hükümleri",
+        "İKİNCİ BÖLÜM · Turizm Tesislerinin Belgelendirilmesi",
+        "Tanıtım, bilgilendirme ve fiyat tarifeleri"
+      ]
+    },
+    {
+      "id": "yonetmelik:1134:m:17",
+      "maddeKind": "madde",
+      "maddeNo": "17",
+      "heading": "Madde 17",
+      "text": "(1) Turizm tesislerinde, her türlü tesisatın tasarımında, kullanılan yapı malzemelerinin seçiminde, suyun temizliğinde ve dezenfekte edilmesinde, yiyecek ve içecek maddelerinin hazırlanmasında, depolanmasında ve saklanmasında insan ve çevre sağlığının korunması ve geliştirilmesine yönelik hijyen ve sağlık kurallarına uyulur. Yiyecek ve içecekler, saklama ve servis anında bozulmalarını önleyecek biçimde, uygun ısıda muhafaza edilir. Tesislerde insan sağlığını tehdit eden hastalıkların oluşmasını önleyecek gerekli önlemler alınır. Bulaşıcı hastalıkların tespit edilmesi halinde gerekli tedbirler alınarak yetkili makamlara derhal bilgi verilir.\n (2) Turizm tesislerinde, ilkyardım malzemeleri bulundurulur.\n (3) Turizm tesislerinin hijyen, temizlik ve bakımları düzenli olarak sağlanır. Haşere ile periyodik mücadele yürütülür. Meydana gelebilecek arızaların en kısa zamanda giderilmesi için gerekli önlemler alınır.\n (4) Sürdürülebilir turizm kapsamında turizm tesislerinde, çevrenin korunması ve çevreye olan olumsuz etkilerin ortadan kaldırılmasına yönelik gerekli önlemler alınır. Turizm tesisleri; doğal varlıklar, biyolojik çeşitlilik, sosyal, kültürel ve tarihi değerler ile yöresel değerlerin koruma ve kullanma dengeleri ile kaynakların sürdürülebilirliği gözetilerek işletilir. Atık oluşumunun önlenmesi, önlemenin mümkün olmaması durumunda atığın en aza indirilmesi sağlanır ve çevreye zarar vermesini önleyecek gerekli önlemler alınır. Atık sular ilgili mevzuatta belirtilen standartlara uygun olarak arıtılmadan hiçbir şekilde açığa, akarsulara, göllere veya denize akıtılamaz. Atıklar; akarsular, göller, denizler ve benzeri ortamlar ile çevrenin olumsuz yönde etkilenmesine neden olacak yerlere bırakılamaz. Atıkların, toplanmasına kadar geçecek süre içinde koku, pislik ve haşarat yapmayacak biçimde muhafazası veya sağlıklı yöntemlerle bertarafı için gerekli önlemler alınır; geri dönüşümünün sağlanması amacıyla kağıt-karton, cam, metal, plastik, organik, pil, elektronik atıklar, tıbbi atık, bitkisel veya mekanik yağlar ile diğer geri kazanılabilir atık, türlerine göre ayrıştırılır. Müşteri konforu ve hijyen kuralları gözetilerek, kaynakların verimli kullanılmasının sağlanması amacıyla su, enerji ve kimyasal madde tüketiminin asgari düzeyde tutulmasına yönelik önlemler alınır ve sistemler kullanılır. Bu konularda personele gerekli eğitim verilir.\n (5) Turizm tesislerinin çevresinde, tesis girişlerinde ve genel kullanım alanlarında müşterilerin ve personelin güvenliğinin sağlanmasına yönelik elektronik ve fiziki güvenlik önlemleri alınır. Her türlü tesisat, elektrik ve mekanik donanımlarının standartlara uygun ve nitelikli olması ve ayrıca bakımının düzenli yapılması zorunludur. Teras, balkon, merdiven, açık koridorlar gibi dolaşım alanlarında; uygun malzeme ve ölçülerde korkuluk düzenlenir, pencerelerde düşmeyi önleyecek önlemler alınır. Cam ve kaygan yüzeyler ile kot farkı olan yerlerde uyarı işaretleri bulundurulur. (Mülga cümle:RG-22/12/2024-32760-CK-9287/4 md.)",
+      "preview": "(1) Turizm tesislerinde, her türlü tesisatın tasarımında, kullanılan yapı malzemelerinin seçiminde, suyun temizliğinde ve dezenfekte edilmes…",
+      "kitap": null,
+      "kisim": "BİRİNCİ KISIM · Başlangıç Hükümleri",
+      "bolum": "İKİNCİ BÖLÜM · Turizm Tesislerinin Belgelendirilmesi",
+      "ayirim": null,
+      "maddeBaslik": "Sağlık, temizlik, güvenlik ve çevre korunmasına yönelik önlemler",
+      "sectionPath": [
+        "BİRİNCİ KISIM · Başlangıç Hükümleri",
+        "İKİNCİ BÖLÜM · Turizm Tesislerinin Belgelendirilmesi",
+        "Sağlık, temizlik, güvenlik ve çevre korunmasına yönelik önlemler"
+      ]
+    },
+    {
+      "id": "yonetmelik:1134:m:18",
+      "maddeKind": "madde",
+      "maddeNo": "18",
+      "heading": "Madde 18",
+      "text": "(1) Konaklama tesislerinde aşağıdaki asgari nitelikler aranır:\n a) Yatak odalarının düzenlenmesine ilişkin esaslar:\n 1) (Değişik:RG-16/3/2023-32134-C.K.-6969/11 md.) Yatak odaları; doğal ışık alacak şekilde ve banyolu olarak düzenlenir. Uygun tefriş elemanlarıyla rahat kullanım imkânı verebilecek şekilde dekore edilir. Odalarda teknik normlara uygun yatak, kişi başı bir yastık, yastık kılıfı, çarşaf, iklim koşullarına göre pike veya yorgan, yatak başucu sehpası veya benzeri düzenleme, genel aydınlatma, priz, gece lambası, çöp kutusu, elbise dolabı veya benzeri düzenleme, telefon, tül perde ve kalın perde veya benzeri düzenleme, nitelikli zemin kaplaması, bir ve iki yıldızlı oteller ile pansiyonlar hariç olmak üzere iklim koşullarına göre klima bulunur. Bir ve iki yıldızlı oteller, pansiyonlar ve oda sayısı otuzun altındaki apart otellerin odalarında telefon aranmaz. Yatak odalarında mutfak ve mutfak nişi düzenlenemez. Oda kapılarında elektronik kilidin bulunmaması hâlinde ilave kilit sistemi yapılır. (Ek cümle:RG-29/8/2023-32294-CK-7519/3 md.) Odalarda duman dedektörü bulunur. Banyolarda, suyun yayılımını engelleyici önlemler alınır; vitrifiye, armatür, batarya, duş donanımı, ayna, priz, çöp kutusu, sabun, şampuan ile el, banyo ve ayak havlusu bulundurulur.\n 2) Banyo hariç; on metrekareye kadar olan odalar tek, daha büyük olanlar ise iki kişilik olarak düzenlenebilir ve sadece müşterilerin talebi halinde ilave yatak konulabilir. (Ek cümle:RG-22/12/2024-32760-CK-9287/5 md.) Korunması gerekli taşınmaz kültür varlığında yer alan tesisler hariç, odalar, beş yıldızlı oteller ve beş yıldızlı tatil köylerinde banyo dahil en az 25 metrekare, dört yıldızlı oteller ve dört yıldızlı tatil köylerinde ise banyo dahil en az 20 metrekare olarak düzenlenir. Suit odalar, bir adedi oturma bölümü olmak üzere, sabit malzeme ile fonksiyonel ayrımı yapılmış şekilde, en az iki bölümden oluşur. Suit odaların yatak kapasitelerinin hesabında, banyo alanı dâhil altmış metrekareye kadar olanlar iki yataklı, banyo alanı dâhil altmış metrekare üzerinde ve birden fazla yatak odası bulunanlar dört yataklı olarak değerlendirilir, ancak suit odalarda oturma bölümü dahil banyolu olarak düzenlenen her oda yatak sayısı hesabında yatak odası olarak dikkate alınır. Suit odaların oturma bölümlerinde içecek ve basit yiyecek ihtiyacını karşılayabilecek kapsamlı olmayan mutfak nişi düzenlenebilir. Suit odalar, oturma bölümlerinin yatak odası şeklinde düzenlenmesi halinde aile odası olarak adlandırılır. Suit odalar; oturma bölümlerine, yemek masası ve sandalyesi, ocak, davlumbaz, buzdolabı, yeterli pişirme ve servis malzemesi ile bunların depolanacağı dolaplar bulunan mutfak ilave edilmesi veya ayrı mutfak düzenlenmesi halinde apart oda olarak adlandırılır. Apart oda ve aile odası kapasite hesabında yatak odaları dikkate alınır. Suit ve apart odalarda oturma bölümü ile suit, apart ve aile odalarının en fazla bir yatak odası doğal aydınlatma olmaksızın düzenlenebilir.[19]\n 3) Apart oteller hariç, konaklama tesislerinde yatak odalarının tümü suit oda ya da aile odası şeklinde düzenlenebilir.\n 4) (Mülga:RG-16/3/2023-32134-C.K.-6969/11 md.)\n 5) (Değişik:RG-22/12/2024-32760-CK-9287/5 md.) Taban döşemesi mevcut arazi seviyesinin aşağısında kalan ve doğal ışık almayan katlarda müşteri yatak odası yapılamaz. Tesislerde aydınlığa bakan oda yapılabilir, ancak yatak odalarının pencereleri mutfak, tuvalet gibi mahallerle aynı aydınlığa açılamaz. Banyo ve tuvaletlerin havalandırmaları kapalı genel mahallere açılamaz.\n 6) (Mülga:RG-16/3/2023-32134-C.K.-6969/11 md.)\n b) Toplam kapasitesi seksen oda ve üzerinde olan tesisler ile dört ve beş yıldızlı oteller ve tatil köylerinde en az bir oda olmak üzere toplam oda kapasitesinin yüzde biri oranında odada, ayrıca tesis girişi, asansörler, genel tuvaletler ile en az bir adet yeme içme ünitesinde, günübirlik tesisler, mola noktaları ile eğlence merkezlerinde ise kendi türlerinin asgari niteliklerinde belirtilen şekilde erişilebilirlik düzenlemeleri yapılır. Bu düzenlemeler özel işaretlerle belirtilir.[20]\n c) Müşterinin ineceği veya çıkacağı kat sayısının; pansiyonlar, moteller, apart oteller, bir, iki ve üç yıldızlı oteller ve özel konaklama tesisleri için üç kattan, dört yıldızlı oteller için iki kattan, beş yıldızlı oteller ile butik oteller için ise bir kattan fazla olması durumunda müşteri asansörü düzenlenir. Korunması gerekli taşınmaz kültür varlığı niteliğindeki yapılarda yer alan tesisler ile yatak odası içerisinde birden fazla kat düzenlemesi bulunması durumu bu hükmün dışındadır. Asansörlerde alarm tertibatı ile havalandırma düzeneği bulunur.\n (2) (Ek:RG-18/1/2024-32433-CK-8112/4 md.) Türün niteliklerinin belirtildiği maddede açık olarak izin verilenler hariç olmak üzere, konaklama tesislerinin konaklama birimleri, hareket kabiliyetinin ortadan kaldırılmış olup olmamasına bakılmaksızın, kısmen ya da tamamen mobil evlerden oluşturulamaz. Bu tesislere ilişkin belge talepleri reddedilir.",
+      "preview": "(1) Konaklama tesislerinde aşağıdaki asgari nitelikler aranır: a) Yatak odalarının düzenlenmesine ilişkin esaslar: 1) (Değişik:RG-16/3/2023-…",
+      "kitap": null,
+      "kisim": "İKİNCİ KISIM · Tesis Türleri",
+      "bolum": "BİRİNCİ BÖLÜM · Konaklama Tesisleri",
+      "ayirim": null,
+      "maddeBaslik": "Konaklama tesislerinin asgari nitelikleri",
+      "sectionPath": [
+        "İKİNCİ KISIM · Tesis Türleri",
+        "BİRİNCİ BÖLÜM · Konaklama Tesisleri",
+        "Konaklama tesislerinin asgari nitelikleri"
+      ]
+    },
+    {
+      "id": "yonetmelik:1134:m:19",
+      "maddeKind": "madde",
+      "maddeNo": "19",
+      "heading": "Madde 19",
+      "text": "(1) Oteller; asıl işleri müşterilerin konaklama ihtiyaçlarını sağlamak olan, bu hizmetin yanında yardımcı iş olarak yeme-içme, toplantı, kutlama etkinlikleri, spor ve eğlenceye yönelik üniteleri de bünyelerinde bulundurabilen tesislerdir. Oteller; bir, iki, üç, dört ve beş yıldızlı olarak sınıflandırılır.[21]\n (2) Bir yıldızlı oteller, bu Yönetmelikte turizm tesisleri ve konaklama tesisleri için belirlenmiş asgari niteliklere ilave olarak aşağıda belirtilen nitelikleri taşıyan otellerdir. Bu otellerde;[22]\n a) En az beş oda,[23]\n b) Resepsiyon ile bekleme bölümünden oluşan lobi,\n c) Oturma alanı ve bu alanda sıcak ve soğuk içecek hizmeti,\n bulunur.\n (3) İki yıldızlı oteller, bir yıldızlı otel niteliklerine ilave olarak aşağıda belirtilen nitelikleri taşıyan en az on odalı otellerdir. Bu otellerde;[24]\n a) (Mülga:RG-16/3/2023-32134-C.K.-6969/12 md.)\n b) Yönetim odası,\n c) Odalarda televizyon,\n ç) Odalarda saç kurutma makinesi,\n d) Yatak katlarında kat hizmetleri ofisi veya dolap,\n e) (Mülga:RG-16/3/2023-32134-C.K.-6969/12 md.)\n bulunur.\n (4) Üç yıldızlı oteller, iki yıldızlı otel niteliklerine ilave olarak aşağıda belirtilen nitelikleri taşıyan otellerdir. Bu otellerde;[25]\n a) Kahvaltı salonu (yeterli büyüklükte oturma alanı ve servis mutfağı veya lokanta bulunması durumunda bu mahaller kahvaltı verme amaçlı da kullanılabilir, yazlık tesislerde bu amaçla kullanılan salonun bir kısmı açık olabilir),\n b) İklim koşullarına göre genel mahallerde klima,\n c) Odalarda en az bir sandalye veya koltuk ve valizlik,\n ç) Odalarda kıymetli eşya kasası,\n d) Genel mahallerde internet hizmeti,\n e) Çamaşır yıkama ve ütüleme hizmeti ile bu hizmete ilişkin çamaşır torbası ve fiyat listesi,\n f) (Ek:RG-16/3/2023-32134-C.K.-6969/12 md.) Girişte rüzgarlık, hava perdesi, döner kapı veya benzeri düzenleme,\n bulunur.\n (5) Dört yıldızlı oteller, üç yıldızlı otellere ilave olarak aşağıda belirtilen nitelikleri taşıyan, 14 üncü maddede belirtilen ünitelerden tesisin bulunduğu yöre, müşteri profili, işletmecilik özelliklerine göre tercihe bağlı olarak bünyesinde bulunduran, belgelendirme denetimi veya sınıflandırma çalışmasında bu sınıf için belirlenmiş puan barajını aşan otellerdir. Bu otellerde;\n a) İlave bir yönetim odası,\n b) Tesis yatak kapasitesinin aynı anda en az yüzde otuzuna hizmet veren lokanta veya lokantalar,\n c) Yatak katlarında kat hizmetleri ofisi (ayrık, yaygın ve az katlı yerleşimler şeklinde düzenlenmiş tesislerde hizmetin aksamaması kaydıyla kat ofisinin her katta bulunması zorunlu değildir),\n ç) Bagaj odası ve bu mahalde emanet hizmeti ile bagaj taşıma hizmeti,\n d) Odalarda ve genel mahallerde klima, odalarda internet hizmeti,[26]\n e) Odalarda ve banyolarda; bornoz, diş temizlik kiti, traş kiti, tırnak törpüsü, cımbız, tırnak makası, tek kullanımlık terlik, dikiş kiti, ayakkabı sileceği, ayakkabı cilası, duş bonesi, duş köpüğü, duş jeli, vücut losyonu, saç kremi, makyaj temizleme pamuğu, kulak temizliği pamuğu, hijyen poşeti, kutu kâğıt mendil, bloknot-kalem, uyku gözlüğü, şemsiye gibi toplam en az on çeşit buklet malzemesi,\n f) Kuru temizleme hizmeti ve bu hizmete ilişkin fiyat listesi,\n g) Toplam personelin en az yüzde onbeşi oranında konusunda eğitim almış veya sertifikalı personel,\n ğ) Konusunda eğitimli veya en az beş yıl deneyim sahibi idari personel,\n bulunur.\n (6) Beş yıldızlı oteller, dört yıldızlı otellere ilave olarak aşağıda belirtilen nitelikleri taşıyan, 14 üncü maddede belirtilen ünitelerden tesisin bulunduğu yöre, müşteri profili, işletmecilik özelliklerine göre tercihe bağlı olarak bünyesinde bulunduran, belgelendirme denetimi veya sınıflandırma çalışmasında bu sınıf için belirlenmiş puan barajını aşan otellerdir. Bu otellerde,\n a) En az altmış oda,\n b) Kat sayısı itibarıyla müşteri asansörü zorunlu olanlarda servis alanları ile bağlantılı servis asansörü (Müşteri asansörü zorunlu olmayan tesislerde servis merdiveni yeterli görülür, konaklama üniteleri ayrık, yaygın ve az katlı yerleşimler şeklinde düzenlenen tesislerde servis merdiveni veya asansörü ile ilgili esaslar tebliğ ile belirlenir),\n c) Odalarda mini bar ile içecek türlerine uygun servis malzemesi,\n ç) Odalarda sehpa ile sofa veya kanepe ya da kişi başına bir koltuktan oluşan oturma grubu,\n d) Odalarda uluslararası kanal erişimi olan panel televizyon,\n e) Odalarda ve banyolarda ilave en az beş çeşit buklet malzemesi,\n f) Odalarda müşterinin sıcak içecek hazırlamasına imkân sağlayan donanım ve servis malzemesi,\n g) Odalarda boy aynası,\n ğ) Yatak başucunda priz,\n h) Yatak başucunda banyo hariç oda aydınlatmasının kontrolü imkânı,\n ı) Banyolarda resepsiyonla bağlantılı telefon veya odalarda telsiz telefon,\n i) Oda servisi hizmeti ve bu hizmete ilişkin bilgilendirme ile menü,\n j) Yatak kat koridorlarında resepsiyonla bağlantılı telefon,\n k) Toplam personelin en az yüzde otuzu oranında konusunda eğitim almış veya sertifikalı personel,\n l) Resepsiyondan ayrı bir mahalde konusunda eğitimli ve deneyimli personel tarafından verilen müşteri ilişkileri ve danışmanlık hizmetleri,\n m) Oda sayısının yüzde onu oranında otopark hizmetinin görevli personel aracılığıyla sağlanmasına yönelik hizmet,\n n) Müşteri girişinden ayrı personel ve malzeme girişi,\n bulunur.",
+      "preview": "(1) Oteller; asıl işleri müşterilerin konaklama ihtiyaçlarını sağlamak olan, bu hizmetin yanında yardımcı iş olarak yeme-içme, toplantı, kut…",
+      "kitap": null,
+      "kisim": "İKİNCİ KISIM · Tesis Türleri",
+      "bolum": "BİRİNCİ BÖLÜM · Konaklama Tesisleri",
+      "ayirim": null,
+      "maddeBaslik": "Oteller",
+      "sectionPath": [
+        "İKİNCİ KISIM · Tesis Türleri",
+        "BİRİNCİ BÖLÜM · Konaklama Tesisleri",
+        "Oteller"
+      ]
+    },
+    {
+      "id": "yonetmelik:1134:m:20",
+      "maddeKind": "madde",
+      "maddeNo": "20",
+      "heading": "Madde 20",
+      "text": "(1) Tatil köyleri; doğal güzellikler içerisinde, doğal ve yöresel değerlerin korunmasına da özen gösterilerek nitelikli çevre düzenlemesi ile gerçekleştirilen, asıl işleri konaklama hizmeti olan, bu hizmetin yanında yardımcı iş olarak yeme-içme, çeşitli spor veya eğlence hizmetlerinin de sağlandığı yaygın yerleşim düzeninde, tüm cephelerinde en fazla üç katlı olarak görülen yapılardan oluşan tesislerdir. Bu Yönetmelikte turizm tesisleri ve konaklama tesisleri için belirlenmiş olan asgari niteliklere ek olarak aşağıda belirtilen nitelikleri sağlayan, 14 üncü maddede belirtilen ünitelerden, tesisin bulunduğu yöre, müşteri profili, işletmecilik özelliklerine göre tercihe bağlı olarak bünyesinde bulunduran, belgelendirme denetimi veya sınıflandırma çalışmasında sınıfı için belirlenmiş puan barajını aşan tatil köyleri, dört ve beş yıldızlı olarak sınıflandırılır.[27]\n (2) Tatil köylerinde;\n a) En az altmış oda,[28]\n b) Tatil köyü sınırlarının emniyet altına alınması sağlanarak girişte kontrol ünitesi,\n c) Oda sayısının yüzde onu oranında otopark,\n ç) Müşterilere tesisin bütününü tanıtıcı ve tüm birimlere ulaşımını kolaylaştırıcı görsel doküman gibi hizmet sunumu,\n d) Diğer ünitelerin gürültü gibi rahatsız edici etkilerinden korunacak biçimde düzenlenmiş müşteri yatak odaları,\n e) Müşterilerin oda ve diğer ünitelere rahatça ulaşımını sağlayacak ve karanlıkta da görülebilecek nitelikte yönlendirme işaretleri,\n f) Resepsiyon ve bekleme bölümünden oluşan lobi (yazlık tesislerde bu amaçla kullanılan mahallin bir kısmı açık olabilir),\n g) Yönetim odaları,\n ğ) Tesis yatak kapasitesinin aynı anda en az yüzde otuzuna hizmet veren lokanta veya lokantalar,\n h) Oturma alanı,\n ı) Kat hizmetinin verilmesini sağlayacak sayıda kat ofisleri,\n i) Konaklama bloklarında resepsiyonla bağlantılı en az bir telefon,\n j) Bagaj odası ve bu mahalde emanet hizmeti ile bagaj taşıma hizmeti,\n k) Odalarda ve genel mahallerde klima,\n l) Odalarda ve genel mahallerde internet hizmeti,\n m) Odalarda sehpa ile en az bir sandalye veya koltuk,\n n) Odalarda valizlik,\n o) Odalarda televizyon,\n ö) Odalarda saç kurutma makinesi,\n p) Odalarda mini bar ile içecek türlerine uygun servis malzemesi,\n r) Odalarda boy aynası,\n s) Odalarda ve banyolarda, bornoz, diş temizlik kiti, traş kiti, tırnak törpüsü, cımbız, tırnak makası, tek kullanımlık terlik, dikiş kiti, ayakkabı sileceği, ayakkabı cilası, duş bonesi, duş köpüğü, duş jeli, vücut losyonu, saç kremi, makyaj temizleme pamuğu, kulak temizliği pamuğu, hijyen poşeti, kutu kâğıt mendil, bloknot-kalem, uyku gözlüğü, şemsiye gibi toplam en az on çeşit buklet malzemesi,\n ş) Çamaşır yıkama ve ütüleme hizmeti ile bu hizmete ilişkin çamaşır torbası ve fiyat tarifesi veya müşteri kullanımına yönelik çamaşır makineleri,\n t) Toplam personelin en az yüzde onbeşi oranında konusunda eğitim almış veya sertifikalı personel,\n u) Konusunda eğitimli veya en az beş yıl deneyim sahibi idari personel,\n bulunur.",
+      "preview": "(1) Tatil köyleri; doğal güzellikler içerisinde, doğal ve yöresel değerlerin korunmasına da özen gösterilerek nitelikli çevre düzenlemesi il…",
+      "kitap": null,
+      "kisim": "İKİNCİ KISIM · Tesis Türleri",
+      "bolum": "BİRİNCİ BÖLÜM · Konaklama Tesisleri",
+      "ayirim": null,
+      "maddeBaslik": "Tatil köyleri",
+      "sectionPath": [
+        "İKİNCİ KISIM · Tesis Türleri",
+        "BİRİNCİ BÖLÜM · Konaklama Tesisleri",
+        "Tatil köyleri"
+      ]
+    },
+    {
+      "id": "yonetmelik:1134:m:21",
+      "maddeKind": "madde",
+      "maddeNo": "21",
+      "heading": "Madde 21",
+      "text": "(1) Butik oteller; bu Yönetmelikte turizm tesisleri ve konaklama tesisleri için belirlenmiş olan asgari nitelikleri sağlayan, deneyimli, konusunda eğitimli veya sertifikalı personel ile kişiye özel yüksek standartta hizmet verilen, en az on, en fazla altmış odalı otellerdir.\n (2) Butik otellerde;\n a) Üstün kaliteli, özel tasarım seri üretim, sanatçı tarafından tesise özel tasarlanarak üretilmiş veya antika ürünlerden oluşan tefriş, dekorasyon, donanım ve servis malzemeleri,\n b) Alakart hizmet verilen lokanta,\n c) Resepsiyon, lobi, yatak kapasitesinin yüzde yirmibeşi oranında oturma alanı,\n ç) Yönetim odası,\n d) Genel mahallerde klima,\n e) Genel mahallerde ve odalarda kablosuz internet,\n f) Beş yıldızlı otel odaları için belirlenen nitelikleri taşıyan müşteri yatak odaları,\n g) Yatak katlarında kat hizmetleri ofisi veya dolap,\n ğ) Oda banyolarında aydınlatmalı büyüteçli ayna,\n h) Yatak odasını gece kullanımına hazırlama hizmeti,\n ı) Oda servisi hizmeti ve bu hizmete ilişkin bilgilendirme ile menü,\n i) Kat sayısı itibarıyla müşteri asansörü zorunlu olanlarda servis alanları ile bağlantılı servis asansörü (Müşteri asansörü zorunlu olmayan tesislerde servis merdiveni yeterli görülür, konaklama üniteleri ayrık, yaygın ve az katlı yerleşimler şeklinde düzenlenmiş tesislerde servis merdiveni veya asansörü ile ilgili esaslar tebliğ ile belirlenir.),\n j) Bagaj odası ve bu mahalde emanet hizmeti ile bagaj taşıma hizmeti,\n k) Çamaşır yıkama, ütüleme, kuru temizleme ve terzi hizmeti ile bu hizmetlere ilişkin çamaşır torbası ve fiyat tarifesi,\n l) Görevli personel aracılığıyla sağlanan otopark hizmeti,\n m) Tesis müşteri yatak kapasitesinin en az yüzde ellisine denk gelen sayıda deneyimli, konusunda eğitimli veya sertifikalı personel ile konusunda eğitimli veya en az beş yıl deneyimli idari personel,\n n) En az elli kişi kapasiteli olmak üzere 14 üncü maddenin beşinci fıkrasının (a), (b), (c), (ç), (g), (h), (ı) ve (i) bentlerinde belirtilen ünitelerden biri,\n o) 14 üncü maddenin beşinci fıkrasında belirtilen ünitelerden en az biri (aynı fıkranın (k) bendinde belirtilen ünite hariç),\n bulunur.",
+      "preview": "(1) Butik oteller; bu Yönetmelikte turizm tesisleri ve konaklama tesisleri için belirlenmiş olan asgari nitelikleri sağlayan, deneyimli, kon…",
+      "kitap": null,
+      "kisim": "İKİNCİ KISIM · Tesis Türleri",
+      "bolum": "BİRİNCİ BÖLÜM · Konaklama Tesisleri",
+      "ayirim": null,
+      "maddeBaslik": "Butik oteller",
+      "sectionPath": [
+        "İKİNCİ KISIM · Tesis Türleri",
+        "BİRİNCİ BÖLÜM · Konaklama Tesisleri",
+        "Butik oteller"
+      ]
+    },
+    {
+      "id": "yonetmelik:1134:m:22",
+      "maddeKind": "madde",
+      "maddeNo": "22",
+      "heading": "Madde 22",
+      "text": "(1) Özel konaklama tesisleri, ülke turizmine katkı sağlayan ve Bakanlık tarafından desteklenmeleri uygun görülen, yer aldığı yapı veya bulunduğu bölge itibarıyla aşağıda belirtilen özelliklerden en az birini taşıyan nitelikli tesislerdir:\n a) Mimari özgünlük.\n b) Tarihi değer.\n c) Doğaya ait özellik.\n ç) Yerel, ulusal veya başka uluslara ait kültürleri yansıtan yapı, tefriş veya dekorasyon.\n (2) Özel konaklama tesislerinde, toplam yatak kapasitesinin en az yüzde yirmisi oranında deneyimli veya konusunda eğitimli veya sertifikalı personel ile nitelikli hizmet sunulması gerekir.\n (3) Özel konaklama tesisleri, bu Yönetmelikte turizm tesisleri ve konaklama tesisleri için belirlenmiş olan asgari nitelikleri sağlar. Korunması gerekli taşınmaz kültür varlığında yer alan işletmelerde ise bu niteliklere ilişkin olarak yapının özelliğine göre değerlendirme yapılır.",
+      "preview": "(1) Özel konaklama tesisleri, ülke turizmine katkı sağlayan ve Bakanlık tarafından desteklenmeleri uygun görülen, yer aldığı yapı veya bulun…",
+      "kitap": null,
+      "kisim": "İKİNCİ KISIM · Tesis Türleri",
+      "bolum": "BİRİNCİ BÖLÜM · Konaklama Tesisleri",
+      "ayirim": null,
+      "maddeBaslik": "Özel konaklama tesisleri",
+      "sectionPath": [
+        "İKİNCİ KISIM · Tesis Türleri",
+        "BİRİNCİ BÖLÜM · Konaklama Tesisleri",
+        "Özel konaklama tesisleri"
+      ]
+    },
+    {
+      "id": "yonetmelik:1134:m:23",
+      "maddeKind": "madde",
+      "maddeNo": "23",
+      "heading": "Madde 23",
+      "text": "(1) Moteller, bu Yönetmelikte yer alan turizm tesisleri ve konaklama tesislerinin asgari niteliklerini sağlayan, yerleşim merkezleri dışında, karayolu güzergâhı veya yakın çevrelerinde inşa edilen, motorlu araçlarıyla yolculuk yapanların konaklama, yeme-içme ve araçlarının park ihtiyaçlarını karşılayan en az on odalı tesislerdir.\n (2) Motellerde;\n a) Tesisin kolayca bulunmasını ve görülmesini sağlayan yol ve yön işaretleri, otopark ile diğer hizmet tesislerini gösteren işaretler,\n b) Yeterli aydınlatma ile iyi bir çevre düzenlemesi,\n c) Resepsiyon ve kapasiteye yeterli bekleme bölümünden oluşan lobi,\n ç) Kahvaltı salonu (yeterli büyüklükte oturma alanı ve servis mutfağı veya lokanta bulunması durumunda bu mahaller kahvaltı verme amaçlı da kullanılabilir, yazlık tesislerde bu amaçla kullanılan salonun bir kısmı açık olabilir),\n d) Yönetim odası,\n e) Genel mahallerde sıcak ve soğuk içecek ve basit yiyecek hizmeti,\n f) Genel mahallerde kablosuz internet hizmeti,\n g) Satış ünitesi,\n ğ) Oda sayısının yüzde sekseni oranında otopark,\n bulunur.\n (3) Motellerde trafik gürültüsüne karşı gerekli önlemler alınır.",
+      "preview": "(1) Moteller, bu Yönetmelikte yer alan turizm tesisleri ve konaklama tesislerinin asgari niteliklerini sağlayan, yerleşim merkezleri dışında…",
+      "kitap": null,
+      "kisim": "İKİNCİ KISIM · Tesis Türleri",
+      "bolum": "BİRİNCİ BÖLÜM · Konaklama Tesisleri",
+      "ayirim": null,
+      "maddeBaslik": "Moteller",
+      "sectionPath": [
+        "İKİNCİ KISIM · Tesis Türleri",
+        "BİRİNCİ BÖLÜM · Konaklama Tesisleri",
+        "Moteller"
+      ]
+    },
+    {
+      "id": "yonetmelik:1134:m:24",
+      "maddeKind": "madde",
+      "maddeNo": "24",
+      "heading": "Madde 24",
+      "text": "(1) (Değişik:RG-16/3/2023-32134-C.K.-6969/14 md.) Pansiyonlar; bu Yönetmelikte yer alan turizm tesisleri ve konaklama tesislerinin asgari niteliklerini sağlayan en az üç, en fazla yirmi beş odalı yönetimi basit tesislerdir.\n (2) (Mülga:RG-22/12/2024-32760-CK-9287/6 md.)",
+      "preview": "(1) (Değişik:RG-16/3/2023-32134-C.K.-6969/14 md.) Pansiyonlar; bu Yönetmelikte yer alan turizm tesisleri ve konaklama tesislerinin asgari ni…",
+      "kitap": null,
+      "kisim": "İKİNCİ KISIM · Tesis Türleri",
+      "bolum": "BİRİNCİ BÖLÜM · Konaklama Tesisleri",
+      "ayirim": null,
+      "maddeBaslik": "Pansiyonlar",
+      "sectionPath": [
+        "İKİNCİ KISIM · Tesis Türleri",
+        "BİRİNCİ BÖLÜM · Konaklama Tesisleri",
+        "Pansiyonlar"
+      ]
+    },
+    {
+      "id": "yonetmelik:1134:m:25",
+      "maddeKind": "madde",
+      "maddeNo": "25",
+      "heading": "Madde 25",
+      "text": "(1) Apart oteller; bu Yönetmelikte yer alan turizm tesisleri ve konaklama tesislerinin asgari niteliklerini sağlayan, müşterinin kendi yeme ve içme ihtiyacını karşılayabilmesi için gerekli teçhizatla donatılan, otel olarak işletilen ve tüm odaları 18 inci maddenin birinci fıkrasının (a) bendinde belirtilen apart oda şeklinde düzenlenen en az on odalı tesislerdir.\n (2) Apart otellerde;\n a) Resepsiyon ve bekleme bölümünden oluşan lobi (yazlık tesislerde bu amaçla kullanılan mahallin bir kısmı açık olabilir),\n b) Yönetim odası,\n c) Apart odalarda;\n 1) Tefriş elemanlarında standart beraberliği,\n 2) Çamaşır yıkama ve ütüleme hizmeti verilmemesi halinde otomatik çamaşır makinesi.\n ç) (Mülga:RG-16/3/2023-32134-C.K.-6969/15 md.)\n bulunur.",
+      "preview": "(1) Apart oteller; bu Yönetmelikte yer alan turizm tesisleri ve konaklama tesislerinin asgari niteliklerini sağlayan, müşterinin kendi yeme…",
+      "kitap": null,
+      "kisim": "İKİNCİ KISIM · Tesis Türleri",
+      "bolum": "BİRİNCİ BÖLÜM · Konaklama Tesisleri",
+      "ayirim": null,
+      "maddeBaslik": "Apart oteller",
+      "sectionPath": [
+        "İKİNCİ KISIM · Tesis Türleri",
+        "BİRİNCİ BÖLÜM · Konaklama Tesisleri",
+        "Apart oteller"
+      ]
+    },
+    {
+      "id": "yonetmelik:1134:m:26",
+      "maddeKind": "madde",
+      "maddeNo": "26",
+      "heading": "Madde 26",
+      "text": "(1) Gastronomi tesisleri; yemek kültürünün bir turizm ürünü haline getirilerek müşteriye sunulduğu, yöresel, geleneksel, ulusal veya uluslararası özellik taşıyan mutfak ile yiyecek içecek servisinin yapıldığı, ülke turizmine katkı sağladığı değerlendirilen ve bu yönleriyle Bakanlık tarafından desteklenmeleri uygun görülen yeme-içme tesisleridir.\n (2) Gastronomi tesisleri aşağıda belirtilen nitelikleri taşır:\n a) Aşağıda belirtilen niteliklerden en az bir tanesinin sağlanması gerekir.\n 1) İşletmenin, seri üretim ve hazır yemek haricinde, yeme-içme alanında yerel, bölgesel, ulusal ya da uluslararası yazılı ve görsel basında marka bilinirliği veya ün sahibi olması.\n 2) İşletmenin (1) numaralı alt bentteki nitelikleri sağlayan bir işletmenin kullanım hakkını içeren franchise, işletmecilik anlaşması veya benzeri sözleşmeye dayanan bir hakka sahip olması.\n 3) Başvuru sahibi gerçek kişinin veya başvuru sahibi tüzel kişi ise hâkim ortağının veya ortaklarının hisselerinin yüzde ellibirinden fazlasına sahip olduğu diğer şirketin; belge talebinde bulunulan işletme haricinde (1) veya (2) numaralı alt bentte sayılan niteliklere sahip ayrı bir işletmesinin olması.\n 4) Başvuru sahibi gerçek kişinin veya tüzel kişinin hâkim ortağının veya hisselerin çoğunluğuna sahip ortaklarının gastronomi dalında; ulusal veya uluslararası örgün eğitim kurumlarından diplomasının veya Mesleki Yeterlilik Kurumu tarafından yetkilendirilmiş belgelendirme kuruluşlarınca düzenlenen mesleki yeterlilik belgesinin bulunması. [29]\n 5) (Ek:RG-4/4/2020-31089-C.K-2360/2 md.) Tesisin, yoğun turizm faaliyetlerinin bulunduğu bir bölgede yer alması.\n b) (a) bendine ilave olarak bu tesislerde;\n 1) Mutfak alanı en az yirmibeş metrekare olmak kaydıyla, 14 üncü maddenin beşinci fıkrasının (f) bendinde belirtilen niteliklere sahip alakart hizmeti verilen lokantanın bulunması,\n 2) (Yeniden Düzenleme:RG-22/12/2024-32760-CK-9287/7 md.) Yemek salonunun taban döşemesinin mevcut arazi seviyesi üzerinde yer alması ve en az bir cepheden yeterli doğal aydınlatma imkânı sağlanması,\n 3) Kadın ve erkek müşteriler için ayrı tuvalet ve lavabo düzenlemesinin bulunması,\n 4) Yemek salonunda klima sisteminin bulunması,\n 5) Nitelikli tefriş, dekorasyon, donanım ve servis malzemeleri, başka uluslara ait mutfaklara yönelik olarak faaliyet gösterilmesi durumunda o ülkenin kültürünü yansıtacak şekilde kaliteli ve nitelikli olması veya bu kültüre ait unsurların bulundurulması,[30]\n 6) Mutfak şefinin gastronomi alanında; ulusal veya uluslararası örgün eğitim kurumlarından diplomasının veya Mesleki Yeterlilik Kurumu tarafından yetkilendirilmiş belgelendirme kuruluşlarınca düzenlenen mesleki yeterlilik belgesinin veya ödülünün bulunması ya da yerel, ulusal veya uluslararası tanınırlığının olması; başka bir ulusa ait mutfağa yönelik olarak faaliyet gösterilmesi durumunda, bu alanda eğitimli mutfak şefinin istihdam edilmesi,[31]\n 7) Çalışan personelin en az yüzde yirmisinin konusunda deneyimli veya eğitim almış olması,[32]\n 8) Menüdeki ürünlerin içeriklerinin ve bu içeriklerin alerjen özelliklerinin, vejetaryen veya vegan tüketimine uygunluklarının, inanç hassasiyetine yönelik içerik taşıyıp taşımadığı hususlarının, biri Türkçe olmak üzere en az iki dilde belirtilmesi,\n 9) Ulusal, yöresel ve geleneksel mutfakla hizmet verilmesi durumunda; yiyecek malzemelerinin en az beş çeşidinin yöresel ürünlerden seçilmesi, geleneksel usul veya geleneksel usulün modern yöntemlerle yorumlanarak pişirilmesi ve sunumu, anlatımı ve menüde açıklanması,\n 10) Başka bir ulusa ait mutfağa yönelik olarak faaliyet gösterilmesi durumunda, yiyecek malzemelerinin sunumu yapılan mutfağa özgü ürünlerle geleneksel usul veya geleneksel usulün modern yöntemlerle yorumlanarak pişirilmesi ve sunumu, anlatımı ve menüde açıklanması,\n 11) Dünya mutfağına yönelik olarak faaliyet gösterilmesi durumunda; başlangıç, ara sıcak, ana yemek ve tatlı çeşitlerinden en az üçer adet olacak şekilde kaliteli malzemelerle ürünlerin hazırlanması ve uygun servis malzemeleriyle müşteriye sunulması, anlatımı ve menüde açıklanması,\n 12) Sunulan yiyecek ürünlerinin işletme tarafından hazırlanması,\n nitelikleri aranır.\n (3) (Mülga:RG-16/3/2023-32134-C.K.-6969/16 md.)\n (4) Korunması gerekli taşınmaz kültür varlığında yer alan işletmelerde, 14 üncü maddenin beşinci fıkrasının (f) bendinde belirtilen mahallerin metrik ölçüleri ve mutfak ile yemek salonu arasında servis bağlantısı hususlarında, yapının niteliğine göre değerlendirme yapılır.",
+      "preview": "(1) Gastronomi tesisleri; yemek kültürünün bir turizm ürünü haline getirilerek müşteriye sunulduğu, yöresel, geleneksel, ulusal veya uluslar…",
+      "kitap": null,
+      "kisim": "İKİNCİ KISIM · Tesis Türleri",
+      "bolum": "İKİNCİ BÖLÜM · Gastronomi Tesisleri",
+      "ayirim": null,
+      "maddeBaslik": "Gastronomi tesisleri",
+      "sectionPath": [
+        "İKİNCİ KISIM · Tesis Türleri",
+        "İKİNCİ BÖLÜM · Gastronomi Tesisleri",
+        "Gastronomi tesisleri"
+      ]
+    },
+    {
+      "id": "yonetmelik:1134:m:27",
+      "maddeKind": "madde",
+      "maddeNo": "27",
+      "heading": "Madde 27",
+      "text": "(1) Termal tesisler; doğal tedavi edici unsurların sağlık amaçlı kullanıldığı kaplıca, içmece ve talassoterapi gibi üniteleri içeren, konaklamalı veya konaklamasız olarak düzenlenen tesislerdir. Termal tesisler, konaklamalı termal tesisler veya konaklamasız termal tesisler adı altında belgelendirilir.\n a) Konaklamalı termal tesisler; bu Yönetmelikte tanımlanan konaklama tesisleri ile birlikte işletilip belgelendirilen ve bünyesinde yer aldıkları konaklama tesislerinin tür ve sınıfı belirtilerek isimlendirilen termal tesislerdir.\n b) Konaklamasız termal tesisler; bünyesinde satış ünitesi ve 14 üncü maddenin beşinci fıkrasının (f) ve (ğ) bentlerinde belirtilen yeme-içme ünitelerinden en az birini bulunduran, konaklama yapılmayan termal tesislerdir.",
+      "preview": "(1) Termal tesisler; doğal tedavi edici unsurların sağlık amaçlı kullanıldığı kaplıca, içmece ve talassoterapi gibi üniteleri içeren, konakl…",
+      "kitap": null,
+      "kisim": "İKİNCİ KISIM · Tesis Türleri",
+      "bolum": "ÜÇÜNCÜ BÖLÜM · Sağlık Tesisleri",
+      "ayirim": null,
+      "maddeBaslik": "Termal tesisler",
+      "sectionPath": [
+        "İKİNCİ KISIM · Tesis Türleri",
+        "ÜÇÜNCÜ BÖLÜM · Sağlık Tesisleri",
+        "Termal tesisler"
+      ]
+    },
+    {
+      "id": "yonetmelik:1134:m:28",
+      "maddeKind": "madde",
+      "maddeNo": "28",
+      "heading": "Madde 28",
+      "text": "(1) Sağlıklı yaşam tesisleri; bünyesinde Sağlık Bakanlığı tarafından tanımlanan sağlık merkezi ile dört veya beş yıldızlı otel bulunan konaklama tesisleridir.",
+      "preview": "(1) Sağlıklı yaşam tesisleri; bünyesinde Sağlık Bakanlığı tarafından tanımlanan sağlık merkezi ile dört veya beş yıldızlı otel bulunan konak…",
+      "kitap": null,
+      "kisim": "İKİNCİ KISIM · Tesis Türleri",
+      "bolum": "ÜÇÜNCÜ BÖLÜM · Sağlık Tesisleri",
+      "ayirim": null,
+      "maddeBaslik": "Sağlıklı yaşam tesisleri",
+      "sectionPath": [
+        "İKİNCİ KISIM · Tesis Türleri",
+        "ÜÇÜNCÜ BÖLÜM · Sağlık Tesisleri",
+        "Sağlıklı yaşam tesisleri"
+      ]
+    },
+    {
+      "id": "yonetmelik:1134:m:29",
+      "maddeKind": "madde",
+      "maddeNo": "29",
+      "heading": "Madde 29",
+      "text": "(1) Spor tesisleri; bu Yönetmelikte turizm tesisleri için belirlenmiş olan asgari nitelikleri sağlayan, kültür ve turizm koruma ve gelişim bölgeleri ile turizm merkezlerinde, olimpik spor türlerinden en az bir tanesinin ana faaliyet olarak kurgulandığı, bunun yanında çeşitli spor dallarının uluslararası normlara uygun alanlarda gerçekleştirildiği, ayrıca bu aktivitelerin tamamlayıcı diğer bölümlerle desteklendiği tesislerdir.\n (2) Bu tesislerde;\n a) Resepsiyon, giriş ve emanet bölümünden oluşan giriş tesisleri,\n b) Yönetim odaları,\n c) Satış üniteleri,\n ç) Tesisin çevreden tecridini sağlayan çit, duvar, yeşillik gibi malzeme,\n d) Uluslararası standartlarda ana saha,\n e) Isınma ve antrenman sahaları,\n f) Kadın ve erkek sporcular için ayrı düzenlenmiş soyunma yeri ve dolapları, duş ve tuvalet düzenlemeleri,\n g) Saha bakım üniteleri ve depolar,\n ğ) Personel için soyunma yeri ve dolapları, duş ve tuvalet düzenlemeleri,\n h) Dinlenme ve rekreasyon alanları,\n ı) Otopark,\n i) En az yüz kişilik kapalı kapasiteyi sağlayacak şekilde, 14 üncü maddenin beşinci fıkrasının (f), (ğ), (ı) ve (i) bentlerinde düzenlenen yeme-içme tesislerinden en az bir adedi,\n bulunur.",
+      "preview": "(1) Spor tesisleri; bu Yönetmelikte turizm tesisleri için belirlenmiş olan asgari nitelikleri sağlayan, kültür ve turizm koruma ve gelişim b…",
+      "kitap": null,
+      "kisim": "İKİNCİ KISIM · Tesis Türleri",
+      "bolum": "DÖRDÜNCÜ BÖLÜM · Spor Tesisleri",
+      "ayirim": null,
+      "maddeBaslik": "Spor tesisleri",
+      "sectionPath": [
+        "İKİNCİ KISIM · Tesis Türleri",
+        "DÖRDÜNCÜ BÖLÜM · Spor Tesisleri",
+        "Spor tesisleri"
+      ]
+    },
+    {
+      "id": "yonetmelik:1134:m:30",
+      "maddeKind": "madde",
+      "maddeNo": "30",
+      "heading": "Madde 30",
+      "text": "(1) Golf tesisleri; bu Yönetmelikte turizm tesisleri için belirlenmiş olan asgari nitelikleri sağlayan, golf sporunun uluslararası normlara uygun olarak gerçekleştirildiği tesislerdir.\n (2) Golf tesislerinde;\n a) Çevre özelliğine göre doğal veya yapay çit, duvar, yeşillik gibi tecrit elemanlarıyla emniyet altına alınmış golf sahası,\n b) En az bir adet onsekiz delikli golf parkuru,\n c) Golf oyuncularının eğitimi ve ısınması için kullanılmak üzere ayrı bir ısınma ve pratik yapma alanı,\n ç) Aşağıda belirtilen üniteleri bulunan kulüp binası;\n 1) Resepsiyon, emanet hizmetleri ve bekleme yerini kapsayan giriş bölümü,\n 2) En az yüz kişilik lokanta,\n 3) Golf malzemelerinin muhafazasına yönelik düzenleme ile kadın ve erkek golf oyuncuları için ayrı düzenlenen soyunma yeri ve kilitli dolapları, duş ve tuvalet düzenlemeleri,\n 4) Satış ünitesi,\n 5) Otopark,\n 6) Yönetim odası,\n 7) Personel için soyunma yeri ve dolapları, duş ve tuvalet düzenlemeleri,\n 8) Arazi bakım üniteleri, depolar ve golf arabaları için otopark,\n bulunur.\n (3) Golf tesislerinde; golf alanlarını daraltmamak koşuluyla bu Yönetmelikte tanımlanan konaklama tesisleri ile yeme-içme, eğlence ve spor ünitelerine yer verilebilir.",
+      "preview": "(1) Golf tesisleri; bu Yönetmelikte turizm tesisleri için belirlenmiş olan asgari nitelikleri sağlayan, golf sporunun uluslararası normlara…",
+      "kitap": null,
+      "kisim": "İKİNCİ KISIM · Tesis Türleri",
+      "bolum": "DÖRDÜNCÜ BÖLÜM · Spor Tesisleri",
+      "ayirim": null,
+      "maddeBaslik": "Golf tesisleri",
+      "sectionPath": [
+        "İKİNCİ KISIM · Tesis Türleri",
+        "DÖRDÜNCÜ BÖLÜM · Spor Tesisleri",
+        "Golf tesisleri"
+      ]
+    },
+    {
+      "id": "yonetmelik:1134:m:31",
+      "maddeKind": "madde",
+      "maddeNo": "31",
+      "heading": "Madde 31",
+      "text": "(1) Kış sporları mekanik tesisleri; kayakçıların kayak yapması amacıyla farklı noktalar arasında taşınmasına yönelik, teleferik, telesiyej, teleski, tele kabin gibi mekanik düzenlemelerden oluşan tesislerdir.\n (2) Bu tesislerde kullanıcıların ihtiyaçlarını karşılamak amacıyla; güneşlenme ve seyir noktaları, idare ünitesi, genel tuvaletler, korunak ve servis üniteleri ile teleski türü hariç olmak üzere alt, üst veya ara istasyonlarda büfe hizmeti düzenlenir. Kullanıcıların mekanik düzenlemelerden kaynaklanabilecek tehlikelere karşı güvenliklerini sağlayacak önlemler işletmece alınır.\n (3) Kış sporları mekanik tesislerinin yer aldığı kayak pistlerinde alınacak güvenlik önlemleri ilgili Valilik tarafından belirlenir ve denetlenir.",
+      "preview": "(1) Kış sporları mekanik tesisleri; kayakçıların kayak yapması amacıyla farklı noktalar arasında taşınmasına yönelik, teleferik, telesiyej,…",
+      "kitap": null,
+      "kisim": "İKİNCİ KISIM · Tesis Türleri",
+      "bolum": "DÖRDÜNCÜ BÖLÜM · Spor Tesisleri",
+      "ayirim": null,
+      "maddeBaslik": "Kış sporları mekanik tesisleri",
+      "sectionPath": [
+        "İKİNCİ KISIM · Tesis Türleri",
+        "DÖRDÜNCÜ BÖLÜM · Spor Tesisleri",
+        "Kış sporları mekanik tesisleri"
+      ]
+    },
+    {
+      "id": "yonetmelik:1134:m:32",
+      "maddeKind": "madde",
+      "maddeNo": "32",
+      "heading": "Madde 32",
+      "text": "(1) Kongre ve sergi merkezleri; bu Yönetmelikte turizm tesisleri için belirlenmiş olan asgari nitelikleri sağlayan kongre, toplantı, sergi ve performans faaliyetlerinin gerçekleştirildiği tesislerdir.\n (2) Kongre ve sergi merkezlerinde;\n a) En az bin kişiye hizmet verebilecek büyüklükte bölünebilir bir kongre salonu,\n b) Dört adet en az elli kişilik toplantı salonu,\n c) Salonlarla fuayeler ve servis alanları arasında bağlantı,\n ç) Salonlarda amacına uygun araç-gereç ve donanım,\n d) Simültane tercüme odaları ve hizmeti,\n e) Teknik imkânlarla donatılmış basın merkezi,\n f) Kapalı sergi ve açık/kapalı fuar alanları,\n g) Yeme-içme hizmeti ve mutfak,\n ğ) Yönetim odaları,\n h) Personel lavabo ve tuvaletleri,\n ı) Tüm mahallerde havalandırma ve klima sistemi,\n i) Malzeme depoları,\n j) Kapasitesinin yüzde beşi oranında otopark,\n k) Ana girişten ayrı malzeme girişi,\n bulunur.",
+      "preview": "(1) Kongre ve sergi merkezleri; bu Yönetmelikte turizm tesisleri için belirlenmiş olan asgari nitelikleri sağlayan kongre, toplantı, sergi v…",
+      "kitap": null,
+      "kisim": "İKİNCİ KISIM · Tesis Türleri",
+      "bolum": "BEŞİNCİ BÖLÜM · Kongre ve Rekreasyon Tesisleri",
+      "ayirim": null,
+      "maddeBaslik": "Kongre ve sergi merkezleri",
+      "sectionPath": [
+        "İKİNCİ KISIM · Tesis Türleri",
+        "BEŞİNCİ BÖLÜM · Kongre ve Rekreasyon Tesisleri",
+        "Kongre ve sergi merkezleri"
+      ]
+    },
+    {
+      "id": "yonetmelik:1134:m:33",
+      "maddeKind": "madde",
+      "maddeNo": "33",
+      "heading": "Madde 33",
+      "text": "(1) Eğlence merkezleri; bu Yönetmelikte turizm tesisleri için belirlenmiş olan asgari nitelikleri sağlayan, eğlence ve rekreasyon ihtiyacını karşılamak amacıyla oluşturulan ve müşterinin aktif katılımının sağlandığı tesislerdir.\n (2) Eğlence merkezlerinde;\n a) En az yüzelli kişilik olmak üzere, 14 üncü maddenin beşinci fıkrasının (f) bendinde belirtilen niteliklere sahip lokanta,\n b) En az beşyüz kişi kapasiteyi sağlayan, 14 üncü maddenin beşinci fıkrasının (c) veya (ç) bentlerinde belirtilen salon veya salonlar,\n c) En az yüz kişilik olmak üzere, 14 üncü maddenin beşinci fıkrasının (h) bendinde belirtilen salon,\n ç) (a) ve (b) bentlerinde belirtilen mahallerin toplam kapasitelerinin yüzde yirmisi oranında otopark,\n d) Satış üniteleri,\n e) Yüzme veya eğlence havuzu,\n f) En az ikiyüzelli metrekare bağımsız alanı olan sergi salonu,\n g) 14 üncü maddenin beşinci fıkrasının (o), (ö), (r), (s), (ş) ve (t) bentlerindeki ünitelerden en az iki çeşidi,\n ğ) Aşağıda sayılan ünitelerden en az üç adedi;\n 1) Elektronik, bilgisayar, ses, ışık gibi teknolojilerin kullanılarak simülasyon, animasyon gibi sanal ortamların yaratılmasına veya gösterilerin yapılmasına imkân sağlayan teknik donanımı haiz en az üç ünite,\n 2) Kay-kay, bisiklet ve benzeri aktiviteler için gösteri alanı,\n 3) El sanatları atölyeleri ve bunların satışına ilişkin üniteler,\n 4) Lunapark,\n 5) Doğa müzesi,\n 6) Su altı canlılarının bilgilendirme ve gösteri amaçlı sergilendiği dev akvaryum,\n 7) Müşteriler için katılım ve canlı izleme imkânının sağlandığı film stüdyoları,\n 8) En az beşyüz kişilik açık hava tiyatrosu,\n h) Tesis bünyesindeki ünitelerden en az üç adedinde ve müşteri tuvaletlerinde bedensel engelliler için gerekli düzenlemeler,\n bulunur.\n (3) Eğlence merkezlerinin bünyesinde konaklama tesisi yer alması halinde, ikinci fıkraya ek olarak aşağıda belirtilen nitelikler aranır:\n a) Tesisin yer aldığı taşınmazın en az beşyüz bin metrekare alana sahip olması.\n b) Tesisin yer aldığı taşınmazın sahil şeridine sınırının olmaması.\n c) Konaklama tesisinin en az beşyüz yataklı beş yıldızlı otel olarak düzenlenmesi.\n (4) Eğlence merkezlerinin bünyesinde üçüncü fıkraya uygun olarak konaklama tesisi yer alması halinde, genel kullanıma da açık ve kapsamlı alışveriş faaliyetine yönelik satış üniteleri düzenlenebilir. Bu durumda satış ünitelerinin bağımsız bölüm toplam brüt alanı, taşınmazın toplam alanının yüzde yirmisini geçemez, bu konuda ilgili kurum veya kuruluş yazısı esas alınır.",
+      "preview": "(1) Eğlence merkezleri; bu Yönetmelikte turizm tesisleri için belirlenmiş olan asgari nitelikleri sağlayan, eğlence ve rekreasyon ihtiyacını…",
+      "kitap": null,
+      "kisim": "İKİNCİ KISIM · Tesis Türleri",
+      "bolum": "BEŞİNCİ BÖLÜM · Kongre ve Rekreasyon Tesisleri",
+      "ayirim": null,
+      "maddeBaslik": "Eğlence merkezleri",
+      "sectionPath": [
+        "İKİNCİ KISIM · Tesis Türleri",
+        "BEŞİNCİ BÖLÜM · Kongre ve Rekreasyon Tesisleri",
+        "Eğlence merkezleri"
+      ]
+    },
+    {
+      "id": "yonetmelik:1134:m:34",
+      "maddeKind": "madde",
+      "maddeNo": "34",
+      "heading": "Madde 34",
+      "text": "(1) Günübirlik tesisler; tahsisli kamu taşınmazı üzerinde yer alan, yeme-içme, dinlenme, eğlence ve spor imkânlarından birkaçını sağlayan ve konaklama yapılmayan tesislerdir.\n (2) Günübirlik tesislerde;\n a) Giriş tesisleri, idare odası ve en fazla iki adet satış ünitesi,\n b) Tesisin kıyıda yer almaması durumunda çit, duvar, yeşillik gibi malzeme ile çevreden tecridi ile açık alanların kullanıma uygun düzenlenmesi,\n c) Otopark hizmeti,\n ç) Kadın ve erkek müşteriler için ayrı tuvaletler ve müşteri tuvaletleri ile tesis bünyesindeki ünitelerde bedensel engelliler için gerekli düzenlemeler,\n d) Personel için soyunma yerleri, dolapları, duş ve tuvalet,\n e) 14 üncü maddenin beşinci fıkrasının (f), (ğ), (ı) ve (i) bentlerinde düzenlenen yeme-içme tesislerinden en az bir adedi,\n f) 14 üncü maddenin beşinci fıkrasının (m), (n), (o), (ö), (r), (s), (ş), (t), (u), (ü), (v), (y) ve (çç) bentlerinde belirtilen spor, eğlence ve oyun imkânını sağlayan ünitelerden en az bir adedi,\n bulunur.\n (3) Günübirlik tesislerin, aynı belge altında bu Yönetmelikte yer alan türlerden bir veya birkaçıyla birlikte yer alması halinde; ikinci fıkranın (a), (b), (ç) ve (d) bentlerinde belirtilen düzenlemeler, ortak kullanıma uygun ve günübirlik tesisin işleyişine de hizmet verecek şekilde bulunuyorsa ayrıca aranmaz.\n (4) 21/7/2006 tarihli ve 26235 sayılı Resmî Gazete’de yayımlanan Kamu Taşınmazlarının Turizm Yatırımlarına Tahsisi Hakkında Yönetmeliğin ek 2 nci maddesi kapsamında kalan günübirlik tesislerde;\n a) İkinci fıkranın (c) ve (d) bentlerinde belirtilen mahaller aranmaz,\n b) İkinci fıkranın (a) bendinde yer alan mahaller açık mahal olarak düzenlenebilir,\n c) İkinci fıkranın (e) bendinde sayılan mahaller yerine 14 üncü maddenin beşinci fıkrasının (bb) bendinde belirtilen yeme-içme ünitelerinden biri düzenlenebilir,\n ç) Müşteriler için soyunma kabini, emanet dolapları ile duş bulunur.\n (5) (Ek:RG-11/5/2024-32543-CK-8447/3 md.) Kamu taşınmazı üzerinde yer alan, imar planında rekreaktif veya rekreasyon alan kullanımında kalan ve bu Yönetmelikte tanımlanan turizm tesislerinin tamamlayıcısı olan alanlarda, eğlence ve dinlenme gereksinimlerini karşılamaya dönük, açık olarak düzenlenen oturma, yemek pişirme ve yemek yerleri, taban alanı altı metre kareyi geçmeyen büfe, çeşmeler, açık havuzlar, oyun ve açık spor alanları, açık gösteri alanları, yeşil bitki örtüsü ve kıyı yapısının elverdiği yerlerde denize iniş rampaları yapılabilir. Bu amaçla tahsis edilen alanlar turizm belgesi kapasitesinde belirtilir.",
+      "preview": "(1) Günübirlik tesisler; tahsisli kamu taşınmazı üzerinde yer alan, yeme-içme, dinlenme, eğlence ve spor imkânlarından birkaçını sağlayan ve…",
+      "kitap": null,
+      "kisim": "İKİNCİ KISIM · Tesis Türleri",
+      "bolum": "BEŞİNCİ BÖLÜM · Kongre ve Rekreasyon Tesisleri",
+      "ayirim": null,
+      "maddeBaslik": "Günübirlik tesisler",
+      "sectionPath": [
+        "İKİNCİ KISIM · Tesis Türleri",
+        "BEŞİNCİ BÖLÜM · Kongre ve Rekreasyon Tesisleri",
+        "Günübirlik tesisler"
+      ]
+    },
+    {
+      "id": "yonetmelik:1134:m:35",
+      "maddeKind": "madde",
+      "maddeNo": "35",
+      "heading": "Madde 35",
+      "text": "(1) (Değişik:RG-16/3/2023-32134-C.K.-6969/17 md.) Kırsal turizm tesisleri; kırsal bölgelerde, dağ veya yaylalarda kurulan, yönetimi basit, konaklama olanağı yanında, bulunduğu bölgedeki kırsal hayatı deneyimleme imkânı sağlayan, yapılarda ana malzeme olarak yöresel inşaat malzemeleri kullanılan, tüm cephelerinden en fazla iki katlı olarak görülen, en az beş, en fazla otuz odalı çiftlik evi, köy evi, kır evi, yayla evi veya dağ evi tesisleridir. Tahsisli kamu taşınmazlarındaki kırsal turizm tesislerinin konaklama ünitelerinin her birinin toplam alanı yirmi metrekareyi geçemez. Bu tesislerde merkezi ısıtma sistemi veya klima aranmaz.\n (2) Kırsal turizm tesislerinde;\n a) (Değişik:RG-16/3/2023-32134-C.K.-6969/17 md.) Müşterilere ağırlıklı olarak yöreye özgü yiyecek türlerinin sunulması,\n b) Kırsal hayata uygun, özgün ve nitelikli tefriş ve dekorasyon,\n c) Balkon, veranda ve teras gibi düzenlemeler,\n ç) Kitap okuma ve dinlenme imkânı sağlayan mahal düzenlemesi,\n d) Tesis çevresindeki doğal ve kültürel değerler ile çevrenin korumasına yönelik genel bilgilendirme,\n e) Her beş oda için bir adet olmak üzere ortak kullanıma uygun müşteri duş, tuvalet ve lavabo mahalli,\n f) Kış, doğa veya çim sporlarına yönelik faaliyetler gerçekleştirilmesi halinde gerekli malzeme ve teçhizatın kiralanabilmesi imkânı ve bunların muhafazası için depo ile bu sporların öğretilmesine yönelik en az bir adet sertifikalı eğitici personel,\n bulunur.\n (3) (Ek:RG-16/3/2023-32134-C.K.-6969/17 md.) Yatak odaları doğal ışık alacak şekilde düzenlenir. Uygun tefriş elemanlarıyla rahat kullanım imkânı verebilecek şekilde dekore edilir. Odalarda yatak, kişi başı bir yastık, yastık kılıfı, çarşaf, iklim koşullarına göre pike veya yorgan, genel aydınlatma, priz, çöp kutusu, perde veya benzeri düzenleme bulunur. Banyolarda, vitrifiye, armatür, batarya, duş donanımı, ayna, priz, çöp kutusu, sabun, şampuan ile el ve banyo havlusu bulundurulur.\n (4) (Ek:RG-16/3/2023-32134-C.K.-6969/17 md.) Yatak odalarının adlandırılması ve kapasitelerinin hesabında 18 inci madde hükümleri uygulanır.\n\n Mobil evler\n MADDE 35/A- (Ek:RG-18/1/2024-32433-CK-8112/5md.)\n (1) Mobil evler, tahsisli kamu taşınmazları hariç olmak üzere, imar planlarında kamping ya da kırsal/eko turizm kullanımlarına ayrılmış alanlarda düzenlenen, yerleşim düzenini gösteren krokisi bulunan, tamamı mobil evlerden oluşan, en az beş, en fazla kırk dokuz konaklama birimi içeren tesislerdir. Bu tesisler aşağıda belirtilen nitelikleri taşır:[33]\n a) (Değişik:RG-29/8/2024-32647-CK-8864/1 md.) Konaklama birimlerinin yaygın yerleşim düzeninde oluşturulması ve her bir konaklama biriminin en az iki yüz elli metrekare alan içerisinde yer alması.\n b) Tesis alanının çit, duvar, yeşillik gibi düzenlemeler ile çevreden tecrit edilerek aydınlatılması.\n c) Girişte konaklama birimi başına bir araç olmak üzere otopark, resepsiyon-idare ünitesi.\n ç) Mobil evlerin tamamının tescil belgesinin mal sahibi veya belge sahibi ya da işletmeci adına düzenlenmiş olması.\n (2) Konaklama birimleri doğal ışık alacak şekilde düzenlenir. Uygun tefriş elemanlarıyla rahat kullanım imkânı verebilecek şekilde dekore edilir. Bu birimlerde yatak, kişi başı bir yastık, yastık kılıfı, çarşaf, iklim koşullarına göre pike veya yorgan, kıymetli eşya kasası, minibar, sıcak içecek hazırlanmasına imkan sağlayan donanım ve servis malzemesi, genel aydınlatma, priz, çöp kutusu, perde veya benzeri düzenleme bulunur. Banyolarda, vitrifiye, armatür, batarya, duş donanımı, ayna, priz, çöp kutusu, sabun, şampuan ile el ve banyo havlusu bulundurulur. Her konaklama birimi iki kişiliktir.\n (3) Bu tesislerde, 14 üncü maddenin beşinci fıkrası kapsamında lokanta, alakart lokanta, kafeterya, bar salonu, pasta salonu, kafe ve kahvaltı salonu düzenlenmesi durumunda, bu ünitelerin toplam kapasitesi yüz kişiyi geçemez; toplantı salonu ve çok amaçlı salon yapılamaz. (Ek cümle:RG-29/8/2024-32647-CK-8864/1 md.) Bu üniteler, konaklama birimlerinin toplam alanı içerisinde yer alamaz.\n (4) Konaklama birimlerinin hareket kabiliyetini ortadan kaldırıcı düzenleme yapılamaz.\n (5) Bu tesislere ilişkin turizm işletmesi belgesi başvurusunda tescil belgesi ibraz edilir. Başvuru tarihi itibarıyla 2918 sayılı Kanun kapsamında geçerli teknik muayene bulunması zorunludur. Turizm işletmesi belgesi alınmasından sonra da teknik muayenelerin yaptırıldığına ilişkin geçerli muayene belgesi Bakanlığa ibraz edilir.\n\n Kampingler, konaklama amaçlı mesire yerleri ve konaklamalı orman parkları (Değişik başlık:RG-10/1/2023-32069-CK-6661/2 md.)",
+      "preview": "(1) (Değişik:RG-16/3/2023-32134-C.K.-6969/17 md.) Kırsal turizm tesisleri; kırsal bölgelerde, dağ veya yaylalarda kurulan, yönetimi basit, k…",
+      "kitap": null,
+      "kisim": "İKİNCİ KISIM · Tesis Türleri",
+      "bolum": "ALTINCI BÖLÜM · Kırsal Turizm Tesisleri",
+      "ayirim": null,
+      "maddeBaslik": "Kırsal turizm tesisleri",
+      "sectionPath": [
+        "İKİNCİ KISIM · Tesis Türleri",
+        "ALTINCI BÖLÜM · Kırsal Turizm Tesisleri",
+        "Kırsal turizm tesisleri"
+      ]
+    },
+    {
+      "id": "yonetmelik:1134:m:36",
+      "maddeKind": "madde",
+      "maddeNo": "36",
+      "heading": "Madde 36",
+      "text": "(Başlığı ile Birlikte Değişik:RG-4/4/2020-31089-C.K-2360/3 md.)\n (1) Kampingler; deniz, göl, dağ gibi doğal güzelliği olan yerlerde kurulan ve genellikle müşterilerin kendi imkânlarıyla geceleme, yeme-içme, dinlenme, eğlence ve spor ihtiyaçlarını karşıladıkları en az on ünitelik tesislerdir. Kampinglerde aşağıdaki nitelikler aranır:\n a) Kamping alanı; kamping iç ve dış güvenliklerini sağlayan çit, duvar, yeşillik gibi düzenlemeler ile çevreden tecrit edilerek aydınlatılır. Kampingde yer alan her türlü yapı, doğayla uyumlu hafif yapı malzemesinden ve tek katlı olarak inşa edilir. Kamping alanı drene edilerek ağaçlandırılır. Boş alanlar çimlendirilir. Geceleme birimlerini rahatsız etmeyecek şekilde okuma, dinlenme, spor, eğlence, yeme-içme gibi amaçlar için gerekli düzenlemeler yapılır. Araç yolları, arazi ve iklim şartlarına uygun olarak toz kaldırmayacak şekilde düzenlenir.\n b) Kampinglerde; kampçı ünitesi başına hesaplanacak alan seksen metrekaredir. Kampçı ünitesi; çadır, çadır-araba, karavan, motokaravan veya bungalovdan oluşabilir. Bungalovlar dahil her ünite iki kişiliktir. Bungalov ünite sayısı, toplam kampçı ünitesi sayısının yüzde yirmisini aşamaz ve bu ünitelerde mutfak düzenlemesi yapılamaz. Bungalov ünitelerinin her birinin toplam alanı yirmi metrekareyi geçemez. (Ek cümle:RG-10/12/2022-32039-CK-6511/1 md.) Kamu eliyle işletilen kampinglerde ise bungalov ünitelerinde toplam alan şartı aranmaz, bu tesislerin işletme hakkı devredilemez veya kiralanamaz.[34]\n c) Girişte otopark, resepsiyon, emanet ve telefon hizmeti verilen düzenlemeler yapılır.\n ç) Müşterek kullanım tesisleri ile konaklamaya ayrılan alanın zemini kullanım amacına uygun biçimde düzenlenir. Bu tesislerde;\n 1) Her on kampçı ünitesi için en az bir kadın ve bir erkek tuvaleti, duş ve lavabo ile lavaboların yanında priz,\n 2) Her on kampçı ünitesi için en az bir adet çamaşır yıkama makinesi ve ütüleme yeri,\n 3) Her beş kampçı ünitesi için birer adet yemek hazırlama, pişirme, bulaşık yıkama mahalli ile kilitli soğutucu dolaplar bulunan üstü kapalı bir mahal,\n bulunur.\n d) Kampçılara aşağıdaki hizmetler sağlanır:\n 1) Satış ünitesi.\n 2) Karavanların tuvalet ve atık su tanklarının boşaltılacağı uygun mahaller.\n 3) Kampçı ünitelerine elektrik hizmeti.\n 4) Kampçılara sıcak-soğuk kullanma suyu ve sağlıklı içme suyu hizmeti.\n e) Kampinglerde, yerli ve yabancılara ait karavan veya motokaravanların bakım, onarım ve kışlaması için gerekli düzenlemeler yapılabilir.\n (2) Konaklama amaçlı mesire yeri/konaklamalı orman parkı türündeki tesisler; orman rejimine tabi olan, konaklamalı mesire yeri veya konaklamalı orman parkı olarak tahsis edilmiş kamu taşınmazı üzerinde yer alan ve aşağıdaki bentlerde belirtilen istisnalar haricinde birinci fıkrada belirtilen diğer nitelikleri sağlayan tesislerdir:[35]\n a) Konaklama ünitelerinin tamamı bungalov şeklinde düzenlenebilir, ancak bu durumda bungalov ünitelerinin sayısı otuzu geçemez.\n b) Konaklama ünitelerinin, bungalovların yanı sıra çadır, çadır-araba, karavan veya motokaravandan oluşması durumunda, bungalov ünite sayısı, en fazla otuz olmak kaydıyla toplam kampçı ünitesi sayısının yüzde yirmisini geçemez.\n c) Konaklama ünitelerinin tamamının bungalovlardan oluşması ve tesis bünyesinde 14 üncü maddenin beşinci fıkrasının (f), (ğ) ya da (bb) bentlerinde belirtilen yeme-içme ünitesi veya ünitelerinin düzenlenmesi halinde, birinci fıkranın (ç) bendinin (3) numaralı alt bendinde sayılan mahaller aranmaz.\n ç) (Ek:RG-10/1/2023-32069-CK-6661/2 md.) Bu tesisler, tahsis koşulunda belirtilen konaklama amaçlı mesire yeri veya konaklamalı orman parkı türüne göre belgelendirilir.\n (3) (Ek:RG-29/8/2024-32647-CK-8864/2 md.) Sabit yapı içermeyen konaklama amaçlı mesire yeri/konaklamalı orman parkı; orman rejimine tabi olan, konaklamalı mesire yeri veya konaklamalı orman parkı olarak tahsis edilmiş kamu taşınmazı üzerinde yer alan ikinci fıkrada yer alan tesislerden Kanunun 8 inci maddesinin (A) fıkrasının (4) numaralı bendi ile ek 5 inci maddesi hükmü kapsamında kalan tesislerdir. Bu tesislerde aşağıdaki nitelikler aranır:\n a) Bu alanlarda yer alacak konaklama üniteleri, yalnızca taşınabilir çadır ve/veya karavan park alanı şeklinde düzenlenir.\n b) Bu tesisler, birinci fıkranın (a), (c), (ç), (d) ve (e) bentlerinde belirtilen nitelikleri taşır.\n c) Kampçı ünitesi başına hesaplanacak alan seksen metrekare olup her ünite iki kişiliktir.",
+      "preview": "(Başlığı ile Birlikte Değişik:RG-4/4/2020-31089-C.K-2360/3 md.) (1) Kampingler; deniz, göl, dağ gibi doğal güzelliği olan yerlerde kurulan v…",
+      "kitap": null,
+      "kisim": "İKİNCİ KISIM · Tesis Türleri",
+      "bolum": "ALTINCI BÖLÜM · Kırsal Turizm Tesisleri",
+      "ayirim": null,
+      "maddeBaslik": "Kırsal turizm tesisleri",
+      "sectionPath": [
+        "İKİNCİ KISIM · Tesis Türleri",
+        "ALTINCI BÖLÜM · Kırsal Turizm Tesisleri",
+        "Kırsal turizm tesisleri"
+      ]
+    },
+    {
+      "id": "yonetmelik:1134:m:37",
+      "maddeKind": "madde",
+      "maddeNo": "37",
+      "heading": "Madde 37",
+      "text": "(1) Turizm kentleri; kültür ve turizm koruma ve gelişim bölgesi olarak ilan edilen yerlerde, plan kararlarıyla sınırları belirlenen, bu Yönetmelikte tanımlanan ve müstakilen belgelendirilebilen türlerin bir veya birkaçıyla birlikte kültür, eğitim, eğlence, ticaret, konut ve her türlü teknik ve sosyal altyapı alanlarından bir veya daha fazlasını kapsayan ve tek bir ana yatırımcıya tahsis edilen yerleşimlerdir.\n (2) Turizm kentlerinde; ana yatırımcı adına ana turizm yatırımı belgesi, ana kısmi turizm işletmesi belgesi ve ana turizm işletmesi belgesi düzenlenir. Turizm kentlerinin kamu taşınmazları üzerinde yer alması halinde, planlar ile oluşan parseller üzerinde yapılan veya yapılacak olan tesislerin, adına tahsis yapılan ve lehine bağımsız ve sürekli nitelikli üst hakkı tesis edilen ana yatırımcı tarafından üçüncü şahıslara kiralanması veya işlettirilmesi ya da bu parseller üzerinde lehine tapuda tesis edilen üst hakkının devredilmesi durumunda, bu yatırımcı veya işletmeciler adına ana turizm yatırımı belgesi, ana kısmi turizm işletmesi belgesi ve ana turizm işletmesi belgesi altında ayrı ayrı belge düzenlenebilir. Bu fıkra hükümleri; özel mülkiyette yer alan turizm kentleri ile, özel mülkiyette yer alanlar da dahil olmak üzere turizm kompleksleri ve tatil merkezleri hakkında da uygulanır.\n (3) Bu tesislerin asgari nitelikleri ile belgelendirilmesine ilişkin usul ve esaslar tebliğle belirlenir.",
+      "preview": "(1) Turizm kentleri; kültür ve turizm koruma ve gelişim bölgesi olarak ilan edilen yerlerde, plan kararlarıyla sınırları belirlenen, bu Yöne…",
+      "kitap": null,
+      "kisim": "İKİNCİ KISIM · Tesis Türleri",
+      "bolum": "YEDİNCİ BÖLÜM · Bileşik Tesisler",
+      "ayirim": null,
+      "maddeBaslik": "Turizm kentleri",
+      "sectionPath": [
+        "İKİNCİ KISIM · Tesis Türleri",
+        "YEDİNCİ BÖLÜM · Bileşik Tesisler",
+        "Turizm kentleri"
+      ]
+    },
+    {
+      "id": "yonetmelik:1134:m:38",
+      "maddeKind": "madde",
+      "maddeNo": "38",
+      "heading": "Madde 38",
+      "text": "(1) Turizm kompleksleri, aşağıda belirtilen tanımlardan biri çerçevesinde gerçekleştirilen tesislerdir:\n a) Kongre ve sergi merkezi ile buna ilave olarak, golf tesisleri, eğlence merkezleri, termal tesisler, sağlıklı yaşam tesisleri, apart otel ve en az yüz adet yatın barınabileceği yat limanı türlerinden en az üç çeşidini bünyesinde bulunduran tesislerdir. Kongre ve sergi merkezi ile seçenekli türlerden en az ikisinin tamamlanarak işletmeye hazır hale getirilmesi durumunda tesise kısmi turizm işletmesi belgesi verilebilir.\n b) Bünyesinde konaklama tesisi olarak en az beşyüz yatak kapasiteli olmak kaydıyla beş yıldızlı otel veya beş yıldızlı tatil köyüne ilave olarak, kongre ve sergi merkezi veya eğlence merkezi bulunan tesislerdir. Tesiste en az ikiyüzelli adet yatın barınabileceği yat limanı yapılması durumunda, ilave olarak apart otel yapılabilir. Komplekste bulunması zorunlu olan ünitelerden birinin tamamlanarak işletmeye hazır hale getirilmesi durumunda tesise kısmi turizm işletmesi belgesi verilebilir.",
+      "preview": "(1) Turizm kompleksleri, aşağıda belirtilen tanımlardan biri çerçevesinde gerçekleştirilen tesislerdir: a) Kongre ve sergi merkezi ile buna…",
+      "kitap": null,
+      "kisim": "İKİNCİ KISIM · Tesis Türleri",
+      "bolum": "YEDİNCİ BÖLÜM · Bileşik Tesisler",
+      "ayirim": null,
+      "maddeBaslik": "Turizm kompleksleri",
+      "sectionPath": [
+        "İKİNCİ KISIM · Tesis Türleri",
+        "YEDİNCİ BÖLÜM · Bileşik Tesisler",
+        "Turizm kompleksleri"
+      ]
+    },
+    {
+      "id": "yonetmelik:1134:m:39",
+      "maddeKind": "madde",
+      "maddeNo": "39",
+      "heading": "Madde 39",
+      "text": "(1) Tatil merkezleri; müşterilerin konaklama, yeme-içme, eğlence, dinlenme ve spor ihtiyaçlarını karşılayan, kuruluş yeri veya işletme özelliği gereği yardımcı ve tamamlayıcı birimleri de bünyelerinde bulundurabilen, imar planlarında turizm kullanımına ayrılan alanlarda, her otelin bütünü için ayrı mülkiyet, irtifak ve intifa haklarına imkân tanıyan tesislerdir.\n (2) Bu tesislerin asgari nitelikleri ile belgelendirilmesine ilişkin usul ve esaslar tebliğle belirlenir.",
+      "preview": "(1) Tatil merkezleri; müşterilerin konaklama, yeme-içme, eğlence, dinlenme ve spor ihtiyaçlarını karşılayan, kuruluş yeri veya işletme özell…",
+      "kitap": null,
+      "kisim": "İKİNCİ KISIM · Tesis Türleri",
+      "bolum": "YEDİNCİ BÖLÜM · Bileşik Tesisler",
+      "ayirim": null,
+      "maddeBaslik": "Tatil merkezleri",
+      "sectionPath": [
+        "İKİNCİ KISIM · Tesis Türleri",
+        "YEDİNCİ BÖLÜM · Bileşik Tesisler",
+        "Tatil merkezleri"
+      ]
+    },
+    {
+      "id": "yonetmelik:1134:m:40",
+      "maddeKind": "madde",
+      "maddeNo": "40",
+      "heading": "Madde 40",
+      "text": "(1) Mola noktaları; bu Yönetmelikte turizm tesisleri için belirlenmiş olan asgari nitelikleri sağlayan, karayollarında seyahat edenlerin dinlenme, yeme-içme ve benzeri ihtiyaçlarını yirmidört saat süreyle karşılayan, karayolları güzergâhı ve yakın çevresinde bulunan ve konaklama yapılmayan tesislerdir.\n (2) Mola noktaları aşağıdaki nitelikleri taşır:\n a) Tesisin çit, duvar, yeşillik gibi malzeme ile çevreden tecridi.\n b) Yönetim odası.\n c) Çocuk bakım odası.\n ç) Satış ünitesi.\n d) Telefon imkânı ve cep telefonu şarj ünitesi.\n e) Otopark.\n f) En az elli kişilik olmak kaydıyla 14 üncü maddenin beşinci fıkrasının (f), (ğ), (ı) ve (i) bentlerinde düzenlenen yeme-içme tesislerinden en az bir adedi.\n g) Bedensel engelliler için tesis bünyesindeki ünitelere erişim imkânı, tuvalet ve lavabo.\n (3) Bu tesislerde alkollü içki satışı yapılamaz.",
+      "preview": "(1) Mola noktaları; bu Yönetmelikte turizm tesisleri için belirlenmiş olan asgari nitelikleri sağlayan, karayollarında seyahat edenlerin din…",
+      "kitap": null,
+      "kisim": "İKİNCİ KISIM · Tesis Türleri",
+      "bolum": "SEKİZİNCİ BÖLÜM · Diğer Tesisler",
+      "ayirim": null,
+      "maddeBaslik": "Mola noktaları",
+      "sectionPath": [
+        "İKİNCİ KISIM · Tesis Türleri",
+        "SEKİZİNCİ BÖLÜM · Diğer Tesisler",
+        "Mola noktaları"
+      ]
+    },
+    {
+      "id": "yonetmelik:1134:m:41",
+      "maddeKind": "madde",
+      "maddeNo": "41",
+      "heading": "Madde 41",
+      "text": "(1) Personel eğitim tesisleri; turizm sektörünün eğitilmiş personel ihtiyacını karşılamak üzere, her seviyedeki personelin eğitiminin çeşitli programlar çerçevesinde teorik ve uygulamalı olarak birlikte veya ayrı ayrı yaptırıldığı en az yüzyirmi öğrenci kapasiteli eğitim ve uygulama tesisleridir.\n (2) Bu tesislerde uluslararası normlara uygun olarak bir tanesi ön büro, yiyecek ve içecek servisi, kat hizmetleri ve yiyecek üretimi dalları arasından seçilmek üzere turizm ile ilgili en az üç konuda teorik ve uygulamalı eğitim yapılır.\n (3) Personel eğitim tesisleri bünyesinde lokantalı en az iki yıldızlı otel, yönetici personel eğitimi için ise lokantalı en az üç yıldızlı otel niteliklerini taşıyan uygulama oteli bulunur.\n (4) Eğitim bölümünde; teorik eğitimin yapılacağı yeterli sayı ve büyüklükte dershaneler, buna bağlı mutfak, yemek salonu, yatak odası ve banyosu gibi örnek pratik yapma yerleri ile eğitim görenler için ortak oturma, dinlenme ve yemek yeme ile kadın ve erkekler için ayrı soyunma, duş ve tuvalet mahalleri düzenlenir. Eğitim bölümü ve uygulama oteli ayrı binalarda gerçekleştirilir. Ancak kullanımları ayrı olmak kaydıyla, aynı binalardaki tesislere de belge verilebilir. Eğitim görenler, uygulama otelinin müşteri yatak odalarında konaklatılamaz.\n (5) Bu tesislerdeki eğitim, ilgili kurumun hazırladığı programlar çerçevesinde yürütülür.",
+      "preview": "(1) Personel eğitim tesisleri; turizm sektörünün eğitilmiş personel ihtiyacını karşılamak üzere, her seviyedeki personelin eğitiminin çeşitl…",
+      "kitap": null,
+      "kisim": "İKİNCİ KISIM · Tesis Türleri",
+      "bolum": "SEKİZİNCİ BÖLÜM · Diğer Tesisler",
+      "ayirim": null,
+      "maddeBaslik": "Personel eğitim tesisleri",
+      "sectionPath": [
+        "İKİNCİ KISIM · Tesis Türleri",
+        "SEKİZİNCİ BÖLÜM · Diğer Tesisler",
+        "Personel eğitim tesisleri"
+      ]
+    },
+    {
+      "id": "yonetmelik:1134:m:42",
+      "maddeKind": "madde",
+      "maddeNo": "42",
+      "heading": "Madde 42",
+      "text": "(1) Özel tesisler; turizm alanında faaliyet gösteren, özellik arz eden ve Bakanlık tarafından desteklenmesi uygun görülen işletmelerdir.[36]",
+      "preview": "(1) Özel tesisler; turizm alanında faaliyet gösteren, özellik arz eden ve Bakanlık tarafından desteklenmesi uygun görülen işletmelerdir.[36]",
+      "kitap": null,
+      "kisim": "İKİNCİ KISIM · Tesis Türleri",
+      "bolum": "SEKİZİNCİ BÖLÜM · Diğer Tesisler",
+      "ayirim": null,
+      "maddeBaslik": "Özel tesisler",
+      "sectionPath": [
+        "İKİNCİ KISIM · Tesis Türleri",
+        "SEKİZİNCİ BÖLÜM · Diğer Tesisler",
+        "Özel tesisler"
+      ]
+    },
+    {
+      "id": "yonetmelik:1134:m:43",
+      "maddeKind": "madde",
+      "maddeNo": "43",
+      "heading": "Madde 43",
+      "text": "(1) Kanunun belge iptaline ilişkin maddesinde açıklanan nedenlerden en az birinin gerçekleştiğinin tespit edilmesi durumunda tesislerin belgesi iptal edilir.\n (2) (Mülga:RG-16/3/2023-32134-C.K.-6969/20 md.)\n (3) (Mülga:RG-16/3/2023-32134-C.K.-6969/20 md.)\n (4) (Mülga:RG-16/3/2023-32134-C.K.-6969/20 md.)\n (5) (Mülga:RG-16/3/2023-32134-C.K.-6969/20 md.)\n (6) (Mülga:RG-16/3/2023-32134-C.K.-6969/20 md.)\n (7) (Mülga:RG-16/3/2023-32134-C.K.-6969/20 md.)\n (8) (Mülga:RG-16/3/2023-32134-C.K.-6969/20 md.)\n (9) (Mülga:RG-16/3/2023-32134-C.K.-6969/20 md.)\n (10) (Mülga:RG-16/3/2023-32134-C.K.-6969/20 md.)",
+      "preview": "(1) Kanunun belge iptaline ilişkin maddesinde açıklanan nedenlerden en az birinin gerçekleştiğinin tespit edilmesi durumunda tesislerin belg…",
+      "kitap": null,
+      "kisim": "ÜÇÜNCÜ KISIM · Çeşitli ve Son Hükümler",
+      "bolum": "BİRİNCİ BÖLÜM · Turizm Belgesinin İptali",
+      "ayirim": null,
+      "maddeBaslik": "Turizm belgesinin iptali",
+      "sectionPath": [
+        "ÜÇÜNCÜ KISIM · Çeşitli ve Son Hükümler",
+        "BİRİNCİ BÖLÜM · Turizm Belgesinin İptali",
+        "Turizm belgesinin iptali"
+      ]
+    },
+    {
+      "id": "yonetmelik:1134:m:44",
+      "maddeKind": "madde",
+      "maddeNo": "44",
+      "heading": "Madde 44",
+      "text": "(1) Aşağıda belirtilen hususlar Bakanlık tarafından hazırlanacak tebliğlerde düzenlenir ve Resmî Gazete’de yayımlanır:\n a) Başvuruların değerlendirilmesine ilişkin esaslar.\n b) Turizm belgesi başvurularında istenilen bilgi ve belgeler ile verilecek sürelere ilişkin hususlar.\n c) Turizm belgesi, plaket ve alt plaketin hazırlanması ve bu belgelerde yer alacak hususlar.\n ç) Sınıflandırma çalışması ve belgelendirme denetimlerine ilişkin usul ve esaslar ile formları.\n d) İklim koşullarına göre klima sistemi istenilen illerin belirlenmesi.\n e) Turizm kentleri, tatil merkezleri ile eğlence merkezleri belgelendirilmesine ve asgari niteliklerine ilişkin usul ve esaslar.\n f) Ayrık yerleşim düzenlerinde servis merdiveni veya asansörü bulundurulmasına ilişkin esaslar.\n g) Turizm belgeli tesislere ilişkin belge devri ve belgeye işletici şerhi düşülmesine ilişkin taleplerde uyulacak usul ve esaslar.\n ğ) Bedensel engelli düzenlemelerine ilişkin esaslar.\n h) Geçici 2 nci maddede belirtilen belgenin düzenlenmesine ilişkin usul ve esaslar.\n ı) Özel tesislerin belgelendirilmesine ilişkin usul ve esaslar.\n i) Turizmin çeşitlendirilmesi ile çevre, doğa, kültür, sanat ve ülke turizminin tanıtılmasına önemli katkı sağlayan ve üstün hizmetleri olan turizm belgeli işletmelerin takdir edilmesine ilişkin hususlar.\n j) Tesislerde personel ve müşteri güvenliğinin sağlanmasına ilişkin esaslar.\n k) Sürdürülebilir turizm ve çevre korumasına ilişkin hususlar.\n l) Yönetmeliğin uygulanmasında ihtiyaç duyulacak diğer konular.",
+      "preview": "(1) Aşağıda belirtilen hususlar Bakanlık tarafından hazırlanacak tebliğlerde düzenlenir ve Resmî Gazete’de yayımlanır: a) Başvuruların değer…",
+      "kitap": null,
+      "kisim": "ÜÇÜNCÜ KISIM · Çeşitli ve Son Hükümler",
+      "bolum": "İKİNCİ BÖLÜM · Tebliğler",
+      "ayirim": null,
+      "maddeBaslik": "Tebliğler ile düzenlenecek hususlar",
+      "sectionPath": [
+        "ÜÇÜNCÜ KISIM · Çeşitli ve Son Hükümler",
+        "İKİNCİ BÖLÜM · Tebliğler",
+        "Tebliğler ile düzenlenecek hususlar"
+      ]
+    },
+    {
+      "id": "yonetmelik:1134:m:45",
+      "maddeKind": "madde",
+      "maddeNo": "45",
+      "heading": "Madde 45",
+      "text": "(1) 10/5/2005 tarihli ve 2005/8948 sayılı Bakanlar Kurulu Kararı ile yürürlüğe konulan Turizm Tesislerinin Belgelendirilmesine ve Niteliklerine İlişkin Yönetmelik yürürlükten kaldırılmıştır.",
+      "preview": "(1) 10/5/2005 tarihli ve 2005/8948 sayılı Bakanlar Kurulu Kararı ile yürürlüğe konulan Turizm Tesislerinin Belgelendirilmesine ve Nitelikler…",
+      "kitap": null,
+      "kisim": "ÜÇÜNCÜ KISIM · Çeşitli ve Son Hükümler",
+      "bolum": "ÜÇÜNCÜ BÖLÜM · Geçici ve Son Hükümler",
+      "ayirim": null,
+      "maddeBaslik": "Yürürlükten kaldırılan hükümler",
+      "sectionPath": [
+        "ÜÇÜNCÜ KISIM · Çeşitli ve Son Hükümler",
+        "ÜÇÜNCÜ BÖLÜM · Geçici ve Son Hükümler",
+        "Yürürlükten kaldırılan hükümler"
+      ]
+    },
+    {
+      "id": "yonetmelik:1134:m:gecici:1",
+      "maddeKind": "gecici",
+      "maddeNo": "1",
+      "heading": "Geçici Madde 1",
+      "text": "(1) Bu Yönetmeliğin yürürlüğe girdiği tarihten önce belgelendirilen turizm işletmelerinin müşteri asansörü, servis asansörü, servis merdiveni, oda sayısı ve metrik limitleri, erişilebilirlik düzenlemeleri ile 19 uncu maddenin altıncı fıkrasının (h) bendi dışındaki niteliklerinin, bu Yönetmeliğin yürürlüğe girdiği tarihten itibaren bir yıl içerisinde Yönetmelik hükümlerine uygun hale getirilmesi zorunludur. Bu tesislere ilişkin tür ve/veya sınıf değişikliği talepleri, bu Yönetmelik hükümlerine göre sonuçlandırılır. Bu Yönetmeliğin yürürlüğe girdiği tarihten önce belgelendirilen turizm yatırımları için bir yıllık süre, bu yatırımların kısmi turizm işletmesi belgesine veya turizm işletmesi belgesine bağlandıkları tarihte başlar.\n (2) Bu Yönetmeliğin yürürlüğe girdiği tarihten önce ilgili mevzuata göre belgelendirilen, ancak bu Yönetmelik hükümlerine göre belgelendirilemeyen türlere ilişkin turizm yatırımı, kısmi turizm işletmesi veya turizm işletmesi belgeleri; bu tesislerin belgelendirildikleri tarihte yürürlükte olan mevzuattaki tür ve varsa sınıfına göre belgelendirilebilir olmaları kaydıyla geçerlidir.\n (3) Mülga 7/12/2004 tarihli ve 5272 sayılı Belediye Kanunu ile 22/2/2005 tarihli ve 5302 sayılı İl Özel İdaresi Kanununun yürürlüğe girdiği tarihten önce verilen turizm işletmesi belgeleri, işyeri açma ve çalışma ruhsatı yerine geçer. Bu şekilde işyeri açma ve çalışma ruhsatı ile belgelendirilmeyen tesislerde; ilave yapılaşma, belge sahibi değişikliği, ana faaliyet konusundaki işletmeci değişikliği durumunda işyeri açma ve çalışma ruhsatı istenir. (Ek cümle:RG-29/8/2023-32294-CK-7519/7 md.) Ayrıca turizm işletmesi belgesi işyeri açma ve çalışma ruhsatı yerine geçen ve sonradan işyeri açma ve çalışma ruhsatı almamış olan tesislerin, yangın önlemlerinin yeterli olduğuna dair ilgili kurumdan uygunluk yazısı alarak 30/4/2024 tarihine kadar Bakanlığa ibraz edilmesi zorunludur. Verilen sürede istenilen uygun evrakın Bakanlığa gönderilmemesi halinde Kanunun 34 üncü maddesi uyarınca tesisin belgesi iptal edilir.[37]\n (4) Bu Yönetmeliğin yürürlüğe girdiği tarihten önce yapılan kısmi turizm işletmesi veya turizm işletmesi belgesi başvuruları, başvuru tarihinde yürürlükte olan Yönetmelik hükümlerine göre sonuçlandırılır.\n (5) (Ek:RG-29/8/2023-32294-CK-7519/7 md.) Bu fıkrayı ihdas eden Yönetmeliğin yürürlüğe girdiği tarihten önce Bakanlıkça belgelendirilen ancak odalarında duman dedektörü bulunmayan konaklama tesislerinin 31/12/2023 tarihine kadar bu koşulu sağlaması zorunludur.\n (6) (Ek:RG-22/12/2024-32760-CK-9287/8 md.) Bu fıkrayı ihdas eden Yönetmelikle, bu Yönetmeliğin 18 inci maddesinin birinci fıkrasının (a) bendinin (2) numaralı alt bendinde suit odaların düzenlenmesine ilişkin yapılan değişiklikler, bu fıkranın yürürlüğe girdiği tarihten önce Bakanlıkça belgelendirilen konaklama tesisleri için 1/1/2028 tarihinden itibaren uygulanır. Ancak mevcut kapasiteye ilave yatak odası artışı olması halinde tesisin tamamı için bu istisna uygulanmaz.\n (7) (Ek:RG-22/12/2024-32760-CK-9287/8 md.) Bu fıkrayı ihdas eden Yönetmelikle, bu Yönetmeliğin 18 inci maddesinin birinci fıkrasının (a) bendinin (2) numaralı alt bendinde yatak odalarının büyüklüklerinin belirlenmesine ilişkin yapılan değişiklikler, bu fıkranın yürürlüğe girdiği tarihten önce turizm yatırım belgeli olanlar hariç, Bakanlıkça belgelendirilen konaklama tesislerinin sınıf yükseltme taleplerinde uygulanmaz.\n (8) (Ek:RG-31/8/2026-33356-CK-11706/1 md.) 1/6/2019 tarihinden önce imar planında sadece ticari kullanıma ayrılan alanda bulunan kısmi turizm işletmesi/turizm işletmesi belgeli olan tesislerin aynı malike ait olan konaklama birimleri üzerinde kat mülkiyeti/kat irtifakı bulunması halinde 13 üncü maddenin sekizinci fıkrası hükmü uygulanmaz.",
+      "preview": "(1) Bu Yönetmeliğin yürürlüğe girdiği tarihten önce belgelendirilen turizm işletmelerinin müşteri asansörü, servis asansörü, servis merdiven…",
+      "kitap": null,
+      "kisim": "ÜÇÜNCÜ KISIM · Çeşitli ve Son Hükümler",
+      "bolum": "ÜÇÜNCÜ BÖLÜM · Geçici ve Son Hükümler",
+      "ayirim": null,
+      "maddeBaslik": "Daha önce belgelendirilen tesisler",
+      "sectionPath": [
+        "ÜÇÜNCÜ KISIM · Çeşitli ve Son Hükümler",
+        "ÜÇÜNCÜ BÖLÜM · Geçici ve Son Hükümler",
+        "Daha önce belgelendirilen tesisler"
+      ]
+    },
+    {
+      "id": "yonetmelik:1134:m:gecici:2",
+      "maddeKind": "gecici",
+      "maddeNo": "2",
+      "heading": "Geçici Madde 2",
+      "text": "(1) 3/7/2003 tarihli ve 4916 sayılı Çeşitli Kanunlarda ve Maliye Bakanlığının Teşkilat ve Görevleri Hakkında Kanun Hükmünde Kararnamede Değişiklik Yapılması Hakkında Kanunun geçici 2 nci maddesi kapsamına giren tesislere geçiş dönemi turizm yatırımı veya geçiş dönemi turizm işletmesi belgesi düzenlenir.",
+      "preview": "(1) 3/7/2003 tarihli ve 4916 sayılı Çeşitli Kanunlarda ve Maliye Bakanlığının Teşkilat ve Görevleri Hakkında Kanun Hükmünde Kararnamede Deği…",
+      "kitap": null,
+      "kisim": "ÜÇÜNCÜ KISIM · Çeşitli ve Son Hükümler",
+      "bolum": "ÜÇÜNCÜ BÖLÜM · Geçici ve Son Hükümler",
+      "ayirim": null,
+      "maddeBaslik": "Geçiş dönemi turizm belgesi",
+      "sectionPath": [
+        "ÜÇÜNCÜ KISIM · Çeşitli ve Son Hükümler",
+        "ÜÇÜNCÜ BÖLÜM · Geçici ve Son Hükümler",
+        "Geçiş dönemi turizm belgesi"
+      ]
+    },
+    {
+      "id": "yonetmelik:1134:m:gecici:3",
+      "maddeKind": "gecici",
+      "maddeNo": "3",
+      "heading": "Geçici Madde 3",
+      "text": "(1) Bu Yönetmeliğin yürürlüğe girdiği tarihten itibaren üç ay süre ile e-Devlet sistemi dışında yapılacak başvurular da Bakanlık tarafından değerlendirilir.",
+      "preview": "(1) Bu Yönetmeliğin yürürlüğe girdiği tarihten itibaren üç ay süre ile e-Devlet sistemi dışında yapılacak başvurular da Bakanlık tarafından…",
+      "kitap": null,
+      "kisim": "ÜÇÜNCÜ KISIM · Çeşitli ve Son Hükümler",
+      "bolum": "ÜÇÜNCÜ BÖLÜM · Geçici ve Son Hükümler",
+      "ayirim": null,
+      "maddeBaslik": "Başvurularda geçiş süreci",
+      "sectionPath": [
+        "ÜÇÜNCÜ KISIM · Çeşitli ve Son Hükümler",
+        "ÜÇÜNCÜ BÖLÜM · Geçici ve Son Hükümler",
+        "Başvurularda geçiş süreci"
+      ]
+    },
+    {
+      "id": "yonetmelik:1134:m:46",
+      "maddeKind": "madde",
+      "maddeNo": "46",
+      "heading": "Madde 46",
+      "text": "(1) Bu Yönetmelik yayımı tarihinde yürürlüğe girer.",
+      "preview": "(1) Bu Yönetmelik yayımı tarihinde yürürlüğe girer.",
+      "kitap": null,
+      "kisim": "ÜÇÜNCÜ KISIM · Çeşitli ve Son Hükümler",
+      "bolum": "ÜÇÜNCÜ BÖLÜM · Geçici ve Son Hükümler",
+      "ayirim": null,
+      "maddeBaslik": "Yürürlük",
+      "sectionPath": [
+        "ÜÇÜNCÜ KISIM · Çeşitli ve Son Hükümler",
+        "ÜÇÜNCÜ BÖLÜM · Geçici ve Son Hükümler",
+        "Yürürlük"
+      ]
+    },
+    {
+      "id": "yonetmelik:1134:m:47",
+      "maddeKind": "madde",
+      "maddeNo": "47",
+      "heading": "Madde 47",
+      "text": "(1) Bu Yönetmelik hükümlerini Kültür ve Turizm Bakanı yürütür.\n\n 31/5/2019 TARİHLİ VE 1134 SAYILI CUMHURBAŞKANI KARARI İLE YÜRÜRLÜĞE KONULAN YÖNETMELİĞE EK VE DEĞİŞİKLİK GETİREN YÖNETMELİKLERİN YÜRÜRLÜĞE GİRİŞ TARİHLERİNİ GÖSTEREN TABLO\n\n Ek ve Değişiklik Getiren Yönetmeliği Yürürlüğe Koyan Cumhurbaşkanı Kararının\n 1134 sayılı Cumhurbaşkanı Kararı ile Yürürlüğe Konulan Yönetmeliğin Değişen Maddeleri\n Yürürlüğe Giriş Tarihi\n\n Tarihi\n Numarası\n\n 3/4/2020\n 2360\n 12, 26, 36\n 4/4/2020\n\n 7/4/2021\n 3793\n 6, 9, 12\n 8/4/2021\n\n 29/12/2021\n 5026\n 9, 14\n 30/12/2021\n\n 9/12/2022\n 6511\n 36\n 10/12/2022\n\n 9/1/2023\n 6661\n 9, 36\n 10/1/2023\n\n 15/3/2023\n 6969\n 4, 6, 7, 8, 9, 10, 11, 13, 14,15, 18, 19, 20, 24, 25, 26, 35, 36, 42, 43\n 16/3/2023\n\n 12/4/2023\n 7078\n 26\n 13/4/2023\n\n 28/8/2023\n 7519\n 4, 6, 18, 19, 20, 24, Geçici Madde 1\n 29/8/2023\n\n 22/12/2023\n 7979\n Geçici Madde 1\n 23/12/2023\n\n 17/1/2024\n 8112\n 4, 6, 14, 18, 35/A\n 18/1/2024\n\n 10/5/2024\n 8447\n 6, 13, 34\n 11/5/2024\n\n 28/8/2024\n 8864\n 35/A, 36\n 29/8/2024\n\n 21/12/2024\n 9287\n 6, 8, 13, 17, 18, 24, 26, Geçici Madde 1\n 22/12/2024\n\n 30/8/2026\n 11706\n Geçici Madde 1\n 31/8/2026\n\n [1] 8/4/2021 tarihli ve 31448 sayılı Resmî Gazete’de yayımlanan 3793 sayılı Cumhurbaşkanı Kararının 1 inci maddesiyle, (a) bendine “ticaret sicil” ibaresinden sonra gelmek üzere “veya MERSİS numarası” ibaresi eklenmiş, (c) bendine “başvuru sahibinin” ibaresinden sonra gelmek üzere “gerçek kişi olması durumunda” ibaresi eklenmiş ve aynı bentte yer alan “veya imza sirküleri” ibaresi yürürlükten kaldırılmış, (g) bendinde yer alan “mal sahibinin imza sirküleri veya imza beyannamesi” ibaresi “mal sahibi gerçek kişi ise imza beyannamesi, tüzel kişi ise MERSİS numarası veya ticaret sicil numarası” şeklinde değiştirilmiştir.\n\n [2] 22/12/2024 tarihli ve 32760 sayılı Resmî Gazete’de yayımlanan 9287 sayılı Cumhurbaşkanı Kararının 1 inci maddesiyle, bu bendin sonuna “gerçek ve tüzel kişiler için Ulusal Elektronik Tebligat Sistemi (UETS) adresi” ibaresi eklenmiştir.\n\n [3] 16/3/2023 tarihli ve 32134 sayılı Resmî Gazete’de yayımlanan 6969 sayılı Cumhurbaşkanı Kararının 2 nci maddesiyle, bu bentte yer alan “ile kısmi turizm işletmesi veya turizm işletmesi belgesi başvurusuna kadar işletme faaliyeti gösterilmeyeceğine ilişkin taahhüt” ibaresi yürürlükten kaldırılmıştır.\n\n [4] 16/3/2023 tarihli ve 32134 sayılı Resmî Gazete’de yayımlanan 6969 sayılı Cumhurbaşkanı Kararının 2 nci maddesiyle, bu bentte yer alan “imza beyannamesi” ibaresinden sonra gelmek üzere “veya üzerinde imza bulunan Türkiye Cumhuriyeti kimlik kartı örneği” ibaresi eklenmiştir.\n\n [5] 29/8/2023 tarihli ve 32294 sayılı Resmî Gazete’de yayımlanan 7519 sayılı Cumhurbaşkanı Kararının 2 nci maddesiyle, bu bentte yer alan “yatırımcı, yatırım süresi, türü, sınıfı ve kapasitesi konularında” ibaresi yürürlükten kaldırılmıştır.\n\n [6] 18/1/2024 tarihli ve 32433 sayılı Resmî Gazete’de yayımlanan 8112 sayılı Cumhurbaşkanı Kararının 2 nci maddesiyle, bu fıkrada yer alan “pansiyonlara ve” ibaresi “pansiyonlara, mobil evlere ve” şeklinde değiştirilmiştir.\n\n [7] 16/3/2023 tarihli ve 32134 sayılı Resmî Gazete’de yayımlanan 6969 sayılı Cumhurbaşkanı Kararının 4 üncü maddesiyle, bu fıkrada yer alan “6 ncı ve 7 nci maddelerde belirtilen” ibaresi “6 ncı maddenin birinci fıkrasının (ğ) bendi hariç diğer bentlerinde ve 7 nci maddede belirtilen” şeklinde değiştirilmiştir.\n\n [8] 22/12/2024 tarihli ve 32760 sayılı Resmî Gazete’de yayımlanan 9287 sayılı Cumhurbaşkanı Kararının 2 nci maddesiyle, bu fıkrada yer alan “(ğ) bendi hariç diğer bentlerinde” ibaresi “(g), (ğ) ve (h) bentleri hariç diğer bentlerinde” şeklinde değiştirilmiş\n\n [9] 16/3/2023 tarihli ve 32134 sayılı Resmî Gazete’de yayımlanan 6969 sayılı Cumhurbaşkanı Kararının 6 ncı maddesiyle bu fıkrada yer alan “birinci fıkrasının (c), (ç) ve (d) bentlerinde sayılan belgeler istenilerek” ibaresi “birinci fıkrasının (d) bendinde belirtilen belge istenilerek” şeklinde değiştirilmiştir.\n\n [10] 16/3/2023 tarihli ve 32134 sayılı Resmî Gazete’de yayımlanan 6969 sayılı Cumhurbaşkanı Kararının 7 nci maddesiyle bu bentte yer alan “Bu Yönetmelikte” ibaresi “Bir, iki ve üç yıldızlı oteller hariç olmak üzere, bu Yönetmelikte” şeklinde değiştirilmiştir.\n\n [11] 16/3/2023 tarihli ve 32134 sayılı Resmî Gazete’de yayımlanan 6969 sayılı Cumhurbaşkanı Kararının 7 nci maddesiyle bu bentte yer alan “sınıfı bulunmayan tesislerde” ibaresi “sınıfı bulunmayan tesisler ile bir, iki ve üç yıldızlı otellerde” şeklinde değiştirilmiştir.\n\n [12] 16/3/2023 tarihli ve 32134 sayılı Resmî Gazete’de yayımlanan 6969 sayılı Cumhurbaşkanı Kararının 7 nci maddesiyle bu fıkrada yer alan “Sınıflandırma çalışması ve” ibaresinden sonra gelmek üzere “bir, iki ve üç yıldızlı oteller hariç olmak üzere” ibaresi eklenmiştir.\n\n [13] 8/4/2021 tarihli ve 31448 sayılı Resmî Gazete’de yayımlanan 3793 sayılı Cumhurbaşkanı Kararının 3 üncü maddesiyle, bu fıkraya “Yatırım ve İşletmeler Genel Müdürü ve” ibaresinden sonra gelmek üzere “Turizm İşletmeleri Belgelendirme ve Geliştirme Daire Başkanlığının bağlı olduğu” ibaresi eklenmiş, aynı fıkrada yer alan “Kontrolörler Kurulu Başkan Yardımcısından” ibaresi “Turizm İşletmeleri Belgelendirme ve Geliştirme Daire Başkanından” şeklinde değiştirilmiştir.\n\n [14] 8/4/2021 tarihli ve 31448 sayılı Resmî Gazete’de yayımlanan 3793 sayılı Cumhurbaşkanı Kararının 3 üncü maddesiyle, bu fıkrada yer alan “Yatırım ve İşletmeler Genel Müdürlüğünce” ibaresi “Turizm İşletmeleri Belgelendirme ve Geliştirme Daire Başkanlığınca” şeklinde değiştirilmiştir.\n\n [15] 22/12/2024 tarihli ve 32760 sayılı Resmî Gazete’de yayımlanan 9287 sayılı Cumhurbaşkanı Kararının 3 üncü maddesiyle bu fıkrada yer alan “, görünüşü bozmaması ve belgeli kısımdan ayrılması” ibaresi “ve görünüşü bozmaması” şeklinde değiştirilmiştir.\n\n [16] 30/12/2021 tarihli ve 31705 sayılı Resmî Gazete’de yayımlanan 5026 sayılı Cumhurbaşkanı Kararının 2 nci maddesiyle bu fıkrada yer alan “Genel mahallere hizmet verecek şekilde,” ibaresi, “Bir yıldızlı oteller, apart oteller ve pansiyonlar hariç olmak üzere, genel mahallere hizmet verecek şekilde,” şeklinde değiştirilmiştir.\n\n [17] 16/3/2023 tarihli ve 32134 sayılı Resmî Gazete’de yayımlanan 6969 sayılı Cumhurbaşkanı Kararının 9 uncu maddesiyle bu fıkrada yer alan “Bir yıldızlı oteller” ibaresi “Bir ve iki yıldızlı oteller” şeklinde değiştirilmiştir.\n\n [18] 16/3/2023 tarihli ve 32134 sayılı Resmî Gazete’de yayımlanan 6969 sayılı Cumhurbaşkanı Kararının 10 uncu maddesiyle bu fıkrada yer alan “soyunma odası,” ibaresi yürürlükten kaldırılmıştır.\n\n [19] 22/12/2024 tarihli ve 32760 sayılı Resmî Gazete’de yayımlanan 9287 sayılı Cumhurbaşkanı Kararının 5 inci maddesiyle, bu alt bentte yer alan “birden fazla yatak odası bulunanlar dört yataklı olarak değerlendirilir” ibaresinden sonra gelmek üzere “, ancak suit odalarda oturma bölümü dahil banyolu olarak düzenlenen her oda yatak sayısı hesabında yatak odası olarak dikkate alınır” ibaresi ile “Suit ve apart odalarda oturma bölümü” ibaresinden sonra gelmek üzere “ile suit, apart ve aile odalarının en fazla bir yatak odası” ibaresi eklenmiştir.\n\n [20] 16/3/2023 tarihli ve 32134 sayılı Resmî Gazete’de yayımlanan 6969 sayılı Cumhurbaşkanı Kararının 11 inci maddesiyle bu bentte yer alan “beş yıldızlı otellerde” ibaresi “beş yıldızlı oteller ve tatil köylerinde” şeklinde değiştirilmiştir.\n\n [21] 29/8/2023 tarihli ve 32294 sayılı Resmî Gazete’ de yayımlanan 7519 sayılı Cumhurbaşkanı Kararının 4 üncü maddesiyle bu fıkrada yer alan “asli fonksiyonları” ibaresi “asıl işleri” şeklinde ve “bu hizmetin yanında,” ibaresi “bu hizmetin yanında yardımcı iş olarak” şeklinde değiştirilmiştir.\n\n [22] 16/3/2023 tarihli ve 32134 sayılı Resmî Gazete’de yayımlanan 6969 sayılı Cumhurbaşkanı Kararının 12 nci maddesiyle bu fıkrada yer alan “ve belgelendirme denetimi veya sınıflandırma çalışmasında bu sınıf için belirlenmiş puan barajını aşan” ibaresi yürürlükten kaldırılmıştır.\n\n [23] 16/3/2023 tarihli ve 32134 sayılı Resmî Gazete’de yayımlanan 6969 sayılı Cumhurbaşkanı Kararının 12 nci maddesiyle bu bentte yer alan “on oda” ibaresi “beş oda” şeklinde değiştirilmiştir.\n\n [24] 16/3/2023 tarihli ve 32134 sayılı Resmî Gazete’de yayımlanan 6969 sayılı Cumhurbaşkanı Kararının 12 nci maddesiyle bu fıkrada yer alan “ve belgelendirme denetimi veya sınıflandırma çalışmasında bu sınıf için belirlenmiş puan barajını aşan” ibaresi “en az on odalı” şeklinde değiştirilmiştir.\n\n [25] 16/3/2023 tarihli ve 32134 sayılı Resmî Gazete’de yayımlanan 6969 sayılı Cumhurbaşkanı Kararının 12 nci maddesiyle bu fıkrada yer alan “ve belgelendirme denetimi veya sınıflandırma çalışmasında bu sınıf için belirlenmiş puan barajını aşan” ibaresi yürürlükten kaldırılmış, (d) bendinde yer alan “Odalarda” ibaresi “Genel mahallerde” şeklinde değiştirilmiştir.\n\n [26] 16/3/2023 tarihli ve 32134 sayılı Resmî Gazete’de yayımlanan 6969 sayılı Cumhurbaşkanı Kararının 12 nci maddesiyle bu bentte yer alan “klima,” ibaresinden sonra gelmek üzere “odalarda internet hizmeti,” ibaresi eklenmiştir.\n\n [27] 29/8/2023 tarihli ve 32294 sayılı Resmî Gazete’ de yayımlanan 7519 sayılı Cumhurbaşkanı Kararının 5 inci maddesiyle bu fıkrada yer alan “konaklama ve yeme-içme hizmetinin yanında” ibaresi “asıl işleri konaklama hizmeti olan, bu hizmetin yanında yardımcı iş olarak yeme-içme,” şeklinde değiştirilmiştir.\n\n [28] 16/3/2023 tarihli ve 32134 sayılı Resmî Gazete’de yayımlanan 6969 sayılı Cumhurbaşkanı Kararının 13 üncü maddesiyle bu bentte yer alan “seksen” ibaresi “altmış” şeklinde değiştirilmiştir.\n\n [29] 16/3/2023 tarihli ve 32134 sayılı Resmî Gazete’de yayımlanan 6969 sayılı Cumhurbaşkanı Kararının 16 ncı maddesiyle bu bentte yer alan “uluslararası kabul gören sertifikasının” ibaresi “Mesleki Yeterlilik Kurumu tarafından yetkilendirilmiş belgelendirme kuruluşlarınca düzenlenen mesleki yeterlilik belgesinin” şeklinde değiştirilmiştir.\n\n [30] 16/3/2023 tarihli ve 32134 sayılı Resmî Gazete’de yayımlanan 6969 sayılı Cumhurbaşkanı Kararının 16 ncı maddesiyle bu bentte yer alan “Tefriş, dekorasyon, donanım ve servis malzemelerinin; üstün kaliteli veya özel seri üretim olması ya da sanatçı veya yerel üretici tarafından tesise özel tasarlanarak üretilmiş olması veya özel tasarım ürünler olması;” ibaresi “Nitelikli tefriş, dekorasyon, donanım ve servis malzemeleri,” şekilde değiştirilmiştir.\n\n [31] 16/3/2023 tarihli ve 32134 sayılı Resmî Gazete’de yayımlanan 6969 sayılı Cumhurbaşkanı Kararının 16 ncı maddesiyle bu bentte yer alan “uluslararası kabul gören sertifikasının” ibaresi “Mesleki Yeterlilik Kurumu tarafından yetkilendirilmiş belgelendirme kuruluşlarınca düzenlenen mesleki yeterlilik belgesinin” şeklinde değiştirilmiştir.\n\n [32] 16/3/2023 tarihli ve 32134 sayılı Resmî Gazete’de yayımlanan 6969 sayılı Cumhurbaşkanı Kararının 16 ncı maddesiyle bu bentte yer alan “konusunda eğitim almış olması” ibaresi “konusunda deneyimli veya eğitim almış olması” şeklinde değiştirilmiştir.\n\n [33] 29/8/2024 tarihli ve 32647 sayılı Resmî Gazete’de yayımlanan 8864 sayılı Cumhurbaşkanı Kararının 1 inci maddesiyle bu fıkraya “alanlarda düzenlenen,” ibaresinden sonra gelmek üzere “yerleşim düzenini gösteren krokisi bulunan,” ibaresi eklenmiş\n\n [34] 16/3/2023 tarihli ve 32134 sayılı Resmî Gazete’de yayımlanan 6969 sayılı Cumhurbaşkanı Kararının 18 inci maddesiyle bu bentte yer alan “üçer” ibaresi “iki” şeklinde, “Bungalov üniteleri taban alanı” ibaresi “Bungalov ünitelerinin her birinin toplam alanı” şeklinde ve “bungalov üniteleri taban alanı şartı” ibaresi “bungalov ünitelerinde toplam alan şartı” şeklinde değiştirilmiştir.\n\n [35] 10/1/2023 tarihli ve 32069 sayılı Resmî Gazete’de yayımlanan 6661 sayılı Cumhurbaşkanı Kararının 2 nci maddesiyle bu fıkrada yer alan “mesire yerleri; orman rejimine tabi olan, konaklamalı mesire yeri olarak tahsisli” ibaresi “mesire yeri/konaklamalı orman parkı türündeki tesisler; orman rejimine tabi olan, konaklamalı mesire yeri veya konaklamalı orman parkı olarak tahsis edilmiş” şeklinde değiştirilmiştir.\n\n [36] 16/3/2023 tarihli ve 32134 sayılı Resmî Gazete’de yayımlanan 6969 sayılı Cumhurbaşkanı Kararının 19 uncu maddesiyle bu maddesindeki “bu Yönetmelikte tür ve nitelikleri belirtilmeyen,” ibaresi yürürlükten kaldırılmıştır.\n\n [37] 23/12/2023 tarihli ve 32408 sayılı Resmî Gazete’de yayımlanan 7979 sayılı Cumhurbaşkanı Kararının 1 inci maddesiyle bu fıkrada yer alan “31/12/2023” ibaresi “30/4/2024” şeklinde değiştirilmiştir.",
+      "preview": "(1) Bu Yönetmelik hükümlerini Kültür ve Turizm Bakanı yürütür. 31/5/2019 TARİHLİ VE 1134 SAYILI CUMHURBAŞKANI KARARI İLE YÜRÜRLÜĞE KONULAN Y…",
+      "kitap": null,
+      "kisim": "ÜÇÜNCÜ KISIM · Çeşitli ve Son Hükümler",
+      "bolum": "ÜÇÜNCÜ BÖLÜM · Geçici ve Son Hükümler",
+      "ayirim": null,
+      "maddeBaslik": "Yürütme",
+      "sectionPath": [
+        "ÜÇÜNCÜ KISIM · Çeşitli ve Son Hükümler",
+        "ÜÇÜNCÜ BÖLÜM · Geçici ve Son Hükümler",
+        "Yürütme"
+      ]
+    }
+  ]
+}

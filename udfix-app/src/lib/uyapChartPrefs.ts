@@ -1,6 +1,6 @@
 export const KATIR_CHART_PREFS_KEY = 'udfix-katir-chart-prefs';
 
-export const CHART_RANGE_MONTHS = [12, 24, 36] as const;
+export const CHART_RANGE_MONTHS = [12, 24, 36, 48, 60] as const;
 export type ChartRangeMonths = (typeof CHART_RANGE_MONTHS)[number];
 
 export type KatirChartMode = 'monthly' | 'cumulative';
@@ -43,7 +43,9 @@ export const DEFAULT_KATIR_CHART_PREFS: KatirChartPrefs = {
 };
 
 function asChartRange(value: unknown): ChartRangeMonths {
-    if (value === 12 || value === 24 || value === 36) return value;
+    for (const n of CHART_RANGE_MONTHS) {
+        if (value === n) return n;
+    }
     return 12;
 }
 

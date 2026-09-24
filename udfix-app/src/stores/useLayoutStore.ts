@@ -5,6 +5,7 @@ import { openEntityFloatingPanel } from '../utils/openEntityFloatingPanel';
 import type { DockviewPanelApiLike, LayoutDockviewApi } from '../types/dockviewLayout';
 import { getUdfixDocumentIdForPanel, getNoteIdFromPanelId } from '../utils/dockviewNoteTab';
 import { finalizeNoteEditorIfRegistered } from '../utils/noteEditorCloseRegistry';
+import { scheduleAfterUiEvent } from '../utils/scheduleAfterUiEvent';
 
 function panelComponent(p: { component?: string; api?: { component?: string } }): string | undefined {
     return p.component ?? p.api?.component;
@@ -862,16 +863,20 @@ export const useLayoutStore = create<LayoutState>()(
                     documents: [...state.documents.filter((doc) => doc.id !== documentId), { id: documentId, title }],
                     activeDocument: documentId,
                 }));
-                const position = positionForMainOnlyPanel(api, 'editor');
-                const id = `editor-${documentId}`;
-                api.addPanel({
-                    id,
-                    component: 'editor',
-                    title,
-                    params: { documentId },
-                    position,
+                scheduleAfterUiEvent(() => {
+                    const liveApi = get().dockviewApi;
+                    if (!liveApi) return;
+                    const position = positionForMainOnlyPanel(liveApi, 'editor');
+                    const id = `editor-${documentId}`;
+                    liveApi.addPanel({
+                        id,
+                        component: 'editor',
+                        title,
+                        params: { documentId },
+                        position,
+                    });
+                    finalizeMainOnlyPanel(liveApi, id);
                 });
-                finalizeMainOnlyPanel(api, id);
             },
             openEditorDocument: (documentId, title = 'Belge') => {
                 const trimmedId = documentId.trim();
@@ -898,16 +903,31 @@ export const useLayoutStore = create<LayoutState>()(
                     return;
                 }
 
-                const panelId = `editor-${trimmedId}`;
-                const position = positionForMainOnlyPanel(api, 'editor');
-                api.addPanel({
-                    id: panelId,
-                    component: 'editor',
-                    title: nextTitle,
-                    params: { documentId: trimmedId },
-                    position,
+                scheduleAfterUiEvent(() => {
+                    const liveApi = get().dockviewApi;
+                    if (!liveApi) return;
+                    const already = Array.from(liveApi.panels).find((panel) => {
+                        if (panelComponent(panel) !== 'editor') return false;
+                        const params =
+                            typeof panel.api?.getParameters === 'function' ? panel.api.getParameters() : {};
+                        return getUdfixDocumentIdForPanel(panel.id, get().activeDocument, params) === trimmedId;
+                    });
+                    if (already) {
+                        already.api.setTitle?.(nextTitle);
+                        already.api.setActive?.();
+                        return;
+                    }
+                    const panelId = `editor-${trimmedId}`;
+                    const position = positionForMainOnlyPanel(liveApi, 'editor');
+                    liveApi.addPanel({
+                        id: panelId,
+                        component: 'editor',
+                        title: nextTitle,
+                        params: { documentId: trimmedId },
+                        position,
+                    });
+                    finalizeMainOnlyPanel(liveApi, panelId);
                 });
-                finalizeMainOnlyPanel(api, panelId);
             },
             focusOrOpenViewer: () => {
                 const api = get().dockviewApi;

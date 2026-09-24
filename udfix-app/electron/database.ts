@@ -866,6 +866,7 @@ function initSchema() {
     migrateNotesAttachments(db);
     migrateEditorTypography(db);
     migrateHeaderFooterLibrary(db);
+    migrateDocumentHeaderFooter(db);
     migrateDocumentHistory(db);
     migrateDocumentTemplates(db);
     migrateMentionLineageLog(db);
@@ -2229,6 +2230,16 @@ function migrateHeaderFooterLibrary(database: Database.Database) {
         .run();
 }
 
+function migrateDocumentHeaderFooter(database: Database.Database) {
+    database.exec(`
+        CREATE TABLE IF NOT EXISTS document_header_footer (
+            document_id TEXT PRIMARY KEY,
+            payload_json TEXT,
+            updated_at INTEGER
+        )
+    `);
+}
+
 function tableExists(database: Database.Database, tableName: string): boolean {
     const row = database
         .prepare(`SELECT 1 as ok FROM sqlite_master WHERE type='table' AND name = ? LIMIT 1`)
@@ -2871,6 +2882,43 @@ export function getSqliteDatabase(): Database.Database | null {
     return db;
 }
 
+export function readUsageSnapshot(): {
+    matters: number;
+    parties: number;
+    notes: number;
+    documents: number;
+    uyapEvrak: number;
+    dbBytes: number;
+} | null {
+    if (!db) return null;
+    const count = (sql: string): number => {
+        try {
+            const row = db!.prepare(sql).get() as { n?: number } | undefined;
+            return typeof row?.n === 'number' ? row.n : 0;
+        } catch {
+            return 0;
+        }
+    };
+    let dbBytes = 0;
+    if (sqlitePath) {
+        try {
+            dbBytes = fs.statSync(sqlitePath).size;
+        } catch {
+            dbBytes = 0;
+        }
+    }
+    return {
+        matters: count('SELECT COUNT(*) AS n FROM matters'),
+        parties: count('SELECT COUNT(*) AS n FROM parties'),
+        notes: count('SELECT COUNT(*) AS n FROM notes'),
+        documents: count('SELECT COUNT(*) AS n FROM documents'),
+        uyapEvrak: count(
+            `SELECT COUNT(*) AS n FROM documents WHERE source_system = 'UYAP' AND json_extract(metadata, '$.uyap.itemKey') IS NOT NULL AND json_extract(metadata, '$.uyap.itemKey') != ''`,
+        ),
+        dbBytes,
+    };
+}
+
 export function getAppMeta(database: Database.Database, key: string): string | null {
     const row = database.prepare(`SELECT value FROM app_meta WHERE key = ?`).get(key) as
         | { value: string }
@@ -2965,121 +3013,164 @@ function applyNotificationTurAttr(
     }
 }
 
-function decorateNotificationList(
+type MatterHintFields = {
+    parties_line: string | null;
+    dosya_tur_label: string | null;
+};
+
+function loadMatterHintFields(
     database: Database.Database,
-    rows: NotificationListRow[],
-): Array<NotificationListRow & { parties_line: string | null; dosya_tur_label: string | null }> {
-    const matterIds = [
-        ...new Set(rows.map((row) => String(row.matter_id || '').trim()).filter(Boolean)),
-    ];
+    matterIds: string[],
+): Map<string, MatterHintFields> {
+    const unique = [...new Set(matterIds.map((id) => String(id || '').trim()).filter(Boolean))];
+    const out = new Map<string, MatterHintFields>();
+    for (const id of unique) {
+        out.set(id, { parties_line: null, dosya_tur_label: null });
+    }
+    if (unique.length === 0) return out;
+
     const partiesByMatter = new Map<
         string,
-        Array<{ full_name: string | null; role: string | null; is_client: number | null }>
-    >();
-    const turByMatter = new Map<string, string>();
-    if (matterIds.length > 0) {
-        const placeholders = matterIds.map(() => '?').join(', ');
-        const matterRows = database
-            .prepare(
-                `SELECT id,
-                        matter_type,
-                        court_name,
-                        json_extract(metadata, '$.uyap.dosyaTurKod') AS dosya_tur_kod,
-                        json_extract(metadata, '$.uyap.dosyaTur') AS dosya_tur,
-                        json_extract(metadata, '$.uyap.yargiBirimTablo') AS yargi_birim_tablo,
-                        json_extract(metadata, '$.uyap.davaTurleriStr') AS dava_turleri_str,
-                        json_extract(metadata, '$.uyap.icra.takipYolu') AS icra_takip_yolu_kod
-                 FROM matters
-                 WHERE id IN (${placeholders})`,
-            )
-            .all(...matterIds) as Array<{
-            id: string;
-            matter_type: string | null;
-            court_name: string | null;
-            dosya_tur_kod: unknown;
-            dosya_tur: unknown;
-            yargi_birim_tablo: unknown;
-            dava_turleri_str: unknown;
-            icra_takip_yolu_kod: unknown;
-        }>;
-        const davaTuruByMatter = new Map<string, string>();
-        const icraYoluByMatter = new Map<string, string>();
-        const attrRows = database
-            .prepare(
-                `SELECT entity_id, tag_key, tag_value
-                 FROM entity_attributes
-                 WHERE entity_type = 'MATTER'
-                   AND entity_id IN (${placeholders})
-                   AND tag_key IN (
-                     'uyap_dava_turu',
-                     'uyap_icra_takip_yolu',
-                     'icra_takip_yolu'
-                   )`,
-            )
-            .all(...matterIds) as Array<{
-            entity_id: string;
-            tag_key: string;
-            tag_value: string | null;
-        }>;
-        for (const row of attrRows) {
-            const value = String(row.tag_value || '').trim();
-            if (!value || !isNotificationTurAttrKey(row.tag_key)) continue;
-            applyNotificationTurAttr(
-                row.tag_key,
-                row.entity_id,
-                value,
-                davaTuruByMatter,
-                icraYoluByMatter,
-            );
-        }
-        for (const row of matterRows) {
-            const fromMeta = String(row.dava_turleri_str || '').trim();
-            const label = resolveNotificationDosyaTurLabel({
-                matterType: row.matter_type,
-                dosyaTurKod: row.dosya_tur_kod,
-                dosyaTur: row.dosya_tur != null ? String(row.dosya_tur) : null,
-                yargiBirimTablo: row.yargi_birim_tablo,
-                courtName: row.court_name,
-                davaTuru: davaTuruByMatter.get(row.id) || fromMeta || null,
-                icraTakipYolu: icraYoluByMatter.get(row.id) ?? null,
-                icraTakipYoluKod: row.icra_takip_yolu_kod,
-            });
-            if (label) turByMatter.set(row.id, label);
-        }
-        const partyRows = database
-            .prepare(
-                `SELECT mp.matter_id AS matter_id, p.full_name AS full_name, mp.role AS role, p.is_client AS is_client
-                 FROM matter_parties mp
-                 INNER JOIN parties p ON p.id = mp.party_id
-                 WHERE mp.matter_id IN (${placeholders})`,
-            )
-            .all(...matterIds) as Array<{
-            matter_id: string;
+        Array<{
             full_name: string | null;
             role: string | null;
             is_client: number | null;
-        }>;
-        for (const row of partyRows) {
-            const list = partiesByMatter.get(row.matter_id) ?? [];
-            list.push({
-                full_name: row.full_name,
-                role: row.role,
-                is_client: row.is_client,
-            });
-            partiesByMatter.set(row.matter_id, list);
-        }
+            process_role: string | null;
+        }>
+    >();
+    const turByMatter = new Map<string, string>();
+    const placeholders = unique.map(() => '?').join(', ');
+    const matterRows = database
+        .prepare(
+            `SELECT id,
+                    matter_type,
+                    court_name,
+                    json_extract(metadata, '$.uyap.dosyaTurKod') AS dosya_tur_kod,
+                    json_extract(metadata, '$.uyap.dosyaTur') AS dosya_tur,
+                    json_extract(metadata, '$.uyap.yargiBirimTablo') AS yargi_birim_tablo,
+                    json_extract(metadata, '$.uyap.davaTurleriStr') AS dava_turleri_str,
+                    json_extract(metadata, '$.uyap.icra.takipYolu') AS icra_takip_yolu_kod,
+                    json_extract(metadata, '$.uyap.partyProcessRoles') AS party_process_roles
+             FROM matters
+             WHERE id IN (${placeholders})`,
+        )
+        .all(...unique) as Array<{
+        id: string;
+        matter_type: string | null;
+        court_name: string | null;
+        dosya_tur_kod: unknown;
+        dosya_tur: unknown;
+        yargi_birim_tablo: unknown;
+        dava_turleri_str: unknown;
+        icra_takip_yolu_kod: unknown;
+        party_process_roles: unknown;
+    }>;
+    const davaTuruByMatter = new Map<string, string>();
+    const icraYoluByMatter = new Map<string, string>();
+    const attrRows = database
+        .prepare(
+            `SELECT entity_id, tag_key, tag_value
+             FROM entity_attributes
+             WHERE entity_type = 'MATTER'
+               AND entity_id IN (${placeholders})
+               AND tag_key IN (
+                 'uyap_dava_turu',
+                 'uyap_icra_takip_yolu',
+                 'icra_takip_yolu'
+               )`,
+        )
+        .all(...unique) as Array<{
+        entity_id: string;
+        tag_key: string;
+        tag_value: string | null;
+    }>;
+    for (const row of attrRows) {
+        const value = String(row.tag_value || '').trim();
+        if (!value || !isNotificationTurAttrKey(row.tag_key)) continue;
+        applyNotificationTurAttr(
+            row.tag_key,
+            row.entity_id,
+            value,
+            davaTuruByMatter,
+            icraYoluByMatter,
+        );
     }
-    return rows.map((row) => {
-        const matterId = String(row.matter_id || '').trim();
-        const partiesLine = matterId
-            ? formatCompactMatterPartyLine(partiesByMatter.get(matterId) ?? [])
-            : '';
-        return {
-            ...row,
+    for (const row of matterRows) {
+        const fromMeta = String(row.dava_turleri_str || '').trim();
+        const label = resolveNotificationDosyaTurLabel({
+            matterType: row.matter_type,
+            dosyaTurKod: row.dosya_tur_kod,
+            dosyaTur: row.dosya_tur != null ? String(row.dosya_tur) : null,
+            yargiBirimTablo: row.yargi_birim_tablo,
+            courtName: row.court_name,
+            davaTuru: davaTuruByMatter.get(row.id) || fromMeta || null,
+            icraTakipYolu: icraYoluByMatter.get(row.id) ?? null,
+            icraTakipYoluKod: row.icra_takip_yolu_kod,
+        });
+        if (label) turByMatter.set(row.id, label);
+    }
+    const partyRows = database
+        .prepare(
+            `SELECT mp.matter_id AS matter_id, mp.party_id AS party_id, p.full_name AS full_name, mp.role AS role, p.is_client AS is_client
+             FROM matter_parties mp
+             INNER JOIN parties p ON p.id = mp.party_id
+             WHERE mp.matter_id IN (${placeholders})`,
+        )
+        .all(...unique) as Array<{
+        matter_id: string;
+        party_id: string;
+        full_name: string | null;
+        role: string | null;
+        is_client: number | null;
+    }>;
+    const processRolesByMatter = new Map(
+        matterRows.map((row) => [row.id, row.party_process_roles] as const),
+    );
+    for (const row of partyRows) {
+        const list = partiesByMatter.get(row.matter_id) ?? [];
+        const processRole = lookupPartyProcessRole(processRolesByMatter.get(row.matter_id), [
+            row.party_id,
+        ]);
+        list.push({
+            full_name: row.full_name,
+            role: row.role,
+            is_client: row.is_client,
+            process_role: processRole == null ? null : String(processRole),
+        });
+        partiesByMatter.set(row.matter_id, list);
+    }
+    for (const id of unique) {
+        const partiesLine = formatCompactMatterPartyLine(partiesByMatter.get(id) ?? []);
+        out.set(id, {
             parties_line: partiesLine || null,
-            dosya_tur_label: (matterId && turByMatter.get(matterId)) || null,
+            dosya_tur_label: turByMatter.get(id) || null,
+        });
+    }
+    return out;
+}
+
+function applyMatterHintFields<T extends { matter_id?: string | null }>(
+    database: Database.Database,
+    rows: T[],
+): Array<T & MatterHintFields> {
+    const hints = loadMatterHintFields(
+        database,
+        rows.map((row) => String(row.matter_id || '')),
+    );
+    return rows.map((row) => {
+        const hint = hints.get(String(row.matter_id || '').trim()) ?? {
+            parties_line: null,
+            dosya_tur_label: null,
         };
+        return { ...row, ...hint };
     });
+}
+
+function decorateNotificationList(
+    database: Database.Database,
+    rows: NotificationListRow[],
+): Array<NotificationListRow & MatterHintFields> {
+    return applyMatterHintFields(database, rows);
 }
 
 export type CalendarReminderRow = {
@@ -3839,7 +3930,18 @@ export function registerDatabaseHandlers() {
                 FROM parties p
                 JOIN matter_parties mp ON p.id = mp.party_id
                 WHERE mp.matter_id = ?
-            `).all(id);
+            `).all(id) as Array<{ id: string; process_role?: string | null }>;
+            let processRoles: unknown = null;
+            try {
+                processRoles = JSON.parse(String((matter as { metadata?: string }).metadata || '')).uyap
+                    ?.partyProcessRoles;
+            } catch {
+                processRoles = null;
+            }
+            for (const party of parties) {
+                const processRole = lookupPartyProcessRole(processRoles, [party.id]);
+                party.process_role = processRole == null ? null : String(processRole);
+            }
             (matter as any).parties = parties;
         }
         return matter;
@@ -5880,11 +5982,14 @@ export function registerDatabaseHandlers() {
                 ),
             };
         });
-        const payload = sortBySanitizedPortalDate(
-            sanitized,
-            (row) => row.portal_date,
-            (row) => String(row.title || ''),
-        ).slice(0, n);
+        const payload = applyMatterHintFields(
+            db!,
+            sortBySanitizedPortalDate(
+                sanitized,
+                (row) => row.portal_date,
+                (row) => String(row.title || ''),
+            ).slice(0, n),
+        );
         uyapRecentEvrakCache = { fingerprint, payload };
         return payload;
     });
@@ -6290,7 +6395,12 @@ export function registerDatabaseHandlers() {
             if (!existing) return { changes: 0 };
 
             const eventType = String(deadline.event_type || existing.event_type || 'DIGER');
-            const isCompleted = deadline.is_completed ? 1 : 0;
+            const isCompleted =
+                deadline.is_completed === undefined
+                    ? existing.is_completed
+                    : deadline.is_completed
+                      ? 1
+                      : 0;
             const matterId = deadline.matter_id !== undefined ? deadline.matter_id || null : existing.matter_id;
             const partyId = deadline.party_id !== undefined ? deadline.party_id || null : existing.party_id;
             const description =
@@ -6634,6 +6744,88 @@ export function registerDatabaseHandlers() {
             db!.prepare(
                 `UPDATE header_footer_library SET presets_json = ?, assets_json = ?, updated_at = CURRENT_TIMESTAMP WHERE id = 1`,
             ).run(JSON.stringify(data.presets), JSON.stringify(assets));
+            return { ok: true as const, skippedEmpty: false as const };
+        },
+    );
+
+    const isDocumentHfPayloadEmpty = (raw: unknown): boolean => {
+        if (!raw || typeof raw !== 'object' || Array.isArray(raw)) return true;
+        const rec = raw as {
+            differentFirstPage?: unknown;
+            differentLastPage?: unknown;
+            differentOddEvenPages?: unknown;
+            sections?: unknown;
+        };
+        if (rec.differentFirstPage || rec.differentLastPage || rec.differentOddEvenPages) {
+            return false;
+        }
+        const sections = rec.sections;
+        if (!sections || typeof sections !== 'object' || Array.isArray(sections)) return true;
+        for (const section of Object.values(sections as Record<string, unknown>)) {
+            if (!section || typeof section !== 'object' || Array.isArray(section)) continue;
+            for (const value of Object.values(section as Record<string, unknown>)) {
+                if (typeof value === 'string' && value.trim().length > 0) return false;
+            }
+        }
+        return true;
+    };
+
+    registerIpcHandler('db-get-document-hf', (_, documentIdRaw: string) => {
+        const documentId = String(documentIdRaw || '').trim();
+        if (!documentId) return null;
+        const row = db!
+            .prepare(`SELECT payload_json FROM document_header_footer WHERE document_id = ?`)
+            .get(documentId) as { payload_json: string | null } | undefined;
+        if (!row) return null;
+        try {
+            const parsed = JSON.parse(row.payload_json || 'null') as unknown;
+            if (!parsed || typeof parsed !== 'object' || Array.isArray(parsed)) return null;
+            return parsed;
+        } catch {
+            return null;
+        }
+    });
+
+    registerIpcHandler(
+        'db-set-document-hf',
+        (
+            _,
+            data: {
+                documentId?: string;
+                payload?: unknown;
+                allowEmpty?: boolean;
+            },
+        ) => {
+            const documentId = String(data?.documentId || '').trim();
+            if (!documentId) return { ok: false as const };
+            if (!data?.payload || typeof data.payload !== 'object' || Array.isArray(data.payload)) {
+                return { ok: false as const };
+            }
+            const existing = db!
+                .prepare(`SELECT payload_json FROM document_header_footer WHERE document_id = ?`)
+                .get(documentId) as { payload_json: string | null } | undefined;
+            let existingPayload: unknown = null;
+            if (existing?.payload_json) {
+                try {
+                    existingPayload = JSON.parse(existing.payload_json) as unknown;
+                } catch {
+                    existingPayload = null;
+                }
+            }
+            const incomingEmpty = isDocumentHfPayloadEmpty(data.payload);
+            const existingEmpty = isDocumentHfPayloadEmpty(existingPayload);
+            if (incomingEmpty && !existingEmpty && !data.allowEmpty) {
+                return { ok: true as const, skippedEmpty: true as const };
+            }
+            db!
+                .prepare(
+                    `INSERT INTO document_header_footer (document_id, payload_json, updated_at)
+                     VALUES (?, ?, ?)
+                     ON CONFLICT(document_id) DO UPDATE SET
+                        payload_json = excluded.payload_json,
+                        updated_at = excluded.updated_at`,
+                )
+                .run(documentId, JSON.stringify(data.payload), Date.now());
             return { ok: true as const, skippedEmpty: false as const };
         },
     );

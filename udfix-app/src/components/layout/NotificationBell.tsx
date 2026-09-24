@@ -7,8 +7,8 @@ import { Button } from '../ui/button';
 import { HoverCard, HoverCardContent, HoverCardTrigger } from '../ui/hover-card';
 import { Popover, PopoverContent, PopoverTrigger } from '../ui/popover';
 import { ScrollArea } from '../ui/scroll-area';
-import MaterialIcon from '../ui/MaterialIcon';
 import { cn } from '../../lib/utils';
+import { MatterHintDrawer } from './MatterHintDrawer';
 import { NOTIFICATIONS_CHANGED_EVENT } from '../../preferences/appPreferencesTypes';
 import { useShowUserGuidanceLabels } from '../../hooks/useShowUserGuidanceLabels';
 import { GuidanceRailButtonContent, guidanceRailSurfaceClass } from '../ui/userGuidance';
@@ -46,32 +46,6 @@ function notificationHints(row: AppNotification): { partiesLine: string; typeLab
         typeLabel: String(row.dosya_tur_label || '').trim(),
     };
 }
-
-const NotificationHintDrawer: React.FC<{ partiesLine: string; typeLabel: string }> = ({
-    partiesLine,
-    typeLabel,
-}) => (
-    <div className="space-y-2.5">
-        {typeLabel ? (
-            <div>
-                <div className="flex items-center gap-1 text-[10px] font-medium uppercase tracking-wide text-muted-foreground">
-                    <MaterialIcon icon="folder" size={14} aria-hidden className="opacity-80" />
-                    Dosya türü
-                </div>
-                <p className="mt-0.5 text-xs leading-5 text-foreground">{typeLabel}</p>
-            </div>
-        ) : null}
-        {partiesLine ? (
-            <div>
-                <div className="flex items-center gap-1 text-[10px] font-medium uppercase tracking-wide text-muted-foreground">
-                    <MaterialIcon icon="groups" size={14} aria-hidden className="opacity-80" />
-                    Taraflar
-                </div>
-                <p className="mt-0.5 break-words text-xs leading-5 text-foreground">{partiesLine}</p>
-            </div>
-        ) : null}
-    </div>
-);
 
 const NotificationRow: React.FC<{
     row: AppNotification;
@@ -152,7 +126,7 @@ const NotificationRow: React.FC<{
                     variant="glass"
                     className="z-[calc(var(--z-floating)_+_12)] w-72 max-w-[18rem] p-3"
                 >
-                    <NotificationHintDrawer partiesLine={partiesLine} typeLabel={typeLabel} />
+                    <MatterHintDrawer partiesLine={partiesLine} typeLabel={typeLabel} />
                 </HoverCardContent>
             </HoverCard>
         </li>

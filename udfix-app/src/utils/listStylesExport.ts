@@ -57,6 +57,15 @@ ol li > ol {
     margin-top: 0.1em;
 }
 
+/* Paginated print: keep list items out of the footer band. */
+@media print {
+    ol > li,
+    ul:not([data-type="taskList"]) > li {
+        break-inside: avoid-page;
+        page-break-inside: avoid;
+    }
+}
+
 /* ── 1. DEFAULT STYLE (5 Levels) ── */
 ol[data-list-type="default"] { counter-reset: d1 var(--start); }
 ol[data-list-type="default"]>li { counter-increment: d1; }

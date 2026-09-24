@@ -1,0 +1,291 @@
+{
+  "id": "yonetmelik:19819",
+  "kind": "yonetmelik",
+  "no": "19819",
+  "title": "Fiyat Etiketi Yönetmeliği",
+  "shortName": "Etiket Yön.",
+  "aliases": [
+    "Etiket Yön.",
+    "Fiyat Etiketi Yönetmeliği",
+    "19819"
+  ],
+  "tur": 7,
+  "tertip": 5,
+  "sourceUrl": "https://www.mevzuat.gov.tr/mevzuat?MevzuatNo=19819&MevzuatTur=7&MevzuatTertip=5",
+  "kabulTarihi": null,
+  "maddeCount": 16,
+  "maddeler": [
+    {
+      "id": "yonetmelik:19819:m:1",
+      "maddeKind": "madde",
+      "maddeNo": "1",
+      "heading": "Madde 1",
+      "text": "(1) Bu Yönetmeliğin amacı; perakende olarak satışa sunulan mal ve hizmetlerin etiket, tarife ve fiyat listelerinin şekli, içeriği, kullanılması ile indirimli satışlara ilişkin usul ve esasları düzenlemektir.",
+      "preview": "(1) Bu Yönetmeliğin amacı; perakende olarak satışa sunulan mal ve hizmetlerin etiket, tarife ve fiyat listelerinin şekli, içeriği, kullanılm…",
+      "kitap": null,
+      "kisim": null,
+      "bolum": "BİRİNCİ BÖLÜM · Amaç, Kapsam, Dayanak ve Tanımlar",
+      "ayirim": null,
+      "maddeBaslik": "Amaç",
+      "sectionPath": [
+        "BİRİNCİ BÖLÜM · Amaç, Kapsam, Dayanak ve Tanımlar",
+        "Amaç"
+      ]
+    },
+    {
+      "id": "yonetmelik:19819:m:2",
+      "maddeKind": "madde",
+      "maddeNo": "2",
+      "heading": "Madde 2",
+      "text": "(1) Bu Yönetmelik, tüketicilere sunulan mal ve hizmetlere ilişkin etiket, tarife ve fiyat listelerini kapsar.",
+      "preview": "(1) Bu Yönetmelik, tüketicilere sunulan mal ve hizmetlere ilişkin etiket, tarife ve fiyat listelerini kapsar.",
+      "kitap": null,
+      "kisim": null,
+      "bolum": "BİRİNCİ BÖLÜM · Amaç, Kapsam, Dayanak ve Tanımlar",
+      "ayirim": null,
+      "maddeBaslik": "Kapsam",
+      "sectionPath": [
+        "BİRİNCİ BÖLÜM · Amaç, Kapsam, Dayanak ve Tanımlar",
+        "Kapsam"
+      ]
+    },
+    {
+      "id": "yonetmelik:19819:m:3",
+      "maddeKind": "madde",
+      "maddeNo": "3",
+      "heading": "Madde 3",
+      "text": "(1) Bu Yönetmelik, 7/11/2013 tarihli ve 6502 sayılı Tüketicinin Korunması Hakkında Kanunun 54 üncü ve 84 üncü maddelerine dayanılarak hazırlanmıştır.",
+      "preview": "(1) Bu Yönetmelik, 7/11/2013 tarihli ve 6502 sayılı Tüketicinin Korunması Hakkında Kanunun 54 üncü ve 84 üncü maddelerine dayanılarak hazırl…",
+      "kitap": null,
+      "kisim": null,
+      "bolum": "BİRİNCİ BÖLÜM · Amaç, Kapsam, Dayanak ve Tanımlar",
+      "ayirim": null,
+      "maddeBaslik": "Dayanak",
+      "sectionPath": [
+        "BİRİNCİ BÖLÜM · Amaç, Kapsam, Dayanak ve Tanımlar",
+        "Dayanak"
+      ]
+    },
+    {
+      "id": "yonetmelik:19819:m:4",
+      "maddeKind": "madde",
+      "maddeNo": "4",
+      "heading": "Madde 4",
+      "text": "(1) Bu Yönetmelikte geçen;\n a) Açık halde satılan mal: Önceden paketlenmeksizin, tüketicinin hazır bulunduğu bir ortamda ölçülerek satılan malı,\n b) (Değişik:RG-18/2/2022-31754)(2) Bakanlık: Ticaret Bakanlığını,\n c) (Değişik:RG-18/2/2022-31754)(2) Fiyat etiketi: Satıcı tarafından perakende satışa arz edilen mallara ilişkin olarak Yönetmelik ile belirlenen zorunlu hususlar hakkında tüketicileri bilgilendirme amacı ile kullanılan etiketi,\n ç) Hizmet: Bir ücret veya menfaat karşılığında yapılan ya da yapılması taahhüt edilen mal sağlama dışındaki her türlü tüketici işleminin konusunu,\n d) İndirimli satış: Mevsim değişmeleri, mal stoklarının eritilmesi, işletmenin açılması, kapanması, devredilmesi, tasfiyesi, işyeri adresi veya faaliyet konusu değişikliği ve benzeri nedenlerle indirim yapıldığını gösteren bir ibare ile gerçekleştirilen satışı,\n e) Kanun: Tüketicinin Korunması Hakkında Kanunu,\n f) Mal: Alışverişe konu olan; taşınır eşya, konut veya tatil amaçlı taşınmaz mallar ile elektronik ortamda kullanılmak üzere hazırlanan yazılım, ses, görüntü ve benzeri her türlü gayri maddi malları,\n g) (Değişik:RG-18/2/2022-31754)(2) Malın birim fiyatı: Bir malın ticari teamül ile yerleşmiş satış usul ve şekillerine göre adet, uzunluk, ağırlık, alan veya hacim ölçülerinden malın türüne uygun olan ölçü biriminin net miktarıyla ifade edilen tüm vergiler dâhil fiyatını,\n ğ) Malın üretim yeri: Malın üretildiği ülkeyi,\n h) (Değişik:RG-18/2/2022-31754)(2) Satış fiyatı: Satılan bir malın net miktarı üzerinden hesaplanan tüm vergiler dahil peşin fiyatını veya sunulan hizmetin tüm vergiler dahil peşin fiyatını,\n ı) Sağlayıcı: Kamu tüzel kişileri de dâhil olmak üzere ticari veya mesleki amaçlarla tüketiciye hizmet sunan ya da hizmet sunanın adına ya da hesabına hareket eden gerçek veya tüzel kişiyi,\n i) Satıcı: Kamu tüzel kişileri de dâhil olmak üzere ticari veya mesleki amaçlarla tüketiciye mal sunan ya da mal sunanın adına ya da hesabına hareket eden gerçek veya tüzel kişiyi,\n j) Tarife ve fiyat listesi: Mal veya hizmetin satış fiyatı hakkında tüketicileri bilgilendirmek üzere kullanılan listeyi,\n k) Tüketici: Ticari veya mesleki olmayan amaçlarla hareket eden gerçek veya tüzel kişiyi,\n l) (Ek:RG-27/7/2019-30844) Yerli üretim: 17/4/1957 tarihli ve 6948 sayılı Sanayi Sicili Kanununun 1 inci maddesinin birinci fıkrasında belirtilen işletmeler tarafından Türkiye’de üretilen mallar, Türkiye’de üretilen el ve ev sanatları ürünleri ile 27/10/1999 tarihli ve 4458 sayılı Gümrük Kanununun 18 inci maddesinde sayılan ürünlerden Türkiye’de elde edilen veya üretilen malları,\n m) (Ek:RG-27/7/2019-30844) Yerli üretim logosu: Üretim yeri Türkiye olan mallar için Bakanlıkça tespit ve ilan edilen şekil, logo veya işareti,\n n) (Ek:RG-18/2/2022-31754)(2) Net miktar: Ambalajlı malın, ambalaj malzemesi ve mal ile birlikte ambalajlanan diğer malzemeler hariç miktarını,\n o) (Ek:RG-11/10/2025-33044) Dara: Açık halde satılan malın birlikte tartıldığı plastik poşet, streç film ve kese kağıdı gibi malın birim fiyatını etkilemeyecek nitelikteki ambalajlar hariç olmak üzere malın birlikte tartıldığı kabın ağırlığını,\n ö) (Ek:RG-11/10/2025-33044) Karekod: Fiyat listesine erişimi sağlayan görseli,\n ifade eder.",
+      "preview": "(1) Bu Yönetmelikte geçen; a) Açık halde satılan mal: Önceden paketlenmeksizin, tüketicinin hazır bulunduğu bir ortamda ölçülerek satılan ma…",
+      "kitap": null,
+      "kisim": null,
+      "bolum": "BİRİNCİ BÖLÜM · Amaç, Kapsam, Dayanak ve Tanımlar",
+      "ayirim": null,
+      "maddeBaslik": "Tanımlar",
+      "sectionPath": [
+        "BİRİNCİ BÖLÜM · Amaç, Kapsam, Dayanak ve Tanımlar",
+        "Tanımlar"
+      ]
+    },
+    {
+      "id": "yonetmelik:19819:m:5",
+      "maddeKind": "madde",
+      "maddeNo": "5",
+      "heading": "Madde 5",
+      "text": "(1) (Değişik:RG-27/7/2019-30844) Satıcı tarafından perakende satışa arz edilen malların veya ambalajlarının yahut kaplarının üzerine kolaylıkla görülebilir ve okunabilir şekilde yazılı, dijital veya elektronik etiket konulması; etiket konulması mümkün olmayan hâllerde aynı bilgileri kapsayan listelerin görülebilir ve okunabilir şekilde uygun yerlere asılması zorunludur.\n (2) Etiket ve listelerde aşağıda yer alan hususların bulunması (Ek ibare:RG-18/2/2022-31754)(2) ve Türkçe yazılması zorunludur:\n a) Malın üretim yeri,\n b) Malın ayırıcı özelliği,\n c) Malın tüm vergiler dâhil satış fiyatı,\n ç) Malın birim fiyatı.\n d) (Ek:RG-18/9/2018-30539)(1) Malın satış fiyatı ve birim fiyatının uygulanmaya başlandığı tarih,\n e) (Ek:RG-18/9/2018-30539)(1) Üretim yeri Türkiye olan mallar için Bakanlıkça tespit ve ilan edilen şekil, logo veya işaret.\n f) (Ek:RG-18/2/2022-31754)(2) Ambalajlı malın satış fiyatından ayrı olarak ambalajın teslimine ve iadesine ilişkin depozito bedeli var ise söz konusu bedelin tutarı.\n (3) İthal edilmiş mallara ait etiketlerde; malın üretildiği ülke isminin Türkçe yazılması zorunludur.\n (4) Cam, naylon, karton, kâğıt ve bunlara benzer maddelerden oluşan kutu, kova, şişe, kavanoz, poşet, torba ve benzeri ambalajlar içinde tüketiciye satılan malların etiketlerinde; satış fiyatları ile birim fiyatlarının (Mülga ibare:RG-27/7/2019-30844) (…) kolaylıkla görülebilir ve okunabilir şekilde yazılması zorunludur.\n (5) Açık halde satılan mallara ilişkin etiketlerde satış fiyatı yerine sadece birim fiyatının yer alması yeterlidir.\n (6) Malın birim fiyatının satış fiyatıyla aynı olması halinde birim fiyatının belirtilmesine gerek yoktur.\n (7) (Ek:RG-27/7/2019-30844) Hizmetlerin tarife ve fiyatlarını gösteren listeler de bu madde hükmüne göre düzenlenerek asılır. Hizmetlere ilişkin tarifelerde hizmetin ayırıcı özelliği, tüm vergiler dâhil satış fiyatı ve bu fiyatın uygulanmaya başlandığı tarihin belirtilmesi yeterlidir.\n (8) (Ek:RG-27/7/2019-30844) Yerli üretim logosu bulunan etiketlerde ve fiyat listelerinde ayrıca üretim yerinin belirtilmesine gerek yoktur.",
+      "preview": "(1) (Değişik:RG-27/7/2019-30844) Satıcı tarafından perakende satışa arz edilen malların veya ambalajlarının yahut kaplarının üzerine kolaylı…",
+      "kitap": null,
+      "kisim": null,
+      "bolum": "İKİNCİ BÖLÜM · Genel Esaslar",
+      "ayirim": null,
+      "maddeBaslik": "Etiket bulundurma zorunluluğu",
+      "sectionPath": [
+        "İKİNCİ BÖLÜM · Genel Esaslar",
+        "Etiket bulundurma zorunluluğu"
+      ]
+    },
+    {
+      "id": "yonetmelik:19819:m:6",
+      "maddeKind": "madde",
+      "maddeNo": "6",
+      "heading": "Madde 6",
+      "text": "(1) Üzerinde veya ambalajında, etikette aranılan hususlar basılı olarak açıkça yazılı bulunan mallarla, kitap, dergi ve gazete gibi üzerinde fiyatı belirtilmiş olan mallarda ve arttırma suretiyle veya özel kanunlarına göre satışı yapılan mallarda etiket bulundurulması zorunlu değildir.\n (2) (Ek:RG-11/10/2025-33044) Kitap, dergi ve gazete gibi malların satış fiyatı bilgisi için elektronik cihazlar da kullanılabilir. Söz konusu cihazların çalışır halde, kolaylıkla ulaşılabilir bir noktada olması ve yeterli sayıda bulundurulması zorunludur.\n (3) Satış fiyatı, ulusal veya uluslararası borsa veya benzeri kurum ya da kuruluşlarca ya da ticari örf ve adetlere göre belirlenen ve uygulanan kıymetli taş veya madenlerden yapılmış mallarda da etiket ve liste koyma zorunluluğu bulunmamakla birlikte bu malların cinslerine göre birim satış fiyatları; bu Yönetmelik hükümlerine aykırı olmamak üzere, satışa arz edildikleri işyerinin uygun bir yerinde kolaylıkla görülebilir ve okunabilir bir şekilde gösterilir. Bu satış fiyatlarına işçilik bedelinin dahil olup olmadığı ayrıca belirtilir.",
+      "preview": "(1) Üzerinde veya ambalajında, etikette aranılan hususlar basılı olarak açıkça yazılı bulunan mallarla, kitap, dergi ve gazete gibi üzerinde…",
+      "kitap": null,
+      "kisim": null,
+      "bolum": "İKİNCİ BÖLÜM · Genel Esaslar",
+      "ayirim": null,
+      "maddeBaslik": "Etiket zorunluluğu olmayan mallar (3)",
+      "sectionPath": [
+        "İKİNCİ BÖLÜM · Genel Esaslar",
+        "Etiket zorunluluğu olmayan mallar (3)"
+      ]
+    },
+    {
+      "id": "yonetmelik:19819:m:7",
+      "maddeKind": "madde",
+      "maddeNo": "7",
+      "heading": "Madde 7",
+      "text": "(1) Perakende olarak satışa arz edilen mallara konulması zorunlu olan etiketler; malın niteliğine, malın satışa sunulduğu yerin büyüklüğüne, ticari usul ve adetlere göre malın veya (Ek ibare:RG-18/2/2022-31754)(2) ambalajının yahut kaplarının üzerine; aynı nitelikteki mal gruplarının veya raflarının üzerine konulmak, dikilmek, zımbalanmak, yapıştırılmak, bunlara herhangi bir bağ ile tutturulmak veya asılmak suretiyle kullanılır.",
+      "preview": "(1) Perakende olarak satışa arz edilen mallara konulması zorunlu olan etiketler; malın niteliğine, malın satışa sunulduğu yerin büyüklüğüne,…",
+      "kitap": null,
+      "kisim": null,
+      "bolum": "İKİNCİ BÖLÜM · Genel Esaslar",
+      "ayirim": null,
+      "maddeBaslik": "Etiketin konuluş biçimi ve yeri",
+      "sectionPath": [
+        "İKİNCİ BÖLÜM · Genel Esaslar",
+        "Etiketin konuluş biçimi ve yeri"
+      ]
+    },
+    {
+      "id": "yonetmelik:19819:m:8",
+      "maddeKind": "madde",
+      "maddeNo": "8",
+      "heading": "Madde 8",
+      "text": "(Değişik:RG-11/10/2025-33044)\n (1) Hizmetlerin özelliğine ve tüketiciye sunuluş biçimine göre, tarife ve fiyat listelerine ilişkin belge, levha, pano ve benzerleri hizmetin sunulduğu işyerinde, ayrıca lokanta, restoran, kafe, pastane ve benzeri yiyecek ve içecek hizmeti sunulan işyerlerinde ise işyerinin giriş kapısının önüne, giriş kapısının birden fazla olması durumunda her bir kapı için ayrı ayrı olacak şekilde ve hizmet sunulan masaların üstüne, tüketiciler tarafından kolaylıkla görülebilir ve okunabilir şekilde asılır, takılır veya konulur.\n (2) Lokanta, restoran, kafe, pastane ve benzeri yiyecek ve içecek hizmeti sunulan işyerlerindeki masalarda fiyat listeleri tüketicilere karekod ile de gösterilebilir. Ancak tüketicinin talep etmesi halinde fiyat listesinin ayrıca verilmesi zorunludur.\n (3) Hizmete sunulan tüm ürünlerin, tarife ve fiyat listelerinde yer alması zorunludur.\n (4) Birinci, ikinci ve üçüncü fıkrada belirtilen hususlara aykırı hareket edilmesi durumunda, aykırılık sayısının belirlenmesinde fiyat listelerinde eksik veya hatalı belirtilen ürün sayısı dikkate alınır.\n (5) Kamuoyunun aydınlatılması ve tüketicinin fiyatlara erişebilmesine imkân sağlanması amacıyla; lokanta, restoran, kafe, pastane ve benzeri yiyecek ve içecek hizmeti sunulan işyerleri, fiyat listelerine ilişkin verileri kurulacak olan sisteme aktarmakla yükümlüdür. Bu veriler ilgili kurum, kuruluş ve kamuoyuyla paylaşılabilir. Sisteme veri aktarmakla yükümlü olan işyerlerine yönelik kriterler ile veri aktarımına ilişkin usul ve esaslar Bakanlıkça belirlenir. Kriterleri belirlenen işyerleri, veri aktarımına ilişkin usul ve esasların Bakanlığın resmî internet sitesinde ilan edilmesine müteakip fiyat listelerini üç ay içerisinde sisteme aktarmak zorundadır.\n (6) (Değişik:RG-30/1/2026-33153) Tarife ve fiyat listesinde gösterilen fiyatların dışında herhangi bir isim altında başka bir ücret alınması hâlinde, bunun tarife ve fiyat listesinde gösterilmesi zorunludur. Ancak lokanta, kafe, restoran, pastane ve benzeri yiyecek ve içecek hizmeti sunulan işyerlerinde, 22/5/2003 tarihli ve 4857 sayılı İş Kanununun 51 inci maddesi hükmü saklı kalmak kaydıyla; tüketiciden servis ücreti, masa ücreti, kuver ücreti ve benzeri herhangi bir isim altında ilave ödeme talep edilemez.",
+      "preview": "(Değişik:RG-11/10/2025-33044) (1) Hizmetlerin özelliğine ve tüketiciye sunuluş biçimine göre, tarife ve fiyat listelerine ilişkin belge, lev…",
+      "kitap": null,
+      "kisim": null,
+      "bolum": "İKİNCİ BÖLÜM · Genel Esaslar",
+      "ayirim": null,
+      "maddeBaslik": "Tarife ve fiyat listesi",
+      "sectionPath": [
+        "İKİNCİ BÖLÜM · Genel Esaslar",
+        "Tarife ve fiyat listesi"
+      ]
+    },
+    {
+      "id": "yonetmelik:19819:m:9",
+      "maddeKind": "madde",
+      "maddeNo": "9",
+      "heading": "Madde 9",
+      "text": "(1) Etiketlerin (Ek ibare:RG-18/9/2018-30539)(1), tarife ve fiyat listelerinin üzerindeki rakam ve harflerin; okunabilir, düzgün, eksiksiz, gerçeğe uygun, yeterli büyüklükte ve başka rakam, kelime ve işaretlerle karışıklığa sebebiyet vermeyecek şekilde olması, yanıltıcı ve aldatıcı bilgiler içermemesi zorunludur. Etiketlerin (Ek ibare:RG-18/9/2018-30539)(1) , tarife ve fiyat listelerinin tüketiciler tarafından kolaylıkla görülebilecek, okunabilecek ve hangi mala ait olduğu açıkça belli olacak şekilde konulması gerekir.\n (2) (Ek:RG-11/10/2025-33044) Açık halde satılan ürünlerin net miktarı belirlenirken daranın düşürülmesi zorunludur.\n (3) Tarife ve fiyatları, meslek kuruluşları veya mevzuatına göre bu konuda yetkili bulunan kurum ya da kuruluşlarca belirlenen hizmetlere ilişkin tarife ve fiyat listelerini içeren belge, levha, pano ve benzerleri, bu Yönetmelik hükümlerine aykırı olmamak kaydıyla ilgili kurum ve kuruluşlarca belirli tip ve ebatta hazırlanabilir.\n (4) Yurt dışında ifa edilmesi öngörülen paket tur ve eğitim hizmetleri ile yurt dışına yönelik ulaşım ve konaklama hizmetlerinin fiyat listeleri hariç olmak üzere, etiket ve listelerde satış fiyatlarının; ‘Türk Lirası’, ‘TL’ veya ‘’ simgesi şeklinde yazılması zorunludur.\n (5) Bakanlık, gerektiğinde etiket, tarife ve fiyat listelerinin, şekil, boyut, cinsleri ile benzeri hususları tespit ve ilan eder.",
+      "preview": "(1) Etiketlerin (Ek ibare:RG-18/9/2018-30539)(1), tarife ve fiyat listelerinin üzerindeki rakam ve harflerin; okunabilir, düzgün, eksiksiz,…",
+      "kitap": null,
+      "kisim": null,
+      "bolum": "İKİNCİ BÖLÜM · Genel Esaslar",
+      "ayirim": null,
+      "maddeBaslik": "Etiket, tarife ve fiyat listelerinin biçim ve kapsamı (4)",
+      "sectionPath": [
+        "İKİNCİ BÖLÜM · Genel Esaslar",
+        "Etiket, tarife ve fiyat listelerinin biçim ve kapsamı (4)"
+      ]
+    },
+    {
+      "id": "yonetmelik:19819:m:10",
+      "maddeKind": "madde",
+      "maddeNo": "10",
+      "heading": "Madde 10",
+      "text": "(1) Malın satış fiyatı ile kasa fiyatı arasında fark olması durumunda tüketici lehine olan fiyat uygulanır.\n (2) Bir malın veya hizmetin miktar, sayı, ebat ve benzeri farklı birimlerden satışı yapıldığı takdirde, her birime uygulanan fiyatlar, etiketlerde, tarife ve fiyat listelerinde ayrı ayrı gösterilir.",
+      "preview": "(1) Malın satış fiyatı ile kasa fiyatı arasında fark olması durumunda tüketici lehine olan fiyat uygulanır. (2) Bir malın veya hizmetin mikt…",
+      "kitap": null,
+      "kisim": null,
+      "bolum": "İKİNCİ BÖLÜM · Genel Esaslar",
+      "ayirim": null,
+      "maddeBaslik": "Malın veya hizmetin satış fiyatı",
+      "sectionPath": [
+        "İKİNCİ BÖLÜM · Genel Esaslar",
+        "Malın veya hizmetin satış fiyatı"
+      ]
+    },
+    {
+      "id": "yonetmelik:19819:m:11",
+      "maddeKind": "madde",
+      "maddeNo": "11",
+      "heading": "Madde 11",
+      "text": "(1) (Değişik:RG-18/2/2022-31754)(2) İndirimli satışa konu edilen mal veya hizmetin indirimli satış fiyatı, indirimden önceki fiyatı, tarife ve fiyat listeleri ile etiketlerinde gösterilir. (Değişik ikinci ve üçüncü cümle:RG-11/10/2025-33044) İndirimli satışa konu edilen mal veya hizmetin indirimden önceki satış fiyatının tespitinde, mal satışlarında indirimin uygulandığı tarihten önceki on gün içinde uygulanan en düşük fiyatı esas alınır. Meyve ve sebze gibi çabuk bozulabilen mallar ile hizmetlere ilişkin etiket, tarife ve fiyat listelerinde indirim miktarı veya oranı hesaplanırken indirimli fiyattan bir önceki fiyat esas alınır. Bu hususlara ilişkin ispat külfeti satıcı veya sağlayıcıya aittir.\n (2) Fiyat indirimine giren mal veya hizmetin etiket, tarife ve fiyat listelerinde, bu Yönetmeliğe göre yer alması gereken hususlara ek olarak, indirimli satış fiyatının, bu Yönetmelik hükümlerine aykırı olmamak üzere malın veya hizmetin indirim öncesi satış fiyatıyla birlikte (Değişik ibare:RG-27/7/2019-30844) , görülebilir ve okunabilir şekilde gösterilmesi zorunludur.\n (3) Bir işletmenin, açılması, devredilmesi, işyeri adresi veya faaliyet konusu değişikliği nedeniyle yapacağı indirimli satışların süresi üç ayı, 13/1/2011 tarihli ve 6102 sayılı Türk Ticaret Kanunu hükümlerine göre tasfiye durumunda ise altı ayı geçemez.",
+      "preview": "(1) (Değişik:RG-18/2/2022-31754)(2) İndirimli satışa konu edilen mal veya hizmetin indirimli satış fiyatı, indirimden önceki fiyatı, tarife…",
+      "kitap": null,
+      "kisim": null,
+      "bolum": "ÜÇÜNCÜ BÖLÜM · Çeşitli ve Son Hükümler",
+      "ayirim": null,
+      "maddeBaslik": "İndirimli satışlar",
+      "sectionPath": [
+        "ÜÇÜNCÜ BÖLÜM · Çeşitli ve Son Hükümler",
+        "İndirimli satışlar"
+      ]
+    },
+    {
+      "id": "yonetmelik:19819:m:12",
+      "maddeKind": "madde",
+      "maddeNo": "12",
+      "heading": "Madde 12",
+      "text": "(1) Toptan ve perakende satışların birlikte yapıldığı yerlerde, perakende satışlar hakkında bu Yönetmelik hükümleri uygulanır.",
+      "preview": "(1) Toptan ve perakende satışların birlikte yapıldığı yerlerde, perakende satışlar hakkında bu Yönetmelik hükümleri uygulanır.",
+      "kitap": null,
+      "kisim": null,
+      "bolum": "ÜÇÜNCÜ BÖLÜM · Çeşitli ve Son Hükümler",
+      "ayirim": null,
+      "maddeBaslik": "Toptan ve perakende satışların birlikte yapıldığı durumlar",
+      "sectionPath": [
+        "ÜÇÜNCÜ BÖLÜM · Çeşitli ve Son Hükümler",
+        "Toptan ve perakende satışların birlikte yapıldığı durumlar"
+      ]
+    },
+    {
+      "id": "yonetmelik:19819:m:13",
+      "maddeKind": "madde",
+      "maddeNo": "13",
+      "heading": "Madde 13",
+      "text": "(1) Bakanlık, belediyeler ve ilgili odalar bu Yönetmelik hükümlerinin uygulanması ve izlenmesine ilişkin işleri yürütmekle görevlidir. Bu Yönetmeliğe aykırı uygulamaların tespit edilmesi halinde, tespit edilen aykırılık, gereği yapılmak üzere aykırı uygulamayı yapanın merkezinin bulunduğu valiliğe gönderilir.\n Yürürlükten kaldırılan yönetmelik",
+      "preview": "(1) Bakanlık, belediyeler ve ilgili odalar bu Yönetmelik hükümlerinin uygulanması ve izlenmesine ilişkin işleri yürütmekle görevlidir. Bu Yö…",
+      "kitap": null,
+      "kisim": null,
+      "bolum": "ÜÇÜNCÜ BÖLÜM · Çeşitli ve Son Hükümler",
+      "ayirim": null,
+      "maddeBaslik": "Denetim",
+      "sectionPath": [
+        "ÜÇÜNCÜ BÖLÜM · Çeşitli ve Son Hükümler",
+        "Denetim"
+      ]
+    },
+    {
+      "id": "yonetmelik:19819:m:14",
+      "maddeKind": "madde",
+      "maddeNo": "14",
+      "heading": "Madde 14",
+      "text": "(1) 13/6/2003 tarihli ve 25137 sayılı Resmî Gazete’de yayımlanan Etiket, Tarife ve Fiyat Listeleri Yönetmeliği yürürlükten kaldırılmıştır.",
+      "preview": "(1) 13/6/2003 tarihli ve 25137 sayılı Resmî Gazete’de yayımlanan Etiket, Tarife ve Fiyat Listeleri Yönetmeliği yürürlükten kaldırılmıştır.",
+      "kitap": null,
+      "kisim": null,
+      "bolum": "ÜÇÜNCÜ BÖLÜM · Çeşitli ve Son Hükümler",
+      "ayirim": null,
+      "maddeBaslik": "Denetim",
+      "sectionPath": [
+        "ÜÇÜNCÜ BÖLÜM · Çeşitli ve Son Hükümler",
+        "Denetim"
+      ]
+    },
+    {
+      "id": "yonetmelik:19819:m:15",
+      "maddeKind": "madde",
+      "maddeNo": "15",
+      "heading": "Madde 15",
+      "text": "(1) Bu Yönetmelik yayımı tarihinde yürürlüğe girer.",
+      "preview": "(1) Bu Yönetmelik yayımı tarihinde yürürlüğe girer.",
+      "kitap": null,
+      "kisim": null,
+      "bolum": "ÜÇÜNCÜ BÖLÜM · Çeşitli ve Son Hükümler",
+      "ayirim": null,
+      "maddeBaslik": "Yürürlük",
+      "sectionPath": [
+        "ÜÇÜNCÜ BÖLÜM · Çeşitli ve Son Hükümler",
+        "Yürürlük"
+      ]
+    },
+    {
+      "id": "yonetmelik:19819:m:16",
+      "maddeKind": "madde",
+      "maddeNo": "16",
+      "heading": "Madde 16",
+      "text": "(Değişik:RG-11/10/2025-33044)\n (1) Bu Yönetmelik hükümlerini Ticaret Bakanı yürütür.\n ________________\n (1) Bu değişiklik yayımı tarihinden on beş gün sonra yürürlüğe girer.\n (2) Bu değişiklik 1/3/2022 tarihinde yürürlüğe girer.\n (3) 11/10/2025 tarihli ve 33044 sayılı Resmî Gazete’de yayımlanan değişiklik ile bu maddeye birinci fıkradan sonra gelmek üzere fıkra eklenmiş ve diğer fıkra buna göre teselsül ettirilmiştir.\n (4) 11/10/2025 tarihli ve 33044 sayılı Resmî Gazete’de yayımlanan değişiklik ile bu maddeye birinci fıkradan sonra gelmek üzere fıkra eklenmiş ve diğer fıkralar buna göre teselsül ettirilmiştir.\n\n Yönetmeliğin Yayımlandığı Resmî Gazete’nin\n\n Tarihi\n Sayısı\n\n 28/6/2014\n 29044\n\n Yönetmelikte Değişiklik Yapan Yönetmeliklerin Yayımlandığı Resmî Gazetelerin\n\n Tarihi\n Sayısı\n\n 1.\n 18/9/2018\n 30539\n\n 2.\n 27/7/2019\n 30844\n\n 3.\n 18/2/2022\n 31754\n\n 4.\n 19/12/2023\n 32404\n\n 5.\n 11/10/2025\n 33044\n\n 6.\n 30/1/2026\n 33153",
+      "preview": "(Değişik:RG-11/10/2025-33044) (1) Bu Yönetmelik hükümlerini Ticaret Bakanı yürütür. ________________ (1) Bu değişiklik yayımı tarihinden on…",
+      "kitap": null,
+      "kisim": null,
+      "bolum": "ÜÇÜNCÜ BÖLÜM · Çeşitli ve Son Hükümler",
+      "ayirim": null,
+      "maddeBaslik": "Yürütme",
+      "sectionPath": [
+        "ÜÇÜNCÜ BÖLÜM · Çeşitli ve Son Hükümler",
+        "Yürütme"
+      ]
+    }
+  ]
+}

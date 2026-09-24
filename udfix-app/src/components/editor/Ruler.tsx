@@ -25,13 +25,16 @@ import {
 import { Popover, PopoverAnchor, PopoverContent } from '../ui/popover';
 import { Label } from '../ui/label';
 import { Input } from '../ui/input';
+import {
+    LIST_ITEM_DEFAULT_MARGIN_LEFT,
+    LIST_ITEM_DEFAULT_TEXT_INDENT,
+} from '../../extensions/Indent';
 
 /** Pagination gövde tabanı (HF ile uyumlu); üst marj `marginTop`, alt marj `marginBottom` */
 const PAGINATION_BODY_BASE = EDITOR_PAGINATION_BODY_VERTICAL_BASE_PX;
 
 const DEFAULT_PAGE_WIDTH_PX = 794;
 const THROTTLE_MS = 70;
-const DEFAULT_LIST_TEXT_INDENT = -24;
 
 /** Gövde üstüne eklenebilir marj için cetvel iz uzunluğu (px) — `editorLayout` ile aynı (≈4 cm) */
 const VERT_SPINNER_TRACK_PX = EDITOR_RULER_VERTICAL_MARGIN_SPINNER_RANGE_PX;
@@ -66,10 +69,13 @@ function runUpdateMargins(
 }
 
 /**
- * Üst/alt cetvel bırakıldığında: HF sayısal ayarları kaydet.
- * Pagination marjı zaten `flushMarginApplyQueue` / `runUpdateMargins` ile yazıldı; burada tekrar
- * `applyPaginationMargins` çağırmak çift rebuild ve alt cetvel titremesine yol açıyordu.
- * `scheduleSyncHfToEditor` yedek: storage yoksa (debounced).
+ * Persist extra top/bottom (above PaginationPlus body base) into the HF store.
+ *
+ * Margins are already committed by `applyPaginationMargins` / `flushMarginApplyQueue`.
+ * When PaginationPlus storage is readable, skip `scheduleSyncHfToEditor` — that path
+ * would compile HF HTML and rebuild decorations a second time (vertical ruler jitter).
+ * If storage is missing (plugin not ready / editor gone), schedule HF sync as a
+ * fallback so store offsets still reach the editor when it mounts.
  */
 function persistVerticalMarginsToHeaderFooter(editor: Editor | null, topPx: number, bottomPx: number) {
     const hf = useHeaderFooterStore.getState();
@@ -78,12 +84,10 @@ function persistVerticalMarginsToHeaderFooter(editor: Editor | null, topPx: numb
         footerMarginBottom: Math.max(0, Math.round(bottomPx - PAGINATION_BODY_BASE)),
     });
     hf.save();
-    if (editor && !editor.isDestroyed) {
-        const pm = getPaginationMargins(editor);
-        if (pm) {
-            return;
-        }
-    }
+    const canReadPaginationStorage = Boolean(
+        editor && !editor.isDestroyed && getPaginationMargins(editor),
+    );
+    if (canReadPaginationStorage) return;
     scheduleSyncHfToEditor();
 }
 
@@ -284,7 +288,7 @@ const TuneKnobSpinner = memo(
                 ref={ref}
                 role="slider"
                 tabIndex={0}
-                className="group relative mx-auto flex w-full max-w-[118px] shrink-0 cursor-ns-resize touch-none select-none outline-none focus-visible:ring-2 focus-visible:ring-ring focus-visible:ring-offset-1"
+                className="group relative mx-auto flex w-full shrink-0 cursor-ns-resize touch-none select-none px-0.5 outline-none focus-visible:ring-2 focus-visible:ring-ring focus-visible:ring-offset-1"
                 aria-label={ariaLabel}
                 aria-valuemin={RULER_EXTRA_CM_MIN}
                 aria-valuemax={RULER_EXTRA_CM_MAX}
@@ -293,11 +297,11 @@ const TuneKnobSpinner = memo(
                 onMouseDown={onMouseDown}
             >
                 <div
-                    className="flex w-full gap-1.5"
+                    className="flex w-full gap-0.5"
                     style={{ height: VERT_SPINNER_TRACK_PX }}
                 >
-                    {/* Sayılar — her biri tick ile aynı px ekseninde; yatay cetvel ile aynı ölçekte. */}
-                    <div className="relative min-w-0 flex-1" aria-hidden>
+                    {/* Sayılar — sabit dar sütun; tick ile aynı px ekseninde. */}
+                    <div className="relative w-[22px] shrink-0" aria-hidden>
                         {CM_TICKS_TR.map((cm) =>
                             shouldShowVertRulerLabel(cm) ? (
                                 <span
@@ -568,7 +572,10 @@ export const Ruler: React.FC<RulerProps> = ({
                         myMargin = parseFloat(String(n.attrs.marginLeft ?? '0')) || 0;
                     } else {
                         const pl = n.attrs.marginLeft;
-                        parentMargins += pl == null || pl === undefined ? 40 : parseFloat(String(pl)) || 40;
+                        parentMargins +=
+                            pl == null || pl === undefined
+                                ? LIST_ITEM_DEFAULT_MARGIN_LEFT
+                                : parseFloat(String(pl)) || LIST_ITEM_DEFAULT_MARGIN_LEFT;
                     }
                 } else if (n.type.name === 'paragraph' || n.type.name === 'heading') {
                     if (!isList) {
@@ -579,7 +586,7 @@ export const Ruler: React.FC<RulerProps> = ({
             }
 
             if (isList && (currentAttrs.marginLeft === null || currentAttrs.marginLeft === undefined)) {
-                myMargin = 40;
+                myMargin = LIST_ITEM_DEFAULT_MARGIN_LEFT;
             }
 
             isListSelectionRef.current = isList;
@@ -591,7 +598,7 @@ export const Ruler: React.FC<RulerProps> = ({
             const tiNum =
                 ti === null || ti === undefined
                     ? isList
-                        ? DEFAULT_LIST_TEXT_INDENT
+                        ? LIST_ITEM_DEFAULT_TEXT_INDENT
                         : 0
                     : parseFloat(String(ti)) || 0;
             setFirstLine((prev) => (Math.abs(prev - tiNum) < 0.01 ? prev : tiNum));

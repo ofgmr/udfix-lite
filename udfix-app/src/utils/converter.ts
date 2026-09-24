@@ -499,6 +499,7 @@ export async function parseUyapToTipTap(xmlData: string): Promise<TiptapDoc | nu
 }
 
 export interface ParseUyapToHtmlOptions {
+    /** Viewer-only. Editor import must omit this — QR stays export overlay, not TipTap HTML. */
     verification?: UyapVerificationMeta | null;
 }
 
@@ -547,6 +548,8 @@ export async function parseUyapToHtml(
         }
 
         html += '</div>';
+        // Viewer / print-preview only. Editor paths call parseUyapToHtml without
+        // `verification` and strip leftovers via `stripUyapVerificationFromHtml`.
         return appendUyapVerificationToHtml(html, options?.verification);
     } catch (error) {
         console.error('XML Parse Hatası (HTML):', error);

@@ -3,6 +3,7 @@ import MainLayout from './components/layout/MainLayout';
 import { useThemeStore } from './stores/useThemeStore';
 import { useHeaderFooterStore } from './stores/useHeaderFooterStore';
 import { Toaster } from './components/ui/sonner';
+import { TelemetryConsentDialog } from './components/telemetry/TelemetryConsentDialog';
 import { AppUpdateNotifier } from './components/update/AppUpdateNotifier';
 import { UniversalViewer } from './components/viewer/UniversalViewer';
 
@@ -47,6 +48,7 @@ const App: React.FC = () => {
     <>
       <ThemeInitializer />
       <MainLayout />
+      <TelemetryConsentDialog />
       <AppUpdateNotifier />
       <Toaster richColors closeButton position="bottom-right" />
     </>

@@ -1,0 +1,931 @@
+{
+  "id": "yonetmelik:31502",
+  "kind": "yonetmelik",
+  "no": "31502",
+  "title": "Elektrik Piyasasında Lisanssız Elektrik Üretim Yönetmeliği",
+  "shortName": "Lisanssız Üretim Yön.",
+  "aliases": [
+    "Lisanssız Üretim Yön.",
+    "Elektrik Piyasasında Lisanssız Elektrik Üretim Yönetmeliği",
+    "31502"
+  ],
+  "tur": 7,
+  "tertip": 5,
+  "sourceUrl": "https://www.mevzuat.gov.tr/mevzuat?MevzuatNo=31502&MevzuatTur=7&MevzuatTertip=5",
+  "kabulTarihi": null,
+  "maddeCount": 57,
+  "maddeler": [
+    {
+      "id": "yonetmelik:31502:m:1",
+      "maddeKind": "madde",
+      "maddeNo": "1",
+      "heading": "Madde 1",
+      "text": "(1) Bu Yönetmeliğin amacı elektrik piyasasında, tüketicilerin elektrik ihtiyaçlarını (Mülga ibare:RG-11/8/2022-31920) kendi üretim tesisinden karşılaması, arz güvenliğinin sağlanmasında küçük ölçekli üretim tesislerinin ülke ekonomisine kazandırılması ve küçük ölçekli üretim kaynaklarının etkin kullanımının sağlanması (Mülga ibare:RG-11/8/2022-31920) amacıyla lisans alma ve şirket kurma yükümlülüğü olmaksızın, elektrik enerjisi üretebilecek, gerçek veya tüzel kişilere uygulanacak usul ve esasların belirlenmesidir.",
+      "preview": "(1) Bu Yönetmeliğin amacı elektrik piyasasında, tüketicilerin elektrik ihtiyaçlarını (Mülga ibare:RG-11/8/2022-31920) kendi üretim tesisinde…",
+      "kitap": null,
+      "kisim": null,
+      "bolum": null,
+      "ayirim": null,
+      "maddeBaslik": "Amaç",
+      "sectionPath": [
+        "Amaç"
+      ]
+    },
+    {
+      "id": "yonetmelik:31502:m:2",
+      "maddeKind": "madde",
+      "maddeNo": "2",
+      "heading": "Madde 2",
+      "text": "(1) Bu Yönetmelik;\n a) 6446 sayılı Elektrik Piyasası Kanununun 14 üncü maddesi çerçevesinde kurulması öngörülen üretim tesislerinin sisteme bağlanmasına ilişkin usul ve esaslar ile bu üretim tesislerinin kurulmasına ilişkin başvuruların değerlendirilmesine,\n b) Lisanssız üretim kapsamında elektrik enerjisi üreten gerçek ve tüzel kişilerin ihtiyaçlarının üzerinde ürettikleri elektrik enerjisinin sisteme verilmesi halinde yapılacak uygulamaya,\n c) Lisanssız üretim ile ilgili üretim tesisi devri ve üretim faaliyetinde bulunan gerçek veya tüzel kişiler ile ilgili şebeke işletmecilerinin hak ve yükümlülüklerine,\n ç) Lisanssız üretim yapan kişilerin bu Yönetmelik kapsamındaki faaliyetleri ile kurulan üretim tesislerinin denetlenmesine,\n ilişkin usul ve esasları kapsar.",
+      "preview": "(1) Bu Yönetmelik; a) 6446 sayılı Elektrik Piyasası Kanununun 14 üncü maddesi çerçevesinde kurulması öngörülen üretim tesislerinin sisteme b…",
+      "kitap": null,
+      "kisim": null,
+      "bolum": null,
+      "ayirim": null,
+      "maddeBaslik": "Kapsam",
+      "sectionPath": [
+        "Kapsam"
+      ]
+    },
+    {
+      "id": "yonetmelik:31502:m:3",
+      "maddeKind": "madde",
+      "maddeNo": "3",
+      "heading": "Madde 3",
+      "text": "(1) Bu Yönetmelik, 14/3/2013 tarihli ve 6446 sayılı Elektrik Piyasası Kanununun 14 üncü maddesi ile 10/5/2005 tarihli ve 5346 sayılı Yenilenebilir Enerji Kaynaklarının Elektrik Enerjisi Üretimi Amaçlı Kullanımına İlişkin Kanunun 6/A maddesine dayanılarak hazırlanmıştır.",
+      "preview": "(1) Bu Yönetmelik, 14/3/2013 tarihli ve 6446 sayılı Elektrik Piyasası Kanununun 14 üncü maddesi ile 10/5/2005 tarihli ve 5346 sayılı Yenilen…",
+      "kitap": null,
+      "kisim": null,
+      "bolum": null,
+      "ayirim": null,
+      "maddeBaslik": "Dayanak",
+      "sectionPath": [
+        "Dayanak"
+      ]
+    },
+    {
+      "id": "yonetmelik:31502:m:4",
+      "maddeKind": "madde",
+      "maddeNo": "4",
+      "heading": "Madde 4",
+      "text": "(1) Bu Yönetmelikte geçen;\n a) Adalanma: Dağıtım sisteminin üretim tesisi bulunan bir bölgesinin enerjili kalacak şekilde dağıtım sisteminden fiziksel olarak ayrılmasını,\n b) AG: Etkin şiddeti 1000 Volt ve altındaki gerilim seviyesini,\n c) Bağlantı anlaşmasındaki sözleşme gücü: Bir kullanım yerinin elektrik projesinde belirtilen kurulu gücün kullanım faktörü ile çarpılmış halini (Ek ibare:RG-11/8/2022-31920) özel trafolu müşteriler için tek terimli tarife sınıfına tabi olan kullanıcılar için kurulu gücün 0,60 katı, cos φ=1 alınarak hesaplanan hali ile çift terimli tarife sınıfına tabi kullanıcılar için talep edilen gücü veya iletim sistemi için bağlantı anlaşmasında yer alan güç değerini,,\n ç) Bakanlık: Enerji ve Tabii Kaynaklar Bakanlığını,\n d) Bu Yönetmelik kapsamındaki kojenerasyon tesisi: Bakanlıkça belirlenen verimlilik değerini sağlayan kategorideki kojenerasyon ve trijenerasyon tesisini,\n e) Bu Yönetmelik kapsamındaki tüketim tesisi: Bir gerçek ya da tüzel kişinin uhdesinde veya tüketim birleştirme kapsamında, bağlantı anlaşması uyarınca dağıtım veya iletim sistemine bağlı veya üretim tesisi ile birlikte bağlanacak ya da 25/9/2002 tarihinden önce imzalanmış yerine kaim bir sözleşme kapsamında dağıtım veya iletim sistemine bağlı, elektrik enerjisi tüketen birim, tesis ya da teçhizatı,\n f) Dağıtım bölgesi: Bir dağıtım şirketinin veya dağıtım lisansı sahibi OSB’nin lisansında tanımlanan bölgeyi,\n g) DSİ: Devlet Su İşleri Genel Müdürlüğünü,\n ğ) EİGM: Bakanlık Enerji İşleri Genel Müdürlüğünü,\n h) Fatura dönemi: Bir takvim ayının ilk günü saat 00:00’da başlayıp müteakip takvim ayının başlangıcına kadar olan süreyi,\n ı) (Değişik:RG-9/5/2021-31479) İl Özel İdaresi: Üretim tesisinin kurulacağı yerin il özel idaresini veya il özel idaresi bulunmayan yerlerde Valilik Yatırım İzleme ve Koordinasyon Başkanlığını,\n i) İlgili mevzuat: Elektrik piyasasına ilişkin kanun, (Ek ibare:RG-11/8/2022-31920) Cumhurbaşkanlığı kararnamesi, Cumhurbaşkanı kararı, yönetmelik, tebliğ, genelge ve Kurul kararlarını,\n j) İlgili diğer mevzuat: Cumhurbaşkanlığı ile Bakanlıklar tarafından çıkarılan ilgili yönetmelik, tebliğ ve diğer düzenlemeleri,\n k) İlgili standart: Üretim tesisinde kullanılacak teçhizat, bağlantı sistemi ve performans kriterlerine ilişkin olan, öncelik sırasına göre TS, EN, IEC, ISO ve diğer uluslararası standartları,\n l) (Değişik:RG-2/4/2026-33212)[1] İlgili şebeke işletmecisi: İlgisine göre TEİAŞ’ı, dağıtım şirketini, OSB dağıtım lisansı veya EB dağıtım lisansı sahibi tüzel kişiyi,\n m) İlgili teknik mevzuat: Bakanlık tarafından çıkarılan ilgili yönetmelik, tebliğ ve diğer düzenlemeleri,\n n) Kalıcı veri saklayıcısı: Tüketicinin gönderdiği veya kendisine gönderilen bilgiyi, bu bilginin amacına uygun olarak incelemesine elverecek şekilde kaydedilmesini ve değiştirilmeden kopyalanmasını sağlayan ve bu bilgiye aynen ulaşılmasına imkân veren kısa mesaj, elektronik posta, internet, disk, CD, DVD, hafıza kartı ve benzeri her türlü araç veya ortamı,\n o) Kanun: 14/3/2013 tarihli ve 6446 sayılı Elektrik Piyasası Kanununu,\n ö) (Değişik:RG-2/4/2026-33212)1 Mahsuplaşma: Saatlik zaman dilimi içinde gerçekleşen, üretim ve tüketimin birbirinden düşülmesi sonucu kWh cinsinden net üretim veya net tüketim değerinin bulunması işlemini,\n p) Mikrokojenerasyon tesisi: Elektrik enerjisine dayalı toplam kurulu gücü 100 kWe ve altında olan kojenerasyon tesisini,\n r) OG: Etkin şiddeti 1000 V üstünden 36 kV’a kadar olan (36 kV dahil) gerilim seviyesini,\n s) Piyasa işletmecisi: Enerji Piyasaları İşletme Anonim Şirketini,\n ş) Şebeke: Bu Yönetmelik kapsamındaki tüketim tesisinin bağlantı noktasına göre iletim, dağıtım veya OSB dağıtım şebekesini,\n t) (Değişik:RG-25/11/2025-33088) Teknik değerlendirme raporu: Jeotermal, biyokütle, rüzgar veya güneş enerjisine dayalı başvurulara ilişkin EİGM tarafından yapılan değerlendirme sonucu hazırlanan raporu,\n u) Teknik etkileşim izni: Teknik etkileşim analizi neticesine göre, ilgili kurumlar tarafından olumlu veya şartlı olarak Bakanlık aracılığıyla ilgili kişilere verilen rüzgar türbini kurma iznini,\n ü) YEKDEM: 1/10/2013 tarihli ve 28782 sayılı Resmî Gazete’de yayımlanan Yenilenebilir Enerji Kaynaklarının Belgelendirilmesine ve Desteklenmesine İlişkin Yönetmelik kapsamındaki yenilenebilir enerji kaynaklarına dayalı üretim faaliyeti gösteren üretim lisansı sahibi tüzel kişilerin bizzat (Ek ibare:RG-25/11/2025-33088) veya toplayıcı aracılığıyla ve bu Yönetmelik kapsamında yenilenebilir enerji kaynaklarından üretim yapan kişilerin bölgelerinde bulundukları görevli tedarik şirketleri (Ek ibare:RG-25/11/2025-33088) veya toplayıcı aracılığıyla faydalanabileceği fiyatlar, süreler ve bunlara yapılacak ödemelere ilişkin usul ve esasları içeren destekleme mekanizmasını,\n v) Yenilenebilir enerji kaynakları: Hidrolik, rüzgâr, güneş, jeotermal, biyokütle, (Mülga ibare:RG-11/8/2022-31920) dalga, akıntı (Mülga ibare:RG-11/8/2022-31920) ve gel-git gibi fosil olmayan enerji kaynaklarını,\n y) YEK Kanunu: 10/5/2005 tarihli ve 5346 sayılı Yenilenebilir Enerji Kaynaklarının Elektrik Enerjisi Üretimi Amaçlı Kullanımına İlişkin Kanunu,\n z) YG: Etkin şiddeti 36 kV’un üstündeki gerilim seviyesini,\n aa) (Ek:RG-11/8/2022-31920) (Değişik:RG-2/4/2026-33212)1 İlgili dönem: Yönetmelikte tanımlanan aykırılığın başladığı ve sona erdiği tarihler dahil olmak üzere geçen dönemi,\n bb) (Ek:RG-11/8/2022-31920) YEPDİS: EİGM tarafından talep edilen bilgileri içeren ve işletilen Yenilenebilir Enerji Kaynakları Değerlendirme ve İzleme Sistemini,\n cc) (Ek:RG-2/4/2026-33212)1 Endüstri bölgesi: Ülke ekonomisini uluslararası rekabet edebilir bir yapıya kavuşturmak, teknoloji transferini sağlamak, üretim ve istihdamı artırmak, yabancı sermaye girişini hızlandırmak ve özellikle üretim maliyetleri açısından büyük ölçekli yatırımlar için uygun sanayi alanı oluşturmak üzere 9/1/2002 tarihli ve 4737 sayılı Endüstri Bölgeleri Kanunu (Endüstri Bölgeleri Kanunu ve Organize Sanayi Bölgeleri Kanununda Değişiklik Yapılması Hakkında Kanun) uyarınca kurulacak üretim bölgelerini,\n ifade eder.\n (2) Bu Yönetmelik çerçevesinde, üretim tesisinin bağlantısı çift yönlü sayaçtan önce, tüketim tesisi tarafına yapılmış ise ilgili üretim ve tüketim tesisleri aynı yerde kabul edilir.\n (3) Bu Yönetmelikte geçen diğer ifade ve kısaltmalar ilgili mevzuattaki anlam ve kapsama sahiptir.",
+      "preview": "(1) Bu Yönetmelikte geçen; a) Adalanma: Dağıtım sisteminin üretim tesisi bulunan bir bölgesinin enerjili kalacak şekilde dağıtım sisteminden…",
+      "kitap": null,
+      "kisim": null,
+      "bolum": null,
+      "ayirim": null,
+      "maddeBaslik": "Tanımlar ve kısaltmalar",
+      "sectionPath": [
+        "Tanımlar ve kısaltmalar"
+      ]
+    },
+    {
+      "id": "yonetmelik:31502:m:5",
+      "maddeKind": "madde",
+      "maddeNo": "5",
+      "heading": "Madde 5",
+      "text": "(1) Önlisans ve lisans alma ile şirket kurma yükümlülüğünden muaf olarak kurulabilecek üretim tesisleri şunlardır:\n a) İmdat grupları,\n b) (Değişik:RG-9/5/2021-31479) İletim ya da dağıtım sistemiyle herhangi bir şekilde bağlantısı olmadan çalışan üretim tesisleri,\n c) Kurulu gücü bir megavat veya Kanunun 14 üncü maddesi çerçevesinde Cumhurbaşkanı tarafından belirlenmiş kurulu güç üst sınırına kadar olan yenilenebilir enerji kaynaklarına dayalı üretim tesisleri,\n ç) Ürettiği enerjinin tamamını iletim veya dağıtım sistemine vermeden kullanan, üretimi ve tüketimi aynı ölçüm noktasında olan, yenilenebilir enerji kaynaklarına dayalı üretim tesisleri,\n d) Bakanlıkça belirlenecek verimlilik değerini sağlayan kategorideki kojenerasyon tesisleri,\n e) Mikrokojenerasyon tesisleri,\n f) Belediyelerin katı atık tesisleri ile arıtma tesisi çamurlarının bertarafında kullanılmak üzere kurulan üretim tesisleri,\n g) Sermayesinin yarısından fazlası doğrudan veya dolaylı olarak belediyeye ait olan tüzel kişilerce, belediyeler tarafından işletilen su isale hatları ile atık su isale hatları üzerinde, teknik imkanın olması ve DSİ tarafından uygun bulunması halinde hidrolik kaynağa dayalı kurulan üretim tesisleri,\n ğ) Elektrik aboneliği Devlet Su İşleri Genel Müdürlüğüne (Ek ibare:RG-11/8/2022-31920) veya sulama birliklerine, ait tarımsal sulama amaçlı tesislerin elektrik ihtiyaçlarını karşılamak amacıyla, kurulu gücü tarımsal sulama tesisinin bağlantı anlaşmasındaki sözleşme gücü, birden fazla tesis için tesislerin sözleşme güçleri toplamı ile sınırlı olmak koşuluyla Devlet Su İşleri Genel Müdürlüğü tarafından (Ek ibare:RG-11/8/2022-31920) veya DSİ’nin izniyle sulama birlikleri tarafından kurulan ve işletilen yenilenebilir enerji kaynaklarına dayalı üretim (Değişik ibare:RG-11/8/2022-31920) tesisi.\n h) (Ek:RG-9/5/2021-31479) (Değişik:RG-11/8/2022-31920) Belediyeler ve bunların bağlı kuruluşları ile sanayi tesisleri ve tarımsal sulama amaçlı tesisler tarafından bağlantı anlaşmasındaki sözleşme gücünün iki katı ve diğer kişiler bağlantı anlaşmasındaki sözleşme gücü ile sınırlı olmak kaydıyla, tüketim tesisi ile aynı ya da farklı ölçüm noktasında kurulan yenilenebilir enerji kaynaklarına dayalı üretim tesisi,\n ı) (Ek:RG-11/8/2022-31920) Sulama birliklerinin işletme, bakım, onarım ve yönetim sorumluluğuna sahip olduğu taşınmazlar ile sulama birliği ve DSİ’nin mülkiyetinde veya tasarrufu altında bulunan diğer taşınmazlar üzerinde DSİ’nin uygun görüşüyle kurulan ve sulama birlikleri tarafından işletilen bağlantı anlaşmasındaki sözleşme gücü ile sınırlı olmak kaydıyla tüketim tesisi ile aynı ya da farklı ölçüm noktasında kurulan yenilenebilir enerji üretim tesisleri,\n i) (Ek:RG-11/8/2022-31920) İl özel idareleri tarafından kurulan tüzel kişilerin, il özel idaresi tarafından işletilen basınçlı borulu sulama şebekesi veya klasik kanallı şebekeleri ile sadece sulama amacına hizmet eden şebekenin su kaynağı üzerinde teknik imkânın olması ve DSİ tarafından uygun bulunması hâlinde kurulacak üretim tesisleri.\n (2) Önlisans ve lisans alma yükümlülüğünden muaf olan yenilenebilir enerji kaynaklarından elektrik enerjisi üreten gerçek veya tüzel kişilerin ihtiyaçlarının üzerinde ürettikleri elektrik enerjisinin sisteme verilmesi hâlinde söz konusu elektrik enerjisi, ilgili görevli tedarik şirketi aracılığı ile YEKDEM kapsamında değerlendirilir.\n (3) Birinci fıkranın (g) bendi kapsamında kurulacak üretim tesislerinin su kullanım hakkına ilişkin işlemler, su kullanım hakkının elde edilmesine ilişkin mevzuat çerçevesinde sonuçlandırılır.\n (4) (Değişik:RG-2/4/2026-33212)1 Bu Yönetmelik çerçevesinde, dağıtım ve/veya iletim sisteminde yeterli kapasite bulunması halinde, bir tüketim tesisi için aynı destekleme yapısına sahip birden fazla yenilenebilir enerji kaynağına dayalı üretim tesisi ve/veya aynı ölçüm noktasında birden fazla kojenerasyon tesisi kurulmasına izin verilebilir. Bir gerçek veya tüzel kişi, uhdesindeki her bir tüketim tesisi için sadece bir adet mikrokojenerasyon tesisi kurabilir.\n (5) Bu Yönetmelik kapsamında üretim tesisi kuracak gerçek veya tüzel kişilerin üretim tesisleri ile tüketim tesislerinin aynı dağıtım bölgesi içerisinde olması zorunludur. (Ek cümle:RG-11/8/2022-31920) Ancak, 5 inci maddenin birinci fıkrasının (h) bendi kapsamında, tüketim tesisinin bulunduğu dağıtım lisansı bölgesi dışında da üretim tesisi kurulabilir.\n (6) (Değişik:RG-9/5/2021-31479) Birinci fıkranın (Değişik ibare:RG-11/8/2022-31920) (a), (b), (ç), (d), (f), (g), (ğ), (h), (ı) ve (i) (Değişik ibare:RG-2/4/2026-33212)1 bentleri kapsamında yer alan üretim tesisleri için kurulu güç üst sınırı uygulanmaz.\n (7) Bu Yönetmelik kapsamında; şebekeye bağlanacak üreticilerle yapılacak bağlantı ve sistem kullanım anlaşmalarında yer alacak genel hükümler, ilgili şebeke işletmecisinin görüşü alınarak Kurul tarafından belirlenir. Belirlenen genel hükümler ilgili şebeke işletmecisinin ve Kurumun internet sayfalarında yayımlanır.\n (8) (Ek:RG-9/5/2021-31479) Mahsuplaşma işlemleri 26 ncı madde uyarınca yürütülen, birinci fıkranın (c) bendi kapsamında bağlantı anlaşmasına çağrı mektubu düzenlenen, bağlantı anlaşması imzalanan veya kabul işlemleri tamamlanan üretim tesisleri ile ilişkilendirilen tüketim tesisleri için ilgili diğer yükümlülüklerin yerine getirilmesi koşuluyla birinci fıkranın (h) bendi kapsamında ilave üretim tesisi veya tesisleri kurulabilir.\n (9) (Ek:RG-11/8/2022-31920) Mahsuplaşma işlemleri 26 ncı madde uyarınca yürütülen ve birinci fıkranın (c) bendi kapsamında; bağlantı anlaşmasına çağrı mektubu düzenlenen, bağlantı anlaşması imzalanan veya kabul işlemleri tamamlanan üretim tesisleriyle ilişkilendirilen mevcut tüketim tesisleri sabit kalmak kaydıyla, farklı ölçüm noktasında yer alan tüketim tesisleri ilişkilendirilerek birinci fıkranın (h) bendi kapsamına geçiş sağlanabilir.\n (10) (Ek:RG-11/8/2022-31920) Mahsuplaşma işlemleri geçici 1 inci ve geçici 4 üncü madde hükümleri kapsamında ve 26 ncı madde uyarınca yürütülen ve birinci fıkranın (ç) bendi kapsamında; bağlantı anlaşmasına çağrı mektubu düzenlenen, bağlantı anlaşması imzalanan veya kabul işlemleri tamamlanan üretim tesisleri için birinci fıkranın (ç) bendi kapsamında kurulu güç artış talebinde bulunulabilir.",
+      "preview": "(1) Önlisans ve lisans alma ile şirket kurma yükümlülüğünden muaf olarak kurulabilecek üretim tesisleri şunlardır: a) İmdat grupları, b) (De…",
+      "kitap": null,
+      "kisim": null,
+      "bolum": null,
+      "ayirim": null,
+      "maddeBaslik": "Lisans alma ile şirket kurma muafiyeti",
+      "sectionPath": [
+        "Lisans alma ile şirket kurma muafiyeti"
+      ]
+    },
+    {
+      "id": "yonetmelik:31502:m:6",
+      "maddeKind": "madde",
+      "maddeNo": "6",
+      "heading": "Madde 6",
+      "text": "(1) Bu Yönetmelik kapsamındaki üretim tesislerinin projelendirilmesi, kurulumu, sisteme bağlantısı, kabulü, işletmesi, bakımı ile gerekli görülmesi halinde test ve deney faaliyetleri ilgili standartlarda ve ilgili teknik mevzuatta tanımlandığı şekliyle yürütülür.\n (2) Üretim tesisi sahibi, birinci fıkrada tanımlanan hususlara uymakla ve ilgili teknik mevzuatın ve ilgili standartların gerektirdiği koşulları sağlamakla yükümlüdür.\n (3) İlgili teknik mevzuatın ve ilgili standartların gerektirdiği koşulları sağlamayan üretim tesislerine ilişkin olarak;\n a) Esasa ilişkin olan veya can ve mal güvenliği bakımından tehlikeli veya elektrik sisteminin güvenliğini etkileyen riskli durumlarda herhangi bir bildirime gerek kalmaksızın ilgili şebeke işletmecisi tarafından üretim tesisi durumu uygun hale getirilinceye kadar şebekeden ayrılır ve ayrılma gerekçeleri üretim tesisi sahibi kişiye 3 (üç) işgünü içinde yazılı olarak bildirilir.\n b) Sistemin veya üretim tesisinin işletmesini ve tesisat güvenliğini etkilemeyecek şekilde esasa ilişkin olmayan veya can ve mal güvenliği bakımından tehlikeli olmayan veya elektrik sisteminin güvenliğini etkilemeyen durumlarda, ilgili şebeke işletmecisi tarafından aykırılığın giderilmesine ilişkin bildirimin yapılmasını izleyen 15 gün içerisinde aykırılığın giderilmemesi halinde ilgili şebeke işletmecisi tarafından üretim tesisi şebekeden ayrılır. Söz konusu aykırılığın giderilmesi durumunda üretim tesisi 3 işgünü içinde sisteme yeniden bağlanarak işletmeye alınır.\n (4) Üretim tesisi, can ve mal emniyetinin sağlanması için kısa devre arızası veya şebekenin enerjisiz kalması durumunda bağlantı noktası itibarıyla şebekeden izole hale getirilir ve şebekeye enerji verilmez. Şebekenin bir bölümünü içerecek şekilde adalanmaya müsaade edilmez. Bu durumda bağlantı noktası itibarıyla şebekeden izole hale gelen üretim tesisi, izole kalan tüketim tesisi bölümünü şebekeden bağımsız olarak besleyebilir.",
+      "preview": "(1) Bu Yönetmelik kapsamındaki üretim tesislerinin projelendirilmesi, kurulumu, sisteme bağlantısı, kabulü, işletmesi, bakımı ile gerekli gö…",
+      "kitap": null,
+      "kisim": null,
+      "bolum": null,
+      "ayirim": null,
+      "maddeBaslik": "İlgili teknik mevzuat kapsamındaki işlemler",
+      "sectionPath": [
+        "İlgili teknik mevzuat kapsamındaki işlemler"
+      ]
+    },
+    {
+      "id": "yonetmelik:31502:m:7",
+      "maddeKind": "madde",
+      "maddeNo": "7",
+      "heading": "Madde 7",
+      "text": "(1) (Değişik:RG-2/4/2026-33212) Bu Yönetmelik kapsamına giren üretim tesisleri, dördüncü fıkra kapsamında belirtilen istisnalar dışında, dağıtım sistemine bağlanır. İlgili şebeke işletmecisi, üretim tesisinin teknik özelliklerine ve bağlantı noktası itibarıyla dağıtım sisteminin mevcut kapasitesine göre üretim tesisini OG veya AG seviyesinden dağıtım sistemine bağlayabilir. Ancak; dağıtım seviyesinden bağlanacak 5 inci maddenin birinci fıkrasının (h) bendi kapsamındaki üretim tesisleri ile 28/1/2014 tarihli ve 28896 sayılı Resmî Gazete’de yayımlanan Elektrik Piyasası Bağlantı ve Sistem Kullanım Yönetmeliğinin 5/B maddesinin üçüncü fıkrası kapsamında bağlantı görüşü oluşturulacak müşterek üretim tesisleri, mevcut dağıtım şebekesi yanında, kapasite artışları dahil olmak üzere, üretim tesisi başvurusu sahibi gerçek veya tüzel kişiler tarafından tesis edilecek dağıtım varlıkları üzerinden de şebekeye bağlanabilir. Bağlantı başvurusu talebi, ancak ilgili mevzuat ve ilgili teknik mevzuat hükümleri kapsamında reddedilebilir ve ret gerekçeleri başvuru sahibine ret kararı ile yazılı olarak bildirilir.\n (2) AG seviyesinden bağlanacak üretim tesislerinin toplam kapasitesi, bu üretim tesislerinin bağlı olduğu dağıtım transformatörünün ilgili şebeke işletmecisine ait bir transformatör olması halinde transformatör gücünün yüzde ellisini geçemez. Transformatörün başvuru sahibine ait olması durumunda, söz konusu kapasite azami transformatör gücü kadar olur. (Ek cümle:RG-11/8/2022-31920) Sadece belirli bir iş alanında faaliyet gösteren kişilere ait tüketim tesisleri için tesis edilmiş ve dışarıdan herhangi bir gerçek ya da tüzel kişinin faydalanmasının mümkün olmadığı veya sanayi bölgelerine ait dağıtım transformatörleri için azami transformatör gücüne kadar üretim tesisi başvurusunda bulunulabilir.\n (3) 11 inci maddenin birinci fıkrası kapsamında yer alan (Ek ibare:RG-11/8/2022-31920) kişiler ile sadece belirli bir iş alanında faaliyet gösteren kişilere ait tüketim tesisleri için tesis edilmiş ve dışarıdan herhangi bir gerçek ya da tüzel kişinin faydalanmasının mümkün olmadığı veya sanayi bölgelerine ait dağıtım transformatörlerinden sisteme bağlanan üretim tesislerine ilişkin başvurular hariç olmak üzere ilgili şebeke işletmecisine ait bir dağıtım transformatörünün AG seviyesinde bir kişiye (Değişik ibare:RG-25/11/2025-33088) bir takvim yılı içinde tahsis edilebilecek kapasite Ek-3’te yer alan tabloya göre belirlenir.\n (4) 5 inci maddenin birinci fıkrasının;\n a) (ç) bendi kapsamında kurulacak üretim tesisleri, bu tesisler ile ilişkilendirilecek tüketim tesisinin sisteme iletim seviyesinden bağlı olması halinde,\n b) (d) bendi kapsamında kurulacak kojenerasyon tesisleri, kurulu gücüne bağlı olarak,\n c) (Ek:RG-11/8/2022-31920) (h) bendi kapsamında kurulacak yenilenebilir enerji kaynaklarına dayalı tesisler, kurulu gücüne bağlı olarak veya aynı ölçüm noktasındaki kurulumlarda tüketim tesisinin sisteme iletim seviyesinden bağlı olması halinde,\n iletim sistemine bağlanır. Bu fıkra kapsamında iletim sistemine bağlanacak üretim tesisi başvuruları için bu Yönetmelikte dağıtım sistemine bağlanacak üretim tesisi başvurularında dağıtım şirketince yürütülmesi öngörülen iş ve işlemler, aynı şekilde TEİAŞ tarafından yürütülür.\n (5) Bu Yönetmelik kapsamında (Ek ibare:RG-9/5/2021-31479) dağıtım seviyesinde kurulacak üretim tesislerine ilişkin başvurular için evrak yönünden yapılan değerlendirmenin ardından TEİAŞ’tan trafo merkezi özelinde arıza akım limiti konusunda görüş alınır. TEİAŞ ilgili talebe ilişkin görüşünü, talebin kendisine geliş tarihinden itibaren on beş gün içinde sonuçlandırır.\n (6) TEİAŞ tarafından ilgili trafo merkezine ilişkin arıza akım limitinin aşıldığının (Ek ibare:RG-11/8/2022-31920) ve/veya ilgili trafo merkezindeki transformatör cebri soğutmasız nominal görünür gücünün aşıldığının bildirilmesi halinde, ilgili trafo merkezine ilişkin başvurular herhangi bir işlem tesis edilmeksizin iade edilir.\n (7) (Değişik:RG-2/4/2026-33212) İletim seviyesinden 5 inci maddenin birinci fıkrasının (h) bendi ve bu maddenin sekizinci fıkrası kapsamında iletim sistemine bağlanacak üretim tesisi başvuruları için trafo merkezlerine doğrudan bağlantı ve dağıtım sistemine bağlanacak üretim tesisi başvuruları için fider tahsisi yapılarak kurulacak üretim tesisleri ile müşterek bağlantı görüşü oluşturulan üretim tesisleri hariç olmak üzere; bağlantı noktasındaki trafo merkezi, dağıtım merkezi ve enerji nakil hattı ile özel trafosu olan kişiler için tüketim tesisine ait trafoyu içerecek şekilde dağıtım tesislerinin geçici kabulü yapılmamış ise bu Yönetmelik kapsamında başvuru yapılamaz. Yapılan başvurular herhangi bir işlem tesis edilmeksizin iade edilir.\n (8) (Değişik:RG-2/4/2026-33212) İletim veya dağıtım seviyesinden toplam 10 MW ve üzeri kurulu güce sahip olarak 5 inci maddenin birinci fıkrasının (h) bendi kapsamında kurulacak üretim tesisleri ile iletim sistemine bağlanacak üretim tesisi başvuruları için trafo merkezlerine doğrudan bağlantı ve dağıtım sistemine bağlanacak üretim tesisi başvuruları için fider tahsisi yapılabilir.\n (9) Bu Yönetmelik kapsamında kurulacak üretim tesisi, söz konusu üretim tesisinin kurulacağı dağıtım bölgesi dışında yer alan başka bir dağıtım sistemine bağlanamaz.\n (10) 5 inci maddenin birinci fıkrasının (Değişik ibare:RG-11/8/2022-31920) (c), (f), (ğ) ve (ı) bendi kapsamında kurulacak olan üretim tesislerinin kurulu gücü, ilgili üretim tesisi ile ilişkilendirilecek tüketim tesisinin bağlantı anlaşmasındaki sözleşme gücünden fazla olamaz.\n (11) 23/3/2016 tarihinden önce toplulaştırılarak veya tekli de olsa münhasıran lisanssız üretim tesisleri için verilmiş olan bağlantı görüşleri çerçevesinde yapılmış olan ve 17/1/2018 tarihi itibarıyla ilgili şebeke işletmecisince henüz devralınmayan, dağıtım tesisi niteliğini haiz tesisler üzerinden üretim tesislerine ve/veya lisanssız üretim tesisiyle ilgili olmayan tüketim tesislerine bağlantı görüşü verilmesi halinde, söz konusu tesislerin ortak kullanım haline gelen kısmı 28/1/2014 tarihli ve 28896 sayılı Resmî Gazete’de yayımlanan Elektrik Piyasası Bağlantı ve Sistem Kullanım Yönetmeliğinin 37 nci maddesi uyarınca ilgili şebeke işletmecisi tarafından iz bedelle devralınır.\n (12) (Ek ibare:RG-9/5/2021-31479) İnşa halindeki tüketim tesislerine ait geçici abonelikler hariç olmak üzere Geçici bağlantı kapsamındaki tüketim tesisleri için gerçek veya tüzel kişilerce bu Yönetmelik kapsamında üretim tesisi kurulamaz. (Ek cümle:RG-14/5/2024-32546) Ancak geçici abonelikler kapsamındaki tüketimler, aynı gerçek veya tüzel kişiye ait ve aynı abone grubunda bulunan işletmedeki üretim tesisleriyle mahsuplaşmaya dâhil edilebilir.\n (13) Bağlantı anlaşması, üretim tesisinde yapılacak değişiklikler sonucunda, bağlantı ve sistem kullanımına ilişkin ilgili mevzuat hükümlerine göre tadil edilir.\n (14) (Değişik:RG-9/5/2021-31479) Üretim tesisi sahibi; üretim tesisinin DC/AC gücünün artırılması, azaltılması, koruma düzeninin değiştirilmesi, kompanzasyon değişikliği dahil olmak üzere başka değişiklikler yapmak istemesi halinde ilgili şebeke işletmecisine önceden başvuruda bulunarak ilgili mevzuatta öngörülen usullere göre izin almakla yükümlüdür. (Değişik ibare:RG-2/4/2026-33212) Jeotermal, biyokütle, rüzgar veya güneş enerjisine dayalı başvurularda; değişikliğe ilişkin sunulacak teknik değerlendirme formunda yer alan bilgiler teknik değerlendirme yapılması için (Ek ibare:RG-11/8/2022-31920) YEPDİS’e girilerek EİGM’ye gönderilir.\n (15) Önlisans sahasına veya üretim lisansı başvurusuna konu üretim tesisi sahası için (Ek ibare:RG-25/11/2025-33088) 16 ncı maddenin birinci fıkrasının (b) bendi ve (Ek ibare:RG-2/3/2023-32120) 30 uncu maddenin sekizinci fıkrası ile ilgili mevzuatta yer alan düzenlemeler saklı kalmak kaydıyla lisanssız üretim başvurusu yapılamaz, yapılması halinde ilgili başvurular iade edilir.\n (16) (Değişik ibare:RG-2/4/2026-33212) Lisanssız üretim başvurusuna konu üretim tesisi sahası için 16 ncı maddenin birinci fıkrasının (b) bendi saklı kalmak kaydıyla;\n a) (Değişik ibare:RG-2/4/2026-33212) Jeotermal, biyokütle, rüzgar veya güneş enerjisine dayalı önlisans başvurusunda bulunulması halinde, her bir başvuru için EİGM tarafından yapılan teknik değerlendirmenin olumlu olması durumunda söz konusu başvurular ilgili mevzuat hükümleri çerçevesinde sonuçlandırılır. EİGM tarafından yapılan teknik değerlendirme sonucu ilgili başvuruların birbirlerini olumsuz etkilemesi halinde lisanssız üretime ilişkin başvurular, bağlantı anlaşmasına çağrı mektubu almış olanlar hariç reddedilir. Lisanssız üretime ilişkin başvurunun bağlantı anlaşmasına çağrı mektubu almaya hak kazanmış olması durumunda; önlisans ve lisans başvurusu revize edilme imkanı yoksa reddedilir.\n b) (Değişik ibare:RG-2/4/2026-33212) Jeotermal, biyokütle, rüzgar veya güneş enerjisi dışında diğer kaynaklara dayalı önlisans veya lisans başvurusunda bulunulması ve lisanssız üretime ilişkin başvurunun bağlantı anlaşmasına çağrı mektubu almaya hak kazanmamış olması hallerinde ilgili lisanssız üretime ilişkin başvuru reddedilir.\n c) (Değişik ibare:RG-2/4/2026-33212) Jeotermal, biyokütle, rüzgar veya güneş enerjisi dışında diğer kaynaklara dayalı önlisans veya lisans başvurusunda bulunulması ve lisanssız üretime ilişkin başvurunun bağlantı anlaşmasına çağrı mektubu almaya hak kazanmış olması hallerinde ilgili önlisans veya lisans başvurusu reddedilir ve lisanssız üretime ilişkin başvurular ilgili mevzuat hükümleri çerçevesinde sonuçlandırılır. Ancak, aynı günde ilgili üretim tesisi sahasında üretim tesisi kurulması için yapılan lisanssız üretim başvurusunun bağlantı anlaşmasına çağrı mektubu almaya hak kazanması ve önlisans veya lisans başvurusunda bulunulması hallerinde lisanssız üretime ilişkin başvuru reddedilir.\n (17) (Ek:RG-9/5/2021-31479) 5 inci maddenin birinci fıkrasının (h) bendi kapsamında kurulacak üretim tesislerine ait dağıtım tesisi ve/veya iletim tesisi yatırımları için Elektrik Piyasası Bağlantı ve Sistem Kullanım Yönetmeliğinde yer alan hüküm çerçevesinde işlem tesis edilir.\n (18) (Ek:RG-11/8/2022-31920) 5 inci maddenin birinci fıkrasının (h) bendinde tanımlanan kişilerce aynı ölçüm noktasında ve bağlantı anlaşmasındaki sözleşme gücünün iki katına kadar üretim tesisi kurulmak istenmesi halinde, özel trafosu olan kişiler için çekiş yönlü bağlantı anlaşmasındaki sözleşme gücü sabit kalmak kaydıyla, trafolarda güç artış talebinde bulunulabilir.\n (19) (Ek:RG-29/7/2023-32263) TEİAŞ her bir trafo merkezine ait bağlantı kapasitelerine ilişkin bilgileri Kurul tarafından belirlenecek formata uygun olarak her ayın ilk on beş günü içerisinde kendi internet sayfasında duyurmakla yükümlüdür.\n (20) (Ek:RG-29/7/2023-32263) Dağıtım şirketleri ile OSB dağıtım lisansı sahibi tüzel kişiler ilgili dağıtım bölgesinde, lisanslı üretim kapsamında olanlar dahil olmak üzere, bu Yönetmelik çerçevesinde verilen bağlantı görüşlerine ve üretim tesisi başvurularına ilişkin bilgileri Kurul tarafından belirlenecek formata uygun olarak on dokuzuncu fıkra kapsamında TEİAŞ tarafından yapılan duyuruyu müteakip, her ayın yirmi beşinci gününe kadar kendi internet sayfalarında duyurmakla yükümlüdür.",
+      "preview": "(1) (Değişik:RG-2/4/2026-33212) Bu Yönetmelik kapsamına giren üretim tesisleri, dördüncü fıkra kapsamında belirtilen istisnalar dışında, dağ…",
+      "kitap": null,
+      "kisim": null,
+      "bolum": null,
+      "ayirim": null,
+      "maddeBaslik": "Bağlantı esasları",
+      "sectionPath": [
+        "Bağlantı esasları"
+      ]
+    },
+    {
+      "id": "yonetmelik:31502:m:8",
+      "maddeKind": "madde",
+      "maddeNo": "8",
+      "heading": "Madde 8",
+      "text": "(1) 5 inci maddenin birinci fıkrasının (a) ve (b) bentleri kapsamında üretim yapmak isteyen gerçek veya tüzel kişiler ilgili şebeke işletmecisine bildirim yapmakla yükümlüdür. Bu kişilerin başvuruları hakkında bu Yönetmelik kapsamında herhangi bir belge düzenlenmez.\n (2) 5 inci maddenin birinci fıkrasının (a) ve (b) bentleri kapsamındaki üretim tesislerine ilişkin iş ve işlemler ilgili teknik mevzuata göre Bakanlık veya Bakanlık tarafından yetkilendirilen kurum tarafından yürütülür.",
+      "preview": "(1) 5 inci maddenin birinci fıkrasının (a) ve (b) bentleri kapsamında üretim yapmak isteyen gerçek veya tüzel kişiler ilgili şebeke işletmec…",
+      "kitap": null,
+      "kisim": null,
+      "bolum": null,
+      "ayirim": null,
+      "maddeBaslik": "İmdat grupları ve izole üretim tesisleri",
+      "sectionPath": [
+        "İmdat grupları ve izole üretim tesisleri"
+      ]
+    },
+    {
+      "id": "yonetmelik:31502:m:9",
+      "maddeKind": "madde",
+      "maddeNo": "9",
+      "heading": "Madde 9",
+      "text": "(1) Hidrolik kaynaklara dayalı üretim tesisleri için su kullanım hakkı edinimi amacıyla öncelikle tesisin kurulacağı yerin il özel idaresine başvuruda bulunulur. Başvuru sahibi gerçek veya tüzel kişi, DSİ tarafından çıkarılan mevzuatta istenen belgeleri de başvuru dosyasına eklemekle yükümlüdür.\n (2) İl özel idareleri, üretim tesisinin yapımının su rejimi açısından uygun bulunduğuna dair görüş almak için her takvim ayı içinde alınan bağlantı başvurularını, takip eden ayın ilk beş günü içinde DSİ’nin yetkili bölge müdürlüklerine gönderir. İlgili DSİ birimi, su rejimi açısından uygunluk görüşünü kendisine başvurunun ulaştığı ayı takip eden ayın yirminci gününe kadar sonuçlandırır ve il özel idaresine gönderir. DSİ’nin ilgili birimi tarafından gönderilen görüşün olumlu olması halinde, il özel idaresi olumlu görüşün kendisine ulaştığı ayı takip eden ayın ilk beş günü içerisinde bu görüşü başvuru sahibine gönderir.",
+      "preview": "(1) Hidrolik kaynaklara dayalı üretim tesisleri için su kullanım hakkı edinimi amacıyla öncelikle tesisin kurulacağı yerin il özel idaresine…",
+      "kitap": null,
+      "kisim": null,
+      "bolum": null,
+      "ayirim": null,
+      "maddeBaslik": "Hidrolik kaynaklara dayalı üretim tesislerinde su kullanım hakkının edinilmesi",
+      "sectionPath": [
+        "Hidrolik kaynaklara dayalı üretim tesislerinde su kullanım hakkının edinilmesi"
+      ]
+    },
+    {
+      "id": "yonetmelik:31502:m:10",
+      "maddeKind": "madde",
+      "maddeNo": "10",
+      "heading": "Madde 10",
+      "text": "(1) (Değişik:RG-11/8/2022-31920) 5 inci maddenin birinci fıkrasının (c), (ç), (d), (e), (f), (g), (ğ), (h), (ı) ve (i) bentleri kapsamında üretim yapmak isteyen gerçek veya tüzel kişiler, Kurul kararıyla belirlenen bilgi ve belgeler ile (Ek ibare:RG-29/7/2023-32263) elektronik ortamda ilgili şebeke işletmecisine başvuruda bulunur. (Ek cümle:RG-14/5/2024-32546) Elektronik ortamda alınan başvurular için belge iadesi yapılmaz.\n (2) İlgili şebeke işletmecisi tarafından, ilgili diğer mevzuattan kaynaklanan yükümlülükler hariç olmak üzere Kurul kararıyla belirlenen bilgi ve belgeler dışındaki belgelerin eksikliği gerekçesiyle başvurular reddedilemez.\n (3) Bu madde kapsamında başvuruda bulunan gerçek veya tüzel kişilerin, başvuruda bulunduğu ay içerisinde ilgili üretim tesisine ilişkin yazılı olarak kurulu güç değişikliği talebinde bulunması halinde,\n a) Kurulu güç değişikliğine ilişkin talep tarihi başvuru tarihi olarak kabul edilir.\n b) Yeni kurulu güce göre sunulması gereken belgeler başvuru ekinde sunulur.\n (4) Başvuru sahiplerince talep edilmesi halinde, başvuruda kullanılacak ve niteliği itibarıyla ilgili şebeke işletmecisinden edinilebilecek veriler, yazılı olarak talep edilmesi halinde başvuru sahibine üç işgünü içerisinde ilgili şebeke işletmecisi tarafından yazılı olarak verilir.\n (5) (Ek:RG-25/11/2025-33088) Veraset ve iflas durumları hariç olmak üzere; 5 inci maddenin birinci fıkrasının (h) bendi kapsamında üretim tesisi veya tesislerinin devre konu edilmesi hâlinde, söz konusu üretim tesisi veya tesisleriyle ilişkilendirilen tüketim tesisi veya tesisleri için bu Yönetmelik kapsamında yeniden başvuru yapılmaz. Bu kapsamda söz konusu tüketim tesisi veya tesisleriyle ilişkilendirilmek suretiyle bağlantı anlaşmasına çağrı mektubu başvurusu yapılması durumunda ilgili başvuru değerlendirilmeksizin iade edilir. Ancak söz konusu üretim tesisi ve ilişkili olduğu tüketim tesisinin aynı kişiye birlikte devredilmesi durumuna ve kamu kurum ve kuruluşları ile bağlı kuruluşları arasındaki devirlere bu fıkra hükmü uygulanmaz.\n (6) (Ek:RG-25/11/2025-33088) Beşinci fıkranın uygulanması kapsamında; aynı ay içinde yapılan devirler, ilgili şebeke işletmecileri tarafından her ayın on beşinci gününe kadar ilan edilmek üzere piyasa işletmecisine bildirilir.\n (7) (Ek:RG-25/11/2025-33088) Beşinci fıkra kapsamında yer alan kişilere, bağlantı anlaşmasına çağrı mektubu düzenlenmiş olması hâlinde 34 üncü maddenin dördüncü fıkrası kapsamında işlem tesis edilir.\n (8) (Ek:RG-2/4/2026-33212) Bu madde kapsamında yapılan başvurularla ilgili olarak; başvuru henüz sonuçlanmadan, söz konusu başvuru ile aynı yere aynı kişi tarafından mükerrer başvuru yapılamaz. Ancak söz konusu başvurudan vazgeçilmesi halinde; yeni başvuru, mükerrer başvuru olarak değerlendirilmez.",
+      "preview": "(1) (Değişik:RG-11/8/2022-31920) 5 inci maddenin birinci fıkrasının (c), (ç), (d), (e), (f), (g), (ğ), (h), (ı) ve (i) bentleri kapsamında ü…",
+      "kitap": null,
+      "kisim": null,
+      "bolum": null,
+      "ayirim": null,
+      "maddeBaslik": "Başvuruların alınması",
+      "sectionPath": [
+        "Başvuruların alınması"
+      ]
+    },
+    {
+      "id": "yonetmelik:31502:m:11",
+      "maddeKind": "madde",
+      "maddeNo": "11",
+      "heading": "Madde 11",
+      "text": "(1) Bu Yönetmelik kapsamında Bakanlık veya Bakanlık tarafından yetkilendirilen kurum tarafından (Değişik ibare:RG-11/8/2022-31920) 25 kW’a (25 kW dahil) kadar tip proje hazırlanması uygun görülen, yenilenebilir enerji kaynağına dayalı ve kendi tüketim tesisinin bağlantı anlaşmasındaki sözleşme gücüne kadar, üretimi ve tüketimi aynı noktadan bağlı üretim tesisleri için başvuru ve ihtiyaç fazlası enerjinin değerlendirilmesinde Kurum tarafından belirlenen usul ve esaslar ile bağlantı anlaşmasına çağrı mektubu formatı kapsamında işlem tesis edilir. Bu kapsamda gerçekleşecek olan yenilenebilir enerji kaynaklarına dayalı üretim tesislerine ilişkin başvurular, Kurum tarafından belirlenen usul ve esaslar uyarınca değerlendirilir.\n (2) (Mülga:RG-2/4/2026-33212)\n (3) Bu Yönetmelik kapsamında faaliyet göstermek isteyen kişiler, bağlantı anlaşmasındaki sözleşme gücünü ve 5 inci maddenin birinci fıkrasının (c) bendi uyarınca belirlenecek kurulu gücü geçmeyecek şekilde tüketim tesisi ile aynı ölçüm noktasında, dağıtım tesisi niteliğinde tesis teçhiz etmeden, yenilenebilir enerji kaynaklarına dayalı üretim tesisi kurabilir. Güneş enerjisine dayalı üretim tesisleri ancak çatı ve cephe uygulaması olarak gerçekleştirilebilir.\n (4) İlgili diğer mevzuat hükümlerine uygun olması halinde, tarım arazilerinin bir kısmında tarımsal sulama amacıyla bu Yönetmelik kapsamında üretim tesisi kurulabilir. Ancak ilgili üretim tesisinin kurulu gücü söz konusu sulama tesisinin bağlantı anlaşmasındaki sözleşme gücünden fazla olamaz. Bu kapsamda yapılacak başvurularda DSİ tarafından mer’i mevzuat kapsamında verilen Onay Belgesinin sunulması zorunludur. Bu fıkra hükmü kapsamındaki başvurular, 5 inci maddenin birinci fıkrasının (ç) bendi kapsamında değerlendirilir.\n (5) (Ek:RG-11/8/2022-31920) Atık lastiklerin işlenmesi sonucu ortaya çıkan yan ürünler olan pirolitik yağ ve pirolitik gazın yakıt olarak kullanılması planlanan lisanssız üretim başvurularında, söz konusu yakıtın ilgili elektrik üretim tesisinde üretilmesi ve bu kaynaklar dışında başka kaynak kullanılmaması gerekir.",
+      "preview": "(1) Bu Yönetmelik kapsamında Bakanlık veya Bakanlık tarafından yetkilendirilen kurum tarafından (Değişik ibare:RG-11/8/2022-31920) 25 kW’a (…",
+      "kitap": null,
+      "kisim": null,
+      "bolum": null,
+      "ayirim": null,
+      "maddeBaslik": "Başvuruda bulunulabilecek tesisler",
+      "sectionPath": [
+        "Başvuruda bulunulabilecek tesisler"
+      ]
+    },
+    {
+      "id": "yonetmelik:31502:m:12",
+      "maddeKind": "madde",
+      "maddeNo": "12",
+      "heading": "Madde 12",
+      "text": "(1) İlgili şebeke işletmecisi, 11 inci maddenin birinci fıkrası kapsamındaki başvurular hariç olmak üzere başvuruları; derlemek suretiyle kurulacak bir komisyon marifetiyle evrak yönünden ve teknik yönden incelemeye alır. 11 inci maddenin birinci fıkrası kapsamındaki başvurular ilgili şebeke işletmecisince değerlendirilir ve sonuçlandırılır.\n (2) (Değişik:RG-9/5/2021-31479) Dağıtım şirketlerine ait komisyon; TEİAŞ, TEDAŞ ve ilgili şebeke işletmecisinin birer temsilcisinden oluşur ve oy çokluğu ile karar alır. Komisyon başkanı TEİAŞ temsilcisidir. İlgili şebeke işletmecisinin (Değişik ibare:RG-2/4/2026-33212) OSB veya EB dağıtım lisansı sahibi tüzel kişi olması halinde komisyon, (Değişik ibare:RG-2/4/2026-33212) OSB veya EB müdürü, bölge dağıtım şirketinden uzman bir personel ile (Değişik ibare:RG-2/4/2026-33212) OSB veya EB’den konusunda uzman bir personel olmak üzere üç üyeden oluşur ve oy çokluğuyla karar alır. Komisyonca alınan kararlar üyelerce imzalanır ve ilgili dosyalarda muhafaza edilir.\n (3) (Ek:RG-9/5/2021-31479) İletim seviyesinden yapılacak lisanssız üretim başvuruları için komisyon, tamamı TEİAŞ temsilcilerinden olmak üzere 3 üyeden oluşur ve oy çokluğu ile karar alır. Komisyonca alınan kararlar üyelerce imzalanır ve ilgili dosyalarda muhafaza edilir.",
+      "preview": "(1) İlgili şebeke işletmecisi, 11 inci maddenin birinci fıkrası kapsamındaki başvurular hariç olmak üzere başvuruları; derlemek suretiyle ku…",
+      "kitap": null,
+      "kisim": null,
+      "bolum": null,
+      "ayirim": null,
+      "maddeBaslik": "Komisyonun oluşturulması",
+      "sectionPath": [
+        "Komisyonun oluşturulması"
+      ]
+    },
+    {
+      "id": "yonetmelik:31502:m:13",
+      "maddeKind": "madde",
+      "maddeNo": "13",
+      "heading": "Madde 13",
+      "text": "(1) Bu Yönetmelik kapsamında üretim yapmak isteyen gerçek veya tüzel kişilerin her takvim ayı içinde alınan yeni başvuruları komisyon tarafından, takip eden ayın ilk (Değişik ibare:RG-11/8/2022-31920) yirmi günü içerisinde evrak yönünden toplu olarak değerlendirilir ve sonuçlandırılır. Eksik veya yanlış evrak verenlerin başvuruları teknik değerlendirmeye alınmaz.\n (2) (Değişik:RG-9/5/2021-31479) Eksik veya yanlışlığın mahiyeti hakkında, başvuru sahibine değerlendirme sonuçlarını takip eden üç işgünü içinde bildirimde bulunularak başvuru belgelerinin bir örneği kalıcı veri saklayıcısına aktarıldıktan sonra başvuru sahibine iade edilir ve hidrolik kaynaklar açısından ilgili il özel idaresine konu hakkında bilgi verilir.\n (3) Evrak yönünden yapılan değerlendirmeye ilişkin sonuçlar, değerlendirme tarihini izleyen işgünü içerisinde eksik ve yanlış yapılan başvurular için açıklamaları da içerecek şekilde ilgili şebeke işletmecisinin internet sayfasında yayınlanır.\n (4) (Ek:RG-9/5/2021-31479) Bu Yönetmelik kapsamında iletim seviyesinden bağlanarak üretim yapmak isteyen gerçek veya tüzel kişilerin her takvim ayı içinde alınan yeni başvuruları 12 nci maddenin üçüncü fıkrasında tanımlanan komisyon marifetiyle, takip eden ayın ilk (Değişik ibare:RG-11/8/2022-31920) yirmi günü içerisinde evrak yönünden toplu olarak değerlendirilir ve sonuçlandırılır. Eksik veya yanlış evrak verenlerin başvuruları teknik değerlendirmeye alınmaz. Eksik veya yanlışlığın mahiyeti hakkında, başvuru sahibine değerlendirme sonuçlarını takip eden üç işgünü içinde bildirimde bulunularak başvuru belgelerinin bir örneği kalıcı veri saklayıcısına aktarıldıktan sonra başvuru sahibine iade edilir. Evrak yönünden yapılan değerlendirmeye ilişkin sonuçlar, değerlendirme tarihini izleyen işgünü içerisinde eksik ve yanlış yapılan başvurular için açıklamaları da içerecek şekilde TEİAŞ’ın internet sayfasında yayımlanır.",
+      "preview": "(1) Bu Yönetmelik kapsamında üretim yapmak isteyen gerçek veya tüzel kişilerin her takvim ayı içinde alınan yeni başvuruları komisyon tarafı…",
+      "kitap": null,
+      "kisim": null,
+      "bolum": null,
+      "ayirim": null,
+      "maddeBaslik": "Başvuruların evrak yönünden değerlendirilmesi",
+      "sectionPath": [
+        "Başvuruların evrak yönünden değerlendirilmesi"
+      ]
+    },
+    {
+      "id": "yonetmelik:31502:m:14",
+      "maddeKind": "madde",
+      "maddeNo": "14",
+      "heading": "Madde 14",
+      "text": "(1) (Değişik:RG-11/8/2022-31920) Eksiksiz olarak yapıldığı tespit edilen başvurular, komisyon tarafından evrak yönünden değerlendirme yapılan ayı takip eden ayın yirmi günü içinde teknik yönden değerlendirilir. TEİAŞ tarafından arıza akım limitinin ve/veya ilgili trafo merkezindeki transformatör cebri soğutmasız nominal görünür gücünün aşıldığı bildirilen başvurular teknik değerlendirme yapılmaksızın reddedilir.\n (2) Başvurular trafo merkezlerine göre sınıflandırılır.\n (3) (Değişik cümle:RG-2/4/2026-33212) Başvurular, bağlantı ve sistem kullanımı açısından bağlantı noktasına göre değerlendirilir. Teknik değerlendirme, başvurunun bu Yönetmelik, ilgili teknik mevzuat ile ilgili mevzuata uygunluğu esas alınarak, kurulması planlanan tesisin ölçme ve koruma sistemi açısından değerlendirilmesi yapılarak (Ek ibare:RG-11/8/2022-31920) bağlantı noktası itibarıyla iletim veya dağıtım şebekesi kısıtları dikkate alınarak tamamlanır. (Ek cümleler:RG-25/11/2025-33088) Rüzgar ve güneş enerjisine dayalı başvurular haricindeki diğer başvurular için; TEİAŞ tarafından ilan edilen kapasitelere bağlı olmaksızın, bu madde kapsamında bağlantı görüşü oluşturulmasına ilişkin yapılan teknik değerlendirmenin uygun olması hâlinde, olumlu bağlantı görüşü oluşturulur. Bununla beraber aynı ayda yapılan rüzgar ve güneş enerjisine dayalı başvurular haricindeki diğer başvuruların teknik değerlendirilmesinde; birden fazla başvurunun bulunması ve ilgili trafo merkezindeki transformatör cebri soğutmasız nominal görünür gücünün söz konusu başvuruların kapasiteleri için yetersiz olması durumunda, bahse konu başvurular için de altıncı fıkra hükmü uygulanır. Ancak, TEİAŞ tarafından rüzgar ve güneş enerjisine dayalı başvurular için kapasite ilan edilmiş olması ve rüzgar veya güneş enerjisine dayalı başvurular ile diğer enerji kaynaklarına dayalı başvuruların aynı ayda yapılması durumunda, öncelikle rüzgar ve güneş enerjisine dayalı başvurular için TEİAŞ tarafından ilan edilen kapasite kapsamında işlem tesis edilir.\n (4) Teknik değerlendirme sonuçlarından sonra başvurular (Ek ibare:RG-11/8/2022-31920) varsa öncelik değerlendirmesine alınır. Öncelik değerlendirmesinde bağlantı noktası itibarıyla varsa iletim veya dağıtım şebekesi kısıtları dikkate alınarak başvurular sonuçlandırılır.\n (5) Bağlantı noktası itibarıyla bağlantı kısıtlarına tabi olmayan başvurular, teknik değerlendirme sonucu öncelik değerlendirmesine alınmaksızın sonuçlandırılır.\n (6) (Değişik:RG-25/11/2025-33088) İlgili şebeke işletmecisi tarafından şebekeye bağlantısı yapılacak olan rüzgar veya güneş enerjisine dayalı üretim tesisinin bağlantısına ilişkin öncelik değerlendirmesinde;\n a) Başvuruya konu üretim tesisinin, ilişkilendirilmesi planlanan tüketim tesisiyle aynı ölçüm noktasında olması,\n b) Başvuru sahibinin, aynı tüketim tesisi için daha önce çağrı mektubu düzenlenmemiş olması hâlinde son bir yıl içindeki tüketim miktarının, daha önce çağrı mektubu düzenlenmiş olması hâlinde ise iptal edilmiş olanlar hariç olmak üzere, dokuzuncu fıkra uyarınca belirlenen öncelik değerlendirmesine esas tüketim miktarının diğer başvurulardan yüksek olması,\n c) Başvuru sahibinin bağlantı anlaşmasındaki sözleşme gücünün diğer başvurulardan yüksek olması,\n ç) Başvuru sahibinin önceden olumlu bağlantı görüşü verilmiş bir başvurusunun olmaması,\n kriterleri sırasıyla uygulanır. Bir yıllık tüketimi olmayan tüketim noktalarının yıllık tüketimleri mevcut aylık tüketimlerinin ortalaması dikkate alınarak yıllık bazda, sadece bir aylık tüketiminin olması hâlinde bu tüketimi dikkate alınarak yıllık bazda hesap edilir. Bir aylık tüketimi olmayan tüketim noktaları ile inşa aşamasındaki tesisler için yapılan başvurularda proje değerleri dikkate alınarak en yakındaki benzer tüketim noktalarının tüketimlerine göre hesap yapılır. Yapılan değerlendirme sonucunda, birden fazla başvurunun tüm kriterleri sağlaması durumunda ilgili şebeke işletmecisine yapılan başvuru tarihi sıralamaya esas alınır.\n (7) 11 inci maddenin birinci fıkrası kapsamında yer alan üretim tesislerine ilişkin başvurular için ilgili şebeke işletmecisince, Kurum tarafından belirlenecek usul ve esaslar saklı kalmak kaydıyla, bu madde kapsamında başkaca bir işlem tesis edilmeksizin olumlu bağlantı görüşü oluşturulur.\n (8) (Ek:RG-9/5/2021-31479) 13 üncü maddenin dördüncü fıkrası kapsamında eksiksiz olarak yapıldığı tespit edilen başvurular evrak yönünden yapılan değerlendirmeyi izleyen ayın ilk (Değişik ibare:RG-11/8/2022-31920) yirmi günü içerisinde 12 nci maddenin üçüncü fıkrasında tanımlanan komisyon marifetiyle teknik yönden değerlendirilir. Her bir başvuru bağlantı ve sistem kullanımı açısından diğerlerinden bağımsız ancak bağlantı noktası bakımından birlikte değerlendirilir. Teknik değerlendirme, başvurunun bu Yönetmelik, ilgili teknik mevzuat ile ilgili mevzuata uygunluğu esas alınarak, bağlanabilir kapasite ve ilgili trafo merkezinin kısa devre akım limiti hesaplamaları kapsamında kurulması planlanan tesisin ölçme ve koruma sistemi açısından değerlendirilmesi yapılarak tamamlanır.\n (9) (Ek:RG-25/11/2025-33088) Altıncı fıkra kapsamında yapılan öncelik değerlendirmesinde; daha önce bağlantı anlaşmasına çağrı mektubu oluşturulmuş tüketim tesisi veya tesislerinin yeni bir başvuruya konu edilmesi hâlinde, söz konusu tüketim tesisi veya tesisleri için daha önce tahsis edilen üretim tesisinin kurulu gücüne denk gelen oranda söz konusu tesis veya tesislerin tüketim miktarı, yeni yapılan başvurularda dikkate alınmaz. Bu kapsamda altıncı fıkranın (b) bendinde belirtilen öncelik değerlendirmesine esas tüketim miktarı, aşağıdaki şekilde hesaplanır:\n\n Bu formülde geçen;\n ÖDT: Öncelik değerlendirmesine esas tüketim miktarını,\n TT: Başvuruya konu üretim tesisiyle ilişkilendirilmesi planlanan tüketim tesis veya tesislerinin son bir yıl içindeki mahsuplaşılmamış (mahsuplaşma öncesi) tüketim miktarlarının toplamını,\n TSG: Başvuruya konu üretim tesisiyle ilişkilendirilmesi planlanan tüketim tesis veya tesislerinin bağlantı anlaşmasındaki sözleşme güçlerinin toplamını,\n ÜKG: Daha önce söz konusu tüketim tesis veya tesislerinin ilişkilendirilmesi suretiyle bağlantı anlaşmasına çağrı mektubu oluşturulmuş üretim tesisi veya tesislerinin toplam kurulu gücünü,\n ifade eder. 5 inci maddenin birinci fıkrasının (h) bendi kapsamındaki başvurularda; üretim tesisi veya tesisleriyle ilişkili tüketim tesisi veya tesislerinin belediyeler ve bunların bağlı kuruluşları ile sanayi tesisleri ve tarımsal sulama amaçlı tesislere ait olması hâlinde, bu fıkrada yer alan formülde geçen TSG, iki katı kabul edilerek hesaplanır. Ancak bu kapsamdaki tesislerde ÜKG’nin TSG’nin altında olduğu durumlarda, iki katı uygulaması yapılmaz.",
+      "preview": "(1) (Değişik:RG-11/8/2022-31920) Eksiksiz olarak yapıldığı tespit edilen başvurular, komisyon tarafından evrak yönünden değerlendirme yapıla…",
+      "kitap": null,
+      "kisim": null,
+      "bolum": null,
+      "ayirim": null,
+      "maddeBaslik": "Başvuruların teknik yönden değerlendirilmesi",
+      "sectionPath": [
+        "Başvuruların teknik yönden değerlendirilmesi"
+      ]
+    },
+    {
+      "id": "yonetmelik:31502:m:15",
+      "maddeKind": "madde",
+      "maddeNo": "15",
+      "heading": "Madde 15",
+      "text": "(1) 14 üncü madde hükümlerine göre sonuçlandırılan başvurular ile ilgili olarak;\n a) Değerlendirmeye ilişkin sonuçlar, değerlendirme tarihini izleyen işgünü içerisinde teknik değerlendirmeye ilişkin açıklamaları da içerecek şekilde ilgili şebeke işletmecisinin internet sayfasında yayınlanır.\n b) Başvuruların sonucu hakkında başvuru sahibine değerlendirme sonuçlarını takip eden üç işgünü içinde yazılı olarak bildirimde bulunulur. Başvurusu reddedilen kişilere yapılacak yazılı bildirimlerde ret gerekçelerine ve teknik değerlendirmelere yer verilir ve belgelerin bir örneği kalıcı veri saklayıcısına aktarıldıktan sonra söz konusu kişilere on işgünü içerisinde iade edilir.\n c) Başvurusu reddedilen kişilerden hidrolik kaynaklara dayalı başvuruda bulunan kişilerle ilgili olarak, internet sayfasında ilanı izleyen beş işgünü içerisinde il özel idaresine bildirimde bulunulur.\n ç) Arıza akım limiti konusunda TEİAŞ’ın olumlu görüş bildirdiği ancak teknik değerlendirme sonucu başvurusu olumsuz bulunan kişiler hakkında 5 işgünü içerisinde TEİAŞ’a bildirim yapılır.\n d) (Değişik ibare:RG-25/11/2025-33088) Jeotermal, biyokütle, rüzgar veya güneş enerjisine dayalı başvurular dışında bağlantı başvurusu uygun bulunanların, (a) bendinde belirtilen listenin ilan tarihinden itibaren bir ay içerisinde yazılı olarak başvuruda bulunmaları halinde, bağlantı anlaşmasına çağrı mektubu ilgili şebeke işletmecisi tarafından ilgilisine tebliğ edilir. Bu kapsamda başvuruda bulunmayan başvuru sahiplerinin, olumlu bağlantı görüşleri kendiliğinden geçersiz hale gelir. Hidrolik kaynaklara dayalı başvurular hakkında, ilgili kişilere bağlantı anlaşmasına çağrı mektubunun tebliğ edilmesini izleyen beş işgünü içerisinde ilgili şebeke işletmecisi tarafından il özel idaresine bildirimde bulunulur.\n Teknik değerlendirme sonucunda bağlantı görüşü oluşturulması ve bağlantı anlaşmasına çağrı mektubu düzenlenmesi",
+      "preview": "(1) 14 üncü madde hükümlerine göre sonuçlandırılan başvurular ile ilgili olarak; a) Değerlendirmeye ilişkin sonuçlar, değerlendirme tarihini…",
+      "kitap": null,
+      "kisim": null,
+      "bolum": null,
+      "ayirim": null,
+      "maddeBaslik": "Bağlantı görüşü oluşturulması ve bağlantı anlaşmasına çağrı mektubu düzenlenmesi",
+      "sectionPath": [
+        "Bağlantı görüşü oluşturulması ve bağlantı anlaşmasına çağrı mektubu düzenlenmesi"
+      ]
+    },
+    {
+      "id": "yonetmelik:31502:m:16",
+      "maddeKind": "madde",
+      "maddeNo": "16",
+      "heading": "Madde 16",
+      "text": "(1) (Değişik:RG-25/11/2025-33088) Teknik değerlendirme ile ilgili olarak;\n a) Jeotermal, biyokütle, rüzgar veya güneş enerjisine dayalı başvurulardan; bağlantı başvurusu uygun bulunan başvurulara ait teknik değerlendirme formunda yer alan bilgiler, başvurunun uygun bulunma tarihinden itibaren on iş günü içinde teknik değerlendirme yapılması için YEPDİS’e girilerek EİGM’ye gönderilir. EİGM tarafından teknik değerlendirme otuz gün içinde sonuçlandırılır ve teknik değerlendirme raporu ilgili şebeke işletmecisine gönderilir. EİGM’ye gönderilen bilgilerde hata ve/veya eksiklik bulunması durumunda, ilgili şebeke işletmecileri tarafından başvuru sahibine ilgili tespitin yapılmasından itibaren üç iş günü içinde uygunsuzluğun giderilmesi için bildirimde bulunulur. Bu fıkranın (b) bendi hükmü saklı olmak üzere bildirimi takip eden on iş günü içinde hata ve/veya eksikliklerin giderilerek ilgili şebeke işletmecisine sunulmaması veya EİGM değerlendirmesi sonucunda teknik değerlendirmenin olumsuz olması hâlinde başvuru belgelerinin bir örneği kalıcı veri saklayıcısına aktarıldıktan sonra başvuru sahibine iade edilir ve ilgili şebeke işletmecisi tarafından YEPDİS’de güncellenir.\n b) EİGM tarafından yapılan teknik değerlendirme sonucunda santral sahalarında kesişme/çakışma veya rüzgar türbinlerinin etkileşiminin tespit edilmesi hâlinde, 30 uncu maddenin sekizinci fıkrası ile ilgili mevzuatta yer alan düzenlemeler saklı kalmak kaydıyla, ilgili şebeke işletmecileri tarafından başvuru sahibine; dağıtım seviyesinden bağlantılarda aynı trafo merkezinden, iletim seviyesinden bağlantılarda aynı iletim bölgesinden bağlanmak şartıyla değişiklik başvurusunda bulunma hakkı verilir. Bu kapsamda yapılan değerlendirme sonucunda, sahası değişen başvuru veya başvurular, yeniden teknik değerlendirme yapılmak üzere EİGM’ye gönderilir.\n c) (b) bendi kapsamında, ilgili şebeke işletmecisi tarafından yapılan bildirim tarihinden itibaren doksan gün içinde herhangi bir sebeple saha değişikliği veya revizyon talebini ilgili şebeke işletmecisine sunmaması veya teknik değerlendirmenin tekrar olumsuz olması hâlinde başvuru belgelerinin bir örneği kalıcı veri saklayıcısına aktarıldıktan sonra başvuru sahibine iade edilir ve söz konusu kapasite tahsisinin yapılmadığı ilgili şebeke işletmecisi tarafından TEİAŞ’a bildirilir ve YEPDİS’de güncellenir.\n (2) Teknik değerlendirme raporu olumlu olan (Ek ibare:RG-25/11/2025-33088) jeotermal, biyokütle veya güneş enerjisine dayalı başvurulara ait bağlantı anlaşmasına çağrı mektubu, ilgili şebeke işletmecisi tarafından beşinci fıkraya konu listenin ilan tarihinden itibaren bir ay içerisinde ilgili kişilerin yazılı başvurusu üzerine ilgilisine tebliğ edilir. Bu kapsamda başvuruda bulunmayan başvuru sahiplerinin olumlu bağlantı görüşleri kendiliğinden geçersiz hale gelir ve başvuru belgelerinin bir örneği kalıcı veri saklayıcısına aktarıldıktan sonra başvuru sahibine iade edilir.\n (3) Rüzgar enerjisine dayalı başvurulardan teknik değerlendirmesi EİGM tarafından uygun görülen başvurulara ait teknik değerlendirme raporu her ayın beşine kadar EİGM internet sayfasında ilan edilir. İlan tarihinden itibaren başvuru sahibi tarafından otuz gün içerisinde teknik etkileşim izni için TÜBİTAK’ın ilgili birimine başvuruda bulunulur. Söz konusu başvurunun eksiksiz yapıldığına dair belge EİGM’nin ilan tarihinden itibaren otuz gün içerisinde EİGM'ye sunulur. TÜBİTAK’ın ilgili birimine teknik etkileşim izni için eksiksiz başvurulduğuna dair belgenin;\n a) Süresi içerisinde sunulmaması halinde söz konusu başvuru,\n b) Süresi içerisinde sunulması halinde ilgili başvuruya ilişkin kapasitenin teknik etkileşim izni sonucuna kadar bekletilmesi için,\n EİGM tarafından ilgili şebeke işletmecisine bildirilir. Teknik etkileşim izni, teknik değerlendirme raporu ile birlikte EİGM tarafından ilgili şebeke işletmecisine on işgünü içerisinde bildirilir. Teknik değerlendirme raporu ve/veya teknik etkileşim izninin olumsuz olması veya teknik etkileşim izni için eksiksiz başvurulduğuna dair belgenin süresi içerisinde sunulmaması halinde başvuru belgelerinin bir örneği kalıcı veri saklayıcısına aktarıldıktan sonra ilgili şebeke işletmecisince başvuru sahibine iade edilir. (Ek cümleler:RG-14/5/2024-32546) Rüzgar enerjisine dayalı başvurularda teknik etkileşim izninin olumsuz sonuçlanması durumunda başvuru sahibine, dağıtım seviyesinden bağlantılarda aynı trafo merkezinden, iletim seviyesinden bağlantılarda aynı iletim bölgesinden bağlanmak şartıyla, altmış gün içerisinde saha değişikliği veya revizyonu için ilgili şebeke işletmecisine başvurma hakkı verilir. Ancak her bir değişiklik veya revizyon için altmış gün içerisinde saha değişikliğini veya revizyonunu ilgili şebeke işletmecisine sunmaması halinde başvuru reddedilir.\n (4) Teknik etkileşim izni ve teknik değerlendirme raporu olumlu olan rüzgar enerjisine dayalı başvurular için ilgili şebeke işletmecisi tarafından bağlantı anlaşmasına çağrı mektubu düzenlenir. Bağlantı anlaşmasına çağrı mektubu, ilgili şebeke işletmecisi tarafından beşinci fıkraya konu listenin ilan tarihinden itibaren bir ay içerisinde ilgili kişilerce yazılı olarak başvuruda bulunmaları halinde ilgilisine tebliğ edilir. Bu kapsamda başvuruda bulunmayan başvuru sahiplerinin olumlu bağlantı görüşleri kendiliğinden geçersiz hale gelir ve başvuru belgelerinin bir örneği kalıcı veri saklayıcısına aktarıldıktan sonra başvuru sahibine iade edilir.\n (5) Birinci, ikinci, üçüncü ve dördüncü fıkra hükümleri kapsamında olumlu ve olumsuz sonuçlanan başvurulara ilişkin bilgiler gerekli açıklamaları da içerecek şekilde düzenli olarak aylık bazda ilgili şebeke işletmecisinin internet sayfasında ilan edilir.\n (6) İlgili şebeke işletmecisi tarafından oluşturulan bağlantı anlaşmasına çağrı mektuplarında bu Yönetmeliğin hangi hükmü uyarınca belge düzenlendiği açıkça ifade edilir. Bu belgede ihtiyaç fazlası enerjinin hangi hüküm uyarınca değerlendirileceği de ayrıca belirtilir.",
+      "preview": "(1) (Değişik:RG-25/11/2025-33088) Teknik değerlendirme ile ilgili olarak; a) Jeotermal, biyokütle, rüzgar veya güneş enerjisine dayalı başvu…",
+      "kitap": null,
+      "kisim": null,
+      "bolum": null,
+      "ayirim": null,
+      "maddeBaslik": "Bağlantı görüşü oluşturulması ve bağlantı anlaşmasına çağrı mektubu düzenlenmesi",
+      "sectionPath": [
+        "Bağlantı görüşü oluşturulması ve bağlantı anlaşmasına çağrı mektubu düzenlenmesi"
+      ]
+    },
+    {
+      "id": "yonetmelik:31502:m:17",
+      "maddeKind": "madde",
+      "maddeNo": "17",
+      "heading": "Madde 17",
+      "text": "(1) (Değişik:RG-14/5/2024-32546) Kendisine bağlantı anlaşmasına çağrı mektubu tebliğ edilenlere, bağlantı anlaşmasına çağrı mektubunun tebliğ tarihinden itibaren bir yıl süre verilir. Bağlantı anlaşmasına çağrı mektubu sahiplerinin, söz konusu süre içerisinde üretim tesisi ve varsa bağlantı hattı projesini Bakanlık veya Bakanlığın yetki verdiği kurum ve/veya tüzel kişilere onaylatması zorunludur.\n (2) İlgili gerçek veya tüzel kişilerin aşağıdaki belgeleri ilgili şebeke işletmecisine birinci fıkrada belirtilen süre içerisinde eksiksiz ve usulüne uygun olarak sunmaları halinde, ilgili şebeke işletmecisi kendileriyle otuz gün içerisinde bağlantı anlaşması imzalamakla yükümlüdür:\n a) Üretim tesisinin inşaatına başlanabilmesi için ilgili teknik mevzuat çerçevesinde alınması gereken proje onayı.\n b) Hidrolik kaynaklara dayalı başvurularda su kullanım hakkı anlaşması.\n c) (Ek:RG-11/8/2022-31920) (Mülga:RG-14/5/2024-32546)\n (3) (Değişik:RG-11/8/2022-31920) (Mülga:RG-14/5/2024-32546)\n (4) (Değişik:RG-14/5/2024-32546) Birinci fıkrada tanımlanan süre içerisinde söz konusu belgeleri ilgili şebeke işletmecisine sunamamaları halinde ilgili gerçek veya tüzel kişiler, bağlantı anlaşması imzalama hakkını kaybeder ve mevcut belgeleri kendilerine iade edilir.\n (5) Bağlantıya ilişkin mülkiyet ve işletme sınırları, bağlantı anlaşmasında belirlenir.\n (6) (Ek cümle:RG-25/11/2025-33088) Aynı tüketim tesisi veya tesisleriyle ilişkilendirilmek üzere; bütünleşik parsel ya da parseller üzerinde yapılan başvurular, kurulu güç artışı kapsamında değerlendirilir. Bu Yönetmeliğin yürürlüğe girdiği tarih itibarıyla yapılacak başvurular neticesinde bağlantı anlaşmasına çağrı mektubu almaya hak kazanan ve bağlantı anlaşması imzalanan üretim tesislerinde kurulu güç artışı talebinde bulunulması halinde, ilgili talep söz konusu talebin yapıldığı ayda yapılan diğer tüm başvurular ile birlikte değerlendirilir. Bu kapsamda;\n a) Söz konusu talebe komisyon tarafından olumsuz görüş verilmesi halinde, başvuru sahibine ait mevcut (Ek ibare:RG-9/5/2021-31479) bağlantı anlaşmasına çağrı mektubu ile bağlantı anlaşmasının geçerliliği devam eder.\n b) (Değişik:RG-9/5/2021-31479) Bağlantı anlaşmasına çağrı mektubu verilen üretim tesisleri için kurulu güç artış talebinde bulunulması ve söz konusu talebe komisyon tarafından olumlu görüş verilmesi halinde, güç artışı kapsamındaki revize bağlantı anlaşmasına çağrı mektubunun başvuru sahibine tebliğ edildiği tarihten itibaren ikinci fıkra kapsamındaki yükümlülüklerini tamamlaması için birinci fıkrada yer alan sürelere doksan gün ilave süre verilir. (Mülga cümle:RG-25/11/2025-33088)\n c) (Değişik:RG-25/11/2025-33088) Bağlantı anlaşması imzalayan ve kabul işlemleri tamamlanmamış üretim tesislerinde kurulu güç artış talebinde bulunulması ve söz konusu talebe komisyon tarafından olumlu görüş verilmesi hâlinde, güç artışı kapsamındaki revize bağlantı anlaşmasına çağrı mektubunun başvuru sahibine tebliğ edildiği tarihten itibaren revize bağlantı anlaşmasına çağrı mektubuna ilişkin ikinci fıkra kapsamındaki yükümlülüklerinin tamamlanması için bir yıl süre verilir. Revize bağlantı anlaşmasının imzalanması hâlinde, revize bağlantı anlaşmasından itibaren güç artışına ilişkin kabul işlemlerinin tamamlanması için bir yıl süre verilir. Güç artışına ilişkin kabul işlemlerinin tamamlanması için verilen sürenin, güç artışı yapılmadan önceki mevcut bağlantı anlaşmasının kabulü için kalan süreden az olması hâlinde; güç artışının kabulünün tamamlanması için üretim tesisinin kabulünün tamamlanmasına ilişkin kalan süre esas alınır.\n ç) (Ek:RG-25/11/2025-33088) Kabul işlemleri tamamlanmış üretim tesislerinde kurulu güç artış talebinde bulunulması ve söz konusu talebe komisyon tarafından olumlu görüş verilmesi hâlinde, revize bağlantı anlaşmasına çağrı mektubuna ilişkin ikinci fıkra kapsamındaki yükümlülüklerin tamamlanması için bir yıl süre verilir. Revize bağlantı anlaşmasının imzalanması hâlinde, revize bağlantı anlaşmasından itibaren güç artışına ilişkin kabul işlemlerinin tamamlanması için bir yıl süre verilir.\n d) (Ek:RG-25/11/2025-33088) Bu fıkra kapsamındaki güç artışı başvurularına ilişkin; bağlantı anlaşmasına çağrı mektubu için verilen süre içinde söz konusu belgeleri ilgili şebeke işletmecisine sunmamaları hâlinde ilgili gerçek veya tüzel kişiler, güç artışı için bağlantı anlaşması imzalama hakkını kaybeder ve güç artışı öncesindeki mevcut bağlantı anlaşmasına çağrı mektubu ile varsa bağlantı anlaşmasının geçerliliği devam eder.\n e) (Ek:RG-25/11/2025-33088) Güç artışı için kabulün yapılmasına ilişkin verilen süre içinde, ilave güç artışı kapsamındaki üretim tesisinin kabul işlemlerinin tamamlanmaması hâlinde; güç artışına ilişkin bağlantı anlaşmasına çağrı mektubu, bağlantı anlaşması ve tahsis edilen kapasite kendiliğinden geçersiz hâle gelir ve güç artışı öncesindeki mevcut bağlantı anlaşmasına çağrı mektubu ile bağlantı anlaşmasının geçerliliği devam eder. Güç artışı öncesindeki mevcut bağlantı anlaşmasına çağrı mektubu ile bağlantı anlaşmasının herhangi bir sebeple iptal olması hâlinde, güç artışına konu revize bağlantı anlaşmasına çağrı mektubu ile bağlantı anlaşması geçersiz hâle gelir.\n (7) (Ek:RG-14/5/2024-32546) 12/5/2019 tarihinden önce bağlantı anlaşmasına çağrı mektubu almaya hak kazanan üretim tesisleri için talep edilen mekanik kurulu güç artışı, elektriksel kurulu gücün yüzde yirmisinden fazla olamaz. (Değişik ikinci cümle:RG-2/4/2026-33212) 12/5/2019 tarihinden itibaren bağlantı anlaşmasına çağrı mektubu almaya hak kazanan üretim tesisleri için talep edilen mekanik kurulu güç, rüzgar enerjisine dayalı üretim tesisleri hariç olmak üzere elektriksel kurulu gücün iki katını aşamaz.\n Uyum, bakım, testler ve (Mülga ibare:RG-9/5/2021-31479) kabul",
+      "preview": "(1) (Değişik:RG-14/5/2024-32546) Kendisine bağlantı anlaşmasına çağrı mektubu tebliğ edilenlere, bağlantı anlaşmasına çağrı mektubunun tebli…",
+      "kitap": null,
+      "kisim": null,
+      "bolum": null,
+      "ayirim": null,
+      "maddeBaslik": "Bağlantı anlaşması başvurusu",
+      "sectionPath": [
+        "Bağlantı anlaşması başvurusu"
+      ]
+    },
+    {
+      "id": "yonetmelik:31502:m:18",
+      "maddeKind": "madde",
+      "maddeNo": "18",
+      "heading": "Madde 18",
+      "text": "(1) Bu Yönetmelik kapsamında üretim tesisi kuran gerçek veya tüzel kişiler; şebekeye bağlanacak üretim tesisinin, bu Yönetmelikte tanımlanan kriterlere ve bağlantı anlaşmasında yer alan şartlara uygun olduğunu ilgili şebeke işletmecisine bildirir. Üretim tesisinin (Mülga ibare:RG-9/5/2021-31479) kabule hazır olduğu ilgili şebeke işletmecisi tarafından on beş gün içerisinde tutanakla imza altına alınır. Bu tutanak Bakanlık veya Bakanlığın yetki verdiği kuruluşa sunularak kabul başvurusu yapılır.\n (2) Kabul işlemleri ilgili teknik mevzuata göre yapılır.\n (3) Kabul süreci ve işlemleri ile ilgili olarak; kabul öncesi, (Mülga ibare:RG-9/5/2021-31479) kabul işlemleri sürecinde ve test işlemleri süresince şebekeye verilen elektrik enerjisi için hiçbir şekilde bedel talep edilmez. Bu süreçte üretilen enerjinin görevli tedarik şirketi tarafından üretilerek sisteme verilmiş olduğu kabul edilerek YEKDEM’e bedelsiz katkı olarak dikkate alınır.\n (4) Üretim ve tüketim tesisinin aynı ölçüm noktasında yer almadığı durumlarda; kabul öncesi, (Mülga ibare:RG-9/5/2021-31479) kabul işlemleri sürecinde ve test işlemleri süresince üretim tesis sahasında yer alan her türlü yapı ve ekipmanın çalışmasına bağlı oluşacak iç tüketim miktarı, üretim tesisinin işletmeye geçmesinden sonraki ilk fatura döneminde üretim tesisi ile ilişkilendirilen tüketim tesisi veya tesislerinin tüketimlerine eklenmek suretiyle mahsuplaştırmaya dahil edilir.",
+      "preview": "(1) Bu Yönetmelik kapsamında üretim tesisi kuran gerçek veya tüzel kişiler; şebekeye bağlanacak üretim tesisinin, bu Yönetmelikte tanımlanan…",
+      "kitap": null,
+      "kisim": null,
+      "bolum": null,
+      "ayirim": null,
+      "maddeBaslik": "Bağlantı anlaşması başvurusu",
+      "sectionPath": [
+        "Bağlantı anlaşması başvurusu"
+      ]
+    },
+    {
+      "id": "yonetmelik:31502:m:19",
+      "maddeKind": "madde",
+      "maddeNo": "19",
+      "heading": "Madde 19",
+      "text": "(1) (Değişik:RG-2/4/2026-33212) Bu Yönetmelik hükümlerine göre şebekeye bağlanacak üretim tesislerinin yatırıma başlanması için gerekli olan ÇED, imar ve diğer izin ve onayların alınması ile kabul işlemlerinin, bağlantı anlaşmasının imza tarihinden itibaren;\n a) İlgili şebeke işletmecisine ait dağıtım trafosunu kullanan tüm üretim tesislerinde bir yıl,\n b) İlgili şebeke işletmecisine ait dağıtım trafosunu kullanmayan,\n 1) Hidrolik kaynağa dayalı üretim tesislerinde üç yıl,\n 2) Diğer kaynaklara dayalı üretim tesislerinde iki yıl,\n c) İletim şebekesine bağlanacak üretim tesislerinde 2/11/2013 tarihli ve 28809 sayılı Resmî Gazete’de yayımlanan Elektrik Piyasası Lisans Yönetmeliği çerçevesinde aynı niteliklere sahip üretim tesisleri için öngörülen süre,\n ç) 5 inci maddenin birinci fıkrasının (h) bendi kapsamındaki tüm üretim tesislerinin üç yıl,\n içinde tamamlanması zorunludur. Bu maddenin yürürlüğe girmesinden sonra imzalanacak bağlantı anlaşmalarında bu sürelere de yer verilir. Elektrik Piyasası Lisans Yönetmeliğinin 35 inci maddesinde belirtilen mücbir sebepler ve Kurul tarafından uygun bulunan haller dışında, bu sürelerin sonunda üretim tesisinin tamamlanmaması halinde bağlantı anlaşması ile tahsis edilen kapasite, kendiliğinden hükümsüz hale gelir. Lisanssız üretim tesislerinde 17 nci maddenin altıncı fıkrası kapsamında gerçekleştirilen güç artışı işlemleri hariç olmak üzere tek bir kabul yapılabilir. Bununla birlikte her bir seferinde 10 MWe gücünden aşağı olmamak üzere kısmi kabul de yapılabilir. Kısmi kabul yapıldıktan sonra kalan gücün 10 MWe gücünden az olması durumunda, kalan güç üzerinden kabul yapılır. Ancak kabulü yapılan kısım dışında kalan gücün, süresi içerisinde kabulünün yapılmaması halinde, söz konusu bağlantı anlaşması kabulü yapılan kısım esas alınmak suretiyle güncellenir.\n (2) Üretim tesisleri, sistem kullanım anlaşmasında belirtilen tarihten itibaren sisteme enerji verebilir. Bu tarih hiçbir şekilde ilgili teknik mevzuata göre üretim tesisinin ticari faaliyete başladığı tarihten önce olamaz.\n (3) (Mülga ibare:RG-9/5/2021-31479) kabulü tamamlanarak işletmeye alınan üretim tesislerinde, tesisin ticari faaliyete başladığı tarihi izleyen bir ay içerisinde taraflarca sistem kullanım anlaşmasının imzalanması zorunludur. Sistem kullanım anlaşmasının üretim tesisi sahibi kişilerce bir ay içerisinde imzalanmaması halinde herhangi bir bildirime gerek kalmaksızın ilgili şebeke işletmecisi tarafından üretim tesisi durumu uygun hale getirilinceye kadar şebekeden ayrılır ve ayrılma gerekçesi üretim tesisi sahibi kişiye 3 (üç) işgünü içinde yazılı olarak bildirilir.\n (4) (Ek:RG-14/5/2024-32546) Kabulü tamamlanarak işletmeye alınan üretim tesislerinde, tesisin ticari faaliyete başladığı tarihi izleyen bir ay içerisinde taraflarca sistem kullanım anlaşmasının imzalanmaması durumunda, ilgili şebeke işletmecisi tarafından üretim tesisinin şebekeden ayrılma işlemleri yapılıncaya kadarki süreçte üretilen enerjinin, görevli tedarik şirketi tarafından üretilerek sisteme verilmiş olduğu kabul edilerek YEKDEM’e bedelsiz katkı olarak dikkate alınır. Bu fıkra kapsamında YEKDEM’e bedelsiz katkı olarak dikkate alınan enerji miktarı için oluşacak sistem kullanım bedeli, görevli tedarik şirketi aracılığıyla ilgili şebeke işletmecisine ödenir ve YEKDEM’e bedelsiz katkı olarak dikkate alınan enerji için lisanssız üretim tesisi sahibi kişilere herhangi bir fatura tebliğ edilmez.",
+      "preview": "(1) (Değişik:RG-2/4/2026-33212) Bu Yönetmelik hükümlerine göre şebekeye bağlanacak üretim tesislerinin yatırıma başlanması için gerekli olan…",
+      "kitap": null,
+      "kisim": null,
+      "bolum": null,
+      "ayirim": null,
+      "maddeBaslik": "Üretim tesislerinin işletmeye girmesi ve sistem kullanımı",
+      "sectionPath": [
+        "Üretim tesislerinin işletmeye girmesi ve sistem kullanımı"
+      ]
+    },
+    {
+      "id": "yonetmelik:31502:m:20",
+      "maddeKind": "madde",
+      "maddeNo": "20",
+      "heading": "Madde 20",
+      "text": "(1) Bu Yönetmelik kapsamında yenilenebilir enerji kaynaklarından üretim yapmak amacıyla ilgili şebeke işletmecisi ile bağlantı anlaşması ve sistem kullanım anlaşmasını imzalayan üreticilere, talep etmeleri halinde, Ek-2’de yer alan örneğe uygun Üretim Kaynak Belgesi ilgili şebeke işletmecisi tarafından verilir.\n (2) Bu madde kapsamında yapılacak başvurular, ilgili şebeke işletmecisi tarafından en geç on işgünü içerisinde sonuçlandırılır. Bu madde kapsamında aynı fatura dönemine ilişkin sadece bir kez Üretim Kaynak Belgesi verilir.",
+      "preview": "(1) Bu Yönetmelik kapsamında yenilenebilir enerji kaynaklarından üretim yapmak amacıyla ilgili şebeke işletmecisi ile bağlantı anlaşması ve…",
+      "kitap": null,
+      "kisim": null,
+      "bolum": null,
+      "ayirim": null,
+      "maddeBaslik": "Lisanssız üreticilere üretim kaynak belgesi verilmesi",
+      "sectionPath": [
+        "Lisanssız üreticilere üretim kaynak belgesi verilmesi"
+      ]
+    },
+    {
+      "id": "yonetmelik:31502:m:21",
+      "maddeKind": "madde",
+      "maddeNo": "21",
+      "heading": "Madde 21",
+      "text": "(1) Bu Yönetmeliğin uygulanması amacıyla üçüncü fıkra hükmü saklı kalmak kaydıyla;\n a) Üretim ve tüketim tesislerinin aynı yerde bulunması halinde, bağlantı anlaşmasında belirlenen yere ilgili mevzuatta uzlaştırma mekanizmasının gerektirdiği haberleşmeyi sağlayabilecek çift yönlü,\n b) Üretim tesisinin tüketim tesisiyle aynı yerde bulunmaması halinde ilgili tesislerin bağlantı anlaşmalarında belirlenen yerlere, ilgili mevzuatta uzlaştırma mekanizmasının gerektirdiği haberleşmeyi sağlayabilecek şekilde üretim tesisi için çift yönlü, tüketim tesisi için tek yönlü,\n elektronik sayaç takılır. (Ek cümle:RG-9/5/2021-31479) Çift yönlü sayaçlar için şebeke işletmesince kontrol amaçlı ikinci bir sayaç takılabilir.\n (2) Faturalamaya esas ölçüm noktası, şebekeye bağlantı noktasında birinci fıkraya uygun olarak tesis edilecek sayaçtır. Şebekeye bağlı her bir üretim tesisinin üretimini ölçmek amacıyla ayrı bir sayaç bulundurulması zorunludur ve bu sayaçtan elde edilen günlük bazdaki veriler ilgililerce Kurum tarafından istenen formata uygun olarak sunulur.\n (3) (Değişik:RG-9/5/2021-31479) Kurulu gücü 10 kW’ın üzerinde olan üretim tesisleri için birinci fıkraya göre tesis edilen sayaçların, ilgili mevzuata göre tesis edilecek otomatik sayaç okuma sistemine uyumlu olması zorunludur. 10 kW’ın üzerinde kurulu güce sahip üretim tesisleri için tesis edilen sayaçlar, ölçme ve haberleşme izleme sistemi ile irtibatlandırılır.\n (4) Bir tüketim tesisi için kurulacak, farklı teşvik fiyatlarına tabi yenilenebilir enerji kaynaklarına dayalı üretim tesisleri ile kojenerasyon ve mikrokojenerasyon tesislerinde üretilen elektrik enerjisinin ayrı ayrı saatlik ölçülmesine imkân verecek şekilde sayaç tesis edilir.\n (5) (Değişik:RG-11/8/2022-31920) Bu madde kapsamındaki sayaçlar dağıtım sistemine bağlanacak üretim tesisleri için ilgili dağıtım şebeke işletmecisi tarafından temin ve tesis edilir. İletim sistemine bağlanacak üretim tesisleri için kullanıcının mülkiyet sınırında kalan ölçüm noktalarına tesis edilecek sayaçlar kullanıcı tarafından temin edilir ve TEİAŞ tarafından tesis edilir.\n (6) Üretim tesisinin kabulü aşamasında ölçü sistemi, ikinci fıkra kapsamında tesis edilen sayacı da içerecek şekilde ilgili şebeke işletmecisinin yetkilisi tarafından kontrol edilerek mühürlenir ve kayıt altına alınır.\n (7) (Değişik:RG-9/5/2021-31479) Bu Yönetmelik kapsamındaki üretim tesislerinden kurulu gücü 50 kW ve üzeri olan üretim tesislerinin bağlı bulunduğu şebeke işletmecisine ait olan SCADA kontrol merkezine bağlantısı, Elektrik Şebeke Yönetmeliğinde yer alan hükümler doğrultusunda yapılır. Bağlantı için üretim tesisi tarafında gerekli olan ekipman ve altyapı üretim tesisi sahibi gerçek veya tüzel kişi tarafından temin ve tesis edilir.",
+      "preview": "(1) Bu Yönetmeliğin uygulanması amacıyla üçüncü fıkra hükmü saklı kalmak kaydıyla; a) Üretim ve tüketim tesislerinin aynı yerde bulunması ha…",
+      "kitap": null,
+      "kisim": null,
+      "bolum": null,
+      "ayirim": null,
+      "maddeBaslik": "Sayaçlar, uzaktan izleme, koruma ve kontrol sistemleri",
+      "sectionPath": [
+        "Sayaçlar, uzaktan izleme, koruma ve kontrol sistemleri"
+      ]
+    },
+    {
+      "id": "yonetmelik:31502:m:22",
+      "maddeKind": "madde",
+      "maddeNo": "22",
+      "heading": "Madde 22",
+      "text": "(1) Üretim tesisi, bağlantı (Ek ibare:RG-11/8/2022-31920) ve/veya sistem kullanım anlaşmasında yer alan anlaşma gücünden daha büyük güçte çalıştırılamaz. Üretim tesisinin bağlantı (Ek ibare:RG-11/8/2022-31920) ve/veya sistem kullanım anlaşmasında yer alan anlaşma gücünden daha büyük bir güçte çalıştırılması halinde (Ek ibare:RG-11/8/2022-31920) dağıtım sistemine bağlı üreticiler için Lisanssız Elektrik Üreticileri İçin Dağıtım Sistemine Bağlantı Anlaşmasında yer alan cezai şartlar (Ek ibare:RG-11/8/2022-31920) iletim sistemine bağlı üreticiler için iletim sistemi Sistem Kullanım Anlaşmasında yer alan cezai şartlar uygulanır.\n (2) (Ek:RG-9/5/2021-31479) Gerekli koşullarda üretim tesisinin bağlantısının kesilmesi Elektrik Piyasası Bağlantı ve Sistem Kullanım Yönetmeliğinin 27 nci maddesi uyarınca gerçekleştirilir.\n 12/5/2019 tarihinden önce bağlantı anlaşmasına çağrı mektubu almaya hak kazanan üretim tesisleri için ihtiyaç fazlası enerjinin tespiti (Değişik başlık:RG-2/4/2026-33212)1",
+      "preview": "(1) Üretim tesisi, bağlantı (Ek ibare:RG-11/8/2022-31920) ve/veya sistem kullanım anlaşmasında yer alan anlaşma gücünden daha büyük güçte ça…",
+      "kitap": null,
+      "kisim": null,
+      "bolum": null,
+      "ayirim": null,
+      "maddeBaslik": "İşletme",
+      "sectionPath": [
+        "İşletme"
+      ]
+    },
+    {
+      "id": "yonetmelik:31502:m:23",
+      "maddeKind": "madde",
+      "maddeNo": "23",
+      "heading": "Madde 23",
+      "text": "(1) (Değişik:RG-2/4/2026-33212)1 12/5/2019 tarihinden önce bağlantı anlaşmasına çağrı mektubu almaya hak kazanan yenilenebilir enerji kaynaklarına dayalı 5 inci maddenin birinci fıkrasının (c), (f) ve (g) bentleri kapsamındaki üretim tesisleri ile 5 inci maddenin birinci fıkrasının (e) ve yenilenebilir enerji kaynaklarına dayalı olmayan (f) bendi kapsamındaki tüm üretim tesislerinin mahsuplaşma işlemleri, ilgili şebeke işletmecisi tarafından saatlik olarak yapılır. Lisanssız üretim yapan gerçek ve tüzel kişilerin kendi ihtiyaçlarını karşılamak için üretim yapmaları esastır. Ancak 12/5/2019 tarihinden önce bağlantı anlaşmasına çağrı mektubu almaya hak kazanan 5 inci maddenin birinci fıkrasının (c) ve (g) bentlerinde belirtilen üretim tesislerinde üretilen elektrik enerjisinin, üretim tesisi ile aynı yerde kurulu tüketim tesisi ya da tesislerinde tüketilemeyen miktarı, aynı dağıtım bölgesinde olması şartıyla aynı kişiye ait başka bir tüketim tesisinde ya da tesislerinde tüketilebilir.\n (2) İlgili şebeke işletmecisi, bu Yönetmelik kapsamında üretim yapan gerçek ve tüzel kişilerin üreterek şebekeye verdikleri ihtiyaç fazlası elektrik enerjisi miktarlarını;\n a) Üretim tesisi ile tüketim tesisinin aynı yerde olması halinde bağlantı anlaşmasında belirlenen yere takılan sayaç verilerinden saatlik bazda ve/veya,\n b) Üretim tesisi ile tüketim tesisinin aynı yerde olmaması halinde üretim sayacından elde edilen saatlik verilerden, tüketim tesisine ilişkin saatlik sayaç verilerinin veya tüketim sayaçlarından saatlik bazda veri alınamayan tüketim tesisleri için dengeleme ve uzlaştırma işlemlerini düzenleyen ilgili mevzuat hükümleri uyarınca onaylanan profil uygulaması yapılarak elde edilen saatlik tüketim verilerinin mahsuplaştırılması suretiyle saatlik bazda,\n tespit eder.\n (3) İlgili şebeke işletmecisi, her bir üretici için ikinci fıkra kapsamında elde edilen saatlik verileri kaynak bazında bir araya getirerek fatura dönemi bazında şebekeye verilen ihtiyaç fazlası elektrik enerjisi miktarını belirler ve her ayın altıncı gününe kadar ilgili görevli tedarik şirketine bildirir.\n (4) İlgili şebeke işletmecileri, kendi şebekelerindeki lisanssız üreticilere ilişkin toplam ihtiyaç fazlası üretim miktarını;\n a) 24 üncü maddenin birinci fıkrası kapsamındaki lisanssız üreticiler için kaynak bazında,\n b) (Değişik:RG-2/4/2026-33212)1 24 üncü maddenin ikinci ve üçüncü fıkraları kapsamındaki lisanssız üreticiler için,\n c) Bu Yönetmelik ve ilgili mevzuat kapsamında YEKDEM’e bedelsiz katkı olarak dikkate alınacak diğer durumlar için,\n ayrı ayrı toplam değerler olarak piyasa işletmecisine Piyasa Yönetim Sistemi vasıtası ile her ay saatlik bazda, uzlaştırma işlemlerini düzenleyen ilgili mevzuat hükümlerinde uzlaştırmaya esas veriş-çekiş birimi konfigürasyonlarında yer alan sayaçların değerlerinin bildirilmesine ilişkin düzenlenmiş takvime uygun olarak bildirir.\n (5) Lisanssız üretim tesisi ile ilişkilendirilen tüketim tesisinin serbest tüketici olarak ikili anlaşma ile enerji tedarik etmesi halinde, Piyasa Yönetim Sisteminde kayıtlı tüketim noktası için sayaçta okunan değer yerine lisanssız üretim kapsamında yapılan üretim ve tüketimin mahsuplaştırılması neticesinde ortaya çıkan değer girilir. Bu kapsamda üretim tesisi ile ilişkilendirilen birden fazla tüketim tesisinin olması halinde, serbest tüketici olunan durumlar için tüketim tesislerinin tamamının tedarikçi seçme hakkını kullanıyor olması ve bütün tesislerin enerji tedariğinin tek bir tedarikçiden karşılanması zorunludur. Bütün tesislerin enerji tedariğinin tek bir tedarikçiden karşılanmadığı durumlarda ilgili aya ilişkin üretilen enerjinin görevli tedarik şirketi tarafından üretilerek sisteme verilmiş olduğu kabul edilerek bu enerji ile ilgili olarak piyasa işletmecisi ve görevli tedarik şirketi tarafından herhangi bir ödeme yapılmaz ve bu kapsamda sisteme verilen enerji YEKDEM’e bedelsiz katkı olarak dikkate alınır.\n (6) Serbest bölgelerde bu Yönetmelik kapsamında kurulacak üretim tesislerinden sisteme verilen enerji, ancak serbest bölge sınırları içerisinde tüketilebilir. Bu kapsamda sisteme verilen enerji için herhangi bir bedel ödenmez ve bu kapsamda sisteme verilen enerji YEKDEM’e bedelsiz katkı olarak dikkate alınır.\n 12/5/2019 tarihinden önce bağlantı anlaşmasına çağrı mektubu almaya hak kazanan üretim tesisleri için ihtiyaç fazlası enerjinin değerlendirilmesi",
+      "preview": "(1) (Değişik:RG-2/4/2026-33212)1 12/5/2019 tarihinden önce bağlantı anlaşmasına çağrı mektubu almaya hak kazanan yenilenebilir enerji kaynak…",
+      "kitap": null,
+      "kisim": null,
+      "bolum": null,
+      "ayirim": null,
+      "maddeBaslik": "İşletme",
+      "sectionPath": [
+        "İşletme"
+      ]
+    },
+    {
+      "id": "yonetmelik:31502:m:24",
+      "maddeKind": "madde",
+      "maddeNo": "24",
+      "heading": "Madde 24",
+      "text": "(Başlığı ile Birlikte Değişik:RG-2/4/2026-33212)1\n (1) 12/5/2019 tarihinden önce bağlantı anlaşmasına çağrı mektubu almaya hak kazanan 5 inci maddenin birinci fıkrasının (c), (f) ve (g) bentleri kapsamında yenilenebilir enerji kaynaklarına dayalı olarak gerçek veya tüzel kişiler tarafından kurulan ve işletilen;\n a) Tüketim tesisi ile aynı yerde kurulu üretim tesisinde ya da tesislerinde üretilerek her fatura döneminde şebekeye verilen net elektrik enerjisi,\n b) Tüketim tesisi ile aynı yerde kurulu olmayan üretim tesisinde ya da tesislerinde üretilerek şebekeye verilen elektrik enerjisinden ilgili tüketim tesisinde, her fatura dönemi için tüketilemeyen net elektrik enerjisi miktarı,\n ihtiyaç fazlası elektrik enerjisi olarak görevli tedarik şirketi tarafından ilgisine göre belirlenen fiyattan, YEKDEM kapsamında değerlendirilmek üzere on yıl süreyle satın alınır. Bu süre ilgili üretim tesisinin 19 uncu maddenin ikinci fıkrası çerçevesinde şebekeye enerji vermeye başladığı tarihten itibaren hesaplanır. On yıllık sürenin bitiminden itibaren bu tesislerle ilgili uygulamaya ilişkin usul ve esaslar YEK Kanununun 6 ncı maddesinin ikinci fıkrası uyarınca Cumhurbaşkanı tarafından belirlenir.\n (2) 5 inci maddenin birinci fıkrasının (e) ve (f) bentleri kapsamında yenilenebilir enerji kaynakları dışında diğer kaynaklardan, gerçek veya tüzel kişilerce kurulan üretim tesislerinde üretilerek sisteme verilen net enerji miktarı, görevli tedarik şirketi tarafından YEK Kanununa ekli I sayılı Cetvelde belirlenen en düşük fiyattan, tesisin şebekeye enerji vermeye başladığı tarihten itibaren on yıl süreyle satın alınır. Sisteme verilmiş olan enerji görevli tedarik şirketlerince perakende satış tarifesi kapsamında elektrik tedarik ettiği müşterilerine sattığı elektrik içinde değerlendirilir.\n (3) Bir tüketim tesisi için bu madde kapsamında farklı yenilenebilir enerji kaynaklarına dayalı birden çok üretim tesisinin veya yenilenebilir enerji kaynaklarına dayalı bir üretim tesisi ile mikrokojenerasyon tesisinin kurulması halinde, şebekeye verilen ihtiyaç fazlası enerjinin hangi üretim tesisinden verildiğinin tespit edilememesi durumunda, bu tesislerden şebekeye verilen enerji, ilgisine göre en düşük olan fiyattan YEKDEM kapsamında değerlendirilmek üzere satın alınır.\n (4) İkinci fıkra kapsamındaki elektrik enerjisi görevli tedarik şirketi tarafından düzenlenen tarife kapsamında enerji alan tüketicilere satılabilir.\n (5) Lisanssız üreticiler bu Yönetmelik kapsamındaki üretimleri için ikili anlaşma ve/veya organize toptan elektrik piyasalarında satış yapamazlar.\n 12/5/2019 tarihinden önce bağlantı anlaşmasına çağrı mektubu almaya hak kazanan üretim tesisleri için ihtiyaç fazlası enerjinin bedelinin ödenmesi ve satın alınması (Değişik başlık:RG-2/4/2026-33212)1",
+      "preview": "(Başlığı ile Birlikte Değişik:RG-2/4/2026-33212)1 (1) 12/5/2019 tarihinden önce bağlantı anlaşmasına çağrı mektubu almaya hak kazanan 5 inci…",
+      "kitap": null,
+      "kisim": null,
+      "bolum": null,
+      "ayirim": null,
+      "maddeBaslik": "İşletme",
+      "sectionPath": [
+        "İşletme"
+      ]
+    },
+    {
+      "id": "yonetmelik:31502:m:25",
+      "maddeKind": "madde",
+      "maddeNo": "25",
+      "heading": "Madde 25",
+      "text": "(1) (Değişik:RG-2/4/2026-33212)1 12/5/2019 tarihinden önce bağlantı anlaşmasına çağrı mektubu almaya hak kazanan üretim tesislerine ilişkin görevli tedarik şirketi, YEKDEM kapsamında satın almakla yükümlü olduğu enerji miktarı için her bir üreticiye her bir fatura dönemi için yapacağı ödeme tutarını hesaplamak için sırasıyla aşağıdaki işlemleri yapar:\n a) 24 üncü maddenin birinci fıkrası kapsamında satın almakla yükümlü olduğu enerji miktarı için yapılacak ödemeyi; 23 üncü maddenin üçüncü fıkrasına göre her bir üretici için belirlenerek kendisine bildirilen ihtiyaç fazlası üretim miktarını 24 üncü maddesinin birinci fıkrası uyarınca belirlenen fiyatla çarparak belirler.\n b) Bu fıkranın (a) bendine göre her bir üretici için bulduğu bedelleri kaynak bazında toplayarak kaynak bazında yapılacak ödemeyi belirler.\n c) 24 üncü maddenin üçüncü fıkrası kapsamında satın almakla yükümlü olduğu enerji miktarı için yapılacak ödemeyi; 23 üncü maddenin üçüncü fıkrasına göre her bir üretici için belirlenerek kendisine bildirilen ihtiyaç fazlası üretim miktarını ilgisine göre en düşük olan fiyatla çarparak belirler.\n ç) Bu fıkranın (b) bendine göre kaynak bazında belirlediği bedellerin toplamı ile (c) bendi kapsamında belirlenen bedeli toplayarak ilgili fatura dönemi için piyasa işletmecisine bildireceği lisanssız üreticilere ödenecek toplam bedeli (LÜYTOB) belirler.\n d) Bu fıkranın (ç) bendi uyarınca belirlenen LÜYTOB miktarını piyasa işletmecisine piyasa yönetim sistemi üzerinden her ay uzlaştırma işlemlerini düzenleyen ilgili mevzuat hükümlerinde uzlaştırmaya esas veriş-çekiş birimi konfigürasyonlarında yer alan sayaçların değerlerinin bildirilmesine ilişkin düzenlenmiş takvime uygun olarak bildirir.\n e) Piyasa işletmecisi tarafından kendisine yapılan ödemeyi, kendisine ödeme yapılan takvim ayını izleyen ayın en geç beşinci iş günü ilgili üreticilere öder ve ödemelerin tamamlanıp tamamlanmadığını, bahse konu tarihi takip eden hafta içinde Kuruma bildirir.\n f) Piyasa işletmecisi tarafından eksik ödeme yapılması halinde, kendisine yapılan ödemeyi kendisine ödeme yapılan takvim ayını izleyen ayın en geç beşinci iş günü ilgili üreticilere, üreticilerin düzenledikleri faturaların fatura düzenleme tarihi dikkate alınarak eskiden yeniye doğru sırasıyla öder. Faturaların tarih sıralamasında, fatura tarihi aynı olan faturaların olması durumunda, aynı tarihli faturalar düşük bedelden yüksek bedel sırasına konularak en düşükten en yükseğe doğru ödemeler gerçekleştirilir.\n g) Bu fıkra kapsamında piyasa işletmecisi tarafından yapılan ödemelerin izleyen ayda yapılması durumunda; kendisine yapılan ödemeyi, kendisine ödeme yapılan tarihi izleyen üç iş günü içerisinde ilgili üreticilere öder ve ödemelerin tamamlanıp tamamlanmadığını, bahse konu tarihi takip eden hafta içinde Kuruma bildirir.\n (2) Görevli tedarik şirketleri 24 üncü maddenin ikinci fıkrası kapsamında satın almakla yükümlü oldukları enerji miktarı için her bir üreticiye yapacağı ödeme tutarını hesaplamak için sırasıyla aşağıdaki işlemleri yapar:\n a) 23 üncü maddenin üçüncü fıkrasına göre her bir üretici için belirlenerek kendisine bildirilen ihtiyaç fazlası üretim miktarını YEK Kanununa ekli I sayılı Cetvelde öngörülen en düşük fiyatla çarparak yapılacak ödemeyi belirler.\n b) 23 üncü maddenin üçüncü fıkrası kapsamında kendisine yapılan bildirim tarihini izleyen altı gün içerisinde, şebekeye verilen ihtiyaç fazlası enerji miktarı ile enerji alımına esas birim fiyatı ilgili kişiye bildirir.\n c) İlgili kişi tarafından düzenlenen faturanın görevli tedarik şirketine tebliğ tarihini izleyen on işgünü içerisinde, fatura bedelini ilgili kişinin bildireceği banka hesabına yatırır.\n (3) (Değişik:RG-2/4/2026-33212)1 Görevli tedarik şirketinin, ödemede temerrüde düşmesi halinde, 21/7/1953 tarihli ve 6183 sayılı Amme Alacaklarının Tahsil Usulü Hakkında Kanunun 51 inci maddesine göre belirlenen gecikme zammı iki katı oranında uygulanır. Ayrıca; görevli tedarik şirketi hakkında, 14/4/2009 tarihli ve 27200 sayılı Resmî Gazete’de yayımlanan Elektrik Piyasası Dengeleme ve Uzlaştırma Yönetmeliğinin 132/Ç maddesinin on yedinci fıkrası kapsamında işlem tesis edilir.\n (4) Görevli tedarik şirketi tarafından, satın almakla yükümlü olduğu ihtiyaç fazlası enerji miktarına ilişkin YEK Kanununa ekli I sayılı Cetvelde yer alan fiyatlara göre yapılacak ödemelerde, enerjinin sisteme verildiği gündeki Türkiye Cumhuriyet Merkez Bankası döviz alış kuru kullanılır.",
+      "preview": "(1) (Değişik:RG-2/4/2026-33212)1 12/5/2019 tarihinden önce bağlantı anlaşmasına çağrı mektubu almaya hak kazanan üretim tesislerine ilişkin…",
+      "kitap": null,
+      "kisim": null,
+      "bolum": null,
+      "ayirim": null,
+      "maddeBaslik": "İşletme",
+      "sectionPath": [
+        "İşletme"
+      ]
+    },
+    {
+      "id": "yonetmelik:31502:m:26",
+      "maddeKind": "madde",
+      "maddeNo": "26",
+      "heading": "Madde 26",
+      "text": "(Başlığı ile Birlikte Değişik:RG-2/4/2026-33212)1\n (1) 5 inci maddenin birinci fıkrasının (ç) ve (d) bentleri kapsamındaki tüm üretim tesisleri ile 12/5/2019 tarihinden itibaren bağlantı anlaşmasına çağrı mektubu almaya hak kazanan yenilenebilir enerji kaynaklarına dayalı üretim tesislerinin mahsuplaşma işlemleri, piyasa işletmecisi tarafından yirminci fıkra hükmü saklı kalmak kaydıyla saatlik olarak yapılır. İlgili şebeke işletmecisi, bu Yönetmeliğin yürürlüğe girdiği tarih itibarıyla yapılacak başvurular neticesinde bağlantı anlaşmasına çağrı mektubu almaya hak kazanan yenilenebilir enerji kaynaklarına dayalı üretim tesisleri için, üretilerek şebekeye verilen elektrik enerjisi miktarını bağlantı anlaşmasında belirlenen yere takılan sayaç verilerinden saatlik bazda tespit eder.\n (2) İlgili şebeke işletmecisi, bu madde kapsamındaki her bir üretici için birinci fıkra kapsamında;\n a) İlgili fatura dönemi için saatlik bazda şebekeye verilen ve şebekeden çekilen elektrik enerjisi miktarını,\n b) Bu Yönetmelik kapsamında üretilen enerjinin kısmen veya tamamen YEKDEM’e bedelsiz katkı olarak değerlendirilmesi gereken halleri,\n belirler ve her ay uzlaştırma işlemlerini düzenleyen ilgili mevzuat hükümlerinde uzlaştırmaya esas veriş-çekiş birimi konfigürasyonlarında yer alan sayaçların değerlerinin bildirilmesine ilişkin düzenlenmiş takvime uygun olarak ilgili görevli tedarik şirketlerine ve piyasa işletmecisine Piyasa Yönetim Sistemi vasıtası ile belirlenen formatta bildirir.\n (3) Bu madde kapsamında piyasa işletmecisi tarafından gerçekleştirilen mahsuplaşma işlemi sonucunda; abone grubu ve kaynak bazında hesaplanan saatlik üretim miktarı, uzlaştırma işlemlerini teminen ilgisine göre oluşturulmuş olan sanal sayaçlara piyasa işletmecisi tarafından kaydedilir.\n (4) Birinci fıkrada belirtilen koşulları sağlayarak 5 inci maddenin birinci fıkrasının (c), (f), (g), (ğ), (h), (ı) ve (i) bentleri ile 11 inci maddenin birinci ve üçüncü fıkraları kapsamında yenilenebilir enerji kaynaklarına dayalı olarak gerçek veya tüzel kişiler tarafından kurulan ve işletilen üretim tesislerinde bu madde kapsamında gerçekleştirilen mahsuplaşma sonucunda her bir saatte şebekeye verilen ihtiyaç fazlası elektrik enerjisi görevli tedarik şirketi tarafından, on yıl süreyle satın alınır. Bu süre ilgili üretim tesisinin 19 uncu maddenin ikinci fıkrası çerçevesinde şebekeye enerji vermeye başladığı tarihten itibaren hesaplanır. On yıllık sürenin bitiminden itibaren bu tesislerle ilgili uygulamaya ilişkin usul ve esaslar YEK Kanununun 6 ncı maddesinin ikinci fıkrası uyarınca Cumhurbaşkanı tarafından belirlenir.\n (5) 5 inci maddenin birinci fıkrasının;\n a) (ç) bendi kapsamında kurulan üretim tesislerinde,\n b) (d) bendi kapsamında kurulan üretim tesislerinde,\n c) (ç) ve (d) bentleri kapsamındaki üretim tesislerinin birlikte kurulması durumunda,\n ç) (ç) ve/veya (d) bentleri kapsamındaki üretim tesisleri ile aynı fıkranın diğer bentleri kapsamında kurulabilecek üretim tesislerinin birlikte kurulması ve şebekeye verilen ihtiyaç fazlası enerjinin hangi üretim tesisinden verildiğinin tespit edilememesi durumunda,\n bu madde kapsamındaki mahsuplaşma sonucunda şebekeye enerji verilmesi halinde, söz konusu enerji miktarı ilgili mevzuat uyarınca YEKDEM kapsamında değerlendirilir. Ancak bu enerjinin görevli tedarik şirketi tarafından üretilerek sisteme verilmiş olduğu kabul edilir ve bu enerji ile ilgili olarak piyasa işletmecisi ve görevli tedarik şirketi tarafından herhangi bir ödeme yapılmaz ve bu kapsamda sisteme verilen enerji YEKDEM’e bedelsiz katkı olarak dikkate alınır.\n (6) Piyasa işletmecisi; görevli tedarik şirketinin, bu madde kapsamındaki her bir üretici ve her bir tedarikçiye fatura dönemi için yapacağı ödeme tutarını hesaplamak için sırasıyla aşağıdaki işlemleri yapar:\n a) Görevli tedarik şirketinin dördüncü fıkra kapsamında satın almakla yükümlü olduğu enerji miktarı için yapılacak ödemeyi; ikinci fıkraya göre her bir üretici için tespit edilen üretim miktarını ilgisine göre belirlenen fiyatla çarparak belirler.\n b) Bu fıkranın (a) bendine göre her bir üretici için bulduğu bedelleri abone grupları ve kaynak bazında toplayarak yapılacak ödemeyi belirler.\n c) Bu fıkranın (b) bendine göre abone grupları ve kaynak bazında belirlediği bedellerin toplamını, ilgili fatura dönemi için LÜYTOB tutarı olarak ilgisine göre, görevli tedarik şirketi için oluşturulan uzlaştırmaya esas veriş-çekiş birimine kaydeder.\n ç) Her bir üreticiye ait üretim ve tüketim miktarının bu madde kapsamında mahsuplaştırılması sonrasında sistemden net olarak enerji çekilen durumlar için ilgili mevzuattan kaynaklı işlemlerin yapılabilmesini teminen, ilgili net tüketim miktarını ve üretim ile mahsuplaşan tüketim miktarını (c) bendi ile eş zamanlı olarak ilgili tedarikçilere bildirir.\n (7) Görevli tedarik şirketi, bu madde kapsamında sırasıyla aşağıdaki işlemleri yapar:\n a) Yenilenebilir Enerji Kaynaklarının Belgelendirilmesi ve Desteklenmesine İlişkin Yönetmeliğin 27 nci maddesi kapsamında oluşan tutarları LÜYTOB’a alacak veya borç olarak yansıtılmasını teminen, düzenlenmiş takvime uygun olarak Piyasa Yönetim Sistemine bildirir.\n b) Sisteme verilen enerjiye istinaden piyasa işletmecisi tarafından kendisine yapılan ödemeye ilişkin olarak, dördüncü fıkra kapsamındaki tesisler için bu madde kapsamında gerçekleştirilen mahsuplaşma sonucunda ihtiyaç fazlası enerji oluşması halinde, altıncı fıkranın (a) bendi kapsamında hesaplanan ödemenin söz konusu ihtiyaç fazlası enerjiye tekabül eden kısmını kendisine ödeme yapılan takvim ayını izleyen ayın en geç beşinci iş günü ilgili üreticilere öder ve ödemelerin tamamlanıp tamamlanmadığına ilişkin Kuruma bildirimde bulunur.\n c) Sisteme verilen enerjiye istinaden piyasa işletmecisi tarafından kendisine yapılan ödemeye ilişkin olarak; mahsuplaşılan tüketim miktarı için, düzenlenmiş tarifede tüketim tesisinin abone grubuna göre hesaplanan bedeli, kendisine ödeme yapılan takvim ayını izleyen ayın en geç beşinci iş günü ilgili tedarikçilere öder.\n ç) Piyasa işletmecisi tarafından eksik ödeme yapılması halinde, kendisine yapılan ödemeyi kendisine ödeme yapılan takvim ayını izleyen ayın en geç beşinci iş günü ilgili üreticilere ve tedarikçilere, ilgililerin düzenledikleri faturaların fatura düzenleme tarihi dikkate alınarak eskiden yeniye doğru sırasıyla öder. Faturaların tarih sıralamasında, fatura tarihi aynı olan faturaların olması durumunda, aynı tarihli faturalar düşük bedelden yüksek bedel sırasına konularak en düşükten en yükseğe doğru ödemeler gerçekleştirilir.\n d) Bu fıkra kapsamında piyasa işletmecisi tarafından yapılan ödemelerin izleyen ayda yapılması durumunda; kendisine yapılan ödemeyi, kendisine ödeme yapılan tarihi izleyen üç iş günü içerisinde ilgili üreticilere ve tedarikçilere öder ve ödemelerin tamamlanıp tamamlanmadığını, bahse konu tarihi takip eden hafta içinde Kuruma bildirir.\n (8) Bu madde kapsamında yapılan kWh cinsinden mahsuplaşma işlemi sonrasında sistemden net olarak enerji çekilmesi halinde, ilgili tedarikçilerce görevli tedarik şirketi tarafından yedinci fıkranın (c) bendi uyarınca ödemesi gerçekleştirilecek tüketimden arta kalan kWh cinsinden net tüketim için tedarikçi ve tüketici arasındaki mevcut sözleşme hükümlerine göre fatura tahakkuk ettirilerek bedeller tahsil edilir. Bu fıkra hükmü kapsamında işlem tesis etmeyen tedarikçiler için Kanunun 16 ncı maddesi kapsamında işlem tesis edilir.\n (9) Sisteme iletim seviyesinden bağlı tüketim tesisleri için 5 inci maddenin birinci fıkrasının (ç) ve (h) bentleri kapsamında sisteme dağıtım veya iletim seviyesinden bağlanan üretim tesisi veya tesisleri kurulması halinde, tüketim tesisine ait elektrik enerjisi çekiş miktarları bağlantı anlaşmasında belirlenen yere takılan sayaç verilerinden saatlik bazda tespit edilerek TEİAŞ tarafından uzlaştırma işlemlerini düzenleyen ilgili mevzuat hükümlerinde uzlaştırmaya esas veriş-çekiş birimi konfigürasyonlarında yer alan sayaçların değerlerinin bildirilmesine ilişkin düzenlenmiş takvime uygun olarak piyasa işletmecisine bildirilir ve bu madde kapsamındaki iş ve işlemler piyasa işletmecisi ile görevli tedarik şirketi tarafından yürütülür.\n (10) Görevli tedarik şirketinin ödemede temerrüde düşmesi halinde, Amme Alacaklarının Tahsil Usulü Hakkında Kanunun 51 inci maddesine göre belirlenen gecikme zammı iki katı oranında uygulanır. Ayrıca; görevli tedarik şirketi hakkında, Elektrik Piyasası Dengeleme ve Uzlaştırma Yönetmeliğinin 132/Ç maddesinin on yedinci fıkrası kapsamında işlem tesis edilir.\n (11) 30/6/2021 tarihinden itibaren ilk defa işletmeye girecek olan ve şebekeye verdiği ihtiyaç fazlası enerjisi belirli bir fiyattan satın alınan lisanssız üretim tesislerine Türk lirası olarak uygulanacak yerli katkı fiyatları, bu fiyatların güncellenmesi, uygulanacak süre ve uygulamaya ilişkin diğer usul ve esaslar YEK Kanununun 6/B maddesinin ikinci fıkrası uyarınca Cumhurbaşkanı tarafından belirlenir.\n (12) Sisteme dağıtım seviyesinden bağlı tüketim tesisleri için 5 inci maddenin birinci fıkrasının (h) bendi kapsamında sisteme iletim seviyesinden bağlanan üretim tesisi veya tesisleri kurulması halinde, üretim tesisine ait elektrik enerjisi veriş miktarları bağlantı anlaşmasında belirlenen yere takılan sayaç verilerinden saatlik bazda tespit edilerek TEİAŞ tarafından her ay uzlaştırma işlemlerini düzenleyen ilgili mevzuat hükümlerinde uzlaştırmaya esas veriş-çekiş birimi konfigürasyonlarında yer alan sayaçların değerlerinin bildirilmesine ilişkin düzenlenmiş takvime uygun olarak piyasa işletmecisine bildirilir ve bu madde kapsamındaki iş ve işlemler piyasa işletmecisi ile görevli tedarik şirketi tarafından yürütülür.\n (13) 5 inci maddenin birinci fıkrasının (h) bendi kapsamında sisteme farklı dağıtım bölgesi sınırları içerisinden bağlanacak şekilde üretim tesisi veya tesisleri kurulması halinde, tüketim tesis veya tesislerine ait elektrik enerjisi çekiş miktarları ve varsa aynı ölçüm noktasında üretim tesisine ait veriş miktarları bağlantı anlaşmasında belirlenen yere takılan sayaç verilerinden saatlik bazda tespit edilerek ilgili şebeke işletmecisi tarafından her ay uzlaştırma işlemlerini düzenleyen ilgili mevzuat hükümlerinde uzlaştırmaya esas veriş-çekiş birimi konfigürasyonlarında yer alan sayaçların değerlerinin bildirilmesine ilişkin düzenlenmiş takvime uygun olarak ilgili görevli tedarik şirketine veya piyasa işletmecisine bildirilir. Bu madde kapsamında bir veya birden fazla tüketim tesisi için birden fazla üretim tesisi kurulmak istenmesi halinde, farklı görevli tedarik şirketi bölgesi sınırları içinde de üretim tesisi kurulabilir. Üretim ve/veya tüketim tesislerinin farklı dağıtım ya da görevli tedarik şirketi bölgesi sınırları içinde olması durumunda mahsuplaşma işlemleri, piyasa işletmecisi tarafından yürütülür.\n (14) Bünyesinde lisanslı üretim tesisi bulunduran tüketim tesisleri için, farklı ölçüm noktasında olmak kaydıyla, 5 inci maddenin birinci fıkrasının (h) bendi kapsamındaki üretim tesisi kurulması halinde, tüketim tesisinin tüketimi ile 5 inci maddenin birinci fıkrasının (h) bendi kapsamında kurulan tesis için yapılacak bu madde kapsamındaki mahsuplaşma sonrasında şebekeye verilen ihtiyaç fazlası enerji ilgili mevzuat uyarınca, YEK Kanununa ekli I sayılı Cetvelde lisanssız üretim tesisleri için belirlenen fiyat üzerinden YEKDEM kapsamında değerlendirilir. Bu fıkra kapsamında yer alan tüketim tesislerinin ayrıca tüketim aboneliğinin bulunmaması halinde, bağlantı anlaşmasındaki sözleşme gücü olarak ilgili üretim tesisi için imzalanmış olan bağlantı anlaşmalarında yer alan çekiş yönlü güç esas alınır.\n (15) Mahsuplaşma işlemleri bu madde kapsamında yürütülen, 5 inci maddenin birinci fıkrasının (ç) bendi kapsamında yer alan üretim tesisleri ile farklı ölçüm noktasında olmak kaydıyla, 5 inci maddenin birinci fıkrasının (h) bendi kapsamındaki üretim tesislerinin birlikte kurulması halinde, 5 inci maddenin birinci fıkrasının (ç) bendi kapsamındaki tesisin çalışması şartıyla; bu madde kapsamındaki mahsuplaşma sonucunda 5 inci maddenin birinci fıkrasının (h) bendi kapsamındaki tesisten şebekeye enerji verilmesi halinde, söz konusu enerji miktarı ilgili mevzuat uyarınca altıncı fıkrada yer alan usule uygun olarak YEKDEM kapsamında değerlendirilir. Bu fıkra kapsamında yer alan üretim tesislerinin toplam kurulu gücü, 5 inci maddenin birinci fıkrasının (h) bendi uyarınca ilişkili tüketim tesisine göre belirlenecek toplam kurulu güçten fazla olamaz.\n (16) 5 inci maddenin birinci fıkrasının (d) bendi kapsamında kurulu üretim tesisleriyle, aynı veya farklı dağıtım bölgesinde ve farklı ölçüm noktasında olmak ve 5 inci maddenin birinci fıkrasının (d) bendi kapsamındaki üretim tesisinden şebekeye enerji verilmemesi kaydıyla, aynı fıkranın (h) bendi kapsamındaki üretim tesislerinin birlikte kurulması halinde, bu madde kapsamında yapılacak mahsuplaşma sonrasında şebekeye verilen ihtiyaç fazlası enerji ilgili mevzuat uyarınca, YEK Kanununa ekli I sayılı Cetvelde lisanssız üretim tesisleri için belirlenen fiyat üzerinden YEKDEM kapsamında değerlendirilir.\n (17) 12/5/2019 tarihinden itibaren yapılan başvurular neticesinde bağlantı anlaşmasına çağrı mektubu almaya hak kazanan üretim tesislerinin bir takvim yılı içerisinde üretebileceği enerji miktarı, ilişkili tüketim tesisi veya tesislerinin yıllık toplam elektrik enerjisi tüketim miktarının iki katını geçemez. Bu sınır;\n a) Üretim tesisiyle ilişkili tüketim tesisi veya tesislerinin bir önceki takvim yılında şebekeden çektiği mahsuplaşma öncesi toplam elektrik enerjisi tüketiminin iki katı,\n b) (a) bendi kapsamında tüketim tesisi veya tesislerinde bir önceki takvim yılını kapsayacak şekilde tüketim olmaması halinde, mevcut aylık tüketimlerinin ortalaması alınarak yıllık bazda bulunan miktarın iki katı,\n c) İlgili tüketim tesisi veya tesislerinin, içinde bulunulan yılda şebekeden çektiği mahsuplaşma öncesi toplam elektrik enerjisi tüketiminin, (a) veya (b) bentleri uyarınca belirlenen toplam elektrik enerjisi tüketimini geçmesi halinde; içinde bulunulan yılda şebekeden çektiği mahsuplaşma öncesi toplam elektrik enerjisi tüketiminin iki katı,\n olarak esas alınır. Üretim tesisiyle tüketim tesisinin aynı ölçüm noktasında yer alması durumunda, mahsuplaşma öncesi tüketim miktarı; çift yönlü sayaç üzerinden şebekeden çekilen enerji ile tek yönlü üretim sayacından tüketim tesisine verilen enerjinin toplamı olarak belirlenir. Bu sınırın üzerinde sisteme verilen enerji, mahsuplaşmaya konu edilebilir. Ancak bu sınırın üzerinde olup mahsuplaşma sonrası sisteme verilen ihtiyaç fazlası enerjinin, görevli tedarik şirketi tarafından üretilerek sisteme verilmiş olduğu kabul edilerek YEKDEM’e bedelsiz katkı olarak dikkate alınır. Bu fıkra kapsamında YEKDEM’e bedelsiz katkı olarak dikkate alınan enerji miktarı için oluşacak sistem kullanım bedeli, görevli tedarik şirketi aracılığıyla ilgili şebeke işletmecisine ödenir ve YEKDEM’e bedelsiz katkı olarak dikkate alınan enerji için lisanssız üretim tesisi sahibi kişilere herhangi bir fatura tebliğ edilmez. Bu fıkra hükmü, mesken abone grubundaki tüketim tesisleri ile ilişkilendirilen üretim tesisleri için uygulanmaz.\n (18) Üretim ve/veya tüketim tesislerinin farklı dağıtım ya da görevli tedarik şirketi bölgesi sınırları içinde olması halinde, piyasa işletmecisi tarafından yürütülecek mahsuplaşma işlemlerine ilişkin usul ve esaslar Kurul tarafından belirlenir.\n (19) On yedinci fıkra kapsamındaki satışa konu edilebilecek ihtiyaç fazlası enerji miktarının hesaplanmasına ve takibine ilişkin işlemler, piyasa işletmecisi tarafından yürütülür.\n (20) Bu madde kapsamında yapılacak mahsuplaşma işlemleriyle ilgili olarak 12/5/2019 tarihinden itibaren bağlantı anlaşmasına çağrı mektubu almaya hak kazanan mesken abonelikleriyle ilişkili olan üretim tesislerinin mahsuplaşma işlemleri, piyasa işletmecisi tarafından aylık olarak yürütülür.",
+      "preview": "(Başlığı ile Birlikte Değişik:RG-2/4/2026-33212)1 (1) 5 inci maddenin birinci fıkrasının (ç) ve (d) bentleri kapsamındaki tüm üretim tesisle…",
+      "kitap": null,
+      "kisim": null,
+      "bolum": null,
+      "ayirim": null,
+      "maddeBaslik": "Mahsuplaşma işlemleri",
+      "sectionPath": [
+        "Mahsuplaşma işlemleri"
+      ]
+    },
+    {
+      "id": "yonetmelik:31502:m:27",
+      "maddeKind": "madde",
+      "maddeNo": "27",
+      "heading": "Madde 27",
+      "text": "(1) Bu Yönetmelik kapsamında üretim yapan gerçek ve tüzel kişiler, 23 üncü, 24 üncü, 25 inci ve 26 ncı maddeler uyarınca (Değişik ibare:RG-2/4/2026-33212) görevli tedarik şirketi veya toplayıcı tarafından yapılan iş ve işlemlere, işlemin kendilerine bildirim tarihinden itibaren üç işgünü içerisinde itiraz edebilir.\n (2) (Değişik ibare:RG-2/4/2026-33212) Görevli tedarik şirketi veya toplayıcı, itiraz tarihinden itibaren beş işgünü içerisinde itiraza konu işlemi yeniden inceleyerek gerektiği takdirde düzeltir ve sonucu itiraz sahibine bildirir.\n (3) Ödemeye esas miktarların ve bedelin değişmesi halinde fark bir sonraki fatura döneminde düzeltilir.",
+      "preview": "(1) Bu Yönetmelik kapsamında üretim yapan gerçek ve tüzel kişiler, 23 üncü, 24 üncü, 25 inci ve 26 ncı maddeler uyarınca (Değişik ibare:RG-2…",
+      "kitap": null,
+      "kisim": null,
+      "bolum": null,
+      "ayirim": null,
+      "maddeBaslik": "İtirazlar",
+      "sectionPath": [
+        "İtirazlar"
+      ]
+    },
+    {
+      "id": "yonetmelik:31502:m:28",
+      "maddeKind": "madde",
+      "maddeNo": "28",
+      "heading": "Madde 28",
+      "text": "(Değişik:RG-2/4/2026-33212)[2]\n (1) Lisanssız üretim yapan gerçek ve tüzel kişilerin bir dağıtım bölgesinde kurulu üretim tesisinde ürettikleri enerji 5 inci maddenin beşinci fıkrası hükmü saklı kalmak kaydıyla, ancak aynı dağıtım bölgesi içerisinde yer alan ve aynı kişiye ait tüketim tesisi ya da tesislerinde tüketilebilir. 5 inci maddenin birinci fıkrasının (h) bendi kapsamındaki üretim tesislerinde üretilen enerji, aynı dağıtım bölgesi içerisinde yer alma şartı aranmaksızın aynı kişiye ait tüketim tesisi ya da tesislerinde tüketilebilir. Bu hüküm kapsamında bir üretim tesisiyle birden fazla tüketim tesisinin ilişkilendirilmiş olması ve 26 ncı madde kapsamında yapılan mahsuplaşma işlemi sonunda tüketimin üretimden büyük olması halinde, ilişkili tüketim tesislerinin mahsuplaşma sonrası tüketimleri, tarifeleri bazında mahsuplaşma öncesi tüketimleri oranında hesaplanır.2\n (2) OSB dağıtım lisans bölgesi içindeki üretim tesisleri, OSB dağıtım lisans bölgesi dışındaki aynı kişiye ait tüketim tesisleri ile ilişkilendirilebilir. Ancak OSB dağıtım lisansı bölgesi içinde yer alan bir tüketim tesisi için diğer madde hükümleri saklı kalmak kaydıyla OSB dağıtım lisansı bölgesi dışında da üretim tesisi kurulabilir.\n (3) 12/5/2019 tarihinden önce bağlantı anlaşmasına çağrı mektubu almaya hak kazanan üretim tesisleri, aynı abone grubunda yer almayan tüketim tesisleri ile de ilişkilendirilebilir. Aynı abone grubunda yer alıp almaması fark etmeksizin, birden fazla tüketim tesisi olan ve bu tesislerini 12/5/2019 tarihinden önce bağlantı anlaşmasına çağrı mektubu almaya hak kazanan üretim tesisi veya tesisleri ile ilişkilendiren kişinin üretiminin tüketimini karşılamadığı zaman dilimi için yapılacak mahsuplaşmada, yapılan üretimin öncelikle tarifesi düşük olan tüketim noktalarında tüketildiği kabul edilir. Üretim tesisi veya tesisleriyle ilişkilendirilen tüketim tesisleri arasında, aynı tarifeye tabi tüketim tesislerinin yer alması durumunda ise mahsuplaşma öncesi tüketimleri oranında mahsuplaşma yapılır.\n (4) Üretim ve tüketim tesisinin aynı ölçüm noktasında yer almadığı durumlarda, üretim tesisinin üretim tesis sahasında yer alan her türlü yapı ve ekipmanın çalışmasına bağlı oluşacak iç tüketim miktarı, üretim tesisi ile ilişkilendirilen tüketim tesisi veya tesislerinin tüketimlerine eklenmek suretiyle mahsuplaşmaya dahil edilir. Üretim tesisi ile ilişkilendirilen aynı bölgede bir tüketim tesisinin bulunmaması durumunda; üretim tesisinin üretim tesis sahasında yer alan her türlü yapı ve ekipmanın çalışmasına bağlı olarak oluşacak iç tüketim miktarına karşılık gelen tüketim miktarı; abonelik şartı aranmaksızın, görevli tedarik şirketi tarafından, üretim tesisiyle ilişkili tüketim tesislerine ait abone gruplarına ait en yüksek perakende tek zamanlı aktif enerji bedeli üzerinden üreticiye aylık olarak fatura edilir. Bu kapsamda tespit edilen tutar için, 19/11/2020 tarihli ve 31309 sayılı Resmî Gazete’de yayımlanan Dağıtım Tarifesinin Düzenlenmesi Hakkında Tebliğin 26 ncı maddesi kapsamında işlem tesis edilir.\n (5) 12/5/2019 tarihinden itibaren bağlantı anlaşmasına çağrı mektubu almaya hak kazanan üretim tesisleri ile ilişkilendirilen tüketim tesisi veya tesislerinin bağlantı anlaşmasındaki sözleşme güçlerinin toplamı;\n a) (b) bendi kapsamındaki üretim tesisleri hariç olmak üzere, üretim tesisi kurulu gücünden,\n b) Üretim tesisinin 5 inci maddenin birinci fıkrasının (h) bendi kapsamında ve üretim tesisiyle ilişkili tüketim tesisi veya tesislerinin belediyeler ve bunların bağlı kuruluşları ile sanayi tesisleri ve tarımsal sulama amaçlı tesislere ait olanlar için;\n 1) Üretim tesisi kurulu gücünün, tüketim tesisi veya tesislerinin bağlantı anlaşmasındaki sözleşme güçlerinin toplamından büyük olması halinde, başvuruya esas sözleşme gücünden,\n 2) Tüketim tesisi veya tesislerinin bağlantı anlaşmasındaki sözleşme güçlerinin toplamının üretim tesisi kurulu gücünden büyük olması halinde, üretim tesisi kurulu gücünden,\n az olamaz. Üretim tesisi ile ilişkilendirilen tüketim tesis veya tesislerinin (a) veya (b) bentlerindeki koşulları sağlamaması hâlinde, ilgili döneme ilişkin üretilen enerjinin görevli tedarik şirketi tarafından üretilerek sisteme verilmiş olduğu kabul edilerek bu enerji ile ilgili olarak piyasa işletmecisi ve görevli tedarik şirketi tarafından herhangi bir ödeme yapılmaz ve bu kapsamda sisteme verilen enerji YEKDEM’e bedelsiz katkı olarak dikkate alınır.\n (6) 12/5/2019 tarihinden önce bağlantı anlaşmasına çağrı mektubu almaya hak kazanan üretim tesisleri ile ilişkilendirilen tüketim tesisi veya tesislerinin bağlantı anlaşmasındaki sözleşme güçlerinin toplamı;\n a) Üretim tesisi kurulu gücünün, başvuruya esas sözleşme gücünden büyük olması durumunda, başvuruya esas sözleşme gücünden,\n b) Başvuruya esas sözleşme gücünün, üretim tesisi kurulu gücünden büyük olması durumunda, üretim tesisi kurulu gücünden,\n az olamaz. Üretim tesisi ile ilişkilendirilen tüketim tesisi veya tesislerinin (a) veya (b) bentlerindeki koşulları sağlamaması hâlinde, ilgili dönemde üretilen enerjinin görevli tedarik şirketi tarafından üretilerek sisteme verilmiş olduğu kabul edilerek bu enerji ile ilgili olarak piyasa işletmecisi ve görevli tedarik şirketi tarafından herhangi bir ödeme yapılmaz ve bu kapsamda sisteme verilen enerji YEKDEM’e bedelsiz katkı olarak dikkate alınır.\n (7) Üretim tesisi ile ilişkilendirilen tüketim tesisi veya tesislerinin üretim tesisiyle ilişkilendirilmesinin sonlandırılması veya aynı kişiye ait tüketim tesisi veya tesisleriyle değiştirilmek istenmesi hâlinde, ilişkilendirme sonucunda tüketim tesisi veya tesislerinin;\n a) Üretim tesisinin bağlantı anlaşması çağrı mektubu tarihine göre, beşinci veya altıncı fıkra hükümlerinden birini sağlaması,\n b) 14 üncü maddenin altıncı fıkrasının (b) bendi kapsamında öncelik değerlendirmesi sonucunda bağlantı anlaşmasına çağrı mektubuna hak kazanan ve bağlantı anlaşması imzalanan üretim tesisleri için, tüketim tesis veya tesislerinin yıllık toplam elektrik enerjisi tüketiminin, başvuruya esas tüketim miktarından az olmaması,\n zorunludur. Üretim tesisi ile ilişkilendirilen tüketim tesisi veya tesislerinin ilgili şebeke işletmecisinin veya ilgili tedarik şirketinin bilgisi olmadan değiştirilmesi ve/veya söz konusu tüketim tesisi veya tesislerinin (a) ve (b) bentlerindeki koşulları sağlamaması hâlinde, ilgili dönemde üretilen enerjinin görevli tedarik şirketi tarafından üretilerek sisteme verilmiş olduğu kabul edilerek bu enerji ile ilgili olarak piyasa işletmecisi ve görevli tedarik şirketi tarafından herhangi bir ödeme yapılmaz ve bu kapsamda sisteme verilen enerji YEKDEM’e bedelsiz katkı olarak dikkate alınır. Tüketim tesisi değişikliği işlemleri, gerekli belgelerin tam ve eksiksiz olması hâlinde, her ayın son iş günü itibarıyla yapılan talepler neticesinde görevli tedarik şirketi ve dağıtım şirketince eş zamanlı olarak aynı gün içinde sonuçlandırılır. Bu kapsamdaki başvurular neticesinde 26 ncı maddenin on yedinci fıkrası kapsamında satışa konu edilebilecek ihtiyaç fazlası enerji miktarına ilişkin hesaplamalar, piyasa işletmecisi tarafından yapılır.\n (8) Bu Yönetmelik kapsamında bağlantı anlaşmasına çağrı mektubu sahibi ve bağlantı anlaşması imzalayan gerçek veya tüzel kişiler uhdesindeki üretim tesisi ile ilişkilendirilen tüketim tesisi veya tesislerine ilişkin aboneliğe ait kaçak elektrik enerjisi tüketiminin tespit edilmesi halinde, ilgili aya ve takip eden altı fatura dönemine ilişkin üretilen enerjinin, kaçak elektrik enerjisi tespiti yapılan tüketim tesisinin tespit anındaki sözleşme gücünün, ilişkili tüm tüketim tesislerinin toplam sözleşme gücüne oranı kadarının görevli tedarik şirketi tarafından üretilerek sisteme verilmiş olduğu kabul edilerek bu orana tekabül eden enerji ile ilgili olarak piyasa işletmecisi ve görevli tedarik şirketi tarafından bu fıkrada belirtilen süre boyunca herhangi bir ödeme yapılmaz ve bu kapsamda sisteme verilen enerji YEKDEM’e bedelsiz katkı olarak dikkate alınır.\n (9) Kabulü tamamlanarak işletmeye alınan üretim tesislerine ilişkin olarak; üretim tesisi ile ilişkilendirilen tüketim tesisi veya tesislerinde mücbir sebep halleri hariç elektrik tüketimi olmaması halinde, ilgili aya ilişkin üretilen enerjinin görevli tedarik şirketi tarafından üretilerek sisteme verilmiş olduğu kabul edilerek bu enerji ile ilgili olarak piyasa işletmecisi ve görevli tedarik şirketi tarafından herhangi bir ödeme yapılmaz ve bu kapsamda sisteme verilen enerji YEKDEM’e bedelsiz katkı olarak dikkate alınır.\n (10) Lisanssız üretim tesisiyle ilişkilendirilen bütün tüketim tesislerinin, en geç ilgili üretim tesisinin kabulünün yapıldığı tarih itibarıyla enerji tüketiyor olması zorunludur. İhtiyacı karşılanacak olan tüketim tesisi veya tesislerinin, ilgili üretim tesisinin kabulünün yapıldığı tarih itibarıyla enerji tüketmiyor olması durumunda, tüketim yapılana kadar üretilen enerjinin görevli tedarik şirketi tarafından üretilerek sisteme verildiği kabul edilir ve bu enerji ile ilgili olarak görevli tedarik şirketi tarafından herhangi bir ödeme yapılmaz ve bu kapsamda sisteme verilen enerji YEKDEM’e bedelsiz katkı olarak dikkate alınır.\n (11) 12/5/2019 tarihinden itibaren bağlantı anlaşmasına çağrı mektubu almaya hak kazanan yenilenebilir enerji kaynaklarına dayalı üretim tesisi ile ilişkilendirilen tüketim tesisi veya tesislerinin tamamının Mesken AG abone grubunda bulunması durumunda, ihtiyaç fazlası enerjiye ilişkin fiyatın belirlenmesinde yüksek kademeli tarife fiyatı esas alınır.\n (12) 12/5/2019 tarihinden itibaren bağlantı anlaşmasına çağrı mektubu almaya hak kazanan yenilenebilir enerji kaynaklarına dayalı üretim tesisi ile ilişkilendirilen tüketim tesisi veya tesislerinin tamamının Kamu ve Özel Hizmetler Sektörü ile Diğer AG abone grubunda bulunması durumunda, ihtiyaç fazlası enerjiye ilişkin fiyatın belirlenmesinde; ilgili kademe için belirlenen tarife fiyatı, kalan miktar için ise AG yüksek kademesi esas alınır.\n (13) 12/5/2019 tarihinden itibaren bağlantı anlaşmasına çağrı mektubu almaya hak kazanan yenilenebilir enerji kaynaklarına dayalı üretim tesisi ile ilişkilendirilen tüketim tesisi veya tesislerinin, birden fazla tüketim tesisiyle ilişkilendirilmesi ve OG ile AG seviyesinden bağlı aboneliklerin birlikte yer alması halinde, ihtiyaç fazlası elektrik enerjisi bedeli için tüketim tesisleri içerisindeki abone gruplarına ait aktif enerji bedellerinden en düşük tarife fiyatı esas alınır.\n Ortak sayaçla ölçülen tüketimlerin birleştirilmesi (Değişik Başlık:RG-2/4/2026-33212)",
+      "preview": "(Değişik:RG-2/4/2026-33212)[2] (1) Lisanssız üretim yapan gerçek ve tüzel kişilerin bir dağıtım bölgesinde kurulu üretim tesisinde ürettikle…",
+      "kitap": null,
+      "kisim": null,
+      "bolum": null,
+      "ayirim": null,
+      "maddeBaslik": "Tüketim tesisleri",
+      "sectionPath": [
+        "Tüketim tesisleri"
+      ]
+    },
+    {
+      "id": "yonetmelik:31502:m:29",
+      "maddeKind": "madde",
+      "maddeNo": "29",
+      "heading": "Madde 29",
+      "text": "(Değişik:RG-9/5/2021-31479)\n (1) Elektrik enerjisi tüketimleri tek bir ortak sayaç ile ölçülebilen bir veya birden fazla gerçek ve/veya tüzel kişiye ait tesislerde tüketilen elektrik enerjisi için tüketimlerini birleştirerek bu Yönetmelik kapsamında üretim tesisi ya da tesisleri kurabilir.\n (2) Tüketim birleştirme ilgili şebeke işletmecisine yazılı bir başvuru ile yapılır.\n (3) Bu Yönetmelik kapsamında tüketimini birleştiren kişiler, bu birleştirmeden kaynaklanan her türlü anlaşmazlığı kendi aralarında çözerler. Hiçbir anlaşmazlık (Ek ibare:RG-2/4/2026-33212) piyasa işletmecisi, ilgili şebeke işletmecisi ve/veya görevli tedarik şirketine yöneltilemez.\n (4) 3/5/1985 tarihli ve 3194 sayılı İmar Kanununa göre tek bir inşaat ruhsatı kapsamında yapılan yapılarda, onaylı imar projesi üzerinden tüketim birleştirme hükümleri çerçevesinde tüketim birleştirmesi yapılabilir.\n (5) 24/4/1969 tarihli ve 1163 sayılı Kooperatifler Kanunu kapsamında kurulan yenilenebilir enerji üretim kooperatifleri vasıtasıyla kurulan üretim tesislerinde kooperatif tüzel kişisi, bu Yönetmelik kapsamındaki iş ve işlemlerin yürütülmesi maksadıyla tüketim tesisi olmaksızın yetkilendirilebilir.",
+      "preview": "(Değişik:RG-9/5/2021-31479) (1) Elektrik enerjisi tüketimleri tek bir ortak sayaç ile ölçülebilen bir veya birden fazla gerçek ve/veya tüzel…",
+      "kitap": null,
+      "kisim": null,
+      "bolum": null,
+      "ayirim": null,
+      "maddeBaslik": "Tüketim tesisleri",
+      "sectionPath": [
+        "Tüketim tesisleri"
+      ]
+    },
+    {
+      "id": "yonetmelik:31502:m:30",
+      "maddeKind": "madde",
+      "maddeNo": "30",
+      "heading": "Madde 30",
+      "text": "(1) (Değişik:RG-9/5/2021-31479) Tüketim tesislerinin elektrik ihtiyacını karşılamak üzere, (Mülga ibare:RG-11/8/2022-31920) ; 5 inci maddenin birinci fıkrasının (h) bendi kapsamında yenilenebilir enerji kaynaklarına dayalı üretim tesisi kurulabilir. Bu madde kapsamında kamu kurum ve kuruluşları tarafından, 5 inci maddenin birinci fıkrasının (c) bendi kapsamında da yenilenebilir enerji kaynaklarına dayalı üretim tesisi kurulabilir. (Ek cümle:RG-11/8/2022-31920) Ayrıca, 5 inci maddenin birinci fıkrasının (h) bendi kapsamında farklı bir dağıtım bölgesinde de üretim tesisi kurulabilir.\n (2) Bu madde kapsamındaki tesisler için (Mülga ibare:RG-1/10/2022-31970) üretim ve tüketim tesislerinin aynı ölçüm noktasında olması şartı aranmaz.\n (3) Bu madde kapsamında kurulan üretim tesislerinde, (Değişik ibare:RG-2/4/2026-33212)1 her bir saatte şebekeye verilen ihtiyaç fazlası enerji için 26 ncı maddenin dördüncü fıkrası hükmü kapsamında işlem tesis edilir.\n (4) (Mülga:RG-25/11/2025-33088)\n (5) (Değişik ibare:RG-2/4/2026-33212)1 Bu madde kapsamında üretim tesisi ile ilişkilendirilen birden fazla tüketim tesisinin olması halinde, serbest tüketici olunan durumlar için tüketim tesislerinin tamamının tedarikçi seçme hakkını kullanıyor olması ve bütün tesislerin enerji tedarikinin tek bir tedarikçiden karşılanması zorunludur. Bütün tesislerin enerji tedarikinin tek bir tedarikçiden karşılanmadığı durumlarda, mahsuplaşma işlemi yapılmaksızın ilgili tedarikçilerce tüketim için tedarikçi ve tüketici arasındaki sözleşme veya ikili anlaşma hükümlerine göre fatura tahakkuk ettirilerek bedeller tahsil edilir. İlgili ayda üretilen enerjinin ise görevli tedarik şirketi tarafından üretilerek sisteme verilmiş olduğu kabul edilerek bu enerji ile ilgili olarak piyasa işletmecisi ve görevli tedarik şirketi tarafından herhangi bir ödeme yapılmaz ve bu kapsamda sisteme verilen enerji YEKDEM’e bedelsiz katkı olarak dikkate alınır. Serbest tüketici hakkını kullanmayarak görevli tedarik şirketinden elektrik temin eden tüketim tesisleri için bu fıkra hükmü uygulanmaz.\n (6) (Değişik:RG-2/4/2026-33212) 12/5/2019 tarihinden itibaren bağlantı anlaşmasına çağrı mektubu almaya hak kazanan üretim tesisi ile ilişkilendirilecek tüketim tesislerinin aynı abone grubunda olması zorunludur. Söz konusu tüketim tesislerinin aynı abone grubunda yer almaması durumunda, ilgili döneme ilişkin üretilen enerjinin görevli tedarik şirketi tarafından üretilerek sisteme verilmiş olduğu kabul edilerek bu enerji ile ilgili olarak piyasa işletmecisi ve görevli tedarik şirketi tarafından herhangi bir ödeme yapılmaz ve bu kapsamda sisteme verilen enerji YEKDEM’e bedelsiz katkı olarak dikkate alınır.\n (7) (Mülga:RG-2/4/2026-33212)\n (8) (Ek:RG-2/3/2023-32120) Lisanslı üretim tesisleri ile aynı tesis sahasında yer alacak ve aynı ölçüm noktasından bağlanacak şekilde lisanssız elektrik üretim tesisi kurulması halinde; ilgili üretim tesislerine ilişkin bağlantı ve sistem kullanım anlaşmalarının veriş yönlü sıfır olması zorunludur. Bu fıkra hükmü kapsamında yer alan üretim tesislerinden şebekeye herhangi bir enerji akışı olması halinde bahse konu enerji, ilgili mevzuat kapsamında herhangi bir uzlaştırmaya ve mahsuplaşmaya konu edilmez ve sisteme verilen enerji YEKDEM’e bedelsiz katkı olarak dikkate alınır.",
+      "preview": "(1) (Değişik:RG-9/5/2021-31479) Tüketim tesislerinin elektrik ihtiyacını karşılamak üzere, (Mülga ibare:RG-11/8/2022-31920) ; 5 inci maddeni…",
+      "kitap": null,
+      "kisim": null,
+      "bolum": null,
+      "ayirim": null,
+      "maddeBaslik": "Tüketim ihtiyacına yönelik uygulamalar",
+      "sectionPath": [
+        "Tüketim ihtiyacına yönelik uygulamalar"
+      ]
+    },
+    {
+      "id": "yonetmelik:31502:m:31",
+      "maddeKind": "madde",
+      "maddeNo": "31",
+      "heading": "Madde 31",
+      "text": "(1) Bu Yönetmelik kapsamında lisanssız üretim yapan gerçek veya tüzel kişilerin bu Yönetmelik kapsamındaki faaliyetlerinin inceleme ve denetimi doğrudan veya ilgisine göre (Ek ibare:RG-2/4/2026-33212) piyasa işletmecisi, ilgili şebeke işletmecisi ve/veya görevli tedarik şirketi tarafından hazırlanan raporlar vasıtasıyla Kurum tarafından yapılır.",
+      "preview": "(1) Bu Yönetmelik kapsamında lisanssız üretim yapan gerçek veya tüzel kişilerin bu Yönetmelik kapsamındaki faaliyetlerinin inceleme ve denet…",
+      "kitap": null,
+      "kisim": null,
+      "bolum": null,
+      "ayirim": null,
+      "maddeBaslik": "Denetim",
+      "sectionPath": [
+        "Denetim"
+      ]
+    },
+    {
+      "id": "yonetmelik:31502:m:32",
+      "maddeKind": "madde",
+      "maddeNo": "32",
+      "heading": "Madde 32",
+      "text": "(1) Bu Yönetmelik kapsamında kurulacak üretim tesisleri için Kurum tarafından taşınmaz mülkiyeti ve sınırlı ayni hak edinimine ilişkin herhangi bir işlem yapılmaz.",
+      "preview": "(1) Bu Yönetmelik kapsamında kurulacak üretim tesisleri için Kurum tarafından taşınmaz mülkiyeti ve sınırlı ayni hak edinimine ilişkin herha…",
+      "kitap": null,
+      "kisim": null,
+      "bolum": null,
+      "ayirim": null,
+      "maddeBaslik": "Kamulaştırma",
+      "sectionPath": [
+        "Kamulaştırma"
+      ]
+    },
+    {
+      "id": "yonetmelik:31502:m:33",
+      "maddeKind": "madde",
+      "maddeNo": "33",
+      "heading": "Madde 33",
+      "text": "(Değişik:RG-2/4/2026-33212)[3]\n (1) Bu Yönetmelik kapsamında üretim tesisi kuran gerçek veya tüzel kişiler; Kurum, piyasa işletmecisi, ilgili şebeke işletmecisi ve görevli tedarik şirketi tarafından bu Yönetmelik çerçevesinde istenen bilgi ve belgeleri süresi içerisinde ilgilisine sunmakla yükümlüdür.3\n (2) Piyasa işletmecisi, lisanssız üretim tesislerine ilişkin verileri, oluşturduğu veri tabanında tutmakla yükümlüdür. İlgili şebeke işletmecileri, lisanssız üretim tesislerine ilişkin bilgileri, piyasa işletmecisi tarafından belirlenecek formata uygun olarak piyasa işletmecisinin veri tabanına girmekle yükümlüdür. Piyasa işletmecisi, bu verileri düzenleyerek her ay Kuruma sunmakla yükümlüdür.3\n (3) İlgili şebeke işletmecilerince bu Yönetmelik kapsamında internet sayfalarında yayımlanan duyurular, yıllar itibarıyla aylık bazda internet adreslerinde sistematik olarak arşivlenir.\n (4) Piyasa işletmecisi, ilgili şebeke işletmecileri ve görevli tedarik şirketleri bu Yönetmelik hükümleri uyarınca sahip oldukları bilgileri kalıcı veri saklayıcısına aktararak saklamak ve korumakla yükümlüdür.3\n (5) Dağıtım şirketleri ile OSB dağıtım lisansı sahibi tüzel kişiler; ilgili dağıtım bölgesinde bulunan lisanssız elektrik üretim tesislerine ilişkin verileri, sistem kullanım anlaşması imza tarihi itibarıyla beş iş günü içerisinde TEİAŞ’a sunmakla yükümlüdür.\n (6) Dağıtım şirketleri ile OSB dağıtım lisansı sahibi tüzel kişiler, ilgili dağıtım bölgesindeki bağlantı anlaşmasına çağrı mektubu ve bağlantı anlaşması iptal işlemlerine ilişkin bildirimleri on beş iş günü içerisinde TEİAŞ’a ve piyasa işletmecisine bildirmekle yükümlüdür.\n (7) İlgili şebeke işletmecisi tarafından her ayın sonuna kadar, on yıllık süresinin bitimine iki ay veya daha az süre kalmış olan üretim tesislerine ilişkin bilgileri piyasa işletmecisi tarafından belirlenen formata uygun olarak piyasa işletmecisine bildirilir. Piyasa işletmecisi tarafından on yılını dolduran santraller liste olarak Piyasa Yönetim Sisteminde güncel olarak yayımlanır.",
+      "preview": "(Değişik:RG-2/4/2026-33212)[3] (1) Bu Yönetmelik kapsamında üretim tesisi kuran gerçek veya tüzel kişiler; Kurum, piyasa işletmecisi, ilgili…",
+      "kitap": null,
+      "kisim": null,
+      "bolum": null,
+      "ayirim": null,
+      "maddeBaslik": "Bilgilerin toplanması ve muhafaza edilmesi",
+      "sectionPath": [
+        "Bilgilerin toplanması ve muhafaza edilmesi"
+      ]
+    },
+    {
+      "id": "yonetmelik:31502:m:34",
+      "maddeKind": "madde",
+      "maddeNo": "34",
+      "heading": "Madde 34",
+      "text": "(1) İlgili şebeke işletmecileri ile görevli tedarik şirketleri, bu Yönetmelik kapsamında faaliyette bulunan gerçek veya tüzel kişiler arasında ayrım yapamaz.\n (2) Bu Yönetmelik kapsamına giren üretim tesisleri ilgili mevzuat kapsamında dengeleme birimi olamaz ve bu kapsamda uygulamalara katılamaz.\n (3) Bu Yönetmelik kapsamındaki üretim tesislerinde üretilen elektrik enerjisi, bu Yönetmelikte belirtilen istisnalar dışında ticarete konu edilemez.\n (4) Bu Yönetmelikte tanımlanan istisnalar ve düzenlemeler dışında, niteliği itibarıyla aykırılığın düzeltilmesi mümkün olmayan iş ve işlemlerin yapıldığının ve lisanssız üretim başvurusuna esas olan şartların ortadan kalktığının, bu şartların baştan mevcut olmadığının veya yapılan talep ve işlemlerde kanuna ve mevzuata karşı hile veya gerçek dışı beyanda bulunulduğunun tespiti hâlinde herhangi bir bildirim yapılmaksızın ilgisine göre bağlantı anlaşmasına çağrı mektubu veya bağlantı ve/veya sistem kullanım anlaşması iptal edilir.",
+      "preview": "(1) İlgili şebeke işletmecileri ile görevli tedarik şirketleri, bu Yönetmelik kapsamında faaliyette bulunan gerçek veya tüzel kişiler arasın…",
+      "kitap": null,
+      "kisim": null,
+      "bolum": null,
+      "ayirim": null,
+      "maddeBaslik": "Yasaklar ve yaptırımlar",
+      "sectionPath": [
+        "Yasaklar ve yaptırımlar"
+      ]
+    },
+    {
+      "id": "yonetmelik:31502:m:35",
+      "maddeKind": "madde",
+      "maddeNo": "35",
+      "heading": "Madde 35",
+      "text": "(1) (Mülga ibare:RG-9/5/2021-31479) kabulü yapılmış olmak kaydıyla, bu Yönetmelik kapsamındaki üretim tesisi; satış, devir veya diğer bir düzenleme ile bu Yönetmelik veya ilgili mevzuat kapsamında devretmek isteyen kişinin statüsünden kaynaklanan şartlar dahil kapasite tahsisini sağlayan şartları haiz üretim yapmak isteyen gerçek veya tüzel kişiye devredilebilir. 11 inci maddenin birinci fıkrası kapsamında yer alan üretim tesisleri hariç olmak üzere (Mülga ibare:RG-9/5/2021-31479) kabulü yapılmamış üretim tesisleri bu fıkra kapsamında devre konu edilemez.\n (2) Birinci fıkra kapsamında üretim tesisini devredecek ve devir alacak gerçek veya tüzel kişiler, devir işlemi gerçekleşmeden önce eşzamanlı olarak ayın ilk on günü içerisinde ilgili şebeke işletmecisine başvuruda bulunur. İlgili şebeke işletmecisi, bu fıkra kapsamında yapılan başvuruları devir için gerekli belgelerin tam ve eksiksiz olması halinde fatura dönemi sonu itibarıyla sonuçlandırarak görevli tedarik şirketine bildirir. Devir işlemi, devir alacak gerçek veya tüzel kişinin bağlantı anlaşması ve sistem kullanım anlaşmasını imzalamadığı sürece ilgili şebeke işletmecisi nezdinde geçerlilik kazanmaz. Tam ve eksiksiz olarak başvuruda bulunulmaması halinde ilgili şebeke işletmecilerince talep değerlendirmeye alınmaz ve 5 işgünü içerisinde muhataplara eksikliklere ilişkin bildirimde bulunulur.\n (3) (Ek:RG-2/4/2026-33212) Bu madde kapsamında yapılan devir işlemlerinde, üretim tesisiyle ilişkilendirilmek istenen yeni tüketim tesis veya tesislerinin;\n a) Üretim tesisinin bağlantı anlaşması çağrı mektubu tarihine göre, 28 inci maddenin beşinci veya altıncı fıkra hükümlerinden birini sağlaması,\n b) 14 üncü maddenin altıncı fıkrasının (b) bendi kapsamında öncelik değerlendirmesi sonucunda bağlantı anlaşmasına çağrı mektubuna hak kazanan ve bağlantı anlaşması imzalanan üretim tesisleri için, üretim tesisi ile ilişkilendirilecek yeni tüketim tesis veya tesislerinin yıllık toplam elektrik enerjisi tüketiminin, başvuruya esas tüketim miktarından az olmaması,\n zorunludur.",
+      "preview": "(1) (Mülga ibare:RG-9/5/2021-31479) kabulü yapılmış olmak kaydıyla, bu Yönetmelik kapsamındaki üretim tesisi; satış, devir veya diğer bir dü…",
+      "kitap": null,
+      "kisim": null,
+      "bolum": null,
+      "ayirim": null,
+      "maddeBaslik": "Üretim tesisi devri",
+      "sectionPath": [
+        "Üretim tesisi devri"
+      ]
+    },
+    {
+      "id": "yonetmelik:31502:m:36",
+      "maddeKind": "madde",
+      "maddeNo": "36",
+      "heading": "Madde 36",
+      "text": "(1) (Değişik:RG-11/8/2022-31920) Bu Yönetmelik kapsamındaki üretim tesislerine emreamade kapasite bedeli tahakkuk ettirilmez.\n (2) Bu Yönetmelik kapsamında;\n a) İlgili şebeke işletmecisi tarafından tahsil edilebilecek başvuru bedeli,\n b) İlgili şebeke işletmecisi ve görevli tedarik şirketlerinin bu Yönetmelik kapsamında fiilen üretim yapan kişiler için yürüttükleri iş ve işlemler karşılığında tahsil edebileceği yıllık işletim bedeli,\n c) İlgili şebeke işletmecisi ve görevli tedarik şirketlerine yapılacak başvurular ile sonuçlandırılan taleplere ilişkin işlem bedeli,\n her yıl 31 Aralık tarihine kadar ilgili şebeke işletmecisi ve görevli tedarik şirketi için ayrı ayrı olacak şekilde Kurul tarafından belirlenir. Üretim tesislerinin ilgili mevzuat gereği ödemekle yükümlü oldukları bedeller saklıdır. Üretim tesisinin işletmede olduğu yıla ilişkin yıllık işletim bedeli; üretim tesisinin işletmede olduğu ay sayısı dikkate alınarak, işletmede olduğu her takvim yılının Temmuz ve Aralık ayları son işgünü mesai bitimine kadar ilgili şebeke işletmecisi ve görevli tedarik şirketine ödenir.\n (3) (Değişik:RG-9/5/2021-31479) Bu Yönetmelik kapsamında üretim yapan gerçek ve tüzel kişiler; Kurul Kararı ile belirlenen sistem kullanım bedellerini ödemekle yükümlüdür. Lisanssız üretim tesisi sahibi kişilerce sistem kullanım bedellerinin faturada belirlenen son tarihe kadar ödenmemesi halinde herhangi bir bildirime gerek kalmaksızın ilgili şebeke işletmecisi tarafından üretim tesisi, durumu uygun hale getirilinceye kadar şebekeden ayrılır ve ayrılma gerekçesi üretim tesisi sahibi kişiye üç işgünü içinde yazılı olarak bildirilir.\n (4) Bu Yönetmelik kapsamında faaliyette bulunan gerçek veya tüzel kişilere, bu Yönetmelikte belirtilen hususlar dışında, bağlantı ve sistem kullanımından kaynaklanan her türlü bedel ve teminat için ilgili mevzuat hükümleri uygulanır.",
+      "preview": "(1) (Değişik:RG-11/8/2022-31920) Bu Yönetmelik kapsamındaki üretim tesislerine emreamade kapasite bedeli tahakkuk ettirilmez. (2) Bu Yönetme…",
+      "kitap": null,
+      "kisim": null,
+      "bolum": null,
+      "ayirim": null,
+      "maddeBaslik": "Bedeller",
+      "sectionPath": [
+        "Bedeller"
+      ]
+    },
+    {
+      "id": "yonetmelik:31502:m:37",
+      "maddeKind": "madde",
+      "maddeNo": "37",
+      "heading": "Madde 37",
+      "text": "(1) Kurum; lisanssız üretim tesislerinin sisteme bağlantısı, sistem kullanımı, lisanssız elektrik üretimi yapmaktan kaynaklanan hak ve yükümlülükleri ve bu Yönetmelikte düzenlenmeyen hususlar ile şebekenin ilgili mevzuatta öngörülen güvenlik, teknik ve kalite esaslarına göre işletilmesine dair bu Yönetmeliğin uygulanmasına ilişkin alt düzenleyici işlemler yapmaya yetkilidir.\n (2) Başvuru sahibi tüzel kişiler unvan ve nev’i değişikliklerini ilgili şebeke işletmecisine bildirir. Yapılacak bildirime istinaden 15 gün içerisinde bağlantı anlaşması ve/veya sistem kullanım anlaşması yeni unvana göre tadil edilir.\n (3) (Değişik:RG-14/5/2024-32546) Bu Yönetmeliğin 19 uncu maddesinin birinci fıkrası (Mülga ibare:RG-2/4/2026-33212) kapsamında kısmi kabul yapılan tesisler hariç olmak üzere, kendisine bağlantı anlaşmasına çağrı mektubu verilen kişiler tarafından, talep edilmesi halinde bir defaya mahsus olmak üzere bağlantı anlaşmasına çağrı mektubunda ve bağlantı anlaşmasında yer alan kurulu güçten en fazla yüzde on oranında eksiltme yapılabilir.\n (4) Birden çok kullanıcıya elektrik enerjisi sağlayacak şekilde tesis edilen imdat jeneratörlerinin, kesinti durumunda ana şebekeden ayrılan şebeke üzerinden kullanıcılarına enerji sağladığı ve bu enerjinin kullanıcı sayaçlarından geçen site, alışveriş merkezi, yerleşke ve benzeri kullanım noktalarında fazla elektrik enerjisi tahakkukunu önlemek amacıyla, söz konusu imdat jeneratörü tarafından üretilerek şebekeye verilen elektrik enerjisi, ilgili ortak tüketim sayaç değerlerinden mahsup edilir. Bu fıkra kapsamındaki üretimin, ortak tüketimden fazla olması halinde, bakiye üretim mahsup için bir sonraki aya aktarılır. Bu fıkra kapsamındaki imdat jeneratörü ayrı bir ölçü sistemi ya da ortak tüketim sayacı üzerinden tesisata bağlanır. Her iki durumda da tek yönlü ölçüm yapabilen sayaç tesis edilir.\n (5) Bu Yönetmelik kapsamındaki rüzgar enerjisine dayalı inşa halinde veya işletmedeki üretim tesisi sahibi kişiler; kriz, gerginlik ve harp durumlarında Genelkurmay Başkanlığı ve/veya MİT tarafından talep edildiğinde, Genelkurmay Başkanlığının sorumluluğunda işletilen Haberleşme, Seyrüsefer ve Radar Sistemlerine ve/veya MİT’in sorumluluğunda işletilen sistemlere etkisi olduğu tespit edilen türbinlere ilişkin talep edilen tedbirleri yerine getirmekle yükümlüdür.\n (6) (Değişik:RG-2/4/2026-33212) Bu Yönetmelik kapsamında tesis edilecek elektrik üretim tesisi ve depolama ünitesinde kullanılan türbin, jeneratör, kanat, panel, invertör, buhar kazanı, motor, batarya gibi ana ekipmanların son beş yıl içerisinde üretilmiş olması zorunludur. Bu fıkra hükmünde yer alan beş yıl şartı, 5 inci maddenin birinci fıkrasının (a) ve (d) bendi kapsamındaki tesisler için uygulanmaz.\n (7) (Değişik:RG-25/11/2025-33088) 5 inci maddenin birinci fıkrasının (c) bendi kapsamında olan rüzgar veya güneş enerjisine dayalı enerji üretim tesisleri için; lisanssız üretim tesisi sahibi tüzel kişinin; kendi tüzel kişiliği altında veya diğer bir tüzel kişi bünyesinde, tüm aktif ve pasifleri ile birlikte birleşmek istemesi hâlinde, ilgili üretim tesisi veya tesislerinin tamamının kabulünün yapılmış olması kaydıyla, birleşme işlemi mer’i mevzuat kapsamında gerçekleştirilir ve ilgili şebeke işletmecisi, birleşme veya bölünme bilgilerini işleme ilişkin belgelerin kendisine sunulmasını takip eden beş iş günü içinde görevli tedarik şirketine yazılı olarak bildirir. Lisanssız üretim tesisi sahibi tüzel kişinin aynı kalması ve pay oranlarının değişmemesi kaydıyla kabul şartı aranmaz. Lisanssız üretim tesisi sahibi tüzel kişiler birleşme işlemini ilgili şebeke işletmecisine bildirir ve taraflar arasında bağlantı ve sistem kullanım anlaşmaları imzalanır.\n (8) (Değişik:RG-11/8/2022-31920) (Değişik ibare:RG-25/11/2025-33088) 5 inci maddenin birinci fıkrasının (c) bendi kapsamında olan rüzgar veya güneş enerjisine dayalı enerji üretim tesisleri için; bu Yönetmelik kapsamındaki bir tüzel kişinin, uhdesindeki üretim tesislerinin tamamının kabulünün yapılmış olması kaydıyla, tam veya kısmi olarak bölünmek istemesi halinde bölünme işlemi mer’i mevzuat kapsamında gerçekleştirilir. Lisanssız üretim tesisi sahibi tüzel kişinin aynı kalması ve pay oranlarının değişmemesi kaydıyla kabul şartı aranmaz. Lisanssız üretim tesisi sahibi tüzel kişiler bölünme işlemini ilgili şebeke işletmecisine bildirir ve taraflar arasında bağlantı ve sistem kullanım anlaşmaları imzalanır.\n (9) 5 inci maddenin birinci fıkrasının (c) bendi kapsamında olan rüzgar veya güneş enerjisine dayalı enerji üretim tesisleri için başvuru tarihinden, başvuruya konu üretim tesislerinin tamamının (Mülga ibare:RG-9/5/2021-31479) kabulü yapılana kadar, veraset dışında pay devri yapılamaz. Bu hüküm;\n a) Halka açık olan payları ile sınırlı olmak üzere, halka açık tüzel kişilere ve halka açık tüzel kişi ortağı bulunan tüzel kişinin, söz konusu ortağının halka açık olan paylarından kaynaklanan ortaklık yapısı değişikliklerine,\n b) Pay sahiplerinin rüçhan haklarının kullanımına bağlı olarak ilgili tüzel kişinin mevcut ortakları arasında oluşan pay değişiklikleri sebebiyle, söz konusu tüzel kişinin ortaklık yapısında gerçekleşen doğrudan veya dolaylı ortaklık yapısı değişikliklerine,\n c) İlgili tüzel kişinin ortaklık yapısında, yurt dışında kurulmuş olan ortakların ortaklık yapılarında oluşan değişiklikler sebebiyle gerçekleşen dolaylı pay sahipliği değişikliklerine,\n ç) İlgili tüzel kişi ile bu tüzel kişinin doğrudan veya dolaylı tüzel kişi ortaklarının paylarının halka arz edilmesi kapsamında, söz konusu tüzel kişinin ortaklık yapısında oluşacak doğrudan veya dolaylı ortaklık yapısı değişikliklerine,\n d) (Ek:RG-9/5/2021-31479) Lisanssız üretim tesisi sahibi tüzel kişinin ortaklık yapısında doğrudan veya dolaylı paya sahip mevcut ortakları arasında ilgili lisanssız üretim tesisi sahibi tüzel kişinin ortaklık yapısında kontrol değişikliği oluşturmayacak şekilde yapılan doğrudan veya dolaylı pay değişikliklerine,\n e) (Ek:RG-9/5/2021-31479) Lisanssız üretim tesisi sahibi tüzel kişinin ortaklık yapısında doğrudan veya dolaylı paya sahip olan ve eşler ile aralarında birinci derece kan hısımlığı bulunan gerçek kişiler arasında yapılan pay devirleri sonucunda söz konusu lisanssız üretim tesisi sahibi tüzel kişinin ortaklık yapısında gerçekleşen doğrudan veya dolaylı ortaklık yapısı değişikliklerine,\n uygulanmaz. İlgili şebeke işletmecileri, bağlantı anlaşması imzalanması ve (Mülga ibare:RG-9/5/2021-31479) kabule hazır tutanağının hazırlanması aşamasında pay devri yapılıp yapılmadığına ilişkin gerekli kontrolleri yapmakla yükümlüdür. Pay devri yapılması halinde ilgili tüzel kişiye ait ilgisine göre bağlantı anlaşmasına çağrı mektubu ve bağlantı anlaşması iptal edilir.\n (10) Dağıtım ve görevli tedarik şirketlerinin; doğrudan ve dolaylı ortakları, kontrolünde olan tüzel kişiler, bu tüzel kişilerin doğrudan ve dolaylı ortaklıklarında istihdam edilen kişiler ve bu kişilerin kontrolünde olan tüzel kişiler ilgili dağıtım şirketinin dağıtım bölgesi ve ilgili dağıtım şirketinin hissedarı olduğu dağıtım bölgesinde, bu Yönetmelik kapsamında rüzgâr ve güneş enerjisine dayalı üretim başvurusunda bulunamaz.\n (11) İlgili şebeke işletmecileri ve ilgili görevli tedarik şirketleri bu Yönetmeliğin uygulanması veya Kurum tarafından istenen hususların yerine getirilmesi amacıyla yazılı veya elektronik ortamda gerekli veri ve bilgi transferi yapabilir. (Ek cümle:RG-11/8/2022-31920) Haberleşmenin gerekli olduğu durumlarda ilgililerce mevzuatta yer alan işlemlerin aksamamasını temin edecek şekilde sürelere riayet edilmesi ve gerekli tedbirlerin alınması zorunludur.\n (12) (Ek:RG-14/5/2024-32546) Bağlantı anlaşmasına çağrı mektubu düzenlenen, bağlantı anlaşması imzalanan ve kabulü tamamlanarak işletmeye geçen üretim tesisleri için mücbir sebep hallerinde Kurul Kararı ile ve dağıtım seviyesinden bağlantılarda aynı trafo merkezinden, iletim seviyesinden bağlantılarda aynı iletim bölgesinden bağlanmak şartıyla saha değişikliği yapılabilir.\n (13) (Ek:RG-14/5/2024-32546) (Değişik:RG-2/4/2026-33212) Kabul işlemleri yapılmadan bir üretim tesisinin kurularak işletmeye alındığının tespit edilmesi durumunda;\n a) Bağlantı anlaşmasına çağrı mektubu veya bağlantı anlaşması bulunmayan tesisler, herhangi bir bildirime gerek kalmaksızın ilgili şebeke işletmecisi tarafından üretim tesisi şebekeden ayrılır. Tespitin yapılmasını takip eden altmış gün içerisinde, üretim tesisi ile ilgili olan tüm ekipman demonte edilerek tesisin bulunduğu parselin dışına, tesis sahibi tarafından çıkartılır. Bu bent kapsamındaki gerçek veya tüzel kişiler, üç yıl boyunca bu Yönetmelik kapsamında başvuru yapamaz.\n b) Bağlantı anlaşmasına çağrı mektubu tebliğ edilmiş veya bağlantı anlaşması imzalanmış tesisler, herhangi bir bildirime gerek kalmaksızın ilgili şebeke işletmecisi tarafından şebekeden ayrılır.\n c) (a) ve (b) bentleri kapsamında kurulmuş olan tesislerle ilgili olarak; ilgili şebeke işletmecisi tarafından ilgili gerçek veya tüzel kişiden tahakkuk edilen tutar, aşağıdaki şekilde belirlenir:\n TT=KGxKKOx90x24xAEB\n Bu formülde geçen;\n TT: İlgili şebeke işletmecisi tarafından ilgili gerçek veya tüzel kişiden tahakkuk edilen tutarı,\n KG: Bu fıkra kapsamında kurulmuş olan üretim tesisinin mekanik kurulu gücünü (kWm),\n KKO: Güneş enerjisine dayalı elektrik üretim tesisleri için 0,2; rüzgar enerjisine dayalı elektrik üretim tesisleri için 0,35 olarak kabul edilecek kapasite kullanım oranını,\n AEB: İlgili tüketim tesisinin bulunduğu abone grubuna ait perakende tek zamanlı aktif enerji bedelini,\n ifade eder. Bu kapsamda tespit edilen tutar için, Dağıtım Tarifesinin Düzenlenmesi Hakkında Tebliğin 26 ncı maddesinde yer alan “kaçak elektrik enerjisi kullanım geliri” kapsamında işlem tesis edilir. Ancak (a) bendi kapsamındaki aykırılık giderilinceye kadar her altmış günde bir inceleme yapılır. Aykırılığın devam ettiğinin tespiti halinde, uygulanacak tahakkuk tutarı her defasında bir önceki tutarın iki katı olarak uygulanır.",
+      "preview": "(1) Kurum; lisanssız üretim tesislerinin sisteme bağlantısı, sistem kullanımı, lisanssız elektrik üretimi yapmaktan kaynaklanan hak ve yüküm…",
+      "kitap": null,
+      "kisim": null,
+      "bolum": null,
+      "ayirim": null,
+      "maddeBaslik": "Diğer hükümler",
+      "sectionPath": [
+        "Diğer hükümler"
+      ]
+    },
+    {
+      "id": "yonetmelik:31502:m:38",
+      "maddeKind": "madde",
+      "maddeNo": "38",
+      "heading": "Madde 38",
+      "text": "(1) 2/10/2013 tarihli ve 28783 sayılı Resmî Gazete’de yayımlanan Elektrik Piyasasında Lisanssız Elektrik Üretimine İlişkin Yönetmelik ile 2/10/2013 tarihli ve 28783 sayılı Resmî Gazete’de yayımlanan Elektrik Piyasasında Lisanssız Elektrik Üretimine İlişkin Yönetmeliğin Uygulanmasına Dair Tebliğe yapılan atıflar bu Yönetmeliğe yapılmış sayılır.\n Yürürlükten kaldırılan yönetmelik",
+      "preview": "(1) 2/10/2013 tarihli ve 28783 sayılı Resmî Gazete’de yayımlanan Elektrik Piyasasında Lisanssız Elektrik Üretimine İlişkin Yönetmelik ile 2/…",
+      "kitap": null,
+      "kisim": null,
+      "bolum": null,
+      "ayirim": null,
+      "maddeBaslik": "Atıflar",
+      "sectionPath": [
+        "Atıflar"
+      ]
+    },
+    {
+      "id": "yonetmelik:31502:m:39",
+      "maddeKind": "madde",
+      "maddeNo": "39",
+      "heading": "Madde 39",
+      "text": "(1) 2/10/2013 tarihli ve 28783 sayılı Resmî Gazete’de yayımlanan Elektrik Piyasasında Lisanssız Elektrik Üretimine İlişkin Yönetmelik yürürlükten kaldırılmıştır.",
+      "preview": "(1) 2/10/2013 tarihli ve 28783 sayılı Resmî Gazete’de yayımlanan Elektrik Piyasasında Lisanssız Elektrik Üretimine İlişkin Yönetmelik yürürl…",
+      "kitap": null,
+      "kisim": null,
+      "bolum": null,
+      "ayirim": null,
+      "maddeBaslik": "Atıflar",
+      "sectionPath": [
+        "Atıflar"
+      ]
+    },
+    {
+      "id": "yonetmelik:31502:m:ek:1",
+      "maddeKind": "ek",
+      "maddeNo": "1",
+      "heading": "Ek Madde 1",
+      "text": "(Ek: RG-17/12/2024-32755)\n (1) Mevcut bağlantı anlaşmasına çağrı mektupları kapsamında, aynı kişiye ait rüzgar enerjisine dayalı üretim tesisleri, bağlanacakları trafo merkezi değişmemek kaydıyla, mevcut bağlantı anlaşması çağrı mektuplarından birinin kapsamında birleştirilebilir.\n (2) Birleştirme işlemi için, yeni güce göre oluşturulan bilgi ve belgeler ile birlikte ilgili şebeke işletmecisine başvuruda bulunulur. Başvurunun teknik yönden uygun bulunması halinde 16 ncı madde hükümleri uygulanır.\n (3) Birleştirilecek üretim tesisleri için oluşturulan bağlantı anlaşmasına çağrı mektubunun süresi, altında birleştirilen bağlantı anlaşması çağrı mektubu esas alınarak belirlenir.\n (4) Kabulü yapılan bir üretim tesisiyle kabulü yapılmayan bir üretim tesisi birleştirilemez.",
+      "preview": "(Ek: RG-17/12/2024-32755) (1) Mevcut bağlantı anlaşmasına çağrı mektupları kapsamında, aynı kişiye ait rüzgar enerjisine dayalı üretim tesis…",
+      "kitap": null,
+      "kisim": null,
+      "bolum": null,
+      "ayirim": null,
+      "maddeBaslik": "Birleştirme işlemleri",
+      "sectionPath": [
+        "Birleştirme işlemleri"
+      ]
+    },
+    {
+      "id": "yonetmelik:31502:m:ek:2",
+      "maddeKind": "ek",
+      "maddeNo": "2",
+      "heading": "Ek Madde 2",
+      "text": "(Ek: RG-17/12/2024-32755)\n (1) On yıllık alım garantisini doldurmuş olan lisanssız elektrik üretim tesisleri, 17/12/2024 tarihli ve 32755 sayılı Resmî Gazete’de yayımlanan Elektrik Piyasasında Toplayıcılık Faaliyeti Yönetmeliği kapsamında toplayıcı lisansı sahibi veya tedarik lisansına toplayıcılık faaliyeti dercedilmiş tüzel kişilerin toplayıcı portföyüne katılabilirler.\n (2) Toplayıcılık faaliyeti kapsamında lisanssız elektrik üretim tesislerinde üretilen ihtiyaç fazlası elektrik enerjisine ilişkin tespit ilgili şebeke işletmecisi tarafından gerçekleştirilir. İhtiyaç fazlası enerjinin değerlendirilmesi ve söz konusu enerjiye ilişkin lisanssız elektrik üretim tesisi sahibi gerçek veya tüzel kişiye yapılacak olan ödemelerden toplayıcılık faaliyeti gösteren piyasa katılımcısı sorumludur.\n (3) Lisanssız elektrik üretim tesislerine uygulanan fiyat ve mahsuplaşmaya ilişkin işlemler bu madde kapsamında yer alan lisanssız elektrik üretim tesisleri için de uygulanmaya devam eder.\n (4) 24 üncü maddenin (Değişik ibare:RG-2/4/2026-33212) dördüncü fıkrası hariç olmak üzere, bu Yönetmelikte görevli tedarik şirketlerine tanımlanan görev, yetki ve sorumluluklar, portföyünde lisanssız elektrik üretim tesisi bulunduran toplayıcılık faaliyeti gösteren tüzel kişiler için de geçerlidir.",
+      "preview": "(Ek: RG-17/12/2024-32755) (1) On yıllık alım garantisini doldurmuş olan lisanssız elektrik üretim tesisleri, 17/12/2024 tarihli ve 32755 say…",
+      "kitap": null,
+      "kisim": null,
+      "bolum": null,
+      "ayirim": null,
+      "maddeBaslik": "Lisanssız elektrik üretim tesislerinin toplayıcılık faaliyetine katılımı",
+      "sectionPath": [
+        "Lisanssız elektrik üretim tesislerinin toplayıcılık faaliyetine katılımı"
+      ]
+    },
+    {
+      "id": "yonetmelik:31502:m:ek:3",
+      "maddeKind": "ek",
+      "maddeNo": "3",
+      "heading": "Ek Madde 3",
+      "text": "(Ek:RG-2/4/2026-33212)\n (1) Lisanssız üretim tesisine bütünleşik depolama ünitesi kurmak isteyen kişiler, 9/5/2021 tarihli ve 31479 sayılı Resmî Gazete’de yayımlanan Elektrik Piyasasında Depolama Faaliyetleri Yönetmeliğinin 4 üncü maddesi kapsamında, üretim tesisinin elektriksel gücüne kadar depolama ünitesi kurabilir.\n (2) Bu madde kapsamında kurulan elektrik depolama ünitelerinden şebekeye enerji verilmesi durumunda, mahsuplaşma sonrası kalan ihtiyaç fazlası enerjinin, depodan verilen miktarı için herhangi bir ödeme yapılmaz. Depodan verilen miktarın tespit edilememesi durumunda, ihtiyaç fazlası enerjinin tamamı için herhangi bir ödeme yapılmaz. Söz konusu enerji, görevli tedarik şirketi tarafından üretilmiş kabul edilir ve YEKDEM’e bedelsiz katkı olarak dikkate alınır.\n (3) Bu madde kapsamındaki depolama ünitelerinin kabulünde yüzde on tolerans uygulanır.\n 5 inci maddenin birinci fıkrasının (ç) bendi ve 11 inci maddenin birinci fıkrası kapsamındaki tesisler",
+      "preview": "(Ek:RG-2/4/2026-33212) (1) Lisanssız üretim tesisine bütünleşik depolama ünitesi kurmak isteyen kişiler, 9/5/2021 tarihli ve 31479 sayılı Re…",
+      "kitap": null,
+      "kisim": null,
+      "bolum": null,
+      "ayirim": null,
+      "maddeBaslik": "Depolama faaliyetlerine ilişkin işlemler",
+      "sectionPath": [
+        "Depolama faaliyetlerine ilişkin işlemler"
+      ]
+    },
+    {
+      "id": "yonetmelik:31502:m:gecici:1",
+      "maddeKind": "gecici",
+      "maddeNo": "1",
+      "heading": "Geçici Madde 1",
+      "text": "(1) 5 inci maddenin birinci fıkrasının (ç) bendi ve 21/6/2018 tarihinden sonra 11 inci maddenin birinci fıkrası kapsamında bağlantı anlaşmasına çağrı mektubu düzenlenen, bağlantı anlaşması imzalanan ya da geçici kabulü tamamlanarak işletmeye alınan çatı ve cephe uygulamalı elektrik üretim tesislerine ilişkin olarak, bu Yönetmeliğin yürürlüğe girdiği tarihten itibaren 60 (altmış) gün içerisinde ilgililerce başvuruda bulunulması halinde, başvuruyu izleyen aydan itibaren 26 ncı madde hükümleri uyarınca işlem tesis edilir.\n (2) Birinci fıkra hükmü kapsamına dahil edilen üretim tesislerinin bağlantı ve sistem kullanım anlaşmaları sonlandırılana ve/veya iptal edilene kadar 26 ncı madde hükümleri uygulanır.\n Yürürlükten kaldırılan yönetmelik kapsamında bağlantı anlaşmasına çağrı mektubu düzenlenen kişilere uygulanacak işlemler",
+      "preview": "(1) 5 inci maddenin birinci fıkrasının (ç) bendi ve 21/6/2018 tarihinden sonra 11 inci maddenin birinci fıkrası kapsamında bağlantı anlaşmas…",
+      "kitap": null,
+      "kisim": null,
+      "bolum": null,
+      "ayirim": null,
+      "maddeBaslik": "Depolama faaliyetlerine ilişkin işlemler",
+      "sectionPath": [
+        "Depolama faaliyetlerine ilişkin işlemler"
+      ]
+    },
+    {
+      "id": "yonetmelik:31502:m:gecici:2",
+      "maddeKind": "gecici",
+      "maddeNo": "2",
+      "heading": "Geçici Madde 2",
+      "text": "(1) 39 uncu madde ile yürürlükten kaldırılan yönetmelik kapsamında bağlantı anlaşmasına çağrı mektubu almaya hak kazanan, bağlantı anlaşmasına çağrı mektubu alan veya bağlantı anlaşması imzalayan kişilerin iş ve işlemleri bu Yönetmelik hükümlerine göre devam ettirilir.\n (2) Birinci fıkra hükmü kapsamındaki kişilerce yapılan, bu Yönetmeliğin yürürlüğe girdiği tarihten sonraki taleplere ilişkin olarak bu Yönetmelik hükümleri uyarınca işlem tesis edilir.\n (3) 39 uncu madde ile yürürlükten kaldırılan yönetmelik ve Avrupa Birliği Katılım Öncesi Yardım Aracı bileşenlerine dâhil hibe programlarını da içeren uluslararası hibe programları ile kamu kurum ve kuruluşları tarafından sağlanan hibe ve/veya krediler kapsamında bağlantı anlaşmasına çağrı mektubu düzenlenen kişilerce, söz konusu hibe ve/veya kredi programları kapsamında hibeden ve/veya krediden yararlandırılmaya hak kazanıldığına dair sözleşme, bağlantı anlaşmasının imzalanmasını müteakip yedi ay içerisinde ilgili şebeke işletmecisine sunulur. İlgili belgenin sunulmaması halinde bağlantı anlaşması iptal edilir.",
+      "preview": "(1) 39 uncu madde ile yürürlükten kaldırılan yönetmelik kapsamında bağlantı anlaşmasına çağrı mektubu almaya hak kazanan, bağlantı anlaşması…",
+      "kitap": null,
+      "kisim": null,
+      "bolum": null,
+      "ayirim": null,
+      "maddeBaslik": "Depolama faaliyetlerine ilişkin işlemler",
+      "sectionPath": [
+        "Depolama faaliyetlerine ilişkin işlemler"
+      ]
+    },
+    {
+      "id": "yonetmelik:31502:m:gecici:3",
+      "maddeKind": "gecici",
+      "maddeNo": "3",
+      "heading": "Geçici Madde 3",
+      "text": "(1) Bu Yönetmeliğin yürürlüğe girmesinden önce üretim tesis sahasında yer alan her türlü yapı ve ekipmanın çalışmasına bağlı oluşan iç tüketim miktarı için abonelik tesis edilen üretim tesislerinin tüketimine ilişkin imzalanan anlaşma ve sözleşmeler bu maddenin yürürlüğe girme tarihinden itibaren 6 ay içinde sonlandırılarak bahse konu tüketime ilişkin iş ve işlemler 28 inci maddenin dördüncü fıkrası uyarınca sürdürülür.\n (2) Birinci fıkrada tanımlanan süreler içerisinde tüketimine ilişkin imzalanan anlaşma ve sözleşmeleri sonlandırılmayan üretim tesisleri herhangi bir bildirime gerek kalmaksızın ilgili şebeke işletmecisi tarafından durumu uygun hale getirilinceye kadar şebekeden ayrılır ve ayrılma gerekçesi üretim tesisi sahibi kişiye 3 (üç) işgünü içinde yazılı olarak bildirilir.",
+      "preview": "(1) Bu Yönetmeliğin yürürlüğe girmesinden önce üretim tesis sahasında yer alan her türlü yapı ve ekipmanın çalışmasına bağlı oluşan iç tüket…",
+      "kitap": null,
+      "kisim": null,
+      "bolum": null,
+      "ayirim": null,
+      "maddeBaslik": "İç tüketim miktarı için abonelik tesis edilen lisanssız üretim tesisleri",
+      "sectionPath": [
+        "İç tüketim miktarı için abonelik tesis edilen lisanssız üretim tesisleri"
+      ]
+    },
+    {
+      "id": "yonetmelik:31502:m:gecici:4",
+      "maddeKind": "gecici",
+      "maddeNo": "4",
+      "heading": "Geçici Madde 4",
+      "text": "(Ek:RG-9/5/2021-31479)\n (1) 12/5/2019 tarihinden önce 5 inci maddenin birinci fıkrasının (ç) bendi ile kurulu gücü 10 kW ve altında olacak şekilde 5 inci maddenin birinci fıkrasının (c) bendi kapsamında bağlantı anlaşmasına çağrı mektubu düzenlenen, bağlantı anlaşması imzalanan ya da kabulü tamamlanarak işletmeye alınan elektrik üretim tesislerine ilişkin olarak, bu maddenin yürürlüğe girdiği tarihten itibaren altmış gün içinde ilgililerce başvuruda bulunulması halinde, başvuruyu izleyen aydan itibaren 26 ncı madde hükümleri uyarınca işlem tesis edilir.\n (2) Birinci fıkra hükmü kapsamına dahil edilen üretim tesislerinin bağlantı ve sistem kullanım anlaşmaları sonlandırılana ve/veya iptal edilene kadar 26 ncı madde hükümleri uygulanır.",
+      "preview": "(Ek:RG-9/5/2021-31479) (1) 12/5/2019 tarihinden önce 5 inci maddenin birinci fıkrasının (ç) bendi ile kurulu gücü 10 kW ve altında olacak şe…",
+      "kitap": null,
+      "kisim": null,
+      "bolum": null,
+      "ayirim": null,
+      "maddeBaslik": "Aylık mahsuplaşmaya geçebilecek tesisler",
+      "sectionPath": [
+        "Aylık mahsuplaşmaya geçebilecek tesisler"
+      ]
+    },
+    {
+      "id": "yonetmelik:31502:m:gecici:5",
+      "maddeKind": "gecici",
+      "maddeNo": "5",
+      "heading": "Geçici Madde 5",
+      "text": "(Ek:RG-11/8/2022-31920)\n (1) (Değişik:RG-2/4/2026-33212) OSB Dağıtım Lisansı Sahibi Tüzel Kişiliğe ait lisanssız üretim tesisleri 25/7/2024 tarihli ve 32612 sayılı Resmî Gazete’de yayımlanan Organize Sanayi Bölgelerinin ve Endüstri Bölgelerinin Elektrik Piyasası Faaliyetlerine İlişkin Yönetmeliğin 10 uncu maddesi uyarınca tanımlanan bağlantı noktalarında yer alan sayaçlar ile ilişkilendirilir ve mahsuplaşma işlemleri bu sayaçlar üzerinden yürütülür.\n (2) Birinci fıkra kapsamında yer alan ve henüz gerekli ilişkilendirme işlemleri gerçekleştirilmeyen üretim tesisleri için gerekli ilişkilendirme işlemlerinin, ilgisine göre TEİAŞ veya ilgili dağıtım şirketi tarafından 28/2/2023 tarihine kadar tamamlanması zorunludur.\n (3) Bu madde kapsamında yer alan ve kabul işlemleri tamamlanarak işletmeye geçen üretim tesislerinde, (Değişik ibare:RG-2/4/2026-33212) saatlik mahsuplaşma sonucu oluşan ihtiyaç fazlası enerji için ilgili mevzuat hükümleri uyarınca işlem tesis edilir.",
+      "preview": "(Ek:RG-11/8/2022-31920) (1) (Değişik:RG-2/4/2026-33212) OSB Dağıtım Lisansı Sahibi Tüzel Kişiliğe ait lisanssız üretim tesisleri 25/7/2024 t…",
+      "kitap": null,
+      "kisim": null,
+      "bolum": null,
+      "ayirim": null,
+      "maddeBaslik": "OSB Dağıtım Lisansı sahibi tüzel kişiler tarafından kurulacak tesisler",
+      "sectionPath": [
+        "OSB Dağıtım Lisansı sahibi tüzel kişiler tarafından kurulacak tesisler"
+      ]
+    },
+    {
+      "id": "yonetmelik:31502:m:gecici:6",
+      "maddeKind": "gecici",
+      "maddeNo": "6",
+      "heading": "Geçici Madde 6",
+      "text": "(Ek:RG-11/8/2022-31920)\n (1) Bu maddenin yürürlüğe girdiği tarih itibarıyla, atık lastiklerin işlenmesi sonucu ortaya çıkan yan ürünler olan pirolitik yağ ile pirolitik gazın yakıt olarak kullanılması planlanan ve bağlantı anlaşmasına çağrı mektubu düzenlenen, bağlantı anlaşması imzalanan ya da kabulü tamamlanarak işletmeye alınan elektrik üretim tesislerinde de söz konusu yakıtın ilgili elektrik üretim tesisinde üretilmesi ve bu kaynaklar dışında başka kaynak kullanılmaması zorunludur.\n (2) Kabulü tamamlanan lisanssız üretim tesislerinden, pirolitik yağ ile pirolitik gazı elektrik üretim tesislerinde üretilmeyen ve bu kaynaklar dışında başka kaynak kullanan üretim tesislerinin 31/8/2023 tarihine kadar ilgili yakıtları elektrik üretim tesisinde üretecek şekilde gerekli işlemleri yapar ve varsa diğer kaynakların kullanımına son vermesi gerekir.\n Birden fazla dağıtım ve/veya görevli tedarik bölgesi içerisinde yapılacak başvurulara ait mahsuplaşma işlemleri",
+      "preview": "(Ek:RG-11/8/2022-31920) (1) Bu maddenin yürürlüğe girdiği tarih itibarıyla, atık lastiklerin işlenmesi sonucu ortaya çıkan yan ürünler olan…",
+      "kitap": null,
+      "kisim": null,
+      "bolum": null,
+      "ayirim": null,
+      "maddeBaslik": "Pirolitik gaz ve pirolitik yağ kullanan lisanssız üretim tesisleri",
+      "sectionPath": [
+        "Pirolitik gaz ve pirolitik yağ kullanan lisanssız üretim tesisleri"
+      ]
+    },
+    {
+      "id": "yonetmelik:31502:m:gecici:7",
+      "maddeKind": "gecici",
+      "maddeNo": "7",
+      "heading": "Geçici Madde 7",
+      "text": "(Ek:RG-1/10/2022-31970)\n (1) 26 ncı ve 30 uncu maddeler kapsamında işlemleri yürütülen tesislerde, üretim ve/veya tüketim tesislerinin farklı dağıtım ya da görevli tedarik şirketi bölgesi sınırları içinde olması halinde mahsuplaşma işlemlerinin nasıl yürütüleceğine ilişkin gerekli altyapı (Değişik ibare:RG-31/12/2022-32060 5.Mükerrer) 9 (dokuz) ay içerisinde piyasa işletmecisi tarafından hazırlanır.\n (2) (Değişik:RG-2/3/2023-32120) Üretim tesislerinin farklı görevli tedarik şirketi bölgesi sınırları içinde olmasına yönelik mahsuplaşma işlemleri, 1/7/2023 tarihinden itibaren uygulanır. Bu fıkra kapsamındaki işletmede olan üretim tesisleri tarafından şebekeye enerji verilmesi halinde şebekeye verilen enerji, görevli tedarik şirketi tarafından üretilerek sisteme verilmiş olarak kabul edilir ve bu enerji ile ilgili olarak piyasa işletmecisi ve görevli tedarik şirketi tarafından herhangi bir ödeme yapılmaz. Bu kapsamda sisteme verilen enerji, YEKDEM’e bedelsiz katkı olarak dikkate alınır ve YEKDEM’e bedelsiz katkı olarak dikkate alınan enerji miktarı için oluşacak sistem kullanım bedeli, ilgili şebeke işletmecileri tarafından EPİAŞ’a bildirilir. Görevli tedarik şirketi aracılığıyla ilgili şebeke işletmecisine ödenen ve YEKDEM’e bedelsiz katkı olarak dikkate alınan enerji için lisanssız üretim tesisi sahibi kişilere herhangi bir fatura tebliğ edilmez.\n (3) Bu Yönetmeliğin yayımlandığı tarih itibarıyla işletmede olan veya (Değişik ibare:RG-31/12/2022-32060 5.Mükerrer) 1/7/2023 tarihine kadar işletmeye girecek üretim tesisleri ile farklı dağıtım ya da görevli tedarik şirketi bölgesi içindeki tüketim tesislerinin mahsuplaşma işlemleri, (Değişik ibare:RG-31/12/2022-32060 5.Mükerrer) 1/7/2023 tarihine kadar üretim tesisinin bulunduğu bölgedeki görevli tedarik şirketi tarafından yürütülür.",
+      "preview": "(Ek:RG-1/10/2022-31970) (1) 26 ncı ve 30 uncu maddeler kapsamında işlemleri yürütülen tesislerde, üretim ve/veya tüketim tesislerinin farklı…",
+      "kitap": null,
+      "kisim": null,
+      "bolum": null,
+      "ayirim": null,
+      "maddeBaslik": "Pirolitik gaz ve pirolitik yağ kullanan lisanssız üretim tesisleri",
+      "sectionPath": [
+        "Pirolitik gaz ve pirolitik yağ kullanan lisanssız üretim tesisleri"
+      ]
+    },
+    {
+      "id": "yonetmelik:31502:m:gecici:8",
+      "maddeKind": "gecici",
+      "maddeNo": "8",
+      "heading": "Geçici Madde 8",
+      "text": "(Ek:RG-2/3/2023-32120)\n (1) Üretim tesisinin henüz kabulü yapılmayan ve mahsuplaşma işlemleri 26 ncı madde kapsamında yürütülecek kişilerce bu maddenin yürürlüğe girdiği tarihten itibaren 60 gün içerisinde başvuruda bulunulması halinde, bir defaya mahsus olmak üzere, bağlantı anlaşmasına çağrı mektubunda ve bağlantı anlaşmasında yer alan kurulu güçten yüzde onun üzerinde eksiltme yapılabilir.",
+      "preview": "(Ek:RG-2/3/2023-32120) (1) Üretim tesisinin henüz kabulü yapılmayan ve mahsuplaşma işlemleri 26 ncı madde kapsamında yürütülecek kişilerce b…",
+      "kitap": null,
+      "kisim": null,
+      "bolum": null,
+      "ayirim": null,
+      "maddeBaslik": "Kurulu güç düşürme işlemleri",
+      "sectionPath": [
+        "Kurulu güç düşürme işlemleri"
+      ]
+    },
+    {
+      "id": "yonetmelik:31502:m:gecici:9",
+      "maddeKind": "gecici",
+      "maddeNo": "9",
+      "heading": "Geçici Madde 9",
+      "text": "(Ek:RG-29/7/2023-32263)\n (1) Bu Yönetmeliğin 7 nci maddesinin on dokuzuncu ve yirminci fıkraları kapsamında duyurulacak kapasitelerin tespiti ve ilanı ile 10 uncu maddenin birinci fıkrası uyarınca elektronik başvuru altyapısının hazırlanması amacıyla gerekli işlemlerin yürütülmesini teminen, 1/8/2023 tarihinden 30/9/2023 tarihine kadar ilgili şebeke işletmecilerince yeni lisanssız üretim başvurusu alınmaz. Bu süre içerisinde yapılacak komisyon toplantılarında, 31/7/ 2023’e kadar yapılan başvuruların bu Yönetmelik kapsamındaki işlemleri yürütülür.\n (2) Bu Yönetmeliğin 7 nci maddesinin on dokuzuncu ve yirminci fıkraları kapsamında yapılacak duyuruların ilki, 2023 yılının Ekim ayında ve söz konusu fıkralarda belirtilen usule uygun olarak yapılır.",
+      "preview": "(Ek:RG-29/7/2023-32263) (1) Bu Yönetmeliğin 7 nci maddesinin on dokuzuncu ve yirminci fıkraları kapsamında duyurulacak kapasitelerin tespiti…",
+      "kitap": null,
+      "kisim": null,
+      "bolum": null,
+      "ayirim": null,
+      "maddeBaslik": "Elektronik başvuru ve kapasitelerin ilanı öncesinde yapılacak işlemler",
+      "sectionPath": [
+        "Elektronik başvuru ve kapasitelerin ilanı öncesinde yapılacak işlemler"
+      ]
+    },
+    {
+      "id": "yonetmelik:31502:m:gecici:10",
+      "maddeKind": "gecici",
+      "maddeNo": "10",
+      "heading": "Geçici Madde 10",
+      "text": "(Ek:RG-14/5/2024-32546)\n (1) Bu maddenin yürürlüğe girdiği tarih itibarıyla, 17 nci madde kapsamındaki bir yıllık süre, kalan süreleri bakımından mevcut bağlantı anlaşmasına çağrı mektupları için de uygulanır. Ancak bu sürenin yüz seksen günden az olması halinde, kalan süre yüz seksen gün olarak uygulanır.",
+      "preview": "(Ek:RG-14/5/2024-32546) (1) Bu maddenin yürürlüğe girdiği tarih itibarıyla, 17 nci madde kapsamındaki bir yıllık süre, kalan süreleri bakımı…",
+      "kitap": null,
+      "kisim": null,
+      "bolum": null,
+      "ayirim": null,
+      "maddeBaslik": "Bağlantı anlaşmasına çağrı mektubuna ilişkin işlemler",
+      "sectionPath": [
+        "Bağlantı anlaşmasına çağrı mektubuna ilişkin işlemler"
+      ]
+    },
+    {
+      "id": "yonetmelik:31502:m:gecici:11",
+      "maddeKind": "gecici",
+      "maddeNo": "11",
+      "heading": "Geçici Madde 11",
+      "text": "(Ek:RG-25/11/2025-33088)\n (1) Bu Yönetmeliğin;\n a) 10 uncu maddesinin beşinci fıkrası kapsamında devre konu olan üretim tesis veya tesisleri ile ilişkili tüketim tesis veya tesislerine ilişkin veriler, ilgili şebeke işletmecileri tarafından ay bazında güncel tutulacak şekilde piyasa işletmecisine bildirilir. Piyasa işletmecisi tarafından söz konusu veriler, ihtiyaç hâlinde ilgili şebeke işletmecilerinin ulaşabileceği bir veri tabanında tutulur. Bu kapsamda piyasa işletmecisi tarafından hazırlanacak sistem 15/12/2025 tarihinde kullanıma açılır.\n b) 14 üncü maddesi kapsamında yer alan öncelik değerlendirmesi hesabında kullanılacak veriler ilgili şebeke işletmecileri tarafından ay bazında güncel tutulacak şekilde piyasa işletmecisine bildirilir. Piyasa işletmecisi tarafından söz konusu veriler, ihtiyaç hâlinde ilgili şebeke işletmecilerinin ulaşabileceği bir veri tabanında tutulur. Bu kapsamda piyasa işletmecisi tarafından hazırlanacak sistem 15/12/2025 tarihinde kullanıma açılır.",
+      "preview": "(Ek:RG-25/11/2025-33088) (1) Bu Yönetmeliğin; a) 10 uncu maddesinin beşinci fıkrası kapsamında devre konu olan üretim tesis veya tesisleri i…",
+      "kitap": null,
+      "kisim": null,
+      "bolum": null,
+      "ayirim": null,
+      "maddeBaslik": "Öncelik değerlendirmesine ilişkin işlemler",
+      "sectionPath": [
+        "Öncelik değerlendirmesine ilişkin işlemler"
+      ]
+    },
+    {
+      "id": "yonetmelik:31502:m:gecici:12",
+      "maddeKind": "gecici",
+      "maddeNo": "12",
+      "heading": "Geçici Madde 12",
+      "text": "(Ek:RG-25/11/2025-33088)\n (1) 12/5/2019 tarihinden itibaren bu Yönetmelik hükümleri uyarınca düzenlenen bağlantı anlaşmasına çağrı mektubu ve bağlantı anlaşması kapsamında kurulması planlanan ve henüz kabulü tamamlanmayan tesisler için; aynı tüketim tesisi veya tesisleriyle ilişkilendirilmek üzere, bütünleşik parsel ya da parseller üzerinde yapılmış başvurular, ilgili gerçek veya tüzel kişiler tarafından talep edilmesi hâlinde kurulu güç artışı kapsamında değerlendirilir ve revize bağlantı anlaşmasına çağrı mektubu veya revize bağlantı anlaşması düzenlenmesi durumunda 17 nci maddenin altıncı fıkrası kapsamındaki süreler uygulanır.\n Piyasa işletmecisi tarafından mahsuplaşma ve verilerin düzenlenmesi işlemlerine ilişkin altyapıların hazırlanmasına kadar yapılacak iş ve işlemler",
+      "preview": "(Ek:RG-25/11/2025-33088) (1) 12/5/2019 tarihinden itibaren bu Yönetmelik hükümleri uyarınca düzenlenen bağlantı anlaşmasına çağrı mektubu ve…",
+      "kitap": null,
+      "kisim": null,
+      "bolum": null,
+      "ayirim": null,
+      "maddeBaslik": "Bütünleşik parsellerdeki başvuruların değerlendirilmesi",
+      "sectionPath": [
+        "Bütünleşik parsellerdeki başvuruların değerlendirilmesi"
+      ]
+    },
+    {
+      "id": "yonetmelik:31502:m:gecici:13",
+      "maddeKind": "gecici",
+      "maddeNo": "13",
+      "heading": "Geçici Madde 13",
+      "text": "(Ek:RG-2/4/2026-33212)\n (1) Bu Yönetmeliğin 33 üncü maddesi kapsamındaki veri tabanının oluşturulması ile 26 ncı maddesi kapsamında gerçekleştirilecek mahsuplaşma işlemlerine ilişkin gerekli altyapılar, piyasa işletmecisi tarafından 1/5/2026 tarihine kadar tesis edilir. Söz konusu tarihe kadar; ilgili maddeler kapsamındaki mahsuplaşma işlemleri, piyasa işletmecisi, ilgili şebeke işletmecileri ve görevli tedarik şirketleri tarafından aylık mahsuplaşma kapsamında yürütülür.",
+      "preview": "(Ek:RG-2/4/2026-33212) (1) Bu Yönetmeliğin 33 üncü maddesi kapsamındaki veri tabanının oluşturulması ile 26 ncı maddesi kapsamında gerçekleş…",
+      "kitap": null,
+      "kisim": null,
+      "bolum": null,
+      "ayirim": null,
+      "maddeBaslik": "Bütünleşik parsellerdeki başvuruların değerlendirilmesi",
+      "sectionPath": [
+        "Bütünleşik parsellerdeki başvuruların değerlendirilmesi"
+      ]
+    },
+    {
+      "id": "yonetmelik:31502:m:40",
+      "maddeKind": "madde",
+      "maddeNo": "40",
+      "heading": "Madde 40",
+      "text": "(1) Bu Yönetmelik yayımı tarihinde yürürlüğe girer.",
+      "preview": "(1) Bu Yönetmelik yayımı tarihinde yürürlüğe girer.",
+      "kitap": null,
+      "kisim": null,
+      "bolum": null,
+      "ayirim": null,
+      "maddeBaslik": "Yürürlük",
+      "sectionPath": [
+        "Yürürlük"
+      ]
+    },
+    {
+      "id": "yonetmelik:31502:m:41",
+      "maddeKind": "madde",
+      "maddeNo": "41",
+      "heading": "Madde 41",
+      "text": "(1) Bu Yönetmelik hükümlerini Enerji Piyasası Düzenleme Kurumu Başkanı yürütür.\n ___________________\n (1) Bu değişiklik 1/10/2023 tarihinde yürürlüğe girer.\n\n Ekleri için tıklayınız.\n\n Yönetmeliğin Yayımlandığı Resmî Gazete’nin\n\n Tarihi\n Sayısı\n\n 12/5/2019\n 30772\n\n Yönetmelikte Değişiklik Yapan Yönetmeliklerin Yayımlandığı Resmî Gazetelerin\n\n Tarihi\n Sayısı\n\n 1.\n 23/9/2020\n 31253\n\n 2.\n 9/5/2021\n 31479\n\n 3.\n 31/10/2021\n 31645\n\n 4.\n 11/8/2022\n 31920\n\n 5.\n 14/5/2024\n 32546\n\n 6.\n 17/12/2024\n 32755\n\n 7.\n 25/11/2025\n 33088\n\n 8.\n 2/4/2026\n 33212\n\n [1] Bu değişiklik 1/5/2026 tarihinde yürürlüğe girer.\n\n [2] Bu maddenin birinci fıkrası 1/5/2026 tarihinde yürürlüğe girer.\n\n [3] Bu maddenin birinci, ikinci ve dördüncü fıkraları 1/5/2026 tarihinde yürürlüğe girer.",
+      "preview": "(1) Bu Yönetmelik hükümlerini Enerji Piyasası Düzenleme Kurumu Başkanı yürütür. ___________________ (1) Bu değişiklik 1/10/2023 tarihinde yü…",
+      "kitap": null,
+      "kisim": null,
+      "bolum": null,
+      "ayirim": null,
+      "maddeBaslik": "Yürütme",
+      "sectionPath": [
+        "Yürütme"
+      ]
+    }
+  ]
+}

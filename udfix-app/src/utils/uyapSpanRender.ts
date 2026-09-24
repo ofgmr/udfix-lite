@@ -1,5 +1,6 @@
 import type { UyapRenderedSpan } from './uyapFieldResolver';
 import { uyapArgbToCssColor } from './uyapColor';
+import { UDF_DEFAULT_FONT_FAMILY } from './udfPrintHtml';
 
 const SAFE_CSS_FONT_FAMILY = /^[A-Za-z0-9 ._-]+$/;
 
@@ -28,7 +29,7 @@ function spanAttrsToInlineStyle(attrs: Record<string, string | undefined> | unde
     if (attrs.strikethrough === 'true') spanStyle += 'text-decoration: line-through;';
     if (attrs.family) {
         const family = sanitizeCssFontFamily(attrs.family);
-        if (family) spanStyle += `font-family: ${family};`;
+        if (family) spanStyle += `font-family: ${family}, ${UDF_DEFAULT_FONT_FAMILY};`;
     }
     if (attrs.size) {
         const size = String(attrs.size).trim();

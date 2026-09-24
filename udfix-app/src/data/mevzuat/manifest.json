@@ -1,7 +1,24 @@
 {
   "version": 1,
-  "generatedAt": "2026-09-12T00:18:43.100Z",
+  "generatedAt": "2026-09-24T16:18:22.378Z",
   "instruments": [
+    {
+      "id": "kanun:1",
+      "file": "kanun-1.json",
+      "kind": "kanun",
+      "no": "1",
+      "title": "Cumhurbaşkanlığı Teşkilatı Hakkında Cumhurbaşkanlığı Kararnamesi",
+      "shortName": "CBK 1",
+      "aliases": [
+        "CBK 1",
+        "1 sayılı CBK",
+        "Cumhurbaşkanlığı Teşkilatı Hakkında Cumhurbaşkanlığı Kararnamesi",
+        "1"
+      ],
+      "tur": 19,
+      "tertip": 5,
+      "maddeCount": 562
+    },
     {
       "id": "kanun:193",
       "file": "kanun-193.json",
@@ -128,6 +145,22 @@
       "maddeCount": 372
     },
     {
+      "id": "kanun:663",
+      "file": "kanun-663.json",
+      "kind": "kanun",
+      "no": "663",
+      "title": "Sağlık Bakanlığı ve Bağlı Kuruluşlarının Teşkilat ve Görevleri Hakkında Kanun Hükmünde Kararname",
+      "shortName": "KHK 663",
+      "aliases": [
+        "KHK 663",
+        "Sağlık Bakanlığı ve Bağlı Kuruluşlarının Teşkilat ve Görevleri Hakkında Kanun Hükmünde Kararname",
+        "663"
+      ],
+      "tur": 4,
+      "tertip": 5,
+      "maddeCount": 80
+    },
+    {
       "id": "kanun:854",
       "file": "kanun-854.json",
       "kind": "kanun",
@@ -159,6 +192,21 @@
       "maddeCount": 236
     },
     {
+      "id": "kanun:1163",
+      "file": "kanun-1163.json",
+      "kind": "kanun",
+      "no": "1163",
+      "title": "Kooperatifler Kanunu",
+      "shortName": "Kooperatifler Kanunu",
+      "aliases": [
+        "Kooperatifler Kanunu",
+        "1163"
+      ],
+      "tur": 1,
+      "tertip": 5,
+      "maddeCount": 122
+    },
+    {
       "id": "kanun:1219",
       "file": "kanun-1219.json",
       "kind": "kanun",
@@ -172,6 +220,21 @@
       "tur": 1,
       "tertip": 3,
       "maddeCount": 113
+    },
+    {
+      "id": "kanun:1262",
+      "file": "kanun-1262.json",
+      "kind": "kanun",
+      "no": "1262",
+      "title": "İspençiyari ve Tıbbi Müstahzarlar Kanunu",
+      "shortName": "İspençiyari ve Tıbbi Müstahzarlar Kanunu",
+      "aliases": [
+        "İspençiyari ve Tıbbi Müstahzarlar Kanunu",
+        "1262"
+      ],
+      "tur": 1,
+      "tertip": 3,
+      "maddeCount": 31
     },
     {
       "id": "kanun:1319",
@@ -189,6 +252,21 @@
       "maddeCount": 80
     },
     {
+      "id": "kanun:1380",
+      "file": "kanun-1380.json",
+      "kind": "kanun",
+      "no": "1380",
+      "title": "Su Ürünleri Kanunu",
+      "shortName": "Su Ürünleri Kanunu",
+      "aliases": [
+        "Su Ürünleri Kanunu",
+        "1380"
+      ],
+      "tur": 1,
+      "tertip": 5,
+      "maddeCount": 54
+    },
+    {
       "id": "kanun:1512",
       "file": "kanun-1512.json",
       "kind": "kanun",
@@ -204,6 +282,22 @@
       "maddeCount": 236
     },
     {
+      "id": "kanun:1567",
+      "file": "kanun-1567.json",
+      "kind": "kanun",
+      "no": "1567",
+      "title": "Türk Parasının Kıymetini Koruma Hakkında Kanun",
+      "shortName": "TPKK",
+      "aliases": [
+        "TPKK",
+        "Türk Parasının Kıymetini Koruma Hakkında Kanun",
+        "1567"
+      ],
+      "tur": 1,
+      "tertip": 3,
+      "maddeCount": 15
+    },
+    {
       "id": "kanun:1593",
       "file": "kanun-1593.json",
       "kind": "kanun",
@@ -217,6 +311,21 @@
       "tur": 1,
       "tertip": 3,
       "maddeCount": 299
+    },
+    {
+      "id": "kanun:1618",
+      "file": "kanun-1618.json",
+      "kind": "kanun",
+      "no": "1618",
+      "title": "Seyahat Acentaları ve Seyahat Acentaları Birliği Kanunu",
+      "shortName": "Seyahat Acentaları ve Seyahat Acentaları Birliği Kanunu",
+      "aliases": [
+        "Seyahat Acentaları ve Seyahat Acentaları Birliği Kanunu",
+        "1618"
+      ],
+      "tur": 1,
+      "tertip": 5,
+      "maddeCount": 46
     },
     {
       "id": "kanun:2004",
@@ -235,6 +344,21 @@
       "maddeCount": 401
     },
     {
+      "id": "kanun:2464",
+      "file": "kanun-2464.json",
+      "kind": "kanun",
+      "no": "2464",
+      "title": "Belediye Gelirleri Kanunu",
+      "shortName": "Belediye Gelirleri Kanunu",
+      "aliases": [
+        "Belediye Gelirleri Kanunu",
+        "2464"
+      ],
+      "tur": 1,
+      "tertip": 5,
+      "maddeCount": 103
+    },
+    {
       "id": "kanun:2547",
       "file": "kanun-2547.json",
       "kind": "kanun",
@@ -248,6 +372,21 @@
       "tur": 1,
       "tertip": 5,
       "maddeCount": 221
+    },
+    {
+      "id": "kanun:2548",
+      "file": "kanun-2548.json",
+      "kind": "kanun",
+      "no": "2548",
+      "title": "Ceza Evleri ile Mahkeme Binaları İnşası Karşılığı Olarak Alınacak Harçlar ve Mahkûmlara Ödettirilecek Yiyecek Bedelleri Hakkında Kanun",
+      "shortName": "Ceza Evleri ile Mahkeme Binaları İnşası Karşılığı Olarak Alınacak Harçlar ve Mahkûmlara Ödettirilecek Yiyecek Bedelleri Hakkında Kanun",
+      "aliases": [
+        "Ceza Evleri ile Mahkeme Binaları İnşası Karşılığı Olarak Alınacak Harçlar ve Mahkûmlara Ödettirilecek Yiyecek Bedelleri Hakkında Kanun",
+        "2548"
+      ],
+      "tur": 1,
+      "tertip": 5,
+      "maddeCount": 12
     },
     {
       "id": "kanun:2559",
@@ -279,6 +418,21 @@
       "tur": 1,
       "tertip": 5,
       "maddeCount": 135
+    },
+    {
+      "id": "kanun:2576",
+      "file": "kanun-2576.json",
+      "kind": "kanun",
+      "no": "2576",
+      "title": "Bölge İdare Mahkemeleri, İdare Mahkemeleri ve Vergi Mahkemelerinin Kuruluşu ve Görevleri Hakkında Kanun",
+      "shortName": "Bölge İdare Mahkemeleri, İdare Mahkemeleri ve Vergi Mahkemelerinin Kuruluşu ve Görevleri Hakkında Kanun",
+      "aliases": [
+        "Bölge İdare Mahkemeleri, İdare Mahkemeleri ve Vergi Mahkemelerinin Kuruluşu ve Görevleri Hakkında Kanun",
+        "2576"
+      ],
+      "tur": 1,
+      "tertip": 5,
+      "maddeCount": 41
     },
     {
       "id": "kanun:2577",
@@ -451,6 +605,21 @@
       "maddeCount": 101
     },
     {
+      "id": "kanun:2911",
+      "file": "kanun-2911.json",
+      "kind": "kanun",
+      "no": "2911",
+      "title": "Toplantı ve Gösteri Yürüyüşleri Kanunu",
+      "shortName": "Toplantı ve Gösteri Yürüyüşleri Kanunu",
+      "aliases": [
+        "Toplantı ve Gösteri Yürüyüşleri Kanunu",
+        "2911"
+      ],
+      "tur": 1,
+      "tertip": 5,
+      "maddeCount": 44
+    },
+    {
       "id": "kanun:2918",
       "file": "kanun-2918.json",
       "kind": "kanun",
@@ -495,6 +664,21 @@
       "tur": 1,
       "tertip": 5,
       "maddeCount": 69
+    },
+    {
+      "id": "kanun:2985",
+      "file": "kanun-2985.json",
+      "kind": "kanun",
+      "no": "2985",
+      "title": "Toplu Konut Kanunu",
+      "shortName": "Toplu Konut Kanunu",
+      "aliases": [
+        "Toplu Konut Kanunu",
+        "2985"
+      ],
+      "tur": 1,
+      "tertip": 5,
+      "maddeCount": 38
     },
     {
       "id": "kanun:3065",
@@ -650,6 +834,36 @@
       "maddeCount": 73
     },
     {
+      "id": "kanun:4342",
+      "file": "kanun-4342.json",
+      "kind": "kanun",
+      "no": "4342",
+      "title": "Mera Kanunu",
+      "shortName": "Mera Kanunu",
+      "aliases": [
+        "Mera Kanunu",
+        "4342"
+      ],
+      "tur": 1,
+      "tertip": 5,
+      "maddeCount": 43
+    },
+    {
+      "id": "kanun:4447",
+      "file": "kanun-4447.json",
+      "kind": "kanun",
+      "no": "4447",
+      "title": "İşsizlik Sigortası Kanunu",
+      "shortName": "İşsizlik Sigortası Kanunu",
+      "aliases": [
+        "İşsizlik Sigortası Kanunu",
+        "4447"
+      ],
+      "tur": 1,
+      "tertip": 5,
+      "maddeCount": 69
+    },
+    {
       "id": "kanun:4458",
       "file": "kanun-4458.json",
       "kind": "kanun",
@@ -678,6 +892,21 @@
       "tur": 1,
       "tertip": 5,
       "maddeCount": 50
+    },
+    {
+      "id": "kanun:4646",
+      "file": "kanun-4646.json",
+      "kind": "kanun",
+      "no": "4646",
+      "title": "Doğal Gaz Piyasası Kanunu",
+      "shortName": "Doğal Gaz Piyasası Kanunu",
+      "aliases": [
+        "Doğal Gaz Piyasası Kanunu",
+        "4646"
+      ],
+      "tur": 1,
+      "tertip": 5,
+      "maddeCount": 28
     },
     {
       "id": "kanun:4686",
@@ -819,6 +1048,21 @@
       "maddeCount": 9
     },
     {
+      "id": "kanun:4915",
+      "file": "kanun-4915.json",
+      "kind": "kanun",
+      "no": "4915",
+      "title": "Kara Avcılığı Kanunu",
+      "shortName": "Kara Avcılığı Kanunu",
+      "aliases": [
+        "Kara Avcılığı Kanunu",
+        "4915"
+      ],
+      "tur": 1,
+      "tertip": 5,
+      "maddeCount": 40
+    },
+    {
       "id": "kanun:4925",
       "file": "kanun-4925.json",
       "kind": "kanun",
@@ -864,6 +1108,21 @@
       "maddeCount": 38
     },
     {
+      "id": "kanun:5018",
+      "file": "kanun-5018.json",
+      "kind": "kanun",
+      "no": "5018",
+      "title": "Kamu Malî Yönetimi ve Kontrol Kanunu",
+      "shortName": "Kamu Malî Yönetimi ve Kontrol Kanunu",
+      "aliases": [
+        "Kamu Malî Yönetimi ve Kontrol Kanunu",
+        "5018"
+      ],
+      "tur": 1,
+      "tertip": 5,
+      "maddeCount": 117
+    },
+    {
       "id": "kanun:5070",
       "file": "kanun-5070.json",
       "kind": "kanun",
@@ -877,6 +1136,22 @@
       "tur": 1,
       "tertip": 5,
       "maddeCount": 28
+    },
+    {
+      "id": "kanun:5174",
+      "file": "kanun-5174.json",
+      "kind": "kanun",
+      "no": "5174",
+      "title": "Türkiye Odalar ve Borsalar Birliği ile Odalar ve Borsalar Kanunu",
+      "shortName": "TOBB Kanunu",
+      "aliases": [
+        "TOBB Kanunu",
+        "Türkiye Odalar ve Borsalar Birliği ile Odalar ve Borsalar Kanunu",
+        "5174"
+      ],
+      "tur": 1,
+      "tertip": 5,
+      "maddeCount": 125
     },
     {
       "id": "kanun:5187",
@@ -937,6 +1212,21 @@
       "tur": 1,
       "tertip": 5,
       "maddeCount": 39
+    },
+    {
+      "id": "kanun:5235",
+      "file": "kanun-5235.json",
+      "kind": "kanun",
+      "no": "5235",
+      "title": "Adlî Yargı İlk Derece Mahkemeleri ile Bölge Adliye Mahkemelerinin Kuruluş, Görev ve Yetkileri Hakkında Kanun",
+      "shortName": "Adlî Yargı İlk Derece Mahkemeleri ile Bölge Adliye Mahkemelerinin Kuruluş, Görev ve Yetkileri Hakkında Kanun",
+      "aliases": [
+        "Adlî Yargı İlk Derece Mahkemeleri ile Bölge Adliye Mahkemelerinin Kuruluş, Görev ve Yetkileri Hakkında Kanun",
+        "5235"
+      ],
+      "tur": 1,
+      "tertip": 5,
+      "maddeCount": 64
     },
     {
       "id": "kanun:5237",
@@ -1017,6 +1307,21 @@
       "maddeCount": 44
     },
     {
+      "id": "kanun:5302",
+      "file": "kanun-5302.json",
+      "kind": "kanun",
+      "no": "5302",
+      "title": "İl Özel İdaresi Kanunu",
+      "shortName": "İl Özel İdaresi Kanunu",
+      "aliases": [
+        "İl Özel İdaresi Kanunu",
+        "5302"
+      ],
+      "tur": 1,
+      "tertip": 5,
+      "maddeCount": 78
+    },
+    {
       "id": "kanun:5326",
       "file": "kanun-5326.json",
       "kind": "kanun",
@@ -1078,6 +1383,22 @@
       "maddeCount": 53
     },
     {
+      "id": "kanun:5402",
+      "file": "kanun-5402.json",
+      "kind": "kanun",
+      "no": "5402",
+      "title": "Denetimli Serbestlik ve Yardım Merkezleri ile Koruma Kurulları Kanunu",
+      "shortName": "Denetimli Serbestlik Kanunu",
+      "aliases": [
+        "Denetimli Serbestlik Kanunu",
+        "Denetimli Serbestlik ve Yardım Merkezleri ile Koruma Kurulları Kanunu",
+        "5402"
+      ],
+      "tur": 1,
+      "tertip": 5,
+      "maddeCount": 37
+    },
+    {
       "id": "kanun:5403",
       "file": "kanun-5403.json",
       "kind": "kanun",
@@ -1121,6 +1442,36 @@
       "tur": 1,
       "tertip": 3,
       "maddeCount": 77
+    },
+    {
+      "id": "kanun:5464",
+      "file": "kanun-5464.json",
+      "kind": "kanun",
+      "no": "5464",
+      "title": "Banka Kartları ve Kredi Kartları Kanunu",
+      "shortName": "Banka Kartları ve Kredi Kartları Kanunu",
+      "aliases": [
+        "Banka Kartları ve Kredi Kartları Kanunu",
+        "5464"
+      ],
+      "tur": 1,
+      "tertip": 5,
+      "maddeCount": 55
+    },
+    {
+      "id": "kanun:5488",
+      "file": "kanun-5488.json",
+      "kind": "kanun",
+      "no": "5488",
+      "title": "Tarım Kanunu",
+      "shortName": "Tarım Kanunu",
+      "aliases": [
+        "Tarım Kanunu",
+        "5488"
+      ],
+      "tur": 1,
+      "tertip": 5,
+      "maddeCount": 32
     },
     {
       "id": "kanun:5490",
@@ -1307,6 +1658,21 @@
       "maddeCount": 95
     },
     {
+      "id": "kanun:5809",
+      "file": "kanun-5809.json",
+      "kind": "kanun",
+      "no": "5809",
+      "title": "Elektronik Haberleşme Kanunu",
+      "shortName": "Elektronik Haberleşme Kanunu",
+      "aliases": [
+        "Elektronik Haberleşme Kanunu",
+        "5809"
+      ],
+      "tur": 1,
+      "tertip": 5,
+      "maddeCount": 79
+    },
+    {
       "id": "kanun:5846",
       "file": "kanun-5846.json",
       "kind": "kanun",
@@ -1367,6 +1733,37 @@
       "tur": 1,
       "tertip": 3,
       "maddeCount": 40
+    },
+    {
+      "id": "kanun:5957",
+      "file": "kanun-5957.json",
+      "kind": "kanun",
+      "no": "5957",
+      "title": "Sebze ve Meyve Ticareti ve Toptancı Halleri Hakkında Kanun",
+      "shortName": "Hal Kanunu",
+      "aliases": [
+        "Hal Kanunu",
+        "Sebze ve Meyve Ticareti ve Toptancı Halleri Hakkında Kanun",
+        "5957"
+      ],
+      "tur": 1,
+      "tertip": 5,
+      "maddeCount": 22
+    },
+    {
+      "id": "kanun:5996",
+      "file": "kanun-5996.json",
+      "kind": "kanun",
+      "no": "5996",
+      "title": "Veteriner Hizmetleri, Bitki Sağlığı, Gıda ve Yem Kanunu",
+      "shortName": "Veteriner Hizmetleri, Bitki Sağlığı, Gıda ve Yem Kanunu",
+      "aliases": [
+        "Veteriner Hizmetleri, Bitki Sağlığı, Gıda ve Yem Kanunu",
+        "5996"
+      ],
+      "tur": 1,
+      "tertip": 5,
+      "maddeCount": 53
     },
     {
       "id": "kanun:6098",
@@ -1525,6 +1922,21 @@
       "maddeCount": 41
     },
     {
+      "id": "kanun:6326",
+      "file": "kanun-6326.json",
+      "kind": "kanun",
+      "no": "6326",
+      "title": "Turist Rehberliği Meslek Kanunu",
+      "shortName": "Turist Rehberliği Meslek Kanunu",
+      "aliases": [
+        "Turist Rehberliği Meslek Kanunu",
+        "6326"
+      ],
+      "tur": 1,
+      "tertip": 5,
+      "maddeCount": 21
+    },
+    {
       "id": "kanun:6331",
       "file": "kanun-6331.json",
       "kind": "kanun",
@@ -1616,6 +2028,21 @@
       "tur": 1,
       "tertip": 5,
       "maddeCount": 131
+    },
+    {
+      "id": "kanun:6493",
+      "file": "kanun-6493.json",
+      "kind": "kanun",
+      "no": "6493",
+      "title": "Ödeme ve Menkul Kıymet Mutabakat Sistemleri, Ödeme Hizmetleri ve Elektronik Para Kuruluşları Hakkında Kanun",
+      "shortName": "Ödeme ve Menkul Kıymet Mutabakat Sistemleri, Ödeme Hizmetleri ve Elektronik Para Kuruluşları Hakkında Kanun",
+      "aliases": [
+        "Ödeme ve Menkul Kıymet Mutabakat Sistemleri, Ödeme Hizmetleri ve Elektronik Para Kuruluşları Hakkında Kanun",
+        "6493"
+      ],
+      "tur": 1,
+      "tertip": 5,
+      "maddeCount": 45
     },
     {
       "id": "kanun:6502",
@@ -1786,6 +2213,22 @@
       "maddeCount": 14
     },
     {
+      "id": "kanun:7155",
+      "file": "kanun-7155.json",
+      "kind": "kanun",
+      "no": "7155",
+      "title": "Abonelik Sözleşmesinden Kaynaklanan Para Alacaklarına İlişkin Takibin Başlatılması Usulü Hakkında Kanun",
+      "shortName": "MTS Kanunu",
+      "aliases": [
+        "MTS Kanunu",
+        "Abonelik Sözleşmesinden Kaynaklanan Para Alacaklarına İlişkin Takibin Başlatılması Usulü Hakkında Kanun",
+        "7155"
+      ],
+      "tur": 1,
+      "tertip": 5,
+      "maddeCount": 17
+    },
+    {
       "id": "kanun:7194",
       "file": "kanun-7194.json",
       "kind": "kanun",
@@ -1816,6 +2259,21 @@
       "tur": 1,
       "tertip": 3,
       "maddeCount": 68
+    },
+    {
+      "id": "kanun:7223",
+      "file": "kanun-7223.json",
+      "kind": "kanun",
+      "no": "7223",
+      "title": "Ürün Güvenliği ve Teknik Düzenlemeler Kanunu",
+      "shortName": "Ürün Güvenliği ve Teknik Düzenlemeler Kanunu",
+      "aliases": [
+        "Ürün Güvenliği ve Teknik Düzenlemeler Kanunu",
+        "7223"
+      ],
+      "tur": 1,
+      "tertip": 5,
+      "maddeCount": 28
     },
     {
       "id": "kanun:7269",
@@ -1863,6 +2321,86 @@
       "maddeCount": 59
     },
     {
+      "id": "kanun:7464",
+      "file": "kanun-7464.json",
+      "kind": "kanun",
+      "no": "7464",
+      "title": "Konutların Turizm Amaçlı Kiralanması Hakkında Kanun",
+      "shortName": "Turizm Kiralaması Kanunu",
+      "aliases": [
+        "Turizm Kiralaması Kanunu",
+        "Konutların Turizm Amaçlı Kiralanması Hakkında Kanun",
+        "7464"
+      ],
+      "tur": 1,
+      "tertip": 5,
+      "maddeCount": 19
+    },
+    {
+      "id": "yonetmelik:1134",
+      "file": "yonetmelik-1134.json",
+      "kind": "yonetmelik",
+      "no": "1134",
+      "title": "Turizm Tesislerinin Belgelendirilmesine ve Niteliklerine İlişkin Yönetmelik",
+      "shortName": "Turizm Tesis Yön.",
+      "aliases": [
+        "Turizm Tesis Yön.",
+        "Turizm Tesislerinin Belgelendirilmesine ve Niteliklerine İlişkin Yönetmelik",
+        "1134"
+      ],
+      "tur": 21,
+      "tertip": 5,
+      "maddeCount": 50
+    },
+    {
+      "id": "yonetmelik:2324",
+      "file": "yonetmelik-2324.json",
+      "kind": "yonetmelik",
+      "no": "2324",
+      "title": "Ceza İnfaz Kurumlarının Yönetimi ile Ceza ve Güvenlik Tedbirlerinin İnfazı Hakkında Yönetmelik",
+      "shortName": "İnfazYön",
+      "aliases": [
+        "İnfazYön",
+        "Ceza İnfaz Kurumlarının Yönetimi ile Ceza ve Güvenlik Tedbirlerinin İnfazı Hakkında Yönetmelik",
+        "2324"
+      ],
+      "tur": 21,
+      "tertip": 5,
+      "maddeCount": 148
+    },
+    {
+      "id": "yonetmelik:3935",
+      "file": "yonetmelik-3935.json",
+      "kind": "yonetmelik",
+      "no": "3935",
+      "title": "Devlet Memurları Disiplin Yönetmeliği",
+      "shortName": "DisiplinYön",
+      "aliases": [
+        "DisiplinYön",
+        "Devlet Memurları Disiplin Yönetmeliği",
+        "3935"
+      ],
+      "tur": 21,
+      "tertip": 5,
+      "maddeCount": 46
+    },
+    {
+      "id": "yonetmelik:4847",
+      "file": "yonetmelik-4847.json",
+      "kind": "yonetmelik",
+      "no": "4847",
+      "title": "Hasta Hakları Yönetmeliği",
+      "shortName": "Hasta Hakları Yön.",
+      "aliases": [
+        "Hasta Hakları Yön.",
+        "Hasta Hakları Yönetmeliği",
+        "4847"
+      ],
+      "tur": 7,
+      "tertip": 5,
+      "maddeCount": 51
+    },
+    {
       "id": "yonetmelik:5040",
       "file": "yonetmelik-5040.json",
       "kind": "yonetmelik",
@@ -1877,6 +2415,54 @@
       "tur": 7,
       "tertip": 5,
       "maddeCount": 139
+    },
+    {
+      "id": "yonetmelik:5447",
+      "file": "yonetmelik-5447.json",
+      "kind": "yonetmelik",
+      "no": "5447",
+      "title": "İş Kanununa İlişkin Çalışma Süreleri Yönetmeliği",
+      "shortName": "ÇalışmaSüreleriYön",
+      "aliases": [
+        "ÇalışmaSüreleriYön",
+        "İş Kanununa İlişkin Çalışma Süreleri Yönetmeliği",
+        "5447"
+      ],
+      "tur": 7,
+      "tertip": 5,
+      "maddeCount": 13
+    },
+    {
+      "id": "yonetmelik:5451",
+      "file": "yonetmelik-5451.json",
+      "kind": "yonetmelik",
+      "no": "5451",
+      "title": "Yıllık Ücretli İzin Yönetmeliği",
+      "shortName": "İzinYön",
+      "aliases": [
+        "İzinYön",
+        "Yıllık Ücretli İzin Yönetmeliği",
+        "5451"
+      ],
+      "tur": 7,
+      "tertip": 5,
+      "maddeCount": 23
+    },
+    {
+      "id": "yonetmelik:5454",
+      "file": "yonetmelik-5454.json",
+      "kind": "yonetmelik",
+      "no": "5454",
+      "title": "Asgari Ücret Yönetmeliği",
+      "shortName": "Asgari Ücret Yön.",
+      "aliases": [
+        "Asgari Ücret Yön.",
+        "Asgari Ücret Yönetmeliği",
+        "5454"
+      ],
+      "tur": 7,
+      "tertip": 5,
+      "maddeCount": 18
     },
     {
       "id": "yonetmelik:5780",
@@ -1929,6 +2515,166 @@
       "maddeCount": 120
     },
     {
+      "id": "yonetmelik:8197",
+      "file": "yonetmelik-8197.json",
+      "kind": "yonetmelik",
+      "no": "8197",
+      "title": "Yakalama, Gözaltına Alma ve İfade Alma Yönetmeliği",
+      "shortName": "YakalamaYön",
+      "aliases": [
+        "YakalamaYön",
+        "Yakalama, Gözaltına Alma ve İfade Alma Yönetmeliği",
+        "8197"
+      ],
+      "tur": 7,
+      "tertip": 5,
+      "maddeCount": 34
+    },
+    {
+      "id": "yonetmelik:8203",
+      "file": "yonetmelik-8203.json",
+      "kind": "yonetmelik",
+      "no": "8203",
+      "title": "Adlî ve Önleme Aramaları Yönetmeliği",
+      "shortName": "AramaYön",
+      "aliases": [
+        "AramaYön",
+        "Adlî ve Önleme Aramaları Yönetmeliği",
+        "8203"
+      ],
+      "tur": 7,
+      "tertip": 5,
+      "maddeCount": 36
+    },
+    {
+      "id": "yonetmelik:9171",
+      "file": "yonetmelik-9171.json",
+      "kind": "yonetmelik",
+      "no": "9171",
+      "title": "Koruma Amaçlı İmar Planları ve Çevre Düzenleme Projelerinin Hazırlanması, Gösterimi, Uygulaması, Denetimi ve Müelliflerine İlişkin Usul ve Esaslara Ait Yönetmelik",
+      "shortName": "Koruma Amaçlı İmar Yön.",
+      "aliases": [
+        "Koruma Amaçlı İmar Yön.",
+        "Koruma Amaçlı İmar Planları ve Çevre Düzenleme Projelerinin Hazırlanması, Gösterimi, Uygulaması, Denetimi ve Müelliflerine İlişkin Usul ve Esaslara Ait Yönetmelik",
+        "9171"
+      ],
+      "tur": 7,
+      "tertip": 5,
+      "maddeCount": 31
+    },
+    {
+      "id": "yonetmelik:11648",
+      "file": "yonetmelik-11648.json",
+      "kind": "yonetmelik",
+      "no": "11648",
+      "title": "Seyahat Acentaları Yönetmeliği",
+      "shortName": "Seyahat Acentası Yön.",
+      "aliases": [
+        "Seyahat Acentası Yön.",
+        "Seyahat Acentaları Yönetmeliği",
+        "11648"
+      ],
+      "tur": 7,
+      "tertip": 5,
+      "maddeCount": 63
+    },
+    {
+      "id": "yonetmelik:11951",
+      "file": "yonetmelik-11951.json",
+      "kind": "yonetmelik",
+      "no": "11951",
+      "title": "Yapı Denetimi Uygulama Yönetmeliği",
+      "shortName": "Yapı Denetim Yön.",
+      "aliases": [
+        "Yapı Denetim Yön.",
+        "Yapı Denetimi Uygulama Yönetmeliği",
+        "11951"
+      ],
+      "tur": 7,
+      "tertip": 5,
+      "maddeCount": 54
+    },
+    {
+      "id": "yonetmelik:12459",
+      "file": "yonetmelik-12459.json",
+      "kind": "yonetmelik",
+      "no": "12459",
+      "title": "Alt İşverenlik Yönetmeliği",
+      "shortName": "AltİşverenYön",
+      "aliases": [
+        "AltİşverenYön",
+        "Alt İşverenlik Yönetmeliği",
+        "12459"
+      ],
+      "tur": 7,
+      "tertip": 5,
+      "maddeCount": 16
+    },
+    {
+      "id": "yonetmelik:12916",
+      "file": "yonetmelik-12916.json",
+      "kind": "yonetmelik",
+      "no": "12916",
+      "title": "Yapım İşleri İhaleleri Uygulama Yönetmeliği",
+      "shortName": "Yapım İhale Yön.",
+      "aliases": [
+        "Yapım İhale Yön.",
+        "Yapım İşleri İhaleleri Uygulama Yönetmeliği",
+        "12916"
+      ],
+      "tur": 7,
+      "tertip": 5,
+      "maddeCount": 113
+    },
+    {
+      "id": "yonetmelik:13354",
+      "file": "yonetmelik-13354.json",
+      "kind": "yonetmelik",
+      "no": "13354",
+      "title": "Kamu İhale Genel Tebliği",
+      "shortName": "KİK Genel Tebliği",
+      "aliases": [
+        "KİK Genel Tebliği",
+        "Kamu İhale Genel Tebliği",
+        "13354"
+      ],
+      "tur": 9,
+      "tertip": 5,
+      "maddeCount": 131
+    },
+    {
+      "id": "yonetmelik:15452",
+      "file": "yonetmelik-15452.json",
+      "kind": "yonetmelik",
+      "no": "15452",
+      "title": "Vergi İncelemelerinde Uyulacak Usul ve Esaslar Hakkında Yönetmelik",
+      "shortName": "Vergi İnceleme Yön.",
+      "aliases": [
+        "Vergi İnceleme Yön.",
+        "Vergi İncelemelerinde Uyulacak Usul ve Esaslar Hakkında Yönetmelik",
+        "15452"
+      ],
+      "tur": 7,
+      "tertip": 5,
+      "maddeCount": 31
+    },
+    {
+      "id": "yonetmelik:15592",
+      "file": "yonetmelik-15592.json",
+      "kind": "yonetmelik",
+      "no": "15592",
+      "title": "Gıda Hijyeni Yönetmeliği",
+      "shortName": "Gıda Hijyeni Yön.",
+      "aliases": [
+        "Gıda Hijyeni Yön.",
+        "Gıda Hijyeni Yönetmeliği",
+        "15592"
+      ],
+      "tur": 7,
+      "tertip": 5,
+      "maddeCount": 31
+    },
+    {
       "id": "yonetmelik:15828",
       "file": "yonetmelik-15828.json",
       "kind": "yonetmelik",
@@ -1944,6 +2690,70 @@
       "tur": 7,
       "tertip": 5,
       "maddeCount": 82
+    },
+    {
+      "id": "yonetmelik:15958",
+      "file": "yonetmelik-15958.json",
+      "kind": "yonetmelik",
+      "no": "15958",
+      "title": "Korunması Gerekli Taşınmaz Kültür Varlıklarının ve Sitlerin Tespit ve Tescili Hakkında Yönetmelik",
+      "shortName": "Kültür Varlığı Tescil Yön.",
+      "aliases": [
+        "Kültür Varlığı Tescil Yön.",
+        "Korunması Gerekli Taşınmaz Kültür Varlıklarının ve Sitlerin Tespit ve Tescili Hakkında Yönetmelik",
+        "15958"
+      ],
+      "tur": 7,
+      "tertip": 5,
+      "maddeCount": 12
+    },
+    {
+      "id": "yonetmelik:16924",
+      "file": "yonetmelik-16924.json",
+      "kind": "yonetmelik",
+      "no": "16924",
+      "title": "İş Sağlığı ve Güvenliği Hizmetleri Yönetmeliği",
+      "shortName": "İSG Hizmetleri Yön.",
+      "aliases": [
+        "İSG Hizmetleri Yön.",
+        "İş Sağlığı ve Güvenliği Hizmetleri Yönetmeliği",
+        "16924"
+      ],
+      "tur": 7,
+      "tertip": 5,
+      "maddeCount": 30
+    },
+    {
+      "id": "yonetmelik:19819",
+      "file": "yonetmelik-19819.json",
+      "kind": "yonetmelik",
+      "no": "19819",
+      "title": "Fiyat Etiketi Yönetmeliği",
+      "shortName": "Etiket Yön.",
+      "aliases": [
+        "Etiket Yön.",
+        "Fiyat Etiketi Yönetmeliği",
+        "19819"
+      ],
+      "tur": 7,
+      "tertip": 5,
+      "maddeCount": 16
+    },
+    {
+      "id": "yonetmelik:20237",
+      "file": "yonetmelik-20237.json",
+      "kind": "yonetmelik",
+      "no": "20237",
+      "title": "Mesafeli Sözleşmeler Yönetmeliği",
+      "shortName": "Mesafeli Sözleşme Yön.",
+      "aliases": [
+        "Mesafeli Sözleşme Yön.",
+        "Mesafeli Sözleşmeler Yönetmeliği",
+        "20237"
+      ],
+      "tur": 7,
+      "tertip": 5,
+      "maddeCount": 24
     },
     {
       "id": "yonetmelik:23615",
@@ -1963,6 +2773,22 @@
       "maddeCount": 265
     },
     {
+      "id": "yonetmelik:23722",
+      "file": "yonetmelik-23722.json",
+      "kind": "yonetmelik",
+      "no": "23722",
+      "title": "Planlı Alanlar İmar Yönetmeliği",
+      "shortName": "İmarYön",
+      "aliases": [
+        "İmarYön",
+        "Planlı Alanlar İmar Yönetmeliği",
+        "23722"
+      ],
+      "tur": 7,
+      "tertip": 5,
+      "maddeCount": 78
+    },
+    {
       "id": "yonetmelik:23818",
       "file": "yonetmelik-23818.json",
       "kind": "yonetmelik",
@@ -1977,6 +2803,38 @@
       "tur": 7,
       "tertip": 5,
       "maddeCount": 91
+    },
+    {
+      "id": "yonetmelik:24038",
+      "file": "yonetmelik-24038.json",
+      "kind": "yonetmelik",
+      "no": "24038",
+      "title": "Kişisel Verilerin Silinmesi, Yok Edilmesi veya Anonim Hale Getirilmesi Hakkında Yönetmelik",
+      "shortName": "KVKKSilmeYön",
+      "aliases": [
+        "KVKKSilmeYön",
+        "Kişisel Verilerin Silinmesi, Yok Edilmesi veya Anonim Hale Getirilmesi Hakkında Yönetmelik",
+        "24038"
+      ],
+      "tur": 7,
+      "tertip": 5,
+      "maddeCount": 15
+    },
+    {
+      "id": "yonetmelik:24299",
+      "file": "yonetmelik-24299.json",
+      "kind": "yonetmelik",
+      "no": "24299",
+      "title": "Karayolu Taşıma Yönetmeliği",
+      "shortName": "K1/K2 Yön.",
+      "aliases": [
+        "K1/K2 Yön.",
+        "Karayolu Taşıma Yönetmeliği",
+        "24299"
+      ],
+      "tur": 7,
+      "tertip": 5,
+      "maddeCount": 95
     },
     {
       "id": "yonetmelik:24638",
@@ -1996,6 +2854,103 @@
       "maddeCount": 62
     },
     {
+      "id": "yonetmelik:24645",
+      "file": "yonetmelik-24645.json",
+      "kind": "yonetmelik",
+      "no": "24645",
+      "title": "Taşınmaz Ticareti Hakkında Yönetmelik",
+      "shortName": "Emlak Ticareti Yön.",
+      "aliases": [
+        "Emlak Ticareti Yön.",
+        "Taşınmaz Ticareti Hakkında Yönetmelik",
+        "24645"
+      ],
+      "tur": 7,
+      "tertip": 5,
+      "maddeCount": 26
+    },
+    {
+      "id": "yonetmelik:31251",
+      "file": "yonetmelik-31251.json",
+      "kind": "yonetmelik",
+      "no": "31251",
+      "title": "Arazi Toplulaştırması ve Tarla İçi Geliştirme Hizmetleri Uygulama Yönetmeliği",
+      "shortName": "Toplulaştırma Yön.",
+      "aliases": [
+        "Toplulaştırma Yön.",
+        "Arazi Toplulaştırması ve Tarla İçi Geliştirme Hizmetleri Uygulama Yönetmeliği",
+        "31251"
+      ],
+      "tur": 7,
+      "tertip": 5,
+      "maddeCount": 28
+    },
+    {
+      "id": "yonetmelik:31300",
+      "file": "yonetmelik-31300.json",
+      "kind": "yonetmelik",
+      "no": "31300",
+      "title": "Şantiye Şefleri Hakkında Yönetmelik",
+      "shortName": "Şantiye Şefi Yön.",
+      "aliases": [
+        "Şantiye Şefi Yön.",
+        "Şantiye Şefleri Hakkında Yönetmelik",
+        "31300"
+      ],
+      "tur": 7,
+      "tertip": 5,
+      "maddeCount": 15
+    },
+    {
+      "id": "yonetmelik:31502",
+      "file": "yonetmelik-31502.json",
+      "kind": "yonetmelik",
+      "no": "31502",
+      "title": "Elektrik Piyasasında Lisanssız Elektrik Üretim Yönetmeliği",
+      "shortName": "Lisanssız Üretim Yön.",
+      "aliases": [
+        "Lisanssız Üretim Yön.",
+        "Elektrik Piyasasında Lisanssız Elektrik Üretim Yönetmeliği",
+        "31502"
+      ],
+      "tur": 7,
+      "tertip": 5,
+      "maddeCount": 57
+    },
+    {
+      "id": "yonetmelik:31556",
+      "file": "yonetmelik-31556.json",
+      "kind": "yonetmelik",
+      "no": "31556",
+      "title": "Abonelik Sözleşmesinden Kaynaklanan Para Alacaklarına İlişkin Takibin Başlatılması Usulü Hakkında Yönetmelik",
+      "shortName": "MTSYön",
+      "aliases": [
+        "MTSYön",
+        "E-Takip Yönetmeliği",
+        "Abonelik Sözleşmesinden Kaynaklanan Para Alacaklarına İlişkin Takibin Başlatılması Usulü Hakkında Yönetmelik",
+        "31556"
+      ],
+      "tur": 7,
+      "tertip": 5,
+      "maddeCount": 23
+    },
+    {
+      "id": "yonetmelik:38657",
+      "file": "yonetmelik-38657.json",
+      "kind": "yonetmelik",
+      "no": "38657",
+      "title": "Tıbbi Cihaz Yönetmeliği",
+      "shortName": "Tıbbi Cihaz Yön.",
+      "aliases": [
+        "Tıbbi Cihaz Yön.",
+        "Tıbbi Cihaz Yönetmeliği",
+        "38657"
+      ],
+      "tur": 7,
+      "tertip": 5,
+      "maddeCount": 113
+    },
+    {
       "id": "yonetmelik:38760",
       "file": "yonetmelik-38760.json",
       "kind": "yonetmelik",
@@ -2010,6 +2965,182 @@
       "tur": 7,
       "tertip": 5,
       "maddeCount": 20
+    },
+    {
+      "id": "yonetmelik:39077",
+      "file": "yonetmelik-39077.json",
+      "kind": "yonetmelik",
+      "no": "39077",
+      "title": "Orman Kanununun 17 nci Maddesinin Üçüncü Fıkrasının Uygulanması Hakkında Yönetmelik",
+      "shortName": "Orman 17/3 Yön.",
+      "aliases": [
+        "Orman 17/3 Yön.",
+        "Orman Kanununun 17 nci Maddesinin Üçüncü Fıkrasının Uygulanması Hakkında Yönetmelik",
+        "39077"
+      ],
+      "tur": 7,
+      "tertip": 5,
+      "maddeCount": 40
+    },
+    {
+      "id": "yonetmelik:39647",
+      "file": "yonetmelik-39647.json",
+      "kind": "yonetmelik",
+      "no": "39647",
+      "title": "Çevresel Etki Değerlendirmesi Yönetmeliği",
+      "shortName": "ÇED Yön.",
+      "aliases": [
+        "ÇED Yön.",
+        "Çevresel Etki Değerlendirmesi Yönetmeliği",
+        "39647"
+      ],
+      "tur": 7,
+      "tertip": 5,
+      "maddeCount": 33
+    },
+    {
+      "id": "yonetmelik:39873",
+      "file": "yonetmelik-39873.json",
+      "kind": "yonetmelik",
+      "no": "39873",
+      "title": "Maden Yönetmeliği",
+      "shortName": "Maden Yön.",
+      "aliases": [
+        "Maden Yön.",
+        "Maden Yönetmeliği",
+        "39873"
+      ],
+      "tur": 7,
+      "tertip": 5,
+      "maddeCount": 151
+    },
+    {
+      "id": "yonetmelik:40940",
+      "file": "yonetmelik-40940.json",
+      "kind": "yonetmelik",
+      "no": "40940",
+      "title": "Motorlu Kara Taşıtlarının Ticareti Hakkında Yönetmelik",
+      "shortName": "İkinci El Taşıt Yön.",
+      "aliases": [
+        "İkinci El Taşıt Yön.",
+        "Motorlu Kara Taşıtlarının Ticareti Hakkında Yönetmelik",
+        "40940"
+      ],
+      "tur": 7,
+      "tertip": 5,
+      "maddeCount": 38
+    },
+    {
+      "id": "yonetmelik:41015",
+      "file": "yonetmelik-41015.json",
+      "kind": "yonetmelik",
+      "no": "41015",
+      "title": "Avukatlık Asgari Ücret Tarifesi",
+      "shortName": "AAÜT",
+      "aliases": [
+        "AAÜT",
+        "Avukatlık Asgari Ücret Tarifesi",
+        "41015"
+      ],
+      "tur": 9,
+      "tertip": 5,
+      "maddeCount": 24
+    },
+    {
+      "id": "yonetmelik:41265",
+      "file": "yonetmelik-41265.json",
+      "kind": "yonetmelik",
+      "no": "41265",
+      "title": "Özel Hastaneler Yönetmeliği",
+      "shortName": "Özel Hastane Yön.",
+      "aliases": [
+        "Özel Hastane Yön.",
+        "Özel Hastaneler Yönetmeliği",
+        "41265"
+      ],
+      "tur": 7,
+      "tertip": 5,
+      "maddeCount": 69
+    },
+    {
+      "id": "yonetmelik:42369",
+      "file": "yonetmelik-42369.json",
+      "kind": "yonetmelik",
+      "no": "42369",
+      "title": "Ayakta Teşhis ve Tedavi Yapılan Özel Sağlık Kuruluşları Hakkında Yönetmelik",
+      "shortName": "Ayakta Teşhis Yön.",
+      "aliases": [
+        "Ayakta Teşhis Yön.",
+        "Ayakta Teşhis ve Tedavi Yapılan Özel Sağlık Kuruluşları Hakkında Yönetmelik",
+        "42369"
+      ],
+      "tur": 7,
+      "tertip": 5,
+      "maddeCount": 50
+    },
+    {
+      "id": "yonetmelik:20059207",
+      "file": "yonetmelik-20059207.json",
+      "kind": "yonetmelik",
+      "no": "20059207",
+      "title": "İşyeri Açma ve Çalışma Ruhsatlarına İlişkin Yönetmelik",
+      "shortName": "İşyeri Ruhsat Yön.",
+      "aliases": [
+        "İşyeri Ruhsat Yön.",
+        "İşyeri Açma ve Çalışma Ruhsatlarına İlişkin Yönetmelik",
+        "20059207"
+      ],
+      "tur": 21,
+      "tertip": 5,
+      "maddeCount": 60
+    },
+    {
+      "id": "yonetmelik:20124093",
+      "file": "yonetmelik-20124093.json",
+      "kind": "yonetmelik",
+      "no": "20124093",
+      "title": "Ticaret Sicili Yönetmeliği",
+      "shortName": "Ticaret Sicili Yön.",
+      "aliases": [
+        "Ticaret Sicili Yön.",
+        "Ticaret Sicili Yönetmeliği",
+        "20124093"
+      ],
+      "tur": 21,
+      "tertip": 5,
+      "maddeCount": 142
+    },
+    {
+      "id": "yonetmelik:20135150",
+      "file": "yonetmelik-20135150.json",
+      "kind": "yonetmelik",
+      "no": "20135150",
+      "title": "Tapu Sicili Tüzüğü",
+      "shortName": "TapuTüz",
+      "aliases": [
+        "TapuTüz",
+        "Tapu Sicili Tüzüğü",
+        "20135150"
+      ],
+      "tur": 2,
+      "tertip": 5,
+      "maddeCount": 94
+    },
+    {
+      "id": "yonetmelik:200713012",
+      "file": "yonetmelik-200713012.json",
+      "kind": "yonetmelik",
+      "no": "200713012",
+      "title": "Suç Gelirlerinin Aklanmasının ve Terörün Finansmanının Önlenmesine Dair Tedbirler Hakkında Yönetmelik",
+      "shortName": "MASAK Tedbirler Yön.",
+      "aliases": [
+        "MASAK Tedbirler Yön.",
+        "Suç Gelirlerinin Aklanmasının ve Terörün Finansmanının Önlenmesine Dair Tedbirler Hakkında Yönetmelik",
+        "200713012"
+      ],
+      "tur": 21,
+      "tertip": 5,
+      "maddeCount": 56
     }
   ]
 }

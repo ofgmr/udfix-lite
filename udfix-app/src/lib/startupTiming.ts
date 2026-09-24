@@ -1,5 +1,6 @@
 const t0 = typeof performance !== 'undefined' ? performance.now() : 0;
 const marks: { label: string; ms: number }[] = [];
+let summaryFlushed = false;
 
 function enabled(): boolean {
     if (typeof window === 'undefined') return false;
@@ -19,7 +20,8 @@ export function rendererStartupMark(label: string): void {
 }
 
 export function rendererStartupFlushSummary(): void {
-    if (!enabled() || marks.length < 2) return;
+    if (!enabled() || marks.length < 2 || summaryFlushed) return;
+    summaryFlushed = true;
     console.log('[startup-renderer] phase deltas (ms):');
     for (let i = 1; i < marks.length; i++) {
         const prev = marks[i - 1]!;

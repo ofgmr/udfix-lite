@@ -12,9 +12,9 @@ UDFIX bir kelime işlemci, UDF dönüştürücü veya bulut arşivi değil. Yapa
 
 | | |
 |---|---|
-| Site | [udfiix.app](https://udfiix.app) |
-| İndir | [macOS](https://releases.udfix.com/lite/macos/) |
-| İletişim | [info@udfiix.app](mailto:info@udfiix.app) |
+| Site | [udfix.app](https://udfix.app) |
+| İndir | [macOS](https://releases.udfix.app/katir/macos/) |
+| İletişim | [info@udfix.app](mailto:info@udfix.app) |
 
 ## Ne işe yarar
 

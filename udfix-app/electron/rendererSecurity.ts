@@ -118,6 +118,19 @@ export function configureSessionSecurity(targetSession: Session, devMode: boolea
         targetSession.webRequest.onBeforeRequest((details, callback) => {
             const url = details.url;
             if (url.startsWith('http://') || url.startsWith('https://')) {
+                // Loopback is not "remote": the Katır köprü (127.0.0.1:17821) is
+                // polled from the main process via net.fetch on the default
+                // session, and webRequest intercepts those requests too.
+                // Renderers stay blocked by CSP connect-src either way.
+                try {
+                    const hostname = new URL(url).hostname;
+                    if (hostname === '127.0.0.1' || hostname === 'localhost' || hostname === '[::1]') {
+                        callback({});
+                        return;
+                    }
+                } catch {
+                    /* unparseable — fall through to block */
+                }
                 console.warn('[renderer-security] blocked remote request:', url.slice(0, 120));
                 callback({ cancel: true });
                 return;

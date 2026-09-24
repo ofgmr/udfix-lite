@@ -33,7 +33,7 @@ import { TemplateLibraryCommandTab } from './TemplateLibraryCommandTab';
 import { TasksCommandTab } from './TasksCommandTab';
 import { UyapCommandTab } from './UyapCommandTab';
 import { toast } from 'sonner';
-import { formatShortcutKeys } from '../../shortcuts/format';
+import { formatShortcutKeys, shortcutGlyphs } from '../../shortcuts/format';
 import { matchesCombo } from '../../shortcuts/match';
 import { getRegistryEntry } from '../../shortcuts/registry';
 import { OFFICE_MATTER_TYPE_LABELS } from '../../data/uyap/uyapDosyaTurMapping';
@@ -77,6 +77,26 @@ function formatAudit(ts?: string | null): string {
     } catch {
         return ts ?? '';
     }
+}
+
+function PaletteTabShortcut({ registryId }: { registryId: string }) {
+    const entry = getRegistryEntry(registryId)!;
+    const glyphs = shortcutGlyphs(entry.combo, entry.winCombo);
+    return (
+        <span
+            aria-hidden
+            className="ml-1 inline-flex items-center gap-[3px] font-[system-ui,'SF Pro Text',sans-serif] text-[11px] font-normal text-muted-foreground/45"
+        >
+            {glyphs.map((glyph, index) => (
+                <span
+                    key={`${glyph}-${index}`}
+                    className="inline-flex h-3.5 min-w-[0.7em] items-center justify-center leading-none"
+                >
+                    {glyph}
+                </span>
+            ))}
+        </span>
+    );
 }
 
 function noteTitle(note: Pick<NoteSummary, 'title'>): string {
@@ -193,7 +213,7 @@ function PaletteSearchInput({
 
     return (
         <div
-            className="flex items-center border-b border-slate-200 bg-white px-3 dark:border-white/10 dark:bg-neutral-950"
+            className="flex items-center border-b border-border bg-card px-3"
             cmdk-input-wrapper=""
         >
             <MaterialIcon icon="search" size={16} className="mr-2 shrink-0 opacity-50" />
@@ -201,7 +221,7 @@ function PaletteSearchInput({
                 ref={inputRef}
                 value={draft}
                 placeholder="Arama yapın veya bir komut yazın (Müvekkil, Dosya, Not...)"
-                className="flex h-11 w-full rounded-md bg-transparent py-3 text-sm text-slate-950 outline-none placeholder:text-slate-500 disabled:cursor-not-allowed disabled:opacity-50 dark:text-neutral-50 dark:placeholder:text-neutral-400"
+                className="flex h-11 w-full rounded-md bg-transparent py-3 text-sm text-foreground outline-none placeholder:text-muted-foreground disabled:cursor-not-allowed disabled:opacity-50"
                 onChange={(event) => {
                     const next = event.target.value;
                     setDraft(next);
@@ -325,6 +345,7 @@ const CommandPalette: React.FC = () => {
 
     useEffect(() => {
         const templatesShortcut = getRegistryEntry('command-palette-templates');
+        const katirShortcut = getRegistryEntry('command-palette-katir');
         const tasksShortcut = getRegistryEntry('command-palette-tasks');
         const paletteShortcut = getRegistryEntry('command-palette');
 
@@ -333,6 +354,13 @@ const CommandPalette: React.FC = () => {
                 e.preventDefault();
                 e.stopPropagation();
                 setTab('templates');
+                setOpen(true);
+                return;
+            }
+            if (katirShortcut && matchesCombo(e, katirShortcut.combo)) {
+                e.preventDefault();
+                e.stopPropagation();
+                setTab('uyap');
                 setOpen(true);
                 return;
             }
@@ -571,42 +599,44 @@ const CommandPalette: React.FC = () => {
                     className="flex h-[min(640px,88vh)] min-h-[320px] flex-col"
                 >
                     <div className="flex shrink-0 items-center justify-between gap-2 border-b border-border/70 bg-background/45 py-2 pl-3 pr-14 backdrop-blur-xl">
-                        <TabsList className="h-9 border border-border/70 bg-card/55 p-0.5 text-muted-foreground shadow-sm backdrop-blur-xl" variant="default">
+                        <TabsList className="h-9 max-w-full min-w-0 overflow-x-auto border border-border/70 bg-card/55 p-0.5 text-muted-foreground shadow-sm backdrop-blur-xl" variant="default">
                             <TabsTrigger
                                 value="search"
-                                className="gap-1.5 px-3 text-xs data-[state=active]:bg-primary/15 data-[state=active]:text-foreground sm:text-sm"
+                                title={`Arama (${formatShortcutKeys(getRegistryEntry('command-palette')!.combo)})`}
+                                className="gap-1.5 px-2.5 text-xs data-[state=active]:bg-primary/15 data-[state=active]:text-foreground sm:px-3 sm:text-sm"
                             >
                                 <MaterialIcon icon="search" size={16} />
-                                Arama
+                                <span>Arama</span>
+                                <PaletteTabShortcut registryId="command-palette" />
                             </TabsTrigger>
                             <TabsTrigger
                                 value="templates"
-                                className="gap-1.5 px-3 text-xs data-[state=active]:bg-primary/15 data-[state=active]:text-foreground sm:text-sm"
+                                title={`Şablonlar (${formatShortcutKeys(getRegistryEntry('command-palette-templates')!.combo)})`}
+                                className="gap-1.5 px-2.5 text-xs data-[state=active]:bg-primary/15 data-[state=active]:text-foreground sm:px-3 sm:text-sm"
                             >
                                 <MaterialIcon icon="stylus_note" size={16} />
-                                Şablonlar
+                                <span>Şablonlar</span>
+                                <PaletteTabShortcut registryId="command-palette-templates" />
                             </TabsTrigger>
                             <TabsTrigger
                                 value="tasks"
-                                className="gap-1.5 px-3 text-xs data-[state=active]:bg-primary/15 data-[state=active]:text-foreground sm:text-sm"
+                                title={`Yapılacaklar (${formatShortcutKeys(getRegistryEntry('command-palette-tasks')!.combo)})`}
+                                className="gap-1.5 px-2.5 text-xs data-[state=active]:bg-primary/15 data-[state=active]:text-foreground sm:px-3 sm:text-sm"
                             >
                                 <MaterialIcon icon="checklist" size={16} />
-                                Yapılacaklar
+                                <span>Yapılacaklar</span>
+                                <PaletteTabShortcut registryId="command-palette-tasks" />
                             </TabsTrigger>
                             <TabsTrigger
                                 value="uyap"
-                                className="gap-1.5 px-3 text-xs data-[state=active]:bg-primary/15 data-[state=active]:text-foreground sm:text-sm"
+                                title={`Katır (${formatShortcutKeys(getRegistryEntry('command-palette-katir')!.combo)})`}
+                                className="gap-1.5 px-2.5 text-xs data-[state=active]:bg-primary/15 data-[state=active]:text-foreground sm:px-3 sm:text-sm"
                             >
                                 <MaterialIcon icon="sync_desktop" size={16} />
-                                Katır
+                                <span>Katır</span>
+                                <PaletteTabShortcut registryId="command-palette-katir" />
                             </TabsTrigger>
                         </TabsList>
-                        <span className="mr-2 hidden shrink-0 whitespace-nowrap text-[10px] text-muted-foreground lg:block">
-                            <kbd className="rounded border border-border/70 bg-background/50 px-1 text-foreground">⌘</kbd>+
-                            <kbd className="rounded border border-border/70 bg-background/50 px-1 text-foreground">K</kbd> arama ·{' '}
-                            <kbd className="rounded border border-border/70 bg-background/50 px-1 text-foreground">⇧</kbd>K şablon ·{' '}
-                            <kbd className="rounded border border-border/70 bg-background/50 px-1 text-foreground">⇧</kbd>T görev
-                        </span>
                     </div>
 
                     <TabsContent
@@ -1081,6 +1111,9 @@ const CommandPalette: React.FC = () => {
                                                         <span className="block font-medium">Katır</span>
                                                         <span className="block text-xs text-muted-foreground">UYAP dosya özeti. Canlı yol Katır kesiminde.</span>
                                                     </span>
+                                                    <CommandShortcut>
+                                                        {formatShortcutKeys(getRegistryEntry('command-palette-katir')!.combo)}
+                                                    </CommandShortcut>
                                                 </CommandItem>
                                                 <CommandItem
                                                     value="belge kurtarma"

@@ -1,8 +1,8 @@
 diff --git a/node_modules/tiptap-pagination-plus/dist/PaginationPlus.js b/node_modules/tiptap-pagination-plus/dist/PaginationPlus.js
-index 52bd368..ebc0291 100644
+index 186b675..4fe4112 100644
 --- a/node_modules/tiptap-pagination-plus/dist/PaginationPlus.js
 +++ b/node_modules/tiptap-pagination-plus/dist/PaginationPlus.js
-@@ -414,39 +414,54 @@ const getExistingPageCount = (view) => {
+@@ -523,12 +523,20 @@ const getExistingPageCount = (view) => {
      }
      return 0;
  };
@@ -26,44 +26,23 @@ index 52bd368..ebc0291 100644
      const paginationElement = editorDom.querySelector("[data-rm-pagination]");
      const currentPageCount = getExistingPageCount(view);
      if (paginationElement) {
--        const lastElementOfEditor = editorDom.lastElementChild;
-+        const lastEl = editorDom.lastElementChild;
-         const lastPageBreak = (_a = paginationElement.lastElementChild) === null || _a === void 0 ? void 0 : _a.querySelector(".breaker");
--        if (lastElementOfEditor && lastPageBreak) {
--            const lastElementRect = lastElementOfEditor.getBoundingClientRect();
-+        /** If last DOM child is the whole #pages column, its bottom is thousands of px below the last .breaker — false "overflow". */
-+        let gapBottomEl = lastEl;
-+        if (lastEl && paginationElement.contains(lastEl)) {
-+            const lastPageInner = paginationElement.querySelector(".rm-page-break:last-child .page");
-+            if (lastPageInner)
-+                gapBottomEl = lastPageInner;
-+        }
-+        if (gapBottomEl && lastPageBreak) {
-+            const lastElementRect = gapBottomEl.getBoundingClientRect();
-             const lastPageBreakRect = lastPageBreak.getBoundingClientRect();
--            const lastPageGap = lastElementRect.bottom -
--                lastPageBreakRect.bottom;
--            if (lastPageGap > 0) {
+@@ -540,28 +548,29 @@ const calculatePageCount = (view, pageOptions, headerHeight = 0, footerHeight =
+             const lastPageGap = lastElementRect.bottom -
+                 lastPageBreakRect.bottom;
+             if (lastPageGap > 0) {
 -                const addPage = Math.ceil(lastPageGap / pageContentAreaHeight);
 -                return currentPageCount + addPage;
-+            const lastPageGap = lastElementRect.bottom - lastPageBreakRect.bottom;
-+            if (lastPageGap > 1) {
 +                let addPage = Math.ceil(lastPageGap / pageContentAreaHeight);
 +                addPage = Math.min(NOMAI_MAX_ADD_PAGES_PER_PASS, addPage);
 +                return Math.min(NOMAI_MAX_TOTAL_PAGES, currentPageCount + addPage);
              }
              else {
-                 const lpFrom = -10;
-                 const lpTo = -(pageOptions.pageHeight - 10);
-                 if (lastPageGap > lpTo && lastPageGap < lpFrom) {
--                    return currentPageCount;
-+                    return Math.min(NOMAI_MAX_TOTAL_PAGES, currentPageCount);
-                 }
-                 else if (lastPageGap < lpTo) {
-                     const pageHeightOnRemove = pageOptions.pageHeight + pageOptions.pageGap;
-                     const removePage = Math.floor(lastPageGap / pageHeightOnRemove);
--                    return currentPageCount + removePage;
-+                    return Math.min(NOMAI_MAX_TOTAL_PAGES, currentPageCount + removePage);
+                 const allBreaksAfterLastElement = Array.from(paginationElement.querySelectorAll(".breaker"));
+                 const allBreaksAfterLastElementRect = allBreaksAfterLastElement.filter(element => element.getBoundingClientRect().top > lastElementRect.bottom);
+                 const removePage = allBreaksAfterLastElementRect.length;
+                 if (removePage > 1) {
+-                    return currentPageCount - removePage;
++                    return Math.min(NOMAI_MAX_TOTAL_PAGES, currentPageCount - removePage);
                  }
                  else {
 -                    return currentPageCount;
@@ -71,7 +50,10 @@ index 52bd368..ebc0291 100644
                  }
              }
          }
-@@ -456,7 +471,7 @@ const calculatePageCount = (view, pageOptions, headerHeight = 0, footerHeight =
+-        return 1;
++        return Math.min(NOMAI_MAX_TOTAL_PAGES, 1);
+     }
+     else {
          const editorHeight = editorDom.scrollHeight;
          let pageCount = Math.ceil(editorHeight / pageContentAreaHeight);
          pageCount = pageCount <= 0 ? 1 : pageCount;
@@ -79,7 +61,7 @@ index 52bd368..ebc0291 100644
 +        return Math.min(NOMAI_MAX_TOTAL_PAGES, pageCount);
      }
  };
- function createDecoration(pageOptions, headerHeightMap, footerHeightMap) {
+ const getNewPageCount = (view, pageOptions) => {
 diff --git a/node_modules/tiptap-pagination-plus/dist/utils.js b/node_modules/tiptap-pagination-plus/dist/utils.js
 index 8ee009b..9f78940 100644
 --- a/node_modules/tiptap-pagination-plus/dist/utils.js

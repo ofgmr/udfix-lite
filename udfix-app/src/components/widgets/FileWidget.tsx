@@ -124,7 +124,7 @@ const FileWidget: React.FC<FileWidgetProps> = React.memo(({
                             <MaterialIcon icon="more_horiz" size={18} />
                         </Button>
                     </DropdownMenuTrigger>
-                    <DropdownMenuContent align="end" className="glass border-white/10 w-32">
+                    <DropdownMenuContent align="end" className="glass border-border w-32">
                         <DropdownMenuItem
                             onSelect={(e) => {
                                 e.preventDefault();

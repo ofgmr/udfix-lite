@@ -4,6 +4,11 @@ import {
     type UyapVerificationMeta,
 } from '../../utils/uyapVerification';
 import { uyapVerificationQrDataUrl } from '../../utils/uyapVerificationBlock';
+import {
+    EDITOR_PAGE_MARGIN_LEFT_PX,
+    EDITOR_PAGE_MARGIN_RIGHT_PX,
+    EDITOR_PAGE_WIDTH_PX,
+} from '../../utils/editorLayout';
 
 interface UyapVerificationBandProps {
     meta: UyapVerificationMeta;
@@ -40,8 +45,13 @@ export const UyapVerificationBand: React.FC<UyapVerificationBandProps> = ({ meta
             aria-label="UYAP belge doğrulama"
         >
             <div
-                className="mx-auto w-full max-w-[794px] px-[50px] py-5 box-border"
-                style={{ width: 'var(--rm-page-width, 794px)' }}
+                className="mx-auto w-full py-5 box-border"
+                style={{
+                    width: `var(--rm-page-width, ${EDITOR_PAGE_WIDTH_PX}px)`,
+                    maxWidth: `${EDITOR_PAGE_WIDTH_PX}px`,
+                    paddingLeft: `var(--rm-margin-left, ${EDITOR_PAGE_MARGIN_LEFT_PX}px)`,
+                    paddingRight: `var(--rm-margin-right, ${EDITOR_PAGE_MARGIN_RIGHT_PX}px)`,
+                }}
             >
                 <table className="w-full border-collapse" role="presentation">
                     <tbody>

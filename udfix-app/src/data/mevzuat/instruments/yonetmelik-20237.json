@@ -1,0 +1,427 @@
+{
+  "id": "yonetmelik:20237",
+  "kind": "yonetmelik",
+  "no": "20237",
+  "title": "Mesafeli Sözleşmeler Yönetmeliği",
+  "shortName": "Mesafeli Sözleşme Yön.",
+  "aliases": [
+    "Mesafeli Sözleşme Yön.",
+    "Mesafeli Sözleşmeler Yönetmeliği",
+    "20237"
+  ],
+  "tur": 7,
+  "tertip": 5,
+  "sourceUrl": "https://www.mevzuat.gov.tr/mevzuat?MevzuatNo=20237&MevzuatTur=7&MevzuatTertip=5",
+  "kabulTarihi": null,
+  "maddeCount": 24,
+  "maddeler": [
+    {
+      "id": "yonetmelik:20237:m:1",
+      "maddeKind": "madde",
+      "maddeNo": "1",
+      "heading": "Madde 1",
+      "text": "(1) Bu Yönetmeliğin amacı, mesafeli sözleşmelere ilişkin uygulama usul ve esaslarını düzenlemektir.",
+      "preview": "(1) Bu Yönetmeliğin amacı, mesafeli sözleşmelere ilişkin uygulama usul ve esaslarını düzenlemektir.",
+      "kitap": null,
+      "kisim": null,
+      "bolum": "BİRİNCİ BÖLÜM · Amaç, Kapsam, Dayanak ve Tanımlar",
+      "ayirim": null,
+      "maddeBaslik": "Amaç",
+      "sectionPath": [
+        "BİRİNCİ BÖLÜM · Amaç, Kapsam, Dayanak ve Tanımlar",
+        "Amaç"
+      ]
+    },
+    {
+      "id": "yonetmelik:20237:m:2",
+      "maddeKind": "madde",
+      "maddeNo": "2",
+      "heading": "Madde 2",
+      "text": "(1) Bu Yönetmelik, mesafeli sözleşmelere uygulanır.\n (2) Bu Yönetmelik hükümleri;\n a) Finansal hizmetler,\n b) Otomatik makineler aracılığıyla yapılan satışlar,\n c) Halka açık telefon vasıtasıyla telekomünikasyon operatörleriyle bu telefonun kullanımı,\n ç) Bahis, çekiliş, piyango ve benzeri şans oyunlarına ilişkin hizmetler,\n d) Taşınmaz malların veya bu mallara ilişkin hakların oluşumu, devri veya kazanımı,\n e) Konut kiralama,\n f) Paket turlar,\n g) Devre mülk, devre tatil, uzun süreli tatil hizmeti ve bunların yeniden satımı veya değişimi,\n ğ) Yiyecek ve içecekler gibi günlük tüketim maddelerinin, satıcının düzenli teslimatları çerçevesinde tüketicinin meskenine veya işyerine götürülmesi,\n h) 5 inci maddenin birinci fıkrasının (a), (b) ve (d) bentlerindeki bilgi verme yükümlülüğü ile 18 inci ve 19 uncu maddelerde yer alan yükümlülükler saklı kalmak koşuluyla yolcu taşıma hizmetleri,\n ı) Malların montaj, bakım ve onarımı,\n i) Bakımevi hizmetleri, çocuk, yaşlı ya da hasta bakımı gibi ailelerin ve kişilerin desteklenmesine yönelik sosyal hizmetler\n j) (Ek:RG-23/8/2022-31932)(1) Kısa mesaj aracılığıyla kurulan ve eş zamanlı olarak tamamen ifa edilen abonelik içermeyen katma değerli elektronik haberleşme hizmetleri ile 23/6/1983 tarihli ve 2860 sayılı Yardım Toplama Kanunu kapsamındaki bağışlar ve kamu kurumlarınca sunulan katma değerli elektronik haberleşme hizmetleri,\n ile ilgili sözleşmelere uygulanmaz.",
+      "preview": "(1) Bu Yönetmelik, mesafeli sözleşmelere uygulanır. (2) Bu Yönetmelik hükümleri; a) Finansal hizmetler, b) Otomatik makineler aracılığıyla y…",
+      "kitap": null,
+      "kisim": null,
+      "bolum": "BİRİNCİ BÖLÜM · Amaç, Kapsam, Dayanak ve Tanımlar",
+      "ayirim": null,
+      "maddeBaslik": "Kapsam",
+      "sectionPath": [
+        "BİRİNCİ BÖLÜM · Amaç, Kapsam, Dayanak ve Tanımlar",
+        "Kapsam"
+      ]
+    },
+    {
+      "id": "yonetmelik:20237:m:3",
+      "maddeKind": "madde",
+      "maddeNo": "3",
+      "heading": "Madde 3",
+      "text": "(1) Bu Yönetmelik, 7/11/2013 tarihli ve 6502 sayılı Tüketicinin Korunması Hakkında Kanunun 48 inci ve 84 üncü maddelerine dayanılarak hazırlanmıştır.",
+      "preview": "(1) Bu Yönetmelik, 7/11/2013 tarihli ve 6502 sayılı Tüketicinin Korunması Hakkında Kanunun 48 inci ve 84 üncü maddelerine dayanılarak hazırl…",
+      "kitap": null,
+      "kisim": null,
+      "bolum": "BİRİNCİ BÖLÜM · Amaç, Kapsam, Dayanak ve Tanımlar",
+      "ayirim": null,
+      "maddeBaslik": "Dayanak",
+      "sectionPath": [
+        "BİRİNCİ BÖLÜM · Amaç, Kapsam, Dayanak ve Tanımlar",
+        "Dayanak"
+      ]
+    },
+    {
+      "id": "yonetmelik:20237:m:4",
+      "maddeKind": "madde",
+      "maddeNo": "4",
+      "heading": "Madde 4",
+      "text": "(1) Bu Yönetmeliğin uygulanmasında;\n a) Dijital içerik: Bilgisayar programı, uygulama, oyun, müzik, video ve metin gibi dijital şekilde sunulan her türlü veriyi,\n b) Hizmet: Bir ücret veya menfaat karşılığında yapılan ya da yapılması taahhüt edilen mal sağlama dışındaki her türlü tüketici işleminin konusunu,\n c) Kalıcı veri saklayıcısı: Tüketicinin gönderdiği veya kendisine gönderilen bilgiyi, bu bilginin amacına uygun olarak makul bir süre incelemesine elverecek şekilde kaydedilmesini ve değiştirilmeden kopyalanmasını sağlayan ve bu bilgiye aynen ulaşılmasına imkan veren kısa mesaj, elektronik posta, internet, disk, CD, DVD, hafıza kartı ve benzeri her türlü araç veya ortamı,\n ç) Kanun: 6502 sayılı Tüketicinin Korunması Hakkında Kanunu,\n d) Mal: Alışverişe konu olan; taşınır eşya, konut veya tatil amaçlı taşınmaz mallar ile elektronik ortamda kullanılmak üzere hazırlanan yazılım, ses, görüntü ve benzeri her türlü gayri maddi malları,\n e) Mesafeli sözleşme: Satıcı veya sağlayıcı ile tüketicinin eş zamanlı fiziksel varlığı olmaksızın, mal veya hizmetlerin uzaktan pazarlanmasına yönelik olarak oluşturulmuş bir sistem çerçevesinde, taraflar arasında sözleşmenin kurulduğu ana kadar ve kurulduğu an da dahil olmak üzere uzaktan iletişim araçlarının kullanılması suretiyle kurulan sözleşmeleri,\n f) Sağlayıcı: Kamu tüzel kişileri de dahil olmak üzere ticari veya mesleki amaçlarla tüketiciye hizmet sunan ya da hizmet sunanın adına ya da hesabına hareket eden gerçek veya tüzel kişiyi,\n g) Satıcı: Kamu tüzel kişileri de dahil olmak üzere ticari veya mesleki amaçlarla tüketiciye mal sunan ya da mal sunanın adına ya da hesabına hareket eden gerçek veya tüzel kişiyi,\n ğ) Tüketici: Ticari veya mesleki olmayan amaçlarla hareket eden gerçek veya tüzel kişiyi,\n h) Uzaktan iletişim aracı: Mektup, katalog, telefon, faks, radyo, televizyon, elektronik posta mesajı, kısa mesaj, internet gibi fiziksel olarak karşı karşıya gelinmeksizin sözleşme kurulmasına imkan veren her türlü araç veya ortamı,\n ı) Yan sözleşme: Bir mesafeli sözleşme ile ilişkili olarak satıcı, sağlayıcı (Ek ibare:RG-23/8/2022-31932)(1), aracı hizmet sağlayıcı ya da üçüncü bir kişi tarafından sözleşme konusu mal ya da hizmete ilave olarak tüketiciye sağlanan mal veya hizmete ilişkin sözleşmeyi\n i) (Ek:RG-23/8/2022-31932)(1) Aracı hizmet sağlayıcı: Oluşturduğu sistem ile uzaktan iletişim araçlarını kullanmak veya kullandırmak suretiyle satıcı veya sağlayıcı adına mesafeli sözleşme kurulmasına aracılık eden gerçek veya tüzel kişiyi,\n j) (Ek:RG-23/8/2022-31932)(1) Platform: Kamu hizmetlerinin tek noktadan sunulduğu ortak kamu elektronik platformu hariç olmak üzere, aracı hizmet sağlayıcının mesafeli sözleşme kurulmasına aracılık etmek üzere oluşturduğu sistemi,\n ifade eder.",
+      "preview": "(1) Bu Yönetmeliğin uygulanmasında; a) Dijital içerik: Bilgisayar programı, uygulama, oyun, müzik, video ve metin gibi dijital şekilde sunul…",
+      "kitap": null,
+      "kisim": null,
+      "bolum": "BİRİNCİ BÖLÜM · Amaç, Kapsam, Dayanak ve Tanımlar",
+      "ayirim": null,
+      "maddeBaslik": "Tanımlar",
+      "sectionPath": [
+        "BİRİNCİ BÖLÜM · Amaç, Kapsam, Dayanak ve Tanımlar",
+        "Tanımlar"
+      ]
+    },
+    {
+      "id": "yonetmelik:20237:m:5",
+      "maddeKind": "madde",
+      "maddeNo": "5",
+      "heading": "Madde 5",
+      "text": "(1) Tüketici, mesafeli sözleşmenin kurulmasından ya da buna karşılık gelen herhangi bir teklifi kabul etmeden önce, aşağıdaki hususların tamamını içerecek şekilde satıcı veya sağlayıcı tarafından bilgilendirilmek zorundadır.\n a) Sözleşme konusu mal veya hizmetin temel nitelikleri,\n b) (Değişik:RG-23/8/2022-31932)(1) Satıcı veya sağlayıcı ile aracı hizmet sağlayıcının adı veya unvanı, MERSİS numarası veya vergi kimlik numarası,\n c) (Değişik:RG-23/8/2022-31932)(1) Tüketicinin satıcı veya sağlayıcı ve aracı hizmet sağlayıcı ile hızlı bir şekilde irtibat kurmasına imkan veren açık adres, telefon numarası ve benzeri iletişim bilgileri ile varsa satıcı veya sağlayıcının adına ya da hesabına hareket edenin kimliği ve adresi,\n ç) (Değişik:RG-23/8/2022-31932)(1) Satıcı veya sağlayıcı ile aracı hizmet sağlayıcının tüketicinin şikayetlerini iletmesi için (c) bendinde belirtilenden farklı iletişim bilgileri var ise, bunlara ilişkin bilgi,\n d) Mal veya hizmetin tüm vergiler dahil toplam fiyatı, niteliği itibariyle önceden hesaplanamıyorsa fiyatın hesaplanma usulü, varsa tüm nakliye, teslim ve benzeri ek masraflar ile bunların önceden hesaplanamaması halinde ek masrafların ödenebileceği bilgisi,\n e) Sözleşmenin kurulması aşamasında uzaktan iletişim aracının kullanım bedelinin olağan ücret tarifesi üzerinden hesaplanamadığı durumlarda, tüketicilere yüklenen ilave maliyet,\n f) (Değişik:RG-23/8/2022-31932)(1) Ödeme, ticari reklam ve tanıtımlarında taahhüt edilen süre ile uyumlu teslim veya ifa süresi, teslimat ve ifaya ilişkin diğer bilgiler ile varsa bunlara ilişkin taahhütler ve satıcı veya sağlayıcı ile aracı hizmet sağlayıcının şikayetlere ilişkin çözüm yöntemleri,\n g) (Değişik:RG-24/5/2025-32909)(4) Cayma hakkının olduğu durumlarda, bu hakkın kullanılma şartları, süresi, usulü ve satıcının iade için öngördüğü taşıyıcıya ilişkin bilgiler,\n ğ) Cayma bildiriminin yapılacağı açık adres, faks numarası veya elektronik posta bilgileri,\n h) 15 inci madde uyarınca cayma hakkının kullanılamadığı durumlarda, tüketicinin cayma hakkından faydalanamayacağına ya da hangi koşullarda cayma hakkını kaybedeceğine ilişkin bilgi,\n ı) Satıcı veya sağlayıcının talebi üzerine, varsa tüketici tarafından ödenmesi veya sağlanması gereken depozitolar ya da diğer mali teminatlar ve bunlara ilişkin şartlar,\n i) Varsa dijital içeriklerin işlevselliğini etkileyebilecek teknik koruma önlemleri,\n j) Satıcı veya sağlayıcının bildiği ya da makul olarak bilmesinin beklendiği, dijital içeriğin hangi donanım ya da yazılımla birlikte çalışabileceğine ilişkin bilgi,\n k) (Değişik:RG-24/5/2025-32909)(4) Tüketicilerin uyuşmazlık konusundaki başvurularını tüketici hakem heyetine veya Kanunun 73/A maddesi uyarınca dava açılmadan önce arabulucuya başvurulması şartı ile tüketici mahkemesine yapabileceklerine ilişkin bilgi.\n (2) Birinci fıkrada belirtilen bilgiler, mesafeli sözleşmenin ayrılmaz bir parçasıdır ve taraflar aksini açıkça kararlaştırmadıkça bu bilgiler değiştirilemez.\n (3) Satıcı veya sağlayıcı, birinci fıkranın (d) bendinde yer alan ek masraflara ilişkin bilgilendirme yükümlülüğünü yerine getirmezse, tüketici bunları karşılamakla yükümlü değildir.\n (4) Birinci fıkranın (d) bendinde yer alan toplam fiyatın, belirsiz süreli sözleşmelerde veya belirli süreli abonelik sözleşmelerinde, her faturalama dönemi bazında toplam masrafları içermesi zorunludur.\n (5) Açık artırma veya eksiltme yoluyla kurulan sözleşmelerde, birinci fıkranın (b), (c) ve (ç) bentlerinde yer alan bilgilerin yerine açık artırmayı yapan ile ilgili bilgilere yer verilebilir.\n (6) Ön bilgilendirme yapıldığına ilişkin ispat yükü satıcı veya (Değişik ibare:RG-23/8/2022-31932)(1) sağlayıcı ile aracı hizmet sağlayıcıya aittir.\n (7) (Ek:RG-23/8/2022-31932)(1) Mesafeli sözleşmenin platform üzerinden kurulması halinde aracı hizmet sağlayıcı ön bilgilendirmenin yapılmasından satıcı veya sağlayıcı ile birlikte müteselsilen sorumludur. Veri girişinin aracı hizmet sağlayıcı tarafından yapıldığı durumlarda, birinci fıkrada belirlenen zorunlu hususlardaki eksikliklerden ve verilerin doğruluğundan aracı hizmet sağlayıcı sorumludur.",
+      "preview": "(1) Tüketici, mesafeli sözleşmenin kurulmasından ya da buna karşılık gelen herhangi bir teklifi kabul etmeden önce, aşağıdaki hususların tam…",
+      "kitap": null,
+      "kisim": null,
+      "bolum": "İKİNCİ BÖLÜM · Ön Bilgilendirme Yükümlülüğü",
+      "ayirim": null,
+      "maddeBaslik": "Ön bilgilendirme",
+      "sectionPath": [
+        "İKİNCİ BÖLÜM · Ön Bilgilendirme Yükümlülüğü",
+        "Ön bilgilendirme"
+      ]
+    },
+    {
+      "id": "yonetmelik:20237:m:6",
+      "maddeKind": "madde",
+      "maddeNo": "6",
+      "heading": "Madde 6",
+      "text": "(1) Tüketici, 5 inci maddenin birinci fıkrasında belirtilen tüm hususlarda, kullanılan uzaktan iletişim aracına uygun olarak en az on iki punto büyüklüğünde, anlaşılabilir bir dilde, açık, sade ve okunabilir bir şekilde satıcı veya sağlayıcı tarafından yazılı olarak veya kalıcı veri saklayıcısı ile bilgilendirilmek zorundadır.\n (2) Mesafeli sözleşmenin internet yoluyla kurulması halinde, satıcı veya sağlayıcı;\n a) 5 inci maddenin birinci fıkrasında yer alan bilgilendirme yükümlülüğü saklı kalmak kaydıyla, aynı fıkranın (a), (d), (g) ve (h) bentlerinde yer alan bilgileri bir bütün olarak, tüketicinin ödeme yükümlülüğü altına girmesinden hemen önce açık bir şekilde ayrıca göstermek,\n b) Herhangi bir gönderim kısıtlamasının uygulanıp uygulanmadığını ve hangi ödeme araçlarının kabul edildiğini, en geç tüketici siparişini vermeden önce, açık ve anlaşılabilir bir şekilde belirtmek\n zorundadır.\n (3) Mesafeli sözleşmenin sesli iletişim yoluyla kurulması halinde, satıcı veya sağlayıcı 5 inci maddenin birinci fıkrasının (a), (d), (g) ve (h) bentlerinde yer alan hususlarda, tüketiciyi sipariş vermeden hemen önce açık ve anlaşılır bir şekilde söz konusu ortamda bilgilendirmek ve 5 inci maddenin birinci fıkrasında yer alan bilgilerin tamamını en geç mal teslimine veya hizmet ifasına kadar yazılı olarak (Ek ibare:RG-23/8/2022-31932)(1) veya kalıcı veri saklayıcısı ile göndermek zorundadır.\n (4) Siparişe ilişkin bilgilerin sınırlı alanda ya da zamanda sunulduğu bir ortam yoluyla mesafeli sözleşmenin kurulması halinde, satıcı veya sağlayıcı 5 inci maddenin birinci fıkrasının (a), (b), (d), (g) ve (h) bentlerinde yer alan hususlarda, tüketiciyi sipariş vermeden hemen önce açık ve anlaşılabilir bir şekilde söz konusu ortamda bilgilendirmek ve 5 inci maddenin birinci fıkrasında yer alan bilgilerin tamamını en geç mal teslimine veya hizmet ifasına kadar yazılı olarak (Ek ibare:RG-23/8/2022-31932)(1) veya kalıcı veri saklayıcısı ile göndermek zorundadır.\n (5) Üçüncü ve dördüncü fıkralarda belirtilen yöntemlerle kurulan ve anında ifa edilen hizmet satışlarına ilişkin sözleşmelerde tüketicinin, sipariş vermeden hemen önce söz konusu ortamda 5 inci maddenin birinci fıkrasının sadece (a), (b), (d) ve (h) bentlerinde yer alan hususlarda açık ve anlaşılır bir şekilde bilgilendirilmesi yeterlidir.\n (6) (Ek:RG-23/8/2022-31932)(1) Mesafeli sözleşmenin platform üzerinden kurulması halinde aracı hizmet sağlayıcı bu maddede düzenlenen yükümlülüklerin yerine getirilmesinden satıcı veya sağlayıcı ile birlikte müteselsilen sorumludur. Veri girişinin satıcı veya sağlayıcı tarafından yapıldığı durumlar hariç olmak üzere, bu maddede belirtilen bilgilendirmelerde bulunulması zorunlu hususlardaki eksikliklerden ise aracı hizmet sağlayıcı sorumludur.",
+      "preview": "(1) Tüketici, 5 inci maddenin birinci fıkrasında belirtilen tüm hususlarda, kullanılan uzaktan iletişim aracına uygun olarak en az on iki pu…",
+      "kitap": null,
+      "kisim": null,
+      "bolum": "İKİNCİ BÖLÜM · Ön Bilgilendirme Yükümlülüğü",
+      "ayirim": null,
+      "maddeBaslik": "Ön bilgilendirme yöntemi",
+      "sectionPath": [
+        "İKİNCİ BÖLÜM · Ön Bilgilendirme Yükümlülüğü",
+        "Ön bilgilendirme yöntemi"
+      ]
+    },
+    {
+      "id": "yonetmelik:20237:m:7",
+      "maddeKind": "madde",
+      "maddeNo": "7",
+      "heading": "Madde 7",
+      "text": "(1) Satıcı veya sağlayıcı (Ek ibare:RG-23/8/2022-31932)(1) ile aracı hizmet sağlayıcı, tüketicinin 6 ncı maddede belirtilen yöntemlerle ön bilgileri edindiğini kullanılan uzaktan iletişim aracına uygun olarak teyit etmesini sağlamak zorundadır. Aksi halde sözleşme kurulmamış sayılır.",
+      "preview": "(1) Satıcı veya sağlayıcı (Ek ibare:RG-23/8/2022-31932)(1) ile aracı hizmet sağlayıcı, tüketicinin 6 ncı maddede belirtilen yöntemlerle ön b…",
+      "kitap": null,
+      "kisim": null,
+      "bolum": "İKİNCİ BÖLÜM · Ön Bilgilendirme Yükümlülüğü",
+      "ayirim": null,
+      "maddeBaslik": "Ön bilgilerin teyidi",
+      "sectionPath": [
+        "İKİNCİ BÖLÜM · Ön Bilgilendirme Yükümlülüğü",
+        "Ön bilgilerin teyidi"
+      ]
+    },
+    {
+      "id": "yonetmelik:20237:m:8",
+      "maddeKind": "madde",
+      "maddeNo": "8",
+      "heading": "Madde 8",
+      "text": "(1) Satıcı veya sağlayıcı (Ek ibare:RG-23/8/2022-31932)(1) ile aracı hizmet sağlayıcı, tüketici siparişi onaylamadan hemen önce, verilen siparişin ödeme yükümlülüğü anlamına geldiği hususunda tüketiciyi açık ve anlaşılır bir şekilde bilgilendirmek zorundadır. Aksi halde tüketici siparişi ile bağlı değildir.\n (2) Tüketicinin mesafeli sözleşme kurulması amacıyla satıcı veya sağlayıcı tarafından telefonla aranması durumunda, her görüşmenin başında satıcı veya sağlayıcı kimliğini, eğer bir başkası adına veya hesabına arıyorsa bu kişinin kimliğini ve görüşmenin ticari amacını açıklamalıdır.",
+      "preview": "(1) Satıcı veya sağlayıcı (Ek ibare:RG-23/8/2022-31932)(1) ile aracı hizmet sağlayıcı, tüketici siparişi onaylamadan hemen önce, verilen sip…",
+      "kitap": null,
+      "kisim": null,
+      "bolum": "İKİNCİ BÖLÜM · Ön Bilgilendirme Yükümlülüğü",
+      "ayirim": null,
+      "maddeBaslik": "Ön bilgilendirmeye ilişkin diğer yükümlülükler",
+      "sectionPath": [
+        "İKİNCİ BÖLÜM · Ön Bilgilendirme Yükümlülüğü",
+        "Ön bilgilendirmeye ilişkin diğer yükümlülükler"
+      ]
+    },
+    {
+      "id": "yonetmelik:20237:m:9",
+      "maddeKind": "madde",
+      "maddeNo": "9",
+      "heading": "Madde 9",
+      "text": "(1) Tüketici, on dört gün içinde herhangi bir gerekçe göstermeksizin ve cezai şart ödemeksizin sözleşmeden cayma hakkına sahiptir.\n (2) Cayma hakkı süresi, hizmet ifasına ilişkin sözleşmelerde sözleşmenin kurulduğu gün; mal teslimine ilişkin sözleşmelerde ise tüketicinin veya tüketici tarafından belirlenen üçüncü kişinin malı teslim aldığı gün başlar. Ancak tüketici, sözleşmenin kurulmasından malın teslimine kadar olan süre içinde de cayma hakkını kullanabilir.\n (3) Cayma hakkı süresinin belirlenmesinde;\n a) Tek sipariş konusu olup ayrı ayrı teslim edilen mallarda, tüketicinin veya tüketici tarafından belirlenen üçüncü kişinin son malı teslim aldığı gün,\n b) Birden fazla parçadan oluşan mallarda, tüketicinin veya tüketici tarafından belirlenen üçüncü kişinin son parçayı teslim aldığı gün,\n c) Belirli bir süre boyunca malın düzenli tesliminin yapıldığı sözleşmelerde, tüketicinin veya tüketici tarafından belirlenen üçüncü kişinin ilk malı teslim aldığı gün\n esas alınır.\n (4) Malın satıcı tarafından taşıyıcıya teslimi, tüketiciye yapılan teslim olarak kabul edilmez.\n (5) Mal teslimi ile hizmet ifasının birlikte yapıldığı sözleşmelerde, mal teslimine ilişkin cayma hakkı hükümleri uygulanır.",
+      "preview": "(1) Tüketici, on dört gün içinde herhangi bir gerekçe göstermeksizin ve cezai şart ödemeksizin sözleşmeden cayma hakkına sahiptir. (2) Cayma…",
+      "kitap": null,
+      "kisim": null,
+      "bolum": "ÜÇÜNCÜ BÖLÜM · Cayma Hakkının Kullanımı ve Tarafların Yükümlülükleri",
+      "ayirim": null,
+      "maddeBaslik": "Cayma hakkı",
+      "sectionPath": [
+        "ÜÇÜNCÜ BÖLÜM · Cayma Hakkının Kullanımı ve Tarafların Yükümlülükleri",
+        "Cayma hakkı"
+      ]
+    },
+    {
+      "id": "yonetmelik:20237:m:10",
+      "maddeKind": "madde",
+      "maddeNo": "10",
+      "heading": "Madde 10",
+      "text": "(1) Satıcı veya sağlayıcı (Ek ibare:RG-23/8/2022-31932)(1) ile aracı hizmet sağlayıcı, cayma hakkı konusunda tüketicinin bilgilendirildiğini ispat etmekle yükümlüdür. Tüketici, cayma hakkı konusunda gerektiği şekilde bilgilendirilmezse, cayma hakkını kullanmak için on dört günlük süreyle bağlı değildir. Bu süre her halükarda cayma süresinin bittiği tarihten itibaren bir yıl sonra sona erer.\n (2) Cayma hakkı konusunda gerektiği şekilde bilgilendirmenin bir yıllık süre içinde yapılması halinde, on dört günlük cayma hakkı süresi, bu bilgilendirmenin gereği gibi yapıldığı günden itibaren işlemeye başlar.",
+      "preview": "(1) Satıcı veya sağlayıcı (Ek ibare:RG-23/8/2022-31932)(1) ile aracı hizmet sağlayıcı, cayma hakkı konusunda tüketicinin bilgilendirildiğini…",
+      "kitap": null,
+      "kisim": null,
+      "bolum": "ÜÇÜNCÜ BÖLÜM · Cayma Hakkının Kullanımı ve Tarafların Yükümlülükleri",
+      "ayirim": null,
+      "maddeBaslik": "Eksik bilgilendirme",
+      "sectionPath": [
+        "ÜÇÜNCÜ BÖLÜM · Cayma Hakkının Kullanımı ve Tarafların Yükümlülükleri",
+        "Eksik bilgilendirme"
+      ]
+    },
+    {
+      "id": "yonetmelik:20237:m:11",
+      "maddeKind": "madde",
+      "maddeNo": "11",
+      "heading": "Madde 11",
+      "text": "(1) Cayma hakkının kullanıldığına dair bildirimin cayma hakkı süresi dolmadan, yazılı olarak veya kalıcı veri saklayıcısı ile (Değişik ibare:RG-23/8/2022-31932)(1) satıcı, sağlayıcı veya aracı hizmet sağlayıcıya yöneltilmesi yeterlidir.\n (2) Cayma hakkının kullanılmasında tüketici, EK’te yer alan formu kullanabileceği gibi cayma kararını bildiren açık bir beyanda da bulunabilir. Satıcı veya sağlayıcı, tüketicinin bu formu doldurabilmesi veya cayma beyanını gönderebilmesi için internet sitesi üzerinden seçenek de sunabilir. İnternet sitesi üzerinden tüketicilere cayma hakkı sunulması durumunda satıcı veya sağlayıcı, tüketicilerin iletmiş olduğu cayma taleplerinin kendilerine ulaştığına ilişkin teyit bilgisini tüketiciye derhal iletmek zorundadır.\n (3) Sesli iletişim yoluyla yapılan satışlarda, satıcı veya sağlayıcı, EK’te yer alan formu en geç mal teslimine veya hizmet ifasına kadar tüketiciye göndermek zorundadır. Tüketici bu tür satışlarda da cayma hakkını kullanmak için bu formu kullanabileceği gibi, ikinci fıkradaki yöntemleri de kullanabilir.\n (4) Bu maddede geçen cayma hakkının kullanımına ilişkin ispat yükümlülüğü tüketiciye aittir.\n (5) (Ek:RG-23/8/2022-31932)(1) Platform üzerinden kurulan mesafeli sözleşmelerde aracı hizmet sağlayıcı tüketicinin EK’te yer alan formu doldurabilmesi veya cayma beyanını gönderebilmesi için platform üzerinde gerekli sistemi kurmak ve tüketicilerin iletmiş olduğu cayma beyanlarının kendisine ve satıcı veya sağlayıcıya ulaştığına ilişkin teyit bilgisini tüketiciye derhal iletmek zorundadır.",
+      "preview": "(1) Cayma hakkının kullanıldığına dair bildirimin cayma hakkı süresi dolmadan, yazılı olarak veya kalıcı veri saklayıcısı ile (Değişik ibare…",
+      "kitap": null,
+      "kisim": null,
+      "bolum": "ÜÇÜNCÜ BÖLÜM · Cayma Hakkının Kullanımı ve Tarafların Yükümlülükleri",
+      "ayirim": null,
+      "maddeBaslik": "Cayma hakkının kullanımı",
+      "sectionPath": [
+        "ÜÇÜNCÜ BÖLÜM · Cayma Hakkının Kullanımı ve Tarafların Yükümlülükleri",
+        "Cayma hakkının kullanımı"
+      ]
+    },
+    {
+      "id": "yonetmelik:20237:m:12",
+      "maddeKind": "madde",
+      "maddeNo": "12",
+      "heading": "Madde 12",
+      "text": "(Değişik:RG-23/8/2022-31932)(2)\n (1) Satıcı, cayma hakkına konu malın, iade için ön bilgilendirmede belirtilen taşıyıcıya teslim edildiği tarihten itibaren on dört gün içinde, varsa malın tüketiciye teslim masrafları da dahil olmak üzere tahsil edilen tüm ödemeleri iade etmekle yükümlüdür. Ancak tüketicinin malı, iade için öngörülenin haricinde bir taşıyıcı ile iade etmesi durumunda söz konusu yükümlülük malın satıcıya ulaştığı tarihten itibaren başlar. Platform üzerinden kurulan ve bedelin tahsiline aracılık edilen mesafeli sözleşmelerde aracı hizmet sağlayıcı, teslim sonrası bedelin satıcıya aktarıldığı durum hariç olmak üzere bu fıkrada belirtilen ödemelerin tüketiciye iade edilmesinden satıcı ile birlikte müteselsilen sorumludur.\n (2) Malın tesliminden önce cayma hakkının kullanılması durumunda satıcı ile platform üzerinden kurulan ve bedelin tahsiline aracılık edilen mesafeli sözleşmelerde aracı hizmet sağlayıcı, cayma hakkının kullanıldığına ilişkin bildirimin kendisine ulaştığı tarihten itibaren on dört gün içinde, varsa malın tüketiciye teslim masrafları da dahil olmak üzere tahsil edilen tüm ödemeleri iade etmekle yükümlüdür.\n (3) Hizmet ifasına ilişkin sözleşmelerde cayma hakkının kullanılması durumunda sağlayıcı ile platform üzerinden kurulan ve bedelin tahsiline aracılık edilen mesafeli sözleşmelerde aracı hizmet sağlayıcı, cayma hakkının kullanıldığına ilişkin bildirimin kendisine ulaştığı tarihten itibaren on dört gün içinde tahsil edilen tüm ödemeleri iade etmekle yükümlüdür.\n (4) Satıcı veya sağlayıcı, birinci, ikinci ve üçüncü fıkralarda belirtilen tüm geri ödemeleri, (Mülga ibare:RG-24/5/2025-32909)(4) tüketicinin satın alırken kullandığı ödeme aracına uygun bir şekilde ve tüketiciye herhangi bir masraf veya yükümlülük getirmeden tek seferde yapmak zorundadır. Platform üzerinden kurulan mesafeli sözleşmelerde satıcı veya sağlayıcı adına bedel tahsil etmesi halinde, mal veya hizmetin tüketiciye teslim veya ifası sonrası bedelin satıcıya veya sağlayıcıya aktarıldığı durumlar hariç olmak üzere, aracı hizmet sağlayıcı bu yükümlülüğün yerine getirilmesinden satıcı veya sağlayıcı ile birlikte müteselsilen sorumludur. Ödemenin kredi kartı ile yapılmış olması durumunda, 23/2/2006 tarihli ve 5464 sayılı Banka Kartları ve Kredi Kartları Kanunu kapsamındaki kart çıkaran kuruluşlar; satıcı, sağlayıcı veya aracı hizmet sağlayıcı tarafından aktarılan tutarı, kendilerine ulaşmasını takiben kart hamilinin kullanılabilir limitine tek seferde ilave etmekle yükümlüdür.\n (5) (Değişik:RG-24/5/2025-32909)(4) Cayma hakkının kullanımında, 5 inci maddenin birinci fıkrasının (g) bendi kapsamında, satıcının iade için belirttiği taşıyıcı aracılığıyla malın geri gönderilmesi halinde, tüketici iadeye ilişkin masraflardan sorumlu tutulamaz. Satıcının ön bilgilendirmede iade için herhangi bir taşıyıcıyı belirtmediği durumda ise tüketiciden iade masrafına ilişkin herhangi bir bedel talep edilemez. İade için ön bilgilendirmede belirtilen taşıyıcının, tüketicinin bulunduğu yerde şubesinin olmaması durumunda satıcı, ilave hiçbir masraf talep etmeksizin iade edilmek istenen malın tüketiciden alınmasını sağlamakla yükümlüdür. Platform üzerinden kurulan mesafeli sözleşmelerde ise iade için öngörülen taşıyıcıya ilişkin bilgiye ön bilgilendirmede yer verilmemesi ya da belirtilen taşıyıcının tüketicinin bulunduğu yerde şubesinin olmaması aracı hizmet sağlayıcıdan kaynaklanıyorsa söz konusu masraf ve yükümlülükler aracı hizmet sağlayıcı tarafından karşılanmak zorundadır.\n (6) Platform üzerinden kurulan mesafeli sözleşmelerde, satıcı veya sağlayıcı, tüketicinin cayma hakkını kullandığına ilişkin kendisine ulaşan bildirimi aracı hizmet sağlayıcıya derhal ulaştırmakla yükümlüdür.\n Aracı hizmet sağlayıcının yükümlülükleri\n MADDE 12/A- (Ek:RG-23/8/2022-31932)(1)\n (1) Aracı hizmet sağlayıcı, platform üzerinden kurulan mesafeli sözleşmelerden doğan hak ve yükümlülüklerin kullanım süresi boyunca tüketicilerin aşağıda belirtilen hususlara ilişkin talep ve bildirimlerini iletebilmelerine ve takip edebilmelerine elverişli bir sistemi kurmak, kesintisiz olarak açık tutmak zorundadır:\n a) Cayma hakkının kullanıldığına dair bildirim.\n b) Sözleşmenin feshine dair bildirim.\n c) Bedel iadesi talebi.\n ç) Tüketicilerin satıcı veya sağlayıcı ile yaptıkları işlemlere ilişkin kayıtların talebi.\n d) Teslimat veya ifaya ilişkin talep ve şikayetler.\n (2) Aracı hizmet sağlayıcı, birinci fıkrada belirtilen talep ve bildirimleri, satıcı veya sağlayıcıya derhal iletmek zorundadır.\n (3) Aracı hizmet sağlayıcı, ön bilgilendirmenin yapılması, teyidi ve ön bilgilendirmenin yapıldığının ispatından satıcı veya sağlayıcı ile birlikte müteselsilen sorumludur.\n (4) Veri girişinin aracı hizmet sağlayıcı tarafından yapıldığı durumlarda, 5 inci maddede belirlenen ön bilgilendirmede bulunulması zorunlu hususlardaki eksikliklerden aracı hizmet sağlayıcı sorumludur.\n (5) Aracı hizmet sağlayıcı, bu Yönetmelikte yer alan hususlardan dolayı tüketicinin satıcı veya sağlayıcılar ile yaptıkları işlemlere ilişkin kayıtların üç yıl boyunca tutulmasından ve istenilmesi halinde bu bilgilerin ilgili kurum ve kuruluşlar ile tüketicilere verilmesinden sorumludur.\n (6) Aracı hizmet sağlayıcı, satıcı veya sağlayıcı ile yaptığı aracılık hizmetine ilişkin sözleşmeye aykırı uygulamaları nedeniyle satıcı ve sağlayıcının Kanunun 48 inci maddesine ve bu Yönetmelik hükümlerine aykırı davranmasına sebep olduğu her bir tüketici işleminden sorumludur.\n (7) Satıcı veya sağlayıcı adına bedel tahsil etmesi halinde aracı hizmet sağlayıcı;\n a) Malın teslimi veya hizmetin ifasından önce tüketicinin cayma hakkını kullanması durumunda cayma hakkının kullanıldığına ilişkin bildirimin kendisine ulaştığı tarihten itibaren,\n b) Malın tesliminden sonra tüketicinin cayma hakkını kullanması durumunda, cayma bildiriminin kendisine ulaştığı tarih itibarıyla bedel satıcıya aktarılmamışsa cayma hakkına konu malın, iade için öngörülen taşıyıcıya teslim edildiği tarihten veya iade için öngörülenin haricinde bir taşıyıcı ile iade edilmesi durumunda da satıcıya ulaştığı tarihten itibaren,(2)\n c) Tüketicinin 16 ncı maddede belirtilen sözleşmeyi fesih hakkını kullanması durumunda fesih bildiriminin kendisine ulaştığı tarihten itibaren,\n on dört gün içinde, tahsil ettiği mal veya hizmet bedeli ile teslimat masraflarının tüketiciye iadesinden, satıcı veya sağlayıcı ile birlikte müteselsilen sorumludur.\n (8) Aracı hizmet sağlayıcı, satıcı veya sağlayıcının onayı olmaksızın düzenlediği kampanyalı, promosyonlu veya indirimli satışlara ilişkin olarak aracılık ettiği mesafeli sözleşmelerde kampanya ve benzeri taahhütlerin karşılanmamasının neden olduğu sözleşmenin hiç ya da gereği gibi ifa edilmemesi hallerinden sorumludur.\n (9) Satışa sunulan mal veya hizmete ilişkin platform üzerinden yapılan reklam ve tanıtımlarda taahhüt edilen bilgiler ile ön bilgilendirmede bulunması zorunlu hususların uyumlu olmasından ve ispatından aracı hizmet sağlayıcı sorumludur.",
+      "preview": "(Değişik:RG-23/8/2022-31932)(2) (1) Satıcı, cayma hakkına konu malın, iade için ön bilgilendirmede belirtilen taşıyıcıya teslim edildiği tar…",
+      "kitap": null,
+      "kisim": null,
+      "bolum": "ÜÇÜNCÜ BÖLÜM · Cayma Hakkının Kullanımı ve Tarafların Yükümlülükleri",
+      "ayirim": null,
+      "maddeBaslik": "Satıcı veya sağlayıcının yükümlülükleri",
+      "sectionPath": [
+        "ÜÇÜNCÜ BÖLÜM · Cayma Hakkının Kullanımı ve Tarafların Yükümlülükleri",
+        "Satıcı veya sağlayıcının yükümlülükleri"
+      ]
+    },
+    {
+      "id": "yonetmelik:20237:m:13",
+      "maddeKind": "madde",
+      "maddeNo": "13",
+      "heading": "Madde 13",
+      "text": "(1) Satıcı veya sağlayıcı malı kendisinin geri alacağına dair bir teklifte bulunmadıkça, tüketici cayma hakkını kullandığına ilişkin bildirimi yönelttiği tarihten itibaren on (Ek ibare:RG-23/8/2022-31932)(2) dört gün içinde malı satıcı veya sağlayıcıya ya da yetkilendirmiş olduğu kişiye geri göndermek zorundadır.\n (2) Tüketici, cayma süresi içinde malı, işleyişine, teknik özelliklerine ve kullanım talimatlarına uygun bir şekilde kullandığı takdirde meydana gelen değişiklik ve bozulmalardan sorumlu değildir.\n (3) (Ek:RG-23/8/2022-31932)(2) (Mülga:RG-24/5/2025-32909)(4)",
+      "preview": "(1) Satıcı veya sağlayıcı malı kendisinin geri alacağına dair bir teklifte bulunmadıkça, tüketici cayma hakkını kullandığına ilişkin bildiri…",
+      "kitap": null,
+      "kisim": null,
+      "bolum": "ÜÇÜNCÜ BÖLÜM · Cayma Hakkının Kullanımı ve Tarafların Yükümlülükleri",
+      "ayirim": null,
+      "maddeBaslik": "Tüketicinin yükümlülükleri",
+      "sectionPath": [
+        "ÜÇÜNCÜ BÖLÜM · Cayma Hakkının Kullanımı ve Tarafların Yükümlülükleri",
+        "Tüketicinin yükümlülükleri"
+      ]
+    },
+    {
+      "id": "yonetmelik:20237:m:14",
+      "maddeKind": "madde",
+      "maddeNo": "14",
+      "heading": "Madde 14",
+      "text": "(1) Kanunun 30 uncu maddesi hükümleri saklı kalmak koşuluyla, tüketicinin cayma hakkını kullanması durumunda yan sözleşmeler de kendiliğinden sona erer. Bu durumda tüketici, 13 üncü maddenin ikinci fıkrasında belirtilen haller dışında herhangi bir masraf, tazminat veya cezai şart ödemekle yükümlü değildir.\n (2) Satıcı veya sağlayıcı, tüketicinin cayma hakkını kullandığını yan sözleşmenin tarafı olan üçüncü kişiye derhal bildirmelidir. (Ek cümle:RG-23/8/2022-31932)(1) Platform üzerinden kurulan mesafeli sözleşmelerde yan sözleşmeye aracılık edilmesi halinde bu bildirimin yapılmasından aracı hizmet sağlayıcı da sorumludur.",
+      "preview": "(1) Kanunun 30 uncu maddesi hükümleri saklı kalmak koşuluyla, tüketicinin cayma hakkını kullanması durumunda yan sözleşmeler de kendiliğinde…",
+      "kitap": null,
+      "kisim": null,
+      "bolum": "ÜÇÜNCÜ BÖLÜM · Cayma Hakkının Kullanımı ve Tarafların Yükümlülükleri",
+      "ayirim": null,
+      "maddeBaslik": "Cayma hakkının kullanımının yan sözleşmelere etkisi",
+      "sectionPath": [
+        "ÜÇÜNCÜ BÖLÜM · Cayma Hakkının Kullanımı ve Tarafların Yükümlülükleri",
+        "Cayma hakkının kullanımının yan sözleşmelere etkisi"
+      ]
+    },
+    {
+      "id": "yonetmelik:20237:m:15",
+      "maddeKind": "madde",
+      "maddeNo": "15",
+      "heading": "Madde 15",
+      "text": "(1) Taraflarca aksi kararlaştırılmadıkça, tüketici aşağıdaki sözleşmelerde cayma hakkını kullanamaz:\n a) Fiyatı finansal piyasalardaki dalgalanmalara bağlı olarak değişen ve satıcı veya sağlayıcının kontrolünde olmayan mal veya hizmetlere ilişkin sözleşmeler.\n b) Tüketicinin istekleri veya kişisel ihtiyaçları doğrultusunda hazırlanan mallara ilişkin sözleşmeler.\n c) Çabuk bozulabilen veya son kullanma tarihi geçebilecek malların teslimine ilişkin sözleşmeler.\n ç) Tesliminden sonra ambalaj, bant, mühür, paket gibi koruyucu unsurları açılmış olan mallardan; iadesi sağlık ve hijyen açısından uygun olmayanların teslimine ilişkin sözleşmeler.\n d) Tesliminden sonra başka ürünlerle karışan ve doğası gereği ayrıştırılması mümkün olmayan mallara ilişkin sözleşmeler.\n e) Malın tesliminden sonra ambalaj, bant, mühür, paket gibi koruyucu unsurları açılmış olması halinde maddi ortamda sunulan kitap, dijital içerik ve bilgisayar sarf malzemelerine ilişkin sözleşmeler.\n f) Abonelik sözleşmesi kapsamında sağlananlar dışında, gazete ve dergi gibi süreli yayınların teslimine ilişkin sözleşmeler.\n g) Belirli bir tarihte veya dönemde yapılması gereken, konaklama, eşya taşıma, araba kiralama, yiyecek-içecek tedariki ve eğlence veya dinlenme amacıyla yapılan boş zamanın değerlendirilmesine ilişkin sözleşmeler.\n ğ) Elektronik ortamda anında ifa edilen hizmetler veya tüketiciye anında teslim edilen gayrimaddi mallara ilişkin sözleşmeler.\n h) Cayma hakkı süresi sona ermeden önce, tüketicinin onayı ile ifasına başlanan hizmetlere ilişkin sözleşmeler.\n ı) (Ek:RG-23/8/2022-31932)(2) (Danıştay Onuncu Dairesinin 6/5/2026 tarihli ve E.:2022/5534; K.:2026/2753 sayılı kararı ile iptal bent: 13/10/1983 tarihli ve 2918 sayılı Karayolları Trafik Kanununa göre tescili zorunlu olan taşınırlar ile kayıt veya tescil zorunluluğu bulunan insansız hava araçlarına ilişkin sözleşmeler.)\n i) (Ek:RG-23/8/2022-31932)(2) (Mülga:RG-24/5/2025-32909)(4)\n j) (Ek:RG-23/8/2022-31932)(2) (Danıştay Onuncu Dairesinin 6/5/2026 tarihli ve E.:2022/5534; K.:2026/2753 sayılı kararı ile iptal bent: Canlı müzayede şeklinde açık artırma yoluyla akdedilen sözleşmeler.)\n k) (Ek:RG-23/8/2022-31932)(2) (Danıştay Onuncu Dairesinin 6/5/2026 tarihli ve E.:2022/5534; K.:2026/2753 sayılı kararı ile iptal bent: Tanıtma ve kullanma kılavuzunda satıcı veya yetkili servis tarafından kurulum veya montajının yapılacağı belirtilen mallardan kurulum ya da montajı yapılanlara ilişkin sözleşmeler.)",
+      "preview": "(1) Taraflarca aksi kararlaştırılmadıkça, tüketici aşağıdaki sözleşmelerde cayma hakkını kullanamaz: a) Fiyatı finansal piyasalardaki dalgal…",
+      "kitap": null,
+      "kisim": null,
+      "bolum": "ÜÇÜNCÜ BÖLÜM · Cayma Hakkının Kullanımı ve Tarafların Yükümlülükleri",
+      "ayirim": null,
+      "maddeBaslik": "Cayma hakkının istisnaları",
+      "sectionPath": [
+        "ÜÇÜNCÜ BÖLÜM · Cayma Hakkının Kullanımı ve Tarafların Yükümlülükleri",
+        "Cayma hakkının istisnaları"
+      ]
+    },
+    {
+      "id": "yonetmelik:20237:m:16",
+      "maddeKind": "madde",
+      "maddeNo": "16",
+      "heading": "Madde 16",
+      "text": "(1) (Değişik:RG-23/8/2022-31932)(1) Satıcı veya sağlayıcı, tüketicinin siparişinin kendisine ulaştığı tarihten itibaren taahhüt ettiği süre içinde edimini yerine getirmek zorundadır. Tüketicinin isteği veya kişisel ihtiyaçları doğrultusunda hazırlanan mallara ilişkin sözleşmeler haricinde mal satışlarında bu süre her halükarda otuz günü geçemez.\n (2) Satıcı veya sağlayıcının birinci fıkrada yer alan yükümlülüğünü yerine getirmemesi durumunda, tüketici sözleşmeyi feshedebilir.\n (3) Sözleşmenin feshi durumunda, satıcı veya sağlayıcı, varsa teslimat masrafları da dâhil olmak üzere tahsil edilen tüm ödemeleri fesih bildiriminin kendisine ulaştığı tarihten itibaren on dört gün içinde tüketiciye 4/12/1984 tarihli ve 3095 sayılı Kanuni Faiz ve Temerrüt Faizine İlişkin Kanunun 1 inci maddesine göre belirlenen kanuni faiziyle birlikte geri ödemek ve varsa tüketiciyi borç altına sokan tüm kıymetli evrak ve benzeri belgeleri iade etmek zorundadır.\n (4) (Değişik:RG-23/8/2022-31932)(1) Sipariş konusu mal ya da hizmet ediminin yerine getirilmesinin imkansızlaştığı hallerde satıcı veya sağlayıcının ve satıcı veya sağlayıcı adına bedel tahsil etmesi halinde aracı hizmet sağlayıcının bu durumu öğrendiği tarihten itibaren üç gün içinde tüketiciye yazılı olarak veya kalıcı veri saklayıcısı ile bildirmesi ve varsa teslimat masrafları da dâhil olmak üzere tahsil edilen tüm ödemeleri bildirim tarihinden itibaren en geç on dört gün içinde iade etmesi zorunludur. Malın stokta bulunmaması durumu, mal ediminin yerine getirilmesinin imkânsızlaşması olarak kabul edilmez.",
+      "preview": "(1) (Değişik:RG-23/8/2022-31932)(1) Satıcı veya sağlayıcı, tüketicinin siparişinin kendisine ulaştığı tarihten itibaren taahhüt ettiği süre…",
+      "kitap": null,
+      "kisim": null,
+      "bolum": "DÖRDÜNCÜ BÖLÜM · Diğer Hükümler",
+      "ayirim": null,
+      "maddeBaslik": "Sözleşmenin ifası ve teslimat",
+      "sectionPath": [
+        "DÖRDÜNCÜ BÖLÜM · Diğer Hükümler",
+        "Sözleşmenin ifası ve teslimat"
+      ]
+    },
+    {
+      "id": "yonetmelik:20237:m:17",
+      "maddeKind": "madde",
+      "maddeNo": "17",
+      "heading": "Madde 17",
+      "text": "(1) Satıcı, malın tüketici ya da tüketicinin taşıyıcı dışında belirleyeceği üçüncü bir kişiye teslimine kadar oluşan kayıp ve hasarlardan sorumludur.\n (2) Tüketicinin, satıcının belirlediği taşıyıcı dışında başka bir taşıyıcı ile malın gönderilmesini talep etmesi durumunda, malın ilgili taşıyıcıya tesliminden itibaren oluşabilecek kayıp ya da hasardan satıcı sorumlu değildir.",
+      "preview": "(1) Satıcı, malın tüketici ya da tüketicinin taşıyıcı dışında belirleyeceği üçüncü bir kişiye teslimine kadar oluşan kayıp ve hasarlardan so…",
+      "kitap": null,
+      "kisim": null,
+      "bolum": "DÖRDÜNCÜ BÖLÜM · Diğer Hükümler",
+      "ayirim": null,
+      "maddeBaslik": "Zarardan sorumluluk",
+      "sectionPath": [
+        "DÖRDÜNCÜ BÖLÜM · Diğer Hükümler",
+        "Zarardan sorumluluk"
+      ]
+    },
+    {
+      "id": "yonetmelik:20237:m:18",
+      "maddeKind": "madde",
+      "maddeNo": "18",
+      "heading": "Madde 18",
+      "text": "(1) Kurulmuş olan sözleşmeye ilişkin olarak tüketicilerin iletişime geçebilmesi için satıcı veya sağlayıcı tarafından bir telefon hattı tahsis edilmesi durumunda, bu hat ile ilgili olarak satıcı veya sağlayıcı olağan ücret tarifesinden daha yüksek bir tarife seçemez.",
+      "preview": "(1) Kurulmuş olan sözleşmeye ilişkin olarak tüketicilerin iletişime geçebilmesi için satıcı veya sağlayıcı tarafından bir telefon hattı tahs…",
+      "kitap": null,
+      "kisim": null,
+      "bolum": "DÖRDÜNCÜ BÖLÜM · Diğer Hükümler",
+      "ayirim": null,
+      "maddeBaslik": "Telefon kullanım ücreti",
+      "sectionPath": [
+        "DÖRDÜNCÜ BÖLÜM · Diğer Hükümler",
+        "Telefon kullanım ücreti"
+      ]
+    },
+    {
+      "id": "yonetmelik:20237:m:19",
+      "maddeKind": "madde",
+      "maddeNo": "19",
+      "heading": "Madde 19",
+      "text": "(1) Sözleşme kurulmadan önce, sözleşme yükümlülüğünden kaynaklanan ve üzerinde anlaşılmış esas bedel dışında herhangi bir ilave bedel talep edilebilmesi için tüketicinin açık onayının ayrıca alınması zorunludur.\n (2) Tüketicinin açık onayı alınmadan ilave ödeme yükümlülüğü doğuran seçeneklerin kendiliğinden seçili olarak sunulmuş olmasından dolayı tüketici bir ödemede bulunmuş ise, satıcı veya sağlayıcı (Ek ibare:RG-23/8/2022-31932)(1) ile platform üzerinden kurulan mesafeli sözleşmelerde satıcı veya sağlayıcı adına bedel tahsil etmesi halinde aracı hizmet sağlayıcı bu ödemelerin iadesini derhal yapmak zorundadır.",
+      "preview": "(1) Sözleşme kurulmadan önce, sözleşme yükümlülüğünden kaynaklanan ve üzerinde anlaşılmış esas bedel dışında herhangi bir ilave bedel talep…",
+      "kitap": null,
+      "kisim": null,
+      "bolum": "DÖRDÜNCÜ BÖLÜM · Diğer Hükümler",
+      "ayirim": null,
+      "maddeBaslik": "İlave ödemeler",
+      "sectionPath": [
+        "DÖRDÜNCÜ BÖLÜM · Diğer Hükümler",
+        "İlave ödemeler"
+      ]
+    },
+    {
+      "id": "yonetmelik:20237:m:20",
+      "maddeKind": "madde",
+      "maddeNo": "20",
+      "heading": "Madde 20",
+      "text": "(1) Satıcı veya sağlayıcı, bu Yönetmelik kapsamında düzenlenen cayma hakkı, bilgilendirme, teslimat ve diğer hususlardaki yükümlülüklerine dair her bir işleme ilişkin bilgi ve belgeyi üç yıl boyunca saklamak zorundadır.\n (2) (Değişik cümle:RG-23/8/2022-31932)(1) Aracı hizmet sağlayıcı, bu Yönetmelikte yer alan hususlardan dolayı satıcı veya sağlayıcı ile yapılan işlemlere ilişkin kayıtları üç yıl boyunca tutmak ve istenilmesi halinde bu bilgileri ilgili kurum, kuruluş ve tüketicilere vermekle yükümlüdür. (Ek cümle:RG-9/2/2019-30681) Ancak abonelik sözleşmesinin kamu hizmetlerinin tek noktadan sunulduğu ortak kamu elektronik platformu üzerinden kurulması halinde, kayıtların tutulması ve bilgilerin sunulmasına ilişkin yükümlülük satıcı veya sağlayıcıya aittir.\n (3) Satıcı veya sağlayıcı elektronik ortamda tüketiciye teslim edilen gayrimaddi malların veya ifa edilen hizmetlerin ayıpsız olduğunu ispatla yükümlüdür.\n BEŞİNCİ BÖLÜM\n Çeşitli ve Son Hükümler\n Yürürlükten kaldırılan yönetmelik",
+      "preview": "(1) Satıcı veya sağlayıcı, bu Yönetmelik kapsamında düzenlenen cayma hakkı, bilgilendirme, teslimat ve diğer hususlardaki yükümlülüklerine d…",
+      "kitap": null,
+      "kisim": null,
+      "bolum": "DÖRDÜNCÜ BÖLÜM · Diğer Hükümler",
+      "ayirim": null,
+      "maddeBaslik": "Bilgilerin saklanması ve ispat yükümlülüğü",
+      "sectionPath": [
+        "DÖRDÜNCÜ BÖLÜM · Diğer Hükümler",
+        "Bilgilerin saklanması ve ispat yükümlülüğü"
+      ]
+    },
+    {
+      "id": "yonetmelik:20237:m:21",
+      "maddeKind": "madde",
+      "maddeNo": "21",
+      "heading": "Madde 21",
+      "text": "(1) 6/3/2011 tarihli ve 27866 sayılı Resmî Gazete’de yayımlanan Mesafeli Sözleşmelere Dair Yönetmelik yürürlükten kaldırılmıştır.",
+      "preview": "(1) 6/3/2011 tarihli ve 27866 sayılı Resmî Gazete’de yayımlanan Mesafeli Sözleşmelere Dair Yönetmelik yürürlükten kaldırılmıştır.",
+      "kitap": null,
+      "kisim": null,
+      "bolum": "DÖRDÜNCÜ BÖLÜM · Diğer Hükümler",
+      "ayirim": null,
+      "maddeBaslik": "Bilgilerin saklanması ve ispat yükümlülüğü",
+      "sectionPath": [
+        "DÖRDÜNCÜ BÖLÜM · Diğer Hükümler",
+        "Bilgilerin saklanması ve ispat yükümlülüğü"
+      ]
+    },
+    {
+      "id": "yonetmelik:20237:m:gecici:1",
+      "maddeKind": "gecici",
+      "maddeNo": "1",
+      "heading": "Geçici Madde 1",
+      "text": "(Ek:RG-4/11/2023-32359)(3)\n (1) Bu Yönetmeliğin, 23/8/2022 tarihli ve 31932 sayılı Resmî Gazete’de yayımlanan Mesafeli Sözleşmeler Yönetmeliğinde Değişiklik Yapılmasına Dair Yönetmelik ile değiştirilen;\n a) 5 inci maddesinin birinci fıkrasının (g) bendi,\n b) 12 nci maddesi,\n c) 12/A maddesinin yedinci fıkrasının (b) bendi,\n ç) 13 üncü maddesinin birinci fıkrasında yer alan “dört” ibaresi ile üçüncü fıkrası,\n d) 15 inci maddesinin birinci fıkrasının (ı), (i), (j) ve (k) bentleri,\n hükümleri (Değişik ibare:RG-10/8/2024-32628) 1/1/2026 tarihine kadar uygulanmaz.\n (2) (Değişik ibare:RG-10/8/2024-32628) 1/1/2026 tarihine kadar birinci fıkrada belirtilen hükümlerin, 23/8/2022 tarihli ve 31932 sayılı Resmî Gazete’de yayımlanan Mesafeli Sözleşmeler Yönetmeliğinde Değişiklik Yapılmasına Dair Yönetmelik ile değiştirilmeden önce yürürlükte bulunan halleri uygulanmaya devam olunur.",
+      "preview": "(Ek:RG-4/11/2023-32359)(3) (1) Bu Yönetmeliğin, 23/8/2022 tarihli ve 31932 sayılı Resmî Gazete’de yayımlanan Mesafeli Sözleşmeler Yönetmeliğ…",
+      "kitap": null,
+      "kisim": null,
+      "bolum": "DÖRDÜNCÜ BÖLÜM · Diğer Hükümler",
+      "ayirim": null,
+      "maddeBaslik": "Geçiş hükümleri",
+      "sectionPath": [
+        "DÖRDÜNCÜ BÖLÜM · Diğer Hükümler",
+        "Geçiş hükümleri"
+      ]
+    },
+    {
+      "id": "yonetmelik:20237:m:22",
+      "maddeKind": "madde",
+      "maddeNo": "22",
+      "heading": "Madde 22",
+      "text": "(1) Bu Yönetmelik yayımı tarihinden itibaren üç ay sonra yürürlüğe girer.",
+      "preview": "(1) Bu Yönetmelik yayımı tarihinden itibaren üç ay sonra yürürlüğe girer.",
+      "kitap": null,
+      "kisim": null,
+      "bolum": "DÖRDÜNCÜ BÖLÜM · Diğer Hükümler",
+      "ayirim": null,
+      "maddeBaslik": "Yürürlük",
+      "sectionPath": [
+        "DÖRDÜNCÜ BÖLÜM · Diğer Hükümler",
+        "Yürürlük"
+      ]
+    },
+    {
+      "id": "yonetmelik:20237:m:23",
+      "maddeKind": "madde",
+      "maddeNo": "23",
+      "heading": "Madde 23",
+      "text": "(1) Bu Yönetmelik hükümlerini (Değişik ibare:RG-23/8/2022-31932)(1) Ticaret Bakanı yürütür.\n _____________________\n (1) Bu değişiklik 1/10/2022 tarihinde yürürlüğe girer.\n (2) 14/9/2022 tarihli ve 31953 sayılı Resmî Gazete’de yayımlanan Yönetmelik uyarınca 23/8/2022 tarihli ve 31932 sayılı Resmî Gazete’de yayımlanan değişiklikle Yönetmeliğin 5 inci maddesinin birinci fıkrasının (g) bendi, 12 nci maddesi, 12/A maddesinin yedinci fıkrasının (b) bendi, 13 üncü maddesinin birinci fıkrasına eklenen “dört” ibaresi ve aynı maddeye eklenen fıkra ile 15 inci maddesinin birinci fıkrasına eklenen bentler 1/1/2024 tarihinde yürürlüğe girer.\n (3) Bu değişiklik 1/1/2024 tarihinde yürürlüğe girer.\n (4) Bu değişiklik 1/1/2026 tarihinde yürürlüğe girer.\n\n Yönetmeliğin Yayımlandığı Resmî Gazete’nin\n\n Tarihi\n Sayısı\n\n 27/11/2014\n 29188\n\n Yönetmelikte Değişiklik Yapan Yönetmeliklerin Yayımlandığı Resmî Gazetelerin\n\n Tarihi\n Sayısı\n\n 1.\n 9/2/2019\n 30681\n\n 2.\n 23/8/2022\n 31932\n\n 3.\n 4/11/2023\n 32359\n\n 4.\n 10/8/2024\n 32628\n\n 5.\n 24/5/2025\n 32909\n\n EK\n ÖRNEK CAYMA FORMU\n\n (Bu form, sadece sözleşmeden cayma hakkı kullanılmak istenildiğinde doldurup gönderilecektir.)\n\n -Kime: (Satıcı veya sağlayıcı tarafından doldurulacak olan bu kısımda satıcı veya sağlayıcının ismi, unvanı, adresi varsa faks numarası ve e-posta adresi yer alacaktır.)\n\n -Bu formla aşağıdaki malların satışına veya hizmetlerin sunulmasına ilişkin sözleşmeden cayma hakkımı kullandığımı beyan ederim.\n\n -Sipariş tarihi veya teslim tarihi:\n\n -Cayma hakkına konu mal veya hizmet:\n\n -Cayma hakkına konu mal veya hizmetin bedeli:\n\n -Tüketicinin adı ve soyadı:\n\n -Tüketicinin adresi:\n\n -Tüketicinin imzası: (Sadece kağıt üzerinde gönderilmesi halinde)\n\n -Tarih:",
+      "preview": "(1) Bu Yönetmelik hükümlerini (Değişik ibare:RG-23/8/2022-31932)(1) Ticaret Bakanı yürütür. _____________________ (1) Bu değişiklik 1/10/202…",
+      "kitap": null,
+      "kisim": null,
+      "bolum": "DÖRDÜNCÜ BÖLÜM · Diğer Hükümler",
+      "ayirim": null,
+      "maddeBaslik": "Yürütme",
+      "sectionPath": [
+        "DÖRDÜNCÜ BÖLÜM · Diğer Hükümler",
+        "Yürütme"
+      ]
+    }
+  ]
+}

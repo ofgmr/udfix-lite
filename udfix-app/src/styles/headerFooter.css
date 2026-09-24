@@ -24,7 +24,8 @@
     --hf-border-strong: var(--border);
     --hf-text: var(--foreground);
     --hf-text-muted: var(--muted-foreground);
-    --hf-input-bg: var(--input);
+    /* `--input` is the shadcn border token (solid black/white in Yüksek Kontrast), not a fill. */
+    --hf-input-bg: var(--secondary);
     /* Typography — override these per-document if needed */
     --hf-default-font-size: 11px;
     --hf-font-family: var(--font-sans, 'Inter', sans-serif);
@@ -561,6 +562,23 @@
 
 .hf-panel.hf-panel--open {
     transform: translate(0, -50%);
+}
+
+/* Yüksek Kontrast: no blur punch-through; ink follows --card-foreground, not --input. */
+.theme-contrast .hf-panel,
+.theme-contrast.dark .hf-panel {
+    backdrop-filter: none;
+    -webkit-backdrop-filter: none;
+    background: var(--card);
+    color: var(--card-foreground);
+    border-color: var(--border);
+}
+
+.theme-contrast .hf-mini-toolbar,
+.theme-contrast.dark .hf-mini-toolbar {
+    backdrop-filter: none;
+    -webkit-backdrop-filter: none;
+    background: var(--secondary);
 }
 
 /* Dropdown variant — overrides right-side drawer geometry */

@@ -1,0 +1,546 @@
+{
+  "id": "yonetmelik:15452",
+  "kind": "yonetmelik",
+  "no": "15452",
+  "title": "Vergi İncelemelerinde Uyulacak Usul ve Esaslar Hakkında Yönetmelik",
+  "shortName": "Vergi İnceleme Yön.",
+  "aliases": [
+    "Vergi İnceleme Yön.",
+    "Vergi İncelemelerinde Uyulacak Usul ve Esaslar Hakkında Yönetmelik",
+    "15452"
+  ],
+  "tur": 7,
+  "tertip": 5,
+  "sourceUrl": "https://www.mevzuat.gov.tr/mevzuat?MevzuatNo=15452&MevzuatTur=7&MevzuatTertip=5",
+  "kabulTarihi": null,
+  "maddeCount": 31,
+  "maddeler": [
+    {
+      "id": "yonetmelik:15452:m:1",
+      "maddeKind": "madde",
+      "maddeNo": "1",
+      "heading": "Madde 1",
+      "text": "(1) Bu Yönetmeliğin amacı vergi incelemelerinde uyulacak usul ve esasları düzenlemektir.",
+      "preview": "(1) Bu Yönetmeliğin amacı vergi incelemelerinde uyulacak usul ve esasları düzenlemektir.",
+      "kitap": null,
+      "kisim": null,
+      "bolum": "BİRİNCİ BÖLÜM · Amaç, Kapsam, Dayanak ve Tanımlar",
+      "ayirim": null,
+      "maddeBaslik": "Amaç ve kapsam",
+      "sectionPath": [
+        "BİRİNCİ BÖLÜM · Amaç, Kapsam, Dayanak ve Tanımlar",
+        "Amaç ve kapsam"
+      ]
+    },
+    {
+      "id": "yonetmelik:15452:m:2",
+      "maddeKind": "madde",
+      "maddeNo": "2",
+      "heading": "Madde 2",
+      "text": "(1) Bu Yönetmelik, 4/1/1961 tarihli ve 213 sayılı Vergi Usul Kanununun 140 ıncı maddesi ile (Değişik ibare:RG-7/4/2021-31447) 1 sayılı Cumhurbaşkanlığı Teşkilatı Hakkında Cumhurbaşkanlığı Kararnamesinin 228 inci maddesine dayanılarak hazırlanmıştır.",
+      "preview": "(1) Bu Yönetmelik, 4/1/1961 tarihli ve 213 sayılı Vergi Usul Kanununun 140 ıncı maddesi ile (Değişik ibare:RG-7/4/2021-31447) 1 sayılı Cumhu…",
+      "kitap": null,
+      "kisim": null,
+      "bolum": "BİRİNCİ BÖLÜM · Amaç, Kapsam, Dayanak ve Tanımlar",
+      "ayirim": null,
+      "maddeBaslik": "Dayanak",
+      "sectionPath": [
+        "BİRİNCİ BÖLÜM · Amaç, Kapsam, Dayanak ve Tanımlar",
+        "Dayanak"
+      ]
+    },
+    {
+      "id": "yonetmelik:15452:m:3",
+      "maddeKind": "madde",
+      "maddeNo": "3",
+      "heading": "Madde 3",
+      "text": "(Değişik:RG-7/4/2021-31447)\n (1) Bu Yönetmelikte geçen;\n a) Bakan: Hazine ve Maliye Bakanını,\n b) Bakanlık: Hazine ve Maliye Bakanlığını,\n c) Başkanlık: Vergi Denetim Kurulu Başkanlığını,\n ç) Daire Başkanlığı: Uygun görülen yerlerde Bakan onayı ile kurulan Başkanlığa bağlı Daire Başkanlıklarını,\n d) İnceleme ve denetim birimi: Vergi Denetim Kurulu Başkanlığını, Gelir İdaresi Başkanlığını, Vergi Dairesi Başkanlıklarını, Vergi Dairesi Başkanlığı kurulmayan yerlerde Defterdarlıkları,\n e) Sınırlı inceleme: Tam inceleme dışında kalan vergi incelemesini,\n f) Tam inceleme: Bir mükellef hakkında, bir veya birden fazla vergi türü itibarıyla bir veya daha fazla vergilendirme dönemine ilişkin her türlü iş ve işlemlerinin bütün matrah unsurlarını içerecek şekilde yapılan vergi incelemesini,\n g) Vergi incelemesi: İnceleme yapmaya yetkili olanlar tarafından, ödenmesi gereken vergilerin doğruluğunu araştırmak, tespit etmek ve sağlamak amacıyla yapılan faaliyeti,\n ğ) Vergi inceleme raporu: Vergi incelemeleri sonucunda düzenlenen raporu,\n h) Vergi incelemesi yapmaya yetkili olanlar: 213 sayılı Vergi Usul Kanununun 135 inci maddesinde sayılan yetkilileri,\n ı) Vergi Müfettişi: Vergi Başmüfettişini, Vergi Müfettişini ve Vergi Müfettiş Yardımcısını,\n i) (Ek:RG-13/5/2025-32899) Elektronik sistem araçları: Defter ve belgelerin ibraz edilmesi, tutanakların düzenlenmesi, görüntülü ve sesli görüşme sağlanması gibi vergi incelemelerine ilişkin işlemlerin elektronik ortamda yürütülmesini sağlamak üzere Bakanlık tarafından oluşturulan her türlü elektronik sistemi,\n j) (Ek:RG-13/5/2025-32899) Güvenli elektronik imza: 15/1/2004 tarihli ve 5070 sayılı Elektronik İmza Kanununun 4 üncü maddesinde niteliklerine yer verilen elektronik imzayı,\n ifade eder.",
+      "preview": "(Değişik:RG-7/4/2021-31447) (1) Bu Yönetmelikte geçen; a) Bakan: Hazine ve Maliye Bakanını, b) Bakanlık: Hazine ve Maliye Bakanlığını, c) Ba…",
+      "kitap": null,
+      "kisim": null,
+      "bolum": "BİRİNCİ BÖLÜM · Amaç, Kapsam, Dayanak ve Tanımlar",
+      "ayirim": null,
+      "maddeBaslik": "Tanımlar",
+      "sectionPath": [
+        "BİRİNCİ BÖLÜM · Amaç, Kapsam, Dayanak ve Tanımlar",
+        "Tanımlar"
+      ]
+    },
+    {
+      "id": "yonetmelik:15452:m:4",
+      "maddeKind": "madde",
+      "maddeNo": "4",
+      "heading": "Madde 4",
+      "text": "(1) Vergi incelemeleri, vergi incelemesi yapmaya yetkili olanlarca, bu Yönetmelikte belirlenen usul ve esaslara uygun olarak yerine getirilir.\n (2) Risk analizi neticesinde riskli bulunmaması, ihbar veya şikâyet olmaması halinde dahi mükellefler incelemeye alınabilir.\n (3) (Ek:RG-13/5/2025-32899) Vergi inceleme sürecinde, Bakanlık tarafından oluşturulan elektronik sistem araçları kullanılabilir.",
+      "preview": "(1) Vergi incelemeleri, vergi incelemesi yapmaya yetkili olanlarca, bu Yönetmelikte belirlenen usul ve esaslara uygun olarak yerine getirili…",
+      "kitap": null,
+      "kisim": null,
+      "bolum": "İKİNCİ BÖLÜM · Genel Hükümler",
+      "ayirim": null,
+      "maddeBaslik": "Vergi incelemelerinin yürütülmesi",
+      "sectionPath": [
+        "İKİNCİ BÖLÜM · Genel Hükümler",
+        "Vergi incelemelerinin yürütülmesi"
+      ]
+    },
+    {
+      "id": "yonetmelik:15452:m:5",
+      "maddeKind": "madde",
+      "maddeNo": "5",
+      "heading": "Madde 5",
+      "text": "(1) Vergi incelemesi yapmaya yetkili olanlar, vergi incelemelerini yürütürken, aşağıda yer alan temel ilkelere uyarlar:\n a) Yükümlülüklerin yerine getirilip getirilmediğini, mükellefin hak ve hukukunu da gözetmek suretiyle denetlemek.\n b) Kanun hükümlerini uygularken kamu hak ve hukukunun korunmasında gerekli özeni göstermek.\n c) Mükelleflere ve diğer şahıslara karşı nazik, ölçülü ve mesleki saygınlığın gerektirdiği şekilde tutarlı davranmak.\n ç) Mensubu oldukları kurumun amaçlarına ve misyonuna uygun davranmak, mesleğin gerektirdiği itibar ve güvene layık olunduğunu davranışlarıyla da göstermek.\n d) Görevin yerine getirilmesinde sürekli gelişimi, saydamlığı, tarafsızlığı, dürüstlüğü, kamu yararını gözetmeyi, hesap verilebilirliği ve öngörülebilirliği esas almak.\n e) Tüm eylem ve işlemlerde yasallık, adalet ve dürüstlük ilkeleri doğrultusunda hareket etmek, tarafsızlıklarını engelleyecek herhangi bir etkiye izin vermemek.\n f) Amacın, ödenmesi gereken vergi tutarını doğru olarak tespit etmek olduğunu daima göz önünde bulundurmak ve bu çerçevede inceleme sonucunda, gerekmesi halinde, mükellef lehine düzeltmelerin de yapılmasını sağlamak.\n g) Görevlerini, unvanlarını ve yetkilerini kullanarak kendileri, yakınları veya üçüncü kişiler lehine menfaat sağlamamak.\n ğ) Başkanlıkça belirlenen diğer ilke ve standartlara da bağlı kalmak.",
+      "preview": "(1) Vergi incelemesi yapmaya yetkili olanlar, vergi incelemelerini yürütürken, aşağıda yer alan temel ilkelere uyarlar: a) Yükümlülüklerin y…",
+      "kitap": null,
+      "kisim": null,
+      "bolum": "İKİNCİ BÖLÜM · Genel Hükümler",
+      "ayirim": null,
+      "maddeBaslik": "Vergi incelemelerinde uyulacak temel ilkeler",
+      "sectionPath": [
+        "İKİNCİ BÖLÜM · Genel Hükümler",
+        "Vergi incelemelerinde uyulacak temel ilkeler"
+      ]
+    },
+    {
+      "id": "yonetmelik:15452:m:6",
+      "maddeKind": "madde",
+      "maddeNo": "6",
+      "heading": "Madde 6",
+      "text": "(1) Vergi inceleme görevi yazı ile verilir. İnceleme görevi yazılarında; nezdinde inceleme yapılacak kişilere ve konulara ilişkin bilgilere, incelemenin türüne, gerekçesine, dönemine ve süresine ilişkin hususlara yer verilir. (Ek cümle:RG-6/11/2015-29524) İnceleme görev yazısı ekinde yer alan belgeler, elektronik ortamda inceleme yapmaya yetkili olanlara gönderilebilir.\n (2) İnceleme, bir veya birden fazla vergi türüne ilişkin olarak yaptırılabilir. İnceleme görevini verenler, tam veya sınırlı inceleme olarak yapmış oldukları görevlendirmenin mahiyetini değiştirmeye yetkilidir. İncelemenin mahiyetinin değiştirilme nedeni, vergi incelemesi yapmaya yetkili olanlar tarafından, nezdinde inceleme yapılana bildirilir.\n (3) (Değişik:RG-25/10/2016-29868) Vergi incelemesi, sadece inceleme görev yazısında belirtilen konu ve döneme ilişkin olarak yapılır. İnceleme konusu ve dönemi ile ilgili olmayan herhangi bir hususa ilişkin mükelleften bilgi ve belge talebinde bulunulamaz. Yürütülmekte olan incelemeler sırasında, görevlendirme yazısında belirtilenden farklı bir konu veya döneme ilişkin eleştiriyi gerektiren hususların tespiti durumunda söz konusu durum inceleme görevini verenlere bildirilir. Görevlendirme yazısında yer alan inceleme konusuna giren tespitlerin, bu yazıda yer almayan farklı vergi türlerine ilişkin olarak da rapor yazılmasını gerektirmesi durumunda, bu husus yeni bir görevlendirme gerektirmez.\n (4) Yürütülmekte olan incelemeler sırasında farklı bir mükellef nezdinde inceleme yapılma ihtiyacı duyulduğunda durum gerekçeleri ile birlikte bağlı olunan birime bildirilir.\n (5) Başkanlık, belirlenen inceleme hedeflerini gerçekleştirmek maksadıyla, Vergi Müfettişlerinin iş yoğunluğunu da göz önünde bulundurarak, yapılan işin mahiyetini değiştirebileceği gibi, Vergi Müfettişleri tarafından aynı anda yürütülecek inceleme görevi sayısını artırabilir, incelemenin münferit veya ekip halinde yürütülmesine karar verebilir.",
+      "preview": "(1) Vergi inceleme görevi yazı ile verilir. İnceleme görevi yazılarında; nezdinde inceleme yapılacak kişilere ve konulara ilişkin bilgilere,…",
+      "kitap": null,
+      "kisim": null,
+      "bolum": "İKİNCİ BÖLÜM · Genel Hükümler",
+      "ayirim": null,
+      "maddeBaslik": "Vergi inceleme görevinin verilmesi",
+      "sectionPath": [
+        "İKİNCİ BÖLÜM · Genel Hükümler",
+        "Vergi inceleme görevinin verilmesi"
+      ]
+    },
+    {
+      "id": "yonetmelik:15452:m:7",
+      "maddeKind": "madde",
+      "maddeNo": "7",
+      "heading": "Madde 7",
+      "text": "(1) Vergi incelemesi yapmaya yetkili olanlar, inceleme görevinin verilmesinden itibaren en geç (Değişik ibare:RG-28/6/2022-31880)(2) beş gün içinde işe başlarlar. Bu süre içinde işe başlanılamaması halinde durum gerekçeli bir yazı ile bağlı bulunulan birime bildirilir. İlgili birim, işe başlanılamamasını haklı kılan bir mazeretin varlığı halinde en fazla (Değişik ibare:RG-28/6/2022-31880)(2) beş gün ilave süre verebileceği gibi inceleme görevini başka bir inceleme elemanına da verebilir.\n (2) Vergi incelemesi yapmaya yetkili olanlar tarafından mükellefin kendisine veya bulunduğu sektöre yönelik olarak yapılan her türlü araştırma, inceleme, bilgi isteme ve yazışma gibi faaliyetler işe başlandığını gösterir.\n (3) Vergi incelemesi yapmaya yetkili olanlar, incelemeye başlamadan önce, nezdinde inceleme yapacakları kişilere ve konulara ilişkin olarak görev yazısı ekinde verilen belgeler ile ilgililerin vergi dairesindeki dosyalarını tetkik ederler. Ayrıca, gerekirse harici araştırmalar da yapmak suretiyle bunların faaliyetleri, iş ve iş kolları ile çalışma şekilleri hakkında bilgi edinirler.",
+      "preview": "(1) Vergi incelemesi yapmaya yetkili olanlar, inceleme görevinin verilmesinden itibaren en geç (Değişik ibare:RG-28/6/2022-31880)(2) beş gün…",
+      "kitap": null,
+      "kisim": null,
+      "bolum": "ÜÇÜNCÜ BÖLÜM · Vergi İncelemesine Yetkili Olanlar Tarafından Uyulması Gereken Usuller",
+      "ayirim": null,
+      "maddeBaslik": "İşe başlama ve incelemeye hazırlık",
+      "sectionPath": [
+        "ÜÇÜNCÜ BÖLÜM · Vergi İncelemesine Yetkili Olanlar Tarafından Uyulması Gereken Usuller",
+        "İşe başlama ve incelemeye hazırlık"
+      ]
+    },
+    {
+      "id": "yonetmelik:15452:m:8",
+      "maddeKind": "madde",
+      "maddeNo": "8",
+      "heading": "Madde 8",
+      "text": "(1) Vergi incelemesi yapmaya yetkili olanlar, işe başlama ve incelemeye hazırlık evresi dâhil, inceleme görevi sırasında tespit ettikleri hususları ihtiva eden bir inceleme dosyası oluştururlar.\n (2) İnceleme dosyasında; görevlendirme yazısı, işe başlama ve incelemeye hazırlık evresinde tespit edilen hususlar, mükellefin vergi incelemesi kapsamında incelenen hesapları, harici olarak yapılan araştırmalarda tespit edilen konular, mevzuata aykırı işlemleri, bulunan matrah farkı, vergi farkı ve bunların hesaplanma yöntemlerine ilişkin bilgiler ile bu kapsamda yapılan yazışmalar, düzenlenen tutanaklar ve ilgili diğer belgeler yer alır.\n (3) (Değişik:RG-6/11/2015-29524) İnceleme görevini veren ilgili birim tarafından görevin devredilmesinin uygun görülmesi halinde inceleme dosyası, yazı ile (Değişik ibare:RG-7/4/2021-31447) Daire Başkanlığına gönderilir.\n (4) İnceleme dosyasında yer alacak bilgilerin kısmen veya tamamen elektronik ortamda tutulması mümkündür.\n (5) İnceleme dosyası, ilgili rapor değerlendirme komisyonunun rapora ilişkin nihai değerlendirmesinin incelemeyi yapana iletildiği tarihi takip eden 15 gün içerisinde ilgili inceleme ve denetim birimine iletilir.",
+      "preview": "(1) Vergi incelemesi yapmaya yetkili olanlar, işe başlama ve incelemeye hazırlık evresi dâhil, inceleme görevi sırasında tespit ettikleri hu…",
+      "kitap": null,
+      "kisim": null,
+      "bolum": "ÜÇÜNCÜ BÖLÜM · Vergi İncelemesine Yetkili Olanlar Tarafından Uyulması Gereken Usuller",
+      "ayirim": null,
+      "maddeBaslik": "İnceleme dosyası",
+      "sectionPath": [
+        "ÜÇÜNCÜ BÖLÜM · Vergi İncelemesine Yetkili Olanlar Tarafından Uyulması Gereken Usuller",
+        "İnceleme dosyası"
+      ]
+    },
+    {
+      "id": "yonetmelik:15452:m:9",
+      "maddeKind": "madde",
+      "maddeNo": "9",
+      "heading": "Madde 9",
+      "text": "(Değişik:RG-28/6/2022-31880)(2)\n (1) Vergi incelemesi yapmaya yetkili olanlar, inceleme görevinin verilmesinden itibaren en geç on beş gün içinde incelemeye başlarlar. Bu süre içinde incelemeye başlanılamaması halinde durum gerekçeli bir yazı ile bağlı bulunulan birime bildirilir. İlgili birim, incelemeye başlanılamamasını haklı kılan bir mazeretin varlığı halinde en fazla beş gün ilave süre verebileceği gibi inceleme görevini başka bir inceleme elemanına da verebilir.\n (2) Vergi incelemesine, vergi incelemesi yapmaya yetkili olanlar tarafından düzenlenecek “İncelemeye Başlama Bildirimi” ile başlanır. İncelemeye Başlama Bildiriminin bir örneği nezdinde inceleme yapılana, bir örneği vergi incelemesi yapmaya yetkili olanın bağlı bulunduğu inceleme ve denetim birimine, bir örneği ise mükellefin bağlı olduğu vergi dairesine gönderilir.\n (3) İncelemeye başlama tarihi, incelemeye başlama bildiriminin düzenlendiği tarihtir.\n (4) 213 sayılı Vergi Usul Kanununun aramaya ilişkin hükümleri saklıdır.\n (5) Vergi incelemesine başlanılmasına ilişkin diğer hususlar, vergi incelemesi yapmaya yetkili olanların bağlı bulundukları birimler tarafından belirlenir.",
+      "preview": "(Değişik:RG-28/6/2022-31880)(2) (1) Vergi incelemesi yapmaya yetkili olanlar, inceleme görevinin verilmesinden itibaren en geç on beş gün iç…",
+      "kitap": null,
+      "kisim": null,
+      "bolum": "ÜÇÜNCÜ BÖLÜM · Vergi İncelemesine Yetkili Olanlar Tarafından Uyulması Gereken Usuller",
+      "ayirim": null,
+      "maddeBaslik": "İncelemeye başlama",
+      "sectionPath": [
+        "ÜÇÜNCÜ BÖLÜM · Vergi İncelemesine Yetkili Olanlar Tarafından Uyulması Gereken Usuller",
+        "İncelemeye başlama"
+      ]
+    },
+    {
+      "id": "yonetmelik:15452:m:10",
+      "maddeKind": "madde",
+      "maddeNo": "10",
+      "heading": "Madde 10",
+      "text": "(Değişik:RG-28/6/2022-31880)(2)\n (1) Vergi incelemesi yapmaya yetkili olanlar yanlarında memuriyet sıfatlarını ve inceleme yetkisini gösteren fotoğraflı resmi bir kimlik bulundururlar ve gittikleri yerde işe başlamadan evvel bu kimliği ilgililere gösterirler.\n İncelemeye başlama (Değişik ibare:RG-28/6/2022-31880)(2) bildiriminin muhteviyatı",
+      "preview": "(Değişik:RG-28/6/2022-31880)(2) (1) Vergi incelemesi yapmaya yetkili olanlar yanlarında memuriyet sıfatlarını ve inceleme yetkisini gösteren…",
+      "kitap": null,
+      "kisim": null,
+      "bolum": "ÜÇÜNCÜ BÖLÜM · Vergi İncelemesine Yetkili Olanlar Tarafından Uyulması Gereken Usuller",
+      "ayirim": null,
+      "maddeBaslik": "Kimlik ibrazı",
+      "sectionPath": [
+        "ÜÇÜNCÜ BÖLÜM · Vergi İncelemesine Yetkili Olanlar Tarafından Uyulması Gereken Usuller",
+        "Kimlik ibrazı"
+      ]
+    },
+    {
+      "id": "yonetmelik:15452:m:11",
+      "maddeKind": "madde",
+      "maddeNo": "11",
+      "heading": "Madde 11",
+      "text": "(1) İncelemeye başlama (Değişik ibare:RG-28/6/2022-31880)(2) bildiriminde asgari aşağıda yazılı hususlara yer verilir:\n a) (Değişik:RG-28/6/2022-31880)(2) İnceleme yapılanın kimlik bilgileri, unvanı, adresi,\n b) İncelemenin türü (tam/sınırlı inceleme),\n c) İncelemeye alınma gerekçesi,\n ç) İncelemenin konusu,\n d) İnceleme dönemi,\n e) (Değişik:RG-28/6/2022-31880)(2) Vergi türü,\n f) (Değişik:RG-28/6/2022-31880)(2) Bildirimin düzenlenme tarihi ve vergi incelemesi yapmaya yetkili olanların imzası,\n g) Mükelleflerin incelemeyle ilgili hak ve yükümlülükleri hakkında bilgi.",
+      "preview": "(1) İncelemeye başlama (Değişik ibare:RG-28/6/2022-31880)(2) bildiriminde asgari aşağıda yazılı hususlara yer verilir: a) (Değişik:RG-28/6/2…",
+      "kitap": null,
+      "kisim": null,
+      "bolum": "ÜÇÜNCÜ BÖLÜM · Vergi İncelemesine Yetkili Olanlar Tarafından Uyulması Gereken Usuller",
+      "ayirim": null,
+      "maddeBaslik": "Kimlik ibrazı",
+      "sectionPath": [
+        "ÜÇÜNCÜ BÖLÜM · Vergi İncelemesine Yetkili Olanlar Tarafından Uyulması Gereken Usuller",
+        "Kimlik ibrazı"
+      ]
+    },
+    {
+      "id": "yonetmelik:15452:m:12",
+      "maddeKind": "madde",
+      "maddeNo": "12",
+      "heading": "Madde 12",
+      "text": "(1) Mükelleflerin defter ve belgeleri yazılı olarak istenir ve tutanakla teslim alınır. (Değişik cüme:RG-25/10/2016-29868) Yazıda, ibraz edilecek defter ve belgeler ile on beş günden az olmamak üzere ibraz süresine, ibraz yerine ve ibraz edilmemesi halinde uygulanacak müeyyidelere yer verilir.\n (2) Mükellefin yazıya gerek kalmaksızın defter ve belgelerini ibrazı üzerine defter ve belgeler, tutanak düzenlenmek suretiyle alınır.\n (3) Tutanakta, teslim alınan defter ve belgelerin mahiyeti ile teslim eden ve alan kişilerin kimlik bilgileri ve imzalarına yer verilir.\n (4) (Değişik:RG-28/6/2022-31880)(2) Mükelleflerin, Bakanlığın elektronik olarak tutulmasına izin verdiği defter ve belgeleri Bakanlık tarafından oluşturulan sistemi kullanmak suretiyle elektronik ortamda ibraz etmesi esastır. (Ek cümle:RG-13/5/2025-32899) Defter ve belgelerin elektronik ortamda ibrazı üzerine sistem tarafından ibraz durumunu gösteren bir belge üretilir ve söz konusu belgeyi mükellef veya mükellef tarafından defter ve belgelerin ibrazı için vekâlet verilenler güvenli elektronik imza ile imzalar.\n (5) (Ek:RG-28/6/2022-31880)(2)(3) Mükellefin işyeri adresi, işyeri adresinin bulunmaması halinde ikametgâh adresi ile inceleme görevi verilenin çalışma yerinin aynı ilde bulunmaması halinde, defter ve belgeler mükellefin işyeri adresi, işyeri adresinin bulunmaması halinde ikametgâh adresinin bulunduğu ildeki dairede teslim alınır. Mükellefin talebi halinde defter ve belgeler inceleme görevi verilenin sürekli çalışma yerindeki dairede de teslim alınabilir. Bu fıkranın uygulanmasında dördüncü fıkra hükmü saklıdır.\n (6) (Ek:RG-28/6/2022-31880)(2)(3) Nezdinde inceleme yapılacak olanla temas kurulamaması veya ilgili ile temas kurulmasına rağmen verilen sürede defter ve belgelerin ibraz edilmemesi gibi hallerde inceleme, ilgilinin vergi dairesindeki dosyasında yer alan belgeler, elektronik ortamda tutulmasına izin verilen veriler ve diğer kaynaklardan elde edilen her türlü bilgi ve belgeler ile varsa Başkanlığın risk analizi sonuçlarına dayalı olarak yürütülür.\n (7) 213 sayılı Vergi Usul Kanununun aramaya ilişkin hükümleri saklıdır.",
+      "preview": "(1) Mükelleflerin defter ve belgeleri yazılı olarak istenir ve tutanakla teslim alınır. (Değişik cüme:RG-25/10/2016-29868) Yazıda, ibraz edi…",
+      "kitap": null,
+      "kisim": null,
+      "bolum": "ÜÇÜNCÜ BÖLÜM · Vergi İncelemesine Yetkili Olanlar Tarafından Uyulması Gereken Usuller",
+      "ayirim": null,
+      "maddeBaslik": "Defter ve belgelerin alınması(3)",
+      "sectionPath": [
+        "ÜÇÜNCÜ BÖLÜM · Vergi İncelemesine Yetkili Olanlar Tarafından Uyulması Gereken Usuller",
+        "Defter ve belgelerin alınması(3)"
+      ]
+    },
+    {
+      "id": "yonetmelik:15452:m:13",
+      "maddeKind": "madde",
+      "maddeNo": "13",
+      "heading": "Madde 13",
+      "text": "(Değişik:RG-28/6/2022-31880)(2)\n (1) Vergi incelemeleri esas itibarıyla dairede yapılır.\n (2) İncelemeye tabi olanın defter ve belgelerini ibraz etmesi kendisinden yazılı olarak istenir.\n (3) İstenilen defter veya belgeleri belli edilen zamanda mazeretsiz olarak getirmeyenler, bunları ibraz etmemiş sayılırlar. Haklı bir mazeret gösterenlere, defter ve belgelerini daireye getirmeleri için uygun bir süre verilir.\n (4) İncelemenin dairede yapılması, vergi incelemesi yapmaya yetkili olanlar tarafından incelemeye tabi olanın iş yerinde tespit yapılmasına ve çalışmalarda bulunmasına engel değildir.\n (5) Mükellef ve vergi sorumlusunun yazılı olarak talepte bulunması ve iş yerinin müsait olduğunun tespit edilmesi halinde, inceleme iş yerinde de yapılabilir.",
+      "preview": "(Değişik:RG-28/6/2022-31880)(2) (1) Vergi incelemeleri esas itibarıyla dairede yapılır. (2) İncelemeye tabi olanın defter ve belgelerini ibr…",
+      "kitap": null,
+      "kisim": null,
+      "bolum": "ÜÇÜNCÜ BÖLÜM · Vergi İncelemesine Yetkili Olanlar Tarafından Uyulması Gereken Usuller",
+      "ayirim": null,
+      "maddeBaslik": "İncelemenin yapılacağı yer",
+      "sectionPath": [
+        "ÜÇÜNCÜ BÖLÜM · Vergi İncelemesine Yetkili Olanlar Tarafından Uyulması Gereken Usuller",
+        "İncelemenin yapılacağı yer"
+      ]
+    },
+    {
+      "id": "yonetmelik:15452:m:14",
+      "maddeKind": "madde",
+      "maddeNo": "14",
+      "heading": "Madde 14",
+      "text": "(1) Vergi incelemesinin mükellefin işyerinde yapılması halinde, vergi incelemesi yapmaya yetkili olanlar, nezdinde inceleme yapılanın izni olmaksızın resmi çalışma saatleri dışında inceleme yapamazlar.\n (2) Tutanak düzenlenmesi ve inceleme ile ilgili emniyet tedbirlerinin alınması gerektiği hallerde, bu işlemler resmi çalışma saatleri dışında da yapılabilir. Bu hallerde, işyerindeki faaliyetlerin sekteye uğratılmaması için gerekli tedbirler alınır.",
+      "preview": "(1) Vergi incelemesinin mükellefin işyerinde yapılması halinde, vergi incelemesi yapmaya yetkili olanlar, nezdinde inceleme yapılanın izni o…",
+      "kitap": null,
+      "kisim": null,
+      "bolum": "ÜÇÜNCÜ BÖLÜM · Vergi İncelemesine Yetkili Olanlar Tarafından Uyulması Gereken Usuller",
+      "ayirim": null,
+      "maddeBaslik": "Çalışma saatleri",
+      "sectionPath": [
+        "ÜÇÜNCÜ BÖLÜM · Vergi İncelemesine Yetkili Olanlar Tarafından Uyulması Gereken Usuller",
+        "Çalışma saatleri"
+      ]
+    },
+    {
+      "id": "yonetmelik:15452:m:15",
+      "maddeKind": "madde",
+      "maddeNo": "15",
+      "heading": "Madde 15",
+      "text": "(1) Vergi incelemesi yapmaya yetkili olanlar, görevleri dolayısıyla, mükellefin ve mükellefle ilgili kimselerin şahıslarına, muamele ve hesap durumlarına, işlerine, işletmelerine, servetlerine veya mesleklerine ilişkin olarak öğrendikleri sırları veya gizli kalması gerekli diğer hususları ifşa edemezler ve kendilerinin veya üçüncü şahısların yararına kullanamazlar. Bu yasak, vergi incelemesi yapmaya yetkili olanlar görevlerinden ayrılsalar dahi devam eder.",
+      "preview": "(1) Vergi incelemesi yapmaya yetkili olanlar, görevleri dolayısıyla, mükellefin ve mükellefle ilgili kimselerin şahıslarına, muamele ve hesa…",
+      "kitap": null,
+      "kisim": null,
+      "bolum": "ÜÇÜNCÜ BÖLÜM · Vergi İncelemesine Yetkili Olanlar Tarafından Uyulması Gereken Usuller",
+      "ayirim": null,
+      "maddeBaslik": "Vergi mahremiyetinin korunması",
+      "sectionPath": [
+        "ÜÇÜNCÜ BÖLÜM · Vergi İncelemesine Yetkili Olanlar Tarafından Uyulması Gereken Usuller",
+        "Vergi mahremiyetinin korunması"
+      ]
+    },
+    {
+      "id": "yonetmelik:15452:m:16",
+      "maddeKind": "madde",
+      "maddeNo": "16",
+      "heading": "Madde 16",
+      "text": "(1) Vergi incelemesi yapmaya yetkili olanlar, inceleme esnasında gerekli görülen hallerde, vergilendirme ile ilgili olayları ve hesap durumlarını ayrıca tutanaklar ile tespit ve tevsik edebilirler.\n (2) (Değişik cümle:RG-25/10/2016-29868) Bu tutanakların taslakları, mükelleflerin itiraz ve mülahazalarının tutanağa geçirilebilmesini sağlamak amacıyla, mükelleflerin talep etmesi durumunda iki gün önceden mükelleflerin bilgisine sunulur. Tutanaklarda incelemeyi yapanın kanaatini belirten yorum, hüküm ve ifadelere yer verilmez.\n (3) (Ek:RG-13/5/2025-32899)(4) İnceleme tutanakları, Bakanlık tarafından oluşturulan sistem aracılığıyla elektronik ortamda düzenlenebilir. İnceleme tutanaklarının Bakanlık tarafından oluşturulan sistem aracılığıyla elektronik ortamda düzenlendiği durumlarda, mükellef veya mükellef tarafından inceleme tutanaklarını imzalamak üzere vekâlet verilenler, söz konusu tutanakları güvenli elektronik imza ile imzalar.\n (4) (Değişik:RG-28/6/2022-31880)(2) İncelemenin dairede yapıldığı durumlarda, nezdinde inceleme yapılanın işyeri adresi, işyeri adresinin bulunmaması halinde ikametgâh adresi ile vergi incelemesi yapmaya yetkili olanın çalışma yerinin aynı ilde bulunmaması halinde tutanaklar, nezdinde inceleme yapılanın işyeri adresi, işyeri adresinin bulunmaması halinde ikametgâh adresinin bulunduğu ildeki dairede imza edilir. Nezdinde inceleme yapılanın talep etmesi halinde tutanaklar vergi incelemesi yapmaya yetkili olanın sürekli çalışma yerindeki dairede de imzalanabilir. Düzenlenen tutanakların birer nüshasının tutanakları imza edenlere verilmesi zorunludur. (Ek cümle:RG-13/5/2025-32899) Bu fıkranın uygulanmasında üçüncü fıkra hükmü saklıdır.\n (5) (Ek:RG-6/11/2015-29524)(1) Tutanakta yer alan hususların vergi kanunları karşısında yapılması muhtemel işlemler bakımından ispatlama vasıtası olduğu ve yapılması muhtemel işlemlerin neler olduğu mükellefe izah edilir.\n (6) Vergi incelemesi yapmaya yetkili olanlar, ilgilileri tutanakları imzalamaları için zorlayamazlar. İlgililer tutanakları imzalamaktan çekindikleri takdirde tutanakta bahis konusu edilen olaylar ve hesap durumlarını ihtiva eden defter ve belgeler, nezdinde inceleme yapılandan rızasına bakılmaksızın alınır ve inceleme neticesinde tarh edilen vergiler ve kesilen cezalar kesinleşinceye kadar geri verilmez. İlgililer her zaman bu tutanakları imzalayarak defter ve belgeleri geri alabilirler.\n (7) Suç delili olan defter ve belgeler mükellefin rızasına bakılmaksızın alıkonulur.\n (8) Alıkonulan defter ve belgeler yazı ile mükellefin bağlı bulunduğu vergi dairesine gönderilerek muhafazası sağlanır. Vergi dairesi, kendisine gönderilen defter ve belgelerin muhafazası için gerekli tedbirleri alır.",
+      "preview": "(1) Vergi incelemesi yapmaya yetkili olanlar, inceleme esnasında gerekli görülen hallerde, vergilendirme ile ilgili olayları ve hesap duruml…",
+      "kitap": null,
+      "kisim": null,
+      "bolum": "ÜÇÜNCÜ BÖLÜM · Vergi İncelemesine Yetkili Olanlar Tarafından Uyulması Gereken Usuller",
+      "ayirim": null,
+      "maddeBaslik": "İnceleme tutanakları",
+      "sectionPath": [
+        "ÜÇÜNCÜ BÖLÜM · Vergi İncelemesine Yetkili Olanlar Tarafından Uyulması Gereken Usuller",
+        "İnceleme tutanakları"
+      ]
+    },
+    {
+      "id": "yonetmelik:15452:m:17",
+      "maddeKind": "madde",
+      "maddeNo": "17",
+      "heading": "Madde 17",
+      "text": "(1) Vergi incelemesi ile ilgili düzenlenecek tutanaklarda;\n a) (Değişik:RG-13/5/2025-32899) Tutanağın düzenlenme yeri ve tarihi (Bakanlık tarafından oluşturulan sistem aracılığıyla elektronik ortamda düzenlenen tutanaklarda, tutanağın düzenlenme yeri elektronik ortam olarak kabul edilir.),\n b) İlgililerin adı, soyadı ve unvanları, vergi kimlik numaraları ile imzaları,\n c) Vergilendirme ile ilgili olaylar ve/veya hesap durumları,\n ç) Varsa, ilgililerin itiraz ve mülahazaları ile ibraz ettikleri özelgeleri,\n d) Tutanakta belirtilen hususların ilgililer tarafından okunduğunu ve doğruluğunun anlaşıldığını belirten ifade,\n e) Nezdinde inceleme yapılan mükellefe, tutanakta yer alan hususların vergi kanunları karşısında yapılması muhtemel işlemler bakımından ispatlama vasıtası olduğunun (Ek ibare:RG-6/11/2015-29524) ve yapılması muhtemel işlemlerin neler olduğunun, tutanağın düzenlenmesinden önce bildirildiği hususu,\n f) (Ek:RG-25/10/2016-29868) Tutanağın taslak halinin 16 ncı maddenin ikinci fıkrası uyarınca mükellefin bilgisine sunulduğu hususu,\n g) (Ek:RG-25/10/2016-29868) Mükelleflerin Rapor Değerlendirme Komisyonlarında dinlenme talebinin olup olmadığına ilişkin ifade,\n yer alır.",
+      "preview": "(1) Vergi incelemesi ile ilgili düzenlenecek tutanaklarda; a) (Değişik:RG-13/5/2025-32899) Tutanağın düzenlenme yeri ve tarihi (Bakanlık tar…",
+      "kitap": null,
+      "kisim": null,
+      "bolum": "ÜÇÜNCÜ BÖLÜM · Vergi İncelemesine Yetkili Olanlar Tarafından Uyulması Gereken Usuller",
+      "ayirim": null,
+      "maddeBaslik": "İnceleme tutanaklarında yer alacak unsurlar",
+      "sectionPath": [
+        "ÜÇÜNCÜ BÖLÜM · Vergi İncelemesine Yetkili Olanlar Tarafından Uyulması Gereken Usuller",
+        "İnceleme tutanaklarında yer alacak unsurlar"
+      ]
+    },
+    {
+      "id": "yonetmelik:15452:m:18",
+      "maddeKind": "madde",
+      "maddeNo": "18",
+      "heading": "Madde 18",
+      "text": "(1) Vergi incelemesi yapmaya yetkili olanlar, vergi kanunlarıyla ilgili (Değişik ibare:RG-7/4/2021-31447) Cumhurbaşkanı Kararı, yönetmelik, genel tebliğ ve sirkülere aykırı vergi inceleme raporu düzenleyemezler.\n (2) (Ek:RG-6/11/2015-29524)(1) Mükelleflerin, inceleme sırasında vergi kanunlarına göre eleştiri konusu yapılacak hususlarla ilgili olarak inceleme elemanına özelge ibraz etmesi durumunda, özelge inceleme tutanağına dâhil edilir. Özelgenin mükellefin durumunu açıklayıp açıklamadığı hususu, inceleme elemanı tarafından düzenlenen raporda değerlendirilir.\n (3) Vergi incelemesi yapmaya yetkili olanlar, inceleme sırasında, vergi kanunlarıyla ilgili (Değişik ibare:RG-7/4/2021-31447) Cumhurbaşkanı Kararı, yönetmelik, genel tebliğ ve sirkülerin vergi kanunlarına aykırı olduğu kanaatine varırlarsa, bu hususu bağlı oldukları birim aracılığıyla Gelir İdaresi Başkanlığına bir rapor ile bildirirler.\n (4) Gelir İdaresi Başkanlığı, en geç yirmi iş günü içerisinde görüşünü ilgili birime yazılı olarak bildirir.",
+      "preview": "(1) Vergi incelemesi yapmaya yetkili olanlar, vergi kanunlarıyla ilgili (Değişik ibare:RG-7/4/2021-31447) Cumhurbaşkanı Kararı, yönetmelik,…",
+      "kitap": null,
+      "kisim": null,
+      "bolum": "ÜÇÜNCÜ BÖLÜM · Vergi İncelemesine Yetkili Olanlar Tarafından Uyulması Gereken Usuller",
+      "ayirim": null,
+      "maddeBaslik": "Raporların mevzuata uygun olması",
+      "sectionPath": [
+        "ÜÇÜNCÜ BÖLÜM · Vergi İncelemesine Yetkili Olanlar Tarafından Uyulması Gereken Usuller",
+        "Raporların mevzuata uygun olması"
+      ]
+    },
+    {
+      "id": "yonetmelik:15452:m:19",
+      "maddeKind": "madde",
+      "maddeNo": "19",
+      "heading": "Madde 19",
+      "text": "(Değişik:RG-25/10/2016-29868)\n (1) Vergi inceleme raporları, vergi türü ve dönemi itibarıyla ayrı ayrı düzenlenir. Vergilendirme dönemi bir yıldan daha kısa olan vergilere ilişkin vergi inceleme raporları, her bir döneme ilişkin matrah ve/veya vergi farkları ayrı ayrı gösterilmek suretiyle hesap dönemine göre kazançları tespit edilenler için takvim yılı aşılmamak koşuluyla, özel hesap dönemine tâbi mükelleflerde ise özel hesap dönemine tekabül edecek şekilde tek bir rapor olarak düzenlenebilir.\n (2) Vergi incelemesi yapmaya yetkili olanlarca kendilerine verilmiş vergi inceleme görevleri ile ilgili olarak tespit edilen ve birden fazla vergi türünde eleştiri gerektiren hususlara ilişkin raporlar ayrı ayrı düzenlenir.\n (3) Vergi incelemesi yapmaya yetkili olanlarca, vergi inceleme görevleri ile ilgili olarak tespit edilen ve eleştiri gerektiren bir hususun diğer vergisel işlemlerin düzeltilmesini de gerektirdiği durumlarda bu işlemlere ilişkin düzeltme önerilerine vergi inceleme raporlarında yer verilir. Ancak farklı mükellef nezdinde vergisel işlemlerin düzeltilmesine yönelik vergi inceleme raporu düzenlenmesi gerekiyorsa, söz konusu durum inceleme görevini verenlere bildirilir.\n (4) Tarhiyat ve/veya ceza önerisi içeren vergi inceleme raporları; giriş, usul incelemeleri, hesap incelemeleri, eleştirilen hususlar ile sonuç bölümlerinden oluşur. Mükellefin inceleme esnasında ileri sürdüğü ve tutanakta yer alan itiraz ve mülahazaları ile bunlara ilişkin ayrıntılı değerlendirmelere raporun eleştirilen hususlar bölümünde yer verilir. Mükellef hakkında önerilen vergi ve ceza tutarları, herhangi bir tereddüde yer vermeyecek açıklıkta ve anlaşılır bir şekilde vergi inceleme raporlarının sonuç bölümünde gösterilir.\n (5) Yapılan vergi incelemesi sonucunda, inceleme konusu ve dönemine ilişkin eleştiriyi gerektirecek herhangi bir hususun tespit edilememesi halinde bu durum ilgili birim tarafından mükellefe yazı ile bildirilir.\n (6) Vergi müfettişleri, vergi inceleme raporları ile bu raporlara ilişkin içeriği Başkanlıkça belirlenmiş olan rapor özetlerini, Başkanlığın bilgi işlem sistemi ile uyumlu olacak şekilde düzenler ve bunların birer örneğini elektronik ortamda Başkanlığa gönderirler.",
+      "preview": "(Değişik:RG-25/10/2016-29868) (1) Vergi inceleme raporları, vergi türü ve dönemi itibarıyla ayrı ayrı düzenlenir. Vergilendirme dönemi bir y…",
+      "kitap": null,
+      "kisim": null,
+      "bolum": "ÜÇÜNCÜ BÖLÜM · Vergi İncelemesine Yetkili Olanlar Tarafından Uyulması Gereken Usuller",
+      "ayirim": null,
+      "maddeBaslik": "Vergi inceleme raporlarının düzenlenmesi",
+      "sectionPath": [
+        "ÜÇÜNCÜ BÖLÜM · Vergi İncelemesine Yetkili Olanlar Tarafından Uyulması Gereken Usuller",
+        "Vergi inceleme raporlarının düzenlenmesi"
+      ]
+    },
+    {
+      "id": "yonetmelik:15452:m:20",
+      "maddeKind": "madde",
+      "maddeNo": "20",
+      "heading": "Madde 20",
+      "text": "(1) Vergi Müfettişleri tarafından düzenlenen vergi inceleme raporları, ilgili rapor değerlendirme komisyonuna, bağlı olunan (Değişik ibare:RG-7/4/2021-31447) daire veya ekip başkanlığı aracılığıyla; Merkezi Rapor Değerlendirme Komisyonuna gönderilmesi gereken vergi inceleme raporları ise söz konusu Komisyona iletilmek üzere ilgili (Değişik ibare:RG-7/4/2021-31447) Daire Başkanlığı tarafından Başkanlığa gönderilir. Raporların elektronik ortamda gönderilmesi halinde durum rapor değerlendirme komisyonu tarafından bir tutanakla tespit olunur.\n (2) Vergi incelemesi yapmaya yetkili kılınan diğer memurlar tarafından düzenlenen vergi inceleme raporları, Gelir İdaresi Başkanlığı merkez ve taşra birimlerinde oluşturulacak rapor değerlendirme komisyonlarına gönderilir.",
+      "preview": "(1) Vergi Müfettişleri tarafından düzenlenen vergi inceleme raporları, ilgili rapor değerlendirme komisyonuna, bağlı olunan (Değişik ibare:R…",
+      "kitap": null,
+      "kisim": null,
+      "bolum": "ÜÇÜNCÜ BÖLÜM · Vergi İncelemesine Yetkili Olanlar Tarafından Uyulması Gereken Usuller",
+      "ayirim": null,
+      "maddeBaslik": "Vergi inceleme raporlarının ilgili komisyona gönderilmesi",
+      "sectionPath": [
+        "ÜÇÜNCÜ BÖLÜM · Vergi İncelemesine Yetkili Olanlar Tarafından Uyulması Gereken Usuller",
+        "Vergi inceleme raporlarının ilgili komisyona gönderilmesi"
+      ]
+    },
+    {
+      "id": "yonetmelik:15452:m:21",
+      "maddeKind": "madde",
+      "maddeNo": "21",
+      "heading": "Madde 21",
+      "text": "(1) Vergi inceleme raporlarının, rapor değerlendirme komisyonlarına intikal ettirilmek üzere ilgili inceleme ve denetim birimine teslim edildiği tarih, incelemenin tamamlandığı tarih olarak kabul edilir.\n (2) Ancak, incelemenin tamamlanmış olması, ilgili rapor değerlendirme komisyonu kararına göre raporun düzeltilmesine mani değildir.",
+      "preview": "(1) Vergi inceleme raporlarının, rapor değerlendirme komisyonlarına intikal ettirilmek üzere ilgili inceleme ve denetim birimine teslim edil…",
+      "kitap": null,
+      "kisim": null,
+      "bolum": "DÖRDÜNCÜ BÖLÜM · Vergi İncelemesinde Süre",
+      "ayirim": null,
+      "maddeBaslik": "İncelemenin tamamlanması",
+      "sectionPath": [
+        "DÖRDÜNCÜ BÖLÜM · Vergi İncelemesinde Süre",
+        "İncelemenin tamamlanması"
+      ]
+    },
+    {
+      "id": "yonetmelik:15452:m:22",
+      "maddeKind": "madde",
+      "maddeNo": "22",
+      "heading": "Madde 22",
+      "text": "(1) Mükellefin defter ve belgeleri, ilgili rapor değerlendirme komisyonunun rapora ilişkin nihai değerlendirmesinin incelemeyi yapana iletildiği tarihten itibaren en geç on beş gün içerisinde bir tutanak ile iade edilir. (Ek cümle:RG-28/6/2022-31880)(2) Şu kadar ki, Bakanlık tarafından oluşturulan sistem üzerinden ibraz edilen elektronik defter ve belgeler, ilgili rapor değerlendirme komisyonunun rapora ilişkin nihai değerlendirmesini müteakip en geç otuz gün içerisinde sistemden silinir.\n (2) (Değişik:RG-13/5/2025-32899) 16 ncı maddenin altı, yedi ve sekizinci fıkrası hükümleri saklıdır.",
+      "preview": "(1) Mükellefin defter ve belgeleri, ilgili rapor değerlendirme komisyonunun rapora ilişkin nihai değerlendirmesinin incelemeyi yapana iletil…",
+      "kitap": null,
+      "kisim": null,
+      "bolum": "DÖRDÜNCÜ BÖLÜM · Vergi İncelemesinde Süre",
+      "ayirim": null,
+      "maddeBaslik": "Defter ve belgelerin iadesi",
+      "sectionPath": [
+        "DÖRDÜNCÜ BÖLÜM · Vergi İncelemesinde Süre",
+        "Defter ve belgelerin iadesi"
+      ]
+    },
+    {
+      "id": "yonetmelik:15452:m:23",
+      "maddeKind": "madde",
+      "maddeNo": "23",
+      "heading": "Madde 23",
+      "text": "(1) İncelemeler mümkün olan en kısa sürede tamamlanır. İncelemeye başlanıldığı tarihten itibaren, tam inceleme yapılması halinde en fazla bir yıl, sınırlı inceleme yapılması halinde (Mülga ibare:RG-7/4/2021-31447) en fazla altı ay (Ek ibare:RG-7/4/2021-31447) , katma değer vergisi iade incelemelerinde ise en fazla üç ay içinde incelemenin bitirilmesi esastır.\n (2) Birinci fıkrada belirtilen süreler içerisinde incelemenin bitirilemeyeceğinin anlaşılması halinde, vergi incelemesi yapmaya yetkili olanlar, gerekçeli bir yazı ile bağlı oldukları birimden, inceleme süresinin bitiminden en geç on gün önce, ek süre talep edebilirler.\n (3) Ek süre talebi ilgili birim tarafından değerlendirildikten sonra (Değişik ibare:RG-7/4/2021-31447) tam ve sınırlı incelemelerde altı ayı, katma değer vergisi iade incelemelerinde ise iki ayı geçmemek üzere ek süre verilebilir. Bu durumda, incelemenin bitirilememe nedeni ilgili birim tarafından nezdinde inceleme yapılana yazılı olarak bildirilir.\n (4) İlgili birimler, incelemenin zamanında bitirilmesini sağlayacak gerekli tedbirleri almakla yükümlüdür.\n (5) İnceleme görevinin başka bir inceleme elemanına devredilmesi gerektiği hallerde, inceleme kalan süre içinde tamamlanır.\n (6) Sınırlı incelemenin, sonradan ortaya çıkan durumlar nedeniyle tam incelemeye dönüşmesi halinde, inceleme süresi sınırlı incelemeye başlanılan tarih itibarıyla hesaplanır.\n (7) Ek süre dahil olmak üzere, süresinde herhangi bir vergi inceleme raporu düzenlenmemesi halinde durum, vergi incelemesi yapmaya yetkili olanlar tarafından gerekçeleri ile birlikte yazılı olarak bağlı oldukları birime bildirilir. İlgili inceleme ve denetim birimi, incelemeyi bitiremeyen inceleme elemanı hakkında disiplin hükümlerini uygulayabilir.\n (8) İnceleme, neticesi alınmamış hesap dönemi de dahil olmak üzere, tarh zamanaşımı süresi sonuna kadar her zaman yapılabilir. Evvelce inceleme yapılmış veya matrahın re’sen takdir edilmiş olması yeniden inceleme yapılmasına ve gerekirse tarhiyatın ikmaline mani değildir.\n (9) 13/6/2006 tarihli ve 5520 sayılı Kurumlar Vergisi Kanununun 17 nci maddesi ile 15/3/2007 tarihli ve 5604 sayılı Malî Tatil İhdas Edilmesi Hakkında Kanun hükümleri saklıdır.\n Uluslararası bilgi değişimi amacıyla yapılacak incelemeler\n MADDE 23/A – (Ek:RG-6/11/2015-29524)\n (1) Uluslararası anlaşmalarda yer alan bilgi değişimine ilişkin hükümler çerçevesinde bilginin sağlanmasına yönelik gerçekleştirilecek araştırmalar öncelikli olarak ele alınır ve en kısa zamanda tamamlanır. Bu süre, bilgi talebinin Başkanlığa ulaştırıldığı tarihten itibaren iki ayı geçemez.",
+      "preview": "(1) İncelemeler mümkün olan en kısa sürede tamamlanır. İncelemeye başlanıldığı tarihten itibaren, tam inceleme yapılması halinde en fazla bi…",
+      "kitap": null,
+      "kisim": null,
+      "bolum": "DÖRDÜNCÜ BÖLÜM · Vergi İncelemesinde Süre",
+      "ayirim": null,
+      "maddeBaslik": "İnceleme süresi",
+      "sectionPath": [
+        "DÖRDÜNCÜ BÖLÜM · Vergi İncelemesinde Süre",
+        "İnceleme süresi"
+      ]
+    },
+    {
+      "id": "yonetmelik:15452:m:24",
+      "maddeKind": "madde",
+      "maddeNo": "24",
+      "heading": "Madde 24",
+      "text": "(Mülga:RG-7/4/2021-31447)",
+      "preview": "(Mülga:RG-7/4/2021-31447)",
+      "kitap": null,
+      "kisim": null,
+      "bolum": "BEŞİNCİ BÖLÜM · Birinci Sınıf Tüccarların Gruplara Ayrılması ve İncelemelerin Yürütülmesi",
+      "ayirim": null,
+      "maddeBaslik": "Birinci sınıf tüccarların gruplara ayrılması",
+      "sectionPath": [
+        "BEŞİNCİ BÖLÜM · Birinci Sınıf Tüccarların Gruplara Ayrılması ve İncelemelerin Yürütülmesi",
+        "Birinci sınıf tüccarların gruplara ayrılması"
+      ]
+    },
+    {
+      "id": "yonetmelik:15452:m:25",
+      "maddeKind": "madde",
+      "maddeNo": "25",
+      "heading": "Madde 25",
+      "text": "(Mülga:RG-7/4/2021-31447)",
+      "preview": "(Mülga:RG-7/4/2021-31447)",
+      "kitap": null,
+      "kisim": null,
+      "bolum": "BEŞİNCİ BÖLÜM · Birinci Sınıf Tüccarların Gruplara Ayrılması ve İncelemelerin Yürütülmesi",
+      "ayirim": null,
+      "maddeBaslik": "Vergi incelemelerinin yürütülmesi",
+      "sectionPath": [
+        "BEŞİNCİ BÖLÜM · Birinci Sınıf Tüccarların Gruplara Ayrılması ve İncelemelerin Yürütülmesi",
+        "Vergi incelemelerinin yürütülmesi"
+      ]
+    },
+    {
+      "id": "yonetmelik:15452:m:26",
+      "maddeKind": "madde",
+      "maddeNo": "26",
+      "heading": "Madde 26",
+      "text": "(Değişik:RG-25/10/2016-29868)\n (1) Bu Yönetmelikte yer alan usul ve esaslara aykırılık teşkil etmemek kaydıyla yürütülecek vergi incelemelerinde uyulacak diğer usul ve esasları belirlemeye ve bildirimleri elektronik ortam ve bilgi iletişim araçları kullanarak yaptırmaya vergi incelemesi yapmaya yetkili olanların bağlı bulundukları inceleme ve denetim birimleri yetkilidir.",
+      "preview": "(Değişik:RG-25/10/2016-29868) (1) Bu Yönetmelikte yer alan usul ve esaslara aykırılık teşkil etmemek kaydıyla yürütülecek vergi incelemeleri…",
+      "kitap": null,
+      "kisim": null,
+      "bolum": "ALTINCI BÖLÜM · Çeşitli ve Son Hükümler",
+      "ayirim": null,
+      "maddeBaslik": "Yetki",
+      "sectionPath": [
+        "ALTINCI BÖLÜM · Çeşitli ve Son Hükümler",
+        "Yetki"
+      ]
+    },
+    {
+      "id": "yonetmelik:15452:m:27",
+      "maddeKind": "madde",
+      "maddeNo": "27",
+      "heading": "Madde 27",
+      "text": "(1) (Değişik ibare:RG-7/4/2021-31447) Hazine ve Maliye Bakanlığınca yapılmış olan diğer düzenlemelerin bu Yönetmelik hükümlerine aykırı hükümleri uygulanmaz.",
+      "preview": "(1) (Değişik ibare:RG-7/4/2021-31447) Hazine ve Maliye Bakanlığınca yapılmış olan diğer düzenlemelerin bu Yönetmelik hükümlerine aykırı hükü…",
+      "kitap": null,
+      "kisim": null,
+      "bolum": "ALTINCI BÖLÜM · Çeşitli ve Son Hükümler",
+      "ayirim": null,
+      "maddeBaslik": "Uygulanmayacak hükümler",
+      "sectionPath": [
+        "ALTINCI BÖLÜM · Çeşitli ve Son Hükümler",
+        "Uygulanmayacak hükümler"
+      ]
+    },
+    {
+      "id": "yonetmelik:15452:m:28",
+      "maddeKind": "madde",
+      "maddeNo": "28",
+      "heading": "Madde 28",
+      "text": "(1) 31/12/2010 tarihli ve 27802 sayılı Resmî Gazete’de yayımlanan Vergi İncelemelerinde Uyulacak Usul ve Esaslar Hakkında Yönetmelik, Vergi İnceleme ve Denetim Planının Hazırlanması, Uygulanması ve Sonuçlarının İzlenmesine İlişkin Usul ve Esaslar Hakkında Yönetmelik ile Vergi İnceleme ve Denetim Koordinasyon Kurulunun Çalışma Usul ve Esasları Hakkında Yönetmelik yürürlükten kaldırılmıştır.",
+      "preview": "(1) 31/12/2010 tarihli ve 27802 sayılı Resmî Gazete’de yayımlanan Vergi İncelemelerinde Uyulacak Usul ve Esaslar Hakkında Yönetmelik, Vergi…",
+      "kitap": null,
+      "kisim": null,
+      "bolum": "ALTINCI BÖLÜM · Çeşitli ve Son Hükümler",
+      "ayirim": null,
+      "maddeBaslik": "Yürürlükten kaldırılan yönetmelikler",
+      "sectionPath": [
+        "ALTINCI BÖLÜM · Çeşitli ve Son Hükümler",
+        "Yürürlükten kaldırılan yönetmelikler"
+      ]
+    },
+    {
+      "id": "yonetmelik:15452:m:gecici:1",
+      "maddeKind": "gecici",
+      "maddeNo": "1",
+      "heading": "Geçici Madde 1",
+      "text": "(Mülga:RG-7/4/2021-31447)",
+      "preview": "(Mülga:RG-7/4/2021-31447)",
+      "kitap": null,
+      "kisim": null,
+      "bolum": "ALTINCI BÖLÜM · Çeşitli ve Son Hükümler",
+      "ayirim": null,
+      "maddeBaslik": "Birinci sınıf tüccarların ilk defa gruplara ayrılması",
+      "sectionPath": [
+        "ALTINCI BÖLÜM · Çeşitli ve Son Hükümler",
+        "Birinci sınıf tüccarların ilk defa gruplara ayrılması"
+      ]
+    },
+    {
+      "id": "yonetmelik:15452:m:29",
+      "maddeKind": "madde",
+      "maddeNo": "29",
+      "heading": "Madde 29",
+      "text": "(1) Bu Yönetmelik yayımı tarihinde yürürlüğe girer.",
+      "preview": "(1) Bu Yönetmelik yayımı tarihinde yürürlüğe girer.",
+      "kitap": null,
+      "kisim": null,
+      "bolum": "ALTINCI BÖLÜM · Çeşitli ve Son Hükümler",
+      "ayirim": null,
+      "maddeBaslik": "Yürürlük",
+      "sectionPath": [
+        "ALTINCI BÖLÜM · Çeşitli ve Son Hükümler",
+        "Yürürlük"
+      ]
+    },
+    {
+      "id": "yonetmelik:15452:m:30",
+      "maddeKind": "madde",
+      "maddeNo": "30",
+      "heading": "Madde 30",
+      "text": "(1) Bu Yönetmelik hükümlerini (Değişik ibare:RG-7/4/2021-31447) Hazine ve Maliye Bakanı yürütür.\n\n ____________\n (1) 6/11/2015 tarihli ve 29524 sayılı Resmi Gazete’de yayımlanan Yönetmelik değişikliği ile 16 ncı maddenin üçüncü fıkrasından sonra gelmek üzere dördüncü fıkra eklenmiş, 18 inci maddesine de birinci fıkradan sonra gelmek üzere ikinci fıkra eklenmiş ve müteakip fıkralar buna göre teselsül ettirilmiştir.\n (2) Bu değişiklik 1/7/2022 tarihinde yürürlüğe girer.\n (3) 28/6/2022 tarihli ve 31880 sayılı Resmi Gazete’de yayımlanan değişiklikle bu maddeye dördüncü fıkradan sonra gelmek üzere fıkralar eklenmiş ve diğer fıkra buna göre teselsül ettirilmiştir.\n (4) 13/5/2025 tarihli ve 32899 sayılı Resmî Gazete’de yayımlanan değişiklik ile Yönetmeliğin 16 ncı maddesine ikinci fıkrasından sonra gelmek üzere fıkra eklenmiş ve diğer fıkralar buna göre teselsül ettirilmiştir.\n\n Yönetmeliğin Yayımlandığı Resmî Gazete’nin\n\n Tarihi\n Sayısı\n\n 31/10/2011\n 28101\n\n Yönetmelikte Değişiklik Yapan Yönetmeliklerin Yayımlandığı Resmî Gazetelerin\n\n Tarihi\n Sayısı\n\n 1\n 8/8/2012\n 28378\n\n 2\n 6/11/2015\n 29524\n\n 3\n 25/10/2016\n 29868\n\n 4\n 7/4/2021\n 31447\n\n 5\n 28/6/2022\n 31880\n\n 6\n 13/5/2025\n 32899",
+      "preview": "(1) Bu Yönetmelik hükümlerini (Değişik ibare:RG-7/4/2021-31447) Hazine ve Maliye Bakanı yürütür. ____________ (1) 6/11/2015 tarihli ve 29524…",
+      "kitap": null,
+      "kisim": null,
+      "bolum": "ALTINCI BÖLÜM · Çeşitli ve Son Hükümler",
+      "ayirim": null,
+      "maddeBaslik": "Yürütme",
+      "sectionPath": [
+        "ALTINCI BÖLÜM · Çeşitli ve Son Hükümler",
+        "Yürütme"
+      ]
+    }
+  ]
+}

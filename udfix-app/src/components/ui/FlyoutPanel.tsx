@@ -27,7 +27,7 @@ const FlyoutPanel: React.FC<FlyoutPanelProps> = ({
             data-flyout-panel
             className={cn(
                 "absolute top-4 right-0 flex flex-col glass-panel",
-                "border-l border-white/10 shadow-2xl z-[var(--z-floating)] rounded-l-2xl overflow-hidden",
+                "border-l border-border shadow-2xl z-[var(--z-floating)] rounded-l-2xl overflow-hidden",
                 "animate-in fade-in-0 zoom-in-95 slide-in-from-right-2 duration-150 ease-out",
                 "max-h-[calc(100vh-2rem)]",
                 width,
@@ -36,7 +36,7 @@ const FlyoutPanel: React.FC<FlyoutPanelProps> = ({
         >
             {/* Header */}
             {title && (
-                <div className="h-10 flex items-center justify-between px-3 border-b border-white/5 shrink-0 bg-white/5 backdrop-blur-md gap-1.5">
+                <div className="h-10 flex items-center justify-between px-3 border-b border-border shrink-0 bg-background/40 backdrop-blur-md gap-1.5">
                     <span className="font-semibold text-xs tracking-wide text-foreground/90 truncate pl-1">{title}</span>
                     <Button
                         variant="ghost"

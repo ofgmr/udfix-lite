@@ -33,8 +33,6 @@ const DEFAULT_FORM_DATA: Partial<KnowledgeItem> = {
     source_url: '',
 };
 
-const LARGE_BODY_CHARS = 12_000;
-
 type WritableKnowledgeType = 'PRECEDENT' | 'BOOK' | 'ARTICLE';
 
 function isWritableKnowledgeType(value: unknown): value is WritableKnowledgeType {
@@ -92,7 +90,6 @@ export const KnowledgeFormContent: React.FC<KnowledgeFormContentProps> = ({
     const [attributeRows, setAttributeRows] = useState<EntityAttributeUpsertRow[]>([]);
     const [loading, setLoading] = useState(false);
     const contentRef = useRef<HTMLTextAreaElement>(null);
-    const bodyIsLarge = (formData.content?.length ?? 0) > LARGE_BODY_CHARS;
 
     useEffect(() => {
         if (!panelApi?.group?.api) return;
@@ -172,9 +169,7 @@ export const KnowledgeFormContent: React.FC<KnowledgeFormContentProps> = ({
             const metadata = mergedMetadata(formData.metadata, attributeRows) ?? undefined;
             const payload: Partial<KnowledgeItem> & { id: string } = {
                 ...formData,
-                content: bodyIsLarge
-                    ? (contentRef.current?.value ?? formData.content)
-                    : formData.content,
+                content: contentRef.current?.value ?? formData.content,
                 id,
                 metadata,
                 created_at: formData.created_at || now,
@@ -251,7 +246,7 @@ export const KnowledgeFormContent: React.FC<KnowledgeFormContentProps> = ({
                             placeholder="Belge veya karar başlığı..."
                             className="h-7 text-xs glass-input min-w-[230px]"
                             value={formData.title}
-                            onChange={(e) => setFormData({ ...formData, title: e.target.value })}
+                            onChange={(e) => setFormData((prev) => ({ ...prev, title: e.target.value }))}
                             autoFocus={!isExisting}
                         />
                     ) : (
@@ -355,7 +350,10 @@ export const KnowledgeFormContent: React.FC<KnowledgeFormContentProps> = ({
                                     <Select
                                         value={formData.type}
                                         onValueChange={(v) =>
-                                            setFormData({ ...formData, type: coerceWritableKnowledgeType(v) })
+                                            setFormData((prev) => ({
+                                                ...prev,
+                                                type: coerceWritableKnowledgeType(v),
+                                            }))
                                         }
                                     >
                                         <SelectTrigger className="h-7 text-xs glass-input py-0">
@@ -374,7 +372,7 @@ export const KnowledgeFormContent: React.FC<KnowledgeFormContentProps> = ({
                                         placeholder="Örn: Yargıtay 9. HD"
                                         className="h-7 text-xs glass-input"
                                         value={formData.author}
-                                        onChange={(e) => setFormData({ ...formData, author: e.target.value })}
+                                        onChange={(e) => setFormData((prev) => ({ ...prev, author: e.target.value }))}
                                     />
                                 </div>
                             </div>
@@ -388,22 +386,13 @@ export const KnowledgeFormContent: React.FC<KnowledgeFormContentProps> = ({
 
                             <div className="space-y-1.5">
                                 <Label className="text-[9px] text-muted-foreground uppercase tracking-widest opacity-80">İçerik (Özet veya Tam Metin)</Label>
-                                {bodyIsLarge ? (
-                                    <Textarea
-                                        key={item?.id ?? 'new'}
-                                        ref={contentRef}
-                                        defaultValue={formData.content}
-                                        placeholder="Açıklamalar aramada bulunabilir, içerik ekleyin..."
-                                        className="glass-input min-h-[120px] max-h-[min(28rem,50vh)] resize-y text-xs select-text"
-                                    />
-                                ) : (
-                                    <Textarea
-                                        placeholder="Açıklamalar aramada bulunabilir, içerik ekleyin..."
-                                        className="glass-input min-h-[120px] resize-y text-xs select-text"
-                                        value={formData.content}
-                                        onChange={(e) => setFormData({ ...formData, content: e.target.value })}
-                                    />
-                                )}
+                                <Textarea
+                                    key={`${item?.id ?? 'new'}-${isEditing ? 'edit' : 'view'}`}
+                                    ref={contentRef}
+                                    defaultValue={formData.content}
+                                    placeholder="Açıklamalar aramada bulunabilir, içerik ekleyin..."
+                                    className="glass-input min-h-[120px] max-h-[min(28rem,50vh)] resize-y text-xs select-text"
+                                />
                             </div>
 
                             <div className="grid grid-cols-2 gap-3">
@@ -413,7 +402,7 @@ export const KnowledgeFormContent: React.FC<KnowledgeFormContentProps> = ({
                                         placeholder="tazminat, iş hukuku..."
                                         className="h-7 text-xs glass-input"
                                         value={formData.tags}
-                                        onChange={(e) => setFormData({ ...formData, tags: e.target.value })}
+                                        onChange={(e) => setFormData((prev) => ({ ...prev, tags: e.target.value }))}
                                     />
                                 </div>
                                 <div className="space-y-1">
@@ -422,7 +411,7 @@ export const KnowledgeFormContent: React.FC<KnowledgeFormContentProps> = ({
                                         placeholder="https://..."
                                         className="h-7 text-xs glass-input"
                                         value={formData.source_url}
-                                        onChange={(e) => setFormData({ ...formData, source_url: e.target.value })}
+                                        onChange={(e) => setFormData((prev) => ({ ...prev, source_url: e.target.value }))}
                                     />
                                 </div>
                             </div>

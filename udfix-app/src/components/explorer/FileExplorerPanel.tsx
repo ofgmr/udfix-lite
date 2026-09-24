@@ -1,5 +1,5 @@
 import React from 'react';
-import { Tree, type NodeRendererProps } from 'react-arborist';
+import { Tree, type NodeRendererProps, type TreeApi } from 'react-arborist';
 import MaterialIcon from '../ui/MaterialIcon';
 import { FileSystemService, type FsEntry } from '../../services/fileSystemService';
 import { useShallow } from 'zustand/react/shallow';
@@ -43,7 +43,8 @@ type ExplorerNode = {
     isDirectory: boolean;
     mtimeMs: number;
     udfSignature?: UdfSignatureMetadata | null;
-    children?: ExplorerNode[] | null;
+    children?: ExplorerNode[];
+    childrenLoaded?: boolean;
 };
 
 const STORAGE_KEY = 'nomai-workspace-root';
@@ -119,15 +120,25 @@ const toNodes = (entries: FsEntry[], mode: 'name' | 'modified'): ExplorerNode[] 
         isDirectory: e.isDirectory,
         mtimeMs: e.mtimeMs,
         udfSignature: readKnownUdfSignature(e),
-        children: e.isDirectory ? null : undefined,
+        children: e.isDirectory ? [] : undefined,
+        childrenLoaded: e.isDirectory ? false : undefined,
     }));
 
 const replaceChildren = (nodes: ExplorerNode[], path: string, children: ExplorerNode[]): ExplorerNode[] =>
     nodes.map((n) => {
-        if (n.path === path) return { ...n, children };
-        if (!n.children || n.children.length === 0) return n;
+        if (n.path === path) return { ...n, children, childrenLoaded: true };
+        if (!n.children?.length) return n;
         return { ...n, children: replaceChildren(n.children, path, children) };
     });
+
+const collectLoadedDirectoryPaths = (nodes: ExplorerNode[], acc: string[] = []): string[] => {
+    for (const n of nodes) {
+        if (!n.isDirectory || !n.childrenLoaded) continue;
+        acc.push(n.path);
+        if (n.children?.length) collectLoadedDirectoryPaths(n.children, acc);
+    }
+    return acc;
+};
 
 const findByPath = (nodes: ExplorerNode[], path: string): ExplorerNode | null => {
     for (const n of nodes) {
@@ -288,6 +299,8 @@ export const FileExplorerPanel: React.FC = () => {
     const pendingRenameRef = React.useRef<{ path: string; timer: number } | null>(null);
     const renameInputRef = React.useRef<HTMLInputElement | null>(null);
     const watchTimerRef = React.useRef<ReturnType<typeof setTimeout> | null>(null);
+    const treeApiRef = React.useRef<TreeApi<ExplorerNode> | undefined>(undefined);
+    const treeDataRef = React.useRef<ExplorerNode[]>([]);
     const showDateColumn = measuredWidth >= DATE_COLUMN_MIN_WIDTH;
     const compactToolbar = measuredWidth < COMPACT_TOOLBAR_WIDTH;
 
@@ -342,8 +355,8 @@ export const FileExplorerPanel: React.FC = () => {
         setTreeData((prev) => replaceChildren(prev, dirPath, children));
     }, [sortMode]);
 
-    const bootstrap = React.useCallback(async (root: string) => {
-        setLoading(true);
+    const bootstrap = React.useCallback(async (root: string, opts?: { silent?: boolean }) => {
+        if (!opts?.silent) setLoading(true);
         const rootNode: ExplorerNode = {
             id: root,
             name: getBaseName(root),
@@ -351,21 +364,27 @@ export const FileExplorerPanel: React.FC = () => {
             isDirectory: true,
             mtimeMs: Date.now(),
             children: [],
+            childrenLoaded: false,
         };
-        setTreeData([rootNode]);
+        if (!opts?.silent) setTreeData([rootNode]);
         try {
             const entries = await FileSystemService.listDirectory(root);
-            setTreeData([{ ...rootNode, children: toNodes(entries, sortMode) }]);
+            setTreeData([{ ...rootNode, children: toNodes(entries, sortMode), childrenLoaded: true }]);
         } finally {
-            setLoading(false);
+            if (!opts?.silent) setLoading(false);
         }
     }, [sortMode]);
 
     const refreshAll = React.useCallback(async () => {
         if (!workspaceRoot) return;
-        await bootstrap(workspaceRoot);
+        const loadedDirs = collectLoadedDirectoryPaths(treeDataRef.current);
+        await bootstrap(workspaceRoot, { silent: true });
+        for (const dir of loadedDirs) {
+            if (dir === workspaceRoot) continue;
+            await loadDirChildren(dir);
+        }
         await refreshMeta();
-    }, [bootstrap, refreshMeta, workspaceRoot]);
+    }, [bootstrap, loadDirChildren, refreshMeta, workspaceRoot]);
 
     React.useEffect(() => {
         const el = containerRef.current;
@@ -565,6 +584,7 @@ export const FileExplorerPanel: React.FC = () => {
                 const fullPath = joinFsPath(base, name);
                 await FileSystemService.createDirectory(fullPath);
                 await loadDirChildren(base);
+                treeApiRef.current?.open(base);
                 setRenamePath(fullPath);
                 setRenameValue(name);
             } catch (err) {
@@ -649,6 +669,7 @@ export const FileExplorerPanel: React.FC = () => {
 
     const udfStats = React.useMemo(() => countLoadedUdfStats(treeData), [treeData]);
     const filtered = React.useMemo(() => filterTree(treeData, filterQuery, signedOnly), [treeData, filterQuery, signedOnly]);
+    treeDataRef.current = treeData;
 
     const Row = React.useCallback(
         ({ node, style, dragHandle }: NodeRendererProps<ExplorerNode>) => {
@@ -690,10 +711,9 @@ export const FileExplorerPanel: React.FC = () => {
                             return;
                         }
 
-                        // Klasörler tek tıkla açılır/kapanır (Finder/VS Code benzeri).
+                        // Klasörler tek tıkla açılır/kapanır; içerik arka planda yüklenir.
                         if (isDir && plainClick && e.detail < 2) {
                             clearPendingRename();
-                            if (node.data.children === null) await loadDirChildren(node.data.path);
                             node.toggle();
                             return;
                         }
@@ -915,7 +935,7 @@ export const FileExplorerPanel: React.FC = () => {
             );
         },
         // eslint-disable-next-line react-hooks/exhaustive-deps -- tree row renderer stable without toggleStar in deps
-        [clearPendingRename, loadDirChildren, openFile, renamePath, renameValue, renameCommit, scheduleDelayedRename, selectedPath, starred, refreshAll, createFolderInline, showDateColumn, startRename, showInFolder],
+        [clearPendingRename, openFile, renamePath, renameValue, renameCommit, scheduleDelayedRename, selectedPath, starred, refreshAll, createFolderInline, showDateColumn, startRename, showInFolder],
     );
 
     return (
@@ -1045,6 +1065,8 @@ export const FileExplorerPanel: React.FC = () => {
                     <div className="flex-1 flex items-center justify-center text-xs text-muted-foreground min-h-0">Yükleniyor...</div>
                 ) : (
                     <Tree<ExplorerNode>
+                        ref={treeApiRef}
+                        key={workspaceRoot}
                         data={filtered}
                         width={Math.max(1, measuredWidth)}
                         height={Math.max(120, containerHeight)}
@@ -1053,6 +1075,9 @@ export const FileExplorerPanel: React.FC = () => {
                         indent={20}
                         paddingTop={6}
                         paddingBottom={6}
+                        openByDefault={false}
+                        initialOpenState={{ [workspaceRoot]: true }}
+                        childrenAccessor={(d) => (d.isDirectory ? (d.children ?? []) : null)}
                         disableDrop={(args: { parentNode?: { data?: { isDirectory?: boolean } } }) => !args.parentNode?.data?.isDirectory}
                         onMove={async (args: { parentId?: string | null; dragIds: string[] }) => {
                             const parentId = String(args.parentId ?? workspaceRoot ?? '');
@@ -1076,11 +1101,10 @@ export const FileExplorerPanel: React.FC = () => {
                             }
                             setSelectedPath(nextPath);
                         }}
-                        onToggle={async (id) => {
+                        onToggle={(id) => {
                             clearPendingRename();
-                            const n = findByPath(treeData, String(id));
-                            if (!n?.isDirectory) return;
-                            if (n.children === null) await loadDirChildren(n.path);
+                            const n = findByPath(treeDataRef.current, String(id));
+                            if (n?.isDirectory && !n.childrenLoaded) void loadDirChildren(n.path);
                         }}
                     >
                         {Row}

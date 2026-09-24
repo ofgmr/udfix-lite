@@ -19,6 +19,48 @@ export type PdfBandBudgetSnapshot = {
     contentBoxHeightPx: number;
 };
 
+/**
+ * Editor/PDF content box: pageHeight − header band − footer band.
+ * Body (including table rows) must fit inside this height so the next page’s
+ * first lines cannot paint into the previous footer band during print
+ * fragmentation. Matches PaginationPlus `getHeight()._pageHeight` (floored).
+ */
+export function computePdfPageContentBoxHeightPx(
+    pageHeightPx: number,
+    headerBudgetPx: number,
+    footerBudgetPx: number,
+    floorPx = 80,
+): number {
+    const page = Math.max(1, Math.round(Number.isFinite(pageHeightPx) ? pageHeightPx : 1));
+    const header = Math.max(0, Math.round(Number.isFinite(headerBudgetPx) ? headerBudgetPx : 0));
+    const footer = Math.max(0, Math.round(Number.isFinite(footerBudgetPx) ? footerBudgetPx : 0));
+    const floor = Math.max(1, Math.round(Number.isFinite(floorPx) ? floorPx : 80));
+    const raw = page - header - footer;
+    return Math.max(floor, Number.isFinite(raw) ? raw : floor);
+}
+
+/**
+ * After `.rm-pagination-gap` is stripped, each float cycle is
+ * `content + footer + nextHeader ≈ pageHeight`. Ending the sheet after the
+ * footer alone leaves a hole ≈ next header band; float-wrapped body paints
+ * into it (926-test). Bare `break-after:page` on the footer also inflated
+ * page count (12→13) without closing that hole. Print inserts an opaque
+ * `.rm-print-page-end-fill` of this height between footer and next header,
+ * then breaks after the fill.
+ */
+export function computePdfPrintBreakerHoleFillPx(
+    headerBudgetPx: number,
+    liveHeaderHeightsPx: ReadonlyArray<number> = [],
+): number {
+    const budget = Math.max(1, Math.round(Number.isFinite(headerBudgetPx) ? headerBudgetPx : 1));
+    let fill = budget;
+    for (const live of liveHeaderHeightsPx) {
+        if (!Number.isFinite(live) || live <= 0) continue;
+        fill = Math.max(fill, Math.round(live));
+    }
+    return fill;
+}
+
 function toFiniteNonNegativePx(raw: string | null | undefined, fallback = 0): number {
     const v = Number.parseFloat(String(raw ?? '').trim());
     if (!Number.isFinite(v) || v < 0) return fallback;
@@ -39,8 +81,11 @@ export function readPdfBandBudgetSnapshotFromStyles(
     const pageHeightPx = Math.max(1, toFiniteNonNegativePx(style.getPropertyValue('--rm-page-height'), 1123));
     const headerBudgetPx = Math.max(1, marginTopPx + contentMarginTopPx);
     const footerBudgetPx = Math.max(1, marginBottomPx + contentMarginBottomPx);
-    const reservedVerticalPx = headerBudgetPx + footerBudgetPx;
-    const contentBoxHeightPx = Math.max(1, pageHeightPx - reservedVerticalPx);
+    const contentBoxHeightPx = computePdfPageContentBoxHeightPx(
+        pageHeightPx,
+        headerBudgetPx,
+        footerBudgetPx,
+    );
     return {
         marginTopPx,
         marginBottomPx,

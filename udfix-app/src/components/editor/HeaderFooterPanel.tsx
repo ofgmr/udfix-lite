@@ -38,6 +38,7 @@ import {
     editorMaxVerticalMarginTotalPx,
 } from '../../utils/editorLayout';
 import { normalizeHfColumnHtml } from '../../utils/normalizeHfColumnHtml';
+import { hfVariableSpansToTokens } from '../../utils/compileHfHtml';
 import { syncHfImageAlignFromParagraphInEditor } from '../../utils/hfImageAlignExport';
 import { parseHtmlFragment, sanitizeTrustedDocumentHtml } from '../../utils/sanitizeDocumentHtml';
 
@@ -50,6 +51,63 @@ const VARIABLES = [
     { label: ' ', value: '{title}', icon: 'title', tooltip: 'Belge Başlığı' },
 ] as const;
 
+const HF_TOKEN_RE = /^\{(?:page|totalPages|total|date|title)\}$/;
+
+type HfTokenInserter = (token: string) => void;
+
+let activeHfTokenInserter: HfTokenInserter | null = null;
+const hfTokenInserters: HfTokenInserter[] = [];
+
+function registerHfTokenInserter(inserter: HfTokenInserter): () => void {
+    hfTokenInserters.push(inserter);
+    return () => {
+        const index = hfTokenInserters.indexOf(inserter);
+        if (index >= 0) hfTokenInserters.splice(index, 1);
+        if (activeHfTokenInserter === inserter) {
+            activeHfTokenInserter = hfTokenInserters[hfTokenInserters.length - 1] ?? null;
+        }
+    };
+}
+
+function insertHfVariableToken(token: string): void {
+    const insert = activeHfTokenInserter ?? hfTokenInserters[0];
+    insert?.(token);
+}
+
+function hfTokenFromVariableId(id: string): string | null {
+    switch (id) {
+        case 'page':
+            return '{page}';
+        case 'total':
+        case 'totalPages':
+            return '{totalPages}';
+        case 'date':
+            return '{date}';
+        case 'title':
+            return '{title}';
+        default:
+            return null;
+    }
+}
+
+function readDroppedHfToken(data: DataTransfer): string | null {
+    const custom = data.getData('application/x-nomai-variable');
+    if (custom) {
+        try {
+            const parsed = JSON.parse(custom) as { id?: string; token?: string };
+            if (typeof parsed.token === 'string' && HF_TOKEN_RE.test(parsed.token)) return parsed.token;
+            if (typeof parsed.id === 'string') {
+                const fromId = hfTokenFromVariableId(parsed.id);
+                if (fromId) return fromId;
+            }
+        } catch {
+            /* text/plain fallback */
+        }
+    }
+    const plain = data.getData('text/plain').trim();
+    return HF_TOKEN_RE.test(plain) ? plain : null;
+}
+
 const EXPORT_SCOPE_TOOLTIP =
     'İlk/son/tek-çift sadece PDF çıktılarında ve editörde uygulanır. UDF/DOCX çıktılarında varsayılan üst/alt bilgi kullanılır.';
 
@@ -60,17 +118,35 @@ interface DragPillProps {
 }
 
 const DragPill: React.FC<DragPillProps> = ({ variable }) => {
+    const draggedRef = useRef(false);
     return (
         <div
             className="hf-drag-pill"
             draggable
+            role="button"
+            title={variable.tooltip}
             onDragStart={(e) => {
-                const varData = { id: variable.value.replace(/[{}]/g, ''), label: variable.label };
-                e.dataTransfer.setData('application/x-nomai-variable', JSON.stringify(varData));
+                draggedRef.current = true;
+                const id = variable.value.replace(/[{}]/g, '');
+                e.dataTransfer.setData(
+                    'application/x-nomai-variable',
+                    JSON.stringify({ id, token: variable.value }),
+                );
                 e.dataTransfer.setData('text/plain', variable.value);
                 e.dataTransfer.effectAllowed = 'copy';
             }}
-            title={variable.tooltip}
+            onDragEnd={() => {
+                window.setTimeout(() => {
+                    draggedRef.current = false;
+                }, 0);
+            }}
+            onClick={() => {
+                if (draggedRef.current) {
+                    draggedRef.current = false;
+                    return;
+                }
+                insertHfVariableToken(variable.value);
+            }}
         >
             <MaterialIcon icon={variable.icon} size={13} />
             {variable.label}
@@ -91,7 +167,7 @@ const MAX_IMAGE_BYTES = HF_PRESET_MAX_IMAGE_BYTES;
 
 function serializeHfMiniEditorHtml(ed: NonNullable<ReturnType<typeof useEditor>>): string {
     syncHfImageAlignFromParagraphInEditor(ed);
-    return normalizeHfColumnHtml(ed.getHTML());
+    return hfVariableSpansToTokens(normalizeHfColumnHtml(ed.getHTML()));
 }
 
 const RichDropZone: React.FC<DropZoneProps> = ({ label, value, onChange, placeholder }) => {
@@ -107,6 +183,10 @@ const RichDropZone: React.FC<DropZoneProps> = ({ label, value, onChange, placeho
     onChangeRef.current = onChange;
     // Skip value→editor sync when the store echo is from this editor (prevents space/mark loss).
     const lastEmittedHtmlRef = useRef<string | null>(null);
+    const pendingTokenRef = useRef<string | null>(null);
+    const isActiveRef = useRef(false);
+    isActiveRef.current = isActive;
+    const insertTokenRef = useRef<(token: string) => void>(() => {});
 
     const editor = useEditor({
         extensions: [
@@ -169,6 +249,10 @@ const RichDropZone: React.FC<DropZoneProps> = ({ label, value, onChange, placeho
                         return true;
                     }
                 }
+                if (event.dataTransfer && readDroppedHfToken(event.dataTransfer)) {
+                    event.preventDefault();
+                    return true;
+                }
                 return false;
             },
         },
@@ -194,13 +278,54 @@ const RichDropZone: React.FC<DropZoneProps> = ({ label, value, onChange, placeho
         return () => unregisterHfEditorFlusher(flush);
     }, []);
 
+    insertTokenRef.current = (token: string) => {
+        const ed = editorRef.current ?? editor;
+        if (ed && !ed.isDestroyed && isActiveRef.current) {
+            ed.chain().focus().insertContent(token).run();
+            return;
+        }
+        pendingTokenRef.current = token;
+        setIsActive(true);
+    };
+
+    const tokenInserterRef = useRef<HfTokenInserter>((token) => insertTokenRef.current(token));
+
+    useEffect(() => registerHfTokenInserter(tokenInserterRef.current), []);
+
+    useEffect(() => {
+        if (!isActive) return;
+        activeHfTokenInserter = tokenInserterRef.current;
+    }, [isActive]);
+
+    useEffect(() => {
+        if (!editor) return;
+        const onFocus = () => {
+            activeHfTokenInserter = tokenInserterRef.current;
+        };
+        editor.on('focus', onFocus);
+        return () => {
+            editor.off('focus', onFocus);
+        };
+    }, [editor]);
+
     // Auto-focus when activated (defer — TipTap node views use flushSync)
     useEffect(() => {
-        if (!isActive || !editor) return;
+        if (!isActive || !editor || pendingTokenRef.current) return;
         queueMicrotask(() => {
-            if (!editor.isDestroyed && isActive) {
+            if (!editor.isDestroyed && isActive && !pendingTokenRef.current) {
                 editor.commands.focus('end');
             }
+        });
+    }, [isActive, editor]);
+
+    useEffect(() => {
+        if (!isActive || !editor) return;
+        const token = pendingTokenRef.current;
+        if (!token) return;
+        pendingTokenRef.current = null;
+        queueMicrotask(() => {
+            if (editor.isDestroyed) return;
+            editor.chain().focus('end').insertContent(token).run();
         });
     }, [isActive, editor]);
 
@@ -238,6 +363,8 @@ const RichDropZone: React.FC<DropZoneProps> = ({ label, value, onChange, placeho
         if (!isActive) return;
         const handleMouseDown = (e: MouseEvent) => {
             const target = e.target as Node;
+            const origin = target instanceof Element ? target : target.parentElement;
+            if (origin?.closest('.hf-var-ribbon')) return;
             if (containerRef.current && !containerRef.current.contains(target)) {
                 const ed = editorRef.current;
                 if (ed) {
@@ -256,15 +383,10 @@ const RichDropZone: React.FC<DropZoneProps> = ({ label, value, onChange, placeho
 
     const handleDrop = (e: React.DragEvent) => {
         if (!editor) return;
-        const varDataStr = e.dataTransfer.getData('application/x-nomai-variable');
-        if (varDataStr) {
+        const token = readDroppedHfToken(e.dataTransfer);
+        if (token) {
             e.preventDefault();
-            try {
-                const varData = JSON.parse(varDataStr);
-                editor.commands.setVariable({ id: varData.id, label: varData.label });
-            } catch (err) {
-                console.error('Failed to parse variable drop data', err);
-            }
+            editor.chain().focus().insertContent(token).run();
             return;
         }
         const data = e.dataTransfer.getData('text/plain');
@@ -300,20 +422,13 @@ const RichDropZone: React.FC<DropZoneProps> = ({ label, value, onChange, placeho
                 onClick={() => setIsActive(true)}
                 onDragOver={(e) => e.preventDefault()}
                 onDrop={(e) => {
-                    const varDataStr = e.dataTransfer.getData('application/x-nomai-variable');
-                    const plainData = e.dataTransfer.getData('text/plain');
-                    if (varDataStr || plainData) {
-                        e.preventDefault();
-                        setIsActive(true);
-                        setTimeout(() => {
-                            if (varDataStr) {
-                                try {
-                                    const varData = JSON.parse(varDataStr);
-                                    editor?.commands.setVariable({ id: varData.id, label: varData.label });
-                                } catch { /* ignore */ }
-                            } else { editor?.commands.insertContent(plainData); }
-                        }, 50);
-                    }
+                    const token = readDroppedHfToken(e.dataTransfer);
+                    const plainData = token ?? e.dataTransfer.getData('text/plain');
+                    if (!plainData) return;
+                    e.preventDefault();
+                    pendingTokenRef.current = plainData;
+                    activeHfTokenInserter = tokenInserterRef.current;
+                    setIsActive(true);
                 }}
                 title={placeholder || label}
                 role="button"
@@ -325,7 +440,7 @@ const RichDropZone: React.FC<DropZoneProps> = ({ label, value, onChange, placeho
                     <div
                         className="hf-mini-editor-preview"
                         style={{ fontSize: '11px', color: 'var(--hf-text)', minHeight: '20px' }}
-                        dangerouslySetInnerHTML={{ __html: sanitizeTrustedDocumentHtml(value) }}
+                        dangerouslySetInnerHTML={{ __html: sanitizeTrustedDocumentHtml(hfVariableSpansToTokens(value)) }}
                     />
                 ) : (
                     <span className="hf-drop-zone__placeholder">{placeholder || '—'}</span>

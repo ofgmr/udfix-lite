@@ -13,7 +13,9 @@ import { Label } from '../../components/ui/label';
 import { Separator } from '../../components/ui/separator';
 import ColorPicker from '../ui/ColorPicker';
 import { applyEditorTextColor } from '../../utils/editorTextColor';
-import { applyFontFamilyOrMarker, getMarkerFontFamily } from '../../utils/listFormatUtils';
+import { applyEditorHighlight, toggleEditorHighlight } from '../../utils/editorHighlight';
+import { applyFontFamilyOrMarker } from '../../utils/listFormatUtils';
+import { getSelectionFontFamilyState, matchOfflineFont } from '../../utils/fontFamilyResolve';
 
 interface FormatPanelProps {
     editor: Editor | null;
@@ -110,8 +112,10 @@ const FormatPanel: React.FC<FormatPanelProps> = ({ editor }) => {
                 </Label>
                 <div className="space-y-3">
                     <Select
-                        value={getMarkerFontFamily(editor) || editor.getAttributes('textStyle').fontFamily || ''}
-                        onValueChange={(value) => applyFontFamilyOrMarker(editor, value)}
+                        value={getSelectionFontFamilyState(editor).font?.name ?? ''}
+                        onValueChange={(value) => {
+                            applyFontFamilyOrMarker(editor, matchOfflineFont(value)?.stack ?? value);
+                        }}
                     >
                         <SelectTrigger className="w-full">
                             <SelectValue placeholder="Font Family" />
@@ -170,8 +174,10 @@ const FormatPanel: React.FC<FormatPanelProps> = ({ editor }) => {
                         <span className="text-sm font-medium">Highlight</span>
                         <ColorPicker
                             color={editor.getAttributes('highlight').color}
-                            onChange={(color) => editor.chain().focus().toggleHighlight({ color }).run()}
-                            label="Highlight Color"
+                            onChange={(color) => applyEditorHighlight(editor, color)}
+                            onApplyDefault={() => toggleEditorHighlight(editor)}
+                            label="Vurgu"
+                            mode="highlight"
                         />
                     </div>
                 </div>

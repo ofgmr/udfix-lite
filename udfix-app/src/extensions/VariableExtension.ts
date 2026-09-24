@@ -15,6 +15,23 @@ declare module '@tiptap/core' {
     }
 }
 
+/** Chip text is the compile token. Stored labels like `#` / `##` are not page fields. */
+function hfVariableTokenLabel(id: string, label: unknown): string {
+    switch (id) {
+        case 'page':
+            return '{page}';
+        case 'total':
+        case 'totalPages':
+            return '{totalPages}';
+        case 'date':
+            return '{date}';
+        case 'title':
+            return '{title}';
+        default:
+            return (typeof label === 'string' && label.trim()) || id || '?';
+    }
+}
+
 export const VariableExtension = Node.create<VariableOptions>({
     name: 'variable',
     group: 'inline',
@@ -73,12 +90,13 @@ export const VariableExtension = Node.create<VariableOptions>({
     addNodeView() {
         return ({ node }) => {
             const dom = document.createElement('span');
+            const id = String(node.attrs.id ?? '');
             dom.className = 'hf-variable-node';
             dom.setAttribute('data-type', 'variable');
-            dom.setAttribute('data-id', node.attrs.id ?? '');
+            dom.setAttribute('data-id', id);
             dom.setAttribute('data-label', node.attrs.label ?? '');
             dom.contentEditable = 'false';
-            dom.textContent = node.attrs.label || node.attrs.id || '?';
+            dom.textContent = hfVariableTokenLabel(id, node.attrs.label);
             return { dom };
         };
     },

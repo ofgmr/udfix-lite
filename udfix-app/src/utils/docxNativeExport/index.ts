@@ -28,7 +28,13 @@ import { getCommentIdsInDocumentOrder, getStoredComments, type Reply } from '../
 import { compileHfHtmlForDocx, type CompileHfOptions } from '../compileHfHtml';
 import { htmlStringToPlainText } from '../htmlPlainText';
 import { getPaginationMargins } from '../paginationMarginSync';
-import { EDITOR_PAGE_HEIGHT_PX, EDITOR_PAGE_WIDTH_PX } from '../editorLayout';
+import {
+    EDITOR_PAGE_HEIGHT_PX,
+    EDITOR_PAGE_MARGIN_LEFT_PX,
+    EDITOR_PAGE_MARGIN_RIGHT_PX,
+    EDITOR_PAGE_WIDTH_PX,
+    EDITOR_PAGINATION_BODY_VERTICAL_BASE_PX,
+} from '../editorLayout';
 import { useHeaderFooterStore } from '../../stores/useHeaderFooterStore';
 import { useLayoutStore } from '../../stores/useLayoutStore';
 import { pickExportHeaderFooterSection } from '../headerFooterExportPick';
@@ -844,10 +850,10 @@ function buildCommentOptions(comments: DocxCommentForExport[], idMap: Map<string
 }
 
 function pagePropertiesFromMargins(margins: DocxPageMargins | null | undefined) {
-    const mTop = margins?.marginTop ?? 40;
-    const mBottom = margins?.marginBottom ?? 40;
-    const mLeft = margins?.marginLeft ?? 50;
-    const mRight = margins?.marginRight ?? 50;
+    const mTop = margins?.marginTop ?? EDITOR_PAGINATION_BODY_VERTICAL_BASE_PX;
+    const mBottom = margins?.marginBottom ?? EDITOR_PAGINATION_BODY_VERTICAL_BASE_PX;
+    const mLeft = margins?.marginLeft ?? EDITOR_PAGE_MARGIN_LEFT_PX;
+    const mRight = margins?.marginRight ?? EDITOR_PAGE_MARGIN_RIGHT_PX;
     return {
         page: {
             size: {

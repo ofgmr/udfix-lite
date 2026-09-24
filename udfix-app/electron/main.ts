@@ -27,13 +27,20 @@ import { initUpdateService, registerUpdateHandlers, disposeUpdateService } from 
 import { registerMacOpenFileHandlers, initMacOpenFileDelivery, drainStartupUdfOpenRequests } from './macOpenFile';
 import { initMacAppLifecycle, setupMacPlatformMenus, scheduleFirstLaunchUdfPrompt } from './macAppLifecycle';
 import { initMacMenuBarTray } from './macMenuBarTray';
-import { registerUdfixWithLaunchServices, reassertUdfDefaultHandlerIfEnabled } from './macLaunchServices';
+import { registerUdfixWithLaunchServices } from './macLaunchServices';
+import { syncUdfDefaultHandlerPreference } from './macUdfDefaultHandler';
 import { registerUdfQuickLookPlugins } from './macUdfQuickLook';
 import { DEST_DIR_APP_OWNED, isAppOwnedEvrakPath, purgeAppOwnedUyapPreviewDirs } from './uyapEvrakStorage';
 import { startCalendarReminderService, stopCalendarReminderService } from './calendarReminderService';
 import { assertUserFsPathAllowed } from './fsPathPolicy';
 import { isNomaiFileServingAllowed } from './nomaiFileProtocol';
 import { loadPrintHtmlFile, PRINT_WINDOW_WEB_PREFERENCES } from './printHtml';
+import {
+    buildHfOverlayHtmlFromPayload,
+    overlayHfOnBodyPdf,
+    readPdfPageCount,
+    type ExportPdfWithOverlayPayload,
+} from './pdfOverlay';
 
 class UyapSigningError extends Error {
     readonly code: string;
@@ -106,14 +113,22 @@ function clampPrintScale(raw: unknown): number {
 }
 
 function normalizePdfPrintOptions(raw: Record<string, unknown>, useChromeHeaderFooter: boolean): Record<string, unknown> {
+    const preferCss = raw.preferCSSPageSize === false ? false : true;
     const normalized: Record<string, unknown> = {
         ...raw,
         printBackground: true,
-        pageSize: 'A4',
-        preferCSSPageSize: raw.preferCSSPageSize === false ? false : true,
+        preferCSSPageSize: preferCss,
         landscape: raw.landscape === true,
         scale: clampPrintScale(raw.scale),
     };
+    // When the CSS @page rule is authoritative, do NOT also set `pageSize`:
+    // Electron's `pageSize: 'A4'` resolves to a slightly-off Skia value
+    // (595.92×842.88pt) and can override the exact `210mm 297mm` we write in
+    // the @page rule (true A4 = 595.28×841.89pt). Let @page be the sole
+    // source of truth for sheet size.
+    if (!preferCss) {
+        normalized.pageSize = 'A4';
+    }
     if (!useChromeHeaderFooter) {
         normalized.margins = { top: 0, bottom: 0, left: 0, right: 0 };
     } else if (raw.margins && typeof raw.margins === 'object') {
@@ -711,7 +726,7 @@ app.whenReady().then(async () => {
 
     await registerUdfixWithLaunchServices();
     await registerUdfQuickLookPlugins();
-    await reassertUdfDefaultHandlerIfEnabled();
+    await syncUdfDefaultHandlerPreference();
 
     const window = createWindow();
     scheduleFirstLaunchUdfPrompt(window);
@@ -866,6 +881,114 @@ app.whenReady().then(async () => {
             );
         } catch (error) {
             console.error('HTML to PDF conversion error:', error);
+            throw error;
+        }
+    });
+
+    // Non-dialog variant of export-pdf-with-overlay for headless batch UDF→PDF.
+    // Returns the merged PDF bytes (no save dialog) so the batch converter can
+    // write them to the chosen output directory.
+    console.log('[IPC] Registering convert-html-to-pdf-with-overlay handler');
+    ipcMain.handle('convert-html-to-pdf-with-overlay', async (_event, payload: unknown) => {
+        if (!payload || typeof payload !== 'object') {
+            throw new Error('convert-html-to-pdf-with-overlay: geçersiz payload');
+        }
+        const p = payload as ExportPdfWithOverlayPayload;
+        if (typeof p.bodyHtml !== 'string' || !p.hfOverlay || typeof p.hfOverlay !== 'object') {
+            throw new Error('convert-html-to-pdf-with-overlay: bodyHtml veya hfOverlay eksik');
+        }
+        try {
+            const printExtras =
+                (p.printToPdfOptions && typeof p.printToPdfOptions === 'object'
+                    ? p.printToPdfOptions
+                    : {}) as Record<string, unknown>;
+            const bodyOptions = normalizePdfPrintOptions(
+                { ...printExtras, displayHeaderFooter: false },
+                false,
+            );
+            const bodyBytes = await runHeadlessHtmlPrint(p.bodyHtml, (printWin) =>
+                printWin.webContents.printToPDF(bodyOptions as never),
+            );
+            const pageCount = await readPdfPageCount(bodyBytes);
+            const hfHtml = buildHfOverlayHtmlFromPayload(p.hfOverlay, pageCount);
+            const hfOptions = normalizePdfPrintOptions(
+                {
+                    displayHeaderFooter: false,
+                    preferCSSPageSize: true,
+                    printBackground: true,
+                    scale: 1,
+                },
+                false,
+            );
+            const hfBytes = await runHeadlessHtmlPrint(hfHtml, (printWin) =>
+                printWin.webContents.printToPDF(hfOptions as never),
+            );
+            return await overlayHfOnBodyPdf(bodyBytes, hfBytes);
+        } catch (error) {
+            console.error('HTML to PDF overlay conversion error:', error);
+            throw error;
+        }
+    });
+
+    // Two-pass UDF→PDF export: native Chromium body + pdf-lib HF overlay.
+    // Body PDF is printed with displayHeaderFooter:false and A4 @page margins
+    // reserving the HF band height; HF overlay PDF is N pages each carrying one
+    // variant. Main prints body, counts pages, assembles HF HTML for that count,
+    // prints HF, overlays with pdf-lib, and writes the merged file.
+    console.log('[IPC] Registering export-pdf-with-overlay handler');
+    ipcMain.handle('export-pdf-with-overlay', async (event, payload: unknown) => {
+        const win = BrowserWindow.fromWebContents(event.sender);
+        if (!win) return;
+        if (!payload || typeof payload !== 'object') {
+            console.error('[export-pdf-with-overlay] invalid payload');
+            return;
+        }
+        const p = payload as ExportPdfWithOverlayPayload;
+        if (typeof p.bodyHtml !== 'string' || !p.hfOverlay || typeof p.hfOverlay !== 'object') {
+            console.error('[export-pdf-with-overlay] missing bodyHtml or hfOverlay');
+            return;
+        }
+        const safe =
+            (p.suggestedBaseName &&
+                String(p.suggestedBaseName).trim().replace(/[<>:"/\\|?*\u0000-\u001f]/g, '_').slice(0, 200)) ||
+            'Belge';
+        const { filePath } = await dialog.showSaveDialog(win, {
+            title: 'PDF Olarak Kaydet',
+            defaultPath: `${safe}.pdf`,
+            filters: [{ name: 'PDF Dosyası', extensions: ['pdf'] }],
+        });
+        if (!filePath) return;
+
+        try {
+            const printExtras =
+                (p.printToPdfOptions && typeof p.printToPdfOptions === 'object'
+                    ? p.printToPdfOptions
+                    : {}) as Record<string, unknown>;
+            const bodyOptions = normalizePdfPrintOptions(
+                { ...printExtras, displayHeaderFooter: false },
+                false,
+            );
+            const bodyBytes = await runHeadlessHtmlPrint(p.bodyHtml, (printWin) =>
+                printWin.webContents.printToPDF(bodyOptions as never),
+            );
+            const pageCount = await readPdfPageCount(bodyBytes);
+            const hfHtml = buildHfOverlayHtmlFromPayload(p.hfOverlay, pageCount);
+            const hfOptions = normalizePdfPrintOptions(
+                {
+                    displayHeaderFooter: false,
+                    preferCSSPageSize: true,
+                    printBackground: true,
+                    scale: 1,
+                },
+                false,
+            );
+            const hfBytes = await runHeadlessHtmlPrint(hfHtml, (printWin) =>
+                printWin.webContents.printToPDF(hfOptions as never),
+            );
+            const merged = await overlayHfOnBodyPdf(bodyBytes, hfBytes);
+            await fs.promises.writeFile(filePath, merged);
+        } catch (error) {
+            console.error('PDF overlay export error:', error);
             throw error;
         }
     });

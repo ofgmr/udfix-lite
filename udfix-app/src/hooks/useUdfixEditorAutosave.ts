@@ -59,7 +59,7 @@ export function useUdfixEditorAutosave(
                         throw new Error('UDF panel kimliği çözümlenemedi.');
                     }
                     if (useHeaderFooterStore.getState().currentDocumentId === documentId) {
-                        useHeaderFooterStore.getState().save();
+                        await useHeaderFooterStore.getState().save();
                     }
                     const source = options?.manual ? 'manual' : options?.forceVersion ? 'flush' : 'autosave';
                     await requestUdfSaveAndWait(panelId, source);

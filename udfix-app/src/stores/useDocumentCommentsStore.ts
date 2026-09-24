@@ -17,6 +17,8 @@ interface DocumentCommentsState {
     draftCommentId: string | null;
     /** Shared draft body while the comment mark exists but is not saved yet (margin + panel stay in sync). */
     draftCommentText: string;
+    /** Comment the panel/margin should treat as inspected (open-panel from a card). */
+    inspectCommentId: string | null;
 
     setDocumentId: (id: string) => void;
     /** Reload from localStorage for current documentId (e.g. after orphan cleanup) */
@@ -31,6 +33,7 @@ interface DocumentCommentsState {
     startDraft: (id: string) => void;
     clearDraft: () => void;
     setDraftCommentText: (text: string) => void;
+    setInspectCommentId: (id: string | null) => void;
 }
 
 export const useDocumentCommentsStore = create<DocumentCommentsState>((set, get) => ({
@@ -39,6 +42,7 @@ export const useDocumentCommentsStore = create<DocumentCommentsState>((set, get)
     revision: 0,
     draftCommentId: null,
     draftCommentText: '',
+    inspectCommentId: null,
 
     setDocumentId: (id: string) => {
         if (get().documentId === id) return;
@@ -49,6 +53,7 @@ export const useDocumentCommentsStore = create<DocumentCommentsState>((set, get)
             revision: s.revision + 1,
             draftCommentId: null,
             draftCommentText: '',
+            inspectCommentId: null,
         }));
     },
 
@@ -77,7 +82,11 @@ export const useDocumentCommentsStore = create<DocumentCommentsState>((set, get)
         const next = { ...comments };
         delete next[id];
         saveStoredComments(documentId, next);
-        set((s) => ({ comments: next, revision: s.revision + 1 }));
+        set((s) => ({
+            comments: next,
+            revision: s.revision + 1,
+            inspectCommentId: s.inspectCommentId === id ? null : s.inspectCommentId,
+        }));
     },
 
     toggleResolved: (id: string) => {
@@ -129,6 +138,7 @@ export const useDocumentCommentsStore = create<DocumentCommentsState>((set, get)
         set((s) => ({
             draftCommentId: id,
             draftCommentText: '',
+            inspectCommentId: id,
             revision: s.revision + 1,
         }));
     },
@@ -137,11 +147,16 @@ export const useDocumentCommentsStore = create<DocumentCommentsState>((set, get)
         set((s) => ({
             draftCommentId: null,
             draftCommentText: '',
+            inspectCommentId: s.inspectCommentId === s.draftCommentId ? null : s.inspectCommentId,
             revision: s.revision + 1,
         }));
     },
 
     setDraftCommentText: (text: string) => {
         set({ draftCommentText: text });
+    },
+
+    setInspectCommentId: (id: string | null) => {
+        set({ inspectCommentId: id });
     },
 }));

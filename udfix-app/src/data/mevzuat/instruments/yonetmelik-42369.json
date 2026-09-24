@@ -1,0 +1,869 @@
+{
+  "id": "yonetmelik:42369",
+  "kind": "yonetmelik",
+  "no": "42369",
+  "title": "Ayakta Teşhis ve Tedavi Yapılan Özel Sağlık Kuruluşları Hakkında Yönetmelik",
+  "shortName": "Ayakta Teşhis Yön.",
+  "aliases": [
+    "Ayakta Teşhis Yön.",
+    "Ayakta Teşhis ve Tedavi Yapılan Özel Sağlık Kuruluşları Hakkında Yönetmelik",
+    "42369"
+  ],
+  "tur": 7,
+  "tertip": 5,
+  "sourceUrl": "https://www.mevzuat.gov.tr/mevzuat?MevzuatNo=42369&MevzuatTur=7&MevzuatTertip=5",
+  "kabulTarihi": null,
+  "maddeCount": 50,
+  "maddeler": [
+    {
+      "id": "yonetmelik:42369:m:1",
+      "maddeKind": "madde",
+      "maddeNo": "1",
+      "heading": "Madde 1",
+      "text": "(1) Bu Yönetmeliğin amacı; etkin, verimli ve kaliteli sağlık hizmeti sunulmasını sağlamak üzere, ayakta teşhis ve tedavi yapılan özel sağlık kuruluşlarının hizmet, tıp teknolojisi, tesis ve personel standartlarının belirlenmesine, teşkilatlandırılmasına, planlamasına ve bunların açılmalarına, faaliyetlerine, kapatılmalarına ve denetimlerine ilişkin usul ve esasları düzenlemektir.",
+      "preview": "(1) Bu Yönetmeliğin amacı; etkin, verimli ve kaliteli sağlık hizmeti sunulmasını sağlamak üzere, ayakta teşhis ve tedavi yapılan özel sağlık…",
+      "kitap": null,
+      "kisim": null,
+      "bolum": "BİRİNCİ BÖLÜM · Başlangıç Hükümleri",
+      "ayirim": null,
+      "maddeBaslik": "Amaç",
+      "sectionPath": [
+        "BİRİNCİ BÖLÜM · Başlangıç Hükümleri",
+        "Amaç"
+      ]
+    },
+    {
+      "id": "yonetmelik:42369:m:2",
+      "maddeKind": "madde",
+      "maddeNo": "2",
+      "heading": "Madde 2",
+      "text": "(1) Bu Yönetmelik; ayakta teşhis ve tedavi hizmeti sunulan tıp merkezi, poliklinik, fizik tedavi ve rehabilitasyon müessesesi ile muayenehaneyi kapsar.",
+      "preview": "(1) Bu Yönetmelik; ayakta teşhis ve tedavi hizmeti sunulan tıp merkezi, poliklinik, fizik tedavi ve rehabilitasyon müessesesi ile muayenehan…",
+      "kitap": null,
+      "kisim": null,
+      "bolum": "BİRİNCİ BÖLÜM · Başlangıç Hükümleri",
+      "ayirim": null,
+      "maddeBaslik": "Kapsam",
+      "sectionPath": [
+        "BİRİNCİ BÖLÜM · Başlangıç Hükümleri",
+        "Kapsam"
+      ]
+    },
+    {
+      "id": "yonetmelik:42369:m:3",
+      "maddeKind": "madde",
+      "maddeNo": "3",
+      "heading": "Madde 3",
+      "text": "(1) Bu Yönetmelik; 11/4/1928 tarihli ve 1219 sayılı Tababet ve Şuabatı San'atlarının Tarzı İcrasına Dair Kanun hükümlerine, 7/5/1987 tarihli ve 3359 sayılı Sağlık Hizmetleri Temel Kanununun 3 üncü maddesine, 9 uncu maddesinin (c) bendine, ek 11 inci maddesine ve ek 19 uncu maddesine, 19/4/1937 tarihli ve 3153 sayılı Radiyoloji, Radiyom ve Elektrikle Tedavi ve Diğer Fizyoterapi Müesseseleri Hakkında Kanun hükümlerine ve 1 sayılı Cumhurbaşkanlığı Teşkilatı Hakkında Cumhurbaşkanlığı Kararnamesinin 355 inci maddesinin birinci fıkrasının (a) ve (c) bentleri ile 508 inci maddesine dayanılarak hazırlanmıştır.",
+      "preview": "(1) Bu Yönetmelik; 11/4/1928 tarihli ve 1219 sayılı Tababet ve Şuabatı San'atlarının Tarzı İcrasına Dair Kanun hükümlerine, 7/5/1987 tarihli…",
+      "kitap": null,
+      "kisim": null,
+      "bolum": "BİRİNCİ BÖLÜM · Başlangıç Hükümleri",
+      "ayirim": null,
+      "maddeBaslik": "Dayanak",
+      "sectionPath": [
+        "BİRİNCİ BÖLÜM · Başlangıç Hükümleri",
+        "Dayanak"
+      ]
+    },
+    {
+      "id": "yonetmelik:42369:m:4",
+      "maddeKind": "madde",
+      "maddeNo": "4",
+      "heading": "Madde 4",
+      "text": "(1) Bu Yönetmelikte geçen;\n a) Bakanlık: Sağlık Bakanlığını,\n b) EKİP: Bakanlık Entegre Kurumsal İşlem Platformunu,\n c) Faaliyet izin belgesi: Ek-2/C’de örneğine yer verilen ve ruhsatlandırılmış tıp merkezinin faaliyete geçebilmesi için veya faaliyette olan tıp merkezinin hasta kabul ve tedavi edeceği uzmanlık dallarını ve hizmet verilen laboratuvarları, diğer tıbbî hizmet birimlerini ve bunlardaki değişikliklerin yer aldığı, il sağlık müdürlüğünce düzenlenen belgeyi,\n ç) Genel Müdürlük: Sağlık Hizmetleri Genel Müdürlüğünü,\n d) Muayenehane: Bir tabip tarafından mesleğini serbest olarak icra etmek üzere müstakilen açılan, bu Yönetmelik ile belirlenen asgari şartları taşıyan ve bu Yönetmeliğin Ek-13’ünde yer alan koşullara uygun şekilde hizmet veren sağlık kuruluşunu,\n e) Müdürlük: İl sağlık müdürlüğünü,\n f) Müessese: 3153 sayılı Kanun kapsamında fizik tedavi ve rehabilitasyon hizmeti sunan sağlık kuruluşunu,\n g) Nöbetçi tabip: Bir sağlık kuruluşunun hizmet verdiği genel çalışma saatleri dışındaki zamanlarda, gözlem altındaki hastaların veya acil vakaların tıbbi işlemlerinden sorumlu olarak nöbet hizmetini yürüten tabibi,\n ğ) Poliklinik: Bu Yönetmelikte yer alan sağlık kuruluşunu açmaya yetkili kişiler tarafından asgari personel, donanım ve fiziki şartları sağlayarak ayakta teşhis ve tedavi hizmeti sunulan sağlık kuruluşunu,\n h) Ruhsat: Sağlık kuruluşunun sağlık hizmet sunumuna uygunluğunu gösteren, açılışta sahibi adına düzenlenen ve kuruluşun isim, adres ve kapasitesinin yer aldığı Bakanlıkça düzenlenen belgeyi,\n ı) Sağlık kuruluşu: Tıp merkezi, poliklinik, fizik tedavi ve rehabilitasyon müessesesi ile muayenehaneyi,\n i) Sağlık personeli: Tabip, diş tabibi, eczacı, hemşire, optisyen ve 1219 sayılı Kanunda tanımlanan diğer sağlık meslek mensuplarını,\n j) Sertifika: 4/2/2014 tarihli ve 28903 sayılı Resmî Gazete’de yayımlanan Sağlık Bakanlığı Sertifikalı Eğitim Yönetmeliğine göre tescil edilmiş sertifikayı,\n k) Teknik inceleme ekibi: Sağlık kuruluşunun ruhsatlandırılmasından önce bu Yönetmelikte yer alan şartları taşıyıp taşımadığının, ruhsat aldıktan sonra ise faaliyetlerinin bu Yönetmeliğe ve ilgili diğer mevzuat hükümlerine uygun olup olmadığının gerektiğinde incelenmesi için Bakanlık tarafından merkez veya taşra teşkilatında oluşturulan ekibi,\n l) Tıp merkezi: Sağlık kuruluşunu açmaya yetkili kişiler tarafından asgari personel, donanım ve fiziki şartlar sağlanarak, bu Yönetmelikle izin verilen özellikli hizmetlerin de verilebildiği ayakta teşhis ve tedavi hizmeti sunulan sağlık kuruluşunu,\n m) TÜSKA: Türkiye Sağlık Hizmetleri Kalite ve Akreditasyon Enstitüsünü,\n n) Uzmanlık dalı: Tıpta uzmanlık mevzuatında belirlenmiş uzmanlık dallarını,\n ifade eder.\n İKİNCİ BÖLÜM\n Sağlık Kuruluşunun Temel Özellikleri, Tıbbi Hizmet Birimleri ve Nitelikleri,",
+      "preview": "(1) Bu Yönetmelikte geçen; a) Bakanlık: Sağlık Bakanlığını, b) EKİP: Bakanlık Entegre Kurumsal İşlem Platformunu, c) Faaliyet izin belgesi:…",
+      "kitap": null,
+      "kisim": null,
+      "bolum": "BİRİNCİ BÖLÜM · Başlangıç Hükümleri",
+      "ayirim": null,
+      "maddeBaslik": "Tanımlar",
+      "sectionPath": [
+        "BİRİNCİ BÖLÜM · Başlangıç Hükümleri",
+        "Tanımlar"
+      ]
+    },
+    {
+      "id": "yonetmelik:42369:m:5",
+      "maddeKind": "madde",
+      "maddeNo": "5",
+      "heading": "Madde 5",
+      "text": "(1) Sağlık kuruluşu, bu Yönetmelikte asgari olarak öngörülen bina, hizmet ve personel standartlarını haiz olmak kaydıyla bünyesindeki mevcut uzmanlık dallarıyla hastalara ayakta teşhis ve tedavi hizmeti sunar. Sağlık kuruluşunda asgari olarak bulunması gereken tabip sayıları şunlardır:\n a) Tıp merkezi, en az iki farklı uzmanlık dalında olmak üzere en az beş uzman tabip kadrosuyla açılır ve faaliyette bulunur.\n b) Poliklinik, en az iki, en çok dört tabip kadrosu ile faaliyette bulunur.\n c) Müessesede, yalnızca fizik tedavi ve rehabilitasyon uzmanlık dalında asgari bir uzman tabip çalışır.\n (2) Tıp merkezi personeline, hastalara ve hasta yakınlarına hizmet vermek ve işletilmek üzere kafeterya, kantin gibi kısımlar kurulabilir veya bunların işletilmesi için hizmet satın alınabilir veya bu hizmetler başkalarına gördürülebilir. Bu kısımlar, tıbbi hizmet birimlerinin bulunduğu yerler ile hasta tedavi ve istirahatini engelleyecek yerlerde kurulamaz.\n (3) Sağlık kuruluşu (Danıştay Onuncu Dairesinin 17/12/2025 tarihli ve E.:2025/4140 sayılı kararı ile yürütmesi durdurulan ibare:binası) içinde hiçbir surette başka amaca yönelik işyeri bulunamaz ve içerisindeki bir bölüm, ikinci fıkrada yer alan işletmeler dışındaki bir amaçla faaliyet göstermek üzere üçüncü kişilere kiralanamaz veya herhangi bir şekilde devredilemez.\n (4) Tıp merkezi, poliklinik ve müessese binalarının ilgili mevzuatı kapsamında deprem ve itfaiye raporunun bulunması zorunludur.\n (5) (Danıştay Onuncu Dairesinin 17/12/2025 tarihli ve E.:2025/2965 sayılı kararı ile yürütmesi durdurulan fıkra: Tıp merkezi ruhsatlandırıldığı tarihten itibaren en geç üç yıl içinde TÜSKA’dan akreditasyon belgesi almak zorundadır. Akreditasyon belgesi alamayan tıp merkezine, hastaların görebileceği şekilde “Bu tıp merkezinin TÜSKA akreditasyon belgesi yoktur” ibareli Ek-16’da belirlenen standartlara uygun bilgilendirme tabelasının asılması zorunludur. Bakanlık tarafından TÜSKA akreditasyon belgesi olmayan tıp merkezi, her yıl ocak ayında Sosyal Güvenlik Kurumuna bildirilir.)",
+      "preview": "(1) Sağlık kuruluşu, bu Yönetmelikte asgari olarak öngörülen bina, hizmet ve personel standartlarını haiz olmak kaydıyla bünyesindeki mevcut…",
+      "kitap": null,
+      "kisim": null,
+      "bolum": "BİRİNCİ BÖLÜM · Başlangıç Hükümleri",
+      "ayirim": null,
+      "maddeBaslik": "Sağlık kuruluşunun temel özellikleri",
+      "sectionPath": [
+        "BİRİNCİ BÖLÜM · Başlangıç Hükümleri",
+        "Sağlık kuruluşunun temel özellikleri"
+      ]
+    },
+    {
+      "id": "yonetmelik:42369:m:6",
+      "maddeKind": "madde",
+      "maddeNo": "6",
+      "heading": "Madde 6",
+      "text": "(1) Sağlık kuruluşunda bulunan tüm birimler, bu Yönetmelikte yer alan asgari fiziki kriterleri sağlamak zorundadır.\n (2) Bu Yönetmelikte belirlenmiş asgari fiziki standartlara ilişkin ölçülerde, %2’ye kadar sapmalara izin verilir.\n (3) Tıp merkezi bünyesinde yürütülen tıbbi laboratuvar, radyoloji, radyasyon onkolojisi ve nükleer tıp hizmetleri ilgili yönetmelikler kapsamında yürütülür. Bu birimler için ilgili mevzuata göre tıp merkezi adına faaliyet izin belgesi düzenlenir.\n (4) Sağlık kuruluşu; ilgili mevzuatı uyarınca müstakil olarak veya özel hastane/tıp merkezi bünyesinde ruhsatlandırılan veya kamu kurum ve kuruluşları bünyesinde kurulan laboratuvar ve görüntüleme merkezlerinden, ilgili mevzuat hükümlerine uygun olarak hizmet satın alabilir.\n (5) Hizmet satın alma yoluyla sunulan hizmetlerle ilgili, hizmeti alan kuruluş ile hizmeti veren kurum veya kuruluş, bu uygulamadan ve sonuçlarından müştereken sorumludur.\n (6) Hizmet satın alma yoluyla sunulan hizmetlerle ilgili tetkik istem ve sonuçları, elektronik sistem üzerinden yürütülür ve hizmet alan kuruluş sistemine entegre edilir. Hizmet alımı yapılan kurum veya kuruluş tarafından hastadan ayrıca bir ücret talep edilemez.\n (7) Acil üniteleri; sadece 24 saat kesintisiz hizmet veren, en az 3000 m2 kapalı alanı olan ve uzman tabip kadro sayısı 10 ve üzeri olan tıp merkezinde açılır. Bu kapsamda açılmış acil ünitesi bulunan kuruluşların, acil ünitesinde çalışmak şartıyla pratisyen tabip kadrosu talep etmesi halinde, bu kadroları dörde tamamlanır.\n (8) Tıp merkezinde normal doğum yaptırılmak istenmesi halinde Ek-4/Ç’de yer alan kriterler kapsamında kuruluş bünyesine doğum ünitesi eklenmesi zorunludur. Ameliyathanesi bulunmayan tıp merkezinde doğum ünitesi kurulmasına izin verilmez. Tıp merkezinde planlı sezaryen yapılamaz.\n (9) Faaliyet izin belgesinde yer alan uzmanlık dallarıyla ilgili olmak kaydıyla sağlık kuruluşuna planlama kapsamında olmayan tıbbi cihaz, tıbbi hizmet birimleri ve alanlar eklenebilir. Eklenen cihaz ya da birimler, sağlık kuruluşuna kadro hakkı vermez. Planlama kapsamında olan cihazların eklenmesine izin verilmez.\n (10) Bu Yönetmelikte poliklinik odası için tanımlanmış gerekli fiziki mekân ve asgari tıbbi donanımın sağlanması şartıyla tıp merkezi, poliklinik ve muayenehane bünyesinde, tabiplerce eğitim müfredatları veya sertifika ile edinilmiş yetkinlikleri kapsamında, bulunduğu sağlık kuruluşunda izin verilen tıbbi uygulamalar çerçevesinde, estetik/kozmetik amaçlı sağlık hizmetleri sunulabilir.",
+      "preview": "(1) Sağlık kuruluşunda bulunan tüm birimler, bu Yönetmelikte yer alan asgari fiziki kriterleri sağlamak zorundadır. (2) Bu Yönetmelikte beli…",
+      "kitap": null,
+      "kisim": null,
+      "bolum": "BİRİNCİ BÖLÜM · Başlangıç Hükümleri",
+      "ayirim": null,
+      "maddeBaslik": "Sağlık kuruluşunun tıbbi hizmet birimleri ve nitelikleri",
+      "sectionPath": [
+        "BİRİNCİ BÖLÜM · Başlangıç Hükümleri",
+        "Sağlık kuruluşunun tıbbi hizmet birimleri ve nitelikleri"
+      ]
+    },
+    {
+      "id": "yonetmelik:42369:m:7",
+      "maddeKind": "madde",
+      "maddeNo": "7",
+      "heading": "Madde 7",
+      "text": "(1) Tıp merkezi, mesleğini serbest icra etme hak ve yetkisi olan tabip veya birden fazla tabip ve diş tabibi ortaklığı veya en az %51 hissesi tabip ve diş tabibi ortaklığı bulunan tüzel kişiler tarafından açılır.\n (2) Poliklinik, mesleğini serbest icra etme hak ve yetkisi olan en az iki tabip tarafından müştereken açılır.\n (3) Müessese, mesleğini serbest icra etme hak ve yetkisi olan fiziksel tıp ve rehabilitasyon uzmanlarınca açılır.\n (4) Tıp merkezi sahibi tabibin veya sahiplik şirket ise şirket ortağı olan tabibin/diş tabibinin ölümü halinde, eşi veya çocukları varsa bunlar hesabına en fazla beş yıl; mirasçılar arasında eş veya çocuk yok ise diğer mirasçılar hesabına en fazla bir yıl süreyle, mesul müdür sorumluluğu altında tıp merkezinin faaliyet göstermesine izin verilir. Mezkur süreler içinde ortaklık yapısının bu Yönetmeliğe uygun hale getirilmemesi halinde tıp merkezinin faaliyetine son verilir. Ölen tabip aynı zamanda tıp merkezinin mesul müdürü ise en geç on beş iş günü içinde durum Müdürlüğe bildirilir ve 14 üncü madde hükümlerine göre işlem yapılır.\n (5) Poliklinik ortaklarından olan bir tabibin ölümü ve iki veya daha fazla tabibin poliklinik faaliyetlerini devam ettirmeleri halinde dördüncü fıkraya göre işlem yapılır. Tek tabip kalması halinde, altı ay içinde tabip ortak bulunamaz ise poliklinik faaliyetine son verilir veya poliklinik muayenehaneye dönüştürülür.\n (6) Adına sağlık kuruluşu ruhsatı düzenlenmiş özel hukuk tüzel kişilerinin ortaklık yapısında değişiklik olması halinde bu değişikliğin, en geç bir ay içinde Müdürlüğe bildirilmesi zorunludur.\n (7) 1219 sayılı Kanunun 28 inci maddesinde sayılan suçlar ile cinsel dokunulmazlığa karşı işlenen suçlardan hüküm giymiş gerçek kişiler, kamu görevinden yasaklı gerçek kişiler ile ortaklık yapısında bu kişilerin bulunduğu tüzel kişiler adına tıp merkezi, poliklinik ve müessese açılmasına izin verilmez. Bu kişiler; tıp merkezi, poliklinik ve müessesenin ruhsatını devralamaz, adına tıp merkezi, poliklinik ve müessese ruhsatı bulunan tüzel kişilerin ortaklık yapısında yer alamaz.\n (8) Sahipliğinde ruhsat iptali gerçekleşen gerçek kişiler ve özel hukuk tüzel kişileri adına, beş yıl boyunca yeni sağlık kuruluşu ruhsatı düzenlenmez.",
+      "preview": "(1) Tıp merkezi, mesleğini serbest icra etme hak ve yetkisi olan tabip veya birden fazla tabip ve diş tabibi ortaklığı veya en az %51 hisses…",
+      "kitap": null,
+      "kisim": null,
+      "bolum": "BİRİNCİ BÖLÜM · Başlangıç Hükümleri",
+      "ayirim": null,
+      "maddeBaslik": "Sağlık kuruluşu açmaya ve işletmeye yetkili kişiler",
+      "sectionPath": [
+        "BİRİNCİ BÖLÜM · Başlangıç Hükümleri",
+        "Sağlık kuruluşu açmaya ve işletmeye yetkili kişiler"
+      ]
+    },
+    {
+      "id": "yonetmelik:42369:m:8",
+      "maddeKind": "madde",
+      "maddeNo": "8",
+      "heading": "Madde 8",
+      "text": "(1) Bakanlıkça, sağlık hizmetlerinin, demografik yapı ve epidemiyolojik özellikler de göz önünde bulundurulmak suretiyle kaliteli, hakkaniyete uygun ve verimli şekilde sunulması; sağlık kurum ve kuruluşlarının hizmet kapasiteleri, sağlık insan gücü ile çağdaş tıbbi bilgi ve teknolojinin ülke düzeyinde dengeli dağılımının sağlanması; koruyucu sağlık ve acil sağlık hizmetleri gibi iş birliği halinde hizmet sunumunun gerekli olduğu alanlarda ve sağlık turizminde uygun kapasitenin oluşturulması ve kaynak israfı ve atıl kapasiteye yol açılmaması adına, faaliyetine ihtiyaç duyulan sağlık kurum ve kuruluşları ile bunlara ait sağlık insan gücü, tıbbi hizmet birimleri ve nitelikleri ile teknoloji yoğunluklu tıbbi cihaz dağılımı alanlarında kamu ve özel sektörü kapsayacak şekilde planlama yapılır.\n (2) Bakanlıkça birinci fıkrada yer alan planlama kriterleri çerçevesinde sağlık kuruluşuna verilebilecek uzmanlık dalları ve kadro sayıları belirlenir. Bu planlama her yıl ilan edilir.\n (3) Bakanlıkça ilan edilen planlama neticesinde, yeni kuruluş açılışı ile mevcut kuruluşlarda uzman tabip kadro talepleri uygun görülenler için planlama uygunluk belgesi düzenlenir.\n (4) Yeni kuruluş açılışı amacıyla planlama uygunluk belgesi düzenlenen kuruluşlardan; poliklinik için en geç bir yıl, tıp merkezi için en geç iki yıl içinde ön izin alınması zorunludur. Bu süre içinde ön izin alamayanların planlama uygunluk belgeleri iptal edilir.\n (5) Planlama uygunluk belgesi devredilemez.",
+      "preview": "(1) Bakanlıkça, sağlık hizmetlerinin, demografik yapı ve epidemiyolojik özellikler de göz önünde bulundurulmak suretiyle kaliteli, hakkaniye…",
+      "kitap": null,
+      "kisim": null,
+      "bolum": "ÜÇÜNCÜ BÖLÜM · Planlama, Ön İzin ve Ruhsat",
+      "ayirim": null,
+      "maddeBaslik": "Planlama",
+      "sectionPath": [
+        "ÜÇÜNCÜ BÖLÜM · Planlama, Ön İzin ve Ruhsat",
+        "Planlama"
+      ]
+    },
+    {
+      "id": "yonetmelik:42369:m:9",
+      "maddeKind": "madde",
+      "maddeNo": "9",
+      "heading": "Madde 9",
+      "text": "(1) Tıp merkezi, poliklinik ve müessese açılmadan önce Bakanlıktan ön izin alınması şarttır. Ön izin için Ek-7’de yer alan belgeler, incelenmek üzere Müdürlük vasıtasıyla Bakanlığa gönderilir.\n (2) Aşağıdaki durumlarda da ön izin alınması zorunludur:\n a) Başka amaçla inşa edilmiş binaların, tıp merkezi/poliklinik/müessese binasına dönüştürülmesi halinde tadilat işlerine başlanmadan önce.\n b) Bakanlık tarafından ön izin verilmiş mimari projenin uygulanması sırasında, bu projede bir değişiklik yapılması durumunda.\n c) Ulaşım noktaları açısından uygun ve ulaşılabilir olduğunun yetkili kurum tarafından belgelenmesi ve acil durumlarda hasta nakline uygun düzenlemelerin yapılmış olması kaydıyla tıp merkezinin bulunduğu parselde imar mevzuatına uygun olarak ek bina yapılabilmesi ve ruhsatlandırılmış tıp merkezi binasına, 8 inci maddedeki planlamaya uygun olmak şartıyla ek bina yapılmak istenmesi halinde.\n (3) Ek-7’de yer alan mimari projeler, inceleme sonucunda Bakanlıkça uygun görülür ise başvuru sahibi tarafından imar mevzuatına uygun şekilde üç takım olarak hazırlanır. Üç takım olarak hazırlanan mimari projeler, tıp merkezi/poliklinik/müessese binası inşa edilecek yer, belediye ve mücavir alan sınırları içinde ise ilgili belediye, mücavir alan dışında ise valilik tarafından onaylanarak Müdürlük vasıtasıyla Bakanlığa gönderilir. Müdürlük ve Bakanlıkça teslim alınan evraklar, dizi pusulasına göre kabul edilir.\n (4) Ön izin başvurusu, bu maddede sayılan belgelerde eksiklik veya bu Yönetmeliğe uygunsuzluk bulunmaması kaydıyla, Bakanlığa intikal ettiği tarihten itibaren en geç otuz gün içinde sonuçlandırılarak ön izin belgesi düzenlenir veya ön izin başvuru belgelerinde tespit edilen eksiklik veya uygunsuzluk başvuru sahibine yazılı olarak bildirilir.\n (5) Ön izin belgeleri devredilemez ancak taşınma amaçlı düzenlenmiş ön izin belgesine sahip ruhsatlı tıp merkezi/poliklinik/müessesenin, ruhsat devri yapması durumunda yeni ruhsat sahibi adına mevcut süresi korunarak ön iznin devam etmesine izin verilir.\n (6) Bakanlıkça ruhsatlandırılmış sağlık kuruluşu binalarında imar mevzuatına uygun olarak taşıyıcı unsuru etkilemeyen tadilat ve tamirat gibi işlerin yapılmak istenmesi halinde, binanın kullanımına izin verilen toplam brüt alanını değiştirmemek ve gerektiğinde yangın ile deprem yönünden uygunluğunun da sağlanması kaydıyla ilgili belediyeden proje onayı aranmaksızın Bakanlığın izni alınarak ruhsata esas son proje üzerinde değişiklik yapılmasına izin verilir.\n (7) Tıp merkezi/poliklinik/müessesenin mevcut binasının tadilat gerektirmesi halinde, tadilata başlanmadan önce tadilat projesinin Bakanlıkça onaylanması gerekir.\n (8) Tıp merkezinin gözlem yatak ve poliklinik sayısı, tıp merkezi ön izin belgesinde belirtilir. Tıp merkezi ön izin belgesi, planlama uygunluk belgesinde belirtilen kapasitelere uygun olarak düzenlenir. Tıp merkezi bu kapasite ile ruhsatlandırılır. Ön izin projesinde belirtilen kapasiteden fazla bina ve mekân yatırımları tıp merkezine ilave kadro hakkı vermez.\n (9) Bakanlıkça tıp merkezi açma izni verilenler başvuru tarihinden itibaren en geç iki yıl içinde, poliklinik ve müessese ise bir yıl içinde ön izin belgesi almak zorundadır. Ön izin belgesinin verildiği tarihten itibaren iki yıl içinde ruhsat alınması zorunludur. Bu sürenin sonunda ruhsat alamayanlara ait ön izin belgesi iptal edilir.",
+      "preview": "(1) Tıp merkezi, poliklinik ve müessese açılmadan önce Bakanlıktan ön izin alınması şarttır. Ön izin için Ek-7’de yer alan belgeler, incelen…",
+      "kitap": null,
+      "kisim": null,
+      "bolum": "ÜÇÜNCÜ BÖLÜM · Planlama, Ön İzin ve Ruhsat",
+      "ayirim": null,
+      "maddeBaslik": "Tıp merkezi, poliklinik ve müessesede ön izin",
+      "sectionPath": [
+        "ÜÇÜNCÜ BÖLÜM · Planlama, Ön İzin ve Ruhsat",
+        "Tıp merkezi, poliklinik ve müessesede ön izin"
+      ]
+    },
+    {
+      "id": "yonetmelik:42369:m:10",
+      "maddeKind": "madde",
+      "maddeNo": "10",
+      "heading": "Madde 10",
+      "text": "(1) Sağlık kuruluşu açacak kişi, Ek-1/A’da yer alan belgelerin olduğu dosya ile Müdürlüğe başvurur. Dosya, dizi pusulası ile kabul edilir.\n (2) Ruhsat başvuru dosyası, Müdürlük tarafından başvuru tarihinden itibaren yedi iş günü içinde incelenir. Dosyada eksiklik veya uygunsuzluk tespit edilir ise başvuru sahibine bildirilir. Eksiklik veya uygunsuzluk olmaması halinde dosya on beş iş günü içinde Bakanlığa gönderilir.\n (3) Bakanlığa gönderilen başvuru, öncelikle Genel Müdürlük tarafından dosya üzerinden incelenir. Dosyada eksiklik veya uygunsuzluk varsa bunlar tamamlatılarak, dosya teknik inceleme ekibine havale edilir. Sağlık kuruluşu, bu Yönetmeliğe göre incelenen ve değerlendirilen başvuru dosyasında eksiklik bulunmaması halinde, Ek-17’de yer alan teknik inceleme raporuna uygun şekilde yerinde incelenir. Sağlık kuruluşunun uygunluğuna karar verilmesi halinde teknik inceleme raporu düzenlenerek Bakanlığa sunulur. Bu inceleme raporu ile eksiklik veya uygunsuzluk tespit edilmemiş olan sağlık kuruluşuna Bakanlık tarafından Ek-2'de yer alan ruhsat düzenlenir ve valiliğe gönderilir. Başvuru dosyasının bir örneği, düzenlenen belgelerin kayıtları ve onaylı son ön izin projesi Müdürlükte muhafaza edilir. Düzenlenen belgelerin aslı mesul müdüre imza karşılığında verilir.\n (4) Sağlık kuruluşunun ruhsatlandırma işlemleri, fiziki noksanlık ve başvuru belgelerinde eksiklik veya uygunsuzluk bulunmaması kaydıyla Bakanlığa gönderildiği tarihten itibaren otuz iş günü içinde sonuçlandırılır.\n (5) Teknik inceleme ekibi, inceleme sonucunda eksiklik veya uygunsuzluk tespit ederse, tespit edilen eksiklik veya uygunsuzluklar Müdürlük tarafından başvuru sahibine yazılı olarak bildirilir. Eksikliğin veya uygunsuzluğun giderildiğinin başvuru sahibi tarafından Müdürlüğe yazılı olarak bildirilmesinden itibaren üçüncü fıkra hükümleri uygulanır.\n (6) Başvuru sahibi ruhsatlandırma işlemlerine karşı Bakanlık nezdinde yazılı olarak itiraz edebilir. İtiraz dilekçesinin Bakanlık kaydına girdiği tarihten itibaren, otuz iş günü içinde değerlendirme yapılarak sonuç ilgiliye bildirilir.\n (7) Bakanlık; ruhsat, uygunluk belgesi ve faaliyet izin belgesi düzenlenmesi yetkisini valiliklere devredebilir.\n (8) Tıp merkezine ruhsat verilmesinden sonra, Ek-5’te yer alan personelin sayısı, ismi, unvanı, uzmanlık dalı veya meslekî diğer kariyerleri ile ilgili bilgileri ihtiva eden personel listesi, kadro dışı çalışan tabipler de dahil olmak üzere tabiplerle yapılmış sözleşmelerin aslı veya mesul müdür tarafından tasdikli örnekleri Müdürlüğe verilir. Müdürlük tarafından personelini tamamladığı tespit edilen tıp merkezine Ek-2/C’de yer alan tıp merkezi faaliyet izin belgesi yedi iş günü içinde düzenlenir ve bu belgenin verilmesi ile tıp merkezi hasta kabul ve tedavisine başlar.\n (9) Bakanlıkça ruhsatlandırıldığı tarihten itibaren, altı ay içinde faaliyet izin belgesi alarak hasta kabul ve tedavisine başlamayan tıp merkezinin ruhsatı Bakanlık tarafından iptal edilir.",
+      "preview": "(1) Sağlık kuruluşu açacak kişi, Ek-1/A’da yer alan belgelerin olduğu dosya ile Müdürlüğe başvurur. Dosya, dizi pusulası ile kabul edilir. (…",
+      "kitap": null,
+      "kisim": null,
+      "bolum": "ÜÇÜNCÜ BÖLÜM · Planlama, Ön İzin ve Ruhsat",
+      "ayirim": null,
+      "maddeBaslik": "Ruhsat başvurusu ve ruhsat",
+      "sectionPath": [
+        "ÜÇÜNCÜ BÖLÜM · Planlama, Ön İzin ve Ruhsat",
+        "Ruhsat başvurusu ve ruhsat"
+      ]
+    },
+    {
+      "id": "yonetmelik:42369:m:11",
+      "maddeKind": "madde",
+      "maddeNo": "11",
+      "heading": "Madde 11",
+      "text": "(1) Sağlık kuruluşunun bu Yönetmelik kapsamındaki kişilere devri halinde, Ek-1/B’de yer alan belgeler ile birlikte Müdürlüğe başvurulur. Başvuru üzerine, 10 uncu maddeye göre işlem yapılarak yeni sahiplik adına ruhsat düzenlenir.\n (2) Sağlık kuruluşunun devri halinde, son dört ay içinde yapılmış denetimde eksiklik veya uygunsuzluğunun bulunmadığı ve hizmet alanlarında değişikliğin olmadığı durumlarda, teknik inceleme ekibi tarafından yerinde incelemenin tekrarlanmasına gerek olmadan Ek-1/B’deki belgeler değerlendirilerek devralan adına ruhsat düzenlenir.\n (3) Sağlık kuruluşunu devralan kişi, kesin devir tarihinden itibaren on beş iş günü içinde ruhsat almak amacıyla Müdürlüğe başvurmak zorundadır. Devralan kişi adına Bakanlık tarafından ruhsat düzenleninceye kadar sağlık kuruluşu yalnızca eski sahipliğin ve mesul müdürün sorumluluğunda faaliyetine devam edebilir.\n (4) Sağlık kuruluşunun denetimi sırasında tespit edilen eksiklik veya uygunsuzluklardan dolayı devralan, devredenin sorumluluklarını da almış sayılır. Denetim sırasında tespit edilen eksiklik veya uygunsuzluklardan dolayı devredene verilen süre, devralanın talebi halinde yeniden verilir. Sağlık kuruluşunun faaliyetinin durdurulması halinde devralan, faaliyet durdurma süresinin tamamlanmasını beklemek zorundadır.\n (5) Ruhsatı askıda olan sağlık kuruluşunun ruhsatı askı süresince sadece bir kez devredilebilir.\n (6) Bu madde hükmünce devralınan sağlık kuruluşu iki yıl içinde yeniden devredilemez.",
+      "preview": "(1) Sağlık kuruluşunun bu Yönetmelik kapsamındaki kişilere devri halinde, Ek-1/B’de yer alan belgeler ile birlikte Müdürlüğe başvurulur. Baş…",
+      "kitap": null,
+      "kisim": null,
+      "bolum": "ÜÇÜNCÜ BÖLÜM · Planlama, Ön İzin ve Ruhsat",
+      "ayirim": null,
+      "maddeBaslik": "Sağlık kuruluşunun devri",
+      "sectionPath": [
+        "ÜÇÜNCÜ BÖLÜM · Planlama, Ön İzin ve Ruhsat",
+        "Sağlık kuruluşunun devri"
+      ]
+    },
+    {
+      "id": "yonetmelik:42369:m:12",
+      "maddeKind": "madde",
+      "maddeNo": "12",
+      "heading": "Madde 12",
+      "text": "(1) Tıp merkezi, poliklinik ve müessese, Bakanlık izniyle yalnızca bulunduğu il içinde taşınabilir.\n (2) Birinci fıkrada yer alan sağlık kuruluşunun taşınmak istenmesi halinde, Bakanlığa başvurulur. Taşınma işlemlerinde aşağıdaki hususlara uyulur:\n a) Tıp merkezi taşınmalarında iki yıl içinde ön izin belgesi almak ve ön izin tarihinden itibaren iki yıl içinde ruhsatlandırılmak suretiyle toplam dört yıl içinde taşınma işlemlerinin tamamlanması zorunludur. Bu süre içinde sağlık kuruluşu, faaliyetine mevcut kapasitesi ile devam edebilir veya faaliyetini askıya alabilir ve Müdürlüğe tebligat adresi bildirerek kuruluş binasını boşaltabilir.\n b) Poliklinik ve müessese taşınmalarında bir yıl içinde ön izin belgesi almak ve ön izin tarihinden itibaren iki yıl içinde ruhsatlandırılmak suretiyle toplam üç yıl içinde taşınma işlemlerinin tamamlanması zorunludur. Bu süre içinde sağlık kuruluşu, faaliyetine mevcut kapasitesi ile devam edebilir veya faaliyetini askıya alabilir ve Müdürlüğe tebligat adresi bildirerek kuruluş binasını boşaltabilir.\n (3) Farklı isimlerle ruhsatlandırılmış poliklinikler, taşınma talebinde bulunur ise bu Yönetmelikte aranan şartların sağlanması koşuluyla (Danıştay Onuncu Dairesinin 17/12/2025 tarihli ve E.:2025/4199 sayılı kararı ile yürütmesi durdurulan ibare: aynı il içinde) taşınmaya izin verilir.\n (4) Tıp merkezi, poliklinik ve müessese ile ilgili mevzuatı kapsamında ruhsatlı müstakil radyoloji merkezi ve tıbbi laboratuvarlar, Bakanlık izniyle yalnızca bulunduğu il içinde tıp merkezi bünyesinde birleşebilir. Birleşen kuruluşların ruhsatlarında kayıtlı tabip kadroları, planlama kapsamındaki cihazlar, ünite ve merkezler birleştiği kuruluşun ruhsatına işlenir. Birleşme işlemi iki yıl içinde tamamlanır. Ancak tıp merkezinde birleşerek taşınma söz konusu ise birleşme işlemi ikinci fıkrada yer alan süre içinde tamamlanır. Bu süre içinde sağlık kuruluşu, faaliyetine mevcut kapasitesi ile devam edebilir veya faaliyetini askıya alabilir ve Müdürlüğe tebligat adresi bildirerek kuruluş binasını boşaltabilir.\n (5) Aynı il içindeki iki veya daha fazla polikliniğin birleşerek tıp merkezinde aranan kadro ve bina şartlarını sağlaması halinde tıp merkezi olarak ruhsatlandırılmalarına izin verilir. Birleşen ruhsat sayısı kadar Bakanlıkça planlama kapsamında uygun görülen uzman tabip kadroları kuruluş ruhsatına eklenir.\n (6) Planlamaya uygun olmak kaydıyla tıp merkezi, özel hastane bünyesinde birleşebilir.\n (7) Birleşme ve taşınma talebinde bulunan özel sağlık kuruluşları, bu işlemler tamamlanmadan veya bu talepleri ile ilgili iptal dilekçelerini ibraz etmeden yeni talepte bulunamazlar.\n (8) Birleşme işlemi tamamlanan özel sağlık kuruluşları tekrar ayrılma talebinde bulunamaz.",
+      "preview": "(1) Tıp merkezi, poliklinik ve müessese, Bakanlık izniyle yalnızca bulunduğu il içinde taşınabilir. (2) Birinci fıkrada yer alan sağlık kuru…",
+      "kitap": null,
+      "kisim": null,
+      "bolum": "ÜÇÜNCÜ BÖLÜM · Planlama, Ön İzin ve Ruhsat",
+      "ayirim": null,
+      "maddeBaslik": "Birleşme, taşınma ve dönüşüm",
+      "sectionPath": [
+        "ÜÇÜNCÜ BÖLÜM · Planlama, Ön İzin ve Ruhsat",
+        "Birleşme, taşınma ve dönüşüm"
+      ]
+    },
+    {
+      "id": "yonetmelik:42369:m:13",
+      "maddeKind": "madde",
+      "maddeNo": "13",
+      "heading": "Madde 13",
+      "text": "(1) Muayenehane açacak tabipler, Ek-1/C’de yer alan belgelerle birlikte Müdürlüğe başvurur. Müdürlük, açılmak istenen muayenehanenin Ek-15/B’de yer alan şartları taşıyıp taşımadığını yerinde inceler. Uygun görülen ve şartları sağlayan muayenehane için tabipler adına Müdürlük tarafından örneği Ek-2/Ç’de yer alan uygunluk belgesi düzenlenir.\n (2) Her tabip için Ek-15/B’de yer alan şartlarda, ayrı muayene odası bulunması ve uzmanlık dalının gerektirdiği şartların sağlanması kaydıyla, aynı dairede en fazla üç tabip muayenehane faaliyeti gösterebilir. Bu durumda her bir tabip için ayrı uygunluk belgesi düzenlenir.",
+      "preview": "(1) Muayenehane açacak tabipler, Ek-1/C’de yer alan belgelerle birlikte Müdürlüğe başvurur. Müdürlük, açılmak istenen muayenehanenin Ek-15/B…",
+      "kitap": null,
+      "kisim": null,
+      "bolum": "ÜÇÜNCÜ BÖLÜM · Planlama, Ön İzin ve Ruhsat",
+      "ayirim": null,
+      "maddeBaslik": "Muayenehane standardı ve açılması",
+      "sectionPath": [
+        "ÜÇÜNCÜ BÖLÜM · Planlama, Ön İzin ve Ruhsat",
+        "Muayenehane standardı ve açılması"
+      ]
+    },
+    {
+      "id": "yonetmelik:42369:m:14",
+      "maddeKind": "madde",
+      "maddeNo": "14",
+      "heading": "Madde 14",
+      "text": "(1) Muayenehane hariç sağlık kuruluşunda genel çalışma saatleri içinde bu maddede tanımlanan görevleri yapmak üzere kuruluşun kadrosunda görev yapan bir tabip/uzman tabip mesul müdür bulunur. Mesul müdür, adına çalışma belgesi düzenlenmesi kaydıyla isterse sağlık kuruluşunda mesleğini icra edebilir. Mesul müdür için Ek-3’te yer alan mesul müdürlük belgesi düzenlenir.\n (2) Kuruluşun, genel çalışma saatleri dışında hizmet verdiği sürelerde ve mesul müdürün hukuken kabul edilebilir mazeret hallerinde yerine, mesul müdürün yazılı şekilde yetki devri yaptığı ve kuruluşun kadrosunda görev yapan bir tabibin/uzman tabibin bulunması zorunludur.\n (3) Mesul müdür, tabiplik mesleğini sadece mesul müdürlük yaptığı sağlık kuruluşunda serbest olarak yürütür. Mesul müdürün muayenehane de dahil olmak üzere, başka bir sağlık kuruluşunda mesleğini serbest icra etmesi yasaktır.\n (4) Mesul müdür olarak görevlendirilecek olan tabibin aşağıdaki nitelikleri taşıması şarttır:\n a) 1219 sayılı Kanun uyarınca Türkiye’de mesleğini yapma hak ve yetkisine sahip olmak.\n b) Türk vatandaşı olmak.\n c) Kamu veya özel sağlık kurum veya kuruluşlarında çalışmamak.\n ç) Tıp merkezinde mesul müdürlük görevini icra edebilmek için Türkiye’de iki yılı kamu ya da özel sağlık kuruluşlarında olmak üzere, en az üç yıl tabiplik yaptığını gösteren belge veya belgeleri haiz olmak.\n d) 1219 sayılı Kanunun 28 inci maddesi kapsamında tabiplik mesleğinden yasaklı olmamak.\n e) İlgili tabip odasına kayıtlı olmak.\n (5) Mesul müdürün görevleri şunlardır:\n a) Sağlık kuruluşunun ruhsat alındıktan sonraki faaliyeti ile ilgili her türlü işlemleri yürütmek.\n b) Bu Yönetmelikte ve iç hizmet işleyişinde tanımlanmış altyapı ve sağlıkta kalite standartlarının korunmasını ve sürdürülmesini sağlamak.\n c) Sağlık kuruluşunun faaliyeti sırasında, ruhsat verilmesi şartlarında meydana gelen değişiklikleri zamanında Müdürlüğe bildirmek.\n ç) Görevinden herhangi bir sebeple ayrılan sağlık personelinin çalışma belgelerini en geç beş iş günü içinde Müdürlüğe iade etmek.\n d) Sağlık kuruluşundaki hizmetlerin düzenli ve sürekli olarak yürütülmesini sağlamak.\n e) Sağlık kuruluşu adına ilgili belgeleri onaylamak.\n f) Çalışma saatleri dışında ve mazeret hallerinde mesul müdürlük görevini yazılı şekilde devrettiği tabip tarafından, mesul müdürlük ile ilgili sorumlulukların düzenli ve sürekli olarak yerine getirilmiş olup olmadığını görevine başladığı zaman incelemek.\n g) Nöbet hizmetlerini düzenlemek.\n ğ) Bu Yönetmeliğe, tâbi olunan ilgili diğer mevzuata ve sağlık kuruluşunun iç işleyişi konusunda hazırlanıp çalışanlara duyurulan düzenlemelere, ilgililer tarafından uyulmasını sağlamak ve bunun için gerekli iç denetimleri yürütmek.\n h) Denetimler sırasında, yetkililere gereken bilgi ve belgeleri sunmak ve denetime yardımcı olmak.\n ı) 25/1/2017 tarihli ve 29959 sayılı Resmî Gazete’de yayımlanan Tıbbi Atıkların Kontrolü Yönetmeliği hükümlerinin uygulanmasını sağlamak.\n i) Sağlık kuruluşunda bulunan cihaz ve malzemelerin sterilizasyonunu, cihazların kalibrasyonunu temin etmek.\n j) Sağlık kuruluşu çalışanlarının, işyeri çalışanı sağlığı açısından hepatit markeri ve bulaşıcı hastalıklar yönünden diğer gerekli görülen tetkiklerini ve muayenelerini, yılda en az bir defa periyodik olarak yaptırmak.\n k) Ortaklarda meydana gelen değişiklikleri on beş iş günü içinde Müdürlüğe bildirmek.\n l) Sağlık kuruluşunun faaliyet sahası ile ilgili diğer mevzuatta belirtilen ve kendisi tarafından yürütülmesi öngörülen görevleri yerine getirmek.\n (6) Mesul müdür, sağlık kuruluşunun faaliyeti ve denetimi ile ilgili her türlü işlemde Müdürlüğün ve Bakanlığın birinci derecede muhatabıdır. Mesul müdür idari işlerden bizzat, tıbbi işlemlerden ise diğer tabipler ile birlikte sorumludur.\n (7) Mesul müdürün; istifası, görevine son verilmesi, mesul müdürlük şartlarını herhangi bir şekilde kaybetmesi veya vefatı gibi hallerde işleten tarafından, böyle bir durumun ortaya çıkmasından itibaren en geç on beş iş günü içinde yeni bir mesul müdür bu Yönetmelik hükümlerine uygun olarak görevlendirilir. Mesul müdürlük belgesi düzenlenmesi amacıyla gereken belgeler ile birlikte Müdürlüğe başvurulur. Bu hallerde, yeni mesul müdür adına belge düzenleninceye kadar, sağlık kuruluşunda çalışan ve mesul müdürlük şartını taşıyan bir tabip Müdürlüğe yazılı olarak bildirilir.\n (8) Mesul müdür, iş akdinde belirlenen izin hakları ile hastalık ve kabul edilebilir sair zorlayıcı sebeplerden dolayı sağlık kuruluşundan ayrılır ise ayrılma tarihinden itibaren en geç üç iş günü içinde işleten tarafından, mesul müdürlük şartını taşıyan ve sağlık kuruluşunda tam zamanlı çalışan bir tabibin, o süre boyunca mesul müdürlük görevini yürüteceği Müdürlüğe yazılı olarak bildirilir.\n (9) İlgili mevzuata göre meslekten geçici men edilenler, bu yasakları süresince mesul müdürlük yapamazlar. İşleten tarafından, meslekten geçici men cezası süresince mesul müdürlük görevini yürütmek üzere, yasağın uygulanmaya başlandığı tarihten itibaren en geç üç iş günü içinde sağlık kuruluşunda tam zamanlı çalışan ve mesul müdürlük şartını taşıyan bir tabibin görevlendirilmesi ve yazılı olarak Müdürlüğe bildirilmesi gerekir.\n (10) Mesul müdürün sağlık kuruluşundan ayrılmasından itibaren bir ay içinde yerine başkası atanmazsa, yeni mesul müdürün görevlendirilmesi işlemleri tamamlanıncaya kadar kuruluşun faaliyeti askıya alınır. Bu kapsamda askı süresi tıp merkezi için en fazla 2 yıl, poliklinik ve müessese için 1 yıldır.",
+      "preview": "(1) Muayenehane hariç sağlık kuruluşunda genel çalışma saatleri içinde bu maddede tanımlanan görevleri yapmak üzere kuruluşun kadrosunda gör…",
+      "kitap": null,
+      "kisim": null,
+      "bolum": "DÖRDÜNCÜ BÖLÜM · Sağlık Kuruluşunun Çalışanları ve Personel Standartları",
+      "ayirim": null,
+      "maddeBaslik": "Mesul müdür",
+      "sectionPath": [
+        "DÖRDÜNCÜ BÖLÜM · Sağlık Kuruluşunun Çalışanları ve Personel Standartları",
+        "Mesul müdür"
+      ]
+    },
+    {
+      "id": "yonetmelik:42369:m:15",
+      "maddeKind": "madde",
+      "maddeNo": "15",
+      "heading": "Madde 15",
+      "text": "(1) Tıp merkezinin uzman tabip kadroları, Bakanlık tarafından oluşturulan elektronik sisteme kaydedilir. Bu merkezlere verilecek yeni kadrolar, tabip ayrılış ve başlayışları bu sistem üzerinden yürütülür.\n (2) Personel çalışmasında aşağıdaki şartlara uyulur:\n a) Sağlık personeli, muayenehane hariç sağlık kuruluşu kadrosunda sözleşme ile 31/5/2006 tarihli ve 5510 sayılı Sosyal Sigortalar ve Genel Sağlık Sigortası Kanununun 4 üncü maddesinin birinci fıkrasının (a) bendi kapsamında sigortalı olarak EKİP üzerinden personel çalışma belgesi düzenlenerek çalışır. Personel çalışma belgesi gerektiğinde EKİP üzerinden ibraz ve kontrol edilir.\n b) Muayenehanede Bakanlık tarafından belirlenen ünvanda sağlık personeli ve ayrıca sekreter istihdam edilebilir. Tabip harici sağlık personeli, muayenehanede personel çalışma belgesi düzenlenerek çalışır.\n (3) Sağlık kuruluşunda, hasta kabul ve tedavi edilen uzmanlık dalları için Ek-5’te yer alan nitelikte ve asgari sayıda tabip ve tabip harici sağlık personeli istihdam edilmek zorundadır.\n (4) Sağlık personelinin birden fazla sağlık kuruluşunda çalışmasında aşağıdaki şartlara uyulur:\n a) Planlama kapsamındaki sağlık kuruluşunda çalışan tabip/uzman tabipler ve diş tabipleri, Bakanlığın istihdam planlamaları gereğince, 1219 sayılı Kanunun 12 nci maddesine uygun olmak kaydıyla aynı ilde kadrolu çalıştığı sağlık kuruluşu dışında planlama kapsamındaki bir sağlık kuruluşunda da kadro dışı geçici çalışabilir.\n b) 60 yaşını dolduran tabipler ile engellilik oranı en az %60 olan tabipler kadro şartı aranmaksızın 1219 sayılı Kanunun 12 nci maddesine uygun olmak kaydıyla aynı ilde planlama kapsamındaki iki özel sağlık kuruluşunda çalışabilir. Bu fıkra kapsamında çalışan tabipler bu Yönetmeliğin diğer maddeleri kapsamında kadrolu veya kadro dışı geçici çalışamaz.\n c) Ücretli veya ücretsiz izinli sayılarak yurt dışına gönderilen kamu görevlisi tabipler ile ilgili mevzuattan kaynaklanan yükümlülükleri bulunanlar hariç olmak üzere yurt dışında en az iki yıl süreyle mesleğini icra eden tabipler, yurtdışından döndükten sonra Türkiye’de çalışmak üzere tercih edecekleri muayenehaneler hariç planlama kapsamındaki özel sağlık kuruluşlarında bir kereye mahsus olmak üzere planlamadan istisna tutularak kadro dışı geçici olarak çalışabilir.\n ç) Bu Yönetmelik kapsamındaki kadro dışı geçici çalışma hükümleri, tabiplere yönelik bir hak olup özel sağlık kuruluşuna müktesep kadro hakkı vermez. Müdürlükçe kadro dışı geçici çalışan tabip adına Ek-3/B’de yer alan personel çalışma belgesi düzenlenir. Kadro dışı geçici çalışma gün ve saatleri, kadrolu çalışılan kuruluşla yapılan sözleşmede açıkça belirtilir. Kadro dışı geçici çalışılan uzmanlık dalları kuruluşun ruhsatına/faaliyet izin belgesine/uygunluk belgesine, çalışma şekli de belirtilerek eklenir. Bu uzman tabiplerin görev yaptığı sağlık kuruluşundan ayrılması halinde yerine üç ay içinde aynı şekilde çalışacak uzman tabip bulunamaz ise ilgili uzmanlık dalı sağlık kuruluşunun ruhsatından/faaliyet izin belgesinden/uygunluk belgesinden çıkarılır.\n d) Sağlık kuruluşunda kadrolu ve kadro dışı geçici çalışan her bir tabip için poliklinik muayene odası oluşturulabilir ve bu amaçla eksik olan poliklinik odası eklenebilir. Kuruluşta kadrolu ve kadro dışı geçici çalışan tabip sayısından fazla poliklinik odasının olması, tabip sayısı artırma hakkı vermez.\n e) Muayenehane hariç olmak üzere sağlık kuruluşu, Bakanlıkça izin verilmesi kaydıyla yabancı tabip ve tabip dışı sağlık meslek mensubu çalıştırabilir. Ancak bu şekilde verilecek izin, sağlık kuruluşuna planlama kapsamında cihaz ve ünite ekleme hakkı vermez. Bu bent doğrultusunda yapılacak başvurular, 22/2/2012 tarihli ve 28212 sayılı Resmî Gazete’de yayımlanan Yabancı Sağlık Meslek Mensuplarının Türkiye'de Özel Sağlık Kuruluşlarında Çalışma Usul ve Esaslarına Dair Yönetmelik çerçevesinde yürütülür.\n f) Özel sağlık kuruluşlarında çalışan tabip/uzman tabipler, 1219 sayılı Kanunun 12 nci maddesine uygun olmak kaydıyla, çalıştıkları sağlık kuruluşundaki çalışma saatleri dışında aynı il içinde başka bir tıp merkezinin acil ünitesinde nöbet tutabilir. Bu tabiplerin nöbet listesi aylık olarak düzenlenir ve Müdürlükçe onaylanır.\n g) Sağlık kuruluşunda çalışan tabip dışı sağlık personeli, aynı il içinde en fazla bir sağlık kuruluşunda daha çalışabilir.\n (5) Sağlık personelinin işten ayrılışları, en geç on iş günü içinde Müdürlüğe bildirilir ve personel çalışma belgesi iptal edilir. İşten ayrılan uzman tabip yerine aynı uzmanlık dalında tabip başlatılabilir. Yan dal uzmanlığı bulunanlar, Bakanlıkça planlama amacıyla oluşturulan komisyonlardan uygun görüş alınarak ana dalda başlatılabilir. Ayrıca, tıp merkezinde ve poliklinikte ayrılan uzman tabip haricinde o dalda başka bir uzman tabip çalışmıyor ise derhal ilgili uzmanlık dalında hasta kabulü durdurulur ve durum Müdürlüğe bildirilir.\n (6) Bakanlık tarafından EKİP sistemine kaydedilen bir uzmanlık dalında iki yıl süre ile kadrolu tabip çalışmaması halinde bu kadro, Bakanlıkça iptal edilir. İki yıllık süre hesabında altı aydan kısa süreli çalışmalar dikkate alınmaz.",
+      "preview": "(1) Tıp merkezinin uzman tabip kadroları, Bakanlık tarafından oluşturulan elektronik sisteme kaydedilir. Bu merkezlere verilecek yeni kadrol…",
+      "kitap": null,
+      "kisim": null,
+      "bolum": "DÖRDÜNCÜ BÖLÜM · Sağlık Kuruluşunun Çalışanları ve Personel Standartları",
+      "ayirim": null,
+      "maddeBaslik": "Personel çalışması",
+      "sectionPath": [
+        "DÖRDÜNCÜ BÖLÜM · Sağlık Kuruluşunun Çalışanları ve Personel Standartları",
+        "Personel çalışması"
+      ]
+    },
+    {
+      "id": "yonetmelik:42369:m:16",
+      "maddeKind": "madde",
+      "maddeNo": "16",
+      "heading": "Madde 16",
+      "text": "(1) Muayenehanesi bulunan tabipler, 1219 sayılı Kanunun 12 nci maddesinin üçüncü fıkrası gereğince hizmet bedeli hasta tarafından karşılanmak ve Sosyal Güvenlik Kurumundan talep edilmemek kaydıyla, muayenehanesine müracaat eden hastalarının tedavisini sözleşme yapmak suretiyle ilgili branşta kadrosu bulunan (Danıştay Onuncu Dairesinin 17/12/2025 tarihli ve E.:2025/2328 sayılı kararı ile yürütmesi durdurulan ibare: ve en az 3000 m2 kapalı alan ile 10 uzman tabip kadrosunu haiz) tıp merkezinde yapabilir.\n (2) (Danıştay Onuncu Dairesinin 17/12/2025 tarihli ve E.:2025/2328 sayılı kararı ile yürütmesi durdurulan fıkra: Birinci fıkra kapsamındaki tıp merkezi, ilgili uzmanlık dalındaki toplam kadro sayısının üçte birini aşmayacak şekilde tabiple sözleşme yapabilir. Muayenehanesi bulunan 60 yaş üstü tabipler ile engellilik oranı en az %60 olan tabipler, sözleşme yaptığı tıp merkezinin birinde bu kadro sınırlamasına tabi tutulmaz.)\n (3) Muayenehanenin bulunduğu ilde ilgili uzmanlık dalında sözleşme yapılabilecek uygun tıp merkezi bulunmadığı hallerde talep edilmesi halinde Bakanlığın uygun görüşüyle yakın bir ildeki tıp merkezi ile sözleşme yapılabilir.\n (4) (Danıştay Onuncu Dairesinin 4/5/2026 tarihli ve E.:2025/3036 sayılı kararı ile yürütmesi durdurulan fıkra: Sözleşme imzalanan tıp merkezinde muayenehaneden gelen hastaya öngörülen müdahalenin yapılamadığı durumlarda tabibin istediği başka bir tıp merkezinde bu işlemin yapılması için ilgili müdürlük tarafından vaka bazlı özel izin verilebilir.)\n (5) Muayenehane tabibiyle yapılan sözleşmenin taraflarca imzalanmış nüshası imzalandığı tarihten itibaren 5 iş günü içinde tıp merkezi tarafından EKİP sistemine yüklenerek Müdürlüğe gönderilir. Sözleşme, Müdürlüğün onayı halinde geçerli olur. Sözleşmenin sona erdiği hallerde bu durum sözleşme bitiş tarihinden itibaren en geç 5 iş günü içinde Müdürlüğe bildirilir.\n (6) Sözleşme kapsamında tıp merkezinde tedavi gören hastalar, tıp merkezindeki tedavi masraflarının kendileri tarafından karşılanacağı hususu ile tıbbi müdahalenin konusu ve sonuçları hakkında muayenehanede bilgilendirilir ve hastanın bilgileri tedavi olacağı özel tıp merkezine, muayene bilgi yönetim sistemi üzerinden Bakanlıkça belirlenen form ile gönderilir. Tıp merkezinde gerçekleştirilecek tedavi öncesi muayenehane hastalarına ilişkin bilgilendirilmiş rıza formu hasta veya kanuni temsilcisi, muayenehane tabibi, tıp merkezinde ilgili birim sorumlusu tarafından imzalanır.\n (7) Tıp merkezindeki tedavisi süresince ilgili tabip tarafından hastaya kesintisiz hizmet sunumu sağlanır. Hastaya sunulan teşhis ve tedavi hizmetlerinden muayenehane tabibi ve özel tıp merkezi müştereken sorumludur.\n (8) Tıp merkezinin mesul müdürü her ay sonu sözleşme kapsamında muayenehaneden gelen hastaların sayısı ve tabip ismini Müdürlüğe bildirir.\n (9) Bu madde kapsamında tedavi gören hastalara tıp merkezi tarafından sunulan tüm hizmet ve kullanılan ilaç/malzemeleri gösteren ayrıntılı fatura düzenlenir.",
+      "preview": "(1) Muayenehanesi bulunan tabipler, 1219 sayılı Kanunun 12 nci maddesinin üçüncü fıkrası gereğince hizmet bedeli hasta tarafından karşılanma…",
+      "kitap": null,
+      "kisim": null,
+      "bolum": "DÖRDÜNCÜ BÖLÜM · Sağlık Kuruluşunun Çalışanları ve Personel Standartları",
+      "ayirim": null,
+      "maddeBaslik": "Muayenehane tabiplerinin tıp merkezinde hasta tedavisi",
+      "sectionPath": [
+        "DÖRDÜNCÜ BÖLÜM · Sağlık Kuruluşunun Çalışanları ve Personel Standartları",
+        "Muayenehane tabiplerinin tıp merkezinde hasta tedavisi"
+      ]
+    },
+    {
+      "id": "yonetmelik:42369:m:17",
+      "maddeKind": "madde",
+      "maddeNo": "17",
+      "heading": "Madde 17",
+      "text": "(1) Sağlık kuruluşunda çalışan tüm sağlık personelinin, hizmetin gereklerine uygun olarak önlük veya üniforma giymesi zorunludur. Sağlık kuruluşu yönetimi, önlük veya üniforma seçimi ile ilgili sağlık meslek mensuplarının birbiri ile karışmasını önleyecek şekilde düzenleme yapmak zorundadır.\n (2) Sağlık personeli tarafından kullanılan önlük veya üniforma, söz konusu sağlık kuruluşunda görev yapan sağlık personeli haricindeki kişiler tarafından kullanılamaz.\n (3) Bütün personelin yakasına; personelin adını, soyadını, mesleğini ve ünvanını belirten ve mesul müdürlükçe onaylanmış olan fotoğraflı bir kimlik kartı takması şarttır. Kimlik kartlarının Bakanlığın elektronik sistemi ile uyumlu karekod içermesi zorunludur.",
+      "preview": "(1) Sağlık kuruluşunda çalışan tüm sağlık personelinin, hizmetin gereklerine uygun olarak önlük veya üniforma giymesi zorunludur. Sağlık kur…",
+      "kitap": null,
+      "kisim": null,
+      "bolum": "DÖRDÜNCÜ BÖLÜM · Sağlık Kuruluşunun Çalışanları ve Personel Standartları",
+      "ayirim": null,
+      "maddeBaslik": "Kıyafet ve kimlik kartı",
+      "sectionPath": [
+        "DÖRDÜNCÜ BÖLÜM · Sağlık Kuruluşunun Çalışanları ve Personel Standartları",
+        "Kıyafet ve kimlik kartı"
+      ]
+    },
+    {
+      "id": "yonetmelik:42369:m:18",
+      "maddeKind": "madde",
+      "maddeNo": "18",
+      "heading": "Madde 18",
+      "text": "(1) Tıp merkezi, ruhsatında yazılı olmak kaydıyla çalışma günlerinde sekiz saatten az olmamak üzere belirlenen sürede hizmet sunabilir. 10 uzman tabip kadrosu ve en az 3000 m² kapalı alana sahip tıp merkezi kesintisiz hizmet sunar.\n (2) Tıp merkezinde, hasta kabul ve tedavi edilen uzmanlık dallarında görev yapan uzman tabiplerin isimleri ve çalışma saatleri bulunan ve mesul müdür tarafından onaylanan bir liste, bekleme salonunda dijital olarak bulunur.\n (3) Tıp merkezinde;\n a) Faaliyet gösterilen uzmanlık dallarının gerekli kıldığı, bu Yönetmelikte belirlenen asgari şartlar bulunur.\n b) Diş tabipliği hizmeti de sunulacak ise, aynı zaman kesitinde çalışan her diş tabibi için bir diş üniti bulundurulur.\n c) Kesintisiz hizmet sunuluyor ise kuruluşun çalışma saatleri dışında en az bir tabip, nöbetçi tabip olarak; faaliyet gösterilen uzmanlık dallarındaki uzman tabipler ise “icapçı” konumunda görev yapar. Mesul müdür tarafından düzenlenen Ek-3/C’de yer alan çalışma belgesi ile üstlerinde fotoğraflı “nöbetçi tabip” yazılı kimlik kartı bulunmak kaydıyla, kuruluşta çalışan tabip/uzman tabipler nöbet tutar. Ayrıca, nöbetçi tabip listesi aylık olarak hazırlanır ve mesul müdür tarafından onaylanarak dosyalanır.\n ç) En az iki tabibe bir poliklinik muayene odası ayrılır. Ancak, çalışan her tabip için ayrı poliklinik muayene odası da düzenlenebilir.",
+      "preview": "(1) Tıp merkezi, ruhsatında yazılı olmak kaydıyla çalışma günlerinde sekiz saatten az olmamak üzere belirlenen sürede hizmet sunabilir. 10 u…",
+      "kitap": null,
+      "kisim": null,
+      "bolum": "BEŞİNCİ BÖLÜM · Sağlık Kuruluşunun Çalışma Usul ve Esasları",
+      "ayirim": null,
+      "maddeBaslik": "Tıp merkezi",
+      "sectionPath": [
+        "BEŞİNCİ BÖLÜM · Sağlık Kuruluşunun Çalışma Usul ve Esasları",
+        "Tıp merkezi"
+      ]
+    },
+    {
+      "id": "yonetmelik:42369:m:19",
+      "maddeKind": "madde",
+      "maddeNo": "19",
+      "heading": "Madde 19",
+      "text": "(1) Cerrahi uzmanlık dalında hizmet veren tıp merkezinde gerçekleştirilecek cerrahi müdahale vakasının ve bu vakaya uygulanacak yöntemin seçiminde;\n a) Cerrahi müdahale sonrası hastaya yapılacak olan gerekli tıbbi bakım süresinin yirmi dört saatte tamamlanabilir olması ve bu sağlık kuruluşunun yirmi dört saat çalışma esasına göre hizmet sunması,\n b) Cerrahi müdahale yapılacak vakanın ve bu vakaya uygulanacak yöntemin, bu cerrahi müdahale sonrasında çıkması muhtemel sağlık sorunlarının herhangi bir yataklı tedavi kuruluşunda aynı sorunun çözümü için gereken ve cerrahi müdahalenin devamı niteliğinde olan ikinci bir müdahaleyi gerektirmeyecek tür ve nitelikte olması,\n zorunludur.\n (2) Tıp merkezinde cerrahi müdahale uygulanan hastaların gözlem altında bulundurulma süresi yirmi dört saattir. Hastanın sağlık durumuna göre bu süre gözlem maksadıyla en fazla altı saat daha uzatılabilir. Gözlem altında bulundurulan hastalar ile ilgili takip bulguları ve yapılan her türlü müdahaleler ve tıbbi bakım, hasta dosyasına ilgili tabip tarafından kaydedilir.\n (3) Tıp merkezinde gözlem altında tutulan hastalar için, nöbetçi tabip bulunması gerekir. Gözlem altında hastası bulunan uzman tabipler, icapçı olarak nöbet tutar. Ayrıca, taburcu edilen hastalara, cerrahi müdahale sonrasında ortaya çıkması muhtemel sorunları bakımından, ilgili tabibine kolaylıkla ulaşabilecekleri irtibat numarası verilir.\n (4) Tıp merkezinde müdahale yapılan hastalarda müdahaleye bağlı olarak gelişen komplikasyonlar veya yoğun bakım hizmetine ihtiyaç olan durumlar ile bu Yönetmelikte izin verilen takip süresinden fazla yatış ihtiyacı doğan hastalar için tıp merkezi tarafından, önceden sözleşme ile belirlenmiş, koordineli olarak çalışılan ve bu hizmetlerin alındığı özel veya kamu hastaneleriyle gereken koordinasyon sağlanarak hasta transfer edilir.\n (5) Cerrahi müdahale biriminin faaliyet gösterebilmesi için, cerrahi müdahale uygulama izin belgesi alınması zorunludur. Sadece, bu izin belgesinde belirtilen uzmanlık dallarında cerrahi müdahale yapılabilir.\n (6) Ameliyathanenin yönetimi, alet ve malzemenin sağlanması, bakım, onarım ihtiyaçlarının saptanarak yaptırılmak üzere ilgililere bildirilmesi ve burada çalışan personelin yönetimi ve eğitimlerinin yapılması amacıyla sorumlu cerrahi dallarından bir uzman ameliyathane sorumlusu olarak görevlendirilir.\n (7) Cerrahi müdahale birimi; yalnızca en az 3000 m2 kapalı alan ve 10 uzman tabip kadrosunu haiz tıp merkez bünyesine eklenebilir.\n (8) Tıp merkezinde, ASA Skoru elektronik sistem üzerinden Bakanlığa bildirilmeyen ameliyatlar yapılamaz.\n (9) Tıp merkezinde, ASA Skoru üç ve üzerinde olan hastaların ameliyatı gerçekleştirilemez.",
+      "preview": "(1) Cerrahi uzmanlık dalında hizmet veren tıp merkezinde gerçekleştirilecek cerrahi müdahale vakasının ve bu vakaya uygulanacak yöntemin seç…",
+      "kitap": null,
+      "kisim": null,
+      "bolum": "BEŞİNCİ BÖLÜM · Sağlık Kuruluşunun Çalışma Usul ve Esasları",
+      "ayirim": null,
+      "maddeBaslik": "Tıp merkezinde cerrahi müdahale ve gözlem hizmetleri",
+      "sectionPath": [
+        "BEŞİNCİ BÖLÜM · Sağlık Kuruluşunun Çalışma Usul ve Esasları",
+        "Tıp merkezinde cerrahi müdahale ve gözlem hizmetleri"
+      ]
+    },
+    {
+      "id": "yonetmelik:42369:m:20",
+      "maddeKind": "madde",
+      "maddeNo": "20",
+      "heading": "Madde 20",
+      "text": "(1) Poliklinik, resmî çalışma günlerinde sekiz saatten az olmamak üzere daha uzun süreli de hizmet verebilir ancak 24 saat hizmet veremez ve acil ünitesi kuramaz. Hizmet verilmek istenen çalışma saatleri, ruhsat başvuruları sırasında Müdürlüğe bildirilir ve ruhsata bu saatler yazılır. Poliklinikte çalışma saatleri içinde, mesul müdür ve tabiplerden en az biri bulunur.\n (2) Sekiz saatten daha uzun süreli hizmet veren poliklinikte, nöbetler için mesul müdür tarafından düzenlenen Ek-3/C’de yer alan çalışma belgesi ile üstünde fotoğraflı \"nöbetçi tabip\" yazılı kimlik kartı bulunmak kaydıyla, kadrosunda çalışan bir tabip nöbet tutar. Ayrıca nöbetçi tabip listesi haftalık olarak hazırlanır ve mesul müdür tarafından onaylanarak dosyalanır.",
+      "preview": "(1) Poliklinik, resmî çalışma günlerinde sekiz saatten az olmamak üzere daha uzun süreli de hizmet verebilir ancak 24 saat hizmet veremez ve…",
+      "kitap": null,
+      "kisim": null,
+      "bolum": "BEŞİNCİ BÖLÜM · Sağlık Kuruluşunun Çalışma Usul ve Esasları",
+      "ayirim": null,
+      "maddeBaslik": "Poliklinik",
+      "sectionPath": [
+        "BEŞİNCİ BÖLÜM · Sağlık Kuruluşunun Çalışma Usul ve Esasları",
+        "Poliklinik"
+      ]
+    },
+    {
+      "id": "yonetmelik:42369:m:21",
+      "maddeKind": "madde",
+      "maddeNo": "21",
+      "heading": "Madde 21",
+      "text": "(1) Özel hastaneler ve tıp merkezi bünyesinde açılan fizik tedavi ve rehabilitasyon ünitesinin ruhsat belgesi, özel sağlık kuruluşu adına düzenlenir ve kuruluşun faaliyet izin belgesi/uygunluk belgesine eklenir.\n (2) Müessesede çalışan ve 14 üncü maddenin dördüncü fıkrasında yer alan nitelikleri haiz uzman tabiplerden birisi mesul müdür olarak görev yapar. Ünitede bir fizik tedavi ve rehabilitasyon uzmanı, sorumlu tabip olarak görev yapar ve çalışma günlerinde günde sekiz saatten az olmamak üzere sağlık kuruluşunda çalışır. Sorumlu tabip, ünitenin çalışma saatleri dışında 1219 sayılı Kanunun 12 nci maddesine uygun olmak kaydıyla, kadrolu çalıştığı özel sağlık kuruluşu dışında aynı ilde yer alan planlama kapsamındaki bir özel sağlık kuruluşunda da çalışabilir. Fakat birden fazla sağlık kuruluşunda sorumlu tabip olamaz.\n (3) İkinci fıkradaki şartları sağlamak kaydıyla, kadro dışı geçici statüde çalışan fizik tedavi ve rehabilitasyon uzmanları ünite sorumlusu olabilir.\n (4) Fizik tedavi ve rehabilitasyon ünite ruhsatı bulunmayan özel sağlık kuruluşlarında çalışan fizik tedavi ve rehabilitasyon uzmanları, poliklinik hizmeti gibi diğer sağlık hizmetlerinde de bulunabilir.\n (5) Üniteye ruhsat düzenlenmesi, sorumlu tabibin sisteme kaydı ile tabip ayrılışı ve başlayışı gibi işlemler Müdürlükçe yapılarak Bakanlık elektronik sistemine kaydedilir.\n (6) Fizik tedavi ve rehabilitasyon ünite ruhsatı bulunan özel sağlık kuruluşlarında ünitede görev yapacak tabip kalmaz ise ünitenin faaliyeti durdurulur ve bu süre altı ayın üzerinde olursa ünite ruhsatı iptal edilir.\n (7) Fizik tedavi ve rehabilitasyon müessesesi ve ünitesinde yabancı uyruklu tabipler, ilgili mevzuatına uygun olmak kaydıyla çalışabilir ancak müessese/ünite sorumlusu olamazlar.\n (8) Müessese; çalışma günlerinde sekiz saatten az olmamak üzere hizmet verir ve hizmet vermek istediği çalışma saatlerini, ruhsat başvurusu sırasında Müdürlüğe bildirir ve ruhsatnameye bu saatler yazılır. Çalışma saatleri içinde kuruluşta ilgili en az bir uzman tabip bulunur.",
+      "preview": "(1) Özel hastaneler ve tıp merkezi bünyesinde açılan fizik tedavi ve rehabilitasyon ünitesinin ruhsat belgesi, özel sağlık kuruluşu adına dü…",
+      "kitap": null,
+      "kisim": null,
+      "bolum": "BEŞİNCİ BÖLÜM · Sağlık Kuruluşunun Çalışma Usul ve Esasları",
+      "ayirim": null,
+      "maddeBaslik": "Fizik tedavi ve rehabilitasyon müessese ve ünitesi",
+      "sectionPath": [
+        "BEŞİNCİ BÖLÜM · Sağlık Kuruluşunun Çalışma Usul ve Esasları",
+        "Fizik tedavi ve rehabilitasyon müessese ve ünitesi"
+      ]
+    },
+    {
+      "id": "yonetmelik:42369:m:22",
+      "maddeKind": "madde",
+      "maddeNo": "22",
+      "heading": "Madde 22",
+      "text": "(1) Yalnızca, bina kapalı alanı en az 3000 m2 olan ve 10 uzman tabip kadrosunu bünyesinde bulunduran tıp merkezi, acil ünitesi kurar ve kesintisiz hizmet vermek üzere ruhsatlandırılır.\n (2) Tıp merkezinde, nöbetçi tabip, hem gözlem altındaki hastalara yönelik hem de acil hizmeti aksatmayacak şekilde acil ünitesi tabibi olarak görev yapabilir. Acil ünitesindeki gözlem odasında bulunan yataklar, hasta gözlem yatağı sayısına dahil değildir.\n (3) Poliklinik, müessese ile birinci fıkra kapsamı dışında yer alan tıp merkezi, asgari malzeme ve ilaçların bulunduğu bir acil odasını faaliyet gösterdikleri süreler içinde kullanıma hazır bulundurur.\n (4) Acil ünitesi veya odasında bulundurulması zorunlu ve diğer acil hizmetler için kullanılacak ilaçlar bir dolap içinde bulunur. Yeşil ve kırmızı reçeteye tabi ilaçlar kilitli bir ortamda tutulur.\n (5) Sağlık kuruluşunda acil sağlık hizmeti verilmesi ve acil vakaların, hastanın sağlık güvencesi olup olmadığına veya ödeme gücü bulunup bulunmadığına bakılmaksızın kabul edilmesi ve gerekli tıbbi müdahalenin kayıtsız, şartsız ve gecikmeksizin yapılması zorunludur. Sağlık kuruluşu, acil vakalarda gerekli ilk acil tıbbi müdahaleyi yapmaktan kaçınamaz. Hizmet bedelinin tahsiliyle ilgili işlemler, acil müdahale ve bakım sağlandıktan sonra yapılır.\n (6) Acil ünitesine başvuran hastalara, gerekli ilk müdahalenin yapılması, tedavinin devamı için gerekiyorsa hasta gözlem altına alınarak tedavisinin ve eğer gelişirse komplikasyonların tedavisinin tamamlanması esastır. Hastanın; tıbbi durumunun gerektirdiği uzman tabip, tıbbi donanım, müdahale, bakım ve tedavi için gerekli şartların tıp merkezinde sağlanamaması durumunda ise, gerekli ilk müdahalenin yapılmış olması kaydıyla, başka bir sağlık kuruluşuna usulüne uygun şekilde sevki sağlanır. Acil hastaların ihtiyaç durumunda nakledileceği sağlık kuruluşunun belirlenmesi ve nakil işlemleri komuta kontrol merkezinin yönetiminde ve koordinasyonunda yapılır. Acil komuta kontrol merkezi, 11/5/2000 tarihli ve 24046 sayılı Resmî Gazete’de yayımlanan Acil Sağlık Hizmetleri Yönetmeliğinde düzenlenen hizmet akışı çerçevesinde en uygun sağlık kuruluşuna hastanın naklini sağlar.\n (7) Birinci fıkrada yer alan tıp merkezinde, acil durumlarda veya gerekli tıbbi durumlarda hasta naklinde kullanılmak üzere ambulans hizmeti verilmesi zorunludur. Ambulans hizmeti verilebilmesi için aşağıdaki koşullardan birinin bulunması gerekir:\n a) Uygunluk belgesi olan tam donanımlı acil yardım ambulansı bulundurmak.\n b) Gerekli olduğunda çağrıdan itibaren on dakikada tıp merkezinde olunacağı taahhüt edilmek kaydıyla, 8/1/2025 tarihli ve 32776 sayılı Resmî Gazete’de yayımlanan Ambulanslar ve Acil Sağlık Araçları ile Ambulans Hizmetleri Yönetmeliğine göre faaliyet gösteren bir özel ambulans servisi ile ambulans hizmeti alım sözleşmesi yapmış olmak.\n c) (a) veya (b) bentlerinde tanımlanan ambulansların yetersiz olması halinde Müdürlükçe yazılı olarak uygun görülmesi kaydıyla, 112 acil sağlık komuta kontrol merkezi koordinasyonuyla on dakika içinde ulaşabilecek istasyonlar vasıtasıyla ambulans hizmeti verilebileceğini belgelemek.\n (8) Poliklinik, müessese ve acil ünitesi bulunmayan tıp merkezi; acil başvurular ile ilgili beşinci ve altıncı fıkralara uygun şekilde ilk tıbbi müdahale ve diğer işlemler yapıldıktan sonra 112 acil sağlık komuta kontrol merkezi vasıtasıyla veya özel ambulans servisi ambulansı ile hastanın naklini sağlar.",
+      "preview": "(1) Yalnızca, bina kapalı alanı en az 3000 m2 olan ve 10 uzman tabip kadrosunu bünyesinde bulunduran tıp merkezi, acil ünitesi kurar ve kesi…",
+      "kitap": null,
+      "kisim": null,
+      "bolum": "BEŞİNCİ BÖLÜM · Sağlık Kuruluşunun Çalışma Usul ve Esasları",
+      "ayirim": null,
+      "maddeBaslik": "Acil hizmetler ve ambulans",
+      "sectionPath": [
+        "BEŞİNCİ BÖLÜM · Sağlık Kuruluşunun Çalışma Usul ve Esasları",
+        "Acil hizmetler ve ambulans"
+      ]
+    },
+    {
+      "id": "yonetmelik:42369:m:23",
+      "maddeKind": "madde",
+      "maddeNo": "23",
+      "heading": "Madde 23",
+      "text": "(1) Sağlık kuruluşunda, tıbbi atıklar için Tıbbi Atıkların Kontrolü Yönetmeliği hükümlerine uygun olarak gerekli tedbirler alınır. Tıbbi ve evsel atıklar için ayrı ayrı çöp mahalleri tesis edilir. Tıbbi atıkların sağlık kuruluşundan düzenli şekilde alınması konusunda ilgili merciyle sözleşme yapılır.\n ALTINCI BÖLÜM\n Sağlık Kuruluşunun Kayıtları, Bilgilendirme ve Tanıtım\n ile Sağlık Kuruluşu İsimleri",
+      "preview": "(1) Sağlık kuruluşunda, tıbbi atıklar için Tıbbi Atıkların Kontrolü Yönetmeliği hükümlerine uygun olarak gerekli tedbirler alınır. Tıbbi ve…",
+      "kitap": null,
+      "kisim": null,
+      "bolum": "BEŞİNCİ BÖLÜM · Sağlık Kuruluşunun Çalışma Usul ve Esasları",
+      "ayirim": null,
+      "maddeBaslik": "Atıkların imhası",
+      "sectionPath": [
+        "BEŞİNCİ BÖLÜM · Sağlık Kuruluşunun Çalışma Usul ve Esasları",
+        "Atıkların imhası"
+      ]
+    },
+    {
+      "id": "yonetmelik:42369:m:24",
+      "maddeKind": "madde",
+      "maddeNo": "24",
+      "heading": "Madde 24",
+      "text": "(1) Sağlık kuruluşuna başvuran hastalara ait veriler elektronik ortamda kaydedilir. Verilerin kaydedilmesi ve arşivlenmesi hususunda Bakanlığın kayıt tescil sisteminde kayıtlı bir sağlık bilgi yönetim sisteminin, muayenehane için ise muayene bilgi yönetim sisteminin kullanılması zorunludur.\n (2) Sağlık kuruluşu tarafından kayıt altına alınan kişisel sağlık verileri, 24/3/2016 tarihli ve 6698 sayılı Kişisel Verilerin Korunması Kanunu ile ikincil düzenlemelere ve 3359 sayılı Kanunun ek 19 uncu maddesine uygun bir şekilde Bakanlıkça belirlenen usul ve esaslara göre işlenerek merkezi sağlık veri sistemine aktarılır. Bakanlık tarafından kurulan kayıt ve bildirim sistemine ve Bakanlıkça yapılacak diğer iş ve işlemlere esas olmak üzere, istenilen bilgi ve belgelerin gönderilmesi zorunludur.\n (3) Tüm hasta kayıtları, ilgili mevzuat hükümlerine uygun şekilde muhafaza edilir. Hasta bilgilerinin gizliliği ilkeleri ihlal edilemez.\n (4) 15/1/2004 tarihli ve 5070 sayılı Elektronik İmza Kanunu hükümlerine uygun elektronik imza ile imzalanmış tıbbi kayıtlar, resmî kayıt olarak kabul edilir ve ilgili mevzuata göre yedekleme ve arşivlemesi yapılır. Hastaların sağlık bilgilerine ait gerekli kayıtların elektronik ortamda saklanmasının, değiştirilmesinin veya silinmesinin önlenmesi ve gizliliğin ihlal edilmemesi için fiziki, manyetik veya elektronik müdahalelere ve olası suistimallere karşı gerekli idari ve teknik tedbirler alınır. Bu konudaki gerekli idari ve teknik tedbirlerin alınmasından ve periyodik olarak denetlenmesinden mesul müdür sorumludur. Elektronik ortamdaki veriler, güvenli yedekleme sistemiyle düzenli olarak yedeklenir. Dosyada bulundurulması zorunlu formlar ve evrak ayrıca saklanır.\n (5) Adli vakalara ve adli raporlara ait kayıtların gizliliği ve güvenliği açısından, vakayı takip eden tabip haricinde vaka hakkında veri girişi veya adli raporu tanzim eden tabibin onayından sonra raporda değişiklik yapılamaması için gerekli tedbirler alınır. Adli vaka kayıtlarına, mesul müdür veya yetkilendirdiği kişiler erişebilir. Adli kayıt veya raporların resmî mercilerden istenmesi halinde, yeni suret alınarak suret olduğu belirtilir ve tasdiklenir. Bu raporlar ile ilgili sorumluluk mesul müdüre aittir.\n (6) Sağlık kuruluşunda, tıbbi kayıtların ilgili mevzuatına uygun olarak saklanması amacı ile tasnif ve muhafazaya elverişli ve elektronik imza mevzuatına uygun güvenli bir dijital hasta kayıt arşivi veya fiziki bir tıbbi arşiv kurulması zorunludur. Tıbbi arşivin sağlık kuruluşu bünyesinde bulunması zorunlu değildir.\n (7) Sağlık kuruluşu bünyesinde uzaktan sağlık hizmet sunumu kapsamında hizmet sunulması halinde ilgili mevzuat hükümlerine göre kayıt tutulması zorunludur.\n (8) Ruhsatı iptal edilen sağlık kuruluşu, yazılı veya elektronik kayıtlarını, defterleri ve diğer belgeleri arşiv ile ilgili mevzuatta belirtilen süre müddetince saklanmak üzere Müdürlüğe devreder.",
+      "preview": "(1) Sağlık kuruluşuna başvuran hastalara ait veriler elektronik ortamda kaydedilir. Verilerin kaydedilmesi ve arşivlenmesi hususunda Bakanlı…",
+      "kitap": null,
+      "kisim": null,
+      "bolum": "BEŞİNCİ BÖLÜM · Sağlık Kuruluşunun Çalışma Usul ve Esasları",
+      "ayirim": null,
+      "maddeBaslik": "Kayıt ve arşiv",
+      "sectionPath": [
+        "BEŞİNCİ BÖLÜM · Sağlık Kuruluşunun Çalışma Usul ve Esasları",
+        "Kayıt ve arşiv"
+      ]
+    },
+    {
+      "id": "yonetmelik:42369:m:25",
+      "maddeKind": "madde",
+      "maddeNo": "25",
+      "heading": "Madde 25",
+      "text": "(1) Sağlık kuruluşunda ilgili mevzuata göre düzenlenen raporlar iki nüsha olarak hazırlanır. Raporların bir nüshası sağlık kuruluşunda saklanır.\n (2) Özel sağlık kuruluşları tedavi ettiği hastaların; istirahat/iş göremezlik raporlarını, tedavilerinde kullanılan ilaç, tıbbi cihaz ve malzeme kullanımına yönelik sağlık raporlarını ve ilgili mevzuat kapsamında sürücü/sürücü adayı sağlık raporlarını düzenleyebilirler. Bakanlık tarafından, bölgenin ihtiyacı, kamu sağlık hizmet sunucularının kapasitesi, özel sağlık hizmet sunucusunun kadro durumu ve raporun türüne göre değerlendirme yapılarak raporlara ilişkin izin verilebilir. Bakanlıkça izin verilen haller hariç olmak üzere; usulüne uygun olarak teşekkül ettirilmiş olsa bile özel sağlık kuruluşları; bu fıkrada belirtilenler dışında durum bildirir raporları düzenleyemezler. Özel sağlık kuruluşlarına durum bildirir sağlık raporu düzenleme izninin verilebilmesi için iç hastalıkları, kulak burun boğaz hastalıkları, genel cerrahi, göz hastalıkları, ortopedi ve travmatoloji veya fizik tedavi ve rehabilitasyon, nöroloji veya ruh sağlığı ve hastalıkları uzmanlık dallarının özel sağlık kuruluşlarının ruhsat/faaliyet izin belgesinde kayıtlı bulunması ve bu branştaki kurul üyesi tabibin de özel sağlık kuruluşunda tam gün esasına göre çalışması zorunludur.\n (3) Raporlara ilişkin yapılacak itirazlar ile raporların şekil şartlarına ilişkin hususlar, Bakanlık tarafından belirlenir.",
+      "preview": "(1) Sağlık kuruluşunda ilgili mevzuata göre düzenlenen raporlar iki nüsha olarak hazırlanır. Raporların bir nüshası sağlık kuruluşunda sakla…",
+      "kitap": null,
+      "kisim": null,
+      "bolum": "BEŞİNCİ BÖLÜM · Sağlık Kuruluşunun Çalışma Usul ve Esasları",
+      "ayirim": null,
+      "maddeBaslik": "Rapor tanzimi",
+      "sectionPath": [
+        "BEŞİNCİ BÖLÜM · Sağlık Kuruluşunun Çalışma Usul ve Esasları",
+        "Rapor tanzimi"
+      ]
+    },
+    {
+      "id": "yonetmelik:42369:m:26",
+      "maddeKind": "madde",
+      "maddeNo": "26",
+      "heading": "Madde 26",
+      "text": "(1) Sağlık kuruluşu tarafından yapılacak bilgilendirme ve tanıtım faaliyetleri, 29/7/2023 tarihli ve 32263 sayılı Resmî Gazete’de yayımlanan Sağlık Hizmetlerinde Tanıtım ve Bilgilendirme Faaliyetleri Hakkında Yönetmelik hükümlerine uygun olarak yürütülür.",
+      "preview": "(1) Sağlık kuruluşu tarafından yapılacak bilgilendirme ve tanıtım faaliyetleri, 29/7/2023 tarihli ve 32263 sayılı Resmî Gazete’de yayımlanan…",
+      "kitap": null,
+      "kisim": null,
+      "bolum": "BEŞİNCİ BÖLÜM · Sağlık Kuruluşunun Çalışma Usul ve Esasları",
+      "ayirim": null,
+      "maddeBaslik": "Bilgilendirme ve tanıtım",
+      "sectionPath": [
+        "BEŞİNCİ BÖLÜM · Sağlık Kuruluşunun Çalışma Usul ve Esasları",
+        "Bilgilendirme ve tanıtım"
+      ]
+    },
+    {
+      "id": "yonetmelik:42369:m:27",
+      "maddeKind": "madde",
+      "maddeNo": "27",
+      "heading": "Madde 27",
+      "text": "(1) Sağlık kuruluşunun tabelasına veya basılı evrakına veya internet ortamında, ruhsatında yer alan mevcut isim ve ünvanı veya tescil edilmiş isimleri dışındaki diğer isim ve ünvanı ile faaliyet izin belgesinde belirtilen uzmanlık dalları haricinde başka uzmanlık dalı yazılamaz.\n (2) Sağlık kuruluşu isimlendirilmesinde; kişilerin yanlış algılaması ve karışıklığın önlenmesi amacıyla, hangi ilde olduğuna bakılmaksızın ülke genelindeki üniversite ve kamu sağlık kurum veya kuruluşlarının isimleri aynen veya çağrıştıracak şekilde kullanılamaz.\n (3) Sağlık kuruluşuna; kurumun amacına uygun, kamu düzeni ve genel ahlâka aykırı olmayan ve Bakanlıkça onaylanan isimler verilir.",
+      "preview": "(1) Sağlık kuruluşunun tabelasına veya basılı evrakına veya internet ortamında, ruhsatında yer alan mevcut isim ve ünvanı veya tescil edilmi…",
+      "kitap": null,
+      "kisim": null,
+      "bolum": "BEŞİNCİ BÖLÜM · Sağlık Kuruluşunun Çalışma Usul ve Esasları",
+      "ayirim": null,
+      "maddeBaslik": "Sağlık kuruluşunun isimleri",
+      "sectionPath": [
+        "BEŞİNCİ BÖLÜM · Sağlık Kuruluşunun Çalışma Usul ve Esasları",
+        "Sağlık kuruluşunun isimleri"
+      ]
+    },
+    {
+      "id": "yonetmelik:42369:m:28",
+      "maddeKind": "madde",
+      "maddeNo": "28",
+      "heading": "Madde 28",
+      "text": "(1) Sağlık kuruluşu işletenleri ile mesul müdürleri, aşağıda belirtilen hususlara uymak zorundadır:\n a) Ruhsat/uygunluk belgesi almadan faaliyet gösterilemez.\n b) Ruhsata esas bina haricinde tamamen veya kısmen başka yerde tıbbi hizmet verilemez.\n c) Sağlık kuruluşunda, adlarına çalışma belgesi düzenlenmeyen sağlık personeli görev yapamaz.\n ç) Sağlık kuruluşunda, tabip ünvanı kazanmamış intörn, stajyer öğrenciler ve ilgili mevzuat hükümlerine göre çalışma yetkisi bulunmayan sağlık personeli ile gerekli izinleri olmayan sağlık personeli görev yapamaz.\n d) Ruhsatta/faaliyet izin belgesinde/uygunluk belgesinde belirtilen uzmanlık dalları haricindeki diğer uzmanlık dallarına ait araç ve gereçler bulundurulamaz.\n e) Sağlık kuruluşu bir şirket tarafından açılmış ise, şirketin faaliyetine giren diğer işler sağlık kuruluşunda yapılamaz.\n f) 1219 sayılı Kanunun 8 inci ve 10 uncu maddeleri uyarınca tabipler, tıp diplomalarının veya uzmanlık belgelerinin verdiği yetkiler haricinde mesleklerini yürütemez. Sertifika, yüksek lisans veya doktora belgesine dayanılarak, bir başka tıp dalının görev alanına giren işlerin uzmanı olunduğu ilan edilerek meslek yürütülemez ve bu tür belgeler mesleğin icrasında uzmanlık belgesi olarak kullanılamaz.\n g) Tabip harici sağlık personeli, ilk yardım ve acil tıbbi müdahaleler hariç olmak üzere, tabip kararı ve talimatı olmaksızın hangi surette olursa olsun hastalara doğrudan tıbbi hizmet sunamaz. Tabip harici sağlık personelinin, bu kurala aykırı olarak sunduğu hizmetlerden doğan neticelerden kendisi ile birlikte, mesul müdür ve işleten sorumludur.\n ğ) Sağlık kuruluşundaki herhangi bir faaliyet alanı veya birim, yetkisi olmayan kişiler tarafından kullanılamaz.\n h) Tıp merkezi bünyesinde diş tabipliği hizmeti verilse bile, diş tabibi sağlık kuruluşunun mesul müdürü olamaz.\n ı) Tıp merkezinde, bu Yönetmelikte belirlenenler haricindeki cerrahi müdahaleler yapılamaz.\n i) Tıp merkezinde, faaliyet izin belgesinde/uygunluk belgesinde yazılı cerrahi uzmanlık dalları dışındaki uzmanlık dallarının cerrahi müdahaleleri yapılamaz.\n j) Optisyenlik müessesesinin bulunduğu bina ve bahçesi ile müştemilatı içinde ilgili mevzuatına aykırı olarak göz hastalıkları uzmanının mesleğini icra ettiği muayenehane ve diğer sağlık kuruluşları faaliyet gösteremez.\n k) Serbest eczane bulunan bina ve bahçesi ile müştemilatı içinde 12/4/2014 tarihli ve 28970 sayılı Resmî Gazete’de yayımlanan Eczacılar ve Eczaneler Hakkında Yönetmelik hükümlerine aykırı şekilde sağlık kuruluşu açılamaz.\n l) Ismarlama protez ve ortez merkezinin bulunduğu bina ve bahçesi ile müştemilatı içinde ilgili mevzuatına aykırı olarak ortopedi ve travmatoloji uzmanının mesleğini icra ettiği muayenehane açılamaz.\n m) İşitme cihazı merkezinin bulunduğu bina ve bahçesi ile müştemilatı içinde ilgili mevzuatına aykırı olarak kulak burun boğaz hastalıkları uzmanının mesleğini icra ettiği muayenehane açılamaz.\n n) Sağlık kuruluşunda bulunan tıbbi cihazların düzenli olarak bakım, kontrol ve kalibrasyonu yapılır. Düzenli olarak bakım, kontrol ve kalibrasyonu yapılmayan tıbbi cihazlar kullanılamaz.\n o) Bu Yönetmelikte hizmet alımına izin verilmiş hizmetler dışında sağlık kuruluşunun ruhsatında/uygunluk belgesinde/faaliyet izin belgesinde yer alan uzmanlık dallarındaki klinik hizmetler ve diğer hizmetler üçüncü kişiler eliyle gördürülemez.\n ö) Sağlık kuruluşunda bulunan ilaç ve tıbbi ürünler kuruluş dışına satılamaz.\n p) Sağlık kuruluşu faaliyet izin belgesinde/uygunluk belgesinde bulunmayan uzmanlık dallarında hasta kabul veya tedavi edemez.\n r) Elektronik imza ve kaşeler ait olduğu personel dışında hiç kimse tarafından kullanılamaz.\n s) Özel izne tabi hizmet birimleri, Bakanlıktan izin almaksızın açılamaz ve buralarda hizmet verilemez.\n ş) Sağlık kuruluşunda konusu suç teşkil eden işlem yapılamaz.\n t) Sağlık kuruluşunda hasta mahremiyeti ile hasta bilgilerinin gizliliği ilkeleri ihlal edilemez.\n u) Acil sağlık hizmetleri ve ilgili mevzuatı gereği ilave ücret alınmayacak sağlık hizmetlerinden mevzuat hükümlerine aykırı olarak ilave ücret alınamaz.",
+      "preview": "(1) Sağlık kuruluşu işletenleri ile mesul müdürleri, aşağıda belirtilen hususlara uymak zorundadır: a) Ruhsat/uygunluk belgesi almadan faali…",
+      "kitap": null,
+      "kisim": null,
+      "bolum": "YEDİNCİ BÖLÜM · Denetim ve Ruhsatın Askıya Alınması ve İptali",
+      "ayirim": null,
+      "maddeBaslik": "Uyulması gereken hususlar",
+      "sectionPath": [
+        "YEDİNCİ BÖLÜM · Denetim ve Ruhsatın Askıya Alınması ve İptali",
+        "Uyulması gereken hususlar"
+      ]
+    },
+    {
+      "id": "yonetmelik:42369:m:29",
+      "maddeKind": "madde",
+      "maddeNo": "29",
+      "heading": "Madde 29",
+      "text": "(1) Sağlık kuruluşu; Ek-6’da yer alan denetim sorgu ve idari yaptırım formlarında belirtilen kriterlere göre denetlenir.",
+      "preview": "(1) Sağlık kuruluşu; Ek-6’da yer alan denetim sorgu ve idari yaptırım formlarında belirtilen kriterlere göre denetlenir.",
+      "kitap": null,
+      "kisim": null,
+      "bolum": "YEDİNCİ BÖLÜM · Denetim ve Ruhsatın Askıya Alınması ve İptali",
+      "ayirim": null,
+      "maddeBaslik": "Denetim",
+      "sectionPath": [
+        "YEDİNCİ BÖLÜM · Denetim ve Ruhsatın Askıya Alınması ve İptali",
+        "Denetim"
+      ]
+    },
+    {
+      "id": "yonetmelik:42369:m:30",
+      "maddeKind": "madde",
+      "maddeNo": "30",
+      "heading": "Madde 30",
+      "text": "(1) Sağlık kuruluşunda sunulan sağlık hizmetinin Bakanlıkça belirlenmiş tıbbi endikasyonlara veya uygulamalara uygunluğunun tespiti amacıyla gerektiğinde denetim yapılır. Tıbbi endikasyon ve uygulama denetimi; hasta dosyası, elektronik kayıt sistemleri, tıbbi fotoğraf, tıbbi görüntüleme, rapor ve diğer ilgili bilgi ve belgeler üzerinden, e-denetim sistemi kullanılarak veya yerinde yapılır. Bu denetimin yapılacağı ilgili sağlık hizmet sunum alanları, Bakanlık tarafından veya müdürlükçe belirlenir.\n (2) Denetimde kullanılmak üzere; Bakanlık tarafından alanında uzman akademisyenlerden teşkil edilen komisyon görüşleri alınarak tıbbi endikasyon ve uygulama denetim formu oluşturulur. Oluşturulan bu formlar, Bakanlıkça ilan edilir. Denetimler, Bakanlık veya Müdürlük tarafından bu forma uygun olarak gerçekleştirilir.\n (3) Denetim faaliyetlerini yürütmek üzere Bakanlığa ait sağlık kurum ve kuruluşlarından veya üniversitelerden; konusunda uzman, tercihen akademisyenlerden, Bakanlık veya Müdürlük onayı ile en az üç kişilik tıbbi endikasyon ve uygulama denetim komisyonu kurulur. Komisyonun görev ve yetkisi, ilgili sağlık hizmet sunum alanı ve belirlenen denetim süresi ile sınırlıdır. Denetimin süresi, görevlendirme onayının ilgililere tebliği tarihinden başlar ve sunulan denetim raporunun onaylanması ile sona erer.\n (4) İlgili mevzuatında bu amaçla yetkilendirilmiş komisyon bulunması halinde denetimler; bu komisyonlar marifetiyle gerçekleştirilebilir. Gerekli hallerde birden fazla komisyon oluşturulabilir.\n (5) Denetim sonuçları, Genel Müdürlük veya Müdürlük tarafından raporlanır ve uygun görüldüğü takdirde Bakanlık onayı ile işleme konulur. Denetim sonuç raporuna istinaden ilgili mevzuatı gereği adli ve idari süreçler yürütülür.\n (6) Yapılan denetimler esnasında sağlık kuruluşunun bir kısmında veya tamamında hastaların tedavisini olumsuz etkileyen, hizmetin devamı halinde hasta sağlığını ve güvenliğini tehlikeye sokan ve hizmetin gecikmeksizin derhal durdurulmasını gerektiren acil ve telafisi güç durumların ortaya çıkması ve bu durumun gerekçeleri de belirtilmek suretiyle denetim tespit tutanağı ile tevsik edilmesi kaydıyla eksiklik giderilinceye kadar sağlık kuruluşunun ilgili biriminde veya tamamında tıbbi endikasyon ve uygulama denetim komisyonu tespiti ve Müdürlüğün teklifi ile Bakanlık kararı üzerine Valilik tarafından faaliyet durdurulur.\n (7) Bu madde kapsamında yaptırım uygulanan sağlık kuruluşuna komisyonca uygun görülen sürede kontrol denetimi yapılır.",
+      "preview": "(1) Sağlık kuruluşunda sunulan sağlık hizmetinin Bakanlıkça belirlenmiş tıbbi endikasyonlara veya uygulamalara uygunluğunun tespiti amacıyla…",
+      "kitap": null,
+      "kisim": null,
+      "bolum": "YEDİNCİ BÖLÜM · Denetim ve Ruhsatın Askıya Alınması ve İptali",
+      "ayirim": null,
+      "maddeBaslik": "Tıbbi endikasyon ve uygulama denetimi",
+      "sectionPath": [
+        "YEDİNCİ BÖLÜM · Denetim ve Ruhsatın Askıya Alınması ve İptali",
+        "Tıbbi endikasyon ve uygulama denetimi"
+      ]
+    },
+    {
+      "id": "yonetmelik:42369:m:31",
+      "maddeKind": "madde",
+      "maddeNo": "31",
+      "heading": "Madde 31",
+      "text": "(1) Çalışan uzman tabip sayısı beşin altına düşen tıp merkezinin altı ay içinde uzman eksikliğini giderememesi halinde ruhsatı en fazla iki yıl süreyle askıya alınır. Bu durumda;\n a) Mezkur süre sonunda uzman eksikliğini gideremeyen tıp merkezinin ruhsatı iptal edilir. Askıya alınma tarihinden itibaren iki yıl içinde uzman eksikliği giderilir ise tıp merkezi yeniden faaliyete geçirilir. Ruhsatın askıya alınması ve tekrar faaliyete geçirilmesi işlemi müdürlük tarafından yapılır ve Bakanlığa bildirilir.\n b) Ruhsatı bu fıkra kapsamında askıya alınan tıp merkezi askı süresi içinde veya süre sonunda sağlık kuruluşunun talebi halinde polikliniğe de çevrilebilir ancak polikliniğe dönüşen sağlık kuruluşu eksikliğini tamamlasa dahi yeniden tıp merkezi olarak ruhsatlandırılamaz.\n (2) Sağlık kuruluşunun ruhsatı aşağıdaki hallerde askıya alınır:\n a) Tıp merkezi, poliklinik ve fizik tedavi ve rehabilitasyon müesseselerinin ruhsatı bina tadilatı durumlarında en fazla bir yıl süreyle; doğal afet, genel salgın hastalık, kısmi veya genel seferberlik ilanı gibi mücbir sebeplerden dolayı ise en fazla beş yıl süreyle Bakanlıkça askıya alınabilir.\n b) Bir uzman tabip sayısının altına düşen müessesenin ruhsatı süre verilmeksizin askıya alınır. Askı süresi en fazla bir yıldır.\n c) Tabip/uzman tabip sayısı asgari sayının altına düşen polikliniklerin üç ay içinde eksikliği giderememesi durumunda, ruhsatı en fazla bir yıl süreyle askıya alınır.\n ç) Muayenehane ruhsatı tabibin talebi halinde; doğal afet, genel salgın hastalık, kısmi veya genel seferberlik ilanı gibi mücbir sebeplere bağlı olarak en fazla iki yıl süreyle askıya alınabilir. Hastalık, eğitim durumu ve benzeri sebepler halinde ise en fazla bir yıl süreyle askıya alınabilir.\n (3) Askı süreleri sonunda faaliyete geçmeyen ilgili sağlık kuruluşunun ruhsatı iptal edilir.",
+      "preview": "(1) Çalışan uzman tabip sayısı beşin altına düşen tıp merkezinin altı ay içinde uzman eksikliğini giderememesi halinde ruhsatı en fazla iki…",
+      "kitap": null,
+      "kisim": null,
+      "bolum": "YEDİNCİ BÖLÜM · Denetim ve Ruhsatın Askıya Alınması ve İptali",
+      "ayirim": null,
+      "maddeBaslik": "Ruhsatın askıya alınması",
+      "sectionPath": [
+        "YEDİNCİ BÖLÜM · Denetim ve Ruhsatın Askıya Alınması ve İptali",
+        "Ruhsatın askıya alınması"
+      ]
+    },
+    {
+      "id": "yonetmelik:42369:m:32",
+      "maddeKind": "madde",
+      "maddeNo": "32",
+      "heading": "Madde 32",
+      "text": "(1) Denetimlerde tespit edilen eksikliklerin verilen süre içinde giderilmemesi sebebiyle bir kısmında veya tamamında faaliyeti geçici olarak durdurulan sağlık kuruluşunda, faaliyet durdurma tarihinden itibaren altı ay içinde eksiklikler giderilmezse ruhsat Bakanlıkça askıya alınır ve altı ay ek süre verilir. Bu sürenin sonunda eksikliği gidererek faaliyete geçemeyen sağlık kuruluşunun ruhsatı Bakanlık tarafından iptal edilir.\n (2) Faaliyeti geçici olarak kısmen durdurulduğu halde ilgili alanda hasta kabulüne devam eden sağlık kuruluşunun faaliyeti iki kat süreyle tamamen durdurulur. Faaliyeti herhangi bir tespit sonrası tamamen durdurulmasına rağmen hasta kabulü yapan sağlık kuruluşunun ruhsatı, Bakanlık tarafından iptal edilir.",
+      "preview": "(1) Denetimlerde tespit edilen eksikliklerin verilen süre içinde giderilmemesi sebebiyle bir kısmında veya tamamında faaliyeti geçici olarak…",
+      "kitap": null,
+      "kisim": null,
+      "bolum": "YEDİNCİ BÖLÜM · Denetim ve Ruhsatın Askıya Alınması ve İptali",
+      "ayirim": null,
+      "maddeBaslik": "Ruhsatın iptali",
+      "sectionPath": [
+        "YEDİNCİ BÖLÜM · Denetim ve Ruhsatın Askıya Alınması ve İptali",
+        "Ruhsatın iptali"
+      ]
+    },
+    {
+      "id": "yonetmelik:42369:m:33",
+      "maddeKind": "madde",
+      "maddeNo": "33",
+      "heading": "Madde 33",
+      "text": "(1) Özel kanunlarına göre bu Yönetmelik kapsamındaki sağlık kuruluşunu açmaya yetkili kamu kurumlarınca açılacak poliklinik ve tıp merkezi, ilgili mevzuattan kaynaklanan muafiyetleri saklı kalmak kaydıyla bu Yönetmelikte öngörülen asgari tıbbi donanım ve hizmet standartlarına uyar.\n (2) Birinci fıkrada belirtilen poliklinik ve tıp merkezi, 20/9/2019 tarihli ve 30894 sayılı Resmî Gazete’de yayımlanan Kamu Sağlık Tesisleri Ruhsatlandırma Yönetmeliği kapsamında ruhsatlandırılır.",
+      "preview": "(1) Özel kanunlarına göre bu Yönetmelik kapsamındaki sağlık kuruluşunu açmaya yetkili kamu kurumlarınca açılacak poliklinik ve tıp merkezi,…",
+      "kitap": null,
+      "kisim": null,
+      "bolum": "SEKİZİNCİ BÖLÜM · Çeşitli ve Son Hükümler",
+      "ayirim": null,
+      "maddeBaslik": "Kamu kurumlarına ait sağlık kuruluşları",
+      "sectionPath": [
+        "SEKİZİNCİ BÖLÜM · Çeşitli ve Son Hükümler",
+        "Kamu kurumlarına ait sağlık kuruluşları"
+      ]
+    },
+    {
+      "id": "yonetmelik:42369:m:34",
+      "maddeKind": "madde",
+      "maddeNo": "34",
+      "heading": "Madde 34",
+      "text": "(1) Sağlık kuruluşunda, hasta hakları ihlâlleri ile bunlara bağlı ortaya çıkan sorunların önlenmesi ve gerektiğinde hukukî korunma yollarının fiilen kullanılabilmesi için hasta haklarına dair mevzuatın etkin şekilde uygulanmasına yönelik gerekli tedbirler alınır.\n (2) Kötü muamele gibi hasta hakları ihlalinin yapıldığı tespit edilen özel sağlık kuruluşunda ihlalin gerçekleştiği ilgili birimin faaliyeti uygun şartlar sağlanana kadar Bakanlığın kararı üzerine Valilikçe durdurulur ve ilgililer hakkında ilgili mevzuatı uyarınca idari ve adli işlemler yapılır.\n (3) Sağlık kuruluşunda hasta odalarında, polikliniklerde ve bekleme salonlarında hastaların geri bildirimde bulunabileceği “Sağlık Bakanlığı İletişim Merkezi” ile entegre karekod bulunması zorunludur.",
+      "preview": "(1) Sağlık kuruluşunda, hasta hakları ihlâlleri ile bunlara bağlı ortaya çıkan sorunların önlenmesi ve gerektiğinde hukukî korunma yollarını…",
+      "kitap": null,
+      "kisim": null,
+      "bolum": "SEKİZİNCİ BÖLÜM · Çeşitli ve Son Hükümler",
+      "ayirim": null,
+      "maddeBaslik": "Hasta hakları",
+      "sectionPath": [
+        "SEKİZİNCİ BÖLÜM · Çeşitli ve Son Hükümler",
+        "Hasta hakları"
+      ]
+    },
+    {
+      "id": "yonetmelik:42369:m:35",
+      "maddeKind": "madde",
+      "maddeNo": "35",
+      "heading": "Madde 35",
+      "text": "(1) Bu Yönetmelikte belirlenen usul ve esaslara uymayanlar hakkında, bu Yönetmelikte öngörülen idarî yaptırımlar ile ilgili diğer mevzuat hükümleri uygulanır.\n (2) Sağlık kuruluşunun herhangi bir biriminde veya kısmında hastaların tedavisini olumsuz etkileyecek bir eksikliğin tespiti halinde eksiklik giderilinceye kadar, toplumun veya sağlık hizmeti alanların sağlığını olumsuz etkileyeceği düşünülen durumların ortaya çıkması halinde bu durum ortadan kaldırılana kadar ilgili birimin faaliyeti Bakanlığın kararı üzerine Valilikçe durdurulur.\n (3) Bu Yönetmelikte müeyyide öngörülmemekle birlikte fiilin niteliğine göre ilgili diğer mevzuatta belirlenen idarî ve cezaî müeyyideler uygulanır.",
+      "preview": "(1) Bu Yönetmelikte belirlenen usul ve esaslara uymayanlar hakkında, bu Yönetmelikte öngörülen idarî yaptırımlar ile ilgili diğer mevzuat hü…",
+      "kitap": null,
+      "kisim": null,
+      "bolum": "SEKİZİNCİ BÖLÜM · Çeşitli ve Son Hükümler",
+      "ayirim": null,
+      "maddeBaslik": "Müeyyideler",
+      "sectionPath": [
+        "SEKİZİNCİ BÖLÜM · Çeşitli ve Son Hükümler",
+        "Müeyyideler"
+      ]
+    },
+    {
+      "id": "yonetmelik:42369:m:36",
+      "maddeKind": "madde",
+      "maddeNo": "36",
+      "heading": "Madde 36",
+      "text": "(1) Bu Yönetmelik kapsamında belirtilen;\n a) Cerrahi müdahale uygulama izin belgesi Ek-3/Ç’de ve cerrahi müdahale uygulama birim sorumlusu belgesi Ek-3/D’de,\n b) Ameliyathane ve merkezi sterilizasyon ünitesi asgari standartları Ek-4/C’de,\n c) Sağlık kuruluşunda uzmanlık dallarına göre bulundurulması zorunlu asgarî tıbbî malzeme ve donanım listesi Ek-8’de,\n ç) Tıp merkezinde yapılabilecek ve yapılamayacak cerrahi işlemler listesi Ek-9’da,\n d) Cerrahi müdahaleler için ilgili ünitelerde bulundurulması zorunlu asgari cihaz ve malzeme listesi Ek-10’da,\n e) Sağlık kuruluşunda bulundurulması zorunlu asgari ilaç listesi Ek-11’de,\n f) Basit test ünitesi ve röntgen hizmetleri Ek-12’de,\n g) Muayenehanede yapılamayacak tıbbi işlemlere dair genel prensipler Ek-13’te,\n ğ) Teknik inceleme ekibi ve raporları Ek-17’de,\n h) Tıp merkezi faaliyet izin belgesi için gerekli belgeler Ek-18’de,\n ı) Fizik tedavi müessese ve üniteleri asgari kriterleri Ek-19/A’da,\n i) Fizik tedavi müessese ve üniteleri hidroterapi alanı asgari kriterleri Ek-19/B’de,\n yer alır.",
+      "preview": "(1) Bu Yönetmelik kapsamında belirtilen; a) Cerrahi müdahale uygulama izin belgesi Ek-3/Ç’de ve cerrahi müdahale uygulama birim sorumlusu be…",
+      "kitap": null,
+      "kisim": null,
+      "bolum": "SEKİZİNCİ BÖLÜM · Çeşitli ve Son Hükümler",
+      "ayirim": null,
+      "maddeBaslik": "Muhtelif hükümler",
+      "sectionPath": [
+        "SEKİZİNCİ BÖLÜM · Çeşitli ve Son Hükümler",
+        "Muhtelif hükümler"
+      ]
+    },
+    {
+      "id": "yonetmelik:42369:m:37",
+      "maddeKind": "madde",
+      "maddeNo": "37",
+      "heading": "Madde 37",
+      "text": "(1) Beş yüz yataktan fazla yatağa sahip Kültür ve Turizm Bakanlığından belgeli konaklama tesislerinde, acil sağlık ünitesi kurulması zorunludur. Acil sağlık ünitesi açılması zorunlu olmayan konaklama tesislerinde işletenin talebi halinde acil sağlık ünitesi kurulabilir. Konaklama tesisinde kurulacak acil sağlık ünitesinin özellikleri şunlardır:\n a) Acil sağlık ünitesi, konaklama tesislerinde konaklayan kişilerin ani gelişen sağlık problemlerinde ve acil durumlarda müdahale, muayene ve sevk işlemlerinin düzenlenmesi amacıyla kurulan ünitedir. Bu ünite, konaklama tesisinde acil hasta transferine uygun, kolay erişilebilir bir bölümde kurulur. Bu ünitede; Ek-14’te belirtilen asgari ilaç ve malzemeler bulunur.\n b) Acil sağlık ünitesi, aynı il içinde faaliyet gösteren Bakanlıkça ruhsatlı planlama kapsamındaki bir özel sağlık tesisi ile iş birliği yapılarak, iş birliği yapılan özel sağlık tesisinin mevcut tabip kadro ve kapasiteleri kullanılarak açılır.\n c) Konaklama tesisleri bünyesindeki acil sağlık ünitesinde tam zamanlı çalışan asgari bir tabip ile bir sağlık personeli bulunur. Acil sağlık ünitesinde sadece acil durumlarda müdahale, muayene ve sevk işlemleri yapılır, bunun haricinde acil olmayan poliklinik hizmeti verilemez. Bu ünitelerde çalışacak personelin isimleri ve çalışma programları ilgili sağlık müdürlüğüne bildirilir. Müdürlük tarafından, bildirilen personeller için çalışma belgesi düzenlenir. Çalışma belgeleri acil sağlık ünitesinde görülecek bir yere asılır.\n ç) Acil sağlık ünitesinin tüm sorumluluğu bağlı olduğu sağlık tesisine aittir.\n (2) Acil sağlık ünitesinin çalışma saatleri, konaklama tesisinin çalışma programı ve saatleriyle uyumlu olarak düzenlenir. Acil durumlarda hasta nakline uygun düzenlemeler bulunması zorunludur.\n (3) Acil sağlık ünitesi konaklama tesislerinin dışına taşınamaz ve diğer sağlık kuruluşlarıyla birleşemez.\n (4) Konaklama tesislerinde sunulacak sağlık hizmetlerine yönelik diğer hususlarda ilgili mevzuat hükümleri uygulanır.\n (5) Acil sağlık ünitesine, Müdürlük tarafından Ek-14/C’de yer alan ünite ruhsatı düzenlenir ve veriler kayıt altına alınır.\n (6) Acil sağlık ünitesinde, muayenehanede bulunması gereken fiziki şartlar aranır.\n Yürürlükten kaldırılan yönetmelik",
+      "preview": "(1) Beş yüz yataktan fazla yatağa sahip Kültür ve Turizm Bakanlığından belgeli konaklama tesislerinde, acil sağlık ünitesi kurulması zorunlu…",
+      "kitap": null,
+      "kisim": null,
+      "bolum": "SEKİZİNCİ BÖLÜM · Çeşitli ve Son Hükümler",
+      "ayirim": null,
+      "maddeBaslik": "Konaklama tesislerinde sunulacak sağlık hizmetleri",
+      "sectionPath": [
+        "SEKİZİNCİ BÖLÜM · Çeşitli ve Son Hükümler",
+        "Konaklama tesislerinde sunulacak sağlık hizmetleri"
+      ]
+    },
+    {
+      "id": "yonetmelik:42369:m:38",
+      "maddeKind": "madde",
+      "maddeNo": "38",
+      "heading": "Madde 38",
+      "text": "(1) 15/2/2008 tarihli ve 26788 sayılı Resmî Gazete’de yayımlanan Ayakta Teşhis ve Tedavi Yapılan Özel Sağlık Kuruluşları Hakkında Yönetmelik yürürlükten kaldırılmıştır.",
+      "preview": "(1) 15/2/2008 tarihli ve 26788 sayılı Resmî Gazete’de yayımlanan Ayakta Teşhis ve Tedavi Yapılan Özel Sağlık Kuruluşları Hakkında Yönetmelik…",
+      "kitap": null,
+      "kisim": null,
+      "bolum": "SEKİZİNCİ BÖLÜM · Çeşitli ve Son Hükümler",
+      "ayirim": null,
+      "maddeBaslik": "Konaklama tesislerinde sunulacak sağlık hizmetleri",
+      "sectionPath": [
+        "SEKİZİNCİ BÖLÜM · Çeşitli ve Son Hükümler",
+        "Konaklama tesislerinde sunulacak sağlık hizmetleri"
+      ]
+    },
+    {
+      "id": "yonetmelik:42369:m:gecici:1",
+      "maddeKind": "gecici",
+      "maddeNo": "1",
+      "heading": "Geçici Madde 1",
+      "text": "(1) Bu Yönetmeliğin yürürlüğe girdiği tarihten önce yapılan başvurular, 38 inci madde ile yürürlükten kaldırılan Ayakta Teşhis ve Tedavi Yapılan Özel Sağlık Kuruluşları Hakkında Yönetmelik hükümleri çerçevesinde tamamlanır.\n (2) 38 inci madde ile yürürlükten kaldırılan Ayakta Teşhis ve Tedavi Yapılan Özel Sağlık Kuruluşları Hakkında Yönetmeliğin geçici 14 üncü maddesinin birinci fıkrasında yer alan ruhsat askı süreleri ile ön izin ve ruhsatlandırma için verilen süreler korunur.",
+      "preview": "(1) Bu Yönetmeliğin yürürlüğe girdiği tarihten önce yapılan başvurular, 38 inci madde ile yürürlükten kaldırılan Ayakta Teşhis ve Tedavi Yap…",
+      "kitap": null,
+      "kisim": null,
+      "bolum": "SEKİZİNCİ BÖLÜM · Çeşitli ve Son Hükümler",
+      "ayirim": null,
+      "maddeBaslik": "Devam eden işlemler",
+      "sectionPath": [
+        "SEKİZİNCİ BÖLÜM · Çeşitli ve Son Hükümler",
+        "Devam eden işlemler"
+      ]
+    },
+    {
+      "id": "yonetmelik:42369:m:gecici:2",
+      "maddeKind": "gecici",
+      "maddeNo": "2",
+      "heading": "Geçici Madde 2",
+      "text": "(1) Bu Yönetmeliğin yürürlüğe girdiği tarihten önce ruhsatlandırılmış tıp merkezi, 5 inci maddenin dördüncü fıkrası hükmü hariç olmak üzere mevcut haliyle faaliyetine devam eder.\n (2) Bu Yönetmelikte belirtilen şartları taşımayan tıp merkezine yeni ünite, birim ve uzman tabip kadrosu ilavesine izin verilmez.\n (3) Tıp merkezinin taşınması halinde bu Yönetmelikteki şartlar aranır.\n (4) Bu Yönetmelikteki bina ve fiziki şartları sağlayarak ruhsatlandırılan tıp merkezine, kadro sayıları beşe tamamlanmak üzere Bakanlıkça planlama kapsamında uygun görülen uzman tabip kadroları verilir.\n (5) Bu Yönetmeliğin yürürlüğe girdiği tarih itibarıyla ruhsatlı ve faal olan tıp merkezi, bu Yönetmeliğin yürürlük tarihinde boş olan tabip ve uzman tabip kadrolarını, asgari beş uzman tabip kadrosu altına düşmemek ve Bakanlık planlamalarına uygun olmak kaydıyla 31/12/2025 tarihine kadar başka bir özel hastane veya tıp merkezine devredebilir.\n (6) 38 inci madde ile yürürlükten kaldırılan Ayakta Teşhis ve Tedavi Yapılan Özel Sağlık Kuruluşları Hakkında Yönetmeliğin geçici 3 üncü maddesince yerinde dönüşerek ya da birleşerek tıp merkezi ruhsatı düzenlenmiş ve beş kadronun üzerinde uzman tabip kadrosu bulunan tıp merkezi, 31/12/2025 tarihine kadar planlamadan bağımsız asgari beş uzman tabip kadrosunun altına düşmemek kaydıyla özel hastane ve tıp merkezine kadro devri yapabilir.\n (7) Bünyesinde doğum ünitesi bulunan tıp merkezlerinden, Ek-4/Ç’de belirtilen şartları taşımayanlar, 31/12/2025 tarihine kadar istenen şartları sağlarlar, bu şartları sağlayamayanların doğum üniteleri kapatılır.\n (8) Mevcut binası için 18/3/2018 tarihli ve 30364 mükerrer sayılı Resmî Gazete’de yayımlanan Türkiye Bina Deprem Yönetmeliğine göre riskli olduğuna dair deprem raporu sunan muayenehane harici sağlık kuruluşlarına, bulundukları ilden başka ile taşınmak istemeleri halinde bir sefere mahsus Bakanlıkça planlama kriterleri çerçevesinde uygun görülen illere taşınmalarına izin verilir.\n (9) 6 ncı maddenin yedinci fıkrasında, 19 uncu maddenin yedinci fıkrasında ve 22 nci maddenin birinci fıkrasında yer alan şartlar, bu Yönetmeliğin yürürlüğe girdiği tarihten sonra ruhsatlandırılacak tıp merkezi ile halihazırda faaliyet gösteren tıp merkezinin yerinde veya farklı adreste yeniden ruhsatlandırılması halinde aranır.",
+      "preview": "(1) Bu Yönetmeliğin yürürlüğe girdiği tarihten önce ruhsatlandırılmış tıp merkezi, 5 inci maddenin dördüncü fıkrası hükmü hariç olmak üzere…",
+      "kitap": null,
+      "kisim": null,
+      "bolum": "SEKİZİNCİ BÖLÜM · Çeşitli ve Son Hükümler",
+      "ayirim": null,
+      "maddeBaslik": "Açılmış tıp merkezinin durumu",
+      "sectionPath": [
+        "SEKİZİNCİ BÖLÜM · Çeşitli ve Son Hükümler",
+        "Açılmış tıp merkezinin durumu"
+      ]
+    },
+    {
+      "id": "yonetmelik:42369:m:gecici:3",
+      "maddeKind": "gecici",
+      "maddeNo": "3",
+      "heading": "Geçici Madde 3",
+      "text": "(1) 17/7/1964 tarihli ve 506 sayılı Sosyal Sigortalar Kanununun geçici 20 nci maddesi kapsamındaki bankalar, sigorta ve reasürans şirketleri, ticaret odaları, sanayi odaları, borsalar veya bunların teşkil ettikleri birlikler personeli için kurulmuş bulunan sandıklara ait sağlık birimleri, 5510 sayılı Kanunun geçici 20 nci maddesinde belirlenen sürenin sonuna kadar faaliyet gösterir. Belirtilen süre sonunda kapatılmadığı tespit edilen birimler ilgili müdürlük tarafından kapatılır. Sandıklara ait yeni sağlık biriminin açılması hususu, Bakanlık tarafından değerlendirilir.\n (2) Birinci fıkrada belirtilen sürenin sonuna kadar hizmet sunmaya devam etmek isteyen birimler, bu Yönetmeliğin yürürlüğe girdiği tarihten itibaren üç ay içinde çalışan sağlık personelinin listesi, deprem ve itfaiye raporu ile müdürlüğe başvurur.\n (3) Başvuru yapan birimlerin poliklinik veya tıp merkezi asgari şartları kapsamında Müdürlükçe değerlendirmesi yapılarak, oluşturulan rapor Bakanlığa gönderilir. Bu birimlere, uygunluklarının tespiti halinde birinci fıkrada belirtilen sürenin sonuna kadar faaliyetlerine devam etmelerine izin verilir.\n (4) Bu birimlerin uygun olmadığının tespiti halinde asgari şartları sağlamak üzere altı ay süre verilir. Verilen süre sonunda gerekli uygunluğu sağlamayanların sağlık hizmet sunumu yapmasına izin verilmez.\n (5) Bu madde kapsamındaki sağlık birimlerinde, belirtilen süre içinde aşağıda belirtilen esaslar çerçevesinde faaliyette bulunulabilir:\n a) Sağlık birimlerinde yalnızca iştirakçileri ve aylık veya gelir bağlanmış olanlar ile bunların hak sahiplerinin fatura ve sağlık kuruluşuna sevk işlemleri ile gereğinde muayene hizmeti yürütülür.\n b) Bu birimlerde, sadece Ek-13’te yer alan muayenehanede yapılamayacak tıbbi işlemlere dair genel prensiplere uygun işlemler yapılabilir.\n c) Tabipler aynı il içinde bir başka sağlık kuruluşunda da çalışabilir.\n ç) Tabip dışı personel gerekli ve yeterli sayıda çalıştırılabilir.\n d) Sağlık birimleri denetim yönünden bu Yönetmelik hükümlerine tabidir.",
+      "preview": "(1) 17/7/1964 tarihli ve 506 sayılı Sosyal Sigortalar Kanununun geçici 20 nci maddesi kapsamındaki bankalar, sigorta ve reasürans şirketleri…",
+      "kitap": null,
+      "kisim": null,
+      "bolum": "SEKİZİNCİ BÖLÜM · Çeşitli ve Son Hükümler",
+      "ayirim": null,
+      "maddeBaslik": "Sandıklara ait sağlık birimleri",
+      "sectionPath": [
+        "SEKİZİNCİ BÖLÜM · Çeşitli ve Son Hükümler",
+        "Sandıklara ait sağlık birimleri"
+      ]
+    },
+    {
+      "id": "yonetmelik:42369:m:gecici:4",
+      "maddeKind": "gecici",
+      "maddeNo": "4",
+      "heading": "Geçici Madde 4",
+      "text": "(1) Bu Yönetmeliğin yürürlüğe girdiği tarihten önce muayenehane tabipleri ile mevzuata uygun olarak sözleşme imzalamış olan tıp merkezi, sözleşme süresi sonuna kadar 16 ncı maddenin birinci fıkrası hükümlerinden muaftır.\n (2) (Danıştay Onuncu Dairesinin 4/5/2026 tarihli ve E.:2025/3036 sayılı kararı ile yürütmesi durdurulan ibare: 7/1/2023 tarihinden önce) muayenehanesi bulunan tabipler, (Danıştay Onuncu Dairesinin 4/5/2026 tarihli ve E.:2025/3036 sayılı kararı ile yürütmesi durdurulan ibare: sözleşme yapacakları tıp merkezi veya özel hastaneden en fazla ikisinde) 16 ncı maddenin ikinci fıkrasında yer alan kadro sınırlamasından muaf tutulur. Bu tabiplerin muayenehanelerini kapatmaları halinde üç ay içinde aynı ya da farklı ilde tekrar açmaları şartıyla muafiyetleri devam eder.\n (3) 1/1/2025 tarihi itibarıyla faal muayenehanesi olup, sağlık hizmeti sunan herhangi bir kuruluşta çalışmayan tabiplere, muayenehanelerini kapatması halinde aynı ildeki planlama kapsamında en fazla iki sağlık kuruluşunda kadro dışı geçici olarak çalışmasına izin verilir. Bu tabiplerin yeniden muayenehane açmaları halinde bu madde kapsamında verilen kadro dışı geçici çalışma hakkı sona erer.",
+      "preview": "(1) Bu Yönetmeliğin yürürlüğe girdiği tarihten önce muayenehane tabipleri ile mevzuata uygun olarak sözleşme imzalamış olan tıp merkezi, söz…",
+      "kitap": null,
+      "kisim": null,
+      "bolum": "SEKİZİNCİ BÖLÜM · Çeşitli ve Son Hükümler",
+      "ayirim": null,
+      "maddeBaslik": "Muayenehane tabiplerinin tıp merkezi ile sözleşmeleri",
+      "sectionPath": [
+        "SEKİZİNCİ BÖLÜM · Çeşitli ve Son Hükümler",
+        "Muayenehane tabiplerinin tıp merkezi ile sözleşmeleri"
+      ]
+    },
+    {
+      "id": "yonetmelik:42369:m:gecici:5",
+      "maddeKind": "gecici",
+      "maddeNo": "5",
+      "heading": "Geçici Madde 5",
+      "text": "(1) 5 inci maddenin birinci fıkrası kapsamında halihazırda bir tabip/uzman tabip kadrosu bulunan polikliniklere, Bakanlıkça ek olarak bir tabip kadrosu verilir.\n (2) Bu Yönetmeliğin yürürlüğe girdiği tarihten önce ruhsatlandırılmış müessese ve poliklinik, 5 inci maddenin dördüncü fıkrası hükmü hariç olmak üzere mevcut haliyle faaliyetine devam eder.",
+      "preview": "(1) 5 inci maddenin birinci fıkrası kapsamında halihazırda bir tabip/uzman tabip kadrosu bulunan polikliniklere, Bakanlıkça ek olarak bir ta…",
+      "kitap": null,
+      "kisim": null,
+      "bolum": "SEKİZİNCİ BÖLÜM · Çeşitli ve Son Hükümler",
+      "ayirim": null,
+      "maddeBaslik": "Poliklinik ve müessesenin durumu",
+      "sectionPath": [
+        "SEKİZİNCİ BÖLÜM · Çeşitli ve Son Hükümler",
+        "Poliklinik ve müessesenin durumu"
+      ]
+    },
+    {
+      "id": "yonetmelik:42369:m:gecici:6",
+      "maddeKind": "gecici",
+      "maddeNo": "6",
+      "heading": "Geçici Madde 6",
+      "text": "(1) Ek-15/B’de yer alan asansör şartı ve aynı dairede en fazla üç tabibin muayenehane faaliyeti gösterebileceğine ilişkin hüküm, yeni açılacak muayenehane ve halihazırda faaliyet gösteren muayenehanelere farklı adreste uygunluk belgesi düzenlenmesi halinde aranır.",
+      "preview": "(1) Ek-15/B’de yer alan asansör şartı ve aynı dairede en fazla üç tabibin muayenehane faaliyeti gösterebileceğine ilişkin hüküm, yeni açılac…",
+      "kitap": null,
+      "kisim": null,
+      "bolum": "SEKİZİNCİ BÖLÜM · Çeşitli ve Son Hükümler",
+      "ayirim": null,
+      "maddeBaslik": "Muayenehane şartları",
+      "sectionPath": [
+        "SEKİZİNCİ BÖLÜM · Çeşitli ve Son Hükümler",
+        "Muayenehane şartları"
+      ]
+    },
+    {
+      "id": "yonetmelik:42369:m:gecici:7",
+      "maddeKind": "gecici",
+      "maddeNo": "7",
+      "heading": "Geçici Madde 7",
+      "text": "(1) Bu Yönetmelikte belirtilen personel standartlarına 31/12/2025 tarihine kadar uyum sağlanması zorunludur.\n (2) 38 inci madde ile yürürlükten kaldırılan Ayakta Teşhis ve Tedavi Yapılan Özel Sağlık Kuruluşları Hakkında Yönetmeliğin geçici 9 uncu maddesi, geçici 11 inci maddesi ve geçici 12 nci maddesi kapsamında çalışan kişilerin hakları saklıdır.",
+      "preview": "(1) Bu Yönetmelikte belirtilen personel standartlarına 31/12/2025 tarihine kadar uyum sağlanması zorunludur. (2) 38 inci madde ile yürürlükt…",
+      "kitap": null,
+      "kisim": null,
+      "bolum": "SEKİZİNCİ BÖLÜM · Çeşitli ve Son Hükümler",
+      "ayirim": null,
+      "maddeBaslik": "Personel standartlarına uyum",
+      "sectionPath": [
+        "SEKİZİNCİ BÖLÜM · Çeşitli ve Son Hükümler",
+        "Personel standartlarına uyum"
+      ]
+    },
+    {
+      "id": "yonetmelik:42369:m:gecici:8",
+      "maddeKind": "gecici",
+      "maddeNo": "8",
+      "heading": "Geçici Madde 8",
+      "text": "(Danıştay Onuncu Dairesinin 17/12/2025 tarihli ve E.:2025/3055 sayılı kararı ile yürütmesi durdurulan madde: (1) Bu Yönetmeliğin yayımlandığı tarihten önce ruhsatlandırılmış ve faaliyette olan tıp merkezi, en geç üç yıl içinde TÜSKA’dan akreditasyon belgesi almak zorundadır.)",
+      "preview": "(Danıştay Onuncu Dairesinin 17/12/2025 tarihli ve E.:2025/3055 sayılı kararı ile yürütmesi durdurulan madde: (1) Bu Yönetmeliğin yayımlandığ…",
+      "kitap": null,
+      "kisim": null,
+      "bolum": "SEKİZİNCİ BÖLÜM · Çeşitli ve Son Hükümler",
+      "ayirim": null,
+      "maddeBaslik": "Akreditasyon belgesi",
+      "sectionPath": [
+        "SEKİZİNCİ BÖLÜM · Çeşitli ve Son Hükümler",
+        "Akreditasyon belgesi"
+      ]
+    },
+    {
+      "id": "yonetmelik:42369:m:gecici:9",
+      "maddeKind": "gecici",
+      "maddeNo": "9",
+      "heading": "Geçici Madde 9",
+      "text": "(1) Bu Yönetmeliğin yürürlüğe girdiği tarihten önce ruhsatlandırılmış tıp merkezi, poliklinik ve müessese veya ön izin almış tıp merkezinde, 7 nci maddenin yedinci fıkrasında yer alan şartlar aranmaz.",
+      "preview": "(1) Bu Yönetmeliğin yürürlüğe girdiği tarihten önce ruhsatlandırılmış tıp merkezi, poliklinik ve müessese veya ön izin almış tıp merkezinde,…",
+      "kitap": null,
+      "kisim": null,
+      "bolum": "SEKİZİNCİ BÖLÜM · Çeşitli ve Son Hükümler",
+      "ayirim": null,
+      "maddeBaslik": "Mevcut sağlık kuruluşlarının sahiplik durumu",
+      "sectionPath": [
+        "SEKİZİNCİ BÖLÜM · Çeşitli ve Son Hükümler",
+        "Mevcut sağlık kuruluşlarının sahiplik durumu"
+      ]
+    },
+    {
+      "id": "yonetmelik:42369:m:gecici:10",
+      "maddeKind": "gecici",
+      "maddeNo": "10",
+      "heading": "Geçici Madde 10",
+      "text": "(1) 6 ncı maddenin altıncı fıkrasında yer alan sistem entegrasyonu, 31/12/2025 tarihine kadar tamamlanır.\n (2) 24 üncü maddede yer alan elektronik imza mevzuatı ve güvenli dijital hasta kaydı ile ilgili şartlara, 31/12/2025 tarihine kadar uyum sağlanır.\n (3) 17 nci maddenin üçüncü fıkrasında yer alan karekodlu kimlik şartına, 31/12/2025 tarihine kadar uyum sağlanır.",
+      "preview": "(1) 6 ncı maddenin altıncı fıkrasında yer alan sistem entegrasyonu, 31/12/2025 tarihine kadar tamamlanır. (2) 24 üncü maddede yer alan elekt…",
+      "kitap": null,
+      "kisim": null,
+      "bolum": "SEKİZİNCİ BÖLÜM · Çeşitli ve Son Hükümler",
+      "ayirim": null,
+      "maddeBaslik": "Hizmet standartlarına uyum",
+      "sectionPath": [
+        "SEKİZİNCİ BÖLÜM · Çeşitli ve Son Hükümler",
+        "Hizmet standartlarına uyum"
+      ]
+    },
+    {
+      "id": "yonetmelik:42369:m:39",
+      "maddeKind": "madde",
+      "maddeNo": "39",
+      "heading": "Madde 39",
+      "text": "(1) Bu Yönetmeliğin;\n a) 19 uncu maddesinin sekizinci ve dokuzuncu fıkraları 1/7/2025 tarihinde,\n b) 18 inci maddesinin ikinci fıkrası ve 34 üncü maddesinin üçüncü fıkrası 1/1/2026 tarihinde,\n c) Diğer hükümleri yayımı tarihinde,\n yürürlüğe girer.",
+      "preview": "(1) Bu Yönetmeliğin; a) 19 uncu maddesinin sekizinci ve dokuzuncu fıkraları 1/7/2025 tarihinde, b) 18 inci maddesinin ikinci fıkrası ve 34 ü…",
+      "kitap": null,
+      "kisim": null,
+      "bolum": "SEKİZİNCİ BÖLÜM · Çeşitli ve Son Hükümler",
+      "ayirim": null,
+      "maddeBaslik": "Yürürlük",
+      "sectionPath": [
+        "SEKİZİNCİ BÖLÜM · Çeşitli ve Son Hükümler",
+        "Yürürlük"
+      ]
+    },
+    {
+      "id": "yonetmelik:42369:m:40",
+      "maddeKind": "madde",
+      "maddeNo": "40",
+      "heading": "Madde 40",
+      "text": "(1) Bu Yönetmelik hükümlerini Sağlık Bakanı yürütür.\n\n Ekleri için tıklayınız.",
+      "preview": "(1) Bu Yönetmelik hükümlerini Sağlık Bakanı yürütür. Ekleri için tıklayınız.",
+      "kitap": null,
+      "kisim": null,
+      "bolum": "SEKİZİNCİ BÖLÜM · Çeşitli ve Son Hükümler",
+      "ayirim": null,
+      "maddeBaslik": "Yürütme",
+      "sectionPath": [
+        "SEKİZİNCİ BÖLÜM · Çeşitli ve Son Hükümler",
+        "Yürütme"
+      ]
+    }
+  ]
+}

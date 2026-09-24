@@ -3,7 +3,6 @@ import { execFile } from 'child_process';
 import fs from 'fs';
 import path from 'path';
 import { promisify } from 'util';
-import { loadAppPreferences } from './appPreferences';
 
 const execFileAsync = promisify(execFile);
 
@@ -110,19 +109,6 @@ export async function registerUdfixWithLaunchServices(): Promise<void> {
         await runSwiftLaunchServicesCommand('register');
     } catch {
         /* best effort */
-    }
-}
-
-export async function reassertUdfDefaultHandlerIfEnabled(): Promise<void> {
-    if (process.platform !== 'darwin' || !app.isPackaged) return;
-
-    const prefs = loadAppPreferences();
-    if (!prefs.udfDefaultHandlerEnabled) return;
-
-    await registerUdfixWithLaunchServices();
-    const check = await readUdfHandlerCheck();
-    if (check.status !== 'all') {
-        await trySetUdfixAsDefaultUdfHandler();
     }
 }
 

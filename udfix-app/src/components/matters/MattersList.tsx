@@ -207,7 +207,7 @@ export const MattersList: React.FC = () => {
                             />
                         </Button>
                     </DropdownMenuTrigger>
-                    <DropdownMenuContent align="end" className="w-56 max-h-[min(70vh,420px)] overflow-y-auto glass border-white/10">
+                    <DropdownMenuContent align="end" className="w-56 max-h-[min(70vh,420px)] overflow-y-auto glass border-border">
                         <DropdownMenuLabel className="text-[10px] uppercase tracking-wide text-muted-foreground">
                             Kayıt türü
                         </DropdownMenuLabel>

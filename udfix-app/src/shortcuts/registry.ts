@@ -18,8 +18,16 @@ export const SHORTCUT_REGISTRY: ShortcutRegistryEntry[] = [
         id: 'command-palette-templates',
         actionTr: 'Komut paleti — şablonlar sekmesi',
         scope: 'global',
+        combo: { mod: true, shift: true, key: 's' },
+        implementation: 'CommandPalette.tsx',
+    },
+    {
+        id: 'command-palette-katir',
+        actionTr: 'Komut paleti — Katır',
+        scope: 'global',
         combo: { mod: true, shift: true, key: 'k' },
         implementation: 'CommandPalette.tsx',
+        notesTr: 'Katır (UYAP) sekmesini açar.',
     },
     {
         id: 'command-palette-tasks',
@@ -103,9 +111,9 @@ export const SHORTCUT_REGISTRY: ShortcutRegistryEntry[] = [
         id: 'udf-save-as',
         actionTr: 'UDF farklı kaydet',
         scope: 'global',
-        combo: { mod: true, shift: true, key: 's' },
+        combo: { mod: true, alt: true, key: 's' },
         implementation: 'UdfFileEditorPanel.tsx',
-        notesTr: 'UDF dosya sekmesi açıkken; yeni konuma kaydeder ve sekmeyi yeni dosyaya taşır.',
+        notesTr: 'UDF dosya sekmesi açıkken; yeni konuma kaydeder ve sekmeyi yeni dosyaya taşır. ⌘⇧S şablonlar paletine aittir.',
     },
     {
         id: 'database-search-matters',

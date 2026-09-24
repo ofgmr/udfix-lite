@@ -1,0 +1,597 @@
+{
+  "id": "yonetmelik:8197",
+  "kind": "yonetmelik",
+  "no": "8197",
+  "title": "Yakalama, Gözaltına Alma ve İfade Alma Yönetmeliği",
+  "shortName": "YakalamaYön",
+  "aliases": [
+    "YakalamaYön",
+    "Yakalama, Gözaltına Alma ve İfade Alma Yönetmeliği",
+    "8197"
+  ],
+  "tur": 7,
+  "tertip": 5,
+  "sourceUrl": "https://www.mevzuat.gov.tr/mevzuat?MevzuatNo=8197&MevzuatTur=7&MevzuatTertip=5",
+  "kabulTarihi": null,
+  "maddeCount": 34,
+  "maddeler": [
+    {
+      "id": "yonetmelik:8197:m:1",
+      "maddeKind": "madde",
+      "maddeNo": "1",
+      "heading": "Madde 1",
+      "text": "Bu Yönetmeliğin amacı, bütün adlî kolluk görevlileri ile gerektiğinde veya Cumhuriyet savcısının talebi üzerine adlî kolluk görevini ifa eden diğer kolluk görevlilerinin, Cumhuriyet savcılarının bilgi ve emirleri doğrultusunda yürütecekleri adlî soruşturma sırasında kolluk tarafından gerçekleştirilen yakalama, gözaltına alma, muhafaza altına alma ve ifade alma işlemlerinin yürütülmesinde uyulacak usul ve esasları düzenlemektir.",
+      "preview": "Bu Yönetmeliğin amacı, bütün adlî kolluk görevlileri ile gerektiğinde veya Cumhuriyet savcısının talebi üzerine adlî kolluk görevini ifa ede…",
+      "kitap": null,
+      "kisim": null,
+      "bolum": "BİRİNCİ BÖLÜM · Amaç, Kapsam, Dayanak ve Tanımlar",
+      "ayirim": null,
+      "maddeBaslik": "Amaç",
+      "sectionPath": [
+        "BİRİNCİ BÖLÜM · Amaç, Kapsam, Dayanak ve Tanımlar",
+        "Amaç"
+      ]
+    },
+    {
+      "id": "yonetmelik:8197:m:2",
+      "maddeKind": "madde",
+      "maddeNo": "2",
+      "heading": "Madde 2",
+      "text": "Bu Yönetmelik yakalama, gözaltına alma, muhafaza altına alma ve ifade alma işlemleri ile adlî kolluk görevlileri ile gerektiğinde veya Cumhuriyet savcısının talebi üzerine adlî kolluk görevini ifa eden bütün kolluk birimlerini kapsar.",
+      "preview": "Bu Yönetmelik yakalama, gözaltına alma, muhafaza altına alma ve ifade alma işlemleri ile adlî kolluk görevlileri ile gerektiğinde veya Cumhu…",
+      "kitap": null,
+      "kisim": null,
+      "bolum": "BİRİNCİ BÖLÜM · Amaç, Kapsam, Dayanak ve Tanımlar",
+      "ayirim": null,
+      "maddeBaslik": "Kapsam",
+      "sectionPath": [
+        "BİRİNCİ BÖLÜM · Amaç, Kapsam, Dayanak ve Tanımlar",
+        "Kapsam"
+      ]
+    },
+    {
+      "id": "yonetmelik:8197:m:3",
+      "maddeKind": "madde",
+      "maddeNo": "3",
+      "heading": "Madde 3",
+      "text": "Bu Yönetmelik, 4/12/2004 tarihli ve 5271 sayılı Ceza Muhakemesi Kanunu, 7/11/1979 tarihli ve 2253 sayılı Çocuk Mahkemelerinin Kuruluşu, Görev ve Yargılama Usulleri Hakkında Kanun, 4/7/1934 tarihli 2559 sayılı Polis Vazife ve Salahiyet Kanunu, 10/3/1983 tarihli ve 2803 sayılı Jandarma Teşkilât, Görev ve Yetkileri Kanunu, 9/7/1982 tarihli ve 2692 sayılı Sahil Güvenlik Komutanlığı Kanunu, 2/7/1993 tarihli ve 485 sayılı Gümrük Müsteşarlığının Teşkilât ve Görevleri Hakkında Kanun Hükmünde Kararnameye dayanılarak hazırlanmıştır.",
+      "preview": "Bu Yönetmelik, 4/12/2004 tarihli ve 5271 sayılı Ceza Muhakemesi Kanunu, 7/11/1979 tarihli ve 2253 sayılı Çocuk Mahkemelerinin Kuruluşu, Göre…",
+      "kitap": null,
+      "kisim": null,
+      "bolum": "BİRİNCİ BÖLÜM · Amaç, Kapsam, Dayanak ve Tanımlar",
+      "ayirim": null,
+      "maddeBaslik": "Dayanak",
+      "sectionPath": [
+        "BİRİNCİ BÖLÜM · Amaç, Kapsam, Dayanak ve Tanımlar",
+        "Dayanak"
+      ]
+    },
+    {
+      "id": "yonetmelik:8197:m:4",
+      "maddeKind": "madde",
+      "maddeNo": "4",
+      "heading": "Madde 4",
+      "text": "Bu Yönetmelikte geçen;\n Adlî kolluk: 04/06/1937 tarihli ve 3201 sayılı Emniyet Teşkilâtı Kanununun 8, 9, 10 ve 12 nci maddeleri, 2803 sayılı Jandarma Teşkilât, Görev ve Yetkileri Kanununun 7 nci maddesi, 485 sayılı Gümrük Müsteşarlığının Teşkilât ve Görevleri Hakkında Kanun Hükmünde Kararnamenin 8 inci maddesi ve 2692 sayılı Sahil Güvenlik Komutanlığı Kanununun 4 üncü maddesinde belirtilen soruşturma işlemini yapan güvenlik görevlilerini,\n Bilgi alma: Bir suçun tespiti veya aydınlatılmasına yönelik olarak, müşteki ve suçtan zarar gören ile suç işleme şüphesi altında bulunmayan diğer kişilerin dinlenmesini ve tutanağa geçirilmesini,\n İfade alma: Şüphelinin kolluk görevlileri veya Cumhuriyet savcısı tarafından soruşturma konusu suçla ilgili olarak dinlenmesini,\n Gecikmesinde sakınca bulunan hâl: Derhâl işlem yapılmadığı takdirde suçun iz, eser, emare ve delillerinin kaybolması veya şüphelinin kaçması veya kimliğinin saptanamaması ihtimalinin ortaya çıkması hâlini,\n Gözaltına alma: Kanunun verdiği yetkiye göre, yakalanan kişinin hakkındaki işlemlerin tamamlanması amacıyla, yetkili hâkim önüne çıkarılmasına veya serbest bırakılmasına kadar kanunî süre içinde sağlığına zarar vermeyecek şekilde özgürlüğünün geçici olarak kısıtlanıp alıkonulmasını,\n Gözaltı birimi: Yakalanan kişinin hakkındaki işlemlerin tamamlanarak adlî mercilere sevk edilmesine veya serbest bırakılmasına kadar, kanunî süre içinde onu gözaltında tutmakla yetkili ve görevli kolluk kuvveti birimlerini,\n Gözaltı ve nezarethane sorumlusu: Gözaltına veya muhafaza altına alınan kişilere haklarının okunmasını, kayıtların tutulmasını ve kanunlara uygun davranılmasını sağlamak\n amacıyla ilgili karakol, birim veya bot komutanı, âmiri veya büro âmiri tarafından görevlendirilen personeli,\n Kovuşturma: İddianamenin kabulüyle başlayıp, hükmün kesinleşmesine kadar geçen evreyi,\n Mâlen sorumlu: Yargılama konusu işin hükme bağlanması ve bunun kesinleşmesinden sonra, maddî ve malî sorumluluk taşıyarak hükmün sonuçlarından etkilenecek veya bunlara katlanacak kişiyi,\n Muhafaza altına alma: Kanunun yetki verdiği hâllerde yetkili merci önüne çıkarılması gereken kişilerin ilgili kurumlar veya kişilerce teslim alınana kadar sağlıklarına zarar vermeyecek şekilde ve zorunlu olduğu ölçüde özgürlüklerinin kısıtlanıp alıkonulmasını,\n Müdafi: Şüpheli veya sanığın ceza muhakemesinde savunmasını yapan avukatı,\n Nezarethane: Şüpheli veya sanıkların haklarındaki işlemlerin tamamlanıp adlî mercilere sevk edilinceye kadar bekletilmesi amacıyla yapılmış yerleri,\n Sanık: Kovuşturmanın başlamasından itibaren hükmün kesinleşmesine kadar, suç şüphesi altında bulunan kişiyi,\n Sorgu: Şüpheli veya sanığın, hâkim veya mahkeme tarafından soruşturma veya kovuşturma konusu suçla ilgili olarak dinlenmesini,\n Soruşturma: Kanuna göre yetkili mercilerce suç şüphesinin öğrenilmesinden iddianamenin kabulüne kadar geçen evreyi,\n Suçüstü: İşlenmekte olan suçu, henüz işlenmiş olan fiil ile fiilin işlenmesinden hemen sonra kolluk, suçtan zarar gören veya başkaları tarafından takip edilerek yakalanan kişinin işlediği suçu, fiilin pek az önce işlendiğini gösteren eşya veya delille yakalanan kimsenin işlediği suçu,\n Şüpheli: Soruşturma evresinde, suç şüphesi altında bulunan kişiyi,\n Toplu suç: Aralarında iştirak iradesi bulunmasa da üç veya daha fazla kişi tarafından işlenen suçu,\n Vekil: Katılan, suçtan zarar gören veya mâlen sorumlu kişiyi ceza muhakemesinde temsil eden avukatı,\n Yakalama: Kamu güvenliğine, kamu düzenine veya kişinin vücut veya hayatına yönelik var olan bir tehlikenin giderilmesi için denetim altına alınması gereken veya suç işlediği yönünde hakkında kuvvetli iz, eser, emare ve delil bulunan kişinin gözaltına veya muhafaza altına alma işlemlerinden önce özgürlüğünün geçici olarak ve fiilen kısıtlanarak denetim altına alınmasını,\n ifade eder.",
+      "preview": "Bu Yönetmelikte geçen; Adlî kolluk: 04/06/1937 tarihli ve 3201 sayılı Emniyet Teşkilâtı Kanununun 8, 9, 10 ve 12 nci maddeleri, 2803 sayılı…",
+      "kitap": null,
+      "kisim": null,
+      "bolum": "BİRİNCİ BÖLÜM · Amaç, Kapsam, Dayanak ve Tanımlar",
+      "ayirim": null,
+      "maddeBaslik": "Tanımlar",
+      "sectionPath": [
+        "BİRİNCİ BÖLÜM · Amaç, Kapsam, Dayanak ve Tanımlar",
+        "Tanımlar"
+      ]
+    },
+    {
+      "id": "yonetmelik:8197:m:5",
+      "maddeKind": "madde",
+      "maddeNo": "5",
+      "heading": "Madde 5",
+      "text": "Kolluk görevlileri;\n a) Gecikmesinde sakınca bulunan ve Cumhuriyet savcısına veya derhâl âmirlerine müracaat imkânı olmayan hâllerde; hakkında yakalama emri düzenlenmesi veya tutuklama kararı verilmesi gereken kişileri ya da suçüstü hâlinde veya gecikmesinde sakınca bulunan diğer hâllerde suç işlendiğine veya suça teşebbüs edildiğine dair haklarında kuvvetli iz, eser, emare ve delil bulunan şüphelileri,\n b)Kolluk kuvvetinin kanun ve usul dairesinde verdiği emre itaatsizlik edenleri ve aldığı tedbirlere uymayanları,\n c) Görev yaparken mukavemette bulunan veya görevinden alıkoymak maksadıyla kolluk kuvvetine zorla karşı koyan ve yakalanmadıkları taktirde hareketlerine devam etmeleri ihtimali bulunan kişileri,\n d) Haklarında yetkili mercilerce verilen yakalama emri, yakalama ve tutuklama kararı bulunanları veya kanunla istenilen bir mükellefiyeti yerine getirmedikleri için yakalanması gerekenleri,\n e) Uyuşturucu ve uyarıcı maddeleri alan, satan, bulunduran veya kullananları,\n f) Halkın rahatını bozacak veya rezalet çıkaracak derecede sarhoş olanları veya sarhoşluk hâlinde başkalarına saldıranları,\n g) Halkın huzur ve sükûnunu bozanlardan, yapılan uyarılara rağmen bu hareketlerine devam edenlerle, başkalarına saldırıya yeltenenleri ve kavga edenleri,\n h) Bir kurumda tedavi, eğitim ve ıslahı için kanunlarla belirtilen esaslara uygun olarak, alınan tedbirlerin yerine getirilmesi amacıyla toplum için tehlike teşkil eden akıl hastası, uyuşturucu ve uyarıcı madde veya alkol tutkunu, serseri veya hastalık bulaştırabilecek kişileri,\n ı) Haklarında mahkemece çocuk bakım ve yetiştirme yurtlarına veya benzeri resmî veya özel kurumlara yerleştirilmesine veya yetkili merci önüne çıkarılmasına karar verilen çocukları,\n i) Usulüne aykırı şekilde ülkeye girmek isteyen veya giren veya hakkında sınır dışı etme veya geri verme kararı alınan kişileri,\n yakalayabilir.\n Kimliğini bir belgeyle veya kolluk kuvvetince tanınmış veya güvenilir kişilerin tanıklığı ile ispat edemeyenlerle, gösterdikleri belgelerin doğruluğundan şüphe edilen kişileri, aranan kişilerden olup olmadıkları anlaşılıncaya veya gerçek kimliği ortaya çıkıncaya kadar yirmidört saati geçmemek üzere, yakalama ve muhafaza altına almaya yetkilidir. Bu kişilere kimliklerini ispatlamaları hususunda gerekli kolaylık gösterilir.\n Aşağıda belirtilen hâllerde, herkes tarafından geçici olarak yakalama yapılabilir:\n a) Kişiye suçu işlerken rastlanması,\n b) Suçüstü bir fiilden dolayı izlenen kişinin kaçması ihtimalinin bulunması veya hemen kimliğini belirleme imkânının bulunmaması.\n Soruşturma ve kovuşturması şikâyete bağlı olmakla birlikte, beden veya akıl hastalığı, malûllük veya güçsüzlükleri nedeniyle kendilerini idareden aciz bulunanlara karşı işlenen suçüstü hâllerinde kişinin yakalanması şikâyete bağlı değildir.\n Soruşturma ve kovuşturması şikâyete bağlı olan suç hakkında 5271 sayılı Ceza Muhakemesi Kanununun 90 ıncı maddesinin üçüncü fıkrasına göre şikâyetten önce şüpheli yakalanmış olursa şikâyete yetkili olan kimseye ve bunlar birden fazla ise hiç olmazsa birine yakalama bildirilir.",
+      "preview": "Kolluk görevlileri; a) Gecikmesinde sakınca bulunan ve Cumhuriyet savcısına veya derhâl âmirlerine müracaat imkânı olmayan hâllerde; hakkınd…",
+      "kitap": null,
+      "kisim": null,
+      "bolum": "İKİNCİ BÖLÜM · Yakalama, Gözaltına Alma ve Muhafaza Altına Alma",
+      "ayirim": null,
+      "maddeBaslik": "Yakalama, gözaltına alma ve muhafaza altına alma yetkisi",
+      "sectionPath": [
+        "İKİNCİ BÖLÜM · Yakalama, Gözaltına Alma ve Muhafaza Altına Alma",
+        "Yakalama, gözaltına alma ve muhafaza altına alma yetkisi"
+      ]
+    },
+    {
+      "id": "yonetmelik:8197:m:6",
+      "maddeKind": "madde",
+      "maddeNo": "6",
+      "heading": "Madde 6",
+      "text": "Yakalama 5 inci maddede belirtilen yetkiler çerçevesinde, hâkim kararı veya Cumhuriyet savcısının emriyle veya doğrudan kolluk kuvveti veya suçüstü hâlinde herkes tarafından yapılabilir.\n Yakalanan kişinin kaçmasını, kendisine veya başkalarına zarar vermesini önlemek amacıyla kaba üst araması yapılarak, silâh ve bunun gibi unsurlardan arındırılması sağlanır.\n Yakalama sırasında suçun iz, emare, eser ve delillerinin yok edilmesini veya bozulmasını önleyecek tedbirler alınır.\n Yakalanan kişiye, suç ayrımı gözetilmeksizin yakalama sebebi ve hakkındaki iddialar ile susma ve müdafiden yararlanma, yakalanmaya itiraz etme hakları ile diğer kanunî hakları ve itiraz hakkını nasıl kullanacağı, herhâlde yazılı, bunun hemen mümkün olmaması hâlinde sözlü olarak derhâl bildirilir.\n Kolluk kuvveti tarafından yapılan yakalama hâlinde işlem, yakalanan kişi ve uygulanan tedbirler derhâl Cumhuriyet savcısına bildirilir.\n Yakalamadan ve gözaltı süresinin uzatılmasına ilişkin emirden, yakalananın bir yakınına veya belirlediği bir kişiye Cumhuriyet savcısının emriyle gecikmeksizin haber verilir.\n Yakalama işlemi bir tutanağa bağlanır. Bu tutanağa yakalananın, hangi suç nedeniyle, hangi koşullarda, hangi yer ve zamanda yakalandığı, yakalamayı kimlerin yaptığı, hangi kolluk mensubunca tespit edildiği, haklarının tam olarak anlatıldığı açıkça yazılır, bu tutanağın bir sureti yakalanan kişiye verilir. Bu kişiye ayrıca haklarının yazılı olarak bildirildiğini ve kendisi tarafından da bu hususun anlaşıldığını belirten bu Yönetmeliğe ekli \"Yakalama ve Gözaltına Alma Tutanağı Şüpheli ve Sanık Hakları Formu\" (EK-A) tanzim edilerek imzalı bir örneği verilir.\n Suç işlerken rastlanması veya suçüstü bir fiilden dolayı izlenen kişinin kaçması ihtimalinin bulunması veya hemen kimliğini belirleme imkânının bulunmaması nedeniyle başkaları tarafından yakalanıp kolluk görevlilerine teslim edilen veya bu hâllerde kolluk görevlilerince yakalanan ya da haklarında tutuklama kararı veya yakalama emri düzenlenmesini gerektiren ve gecikmesinde sakınca bulunan hâllerde; Cumhuriyet savcısına veya âmirlerine derhâl başvurma imkânı bulunmaması sebebiyle kolluk görevlilerince yakalanan kişi ve olay hakkında Cumhuriyet savcısına hemen bilgi verilerek, emri doğrultusunda işlem yapılır. Cumhuriyet savcısı tarafından verilen sözlü emir, en kısa zamanda yazılı hâle dönüştürülerek mümkün olması hâlinde en seri iletişim vasıtasıyla ilgili kolluğa bildirilir; aksi hâlde ilgili kolluk görevlilerince alınmasına hazır edilir. Ancak, kolluk görevlisi emrin yazılı hâle getirilmesini beklemeden sözlü emrin gereğini yerine getirir.\n Yakalanan kişi, Cumhuriyet savcısının emri ile serbest bırakılmazsa, soruşturmanın tamamlanması için gözaltına alınır.\n Muhafaza altına alınmak amacıyla yakalanan kişiler hakkında da bu maddenin ikinci fıkrası hükmü uygulandıktan sonra, yakalama sebebi, yakalamaya itiraz etme hakkı ve bu hakkı nasıl kullanılacağı derhâl bildirilir. Bu kişilerden ıslah veya tedavi kurumuna götürülmesi gerekenlerin ilgili kurumlarca teslim alınmaları sağlanır. Teslim alınmaması hâlinde, durum bir tutanakla tespit edilir ve tutanağın bir sureti mülkî amire gönderilir.",
+      "preview": "Yakalama 5 inci maddede belirtilen yetkiler çerçevesinde, hâkim kararı veya Cumhuriyet savcısının emriyle veya doğrudan kolluk kuvveti veya…",
+      "kitap": null,
+      "kisim": null,
+      "bolum": "İKİNCİ BÖLÜM · Yakalama, Gözaltına Alma ve Muhafaza Altına Alma",
+      "ayirim": null,
+      "maddeBaslik": "Yakalama işlemi",
+      "sectionPath": [
+        "İKİNCİ BÖLÜM · Yakalama, Gözaltına Alma ve Muhafaza Altına Alma",
+        "Yakalama işlemi"
+      ]
+    },
+    {
+      "id": "yonetmelik:8197:m:7",
+      "maddeKind": "madde",
+      "maddeNo": "7",
+      "heading": "Madde 7",
+      "text": "Yakalanan veya tutuklanarak bir yerden diğer bir yere nakledilen kişilere, kaçacaklarına ya da kendisi veya başkalarının hayat ve beden bütünlükleri bakımından tehlike arz ettiğine ilişkin belirtilerin varlığı hâllerinde kelepçe takılabilir.",
+      "preview": "Yakalanan veya tutuklanarak bir yerden diğer bir yere nakledilen kişilere, kaçacaklarına ya da kendisi veya başkalarının hayat ve beden bütü…",
+      "kitap": null,
+      "kisim": null,
+      "bolum": "İKİNCİ BÖLÜM · Yakalama, Gözaltına Alma ve Muhafaza Altına Alma",
+      "ayirim": null,
+      "maddeBaslik": "Yakalanan ve nakledilecek şahıslara uygulanacak tedbirler",
+      "sectionPath": [
+        "İKİNCİ BÖLÜM · Yakalama, Gözaltına Alma ve Muhafaza Altına Alma",
+        "Yakalanan ve nakledilecek şahıslara uygulanacak tedbirler"
+      ]
+    },
+    {
+      "id": "yonetmelik:8197:m:8",
+      "maddeKind": "madde",
+      "maddeNo": "8",
+      "heading": "Madde 8",
+      "text": "Yakalanan kişinin;\n a) Kendisi ile birlikte bir kişi varsa bu kişi vasıtasıyla,\n b) Suçun işlendiği veya yakalandığı yerde ikâmet ediyorsa ve haber vereceği yakınının telefon numarasını biliyorsa ya da kolluk vasıtasıyla sair suretle tespit edilebiliyorsa, telefon ile,\n c) Haber vereceği yakınının telefon numarasını bilmiyorsa ilgili yer kolluğu vasıtasıyla,\n d) Konutu suç yeri dışında ise telefonla veya kişinin adresinin bulunduğu yerle ilişki kurulmak suretiyle,\n yakalandığı, gözaltına alındığı veya gözaltı süresinin uzatıldığı Cumhuriyet savcısının emriyle gecikmeksizin bir yakınına veya belirlediği bir kişiye haber verilir.\n Yakalanan veya gözaltına alınan kişi yabancı ise, yazılı olarak karşı çıkmaması hâlinde, durumu vatandaşı olduğu ülkenin büyükelçiliği veya konsolosluğuna haber verilir.\n Muhafaza altına alınmak amacıyla kişinin yakalandığı, istediği kanunî yakınlarına derhâl bildirilir.",
+      "preview": "Yakalanan kişinin; a) Kendisi ile birlikte bir kişi varsa bu kişi vasıtasıyla, b) Suçun işlendiği veya yakalandığı yerde ikâmet ediyorsa ve…",
+      "kitap": null,
+      "kisim": null,
+      "bolum": "İKİNCİ BÖLÜM · Yakalama, Gözaltına Alma ve Muhafaza Altına Alma",
+      "ayirim": null,
+      "maddeBaslik": "Yakınlarına haber verme",
+      "sectionPath": [
+        "İKİNCİ BÖLÜM · Yakalama, Gözaltına Alma ve Muhafaza Altına Alma",
+        "Yakınlarına haber verme"
+      ]
+    },
+    {
+      "id": "yonetmelik:8197:m:9",
+      "maddeKind": "madde",
+      "maddeNo": "9",
+      "heading": "Madde 9",
+      "text": "Yakalanan kişinin gözaltına alınacak olması veya zor kullanılarak yakalanması hâllerinde hekim kontrolünden geçirilerek yakalanma anındaki sağlık durumu belirlenir.\n Gözaltına alınan kişinin herhangi bir nedenle yerinin değiştirilmesi, gözaltı süresinin uzatılması, serbest bırakılması veya adlî mercilere sevk edilmesi işlemlerinden önce de sağlık durumu hekim raporu ile tespit edilir.\n Gözaltına alınanlardan herhangi bir nedenle sağlık durumu bozulanlar ile sağlık durumundan şüphe edilenler, derhâl hekim kontrolünden geçirilerek gerekiyorsa tedavileri yaptırılır. Bu durumdaki kişilerden kronik bir rahatsızlığı olanların, istekleri hâlinde varsa kendi hekimi nezaretinde resmî hekim tarafından muayene ve tedavi edilmeleri sağlanır.\n Gözaltına alınan kişinin ifadesini alan veya soruşturmayı yürüten kolluk görevlisi ile bu kişiyi tıbbî muayeneye götüren kolluk görevlisinin farklı olması zorunludur. Ancak personel yetersizliği nedeniyle farklı kolluk görevlisinin bulunmaması hâlinde bu durum belgelendirilir.\n Tıbbî muayene, kontrol ve tedavi, adlî tıp kurumu veya resmî sağlık kuruluşlarınca yapılır.\n Hekim raporu üç nüsha hâlinde düzenlenir. Kolluk görevlileri tarafından, hekim raporunu verecek birime, yakalananın nezarethaneye giriş raporu mu, yoksa çıkış raporu için mi getirildiği yazılı olarak bildirilir.\n Yakalama veya nezarethaneye giriş raporunun bir nüshası raporu tanzim eden sağlık kuruluşunda saklanır, ikinci nüshası gözaltına alınana, üçüncü nüsha ise soruşturma dosyasına eklenmek üzere ilgili kolluk görevlisine verilir.\n Gözaltı süresinin uzatılması veya yer değişikliği ya da nezarethaneden çıkış sırasında düzenlenen hekim raporlarından; bir nüshası sağlık kuruluşunda saklanır, iki nüshası ise raporu düzenleyen sağlık kuruluşunca kapalı ve mühürlü bir zarf içerisinde ilgili Cumhuriyet başsavcılığına en seri şekilde gönderilir. Bunlardan bir nüshası Cumhuriyet savcısı tarafından gözaltına alınanın kendisine veya vekiline verilir, bir nüshası ise soruşturma dosyasına eklenir. Bu raporların düzenlenmesinde ve Cumhuriyet başsavcılığına gönderilmesinde 5271 sayılı Ceza Muhakemesi Kanununun 157 nci maddesinde belirtilen gizlilik kurallarına uyulur ve bu amaçla gerekli tedbirler ilgili sağlık kuruluşunca alınır.\n Hekim muayene esnasında 5237 sayılı Türk Ceza Kanununun 94 üncü maddesinde belirtilen işkence, 95 inci maddesinde belirtilen neticesi sebebiyle ağırlaşmış işkence ve 96 ncı maddesinde belirtilen eziyet suçlarının işlendiği yolunda herhangi bir bulguya rastlaması hâlinde, keyfiyeti derhâl Cumhuriyet savcısına bildirir. Bu durumda Ceza Muhakemesinde Beden Muayenesi, Genetik İncelemeler ve Fizik Kimliğin Tespiti Hakkında Yönetmeliğin 7 ve 8 inci maddesine göre işlem yapılır.\n Hekim ile muayene edilen şahsın yalnız kalmaları, muayenenin hekim hasta ilişkisi çerçevesinde yapılması esastır. Ancak, hekim kişisel güvenlik endişesini ileri sürerek muayenenin kolluk görevlisinin gözetiminde yapılmasını isteyebilir. Bu istek belgelendirilerek yerine getirilir. Bu durumda gözaltına alınan kişinin talebi hâlinde müdafiî de muayene sırasında gecikmeye neden olmamak kaydıyla hazır bulunabilir.\n Kadının muayenesi, talebi hâlinde ve olanaklar elverdiğinde bir kadın hekim tarafından yapılır. Muayene edilecek kadının talebine rağmen kadın hekimin bulunmaması halinde, muayene sırasında hekim ile birlikte sağlık mesleği mensubu bir kadın personelin bulundurulmasına özen gösterilir.",
+      "preview": "Yakalanan kişinin gözaltına alınacak olması veya zor kullanılarak yakalanması hâllerinde hekim kontrolünden geçirilerek yakalanma anındaki s…",
+      "kitap": null,
+      "kisim": null,
+      "bolum": "İKİNCİ BÖLÜM · Yakalama, Gözaltına Alma ve Muhafaza Altına Alma",
+      "ayirim": null,
+      "maddeBaslik": "Sağlık kontrolü",
+      "sectionPath": [
+        "İKİNCİ BÖLÜM · Yakalama, Gözaltına Alma ve Muhafaza Altına Alma",
+        "Sağlık kontrolü"
+      ]
+    },
+    {
+      "id": "yonetmelik:8197:m:10",
+      "maddeKind": "madde",
+      "maddeNo": "10",
+      "heading": "Madde 10",
+      "text": "Gözaltı birimine getirilen kişi hakkında aşağıdaki hükümler uygulanır:\n a) Nezarethaneye veya zorunlu hâllerde bu amaca tahsis edilen yerlere konulmadan önce usulünce aranır. Kadının üst veya vücudunun aranması, bir kadın görevli veya bu amaçla görevlendirilecek diğer bir kadın tarafından yapılır.\n b) Kendisine zarar verebilecek kemer, kravat, ip, kesici ve delici alet gibi nesnelerden arındırılır.\n c) Üzerinden çıkan eşya ve para muhafaza altına alınır. Paranın nev’i, seri numarası ve miktarı, eşyanın vasıfları ve markasını belirten bir tutanak düzenlenir ve bu tutanağın bir sureti üstü aranan kişiye verilir.",
+      "preview": "Gözaltı birimine getirilen kişi hakkında aşağıdaki hükümler uygulanır: a) Nezarethaneye veya zorunlu hâllerde bu amaca tahsis edilen yerlere…",
+      "kitap": null,
+      "kisim": null,
+      "bolum": "İKİNCİ BÖLÜM · Yakalama, Gözaltına Alma ve Muhafaza Altına Alma",
+      "ayirim": null,
+      "maddeBaslik": "Güvenlik araması",
+      "sectionPath": [
+        "İKİNCİ BÖLÜM · Yakalama, Gözaltına Alma ve Muhafaza Altına Alma",
+        "Güvenlik araması"
+      ]
+    },
+    {
+      "id": "yonetmelik:8197:m:11",
+      "maddeKind": "madde",
+      "maddeNo": "11",
+      "heading": "Madde 11",
+      "text": "Üst araması yapılan kişinin nezarethaneye girişi, bu Yönetmeliğe ekli \"Nezarethaneye Alınanların Kaydına Ait Defter\"e (EK-B) kaydedilerek sağlanır.\n Nezarethane işlemlerinde;\n a) Aynı suçla ilgisi olanlar, birbirine hasım olanlar, erkek ve kadınlar bir araya konulmazlar, çocuklar yetişkinlerden ayrı tutulurlar.\n b) Nezarethanede zarurî hâller dışında beşten fazla kişi bir arada bulundurulmaz.\n c) Tuvalet, temizlik gibi zorunlu ihtiyaçların giderilmesi görevli memurun gözetiminde sağlanır.\n d) Yiyecek ve içecekler önceden kontrol edilir.\n e) Gözaltına alınan kişi saldırgan bir tutum sergilemeye başladığı veya kendisine zarar vermeye kalkıştığı takdirde önce sözle kontrol altına alınmaya çalışılır. Bu mümkün olmadığı takdirde, hareketini giderecek derecede kuvvet kullanılabilir. Ancak zarurî olmadıkça gerek kendisinin gerek başkasının hayatı, vücut bütünlüğü veya sağlığı tehlikeye girmedikçe kuvvet kullanılmaz.\n f) Saldırgan tutum ve davranışları kontrol altına alınamayan kişiler tıbbî müdahalede bulunulması için sağlık kuruluşlarına gönderilir.\n g) Gözaltına alınan kişilerin yaşama haklarını koruyucu gerekli önlemler alınarak, bu amaçla ilgili gözetlenebilir. Gözetleme işlemi teknik imkânlar ölçüsünde kayda alınabilir.\n h) Gözaltındaki kişinin beslenme, nakil, sağlığının korunması ve gerektiğinde tedavisi, yakalandığının yakınlarına haber verilmesi giderleri ilgili birimin bağlı olduğu Bakanlığın bütçe ödeneklerinden karşılanır.",
+      "preview": "Üst araması yapılan kişinin nezarethaneye girişi, bu Yönetmeliğe ekli \"Nezarethaneye Alınanların Kaydına Ait Defter\"e (EK-B) kaydedilerek sa…",
+      "kitap": null,
+      "kisim": null,
+      "bolum": "İKİNCİ BÖLÜM · Yakalama, Gözaltına Alma ve Muhafaza Altına Alma",
+      "ayirim": null,
+      "maddeBaslik": "Nezarethane işlemleri",
+      "sectionPath": [
+        "İKİNCİ BÖLÜM · Yakalama, Gözaltına Alma ve Muhafaza Altına Alma",
+        "Nezarethane işlemleri"
+      ]
+    },
+    {
+      "id": "yonetmelik:8197:m:12",
+      "maddeKind": "madde",
+      "maddeNo": "12",
+      "heading": "Madde 12",
+      "text": "Gözaltı işlemleri nezarete alınanların kaydına ait deftere yazılmak suretiyle tespit edilir. Denetime tâbi olan bu defterde:\n a) Kimlik bilgileri;\n 1) Adı ve soyadı,\n 2) Anne ve baba adı,\n 3) Cinsiyeti,\n 4) Doğum yeri ve tarihi,\n 5) Nüfusa kayıtlı olduğu yer,\n 6) Cilt, aile sıra ve kayıt numarası,\n 7) Yabancılar için pasaport numarası,\n 8) İkâmet adresi, iş adresi ve telefon numaraları,\n 9) Türkiye Cumhuriyeti kimlik numarası,\n b) Gözaltına alınmasına esas bilgiler;\n 1) İsnat edilen suç, gözaltına alınma nedeni,\n 2) Suç yeri ve tarihi,\n 3) Kimin emri ile yakalandığı ve nezarete alındığı,\n 4) Haber verilen Cumhuriyet savcısının adı ve soyadı,\n 5) Cumhuriyet savcısına haber verildiği tarih ve saat,\n 6) Bilgi toplama işlem kısmı kaydı,\n c) Giriş işlemleri;\n 1) Yakalamanın yeri, tarihi ve saati,\n 2) Giriş tarihi ve saati,\n 3) Girişte alınan hekim raporunun verildiği makam, tarihi, sayısı ve özeti,\n 4) Üst aramasında teslim alınan malzemeler, teslim eden ve teslim alanın imzası,\n 5) Giriş işlemini yapan görevlinin adı, soyadı, rütbesi ve imzası,\n d) Şüpheli ile ilgili işlemler;\n 1) Haber verilen yakını veya belirlediği kişi, adres ve telefon numarası,\n 2) Haber verilen diplomatik temsilciliğin adı ve telefon numarası,\n 3) Haber veren personelin adı, soyadı, sicili ve imzası,\n 4) Haber verme tarihi ve saati,\n 5) Şüphelinin, hakkında haber verildiğine dair imzası,\n 6) Tercüman temin edilip edilmediği, tercümanın adı, soyadı ve imzası,\n 7) Müdafi istediği hakkındaki beyanı ve imzası,\n 8) Müdafi talep etmiş ise baronun adı veya kendi avukatının adı ve soyadı,\n 9) Gelen müdafiîn adı ve soyadı, sicil numarası, geliş saati ve imzası,\n 10) Süre uzatımına karar veren makam, kararının tarihi, sayısı ve uzatılan süre,\n e) Çıkış işlemleri;\n 1) Çıkarıldığı tarih ve saat,\n 2) Sevk edildiği makam,\n 3) Sevk evrakının tarihi ve sayısı,\n 4) Teslim alan görevlinin adı, soyadı ve imzası,\n 5) Kişinin kendisine teslim edilen malzemeler ve imzası,\n 6) Görevliye teslim edilen malzemeler ve imzası,\n 7) Geçici ayrılışlar,\n 8) İlân, işlemler ve sonuç,\n 9) Çıkış işlemini yapan görevlinin adı, soyadı, rütbesi ve imzası,\n 10) Kontrol eden âmirin adı, soyadı, rütbesi ve imzası,\n belirtilir.\n Bu defterde, yukarıda belirtilen zorunlu bilgilerin dışında gerekli görülen diğer bilgilere de yer verilebilir.",
+      "preview": "Gözaltı işlemleri nezarete alınanların kaydına ait deftere yazılmak suretiyle tespit edilir. Denetime tâbi olan bu defterde: a) Kimlik bilgi…",
+      "kitap": null,
+      "kisim": null,
+      "bolum": "İKİNCİ BÖLÜM · Yakalama, Gözaltına Alma ve Muhafaza Altına Alma",
+      "ayirim": null,
+      "maddeBaslik": "Nezarethaneye alınanların kaydına ait defter",
+      "sectionPath": [
+        "İKİNCİ BÖLÜM · Yakalama, Gözaltına Alma ve Muhafaza Altına Alma",
+        "Nezarethaneye alınanların kaydına ait defter"
+      ]
+    },
+    {
+      "id": "yonetmelik:8197:m:13",
+      "maddeKind": "madde",
+      "maddeNo": "13",
+      "heading": "Madde 13",
+      "text": "5271 sayılı Ceza Muhakemesi Kanununun 90 ıncı maddesine göre yakalanan kişi Cumhuriyet savcısı tarafından bırakılması emredilmezse, soruşturmanın tamamlanması için gözaltına alınır.\n Gözaltı süresi, yakalama yerine en yakın hâkim veya mahkemeye gönderilmesi için zorunlu süre hariç, yakalama anından itibaren yirmidört saati geçemez. Yakalama yerine en yakın hâkim veya mahkemeye gönderilme için zorunlu süre oniki saatten fazla olamaz.\n (Danıştay Onuncu Dairesinin 9/10/2024 tarihli ve E.:2024/1960 sayılı kararı ile yürütmesi durdurulan fıkra; 5271 sayılı Ceza Muhakemesi Kanununun 250 nci maddesinin birinci fıkrasında yer alan suçlara bakmakla görevli olan ağır ceza mahkemelerinin görev alanına giriyorsa bu süre kırksekiz saattir.)",
+      "preview": "5271 sayılı Ceza Muhakemesi Kanununun 90 ıncı maddesine göre yakalanan kişi Cumhuriyet savcısı tarafından bırakılması emredilmezse, soruştur…",
+      "kitap": null,
+      "kisim": null,
+      "bolum": "ÜÇÜNCÜ BÖLÜM · Gözaltı Süresi, Salıverme ve Adlî Mercilere Sevk",
+      "ayirim": null,
+      "maddeBaslik": "Gözaltı süresi",
+      "sectionPath": [
+        "ÜÇÜNCÜ BÖLÜM · Gözaltı Süresi, Salıverme ve Adlî Mercilere Sevk",
+        "Gözaltı süresi"
+      ]
+    },
+    {
+      "id": "yonetmelik:8197:m:14",
+      "maddeKind": "madde",
+      "maddeNo": "14",
+      "heading": "Madde 14",
+      "text": "Toplu olarak işlenen suçlarda, delillerin toplanmasında güçlük veya şüpheli sayısının çokluğu nedeniyle Cumhuriyet savcısı gözaltı süresini her defasında bir günü geçmemek üzere, üç gün süreyle uzatılmasına yazılı olarak emir verebilir. Gözaltı süresinin uzatılması emri, gözaltına alınana derhâl tebliğ edilir. Kimse, bu süreler geçtikten sonra hâkim kararı olmaksızın hürriyetinden mahrum bırakılamaz.\n 5271 sayılı Ceza Muhakemesi Kanununun 250 nci maddesinin birinci fıkrasında yer alan suçlara bakmakla görevli olan ağır ceza mahkemelerinin görev alanına giren suçlardan; Anayasanın 120 nci maddesi gereğince olağanüstü hâl ilân edilen bölgelerde yakalanan kişiler hakkında, aynı Kanununun 91 inci maddesinin bir ve üçüncü fıkralarında dört gün olarak belirlenen süre, Cumhuriyet savcısının talebi ve hâkim kararı ile yedi güne kadar uzatılabilir. Hâkim karar vermeden önce yakalanan ve gözaltına alınan kişiyi dinler.",
+      "preview": "Toplu olarak işlenen suçlarda, delillerin toplanmasında güçlük veya şüpheli sayısının çokluğu nedeniyle Cumhuriyet savcısı gözaltı süresini…",
+      "kitap": null,
+      "kisim": null,
+      "bolum": "ÜÇÜNCÜ BÖLÜM · Gözaltı Süresi, Salıverme ve Adlî Mercilere Sevk",
+      "ayirim": null,
+      "maddeBaslik": "Gözaltı süresinin uzatılması",
+      "sectionPath": [
+        "ÜÇÜNCÜ BÖLÜM · Gözaltı Süresi, Salıverme ve Adlî Mercilere Sevk",
+        "Gözaltı süresinin uzatılması"
+      ]
+    },
+    {
+      "id": "yonetmelik:8197:m:15",
+      "maddeKind": "madde",
+      "maddeNo": "15",
+      "heading": "Madde 15",
+      "text": "Yakalama, gözaltına alma işlemine veya gözaltı süresinin uzatılmasına ilişkin Cumhuriyet savcısının yazılı emrine karşı, yakalanan kişi, müdafi veya kanunî temsilcisi, eşi ya da birinci veya ikinci derecede kan hısımı hemen serbest bırakılmasını sağlamak için sulh ceza hâkimine başvurabilir. Yakalanan kişinin dilekçesi yetkili hâkime en seri şekilde ulaştırılır.",
+      "preview": "Yakalama, gözaltına alma işlemine veya gözaltı süresinin uzatılmasına ilişkin Cumhuriyet savcısının yazılı emrine karşı, yakalanan kişi, müd…",
+      "kitap": null,
+      "kisim": null,
+      "bolum": "ÜÇÜNCÜ BÖLÜM · Gözaltı Süresi, Salıverme ve Adlî Mercilere Sevk",
+      "ayirim": null,
+      "maddeBaslik": "Yakalama ve gözaltı işlemlerine karşı hâkime başvurma",
+      "sectionPath": [
+        "ÜÇÜNCÜ BÖLÜM · Gözaltı Süresi, Salıverme ve Adlî Mercilere Sevk",
+        "Yakalama ve gözaltı işlemlerine karşı hâkime başvurma"
+      ]
+    },
+    {
+      "id": "yonetmelik:8197:m:16",
+      "maddeKind": "madde",
+      "maddeNo": "16",
+      "heading": "Madde 16",
+      "text": "Hâkim veya mahkeme tarafından verilen yakalama emri üzerine soruşturma veya kovuşturma evresinde yakalanan kişi, en geç yirmidört saat içinde yetkili hâkim veya mahkeme önüne çıkarılamıyorsa, aynı süre içinde en yakın sulh ceza hâkimi önüne çıkarılır; serbest bırakılmadığı takdirde, yetkili hâkim veya mahkemeye en kısa zamanda gönderilmek üzere tutuklanır.",
+      "preview": "Hâkim veya mahkeme tarafından verilen yakalama emri üzerine soruşturma veya kovuşturma evresinde yakalanan kişi, en geç yirmidört saat içind…",
+      "kitap": null,
+      "kisim": null,
+      "bolum": "ÜÇÜNCÜ BÖLÜM · Gözaltı Süresi, Salıverme ve Adlî Mercilere Sevk",
+      "ayirim": null,
+      "maddeBaslik": "Yakalanan kişinin yetkili mahkemeye götürülmesi",
+      "sectionPath": [
+        "ÜÇÜNCÜ BÖLÜM · Gözaltı Süresi, Salıverme ve Adlî Mercilere Sevk",
+        "Yakalanan kişinin yetkili mahkemeye götürülmesi"
+      ]
+    },
+    {
+      "id": "yonetmelik:8197:m:17",
+      "maddeKind": "madde",
+      "maddeNo": "17",
+      "heading": "Madde 17",
+      "text": "Yakalanan kişi, gözaltına alınmasını gerektirecek bir nedenin tespit edilememesi veya yakalama sebebinin ortadan kalkması hâlinde Cumhuriyet savcısının emri ile kolluk kuvvetince derhâl salıverilir.\n Yakalanan kişi, hakkında ıslah veya tedavi tedbiri alınması gereken kişilerden ise ilgili kuruma teslim edilir.\n Gözaltı süreleri azamî süreler olup, gözaltına alınan kişilerin işlemlerinin en kısa sürede bitirilmesi esastır.\n Gözaltına alınanlar, işlemleri bitirildikten sonra gözaltı süresinin dolması beklenmeksizin kolluk kuvvetince ilgili Cumhuriyet başsavcılığına derhâl sevk edilir.\n Yakalama, gözaltına alma işlemine veya gözaltı süresinin uzatılmasına ilişkin Cumhuriyet savcısının emrine karşı, hâkime yapılan başvuru üzerine verilen serbest bırakma kararı derhâl uygulanır.\n Emanete alınan şahsî eşya ve para eksiksiz olarak ilgilisine teslim edilerek ve girişte tanzim edilen güvenlik araması tutanağına şerh düşülerek kendisine imzalatılır.\n Sevk veya serbest bırakma işlemi ve sebebi, bu Yönetmeliğe ekli \"Sevk/Serbest Bırakma Tutanağı\"na (EK-C) bağlanır, bunun bir sureti gözaltından çıkarılan kişiye verilir.",
+      "preview": "Yakalanan kişi, gözaltına alınmasını gerektirecek bir nedenin tespit edilememesi veya yakalama sebebinin ortadan kalkması hâlinde Cumhuriyet…",
+      "kitap": null,
+      "kisim": null,
+      "bolum": "ÜÇÜNCÜ BÖLÜM · Gözaltı Süresi, Salıverme ve Adlî Mercilere Sevk",
+      "ayirim": null,
+      "maddeBaslik": "Yetkili mercilere sevk veya serbest bırakma",
+      "sectionPath": [
+        "ÜÇÜNCÜ BÖLÜM · Gözaltı Süresi, Salıverme ve Adlî Mercilere Sevk",
+        "Yetkili mercilere sevk veya serbest bırakma"
+      ]
+    },
+    {
+      "id": "yonetmelik:8197:m:18",
+      "maddeKind": "madde",
+      "maddeNo": "18",
+      "heading": "Madde 18",
+      "text": "Gözaltı süresinin dolması veya sulh ceza hâkiminin kararı üzerine, gözaltına alınıp da serbest bırakılan kişi hakkında yakalamaya neden olan fiille ilgili yeni ve yeterli delil elde edilmedikçe ve Cumhuriyet savcısının kararı olmadıkça bir daha aynı nedenle yakalama işlemi uygulanamaz.",
+      "preview": "Gözaltı süresinin dolması veya sulh ceza hâkiminin kararı üzerine, gözaltına alınıp da serbest bırakılan kişi hakkında yakalamaya neden olan…",
+      "kitap": null,
+      "kisim": null,
+      "bolum": "ÜÇÜNCÜ BÖLÜM · Gözaltı Süresi, Salıverme ve Adlî Mercilere Sevk",
+      "ayirim": null,
+      "maddeBaslik": "Yeniden yakalama yasağı",
+      "sectionPath": [
+        "ÜÇÜNCÜ BÖLÜM · Gözaltı Süresi, Salıverme ve Adlî Mercilere Sevk",
+        "Yeniden yakalama yasağı"
+      ]
+    },
+    {
+      "id": "yonetmelik:8197:m:19",
+      "maddeKind": "madde",
+      "maddeNo": "19",
+      "heading": "Madde 19",
+      "text": "Çocuklar bakımından yakalama ve ifade alma yetkileri aşağıdaki şekilde sınırlandırılmıştır:\n a) Fiili işlediği zaman oniki yaşını doldurmamış olanlar ile onbeş yaşını doldurmamış sağır ve dilsizler;\n 1) Suç nedeni ile yakalanamaz ve hiçbir suretle suç tespitinde kullanılamaz.\n 2) Kimlik ve suç tespiti amacı ile yakalama yapılabilir. Kimlik tespitinden hemen sonra serbest bırakılır. Tespit edilen kimlik ve suç, mahkeme başkanı veya hâkimi tarafından tedbir kararı alınmasına esas olmak üzere derhâl Cumhuriyet başsavcılığına bildirilir.\n b) Oniki yaşını doldurmuş, ancak onsekiz yaşını doldurmamış olanlar suç sebebi ile yakalanabilirler. Bu çocuklar, yakınları ile müdafiye haber verilerek derhâl Cumhuriyet başsavcılığına sevk edilirler; bunlarla ilgili soruşturma Cumhuriyet başsavcısı veya görevlendireceği Cumhuriyet savcısı tarafından bizzat yapılır ve aşağıdaki hükümlere göre yürütülür:\n 1) Çocuğun gözaltına alındığı ana-baba veya vasisine bildirilir.\n 2) Kendi talebi olmasa bile müdafiden yararlandırılır, ana-baba veya vasisi müdafi seçebilir.\n 3) Müdafi hazır bulundurulmak şartı ile şüpheli çocuğun ifadesi alınır.\n 4) Kendisinin yararına aykırı olduğu saptanmadığı veya kanunî bir engel bulunmadığı durumlarda ana-babası veya vasisi ifade alınırken hazır bulunabilir.\n 5) Yetişkinlerden ayrı yerlerde tutulur.\n 6) 2253 sayılı Çocuk Mahkemelerinin Kuruluşu, Görev ve Yargılama Usulleri Hakkında Kanunda yazılı suçlar büyüklerle beraber işlendiği takdirde soruşturma evresinde çocuklarla ilgili evrak ayrılır, soruşturmaları ayrı ayrı yürütülür.\n 7) Çocukların kimlikleri ve eylemleri mutlaka gizli tutulur.\n 8) Suçun mağduru çocuksa, bunlara karşı işlenen suçüstü hâllerinde, kovuşturulması suçtan zarar gören kimsenin şikâyetine bağlı olan fiillerde şüphelinin yakalanması ve soruşturma yapılması için şikâyet şartı aranmaz.\n 9) Çocuklarla ilgili işlemler mümkün olduğu ölçüde sivil kıyafetli görevliler tarafından yerine getirilir.\n 10) Çocuklara kelepçe ve benzeri aletler takılamaz. Ancak, zorunlu hâllerde çocuğun kaçmasını, kendisinin veya başkalarının hayat veya beden bütünlükleri bakımından doğabilecek tehlikeleri önlemek için kolluk tarafından gerekli önlemler alınır.",
+      "preview": "Çocuklar bakımından yakalama ve ifade alma yetkileri aşağıdaki şekilde sınırlandırılmıştır: a) Fiili işlediği zaman oniki yaşını doldurmamış…",
+      "kitap": null,
+      "kisim": null,
+      "bolum": "ÜÇÜNCÜ BÖLÜM · Gözaltı Süresi, Salıverme ve Adlî Mercilere Sevk",
+      "ayirim": null,
+      "maddeBaslik": "Çocuklarla ilgili özel hüküm",
+      "sectionPath": [
+        "ÜÇÜNCÜ BÖLÜM · Gözaltı Süresi, Salıverme ve Adlî Mercilere Sevk",
+        "Çocuklarla ilgili özel hüküm"
+      ]
+    },
+    {
+      "id": "yonetmelik:8197:m:20",
+      "maddeKind": "madde",
+      "maddeNo": "20",
+      "heading": "Madde 20",
+      "text": "Şüpheli veya sanık, soruşturma ve kovuşturmanın her aşamasında bir veya birden fazla müdafiîn yardımından yararlanabilir; kanunî temsilcisi varsa, o da şüpheliye veya sanığa müdafi seçebilir.\n Soruşturma evresinde, ifade almada en çok üç müdafi hazır bulunabilir.\n Soruşturma ve kovuşturma evrelerinin her aşamasında müdafiîn, şüpheli veya sanıkla görüşme, ifade alma veya sorgu süresince yanında olma ve hukukî yardımda bulunma hakkı engellenemez, kısıtlanamaz.\n Şüpheli veya sanık, müdafi seçebilecek durumda olmadığını beyan ederse, talebi hâlinde baro tarafından bir müdafi görevlendirilir.\n Şüpheli veya sanık onsekiz yaşını doldurmamış ya da sağır veya dilsiz veya kendisini savunamayacak derecede malûl olur ve bir müdafiî de bulunmazsa talebi aranmaksızın bir müdafi görevlendirilir.\n Üst sınırı en az beş yıl hapis cezasını gerektiren suçlardan dolayı yapılan soruşturma ve kovuşturmada şüpheli veya sanığın talebi aranmaksızın bir müdafi görevlendirilir.",
+      "preview": "Şüpheli veya sanık, soruşturma ve kovuşturmanın her aşamasında bir veya birden fazla müdafiîn yardımından yararlanabilir; kanunî temsilcisi…",
+      "kitap": null,
+      "kisim": null,
+      "bolum": "DÖRDÜNCÜ BÖLÜM · Müdafi ile İlgili Hususlar",
+      "ayirim": null,
+      "maddeBaslik": "Müdafi tayini",
+      "sectionPath": [
+        "DÖRDÜNCÜ BÖLÜM · Müdafi ile İlgili Hususlar",
+        "Müdafi tayini"
+      ]
+    },
+    {
+      "id": "yonetmelik:8197:m:21",
+      "maddeKind": "madde",
+      "maddeNo": "21",
+      "heading": "Madde 21",
+      "text": "Şüpheli veya sanık vekâletname aranmaksızın müdafi ile her zaman ve konuşulanları başkalarının duyamayacağı bir ortamda görüşebilir. Bu kişilerin müdafiî ile yazışmaları denetime tâbi tutulamaz.\n Müdafiî ile görüşmesinden önce ve görüşmesi sırasında, talebi hâlinde yakalanan kişiye kalem ve kâğıt verilir.\n Soruşturmayı geciktirmemek kaydıyla ve yakalanan kişi isterse, vekâletname aranmaksızın en çok üç müdafi ifadede hazır bulunabilir.\n Her kolluk biriminde görüşme için uygun şartları haiz görüşme odası ayrılır.",
+      "preview": "Şüpheli veya sanık vekâletname aranmaksızın müdafi ile her zaman ve konuşulanları başkalarının duyamayacağı bir ortamda görüşebilir. Bu kişi…",
+      "kitap": null,
+      "kisim": null,
+      "bolum": "DÖRDÜNCÜ BÖLÜM · Müdafi ile İlgili Hususlar",
+      "ayirim": null,
+      "maddeBaslik": "Müdafi ile görüşme",
+      "sectionPath": [
+        "DÖRDÜNCÜ BÖLÜM · Müdafi ile İlgili Hususlar",
+        "Müdafi ile görüşme"
+      ]
+    },
+    {
+      "id": "yonetmelik:8197:m:22",
+      "maddeKind": "madde",
+      "maddeNo": "22",
+      "heading": "Madde 22",
+      "text": "Müdafi, soruşturma evresinde dosya içeriğini inceleyebilir ve istediği belgelerin bir örneğini harçsız olarak alabilir. Kollukta bulunan soruşturma dosyası için yetkili Cumhuriyet savcısının yazılı emri gerekir.1\n (Danıştay Onuncu Dairesinin 9/10/2024 tarihli ve E.:2024/1960 sayılı kararı ile yürütmesi durdurulan fıkra; Müdafiîn dosya içeriğini incelemesi veya belgelerden örnek alması, soruşturmanın amacını tehlikeye düşürebilecek ise, Cumhuriyet savcısının talebi üzerine, sulh ceza hâkiminin kararıyla bu yetkisi kısıtlanabilir.)\n (Danıştay Onuncu Dairesinin 9/10/2024 tarihli ve E.:2024/1960 sayılı kararı ile yürütmesi durdurulan fıkra; Yakalanan kişinin veya şüphelinin ifadesini içeren tutanak ile bilirkişi raporları ve adı geçenlerin hazır bulunmaya yetkili oldukları diğer adlî işlemlere ilişkin tutanaklar hakkında, ikinci fıkra hükmü uygulanmaz.)\n Müdafi, Cumhuriyet başsavcılığınca iddianamenin mahkemeye verildiği tarihten itibaren dosya içeriğini ve muhafaza altına alınmış delilleri inceleyebilir; bütün tutanak ve belgelerin örneklerini harçsız olarak alabilir.\n Bu maddenin içerdiği haklardan suçtan zarar görenin vekili de yararlanır.",
+      "preview": "Müdafi, soruşturma evresinde dosya içeriğini inceleyebilir ve istediği belgelerin bir örneğini harçsız olarak alabilir. Kollukta bulunan sor…",
+      "kitap": null,
+      "kisim": null,
+      "bolum": "DÖRDÜNCÜ BÖLÜM · Müdafi ile İlgili Hususlar",
+      "ayirim": null,
+      "maddeBaslik": "Müdafiîn soruşturma evrakını incelemesi1",
+      "sectionPath": [
+        "DÖRDÜNCÜ BÖLÜM · Müdafi ile İlgili Hususlar",
+        "Müdafiîn soruşturma evrakını incelemesi1"
+      ]
+    },
+    {
+      "id": "yonetmelik:8197:m:23",
+      "maddeKind": "madde",
+      "maddeNo": "23",
+      "heading": "Madde 23",
+      "text": "Şüphelinin ifadesinin alınmasında aşağıdaki hususlara uyulur:\n a) Şüphelinin kimliği saptanır. Şüpheli, kimliğine ilişkin soruları doğru olarak cevaplandırmakla yükümlüdür.\n b) Kendisine yüklenen suç anlatılır.\n c) Müdafi seçme hakkının bulunduğu ve onun hukukî yardımından yararlanabileceği, müdafiîn ifade sırasında hazır bulunabileceği kendisine bildirilir. Müdafi seçecek durumda olmadığı ve bir müdafi yardımından faydalanmak istediği takdirde, kendisine baro tarafından bir müdafi görevlendirilir.\n d) Müdafi sadece hukukî yardımda bulunabilir, şüphelinin ifadesi alınırken şüpheliye sorulan soruya doğrudan cevap veremez, onun yerini aldığı izlenimi veren herhangi bir müdahalede bulunamaz. Hukukî yardım maddî olayı karartabilecek müdahalelerin yapılması anlamına gelmez. (Değişik cümle:RG-22/7/2022-31900) Müdafi şüpheliye bütün kanunî haklarını hatırlatabilir. (Ek cümle:RG-22/7/2022-31900) Müdafiîn beyanı ve her türlü müdahalesi tutanağa geçirilir.\n e) 5271 sayılı Ceza Muhakemesi Kanununun 95 inci maddesi hükmü saklı kalmak üzere, yakalanan kişinin yakınlarından istediğine yakalandığı derhâl bildirilir.\n f) Yüklenen suç hakkında açıklamada bulunmamasının kanunî hakkı olduğu söylenir.\n g) Şüpheden kurtulması için somut delillerin toplanmasını isteyebileceği hatırlatılır ve kendisi aleyhine var olan şüphe nedenlerini ortadan kaldırmak ve lehine olan hususları ileri sürmek imkânı tanınır.\n h) İfade verenin kişisel ve ekonomik durumu hakkında bilgi alınır.\n i) İfade işlemlerinin kaydında, teknik imkânlardan yararlanılabilir.\n j) İfade bir tutanağa bağlanır. Bu tutanakta şunlar yer alır:\n 1) İfade alma işleminin yapıldığı yer ve tarih,\n 2) İfade alma sırasında hazır bulunan kişilerin isim ve sıfatları ile ifade veren kişinin açık kimliği,\n 3) İfade alma sırasında, yukarıdaki işlemlerin yerine getirilip getirilmediği, bu işlemler yerine getirilmemiş ise nedenleri,\n 4) Tutanak içeriğinin ifade veren ile hazır olan müdafi tarafından okunduğu ve imzaları,\n 5) İmzadan çekinme hâlinde bunun nedenleri.\n İfade esasları bu Yönetmeliğe ekli İfade Tutanağı (EK-D) formatına uygun olarak yerine getirilir.",
+      "preview": "Şüphelinin ifadesinin alınmasında aşağıdaki hususlara uyulur: a) Şüphelinin kimliği saptanır. Şüpheli, kimliğine ilişkin soruları doğru olar…",
+      "kitap": null,
+      "kisim": null,
+      "bolum": "BEŞİNCİ BÖLÜM · İfade Alma",
+      "ayirim": null,
+      "maddeBaslik": "İfade almanın esasları",
+      "sectionPath": [
+        "BEŞİNCİ BÖLÜM · İfade Alma",
+        "İfade almanın esasları"
+      ]
+    },
+    {
+      "id": "yonetmelik:8197:m:24",
+      "maddeKind": "madde",
+      "maddeNo": "24",
+      "heading": "Madde 24",
+      "text": "İfade veren şüphelinin beyanı, özgür iradesine dayanmalıdır. Bunu engelleyici nitelikte kötü davranma, işkence, ilâç verme, yorma, aldatma, cebir veya tehditte bulunma, bazı araçları kullanma gibi bedensel veya ruhsal müdahaleler yapılamaz.\n Kanuna aykırı bir yarar vaat edilemez.\n Yasak usullerle elde edilen ifadeler rıza ile verilmiş olsa da delil olarak değerlendirilemez.\n Şüphelinin aynı olayla ilgili olarak yeniden ifadesinin alınması ihtiyacı ortaya çıktığında, bu işlem ancak Cumhuriyet savcısı tarafından yapılabilir.\n Hiç kimse, kendisini veya kanunda gösterilen yakınlarını suçlayan bir beyanda bulunmaya veya bu yolda delil göstermeye zorlanamaz.",
+      "preview": "İfade veren şüphelinin beyanı, özgür iradesine dayanmalıdır. Bunu engelleyici nitelikte kötü davranma, işkence, ilâç verme, yorma, aldatma,…",
+      "kitap": null,
+      "kisim": null,
+      "bolum": "BEŞİNCİ BÖLÜM · İfade Alma",
+      "ayirim": null,
+      "maddeBaslik": "İfade almada yasak yöntemler",
+      "sectionPath": [
+        "BEŞİNCİ BÖLÜM · İfade Alma",
+        "İfade almada yasak yöntemler"
+      ]
+    },
+    {
+      "id": "yonetmelik:8197:m:25",
+      "maddeKind": "madde",
+      "maddeNo": "25",
+      "heading": "Madde 25",
+      "text": "Nezarethaneler en az 7 metrekare genişliğinde, 2,5 metre yüksekliğinde ve duvarlar arasında en az 2 metre mesafe olacak şekilde düzenlenir. Yeterli doğal ışıklandırma ve havalandırma imkânları sağlanır. Ancak, şüpheli sayısının çokluğu sebebiyle nezarethane imkânlarının yetersiz olması durumunda, nezarethaneler için öngörülen fizikî şartlara sahip başka yerler de kullanılabilir.\n Nezarethanelerde gözaltına alınan kişilerin yatmaları ve oturmaları için yeteri kadar sabit ve dayanıklı oturma yerleri bulundurulur.\n Mevsim ve gözaltı yerlerinin maddî şartları da dikkate alınarak, geceyi gözaltında geçirecek şahıslar için yeterli miktarda battaniye ve yatak temin edilir.\n Tuvalet, banyo ve temizlik ihtiyaçlarının giderilmesi için gerekli tedbirler alınır.\n Nezarethane girişine, onaylanmış nezarethane talimatı asılır.\n İç ve dış emniyeti sağlanmış, özel surette hazırlanmış, teknik donanımlı, bağımsız yerlerin ifade alma odası olarak kullanılmasına özen gösterilir.\n Mevcut nezarethane ve ifade alma odalarının standartlara uygun hâle getirilmesi bütçe imkânları çerçevesinde sağlanır.",
+      "preview": "Nezarethaneler en az 7 metrekare genişliğinde, 2,5 metre yüksekliğinde ve duvarlar arasında en az 2 metre mesafe olacak şekilde düzenlenir.…",
+      "kitap": null,
+      "kisim": null,
+      "bolum": "ALTINCI BÖLÜM · Nezarethane ve İfade Alma Odası",
+      "ayirim": null,
+      "maddeBaslik": "Nezarethane ve ifade alma odası",
+      "sectionPath": [
+        "ALTINCI BÖLÜM · Nezarethane ve İfade Alma Odası",
+        "Nezarethane ve ifade alma odası"
+      ]
+    },
+    {
+      "id": "yonetmelik:8197:m:26",
+      "maddeKind": "madde",
+      "maddeNo": "26",
+      "heading": "Madde 26",
+      "text": "Nezarethane ve ifade alma odalarının standartlara uygunluğunu sağlamak amacı ile kolluk kuvvetlerinin yetkili birimleri tarafından denetleme yapılır.\n Cumhuriyet başsavcıları veya görevlendirecekleri Cumhuriyet savcıları, adlî görevlerinin gereği olarak, gözaltına alınan kişilerin bulundurulacakları nezarethaneleri, varsa ifade alma odalarını, bu kişilerin durumlarını, gözaltına alınma neden ve sürelerini, gözaltına alınma ile ilgili tüm kayıt ve işlemleri denetler; sonucunu Nezarethaneye Alınanların Kaydına Ait Deftere kaydederler.\n Yetkili ve görevli mercilerin mevzuatta öngörülen denetim yetkileri saklıdır.",
+      "preview": "Nezarethane ve ifade alma odalarının standartlara uygunluğunu sağlamak amacı ile kolluk kuvvetlerinin yetkili birimleri tarafından denetleme…",
+      "kitap": null,
+      "kisim": null,
+      "bolum": "ALTINCI BÖLÜM · Nezarethane ve İfade Alma Odası",
+      "ayirim": null,
+      "maddeBaslik": "Nezarethane ve ifade alma odalarının denetimi",
+      "sectionPath": [
+        "ALTINCI BÖLÜM · Nezarethane ve İfade Alma Odası",
+        "Nezarethane ve ifade alma odalarının denetimi"
+      ]
+    },
+    {
+      "id": "yonetmelik:8197:m:27",
+      "maddeKind": "madde",
+      "maddeNo": "27",
+      "heading": "Madde 27",
+      "text": "Suçluluğu bir yargı hükmüne bağlanana kadar kişinin masumiyeti esastır ve soruşturma evresi gizlidir. Bu nedenle, soruşturma evresinde gözaltındaki bir kişinin \"suçlu\" olarak kamuoyuna duyurulmasına, basın önüne çıkartılmasına, kişilerin basınla sorulu cevaplı görüştürülmelerine, görüntülerinin alınmasına, teşhir edilmelerine sebebiyet verilmez ve soruşturma evrakı hiçbir şekilde yayımlanamaz.",
+      "preview": "Suçluluğu bir yargı hükmüne bağlanana kadar kişinin masumiyeti esastır ve soruşturma evresi gizlidir. Bu nedenle, soruşturma evresinde gözal…",
+      "kitap": null,
+      "kisim": null,
+      "bolum": "YEDİNCİ BÖLÜM · Çeşitli ve Son Hükümler",
+      "ayirim": null,
+      "maddeBaslik": "Soruşturmanın gizliliğinin uygulanması",
+      "sectionPath": [
+        "YEDİNCİ BÖLÜM · Çeşitli ve Son Hükümler",
+        "Soruşturmanın gizliliğinin uygulanması"
+      ]
+    },
+    {
+      "id": "yonetmelik:8197:m:28",
+      "maddeKind": "madde",
+      "maddeNo": "28",
+      "heading": "Madde 28",
+      "text": "Cumhuriyet savcısı, kendisine yüklenen suç hakkında açıklamada bulunmuş olan şüpheliye yer gösterme işlemi yaptırabilir. 5271 sayılı Ceza Muhakemesi Kanununun 250 nci maddesinin birinci fıkrası kapsamına giren suçlar söz konusu olduğunda, adlî kolluk âmiri de yer gösterme işlemi yaptırmaya yetkilidir. Bu suçlar dışında yer gösterme işlemi kolluk âmirleri tarafından yaptırılamaz.\n Yer gösterme işlemi soruşturmanın gizliliği ilkesine uygun olarak yerine getirilir.\n Soruşturmayı geciktirmemek kaydıyla, müdafi de yer gösterme işlemi sırasında hazır bulunabilir.\n Yer gösterme işlemi tutanağa bağlanır.\n Bu tutanakta aşağıdaki hususlar yer alır:\n a) Müdafi veya vekil sıfatıyla hazır bulunduğu işlemlerle ilgili tutanakta avukatın isim ve imzasına da yer verilir.\n b) Tutanak, işlemin yapıldığı yeri, zamanı ve işleme katılan veya ilgisi bulunan kimselerin isimlerini içerir.\n c) İşlemde hazır bulunan ilgililerce onanmak üzere tutanağın kendilerini ilgilendiren kısımları okunur veya okumaları için kendilerine verilir. Bu husus tutanağa yazılarak ilgililere imza ettirilir.\n d) İmzadan kaçınma hâlinde nedenleri tutanağa geçirilir.",
+      "preview": "Cumhuriyet savcısı, kendisine yüklenen suç hakkında açıklamada bulunmuş olan şüpheliye yer gösterme işlemi yaptırabilir. 5271 sayılı Ceza Mu…",
+      "kitap": null,
+      "kisim": null,
+      "bolum": "YEDİNCİ BÖLÜM · Çeşitli ve Son Hükümler",
+      "ayirim": null,
+      "maddeBaslik": "Yer gösterme işlemi",
+      "sectionPath": [
+        "YEDİNCİ BÖLÜM · Çeşitli ve Son Hükümler",
+        "Yer gösterme işlemi"
+      ]
+    },
+    {
+      "id": "yonetmelik:8197:m:29",
+      "maddeKind": "madde",
+      "maddeNo": "29",
+      "heading": "Madde 29",
+      "text": "Yakalama, muhafaza altına alma, gözaltına alma ve ifade almada görevli bulunan kolluk kuvvetleri katıldıkları işlemlerle ilgili olarak bu Yönetmelik hükümlerinin uygulanmasından sorumludur.",
+      "preview": "Yakalama, muhafaza altına alma, gözaltına alma ve ifade almada görevli bulunan kolluk kuvvetleri katıldıkları işlemlerle ilgili olarak bu Yö…",
+      "kitap": null,
+      "kisim": null,
+      "bolum": "YEDİNCİ BÖLÜM · Çeşitli ve Son Hükümler",
+      "ayirim": null,
+      "maddeBaslik": "Sorumluluk",
+      "sectionPath": [
+        "YEDİNCİ BÖLÜM · Çeşitli ve Son Hükümler",
+        "Sorumluluk"
+      ]
+    },
+    {
+      "id": "yonetmelik:8197:m:30",
+      "maddeKind": "madde",
+      "maddeNo": "30",
+      "heading": "Madde 30",
+      "text": "Bu Yönetmelikle kolluk kuvvetine verilen görevleri yerine getiren personelin eğitim görmüş olması gerekir.",
+      "preview": "Bu Yönetmelikle kolluk kuvvetine verilen görevleri yerine getiren personelin eğitim görmüş olması gerekir.",
+      "kitap": null,
+      "kisim": null,
+      "bolum": "YEDİNCİ BÖLÜM · Çeşitli ve Son Hükümler",
+      "ayirim": null,
+      "maddeBaslik": "Personelin niteliği",
+      "sectionPath": [
+        "YEDİNCİ BÖLÜM · Çeşitli ve Son Hükümler",
+        "Personelin niteliği"
+      ]
+    },
+    {
+      "id": "yonetmelik:8197:m:31",
+      "maddeKind": "madde",
+      "maddeNo": "31",
+      "heading": "Madde 31",
+      "text": "Eğitime, tecrübeli, suçluluk psikolojisinden anlayan, sabırlı, soğukkanlı, kavrama kabiliyeti yüksek, tercihan psiko-teknik testten geçirilmiş personel katılabilir.\n Eğitim süresi ve müfredatı Adalet Bakanlığının görüşü alınarak ilgisine göre Jandarma Genel Komutanı veya Emniyet Genel Müdürü veya Gümrük Müsteşarı ya da Sahil Güvenlik Komutanının onayı ile belirlenir.\n Adalet Bakanlığı temsilcileri de ilgili personelin eğitimine katılabilir.\n Eğitimi başarı ile bitiren personele, ilgisine göre şekli ve ebadı Jandarma Genel Komutanlığı veya Emniyet Genel Müdürlüğü veya Gümrük Müsteşarlığı ya da Sahil Güvenlik Komutanlığının eğitim birimlerince belirlenen sertifika verilir.\n Eğitimde başarı gösteremeyen personel hakkında Hizmet İçi Eğitim Yönergelerinin ilgili hükümleri uygulanır.\n Tekerrür ve tazeleme gibi özel eğitimlere iştirak ettirilen personele ayrıca sertifika verilmez.",
+      "preview": "Eğitime, tecrübeli, suçluluk psikolojisinden anlayan, sabırlı, soğukkanlı, kavrama kabiliyeti yüksek, tercihan psiko-teknik testten geçirilm…",
+      "kitap": null,
+      "kisim": null,
+      "bolum": "YEDİNCİ BÖLÜM · Çeşitli ve Son Hükümler",
+      "ayirim": null,
+      "maddeBaslik": "Personelin eğitimi",
+      "sectionPath": [
+        "YEDİNCİ BÖLÜM · Çeşitli ve Son Hükümler",
+        "Personelin eğitimi"
+      ]
+    },
+    {
+      "id": "yonetmelik:8197:m:32",
+      "maddeKind": "madde",
+      "maddeNo": "32",
+      "heading": "Madde 32",
+      "text": "1/10/1998 tarihli ve 23480 sayılı Resmî Gazete’de yayımlanan Yakalama, Gözaltına Alma ve İfade Alma Yönetmeliği yürürlükten kaldırılmıştır.",
+      "preview": "1/10/1998 tarihli ve 23480 sayılı Resmî Gazete’de yayımlanan Yakalama, Gözaltına Alma ve İfade Alma Yönetmeliği yürürlükten kaldırılmıştır.",
+      "kitap": null,
+      "kisim": null,
+      "bolum": "YEDİNCİ BÖLÜM · Çeşitli ve Son Hükümler",
+      "ayirim": null,
+      "maddeBaslik": "Yürürlükten kaldırılan mevzuat",
+      "sectionPath": [
+        "YEDİNCİ BÖLÜM · Çeşitli ve Son Hükümler",
+        "Yürürlükten kaldırılan mevzuat"
+      ]
+    },
+    {
+      "id": "yonetmelik:8197:m:33",
+      "maddeKind": "madde",
+      "maddeNo": "33",
+      "heading": "Madde 33",
+      "text": "Bu Yönetmelik yayımı tarihinde yürürlüğe girer.",
+      "preview": "Bu Yönetmelik yayımı tarihinde yürürlüğe girer.",
+      "kitap": null,
+      "kisim": null,
+      "bolum": "YEDİNCİ BÖLÜM · Çeşitli ve Son Hükümler",
+      "ayirim": null,
+      "maddeBaslik": "Yürürlük",
+      "sectionPath": [
+        "YEDİNCİ BÖLÜM · Çeşitli ve Son Hükümler",
+        "Yürürlük"
+      ]
+    },
+    {
+      "id": "yonetmelik:8197:m:34",
+      "maddeKind": "madde",
+      "maddeNo": "34",
+      "heading": "Madde 34",
+      "text": "Bu Yönetmelik hükümlerini Adalet Bakanı yürütür.\n ______________\n 1Danıştay Onuncu Dairesinin 22/5/2008 tarihli ve E.: 2005/5845, K.: 2008/3450, E.:2005/6711, K.: 2008/3451, E.:2005/5029, K.:2008/3452, E.: 2005/5538, K.:2008/3453 ve 14/10/2008 tarihli ve E.:2005/4665, K.:2008/6556 sayılı Kararları ile bu maddenin birinci fıkrasında yer alan “…Kollukta bulunan soruşturma dosyası için yetkili Cumhuriyet savcısının yazılı emri gerekir…” ibaresi iptal edilmiştir. Yapılan temyiz üzerine söz konusu bu Kararlar Danıştay İdari Dava Daireleri Kurulu 20/11/2012 tarihli ve E.: 2009/1944, K.: 2012/2136 E.: 2008/2358, K.:2012/2133 E.: 2008/3257, K.:2012/2137, E.: 2009/139, K.:2012/2134 ve E.: 2009/138, K.:2012/2135 sayılı Kararları ile onanmıştır.\n\n Yönetmeliğin eklerini görmek için tıklayınız\n\n Yönetmeliğin Yayımlandığı Resmî Gazete’nin\n\n Tarihi\n Sayısı\n\n 1/6/2005\n 25832\n\n Yönetmelikte Değişiklik Yapan Yönetmeliklerin Yayımlandığı Resmî Gazetelerin\n\n Tarihi\n Sayısı\n\n 1.\n 22/7/2022\n 31900\n\n 2.",
+      "preview": "Bu Yönetmelik hükümlerini Adalet Bakanı yürütür. ______________ 1Danıştay Onuncu Dairesinin 22/5/2008 tarihli ve E.: 2005/5845, K.: 2008/345…",
+      "kitap": null,
+      "kisim": null,
+      "bolum": "YEDİNCİ BÖLÜM · Çeşitli ve Son Hükümler",
+      "ayirim": null,
+      "maddeBaslik": "Yürütme",
+      "sectionPath": [
+        "YEDİNCİ BÖLÜM · Çeşitli ve Son Hükümler",
+        "Yürütme"
+      ]
+    }
+  ]
+}

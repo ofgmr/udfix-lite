@@ -14,6 +14,7 @@ import {
     editorClampHorizontalPageMargins,
     editorClampVerticalPageMargins,
 } from './editorLayout';
+import { getCumulativeCssZoom } from './editorCssZoom';
 
 /** PaginationPlus `addStorage()` ile `editor.storage.PaginationPlus` üzerinde tutulan alanlar (TipTap v3’te gerçek mutable kaynak) */
 export type PaginationPlusPageConfig = {
@@ -127,8 +128,8 @@ export function updateRmCssVariables(targetNode: HTMLElement, config: Pagination
     for (const [key, value] of Object.entries(cssVariables)) {
         targetNode.style.setProperty(`--${key}`, value);
     }
-    // Plugin bazı durumlarda sadece CSS var güncellemesiyle genişlik/padding'i geç uyguluyor.
-    // Doğrudan stil yazımı A3/Letter geçişlerinde deterministic sonuç verir.
+    // Direct style writes keep A4 width/padding deterministic even if the plugin
+    // only updates CSS variables on a later frame.
     targetNode.style.width = `${config.pageWidth}px`;
     targetNode.style.paddingLeft = `${config.marginLeft}px`;
     targetNode.style.paddingRight = `${config.marginRight}px`;
@@ -160,14 +161,17 @@ export function applyPaginationFullBleedDomFix(editor: Editor | null): void {
     const breakers = pagination.querySelectorAll('.breaker');
     const gaps = pagination.querySelectorAll('.rm-pagination-gap');
     const firstHeader = root.querySelector('.rm-first-page-header') as HTMLElement | null;
-    const firstBreaker = breakers[0] as HTMLElement | undefined;
-    const firstGap = gaps[0] as HTMLElement | undefined;
+    const breakerHasGeometry = (el: HTMLElement) =>
+        el.style.getPropertyValue('width') === widthPx &&
+        el.style.getPropertyPriority('width') === 'important' &&
+        el.style.getPropertyValue('margin-left') === marginLeftPx;
+    const gapHasGeometry = (el: HTMLElement) =>
+        el.style.getPropertyValue('width') === gapWidthPx &&
+        el.style.getPropertyPriority('width') === 'important';
     const alreadyApplied =
-        firstBreaker != null &&
-        firstBreaker.style.getPropertyValue('width') === widthPx &&
-        firstBreaker.style.getPropertyPriority('width') === 'important' &&
-        firstBreaker.style.getPropertyValue('margin-left') === marginLeftPx &&
-        (!firstGap || firstGap.style.getPropertyValue('width') === gapWidthPx) &&
+        breakers.length > 0 &&
+        Array.from(breakers).every((node) => breakerHasGeometry(node as HTMLElement)) &&
+        Array.from(gaps).every((node) => gapHasGeometry(node as HTMLElement)) &&
         (!firstHeader ||
             (firstHeader.style.getPropertyValue('width') === widthPx &&
                 firstHeader.style.getPropertyPriority('width') === 'important'));
@@ -204,32 +208,6 @@ export function applyPaginationFullBleedDomFix(editor: Editor | null): void {
         firstHeader.style.setProperty('margin-right', marginRightPx, 'important');
         firstHeader.style.setProperty('box-sizing', 'border-box', 'important');
     }
-}
-
-/**
- * Cumulative CSS `zoom` factor between `start` and the document root.
- *
- * `getBoundingClientRect()` returns visual (post-zoom) pixels, but inline
- * `style.marginBottom` declarations are interpreted in CSS pixels and then
- * re-zoomed by the engine. When the editor canvas sits inside
- * `.udfix-editor-zoom-shell { zoom: 0.75 }`, a measured 600 px gap must be
- * written as `800px` (= 600 / 0.75) so the engine produces 600 px visually.
- *
- * Returns 1 if no ancestor has zoom — safe to divide by.
- */
-function getCumulativeCssZoom(start: Element | null): number {
-    if (!start || typeof window === 'undefined') return 1;
-    let factor = 1;
-    let node: Element | null = start;
-    while (node && node !== document.documentElement) {
-        const zStr = window.getComputedStyle(node).zoom;
-        if (zStr && zStr !== 'normal') {
-            const z = Number.parseFloat(zStr);
-            if (Number.isFinite(z) && z > 0) factor *= z;
-        }
-        node = node.parentElement;
-    }
-    return factor > 0 ? factor : 1;
 }
 
 /**
@@ -345,7 +323,7 @@ export function syncRmPageContentCssVariablesFromStorage(editor: Editor): void {
     if (!pag || !editor.view?.dom) return;
 
     const dom = editor.view.dom;
-    // Plugin rebuild (pageGap toggle) can reset --rm-margin-* to extension defaults (50px)
+    // Plugin rebuild (pageGap toggle) can reset --rm-margin-* to extension defaults
     // after applyPaginationMargins wrote UYAP values — re-apply from storage every sync.
     updateRmCssVariables(dom, pag);
     const cmt = Number(pag.contentMarginTop);
@@ -510,11 +488,22 @@ function getPaginationPlusExtensionOptions(
 }
 
 /**
- * PaginationPlus dekorasyonlarını kesin yeniden hesaplatır.
- * Bazı durumlarda storage/options senkron olduğunda plugin yeni ölçüyü yeniden çizmez;
- * küçük bir pageGap toggling ile deterministic rebuild tetiklenir.
+ * PaginationPlus 3.1.0 has no public `requestRebuild` API (`dist/PaginationPlus.js`
+ * `apply()` only rebuilds widgets when storage differs from `appliedConfig`).
+ * After we already wrote storage + options, a single empty dispatch can skip
+ * decoration rebuild and leave `--rm-page-content-*` stale.
+ *
+ * `pageGapToggle` is **kept** after the 3.1.0 NOMAI patch: ±1 then restore forces
+ * two transactions so `view.update` recomputes page widgets. Plugin
+ * `updateCssVariables` may then paint default 50px `--rm-margin-*` (Faz 4 leftover)
+ * — callers must re-apply storage→CSS via `scheduleRmPageContentCssSync`.
+ *
+ * Flip to `'none'` only after confirming margin/HF apply still refreshes widgets.
  */
-function forcePaginationPlusDecorationRebuild(editor: Editor): void {
+export type PaginationRebuildStrategy = 'pageGapToggle' | 'none';
+export const PAGINATION_REBUILD_STRATEGY: PaginationRebuildStrategy = 'pageGapToggle';
+
+function forcePaginationPlusPageGapToggleRebuild(editor: Editor): void {
     const o = getPaginationPlusExtensionOptions(editor);
     if (!o || !editor.view) return;
     const currentGap = Number(o.pageGap ?? 30) || 30;
@@ -522,6 +511,20 @@ function forcePaginationPlusDecorationRebuild(editor: Editor): void {
     editor.view.dispatch(editor.state.tr);
     o.pageGap = currentGap;
     editor.view.dispatch(editor.state.tr);
+}
+
+function applyPaginationRebuildStrategy(editor: Editor, strategy: PaginationRebuildStrategy): void {
+    switch (strategy) {
+        case 'pageGapToggle':
+            forcePaginationPlusPageGapToggleRebuild(editor);
+            return;
+        case 'none':
+            return;
+        default: {
+            const _exhaustive: never = strategy;
+            return _exhaustive;
+        }
+    }
 }
 
 /**
@@ -542,11 +545,10 @@ function scheduleRmPageContentCssSync(editor: Editor): void {
 
 /**
  * HF/cetvel sonrası storage/options/CSS tutarlılığı.
- * A4-only mode: sayfa boyutu her zaman sabitlenir.
+ * A4-only: page dimensions are always pinned (ADR-0019).
  */
 export function reconcilePaginationPlusLayout(
     editor: Editor | null,
-    _size?: Partial<PaginationPlusPageSize>,
     opts?: { forceDecorationRebuild?: boolean },
 ): void {
     if (!editor || editor.isDestroyed) return;
@@ -558,17 +560,22 @@ export function reconcilePaginationPlusLayout(
     syncPaginationPlusExtensionOptions(editor, pag);
     updateRmCssVariables(editor.view.dom, pag);
     if (opts?.forceDecorationRebuild) {
-        forcePaginationPlusDecorationRebuild(editor);
+        applyPaginationRebuildStrategy(editor, PAGINATION_REBUILD_STRATEGY);
+        // Re-apply storage→CSS immediately so the plugin's 50px `--rm-margin-*`
+        // reset cannot flash body overflow. Do NOT run full-bleed here: writing
+        // gap/breaker inline widths mid-`pageGapToggle` races page-count
+        // measurement and reintroduces gap+footer PDF drift. Full-bleed stays
+        // on the 2-frame `scheduleRmPageContentCssSync` pass.
+        updateRmCssVariables(editor.view.dom, pag);
     }
     scheduleRmPageContentCssSync(editor);
 }
 
-/** Sayfa boyutunu (A4/Letter/A3 vb.) mevcut marjları koruyarak uygular. */
-export function applyPaginationPageSize(
-    editor: Editor,
-    size: PaginationPlusPageSize,
-): PaginationPlusPageSize | null {
-    void size;
+/**
+ * Re-pin A4 page size and re-clamp current margins (ADR-0019).
+ * Paper size is not a runtime parameter; UYAP evrak is A4 portrait only.
+ */
+export function applyPaginationPageSize(editor: Editor): PaginationPlusPageSize | null {
     const pag = getPaginationPlusStorage(editor);
     if (!pag || !editor.view?.dom) return null;
     normalizePaginationPlusDimensionsIfPluginDefaults(pag);
@@ -584,7 +591,8 @@ export function applyPaginationPageSize(
 
     syncPaginationPlusExtensionOptions(editor, pag);
     updateRmCssVariables(editor.view.dom, pag);
-    forcePaginationPlusDecorationRebuild(editor);
+    applyPaginationRebuildStrategy(editor, PAGINATION_REBUILD_STRATEGY);
+    updateRmCssVariables(editor.view.dom, pag);
     scheduleRmPageContentCssSync(editor);
     return { pageWidth: EDITOR_PAGE_WIDTH_PX, pageHeight: EDITOR_PAGE_HEIGHT_PX };
 }
@@ -657,8 +665,11 @@ export function applyPaginationMargins(
     syncPaginationPlusExtensionOptions(editor, pag);
     updateRmCssVariables(editor.view.dom, pag);
     // Tek `dispatch` yetmiyor: plugin `view.update` içindeki `--rm-page-content-*` stale kalıyor;
-    // pageGap toggle ile tam rebuild şart; sürüklerken rebuild atlamak sayfa arası şeridi bozuyordu.
-    forcePaginationPlusDecorationRebuild(editor);
+    // `PAGINATION_REBUILD_STRATEGY` (pageGap toggle) ile tam rebuild şart; sürüklerken rebuild
+    // atlamak sayfa arası şeridi bozuyordu. Immediate storage→CSS after rebuild (margin
+    // flash); full-bleed waits for `scheduleRmPageContentCssSync` after plugin RAF.
+    applyPaginationRebuildStrategy(editor, PAGINATION_REBUILD_STRATEGY);
+    updateRmCssVariables(editor.view.dom, pag);
     scheduleRmPageContentCssSync(editor);
     return { top, bottom, left, right };
 }

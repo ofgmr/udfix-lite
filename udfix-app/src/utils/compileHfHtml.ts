@@ -57,7 +57,74 @@ function formatDate(format: DateFormatType): string {
         case 'DD.MM.YYYY': return `${pad(day)}.${pad(month + 1)}.${year}`;
         case 'DD MMMM YYYY': return `${day} ${MONTHS[month]} ${year}`;
         case 'YYYY-MM-DD': return `${year}-${pad(month + 1)}-${pad(day)}`;
-        default: return `${pad(day)}.${pad(month + 1)}.${year}`;
+        default: {
+            const _exhaustive: never = format;
+            return _exhaustive;
+        }
+    }
+}
+
+type HfVariableKind = 'date' | 'title' | 'page' | 'total';
+
+/** TipTap serialises `data-id` before `data-type`; match either order. */
+const HF_VARIABLE_SPAN_RE =
+    /<span\b[^>]*\bdata-type\s*=\s*["']variable["'][^>]*>[\s\S]*?<\/span>|<span\b[^>]*\bdata-type\s*=\s*["']variable["'][^>]*\/>/gi;
+
+const HF_VARIABLE_KIND_BY_ID: Record<string, HfVariableKind> = {
+    date: 'date',
+    title: 'title',
+    page: 'page',
+    total: 'total',
+    totalPages: 'total',
+};
+
+function hfVariableKind(id: string): HfVariableKind | null {
+    return HF_VARIABLE_KIND_BY_ID[id] ?? null;
+}
+
+function hfVariableSpanToToken(span: string): string {
+    const id = span.match(/\bdata-id\s*=\s*["']([^"']*)["']/i)?.[1] ?? '';
+    const kind = hfVariableKind(id);
+    if (!kind) return span;
+    switch (kind) {
+        case 'date':
+            return '{date}';
+        case 'title':
+            return '{title}';
+        case 'page':
+            return '{page}';
+        case 'total':
+            return '{totalPages}';
+        default: {
+            const _exhaustive: never = kind;
+            return _exhaustive;
+        }
+    }
+}
+
+/** Turn HF variable chips into `{page}` / `{date}` / `{title}` / `{totalPages}` text. */
+export function hfVariableSpansToTokens(html: string): string {
+    if (!html || !/data-type\s*=\s*["']variable["']/i.test(html)) return html;
+    return html.replace(HF_VARIABLE_SPAN_RE, hfVariableSpanToToken);
+}
+
+function replaceHfVariableSpan(span: string, dateStr: string, docTitle: string): string {
+    const id = span.match(/\bdata-id\s*=\s*["']([^"']*)["']/i)?.[1] ?? '';
+    const kind = hfVariableKind(id);
+    if (!kind) return span;
+    switch (kind) {
+        case 'date':
+            return dateStr;
+        case 'title':
+            return docTitle;
+        case 'page':
+            return '{page}';
+        case 'total':
+            return '{total}';
+        default: {
+            const _exhaustive: never = kind;
+            return _exhaustive;
+        }
     }
 }
 
@@ -70,17 +137,13 @@ function resolveVars(text: string, dateStr: string, docTitle: string): string {
     let result = text;
     // Support multi-line: convert literal newlines to <br>
     result = result.replace(/\n/g, '<br>');
+    // Variable nodes first, so a label of "{date}" is not resolved twice.
+    result = result.replace(HF_VARIABLE_SPAN_RE, (span) => replaceHfVariableSpan(span, dateStr, docTitle));
     // Resolve custom vars eagerly
     result = result.replace(/\{date\}/g, dateStr);
     result = result.replace(/\{title\}/g, docTitle);
     // Normalize totalPages → total (plugin alias)
     result = result.replace(/\{totalPages\}/g, '{total}');
-    // VariableNode spans: resolve data-id="date", "title", "totalPages"
-    result = result.replace(/<span[^>]*data-type="variable"[^>]*data-id="date"[^>]*>.*?<\/span>/g, dateStr);
-    result = result.replace(/<span[^>]*data-type="variable"[^>]*data-id="title"[^>]*>.*?<\/span>/g, docTitle);
-    result = result.replace(/<span[^>]*data-type="variable"[^>]*data-id="totalPages"[^>]*>.*?<\/span>/g, '{total}');
-    // Keep {page} and data-id="page" VariableNode spans as-is (plugin resolves them)
-    result = result.replace(/<span[^>]*data-type="variable"[^>]*data-id="page"[^>]*>.*?<\/span>/g, '{page}');
     return result;
 }
 
@@ -131,12 +194,15 @@ function getColStyles(layout: CompileHfOptions['layout']): { left: string; cente
                 right: `${COL_BASE};flex:0 0 80%;text-align:right`,
             };
         case '3-col-equal':
-        default:
             return {
                 left: `${COL_BASE};flex:1;text-align:left`,
                 center: `${COL_BASE};flex:1;text-align:center`,
                 right: `${COL_BASE};flex:1;text-align:right`,
             };
+        default: {
+            const _exhaustive: never = layout;
+            return _exhaustive;
+        }
     }
 }
 
@@ -169,6 +235,9 @@ export function compileHfHtml(opts: CompileHfOptions): string {
     // Indent
     const indentStyle = indent > 0 ? `padding-left:${indent}px;padding-right:${indent}px` : '';
 
+    // Intentional PaginationPlus slot default (not a live mini-toolbar pipeline).
+    // Mini-editor chrome uses `--hf-font-family` / `--hf-font-size` (11px); TextStyle/FontSize
+    // on column HTML override this container. Unstyled typed text therefore prints as Inter 10px.
     const containerStyle = [
         'display:flex',
         'justify-content:space-between',
@@ -205,8 +274,11 @@ function getDocxColumnWidths(layout: CompileHfOptions['layout']): [number, numbe
         case '2-col-20-80':
             return [20, 0, 80];
         case '3-col-equal':
-        default:
             return [33.33, 33.34, 33.33];
+        default: {
+            const _exhaustive: never = layout;
+            return _exhaustive;
+        }
     }
 }
 
@@ -230,6 +302,7 @@ export function compileHfHtmlForDocx(opts: CompileHfOptions): string {
         'width:100%',
         'border-collapse:collapse',
         'table-layout:fixed',
+        // Same intentional PaginationPlus/DOCX slot default as `compileHfHtml` (Inter 10px).
         'font-family:Inter,sans-serif',
         'font-size:10px',
         'line-height:1.4',

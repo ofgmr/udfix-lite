@@ -1,4 +1,5 @@
 import { useLayoutStore } from '../stores/useLayoutStore';
+import { scheduleAfterUiEvent } from './scheduleAfterUiEvent';
 
 export type EntityFormComponent = 'matterForm' | 'partyForm' | 'knowledgeForm';
 
@@ -30,17 +31,26 @@ export function openEntityFloatingPanel(options: OpenEntityFloatingPanelOptions)
     const left = Math.round(Math.max(48, (window.innerWidth - width) / 2));
     const top = Math.max(48, Math.round((window.innerHeight - height) / 2));
 
-    api.addPanel({
-        id: options.id,
-        component: options.component,
-        title: options.title,
-        tabComponent: 'entityFloatingTab',
-        params: options.params ?? {},
-        floating: {
-            position: { left, top },
-            width,
-            height,
-        },
+    scheduleAfterUiEvent(() => {
+        const liveApi = useLayoutStore.getState().dockviewApi;
+        if (!liveApi) return;
+        const already = liveApi.getPanel(options.id);
+        if (already) {
+            already.api.setActive?.();
+            return;
+        }
+        liveApi.addPanel({
+            id: options.id,
+            component: options.component,
+            title: options.title,
+            tabComponent: 'entityFloatingTab',
+            params: options.params ?? {},
+            floating: {
+                position: { left, top },
+                width,
+                height,
+            },
+        });
+        liveApi.getPanel(options.id)?.api.setActive?.();
     });
-    api.getPanel(options.id)?.api.setActive?.();
 }

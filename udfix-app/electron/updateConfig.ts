@@ -1,6 +1,6 @@
 import { app } from 'electron';
 
-export const LITE_UPDATE_FEED_URL = 'https://releases.udfix.com/lite/macos/';
+export const LITE_UPDATE_FEED_URL = 'https://releases.udfix.app/lite/macos/';
 export const DEFAULT_UPDATE_FEED_URL = LITE_UPDATE_FEED_URL;
 export const UPDATE_CHECK_DELAY_MS = 30_000;
 export const UPDATE_CHECK_INTERVAL_MS = 6 * 60 * 60 * 1000;

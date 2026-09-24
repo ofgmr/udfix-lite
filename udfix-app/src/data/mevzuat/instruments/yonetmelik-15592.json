@@ -1,0 +1,546 @@
+{
+  "id": "yonetmelik:15592",
+  "kind": "yonetmelik",
+  "no": "15592",
+  "title": "Gıda Hijyeni Yönetmeliği",
+  "shortName": "Gıda Hijyeni Yön.",
+  "aliases": [
+    "Gıda Hijyeni Yön.",
+    "Gıda Hijyeni Yönetmeliği",
+    "15592"
+  ],
+  "tur": 7,
+  "tertip": 5,
+  "sourceUrl": "https://www.mevzuat.gov.tr/mevzuat?MevzuatNo=15592&MevzuatTur=7&MevzuatTertip=5",
+  "kabulTarihi": null,
+  "maddeCount": 31,
+  "maddeler": [
+    {
+      "id": "yonetmelik:15592:m:1",
+      "maddeKind": "madde",
+      "maddeNo": "1",
+      "heading": "Madde 1",
+      "text": "(1) Bu Yönetmeliğin amacı, gıda güvenilirliği açısından tüketicinin korunmasını sağlamak amacıyla gıda işletmecisinin, gıdanın birincil üretiminden son tüketiciye arzına kadar uyması gereken gıda hijyenine ilişkin genel kuralları belirlemektir.",
+      "preview": "(1) Bu Yönetmeliğin amacı, gıda güvenilirliği açısından tüketicinin korunmasını sağlamak amacıyla gıda işletmecisinin, gıdanın birincil üret…",
+      "kitap": null,
+      "kisim": null,
+      "bolum": "BİRİNCİ BÖLÜM · Amaç, Kapsam, Dayanak ve Tanımlar",
+      "ayirim": null,
+      "maddeBaslik": "Amaç",
+      "sectionPath": [
+        "BİRİNCİ BÖLÜM · Amaç, Kapsam, Dayanak ve Tanımlar",
+        "Amaç"
+      ]
+    },
+    {
+      "id": "yonetmelik:15592:m:2",
+      "maddeKind": "madde",
+      "maddeNo": "2",
+      "heading": "Madde 2",
+      "text": "(1) Bu Yönetmelik; gıda işletmecisinin birincil üretim aşaması dahil üretim, işleme ve dağıtımın tüm aşamalarında gıda hijyenini sağlamak üzere uyması gereken genel hijyen kuralları ile sorumluluklarına ilişkin usul ve esasları kapsar.\n (2) Bu Yönetmelik, ithalat ve ihracat kontrolleri ile Hayvansal Gıdalar İçin Özel Hijyen Kuralları Yönetmeliğinin uygulandığı gıda işletmecileri için de geçerlidir.\n (3) Bu Yönetmelik;\n a) Kişisel tüketim amacıyla birincil üretime,\n b) Kişisel tüketim amacıyla gıdanın hazırlanması, işlenmesi ve depolanmasına,\n c) Üreticisi tarafından küçük miktarlardaki birincil ürünlerin son tüketiciye veya son tüketiciye doğrudan satışını yapan yerel perakendecilere doğrudan arzına,\n ç) Sadece, jelatin ve kolajen üretimi için hammadde sağlayan ve tanım gereği gıda işletmesi kapsamında olan toplama merkezleri ve tabakhanelere,\n uygulanmaz.",
+      "preview": "(1) Bu Yönetmelik; gıda işletmecisinin birincil üretim aşaması dahil üretim, işleme ve dağıtımın tüm aşamalarında gıda hijyenini sağlamak üz…",
+      "kitap": null,
+      "kisim": null,
+      "bolum": "BİRİNCİ BÖLÜM · Amaç, Kapsam, Dayanak ve Tanımlar",
+      "ayirim": null,
+      "maddeBaslik": "Kapsam",
+      "sectionPath": [
+        "BİRİNCİ BÖLÜM · Amaç, Kapsam, Dayanak ve Tanımlar",
+        "Kapsam"
+      ]
+    },
+    {
+      "id": "yonetmelik:15592:m:3",
+      "maddeKind": "madde",
+      "maddeNo": "3",
+      "heading": "Madde 3",
+      "text": "(1) Bu Yönetmelik,\n a) 11/6/2010 tarihli ve 5996 sayılı Veteriner Hizmetleri, Bitki Sağlığı, Gıda ve Yem Kanununun 22 nci, 24 üncü, 27 nci, 28 inci, 29 uncu, 30 uncu, 31 inci, 32 nci ve 34 üncü maddelerine dayanılarak,\n b) 852/2004/EC sayılı Gıdaların Hijyenine İlişkin Avrupa Parlamentosu ve Konsey Tüzüğüne paralel olarak,\n hazırlanmıştır.",
+      "preview": "(1) Bu Yönetmelik, a) 11/6/2010 tarihli ve 5996 sayılı Veteriner Hizmetleri, Bitki Sağlığı, Gıda ve Yem Kanununun 22 nci, 24 üncü, 27 nci, 2…",
+      "kitap": null,
+      "kisim": null,
+      "bolum": "BİRİNCİ BÖLÜM · Amaç, Kapsam, Dayanak ve Tanımlar",
+      "ayirim": null,
+      "maddeBaslik": "Dayanak",
+      "sectionPath": [
+        "BİRİNCİ BÖLÜM · Amaç, Kapsam, Dayanak ve Tanımlar",
+        "Dayanak"
+      ]
+    },
+    {
+      "id": "yonetmelik:15592:m:4",
+      "maddeKind": "madde",
+      "maddeNo": "4",
+      "heading": "Madde 4",
+      "text": "(1) 5996 sayılı Kanunun 3 üncü maddesindeki tanımlara ilave olarak bu maddenin ikinci fıkrasında yer alan tanımlar da geçerlidir.\n (2) Bu Yönetmeliğin uygulanmasında;\n a) Ambalajlama/ambalaj: Gıdanın bir kaba doğrudan temas edecek biçimde yerleştirilmesini veya kabın kendisini,\n b) Bakanlık: Gıda, Tarım ve Hayvancılık Bakanlığını,\n c) Bulaşma: Bir tehlikeyi veya başlangıcını,\n ç) Eşdeğer: Aynı hedefleri karşılamaya yetkin olan farklı sistemler veya tedbirleri,\n d) Gıda hijyeni: Tehlikenin kontrol altına alınması ve gıdaların kullanım amacı dikkate alınarak, insan tüketimine uygunluğunun sağlanması için gerekli her türlü önlem ve koşulları,\n e) Gıda işi: Kar amaçlı olsun veya olmasın, kamu kurum ve kuruluşları ile gerçek veya tüzel kişiler tarafından, gıdanın üretimi, işlenmesi ve dağıtımının herhangi bir aşamasıyla ilgili bir faaliyeti,\n f) Hermetik olarak kapatılmış kap: Tehlike girişine karşı güvenlik oluşturmak amacıyla tasarlanmış kabı,\n g) İçilebilir su: 17/2/2005 tarihli ve 25730 sayılı Resmî Gazete’de yayımlanan İnsani Tüketim Amaçlı Sular Hakkında Yönetmelikte yer alan özelliklere uygun insan tüketimi amaçlı suları,\n ğ) İşleme: Isıl işlem, tütsüleme, kürleme, olgunlaştırma, kurutma, marinasyon, ekstraksiyon, ekstrüzyon ya da bunların bir veya bir kaçının birlikte uygulanmasını da kapsayan ve başlangıçtaki ürünü temel olarak değiştiren herhangi bir işlemi,\n h) İşlenmemiş ürünler: Hasat edilen, bölünen, parçalara ayrılan, dilimlenen, doğranan, kemiğinden ayrılan, kıyılan, yüzülen, soyulan, çekilen, kesilen, temizlenen, ayıklanan, trimlenen, kabuğundan ayrılan, öğütülen, soğutulan, dondurulan, derin dondurulan veya çözündürülen ürünleri de içeren işlemeye tabi tutulmamış gıdaları,\n ı) İşlenmiş ürünler: İşlenmemiş ürünlerin işlenmesi sonucu elde edilen ve üretimleri için gerekli olan veya onlara karakteristik özelliklerini veren bileşenleri içeren gıdaları,\n i) Kanun: 5996 sayılı Veteriner Hizmetleri, Bitki Sağlığı, Gıda ve Yem Kanununu,\n j) Paketleme/paket: Bir veya birden fazla ambalajlanmış gıdanın ikinci bir kaba yerleştirilmesini veya ikinci kabın kendisini,\n k) Son tüketici: Gıdayı herhangi bir ticari iş veya faaliyet amacıyla kullanmayacak olan en son tüketiciyi,\n l) Temiz deniz suyu: Doğal, yapay veya arıtılmış deniz suyu veya gıdanın sağlık kalitesini doğrudan veya dolaylı olarak etkileyecek düzeyde mikro-organizma, zararlı maddeler veya zehirli deniz planktonu içermeyen tuzlu suyu,\n m) Temiz su: Temiz deniz suyu ve aynı kalitedeki tatlı suyu,\n n) Tesis: Gıda işletmesindeki herhangi bir birimi,\n ifade eder.\n İKİNCİ BÖLÜM\n Gıda İşletmecisinin Genel Sorumlulukları, Genel İlkeler,",
+      "preview": "(1) 5996 sayılı Kanunun 3 üncü maddesindeki tanımlara ilave olarak bu maddenin ikinci fıkrasında yer alan tanımlar da geçerlidir. (2) Bu Yön…",
+      "kitap": null,
+      "kisim": null,
+      "bolum": "BİRİNCİ BÖLÜM · Amaç, Kapsam, Dayanak ve Tanımlar",
+      "ayirim": null,
+      "maddeBaslik": "Tanımlar",
+      "sectionPath": [
+        "BİRİNCİ BÖLÜM · Amaç, Kapsam, Dayanak ve Tanımlar",
+        "Tanımlar"
+      ]
+    },
+    {
+      "id": "yonetmelik:15592:m:5",
+      "maddeKind": "madde",
+      "maddeNo": "5",
+      "heading": "Madde 5",
+      "text": "(1) Gıda işletmecisi, kontrolü altındaki üretim, işleme ve dağıtım aşamalarının tümünün bu Yönetmelikte belirtilen ilgili hijyen gerekliliklerinin sağlanmasından sorumludur.",
+      "preview": "(1) Gıda işletmecisi, kontrolü altındaki üretim, işleme ve dağıtım aşamalarının tümünün bu Yönetmelikte belirtilen ilgili hijyen gereklilikl…",
+      "kitap": null,
+      "kisim": null,
+      "bolum": "BİRİNCİ BÖLÜM · Amaç, Kapsam, Dayanak ve Tanımlar",
+      "ayirim": null,
+      "maddeBaslik": "Gıda işletmecisinin genel sorumlulukları",
+      "sectionPath": [
+        "BİRİNCİ BÖLÜM · Amaç, Kapsam, Dayanak ve Tanımlar",
+        "Gıda işletmecisinin genel sorumlulukları"
+      ]
+    },
+    {
+      "id": "yonetmelik:15592:m:6",
+      "maddeKind": "madde",
+      "maddeNo": "6",
+      "heading": "Madde 6",
+      "text": "(1) Gıda işletmecisi için gıda hijyenine ilişkin bu Yönetmelikte belirlenen kurallar aşağıdaki genel ilkeler dikkate alınarak belirlenmiştir.\n a) Gıda güvenilirliğinin sağlanmasında sorumluluk öncelikle gıda işletmecisindedir.\n b) Gıda güvenilirliğinin birincil üretimden başlayarak son tüketiciye kadar gıda zinciri boyunca sağlanması gereklidir.\n c) Ortam sıcaklığında güvenilir bir şekilde muhafaza edilemeyen özellikle soğukta muhafazası gereken gıdalarda, soğuk zincirin korunması gereklidir.\n ç) Tehlike analizi ve kritik kontrol noktaları/HACCP ilkelerine dayanan prosedürlerin iyi hijyen uygulamaları ile birlikte uygulanmasından gıda işletmecisi sorumludur.\n d) İyi uygulama kılavuzları, gıda işletmecisine gıda zincirinin tüm aşamalarında gıda hijyeni kuralları ile tehlike analizi ve kritik kontrol noktaları/HACCP ilkelerine uyum için yardımcı olan önemli bir araçtır.\n e) Bilimsel risk değerlendirmesine dayalı mikrobiyolojik kriterlerinin ve sıcaklık kontrol gerekliliklerinin belirlenmesi gerekir.\n f) İthal edilen gıdanın, en az yurtiçinde üretilen gıda ile aynı hijyen kurallarına veya eşdeğer bir kurala tabi olması gerekir.",
+      "preview": "(1) Gıda işletmecisi için gıda hijyenine ilişkin bu Yönetmelikte belirlenen kurallar aşağıdaki genel ilkeler dikkate alınarak belirlenmiştir…",
+      "kitap": null,
+      "kisim": null,
+      "bolum": "BİRİNCİ BÖLÜM · Amaç, Kapsam, Dayanak ve Tanımlar",
+      "ayirim": null,
+      "maddeBaslik": "Genel ilkeler",
+      "sectionPath": [
+        "BİRİNCİ BÖLÜM · Amaç, Kapsam, Dayanak ve Tanımlar",
+        "Genel ilkeler"
+      ]
+    },
+    {
+      "id": "yonetmelik:15592:m:7",
+      "maddeKind": "madde",
+      "maddeNo": "7",
+      "heading": "Madde 7",
+      "text": "(1) Birincil üretim ve aşağıda belirtilen ilgili faaliyetleri yürüten gıda işletmecisi, bu Yönetmeliğin 8 ve 9 uncu maddeleri ile birlikte hayvansal ürünler söz konusu olduğunda Hayvansal Gıdalar İçin Özel Hijyen Kuralları Yönetmeliğinde belirtilen özel hijyen gerekliliklerini yerine getirir.\n a) Birincil ürünlerin üretim yerinde niteliklerini temel olarak değiştirmemek ve yeni tehlikelere sebep olmamak kaydıyla taşınması, depolanması, ayıklanması ve benzeri diğer işlemlerine ilişkin faaliyetler.\n b) Bu Yönetmeliğin amacına ulaşılabilmesi için gerekli durumlarda, canlı hayvanların taşınmasına ilişkin faaliyetler.\n c) Bitkisel ürünler, balıkçılık ürünleri ve yaban avı ürünleri söz konusu olduğu zaman, birincil ürünlerin niteliklerini temel olarak değiştirilmemek kaydıyla, üretim yerinden bir tesise teslimine kadar taşınmasına ilişkin faaliyetler.\n (2) Bu maddenin birinci fıkrasında belirtilen faaliyetleri takiben, gıdanın üretim, işleme ve dağıtım aşamalarından birini yürüten gıda işletmecisi, bu Yönetmeliğin üçüncü bölümünde yer alan genel hijyen gereklilikleri ile birlikte Hayvansal Gıdalar İçin Özel Hijyen Kuralları Yönetmeliğinde belirtilen özel hijyen gerekliliklerini yerine getirmekle sorumludur.\n (3) Gıda işletmecisi, faaliyetinin gerektirdiği durumlarda, aşağıdaki özel hijyen kurallarına uymak zorundadır.\n a) Gıdalar için belirlenen mikrobiyolojik kriterlere uymak.\n b) Bu Yönetmeliğin amaçlarına ulaşmak için gerekli prosedürleri uygulamak.\n c) Gıdalar için sıcaklık kontrolü gerekliliklerine uymak.\n ç) Soğuk zinciri korumak ve kayıt altına almak.\n d) Numune almak ve analiz etmek veya ettirmek.\n (4) Gıda işletmecisi, numune alma ve analiz metodu olarak, mevzuatta belirtilen uygun yöntemleri veya bu tür yöntemlerin bulunmaması halinde, elde edilen sonuçlara eşdeğer sonuç sağlayan ve uluslararası kabul görmüş kurallar veya protokollere göre bilimsel olarak doğrulanmış referans yöntemleri kullanır.\n (5) Gıda işletmecisi, bu Yönetmelik yükümlülüklerini yerine getirmek üzere iyi uygulama kılavuzlarını kullanabilir.",
+      "preview": "(1) Birincil üretim ve aşağıda belirtilen ilgili faaliyetleri yürüten gıda işletmecisi, bu Yönetmeliğin 8 ve 9 uncu maddeleri ile birlikte h…",
+      "kitap": null,
+      "kisim": null,
+      "bolum": "BİRİNCİ BÖLÜM · Amaç, Kapsam, Dayanak ve Tanımlar",
+      "ayirim": null,
+      "maddeBaslik": "Genel ve özel hijyen gereklilikleri",
+      "sectionPath": [
+        "BİRİNCİ BÖLÜM · Amaç, Kapsam, Dayanak ve Tanımlar",
+        "Genel ve özel hijyen gereklilikleri"
+      ]
+    },
+    {
+      "id": "yonetmelik:15592:m:8",
+      "maddeKind": "madde",
+      "maddeNo": "8",
+      "heading": "Madde 8",
+      "text": "(1) Birincil üretimden sorumlu gıda işletmecisi, birincil ürünlerin sonradan herhangi bir işleme tabi tutulacağını göz önünde bulundurarak, ürünlerin mümkün olduğu kadar bulaşmaya karşı korunmasını sağlar.\n (2) Gıda işletmecisi, birincil üretim ve ilgili faaliyetlerde tehlike kontrolüne ilişkin olarak aşağıdaki hususlar da dahil olmak üzere, ilgili mevzuatta belirtilen hükümleri uygular:\n a) Hava, su, toprak, yem, gübre, veteriner tıbbi ürünleri, bitki koruma ürünleri, biyositler, depolama, muamele ve atıklardan kaynaklanan bulaşmanın kontrolüne ilişkin tedbirleri almak.\n b) Zoonozların ve zoonotik etkenlerin kontrolü ve izlenmesini içeren programlar dahil olmak üzere, insan sağlığına etkisi olan hayvan sağlığı, hayvan refahı ile bitki sağlığına ilişkin tedbirleri almak.\n (3) Hayvan yetiştiren, avlayan, toplayan veya hayvansal birincil ürünleri üreten gıda işletmecisi aşağıdaki hususlarda yeterli tedbirleri alır:\n a) Yemin depolanması ve muamele edilmesi için kullanılan binalar dahil olmak üzere, birincil üretim veya ilgili faaliyetlerle bağlantılı bir şekilde kullanılan bütün tesislerin temiz tutulması ve gerekli durumlarda temizlendikten sonra uygun bir biçimde dezenfekte edilmesi.\n b) Ekipman, kap, konteyner, araç, gemi ile teknelerin temiz tutulması ve gerekli durumlarda temizlendikten sonra uygun bir biçimde dezenfekte edilmesi.\n c) Kesimhaneye giden hayvanların ve gerekli durumlarda hayvansal gıda üretiminde kullanılan hayvanların temizliğinin mümkün olan en iyi biçimde yapılması.\n ç) Bulaşmanın önlenmesi için gerekli durumlarda içilebilir su veya temiz su kullanılması.\n d) Gıda ile temas eden personelin sağlıklı olmasının ve sağlık riskleri konusunda eğitim almalarının sağlanması.\n e) Bulaşmaya sebep olacak hayvanların ve haşerelerin önlenmesi.\n f) Atıkların ve zararlı maddelerin bulaşmayı önleyecek şekilde depolanması ve muamele edilmesi.\n g) Yeni hayvanlar getirildiğinde ihtiyati tedbirlerin alınması dahil gıdalarla insanlara geçen bulaşıcı hastalıkların girişinin ve yayılmasının önlenmesi ve bu tür hastalıklara ilişkin şüpheli vakaların Bakanlığa bildirilmesi.\n ğ) Hayvanlardan alınan numunelerde veya diğer numunelerde yapılan, insan sağlığı için önemli olan analiz sonuçlarının dikkate alınması.\n h) Yem katkı maddelerinin ve veteriner tıbbi ürünlerinin, ilgili mevzuatında belirtildiği şekilde kullanılması.\n (4) Bitkisel ürünleri üreten veya hasat eden gıda işletmecisi aşağıdaki hususlarda yeterli tedbirleri alır:\n a) Ekipman, kap, konteyner, araç, gemi ve teknelerin temiz tutulması ve gerekli durumlarda temizlendikten sonra uygun bir biçimde dezenfekte edilmesi.\n b) Bitkisel ürünlerin temizliği ile üretim, taşıma ve depolama şartlarının gerekli durumlarda hijyenik olmasının sağlanması.\n c) Bulaşmanın önlenmesi için gerekli durumlarda içilebilir su veya temiz su kullanılması.\n ç) Gıda ile temas eden personelin sağlıklı olmasının ve sağlık riskleri konusunda eğitim almalarının sağlanması.\n d) Bulaşmaya sebep olacak hayvanların ve haşerelerin önlenmesi.\n e) Atıkların ve zararlı maddelerin bulaşmayı önleyecek şekilde depolanması ve işlenmesi.\n f) Bitkilerden alınan numunelerde veya diğer numunelerde yapılan, insan sağlığı için önemli olan analiz sonuçlarının dikkate alınması.\n g) Bitki koruma ürünlerinin ve biyositlerin, ilgili mevzuatında belirtildiği şekilde kullanılması.\n (5) Birincil üretimden sorumlu gıda işletmecisi, resmi denetim ve kontroller sırasında tespit edilen sorunlara yönelik düzeltici faaliyetleri uygulamak ile yükümlüdür.",
+      "preview": "(1) Birincil üretimden sorumlu gıda işletmecisi, birincil ürünlerin sonradan herhangi bir işleme tabi tutulacağını göz önünde bulundurarak,…",
+      "kitap": null,
+      "kisim": null,
+      "bolum": "BİRİNCİ BÖLÜM · Amaç, Kapsam, Dayanak ve Tanımlar",
+      "ayirim": null,
+      "maddeBaslik": "Birincil üretim ve ilgili faaliyetler için genel hijyen kuralları",
+      "sectionPath": [
+        "BİRİNCİ BÖLÜM · Amaç, Kapsam, Dayanak ve Tanımlar",
+        "Birincil üretim ve ilgili faaliyetler için genel hijyen kuralları"
+      ]
+    },
+    {
+      "id": "yonetmelik:15592:m:9",
+      "maddeKind": "madde",
+      "maddeNo": "9",
+      "heading": "Madde 9",
+      "text": "(1) Gıda işletmecisi, işletmesinin faaliyet alanı ve büyüklüğüne uygun olarak, tehlikelerin uygun bir biçimde kontrolü amacıyla, uyguladığı tedbirlere ilişkin kayıt tutmak ve muhafaza etmek, talep edildiğinde Bakanlığa ve alıcıya ibraz etmekle yükümlüdür.\n (2) Hayvanları yetiştiren veya hayvansal birincil ürünleri üreten gıda işletmecisi, özellikle aşağıda belirtilen hususlara ilişkin kayıtları tutar:\n a) Hayvanlara verilen yemin niteliği ve kökeni.\n b) Veteriner tıbbi ürünleri veya hayvanlara uygulanan diğer tedaviler, uygulanış ve kalıntı arınma sürelerinin tarihleri.\n c) Hayvansal gıdaların güvenilirliğini etkileyebilecek hastalıklar.\n ç) Hayvanlardan alınan numunelerde veya teşhis amaçlı alınan diğer numunelerde yapılan, insan sağlığı için önemli olan analiz sonuçları.\n d) Hayvanlara ve hayvansal ürünlere uygulanan kontrollere ilişkin tüm raporlar.\n (3) Bitkisel ürünleri üreten veya hasat eden gıda işletmecisi, özellikle aşağıda belirtilen hususlara ilişkin kayıtları tutar:\n a) Bitki koruma ürünleri ve biyositlerin her türlü kullanımı.\n b) Bitkisel gıdaların güvenilirliğini etkileyebilecek haşere ve kemirgenlerin veya hastalıkların ortaya çıkması.\n c) Bitkilerden alınan numunelerde veya diğer numunelerde yapılan, insan sağlığı için önemli olan analiz sonuçları.\n (4) Gıda işletmecisi, kayıtların tutulması için konu ile ilgili mesleki eğitim almış kişilerden yardım alabilir.\n ÜÇÜNCÜ BÖLÜM\n Birincil Üretim ve İlgili Faaliyetler Hariç Gıda İşletmeleri\n İçin Genel Hijyen Gereklilikleri\n 12 nci maddede belirtilenler dışındaki gıda işletmeleri için genel gereklilikler",
+      "preview": "(1) Gıda işletmecisi, işletmesinin faaliyet alanı ve büyüklüğüne uygun olarak, tehlikelerin uygun bir biçimde kontrolü amacıyla, uyguladığı…",
+      "kitap": null,
+      "kisim": null,
+      "bolum": "BİRİNCİ BÖLÜM · Amaç, Kapsam, Dayanak ve Tanımlar",
+      "ayirim": null,
+      "maddeBaslik": "Birincil üretim ve ilgili faaliyetler için kayıt tutulması",
+      "sectionPath": [
+        "BİRİNCİ BÖLÜM · Amaç, Kapsam, Dayanak ve Tanımlar",
+        "Birincil üretim ve ilgili faaliyetler için kayıt tutulması"
+      ]
+    },
+    {
+      "id": "yonetmelik:15592:m:10",
+      "maddeKind": "madde",
+      "maddeNo": "10",
+      "heading": "Madde 10",
+      "text": "(1) Gıda işletmelerinin temiz, iyi durumda olması, bakım ve onarımının düzenli olarak yapılması sağlanır.\n (2) Gıda işletmelerinin yerleşimi, tasarımı, inşası, oturumu ve büyüklüğü;\n a) Yeterli bakım, temizlik ve/veya dezenfeksiyona izin veren, havadan kaynaklanan bulaşmayı engelleyen veya en aza indiren ve tüm faaliyetlerin hijyenik olarak yapılmasına uygun ve yeterli çalışma alanı sağlar.\n b) Kir birikimi, toksik maddelerle temas, gıdanın içine parçacıkların düşmesi ve yoğunlaşma veya yüzeyde istenmeyen küflerin oluşmasını engeller.\n c) Bulaşmaya karşı ve özellikle zararlı kontrolü dahil, iyi gıda hijyeni uygulamalarına izin verir.\n ç) Gerekli durumlarda, gıdanın uygun sıcaklıklarda muhafazası için yeterli kapasitede depolama şartları ile uygun sıcaklık kontrollü muameleyi, sıcaklıkların izlenmesini ve gerekli durumlarda kayıt edilmesini sağlar.\n (3) Yeterli sayıda, etkin bir drenaj sistemine bağlı sifonlu tuvalet bulunur. Tuvaletler gıdanın muamele edildiği odalara doğrudan açılmaz.\n (4) Uygun bir şekilde yerleştirilmiş ve el temizliği için tasarlanmış, yeterli sayıda lavabo bulunur. El temizleme lavabolarında, sıcak ve soğuk akan su, el temizleme ve hijyenik kurulama maddeleri bulunur. Gerekli durumlarda, gıda yıkama bölümleri el yıkama bölümlerinden ayrı olur.\n (5) Uygun ve yeterli doğal veya mekanik havalandırma düzenleri bulunur. Bulaşık alandan temiz alana mekanik hava akımı önlenir. Havalandırma sistemi; filtrelere, temizliği ve değiştirilmesi gereken parçalara kolayca ulaşılabilecek şekilde yerleştirilir.\n (6) Personel tuvaleti, duş ve soyunma odalarında yeterince doğal veya mekanik havalandırma sağlanır.\n (7) Gıda işletmelerinde yeterli doğal ve/veya yapay aydınlatma sağlanır.\n (8) İstenilen amaca uygun olarak drenaj sistemi kurulur. Drenaj sistemi bulaşma riskini önleyecek şekilde tasarlanır ve inşa edilir. Drenaj kanallarının tamamen veya kısmen açık olması halinde bu kanallar, atıkların kirli alandan temiz alana, özellikle son tüketici için yüksek risk oluşturan gıdaların muamele edildiği alanlara doğru veya bu alanların içerisine akmasını engelleyecek şekilde tasarlanır.\n (9) Gerekli durumlarda, personel için yeterli kapasitede ve sayıda çalışma kıyafetlerinin hijyenik tanzimine izin veren soyunma, giyinme bölüm ve imkânları ile yeterli sayıda duş bulunur.\n (10) Temizlik ve dezenfeksiyon maddeleri gıdanın muameleye tabi tutulduğu alanlarda depolanmaz.\n Yemek yenilen alanlar ve 12 nci maddede belirtilen gıda işletmeleri dışındaki gıdanın hazırlandığı, muameleye tabi tutulduğu veya işlendiği odalar için özel gereklilikler",
+      "preview": "(1) Gıda işletmelerinin temiz, iyi durumda olması, bakım ve onarımının düzenli olarak yapılması sağlanır. (2) Gıda işletmelerinin yerleşimi,…",
+      "kitap": null,
+      "kisim": null,
+      "bolum": "BİRİNCİ BÖLÜM · Amaç, Kapsam, Dayanak ve Tanımlar",
+      "ayirim": null,
+      "maddeBaslik": "Birincil üretim ve ilgili faaliyetler için kayıt tutulması",
+      "sectionPath": [
+        "BİRİNCİ BÖLÜM · Amaç, Kapsam, Dayanak ve Tanımlar",
+        "Birincil üretim ve ilgili faaliyetler için kayıt tutulması"
+      ]
+    },
+    {
+      "id": "yonetmelik:15592:m:11",
+      "maddeKind": "madde",
+      "maddeNo": "11",
+      "heading": "Madde 11",
+      "text": "(1) Taşıma araçlarının bulunduğu odalar dahil gıdanın hazırlandığı, muameleye tabi tutulduğu veya işlendiği odaların tasarım ve planı, işlemler arasında ve sırasındaki bulaşmaya karşı koruma dahil iyi gıda hijyeni uygulamalarına imkân sağlayacak şekilde tasarlanır ve planlanır;\n a) Zemin yüzeylerinin sağlam, kolay temizlenebilir ve gerekli durumlarda dezenfekte edilebilir olması gerekir. Zemin yüzeylerinin, su geçirmez, emici olmayan, yıkanabilir ve toksik olmayan maddelerden üretilmiş olması gerekir. Uygun durumlarda, zemin yüzeyleri yeterli drenaja imkân sağlar.\n b) Duvar yüzeylerinin sağlam, kolay temizlenebilir ve gerekli durumlarda dezenfekte edilebilir olması gerekir. Duvar yüzeylerinin, su geçirmez, emici olmayan, yıkanabilir ve toksik olmayan maddelerden üretilmiş olması ve duvarların işlemlere uygun bir yüksekliğe kadar pürüzsüz bir yüzeye sahip olması gerekir.\n c) Tavanlar veya tavan olmayan yerlerde çatının iç yüzeyinin ve çatıdaki veya tavandaki yapı elemanlarının ve donanımların kir birikimini önleyecek, yoğunlaşmayı ve istenmeyen küflerin gelişmesini, parçacıkların düşüşünü azaltacak biçimde olması gerekir.\n ç) Pencereler ve diğer açıklıklar, kir birikimini önleyecek şekilde inşa edilir. Dış ortama açılanlara, gerekli durumlarda haşere ve kemirgenlerin girişini engelleyecek temizleme maksadıyla rahatça çıkarılabilen ekipman takılır. Açık pencerelerin bulaşmaya sebep olabileceği durumlarda, pencereler üretim esnasında kapatılır ve sabitlenir.\n d) Kapıların temizlenebilir, gerekli durumlarda dezenfeksiyonu yapılabilir, pürüzsüz ve emici olmayan malzemeden üretilmiş olması gerekir.\n e) Gıdanın muameleye tabi tutulduğu alanlardaki yüzeylerin ve özellikle ekipman yüzeyleri dahil gıda ile temas eden tüm yüzeylerin sağlam, kolay temizlenebilir ve gerekli durumlarda dezenfekte edilebilir olması gerekir. Yüzeylerin pürüzsüz, yıkanabilir, korozyona dayanıklı ve toksik olmayan maddelerden üretilmiş olması gerekir.\n (2) Gerekli durumlarda çalışma alet ve ekipmanlarının temizliği, dezenfeksiyonu ve depolanması için yeterli teçhizat ve mekân sağlanır. Bu teçhizat ve mekânın, korozyona dayanıklı malzemeden yapılmış olması, kolay temizlenebilen ve yeterli sıcak ve soğuk su tedarikine sahip olması gerekir.\n (3) Gerekli durumlarda, gıdanın yıkanması için yeterli donanım sağlanır. Gıdanın yıkanması için kullanılan lavabo veya benzeri teçhizatın bu Yönetmeliğin 16 ncı maddesinin gereklilikleri ile uyumlu, yeterli sıcak ve/veya soğuk içilebilir suya sahip olması, temiz tutulması ve gerekli durumlarda dezenfekte edilmesi gerekir.\n Çadır, büfe ve seyyar satış araçları gibi taşınabilir ve/veya geçici gıda işletmeleri, öncelikli yerleşim amacı özel konut olan ancak içinde gıdanın düzenli olarak piyasaya arzı için hazırlandığı bina ve satış makineleri için gereklilikler",
+      "preview": "(1) Taşıma araçlarının bulunduğu odalar dahil gıdanın hazırlandığı, muameleye tabi tutulduğu veya işlendiği odaların tasarım ve planı, işlem…",
+      "kitap": null,
+      "kisim": null,
+      "bolum": "BİRİNCİ BÖLÜM · Amaç, Kapsam, Dayanak ve Tanımlar",
+      "ayirim": null,
+      "maddeBaslik": "Birincil üretim ve ilgili faaliyetler için kayıt tutulması",
+      "sectionPath": [
+        "BİRİNCİ BÖLÜM · Amaç, Kapsam, Dayanak ve Tanımlar",
+        "Birincil üretim ve ilgili faaliyetler için kayıt tutulması"
+      ]
+    },
+    {
+      "id": "yonetmelik:15592:m:12",
+      "maddeKind": "madde",
+      "maddeNo": "12",
+      "heading": "Madde 12",
+      "text": "(1) Taşınabilir ve/veya geçici gıda işletmeleri, özellikle hayvanlar ve haşerelerden kaynaklanan bulaşma riskini engelleyecek şekilde tasarlanır, inşa edilir, yerleştirilir, temiz tutulur ve iyi şartlarda korunur.\n (2) Gerekli durumlarda;\n a) Personel hijyeninin yeterli düzeyde sağlanmasına yönelik olarak ellerin hijyenik bir şekilde yıkanması, kurulanması, hijyen kurallarına uyulması, gerekli durumlarda giysi değiştirme yerleri de dahil olmak üzere yeterli imkânlar sağlanır.\n b) Gıda ile temas eden yüzeylerin sağlam, kolay temizlenebilir ve gerekli durumlarda dezenfekte edilebilir olması gerekir. Bu yüzeylerin pürüzsüz, yıkanabilir, korozyona dayanıklı ve toksik olmayan maddelerden üretilmiş olması gerekir.\n c) Çalışma alet ve ekipmanlarının temizliği ve gerekli durumlarda dezenfeksiyonu için yeterli imkânlar sağlanır.\n ç) Gıda işletmesinde yürütülen faaliyetlerin bir parçası olarak, gıdanın temizlenmesi durumunda bu işlemin hijyenik olarak yapılabilmesi için yeterli imkânlar sağlanır.\n d) Yeterli miktarda sıcak ve/veya soğuk içilebilir nitelikte su tedariki sağlanır.\n e) Tehlikeli ve/veya yenmeyen maddelerin ve sıvı veya katı atıkların hijyenik bir şekilde depolanması ve işletmeden uzaklaştırılması için yeterli düzenlemeler yapılır veya imkânlar sağlanır.\n f) Gıdanın yapısına uygun sıcaklık şartlarının korunması ve izlenmesi için yeterli düzenlemeler yapılır veya imkânlar sağlanır.\n g) Gıda mümkün olabildiğince bulaşma riskini önleyecek şekilde yerleştirilir.",
+      "preview": "(1) Taşınabilir ve/veya geçici gıda işletmeleri, özellikle hayvanlar ve haşerelerden kaynaklanan bulaşma riskini engelleyecek şekilde tasarl…",
+      "kitap": null,
+      "kisim": null,
+      "bolum": "BİRİNCİ BÖLÜM · Amaç, Kapsam, Dayanak ve Tanımlar",
+      "ayirim": null,
+      "maddeBaslik": "Birincil üretim ve ilgili faaliyetler için kayıt tutulması",
+      "sectionPath": [
+        "BİRİNCİ BÖLÜM · Amaç, Kapsam, Dayanak ve Tanımlar",
+        "Birincil üretim ve ilgili faaliyetler için kayıt tutulması"
+      ]
+    },
+    {
+      "id": "yonetmelik:15592:m:13",
+      "maddeKind": "madde",
+      "maddeNo": "13",
+      "heading": "Madde 13",
+      "text": "(1) Gıdanın taşınması için kullanılan araç ve/veya kaplar, gıdayı bulaşmadan korumak için temiz tutulur, bakımlı bir şekilde ve iyi şartlarda muhafaza edilir ve gerekli durumlarda yeterli temizlik ve dezenfeksiyona izin verecek şekilde tasarlanır ve imal edilir.\n (2) Taşıma araçlarının ve/veya konteynerlerin içindeki kaplar, bulaşmaya sebep olabileceği için, gıdadan başka herhangi bir maddenin taşınmasında kullanılmaz.\n (3) Gerekli durumlarda; gıdalar ile gıda dışındaki maddelerin veya farklı gıdaların aynı anda birlikte konteyner ve/veya taşıma araçları ile taşınması halinde ürünlerin birbirinden yeterince ayrılması sağlanır.\n (4) Sıvı, granül ve toz halindeki hazır ambalajlı hale getirilmemiş gıda; gıdanın taşınması için ayrılmış kaplar ve/veya konteyner/tankerlerde taşınır. Bu tür konteynerler, gıdanın taşınması için kullanıldığını göstermek amacıyla, Yalnız Gıda İçindir. şeklinde Türkçe veya Türkçe ile birlikte diğer herhangi bir yabancı dil kullanılarak, açıkça görülebilecek, silinmeyecek ve bu amaca yönelik olarak kullanıldığını gösterecek şekilde işaretlenir.\n (5) Araçlar ve/veya konteynerler, sürekli taşınan gıdadan başka herhangi bir madde veya farklı gıdaların taşınmasında kullanılmaları durumunda, bulaşma riskinden kaçınmak için, yüklemeler arasında etkili bir şekilde temizlenir ve gerekli durumlarda dezenfekte edilir.\n (6) Gıdalar, araçların ve/veya konteynerlerin içine bulaşma riskini en aza indirecek biçimde yerleştirilir ve korunur.\n (7) Gıdaların taşınması için kullanılan araç ve/veya konteynerlerin, gerekli durumlarda taşınan gıdaları uygun sıcaklıklarda muhafaza etmesi ve söz konusu sıcaklıkları izlemeye imkân verecek nitelikte olması gerekir.",
+      "preview": "(1) Gıdanın taşınması için kullanılan araç ve/veya kaplar, gıdayı bulaşmadan korumak için temiz tutulur, bakımlı bir şekilde ve iyi şartlard…",
+      "kitap": null,
+      "kisim": null,
+      "bolum": "BİRİNCİ BÖLÜM · Amaç, Kapsam, Dayanak ve Tanımlar",
+      "ayirim": null,
+      "maddeBaslik": "Taşıma",
+      "sectionPath": [
+        "BİRİNCİ BÖLÜM · Amaç, Kapsam, Dayanak ve Tanımlar",
+        "Taşıma"
+      ]
+    },
+    {
+      "id": "yonetmelik:15592:m:14",
+      "maddeKind": "madde",
+      "maddeNo": "14",
+      "heading": "Madde 14",
+      "text": "(1) Gıda ile temas eden malzeme, alet ve ekipman:\n a) Etkili bir şekilde temizlenir ve gerekli durumlarda dezenfekte edilir, temizlik ve dezenfeksiyon işlemi bulaşma riskini önlemek için yeterli sıklıkta yapılır.\n b) Bulaşma riskini en aza indirmeyi mümkün kılacak biçimde yapılmış ve bu amaca uygun malzemeden üretilmiş olması, çalışır durumda, bakımlı ve iyi şartlarda tutulması gerekir.\n c) Geri dönüşümlü olmayan taşıma kapları ve paketleme malzemeleri hariç ekipmanın, temizliğe ve gerekli durumlarda dezenfeksiyona imkân verecek biçimde yapılmış ve bu amaca uygun malzemeden üretilmiş olması, çalışır durumda, bakımlı ve iyi şartlarda tutulması gerekir.\n ç) Ekipman; kendisinin ve çevresindeki alanın, yeterli temizliğine imkân verecek şekilde yerleştirilir.\n (2) Bu Yönetmeliğin amaçlarına ulaşılmasını güvenceye almak için ekipmana gerektiğinde uygun bir kontrol cihazı yerleştirilir.\n (3) Ekipman ve taşıma kaplarında korozyonu önlemek için kimyasal maddelerin kullanılması gerektiğinde, bu maddeler iyi uygulama ilkelerine göre kullanılır.",
+      "preview": "(1) Gıda ile temas eden malzeme, alet ve ekipman: a) Etkili bir şekilde temizlenir ve gerekli durumlarda dezenfekte edilir, temizlik ve deze…",
+      "kitap": null,
+      "kisim": null,
+      "bolum": "BİRİNCİ BÖLÜM · Amaç, Kapsam, Dayanak ve Tanımlar",
+      "ayirim": null,
+      "maddeBaslik": "Ekipman ile ilgili gereklilikler",
+      "sectionPath": [
+        "BİRİNCİ BÖLÜM · Amaç, Kapsam, Dayanak ve Tanımlar",
+        "Ekipman ile ilgili gereklilikler"
+      ]
+    },
+    {
+      "id": "yonetmelik:15592:m:15",
+      "maddeKind": "madde",
+      "maddeNo": "15",
+      "heading": "Madde 15",
+      "text": "(1) Gıda atığı, gıda olarak tüketilmeyen yan ürünler ve diğer atıklar; gıda bulunan ortamlarda birikmelerini engellemek için mümkün olduğunca hızlı bir şekilde uzaklaştırılır.\n (2) Gıda atığı, gıda olarak tüketilmeyen yan ürünler ve diğer atıklar; kapatılabilir kaplarda veya bu Yönetmeliğin amacına uygun alternatif bir sistemle toplanır. Kapların veya alternatif sistemin uygun şekilde yapılmış olması, sağlam durumda muhafaza edilmesi, kolayca temizlenmeye ve gerekli durumlarda dezenfeksiyona uygun olması gerekir.\n (3) Gıda atığı, gıda olarak tüketilmeyen yan ürünler ve diğer atıkların depolanması ve işletmeden uzaklaştırılması için gerekli imkânlar sağlanır. Atık depoları; temiz tutulmasına imkân sağlayan, gerekli durumlarda hayvanlardan ve haşerelerden korunacak şekilde tasarlanır ve buna uygun olarak kullanılır.\n (4) Bütün atıklar, mevzuatına göre hijyenik ve çevreye zarar vermeyecek şekilde ortamdan uzaklaştırılır, doğrudan veya dolaylı bulaşma kaynağı olması engellenir.",
+      "preview": "(1) Gıda atığı, gıda olarak tüketilmeyen yan ürünler ve diğer atıklar; gıda bulunan ortamlarda birikmelerini engellemek için mümkün olduğunc…",
+      "kitap": null,
+      "kisim": null,
+      "bolum": "BİRİNCİ BÖLÜM · Amaç, Kapsam, Dayanak ve Tanımlar",
+      "ayirim": null,
+      "maddeBaslik": "Gıda atığı",
+      "sectionPath": [
+        "BİRİNCİ BÖLÜM · Amaç, Kapsam, Dayanak ve Tanımlar",
+        "Gıda atığı"
+      ]
+    },
+    {
+      "id": "yonetmelik:15592:m:16",
+      "maddeKind": "madde",
+      "maddeNo": "16",
+      "heading": "Madde 16",
+      "text": "(1) Gıda işletmesinde kullanılacak su, aşağıdaki şartları sağlayacak şekilde tedarik edilir.\n a) Gıdaya bulaşmayı önlemek üzere, her zaman kullanıma hazır ve yeterli miktarda içilebilir su sağlanır.\n b) Bütün haldeki balıkçılık ürünlerinde temiz su kullanılabilir. Temiz deniz suyu canlı çift kabuklu yumuşakçalar, canlı denizkestaneleri, canlı gömlekliler ve canlı deniz karından bacaklıları için kullanılabilir. Temiz su, aynı zamanda bu ürünlerin dış temizliği için de kullanılabilir. Temiz suyun kullanılması durumunda, gıdaya bulaşma kaynağı olmasını önlemek amacıyla temiz su tedarikine ilişkin imkân ve prosedürlerin olması gerekir.\n (2) Yangın kontrolü, buhar üretimi, soğutma ve benzeri diğer amaçlar için içilemeyen su kullanıldığında, bu suyun gerektiği gibi işaretlenmiş ayrı bir sistem içerisinde dolaşması ve içilemeyen suyun içilebilir su sistemi ile bağlantısının veya içine karışma durumunun olmaması gerekir.\n (3) Geri kazanılmış suyun işlemede veya bileşen olarak kullanılması durumunda bulaşma riski oluşturmaması gerekir. Bu suyun kalitesinin gıdanın son halinin sağlığa uygunluğunu etkilemeyeceği hususu Bakanlığa ispat edilmedikçe içilebilir su ile aynı kalitede olması gerekir.\n (4) Gıda ile doğrudan veya dolaylı olarak temas eden buz, içilebilir sudan veya bütün haldeki balıkçılık ürünlerini soğutmak için kullanıldığında, temiz sudan elde edilir. Buz, bulaşmadan korunacak şekilde üretilir, muameleye tabi tutulur ve depolanır.\n (5) Gıda ile doğrudan temas edecek buhar, sağlık için tehlikeli herhangi bir madde içeremez veya gıdayı bulaştırma ihtimali bulunamaz.\n (6) Hermetik olarak kapatılmış kaplar içindeki gıdaya ısıl işlem uygulandığında, ısıl işlemden sonra kapları soğutmak için kullanılan suyun, gıda için bulaşma kaynağı olmaması sağlanır.",
+      "preview": "(1) Gıda işletmesinde kullanılacak su, aşağıdaki şartları sağlayacak şekilde tedarik edilir. a) Gıdaya bulaşmayı önlemek üzere, her zaman ku…",
+      "kitap": null,
+      "kisim": null,
+      "bolum": "BİRİNCİ BÖLÜM · Amaç, Kapsam, Dayanak ve Tanımlar",
+      "ayirim": null,
+      "maddeBaslik": "Su tedariki",
+      "sectionPath": [
+        "BİRİNCİ BÖLÜM · Amaç, Kapsam, Dayanak ve Tanımlar",
+        "Su tedariki"
+      ]
+    },
+    {
+      "id": "yonetmelik:15592:m:17",
+      "maddeKind": "madde",
+      "maddeNo": "17",
+      "heading": "Madde 17",
+      "text": "(1) Gıdanın muameleye tabi tutulduğu alanlarda çalışan bütün personelin, kişisel temizliğini sürdürmeye azami itina göstermesi, temiz ve gerekli durumlarda uygun koruyucu kıyafet giymesi gerekir.\n (2) Gıda ile taşınabilen bir hastalığı olan veya bu hastalığın taşıyıcısı durumundaki veya enfekte yara, deri enfeksiyonları, ağrılar veya ishal gibi şikâyetleri olan kişilerin herhangi bir şekilde doğrudan veya dolaylı bulaştırma ihtimali varsa, gıda ile temasına, gıdaları muamele etmesine veya gıdaların muameleye tabi tutulduğu alanlara girmesine izin verilmez.\n (3) Gıda işinde çalışan, gıda ile teması olma ihtimali olan ve bu maddenin ikinci fıkrasında bahsedilen belirtileri gösteren kişiler, hastalığını veya belirtilerini ve eğer mümkünse hastalığının sebeplerini gıda işletmecisine bildirir.",
+      "preview": "(1) Gıdanın muameleye tabi tutulduğu alanlarda çalışan bütün personelin, kişisel temizliğini sürdürmeye azami itina göstermesi, temiz ve ger…",
+      "kitap": null,
+      "kisim": null,
+      "bolum": "BİRİNCİ BÖLÜM · Amaç, Kapsam, Dayanak ve Tanımlar",
+      "ayirim": null,
+      "maddeBaslik": "Personel hijyeni",
+      "sectionPath": [
+        "BİRİNCİ BÖLÜM · Amaç, Kapsam, Dayanak ve Tanımlar",
+        "Personel hijyeni"
+      ]
+    },
+    {
+      "id": "yonetmelik:15592:m:18",
+      "maddeKind": "madde",
+      "maddeNo": "18",
+      "heading": "Madde 18",
+      "text": "(1) Gıda işletmecisi, canlı hayvanlar hariç, hijyenik olarak normal tasnif ve/veya hazırlama veya işleme prosedürleri uygulanmasına rağmen son ürünü insan tüketimi için uygunsuz hale getiren; parazitler, patojenik mikroorganizmalar veya toksinler tarafından kirletilmiş veya bozulmuş veya yabancı madde olduğu veya yabancı maddelerle bulaştığı bilinen ham maddeleri veya bileşenleri veya işlenmiş ürünlerin üretiminde kullanılan diğer maddeleri kabul etmez.\n (2) Gıda işletmesinde depolanan tüm bileşenler ve ham maddeler; bozulma, kokuşma ve bulaşmadan korunacak şekilde tasarlanmış uygun şartlarda muhafaza edilir.\n (3) Gıda; üretim, işleme ve dağıtımın tüm aşamalarında gıdayı insan tüketimine uygun olmaktan çıkarabilecek; sağlığa zarar veren veya bulaşma sonucunda tüketiminin beklenmediği tüm bulaşmalara karşı korunur.\n (4) Haşere ve kemirgen kontrolü için uygun prosedürler uygulanır. Bu prosedürler, gıdanın hazırlandığı, muameleye tabi tutulduğu veya depolandığı yerlere evcil hayvanların girmesini önlemek amacıyla da uygulanır.\n (5) Patojenik mikroorganizmaların üremesi veya toksin oluşumuna imkân verebilecek ham maddelerin, bileşenlerin, ara ve son ürünlerin sağlık riski oluşturabilecek sıcaklıklarda tutulmaması ve soğuk zincirin kırılmaması gerekir. Hazırlama, taşıma, depolama, sergileme ve gıda servisi gibi uygulamalara imkân vermek amacıyla, sağlık için bir risk oluşturmamak şartıyla sınırlı süreler için söz konusu ürünlerin dış ortam sıcaklığında bulundurulmasına izin verilebilir. İşlenmiş gıdayı üreten, muamele eden ve ambalajlayan gıda işletmelerinin, ham maddeler ile işlenmiş maddelerin ayrı depolanmasını sağlayacak yeterli genişlikte uygun odalara ve soğuk hava depolarına sahip olması gerekir.\n (6) Gıdanın düşük sıcaklıklarda tutulması veya servis yapılması durumunda; ısıl işlem aşamasını takiben veya herhangi bir ısıl işlem uygulanmamışsa son hazırlama aşamasından sonra sağlık için risk oluşturmayacak sıcaklığa derhal soğutulması gerekir.\n (7) Dondurulmuş gıdanın çözündürülmesi; patojenik mikroorganizmaların üremesi veya gıdada toksin oluşumu riskini en aza indirecek ve sağlık için bir risk oluşturmayacak sıcaklıklarda yapılır. Çözündürme sırasında ortaya çıkan sıvılar, sağlık için risk oluşturabileceğinden uygun bir şekilde drene edilir. Gıda, çözündürülme sonrasında patojenik mikroorganizmaların gelişimi ve toksin oluşumu riskini en aza indirecek biçimde muamele edilir.\n (8) Tehlikeli ve/veya hayvan yemi dahil yenilemeyen maddeler, uygun bir biçimde etiketlenir ve güvenli kaplarda ayrı depolanır.",
+      "preview": "(1) Gıda işletmecisi, canlı hayvanlar hariç, hijyenik olarak normal tasnif ve/veya hazırlama veya işleme prosedürleri uygulanmasına rağmen s…",
+      "kitap": null,
+      "kisim": null,
+      "bolum": "BİRİNCİ BÖLÜM · Amaç, Kapsam, Dayanak ve Tanımlar",
+      "ayirim": null,
+      "maddeBaslik": "Gıdalara uygulanabilen hükümler",
+      "sectionPath": [
+        "BİRİNCİ BÖLÜM · Amaç, Kapsam, Dayanak ve Tanımlar",
+        "Gıdalara uygulanabilen hükümler"
+      ]
+    },
+    {
+      "id": "yonetmelik:15592:m:19",
+      "maddeKind": "madde",
+      "maddeNo": "19",
+      "heading": "Madde 19",
+      "text": "(1) Ambalajlama ve paketleme için kullanılan materyal bulaşma kaynağı olamaz.\n (2) Ambalaj materyali, bulaşma riskine maruz kalmayacak biçimde depolanır.\n (3) Ambalajlama ve paketleme işlemleri ürünlerin bulaşmasını önleyecek şekilde yürütülür. Uygun durumlarda ve özellikle teneke kutu ve cam kavanoz kullanıldığında, kapların yapısının bütünlüğünün ve temizliğinin sağlanması gerekir.\n (4) Gıdalar için tekrar kullanılan ambalajlama ve paketleme materyalinin temizlenmesi ve gerekli durumlarda dezenfekte edilmesinin kolay olması gerekir.",
+      "preview": "(1) Ambalajlama ve paketleme için kullanılan materyal bulaşma kaynağı olamaz. (2) Ambalaj materyali, bulaşma riskine maruz kalmayacak biçimd…",
+      "kitap": null,
+      "kisim": null,
+      "bolum": "BİRİNCİ BÖLÜM · Amaç, Kapsam, Dayanak ve Tanımlar",
+      "ayirim": null,
+      "maddeBaslik": "Gıdaların ambalajlanmasına ve paketlenmesine ilişkin hükümler",
+      "sectionPath": [
+        "BİRİNCİ BÖLÜM · Amaç, Kapsam, Dayanak ve Tanımlar",
+        "Gıdaların ambalajlanmasına ve paketlenmesine ilişkin hükümler"
+      ]
+    },
+    {
+      "id": "yonetmelik:15592:m:20",
+      "maddeKind": "madde",
+      "maddeNo": "20",
+      "heading": "Madde 20",
+      "text": "(1) Gıdanın hermetik olarak kapatılmış kaplarda piyasaya sunulması durumunda aşağıdaki gerekliliklere uyulur:\n a) İşlenmemiş bir ürünü işlemek veya işlenmiş bir ürünü daha ileri düzeyde işlemek için kullanılan herhangi bir ısıl işlem yönteminin; işleme tabi tutulan ürünün her tarafını verilen zaman süresi içerisinde istenilen sıcaklığa yükseltmesi ve işlem sırasında gıdanın bulaşmasını önlemesi gerekir.\n b) Gıda işletmecisinin, uygulanan yöntemin istenilen amaçlara ulaşabilmesini sağlamak için, otomatik cihazların kullanılması dahil, özellikle sıcaklık, basınç, kapama ve mikrobiyoloji gibi ilgili temel parametreleri düzenli olarak kontrol etmesi gerekir.\n c) Kullanılan yöntemin; pastörizasyon, ultra yüksek sıcaklık/UHT veya sterilizasyon gibi uluslararası kabul görmüş standartlara uygun olması gerekir.",
+      "preview": "(1) Gıdanın hermetik olarak kapatılmış kaplarda piyasaya sunulması durumunda aşağıdaki gerekliliklere uyulur: a) İşlenmemiş bir ürünü işleme…",
+      "kitap": null,
+      "kisim": null,
+      "bolum": "BİRİNCİ BÖLÜM · Amaç, Kapsam, Dayanak ve Tanımlar",
+      "ayirim": null,
+      "maddeBaslik": "Isıl işlem",
+      "sectionPath": [
+        "BİRİNCİ BÖLÜM · Amaç, Kapsam, Dayanak ve Tanımlar",
+        "Isıl işlem"
+      ]
+    },
+    {
+      "id": "yonetmelik:15592:m:21",
+      "maddeKind": "madde",
+      "maddeNo": "21",
+      "heading": "Madde 21",
+      "text": "(1) Gıda işletmecisi,\n a) Gıda işinde çalışan personelin yaptıkları işin gerektirdiği gıda hijyeni konularında kontrol edilmelerini ve bilgilendirilmelerini ve/veya eğitilmelerini,\n b) Bu Yönetmeliğin 22 nci maddesinin birinci fıkrasında belirtilen prosedürün geliştirilmesi ve sürdürülmesinden veya iyi uygulama kılavuzlarının uygulanmasından sorumlu olan personelin, tehlike analizi ve kritik kontrol noktaları/HACCP ilkelerinin uygulanması konusunda yeterli eğitimi almalarını,\n sağlar.\n DÖRDÜNCÜ BÖLÜM\n Tehlike Analizi ve Kritik Kontrol Noktaları/HACCP,",
+      "preview": "(1) Gıda işletmecisi, a) Gıda işinde çalışan personelin yaptıkları işin gerektirdiği gıda hijyeni konularında kontrol edilmelerini ve bilgil…",
+      "kitap": null,
+      "kisim": null,
+      "bolum": "BİRİNCİ BÖLÜM · Amaç, Kapsam, Dayanak ve Tanımlar",
+      "ayirim": null,
+      "maddeBaslik": "Eğitim",
+      "sectionPath": [
+        "BİRİNCİ BÖLÜM · Amaç, Kapsam, Dayanak ve Tanımlar",
+        "Eğitim"
+      ]
+    },
+    {
+      "id": "yonetmelik:15592:m:22",
+      "maddeKind": "madde",
+      "maddeNo": "22",
+      "heading": "Madde 22",
+      "text": "(1) Gıda işletmecisi, tehlike analizi ve kritik kontrol noktaları/HACCP ilkelerine dayalı prosedürleri veya kalıcı bir prosedürü uygulamaya koyar, uygular ve sürdürür.\n (2) Tehlike analizi ve kritik kontrol noktaları/HACCP aşağıdaki yedi temel ilkeyi içerir;\n a) Önlenmesi, elimine edilmesi veya kabul edilebilir düzeylere düşürülmesi gereken tehlikelerin belirlenmesi,\n b) Bir tehlikenin önlenmesi veya elimine edilmesi veya kabul edilebilir düzeylere düşürülmesi için kontrolün temelini oluşturan aşama veya aşamalarda kritik kontrol noktalarının belirlenmesi,\n c) Belirlenen kritik kontrol noktalarında, tanımlanan tehlikenin önlenmesi, elimine edilmesi veya azaltılması için, kabul edilebilirliği kabul edilemezlikten ayıran kritik limitlerin oluşturulması,\n ç) Kritik kontrol noktalarında etkin izleme prosedürlerinin oluşturulması ve uygulanması,\n d) Yapılan izlemede, kritik kontrol noktasının kontrol altında tutulamadığı durumlar için düzeltici faaliyet prosedürlerinin oluşturulması ve uygulanması,\n e) (a), (b), (c), (ç) ve (d) bentlerde belirtilen tedbirlerin etkin olarak uygulandığının doğrulanması için düzenli olarak yürütülen prosedürlerin oluşturulması,\n f) (a), (b), (c), (ç), (d) ve (e) bentlerde belirtilen tedbirlerin etkin olarak uygulandığının kanıtlanması için işletmenin yapısı ve büyüklüğüne uygun belge ve kayıtların oluşturulması.\n (3) Gıda işletmecisi; üründe, üretilen gıdanın işleme yönteminde veya üretimin herhangi bir aşamasında değişiklik yaptığında prosedürü gözden geçirir ve üzerinde gerekli değişiklikleri yapar.\n (4) Bu maddenin birinci fıkrası sadece, birincil üretim ve ilgili faaliyetlerden sonra gıdanın üretimi, işlenmesi ve dağıtımı aşamalarından birini veya birkaçını yürüten gıda işletmecisi için geçerlidir.\n (5) Gıda işletmecisi;\n a) İşletmesinin faaliyet alanı ve büyüklüğünü dikkate alarak, bu maddenin birinci fıkrasında belirtilen şartları karşıladığını kanıtlayan bilgi ve belgeleri, Bakanlığın talep ettiği şekilde sağlar.\n b) Bu madde uyarınca geliştirilen prosedürleri tanımlayan bütün belgelerin güncelliğini sağlar.\n c) Diğer tüm belge ve kayıtları uygun bir süre ile saklar.",
+      "preview": "(1) Gıda işletmecisi, tehlike analizi ve kritik kontrol noktaları/HACCP ilkelerine dayalı prosedürleri veya kalıcı bir prosedürü uygulamaya…",
+      "kitap": null,
+      "kisim": null,
+      "bolum": "BİRİNCİ BÖLÜM · Amaç, Kapsam, Dayanak ve Tanımlar",
+      "ayirim": null,
+      "maddeBaslik": "Tehlike analizi ve kritik kontrol noktaları/HACCP",
+      "sectionPath": [
+        "BİRİNCİ BÖLÜM · Amaç, Kapsam, Dayanak ve Tanımlar",
+        "Tehlike analizi ve kritik kontrol noktaları/HACCP"
+      ]
+    },
+    {
+      "id": "yonetmelik:15592:m:23",
+      "maddeKind": "madde",
+      "maddeNo": "23",
+      "heading": "Madde 23",
+      "text": "(1) Gıda işletmecisi, Kanuna dayalı yayımlanan mevzuatın uygulanması konusunda Bakanlıkla işbirliği yapar.\n (2) Gıda işletmecisi, gıdanın üretim, işleme ve dağıtım aşamalarından herhangi birinde faaliyet gösteren tesisinin kayıt veya onay işlemlerini Gıda İşletmelerinin Kayıt ve Onay İşlemlerine Dair Yönetmeliğe göre yaptırmak zorundadır.",
+      "preview": "(1) Gıda işletmecisi, Kanuna dayalı yayımlanan mevzuatın uygulanması konusunda Bakanlıkla işbirliği yapar. (2) Gıda işletmecisi, gıdanın üre…",
+      "kitap": null,
+      "kisim": null,
+      "bolum": "BİRİNCİ BÖLÜM · Amaç, Kapsam, Dayanak ve Tanımlar",
+      "ayirim": null,
+      "maddeBaslik": "Resmi kontroller, onay ve kayıt",
+      "sectionPath": [
+        "BİRİNCİ BÖLÜM · Amaç, Kapsam, Dayanak ve Tanımlar",
+        "Resmi kontroller, onay ve kayıt"
+      ]
+    },
+    {
+      "id": "yonetmelik:15592:m:24",
+      "maddeKind": "madde",
+      "maddeNo": "24",
+      "heading": "Madde 24",
+      "text": "(1) Bakanlık aşağıda koşulları belirtilmiş olan, tehlike analizi ve kritik kontrol noktaları/HACCP ilkelerinin uygulanması ile iyi hijyen uygulamalarını içeren iyi uygulama kılavuzlarının hazırlanmasını teşvik eder. Gıda işletmecisinin kullanımına yönelik olarak hazırlanan bu kılavuzlar ihtiyari nitelik taşır.\n (2) İyi uygulama kılavuzlarının hazırlanması halinde aşağıdaki hususlar dikkate alınır.\n a) İyi uygulama kılavuzları, Kodeks Alimentarius Komisyonunun mevcut olan iyi uygulama kılavuzları ve mevzuat hükümleri göz önünde bulundurularak, Bakanlık ve tüketici örgütleri de dahil kılavuzdan etkilenebilecek ilgili tarafların katılımı veya görüşü alınarak gıda sektörü tarafından hazırlanır.\n b) Birincil üretim ve bu Yönetmeliğin 7 nci maddesinin birinci fıkrasında yer alan faaliyetleri yürüten gıda işletmecisine yönelik iyi uygulama kılavuzlarının hazırlanmasında bu Yönetmeliğin 25 inci maddesinde yer alan hükümler dikkate alınır.\n (3) İyi uygulama kılavuzları, 3/4/2002 tarihli ve 24715 sayılı Resmî Gazete’de yayımlanan Teknik Mevzuatın ve Standartların Türkiye ile Avrupa Birliği Arasında Bildirimine Dair Yönetmelikte Ulusal Standardizasyon Kuruluşu olarak geçen Türk Standartları Enstitüsünün himayesinde de hazırlanabilir.\n (4) Hazırlanan iyi uygulama kılavuzlarının Bakanlıkça değerlendirilmesinde aşağıdaki hususlar dikkate alınır:\n a) İyi uygulama kılavuzlarının bu maddenin ikinci fıkrasına uygun olarak hazırlanmış olması.\n b) İyi uygulama kılavuzlarının içeriğinin ilgili sektör tarafından uygulanabilir olması.\n c) İyi uygulama kılavuzlarının, bu Yönetmeliğin 6, 7 ve 22 nci maddelerinde belirtilen yükümlülükleri yerine getirebilmesi için kapsadığı gıdalara yönelik ilgili sektöre yol gösterici olması.",
+      "preview": "(1) Bakanlık aşağıda koşulları belirtilmiş olan, tehlike analizi ve kritik kontrol noktaları/HACCP ilkelerinin uygulanması ile iyi hijyen uy…",
+      "kitap": null,
+      "kisim": null,
+      "bolum": "BEŞİNCİ BÖLÜM · İyi Uygulama Kılavuzları ve Kılavuzlar İçin Tavsiyeler",
+      "ayirim": null,
+      "maddeBaslik": "İyi uygulama kılavuzları",
+      "sectionPath": [
+        "BEŞİNCİ BÖLÜM · İyi Uygulama Kılavuzları ve Kılavuzlar İçin Tavsiyeler",
+        "İyi uygulama kılavuzları"
+      ]
+    },
+    {
+      "id": "yonetmelik:15592:m:25",
+      "maddeKind": "madde",
+      "maddeNo": "25",
+      "heading": "Madde 25",
+      "text": "(1) İyi uygulama kılavuzları, birincil üretim ve bu Yönetmeliğin 7 nci maddesinin birinci fıkrasında yer alan faaliyetlerde tehlikelerin kontrolüne ilişkin iyi hijyen uygulamalarına rehberlik eder.\n (2) İyi uygulama kılavuzları; Kanunda belirtilen ve Bakanlıkça yürütülen kontrol dahil tüm programlarla belirlenen tedbirleri içerecek şekilde, birincil üretim ve bu Yönetmeliğin 7 nci maddesinin birinci fıkrasında yer alan faaliyetlerde ortaya çıkabilecek tehlikelerle ilgili bilgi ve bu tehlikelerin kontrolüne ilişkin eylemleri içerir. Bu tehlike ve tedbirlerin örnekleri aşağıdaki hususları içerir:\n a) Mikotoksinler, ağır metaller ve radyoaktif maddeler gibi bulaşanların kontrolü.\n b) Su, organik atıklar ve gübrelerin kullanımı.\n c) Bitki koruma ürünleri, biyositlerin doğru ve uygun kullanımı ve izlenmesi.\n ç) Veteriner tıbbi ürünleri ve yem katkı maddelerinin doğru ve uygun kullanımı ve izlenmesi.\n d) Yemin hazırlanması, depolanması, kullanımı ve izlenmesi.\n e) Ölü hayvanların, atık ve çöplerin uygun bir şekilde işletmeden uzaklaştırılması.\n f) Gıdalar ile insanlara geçebilecek bulaşıcı hastalıkların girişini önlemeye yönelik önleyici tedbirlerin alınması ve Bakanlığa bildirimde bulunulması.\n g) Etkin temizlik ile haşere ve kemirgen kontrolü dahil, gıdanın üretimi, işlenmesi, paketlenmesi, depolanması ve taşınmasının uygun hijyenik şartlar altında olmasını sağlayan prosedürler, uygulamalar ve yöntemler.\n ğ) Kesim ve üretim amaçlı beslenen hayvanların temizliğine ilişkin tedbirler.\n h) Kayıt tutulmasına ilişkin tedbirler.",
+      "preview": "(1) İyi uygulama kılavuzları, birincil üretim ve bu Yönetmeliğin 7 nci maddesinin birinci fıkrasında yer alan faaliyetlerde tehlikelerin kon…",
+      "kitap": null,
+      "kisim": null,
+      "bolum": "BEŞİNCİ BÖLÜM · İyi Uygulama Kılavuzları ve Kılavuzlar İçin Tavsiyeler",
+      "ayirim": null,
+      "maddeBaslik": "Birincil üretim ve ilgili faaliyetlere yönelik iyi uygulama kılavuzları için tavsiyeler",
+      "sectionPath": [
+        "BEŞİNCİ BÖLÜM · İyi Uygulama Kılavuzları ve Kılavuzlar İçin Tavsiyeler",
+        "Birincil üretim ve ilgili faaliyetlere yönelik iyi uygulama kılavuzları için tavsiyeler"
+      ]
+    },
+    {
+      "id": "yonetmelik:15592:m:26",
+      "maddeKind": "madde",
+      "maddeNo": "26",
+      "heading": "Madde 26",
+      "text": "(1) İthal edilen gıdaların hijyen gereklilikleri, bu Yönetmeliğin 6, 7, 22 ve 23 üncü maddelerinde belirtilen gerekliliklere uygun olmak zorundadır.",
+      "preview": "(1) İthal edilen gıdaların hijyen gereklilikleri, bu Yönetmeliğin 6, 7, 22 ve 23 üncü maddelerinde belirtilen gerekliliklere uygun olmak zor…",
+      "kitap": null,
+      "kisim": null,
+      "bolum": "ALTINCI BÖLÜM · İthalat ve İhracat",
+      "ayirim": null,
+      "maddeBaslik": "İthalat",
+      "sectionPath": [
+        "ALTINCI BÖLÜM · İthalat ve İhracat",
+        "İthalat"
+      ]
+    },
+    {
+      "id": "yonetmelik:15592:m:27",
+      "maddeKind": "madde",
+      "maddeNo": "27",
+      "heading": "Madde 27",
+      "text": "(1) İhraç veya yeniden ihraç edilen gıdaların hijyen gereklilikleri, bu Yönetmeliğin 6, 7, 22 ve 23 üncü maddelerinde belirtilen gerekliliklere uygun olmak zorundadır.\n YEDİNCİ BÖLÜM\n Çeşitli ve Son Hükümler\n Yürürlükten kaldırılan yönetmelik",
+      "preview": "(1) İhraç veya yeniden ihraç edilen gıdaların hijyen gereklilikleri, bu Yönetmeliğin 6, 7, 22 ve 23 üncü maddelerinde belirtilen gereklilikl…",
+      "kitap": null,
+      "kisim": null,
+      "bolum": "ALTINCI BÖLÜM · İthalat ve İhracat",
+      "ayirim": null,
+      "maddeBaslik": "İhracat",
+      "sectionPath": [
+        "ALTINCI BÖLÜM · İthalat ve İhracat",
+        "İhracat"
+      ]
+    },
+    {
+      "id": "yonetmelik:15592:m:28",
+      "maddeKind": "madde",
+      "maddeNo": "28",
+      "heading": "Madde 28",
+      "text": "(1) 27/8/2004 tarihli ve 25566 sayılı Resmî Gazete’de yayımlanan Gıda ve Gıda ile Temas Eden Madde ve Malzemeleri Üreten İşyerlerinin Çalışma İzni ve Gıda Sicili ve Üretim İzni İşlemleri ile Sorumlu Yönetici İstihdamı Hakkında Yönetmelik bu Yönetmeliğin yayımı tarihinden itibaren yürürlükten kaldırılmıştır.",
+      "preview": "(1) 27/8/2004 tarihli ve 25566 sayılı Resmî Gazete’de yayımlanan Gıda ve Gıda ile Temas Eden Madde ve Malzemeleri Üreten İşyerlerinin Çalışm…",
+      "kitap": null,
+      "kisim": null,
+      "bolum": "ALTINCI BÖLÜM · İthalat ve İhracat",
+      "ayirim": null,
+      "maddeBaslik": "İhracat",
+      "sectionPath": [
+        "ALTINCI BÖLÜM · İthalat ve İhracat",
+        "İhracat"
+      ]
+    },
+    {
+      "id": "yonetmelik:15592:m:gecici:1",
+      "maddeKind": "gecici",
+      "maddeNo": "1",
+      "heading": "Geçici Madde 1",
+      "text": "(1) Bu Yönetmeliğin yayımı tarihinden önce çalışma izin belgesi, çalışma izni ve gıda sicili belgesi, kayıt belgesi veya bu belgelere eşdeğer belge alarak faaliyet gösteren gıda işletmecisi, işletmesini 31/12/2012 tarihine kadar bu Yönetmeliğin işletme gerekliliklerine uygun hale getirmek zorundadır. Ancak, bu Yönetmeliğin işletme gerekliliklerine 31/12/2012 tarihine kadar uyum sağlayamayacak gıda işletmecisi, işletmesinin modernizasyonuna dair planı sunması halinde bu süre 31/12/2013 tarihine kadar uzatılabilir.\n (2) Halen faaliyet gösteren gıda işletmeleri bu Yönetmeliğin yayım tarihinden itibaren onay alınıncaya kadar; 27/8/2004 tarihli ve 25566 sayılı Resmî Gazete’de yayımlanan Gıda ve Gıda ile Temas Eden Madde ve Malzemeleri Üreten İşyerlerinin Çalışma İzni ve Gıda Sicili ve Üretim İzni İşlemleri ile Sorumlu Yönetici İstihdamı Hakkında Yönetmeliğin, 5/1/2005 tarihli ve 25691 sayılı Resmî Gazete’de yayımlanan Kırmızı Et ve Et Ürünleri Üretim Çalışma ve Denetleme Usul ve Esaslarına Dair Yönetmeliğin ve 8/1/2005 tarihli ve 25694 sayılı Resmî Gazete’de yayımlanan Kanatlı Hayvan Eti ve Et Ürünleri Üretim Tesislerinin Çalışma ve Denetleme Usul ve Esaslarına Dair Yönetmeliğin bu Yönetmeliğin işletme gerekliliklerine ilişkin hükümlerine aykırı olmayan hükümlerinin uygulanmasına devam edilir.",
+      "preview": "(1) Bu Yönetmeliğin yayımı tarihinden önce çalışma izin belgesi, çalışma izni ve gıda sicili belgesi, kayıt belgesi veya bu belgelere eşdeğe…",
+      "kitap": null,
+      "kisim": null,
+      "bolum": "ALTINCI BÖLÜM · İthalat ve İhracat",
+      "ayirim": null,
+      "maddeBaslik": "Geçiş hükümleri",
+      "sectionPath": [
+        "ALTINCI BÖLÜM · İthalat ve İhracat",
+        "Geçiş hükümleri"
+      ]
+    },
+    {
+      "id": "yonetmelik:15592:m:29",
+      "maddeKind": "madde",
+      "maddeNo": "29",
+      "heading": "Madde 29",
+      "text": "(1) Bu Yönetmelik yayımı tarihinde yürürlüğe girer.",
+      "preview": "(1) Bu Yönetmelik yayımı tarihinde yürürlüğe girer.",
+      "kitap": null,
+      "kisim": null,
+      "bolum": "ALTINCI BÖLÜM · İthalat ve İhracat",
+      "ayirim": null,
+      "maddeBaslik": "Yürürlük",
+      "sectionPath": [
+        "ALTINCI BÖLÜM · İthalat ve İhracat",
+        "Yürürlük"
+      ]
+    },
+    {
+      "id": "yonetmelik:15592:m:30",
+      "maddeKind": "madde",
+      "maddeNo": "30",
+      "heading": "Madde 30",
+      "text": "(1) Bu Yönetmelik hükümlerini Gıda, Tarım ve Hayvancılık Bakanı yürütür.",
+      "preview": "(1) Bu Yönetmelik hükümlerini Gıda, Tarım ve Hayvancılık Bakanı yürütür.",
+      "kitap": null,
+      "kisim": null,
+      "bolum": "ALTINCI BÖLÜM · İthalat ve İhracat",
+      "ayirim": null,
+      "maddeBaslik": "Yürütme",
+      "sectionPath": [
+        "ALTINCI BÖLÜM · İthalat ve İhracat",
+        "Yürütme"
+      ]
+    }
+  ]
+}

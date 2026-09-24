@@ -1,0 +1,274 @@
+{
+  "id": "yonetmelik:24038",
+  "kind": "yonetmelik",
+  "no": "24038",
+  "title": "Kişisel Verilerin Silinmesi, Yok Edilmesi veya Anonim Hale Getirilmesi Hakkında Yönetmelik",
+  "shortName": "KVKKSilmeYön",
+  "aliases": [
+    "KVKKSilmeYön",
+    "Kişisel Verilerin Silinmesi, Yok Edilmesi veya Anonim Hale Getirilmesi Hakkında Yönetmelik",
+    "24038"
+  ],
+  "tur": 7,
+  "tertip": 5,
+  "sourceUrl": "https://www.mevzuat.gov.tr/mevzuat?MevzuatNo=24038&MevzuatTur=7&MevzuatTertip=5",
+  "kabulTarihi": null,
+  "maddeCount": 15,
+  "maddeler": [
+    {
+      "id": "yonetmelik:24038:m:1",
+      "maddeKind": "madde",
+      "maddeNo": "1",
+      "heading": "Madde 1",
+      "text": "(1) Bu Yönetmeliğin amacı, tamamen veya kısmen otomatik olan ya da herhangi bir veri kayıt sisteminin parçası olmak kaydıyla otomatik olmayan yollarla işlenen kişisel verilerin silinmesi, yok edilmesi veya anonim hale getirilmesine ilişkin usul ve esasları belirlemektir.",
+      "preview": "(1) Bu Yönetmeliğin amacı, tamamen veya kısmen otomatik olan ya da herhangi bir veri kayıt sisteminin parçası olmak kaydıyla otomatik olmaya…",
+      "kitap": null,
+      "kisim": null,
+      "bolum": "BİRİNCİ BÖLÜM · Amaç, Kapsam, Dayanak ve Tanımlar",
+      "ayirim": null,
+      "maddeBaslik": "Amaç",
+      "sectionPath": [
+        "BİRİNCİ BÖLÜM · Amaç, Kapsam, Dayanak ve Tanımlar",
+        "Amaç"
+      ]
+    },
+    {
+      "id": "yonetmelik:24038:m:2",
+      "maddeKind": "madde",
+      "maddeNo": "2",
+      "heading": "Madde 2",
+      "text": "(1) Bu Yönetmelik hükümleri; 24/3/2016 tarihli ve 6698 sayılı Kişisel Verilerin Korunması Kanununun 7 nci maddesi uyarınca veri sorumluları hakkında uygulanır.",
+      "preview": "(1) Bu Yönetmelik hükümleri; 24/3/2016 tarihli ve 6698 sayılı Kişisel Verilerin Korunması Kanununun 7 nci maddesi uyarınca veri sorumluları…",
+      "kitap": null,
+      "kisim": null,
+      "bolum": "BİRİNCİ BÖLÜM · Amaç, Kapsam, Dayanak ve Tanımlar",
+      "ayirim": null,
+      "maddeBaslik": "Kapsam",
+      "sectionPath": [
+        "BİRİNCİ BÖLÜM · Amaç, Kapsam, Dayanak ve Tanımlar",
+        "Kapsam"
+      ]
+    },
+    {
+      "id": "yonetmelik:24038:m:3",
+      "maddeKind": "madde",
+      "maddeNo": "3",
+      "heading": "Madde 3",
+      "text": "(1) Bu Yönetmelik, 6698 sayılı Kanunun 7 nci maddesinin üçüncü fıkrası ile 22 nci maddesinin birinci fıkrasının (e) bendine dayanılarak hazırlanmıştır.",
+      "preview": "(1) Bu Yönetmelik, 6698 sayılı Kanunun 7 nci maddesinin üçüncü fıkrası ile 22 nci maddesinin birinci fıkrasının (e) bendine dayanılarak hazı…",
+      "kitap": null,
+      "kisim": null,
+      "bolum": "BİRİNCİ BÖLÜM · Amaç, Kapsam, Dayanak ve Tanımlar",
+      "ayirim": null,
+      "maddeBaslik": "Dayanak",
+      "sectionPath": [
+        "BİRİNCİ BÖLÜM · Amaç, Kapsam, Dayanak ve Tanımlar",
+        "Dayanak"
+      ]
+    },
+    {
+      "id": "yonetmelik:24038:m:4",
+      "maddeKind": "madde",
+      "maddeNo": "4",
+      "heading": "Madde 4",
+      "text": "(1) Bu Yönetmeliğin uygulanmasında;\n a) Alıcı grubu: Veri sorumlusu tarafından kişisel verilerin aktarıldığı gerçek veya tüzel kişi kategorisini,\n b) İlgili kullanıcı: Verilerin teknik olarak depolanması, korunması ve yedeklenmesinden sorumlu olan kişi ya da birim hariç olmak üzere veri sorumlusu organizasyonu içerisinde veya veri sorumlusundan aldığı yetki ve talimat doğrultusunda kişisel verileri işleyen kişileri,\n c) İmha: Kişisel verilerin silinmesi, yok edilmesi veya anonim hale getirilmesini,\n ç) Kanun: 24/3/2016 tarihli ve 6698 Sayılı Kişisel Verilerin Korunması Kanununu,\n d) Kayıt ortamı: Tamamen veya kısmen otomatik olan ya da herhangi bir veri kayıt sisteminin parçası olmak kaydıyla otomatik olmayan yollarla işlenen kişisel verilerin bulunduğu her türlü ortamı,\n e) (Değişik:RG-28/4/2019-30758) Kişisel veri işleme envanteri: Veri sorumlularının iş süreçlerine bağlı olarak gerçekleştirmekte oldukları kişisel veri işleme faaliyetlerini; kişisel veri işleme amaçları ve hukuki sebebi, veri kategorisi, aktarılan alıcı grubu ve veri konusu kişi grubuyla ilişkilendirerek oluşturdukları ve kişisel verilerin işlendikleri amaçlar için gerekli olan azami muhafaza edilme süresini, yabancı ülkelere aktarımı öngörülen kişisel verileri ve veri güvenliğine ilişkin alınan tedbirleri açıklayarak detaylandırdıkları envanteri,\n f) Kişisel veri saklama ve imha politikası: Veri sorumlularının, kişisel verilerin işlendikleri amaç için gerekli olan azami süreyi belirleme işlemi ile silme, yok etme ve anonim hale getirme işlemi için dayanak yaptıkları politikayı,\n g) Kurul: Kişisel Verileri Koruma Kurulunu,\n ğ) Periyodik imha: Kanunda yer alan kişisel verilerin işlenme şartlarının tamamının ortadan kalkması durumunda kişisel verileri saklama ve imha politikasında belirtilen ve tekrar eden aralıklarla resen gerçekleştirilecek silme, yok etme veya anonim hale getirme işlemini,\n h) Sicil: Kişisel Verileri Koruma Kurumu Başkanlığı tarafından tutulan veri sorumluları sicilini,\n ı) Veri kayıt sistemi: Kişisel verilerin belirli kriterlere göre yapılandırılarak işlendiği kayıt sistemini,\n i) Veri sorumlusu: Kişisel verilerin işleme amaçlarını ve vasıtalarını belirleyen, veri kayıt sisteminin kurulmasından ve yönetilmesinden sorumlu olan gerçek veya tüzel kişiyi,\n ifade eder.\n (2) Bu Yönetmelikte yer almayan tanımlar için Kanundaki tanımlar geçerlidir.",
+      "preview": "(1) Bu Yönetmeliğin uygulanmasında; a) Alıcı grubu: Veri sorumlusu tarafından kişisel verilerin aktarıldığı gerçek veya tüzel kişi kategoris…",
+      "kitap": null,
+      "kisim": null,
+      "bolum": "BİRİNCİ BÖLÜM · Amaç, Kapsam, Dayanak ve Tanımlar",
+      "ayirim": null,
+      "maddeBaslik": "Tanımlar",
+      "sectionPath": [
+        "BİRİNCİ BÖLÜM · Amaç, Kapsam, Dayanak ve Tanımlar",
+        "Tanımlar"
+      ]
+    },
+    {
+      "id": "yonetmelik:24038:m:5",
+      "maddeKind": "madde",
+      "maddeNo": "5",
+      "heading": "Madde 5",
+      "text": "(1) Kanunun 16 ncı maddesi gereğince Veri Sorumluları Siciline kayıt olmakla yükümlü olan veri sorumluları, kişisel veri işleme envanterine uygun olarak kişisel veri saklama ve imha politikası hazırlamakla yükümlüdür.\n (2) Kişisel veri saklama ve imha politikası hazırlanmış olması; kişisel verilerin Kanuna ve Yönetmeliğe uygun biçimde saklandığı, silindiği, yok edildiği veya anonim hale getirildiği anlamına gelmez.\n (3) Kişisel veri saklama ve imha politikası hazırlama yükümlülüğü altında bulunmayan veri sorumlularının, Kanun ve bu Yönetmelik uyarınca kişisel verileri saklama, silme, yok etme veya anonim hale getirme yükümlülükleri devam eder.",
+      "preview": "(1) Kanunun 16 ncı maddesi gereğince Veri Sorumluları Siciline kayıt olmakla yükümlü olan veri sorumluları, kişisel veri işleme envanterine…",
+      "kitap": null,
+      "kisim": null,
+      "bolum": "İKİNCİ BÖLÜM · Kişisel Veri Saklama ve İmha Politikası",
+      "ayirim": null,
+      "maddeBaslik": "Kişisel veri saklama ve imha politikasına ilişkin esaslar",
+      "sectionPath": [
+        "İKİNCİ BÖLÜM · Kişisel Veri Saklama ve İmha Politikası",
+        "Kişisel veri saklama ve imha politikasına ilişkin esaslar"
+      ]
+    },
+    {
+      "id": "yonetmelik:24038:m:6",
+      "maddeKind": "madde",
+      "maddeNo": "6",
+      "heading": "Madde 6",
+      "text": "(1) Kişisel veri saklama ve imha politikası asgari olarak;\n a) Kişisel veri saklama ve imha politikasının hazırlanma amacına,\n b) Kişisel veri saklama ve imha politikası ile düzenlenen kayıt ortamlarına,\n c) Kişisel veri saklama ve imha politikasında yer verilen hukuki ve teknik terimlerin tanımlarına,\n ç) Kişisel verilerin saklanmasını ve imhasını gerektiren hukuki, teknik ya da diğer sebeplere ilişkin açıklamaya,\n d) Kişisel verilerin güvenli bir şekilde saklanması ile hukuka aykırı olarak işlenmesi ve erişilmesinin önlenmesi için alınmış teknik ve idari tedbirlere,\n e) Kişisel verilerin hukuka uygun olarak imha edilmesi için alınmış teknik ve idari tedbirlere,\n f) Kişisel verileri saklama ve imha süreçlerinde yer alanların unvanlarına, birimlerine ve görev tanımlarına,\n g) Saklama ve imha sürelerini gösteren tabloya,\n ğ) Periyodik imha sürelerine,\n h) Mevcut kişisel veri saklama ve imha politikasında güncelleme yapılmış ise söz konusu değişikliğe,\n ilişkin bilgileri kapsar.",
+      "preview": "(1) Kişisel veri saklama ve imha politikası asgari olarak; a) Kişisel veri saklama ve imha politikasının hazırlanma amacına, b) Kişisel veri…",
+      "kitap": null,
+      "kisim": null,
+      "bolum": "İKİNCİ BÖLÜM · Kişisel Veri Saklama ve İmha Politikası",
+      "ayirim": null,
+      "maddeBaslik": "Kişisel veri saklama ve imha politikasının kapsamı",
+      "sectionPath": [
+        "İKİNCİ BÖLÜM · Kişisel Veri Saklama ve İmha Politikası",
+        "Kişisel veri saklama ve imha politikasının kapsamı"
+      ]
+    },
+    {
+      "id": "yonetmelik:24038:m:7",
+      "maddeKind": "madde",
+      "maddeNo": "7",
+      "heading": "Madde 7",
+      "text": "(1) Kanunun 5 inci ve 6 ncı maddelerinde yer alan kişisel verilerin işlenme şartlarının tamamının ortadan kalkması halinde, kişisel verilerin veri sorumlusu tarafından resen veya ilgili kişinin talebi üzerine silinmesi, yok edilmesi veya anonim hâle getirilmesi gerekir.\n (2) Kişisel verilerin silinmesi, yok edilmesi veya anonim hale getirilmesinde Kanunun 4 üncü maddesindeki genel ilkeler ile 12 nci maddesi kapsamında alınması gereken teknik ve idari tedbirlere, ilgili mevzuat hükümlerine, Kurul kararlarına ve kişisel veri saklama ve imha politikasına uygun hareket edilmesi zorunludur.\n (3) Kişisel verilerin silinmesi, yok edilmesi ve anonim hale getirilmesiyle ilgili yapılan bütün işlemler kayıt altına alınır ve söz konusu kayıtlar, diğer hukuki yükümlülükler hariç olmak üzere en az üç yıl süreyle saklanır.\n (4) (Değişik:RG-28/4/2019-30758) Veri sorumlusu, kişisel verilerin silinmesi, yok edilmesi veya anonim hale getirilmesi işlemiyle ilgili uyguladığı yöntemleri ilgili politika ve prosedürlerinde açıklamakla yükümlüdür.\n (5) Veri sorumlusu, Kurul tarafından aksine bir karar alınmadıkça, kişisel verileri resen silme, yok etme veya anonim hale getirme yöntemlerinden uygun olanını seçer. İlgili kişinin talebi halinde uygun yöntemi gerekçesini açıklayarak seçer.",
+      "preview": "(1) Kanunun 5 inci ve 6 ncı maddelerinde yer alan kişisel verilerin işlenme şartlarının tamamının ortadan kalkması halinde, kişisel verileri…",
+      "kitap": null,
+      "kisim": null,
+      "bolum": "ÜÇÜNCÜ BÖLÜM · Kişisel Verilerin Silinmesi, Yok Edilmesi veya Anonim Hale Getirilmesi",
+      "ayirim": null,
+      "maddeBaslik": "İlkeler",
+      "sectionPath": [
+        "ÜÇÜNCÜ BÖLÜM · Kişisel Verilerin Silinmesi, Yok Edilmesi veya Anonim Hale Getirilmesi",
+        "İlkeler"
+      ]
+    },
+    {
+      "id": "yonetmelik:24038:m:8",
+      "maddeKind": "madde",
+      "maddeNo": "8",
+      "heading": "Madde 8",
+      "text": "(1)Kişisel verilerin silinmesi, kişisel verilerin ilgili kullanıcılar için hiçbir şekilde erişilemez ve tekrar kullanılamaz hale getirilmesi işlemidir.\n (2) Veri sorumlusu, silinen kişisel verilerin ilgili kullanıcılar için erişilemez ve tekrar kullanılamaz olması için gerekli her türlü teknik ve idari tedbirleri almakla yükümlüdür.",
+      "preview": "(1)Kişisel verilerin silinmesi, kişisel verilerin ilgili kullanıcılar için hiçbir şekilde erişilemez ve tekrar kullanılamaz hale getirilmesi…",
+      "kitap": null,
+      "kisim": null,
+      "bolum": "ÜÇÜNCÜ BÖLÜM · Kişisel Verilerin Silinmesi, Yok Edilmesi veya Anonim Hale Getirilmesi",
+      "ayirim": null,
+      "maddeBaslik": "Kişisel verilerin silinmesi",
+      "sectionPath": [
+        "ÜÇÜNCÜ BÖLÜM · Kişisel Verilerin Silinmesi, Yok Edilmesi veya Anonim Hale Getirilmesi",
+        "Kişisel verilerin silinmesi"
+      ]
+    },
+    {
+      "id": "yonetmelik:24038:m:9",
+      "maddeKind": "madde",
+      "maddeNo": "9",
+      "heading": "Madde 9",
+      "text": "(1) Kişisel verilerin yok edilmesi, kişisel verilerin hiç kimse tarafından hiçbir şekilde erişilemez, geri getirilemez ve tekrar kullanılamaz hale getirilmesi işlemidir.\n (2) Veri sorumlusu, kişisel verilerin yok edilmesiyle ilgili gerekli her türlü teknik ve idari tedbirleri almakla yükümlüdür.",
+      "preview": "(1) Kişisel verilerin yok edilmesi, kişisel verilerin hiç kimse tarafından hiçbir şekilde erişilemez, geri getirilemez ve tekrar kullanılama…",
+      "kitap": null,
+      "kisim": null,
+      "bolum": "ÜÇÜNCÜ BÖLÜM · Kişisel Verilerin Silinmesi, Yok Edilmesi veya Anonim Hale Getirilmesi",
+      "ayirim": null,
+      "maddeBaslik": "Kişisel verilerin yok edilmesi",
+      "sectionPath": [
+        "ÜÇÜNCÜ BÖLÜM · Kişisel Verilerin Silinmesi, Yok Edilmesi veya Anonim Hale Getirilmesi",
+        "Kişisel verilerin yok edilmesi"
+      ]
+    },
+    {
+      "id": "yonetmelik:24038:m:10",
+      "maddeKind": "madde",
+      "maddeNo": "10",
+      "heading": "Madde 10",
+      "text": "(1) Kişisel verilerin anonim hale getirilmesi, kişisel verilerin başka verilerle eşleştirilse dahi hiçbir surette kimliği belirli veya belirlenebilir bir gerçek kişiyle ilişkilendirilemeyecek hale getirilmesidir.\n (2) Kişisel verilerin anonim hale getirilmiş olması için; kişisel verilerin, veri sorumlusu, alıcı veya alıcı grupları tarafından geri döndürme ve verilerin başka verilerle eşleştirilmesi gibi kayıt ortamı ve ilgili faaliyet alanı açısından uygun tekniklerin kullanılması yoluyla dahi kimliği belirli veya belirlenebilir bir gerçek kişiyle ilişkilendirilemez hale getirilmesi gerekir.\n (3) Veri sorumlusu, kişisel verilerin anonim hale getirilmesiyle ilgili gerekli her türlü teknik ve idari tedbirleri almakla yükümlüdür.",
+      "preview": "(1) Kişisel verilerin anonim hale getirilmesi, kişisel verilerin başka verilerle eşleştirilse dahi hiçbir surette kimliği belirli veya belir…",
+      "kitap": null,
+      "kisim": null,
+      "bolum": "ÜÇÜNCÜ BÖLÜM · Kişisel Verilerin Silinmesi, Yok Edilmesi veya Anonim Hale Getirilmesi",
+      "ayirim": null,
+      "maddeBaslik": "Kişisel verilerin anonim hale getirilmesi",
+      "sectionPath": [
+        "ÜÇÜNCÜ BÖLÜM · Kişisel Verilerin Silinmesi, Yok Edilmesi veya Anonim Hale Getirilmesi",
+        "Kişisel verilerin anonim hale getirilmesi"
+      ]
+    },
+    {
+      "id": "yonetmelik:24038:m:11",
+      "maddeKind": "madde",
+      "maddeNo": "11",
+      "heading": "Madde 11",
+      "text": "(1) Kişisel veri saklama ve imha politikası hazırlamış olan veri sorumlusu, kişisel verileri silme, yok etme veya anonim hale getirme yükümlülüğünün ortaya çıktığı tarihi takip eden ilk periyodik imha işleminde, kişisel verileri siler, yok eder veya anonim hale getirir.\n (2) Periyodik imhanın gerçekleştirileceği zaman aralığı, veri sorumlusu tarafından kişisel veri saklama ve imha politikasında belirlenir. Bu süre her halde altı ayı geçemez.\n (3) Kişisel veri saklama ve imha politikası hazırlama yükümlülüğü olmayan veri sorumlusu, kişisel verileri silme, yok etme veya anonim hale getirme yükümlülüğünün ortaya çıktığı tarihi takip eden üç ay içinde, kişisel verileri siler, yok eder veya anonim hale getirir.\n (4) Kurul, telafisi güç veya imkansız zararların doğması ve açıkça hukuka aykırılık olması halinde, bu maddede belirlenen süreleri kısaltabilir.",
+      "preview": "(1) Kişisel veri saklama ve imha politikası hazırlamış olan veri sorumlusu, kişisel verileri silme, yok etme veya anonim hale getirme yüküml…",
+      "kitap": null,
+      "kisim": null,
+      "bolum": "ÜÇÜNCÜ BÖLÜM · Kişisel Verilerin Silinmesi, Yok Edilmesi veya Anonim Hale Getirilmesi",
+      "ayirim": null,
+      "maddeBaslik": "Kişisel verileri resen silme, yok etme veya anonim hale getirme süreleri",
+      "sectionPath": [
+        "ÜÇÜNCÜ BÖLÜM · Kişisel Verilerin Silinmesi, Yok Edilmesi veya Anonim Hale Getirilmesi",
+        "Kişisel verileri resen silme, yok etme veya anonim hale getirme süreleri"
+      ]
+    },
+    {
+      "id": "yonetmelik:24038:m:12",
+      "maddeKind": "madde",
+      "maddeNo": "12",
+      "heading": "Madde 12",
+      "text": "(1) İlgili kişi, Kanunun (Değişik ibare:RG-28/4/2019-30758) 11 inci ve 13 üncü maddelerine istinaden veri sorumlusuna başvurarak kendisine ait kişisel verilerin silinmesini veya yok edilmesini talep ettiğinde;\n a) Kişisel verileri işleme şartlarının tamamı ortadan kalkmışsa; veri sorumlusu talebe konu kişisel verileri siler, yok eder veya anonim hale getirir. Veri sorumlusu, ilgili kişinin talebini en geç otuz gün içinde sonuçlandırır ve ilgili kişiye bilgi verir.\n b) Kişisel verileri işleme şartlarının tamamı ortadan kalkmış ve talebe konu olan kişisel veriler üçüncü kişilere aktarılmışsa veri sorumlusu bu durumu üçüncü kişiye bildirir; üçüncü kişi nezdinde bu Yönetmelik kapsamında gerekli işlemlerin yapılmasını temin eder.\n c) Kişisel verileri işleme şartlarının tamamı ortadan kalkmamışsa, bu talep veri sorumlusunca Kanunun 13 üncü maddesinin üçüncü fıkrası uyarınca gerekçesi açıklanarak reddedilebilir ve ret cevabı ilgili kişiye en geç otuz gün içinde yazılı olarak ya da elektronik ortamda bildirilir.",
+      "preview": "(1) İlgili kişi, Kanunun (Değişik ibare:RG-28/4/2019-30758) 11 inci ve 13 üncü maddelerine istinaden veri sorumlusuna başvurarak kendisine a…",
+      "kitap": null,
+      "kisim": null,
+      "bolum": "ÜÇÜNCÜ BÖLÜM · Kişisel Verilerin Silinmesi, Yok Edilmesi veya Anonim Hale Getirilmesi",
+      "ayirim": null,
+      "maddeBaslik": "Kişisel verileri ilgili kişinin talep etmesi durumunda silme ve yok etme süreleri",
+      "sectionPath": [
+        "ÜÇÜNCÜ BÖLÜM · Kişisel Verilerin Silinmesi, Yok Edilmesi veya Anonim Hale Getirilmesi",
+        "Kişisel verileri ilgili kişinin talep etmesi durumunda silme ve yok etme süreleri"
+      ]
+    },
+    {
+      "id": "yonetmelik:24038:m:13",
+      "maddeKind": "madde",
+      "maddeNo": "13",
+      "heading": "Madde 13",
+      "text": "(1) Bu Yönetmeliğin uygulanması sırasında doğacak tereddütleri ve uygulamaya ilişkin aksaklıkları gidermeye ve uygulamayı yönlendirmeye, ilke ve standartları belirlemeye ve uygulama birliğini sağlayacak gerekli düzenlemeleri yapmaya, bu hususta gerekli her türlü bilgi ve belgeyi istemeye, bu Yönetmelikte yer almayan konularda ilgili mevzuat hükümleri çerçevesinde karar vermeye Kurul yetkilidir.",
+      "preview": "(1) Bu Yönetmeliğin uygulanması sırasında doğacak tereddütleri ve uygulamaya ilişkin aksaklıkları gidermeye ve uygulamayı yönlendirmeye, ilk…",
+      "kitap": null,
+      "kisim": null,
+      "bolum": "DÖRDÜNCÜ BÖLÜM · Çeşitli ve Son Hükümler",
+      "ayirim": null,
+      "maddeBaslik": "Tereddütlerin giderilmesi",
+      "sectionPath": [
+        "DÖRDÜNCÜ BÖLÜM · Çeşitli ve Son Hükümler",
+        "Tereddütlerin giderilmesi"
+      ]
+    },
+    {
+      "id": "yonetmelik:24038:m:14",
+      "maddeKind": "madde",
+      "maddeNo": "14",
+      "heading": "Madde 14",
+      "text": "(1) Bu Yönetmelik 1/1/2018 tarihinde yürürlüğe girer.",
+      "preview": "(1) Bu Yönetmelik 1/1/2018 tarihinde yürürlüğe girer.",
+      "kitap": null,
+      "kisim": null,
+      "bolum": "DÖRDÜNCÜ BÖLÜM · Çeşitli ve Son Hükümler",
+      "ayirim": null,
+      "maddeBaslik": "Yürürlük",
+      "sectionPath": [
+        "DÖRDÜNCÜ BÖLÜM · Çeşitli ve Son Hükümler",
+        "Yürürlük"
+      ]
+    },
+    {
+      "id": "yonetmelik:24038:m:15",
+      "maddeKind": "madde",
+      "maddeNo": "15",
+      "heading": "Madde 15",
+      "text": "(1) Bu Yönetmelik hükümlerini Başkan yürütür.\n\n Yönetmeliğin Yayımlandığı Resmî Gazete’nin\n\n Tarihi\n Sayısı\n\n 28/10/2017\n 30224\n\n Yönetmelikte Değişiklik Yapan Yönetmeliklerin Yayımlandığı Resmî Gazetelerin\n\n Tarihi\n Sayısı\n\n 1.\n 28/4/2019\n 30758\n\n 2.",
+      "preview": "(1) Bu Yönetmelik hükümlerini Başkan yürütür. Yönetmeliğin Yayımlandığı Resmî Gazete’nin Tarihi Sayısı 28/10/2017 30224 Yönetmelikte Değişik…",
+      "kitap": null,
+      "kisim": null,
+      "bolum": "DÖRDÜNCÜ BÖLÜM · Çeşitli ve Son Hükümler",
+      "ayirim": null,
+      "maddeBaslik": "Yürütme",
+      "sectionPath": [
+        "DÖRDÜNCÜ BÖLÜM · Çeşitli ve Son Hükümler",
+        "Yürütme"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,937 @@
+{
+  "id": "yonetmelik:11951",
+  "kind": "yonetmelik",
+  "no": "11951",
+  "title": "Yapı Denetimi Uygulama Yönetmeliği",
+  "shortName": "Yapı Denetim Yön.",
+  "aliases": [
+    "Yapı Denetim Yön.",
+    "Yapı Denetimi Uygulama Yönetmeliği",
+    "11951"
+  ],
+  "tur": 7,
+  "tertip": 5,
+  "sourceUrl": "https://www.mevzuat.gov.tr/mevzuat?MevzuatNo=11951&MevzuatTur=7&MevzuatTertip=5",
+  "kabulTarihi": null,
+  "maddeCount": 54,
+  "maddeler": [
+    {
+      "id": "yonetmelik:11951:m:1",
+      "maddeKind": "madde",
+      "maddeNo": "1",
+      "heading": "Madde 1",
+      "text": "(Değişik:RG-11/12/2020-31331)\n (1) Bu Yönetmeliğin amacı, 29/6/2001 tarihli ve 4708 sayılı Yapı Denetimi Hakkında Kanuna göre faaliyet gösteren Merkez ve İl Yapı Denetim Komisyonlarının, yapı denetim kuruluşlarının kuruluş ve çalışmaları; yapı denetim kuruluşlarında görev alacak denetçi mimar ve mühendisler ile diğer görevlilerde aranacak nitelikler; ilgili idare, proje müellifi, yapı müteahhidi, şantiye şefi, yapı sahibi ile yapı denetim kuruluşu ortaklarının görev ve sorumlulukları; yapı denetimi hizmet sözleşmesinin düzenlenmesine, feshi ve hizmet bedellerinin ödenmesi; hizmet bedeline esas yapı yaklaşık maliyetinin belirlenmesine esas birim maliyet veya maliyetlere; yapılara sertifika verilmesine, yapı denetim kuruluşlarından alınacak teminatın türü, tutarı, iadesi ile irat kaydedilmesine, idari yaptırımlara ve Kanunun uygulanmasına ilişkin usul ve esasları belirlemektir.",
+      "preview": "(Değişik:RG-11/12/2020-31331) (1) Bu Yönetmeliğin amacı, 29/6/2001 tarihli ve 4708 sayılı Yapı Denetimi Hakkında Kanuna göre faaliyet göster…",
+      "kitap": null,
+      "kisim": null,
+      "bolum": "BİRİNCİ BÖLÜM · Amaç, Kapsam, Dayanak ve Tanımlar",
+      "ayirim": null,
+      "maddeBaslik": "Amaç ve kapsam",
+      "sectionPath": [
+        "BİRİNCİ BÖLÜM · Amaç, Kapsam, Dayanak ve Tanımlar",
+        "Amaç ve kapsam"
+      ]
+    },
+    {
+      "id": "yonetmelik:11951:m:2",
+      "maddeKind": "madde",
+      "maddeNo": "2",
+      "heading": "Madde 2",
+      "text": "(Değişik:RG-29/12/2018-30640)(4)\n (1) Bu Yönetmelik, 29/6/2001 tarihli ve 4708 sayılı Yapı Denetimi Hakkında Kanunun 1 inci, 4 üncü, (Ek ibare:RG-21/3/2020-31075) 5 inci, 8 inci ve 12 nci maddelerine dayanılarak hazırlanmıştır.",
+      "preview": "(Değişik:RG-29/12/2018-30640)(4) (1) Bu Yönetmelik, 29/6/2001 tarihli ve 4708 sayılı Yapı Denetimi Hakkında Kanunun 1 inci, 4 üncü, (Ek ibar…",
+      "kitap": null,
+      "kisim": null,
+      "bolum": "BİRİNCİ BÖLÜM · Amaç, Kapsam, Dayanak ve Tanımlar",
+      "ayirim": null,
+      "maddeBaslik": "Dayanak",
+      "sectionPath": [
+        "BİRİNCİ BÖLÜM · Amaç, Kapsam, Dayanak ve Tanımlar",
+        "Dayanak"
+      ]
+    },
+    {
+      "id": "yonetmelik:11951:m:3",
+      "maddeKind": "madde",
+      "maddeNo": "3",
+      "heading": "Madde 3",
+      "text": "(1) Bu Yönetmelikte geçen;\n a) (Değişik:RG-23/12/2022-32052) Bakanlık: Çevre, Şehircilik ve İklim Değişikliği Bakanlığını,\n b) Denetçi mimar ve mühendis: İlgili mühendis ve mimar meslek odalarına üyeliği devam eden ve Bakanlıkça denetçi belgesi verilmiş mühendis ve mimarları,\n c) İlgili idare: Belediye ve mücavir alan sınırları içindeki uygulamalar için büyükşehir belediyeleri ile diğer belediyeleri, bu alanlar dışında kalan alanlarda valilikleri, yapı ruhsatı ve kullanma izin belgesi verme yetkisine sahip diğer idareleri,\n ç) İlgili meslek odaları: 27/1/1954 tarihli ve 6235 sayılı Türk Mühendis ve Mimar Odaları Birliği Kanununa göre kurulmuş olan mühendis veya mimar odalarını,\n d) İş bitirme tutanağı: İnşaatın kısmen veya tamamen fen ve sanat kurallarına, ruhsata ve eklerine, ilgili standartlara, teknik şartnamelere ve diğer mevzuata uygun olarak tamamlandığını göstermek üzere yapı denetim kuruluşu tarafından tanzim ve ilgili idaresi tarafından tasdik edilen tutanağı,\n e) İşyeri teslim tutanağı: İnşaatın fiilen başladığını belgelemek üzere, yapı ruhsatının alınmasını takiben yapı sahibi, yapı denetim kuruluşu, yapı müteahhidi veya yapı müteahhidi adına şantiye şefi tarafından imza altına alınıp ilgili idareye sunulan tutanağı,\n f) Kanun: 4708 sayılı Yapı Denetimi Hakkında Kanunu,\n g) Komisyon: Kanunun 4’üncü maddesinde belirtilen (Değişik ibare:RG-5/2/2013-28550) Merkez veya İl Yapı Denetim Komisyonunu,\n ğ) (Mülga:RG-29/12/2018-30640)(4)\n h) Laboratuvar: İnşaat ve yapı malzemeleri ile ilgili ham madde ve mamul madde üzerinde ilgili standartlarına veya teknik şartnamelerine göre ölçüm, muayene, kalibrasyon yapabilen ve diğer özelliklerini tayin eden, Bakanlıktan izin almış tesisi,\n ı) Proje müellifi: Mimarlık, mühendislik tasarım hizmetlerini iştigal konusu olarak seçmiş, yapının etüt ve projelerini hazırlayan gerçek ve tüzel kişiyi,\n i) (Değişik:RG-29/12/2018-30640)(4) Şantiye şefi: Konusuna ve niteliğine göre yapım işlerini yapı müteahhidi adına yöneterek uygulayan, mühendis, mimar, teknik öğretmen veya tekniker diplomasına sahip teknik personeli,\n j) Taşıyıcı sistem: Yapıların temel, betonarme, ahşap, çelik karkas, duvar, döşeme ve çatı gibi yük taşıyan ve aktaran bölümlerini ve istinat yapılarını,\n k) (Ek:RG-22/8/2015-29453)2 Teminat: Kanunla verilen görev ve sorumluluklarını eksiksiz yerine getirmelerini teminen kuruluşlardan (Mülga ibare:RG-11/12/2020-31331) (…) (Mülga ibare:RG-12/6/2025-32924) alınan Tedavüldeki Türk Parası, Devlet İç Borçlanma senedi, bu senetler yerine düzenlenen belgeler ve (Mülga ibare:RG-12/6/2025-32924) teminat mektupları,\n l) Yapı: Karada ve suda, daimî veya geçici, yeraltı ve yerüstü inşaatları ile bunların ilave, değişiklik ve tamirlerini içine alan sabit ve hareketli tesisleri2,\n m) Yapı denetim kuruluşu: Bakanlıktan aldığı izin belgesi ile münhasıran yapı denetimi görevini yapan, ortaklarının tamamı mimar ve mühendislerden oluşan tüzel kişiyi2,\n n) Yapı denetleme defteri: Yapı denetim kuruluşunca, şantiyede yapılan denetim sonuçları işlenen ve şantiye şefince şantiyede muhafaza edilen defteri2,\n o) Yapı hasarı: Kullanımdan doğan hasarlar hariç, yapının fen ve sanat kurallarına aykırı, eksik, hatalı ve kusurlu yapılması nedeniyle yapıda meydana gelen ve yapının kullanımını engelleyen veya yapıda değer kaybı oluşturan her türlü hasarı2,\n ö) Yapı inşaat alanı: Işıklıklar hariç, bodrum kat, asma kat ve çatı arasında yer alan mekanlar ve ortak alanlar dahil yapının inşa edilen tüm katlarının alanını2,\n p) Yapı müteahhidi: Yapım işini, yapı sahibine karşı taahhüt eden veya ticari amaçla veya kendisi için şahsi finans kaynaklarını kullanarak üstlenen, ilgili meslek odasına kayıtlı, gerçek ve tüzel kişiyi2,\n r) Yapı sahibi: Yapı üzerinde mülkiyet hakkına sahip olan gerçek ve tüzel kişileri2,\n s) (Değişik:RG-29/12/2018-30640)(4) Hizmet bedeline esas yapı yaklaşık maliyeti: Binalarda, yapı inşaat alanının, Bakanlıkça bu Yönetmelik ile belirlenen birim maliyet veya birim maliyetleri ile çarpımından elde edilen bedeli,\n ş) Yapım süresi: Yapı sahibinin, yapı ruhsatını aldığı tarih ile yapı kullanma iznini aldığı tarih arasındaki dönemi2,\n t) (Değişik:RG-29/12/2018-30640)(4) Yardımcı kontrol elemanı: Denetçi mimar ve mühendislerin sevk ve idaresi altında görev yapacak olan mimar ve mühendisler ile Bakanlıkça sınırları belirlenen yapı grubu ve inşaat alanına kadar olan yapılarda mimar ve mühendisler yerine yapı denetimi faaliyetlerine katılabilen teknik öğretmen, yüksek tekniker, tekniker ve teknisyenleri,\n u) (Ek:RG-12/6/2025-32924) Teminat mektubu: Bankalar tarafından verilen teminat mektupları ile Türkiye’de yerleşik sigorta şirketleri tarafından kefalet sigortası kapsamında düzenlenen kefalet senetlerini,\n ifade eder.",
+      "preview": "(1) Bu Yönetmelikte geçen; a) (Değişik:RG-23/12/2022-32052) Bakanlık: Çevre, Şehircilik ve İklim Değişikliği Bakanlığını, b) Denetçi mimar v…",
+      "kitap": null,
+      "kisim": null,
+      "bolum": "BİRİNCİ BÖLÜM · Amaç, Kapsam, Dayanak ve Tanımlar",
+      "ayirim": null,
+      "maddeBaslik": "Tanımlar2",
+      "sectionPath": [
+        "BİRİNCİ BÖLÜM · Amaç, Kapsam, Dayanak ve Tanımlar",
+        "Tanımlar2"
+      ]
+    },
+    {
+      "id": "yonetmelik:11951:m:4",
+      "maddeKind": "madde",
+      "maddeNo": "4",
+      "heading": "Madde 4",
+      "text": "(1) İlgili idare, Kanun ve ilgili mevzuat ile belirlenen görevlerini mevzuatta gösterilen süreler içinde tam ve zamanında yerine getirmek zorundadır.\n (2) Yapı ruhsatı ve yapı kullanma izni belgesini düzenleyen ilgili idare görevlileri, görevlerinin gereği gibi yerine getirilmemesinden doğan her türlü yapı kusurundan ve böylece meydana gelen zararlardan dolayı, tabi oldukları mevzuat çerçevesinde sorumludurlar.\n (3) Yapı ruhsatı müracaatına esas olan ve ilgili yapı denetim kuruluşunun uygun görüş verdiği belgeler incelenerek, eksiklik veya yanlışlık bulunmuyor ise yapı ruhsatı düzenlenir.\n (4) (Değişik:RG-3/4/2012-28253) Yapı ruhsatının vizeler bölümüne yapı denetim kuruluşunun denetçilerinin imzaları alındıktan sonra ilgili bölüm idarece incelenir. İnceleme neticesinde eksik vize işlemi var ise bunlar yapı denetim kuruluşuna tamamlattırılır. Bunun dışında, hiçbir şekilde vize veya vize anlamına gelecek bir uygulamada bulunulamaz.\n (5) Yapıda tespit edilen eksiklikler veya o yapıdan sorumlu bulunan (Değişik ibare:RG-29/12/2018-30640)(4) denetçi mimar ve mühendisler ile yardımcı kontrol elemanlarının görevinden ayrılması gibi nedenlerle, yapı denetim kuruluşunun talebi üzerine ilgili idarece inşaat durdurulur. Faaliyeti durdurulmuş inşaatta eksikliklerin giderilmesi durumunda, inşaatın devamına izin verilir.\n (6) (Değişik:RG-3/4/2012-28253) İnşaatın tamamlanmasını müteakiben tanzim edilen iş bitirme tutanağı ilgili idarece incelenerek, on beş iş günü içinde onaylanır veya var ise eksikliklerinin neler olduğu belirtilerek, giderilmesinin gerektiği yazılı olarak bildirilir. Eksikliklerin giderilmesinden sonra verilen iş bitirme tutanağı iki iş günü içinde onaylanır.",
+      "preview": "(1) İlgili idare, Kanun ve ilgili mevzuat ile belirlenen görevlerini mevzuatta gösterilen süreler içinde tam ve zamanında yerine getirmek zo…",
+      "kitap": null,
+      "kisim": null,
+      "bolum": "İKİNCİ BÖLÜM · Görev ve Sorumluluklar",
+      "ayirim": null,
+      "maddeBaslik": "İlgili idarenin görev ve sorumlulukları",
+      "sectionPath": [
+        "İKİNCİ BÖLÜM · Görev ve Sorumluluklar",
+        "İlgili idarenin görev ve sorumlulukları"
+      ]
+    },
+    {
+      "id": "yonetmelik:11951:m:5",
+      "maddeKind": "madde",
+      "maddeNo": "5",
+      "heading": "Madde 5",
+      "text": "(1) Yapı denetim kuruluşu, Kanunun 2’nci maddesinde belirtilen görevleri, Kanun ile belirlenmiş süreler içinde, imar planına, fen, sanat ve sağlık kurallarına, standartlara, yürürlükteki mevzuata ve mesleki ahlak kurallarına uygun ve tam olarak yerine getirmek zorundadır.\n (2) Yapı denetim kuruluşu proje denetimi safhasında;\n a) Yapının inşa edileceği parseli ilgilendiren imar durumu belgesi, aplikasyon krokisi, tapu kaydı örneği, zemin etüdü raporu ile gerekli diğer belgelerin mevzuata uygun olup olmadığını kontrol ederek kopyalarını dosyasında muhafaza eder.\n b) (Değişik:RG-14/4/2012-28264) Proje ve uygulama denetçisi mimar ve mühendisler aracılığıyla, proje müelliflerince hazırlanan uygulama projelerinin ve hesaplarının, mühendislik ve mimarlık proje düzenleme esaslarına, imar planına, imar yönetmeliklerine ve diğer mevzuata, şartname ve standartlara uygunluğunu kontrol eder, proje müelliflerinin ilgili meslek odasına üyeliğinin devam ettiğine dair taahhütnamesi ile mesleki kısıtlılığının olmadığına dair taahhütnamesinin olup olmadığını kontrol eder. İdareler sorumluluk alan mimar ve mühendislerin yaptıkları işlemlere ilişkin bilgileri her ayın ilk haftası içinde ilgili meslek odalarına bildirir.\n c) (Değişik:RG-3/4/2012-28253) Yapı ruhsatı vermeye yetkili idarelerin dışındaki kurumlar tarafından onaylanması gereken elektrik, telefon ve doğalgaz tesisat projelerini ilgili mevzuata göre inceler, zamanında ve usulüne uygun olarak onaylanmasını temin eder.\n ç) Ek-3’te gösterilen form-1’e uygun proje kontrol formunu esas alarak incelediği projelerde tespit edilen hata, eksiklik ve yetersizliklerin giderilmesini sağlar.\n d) İncelenen projeler, uygun görülmesi hâlinde, yapı denetim kuruluşu adına ilgili denetçi mimar ve denetçi mühendisler tarafından imzalanır ve kuruluş tarafından tasdik edilir.\n (e) (Ek:RG-14/4/2012-28264) Zemin ve temel etüdü raporunun hazırlanmasına ilişkin esaslara uygun olarak bir zemin etüdü raporunun olup olmadığını tespit ederek uygunluk görüşü verir. Raporun uygunluğunu tespit için, bünyesinde konu ile ilgili yeterli teknik eleman bulunmadığı hâllerde hizmet satın alabilir.\n (3) Yapı denetim kuruluşu yapı ruhsatı alınması safhasında;\n a) Denetimini üstleneceği yapı ile alâkalı bilgileri ek-4’te gösterilen form-2’ye uygun şekilde düzenleyip Bakanlığa bildirir.\n b) (Değişik:RG-5/2/2013-28550) Yapıya ilişkin bilgi formunu, yapının denetimini üstlendiği konusunda ek-5’te gösterilen form-3’e uygun taahhütnameyi, yapı denetim kuruluşunun yapı sahibi ile imzaladığı ek-6’da gösterilen form-4’e uygun sözleşmeyi ve projelerdeki eksikliklerin giderildiğini gösterir proje kontrol formunu ilgili idareye verir. Bu belgelerde noter tasdiki aranmaz.\n c) (Mülga:RG-13/6/2018-30450)\n ç)(1) (Ek:RG-3/4/2012-28253) Elektrik, telefon ve doğalgaz tesisat projelerinin inşaat ruhsatının alındığı tarihi izleyen otuz gün içinde ilgili idare tarafından onaylanmasını temin eder ve onaya ilişkin belgeyi inşaat ruhsatı vermeye yetkili idareye sunar. Bu süre içinde söz konusu projelere ilişkin onaylar idareye sunulamadığı takdirde inşaat idarece durdurulur.\n (4) Yapı denetim kuruluşu yapım safhasında;\n a) Ek-7’de gösterilen form-5’e uygun işyeri teslim tutanağını, yapı sahibi ve yapı müteahhidi veya yapı müteahhidi adına şantiye şefi ile birlikte imzalayarak üç iş günü içerisinde ilgili idarenin onayına sunar.\n b) Bünyesinde konu ile ilgili teknik eleman bulunmayan hâllerde, hizmet satın almak suretiyle teknik eleman görevlendirerek, arsanın köşe noktalarının ilgili idare nezaretinde tespit ettirilmesini ve yapının, vaziyet planına uygun biçimde arsaya aplike edilmesini sağlar.\n c) Denetimini üstlendiği işin projesine göre gerekli olan yapım tekniklerini göz önüne alarak, işin gerektirdiği malzeme ve bu malzeme ile ilgili imalatın, Bakanlıkça izin belgesi verilen özel veya kamu kuruluşlarına ait laboratuvarlarda muayene ve deneylerini yaptırarak, sonuçların standart ve şartnamelere uygun olup olmadığını kontrol eder.\n ç) Beton kalıbı, demir teçhizatı ve gerekli diğer tesisatı kontrol ederek ek-8’de gösterilen form-6’ya uygun tutanak tanzim edilmeden beton dökümüne izin vermez. Beton, uygulama denetçisi inşaat mühendisi veya (Değişik ibare:RG-29/12/2018-30640)(4) ilgili yardımcı kontrol elemanı nezaretinde dökülür. Beton numuneleri, döküm yerinde yapı denetim elemanlarının huzurunda, deneyi yapacak laboratuvarın teknik elemanlarınca ilgili standartlara uygun olarak alınır. Alınan numuneler üzerinde şantiyede yapılacak deneylerin sonucunun olumlu olması hâlinde beton dökümüne izin verir. Alınan diğer numuneler deneyi yapacak laboratuvara, bu laboratuvarın teknik elemanı marifetiyle iletilir. Beton dökümünü müteakiben ek-9’da gösterilen form-7’ye uygun tutanak tanzim edilir.\n d) (c) ve (ç) bentlerinde sayılan muayene ve deney sonuçları, ilgili standartların ve şartnamelerin öngördüğü değerlerde ise bu sonuçlara ilişkin raporları, o imalatı içeren hakediş ekinde ilgili idareye verir. Aksi hâlde, bu raporları laboratuvarda düzenlenme tarihinden itibaren üç iş günü içinde ilgili idareye vererek, hatalı imalatlar uygun hale getirilinceye kadar yapıdaki imalatın durdurulmasını sağlar.\n e) Yapılan her imalatın proje eki mahal listesine uygunluğunu ve yapı sahibi ile yapı müteahhidi arasında akdedilen sözleşmede belirtilen niteliklerde yapılıp yapılmadığını denetler.\n f) Yazılı ihtarına rağmen ruhsata ve eklerine aykırı iş yapan işçi ve ustanın durumunu tespit eder ve yapı müteahhidine bildirir. Bu durum devam ettiği takdirde, ilgili idareye yazılı olarak bildirimde bulunur.\n g) Yapının elektrik aboneliği sırasında düzenlenecek belgeleri, denetçi elektrik mühendislerine kontrol ettirir.\n ğ) Şantiyede yapılan denetim sonuçlarının işlendiği ve şantiye şefi tarafından şantiyede muhafaza edilen, ek-10’da gösterilen form-8’e uygun yapı denetleme defterini takip eder.\n h) Yapım işlerinde kullanılacak malzemelerin ilgili teknik şartnamelere ve standartlara aykırı oldukları belirlendiğinde, bunların imalatta kullanılmasına izin vermez ve bu durumu bir rapor ile ilgili idareye ve malzeme denetimi ile ilgili kuruluşlara bildirir.\n ı) İnşaat alanında işçi sağlığı ve iş güvenliği ile çevre sağlığı ve güvenliğinin korunması için gereken tedbirlerin alınıp alınmadığını kontrol eder.\n i) Bünyesinde görevli denetçi mimar ve mühendisler ile (Mülga ibare:RG-29/12/2018-30640)(4) (…) yardımcı kontrol elemanlarının Bakanlıkça düzenlenen meslek içi eğitime katılmalarını sağlar.\n j) Her yılın sonu itibarı ile yapı sahibi ve yapı müteahhidi veya yapı müteahhidi adına şantiye şefi ile birlikte yapının fiziki durumunu belirleyen seviye tespit tutanağını tanzim ederek bir suretini ilgili idareye verir. Yıl sonu seviye tespitinde ihtilaf olduğu takdirde ilgili idareden seviye tespitinin yapılmasını ister.\n k) Ruhsata bağlanmış olmak kaydı ile, yapı sahibinin isteğine bağlı ilave işlerin projelerini ve yapımını denetler.\n l) Yukarıda açıklanan görevlerin yapılması sırasında ruhsata ve eklerine aykırı imalat belirlendiğinde, yapının o anki durumunu fotoğrafla tespit eder, ilgili idareye de dağıtımı yapılan bir yazı ile yapının müteahhidini iadeli taahhütlü posta yoluyla yazılı olarak uyarır ve aykırılığın giderilmesi için süre verir. Bu süre zarfında yapı müteahhidine bildirilen eksikliklerin giderilmemesi durumunda, süre bitimini takip eden üç iş günü içinde iadeli taahhütlü posta yoluyla ilgili idareye bildirimde bulunur.\n m) Denetim işlerine ait hakedişlerin tahakkuka bağlandığı tarihte düzenlenecek olan faturanın bir örneğini ilgili idareye verir.\n n) Yapım işinin devamı sırasında kayıt altına alınmasında yarar görülen hususlar için ek tutanaklar tanzim ederek imalatın denetimini ve gözetimini sağlar.\n o) Tanzim edilen tutanakları, imalat veya malzemede herhangi bir eksiklik veya kusur bulunmadığı takdirde, hakediş ekinde ilgili idareye sunar. Aksi hâlde, maddenin (l) bendi hükümleri uygulanır.\n ö) Yapının ruhsata ve eklerine uygun olarak kısmen veya tamamen bitirildiğini belirten, ek-11’de gösterilen form-9’a uygun iş bitirme tutanağını düzenler ve onaylanmak üzere ilgili idareye verir.\n p) Yapı kullanma izninin alınmasını müteakiben, ilgili idare tarafından istenilen yapı denetimine ait diğer bilgi ve belgeleri ilgili idareye verir.\n r) (Ek:RG-3/4/2012-28253) Yapı ile ilgili olarak ısı ihtiyacı kimlik belgesinin, kanal bağlantısının yapıldığına ilişkin tutanağın, binanın yapı aplikasyon projesine uygun şekilde aplike edildiğini gösteren vaziyet planı ve bağımsız bölüm planını içeren belgenin, elektrik, telefon ve doğalgaz tesisatlarının, yangın algılama, tahliye ve söndürme sisteminin projelerine uygun şekilde yapılmasını denetleyerek bunlara ilişkin uygunluk belgelerini ve asansörün ilgili idarece tescilini temin eder. Bu işlemlerin usulüne uygun yapıldığına dair raporu ve yapının cephe fotoğraflarını iş bitirme tutanağına ekler.\n Denetçi ve yardımcı kontrol elemanının görev ve sorumlulukları (Değişik başlık:RG-29/12/2018-30640)(4)",
+      "preview": "(1) Yapı denetim kuruluşu, Kanunun 2’nci maddesinde belirtilen görevleri, Kanun ile belirlenmiş süreler içinde, imar planına, fen, sanat ve…",
+      "kitap": null,
+      "kisim": null,
+      "bolum": "İKİNCİ BÖLÜM · Görev ve Sorumluluklar",
+      "ayirim": null,
+      "maddeBaslik": "Yapı denetim kuruluşunun görev ve sorumlulukları",
+      "sectionPath": [
+        "İKİNCİ BÖLÜM · Görev ve Sorumluluklar",
+        "Yapı denetim kuruluşunun görev ve sorumlulukları"
+      ]
+    },
+    {
+      "id": "yonetmelik:11951:m:6",
+      "maddeKind": "madde",
+      "maddeNo": "6",
+      "heading": "Madde 6",
+      "text": "(1) (Değişik:RG-14/4/2012-28264) Proje ve uygulama denetçisi mimar ve mühendisler tarafından, proje müelliflerince hazırlanan projelerin mevzuata, Ek-3’te gösterilen Form-1 ile belirlenmiş asgari kriterlere uygunluğu ve detay ve hesapların doğruluğu, kontrol edilir. Var ise, eksiklik ve hataların giderilmesi sağlanır. Eksikliği ve hatası bulunmayan projeler, ilgili denetçi mimar ve denetçi mühendis tarafından onaylanır.\n (2) Yapı ruhsatının alınmasını müteakiben, yapı denetim kuruluşunun ilgili denetçileri, yapı sahibi, yapı müteahhidi veya yapı müteahhidi adına şantiye şefi tarafından işyeri teslim tutanağı tanzim edilerek ilgili idarenin onayına sunulur.\n (3) İşyeri teslimi yapıldıktan sonra, ihtisas alanlarına göre ilgili denetçiler, (Değişik ibare:RG-29/12/2018-30640)(4) denetçiler ve yardımcı kontrol elemanları tarafından, temel bölümünün inşası sırasında gerekli denetim ve gözetimler yapılır; temel kalıp ve donatı imalatı kontrol tutanağı, temel topraklaması kontrol tutanağı ve temel beton döküm tutanağı tanzim edilerek, yapılan işlemlerin uygunluğu onaylanır.\n (4) Yapının taşıyıcı sistem bölümünün imalatı sırasında, beton kalıbı, demir teçhizatı ve gerekli diğer tesisat kontrol edildikten sonra ek-8’de gösterilen form-6’ya uygun tutanak tanzim edilir. Uygulama denetçisi inşaat mühendisi veya (Değişik ibare:RG-29/12/2018-30640)(4) ilgili yardımcı kontrol elemanı gözetiminde beton dökümüne izin verilir. Beton dökümünü müteakiben, ek-9’da gösterilen form-7’ye uygun tutanak tanzim edilir. Yapıda gerçekleştirilecek her bir beton döküm işi için bu tutanaklar ayrı ayrı hazırlanır.\n (5) Yapının çatı örtüsü, dolgu duvarları, kapı ve pencere kasaları ile tesisatlara ait imalatların tamamlanıp sıvaya hazır hâle gelmesi ve iş bitimine kadar olan son bölümünde ise bodrum, zemin, asma, normal kat ve çatı katlarının dış duvarları ve iç duvarları kontrol tutanakları, elektrik tesisatı duvar boruları kontrol tutanağı, elektrik kablo çekimi ve tali pano kontrol tutanağı, çatı konstrüksiyonu, ısı yalıtımı, su yalıtımı ve çatı örtüsü kontrol tutanağı, temiz su boru tesisatı hidrolik basınç testi kontrol tutanağı, pis su boru tesisatı sızdırmazlık testi kontrol tutanağı, yapının sıvaya hazır duruma geldiğini belirten tutanak, elektrik ana pano kontrol tutanağı ve mekanik tesisat montaj tutanağı tanzim edilir.\n (6) Maddede sayılan işlemler, ihtisas konusuna göre ilgili (Değişik ibare:RG-29/12/2018-30640)(4) denetçi ve yardımcı kontrol elemanlarının denetiminde sürdürülür.\n (7) (Ek:RG-22/8/2015-29453) (Mülga:RG-29/12/2018-30640)(4)",
+      "preview": "(1) (Değişik:RG-14/4/2012-28264) Proje ve uygulama denetçisi mimar ve mühendisler tarafından, proje müelliflerince hazırlanan projelerin mev…",
+      "kitap": null,
+      "kisim": null,
+      "bolum": "İKİNCİ BÖLÜM · Görev ve Sorumluluklar",
+      "ayirim": null,
+      "maddeBaslik": "Yapı denetim kuruluşunun görev ve sorumlulukları",
+      "sectionPath": [
+        "İKİNCİ BÖLÜM · Görev ve Sorumluluklar",
+        "Yapı denetim kuruluşunun görev ve sorumlulukları"
+      ]
+    },
+    {
+      "id": "yonetmelik:11951:m:7",
+      "maddeKind": "madde",
+      "maddeNo": "7",
+      "heading": "Madde 7",
+      "text": "(1) (Değişik:RG-14/4/2012-28264) Proje müellifi, yapı ruhsatına esas olan uygulama projelerini ve zemin etüdü raporları da dâhil olmak üzere her türlü etüde dayalı çalışmaları mevzuata uygun olarak yapmak ya da yaptırmak, ilgili meslek odasına üyeliğinin devam ettiğine dair taahhütnamesi ile mesleki kısıtlılığı olmadığına dair taahhütnamesi ile birlikte, incelenerek uygunluk görüşünü bildirmek üzere yapı denetim kuruluşuna vermek ile görevlidir.\n (2) Ruhsat eki projelerin birbiri ile uyumlu olması şarttır. Birbiri ile uyumlu olmayan projelerden doğan sorumluluk, öncelikle proje müelliflerine ait olmak üzere, sırası ile yapı denetim kuruluşuna, proje ve uygulama denetçisi mimar ve mühendislere ve ilgili idareye aittir.\n (3) (Değişik:RG-14/4/2012-28264) İlgili meslek odasına üyeliğinin devam ettiğine dair taahhütnamesi ve mesleki kısıtlılığı olmadığına dair taahhütnamesi bulunmayan proje müellifinin projesi, yapı denetim kuruluşunca incelenmez.",
+      "preview": "(1) (Değişik:RG-14/4/2012-28264) Proje müellifi, yapı ruhsatına esas olan uygulama projelerini ve zemin etüdü raporları da dâhil olmak üzere…",
+      "kitap": null,
+      "kisim": null,
+      "bolum": "İKİNCİ BÖLÜM · Görev ve Sorumluluklar",
+      "ayirim": null,
+      "maddeBaslik": "Proje müellifinin görev ve sorumlulukları",
+      "sectionPath": [
+        "İKİNCİ BÖLÜM · Görev ve Sorumluluklar",
+        "Proje müellifinin görev ve sorumlulukları"
+      ]
+    },
+    {
+      "id": "yonetmelik:11951:m:8",
+      "maddeKind": "madde",
+      "maddeNo": "8",
+      "heading": "Madde 8",
+      "text": "(1) Yapı sahibi, yapı denetimi hizmet sözleşmesini bizzat veya hukuken temsile yetkili vekili aracılığı ile imzalamak zorundadır.\n (2) Yapı sahibinin aynı zamanda yapı denetim kuruluşunun denetçisi olduğu hâllerde, yapı sahibi olan denetçiye görev verilmemek kaydı ile, mensubu olduğu yapı denetim kuruluşunca işin denetiminin üstlenilmesi mümkündür.\n (3) Yapı sahibi, yapı denetimi hizmet bedeli taksitlerini zamanında ödemek ile yükümlüdür.\n (4) Yapı sahibi projede, mahal listesinde, metrajda ve yapı yaklaşık maliyetinde bulunmayan herhangi bir imalatı, ruhsata bağlanmadığı müddetçe yapı müteahhidinden ve yapı denetim kuruluşundan isteyemez ve bu gibi istekler yerine getirilemez.\n (5) Tamamlanan yapı, yapı kullanma izni belgesi düzenlenmeksizin kullanıma açılamaz.\n (6) Yapı kullanma izni belgesi alınmış bir yapıda, ruhsat düzenlenmeksizin değişiklik yapılamaz. İşin fiziki olarak bittiğini gösteren iş bitirme tutanağının ilgili idarece onaylanmasından sonra yapılacak olan değişikliklerden yapı sahibi sorumludur.",
+      "preview": "(1) Yapı sahibi, yapı denetimi hizmet sözleşmesini bizzat veya hukuken temsile yetkili vekili aracılığı ile imzalamak zorundadır. (2) Yapı s…",
+      "kitap": null,
+      "kisim": null,
+      "bolum": "İKİNCİ BÖLÜM · Görev ve Sorumluluklar",
+      "ayirim": null,
+      "maddeBaslik": "Yapı sahibinin görev ve sorumlulukları",
+      "sectionPath": [
+        "İKİNCİ BÖLÜM · Görev ve Sorumluluklar",
+        "Yapı sahibinin görev ve sorumlulukları"
+      ]
+    },
+    {
+      "id": "yonetmelik:11951:m:9",
+      "maddeKind": "madde",
+      "maddeNo": "9",
+      "heading": "Madde 9",
+      "text": "(1) (Değişik:RG-5/2/2013-28550) Her türlü yapı inşası işinin Bakanlıkça yetki belgesi verilmiş gerçek veya tüzel kişiler tarafından üstlenilmesi mecburidir. Yapı müteahhidi, şahsen sahip olduğu teknik ve mali kaynakları kullanarak veya taşeron marifetiyle yapım işini ticari maksatla üstlenen, yapının plana ve mevzuata, fen, sanat ve sağlık kurallarına, ruhsata ve eki projelere uygun olarak ve bünyesindeki mimar ve mühendisler ile diğer uzmanların gözetimi altında inşa edileceğini yapı sahibine ve ilgili idareye taahhüt eden gerçek veya tüzel kişidir.\n (2) (Değişik:RG-29/12/2018-30640)(4) Yapı müteahhidi, inşaatta görevlendireceği şantiye şefi ile asgari hüküm ve şartları ek-12’de gösterilen form-10’da belirlenmiş sözleşmeyi imzalar. Bu sözleşmenin bir sureti yapı denetim kuruluşuna verilir. Şantiye şefinin aynı yapıda yapı müteahhidi olması hâlinde, şantiye şefliği için sözleşme akdedilmesi şartı aranmaz. Yapı sahibi ile yapılan sözleşmede bu husus belirtilir.\n (3) Şantiye şefi; yapıyı ilgili mevzuat hükümlerine, ruhsata ve eki projelere, denetçi mimar ve mühendis ile (Mülga ibare:RG-29/12/2018-30640)(4) (…) yardımcı kontrol elemanlarının talimatlarına uygun olarak inşa ettirmek, yapı denetimi sırasında bizzat hazır bulunarak, denetimin uygun şartlar altında yapılmasını sağlamak, ek-10’da gösterilen form-8’e uygun yapı denetleme defterini şantiyede muhafaza etmek, bu defterin ilgili bölümünü ve yapı denetim kuruluşunca düzenlenen diğer tutanak ile belgeleri imzalamakla yükümlüdür.\n (4) Şantiye şefinin herhangi bir sebepten dolayı yapı ile ilişiğinin kesilmesi hâlinde, bu durum yapı müteahhidi tarafından, en geç üç iş günü içinde yapı denetim kuruluşuna bildirilir. Bunun üzerine yapı denetim kuruluşu ve yapı müteahhidi tarafından seviye tespit tutanağı düzenlenerek ilgili idareye ibraz edilir. Yeni bir şantiye şefi görevlendirilinceye kadar, yapı müteahhidi tarafından inşai faaliyet durdurulur.\n (5) Yapı müteahhidi ve onu temsilen görevlendirilen şantiye şefi, yapım işlerindeki kusurlardan dolayı müteselsilen sorumludur.\n (6) (Değişik:RG-22/8/2015-29453) Yapı müteahhidi veya onu temsilen görevlendirilen şantiye şefi, inşaatta herhangi bir imalata başlamadan en az bir gün önce, yapılacak imalatı yapı denetim kuruluşuna haber vermek zorundadır. Ancak bu durum yapı denetim kuruluşunun işin denetimsiz ilerlemesinden doğabilecek sorumluluğunu ortadan kaldırmaz.\n ÜÇÜNCÜ BÖLÜM\n (Değişik bölüm başlığı:RG-11/12/2020-31331)",
+      "preview": "(1) (Değişik:RG-5/2/2013-28550) Her türlü yapı inşası işinin Bakanlıkça yetki belgesi verilmiş gerçek veya tüzel kişiler tarafından üstlenil…",
+      "kitap": null,
+      "kisim": null,
+      "bolum": "İKİNCİ BÖLÜM · Görev ve Sorumluluklar",
+      "ayirim": null,
+      "maddeBaslik": "Yapı müteahhidi ile şantiye şefinin görev ve sorumlulukları",
+      "sectionPath": [
+        "İKİNCİ BÖLÜM · Görev ve Sorumluluklar",
+        "Yapı müteahhidi ile şantiye şefinin görev ve sorumlulukları"
+      ]
+    },
+    {
+      "id": "yonetmelik:11951:m:10",
+      "maddeKind": "madde",
+      "maddeNo": "10",
+      "heading": "Madde 10",
+      "text": "(1) Yapı denetim kuruluşuna ortak olabilmek için mimarlık, inşaat mühendisliği, makine mühendisliği veya elektrik mühendisliği diplomasına sahip olmak şartı aranır.\n (2) (Değişik:RG-22/8/2015-29453) Yapı denetim kuruluşu, kuruluşun hisselerinin devri ile yetkilisi, tebligat adresi ve benzeri bilgilerin değişmesi hâlinde, bu değişikliklere dair bilgileri en geç bir ay içerisinde yazılı olarak Merkez Yapı Denetim Komisyonuna bildirmek zorundadır. (Ek cümle:RG-21/3/2020-31075) Aksi durumun tespit edilmesi halinde, değişikliğe ilişkin bilgi ve belgeler sunuluncaya kadar, yapı denetim kuruluşunun denetim sorumluluğu altında bulunan mevcut yapılara ilişkin bilgi formları üzerinde işlem yapması engellenir ve uhdesindeki denetim işlerinin devamına ve yeni denetim işi üstlenmesine izin verilmez.\n (3) Vefat dışındaki herhangi bir sebepten dolayı ortaklar arasında hisse devrine gidildiğinde, bu durumu gösteren belgeler ile müracaat edilmesi hâlinde, ayrılan ortağın kuruluş ile ilişiği kesilir. Yeni ortağın Kanunda ve Yönetmelikte belirtilen ortaklık şartlarını haiz olduğunu gösterir belge kuruluşça sunulmadan, kuruluşun faaliyetine izin verilmez.\n (4) Ortaklardan herhangi biri vefat ettiğinde, vefat eden ortağın hissesi kanuni vârislerine intikal eder ve vârisler sermaye ortağı olarak kalabilirler. Ancak, vârisler mimar veya mühendis değil ise hiçbir şekilde kuruluşta yönetici olamazlar ve kuruluş hisselerini yapı denetim kuruluşuna ortak olma şartlarını haiz olmayan kişilere devredemezler. Mühendis veya mimar olmayan vârisler, istedikleri takdirde kendilerini kuruluşta temsil etmek üzere, yapı denetim kuruluşu ortağı olma şartlarını haiz bir mühendis veya mimar ile sözleşme imzalar ve bu durumu (Değişik ibare:RG-5/2/2013-28550) Merkez Yapı Denetim Komisyonuna bildirir.\n (5) (Mülga:RG-22/8/2015-29453)\n (6) (Ek:RG-5/2/2013-28550) (Mülga:RG-13/6/2018-30450)",
+      "preview": "(1) Yapı denetim kuruluşuna ortak olabilmek için mimarlık, inşaat mühendisliği, makine mühendisliği veya elektrik mühendisliği diplomasına s…",
+      "kitap": null,
+      "kisim": null,
+      "bolum": "İKİNCİ BÖLÜM · Görev ve Sorumluluklar",
+      "ayirim": null,
+      "maddeBaslik": "Yapı denetim kuruluşunda ortaklık durumu",
+      "sectionPath": [
+        "İKİNCİ BÖLÜM · Görev ve Sorumluluklar",
+        "Yapı denetim kuruluşunda ortaklık durumu"
+      ]
+    },
+    {
+      "id": "yonetmelik:11951:m:11",
+      "maddeKind": "madde",
+      "maddeNo": "11",
+      "heading": "Madde 11",
+      "text": "(Değişik:RG-29/12/2018-30640)(4)\n (1) Yapı denetim kuruluşunun denetleyebileceği toplam yapı inşaat alanı 360.000 m2’yi geçemez. (Değişik cümle:RG-12/6/2025-32924) Ancak yapı denetim kuruluşunun üzerinde bulunan işlerin toplamı denetleme yetki sınırını aşmamış ise yapı denetim hizmet sözleşmesi bedeline esas inşaat alanı 500 m²’ye kadar olan işlerde son bir yapı ile, diğer işlerde ise Bakanlıkça esasları belirlenen son iş ile toplam yapı inşaat alanı sınırının kuruluş için aşılabilmesi mümkün olmakla birlikte kendileri için belirlenen yetki sınırının altına düşene kadar başkaca bir yapının denetim işini üstlenemezler.",
+      "preview": "(Değişik:RG-29/12/2018-30640)(4) (1) Yapı denetim kuruluşunun denetleyebileceği toplam yapı inşaat alanı 360.000 m2’yi geçemez. (Değişik cüm…",
+      "kitap": null,
+      "kisim": null,
+      "bolum": "İKİNCİ BÖLÜM · Görev ve Sorumluluklar",
+      "ayirim": null,
+      "maddeBaslik": "Yapı denetim kuruluşunun yetki sınırı",
+      "sectionPath": [
+        "İKİNCİ BÖLÜM · Görev ve Sorumluluklar",
+        "Yapı denetim kuruluşunun yetki sınırı"
+      ]
+    },
+    {
+      "id": "yonetmelik:11951:m:12",
+      "maddeKind": "madde",
+      "maddeNo": "12",
+      "heading": "Madde 12",
+      "text": "(1) (Değişik:RG-8/7/2019-30825 Mükerrer) Yapı denetim kuruluşuna izin belgesi alabilmek için aşağıdaki şartlar sağlanır:\n a) Kuruluşun ödenmiş sermayesinin nama yazılı hisselerinin tamamı mimar veya inşaat, makine ve elektrik mühendislerine ait ve faaliyet konusu sadece yapı denetimi olarak seçilmiş olmalı.\n b) Ticaret veya sanayi odasına kayıtlı olmalı.\n c) (Değişik:RG-23/12/2022-32052) Kuruluş ortakları, mimar, inşaat mühendisi, makine mühendisi veya elektrik mühendisi olmalı, görevini devamlı olarak yapmaya engel bir durumu olmadığı ilgili sağlık kurum veya kuruluşunca belirlenmeli, meslek odasına kayıt olmalı, sabıka kaydı olmamalı, kuruluşça yetkilendirilen şirket müdürü ve ortakları imza beyanına sahip olmalı ve T.C. kimlik numarasını sunmalı.\n ç) (Mülga:RG-21/3/2020-31075)\n (2) (Değişik:RG-21/3/2020-31075) Başvurunun uygun görülmesi hâlinde, Merkez Yapı Denetim Komisyonunca ek-15’te gösterilen form-13’e uygun, yapı denetim izin belgesi tanzim edilir. (Değişik cümle:RG-7/9/2023-32302) İzin belgesi almaya hak kazanan yapı denetim kuruluşları, denetim faaliyeti yürütebilmek için 16 ncı maddenin birinci fıkrasında belirtilen denetçileri istihdam etmekle yükümlü olup, aksi takdirde aynı fıkra kapsamında haklarında Bakanlıkça gerekli işlemler yürütülür. Verilen izin belgesi üç yıl için geçerlidir. (Mülga dördüncü cümle:RG-12/6/2025-32924) Bu sürenin sonunda vize edilmeyen izin belgesinin kullanımına izin verilmez. Vize süresinin sona ermesini müteakip 90 takvim günü içerisinde belgesini vize ettirmeyen yapı denetim kuruluşunun belgesi Resmî Gazete ilan tarihi itibariyle Bakanlıkça geçici olarak geri alınır.\n (3) (Değişik:RG-29/12/2018-30640)(4) Merkez Yapı Denetim Komisyonunca Kanunun uygulandığı her il için o ilde faaliyet gösterebilecek yapı denetim kuruluşu sayısı hesap edilir. Bu sayı, o ilde hesap tarihi itibarıyla toplam denetlenen inşaat alanının kuruluş yetki sınırı olan 360.000 m2’ye bölünmesi ve elde edilen sonucun % 10’u oranında artırılmasıyla bulunur. Küsuratlar, bir üst tam sayıya tamamlanır. Bir ilde faaliyet gösterebilecek yapı denetim kuruluşu sayısı beşten az olamaz.\n (4) (Değişik:RG-14/4/2012-28264) Bir il için belirlenen yapı denetim kuruluşu sayısı o ilde faaliyet gösteren kuruluş sayısından fazla ise izin belgesi için yapılan başvurular, Merkez Yapı Denetim Komisyonunca değerlendirmeye alınır. Aksi hâlde, başvurular her il için sıraya konulmak suretiyle üçüncü fıkraya göre belirlenen kuruluş sayısının uygun olmasına kadar bekletilir. Belirtilen durumlar dışında, o il dâhilinde yeni yapı denetim kuruluşuna izin belgesi verilmez.\n (5) Yapı denetim kuruluşunun faaliyet göstereceği ilde en az 100 m2 alana sahip tam donanımlı bir ofisinin bulunması zorunludur. Merkez ofiste en az beş adet bilgisayar, iki adet yazıcı, bir adet fotokopi makinesi ve denetim hizmetinde kullanılmak üzere kuruluş adına üç adet otomobil bulundurmak şarttır. (Mülga cümle:RG-29/12/2018-30640)(4) (…)\n (6) (Değişik:RG-5/2/2013-28550) Yapı denetim kuruluşunca izin belgesi başvurusunda bulunulmasını müteakiben, görevlendirilecek bir heyet tarafından kuruluşun faaliyet göstereceği ofisin asgari şartları haiz olup olmadığına ilişkin rapor tanzim edilir. Bu rapor, izin belgesi verilmesi safhasında dikkate alınır. Rapor hazırlanırken, aynı ofiste yapı denetimi haricinde bir başka ticari faaliyetin yürütülmemesi, denetçiler için uygun çalışma ortamlarının, düzenli arşiv bölümünün ve proje incelemesine uygun ortamın mevcut olması hususları göz önünde bulundurulur. Bir bağımsız bölümde sadece bir yapı denetim kuruluşu faaliyet gösterebilir.\n (7) (Değişik:RG-8/7/2019-30825 Mükerrer) Kuruluşun durumu ile ilgili olarak yukarıda sayılan bilgi ve belgelerden herhangi birinde değişiklik olması hâlinde, kuruluş değişiklikleri en geç on beş gün içinde Merkez Yapı Denetim Komisyonuna bildirir.\n (8) (Ek:RG-29/12/2018-30640)(4) (Değişik:RG-21/3/2020-31075) Denetim izin belgesi geçici olarak geri alınan kuruluş, belgesinin geri alındığı tarihten itibaren 180 takvim günü içerisinde eksikliklerini tamamlayarak yapı denetim izin belgesini talep etmezse Bakanlıkça o il için belge almak üzere başvuruda bulunan kuruluşlara dair yapılan sıralamanın sonuna yerleştirilmeksizin kuruluşun yapı denetim izin belgesi iptal edilir.",
+      "preview": "(1) (Değişik:RG-8/7/2019-30825 Mükerrer) Yapı denetim kuruluşuna izin belgesi alabilmek için aşağıdaki şartlar sağlanır: a) Kuruluşun ödenmi…",
+      "kitap": null,
+      "kisim": null,
+      "bolum": "İKİNCİ BÖLÜM · Görev ve Sorumluluklar",
+      "ayirim": null,
+      "maddeBaslik": "Yapı denetim kuruluşuna izin belgesi verilmesi",
+      "sectionPath": [
+        "İKİNCİ BÖLÜM · Görev ve Sorumluluklar",
+        "Yapı denetim kuruluşuna izin belgesi verilmesi"
+      ]
+    },
+    {
+      "id": "yonetmelik:11951:m:13",
+      "maddeKind": "madde",
+      "maddeNo": "13",
+      "heading": "Madde 13",
+      "text": "(Mülga:RG-11/12/2020-31331)\n Yapı denetim kuruluşunda görev alacak teknik personelin deneyim ve nitelikleri (Değişik başlık:RG-11/12/2020-31331)",
+      "preview": "(Mülga:RG-11/12/2020-31331) Yapı denetim kuruluşunda görev alacak teknik personelin deneyim ve nitelikleri (Değişik başlık:RG-11/12/2020-313…",
+      "kitap": null,
+      "kisim": null,
+      "bolum": "İKİNCİ BÖLÜM · Görev ve Sorumluluklar",
+      "ayirim": null,
+      "maddeBaslik": "Laboratuvarın çalışma usul ve esasları",
+      "sectionPath": [
+        "İKİNCİ BÖLÜM · Görev ve Sorumluluklar",
+        "Laboratuvarın çalışma usul ve esasları"
+      ]
+    },
+    {
+      "id": "yonetmelik:11951:m:14",
+      "maddeKind": "madde",
+      "maddeNo": "14",
+      "heading": "Madde 14",
+      "text": "(1) Yapı denetimi kuruluşu, denetimini üstlendiği proje ve yapım işlerinde, Kanun ve bu Yönetmelik hükümleri ile belirlenmiş görevlerini denetçi mimar ve denetçi mühendisler eliyle yürütür. Denetçi mimar ve denetçi mühendis olarak görev yapabilmek için, ilgililerin (Değişik ibare:RG-5/2/2013-28550) Merkez Yapı Denetim Komisyonuna başvurarak, (Değişik ibare:RG-12/6/2025-32924) Bakanlıkça belirlenecek formata uygun denetçi belgesi almaları zorunludur.\n (2) Denetçi belgesi,\n a) Proje inceleyecek ve inşaat denetimi yapacak olan mimar için \"proje ve uygulama denetçisi\",\n b) Proje inceleyecek ve inşaat denetimi yapacak olan inşaat mühendisi için \"proje ve uygulama denetçisi\",\n c) İnşaat denetimi yapacak inşaat mühendisi için \"uygulama denetçisi\",\n ç) Proje inceleyecek ve inşaat denetimi yapacak olan makine ve elektrik mühendisleri için \"proje ve uygulama denetçisi\",\n d) (Mülga:RG-11/12/2020-31331)\n (3) (Değişik:RG-8/7/2019-30825 Mükerrer) Denetçi belgesi aşağıdaki şartları taşıyan mimar ve mühendislere verilir:\n a) Türkiye Cumhuriyeti tâbiiyetinde olması.\n b) (Değişik:RG-23/12/2022-32052) Denetçi adaylarından; şantiye mahallinde yapının denetim görevini yapacak mimar ve mühendisler 75 yaşını doldurmamış olmalı ve şantiyelerde iş görebileceklerine ilişkin olarak, görevini devamlı olarak yapmaya engel bir durumu olmadığı ilgili sağlık kurum veya kuruluşunca belirlenmeli, diğer mimar ve mühendislerin ise yalnızca görevini devamlı olarak yapmaya engel bir durumu olmadığı ilgili sağlık kurum veya kuruluşunca belirlenmeli.\n c) Mimar veya ilgili mühendis olması.\n ç) İlgili meslek odasına kayıtlı olması.\n d) T.C. kimlik numarasına sahip olması.\n e) Devletin güvenliğine karşı suçlar, Anayasal düzene ve bu düzenin işleyişine karşı suçlar, zimmet, irtikâp, rüşvet, hırsızlık, dolandırıcılık, sahtecilik, güveni kötüye kullanma, hileli iflas, ihaleye fesat karıştırma, edimin ifasına fesat karıştırma, suçtan kaynaklanan malvarlığı değerlerini aklama veya kaçakçılık suçlarından adli sicil kaydının bulunmaması.\n f) Mesleğinde fiilen en az beş yıl çalıştığına ilişkin olarak ilgili kurum ve kuruluşlardan alınacak belgeler.\n g) (Mülga:RG-11/12/2020-31331)\n ğ) Proje ve uygulama denetçisi inşaat mühendisleri için beş yıllık fiili meslek süresinin en az üç yılında proje hazırlanması ya da incelenmesi konularında fiilen görev yaptığına dair ilgili kurum ve kuruluşlardan alınacak belgeler.\n (4) (Değişik:RG-8/7/2019-30825 Mükerrer) Başvuru tarihi itibariyle bir kamu kuruluşunda çalışmakta olan mimar ve mühendislerin sahip oldukları mesleki deneyimleri, çalıştıkları mesleki ihtisas alanları ve çalışma süreleri belirtilecek şekilde görev yaptıkları kurumlardan alınacak belgeler ile belgelendirilir.\n (5) (Değişik:RG-8/7/2019-30825 Mükerrer) Serbest olarak veya özel sektörde çalışan mühendis ve mimarların, mesleki deneyimleri ve çalışma süreleri, çalıştıkları özel kuruluşlardan alınan ve çalışma alanı ile ilgili kamu kurum ve kuruluşları veya kamu kurumu niteliğindeki meslek kuruluşlarınca onaylanan belge ile belgelendirilir. Ayrıca, özel kuruluşlarda yapılan çalışmalar ilgili sosyal güvenlik kurumundan teyit edilir.\n (6)(Değişik:RG-22/8/2015-29453) Verilen ya da yenilenen denetçi belgeleri beş yıl için geçerlidir. Bu sürenin sonunda vize edilmeyen denetçi belgesinin kullanımına izin verilmez.\n (7) (Mülga:RG-5/2/2013-28550)\n (8) (Ek:RG-23/12/2022-32052) Denetçi adaylarından üçüncü fıkranın (f) ve (ğ) bentleri ile dördüncü ve beşinci fıkralara istinaden istenilen belgelerden ilgililerin yurt dışı çalışmalarına ilişkin olanları Bakanlıkça belirlenen esaslara göre sunulur.\n (9) (Ek:RG-23/12/2022-32052) 75 yaşını dolduran veya yalnızca görevini devamlı yapmaya engel durumu olmadığını ilgili sağlık kurum ve kuruluşunca belgelendiren mimar ve mühendisler için bu maddedeki diğer şartları sağlamaları koşuluyla talepleri halinde Bakanlıkça proje ve uygulama denetçisi belgesi düzenlenir. Ancak bu kişilerin şantiye mahallinde yapının denetimi görevini yürütmesine izin verilmez.\n (10) (Ek:RG-23/12/2022-32052) Sağlık durumundaki değişiklik nedeniyle denetim görevi kapsamında düzenleme yapılmasını isteyen proje ve uygulama denetçisi belgesine sahip kişiler, sağlık durumuna ilişkin değişiklikleri öncelikle Bakanlığa bildirir ve bu değişiklikler Bakanlıkça yapılır.",
+      "preview": "(1) Yapı denetimi kuruluşu, denetimini üstlendiği proje ve yapım işlerinde, Kanun ve bu Yönetmelik hükümleri ile belirlenmiş görevlerini den…",
+      "kitap": null,
+      "kisim": null,
+      "bolum": "İKİNCİ BÖLÜM · Görev ve Sorumluluklar",
+      "ayirim": null,
+      "maddeBaslik": "Laboratuvarın çalışma usul ve esasları",
+      "sectionPath": [
+        "İKİNCİ BÖLÜM · Görev ve Sorumluluklar",
+        "Laboratuvarın çalışma usul ve esasları"
+      ]
+    },
+    {
+      "id": "yonetmelik:11951:m:15",
+      "maddeKind": "madde",
+      "maddeNo": "15",
+      "heading": "Madde 15",
+      "text": "(1) Yapı denetim kuruluşunda görev alacak denetçi personelin unvanlarına göre denetim yetkisi sınırları ve görevleri aşağıda gösterilmiştir:\n a) Proje ve uygulama denetçisi mimar, mimari projenin ilgili mevzuata uygunluğunun ve yapının her safhasında bu projelere uygun yapılıp yapılmadığının denetimini yapar. Denetim yetkisi sınırı 360.000 m2 toplam inşaat alanıdır.\n b) Proje ve uygulama denetçisi inşaat mühendisi, zemin etüdü raporuyla birlikte yapı statiği, betonarme-çelik-ahşap-yığma yapı hesabı, projelerin ve yapının denetimi ile görevlidir. Denetim yetkisi sınırı 360.000 m2 toplam inşaat alanıdır.\n c) Uygulama denetçisi inşaat mühendisi, yapı denetimini yapar. Denetim yetkisi sınırı 120.000 m2’dir.\n ç) (Değişik:RG-5/2/2013-28550) Proje ve uygulama denetçisi makine mühendisi, proje ve yapı denetimini yapar. Denetim yetkisi sınırı 180.000 m2’dir.\n d ) (Değişik:RG-5/2/2013-28550) Proje ve uygulama denetçisi elektrik mühendisi, proje ve yapı denetimini yapar. Denetim yetkisi sınırı 180.000 m2’dir.\n (2) (Değişik:RG-23/12/2022-32052) Yapı denetim kuruluşunda görev alan yukarıda yetki sınırları verilmiş proje ve uygulama denetçisi inşaat mühendislerinden 75 yaşını doldurmayan ve şantiyelerde iş görebileceklerine ilişkin olarak, görevini devamlı olarak yapmaya engel bir durumu olmadığı ilgili sağlık kurum veya kuruluşunca belirlenenler denetimi üstlenilen yapıda aynı zamanda uygulama denetçisi olarak görevlendirilebilir.\n (3) (Mülga:RG-29/12/2018-30640)(4)\n (4) (Değişik:RG-29/12/2018-30640)(4) Yardımcı kontrol elemanı: Yapı denetim kuruluşunda (Değişik ibare:RG-23/12/2022-32052) 75 yaşını doldurmamak ve şantiyelerde iş görebileceklerine ilişkin olarak, görevini devamlı olarak yapmaya engel bir durumu olmadığı ilgili sağlık kurum veya kuruluşunca belirlenmek şartıyla görev alan yardımcı kontrol elemanı, denetçi mimar ve denetçi mühendisin sevk ve idaresi altında görev yapar. Görevlendirildikleri yapılarda denetçi mimar ve mühendislerin vereceği görevi yerine getirir ve sorumluluğu altında bulunan işlerden dolayı denetçi mimar ve mühendisler ile birlikte müteselsilen sorumludur. Teknik öğretmen, yüksek tekniker, tekniker ve teknisyenler her yıl Bakanlık tarafından yayımlanan Mimarlık ve Mühendislik Hizmet Bedellerinin Hesabında Kullanılacak Yapı Yaklaşık Birim Maliyetleri Hakkında Tebliğe göre III. Sınıf B Grubuna (dâhil) kadar olan ve inşaat alanı 13.500 m2’yi geçmeyen bir yapının denetimi üstlenildiğinde, yapı denetim kuruluşunda yardımcı kontrol elemanı olarak görevlendirilebilir. Denetim yetkisi sınırları, inşaat alanı itibarı ile aşağıdaki tabloda belirtilmiştir:\n\n İnşaat mühendisi ve mimar\n 30.000 m²\n\n Makine mühendisi\n 60.000 m²\n\n Elektrik mühendisi\n 120.000 m²\n\n Teknik Öğretmen (İnşaat, Makine, Elektrik)\n 13.500 m2\n\n Tekniker (İnşaat, Makine, Elektrik, Yapı Denetimi)\n 8.500 m2\n\n Teknisyen (İnşaat, Makine, Elektrik)\n 3.500 m2\n\n (5) (Ek:RG-22/8/2015-29453) Aynı alanda ve aynı proje dahilinde olmak üzere denetçi mimarlar ve mühendisler ile (Değişik ibare:RG-29/12/2018-30640)(4) yardımcı kontrol elemanı mimar ve mühendisler üzerlerinde başka bir iş olmamak koşuluyla denetleme yetkisine sahip oldukları inşaat alanı sınırını aşabilir ancak kendileri için belirlenen yetki sınırının altına düşene kadar başkaca bir yapının denetim işini üstlenemezler.\n (6) (Ek:RG-23/12/2022-32052) 75 yaşını dolduran veya şantiyelerde iş görebileceklerine ilişkin olarak, görevini devamlı olarak yapmaya engel bir durumu olmadığını sağlık kurum veya kuruluşunca belgelendiremeyen denetçi mimar ve mühendisler yapı denetim kuruluşu adına şantiye mahallinde yapının denetimi görevini yürütemezler.\n (7) (Ek:RG-23/12/2022-32052) Birden fazla meslek disiplinine ilişkin diploması olan kişiler, yapı denetim kuruluşu bünyesinde aynı anda yalnızca bir diplomasına ilişkin olarak denetçi veya yardımcı kontrol elemanı olarak görev yürütebilir.\n (8) (Ek:RG-23/12/2022-32052) Yapı denetim kuruluşunca denetim sorumluluğu üstlenilen bir yapıda görevlendirilen bütün proje ve uygulama denetçileri ilgi alanlarında kalan projelerin ve bunlara altlık teşkil eden raporların denetiminden sorumludur.",
+      "preview": "(1) Yapı denetim kuruluşunda görev alacak denetçi personelin unvanlarına göre denetim yetkisi sınırları ve görevleri aşağıda gösterilmiştir:…",
+      "kitap": null,
+      "kisim": null,
+      "bolum": "İKİNCİ BÖLÜM · Görev ve Sorumluluklar",
+      "ayirim": null,
+      "maddeBaslik": "Teknik personelin denetim yetkisi",
+      "sectionPath": [
+        "İKİNCİ BÖLÜM · Görev ve Sorumluluklar",
+        "Teknik personelin denetim yetkisi"
+      ]
+    },
+    {
+      "id": "yonetmelik:11951:m:16",
+      "maddeKind": "madde",
+      "maddeNo": "16",
+      "heading": "Madde 16",
+      "text": "(1) (Değişik:RG-23/12/2022-32052)(6) Yapı denetim kuruluşu;\n a) Bir proje ve uygulama denetçisi mimarı (Şantiye mahallinde de yapının denetimini yürütebilecek),\n b) Bir proje ve uygulama denetçisi inşaat mühendisi,\n c) Bir uygulama denetçisi inşaat mühendisi (Şantiye mahallinde de yapının denetimini yürütebilecek),\n ç) Bir proje ve uygulama denetçisi makine mühendisi (Şantiye mahallinde de yapının denetimini yürütebilecek),\n d) Bir proje ve uygulama denetçisi elektrik mühendisi (Şantiye mahallinde de yapının denetimini yürütebilecek),\n faaliyetine devam ettiği sürece çekirdek personel olarak istihdam etmek zorundadır. Aksi takdirde, eleman eksikliği giderilip uygun denetim elemanları istihdam edilinceye kadar, yapı denetim kuruluşunun denetim sorumluluğu altında bulunan mevcut yapılara ilişkin bilgi formları üzerinde işlem yapması engellenir ve uhdesindeki denetim işlerinin devamına ve yeni denetim işi üstlenmesine izin verilmez. Eleman eksikliği 90 takvim günü içerisinde giderilmediği takdirde, asgari sayıda çekirdek personeli istihdam edinceye kadar kuruluşun izin belgesi Resmî Gazete ilan tarihi itibarıyla geçici olarak geri alınır.\n (2) (Değişik:RG-23/12/2022-32052) Yapı denetim kuruluşunda görev alacak, denetçi mimar ve denetçi mühendislerin, adli sicil kaydı bulunmamalı, şantiyelerde iş görebileceklerine ilişkin olarak, görevini devamlı olarak yapmaya engel bir durumu olmadığı ilgili sağlık kurum veya kuruluşunca belirlenmeli (şantiye mahallinde yapının denetim görevini üstlenmeyecek proje ve uygulama denetçilerinin yalnızca görevini devamlı olarak yapmaya engel bir durumu olmadığı ilgili sağlık kurum veya kuruluşunca belirlenmeli), noterlikçe tasdikli imza beyanı olmalı ve T.C. kimlik numarası İl Yapı Denetim Komisyonuna sunulmalıdır. Yapı denetim kuruluşunda görev alacak yardımcı kontrol elemanlarının ise mimar veya ilgili mühendis veya ilgili teknik öğretmen veya ilgili yüksek tekniker veya ilgili tekniker veya ilgili teknisyen olması, mimar ve mühendis olanların ilgili meslek odasına kayıtlı olması, şantiyelerde iş görebileceklerine ilişkin olarak, görevini devamlı olarak yapmaya engel bir durumu olmadığı ilgili sağlık kurum veya kuruluşunca belirlenmeli, adli sicil kaydı bulunmamalı, 75 yaşını doldurmamış olmalı ve T.C. kimlik numarası İl Yapı Denetim Komisyonuna sunulmalıdır. Yapı denetim kuruluşu ile istihdam edilecek denetçi veya yardımcı kontrol elemanı arasında, çalışma saatleri, ücret, görev ve sorumlulukları içeren bir sözleşme akdedilerek İl Yapı Denetim Komisyonuna sunulmalıdır. 15 inci maddenin altıncı fıkrası kapsamında kalan proje ve uygulama denetçileri ile yapı denetim kuruluşları arasında yapılan sözleşmelerde bu kişilere yapı denetim kuruluşu adına şantiye mahallinde yapının denetim görevini yürütmeye ilişkin bir görev ve sorumluluk verilemez.\n (3) (Değişik:RG-29/12/2018-30640)(4) Denetçi mimarlar, denetçi mühendisler ve yardımcı kontrol elemanları 17 nci maddede yer alan istisnalar hariç sadece yerleşim adreslerinin bulunduğu ilin sınırları içerisinde görev yapabilirler. Yapı denetim kuruluşu; denetçi mimarlar, denetçi mühendisler ve yardımcı kontrol elemanlarının denetleme yetkisine sahip oldukları yapı inşaat alanı aşıldığı takdirde, ilave denetçi mimar, denetçi mühendis ve yardımcı kontrol elemanı görevlendirmek ve bununla ilgili belgeleri İl Yapı Denetim Komisyonuna vermek zorundadır.\n (4) Denetçi mimar ve denetçi mühendislerin sorumlulukları altındaki işlerden bilgi sahibi olmaları konusunda, yapı denetim kuruluşu gereken tedbirleri alır. Bu maksatla aylık bilgilendirme çizelgeleri hazırlanarak ilgili personele imza karşılığında tebliğ edilir.\n (5) (Değişik:RG-29/12/2018-30640)(4) Denetçi mimar ve denetçi mühendisler, sorumlulukları altında bulunan işler için aynı işte görevli olan yardımcı kontrol elemanlarını uygun şekilde görevlendirmek ve sevk ve idare etmekle yükümlüdür. Denetçi mimar ve denetçi mühendisler, sevk ve idaresi altında bulunan yardımcı kontrol elemanlarına sorumlulukları altındaki işler ile ilgili düzenli olarak aylık raporlar hazırlatarak yapı denetim kuruluşuna sunarlar.\n (6) (Değişik:RG-23/12/2022-32052) Vefat, hastalık, izin, 75 yaşını doldurmuş olma, istifa ve benzeri nedenlerle denetçi mimar, denetçi mühendis ve yardımcı kontrol elemanlarından birinin yapı ile ilişkisinin kesilmesi hâlinde, yapı denetim kuruluşunca yapının ilişik kesme anındaki durumunu belirleyen ek-20’de gösterilen form-18’e uygun seviye tespit tutanağı tanzim edilir; ayrılan denetçi mimar, denetçi mühendis ve yardımcı kontrol elemanının yerine görev yapacak, kuruluş bünyesinde bulunan aynı statüdeki personel altı işgünü içinde geçici olarak görevlendirilir. Seviye tespit tutanağı geçici personel görevlendirmeye ilişkin dilekçe ekinde ilgili idaresine gönderilir. Bu tarihten itibaren yeni görevlendirme yapılıncaya kadar geçen süre içinde yapı ile ilgili her türlü sorumluluk geçici olarak görevlendirilen personele aittir. Yapı denetim kuruluşunca ilgili personelin görevinden ayrılmasını takip eden otuz gün içinde görevlendirilen aynı statüdeki yeni personel için yapının göreve başlama anındaki durumunu gösteren ek-20’de gösterilen form-18’e uygun seviye tespit tutanağı düzenlenerek durum ilgili idareye ve görev yaptıkları ilde bulunan İl Yapı Denetim Komisyonuna bildirilir. Yapı denetim kuruluşlarınca yapılan görevlendirmelerde 15 inci maddede belirtilen esaslara uygun hareket edilir.\n (7) (Değişik:RG-29/12/2018-30640)(4) Personelin görevinden ayrılmasını takip eden (Değişik ibare:RG-30/5/2019-30789) otuz gün içinde yeni denetçi mimar, denetçi mühendis, yardımcı kontrol elemanı görevlendirilmediği takdirde, ilgili idarece yapı tatil tutanağı tanzim edilerek yapının devamına izin verilmez. Eksiklik giderilinceye kadar, bu durumdaki yapı denetim kuruluşunun, yeni iş almasına ve eleman eksiği olan işler için hakediş yapmasına izin verilmez.\n (8) (Değişik:RG-29/12/2018-30640)(4) Yapı denetim kuruluşundan ayrılmak isteyen denetçi mimar, denetçi mühendis ve yardımcı kontrol elemanları, bu isteklerini noterlikçe keşide edilecek bir istifaname ile yapı denetim kuruluşuna ve İl Yapı Denetim Komisyonuna bildirirler. Bu durumlarda bildirimle ilgili kanuni süreler, istifanamenin tebliğ tarihinden itibaren başlar.\n (9) (Değişik:RG-29/12/2018-30640)(4) Yapı denetim kuruluşunda çalışan yardımcı kontrol elemanları, bu görevi sürdürdükleri süre içinde, başkaca mesleki ve inşaat işleriyle ilgili ticari faaliyette bulunamazlar. Denetçi mimar ve denetçi mühendisler için Kanunda öngörülen hüküm ve yükümlülükler, yardımcı kontrol elemanları için de geçerlidir.\n (10) (Değişik:RG-29/12/2018-30640)(4) Yapı denetim kuruluşunun ortağı olan mühendis ve mimarlar, kuruluşta görevli denetçi mimar ve denetçi mühendisler ile yardımcı kontrol elemanlarının görevlerini Kanun ve bu Yönetmelik çerçevesinde yerine getirmeleri için gereken her türlü tedbiri alır. Denetim hizmetini yürüten personelin etkin biçimde görev yapmalarını sağlayacak tedbirlerin alınmaması durumunda, ortaya çıkan kusurlardan kuruluşun ortakları ve yöneticileri, ilgili denetim personeli ile birlikte müteselsilen sorumludurlar.\n (11) Yapı denetim kuruluşunda çalışan her türlü personelin sigorta primleri ilgili mevzuatta öngörülen şekilde eksiksiz olarak yatırılır.",
+      "preview": "(1) (Değişik:RG-23/12/2022-32052)(6) Yapı denetim kuruluşu; a) Bir proje ve uygulama denetçisi mimarı (Şantiye mahallinde de yapının denetim…",
+      "kitap": null,
+      "kisim": null,
+      "bolum": "İKİNCİ BÖLÜM · Görev ve Sorumluluklar",
+      "ayirim": null,
+      "maddeBaslik": "Teknik personelin yapı denetim kuruluşunda istihdam esasları",
+      "sectionPath": [
+        "İKİNCİ BÖLÜM · Görev ve Sorumluluklar",
+        "Teknik personelin yapı denetim kuruluşunda istihdam esasları"
+      ]
+    },
+    {
+      "id": "yonetmelik:11951:m:17",
+      "maddeKind": "madde",
+      "maddeNo": "17",
+      "heading": "Madde 17",
+      "text": "(Başlığı ile Birlikte Değişik:RG-29/12/2018-30640)(4) (Değişik:RG-12/6/2025-32924)\n (1) Bakanlıkça belirlenen yapı denetim kuruluşları, elektronik ortamda görevlendirilebilecek yapı denetim kuruluşu bulunmayan diğer illerde faaliyet gösterebilir. Yapı denetim kuruluşunun faaliyet gösterdiği il dışında herhangi bir ilde görev alabilmesi için o ilde görev alacak denetim elemanlarından uygulamayı denetleyen denetçi inşaat mühendisinin ve yardımcı kontrol elemanı, inşaat mühendisi veya mimarının veya ilgili teknik öğretmenin veya ilgili teknikerinin veya ilgili teknisyenin yerleşim yeri adresi denetim faaliyeti yürüttüğü il olmalıdır.\n (2) O ili merkez olarak seçmiş elektronik ortamda görevlendirilebilecek yapı denetim kuruluşu faaliyet gösterene kadar diğer ilden gelen yapı denetim kuruluşunun faaliyetine izin verilir.\n (3) O ili merkez olarak seçmiş olan elektronik ortamda görevlendirilebilecek bir yapı denetim kuruluşunun faaliyete geçmesi hâlinde, diğer ilden görevlendirilen yapı denetim kuruluşlarının, bu ilde yeni iş üstlenmesine izin verilmez ancak sözleşmesi devam eden işlerinin denetimine sorumluluğundan düşene kadar devam etmelerine izin verilir.\n (4) Denetim sorumluluğunu üstlendiği yapı nedeniyle yapı denetim kuruluşunun, Kanunun 8 inci maddesinin birinci veya yirmi yedinci fıkrası uyarınca yeni iş almaktan men cezası alması ve bu yapının bulunduğu ilde yapının denetim sorumluluğunu üstlenecek o kuruluştan başka bir yapı denetim kuruluşunun bulunmaması halinde, talep durumunda yapı için diğer ilden elektronik ortamda görevlendirmeye ilişkin mevzuat çerçevesinde yapı denetim kuruluşu Bakanlıkça görevlendirilerek, birinci fıkrada belirtilen şartlara tabi olmaksızın söz konusu yapının denetim görevini yürütür.\n (5) Yapı denetimi hizmet sözleşmesi bedeline esas inşaat alanı 500 metrekareye kadar olan işler için de yapı sahipleri Bakanlıkça bu madde doğrultusunda elektronik ortamdaki görevlendirmeye tabi işler için diğer ilde faaliyet göstermesine izin verilen yapı denetim kuruluşları ile yapı denetimi hizmet sözleşmesi imzalayabilir.",
+      "preview": "(Başlığı ile Birlikte Değişik:RG-29/12/2018-30640)(4) (Değişik:RG-12/6/2025-32924) (1) Bakanlıkça belirlenen yapı denetim kuruluşları, elekt…",
+      "kitap": null,
+      "kisim": null,
+      "bolum": "İKİNCİ BÖLÜM · Görev ve Sorumluluklar",
+      "ayirim": null,
+      "maddeBaslik": "Yapı denetim kuruluşunun diğer illerde faaliyet göstermesi ve bu illerde görevlendirilecek personel",
+      "sectionPath": [
+        "İKİNCİ BÖLÜM · Görev ve Sorumluluklar",
+        "Yapı denetim kuruluşunun diğer illerde faaliyet göstermesi ve bu illerde görevlendirilecek personel"
+      ]
+    },
+    {
+      "id": "yonetmelik:11951:m:18",
+      "maddeKind": "madde",
+      "maddeNo": "18",
+      "heading": "Madde 18",
+      "text": "(Başlığı ile birlikte değişik:RG-5/2/2013-28550)\n (1) Merkez Yapı Denetim Komisyonu, konu ile ilgili Bakanlık personeli arasından biri başkan olmak üzere Bakanlıkça görevlendirilecek toplam yedi üyeden oluşur. Üyeler tespit edilirken ayrıca birer yedek üye de belirlenir. Komisyon, Bakanlıkça uygun görülen birimin bünyesinde faaliyetlerini yürütür. Bakanlık, gerek görülen konular hakkında çalışmada bulunmak üzere ilgili kamu kurum ve kuruluşları ile meslek ve sivil toplum kuruluşlarının temsilcilerini oy hakları olmaksızın Komisyonda görevlendirebilir.\n (2) İl Yapı Denetim Komisyonu, her ilde (Değişik ibare:RG-23/12/2022-32052) Çevre, Şehircilik ve İklim Değişikliği İl Müdürlüğünün teklifi üzerine, Merkez Yapı Denetim Komisyonunca görevlendirilecek, il müdür yardımcısının başkanlığında, en az şube müdürü seviyesinde bir üye ile mimar veya mühendis unvanlı teknik personelden üç üye olmak üzere toplam beş üyeden teşkil edilir. Üyeler tespit edilirken ayrıca birer yedek üye de belirlenir. İl Yapı Denetim Komisyonunun sekretaryası il müdürlüğünce uygun görülen birim tarafından yürütülür. İl Yapı Denetim Komisyonu, gerek görülen konular hakkında çalışmada bulunmak üzere ilgili kamu kurum ve kuruluşları ile meslek ve sivil toplum kuruluşlarının temsilcilerini oy hakları olmaksızın Komisyon toplantılarına davet edebilir.",
+      "preview": "(Başlığı ile birlikte değişik:RG-5/2/2013-28550) (1) Merkez Yapı Denetim Komisyonu, konu ile ilgili Bakanlık personeli arasından biri başkan…",
+      "kitap": null,
+      "kisim": null,
+      "bolum": "DÖRDÜNCÜ BÖLÜM · Yapı Denetim Komisyonunun Çalışma Usul ve Esasları",
+      "ayirim": null,
+      "maddeBaslik": "Merkez ve İl Yapı Denetim Komisyonları",
+      "sectionPath": [
+        "DÖRDÜNCÜ BÖLÜM · Yapı Denetim Komisyonunun Çalışma Usul ve Esasları",
+        "Merkez ve İl Yapı Denetim Komisyonları"
+      ]
+    },
+    {
+      "id": "yonetmelik:11951:m:19",
+      "maddeKind": "madde",
+      "maddeNo": "19",
+      "heading": "Madde 19",
+      "text": "(Başlığı ile birlikte değişik:RG-5/2/2013-28550)\n (1) Merkez Yapı Denetim Komisyonu;\n a) Başkanın yazılı veya sözlü daveti üzerine üye tam sayısının salt çoğunluğu ile toplanır. Kararlar çoğunlukla alınır. Çekimser oy kullanılamaz. Oyların eşitliği halinde, başkanın bulunduğu taraf çoğunlukta sayılır.\n b) (Değişik:RG-23/6/2021-31520) Yapı denetim kuruluşları ve laboratuvarları donanım ve teknik altyapı açısından inceletmek ve değerlendirmek, yapı denetim kuruluşlarının ve laboratuvarların faaliyetlerinin denetlenmesini sağlamak, denetçi belgeleri ile yapı denetim kuruluşlarına ve laboratuvarlara izin belgesi düzenlemek ve bu belgeleri iptal etmek için karar almak ile görevlidir.\n c) İhtilaflı konuların, şikâyetlerin ve yapı denetim kuruluşlarının ve laboratuvarların faaliyetlerinin mahallinde incelenmesini ister.\n ç) Yapı denetim kuruluşlarının ve laboratuvarların denetçi mimar ve mühendisleri ile (Mülga ibare:RG-29/12/2018-30640)(4) (…) yardımcı kontrol elemanlarının meslek içi eğitim faaliyetlerine ilişkin karar alabilir. Bu eğitimler için, kamu veya özel sektör kuruluşları ile işbirliği yapılabilir.\n (2) Merkez Yapı Denetim Komisyonunun yapı denetim izin belgesi, laboratuvar izin belgesi ve denetçi belgesi verilmesi ile ilgili iş ve işlemlerinin sekretarya hizmetleri, Bakanlıkça uygun görülen birim tarafından yürütülür.\n (3) İl Yapı Denetim Komisyonları;\n a) İl Yapı Denetim Komisyonu başkanın yazılı veya sözlü daveti üzerine üye tam sayısının salt çoğunluğu ile toplanır. Kararları çoğunlukla alınır. Çekimser oy kullanılamaz. Oyların eşitliği halinde, başkanın bulunduğu taraf çoğunlukta sayılır.\n b) (Değişik:RG-29/12/2018-30640)(4) İl Yapı Denetim Komisyonu, (Değişik ibare:RG-23/6/2021-31520) yapı denetim kuruluşları ve laboratuvarların donanım ve teknik alt yapı açısından yeterliliğini ve bunların faaliyetlerini denetlemek ve denetçi ile yardımcı kontrol elemanlarının adres değişikliği işlemlerini gerçekleştirmek ile görevlidir.\n c) İl Yapı Denetim Komisyonu, ihtilaflı konuları, şikayetleri ve yapı denetim kuruluşlarının ve laboratuvarların faaliyetlerini mahallinde inceler; bunun için gerektiğinde eleman veya elemanlar görevlendirebilir.\n ç) İl Yapı Denetim Komisyonu üç ayda bir çalışma faaliyetleri ile ilgili istatistik bilgilerini Merkez Yapı Denetim Komisyonuna gönderir.\n d) (Değişik:RG-22/8/2015-29453) Yapı denetim kuruluşlarının, (Değişik ibare:RG-29/12/2018-30640)(4) denetçilerinin ve yardımcı kontrol elemanlarının Yapı Denetimi Hakkında Kanun ve ilgili mevzuata aykırı uygulamalarına ilişkin olarak inşaatın bulunduğu ilin çalışma birimlerince hazırlanan raporlar, aynı ilin komisyonunca değerlendirilerek karara bağlanır. (Değişik ibare:RG-23/12/2022-32052) Kanunun 8 inci maddesinin birinci fıkrası uyarınca yeni iş almaktan men cezasının uygulanmasının gerektiğine karar verilmesi halinde Bakanlığa teklifte bulunulur.\n e) Denetçi belgeleri ile yapı denetim kuruluşu ve laboratuvar izin belgelerinin vize işlemlerini gerçekleştirmek ile görevlidir.\n (4) Merkez veya İl Yapı Denetim Komisyonu üyeliği yapanlar, bu üyelik sona erdikten sonraki iki yıl içinde, herhangi bir yapı denetim veya laboratuvar kuruluşunun ortağı olamaz.",
+      "preview": "(Başlığı ile birlikte değişik:RG-5/2/2013-28550) (1) Merkez Yapı Denetim Komisyonu; a) Başkanın yazılı veya sözlü daveti üzerine üye tam say…",
+      "kitap": null,
+      "kisim": null,
+      "bolum": "DÖRDÜNCÜ BÖLÜM · Yapı Denetim Komisyonunun Çalışma Usul ve Esasları",
+      "ayirim": null,
+      "maddeBaslik": "Merkez ve İl Yapı Denetim Komisyonlarının çalışma usul ve esasları",
+      "sectionPath": [
+        "DÖRDÜNCÜ BÖLÜM · Yapı Denetim Komisyonunun Çalışma Usul ve Esasları",
+        "Merkez ve İl Yapı Denetim Komisyonlarının çalışma usul ve esasları"
+      ]
+    },
+    {
+      "id": "yonetmelik:11951:m:20",
+      "maddeKind": "madde",
+      "maddeNo": "20",
+      "heading": "Madde 20",
+      "text": "(Değişik:RG-23/12/2022-32052)\n (1) Kanunun uygulanmasına ilişkin olarak ortaya çıkabilecek ihtilaflar, tarafların yapı denetimi konusundaki her türlü müracaatları, öncelikle yapının bulunduğu yerdeki Çevre, Şehircilik ve İklim Değişikliği İl Müdürlüğü bünyesinde görev yapan personelden müteşekkil yapı denetimi çalışma birimi tarafından incelenerek sonuçlandırılır. İtiraz halinde konu, Çevre, Şehircilik ve İklim Değişikliği İl Müdürlüğünce İl Yapı Denetim Komisyonuna intikal ettirilir.\n (2) Çevre, Şehircilik ve İklim Değişikliği İl Müdürlüğü, bu görevlerin yürütülmesi için personelin eğitimi ve gerekli donanımın sağlanması da dâhil olmak üzere gereken her türlü tedbiri alır.\n (3) Çevre, Şehircilik ve İklim Değişikliği İl Müdürlükleri bünyesinde görev alan teknik elemanlardan teşkil edilen yapı denetimi çalışma birimlerinin görev ve yetkileri şunlardır:\n a) Yapı denetim kuruluşlarının ve laboratuvarların faaliyetlerini inceleyerek sonuçlarını İl Yapı Denetim Komisyonuna (Ek ibare:RG-12/6/2025-32924) , Kanunun 8 inci maddesinin birinci fıkrasının (h) bendinin (2) numaralı alt bendi ile onuncu fıkrasının (e) bendinin (2) numaralı alt bendine ilişkin yaptığı incelemelerin sonuçlarını Merkez Yapı Denetim Komisyonuna bildirmek.\n b) Yapı denetim kuruluşlarının ve laboratuvarların Kanun ve ilgili mevzuat hükümlerine uygun olarak görevlerini yürütmelerini temin etmek üzere inceleme, araştırma ve bilgilendirme faaliyetlerinde bulunmak.\n c) Yapı denetimi faaliyeti sebebiyle yapı denetim kuruluşu, yapı sahibi, denetçi mimar ve denetçi mühendis, yardımcı kontrol elemanları, yapı müteahhidi, şantiye şefi, laboratuvar sahibi ve sorumluları ile ilgili olarak ortaya çıkabilecek ihtilafların hâlline yardımcı olmak.\n ç) Merkez veya İl Yapı Denetim Komisyonunca Kanun, bu Yönetmelik ve ilgili diğer mevzuat çerçevesinde verilebilecek diğer görevleri yerine getirmek.\n BEŞİNCİ BÖLÜM\n Yapı Denetimi Hizmet Sözleşmesi ile İlgili Esaslar\n Yapı denetimi hizmet sözleşmesi ve fesih esasları (Değişik başlık:RG-29/12/2018-30640)(4)",
+      "preview": "(Değişik:RG-23/12/2022-32052) (1) Kanunun uygulanmasına ilişkin olarak ortaya çıkabilecek ihtilaflar, tarafların yapı denetimi konusundaki h…",
+      "kitap": null,
+      "kisim": null,
+      "bolum": "DÖRDÜNCÜ BÖLÜM · Yapı Denetim Komisyonunun Çalışma Usul ve Esasları",
+      "ayirim": null,
+      "maddeBaslik": "Yapı denetimi çalışma birimleri",
+      "sectionPath": [
+        "DÖRDÜNCÜ BÖLÜM · Yapı Denetim Komisyonunun Çalışma Usul ve Esasları",
+        "Yapı denetimi çalışma birimleri"
+      ]
+    },
+    {
+      "id": "yonetmelik:11951:m:21",
+      "maddeKind": "madde",
+      "maddeNo": "21",
+      "heading": "Madde 21",
+      "text": "(1) (Değişik:RG-29/12/2018-30640)(4) Kanun kapsamına giren yapıların sahipleri, yapının uygulama projeleri bitirildikten sonra (Değişik ibare:RG-12/6/2025-32924) yapı denetimi hizmet sözleşmesi bedeline esas inşaat alanı 500 m²’ye kadar olan yapılarda kendilerince belirlenen diğer yapılarda Bakanlıkça elektronik ortamda belirlenen bir yapı denetim kuruluşu ile ek-6’da gösterilen form-4’e uygun bir hizmet sözleşmesi akdederek, bir suretini ruhsat işlemlerini başlatmak üzere ek-5’de gösterilen form-3’e uygun taahhütname ekinde ilgili idareye sunar.\n (2) İlgili idareler, sözleşmelerde tarafların imzalarını aramak zorunda olup, imzaları tamam olmayan sözleşmelere göre ruhsat başvurusunda bulunulmasına müsaade etmez.\n (3) (Ek:RG-29/12/2018-30640)(4) Yapı denetimi hizmet sözleşmeleri ancak aşağıdaki hallerde feshedilebilir:\n a) Sözleşmenin taraflarının sözleşme hükümlerine uymaması.\n b) Yapının mülkiyetinin değişmesi.\n c) Yapı denetim hizmet sözleşmesi imzalandıktan sonra yapı sahibinin, en az iki ay süreyle yapı ruhsatı almaması ve bunu müteakip yapı ruhsatı almaktan vazgeçtiğini ilgili idaresine bildirmesi.\n ç) Yapı denetim kuruluşunun yazılı uyarısına rağmen yapı müteahhidinin ruhsat ve ekleri ile mevzuata aykırılığa devam etmesi.\n d) (Değişik:RG-12/6/2025-32924) Yapı denetimi hizmet sözleşmesi imzalandıktan sonra yapıya 3 ay süreyle başlanılmaması veya yapıya başlandıktan sonra inşasının herhangi bir nedenle en az 3 ay süreyle devam etmemesi.\n e) Yapı denetim kuruluşunun o yapı için istihdam etmesi gereken denetim personelini en az bir ay süreyle eksik tutması.\n f) Yapı ruhsatının iptal edilmesi.\n g) Yapı denetim kuruluşunun o yapı nedeniyle yeni iş almaktan men cezası alması.\n ğ) Yapı denetim kuruluşunun izin belgesinin vize süresi dolduktan sonraki 30 takvim günü içinde vizesini yaptırmaması.\n h) Yapı denetim kuruluşunun izin belgesinin Bakanlıkça geçici olarak geri alınması veya iptal edilmesi.\n ı) Bakanlıkça yapı denetim kuruluşunun o yapı için görevlendirilmesinin kaldırılması.\n i) (Ek:RG-12/6/2025-32924) Yapı denetim kuruluşunun kalıp ve donatı imalatlarını teslim alma, beton dökümüne nezaret etme gibi kendine mevzuat ile verilen denetim görevlerini keyfi olarak yerine getirmekten kaçınması.\n j) (Ek:RG-12/6/2025-32924) Elektronik dağıtım ile yapı denetim kuruluşu belirlenmeyen işlerde sözleşmenin taraflarının karşılıklı mutabakatıyla.\n k) (Ek:RG-12/6/2025-32924) Yapı denetimi hizmet sözleşmesi bedeline esas inşaat alanındaki değişimle yapının elektronik dağıtıma tabi tutulması gerektiğinin anlaşılması.\n (4) (Ek:RG-29/12/2018-30640)(4) 23 üncü maddede yer alan esaslar dahilinde düzenlenecek fesih ihbarnamelerinde fesih gerekçesine yer verilmesi zorunlu olup, bu maddenin üçüncü fıkrasının (Değişik ibare:RG-12/6/2025-32924) (a), (b), (c), (ç), (d), (e), (f), (i), (j) ve (k) bentlerindeki gerekçeleri içeren ihbarnameler gerekçenin ilgili idare, diğer bentlerinde yer alan gerekçeleri içeren ihbarnameler ise gerekçenin (Değişik ibare:RG-23/12/2022-32052) Çevre, Şehircilik ve İklim Değişikliği İl Müdürlükleri tarafından uygun bulunması halinde geçerli olur.",
+      "preview": "(1) (Değişik:RG-29/12/2018-30640)(4) Kanun kapsamına giren yapıların sahipleri, yapının uygulama projeleri bitirildikten sonra (Değişik ibar…",
+      "kitap": null,
+      "kisim": null,
+      "bolum": "DÖRDÜNCÜ BÖLÜM · Yapı Denetim Komisyonunun Çalışma Usul ve Esasları",
+      "ayirim": null,
+      "maddeBaslik": "Yapı denetimi çalışma birimleri",
+      "sectionPath": [
+        "DÖRDÜNCÜ BÖLÜM · Yapı Denetim Komisyonunun Çalışma Usul ve Esasları",
+        "Yapı denetimi çalışma birimleri"
+      ]
+    },
+    {
+      "id": "yonetmelik:11951:m:22",
+      "maddeKind": "madde",
+      "maddeNo": "22",
+      "heading": "Madde 22",
+      "text": "(1) Yapı denetimi hizmetinin süresi, sözleşmenin imzalandığı tarihten denetlenen yapı için yapı kullanma izninin alındığı tarihe kadar geçen süredir. Bu süre, yapı sahibi ile yapı müteahhidi arasında akdedilen yapım sözleşmesinin süresinden az olamaz.",
+      "preview": "(1) Yapı denetimi hizmetinin süresi, sözleşmenin imzalandığı tarihten denetlenen yapı için yapı kullanma izninin alındığı tarihe kadar geçen…",
+      "kitap": null,
+      "kisim": null,
+      "bolum": "DÖRDÜNCÜ BÖLÜM · Yapı Denetim Komisyonunun Çalışma Usul ve Esasları",
+      "ayirim": null,
+      "maddeBaslik": "Sözleşme süresi",
+      "sectionPath": [
+        "DÖRDÜNCÜ BÖLÜM · Yapı Denetim Komisyonunun Çalışma Usul ve Esasları",
+        "Sözleşme süresi"
+      ]
+    },
+    {
+      "id": "yonetmelik:11951:m:23",
+      "maddeKind": "madde",
+      "maddeNo": "23",
+      "heading": "Madde 23",
+      "text": "(1) (Değişik:RG-29/12/2018-30640)(4) Yapı ruhsatı alındıktan sonra iki yıl içinde inşaata başlanmadığı veya başlandığı halde, başlama müddeti ile birlikte beş yıl içinde yapı bitirilemediği ve bu süre içerisinde ruhsat yenilenmediği takdirde, yapı sahibi ile yapı denetim kuruluşu arasında akdedilen sözleşme başkaca bir bildirime gerek kalmaksızın kendiliğinden sona erer. Bu durumdaki işler için ilgili idare tarafından onaylanmış seviye tespiti İl Yapı Denetim Komisyonuna gönderilir. Söz konusu işin inşaat alanı, yapı denetim kuruluşu ile birlikte, denetçi mimar ve mühendisleri ile yardımcı kontrol elemanlarının sorumluluğu altında bulunan inşaat alanından minha edilir. Yapı sahibi, yeni bir yapı denetim hizmet sözleşmesi imzalayarak işe devam edebilir.\n (2) Yapı denetim kuruluşunca, iş bitirme tutanağının ilgili idareye verilmesini müteakiben, ilgili idare tarafından yapı, ruhsat ve ekleri açısından kontrol edilerek en geç on beş iş günü içinde iş bitirme tutanağı onaylanır. Aksi takdirde, durum, ilgili idarece gerekçeli ve yazılı olarak yapı denetim kuruluşuna bildirilir.\n (3) Yapının ilgili mevzuata uygun şekilde kısmen veya tamamen bitirildiğine dair iş bitirme tutanağının tanzim edilmesi ve ilgili idarece bu tutanağın onaylanmasını müteakiben, söz konusu yapının inşaat alanı, yapı denetim kuruluşu ile birlikte, denetçi mimar ve mühendisleri ile (Mülga ibare:RG-29/12/2018-30640)(4) (…) yardımcı kontrol elemanlarının sorumluluğu altında bulunan inşaat alanından minha edilir.\n (4) Yapı kullanma izni belgesi tanzim edilmesi safhasında, yapı denetim kuruluşu tarafından hazırlanan iş bitirme tutanağının ilgili idarece onaylanmış olması durumunda, yapı denetim kuruluşunun yapı kullanma izni belgesini ayrıca imzalaması şartı aranmaz, ancak kuruluş, yapı kullanma izni belgesinden doğan her türlü sorumluluğu kabul etmiş sayılır. Yapı kullanma izni belgesi tanzim edildiğinde ilgili idarece kuruluşa bilgi verilir.\n (5) (Değişik:RG-23/12/2022-32052) Yapı denetim hizmet sözleşmesinin fesih işlemi noter ihbarnamesi ile karşı tarafa, ilgili idareye, ilgili Çevre, Şehircilik ve İklim Değişikliği İl Müdürlüğüne dağıtımlı olarak bildirilmek suretiyle yapılır.\n (6) Fesih işlemi sonrasında yapı sahibi, yapı denetim kuruluşu ve yapı müteahhidi tarafından ek-22’de gösterilen form-20’ye uygun seviye tespit tutanağı tanzim edilir ve ilgili idarenin onayına sunulur.\n (7) (Değişik:RG-23/12/2022-32052) Fesih sonrasında, ilgili idarece yapı tatil tutanağı tanzim edilerek, yapı ile ilgili her türlü belge (yapıya ilişkin bilgi formu, ruhsat, hakediş raporu, fesihle ilgili yazışmalar, seviye tespit tutanağı ve yapı tatil tutanağının tasdikli suretleri) bir görüş yazısı ekinde Çevre, Şehircilik ve İklim Değişikliği İl Müdürlüğüne gönderilir.\n (8) (Değişik:RG-23/12/2022-32052) Yapı denetimi hizmet sözleşmesi feshedilen yapı hakkında ilgili idaresince yerinde inceleme yapılarak, yeni bir yapı denetim hizmet sözleşmesi imzalanana kadar yapının devamına izin vermemek üzere yapı tatil tutanağı düzenlenir. Yapıda ruhsat ve eklerine aykırı bir imalatın tespiti halinde, yapının seviyesi belirlenerek hazırlanacak olan ve aykırılıkla ilgili tespitleri de içeren ek-29’da gösterilen form-27’de yer alan “Yapı Tespit ve İnceleme Tutanağı” hazırlanarak Çevre, Şehircilik ve İklim Değişikliği İl Müdürlüğüne gönderilir. Çevre, Şehircilik ve İklim Değişikliği İl Müdürlüğünce söz konusu yapı için Kanun ve ilgili yönetmelik hükümleri doğrultusunda yapılan inceleme sonucunda, görev ve sorumlulukların yerine getirilmediğinin tespiti halinde hazırlanacak olan “Teknik İnceleme Raporu” İl Yapı Denetim Komisyonuna gönderilir.\n (9) (Mülga ibare:RG-22/8/2015-29453)(…) izin belgesi iptal edilen yapı denetim kuruluşunun denetim sorumluluğu altında olan yapım işleri tamamlanmış yapılar için ilgili idarelerce yapı tatil tutanağı tanzim edilmez. Yapılacak herhangi bir inşai faaliyeti kalmayan ve yapı kullanma izni belgesi için müracaatta bulunan yapı sahiplerinin yeni bir yapı denetim kuruluşu ile sözleşme akdetmesine gerek olmaksızın, bu durumdaki yapı denetim kuruluşunca, yapının ruhsata ve eki projesine uygun olarak tamamen bitirilmiş olduğuna dair rapor tanzim edilerek, ilgili idareye verilir. İş bitirme tutanağı veya yapı kullanma izni belgesi bu kuruluşça imzalanır.\n (10) (Değişik:RG-29/12/2018-30640)(4) İzin belgesi iptal edilen yapı denetim kuruluşunun denetim sorumluluğu altında olup inşai faaliyeti devam eden veya yapı denetimi hizmet sözleşmesi fesih edilen işler için yapı sahibi tarafından yeni bir yapı denetim kuruluşu ile sözleşme akdedilir. Yeni bir yapı denetim kuruluşu görevlendirilmeksizin yapının devamına hiçbir surette izin verilmez. İlgili idarece, ilk ruhsat numarası yazılmak kaydıyla yeni bir yapı ruhsatı tanzim edilir. Yeni ruhsatın ekine ek-22’de gösterilen form-20’ye uygun seviye tespit tutanağı tanzim edilerek konulur.\n (11) (Değişik:RG-22/8/2015-29453) (Değişik ibare:RG-23/12/2022-32052) Kanunun 8 inci maddesinin (Değişik ibare:RG-12/6/2025-32924) birinci veya yirmi yedinci fıkrası (Değişik ibare:RG-23/12/2022-32052) uyarınca yeni iş almaktan men cezasına sebep olan işler için, herhangi bir inşai faaliyet kalmamış olsa dahi, geri kalan iş ve işlemler tamamlanmak üzere yapı sahibinin bir başka yapı denetim kuruluşu ile hizmet sözleşmesi imzalaması şarttır.\n (12) Yapının denetim sorumluluğunu üstlenen yeni yapı denetim kuruluşu, görevi üstlendiği tarihten önce yapılan bütün iş ve işlemlerin denetiminin Kanuna ve Yönetmeliğe uygun şekilde tamamlanmasından dolayı görevi bırakan yapı denetim kuruluşu ile birlikte müteselsilen sorumludur.\n (13) Yeni görevlendirilen yapı denetim kuruluşu, denetimi üstlenilen yapının imar planına, mevzuata, ruhsata ve eklerine, standartlara, teknik şartnamelere uygun olarak yapılıp yapılmadığına ilişkin yapı güvenliği raporu tanzim eder. Bu rapor, ilgili idaresince incelenerek onaylanır.",
+      "preview": "(1) (Değişik:RG-29/12/2018-30640)(4) Yapı ruhsatı alındıktan sonra iki yıl içinde inşaata başlanmadığı veya başlandığı halde, başlama müddet…",
+      "kitap": null,
+      "kisim": null,
+      "bolum": "DÖRDÜNCÜ BÖLÜM · Yapı Denetim Komisyonunun Çalışma Usul ve Esasları",
+      "ayirim": null,
+      "maddeBaslik": "Sözleşmenin sona ermesine ilişkin esaslar",
+      "sectionPath": [
+        "DÖRDÜNCÜ BÖLÜM · Yapı Denetim Komisyonunun Çalışma Usul ve Esasları",
+        "Sözleşmenin sona ermesine ilişkin esaslar"
+      ]
+    },
+    {
+      "id": "yonetmelik:11951:m:24",
+      "maddeKind": "madde",
+      "maddeNo": "24",
+      "heading": "Madde 24",
+      "text": "(1) Yapının tamamlanmadan önce başkasına devri suretiyle yapı sahibinin değişmesi hâlinde, yapı denetim kuruluşunca ek-20’de gösterilen form-18’e uygun seviye tespit tutanağı tanzim edilerek, durum en geç üç iş günü içinde ilgili idareye ve ilgili (Değişik ibare:RG-23/12/2022-32052) Çevre, Şehircilik ve İklim Değişikliği İl Müdürlüğüne bildirilir ve ilgili idarece yapı tatil tutanağı düzenlenerek yapım faaliyeti durdurulur. Yapının yeni sahibi tarafından Yönetmeliğe uygun olarak bir yapı denetim kuruluşu ile hizmet sözleşmesi akdedilmedikçe inşaatın devamına izin verilmez.",
+      "preview": "(1) Yapının tamamlanmadan önce başkasına devri suretiyle yapı sahibinin değişmesi hâlinde, yapı denetim kuruluşunca ek-20’de gösterilen form…",
+      "kitap": null,
+      "kisim": null,
+      "bolum": "DÖRDÜNCÜ BÖLÜM · Yapı Denetim Komisyonunun Çalışma Usul ve Esasları",
+      "ayirim": null,
+      "maddeBaslik": "İnşaatın devri veya satılması",
+      "sectionPath": [
+        "DÖRDÜNCÜ BÖLÜM · Yapı Denetim Komisyonunun Çalışma Usul ve Esasları",
+        "İnşaatın devri veya satılması"
+      ]
+    },
+    {
+      "id": "yonetmelik:11951:m:25",
+      "maddeKind": "madde",
+      "maddeNo": "25",
+      "heading": "Madde 25",
+      "text": "(1) (Değişik:RG-5/2/2013-28550) Kanun ile öngörülen hizmet bedellerini karşılamak üzere, Bakanlıkça Defterdarlık Muhasebe Müdürlüğü ve Mal Müdürlüklerinde emanet hesapları açılır. Yapı denetim kuruluşunun hizmet bedelleri, yapı sahibince bu hesaplara yatırılır. Yapı denetim hizmetine ait her hakediş bedelinin % 3’ü ruhsatı veren ilgili idarenin ve % 3’ü ise Bakanlık bünyesindeki döner sermaye işletmesinin hesabına aktarılır.\n (2) Bu hesap başka maksatlarla kullanılamaz. 21/7/1953 tarihli ve 6183 sayılı Amme Alacaklarının Tahsil Usulü Hakkında Kanunda belirtilen borçlar da dâhil olmak üzere haczedilemez ve tedbir konulamaz.",
+      "preview": "(1) (Değişik:RG-5/2/2013-28550) Kanun ile öngörülen hizmet bedellerini karşılamak üzere, Bakanlıkça Defterdarlık Muhasebe Müdürlüğü ve Mal M…",
+      "kitap": null,
+      "kisim": null,
+      "bolum": "ALTINCI BÖLÜM · Hizmet Bedellerinin Tespiti ve Ödenmesi Esasları",
+      "ayirim": null,
+      "maddeBaslik": "Yapı denetimi hesabı",
+      "sectionPath": [
+        "ALTINCI BÖLÜM · Hizmet Bedellerinin Tespiti ve Ödenmesi Esasları",
+        "Yapı denetimi hesabı"
+      ]
+    },
+    {
+      "id": "yonetmelik:11951:m:26",
+      "maddeKind": "madde",
+      "maddeNo": "26",
+      "heading": "Madde 26",
+      "text": "(Başlığı ile Birlikte Değişik:RG-29/12/2018-30640)(4)\n (1) Yapı denetimi hizmet bedeli, hizmet bedeline esas yapı yaklaşık maliyeti ile hizmet bedeline esas oranın çarpımı suretiyle elde edilen bedeldir. (Değişik ikinci cümle:RG-23/12/2022-32052) Bu bedele, katma değer vergisi dahil olmayıp, taşıyıcı sisteme ilişkin Bakanlıkça belirlenen laboratuvar deneylerinin masrafları dâhildir.\n (2) Hizmet bedeline esas yapı yaklaşık maliyeti bu maddede belirlenen birim maliyet ile yapı inşaat alanının çarpımından bulunur.\n (3) (Değişik ibare:RG-12/2/2022-31748) Yapı denetimi hizmet bedeline esas yapı gruplarına ilişkin birim maliyetler aşağıdaki şekilde alınacaktır:\n (Değişik tablo:RG-12/6/2025-32924)\n Gruplar\n Kapsamı\n Birim maliyet\n\n I.\n Bakanlık tarafından her yıl yayımlanan “Mimarlık ve Mühendislik Hizmet Bedellerinin Hesabında Kullanılacak Yapı Yaklaşık Birim Maliyetleri Hakkında Tebliğ”in I ve II. sınıflarında yer alan yapılar.\n 5.000 TL/m2\n\n II.\n “Mimarlık ve Mühendislik Hizmet Bedellerinin Hesabında Kullanılacak Yapı Yaklaşık Birim Maliyetleri Hakkında Tebliğ”in III. sınıfında yer alan yapılar.\n 15.000 TL/m2\n\n III.\n “Mimarlık ve Mühendislik Hizmet Bedellerinin Hesabında Kullanılacak Yapı Yaklaşık Birim Maliyetleri Hakkında Tebliğ”in IV ve V. sınıflarında yer alan yapılar.\n 25.000 TL/m2\n\n (4) (Değişik:RG-12/6/2025-32924) Üçüncü fıkrada yer alan birim maliyetler 2026 yılından itibaren Bakanlıkça her yıl bir önceki yılın yurt içi üretici fiyat endeksi ile tüketici fiyat endeksinin ortalaması esas alınarak güncellenir. Küsuratlar bir üst tamsayıya tamamlanır. Her yıl 1 Ocak tarihinden geçerli olmak üzere Bakanlığın ilgili biriminin elektronik adresinden yayınlanır.\n (5) Üçüncü fıkrada belirtilen Tebliğdeki sınıflarda yer almayan yapıların gruplarının belirlenmesi için öncelikle yapının metraja dayalı maliyeti hesaplanarak bu bedel yapı inşaat alanına bölünür; bu bölümden elde edilen sonuç bu maddede belirlenen birim maliyetlerden hangisine yakınsa, yapının grubu yakın olan birim maliyetin ait olduğu grup kabul edilir. Bu hesaplamalar proje müelliflerince yapılır ve ilgili idarece onaylanır.\n (6) Bir sonraki yıla devreden işlerin yapı denetimi hizmet bedeli, uygulama yılının birim maliyeti ile değerlendirilir. Bu durumda yapı denetim kuruluşu, yapı sahibi ve yapı müteahhidi veya yapı müteahhidi adına şantiye şefi tarafından yıl sonu itibarı ile ek-23’de gösterilen form-21’e uygun bir seviye tespit tutanağı tanzim edilir; yapı bölümünün kısmi oranı belirlenir ve söz konusu tutanak ilgili idarenin onayına sunulur. Ancak bu oranın belirlenmesi sırasında taraflar arasında ihtilaf olması hâlinde, ilgili idareye müracaat edilerek seviye tespiti yapılması talep edilir ve belirlenen bu oran üzerinden yapı denetim kuruluşuna ödemede bulunularak, yıl sonu itibarı ile hesap kesilir. Bu durumda doğabilecek bedel farkı, yapı sahibi tarafından yapı denetimi hesabına yatırılır. Yıl sonu itibarı ile hesap kesimi yapılmayan işler için bir sonraki yıla ait ödemede bulunulmaz ve bu yapıların devamına yapı denetim kuruluşunun önerisi ile ilgili idarece izin verilmez.\n (7) (Ek:RG-30/5/2019-30789) Hizmet bedeli oranlarına ve buna bağlı olarak tespit edilecek yapı denetimi hizmet bedellerine ilişkin olarak aşağıdaki esaslar dâhilinde hareket edilir.\n a) Yapı denetim hizmet sözleşmesinde yer alan hizmet bedeli oranları aşağıdaki tabloya uygun şekilde alınacaktır.\n (Değişik tablo:RG-12/6/2025-32924)\n Yapı Denetimi Hizmet Bedeline Esas Oranlar Cetveli\n\n Yapının Bitirilmesi İçin\n Öngörülen Süre\n Hizmet Bedeli Oranı (%)\n\n Yapı denetim hizmet sözleşmesi bedeline esas yapı inşaat alanı=<1.000m2\n 1.000 m2< Yapı denetim hizmet sözleşmesi bedeline esas yapı inşaat alanı=<50.000m2\n 50.000m2< Yapı denetim hizmet sözleşmesi bedeline esas yapı inşaat alanı\n\n 1 yıl\n 1.75\n 1.50\n 1.25\n\n 2 yıl\n 1.84\n 1,58\n 1,31\n\n 3 yıl\n 1.93\n 1.65\n 1.38\n\n 4 yıl\n 2.03\n 1.74\n 1.45\n\n 5 yıl\n 2.13\n 1.82\n 1.52\n\n (Ek cümle:RG-12/6/2025-32924) Yapı denetim hizmet sözleşmesi bedeline esas inşaat alanı 500 metrekareye kadar olan yapılarda ise hizmet bedeli oranı %3,5’a kadar artırılabilir.\n b) Yapı denetimi hizmet sözleşmesinde belirtilen yapının bitirilmesi için öngörülen süre herhangi bir sebeple uzadığı takdirde uzayan sürenin her yılı için bu fıkrada belirtilen hizmet bedeli oranlarına göre, işin kalan kısmını kapsayacak şekilde ilave hizmet bedeli ödenir. (Mülga ikinci cümle:RG-12/6/2025-32924)\n (8) (Ek:RG-21/3/2020-31075) Yapı denetim hizmet bedeli;\n a) Endüstri Bölgeleri onaylı sınırı içerisinde yer alan tüm yapılar için %20 indirimli,\n b) Teknoloji Geliştirme Bölgeleri, Organize Sanayi Bölgeleri, Serbest Bölgeler ve Sanayi Siteleri onaylı sınırı içerisinde yer alan tüm yapılar için %35 indirimli,\n uygulanır.\n (9) (Ek:RG-12/6/2025-32924) Yapı ruhsatı aldıktan sonra yapının inşaat alanındaki değişim nedeniyle tadilata gidilmesi ve buna bağlı olarak hizmet bedeli oranının değişmesi gerektiğinin tespiti halinde yapı denetim kuruluşu, yapı sahibi ve yapı müteahhidi veya yapı müteahhidi adına şantiye şefi tarafından bir seviye tespit tutanağı tanzim edilir; yapı bölümünün kısmi oranı belirlenir yeni hizmet bedeli oranı yapının sadece geriye kalan kısmına uygulanır.\n (10) (Ek:RG-12/6/2025-32924) Güçlendirme işlerinin yapı denetim hizmet bedeli, yapının tamamı için belirlenecek denetim hizmet bedelinin %25’inden az olamaz.",
+      "preview": "(Başlığı ile Birlikte Değişik:RG-29/12/2018-30640)(4) (1) Yapı denetimi hizmet bedeli, hizmet bedeline esas yapı yaklaşık maliyeti ile hizme…",
+      "kitap": null,
+      "kisim": null,
+      "bolum": "ALTINCI BÖLÜM · Hizmet Bedellerinin Tespiti ve Ödenmesi Esasları",
+      "ayirim": null,
+      "maddeBaslik": "Hizmet bedelinin tespiti ve bu bedele esas birim maliyetlerin belirlenmesi",
+      "sectionPath": [
+        "ALTINCI BÖLÜM · Hizmet Bedellerinin Tespiti ve Ödenmesi Esasları",
+        "Hizmet bedelinin tespiti ve bu bedele esas birim maliyetlerin belirlenmesi"
+      ]
+    },
+    {
+      "id": "yonetmelik:11951:m:27",
+      "maddeKind": "madde",
+      "maddeNo": "27",
+      "heading": "Madde 27",
+      "text": "(1) Toplam inşaat alanı (Değişik ibare:RG-29/12/2018-30640)(4) üç bin m2’yi (dâhil) geçmeyen yapıların denetim hizmeti bedelinin, yapı sahibi tarafından yapı denetim hesabına defaten yatırılması esastır. Ödeme makbuzunun bir sureti yapı sahibi tarafından ilgili idareye ve yapı denetim kuruluşuna verilir. (Mülga cümle:RG-29/12/2018-30640)(4) (…)\n (2) Toplam inşaat alanı (Değişik ibare:RG-29/12/2018-30640)(4) üç bin m2’nin üzerindeki yapıların yapı denetimi hizmet bedelleri, yapı sahibinin tercihine göre, defaten veya aşağıdaki tabloda gösterilen taksitler halinde veya kısmi taksitler halinde hesaba yatırılır. Ödeme makbuzunun bir sureti yapı sahibi tarafından ilgili idareye ve yapı denetim kuruluşuna verilir.\n\n Taksit\n Kapsam\n Miktar (%)\n\n 1\n Ruhsat alınması aşamasında ödenecek olan proje inceleme bedeli\n 10\n\n 2\n Kazı ve temel üst kotuna kadar olan kısım\n 10\n\n 3\n Taşıyıcı sistem bölümü\n 40\n\n 4\n Çatı örtüsü, dolgu duvarları, kapı ve pencere kasaları, tesisat alt yapısı dâhil yapının sıvaya kadar hazır duruma getirilmiş bölümü\n 20\n\n 5\n Mekanik ve elektrik tesisatı ile kalan yapı bölümü\n 15\n\n 6\n İş bitirme tutanağının ilgili idare tarafından onaylanması\n 5\n\n (3) Müteakip bölümün hizmet bedeli yatırılmadığı takdirde, yapı denetim kuruluşunca yapı faaliyet durdurma tutanağı ile seviye tespit tutanağı tanzim edilerek, tanzim tarihinden itibaren üç iş günü içinde ilgili idareye bildirimde bulunulur. İlgili idarece yapı tatil tutanağı tanzim edilir ve yapının devamına izin verilmez. Bu hükümlere aykırı hareket eden ilgililer hakkında, Kanunun cezai hükümleri uygulanır.",
+      "preview": "(1) Toplam inşaat alanı (Değişik ibare:RG-29/12/2018-30640)(4) üç bin m2’yi (dâhil) geçmeyen yapıların denetim hizmeti bedelinin, yapı sahib…",
+      "kitap": null,
+      "kisim": null,
+      "bolum": "ALTINCI BÖLÜM · Hizmet Bedellerinin Tespiti ve Ödenmesi Esasları",
+      "ayirim": null,
+      "maddeBaslik": "Hizmet bedeli taksitleri",
+      "sectionPath": [
+        "ALTINCI BÖLÜM · Hizmet Bedellerinin Tespiti ve Ödenmesi Esasları",
+        "Hizmet bedeli taksitleri"
+      ]
+    },
+    {
+      "id": "yonetmelik:11951:m:28",
+      "maddeKind": "madde",
+      "maddeNo": "28",
+      "heading": "Madde 28",
+      "text": "(1) (Değişik:RG-5/2/2013-28550) Yapı denetim kuruluşu, 27 nci maddede belirtilen oranlara göre her yapı bölümü veya kısmi yapı bölümü için, bu bölümlerin tamamlanmasını müteakiben, ek-24’de gösterilen form-22’ye uygun hakediş raporunu tanzim eder. 27 nci maddede belirtilen gerçekleşme seviyelerinin geçildiği tarih itibariyle geride bırakılan seviyeye dair hakedişin bir ay içinde hazırlanması ve ilgili idareye sunulması gereklidir.\n (2) Her bir taksit, yapının ölçülebilir seviyesi esas alınarak, kısmi taksitlere bölünerek ödenebilir.\n (3) Düzenlenen hakediş raporu, yapı denetim kuruluşunca ilgili idareye sunulduktan sonra, idarece ekleriyle birlikte kontrol edilerek, bu yapı bölümünde denetim açısından herhangi bir eksiklik veya kusur yok ise, (Mülga ibare:RG-22/8/2015-29453) (…) ilgili bölüme ait hizmet bedeli yapı denetim kuruluşuna ödenir. Aksi takdirde, (Mülga ibare:RG-22/8/2015-29453) (…), gerekçeleri ile birlikte durum yapı denetim kuruluşuna bildirilir.\n (4) Yapı denetim kuruluşu, hakediş raporuna yapının bu bölümünde çalıştırdığı teknik elemanların ek-25’de gösterilen form-23’e uygun personel bildirgesini eklemek zorundadır.\n (5) (Değişik:RG-23/12/2022-32052) Laboratuvar hizmet bedelinin ödenmesi konusunda ilgili mevzuat hükümlerine göre hareket edilir.\n (6) Yapı denetim kuruluşunca hakedişi tahsil edilen kısmi yapı bölümüne tekabül eden inşaat alanı, bu kuruluş ile birlikte, (Değişik ibare:RG-29/12/2018-30640)(4) denetçi mimar ve mühendisleri ile yardımcı kontrol elemanlarının sorumluluğu altında bulunan inşaat alanından minha edilir. Ancak, bu işlem, yapı denetim kuruluşunun o yapı bölümüyle ilgili sorumluluğunu ortadan kaldırmaz.\n Yeni iş almaktan men cezası verilmesi, yapı denetim izin belgesinin iptali veya sözleşmenin feshi sonrasında hizmet bedellerinin ödenmesi (Değişik başlık:RG-22/8/2015-29453)",
+      "preview": "(1) (Değişik:RG-5/2/2013-28550) Yapı denetim kuruluşu, 27 nci maddede belirtilen oranlara göre her yapı bölümü veya kısmi yapı bölümü için,…",
+      "kitap": null,
+      "kisim": null,
+      "bolum": "ALTINCI BÖLÜM · Hizmet Bedellerinin Tespiti ve Ödenmesi Esasları",
+      "ayirim": null,
+      "maddeBaslik": "Hizmet bedelinin ödenmesi",
+      "sectionPath": [
+        "ALTINCI BÖLÜM · Hizmet Bedellerinin Tespiti ve Ödenmesi Esasları",
+        "Hizmet bedelinin ödenmesi"
+      ]
+    },
+    {
+      "id": "yonetmelik:11951:m:29",
+      "maddeKind": "madde",
+      "maddeNo": "29",
+      "heading": "Madde 29",
+      "text": "(1) (Değişik:RG-22/8/2015-29453) (Değişik ibare:RG-23/12/2022-32052) Kanunun 8 inci maddesinin birinci fıkrası uyarınca yeni iş almaktan men cezasına yol açan denetim işlerinde, ilgili idaresince bu işe ilişkin denetimsizliğin başladığı seviye tespit edilir ve bu seviyeden sonraki yapı denetim hizmet bedeli ödenmez.\n (2)(Değişik:RG-22/8/2015-29453) Yapı denetim izin belgesi iptal edilmesi veya sözleşme feshi veya yeni iş almaktan men cezası sebebiyle yapı denetim kuruluşunun ilişiği kesilen işler için, en geç on beş iş günü içinde, yapı denetim kuruluşu, yapı sahibi ve yapı müteahhidi tarafından ek-22’de gösterilen form-20’ye uygun bir seviye tespit tutanağı tanzim edilir ve ilgili idarenin onayına sunulur. Seviye tespit tutanağı esas alınarak, yapı denetim kuruluşunun mevzuata uygun şekilde yapmış olduğu denetim hizmetlerinin karşılığı olarak, süresi içinde müracaat edip daha önce almamış olduğu hakedişleri ödenir.\n (3) Yapı denetim kuruluşunun üzerinde bulunan bütün işler için yapılan seviye tespit işlemi sırasında, ilgili idaresi tarafından ruhsata ve eklerine aykırılıklar belirlenmesi hâlinde, denetimsizliğin başladığı seviye tespit edilerek, bu seviyeden sonraki yapı denetim hizmet bedeli ödenmez. Bu durum, idaresince ilgili bilgi ve belgeler ile birlikte yapının bulunduğu ilin (Değişik ibare:RG-23/12/2022-32052) Çevre, Şehircilik ve İklim Değişikliği İl Müdürlüğüne bildirilir.\n\n YEDİNCİ BÖLÜM\n (Değişik bölüm başlığı:RG-22/8/2015-29453)",
+      "preview": "(1) (Değişik:RG-22/8/2015-29453) (Değişik ibare:RG-23/12/2022-32052) Kanunun 8 inci maddesinin birinci fıkrası uyarınca yeni iş almaktan men…",
+      "kitap": null,
+      "kisim": null,
+      "bolum": "ALTINCI BÖLÜM · Hizmet Bedellerinin Tespiti ve Ödenmesi Esasları",
+      "ayirim": null,
+      "maddeBaslik": "Hizmet bedelinin ödenmesi",
+      "sectionPath": [
+        "ALTINCI BÖLÜM · Hizmet Bedellerinin Tespiti ve Ödenmesi Esasları",
+        "Hizmet bedelinin ödenmesi"
+      ]
+    },
+    {
+      "id": "yonetmelik:11951:m:30",
+      "maddeKind": "madde",
+      "maddeNo": "30",
+      "heading": "Madde 30",
+      "text": "(Mülga:RG-5/2/2013-28550)",
+      "preview": "(Mülga:RG-5/2/2013-28550)",
+      "kitap": null,
+      "kisim": null,
+      "bolum": "ALTINCI BÖLÜM · Hizmet Bedellerinin Tespiti ve Ödenmesi Esasları",
+      "ayirim": null,
+      "maddeBaslik": "Sicillerin tutulması",
+      "sectionPath": [
+        "ALTINCI BÖLÜM · Hizmet Bedellerinin Tespiti ve Ödenmesi Esasları",
+        "Sicillerin tutulması"
+      ]
+    },
+    {
+      "id": "yonetmelik:11951:m:31",
+      "maddeKind": "madde",
+      "maddeNo": "31",
+      "heading": "Madde 31",
+      "text": "(Değişik:RG-23/6/2021-31520)\n (1) Bakanlıkça belirlenen yapılardan iş bitirme aşamasına gelenler için (Değişik ibare:RG-12/2/2022-31748) yapı müteahhidince Bakanlıktan temin edilen Ek-28’de gösterilen Form-26’ya uygun bina kimlik sertifikası, yapının kolayca görünen bir yerine asılır.\n (2) (Değişik:RG-12/2/2022-31748) Bina kimlik sertifikasının bedelleri Bakanlıkça, her yıl 1 Mart tarihinden itibaren geçerli olmak üzere ilan edilir. Bu bedel Bakanlık Döner Sermaye hesabına yatırılır.",
+      "preview": "(Değişik:RG-23/6/2021-31520) (1) Bakanlıkça belirlenen yapılardan iş bitirme aşamasına gelenler için (Değişik ibare:RG-12/2/2022-31748) yapı…",
+      "kitap": null,
+      "kisim": null,
+      "bolum": "ALTINCI BÖLÜM · Hizmet Bedellerinin Tespiti ve Ödenmesi Esasları",
+      "ayirim": null,
+      "maddeBaslik": "Yapılara sertifika verilmesi",
+      "sectionPath": [
+        "ALTINCI BÖLÜM · Hizmet Bedellerinin Tespiti ve Ödenmesi Esasları",
+        "Yapılara sertifika verilmesi"
+      ]
+    },
+    {
+      "id": "yonetmelik:11951:m:32",
+      "maddeKind": "madde",
+      "maddeNo": "32",
+      "heading": "Madde 32",
+      "text": "(Ek:RG-22/8/2015-29453)\n (1) (Değişik ibare:RG-12/6/2025-32924) Bakanlıkça;\n a) Yapı denetim kuruluşlarından 385.079,10 Türk Lirası tutarında teminat alınır.\n b) İzin belgesi almak için müracaatta bulunan yapı denetim kuruluşlarından evraklarını eksiksiz sunduğu tarihteki teminat bedeli tutarında teminat alınır.\n (2) Teminat olarak kabul edilecek değerler;\n a) Tedavüldeki Türk Parası,\n b) (Değişik:RG-12/6/2025-32924) EK-30’da gösterilen form-28/29’a uygun süresiz teminat mektupları,\n c) (Değişik ibare:RG-11/12/2020-31331) Hazine ve Maliye Bakanlığınca ihraç edilen Devlet İç Borçlanma Senetleri ve bu senetler yerine düzenlenen belgelerdir.\n (3) İlgili mevzuatına göre Türkiye’de faaliyette bulunmasına izin verilen yabancı bankaların (Ek ibare:RG-12/6/2025-32924) veya sigorta şirketlerinin düzenleyecekleri süresiz teminat mektupları ile Türkiye dışında faaliyette bulunan banka veya benzeri kredi kuruluşlarının kontrgarantisi üzerine Türkiye’de faaliyette bulunan bankaların veya (Değişik ibare:RG-12/6/2025-32924) sigorta şirketlerinin düzenleyecekleri süresiz teminat mektupları da teminat olarak kabul edilir.\n (4) İkinci fıkranın (c) bendinde belirtilen senetler ve bu senetler yerine düzenlenen belgelerden nominal değere faiz dahil edilerek ihraç edilenler, anaparaya tekabül eden satış değeri üzerinden teminat olarak kabul edilir.\n (5) Teminat mektupları dışındaki teminatlar Bakanlık birimlerince teslim alınamaz. Bunların illerde defterdarlık muhasebe müdürlüklerine, ilçelerde mal müdürlüklerine yatırılması zorunludur.\n (6) Teminatlar, teminat olarak kabul edilen diğer değerlerle değiştirilebilir.\n (7) (Değişik:RG-21/3/2020-31075) Her ne suretle olursa olsun, alınan teminatlar haczedilemez ve üzerine ihtiyati tedbir konulamaz.\n (8) (Değişik:RG-21/3/2020-31075) (Değişik:RG-12/6/2025-32924) Teminat tutarları, 2026 yılına kadar her yıl bir önceki yılın yurt içi üretici fiyat endeksine göre 2026 yılından itibaren ise her yıl için bir önceki yılın yurt içi üretici fiyat endeksi ile tüketici fiyat endeksinin ortalaması esas alınarak Merkez Yapı Denetim Komisyonu tarafından güncellenir ve her yıl 1 Şubat tarihinden geçerli olmak üzere aynı tarihe kadar Resmî Gazete’de ilân edilir.\n (9) (Değişik:RG-11/12/2020-31331) Yapı denetim kuruluşlarından vize aşamasında, daha önce alınan teminat bedelleri ile vizeye ilişkin evrakların eksiksiz sunulduğu tarih için sekizinci fıkra uyarınca güncellenen teminat bedeli arasında doğacak teminat farkı bu maddede belirlenen esaslar dâhilinde alınır.",
+      "preview": "(Ek:RG-22/8/2015-29453) (1) (Değişik ibare:RG-12/6/2025-32924) Bakanlıkça; a) Yapı denetim kuruluşlarından 385.079,10 Türk Lirası tutarında…",
+      "kitap": null,
+      "kisim": null,
+      "bolum": "ALTINCI BÖLÜM · Hizmet Bedellerinin Tespiti ve Ödenmesi Esasları",
+      "ayirim": null,
+      "maddeBaslik": "Teminat alınması, tutarı ve türü3",
+      "sectionPath": [
+        "ALTINCI BÖLÜM · Hizmet Bedellerinin Tespiti ve Ödenmesi Esasları",
+        "Teminat alınması, tutarı ve türü3"
+      ]
+    },
+    {
+      "id": "yonetmelik:11951:m:33",
+      "maddeKind": "madde",
+      "maddeNo": "33",
+      "heading": "Madde 33",
+      "text": "(Ek:RG-22/8/2015-29453) (Değişik:RG-11/12/2020-31331)\n (1) İzin belgesi alma aşamasında gerçeğe aykırı beyanda bulunması ve/veya bu Kanun uyarınca uygulanan idari yaptırımlar sonucunda Bakanlıktan aldığı izin belgesi iptal edilen yapı denetim kuruluşlarının verdikleri teminatlar 32 nci maddenin sekizinci fıkrasına göre güncellenerek irat kaydedilir.\n (2) Birinci fıkrada belirtilen haller dışında Bakanlıktan aldığı izin belgesinin iptalini talep eden yapı denetim kuruluşlarının teminatları, ilgili (Değişik ibare:RG-23/12/2022-32052) Çevre, Şehircilik ve İklim Değişikliği İl Müdürlüklerinin haklarında belge iptaline sebebiyet verecek herhangi bir inceleme olmadığına dair görüşü alınarak Merkez Yapı Denetim Komisyonunun teklifi üzerine Bakanlıkça iade edilir. Yapılacak inceleme sonucunda belge iptaline karar verilmesi halinde 32 nci maddenin sekizinci fıkrasına göre güncellenerek teminatı irat kaydedilir.",
+      "preview": "(Ek:RG-22/8/2015-29453) (Değişik:RG-11/12/2020-31331) (1) İzin belgesi alma aşamasında gerçeğe aykırı beyanda bulunması ve/veya bu Kanun uya…",
+      "kitap": null,
+      "kisim": null,
+      "bolum": "ALTINCI BÖLÜM · Hizmet Bedellerinin Tespiti ve Ödenmesi Esasları",
+      "ayirim": null,
+      "maddeBaslik": "Teminatın iadesi ve irat kaydedilmesi3",
+      "sectionPath": [
+        "ALTINCI BÖLÜM · Hizmet Bedellerinin Tespiti ve Ödenmesi Esasları",
+        "Teminatın iadesi ve irat kaydedilmesi3"
+      ]
+    },
+    {
+      "id": "yonetmelik:11951:m:34",
+      "maddeKind": "madde",
+      "maddeNo": "34",
+      "heading": "Madde 34",
+      "text": "(1) 12/8/2001 tarihli ve 24491 sayılı Resmi Gazetede yayımlanarak yürürlüğe konulan Yapı Denetimi Uygulama Usul ve Esasları Yönetmeliği yürürlükten kaldırılmıştır.",
+      "preview": "(1) 12/8/2001 tarihli ve 24491 sayılı Resmi Gazetede yayımlanarak yürürlüğe konulan Yapı Denetimi Uygulama Usul ve Esasları Yönetmeliği yürü…",
+      "kitap": null,
+      "kisim": null,
+      "bolum": "SEKİZİNCİ BÖLÜM · Çeşitli ve Son Hükümler",
+      "ayirim": null,
+      "maddeBaslik": "Yürürlükten kaldırılan mevzuat3",
+      "sectionPath": [
+        "SEKİZİNCİ BÖLÜM · Çeşitli ve Son Hükümler",
+        "Yürürlükten kaldırılan mevzuat3"
+      ]
+    },
+    {
+      "id": "yonetmelik:11951:m:ek:1",
+      "maddeKind": "ek",
+      "maddeNo": "1",
+      "heading": "Ek Madde 1",
+      "text": "(Ek:RG-12/6/2025-32924)\n (1) Yapı denetimi hizmet sözleşmesi bedeline esas inşaat alanı veya yapı inşaat alanı;\n a) İnşasına yeni başlanacak yapılarda 3 üncü maddenin birinci fıkrasının (ö) bendine ve ilgili mevzuatına göre,\n b) Değiştirme, ilave kat ve benzerleri gibi yeniden yapı ruhsatı almayı gerektiren yapım işlerinde, yapının toplam bedeli ve toplam alanın esaslı tadilat işi için tanzim edilen keşfe orantısı yoluyla,\n c) Güçlendirme işlerinde; yapı için (a) bendi doğrultusunda belirlenen alanın %25’ine tekabül eden alan ile güçlendirmeye konu kısım için (b) bendine göre belirlenen alandan büyük olanın alınması yoluyla,\n ç) Yapımına ruhsatsız olarak başlanan veya 3/5/1985 tarihli ve 3194 sayılı İmar Kanunu kapsamında denetimine fenni mesullerce başlanan yapıların Kanun kapsamında devam etmesinin gerekmesi halinde toplam yapı inşaat alanı, yapının toplam denetim hizmet bedeli ve toplam alanın yapının geriye kalan kısmının denetim hizmet bedeli ile inceleme bedeli toplamına orantısı yoluyla,\n d) Yapı denetimi hizmet sözleşmesi feshedilen işlerde ilgili idarece onaylı fesih seviyesi dikkate alınarak belirlenen önceki sözleşme kapsamında gerçekleşen alanın çıkarılması yoluyla,\n belirlenir.",
+      "preview": "(Ek:RG-12/6/2025-32924) (1) Yapı denetimi hizmet sözleşmesi bedeline esas inşaat alanı veya yapı inşaat alanı; a) İnşasına yeni başlanacak y…",
+      "kitap": null,
+      "kisim": null,
+      "bolum": "SEKİZİNCİ BÖLÜM · Çeşitli ve Son Hükümler",
+      "ayirim": null,
+      "maddeBaslik": "Yapı denetimi hizmet sözleşmesi bedeline esas inşaat alanı veya yapı inşaat alanı",
+      "sectionPath": [
+        "SEKİZİNCİ BÖLÜM · Çeşitli ve Son Hükümler",
+        "Yapı denetimi hizmet sözleşmesi bedeline esas inşaat alanı veya yapı inşaat alanı"
+      ]
+    },
+    {
+      "id": "yonetmelik:11951:m:gecici:1",
+      "maddeKind": "gecici",
+      "maddeNo": "1",
+      "heading": "Geçici Madde 1",
+      "text": "(1) Bu Yönetmeliğin yürürlüğe girdiği tarihten önce yapı denetimi hizmet sözleşmeleri akdedilerek ruhsat müracaatı yapılmış olan işlere ait sözleşmeler, Yönetmeliğin yürürlüğe girdiği tarihten sonra da geçerlidir. Hizmet süresi herhangi bir nedenle uzayan denetim işlerine ait sözleşmeler ise ek-6’da gösterilen form-4’e uygun tip sözleşme kullanılarak yenilenir.\n 200 km’ye kadar diğer illerde faaliyet",
+      "preview": "(1) Bu Yönetmeliğin yürürlüğe girdiği tarihten önce yapı denetimi hizmet sözleşmeleri akdedilerek ruhsat müracaatı yapılmış olan işlere ait…",
+      "kitap": null,
+      "kisim": null,
+      "bolum": "SEKİZİNCİ BÖLÜM · Çeşitli ve Son Hükümler",
+      "ayirim": null,
+      "maddeBaslik": "Hizmet sözleşmelerinin yenilenmesi",
+      "sectionPath": [
+        "SEKİZİNCİ BÖLÜM · Çeşitli ve Son Hükümler",
+        "Hizmet sözleşmelerinin yenilenmesi"
+      ]
+    },
+    {
+      "id": "yonetmelik:11951:m:gecici:2",
+      "maddeKind": "gecici",
+      "maddeNo": "2",
+      "heading": "Geçici Madde 2",
+      "text": "(Başlığı ile Birlikte Değişik:RG-29/12/2018-30640)(4)\n (1) 1/1/2019 tarihine dek valilik binası esas alınarak 200 km’ye kadar diğer illerde faaliyet gösteren yapı denetim kuruluşlarının o illerde bu tarihten itibaren yeni iş almasına izin verilmez, sorumluluğunda bulunan işlerde ise iş sorumluluğundan düşene kadar denetimine devam etmesine izin verilir.",
+      "preview": "(Başlığı ile Birlikte Değişik:RG-29/12/2018-30640)(4) (1) 1/1/2019 tarihine dek valilik binası esas alınarak 200 km’ye kadar diğer illerde f…",
+      "kitap": null,
+      "kisim": null,
+      "bolum": "SEKİZİNCİ BÖLÜM · Çeşitli ve Son Hükümler",
+      "ayirim": null,
+      "maddeBaslik": "Hizmet sözleşmelerinin yenilenmesi",
+      "sectionPath": [
+        "SEKİZİNCİ BÖLÜM · Çeşitli ve Son Hükümler",
+        "Hizmet sözleşmelerinin yenilenmesi"
+      ]
+    },
+    {
+      "id": "yonetmelik:11951:m:gecici:3",
+      "maddeKind": "gecici",
+      "maddeNo": "3",
+      "heading": "Geçici Madde 3",
+      "text": "(Başlığı ile Birlikte Değişik:RG-29/12/2018-30640)(4)\n (1) 1/1/2019 tarihinden önce imzalanan yapı denetimi hizmet sözleşmeleri geçerli olup, bu sözleşmeye ilişkin işlemler ile sona ermesine ilişkin hususlarda sözleşme hükümlerine göre hareket edilir.\n (2) 1/1/2019 tarihinden önce imzalanan yapı denetim hizmet sözleşmelerinin feshinde 21 inci maddesinin üçüncü ve dördüncü fıkrası hükümleri uygulanmaz.\n (3) (Ek:RG-21/3/2020-31075) 20/2/2020 tarihinden önce imzalanan yapı denetimi hizmet sözleşmelerinden Endüstri Bölgeleri, Teknoloji Geliştirme Bölgeleri, Organize Sanayi Bölgeleri, Serbest Bölgeler ve Sanayi Siteleri onaylı sınırı içerisinde kalan yapılarda iş o yapı denetim kuruluşunun sorumluluğundan düşene kadar sözleşmelerinde belirtilen indirim oranları yapı denetim hizmet bedellerine uygulanır.\n (4) (Ek:RG-12/6/2025-32924) 1/1/2019 tarihinden bu fıkranın yürürlüğe girdiği tarihe kadar yapı denetimi hizmet sözleşmesi imzalanarak sözleşmesi devam eden işlerde, bu fıkranın yürürlüğe girdiği tarihten 2025 yılı sonuna kadar yapının gerçekleşecek kısmının yapı denetim hizmet bedelinin hesabında 26 ncı maddedeki yeni birim maliyetler kullanılır.",
+      "preview": "(Başlığı ile Birlikte Değişik:RG-29/12/2018-30640)(4) (1) 1/1/2019 tarihinden önce imzalanan yapı denetimi hizmet sözleşmeleri geçerli olup,…",
+      "kitap": null,
+      "kisim": null,
+      "bolum": "SEKİZİNCİ BÖLÜM · Çeşitli ve Son Hükümler",
+      "ayirim": null,
+      "maddeBaslik": "Eski hizmet sözleşmeleri",
+      "sectionPath": [
+        "SEKİZİNCİ BÖLÜM · Çeşitli ve Son Hükümler",
+        "Eski hizmet sözleşmeleri"
+      ]
+    },
+    {
+      "id": "yonetmelik:11951:m:gecici:4",
+      "maddeKind": "gecici",
+      "maddeNo": "4",
+      "heading": "Geçici Madde 4",
+      "text": "(1) Yapı Denetim Komisyonunun yapı denetimi izin belgesi, laboratuvar izin belgesi ve denetçi belgesi verilmesi ile ilgili iş ve işlemlerini yürütecek olan sekreterya, Yönetmeliğin yürürlüğe girdiği tarihten itibaren en geç bir ay içinde Yapı Denetim Komisyonu tarafından teşkil edilir.",
+      "preview": "(1) Yapı Denetim Komisyonunun yapı denetimi izin belgesi, laboratuvar izin belgesi ve denetçi belgesi verilmesi ile ilgili iş ve işlemlerini…",
+      "kitap": null,
+      "kisim": null,
+      "bolum": "SEKİZİNCİ BÖLÜM · Çeşitli ve Son Hükümler",
+      "ayirim": null,
+      "maddeBaslik": "Yapı Denetim Komisyonu sekreteryası personelinin görevlendirilmesi",
+      "sectionPath": [
+        "SEKİZİNCİ BÖLÜM · Çeşitli ve Son Hükümler",
+        "Yapı Denetim Komisyonu sekreteryası personelinin görevlendirilmesi"
+      ]
+    },
+    {
+      "id": "yonetmelik:11951:m:gecici:5",
+      "maddeKind": "gecici",
+      "maddeNo": "5",
+      "heading": "Geçici Madde 5",
+      "text": "(1) Bu Yönetmeliğin yürürlüğe girdiği tarihten önce izin belgesi almış olan yapı denetim kuruluşları, 12’nci maddenin beşinci fıkrasında sayılan asgari donanımı ve şartları Yönetmeliğin yürürlüğe girdiği tarihten itibaren en geç üç ay içerisinde sağlamak ve bu konuda ilgili Bayındırlık ve İskân Müdürlüğüne yazılı olarak bilgi vermekle yükümlüdür.",
+      "preview": "(1) Bu Yönetmeliğin yürürlüğe girdiği tarihten önce izin belgesi almış olan yapı denetim kuruluşları, 12’nci maddenin beşinci fıkrasında say…",
+      "kitap": null,
+      "kisim": null,
+      "bolum": "SEKİZİNCİ BÖLÜM · Çeşitli ve Son Hükümler",
+      "ayirim": null,
+      "maddeBaslik": "Faaliyeti devam eden yapı denetim kuruluşlarının donanım yönünden eksiklerini tamamlaması",
+      "sectionPath": [
+        "SEKİZİNCİ BÖLÜM · Çeşitli ve Son Hükümler",
+        "Faaliyeti devam eden yapı denetim kuruluşlarının donanım yönünden eksiklerini tamamlaması"
+      ]
+    },
+    {
+      "id": "yonetmelik:11951:m:gecici:6",
+      "maddeKind": "gecici",
+      "maddeNo": "6",
+      "heading": "Geçici Madde 6",
+      "text": "(1) Bu Yönetmeliğin yürürlüğe girdiği tarihten önce şube aracılığıyla bir denetim hizmeti üstlenmiş olan yapı denetim kuruluşları, söz konusu işin sözleşmesine göre denetim hizmeti tamamlanana kadar o ildeki faaliyetini sürdürebilir. Şube aracılığıyla bir başka ildeki tüm işlerini tamamlayan yapı denetim kuruluşlarının o ilde faaliyetine devam edebilmesi için 17’nci madde hükümlerine uygun biçimde belge alması şarttır.",
+      "preview": "(1) Bu Yönetmeliğin yürürlüğe girdiği tarihten önce şube aracılığıyla bir denetim hizmeti üstlenmiş olan yapı denetim kuruluşları, söz konus…",
+      "kitap": null,
+      "kisim": null,
+      "bolum": "SEKİZİNCİ BÖLÜM · Çeşitli ve Son Hükümler",
+      "ayirim": null,
+      "maddeBaslik": "Şubeler aracılığıyla faaliyet gösteren yapı denetim kuruluşlarının durumu",
+      "sectionPath": [
+        "SEKİZİNCİ BÖLÜM · Çeşitli ve Son Hükümler",
+        "Şubeler aracılığıyla faaliyet gösteren yapı denetim kuruluşlarının durumu"
+      ]
+    },
+    {
+      "id": "yonetmelik:11951:m:gecici:7",
+      "maddeKind": "gecici",
+      "maddeNo": "7",
+      "heading": "Geçici Madde 7",
+      "text": "(Başlığı ile birlikte değişik:RG-13/6/2018-30450)\n (1) Laboratuvarların bu maddenin yürürlüğe girdiği tarihten önce taşıyıcı sisteme ilişkin verdiği muayene ve deney hizmetlerinin bedeli yapı denetim kuruluşlarınca hakedişin tahakkuk tarihinden itibaren yedi iş günü içerisinde laboratuvarlarca açılan banka hesaplarına aktarılır.",
+      "preview": "(Başlığı ile birlikte değişik:RG-13/6/2018-30450) (1) Laboratuvarların bu maddenin yürürlüğe girdiği tarihten önce taşıyıcı sisteme ilişkin…",
+      "kitap": null,
+      "kisim": null,
+      "bolum": "SEKİZİNCİ BÖLÜM · Çeşitli ve Son Hükümler",
+      "ayirim": null,
+      "maddeBaslik": "Laboratuvar kuruluşlarının ücretleri",
+      "sectionPath": [
+        "SEKİZİNCİ BÖLÜM · Çeşitli ve Son Hükümler",
+        "Laboratuvar kuruluşlarının ücretleri"
+      ]
+    },
+    {
+      "id": "yonetmelik:11951:m:gecici:8",
+      "maddeKind": "gecici",
+      "maddeNo": "8",
+      "heading": "Geçici Madde 8",
+      "text": "(1) Bu Yönetmeliğin yürürlüğe girdiği tarihten önce alınmış olan denetçi mimar ve denetçi mühendislere ait belgeler vize tarihine kadar geçerlidir. Söz konusu belgelerin vizesi sırasında (Değişik ibare:RG-5/2/2013-28550) Merkez Yapı Denetim Komisyonu Başkanlığınca bu Yönetmelik esasları doğrultusunda belge tanzim edilir.",
+      "preview": "(1) Bu Yönetmeliğin yürürlüğe girdiği tarihten önce alınmış olan denetçi mimar ve denetçi mühendislere ait belgeler vize tarihine kadar geçe…",
+      "kitap": null,
+      "kisim": null,
+      "bolum": "SEKİZİNCİ BÖLÜM · Çeşitli ve Son Hükümler",
+      "ayirim": null,
+      "maddeBaslik": "Denetçi belgelerinin durumu",
+      "sectionPath": [
+        "SEKİZİNCİ BÖLÜM · Çeşitli ve Son Hükümler",
+        "Denetçi belgelerinin durumu"
+      ]
+    },
+    {
+      "id": "yonetmelik:11951:m:gecici:9",
+      "maddeKind": "gecici",
+      "maddeNo": "9",
+      "heading": "Geçici Madde 9",
+      "text": "(Ek:RG-7/8/2010-27665)\n (1) Kanunun uygulandığı illerin Kanunun 11 inci maddesi doğrultusunda artırılması halinde, kapsama yeni giren iller için 12 nci maddenin üçüncü fıkrasının ikinci cümlesinde yer alan hesap yöntemi yerine, bu maddenin yürürlüğe girdiği tarihten itibaren bir yıl süre ile Türkiye İstatistik Kurumundan temin edilen nüfus istatistikleri kullanılarak, il bazında faaliyet gösterebilecek kuruluş sayısı belirlenir.\n (2) Kapsama yeni alınan illerde faaliyet göstermek üzere Bakanlığa izin belgesi başvurusunda bulunacak kuruluşların son başvuru tarihi ile bir ilde faaliyet gösterebilecek kuruluş sayısı, Bakanlık uygun görüşünü müteakip, Yapı Denetim Komisyonu tarafından ilgililere duyurulur. Herhangi bir ilde başvuru sayısının Bakanlık tarafından duyurusu yapılan sayıdan fazla olması halinde, o ilde izin belgesi verilecek kuruluşlar noter huzurunda çekilecek kura ile belirlenir.",
+      "preview": "(Ek:RG-7/8/2010-27665) (1) Kanunun uygulandığı illerin Kanunun 11 inci maddesi doğrultusunda artırılması halinde, kapsama yeni giren iller i…",
+      "kitap": null,
+      "kisim": null,
+      "bolum": "SEKİZİNCİ BÖLÜM · Çeşitli ve Son Hükümler",
+      "ayirim": null,
+      "maddeBaslik": "Kanunun uygulandığı il sayısının artırılması",
+      "sectionPath": [
+        "SEKİZİNCİ BÖLÜM · Çeşitli ve Son Hükümler",
+        "Kanunun uygulandığı il sayısının artırılması"
+      ]
+    },
+    {
+      "id": "yonetmelik:11951:m:gecici:10",
+      "maddeKind": "gecici",
+      "maddeNo": "10",
+      "heading": "Geçici Madde 10",
+      "text": "(Ek:RG-14/4/2012-28264)\n Bu maddenin yürürlüğe girdiği tarihten önce Yönetmeliğin 12 nci maddesine göre yapılan hesaba göre yapı denetim izin belgesi almaya hak kazananlar ile yapı denetim izin belgesi olan yapı denetim kuruluşlarının toplam sayısının, bu Yönetmeliğe göre belirlenecek sayıdan fazla olması halinde bu kuruluşların müktesep hakları saklıdır.",
+      "preview": "(Ek:RG-14/4/2012-28264) Bu maddenin yürürlüğe girdiği tarihten önce Yönetmeliğin 12 nci maddesine göre yapılan hesaba göre yapı denetim izin…",
+      "kitap": null,
+      "kisim": null,
+      "bolum": "SEKİZİNCİ BÖLÜM · Çeşitli ve Son Hükümler",
+      "ayirim": null,
+      "maddeBaslik": "Müktesep haklar",
+      "sectionPath": [
+        "SEKİZİNCİ BÖLÜM · Çeşitli ve Son Hükümler",
+        "Müktesep haklar"
+      ]
+    },
+    {
+      "id": "yonetmelik:11951:m:gecici:11",
+      "maddeKind": "gecici",
+      "maddeNo": "11",
+      "heading": "Geçici Madde 11",
+      "text": "(Ek:RG-5/2/2013-28550) (Başlığı ile birlikte değişik:RG-22/8/2015-29453)\n (1) Kanunun, 4/4/2015 tarihli ve 6645 sayılı İş Sağlığı ve Güvenliği Kanunu ile Bazı Kanun ve Kanun Hükmünde Kararnamelerde Değişiklik Yapılmasına Dair Kanun ile değişen hükümleri yürürlüğe girmeden önceki hükümleri dahilinde yapı denetim kuruluşları hakkında Resmî Gazete’de ilan edilmemiş olan idari yaptırıma esas işlemler, Kanunun yürürlükteki 8 inci maddesine göre sonuçlandırılır.\n (2) Kanunun, 6645 sayılı Kanun ile değişik hükümleri yürürlüğe girmeden önce herhangi bir nedenle izin belgesi iptal edilenler hariç olmak üzere yapı denetim kuruluşları hakkında verilmiş olan geçici faaliyet durdurma cezaları; cezalandırmaya esas alınan fiil ve haller, Kanunun 6645 sayılı Kanun ile değişik hükümlerine göre yeni iş almaktan men cezasını gerektirmiyor ise, belgenin iptal edilerek faaliyete son verme cezası verilmesi bakımından tekerrüre esas alınmaz.\n (3) Kanunun, 6645 sayılı Kanun ile değişen hükümlerinin yürürlüğe girmeden önce laboratuvarlar hakkında henüz neticelendirilmemiş olan idari yaptırımlara esas işlemler, Kanunun yürürlükteki 8 inci maddesine göre sonuçlandırılır.",
+      "preview": "(Ek:RG-5/2/2013-28550) (Başlığı ile birlikte değişik:RG-22/8/2015-29453) (1) Kanunun, 4/4/2015 tarihli ve 6645 sayılı İş Sağlığı ve Güvenliğ…",
+      "kitap": null,
+      "kisim": null,
+      "bolum": "SEKİZİNCİ BÖLÜM · Çeşitli ve Son Hükümler",
+      "ayirim": null,
+      "maddeBaslik": "Önceki idari yaptırımlar",
+      "sectionPath": [
+        "SEKİZİNCİ BÖLÜM · Çeşitli ve Son Hükümler",
+        "Önceki idari yaptırımlar"
+      ]
+    },
+    {
+      "id": "yonetmelik:11951:m:gecici:12",
+      "maddeKind": "gecici",
+      "maddeNo": "12",
+      "heading": "Geçici Madde 12",
+      "text": "(Ek:RG-29/12/2018-30640)(4)\n (1) Bu maddenin yürürlüğe girmesinden önce belgesi vizesiz duruma düşen yapı denetim kuruluşlarının bu maddenin yürürlük tarihinden itibaren 90 takvim günü içinde vizesini yaptırmaması halinde belgeleri geçici olarak geri alınır.\n (2) Bu maddenin yürürlüğe girmesinden önce belgesi geçici olarak geri alınan yapı denetim kuruluşları, bu maddenin yürürlük tarihinden itibaren 180 takvim günü içerisinde eksikliklerini tamamlayarak yapı denetim izin belgesini talep etmezse Bakanlıkça o il için belge almak üzere başvuruda bulunan kuruluşlara dair yapılan sıralamanın sonuna yerleştirilir.",
+      "preview": "(Ek:RG-29/12/2018-30640)(4) (1) Bu maddenin yürürlüğe girmesinden önce belgesi vizesiz duruma düşen yapı denetim kuruluşlarının bu maddenin…",
+      "kitap": null,
+      "kisim": null,
+      "bolum": "SEKİZİNCİ BÖLÜM · Çeşitli ve Son Hükümler",
+      "ayirim": null,
+      "maddeBaslik": "Belgesi geçici geri alınan veya vizesiz konuma düşen yapı denetim kuruluşlarının durumu",
+      "sectionPath": [
+        "SEKİZİNCİ BÖLÜM · Çeşitli ve Son Hükümler",
+        "Belgesi geçici geri alınan veya vizesiz konuma düşen yapı denetim kuruluşlarının durumu"
+      ]
+    },
+    {
+      "id": "yonetmelik:11951:m:gecici:13",
+      "maddeKind": "gecici",
+      "maddeNo": "13",
+      "heading": "Geçici Madde 13",
+      "text": "(Ek:RG-29/12/2018-30640)(4)\n (1) Bu maddenin yürürlüğe girdiği tarihten önce yapı denetim kuruluşunda çalışmakta olan denetim elemanları 17 nci maddedeki istisnalar hariç, 1/1/2019 tarihinden itibaren 3 ay içinde yerleşim yeri adreslerini denetim faaliyeti yürüttükleri ile almazlarsa söz konusu denetim elemanlarının bu faaliyetlerine devam etmesine Bakanlıkça izin verilmez.\n (2) Geçici 2 nci madde kapsamında valilik binası esas alınarak 200 km’ye kadar diğer ilde denetim faaliyeti yürüten yapı denetim kuruluşunun hem kendi ilinde hem bu ilde denetim görevi yapmasına izin verilen denetim elemanlarının, görevli oldukları yapı denetim kuruluşlarının diğer ildeki faaliyetleri sona erene kadar, 1/1/2019 tarihinden itibaren 3 ay içinde yerleşim yeri adreslerini yapı denetim kuruluşunun merkezinin bulunduğu ile almak koşuluyla valilik binası esas alınarak 200 km’ye kadar diğer ildeki bu denetim görevlerine devam etmelerine izin verilir.",
+      "preview": "(Ek:RG-29/12/2018-30640)(4) (1) Bu maddenin yürürlüğe girdiği tarihten önce yapı denetim kuruluşunda çalışmakta olan denetim elemanları 17 n…",
+      "kitap": null,
+      "kisim": null,
+      "bolum": "SEKİZİNCİ BÖLÜM · Çeşitli ve Son Hükümler",
+      "ayirim": null,
+      "maddeBaslik": "Denetim elemanlarının durumu",
+      "sectionPath": [
+        "SEKİZİNCİ BÖLÜM · Çeşitli ve Son Hükümler",
+        "Denetim elemanlarının durumu"
+      ]
+    },
+    {
+      "id": "yonetmelik:11951:m:gecici:14",
+      "maddeKind": "gecici",
+      "maddeNo": "14",
+      "heading": "Geçici Madde 14",
+      "text": "(Ek:RG-29/12/2018-30640)(4)\n (1) Bu maddenin yürürlüğe girdiği tarihten önce bu Yönetmeliğin 12 nci maddesine göre yapılan hesaba göre yapı denetim izin belgesi almaya hak kazananlar ile yapı denetim izin belgesi olan yapı denetim kuruluşlarının toplam sayısının, bu Yönetmeliğe göre belirlenecek sayıdan fazla olması halinde bu kuruluşların kazanılmış hakları saklıdır.",
+      "preview": "(Ek:RG-29/12/2018-30640)(4) (1) Bu maddenin yürürlüğe girdiği tarihten önce bu Yönetmeliğin 12 nci maddesine göre yapılan hesaba göre yapı d…",
+      "kitap": null,
+      "kisim": null,
+      "bolum": "SEKİZİNCİ BÖLÜM · Çeşitli ve Son Hükümler",
+      "ayirim": null,
+      "maddeBaslik": "Yapı denetim kuruluşlarının durumu",
+      "sectionPath": [
+        "SEKİZİNCİ BÖLÜM · Çeşitli ve Son Hükümler",
+        "Yapı denetim kuruluşlarının durumu"
+      ]
+    },
+    {
+      "id": "yonetmelik:11951:m:gecici:15",
+      "maddeKind": "gecici",
+      "maddeNo": "15",
+      "heading": "Geçici Madde 15",
+      "text": "(Ek:RG-21/3/2020-31075)\n (1) Bu Yönetmeliğin yürürlüğe girdiği tarihten önce sonuçlandırılmamış denetim izin belgesi başvuruları, bu Yönetmelik hükümlerine göre sonuçlandırılır.",
+      "preview": "(Ek:RG-21/3/2020-31075) (1) Bu Yönetmeliğin yürürlüğe girdiği tarihten önce sonuçlandırılmamış denetim izin belgesi başvuruları, bu Yönetmel…",
+      "kitap": null,
+      "kisim": null,
+      "bolum": "SEKİZİNCİ BÖLÜM · Çeşitli ve Son Hükümler",
+      "ayirim": null,
+      "maddeBaslik": "Denetim izin belgesi başvuruları",
+      "sectionPath": [
+        "SEKİZİNCİ BÖLÜM · Çeşitli ve Son Hükümler",
+        "Denetim izin belgesi başvuruları"
+      ]
+    },
+    {
+      "id": "yonetmelik:11951:m:gecici:16",
+      "maddeKind": "gecici",
+      "maddeNo": "16",
+      "heading": "Geçici Madde 16",
+      "text": "(Ek:RG-23/6/2021-31520)\n (1) Bu maddenin yürürlüğe girdiği tarihten önce iş bitirme aşamasına gelen yapıların sertifikalandırılmasının usul ve esasları Bakanlıkça belirlenir.\n (2) (Ek:RG-23/12/2022-32052)(5) Bakanlıkça belirlenen yapılardan 23/6/2021 (dahil) ile 12/2/2022 (hariç) tarihleri arasında iş bitirme aşamasına gelenlerin bina kimlik sertifikaları yapı denetim kuruluşlarınca Bakanlıktan temin edilir.",
+      "preview": "(Ek:RG-23/6/2021-31520) (1) Bu maddenin yürürlüğe girdiği tarihten önce iş bitirme aşamasına gelen yapıların sertifikalandırılmasının usul v…",
+      "kitap": null,
+      "kisim": null,
+      "bolum": "SEKİZİNCİ BÖLÜM · Çeşitli ve Son Hükümler",
+      "ayirim": null,
+      "maddeBaslik": "Önceki yapıların sertifikalandırılmaları",
+      "sectionPath": [
+        "SEKİZİNCİ BÖLÜM · Çeşitli ve Son Hükümler",
+        "Önceki yapıların sertifikalandırılmaları"
+      ]
+    },
+    {
+      "id": "yonetmelik:11951:m:gecici:17",
+      "maddeKind": "gecici",
+      "maddeNo": "17",
+      "heading": "Geçici Madde 17",
+      "text": "(Ek:RG-7/9/2023-32302)\n (1) 6/2/2023 tarihinde Kahramanmaraş İlinin Elbistan ve Pazarcık İlçeleri merkezli meydana gelen iki büyük deprem sonrasında, Bakanlıkça yürütülen hasar tespit çalışmaları sonucunda ildeki inşası tamamlanarak kullanıma açılan yapılardan en az %20’sinin kullanılamaz (orta hasarlı, ağır hasarlı, acil yıkılacak ve yıkık) durumda olduğunun tespit edilmesi halinde, bu durumdaki her bir il için bir kereye mahsus ikiden az olmamak üzere 12 nci maddenin üçüncü fıkrası uyarınca belirlenen o ilde faaliyet gösterebilecek yapı denetim kuruluşu sayısının %10’u sayıda (küsuratlar bir üst tam sayıya tamamlanır) kuruluşa daha Merkez Yapı Denetim Komisyonunun teklifi üzerine Bakanlıkça yapı denetim izin belgesi verilir.",
+      "preview": "(Ek:RG-7/9/2023-32302) (1) 6/2/2023 tarihinde Kahramanmaraş İlinin Elbistan ve Pazarcık İlçeleri merkezli meydana gelen iki büyük deprem son…",
+      "kitap": null,
+      "kisim": null,
+      "bolum": "SEKİZİNCİ BÖLÜM · Çeşitli ve Son Hükümler",
+      "ayirim": null,
+      "maddeBaslik": "Mücbir durumlar",
+      "sectionPath": [
+        "SEKİZİNCİ BÖLÜM · Çeşitli ve Son Hükümler",
+        "Mücbir durumlar"
+      ]
+    },
+    {
+      "id": "yonetmelik:11951:m:35",
+      "maddeKind": "madde",
+      "maddeNo": "35",
+      "heading": "Madde 35",
+      "text": "(1) Bu Yönetmelik yayımı tarihinde yürürlüğe girer.",
+      "preview": "(1) Bu Yönetmelik yayımı tarihinde yürürlüğe girer.",
+      "kitap": null,
+      "kisim": null,
+      "bolum": "SEKİZİNCİ BÖLÜM · Çeşitli ve Son Hükümler",
+      "ayirim": null,
+      "maddeBaslik": "Yürürlük(3)",
+      "sectionPath": [
+        "SEKİZİNCİ BÖLÜM · Çeşitli ve Son Hükümler",
+        "Yürürlük(3)"
+      ]
+    },
+    {
+      "id": "yonetmelik:11951:m:36",
+      "maddeKind": "madde",
+      "maddeNo": "36",
+      "heading": "Madde 36",
+      "text": "(Değişik:RG-22/8/2015-29453)(3)\n (1) Bu Yönetmelik hükümlerini (Değişik ibare:RG-23/12/2022-32052) Çevre, Şehircilik ve İklim Değişikliği Bakanı yürütür.\n _______\n (1) Danıştay Altıncı Dairesinin 2012/2940 Esas numaralı dosyası üzerinden verdiği 25/9/2012 tarihli kararı ile bu Yönetmeliğin 5 inci maddesinin üçüncü fıkrasının (ç) bendinin yürütmesi durdurulmuştur.\n (2)22/8/2015 tarihli ve 29453 sayılı Resmi Gazete’de yayımlanan Yapı Denetimi Uygulama Yönetmeliğinde Değişiklik Yapılmasına Dair Yönetmelik ile bu maddenin birinci fıkrasının (j) bendinden sonra gelmek üzere (k) bendi eklenmiş ve diğer bentler buna göre teselsül ettirilmiştir.\n (3) 22/8/2015 tarihli ve 29453 sayılı Resmi Gazete’de yayımlanan Yapı Denetimi Uygulama Yönetmeliğinde Değişiklik Yapılmasına Dair Yönetmelik ile 31 inci maddeden sonra gelmek üzere 32 nci ve 33 üncü maddeler eklenmiş ve sonraki madde buna göre teselsül ettirilmiştir.\n (4) Bu değişiklik 1/1/2019 tarihinde yürürlüğe girer.\n (5) Bu değişiklik 12/2/2022 tarihinden geçerli olmak üzere yayımı tarihinde yürürlüğe girer.\n (6) Bu değişiklik yayımı tarihinden üç ay sonra yürürlüğe girer.\n\n Eki için tıklayınız.\n\n Yönetmeliğin Yayımlandığı Resmî Gazete’nin\n\n Tarihi\n Sayısı\n\n 5/2/2008\n 26778\n\n Yönetmelikte Değişiklik Yapan Yönetmeliklerin Yayımlandığı Resmî Gazetelerin\n\n Tarihi\n Sayısı\n\n 1.\n 31/7/2009\n 27305\n\n 2.\n 7/8/2010\n 27665\n\n 3.\n 1/7/2011\n 27981\n\n 4.\n 3/4/2012\n 28253\n\n 5.\n 14/4/2012\n 28264\n\n 6.\n 5/2/2013\n 28550\n\n 7.\n 22/8/2015\n 29453\n\n 8.\n 28/1/2016\n 29607\n\n 9.\n 13/6/2018\n 30450\n\n 10.\n 29/12/2018\n 30640\n\n 11.\n 30/5/2019\n 30789\n\n 12.\n 8/7/2019\n 30825 Mükerrer\n\n 13.\n 26/7/2019\n 30843\n\n 14.\n 21/3/2020\n 31075\n\n 15.\n 11/12/2020\n 31331\n\n 16.\n 23/6/2021\n 31520\n\n 17.\n 1/8/2021\n 31555\n\n 18.\n 12/2/2022\n 31748\n\n 19.\n 23/12/2022\n 32052\n\n 20.\n 7/9/2023\n 32302\n\n 21.\n 12/6/2025\n 32924",
+      "preview": "(Değişik:RG-22/8/2015-29453)(3) (1) Bu Yönetmelik hükümlerini (Değişik ibare:RG-23/12/2022-32052) Çevre, Şehircilik ve İklim Değişikliği Bak…",
+      "kitap": null,
+      "kisim": null,
+      "bolum": "SEKİZİNCİ BÖLÜM · Çeşitli ve Son Hükümler",
+      "ayirim": null,
+      "maddeBaslik": "Yürütme",
+      "sectionPath": [
+        "SEKİZİNCİ BÖLÜM · Çeşitli ve Son Hükümler",
+        "Yürütme"
+      ]
+    }
+  ]
+}

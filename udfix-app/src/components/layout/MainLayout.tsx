@@ -18,7 +18,6 @@ import { registerScopedSelectAllShortcut } from '../../shortcuts/scopedSelectAll
 import { useCloseFlyoutOnOutsideClick } from '../../hooks/useCloseFlyoutOnOutsideClick';
 import { useApplicationMenuBridge } from '../../hooks/useApplicationMenuBridge';
 import { UserGuidanceRoot } from '../ui/userGuidance';
-import { useTelemetryInit } from '../../hooks/useTelemetryInit';
 import { rendererStartupFlushSummary, rendererStartupMark } from '../../lib/startupTiming';
 import {
     zenWorkspaceCenterClassName,
@@ -54,7 +53,6 @@ const MainLayout: React.FC = () => {
     useAppKeyboardShortcuts();
     useApplicationMenuBridge();
     useCloseFlyoutOnOutsideClick();
-    useTelemetryInit();
 
     React.useEffect(() => registerScopedSelectAllShortcut(window), []);
 

@@ -1,0 +1,545 @@
+{
+  "id": "yonetmelik:9171",
+  "kind": "yonetmelik",
+  "no": "9171",
+  "title": "Koruma Amaçlı İmar Planları ve Çevre Düzenleme Projelerinin Hazırlanması, Gösterimi, Uygulaması, Denetimi ve Müelliflerine İlişkin Usul ve Esaslara Ait Yönetmelik",
+  "shortName": "Koruma Amaçlı İmar Yön.",
+  "aliases": [
+    "Koruma Amaçlı İmar Yön.",
+    "Koruma Amaçlı İmar Planları ve Çevre Düzenleme Projelerinin Hazırlanması, Gösterimi, Uygulaması, Denetimi ve Müelliflerine İlişkin Usul ve Esaslara Ait Yönetmelik",
+    "9171"
+  ],
+  "tur": 7,
+  "tertip": 5,
+  "sourceUrl": "https://www.mevzuat.gov.tr/mevzuat?MevzuatNo=9171&MevzuatTur=7&MevzuatTertip=5",
+  "kabulTarihi": null,
+  "maddeCount": 31,
+  "maddeler": [
+    {
+      "id": "yonetmelik:9171:m:1",
+      "maddeKind": "madde",
+      "maddeNo": "1",
+      "heading": "Madde 1",
+      "text": "Bu Yönetmeliğin amacı, koruma amaçlı imar planlarının ve çevre düzenleme projelerinin hazırlanması, yapım esasları, gösterimi, onaylanması, uygulaması, denetimi ve bu plan ve projeleri hazırlayacak müelliflerin nitelikleri ile görev, yetki ve sorumluluklarına ilişkin usul ve esasları belirlemektir.",
+      "preview": "Bu Yönetmeliğin amacı, koruma amaçlı imar planlarının ve çevre düzenleme projelerinin hazırlanması, yapım esasları, gösterimi, onaylanması,…",
+      "kitap": null,
+      "kisim": null,
+      "bolum": "BİRİNCİ BÖLÜM · Amaç, Kapsam, Dayanak ve Tanımlar",
+      "ayirim": null,
+      "maddeBaslik": "Amaç",
+      "sectionPath": [
+        "BİRİNCİ BÖLÜM · Amaç, Kapsam, Dayanak ve Tanımlar",
+        "Amaç"
+      ]
+    },
+    {
+      "id": "yonetmelik:9171:m:2",
+      "maddeKind": "madde",
+      "maddeNo": "2",
+      "heading": "Madde 2",
+      "text": "(Değişik fıkra:RG-5/1/2017-29939) Bu Yönetmelik hükümleri, doğal sit alanları hariç sit alanları ve bunların etkileşim geçiş sahalarında yapılacak koruma amaçlı imar planı, çevre düzenleme projeleri ile bunların değişikliklerinin hazırlanma, uygulama ve denetim sürecinde uyulacak teknik ve yönetsel esasları ve müelliflerinin görev, yetki ve sorumluluklarına ilişkin esasları kapsar.\n (Mülga fıkra:RG-5/1/2017-29939)",
+      "preview": "(Değişik fıkra:RG-5/1/2017-29939) Bu Yönetmelik hükümleri, doğal sit alanları hariç sit alanları ve bunların etkileşim geçiş sahalarında yap…",
+      "kitap": null,
+      "kisim": null,
+      "bolum": "BİRİNCİ BÖLÜM · Amaç, Kapsam, Dayanak ve Tanımlar",
+      "ayirim": null,
+      "maddeBaslik": "Kapsam",
+      "sectionPath": [
+        "BİRİNCİ BÖLÜM · Amaç, Kapsam, Dayanak ve Tanımlar",
+        "Kapsam"
+      ]
+    },
+    {
+      "id": "yonetmelik:9171:m:3",
+      "maddeKind": "madde",
+      "maddeNo": "3",
+      "heading": "Madde 3",
+      "text": "Bu Yönetmelik 21/7/1983 tarihli ve 2863 sayılı Kültür ve Tabiat Varlıklarını Koruma Kanununun 17 nci maddesine dayanılarak hazırlanmıştır.",
+      "preview": "Bu Yönetmelik 21/7/1983 tarihli ve 2863 sayılı Kültür ve Tabiat Varlıklarını Koruma Kanununun 17 nci maddesine dayanılarak hazırlanmıştır.",
+      "kitap": null,
+      "kisim": null,
+      "bolum": "BİRİNCİ BÖLÜM · Amaç, Kapsam, Dayanak ve Tanımlar",
+      "ayirim": null,
+      "maddeBaslik": "Dayanak",
+      "sectionPath": [
+        "BİRİNCİ BÖLÜM · Amaç, Kapsam, Dayanak ve Tanımlar",
+        "Dayanak"
+      ]
+    },
+    {
+      "id": "yonetmelik:9171:m:4",
+      "maddeKind": "madde",
+      "maddeNo": "4",
+      "heading": "Madde 4",
+      "text": "Bu Yönetmelikte geçen;\n Bakanlık: Kültür ve Turizm Bakanlığını,\n Kanun: 2863 sayılı Kültür ve Tabiat Varlıklarını Koruma Kanununu,\n Genel Müdürlük: Kültür Varlıkları ve Müzeler Genel Müdürlüğünü,\n Koruma Yüksek Kurulu: Kültür ve (Mülga ibare:RG-5/1/2017-29939) (…)Varlıklarını Koruma Yüksek Kurulunu,\n Koruma bölge kurulu: Kültür (Mülga ibare:RG-5/1/2017-29939) (…) varlıklarını koruma bölge kurulunu,\n Koruma bölge kurulu müdürlüğü: Kültür (Mülga ibare:RG-5/1/2017-29939) (…) varlıklarını koruma bölge kurulu müdürlüğünü,\n İdare: (Değişik:RG-5/1/2017-29939) Büyükşehir belediyelerini; belediye ve mücavir alan sınırları içerisinde belediyeleri; bu sınırlar dışında il özel idarelerini ve ilgili mevzuatları uyarınca plan yapma, yaptırma ve onaylama yetkisine sahip kurum ve kuruluşlarını,\n Sit: Tarih öncesinden günümüze kadar gelen çeşitli medeniyetlerin ürünü olup, yaşadıkları devirlerin sosyal, ekonomik, mimari ve benzeri özelliklerini yansıtan kent ve kent kalıntıları, kültür varlıklarının yoğun olarak bulunduğu sosyal yaşama konu olmuş veya önemli tarihi hadiselerin cereyan ettiği yerler ve tespiti yapılmış tabiat özellikleri ile korunması gerekli alanları,\n Kentsel sit: (Değişik:RG-5/1/2017-29939) Mimari, mahalli, tarihsel, estetik ve sanat özelliği bulunan ve bir arada bulunmaları ve bir bütün olarak o yerleşmenin ait oldukları dönemin yaşam biçimini gelecek nesillere aktarmaları sebebiyle teker tekertaşıdıkları kıymetten daha fazla kıymeti olan, kültürel ve tabii çevre elemanlarının (yapılar, bahçeler, bitki örtüleri, yerleşim dokuları, duvarlar, sokak ve meydanlar ve benzeri) birlikte bulundukları alanları,\n Arkeolojik sit: (Değişik:RG-5/1/2017-29939) İnsanlığın varoluşundan günümüze kadar ulaşan eski uygarlıkların yer altında, yer üstünde ve su altındaki ürünlerini, yaşadıkları devirlerin sosyal, ekonomik ve kültürel özelliklerini yansıtan her türlü kültür varlığının yer aldığı yerleşmeler ve alanları,\n Doğal sit: İlginç özellik ve güzelliklere sahip olan ve ender bulunan korunması gerekli alanları ve taşınmaz tabiat varlıklarını,\n Tarihi sit: (Değişik:RG-5/1/2017-29939) İnsanlık tarihi, milli tarihimiz veya askeri harp tarihi açısından çok önemli tarihi olayların cereyan ettiği ve bu sebeple korunması gerekli yerleri,\n Etkileşim geçiş sahası: (Ek:RG-5/1/2017-29939) Korunması gerekli kültür varlıklarını ve sit alanlarını doğrudan etkileyen, sit bölgeleriyle bütünlük gösteren, daha önceden sit sınırları içindeyken sit sınırları dışına çıkarılmış veya sit sınırları dışında tutulmuş korunacak sokak, meydan, yapı grupları ve benzerlerinin yer aldığı, sit bölgeleri arasında kalmış sitleri doğrudan etkileyen veya koruma amaçlı imar planlarının hazırlanma aşamasında göz önünde bulundurulması gereken alanları,\n Ören yeri: Tarih öncesinden günümüze kadar gelen çeşitli uygarlıkların ürünü olup topografik olarak tanımlanabilecek derecede yeterince belirgin ve mütecanis özelliklere sahip, aynı zamanda tarihsel, arkeolojik, sanatsal, bilimsel, sosyal veya teknik bakımlardan dikkate değer, kısmen inşa edilmiş, insan emeği kültür varlıkları ile tabiat varlıklarının birleştiği alanları,\n Koruma amaçlı imar planı: Kültür ve Tabiat Varlıklarını Koruma Kanunu uyarınca belirlenen sit alanlarında, alanın etkileşim geçiş sahasını da göz önünde bulundurarak, kültür ve tabiat varlıklarının sürdürülebilirlik ilkesi doğrultusunda korunması amacıyla arkeolojik, tarihi, doğal, mimari, demografik, kültürel, sosyo-ekonomik, mülkiyet ve yapılaşma verilerini içeren alan araştırmasına dayalı olarak; halihazır haritalar üzerine, koruma alanı içinde yaşayan hane halkları ve faaliyet gösteren iş yerlerinin sosyal ve ekonomik yapılarını iyileştiren, istihdam ve katma değer yaratan stratejileri, koruma esasları ve kullanma şartları ile yapılaşma sınırlamalarını, sağlıklaştırma, yenileme alan ve projelerini, uygulama etap ve programlarını, açık alan sistemini, yaya dolaşımı ve taşıt ulaşımını, altyapı tesislerinin tasarım esasları, yoğunluklar ve parsel tasarımlarını, yerel sahiplilik, uygulamanın finansmanı ilkeleri uyarınca katılımcı alan yönetimi modellerini de içerecek şekilde hazırlanan, hedefler, araçlar, stratejiler ile planlama kararları tutumları, plan notları ve açıklama raporu ile bir bütün olan nazım ve uygulama imar planlarının gerektirdiği ölçekteki planları,\n Revizyon koruma amaçlı imar planı: Mevcut koruma amaçlı imar planının uygulanmasının mümkün olmadığı veya yeni ihtiyaç ve sorunların teknik ve bilimsel gerekçelere dayalı araştırmalar sonucu hazırlanan raporlarla ortaya konulduğu durumlar ile üst ölçekli plan kararlarına uygunluğunun sağlanması amacıyla koruma amaçlı imar planı yapım ilkelerine bağlı olarak, planın tamamının veya plan ana kararlarını etkileyecek büyük bir kısmının yenilenmesi sonucu elde edilen planı,\n İlave koruma amaçlı imar planı: Yapılacak etütler sonrasında koruma amaçlı imar planının kapsadığı sit alanı sınırının genişlemesi, sit alanına yakın yeni sit alanları belirlenmesi veya başka zorunlu durumlarda, mevcut plana bitişik ve mevcut planın genel arazi kullanım kararları ile süreklilik, bütünlük ve uyum sağlayacak biçimde koruma amaçlı imar planı yapım ilkelerine ve bu Yönetmelik uyarınca plan hazırlama esaslarına bağlı olarak hazırlanan planı,\n Koruma amaçlı imar planı değişikliği: Koruma amaçlı imar planı ana kararlarını, sürekliliğini, bütünlüğünü, teknik altyapı ve sosyal donatı dengesini bozmayacak nitelikte, bilimsel, nesnel ve teknik gerekçelere dayanan, sınırlı büyüklükteki bir alan için arazi kullanım kararını veya plan notunu değiştiren, kamu yararının, arkeolojik, tarihi, kültürel ve doğal değerlerin korunmasının zorunlu kılması halinde yapılan plan düzenlemelerini,\n Çevre düzenleme projesi: Ören yerlerinin arkeolojik potansiyelini koruyacak şekilde, denetimli olarak ziyarete açmak, tanıtımını sağlamak, mevcut kullanım ve dolaşımdan kaynaklanan sorunlarını çözmek, alanın ihtiyaçlarını çağdaş, teknolojik gelişmelerin gerektirdiği donatılarla gidermek amacıyla her ören yerinin kendi özellikleri göz önüne alınarak hazırlanacak 1/500, 1/200 ve 1/100 ölçekli düzenleme projelerini,\n Plan müellifi: En az dört yıllık lisans eğitimi veren fakülte veya bunlara denkliği yetkili makamlarca kabul edilen yüksek öğretim kurumlarının şehir planlama veya şehir ve bölge planlama bölümünden mezun olmuş şehir plancıları veya şehir ve bölge plancıları veya kent plancıları ile bu kişilerin ortak olduğu tescilli büro ve şirketleri,\n Planlama ekibi: Koruma amaçlı imar planı yapımını yüklenen şehir plancısı veya şehir ve bölge plancısı veya kent plancısı müellif tarafından bu Yönetmelik hükümleri doğrultusunda oluşturulan ekibi,\n Proje müellifi: Çevre düzenleme projesini yapmaya yetkili olan gerçek ve tüzel kişileri,\n Proje ekibi: Çevre düzenleme projesinin yapımını üstlenen müellif tarafından bu Yönetmelik hükümleri doğrultusunda oluşturulan ekibi\n ifade eder.\n İKİNCİ BÖLÜM\n Koruma Amaçlı İmar Planlarının Hazırlanması, Yapım Esasları,",
+      "preview": "Bu Yönetmelikte geçen; Bakanlık: Kültür ve Turizm Bakanlığını, Kanun: 2863 sayılı Kültür ve Tabiat Varlıklarını Koruma Kanununu, Genel Müdür…",
+      "kitap": null,
+      "kisim": null,
+      "bolum": "BİRİNCİ BÖLÜM · Amaç, Kapsam, Dayanak ve Tanımlar",
+      "ayirim": null,
+      "maddeBaslik": "Tanımlar",
+      "sectionPath": [
+        "BİRİNCİ BÖLÜM · Amaç, Kapsam, Dayanak ve Tanımlar",
+        "Tanımlar"
+      ]
+    },
+    {
+      "id": "yonetmelik:9171:m:5",
+      "maddeKind": "madde",
+      "maddeNo": "5",
+      "heading": "Madde 5",
+      "text": "Koruma amaçlı imar planları idareler tarafından;\n a) Bu Yönetmeliğin 19 uncu maddesinde belirlenen koruma amaçlı imar planı yapımı ekibi bulunması koşuluyla doğrudan hazırlanabilir;\n b) İhale mevzuatında belirtilen usul ve esaslara göre ihale suretiyle yaptırılabilir;\n c) (Değişik ibare:RG-5/1/2017-29939) İller Bankası Anonim Şirketi Genel Müdürlüğüne yetki verilerek hazırlatılabilir.\n Belediyeler koruma amaçlı imar planlama çalışmalarının program ve bütçesini hazırlayarak (Değişik ibare:RG-5/1/2017-29939) İller Bankası Anonim Şirketi Genel Müdürlüğünün yıllık bütçesi oluşturulmadan önce (Değişik ibare:RG-5/1/2017-29939) İller Bankası Anonim Şirketi Genel Müdürlüğüne müracaat eder ve bu amaçla belediyelere aktarılmak üzere (Değişik ibare:RG-5/1/2017-29939) İller Bankası Anonim Şirketi Genel Müdürlüğü bütçesine yeteri kadar ödenek konur. İl özel idareleri ise bütçelerinde koruma amaçlı imar planlarının yapımı için ödenek ayırırlar.\n Ayrıca, Kanunun 10 uncu ve 12 nci maddeleri ile 16/4/2003 tarihli ve 4848 sayılı Kültür ve Turizm Bakanlığı Teşkilat ve Görevleri Hakkında Kanunun 9 uncu maddesi gereğince ilgili idarelerden yetki alarak Bakanlıkça da koruma amaçlı imar planları yaptırılabilir.\n Ulusal ya da uluslararası ölçekte açılan yarışmalar sonucu elde edilecek koruma amaçlı imar planlarında, yarışmayı düzenleyen kurumlar yarışma şartnamelerini, Bakanlığın görüşünü alarak bu Yönetmeliğin 18 inci ve 19 uncu maddelerine göre düzenleyeceklerdir; ancak yarışmaya katılacak plan müelliflerinde 18 inci maddenin (c) ve (d) bentlerindeki koşullar aranmaz.",
+      "preview": "Koruma amaçlı imar planları idareler tarafından; a) Bu Yönetmeliğin 19 uncu maddesinde belirlenen koruma amaçlı imar planı yapımı ekibi bulu…",
+      "kitap": null,
+      "kisim": null,
+      "bolum": "BİRİNCİ BÖLÜM · Amaç, Kapsam, Dayanak ve Tanımlar",
+      "ayirim": null,
+      "maddeBaslik": "Yetki ve yöntem",
+      "sectionPath": [
+        "BİRİNCİ BÖLÜM · Amaç, Kapsam, Dayanak ve Tanımlar",
+        "Yetki ve yöntem"
+      ]
+    },
+    {
+      "id": "yonetmelik:9171:m:6",
+      "maddeKind": "madde",
+      "maddeNo": "6",
+      "heading": "Madde 6",
+      "text": "(Değişik:RG-5/1/2017-29939)\n Koruma amaçlı imar planları aşağıdaki ilkeler doğrultusunda hazırlanır:\n a) Bir alanın koruma bölge kurulunca sit olarak ilanı, bu alanda her ölçekteki plan uygulamasını durdurur. Sit alanı ve etkileşim geçiş sahası göz önünde bulundurularak varsa 1/25000 ölçekli plan kararları ve notları alanın sit statüsü dikkate alınarak, yeniden gözden geçirilir ve ilgili idarelerce onaylanır.\n b) Koruma amaçlı imar planı yapılıncaya kadar, koruma bölge kurulu tarafından üç ay içinde geçiş dönemi koruma esasları ve kullanma şartları belirlenir. İdareler söz konusu alanda üç yıl içinde koruma amaçlı imar plânını hazırlatıp, incelenmek ve sonuçlandırılmak üzere koruma bölge kuruluna vermek zorundadır.\n Bu üç yıllık sürenin sonunda, koruma amaçlı imar planlarını yapma ve yaptırmaya yetkili idarelerce bütçelerinde plan yapımı için yeterli ödenek bulunmadığının, ilgili kurumlardan ödenek temin edilemediğinin ve koruma amaçlı imar planı hazırlama yeterliliğine sahip teknik elemanlarının olmadığının birlikte belgelenmesi durumunda veya alanda kazı çalışmalarının devam etmesi, afet hali gibi zorunlu teknik gerekçelerle plan yapılamaması halinde, koruma bölge kurulunca bu süre gerekçeli olarak uzatılabilir.\n Uzatılan süre içerisinde geçiş dönemi koruma esasları ve kullanma şartları uygulanır.\n c) İdareler planları, Bakanlıkça hazırlanan koruma amaçlı imar planları teknik şartnamesinde belirtilen esaslara uygun olarak hazırlar. İdarelerce planlama alanının özelliğine göre bu şartnameye ek olarak özel teknik şartname düzenlenebilir.\n d) İdareler koruma amaçlı imar planı hazırlanmasına başlamadan önce plan sınırları ile etkileşim geçiş sahası belirlenmesine ilişkin önerilerini ilgili koruma bölge kuruluna sunarak uygun görüşünü almakla yükümlüdür. Bu aşamada koruma bölge kurullarınca da ihtiyaç duyulması halinde etkileşim geçiş sahası belirlenir. İdare koruma amaçlı imar planı ile varsa etkileşim geçiş sahasını birlikte planlar.\n e) Koruma amaçlı imar planları, yeni bir koruma amaçlı imar planı veya koruma amaçlı imar planı revizyonuhazırlanıp onaylanmadan veya herhangi bir yargı kararı bulunmadan ilgili idarece iptal edilemez. Sit alanlarına ilişkin tüm ölçeklerde yapılmış; koruma bölge kurullarının uygun görüşü alınarak yürürlüğe giren planların yargı kararları ile uygulamasının durdurulması veya iptal edilmesi halinde ilgili koruma bölge kurulunca geçiş dönemi yapılanma şartları yeniden belirlenir. Planın iptali halinde plan yapım süreci başlatılır. Planlarda kısmi iptal olması halinde iptal edilen kısma ilişkin geçiş dönemi koruma esasları ve kullanma şartları koruma bölge kurulunca belirlenir ve plan bütünü göz önünde bulundurularak ilgili idarece plan yapım süreci başlatılır.\n f) Koruma amaçlı imar planları, kadastral durum işlenmiş güncel onaylı halihazır haritalar üzerine çizilir. Koruma amaçlı imar planları, bu planlara esas jeolojik-jeoteknik veya mikrobölgeleme etüt raporlarına uygun olarak hazırlanır. Ancak Kanunla kesin yapı yasağı getirilen alanlarda yapılan koruma amaçlı imar planlarında jeolojik-jeoteknik rapor hazırlanma şartı aranmaz.\n g) Koruma amaçlı imar planlarının varsa etkileşim geçiş sahaları ile sit alanının bütününü kapsayacak şekilde içinde bulunduğu yerleşme ile ilişkileri kurularak hazırlanması zorunludur.\n Ancak koruma amaçlı nazım imar planında, planın uygulanmasına yönelik etaplar ve uygulama programı tanımlanmış ise, nazım planın koruma bölge kurulunda uygun görülmüş ve idarece onaylanmış olması kaydı ile, koruma amaçlı uygulama imar planları etaplar halinde yapılabilir.\n Kanunla kesin yapılaşma yasağı getirilen alanlarda 22/5/2010 tarihli ve 27588 sayılı Resmî Gazete'de yayımlanan Sit Alanlarında Kalan Taşınmazların Hazine Taşınmazları ile Değiştirilmesi Hakkında Yönetmelik gereğince yapılması istenen (Danıştay Altıncı Dairesinin 15/12/2020 tarihli ve E.:2019/2481; K.:2020/12782 sayılı kararı ile iptal ibare; koruma amaçlı imar planları parsel ölçeğinde yapılabilir.)\n h) Yapılacak koruma amaçlı imar planlarında, Kanun gereğince kesin yapılaşma yasağı uygulanması gereken alanlar belirlenir.\n i) Koruma amaçlı imar planlarında tescilli kültür varlıkları ile sit alanları içindeki faaliyetlerin ve yapı stokunun deprem, sel baskını, heyelan, yangın, kaya düşmesi ve benzeri afetlere karşı daha dayanıklı ve güvenli hale getirileceğine ilişkin hedefler, stratejiler ve uygulama esasları getirilir ve bunlar plan açıklama raporu ve plan notlarına işlenir.\n j) Koruma amaçlı imar planlarının hazırlanması aşamasında; tarihi çevre, kültürel ve doğal miras, sosyal, kültürel ve ekonomik yapı, teknik altyapı, sosyal donatı, yapı ve sokak dokusu, mülkiyet yapısı, ulaşım, dolaşım sistemi, örgütlenme biçimi ve benzerlerine ilişkin gerekli etütler kent bütünü ile ilişkilendirilerek yapılır. Tespit edilen sorunların çözümü ve tarihi, kültürel, doğal çevrenin yaşanabilir ve sürdürülebilir biçimde korunabilmesi için alana özgü stratejiler belirlenir.\n k) Yapılacak koruma amaçlı imar planları, plan açıklama raporu, araştırma ve analiz çalışmaları, plan müellifi ve planlama ekibi tarafından imzalanır.",
+      "preview": "(Değişik:RG-5/1/2017-29939) Koruma amaçlı imar planları aşağıdaki ilkeler doğrultusunda hazırlanır: a) Bir alanın koruma bölge kurulunca sit…",
+      "kitap": null,
+      "kisim": null,
+      "bolum": "BİRİNCİ BÖLÜM · Amaç, Kapsam, Dayanak ve Tanımlar",
+      "ayirim": null,
+      "maddeBaslik": "Plan hazırlama esasları",
+      "sectionPath": [
+        "BİRİNCİ BÖLÜM · Amaç, Kapsam, Dayanak ve Tanımlar",
+        "Plan hazırlama esasları"
+      ]
+    },
+    {
+      "id": "yonetmelik:9171:m:7",
+      "maddeKind": "madde",
+      "maddeNo": "7",
+      "heading": "Madde 7",
+      "text": "(Değişik fıkra:RG-5/1/2017-29939) Koruma amaçlı imar planlarında taşınmaz kültür varlıklarının fiziksel ve mülkiyet dokusu özellikleri, mevcut sosyal ve teknik altyapı tesisleri, koruma-kullanma dengesi, planlanan alanın şartları ile ihtiyaçları gözetilerek kentsel, sosyal ve teknik altyapı alan standartları, yaya ve taşıt yolları genişlikleri koruma amaçlı imar planı kararları ile belirlenir.\n Planlarda, engelliler gibi kamu ortak mekanlarını kullanmakta zorluk çeken kişilerin kentsel kullanımlara, sosyal donatı ve teknik altyapı alanlarına erişimini ve kullanımını sağlayıcı ve kolaylaştırıcı tedbirlerin alınması amacıyla tasarım ilkeleri geliştirilerek mekansal düzenlemeler yapılır ve her türlü mevzuat ve Türk Standartları Enstitüsü standartları dikkate alınır.",
+      "preview": "(Değişik fıkra:RG-5/1/2017-29939) Koruma amaçlı imar planlarında taşınmaz kültür varlıklarının fiziksel ve mülkiyet dokusu özellikleri, mevc…",
+      "kitap": null,
+      "kisim": null,
+      "bolum": "BİRİNCİ BÖLÜM · Amaç, Kapsam, Dayanak ve Tanımlar",
+      "ayirim": null,
+      "maddeBaslik": "Sosyal donatı ve teknik altyapı",
+      "sectionPath": [
+        "BİRİNCİ BÖLÜM · Amaç, Kapsam, Dayanak ve Tanımlar",
+        "Sosyal donatı ve teknik altyapı"
+      ]
+    },
+    {
+      "id": "yonetmelik:9171:m:8",
+      "maddeKind": "madde",
+      "maddeNo": "8",
+      "heading": "Madde 8",
+      "text": "(Değişik:RG-5/1/2017-29939)\n Koruma bölge kurulu müdürlükleri, belediye yetkisinde olan alanlarda belediye meclisince, il özel idaresi yetkisinde olan alanlarda il genel meclisince ve diğer idarelerin yetkisindeki alanlarda onaylamaya yetkili makam tarafından uygun bulunarak kendilerine iletilen koruma amaçlı imar planını, Kanun ve bu Yönetmelik hükümleri doğrultusunda eksik belgesinin olup olmadığı yönünde incelerler. Eksik belgesi bulunduğu saptanan planlar koruma bölge kurulu müdürlüğünce idareye iade edilir.\n Koruma bölge kurulu, belgeleri tam olarak koruma bölge kuruluna ibraz edildiği tarihten itibaren koruma amaçlı imar planlarını en geç altı ay içinde karara bağlar.\n Koruma bölge kurulunda görüşülen ve uygun görülen koruma amaçlı imar planları onaylanmak üzere sadece ilgili idarelere gönderilir.\n Koruma amaçlı imar planı, belediye yetkisinde olan alanlarda belediye meclisince, il özel idaresi yetkisinde olan alanlarda il genel meclisince ve diğer idarelerin yetkisindeki alanlarda onaylamaya yetkili makam tarafından en geç iki ay içinde görüşülür ve karara bağlanır. Koruma bölge kurulunca plana ilave edilen veya değiştirilen hususlar olması halinde, idare bu konularla ilgili plan yapım sürecinde alınan görüşler ve ana kararlar dikkate alınarak varsa değişmesini istediği hususları aynı süre içerisinde koruma bölge kuruluna bildirir. Bu süre içinde idarece herhangi bir husus koruma bölge kuruluna iletilmediği takdirde, koruma bölge kurulunca uygun bulunmuş haliyle planlar onaylanmış sayılır ve kesinleşerek yürürlüğe girer.\n İdarece planda değiştirilmesi istenen hususlar koruma bölge kuruluna bildirildiği takdirde koruma bölge kurulunca bu hususlar değerlendirilir ve uygun görülen haliyle planlar idarelere onaylanmak üzere gönderilir. Planlar koruma bölge kurulunun uygun gördüğü şekliyle ilgili idarelerce altmış gün içinde onaylanmak zorundadır. Bu süre içinde görüşülmeyen ya da onaylanmayan planlar kesinleşerek yürürlüğe girer.\n Planlar onaylandığı tarihten itibaren en geç on beş iş günü içinde otuz gün süreyle herkesin görebileceği şekilde idarelerce tespit edilen ilan yerlerinde asılmak suretiyle ve idarelerin internet adreslerinde eş zamanlı olarak ilan edilir.\n Planların nerede ve nasıl görülebileceği mahalli haberleşme araçları ile yerel veya ulusal basında veya ilgili muhtarlıklarda duyurulur.\n İdare, onaylanan koruma amaçlı imar planı ve eklerini, koruma bölge kurulu kararı ile birlikte dağıtımı yapılmak üzere asgari beş takım olarak ilgili koruma bölge kurulu müdürlüğüne gönderir.\n Uygun bulunan planlara ilişkin koruma bölge kurulu kararı, koruma bölge kurulu müdürlüğünce ilgili yerlere, karar eki planlar ise sadece Genel Müdürlük ve ilgili idarelere gönderilir.",
+      "preview": "(Değişik:RG-5/1/2017-29939) Koruma bölge kurulu müdürlükleri, belediye yetkisinde olan alanlarda belediye meclisince, il özel idaresi yetkis…",
+      "kitap": null,
+      "kisim": null,
+      "bolum": "BİRİNCİ BÖLÜM · Amaç, Kapsam, Dayanak ve Tanımlar",
+      "ayirim": null,
+      "maddeBaslik": "Planların onaylanması",
+      "sectionPath": [
+        "BİRİNCİ BÖLÜM · Amaç, Kapsam, Dayanak ve Tanımlar",
+        "Planların onaylanması"
+      ]
+    },
+    {
+      "id": "yonetmelik:9171:m:9",
+      "maddeKind": "madde",
+      "maddeNo": "9",
+      "heading": "Madde 9",
+      "text": "Askı süresi içinde koruma amaçlı imar planlarına itiraz edilebilir. İtirazlar idarelere yapılır. İdarece itirazlar en geç otuz gün içinde değerlendirilir ve karara bağlanır. Alınan karar, koruma amaçlı imar planında değişiklik yapılmasını gerektirmesi halinde (Ek ibare:RG-5/1/2017-29939) itirazlar koruma bölge kurulunun değerlendirmesine sunulur.\n İdareler ile gerçek ve tüzel kişiler, Koruma Yüksek Kurulu ve koruma bölge kurullarının kararlarına uymak zorundadırlar.\n (Değişik fıkra:RG-5/1/2017-29939) Koruma amaçlı imar plânları, değişiklikleri ve revizyonlarına ilişkin koruma bölge kurullarınca alınan kararlara 19/4/2012 tarihli ve 28269 sayılı Resmî Gazete'de yayımlanan Kültür Varlıklarını Koruma Yüksek Kurulu ve Kültür Varlıklarını Koruma Bölge Kurulları Yönetmeliği doğrultusunda itiraz edilebilir.\n Koruma amaçlı imar planına yapılan itirazlar uygulamayı ve yürütmeyi durdurmaz.",
+      "preview": "Askı süresi içinde koruma amaçlı imar planlarına itiraz edilebilir. İtirazlar idarelere yapılır. İdarece itirazlar en geç otuz gün içinde de…",
+      "kitap": null,
+      "kisim": null,
+      "bolum": "BİRİNCİ BÖLÜM · Amaç, Kapsam, Dayanak ve Tanımlar",
+      "ayirim": null,
+      "maddeBaslik": "Koruma amaçlı imar planına itiraz",
+      "sectionPath": [
+        "BİRİNCİ BÖLÜM · Amaç, Kapsam, Dayanak ve Tanımlar",
+        "Koruma amaçlı imar planına itiraz"
+      ]
+    },
+    {
+      "id": "yonetmelik:9171:m:10",
+      "maddeKind": "madde",
+      "maddeNo": "10",
+      "heading": "Madde 10",
+      "text": "Koruma amaçlı imar planlarının hazırlanmasında uygulanacak gösterimlerde (Değişik ibare:RG-5/1/2017-29939) 3194 sayılı İmar Kanunu ve ilgili mevzuatta belirtilen gösterimlere uyulur. Ancak koruma amaçlı imar planlarının özelliği, verilecek kararların detaylı olması ve her alanın farklı nitelik taşıması nedeniyle, plana özgü gösterim kullanılabilir.\n Plan gösterimi ve plan notlarında yer alan yapılaşma düzeni, yoğunluk ve benzeri konularda tasarım esasları ve uygulama ilkeleri, ulaşım, dolaşım ve açık alan sistemi ile ilgili uygulama esasları, koruma, sağlıklaştırma ve koruyucu yenileme program alan ve projelerinin etaplanma esasları, kentsel tasarım, peyzaj, restorasyon, mimari ve mühendislik projelendirme esasları ve prosedürleri ve benzeri hususlar plan raporunda daha detaylı olarak yazılı ve çizili yer alır.",
+      "preview": "Koruma amaçlı imar planlarının hazırlanmasında uygulanacak gösterimlerde (Değişik ibare:RG-5/1/2017-29939) 3194 sayılı İmar Kanunu ve ilgili…",
+      "kitap": null,
+      "kisim": null,
+      "bolum": "BİRİNCİ BÖLÜM · Amaç, Kapsam, Dayanak ve Tanımlar",
+      "ayirim": null,
+      "maddeBaslik": "Plan raporu ve gösterim",
+      "sectionPath": [
+        "BİRİNCİ BÖLÜM · Amaç, Kapsam, Dayanak ve Tanımlar",
+        "Plan raporu ve gösterim"
+      ]
+    },
+    {
+      "id": "yonetmelik:9171:m:11",
+      "maddeKind": "madde",
+      "maddeNo": "11",
+      "heading": "Madde 11",
+      "text": "(Başlığı ile birlikte değişik:RG-5/1/2017-29939)\n Koruma amaçlı imar planlarında yapılacak değişiklikler, revizyon ve ilaveler de bu Yönetmelikte belirtilen usullere tabidir.\n Ancak koruma amaçlı imar planlarında sit alanının bütününü etkilemeyecek değişiklikler, emsal ve kat adedi artırımı ile alan kullanım kararı dışında kalan parsel ölçeğindeki değişiklikler ve maddi hataların düzeltilmesine yönelik değişikliklerde plan müellifi dışında planlama ekibinin tamamının bulunması şartı aranmaz.\n Koruma bölge kurulunca koruma amaçlı imar planı revizyonu yapılması kararı alınan alanlarda zorunlu nedenler dışında plan değişikliği yapılamaz.\n 5 inci maddeye göre Bakanlık tarafından yaptırılan koruma amaçlı imar planlarında değişiklik, revizyon ve ilave yapılması durumunda Bakanlığın görüşü alınır.\n Koruma amaçlı imar planlarında sit alanının bütününü olumsuz etkileyecek, mevcut korunması gerekli değerleri bozacak ya da yok edecek, geleneksel kentsel doku özelliklerini olumsuz yönde değiştirecek yeni işlev dönüşümlerine ilişkin plan değişikliği yapılamaz.",
+      "preview": "(Başlığı ile birlikte değişik:RG-5/1/2017-29939) Koruma amaçlı imar planlarında yapılacak değişiklikler, revizyon ve ilaveler de bu Yönetmel…",
+      "kitap": null,
+      "kisim": null,
+      "bolum": "BİRİNCİ BÖLÜM · Amaç, Kapsam, Dayanak ve Tanımlar",
+      "ayirim": null,
+      "maddeBaslik": "Koruma amaçlı imar planı değişikliği, revizyonu ve ilaveleri",
+      "sectionPath": [
+        "BİRİNCİ BÖLÜM · Amaç, Kapsam, Dayanak ve Tanımlar",
+        "Koruma amaçlı imar planı değişikliği, revizyonu ve ilaveleri"
+      ]
+    },
+    {
+      "id": "yonetmelik:9171:m:12",
+      "maddeKind": "madde",
+      "maddeNo": "12",
+      "heading": "Madde 12",
+      "text": "Koruma bölge kurulunca sit alanı olarak ilan edilen ören yerlerinde Bakanlıkça düzenlenmesine gerek görülen alanlardır.",
+      "preview": "Koruma bölge kurulunca sit alanı olarak ilan edilen ören yerlerinde Bakanlıkça düzenlenmesine gerek görülen alanlardır.",
+      "kitap": null,
+      "kisim": null,
+      "bolum": "ÜÇÜNCÜ BÖLÜM · Çevre Düzenleme Projelerinin Hazırlanması, Gösterimi, Uygulaması ve Denetimi",
+      "ayirim": null,
+      "maddeBaslik": "Proje alanı",
+      "sectionPath": [
+        "ÜÇÜNCÜ BÖLÜM · Çevre Düzenleme Projelerinin Hazırlanması, Gösterimi, Uygulaması ve Denetimi",
+        "Proje alanı"
+      ]
+    },
+    {
+      "id": "yonetmelik:9171:m:13",
+      "maddeKind": "madde",
+      "maddeNo": "13",
+      "heading": "Madde 13",
+      "text": "Çevre düzenleme projeleri, Bakanlık tarafından doğrudan yapılabilir veya yaptırılabilir.\n Çevre düzenleme projelerinin Bakanlıkça doğrudan yapılması halinde bu Yönetmeliğin Beşinci Bölümündeki; ihale yöntemi ile elde edilmesi durumunda ise bu Yönetmeliğin Altıncı Bölümündeki hükümlere göre çalışmalar yürütülür.\n Ulusal ya da uluslararası ölçekte açılan yarışmalar sonucu elde edilecek çevre düzenleme projelerinde, yarışmayı düzenleyen kurumlar yarışma şartnamelerini, bu Yönetmeliğin Altıncı Bölümünde belirlenen uzmanlık alanlarının yarışma ekibi bünyesinde yer almasını sağlayacak ve ekip başı tanımını bu Yönetmeliğin proje müellifi tanımına uyacak şekilde düzenleyeceklerdir; ancak yarışmaya katılacak olan proje müelliflerinde 24 üncü maddenin (c) ve (d) bentlerindeki koşullar aranmaz.",
+      "preview": "Çevre düzenleme projeleri, Bakanlık tarafından doğrudan yapılabilir veya yaptırılabilir. Çevre düzenleme projelerinin Bakanlıkça doğrudan ya…",
+      "kitap": null,
+      "kisim": null,
+      "bolum": "ÜÇÜNCÜ BÖLÜM · Çevre Düzenleme Projelerinin Hazırlanması, Gösterimi, Uygulaması ve Denetimi",
+      "ayirim": null,
+      "maddeBaslik": "Yetki ve yöntem",
+      "sectionPath": [
+        "ÜÇÜNCÜ BÖLÜM · Çevre Düzenleme Projelerinin Hazırlanması, Gösterimi, Uygulaması ve Denetimi",
+        "Yetki ve yöntem"
+      ]
+    },
+    {
+      "id": "yonetmelik:9171:m:14",
+      "maddeKind": "madde",
+      "maddeNo": "14",
+      "heading": "Madde 14",
+      "text": "Sit alanlarında yer alan ören yerlerinin çevre düzenleme projesinin yapılması için sit alanına ilişkin koruma amaçlı imar planının bulunması esastır.\n Ancak ören yerinde bulunan arkeolojik değerlerin korunması ve değerlendirilmesine ilişkin olarak ivedi önlemlerin alınmasının zorunlu olduğu hallerde koruma amaçlı imar planı olmadan da çevre düzenleme projesi hazırlanabilir. Bu proje koruma amaçlı imar planı ve yönetim planının hazırlanmasında değerlendirilir ve gerekiyorsa koruma amaçlı imar planı ve yönetim planının ana yaklaşımları doğrultusunda yeniden düzenlenir.\n Çevre düzenleme projeleri, ören yerlerinin arkeolojik potansiyelini etkin bir şekilde korumak üzere, mevcut kullanım ve dolaşımdan kaynaklanan sorunların çözümü amacıyla yapım sürecinin genel ilke ve hedefleri, proje belgelerinin içeriği ve biçimi, yapılacak çalışmalarda izlenecek yöntem ve çalışmaların ayrıntılarıyla birlikte Bakanlıkça hazırlanan çevre düzenleme projeleri teknik şartnamesinde belirtilen esaslara uygun olarak hazırlanır. Proje alanının özelliğine göre bu şartnameye ek olarak özel teknik şartname düzenlenebilir.",
+      "preview": "Sit alanlarında yer alan ören yerlerinin çevre düzenleme projesinin yapılması için sit alanına ilişkin koruma amaçlı imar planının bulunması…",
+      "kitap": null,
+      "kisim": null,
+      "bolum": "ÜÇÜNCÜ BÖLÜM · Çevre Düzenleme Projelerinin Hazırlanması, Gösterimi, Uygulaması ve Denetimi",
+      "ayirim": null,
+      "maddeBaslik": "Proje hazırlama esasları",
+      "sectionPath": [
+        "ÜÇÜNCÜ BÖLÜM · Çevre Düzenleme Projelerinin Hazırlanması, Gösterimi, Uygulaması ve Denetimi",
+        "Proje hazırlama esasları"
+      ]
+    },
+    {
+      "id": "yonetmelik:9171:m:15",
+      "maddeKind": "madde",
+      "maddeNo": "15",
+      "heading": "Madde 15",
+      "text": "Çevre düzenleme projelerinin hazırlanmasından sonra bu projeler görüş alınmak üzere koruma bölge kuruluna gönderilir. Koruma bölge kurulu projede değiştirilmesi gerekli hususlar belirlediği takdirde bu hususları kararında belirtir ve gerekli düzenlemelerin yapılmasını Bakanlıktan ister.\n (Değişik fıkra:RG-5/1/2017-29939) Karar doğrultusunda gerekli düzenlemeler yapıldıktan sonra projeler koruma bölge kurulunca yeniden değerlendirilir, koruma bölge kurulunca uygun bulunan projeler Bakanlıkça onaylanır.",
+      "preview": "Çevre düzenleme projelerinin hazırlanmasından sonra bu projeler görüş alınmak üzere koruma bölge kuruluna gönderilir. Koruma bölge kurulu pr…",
+      "kitap": null,
+      "kisim": null,
+      "bolum": "ÜÇÜNCÜ BÖLÜM · Çevre Düzenleme Projelerinin Hazırlanması, Gösterimi, Uygulaması ve Denetimi",
+      "ayirim": null,
+      "maddeBaslik": "Projelerin onaylanması",
+      "sectionPath": [
+        "ÜÇÜNCÜ BÖLÜM · Çevre Düzenleme Projelerinin Hazırlanması, Gösterimi, Uygulaması ve Denetimi",
+        "Projelerin onaylanması"
+      ]
+    },
+    {
+      "id": "yonetmelik:9171:m:16",
+      "maddeKind": "madde",
+      "maddeNo": "16",
+      "heading": "Madde 16",
+      "text": "Çevre düzenleme projelerinde değişiklik yapılması halinde, onaylanmasına ilişkin olarak düzenlenen 15 inci maddedeki süreç uygulanır.",
+      "preview": "Çevre düzenleme projelerinde değişiklik yapılması halinde, onaylanmasına ilişkin olarak düzenlenen 15 inci maddedeki süreç uygulanır.",
+      "kitap": null,
+      "kisim": null,
+      "bolum": "ÜÇÜNCÜ BÖLÜM · Çevre Düzenleme Projelerinin Hazırlanması, Gösterimi, Uygulaması ve Denetimi",
+      "ayirim": null,
+      "maddeBaslik": "Projelerde değişiklik yapılması",
+      "sectionPath": [
+        "ÜÇÜNCÜ BÖLÜM · Çevre Düzenleme Projelerinin Hazırlanması, Gösterimi, Uygulaması ve Denetimi",
+        "Projelerde değişiklik yapılması"
+      ]
+    },
+    {
+      "id": "yonetmelik:9171:m:17",
+      "maddeKind": "madde",
+      "maddeNo": "17",
+      "heading": "Madde 17",
+      "text": "Koruma amaçlı imar planlarının müellifi, şehir plancısı veya şehir ve bölge plancısı veya kent plancısıdır. Planlama ekibinde alanın konumu, sit statüsü ve özellikleri göz önünde bulundurularak mimar, restorasyon konusunda yüksek lisans yapmış mimar, sanat tarihçisi, arkeolog, sosyolog, mühendis, peyzaj mimarı gibi meslek gruplarından yeterli sayıda uzman görev alır.\n Ekipte yer alacak uzmanların 19 uncu maddede belirtilen planlama ekibinde aranacak asgari niteliklere sahip olması gereklidir.",
+      "preview": "Koruma amaçlı imar planlarının müellifi, şehir plancısı veya şehir ve bölge plancısı veya kent plancısıdır. Planlama ekibinde alanın konumu,…",
+      "kitap": null,
+      "kisim": null,
+      "bolum": "DÖRDÜNCÜ BÖLÜM · Koruma Amaçlı İmar Plan Müelliflerinin Yeterliliği ile",
+      "ayirim": null,
+      "maddeBaslik": "Yetki",
+      "sectionPath": [
+        "DÖRDÜNCÜ BÖLÜM · Koruma Amaçlı İmar Plan Müelliflerinin Yeterliliği ile",
+        "Yetki"
+      ]
+    },
+    {
+      "id": "yonetmelik:9171:m:18",
+      "maddeKind": "madde",
+      "maddeNo": "18",
+      "heading": "Madde 18",
+      "text": "Koruma amaçlı imar planı müellifinde asgari aşağıdaki nitelikler aranır:\n a) Asgari dört yıllık lisans eğitimi veren fakülte veya bunlara denkliği yetkili makamlarca kabul edilen yüksek öğretim kurumlarının şehir planlama veya şehir ve bölge planlama bölümünden, şehir plancısı veya şehir ve bölge plancısı veya kent plancısı unvanını alarak mezun olmak,\n b) 17/6/1938 tarihli ve 3458 sayılı Mühendislik ve Mimarlık Hakkında Kanunun 1 inci maddesinde belirlenen niteliklere sahip olmak ve 27/1/1954 tarihli ve 6235 sayılı Türk Mühendis ve Mimar Odaları Birliği Kanununun 33 üncü maddesi uyarınca ilgili meslek odasına kayıtlı olmak,\n c) TMMOB Şehir Plancıları Odasından alınmış büro tescil belgesine sahip olmak,\n d) (Değişik:RG-5/1/2017-29939) Çevre ve Şehircilik Bakanlığınca 7/1/2006 tarihli ve 26046 sayılı Resmî Gazete’de yayımlanan Plân Yapımını Yükümlenecek Müelliflerin Yeterliliği Hakkında Yönetmelik kapsamında verilen imar planı yapımı yeterlilik belgesinden asgari (E) grubu yeterlilik belgesine sahip olmak ve söz konusu Yönetmelik uyarınca o yerleşmenin imar planlarının hazırlanmasında geçerli olan yeterliliğe sahip olmak.\n Koruma amaçlı imar planlarının ihale yöntemi ile elde edilmesi durumunda plan müellifinin yukarıda belirtilen niteliklere sahip olması gerekmektedir.\n Planlama çalışmasını yüklenecek müellif kuruluşların ortaklarından yukarıdaki niteliklere sahip şehir plancısı veya şehir ve bölge plancısı veya kent plancısının asgari % 51 hissesi olmak zorundadır.\n Koruma amaçlı imar planlarının doğrudan idarece yapılması halinde (c) bendinde belirtilen koşullar aranmaz.",
+      "preview": "Koruma amaçlı imar planı müellifinde asgari aşağıdaki nitelikler aranır: a) Asgari dört yıllık lisans eğitimi veren fakülte veya bunlara den…",
+      "kitap": null,
+      "kisim": null,
+      "bolum": "DÖRDÜNCÜ BÖLÜM · Koruma Amaçlı İmar Plan Müelliflerinin Yeterliliği ile",
+      "ayirim": null,
+      "maddeBaslik": "Plan müellifinde aranacak asgari nitelikler",
+      "sectionPath": [
+        "DÖRDÜNCÜ BÖLÜM · Koruma Amaçlı İmar Plan Müelliflerinin Yeterliliği ile",
+        "Plan müellifinde aranacak asgari nitelikler"
+      ]
+    },
+    {
+      "id": "yonetmelik:9171:m:19",
+      "maddeKind": "madde",
+      "maddeNo": "19",
+      "heading": "Madde 19",
+      "text": "(Değişik:RG-5/1/2017-29939)\n Planlama ekibinde yer alacak uzmanların; asgari dört yıllık lisans eğitimi veren fakülte veya bunlara denkliği yetkili makamlarca kabul edilen yüksek öğrenim kurumlarının ilgili bölümlerinden mezun olmaları gerekmektedir.\n Ayrıca ekipte yer alacak mimar, restorasyon konusunda yüksek lisans yapmış mimar, peyzaj mimarı, mühendis ve şehir plancısı veya şehir ve bölge plancısı veya kent plancısının 3458 sayılı Kanunun 1 inci maddesinde belirlenen niteliklere sahip olması ve 6235 sayılı Kanunun 33 üncü maddesi uyarınca ilgili meslek odasına kayıtlı olması gereklidir.\n Müellifler, iş tanımına göre ekiplerinde belli sürelerle ya da sürekli olarak görev yapacak uzmanların isimlerini, özgeçmişlerini ve noterlikçe onaylı muvafakatnamelerini sözleşme aşamasında idareye vermek zorundadırlar.\n Koruma amaçlı imar planı yapımı ekiplerinde plan müellifi dışında asgari;\n a) Kentsel sit alanları için, şehir plancısı veya şehir ve bölge plancısı veya kent plancısı, restorasyon konusunda yüksek lisans yapmış mimar, peyzaj mimarı, sanat tarihçisi, sosyolog,\n b) Arkeolojik sit alanları için, şehir plancısı veya şehir ve bölge plancısı veya kent plancısı, restorasyonkonusunda yüksek lisans yapmış mimar, arkeolog, sosyolog,\n c) Tarihi sit alanları için, şehir plancısı veya şehir ve bölge plancısı veya kent plancısı, mimar, tarihçi, sosyolog,\n d) Sit Alanlarında Kalan Taşınmazların Hazine Taşınmazları ile Değiştirilmesi Hakkında Yönetmelik gereğince yapılması istenen koruma amaçlı imar planlarında, şehir plancısı veya şehir ve bölge plancısı veya kent plancısı, arkeolog,\n bulunması zorunludur.\n Planlama ekibinde yer alacak uzmanların sayısı ile alanının niteliğine göre ihtiyaç duyulabilecek diğer meslek uzmanları idarece belirlenir. Aynı alanda birden fazla türde sit olması halinde planlama ekibi her sit türü için tanımlanan planlama ekibindeki meslek gruplarını içerecek şekilde oluşturulur.",
+      "preview": "(Değişik:RG-5/1/2017-29939) Planlama ekibinde yer alacak uzmanların; asgari dört yıllık lisans eğitimi veren fakülte veya bunlara denkliği y…",
+      "kitap": null,
+      "kisim": null,
+      "bolum": "DÖRDÜNCÜ BÖLÜM · Koruma Amaçlı İmar Plan Müelliflerinin Yeterliliği ile",
+      "ayirim": null,
+      "maddeBaslik": "Planlama ekibinde aranacak asgari nitelikler",
+      "sectionPath": [
+        "DÖRDÜNCÜ BÖLÜM · Koruma Amaçlı İmar Plan Müelliflerinin Yeterliliği ile",
+        "Planlama ekibinde aranacak asgari nitelikler"
+      ]
+    },
+    {
+      "id": "yonetmelik:9171:m:20",
+      "maddeKind": "madde",
+      "maddeNo": "20",
+      "heading": "Madde 20",
+      "text": "Müellifler, yükümlendikleri planlama işinin kapsadığı planlama yapılan alanın sınırları içinde, planlama süresince idare dışında özel kişi veya kuruluşlara müşavirlik yapamaz, proje düzenleyemez, teknik sorumluluk ve fenni mesuliyet üstlenemezler. Ancak, devam eden veya bitmiş olan planlama işine ek yeni bir planlama işi bu hükmün dışındadır.\n Müellif, planlama yapılan alanın sınırları içinde yalnız planlama konusuyla ilgili olarak kamu görevlilerinin tabi olduğu kanuni sınırlamalara, yasaklara ve sorumluluklara tabidir.\n Müellifler ve müellif kuruluşları planlama çalışmalarını yürütürken objektif ve tarafsız davranmak; bilimsel ve teknik verilere göre hareket etmek zorundadırlar.\n Plan kararlarının verilmesinde, hiçbir kişi ve kuruluştan, sözleşme kapsamı dışında herhangi bir ayni veya nakdi menfaat temin edemezler. Böyle bir menfaat temin ettiği tespit edilenler hakkında kanuni işlem yapılır.",
+      "preview": "Müellifler, yükümlendikleri planlama işinin kapsadığı planlama yapılan alanın sınırları içinde, planlama süresince idare dışında özel kişi v…",
+      "kitap": null,
+      "kisim": null,
+      "bolum": "DÖRDÜNCÜ BÖLÜM · Koruma Amaçlı İmar Plan Müelliflerinin Yeterliliği ile",
+      "ayirim": null,
+      "maddeBaslik": "Plan müellifine ait sınırlamalar",
+      "sectionPath": [
+        "DÖRDÜNCÜ BÖLÜM · Koruma Amaçlı İmar Plan Müelliflerinin Yeterliliği ile",
+        "Plan müellifine ait sınırlamalar"
+      ]
+    },
+    {
+      "id": "yonetmelik:9171:m:21",
+      "maddeKind": "madde",
+      "maddeNo": "21",
+      "heading": "Madde 21",
+      "text": "Müellif ve müellif kuruluşlarının yeterlilik belgelerinin sürekli iptali ve süreli ertelenmesinde aşağıdaki hükümlere uyulur.\n a) (Değişik:RG-5/1/2017-29939) Müelliflerin yaptığı planlama işinden dolayı mesleki faaliyetleri ile ilgili konularda hüküm giymiş olması veya 14/6/2014 tarihli ve 29030 sayılı Resmî Gazete’de yayımlanan Mekansal Planlar Yapım Yönetmeliği veya Plan Yapımını Yükümlenecek Müelliflerin Yeterliliği Hakkında Yönetmelik hükümlerine aykırı iş ve işlemlerinin mahkeme kararı ile sabit olması halinde yeterlilik belgeleri sürekli olarak iptal edilir.\n b) Müelliflerin idare ile olan sözleşmelerinin müellifin hatası sebebiyle ayrı ayrı iki işte feshedilmiş olması veya planlama işinde ve aynı aşamada planın yetersizliği sebebiyle iki defa ret ve iade olunduğunun belgelenmiş olması halinde yeterlilik belgeleri bir yıl süre ile askıya alınır.",
+      "preview": "Müellif ve müellif kuruluşlarının yeterlilik belgelerinin sürekli iptali ve süreli ertelenmesinde aşağıdaki hükümlere uyulur. a) (Değişik:RG…",
+      "kitap": null,
+      "kisim": null,
+      "bolum": "DÖRDÜNCÜ BÖLÜM · Koruma Amaçlı İmar Plan Müelliflerinin Yeterliliği ile",
+      "ayirim": null,
+      "maddeBaslik": "Yeterlilik belgesinin sürekli iptali veya süreli ertelenmesi",
+      "sectionPath": [
+        "DÖRDÜNCÜ BÖLÜM · Koruma Amaçlı İmar Plan Müelliflerinin Yeterliliği ile",
+        "Yeterlilik belgesinin sürekli iptali veya süreli ertelenmesi"
+      ]
+    },
+    {
+      "id": "yonetmelik:9171:m:22",
+      "maddeKind": "madde",
+      "maddeNo": "22",
+      "heading": "Madde 22",
+      "text": "(Değişik:RG-5/1/2017-29939)\n İdareler ve koruma bölge kurulları, müellifçe yapılan plan çalışmalarını değerlendirmek ve bu hususta rapor düzenlemekle yükümlüdürler. Bu husus idareler bünyesindeki ilgili birimler ile koruma bölge kurulu müdürlükleri tarafından ayrı ayrı yürütülür. Bu süreçte, hazırlanan planın mevzuata uygunluğu, koruma ve şehircilik ilke ve esasları ile uyumluluğu ve tutarlılığı, plan kararlarının uygulanabilirliği, hizmetin ilgili sözleşme ve teknik şartname esaslarına göre sürdürülüp sürdürülmediği, plan müellifi ve planlama ekibinin bu Yönetmelikte istenilen şartları taşıyıp taşımadığı idarelerce irdelenir.\n Müelliflerle ilgili bu bilgilerin birer kopyaları müelliflerin sicil dosyalarına konulmak üzere Çevre ve Şehircilik Bakanlığına gönderilir.",
+      "preview": "(Değişik:RG-5/1/2017-29939) İdareler ve koruma bölge kurulları, müellifçe yapılan plan çalışmalarını değerlendirmek ve bu hususta rapor düze…",
+      "kitap": null,
+      "kisim": null,
+      "bolum": "DÖRDÜNCÜ BÖLÜM · Koruma Amaçlı İmar Plan Müelliflerinin Yeterliliği ile",
+      "ayirim": null,
+      "maddeBaslik": "Plan müellifinin çalışmalarının değerlendirilmesi",
+      "sectionPath": [
+        "DÖRDÜNCÜ BÖLÜM · Koruma Amaçlı İmar Plan Müelliflerinin Yeterliliği ile",
+        "Plan müellifinin çalışmalarının değerlendirilmesi"
+      ]
+    },
+    {
+      "id": "yonetmelik:9171:m:23",
+      "maddeKind": "madde",
+      "maddeNo": "23",
+      "heading": "Madde 23",
+      "text": "(Değişik:RG-5/1/2017-29939)\n Bakanlıkça hazırlanacak çevre düzenleme projelerinde aşağıda belirtilen meslek gruplarından oluşacak proje ekibinin yürütücüsü, asgari beş yıllık tecrübeye sahip mimar veya peyzaj mimarıdır.\n Çevre düzenleme projelerini hazırlayacak proje ekibinin içerisinde asgari aşağıdaki uzmanların bulunması gerekir:\n a) Alanın niteliğine göre mimar ve/veya restorasyon konusunda yüksek lisans yapmış mimar,\n b) Alanın niteliğine göre sanat tarihçisi ve/veya arkeolog,\n c) Şehir plancısı veya şehir ve bölge plancısı veya kent plancısı,\n d) Peyzaj mimarı,\n Ancak kazı başkanlığı olan alanlarda kazı başkanının uygun görüşü olması durumunda (b) bendindeki şart aranmaz.\n Ayrıca alanın niteliği, sorunları ve potansiyellerinin gerektirmesi halinde diğer meslek gruplarından uzmanlar (jeoloji mühendisi, harita mühendisi, makine mühendisi, elektrik mühendisi ve benzeri) da proje grubunda istihdam edilir.",
+      "preview": "(Değişik:RG-5/1/2017-29939) Bakanlıkça hazırlanacak çevre düzenleme projelerinde aşağıda belirtilen meslek gruplarından oluşacak proje ekibi…",
+      "kitap": null,
+      "kisim": null,
+      "bolum": "BEŞİNCİ BÖLÜM · Bakanlıkça Hazırlanacak Çevre Düzenleme Projelerinde",
+      "ayirim": null,
+      "maddeBaslik": "Proje müellifi ve ekibi",
+      "sectionPath": [
+        "BEŞİNCİ BÖLÜM · Bakanlıkça Hazırlanacak Çevre Düzenleme Projelerinde",
+        "Proje müellifi ve ekibi"
+      ]
+    },
+    {
+      "id": "yonetmelik:9171:m:24",
+      "maddeKind": "madde",
+      "maddeNo": "24",
+      "heading": "Madde 24",
+      "text": "Çevre düzenleme projelerini hazırlayacak mimar veya peyzaj mimarı olan proje müellifinin asgari aşağıdaki niteliklere sahip olması gerekmektedir:\n a) Asgari dört yıllık lisans eğitimi veren yüksek öğretim kurumlarının mimarlık veya peyzaj mimarlığı bölümlerinden mimar veya peyzaj mimarı unvanlarını alarak mezun olmak,\n b) 3458 sayılı Kanunun 1 inci maddesinde belirlenen niteliklere sahip olmak ve 6235 sayılı Kanunun 33 üncü maddesi uyarınca ilgili meslek odasına kayıtlı olmak,\n c) İlgili meslek odalarından alınmış büro tescil belgesine sahip olmak,\n d) İlgili (Değişik ibare:RG-5/1/2017-29939) koruma bölge kurulunca uygun bulunmuş, Kanun kapsamında bulunan alanlarda benzer bir çevre düzenleme projesi işini tamamlamış veya iki çevre düzenleme projesi işini yapan proje ekibinde yer almış olmak veya ulusal veya uluslar arası düzeyde sit alanlarına ilişkin yapılan kentsel tasarım veya çevre düzenleme projeleri yarışmalarında birincilik almış olmak.\n Proje çalışmasını yüklenecek, müellif kuruluşların ortaklarından asgari birisi mimar veya peyzaj mimarı olmak zorundadır.",
+      "preview": "Çevre düzenleme projelerini hazırlayacak mimar veya peyzaj mimarı olan proje müellifinin asgari aşağıdaki niteliklere sahip olması gerekmekt…",
+      "kitap": null,
+      "kisim": null,
+      "bolum": "ALTINCI BÖLÜM · Bakanlıkça Hazırlattırılacak Çevre Düzenleme Projelerinde Görev",
+      "ayirim": null,
+      "maddeBaslik": "Proje müellifinde aranacak asgari nitelikler",
+      "sectionPath": [
+        "ALTINCI BÖLÜM · Bakanlıkça Hazırlattırılacak Çevre Düzenleme Projelerinde Görev",
+        "Proje müellifinde aranacak asgari nitelikler"
+      ]
+    },
+    {
+      "id": "yonetmelik:9171:m:25",
+      "maddeKind": "madde",
+      "maddeNo": "25",
+      "heading": "Madde 25",
+      "text": "(Değişik:RG-5/1/2017-29939)\n Çevre düzenleme projelerinin hazırlanması için oluşturulacak proje ekibinde asgari aşağıdaki uzmanların yer alması zorunludur:\n a) Alanın niteliğine göre mimar ve/veya restorasyon konusunda yüksek lisans yapmış mimar.\n b) Peyzaj mimarı.\n c) Şehir plancısı veya şehir ve bölge plancısı veya kent plancısı.\n d) Alanın niteliğine göre sanat tarihçisi ve/veya arkeolog.\n Ayrıca alanın niteliği, sorunları ve potansiyellerinin gerektirmesi halinde diğer meslek gruplarından uzmanlar (jeoloji mühendisi, harita mühendisi, makine mühendisi, elektrik mühendisi ve benzeri) da proje grubunda istihdam edilir.\n Bu Yönetmelikte tanımlanan meslek gruplarına mensup uzmanların; asgari dört yıllık lisans eğitimi veren fakülte veya bunlara denkliği yetkili makamlarca kabul edilen yüksek öğrenim kurumlarının ilgili bölümlerinden mezun olmaları gerekmektedir.\n Ayrıca ekipte yer alacak mimar, restorasyon konusunda yüksek lisans yapmış mimar, peyzaj mimarı ve mühendislerin, şehir plancısı veya şehir ve bölge plancısı veya kent plancısının 3458 sayılı Kanunun 1 inci maddesinde belirlenen niteliklere sahip olması ve 6235 sayılı Kanunun 33 üncü maddesi uyarınca ilgili meslek odasına kayıtlı olması gereklidir.\n Müellifler iş tanımına göre ekiplerinde belli sürelerle ya da sürekli olarak görev yapacak uzmanların isimlerini, özgeçmişlerini ve noterlikçe onaylı muvafakatnamelerini sözleşme aşamasında idareye vermek zorundadırlar.",
+      "preview": "(Değişik:RG-5/1/2017-29939) Çevre düzenleme projelerinin hazırlanması için oluşturulacak proje ekibinde asgari aşağıdaki uzmanların yer alma…",
+      "kitap": null,
+      "kisim": null,
+      "bolum": "ALTINCI BÖLÜM · Bakanlıkça Hazırlattırılacak Çevre Düzenleme Projelerinde Görev",
+      "ayirim": null,
+      "maddeBaslik": "Proje ekibinde aranacak nitelikler",
+      "sectionPath": [
+        "ALTINCI BÖLÜM · Bakanlıkça Hazırlattırılacak Çevre Düzenleme Projelerinde Görev",
+        "Proje ekibinde aranacak nitelikler"
+      ]
+    },
+    {
+      "id": "yonetmelik:9171:m:26",
+      "maddeKind": "madde",
+      "maddeNo": "26",
+      "heading": "Madde 26",
+      "text": "Proje müellifi ve ekibi, üstlendikleri çevre düzenleme projesi işinin kapsadığı proje alanı sınırları içinde ve proje süresince idare dışında gerçek kişi veya kuruluşlara müşavirlik yapamaz, proje hazırlayamaz, teknik sorumluluk ve fenni mesuliyet üstlenemez. Ancak devam eden veya bitmiş olan proje işine ek yeni bir proje işi bu hükmün dışındadır.\n Müellifler, proje çalışmalarını yürütürken objektif ve tarafsız davranmak, bilimsel ve teknik verilere göre hareket etmek zorundadırlar.",
+      "preview": "Proje müellifi ve ekibi, üstlendikleri çevre düzenleme projesi işinin kapsadığı proje alanı sınırları içinde ve proje süresince idare dışınd…",
+      "kitap": null,
+      "kisim": null,
+      "bolum": "ALTINCI BÖLÜM · Bakanlıkça Hazırlattırılacak Çevre Düzenleme Projelerinde Görev",
+      "ayirim": null,
+      "maddeBaslik": "Proje müellifine ait sınırlamalar",
+      "sectionPath": [
+        "ALTINCI BÖLÜM · Bakanlıkça Hazırlattırılacak Çevre Düzenleme Projelerinde Görev",
+        "Proje müellifine ait sınırlamalar"
+      ]
+    },
+    {
+      "id": "yonetmelik:9171:m:27",
+      "maddeKind": "madde",
+      "maddeNo": "27",
+      "heading": "Madde 27",
+      "text": "Bakanlık ve koruma bölge kurulu müdürlükleri müellifçe yapılan proje çalışmalarını takiple ve bu hususta rapor düzenlemekle yükümlüdürler.",
+      "preview": "Bakanlık ve koruma bölge kurulu müdürlükleri müellifçe yapılan proje çalışmalarını takiple ve bu hususta rapor düzenlemekle yükümlüdürler.",
+      "kitap": null,
+      "kisim": null,
+      "bolum": "ALTINCI BÖLÜM · Bakanlıkça Hazırlattırılacak Çevre Düzenleme Projelerinde Görev",
+      "ayirim": null,
+      "maddeBaslik": "Proje müellifinin çalışmalarının değerlendirilmesi",
+      "sectionPath": [
+        "ALTINCI BÖLÜM · Bakanlıkça Hazırlattırılacak Çevre Düzenleme Projelerinde Görev",
+        "Proje müellifinin çalışmalarının değerlendirilmesi"
+      ]
+    },
+    {
+      "id": "yonetmelik:9171:m:28",
+      "maddeKind": "madde",
+      "maddeNo": "28",
+      "heading": "Madde 28",
+      "text": "Bu Yönetmelikte yer almayan hususlar hakkında 3/5/1985 tarihli ve 3194 sayılı İmar Kanunu ve ilgili mevzuat hükümleri geçerlidir.",
+      "preview": "Bu Yönetmelikte yer almayan hususlar hakkında 3/5/1985 tarihli ve 3194 sayılı İmar Kanunu ve ilgili mevzuat hükümleri geçerlidir.",
+      "kitap": null,
+      "kisim": null,
+      "bolum": "ALTINCI BÖLÜM · Bakanlıkça Hazırlattırılacak Çevre Düzenleme Projelerinde Görev",
+      "ayirim": null,
+      "maddeBaslik": "Hüküm bulunmayan haller",
+      "sectionPath": [
+        "ALTINCI BÖLÜM · Bakanlıkça Hazırlattırılacak Çevre Düzenleme Projelerinde Görev",
+        "Hüküm bulunmayan haller"
+      ]
+    },
+    {
+      "id": "yonetmelik:9171:m:gecici:1",
+      "maddeKind": "gecici",
+      "maddeNo": "1",
+      "heading": "Geçici Madde 1",
+      "text": "(Ek:RG-5/1/2017-29939)\n Bu maddenin yürürlüğe girdiği tarihten önce başlatılan plan ve projeler, bu maddenin yürürlüğe girdiği tarihten önceki Yönetmelik hükümleri uyarınca tamamlanır.",
+      "preview": "(Ek:RG-5/1/2017-29939) Bu maddenin yürürlüğe girdiği tarihten önce başlatılan plan ve projeler, bu maddenin yürürlüğe girdiği tarihten öncek…",
+      "kitap": null,
+      "kisim": null,
+      "bolum": "YEDİNCİ BÖLÜM · Yürürlük ve Yürütme",
+      "ayirim": null,
+      "maddeBaslik": null,
+      "sectionPath": [
+        "YEDİNCİ BÖLÜM · Yürürlük ve Yürütme"
+      ]
+    },
+    {
+      "id": "yonetmelik:9171:m:29",
+      "maddeKind": "madde",
+      "maddeNo": "29",
+      "heading": "Madde 29",
+      "text": "(Değişik:RG-5/1/2017-29939)\n Bu Yönetmelik yayımı tarihinde yürürlüğe girer.",
+      "preview": "(Değişik:RG-5/1/2017-29939) Bu Yönetmelik yayımı tarihinde yürürlüğe girer.",
+      "kitap": null,
+      "kisim": null,
+      "bolum": "YEDİNCİ BÖLÜM · Yürürlük ve Yürütme",
+      "ayirim": null,
+      "maddeBaslik": "Yürürlük",
+      "sectionPath": [
+        "YEDİNCİ BÖLÜM · Yürürlük ve Yürütme",
+        "Yürürlük"
+      ]
+    },
+    {
+      "id": "yonetmelik:9171:m:30",
+      "maddeKind": "madde",
+      "maddeNo": "30",
+      "heading": "Madde 30",
+      "text": "Bu Yönetmelik hükümlerini Kültür ve Turizm Bakanı yürütür.\n\n Yönetmeliğin Yayımlandığı Resmî Gazete’nin\n\n Tarihi\n Sayısı\n\n 26/7/2005\n 25887\n\n Yönetmelikte Değişiklik Yapan Yönetmeliklerin Yayımlandığı Resmî Gazetelerin\n\n Tarihi\n Sayısı\n\n 1\n 5/1/2017\n 29939\n\n 2\n\n 3",
+      "preview": "Bu Yönetmelik hükümlerini Kültür ve Turizm Bakanı yürütür. Yönetmeliğin Yayımlandığı Resmî Gazete’nin Tarihi Sayısı 26/7/2005 25887 Yönetmel…",
+      "kitap": null,
+      "kisim": null,
+      "bolum": "YEDİNCİ BÖLÜM · Yürürlük ve Yürütme",
+      "ayirim": null,
+      "maddeBaslik": "Yürütme",
+      "sectionPath": [
+        "YEDİNCİ BÖLÜM · Yürürlük ve Yürütme",
+        "Yürütme"
+      ]
+    }
+  ]
+}

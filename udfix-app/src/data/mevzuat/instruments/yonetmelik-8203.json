@@ -1,0 +1,631 @@
+{
+  "id": "yonetmelik:8203",
+  "kind": "yonetmelik",
+  "no": "8203",
+  "title": "Adlî ve Önleme Aramaları Yönetmeliği",
+  "shortName": "AramaYön",
+  "aliases": [
+    "AramaYön",
+    "Adlî ve Önleme Aramaları Yönetmeliği",
+    "8203"
+  ],
+  "tur": 7,
+  "tertip": 5,
+  "sourceUrl": "https://www.mevzuat.gov.tr/mevzuat?MevzuatNo=8203&MevzuatTur=7&MevzuatTertip=5",
+  "kabulTarihi": null,
+  "maddeCount": 36,
+  "maddeler": [
+    {
+      "id": "yonetmelik:8203:m:1",
+      "maddeKind": "madde",
+      "maddeNo": "1",
+      "heading": "Madde 1",
+      "text": "Bu Yönetmeliğin amacı, kanunlarla düzenlenen adlî ve önleme aramasına karar verme yetkisi ile aramaların uygulanmasında uyulacak esas ve usulleri göstermektir.",
+      "preview": "Bu Yönetmeliğin amacı, kanunlarla düzenlenen adlî ve önleme aramasına karar verme yetkisi ile aramaların uygulanmasında uyulacak esas ve usu…",
+      "kitap": null,
+      "kisim": null,
+      "bolum": "BİRİNCİ BÖLÜM · Amaç, Kapsam, Dayanak ve Tanımlar",
+      "ayirim": null,
+      "maddeBaslik": "Amaç",
+      "sectionPath": [
+        "BİRİNCİ BÖLÜM · Amaç, Kapsam, Dayanak ve Tanımlar",
+        "Amaç"
+      ]
+    },
+    {
+      "id": "yonetmelik:8203:m:2",
+      "maddeKind": "madde",
+      "maddeNo": "2",
+      "heading": "Madde 2",
+      "text": "Bu Yönetmelik, kolluk tarafından, kişilerin üstlerinin, eşyasının, araçlarının, özel kâğıtlarının, konut, işyeri ve eklentilerinin aranmasında uyulacak esas ve usulleri kapsar.",
+      "preview": "Bu Yönetmelik, kolluk tarafından, kişilerin üstlerinin, eşyasının, araçlarının, özel kâğıtlarının, konut, işyeri ve eklentilerinin aranmasın…",
+      "kitap": null,
+      "kisim": null,
+      "bolum": "BİRİNCİ BÖLÜM · Amaç, Kapsam, Dayanak ve Tanımlar",
+      "ayirim": null,
+      "maddeBaslik": "Kapsam",
+      "sectionPath": [
+        "BİRİNCİ BÖLÜM · Amaç, Kapsam, Dayanak ve Tanımlar",
+        "Kapsam"
+      ]
+    },
+    {
+      "id": "yonetmelik:8203:m:3",
+      "maddeKind": "madde",
+      "maddeNo": "3",
+      "heading": "Madde 3",
+      "text": "Bu Yönetmelik, 4/12/2004 tarihli ve 5271 sayılı Ceza Muhakemesi Kanunu, 4/7/1934 tarihli ve 2559 sayılı Polis Vazife ve Salâhiyet Kanunu, 10/3/1983 tarihli ve 2803 sayılı Jandarma Teşkilât, Görev ve Yetkileri Kanunu, 9/7/1982 tarihli ve 2692 sayılı Sahil Güvenlik Komutanlığı Kanunu, (Değişik ibare:RG-29/4/2016-29698) 21/03/2007 tarihli ve 5607 sayılı Kaçakçılıkla Mücadele Kanunu, 10/6/1949 tarihli ve 5442 sayılı İl İdaresi Kanunu, (Değişik ibare:RG-29/4/2016-29698) 31/03/2011 tarihli ve 6222 sayılı Sporda Şiddet ve Düzensizliğin Önlenmesine Dair Kanun, 10/6/2004 tarihli ve 5188 sayılı Özel Güvenlik Hizmetlerine Dair Kanun, 4/11/2004 tarihli ve 5253 sayılı Dernekler Kanunu, 25/10/1983 tarihli ve 2935 sayılı Olağanüstü Hâl Kanunu, 13/5/1971 tarihli ve 1402 sayılı Sıkıyönetim Kanunu ile 2/7/1993 tarihli ve 485 sayılı Gümrük Müsteşarlığının Teşkilât ve Görevleri Hakkında Kanun Hükmünde Kararname ve diğer ilgili mevzuat hükümlerine göre hazırlanmıştır.",
+      "preview": "Bu Yönetmelik, 4/12/2004 tarihli ve 5271 sayılı Ceza Muhakemesi Kanunu, 4/7/1934 tarihli ve 2559 sayılı Polis Vazife ve Salâhiyet Kanunu, 10…",
+      "kitap": null,
+      "kisim": null,
+      "bolum": "BİRİNCİ BÖLÜM · Amaç, Kapsam, Dayanak ve Tanımlar",
+      "ayirim": null,
+      "maddeBaslik": "Dayanak",
+      "sectionPath": [
+        "BİRİNCİ BÖLÜM · Amaç, Kapsam, Dayanak ve Tanımlar",
+        "Dayanak"
+      ]
+    },
+    {
+      "id": "yonetmelik:8203:m:4",
+      "maddeKind": "madde",
+      "maddeNo": "4",
+      "heading": "Madde 4",
+      "text": "Bu Yönetmelikte geçen deyimlerden;\n Araç: Her türlü nakil vasıta ve taşıtlarını,\n Cumhuriyet savcısı: Yetkili Cumhuriyet savcısını,\n El koyma: Suçun veya tehlikelerin önlenmesi amacıyla veya suçun delili olabileceği veya müsadereye tâbi olduğu için, bir eşya üzerinde, rızası olmamasına rağmen, zilyedin tasarruf yetkisinin kaldırılması işlemini,\n Gece vakti: Güneşin batmasından bir saat sonra başlayan ve doğmasından bir saat evvele kadar devam eden süreyi,\n Gecikmesinde sakınca bulunan hâl:\n a) Adlî aramalar bakımından; derhâl işlem yapılmadığı takdirde suçun iz, eser, emare ve delillerinin kaybolması veya şüphelinin kaçması veya kimliğinin tespit edilememesi ihtimâlinin ortaya çıkması ve gerektiğinde hâkimden karar almak için vakit bulunmaması hâlini,\n b) Önleme aramaları bakımından; derhâl işlem yapılmadığı takdirde, millî güvenlik ve kamu düzeninin, genel sağlık ve genel ahlâkın veya başkalarının hak ve hürriyetlerinin korunmasının tehlikeye girmesi veya zarar görmesi, suç işlenmesinin önlenememesi, taşınması veya bulundurulması yasak olan her türlü silâh, patlayıcı madde veya eşyanın tespit edilememesi ihtimâlinin ortaya çıkması ve gerektiğinde hâkimden karar almak için vakit bulunmaması hâlini,\n Hâkim: Yetkili sulh ceza hâkimini veya hâkimi,\n Kolluk: Jandarma, polis, sahil güvenlik ve gümrük muhafaza görevlilerini,\n Kolluk âmiri: Konuyla ilgili yetkili ve görevli olan kolluk biriminin âmirini,\n Koruma altına alma: Suçun veya tehlikelerin önlenmesi ya da delil olabilecek veya müsadereye tâbi olan yahut güvenliğin sağlanması amacıyla, eşyayı zilyedinin kendiliğinden vermesini veya el konulana kadar geçici olarak alıkoymayı,\n Mülkî âmir: İllerde vali veya bu konuda yetkilendirdiği yardımcısını, ilçelerde kaymakamı,\n Özel güvenlik görevlisi: 5188 sayılı Özel Güvenlik Hizmetlerine Dair Kanuna göre valiliklerce çalışma izni verilen, 26/9/2004 tarihli ve 5237 sayılı Türk Ceza Kanununun uygulanmasında kamu görevlisi sayılan ve görev alanlarında yetkili olan kişileri,\n Suçüstü:\n a) İşlenmekte olan suçu,\n b) Henüz işlenmiş olan fiil ile fiilin işlenmesinden hemen sonra kolluk, suçtan zarar gören veya başkaları tarafından takip edilerek yakalanan kişinin işlediği suçu,\n c) Fiilin pek az önce işlendiğini gösteren eşya veya delille yakalanan kimsenin işlediği suçu,\n ifade eder.",
+      "preview": "Bu Yönetmelikte geçen deyimlerden; Araç: Her türlü nakil vasıta ve taşıtlarını, Cumhuriyet savcısı: Yetkili Cumhuriyet savcısını, El koyma:…",
+      "kitap": null,
+      "kisim": null,
+      "bolum": "BİRİNCİ BÖLÜM · Amaç, Kapsam, Dayanak ve Tanımlar",
+      "ayirim": null,
+      "maddeBaslik": "Tanımlar",
+      "sectionPath": [
+        "BİRİNCİ BÖLÜM · Amaç, Kapsam, Dayanak ve Tanımlar",
+        "Tanımlar"
+      ]
+    },
+    {
+      "id": "yonetmelik:8203:m:5",
+      "maddeKind": "madde",
+      "maddeNo": "5",
+      "heading": "Madde 5",
+      "text": "Adlî arama, bir suç işlemek veya buna iştirak veyahut yataklık etmek makul şüphesi altında bulunan kimsenin, saklananın, şüphelinin, sanığın veya hükümlünün yakalanması ve suçun iz, eser, emare veya delillerinin elde edilmesi için bir kimsenin özel hayatının ve aile hayatının gizliliğinin sınırlandırılarak konutunda, işyerinde, kendisine ait diğer yerlerde, üzerinde, özel kâğıtlarında, eşyasında, aracında 5271 sayılı Ceza Muhakemesi Kanunu ile diğer kanunlara göre yapılan araştırma işlemidir.",
+      "preview": "Adlî arama, bir suç işlemek veya buna iştirak veyahut yataklık etmek makul şüphesi altında bulunan kimsenin, saklananın, şüphelinin, sanığın…",
+      "kitap": null,
+      "kisim": null,
+      "bolum": "İKİNCİ BÖLÜM · Adlî Arama",
+      "ayirim": null,
+      "maddeBaslik": "Adlî arama ve kapsamı",
+      "sectionPath": [
+        "İKİNCİ BÖLÜM · Adlî Arama",
+        "Adlî arama ve kapsamı"
+      ]
+    },
+    {
+      "id": "yonetmelik:8203:m:6",
+      "maddeKind": "madde",
+      "maddeNo": "6",
+      "heading": "Madde 6",
+      "text": "Makul şüphe, hayatın akışına göre somut olaylar karşısında genellikle duyulan şüphedir.\n Makul şüphe, aramanın yapılacağı zaman, yer ve ilgili kişinin veya onunla birlikte olanların davranış tutum ve biçimleri, kolluk memurunun taşındığından şüphe ettiği eşyanın niteliği gibi sebepler göz önünde tutularak belirlenir.\n Makul şüphede, ihbar veya şikâyeti destekleyen emarelerin var olması gerekir.\n Belirtilen konularda şüphenin somut olgulara dayanması şarttır.\n Arama sonunda belirli bir şeyin bulunacağını veya belirli bir kişinin yakalanacağını öngörmeyi gerektiren somut olgular mevcut bulunmalıdır.",
+      "preview": "Makul şüphe, hayatın akışına göre somut olaylar karşısında genellikle duyulan şüphedir. Makul şüphe, aramanın yapılacağı zaman, yer ve ilgil…",
+      "kitap": null,
+      "kisim": null,
+      "bolum": "İKİNCİ BÖLÜM · Adlî Arama",
+      "ayirim": null,
+      "maddeBaslik": "Makul şüphe",
+      "sectionPath": [
+        "İKİNCİ BÖLÜM · Adlî Arama",
+        "Makul şüphe"
+      ]
+    },
+    {
+      "id": "yonetmelik:8203:m:7",
+      "maddeKind": "madde",
+      "maddeNo": "7",
+      "heading": "Madde 7",
+      "text": "Adlî aramaya karar vermek yetkisi hâkimindir. Kolluk, arama kararı alınmasını talep ettiği durumlarda, makul şüphe sebeplerini belirten ayrıntılı ve gerekçeli bir rapor hazırlar ve Cumhuriyet savcısına başvurur.\n Hâkim kararı veya gecikmesinde sakınca bulunan hâllerde Cumhuriyet savcısının, Cumhuriyet savcısına ulaşılamadığı hâllerde ise kolluk âmirinin yazılı emriyle arama yapılabilir.\n Cumhuriyet savcısına ulaşılamayan hâllerde kolluk âmirinin yazılı emriyle gerçekleştirilen arama ve elkoyma işlemi üzerine; ilgili kolluk görevlilerince neden Cumhuriyet savcısına ulaşılamadığı, Cumhuriyet savcısının hangi vasıtalarla arandığını belirten ayrıntılı tutanak düzenlenerek ilgili soruşturma evrakına eklenir.\n Kolluk âmirlerince konutta, iş yerinde ve kamuya açık olmayan kapalı alanlarda arama kararı verilemez. Sayılan bu yerlerde arama ancak hâkim kararı veya gecikmesinde sakınca bulunan hâllerde Cumhuriyet savcısının yazılı emriyle yapılabilir. (Mülga cümle:RG-29/4/2016-29698) (...)\n Kolluk âmirinin yazılı emriyle yapılan arama ve sonuçları Cumhuriyet başsavcılığına derhâl bildirilir.\n Cumhuriyet savcısına ulaşılamayan hâllerde ise kolluk âmirinin yazılı emriyle konut, iş yeri ve kamuya açık olmayan kapalı alanlar dışında arama yapılabilir.\n Arama talep, karar veya emrinde;\n a) Aramanın nedenini oluşturan fiil,\n b) Aranılacak kişi, aramanın yapılacağı konut veya diğer yerin adresi ya da eşya,\n c) Karar veya emrin geçerli olacağı zaman süresi,\n d) Aranılacak eşyanın elde edilmesi hâlinde el konulup konulmayacağı,\n açıkça gösterilir.\n Cumhuriyet başsavcılıklarınca, arama ile ilgili kararları vermek üzere, yirmidört saat süreyle nöbetçi Cumhuriyet savcısı görevlendirilir.",
+      "preview": "Adlî aramaya karar vermek yetkisi hâkimindir. Kolluk, arama kararı alınmasını talep ettiği durumlarda, makul şüphe sebeplerini belirten ayrı…",
+      "kitap": null,
+      "kisim": null,
+      "bolum": "İKİNCİ BÖLÜM · Adlî Arama",
+      "ayirim": null,
+      "maddeBaslik": "Adlî aramalarda karar ve emir verme yetkisi",
+      "sectionPath": [
+        "İKİNCİ BÖLÜM · Adlî Arama",
+        "Adlî aramalarda karar ve emir verme yetkisi"
+      ]
+    },
+    {
+      "id": "yonetmelik:8203:m:8",
+      "maddeKind": "madde",
+      "maddeNo": "8",
+      "heading": "Madde 8",
+      "text": "Aşağıdaki hâllerde ayrıca bir arama emri ya da kararı aranmaz:\n a) Hakkında tutuklama kararı veya yakalama emri veya zorla getirme kararı bulunan kişi ile hakkında gıyabî tutuklama kararı verilen kaçak yakalandığında üstünde, yakalanması amacıyla konutunda, işyerinde, yerleşim yerinde, bunların eklentilerinde ve aracında yapılacak aramada,1\n b) Hâkim kararı veya Cumhuriyet savcısının yazılı emri ile veya kolluk tarafından doğrudan yakalanan kişinin, kendisine, başkalarına veya yakalama işlemini yapan kolluk görevlilerine zarar vermesini önlemek amacıyla yapılacak kaba üst aramasında,\n c) Gözaltına alınan kişinin, nezarethaneye konmadan önce yapılan üst aramasında,\n d) Herhangi bir sebeple hukuka uygun şekilde yakalandıktan sonra kolluk güçlerinin elinden kaçmakta olan kişilerin veya işlenmekte olan veya henüz işlenmiş olan veya pek az önce işlendiğini gösteren belirtilerin olduğu suçun failinin yakalanması amacıyla takibi sırasında girdikleri araç, bina ve eklentilerinde yakalanması amacıyla yapılacak aramalarda,\n e) (Değişik:RG-29/4/2016-29698) 1) 5607 sayılı Kaçakçılıkla Mücadele Kanununun 9 uncu maddesinin ikinci fıkrası kapsamında gümrük salonları ve gümrük kapılarında kaçak eşya sakladığından kuşkulanılan kişilerin üzeri, eşyası, yükleri ve araçlarının gümrük kontrolü amacıyla gümrük görevlilerince aranmasında,\n 2) 5607 sayılı Kaçakçılıkla Mücadele Kanununun 9 uncu maddesinin üçüncü fıkrası kapsamında Gümrük Kanunu gereğince belirlenen kapı ve yollardan başka yerlerden girilmesi, çıkılması ve geçilmesi yasak olan gümrük bölgesinde rastlanacak kişi ve her nevi taşıma araçlarının yetkili memurlar tarafından durdurularak bu kişilerin eşya, yük ve üzerleri ile varsa taşıma araçlarının aranmasında,\n f) 5237 sayılı Türk Ceza Kanununun 24 üncü maddesindeki kanunun hükmü ve âmirin emrini yerine getirme, 25 inci maddesindeki meşru savunma ve zorunluluk hâli ve 26 ncı maddesindeki hakkın kullanılması ve ilgilinin rızası ile diğer kanunların öngördüğü hukuka uygunluk sebepleri ve suçüstü hâlinde yapılan aramalarda, toplum için veya kişiler bakımından hayatî tehlikeyi ortadan kaldırmak amacıyla veya kapalı yerlerden gelen yardım çağrıları üzerine, konut, işyeri ve yerleşim yeri ile eklentilerine girmek için.1",
+      "preview": "Aşağıdaki hâllerde ayrıca bir arama emri ya da kararı aranmaz: a) Hakkında tutuklama kararı veya yakalama emri veya zorla getirme kararı bul…",
+      "kitap": null,
+      "kisim": null,
+      "bolum": "İKİNCİ BÖLÜM · Adlî Arama",
+      "ayirim": null,
+      "maddeBaslik": "Karar alınmadan yapılacak arama1",
+      "sectionPath": [
+        "İKİNCİ BÖLÜM · Adlî Arama",
+        "Karar alınmadan yapılacak arama1"
+      ]
+    },
+    {
+      "id": "yonetmelik:8203:m:9",
+      "maddeKind": "madde",
+      "maddeNo": "9",
+      "heading": "Madde 9",
+      "text": "Suç işlenen yerlerde, sebep ve sonuç ilişkisini ortaya koyacak delillerin aranması, bulunması ve el koyulması için geliştirilmiş bilimsel ve teknik araştırma işlemlerinin, herkesin girip çıkabileceği kamuya açık alanlarda yapılması için bir emir veya karar gerekmez.\n Birinci fıkrada belirtilen yerler dışındaki olay yeri inceleme işlemleri, 7 nci madde uyarınca hâkim veya gecikmesinde sakınca bulunan hâllerde de Cumhuriyet savcısının, Cumhuriyet savcısına ulaşılamadığı hâllerde ise konut, işyeri ve kamuya açık olmayan kapalı alanlar dışındaki yerlerde kolluk âmirinin yazılı emri üzerine gerçekleştirilir.",
+      "preview": "Suç işlenen yerlerde, sebep ve sonuç ilişkisini ortaya koyacak delillerin aranması, bulunması ve el koyulması için geliştirilmiş bilimsel ve…",
+      "kitap": null,
+      "kisim": null,
+      "bolum": "İKİNCİ BÖLÜM · Adlî Arama",
+      "ayirim": null,
+      "maddeBaslik": "Olay yeri inceleme",
+      "sectionPath": [
+        "İKİNCİ BÖLÜM · Adlî Arama",
+        "Olay yeri inceleme"
+      ]
+    },
+    {
+      "id": "yonetmelik:8203:m:10",
+      "maddeKind": "madde",
+      "maddeNo": "10",
+      "heading": "Madde 10",
+      "text": "Usulüne uygun yapılan aramada;\n a) Yapılmakta olan soruşturma veya kovuşturmayla ilgisi olmakla birlikte, karar veya yazılı emirde konu edilmeyen,\n b) Yapılmakta olan soruşturma veya kovuşturmayla ilgisi olmayan ancak, diğer bir suçun işlendiği şüphesini uyandırabilecek,\n bir delil elde edilirse; bu delil koruma altına alınır ve durum Cumhuriyet başsavcılığına derhâl bildirilerek el koyma işlemini gerçekleştirmek için Cumhuriyet savcısından yeni bir yazılı emir istenir. Cumhuriyet savcısına ulaşılamadığı hâllerde ise kolluk âmirinin yazılı emriyle kolluk görevlileri elkoyma işlemini gerçekleştirebilir.\n Hâkim kararı olmaksızın elkoyma işlemi, yirmidört saat içinde görevli hâkimin onayına sunulur. Hâkim, kararını elkoymadan itibaren kırksekiz saat içinde açıklar; aksi hâlde elkoyma kendiliğinden kalkar.\n Bu tür aramada, aramanın amacı ve konusu dışında ele geçirilen ve haklarında tutuklama veya yakalama kararı bulunan kişiler, evrakıyla birlikte Cumhuriyet başsavcılığına sevk edilir.",
+      "preview": "Usulüne uygun yapılan aramada; a) Yapılmakta olan soruşturma veya kovuşturmayla ilgisi olmakla birlikte, karar veya yazılı emirde konu edilm…",
+      "kitap": null,
+      "kisim": null,
+      "bolum": "İKİNCİ BÖLÜM · Adlî Arama",
+      "ayirim": null,
+      "maddeBaslik": "Aramada emir ya da karar kapsamı dışında elde edilen bulgular ve ele geçirilen kişiler",
+      "sectionPath": [
+        "İKİNCİ BÖLÜM · Adlî Arama",
+        "Aramada emir ya da karar kapsamı dışında elde edilen bulgular ve ele geçirilen kişiler"
+      ]
+    },
+    {
+      "id": "yonetmelik:8203:m:11",
+      "maddeKind": "madde",
+      "maddeNo": "11",
+      "heading": "Madde 11",
+      "text": "Adlî arama işlemi bir tutanağa bağlanır.\n Tutanakta;\n a) Arama kararının tarih ve sayısı, hâkim kararı yoksa verilmiş olan yazılı emrin tarih ve sayısı ile emri veren merci,\n b) Aramanın yapıldığı yer, tarih ve saat,\n c) Aramanın konusu,\n d) Aranan kişinin kimlik bilgileri, adını söylemediği takdirde eşkâl bilgileri,\n e) Araçta, konutta, işyeri ve eklentilerinde arama yapılmışsa, aracın plaka numarası, markası, konutun, işyerinin ve eklentilerinin açık adresi, su üstü aracının aranmasında su üstü aracının cinsi, ismi, sahibi ve kullananı, deniz aracının aranması hâlinde ise deniz aracının cinsi, ismi, donatanı, bağlama limanı, tonajı, acentesi, kaptanı ve arama mevkiî,\n f) Aramanın sonuçları, el konulan suç eşyasına ilişkin belirleyici bilgiler,\n g) Aramada yakalanan kişiler varsa kimlik bilgileri, kimliği belirlenemiyorsa eşkâl bilgileri,\n h) Arama sonucunda yaralanma veya maddî bir zarar meydana gelip gelmediği,\n i) Arama işlemini yapanların adı, soyadı, sicili ve unvanı,\n hususları yer alır.\n Tutanak arama işlemine katılmış olanlar ve hazır bulunanlarca imzalanır. Tutanağın bir sureti ilgiliye verilir.\n (Değişik fıkra:RG-29/4/2016-29698) Kaçakçılık suçlarıyla ilgili tutanaklar, 5607 sayılı Kaçakçılıkla Mücadele Kanununun 11 ve 20 nci maddelerine göre tanzim edilir.",
+      "preview": "Adlî arama işlemi bir tutanağa bağlanır. Tutanakta; a) Arama kararının tarih ve sayısı, hâkim kararı yoksa verilmiş olan yazılı emrin tarih…",
+      "kitap": null,
+      "kisim": null,
+      "bolum": "İKİNCİ BÖLÜM · Adlî Arama",
+      "ayirim": null,
+      "maddeBaslik": "Adlî arama tutanağı",
+      "sectionPath": [
+        "İKİNCİ BÖLÜM · Adlî Arama",
+        "Adlî arama tutanağı"
+      ]
+    },
+    {
+      "id": "yonetmelik:8203:m:12",
+      "maddeKind": "madde",
+      "maddeNo": "12",
+      "heading": "Madde 12",
+      "text": "7 nci maddeye göre yapılacak arama sonunda, hakkında arama işlemi uygulanan kişiye talebi hâlinde;\n a) Aramanın,\n 1) Şüpheli veya sanık olması ve yakalanabileceği veya suç delillerinin elde edilebileceği hususunda makul şüphe bulunması sebebiyle mi,\n 2) Şüphelinin veya sanığın yakalanabilmesi veya suç delillerinin elde edilebilmesi amacıyla mı,\n yapıldığını,\n b) Yakalanabileceği veya suç delillerinin elde edilebileceği hususunda makul şüphe bulunan şüphelinin veya sanığın üstünün, eşyasının, konutunun, işyerinin veya ona ait diğer yerlerin aranması hâlinde, soruşturma veya kovuşturma konusu fiilin niteliğini,\n c) Aramada el konulan veya koruma altına alınan eşyanın listesini,\n d) Aramada şüpheyi haklı kılan bir şey elde edilmemiş ise bunu,\n e) Hakkında arama işlemi uygulanan kimsenin, el konulan eşyanın mülkiyetine ilişkin görüş ve iddialarını,\n içeren belge veya belgeler verilir.\n Koruma altına alınan veya el konulan eşyanın tam bir listesi yapılarak resmî mühürle mühürlenir. Bu eşyanın resmî mühürle mühürlendiğine dair tutanak tanzim edilerek, bir sureti ilgilisine verilir.",
+      "preview": "7 nci maddeye göre yapılacak arama sonunda, hakkında arama işlemi uygulanan kişiye talebi hâlinde; a) Aramanın, 1) Şüpheli veya sanık olması…",
+      "kitap": null,
+      "kisim": null,
+      "bolum": "İKİNCİ BÖLÜM · Adlî Arama",
+      "ayirim": null,
+      "maddeBaslik": "Arama sonunda talep hâlinde verilecek belge",
+      "sectionPath": [
+        "İKİNCİ BÖLÜM · Adlî Arama",
+        "Arama sonunda talep hâlinde verilecek belge"
+      ]
+    },
+    {
+      "id": "yonetmelik:8203:m:13",
+      "maddeKind": "madde",
+      "maddeNo": "13",
+      "heading": "Madde 13",
+      "text": "Cumhuriyet savcısı hazır olmaksızın avukat bürolarında arama yapılamaz.\n Avukat büroları ancak mahkeme kararı ile ve kararda belirtilen olayla ilgili olarak Cumhuriyet savcısının denetiminde aranabilir. Baro başkanı veya onu temsil eden bir avukat aramada hazır bulundurulur.\n Arama sonucu elkonulmasına karar verilen şeyler bakımından bürosunda arama yapılan avukat, baro başkanı veya onu temsil eden avukat, bunların avukat ile müvekkili arasındaki meslekî ilişkiye ait olduğunu öne sürerek karşı koyduğunda, bu şey ayrı bir zarf veya paket içerisine konularak hazır bulunanlarca mühürlenir ve bu konuda gerekli kararı vermesi, soruşturma evresinde sulh ceza hâkiminden, kovuşturma evresinde hâkim veya mahkemeden istenir. Yetkili hâkim elkonulan şeyin avukatla müvekkili arasında meslekî ilişkiye ait olduğunu tespit ettiğinde, elkonulan şey derhâl avukata iade edilir ve yapılan işlemi belirten tutanaklar ortadan kaldırılır. Bu fıkrada öngörülen kararlar yirmidört saat içinde verilir.\n Postada el koyma durumunda bürosunda arama yapılan avukat veya baro başkanı veya onu temsil eden avukatın karşı koyması üzerine üçüncü fıkrada belirtilen usuller uygulanır.",
+      "preview": "Cumhuriyet savcısı hazır olmaksızın avukat bürolarında arama yapılamaz. Avukat büroları ancak mahkeme kararı ile ve kararda belirtilen olayl…",
+      "kitap": null,
+      "kisim": null,
+      "bolum": "İKİNCİ BÖLÜM · Adlî Arama",
+      "ayirim": null,
+      "maddeBaslik": "Avukat bürolarında arama",
+      "sectionPath": [
+        "İKİNCİ BÖLÜM · Adlî Arama",
+        "Avukat bürolarında arama"
+      ]
+    },
+    {
+      "id": "yonetmelik:8203:m:14",
+      "maddeKind": "madde",
+      "maddeNo": "14",
+      "heading": "Madde 14",
+      "text": "Askerî mahallerde yapılacak arama Cumhuriyet savcısının talep ve katılımı ile askerî makamlar tarafından yerine getirilir.",
+      "preview": "Askerî mahallerde yapılacak arama Cumhuriyet savcısının talep ve katılımı ile askerî makamlar tarafından yerine getirilir.",
+      "kitap": null,
+      "kisim": null,
+      "bolum": "İKİNCİ BÖLÜM · Adlî Arama",
+      "ayirim": null,
+      "maddeBaslik": "Askerî mahallerde yapılacak arama",
+      "sectionPath": [
+        "İKİNCİ BÖLÜM · Adlî Arama",
+        "Askerî mahallerde yapılacak arama"
+      ]
+    },
+    {
+      "id": "yonetmelik:8203:m:15",
+      "maddeKind": "madde",
+      "maddeNo": "15",
+      "heading": "Madde 15",
+      "text": "Arama sonucunda bazı eşyaya elkoyma söz konusu olduğunda, hâkim kararı veya gecikmesinde sakınca bulunan hâllerde Cumhuriyet savcısının, Cumhuriyet savcısına ulaşılamadığı hâllerde ise kolluk âmirinin yazılı emri ile elkoyma işlemi gerçekleştirilebilir.\n İspat aracı olarak yararlı görülen ya da eşya veya kazanç müsaderesinin konusunu oluşturan malvarlığı değerleri, koruma altına alınır.\n Yanında bulunduran kişinin rızasıyla teslim etmediği bu tür eşyaya elkonulabilir.\n Yukarıda yazılı eşya veya diğer malvarlığı değerlerini yanında bulunduran kişi, talep üzerine bu şeyi göstermek ve teslim etmekle yükümlüdür.\n Evsafı belirlenen eşyanın kollukça bulunamaması ve zilyedinin de teslimden kaçınması hâlinde, şüpheli veya sanık ya da tanıklıktan çekinebilecekler dışındaki zilyet hakkında 5271 sayılı Ceza Muhakemesi Kanununun 60 ıncı maddesinde yer alan disiplin hapsine ilişkin hükümlerin uygulanması amacıyla durum Cumhuriyet başsavcılığına bildirilir.",
+      "preview": "Arama sonucunda bazı eşyaya elkoyma söz konusu olduğunda, hâkim kararı veya gecikmesinde sakınca bulunan hâllerde Cumhuriyet savcısının, Cum…",
+      "kitap": null,
+      "kisim": null,
+      "bolum": "İKİNCİ BÖLÜM · Adlî Arama",
+      "ayirim": null,
+      "maddeBaslik": "Elkoyma, koruma altına alma",
+      "sectionPath": [
+        "İKİNCİ BÖLÜM · Adlî Arama",
+        "Elkoyma, koruma altına alma"
+      ]
+    },
+    {
+      "id": "yonetmelik:8203:m:16",
+      "maddeKind": "madde",
+      "maddeNo": "16",
+      "heading": "Madde 16",
+      "text": "Hakkında arama işlemi uygulanan kimsenin belge veya kâğıtlarını inceleme yetkisi, Cumhuriyet savcısı ve hâkime aittir.\n Kolluk, arama sırasında ele geçen belge veya kağıtlara, suçla ilgisi olup olmadığını tespit amacıyla, incelemeksizin bakabilir. Suçla ilgisi olabileceğinden şüphelendiği anda Kanunun öngördüğü şekilde incelenecek belge ve kâğıtları ambalajlayarak mühürler.\n Belge ve kâğıtların zilyedi veya temsilcisi kendi mührünü de koyabilir veya imzasını atabilir. İleride mührün kaldırılmasına ve kâğıtların incelenmesine karar verildiğinde bu işlemin yapılmasında hazır bulunmak üzere, zilyedi veya temsilcisi ya da müdafiî veya vekili çağrılır.\n İnceleme sonucu soruşturma veya kovuşturma konusu suça ilişkin olmadığı anlaşılan belge veya kâğıtlar ilgilisine geri verilir.\n Şüpheli veya sanık ile 5271 sayılı Ceza Muhakemesi Kanununun 45 ve 46 ncı maddelerine göre tanıklıktan çekinebilecek kimseler arasındaki mektuplara ve belgelere; bu kimselerin nezdinde bulundukça elkonulamaz.",
+      "preview": "Hakkında arama işlemi uygulanan kimsenin belge veya kâğıtlarını inceleme yetkisi, Cumhuriyet savcısı ve hâkime aittir. Kolluk, arama sırasın…",
+      "kitap": null,
+      "kisim": null,
+      "bolum": "İKİNCİ BÖLÜM · Adlî Arama",
+      "ayirim": null,
+      "maddeBaslik": "Aramada ele geçen belge ve kâğıtlar hakkında yapılacaklar",
+      "sectionPath": [
+        "İKİNCİ BÖLÜM · Adlî Arama",
+        "Aramada ele geçen belge ve kâğıtlar hakkında yapılacaklar"
+      ]
+    },
+    {
+      "id": "yonetmelik:8203:m:17",
+      "maddeKind": "madde",
+      "maddeNo": "17",
+      "heading": "Madde 17",
+      "text": "(Danıştay İDDK’nın 23/1/2025 tarihli ve YD İtiraz No: 2024/629 sayılı kararıyla yürütmesi durdurulan fıkra: Bir suç dolayısıyla yapılan soruşturmada, başka surette delil elde etme imkânının bulunmaması hâlinde, Cumhuriyet savcısının istemi üzerine şüphelinin kullandığı bilgisayar ve bilgisayar programları ile bilgisayar kütüklerinde arama yapılmasına, bilgisayar kayıtlarından kopya çıkarılmasına, bu kayıtların çözülerek metin hâline getirilmesine hâkim tarafından karar verilir.)\n Bilgisayar, bilgisayar programları ve bilgisayar kütüklerine şifrenin çözülememesinden dolayı girilememesi veya gizlenmiş bilgilere ulaşılamaması hâlinde çözümün yapılabilmesi ve gerekli kopyaların alınabilmesi için, bu araç ve gereçlere elkonulabilir. Şifrenin çözümünün yapılması ve gerekli kopyaların alınması hâlinde, elkonulan cihazlar gecikme olmaksızın iade edilir.\n Bilgisayar veya bilgisayar kütüklerine elkoyma işlemi sırasında, sistemdeki bütün verilerin yedeklemesi yapılır. Bu işlem, bilgisayar ağları ve diğer uzak bilgisayar kütükleri ile çıkarılabilir donanımları hakkında da uygulanır.\n (Değişik ibare:RG-29/4/2016-29698) Üçüncü fıkraya göre alınan yedekten elektronik ortamda bir kopya çıkarılarak şüpheliye veya vekiline verilir ve bu husus tutanağa geçirilerek imza altına alınır.\n Bilgisayar veya bilgisayar kütüklerine elkoymaksızın da, sistemdeki verilerin tamamının veya bir kısmının kopyası alınabilir. Kopyası alınan verilerin mahiyeti hakkında tutanak tanzim edilir ve ilgililer tarafından imza altına alınır. Bu tutanağın bir sureti de ilgiliye verilir.",
+      "preview": "(Danıştay İDDK’nın 23/1/2025 tarihli ve YD İtiraz No: 2024/629 sayılı kararıyla yürütmesi durdurulan fıkra: Bir suç dolayısıyla yapılan soru…",
+      "kitap": null,
+      "kisim": null,
+      "bolum": "İKİNCİ BÖLÜM · Adlî Arama",
+      "ayirim": null,
+      "maddeBaslik": "Bilgisayarlarda, bilgisayar programlarında ve kütüklerinde arama, kopyalama ve elkoyma",
+      "sectionPath": [
+        "İKİNCİ BÖLÜM · Adlî Arama",
+        "Bilgisayarlarda, bilgisayar programlarında ve kütüklerinde arama, kopyalama ve elkoyma"
+      ]
+    },
+    {
+      "id": "yonetmelik:8203:m:18",
+      "maddeKind": "madde",
+      "maddeNo": "18",
+      "heading": "Madde 18",
+      "text": "Aşağıda belirtilen denetimler şartları oluştuğunda kolluk tarafından kendiliğinden yapılabilir:\n a) Umuma açık istirahat ve eğlence yeri sayılan, kişilerin tek tek veya toplu olarak eğlenmesi, dinlenmesi veya konaklaması için açılan otel, motel, pansiyon, kamping ve benzeri konaklama yerleri; gazino, pavyon, meyhane, bar, birahane, içkili lokanta, taverna ve benzeri içkili yerler; sinema, kahvehane ve kıraathane; kumar ve kazanç kastı olmamak şartıyla adı ne olursa olsun bilgi ve maharet artırıcı veya zekâ geliştirici nitelikteki elektronik oyun alet ve makinelerinin, video ve televizyon oyunlarının içerisinde bulunduğu elektronik oyun yerleri; internet kafeler ve benzeri yerler ile sabit veya seyyar olarak kullanılan kara, deniz, hava ve her çeşit taşıma araçlarındaki bu tür yerlerin genel güvenlik ve asayiş yönünden denetimi,\n b) Kumar oynanan umumî ve umuma açık yerler ile her çeşit özel ve resmî kurum ve kuruluşlara ait lokaller, mevzuata aykırı bir şekilde uyuşturucu madde imal edilen, satılan, kullanılan, bulundurulan yerler, mevzuata aykırı faaliyet gösteren genelevler, birleşme yerleri ve fuhuş yapılan evler ve yerler, Devletin ülkesi ve milletiyle bölünmez bütünlüğüne, Anayasal düzenine, genel güvenliğe ve genel ahlâka zararı dokunacak oyun oynatılan, temsil verilen, film veya video bant gösterilen yerler ile internet üzerinden yapılan yayınlara izin verilen yerler, derneklere, sendikalara, loca ve kulüplere, kamu kurumu niteliğindeki meslek kuruluşları ile benzeri kurum ve kuruluşlara ait ve yalnız üyelerinin yararlanması için açılan lokallerden, birden fazla denetim sonunda ve yazılı ihtara rağmen, iç yönetmeliğine aykırı faaliyet göstererek umuma açık yer durumuna geldiği tespit edilenlerin denetimi,\n c) Yürürlükte bulunan hükümlere aykırı olarak işletilen yerler hakkındaki işlemler ile genel ahlâk ve edep kurallarına aykırı olarak sesli ve görüntülü eserleri, kaydedildiği materyale bakılmaksızın üreten ve satan yerlerin denetimi,\n d) Kanunlardaki istisnalar saklı kalmak üzere, onsekiz yaşından küçükleri çalıştırdığından veya onsekiz yaşını doldurmamış küçüklerin girdiğinden şüphelenilen ve açılması izne bağlı bar, pavyon, gazino, meyhane gibi içkili yerler ile kıraathane gibi oyun oynatılan benzeri yerlerin denetimi,\n e) Suç işlenmesini önlemek için kişilerden kimlik sorma,\n f) 26/6/1973 tarihli ve 1774 sayılı Kimlik Bildirme Kanununda belirtilen yerlerin denetimi,\n g) Motorlu araç trafik belgesi, motorlu araç tescil belgesi ve sürücü belgeleri ile 13/10/1983 tarihli ve 2918 sayılı Karayolları Trafik Kanununa göre araçlarda bulunması gerekli eşyanın denetimi,\n h) Doğal ve yapay göller ile su üstü ulaşımına imkân veren akarsularda su üstü araçlarının ve denizlerde deniz araçlarının ruhsat ve belgelerinin, su üstü araç sahip ve kullananları ile gemi adamlarının ehliyetleri, belgeleri ve deniz mevzuatında yer alan diğer belgelerinin denetimi,\n i) Elektromanyetik aygıtlar ve dedektör köpekleri aracılığıyla yapılan tarama şeklindeki denetimler,\n j) 5237 sayılı Türk Ceza Kanununun 183 üncü maddesi kapsamında gürültü yapanların men edilmesi,\n k) Hudut kapılarından giriş çıkış yapanların pasaport denetimleri.",
+      "preview": "Aşağıda belirtilen denetimler şartları oluştuğunda kolluk tarafından kendiliğinden yapılabilir: a) Umuma açık istirahat ve eğlence yeri sayı…",
+      "kitap": null,
+      "kisim": null,
+      "bolum": "ÜÇÜNCÜ BÖLÜM · Önleme Aramaları",
+      "ayirim": null,
+      "maddeBaslik": "Denetim yapılacak hâller",
+      "sectionPath": [
+        "ÜÇÜNCÜ BÖLÜM · Önleme Aramaları",
+        "Denetim yapılacak hâller"
+      ]
+    },
+    {
+      "id": "yonetmelik:8203:m:19",
+      "maddeKind": "madde",
+      "maddeNo": "19",
+      "heading": "Madde 19",
+      "text": "Önleme araması;\n a) Millî güvenlik ve kamu düzeninin, genel sağlık ve genel ahlâkın veya başkalarının hak ve hürriyetlerinin korunması,\n b) Suç işlenmesinin önlenmesi,\n c) Taşınması veya bulundurulması yasak olan her türlü silâh, patlayıcı madde veya eşyanın tespiti,\n amacıyla, hâkim kararı veya gecikmesinde sakınca bulunan hâllerde mülkî âmirin yazılı emriyle ikinci fıkrada belirtilen yerlerde, kişilerin üstlerinde, aracında, özel kâğıtlarında ve eşyasında yapılan arama işlemidir.\n Önleme araması aşağıdaki yerlerde yapılabilir:\n a) 6/10/1983 tarihli ve 2911 sayılı Toplantı ve Gösteri Yürüyüşleri Kanunu kapsamına giren toplantı ve gösteri yürüyüşlerinin yapıldığı yerde veya yakın çevresinde,\n b) Özel hukuk tüzel kişileri ile kamu kurumu niteliğindeki meslek kuruluşları veya sendikaların genel kurul toplantılarının yapıldığı yerin yakın çevresinde,\n c) Halkın topluca bulunduğu veya toplanabileceği yerlerde,\n d) Öğretim ve eğitim özgürlüğünün sağlanması için her derecede öğretim ve eğitim kurumlarının ve üniversite binaları ve ekleri içerisinde, kurumun imkânlarıyla önlenmesi mümkün görülmeyen olayların çıkması olasılığı karşısında rektör, acele hâllerde de dekan veya bağlı kuruluş yetkililerinin kolluktan yardım istemeleri hâlinde, girilecek üniversite, bağımsız fakülte veya bağlı kurumların içerisinde, bunların yakın çevreleri ile giriş ve çıkış yerlerinde,\n e) Umumî veya umuma açık yerlerde veya öğrenci yurtlarında veya eklentilerinde,\n f) Yerleşim yerlerinin giriş ve çıkışlarında,\n g) Her türlü toplu taşıma veya seyreden taşıt araçlarında,\n h) (Değişik ibare:RG-29/4/2016-29698) 5607 sayılı Kaçakçılıkla Mücadele Kanununda öngörülen suçların işlenmesinin önlenmesi amacıyla, ticarethane, işyeri, eğlence ve benzeri yerler ile eklentilerinde,\n i) (Değişik:RG-29/4/2016-29698) 6222 sayılı Sporda Şiddet ve Düzensizliğin Önlenmesine Dair Kanunun 12 nci maddesi kapsamında spor müsabakası öncesinde, esnasında ve sonrasında spor alanının çevresinde ve müsabakanın yapılacağı yer gidiş ve geliş güzergâhında,\n j) 5253 sayılı Dernekler Kanununun 20 nci maddesi kapsamında, derneklerde veya eklentilerinde.\n Konutta, yerleşim yerinde ve kamuya açık olmayan özel işyerlerinde ve eklentilerinde önleme araması yapılamaz.",
+      "preview": "Önleme araması; a) Millî güvenlik ve kamu düzeninin, genel sağlık ve genel ahlâkın veya başkalarının hak ve hürriyetlerinin korunması, b) Su…",
+      "kitap": null,
+      "kisim": null,
+      "bolum": "ÜÇÜNCÜ BÖLÜM · Önleme Aramaları",
+      "ayirim": null,
+      "maddeBaslik": "Önleme araması ve kapsamı",
+      "sectionPath": [
+        "ÜÇÜNCÜ BÖLÜM · Önleme Aramaları",
+        "Önleme araması ve kapsamı"
+      ]
+    },
+    {
+      "id": "yonetmelik:8203:m:20",
+      "maddeKind": "madde",
+      "maddeNo": "20",
+      "heading": "Madde 20",
+      "text": "Yönetmeliğin 8 inci maddesi, 9 uncu maddesinin birinci fıkrası ve 25 inci maddesi hükümleri saklı kalmak üzere, önleme aramalarında işlemin yapılacağı kanunda belirtilen umumî ve umuma açık yerlerde makul sebeplerin oluştuğunu ve millî güvenlik ve kamu düzeninin, genel sağlık ve genel ahlâkın veya başkalarının hak ve hürriyetlerinin korunması, suç işlenmesinin önlenmesi, taşınması veya bulundurulması yasak olan her türlü silâh, patlayıcı madde veya eşyanın tespiti amacının ortaya çıktığını ve tehlikenin oluştuğunu gösteren belirlemeler, kolluk tarafından önceden tespit edilir ve aramanın yapılması önerilen yer ve zaman ile birlikte o yer mülkî âmirine, gerekçeleri ile birlikte yazılı olarak iletilir. (Mülga cümle:RG-29/4/2016-29698) (...)\n Yetkili merci, kolluğun talebini uygun bulursa, hâkimden arama kararı talep eder; ancak gecikmesinde sakınca bulunan hâllerde yazılı arama emri verir.\n Arama talep, emir ve kararlarında aşağıdaki hususlara açıkça yer verilir:\n a) Aramanın sebebi,\n b) Aramanın konusu ve kapsamı,\n c) Aramanın yapılacağı yer,\n d) Geçerli olacağı zaman süresi.\n Hâkim tarafından verilen kararlar aleyhine, mülkî âmir tarafından kanun yollarına başvurulabilir.\n Usulüne uygun olarak verilmiş arama kararı veya emri üzerine, yetkili âmirin, aramanın yapılması için kolluk memurlarına vereceği sözlü emirler derhâl yerine getirilir. Bu konudaki emirlerin yazılı olarak verilmesi istenemez. Bu hâllerde, emrin yerine getirilmesinden doğabilecek sorumluluk, emri verene aittir.",
+      "preview": "Yönetmeliğin 8 inci maddesi, 9 uncu maddesinin birinci fıkrası ve 25 inci maddesi hükümleri saklı kalmak üzere, önleme aramalarında işlemin…",
+      "kitap": null,
+      "kisim": null,
+      "bolum": "ÜÇÜNCÜ BÖLÜM · Önleme Aramaları",
+      "ayirim": null,
+      "maddeBaslik": "Önleme araması kararı",
+      "sectionPath": [
+        "ÜÇÜNCÜ BÖLÜM · Önleme Aramaları",
+        "Önleme araması kararı"
+      ]
+    },
+    {
+      "id": "yonetmelik:8203:m:21",
+      "maddeKind": "madde",
+      "maddeNo": "21",
+      "heading": "Madde 21",
+      "text": "Özel güvenlik görevlilerinin yetkileri şunlardır:\n a) Koruma ve güvenliğini sağladıkları alanlara girmek isteyenleri duyarlı kapıdan geçirme, bu kişilerin üstlerini dedektörle kontrol etme, eşyaları X-ray cihazından veya benzeri güvenlik sistemlerinden geçirme,\n b) Toplantı, konser, spor müsabakası, sahne gösterileri ve benzeri etkinlikler ile cenaze ve düğün törenlerinde kimlik sorma, duyarlı kapıdan geçirme, bu kişilerin üstlerini dedektörle kontrol etme, eşyaları X-ray cihazından veya benzeri güvenlik sistemlerinden geçirme,\n c) Yangın, deprem gibi tabiî afet durumlarında ve imdat istenmesi hâlinde görev alanındaki işyeri ve konutlara girme,\n d) Hava meydanı, liman, gar, istasyon ve terminal gibi toplu ulaşım tesislerinde kimlik sorma, duyarlı kapıdan geçirme, bu kişilerin üstlerini dedektörle kontrol etme, eşyaları X-ray cihazından veya benzeri güvenlik sistemlerinden geçirme.",
+      "preview": "Özel güvenlik görevlilerinin yetkileri şunlardır: a) Koruma ve güvenliğini sağladıkları alanlara girmek isteyenleri duyarlı kapıdan geçirme,…",
+      "kitap": null,
+      "kisim": null,
+      "bolum": "ÜÇÜNCÜ BÖLÜM · Önleme Aramaları",
+      "ayirim": null,
+      "maddeBaslik": "Özel güvenlik görevlilerinin kontrol yetkileri",
+      "sectionPath": [
+        "ÜÇÜNCÜ BÖLÜM · Önleme Aramaları",
+        "Özel güvenlik görevlilerinin kontrol yetkileri"
+      ]
+    },
+    {
+      "id": "yonetmelik:8203:m:22",
+      "maddeKind": "madde",
+      "maddeNo": "22",
+      "heading": "Madde 22",
+      "text": "Kamu düzeninin korunması veya suç işlenmesinin önlenmesi nedenlerinden birine bağlı olarak usulüne göre verilmiş hâkim kararı olmadıkça, yine bu nedenlere bağlı olarak gecikmesinde sakınca bulunan hâllerde mülkî âmirin yazılı emri bulunmadıkça, kolluk kuvvetleri, dernek ve eklentilerine giremez, arama yapamaz ve buradaki eşyaya el koyamaz.\n El koyma söz konusuysa, mülkî âmirin kararı yirmidört saat içinde görevli hâkimin onayına sunulur. Hâkim, kararını el koymadan itibaren kırksekiz saat içinde açıklar; aksi hâlde, el koyma kendiliğinden kalkar.\n Hâkim kararı, mülkî âmir tarafından dernek yöneticilerine yazıyla duyurulur.",
+      "preview": "Kamu düzeninin korunması veya suç işlenmesinin önlenmesi nedenlerinden birine bağlı olarak usulüne göre verilmiş hâkim kararı olmadıkça, yin…",
+      "kitap": null,
+      "kisim": null,
+      "bolum": "ÜÇÜNCÜ BÖLÜM · Önleme Aramaları",
+      "ayirim": null,
+      "maddeBaslik": "Derneklerde arama",
+      "sectionPath": [
+        "ÜÇÜNCÜ BÖLÜM · Önleme Aramaları",
+        "Derneklerde arama"
+      ]
+    },
+    {
+      "id": "yonetmelik:8203:m:23",
+      "maddeKind": "madde",
+      "maddeNo": "23",
+      "heading": "Madde 23",
+      "text": "Spor müsabakalarının yapılacağı spor alanına, güvenlik güçlerince gerçekleştirilecek kontrolden sonra seyirci alınır.\n Spor alanlarının çevresinde, stadyum veya spor salonu girişleri ile turnike girişlerinde, müsabakayla ilgili olarak hâkim kararı veya gecikmesinde sakınca olan hâllerde mülkî âmirin yazılı izni ile kolluk tarafından veya kolluğun denetiminde, özel güvenlik görevlilerince üst araması yapılır ve (Değişik ibare:RG-29/4/2016-29698) 6222 sayılı Sporda Şiddet ve Düzensizliğin Önlenmesine Dair Kanunun amacına aykırı madde ve cisimler geçici olarak koruma altına alınır.\n Önleme aramalarında elde edilen bilgi ve bulgular ile yakalanan şüpheliler hakkında yapılacak işlemler",
+      "preview": "Spor müsabakalarının yapılacağı spor alanına, güvenlik güçlerince gerçekleştirilecek kontrolden sonra seyirci alınır. Spor alanlarının çevre…",
+      "kitap": null,
+      "kisim": null,
+      "bolum": "ÜÇÜNCÜ BÖLÜM · Önleme Aramaları",
+      "ayirim": null,
+      "maddeBaslik": "Spor müsabakaları ile ilgili aramalar",
+      "sectionPath": [
+        "ÜÇÜNCÜ BÖLÜM · Önleme Aramaları",
+        "Spor müsabakaları ile ilgili aramalar"
+      ]
+    },
+    {
+      "id": "yonetmelik:8203:m:24",
+      "maddeKind": "madde",
+      "maddeNo": "24",
+      "heading": "Madde 24",
+      "text": "Önleme aramalarında elde edilen ve adlî soruşturmalarda kullanılabilecek bilgi, bulgu ve şüpheliler hakkında 10 uncu madde hükümleri uygulanır.\n Aramanın konusu ve kapsamı içinde olan, ancak suç unsuru oluşturmayan eşya, geçici olarak koruma altına alınır ve aramaya sebep teşkil eden husus sona erdiğinde ilgiliye teslim edilir.",
+      "preview": "Önleme aramalarında elde edilen ve adlî soruşturmalarda kullanılabilecek bilgi, bulgu ve şüpheliler hakkında 10 uncu madde hükümleri uygulan…",
+      "kitap": null,
+      "kisim": null,
+      "bolum": "ÜÇÜNCÜ BÖLÜM · Önleme Aramaları",
+      "ayirim": null,
+      "maddeBaslik": "Spor müsabakaları ile ilgili aramalar",
+      "sectionPath": [
+        "ÜÇÜNCÜ BÖLÜM · Önleme Aramaları",
+        "Spor müsabakaları ile ilgili aramalar"
+      ]
+    },
+    {
+      "id": "yonetmelik:8203:m:25",
+      "maddeKind": "madde",
+      "maddeNo": "25",
+      "heading": "Madde 25",
+      "text": "Aşağıdaki hâllerde yapılacak aramalarda ayrıca bir arama emri ya da kararı gerekmez:\n a) Devletçe kamu hizmetine özgülenmiş bina ve her türlü tesislere giriş ve çıkışın belirli kurallara tâbi tutulduğu hâllerde, söz konusu tesislere girenlerin üstlerinin veya üzerlerindeki eşyanın veya araçlarının aranmasında,\n b) 5442 sayılı İl İdaresi Kanununun ek 1 inci maddesi kapsamında bulunan, sivil hava meydanlarında, limanlarda ve sınır kapılarında, binaların, uçakların, gemilerin ve her türlü deniz ve kara taşıtlarının, giren çıkan yolcuların X-ray cihazından geçirilerek, gerektiğinde üstünün ve eşyasının aranması ile buralarda görevli kamu kuruluşları ve özel kuruluşlar personelinin, üstlerinin, araçlarının ve eşyalarının aranmasında,\n c) 2935 sayılı Olağanüstü Hâl Kanununun 11 inci maddesi kapsamında, kişilerin üstünün, eşyalarının Olağanüstü Hâl Valisinin emriyle aranmasında,\n d) 1402 sayılı Sıkıyönetim Kanununun 3 üncü maddesi kapsamında, konutların ve her türlü dernek, siyasî parti, sendika, kulüp gibi teşekküllere ait binaların, işyerlerinin, özel ve tüzel kişiliklere sahip müesseseler ve bunlara ait eklentilerin ve her türlü kapalı ve açık yerlerin, mektup, telgraf ve sair gönderilerin ve kişilerin üzerlerinin sıkıyönetim komutanının emriyle aranmasında,\n e) Kanunların, muhafaza altına alınmalarına olanak verdiği kişilerin, üst veya eşyalarının aranmasında,\n f) 26/4/1961 tarihli ve 298 sayılı Seçimlerin Temel Hükümleri ve Seçmen Kütükleri Hakkında Kanun çerçevesinde görevli kolluğun, aynı Kanunun 79 uncu maddesindeki silâh taşıma yasağı kapsamında, silâh taşıdığından şüphelenilen kişilerin üstlerinin ve eşyalarının aranmasında.\n Umuma açık veya açık olmayan özel işletmelerin, kurumların veya teşebbüslerin girişlerindeki kontroller, buralara girmek isteyen kimselerin rızasına bağlıdır. Kontrol edilmeyi kabul etmeyenler, bu gibi yerlere giremezler. Bu gibi yerlerde kontrol, esasta özel güvenlik görevlileri tarafından yerine getirilir. Ancak, bu yerlerin ve katılanların taşıyabilecekleri özel niteliklere göre, önleme aramaları kolluk güçleri tarafından da yapılabilir.",
+      "preview": "Aşağıdaki hâllerde yapılacak aramalarda ayrıca bir arama emri ya da kararı gerekmez: a) Devletçe kamu hizmetine özgülenmiş bina ve her türlü…",
+      "kitap": null,
+      "kisim": null,
+      "bolum": "ÜÇÜNCÜ BÖLÜM · Önleme Aramaları",
+      "ayirim": null,
+      "maddeBaslik": "Hâkimden önleme araması kararı alınması gerekmeyen hâller",
+      "sectionPath": [
+        "ÜÇÜNCÜ BÖLÜM · Önleme Aramaları",
+        "Hâkimden önleme araması kararı alınması gerekmeyen hâller"
+      ]
+    },
+    {
+      "id": "yonetmelik:8203:m:26",
+      "maddeKind": "madde",
+      "maddeNo": "26",
+      "heading": "Madde 26",
+      "text": "Arama sırasında suç unsuruna rastlandığında, önleme araması tutanağa bağlanır.\n Bu hâlde, tutanak 11 inci maddede yazılı unsurları içerir.\n Tutanak arama işlemine katılmış olanlar ve hazır bulunanlarca imzalanır.\n Tutanağın bir sureti ilgiliye verilir.\n Suç unsuruna rastlanmadığı durumlarda, aranan kişinin talebi hâlinde, kendisine arama kararı veya emrinin tarih ve sayısı, aramanın tarih ve saati, yeri, aranan şahsın ve arayan görevlinin kimlik bilgilerinin yer aldığı bir belge verilir.",
+      "preview": "Arama sırasında suç unsuruna rastlandığında, önleme araması tutanağa bağlanır. Bu hâlde, tutanak 11 inci maddede yazılı unsurları içerir. Tu…",
+      "kitap": null,
+      "kisim": null,
+      "bolum": "ÜÇÜNCÜ BÖLÜM · Önleme Aramaları",
+      "ayirim": null,
+      "maddeBaslik": "Önleme araması tutanağı",
+      "sectionPath": [
+        "ÜÇÜNCÜ BÖLÜM · Önleme Aramaları",
+        "Önleme araması tutanağı"
+      ]
+    },
+    {
+      "id": "yonetmelik:8203:m:27",
+      "maddeKind": "madde",
+      "maddeNo": "27",
+      "heading": "Madde 27",
+      "text": "(Başlığı ile Birlikte Değişik:RG-29/4/2016-29698)\n Kolluk, kişileri ve araçları;\n a) Bir suç veya kabahatin işlenmesini önlemek,\n b) Suç işlendikten sonra kaçan faillerin yakalanmasını sağlamak, işlenen suç veya kabahatlerin faillerinin kimliklerini tespit etmek,\n c) Hakkında yakalama emri ya da zorla getirme kararı verilmiş olan kişileri tespit etmek,\n ç) Kişilerin hayatı, vücut bütünlüğü veya malvarlığı bakımından ya da topluma yönelik mevcut veya muhtemel bir tehlikeyi önlemek,\n amacıyla durdurabilir.\n Durdurma yetkisinin kullanılabilmesi için, “umma” derecesinde makul şüphe bulunmalıdır. Somut emarelerle desteklenen şüphe bulunmadan, süreklilik arz edecek, fiilî durum ve keyfilik oluşturacak şekilde durdurma işlemi yapılamaz.\n Kolluğun durdurma yetkisini kullanabilmesi için tecrübesine ve içinde bulunulan durumdan edindiği izlenime dayanarak, kişinin bir suç işleyeceği veya işlediği hususunda veya kişinin silâhlı olduğu ve hâlen tehlike yarattığı konusunda makul bir sebebin bulunması gerekir.\n Kolluk, görevini yerine getirirken, kendisinin kolluk görevlisi olduğunu belirleyen belgeyi gösterdikten sonra durdurduğu kişiye durdurma sebebini bildirir; şüpheye yol açan davranışları ve durdurma sebebine ilişkin sorular sorabilir; kimliğini veya bulundurulması gerekli diğer belgelerin ibraz edilmesini isteyebilir. Kişi, kimliğine ilişkin olanlar hariç, sorulan sorulara cevap vermekle yükümlü değildir. Durdurma yetkisinin kullanılmasına neden olan şüphe, yapılan açıklamayla veya herhangi bir şekilde ortadan kalkarsa, kişilerin gitmesine ve araçların ayrılmalarına izin verilir.\n Durdurma süresi, durdurma sebebine esas teşkil eden işlemin gerçekleştirilmesi için zorunlu olan süreden fazla olamaz.\n Durdurma üzerine aşağıdaki işlemler yapılır:\n a) Durdurulan kişi üzerinde giysilerinden herhangi birisi çıkarılmaksızın, yoklama biçiminde bir kontrol yapılır. Bu işlem sonucunda, kişide silâh bulunduğu sonucunu çıkarmaya yeterli şüphe meydana gelirse, memur kendiliğinden silâh ve diğer suç eşyası araması yapabilir.\n b) Yoklama suretiyle kontrol, kişinin cinsiyetinde bulunan görevli tarafından yapılır.\n c) Yapılan kontrolün konusu ve sebepleri ilgiliye açıklanır.\n ç) Bir kişinin veya aracın durdurulma süresinin, şartlara göre makul olması ve kontrol için ayrılan süreyi aşmaması gerekir.\n d) Yoklama suretiyle kontrol, kişiye en az sıkıntı verici şekilde yapılır.\n e) Yapılan kontrolün neticesinde suça ilişkin iz, eser, emare ve delil elde edilirse, kişi yakalanır.\n f) Uyuşturucu gibi belirli bir şeyin, kişinin herhangi bir yerinde gizlendiği düşünülüyorsa, daha geniş çaplı kontrol yapılabilir.\n g) Yoklama suretiyle kontrol, kişinin veya aracın ilk durdurulduğu yerde veya o yerin yakınında, mümkün olduğu kadar başkalarının göremeyeceği tarzda yapılır. Başka yere götürülerek kontrol yapılamaz.\n ğ) Makul sebebi oluştuğu takdirde, daha geniş kapsamlı kontrol yapılması için, kolluk aracından veya yakındaki kapalı bir yerden yararlanılabilir.\n h) Kontrolden sonra talep üzerine olay yerinde derhâl bir tutanak düzenlenir.\n Kolluk, durdurduğu kişi üzerinde veya aracında silâh veya tehlike oluşturan diğer bir eşyanın bulunduğu hususunda yeterli şüphenin varlığı halinde, kendisine veya başkalarına zarar verilmesini önlemek amacına yönelik gerekli tedbirleri alabilir. Bu amaçla kişinin üzerindeki elbisenin çıkarılması veya aracın, dışarıdan bakıldığında içerisi görünmeyen bölümlerinin açılması istenemez. Ancak el ile dıştan kontrol hariç, kişinin üstü ve eşyası ile aracının dışarıdan bakıldığında içerisi görünmeyen bölümlerinin aranması; İçişleri Bakanlığı tarafından belirlenecek esaslar dâhilinde mülki amirin görevlendireceği kolluk amirinin yazılı, acele hâllerde sonradan yazıyla teyit edilmek üzere sözlü emriyle yapılabilir.\n Arama emrinde aşağıdaki hususlara açıkça yer verilir:\n a) Aramanın sebebi,\n b) Aramanın konusu ve kapsamı,\n c) Aramanın yapılacağı yer, tarih ve emrin geçerli olacağı süre,\n ç) Aramanın yapılacağı kişinin açık kimliği ile aracın plaka, marka ve modeli.\n Kişinin üstü ve eşyası ile aracının aranmasında 28 ve 29 uncu maddelerde belirtilen usuller uygulanır.\n Arama sırasında elde edilen ve adlî soruşturma ve kovuşturmalarda kullanılabilecek bilgi, bulgu ve şüpheliler hakkında bu Yönetmelikteki ilgili hükümler uygulanır.\n Kolluk amirinin kararı yirmi dört saat içinde görevli hâkimin onayına sunulur. Yapılan araç aramalarına ilişkin olarak kişiye, arama gerekçesini de içeren bir belge verilir.\n Bu maddede yazılı işlemler gece de yapılabilir.",
+      "preview": "(Başlığı ile Birlikte Değişik:RG-29/4/2016-29698) Kolluk, kişileri ve araçları; a) Bir suç veya kabahatin işlenmesini önlemek, b) Suç işlend…",
+      "kitap": null,
+      "kisim": null,
+      "bolum": "DÖRDÜNCÜ BÖLÜM · Aramaların Yapılma Şekli",
+      "ayirim": null,
+      "maddeBaslik": "Durdurma, durdurma sonrası kontrol ve arama işlemleri",
+      "sectionPath": [
+        "DÖRDÜNCÜ BÖLÜM · Aramaların Yapılma Şekli",
+        "Durdurma, durdurma sonrası kontrol ve arama işlemleri"
+      ]
+    },
+    {
+      "id": "yonetmelik:8203:m:28",
+      "maddeKind": "madde",
+      "maddeNo": "28",
+      "heading": "Madde 28",
+      "text": "Aramanın gerçekleştirileceği yerde, öncelikle kişilerin kaçmasını ve saldırmasını engelleyecek şekilde gerekli güvenlik tedbirleri alınır.\n Kolluk görevlileri, kolluk görevlisi olduğunu ispatlayan kimliğini gösterir.\n Üst araması, kişinin cinsiyetinde bulunan görevli tarafından yapılır.\n Üst ve eşya araması sırasında, yapılan aramanın konusu olan eşyanın ne olduğu veya aramanın yapılmasına temel teşkil eden sebepler ilgiliye açıklanır.\n Üst araması sırasında, kişinin beraberinde olan eşya da, mümkünse elektromanyetik cihazlarla, değilse beş duyu organı aracılığıyla aranır. Sahipsiz eşya hakkında da aynı hüküm uygulanır.\n Kişi direndiği takdirde üst ve eşya araması orantılı güç kullanılarak gerçekleştirilir.\n Üst ve eşya araması, kişinin veya aracın ilk durdurulduğu yerde veya o yerin yakınında, mümkün olduğu kadar başkalarının göremeyeceği tarzda yapılır. Başka yere götürülerek arama yapılamaz. Gerektiğinde kolluk aracından veya yakındaki kapalı bir yerden yararlanılabilir.\n Üst araması sırasında, kişinin üstünde veya eşyasında rastlanan özel kâğıt ve zarflar, içinde müsadereye tâbi bir eşya bulunması ihtimali dışında açılmaz; açıksa dahi yazılı bilgiler okunamaz.\n Kişinin kanunlara göre izin verilmeyecek bir şeyi taşıdığına ilişkin makul şüphenin bulunması ve aramanın amacına başka türlü ulaşılamaması hâlinde, üst araması aşağıda belirtilen şekilde giysiler çıkartılmak suretiyle yapılabilir:\n a) Arama yapılmadan önce, bu aramayı yapmanın neden gerekli görüldüğü ve nasıl yapılacağı, o birimde görevli en üst kolluk âmiri tarafından ilgiliye bildirilir.\n b) Arama, aynı cinsiyetten görevliler tarafından yapılır; arama işlemi kimsenin görmemesini sağlayacak tedbirler alınarak gerçekleştirilir.\n c) Arama, kişinin utanma duygusunu en az ihlâl edecek bir şekilde yapılır; önce bedenin üst kısmındaki giysiler çıkarttırılır; bedenin alt kısmındaki giysiler, üst kısmındaki giysiler giyildikten sonra çıkarttırılır. Bu giysiler mutlaka aranır.\n d) Arama sırasında bedene dokunulmaması için gerekli özen gösterilir.\n e) Arama, mümkün olduğunca kısa bir süre içinde bitirilir.\n Yapılan aramanın neticesinde bir suça ilişkin iz, eser, emare ve delil elde edilirse, kişi yakalanır.\n Bu maddede yazılı işlemler gece de yapılabilir.",
+      "preview": "Aramanın gerçekleştirileceği yerde, öncelikle kişilerin kaçmasını ve saldırmasını engelleyecek şekilde gerekli güvenlik tedbirleri alınır. K…",
+      "kitap": null,
+      "kisim": null,
+      "bolum": "DÖRDÜNCÜ BÖLÜM · Aramaların Yapılma Şekli",
+      "ayirim": null,
+      "maddeBaslik": "Karar veya yazılı emir üzerine üst ve eşya aramasının icrası",
+      "sectionPath": [
+        "DÖRDÜNCÜ BÖLÜM · Aramaların Yapılma Şekli",
+        "Karar veya yazılı emir üzerine üst ve eşya aramasının icrası"
+      ]
+    },
+    {
+      "id": "yonetmelik:8203:m:29",
+      "maddeKind": "madde",
+      "maddeNo": "29",
+      "heading": "Madde 29",
+      "text": "Araçlarda aramanın gerçekleştirileceği yerde, öncelikle kişilerin kaçmasını ve saldırmasını engelleyecek şekilde gerekli güvenlik tedbirleri alınır.\n Araç araması sırasında, yapılan aramanın konusu olan eşyanın ne olduğu veya aramanın yapılmasına temel teşkil eden sebepler ilgiliye açıklanır.\n Araç araması, kişiye en az sıkıntı verici şekilde ve makul olan en kısa sürede yapılır.\n Araç araması, aracın ilk durdurulduğu yerde veya o yerin yakınında, mümkün olduğu kadar başkalarının göremeyeceği tarzda yapılır. Detaylı inceleme yapılması gereken hâllerde, başka yere götürülerek arama yapılabilir.\n Deniz şartları sebebiyle aramanın denizde mümkün olmaması veya deniz aracının ayrıntılı aranmasının gerektiği hâllerde şüpheli deniz aracı en yakın ve uygun limana çekilerek arama limanda yapılabilir.\n Araç araması sırasında rastlanan özel kâğıt ve zarflar, içinde müsadereye tâbi bir eşya bulunması ihtimali dışında açılmaz; açılsa dahi yazılı bilgiler okunamaz.\n Yapılan aramanın neticesinde bir suça ilişkin iz, eser, emare ve delil elde edilirse, kişi yakalanır.\n Boş araçların aranmasında, arama yapıldığını belirten bir not bırakılır. Bu notta, arama tutanağının bir kopyasının alınabileceği yer belirtilir.\n Bu maddede yazılı işlemler gece de yapılabilir.",
+      "preview": "Araçlarda aramanın gerçekleştirileceği yerde, öncelikle kişilerin kaçmasını ve saldırmasını engelleyecek şekilde gerekli güvenlik tedbirleri…",
+      "kitap": null,
+      "kisim": null,
+      "bolum": "DÖRDÜNCÜ BÖLÜM · Aramaların Yapılma Şekli",
+      "ayirim": null,
+      "maddeBaslik": "Araçlarda arama",
+      "sectionPath": [
+        "DÖRDÜNCÜ BÖLÜM · Aramaların Yapılma Şekli",
+        "Araçlarda arama"
+      ]
+    },
+    {
+      "id": "yonetmelik:8203:m:30",
+      "maddeKind": "madde",
+      "maddeNo": "30",
+      "heading": "Madde 30",
+      "text": "Haklarında gıyabî tutuklama veya tutuklama kararı ile yakalama emri veya zorla getirme kararı bulunan kişilerin yakalanması için yapılacak aramalarda, ayrıca arama kararı verilmesi gerekli değildir. Bu gibi hâllerde sadece yakalanacak kişiyle ilişkili işlemler yapılabilir. O yerde bulunan diğer kişiler hakkında, ayrıca karar verilmemişse, arama yapılamaz.1\n Kolluk, arama yapılacak kapalı yerlerde ve eklentilerinde gerekli güvenlik önlemlerini alarak kapıyı çalar.\n Hâkim kararı veya kanunla yetkili kılınmış merciin yazılı emriyle yapılan aramalarda veya karar alınmasını gerektirmeyen işlemlerde, mümkünse o yere girme izni verme yetkisine sahip kişilerle iletişim kurulmasına çalışılır, kolaylık gösterilmesi istenir.\n Aşağıdaki hâllerde iletişim kurmadan arama amacıyla kapalı yerlere ve eklentilerine girilir:\n a) Arama yapılacak olan yerin konut veya yerleşim yeri olarak kullanılmadığının bilinmesi,\n b) Arama esnasında bu yerlerde kimsenin olmadığının anlaşılması,\n c) Bu yerlerde oturan veya izin vermeye yetkili kişinin arama öncesinde bilgilendirilmesinin, delil karartmasına yol açarak aramanın amacını tehlikeye sokacak veya kolluk memurlarını veya diğer bireyleri tehlikeye düşürebilecek olması.\n Diğer hâllerde, kolluk memurları arama kararını gösterirler.\n Gecikmesinde sakınca veya tehlike bulunması hâlinde, bilgilendirme içeri girildikten sonra da yapılabilir.\n Aramayla görevlendirilenler, aramaya karşı çıkılması hâlinde, durumun haklı kıldığı ölçüde güç kullanarak direnci ortadan kaldırabilirler. Bilgilendirme yapıldıktan sonra, kapı açılmadığı takdirde güç kullanılacağı ihtar edilir ve buna rağmen kapı açılmazsa zorla eve girilir ve arama gerçekleştirilir. Güç, kademeli bir şekilde artarak kullanılabilir.\n Bulundurulması suç teşkil eden eşyanın arandığı evde bulunan kişilerin üstü, güvenlik veya suç eşyasının elde edilmesi amacıyla aranır.\n Arama, bulunması istenen şeyin boyutu ve niteliği göz önüne alınarak, amaca ulaşmak için gerekli olan ölçüde gerçekleştirilir.\n Aranacak yerde bulunan kişilerin özel hayatlarına ve mallarına gereken azamî özen gösterilir.\n Kasa gibi, açılması özellik isteyen eşya, kolluk tarafından veya masrafları kollukça karşılanmak üzere bu konudaki meslek erbabına açtırılır. Bu işlemin o yerde yapılmasının masraflı, külfetli veya oraya zarar verebilecek nitelikte olması durumunda, eşya kolluk tarafından muhafaza edilen başka bir yere götürülerek de açılabilir.\n Arama sırasında rastlanan özel kâğıt ve zarflar, içinde müsadereye tâbi bir eşya bulunması ihtimali dışında açılmaz; açılsa dahi yazılı bilgiler okunamaz.\n Aramada hazır bulundurulacaklarla ilgili olarak aşağıdaki hükümler uygulanır:\n a) Aranacak yerlerin sahibi veya eşyanın zilyedi aramada hazır bulunabilir; kendisi bulunmazsa temsilcisi veya ayırt etme gücüne sahip hısımlarından biri veya kendisiyle birlikte oturmakta olan bir kişi veya komşusu hazır bulundurulur.\n b) Şüphelinin veya sanığın yakalanabilmesi veya suç delillerinin elde edilebilmesi amacıyla, diğer bir kişinin konutu, işyeri veya ona ait diğer yerlerde yapılacak aramalarda, zilyet ve bulunmazsa yerine çağrılacak kişiye, aramaya başlamadan önce aramanın amacı hakkında bilgi verilir.\n c) Kişinin avukatının aramada hazır bulunmasına engel olunamaz.\n d) Geceleyin herkesin girip çıkabileceği lokanta, bar, pavyon, gazino, meyhane gibi yerler ile kıraathane ve oyun oynatılan benzeri yerlerin aranmasında tanık bulundurulması gerekmez.",
+      "preview": "Haklarında gıyabî tutuklama veya tutuklama kararı ile yakalama emri veya zorla getirme kararı bulunan kişilerin yakalanması için yapılacak a…",
+      "kitap": null,
+      "kisim": null,
+      "bolum": "DÖRDÜNCÜ BÖLÜM · Aramaların Yapılma Şekli",
+      "ayirim": null,
+      "maddeBaslik": "Konut, işyeri ve eklentilerinde aramanın yapılması1",
+      "sectionPath": [
+        "DÖRDÜNCÜ BÖLÜM · Aramaların Yapılma Şekli",
+        "Konut, işyeri ve eklentilerinde aramanın yapılması1"
+      ]
+    },
+    {
+      "id": "yonetmelik:8203:m:31",
+      "maddeKind": "madde",
+      "maddeNo": "31",
+      "heading": "Madde 31",
+      "text": "Arama, kararda veya yazılı emirde belirtilen süre içerisinde yapılır. Her arama kararı, aksine bir hüküm içermiyorsa sadece bir kez arama yapma yetkisi verir.\n Aramanın amacını tehlikeye sokan acil bir durum yoksa, adlî arama gündüz yapılır.\n Konutta, işyerinde veya diğer kapalı yerlerde adlî arama gece yapılamaz. Ayrıca bu yerlerde kolluk âmirinin yazılı emriyle de arama yapılamaz. Ancak;\n a) Suçüstü hâlinde,\n b) Gecikmesinde sakınca bulunan hâlde,\n c) Firar eden kişi veya tutuklu veya hükümlünün tekrar yakalanması hâlinde,\n d) Geceleyin herkesin girip çıkabileceği 2559 sayılı Polis Vazife ve Salâhiyet Kanununun 7 nci maddesinde sayılan umuma açık istirahat ve eğlence yerlerinde,\n gece adlî arama yapılabilir.\n Önleme aramaları, denetimler ve kontroller her zaman yapılabilir.",
+      "preview": "Arama, kararda veya yazılı emirde belirtilen süre içerisinde yapılır. Her arama kararı, aksine bir hüküm içermiyorsa sadece bir kez arama ya…",
+      "kitap": null,
+      "kisim": null,
+      "bolum": "DÖRDÜNCÜ BÖLÜM · Aramaların Yapılma Şekli",
+      "ayirim": null,
+      "maddeBaslik": "Aramanın zamanı",
+      "sectionPath": [
+        "DÖRDÜNCÜ BÖLÜM · Aramaların Yapılma Şekli",
+        "Aramanın zamanı"
+      ]
+    },
+    {
+      "id": "yonetmelik:8203:m:32",
+      "maddeKind": "madde",
+      "maddeNo": "32",
+      "heading": "Madde 32",
+      "text": "Nezarethanelerde yapılacak aramalar için Yakalama, Gözaltına Alma ve İfade Alma Yönetmeliği hükümleri saklıdır.",
+      "preview": "Nezarethanelerde yapılacak aramalar için Yakalama, Gözaltına Alma ve İfade Alma Yönetmeliği hükümleri saklıdır.",
+      "kitap": null,
+      "kisim": null,
+      "bolum": "DÖRDÜNCÜ BÖLÜM · Aramaların Yapılma Şekli",
+      "ayirim": null,
+      "maddeBaslik": "Nezarethanelerde yapılacak arama",
+      "sectionPath": [
+        "DÖRDÜNCÜ BÖLÜM · Aramaların Yapılma Şekli",
+        "Nezarethanelerde yapılacak arama"
+      ]
+    },
+    {
+      "id": "yonetmelik:8203:m:33",
+      "maddeKind": "madde",
+      "maddeNo": "33",
+      "heading": "Madde 33",
+      "text": "Her kolluk biriminde, bu yönetmelik uyarınca yapılan aramalara ilişkin karar, yazılı emir ve diğer bilgilerin kaydedileceği bir defter tutulur.\n Bu defterde kayıtlı bilgiler; adlî ve idarî soruşturmalar, ilgilinin taleplerinin karşılanması ve istatistikî çalışmalar dışında kullanılamaz.\n Bu defter, silinme ve muhtemel bilgi kaybı riskine karşı gerekli önlemler alınmak ve bilgiler yedeklenmek suretiyle bilgisayar ortamında da tutulabilir.\n Yürürlükten kaldırılan yönetmelik",
+      "preview": "Her kolluk biriminde, bu yönetmelik uyarınca yapılan aramalara ilişkin karar, yazılı emir ve diğer bilgilerin kaydedileceği bir defter tutul…",
+      "kitap": null,
+      "kisim": null,
+      "bolum": "BEŞİNCİ BÖLÜM · Çeşitli ve Son Hükümler",
+      "ayirim": null,
+      "maddeBaslik": "Aramalara ilişkin kayıt defteri",
+      "sectionPath": [
+        "BEŞİNCİ BÖLÜM · Çeşitli ve Son Hükümler",
+        "Aramalara ilişkin kayıt defteri"
+      ]
+    },
+    {
+      "id": "yonetmelik:8203:m:34",
+      "maddeKind": "madde",
+      "maddeNo": "34",
+      "heading": "Madde 34",
+      "text": "24/5/2003 tarihli ve 25117 sayılı Resmî Gazetede yayımlanan Adlî ve Önleme Aramaları Yönetmeliği yürürlükten kaldırılmıştır.",
+      "preview": "24/5/2003 tarihli ve 25117 sayılı Resmî Gazetede yayımlanan Adlî ve Önleme Aramaları Yönetmeliği yürürlükten kaldırılmıştır.",
+      "kitap": null,
+      "kisim": null,
+      "bolum": "BEŞİNCİ BÖLÜM · Çeşitli ve Son Hükümler",
+      "ayirim": null,
+      "maddeBaslik": "Aramalara ilişkin kayıt defteri",
+      "sectionPath": [
+        "BEŞİNCİ BÖLÜM · Çeşitli ve Son Hükümler",
+        "Aramalara ilişkin kayıt defteri"
+      ]
+    },
+    {
+      "id": "yonetmelik:8203:m:35",
+      "maddeKind": "madde",
+      "maddeNo": "35",
+      "heading": "Madde 35",
+      "text": "Bu Yönetmelik yayımı tarihinde yürürlüğe girer.",
+      "preview": "Bu Yönetmelik yayımı tarihinde yürürlüğe girer.",
+      "kitap": null,
+      "kisim": null,
+      "bolum": "BEŞİNCİ BÖLÜM · Çeşitli ve Son Hükümler",
+      "ayirim": null,
+      "maddeBaslik": "Yürürlük",
+      "sectionPath": [
+        "BEŞİNCİ BÖLÜM · Çeşitli ve Son Hükümler",
+        "Yürürlük"
+      ]
+    },
+    {
+      "id": "yonetmelik:8203:m:36",
+      "maddeKind": "madde",
+      "maddeNo": "36",
+      "heading": "Madde 36",
+      "text": "Bu Yönetmelik hükümlerini Adalet ve İçişleri Bakanları yürütür.\n __________________\n 1Danıştay Onuncu Dairesinin 13/3/2007 tarihli ve E.:2005/6392, K.: 2007/948 sayılı Kararı ile bu Yönetmeliğin 8 inci maddesinin birinci fıkrasının (a) bendinde yer alan “…yakalanması amacıyla konutunda, işyerinde, yerleşim yerinde, bunların eklentilerinde ve aracında yapılacak aramada…” ibaresi, (f) bendinde yer alan “ilgilinin rızası ile” ibaresi ile 30 uncu maddesinin birinci fıkrası iptal edilmiş; yapılan temyiz sonucu Danıştay İdari Dava Daireleri Kurulunun 14/9/2012 tarihli ve E.: 2007/2257, K.: 2012/1117 sayılı Kararı ile İptal Kararı onanmıştır.",
+      "preview": "Bu Yönetmelik hükümlerini Adalet ve İçişleri Bakanları yürütür. __________________ 1Danıştay Onuncu Dairesinin 13/3/2007 tarihli ve E.:2005/…",
+      "kitap": null,
+      "kisim": null,
+      "bolum": "BEŞİNCİ BÖLÜM · Çeşitli ve Son Hükümler",
+      "ayirim": null,
+      "maddeBaslik": "Yürütme",
+      "sectionPath": [
+        "BEŞİNCİ BÖLÜM · Çeşitli ve Son Hükümler",
+        "Yürütme"
+      ]
+    }
+  ]
+}

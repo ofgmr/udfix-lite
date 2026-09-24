@@ -26,7 +26,7 @@ export function getTelemetryEndpoint(): string | null {
 
 export const TELEMETRY_SCHEMA_VERSION = 1 as const;
 export const TELEMETRY_MAX_QUEUE_EVENTS = 2000;
-export const TELEMETRY_UPLOAD_INTERVAL_MS = 5 * 60 * 1000;
+export const TELEMETRY_UPLOAD_INTERVAL_MS = 7 * 24 * 60 * 60 * 1000;
 export const TELEMETRY_MAX_PROPERTY_STRING_LENGTH = 512;
 export const TELEMETRY_ALLOWED_CATEGORIES = ['lifecycle', 'feature', 'error', 'crash', 'performance'] as const;
 export const TELEMETRY_ALLOWED_PROPERTY_KEYS = new Set([
@@ -43,4 +43,10 @@ export const TELEMETRY_ALLOWED_PROPERTY_KEYS = new Set([
     'format',
     'durationMs',
     'action',
+    'matters',
+    'parties',
+    'notes',
+    'documents',
+    'uyapEvrak',
+    'dbBytes',
 ]);

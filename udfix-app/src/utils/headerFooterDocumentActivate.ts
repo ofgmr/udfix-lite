@@ -31,15 +31,16 @@ function resetHeaderFooterPanelUi(): void {
     });
 }
 
-function applyUdfImportMetaToHeaderFooterStoreIfPresent(documentId: string): void {
-    if (!documentId.startsWith('udf:')) return;
+function applyUdfImportMetaToHeaderFooterStoreIfPresent(documentId: string): Promise<void> {
+    if (!documentId.startsWith('udf:')) return Promise.resolve();
     const raw = localStorage.getItem(`${UYAP_IMPORT_META_STORAGE_PREFIX}${documentId}`);
-    if (!raw) return;
+    if (!raw) return Promise.resolve();
     try {
         applyUyapImportMetaToHeaderFooterStore(JSON.parse(raw));
-        useHeaderFooterStore.getState().save();
+        return useHeaderFooterStore.getState().save();
     } catch {
         /* ignore malformed import meta */
+        return Promise.resolve();
     }
 }
 
@@ -67,11 +68,12 @@ export async function activateHeaderFooterForDocument(
 
     resetHeaderFooterPanelUi();
     if (store.currentDocumentId) {
-        store.save();
+        await store.save();
     }
 
-    store.load(documentId);
-    applyUdfImportMetaToHeaderFooterStoreIfPresent(documentId);
+    await store.load(documentId);
+    if (useHeaderFooterStore.getState().currentDocumentId !== documentId) return;
+    await applyUdfImportMetaToHeaderFooterStoreIfPresent(documentId);
 
     if (!syncToEditor) return;
 

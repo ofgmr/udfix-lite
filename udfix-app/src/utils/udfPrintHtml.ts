@@ -1,5 +1,46 @@
+import {
+    EDITOR_PAGE_HEIGHT_PX,
+    EDITOR_PAGE_MARGIN_LEFT_PX,
+    EDITOR_PAGE_MARGIN_RIGHT_PX,
+    EDITOR_PAGE_WIDTH_PX,
+    EDITOR_PAGINATION_BODY_VERTICAL_BASE_PX,
+} from './editorLayout';
+
 /** Shared print/PDF styles for UYAP UDF HTML (viewer + batch export). */
+
+/** Unspecified or missing document faces. Inline `font-family` on a run still wins. */
+export const UDF_DEFAULT_FONT_FAMILY = '"Times New Roman", Times, serif';
+
+/** A4 body + default editor `--rm-*` insets. One geometry with PaginationPlus (ADR-0020). */
+export const UDF_PRINT_PAGE_CSS = `
+.udf-print-page {
+    --rm-page-width: ${EDITOR_PAGE_WIDTH_PX}px;
+    --rm-page-height: ${EDITOR_PAGE_HEIGHT_PX}px;
+    --rm-margin-left: ${EDITOR_PAGE_MARGIN_LEFT_PX}px;
+    --rm-margin-right: ${EDITOR_PAGE_MARGIN_RIGHT_PX}px;
+    --rm-margin-top: ${EDITOR_PAGINATION_BODY_VERTICAL_BASE_PX}px;
+    --rm-margin-bottom: ${EDITOR_PAGINATION_BODY_VERTICAL_BASE_PX}px;
+    width: var(--rm-page-width);
+    max-width: var(--rm-page-width);
+    min-height: var(--rm-page-height);
+    margin: 0 auto;
+    padding: var(--rm-margin-top) var(--rm-margin-right) var(--rm-margin-bottom) var(--rm-margin-left);
+    box-sizing: border-box;
+    background: #fff;
+}
+@media screen {
+    .udf-print-page {
+        margin-top: 24px;
+        margin-bottom: 24px;
+        box-shadow: 0 1px 6px rgba(0, 0, 0, 0.12);
+    }
+}
+`;
+
 export const UDF_CONTENT_PRINT_CSS = `
+.udf-content {
+    font-family: ${UDF_DEFAULT_FONT_FAMILY};
+}
 .udf-content p {
     margin-bottom: 1.25rem;
     line-height: 1.6;
@@ -55,8 +96,8 @@ export function buildUdfPrintDocumentHtml(bodyHtml: string, title = 'UDF'): stri
 <title>${safeTitle}</title>
 <style>
 @page { size: A4; margin: 0; }
-html, body { margin: 0; padding: 0; background: #fff; color: #000; font-family: system-ui, -apple-system, "Segoe UI", sans-serif; }
-.udf-print-page { max-width: 210mm; margin: 0 auto; padding: 20mm 18mm; box-sizing: border-box; }
+html, body { margin: 0; padding: 0; background: #fff; color: #000; font-family: ${UDF_DEFAULT_FONT_FAMILY}; }
+${UDF_PRINT_PAGE_CSS}
 ${UDF_CONTENT_PRINT_CSS}
 </style>
 </head>

@@ -49,12 +49,20 @@ export const useDeadlinesStore = create<DeadlinesState>((set, get) => ({
     },
 
     updateDeadline: async (deadline) => {
+        const previous = get().deadlines;
+        set({
+            deadlines: previous.map((row) =>
+                row.id === deadline.id ? { ...row, ...deadline } : row,
+            ),
+        });
         try {
             await DataService.updateDeadline(deadline);
             const { lastFilters } = get();
-            await get().fetchDeadlines(lastFilters ?? undefined);
+            const result = await DataService.getDeadlines(lastFilters ?? undefined);
+            set({ deadlines: Array.isArray(result) ? result : get().deadlines });
             await refreshTasksIfLoaded();
         } catch (error) {
+            set({ deadlines: previous });
             console.error('Failed to update deadline:', error);
             throw error;
         }

@@ -27,9 +27,15 @@ export const EDITOR_PAGINATION_BODY_VERTICAL_BASE_PX = 40
 /** Gövde ile header/footer arası taban (PaginationPlus `contentMarginTop` / `contentMarginBottom`) */
 export const EDITOR_PAGINATION_CONTENT_MARGIN_BASE_PX = 10
 
-/** Varsayılan sayfa kenar boşlukları (px); ruler + PaginationPlus ile senkron */
-export const EDITOR_PAGE_MARGIN_LEFT_PX = 50
-export const EDITOR_PAGE_MARGIN_RIGHT_PX = 50
+/**
+ * Default left/right page inset (CSS px @ 96dpi).
+ *
+ * Official UYAP `pageFormat` samples use 15mm (42.519…pt ≈ 56.69px). Integer CSS
+ * px is required for PaginationPlus / `--rm-*` stability, so we snap to 57px.
+ * UYAP export defaults are derived from these values (ADR-0020).
+ */
+export const EDITOR_PAGE_MARGIN_LEFT_PX = 57
+export const EDITOR_PAGE_MARGIN_RIGHT_PX = 57
 
 /** Metin alanı = pageWidth - marginLeft - marginRight */
 export const EDITOR_CONTENT_INNER_WIDTH_PX =
@@ -135,8 +141,11 @@ export const EDITOR_RULER_VERTICAL_MARGIN_SPINNER_RANGE_PX = Math.round(
     EDITOR_RULER_VERTICAL_MARGIN_SPINNER_RANGE_CM * EDITOR_CM_TO_PX,
 )
 
-/** Sol sütun — spinner + hizalama (px) */
-export const EDITOR_RULER_LEFT_CONTROLS_WIDTH_PX = 140
+/** Sol dikey cetvel sütunu — cm etiketleri + çentik (px). Eski 140px boşluk bırakıyordu. */
+export const EDITOR_RULER_LEFT_CONTROLS_WIDTH_PX = 52
 
-/** İnce cam “hap” genişliği (sütun içinde ortalanır) */
+/** İnce cam “hap” genişliği (sütun içinde) */
 export const EDITOR_RULER_VERTICAL_SPINNER_PILL_W_PX = 44
+
+/** Kenar yorum şeridi (sadece çözülmemiş / taslak yorum varken ayrılır) */
+export const EDITOR_MARGIN_COMMENT_GUTTER_PX = 320

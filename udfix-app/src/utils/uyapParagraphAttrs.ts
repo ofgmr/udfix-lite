@@ -12,16 +12,45 @@ import {
     type UyapParagraphEnd,
 } from './uyapParagraphText';
 
+/** Body default in the editor (`LineHeight`). UYAP draws single spacing when the attribute is omitted. */
+export const UDFIX_DEFAULT_CSS_LINE_HEIGHT = 1.5;
+
 /**
- * UYAP `LineSpacing`: 1.0 / 1.5 / 2.0 çarpanları. `0.0` ve `0.5` gibi &lt;1 değerler şema
- * varsayılanıdır (CSS’e yazma). Bunları `line-height` olarak uygulamak satırları üst üste bindirir.
+ * UYAP `LineSpacing` is Swing's extra-space factor (`ParagraphView` bottom inset =
+ * line height × factor): `0` single, `0.5` = 1.5, `1` double. CSS `line-height` is the
+ * full multiple, so the attribute is `css - 1`. Writing the CSS number (or omitting 1.5)
+ * makes UYAP Doküman Editörü draw single spacing.
  */
+export function cssLineHeightToUyapLineSpacing(lineHeight: unknown): string {
+    const raw =
+        lineHeight == null || String(lineHeight).trim() === ''
+            ? String(UDFIX_DEFAULT_CSS_LINE_HEIGHT)
+            : String(lineHeight).trim().replace(',', '.');
+    const css = Number.parseFloat(raw);
+    const factor = Number.isFinite(css) ? Math.max(0, css - 1) : UDFIX_DEFAULT_CSS_LINE_HEIGHT - 1;
+    return formatUyapSpacingNumber(factor);
+}
+
 export function uyapLineSpacingToCssLineHeight(lineSpacing: string | undefined): string | null {
     if (lineSpacing == null || String(lineSpacing).trim() === '') return null;
-    const v = Number.parseFloat(String(lineSpacing).trim());
-    if (!Number.isFinite(v) || v < 1) return null;
-    if (Math.abs(v - 1.0) < 1e-6 || Math.abs(v - 1.5) < 1e-6) return null;
-    return String(v);
+    const factor = Number.parseFloat(String(lineSpacing).trim().replace(',', '.'));
+    if (!Number.isFinite(factor) || factor < 0) return null;
+    const css = Math.round((1 + factor) * 1000) / 1000;
+    if (Math.abs(css - UDFIX_DEFAULT_CSS_LINE_HEIGHT) < 0.001) return null;
+    return formatCssLineHeightNumber(css);
+}
+
+function formatUyapSpacingNumber(n: number): string {
+    const rounded = Math.round(n * 1000) / 1000;
+    if (Math.abs(rounded) < 1e-6) return '0.0';
+    if (Math.abs(rounded - Math.round(rounded)) < 1e-6) return `${Math.round(rounded)}.0`;
+    return String(rounded);
+}
+
+function formatCssLineHeightNumber(n: number): string {
+    const rounded = Math.round(n * 1000) / 1000;
+    if (Math.abs(rounded - Math.round(rounded)) < 1e-6) return String(Math.round(rounded));
+    return String(rounded);
 }
 
 const alignmentMap: Record<string, string> = {

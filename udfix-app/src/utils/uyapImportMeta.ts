@@ -23,6 +23,8 @@ export interface UyapImportPageMargins {
 
 export interface UyapImportMeta {
     pageMargins?: UyapImportPageMargins;
+    /** Root `<template isTemplate="true|false">` when present. */
+    isTemplate?: boolean;
     headerFooter?: {
         sections: HeaderFooterSection;
         settings: Partial<HeaderFooterSettings>;
@@ -152,8 +154,20 @@ async function buildTemplateContext(contentXml: string): Promise<UyapTemplateCon
     }
 }
 
+function parseTemplateRootIsTemplate(contentXml: string): boolean | undefined {
+    const open = contentXml.match(/<template\b([^>]*)>/i);
+    if (!open) return undefined;
+    const hit = /\bisTemplate\s*=\s*"([^"]*)"/i.exec(open[1]);
+    if (!hit) return undefined;
+    const raw = hit[1].trim().toLowerCase();
+    return raw === 'true' || raw === '1';
+}
+
 export async function parseUyapImportMeta(contentXml: string): Promise<UyapImportMeta> {
     const meta: UyapImportMeta = {};
+    const isTemplate = parseTemplateRootIsTemplate(contentXml);
+    if (isTemplate != null) meta.isTemplate = isTemplate;
+
     const pf = parsePageFormatAttrs(contentXml);
     const top = uyapPtStringToPx(pf.topMargin);
     const bottom = uyapPtStringToPx(pf.bottomMargin);

@@ -34,7 +34,7 @@ type DecisionDraft = {
     notes: string;
 };
 
-type MatterPartyLink = { party_id: string; role: string };
+type MatterPartyLink = { party_id: string; role: string; process_role?: string | null };
 
 const CATEGORY_LABELS: Record<string, string> = {
     CIVIL: 'Hukuk',
@@ -216,9 +216,10 @@ export const MatterDialog: React.FC<MatterDialogProps> = ({ open, onOpenChange, 
         let cancelled = false;
         void DataService.getMatter(matter.id).then((m) => {
             if (cancelled || !m?.parties) return;
-            const rows = (m.parties as Array<Party & { role: string }>).map((p) => ({
+            const rows = (m.parties as Array<Party & { role: string; process_role?: string | null }>).map((p) => ({
                 party_id: p.id,
                 role: p.role || 'MÜVEKKİL',
+                process_role: p.process_role || null,
             }));
             setLinkRows(rows);
         });
@@ -741,7 +742,14 @@ export const MatterDialog: React.FC<MatterDialogProps> = ({ open, onOpenChange, 
                                             key={row.party_id}
                                             className="flex flex-wrap items-center gap-2 border border-border/40 rounded-md p-2"
                                         >
-                                            <span className="text-sm flex-1 min-w-0 truncate">{partyLabel(row.party_id)}</span>
+                                            <span className="text-sm flex-1 min-w-0 truncate">
+                                                {partyLabel(row.party_id)}
+                                                {row.process_role ? (
+                                                    <span className="ml-1.5 font-medium text-foreground/80">
+                                                        {row.process_role}
+                                                    </span>
+                                                ) : null}
+                                            </span>
                                             <Select
                                                 value={row.role}
                                                 onValueChange={(v) => updateLinkRole(row.party_id, v)}

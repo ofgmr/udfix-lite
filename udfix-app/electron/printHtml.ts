@@ -47,6 +47,12 @@ export function sanitizePrintMarkup(input: string): string {
             i = end === -1 ? html.length : end + 3;
             continue;
         }
+        const doctype = html.slice(lt).match(/^<!doctype\s+html\s*>/i);
+        if (doctype) {
+            out += '<!DOCTYPE html>';
+            i = lt + doctype[0].length;
+            continue;
+        }
         const gt = html.indexOf('>', lt + 1);
         if (gt === -1) {
             break;
@@ -138,21 +144,25 @@ function isHtmlHeadOpen(html: string, pos: number): boolean {
 
 export function htmlForPrintWindow(documentHtml: string): string {
     const stripped = sanitizePrintMarkup(documentHtml);
+    // Sanitizer drops every <meta>, including charset. Without it Chromium
+    // sniffs the print file as windows-1252 and Turkish letters (ş, ğ, ı, İ)
+    // are stored as the wrong characters while the chosen font still embeds.
+    const charsetTag = '<meta charset="utf-8"/>';
     const cspTag = `<meta http-equiv="Content-Security-Policy" content="${PRINT_CSP}">`;
     const headOpen = stripped.toLowerCase().indexOf('<head');
     if (isHtmlHeadOpen(stripped, headOpen)) {
         const headGt = stripped.indexOf('>', headOpen);
         if (headGt !== -1) {
-            return `${stripped.slice(0, headGt + 1)}${cspTag}${stripped.slice(headGt + 1)}`;
+            return `${stripped.slice(0, headGt + 1)}${charsetTag}${cspTag}${stripped.slice(headGt + 1)}`;
         }
     }
-    return `<!DOCTYPE html><html><head><meta charset="utf-8"/>${cspTag}</head><body>${stripped}</body></html>`;
+    return `<!DOCTYPE html><html><head>${charsetTag}${cspTag}</head><body>${stripped}</body></html>`;
 }
 
 export async function loadPrintHtmlFile(printWin: BrowserWindow, documentHtml: string): Promise<string> {
     const dir = await fs.promises.mkdtemp(path.join(os.tmpdir(), 'udfix-print-'));
     const file = path.join(dir, 'print.html');
-    await fs.promises.writeFile(file, htmlForPrintWindow(documentHtml), 'utf8');
+    await fs.promises.writeFile(file, `\uFEFF${htmlForPrintWindow(documentHtml)}`, 'utf8');
     await printWin.loadFile(file);
     return dir;
 }

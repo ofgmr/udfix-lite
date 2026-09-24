@@ -4,6 +4,8 @@ import { displayCourtName, toTurkishTitleCase } from './turkishTitleCase';
 export type MatterPartyLineInput = {
     full_name?: string | null;
     role?: string | null;
+    /** UYAP süreç sıfatı (`partyProcessRoles`). Office role stays `role`. */
+    process_role?: string | null;
     is_client?: boolean | number | null;
 };
 
@@ -42,6 +44,12 @@ function displayPartyName(raw?: string | null): string {
         .replace(/\bLtd\.?\s*şti\.?/gi, 'Ltd. Şti.');
 }
 
+function withProcessRole(name: string, processRole?: string | null): string {
+    const role = String(processRole || '').trim();
+    if (!name || !role || role.toLocaleLowerCase('tr-TR') === 'taraf') return name;
+    return `${name} (${role})`;
+}
+
 function takeNames(names: string[], max: number): { shown: string[]; extra: number } {
     if (names.length <= max) return { shown: names, extra: 0 };
     return { shown: names.slice(0, max), extra: names.length - max };
@@ -66,7 +74,7 @@ export function formatCompactMatterPartyLine(
     const seen = new Set<string>();
 
     for (const party of parties) {
-        const name = displayPartyName(party.full_name);
+        const name = withProcessRole(displayPartyName(party.full_name), party.process_role);
         if (!name) continue;
         const key = name.toLocaleLowerCase('tr-TR');
         if (seen.has(key)) continue;

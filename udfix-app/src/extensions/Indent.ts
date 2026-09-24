@@ -9,7 +9,15 @@ export interface IndentOptions {
     defaultStep: number
 }
 
-const LIST_ITEM_DEFAULT_MARGIN_LEFT = 40
+/** Default list-item left margin when `marginLeft` is unset (matches `lists.css` `--t-ml`). */
+export const LIST_ITEM_DEFAULT_MARGIN_LEFT = 40
+
+/**
+ * Ruler hanging-handle default for list items with unset `textIndent`.
+ * `abs(-24) + 10` matches `lists.css` `--list-marker-width: 34px`. Not written as CSS
+ * until the user sets indentation (`lists.css` `--t-ti` stays 0).
+ */
+export const LIST_ITEM_DEFAULT_TEXT_INDENT = -24
 
 /**
  * İmlecin içinde olduğu en içteki `listItem`'ın hemen üstündeki `orderedList` / `bulletList`.

@@ -16,12 +16,14 @@ import {
 } from '../../components/ui/popover';
 import { Input } from '../../components/ui/input';
 import { Button } from '../../components/ui/button';
-import { useLayoutStore } from '../../stores/useLayoutStore';
-import { useDocumentCommentsStore } from '../../stores/useDocumentCommentsStore';
+import { Tooltip, TooltipContent, TooltipProvider, TooltipTrigger } from '../../components/ui/tooltip';
 import { getMarkerFormatActive, toggleMarkerFormatOrMark } from '../../utils/listFormatUtils';
-import { HIGHLIGHT_LEMON_HEX } from '../../components/ui/ColorPicker';
+import { startCommentDraftOnSelection } from '../../utils/startCommentDraft';
+import { pushEditorPreferenceToggle } from '../../preferences/pushEditorPreferences';
+import { toggleEditorHighlight } from '../../utils/editorHighlight';
 import {
     isFloatingFormatMenuEnabled,
+    setFloatingFormatMenuEnabled,
     subscribeToFloatingFormatMenuEnabled,
 } from './floatingFormatMenuPreference';
 
@@ -108,6 +110,11 @@ const FloatingFormatMenu: React.FC<FloatingFormatMenuProps> = ({ editor }) => {
         }
     }, [selectionRect, refs]);
 
+    const disableFormatMenu = () => {
+        setFloatingFormatMenuEnabled(false);
+        void pushEditorPreferenceToggle({ floatingFormatMenuEnabled: false });
+    };
+
     const setLink = () => {
         if (linkUrl && editor) {
             editor.chain().focus().extendMarkRange('link').setLink({ href: linkUrl }).run();
@@ -147,12 +154,7 @@ const FloatingFormatMenu: React.FC<FloatingFormatMenuProps> = ({ editor }) => {
             icon: <MaterialIcon icon="comment" size={18} />,
             isActive: editor.isActive('comment'),
             onClick: () => {
-                const id = `comment-${Date.now()}-${Math.random().toString(36).substring(2, 9)}`;
-                editor.chain().focus().setComment(id).run();
-                const comments = useDocumentCommentsStore.getState();
-                const layout = useLayoutStore.getState();
-                comments.setDocumentId(layout.activeDocument);
-                comments.startDraft(id);
+                startCommentDraftOnSelection(editor);
             },
             title: 'Yorum ekle',
         },
@@ -165,7 +167,25 @@ const FloatingFormatMenu: React.FC<FloatingFormatMenuProps> = ({ editor }) => {
                 style={floatingStyles}
                 className="z-[var(--z-editor-floating)]"
             >
-                <div className="flex items-center flex-nowrap gap-1 p-1 rounded-lg glass-panel overflow-x-auto max-w-[calc(100vw-2rem)] shadow-2xl">
+                <TooltipProvider delayDuration={200}>
+                <div className="relative flex items-center flex-nowrap gap-1 p-1 rounded-lg glass-panel overflow-visible max-w-[calc(100vw-2rem)] shadow-2xl">
+                    <Tooltip>
+                        <TooltipTrigger asChild>
+                            <Button
+                                variant="ghost"
+                                size="icon"
+                                className="absolute -right-2 -top-2 z-10 h-6 w-6 rounded-full border border-white/10 bg-background/90 text-muted-foreground shadow-lg hover:bg-destructive/10 hover:text-destructive"
+                                onClick={disableFormatMenu}
+                                onMouseDown={(e) => e.preventDefault()}
+                                aria-label="Açılır menüyü kapat"
+                            >
+                                <MaterialIcon icon="visibility_off" size={14} />
+                            </Button>
+                        </TooltipTrigger>
+                        <TooltipContent side="top" className="z-[var(--z-editor-floating)] px-2 py-1 text-xs">
+                            Açılır menüyü kapat
+                        </TooltipContent>
+                    </Tooltip>
                     {formatButtons.map((button, index) => (
                         <Button
                             key={index}
@@ -214,13 +234,15 @@ const FloatingFormatMenu: React.FC<FloatingFormatMenuProps> = ({ editor }) => {
                     <Button
                         variant="ghost"
                         size="icon"
-                        onClick={() => editor.chain().focus().toggleHighlight({ color: HIGHLIGHT_LEMON_HEX }).run()}
+                        onMouseDown={(e) => e.preventDefault()}
+                        onClick={() => toggleEditorHighlight(editor)}
                         title="Vurgula"
                         className={`h-8 w-8 ${editor.isActive('highlight') ? 'bg-accent text-accent-foreground' : ''}`}
                     >
                         <MaterialIcon icon="highlight" size={18} />
                     </Button>
                 </div>
+                </TooltipProvider>
             </div>
         </FloatingPortal>
     );

@@ -85,8 +85,8 @@ export function coalesceOpeningMonth(row: {
     );
 }
 
-export const OPENING_CHART_LOOKBACK_MONTHS = 36;
-export const TRAILING_OPENING_WINDOWS = [12, 24, 36] as const;
+export const OPENING_CHART_LOOKBACK_MONTHS = 60;
+export const TRAILING_OPENING_WINDOWS = [12, 24, 36, 48, 60] as const;
 export type TrailingOpeningWindow = (typeof TRAILING_OPENING_WINDOWS)[number];
 
 export type TrailingWindowMetrics = {
@@ -101,9 +101,13 @@ export type TrailingOpeningTotals = {
     months12: number;
     months24: number;
     months36: number;
+    months48: number;
+    months60: number;
     window12: TrailingWindowMetrics;
     window24: TrailingWindowMetrics;
     window36: TrailingWindowMetrics;
+    window48: TrailingWindowMetrics;
+    window60: TrailingWindowMetrics;
 };
 
 export type OpeningSeriesMask = {
@@ -210,7 +214,7 @@ function sumTrailingWindowMetrics(
     return out;
 }
 
-/** Opening counts and monthly icra amounts in the last 12/24/36 calendar months ending at `now`. */
+/** Opening counts and monthly icra amounts in the last 12/24/36/48/60 calendar months ending at `now`. */
 export function trailingOpeningTotals(
     counts: Map<string, OpeningMonthAccum>,
     now: Date = new Date(),
@@ -218,13 +222,19 @@ export function trailingOpeningTotals(
     const window12 = sumTrailingWindowMetrics(counts, 12, now);
     const window24 = sumTrailingWindowMetrics(counts, 24, now);
     const window36 = sumTrailingWindowMetrics(counts, 36, now);
+    const window48 = sumTrailingWindowMetrics(counts, 48, now);
+    const window60 = sumTrailingWindowMetrics(counts, 60, now);
     return {
         months12: window12.count,
         months24: window24.count,
         months36: window36.count,
+        months48: window48.count,
+        months60: window60.count,
         window12,
         window24,
         window36,
+        window48,
+        window60,
     };
 }
 
@@ -261,7 +271,7 @@ export function applyOpeningSeriesMask<T extends {
 }
 
 /**
- * Running sums along the given rows (typically the visible 12/24/36 slice).
+ * Running sums along the given rows (typically the visible 12/24/36/48/60 slice).
  * File types and finance are cumulative **openings / monthly amounts**, not office-wide stock.
  * `netStock` is cumulative openings minus cumulative `closedThisMonth` from the first plotted month.
  */

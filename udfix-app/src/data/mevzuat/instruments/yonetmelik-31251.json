@@ -1,0 +1,495 @@
+{
+  "id": "yonetmelik:31251",
+  "kind": "yonetmelik",
+  "no": "31251",
+  "title": "Arazi Toplulaştırması ve Tarla İçi Geliştirme Hizmetleri Uygulama Yönetmeliği",
+  "shortName": "Toplulaştırma Yön.",
+  "aliases": [
+    "Toplulaştırma Yön.",
+    "Arazi Toplulaştırması ve Tarla İçi Geliştirme Hizmetleri Uygulama Yönetmeliği",
+    "31251"
+  ],
+  "tur": 7,
+  "tertip": 5,
+  "sourceUrl": "https://www.mevzuat.gov.tr/mevzuat?MevzuatNo=31251&MevzuatTur=7&MevzuatTertip=5",
+  "kabulTarihi": null,
+  "maddeCount": 28,
+  "maddeler": [
+    {
+      "id": "yonetmelik:31251:m:1",
+      "maddeKind": "madde",
+      "maddeNo": "1",
+      "heading": "Madde 1",
+      "text": "(1) Bu Yönetmeliğin amacı, tarımsal arazilerin toplulaştırması ve tarla içi geliştirme hizmetlerine ilişkin usul ve esasları belirlemektir.",
+      "preview": "(1) Bu Yönetmeliğin amacı, tarımsal arazilerin toplulaştırması ve tarla içi geliştirme hizmetlerine ilişkin usul ve esasları belirlemektir.",
+      "kitap": null,
+      "kisim": null,
+      "bolum": "BİRİNCİ BÖLÜM · Amaç, Kapsam, Dayanak ve Tanımlar",
+      "ayirim": null,
+      "maddeBaslik": "Amaç",
+      "sectionPath": [
+        "BİRİNCİ BÖLÜM · Amaç, Kapsam, Dayanak ve Tanımlar",
+        "Amaç"
+      ]
+    },
+    {
+      "id": "yonetmelik:31251:m:2",
+      "maddeKind": "madde",
+      "maddeNo": "2",
+      "heading": "Madde 2",
+      "text": "(1) Bu Yönetmelik, arazi toplulaştırması ve tarla içi geliştirme hizmetleri ile ilgili usul ve esasları kapsar.",
+      "preview": "(1) Bu Yönetmelik, arazi toplulaştırması ve tarla içi geliştirme hizmetleri ile ilgili usul ve esasları kapsar.",
+      "kitap": null,
+      "kisim": null,
+      "bolum": "BİRİNCİ BÖLÜM · Amaç, Kapsam, Dayanak ve Tanımlar",
+      "ayirim": null,
+      "maddeBaslik": "Kapsam",
+      "sectionPath": [
+        "BİRİNCİ BÖLÜM · Amaç, Kapsam, Dayanak ve Tanımlar",
+        "Kapsam"
+      ]
+    },
+    {
+      "id": "yonetmelik:31251:m:3",
+      "maddeKind": "madde",
+      "maddeNo": "3",
+      "heading": "Madde 3",
+      "text": "(1) Bu Yönetmelik, 18/12/1953 tarihli ve 6200 sayılı Devlet Su İşleri Genel Müdürlüğünce Yürütülen Hizmetler Hakkında Kanunun Ek-9 uncu maddesi, 22/11/1984 tarihli ve 3083 sayılı Sulama Alanlarında Arazi Düzenlenmesine Dair Tarım Reformu Kanununun 6 ncı maddesi ve 3/7/2005 tarihli ve 5403 sayılı Toprak Koruma ve Arazi Kullanımı Kanununun 24 üncü maddesine istinaden hazırlanmıştır.",
+      "preview": "(1) Bu Yönetmelik, 18/12/1953 tarihli ve 6200 sayılı Devlet Su İşleri Genel Müdürlüğünce Yürütülen Hizmetler Hakkında Kanunun Ek-9 uncu madd…",
+      "kitap": null,
+      "kisim": null,
+      "bolum": "BİRİNCİ BÖLÜM · Amaç, Kapsam, Dayanak ve Tanımlar",
+      "ayirim": null,
+      "maddeBaslik": "Dayanak",
+      "sectionPath": [
+        "BİRİNCİ BÖLÜM · Amaç, Kapsam, Dayanak ve Tanımlar",
+        "Dayanak"
+      ]
+    },
+    {
+      "id": "yonetmelik:31251:m:4",
+      "maddeKind": "madde",
+      "maddeNo": "4",
+      "heading": "Madde 4",
+      "text": "(1) Bu Yönetmelikte geçen;\n a) Aile: Karı, koca ve varsa birlikte oturan reşit olmayan çocuklardan meydana gelen müesseseyi,\n b) Arazi: Toprak, iklim, topoğrafya, ana materyal, hidroloji ve canlıların değişik oranda etkisi altında bulunan yeryüzü parçasını,\n c) Arazi derecelendirmesi: Arazi toplulaştırma sahasında bulunan gerçek ve tüzel kişiler ile devlete ait arazilerde yapılacak toprak etütleri ve laboratuvar analizleri ile belirlenen toprak özellikleri, verimlilik ve arazinin konumuna bağlı olarak hesaplanan ve arazinin konum ile büyüklüğünün değişimine esas olacak değerlerin tespit iş ve işlemini,\n ç) Arazi derecelendirme komisyonu: Arazi derecelendirme işlemlerini yapmaya yetkili komisyonu,\n d) Arazi toplulaştırması: Tarım arazilerinin doğal ve yapay etkilerle bozulmasını ve parçalanmasını önlemek, parçalanmış arazilerde ise doğal özellikleri, kullanım bütünlüğü ve mülkiyet hakları gözetilerek birden fazla arazi parçasının birleştirilip ekonomik, ekolojik ve daha işlevsel yeni parsellerin oluşturulmasını, bu parsellerin arazi özellikleri ve alanı değerlendirilerek kullanım şekillerinin belirlenmesini ve arazi gelişimi hizmetlerinin sağlanmasını,\n e) Arazi yetenek sınıflaması: Toprak bozulmasına neden olmayacak şekilde arazinin en uygun kullanım şeklini belirlemek için kullanım ve koruma verilerini bir araya getirerek temel toprak etütlerine ve iklim koşullarına dayalı yapılan planlamalara yönelik arazi sınıflamasını,\n f) Arsa: Yerleşim alanları içinde veya dışında konut, sanayi, ticaret, turizm ve benzeri amaçlarla yerleşim için imar planı yapılmış veya bu amaçla kullanılan, planı bulunmayan yoğun yerleşim alanları içinde kalan arazileri,\n g) Asgari tarımsal arazi büyüklüğü: Üretim faaliyet ve girdileri rasyonel ve ekonomik olarak kullanıldığı takdirde, bir tarımsal arazide elde edilen verimliliğin, söz konusu tarımsal arazinin daha fazla küçülmesi hâlinde elde edilemeyeceği Tarım ve Orman Bakanlığınca belirlenen en küçük tarımsal parsel büyüklüğünü,\n ğ) Bakanlık: Devlet Su İşleri Genel Müdürlüğünün bağlı olduğu Bakanlığı,\n h) Blok: Yol, kanal, dere gibi yapay ve doğal sınırlarla çevrili parseller topluluğunu,\n ı) Blok Planı: Aplikasyona müstenit sulama, yol ve drenaj projeleri ile hâlihazır haritaya göre oluşturulmuş uygulama koordinatları olan, toplulaştırma kriterlerine göre çizilmiş planları,\n i) Çiftçi: Mal sahibi, kiracı, yarıcı veya ortakçı olarak devamlı veya en az bir üretim dönemi veya yetiştirme devresi tarımsal üretim yapan gerçek ve tüzel kişileri,\n j) Dikili tarım arazisi: Mutlak ve özel ürün arazileri dışında kalan ve üzerinde yöre ekolojisine uygun çok yıllık ağaç, ağaççık ve çalı formundaki bitkilerin tarımı yapılan, ülkesel, bölgesel veya yerel önemi bulunan arazileri,\n k) Ortak tesislere katılım payı (Düzenleme ortalık payı): Arazi toplulaştırmasına konu kadastral parsellerin tapu siciline tescil edilmiş yüzölçümünün, arazi özellikleri ile birlikte değerlendirilerek bulunan parsel değer sayılarından yol, kanal, tahliye kanalı gibi proje gereği ihtiyaç duyulan ve kamunun ortak kullanacağı yerler için en fazla %10’a kadar yapılan kesinti payını,\n l) DSİ: Devlet Su İşleri Genel Müdürlüğünün merkez ve taşra teşkilatını,\n m) Halihazır harita: Arazi toplulaştırma alanına ilişkin blok planlamasının hazırlanmasında ve derecelendirme çalışmalarında altlık oluşturacak, arazinin topografyasını, her çeşit detayı, sabit tesisleri ve mevcut arazi kullanım durumunu gösterecek şekilde yapılan veya yaptırılan haritayı,\n n) İsteğe bağlı arazi toplulaştırması: Toplulaştırma etüt sahasındaki arazi sahiplerinin sayıca ve sahip oldukları arazilerin alansal olarak yüzde (Değişik ibare:RG-29/1/2021-31379) elliden fazlasının imzalı muvafakati alınarak yapılan arazi toplulaştırmasını,\n o) Kamu yararı kararı: Bakanlıklarca yatırım programına alınmış yatırımlar veya insan, toplum ve çevre ilişkilerinde dengeyi bozucu nitelikte olmayan, ekonomik, ekolojik ve toplumsal kayıplar bakımından toplum aleyhine sonuçlar doğurmayan, kişiler ve toplum yararı birlikte gözetilerek ilgili bakanlık tarafından alınan kararı,\n ö) Kanun: 18/12/1953 tarihli ve 6200 sayılı Devlet Su İşleri Genel Müdürlüğünce Yürütülen Hizmetler Hakkındaki Kanunu,\n p) Kapitalizasyon oranı: Taşınmazın yıllık ortalama net geliri ile gerçek satış değeri arasındaki oranı,\n r) Kuru tarım arazisi: Tarımı yapılan bitkilerin büyüme devresinde ihtiyaç duyduğu suyun, sadece doğal yağışlarla karşılandığı arazileri,\n s) Malik: Proje sahasında cinsi ve vasfı ne olursa olsun taşınmaza ait tapusu olan gerçek veya tüzel kişiyi,\n ş) Marjinal tarım arazisi: Mutlak tarım arazileri, özel ürün arazileri ve dikili tarım arazileri dışında kalan, toprak ve topoğrafik sınırlamalar nedeniyle üzerinde sadece geleneksel toprak işlemeli tarımın yapıldığı arazileri,\n t) Mutlak tarım arazisi: Bitkisel üretimde; toprağın fiziksel, kimyasal ve biyolojik özelliklerinin kombinasyonu, yöre ortalamasında ürün alınabilmesi için sınırlayıcı olmayan, topoğrafik sınırlamaları olmayan veya çok az olan, ülkesel, bölgesel veya yerel önemi bulunan, hâlihazır tarımsal üretimde kullanılan veya bu amaçla kullanıma elverişli olan arazileri,\n u) Mülakat: İşletmelerin yeni parselasyon planlaması ile ilgili tercihlerinin tespit edilerek imza altına alınmasını,\n ü) Özel arazi toplulaştırması: Köy tüzel kişiliği, belediyeler, kooperatifler, birlikler gibi tüzel kişilikler veya kamu kuruluşlarının, hizmet konuları ile ilgili yapacakları arazi toplulaştırmasını ve tarla içi geliştirme hizmetlerini,\n v) Özel ürün arazisi: Mutlak tarım arazileri dışında kalan, toprak ve topoğrafik sınırlamaları nedeniyle yöreye adapte olmuş bitki türlerinin tamamının tarımının yapılamadığı, ancak özel bitkisel ürünlerin yetiştiriciliği ile su ürünleri yetiştiriciliğinin ve avcılığının yapılabildiği, ülkesel, bölgesel veya yerel önemi bulunan arazileri,\n y) Parsel endeksi: Toprak etütleri sonucu elde edilen toprak endeksinin yüzde altmışı alınarak buna konum ve diğer özelliklerinin puanlarının eklenmesiyle bulunan değeri,\n z) Parsel değer sayısı: Arazi derecelendirmesi sonucu bulunan her bir alana karşılık gelen parsel endeks değerinin, o parselin alanı ile çarpımı sonucu elde edilen sayısal değeri,\n aa) Proje alanı: Arazi toplulaştırması ve tarla içi geliştirme hizmetlerinin yapılacağı yerleşim birimlerinin kadastral sınırları içinde kalan alanı,\n bb) (Değişik:RG-29/1/2021-31379) Proje birimi: Arazi toplulaştırması ve tarla içi geliştirme hizmetleri projesinin hazırlanması, uygulanması ve kontrolü amacı ile DSİ veya proje idaresi bünyesinde benzer işlerde minimum iki yıl çalışmış birisi başkan olmak üzere, bir harita mühendisi ve bir ziraat mühendisi ile bir ziraat mühendisi veya biyosistem mühendisi olmak üzere ve/veya gerektiğinde projenin özelliğine göre diğer meslek gruplarından da üye dâhil edilerek oluşturulan ekibi,\n cc) Proje idaresi: DSİ’nin iznine tabi olarak hizmet konuları ile ilgili arazi toplulaştırma ve tarla içi geliştirme hizmetlerini yürütmeye yetkili DSİ dışındaki kurum ve kuruluşları,\n çç) Sabit tesis: Ev, ahır, samanlık, ambar, kuyu gibi yapılar ile dikili ve kapama meyve bahçesi niteliğindeki tarım arazilerini,\n dd) Sulu tarım arazisi: Tarımı yapılan bitkilerin büyüme devresinde ihtiyaç duyduğu suyun, kaynağından alınarak yeterli miktarda, zamanında ve kontrollü bir şekilde karşılandığı arazileri,\n ee) Tahsisli arazi: Bu Yönetmelik kapsamında değerlendirilmek üzere, Hazinenin özel mülkiyetinde veya Devletin hüküm ve tasarrufu altında bulunan taşınmazlardan, vasfı ve hâlihazır kullanım şekline bakılmaksızın toplulaştırma kapsamında değerlendirilebilecek yerlerden Maliye Bakanlığı tarafından Bakanlığa tahsis edilen yerleri,\n ff) Tarım arazileri sınıfı: Doğal özellikleri ve yapılan tarım şekline göre nitelikleri Tarım ve Orman Bakanlığınca belirlenen mutlak tarım arazileri, özel ürün arazileri, dikili tarım arazileri, marjinal tarım arazilerini,\n gg) Tarım arazisi: Toprak, topoğrafya ve iklimsel özellikleri tarımsal üretim için uygun olup, hâlihazırda tarımsal üretim yapılan veya yapılmaya uygun olan veya imar, ihya, ıslah edilerek tarımsal üretim yapılmaya uygun hale dönüştürülebilen arazileri,\n ğğ) Tarımsal arazi değeri: Tarım arazilerinden elde edilecek yıllık ortalama net gelirin kapitalizasyon faiz oranı ile bölümü ile hesaplanan m² cinsinden arazi değerini,\n hh) Tarımsal İşletme: Yasal durumu ne olursa olsun, sahip olduğu, ortakçılık, yarıcılık ya da kiralama şeklinde işlediği arazinin büyüklüğüne bakılmaksızın kendi adına bitkisel üretim yapan ya da küçükbaş veya büyükbaş hayvan besleyen yahut hem bitkisel üretim hem hayvancılık yapan tek yönetim altındaki ekonomik birimi,\n ıı) Tarla içi geliştirme hizmetleri: Sulama, drenaj, toprak koruma, toprak ıslahı, tesviye, anların kaldırılması ile ağaç, çalı temizleme, (Değişik ibare:RG-29/1/2021-31379) taş nakli, tarla içi yolları, dere ıslahı ve sanat yapıları gibi arazi geliştirme hizmetlerini,\n ii) Toprak: Mineral ve organik maddelerin parçalanarak ayrışması sonucu oluşan, yeryüzünü ince bir tabaka halinde kaplayan, canlı ve doğal kaynağı,\n jj) Toprak etüdü: Toprağın fiziksel ve kimyasal özellikleri, toprağın bünyesi, yapısı, ıslah yetersizlikleri, drenaj durumu hususlarının analizlerle ve arazi gözlemleri ile tespit edilmesi iş ve işlemini,\n kk) Uygulayıcı Kuruluş: Devlet Su İşleri Genel Müdürlüğünü,\n ll) Yeşil bant: Tarla içi ve bağlantı yollarına paralel olarak yeterli genişlikte ağaçlandırılmak üzere planlanan alanları,\n mm) Yeter gelirli tarımsal arazi büyüklüğü: Bölge farklılıkları göz önünde bulundurularak il ve ilçelerin 5403 sayılı Toprak Koruma ve Arazi Kullanımı Kanununa ekli (1) sayılı listede belirlenen yeter gelirli tarımsal arazi büyüklüklerini,\n nn) Zorunlu Arazi Toplulaştırması: Kamu yararı gözetilerek proje sahasındaki arazi maliklerinin muvafakati aranmaksızın yapılan arazi toplulaştırmasını,\n ifade eder.",
+      "preview": "(1) Bu Yönetmelikte geçen; a) Aile: Karı, koca ve varsa birlikte oturan reşit olmayan çocuklardan meydana gelen müesseseyi, b) Arazi: Toprak…",
+      "kitap": null,
+      "kisim": null,
+      "bolum": "BİRİNCİ BÖLÜM · Amaç, Kapsam, Dayanak ve Tanımlar",
+      "ayirim": null,
+      "maddeBaslik": "Tanımlar",
+      "sectionPath": [
+        "BİRİNCİ BÖLÜM · Amaç, Kapsam, Dayanak ve Tanımlar",
+        "Tanımlar"
+      ]
+    },
+    {
+      "id": "yonetmelik:31251:m:5",
+      "maddeKind": "madde",
+      "maddeNo": "5",
+      "heading": "Madde 5",
+      "text": "(1) Arazi toplulaştırma projesinin uygulanacağı alanın sınırları ve bu sınırlar içerisinde kalan alan; yapılacak ön etüt çalışmaları ile arazi toplulaştırma proje sahası olarak belirlenir. Arazi toplulaştırma proje sahası olarak belirlenen alan; yeri, ulaşım durumu, mülkiyet ve kadastro durumu, topoğrafya ve toprak durumu, arazi kullanım durumu, sulama, drenaj ve diğer tarla içi geliştirme hizmetleri gereksinimi yönünden incelenerek proje kapsamında yer alacak işler ve gerekçeleri ile birlikte ön etüt raporunda belirtilir.\n (2) Arazi toplulaştırması ve tarla içi geliştirme hizmetlerinin yürütülmesinde DSİ uygulayıcı kuruluş olarak yetkilidir. DSİ, sadece kendi yürüttüğü arazi toplulaştırma çalışmaları kapsamında yapılan iş ve işlemlerden hukuki olarak sorumludur. DSİ dışındaki kurum ve kuruluşlar DSİ’nin iznine tabi olarak proje idaresi sıfatıyla arazi toplulaştırma ve tarla içi geliştirme hizmetlerini yürütmeye yetkilidir.\n (3) Uygulayıcı kuruluş olarak DSİ tarafından, alınan Cumhurbaşkanı Kararı ile DSİ veya proje idaresi tarafından isteğe bağlı ya da maliklerin muvafakati aranmaksızın zorunlu arazi toplulaştırma ve tarla içi geliştirme hizmetleri yapılabilir veya yaptırılabilir.\n (4) Arazi toplulaştırması projelerinde isteğe bağlı arazi toplulaştırma projelerine öncelik tanınır.\n (5) Proje birimince, proje alanı içinde bulunan arazi malikleri ile yerel yönetim temsilcilerinin katıldıkları proje bilgilendirme toplantısı yapılır.\n (6) (Değişik:RG-29/1/2021-31379) İsteğe bağlı toplulaştırma, proje alanı içerisinde sayıca ve sahip oldukları arazilerin alansal olarak yüzde elliden fazlasına malik bulunan arazi sahiplerinin veya kanuni mirasçılarının yazılı muvafakati ile yapılır. Muvafakat alınma işlemi, DSİ veya proje idaresince Cumhurbaşkanı Kararı öncesinde yapılır/yaptırılır.\n (7) Cumhurbaşkanı Kararı, arazi toplulaştırması ve diğer işlemler yönünden kamu yararı kararı sayılır.\n (8) Cumhurbaşkanı Kararının Resmî Gazete’de yayımlanmasını müteakip bir ay içerisinde mahallin en büyük mülki idare amirine duyurulmak üzere bildirilir. Bu karar DSİ veya özel arazi toplulaştırmasını gerçekleştiren proje idaresinin internet sayfalarında ve ayrıca köy veya mahalle muhtarının çalışma yerinde otuz gün süre ile ilan ettirilir.\n (9) Cumhurbaşkanı Kararının Resmî Gazete’de yayımlanmasından sonra yapılacak olan sabit tesisler, arazi toplulaştırmasında dikkate alınmaz ve ihtilaf halinde bunlar tazminata konu olamaz. Proje sahasında ortofoto görüntüsü yardımıyla sabit tesisler belirlenir ve tespitler belge sayılır. Sabit tesis bulunan parsellerin listesi ve ortofoto haritası mahallinde ilan edilerek parsel maliklerinin bilgilenmesi sağlanır.\n (10) Proje sahası olarak ilan edilen alanlar ilgili kurum ve kuruluşlara bildirilir. Yatırımcı kurum ve kuruluşlardan bilgilendirme ile birlikte söz konusu alana ilişkin projelerinin bulunup bulunmadığına dair bilgi ve belgeler talep edilir.\n (11) Arazi toplulaştırması muhtevasında ilanen yapılan duyurular tebligat yerine geçer, ayrıca tebligat yapılmaz.\n (12) Arazi toplulaştırması sonuçlarına karşı; tescil tarihinden itibaren 10 yıl içerisinde dava açılabilir.\n (13) Arazi toplulaştırması uygulanacak arazi üzerinde, DSİ veya proje idaresi tarafından yapılacak fiili uygulamalar, hak sahiplerinin iznine tabi değildir. Arazi toplulaştırması yürütülen alanlarda tarımsal faaliyetleri kısıtlamaya DSİ veya proje idaresi yetkilidir.\n (14) Arazi toplulaştırma projesi, belirlenen yerleşim birimlerinin kadastral sınırları içerisinde kalan arazilerde uygulanır. Ancak sulama ve rehabilitasyon projelerinde proje sahasında kalan alanı kadastral alanına göre çok küçük olan yerleşim alanlarında sulama veya rehabilitasyon alanı proje alanı olarak kabul edilir. Toplulaştırma projesi uygulama alanına, bir veya birden çok yerleşim birimine ait araziler de girebilir.\n (15) İlan edilen toplulaştırma proje alanı, kullanım şekilleri ve arazi özellikleri dikkate alınarak kendi içerisinde toplulaştırma yapılması için birden fazla alt proje alanına ayrılabilir.\n (16) İhtiyaç duyulması halinde proje kapsamında yapılacak çalışmalara temel oluşturmak üzere arazi topoğrafyası, sabit tesisler ve benzeri ayrıntıları gösteren proje sahası hâlihazır haritası yapılır veya yaptırılır.\n (17) Uygulama esnasında arazi toplulaştırması kriterlerine ve tekniğine uygun olmadığı tespit edilen alanlar, arazi toplulaştırmasını yürüten DSİ veya proje idaresi tarafından onaylanan gerekçeli rapor ile kısmen veya tamamen toplulaştırma dışı bırakılabilir.",
+      "preview": "(1) Arazi toplulaştırma projesinin uygulanacağı alanın sınırları ve bu sınırlar içerisinde kalan alan; yapılacak ön etüt çalışmaları ile ara…",
+      "kitap": null,
+      "kisim": null,
+      "bolum": "İKİNCİ BÖLÜM · Arazi Toplulaştırması",
+      "ayirim": null,
+      "maddeBaslik": "Arazi etütleri ve toplulaştırma alanlarının belirlenmesi",
+      "sectionPath": [
+        "İKİNCİ BÖLÜM · Arazi Toplulaştırması",
+        "Arazi etütleri ve toplulaştırma alanlarının belirlenmesi"
+      ]
+    },
+    {
+      "id": "yonetmelik:31251:m:6",
+      "maddeKind": "madde",
+      "maddeNo": "6",
+      "heading": "Madde 6",
+      "text": "(1) Köy tüzel kişilikleri, belediyeler, kooperatifler, birlikler gibi tüzel kişilikler veya kamu kuruluşlarının, hizmet konuları ile ilgili arazi toplulaştırması ve/veya tarla içi geliştirme hizmeti yapmak istemeleri durumunda; arazi etütleri ve toplulaştırma alanının belirlenmesiyle ilgili gerekçe raporları ile proje idaresi sıfatıyla DSİ’ye başvurarak toplulaştırma isteklerini bildirirler.\n (2) (Değişik:RG-29/1/2021-31379) Gerekçe raporunun yeterli görülmesi durumunda; isteğe bağlı yapılacak arazi toplulaştırması projeleri için proje alanı içerisinde sayıca ve sahip oldukları arazilerin alansal olarak yüzde elliden fazlasına malik bulunan arazi sahiplerinin veya kanuni mirasçılarının yazılı muvafakati alınır.\n (3) DSİ’nin bağlı olduğu Bakanlığın teklifi ile Cumhurbaşkanlığı Kararı alınır. Cumhurbaşkanlığı Kararının Resmî Gazete’de yayımlanmasını müteakip proje idaresi arazi toplulaştırması projesini yürütür.\n (4) Arazi toplulaştırması yapmak isteyen kuruluş; (Değişik ibare:RG-29/1/2021-31379) birisi konusunda uzman benzer işlerde minimum iki yıl çalışmış, ziraat mühendisi veya biyosistem mühendisi ve bir harita mühendisi ile gerekli görülmesi halinde diğer meslek gruplarından gerekli teknik personeli bünyesinde bulundurmak veya proje süresince tâbi oldukları mevzuat hükümlerine uygun olarak personeli çalıştırmak zorundadır.\n (5) Arazi toplulaştırması yapan kurum veya kuruluşlar kamu yatırımları için ihtiyaç duyulan arazi miktarını arazi toplulaştırması yoluyla karşılayabilir.\n (6) Arazi toplulaştırması yapacak idarelerce ihtiyaç duyulacak yatırımlar için ortak tesislere katılım payı ile karşılanamayan araziler, varsa hazine arazilerinden, hazine arazilerinin yeterli olmadığı veya bulunmadığı yerlerde ise ilgili idarelerce belirlenecek usûl ve esaslar dahilinde fizikî tesislerin yapılacağı alana bağlı kalınmaksızın gerçek ve tüzel kişilerden anlaşma yoluyla karşılanabilir. Bu araziler, fizikî tesislerin yapılacağı yere taşınır.\n (7) Aynı alanda birden fazla kurum veya kuruluş tarafından toplulaştırma ve/veya tarla içi geliştirme hizmeti yapmak talebinde bulunulması halinde arazi toplulaştırması ve/veya tarla içi geliştirme hizmetini yapacak kuruluşu belirlemeye DSİ yetkilidir.\n (8) Arazi toplulaştırma çalışmaları muhtevasında yapılan bütün iş ve işlemlerin onayı, tescili ve bu işlemlerden doğacak hukuki sorumluluk arazi toplulaştırmasını yürüten proje idaresine aittir.\n (9) Toplulaştırma kapsamında yapılan parselasyon planları uygulamayı yapan kurum tarafından onaylandıktan sonra kesinleşir.\n (10) Başvuruda bulunan proje idaresi tarafından projenin tamamlanmasından sonra projeye ilişkin tüm bilgi ve belgeler, sayısal ortamda DSİ’ye gönderilir.\n (11) DSİ tarafından yapılan toplulaştırma projelerinde uygulanan usul ve esaslar, özel toplulaştırma projelerinde de uygulanır. Uygulamada bütünlük sağlanması açısından proje idareleri, arazi toplulaştırma ve tarla içi geliştirme hizmetleri konusunda DSİ tarafından yayımlanan veya yayımlanacak olan tüm yönetmelik, tüzük, talimat, rehber vb. dokümanlara uymakla yükümlüdür.",
+      "preview": "(1) Köy tüzel kişilikleri, belediyeler, kooperatifler, birlikler gibi tüzel kişilikler veya kamu kuruluşlarının, hizmet konuları ile ilgili…",
+      "kitap": null,
+      "kisim": null,
+      "bolum": "İKİNCİ BÖLÜM · Arazi Toplulaştırması",
+      "ayirim": null,
+      "maddeBaslik": "Özel arazi toplulaştırması",
+      "sectionPath": [
+        "İKİNCİ BÖLÜM · Arazi Toplulaştırması",
+        "Özel arazi toplulaştırması"
+      ]
+    },
+    {
+      "id": "yonetmelik:31251:m:7",
+      "maddeKind": "madde",
+      "maddeNo": "7",
+      "heading": "Madde 7",
+      "text": "(1) Arazi toplulaştırması, kadastrosu yapılmış olan yerlerde uygulanır. Belirlenen toplulaştırma alanı içerisinde kadastro paftalarının yenilenmesi gerekiyorsa, bu yerlerin kadastro veya yenileme işlemleri Tapu ve Kadastro Genel Müdürlüğünce öncelikle yapılır veya yaptırılır.\n (2) Arazi toplulaştırma projelerinin uygulanması esnasında, elbirliği mülkiyet olarak tescilli parsellerin, paylı mülkiyete dönüştürülmesi işlemleri uygulayıcı kuruluş tarafından re’sen gerçekleştirilir. Kesinleşen listelerin tapu müdürlüğü tarafından doğrudan paylı mülkiyet olarak tescili sağlanır. Bu yetki kapsamındaki işlemler her türlü gider, vergi, resim ve harçtan müstesnadır.\n (3) Arazi toplulaştırma ve tarla içi geliştirme hizmetleri projelerinin uygulanması esnasında, tapuya kayıtlı olup tescile esas belgesine aykırılığı tespit edilen hisse hataları ile 3/7/2005 tarihli ve 5403 sayılı Toprak Koruma ve Arazi Kullanımı Kanununun 8 inci maddesi hükümlerine tabi olmayan iştirak halinde mülkiyet olarak tescilli parsellerin paylı mülkiyete dönüştürülmesi işlemleri, DSİ veya proje idaresi tarafından re’sen düzeltilir. Kesinleşen listelerin tapu müdürlüğü tarafından doğrudan paylı mülkiyet olarak tescili sağlanır. Bu yetki kapsamındaki işlemler her türlü gider, vergi, resim ve harçtan müstesnadır. Bu madde kapsamında getirilen istisnalar mükelleflerin veraset ve intikal vergisine ilişkin yükümlülüklerini ortadan kaldırmaz.\n (4) Toplulaştırma proje alanı içerisinde kalan taşınmazlara ait kadastral altlıklarda; ölçü, tersimat, sınırlandırma ve hesaplamadan doğan yüzölçümü hataları arazi toplulaştırma uygulamasından önce, Kadastro Müdürlüğü tarafından mevzuat hükümleri uyarınca düzeltilir.",
+      "preview": "(1) Arazi toplulaştırması, kadastrosu yapılmış olan yerlerde uygulanır. Belirlenen toplulaştırma alanı içerisinde kadastro paftalarının yeni…",
+      "kitap": null,
+      "kisim": null,
+      "bolum": "ÜÇÜNCÜ BÖLÜM · Arazi Toplulaştırma Uygulaması",
+      "ayirim": null,
+      "maddeBaslik": "Kadastro işlemleri",
+      "sectionPath": [
+        "ÜÇÜNCÜ BÖLÜM · Arazi Toplulaştırma Uygulaması",
+        "Kadastro işlemleri"
+      ]
+    },
+    {
+      "id": "yonetmelik:31251:m:8",
+      "maddeKind": "madde",
+      "maddeNo": "8",
+      "heading": "Madde 8",
+      "text": "(1) Toplulaştırma sahası ilân edilen yerlerde DSİ veya proje idaresince bildirilen parsellerin tapu kütüğü sayfalarının beyanlar hanesine toplulaştırma alanına girdiğine dair “6200 sayılı Kanunun Ek 9 uncu maddesi gereğince arazi toplulaştırması kapsamına alınmıştır.” belirtmesinin konulması, arazi toplulaştırmasını yürüten idare tarafından ilgili tapu müdürlüklerinden talep edilir. Bu belirtme tarihinden itibaren toplulaştırma işlemi tamamlanıp tapuya tescili sonuçlandırılıncaya kadar toplulaştırma alanındaki taşınmazlar üzerindeki tescilsiz iktisap halleri hariç malik ya da hak sahiplerinin talebine bağlı her türlü devir, temlik, ipotek ve satış vaadi, ifraz ve taksim, ayni ve şahsi haklar ile belirtme işlemleri DSİ veya proje idaresinin iznine bağlıdır.\n (2) Herhangi bir nedenle dava konusu edilmiş olup yargılama süreci devam eden, toplulaştırma alanındaki taşınmazlara ilişkin toplulaştırma kararı alındığı ve tapu siciline belirtme yapıldığı hususları DSİ veya proje idaresince ilgili mahkemelere bildirilir. Mahkeme kararı ile yapılan her türlü devir, temlik ve ifraz işlemlerinin sonucu ilgili tapu müdürlüklerince DSİ veya proje idaresine bildirilir.\n (3) Toplulaştırma belirtmesinden sonra araziyi satın alan malik, önceki malikin taahhütlerini aynen kabul etmiş sayılır.\n (4) Eski parseller üzerindeki “6200 sayılı Kanunun Ek 9 uncu maddesi gereğince arazi toplulaştırması kapsamına alınmıştır.” belirtmesi, yeni parselasyon planlarının tescili ile birlikte sona erer, yeni oluşacak parsellere bu belirtme taşınmaz.\n (5) (Ek:RG-29/1/2021-31379) 5 inci maddenin on yedinci fıkrası uyarınca DSİ veya proje idaresinin onayı ile kısmen veya tamamen toplulaştırma dışı bırakılan alanlardaki parsellere daha önce konulmuş olan; “6200 sayılı Kanunun Ek 9 uncu maddesi gereğince arazi toplulaştırması kapsamına alınmıştır.” belirtmesinin kaldırılması, arazi toplulaştırmasını yürüten idare tarafından ilgili tapu müdürlüklerinden talep edilir.",
+      "preview": "(1) Toplulaştırma sahası ilân edilen yerlerde DSİ veya proje idaresince bildirilen parsellerin tapu kütüğü sayfalarının beyanlar hanesine to…",
+      "kitap": null,
+      "kisim": null,
+      "bolum": "ÜÇÜNCÜ BÖLÜM · Arazi Toplulaştırma Uygulaması",
+      "ayirim": null,
+      "maddeBaslik": "Tapu siciline belirtme konulması",
+      "sectionPath": [
+        "ÜÇÜNCÜ BÖLÜM · Arazi Toplulaştırma Uygulaması",
+        "Tapu siciline belirtme konulması"
+      ]
+    },
+    {
+      "id": "yonetmelik:31251:m:9",
+      "maddeKind": "madde",
+      "maddeNo": "9",
+      "heading": "Madde 9",
+      "text": "(1) (Değişik:RG-29/1/2021-31379) Toplulaştırma yapılacak alanda, uygulamayı geciktirmemek için üç yılı geçmemek üzere, yapılacak bitkisel üretimin tür ve çeşidi, kapsayacağı alan çiftçilerin de katılımıyla DSİ veya proje idaresince kararlaştırılır ve tutanak altına alınır. Alınan bu karar, gerekçeleri ile birlikte DSİ veya proje idaresinin internet sitesinde ve mahallindeki muhtarlık binası, köy konağı, köy camisinden birinde ve yerleşim biriminin bağlı olduğu kaymakamlığın ilan tahtalarında duyurulur. Bu karara uyulmaması uygulamayı geciktirmez.\n (2) Erozyon tehlikesi bulunan alanlarda bitki örtüsünün korunması ve geliştirilmesi için doğal dengeyi bozmamak kaydıyla DSİ veya proje idaresi tarafından yeşil bant alanları planlamak da dâhil olmak üzere gerekli tedbirler alınabilir.\n (3) (Değişik:RG-29/1/2021-31379) Arazi toplulaştırma projesinin uygulama çalışmalarına başlanacağı, yerel ekim mevsiminden en az otuz gün önce DSİ veya proje idaresinin internet sitesinde ve mahallindeki muhtarlık binası, köy konağı, köy camisinden birinde ve yerleşim biriminin bağlı olduğu kaymakamlığın ilan tahtalarında duyurulur.\n (4) Ortak kullanım alanları olarak planlanan alanlarda toplulaştırma çalışmaları süresince tarımsal faaliyette bulunmak arazi toplulaştırmasını yapan ilgili kuruluşun iznine tabidir.\n (5) (Değişik:RG-29/1/2021-31379) Arazi toplulaştırması sebebiyle kısıtlama getirilen alanlarda ürün ve mütemmim cüzlere verilecek zarar ile taşınmaz sahiplerine yeni parseller teslim edilene kadar, zarar verilerek işgal edilen ve ekilemeyen sonraki yıllar için; kullanılamayan alanlar sebebi ile doğabilecek gelir kayıpları, arazi toplulaştırmasını yürüten DSİ veya proje idaresi tarafından karşılanır.\n (6) (Ek:RG-29/1/2021-31379)(2) Tapuda kanal, yol ve mera gibi kamunun ortak kullanımına tahsis edilmiş ve maliki belli olmayan alanlarda zarar, ziyan ve gelir kaybı ödemesi yapılmaz.\n (7) Uygulama sahasındaki çiftçilerin ilk yıldaki ürün kayıpları için zarar, ziyan bedelleri ile daha sonraki yıllardaki kısıtlamalardan dolayı oluşan ürün kayıp bedelleri toplulaştırmayı yürüten idare tarafından karşılanır. Ancak, yüklenici firmanın hatalı uygulamaları ve gecikmelerinden kaynaklanan zarar-ziyan ve ürün kayıp bedeli ödemeleri yüklenici firma tarafından karşılanır.\n (8) Arazi mülkiyetinin ihtilaflı olması veya malikinin gelir kaybına ilişkin takdir edilen bedeli kabul etmemesi durumunda, DSİ veya proje idaresi tarafından yetkili Sulh Hukuk Mahkemesine başvurularak bedelin tespiti istenir. Mahkemece belirlenen bedel, üçer aylık vadeli hesaba yatırılarak taşınmaz üzerinde malikin iznine tabi olmaksızın toplulaştırmaya ilişkin işlemlere devam olunur.\n (9) Mahkeme tarafından belirlenen bedelin DSİ veya proje idaresi tarafından yüksek bulunması halinde, gerçek zararın tespiti ve fazla tespit edilen bedele itiraz edilebilir. Dava açıldığında idarece takdir edilen bedelin üzerindeki tutarın dava kesinleşinceye kadar ödenmemesi hususunda, ilgili mahkemeden tedbir kararı alınabilir.",
+      "preview": "(1) (Değişik:RG-29/1/2021-31379) Toplulaştırma yapılacak alanda, uygulamayı geciktirmemek için üç yılı geçmemek üzere, yapılacak bitkisel ür…",
+      "kitap": null,
+      "kisim": null,
+      "bolum": "ÜÇÜNCÜ BÖLÜM · Arazi Toplulaştırma Uygulaması",
+      "ayirim": null,
+      "maddeBaslik": "Arazi toplulaştırması alanlarında alınacak önlemler",
+      "sectionPath": [
+        "ÜÇÜNCÜ BÖLÜM · Arazi Toplulaştırma Uygulaması",
+        "Arazi toplulaştırması alanlarında alınacak önlemler"
+      ]
+    },
+    {
+      "id": "yonetmelik:31251:m:10",
+      "maddeKind": "madde",
+      "maddeNo": "10",
+      "heading": "Madde 10",
+      "text": "(1) Arazi derecelendirme işlemleri arazi derecelendirme komisyonunca yapılır.\n (2) Arazi derecelendirme komisyonu;\n a) (Değişik:RG-29/1/2021-31379) DSİ veya proje idaresince belirlenecek başkan dâhil biri toprak ve/veya tarımsal yapılar ve sulama bölümü mezunu ziraat mühendisi veya biyosistem mühendisi ya da konusunda uzman benzer işlerde minimum iki yıl çalışmış ziraat mühendisi olmak üzere dört asıl bir yedek üye,\n b) Köylerde köy muhtarı veya belirleyeceği bir asıl bir yedek üye, belediyelerde, belediye başkanının belirleyeceği konusunda uzman bir asıl bir yedek üye, il özel idarelerinde valinin, büyükşehir belediyelerinde büyükşehir belediye başkanının belirleyeceği konusunda uzman bir asıl bir yedek üye,\n c) Proje alanında arazisi bulunan maliklerin kendi aralarından seçecekleri iki asıl bir yedek üye olmak üzere yedi asıl üç yedek üyeden oluşur.\n (3) (Değişik:RG-29/1/2021-31379) Arazi derecelendirme komisyon başkanlığı, komisyonda yer alan konusunda deneyimli benzer işlerde minimum iki yıl çalışmış ziraat mühendisi tarafından yürütülür. Komisyon üyeleri kendilerine, eşlerine veya birinci ve ikinci derece kan ve kayın hısımlarına ait arazilerin derecelendirilmesine yapılan itirazın incelenmesinde görev alamaz. Asıl üyenin katılamadığı toplantılara yedek üye katılır. Herhangi bir nedenle komisyondaki görevinden ayrılan üyenin yerine aynı usule göre yeni üye belirlenir.\n (4) Arazi derecelendirme komisyonu çoğunluk sağlanarak toplanır ve kararlar oy çokluğu ile alınır.\n (5) Üzerinde irtifak hakkı bulunan parseller, proje kapsamında oluşturulan derecelendirme komisyonu tarafından parsellerin etkilenen alanları dikkate alınarak konum endeksi puanı içerisinde değerlendirilir.\n (6) İlgili yerleşim birimi tarafından arazi derecelendirme komisyonuna üye bildirilmemesi halinde, yerleşim biriminin bağlı olduğu mahallin en büyük mülki idare amiri tarafından re’sen üye atanır.",
+      "preview": "(1) Arazi derecelendirme işlemleri arazi derecelendirme komisyonunca yapılır. (2) Arazi derecelendirme komisyonu; a) (Değişik:RG-29/1/2021-3…",
+      "kitap": null,
+      "kisim": null,
+      "bolum": "ÜÇÜNCÜ BÖLÜM · Arazi Toplulaştırma Uygulaması",
+      "ayirim": null,
+      "maddeBaslik": "Arazi derecelendirme komisyonu",
+      "sectionPath": [
+        "ÜÇÜNCÜ BÖLÜM · Arazi Toplulaştırma Uygulaması",
+        "Arazi derecelendirme komisyonu"
+      ]
+    },
+    {
+      "id": "yonetmelik:31251:m:11",
+      "maddeKind": "madde",
+      "maddeNo": "11",
+      "heading": "Madde 11",
+      "text": "(1) Arazi toplulaştırması için ihtiyaç duyulan toprak etüt ve analizleri, arazi toplulaştırmasını yürüten DSİ veya proje idaresi tarafından yapılır veya yaptırılır.\n (2) Arazi derecelendirmesi, arazi derecelendirme komisyonu tarafından toplulaştırma alanında bulunan gerçek ve tüzel kişiler ile devlete ait arazilerin yerine aynı değerde yeni arazi verilebilmesi amacıyla proje birimince yapılır veya yaptırılır.\n (3) Arazi derecelendirmesinde; toprağın kalıcı ve değişken özelliklerini belirleyen toprak etütleri, arazinin yerleşim yerlerine veya işletme merkezlerine uzaklığı ile arazinin diğer özellikleri göz önüne alınarak konum ile büyüklüğünün değişimine esas olacak derecelendirme katsayıları belirlenir. Belirlenen katsayılar, kadastral parsellerin düzenlemeye giren alanları ile çarpılarak ilgili parsellere ait parsel değer sayıları elde edilir. Hesaplanan bu değerler parselasyon planlaması esnasında oluşacak yeni parsellerin bulunacağı yerin endekslerine bölünerek yeni parsel alanları belirlenir.\n (4) Derecelendirmede, arazi üzerindeki sabit tesisler dikkate alınmaz.\n (5) Toplulaştırma sahasında, dere yatağı, kanal, yol ve ark yerleri gibi ıslah edilerek parselasyon planına dâhil edilmesi düşünülen alanlar ile ilgili derecelendirme işlemleri, o yeri çevreleyen toprak sınıfları göz önünde bulundurularak yapılır.\n (6) Malikleri bilgilendirmede kolaylık sağlamak amacıyla arazi derecelendirme haritaları proje birimince uygun görülen ölçekte hazırlanır veya hazırlattırılır.\n (7) (Değişik:RG-29/1/2021-31379) Toprak etüt haritaları, DSİ tarafından Arazi Toplulaştırma Alanlarında Toprak Etüt ve Derecelendirme Teknik Talimatı esas alınarak hazırlanır.\n (8) Parsel endeksi hesaplanırken toprak endeks puanı % 60, konum ve diğer özelliklere ilişkin puan % 40 oranında uygulanır. Birbirine yakın parsel endeks puanlarını içeren arazi grupları derecelendirme komisyonunca birleştirilebilir.\n (9) Arazi derecelendirme komisyonu tarafından denklik dönüşüm katsayıları tespit edilir, arazi derecelendirme haritası üretilir ve komisyon üyelerince onaylanır.",
+      "preview": "(1) Arazi toplulaştırması için ihtiyaç duyulan toprak etüt ve analizleri, arazi toplulaştırmasını yürüten DSİ veya proje idaresi tarafından…",
+      "kitap": null,
+      "kisim": null,
+      "bolum": "ÜÇÜNCÜ BÖLÜM · Arazi Toplulaştırma Uygulaması",
+      "ayirim": null,
+      "maddeBaslik": "Arazi derecelendirmesi",
+      "sectionPath": [
+        "ÜÇÜNCÜ BÖLÜM · Arazi Toplulaştırma Uygulaması",
+        "Arazi derecelendirmesi"
+      ]
+    },
+    {
+      "id": "yonetmelik:31251:m:12",
+      "maddeKind": "madde",
+      "maddeNo": "12",
+      "heading": "Madde 12",
+      "text": "(1) Arazi derecelendirme komisyonu tarafından tespit edilen denklik dönüşüm katsayılarını ve parsellerin birim değeri cinsinden karşılıklarını gösterir mülkiyet listesi ve arazi derecelendirme haritası, (Değişik ibare:RG-29/1/2021-31379) mahallindeki; muhtarlık binası, köy konağı, (Değişik ibare:RG-29/1/2021-31379) köy camisinden biri ve yerleşim biriminin bağlı olduğu (Değişik ibare:RG-29/1/2021-31379) kaymakamlığın ilan tahtalarında ve uygun olması durumunda internet ortamında otuz gün süre ile askıya çıkarılarak ilan olunur. (Mülga ikinci cümle:RG-29/1/2021-31379) Askı işlemleri için tutanak düzenlenir.\n (2) (Değişik:RG-29/1/2021-31379) Arazi malikleri ve diğer ilgililer, arazi derecelendirmesi ile ilgili itirazlarını, ilanın başlangıcından ilanın kaldırıldığı günü takip eden iş gününün mesai bitimine kadar yazılı olarak DSİ veya proje idaresine yapabilirler. Bir belgeye dayanmayan ve yazılı olarak yapılmayan itirazlar incelenmez. Arazi derecelendirme komisyonu tarafından itirazlar kayıt altına alınır ve itirazlar, askı bitim tarihinden itibaren en geç on beş gün içinde değerlendirilir. İtirazlar, derecelendirme çalışmasını değiştirmiyor ise ilgililere yazılı olarak cevap verilir ve yeni bir askıya çıkılmadan kesinleşir. İtirazlar, derecelendirme çalışmasını değiştiriyor ise otuz gün süre ile ikinci kez askıya çıkarılarak ilan edilir. Arazi malikleri ve diğer ilgililer, ilanın başlangıcından ilanın kaldırıldığı günü takip eden iş gününün mesai bitimine kadar DSİ veya proje idaresine yazılı olarak itiraz edebilirler. DSİ veya proje idaresi bu itirazları kayıt altına alarak askı bitim tarihinden itibaren en geç otuz gün içinde karara bağlar. DSİ veya proje idaresinin kararı kesin olup itirazların sonucu, askı ilanı ile ilgililere duyurulur. Kanun gereğince yapılan ilanlar, ilgili gerçek kişilere, kamu ve özel hukuk tüzel kişilerine şahsen tebliğ edilmiş sayılır.\n (3) Süresi içinde itiraz edilmeyen arazi derecelendirmeleri kesinleşir.",
+      "preview": "(1) Arazi derecelendirme komisyonu tarafından tespit edilen denklik dönüşüm katsayılarını ve parsellerin birim değeri cinsinden karşılıkları…",
+      "kitap": null,
+      "kisim": null,
+      "bolum": "ÜÇÜNCÜ BÖLÜM · Arazi Toplulaştırma Uygulaması",
+      "ayirim": null,
+      "maddeBaslik": "Arazi derecelendirilmesinin ilanı",
+      "sectionPath": [
+        "ÜÇÜNCÜ BÖLÜM · Arazi Toplulaştırma Uygulaması",
+        "Arazi derecelendirilmesinin ilanı"
+      ]
+    },
+    {
+      "id": "yonetmelik:31251:m:13",
+      "maddeKind": "madde",
+      "maddeNo": "13",
+      "heading": "Madde 13",
+      "text": "(1) (Değişik ibare:RG-29/1/2021-31379) Arazinin topoğrafyası, toprak bünyesi, mevcut ekim yönü, sulama sisteminin özellikleri, sabit tesisler, yerleşim alanları, yollar ve parsel büyüklükleri ile yapılması planlanan yollar, sulama ve drenaj projeleri dikkate alınarak blok planları ve raporları hazırlanır. Hazırlanan blok planları ve raporlar, DSİ/proje idaresi tarafından onaylanır.\n (2) Blok Planlamasına başlanılmadan önce diğer kamu kurum ve kuruluşlarının proje sahasındaki mevcut ve planladıkları onaylı projeler sayısal ortamda temin edilir. Belediye imar sınırı ile gayrimeskûn mücavir alan sınırları da temin edilir.\n (3) Birinci derece sit alanları, ormanlar, imar alanları ve farklı kullanım amacı taşıyan tarım dışı alanlar arazi toplulaştırmasına konu olamayacağından blok planında proje dışı bırakılır.\n (4) Yeni blokların oluşturulmasında, yerleşim birimleri arasındaki mevcut veya yeni düzenlenecek kadastral sınır, mevcut yol, kanal, tesis ve diğer kamu kurum ve kuruluşlarının projeleri ile topoğrafik yapı dikkate alınır. Oluşturulan blok planları, DSİ veya proje idaresi tarafından onaylandıktan sonra parselasyon planlaması çalışmalarına başlanır.",
+      "preview": "(1) (Değişik ibare:RG-29/1/2021-31379) Arazinin topoğrafyası, toprak bünyesi, mevcut ekim yönü, sulama sisteminin özellikleri, sabit tesisle…",
+      "kitap": null,
+      "kisim": null,
+      "bolum": "ÜÇÜNCÜ BÖLÜM · Arazi Toplulaştırma Uygulaması",
+      "ayirim": null,
+      "maddeBaslik": "Blok planlarının oluşturulması",
+      "sectionPath": [
+        "ÜÇÜNCÜ BÖLÜM · Arazi Toplulaştırma Uygulaması",
+        "Blok planlarının oluşturulması"
+      ]
+    },
+    {
+      "id": "yonetmelik:31251:m:14",
+      "maddeKind": "madde",
+      "maddeNo": "14",
+      "heading": "Madde 14",
+      "text": "(1) Toplulaştırma sahasında arazisi bulunan arazi malikleri ile işletme bazında yeni parselasyon planına yönelik tercihlerinin alınacağı mülakatlar yapılır. Mülakatların yapılacağı gün ve yer mahallinde alışılmış usullerle önceden duyurulur. Mülakatlar esnasında onaylı blok planı, derecelendirme haritası ve mülkiyet listeleri kullanılarak malikler bilgilendirilir. Yapılan mülakatlar neticesinde düzenlenen formlar arazi malikleri, ilgili köy veya mahalle muhtarı, proje mühendisi ve kontrol mühendisleri tarafından imza altına alınır. (Mülga cümle:RG-29/1/2021-31379)\n (2) (Ek:RG-29/1/2021-31379) Arazi malikleri adına, Ek-1’de yer alan Mülakat Yetkilendirme Formunun DSİ veya proje idaresine ibrazı halinde mülakat yapılabilir.",
+      "preview": "(1) Toplulaştırma sahasında arazisi bulunan arazi malikleri ile işletme bazında yeni parselasyon planına yönelik tercihlerinin alınacağı mül…",
+      "kitap": null,
+      "kisim": null,
+      "bolum": "ÜÇÜNCÜ BÖLÜM · Arazi Toplulaştırma Uygulaması",
+      "ayirim": null,
+      "maddeBaslik": "Mülakatların yapılması",
+      "sectionPath": [
+        "ÜÇÜNCÜ BÖLÜM · Arazi Toplulaştırma Uygulaması",
+        "Mülakatların yapılması"
+      ]
+    },
+    {
+      "id": "yonetmelik:31251:m:15",
+      "maddeKind": "madde",
+      "maddeNo": "15",
+      "heading": "Madde 15",
+      "text": "(1) Ortak tesislere katılım payı parselasyon planlamasından önce belirlenir. Proje alanındaki arazilerin parsel değer sayılarından yol, kanal, tahliye kanalı gibi proje gereği ihtiyaç duyulan ve kamunun ortak kullanacağı yerler için en fazla %10’a kadar ortak tesislere katılım payı kesintisi yapılır. Bu yolla karşılanamayan arazi, hazine arazilerinden veya Devletin hüküm ve tasarrufu altında bulunan arazilerden, bunların yeterli olmadığı durumlarda gerçek ve tüzel kişilerden anlaşma veya kamulaştırma yoluyla karşılanabilir. Ortak tesislere katılım payı için herhangi bir bedel ödenmeyecek olup bu alanlar tescile tabi değildir. Ancak proje alanına hitap eden tesislerden direk yeri, trafo yeri, dinlendirme ve depolama havuzları gibi daha sonradan ruhsata tabi yasal işlemler gerektiren yerler (Ek ibare:RG-29/1/2021-31379) mümkünse Hazine adına tescil edilir. (Ek ibare:RG-29/1/2021-31379) Aksi halde ilgili kurum tarafından kamulaştırılır. Ortak tesislere katılım payları üzerindeki bütünleyici parçalar için proje idarelerince kamulaştırma yapılabilir.\n (2) Proje sahasında kamulaştırma yolu ile edinilen kamu idarelerine ait taşınmazlardan ilgili idarenin muvafakati alınmadan kesinti ve yer değişikliği yapılamaz. Ortak tesislere katılım payı yerleşim birimi bazında hesaplanmakla birlikte, farklı mahallelerden oluşan köylerin, köy ve mezra anlaşmazlığının olduğu yerleşim birimlerinin, resmi olarak bölünmüş, ancak kadastrosu ayrılmamış yerleşim birimlerinin ve projenin uygulanmasında sorun teşkil edebilecek durumların olduğu zorunlu haller ile sulama projesi sahası ve kuru tarım arazileri için ayrı ayrı kesinti payı uygulanabilir.\n (3) Çayır ve meralar ile kamu ortak malı kütüğüne kayıtlı diğer taşınmazlar, ortak katılım payı kesintisi yapılarak, toplulaştırmaya dâhil edilip mümkün olduğunca sulama, tahliye ve yol sisteminden faydalandırılır.\n (4) Ortak kullanım tesisleri dışında kamuya ait karayolları, demiryolları, havaalanları, elektrik iletim tesisleri, barajlar, göletler, drenaj, derivasyon ve iletim kanalları ile buna benzer kamu yatırımları için gerekli olan alan, Hazine arazilerinden, Hazine arazilerinin yeterli olmadığı veya bulunmadığı yerlerde ise ilgili idarelerce belirlenecek usul ve esaslar dâhilinde fiziki tesislerin yapılacağı alana bağlı kalınmaksızın gerçek ve tüzel kişilerinden anlaşma yoluyla karşılanabilir.\n (5) Uygulama sırasında tescil haricinden gelen fazla miktar arazi, Hazine adına re’sen tescil edilir. Tescil işlemlerini hazine adına DSİ veya proje idaresi yaptırır.\n (6) Toplulaştırma yapılacak alanda mevcut sulama şebekesi güzergâhı göz önüne alınarak sulama şebekesinin entegre olacağı bir toplulaştırma projesi yapılır.\n (7) (Değişik:RG-29/1/2021-31379) Daha önceden arazi toplulaştırması yapılmış alanlarda ikinci kez arazi toplulaştırması yapılması durumunda, ortak tesislere katılım payı kesinti oranı toplam %10’u geçemez. Aynı toplulaştırma proje sahası içerisinde kalan yeni alanlar ile daha önceden toplulaştırmaya tabi olmuş eski alanların ortak tesislere katılım payı kesinti oranları ayrı ayrı hesaplanır.\n (8) (Değişik:RG-29/1/2021-31379) Arazi toplulaştırması tamamlanmış ve tescili yapılmış olan alanlarda mahkeme kararları ve idareden kaynaklı maddi hatalar gibi zorunlu hallerde yapılacak değişikliklere yönelik uygulamalar için yeni bir Cumhurbaşkanı Kararı aranmaz. DSİ veya proje idaresinin onayı ile gerekli düzenleme yapılır ve uygulama sonucu meydana gelen yeni duruma ilişkin teknik dosya hazırlanarak kadastro müdürlüğüne gönderilir. Kadastro müdürlüklerince gerekli kontroller yapıldıktan sonra tescil edilmek üzere tapu müdürlüğüne gönderilir.",
+      "preview": "(1) Ortak tesislere katılım payı parselasyon planlamasından önce belirlenir. Proje alanındaki arazilerin parsel değer sayılarından yol, kana…",
+      "kitap": null,
+      "kisim": null,
+      "bolum": "ÜÇÜNCÜ BÖLÜM · Arazi Toplulaştırma Uygulaması",
+      "ayirim": null,
+      "maddeBaslik": "Ortak kullanım ve kamu tesisleri",
+      "sectionPath": [
+        "ÜÇÜNCÜ BÖLÜM · Arazi Toplulaştırma Uygulaması",
+        "Ortak kullanım ve kamu tesisleri"
+      ]
+    },
+    {
+      "id": "yonetmelik:31251:m:16",
+      "maddeKind": "madde",
+      "maddeNo": "16",
+      "heading": "Madde 16",
+      "text": "(1) Proje idaresi tarafından proje alanının yeniden düzenlenmesi aşağıda belirtilen hususlara uygun olarak yapılır veya yaptırılır.\n a) Maliklerin istekleri de dikkate alınarak parsel değer sayılarından azami yüzde on ortak tesislere katılım payı düşüldükten sonra kalan miktarın toplamına eşit değerdeki alan, mümkünse tek parsel olarak tercih sırasına göre verilmeye çalışılır.\n b) Uygulamaya tabi parseller üzerinde zemine bağlı hakların varlığı halinde söz konusu parseller, hak lehtarlarının görüşü doğrultusunda parselasyon işlemine tabi tutulur.\n c) Sabit tesisler ile çevre ve doğaya görünüm güzelliği veren arazi, yapı ve tesisler mümkün olduğunca eski maliklerine verilecek şekilde parselasyon planlaması yapılır. Ancak mal sahibinin birden fazla bu özellikte sabit tesisi var ise malikin bunlardan birinin etrafındaki toplulaştırma isteği dikkate alınır.\n ç) Proje alanında birden fazla yerleşim birimleri arasındaki sınır düzeltmeleri, parsel değer sayısı dikkate alınarak ilgili mevzuat hükümlerine göre yapılır.\n d) Dikili tarım arazileri ile örtü altı tarımı yapılan araziler gerektiğinde kendi içinde toplulaştırmaya konu olur. Bu yerlerde Tarım ve Orman Bakanlığı tarafından 3/7/2005 tarihli ve 5403 sayılı Toprak Koruma ve Arazi Kullanımı Kanunu kapsamında belirlenen parsel büyüklükleri esas alınır.\n e) Uygulamaya tabi parsellerde kamu kuruluşlarınca tesis edilmiş olan irtifak haklarının varlığı halinde; derecelendirme ile denklik sağlanarak ve mülkiyet-zemin uyumu korunarak parselasyon işlemi yapılır. Kamu kuruluşlarınca tesis edilmiş olan irtifak hakları, yeni parsellere maliklerin muvafakati alınmadan ve herhangi bir bedel ödenmeden aktarılır.\n f) Proje sahasındaki sabit tesislerin tescile tabi olsun ya da olmasın tüm dokümanları ilgili kişi ve kuruluşlardan temin edilerek bunlardan yerleri değiştirilemeyecek olanların mevcut durumları korunabilir.\n g) Mevcut hali ile korunamayan, ancak korunması gereken sabit tesis içeren parsellerde kesinti miktarı kadar alan, öncelikle malikin diğer parsellerinden, bu yolla karşılanamaması halinde hazine arazisinin buraya taşınması ile hisseli hale getirilerek karşılanabilir. Buna rağmen karşılanamayan sabit tesisler için ödeme yapılabilir.\n ğ) Hazine taşınmazı ile karşılanacak alan, arazi toplulaştırması kriterlerine göre bağımsız bir parsel olma niteliğini kazanabilecek durumda ise müstakil parsel olarak, aksi takdirde sabit tesis parseli ile hisselendirilebilir.\n h) (Mülga:RG-29/1/2021-31379)\n ı) Davalı parsellerin, dava konuları incelenerek, tarafların rızası ve istekleri doğrultusunda toplulaştırmaya konu edilebilir.",
+      "preview": "(1) Proje idaresi tarafından proje alanının yeniden düzenlenmesi aşağıda belirtilen hususlara uygun olarak yapılır veya yaptırılır. a) Malik…",
+      "kitap": null,
+      "kisim": null,
+      "bolum": "ÜÇÜNCÜ BÖLÜM · Arazi Toplulaştırma Uygulaması",
+      "ayirim": null,
+      "maddeBaslik": "Parsellerin yeniden düzenlenmesi",
+      "sectionPath": [
+        "ÜÇÜNCÜ BÖLÜM · Arazi Toplulaştırma Uygulaması",
+        "Parsellerin yeniden düzenlenmesi"
+      ]
+    },
+    {
+      "id": "yonetmelik:31251:m:17",
+      "maddeKind": "madde",
+      "maddeNo": "17",
+      "heading": "Madde 17",
+      "text": "(1) (Değişik:RG-29/1/2021-31379) DSİ veya proje idaresince arazi derecelendirmeleri esas alınarak yapılan veya yaptırılan yeni parselasyon planı ve yeni mülkiyet listeleri DSİ veya proje idaresinin internet sayfalarında, mahallindeki muhtarlık binası, köy konağı, köy camisinden biri ile yerleşim biriminin bağlı olduğu kaymakamlığın ilan tahtalarında otuz gün süreyle askıya çıkılarak ilan edilir.\n a) Arazi malikleri ve diğer ilgililer, ilanın başlangıcından ilanın kaldırıldığı günü takip eden iş gününün mesai bitimine kadar DSİ veya proje idaresine yazılı olarak itiraz edebilirler. Bir belgeye dayanmayan ve yazılı olarak yapılmayan itirazlar incelenmez. İtirazlar kayıt altına alınır ve DSİ veya proje idaresince askı bitim tarihinden itibaren değerlendirilerek parselasyon planları aynı ilan yöntemleriyle ikinci kez otuz gün süreyle askıya çıkarılarak ilan edilir. Arazi malikleri ve diğer ilgililer, ilanın başlangıcından ilanın kaldırıldığı günü takip eden iş gününün mesai bitimine kadar DSİ veya proje idaresine yazılı olarak itiraz edebilirler. DSİ veya proje idaresi, bu itirazları kayıt altına alarak askı bitim tarihinden itibaren en geç otuz gün içinde karara bağlar. DSİ veya proje idaresinin kararı kesin olup, tescile esas parselasyon planları hazırlanarak alışılmış usullerle mahallinde ilan edilir ve aynı zamanda ilgili kadastro müdürlüğüne gönderilir.\n b) İtirazların sonucu askı ilanı ile ilgililere duyurulur. Kanun gereğince yapılan ilanlar, ilgili gerçek kişilere, kamu ve özel hukuk tüzel kişilerine şahsen tebliğ edilmiş sayılır.\n c) DSİ veya proje idaresince, gerekli görülmesi halinde hazırlanacak gerekçeli rapor ile üç askı yapılabilir. Ancak kamu yatırımlarının zorunlu kıldığı hallerde DSİ ve/veya proje idaresinin onayı alınarak yeni bir askı daha yapılabilir.\n (2) Yeni parselasyon planı ve mülkiyet listeleri uygulamayı yapan DSİ veya proje idaresi tarafından onaylandıktan sonra kesinleşir.\n (3) Kesinleşen parselasyon planına uygun olarak yeni parseller hak sahiplerine yer teslim tutanağı ile dağıtılır. Dağıtıma katılmayan veya fiilen yer teslimi yapılamayan hak sahiplerinin yeni parsellerine ait parsel kroki örneği iadeli taahhütlü resmi yazı ile ilgili muhtarlıklara gönderilir. İlgili muhtarlığa yapılan teslimatı müteakiben hak sahiplerinin yeni parsellerine ait parsel kroki örneğinin ilgili muhtarlıkta olduğu hususu DSİ veya özel arazi toplulaştırmasını gerçekleştiren proje idaresinin internet sayfalarında ve ayrıca köy veya mahalle muhtarının çalışma yerinde otuz gün süre ile ilan ettirilir. Bu madde gereğince yapılan ilanlar, ilgili gerçek kişilere, kamu ve özel hukuk tüzel kişilerine şahsen tebliğ edilmiş sayılır.\n (4) Tescile esas parselasyon planlarının yapımında, 30/4/2018 tarihli ve 2018/11962 sayılı Bakanlar Kurulu Kararı ile yürürlüğe giren Büyük Ölçekli Harita ve Harita Bilgileri Üretim Yönetmeliği ve ilgili mevzuat hükümlerine uyulur.",
+      "preview": "(1) (Değişik:RG-29/1/2021-31379) DSİ veya proje idaresince arazi derecelendirmeleri esas alınarak yapılan veya yaptırılan yeni parselasyon p…",
+      "kitap": null,
+      "kisim": null,
+      "bolum": "ÜÇÜNCÜ BÖLÜM · Arazi Toplulaştırma Uygulaması",
+      "ayirim": null,
+      "maddeBaslik": "Yeni parselasyon planlarının askıya çıkarılması ve onaylanması",
+      "sectionPath": [
+        "ÜÇÜNCÜ BÖLÜM · Arazi Toplulaştırma Uygulaması",
+        "Yeni parselasyon planlarının askıya çıkarılması ve onaylanması"
+      ]
+    },
+    {
+      "id": "yonetmelik:31251:m:18",
+      "maddeKind": "madde",
+      "maddeNo": "18",
+      "heading": "Madde 18",
+      "text": "(1) Kesinleşen parselasyon planı, araziye uygulanır. Uygulama sonucu meydana gelen yeni duruma ilişkin teknik dosya DSİ veya proje idaresince hazırlanarak kadastro müdürlüğüne gönderilir. Kadastro müdürlüklerince gerekli kontroller yapıldıktan sonra tescil edilmek üzere tapu müdürlüğüne gönderilir. Dağıtım cetvellerinde hak sahiplerinin Türkiye Cumhuriyeti kimlik numarası ve diğer kimlik bilgilerinin bulunması gerekir.\n (2) Tapu kütüğünde niteliği bağ, bahçe, harman yeri vb. olup, özel mülkiyete konu taşınmazlardan bu niteliğini kaybetmiş olanlar başka bir parsel ile birleştirilmesi durumunda malikin talebi de alınarak fiili kullanım niteliğine yönelik olup yapı ile ilgili olmayan cins değişikliği işlemleri arazi toplulaştırması kapsamında DSİ veya proje idaresi tarafından re’sen yapılır ya da yaptırılır.\n (3) DSİ tarafından yürütülen işlemler nedeniyle DSİ Genel Müdürlüğü, 2/7/1964 tarihli ve 492 sayılı Harçlar Kanununa göre alınan harçlardan, 6200 sayılı Kanunda belirtilen görevleri kapsamında düzenlenen kâğıtlar sebebiyle damga vergisinden ve tapu ve kadastro işlemlerinden kaynaklanan döner sermaye hizmet bedellerinden muaftır.",
+      "preview": "(1) Kesinleşen parselasyon planı, araziye uygulanır. Uygulama sonucu meydana gelen yeni duruma ilişkin teknik dosya DSİ veya proje idaresinc…",
+      "kitap": null,
+      "kisim": null,
+      "bolum": "ÜÇÜNCÜ BÖLÜM · Arazi Toplulaştırma Uygulaması",
+      "ayirim": null,
+      "maddeBaslik": "Tescil",
+      "sectionPath": [
+        "ÜÇÜNCÜ BÖLÜM · Arazi Toplulaştırma Uygulaması",
+        "Tescil"
+      ]
+    },
+    {
+      "id": "yonetmelik:31251:m:19",
+      "maddeKind": "madde",
+      "maddeNo": "19",
+      "heading": "Madde 19",
+      "text": "(1) Arazi toplulaştırması sonucu oluşturulan parselasyon plânları, tescil işlemleri tamamlandıktan sonra 22/11/2001 tarihli ve 4721 sayılı Türk Medeni Kanunu ve 17/8/2013 tarihli ve 28738 sayılı Resmî Gazete’de yayımlanarak yürürlüğe giren Tapu Sicili Tüzüğü, 27/8/2008 tarihli ve 26980 sayılı Resmî Gazete’de yayımlanan Tapu Plânları Tüzüğünde belirtilen plân yerine geçer ve mülkiyete ilişkin sınır gösterme işlemleri mahalli tapu ve kadastro teşkilatınca bu plânlara göre yapılır.",
+      "preview": "(1) Arazi toplulaştırması sonucu oluşturulan parselasyon plânları, tescil işlemleri tamamlandıktan sonra 22/11/2001 tarihli ve 4721 sayılı T…",
+      "kitap": null,
+      "kisim": null,
+      "bolum": "ÜÇÜNCÜ BÖLÜM · Arazi Toplulaştırma Uygulaması",
+      "ayirim": null,
+      "maddeBaslik": "Arazi toplulaştırması parselasyon plânlarının hukuki geçerliliği",
+      "sectionPath": [
+        "ÜÇÜNCÜ BÖLÜM · Arazi Toplulaştırma Uygulaması",
+        "Arazi toplulaştırması parselasyon plânlarının hukuki geçerliliği"
+      ]
+    },
+    {
+      "id": "yonetmelik:31251:m:20",
+      "maddeKind": "madde",
+      "maddeNo": "20",
+      "heading": "Madde 20",
+      "text": "(1) Arazi toplulaştırma projesinin araziye uygulanmasında, verimin artması, sulama randımanı ve sulama oranının yükseltilmesi, tarımsal arazilerin korunması ve değer kazanması için; tarla içi yollar, drenaj kanalları, sulama inşaatları, (Ek ibare:RG-29/1/2021-31379) tarla içi kapalı drenaj tesisleri, anların kaldırılması, sazlık, söğüt, çalı, azmak, ağaç vb. sökülmesi, kazı dolgu yapılması, arazi tesviyesi ve ıslahı gibi (Mülga ibare:RG-29/1/2021-31379) tarla içi geliştirme hizmetleri DSİ veya proje idaresince yapılır veya yaptırılır.\n (2) Arazi toplulaştırma projesi başlamadan önce, arazide yapılması gereken tarla içi geliştirme hizmetleri tespit edilerek projelendirilir. Özel arazi toplulaştırması yapmak isteyen proje idareleri, Cumhurbaşkanı Kararı alınmadan önce yapmak istedikleri tarla içi geliştirme hizmetlerine ilişkin DSİ’ye gerekçeli teknik rapor ile talepte bulunur.\n a) Tarla içi yollar DSİ veya proje idaresi tarafından yapılır veya yaptırılır. Arazi toplulaştırması projesi kapsamında oluşturulan blok planlarında yer alan tarla içi yolların, mutlak surette yerleşim yerlerine açılan yollar veya köy bağlantı yolları gibi bir ana yola bağlantısı sağlanmalıdır.\n b) Arazi toplulaştırması projesi kapsamında drenaj problemi olan sahalar tespit edilerek drenaj projeleri ile ihtiyaç halinde sulama projeleri DSİ veya proje idaresi tarafından hazırlanır. Özel arazi toplulaştırması kapsamında hazırlanacak sulama ve drenaj projeleri DSİ’nin onayına tabidir.\n c) Arazi toplulaştırma projesi sonrası yeni oluşan parsellerin teslim edilmesi için, eski kadastral duruma göre arazide mevcut olan tarla sınırlarının (anların) kaldırılması işi, DSİ veya proje idaresince yapılır veya yaptırılır.\n ç) Arazi toplulaştırması proje sahasında çiftçilere parselasyon planında yeni parsel olarak verilmesi planlanan bazı kuru dere yatakları, toprak arklar, ufak çaplı çukur ve şevlerin kapatılarak tarıma kazandırılması için arazide kazı dolgu gibi inşaat işleri DSİ veya proje idaresince yapılır veya yaptırılır.\n d) Arazi toplulaştırma proje sahasındaki tüm parsellere sulama suyunun ulaşabilmesi için sulama sisteminin ve uygulanan sulama yönteminin zorunlu kıldığı hallerde arazi tesviyesi ile topografyası kademeli olan arazilerde yeni mülkiyet planına göre teraslama DSİ veya proje idaresince yapılır veya yaptırılır.\n e) Arazi toplulaştırma kapsamında projenin gerektirmesi halinde ekolojik dengeyi korumak maksadıyla yeni yapılacak yol kenarlarına ağaç dikilmesi ve yeşil bant oluşturulması gibi projeler, DSİ veya proje idaresince yapılabilir veya yaptırılabilir.",
+      "preview": "(1) Arazi toplulaştırma projesinin araziye uygulanmasında, verimin artması, sulama randımanı ve sulama oranının yükseltilmesi, tarımsal araz…",
+      "kitap": null,
+      "kisim": null,
+      "bolum": "DÖRDÜNCÜ BÖLÜM · Toplulaştırma Sahalarında Tarla İçi Geliştirme Hizmetleri",
+      "ayirim": null,
+      "maddeBaslik": "Tarla içi geliştirme hizmetleri",
+      "sectionPath": [
+        "DÖRDÜNCÜ BÖLÜM · Toplulaştırma Sahalarında Tarla İçi Geliştirme Hizmetleri",
+        "Tarla içi geliştirme hizmetleri"
+      ]
+    },
+    {
+      "id": "yonetmelik:31251:m:21",
+      "maddeKind": "madde",
+      "maddeNo": "21",
+      "heading": "Madde 21",
+      "text": "(1) DSİ veya proje idaresi, gerekli hallerde asgari tarımsal arazi büyüklüğünün altındaki tarımsal arazileri toplulaştırabilir veya kanun kapsamında değerlendirmek üzere kamulaştırabilir. Arazi toplulaştırması uygulamalarında, tahsisli araziler asgari tarımsal arazi büyüklüğünün altındaki araziler ile birleştirilerek asgari büyüklükte yeni tarımsal araziler oluşturulabilir. Bu suretle oluşturulan parseller öncelikle arazi toplulaştırmasına veya kamulaştırma konusu olan arazi maliklerine, bu kişiler satın almadığı takdirde, yeter gelirli tarımsal arazi büyüklüğünde tarım arazisi bulunmayan yöre çiftçilerine rayiç bedeli üzerinden ve DSİ’nin veya proje idaresinin talebi üzerine Hazine ve Maliye Bakanlığınca belirlenen usul ve esaslara göre satılır.\n (2) Bu maksatla yapılan kamulaştırma ve satın almalara konu olan işlemler harçlardan, bu işlemlerle ilgili olarak düzenlenecek kağıtlar damga vergisinden müstesnadır.\n (3) Proje alanında tarım yapılamayacak kadar küçülmüş ve verimli işletilemeyen tarım arazileri, DSİ veya proje idaresi tarafından anlaşma yolu ile arazi maliklerinden satın alınabilir. Bu araziler kamu tesisleri ile gerektiğinde küçük işletmelerin genişletilmesinde ve ilgili idarelerle işbirliği yapılarak iskân edilecek ailelerin arsa ve arazi ihtiyaçlarında da kullanılabilir.",
+      "preview": "(1) DSİ veya proje idaresi, gerekli hallerde asgari tarımsal arazi büyüklüğünün altındaki tarımsal arazileri toplulaştırabilir veya kanun ka…",
+      "kitap": null,
+      "kisim": null,
+      "bolum": "DÖRDÜNCÜ BÖLÜM · Toplulaştırma Sahalarında Tarla İçi Geliştirme Hizmetleri",
+      "ayirim": null,
+      "maddeBaslik": "Arazi satışı ve kamulaştırma",
+      "sectionPath": [
+        "DÖRDÜNCÜ BÖLÜM · Toplulaştırma Sahalarında Tarla İçi Geliştirme Hizmetleri",
+        "Arazi satışı ve kamulaştırma"
+      ]
+    },
+    {
+      "id": "yonetmelik:31251:m:22",
+      "maddeKind": "madde",
+      "maddeNo": "22",
+      "heading": "Madde 22",
+      "text": "(1) 29/12/2014 tarihli ve 2014/7179 sayılı Bakanlar Kurulu Kararı ile yürürlüğe konulan Ulusal Coğrafi Bilgi Sisteminin Kurulması ve Yönetilmesi Hakkında Yönetmelik kapsamına uygun coğrafi verilerin paylaşımı sağlanır.",
+      "preview": "(1) 29/12/2014 tarihli ve 2014/7179 sayılı Bakanlar Kurulu Kararı ile yürürlüğe konulan Ulusal Coğrafi Bilgi Sisteminin Kurulması ve Yönetil…",
+      "kitap": null,
+      "kisim": null,
+      "bolum": "BEŞİNCİ BÖLÜM · Çeşitli ve Son Hükümler",
+      "ayirim": null,
+      "maddeBaslik": "Veri paylaşımı",
+      "sectionPath": [
+        "BEŞİNCİ BÖLÜM · Çeşitli ve Son Hükümler",
+        "Veri paylaşımı"
+      ]
+    },
+    {
+      "id": "yonetmelik:31251:m:23",
+      "maddeKind": "madde",
+      "maddeNo": "23",
+      "heading": "Madde 23",
+      "text": "(1) Bakanlık, bu Yönetmeliğin uygulamasını sağlamak üzere her türlü alt düzenlemeyi yapmaya yetkilidir.",
+      "preview": "(1) Bakanlık, bu Yönetmeliğin uygulamasını sağlamak üzere her türlü alt düzenlemeyi yapmaya yetkilidir.",
+      "kitap": null,
+      "kisim": null,
+      "bolum": "BEŞİNCİ BÖLÜM · Çeşitli ve Son Hükümler",
+      "ayirim": null,
+      "maddeBaslik": "Düzenleme yetkisi",
+      "sectionPath": [
+        "BEŞİNCİ BÖLÜM · Çeşitli ve Son Hükümler",
+        "Düzenleme yetkisi"
+      ]
+    },
+    {
+      "id": "yonetmelik:31251:m:24",
+      "maddeKind": "madde",
+      "maddeNo": "24",
+      "heading": "Madde 24",
+      "text": "(1) 9/12/2017 tarihli ve 30265 sayılı Resmî Gazete’de yayımlanan Arazi Toplulaştırma Uygulama Yönetmeliği (Mülga ibare:RG-23/2/2019-30695)(…) yürürlükten kaldırılmıştır. (1)",
+      "preview": "(1) 9/12/2017 tarihli ve 30265 sayılı Resmî Gazete’de yayımlanan Arazi Toplulaştırma Uygulama Yönetmeliği (Mülga ibare:RG-23/2/2019-30695)(……",
+      "kitap": null,
+      "kisim": null,
+      "bolum": "BEŞİNCİ BÖLÜM · Çeşitli ve Son Hükümler",
+      "ayirim": null,
+      "maddeBaslik": "Yürürlükten kaldırılan mevzuat",
+      "sectionPath": [
+        "BEŞİNCİ BÖLÜM · Çeşitli ve Son Hükümler",
+        "Yürürlükten kaldırılan mevzuat"
+      ]
+    },
+    {
+      "id": "yonetmelik:31251:m:gecici:1",
+      "maddeKind": "gecici",
+      "maddeNo": "1",
+      "heading": "Geçici Madde 1",
+      "text": "(1) Bu Yönetmeliğin yürürlüğe girmesinden önce Bakanlar Kurulu Kararı alınarak çalışmalarına başlanmış arazi toplulaştırma projelerinde ilgili yönetmeliklerin bu Yönetmeliğe aykırı olmayan hükümleri uygulanır.",
+      "preview": "(1) Bu Yönetmeliğin yürürlüğe girmesinden önce Bakanlar Kurulu Kararı alınarak çalışmalarına başlanmış arazi toplulaştırma projelerinde ilgi…",
+      "kitap": null,
+      "kisim": null,
+      "bolum": "BEŞİNCİ BÖLÜM · Çeşitli ve Son Hükümler",
+      "ayirim": null,
+      "maddeBaslik": "Başlanmış olan arazi toplulaştırma projeleri",
+      "sectionPath": [
+        "BEŞİNCİ BÖLÜM · Çeşitli ve Son Hükümler",
+        "Başlanmış olan arazi toplulaştırma projeleri"
+      ]
+    },
+    {
+      "id": "yonetmelik:31251:m:gecici:2",
+      "maddeKind": "gecici",
+      "maddeNo": "2",
+      "heading": "Geçici Madde 2",
+      "text": "(Ek:RG-29/1/2021-31379)\n (1) Toprak etüt haritaları, 11 inci maddenin yedinci fıkrasında belirtilen DSİ talimatı yürürlüğe girene kadar Bakanlıkça yayımlanan meri Toprak ve Arazi Sınıflaması Standartları Teknik Talimatı esas alınarak hazırlanır.",
+      "preview": "(Ek:RG-29/1/2021-31379) (1) Toprak etüt haritaları, 11 inci maddenin yedinci fıkrasında belirtilen DSİ talimatı yürürlüğe girene kadar Bakan…",
+      "kitap": null,
+      "kisim": null,
+      "bolum": "BEŞİNCİ BÖLÜM · Çeşitli ve Son Hükümler",
+      "ayirim": null,
+      "maddeBaslik": "Toprak etüt haritaları",
+      "sectionPath": [
+        "BEŞİNCİ BÖLÜM · Çeşitli ve Son Hükümler",
+        "Toprak etüt haritaları"
+      ]
+    },
+    {
+      "id": "yonetmelik:31251:m:25",
+      "maddeKind": "madde",
+      "maddeNo": "25",
+      "heading": "Madde 25",
+      "text": "(1) Bu Yönetmelik yayımı tarihinde yürürlüğe girer.",
+      "preview": "(1) Bu Yönetmelik yayımı tarihinde yürürlüğe girer.",
+      "kitap": null,
+      "kisim": null,
+      "bolum": "BEŞİNCİ BÖLÜM · Çeşitli ve Son Hükümler",
+      "ayirim": null,
+      "maddeBaslik": "Yürürlük",
+      "sectionPath": [
+        "BEŞİNCİ BÖLÜM · Çeşitli ve Son Hükümler",
+        "Yürürlük"
+      ]
+    },
+    {
+      "id": "yonetmelik:31251:m:26",
+      "maddeKind": "madde",
+      "maddeNo": "26",
+      "heading": "Madde 26",
+      "text": "(1) Bu Yönetmelik hükümlerini Tarım ve Orman Bakanı yürütür.\n _________________\n (1) 7/2/2019 tarihli ve 30679 sayılı Resmî Gazete’de aslına uygun olarak yayımlanan, Arazi Toplulaştırması ve Tarla İçi Geliştirme Hizmetleri Uygulama Yönetmeliğinin 24 üncü maddesinde geçen “ile 29/6/1985 tarihli ve 18796 sayılı Resmî Gazete’de yayımlanan Sulama Alanlarında Arazi Düzenlenmesine Dair Tarım Reformu Kanunu Uygulama Yönetmeliğinin 20 nci, 21 inci, 22 nci, 23 üncü, 24 üncü, 25 inci, 26 ncı, 27 nci ve 28 inci maddeleri” ibaresi madde metninden çıkartılarak düzeltilmiştir.\n (2) 29/1/2021 tarihli ve 31379 sayılı Resmî Gazete’de yayımlanan değişiklik ile Yönetmeliğe 9 uncu maddesinin beşinci fıkrasından sonra gelmek üzere fıkra eklenmiş ve diğer fıkralar buna göre teselsül ettirilmiştir.\n\n (Ek:RG-29/1/2021-31379) Ek-1\n\n MÜLAKAT YETKİLENDİRME FORMU\n\n DSİ … BÖLGE MÜDÜRLÜĞÜNE / ………………… (PROJE İDARESİNİN ADI)\n\n 7/2/2019 tarihli ve 30679 sayılı Resmî Gazete’de yayımlanan Arazi Toplulaştırma ve Tarla İçi Geliştirme Hizmetleri Yönetmeliğinin 14 üncü maddesi uyarınca …………………………………………… Arazi Toplulaştırma ve TİGH Projesi kapsamında aşağıda belirtilen maliki bulunduğum parsellere ilişkin mülakata katılmaya ………………… T.C. Numaralı ……………..…………………..’nin (Adı-Soyadı) adıma yetkili olduğunu;\n Beyan eder gerekli işlemin yapılmasını arz ederim. …./…./…....\n\n Beyan Sahibi\n Adı Soyadı\n İmza\n\n Muhtar\n Adı Soyadı\n İmzası\n Aza\n Adı Soyadı\n İmzası\n Aza\n Adı Soyadı\n İmzası\n\n Malik Adı Soyadı\n\n T.C. Kimlik Numarası\n\n Telefon\n\n İkametgâh adresi\n\n Sıra No\n Köy/Mahalle/\n Belde\n Ada/\n Parsel\n No\n Alanı\n (m2)",
+      "preview": "(1) Bu Yönetmelik hükümlerini Tarım ve Orman Bakanı yürütür. _________________ (1) 7/2/2019 tarihli ve 30679 sayılı Resmî Gazete’de aslına u…",
+      "kitap": null,
+      "kisim": null,
+      "bolum": "BEŞİNCİ BÖLÜM · Çeşitli ve Son Hükümler",
+      "ayirim": null,
+      "maddeBaslik": "Yürütme",
+      "sectionPath": [
+        "BEŞİNCİ BÖLÜM · Çeşitli ve Son Hükümler",
+        "Yürütme"
+      ]
+    }
+  ]
+}

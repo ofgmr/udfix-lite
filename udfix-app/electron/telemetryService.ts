@@ -4,6 +4,7 @@ import path from 'path';
 import os from 'os';
 import crypto from 'crypto';
 import { loadAppPreferences, type AppPreferences } from './appPreferences';
+import { readUsageSnapshot } from './database';
 import type { TelemetryConsent, TelemetryEvent, TelemetryTrackInput } from './telemetryTypes';
 import {
     getTelemetryEndpoint,
@@ -93,12 +94,10 @@ function sanitizeProperties(
 ): Record<string, string | number | boolean | null> | undefined {
     if (!raw || typeof raw !== 'object') return undefined;
 
-    const blockedKey = /(path|file|content|title|name|email|password|token|secret|matter|client|note|party)/i;
     const out: Record<string, string | number | boolean | null> = {};
 
     for (const [key, value] of Object.entries(raw)) {
         if (!TELEMETRY_ALLOWED_PROPERTY_KEYS.has(key)) continue;
-        if (blockedKey.test(key)) continue;
         if (value === null) {
             out[key] = null;
             continue;
@@ -114,16 +113,6 @@ function sanitizeProperties(
     }
 
     return Object.keys(out).length > 0 ? out : undefined;
-}
-
-function sanitizeErrorMessage(raw: unknown): string {
-    const message =
-        raw instanceof Error
-            ? raw.message
-            : typeof raw === 'string'
-              ? raw
-              : JSON.stringify(raw);
-    return redactPaths(message).slice(0, TELEMETRY_MAX_PROPERTY_STRING_LENGTH);
 }
 
 export function enqueueTelemetryEvent(input: TelemetryTrackInput): void {
@@ -201,18 +190,20 @@ export function purgeTelemetryQueue(): void {
 }
 
 export function onTelemetryConsentChanged(consent: TelemetryConsent): void {
-    if (consent === 'opted_out') {
-        purgeTelemetryQueue();
-        stopTelemetryUploadTimer();
-        return;
-    }
-    if (consent === 'opted_in') {
-        startTelemetryUploadTimer();
-        enqueueTelemetryEvent({
-            category: 'lifecycle',
-            name: 'telemetry_opt_in',
-        });
-        void flushTelemetryQueue();
+    switch (consent) {
+        case 'opted_out':
+        case 'unknown':
+            purgeTelemetryQueue();
+            stopTelemetryUploadTimer();
+            return;
+        case 'opted_in':
+            startTelemetryUploadTimer();
+            void flushTelemetryQueue();
+            return;
+        default: {
+            const _never: never = consent;
+            return _never;
+        }
     }
 }
 
@@ -224,9 +215,29 @@ export function handleAppPreferencesTelemetryChange(
     onTelemetryConsentChanged(next.telemetryConsent);
 }
 
+function enqueueDbSnapshot(): void {
+    if (!isCollecting()) return;
+    const snap = readUsageSnapshot();
+    if (!snap) return;
+    enqueueTelemetryEvent({
+        category: 'lifecycle',
+        name: 'db_snapshot',
+        properties: {
+            matters: snap.matters,
+            parties: snap.parties,
+            notes: snap.notes,
+            documents: snap.documents,
+            uyapEvrak: snap.uyapEvrak,
+            dbBytes: snap.dbBytes,
+        },
+    });
+}
+
 function startTelemetryUploadTimer(): void {
     if (uploadTimer) return;
+    enqueueDbSnapshot();
     uploadTimer = setInterval(() => {
+        enqueueDbSnapshot();
         void flushTelemetryQueue().catch((err) => {
             console.warn('[telemetry] periodic upload failed:', err);
         });
@@ -243,81 +254,17 @@ export function initTelemetryService(): void {
     state = loadState();
 
     if (isCollecting()) {
-        enqueueTelemetryEvent({
-            category: 'lifecycle',
-            name: 'session_start',
-            properties: { packaged: app.isPackaged },
-        });
         startTelemetryUploadTimer();
     }
 
-    process.on('uncaughtException', (error) => {
-        console.error('[main] uncaughtException:', error);
-        enqueueTelemetryEvent({
-            category: 'crash',
-            name: 'main_uncaught_exception',
-            properties: { message: sanitizeErrorMessage(error), stack: redactPaths(error.stack ?? '').slice(0, 1024) },
-        });
-        void flushTelemetryQueue();
-    });
-
-    process.on('unhandledRejection', (reason) => {
-        enqueueTelemetryEvent({
-            category: 'error',
-            name: 'main_unhandled_rejection',
-            properties: { message: sanitizeErrorMessage(reason) },
-        });
-    });
-
     app.on('before-quit', () => {
-        if (isCollecting()) {
-            enqueueTelemetryEvent({ category: 'lifecycle', name: 'session_end' });
-        }
         void flushTelemetryQueue();
         stopTelemetryUploadTimer();
     });
 }
 
-export function attachWindowTelemetryHandlers(win: BrowserWindow): void {
-    const wc = win.webContents;
-
-    wc.on('render-process-gone', (_event, details) => {
-        enqueueTelemetryEvent({
-            category: 'crash',
-            name: 'renderer_process_gone',
-            properties: {
-                reason: details.reason,
-                exitCode: details.exitCode,
-            },
-        });
-        void flushTelemetryQueue();
-    });
-
-    wc.on('unresponsive', () => {
-        enqueueTelemetryEvent({
-            category: 'crash',
-            name: 'renderer_unresponsive',
-        });
-    });
-
-    wc.on('responsive', () => {
-        enqueueTelemetryEvent({
-            category: 'performance',
-            name: 'renderer_responsive',
-        });
-    });
-
-    wc.on('did-fail-load', (_event, errorCode, errorDescription, validatedURL) => {
-        enqueueTelemetryEvent({
-            category: 'error',
-            name: 'renderer_load_failed',
-            properties: {
-                errorCode,
-                errorDescription: redactPaths(errorDescription),
-                urlScheme: validatedURL.split(':')[0] ?? 'unknown',
-            },
-        });
-    });
+export function attachWindowTelemetryHandlers(_win: BrowserWindow): void {
+    /* weekly db_snapshot only — no crash/error events */
 }
 
 export function registerTelemetryHandlers(): void {

@@ -314,9 +314,9 @@ export const TemplateLibraryCommandTab: React.FC<Props> = ({ onClose }) => {
     const showDetail = isEditing ? !!draft : !!selected;
 
     return (
-        <div className="flex h-[min(560px,78vh)] w-full min-w-0 flex-col gap-0 bg-white/45 text-slate-950 dark:bg-neutral-950/45 dark:text-neutral-50 sm:flex-row">
-            <div className="flex w-full shrink-0 flex-col border-b border-slate-200 dark:border-white/10 sm:w-[38%] sm:border-b-0 sm:border-r">
-                <div className="space-y-2 border-b border-slate-200 p-3 dark:border-white/10">
+        <div className="flex h-[min(560px,78vh)] w-full min-w-0 flex-col gap-0 bg-transparent text-foreground sm:flex-row">
+            <div className="flex w-full shrink-0 flex-col border-b border-border sm:w-[38%] sm:border-b-0 sm:border-r">
+                <div className="space-y-2 border-b border-border p-3">
                     <div className="relative">
                         <MaterialIcon
                             icon="search"
@@ -327,7 +327,7 @@ export const TemplateLibraryCommandTab: React.FC<Props> = ({ onClose }) => {
                             value={q}
                             onChange={(e) => setQ(e.target.value)}
                             placeholder="Şablon ara…"
-                            className="h-10 border-slate-300 bg-white/70 pl-9 text-slate-950 placeholder:text-slate-500 dark:border-white/10 dark:bg-neutral-900/70 dark:text-neutral-50 dark:placeholder:text-neutral-400"
+                            className="h-10 border-border bg-card pl-9 text-foreground placeholder:text-muted-foreground"
                             autoFocus={!isEditing}
                             disabled={isEditing}
                         />
@@ -336,7 +336,7 @@ export const TemplateLibraryCommandTab: React.FC<Props> = ({ onClose }) => {
                         type="button"
                         size="sm"
                         variant="outline"
-                        className="w-full gap-1.5 border-slate-300 bg-white/70 text-slate-950 hover:bg-white/90 dark:border-white/10 dark:bg-neutral-900/70 dark:text-neutral-50 dark:hover:bg-white/10"
+                        className="w-full gap-1.5"
                         onClick={startCreate}
                         disabled={isEditing}
                     >
@@ -349,7 +349,7 @@ export const TemplateLibraryCommandTab: React.FC<Props> = ({ onClose }) => {
                     {isCreating && isEditing ? (
                         <div className="mx-1 rounded-lg bg-primary/20 px-3 py-2.5 text-sm font-medium">Yeni şablon</div>
                     ) : !rows.length ? (
-                        <p className="px-3 py-6 text-center text-sm text-slate-600 dark:text-neutral-400">Şablon yok veya eşleşme yok.</p>
+                        <p className="px-3 py-6 text-center text-sm text-muted-foreground">Şablon yok veya eşleşme yok.</p>
                     ) : (
                         rows.map((r) => (
                             <button
@@ -363,13 +363,13 @@ export const TemplateLibraryCommandTab: React.FC<Props> = ({ onClose }) => {
                                 className={cn(
                                     'flex w-full flex-col gap-0.5 rounded-lg px-3 py-2.5 text-left text-sm transition-colors',
                                     selected?.id === r.id && !isCreating
-                                        ? 'bg-emerald-100 text-slate-950 dark:bg-emerald-500/20 dark:text-neutral-50'
-                                        : 'text-slate-800 hover:bg-slate-100 dark:text-neutral-200 dark:hover:bg-white/10',
+                                        ? 'bg-primary/20 text-foreground'
+                                        : 'text-foreground hover:bg-accent',
                                     isEditing && 'opacity-50 cursor-not-allowed'
                                 )}
                             >
                                 <span className="font-medium leading-tight">{r.name}</span>
-                                <span className="text-[10px] uppercase tracking-wide text-slate-600 dark:text-neutral-400">
+                                <span className="text-[10px] uppercase tracking-wide text-muted-foreground">
                                     {categoryLabel(String(r.category))}
                                 </span>
                             </button>
@@ -378,10 +378,10 @@ export const TemplateLibraryCommandTab: React.FC<Props> = ({ onClose }) => {
                 </div>
             </div>
 
-            <div className="flex min-h-0 min-w-0 flex-1 flex-col bg-white/35 text-slate-950 dark:bg-neutral-900/40 dark:text-neutral-50">
+            <div className="flex min-h-0 min-w-0 flex-1 flex-col bg-card/40 text-foreground">
                 {showDetail ? (
                     <>
-                        <div className="flex shrink-0 flex-col gap-3 border-b border-slate-200 px-4 py-3 dark:border-white/10">
+                        <div className="flex shrink-0 flex-col gap-3 border-b border-border px-4 py-3">
                             {isEditing && draft ? (
                                 <div className="grid gap-2">
                                     <div className="space-y-1">
@@ -540,7 +540,7 @@ export const TemplateLibraryCommandTab: React.FC<Props> = ({ onClose }) => {
                             )}
                         </div>
 
-                        <div className="shrink-0 border-t border-white/10 p-3 flex justify-end gap-2">
+                        <div className="shrink-0 border-t border-border p-3 flex justify-end gap-2">
                             {isEditing ? (
                                 <>
                                     <Button type="button" variant="ghost" size="sm" onClick={cancelEdit} disabled={saving}>

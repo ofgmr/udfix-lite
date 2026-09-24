@@ -1,8 +1,18 @@
 import type { MevzuatInstrumentKind, MevzuatMaddeKind } from './mevzuatCorpusTypes';
 
 export const MEVZUAT_TUR_KANUN = 1;
+/** Tüzük iframe Tur (legacy MevzuatMetin `2.5.*` path). Not KHK. */
+export const MEVZUAT_TUR_TUZUK = 2;
+/**
+ * Site uses Tur=4 for bakanlık yönetmeliği *and* for Kanun Hükmünde Kararname
+ * (e.g. 663). Bundled kind stays `kanun` vs `yonetmelik` from the catalog.
+ */
 export const MEVZUAT_TUR_YONETMELIK = 4;
 export const MEVZUAT_TUR_KURUM_YONETMELIK = 7;
+export const MEVZUAT_TUR_TEBLIG = 9;
+/** Cumhurbaşkanlığı Kararnamesi iframe Tur (1 sayılı CBK). */
+export const MEVZUAT_TUR_CUMHURBASKANLIGI_KARARNAMESI = 19;
+export const MEVZUAT_TUR_CUMHURBASKANLIGI_YONETMELIK = 21;
 
 const HTML_ENTITIES: Record<string, string> = {
     nbsp: ' ',
@@ -88,7 +98,11 @@ export function looksLikeMevzuatContent(html: string): boolean {
     if (!html || isSpaShellHtml(html)) return false;
     const text = normalizeMaddeHeadings(htmlToPlainText(html));
     const maddeler = countMaddeler(text);
-    return maddeler >= 2 || (text.length > 4000 && /(kanun|y[oö]netmelik)/i.test(text));
+    return (
+        maddeler >= 2 ||
+        (text.length > 4000 &&
+            /(kanun|y[oö]netmelik|t[uü]z[uü][gğ][uü]|tarife|kararname|h[uü]km[uü]nde)/i.test(text))
+    );
 }
 
 export type SplitMadde = {

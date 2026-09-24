@@ -1,0 +1,1090 @@
+{
+  "id": "yonetmelik:11648",
+  "kind": "yonetmelik",
+  "no": "11648",
+  "title": "Seyahat Acentaları Yönetmeliği",
+  "shortName": "Seyahat Acentası Yön.",
+  "aliases": [
+    "Seyahat Acentası Yön.",
+    "Seyahat Acentaları Yönetmeliği",
+    "11648"
+  ],
+  "tur": 7,
+  "tertip": 5,
+  "sourceUrl": "https://www.mevzuat.gov.tr/mevzuat?MevzuatNo=11648&MevzuatTur=7&MevzuatTertip=5",
+  "kabulTarihi": null,
+  "maddeCount": 63,
+  "maddeler": [
+    {
+      "id": "yonetmelik:11648:m:1",
+      "maddeKind": "madde",
+      "maddeNo": "1",
+      "heading": "Madde 1",
+      "text": "(1) Bu Yönetmeliğin amacı; seyahat acentalarına ilişkin seyahat acentalarının ve şubelerinin kuruluş ve çalışma esaslarını, hizmetlerinin kapsamını ve niteliklerini, seyahat acentası sahibinin, personelinin ve işyerinin niteliklerini, teminatlarını, kamu kurumu niteliğindeki meslek kuruluşları tarafından hazırlanan tanıtım amaçlı yazılı veya görsel materyali, turist taşıma araçlarının, transfer elemanlarının ve transfer araçlarının niteliklerine ilişkin usul ve esasları düzenlemektir.",
+      "preview": "(1) Bu Yönetmeliğin amacı; seyahat acentalarına ilişkin seyahat acentalarının ve şubelerinin kuruluş ve çalışma esaslarını, hizmetlerinin ka…",
+      "kitap": null,
+      "kisim": null,
+      "bolum": "BİRİNCİ BÖLÜM · Amaç, Kapsam, Dayanak ve Tanımlar",
+      "ayirim": null,
+      "maddeBaslik": "Amaç",
+      "sectionPath": [
+        "BİRİNCİ BÖLÜM · Amaç, Kapsam, Dayanak ve Tanımlar",
+        "Amaç"
+      ]
+    },
+    {
+      "id": "yonetmelik:11648:m:2",
+      "maddeKind": "madde",
+      "maddeNo": "2",
+      "heading": "Madde 2",
+      "text": "(1) Bu Yönetmelik, seyahat acentalarını kapsar.",
+      "preview": "(1) Bu Yönetmelik, seyahat acentalarını kapsar.",
+      "kitap": null,
+      "kisim": null,
+      "bolum": "BİRİNCİ BÖLÜM · Amaç, Kapsam, Dayanak ve Tanımlar",
+      "ayirim": null,
+      "maddeBaslik": "Kapsam",
+      "sectionPath": [
+        "BİRİNCİ BÖLÜM · Amaç, Kapsam, Dayanak ve Tanımlar",
+        "Kapsam"
+      ]
+    },
+    {
+      "id": "yonetmelik:11648:m:3",
+      "maddeKind": "madde",
+      "maddeNo": "3",
+      "heading": "Madde 3",
+      "text": "(1) Bu Yönetmelik, 14/9/1972 tarihli ve 1618 sayılı Seyahat Acentaları ve Seyahat Acentaları Birliği Kanununun 4 üncü ve 10 uncu maddeleri hükmüne dayanılarak hazırlanmıştır.",
+      "preview": "(1) Bu Yönetmelik, 14/9/1972 tarihli ve 1618 sayılı Seyahat Acentaları ve Seyahat Acentaları Birliği Kanununun 4 üncü ve 10 uncu maddeleri h…",
+      "kitap": null,
+      "kisim": null,
+      "bolum": "BİRİNCİ BÖLÜM · Amaç, Kapsam, Dayanak ve Tanımlar",
+      "ayirim": null,
+      "maddeBaslik": "Dayanak",
+      "sectionPath": [
+        "BİRİNCİ BÖLÜM · Amaç, Kapsam, Dayanak ve Tanımlar",
+        "Dayanak"
+      ]
+    },
+    {
+      "id": "yonetmelik:11648:m:4",
+      "maddeKind": "madde",
+      "maddeNo": "4",
+      "heading": "Madde 4",
+      "text": "(1) Bu Yönetmelikte geçen;\n a) Bakanlık: Kültür ve Turizm Bakanlığını,\n b) İnceleme ve değerlendirme formu: Seyahat acentası işlemlerine ilişkin belgelerin inceleme ve değerlendirmesini gösterir formu,\n c) İşletme belgesi: Seyahat acentası işletme belgesini,\n ç) Kanun: 14/9/1972 tarihli ve 1618 sayılı Seyahat Acentaları ve Seyahat Acentaları Birliği Kanununu,\n d) Müşteri: Yararlanmak veya başkalarına yararlandırmak amacıyla seyahat acentası hizmetlerini satın alan kişiyi,\n e) Paket tur: Seyahat acentası tarafından önceden belirlenmiş bir program kapsamında; ulaştırma, konaklama ve bunlara yardımcı sayılmayan diğer turistik hizmetlerin en az ikisinin birlikte, her şeyin dâhil olduğu fiyatla satılan veya satış taahhüdü yapılan ve hizmeti yirmidört saatten uzun bir süreyi kapsayan veya gecelik konaklamayı içeren, düzenlenen ticarî faaliyeti,\n f) Paket tur sözleşmesi: Ulaştırma, konaklama ve bunlara yardımcı sayılmayan diğer turistik hizmetlerin en az ikisinin birlikte, her şeyin dâhil olduğu fiyatla satılan veya satış taahhüdü yapılan ve hizmeti yirmi dört saatten uzun bir süreyi kapsayan veya gecelik konaklamayı içeren bir nüshasının turiste verilmesi zorunlu, önceden düzenlenmiş yazılı sözleşmeyi,\n g) Rezervasyon: Kara, deniz, hava araçlarının tarifeli veya tarifesiz seferlerine ilişkin olarak veya her türlü konaklama, yeme-içme ve eğlence işletmelerinde müşteri adına yer ayırtmayı, kayıt işlemi yapmayı,\n ğ) Seyahat acentası: Kâr amacı ile turistlere, turizmle ilgili bilgiler vermeye, paket turları ve turları oluşturmaya, turizm amaçlı konaklama, ulaştırma, gezi, spor ve eğlence sağlayan hizmetleri görmeye yetkili olan, oluşturduğu ürünü kendi veya diğer seyahat acentaları vasıtasıyla pazarlayabilen ticarî kuruluşu,\n h) Seyahat acentası zorunlu sigorta poliçesi sertifikası: Kanun kapsamında zorunlu olarak sigortalanan müşteriye verilen belgeyi,\n ı) Sigorta sözleşmesi: Seyahat acentalarının Türkiye’de satılan paket turlarda, düzenledikleri paket tur kapsamında en az paket tur bedeli kadar, müşteriye taahhüt ettikleri hizmetlerin acentanın iflası da dâhil olmak üzere herhangi bir nedenle verilmemesi veya taahhüt edilen şekilde verilmemesinden kaynaklanabilecek sorumluluklarının zorunlu sigortalandığını gösteren sözleşmeyi,\n i) Transfer: Turistin; düzenlenen paket tur veya turun başlangıç noktasına kadar, herhangi bir safhasında veya sonunda, sınır giriş ve çıkış kapıları, marinalar, şehirlerarası veya uluslararası ulaşım hizmetlerinin sunulduğu otogar, gar, liman, havalimanı gibi yerlerden konaklama yapacağı tesise veya tesisten bu ulaşım hizmetlerinin sunulduğu yerlere veya programın başladığı yerleşim yerinden konaklama tesisine veya programın bitiminde, tesisten yerleşim yerine bir araçla bir tarifeye bağlı kalmaksızın seyahat acentası tarafından verilen ulaşım hizmetini,\n j) Tur: Türkiye’nin tarihî, doğal, kültürel, turistik değerlerinden en az birini tanıtma ve ulaştırmayı birlikte kapsayan, bu hizmetlerin dâhil olduğu tek bir fiyatla satılan veya satış taahhüdü yapılan ve hizmeti yirmidört saatten kısa bir süreyi kapsayan veya konaklama içermeyen ticarî faaliyeti,\n k) Turist: Seyahat acentası ürününden bizzat yararlanan kişiyi,\n l) TÜRSAB: Türkiye Seyahat Acentaları Birliğini,\n m) Zorunlu sigorta: Türkiye’de satılan paket turlarda; seyahat acentalarının düzenledikleri paket tur kapsamındaki müşteriye taahhüt edilen hizmetin, acentanın iflası da dâhil olmak üzere herhangi bir nedenle verilmemesi veya taahhüt edilen şekilde verilmemesinden kaynaklanan seyahat acentalığı faaliyetlerine ilişkin sorumluluklarını en az paket tur bedeli kadar sigortalanmasını sağlayan sigortayı,\n n) (Ek:RG-14/1/2021-31364) Online satış kanalı: Seyahat acentalarının tüketiciler ile fiziki olarak karşı karşıya gelmeksizin online platformlar, mobil uygulamalar ve diğer elektronik iletişim araçları kullanarak hizmetlerinin pazarlama ve satışını gerçekleştirdiği alanları,\n ifade eder.",
+      "preview": "(1) Bu Yönetmelikte geçen; a) Bakanlık: Kültür ve Turizm Bakanlığını, b) İnceleme ve değerlendirme formu: Seyahat acentası işlemlerine ilişk…",
+      "kitap": null,
+      "kisim": null,
+      "bolum": "BİRİNCİ BÖLÜM · Amaç, Kapsam, Dayanak ve Tanımlar",
+      "ayirim": null,
+      "maddeBaslik": "Tanımlar",
+      "sectionPath": [
+        "BİRİNCİ BÖLÜM · Amaç, Kapsam, Dayanak ve Tanımlar",
+        "Tanımlar"
+      ]
+    },
+    {
+      "id": "yonetmelik:11648:m:5",
+      "maddeKind": "madde",
+      "maddeNo": "5",
+      "heading": "Madde 5",
+      "text": "(1) Seyahat acentalarının hizmetleri şunlardır:\n a) Seyahat acentalığı faaliyetleri, Kanuna göre kurulmuş seyahat acentalarınca yerine getirilir. Tüketiciye yönelik olarak bir bedel karşılığında seyahat acentalığına münhasır faaliyet olarak tanımlanan hizmetlerin seyahat acentası olmayan kişi ve kuruluşlar tarafından yapılması yasaktır. Seyahat acentalarına münhasır hizmetler şunlardır:\n 1) Münferit veya gruplar için bir programa bağlı ya da programsız gecelemeli veya gecelemesiz yurt içi/yurt dışı tur veya paket turları tanıtır, oluşturur, pazarlar veya satar,\n 2) Kara, deniz ve hava ulaştırma araçlarının ve bu araçlara sahip işletmelerin rezervasyonunu yapar, biletlerini satar,\n 3) Seyahat acentalarının ürettiği hizmetlerin tamamını ya da bir kısmını ürün sahibi seyahat acentası tarafından yetki verilmek suretiyle satar,\n 4) Transfer yapar,\n 5) Kâr amacıyla konaklama, ulaşım, gezi, yeme-içme, eğlence sağlayan, sportif faaliyetler, kongre-konferans, dinî, sağlık, eğitim, kültürel, bilimsel ve meslekî inceleme, teşvik veya destek amaçlı seyahat ve bunun içinde yer alan hizmetleri organize etmeyi, sağlamayı, pazarlamayı, gerçekleştirmeyi içeren paket tur veya turları düzenler, satar,\n 6) Kâr amacıyla ikram, teşvik veya destek amaçlı olarak bedelsiz sunulmak üzere bedelini bizzat ödeyen kişi ya da kuruluşun yapacakları hizmetleri oluşturur, pazarlar veya satar.\n b) Seyahat acentalarının yapabileceği diğer hizmetler şunlardır:\n 1) Ulusal ve uluslararası kuruluşlarca da kabul edilen turizm faaliyetlerinin oluşturduğu ürünleri satabilir,\n 2) Turizmle ilgili ve turizm hareketinin gerektirdiği konular hakkında turistin tabi olduğu döviz, vize, gümrük gibi işlemlere ilişkin bilgi verebilir, vize işlemlerini yapabilir,\n 3) Seyahat acentaları işyerinde veya araçlarında turistik nitelikte kitap, resim, kartpostal, hediyelik eşya, turistin ihtiyaç duyacağı enformasyon malzemelerini satabilir,\n 4) Ticarî amaçla sürücülü veya sürücüsüz olarak 15+1 veya daha az koltuk kapasitesine sahip, yolcu ve eşyalarını taşımaya mahsus taşıtları yurt içinde veya yurt dışında olmak üzere, yazılı bir sözleşmeyle belirli süreli kiralanmasını yapabilir.",
+      "preview": "(1) Seyahat acentalarının hizmetleri şunlardır: a) Seyahat acentalığı faaliyetleri, Kanuna göre kurulmuş seyahat acentalarınca yerine getiri…",
+      "kitap": null,
+      "kisim": null,
+      "bolum": "İKİNCİ BÖLÜM · Seyahat Acentalığı Hizmetleri, Grupları ve Çalışma Esasları",
+      "ayirim": null,
+      "maddeBaslik": "Seyahat acentalarının hizmetleri",
+      "sectionPath": [
+        "İKİNCİ BÖLÜM · Seyahat Acentalığı Hizmetleri, Grupları ve Çalışma Esasları",
+        "Seyahat acentalarının hizmetleri"
+      ]
+    },
+    {
+      "id": "yonetmelik:11648:m:6",
+      "maddeKind": "madde",
+      "maddeNo": "6",
+      "heading": "Madde 6",
+      "text": "(1) Seyahat acentalığı sayılmayan hizmetler aşağıda belirtilmiştir.\n a) Ticarî amaç ve gereksinimlerle, doğrudan müşteri sayılmayan kişi ve kuruluşlara sahip oldukları veya 13/10/1983 tarihli ve 2918 sayılı Karayolları Trafik Kanununa göre işleten sıfatını taşıdıkları araçları, bu konuda tabi oldukları hukukî düzenlemelere uygun olarak kiralama faaliyeti,\n b) Konaklama, ağırlama, eğlence, ulaştırma ve Bakanlıktan belgeli yat işletmelerinin tabi oldukları hukukî düzenlemenin cevaz verdiği yer ve şekilde kendi ürünlerini pazarlamaları, rezervasyon yapmaları ve satmaları.",
+      "preview": "(1) Seyahat acentalığı sayılmayan hizmetler aşağıda belirtilmiştir. a) Ticarî amaç ve gereksinimlerle, doğrudan müşteri sayılmayan kişi ve k…",
+      "kitap": null,
+      "kisim": null,
+      "bolum": "İKİNCİ BÖLÜM · Seyahat Acentalığı Hizmetleri, Grupları ve Çalışma Esasları",
+      "ayirim": null,
+      "maddeBaslik": "Seyahat acentalığı sayılmayan hizmetler",
+      "sectionPath": [
+        "İKİNCİ BÖLÜM · Seyahat Acentalığı Hizmetleri, Grupları ve Çalışma Esasları",
+        "Seyahat acentalığı sayılmayan hizmetler"
+      ]
+    },
+    {
+      "id": "yonetmelik:11648:m:7",
+      "maddeKind": "madde",
+      "maddeNo": "7",
+      "heading": "Madde 7",
+      "text": "(1) Seyahat acentaları yaptıkları hizmetler bakımından üç gruba ayrılır;\n a) A Grubu Seyahat Acentası: Tüm seyahat acentalığı hizmetlerini yapar.\n b) B Grubu Seyahat Acentası: Kara, deniz ve hava ulaştırma araçlarına ilişkin rezervasyon ve bilet satışı hizmetleri ile A grubu seyahat acentalarının düzenledikleri turların biletlerinin rezervasyonunu ve satışını yapar.\n c) C Grubu Seyahat Acentası: Yalnız Türk vatandaşı için yurt içi turları tanıtır, üretir, pazarlar veya satar.\n (2) Ayrıca, B ve C grubu seyahat acentaları, kendilerine A grubu seyahat acentalarınca verilen hizmeti yerine getirir ve bu acentaların ürünlerini tanıtır, pazarlar veya satar.\n (3) A grubu seyahat acentasının, B veya C grubu seyahat acentasına gerçekleştirmeleri için vereceği görevin bir yazı ya da sözleşme ile belgelenmesi gerekir. Bu görev, A grubu seyahat acentası hizmetine giren bir paket tur veya turun tamamının B veya C grubu seyahat acentasınca düzenlenmesi şeklinde olamaz.",
+      "preview": "(1) Seyahat acentaları yaptıkları hizmetler bakımından üç gruba ayrılır; a) A Grubu Seyahat Acentası: Tüm seyahat acentalığı hizmetlerini ya…",
+      "kitap": null,
+      "kisim": null,
+      "bolum": "İKİNCİ BÖLÜM · Seyahat Acentalığı Hizmetleri, Grupları ve Çalışma Esasları",
+      "ayirim": null,
+      "maddeBaslik": "Seyahat acentaları grupları",
+      "sectionPath": [
+        "İKİNCİ BÖLÜM · Seyahat Acentalığı Hizmetleri, Grupları ve Çalışma Esasları",
+        "Seyahat acentaları grupları"
+      ]
+    },
+    {
+      "id": "yonetmelik:11648:m:8",
+      "maddeKind": "madde",
+      "maddeNo": "8",
+      "heading": "Madde 8",
+      "text": "(1) Seyahat acentası işletme belgesi almak isteyen tüzel kişiler, bir dilekçe ve varsa isim tesciline ilişkin belge ile seyahat acentası unvanı almak üzere Bakanlığa başvurur.\n (2) Bakanlık tarafından başvuruda belirtilen seyahat acentası unvanının uygun bulunması durumunda bu husus başvuru sahibine ve TÜRSAB’a yazılı olarak bildirilir.",
+      "preview": "(1) Seyahat acentası işletme belgesi almak isteyen tüzel kişiler, bir dilekçe ve varsa isim tesciline ilişkin belge ile seyahat acentası unv…",
+      "kitap": null,
+      "kisim": null,
+      "bolum": "ÜÇÜNCÜ BÖLÜM · Seyahat Acentalarının Başvuru ve Kuruluş İşlemleri",
+      "ayirim": null,
+      "maddeBaslik": "Başvuru",
+      "sectionPath": [
+        "ÜÇÜNCÜ BÖLÜM · Seyahat Acentalarının Başvuru ve Kuruluş İşlemleri",
+        "Başvuru"
+      ]
+    },
+    {
+      "id": "yonetmelik:11648:m:9",
+      "maddeKind": "madde",
+      "maddeNo": "9",
+      "heading": "Madde 9",
+      "text": "(Değişik:R.G-19/3/2010-27526)\n (1) Seyahat acentası işletme belgesi almak isteyen tüzel kişiler acenta unvanının uygun görüldüğünün Bakanlıkça bildirilmesinden itibaren otuz gün içinde aşağıda belirtilen belgelerin aslı veya onaylı sureti ile TÜRSAB’a başvurur. Onaylı suretinin ibrazı istenilen belgelerin aslının getirilmesi halinde, belgenin fotokopisi aslına uygunluğu kontrol edildikten sonra ilgili görevli tarafından isim ve unvan yazılarak tasdik edilir.\n a) Başvuru dilekçesi,\n b) Başvuru sahibi tüzel kişinin iştigal konusu olarak turizm veya seyahat acentalığı faaliyetinin de yer aldığı şirket ana sözleşmesinin yayımlatıldığı Ticaret Sicili Gazetesinin tarih ve sayısının belirtildiği beyanı,\n c) Temsile yetkili kişi veya kişilerin de belirtildiği Ticaret Sicil Tasdiknamesi,\n ç) Ek-1’de yer alan acenta unvanına ilişkin taahhütname,\n d) Başvuru sahibi (Değişik ibare:RG-14/1/2021-31364) anonim şirketlerde yönetim kurulu üyeleri ve şirketi temsile yetkili kişi veya kişilerin, limited şirketlerde şirket müdürleri ile şirketi temsile yetkili kişi veya kişilerin, diğer şirketlerde ise tüm ortakların ve şirketi temsile yetkili kişi veya kişilerin Ek-2’de yer alan T.C.Kimlik Numarası ve adli sicil beyanı,\n e) (Mülga:RG-7/4/2021-31447)\n f) Seyahat acentasının 35 inci maddede belirtilen personeline ait belge ile Sosyal Güvenlik Kurumu işyeri kodu, çalışan personelin T.C. Kimlik Numarası’nın yer aldığı beyanı,\n g) 29 uncu maddede belirtilen değerler üzerinden, 30 uncu maddede belirtilen miktarda kuruluş teminatı aslı.",
+      "preview": "(Değişik:R.G-19/3/2010-27526) (1) Seyahat acentası işletme belgesi almak isteyen tüzel kişiler acenta unvanının uygun görüldüğünün Bakanlıkç…",
+      "kitap": null,
+      "kisim": null,
+      "bolum": "ÜÇÜNCÜ BÖLÜM · Seyahat Acentalarının Başvuru ve Kuruluş İşlemleri",
+      "ayirim": null,
+      "maddeBaslik": "Yeni seyahat acentası kuruluşu başvuru belgeleri",
+      "sectionPath": [
+        "ÜÇÜNCÜ BÖLÜM · Seyahat Acentalarının Başvuru ve Kuruluş İşlemleri",
+        "Yeni seyahat acentası kuruluşu başvuru belgeleri"
+      ]
+    },
+    {
+      "id": "yonetmelik:11648:m:10",
+      "maddeKind": "madde",
+      "maddeNo": "10",
+      "heading": "Madde 10",
+      "text": "(Değişik:R.G-19/3/2010-27526)\n (1) Bakanlık tarafından acenta unvanının uygun görüldüğünün bildirilmesinden itibaren otuz gün içinde TÜRSAB’a müracaat edilmemesi veya TÜRSAB’a yapılan başvurudan sonra TÜRSAB tarafından bildirilen eksik belge veya işlemlerin bildirim tarihinden itibaren otuz gün içinde tamamlanmaması veya gerçeğe aykırı belge verilmesi ya da beyanda bulunulması durumunda başvuru işlemden kaldırılır.\n (2) Gerçeğe aykırı belge verenler ya da beyanda bulunanlar hakkında Türk Ceza Kanununun ilgili hükümlerini uygulamak üzere Cumhuriyet Başsavcılığına suç duyurusunda bulunulur.",
+      "preview": "(Değişik:R.G-19/3/2010-27526) (1) Bakanlık tarafından acenta unvanının uygun görüldüğünün bildirilmesinden itibaren otuz gün içinde TÜRSAB’a…",
+      "kitap": null,
+      "kisim": null,
+      "bolum": "ÜÇÜNCÜ BÖLÜM · Seyahat Acentalarının Başvuru ve Kuruluş İşlemleri",
+      "ayirim": null,
+      "maddeBaslik": "Başvurunun işlemden kaldırılması",
+      "sectionPath": [
+        "ÜÇÜNCÜ BÖLÜM · Seyahat Acentalarının Başvuru ve Kuruluş İşlemleri",
+        "Başvurunun işlemden kaldırılması"
+      ]
+    },
+    {
+      "id": "yonetmelik:11648:m:11",
+      "maddeKind": "madde",
+      "maddeNo": "11",
+      "heading": "Madde 11",
+      "text": "(1) TÜRSAB tarafından yapılacak denetleme sonucunda mevzuatta belirtilen şartlara sahip olduğu belirlenen seyahat acentası adayı işletmeler, üye kayıt ücretinin ödenmesi ile TÜRSAB üyesi olarak kaydedilirler.\n (2) (Ek:RG-14/1/2021-31364) TÜRSAB üyeliği Bakanlık tarafından işletme belgesinin düzenlenmesi ile kesinleşir. Üyelik aidatının belirlenmesinde belgenin verildiği yıl esas alınır.",
+      "preview": "(1) TÜRSAB tarafından yapılacak denetleme sonucunda mevzuatta belirtilen şartlara sahip olduğu belirlenen seyahat acentası adayı işletmeler,…",
+      "kitap": null,
+      "kisim": null,
+      "bolum": "ÜÇÜNCÜ BÖLÜM · Seyahat Acentalarının Başvuru ve Kuruluş İşlemleri",
+      "ayirim": null,
+      "maddeBaslik": "Üye kayıt ücreti",
+      "sectionPath": [
+        "ÜÇÜNCÜ BÖLÜM · Seyahat Acentalarının Başvuru ve Kuruluş İşlemleri",
+        "Üye kayıt ücreti"
+      ]
+    },
+    {
+      "id": "yonetmelik:11648:m:12",
+      "maddeKind": "madde",
+      "maddeNo": "12",
+      "heading": "Madde 12",
+      "text": "(1) TÜRSAB tarafından uygun görülerek Bakanlığa bildirilen seyahat acentasının başvurusunun, Bakanlık tarafından uygun görülmemesi nedeniyle işletme belgesi alamayanların üyelikleri iptal edilerek, üye kayıt ücreti, TÜRSAB tarafından kendilerine iade edilir.",
+      "preview": "(1) TÜRSAB tarafından uygun görülerek Bakanlığa bildirilen seyahat acentasının başvurusunun, Bakanlık tarafından uygun görülmemesi nedeniyle…",
+      "kitap": null,
+      "kisim": null,
+      "bolum": "ÜÇÜNCÜ BÖLÜM · Seyahat Acentalarının Başvuru ve Kuruluş İşlemleri",
+      "ayirim": null,
+      "maddeBaslik": "Başvuru sırasında üyelik iptali",
+      "sectionPath": [
+        "ÜÇÜNCÜ BÖLÜM · Seyahat Acentalarının Başvuru ve Kuruluş İşlemleri",
+        "Başvuru sırasında üyelik iptali"
+      ]
+    },
+    {
+      "id": "yonetmelik:11648:m:13",
+      "maddeKind": "madde",
+      "maddeNo": "13",
+      "heading": "Madde 13",
+      "text": "(1) Seyahat acentası sıfatı, TÜRSAB’a üye olmak ve Bakanlıkça verilecek işletme belgesi almak suretiyle kazanılır. Seyahat acentası, Bakanlıktan işletme belgesi aldıktan sonra acentacılık faaliyetine başlar.",
+      "preview": "(1) Seyahat acentası sıfatı, TÜRSAB’a üye olmak ve Bakanlıkça verilecek işletme belgesi almak suretiyle kazanılır. Seyahat acentası, Bakanlı…",
+      "kitap": null,
+      "kisim": null,
+      "bolum": "ÜÇÜNCÜ BÖLÜM · Seyahat Acentalarının Başvuru ve Kuruluş İşlemleri",
+      "ayirim": null,
+      "maddeBaslik": "Kuruluş ve işletme belgesi",
+      "sectionPath": [
+        "ÜÇÜNCÜ BÖLÜM · Seyahat Acentalarının Başvuru ve Kuruluş İşlemleri",
+        "Kuruluş ve işletme belgesi"
+      ]
+    },
+    {
+      "id": "yonetmelik:11648:m:14",
+      "maddeKind": "madde",
+      "maddeNo": "14",
+      "heading": "Madde 14",
+      "text": "(1) Seyahat acentası için aranan şartlar ve kuruluş esasları, kuracakları şubeleri için de geçerlidir.",
+      "preview": "(1) Seyahat acentası için aranan şartlar ve kuruluş esasları, kuracakları şubeleri için de geçerlidir.",
+      "kitap": null,
+      "kisim": null,
+      "bolum": "ÜÇÜNCÜ BÖLÜM · Seyahat Acentalarının Başvuru ve Kuruluş İşlemleri",
+      "ayirim": null,
+      "maddeBaslik": "Şube kuruluşu",
+      "sectionPath": [
+        "ÜÇÜNCÜ BÖLÜM · Seyahat Acentalarının Başvuru ve Kuruluş İşlemleri",
+        "Şube kuruluşu"
+      ]
+    },
+    {
+      "id": "yonetmelik:11648:m:15",
+      "maddeKind": "madde",
+      "maddeNo": "15",
+      "heading": "Madde 15",
+      "text": "(Değişik:R.G-19/3/2010-27526)\n (1) TÜRSAB, kendisine yapılan başvuruya ilişkin, ibraz ve beyan edilen bilgi ve belgeler üzerinde inceleme ve değerlendirme yapar, adli sicil beyanının doğruluğunu ilgili merciden teyit eder.",
+      "preview": "(Değişik:R.G-19/3/2010-27526) (1) TÜRSAB, kendisine yapılan başvuruya ilişkin, ibraz ve beyan edilen bilgi ve belgeler üzerinde inceleme ve…",
+      "kitap": null,
+      "kisim": null,
+      "bolum": "DÖRDÜNCÜ BÖLÜM · İnceleme, Denetleme, Değerlendirme ve Belgelendirme",
+      "ayirim": null,
+      "maddeBaslik": "Belgeler üzerinde inceleme ve değerlendirme",
+      "sectionPath": [
+        "DÖRDÜNCÜ BÖLÜM · İnceleme, Denetleme, Değerlendirme ve Belgelendirme",
+        "Belgeler üzerinde inceleme ve değerlendirme"
+      ]
+    },
+    {
+      "id": "yonetmelik:11648:m:16",
+      "maddeKind": "madde",
+      "maddeNo": "16",
+      "heading": "Madde 16",
+      "text": "(1) TÜRSAB, bildirilen adreste seyahat acentası işyerinin 17 nci maddede belirtilen nitelikleri haiz olup olmadığı, personele ilişkin kayıtların tutulup tutulmadığı hususlarında denetleme ve değerlendirme yapar.\n (2) (Ek:R.G-19/3/2010-27526) Bakanlık, gerekli görülmesi halinde bildirilen adreste seyahat acentası işyerinin 17 nci maddede belirtilen nitelikleri haiz olup olmadığı, personele ilişkin kayıtların tutulup tutulmadığı hususlarında denetim yapar.",
+      "preview": "(1) TÜRSAB, bildirilen adreste seyahat acentası işyerinin 17 nci maddede belirtilen nitelikleri haiz olup olmadığı, personele ilişkin kayıtl…",
+      "kitap": null,
+      "kisim": null,
+      "bolum": "DÖRDÜNCÜ BÖLÜM · İnceleme, Denetleme, Değerlendirme ve Belgelendirme",
+      "ayirim": null,
+      "maddeBaslik": "Adreste denetleme ve değerlendirme",
+      "sectionPath": [
+        "DÖRDÜNCÜ BÖLÜM · İnceleme, Denetleme, Değerlendirme ve Belgelendirme",
+        "Adreste denetleme ve değerlendirme"
+      ]
+    },
+    {
+      "id": "yonetmelik:11648:m:17",
+      "maddeKind": "madde",
+      "maddeNo": "17",
+      "heading": "Madde 17",
+      "text": "(1) Seyahat acentası işyerinde aşağıda belirtilen niteliklerin bulunması gereklidir.\n a) Faydalanmak isteyenlerin serbestlik ve eşitlik içinde ulaşabilecekleri bir mahalde olması,\n b) Seyahat acentası olduğunu belirleyen ve acenta unvanını taşıyan yazı ya da tabelanın seyahat acentası işyeri dışından görülebilir yerde olması,\n c) Bulunduğu yer ve konum itibarıyla grubunun gerektirdiği seyahat acentalığı faaliyetine, uygun büyüklükte ve özenle düzenlenmiş olması,\n ç) Telefon, faks, seyahat acentası işlemini internetten yapabilen elektronik iletişim cihazı olması,\n d) Mevzuatta belirtilen seyahat acentası hizmetleri dışında başka faaliyet yapılmıyor olması.\n e) (Ek:RG-14/1/2021-31364) Kayıtlarda tek bağımsız bölüm olarak geçen bina veya katlarda, birden fazla seyahat acentasının bulunması halinde her seyahat acentasının; bağımsız faaliyetleri için belirgin şekilde ayrılmış, yeterli büyüklükte kendisine ait bir alanının olması.\n (2) (Ek:RG-14/1/2021-31364) Seyahat acentası, Bakanlık tarafından işletme belgesi düzenlenmiş birinci fıkrada belirtilen işyerine bağlı olmak üzere; kendisinin veya diğer seyahat acentalarının münhasır faaliyet kapsamındaki hizmetlerinin tanıtımı, pazarlanması ve satışını online satış kanalları vasıtası ile gerçekleştirebilir. Aynı online satış kanalında birden fazla seyahat acentasına ait hizmetin tanıtım, pazarlama ve satışının yapılması halinde hangi hizmetin hangi seyahat acentasına ait olduğu açıkça belirtilir.\n (3) (Ek:RG-14/1/2021-31364) Seyahat acentası, online platformlar, mobil uygulamalar ve diğer elektronik iletişim araçları kullanarak yapacağı pazarlama ve satış faaliyetlerini yalnızca bu faaliyetler için kullanacağı online satış kanalları üzerinden gerçekleştirmek zorundadır. Bu amaçla kullanılan online satış kanalları üzerinden seyahat acentası hizmetleri dışında başka faaliyet yürütülemez. Seyahat acentaları pazarlama ve satış faaliyetlerinde tüketicilerin bilgilendirilmesi amacıyla Bakanlıkça düzenlenen işletme belgesinde yer alan belge numarası ile seyahat acentası unvanını online satış kanallarının ilk açılış sayfasında, diğer sayfalarda ise sayfa sonlarında kullanmak zorundadır. (Ek cümleler:RG-26/7/2024-32613) Seyahat acentası 12/3/1982 tarihli ve 2634 sayılı Turizm Teşvik Kanunu kapsamında yer alan konaklama tesisleri ile 25/10/2023 tarihli ve 7464 sayılı Konutların Turizm Amaçlı Kiralanmasına ve Bazı Kanunlarda Değişiklik Yapılmasına Dair Kanun kapsamında yer alan konutların belge numaralarına Bakanlık veri tabanı üzerinden doğrulayarak satış ve pazarlama faaliyetlerinde yer vermek zorundadır. Seyahat acentası, belgesiz konaklama tesisleri ile konutların pazarlama ve satışını gerçekleştiremez.\n (4) (Ek:RG-14/1/2021-31364) Seyahat acentası ürünleri dışında, mal ve hizmet pazarlaması veya satışı yapılan elektronik ticaret alanlarında seyahat acentalarının ürün ve faaliyetleri satışa sunulamaz, satışa yönlendirmek amacıyla seyahat acentası ürünlerine yer verilemez. Ancak, seyahat acentaları bu alanlara reklam ve ilan verebilir, kullanıcılar bu alanlar üzerinden seyahat acentasının online satış kanallarına bağlanabilir.\n (5) (Ek:RG-14/1/2021-31364) Seyahat acentası pazarlama ve satış faaliyetlerini gerçekleştirdiği online satış kanallarını Bakanlığa ve TÜRSAB’a bildirmek zorundadır.",
+      "preview": "(1) Seyahat acentası işyerinde aşağıda belirtilen niteliklerin bulunması gereklidir. a) Faydalanmak isteyenlerin serbestlik ve eşitlik içind…",
+      "kitap": null,
+      "kisim": null,
+      "bolum": "DÖRDÜNCÜ BÖLÜM · İnceleme, Denetleme, Değerlendirme ve Belgelendirme",
+      "ayirim": null,
+      "maddeBaslik": "Seyahat acentası işyerinin nitelikleri",
+      "sectionPath": [
+        "DÖRDÜNCÜ BÖLÜM · İnceleme, Denetleme, Değerlendirme ve Belgelendirme",
+        "Seyahat acentası işyerinin nitelikleri"
+      ]
+    },
+    {
+      "id": "yonetmelik:11648:m:18",
+      "maddeKind": "madde",
+      "maddeNo": "18",
+      "heading": "Madde 18",
+      "text": "(Değişik:R.G-19/3/2010-27526)\n (1) TÜRSAB, başvuru sonucuna ilişkin görüşünü Bakanlığa ve başvuru sahibine yazılı olarak bildirir. Uygun görülmeyen başvuruların gerekçesi belirtilir. Uygun görülen başvurular için inceleme ve değerlendirme formu, ticaret sicil tasdiknamesi, 29 uncu maddede belirtilen değerler üzerinden 30 uncu maddede belirtilen kuruluş teminatı aslı, Ek-1’de yer alan acenta unvanına ilişkin taahhütname (Mülga ibare:RG-7/4/2021-31447) Bakanlığa gönderilen yazıya eklenir.",
+      "preview": "(Değişik:R.G-19/3/2010-27526) (1) TÜRSAB, başvuru sonucuna ilişkin görüşünü Bakanlığa ve başvuru sahibine yazılı olarak bildirir. Uygun görü…",
+      "kitap": null,
+      "kisim": null,
+      "bolum": "DÖRDÜNCÜ BÖLÜM · İnceleme, Denetleme, Değerlendirme ve Belgelendirme",
+      "ayirim": null,
+      "maddeBaslik": "Bilgilendirme",
+      "sectionPath": [
+        "DÖRDÜNCÜ BÖLÜM · İnceleme, Denetleme, Değerlendirme ve Belgelendirme",
+        "Bilgilendirme"
+      ]
+    },
+    {
+      "id": "yonetmelik:11648:m:19",
+      "maddeKind": "madde",
+      "maddeNo": "19",
+      "heading": "Madde 19",
+      "text": "(1) TÜRSAB tarafından başvurunun reddi hâlinde başvuru sahibi tebliğ tarihinden itibaren on gün içinde Bakanlığa itiraz edebilir. İtiraz, Bakanlıkça karara bağlanır. Bakanlıkça gerekli görülmesi hâlinde, bildirilen adreste işyerinin 17 nci maddede belirtilen nitelikleri haiz olup olmadığı ve personele ilişkin kayıtların tutulup tutulmadığı hususlarında denetim yapılır.",
+      "preview": "(1) TÜRSAB tarafından başvurunun reddi hâlinde başvuru sahibi tebliğ tarihinden itibaren on gün içinde Bakanlığa itiraz edebilir. İtiraz, Ba…",
+      "kitap": null,
+      "kisim": null,
+      "bolum": "DÖRDÜNCÜ BÖLÜM · İnceleme, Denetleme, Değerlendirme ve Belgelendirme",
+      "ayirim": null,
+      "maddeBaslik": "İtiraz ve denetim",
+      "sectionPath": [
+        "DÖRDÜNCÜ BÖLÜM · İnceleme, Denetleme, Değerlendirme ve Belgelendirme",
+        "İtiraz ve denetim"
+      ]
+    },
+    {
+      "id": "yonetmelik:11648:m:20",
+      "maddeKind": "madde",
+      "maddeNo": "20",
+      "heading": "Madde 20",
+      "text": "(Başlığı ile birlikte değişik:R.G-19/3/2010-27526)\n (1) Bakanlıkça yapılan inceleme ve değerlendirme sonucunda eksikliğin bulunması durumunda, eksikliğin tamamlanması için başvuru dosyası TÜRSAB’a iade edilir. TÜRSAB tarafından bildirilen eksik belge veya işlemlerin bildirim tarihinden itibaren 30 gün içerisinde tamamlanmaması durumunda başvuru reddedilmiş kabul edilerek işlemden kaldırılır.\n (2) Talebi uygun görülenlere, Bakanlıkça işletme belgesi verilir ve durum, TÜRSAB’a bildirilir.\n (3) Seyahat acentası, işletme belgesinin geri alınması talebinde aşağıdaki belgelerle Bakanlığa (Ek ibare:RG-14/1/2021-31364) veya TÜRSAB’a başvurur.\n a) Başvuru dilekçesi,\n b) (Değişik:RG-14/1/2021-31364) İşletme belgesinin geri alınmasına ilişkin organ kararı,\n c) (Değişik:RG-7/4/2021-31447) Temsile yetkili kişi veya kişilerin de belirtildiği ticaret sicil tasdiknamesi.\n BEŞİNCİ BÖLÜM\n (Değişik bölüm başlığı:RG-14/1/2021-31364)\n Acenta Unvanı, Ticaret Unvanı, Adres, Grup, Nev’i, Ortaklık veya Yönetim Kurulu Değişikliği, Şirket Birleşmesi ve Şirket Bölünmesi",
+      "preview": "(Başlığı ile birlikte değişik:R.G-19/3/2010-27526) (1) Bakanlıkça yapılan inceleme ve değerlendirme sonucunda eksikliğin bulunması durumunda…",
+      "kitap": null,
+      "kisim": null,
+      "bolum": "DÖRDÜNCÜ BÖLÜM · İnceleme, Denetleme, Değerlendirme ve Belgelendirme",
+      "ayirim": null,
+      "maddeBaslik": "Belgelendirme ve belgenin geri alınması",
+      "sectionPath": [
+        "DÖRDÜNCÜ BÖLÜM · İnceleme, Denetleme, Değerlendirme ve Belgelendirme",
+        "Belgelendirme ve belgenin geri alınması"
+      ]
+    },
+    {
+      "id": "yonetmelik:11648:m:21",
+      "maddeKind": "madde",
+      "maddeNo": "21",
+      "heading": "Madde 21",
+      "text": "(Değişik:R.G-19/3/2010-27526)\n (1) Değişiklik başvurularına ilişkin TÜRSAB’a yapılan yazılı bildirim Bakanlığa yapılmış sayılır.\n (2) TÜRSAB, 21 ilâ 28 inci maddeler uyarınca yapılan başvuruya ilişkin aslı veya onaylı sureti ibraz ve beyan edilen bilgi ve belgeler üzerinde inceleme ve değerlendirme yapar, talep adli sicil beyanını gerektiriyorsa adli sicil beyanının doğruluğunu ilgili merciden teyit eder. Onaylı suretinin ibrazı istenilen belgelerin aslının getirilmesi halinde, belgenin fotokopisi aslına uygunluğu kontrol edildikten sonra ilgili görevli tarafından isim ve unvan yazılarak tasdik edilir.\n (3) TÜRSAB, adres değişikliği olması durumunda bildirilen adreste işyerinin 17 nci maddede belirtilen nitelikleri haiz olup olmadığı ve personele ilişkin kayıtların tutulup tutulmadığı hususlarında denetleme ve değerlendirme yapar.\n (4) TÜRSAB’ın denetleme ve değerlendirmesi olumlu ise; başvuru dilekçesi, inceleme ve değerlendirme formu ve talep gerektiriyorsa son duruma ilişkin ticaret sicil tasdiknamesi ile aşağıdaki belgelerden talebiyle ilgili olanları Bakanlığa gönderir.\n a) Acenta unvanı, ticaret unvanı, grup, nev’i değişikliği, şirket birleşmesi (Ek ibare:RG-14/1/2021-31364) veya şirket bölünmesi sonrasında ticaret unvanı değişikliği durumunda; 29 uncu maddede belirtilen değerler üzerinden, 30 uncu maddede belirtilen kuruluş teminatı aslı,\n b) Acenta unvanı, ticaret unvanı, nev’i değişikliği, şirket birleşmesi (Ek ibare:RG-14/1/2021-31364) veya şirket bölünmesi sonrasında ticaret unvanı değişikliği durumunda; Ek-1’de yer alan acenta unvanına ilişkin taahhütname,\n c) (Mülga:RG-7/4/2021-31447)\n (5) Bakanlıkça, gönderilen belgeler incelenir, inceleme veya bu maddenin 6 ncı fıkrası uyarınca yapılan denetim sonucunda eksikliğin tespit edilmesi hâlinde, eksikliğin tamamlanması TÜRSAB’a bildirilir.\n (6) Adres değişikliğinde; gerekli görülmesi hâlinde, bildirilen adreste, işyerinin 17 nci maddede belirtilen nitelikleri haiz olup olmadığı ve personele ilişkin kayıtların tutulup tutulmadığı hususlarında Bakanlıkça denetim yapılabilir.\n (7) Bakanlıkça, talebi uygun görülenlere, ortaklık veya yönetim kurulu değişikliği ile şirket birleşmesi (Ek ibare:RG-14/1/2021-31364) veya şirket bölünmesi sonrasında ticaret unvanı değişmemesi hâlleri dışında işletme belgesi düzenlenir. İşletme belgesinin değişmesi hâlinde TÜRSAB’a bilgi verilir.\n (8) Başvuru dilekçesinin doğrudan Bakanlığa verilmesi durumunda, değerlendirme için TÜRSAB’a gönderilir.\n (9) Başvuruya ilişkin 21 ila 28 inci maddelerde belirtilen, ibraz ve beyan edilen bilgi ve belgelerde, gerçeğe aykırı belge verilmesi ya da beyanda bulunulması durumunda başvuru işlemden kaldırılır.\n (10) Gerçeğe aykırı belge verenler ya da beyanda bulunanlar hakkında Türk Ceza Kanununun ilgili hükümlerini uygulamak üzere Cumhuriyet Başsavcılığına suç duyurusunda bulunulur.",
+      "preview": "(Değişik:R.G-19/3/2010-27526) (1) Değişiklik başvurularına ilişkin TÜRSAB’a yapılan yazılı bildirim Bakanlığa yapılmış sayılır. (2) TÜRSAB,…",
+      "kitap": null,
+      "kisim": null,
+      "bolum": "DÖRDÜNCÜ BÖLÜM · İnceleme, Denetleme, Değerlendirme ve Belgelendirme",
+      "ayirim": null,
+      "maddeBaslik": "Değişiklik başvurusu",
+      "sectionPath": [
+        "DÖRDÜNCÜ BÖLÜM · İnceleme, Denetleme, Değerlendirme ve Belgelendirme",
+        "Değişiklik başvurusu"
+      ]
+    },
+    {
+      "id": "yonetmelik:11648:m:22",
+      "maddeKind": "madde",
+      "maddeNo": "22",
+      "heading": "Madde 22",
+      "text": "(Değişik:R.G-19/3/2010-27526)\n (1) Seyahat acentası, acenta unvanı değişikliği talebini dilekçeyle Bakanlığa yapar.\n a) Bakanlık, seyahat acentası unvanının değişikliğini uygun gördüğü takdirde bu hususu başvuru sahibine ve TÜRSAB’a yazılı olarak bildirir.\n b) Başvuru sahibi, acenta unvan değişikliğine ilişkin Bakanlık yazısının kendisine tebliğ edilmesinden itibaren otuz gün içinde aşağıdaki belgelerle TÜRSAB’a başvurur.\n 1) Başvuru dilekçesi,\n 2) 29 uncu maddede belirtilen değerler üzerinden, 30 uncu maddede belirtilen miktarda kuruluş teminatı aslı,\n 3) Ek-1’de yer alan acenta unvanına ilişkin taahhütname.",
+      "preview": "(Değişik:R.G-19/3/2010-27526) (1) Seyahat acentası, acenta unvanı değişikliği talebini dilekçeyle Bakanlığa yapar. a) Bakanlık, seyahat acen…",
+      "kitap": null,
+      "kisim": null,
+      "bolum": "DÖRDÜNCÜ BÖLÜM · İnceleme, Denetleme, Değerlendirme ve Belgelendirme",
+      "ayirim": null,
+      "maddeBaslik": "Acenta unvanı değişikliği",
+      "sectionPath": [
+        "DÖRDÜNCÜ BÖLÜM · İnceleme, Denetleme, Değerlendirme ve Belgelendirme",
+        "Acenta unvanı değişikliği"
+      ]
+    },
+    {
+      "id": "yonetmelik:11648:m:23",
+      "maddeKind": "madde",
+      "maddeNo": "23",
+      "heading": "Madde 23",
+      "text": "(Değişik:R.G-19/3/2010-27526)\n (1) Seyahat acentası ticaret unvanı değişikliği talebinde aşağıdaki belgelerle TÜRSAB’a başvurur.\n a) Başvuru dilekçesi,\n b) Acentanın eski ve yeni ticaret unvanının yayımlandığı Ticaret Sicili Gazetesinin tarih ve sayısının belirtildiği beyanı,\n c) Son duruma ilişkin, temsile yetkili kişi veya kişilerin de belirtildiği ticaret sicil tasdiknamesi,\n ç) (Mülga:RG-7/4/2021-31447)\n d) 29 uncu maddede belirtilen değerler üzerinden, 30 uncu maddede belirtilen miktarda kuruluş teminatı aslı.",
+      "preview": "(Değişik:R.G-19/3/2010-27526) (1) Seyahat acentası ticaret unvanı değişikliği talebinde aşağıdaki belgelerle TÜRSAB’a başvurur. a) Başvuru d…",
+      "kitap": null,
+      "kisim": null,
+      "bolum": "DÖRDÜNCÜ BÖLÜM · İnceleme, Denetleme, Değerlendirme ve Belgelendirme",
+      "ayirim": null,
+      "maddeBaslik": "Ticaret unvanı değişikliği",
+      "sectionPath": [
+        "DÖRDÜNCÜ BÖLÜM · İnceleme, Denetleme, Değerlendirme ve Belgelendirme",
+        "Ticaret unvanı değişikliği"
+      ]
+    },
+    {
+      "id": "yonetmelik:11648:m:24",
+      "maddeKind": "madde",
+      "maddeNo": "24",
+      "heading": "Madde 24",
+      "text": "(Değişik:R.G-19/3/2010-27526)\n (1) Seyahat acentası, şubeleri de dâhil olmak üzere adres değişiklikleri talebinde aşağıdaki belgelerle TÜRSAB’a başvurur.\n a) Başvuru dilekçesi,\n b) (Değişik:RG-14/1/2021-31364) Acenta adresinin yayımlandığı Ticaret Sicili Gazetesinin tarih ve sayısının belirtildiği beyanı,\n c) Son duruma ilişkin, temsile yetkili kişi veya kişilerin de belirtildiği ticaret sicil tasdiknamesi.",
+      "preview": "(Değişik:R.G-19/3/2010-27526) (1) Seyahat acentası, şubeleri de dâhil olmak üzere adres değişiklikleri talebinde aşağıdaki belgelerle TÜRSAB…",
+      "kitap": null,
+      "kisim": null,
+      "bolum": "DÖRDÜNCÜ BÖLÜM · İnceleme, Denetleme, Değerlendirme ve Belgelendirme",
+      "ayirim": null,
+      "maddeBaslik": "Adres değişikliği",
+      "sectionPath": [
+        "DÖRDÜNCÜ BÖLÜM · İnceleme, Denetleme, Değerlendirme ve Belgelendirme",
+        "Adres değişikliği"
+      ]
+    },
+    {
+      "id": "yonetmelik:11648:m:25",
+      "maddeKind": "madde",
+      "maddeNo": "25",
+      "heading": "Madde 25",
+      "text": "(Değişik:R.G-19/3/2010-27526)\n (1) Seyahat acentası grup değişikliği talebinde aşağıdaki belgelerle TÜRSAB’a başvurur.\n a) Başvuru dilekçesi,\n b) 29 uncu maddede belirtilen değerler üzerinden, 30 uncu maddede belirtilen miktarda kuruluş teminatı aslı.",
+      "preview": "(Değişik:R.G-19/3/2010-27526) (1) Seyahat acentası grup değişikliği talebinde aşağıdaki belgelerle TÜRSAB’a başvurur. a) Başvuru dilekçesi,…",
+      "kitap": null,
+      "kisim": null,
+      "bolum": "DÖRDÜNCÜ BÖLÜM · İnceleme, Denetleme, Değerlendirme ve Belgelendirme",
+      "ayirim": null,
+      "maddeBaslik": "Grup değişikliği",
+      "sectionPath": [
+        "DÖRDÜNCÜ BÖLÜM · İnceleme, Denetleme, Değerlendirme ve Belgelendirme",
+        "Grup değişikliği"
+      ]
+    },
+    {
+      "id": "yonetmelik:11648:m:26",
+      "maddeKind": "madde",
+      "maddeNo": "26",
+      "heading": "Madde 26",
+      "text": "(Başlığı ile birlikte değişik:R.G-19/3/2010-27526)\n (1) Seyahat acentası nev’i değişikliği talebinde aşağıdaki belgelerle TÜRSAB’a başvurur.\n a) Başvuru dilekçesi,\n b) Acentanın nev’i değişikliğinin yayımlandığı Ticaret Sicili Gazetesinin tarih ve sayısının belirtildiği beyanı,\n c) Son duruma ilişkin, temsile yetkili kişi veya kişilerin de belirtildiği ticaret sicil tasdiknamesi,\n ç) Anonim şirketlerde yönetim kurulu üyeleri ve şirketi temsile yetkili kişi veya kişilerin, diğer şirketlerde ise tüm ortakların ve şirketi temsile yetkili kişi veya kişilerin Ek-2’de yer alan T.C. Kimlik Numarası ve adli sicil beyanı,\n d) (Mülga:RG-7/4/2021-31447)\n e) 29 uncu maddede belirtilen değerler üzerinden, 30 uncu maddede belirtilen miktarda kuruluş teminatı aslı.",
+      "preview": "(Başlığı ile birlikte değişik:R.G-19/3/2010-27526) (1) Seyahat acentası nev’i değişikliği talebinde aşağıdaki belgelerle TÜRSAB’a başvurur.…",
+      "kitap": null,
+      "kisim": null,
+      "bolum": "DÖRDÜNCÜ BÖLÜM · İnceleme, Denetleme, Değerlendirme ve Belgelendirme",
+      "ayirim": null,
+      "maddeBaslik": "Nev’i değişikliği",
+      "sectionPath": [
+        "DÖRDÜNCÜ BÖLÜM · İnceleme, Denetleme, Değerlendirme ve Belgelendirme",
+        "Nev’i değişikliği"
+      ]
+    },
+    {
+      "id": "yonetmelik:11648:m:27",
+      "maddeKind": "madde",
+      "maddeNo": "27",
+      "heading": "Madde 27",
+      "text": "(Değişik:R.G-19/3/2010-27526)\n (1) Seyahat acentası ortak veya yönetim kurulu değişikliği talebinde aşağıdaki belgelerle TÜRSAB’a başvurur.\n a) Başvuru dilekçesi,\n b) Anonim şirketlerde yönetim kurulu değişikliğinin diğer şirketlerde ise ortaklar kurulu değişikliğinin yayımlandığı Ticaret Sicili Gazetesinin tarih ve sayısının belirtildiği beyanı,\n c) Son duruma ilişkin, temsile yetkili kişi veya kişilerin de belirtildiği ticaret sicil tasdiknamesi,\n ç) Anonim şirketlerde yönetim kurulu üyeleri ve şirketi temsile yetkili kişi veya kişilerin, diğer şirketlerde ise tüm ortakların ve şirketi temsile yetkili kişi veya kişilerin Ek-2’de yer alan T.C. Kimlik Numarası ve adli sicil beyanı,\n d) (Mülga:RG-7/4/2021-31447)\n Şirket birleşmesi ve şirket bölünmesi (Değişik başlık:RG-14/1/2021-31364)",
+      "preview": "(Değişik:R.G-19/3/2010-27526) (1) Seyahat acentası ortak veya yönetim kurulu değişikliği talebinde aşağıdaki belgelerle TÜRSAB’a başvurur. a…",
+      "kitap": null,
+      "kisim": null,
+      "bolum": "DÖRDÜNCÜ BÖLÜM · İnceleme, Denetleme, Değerlendirme ve Belgelendirme",
+      "ayirim": null,
+      "maddeBaslik": "Ortaklık veya yönetim kurulu değişikliği",
+      "sectionPath": [
+        "DÖRDÜNCÜ BÖLÜM · İnceleme, Denetleme, Değerlendirme ve Belgelendirme",
+        "Ortaklık veya yönetim kurulu değişikliği"
+      ]
+    },
+    {
+      "id": "yonetmelik:11648:m:28",
+      "maddeKind": "madde",
+      "maddeNo": "28",
+      "heading": "Madde 28",
+      "text": "(Değişik:R.G-19/3/2010-27526)\n (1) Seyahat acentası şirket birleşmesi (Ek ibare:RG-14/1/2021-31364) veya şirket bölünmesi talebinde aşağıdaki belgelerle TÜRSAB’a başvurur.\n a) Başvuru dilekçesi,\n b) Acentanın eski ve yeni ticaret unvanının yayımlandığı Ticaret Sicili Gazetesinin tarih ve sayısının belirtildiği beyanı,\n c) Son duruma ilişkin, temsile yetkili kişi veya kişilerin de belirtildiği ticaret sicil tasdiknamesi,\n ç) Ek-1’de yer alan acenta unvanına ilişkin taahhütname,\n d) Anonim şirketlerde yönetim kurulu üyeleri ve şirketi temsile yetkili kişi veya kişilerin, diğer şirketlerde ise tüm ortakların ve şirketi temsile yetkili kişi veya kişilerin Ek-2’de yer alan T.C. Kimlik Numarası ve adli sicil beyanı,\n e) (Mülga:RG-7/4/2021-31447)\n f) Birleşme (Ek ibare:RG-14/1/2021-31364) veya bölünme sonrasında ticaret unvanı değişikliği oluşmuşsa; 29 uncu maddede belirtilen değerler üzerinden, 30 uncu maddede belirtilen miktarda kuruluş teminatı aslı.",
+      "preview": "(Değişik:R.G-19/3/2010-27526) (1) Seyahat acentası şirket birleşmesi (Ek ibare:RG-14/1/2021-31364) veya şirket bölünmesi talebinde aşağıdaki…",
+      "kitap": null,
+      "kisim": null,
+      "bolum": "DÖRDÜNCÜ BÖLÜM · İnceleme, Denetleme, Değerlendirme ve Belgelendirme",
+      "ayirim": null,
+      "maddeBaslik": "Ortaklık veya yönetim kurulu değişikliği",
+      "sectionPath": [
+        "DÖRDÜNCÜ BÖLÜM · İnceleme, Denetleme, Değerlendirme ve Belgelendirme",
+        "Ortaklık veya yönetim kurulu değişikliği"
+      ]
+    },
+    {
+      "id": "yonetmelik:11648:m:29",
+      "maddeKind": "madde",
+      "maddeNo": "29",
+      "heading": "Madde 29",
+      "text": "(1) Seyahat acentaları ve şubeleri, müşterileri ile biletlerini satacakları ulaştırma müesseselerine sunacakları hizmetler ve sigorta limiti kapsamındaki yükümlülükler hariç olmak üzere tüm seyahat acentalığı işlemlerinden doğacak yükümlülüklerini yerine getirmek, karşılığı olmak ve bu yükümlülüklerin yerine getirilmemesi hâlinde Bakanlıkça paraya çevrilerek ilgililere ödeme yapılmak üzere seyahat acentasının grubuna göre 30 uncu maddede belirtilen miktarda teminatı, 4/1/2002 tarihli ve 4734 sayılı Kamu İhale Kanununun 34 üncü maddesinde belirtilen değerler üzerinden vermek ve teminatın eksilmesi hâlinde, otuz gün içinde tamamlamak zorundadır.\n (2) Teminat, teminat mektubu olarak verilecekse, kesin ve süresiz teminat mektubunda; acenta unvanı ve ticaret unvanı bulunur ve aslı Bakanlığa verilir.\n (3) Teminat mektupları dışındaki teminatlar, Bakanlık Merkez Muhasebe Birimine veya il veya ilçelerde genel bütçeli dairelere ait muhasebe birimleri vasıtasıyla Bakanlık Merkez Muhasebe Birimine yatırılır.\n (4) Teminatlara ilişkin olarak, Kanun ve bu Yönetmelikte hüküm bulunmayan hâllerde 4734 sayılı Kanun ve ilgili mevzuat uygulanır.\n (5) Seyahat acentasının başvuru talebinin, Bakanlıkça uygun görülmediği durumlarda teminat Bakanlıkça iade edilir.",
+      "preview": "(1) Seyahat acentaları ve şubeleri, müşterileri ile biletlerini satacakları ulaştırma müesseselerine sunacakları hizmetler ve sigorta limiti…",
+      "kitap": null,
+      "kisim": null,
+      "bolum": "ALTINCI BÖLÜM · Teminata İlişkin Hususlar",
+      "ayirim": null,
+      "maddeBaslik": "Kuruluş teminatı",
+      "sectionPath": [
+        "ALTINCI BÖLÜM · Teminata İlişkin Hususlar",
+        "Kuruluş teminatı"
+      ]
+    },
+    {
+      "id": "yonetmelik:11648:m:30",
+      "maddeKind": "madde",
+      "maddeNo": "30",
+      "heading": "Madde 30",
+      "text": "(1) Seyahat acentası gruplarına göre yatırılacak olan teminat miktarları aşağıda belirtilmiştir.\n a) A grubu seyahat acentası için yedibin Yeni Türk Lirası,\n b) B grubu seyahat acentası için altıbin Yeni Türk Lirası,\n c) C grubu seyahat acentası için beşbin Yeni Türk Lirası.\n (2) Her bir şube için birinci fıkrada belirtilen miktarların % 25’i alınır.\n (3) Bakanlıkça gerekli görülen hâllerde teminat miktarları, geçmiş yıllar için 4/1/1961 tarihli ve 213 sayılı Vergi Usul Kanununun mükerrer 298 inci maddesi uyarınca tespit ve ilan edilen yeniden değerleme oranında artırılarak uygulanabilir.",
+      "preview": "(1) Seyahat acentası gruplarına göre yatırılacak olan teminat miktarları aşağıda belirtilmiştir. a) A grubu seyahat acentası için yedibin Ye…",
+      "kitap": null,
+      "kisim": null,
+      "bolum": "ALTINCI BÖLÜM · Teminata İlişkin Hususlar",
+      "ayirim": null,
+      "maddeBaslik": "Teminatın miktarı",
+      "sectionPath": [
+        "ALTINCI BÖLÜM · Teminata İlişkin Hususlar",
+        "Teminatın miktarı"
+      ]
+    },
+    {
+      "id": "yonetmelik:11648:m:31",
+      "maddeKind": "madde",
+      "maddeNo": "31",
+      "heading": "Madde 31",
+      "text": "(1) Seyahat acentası işletme belgesinin, Bakanlık tarafından iptali veya ilgilinin başvurusu veya iflas gibi nedenlerle geri alınması hâlinde, işletme belgesinin iptal veya geri alınma tarihinden itibaren kuruluş teminatı bir yıl süreyle Bakanlıkça Kanunda belirtilen amaçlar için tutulur. Mahsubu gerektiren bir durum yoksa bir yılın sonunda iade edilir.",
+      "preview": "(1) Seyahat acentası işletme belgesinin, Bakanlık tarafından iptali veya ilgilinin başvurusu veya iflas gibi nedenlerle geri alınması hâlind…",
+      "kitap": null,
+      "kisim": null,
+      "bolum": "ALTINCI BÖLÜM · Teminata İlişkin Hususlar",
+      "ayirim": null,
+      "maddeBaslik": "İşletme belgesinin iptalinde veya geri alınmasında teminat",
+      "sectionPath": [
+        "ALTINCI BÖLÜM · Teminata İlişkin Hususlar",
+        "İşletme belgesinin iptalinde veya geri alınmasında teminat"
+      ]
+    },
+    {
+      "id": "yonetmelik:11648:m:32",
+      "maddeKind": "madde",
+      "maddeNo": "32",
+      "heading": "Madde 32",
+      "text": "(1) Kanunun 10 uncu maddesinin (e) bendi kapsamındaki acenta borçlarından dolayı, acentadan alacaklı olan gerçek veya tüzel kişilerin, alacağının acentanın kuruluş teminatından karşılanmasının ilgili icra dairesi tarafından istenilmesi hâlinde, Bakanlık bu tutarı, emrindeki teminattan öder ve durumu ilgili seyahat acentasına bildirir.\n (2) Kuruluş teminatı, yükümlülükler dışında başka bir alacak dolayısıyla temlik, terhin ve haciz edilemez.",
+      "preview": "(1) Kanunun 10 uncu maddesinin (e) bendi kapsamındaki acenta borçlarından dolayı, acentadan alacaklı olan gerçek veya tüzel kişilerin, alaca…",
+      "kitap": null,
+      "kisim": null,
+      "bolum": "ALTINCI BÖLÜM · Teminata İlişkin Hususlar",
+      "ayirim": null,
+      "maddeBaslik": "Teminat karşısında alacaklıların durumu",
+      "sectionPath": [
+        "ALTINCI BÖLÜM · Teminata İlişkin Hususlar",
+        "Teminat karşısında alacaklıların durumu"
+      ]
+    },
+    {
+      "id": "yonetmelik:11648:m:33",
+      "maddeKind": "madde",
+      "maddeNo": "33",
+      "heading": "Madde 33",
+      "text": "(1) Grup değişikliğinde; iki grup arasında iadesi gereken kuruluş teminatı farkı varsa, fark bir yıl süreyle Bakanlıkça alıkonulur, mahsubu gerektiren bir durum yoksa bir yılın bitiminde kuruluş teminatı farkı iade edilir.\n (2) Her ne suretle olursa olsun teminat eksikliği hâlinde eksik kalan miktar Bakanlık bildiriminden itibaren otuz gün içinde acenta tarafından tamamlanır.",
+      "preview": "(1) Grup değişikliğinde; iki grup arasında iadesi gereken kuruluş teminatı farkı varsa, fark bir yıl süreyle Bakanlıkça alıkonulur, mahsubu…",
+      "kitap": null,
+      "kisim": null,
+      "bolum": "ALTINCI BÖLÜM · Teminata İlişkin Hususlar",
+      "ayirim": null,
+      "maddeBaslik": "Kuruluş teminatının eksilmesinde, grup değiştirilmesi hâlinde teminat",
+      "sectionPath": [
+        "ALTINCI BÖLÜM · Teminata İlişkin Hususlar",
+        "Kuruluş teminatının eksilmesinde, grup değiştirilmesi hâlinde teminat"
+      ]
+    },
+    {
+      "id": "yonetmelik:11648:m:34",
+      "maddeKind": "madde",
+      "maddeNo": "34",
+      "heading": "Madde 34",
+      "text": "(1) Anonim şirketlerde yönetim kurulu üyeleri ve şirketi temsile yetkili kişi veya kişilerde; diğer şirketlerde ise tüm ortaklar ve şirketi temsile yetkili kişi veya kişilerde aşağıdaki nitelikler aranır.\n a) 18 yaşını bitirmiş olmak,\n b) (Değişik:R.G-19/3/2010-27526) Türk Ceza Kanununun 53 üncü maddesinde belirtilen süreler geçmiş olsa bile; kasten işlenen bir suçtan dolayı beş yıl veya daha fazla süreyle ya da Devletin güvenliğine karşı suçlar, Anayasal düzene ve bu düzenin işleyişine karşı suçlar, milli savunmaya karşı suçlar, devlet sırlarına karşı suçlar ve casusluk, basit veya nitelikli zimmet, irtikâp, rüşvet, hırsızlık, dolandırıcılık, sahtecilik, güveni kötüye kullanma, hileli iflas, ihaleye fesat karıştırma, edimin ifasına fesat karıştırma, suçtan kaynaklanan malvarlığı değerlerini aklama, kaçakçılık veya vergi kaçakçılığı suçlarından hapis cezasına mahkûm olmamak,\n c) Ticarî itibar bakımından yeterli olmak,\n ç) Kanunun 30 uncu maddesi hükmüne göre cezalandırılmamış olmak.",
+      "preview": "(1) Anonim şirketlerde yönetim kurulu üyeleri ve şirketi temsile yetkili kişi veya kişilerde; diğer şirketlerde ise tüm ortaklar ve şirketi…",
+      "kitap": null,
+      "kisim": null,
+      "bolum": "YEDİNCİ BÖLÜM · Seyahat Acentası Sahibinin ve Personelinin Nitelikleri",
+      "ayirim": null,
+      "maddeBaslik": "Seyahat acentası sahibinin nitelikleri",
+      "sectionPath": [
+        "YEDİNCİ BÖLÜM · Seyahat Acentası Sahibinin ve Personelinin Nitelikleri",
+        "Seyahat acentası sahibinin nitelikleri"
+      ]
+    },
+    {
+      "id": "yonetmelik:11648:m:35",
+      "maddeKind": "madde",
+      "maddeNo": "35",
+      "heading": "Madde 35",
+      "text": "(1) Seyahat acentası merkez ve şubelerinde aşağıdaki niteliklerden birini haiz en az bir personel çalıştırılır.\n a) Otelcilik ve turizm konusunda; meslek lisesi, önlisans veya lisans eğitimini tamamlamış olmak,\n b) Enformasyon memurluğu yabancı dil başarı belgesi sahibi olmak,\n c) Bakanlıkça verilmiş rehber belgesine sahip olmak.\n (2) C grubu seyahat acentalarında enformasyon memurluğu başarı belgesi sahibi olanlar birinci fıkrada belirtilen nitelikleri haiz personel yerine çalıştırılabilir.\n (3) Birinci fıkradaki niteliklerden birine sahip ve fiilen acentasında çalışan seyahat acentası sahipleri kendi acentalarında personel sayılır.\n (4) (Değişik:R.G-19/3/2010-27526) Seyahat acentalarında çalışacak personele ilişkin belgelerden enformasyon memurluğu yabancı dil başarı belgesinin aslı, diğer belgelerin aslı veya onaylı sureti TÜRSAB’a ibraz edilir ve arşivlenir. Onaylı suretinin ibrazı istenilen belgelerin aslının getirilmesi halinde, belgenin fotokopisi aslına uygunluğu kontrol edildikten sonra ilgili görevli tarafından isim ve unvan yazılarak tasdik edilir.\n (5) (Ek:R.G-19/3/2010-27526) Seyahat acentaları, personele ilişkin değişiklikleri en geç otuz gün içinde TÜRSAB’a bildirmek ve belgeleri göndermekle yükümlüdür.",
+      "preview": "(1) Seyahat acentası merkez ve şubelerinde aşağıdaki niteliklerden birini haiz en az bir personel çalıştırılır. a) Otelcilik ve turizm konus…",
+      "kitap": null,
+      "kisim": null,
+      "bolum": "YEDİNCİ BÖLÜM · Seyahat Acentası Sahibinin ve Personelinin Nitelikleri",
+      "ayirim": null,
+      "maddeBaslik": "Seyahat acentası personelinin nitelikleri",
+      "sectionPath": [
+        "YEDİNCİ BÖLÜM · Seyahat Acentası Sahibinin ve Personelinin Nitelikleri",
+        "Seyahat acentası personelinin nitelikleri"
+      ]
+    },
+    {
+      "id": "yonetmelik:11648:m:36",
+      "maddeKind": "madde",
+      "maddeNo": "36",
+      "heading": "Madde 36",
+      "text": "(1) Seyahat acentası, belge almaya esas niteliklerini sürekli korumak zorundadır.\n (2) (Ek:R.G-19/3/2010-27526) Seyahat acentasının, şubeleri de dâhil olmak üzere belgedeki adresinde veya adres değişikliği talebinde bulunması halinde yeni adresinde faaliyet göstermediğinin Bakanlık veya TÜRSAB’ca tespiti, belge almaya esas niteliklerini kaybettiğini gösterir.",
+      "preview": "(1) Seyahat acentası, belge almaya esas niteliklerini sürekli korumak zorundadır. (2) (Ek:R.G-19/3/2010-27526) Seyahat acentasının, şubeleri…",
+      "kitap": null,
+      "kisim": null,
+      "bolum": "SEKİZİNCİ BÖLÜM · Seyahat Acentalarının Yükümlülükleri",
+      "ayirim": null,
+      "maddeBaslik": "Niteliklerin sürekliliği",
+      "sectionPath": [
+        "SEKİZİNCİ BÖLÜM · Seyahat Acentalarının Yükümlülükleri",
+        "Niteliklerin sürekliliği"
+      ]
+    },
+    {
+      "id": "yonetmelik:11648:m:37",
+      "maddeKind": "madde",
+      "maddeNo": "37",
+      "heading": "Madde 37",
+      "text": "(1) Seyahat acentası işletme belgesinin, acentanın merkez ve şubesinde herkesin görebileceği bir yerde, belgesiz faaliyetleri önlemek ve turistlerin aydınlatılmasını ve denetim kolaylığını sağlamak amacıyla, asılı bulundurulması zorunludur.\n (2) (Ek:R.G-19/3/2010-27526) Seyahat acentası, şubeleri de dâhil olmak üzere adres değişikliğine ilişkin talebi sonuçlandırılmadan yeni adresinde seyahat acentacılığı faaliyeti gösteremez",
+      "preview": "(1) Seyahat acentası işletme belgesinin, acentanın merkez ve şubesinde herkesin görebileceği bir yerde, belgesiz faaliyetleri önlemek ve tur…",
+      "kitap": null,
+      "kisim": null,
+      "bolum": "SEKİZİNCİ BÖLÜM · Seyahat Acentalarının Yükümlülükleri",
+      "ayirim": null,
+      "maddeBaslik": "Seyahat acentası işletme belgesinin asılması",
+      "sectionPath": [
+        "SEKİZİNCİ BÖLÜM · Seyahat Acentalarının Yükümlülükleri",
+        "Seyahat acentası işletme belgesinin asılması"
+      ]
+    },
+    {
+      "id": "yonetmelik:11648:m:38",
+      "maddeKind": "madde",
+      "maddeNo": "38",
+      "heading": "Madde 38",
+      "text": "(1) Seyahat acentası merkez ve şubesinin dışından görülebilir yerine, belgesiz faaliyetleri önlemek, turistlerin aydınlatılması ve denetim kolaylığı sağlamak amacıyla TÜRSAB tarafından düzenlenen seyahat acentasının unvanı, işletme belgesi numarası ve TÜRSAB üyesi olduğuna ilişkin kaydı havi soğuk damgalı seyahat acentası plaketi asılmak zorundadır.",
+      "preview": "(1) Seyahat acentası merkez ve şubesinin dışından görülebilir yerine, belgesiz faaliyetleri önlemek, turistlerin aydınlatılması ve denetim k…",
+      "kitap": null,
+      "kisim": null,
+      "bolum": "SEKİZİNCİ BÖLÜM · Seyahat Acentalarının Yükümlülükleri",
+      "ayirim": null,
+      "maddeBaslik": "Seyahat acentası plaketi ve asılması",
+      "sectionPath": [
+        "SEKİZİNCİ BÖLÜM · Seyahat Acentalarının Yükümlülükleri",
+        "Seyahat acentası plaketi ve asılması"
+      ]
+    },
+    {
+      "id": "yonetmelik:11648:m:39",
+      "maddeKind": "madde",
+      "maddeNo": "39",
+      "heading": "Madde 39",
+      "text": "(1) Bu Yönetmelikte sayılan hususlara ilişkin bilgi ve belgelerin, istendiğinde denetimi yapanlara gösterilmesi zorunludur.",
+      "preview": "(1) Bu Yönetmelikte sayılan hususlara ilişkin bilgi ve belgelerin, istendiğinde denetimi yapanlara gösterilmesi zorunludur.",
+      "kitap": null,
+      "kisim": null,
+      "bolum": "SEKİZİNCİ BÖLÜM · Seyahat Acentalarının Yükümlülükleri",
+      "ayirim": null,
+      "maddeBaslik": "İstenilen bilgi ve belgelerin ibrazı",
+      "sectionPath": [
+        "SEKİZİNCİ BÖLÜM · Seyahat Acentalarının Yükümlülükleri",
+        "İstenilen bilgi ve belgelerin ibrazı"
+      ]
+    },
+    {
+      "id": "yonetmelik:11648:m:40",
+      "maddeKind": "madde",
+      "maddeNo": "40",
+      "heading": "Madde 40",
+      "text": "(1) Paket tur ve turlarda seyahat acentası yetkilisinin aşağıdaki belgeleri bulundurması zorunludur.\n a) Seyahat acentası işletme belgesinin TÜRSAB tarafından onaylanmış sureti,\n b) Paket tur veya tura katılan müşterilerin listesi,\n c) TÜRSAB araç plakası,\n ç) Araç, seyahat acentası tarafından kiralanmış ise sözleşme sureti,\n d) Başlangıç noktasının da belirtildiği paket tur veya tur programı,\n e) Paket tur zorunlu sigorta poliçe sertifikası sureti.",
+      "preview": "(1) Paket tur ve turlarda seyahat acentası yetkilisinin aşağıdaki belgeleri bulundurması zorunludur. a) Seyahat acentası işletme belgesinin…",
+      "kitap": null,
+      "kisim": null,
+      "bolum": "SEKİZİNCİ BÖLÜM · Seyahat Acentalarının Yükümlülükleri",
+      "ayirim": null,
+      "maddeBaslik": "Paket tur ve turlarda bulundurulması gereken belgeler",
+      "sectionPath": [
+        "SEKİZİNCİ BÖLÜM · Seyahat Acentalarının Yükümlülükleri",
+        "Paket tur ve turlarda bulundurulması gereken belgeler"
+      ]
+    },
+    {
+      "id": "yonetmelik:11648:m:41",
+      "maddeKind": "madde",
+      "maddeNo": "41",
+      "heading": "Madde 41",
+      "text": "(1) Seyahat acentasının transfer faaliyetinde aşağıdaki belgelerin transfer elemanında bulunması zorunludur.\n a) Seyahat acentası işletme belgesinin TÜRSAB tarafından onaylanmış sureti,\n b) Transferi yapılan yolcu listesi,\n c) TÜRSAB araç plakası,\n ç) Transfer elemanı kimlik kartı,\n d) Araç, seyahat acentası tarafından kiralanmış ise sözleşme sureti.",
+      "preview": "(1) Seyahat acentasının transfer faaliyetinde aşağıdaki belgelerin transfer elemanında bulunması zorunludur. a) Seyahat acentası işletme bel…",
+      "kitap": null,
+      "kisim": null,
+      "bolum": "SEKİZİNCİ BÖLÜM · Seyahat Acentalarının Yükümlülükleri",
+      "ayirim": null,
+      "maddeBaslik": "Transfer araçlarında bulundurulacak belgeler",
+      "sectionPath": [
+        "SEKİZİNCİ BÖLÜM · Seyahat Acentalarının Yükümlülükleri",
+        "Transfer araçlarında bulundurulacak belgeler"
+      ]
+    },
+    {
+      "id": "yonetmelik:11648:m:42",
+      "maddeKind": "madde",
+      "maddeNo": "42",
+      "heading": "Madde 42",
+      "text": "(1) Seyahat acentası transfer faaliyetinde aşağıdaki niteliklere sahip transfer elemanı bulundurur.\n a) 18 yaşını bitirmiş olmak,\n b) En az ilkokul ya da ilköğretim okulu mezunu olmak,\n c) TÜRSAB tarafından verilen seyahat acentası transfer elemanı kimlik kartına sahip olmak.",
+      "preview": "(1) Seyahat acentası transfer faaliyetinde aşağıdaki niteliklere sahip transfer elemanı bulundurur. a) 18 yaşını bitirmiş olmak, b) En az il…",
+      "kitap": null,
+      "kisim": null,
+      "bolum": "SEKİZİNCİ BÖLÜM · Seyahat Acentalarının Yükümlülükleri",
+      "ayirim": null,
+      "maddeBaslik": "Transfer elemanlarının nitelikleri",
+      "sectionPath": [
+        "SEKİZİNCİ BÖLÜM · Seyahat Acentalarının Yükümlülükleri",
+        "Transfer elemanlarının nitelikleri"
+      ]
+    },
+    {
+      "id": "yonetmelik:11648:m:43",
+      "maddeKind": "madde",
+      "maddeNo": "43",
+      "heading": "Madde 43",
+      "text": "(1) Seyahat acentası kendi hizmetlerini yerine getirirken, transfer, paket tur ve turlarda kullanacakları yolcu taşıma araçlarında, ilgili mevzuatta belirtilen hususların yanı sıra aşağıdaki nitelikler de aranır:\n a) Havalandırma, ısıtma ve soğutma tesisatı bulunması,\n b) Ses tesisatı olması,\n c) Temiz ve özenle döşenmiş olması.\n Zorunlu sigorta ve sözleşmeler (Değişik başlık:RG-14/1/2021-31364)",
+      "preview": "(1) Seyahat acentası kendi hizmetlerini yerine getirirken, transfer, paket tur ve turlarda kullanacakları yolcu taşıma araçlarında, ilgili m…",
+      "kitap": null,
+      "kisim": null,
+      "bolum": "SEKİZİNCİ BÖLÜM · Seyahat Acentalarının Yükümlülükleri",
+      "ayirim": null,
+      "maddeBaslik": "Turist taşıma aracı nitelikleri",
+      "sectionPath": [
+        "SEKİZİNCİ BÖLÜM · Seyahat Acentalarının Yükümlülükleri",
+        "Turist taşıma aracı nitelikleri"
+      ]
+    },
+    {
+      "id": "yonetmelik:11648:m:44",
+      "maddeKind": "madde",
+      "maddeNo": "44",
+      "heading": "Madde 44",
+      "text": "(1) Seyahat acentası, paket turlarda zorunlu sigorta yaptırmak ve paket tur zorunlu sigorta poliçesi sertifikası ile 23/2/1995 tarihli ve 4077 sayılı Tüketicinin Korunması Hakkında Kanun ve 13/6/2003 tarihli ve 25137 sayılı Resmî Gazete’de yayımlanan Paket Tur Sözleşmeleri Uygulama Usul ve Esasları Hakkında Yönetmeliğin 5 inci maddesinde yer alan zorunlu şartları da içerir mahiyetteki paket tur sözleşmesinin bir örneğini paket tur başlamadan önce müşteriye vermekle yükümlüdür.\n (2) Sözleşme ve sertifikaların seyahat acentasında kalan suretinde müşteriye bir örneğinin teslim edildiğini içeren imzalı beyanı alınır. Müşteri, paket turu başkalarının yararlanması için satın almışsa, acenta birinci fıkrada belirtilen belgeleri vermekle yükümlüdür.\n (3) (Ek:RG-14/1/2021-31364) Seyahat acentası, müşteriye verilmek üzere düzenleyeceği paket tur veya tura ilişkin sözleşmelerde Bakanlıkça düzenlenen işletme belgesinde yazılı olan; belge numarasını, seyahat acentası ve ticaret unvanı ile adresini belirtmekle yükümlüdür. Satışı gerçekleştirilen ürünün başka bir seyahat acentasına ait olması halinde, ürün sahibi seyahat acentasının sözleşmelerde açıkça belirtilmesi zorunludur.",
+      "preview": "(1) Seyahat acentası, paket turlarda zorunlu sigorta yaptırmak ve paket tur zorunlu sigorta poliçesi sertifikası ile 23/2/1995 tarihli ve 40…",
+      "kitap": null,
+      "kisim": null,
+      "bolum": "SEKİZİNCİ BÖLÜM · Seyahat Acentalarının Yükümlülükleri",
+      "ayirim": null,
+      "maddeBaslik": "Turist taşıma aracı nitelikleri",
+      "sectionPath": [
+        "SEKİZİNCİ BÖLÜM · Seyahat Acentalarının Yükümlülükleri",
+        "Turist taşıma aracı nitelikleri"
+      ]
+    },
+    {
+      "id": "yonetmelik:11648:m:45",
+      "maddeKind": "madde",
+      "maddeNo": "45",
+      "heading": "Madde 45",
+      "text": "(1) Türkiye Odalar ve Borsalar Birliği ile Esnaf ve Sanatkarlar Odaları Birliğinin yerel temsilcileri, tur veya paket tur düzenleyen seyahat acentalarınca turistlere sunulmak üzere yörelerini tanıtmak amacıyla hazırlayacakları yazılı veya görsel materyali her yıl kasım ayının sonuna kadar İl Kültür ve Turizm Müdürlüğüne verirler.\n (2) İllerde Vali başkanlığında, İl Kültür ve Turizm Müdürlüğü, TÜRSAB ve ilgili meslek kuruluşunun birer temsilcisinden oluşacak bir komisyon tarafından hazırlanan görsel materyaller her takvim yılının ocak ayı sonuna kadar değerlendirilir. Komisyonlar salt çoğunlukla toplanır, katılanların salt çoğunluğuyla karar alınır. Oyların eşitliği hâlinde başkanın oyu yönünde karar alınmış sayılır. Komisyon tarafından uygun görülen materyaller seyahat acentalarınca turistlere dağıtılır.\n (3) Yazılı veya görsel materyallerin hazırlanması, dağıtımı, sunumu ve konu ile ilişkili ortaya çıkabilecek bütün masraflar, materyali dağıtmak isteyen ilgili meslek kuruluşlarınca karşılanır.",
+      "preview": "(1) Türkiye Odalar ve Borsalar Birliği ile Esnaf ve Sanatkarlar Odaları Birliğinin yerel temsilcileri, tur veya paket tur düzenleyen seyahat…",
+      "kitap": null,
+      "kisim": null,
+      "bolum": "SEKİZİNCİ BÖLÜM · Seyahat Acentalarının Yükümlülükleri",
+      "ayirim": null,
+      "maddeBaslik": "Tanıtım amaçlı yazılı ve görsel materyal",
+      "sectionPath": [
+        "SEKİZİNCİ BÖLÜM · Seyahat Acentalarının Yükümlülükleri",
+        "Tanıtım amaçlı yazılı ve görsel materyal"
+      ]
+    },
+    {
+      "id": "yonetmelik:11648:m:46",
+      "maddeKind": "madde",
+      "maddeNo": "46",
+      "heading": "Madde 46",
+      "text": "(1) Enformasyon memurluğu başarı belgesi ve enformasyon memurluğu yabancı dil başarı belgesi sınavları TÜRSAB tarafından düzenlenir.",
+      "preview": "(1) Enformasyon memurluğu başarı belgesi ve enformasyon memurluğu yabancı dil başarı belgesi sınavları TÜRSAB tarafından düzenlenir.",
+      "kitap": null,
+      "kisim": null,
+      "bolum": "DOKUZUNCU BÖLÜM · Enformasyon Memurluğu Sınavları",
+      "ayirim": null,
+      "maddeBaslik": "Sınav açılması",
+      "sectionPath": [
+        "DOKUZUNCU BÖLÜM · Enformasyon Memurluğu Sınavları",
+        "Sınav açılması"
+      ]
+    },
+    {
+      "id": "yonetmelik:11648:m:47",
+      "maddeKind": "madde",
+      "maddeNo": "47",
+      "heading": "Madde 47",
+      "text": "(1) Sınav tarihi ve yeri ile sınav esasları TÜRSAB tarafından sınav tarihinden en az otuz gün önce, tirajı en yüksek üç günlük gazeteden birinin Türkiye baskısında ilan edilir.",
+      "preview": "(1) Sınav tarihi ve yeri ile sınav esasları TÜRSAB tarafından sınav tarihinden en az otuz gün önce, tirajı en yüksek üç günlük gazeteden bir…",
+      "kitap": null,
+      "kisim": null,
+      "bolum": "DOKUZUNCU BÖLÜM · Enformasyon Memurluğu Sınavları",
+      "ayirim": null,
+      "maddeBaslik": "Duyuru",
+      "sectionPath": [
+        "DOKUZUNCU BÖLÜM · Enformasyon Memurluğu Sınavları",
+        "Duyuru"
+      ]
+    },
+    {
+      "id": "yonetmelik:11648:m:48",
+      "maddeKind": "madde",
+      "maddeNo": "48",
+      "heading": "Madde 48",
+      "text": "(1) Sınava girmek isteyen adaylar için, sınavın yapılacağı ilde, TÜRSAB tarafından temel turizm ve seyahat acentalığı bilgilerinin öğretileceği bir kurs düzenlenir.",
+      "preview": "(1) Sınava girmek isteyen adaylar için, sınavın yapılacağı ilde, TÜRSAB tarafından temel turizm ve seyahat acentalığı bilgilerinin öğretilec…",
+      "kitap": null,
+      "kisim": null,
+      "bolum": "DOKUZUNCU BÖLÜM · Enformasyon Memurluğu Sınavları",
+      "ayirim": null,
+      "maddeBaslik": "Kurs",
+      "sectionPath": [
+        "DOKUZUNCU BÖLÜM · Enformasyon Memurluğu Sınavları",
+        "Kurs"
+      ]
+    },
+    {
+      "id": "yonetmelik:11648:m:49",
+      "maddeKind": "madde",
+      "maddeNo": "49",
+      "heading": "Madde 49",
+      "text": "(1) Enformasyon memurluğu sınavında başarılı olamayanlar enformasyon memurluğu yabancı dil sınavına katılamazlar.",
+      "preview": "(1) Enformasyon memurluğu sınavında başarılı olamayanlar enformasyon memurluğu yabancı dil sınavına katılamazlar.",
+      "kitap": null,
+      "kisim": null,
+      "bolum": "DOKUZUNCU BÖLÜM · Enformasyon Memurluğu Sınavları",
+      "ayirim": null,
+      "maddeBaslik": "Enformasyon memurluğu ve yabancı dil sınavının birlikte düzenlenmesi",
+      "sectionPath": [
+        "DOKUZUNCU BÖLÜM · Enformasyon Memurluğu Sınavları",
+        "Enformasyon memurluğu ve yabancı dil sınavının birlikte düzenlenmesi"
+      ]
+    },
+    {
+      "id": "yonetmelik:11648:m:50",
+      "maddeKind": "madde",
+      "maddeNo": "50",
+      "heading": "Madde 50",
+      "text": "(1) Sınav komisyonu TÜRSAB tarafından oluşturulur.\n (2) Sınav gözlemcisi olarak TÜRSAB’ın görevlendireceği kişiler görev yapar.\n (3) Yabancı dil sınavı için ayrı bir komisyon oluşturulabilir.",
+      "preview": "(1) Sınav komisyonu TÜRSAB tarafından oluşturulur. (2) Sınav gözlemcisi olarak TÜRSAB’ın görevlendireceği kişiler görev yapar. (3) Yabancı d…",
+      "kitap": null,
+      "kisim": null,
+      "bolum": "DOKUZUNCU BÖLÜM · Enformasyon Memurluğu Sınavları",
+      "ayirim": null,
+      "maddeBaslik": "Sınavların yapılması",
+      "sectionPath": [
+        "DOKUZUNCU BÖLÜM · Enformasyon Memurluğu Sınavları",
+        "Sınavların yapılması"
+      ]
+    },
+    {
+      "id": "yonetmelik:11648:m:51",
+      "maddeKind": "madde",
+      "maddeNo": "51",
+      "heading": "Madde 51",
+      "text": "(1) Enformasyon memurluğu ve enformasyon memurluğu yabancı dil sınavı ilanda belirtilen konularda yazılı, enformasyon memurluğu yabancı dil sınavı ise yazılı ve sözlü olarak yapılır.",
+      "preview": "(1) Enformasyon memurluğu ve enformasyon memurluğu yabancı dil sınavı ilanda belirtilen konularda yazılı, enformasyon memurluğu yabancı dil…",
+      "kitap": null,
+      "kisim": null,
+      "bolum": "DOKUZUNCU BÖLÜM · Enformasyon Memurluğu Sınavları",
+      "ayirim": null,
+      "maddeBaslik": "Sınav şekli",
+      "sectionPath": [
+        "DOKUZUNCU BÖLÜM · Enformasyon Memurluğu Sınavları",
+        "Sınav şekli"
+      ]
+    },
+    {
+      "id": "yonetmelik:11648:m:52",
+      "maddeKind": "madde",
+      "maddeNo": "52",
+      "heading": "Madde 52",
+      "text": "(1) Enformasyon memurluğu ve enformasyon memurluğu yabancı dil sınavı ayrı ayrı değerlendirilir.",
+      "preview": "(1) Enformasyon memurluğu ve enformasyon memurluğu yabancı dil sınavı ayrı ayrı değerlendirilir.",
+      "kitap": null,
+      "kisim": null,
+      "bolum": "DOKUZUNCU BÖLÜM · Enformasyon Memurluğu Sınavları",
+      "ayirim": null,
+      "maddeBaslik": "Sınav sonuçlarının değerlendirilmesi",
+      "sectionPath": [
+        "DOKUZUNCU BÖLÜM · Enformasyon Memurluğu Sınavları",
+        "Sınav sonuçlarının değerlendirilmesi"
+      ]
+    },
+    {
+      "id": "yonetmelik:11648:m:53",
+      "maddeKind": "madde",
+      "maddeNo": "53",
+      "heading": "Madde 53",
+      "text": "(1) Sınavlarda 100 puan üzerinden değerlendirme yapılır. Enformasyon memurluğu sınavı başarı notu en az 70 puandır.\n (2) Enformasyon memurluğu yabancı dil sınavında Türkçeden çeviri 25 puan, Türkçeye çeviri 25 puan, sözlü 50 puan üzerinden değerlendirilir. Bu sınavda da toplam en az 70 puan alınması zorunludur.",
+      "preview": "(1) Sınavlarda 100 puan üzerinden değerlendirme yapılır. Enformasyon memurluğu sınavı başarı notu en az 70 puandır. (2) Enformasyon memurluğ…",
+      "kitap": null,
+      "kisim": null,
+      "bolum": "DOKUZUNCU BÖLÜM · Enformasyon Memurluğu Sınavları",
+      "ayirim": null,
+      "maddeBaslik": "Puanlama sistemi",
+      "sectionPath": [
+        "DOKUZUNCU BÖLÜM · Enformasyon Memurluğu Sınavları",
+        "Puanlama sistemi"
+      ]
+    },
+    {
+      "id": "yonetmelik:11648:m:54",
+      "maddeKind": "madde",
+      "maddeNo": "54",
+      "heading": "Madde 54",
+      "text": "(1) Sınavda başarı gösterenlere başarı gösterdikleri sınava ilişkin TÜRSAB’ın onayını taşıyan enformasyon memurluğu başarı belgesi veya enformasyon memurluğu yabancı dil başarı belgesi verilir.",
+      "preview": "(1) Sınavda başarı gösterenlere başarı gösterdikleri sınava ilişkin TÜRSAB’ın onayını taşıyan enformasyon memurluğu başarı belgesi veya enfo…",
+      "kitap": null,
+      "kisim": null,
+      "bolum": "DOKUZUNCU BÖLÜM · Enformasyon Memurluğu Sınavları",
+      "ayirim": null,
+      "maddeBaslik": "Başarı belgesi",
+      "sectionPath": [
+        "DOKUZUNCU BÖLÜM · Enformasyon Memurluğu Sınavları",
+        "Başarı belgesi"
+      ]
+    },
+    {
+      "id": "yonetmelik:11648:m:55",
+      "maddeKind": "madde",
+      "maddeNo": "55",
+      "heading": "Madde 55",
+      "text": "(1) Seyahat acentasının işyeri niteliklerinin korunup korunmadığı faaliyetlerinin ilgili mevzuat ile meslek ilkelerine uygun olup olmadığı Bakanlık ve TÜRSAB yetkililerince denetlenebilir.\n (2) (Ek:RG-14/1/2021-31364) Birinci fıkradaki denetim, seyahat acentalarının pazarlama ve satış yaptığı online satış kanalları için de uygulanır.\n Yürürlükten kaldırılan Yönetmelik",
+      "preview": "(1) Seyahat acentasının işyeri niteliklerinin korunup korunmadığı faaliyetlerinin ilgili mevzuat ile meslek ilkelerine uygun olup olmadığı B…",
+      "kitap": null,
+      "kisim": null,
+      "bolum": "ONUNCU BÖLÜM · Çeşitli ve Son Hükümler",
+      "ayirim": null,
+      "maddeBaslik": "Faaliyet denetimleri",
+      "sectionPath": [
+        "ONUNCU BÖLÜM · Çeşitli ve Son Hükümler",
+        "Faaliyet denetimleri"
+      ]
+    },
+    {
+      "id": "yonetmelik:11648:m:56",
+      "maddeKind": "madde",
+      "maddeNo": "56",
+      "heading": "Madde 56",
+      "text": "(1) 4/9/1996 tarihli ve 22747 sayılı Resmî Gazete’de yayımlanan Seyahat Acentaları Yönetmeliği yürürlükten kaldırılmıştır.",
+      "preview": "(1) 4/9/1996 tarihli ve 22747 sayılı Resmî Gazete’de yayımlanan Seyahat Acentaları Yönetmeliği yürürlükten kaldırılmıştır.",
+      "kitap": null,
+      "kisim": null,
+      "bolum": "ONUNCU BÖLÜM · Çeşitli ve Son Hükümler",
+      "ayirim": null,
+      "maddeBaslik": "Faaliyet denetimleri",
+      "sectionPath": [
+        "ONUNCU BÖLÜM · Çeşitli ve Son Hükümler",
+        "Faaliyet denetimleri"
+      ]
+    },
+    {
+      "id": "yonetmelik:11648:m:gecici:1",
+      "maddeKind": "gecici",
+      "maddeNo": "1",
+      "heading": "Geçici Madde 1",
+      "text": "(1) Gerçek kişilere ait seyahat acentalarının işletme belgesinin tüzel kişiliğe devir talepleri, bir defaya mahsus olmak üzere, 13/1/2009 tarihine kadar başvurulması hâlinde değerlendirilir.",
+      "preview": "(1) Gerçek kişilere ait seyahat acentalarının işletme belgesinin tüzel kişiliğe devir talepleri, bir defaya mahsus olmak üzere, 13/1/2009 ta…",
+      "kitap": null,
+      "kisim": null,
+      "bolum": "ONUNCU BÖLÜM · Çeşitli ve Son Hükümler",
+      "ayirim": null,
+      "maddeBaslik": "Belge devri",
+      "sectionPath": [
+        "ONUNCU BÖLÜM · Çeşitli ve Son Hükümler",
+        "Belge devri"
+      ]
+    },
+    {
+      "id": "yonetmelik:11648:m:gecici:2",
+      "maddeKind": "gecici",
+      "maddeNo": "2",
+      "heading": "Geçici Madde 2",
+      "text": "(1) 28/12/2006 tarihli ve 5571 sayılı Fikir ve Sanat Eserleri Kanunu, Seyahat Acentaları ve Seyahat Acentaları Birliği Kanunu ile Turizmi Teşvik Kanunu ve Bazı Kanunlarda Değişiklik Yapılmasına Dair Kanunun yürürlüğe girdiği 13/1/2007 tarihinden önce kurulmuş bulunan seyahat acentaları, Kanunun 10 uncu maddesinin (e) bendinde belirtilen teminatı bu Yönetmeliğin yayımından itibaren iki yıl içinde Yönetmeliğin ilgili maddelerinde belirtilen esaslar çerçevesinde Bakanlığa ibraz etmekle yükümlüdürler. Bu teminatın ibrazı hâlinde Bakanlıktaki mevcut teminatı iade edilir.",
+      "preview": "(1) 28/12/2006 tarihli ve 5571 sayılı Fikir ve Sanat Eserleri Kanunu, Seyahat Acentaları ve Seyahat Acentaları Birliği Kanunu ile Turizmi Te…",
+      "kitap": null,
+      "kisim": null,
+      "bolum": "ONUNCU BÖLÜM · Çeşitli ve Son Hükümler",
+      "ayirim": null,
+      "maddeBaslik": "Teminatın değiştirilmesi",
+      "sectionPath": [
+        "ONUNCU BÖLÜM · Çeşitli ve Son Hükümler",
+        "Teminatın değiştirilmesi"
+      ]
+    },
+    {
+      "id": "yonetmelik:11648:m:gecici:3",
+      "maddeKind": "gecici",
+      "maddeNo": "3",
+      "heading": "Geçici Madde 3",
+      "text": "(1) 5571 sayılı Kanunun yürürlüğe girdiği 13/1/2007 tarihinde A grubu geçici seyahat acentası işletme belgesi bulunan seyahat acentaları, A grubu seyahat acentası işletme belgesine geçmiş sayılır. Kuruluş teminatının geçici 2 nci maddeye göre tamamlanmasıyla belgeleri yenilenir.",
+      "preview": "(1) 5571 sayılı Kanunun yürürlüğe girdiği 13/1/2007 tarihinde A grubu geçici seyahat acentası işletme belgesi bulunan seyahat acentaları, A…",
+      "kitap": null,
+      "kisim": null,
+      "bolum": "ONUNCU BÖLÜM · Çeşitli ve Son Hükümler",
+      "ayirim": null,
+      "maddeBaslik": "Belge değişimi",
+      "sectionPath": [
+        "ONUNCU BÖLÜM · Çeşitli ve Son Hükümler",
+        "Belge değişimi"
+      ]
+    },
+    {
+      "id": "yonetmelik:11648:m:gecici:4",
+      "maddeKind": "gecici",
+      "maddeNo": "4",
+      "heading": "Geçici Madde 4",
+      "text": "(1) Yönetmeliğin yayımı tarihinde belgelendirilmiş olan seyahat Acentaları, 17 nci maddenin birinci fıkrasının (ç) bendinde istenilen nitelikleri, Yönetmeliğin yürürlüğe girdiği tarihten itibaren altı ay içinde sağlar.\n (2) (Ek:RG-14/1/2021-31364) Bu fıkranın yayımı tarihinde belgelendirilmiş olan seyahat acentaları, 17 nci maddenin ikinci fıkrasının son cümlesi ile aynı maddenin üçüncü, dördüncü ve beşinci fıkraları ile 44 üncü maddenin üçüncü fıkrasında istenilen nitelikleri bu fıkranın yayımı tarihinden itibaren üç ay içerisinde sağlar.",
+      "preview": "(1) Yönetmeliğin yayımı tarihinde belgelendirilmiş olan seyahat Acentaları, 17 nci maddenin birinci fıkrasının (ç) bendinde istenilen niteli…",
+      "kitap": null,
+      "kisim": null,
+      "bolum": "ONUNCU BÖLÜM · Çeşitli ve Son Hükümler",
+      "ayirim": null,
+      "maddeBaslik": "İşyeri niteliklerinin sağlanması",
+      "sectionPath": [
+        "ONUNCU BÖLÜM · Çeşitli ve Son Hükümler",
+        "İşyeri niteliklerinin sağlanması"
+      ]
+    },
+    {
+      "id": "yonetmelik:11648:m:gecici:5",
+      "maddeKind": "gecici",
+      "maddeNo": "5",
+      "heading": "Geçici Madde 5",
+      "text": "(1) Bu Yönetmeliğin yürürlüğe girdiği tarihten önce yapılan her türlü başvurularda, başvuru tarihinde yürürlükte olan mevzuat hükümleri esas alınır.",
+      "preview": "(1) Bu Yönetmeliğin yürürlüğe girdiği tarihten önce yapılan her türlü başvurularda, başvuru tarihinde yürürlükte olan mevzuat hükümleri esas…",
+      "kitap": null,
+      "kisim": null,
+      "bolum": "ONUNCU BÖLÜM · Çeşitli ve Son Hükümler",
+      "ayirim": null,
+      "maddeBaslik": "Uygulanacak mevzuat",
+      "sectionPath": [
+        "ONUNCU BÖLÜM · Çeşitli ve Son Hükümler",
+        "Uygulanacak mevzuat"
+      ]
+    },
+    {
+      "id": "yonetmelik:11648:m:57",
+      "maddeKind": "madde",
+      "maddeNo": "57",
+      "heading": "Madde 57",
+      "text": "(1) Bu Yönetmelik yayımı tarihinde yürürlüğe girer.",
+      "preview": "(1) Bu Yönetmelik yayımı tarihinde yürürlüğe girer.",
+      "kitap": null,
+      "kisim": null,
+      "bolum": "ONUNCU BÖLÜM · Çeşitli ve Son Hükümler",
+      "ayirim": null,
+      "maddeBaslik": "Yürürlük",
+      "sectionPath": [
+        "ONUNCU BÖLÜM · Çeşitli ve Son Hükümler",
+        "Yürürlük"
+      ]
+    },
+    {
+      "id": "yonetmelik:11648:m:58",
+      "maddeKind": "madde",
+      "maddeNo": "58",
+      "heading": "Madde 58",
+      "text": "(1) Bu Yönetmelik hükümlerini Kültür ve Turizm Bakanı yürütür.\n\n Yönetmeliğin Yayımlandığı Resmî Gazete’nin\n\n Tarihi\n Sayısı\n\n 5/10/2007\n 26664\n\n Yönetmelikte Değişiklik Yapan Yönetmeliklerin Yayımlandığı Resmî Gazetelerin\n\n Tarihi\n Sayısı\n\n 1.\n 19/3/2010\n 27526\n\n 2.\n 14/1/2021\n 31364\n\n 3.\n 7/4/2021\n 31447\n\n 4.\n 26/7/2024\n 32613\n\n Ek-1\n\n ACENTA UNVANINA İLİŞKİN TAAHHÜTNAME\n\n Seyahat acenta unvanının, hâlen mevcut bir seyahat acentasının veya turizm işletme belgeli bir tesisin herhangi bir sicil dairesinde daha önce tescil edilmiş unvanıyla aynı adı taşıdığının veya bu unvanlardan herhangi biri ile iltibasa yol açacak nitelikte olduğunun Bakanlıkça tespiti hâlinde, hiçbir kayıt ve şarta bağlı olmaksızın, seyahat acenta unvanını talep ettiğimiz ve Bakanlıkça uygun görülecek başka bir adla değiştireceğimizi ve bu hususa ilişkin Bakanlığın duyurusundan itibaren otuz gün içinde gereğini yapmadığımız takdirde, bu mükellefiyeti yerine getirmeyişimizin müşterileri aldatıcı davranışlarda bulunmak olduğu hususlarını bildiğimizi kabul ve taahhüt ederiz.\n\n İmza -Temsile Yetkilinin İsmi - Kaşe\n\n (Değişik:RG-19/3/2010-27526)\n Ek-2\n\n T.C. KİMLİK NUMARASI VE ADLİ SİCİL BEYANI\n\n a) T.C. Uyruklular İçin:\n\n T.C. Kimlik Numarası :\n Adı ve Soyadı :\n Ana Adı :\n Baba Adı :\n Doğum Yeri :\n Doğum Tarihi (Gün/Ay/Yıl) :\n Nüfusa Kayıtlı Olduğu Yer :\n (İl, İlçe, Mahalle-Köy)\n\n 1618 sayılı Seyahat Acentaları ve Seyahat Acentaları Birliği Kanununun 8 inci maddesi kapsamındaki nitelikleri sağladığımı ve bu niteliklerin değişmesi durumunda bilgi vereceğimi beyan ve taahhüt ederim.\n\n Tarih-İmza-İsim\n\n b) Yabancı Uyruklular İçin:\n\n Adı ve Soyadı :\n Doğum Yeri :\n Doğum Tarihi (Gün/Ay/Yıl) :\n\n 1618 sayılı Seyahat Acentaları ve Seyahat Acentaları Birliği Kanununun 8 inci maddesi kapsamındaki nitelikleri sağladığımı ve bu niteliklerin değişmesi durumunda bilgi vereceğimi beyan ve taahhüt ederim.",
+      "preview": "(1) Bu Yönetmelik hükümlerini Kültür ve Turizm Bakanı yürütür. Yönetmeliğin Yayımlandığı Resmî Gazete’nin Tarihi Sayısı 5/10/2007 26664 Yöne…",
+      "kitap": null,
+      "kisim": null,
+      "bolum": "ONUNCU BÖLÜM · Çeşitli ve Son Hükümler",
+      "ayirim": null,
+      "maddeBaslik": "Yürütme",
+      "sectionPath": [
+        "ONUNCU BÖLÜM · Çeşitli ve Son Hükümler",
+        "Yürütme"
+      ]
+    }
+  ]
+}

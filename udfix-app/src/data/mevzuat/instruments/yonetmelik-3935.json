@@ -1,0 +1,801 @@
+{
+  "id": "yonetmelik:3935",
+  "kind": "yonetmelik",
+  "no": "3935",
+  "title": "Devlet Memurları Disiplin Yönetmeliği",
+  "shortName": "DisiplinYön",
+  "aliases": [
+    "DisiplinYön",
+    "Devlet Memurları Disiplin Yönetmeliği",
+    "3935"
+  ],
+  "tur": 21,
+  "tertip": 5,
+  "sourceUrl": "https://www.mevzuat.gov.tr/mevzuat?MevzuatNo=3935&MevzuatTur=21&MevzuatTertip=5",
+  "kabulTarihi": null,
+  "maddeCount": 46,
+  "maddeler": [
+    {
+      "id": "yonetmelik:3935:m:1",
+      "maddeKind": "madde",
+      "maddeNo": "1",
+      "heading": "Madde 1",
+      "text": "(1) Bu Yönetmeliğin amacı; disiplin kurullarının kuruluşunu, üyelerinin görev süresini, görüşme ve karar usulünü, hangi memurlar hakkında karar verebileceklerini, disiplin amirlerinin tayin ve tespitinde uygulanacak esasları, kurulların ve disiplin amirlerinin yetki ve sorumlulukları ile disiplin soruşturmalarına ilişkin usul ve esasları belirlemektir.",
+      "preview": "(1) Bu Yönetmeliğin amacı; disiplin kurullarının kuruluşunu, üyelerinin görev süresini, görüşme ve karar usulünü, hangi memurlar hakkında ka…",
+      "kitap": null,
+      "kisim": null,
+      "bolum": "BİRİNCİ BÖLÜM · Amaç, Kapsam, Dayanak ve Tanımlar",
+      "ayirim": null,
+      "maddeBaslik": "Amaç",
+      "sectionPath": [
+        "BİRİNCİ BÖLÜM · Amaç, Kapsam, Dayanak ve Tanımlar",
+        "Amaç"
+      ]
+    },
+    {
+      "id": "yonetmelik:3935:m:2",
+      "maddeKind": "madde",
+      "maddeNo": "2",
+      "heading": "Madde 2",
+      "text": "(1) Bu Yönetmelik, 14/7/1965 tarihli ve 657 sayılı Devlet Memurları Kanununa tabi memurlar hakkında uygulanır.\n (2) Memurlar için bu Yönetmeliğin öngördüğü düzenlemeleri yapma yetkisi;\n a) Türkiye Büyük Millet Meclisinde, Türkiye Büyük Millet Meclisi Başkanlık Divanına,\n b) Milli İstihbarat Teşkilatı Başkanlığında, Cumhurbaşkanına,\n c) Adalet Bakanlığında, Adalet Bakanına,\n ç) Hâkimler ve Savcılar Kurulunda, Hâkimler ve Savcılar Kurulu Başkanına,\n d) (Ek:RG-10/10/2025-33043-CK-10475/1 md.) Millî Savunma Bakanlığı merkez, taşra ve yurt dışı teşkilatı, Genelkurmay Başkanlığı, Kara Kuvvetleri Komutanlığı, Deniz Kuvvetleri Komutanlığı, Hava Kuvvetleri Komutanlığı, Millî Savunma Üniversitesi ve Harita Genel Müdürlüğünde, Millî Savunma Bakanına,\n aittir.\n (3) Bu Yönetmelik kapsamında düzenlenen hususlar bakımından özel kanunlar, kanun hükmünde kararnameler veya Cumhurbaşkanlığı kararnamelerindeki hükümler saklıdır.",
+      "preview": "(1) Bu Yönetmelik, 14/7/1965 tarihli ve 657 sayılı Devlet Memurları Kanununa tabi memurlar hakkında uygulanır. (2) Memurlar için bu Yönetmel…",
+      "kitap": null,
+      "kisim": null,
+      "bolum": "BİRİNCİ BÖLÜM · Amaç, Kapsam, Dayanak ve Tanımlar",
+      "ayirim": null,
+      "maddeBaslik": "Kapsam",
+      "sectionPath": [
+        "BİRİNCİ BÖLÜM · Amaç, Kapsam, Dayanak ve Tanımlar",
+        "Kapsam"
+      ]
+    },
+    {
+      "id": "yonetmelik:3935:m:3",
+      "maddeKind": "madde",
+      "maddeNo": "3",
+      "heading": "Madde 3",
+      "text": "(1) Bu Yönetmelik, 14/7/1965 tarihli ve 657 sayılı Devlet Memurları Kanununun 134 üncü maddesine dayanılarak hazırlanmıştır.",
+      "preview": "(1) Bu Yönetmelik, 14/7/1965 tarihli ve 657 sayılı Devlet Memurları Kanununun 134 üncü maddesine dayanılarak hazırlanmıştır.",
+      "kitap": null,
+      "kisim": null,
+      "bolum": "BİRİNCİ BÖLÜM · Amaç, Kapsam, Dayanak ve Tanımlar",
+      "ayirim": null,
+      "maddeBaslik": "Dayanak",
+      "sectionPath": [
+        "BİRİNCİ BÖLÜM · Amaç, Kapsam, Dayanak ve Tanımlar",
+        "Dayanak"
+      ]
+    },
+    {
+      "id": "yonetmelik:3935:m:4",
+      "maddeKind": "madde",
+      "maddeNo": "4",
+      "heading": "Madde 4",
+      "text": "(1) Bu Yönetmelikte geçen;\n a) Bakanlık teşkilatı: Bakanlık merkez teşkilatı ve ihtiyaca göre kurulan taşra ve yurt dışı teşkilatı ile bakanlıklara bağlı, ilgili ve ilişkili kamu idarelerini,\n b) Disiplin kurulu: Bu Yönetmelik hükümlerine göre oluşturulan disiplin kurulunu,\n c) Kamu idaresi: 657 sayılı Kanunun 4 üncü maddesinin birinci fıkrasının (A) bendi kapsamında personel istihdam eden kamu kurum veya kuruluşunu,\n ç) Üst yönetici: Cumhurbaşkanlığı merkez teşkilatında İdari İşler Başkanını, Cumhurbaşkanlığına bağlı, ilgili veya ilişkili kuruluşlarda bu kuruluşların üst yöneticisini, Bakanlık merkez teşkilatında kendilerine bağlı birimler yönünden bakan yardımcısı ile bağlı, ilgili veya ilişkili kamu idarelerinin başında bulunan en üst yöneticiyi,\n d) Yüksek disiplin kurulu: Bu Yönetmelik hükümlerine göre oluşturulan yüksek disiplin kurulunu,\n ifade eder.",
+      "preview": "(1) Bu Yönetmelikte geçen; a) Bakanlık teşkilatı: Bakanlık merkez teşkilatı ve ihtiyaca göre kurulan taşra ve yurt dışı teşkilatı ile bakanl…",
+      "kitap": null,
+      "kisim": null,
+      "bolum": "BİRİNCİ BÖLÜM · Amaç, Kapsam, Dayanak ve Tanımlar",
+      "ayirim": null,
+      "maddeBaslik": "Tanımlar",
+      "sectionPath": [
+        "BİRİNCİ BÖLÜM · Amaç, Kapsam, Dayanak ve Tanımlar",
+        "Tanımlar"
+      ]
+    },
+    {
+      "id": "yonetmelik:3935:m:5",
+      "maddeKind": "madde",
+      "maddeNo": "5",
+      "heading": "Madde 5",
+      "text": "(1) 657 sayılı Kanun ve bu Yönetmelik kapsamında disiplin hükümlerinin uygulanması bakımından;\n a) Cumhurbaşkanı, tüm kamu idarelerinde,\n b) Bakanlar, bakanlık teşkilatında,\n c) Üst yöneticiler, başında bulundukları kamu idarelerinde veya kendilerine bağlı birimlerde,\n ç) Bölge müdürleri, taşra teşkilatı bölge kuruluşlarında,\n d) Valiler, taşra teşkilatı il ve ilçe kuruluşlarında,\n e) Kaymakamlar, taşra teşkilatı ilçe kuruluşlarında,\n f) Belediye başkanları, belediye ve bağlı kuruluşlarında,\n g) Misyon şefleri yurt dışı teşkilatında,\n görevli bütün memurlar hakkında disiplin amirliği yetkisini haizdir.\n (2) Taşra teşkilatı bölge kuruluşlarının merkezinin bulunduğu ilin valisi, bölge müdürünün disiplin amiridir.\n (3) Birinci fıkra dışındaki diğer disiplin amirleri; kamu idarelerinin kuruluş ve görev özelliklerine göre hazırlanan ve yürürlüğe konulan özel yönetmelikler ile tespit edilir.\n (4) İl özel idareleri, belediyeler ve bağlı kuruluşları ve bunların üyesi olduğu mahallî idare birliklerinde görevli memurların disiplin amirleri; İçişleri Bakanlığı ile Çevre ve Şehircilik Bakanlığınca müştereken hazırlanan ve yürürlüğe konulan yönetmelikte gösterilir.\n (5) Disiplin amiri olarak tespit edilen unvanlara ait kadrolara görevlendirilenler veya bu görevleri vekâleten yürütenler, görevi yürüttükleri sürece disiplin amirliği yetkisini haizdir.",
+      "preview": "(1) 657 sayılı Kanun ve bu Yönetmelik kapsamında disiplin hükümlerinin uygulanması bakımından; a) Cumhurbaşkanı, tüm kamu idarelerinde, b) B…",
+      "kitap": null,
+      "kisim": null,
+      "bolum": "İKİNCİ BÖLÜM · Disiplin Amirlerinin Tespiti ile Görev ve Yetkileri",
+      "ayirim": null,
+      "maddeBaslik": "Disiplin amirleri",
+      "sectionPath": [
+        "İKİNCİ BÖLÜM · Disiplin Amirlerinin Tespiti ile Görev ve Yetkileri",
+        "Disiplin amirleri"
+      ]
+    },
+    {
+      "id": "yonetmelik:3935:m:6",
+      "maddeKind": "madde",
+      "maddeNo": "6",
+      "heading": "Madde 6",
+      "text": "(1) Disiplin amiri olarak tespit edilmeyen amirler, kendilerine bağlı memurların disipline aykırı davranışları hakkında doğrudan ilgili disiplin amirlerine başvurabilir.\n (2) Misyon şefleri, kamu idarelerinin kendilerine bağlı olmayan yurt dışı teşkilatında görevli bütün memurların disipline aykırı davranışları hakkında Dışişleri Bakanlığına başvurarak ilgili kamu idaresince soruşturma yapılmasını ister. İlgili kamu idaresince yapılan soruşturmanın sonucundan Dışişleri Bakanlığına bilgi verilir.",
+      "preview": "(1) Disiplin amiri olarak tespit edilmeyen amirler, kendilerine bağlı memurların disipline aykırı davranışları hakkında doğrudan ilgili disi…",
+      "kitap": null,
+      "kisim": null,
+      "bolum": "İKİNCİ BÖLÜM · Disiplin Amirlerinin Tespiti ile Görev ve Yetkileri",
+      "ayirim": null,
+      "maddeBaslik": "Diğer amirler ile misyon şeflerinin yetkileri",
+      "sectionPath": [
+        "İKİNCİ BÖLÜM · Disiplin Amirlerinin Tespiti ile Görev ve Yetkileri",
+        "Diğer amirler ile misyon şeflerinin yetkileri"
+      ]
+    },
+    {
+      "id": "yonetmelik:3935:m:7",
+      "maddeKind": "madde",
+      "maddeNo": "7",
+      "heading": "Madde 7",
+      "text": "(1) Disiplin amirleri uyarma, kınama ve aylıktan kesme cezalarını vermeye yetkilidir.\n (2) Disiplin amirleri tarafından verilen disiplin cezasına karşı yapılan itirazın kabulü hâlinde disiplin amirleri, kararı gözden geçirerek verilen cezayı hafifletebilir veya tamamen kaldırabilir.\n (3) Disiplin amirliği yetkisi devredilemez.\n (4) Disiplin amirleri, memurların 657 sayılı Kanunun 125 inci maddesinde yer alan disipline aykırı davranışlarını öğrendikleri tarihten itibaren 657 sayılı Kanunda ve ilgili mevzuatında belirtilen süreler içinde disiplin soruşturmasını başlatmak ve gerekli cezayı uygulayarak disiplin cezası verme yetkisinin zaman aşımına uğramasını önlemek zorundadır.\n (5) Disiplin amirleri yetkilerini, ilgili mevzuatın memurlara tanıdığı hakları göz önünde tutarak, hakkaniyet ve eşitliği esas alan bir tutum ve davranış içinde kullanmakla yükümlüdür.",
+      "preview": "(1) Disiplin amirleri uyarma, kınama ve aylıktan kesme cezalarını vermeye yetkilidir. (2) Disiplin amirleri tarafından verilen disiplin ceza…",
+      "kitap": null,
+      "kisim": null,
+      "bolum": "İKİNCİ BÖLÜM · Disiplin Amirlerinin Tespiti ile Görev ve Yetkileri",
+      "ayirim": null,
+      "maddeBaslik": "Disiplin amirlerinin görev ve yetkileri",
+      "sectionPath": [
+        "İKİNCİ BÖLÜM · Disiplin Amirlerinin Tespiti ile Görev ve Yetkileri",
+        "Disiplin amirlerinin görev ve yetkileri"
+      ]
+    },
+    {
+      "id": "yonetmelik:3935:m:8",
+      "maddeKind": "madde",
+      "maddeNo": "8",
+      "heading": "Madde 8",
+      "text": "(1) Disiplin ve soruşturma işlemlerinde 657 sayılı Kanun, bu Yönetmelik ve ilgili mevzuat gereğince verilen görevleri yapmak üzere;\n a) Kamu idarelerinin merkez teşkilatlarında disiplin kurulu,\n b) Taşra teşkilatları için illerde müşterek bir il disiplin kurulu,\n c) İl milli eğitim müdürlüklerinde il milli eğitim disiplin kurulu,\n ç) Taşra teşkilatı bölge kuruluşlarının bölge merkezinde bölge disiplin kurulu,\n d) İl özel idarelerinde il özel idare disiplin kurulu,\n e) Büyükşehir belediyeleri ve diğer belediyelerde belediye disiplin kurulu,\n f) Mahallî idare birliklerinde birlik disiplin kurulu,\n kurulur.\n (2) Kefalet sandıkları, kamu idarelerindeki döner sermayeli kuruluşlarda ve kanunlarla kurulan fonlarda görevli memurların disiplin işlerinde, bu kuruluşların bağlı, ilgili veya ilişkili oldukları kamu idarelerindeki disiplin kurulları yetkilidir.",
+      "preview": "(1) Disiplin ve soruşturma işlemlerinde 657 sayılı Kanun, bu Yönetmelik ve ilgili mevzuat gereğince verilen görevleri yapmak üzere; a) Kamu…",
+      "kitap": null,
+      "kisim": null,
+      "bolum": "ÜÇÜNCÜ BÖLÜM · Disiplin Kurulları ve Yüksek Disiplin Kurullarının Tespiti ile Görev ve Yetkileri",
+      "ayirim": null,
+      "maddeBaslik": "Disiplin Kurulları",
+      "sectionPath": [
+        "ÜÇÜNCÜ BÖLÜM · Disiplin Kurulları ve Yüksek Disiplin Kurullarının Tespiti ile Görev ve Yetkileri",
+        "Disiplin Kurulları"
+      ]
+    },
+    {
+      "id": "yonetmelik:3935:m:9",
+      "maddeKind": "madde",
+      "maddeNo": "9",
+      "heading": "Madde 9",
+      "text": "(1) Kamu idarelerinin merkez teşkilatındaki disiplin kurulu, aşağıda belirtilen esaslara uyularak oluşturulur:\n a) Cumhurbaşkanlığı İdari İşler Başkanlığı ve Cumhurbaşkanlığına bağlı, ilgili veya ilişkili kamu idarelerinde disiplin kurulu başkan ve üyeleri; Cumhurbaşkanlığı İdari İşler Başkanlığı için İdari İşler Başkanı onayı, Cumhurbaşkanlığına bağlı, ilgili veya ilişkili kamu idarelerinde üst yönetici onayı ile görevlendirilir.\n b) Bakanlık teşkilatındaki disiplin kurulunun başkan ve üyeleri bakan onayı ile görevlendirilir.\n c) Disiplin kurulu, bir başkan ve dört üye ile varsa memurun üyesi olduğu sendikanın temsilcisinden oluşur.\n ç) Disiplin kurullarının başkanı; Cumhurbaşkanlığı İdari İşler Başkanlığı ile bakanlıklarda en az genel müdür düzeyindeki yöneticilerden, diğer kamu idarelerinde varsa üst yöneticinin yardımcıları yoksa hizmet birimlerinin başında bulunan yöneticiler arasından görevlendirilir. Disiplin kurulu üyeliklerine, kamu idareleri hizmet birimlerinin birim yöneticilerinin varsa yardımcıları yoksa bu birimlerde görev yapan ve hizmet birimi yöneticiliğine atanmada aranan şartları haiz memurlar arasından görevlendirme yapılır. Bu durumda öncelikle hukuk, personel, teftiş veya denetim hizmetlerini yürüten hizmet birimlerinden görevlendirme yapılması esastır.\n (2) Hizmet özellikleri, teşkilat yapıları veya kadro unvanlarındaki farklılık sebebiyle disiplin kurullarının başkan ve üyelerini birinci fıkranın (ç) bendinde belirtilen esaslara uygun şekilde tespit edemeyen kamu idareleri, disiplin kurullarını farklı yapıda kurabilirler. Bu hâlde birinci fıkranın (a), (b) ve (c) bentlerine uyulması zorunludur.",
+      "preview": "(1) Kamu idarelerinin merkez teşkilatındaki disiplin kurulu, aşağıda belirtilen esaslara uyularak oluşturulur: a) Cumhurbaşkanlığı İdari İşl…",
+      "kitap": null,
+      "kisim": null,
+      "bolum": "ÜÇÜNCÜ BÖLÜM · Disiplin Kurulları ve Yüksek Disiplin Kurullarının Tespiti ile Görev ve Yetkileri",
+      "ayirim": null,
+      "maddeBaslik": "Merkez teşkilatındaki disiplin kurulunun oluşturulma esasları",
+      "sectionPath": [
+        "ÜÇÜNCÜ BÖLÜM · Disiplin Kurulları ve Yüksek Disiplin Kurullarının Tespiti ile Görev ve Yetkileri",
+        "Merkez teşkilatındaki disiplin kurulunun oluşturulma esasları"
+      ]
+    },
+    {
+      "id": "yonetmelik:3935:m:10",
+      "maddeKind": "madde",
+      "maddeNo": "10",
+      "heading": "Madde 10",
+      "text": "(1) İl disiplin kurulu; valinin görevlendireceği vali yardımcısının başkanlığında, vali tarafından görevlendirilen il hukuk işleri müdürü veya il idare kurulu müdürü ile üç il idare şube başkanı ve varsa memurun üyesi olduğu sendikanın temsilcisinden oluşur.",
+      "preview": "(1) İl disiplin kurulu; valinin görevlendireceği vali yardımcısının başkanlığında, vali tarafından görevlendirilen il hukuk işleri müdürü ve…",
+      "kitap": null,
+      "kisim": null,
+      "bolum": "ÜÇÜNCÜ BÖLÜM · Disiplin Kurulları ve Yüksek Disiplin Kurullarının Tespiti ile Görev ve Yetkileri",
+      "ayirim": null,
+      "maddeBaslik": "İl disiplin kurulu",
+      "sectionPath": [
+        "ÜÇÜNCÜ BÖLÜM · Disiplin Kurulları ve Yüksek Disiplin Kurullarının Tespiti ile Görev ve Yetkileri",
+        "İl disiplin kurulu"
+      ]
+    },
+    {
+      "id": "yonetmelik:3935:m:11",
+      "maddeKind": "madde",
+      "maddeNo": "11",
+      "heading": "Madde 11",
+      "text": "(1) İl milli eğitim disiplin kurulu; valinin görevlendireceği vali yardımcısının başkanlığında, il milli eğitim müdürü, vali tarafından görevlendirilen milli eğitim müdürlüğünde personelden sorumlu bir şube müdürü ve biri ilköğretim, diğeri ortaöğretim kurumları müdürlerinden olmak üzere iki eğitim kurumu müdürü ile varsa memurun üyesi olduğu sendikanın temsilcisinden oluşur.",
+      "preview": "(1) İl milli eğitim disiplin kurulu; valinin görevlendireceği vali yardımcısının başkanlığında, il milli eğitim müdürü, vali tarafından göre…",
+      "kitap": null,
+      "kisim": null,
+      "bolum": "ÜÇÜNCÜ BÖLÜM · Disiplin Kurulları ve Yüksek Disiplin Kurullarının Tespiti ile Görev ve Yetkileri",
+      "ayirim": null,
+      "maddeBaslik": "İl milli eğitim disiplin kurulu",
+      "sectionPath": [
+        "ÜÇÜNCÜ BÖLÜM · Disiplin Kurulları ve Yüksek Disiplin Kurullarının Tespiti ile Görev ve Yetkileri",
+        "İl milli eğitim disiplin kurulu"
+      ]
+    },
+    {
+      "id": "yonetmelik:3935:m:12",
+      "maddeKind": "madde",
+      "maddeNo": "12",
+      "heading": "Madde 12",
+      "text": "(1) Bölge disiplin kurulu; taşra teşkilatı bölge kuruluşunun merkezinin bulunduğu ilin valisinin görevlendireceği vali yardımcısının başkanlığında, bölge müdürü, vali tarafından görevlendirilen ilgili taşra teşkilatı bölge kuruluşunun üç yöneticisi ile varsa memurun üyesi olduğu sendikanın temsilcisinden oluşur.",
+      "preview": "(1) Bölge disiplin kurulu; taşra teşkilatı bölge kuruluşunun merkezinin bulunduğu ilin valisinin görevlendireceği vali yardımcısının başkanl…",
+      "kitap": null,
+      "kisim": null,
+      "bolum": "ÜÇÜNCÜ BÖLÜM · Disiplin Kurulları ve Yüksek Disiplin Kurullarının Tespiti ile Görev ve Yetkileri",
+      "ayirim": null,
+      "maddeBaslik": "Bölge disiplin kurulu",
+      "sectionPath": [
+        "ÜÇÜNCÜ BÖLÜM · Disiplin Kurulları ve Yüksek Disiplin Kurullarının Tespiti ile Görev ve Yetkileri",
+        "Bölge disiplin kurulu"
+      ]
+    },
+    {
+      "id": "yonetmelik:3935:m:13",
+      "maddeKind": "madde",
+      "maddeNo": "13",
+      "heading": "Madde 13",
+      "text": "(1) İl özel idare disiplin kurulu; genel sekreterin başkanlığında, vali tarafından görevlendirilen dört il özel idare yöneticisi ile varsa memurun üyesi olduğu sendikanın temsilcisinden oluşur.\n (2) Belediye disiplin kurulu;\n a) Büyükşehir belediyelerinde, genel sekreter veya büyükşehir belediye başkanı tarafından belirlenen genel sekreter yardımcısının başkanlığında, birim müdürü veya üstü yöneticiler,\n b) Büyükşehir belediyelerine bağlı kuruluşlarda, genel müdür veya belediye başkanı tarafından belirlenen genel müdür yardımcısının başkanlığında, birim müdürü veya üstü yöneticiler,\n c) İl ve ilçe belediyelerinde, belediye başkanı tarafından belirlenen belediye başkan yardımcısının başkanlığında, hiyerarşik konumları dikkate alınarak belediyedeki memurlar,\n arasından ilgili belediye başkanınca görevlendirilen dört üye ile varsa memurun üyesi olduğu sendikanın temsilcisinden oluşur.\n (3) (Değişik:RG-13/11/2025-33076-C.K-10566/1 md.) Norm kadro standartları cetvelinde başkan yardımcısı bulunmayan ilçe belediyeleri ile belde belediyelerinde disiplin kurulu, belediye encümeni ile varsa memurun üyesi olduğu sendikanın temsilcisinden oluşur.\n (4) Birlik disiplin kurulu, birlik encümeni ile varsa memurun üyesi olduğu sendikanın temsilcisinden oluşur.",
+      "preview": "(1) İl özel idare disiplin kurulu; genel sekreterin başkanlığında, vali tarafından görevlendirilen dört il özel idare yöneticisi ile varsa m…",
+      "kitap": null,
+      "kisim": null,
+      "bolum": "ÜÇÜNCÜ BÖLÜM · Disiplin Kurulları ve Yüksek Disiplin Kurullarının Tespiti ile Görev ve Yetkileri",
+      "ayirim": null,
+      "maddeBaslik": "Mahallî idarelerin disiplin kurulu",
+      "sectionPath": [
+        "ÜÇÜNCÜ BÖLÜM · Disiplin Kurulları ve Yüksek Disiplin Kurullarının Tespiti ile Görev ve Yetkileri",
+        "Mahallî idarelerin disiplin kurulu"
+      ]
+    },
+    {
+      "id": "yonetmelik:3935:m:14",
+      "maddeKind": "madde",
+      "maddeNo": "14",
+      "heading": "Madde 14",
+      "text": "(1) Disiplin kurulları;\n a) Kademe ilerlemesinin durdurulması cezası teklifini değerlendirmeye,\n b) Uyarma, kınama ve aylıktan kesme cezalarına karşı yapılan itirazları değerlendirmeye,\n c) Kademe ilerlemesinin durdurulması cezasının özlük dosyasından çıkarılması talepleri hakkında mütalaa vermeye,\n yetkilidir.\n (2) Disiplin kurullarının ayrı bir ceza tayinine yetkisi yoktur, cezayı kabul veya reddeder.",
+      "preview": "(1) Disiplin kurulları; a) Kademe ilerlemesinin durdurulması cezası teklifini değerlendirmeye, b) Uyarma, kınama ve aylıktan kesme cezaların…",
+      "kitap": null,
+      "kisim": null,
+      "bolum": "ÜÇÜNCÜ BÖLÜM · Disiplin Kurulları ve Yüksek Disiplin Kurullarının Tespiti ile Görev ve Yetkileri",
+      "ayirim": null,
+      "maddeBaslik": "Disiplin kurullarının görev ve yetkileri",
+      "sectionPath": [
+        "ÜÇÜNCÜ BÖLÜM · Disiplin Kurulları ve Yüksek Disiplin Kurullarının Tespiti ile Görev ve Yetkileri",
+        "Disiplin kurullarının görev ve yetkileri"
+      ]
+    },
+    {
+      "id": "yonetmelik:3935:m:15",
+      "maddeKind": "madde",
+      "maddeNo": "15",
+      "heading": "Madde 15",
+      "text": "(1) Disiplin ve soruşturma işlemlerinde 657 sayılı Kanun, bu Yönetmelik ve ilgili mevzuat gereğince verilen görevleri yapmak üzere kamu idarelerinin merkez teşkilatlarında yüksek disiplin kurulu kurulur.\n (2) Kefalet sandıkları, kamu idarelerindeki döner sermayeli kuruluşlarda ve kanunlarla kurulan fonlarda görevli memurların yüksek disiplin kurulu kararı gerektiren disiplin işlerinde, bu kuruluşların bağlı, ilgili veya ilişkili oldukları kamu idarelerindeki yüksek disiplin kurulu yetkilidir.",
+      "preview": "(1) Disiplin ve soruşturma işlemlerinde 657 sayılı Kanun, bu Yönetmelik ve ilgili mevzuat gereğince verilen görevleri yapmak üzere kamu idar…",
+      "kitap": null,
+      "kisim": null,
+      "bolum": "ÜÇÜNCÜ BÖLÜM · Disiplin Kurulları ve Yüksek Disiplin Kurullarının Tespiti ile Görev ve Yetkileri",
+      "ayirim": null,
+      "maddeBaslik": "Yüksek disiplin kurulları",
+      "sectionPath": [
+        "ÜÇÜNCÜ BÖLÜM · Disiplin Kurulları ve Yüksek Disiplin Kurullarının Tespiti ile Görev ve Yetkileri",
+        "Yüksek disiplin kurulları"
+      ]
+    },
+    {
+      "id": "yonetmelik:3935:m:16",
+      "maddeKind": "madde",
+      "maddeNo": "16",
+      "heading": "Madde 16",
+      "text": "(1) Kamu idarelerinin merkez teşkilatındaki yüksek disiplin kurulu aşağıda belirtilen esaslara uyularak oluşturulur:\n a) Yüksek disiplin kurulu, bir başkan ve dört üye ile varsa memurun üyesi olduğu sendikanın temsilcisinden oluşur.\n b) Yüksek disiplin kurullarının başkanı;\n 1) Cumhurbaşkanlığı İdari İşler Başkanlığında İdari İşler Başkanıdır.\n 2) Bakanlıklarda bakan tarafından görevlendirilen bakan yardımcısıdır.\n 3) Diğer kamu idarelerinde üst yöneticidir.\n c) Cumhurbaşkanlığı İdari İşler Başkanlığı ve Cumhurbaşkanlığına bağlı, ilgili veya ilişkili kamu idarelerinde yüksek disiplin kurulu üyeleri; Cumhurbaşkanlığı İdari İşler Başkanlığı için Cumhurbaşkanlığı İdari İşler Başkanı onayı, Cumhurbaşkanlığına bağlı, ilgili veya ilişkili kamu idarelerinde üst yönetici onayı ile görevlendirilir.\n ç) Bakanlık teşkilatında yüksek disiplin kurulunun başkan ve üyeleri bakan onayı ile görevlendirilir.\n d) Yüksek disiplin kurullarının üyeliklerine; kamu idarelerinde hukuk, personel, teftiş veya denetim hizmetlerini yürüten hizmet birimlerinin başında bulunan yöneticiler esas olmak kaydıyla birim yöneticileri arasından görevlendirme yapılır.\n e) 14/2/1985 tarihli ve 3152 sayılı İçişleri Bakanlığı Yüksek Disiplin Kurulu ile İl Yatırım ve Hizmetlerine İlişkin Bazı Düzenlemeler Hakkında Kanunun ek 4 üncü maddesi gereğince oluşturulan yüksek disiplin kurulunun başkanı İçişleri Bakanının uygun gördüğü bakan yardımcısıdır.\n (2) Hizmet özellikleri, teşkilat yapıları veya kadro unvanlarındaki farklılık sebebiyle yüksek disiplin kurullarının başkan ve üyelerini birinci fıkranın (d) bendinde belirtilen esaslara uygun şekilde tespit edemeyen kamu idareleri, yüksek disiplin kurullarını idarecilerden oluşmak kaydıyla farklı yapıda kurabilirler. Bu hâlde birinci fıkranın (a), (c) ve (ç) bentlerine uyulması zorunludur.",
+      "preview": "(1) Kamu idarelerinin merkez teşkilatındaki yüksek disiplin kurulu aşağıda belirtilen esaslara uyularak oluşturulur: a) Yüksek disiplin kuru…",
+      "kitap": null,
+      "kisim": null,
+      "bolum": "ÜÇÜNCÜ BÖLÜM · Disiplin Kurulları ve Yüksek Disiplin Kurullarının Tespiti ile Görev ve Yetkileri",
+      "ayirim": null,
+      "maddeBaslik": "Yüksek disiplin kurullarının oluşturulma esasları",
+      "sectionPath": [
+        "ÜÇÜNCÜ BÖLÜM · Disiplin Kurulları ve Yüksek Disiplin Kurullarının Tespiti ile Görev ve Yetkileri",
+        "Yüksek disiplin kurullarının oluşturulma esasları"
+      ]
+    },
+    {
+      "id": "yonetmelik:3935:m:17",
+      "maddeKind": "madde",
+      "maddeNo": "17",
+      "heading": "Madde 17",
+      "text": "(1) Mahallî idarelerin yüksek disiplin kurulu İçişleri Bakanlığı yüksek disiplin kuruludur.",
+      "preview": "(1) Mahallî idarelerin yüksek disiplin kurulu İçişleri Bakanlığı yüksek disiplin kuruludur.",
+      "kitap": null,
+      "kisim": null,
+      "bolum": "ÜÇÜNCÜ BÖLÜM · Disiplin Kurulları ve Yüksek Disiplin Kurullarının Tespiti ile Görev ve Yetkileri",
+      "ayirim": null,
+      "maddeBaslik": "Mahallî idarelerin yüksek disiplin kurulu",
+      "sectionPath": [
+        "ÜÇÜNCÜ BÖLÜM · Disiplin Kurulları ve Yüksek Disiplin Kurullarının Tespiti ile Görev ve Yetkileri",
+        "Mahallî idarelerin yüksek disiplin kurulu"
+      ]
+    },
+    {
+      "id": "yonetmelik:3935:m:18",
+      "maddeKind": "madde",
+      "maddeNo": "18",
+      "heading": "Madde 18",
+      "text": "(1) Yüksek disiplin kurulları;\n a) Amirlerin bu yoldaki isteği üzerine Devlet memurluğundan çıkarma cezasını vermeye,\n b) Kademe ilerlemesinin durdurulması cezasına karşı yapılan itirazları değerlendirmeye,\n yetkilidir.\n (2) Yüksek disiplin kurullarının ayrı bir ceza tayinine yetkisi yoktur, cezayı kabul veya reddeder.\n\n Disiplin kurulları ve yüksek disiplin kurullarının başkan ve üyelerinin görev süresi ile görevlendirilemeyecek olanlar",
+      "preview": "(1) Yüksek disiplin kurulları; a) Amirlerin bu yoldaki isteği üzerine Devlet memurluğundan çıkarma cezasını vermeye, b) Kademe ilerlemesinin…",
+      "kitap": null,
+      "kisim": null,
+      "bolum": "ÜÇÜNCÜ BÖLÜM · Disiplin Kurulları ve Yüksek Disiplin Kurullarının Tespiti ile Görev ve Yetkileri",
+      "ayirim": null,
+      "maddeBaslik": "Yüksek disiplin kurullarının görev ve yetkileri",
+      "sectionPath": [
+        "ÜÇÜNCÜ BÖLÜM · Disiplin Kurulları ve Yüksek Disiplin Kurullarının Tespiti ile Görev ve Yetkileri",
+        "Yüksek disiplin kurullarının görev ve yetkileri"
+      ]
+    },
+    {
+      "id": "yonetmelik:3935:m:19",
+      "maddeKind": "madde",
+      "maddeNo": "19",
+      "heading": "Madde 19",
+      "text": "(1) Disiplin kurullarının ve yüksek disiplin kurullarının başkan ve üyeleri üç yıl süre ile görevlendirilir. Süresi dolanlar aynı usulle yeniden görevlendirilebilir.\n (2) Aylıktan kesme cezası alanlar beş yıl, kademe ilerlemesinin durdurulması cezası alanlar on yıl boyunca disiplin kurulları ve yüksek disiplin kurullarında görevlendirilemez.\n (3) Disiplin kurulları ve/veya yüksek disiplin kurullarının başkan ya da üyeliği aynı kişide birleşemez ve üyeliklerine yapılacak görevlendirme esnasında hizmet birimlerinden birden fazla üye belirlenemez.",
+      "preview": "(1) Disiplin kurullarının ve yüksek disiplin kurullarının başkan ve üyeleri üç yıl süre ile görevlendirilir. Süresi dolanlar aynı usulle yen…",
+      "kitap": null,
+      "kisim": null,
+      "bolum": "ÜÇÜNCÜ BÖLÜM · Disiplin Kurulları ve Yüksek Disiplin Kurullarının Tespiti ile Görev ve Yetkileri",
+      "ayirim": null,
+      "maddeBaslik": "Yüksek disiplin kurullarının görev ve yetkileri",
+      "sectionPath": [
+        "ÜÇÜNCÜ BÖLÜM · Disiplin Kurulları ve Yüksek Disiplin Kurullarının Tespiti ile Görev ve Yetkileri",
+        "Yüksek disiplin kurullarının görev ve yetkileri"
+      ]
+    },
+    {
+      "id": "yonetmelik:3935:m:20",
+      "maddeKind": "madde",
+      "maddeNo": "20",
+      "heading": "Madde 20",
+      "text": "(1) Sendikalar tarafından disiplin kurulu ve yüksek disiplin kurulu toplantılarına, hangi temsilcinin katılacağı toplantı tarihinden önce ilgili kamu idaresine bildirilir.",
+      "preview": "(1) Sendikalar tarafından disiplin kurulu ve yüksek disiplin kurulu toplantılarına, hangi temsilcinin katılacağı toplantı tarihinden önce il…",
+      "kitap": null,
+      "kisim": null,
+      "bolum": "ÜÇÜNCÜ BÖLÜM · Disiplin Kurulları ve Yüksek Disiplin Kurullarının Tespiti ile Görev ve Yetkileri",
+      "ayirim": null,
+      "maddeBaslik": "Sendika temsilcisi",
+      "sectionPath": [
+        "ÜÇÜNCÜ BÖLÜM · Disiplin Kurulları ve Yüksek Disiplin Kurullarının Tespiti ile Görev ve Yetkileri",
+        "Sendika temsilcisi"
+      ]
+    },
+    {
+      "id": "yonetmelik:3935:m:21",
+      "maddeKind": "madde",
+      "maddeNo": "21",
+      "heading": "Madde 21",
+      "text": "(1) Disiplin kurulları ile yüksek disiplin kurullarının başkanları; toplantı gündemini, toplantı gün, saat ve yerini belirler ve üyeler arasından bir raportör tayin eder, çalışmaların sağlıklı bir şekilde yürütülmesini ve sonuçlandırılmasını sağlar, bu amaçla gerekli olan diğer hususlarda yetki kullanır.\n (2) Disiplin kurulları ve yüksek disiplin kurullarının üyelerine, soruşturma dosyasını inceleme imkânı sağlanır.\n (3) Disiplin kurulları ve yüksek disiplin kurullarının sekretarya hizmetleri, kamu idarelerinin personel ile ilgili birimleri tarafından yerine getirilir.\n (4) Yüksek disiplin kurulu, kendisine intikal eden dosyaların incelenmesinde gerekli gördüğü takdirde ilgilinin özlük dosyasını ve her türlü evrakı incelemeye, ilgili kurumlardan bilgi almaya, yeminli tanık ve bilirkişi dinlemeye veya niyabeten dinletmeye, mahallen keşif yapmaya veya yaptırmaya yetkilidir.",
+      "preview": "(1) Disiplin kurulları ile yüksek disiplin kurullarının başkanları; toplantı gündemini, toplantı gün, saat ve yerini belirler ve üyeler aras…",
+      "kitap": null,
+      "kisim": null,
+      "bolum": "DÖRDÜNCÜ BÖLÜM · Disiplin Kurulları ile Yüksek Disiplin Kurullarının Çalışma Usul ve Esasları",
+      "ayirim": null,
+      "maddeBaslik": "Disiplin kurulları ile yüksek disiplin kurullarının çalışma esasları",
+      "sectionPath": [
+        "DÖRDÜNCÜ BÖLÜM · Disiplin Kurulları ile Yüksek Disiplin Kurullarının Çalışma Usul ve Esasları",
+        "Disiplin kurulları ile yüksek disiplin kurullarının çalışma esasları"
+      ]
+    },
+    {
+      "id": "yonetmelik:3935:m:22",
+      "maddeKind": "madde",
+      "maddeNo": "22",
+      "heading": "Madde 22",
+      "text": "(1) Üç kişilik kurullar üye tam sayısıyla, üye sayısı üçten fazla olan kurullar salt çoğunlukla toplanır.\n (2) Disiplin kurulları ve yüksek disiplin kurullarının başkan ve üyelerinin görev başında bulunamamaları hâlinde kurullara vekilleri katılır.\n (3) Sendikalar tarafından sendika temsilcisinin bildirilmemesi veya bildirilen sendika temsilcisinin davet edilmesine rağmen toplantıya katılmaması durumunda sendika temsilcisi toplantı yeter sayısının tespitinde göz önünde bulundurulmaz.\n (4) Disiplin kurulları ve yüksek disiplin kurullarının başkan ve üyeleri; kendilerine, eşlerine, üçüncü dereceye kadar kan ve kayın hısımlarına, disiplin cezası verilmesini teklif ettikleri veya disiplin soruşturmasını ya da muhakkikliğini yaptıkları memurlara ait işlerle ilgili kurul toplantılarına katılamaz.\n (5) Toplantılara, bu maddenin dördüncü fıkrasındaki sebeplerle katılamayan üyeler, toplantı yeter sayısının tespitinde göz önünde bulundurulmaz. Başkanın bu sebeplerle toplantıya katılamaması hâlinde başkanlık görevi; hiyerarşik olarak en üst görevde bulunan üye, hiyerarşik olarak aynı düzey görevde bulunan üye sayısı birden çok ise bunlar arasından en kıdemli üye tarafından yürütülür.\n (6) Disiplin kurulları ve yüksek disiplin kurullarında raportörün açıklamaları dinlendikten sonra işin görüşülmesine geçilir. Üyeler, toplantılarda soruşturma konusu fiil veya hâl hakkındaki görüşlerini sözlü veya yazılı olarak bildirebilir. Konunun aydınlandığı ve görüşmelerin yeterliği sonucuna varıldığında oylama yapılır. Oylama açık oyla yapılır ve oy çokluğu ile karar verilir. Oylamada çekimser kalınamaz. Başkan oyunu en son kullanır. Oyların eşitliği hâlinde Başkanın bulunduğu tarafın oyu üstün sayılır.\n (7) Oylamanın sonucu Başkan tarafından açıklanır ve başkan ile üyeler tarafından imzalanan bir tutanakla tespit edilir.",
+      "preview": "(1) Üç kişilik kurullar üye tam sayısıyla, üye sayısı üçten fazla olan kurullar salt çoğunlukla toplanır. (2) Disiplin kurulları ve yüksek d…",
+      "kitap": null,
+      "kisim": null,
+      "bolum": "DÖRDÜNCÜ BÖLÜM · Disiplin Kurulları ile Yüksek Disiplin Kurullarının Çalışma Usul ve Esasları",
+      "ayirim": null,
+      "maddeBaslik": "Disiplin kurulları ile yüksek disiplin kurullarının görüşme usulü, toplantı ve karar yeter sayısı",
+      "sectionPath": [
+        "DÖRDÜNCÜ BÖLÜM · Disiplin Kurulları ile Yüksek Disiplin Kurullarının Çalışma Usul ve Esasları",
+        "Disiplin kurulları ile yüksek disiplin kurullarının görüşme usulü, toplantı ve karar yeter sayısı"
+      ]
+    },
+    {
+      "id": "yonetmelik:3935:m:23",
+      "maddeKind": "madde",
+      "maddeNo": "23",
+      "heading": "Madde 23",
+      "text": "(1) Karar, oylama tarihini izleyen yedi gün içinde gerekçeli olarak, karara karşı başvuru yolları ve süreleri ile oy birliği veya oy çokluğu ile alındığı da belirtilmek suretiyle raportör tarafından yazılır ve başkan ile üyeler tarafından imzalanır. Kararda karşı oy kullananların görüşlerine de yer verilir.",
+      "preview": "(1) Karar, oylama tarihini izleyen yedi gün içinde gerekçeli olarak, karara karşı başvuru yolları ve süreleri ile oy birliği veya oy çokluğu…",
+      "kitap": null,
+      "kisim": null,
+      "bolum": "DÖRDÜNCÜ BÖLÜM · Disiplin Kurulları ile Yüksek Disiplin Kurullarının Çalışma Usul ve Esasları",
+      "ayirim": null,
+      "maddeBaslik": "Kararların yazılması",
+      "sectionPath": [
+        "DÖRDÜNCÜ BÖLÜM · Disiplin Kurulları ile Yüksek Disiplin Kurullarının Çalışma Usul ve Esasları",
+        "Kararların yazılması"
+      ]
+    },
+    {
+      "id": "yonetmelik:3935:m:24",
+      "maddeKind": "madde",
+      "maddeNo": "24",
+      "heading": "Madde 24",
+      "text": "(1) Uyarma, kınama ve aylıktan kesme disiplin cezası gerektiren fiil veya hâli bulunan memurlar hakkında disiplin soruşturması açılması ve ceza verilmesine ilişkin hususlarda yetkili disiplin amirleri, disipline aykırı fiil veya hâlin işlendiği sırada memurun görev yerindeki disiplin amirleridir.",
+      "preview": "(1) Uyarma, kınama ve aylıktan kesme disiplin cezası gerektiren fiil veya hâli bulunan memurlar hakkında disiplin soruşturması açılması ve c…",
+      "kitap": null,
+      "kisim": null,
+      "bolum": "BEŞİNCİ BÖLÜM · Yetki",
+      "ayirim": null,
+      "maddeBaslik": "Yetkili disiplin amirleri",
+      "sectionPath": [
+        "BEŞİNCİ BÖLÜM · Yetki",
+        "Yetkili disiplin amirleri"
+      ]
+    },
+    {
+      "id": "yonetmelik:3935:m:25",
+      "maddeKind": "madde",
+      "maddeNo": "25",
+      "heading": "Madde 25",
+      "text": "(1) Kademe ilerlemesinin durdurulması cezası teklifini ve uyarma, kınama ve aylıktan kesme cezalarına karşı yapılan itirazları değerlendirmeye yetkili disiplin kurulu, disipline aykırı fiil veya hâlin işlendiği sırada memurun görev yerindeki disiplin kuruludur. Ancak;\n a) Kademe ilerlemesinin durdurulması cezası teklifini inceleme yönünden;\n 1) Cumhurbaşkanınca atanmış olan memurlar hakkında merkez teşkilatı disiplin kurulu,\n 2) Cezanın, bakan veya üst yönetici tarafından verilecek olması hâlinde ilgisine göre bakanlık veya kamu idaresi merkez teşkilatı disiplin kurulu,\n 3) Doğrudan merkeze bağlı taşra teşkilatında çalışmakta olan memurlar hakkında merkez teşkilatı disiplin kurulu,\n b) Disiplin cezalarına yapılan itirazları inceleme yönünden;\n 1) Taşra teşkilatında görevli memurlar hakkında bakan veya üst yönetici tarafından verilen uyarma, kınama ve aylıktan kesme cezaları hakkında ilgisine göre bakanlık veya kamu idaresi merkez teşkilatı disiplin kurulu,\n 2) Bölge müdürüne vali tarafından verilen uyarma, kınama ve aylıktan kesme cezaları hakkında merkez teşkilatı disiplin kurulu,\n 3) Doğrudan merkeze bağlı taşra teşkilatında görevli memurlara verilen uyarma, kınama ve aylıktan kesme cezaları hakkında merkez teşkilatı disiplin kurulu,\n yetkilidir.",
+      "preview": "(1) Kademe ilerlemesinin durdurulması cezası teklifini ve uyarma, kınama ve aylıktan kesme cezalarına karşı yapılan itirazları değerlendirme…",
+      "kitap": null,
+      "kisim": null,
+      "bolum": "BEŞİNCİ BÖLÜM · Yetki",
+      "ayirim": null,
+      "maddeBaslik": "Yetkili disiplin kurulları",
+      "sectionPath": [
+        "BEŞİNCİ BÖLÜM · Yetki",
+        "Yetkili disiplin kurulları"
+      ]
+    },
+    {
+      "id": "yonetmelik:3935:m:26",
+      "maddeKind": "madde",
+      "maddeNo": "26",
+      "heading": "Madde 26",
+      "text": "(1) Amirlerin bu yoldaki isteği üzerine Devlet memurluğundan çıkarma cezasını vermeye ve kademe ilerlemesinin durdurulması cezasına karşı yapılan itirazları değerlendirmeye, memurun bağlı bulunduğu kamu idaresinin yüksek disiplin kurulu yetkilidir.\n (2) Mahallî idarelerde görev yapan memurlar hakkında Devlet memurluğundan çıkarma cezası vermeye ve kademe ilerlemesinin durdurulması cezasına karşı yapılan itirazları değerlendirmeye İçişleri Bakanlığı yüksek disiplin kurulu yetkilidir.",
+      "preview": "(1) Amirlerin bu yoldaki isteği üzerine Devlet memurluğundan çıkarma cezasını vermeye ve kademe ilerlemesinin durdurulması cezasına karşı ya…",
+      "kitap": null,
+      "kisim": null,
+      "bolum": "BEŞİNCİ BÖLÜM · Yetki",
+      "ayirim": null,
+      "maddeBaslik": "Yetkili yüksek disiplin kurulları",
+      "sectionPath": [
+        "BEŞİNCİ BÖLÜM · Yetki",
+        "Yetkili yüksek disiplin kurulları"
+      ]
+    },
+    {
+      "id": "yonetmelik:3935:m:27",
+      "maddeKind": "madde",
+      "maddeNo": "27",
+      "heading": "Madde 27",
+      "text": "(1) Kademe ilerlemesinin durdurulması cezasına ilişkin olarak;\n a) Ceza teklifinin ilgili disiplin kurulunca kabul edilmesi üzerine ceza vermeye yetkili amirler, 657 sayılı Kanunun 125 inci maddesinin üçüncü fıkrası hükmünü de dikkate alarak yapacağı değerlendirmeye göre cezayı verir veya gerekçesini de belirtmek suretiyle reddeder.\n b) Ceza teklifinin disiplin kurulunca reddedilmesi üzerine ceza vermeye yetkili amirler, 657 sayılı Kanun ile bu Yönetmelikte belirtilen usul ve esaslara uyulmak kaydıyla gerekçesini de belirterek, başka bir disiplin cezası vermeye veya disiplin cezası verilmesine yer olmadığına karar vermeye yetkilidir.\n (2) Yüksek disiplin kurulu tarafından, Devlet memurluğundan çıkarma cezası verilmesi isteminin reddine karar verilmesi üzerine ceza vermeye yetkili amirler, 657 sayılı Kanun ile bu Yönetmelikte belirtilen usul ve esaslara uyulmak kaydıyla gerekçesini de belirterek, başka bir disiplin cezası vermeye veya disiplin cezası verilmesine yer olmadığına karar vermeye yetkilidir.",
+      "preview": "(1) Kademe ilerlemesinin durdurulması cezasına ilişkin olarak; a) Ceza teklifinin ilgili disiplin kurulunca kabul edilmesi üzerine ceza verm…",
+      "kitap": null,
+      "kisim": null,
+      "bolum": "BEŞİNCİ BÖLÜM · Yetki",
+      "ayirim": null,
+      "maddeBaslik": "Disiplin kurulu ve yüksek disiplin kurulunun değerlendirmesi neticesinde yetki",
+      "sectionPath": [
+        "BEŞİNCİ BÖLÜM · Yetki",
+        "Disiplin kurulu ve yüksek disiplin kurulunun değerlendirmesi neticesinde yetki"
+      ]
+    },
+    {
+      "id": "yonetmelik:3935:m:28",
+      "maddeKind": "madde",
+      "maddeNo": "28",
+      "heading": "Madde 28",
+      "text": "(1) Disiplin cezası verilebilmesi için memur hakkında soruşturma açılması zorunludur. Soruşturma yapılmadan disiplin cezası verilemez.\n (2) Disiplin soruşturması, memurlar arasından görevlendirilen muhakkik ya da teftiş, denetim ve soruşturma yapmakla görevli memurlar eliyle yapılır. Disiplin soruşturmasında birden fazla memur birlikte görevlendirilebilir.\n (3) Disiplin soruşturmasında muhakkik görevlendirilmesi hâlinde muhakkik, hakkında soruşturma yapacağı memurdan hiyerarşik olarak alt seviyede olamaz.",
+      "preview": "(1) Disiplin cezası verilebilmesi için memur hakkında soruşturma açılması zorunludur. Soruşturma yapılmadan disiplin cezası verilemez. (2) D…",
+      "kitap": null,
+      "kisim": null,
+      "bolum": "ALTINCI BÖLÜM · Disiplin Soruşturması, Süreler ve Kararların Tebliği",
+      "ayirim": null,
+      "maddeBaslik": "Disiplin soruşturması",
+      "sectionPath": [
+        "ALTINCI BÖLÜM · Disiplin Soruşturması, Süreler ve Kararların Tebliği",
+        "Disiplin soruşturması"
+      ]
+    },
+    {
+      "id": "yonetmelik:3935:m:29",
+      "maddeKind": "madde",
+      "maddeNo": "29",
+      "heading": "Madde 29",
+      "text": "(1) Muhakkik, savunma isteme ve disiplin cezası verme yetkisi hariç olmak üzere soruşturma konusuyla sınırlı olarak kendisini görevlendiren disiplin amirinin bütün yetkilerini haiz olup bu kapsamda her türlü evrakı incelemeye, hakkında inceleme yapılan memurun ifadesini almaya, memur tarafından gösterilen veya bilgisi olabileceğini değerlendirdiği kişilerden bilgi istemeye ve/veya bunları dinlemeye yetkilidir.\n (2) Muhakkik, soruşturma konusu fiil veya hâl dışında disipline aykırı yeni bir fiil veya hâl tespit ederse kendiliğinden soruşturma yapamaz. Durumu disiplin amirine yazılı olarak bildirir. Kendisine yazılı olarak ek soruşturma görevi verildiği takdirde bu konularda da soruşturma yapabilir.\n (3) Muhakkik, “Giriş bilgileri”, “Maddi delil ve belgeler”, “İfade ve bilgisine başvurulanlar”, “Konuya ilişkin mevzuat”, “Değerlendirme ve kanaat” ile ihtiyaca göre oluşturulan diğer bölümlerden ibaret bir “Muhakkik Raporu” düzenler ve gizli yazıyla kendisini görevlendiren disiplin amirine sunar.\n (4) Muhakkik, hazırladığı raporda atıf yaptığı belgelerin asıllarını ya da onaylı örneklerini eksiksiz olarak soruşturma dosyasına ekler. Dosyadaki her sayfa ve belgeyi numaralandırarak dizi pusulası hazırlar.",
+      "preview": "(1) Muhakkik, savunma isteme ve disiplin cezası verme yetkisi hariç olmak üzere soruşturma konusuyla sınırlı olarak kendisini görevlendiren…",
+      "kitap": null,
+      "kisim": null,
+      "bolum": "ALTINCI BÖLÜM · Disiplin Soruşturması, Süreler ve Kararların Tebliği",
+      "ayirim": null,
+      "maddeBaslik": "Muhakkikin çalışma usulü",
+      "sectionPath": [
+        "ALTINCI BÖLÜM · Disiplin Soruşturması, Süreler ve Kararların Tebliği",
+        "Muhakkikin çalışma usulü"
+      ]
+    },
+    {
+      "id": "yonetmelik:3935:m:30",
+      "maddeKind": "madde",
+      "maddeNo": "30",
+      "heading": "Madde 30",
+      "text": "(1) Memura savunma hakkı tanınmadan disiplin cezası verilemez. Savunma, soruşturma sürecinin son aşamasında disiplin amiri tarafından istenir.\n (2) Savunma, memur hakkındaki iddialar, bu iddiaların dayandığı deliller, isnat edilen fiil veya hâllerin hukuki nitelendirmesi ve 657 sayılı Kanunun 125 inci maddesinde sayılan fiil veya hâllerden hangisinin kapsamına girdiği bent ve alt bent belirtilerek istenir.\n (3) Memur, yetkili kurulun veya disiplin amirinin yedi günden az olmamak üzere verdiği süre içinde veya belirtilen bir tarihte savunmasını yapar.\n (4) Savunma istemine ilişkin yazıda, süresi içinde yapılmaması hâlinde savunma hakkından vazgeçilmiş sayılacağı belirtilir.\n (5) Kademe ilerlemesinin durdurulması cezasına ilişkin soruşturma süreci sonunda disiplin amiri savunmayı aldıktan sonra soruşturma dosyasını disiplin kuruluna gönderir.\n (6) Devlet memurluğundan çıkarma cezasına ilişkin soruşturma süreci sonunda disiplin amiri savunmayı aldıktan sonra ceza verilmesi gerektiği kanaatine varırsa soruşturma dosyasını, kanaatini içeren yazı ile birlikte yüksek disiplin kuruluna gönderir. Yüksek disiplin kurulunca, memurun sözlü veya yazılı olarak son savunması, 657 sayılı Kanunun 129 uncu maddesinde tanınmış olan haklardan yararlanmasına imkân sağlanmak suretiyle ayrıca talep edilir.",
+      "preview": "(1) Memura savunma hakkı tanınmadan disiplin cezası verilemez. Savunma, soruşturma sürecinin son aşamasında disiplin amiri tarafından isteni…",
+      "kitap": null,
+      "kisim": null,
+      "bolum": "ALTINCI BÖLÜM · Disiplin Soruşturması, Süreler ve Kararların Tebliği",
+      "ayirim": null,
+      "maddeBaslik": "Savunma",
+      "sectionPath": [
+        "ALTINCI BÖLÜM · Disiplin Soruşturması, Süreler ve Kararların Tebliği",
+        "Savunma"
+      ]
+    },
+    {
+      "id": "yonetmelik:3935:m:31",
+      "maddeKind": "madde",
+      "maddeNo": "31",
+      "heading": "Madde 31",
+      "text": "(1) Disiplin amirleri; uyarma, kınama ve aylıktan kesme cezalarını soruşturmanın tamamlandığı günden itibaren on beş gün içinde vermek zorundadır.\n (2) Kademe ilerlemesinin durdurulması cezasını gerektiren hâllerde soruşturma dosyası, kararını bildirmek üzere yetkili disiplin kuruluna on beş gün içinde tevdi edilir. Disiplin kurulu, dosyayı aldığı tarihten itibaren otuz gün içinde soruşturma evrakına göre kararını bildirir.\n (3) Devlet memurluğundan çıkarma cezası için disiplin amirleri tarafından yaptırılan soruşturmaya ait dosya, memurun bağlı bulunduğu kamu idaresinin yüksek disiplin kuruluna tevdiinden itibaren azami altı ay içinde bu kurulca karara bağlanır.\n (4) Disiplin cezası tekliflerinin disiplin kurulları veya yüksek disiplin kurullarınca reddedilmesi hâlinde, ceza vermeye yetkili amirlerce, ret kararlarının alındığı tarihi izleyen on beş gün içinde 657 sayılı Kanun ile bu Yönetmelikte belirtilen usul ve esaslara uyulmak kaydıyla başka bir disiplin cezası verilebilir.\n (5) İtiraz mercileri, itiraz dilekçesi ile karar ve eklerinin kendilerine intikalinden itibaren otuz gün içinde kararlarını vermek zorundadır.",
+      "preview": "(1) Disiplin amirleri; uyarma, kınama ve aylıktan kesme cezalarını soruşturmanın tamamlandığı günden itibaren on beş gün içinde vermek zorun…",
+      "kitap": null,
+      "kisim": null,
+      "bolum": "ALTINCI BÖLÜM · Disiplin Soruşturması, Süreler ve Kararların Tebliği",
+      "ayirim": null,
+      "maddeBaslik": "Karar süreleri",
+      "sectionPath": [
+        "ALTINCI BÖLÜM · Disiplin Soruşturması, Süreler ve Kararların Tebliği",
+        "Karar süreleri"
+      ]
+    },
+    {
+      "id": "yonetmelik:3935:m:32",
+      "maddeKind": "madde",
+      "maddeNo": "32",
+      "heading": "Madde 32",
+      "text": "(1) Disiplin cezası gerektiren fiil ve hâllerin işlendiğinin öğrenildiği tarihten itibaren;\n a) Uyarma, kınama, aylıktan kesme ve kademe ilerlemesinin durdurulması cezalarında bir ay içinde disiplin soruşturmasına,\n b) Devlet memurluğundan çıkarma cezasında altı ay içinde disiplin kovuşturmasına,\n başlanmadığı takdirde disiplin cezası verme yetkisi zamanaşımına uğrar.\n (2) Disiplin cezasını gerektiren fiil veya hâllerin işlendiği tarihten itibaren nihayet iki yıl içinde disiplin cezası verilmediği takdirde ceza verme yetkisi zamanaşımına uğrar.",
+      "preview": "(1) Disiplin cezası gerektiren fiil ve hâllerin işlendiğinin öğrenildiği tarihten itibaren; a) Uyarma, kınama, aylıktan kesme ve kademe iler…",
+      "kitap": null,
+      "kisim": null,
+      "bolum": "ALTINCI BÖLÜM · Disiplin Soruşturması, Süreler ve Kararların Tebliği",
+      "ayirim": null,
+      "maddeBaslik": "Zamanaşımı",
+      "sectionPath": [
+        "ALTINCI BÖLÜM · Disiplin Soruşturması, Süreler ve Kararların Tebliği",
+        "Zamanaşımı"
+      ]
+    },
+    {
+      "id": "yonetmelik:3935:m:33",
+      "maddeKind": "madde",
+      "maddeNo": "33",
+      "heading": "Madde 33",
+      "text": "(1) Disiplin amirleri, atamaya yetkili amirler veya valilerce verilen disiplin cezaları, kararların verildiği tarihi izleyen on beş gün içinde ilgilisine tebliğ edilir.\n (2) Devlet memurluğundan çıkarma cezası, kararın verildiği tarihi izleyen yedi gün içinde ilgilisine tebliğ edilir.\n (3) Disiplin cezalarına karşı yapılan itirazların sonucu, bu husustaki kararın verildiği tarihi izleyen yedi gün içinde ilgilisine tebliğ edilir.",
+      "preview": "(1) Disiplin amirleri, atamaya yetkili amirler veya valilerce verilen disiplin cezaları, kararların verildiği tarihi izleyen on beş gün için…",
+      "kitap": null,
+      "kisim": null,
+      "bolum": "ALTINCI BÖLÜM · Disiplin Soruşturması, Süreler ve Kararların Tebliği",
+      "ayirim": null,
+      "maddeBaslik": "Kararların ilgililere tebliği",
+      "sectionPath": [
+        "ALTINCI BÖLÜM · Disiplin Soruşturması, Süreler ve Kararların Tebliği",
+        "Kararların ilgililere tebliği"
+      ]
+    },
+    {
+      "id": "yonetmelik:3935:m:34",
+      "maddeKind": "madde",
+      "maddeNo": "34",
+      "heading": "Madde 34",
+      "text": "(1) Kesinleşmiş disiplin cezaları, kanuni düzenleme ile yargı kararlarının gerektirdiği durumlar hariç başka bir idari işlemle geri alınamaz, değiştirilemez veya ortadan kaldırılamaz.\n (2) Başka kamu idaresine atanan memurlar hakkında daha önce görev yaptığı kamu idarelerinde yetkili disiplin amiri veya kurullarınca verilen disiplin cezaları ve soruşturma dosyaları, verilmiş cezaların uygulanabilmesi için ilgililerin görev yaptığı kamu idarelerine gönderilir.\n (3) Hakkında açılan disiplin soruşturması devam ettiği sırada, ölüm hâli hariç olmak üzere, herhangi bir sebeple memuriyeti sona erenlerin soruşturmaları tamamlanır. Soruşturma sonucunda 657 sayılı Kanun ve bu Yönetmelikteki usul ve esaslar çerçevesinde kesinleşen disiplin cezaları ilgililere tebliğ edilir ve karar özlük dosyasına konulur. Bu durumda olanların tekrar memuriyete dönmeleri durumunda verilmiş olan ceza uygulanır.",
+      "preview": "(1) Kesinleşmiş disiplin cezaları, kanuni düzenleme ile yargı kararlarının gerektirdiği durumlar hariç başka bir idari işlemle geri alınamaz…",
+      "kitap": null,
+      "kisim": null,
+      "bolum": "ALTINCI BÖLÜM · Disiplin Soruşturması, Süreler ve Kararların Tebliği",
+      "ayirim": null,
+      "maddeBaslik": "Disiplin soruşturması ve cezaları hakkında çeşitli hükümler",
+      "sectionPath": [
+        "ALTINCI BÖLÜM · Disiplin Soruşturması, Süreler ve Kararların Tebliği",
+        "Disiplin soruşturması ve cezaları hakkında çeşitli hükümler"
+      ]
+    },
+    {
+      "id": "yonetmelik:3935:m:35",
+      "maddeKind": "madde",
+      "maddeNo": "35",
+      "heading": "Madde 35",
+      "text": "(1) Disiplin amirleri tarafından verilen uyarma, kınama ve aylıktan kesme cezalarına karşı disiplin kuruluna, kademe ilerlemesinin durdurulması cezasına karşı yüksek disiplin kuruluna itiraz edilebilir.\n (2) İtirazda süre, kararın ilgiliye tebliği tarihinden itibaren yedi gündür.\n (3) Süresi içinde itiraz edilmeyen disiplin cezaları kesinleşir.",
+      "preview": "(1) Disiplin amirleri tarafından verilen uyarma, kınama ve aylıktan kesme cezalarına karşı disiplin kuruluna, kademe ilerlemesinin durdurulm…",
+      "kitap": null,
+      "kisim": null,
+      "bolum": "YEDİNCİ BÖLÜM · Disiplin Cezalarına İtiraz ve Yargı Yolu ile Disiplin Cezalarının Uygulanması",
+      "ayirim": null,
+      "maddeBaslik": "Disiplin cezalarına karşı itiraz",
+      "sectionPath": [
+        "YEDİNCİ BÖLÜM · Disiplin Cezalarına İtiraz ve Yargı Yolu ile Disiplin Cezalarının Uygulanması",
+        "Disiplin cezalarına karşı itiraz"
+      ]
+    },
+    {
+      "id": "yonetmelik:3935:m:36",
+      "maddeKind": "madde",
+      "maddeNo": "36",
+      "heading": "Madde 36",
+      "text": "(1) Disiplin cezası verilen memur, tüm disiplin cezalarına karşı idari yargı yoluna başvurabilir.",
+      "preview": "(1) Disiplin cezası verilen memur, tüm disiplin cezalarına karşı idari yargı yoluna başvurabilir.",
+      "kitap": null,
+      "kisim": null,
+      "bolum": "YEDİNCİ BÖLÜM · Disiplin Cezalarına İtiraz ve Yargı Yolu ile Disiplin Cezalarının Uygulanması",
+      "ayirim": null,
+      "maddeBaslik": "Disiplin cezalarına karşı yargı yolu",
+      "sectionPath": [
+        "YEDİNCİ BÖLÜM · Disiplin Cezalarına İtiraz ve Yargı Yolu ile Disiplin Cezalarının Uygulanması",
+        "Disiplin cezalarına karşı yargı yolu"
+      ]
+    },
+    {
+      "id": "yonetmelik:3935:m:37",
+      "maddeKind": "madde",
+      "maddeNo": "37",
+      "heading": "Madde 37",
+      "text": "(1) Disiplin cezaları, memurun özlük dosyasına işlenir, verildiği tarihten itibaren hüküm ifade eder ve derhal uygulanır. Aylıktan kesme cezası, verildiği tarihi takip eden ay başında uygulanır.",
+      "preview": "(1) Disiplin cezaları, memurun özlük dosyasına işlenir, verildiği tarihten itibaren hüküm ifade eder ve derhal uygulanır. Aylıktan kesme cez…",
+      "kitap": null,
+      "kisim": null,
+      "bolum": "YEDİNCİ BÖLÜM · Disiplin Cezalarına İtiraz ve Yargı Yolu ile Disiplin Cezalarının Uygulanması",
+      "ayirim": null,
+      "maddeBaslik": "Disiplin cezalarının uygulanası",
+      "sectionPath": [
+        "YEDİNCİ BÖLÜM · Disiplin Cezalarına İtiraz ve Yargı Yolu ile Disiplin Cezalarının Uygulanması",
+        "Disiplin cezalarının uygulanası"
+      ]
+    },
+    {
+      "id": "yonetmelik:3935:m:38",
+      "maddeKind": "madde",
+      "maddeNo": "38",
+      "heading": "Madde 38",
+      "text": "(1) Devlet memuru hakkında;\n a) Belirli bir konuyu içermeyen veya somut delile dayanmayan,\n b) Başvuru sahibinin adı, soyadı, imzası ve adresi bulunmayan,\n c) Daha önceden şikâyet konusu yapılıp sonuçlanan hususlarda yeni delil içermeyen,\n ç) Akıl hastalığı sebebiyle vesayet altına alınanlar veya henüz vesayet altına alınmamış olmakla birlikte bu hastalığa dûçar oldukları sağlık kurulu raporu ile belirlenenlerce verilmiş olan,\n ihbar ve şikâyetler işleme konulmaz.\n (2) Birinci fıkranın (b) bendinde yazılı şartları taşımayan ihbar ve şikâyetlerin somut delillere dayanması durumunda konu hakkında disiplin soruşturmasına başlanır.",
+      "preview": "(1) Devlet memuru hakkında; a) Belirli bir konuyu içermeyen veya somut delile dayanmayan, b) Başvuru sahibinin adı, soyadı, imzası ve adresi…",
+      "kitap": null,
+      "kisim": null,
+      "bolum": "SEKİZİNCİ BÖLÜM · Çeşitli ve Son Hükümler",
+      "ayirim": null,
+      "maddeBaslik": "İşleme konulmayacak ihbar ve şikâyetler",
+      "sectionPath": [
+        "SEKİZİNCİ BÖLÜM · Çeşitli ve Son Hükümler",
+        "İşleme konulmayacak ihbar ve şikâyetler"
+      ]
+    },
+    {
+      "id": "yonetmelik:3935:m:39",
+      "maddeKind": "madde",
+      "maddeNo": "39",
+      "heading": "Madde 39",
+      "text": "(1) Amirlerce verilen disiplin cezaları, bu amirlerin bağlı bulunduğu disiplin amirine bildirilir.\n (2) Disiplin iş ve işlemlerine ilişkin talep edilen bilgiler kamu idarelerince, kamu personeli bilgi sisteminin ilgili bölümlerine kaydedilir.",
+      "preview": "(1) Amirlerce verilen disiplin cezaları, bu amirlerin bağlı bulunduğu disiplin amirine bildirilir. (2) Disiplin iş ve işlemlerine ilişkin ta…",
+      "kitap": null,
+      "kisim": null,
+      "bolum": "SEKİZİNCİ BÖLÜM · Çeşitli ve Son Hükümler",
+      "ayirim": null,
+      "maddeBaslik": "Bildirim yükümlülüğü",
+      "sectionPath": [
+        "SEKİZİNCİ BÖLÜM · Çeşitli ve Son Hükümler",
+        "Bildirim yükümlülüğü"
+      ]
+    },
+    {
+      "id": "yonetmelik:3935:m:40",
+      "maddeKind": "madde",
+      "maddeNo": "40",
+      "heading": "Madde 40",
+      "text": "(1) Özlük dosyasına uyarma, kınama, aylıktan kesme ve kademe ilerlemesinin durdurulması cezaları işlenen devlet memurları, cezanın uygulanma tarihinden itibaren;\n a) Uyarma ve kınama cezalarında beş yıl,\n b) Aylıktan kesme ve kademe ilerlemesinin durdurulması cezalarında on yıl,\n geçtikten sonra, atamaya yetkili amire başvurarak, verilmiş olan cezaların özlük dosyasından silinmesini talep edebilir.\n (2) Atamaya yetkili amir; disiplin cezası alan memurun birinci fıkrada belirtilen süreler içindeki davranışlarını, disiplin cezasının özlük dosyasından silinmesi talebini haklı kılacak nitelikte görmesi halinde, talebin kabulüne karar verilebilir. Bu karar özlük dosyasına işlenir.\n (3) Kademe ilerlemesinin durdurulması cezasının özlük dosyasından çıkarılması talebine ilişkin ayrıca ilgili disiplin kurulunun mütalâası alındıktan sonra ikinci fıkra gereğince işlem yapılır.",
+      "preview": "(1) Özlük dosyasına uyarma, kınama, aylıktan kesme ve kademe ilerlemesinin durdurulması cezaları işlenen devlet memurları, cezanın uygulanma…",
+      "kitap": null,
+      "kisim": null,
+      "bolum": "SEKİZİNCİ BÖLÜM · Çeşitli ve Son Hükümler",
+      "ayirim": null,
+      "maddeBaslik": "Disiplin cezalarının özlük dosyasından silinmesi",
+      "sectionPath": [
+        "SEKİZİNCİ BÖLÜM · Çeşitli ve Son Hükümler",
+        "Disiplin cezalarının özlük dosyasından silinmesi"
+      ]
+    },
+    {
+      "id": "yonetmelik:3935:m:41",
+      "maddeKind": "madde",
+      "maddeNo": "41",
+      "heading": "Madde 41",
+      "text": "(1) Kurumsal disiplin amirleri yönetmeliklerinin hazırlanmasında aşağıda yer verilen usul ve esaslara uyulur:\n a) Kanun, kanun hükmünde kararname, Cumhurbaşkanlığı kararnamesi, bu Yönetmelik veya ilgili diğer mevzuatında yer verilen usul ve esasları tekraren düzenleyen maddelere yer verilmez.\n b) Ekli cetvellerde, disiplin amirleri kısmında; “Üst Disiplin Amiri” ve “En Üst Disiplin Amiri” gibi üstünlük dereceli ifadeler kullanılmadan tek bir “Disiplin Amiri” sütunu açılır.\n c) Cetvellere yazılan memuriyet unvanlarının ilgili mevzuatına göre ihdas edilmiş kadro unvanı olması zorunlu olup unvanlarda kısaltma yapılmaz.\n ç) Uhdelerinde yöneticilik görevi bulunmayanlar, cetvellerde disiplin amiri olarak gösterilmez.\n d) Ekli cetvellere herhangi bir açıklama ve not yazılmaz.\n e) Ekli cetveller; kamu idarelerinin teşkilat yapılarına göre merkez teşkilatı, taşra teşkilatı bölge kuruluşları, taşra teşkilatı il ve ilçe kuruluşları, doğrudan merkeze bağlı taşra teşkilatı ve yurt dışı teşkilatı bölümlerine ayrılarak düzenlenir.\n\n Yürürlükten kaldırılan yönetmelik",
+      "preview": "(1) Kurumsal disiplin amirleri yönetmeliklerinin hazırlanmasında aşağıda yer verilen usul ve esaslara uyulur: a) Kanun, kanun hükmünde karar…",
+      "kitap": null,
+      "kisim": null,
+      "bolum": "SEKİZİNCİ BÖLÜM · Çeşitli ve Son Hükümler",
+      "ayirim": null,
+      "maddeBaslik": "Kurumsal disiplin amirleri yönetmelikleri",
+      "sectionPath": [
+        "SEKİZİNCİ BÖLÜM · Çeşitli ve Son Hükümler",
+        "Kurumsal disiplin amirleri yönetmelikleri"
+      ]
+    },
+    {
+      "id": "yonetmelik:3935:m:42",
+      "maddeKind": "madde",
+      "maddeNo": "42",
+      "heading": "Madde 42",
+      "text": "(1) 17/9/1982 tarihli ve 8/5336 sayılı Bakanlar Kurulu Kararı ile yürürlüğe konulan Disiplin Kurulları ve Disiplin Amirleri Hakkında Yönetmelik yürürlükten kaldırılmıştır.",
+      "preview": "(1) 17/9/1982 tarihli ve 8/5336 sayılı Bakanlar Kurulu Kararı ile yürürlüğe konulan Disiplin Kurulları ve Disiplin Amirleri Hakkında Yönetme…",
+      "kitap": null,
+      "kisim": null,
+      "bolum": "SEKİZİNCİ BÖLÜM · Çeşitli ve Son Hükümler",
+      "ayirim": null,
+      "maddeBaslik": "Kurumsal disiplin amirleri yönetmelikleri",
+      "sectionPath": [
+        "SEKİZİNCİ BÖLÜM · Çeşitli ve Son Hükümler",
+        "Kurumsal disiplin amirleri yönetmelikleri"
+      ]
+    },
+    {
+      "id": "yonetmelik:3935:m:43",
+      "maddeKind": "madde",
+      "maddeNo": "43",
+      "heading": "Madde 43",
+      "text": "(1) Mevzuatta, bu Yönetmeliğin 42 nci maddesi ile yürürlükten kaldırılan Disiplin Kurulları ve Disiplin Amirleri Hakkında Yönetmeliğine yapılan atıflar bu Yönetmeliğe yapılmış sayılır.",
+      "preview": "(1) Mevzuatta, bu Yönetmeliğin 42 nci maddesi ile yürürlükten kaldırılan Disiplin Kurulları ve Disiplin Amirleri Hakkında Yönetmeliğine yapı…",
+      "kitap": null,
+      "kisim": null,
+      "bolum": "SEKİZİNCİ BÖLÜM · Çeşitli ve Son Hükümler",
+      "ayirim": null,
+      "maddeBaslik": "Atıflar",
+      "sectionPath": [
+        "SEKİZİNCİ BÖLÜM · Çeşitli ve Son Hükümler",
+        "Atıflar"
+      ]
+    },
+    {
+      "id": "yonetmelik:3935:m:gecici:1",
+      "maddeKind": "gecici",
+      "maddeNo": "1",
+      "heading": "Geçici Madde 1",
+      "text": "(1) Kamu idareleri, disiplin kurullarını ve disiplin amirleri hakkındaki yönetmeliklerini, bu Yönetmeliğin yürürlüğe girdiği tarihten itibaren altı ay içerisinde bu Yönetmeliğe uygun hâle getirir. Bu Yönetmelik hükümlerine göre kurulların yeniden oluşturulması ve disiplin amirlerinin yönetmeliklerle yeniden belirlenmesine kadar, mevcut kurullar ve disiplin amirlerinin görev ve yetkileri devam eder.",
+      "preview": "(1) Kamu idareleri, disiplin kurullarını ve disiplin amirleri hakkındaki yönetmeliklerini, bu Yönetmeliğin yürürlüğe girdiği tarihten itibar…",
+      "kitap": null,
+      "kisim": null,
+      "bolum": "SEKİZİNCİ BÖLÜM · Çeşitli ve Son Hükümler",
+      "ayirim": null,
+      "maddeBaslik": "Kamu idarelerinin uyumu",
+      "sectionPath": [
+        "SEKİZİNCİ BÖLÜM · Çeşitli ve Son Hükümler",
+        "Kamu idarelerinin uyumu"
+      ]
+    },
+    {
+      "id": "yonetmelik:3935:m:44",
+      "maddeKind": "madde",
+      "maddeNo": "44",
+      "heading": "Madde 44",
+      "text": "(1) Bu Yönetmelik yayımı tarihinde yürürlüğe girer.",
+      "preview": "(1) Bu Yönetmelik yayımı tarihinde yürürlüğe girer.",
+      "kitap": null,
+      "kisim": null,
+      "bolum": "SEKİZİNCİ BÖLÜM · Çeşitli ve Son Hükümler",
+      "ayirim": null,
+      "maddeBaslik": "Yürürlük",
+      "sectionPath": [
+        "SEKİZİNCİ BÖLÜM · Çeşitli ve Son Hükümler",
+        "Yürürlük"
+      ]
+    },
+    {
+      "id": "yonetmelik:3935:m:45",
+      "maddeKind": "madde",
+      "maddeNo": "45",
+      "heading": "Madde 45",
+      "text": "(1) Bu Yönetmelik hükümlerini Cumhurbaşkanı yürütür.\n\n 29/4/2021 TARİHLİ VE 3935 SAYILI CUMHURBAŞKANI KARARI İLE YÜRÜRLÜĞE KONULAN YÖNETMELİĞE EK VE DEĞİŞİKLİK GETİREN YÖNETMELİKLERİN YÜRÜRLÜĞE GİRİŞ TARİHLERİNİ GÖSTEREN TABLO\n\n Ek ve Değişiklik Getiren Yönetmeliği Yürürlüğe Koyan Yönetmeliğin\n 3935 Sayılı Cumhurbaşkanı Kararı ile Yürürlüğe Konulan Yönetmeliğin Değişen Maddeleri\n Yürürlüğe Giriş Tarihi\n\n Tarihi\n Numarası\n\n 9/10/2025\n 10475\n 2\n 10/10/2025\n\n 12/11/2025\n 10566\n 13\n 13/11/2025",
+      "preview": "(1) Bu Yönetmelik hükümlerini Cumhurbaşkanı yürütür. 29/4/2021 TARİHLİ VE 3935 SAYILI CUMHURBAŞKANI KARARI İLE YÜRÜRLÜĞE KONULAN YÖNETMELİĞE…",
+      "kitap": null,
+      "kisim": null,
+      "bolum": "SEKİZİNCİ BÖLÜM · Çeşitli ve Son Hükümler",
+      "ayirim": null,
+      "maddeBaslik": "Yürütme",
+      "sectionPath": [
+        "SEKİZİNCİ BÖLÜM · Çeşitli ve Son Hükümler",
+        "Yürütme"
+      ]
+    }
+  ]
+}

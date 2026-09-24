@@ -1,4 +1,5 @@
 import React, { useEffect, useMemo, useState } from 'react';
+import { toast } from 'sonner';
 import type { Deadline } from '../../services/dataService';
 import { useContextStore } from '../../stores/useContextStore';
 import { useDeadlinesStore } from '../../stores/useDeadlinesStore';
@@ -8,6 +9,7 @@ import { usePartiesStore } from '../../stores/usePartiesStore';
 import { cn } from '../../lib/utils';
 import MaterialIcon from '../ui/MaterialIcon';
 import { Button } from '../ui/button';
+import { Checkbox } from '../ui/checkbox';
 import { CalendarEventForm } from './CalendarEventForm';
 import {
     MONTH_NAMES_TR,
@@ -43,7 +45,7 @@ export const CalendarPanel: React.FC = () => {
     const [selectedKey, setSelectedKey] = useState(toDateKey(today));
     const [form, setForm] = useState<FormState>({ kind: 'closed' });
 
-    const { deadlines, isLoading, fetchDeadlines } = useDeadlinesStore();
+    const { deadlines, isLoading, fetchDeadlines, updateDeadline } = useDeadlinesStore();
     const { matters, fetchMatters } = useMattersStore();
     const { parties, fetchParties } = usePartiesStore();
     const { activeEntityType, activeEntityId, setContext } = useContextStore();
@@ -132,6 +134,19 @@ export const CalendarPanel: React.FC = () => {
         openPartyFormFloating({ id: partyId, full_name: name });
     };
 
+    const toggleCompleted = async (ev: Deadline, completed: boolean) => {
+        if (completed === Boolean(ev.is_completed)) return;
+        try {
+            await updateDeadline({
+                id: ev.id,
+                event_type: ev.event_type,
+                is_completed: completed,
+            });
+        } catch {
+            toast.error('Güncellenemedi');
+        }
+    };
+
     const selectedLabel = (() => {
         const d = parseDateKey(selectedKey);
         return `${d.getDate()} ${MONTH_NAMES_TR[d.getMonth()]}`;
@@ -211,7 +226,7 @@ export const CalendarPanel: React.FC = () => {
                 })}
             </div>
 
-            <div className="flex items-center justify-between gap-2 border-t border-white/10 pt-2">
+            <div className="flex items-center justify-between gap-2 border-t border-border pt-2">
                 <span className="text-[11px] font-medium text-muted-foreground truncate">
                     {selectedLabel}
                     {isLoading ? ' …' : ''}
@@ -244,64 +259,86 @@ export const CalendarPanel: React.FC = () => {
                     return (
                         <div
                             key={ev.id}
-                            role="button"
-                            tabIndex={0}
-                            onClick={() => setForm({ kind: 'edit', event: ev })}
-                            onKeyDown={(e) => {
-                                if (e.key === 'Enter' || e.key === ' ') {
-                                    e.preventDefault();
-                                    setForm({ kind: 'edit', event: ev });
-                                }
-                            }}
                             className={cn(
-                                'w-full text-left rounded-lg border border-white/5 bg-white/[0.03] px-2 py-1.5 cursor-pointer',
+                                'flex items-stretch rounded-lg border border-white/5 bg-white/[0.03]',
                                 'hover:bg-white/[0.06] transition-colors',
                                 ev.is_completed && 'opacity-60',
                             )}
                         >
-                            <div className="flex items-center gap-1.5">
-                                <span className={cn('h-1.5 w-1.5 rounded-full shrink-0', meta.dotClass)} />
-                                <span className="text-[11px] font-medium truncate">
-                                    {meta.label}
-                                    {time ? ` · ${time}` : ''}
-                                </span>
-                                {ev.task_id ? (
-                                    <span className="ml-auto shrink-0 rounded border border-emerald-500/30 bg-emerald-500/10 px-1 py-px text-[9px] font-medium text-emerald-700 dark:text-emerald-300">
-                                        Görev
+                            <div
+                                role="button"
+                                tabIndex={0}
+                                onClick={() => setForm({ kind: 'edit', event: ev })}
+                                onKeyDown={(e) => {
+                                    if (e.key === 'Enter' || e.key === ' ') {
+                                        e.preventDefault();
+                                        setForm({ kind: 'edit', event: ev });
+                                    }
+                                }}
+                                className="min-w-0 flex-1 text-left px-2 py-1.5 cursor-pointer"
+                            >
+                                <div className="flex items-center gap-1.5">
+                                    <span className={cn('h-1.5 w-1.5 rounded-full shrink-0', meta.dotClass)} />
+                                    <span
+                                        className={cn(
+                                            'text-[11px] font-medium truncate',
+                                            ev.is_completed && 'line-through',
+                                        )}
+                                    >
+                                        {meta.label}
+                                        {time ? ` · ${time}` : ''}
                                     </span>
+                                    {ev.task_id ? (
+                                        <span className="ml-auto shrink-0 rounded border border-emerald-500/30 bg-emerald-500/10 px-1 py-px text-[9px] font-medium text-emerald-700 dark:text-emerald-300">
+                                            Görev
+                                        </span>
+                                    ) : null}
+                                </div>
+                                {ev.description ? (
+                                    <p className="text-[10px] text-muted-foreground mt-0.5 line-clamp-2 pl-3">
+                                        {ev.description}
+                                    </p>
                                 ) : null}
+                                <div className="flex flex-wrap gap-x-2 gap-y-0.5 pl-3 mt-0.5">
+                                    {ev.matter_id ? (
+                                        <button
+                                            type="button"
+                                            className="text-[10px] text-primary/90 hover:underline truncate max-w-full"
+                                            onClick={(e) => {
+                                                e.stopPropagation();
+                                                openMatter(ev.matter_id!);
+                                            }}
+                                        >
+                                            {matter?.title || matter?.internal_id || 'Dosya'}
+                                        </button>
+                                    ) : null}
+                                    {ev.party_id ? (
+                                        <button
+                                            type="button"
+                                            className="text-[10px] text-muted-foreground hover:text-foreground hover:underline truncate max-w-full"
+                                            onClick={(e) => {
+                                                e.stopPropagation();
+                                                openParty(ev.party_id!);
+                                            }}
+                                        >
+                                            {party?.full_name || 'Taraf'}
+                                        </button>
+                                    ) : null}
+                                </div>
                             </div>
-                            {ev.description ? (
-                                <p className="text-[10px] text-muted-foreground mt-0.5 line-clamp-2 pl-3">
-                                    {ev.description}
-                                </p>
-                            ) : null}
-                            <div className="flex flex-wrap gap-x-2 gap-y-0.5 pl-3 mt-0.5">
-                                {ev.matter_id ? (
-                                    <button
-                                        type="button"
-                                        className="text-[10px] text-primary/90 hover:underline truncate max-w-full"
-                                        onClick={(e) => {
-                                            e.stopPropagation();
-                                            openMatter(ev.matter_id!);
-                                        }}
-                                    >
-                                        {matter?.title || matter?.internal_id || 'Dosya'}
-                                    </button>
-                                ) : null}
-                                {ev.party_id ? (
-                                    <button
-                                        type="button"
-                                        className="text-[10px] text-muted-foreground hover:text-foreground hover:underline truncate max-w-full"
-                                        onClick={(e) => {
-                                            e.stopPropagation();
-                                            openParty(ev.party_id!);
-                                        }}
-                                    >
-                                        {party?.full_name || 'Taraf'}
-                                    </button>
-                                ) : null}
-                            </div>
+                            <Checkbox
+                                checked={ev.is_completed}
+                                onCheckedChange={(value) => {
+                                    void toggleCompleted(ev, value === true);
+                                }}
+                                aria-label={
+                                    ev.is_completed
+                                        ? 'Tamamlandı işaretini kaldır'
+                                        : 'Tamamlandı olarak işaretle'
+                                }
+                                title={ev.is_completed ? 'Yeniden aç' : 'Tamamlandı'}
+                                className="flex h-auto min-h-full w-7 shrink-0 self-stretch items-center justify-center rounded-none rounded-r-lg border-0 border-l border-white/10 bg-transparent hover:bg-white/5 data-[state=checked]:bg-primary/20 data-[state=checked]:text-primary"
+                            />
                         </div>
                     );
                 })}

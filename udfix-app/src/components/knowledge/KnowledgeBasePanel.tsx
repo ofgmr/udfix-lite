@@ -37,7 +37,13 @@ export const KnowledgeBasePanel: React.FC = () => {
     );
     const searchInputRef = useFlyoutSearchInputFocus('knowledge_base');
     const searchShortcut = getDatabaseSearchShortcutLabel('knowledge_base');
-    const { activeEntityType, activeEntityId, activeEntityName } = useContextStore();
+    const { activeEntityType, activeEntityId, activeEntityName } = useContextStore(
+        useShallow((s) => ({
+            activeEntityType: s.activeEntityType,
+            activeEntityId: s.activeEntityId,
+            activeEntityName: s.activeEntityName,
+        })),
+    );
     const [activeFilters, setActiveFilters] = useState<string[]>([]);
     const [ignoreContextForList, setIgnoreContextForList] = useState(false);
     const contextPartyId =
@@ -93,6 +99,16 @@ export const KnowledgeBasePanel: React.FC = () => {
             prev.includes(typeId) ? prev.filter(id => id !== typeId) : [...prev, typeId]
         );
     };
+
+    const openItem = useCallback((item: KnowledgeItem) => {
+        openKnowledgeFormFloating(item);
+        useContextStore.getState().setContext('KNOWLEDGE', item.id, item.title);
+    }, [openKnowledgeFormFloating]);
+
+    const renderRow = useCallback(
+        (item: KnowledgeItem) => <KnowledgeCard item={item} onOpen={openItem} />,
+        [openItem],
+    );
 
     return (
         <div className="flex flex-col gap-3">
@@ -215,17 +231,7 @@ export const KnowledgeBasePanel: React.FC = () => {
                                     <span className="text-xs">Sonuç bulunamadı.</span>
                                 </div>
                             }
-                            renderRow={(item) => (
-                                <KnowledgeCard
-                                    item={item}
-                                    onOpen={() => {
-                                        useContextStore
-                                            .getState()
-                                            .setContext('KNOWLEDGE', item.id, item.title);
-                                        openKnowledgeFormFloating(item);
-                                    }}
-                                />
-                            )}
+                            renderRow={renderRow}
                         />
                     )}
                 </div>
@@ -252,10 +258,13 @@ function knowledgeCardIcon(type: KnowledgeItem['type']): string {
     }
 }
 
-const KnowledgeCard: React.FC<{ item: KnowledgeItem; onOpen?: () => void }> = ({
+const KnowledgeCard = React.memo(function KnowledgeCard({
     item,
     onOpen,
-}) => {
+}: {
+    item: KnowledgeItem;
+    onOpen?: (item: KnowledgeItem) => void;
+}) {
     const typeIcon = knowledgeCardIcon(item.type);
     const attributeRows = parseAttributesSearchBlob(item.attributes_search);
     const legacyTags = (item.tags ?? '')
@@ -267,11 +276,11 @@ const KnowledgeCard: React.FC<{ item: KnowledgeItem; onOpen?: () => void }> = ({
         <Card
             role="button"
             tabIndex={0}
-            onClick={onOpen}
+            onClick={() => onOpen?.(item)}
             onKeyDown={(e) => {
                 if (e.key === 'Enter' || e.key === ' ') {
                     e.preventDefault();
-                    onOpen?.();
+                    onOpen?.(item);
                 }
             }}
             className={cn(
@@ -336,4 +345,4 @@ const KnowledgeCard: React.FC<{ item: KnowledgeItem; onOpen?: () => void }> = ({
             )}
         </Card>
     );
-};
+});

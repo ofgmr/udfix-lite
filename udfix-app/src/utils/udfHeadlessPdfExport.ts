@@ -2,13 +2,13 @@ import { Editor } from '@tiptap/core';
 
 import { createUdfixEditorExtensions } from '../components/editor/udfixEditorExtensions';
 import { EDITOR_PAGE_HEIGHT_PX, EDITOR_PAGE_WIDTH_PX } from './editorLayout';
-import { buildPdfExportPayloadFromEditor } from './exportUtils';
+import { buildNativePdfOverlayRequest } from './exportUtils';
 import { resolveUdfEditorInitialContent } from './udfEditorContent';
 import { applyUyapImportMetaToEditor } from './uyapImportApply';
 import { parseUyapImportMeta } from './uyapImportMeta';
 import { getElectronInvoke } from './electronBridge';
-import { sanitizeTrustedDocumentHtml } from './sanitizeDocumentHtml';
 import type { UyapVerificationMeta } from './uyapVerification';
+import type { ExportPdfWithOverlayPayload } from '../../electron/pdfOverlayShared';
 
 const BATCH_EDITOR_HOST_ID = 'udfix-udf-batch-pdf-host';
 
@@ -90,15 +90,14 @@ export async function renderUdfContentXmlToPdfBytes(
         const importMeta = await parseUyapImportMeta(contentXml);
         await applyUyapImportMetaToEditor(editor, importMeta);
         await waitTwoFrames();
-        const { documentHtml, printToPdfOptions } = await buildPdfExportPayloadFromEditor(editor, {
+        const built = await buildNativePdfOverlayRequest(editor, {
             title: options.title,
             verificationMeta: options.verificationMeta ?? null,
+            promptOnUnsettledLayout: false,
         });
+        const payload: ExportPdfWithOverlayPayload = built;
         const invoke = getElectronInvoke();
-        const pdfBuffer = await invoke('convert-html-to-pdf', {
-            documentHtml: sanitizeTrustedDocumentHtml(documentHtml),
-            printToPdfOptions,
-        });
+        const pdfBuffer = await invoke('convert-html-to-pdf-with-overlay', payload);
         const pdfBytes = bytesFromIpcPdf(pdfBuffer);
         if (pdfBytes.byteLength === 0) {
             throw new Error('PDF oluşturulamadı (boş çıktı).');

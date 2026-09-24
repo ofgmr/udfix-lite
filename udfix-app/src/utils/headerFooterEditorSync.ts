@@ -211,7 +211,7 @@ export function applyHeaderFooterSyncPayload(
         return;
     }
 
-    reconcilePaginationPlusLayout(editor, undefined, { forceDecorationRebuild: true });
+    reconcilePaginationPlusLayout(editor, { forceDecorationRebuild: true });
 }
 
 export function runHeaderFooterEditorSync(

@@ -34,6 +34,7 @@ import {
     ContextMenuContent,
     ContextMenuItem,
     ContextMenuSeparator,
+    ContextMenuShortcut,
     ContextMenuTrigger,
 } from '../ui/context-menu';
 import { toast } from 'sonner';
@@ -47,6 +48,12 @@ interface NoteEditorProps {
 }
 
 const noteEditorExtensions = createNoteEditorExtensions();
+
+function isMacLikePlatform(): boolean {
+    if (typeof navigator === 'undefined') return false;
+    const ua = navigator.userAgent;
+    return /Mac|iPhone|iPad|iPod/i.test(ua) || (navigator.platform?.includes('Mac') ?? false);
+}
 
 
 const metaChipClass =
@@ -213,6 +220,8 @@ export const NoteEditor: React.FC<NoteEditorProps> = ({ noteId, onClose }) => {
         {
             extensions: noteEditorExtensions,
             content: EMPTY_TIPTAP_DOC,
+            immediatelyRender: false,
+            shouldRerenderOnTransaction: false,
             editorProps: {
                 attributes: {
                     class: 'tiptap prose prose-sm dark:prose-invert focus:outline-none min-h-[500px] w-full max-w-none px-8 py-10 outline-none',
@@ -571,6 +580,46 @@ export const NoteEditor: React.FC<NoteEditorProps> = ({ noteId, onClose }) => {
                         </div>
                     </ContextMenuTrigger>
                     <ContextMenuContent className="min-w-[220px] glass border-white/10">
+                        <ContextMenuItem
+                            className="gap-2 cursor-pointer"
+                            onSelect={() => {
+                                setTimeout(() => {
+                                    editor?.chain().focus().run();
+                                    document.execCommand('cut');
+                                }, 0);
+                            }}
+                        >
+                            <MaterialIcon icon="content_cut" size={16} className="opacity-80" />
+                            Kes
+                            <ContextMenuShortcut>{isMacLikePlatform() ? '⌘X' : 'Ctrl+X'}</ContextMenuShortcut>
+                        </ContextMenuItem>
+                        <ContextMenuItem
+                            className="gap-2 cursor-pointer"
+                            onSelect={() => {
+                                setTimeout(() => {
+                                    editor?.chain().focus().run();
+                                    document.execCommand('copy');
+                                }, 0);
+                            }}
+                        >
+                            <MaterialIcon icon="content_copy" size={16} className="opacity-80" />
+                            Kopyala
+                            <ContextMenuShortcut>{isMacLikePlatform() ? '⌘C' : 'Ctrl+C'}</ContextMenuShortcut>
+                        </ContextMenuItem>
+                        <ContextMenuItem
+                            className="gap-2 cursor-pointer"
+                            onSelect={() => {
+                                setTimeout(() => {
+                                    editor?.chain().focus().run();
+                                    document.execCommand('paste');
+                                }, 0);
+                            }}
+                        >
+                            <MaterialIcon icon="content_paste" size={16} className="opacity-80" />
+                            Yapıştır
+                            <ContextMenuShortcut>{isMacLikePlatform() ? '⌘V' : 'Ctrl+V'}</ContextMenuShortcut>
+                        </ContextMenuItem>
+                        <ContextMenuSeparator />
                         <ContextMenuItem
                             className="gap-2 cursor-pointer"
                             onSelect={() => {

@@ -45,7 +45,7 @@ export function mergeCachedAppPreferences(patch: Partial<AppPreferences>): AppPr
         autosaveDebounceMs: 2000,
         workspaceRoot: null,
         workspaceRecents: [],
-        telemetryConsent: 'opted_in',
+        telemetryConsent: 'unknown',
         menuBarTrayEnabled: true,
         udfDefaultHandlerEnabled: false,
         udfDefaultHandlerPromptDismissed: false,

@@ -1,0 +1,291 @@
+{
+  "id": "yonetmelik:12459",
+  "kind": "yonetmelik",
+  "no": "12459",
+  "title": "Alt İşverenlik Yönetmeliği",
+  "shortName": "AltİşverenYön",
+  "aliases": [
+    "AltİşverenYön",
+    "Alt İşverenlik Yönetmeliği",
+    "12459"
+  ],
+  "tur": 7,
+  "tertip": 5,
+  "sourceUrl": "https://www.mevzuat.gov.tr/mevzuat?MevzuatNo=12459&MevzuatTur=7&MevzuatTertip=5",
+  "kabulTarihi": null,
+  "maddeCount": 16,
+  "maddeler": [
+    {
+      "id": "yonetmelik:12459:m:1",
+      "maddeKind": "madde",
+      "maddeNo": "1",
+      "heading": "Madde 1",
+      "text": "(1) Bu Yönetmeliğin amacı, 22/5/2003 tarihli ve 4857 sayılı İş Kanunu kapsamında asıl işveren-alt işveren ilişkisinin kurulma şartlarını, alt işverene ait işyerinin bildirimini, tescilini, alt işverenlik sözleşmesinde bulunması gereken hususları düzenlemektir.",
+      "preview": "(1) Bu Yönetmeliğin amacı, 22/5/2003 tarihli ve 4857 sayılı İş Kanunu kapsamında asıl işveren-alt işveren ilişkisinin kurulma şartlarını, al…",
+      "kitap": null,
+      "kisim": null,
+      "bolum": "BİRİNCİ BÖLÜM · Amaç ve Kapsam, Dayanak ve Tanımlar",
+      "ayirim": null,
+      "maddeBaslik": "Amaç ve kapsam",
+      "sectionPath": [
+        "BİRİNCİ BÖLÜM · Amaç ve Kapsam, Dayanak ve Tanımlar",
+        "Amaç ve kapsam"
+      ]
+    },
+    {
+      "id": "yonetmelik:12459:m:2",
+      "maddeKind": "madde",
+      "maddeNo": "2",
+      "heading": "Madde 2",
+      "text": "(1) Bu Yönetmelik, 22/5/2003 tarihli ve 4857 sayılı İş Kanununun 3 üncü maddesi hükmüne dayanılarak hazırlanmıştır.",
+      "preview": "(1) Bu Yönetmelik, 22/5/2003 tarihli ve 4857 sayılı İş Kanununun 3 üncü maddesi hükmüne dayanılarak hazırlanmıştır.",
+      "kitap": null,
+      "kisim": null,
+      "bolum": "BİRİNCİ BÖLÜM · Amaç ve Kapsam, Dayanak ve Tanımlar",
+      "ayirim": null,
+      "maddeBaslik": "Dayanak",
+      "sectionPath": [
+        "BİRİNCİ BÖLÜM · Amaç ve Kapsam, Dayanak ve Tanımlar",
+        "Dayanak"
+      ]
+    },
+    {
+      "id": "yonetmelik:12459:m:3",
+      "maddeKind": "madde",
+      "maddeNo": "3",
+      "heading": "Madde 3",
+      "text": "(1) Bu Yönetmelikte geçen;\n a) Alt işveren: Bir işverenden, işyerinde yürütülen mal veya hizmet üretimine ilişkin yardımcı işlerde veya asıl işin bir bölümünde işletmenin ve işin gereği ile teknolojik nedenlerle uzmanlık gerektiren işlerde iş alan, bu iş için görevlendirdiği işçilerini sadece bu işyerinde aldığı işte çalıştıran gerçek veya tüzel kişiyi yahut tüzel kişiliği olmayan kurum ve kuruluşları,\n b) Alt işverenlik sözleşmesi: Asıl işveren ile alt işveren arasında yazılı olarak yapılan ve 10 uncu maddede belirtilen hususları ihtiva eden sözleşmeyi,\n c) Asıl iş: Mal veya hizmet üretiminin esasını oluşturan işi,\n ç) Asıl işveren: İşyerinde yürüttüğü mal veya hizmet üretimine ilişkin yardımcı işleri veya asıl işin bir bölümünde işletmenin ve işin gereği ile teknolojik nedenlerle uzmanlık gerektiren işleri diğer işverene veren, asıl işte kendisi de işçi çalıştıran gerçek veya tüzel kişiyi yahut tüzel kişiliği olmayan kurum ve kuruluşları,\n d) Bakanlık: Çalışma ve Sosyal Güvenlik Bakanlığını,\n e) Bölge Müdürlüğü: İşyerinin kayıtlı olduğu Bakanlık Bölge Müdürlüğünü,\n f) Kanun: 22/5/2003 tarihli ve 4857 sayılı İş Kanununu,\n g) Muvazaa:\n 1) İşyerinde yürütülen mal veya hizmet üretimine ilişkin asıl işin bir bölümünde uzmanlık gerektirmeyen işlerin alt işverene verilmesini,\n 2) Daha önce o işyerinde çalıştırılan kimse ile kurulan alt işverenlik ilişkisini,\n 3) Asıl işveren işçilerinin alt işveren tarafından işe alınarak hakları kısıtlanmak suretiyle çalıştırılmaya devam ettirilmesini,\n 4) Kamusal yükümlülüklerden kaçınmak veya işçilerin iş sözleşmesi, toplu iş sözleşmesi yahut çalışma mevzuatından kaynaklanan haklarını kısıtlamak ya da ortadan kaldırmak gibi tarafların gerçek iradelerini gizlemeye yönelik işlemleri,\n ihtiva eden sözleşmeyi,\n ğ) Yardımcı iş: İşyerinde yürütülen mal veya hizmet üretimine ilişkin olmakla beraber doğrudan üretim organizasyonu içerisinde yer almayan, üretimin zorunlu bir unsuru olmayan ancak asıl iş devam ettikçe devam eden ve asıl işe bağımlı olan işi,\n ifade eder.",
+      "preview": "(1) Bu Yönetmelikte geçen; a) Alt işveren: Bir işverenden, işyerinde yürütülen mal veya hizmet üretimine ilişkin yardımcı işlerde veya asıl…",
+      "kitap": null,
+      "kisim": null,
+      "bolum": "BİRİNCİ BÖLÜM · Amaç ve Kapsam, Dayanak ve Tanımlar",
+      "ayirim": null,
+      "maddeBaslik": "Tanımlar",
+      "sectionPath": [
+        "BİRİNCİ BÖLÜM · Amaç ve Kapsam, Dayanak ve Tanımlar",
+        "Tanımlar"
+      ]
+    },
+    {
+      "id": "yonetmelik:12459:m:4",
+      "maddeKind": "madde",
+      "maddeNo": "4",
+      "heading": "Madde 4",
+      "text": "(1) Asıl işveren alt işveren ilişkisinin kurulabilmesi için;\n a) Asıl işverenin işyerinde mal veya hizmet üretimi işlerinde çalışan kendi işçileri de bulunmalıdır.\n b) Alt işverene verilen iş, işyerinde mal veya hizmet üretiminin yardımcı işlerinden olmalıdır. Asıl işin bölünerek alt işverene verilmesi durumunda ise, verilen iş işletmenin ve işin gereği ile teknolojik nedenlerle uzmanlık gerektiren bir iş olmalıdır.\n c) Alt işveren, üstlendiği iş için görevlendirdiği işçilerini sadece o işyerinde aldığı işte çalıştırmalıdır.\n ç) Alt işverene verilen iş, işyerinde yürütülen mal veya hizmet üretimine ilişkin bir iş olmalı, asıl işe bağımlı ve asıl iş sürdüğü müddetçe devam eden bir iş olmalıdır.\n d) Alt işveren, daha önce o işyerinde çalıştırılan bir kimse olmamalıdır. Ancak daha önce o işyerinde çalıştırılan işçinin bilahare tüzel kişi şirketin ya da adi ortaklığın hissedarı olması, alt işveren ilişkisi kurmasına engel teşkil etmez.",
+      "preview": "(1) Asıl işveren alt işveren ilişkisinin kurulabilmesi için; a) Asıl işverenin işyerinde mal veya hizmet üretimi işlerinde çalışan kendi işç…",
+      "kitap": null,
+      "kisim": null,
+      "bolum": "İKİNCİ BÖLÜM · Asıl İşveren-Alt İşveren İlişkisinin Kurulması, Bildirimi ve İşyerinin Tescili",
+      "ayirim": null,
+      "maddeBaslik": "Asıl işveren-alt işveren ilişkisinin kurulma şartları",
+      "sectionPath": [
+        "İKİNCİ BÖLÜM · Asıl İşveren-Alt İşveren İlişkisinin Kurulması, Bildirimi ve İşyerinin Tescili",
+        "Asıl işveren-alt işveren ilişkisinin kurulma şartları"
+      ]
+    },
+    {
+      "id": "yonetmelik:12459:m:5",
+      "maddeKind": "madde",
+      "maddeNo": "5",
+      "heading": "Madde 5",
+      "text": "(1) Alt işveren, kendi işyeri için Kanunun 3 üncü maddesinin birinci fıkrası hükmüne göre bildirim yapmakla yükümlüdür.\n (2) Alt işveren, işyerinin tescili için şekli Bakanlıkça belirlenen işyeri bildirgesi ile birlikte 6 ncı maddede belirtilen belgeleri bölge müdürlüğüne verir.\n (3) Bir işyerinde her ne suretle olursa olsun asıl işveren-alt işveren ilişkisinin kurulması yeni bir işyeri kurulması olarak değerlendirilir.",
+      "preview": "(1) Alt işveren, kendi işyeri için Kanunun 3 üncü maddesinin birinci fıkrası hükmüne göre bildirim yapmakla yükümlüdür. (2) Alt işveren, işy…",
+      "kitap": null,
+      "kisim": null,
+      "bolum": "İKİNCİ BÖLÜM · Asıl İşveren-Alt İşveren İlişkisinin Kurulması, Bildirimi ve İşyerinin Tescili",
+      "ayirim": null,
+      "maddeBaslik": "İşyerini bildirme",
+      "sectionPath": [
+        "İKİNCİ BÖLÜM · Asıl İşveren-Alt İşveren İlişkisinin Kurulması, Bildirimi ve İşyerinin Tescili",
+        "İşyerini bildirme"
+      ]
+    },
+    {
+      "id": "yonetmelik:12459:m:6",
+      "maddeKind": "madde",
+      "maddeNo": "6",
+      "heading": "Madde 6",
+      "text": "(1) İşyeri bildirgesi ile birlikte;\n a) Tüzel kişiler için Ticaret Sicil Gazetesi sureti,\n b) (Mülga:RG-6/7/2021-31533)\n c) Alt işverenlik sözleşmesi ve ekleri,\n bölge müdürlüğüne verilir.",
+      "preview": "(1) İşyeri bildirgesi ile birlikte; a) Tüzel kişiler için Ticaret Sicil Gazetesi sureti, b) (Mülga:RG-6/7/2021-31533) c) Alt işverenlik sözl…",
+      "kitap": null,
+      "kisim": null,
+      "bolum": "İKİNCİ BÖLÜM · Asıl İşveren-Alt İşveren İlişkisinin Kurulması, Bildirimi ve İşyerinin Tescili",
+      "ayirim": null,
+      "maddeBaslik": "İşyeri bildirgesi ile birlikte verilecek belgeler",
+      "sectionPath": [
+        "İKİNCİ BÖLÜM · Asıl İşveren-Alt İşveren İlişkisinin Kurulması, Bildirimi ve İşyerinin Tescili",
+        "İşyeri bildirgesi ile birlikte verilecek belgeler"
+      ]
+    },
+    {
+      "id": "yonetmelik:12459:m:7",
+      "maddeKind": "madde",
+      "maddeNo": "7",
+      "heading": "Madde 7",
+      "text": "(1) Bölge müdürlüğünce, 5 inci maddenin birinci fıkrası uyarınca bildirimde bulunan alt işverenin işyeri tescil edilerek işyeri için bir sicil numarası verilir.\n (2) İşyeri bildirgesinde beyan edilen bilgilerin ve eklenmesi gereken belgelerin eksik veya gerçeğe aykırı olması hâlinde işyerinin tescili yapılmaz.",
+      "preview": "(1) Bölge müdürlüğünce, 5 inci maddenin birinci fıkrası uyarınca bildirimde bulunan alt işverenin işyeri tescil edilerek işyeri için bir sic…",
+      "kitap": null,
+      "kisim": null,
+      "bolum": "İKİNCİ BÖLÜM · Asıl İşveren-Alt İşveren İlişkisinin Kurulması, Bildirimi ve İşyerinin Tescili",
+      "ayirim": null,
+      "maddeBaslik": "İşyeri tescili",
+      "sectionPath": [
+        "İKİNCİ BÖLÜM · Asıl İşveren-Alt İşveren İlişkisinin Kurulması, Bildirimi ve İşyerinin Tescili",
+        "İşyeri tescili"
+      ]
+    },
+    {
+      "id": "yonetmelik:12459:m:8",
+      "maddeKind": "madde",
+      "maddeNo": "8",
+      "heading": "Madde 8",
+      "text": "(1) Sosyal Güvenlik Kurumu müfettişleri veya diğer kamu kurum ve kuruluşlarının denetim elemanlarınca işyerlerinde yapılan denetimlerde ya da ihale makamları, ruhsata tabi işlerde (maden arama ve işletme, inşaat, taş ocağı ve benzeri) ruhsatı veren merciler (valilikler, kaymakamlıklar, belediyeler), sosyal güvenlik il müdürlükleri, vergi daireleri de kendi mevzuatları açısından yaptıkları işlemler sırasında, işyerlerinin Kanunun 3 üncü maddesine göre ilgili bölge müdürlüğüne bildirimde bulunup bulunmadığını kontrol ederler. Bildirim yapmamış olan işyerlerinin unvan ve adreslerini ilgili bölge müdürlüğüne bir yazı ile en geç 15 gün içinde bildirirler.\n (2) Denetim elemanlarınca veya kamu kurumlarınca yapılan bildirimler dikkate alınarak bölge müdürlüğünce Kanunun 3 üncü maddesine göre gerekli işlemler yapılır.",
+      "preview": "(1) Sosyal Güvenlik Kurumu müfettişleri veya diğer kamu kurum ve kuruluşlarının denetim elemanlarınca işyerlerinde yapılan denetimlerde ya d…",
+      "kitap": null,
+      "kisim": null,
+      "bolum": "İKİNCİ BÖLÜM · Asıl İşveren-Alt İşveren İlişkisinin Kurulması, Bildirimi ve İşyerinin Tescili",
+      "ayirim": null,
+      "maddeBaslik": "Kayıt dışı alt işveren işyerlerinin tescil işlemleri",
+      "sectionPath": [
+        "İKİNCİ BÖLÜM · Asıl İşveren-Alt İşveren İlişkisinin Kurulması, Bildirimi ve İşyerinin Tescili",
+        "Kayıt dışı alt işveren işyerlerinin tescil işlemleri"
+      ]
+    },
+    {
+      "id": "yonetmelik:12459:m:9",
+      "maddeKind": "madde",
+      "maddeNo": "9",
+      "heading": "Madde 9",
+      "text": "(1) Alt işverenlik sözleşmesi asıl işveren ile alt işveren arasında yazılı şekilde yapılır.\n (2) Asıl işveren ile alt işveren arasında yapılan ve işin üstlenilmesine esas teşkil eden sözleşmede, 10 uncu maddede yer alan hususların bulunması hâlinde söz konusu sözleşme alt işverenlik sözleşmesi olarak kabul edilebilir.",
+      "preview": "(1) Alt işverenlik sözleşmesi asıl işveren ile alt işveren arasında yazılı şekilde yapılır. (2) Asıl işveren ile alt işveren arasında yapıla…",
+      "kitap": null,
+      "kisim": null,
+      "bolum": "ÜÇÜNCÜ BÖLÜM · Alt İşverenlik Sözleşmesi, Asıl İşin Bölünmesi ve Muvazaanın İncelenmesi",
+      "ayirim": null,
+      "maddeBaslik": "Alt işverenlik sözleşmesi",
+      "sectionPath": [
+        "ÜÇÜNCÜ BÖLÜM · Alt İşverenlik Sözleşmesi, Asıl İşin Bölünmesi ve Muvazaanın İncelenmesi",
+        "Alt işverenlik sözleşmesi"
+      ]
+    },
+    {
+      "id": "yonetmelik:12459:m:10",
+      "maddeKind": "madde",
+      "maddeNo": "10",
+      "heading": "Madde 10",
+      "text": "(1) Alt işverenlik sözleşmesinde;\n a) Asıl işveren ile alt işverenin işyeri unvanı ve adresi,\n b) Asıl işveren ile alt işverenin tüzel kişiliği ya da tüzel kişiliği olmayan kurum ve kuruluş olması hâlinde işveren vekillerinin adı soyadı ve adresi,\n c) İşyerinde yürütülen asıl işin ne olduğu,\n ç) Alt işverene verilen işin ne olduğu,\n d) Alt işverene asıl işin bir bölümü veriliyor ise; verilen işin işletmenin ve işin gereği ile teknolojik sebeplerle uzmanlık gerektirme koşuluna ilişkin teknik açıklama,\n e) Taraflarca öngörülmüş ise işin başlama ve bitiş tarihleri,\n f) Alt işverenin faaliyetlerini işyerinin hangi bölümünde gerçekleştireceği,\n g) Kanunun 2 nci maddesinde yer alan; asıl işverenin, alt işverenin işçilerine karşı o işyeriyle ilgili olarak Kanundan, iş sözleşmesinden veya alt işverenin taraf olduğu toplu iş sözleşmesinden doğan yükümlülüklerinden, alt işveren ile birlikte sorumlu olacağı,\n ğ) Alt işverenlik sözleşmesinin yapılmasından önce asıl işveren tarafından çalıştırılan işçilerin alt işveren tarafından işe alınması hâlinde, bu işçilerin haklarının kısıtlanamayacağı,\n h) Alt işverene verilen işin taraflar açısından yürütülme esasları,\n ı) Asıl işveren veya vekili ile alt işveren veya vekilinin imzası,\n hususlarına yer verilir.\n (2) Bir işyerinde, işletmenin ve işin gereği ile teknolojik sebeplerle uzmanlık gerektiren bir işin alt işverene verilmesi hâlinde, alt işverenin uzmanlığını belgelendirmesi amacıyla sözleşme kapsamındaki işe uygun; iş ekipmanı listesi, iş bitirme belgesi, operatör ve teknik eleman sertifikaları sözleşmeye eklenir.",
+      "preview": "(1) Alt işverenlik sözleşmesinde; a) Asıl işveren ile alt işverenin işyeri unvanı ve adresi, b) Asıl işveren ile alt işverenin tüzel kişiliğ…",
+      "kitap": null,
+      "kisim": null,
+      "bolum": "ÜÇÜNCÜ BÖLÜM · Alt İşverenlik Sözleşmesi, Asıl İşin Bölünmesi ve Muvazaanın İncelenmesi",
+      "ayirim": null,
+      "maddeBaslik": "Alt işverenlik sözleşmesinde yer alması gereken hususlar",
+      "sectionPath": [
+        "ÜÇÜNCÜ BÖLÜM · Alt İşverenlik Sözleşmesi, Asıl İşin Bölünmesi ve Muvazaanın İncelenmesi",
+        "Alt işverenlik sözleşmesinde yer alması gereken hususlar"
+      ]
+    },
+    {
+      "id": "yonetmelik:12459:m:11",
+      "maddeKind": "madde",
+      "maddeNo": "11",
+      "heading": "Madde 11",
+      "text": "(1) İşletmenin ve işin gereği ile teknolojik sebeplerle uzmanlık gerektiren iş, mal veya hizmet üretiminin zorunlu unsurlarından olan, işin niteliği gereği işletmenin kendi uzmanlığı dışında ayrı bir uzmanlık gerektiren iştir.\n (2) İşverenin kendi işçileri ve yönetim organizasyonu ile mal veya hizmet üretimi yapması esastır.\n (3) Ancak asıl iş;\n a) İşletmenin ve işin gereği,\n b) Teknolojik sebeplerle uzmanlık gerektirmesi,\n şartlarının birlikte gerçekleşmesi hâlinde bölünerek alt işverene verilebilir.\n (4) Asıl işin bir bölümünde iş alan alt işveren, üstlendiği işi bölerek bir başka işverene veremez.",
+      "preview": "(1) İşletmenin ve işin gereği ile teknolojik sebeplerle uzmanlık gerektiren iş, mal veya hizmet üretiminin zorunlu unsurlarından olan, işin…",
+      "kitap": null,
+      "kisim": null,
+      "bolum": "ÜÇÜNCÜ BÖLÜM · Alt İşverenlik Sözleşmesi, Asıl İşin Bölünmesi ve Muvazaanın İncelenmesi",
+      "ayirim": null,
+      "maddeBaslik": "İşletmenin ve işin gereği ile teknolojik sebeplerle uzmanlık gerektiren iş",
+      "sectionPath": [
+        "ÜÇÜNCÜ BÖLÜM · Alt İşverenlik Sözleşmesi, Asıl İşin Bölünmesi ve Muvazaanın İncelenmesi",
+        "İşletmenin ve işin gereği ile teknolojik sebeplerle uzmanlık gerektiren iş"
+      ]
+    },
+    {
+      "id": "yonetmelik:12459:m:12",
+      "maddeKind": "madde",
+      "maddeNo": "12",
+      "heading": "Madde 12",
+      "text": "(1) 7 nci madde uyarınca tescili yapılan işyeri için 6 ncı maddede belirtilen belgelerde Kanuna aykırılık veya muvazaa kanaatini oluşturan delillerin bulunması hâlinde, söz konusu belgeler gerekçesi ile birlikte incelenmek üzere bölge müdürlüğünce iş teftiş grup başkanlığına intikal ettirilir.\n (2) Muvazaanın incelenmesinde özellikle;\n a) Alt işverene verilen işin, işyerinde asıl işveren tarafından yürütülen mal veya hizmet üretimine ilişkin asıl işin yardımcı işlerinden olup olmadığı,\n b) Alt işverene verilen işin işletmenin ve işin gereği ile teknolojik nedenlerle uzmanlık gerektiren bir iş olup olmadığı,\n c) Alt işverenin daha önce o işyerinde çalıştırılan bir kişi olup olmadığı,\n ç) Alt işverenin işe uygun yeterli ekipman ile tecrübeye sahip olup olmadığı,\n d) İstihdam edeceği işçilerin niteliklerinin yapılacak işe uygun olup olmadığı,\n e) Alt işverene verilen işte asıl işveren adına koordinasyon ve denetimle görevlendirilenlerden başka asıl işverenin işçisinin çalışıp çalışmadığı,\n f) Yapılan alt işverenlik sözleşmesinin iş hukukunun öngördüğü kamusal yükümlülüklerden kaçınmayı amaçlayıp amaçlamadığı,\n g) Yapılan alt işverenlik sözleşmesinin işçilerin iş sözleşmesi, toplu iş sözleşmesi yahut mevzuattan kaynaklanan bireysel veya kolektif haklarını kısıtlamaya ya da ortadan kaldırmaya yönelik yapılıp yapılmadığı,\n hususları göz önünde bulundurulur.",
+      "preview": "(1) 7 nci madde uyarınca tescili yapılan işyeri için 6 ncı maddede belirtilen belgelerde Kanuna aykırılık veya muvazaa kanaatini oluşturan d…",
+      "kitap": null,
+      "kisim": null,
+      "bolum": "ÜÇÜNCÜ BÖLÜM · Alt İşverenlik Sözleşmesi, Asıl İşin Bölünmesi ve Muvazaanın İncelenmesi",
+      "ayirim": null,
+      "maddeBaslik": "Muvazaanın incelenmesi",
+      "sectionPath": [
+        "ÜÇÜNCÜ BÖLÜM · Alt İşverenlik Sözleşmesi, Asıl İşin Bölünmesi ve Muvazaanın İncelenmesi",
+        "Muvazaanın incelenmesi"
+      ]
+    },
+    {
+      "id": "yonetmelik:12459:m:13",
+      "maddeKind": "madde",
+      "maddeNo": "13",
+      "heading": "Madde 13",
+      "text": "(Değişik:RG-25/8/2017-30165)\n (1) Asıl işveren - alt işveren ilişkisinin iş müfettişlerince incelenmesi sonucunda muvazaanın tespitine ilişkin gerekçeli müfettiş raporu ve tutulan tutanaklar Çalışma ve İş Kurumu İl Müdürlüğünce işverenlere tebliğ edilir. Tebliğ tarihinden itibaren otuz işgünü içinde işverenlerce yetkili iş mahkemesine itiraz edilebilir. İtiraz üzerine görülecek olan dava basit yargılama usulüne göre dört ay içinde sonuçlandırılır. Mahkemece verilen kararın temyizi hâlinde Yargıtay altı ay içinde kesin olarak karar verir. Kamu idarelerince bu raporlara karşı yetkili iş mahkemelerine itiraz edilmesi ve mahkeme kararlarına karşı diğer kanun yollarına başvurulması zorunludur.\n (2) Rapora otuz iş günü içinde itiraz edilmemiş veya mahkeme muvazaalı işlemin tespitini onamış ise tescil işlemi iptal edilir ve alt işverenin işçileri başlangıçtan itibaren asıl işverenin işçileri sayılır.",
+      "preview": "(Değişik:RG-25/8/2017-30165) (1) Asıl işveren - alt işveren ilişkisinin iş müfettişlerince incelenmesi sonucunda muvazaanın tespitine ilişki…",
+      "kitap": null,
+      "kisim": null,
+      "bolum": "ÜÇÜNCÜ BÖLÜM · Alt İşverenlik Sözleşmesi, Asıl İşin Bölünmesi ve Muvazaanın İncelenmesi",
+      "ayirim": null,
+      "maddeBaslik": "İnceleme sonucu yapılacak işlemler (1)",
+      "sectionPath": [
+        "ÜÇÜNCÜ BÖLÜM · Alt İşverenlik Sözleşmesi, Asıl İşin Bölünmesi ve Muvazaanın İncelenmesi",
+        "İnceleme sonucu yapılacak işlemler (1)"
+      ]
+    },
+    {
+      "id": "yonetmelik:12459:m:gecici:1",
+      "maddeKind": "gecici",
+      "maddeNo": "1",
+      "heading": "Geçici Madde 1",
+      "text": "(1) Bu Yönetmeliğin yürürlüğe girdiği tarihten önce kurulan ve hâlen devam eden asıl işveren-alt işveren ilişkisinde 10 uncu maddenin ikinci fıkrasında belirtilen belgeler aranmaz.",
+      "preview": "(1) Bu Yönetmeliğin yürürlüğe girdiği tarihten önce kurulan ve hâlen devam eden asıl işveren-alt işveren ilişkisinde 10 uncu maddenin ikinci…",
+      "kitap": null,
+      "kisim": null,
+      "bolum": "DÖRDÜNCÜ BÖLÜM · Çeşitli ve Son Hükümler",
+      "ayirim": null,
+      "maddeBaslik": "Geçiş hükmü",
+      "sectionPath": [
+        "DÖRDÜNCÜ BÖLÜM · Çeşitli ve Son Hükümler",
+        "Geçiş hükmü"
+      ]
+    },
+    {
+      "id": "yonetmelik:12459:m:14",
+      "maddeKind": "madde",
+      "maddeNo": "14",
+      "heading": "Madde 14",
+      "text": "(1) Bu Yönetmelik yayımı tarihinde yürürlüğe girer.",
+      "preview": "(1) Bu Yönetmelik yayımı tarihinde yürürlüğe girer.",
+      "kitap": null,
+      "kisim": null,
+      "bolum": "DÖRDÜNCÜ BÖLÜM · Çeşitli ve Son Hükümler",
+      "ayirim": null,
+      "maddeBaslik": "Yürürlük",
+      "sectionPath": [
+        "DÖRDÜNCÜ BÖLÜM · Çeşitli ve Son Hükümler",
+        "Yürürlük"
+      ]
+    },
+    {
+      "id": "yonetmelik:12459:m:15",
+      "maddeKind": "madde",
+      "maddeNo": "15",
+      "heading": "Madde 15",
+      "text": "(1) Bu Yönetmelik hükümlerini Çalışma ve Sosyal Güvenlik Bakanı yürütür.\n\n Yönetmeliğin Yayımlandığı Resmî Gazete’nin\n\n Tarihi\n Sayısı\n\n 27/9/2008\n 27010\n\n Yönetmelikte Değişiklik Yapan Yönetmeliklerin Yayımlandığı Resmî Gazetelerin\n\n Tarihi\n Sayısı\n\n 1\n 25/8/2017\n 30165\n\n 2\n 6/7/2021\n 31533\n\n 3",
+      "preview": "(1) Bu Yönetmelik hükümlerini Çalışma ve Sosyal Güvenlik Bakanı yürütür. Yönetmeliğin Yayımlandığı Resmî Gazete’nin Tarihi Sayısı 27/9/2008…",
+      "kitap": null,
+      "kisim": null,
+      "bolum": "DÖRDÜNCÜ BÖLÜM · Çeşitli ve Son Hükümler",
+      "ayirim": null,
+      "maddeBaslik": "Yürütme",
+      "sectionPath": [
+        "DÖRDÜNCÜ BÖLÜM · Çeşitli ve Son Hükümler",
+        "Yürütme"
+      ]
+    }
+  ]
+}

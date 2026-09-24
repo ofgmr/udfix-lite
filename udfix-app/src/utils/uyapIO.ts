@@ -12,6 +12,7 @@ import { flushAllHfEditors } from './hfEditorFlushRegistry';
 import { useHeaderFooterStore } from '../stores/useHeaderFooterStore';
 import { compileHfColumnsForUdfExport, headerFooterSectionHasExportableContent } from './udfHfExportColumns';
 import { getPaginationMargins } from './paginationMarginSync';
+import { stripUyapVerificationFromTipTapJson } from './uyapVerification';
 import {
     buildPageFormatFromMargins,
     buildUyapContentXml,
@@ -562,7 +563,7 @@ export const UyapIO = {
         footerText: string = '',
         options?: UdfExportOptions
     ): Promise<Uint8Array> {
-        const json = editor.getJSON();
+        const json = stripUyapVerificationFromTipTapJson(editor.getJSON());
         const margins = getPaginationMargins(editor);
         const merged: UdfExportOptions = {
             ...options,

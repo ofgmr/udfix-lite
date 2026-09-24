@@ -296,6 +296,9 @@ function fieldGroupHasVisibleData(
         const fieldName = field.$.fieldName ? String(field.$.fieldName) : '';
         if (!fieldName || isVirtualFieldName(fieldName)) continue;
         if (fieldName === 'VEKİLİ' && field.$.fieldType === '2') continue;
+        // Filled UYAP minutes store values only in CDATA offsets (no <data>).
+        // Those groups are not empty templates; hiding them drops the typed text.
+        if (!ctx.hasDataSection && getLength(field) > 0) return true;
         const value = lookupUyapFieldValue(ctx, paragraphGroup, groupName, fieldName);
         if (value != null && value.trim().length > 0) return true;
     }

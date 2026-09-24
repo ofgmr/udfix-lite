@@ -92,6 +92,52 @@ export async function pastePlainMatchingDestination(editor: Editor): Promise<boo
     return editor.chain().focus().insertContent(text).run();
 }
 
+async function writeClipboardHtml(html: string, text: string): Promise<void> {
+    if (typeof ClipboardItem !== 'undefined' && navigator.clipboard?.write) {
+        try {
+            await navigator.clipboard.write([
+                new ClipboardItem({
+                    'text/html': new Blob([html], { type: 'text/html' }),
+                    'text/plain': new Blob([text], { type: 'text/plain' }),
+                }),
+            ]);
+            return;
+        } catch {
+            // Some runtimes reject text/html clipboard items; plain text still copies.
+        }
+    }
+    await navigator.clipboard.writeText(text);
+}
+
+/** Copy a document range with the same HTML + plain text ProseMirror would put on the clipboard. */
+export async function copyEditorRange(editor: Editor, from: number, to: number): Promise<boolean> {
+    if (from === to) return false;
+    const slice = editor.state.doc.slice(from, to);
+    const { dom, text } = editor.view.serializeForClipboard(slice);
+    await writeClipboardHtml(dom.innerHTML, text);
+    return true;
+}
+
+/** Copy the range, then delete it. */
+export async function cutEditorRange(editor: Editor, from: number, to: number): Promise<boolean> {
+    const copied = await copyEditorRange(editor, from, to);
+    if (!copied) return false;
+    const deleted = editor.chain().focus().deleteRange({ from, to }).run();
+    return deleted;
+}
+
+/** Serialize a document range to Markdown and write it as plain text. */
+export async function copyEditorRangeAsMarkdown(editor: Editor, from: number, to: number): Promise<boolean> {
+    if (from === to) return false;
+    const fragment = editor.state.doc.cut(from, to);
+    const markdown = editor.markdown
+        ? editor.markdown.serialize(fragment.toJSON()).trim()
+        : editor.state.doc.textBetween(from, to, '\n\n').trim();
+    if (!markdown) return false;
+    await navigator.clipboard.writeText(markdown);
+    return true;
+}
+
 /**
  * Interpret clipboard text as Markdown and insert at the cursor via @tiptap/markdown.
  */

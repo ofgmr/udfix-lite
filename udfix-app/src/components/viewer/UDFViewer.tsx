@@ -6,7 +6,7 @@ import { UyapIO } from '../../utils/uyapIO';
 import { buildUyapVerificationMeta } from '../../utils/uyapVerification';
 import { syncUdfSignatureMetadataFromEntries } from '../../utils/udfSignatureFromEntries';
 import { useSearchHighlight } from '../../hooks/useSearchHighlight';
-import { UDF_CONTENT_PRINT_CSS } from '../../utils/udfPrintHtml';
+import { UDF_CONTENT_PRINT_CSS, UDF_PRINT_PAGE_CSS } from '../../utils/udfPrintHtml';
 
 interface UDFViewerProps {
     fileUrl: string;
@@ -69,14 +69,16 @@ export const UDFViewer: React.FC<UDFViewerProps> = ({
     if (error) return <div className="flex justify-center items-center h-full text-red-500">{error}</div>;
 
     return (
-        <div className="h-full w-full bg-[#eeeeee] overflow-y-auto flex custom-scrollbar">
-            <div className="w-full max-w-4xl min-h-full text-black p-7 md:p-7">
-                <style>{UDF_CONTENT_PRINT_CSS}</style>
-                <div
-                    ref={contentRef}
-                    className="udf-content"
-                    dangerouslySetInnerHTML={{ __html: htmlContent || "" }}
-                />
+        <div className="h-full w-full bg-[#eeeeee] overflow-y-auto custom-scrollbar">
+            <style>{`${UDF_PRINT_PAGE_CSS}${UDF_CONTENT_PRINT_CSS}`}</style>
+            <div className="flex justify-center">
+                <div className="udf-print-page text-black">
+                    <div
+                        ref={contentRef}
+                        className="udf-content"
+                        dangerouslySetInnerHTML={{ __html: htmlContent || "" }}
+                    />
+                </div>
             </div>
         </div>
     );

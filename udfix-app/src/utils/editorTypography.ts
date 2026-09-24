@@ -1,5 +1,6 @@
 import type { Editor } from '@tiptap/react';
 import type { ListStyleType } from '../extensions/ExtendedOrderedList';
+import { getSelectionFontFamilyState } from './fontFamilyResolve';
 
 export type LayoutBlockName = 'paragraph' | 'heading';
 
@@ -93,19 +94,21 @@ export function captureTypographyPayload(editor: Editor): EditorTypographyPayloa
         fontSize?: string;
         color?: string;
     };
+    const fontState = getSelectionFontFamilyState(editor);
+    const fontFamily = fontState.font?.stack ?? fontState.raw ?? ts.fontFamily ?? null;
     const block = getActiveLayoutBlock(editor);
     const attrs = block?.attrs ?? {};
     return {
-        fontFamily: ts.fontFamily ?? null,
+        fontFamily,
         fontSize: ts.fontSize ?? null,
         lineHeight: (attrs.lineHeight as string) ?? null,
         marginTop: (attrs.marginTop as string) ?? null,
         marginBottom: (attrs.marginBottom as string) ?? null,
         textAlign: (attrs.textAlign as string) ?? null,
         color: ts.color ?? null,
-        bold: $from.marks().some((m) => m.type.name === 'bold'),
-        italic: $from.marks().some((m) => m.type.name === 'italic'),
-        underline: $from.marks().some((m) => m.type.name === 'underline'),
+        bold: editor.isActive('bold'),
+        italic: editor.isActive('italic'),
+        underline: editor.isActive('underline'),
     };
 }
 

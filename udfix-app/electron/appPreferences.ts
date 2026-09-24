@@ -36,7 +36,7 @@ const DEFAULT_PREFERENCES: AppPreferences = {
     autosaveDebounceMs: 2000,
     workspaceRoot: null,
     workspaceRecents: [],
-    telemetryConsent: 'opted_out',
+    telemetryConsent: 'unknown',
     menuBarTrayEnabled: true,
     udfDefaultHandlerEnabled: false,
     udfDefaultHandlerPromptDismissed: false,
@@ -78,7 +78,9 @@ export function loadAppPreferences(): AppPreferences {
                 ? 'opted_out'
                 : parsed.telemetryConsent === 'opted_in'
                   ? 'opted_in'
-                  : DEFAULT_PREFERENCES.telemetryConsent;
+                  : parsed.telemetryConsent === 'unknown'
+                    ? 'unknown'
+                    : DEFAULT_PREFERENCES.telemetryConsent;
 
         return {
             showRuler: parsed.showRuler !== false,

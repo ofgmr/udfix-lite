@@ -21,7 +21,8 @@ export const SHORTCUT_MENU_GROUPS: ShortcutMenuGroup[] = [
         label: 'Uygulama',
         rows: [
             { actionTr: 'Komut paleti (arama)', mod: true, key: 'K' },
-            { actionTr: 'Komut paleti — şablonlar', mod: true, shift: true, key: 'K' },
+            { actionTr: 'Komut paleti — şablonlar', mod: true, shift: true, key: 'S' },
+            { actionTr: 'Komut paleti — Katır', mod: true, shift: true, key: 'K' },
             { actionTr: 'Komut paleti — Yapılacaklar', mod: true, shift: true, key: 'T' },
             { actionTr: 'Yeni belge sekmesi', mod: true, key: 'N' },
             { actionTr: 'Yeni not', mod: true, shift: true, key: 'N' },
@@ -31,7 +32,7 @@ export const SHORTCUT_MENU_GROUPS: ShortcutMenuGroup[] = [
             { actionTr: 'Yorumlar paneli', mod: true, shift: true, key: 'C' },
             { actionTr: 'Zen modu', mod: true, shift: true, key: 'M' },
             { actionTr: 'UDF kaydet', mod: true, key: 'S' },
-            { actionTr: 'UDF farklı kaydet', mod: true, shift: true, key: 'S' },
+            { actionTr: 'UDF farklı kaydet', mod: true, alt: true, key: 'S' },
             { actionTr: 'Dosyalar araması', mod: true, alt: true, key: '1' },
             { actionTr: 'Taraflar araması', mod: true, alt: true, key: '2' },
             { actionTr: 'Bilgi Bankası araması', mod: true, alt: true, key: '3' },

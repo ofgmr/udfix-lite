@@ -46,6 +46,9 @@ import {
 import { truncateMiddle } from '../../utils/truncateMiddle';
 import { popOutDockviewPanel } from '../../utils/dockviewPopout';
 import type { LayoutDockviewApi } from '../../types/dockviewLayout';
+import { formatShortcutKeys } from '../../shortcuts/format';
+import { getRegistryEntry } from '../../shortcuts/registry';
+import { getUdfixEditorForDocument } from '../../utils/udfixEditorDocumentRegistry';
 
 const TAB_TITLE_MAX_LENGTH = 61;
 
@@ -166,6 +169,11 @@ export const DockviewTab = (props: DockviewTabProps) => {
         const apiWithParams = api as { getParameters?: () => Record<string, unknown> };
         const params = typeof apiWithParams.getParameters === 'function' ? apiWithParams.getParameters() : {};
         return getUdfixDocumentIdForPanel(api.id, activeDocument, params);
+    };
+
+    const getPanelEditor = () => {
+        const documentId = getPanelDocumentId();
+        return documentId ? getUdfixEditorForDocument(documentId) : null;
     };
 
     useEffect(() => {
@@ -676,7 +684,7 @@ export const DockviewTab = (props: DockviewTabProps) => {
                                 </div>
                             </TooltipTrigger>
                             <TooltipContent portalContainer={portalContainer}>
-                                <p>UDF Kaydet (⌘S)</p>
+                                <p>UDF Kaydet ({formatShortcutKeys(getRegistryEntry('udf-save')!.combo)})</p>
                             </TooltipContent>
                         </Tooltip>
 
@@ -696,7 +704,7 @@ export const DockviewTab = (props: DockviewTabProps) => {
                                     </div>
                                 </TooltipTrigger>
                                 <TooltipContent portalContainer={portalContainer}>
-                                    <p>Farklı Kaydet (⌘⇧S)</p>
+                                    <p>Farklı Kaydet ({formatShortcutKeys(getRegistryEntry('udf-save-as')!.combo)})</p>
                                 </TooltipContent>
                             </Tooltip>
                         ) : null}
@@ -710,9 +718,10 @@ export const DockviewTab = (props: DockviewTabProps) => {
                                         className="cursor-pointer transition-colors text-muted-foreground hover:text-primary hover:opacity-100 flex"
                                         onClick={(e) => {
                                             e.stopPropagation();
-                                            if (editor) {
+                                            const panelEditor = getPanelEditor();
+                                            if (panelEditor) {
                                                 exportToPDF(
-                                                    editor,
+                                                    panelEditor,
                                                     sanitizeExportBaseName(title),
                                                     getPanelDocumentId(),
                                                 );
@@ -735,9 +744,10 @@ export const DockviewTab = (props: DockviewTabProps) => {
                                         className="cursor-pointer transition-colors text-muted-foreground hover:text-primary hover:opacity-100 flex"
                                         onClick={(e) => {
                                             e.stopPropagation();
-                                            if (editor) {
+                                            const panelEditor = getPanelEditor();
+                                            if (panelEditor) {
                                                 exportToPDF(
-                                                    editor,
+                                                    panelEditor,
                                                     sanitizeExportBaseName(title),
                                                     getPanelDocumentId(),
                                                 );

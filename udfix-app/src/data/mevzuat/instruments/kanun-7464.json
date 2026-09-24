@@ -1,0 +1,332 @@
+{
+  "id": "kanun:7464",
+  "kind": "kanun",
+  "no": "7464",
+  "title": "Konutların Turizm Amaçlı Kiralanması Hakkında Kanun",
+  "shortName": "Turizm Kiralaması Kanunu",
+  "aliases": [
+    "Turizm Kiralaması Kanunu",
+    "Konutların Turizm Amaçlı Kiralanması Hakkında Kanun",
+    "7464"
+  ],
+  "tur": 1,
+  "tertip": 5,
+  "sourceUrl": "https://www.mevzuat.gov.tr/mevzuat?MevzuatNo=7464&MevzuatTur=1&MevzuatTertip=5",
+  "kabulTarihi": "25/10/2023",
+  "maddeCount": 19,
+  "maddeler": [
+    {
+      "id": "kanun:7464:m:1",
+      "maddeKind": "madde",
+      "maddeNo": "1",
+      "heading": "Madde 1",
+      "text": "(1) Bu Kanunun amacı; konutların gerçek ve tüzel kişilere, turizm amaçlı kiralanmasına ilişkin usul ve esasları belirlemektir.\n (2) Bu Kanun; konutların turizm amaçlı kiralanmasına ilişkin genel esaslara, izin belgesi düzenlenmesine, idari yaptırımlara ve turizm amaçlı kiralanan konutların tabi olacağı mevzuata ilişkin hükümleri kapsar.\n (3) Tek seferde yüz günden fazla süreli yapılan kiralamalar bu Kanunun kapsamı dışındadır.",
+      "preview": "(1) Bu Kanunun amacı; konutların gerçek ve tüzel kişilere, turizm amaçlı kiralanmasına ilişkin usul ve esasları belirlemektir. (2) Bu Kanun;…",
+      "kitap": null,
+      "kisim": null,
+      "bolum": "BİRİNCİ BÖLÜM · Amaç, Kapsam ve Tanımlar",
+      "ayirim": null,
+      "maddeBaslik": "Amaç ve kapsam",
+      "sectionPath": [
+        "BİRİNCİ BÖLÜM · Amaç, Kapsam ve Tanımlar",
+        "Amaç ve kapsam"
+      ]
+    },
+    {
+      "id": "kanun:7464:m:2",
+      "maddeKind": "madde",
+      "maddeNo": "2",
+      "heading": "Madde 2",
+      "text": "(1) Bu Kanunda geçen;\n a) Bakan: Kültür ve Turizm Bakanını,\n b) Bakanlık: Kültür ve Turizm Bakanlığını,\n c) İzin belgesi: Kiraya verenin konutunu gerçek veya tüzel kişilere en fazla yüz gün süreyle kiralamasına izin verilmesi amacıyla düzenlenen turizm amaçlı kiralama izin belgesini,\n ç) İzin belgesi sahibi: Adına izin belgesi düzenlenerek konutu kiraya veren kişiyi,\n d) Kiraya veren: Konutun mülkiyetine sahip olan veya konutu intifa hakkı ya da üst hakkı tesis edilmek suretiyle tasarrufunda bulunduran gerçek veya tüzel kişiyi,\n e) Konut: Tapu sicilinde konut amaçlı kayıtlı olan veya üzerinde konut amaçlı kat irtifakı ya da kat mülkiyeti bulunan her türlü bağımsız bölümü,\n f) Kullanıcı: Kiraya verenle turizm amaçlı kiralama sözleşmesi yapan gerçek veya tüzel kişileri,\n g) Turizm amaçlı kiralama: Konutların kullanıcılara en fazla yüz gün süreyle her türlü amaçla kiralanmasını,\n ğ) Valilik: Turizm amaçlı kiralanan konutun bulunduğu ilin valiliğini,\n ifade eder.",
+      "preview": "(1) Bu Kanunda geçen; a) Bakan: Kültür ve Turizm Bakanını, b) Bakanlık: Kültür ve Turizm Bakanlığını, c) İzin belgesi: Kiraya verenin konutu…",
+      "kitap": null,
+      "kisim": null,
+      "bolum": "BİRİNCİ BÖLÜM · Amaç, Kapsam ve Tanımlar",
+      "ayirim": null,
+      "maddeBaslik": "Tanımlar",
+      "sectionPath": [
+        "BİRİNCİ BÖLÜM · Amaç, Kapsam ve Tanımlar",
+        "Tanımlar"
+      ]
+    },
+    {
+      "id": "kanun:7464:m:3",
+      "maddeKind": "madde",
+      "maddeNo": "3",
+      "heading": "Madde 3",
+      "text": "(1) Konutların turizm amaçlı kiralanabilmesi için, turizm amaçlı kiralama sözleşmesi yapılmadan önce izin belgesi alınması zorunludur. Ayrıca, Bakanlıkça nitelikleri belirlenen plaket, turizm amaçlı kiralama yapılan konutun girişine asılır.\n (2) İzin belgesi vermeye Bakanlık yetkilidir. Bakanlık bu yetkisini valilik vasıtasıyla da kullanabilir. İzin belgesi ve plaket ücretleri Bakanlıkça belirlenir.\n (3) İzin belgesi başvurularında, turizm amaçlı kiralama faaliyeti yürütülmesinin uygun görüldüğüne ilişkin izin belgesine konu bağımsız bölümün bulunduğu binanın tüm kat malikleri tarafından oy birliği ile alınan kararın ibrazı zorunludur. Birden fazla bağımsız bölüm içeren binalardan oluşan konut sitelerinde sadece turizm amaçlı kiralama yapılan konutun bulunduğu bina için bu fıkra hükümleri aranır, izin belgesi örneği site yönetimine iletilir.\n (4) Üçten fazla bağımsız bölümden oluşan binalarda en fazla yüzde yirmi beşi için aynı kiraya veren adına izin belgesi düzenlenebilir. Aynı kiraya veren adına aynı binada izin belgesi düzenlemesine konu bağımsız bölüm sayısının beşi geçmesi durumunda, başvuruda;\n a) İşyeri açma ve çalışma ruhsatının,\n b) Başvuruya konu binanın, birden fazla bağımsız bölüm içeren binalardan oluşan konut sitelerinde yer alması durumunda, üçüncü fıkradaki hükme ilave olarak, tüm kat malikleri tarafından oy birliği ile alınan kararın,\n ibrazı zorunludur.\n (5) İzin belgesini alma yükümlülüğü kiraya verene aittir. Kiraya veren haricinde turizm amaçlı kiralama faaliyetinin yürütülmesi halinde bu kiralamalar, münhasıran 14/9/1972 tarihli ve 1618 sayılı Seyahat Acentaları ve Seyahat Acentaları Birliği Kanunu uyarınca belgelendirilmiş (A) grubu seyahat acentaları aracılığıyla yapılabilir.\n (6) İzin belgesi sahibi, gerçek kişi ise ölüm tarihinden itibaren üç ay içerisinde mirasçılar tarafından başvuruda bulunulmaması veya tüzel kişi ise tüzel kişiliğinin sona ermesi durumunda izin belgesi geçersiz hale gelir. Ancak kullanıcıların hakları sözleşme süresi sonuna kadar devam eder.\n (7) İzin belgesi sahibinden kiralanan konutun kullanıcılar tarafından kendi nam ve hesabına üçüncü kişilere kiralanması veya kendi adına mesken olarak kullanılmak amacıyla kiralanan konutun kiracısı tarafından kendi nam ve hesabına turizm amaçlı olarak üçüncü kişilere kiralanması yasaktır. Ancak kullanıcı tüzel kişilerin turizm amaçlı kiraladıkları konutu, kendi personeline kullandırması bu fıkra kapsamı dışındadır.\n (8) Turizm amaçlı kiralama izin belgesi verilen konutlar hakkında 26/6/1973 tarihli ve 1774 sayılı Kimlik Bildirme Kanunu hükümleri uygulanır. 1774 sayılı Kanun kapsamında bildirim yükümlülüğü konusunda izin belgesi sahibi sorumlu kişi kabul edilir.\n (9) İzin belgesi sahibi ile kullanıcı arasında yapılan sözleşme, sözleşmede belirtilen sürenin sonunda sona erer.\n (10) 23/6/1965 tarihli ve 634 sayılı Kat Mülkiyeti Kanununun 28 inci maddesi uyarınca düzenlenen yönetim planında kısa süreli kiralama faaliyetine izin verildiğine dair hüküm bulunan; resepsiyon, güvenlik ve günlük temizlik servisi mekânlarının bulunduğu; sağlık hizmetleri, kuru temizleme, çamaşırhane, taşıma, yemek ve alışveriş servisi hizmetleri ile spor salonu ve yüzme havuzu gibi hizmetlerin verilebildiği birden fazla bağımsız bölümü ihtiva eden yüksek nitelikli konutlara, üçüncü ve dördüncü fıkralardaki şartlar aranmaksızın izin belgesi düzenlenebilir. Yüksek nitelikli konutların kiralama faaliyetleri konut işletmesi eliyle de yapılabilir. Bu durumda izin belgesi konut işletmesini yapan şirket adına düzenlenir. Bu şekilde yapılan kiralama faaliyeti, yedinci fıkranın kapsamı dışındadır.",
+      "preview": "(1) Konutların turizm amaçlı kiralanabilmesi için, turizm amaçlı kiralama sözleşmesi yapılmadan önce izin belgesi alınması zorunludur. Ayrıc…",
+      "kitap": null,
+      "kisim": null,
+      "bolum": "İKİNCİ BÖLÜM · İzin Belgesinin Niteliği ve Uygulanacak İdari Yaptırımlar",
+      "ayirim": null,
+      "maddeBaslik": "İzin belgesinin niteliği",
+      "sectionPath": [
+        "İKİNCİ BÖLÜM · İzin Belgesinin Niteliği ve Uygulanacak İdari Yaptırımlar",
+        "İzin belgesinin niteliği"
+      ]
+    },
+    {
+      "id": "kanun:7464:m:4",
+      "maddeKind": "madde",
+      "maddeNo": "4",
+      "heading": "Madde 4",
+      "text": "(1) İzinsiz kiralama faaliyetinin tespit edilmesi halinde uygulanacak idari yaptırımlar aşağıda belirlenmiştir:\n a) İzin belgesi bulunmaksızın turizm amaçlı kiralanan konutları kiraya verenlere, kiralama yapılan her bir konut için yüz bin Türk lirası idari para cezası uygulanır ve izin belgesi alarak faaliyette bulunabilmesi için on beş gün süre verilir.\n b) Verilen on beş günlük süre sonunda izin belgesi alınmaksızın turizm amaçlı kiralama faaliyetine devam edenlere beş yüz bin Türk lirası idari para cezası uygulanır ve izin belgesi alarak faaliyette bulunabilmesi için bir kez daha on beş gün süre verilir.\n c) İzin belgesi sahibinden kiraladığı turizm amaçlı konutu kendi nam ve hesabına üçüncü kişilere kiraya verenler hakkında her bir sözleşme için yüz bin Türk lirası idari para cezası uygulanır.\n ç) Kendi adına mesken olarak kullanmak amacıyla kiraladığı konutu kendi nam ve hesabına turizm amaçlı kiraya verenler hakkında, her bir sözleşme için yüz bin Türk lirası idari para cezası uygulanır.\n d) İzin belgesi olmayan konutların turizm amaçlı kiralanmasına aracılık edenler hakkında, her bir sözleşme için yüz bin Türk lirası idari para cezası uygulanır.\n e) Bu fıkra kapsamına giren faaliyetlerin elektronik ticaretine ve tanıtımına imkân sağlayan ve Bakanlık tarafından yapılan uyarıya rağmen yirmi dört saat içinde içeriği çıkarmayan, 23/10/2014 tarihli ve 6563 sayılı Elektronik Ticaretin Düzenlenmesi Hakkında Kanunda tanımlanan aracı hizmet sağlayıcıları hakkında, her bir konut için yüz bin Türk lirası idari para cezası uygulanır. İhlalin gerçekleştiği yayın, kısım, bölüm ile ilgili olarak içeriğin çıkarılmasına ve/veya erişimin engellenmesine karar verilir ve bu karar uygulanmak üzere Erişim Sağlayıcıları Birliğine gönderilir. Ayrıca, bu karara uyulmaması halinde aracı hizmet sağlayıcılar hakkında her bir konut için yüz bin Türk lirası idari para cezası uygulanır. İçeriğin çıkarılması ve/veya erişimin engellenmesi kararına karşı sulh ceza hâkimliğine başvurulabilir. Sulh ceza hâkimliğince verilen karara karşı 4/12/2004 tarihli ve 5271 sayılı Ceza Muhakemesi Kanunu hükümlerine göre itiraz edilebilir.\n f) (a) ve (b) bentleri hükümlerinin uygulanmasına rağmen, izin belgesi bulunmaksızın turizm amaçlı kiralama faaliyetlerine devam edenler hakkında, bir milyon Türk lirası idari para cezası uygulanır.\n g) Her defasında yüz günden fazla süreli kira sözleşmesi yapmasına rağmen, ilk sözleşme tarihinden itibaren bir yıl içerisinde aynı konutu dört defadan fazla kiraya verenler hakkında, bir milyon Türk lirası idari para cezası uygulanır.\n (2) İzin belgesi sahiplerine uygulanacak idari yaptırımlar aşağıda belirlenmiştir:\n a) Bakanlıkça istenilen bilgi ve belgelerin otuz gün içerisinde gönderilmemesi, eksik gönderilmesi, yanıltıcı bilgi veya belge verilmesi durumunda elli bin Türk lirası idari para cezası uygulanır.\n b) Kiraya verenin miras dışında bir hukuki işlemle değişmesi ve bu değişikliğin tapu siciline tescil tarihinden itibaren otuz gün içerisinde bildirilmemesi durumunda elli bin Türk lirası idari para cezası uygulanır.\n c) 11/7/2019 tarihli ve 7183 sayılı Türkiye Turizm Tanıtım ve Geliştirme Ajansı Hakkında Kanun kapsamında turizm payının ödenmesine ilişkin belgenin Bakanlıkça belirlenen süre içerisinde ibraz edilmemesi veya yapılacak denetimlerde bu belgenin sunulmaması halinde elli bin Türk lirası idari para cezası uygulanır.\n ç) Turizm amaçlı kiralama yapılan konutun konum, nitelik ve fiziksel özelliklerine ilişkin yazı, reklam, afiş, broşür, sosyal medya, web sayfası ve benzeri araçlarla kullanıcıya yanıltıcı şekilde tanıtılması veya taahhüt edilen koşulların sağlanmaması veya turizm amaçlı kiralama yapılan konutun sözleşmede belirtilen süreden daha kısa süreyle kullanıcıya tahsis edilmesi hallerinde yüz bin Türk lirası idari para cezası uygulanır.\n d) Turizm amaçlı kiralama yapılan konutun, sözleşmeye uygun olarak kullanıcıya teslim edilmemesi halinde yüz bin Türk lirası idari para cezası uygulanır.\n e) (d) bendinin uygulanmasını takiben verilen on beş günlük süre içinde alınan ödemenin iadesinin yapılmaması durumunda iki yüz bin Türk lirası idari para cezası uygulanır.\n f) Bakanlıkça düzenlenen plaketin turizm amaçlı kiralama yapılan konutların girişine asılmaması halinde yüz bin Türk lirası idari para cezası uygulanır ve asılması için on beş gün süre tanınır.\n g) (f) bendinin uygulanmasına rağmen plaketin on beş gün içerisinde turizm amaçlı kiralama yapılan konutun girişine asılmaması durumunda, beş yüz bin Türk lirası idari para cezası uygulanır.\n ğ) Yapılan denetimde, konutun izin belgesi verilmesine esas nitelikleri taşımadığının tespit edilmesi durumunda yüz bin Türk lirası idari para cezası uygulanır ve aykırılıkların giderilmesi için on beş gün süre verilir.\n (3) (e) bendi hariç olmak üzere birinci fıkrada belirtilen idari yaptırımlar konutun bulunduğu mahallin en büyük mülki idare amiri, birinci fıkranın (e) bendi ve ikinci fıkrada belirtilen idari yaptırımlar ise Bakanlık tarafından tayin edilir ve uygulanır.",
+      "preview": "(1) İzinsiz kiralama faaliyetinin tespit edilmesi halinde uygulanacak idari yaptırımlar aşağıda belirlenmiştir: a) İzin belgesi bulunmaksızı…",
+      "kitap": null,
+      "kisim": null,
+      "bolum": "İKİNCİ BÖLÜM · İzin Belgesinin Niteliği ve Uygulanacak İdari Yaptırımlar",
+      "ayirim": null,
+      "maddeBaslik": "Uygulanacak idari yaptırımlar",
+      "sectionPath": [
+        "İKİNCİ BÖLÜM · İzin Belgesinin Niteliği ve Uygulanacak İdari Yaptırımlar",
+        "Uygulanacak idari yaptırımlar"
+      ]
+    },
+    {
+      "id": "kanun:7464:m:5",
+      "maddeKind": "madde",
+      "maddeNo": "5",
+      "heading": "Madde 5",
+      "text": "(1) İzin belgesi, aşağıdaki durumlarda iptal edilir:\n a) İzin belgesi sahibinin izin belgesinin iptalini talep etmesi.\n b) Turizm amaçlı kiralama faaliyetine son verildiğinin tespit edilmesi.\n c) 4 üncü maddenin ikinci fıkrasının (b) bendinin uygulanmasını takiben verilecek otuz günlük sürede izin belgesinin devri için turizm amaçlı kiralama yapılan konutun yeni kiraya vereni tarafından başvuru yapılmaması veya izin belgesi sahibi değişikliğinin uygun görülmesine rağmen yükümlülüklerin yerine getirilmemesi.\n ç) Turizm amaçlı kiralama yapılan konutun, kamu düzeni, kamu güvenliği ve genel ahlaka aykırı olarak kullanıldığının yetkili kamu kurum ve kuruluşları tarafından bildirilmesi.\n d) 4 üncü maddenin ikinci fıkrasının (ğ) bendinin uygulanmasına rağmen aykırılıkların giderilmediğinin tespit edilmesi.\n (2) İzin belgesi iptal edilen konutların kullanıcılarının hakları sözleşme süresi sonuna kadar devam eder.",
+      "preview": "(1) İzin belgesi, aşağıdaki durumlarda iptal edilir: a) İzin belgesi sahibinin izin belgesinin iptalini talep etmesi. b) Turizm amaçlı kiral…",
+      "kitap": null,
+      "kisim": null,
+      "bolum": "İKİNCİ BÖLÜM · İzin Belgesinin Niteliği ve Uygulanacak İdari Yaptırımlar",
+      "ayirim": null,
+      "maddeBaslik": "İzin belgesinin iptali",
+      "sectionPath": [
+        "İKİNCİ BÖLÜM · İzin Belgesinin Niteliği ve Uygulanacak İdari Yaptırımlar",
+        "İzin belgesinin iptali"
+      ]
+    },
+    {
+      "id": "kanun:7464:m:6",
+      "maddeKind": "madde",
+      "maddeNo": "6",
+      "heading": "Madde 6",
+      "text": "(1) Bakanlık turizm amaçlı kiralamalarda denetim yapma yetkisini haiz olup, gerek görülmesi durumunda, denetim yetkisini valilik vasıtasıyla da kullanabilir.\n (2) Bu Kanunun uygulanması sırasında doğacak tereddütleri ve uygulamaya ilişkin aksaklıkları gidermeye, uygulama birliğini sağlayacak gerekli düzenlemeleri yapmaya, bu Kanunun uygulanmasına ilişkin usul ve esasları belirlemeye Bakanlık yetkilidir.",
+      "preview": "(1) Bakanlık turizm amaçlı kiralamalarda denetim yapma yetkisini haiz olup, gerek görülmesi durumunda, denetim yetkisini valilik vasıtasıyla…",
+      "kitap": null,
+      "kisim": null,
+      "bolum": "ÜÇÜNCÜ BÖLÜM · Çeşitli Hükümler",
+      "ayirim": null,
+      "maddeBaslik": "Denetim ve düzenleme yetkisi",
+      "sectionPath": [
+        "ÜÇÜNCÜ BÖLÜM · Çeşitli Hükümler",
+        "Denetim ve düzenleme yetkisi"
+      ]
+    },
+    {
+      "id": "kanun:7464:m:gecici:1",
+      "maddeKind": "gecici",
+      "maddeNo": "1",
+      "heading": "Geçici Madde 1",
+      "text": "(1) Bu maddenin yürürlüğe girdiği tarihte turizm amaçlı kiralama faaliyetinde bulunanlar tarafından, bu maddenin yürürlüğe girdiği tarihten itibaren bir ay içinde izin belgesi almak üzere Bakanlığa başvurulması zorunludur. Bu yükümlülüğe uymayanlar hakkında, 4 üncü madde hükümleri uygulanır. İzin belgesi düzenlenmesi işlemleri, başvuru tarihinden itibaren üç ay içinde sonuçlandırılır. Başvurusu kabul edilmeyenler faaliyette bulunamaz, ancak bu konutların kullanıcılarının hakları sözleşme süresi sonuna kadar devam eder.",
+      "preview": "(1) Bu maddenin yürürlüğe girdiği tarihte turizm amaçlı kiralama faaliyetinde bulunanlar tarafından, bu maddenin yürürlüğe girdiği tarihten…",
+      "kitap": null,
+      "kisim": null,
+      "bolum": "ÜÇÜNCÜ BÖLÜM · Çeşitli Hükümler",
+      "ayirim": null,
+      "maddeBaslik": "Daha önce yapılan turizm amaçlı kiralamalar",
+      "sectionPath": [
+        "ÜÇÜNCÜ BÖLÜM · Çeşitli Hükümler",
+        "Daha önce yapılan turizm amaçlı kiralamalar"
+      ]
+    },
+    {
+      "id": "kanun:7464:m:7",
+      "maddeKind": "madde",
+      "maddeNo": "7",
+      "heading": "Madde 7",
+      "text": "(14/9/1972 tarihli ve 1618 sayılı Seyahat Acentaları ve Seyahat Acentaları Birliği Kanunu ile ilgili olup, yerine işlenmiştir.)",
+      "preview": "(14/9/1972 tarihli ve 1618 sayılı Seyahat Acentaları ve Seyahat Acentaları Birliği Kanunu ile ilgili olup, yerine işlenmiştir.)",
+      "kitap": null,
+      "kisim": null,
+      "bolum": "DÖRDÜNCÜ BÖLÜM · Bazı Kanunlarda Değişiklik Yapılmasına İlişkin Düzenlemeler",
+      "ayirim": null,
+      "maddeBaslik": null,
+      "sectionPath": [
+        "DÖRDÜNCÜ BÖLÜM · Bazı Kanunlarda Değişiklik Yapılmasına İlişkin Düzenlemeler"
+      ]
+    },
+    {
+      "id": "kanun:7464:m:8",
+      "maddeKind": "madde",
+      "maddeNo": "8",
+      "heading": "Madde 8",
+      "text": "9-10-11- (19/6/1979 tarihli ve 2252 sayılı Kültür Bakanlığı Döner Sermaye Kanunu ile ilgili olup, yerine işlenmiştir.)",
+      "preview": "9-10-11- (19/6/1979 tarihli ve 2252 sayılı Kültür Bakanlığı Döner Sermaye Kanunu ile ilgili olup, yerine işlenmiştir.)",
+      "kitap": null,
+      "kisim": null,
+      "bolum": "DÖRDÜNCÜ BÖLÜM · Bazı Kanunlarda Değişiklik Yapılmasına İlişkin Düzenlemeler",
+      "ayirim": null,
+      "maddeBaslik": null,
+      "sectionPath": [
+        "DÖRDÜNCÜ BÖLÜM · Bazı Kanunlarda Değişiklik Yapılmasına İlişkin Düzenlemeler"
+      ]
+    },
+    {
+      "id": "kanun:7464:m:12",
+      "maddeKind": "madde",
+      "maddeNo": "12",
+      "heading": "Madde 12",
+      "text": "13-14-15-16-17- (12/3/1982 tarihli ve 2634 sayılı Turizmi Teşvik Kanunu ile ilgili olup, yerine işlenmiştir.)",
+      "preview": "13-14-15-16-17- (12/3/1982 tarihli ve 2634 sayılı Turizmi Teşvik Kanunu ile ilgili olup, yerine işlenmiştir.)",
+      "kitap": null,
+      "kisim": null,
+      "bolum": "DÖRDÜNCÜ BÖLÜM · Bazı Kanunlarda Değişiklik Yapılmasına İlişkin Düzenlemeler",
+      "ayirim": null,
+      "maddeBaslik": null,
+      "sectionPath": [
+        "DÖRDÜNCÜ BÖLÜM · Bazı Kanunlarda Değişiklik Yapılmasına İlişkin Düzenlemeler"
+      ]
+    },
+    {
+      "id": "kanun:7464:m:18",
+      "maddeKind": "madde",
+      "maddeNo": "18",
+      "heading": "Madde 18",
+      "text": "(14/6/1989 tarihli ve 3572 sayılı İşyeri Açma ve Çalışma Ruhsatlarına Dair Kanun Hükmünde Kararnamenin Değiştirilerek Kabulüne Dair Kanun ile ilgili olup, yerine işlenmiştir.)",
+      "preview": "(14/6/1989 tarihli ve 3572 sayılı İşyeri Açma ve Çalışma Ruhsatlarına Dair Kanun Hükmünde Kararnamenin Değiştirilerek Kabulüne Dair Kanun il…",
+      "kitap": null,
+      "kisim": null,
+      "bolum": "DÖRDÜNCÜ BÖLÜM · Bazı Kanunlarda Değişiklik Yapılmasına İlişkin Düzenlemeler",
+      "ayirim": null,
+      "maddeBaslik": null,
+      "sectionPath": [
+        "DÖRDÜNCÜ BÖLÜM · Bazı Kanunlarda Değişiklik Yapılmasına İlişkin Düzenlemeler"
+      ]
+    },
+    {
+      "id": "kanun:7464:m:19",
+      "maddeKind": "madde",
+      "maddeNo": "19",
+      "heading": "Madde 19",
+      "text": "(18/5/2004 tarihli ve 5174 sayılı Türkiye Odalar ve Borsalar Birliği ile Odalar ve Borsalar Kanunu ile ilgili olup, yerine işlenmiştir.)",
+      "preview": "(18/5/2004 tarihli ve 5174 sayılı Türkiye Odalar ve Borsalar Birliği ile Odalar ve Borsalar Kanunu ile ilgili olup, yerine işlenmiştir.)",
+      "kitap": null,
+      "kisim": null,
+      "bolum": "DÖRDÜNCÜ BÖLÜM · Bazı Kanunlarda Değişiklik Yapılmasına İlişkin Düzenlemeler",
+      "ayirim": null,
+      "maddeBaslik": null,
+      "sectionPath": [
+        "DÖRDÜNCÜ BÖLÜM · Bazı Kanunlarda Değişiklik Yapılmasına İlişkin Düzenlemeler"
+      ]
+    },
+    {
+      "id": "kanun:7464:m:20",
+      "maddeKind": "madde",
+      "maddeNo": "20",
+      "heading": "Madde 20",
+      "text": "(31/5/2006 tarihli ve 5510 sayılı Sosyal Sigortalar ve Genel Sağlık Sigortası Kanunu ile ilgili olup, yerine işlenmiştir.)",
+      "preview": "(31/5/2006 tarihli ve 5510 sayılı Sosyal Sigortalar ve Genel Sağlık Sigortası Kanunu ile ilgili olup, yerine işlenmiştir.)",
+      "kitap": null,
+      "kisim": null,
+      "bolum": "DÖRDÜNCÜ BÖLÜM · Bazı Kanunlarda Değişiklik Yapılmasına İlişkin Düzenlemeler",
+      "ayirim": null,
+      "maddeBaslik": null,
+      "sectionPath": [
+        "DÖRDÜNCÜ BÖLÜM · Bazı Kanunlarda Değişiklik Yapılmasına İlişkin Düzenlemeler"
+      ]
+    },
+    {
+      "id": "kanun:7464:m:21",
+      "maddeKind": "madde",
+      "maddeNo": "21",
+      "heading": "Madde 21",
+      "text": "22-23-24- (23/5/2019 tarihli ve 7174 sayılı Kapadokya Alanı Hakkında Kanun ile ilgili olup, yerine işlenmiştir.)",
+      "preview": "22-23-24- (23/5/2019 tarihli ve 7174 sayılı Kapadokya Alanı Hakkında Kanun ile ilgili olup, yerine işlenmiştir.)",
+      "kitap": null,
+      "kisim": null,
+      "bolum": "DÖRDÜNCÜ BÖLÜM · Bazı Kanunlarda Değişiklik Yapılmasına İlişkin Düzenlemeler",
+      "ayirim": null,
+      "maddeBaslik": null,
+      "sectionPath": [
+        "DÖRDÜNCÜ BÖLÜM · Bazı Kanunlarda Değişiklik Yapılmasına İlişkin Düzenlemeler"
+      ]
+    },
+    {
+      "id": "kanun:7464:m:25",
+      "maddeKind": "madde",
+      "maddeNo": "25",
+      "heading": "Madde 25",
+      "text": "26-27-28-29-30- (11/7/2019 tarihli ve 7183 sayılı Türkiye Turizm Tanıtım ve Geliştirme Ajansı Hakkında Kanun ile ilgili olup, yerine işlenmiştir.)",
+      "preview": "26-27-28-29-30- (11/7/2019 tarihli ve 7183 sayılı Türkiye Turizm Tanıtım ve Geliştirme Ajansı Hakkında Kanun ile ilgili olup, yerine işlenmi…",
+      "kitap": null,
+      "kisim": null,
+      "bolum": "DÖRDÜNCÜ BÖLÜM · Bazı Kanunlarda Değişiklik Yapılmasına İlişkin Düzenlemeler",
+      "ayirim": null,
+      "maddeBaslik": null,
+      "sectionPath": [
+        "DÖRDÜNCÜ BÖLÜM · Bazı Kanunlarda Değişiklik Yapılmasına İlişkin Düzenlemeler"
+      ]
+    },
+    {
+      "id": "kanun:7464:m:31",
+      "maddeKind": "madde",
+      "maddeNo": "31",
+      "heading": "Madde 31",
+      "text": "(22/4/2022 tarihli ve 7405 sayılı Spor Kulüpleri ve Spor Federasyonları Kanunu ile ilgili olup, yerine işlenmiştir.)",
+      "preview": "(22/4/2022 tarihli ve 7405 sayılı Spor Kulüpleri ve Spor Federasyonları Kanunu ile ilgili olup, yerine işlenmiştir.)",
+      "kitap": null,
+      "kisim": null,
+      "bolum": "DÖRDÜNCÜ BÖLÜM · Bazı Kanunlarda Değişiklik Yapılmasına İlişkin Düzenlemeler",
+      "ayirim": null,
+      "maddeBaslik": null,
+      "sectionPath": [
+        "DÖRDÜNCÜ BÖLÜM · Bazı Kanunlarda Değişiklik Yapılmasına İlişkin Düzenlemeler"
+      ]
+    },
+    {
+      "id": "kanun:7464:m:32",
+      "maddeKind": "madde",
+      "maddeNo": "32",
+      "heading": "Madde 32",
+      "text": "(21/5/1986 tarihli ve 3289 sayılı Gençlik ve Spor Hizmetleri Kanunu ile ilgili olup, yerine işlenmiştir.)",
+      "preview": "(21/5/1986 tarihli ve 3289 sayılı Gençlik ve Spor Hizmetleri Kanunu ile ilgili olup, yerine işlenmiştir.)",
+      "kitap": null,
+      "kisim": null,
+      "bolum": "DÖRDÜNCÜ BÖLÜM · Bazı Kanunlarda Değişiklik Yapılmasına İlişkin Düzenlemeler",
+      "ayirim": null,
+      "maddeBaslik": null,
+      "sectionPath": [
+        "DÖRDÜNCÜ BÖLÜM · Bazı Kanunlarda Değişiklik Yapılmasına İlişkin Düzenlemeler"
+      ]
+    },
+    {
+      "id": "kanun:7464:m:33",
+      "maddeKind": "madde",
+      "maddeNo": "33",
+      "heading": "Madde 33",
+      "text": "(1) Bu Kanunun;\n a) 1 ilâ 6 ncı maddeleri ve 18 inci, 27 nci ve geçici 1 inci maddeleri 1/1/2024 tarihinde,\n b) 31 inci ve 32 nci maddeleri 26/10/2023 tarihinden itibaren uygulanmak üzere yayımı tarihinde,\n c) Diğer maddeleri yayımı tarihinde,\n yürürlüğe girer.",
+      "preview": "(1) Bu Kanunun; a) 1 ilâ 6 ncı maddeleri ve 18 inci, 27 nci ve geçici 1 inci maddeleri 1/1/2024 tarihinde, b) 31 inci ve 32 nci maddeleri 26…",
+      "kitap": null,
+      "kisim": null,
+      "bolum": "DÖRDÜNCÜ BÖLÜM · Bazı Kanunlarda Değişiklik Yapılmasına İlişkin Düzenlemeler",
+      "ayirim": null,
+      "maddeBaslik": "Yürürlük",
+      "sectionPath": [
+        "DÖRDÜNCÜ BÖLÜM · Bazı Kanunlarda Değişiklik Yapılmasına İlişkin Düzenlemeler",
+        "Yürürlük"
+      ]
+    },
+    {
+      "id": "kanun:7464:m:34",
+      "maddeKind": "madde",
+      "maddeNo": "34",
+      "heading": "Madde 34",
+      "text": "(1) Bu Kanun hükümlerini Cumhurbaşkanı yürütür.",
+      "preview": "(1) Bu Kanun hükümlerini Cumhurbaşkanı yürütür.",
+      "kitap": null,
+      "kisim": null,
+      "bolum": "DÖRDÜNCÜ BÖLÜM · Bazı Kanunlarda Değişiklik Yapılmasına İlişkin Düzenlemeler",
+      "ayirim": null,
+      "maddeBaslik": "Yürütme",
+      "sectionPath": [
+        "DÖRDÜNCÜ BÖLÜM · Bazı Kanunlarda Değişiklik Yapılmasına İlişkin Düzenlemeler",
+        "Yürütme"
+      ]
+    }
+  ]
+}

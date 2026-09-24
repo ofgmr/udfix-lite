@@ -1,0 +1,1192 @@
+{
+  "id": "yonetmelik:41265",
+  "kind": "yonetmelik",
+  "no": "41265",
+  "title": "Özel Hastaneler Yönetmeliği",
+  "shortName": "Özel Hastane Yön.",
+  "aliases": [
+    "Özel Hastane Yön.",
+    "Özel Hastaneler Yönetmeliği",
+    "41265"
+  ],
+  "tur": 7,
+  "tertip": 5,
+  "sourceUrl": "https://www.mevzuat.gov.tr/mevzuat?MevzuatNo=41265&MevzuatTur=7&MevzuatTertip=5",
+  "kabulTarihi": null,
+  "maddeCount": 69,
+  "maddeler": [
+    {
+      "id": "yonetmelik:41265:m:1",
+      "maddeKind": "madde",
+      "maddeNo": "1",
+      "heading": "Madde 1",
+      "text": "(1) Bu Yönetmeliğin amacı; etkin, verimli ve kaliteli sağlık hizmeti sunulmasını sağlamak üzere, özel hastanelerin hizmet, tıp teknolojisi, tesis ve personel standartlarının belirlenmesine, teşkilatlandırılmasına, planlamasına ve bunların açılmalarına, faaliyetlerine, kapatılmalarına ve denetimlerine ilişkin usul ve esasları düzenlemektir.",
+      "preview": "(1) Bu Yönetmeliğin amacı; etkin, verimli ve kaliteli sağlık hizmeti sunulmasını sağlamak üzere, özel hastanelerin hizmet, tıp teknolojisi,…",
+      "kitap": null,
+      "kisim": null,
+      "bolum": "BİRİNCİ BÖLÜM · Başlangıç Hükümleri",
+      "ayirim": null,
+      "maddeBaslik": "Amaç",
+      "sectionPath": [
+        "BİRİNCİ BÖLÜM · Başlangıç Hükümleri",
+        "Amaç"
+      ]
+    },
+    {
+      "id": "yonetmelik:41265:m:2",
+      "maddeKind": "madde",
+      "maddeNo": "2",
+      "heading": "Madde 2",
+      "text": "(1) Bu Yönetmelik; ağız ve diş sağlığı hastaneleri hariç olmak üzere gerçek kişiler veya özel hukuk tüzel kişilerine ait hastaneleri kapsar.",
+      "preview": "(1) Bu Yönetmelik; ağız ve diş sağlığı hastaneleri hariç olmak üzere gerçek kişiler veya özel hukuk tüzel kişilerine ait hastaneleri kapsar.",
+      "kitap": null,
+      "kisim": null,
+      "bolum": "BİRİNCİ BÖLÜM · Başlangıç Hükümleri",
+      "ayirim": null,
+      "maddeBaslik": "Kapsam",
+      "sectionPath": [
+        "BİRİNCİ BÖLÜM · Başlangıç Hükümleri",
+        "Kapsam"
+      ]
+    },
+    {
+      "id": "yonetmelik:41265:m:3",
+      "maddeKind": "madde",
+      "maddeNo": "3",
+      "heading": "Madde 3",
+      "text": "(1) Bu Yönetmelik; 24/5/1933 tarihli ve 2219 sayılı Hususi Hastaneler Kanunu hükümlerine, 7/5/1987 tarihli ve 3359 sayılı Sağlık Hizmetleri Temel Kanununun 3 üncü maddesi, 9 uncu maddesinin (c) bendi, ek 11 inci, ek 15 inci ve ek 19 uncu maddeleri ile 1 sayılı Cumhurbaşkanlığı Teşkilatı Hakkında Cumhurbaşkanlığı Kararnamesinin 355 inci maddesinin birinci fıkrasının (a) ve (c) bentleri ile 508 inci maddesine dayanılarak hazırlanmıştır.",
+      "preview": "(1) Bu Yönetmelik; 24/5/1933 tarihli ve 2219 sayılı Hususi Hastaneler Kanunu hükümlerine, 7/5/1987 tarihli ve 3359 sayılı Sağlık Hizmetleri…",
+      "kitap": null,
+      "kisim": null,
+      "bolum": "BİRİNCİ BÖLÜM · Başlangıç Hükümleri",
+      "ayirim": null,
+      "maddeBaslik": "Dayanak",
+      "sectionPath": [
+        "BİRİNCİ BÖLÜM · Başlangıç Hükümleri",
+        "Dayanak"
+      ]
+    },
+    {
+      "id": "yonetmelik:41265:m:4",
+      "maddeKind": "madde",
+      "maddeNo": "4",
+      "heading": "Madde 4",
+      "text": "(1) Bu Yönetmelikte geçen;\n a) Bakanlık: Sağlık Bakanlığını,\n b) EKİP: Entegre Kurumsal İşlem Platformunu,\n c) Faaliyet izin belgesi: Ek-7’de örneğine yer verilen ve ruhsatlandırılmış hastanelerin faaliyete geçebilmeleri için veya faaliyette olan hastanelerin hasta kabul ve tedavi edeceği uzmanlık dallarını, hizmet verilen laboratuvarları, Bakanlıkça özellikli planlama kapsamına alınan tıbbi cihazları, diğer tıbbi hizmet birimlerini ve yatak kapasitesi ile bunlardaki değişikliklerin yer aldığı il sağlık müdürlüğünce düzenlenen belgeyi,\n ç) Genel Müdür: Sağlık Hizmetleri Genel Müdürünü,\n d) Genel Müdürlük: Sağlık Hizmetleri Genel Müdürlüğünü,\n e) Müdürlük: İl veya ilçe sağlık müdürlüğünü,\n f) Özel hastane: Gerçek kişiler veya özel hukuk tüzel kişileri adına Bakanlıkça ruhsatlandırılan, her türlü acil vaka ile bünyesinde mevcut uzmanlık dallarıyla ilgili hastaların kabul edildiği, hastalarının ayaktan veya yatarak müşahede, muayene, teşhis, tedavi ve rehabilitasyonlarının yapıldığı, ruhsatlarında ve faaliyet izin belgelerinde yazılı tür ve sayıdaki hizmet birimleriyle çalışan yataklı sağlık kurumlarını,\n g) Ruhsat: Özel hastanelerin sağlık hizmet sunumuna uygunluğunu gösteren, açılışta hastane sahibi adına düzenlenen ve hastane isim, adres ve yatak sayısının yer aldığı Bakanlıkça düzenlenen belgeyi,\n ğ) Sağlık personeli: Tabip, diş tabibi, eczacı, hemşire, optisyen ve 11/4/1928 tarihli ve 1219 sayılı Tabâbet ve Şu’abatı San’atlarının Tarz-ı İcrâsına Dâir Kanunda tanımlanan diğer sağlık meslek mensuplarını,\n h) Uzmanlık dalı: Tıpta uzmanlık mevzuatında belirlenmiş olan uzmanlık alanlarını,\n ifade eder.\n İKİNCİ BÖLÜM\n Özel Hastanelerin Temel Özellikleri, Hizmet Birimleri ve Nitelikleri,",
+      "preview": "(1) Bu Yönetmelikte geçen; a) Bakanlık: Sağlık Bakanlığını, b) EKİP: Entegre Kurumsal İşlem Platformunu, c) Faaliyet izin belgesi: Ek-7’de ö…",
+      "kitap": null,
+      "kisim": null,
+      "bolum": "BİRİNCİ BÖLÜM · Başlangıç Hükümleri",
+      "ayirim": null,
+      "maddeBaslik": "Tanımlar",
+      "sectionPath": [
+        "BİRİNCİ BÖLÜM · Başlangıç Hükümleri",
+        "Tanımlar"
+      ]
+    },
+    {
+      "id": "yonetmelik:41265:m:5",
+      "maddeKind": "madde",
+      "maddeNo": "5",
+      "heading": "Madde 5",
+      "text": "(1) Özel hastaneler, bu Yönetmelikte asgari olarak öngörülen bina, hizmet, tıbbi cihaz ve personel standartlarını haiz olmak kaydıyla, yirmi dört saat süreyle sürekli ve düzenli olarak, bünyesindeki mevcut uzmanlık dallarıyla hastalara ayakta ve yatarak muayene, teşhis ve tedavi hizmeti verir.\n (2) Özel hastaneler; bu Yönetmelik hükümlerine göre sağlık hizmet sunumu açısından projesi Bakanlıkça onaylanmış ve Ek-5’te belirtilen fiziki şartları sağlayan müstakil binalarda hizmet verir.\n (3) Özel hastaneler gözlem yatakları hariç en az yüz hasta yatağı ile açılır. Bakanlıkça belirlenen sağlık hizmet bölgelerine göre planlanan tabip sayısı ve hizmet ihtiyacı doğrultusunda en az elli hasta yataklı olmak üzere yüz yatağın altında özel hastane açılmasına izin verilebilir. Özel hastanelerin yoğun bakım yatak sayısının toplamı, ruhsata esas toplam hasta yatak sayısının yüzde 30’unu geçemez.\n (4) Birbirine bitişik ve bütünlük arz eden birden fazla imar parseli üzerinde hastane ve eklerinin yapılması halinde, bu parseller arasında imar yolu, duvar gibi bütünlüğü bozacak uygulamalar bulunamaz.\n (5) Aynı sahiplikte ve aynı isim altında ruhsatlandırılmak kaydıyla, sınırları belirli, bütünlük arz eden bir alan içinde birbiriyle fiziki olarak bağlantısı olan veya bağımsız bina komplekslerinin oluşturduğu hastane binalarından oluşan hastane kompleksi kurulabilir. Bu durumda, laboratuvar hizmetleri, görüntüleme hizmetleri, acil hizmetleri, ameliyathaneler, yoğun bakım ve sterilizasyon üniteleri ile benzeri diğer tıbbi hizmetler ortak hizmet verecek şekilde planlanabilir. İdari birimler, morg, depo ve benzeri destek birimler ile otopark, kreş, kafeterya, lokanta, otel, banka, PTT, konferans salonu, ibadethane, spor ve eğitim tesisleri gibi sosyal alanlar hizmeti aksatmayacak şekilde ve mimari projeye işlenerek onaylanmak kaydıyla yapı kullanma izni alınarak hastaneye ait belirlenen sınırlar içerisinde farklı binalarda hizmet verebilir.\n (6) Hastane personeline, hastalara ve hasta yakınlarına hizmet vermek ve işletilmek üzere kafeterya, kantin, çiçekçi, berber, lostra gibi birimler kurulabilir veya bunların işletilmesi için hizmet satın alınabilir veyahut bu hizmetler başkalarına gördürülebilir. Bu türden kısımlar, tıbbi hizmet birimlerinin bulunduğu yerler ile hasta tedavi ve istirahatini engelleyecek yerlerde kurulamaz.\n (7) Hastane binası içinde hiçbir surette başka amaca yönelik işyeri bulunamaz ve hastane içindeki bir bölüm, altıncı fıkrada sayılan işletmeler dışındaki bir amaçla faaliyet göstermek üzere üçüncü kişilere kiralanamaz veya herhangi bir şekilde devredilemez.\n (8) (Değişik:RG-29/8/2026-33355) Türkiye Sağlık Hizmetleri Kalite ve Akreditasyon Enstitüsü (TÜSKA) akreditasyon belgesi alan özel hastanelerden, 31/12/2016 tarihli ve 29935 üçüncü mükerrer sayılı Resmî Gazete’de yayımlanan Türkiye Sağlık Hizmetleri Kalite ve Akreditasyon Enstitüsünün Yapılanması ve Faaliyetlerinin Yürütülmesine Dair Yönetmeliğe dayanılarak TÜSKA tarafından belirlenen usul ve esaslar uyarınca platin veya altın kategorisine göre belgelendirilenler 3 yıl, gümüş kategorisine göre belgelendirilenler 2 yıl, bronz kategorisine göre belgelendirilenler ise 1 yıl boyunca olağan denetimlerden muaf tutulur.",
+      "preview": "(1) Özel hastaneler, bu Yönetmelikte asgari olarak öngörülen bina, hizmet, tıbbi cihaz ve personel standartlarını haiz olmak kaydıyla, yirmi…",
+      "kitap": null,
+      "kisim": null,
+      "bolum": "BİRİNCİ BÖLÜM · Başlangıç Hükümleri",
+      "ayirim": null,
+      "maddeBaslik": "Özel hastanelerin temel özellikleri",
+      "sectionPath": [
+        "BİRİNCİ BÖLÜM · Başlangıç Hükümleri",
+        "Özel hastanelerin temel özellikleri"
+      ]
+    },
+    {
+      "id": "yonetmelik:41265:m:6",
+      "maddeKind": "madde",
+      "maddeNo": "6",
+      "heading": "Madde 6",
+      "text": "(1) Özel hastanelerde bulunan tüm birimler Ek-5’te belirtilen asgari fiziki kriterleri sağlamak zorundadır.\n (2) Bu Yönetmelikte belirlenmiş asgari fiziki standartlara ilişkin ölçülerde (Değişik ibare:RG-29/8/2026-33355) %5’e kadar sapmalara izin verilir.\n (3) Özel hastanelerde bulunan gözlem yatak sayısı, hastane toplam yatak sayısının %25’ini geçemez. Bir gözlem ünitesinde en fazla yirmi yatak bulunabilir.\n (4) Yalnızca dahili uzmanlık dallarında hizmet verecek olan hastanelerde ameliyathane bulunması zorunlu değildir. Bu şekilde açılan hastanelerde, cerrahi uzmanlık dalı ilavesi, bu Yönetmelikte belirtilen ameliyathane ve yoğun bakım ile diğer şartların sağlanması durumunda yapılır.\n (5) Ameliyathanenin işleyişi, hizmete devamlı hazır bulundurulması, alet ve malzemenin sağlanması, bakım, onarım ihtiyaçlarının saptanarak yaptırılmak üzere ilgililere bildirilmesi ve burada çalışan personelin yönetimi ve eğitimlerinin yapılması amacıyla cerrahi branşlardan bir uzman tabip ameliyathane sorumlusu olarak görevlendirilir.\n (6) Yalnızca göz hastalıkları, fizik tedavi ve rehabilitasyon ile ruh sağlığı ve hastalıkları uzmanlık dallarında faaliyet gösteren hastaneler hariç, özel hastanelerde ilgili mevzuatına uygun yoğun bakım bulunması zorunludur.\n (7) İlgili mevzuattaki asgari standartları sağlamak şartıyla kardiyoloji uzmanlık dalı için koroner yoğun bakım ünitesi, kalp ve damar cerrahisi uzmanlık dalı için kardiyovasküler cerrahi yoğun bakım ünitesi, çocuk sağlığı ve hastalıkları uzmanlık dalı ile kadın hastalıkları ve doğum uzmanlık dalı için yenidoğan yoğun bakım ünitesi bulunması zorunludur. Özel hastanede kardiyoloji veya kalp ve damar cerrahisi uzmanlık dalları için çalışma şekline bakılmaksızın yalnızca bir uzman tabip bulunduğunda ilgili yoğun bakım ünitesi kurulması zorunlu değildir.\n (8) Özel hastane bünyesinde yürütülen tıbbi laboratuvar, radyoloji, radyasyon onkolojisi, genetik hastalıklar tanı ve nükleer tıp hizmetleri ilgili yönetmelikler kapsamında yürütülür. Bu birimler için ilgili mevzuata göre hastane adına faaliyet izin belgesi düzenlenir.\n (9) (Değişik:RG-29/8/2026-33355) Özel hastanelerde, bir adet seyyar röntgen cihazı bulunması veya en az 500 mA gücünde röntgen cihazı bulunması zorunludur. Röntgen cihazının, yerinde hizmet alımı yoluyla özel hastanede bulundurulması halinde bu zorunluluk yerine getirilmiş sayılır.\n (10) (Değişik:RG-29/8/2026-33355) Özel hastanelerde hasta kabul ve tedavi ettiği uzmanlık dallarının gerektirdiği tıbbi biyokimya ve/veya tıbbi mikrobiyoloji laboratuvarı bulunması zorunludur. Belirli bir alanda sağlık hizmeti sunan özel hastaneler, bu zorunluluğu yerinde hizmet alımı yoluyla da yerine getirebilir. Özel hastanenin açmak istediği tıbbi biyokimya ve/veya tıbbi mikrobiyoloji laboratuvarı için uzman tabip kadrosunun bulunmaması durumunda, talep etmesi halinde bu uzmanlık dalında Bakanlıkça kadro verilir.\n (11) Özel hastanelerin bünyesinde yapılmayan, radyoloji ve tıbbi laboratuvar tetkikleri için hizmet alımı yapılabilir. Özel hastaneler bu hizmet alımlarını ruhsat/faaliyet izin belgesi bulunan diğer sağlık kuruluşlarından veya tıbbi cihaz satış yetki belgesine sahip yüklenici firmalardan yerinde hizmet alımı şeklinde yapabilir. Bu durumda hizmet satın alınmasına ait belgeler faaliyet iznine esas belgeler ile birlikte Müdürlüğe sunulur.\n (12) Hizmet satın alma yoluyla sunulan hizmetlerle ilgili, hizmeti alan hastane ile hizmeti veren kurum veya kuruluş, bu uygulamadan ve sonuçlarından müştereken sorumludur.\n (13) Hizmet satın alma yoluyla sunulan hizmetlerle ilgili tetkik istem ve sonuçları, elektronik sistem üzerinden yürütülür ve hizmet alan hastane sistemine entegre edilir. Hizmet alımı yapılan kurum veya kuruluş tarafından hastadan ayrıca bir ücret talep edilemez.\n (14) Özel hastanelerde, 18/12/1953 tarihli ve 6197 sayılı Eczacılar ve Eczaneler Hakkında Kanun ile 12/4/2014 tarihli ve 28970 sayılı Resmî Gazete’de yayımlanan Eczacılar ve Eczaneler Hakkında Yönetmelik uyarınca, bir eczacı sorumluluğunda ruhsatlandırılmış eczane bulunması zorunludur.\n (15) Özel hastanelerde acil servis bulunması zorunludur. Acil servislerde bulunması gereken özellikler, ilgili mevzuatına uygun düzenlenir.\n (16) Özel hastanelere; talep etmesi halinde ilgili mevzuatında tanımlanan standartlara uygun olmak şartıyla en az beş, en fazla ise toplam yoğun bakım yatak sayısının %20’si kadar palyatif bakım yatağı ilave etmesine izin verilir. Bu kapsamda verilen palyatif yataklar ruhsata işlenir. Bu yataklar başka bir amaçla kullanılamaz ve başka bir yatak türüne dönüştürülemez.",
+      "preview": "(1) Özel hastanelerde bulunan tüm birimler Ek-5’te belirtilen asgari fiziki kriterleri sağlamak zorundadır. (2) Bu Yönetmelikte belirlenmiş…",
+      "kitap": null,
+      "kisim": null,
+      "bolum": "BİRİNCİ BÖLÜM · Başlangıç Hükümleri",
+      "ayirim": null,
+      "maddeBaslik": "Özel hastanelerin hizmet birimleri ve nitelikleri",
+      "sectionPath": [
+        "BİRİNCİ BÖLÜM · Başlangıç Hükümleri",
+        "Özel hastanelerin hizmet birimleri ve nitelikleri"
+      ]
+    },
+    {
+      "id": "yonetmelik:41265:m:7",
+      "maddeKind": "madde",
+      "maddeNo": "7",
+      "heading": "Madde 7",
+      "text": "(1) Özel hastaneler gerçek kişiler veya özel hukuk tüzel kişileri tarafından açılır ve işletilir.\n (2) 1219 sayılı Kanunun 28 inci maddesinde sayılan suçlar ile cinsel dokunulmazlığa karşı işlenen suçlardan hüküm giymiş gerçek kişiler, kamu görevinden yasaklı gerçek kişiler ile ortaklık yapısında bu kişilerin bulunduğu tüzel kişiler adına özel hastane açılmasına izin verilmez. Bu kişiler ruhsatlı özel hastanelerin ruhsatlarını devralamaz, adına özel hastane ruhsatı bulunan tüzel kişilerin ortaklık yapısında yer alamaz.\n (3) Sahipliğinde ruhsat iptali gerçekleşen gerçek kişiler ve özel hukuk tüzel kişileri adına beş yıl boyunca yeni özel hastane ruhsatı düzenlenmez.\n (4) Adına özel hastane ruhsatı düzenlenmiş özel hukuk tüzel kişilerinin ortaklık yapısında değişiklik olması halinde bu değişiklik, en geç bir ay içinde Müdürlüğe bildirilmek zorundadır. Ancak halka arz edilmiş özel hukuk tüzel kişilerinde bildirim zorunluluğu aranmaz.",
+      "preview": "(1) Özel hastaneler gerçek kişiler veya özel hukuk tüzel kişileri tarafından açılır ve işletilir. (2) 1219 sayılı Kanunun 28 inci maddesinde…",
+      "kitap": null,
+      "kisim": null,
+      "bolum": "BİRİNCİ BÖLÜM · Başlangıç Hükümleri",
+      "ayirim": null,
+      "maddeBaslik": "Özel hastane açmaya ve işletmeye yetkili kişiler",
+      "sectionPath": [
+        "BİRİNCİ BÖLÜM · Başlangıç Hükümleri",
+        "Özel hastane açmaya ve işletmeye yetkili kişiler"
+      ]
+    },
+    {
+      "id": "yonetmelik:41265:m:8",
+      "maddeKind": "madde",
+      "maddeNo": "8",
+      "heading": "Madde 8",
+      "text": "(1) Bakanlıkça, sağlık hizmetlerinin, demografik yapı ve epidemiyolojik özellikler de göz önünde bulundurulmak suretiyle kaliteli, hakkaniyete uygun ve verimli şekilde sunulması; sağlık kurum ve kuruluşlarının hizmet kapasiteleri, sağlık insan gücü ile çağdaş tıbbi bilgi ve teknolojinin ülke düzeyinde dengeli dağılımının sağlanması; koruyucu sağlık ve acil sağlık hizmetleri gibi iş birliği halinde hizmet sunumunun gerekli olduğu alanlarda ve sağlık turizminde uygun kapasitenin oluşturulması ve kaynak israfı ve atıl kapasiteye yol açılmaması adına, faaliyetine ihtiyaç duyulan sağlık kurum ve kuruluşları ile bunlara ait sağlık insan gücü, tıbbi hizmet birimleri ve nitelikleri ile teknoloji yoğunluklu tıbbi cihaz dağılımı alanlarında kamu ve özel sektörü kapsayacak şekilde planlama yapılır.\n (2) Bakanlıkça birinci fıkrada belirtilen planlama kriterleri çerçevesinde özel hastanelere verilebilecek yatak kapasitesi, özellikli merkez, ünite, tıbbi cihaz ile uzmanlık dalları ve kadro sayıları belirlenir. Bu planlama her yıl ilan edilir.\n (3) Bakanlıkça ilan edilen planlamalar neticesinde, yeni hastane açılışı ile mevcut hastanelerde özellikli merkez, ünite, tıbbi cihaz, uzman tabip kadro veya yatak kapasitesi değişikliği talebi uygun görülenler için planlama uygunluk belgesi düzenlenir.\n (4) Planlama uygunluk belgesi düzenlenen hastane, özellikli merkez, ünite, tıbbi cihaz ve yatak kapasitesi değişikliği ile ilgili en geç iki yıl içinde ön izin alınması zorunludur. Bu süre içinde ön izin alamayanların planlama uygunluk belgeleri iptal edilir.\n (5) Planlama uygunluk belgesi devredilemez.",
+      "preview": "(1) Bakanlıkça, sağlık hizmetlerinin, demografik yapı ve epidemiyolojik özellikler de göz önünde bulundurulmak suretiyle kaliteli, hakkaniye…",
+      "kitap": null,
+      "kisim": null,
+      "bolum": "ÜÇÜNCÜ BÖLÜM · Planlama, Ön İzin, Ruhsat ve Faaliyet İzin Belgesi",
+      "ayirim": null,
+      "maddeBaslik": "Planlama",
+      "sectionPath": [
+        "ÜÇÜNCÜ BÖLÜM · Planlama, Ön İzin, Ruhsat ve Faaliyet İzin Belgesi",
+        "Planlama"
+      ]
+    },
+    {
+      "id": "yonetmelik:41265:m:9",
+      "maddeKind": "madde",
+      "maddeNo": "9",
+      "heading": "Madde 9",
+      "text": "(1) Özel hastanelerin;\n a) Açılmasından önce,\n b) Başka amaçla inşa edilmiş binaların, hastane binasına dönüştürülmesinin istenmesi halinde tadilat işlerine başlanılmasından önce,\n c) Ruhsatlandırılmış hastane binasına 8 inci maddedeki planlamaya uygun olmak şartıyla ek bina inşaatına başlanılmasından önce,\n ön izin alınması zorunludur.\n (2) Özel hastaneler için ön izin başvurusu Ek-13’te yer alan belgeler ile birlikte EKİP sistemi üzerinden yapılır.\n (3) Başvuru evrakında yer alan bilgi ve belgelerin sunulması üzerine Müdürlükçe, eksiklik veya uygunsuzluk bulunmadığının tespiti halinde ilgili evrak en geç on iş günü içinde Bakanlığa gönderilir. Bakanlıkça yapılacak değerlendirmede başvurunun uygun görülmesi hâlinde en geç otuz gün içinde ön izin belgesi düzenlenir. Başvuru evrakında eksiklik veya uygunsuzluk varsa, bu durum Müdürlük aracılığıyla başvuru sahibine yazılı olarak bildirilir.\n (4) Ön izin belgeleri devredilemez. Ancak taşınma amaçlı düzenlenmiş ön izin belgesine sahip ruhsatlı ve faal özel hastanelerin, ruhsat devri yapmaları durumunda yeni ruhsat sahibi adına mevcut süresi korunarak ön iznin devam etmesine izin verilir.\n (5) Özel hastanenin yatak ve poliklinik sayısı, planlamaya tabi özellikli tıbbi cihaz mekanları özel hastane ön izin belgesinde belirtilir. Hastane ön izin belgesi planlama uygunluk belgesinde belirtilen kapasitelere uygun olarak düzenlenir. Hastane bu kapasite ile ruhsatlandırılır. Ön izin projesinde belirtilen kapasiteden fazla bina ve tıbbi cihaz mekân yatırımları hastaneye ilave yatak, kadro ve cihaz hakkı vermez.\n (6) Bakanlıkça özel hastane açma izni verilenler başvuru tarihinden itibaren en geç iki yıl içerisinde ön izin belgesi almak zorundadır.",
+      "preview": "(1) Özel hastanelerin; a) Açılmasından önce, b) Başka amaçla inşa edilmiş binaların, hastane binasına dönüştürülmesinin istenmesi halinde ta…",
+      "kitap": null,
+      "kisim": null,
+      "bolum": "ÜÇÜNCÜ BÖLÜM · Planlama, Ön İzin, Ruhsat ve Faaliyet İzin Belgesi",
+      "ayirim": null,
+      "maddeBaslik": "Ön izin",
+      "sectionPath": [
+        "ÜÇÜNCÜ BÖLÜM · Planlama, Ön İzin, Ruhsat ve Faaliyet İzin Belgesi",
+        "Ön izin"
+      ]
+    },
+    {
+      "id": "yonetmelik:41265:m:10",
+      "maddeKind": "madde",
+      "maddeNo": "10",
+      "heading": "Madde 10",
+      "text": "(1) Ön izin belgesinin verildiği tarihten itibaren üç yıl içinde ruhsat alınması zorunludur. Bu sürenin sonunda ruhsat alamayanlara ait ön izin belgesi iptal edilir. Ancak ruhsatlandırma süresinin sonunda binasını tamamlayamadığı için ruhsat başvurusu yapamayan ve ilgili mahalli idareden alınan temel üstü vizesi bulunanlara iki yıl ek süre verilir.\n (2) Ruhsat başvurusu, ön izin belgesine uygun şekilde binasını tamamlamış özel hastaneler tarafından Ek-8’de yer alan belgeler ile birlikte EKİP sistemi üzerinden yapılır.\n (3) Müdürlük tarafından başvuru evrakında eksiklik veya uygunsuzluk bulunmadığının tespiti halinde, başvuru tarihinden itibaren en geç on beş iş günü içerisinde Ek-9’da yer alan müşterek teknik rapora uygun şekilde yerinde inceleme yapılır.\n (4) Yapılan yerinde inceleme sonucunda eksiklik veya uygunsuzluk tespit edilmesi halinde, tespit edilen eksiklik veya uygunsuzluklar başvuru sahibine yazılı olarak bildirilir. Eksiklik veya uygunsuzluğun giderildiğinin başvuru sahibi tarafından Müdürlüğe yazılı olarak bildirilmesi üzerine yeniden yerinde inceleme yapılır.\n (5) Yapılan incelemeler neticesinde, herhangi bir eksiklik veya uygunsuzluk olmadığının tespiti halinde, düzenlenecek müşterek teknik rapor, uzman dal raporu ve başvuru belgelerini içeren ruhsat başvuru dosyası on beş iş günü içinde Bakanlığa gönderilir.\n (6) Bakanlıkça yapılan değerlendirme neticesinde uygun görülen özel hastaneler için Ek-6’da yer alan ruhsat belgesi düzenlenir. Yapılan değerlendirmede, ön izin belgesine ya da ruhsat için aranan şartlara aykırılık olması durumunda ruhsat düzenlenmez ve tespit edilen eksiklik veya uygunsuzluklar başvuru sahibine Müdürlük aracılığıyla yazılı olarak bildirilir.\n (7) Özel hastanelerin ruhsatlandırma işlemleri, herhangi bir eksiklik veya uygunsuzluk olmadığının tespiti halinde, Bakanlığa gönderildiği tarihten itibaren en geç on beş iş günü içinde sonuçlandırılır. Bu süre, eksiklik sebebiyle iade edilen dosyalarda eksikliğin tamamlanarak Bakanlığa tebliği tarihinden itibaren yeniden başlar.\n (8) Yapılan inceleme ve değerlendirmeler sonucunda eksiklik veya uygunsuzluk tespit edilmesi ruhsatlandırma süresini uzatmaz.",
+      "preview": "(1) Ön izin belgesinin verildiği tarihten itibaren üç yıl içinde ruhsat alınması zorunludur. Bu sürenin sonunda ruhsat alamayanlara ait ön i…",
+      "kitap": null,
+      "kisim": null,
+      "bolum": "ÜÇÜNCÜ BÖLÜM · Planlama, Ön İzin, Ruhsat ve Faaliyet İzin Belgesi",
+      "ayirim": null,
+      "maddeBaslik": "Ruhsat",
+      "sectionPath": [
+        "ÜÇÜNCÜ BÖLÜM · Planlama, Ön İzin, Ruhsat ve Faaliyet İzin Belgesi",
+        "Ruhsat"
+      ]
+    },
+    {
+      "id": "yonetmelik:41265:m:11",
+      "maddeKind": "madde",
+      "maddeNo": "11",
+      "heading": "Madde 11",
+      "text": "(1) Faaliyet izin belgesi düzenlenmiş olan özel hastane, hasta kabul ve tedavisine başlar. Bakanlıkça ruhsatlandırıldığı tarihten itibaren altı ay içinde faaliyet izin belgesi alarak hasta kabul ve tedavisine başlamayan özel hastaneye verilen ruhsat Bakanlıkça iptal edilir.\n (2) Faaliyet izin belgesi başvurusu, ruhsatlandırılmış özel hastaneler tarafından, Ek-10’da yer alan belgeler ile birlikte EKİP sistemi üzerinden yapılır.\n (3) Başvuru evrakında eksiklik veya uygunsuzluk olmaması halinde, Müdürlük tarafından, en geç on beş iş günü içerisinde Ek-7’de yer alan faaliyet izin belgesi, tüm sağlık meslek mensupları adına Ek-12’de yer alan çalışma belgesi ve mesul müdür adına Ek-11’de yer alan mesul müdürlük ve mesul müdür yardımcısı belgeleri düzenlenir.\n (4) Özel hastane için düzenlenen tüm belgelerin ve başvuru dosyasının bir örneği Müdürlükte saklanır. Düzenlenen belgelerin bir örneği, mesul müdüre imza karşılığında teslim edilir. Elektronik ortamda oluşturulan belgeler, Bakanlıkça belirlenen arşiv ve saklama kriterlerine uygun olarak dijital ortamda muhafaza edilir.\n (5) Özel hastaneler, dört klinisyen uzman tabipten az olmamak kaydıyla Bakanlıkça belirlenen toplam uzman tabip kadrolarının en az dörtte biri sayısında klinisyen uzman tabip ile faaliyete başlayabilir.",
+      "preview": "(1) Faaliyet izin belgesi düzenlenmiş olan özel hastane, hasta kabul ve tedavisine başlar. Bakanlıkça ruhsatlandırıldığı tarihten itibaren a…",
+      "kitap": null,
+      "kisim": null,
+      "bolum": "ÜÇÜNCÜ BÖLÜM · Planlama, Ön İzin, Ruhsat ve Faaliyet İzin Belgesi",
+      "ayirim": null,
+      "maddeBaslik": "Faaliyet izin belgesi",
+      "sectionPath": [
+        "ÜÇÜNCÜ BÖLÜM · Planlama, Ön İzin, Ruhsat ve Faaliyet İzin Belgesi",
+        "Faaliyet izin belgesi"
+      ]
+    },
+    {
+      "id": "yonetmelik:41265:m:12",
+      "maddeKind": "madde",
+      "maddeNo": "12",
+      "heading": "Madde 12",
+      "text": "(1) Özel hastaneler planlama ilkeleri doğrultusunda Bakanlık izniyle yalnızca bulunduğu il içinde taşınabilir ya da birleşebilir.\n (2) Özel hastanelerin birleşmeleri halinde, ruhsatlarında kayıtlı yatak sayıları, tabip ve uzman tabip kadro sayıları toplanarak birleştirilir. Birleşen özel hastaneler ayrılamaz.\n (3) Birleşme ve/veya taşınma amacıyla başvuran özel hastaneler, taleplerinin uygun bulunduğu tarihten itibaren en geç iki yıl içinde ön izin belgesi ve ön izin belgesinin alındığı tarihten itibaren ise üç yıl içerisinde ruhsat belgesi alarak taşınma/birleşme işlemlerini sonuçlandırmak zorundadır. Bu madde kapsamında alınan ön izin belgesinin alındığı tarihten itibaren iki yıl içerisinde ön izne esas adreste değişiklik yapılmak istenmesi halinde ek süre verilmeksizin planlama hükümlerine uygun olmak kaydıyla ön izin adres değişikliğine Bakanlıkça izin verilebilir.\n (4) Birleşme veya taşınma talebinde bulunan özel hastaneler bu işlemler tamamlanmadan yeni bir birleşme veya taşınma talebinde bulunamazlar.",
+      "preview": "(1) Özel hastaneler planlama ilkeleri doğrultusunda Bakanlık izniyle yalnızca bulunduğu il içinde taşınabilir ya da birleşebilir. (2) Özel h…",
+      "kitap": null,
+      "kisim": null,
+      "bolum": "ÜÇÜNCÜ BÖLÜM · Planlama, Ön İzin, Ruhsat ve Faaliyet İzin Belgesi",
+      "ayirim": null,
+      "maddeBaslik": "Özel hastanelerin taşınma ve birleşme işlemleri",
+      "sectionPath": [
+        "ÜÇÜNCÜ BÖLÜM · Planlama, Ön İzin, Ruhsat ve Faaliyet İzin Belgesi",
+        "Özel hastanelerin taşınma ve birleşme işlemleri"
+      ]
+    },
+    {
+      "id": "yonetmelik:41265:m:13",
+      "maddeKind": "madde",
+      "maddeNo": "13",
+      "heading": "Madde 13",
+      "text": "(1) Özel hastanelerin bu Yönetmelik kapsamındaki kişilere devri halinde Ek-8’in 14 üncü maddesinde yer alan ilgili belgeler ile birlikte devir tarihinden itibaren en geç bir ay içinde Müdürlüğe başvurulması zorunludur. Devralan kişi adına ruhsat ve faaliyet izin belgesi düzenleninceye kadar hastanenin faaliyeti devreden sorumluluğunda devam eder. Şayet devredenin sorumluluğunda faaliyet gösterilmesi istenmiyor ise, devralan kişi adına ruhsat ve faaliyet izin belgesi düzenleninceye kadar hastanenin faaliyetine ara verilir. Devir işleminin uygun bulunması halinde on beş iş günü içerisinde yeni sahiplik adına Ek-6’da yer alan ruhsat belgesi ile Ek-7’de yer alan faaliyet izin belgesi düzenlenir.\n (2) Özel hastanenin denetimi sırasında tespit edilen eksiklik ve/veya uygunsuzluklardan dolayı devralan, devredenin sorumluluklarını da almış sayılır. Eksiklik ve/veya uygunsuzluklardan dolayı devredene verilen süre, devralanın talebi halinde yeniden verilir. Özel hastanenin faaliyetinin durdurulması halinde devralan, faaliyet durdurma süresinin tamamlanmasını beklemek zorundadır.\n (3) Ruhsatı askıda olan özel hastanelerin ruhsatları askı süresince sadece bir kez devredilebilir.\n (4) Bu madde hükmünce devralınan hastane iki yıl içinde yeniden devredilemez.",
+      "preview": "(1) Özel hastanelerin bu Yönetmelik kapsamındaki kişilere devri halinde Ek-8’in 14 üncü maddesinde yer alan ilgili belgeler ile birlikte dev…",
+      "kitap": null,
+      "kisim": null,
+      "bolum": "ÜÇÜNCÜ BÖLÜM · Planlama, Ön İzin, Ruhsat ve Faaliyet İzin Belgesi",
+      "ayirim": null,
+      "maddeBaslik": "Özel hastanenin devri",
+      "sectionPath": [
+        "ÜÇÜNCÜ BÖLÜM · Planlama, Ön İzin, Ruhsat ve Faaliyet İzin Belgesi",
+        "Özel hastanenin devri"
+      ]
+    },
+    {
+      "id": "yonetmelik:41265:m:14",
+      "maddeKind": "madde",
+      "maddeNo": "14",
+      "heading": "Madde 14",
+      "text": "(1) Özel hastanenin ruhsat ve faaliyet izin belgesinde yer alan hususlarda değişiklik olması halinde bunun Müdürlüğe bildirilmesi zorunludur. Bu durumda, yapılan değişikliğin uygunluğu Bakanlıkça değerlendirilerek ruhsat ve faaliyet izin belgesi yeniden düzenlenir.\n (2) Özel hastanelerin mevcut binasında tadilat gerektirmesi halinde, tadilata başlanmadan önce tadilat projesinin Bakanlıkça onaylanması gerekir.\n (3) Bakanlıkça ruhsatlandırılmış özel hastane binalarında imar mevzuatına uygun olarak taşıyıcı unsuru etkilemeyen tadilat ve tamirat gibi işlerin yapılmak istenmesi halinde, binanın kullanımına izin verilen toplam brüt alanını değiştirmemek ve gerektiğinde yangın ile deprem yönünden uygunluğunun da sağlanması kaydıyla ilgili belediyeden proje onayı aranmaksızın Bakanlığın izni alınarak ruhsata esas son proje üzerinde değişiklik yapılmasına izin verilir.\n (4) Özel hastanenin ilgili belediye tarafından adres bilgisinin değiştirilmesi durumunda belediyeden alınan belge ve talep dilekçesi ile Müdürlüğe başvuru yapılır. Bu durumda, belge bedeli alınmaksızın ruhsat ve faaliyet izin belgesi yeniden düzenlenir.\n (5) Ruhsatlandırılmış özel hastanelerde mevcut kadrolu ve kadro dışı geçici çalışan her bir tabip için poliklinik muayene odası oluşturulabilir. Bu amaçla eksik olan poliklinik odası eklenebilir.\n (6) Mevcut uzman tabipler tarafından kullanılmak ve planlamaya uygun olmak kaydıyla tıbbi hizmet birimleri ve alanlar ile cihazlar eklenebilir.",
+      "preview": "(1) Özel hastanenin ruhsat ve faaliyet izin belgesinde yer alan hususlarda değişiklik olması halinde bunun Müdürlüğe bildirilmesi zorunludur…",
+      "kitap": null,
+      "kisim": null,
+      "bolum": "ÜÇÜNCÜ BÖLÜM · Planlama, Ön İzin, Ruhsat ve Faaliyet İzin Belgesi",
+      "ayirim": null,
+      "maddeBaslik": "Ruhsat bilgilerinde değişiklik",
+      "sectionPath": [
+        "ÜÇÜNCÜ BÖLÜM · Planlama, Ön İzin, Ruhsat ve Faaliyet İzin Belgesi",
+        "Ruhsat bilgilerinde değişiklik"
+      ]
+    },
+    {
+      "id": "yonetmelik:41265:m:15",
+      "maddeKind": "madde",
+      "maddeNo": "15",
+      "heading": "Madde 15",
+      "text": "(1) Özel hastaneler, Ek-1’de yer alan asgari personel standardını sağlamak zorundadır.\n (2) Sağlık personeli özel hastane kadrosunda sözleşme ile 31/5/2006 tarihli ve 5510 sayılı Sosyal Sigortalar ve Genel Sağlık Sigortası Kanununun 4 üncü maddesinin birinci fıkrasının (a) bendi kapsamında sigortalı olarak EKİP üzerinden personel çalışma belgesi düzenlenerek çalışır. Personel çalışma belgesi gerektiğinde EKİP üzerinden ibraz ve kontrol edilir.\n (3) Aktif çalışan klinisyen uzman tabip sayısı dördün altına düşen hastanelerin faaliyeti en fazla iki yıl süreyle askıya alınır. Eksikliğin giderilmesi halinde özel hastane faaliyetine devam eder. İki yılın sonunda uzman tabip eksikliğini gideremeyen özel hastanenin ruhsatı iptal edilir.\n (4) Sağlık personelinin işten ayrılışları, en geç on iş günü içinde Müdürlüğe bildirilir ve personel çalışma belgesi iptal edilir. İşten ayrılan uzman tabip yerine aynı uzmanlık dalında tabip başlatılabilir. Yan dal uzmanlığı bulunanlar Bakanlıkça planlama amacıyla oluşturulan komisyonlardan uygun görüş alınarak ana dalda başlatılabilir.\n (5) Bütün personelin yakasına; personelin adını, soyadını, mesleğini ve ünvanını belirten ve mesul müdürlükçe onaylanmış olan fotoğraflı bir kimlik kartı takması şarttır. Kimlik kartlarının Bakanlığın elektronik sistemi ile uyumlu karekod içermesi zorunludur.\n (6) Özel hastanede çalışan tüm sağlık personelinin, hizmetin gereklerine uygun olarak önlük veya üniforma giymesi zorunludur. Hastane yönetimi önlük veya üniforma seçimi ile ilgili sağlık meslek mensuplarının birbiri ile karışmasını önleyecek şekilde düzenleme yapmak zorundadır. Her hastanenin kurumsal kimliğini yansıtan üniforması bulunur.\n (7) Faaliyeti durdurulan veya ruhsatı askıya alınan özel hastanelerde çalışan personelin yazılı şekilde başvurması halinde, EKİP üzerinden ayrılış işlemleri Müdürlük tarafından yapılır.",
+      "preview": "(1) Özel hastaneler, Ek-1’de yer alan asgari personel standardını sağlamak zorundadır. (2) Sağlık personeli özel hastane kadrosunda sözleşme…",
+      "kitap": null,
+      "kisim": null,
+      "bolum": "DÖRDÜNCÜ BÖLÜM · Personel Standartları",
+      "ayirim": null,
+      "maddeBaslik": "Asgari personel standardı",
+      "sectionPath": [
+        "DÖRDÜNCÜ BÖLÜM · Personel Standartları",
+        "Asgari personel standardı"
+      ]
+    },
+    {
+      "id": "yonetmelik:41265:m:16",
+      "maddeKind": "madde",
+      "maddeNo": "16",
+      "heading": "Madde 16",
+      "text": "(1) Özel hastanelerin ruhsata esas tabip sayıları, faaliyet göstereceği uzmanlık dallarındaki uzman tabip kadro sayıları EKİP sistemine Bakanlıkça kaydedilir. Mesul müdür sistem üzerinden hastanenin her bir uzmanlık dalı için toplam kadrosunu, boş olan kadrosunu ve aktif çalışanını takip eder ve çalışma belgelerini buna uygun olarak düzenler. Ayrılış ve başlayış işlemlerinin bu sistem üzerinden yapılmasını sağlar.\n (2) Bakanlıkça EKİP sistemine kaydedilen bir uzmanlık dalında iki yıl süre ile kadrolu tabip çalışmaması halinde bu kadro Bakanlıkça iptal edilir. İki yıllık süre hesabında altı aydan kısa süreli çalışmalar dikkate alınmaz.\n (3) Planlama kapsamındaki özel sağlık kuruluşlarında çalışan tabip/uzman tabipler ve diş tabipleri, Bakanlığın istihdam planlamaları gereğince, 1219 sayılı Kanunun 12 nci maddesine uygun olmak kaydıyla aynı ilde kadrolu çalıştığı özel sağlık kuruluşu dışında planlama kapsamındaki bir özel sağlık kuruluşunda daha kadro dışı geçici çalışabilir.\n (4) Özel hastanelerde çalışan tabip dışı sağlık personeli, en fazla bir özel sağlık kuruluşunda daha çalışabilir.\n (5) (Değişik ibare:RG-29/8/2026-33355) Bakanlıkça onaylanmış uzmanlık eğitim programı bulunan özel hastaneler, tabip ve diş tabibi kadro sayıları için ayrı ayrı hesaplanmak şartıyla ve bu kadro sayılarının yüzde yirmisini geçmemek üzere belirlenen sayıda profesör ve doçenti, 4/11/1981 tarihli ve 2547 sayılı Yükseköğretim Kanununun 36 ncı maddesinin yedinci fıkrası kapsamında Devlet üniversitelerince yapılacak değerlendirmede uygun bulunması halinde yapacakları kurumsal sözleşme çerçevesinde mesai dışında hastanenin boş uzman tabip kadrosunda çalıştırabilir.\n (6) Diyaliz merkezleri ve üremeye yardımcı tedavi merkezlerinde ilgili mevzuatı uyarınca kadrolu çalışan uzman tabipler, üçüncü fıkraya uygun olmak kaydıyla özel hastanede çalışabilir.\n (7) Özel sağlık kuruluşlarında çalışan tabip/uzman tabipler, 1219 sayılı Kanunun 12 nci maddesine uygun olmak kaydıyla, çalıştıkları sağlık kuruluşundaki çalışma saatleri dışında başka bir özel hastanenin acil servis, klinik servis ve ünitelerinde çalışma belgesi düzenlenmeksizin nöbet tutabilir. Bu tabiplerin nöbet listesi aylık olarak düzenlenir ve Müdürlükçe onaylanır.\n (8) Vakıf üniversitesi kadrosunda bulunan tıp ve diş hekimliği fakültesi öğretim üyeleri, üniversite hastanesi dışında yalnızca vakıf üniversiteleriyle iş birliği protokolü bulunan bir özel hastanenin boş uzman tabip kadrosunda çalışabilir.",
+      "preview": "(1) Özel hastanelerin ruhsata esas tabip sayıları, faaliyet göstereceği uzmanlık dallarındaki uzman tabip kadro sayıları EKİP sistemine Baka…",
+      "kitap": null,
+      "kisim": null,
+      "bolum": "DÖRDÜNCÜ BÖLÜM · Personel Standartları",
+      "ayirim": null,
+      "maddeBaslik": "Kadrolu tabip çalıştırma",
+      "sectionPath": [
+        "DÖRDÜNCÜ BÖLÜM · Personel Standartları",
+        "Kadrolu tabip çalıştırma"
+      ]
+    },
+    {
+      "id": "yonetmelik:41265:m:17",
+      "maddeKind": "madde",
+      "maddeNo": "17",
+      "heading": "Madde 17",
+      "text": "(1) Bu Yönetmelik kapsamındaki kadro dışı geçici çalışma hükümleri, tabiplere yönelik bir hak olup özel hastaneye müktesep kadro hakkı vermez. Müdürlükçe kadro dışı geçici çalışan tabip adına Ek-12’deki personel çalışma belgesi düzenlenir. Kadro dışı geçici çalışma gün ve saatleri, kadrolu çalışılan kuruluşla yapılan sözleşmede açıkça belirtilir. Kadro dışı geçici çalışılan uzmanlık dalları kuruluşun faaliyet izin belgesine, çalışma şekli de belirtilerek eklenir. Bu uzmanların hastaneden ayrılması halinde yerine üç ay içinde aynı şekilde çalışacak uzman bulunamaz ise ilgili uzmanlık dalı hastanenin faaliyet izin belgesinden çıkarılır.\n (2) 60 yaşını dolduran tabipler ile engellilik oranı en az yüzde 60 olan tabipler, kadrolu çalışma ve boş kadro şartı aranmaksızın iki özel sağlık kuruluşunda çalışabilir.\n (3) Ücretli veya ücretsiz izinli sayılarak yurtdışına gönderilen kamu görevlisi tabipler ile ilgili mevzuattan kaynaklanan yükümlülükleri bulunan tabipler hariç olmak üzere, yurtdışında en az iki yıl süreyle mesleğini icra eden tabipler, yurtdışından döndükten sonra altı ay içinde başvurması halinde Türkiye’de çalışmak üzere tercih edecekleri özel hastanede bir kereye mahsus olmak üzere kadro dışı geçici çalışabilir.\n (4) Sağlık durumu aciliyet arz eden ve/veya başka kuruma sevki tıbben riskli olan hastalar için, tedavisini üstlenen tabibin talebi üzerine tıbbi görüş, destekleyici ve tamamlayıcı hizmet veya yardım alınması için konsültasyon hizmetine ihtiyaç duyulan uzmanlık dalında o ildeki (Değişik ibare:RG-29/8/2026-33355) tercihen özel sağlık kuruluşlarındaki kadrolu tabiplerden olmak üzere konsültan tabip davet edilebilir. Konsültan tabip hizmet bedeli hastane tarafından hizmet sunan kuruma ödenir. Bu şekilde hastaneye davet edilen konsültan tabiplerin isimleri ve uzmanlık dalları hakkında mesul müdür tarafından en geç beş iş günü içinde Müdürlüğe bilgi verilir.\n (5) Özel hastane, Bakanlıkça izin verilmesi kaydıyla yabancı tabip ve tabip dışı sağlık meslek mensubu çalıştırabilir. Ancak bu şekilde verilecek izin, hastaneye planlama kapsamında cihaz ve ünite ekleme hakkı vermez. Bu fıkra doğrultusunda yapılacak başvurular 22/2/2012 tarihli ve 28212 sayılı Resmî Gazete’de yayımlanan Yabancı Sağlık Meslek Mensuplarının Türkiye'de Özel Sağlık Kuruluşlarında Çalışma Usul ve Esaslarına Dair Yönetmelik çerçevesinde yürütülür.\n (6) Türkiye’de mesleğini icra etme yetkisine sahip olan ve yurt dışında mesleki faaliyette bulunan tabip ve diş tabipleri, bir yıl içinde toplamda altı ayı geçmeyecek şekilde Bakanlıkça uygun görülmesi halinde kadro dışı geçici olarak özel hastanede çalıştırılabilir.",
+      "preview": "(1) Bu Yönetmelik kapsamındaki kadro dışı geçici çalışma hükümleri, tabiplere yönelik bir hak olup özel hastaneye müktesep kadro hakkı verme…",
+      "kitap": null,
+      "kisim": null,
+      "bolum": "DÖRDÜNCÜ BÖLÜM · Personel Standartları",
+      "ayirim": null,
+      "maddeBaslik": "Kadro dışı geçici tabip çalıştırma",
+      "sectionPath": [
+        "DÖRDÜNCÜ BÖLÜM · Personel Standartları",
+        "Kadro dışı geçici tabip çalıştırma"
+      ]
+    },
+    {
+      "id": "yonetmelik:41265:m:18",
+      "maddeKind": "madde",
+      "maddeNo": "18",
+      "heading": "Madde 18",
+      "text": "(1) Özel hastanelerin tıbbi, idari ve teknik hizmetleri bir mesul müdür sorumluluğunda yürütülür.\n (2) Mesul müdür olarak görevlendirilecek olan tabibin;\n a) 1219 sayılı Kanun uyarınca Türkiye’de sanatını yapmaya mezun olmak,\n b) Türk vatandaşı olmak,\n c) Türkiye’de iki yılı kamu ya da özel hastanelerde olmak üzere, en az beş yıl tabiplik yaptığını gösteren belge veya belgeleri haiz olmak,\n ç) 1219 sayılı Kanunun 28 inci maddesi kapsamında tabiplik mesleğinden yasaklı olmama veya 2219 sayılı Kanunun 38 inci ve 39 uncu maddeleri uyarınca mesul müdürlükten yasaklı olmamak,\n d) İlgili tabip odasına kayıtlı olmak,\n niteliklerini taşıması şarttır.\n (3) Özel kanunlara göre geçici olarak meslekten men edilenler, bu yasakları süresince özel hastanelerde mesul müdürlük yapamaz.\n (4) Mesul müdür, görev yaptığı hastanenin dışında başka bir sağlık kurum ve kuruluşunda çalışamaz.\n (5) Mesul müdürün görev, yetki ve sorumlulukları şunlardır:\n a) Özel hastanenin tıbbi, idari ve teknik hizmetlerini mevzuata uygun olarak idare etmek ve denetlemek.\n b) Ruhsatlandırma ile ilgili her türlü işlemleri yürütmek.\n c) Özel hastanenin ruhsatlandırılmasından sonra, personel, bina ve tesis değişikliklerini Müdürlüğe bildirmek.\n ç) Özel hastane adına belge onaylamak.\n d) Bakanlık ve Müdürlük ile ilgili olan her türlü muhabere ve yazışmaları yürütmek.\n e) Özel hastanenin personel ve hizmet kalite standartlarını korumak ve geliştirmek.\n f) Özel hastane bünyesinde kurulması öngörülen ve ilgili mevzuatı çerçevesinde ruhsatlandırılması veya tescili gereken her türlü ünite, birim veya merkezlerle ilgili ruhsatlandırma işlemlerini yürütmek.\n g) Özel hastanenin tıbbi kayıt ve arşiv sistemini oluşturmak ve kayıtların düzenli ve doğru bir şekilde tutulmasını sağlamak.\n ğ) Özel hastanenin denetimi ile ilgili bilgi ve belgeleri muhafaza etmek.\n h) Denetimler sırasında denetim elemanlarınca istenilen her türlü bilgi ve belgeleri hazır hale getirmek.\n ı) Tıbbi atıkların kontrolü ve imhası için gereken bütün tedbirleri almak.\n i) Özel hastane hizmetlerinin tam gün esasına göre sürekli ve düzenli olarak yürütülmesini sağlamak ve nöbet sisteminin düzenli olarak işlemesini takip ve kontrol etmek.\n j) Özel hastanenin türüne, yatak sayısına, personel mevcuduna ve iş hacmine göre tesis edilen tıbbi, idari, mali ve teknik destek birimleri arasında koordineli ve uyumlu çalışmayı sağlamak.\n k) Mazeret sebebiyle görev yerinin terkedilmesi halinde veya gerektiğinde görevlerinin bir kısmını mesul müdür yardımcısına devretmek, terk süresi bir haftadan fazla olmamak kaydıyla derhal ilgili Müdürlüğe bilgi vermek ve izin süresi hiçbir şekilde bir yıl içerisinde toplam bir ayı geçmemek şartıyla iznin bir haftadan fazla sürdüğü hallerde Müdürlükten izin almak.\n l) 24/4/1930 tarihli ve 1593 sayılı Umumi Hıfzıssıhha Kanunu uyarınca bildirimi zorunlu olan hastalıklar ile adli vakaları Müdürlüğe ve gerekli diğer mercilere bildirmek.\n m) Özel hastanede görev yapan bütün personelin sağlık taramalarını yaptırmak.\n n) Özel hastanenin sterilizasyon ve dezenfeksiyon işlerinin düzenli bir şekilde yapılmasını sağlamak ve hastane enfeksiyonlarından korunma için gereken bütün tedbirleri almak.\n o) Hastaların tedavileri için dışarıdan tabip istenmesi halinde ilgili tabibi kuruma davet etmek.\n ö) Mevzuat ile öngörülen ve Bakanlıkça belirlenen diğer görevleri yapmak.\n (6) Mesul müdürün görevden alınması, istifası, mesul müdürlük şartlarından herhangi birini kaybetmesi veya vefatı gibi hallerde; hastanenin sahibi tarafından, en geç bir ay içinde bu Yönetmelikte belirtilen şartları taşıyan yeni bir mesul müdür görevlendirilerek gerekli bilgi ve belgeler Müdürlüğe verilir. Yeni mesul müdür adına Müdürlükçe mesul müdürlük belgesi düzenlenir. Bu süre zarfında mesul müdür yardımcısı mesul müdürlük görevini yapar.\n (7) Mesul müdürün herhangi bir sebeple görevden ayrılması halinde, özel hastaneye yeni mesul müdür görevlendirilinceye kadar bu görevi geçici olarak mesul müdür yardımcısı vekaleten yürütür ve bu durum en geç on gün içinde Müdürlüğe bildirilir.",
+      "preview": "(1) Özel hastanelerin tıbbi, idari ve teknik hizmetleri bir mesul müdür sorumluluğunda yürütülür. (2) Mesul müdür olarak görevlendirilecek o…",
+      "kitap": null,
+      "kisim": null,
+      "bolum": "DÖRDÜNCÜ BÖLÜM · Personel Standartları",
+      "ayirim": null,
+      "maddeBaslik": "Mesul müdür",
+      "sectionPath": [
+        "DÖRDÜNCÜ BÖLÜM · Personel Standartları",
+        "Mesul müdür"
+      ]
+    },
+    {
+      "id": "yonetmelik:41265:m:19",
+      "maddeKind": "madde",
+      "maddeNo": "19",
+      "heading": "Madde 19",
+      "text": "(1) 18 inci maddenin ikinci ve üçüncü fıkralarında öngörülen hükümlere uygun en az bir tabip, mesul müdür yardımcısı olarak Müdürlüğe bildirilir.\n (2) Mesul müdür yardımcısı;\n a) Mesul müdürün değişmesi halinde, geçici olarak mesul müdürlük görevi ile Bakanlık ve Müdürlük nezdinde hastanenin iş ve işlemlerini yürütür.\n b) Reçete onayı, istirahat raporu onayı gibi poliklinik hastaları ile ilgili usulî işlemlerde mesul müdüre yardımcı olur ve imza yetkisi kullanabilir. Ancak bu durumda, mesul müdür tarafından yazılı olarak hangi işlemleri yürüteceğine dair yetki devredilmesi gerekir.\n (3) Mesul müdür yardımcısının ikinci fıkra hükümlerine göre yürüttüğü iş ve işlemlerinden dolayı Bakanlığa karşı mesul müdür sorumludur.",
+      "preview": "(1) 18 inci maddenin ikinci ve üçüncü fıkralarında öngörülen hükümlere uygun en az bir tabip, mesul müdür yardımcısı olarak Müdürlüğe bildir…",
+      "kitap": null,
+      "kisim": null,
+      "bolum": "DÖRDÜNCÜ BÖLÜM · Personel Standartları",
+      "ayirim": null,
+      "maddeBaslik": "Mesul müdür yardımcısı",
+      "sectionPath": [
+        "DÖRDÜNCÜ BÖLÜM · Personel Standartları",
+        "Mesul müdür yardımcısı"
+      ]
+    },
+    {
+      "id": "yonetmelik:41265:m:20",
+      "maddeKind": "madde",
+      "maddeNo": "20",
+      "heading": "Madde 20",
+      "text": "(1) Çalışan her klinisyen tabip için ayrı poliklinik muayene odası düzenlenir. Ancak bir poliklinik muayene odasında, çalışma süreleri belirlenmek kaydıyla birden fazla klinisyen tabibin çalışmasına izin verilir. Hastane bünyesinde kadrolu ve kadro dışı geçici çalışan tabip sayısından fazla poliklinik muayene odasının olması, tabip/uzman tabip kadro sayısı artırma hakkı vermez.\n (2) Ayakta hasta muayenesinde, 1/8/1998 tarihli ve 23420 sayılı Resmî Gazete’de yayımlanan Hasta Hakları Yönetmeliğinde öngörülen ilkelere uygun davranılmak ve hasta mahremiyetine saygı ilkesine uyulmak suretiyle hastalar ayrı ayrı muayene edilir.\n (3) Muayenenin ilgili tabip tarafından yapılması şart olup fizik muayene yapılan muayene odalarında görevli bir sağlık personelinin de bulunması asıldır.",
+      "preview": "(1) Çalışan her klinisyen tabip için ayrı poliklinik muayene odası düzenlenir. Ancak bir poliklinik muayene odasında, çalışma süreleri belir…",
+      "kitap": null,
+      "kisim": null,
+      "bolum": "BEŞİNCİ BÖLÜM · Özel Hastanelerin Hizmet ve Çalışma Esasları",
+      "ayirim": null,
+      "maddeBaslik": "Poliklinik hizmetleri",
+      "sectionPath": [
+        "BEŞİNCİ BÖLÜM · Özel Hastanelerin Hizmet ve Çalışma Esasları",
+        "Poliklinik hizmetleri"
+      ]
+    },
+    {
+      "id": "yonetmelik:41265:m:21",
+      "maddeKind": "madde",
+      "maddeNo": "21",
+      "heading": "Madde 21",
+      "text": "(1) Özel hastanelerde, acil sağlık hizmeti verilmesi ve acil vakaların hastanın sağlık güvencesi olup olmadığına veya ödeme gücü bulunup bulunmadığına bakılmaksızın kabul edilmesi ve gerekli tıbbi müdahalenin kayıtsız, şartsız ve gecikmeksizin yapılması zorunludur. Hizmet bedelinin tahsiliyle ilgili işlemler, acil müdahale ve bakım sağlandıktan sonra yapılır. Özel hastane, acil olarak gelen hastalara yeterli personeli veya donanımı olmadığı, ilgili birimi veya boş yatağı bulunmadığı, hastanın sağlık güvencesi olmadığı ve benzeri sebepler ile gerekli acil tıbbi müdahaleyi yapmaktan kaçınamaz.\n (2) Acil servise başvuran hastalar ile yatarak veya ayakta tedavi gören hastalara yoğun bakım hizmeti dahil olmak üzere gerekli ilk müdahalenin yapılması, tedavinin devamı için gerekiyorsa hastanın yatışı yapılarak tedavisinin ve eğer gelişirse komplikasyonların tedavisinin tamamlanması esastır. Hastanın tıbbi durumuna bağlı olarak ilgili uzman tabip, tıbbi donanım, müdahale, bakım veya tedavi için gerekli şartların hastanede sağlanamaması durumunda ise, gerekli ilk müdahalenin yapılmış olması kaydıyla, başka bir sağlık kuruluşuna usulüne uygun şekilde sevki sağlanabilir. Acil hastaların ihtiyaç durumunda nakledileceği sağlık kuruluşunun belirlenmesi ve nakil işlemleri Sağlık Komuta Kontrol Merkezinin yönetiminde ve koordinasyonunda yapılır.\n (3) Sağlık Komuta Kontrol Merkezi, 1/5/2000 tarihli ve 24046 sayılı Resmî Gazete’de yayımlanan Acil Sağlık Hizmetleri Yönetmeliğinde düzenlenen hizmet akışı çerçevesinde en uygun hastaneye hastanın naklini sağlar. Hasta nakil süreci Bakanlık elektronik sistemleri üzerinden takip edilir.\n (4) Özel hastaneler, Bakanlıkça belirlenen esaslar çerçevesinde; Sağlık Afet Koordinasyon Merkezi (SAKOM) tarafından Olay Yönetim Sistemi (OYS)’nde tanımlanan olay ile ilişkili olarak ambulans veya kendi imkanları ile gelen başvuruların kimlik, tanı, servis ve tedavi gibi vaka bilgilerini, boş, dolu ve toplam yatak durumlarını, servislerin seviye bilgilerini, fiilen çalışan nöbetçi tabip listelerini ve ambulansla acile getirilen hastaların tanı ile tedavi bilgilerini, güncel ve doğru olarak Sağlık Komuta Kontrol Merkezine vermekle yükümlüdür.\n (5) Özel hastaneler, acil sağlık hizmetlerini düzenleyen ilgili diğer mevzuata da uymak zorundadır.\n (6) Özel hastanelerin acil ünitesinde günün her saatinde tabip bulundurulması zorunludur. Hastanenin ruhsata esas uzmanlık dallarında acil tıp uzmanı bulunması halinde bu tabip acil serviste görevlendirilir. Acil tabibi tarafından yapılacak davete ilgili dal uzmanının ve diğer personelin uymaları zorunludur. Normal çalışma saatleri dışında faaliyet gösterilen uzmanlık dallarındaki uzman tabipler icapçı olarak görev yaparlar. Ancak mevcut kadrolu veya kadro dışı geçici çalışan uzman tabipler, mesul müdürce düzenlenen nöbet listesine göre acil ünitesinde nöbet tutabilir. Hastanede kadro dışı çalışan tabipler de nöbet tutabilir. Acil serviste nöbet tutan tabiplerin üstlerinde fotoğrafları ve “Nöbetçi Tabip” yazılı mesul müdür tarafından düzenlenmiş kimlik kartı bulunmak zorundadır. Nöbetçi tabip listesi haftalık olarak hazırlanır ve mesul müdür tarafından onaylanarak dosyalanır.\n (7) Belirli bir uzmanlık dalında faaliyet gösteren hastanelerin acil üniteleri sürekli olarak kullanıma hazır halde bulundurulur ve faaliyet gösterecekleri ilgili uzmanlık dalı veya dallarının gerektirdiği tıbbi donanım, malzeme ve ilaçlar bulunur.",
+      "preview": "(1) Özel hastanelerde, acil sağlık hizmeti verilmesi ve acil vakaların hastanın sağlık güvencesi olup olmadığına veya ödeme gücü bulunup bul…",
+      "kitap": null,
+      "kisim": null,
+      "bolum": "BEŞİNCİ BÖLÜM · Özel Hastanelerin Hizmet ve Çalışma Esasları",
+      "ayirim": null,
+      "maddeBaslik": "Acil servis hizmetleri",
+      "sectionPath": [
+        "BEŞİNCİ BÖLÜM · Özel Hastanelerin Hizmet ve Çalışma Esasları",
+        "Acil servis hizmetleri"
+      ]
+    },
+    {
+      "id": "yonetmelik:41265:m:22",
+      "maddeKind": "madde",
+      "maddeNo": "22",
+      "heading": "Madde 22",
+      "text": "(1) Özel hastaneler kendi sahipliğinde veya hizmet sözleşmesi ile en az bir acil yardım ambulansı bulundurmak zorundadır.",
+      "preview": "(1) Özel hastaneler kendi sahipliğinde veya hizmet sözleşmesi ile en az bir acil yardım ambulansı bulundurmak zorundadır.",
+      "kitap": null,
+      "kisim": null,
+      "bolum": "BEŞİNCİ BÖLÜM · Özel Hastanelerin Hizmet ve Çalışma Esasları",
+      "ayirim": null,
+      "maddeBaslik": "Ambulans hizmetleri",
+      "sectionPath": [
+        "BEŞİNCİ BÖLÜM · Özel Hastanelerin Hizmet ve Çalışma Esasları",
+        "Ambulans hizmetleri"
+      ]
+    },
+    {
+      "id": "yonetmelik:41265:m:23",
+      "maddeKind": "madde",
+      "maddeNo": "23",
+      "heading": "Madde 23",
+      "text": "(1) Özel hastanelerin eczanelerinden sadece yatan hastalara ilaç verilir. Özel hastane eczaneleri ile bunların sorumlu eczacı ve diğer yetkilileri, teftiş ve cezai yaptırımlar yönünden ilgili mevzuat hükümlerine tabidirler.\n (2) Sorumlu eczacısı bulunmayan hastane eczaneleri kapatılır.\n (3) Dört veya daha fazla eczacı istihdam edilen özel hastane eczanelerinde, çalışma saatleri dışında ve tatil günlerinde, hizmetin gerekli kıldığı hallerde nöbetçi eczacı tarafından yerine getirilmesi şartıyla hizmet verilir. Nöbet listesi, sorumlu eczacı tarafından yapılır. Ancak, dört eczacıdan daha az eczacı istihdam edilen özel hastane eczanelerinde nöbet hizmeti verilmesi zorunlu değildir.",
+      "preview": "(1) Özel hastanelerin eczanelerinden sadece yatan hastalara ilaç verilir. Özel hastane eczaneleri ile bunların sorumlu eczacı ve diğer yetki…",
+      "kitap": null,
+      "kisim": null,
+      "bolum": "BEŞİNCİ BÖLÜM · Özel Hastanelerin Hizmet ve Çalışma Esasları",
+      "ayirim": null,
+      "maddeBaslik": "Eczane hizmetleri ve nöbetleri",
+      "sectionPath": [
+        "BEŞİNCİ BÖLÜM · Özel Hastanelerin Hizmet ve Çalışma Esasları",
+        "Eczane hizmetleri ve nöbetleri"
+      ]
+    },
+    {
+      "id": "yonetmelik:41265:m:24",
+      "maddeKind": "madde",
+      "maddeNo": "24",
+      "heading": "Madde 24",
+      "text": "(1) Muayenehanesi bulunan tabipler, 1219 sayılı Kanunun 12 nci maddesinin üçüncü fıkrası gereğince hizmet bedeli hasta tarafından karşılanmak ve Sosyal Güvenlik Kurumundan talep edilmemek kaydıyla, muayenehanesine müracaat eden hastalarının tedavisini sözleşme yapmak suretiyle ilgili branşta ruhsatı bulunan özel hastanelerde yapabilir.\n (2) Özel hastaneler, ilgili uzmanlık dalındaki toplam kadro sayısının üçte birini aşmayacak şekilde tabiple sözleşme yapabilir. Muayenehanesi bulunan 60 yaş üstü tabipler, sözleşme yaptığı hastanelerin birinde bu kadro sınırlamasına tabi tutulmaz.\n (3) Muayenehanenin bulunduğu ilde ilgili uzmanlık dalında sözleşme yapılabilecek uygun özel sağlık kuruluşu bulunmadığı hallerde talep edilmesi halinde Bakanlığın uygun görüşüyle yakın bir ildeki özel hastane ile sözleşme yapılabilir.\n (4) (Değişik:RG-29/8/2026-33355) Sözleşme imzalanan hastanede muayenehaneden gelen hastaya öngörülen müdahalenin yapılamadığı durumlarda tabibin istediği başka bir hastanede bu işlemin yapılması için ilgili il sağlık müdürlüğü tarafından vaka bazlı özel izin verilebilir. Bu fıkra kapsamındaki iznin istenmesi, izin talebinin değerlendirme kriterleri ve değerlendirme süreci ile iznin acil hallerde, mesai saatleri dışında ve tatil günlerinde uygulanmasına ilişkin usul ve esaslar Bakanlıkça belirlenir.\n (5) Muayenehane tabibiyle yapılan sözleşmenin taraflarca imzalanmış nüshası imzalandığı tarihten itibaren en geç 5 iş günü içinde özel hastane tarafından EKİP sistemine yüklenerek Müdürlüğe gönderilir. Sözleşmenin sona erdiği hallerde bu durum sözleşme bitiş tarihinden itibaren en geç 5 iş günü içinde Müdürlüğe bildirilir.\n (6) Sözleşme kapsamında özel hastanede tedavi gören hastalar, hastanedeki tedavi masraflarının kendileri tarafından karşılanacağı hususu ile tıbbi müdahalenin konusu ve sonuçları hakkında muayenehanede bilgilendirilir ve hastanın bilgileri tedavi olacağı özel hastaneye, Muayene Bilgi Yönetim Sistemi (MBYS) üzerinden Bakanlıkça belirlenen form ile gönderilir. Özel hastanede gerçekleştirilecek ayakta veya yatarak tedavi öncesi muayenehane hastalarına ilişkin bilgilendirilmiş rıza formu hasta veya kanuni temsilcisi, muayenehane tabibi, özel hastanenin ilgili birim sorumlusu tarafından imzalanır.\n (7) Hastanedeki tedavisi süresince ilgili tabip tarafından hastaya kesintisiz hizmet sunumu sağlanır. Hastaya sunulan teşhis ve tedavi hizmetlerinden muayenehane tabibi ve özel hastane müştereken sorumludur.\n (8) Özel hastanenin mesul müdürleri her ay sonu sözleşme kapsamında muayenehaneden gelen hastaların sayısı ve tabip ismini Müdürlüğe bildirir.\n (9) Bu madde kapsamında hizmet sunan tabiplerin hastane eczanesi dışında ilaç ve sarf malzemesi kullanması yasaktır. Ayrıca bu şekilde tedavi gören hastalara özel hastane tarafından sunulan tüm hizmet ve kullanılan ilaç/malzemeleri gösteren ayrıntılı fatura düzenlenir.",
+      "preview": "(1) Muayenehanesi bulunan tabipler, 1219 sayılı Kanunun 12 nci maddesinin üçüncü fıkrası gereğince hizmet bedeli hasta tarafından karşılanma…",
+      "kitap": null,
+      "kisim": null,
+      "bolum": "BEŞİNCİ BÖLÜM · Özel Hastanelerin Hizmet ve Çalışma Esasları",
+      "ayirim": null,
+      "maddeBaslik": "Muayenehane tabiplerinin özel hastanede hasta tedavisi",
+      "sectionPath": [
+        "BEŞİNCİ BÖLÜM · Özel Hastanelerin Hizmet ve Çalışma Esasları",
+        "Muayenehane tabiplerinin özel hastanede hasta tedavisi"
+      ]
+    },
+    {
+      "id": "yonetmelik:41265:m:25",
+      "maddeKind": "madde",
+      "maddeNo": "25",
+      "heading": "Madde 25",
+      "text": "(1) Ölenin ailesi veya kanuni yakınları cenazelerini almak isterlerse, cenaze kendilerine imza karşılığı teslim edilir. Ölenin ailesi veya kanuni yakınlarının cenazeyi almak istememeleri veya defin işleminin hastane tarafından yapılmasını istemeleri durumunda ise hastane tarafından il/ilçe belediyesine gerekli müracaat yapılarak belediye tarafından defni sağlanır.\n (2) Ölü doğan veya canlı doğan fakat daha sonra ölen bebeklerin ailesi veya yakınları cenazelerini almak isterlerse ilgililere, hastanece temin edilen, içinde cenazeyi sabitleyecek bir düzeneğin bulunduğu portatif bebek taşıyıcı veya tabut içerisinde ve imza karşılığı teslim edilir.\n (3) 22/11/2001 tarihli ve 4721 sayılı Türk Medeni Kanunu hükümlerine göre kişilik kazanmamış ölü doğan çocuklar, düşük mahsulleri ve ampute edilmiş organlar adli bir sakınca bulunmadığı hallerde; plasentalar ise tıbbi maksatlarla kullanılmak üzere ilgililerce alınmadıkları takdirde aileleri tarafından gömülür veya tesisatı olan hastanelerde fenni şekilde yok edilir. Bu takdirde olay bir tutanakla saptanır.",
+      "preview": "(1) Ölenin ailesi veya kanuni yakınları cenazelerini almak isterlerse, cenaze kendilerine imza karşılığı teslim edilir. Ölenin ailesi veya k…",
+      "kitap": null,
+      "kisim": null,
+      "bolum": "BEŞİNCİ BÖLÜM · Özel Hastanelerin Hizmet ve Çalışma Esasları",
+      "ayirim": null,
+      "maddeBaslik": "Ölüm durumunda yapılacak işler",
+      "sectionPath": [
+        "BEŞİNCİ BÖLÜM · Özel Hastanelerin Hizmet ve Çalışma Esasları",
+        "Ölüm durumunda yapılacak işler"
+      ]
+    },
+    {
+      "id": "yonetmelik:41265:m:26",
+      "maddeKind": "madde",
+      "maddeNo": "26",
+      "heading": "Madde 26",
+      "text": "(1) Özel hastaneler tedavi ettiği hastaların; istirahat/iş göremezlik raporlarını, tedavilerinde kullanılan ilaç, tıbbi cihaz ve malzeme kullanımına yönelik sağlık raporlarını ve ilgili mevzuat kapsamında sürücü/sürücü adayı sağlık raporlarını düzenleyebilirler. Bakanlıkça, bölgenin ihtiyacı, kamu sağlık hizmet sunucularının kapasitesi, özel sağlık hizmet sunucusunun kadro durumu ve raporun türüne göre değerlendirme yapılarak raporlara ilişkin izin verilebilir. Bakanlıkça izin verilen haller hariç olmak üzere; usulüne uygun olarak teşekkül ettirilmiş olsa bile özel hastaneler; bu fıkrada belirtilenler dışında durum bildirir raporları düzenleyemezler. Özel hastanelere durum bildirir sağlık raporu düzenleme izninin verilebilmesi için iç hastalıkları, kulak burun boğaz hastalıkları, genel cerrahi, göz hastalıkları, ortopedi ve travmatoloji veya fizik tedavi ve rehabilitasyon, nöroloji veya ruh sağlığı ve hastalıkları uzmanlık dallarının hastane ruhsatında kayıtlı bulunması ve bu branştaki kurul üyesi tabibin de hastanede tam gün esasına göre çalışması zorunludur.\n (2) Raporlara ilişkin yapılacak itirazlar ile raporların şekil şartlarına ilişkin hususlar Bakanlıkça belirlenir.",
+      "preview": "(1) Özel hastaneler tedavi ettiği hastaların; istirahat/iş göremezlik raporlarını, tedavilerinde kullanılan ilaç, tıbbi cihaz ve malzeme kul…",
+      "kitap": null,
+      "kisim": null,
+      "bolum": "BEŞİNCİ BÖLÜM · Özel Hastanelerin Hizmet ve Çalışma Esasları",
+      "ayirim": null,
+      "maddeBaslik": "Sağlık raporları",
+      "sectionPath": [
+        "BEŞİNCİ BÖLÜM · Özel Hastanelerin Hizmet ve Çalışma Esasları",
+        "Sağlık raporları"
+      ]
+    },
+    {
+      "id": "yonetmelik:41265:m:27",
+      "maddeKind": "madde",
+      "maddeNo": "27",
+      "heading": "Madde 27",
+      "text": "(1) Özel hastanelerde bulundurulacak tıbbi araç ve gereçlerin asgari sayıları ve türleri Ek-3’te gösterilmiştir.",
+      "preview": "(1) Özel hastanelerde bulundurulacak tıbbi araç ve gereçlerin asgari sayıları ve türleri Ek-3’te gösterilmiştir.",
+      "kitap": null,
+      "kisim": null,
+      "bolum": "ALTINCI BÖLÜM · Tıbbi Donanım ve Bulundurulması Zorunlu İlaçlar",
+      "ayirim": null,
+      "maddeBaslik": "Tıbbi donanım",
+      "sectionPath": [
+        "ALTINCI BÖLÜM · Tıbbi Donanım ve Bulundurulması Zorunlu İlaçlar",
+        "Tıbbi donanım"
+      ]
+    },
+    {
+      "id": "yonetmelik:41265:m:28",
+      "maddeKind": "madde",
+      "maddeNo": "28",
+      "heading": "Madde 28",
+      "text": "(1) Özel hastanelerde bulundurulması zorunlu ilaçların türleri ve asgari miktarları Ek-4’te gösterilmiştir.\n (2) Ek-4’te gösterilen ilaçların yerine aynı bileşimde veya aynı etkiye sahip başka muadil ilaçlar bulundurulabilir.",
+      "preview": "(1) Özel hastanelerde bulundurulması zorunlu ilaçların türleri ve asgari miktarları Ek-4’te gösterilmiştir. (2) Ek-4’te gösterilen ilaçların…",
+      "kitap": null,
+      "kisim": null,
+      "bolum": "ALTINCI BÖLÜM · Tıbbi Donanım ve Bulundurulması Zorunlu İlaçlar",
+      "ayirim": null,
+      "maddeBaslik": "Bulundurulması zorunlu ilaçlar",
+      "sectionPath": [
+        "ALTINCI BÖLÜM · Tıbbi Donanım ve Bulundurulması Zorunlu İlaçlar",
+        "Bulundurulması zorunlu ilaçlar"
+      ]
+    },
+    {
+      "id": "yonetmelik:41265:m:29",
+      "maddeKind": "madde",
+      "maddeNo": "29",
+      "heading": "Madde 29",
+      "text": "(1) Özel hastanelere başvuran hastalara ait veriler elektronik ortamda kaydedilir. Verilerin kaydedilmesi ve arşivlenmesi hususlarında Bakanlığın kayıt tescil sisteminde kayıtlı bir sağlık bilgi yönetim sistemi kullanılması zorunludur.\n (2) Özel hastaneler tarafından kayıt altına alınan kişisel sağlık verileri, 24/3/2016 tarihli ve 6698 sayılı Kişisel Verilerin Korunması Kanunu ile ikincil düzenlemelere ve 3359 sayılı Kanunun ek 19 uncu maddesine uygun bir şekilde Bakanlıkça belirlenen usul ve esaslara göre işlenerek merkezi sağlık veri sistemine aktarılır. Bakanlık tarafından kurulan kayıt ve bildirim sistemine ve Bakanlıkça yapılacak diğer iş ve işlemlere esas olmak üzere, istenilen bilgi ve belgelerin gönderilmesi zorunludur.\n (3) Tüm hasta kayıtları, ilgili mevzuat hükümlerine uygun şekilde muhafaza edilir. Hasta bilgilerinin gizliliği ilkeleri ihlal edilemez.\n (4) 15/1/2004 tarihli ve 5070 sayılı Elektronik İmza Kanunu hükümlerine uygun elektronik imza ile imzalanmış tıbbi kayıtlar, resmî kayıt olarak kabul edilir ve ilgili mevzuata göre yedekleme ve arşivlemesi yapılır. Hastaların sağlık bilgilerine ait gerekli kayıtların elektronik ortamda saklanmasının, değiştirilmesinin veya silinmesinin önlenmesi ve gizliliğin ihlal edilmemesi için fiziki, manyetik veya elektronik müdahalelere ve olası suistimallere karşı gerekli idari ve teknik tedbirler alınır. Bu konudaki gerekli idari ve teknik tedbirlerin alınmasından ve periyodik olarak denetlenmesinden mesul müdür sorumludur. Elektronik ortamdaki veriler, güvenli yedekleme sistemiyle düzenli olarak yedeklenir. Dosyada bulundurulması zorunlu formlar ve evrak ayrıca saklanır.\n (5) Adli vakalara ve adli raporlara ait kayıtların gizliliği ve güvenliği açısından, vakayı takip eden tabip haricinde vaka hakkında veri girişi veya adli raporu tanzim eden tabibin onayından sonra raporda değişiklik yapılamaması için gerekli tedbirler alınır. Adli vaka kayıtlarına, mesul müdür veya yetkilendirdiği kişiler erişebilir. Adli kayıt veya raporların resmî mercilerden istenmesi halinde, yeni suret alınarak suret olduğu belirtilir ve tasdiklenir. Bu raporlar ile ilgili sorumluluk mesul müdüre aittir.\n (6) Özel hastanelerde, tıbbi kayıtların ilgili mevzuatına uygun olarak saklanması amacı ile tasnif ve muhafazaya elverişli ve elektronik imza mevzuatına uygun güvenli bir dijital hasta kayıt arşivi ve/veya fiziki bir tıbbi arşiv kurulması zorunludur. Tıbbi arşivin hastane bünyesinde bulunması zorunlu değildir.\n (7) Elektronik imza mevzuatına uygun güvenli dijital hasta kaydına geçilmeyen hastanelerde bilgisayar ortamında kayıt tutulması, yazılı kayıt sisteminin gereklerini ortadan kaldırmaz.\n (8) Özel hastane bünyesinde uzaktan sağlık hizmet sunumu kapsamında hizmet sunulması halinde ilgili mevzuat hükümlerine göre kayıt tutulması zorunludur.",
+      "preview": "(1) Özel hastanelere başvuran hastalara ait veriler elektronik ortamda kaydedilir. Verilerin kaydedilmesi ve arşivlenmesi hususlarında Bakan…",
+      "kitap": null,
+      "kisim": null,
+      "bolum": "YEDİNCİ BÖLÜM · Tıbbi Kayıt ve Arşiv, Faturalandırma ve Hastaya Verilecek Belgeler",
+      "ayirim": null,
+      "maddeBaslik": "Tıbbi kayıt ve arşiv",
+      "sectionPath": [
+        "YEDİNCİ BÖLÜM · Tıbbi Kayıt ve Arşiv, Faturalandırma ve Hastaya Verilecek Belgeler",
+        "Tıbbi kayıt ve arşiv"
+      ]
+    },
+    {
+      "id": "yonetmelik:41265:m:30",
+      "maddeKind": "madde",
+      "maddeNo": "30",
+      "heading": "Madde 30",
+      "text": "(1) Özel hastanelerde ayakta veya yatarak tedavi edilen bütün hastalar için ilgili mevzuatına göre satış fişi veya fatura düzenlenmesi zorunludur. Satış fişi veya fatura ekinde hastaya sunulan sağlık hizmetinin ayrıntılı dökümünü ve birim fiyatlarını gösteren belge düzenlenir.\n (2) Özel hastanelerde kullanılan ilaç ve tıbbi malzeme bedelleri piyasa rayiç bedellerinin üzerinde olamaz.",
+      "preview": "(1) Özel hastanelerde ayakta veya yatarak tedavi edilen bütün hastalar için ilgili mevzuatına göre satış fişi veya fatura düzenlenmesi zorun…",
+      "kitap": null,
+      "kisim": null,
+      "bolum": "YEDİNCİ BÖLÜM · Tıbbi Kayıt ve Arşiv, Faturalandırma ve Hastaya Verilecek Belgeler",
+      "ayirim": null,
+      "maddeBaslik": "Hastane faturalarının düzenlenmesi",
+      "sectionPath": [
+        "YEDİNCİ BÖLÜM · Tıbbi Kayıt ve Arşiv, Faturalandırma ve Hastaya Verilecek Belgeler",
+        "Hastane faturalarının düzenlenmesi"
+      ]
+    },
+    {
+      "id": "yonetmelik:41265:m:31",
+      "maddeKind": "madde",
+      "maddeNo": "31",
+      "heading": "Madde 31",
+      "text": "(1) Özel hastaneler, hastalar tarafından istenildiğinde aşağıda belirtilen belgeleri ücretsiz olarak vermek zorundadır:\n a) Özel hastanede kullanılıp bedeli hastadan alınan ilaç ve sarf malzemesinin tür ve miktarlarını gösteren liste.\n b) Adli vakalara ilişkin olanların asılları verilmemek kaydıyla, özel hastanede veya dışarıda yapılan ve bedeli hasta tarafından ödenen her türlü tetkik, tahlil ve görüntüleme sonuçları.\n c) Dışarıdan satın alınan ilaç ve malzemenin reçeteleri.\n ç) Hastaların klinik ve laboratuvar bulguları, hastalığın teşhisi, seyri, yapılan incelemeler ile tedavi ve sonucuna ilişkin tedaviyi yapan tabip tarafından düzenlenecek çıkış özeti.\n SEKİZİNCİ BÖLÜM\n Yatak Sınıfları, Gündelik Yatak Ücretleri, Kıyafet ve Kimlik Kartı,",
+      "preview": "(1) Özel hastaneler, hastalar tarafından istenildiğinde aşağıda belirtilen belgeleri ücretsiz olarak vermek zorundadır: a) Özel hastanede ku…",
+      "kitap": null,
+      "kisim": null,
+      "bolum": "YEDİNCİ BÖLÜM · Tıbbi Kayıt ve Arşiv, Faturalandırma ve Hastaya Verilecek Belgeler",
+      "ayirim": null,
+      "maddeBaslik": "Hastaya verilecek belgeler",
+      "sectionPath": [
+        "YEDİNCİ BÖLÜM · Tıbbi Kayıt ve Arşiv, Faturalandırma ve Hastaya Verilecek Belgeler",
+        "Hastaya verilecek belgeler"
+      ]
+    },
+    {
+      "id": "yonetmelik:41265:m:32",
+      "maddeKind": "madde",
+      "maddeNo": "32",
+      "heading": "Madde 32",
+      "text": "(1) Özel hastanelerde; özel, birinci sınıf ve ikinci sınıf hasta odaları ile yoğun bakım hizmetlerinin gereklerine göre kuvöz ve yoğun bakım yatakları bulunur.\n (2) Özel oda; üç taraftan müdahaleye uygun, tek yataklı, müstakil tuvalet ve lavabo, tuvalet ile lavabodan ayrılmış banyo, buzdolabı, televizyon, internet, telefon ile hasta refakatçisinin dinlenmesi için oda/bölüm ve içinde ayrıca banyo, lavabo ve tuvaleti olan odadır.\n (3) Birinci sınıf oda; üç taraftan müdahaleye uygun, tek yataklı, müstakil tuvaletli ve lavabolu, tuvalet ile lavabodan ayrılmış banyosu olan ve hasta refakatçisinin dinlenmesine yönelik donanımı bulunan odadır.\n (4) İkinci sınıf oda; iki yataklı, yatakların arası uygun biçimde ayrılabilen, üç taraftan müdahaleye uygun, müstakil tuvaletli, lavabolu ve tuvalet ve lavabodan ayrılmış banyo bölümü olan odadır.",
+      "preview": "(1) Özel hastanelerde; özel, birinci sınıf ve ikinci sınıf hasta odaları ile yoğun bakım hizmetlerinin gereklerine göre kuvöz ve yoğun bakım…",
+      "kitap": null,
+      "kisim": null,
+      "bolum": "YEDİNCİ BÖLÜM · Tıbbi Kayıt ve Arşiv, Faturalandırma ve Hastaya Verilecek Belgeler",
+      "ayirim": null,
+      "maddeBaslik": "Yatak sınıfları",
+      "sectionPath": [
+        "YEDİNCİ BÖLÜM · Tıbbi Kayıt ve Arşiv, Faturalandırma ve Hastaya Verilecek Belgeler",
+        "Yatak sınıfları"
+      ]
+    },
+    {
+      "id": "yonetmelik:41265:m:33",
+      "maddeKind": "madde",
+      "maddeNo": "33",
+      "heading": "Madde 33",
+      "text": "(1) Özel hastanelerde yatan hastalardan yatak sınıflarına göre gündelik yatak ücreti alınır. Gündelik yatak ücretine; yatak, yemek, temizlik ve rutin hemşirelik bakımı hizmetleri dahildir. Bu hizmetler gündelik yatak ücreti dışında ayrıca fatura edilemez.\n (2) Özel hastaneler, günlük yatak ücretlerini her yıl kendileri tespit ederek Bakanlığa bildirir ve bu ücret Bakanlıkça onaylanır.\n (3) Bakanlık, emsal hastanelerdeki en yüksek ve en düşük yatak ücretlerini ve hastanelerin kapasitelerini dikkate alarak, gerektiğinde günlük yatak ücretlerinin üst sınırını belirlemeye yetkilidir.",
+      "preview": "(1) Özel hastanelerde yatan hastalardan yatak sınıflarına göre gündelik yatak ücreti alınır. Gündelik yatak ücretine; yatak, yemek, temizlik…",
+      "kitap": null,
+      "kisim": null,
+      "bolum": "YEDİNCİ BÖLÜM · Tıbbi Kayıt ve Arşiv, Faturalandırma ve Hastaya Verilecek Belgeler",
+      "ayirim": null,
+      "maddeBaslik": "Gündelik yatak ücretleri",
+      "sectionPath": [
+        "YEDİNCİ BÖLÜM · Tıbbi Kayıt ve Arşiv, Faturalandırma ve Hastaya Verilecek Belgeler",
+        "Gündelik yatak ücretleri"
+      ]
+    },
+    {
+      "id": "yonetmelik:41265:m:34",
+      "maddeKind": "madde",
+      "maddeNo": "34",
+      "heading": "Madde 34",
+      "text": "(1) Özel hastanelerde, en az bir yatak olmak kaydıyla, yatak kapasitesinin %3’ü Sosyal Yardımlaşma ve Dayanışma Vakfı tarafından öngörülen kriterlere uygun, hastanenin bulunduğu yerdeki en büyük mülki amir veya müdürlük tarafından sevk edilen hastalar ile acil olarak müracaat eden ve başka bir kuruma nakli tıbben mümkün olmayan fakir ve muhtaç hastaların tedavileri için ücretsiz olarak kullanılır.\n (2) Bu hastalara ait bilgilerin bildirimi EKİP sistemi üzerinden yapılır.",
+      "preview": "(1) Özel hastanelerde, en az bir yatak olmak kaydıyla, yatak kapasitesinin %3’ü Sosyal Yardımlaşma ve Dayanışma Vakfı tarafından öngörülen k…",
+      "kitap": null,
+      "kisim": null,
+      "bolum": "YEDİNCİ BÖLÜM · Tıbbi Kayıt ve Arşiv, Faturalandırma ve Hastaya Verilecek Belgeler",
+      "ayirim": null,
+      "maddeBaslik": "Fakir ve muhtaç hastaların tedavisi",
+      "sectionPath": [
+        "YEDİNCİ BÖLÜM · Tıbbi Kayıt ve Arşiv, Faturalandırma ve Hastaya Verilecek Belgeler",
+        "Fakir ve muhtaç hastaların tedavisi"
+      ]
+    },
+    {
+      "id": "yonetmelik:41265:m:35",
+      "maddeKind": "madde",
+      "maddeNo": "35",
+      "heading": "Madde 35",
+      "text": "(1) Özel hastaneler, 3359 sayılı Kanunun 3 üncü maddesinin birinci fıkrasının (b) bendi uyarınca, Müdürlüğün uygun görüşü ve Bakanlığın onayı ile koruyucu sağlık hizmetleri verebilir. Bu kapsamda yapılan hizmetler Bakanlığın kayıt sistemine bildirilmek zorundadır.",
+      "preview": "(1) Özel hastaneler, 3359 sayılı Kanunun 3 üncü maddesinin birinci fıkrasının (b) bendi uyarınca, Müdürlüğün uygun görüşü ve Bakanlığın onay…",
+      "kitap": null,
+      "kisim": null,
+      "bolum": "YEDİNCİ BÖLÜM · Tıbbi Kayıt ve Arşiv, Faturalandırma ve Hastaya Verilecek Belgeler",
+      "ayirim": null,
+      "maddeBaslik": "Koruyucu sağlık hizmetleri",
+      "sectionPath": [
+        "YEDİNCİ BÖLÜM · Tıbbi Kayıt ve Arşiv, Faturalandırma ve Hastaya Verilecek Belgeler",
+        "Koruyucu sağlık hizmetleri"
+      ]
+    },
+    {
+      "id": "yonetmelik:41265:m:36",
+      "maddeKind": "madde",
+      "maddeNo": "36",
+      "heading": "Madde 36",
+      "text": "(1) Durumundan şüphe edilen ve kimliği belli olmayan hastalar ile adli vakalar, ilgili mevzuat uyarınca derhal kolluk kuvvetlerine bildirilir.",
+      "preview": "(1) Durumundan şüphe edilen ve kimliği belli olmayan hastalar ile adli vakalar, ilgili mevzuat uyarınca derhal kolluk kuvvetlerine bildirili…",
+      "kitap": null,
+      "kisim": null,
+      "bolum": "YEDİNCİ BÖLÜM · Tıbbi Kayıt ve Arşiv, Faturalandırma ve Hastaya Verilecek Belgeler",
+      "ayirim": null,
+      "maddeBaslik": "Güvenlik makamlarına bildirim",
+      "sectionPath": [
+        "YEDİNCİ BÖLÜM · Tıbbi Kayıt ve Arşiv, Faturalandırma ve Hastaya Verilecek Belgeler",
+        "Güvenlik makamlarına bildirim"
+      ]
+    },
+    {
+      "id": "yonetmelik:41265:m:37",
+      "maddeKind": "madde",
+      "maddeNo": "37",
+      "heading": "Madde 37",
+      "text": "(1) Sağlık kuruluşları tarafından yapılacak bilgilendirme ve tanıtım faaliyetleri 29/7/2023 tarihli ve 32263 sayılı Resmî Gazete’de yayımlanan Sağlık Hizmetlerinde Tanıtım ve Bilgilendirme Faaliyetleri Hakkında Yönetmelik hükümlerine uygun olarak yürütülür.",
+      "preview": "(1) Sağlık kuruluşları tarafından yapılacak bilgilendirme ve tanıtım faaliyetleri 29/7/2023 tarihli ve 32263 sayılı Resmî Gazete’de yayımlan…",
+      "kitap": null,
+      "kisim": null,
+      "bolum": "YEDİNCİ BÖLÜM · Tıbbi Kayıt ve Arşiv, Faturalandırma ve Hastaya Verilecek Belgeler",
+      "ayirim": null,
+      "maddeBaslik": "Bilgilendirme ve tanıtım",
+      "sectionPath": [
+        "YEDİNCİ BÖLÜM · Tıbbi Kayıt ve Arşiv, Faturalandırma ve Hastaya Verilecek Belgeler",
+        "Bilgilendirme ve tanıtım"
+      ]
+    },
+    {
+      "id": "yonetmelik:41265:m:38",
+      "maddeKind": "madde",
+      "maddeNo": "38",
+      "heading": "Madde 38",
+      "text": "(1) Özel hastanenin tabelasına veya basılı evrakına; ruhsatlarında yer alan mevcut isim ve ünvanları veya tescil edilmiş isimlerinin dışındaki diğer isim ve ünvanları ile faaliyet izin belgesinde belirtilen uzmanlık dalları haricinde başka uzmanlık dalı yazılamaz.\n (2) Özel hastane isimlendirilmesinde; yanlış anlaşılma ve karışıklığın önlenmesi amacıyla, hangi ilde olduğuna bakılmaksızın ülke genelindeki üniversite, kamu sağlık kurum veya kuruluşları ile özel sağlık kuruluşlarının isimleri aynen veya çağrıştıracak şekilde kullanılamaz.\n (3) Hastanelere kurumun amacına uygun, kamu düzeni ve genel ahlaka aykırı olmayan ve Bakanlıkça onaylanan isimler verilir.",
+      "preview": "(1) Özel hastanenin tabelasına veya basılı evrakına; ruhsatlarında yer alan mevcut isim ve ünvanları veya tescil edilmiş isimlerinin dışında…",
+      "kitap": null,
+      "kisim": null,
+      "bolum": "YEDİNCİ BÖLÜM · Tıbbi Kayıt ve Arşiv, Faturalandırma ve Hastaya Verilecek Belgeler",
+      "ayirim": null,
+      "maddeBaslik": "Kuruluş isimlendirmesi",
+      "sectionPath": [
+        "YEDİNCİ BÖLÜM · Tıbbi Kayıt ve Arşiv, Faturalandırma ve Hastaya Verilecek Belgeler",
+        "Kuruluş isimlendirmesi"
+      ]
+    },
+    {
+      "id": "yonetmelik:41265:m:39",
+      "maddeKind": "madde",
+      "maddeNo": "39",
+      "heading": "Madde 39",
+      "text": "(1) Özel hastanelerde, hastaların dini gereklerini yerine getirebilecekleri mekanlar ayrılır. Agoni halindeki hastaların dini hizmetlerden faydalanmaları için Hasta Hakları Yönetmeliğinin ilgili maddesi uyarınca gereken tedbirler alınır.\n DOKUZUNCU BÖLÜM\n Hasta Hakları, Denetim, Yasaklar, Faaliyetin Durdurulması, Müeyyideler",
+      "preview": "(1) Özel hastanelerde, hastaların dini gereklerini yerine getirebilecekleri mekanlar ayrılır. Agoni halindeki hastaların dini hizmetlerden f…",
+      "kitap": null,
+      "kisim": null,
+      "bolum": "YEDİNCİ BÖLÜM · Tıbbi Kayıt ve Arşiv, Faturalandırma ve Hastaya Verilecek Belgeler",
+      "ayirim": null,
+      "maddeBaslik": "Dini ödevlerin yapılması",
+      "sectionPath": [
+        "YEDİNCİ BÖLÜM · Tıbbi Kayıt ve Arşiv, Faturalandırma ve Hastaya Verilecek Belgeler",
+        "Dini ödevlerin yapılması"
+      ]
+    },
+    {
+      "id": "yonetmelik:41265:m:40",
+      "maddeKind": "madde",
+      "maddeNo": "40",
+      "heading": "Madde 40",
+      "text": "(1) Özel hastaneler, hasta hakları ihlalleri ile bunlara bağlı ortaya çıkan sorunların önlenmesi ve gerektiğinde hukuki korunma yollarının fiilen kullanılabilmesi için hasta haklarına dair mevzuatın etkin şekilde uygulanmasına yönelik gerekli tedbirleri alır.\n (2) Uygulanacak tedavinin kabul edildiğine dair ve Hasta Hakları Yönetmeliğinin ilgili maddesi uyarınca alınmış rızayı gösteren onam formları, elektronik imza veya ıslak imza ile imzalanabilir.\n (3) Kötü muamele gibi hasta hakları ihlalinin yapıldığı tespit edilen özel hastanelerde ihlalin gerçekleştiği ilgili birimin faaliyeti uygun şartlar sağlanana kadar Bakanlığın kararı üzerine Valilikçe durdurulur ve ilgililer hakkında ilgili mevzuatı uyarınca idari ve adli işlemler yapılır. İlgili birim; acil servis, tıbbi laboratuvar, görüntüleme ve yoğun bakım gibi özel hastane faaliyetinde zorunlu birimlerden ise bu birimin, uygun şartlar sağlanana kadar aynı ilde Müdürlükçe belirlenecek bir komisyonun gözetimi altında faaliyet göstermesi sağlanır.\n (4) Özel hastanelerde hasta odaları, poliklinikler ve bekleme salonlarında hastaların geri bildirimde bulunabileceği “Sağlık Bakanlığı İletişim Merkezi” ile entegre karekod bulunması zorunludur.",
+      "preview": "(1) Özel hastaneler, hasta hakları ihlalleri ile bunlara bağlı ortaya çıkan sorunların önlenmesi ve gerektiğinde hukuki korunma yollarının f…",
+      "kitap": null,
+      "kisim": null,
+      "bolum": "YEDİNCİ BÖLÜM · Tıbbi Kayıt ve Arşiv, Faturalandırma ve Hastaya Verilecek Belgeler",
+      "ayirim": null,
+      "maddeBaslik": "Hasta hakları",
+      "sectionPath": [
+        "YEDİNCİ BÖLÜM · Tıbbi Kayıt ve Arşiv, Faturalandırma ve Hastaya Verilecek Belgeler",
+        "Hasta hakları"
+      ]
+    },
+    {
+      "id": "yonetmelik:41265:m:41",
+      "maddeKind": "madde",
+      "maddeNo": "41",
+      "heading": "Madde 41",
+      "text": "(1) Özel hastaneler, 17/11/2023 tarihli ve 32372 sayılı Resmî Gazete’de yayımlanan Özel Sağlık Tesislerinin Denetimi Hakkında Yönetmelik ile belirlenen usul ve esaslara uygun olarak, Ek-2’de yer alan denetim, sorgu ve idari yaptırım formu kullanılarak denetime tabi tutulur.",
+      "preview": "(1) Özel hastaneler, 17/11/2023 tarihli ve 32372 sayılı Resmî Gazete’de yayımlanan Özel Sağlık Tesislerinin Denetimi Hakkında Yönetmelik ile…",
+      "kitap": null,
+      "kisim": null,
+      "bolum": "YEDİNCİ BÖLÜM · Tıbbi Kayıt ve Arşiv, Faturalandırma ve Hastaya Verilecek Belgeler",
+      "ayirim": null,
+      "maddeBaslik": "Denetim",
+      "sectionPath": [
+        "YEDİNCİ BÖLÜM · Tıbbi Kayıt ve Arşiv, Faturalandırma ve Hastaya Verilecek Belgeler",
+        "Denetim"
+      ]
+    },
+    {
+      "id": "yonetmelik:41265:m:42",
+      "maddeKind": "madde",
+      "maddeNo": "42",
+      "heading": "Madde 42",
+      "text": "(1) Özel hastanelerde sunulan sağlık hizmetinin Bakanlıkça belirlenmiş tıbbi endikasyonlara veya uygulamalara uygunluğunun tespiti amacıyla gerektiğinde denetim yapılır. Tıbbi endikasyon ve uygulama denetimi; hasta dosyası, elektronik kayıt sistemleri, tıbbi fotoğraf, tıbbi görüntüleme, rapor ve diğer ilgili bilgi ve belgeler üzerinden, e-denetim sistemi kullanılarak veya yerinde yapılır. Bu denetimin yapılacağı ilgili sağlık hizmet sunum alanları Bakanlıkça veya Müdürlükçe belirlenir.\n (2) Denetimde kullanılmak üzere; Bakanlık tarafından alanında uzman akademisyenlerden teşkil edilen komisyon görüşleri alınarak tıbbi endikasyon ve uygulama denetim formu oluşturulur. Oluşturulan bu formlar Bakanlıkça ilan edilir. Denetimler, Bakanlık veya Müdürlük tarafından bu forma uygun olarak gerçekleştirilir.\n (3) Denetim faaliyetlerini yürütmek üzere Bakanlığa ait sağlık kurum ve kuruluşlarından veya üniversitelerden; konusunda uzman, tercihen akademisyenlerden, Bakanlık veya Müdürlük onayı ile en az üç kişilik tıbbi endikasyon ve uygulama denetim komisyonu kurulur. Komisyonun görev ve yetkisi, ilgili sağlık hizmet sunum alanı ve belirlenen denetim süresi ile sınırlıdır. Denetimin süresi, görevlendirme onayının ilgililere tebliği tarihinden başlar ve sunulan denetim raporunun onaylanması ile sona erer.\n (4) İlgili mevzuatında bu amaçla yetkilendirilmiş komisyon bulunması halinde denetimler; bu komisyonlar marifetiyle gerçekleştirilebilir. Gerekli hallerde birden fazla komisyon oluşturulabilir.\n (5) Denetim sonuçları, Genel Müdürlük veya Müdürlük tarafından raporlanır ve uygun görüldüğü takdirde Bakanlık onayı ile işleme konulur. Denetim sonuç raporuna istinaden ilgili mevzuatı gereği adli ve idari süreçler yürütülür.\n (6) Yapılan denetimler esnasında özel hastanenin bir kısmında veya tamamında hastaların tedavisini olumsuz etkileyen, hizmetin devamı halinde hasta sağlığını ve güvenliğini tehlikeye sokan ve hizmetin gecikmeksizin derhal durdurulmasını gerektiren acil ve telafisi güç durumların ortaya çıkması ve bu durumun gerekçeleri de belirtilmek suretiyle denetim tespit tutanağı ile tevsik edilmesi kaydıyla eksiklik giderilinceye kadar özel hastanenin ilgili biriminde veya tamamında tıbbi endikasyon ve uygulama denetim komisyonu tespiti ve Müdürlüğün teklifi ile Bakanlık kararı üzerine Valilikçe faaliyet durdurulur.\n (7) Bu madde kapsamında yaptırım uygulanan özel hastanelere komisyonca uygun görülen sürede kontrol denetimi yapılır.",
+      "preview": "(1) Özel hastanelerde sunulan sağlık hizmetinin Bakanlıkça belirlenmiş tıbbi endikasyonlara veya uygulamalara uygunluğunun tespiti amacıyla…",
+      "kitap": null,
+      "kisim": null,
+      "bolum": "YEDİNCİ BÖLÜM · Tıbbi Kayıt ve Arşiv, Faturalandırma ve Hastaya Verilecek Belgeler",
+      "ayirim": null,
+      "maddeBaslik": "Tıbbi endikasyon ve uygulama denetimi",
+      "sectionPath": [
+        "YEDİNCİ BÖLÜM · Tıbbi Kayıt ve Arşiv, Faturalandırma ve Hastaya Verilecek Belgeler",
+        "Tıbbi endikasyon ve uygulama denetimi"
+      ]
+    },
+    {
+      "id": "yonetmelik:41265:m:43",
+      "maddeKind": "madde",
+      "maddeNo": "43",
+      "heading": "Madde 43",
+      "text": "(1) Özel hastanelerde aşağıdaki faaliyetler yasaktır:\n a) Özel hastaneler, ruhsat ve faaliyet izin belgesi almadan hizmet veremezler.\n b) Özel hastaneler, faaliyet izin belgelerinde belirtilen yatak sayılarında Bakanlıktan izin almaksızın artırma, azaltma veya tür değişikliği yapamazlar ve faaliyet izin belgelerinde yazılı yatak sayısından fazla hasta yatıramazlar.\n c) Özel hastaneler, faaliyet izin belgesinde bulunmayan uzmanlık dallarında hasta kabul veya tedavi edemezler.\n ç) Özel hastane binası içinde geçici veya sürekli olacak şekilde ikamet edilmek üzere yerler ayrılamaz ve ikamet edilemez.\n d) Özel hastanelerde, faaliyet izin belgesinde belirtilen uzmanlık dalları haricindeki diğer dallara ait araç ve gereçler bulundurulamaz.\n e) Özel hastaneler, yatan hastalardan belirlenen gündelik yatak ücretinden fazla ücret alamazlar.\n f) Özel hastanelerde bulunan eczaneler, amacı dışında faaliyet gösteremezler ve hastane dışına ilaç ve tıbbi ürün satamazlar.\n g) Özel hastanelerde, adlarına personel çalışma belgesi düzenlenmeyen sağlık personeli çalıştırılamaz.\n ğ) Özel hastanelerde, uzmanlık belgesi olmayanlar uzman olarak ve kanunen mesleğini icra yetkisi bulunmayan tabipler çalıştırılamaz.\n h) Özel hastanede herhangi bir faaliyet alanının veya biriminin, yetkisi olmayan kişiler tarafından kullanımı yasaktır.\n ı) Elektronik imza ve kaşeler ait olduğu personel dışında hiçbir kimse tarafından kullanılamaz.\n i) Özel izne tabi hizmet birimleri Bakanlıktan izin almaksızın açılamaz ve buralarda hizmet verilemez.\n j) Özel hastanelerde konusu suç teşkil eden hiçbir tıbbi işlem yapılamaz.\n k) Özel hastanelerde hasta mahremiyeti ile hasta bilgilerinin gizliliği ilkeleri ihlal edilemez.\n l) Bu Yönetmelikte hizmet alımına izin verilmiş hizmetler dışında hastane faaliyet izin belgesinde yer alan uzmanlık dallarındaki klinik hizmetler üçüncü kişiler eliyle gördürülemez.\n m) Özel hastane sahibi bir şirket, dernek veya vakıf ise, şirket, dernek veya vakfın faaliyet alanına giren diğer işler özel hastanede yapılamaz. Özel hastanede amacı dışında faaliyet gösterilemez.\n n) Özel hastane tarafından ruhsata esas bina haricinde bir yerde faaliyette bulunulması yasaktır.\n o) Özel hastaneler amacı dışında faaliyet gösteremez. Şirketin faaliyet alanına giren diğer işler özel hastane bünyesinde yapılamaz.\n ö) Acil sağlık hizmetleri ve ilgili mevzuatı gereği ilave ücret alınmayacak sağlık hizmetlerinden mevzuat hükümlerine aykırı olarak ilave ücret alınamaz.",
+      "preview": "(1) Özel hastanelerde aşağıdaki faaliyetler yasaktır: a) Özel hastaneler, ruhsat ve faaliyet izin belgesi almadan hizmet veremezler. b) Özel…",
+      "kitap": null,
+      "kisim": null,
+      "bolum": "YEDİNCİ BÖLÜM · Tıbbi Kayıt ve Arşiv, Faturalandırma ve Hastaya Verilecek Belgeler",
+      "ayirim": null,
+      "maddeBaslik": "Yasaklar",
+      "sectionPath": [
+        "YEDİNCİ BÖLÜM · Tıbbi Kayıt ve Arşiv, Faturalandırma ve Hastaya Verilecek Belgeler",
+        "Yasaklar"
+      ]
+    },
+    {
+      "id": "yonetmelik:41265:m:44",
+      "maddeKind": "madde",
+      "maddeNo": "44",
+      "heading": "Madde 44",
+      "text": "(1) Özel hastanenin faaliyet sunduğu alanlarla ilgili bu Yönetmeliğe göre;\n a) Gerekli olan uzman tabip, tıbbi donanım ile asgari sağlık personelinin eksik olduğunun tespiti halinde, ilgili birimde eksiklik giderilinceye kadar,\n b) Hastaların tedavisini olumsuz etkileyecek, toplumun veya sağlık hizmeti alanların sağlığını olumsuz etkileyeceği düşünülen durumların ortaya çıkması halinde bu durum ortadan kaldırılana kadar,\n c) 40 ıncı maddenin üçüncü fıkrasında belirtilen durumların tespiti halinde gerekli idari tedbirler alınıncaya kadar,\n ilgili birimin faaliyeti durdurulur. Bu fıkranın (b) ve (c) bentleri uyarınca yapılacak faaliyet durdurma işleminde Bakanlığın uygun görüşü aranır.",
+      "preview": "(1) Özel hastanenin faaliyet sunduğu alanlarla ilgili bu Yönetmeliğe göre; a) Gerekli olan uzman tabip, tıbbi donanım ile asgari sağlık pers…",
+      "kitap": null,
+      "kisim": null,
+      "bolum": "YEDİNCİ BÖLÜM · Tıbbi Kayıt ve Arşiv, Faturalandırma ve Hastaya Verilecek Belgeler",
+      "ayirim": null,
+      "maddeBaslik": "Hastanenin bir kısmında faaliyetin geçici olarak durdurulması",
+      "sectionPath": [
+        "YEDİNCİ BÖLÜM · Tıbbi Kayıt ve Arşiv, Faturalandırma ve Hastaya Verilecek Belgeler",
+        "Hastanenin bir kısmında faaliyetin geçici olarak durdurulması"
+      ]
+    },
+    {
+      "id": "yonetmelik:41265:m:45",
+      "maddeKind": "madde",
+      "maddeNo": "45",
+      "heading": "Madde 45",
+      "text": "(1) Özel hastanenin tamamında Bakanlığın kararı üzerine Valilikçe;\n a) Mesul müdürün ölümü veya işten ayrılması durumunda bir ay içinde yerine başkasının başlatılmaması halinde, yeni mesul müdür göreve başlayıncaya kadar,\n b) Bu Yönetmeliğe göre zorunlu olan acil ünitesi, bulunması veya hizmet satın alınması zorunlu laboratuvarlar ile hastanede bulunması zorunlu hizmet birimlerinden birinin veya birkaçının bulunmaması halinde bu eksiklikler giderilinceye kadar,\n c) Taşınacak özel hastanenin talebinin bulunması halinde, ön izin ve ruhsatlandırma için belirlenen süreleri aşmamak kaydıyla yeni binasında faaliyete başlayıncaya kadar,\n ç) Faaliyetin geçici olarak kısmen durdurulduğu birimin özel hastane faaliyetinde zorunlu birimlerden biri olduğu hallerde,\n d) Hastanenin tamamında hastaların tedavisini olumsuz etkileyen, hizmetin devamı halinde hasta sağlığını ve güvenliğini tehlikeye sokan ve hizmetin gecikmeksizin derhal durdurulmasını gerektiren acil ve telafisi güç durumların ortaya çıkması ve bu durumun gerekçeleri de belirtilmek suretiyle denetim tespit tutanağı ile tevsik edilmesi kaydıyla eksiklik giderilinceye kadar,\n faaliyet geçici olarak durdurulur.\n (2) Birinci fıkranın (c) bendi kapsamında hastane sahipliği, Müdürlüğe tebligat adresi bildirerek hastane binasını boşaltabilir.\n (3) Doğal afet, genel salgın hastalık, kısmi veya genel seferberlik ilanı gibi mücbir sebeplerden dolayı özel hastanenin faaliyeti Bakanlıkça en fazla beş yıl süreyle askıya alınabilir.",
+      "preview": "(1) Özel hastanenin tamamında Bakanlığın kararı üzerine Valilikçe; a) Mesul müdürün ölümü veya işten ayrılması durumunda bir ay içinde yerin…",
+      "kitap": null,
+      "kisim": null,
+      "bolum": "YEDİNCİ BÖLÜM · Tıbbi Kayıt ve Arşiv, Faturalandırma ve Hastaya Verilecek Belgeler",
+      "ayirim": null,
+      "maddeBaslik": "Hastanenin tamamında faaliyetin geçici olarak durdurulması",
+      "sectionPath": [
+        "YEDİNCİ BÖLÜM · Tıbbi Kayıt ve Arşiv, Faturalandırma ve Hastaya Verilecek Belgeler",
+        "Hastanenin tamamında faaliyetin geçici olarak durdurulması"
+      ]
+    },
+    {
+      "id": "yonetmelik:41265:m:46",
+      "maddeKind": "madde",
+      "maddeNo": "46",
+      "heading": "Madde 46",
+      "text": "(1) Denetimlerde tespit edilen eksikliklerin verilen süre içinde giderilmemesi sebebiyle bir kısmında veya tamamında faaliyeti geçici olarak durdurulan hastanede, faaliyet durdurma tarihinden itibaren altı ay içinde eksiklikler giderilmezse ruhsat Bakanlıkça askıya alınır ve altı ay ek süre verilir. Bu sürenin sonunda faaliyete geçemeyen hastanenin ruhsatı Bakanlıkça iptal edilir.\n (2) Faaliyeti geçici olarak kısmen durdurulduğu halde hasta kabulüne devam eden özel hastanenin faaliyeti iki kat süreyle tamamen durdurulur. Faaliyeti herhangi bir tespit sonrası tamamen durdurulmasına rağmen hasta kabulü yapan hastanenin ruhsatı Bakanlıkça iptal edilir.",
+      "preview": "(1) Denetimlerde tespit edilen eksikliklerin verilen süre içinde giderilmemesi sebebiyle bir kısmında veya tamamında faaliyeti geçici olarak…",
+      "kitap": null,
+      "kisim": null,
+      "bolum": "YEDİNCİ BÖLÜM · Tıbbi Kayıt ve Arşiv, Faturalandırma ve Hastaya Verilecek Belgeler",
+      "ayirim": null,
+      "maddeBaslik": "Ruhsatın iptali",
+      "sectionPath": [
+        "YEDİNCİ BÖLÜM · Tıbbi Kayıt ve Arşiv, Faturalandırma ve Hastaya Verilecek Belgeler",
+        "Ruhsatın iptali"
+      ]
+    },
+    {
+      "id": "yonetmelik:41265:m:47",
+      "maddeKind": "madde",
+      "maddeNo": "47",
+      "heading": "Madde 47",
+      "text": "(1) Özel hastanenin tamamında veya bir kısmında faaliyetin geçici olarak durdurulması veya ruhsatın iptal edilmesi söz konusu olduğunda Müdürlük tarafından öncelikle mevcut yatan hastalarla ilgili tespit yapılır. Nakli mümkün olmayan hastaların tedavilerinin tamamlanmasından ve nakli mümkün olanların da diğer hastanelere nakillerinden sonra özel hastanenin faaliyeti durdurulur. Bu durumdaki hastanelere yeni hasta kabulü yapılamaz.",
+      "preview": "(1) Özel hastanenin tamamında veya bir kısmında faaliyetin geçici olarak durdurulması veya ruhsatın iptal edilmesi söz konusu olduğunda Müdü…",
+      "kitap": null,
+      "kisim": null,
+      "bolum": "YEDİNCİ BÖLÜM · Tıbbi Kayıt ve Arşiv, Faturalandırma ve Hastaya Verilecek Belgeler",
+      "ayirim": null,
+      "maddeBaslik": "Faaliyet durdurma veya ruhsat iptalinde yapılacak işlemler",
+      "sectionPath": [
+        "YEDİNCİ BÖLÜM · Tıbbi Kayıt ve Arşiv, Faturalandırma ve Hastaya Verilecek Belgeler",
+        "Faaliyet durdurma veya ruhsat iptalinde yapılacak işlemler"
+      ]
+    },
+    {
+      "id": "yonetmelik:41265:m:48",
+      "maddeKind": "madde",
+      "maddeNo": "48",
+      "heading": "Madde 48",
+      "text": "(1) Bu Yönetmelikte belirlenen usul ve esaslara uymayanlar ile yasaklara aykırı hareket edenlere, bu Yönetmelikte öngörülen idari müeyyideler ile bu Yönetmelikte müeyyide öngörülmemekle birlikte 2219 sayılı Kanunda müeyyide öngörülen diğer hallerde ise anılan Kanunda ve ilgili diğer mevzuatta belirlenen idari ve cezai müeyyideler uygulanır.",
+      "preview": "(1) Bu Yönetmelikte belirlenen usul ve esaslara uymayanlar ile yasaklara aykırı hareket edenlere, bu Yönetmelikte öngörülen idari müeyyidele…",
+      "kitap": null,
+      "kisim": null,
+      "bolum": "YEDİNCİ BÖLÜM · Tıbbi Kayıt ve Arşiv, Faturalandırma ve Hastaya Verilecek Belgeler",
+      "ayirim": null,
+      "maddeBaslik": "Müeyyideler",
+      "sectionPath": [
+        "YEDİNCİ BÖLÜM · Tıbbi Kayıt ve Arşiv, Faturalandırma ve Hastaya Verilecek Belgeler",
+        "Müeyyideler"
+      ]
+    },
+    {
+      "id": "yonetmelik:41265:m:49",
+      "maddeKind": "madde",
+      "maddeNo": "49",
+      "heading": "Madde 49",
+      "text": "(1) Bakanlık, özel hastane ruhsat ve faaliyet izin belgesi işlemlerini Valiliklere devredebilir.",
+      "preview": "(1) Bakanlık, özel hastane ruhsat ve faaliyet izin belgesi işlemlerini Valiliklere devredebilir.",
+      "kitap": null,
+      "kisim": null,
+      "bolum": "YEDİNCİ BÖLÜM · Tıbbi Kayıt ve Arşiv, Faturalandırma ve Hastaya Verilecek Belgeler",
+      "ayirim": null,
+      "maddeBaslik": "Yetki devri",
+      "sectionPath": [
+        "YEDİNCİ BÖLÜM · Tıbbi Kayıt ve Arşiv, Faturalandırma ve Hastaya Verilecek Belgeler",
+        "Yetki devri"
+      ]
+    },
+    {
+      "id": "yonetmelik:41265:m:50",
+      "maddeKind": "madde",
+      "maddeNo": "50",
+      "heading": "Madde 50",
+      "text": "(1) Geriatrik tedavi merkezi ve klinik konukevi özel hastanelerle ilgili diğer kuruluşlar olarak değerlendirilir. Bu kuruluşlar, türleri ve bu maddede belirtilen hususlar dikkate alınarak Bakanlıkça ruhsatlandırılır.\n (2) Klinik konukevi; hastaların tedavi sonrası kontrol ve yaşam alışkanlıklarının düzenlenmesi veya risk grubu kişilere ulaşım zorlukları gibi sebeplerle hastane hizmeti alacakları döneme kadar daha az yoğunluktaki bakım hizmetleri ile hastanede günübirlik tedavi (ayaktan kemoterapi tedavisi ve diyaliz gibi) alan kişilere daha az yoğunlukta bakım ve sağlık hizmetlerinin sunulduğu, sadece hasta ve/veya refakatçilerinin kalabildiği, sağlık alanı şartı aranmaksızın müstakil binalarda veya binaların bağımsız bir bölümünde kurulan sağlık kuruluşlarıdır. Klinik konukevleri, rutin veya turistik konaklama tesisi gibi hizmet veremez. Klinik konukevlerinde ameliyathane ve yoğun bakım ünitesi bulundurulmaz. Klinik konukevlerinde bu Yönetmelikte yer alan fiziki alt yapı standartlarının sağlanması ve bünyesinde asgari 16 m2 genişlikte, acil müdahale için gerekli olan asgari tıbbi malzeme, donanım ve ilaçların bulunduğu ayrı bir acil muayene odası bulunması zorunludur.\n (3) Kültür ve Turizm Bakanlığından belgeli en az 4 yıldızlı konaklama tesisleri de klinik konukevi olarak hizmet vermek üzere kiralanabilir veya satın alınabilir. Bu hallerde 12/3/1982 tarihli ve 2634 sayılı Turizmi Teşvik Kanununun 34 üncü maddesi hükümleri uygulanır. Ancak 2634 sayılı Kanun kapsamında ilan edilen Kültür Turizm Koruma ve Gelişim Bölgeleri, Turizm Alan ve Merkezlerinde turizme ayrılan yerlerde, klinik konukevleri oluşturulamaz. Bu tesisler bünyesinde kurulacak klinik konukevlerinde bu Yönetmelikte yer alan fiziki alt yapı standartlarının sağlanması ve bünyesinde asgari 16 m2 genişlikte, acil müdahale için gerekli olan asgari tıbbi malzeme, donanım ve ilaçların bulunduğu ayrı bir acil muayene odası bulunması zorunludur.\n (4) Klinik konukevleri, bir hastaneye bağlı olarak kurulur ve faaliyetleri bağlı bulundukları hastanenin sorumluluğunda düzenlenir. Klinik konukevlerinin yatak sayısı bağlı olarak kuruldukları hastanenin yatak sayısının yüzde 30’undan fazla olamaz. Klinik konukevlerinden hizmet almak için müracaat eden hastaların hastane tedavisinin tamamlanmış ve günübirlik/ayaktan tedavi programına alınmış olması gerekir.\n (5) Klinik konukevleri, asgari olarak aşağıdaki özellikleri sağlar:\n a) Ulaşım noktaları açısından uygun ve ulaşılabilir olduğunun yetkili kurum tarafından belgelenmesi ve acil durumlarda hasta nakline uygun düzenlemelerin yapılmış olması ve hastanenin bulunduğu parselde imar mevzuatına uygun ek bina olarak veya aynı il içinde olmak kaydıyla hastanenin bulunduğu parselden farklı bir parselde kurulmasına izin verilebilir.\n b) Bu binalarda hizmet verilmesi düşünülen hastalık gruplarına uygun eğitim ve günübirlik/ayaktan tedavi alanları ile sosyal alanlar bulunur.\n c) Günübirlik tedavi kapsamında klinik konukevinde kalan hastaların günübirlik hastanede verilmesi gereken tedavileri klinik konukevlerinde verilemez.\n ç) Hastanede tedavisi tamamlanmamış hastalar klinik konukevlerine yatırılamaz. Ancak, 24/3/2013 tarihli ve 28597 sayılı Resmî Gazete’de yayımlanan Sosyal Güvenlik Kurumu Sağlık Uygulama Tebliğinde tanımlanan tanıya dayalı işlemlerden, işlemin uygulandığı tarih birinci gün kabul edilmek kaydıyla en az aşağıda belirtilen süreler kadar tedavi gören hastalar klinik konukevlerine yatırılabilir:\n 1) A Grubu tanıya dayalı işlemlerde; 7 gün.\n 2) B Grubu tanıya dayalı işlemlerde; 5 gün.\n 3) C Grubu tanıya dayalı işlemlerde; 4 gün.\n 4) D Grubu tanıya dayalı işlemlerde; 3 gün.\n 5) E Grubu tanıya dayalı işlemlerde; 2 gün.\n d) Klinik konukevlerinin yatak ücretleri Bakanlıkça onaylanır.\n (6) Geriatrik tedavi merkezi; yaşlılıkta gelişen hastalıkların tanı ve tedavisi, rehabilitasyonu ile beraberinde bakım hizmetlerinin sunulmasına yönelik olarak kurulan sağlık kuruluşlarıdır. Bu kuruluşun kadro ve kapasitesi, Bakanlıkça yapılan planlama çerçevesinde belirlenir. Yaşlı hastalara multidisipliner yaklaşımla hizmet sunulabilmesi amacıyla, hastane bünyesinde veya hastaneye bağlı olarak kurulabilir. Bu Yönetmelikte belirlenen şartlara uygun binalarda hizmet sunabilir.\n (7) Bu maddede hüküm bulunmayan hallerde öncelikle ilgili mevzuat hükümleri uygulanır. Bakanlık uygulamaya yönelik hususlarla ilgili alt düzenlemeler yapmaya yetkilidir.",
+      "preview": "(1) Geriatrik tedavi merkezi ve klinik konukevi özel hastanelerle ilgili diğer kuruluşlar olarak değerlendirilir. Bu kuruluşlar, türleri ve…",
+      "kitap": null,
+      "kisim": null,
+      "bolum": "YEDİNCİ BÖLÜM · Tıbbi Kayıt ve Arşiv, Faturalandırma ve Hastaya Verilecek Belgeler",
+      "ayirim": null,
+      "maddeBaslik": "Özel hastanelerle ilgili diğer kuruluşlar",
+      "sectionPath": [
+        "YEDİNCİ BÖLÜM · Tıbbi Kayıt ve Arşiv, Faturalandırma ve Hastaya Verilecek Belgeler",
+        "Özel hastanelerle ilgili diğer kuruluşlar"
+      ]
+    },
+    {
+      "id": "yonetmelik:41265:m:51",
+      "maddeKind": "madde",
+      "maddeNo": "51",
+      "heading": "Madde 51",
+      "text": "(1) Tıp ve diş hekimliğinde lisans eğitimi, tıp, diş hekimliği ve eczacılıkta uzmanlık eğitimi ile araştırma faaliyetleri için yeterli kapasite ve eğitim altyapısı bulunan özel hastaneler; tıp ve/veya diş hekimliği fakültesi bulunan ancak hastanesi bulunmayan veya hastanesinde yeterli kapasite ve eğitim altyapısı bulunmayan vakıf üniversiteleri ile bütçeleri ayrı olmak şartıyla iş birliği yapabilir.\n (2) Vakıf üniversiteleri ile iş birliği yapan özel hastanelere üniversiteden görevlendirilecek doçent ve profesör ünvanlı öğretim üyeleri için hastanenin ruhsatında kayıtlı mevcut uzman tabip kadroları kullanılmak zorundadır. Hastane uzman tabip kadrolarının tıp lisans eğitimi ve tıpta uzmanlık eğitimi için belirlenmiş asgari eğitici standardı için yetersiz olması halinde; tıp lisans eğitimi için gerekli uzmanlık dalları ile tıpta uzmanlık eğitimi için Bakanlıkça uygun görülen uzmanlık dallarında eğitim standardını sağlayacak kadar uzman tabip kadrosu verilir. Bu amaçla verilen uzman tabip kadroları eğitim faaliyetinin sonlanması halinde herhangi bir işleme gerek kalmaksızın iptal edilmiş sayılır.\n (3) İş birliği protokolü kapsamında hastaneye planlamadan istisna uzman tabip kadrosu, tıbbi hizmet birimi ile teknoloji yoğunluklu tıbbi cihaz verilmez. Bu fıkranın yürürlüğe girdiği tarihten önce vakıf üniversitesi ile iş birliği protokolü bulunan hastanelere Bakanlıkça planlamadan istisna olarak verilmiş bulunan uzman tabip kadroları ve uzmanlık dallarının gerektirdiği tıbbi hizmet birimleri ile teknoloji yoğunluklu tıbbi cihazlar protokol süresinin bitiş tarihinde herhangi bir işleme gerek kalmaksızın iptal edilmiş sayılır.\n ONUNCU BÖLÜM\n Çeşitli ve Son Hükümler\n Yürürlükten kaldırılan yönetmelik",
+      "preview": "(1) Tıp ve diş hekimliğinde lisans eğitimi, tıp, diş hekimliği ve eczacılıkta uzmanlık eğitimi ile araştırma faaliyetleri için yeterli kapas…",
+      "kitap": null,
+      "kisim": null,
+      "bolum": "YEDİNCİ BÖLÜM · Tıbbi Kayıt ve Arşiv, Faturalandırma ve Hastaya Verilecek Belgeler",
+      "ayirim": null,
+      "maddeBaslik": "Vakıf üniversiteleri ile iş birliği",
+      "sectionPath": [
+        "YEDİNCİ BÖLÜM · Tıbbi Kayıt ve Arşiv, Faturalandırma ve Hastaya Verilecek Belgeler",
+        "Vakıf üniversiteleri ile iş birliği"
+      ]
+    },
+    {
+      "id": "yonetmelik:41265:m:52",
+      "maddeKind": "madde",
+      "maddeNo": "52",
+      "heading": "Madde 52",
+      "text": "(1) 27/3/2002 tarihli ve 24708 sayılı Resmî Gazete’de yayımlanan Özel Hastaneler Yönetmeliği yürürlükten kaldırılmıştır.",
+      "preview": "(1) 27/3/2002 tarihli ve 24708 sayılı Resmî Gazete’de yayımlanan Özel Hastaneler Yönetmeliği yürürlükten kaldırılmıştır.",
+      "kitap": null,
+      "kisim": null,
+      "bolum": "YEDİNCİ BÖLÜM · Tıbbi Kayıt ve Arşiv, Faturalandırma ve Hastaya Verilecek Belgeler",
+      "ayirim": null,
+      "maddeBaslik": "Vakıf üniversiteleri ile iş birliği",
+      "sectionPath": [
+        "YEDİNCİ BÖLÜM · Tıbbi Kayıt ve Arşiv, Faturalandırma ve Hastaya Verilecek Belgeler",
+        "Vakıf üniversiteleri ile iş birliği"
+      ]
+    },
+    {
+      "id": "yonetmelik:41265:m:gecici:1",
+      "maddeKind": "gecici",
+      "maddeNo": "1",
+      "heading": "Geçici Madde 1",
+      "text": "(Danıştay Onuncu Dairesinin 18/9/2025 tarihli ve E.:2025/1597 sayılı kararı ile yürütmesi durdurulan madde: (1) Bu Yönetmeliğin yayımlandığı tarihten önce ruhsatlandırılmış ve faaliyette olan özel hastaneler en geç üç yıl içinde TÜSKA’dan akreditasyon belgesi almak zorundadır.)",
+      "preview": "(Danıştay Onuncu Dairesinin 18/9/2025 tarihli ve E.:2025/1597 sayılı kararı ile yürütmesi durdurulan madde: (1) Bu Yönetmeliğin yayımlandığı…",
+      "kitap": null,
+      "kisim": null,
+      "bolum": "YEDİNCİ BÖLÜM · Tıbbi Kayıt ve Arşiv, Faturalandırma ve Hastaya Verilecek Belgeler",
+      "ayirim": null,
+      "maddeBaslik": "Akreditasyon belgesi",
+      "sectionPath": [
+        "YEDİNCİ BÖLÜM · Tıbbi Kayıt ve Arşiv, Faturalandırma ve Hastaya Verilecek Belgeler",
+        "Akreditasyon belgesi"
+      ]
+    },
+    {
+      "id": "yonetmelik:41265:m:gecici:2",
+      "maddeKind": "gecici",
+      "maddeNo": "2",
+      "heading": "Geçici Madde 2",
+      "text": "(1) Yer seçimi ve bina şartları uygunsuzluklarını gidermeleri için Bakanlıkça daha önce süre verilen ve bu durumları halen devam eden özel hastanelere 27/3/2002 tarihli ve 24708 sayılı Resmî Gazete’de yayımlanan mülga Özel Hastaneler Yönetmeliğinin geçici 2 nci maddesinde tanınan hak ve yükümlülükler kapsamında 25/3/2026 tarihine kadar süre verilir.",
+      "preview": "(1) Yer seçimi ve bina şartları uygunsuzluklarını gidermeleri için Bakanlıkça daha önce süre verilen ve bu durumları halen devam eden özel h…",
+      "kitap": null,
+      "kisim": null,
+      "bolum": "YEDİNCİ BÖLÜM · Tıbbi Kayıt ve Arşiv, Faturalandırma ve Hastaya Verilecek Belgeler",
+      "ayirim": null,
+      "maddeBaslik": "Yer seçimi ve bina durumuna uyum",
+      "sectionPath": [
+        "YEDİNCİ BÖLÜM · Tıbbi Kayıt ve Arşiv, Faturalandırma ve Hastaya Verilecek Belgeler",
+        "Yer seçimi ve bina durumuna uyum"
+      ]
+    },
+    {
+      "id": "yonetmelik:41265:m:gecici:3",
+      "maddeKind": "gecici",
+      "maddeNo": "3",
+      "heading": "Geçici Madde 3",
+      "text": "(1) Bu maddenin yürürlüğe girdiği tarihten önce ruhsatlandırılmış veya ön izin almış özel hastanelerde bu Yönetmeliğin 7 nci maddesinin ikinci fıkrasında belirtilen şartlar aranmaz.",
+      "preview": "(1) Bu maddenin yürürlüğe girdiği tarihten önce ruhsatlandırılmış veya ön izin almış özel hastanelerde bu Yönetmeliğin 7 nci maddesinin ikin…",
+      "kitap": null,
+      "kisim": null,
+      "bolum": "YEDİNCİ BÖLÜM · Tıbbi Kayıt ve Arşiv, Faturalandırma ve Hastaya Verilecek Belgeler",
+      "ayirim": null,
+      "maddeBaslik": "Mevcut hastanelerin sahiplik durumu",
+      "sectionPath": [
+        "YEDİNCİ BÖLÜM · Tıbbi Kayıt ve Arşiv, Faturalandırma ve Hastaya Verilecek Belgeler",
+        "Mevcut hastanelerin sahiplik durumu"
+      ]
+    },
+    {
+      "id": "yonetmelik:41265:m:gecici:4",
+      "maddeKind": "gecici",
+      "maddeNo": "4",
+      "heading": "Geçici Madde 4",
+      "text": "(1) Bu Yönetmelikte belirtilen personel standartlarına, fiziki şartlara ve 6 ncı maddenin dokuzuncu fıkrasına 31/12/2025 tarihine kadar uyum sağlanması zorunludur.",
+      "preview": "(1) Bu Yönetmelikte belirtilen personel standartlarına, fiziki şartlara ve 6 ncı maddenin dokuzuncu fıkrasına 31/12/2025 tarihine kadar uyum…",
+      "kitap": null,
+      "kisim": null,
+      "bolum": "YEDİNCİ BÖLÜM · Tıbbi Kayıt ve Arşiv, Faturalandırma ve Hastaya Verilecek Belgeler",
+      "ayirim": null,
+      "maddeBaslik": "Personel standartları ve fiziki şartlara uyum",
+      "sectionPath": [
+        "YEDİNCİ BÖLÜM · Tıbbi Kayıt ve Arşiv, Faturalandırma ve Hastaya Verilecek Belgeler",
+        "Personel standartları ve fiziki şartlara uyum"
+      ]
+    },
+    {
+      "id": "yonetmelik:41265:m:gecici:5",
+      "maddeKind": "gecici",
+      "maddeNo": "5",
+      "heading": "Geçici Madde 5",
+      "text": "(1) Bu Yönetmeliğin yürürlüğe girdiği tarihten önce planlama kapsamında ön izin verilen tıbbi cihaz, ünite ve merkez hakkına sahip hastanelerin 25/3/2026 tarihine kadar faaliyete geçirilmemesi durumunda verilen izinler iptal edilir.",
+      "preview": "(1) Bu Yönetmeliğin yürürlüğe girdiği tarihten önce planlama kapsamında ön izin verilen tıbbi cihaz, ünite ve merkez hakkına sahip hastanele…",
+      "kitap": null,
+      "kisim": null,
+      "bolum": "YEDİNCİ BÖLÜM · Tıbbi Kayıt ve Arşiv, Faturalandırma ve Hastaya Verilecek Belgeler",
+      "ayirim": null,
+      "maddeBaslik": "Mevcut ön izinlerin durumu",
+      "sectionPath": [
+        "YEDİNCİ BÖLÜM · Tıbbi Kayıt ve Arşiv, Faturalandırma ve Hastaya Verilecek Belgeler",
+        "Mevcut ön izinlerin durumu"
+      ]
+    },
+    {
+      "id": "yonetmelik:41265:m:gecici:6",
+      "maddeKind": "gecici",
+      "maddeNo": "6",
+      "heading": "Geçici Madde 6",
+      "text": "(1) Bu Yönetmeliğin yürürlüğe girdiği tarihten önce iller arası taşınma ve birleşme başvuruları ile 10 uncu maddenin birinci fıkrası kapsamında belirtilen işlemler ve kadro, yatak, özellikli ünite ve merkez devir başvuruları olan özel hastanelerin devam eden işlemleri 27/3/2002 tarihli ve 24708 sayılı Resmî Gazete’de yayımlanan mülga Özel Hastaneler Yönetmeliği hükümlerine göre tamamlanır.",
+      "preview": "(1) Bu Yönetmeliğin yürürlüğe girdiği tarihten önce iller arası taşınma ve birleşme başvuruları ile 10 uncu maddenin birinci fıkrası kapsamı…",
+      "kitap": null,
+      "kisim": null,
+      "bolum": "YEDİNCİ BÖLÜM · Tıbbi Kayıt ve Arşiv, Faturalandırma ve Hastaya Verilecek Belgeler",
+      "ayirim": null,
+      "maddeBaslik": "Devam eden işlemler",
+      "sectionPath": [
+        "YEDİNCİ BÖLÜM · Tıbbi Kayıt ve Arşiv, Faturalandırma ve Hastaya Verilecek Belgeler",
+        "Devam eden işlemler"
+      ]
+    },
+    {
+      "id": "yonetmelik:41265:m:gecici:7",
+      "maddeKind": "gecici",
+      "maddeNo": "7",
+      "heading": "Geçici Madde 7",
+      "text": "(1) (Danıştay Onuncu Dairesinin 31/12/2025 tarihli ve E.:2025/1585 sayılı kararı ile yürütmesi durdurulan ibare; 7/1/2023 tarihinden önce) muayenehanesi bulunan hekimler, (Danıştay Onuncu Dairesinin 31/12/2025 tarihli ve E.:2025/1585 sayılı kararı ile yürütmesi durdurulan ibare; sözleşme yapacakları özel hastaneden en fazla ikisinde) bu Yönetmeliğin 24 üncü maddesinde yer alan kadro sınırlamasından muaf tutulur. Bu hekimlerin muayenehanelerini kapatmaları halinde üç ay içinde aynı ya da farklı ilde tekrar muayenehane açmaları durumunda muafiyetleri devam eder.",
+      "preview": "(1) (Danıştay Onuncu Dairesinin 31/12/2025 tarihli ve E.:2025/1585 sayılı kararı ile yürütmesi durdurulan ibare; 7/1/2023 tarihinden önce) m…",
+      "kitap": null,
+      "kisim": null,
+      "bolum": "YEDİNCİ BÖLÜM · Tıbbi Kayıt ve Arşiv, Faturalandırma ve Hastaya Verilecek Belgeler",
+      "ayirim": null,
+      "maddeBaslik": "Muayenehanesi olan tabiplerin kadro sınırlaması muafiyeti",
+      "sectionPath": [
+        "YEDİNCİ BÖLÜM · Tıbbi Kayıt ve Arşiv, Faturalandırma ve Hastaya Verilecek Belgeler",
+        "Muayenehanesi olan tabiplerin kadro sınırlaması muafiyeti"
+      ]
+    },
+    {
+      "id": "yonetmelik:41265:m:gecici:8",
+      "maddeKind": "gecici",
+      "maddeNo": "8",
+      "heading": "Geçici Madde 8",
+      "text": "(1) 1/1/2019 tarihinden önce 27/3/2002 tarihli ve 24708 sayılı Resmî Gazete’de yayımlanan mülga Özel Hastaneler Yönetmeliğinin geçici 1 inci maddesi kapsamında Bakanlıktan ön izin almış özel hastanelerden beş yıllık ruhsatlandırma süresi sonunda ruhsat işlemlerini tamamlayamayanlara, 31/12/2028 tarihine kadar ruhsatlandırma işlemlerini tamamlamak amacıyla ek süre verilir.",
+      "preview": "(1) 1/1/2019 tarihinden önce 27/3/2002 tarihli ve 24708 sayılı Resmî Gazete’de yayımlanan mülga Özel Hastaneler Yönetmeliğinin geçici 1 inci…",
+      "kitap": null,
+      "kisim": null,
+      "bolum": "YEDİNCİ BÖLÜM · Tıbbi Kayıt ve Arşiv, Faturalandırma ve Hastaya Verilecek Belgeler",
+      "ayirim": null,
+      "maddeBaslik": "Ruhsatlandırma işlemleri için süre",
+      "sectionPath": [
+        "YEDİNCİ BÖLÜM · Tıbbi Kayıt ve Arşiv, Faturalandırma ve Hastaya Verilecek Belgeler",
+        "Ruhsatlandırma işlemleri için süre"
+      ]
+    },
+    {
+      "id": "yonetmelik:41265:m:gecici:9",
+      "maddeKind": "gecici",
+      "maddeNo": "9",
+      "heading": "Geçici Madde 9",
+      "text": "(1) 1/1/2025 tarihi itibarıyla faal muayenehanesi (Değişik ibare:RG-29/8/2026-33355) olan tabiplerin muayenehanelerini kapatması halinde (Değişik ibare:RG-29/8/2026-33355) muayenehanesini kapattığı ildeki en fazla iki özel hastanede kadro dışı geçici olarak çalışmasına izin verilir. Bu tabiplerin yeniden muayenehane açmaları halinde bu madde kapsamında verilen kadro dışı geçici çalışma hakkı sona erer.",
+      "preview": "(1) 1/1/2025 tarihi itibarıyla faal muayenehanesi (Değişik ibare:RG-29/8/2026-33355) olan tabiplerin muayenehanelerini kapatması halinde (De…",
+      "kitap": null,
+      "kisim": null,
+      "bolum": "YEDİNCİ BÖLÜM · Tıbbi Kayıt ve Arşiv, Faturalandırma ve Hastaya Verilecek Belgeler",
+      "ayirim": null,
+      "maddeBaslik": "Muayenehanesini kapatan tabiplerin durumu",
+      "sectionPath": [
+        "YEDİNCİ BÖLÜM · Tıbbi Kayıt ve Arşiv, Faturalandırma ve Hastaya Verilecek Belgeler",
+        "Muayenehanesini kapatan tabiplerin durumu"
+      ]
+    },
+    {
+      "id": "yonetmelik:41265:m:gecici:10",
+      "maddeKind": "gecici",
+      "maddeNo": "10",
+      "heading": "Geçici Madde 10",
+      "text": "(1) Bu maddenin yürürlüğe girdiği tarih itibarıyla ruhsatlı ve faal olan özel hastaneler maddenin yürürlük tarihinde boş olan tabip ve uzman tabip kadrolarını Bakanlık planlamalarına uygun olmak kaydıyla 31/12/2025 tarihine kadar başka bir özel sağlık kuruluşuna devredebilir.",
+      "preview": "(1) Bu maddenin yürürlüğe girdiği tarih itibarıyla ruhsatlı ve faal olan özel hastaneler maddenin yürürlük tarihinde boş olan tabip ve uzman…",
+      "kitap": null,
+      "kisim": null,
+      "bolum": "YEDİNCİ BÖLÜM · Tıbbi Kayıt ve Arşiv, Faturalandırma ve Hastaya Verilecek Belgeler",
+      "ayirim": null,
+      "maddeBaslik": "Tabip kadrolarının devri",
+      "sectionPath": [
+        "YEDİNCİ BÖLÜM · Tıbbi Kayıt ve Arşiv, Faturalandırma ve Hastaya Verilecek Belgeler",
+        "Tabip kadrolarının devri"
+      ]
+    },
+    {
+      "id": "yonetmelik:41265:m:gecici:11",
+      "maddeKind": "gecici",
+      "maddeNo": "11",
+      "heading": "Geçici Madde 11",
+      "text": "(1) Bu maddenin yürürlüğe girdiği tarih itibarıyla Bakanlıkça verilmiş ön izin belgeleri Bakanlık planlamalarına uygun olmak kaydıyla bir kereye mahsus 31/12/2025 tarihine kadar devredilebilir.",
+      "preview": "(1) Bu maddenin yürürlüğe girdiği tarih itibarıyla Bakanlıkça verilmiş ön izin belgeleri Bakanlık planlamalarına uygun olmak kaydıyla bir ke…",
+      "kitap": null,
+      "kisim": null,
+      "bolum": "YEDİNCİ BÖLÜM · Tıbbi Kayıt ve Arşiv, Faturalandırma ve Hastaya Verilecek Belgeler",
+      "ayirim": null,
+      "maddeBaslik": "Ön izin belgelerinin devri",
+      "sectionPath": [
+        "YEDİNCİ BÖLÜM · Tıbbi Kayıt ve Arşiv, Faturalandırma ve Hastaya Verilecek Belgeler",
+        "Ön izin belgelerinin devri"
+      ]
+    },
+    {
+      "id": "yonetmelik:41265:m:gecici:12",
+      "maddeKind": "gecici",
+      "maddeNo": "12",
+      "heading": "Geçici Madde 12",
+      "text": "(1) Bu maddenin yürürlüğe girdiği tarihte ruhsatlı olan özel hastanelere, askı süreleri ve taşınma amacıyla verilen ön izin süreleri 30/6/2025 tarihine kadar uzatılmıştır.",
+      "preview": "(1) Bu maddenin yürürlüğe girdiği tarihte ruhsatlı olan özel hastanelere, askı süreleri ve taşınma amacıyla verilen ön izin süreleri 30/6/20…",
+      "kitap": null,
+      "kisim": null,
+      "bolum": "YEDİNCİ BÖLÜM · Tıbbi Kayıt ve Arşiv, Faturalandırma ve Hastaya Verilecek Belgeler",
+      "ayirim": null,
+      "maddeBaslik": "Ön izin ve askı sürelerinin uzatılması",
+      "sectionPath": [
+        "YEDİNCİ BÖLÜM · Tıbbi Kayıt ve Arşiv, Faturalandırma ve Hastaya Verilecek Belgeler",
+        "Ön izin ve askı sürelerinin uzatılması"
+      ]
+    },
+    {
+      "id": "yonetmelik:41265:m:gecici:13",
+      "maddeKind": "gecici",
+      "maddeNo": "13",
+      "heading": "Geçici Madde 13",
+      "text": "(1) Bu Yönetmeliğin yürürlüğe girdiği tarihte ruhsatlı ve faal bulunan özel hastanelerden hastane binaları kültür varlığı olarak tescil edilmiş olanlar, sağlık hizmet sunumunu olumsuz etkilememek koşulu ile bu Yönetmeliğin 6 ncı maddesinin birinci fıkrasında belirlenen asgari fiziki kriterlerden Bakanlıkça muaf tutulabilir. Bu hastanelerin yeni binaya taşınmaları halinde asgari fiziki kriterlere uyması zorunludur.",
+      "preview": "(1) Bu Yönetmeliğin yürürlüğe girdiği tarihte ruhsatlı ve faal bulunan özel hastanelerden hastane binaları kültür varlığı olarak tescil edil…",
+      "kitap": null,
+      "kisim": null,
+      "bolum": "YEDİNCİ BÖLÜM · Tıbbi Kayıt ve Arşiv, Faturalandırma ve Hastaya Verilecek Belgeler",
+      "ayirim": null,
+      "maddeBaslik": "Asgari fiziki kriterlerden muafiyet",
+      "sectionPath": [
+        "YEDİNCİ BÖLÜM · Tıbbi Kayıt ve Arşiv, Faturalandırma ve Hastaya Verilecek Belgeler",
+        "Asgari fiziki kriterlerden muafiyet"
+      ]
+    },
+    {
+      "id": "yonetmelik:41265:m:gecici:14",
+      "maddeKind": "gecici",
+      "maddeNo": "14",
+      "heading": "Geçici Madde 14",
+      "text": "(1) Bu Yönetmeliğin geçici 2 nci maddesinde sayılan özel hastaneler ile mevcut binası 18/3/2018 tarihli ve 30364 sayılı mükerrer Resmî Gazete’de yayımlanan Türkiye Bina Deprem Yönetmeliğine göre riskli olduğuna dair deprem raporu sunan özel hastanelerden, taşınmak ve/veya yerinde yeni bina yapmak isteyenlere ruhsatlandırma aşamasında Bakanlıkça belirlenen uzmanlık dallarında uzman tabip kadro sayısına yüzde 10 ve yatak sayısına yüzde 30 ilave edilir. Bu hastanelerin, bulundukları ilden başka ile taşınmak istemeleri halinde bir sefere mahsus Bakanlıkça planlama kriterleri çerçevesinde uygun görülen illere taşınmasına izin verilir.",
+      "preview": "(1) Bu Yönetmeliğin geçici 2 nci maddesinde sayılan özel hastaneler ile mevcut binası 18/3/2018 tarihli ve 30364 sayılı mükerrer Resmî Gazet…",
+      "kitap": null,
+      "kisim": null,
+      "bolum": "YEDİNCİ BÖLÜM · Tıbbi Kayıt ve Arşiv, Faturalandırma ve Hastaya Verilecek Belgeler",
+      "ayirim": null,
+      "maddeBaslik": "Kadro ve yatak ilavesi",
+      "sectionPath": [
+        "YEDİNCİ BÖLÜM · Tıbbi Kayıt ve Arşiv, Faturalandırma ve Hastaya Verilecek Belgeler",
+        "Kadro ve yatak ilavesi"
+      ]
+    },
+    {
+      "id": "yonetmelik:41265:m:gecici:15",
+      "maddeKind": "gecici",
+      "maddeNo": "15",
+      "heading": "Geçici Madde 15",
+      "text": "(Ek:RG-29/8/2026-33355)[1]\n (1) 30/1/2025 tarihinden önce ruhsatlandırılmış özel hastaneler, bu Yönetmelikte yer alan fiziki şartlardan muaftır. Bu muafiyet, 30/1/2025 tarihi itibarıyla özel hastanelerce yapılan değişiklikler ve geçici 2 nci madde kapsamında yer alan özel hastaneler için uygulanmaz.",
+      "preview": "(Ek:RG-29/8/2026-33355)[1] (1) 30/1/2025 tarihinden önce ruhsatlandırılmış özel hastaneler, bu Yönetmelikte yer alan fiziki şartlardan muaft…",
+      "kitap": null,
+      "kisim": null,
+      "bolum": "YEDİNCİ BÖLÜM · Tıbbi Kayıt ve Arşiv, Faturalandırma ve Hastaya Verilecek Belgeler",
+      "ayirim": null,
+      "maddeBaslik": "Fiziki şartlardan muafiyet",
+      "sectionPath": [
+        "YEDİNCİ BÖLÜM · Tıbbi Kayıt ve Arşiv, Faturalandırma ve Hastaya Verilecek Belgeler",
+        "Fiziki şartlardan muafiyet"
+      ]
+    },
+    {
+      "id": "yonetmelik:41265:m:53",
+      "maddeKind": "madde",
+      "maddeNo": "53",
+      "heading": "Madde 53",
+      "text": "(1) Bu Yönetmeliğin;\n a) 16 ncı maddesinin altıncı fıkrası ve 22 nci maddesi 1/1/2026 tarihinde,\n b) Geçici 12 nci maddesi 31/12/2024 tarihinden geçerli olmak üzere yayımı tarihinde,\n c) Diğer hükümleri yayımı tarihinde,\n yürürlüğe girer.",
+      "preview": "(1) Bu Yönetmeliğin; a) 16 ncı maddesinin altıncı fıkrası ve 22 nci maddesi 1/1/2026 tarihinde, b) Geçici 12 nci maddesi 31/12/2024 tarihind…",
+      "kitap": null,
+      "kisim": null,
+      "bolum": "YEDİNCİ BÖLÜM · Tıbbi Kayıt ve Arşiv, Faturalandırma ve Hastaya Verilecek Belgeler",
+      "ayirim": null,
+      "maddeBaslik": "Yürürlük",
+      "sectionPath": [
+        "YEDİNCİ BÖLÜM · Tıbbi Kayıt ve Arşiv, Faturalandırma ve Hastaya Verilecek Belgeler",
+        "Yürürlük"
+      ]
+    },
+    {
+      "id": "yonetmelik:41265:m:54",
+      "maddeKind": "madde",
+      "maddeNo": "54",
+      "heading": "Madde 54",
+      "text": "(1) Bu Yönetmelik hükümlerini Sağlık Bakanı yürütür.\n\n Ekleri için tıklayınız\n\n [1] Bu değişiklik 30/1/2025 tarihinden geçerli olmak üzere yayımı tarihinde yürürlüğe girer.",
+      "preview": "(1) Bu Yönetmelik hükümlerini Sağlık Bakanı yürütür. Ekleri için tıklayınız [1] Bu değişiklik 30/1/2025 tarihinden geçerli olmak üzere yayım…",
+      "kitap": null,
+      "kisim": null,
+      "bolum": "YEDİNCİ BÖLÜM · Tıbbi Kayıt ve Arşiv, Faturalandırma ve Hastaya Verilecek Belgeler",
+      "ayirim": null,
+      "maddeBaslik": "Yürütme",
+      "sectionPath": [
+        "YEDİNCİ BÖLÜM · Tıbbi Kayıt ve Arşiv, Faturalandırma ve Hastaya Verilecek Belgeler",
+        "Yürütme"
+      ]
+    }
+  ]
+}

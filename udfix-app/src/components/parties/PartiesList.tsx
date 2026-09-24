@@ -168,7 +168,7 @@ export const PartiesList: React.FC = () => {
                             />
                         </Button>
                     </DropdownMenuTrigger>
-                    <DropdownMenuContent align="end" className="w-48 glass border-white/10">
+                    <DropdownMenuContent align="end" className="w-48 glass border-border">
                         <DropdownMenuLabel className="text-[10px] uppercase tracking-wide text-muted-foreground">
                             Rol
                         </DropdownMenuLabel>

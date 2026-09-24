@@ -1,0 +1,325 @@
+{
+  "id": "yonetmelik:5454",
+  "kind": "yonetmelik",
+  "no": "5454",
+  "title": "Asgari Ücret Yönetmeliği",
+  "shortName": "Asgari Ücret Yön.",
+  "aliases": [
+    "Asgari Ücret Yön.",
+    "Asgari Ücret Yönetmeliği",
+    "5454"
+  ],
+  "tur": 7,
+  "tertip": 5,
+  "sourceUrl": "https://www.mevzuat.gov.tr/mevzuat?MevzuatNo=5454&MevzuatTur=7&MevzuatTertip=5",
+  "kabulTarihi": null,
+  "maddeCount": 18,
+  "maddeler": [
+    {
+      "id": "yonetmelik:5454:m:1",
+      "maddeKind": "madde",
+      "maddeNo": "1",
+      "heading": "Madde 1",
+      "text": "Bu Yönetmeliğin amacı, asgari ücretin tespiti sırasında uygulanacak esaslar, Komisyonun toplanma ve çalışma şekli ile komisyonun başkan, üye ve raportörlerine verilecek huzur hakkına ilişkin usul ve esasları düzenlemektir.",
+      "preview": "Bu Yönetmeliğin amacı, asgari ücretin tespiti sırasında uygulanacak esaslar, Komisyonun toplanma ve çalışma şekli ile komisyonun başkan, üye…",
+      "kitap": null,
+      "kisim": null,
+      "bolum": "BİRİNCİ BÖLÜM · Amaç, Kapsam, Dayanak ve Tanımlar",
+      "ayirim": null,
+      "maddeBaslik": "Amaç",
+      "sectionPath": [
+        "BİRİNCİ BÖLÜM · Amaç, Kapsam, Dayanak ve Tanımlar",
+        "Amaç"
+      ]
+    },
+    {
+      "id": "yonetmelik:5454:m:2",
+      "maddeKind": "madde",
+      "maddeNo": "2",
+      "heading": "Madde 2",
+      "text": "Bu Yönetmelik hükümleri, iş sözleşmesi ile çalışan ve 4857 sayılı İş Kanununun kapsamında olan veya olmayan, her türlü işçinin çalıştığı bütün işkollarını kapsar.",
+      "preview": "Bu Yönetmelik hükümleri, iş sözleşmesi ile çalışan ve 4857 sayılı İş Kanununun kapsamında olan veya olmayan, her türlü işçinin çalıştığı büt…",
+      "kitap": null,
+      "kisim": null,
+      "bolum": "BİRİNCİ BÖLÜM · Amaç, Kapsam, Dayanak ve Tanımlar",
+      "ayirim": null,
+      "maddeBaslik": "Kapsam",
+      "sectionPath": [
+        "BİRİNCİ BÖLÜM · Amaç, Kapsam, Dayanak ve Tanımlar",
+        "Kapsam"
+      ]
+    },
+    {
+      "id": "yonetmelik:5454:m:3",
+      "maddeKind": "madde",
+      "maddeNo": "3",
+      "heading": "Madde 3",
+      "text": "Bu Yönetmelik, 22/5/2003 tarihli ve 4857 sayılı İş Kanununun 39 uncu maddesine dayanılarak hazırlanmıştır.",
+      "preview": "Bu Yönetmelik, 22/5/2003 tarihli ve 4857 sayılı İş Kanununun 39 uncu maddesine dayanılarak hazırlanmıştır.",
+      "kitap": null,
+      "kisim": null,
+      "bolum": "BİRİNCİ BÖLÜM · Amaç, Kapsam, Dayanak ve Tanımlar",
+      "ayirim": null,
+      "maddeBaslik": "Dayanak",
+      "sectionPath": [
+        "BİRİNCİ BÖLÜM · Amaç, Kapsam, Dayanak ve Tanımlar",
+        "Dayanak"
+      ]
+    },
+    {
+      "id": "yonetmelik:5454:m:4",
+      "maddeKind": "madde",
+      "maddeNo": "4",
+      "heading": "Madde 4",
+      "text": "Bu Yönetmelikte geçen;\n a) Bakanlık: Çalışma ve Sosyal Güvenlik Bakanlığını,\n b) Bakan: Çalışma ve Sosyal Güvenlik Bakanını,\n c) Komisyon: Asgari Ücret Tespit Komisyonunu,\n d) Asgari ücret: İşçilere normal bir çalışma günü karşılığı ödenen ve işçinin gıda, konut, giyim, sağlık, ulaşım ve kültür gibi zorunlu ihtiyaçlarını günün fiyatları üzerinden asgari düzeyde karşılamaya yetecek ücreti,\n e) Ücret: Asgari ücreti,\n f) (Değişik:RG-19/4/2014-28977) İşkolu:18/10/2012 tarihli ve 6356 sayılı Sendikalar ve Toplu İş Sözleşmesi Kanununun 4 üncü maddesi gereğince 19/12/2012 tarihli ve 28502 sayılı Resmî Gazete’de yayımlanan İşkolları Yönetmeliğinde belirtilen işkollarını,\n g) Başkan: Bakan tarafından tespit edilen komisyon üyelerinden herhangi bir üyeyi,\n h) Üye: Asgari Ücret Tespit Komisyonunda görevlendirilen veya seçilen temsilcileri,\n i) Raportör: Bakanlık tarafından altı kişiyi geçmemek üzere Çalışma Genel Müdürlüğü bünyesinden görevlendirilen personeli,\n ifade eder.",
+      "preview": "Bu Yönetmelikte geçen; a) Bakanlık: Çalışma ve Sosyal Güvenlik Bakanlığını, b) Bakan: Çalışma ve Sosyal Güvenlik Bakanını, c) Komisyon: Asga…",
+      "kitap": null,
+      "kisim": null,
+      "bolum": "BİRİNCİ BÖLÜM · Amaç, Kapsam, Dayanak ve Tanımlar",
+      "ayirim": null,
+      "maddeBaslik": "Tanımlar",
+      "sectionPath": [
+        "BİRİNCİ BÖLÜM · Amaç, Kapsam, Dayanak ve Tanımlar",
+        "Tanımlar"
+      ]
+    },
+    {
+      "id": "yonetmelik:5454:m:5",
+      "maddeKind": "madde",
+      "maddeNo": "5",
+      "heading": "Madde 5",
+      "text": "(Değişik:RG-19/4/2014-28977)\n Asgari ücretin belirlenmesinde dil, ırk, renk, cinsiyet, engellilik, siyasal düşünce, felsefî inanç, din ve mezhep ile benzeri sebeplere dayalı herhangi bir ayrım yapılamaz.",
+      "preview": "(Değişik:RG-19/4/2014-28977) Asgari ücretin belirlenmesinde dil, ırk, renk, cinsiyet, engellilik, siyasal düşünce, felsefî inanç, din ve mez…",
+      "kitap": null,
+      "kisim": null,
+      "bolum": "İKİNCİ BÖLÜM · Ücretin Belirlenmesine İlişkin İlke ve Esaslar",
+      "ayirim": null,
+      "maddeBaslik": "Ücrette Eşitlik İlkesi",
+      "sectionPath": [
+        "İKİNCİ BÖLÜM · Ücretin Belirlenmesine İlişkin İlke ve Esaslar",
+        "Ücrette Eşitlik İlkesi"
+      ]
+    },
+    {
+      "id": "yonetmelik:5454:m:6",
+      "maddeKind": "madde",
+      "maddeNo": "6",
+      "heading": "Madde 6",
+      "text": "Komisyon, asgari ücreti bütün işkollarını kapsayacak şekilde belirler. Ücretin, bir günlük olarak belirlenmesi esastır. Aylık, haftalık, saat başına, parça başına veya yapılan iş tutarına göre ücret ödenen durumlarda gerekli ayarlamalar buna göre yapılır.",
+      "preview": "Komisyon, asgari ücreti bütün işkollarını kapsayacak şekilde belirler. Ücretin, bir günlük olarak belirlenmesi esastır. Aylık, haftalık, saa…",
+      "kitap": null,
+      "kisim": null,
+      "bolum": "İKİNCİ BÖLÜM · Ücretin Belirlenmesine İlişkin İlke ve Esaslar",
+      "ayirim": null,
+      "maddeBaslik": "Ücretin Belirlenmesi",
+      "sectionPath": [
+        "İKİNCİ BÖLÜM · Ücretin Belirlenmesine İlişkin İlke ve Esaslar",
+        "Ücretin Belirlenmesi"
+      ]
+    },
+    {
+      "id": "yonetmelik:5454:m:7",
+      "maddeKind": "madde",
+      "maddeNo": "7",
+      "heading": "Madde 7",
+      "text": "(Değişik:RG-19/4/2014-28977) Ücret en geç iki yılda bir olmak üzere belirlenir.\n Komisyon, ücretin belirlenmesinde; ülkenin içinde bulunduğu sosyal ve ekonomik durumu, ücretliler geçinme indekslerini, bu indeksler yoksa geçinme indekslerini, fiilen ödenmekte olan ücretlerin genel durumunu ve geçim şartlarını göz önünde bulundurur.",
+      "preview": "(Değişik:RG-19/4/2014-28977) Ücret en geç iki yılda bir olmak üzere belirlenir. Komisyon, ücretin belirlenmesinde; ülkenin içinde bulunduğu…",
+      "kitap": null,
+      "kisim": null,
+      "bolum": "İKİNCİ BÖLÜM · Ücretin Belirlenmesine İlişkin İlke ve Esaslar",
+      "ayirim": null,
+      "maddeBaslik": "Ücretin Belirlenmesindeki Esaslar",
+      "sectionPath": [
+        "İKİNCİ BÖLÜM · Ücretin Belirlenmesine İlişkin İlke ve Esaslar",
+        "Ücretin Belirlenmesindeki Esaslar"
+      ]
+    },
+    {
+      "id": "yonetmelik:5454:m:8",
+      "maddeKind": "madde",
+      "maddeNo": "8",
+      "heading": "Madde 8",
+      "text": "Komisyon; Bakanlığın tespit edeceği üyelerden birinin başkanlığında;\n a) Bakanlık Çalışma Genel Müdürü veya yardımcısı,\n b) Bakanlık İş Sağlığı ve Güvenliği Genel Müdürü veya yardımcısı,\n c) Devlet İstatistik Enstitüsü Ekonomik İstatistikler Dairesi Başkanı veya yardımcısı, (İşgücü, Hizmetler, Fiyat İstatistikleri ve İndeksler Dairesi Başkanlığı)\n d) Hazine Müsteşarlığı temsilcisi,\n e) Devlet Planlama Teşkilatı Müsteşarlığından konu ile ilgili dairenin başkanı veya yetki vereceği bir görevli,\n f) Bünyesinde en çok işçiyi bulunduran en üst işçi kuruluşunun değişik işkolları için seçeceği beş temsilci,\n g) Bünyesinde en çok işvereni bulunduran işveren kuruluşunun değişik işkolları için seçeceği beş temsilciden,\n kurulur.\n Komisyon, Bakanlığın çağrısı üzerine toplanır ve Bakanlıkça hazırlanan gündeme göre çalışır.\n Komisyon, en az on üyenin katılımı ile toplanır ve oylarının çoğunluğu ile karar verir. Karara katılmayan üye, isterse katılmama gerekçesini belirtir. Oyların eşitliği halinde, Başkanın bulunduğu taraf çoğunluğu sağlamış sayılır. Komisyonun her toplantıda aldığı kararlar karar defterine yazılır ve başkan ve üyelerce imzalanır.\n Komisyonun ücretin belirlenmesine ilişkin kararı kesindir. Bu kararın, toplanan bilgi ve belgelere göre hazırlanacak bir gerekçeye dayandırılması zorunludur.",
+      "preview": "Komisyon; Bakanlığın tespit edeceği üyelerden birinin başkanlığında; a) Bakanlık Çalışma Genel Müdürü veya yardımcısı, b) Bakanlık İş Sağlığ…",
+      "kitap": null,
+      "kisim": null,
+      "bolum": "ÜÇÜNCÜ BÖLÜM · Komisyonun Kuruluşu, Görev, Yetki ve Sorumluluğu",
+      "ayirim": null,
+      "maddeBaslik": "Komisyonun Kuruluşu ve Toplantı Esasları",
+      "sectionPath": [
+        "ÜÇÜNCÜ BÖLÜM · Komisyonun Kuruluşu, Görev, Yetki ve Sorumluluğu",
+        "Komisyonun Kuruluşu ve Toplantı Esasları"
+      ]
+    },
+    {
+      "id": "yonetmelik:5454:m:9",
+      "maddeKind": "madde",
+      "maddeNo": "9",
+      "heading": "Madde 9",
+      "text": "Komisyon, ücretin belirlenmesinde konuyla ilgili bütün kamu kurum ve kuruluşları ve üniversiteler ile işbirliği yapabilir, işçi ve işveren kuruluşlarının bu konudaki öneri ve görüşlerini alabilir. Ayrıca Komisyon, gerektiğinde uzman kişilerin bilgisine başvurabilir.\n Komisyondaki görüşmeler ve komisyonun çalışmaları gizlidir. Başkan, üyeler ve raportörler ile bu maddenin kapsamına giren kişi ve kuruluşlar bu görevleri dolayısıyla öğrendikleri her türlü bilgi ve belgeleri gizlemekle yükümlüdür.\n Alınan kararlar Başkan tarafından kamuoyuna duyurulur.",
+      "preview": "Komisyon, ücretin belirlenmesinde konuyla ilgili bütün kamu kurum ve kuruluşları ve üniversiteler ile işbirliği yapabilir, işçi ve işveren k…",
+      "kitap": null,
+      "kisim": null,
+      "bolum": "ÜÇÜNCÜ BÖLÜM · Komisyonun Kuruluşu, Görev, Yetki ve Sorumluluğu",
+      "ayirim": null,
+      "maddeBaslik": "Komisyonun Görev, Yetki ve Sorumluluğu",
+      "sectionPath": [
+        "ÜÇÜNCÜ BÖLÜM · Komisyonun Kuruluşu, Görev, Yetki ve Sorumluluğu",
+        "Komisyonun Görev, Yetki ve Sorumluluğu"
+      ]
+    },
+    {
+      "id": "yonetmelik:5454:m:10",
+      "maddeKind": "madde",
+      "maddeNo": "10",
+      "heading": "Madde 10",
+      "text": "Komisyonun sekreterya ve raportörlük hizmetleri Bakanlık Çalışma Genel Müdürlüğü tarafından yerine getirilir.\n DÖRDÜNCÜ BÖLÜM\n Ücretin Yürürlüğü, İşverenin Sorumluluğu,",
+      "preview": "Komisyonun sekreterya ve raportörlük hizmetleri Bakanlık Çalışma Genel Müdürlüğü tarafından yerine getirilir. DÖRDÜNCÜ BÖLÜM Ücretin Yürürlü…",
+      "kitap": null,
+      "kisim": null,
+      "bolum": "ÜÇÜNCÜ BÖLÜM · Komisyonun Kuruluşu, Görev, Yetki ve Sorumluluğu",
+      "ayirim": null,
+      "maddeBaslik": "Sekreterya ve Raportörlük Hizmetleri",
+      "sectionPath": [
+        "ÜÇÜNCÜ BÖLÜM · Komisyonun Kuruluşu, Görev, Yetki ve Sorumluluğu",
+        "Sekreterya ve Raportörlük Hizmetleri"
+      ]
+    },
+    {
+      "id": "yonetmelik:5454:m:11",
+      "maddeKind": "madde",
+      "maddeNo": "11",
+      "heading": "Madde 11",
+      "text": "(Değişik:RG-1/7/2022-31883)\n Komisyonca belirlenen ücretler Resmî Gazete’de yayımlanır ve Komisyon kararında başka bir yürürlük tarihi belirtilmediği takdirde yayımlandığı tarihten itibaren yürürlüğe girer.",
+      "preview": "(Değişik:RG-1/7/2022-31883) Komisyonca belirlenen ücretler Resmî Gazete’de yayımlanır ve Komisyon kararında başka bir yürürlük tarihi belirt…",
+      "kitap": null,
+      "kisim": null,
+      "bolum": "ÜÇÜNCÜ BÖLÜM · Komisyonun Kuruluşu, Görev, Yetki ve Sorumluluğu",
+      "ayirim": null,
+      "maddeBaslik": "Ücretin Yürürlüğü",
+      "sectionPath": [
+        "ÜÇÜNCÜ BÖLÜM · Komisyonun Kuruluşu, Görev, Yetki ve Sorumluluğu",
+        "Ücretin Yürürlüğü"
+      ]
+    },
+    {
+      "id": "yonetmelik:5454:m:12",
+      "maddeKind": "madde",
+      "maddeNo": "12",
+      "heading": "Madde 12",
+      "text": "İşçilere, Komisyonca belirlenen ücretlerden düşük ücret ödenemez. İş sözleşmelerine ve toplu iş sözleşmelerine bunun aksine hükümler konulamaz.\n İşverenler tarafından, işçilere sağlanan sosyal yardımlar sebebiyle asgari ücretten herhangi bir indirim yapılamaz.\n (Mülga fıkra:RG-7/7/2012-28346)\n İşçi ve İşveren Temsilcilerinde Aranan Nitelikler\n Madde13 — Komisyona seçilecek işçi ve işveren temsilcilerinin:\n a) Asgari ilkoğretim mezunu olması,\n b) 21 yaşını doldurmuş bulunması,\n c) Yüz kızartıcı bir suçtan dolayı hüküm giymemiş olması\n gerekir.",
+      "preview": "İşçilere, Komisyonca belirlenen ücretlerden düşük ücret ödenemez. İş sözleşmelerine ve toplu iş sözleşmelerine bunun aksine hükümler konulam…",
+      "kitap": null,
+      "kisim": null,
+      "bolum": "ÜÇÜNCÜ BÖLÜM · Komisyonun Kuruluşu, Görev, Yetki ve Sorumluluğu",
+      "ayirim": null,
+      "maddeBaslik": "İşverenin Sorumluluğu",
+      "sectionPath": [
+        "ÜÇÜNCÜ BÖLÜM · Komisyonun Kuruluşu, Görev, Yetki ve Sorumluluğu",
+        "İşverenin Sorumluluğu"
+      ]
+    },
+    {
+      "id": "yonetmelik:5454:m:14",
+      "maddeKind": "madde",
+      "maddeNo": "14",
+      "heading": "Madde 14",
+      "text": "Bünyesinde en çok işçi ve işvereni bulunduran en üst derecedeki işçi ve işveren kuruluşlarının değişik işkollarından seçecekleri her temsilci için birer yedek temsilci seçilir. Asıl temsilcilerin toplantıya katılması asıldır. Ancak, asıl temsilcilerin görevlerini yapmalarına geçici veya sürekli bir engelin ortaya çıkması halinde, komisyona yedekleri katılır.",
+      "preview": "Bünyesinde en çok işçi ve işvereni bulunduran en üst derecedeki işçi ve işveren kuruluşlarının değişik işkollarından seçecekleri her temsilc…",
+      "kitap": null,
+      "kisim": null,
+      "bolum": "ÜÇÜNCÜ BÖLÜM · Komisyonun Kuruluşu, Görev, Yetki ve Sorumluluğu",
+      "ayirim": null,
+      "maddeBaslik": "İşçi ve İşveren Temsilcilerinin Yedekleri",
+      "sectionPath": [
+        "ÜÇÜNCÜ BÖLÜM · Komisyonun Kuruluşu, Görev, Yetki ve Sorumluluğu",
+        "İşçi ve İşveren Temsilcilerinin Yedekleri"
+      ]
+    },
+    {
+      "id": "yonetmelik:5454:m:15",
+      "maddeKind": "madde",
+      "maddeNo": "15",
+      "heading": "Madde 15",
+      "text": "Komisyonun işçi temsilcisi üyelerinden işçi olanların, komisyondaki görevleri süresince, iş sözleşmesinden ve toplu iş sözleşmesinden doğan hakları devam eder.",
+      "preview": "Komisyonun işçi temsilcisi üyelerinden işçi olanların, komisyondaki görevleri süresince, iş sözleşmesinden ve toplu iş sözleşmesinden doğan…",
+      "kitap": null,
+      "kisim": null,
+      "bolum": "ÜÇÜNCÜ BÖLÜM · Komisyonun Kuruluşu, Görev, Yetki ve Sorumluluğu",
+      "ayirim": null,
+      "maddeBaslik": "İşçi Temsilcilerinin Güvencesi",
+      "sectionPath": [
+        "ÜÇÜNCÜ BÖLÜM · Komisyonun Kuruluşu, Görev, Yetki ve Sorumluluğu",
+        "İşçi Temsilcilerinin Güvencesi"
+      ]
+    },
+    {
+      "id": "yonetmelik:5454:m:16",
+      "maddeKind": "madde",
+      "maddeNo": "16",
+      "heading": "Madde 16",
+      "text": "Her toplantı günü için komisyon başkanına 1100, üyelerine 1000, raportörlere ise 800 gösterge rakamının memur aylık katsayısı ile çarpımı sonucunda bulunan miktarda huzur hakkı ödenir. Ancak, her asgari ücret tespitinde on toplantı gününden fazla huzur hakkı ödenmez.",
+      "preview": "Her toplantı günü için komisyon başkanına 1100, üyelerine 1000, raportörlere ise 800 gösterge rakamının memur aylık katsayısı ile çarpımı so…",
+      "kitap": null,
+      "kisim": null,
+      "bolum": "ÜÇÜNCÜ BÖLÜM · Komisyonun Kuruluşu, Görev, Yetki ve Sorumluluğu",
+      "ayirim": null,
+      "maddeBaslik": "Huzur Hakkı",
+      "sectionPath": [
+        "ÜÇÜNCÜ BÖLÜM · Komisyonun Kuruluşu, Görev, Yetki ve Sorumluluğu",
+        "Huzur Hakkı"
+      ]
+    },
+    {
+      "id": "yonetmelik:5454:m:17",
+      "maddeKind": "madde",
+      "maddeNo": "17",
+      "heading": "Madde 17",
+      "text": "12/2/1972 tarihli ve 14097 sayılı Resmi Gazete’de yayımlanan \"Asgari Ücret Yönetmeliği\" değişiklikleriyle birlikte yürürlükten kaldırılmıştır.",
+      "preview": "12/2/1972 tarihli ve 14097 sayılı Resmi Gazete’de yayımlanan \"Asgari Ücret Yönetmeliği\" değişiklikleriyle birlikte yürürlükten kaldırılmıştı…",
+      "kitap": null,
+      "kisim": null,
+      "bolum": "BEŞİNCİ BÖLÜM · Son Hükümler",
+      "ayirim": null,
+      "maddeBaslik": "Yürürlükten Kaldırılan Hükümler",
+      "sectionPath": [
+        "BEŞİNCİ BÖLÜM · Son Hükümler",
+        "Yürürlükten Kaldırılan Hükümler"
+      ]
+    },
+    {
+      "id": "yonetmelik:5454:m:18",
+      "maddeKind": "madde",
+      "maddeNo": "18",
+      "heading": "Madde 18",
+      "text": "Sayıştay görüşü alınan bu Yönetmelik, yayımı tarihinde yürürlüğe girer.",
+      "preview": "Sayıştay görüşü alınan bu Yönetmelik, yayımı tarihinde yürürlüğe girer.",
+      "kitap": null,
+      "kisim": null,
+      "bolum": "BEŞİNCİ BÖLÜM · Son Hükümler",
+      "ayirim": null,
+      "maddeBaslik": "Yürürlük",
+      "sectionPath": [
+        "BEŞİNCİ BÖLÜM · Son Hükümler",
+        "Yürürlük"
+      ]
+    },
+    {
+      "id": "yonetmelik:5454:m:19",
+      "maddeKind": "madde",
+      "maddeNo": "19",
+      "heading": "Madde 19",
+      "text": "Bu Yönetmelik hükümlerini Maliye Bakanı ile Çalışma ve Sosyal Güvenlik Bakanı birlikte yürütür.\n\n Yönetmeliğin Yayımlandığı Resmî Gazete’nin\n\n Tarihi\n Sayısı\n\n 1/8/2004\n 25540\n\n Yönetmelikte Değişiklik Yapan Yönetmeliklerin Yayımlandığı Resmî Gazetelerin\n\n Tarihi\n Sayısı\n\n 1\n 7/7/2012\n 28346\n\n 2\n 19/4/2014\n 28977\n\n 3\n 1/7/2022\n 31883",
+      "preview": "Bu Yönetmelik hükümlerini Maliye Bakanı ile Çalışma ve Sosyal Güvenlik Bakanı birlikte yürütür. Yönetmeliğin Yayımlandığı Resmî Gazete’nin T…",
+      "kitap": null,
+      "kisim": null,
+      "bolum": "BEŞİNCİ BÖLÜM · Son Hükümler",
+      "ayirim": null,
+      "maddeBaslik": "Yürütme",
+      "sectionPath": [
+        "BEŞİNCİ BÖLÜM · Son Hükümler",
+        "Yürütme"
+      ]
+    }
+  ]
+}

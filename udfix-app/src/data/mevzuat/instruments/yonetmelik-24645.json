@@ -1,0 +1,461 @@
+{
+  "id": "yonetmelik:24645",
+  "kind": "yonetmelik",
+  "no": "24645",
+  "title": "Taşınmaz Ticareti Hakkında Yönetmelik",
+  "shortName": "Emlak Ticareti Yön.",
+  "aliases": [
+    "Emlak Ticareti Yön.",
+    "Taşınmaz Ticareti Hakkında Yönetmelik",
+    "24645"
+  ],
+  "tur": 7,
+  "tertip": 5,
+  "sourceUrl": "https://www.mevzuat.gov.tr/mevzuat?MevzuatNo=24645&MevzuatTur=7&MevzuatTertip=5",
+  "kabulTarihi": null,
+  "maddeCount": 26,
+  "maddeler": [
+    {
+      "id": "yonetmelik:24645:m:1",
+      "maddeKind": "madde",
+      "maddeNo": "1",
+      "heading": "Madde 1",
+      "text": "(1) Bu Yönetmeliğin amacı, taşınmaz ticaretine ilişkin usul ve esasları düzenlemektir.",
+      "preview": "(1) Bu Yönetmeliğin amacı, taşınmaz ticaretine ilişkin usul ve esasları düzenlemektir.",
+      "kitap": null,
+      "kisim": null,
+      "bolum": "BİRİNCİ BÖLÜM · Amaç, Kapsam, Dayanak ve Tanımlar",
+      "ayirim": null,
+      "maddeBaslik": "Amaç",
+      "sectionPath": [
+        "BİRİNCİ BÖLÜM · Amaç, Kapsam, Dayanak ve Tanımlar",
+        "Amaç"
+      ]
+    },
+    {
+      "id": "yonetmelik:24645:m:2",
+      "maddeKind": "madde",
+      "maddeNo": "2",
+      "heading": "Madde 2",
+      "text": "(Değişik:RG-14/10/2020-31274)\n (1) Bu Yönetmelik, gerçek veya tüzel kişi tacirler ile esnaf ve sanatkârların taşınmaz ticareti faaliyetlerini, yetki belgesinin verilmesi, (Ek ibare:RG-29/4/2026-33238) tadili, yenilenmesi ve iptaline ilişkin usul ve esasları, taşınmaz ticaretine ilişkin (Değişik ibare:RG-30/5/2025-32915) ilke ve kuralları, internet ortamındaki taşınmaz ilanlarına ilişkin yükümlülükleri, (Ek ibare:RG-29/4/2026-33238) ödeme sisteminin kurulması, işletilmesi ve taşınmaz satışında ödeme sisteminin gerçek ve tüzel kişiler tarafından kullanılmasına ilişkin usul ve esasları, Bakanlık, yetkili idare ve ilgili diğer kurum ve kuruluşların taşımaz ticaretine ilişkin görev, yetki ve sorumluluklarını kapsar.\n (2) Alışveriş merkezi yönetimi ile iştigal eden gerçek veya tüzel kişilerin, yönetiminden sorumlu olduğu alışveriş merkezlerindeki iş yerlerinin kiralanmasına aracılık hizmetleri bu Yönetmelik kapsamı dışındadır.",
+      "preview": "(Değişik:RG-14/10/2020-31274) (1) Bu Yönetmelik, gerçek veya tüzel kişi tacirler ile esnaf ve sanatkârların taşınmaz ticareti faaliyetlerini…",
+      "kitap": null,
+      "kisim": null,
+      "bolum": "BİRİNCİ BÖLÜM · Amaç, Kapsam, Dayanak ve Tanımlar",
+      "ayirim": null,
+      "maddeBaslik": "Kapsam",
+      "sectionPath": [
+        "BİRİNCİ BÖLÜM · Amaç, Kapsam, Dayanak ve Tanımlar",
+        "Kapsam"
+      ]
+    },
+    {
+      "id": "yonetmelik:24645:m:3",
+      "maddeKind": "madde",
+      "maddeNo": "3",
+      "heading": "Madde 3",
+      "text": "(Değişik:RG-14/10/2020-31274)\n (1) Bu Yönetmelik, 14/1/2015 tarihli ve 6585 sayılı Perakende Ticaretin Düzenlenmesi Hakkında Kanunun 16 ncı maddesinin birinci fıkrasının (b) bendi (Ek ibare:RG-31/8/2023-32295) , 23/10/2014 tarihli ve 6563 sayılı Elektronik Ticaretin Düzenlenmesi Hakkında Kanunun 11 inci maddesinin birinci fıkrası ile 10/7/2018 tarihli ve 30474 sayılı Resmî Gazete’de yayımlanan 1 sayılı Cumhurbaşkanlığı Teşkilatı Hakkında Cumhurbaşkanlığı Kararnamesinin 446 ncı maddesine dayanılarak hazırlanmıştır.",
+      "preview": "(Değişik:RG-14/10/2020-31274) (1) Bu Yönetmelik, 14/1/2015 tarihli ve 6585 sayılı Perakende Ticaretin Düzenlenmesi Hakkında Kanunun 16 ncı m…",
+      "kitap": null,
+      "kisim": null,
+      "bolum": "BİRİNCİ BÖLÜM · Amaç, Kapsam, Dayanak ve Tanımlar",
+      "ayirim": null,
+      "maddeBaslik": "Dayanak",
+      "sectionPath": [
+        "BİRİNCİ BÖLÜM · Amaç, Kapsam, Dayanak ve Tanımlar",
+        "Dayanak"
+      ]
+    },
+    {
+      "id": "yonetmelik:24645:m:4",
+      "maddeKind": "madde",
+      "maddeNo": "4",
+      "heading": "Madde 4",
+      "text": "(Değişik:RG-14/10/2020-31274)\n (1) Bu Yönetmeliğin uygulanmasında;\n a) Bakanlık: Ticaret Bakanlığını,\n b) Bilgi Sistemi: Taşınmaz Ticareti Bilgi Sistemini,\n c) Emlak danışmanı: İşletme veya sözleşmeli işletmede iş sözleşmesi ile çalışan pazarlama ve satış personelini,\n ç) ESBİS: Esnaf ve Sanatkâr Bilgi Sistemini,\n d) İl müdürlüğü: Ticaret il müdürlüğünü,\n e) İş sahibi: 13 üncü maddede belirtilen hizmetlerin yürütülmesi hususunda işletme veya sözleşmeli işletme ile yetkilendirme sözleşmesi düzenleyen gerçek veya tüzel kişileri,\n f) İşletme: Taşınmaz ticaretiyle iştigal eden ticari işletmeler ile esnaf ve sanatkâr işletmelerini,\n g) (Mülga:RG-31/8/2023-32295)\n ğ) Meslek odası: İlgili esnaf ve sanatkârlar odası ile ticaret ve sanayi odasını, ticaret ve sanayi odalarının ayrı kurulduğu yerlerde ticaret odasını,\n h) Mesleki yeterlilik belgesi: Mesleki Yeterlilik Kurumu tarafından onaylanarak bireyin bilgi, beceri ve yetkinliğini ifade eden sorumlu emlak danışmanı (Seviye 5) ve emlak danışmanı (Seviye 4) ulusal yeterliliklerine dayalı belgeyi,\n ı) MERSİS: Merkezi Sicil Kayıt Sistemini,\n i) Sorumlu emlak danışmanı: Taşınmaz ticareti ile iştigal eden gerçek kişi tacirler ile esnaf ve sanatkârları, ticaret şirketleri ve diğer tüzel kişi tacirler ile şubelerde ise taşınmaz ticareti faaliyetlerini yürüten yetkili temsilcileri,\n j) Sözleşmeli işletme: Sözleşmeye dayalı olarak bir işletmenin yönetim, organizasyon ve pazarlama teknolojileri gibi konularda desteğini almak suretiyle o işletmenin iş yerinde taşınmaz ticaretiyle iştigal eden ticari işletmeler ile esnaf ve sanatkâr işletmelerini,\n k) Taşınmaz ticareti: Tapu kütüğüne kayıtlı olsun ya da olmasın taşınmaz alım satımı, pazarlanması ve kiralanmasına aracılık faaliyetleri ile bu faaliyetlerle birlikte yürütülen ve 13 üncü maddede belirtilen diğer faaliyetleri,\n l) Yetki belgesi: Taşınmaz ticaretiyle iştigal edilebilmesi için işletme ve sözleşmeli işletmeler adına düzenlenen belgeyi,\n m) Yetkilendirme sözleşmesi: İşletme veya sözleşmeli işletme ile iş sahibi arasında düzenlenen ve belli bir bedel karşılığında 13 üncü maddede belirtilen hizmetlerin verilmesini öngören sözleşmeyi,\n n) Yetkili idare: İş yeri açma ve çalışma ruhsatı vermeye yetkili belediye veya il özel idareleri ile diğer idareleri,\n ifade eder.",
+      "preview": "(Değişik:RG-14/10/2020-31274) (1) Bu Yönetmeliğin uygulanmasında; a) Bakanlık: Ticaret Bakanlığını, b) Bilgi Sistemi: Taşınmaz Ticareti Bilg…",
+      "kitap": null,
+      "kisim": null,
+      "bolum": "BİRİNCİ BÖLÜM · Amaç, Kapsam, Dayanak ve Tanımlar",
+      "ayirim": null,
+      "maddeBaslik": "Tanımlar",
+      "sectionPath": [
+        "BİRİNCİ BÖLÜM · Amaç, Kapsam, Dayanak ve Tanımlar",
+        "Tanımlar"
+      ]
+    },
+    {
+      "id": "yonetmelik:24645:m:5",
+      "maddeKind": "madde",
+      "maddeNo": "5",
+      "heading": "Madde 5",
+      "text": "(Başlığı ile Birlikte Değişik:RG-14/10/2020-31274)\n (1) Taşınmaz ticareti, yetki belgesine sahip işletme ve sözleşmeli işletmeler tarafından yapılır.\n (2) Yetki belgesi, işletmenin bulunduğu yerdeki il müdürlüğü tarafından Bilgi Sistemi üzerinden verilir, (Ek ibare:RG-29/4/2026-33238) tadil edilir, yenilenir ve iptal edilir.\n (3) Ticari işletme adına düzenlenen yetki belgesinde, MERSİS numarası ve MERSİS’e kayıtlı işletme adı ve adresi ile ticaret unvanına; esnaf ve sanatkâr işletmesi adına düzenlenen yetki belgesinde ise ESBİS’e kayıtlı işletme adı ve adresi ile işletme sahibinin adı, soyadı ve T.C. kimlik numarasına veya yabancı kimlik numarasına yer verilir.\n (4) Sözleşmeli işletmenin yetki belgesinde, üçüncü fıkrada belirtilen bilgilerle birlikte, sözleşmeyle bağlı olunan işletmenin unvanı ve yetki belgesi numarasına da yer verilir.\n (5) Yetki belgesi, her bir işletme ve sözleşmeli işletme için ayrı ayrı düzenlenir ve devredilemez.",
+      "preview": "(Başlığı ile Birlikte Değişik:RG-14/10/2020-31274) (1) Taşınmaz ticareti, yetki belgesine sahip işletme ve sözleşmeli işletmeler tarafından…",
+      "kitap": null,
+      "kisim": null,
+      "bolum": "İKİNCİ BÖLÜM · Yetki, Yeterlilik ve Bilgi Sistemi",
+      "ayirim": null,
+      "maddeBaslik": "Yetki belgesi",
+      "sectionPath": [
+        "İKİNCİ BÖLÜM · Yetki, Yeterlilik ve Bilgi Sistemi",
+        "Yetki belgesi"
+      ]
+    },
+    {
+      "id": "yonetmelik:24645:m:6",
+      "maddeKind": "madde",
+      "maddeNo": "6",
+      "heading": "Madde 6",
+      "text": "(Değişik:RG-14/10/2020-31274)\n (1) İşletmeye yetki belgesi verilebilmesi için;\n a) Meslek odasına kayıtlı olunması,\n b) Gelir veya kurumlar vergisi mükellefi olunması,\n c) Meslek odası ve vergi kayıtlarındaki iştigal konuları arasında taşınmaz ticareti faaliyetinin bulunması,\n ç) Sorumlu emlak danışmanlarından en az birinin Seviye 5 mesleki yeterlilik belgesine sahip olması,\n d) Sorumlu emlak danışmanlarının;\n 1) On sekiz yaşını doldurmuş olması,\n 2) En az (Değişik ibare:RG-16/4/2021-31456) ilköğretim mezunu olması,\n 3) İflas etmemiş veya iflas etmiş olsa bile 9/6/1932 tarihli ve 2004 sayılı İcra ve İflas Kanunu hükümlerine göre itibarının yerine gelmiş olması,\n 4) Kasten işlenen bir suçtan dolayı beş yıldan fazla kesinleşmiş hapis cezası almamış veya devletin güvenliğine, anayasal düzene ve bu düzenin işleyişine, milli savunmaya ve devlet sırlarına karşı suçlar ile casusluk, zimmet, irtikâp, rüşvet, hırsızlık, dolandırıcılık, sahtecilik, güveni kötüye kullanma, hileli iflas, ihaleye fesat karıştırma, edimin ifasına fesat karıştırma, suçtan kaynaklanan malvarlığı değerlerini aklama, terörün finansmanı, kaçakçılık, vergi kaçakçılığı, haksız mal edinme, işkence, cinsel saldırı ve çocukların cinsel istismarı, kişiyi hürriyetinden yoksun kılma, hayasızca hareketler, müstehcenlik, fuhuş, kumar oynanması için yer ve imkan sağlama suçlarından hüküm giymemiş ya da ticaret ve sanat icrasından hükmen yasaklanmamış olması,\n 5) Milli Eğitim Bakanlığı, üniversiteler veya Milli Eğitim Bakanlığınca yetkilendirilen kurum ve kuruluşlarca taşınmaz ticareti konusunda verilen en az yüz saatlik eğitimde başarılı olması,\n 6) (Değişik:RG-16/4/2021-31456) Yetki belgesi başvurusunun yapıldığı tarihten önceki son beş yıl içinde ön lisans, lisans ve lisansüstü mezunlarının en az altı ay; bunların dışında kalanların ise en az on iki ay emlak danışmanlığı veya sorumlu emlak danışmanlığı yapmış olması,\n gerekir.\n (2) Sorumlu emlak danışmanlarının, ortaöğretim veya yükseköğretim kurumlarının taşınmaz ticareti ile ilgili alanlarından ya da bunlara denkliği kabul edilen yurt dışındaki öğretim kurumlarından mezun olmaları durumunda birinci fıkranın (d) bendinin (5) numaralı alt bendinde belirtilen mesleki eğitim şartı ile (6) numaralı alt bendinde belirtilen mesleki deneyim şartı aranmaz.\n (3) Sözleşmeli işletmeye yetki belgesi verilebilmesi için;\n a) Sözleşmeli işletmenin, birinci fıkranın (d) bendinin (6) numaralı alt bendinde belirtilen mesleki deneyim şartı hariç olmak üzere birinci fıkrada belirtilen şartları taşıması,\n b) 21 inci maddede belirtilen sözleşmenin yapılmış olması,\n c) İşletmenin yetki belgesinin bulunması ve sözleşmeli işletmesini Bilgi Sistemi üzerinden il müdürlüğüne bildirmiş olması,\n gerekir.\n (4) Birinci fıkranın (d) bendinin (5) numaralı alt bendinde belirtilen mesleki eğitim şartına ilişkin usul ve esaslar ile bu şarttan muafiyet sağlayan eğitim alanları, ilgili kamu kurum ve kuruluşlarının görüşleri alınarak Bakanlıkça belirlenir.",
+      "preview": "(Değişik:RG-14/10/2020-31274) (1) İşletmeye yetki belgesi verilebilmesi için; a) Meslek odasına kayıtlı olunması, b) Gelir veya kurumlar ver…",
+      "kitap": null,
+      "kisim": null,
+      "bolum": "İKİNCİ BÖLÜM · Yetki, Yeterlilik ve Bilgi Sistemi",
+      "ayirim": null,
+      "maddeBaslik": "Yetki belgesi verilmesinde aranan şartlar",
+      "sectionPath": [
+        "İKİNCİ BÖLÜM · Yetki, Yeterlilik ve Bilgi Sistemi",
+        "Yetki belgesi verilmesinde aranan şartlar"
+      ]
+    },
+    {
+      "id": "yonetmelik:24645:m:7",
+      "maddeKind": "madde",
+      "maddeNo": "7",
+      "heading": "Madde 7",
+      "text": "(1) Yetki belgesi başvurusu, yetki belgesi verilmesinde aranan şartların taşındığını gösteren belgeler ile birlikte Bilgi Sistemi üzerinden yapılır. (Mülga cümle:RG-14/10/2020-31274) (…)\n (2) (Değişik:RG-14/10/2020-31274) İlgili kurum ve kuruluşların elektronik bilgi sistemlerinden sağlanabilen belgeler, bu sistemlerden temin edilerek elektronik ortamda oluşturulan dosyada diğer başvuru evrakı ile birlikte saklanır.\n (3) (Değişik:RG-14/10/2020-31274) Yetki belgesi verilmesinde aranan şartları taşıdığı anlaşılan işletme ve sözleşmeli işletmelere, başvuru tarihinden itibaren on gün içinde yetki belgesi verilir. Başvurusu reddedilen işletme ve sözleşmeli işletmelere durum gerekçesi ile birlikte Bilgi Sistemi üzerinden bildirilir.",
+      "preview": "(1) Yetki belgesi başvurusu, yetki belgesi verilmesinde aranan şartların taşındığını gösteren belgeler ile birlikte Bilgi Sistemi üzerinden…",
+      "kitap": null,
+      "kisim": null,
+      "bolum": "İKİNCİ BÖLÜM · Yetki, Yeterlilik ve Bilgi Sistemi",
+      "ayirim": null,
+      "maddeBaslik": "Yetki belgesinin verilmesi",
+      "sectionPath": [
+        "İKİNCİ BÖLÜM · Yetki, Yeterlilik ve Bilgi Sistemi",
+        "Yetki belgesinin verilmesi"
+      ]
+    },
+    {
+      "id": "yonetmelik:24645:m:8",
+      "maddeKind": "madde",
+      "maddeNo": "8",
+      "heading": "Madde 8",
+      "text": "(Başlığı ile Birlikte Değişik:RG-29/4/2026-33238)\n (1) Yetki belgesi, ticaret ünvanı veya işletme adı değişikliği hariç olmak üzere, içeriğindeki bilgilerden herhangi birinde değişiklik olması durumunda tadil edilir. Ticaret ünvanı veya işletme adının değişmesi durumunda yetki belgesi yenilenir.\n (2) Tadil ve yenileme başvurusu, değişikliğin gerçekleştiği tarihten itibaren on gün içinde Bilgi Sistemi üzerinden yapılır ve il müdürlüğünce başvuru tarihinden itibaren on gün içinde sonuçlandırılır.\n (3) İşletme adresinin değişmesi nedeniyle yetki belgesinin tadili veya ticaret ünvanının veya işletme adının değişmesi nedeniyle yetki belgesinin yenilenmesi durumunda, yetki belgesinin tadil edildiği veya yenilendiği tarihten itibaren on gün içinde, o işletmenin sözleşmeli işletmelerinin yetki belgeleri de herhangi bir başvuruya gerek olmaksızın tadil edilir veya yenilenir.",
+      "preview": "(Başlığı ile Birlikte Değişik:RG-29/4/2026-33238) (1) Yetki belgesi, ticaret ünvanı veya işletme adı değişikliği hariç olmak üzere, içeriğin…",
+      "kitap": null,
+      "kisim": null,
+      "bolum": "İKİNCİ BÖLÜM · Yetki, Yeterlilik ve Bilgi Sistemi",
+      "ayirim": null,
+      "maddeBaslik": "Yetki belgesinin tadili ve yenilenmesi",
+      "sectionPath": [
+        "İKİNCİ BÖLÜM · Yetki, Yeterlilik ve Bilgi Sistemi",
+        "Yetki belgesinin tadili ve yenilenmesi"
+      ]
+    },
+    {
+      "id": "yonetmelik:24645:m:9",
+      "maddeKind": "madde",
+      "maddeNo": "9",
+      "heading": "Madde 9",
+      "text": "(Başlığı ile Birlikte Değişik:RG-14/10/2020-31274)\n (1) Yetki belgesi;\n a) Yetki belgesi şartlarından herhangi birini kaybeden işletme veya sözleşmeli işletmenin, bu durumun gerçekleştiği tarihten itibaren on gün içinde Bilgi Sistemi üzerinden yapacağı başvuru üzerine,\n b) Yetki belgesi şartlarından herhangi birine sahip olunmadığının Bakanlıkça tespit edilmesi halinde,\n c) Süresi içinde (Ek ibare:RG-29/4/2026-33238) tadil veya yenileme başvurusunda bulunulmaması nedeniyle Bilgi Sistemi üzerinden ya da yazılı olarak Bakanlıkça yapılan uyarı tarihinden itibaren on gün içinde (Ek ibare:RG-29/4/2026-33238) tadil veya yenileme başvurusunda bulunulmaması halinde,\n ç) Bu Yönetmelik hükümlerine aykırı hareket eden işletme veya sözleşmeli işletmeye Bakanlıkça on günden az olmayacak şekilde verilen süre içinde aykırılığın ortadan kaldırılmaması veya aynı takvim yılı içinde tekrarlanması halinde,\n iptal edilir.\n (2) İşletmenin yetki belgesinin iptal edilmesi halinde sözleşmeli işletmelerinin yetki belgeleri de iptal edilir.\n (3) Sözleşmesi sona eren veya sözleşmeyle bağlı olduğu işletmenin adresinden başka bir adreste faaliyet gösteren sözleşmeli işletmenin yetki belgesi iptal edilir.\n (4) Yetki belgesi iptal edilen işletme ve sözleşmeli işletmeye bu durum gerekçesiyle birlikte Bilgi Sistemi üzerinden bildirilir.\n (5) Birinci fıkranın (ç) bendi gereğince yetki belgesi iptal edilen işletme ve sözleşmeli işletmeye, işletme ve sözleşmeli işletme sahibinin diğer işletmelerine ve temsilcisi olduğu işletmelere, iptal tarihinden itibaren bir yıl süreyle yetki belgesi verilmez.",
+      "preview": "(Başlığı ile Birlikte Değişik:RG-14/10/2020-31274) (1) Yetki belgesi; a) Yetki belgesi şartlarından herhangi birini kaybeden işletme veya sö…",
+      "kitap": null,
+      "kisim": null,
+      "bolum": "İKİNCİ BÖLÜM · Yetki, Yeterlilik ve Bilgi Sistemi",
+      "ayirim": null,
+      "maddeBaslik": "Yetki belgesinin iptali",
+      "sectionPath": [
+        "İKİNCİ BÖLÜM · Yetki, Yeterlilik ve Bilgi Sistemi",
+        "Yetki belgesinin iptali"
+      ]
+    },
+    {
+      "id": "yonetmelik:24645:m:10",
+      "maddeKind": "madde",
+      "maddeNo": "10",
+      "heading": "Madde 10",
+      "text": "(Değişik:RG-14/10/2020-31274)\n (1) Sorumlu emlak danışmanlarının Seviye 5, emlak danışmanlarının ise Seviye 4 mesleki yeterlilik belgesine sahip olması gerekir.\n (2) Sorumlu emlak danışmanlarının, yükseköğretim kurumlarının; emlak danışmanlarının ise ortaöğretim veya yükseköğretim kurumlarının taşınmaz ticareti ile ilgili alanlarından ya da bunlara denkliği kabul edilen yurt dışındaki öğretim kurumlarından mezun olmaları durumunda mesleki yeterlilik belgesi şartı aranmaz.\n (3) Mesleki yeterlilik belgesi şartından muafiyet sağlayan taşınmaz ticareti ile ilgili alanlar Bakanlıkça belirlenir.\n Bilgi Sistemi, bildirim yükümlülüğü ve ilan (Değişik başlık:RG-14/10/2020-31274)",
+      "preview": "(Değişik:RG-14/10/2020-31274) (1) Sorumlu emlak danışmanlarının Seviye 5, emlak danışmanlarının ise Seviye 4 mesleki yeterlilik belgesine sa…",
+      "kitap": null,
+      "kisim": null,
+      "bolum": "İKİNCİ BÖLÜM · Yetki, Yeterlilik ve Bilgi Sistemi",
+      "ayirim": null,
+      "maddeBaslik": "Mesleki yeterlilik belgesi",
+      "sectionPath": [
+        "İKİNCİ BÖLÜM · Yetki, Yeterlilik ve Bilgi Sistemi",
+        "Mesleki yeterlilik belgesi"
+      ]
+    },
+    {
+      "id": "yonetmelik:24645:m:11",
+      "maddeKind": "madde",
+      "maddeNo": "11",
+      "heading": "Madde 11",
+      "text": "(1) Taşınmaz ticaretinin takip ve kontrolü amacıyla Bakanlık tarafından Bilgi Sistemi oluşturulur.\n (2) (Değişik:RG-14/10/2020-31274) Bakanlıkça gerekli görülen bilgi ve belgeler, Bakanlığın belirlediği süre içinde ilgili kişi, kurum ve kuruluşlar ile işletme ve sözleşmeli işletmelerce Bilgi Sistemine aktarılır.\n (3) (Ek:RG-14/10/2020-31274)(3)(4) İşletmeler;\n a) Sözleşmeli işletmelerine ilişkin bilgileri, 21 inci maddede belirtilen sözleşmenin yapıldığı,\n b) Sorumlu emlak danışmanları ve emlak danışmanları ile sözleşmeli işletmelerinin sorumlu emlak danışmanları ve emlak danışmanlarının işe başlama ve işi bırakma bilgilerini bu durumların gerçekleştiği,\n c) Sözleşmesi sona eren sözleşmeli işletmelerine ilişkin bilgileri bu durumun gerçekleştiği,\n tarihten itibaren on gün içinde Bilgi Sistemine aktarmakla yükümlüdür.\n (4) Yetki belgesine sahip (Ek ibare:RG-14/10/2020-31274) işletme ve sözleşmeli işletmelerin güncel listesi Bakanlığın internet sayfasında ilan edilir.\n (5) Bilgi Sistemi ihtiyaç duyulan diğer bilgi sistemlerine entegre edilir.\n (6) Bilgi Sisteminin işletilmesinde 24/3/2016 tarihli ve 6698 sayılı Kişisel Verilerin Korunması Kanunu ve ikincil mevzuat kapsamında kişisel verilerin korunmasına yönelik her türlü teknik ve idari tedbir alınır.",
+      "preview": "(1) Taşınmaz ticaretinin takip ve kontrolü amacıyla Bakanlık tarafından Bilgi Sistemi oluşturulur. (2) (Değişik:RG-14/10/2020-31274) Bakanlı…",
+      "kitap": null,
+      "kisim": null,
+      "bolum": "İKİNCİ BÖLÜM · Yetki, Yeterlilik ve Bilgi Sistemi",
+      "ayirim": null,
+      "maddeBaslik": "Mesleki yeterlilik belgesi",
+      "sectionPath": [
+        "İKİNCİ BÖLÜM · Yetki, Yeterlilik ve Bilgi Sistemi",
+        "Mesleki yeterlilik belgesi"
+      ]
+    },
+    {
+      "id": "yonetmelik:24645:m:12",
+      "maddeKind": "madde",
+      "maddeNo": "12",
+      "heading": "Madde 12",
+      "text": "(Başlığı ile Birlikte Değişik:RG-14/10/2020-31274)\n (1) İnternet ortamında taşınmaz ticaretine yönelik ilan veren işletme ve sözleşmeli işletmeler, 14 üncü maddenin ikinci fıkrasının (h), (ı), (i) ve (j) bentlerinde belirtilen ilke ve kurallara uymakla ve ilanlarında üçüncü kişileri yanıltıcı bilgi ve belgelere yer vermemekle yükümlüdür.\n (2) (Değişik cümle:RG-31/8/2023-32295)(5) Başkalarına ait taşınmazların satışına yönelik ilanlara elektronik ortam sağlayan gerçek veya tüzel kişiler aşağıdaki hususlara uymakla yükümlüdür:\n a) İşletme ve sözleşmeli işletmelerin 14 üncü maddenin ikinci fıkrasının (i) bendinde belirtilen yükümlülüğünü yerine getirebilmesine imkân sağlamak.\n b) İşletme ve sözleşmeli işletmelerin üyeliğinden önce Bakanlığın internet sayfası veya Bilgi Sisteminden yetki belgesi kontrolü yaparak yetki belgesine sahip olmayan işletme ve sözleşmeli işletmeleri üye yapmamak.(4)\n c) (Değişik:RG-31/8/2023-32295)(5) Gerçek kişinin adı, soyadı ve T.C. kimlik numarası ya da yabancı kimlik numarası ile telefon numarasını; tüzel kişinin unvan ve telefon numarasını üyelikten veya ilanın yayımlamasından önce doğrulamak. Doğrulanmış bilgilerin güncelliğini korumak ve bu bilgileri saklamak.\n ç) (Ek:RG-31/8/2023-32295)(5)(6) İlana konu taşınmazın ilan veren üyeye veya bu üyenin gerçek kişi olması halinde birinci ve ikinci derece kan hısımlarına veya eşine ait olduğunu ya da ilanı veren üyenin ilana konu taşınmaz sahibi tarafından yetkilendirildiğini ilanı yayımlamadan önce doğrulamak.\n d) İlanlara ilişkin talep ve şikâyetlerin internet tabanlı iletişim yöntemlerinden en az biri ve telefon aracılığıyla iletebilmesi için müşteri hizmetleriyle iletişim imkânı sunmak. Bu talep ve şikâyetlerin etkin şekilde yönetilerek sonuçlandırılmasını sağlamak. (4)\n e) İlan, şikâyet ve üyeliklere ilişkin bilgileri Bakanlığın taleplerine uygun olarak Bakanlığa iletmek.\n f) (Değişik:RG-31/8/2023-32295)(5) Piyasa yapısını bozucu veya tüketiciyi yanıltıcı ilanları önlemeye yönelik tedbirleri almak, etkin ve sürdürülebilir rekabet şartlarının ve tüketicinin korunması amacıyla Bakanlıkça alınan tedbirlere uymak.\n (3) (Ek:RG-30/5/2025-32915) İnternet ortamında verilen taşınmaz ilanlarında genel ekonomik verilerle uyumlu olmayan ve haklı bir sebebe dayanmayan fiyat artışı yapılamaz ve işletmelerce bu ilanlara aracılık edilemez.",
+      "preview": "(Başlığı ile Birlikte Değişik:RG-14/10/2020-31274) (1) İnternet ortamında taşınmaz ticaretine yönelik ilan veren işletme ve sözleşmeli işlet…",
+      "kitap": null,
+      "kisim": null,
+      "bolum": "ÜÇÜNCÜ BÖLÜM · Faaliyetlere İlişkin Yükümlülükler",
+      "ayirim": null,
+      "maddeBaslik": "İnternet ortamındaki ilanlara ilişkin yükümlülükler",
+      "sectionPath": [
+        "ÜÇÜNCÜ BÖLÜM · Faaliyetlere İlişkin Yükümlülükler",
+        "İnternet ortamındaki ilanlara ilişkin yükümlülükler"
+      ]
+    },
+    {
+      "id": "yonetmelik:24645:m:13",
+      "maddeKind": "madde",
+      "maddeNo": "13",
+      "heading": "Madde 13",
+      "text": "(Değişik:RG-14/10/2020-31274)\n (1) Yetki belgesine sahip işletme ve sözleşmeli işletmeler, taşınmaz alım satımı ve kiralanmasına aracılık hizmetleri ile birlikte yetkilendirme sözleşmesine konu taşınmazla ilgili aşağıdaki hizmetleri verebilir:\n a) Mülkiyeti devir borcu doğuran işlemler ile ayni veya şahsi hak tesis eden işlemlere aracılık etmek.\n b) İnceleme, araştırma ve raporlama yapmak.\n c) Rayiç satış veya kira bedeli ile vergi değeri araştırması yaparak iş sahibine bu hususlarda bilgi vermek.\n ç) Yetkilendirme sözleşmesinde açıkça belirtilmesi koşuluyla; tapu ve kadastro müdürlükleri, vergi dairesi müdürlükleri, yetkili idareler ve diğer kurumlardaki işlemlere aracılık etmek ve bu kurumlardan bilgi ve belge temin etmek.\n d) Kira bedeli ödemeleri ile abonelik işlemlerini takip etmek, tamir, bakım ve onarım gibi hizmetlerin verilmesini sağlamak ve bu hususlarla ilgili süreçler hakkında iş sahibini bilgilendirmek.\n e) Danışmanlık ve yönetim hizmeti vermek.\n f) Devre mülk ve devre tatil satış ve pazarlamasına aracılık etmek.\n g) Taşınmaz ticaretine ilişkin diğer hizmetleri yürütmek.",
+      "preview": "(Değişik:RG-14/10/2020-31274) (1) Yetki belgesine sahip işletme ve sözleşmeli işletmeler, taşınmaz alım satımı ve kiralanmasına aracılık hiz…",
+      "kitap": null,
+      "kisim": null,
+      "bolum": "ÜÇÜNCÜ BÖLÜM · Faaliyetlere İlişkin Yükümlülükler",
+      "ayirim": null,
+      "maddeBaslik": "Taşınmaz ticaretine konu hizmetler",
+      "sectionPath": [
+        "ÜÇÜNCÜ BÖLÜM · Faaliyetlere İlişkin Yükümlülükler",
+        "Taşınmaz ticaretine konu hizmetler"
+      ]
+    },
+    {
+      "id": "yonetmelik:24645:m:14",
+      "maddeKind": "madde",
+      "maddeNo": "14",
+      "heading": "Madde 14",
+      "text": "(Değişik:RG-14/10/2020-31274)\n (1) Taşınmaz ticaretiyle iştigal edilen iş yeri ikamet amacıyla kullanılamaz ve bu iş yerinde başka bir ticari faaliyette bulunulamaz.\n (2) Taşınmaz ticaretiyle iştigal edenler;\n a) Verdiği hizmet nedeniyle edindiği bilgi ve belgeleri, yetkilendirme sözleşmesinde belirtilen esaslar dışında açıklayamaz ve kullanamaz.\n b) Hizmet sunarken ahlaka uygun, adil, dürüst, özenli ve makul şekilde hareket eder; yanıltıcı bilgi veremez.\n c) Haksız ve hukuka aykırı davranış ve ticari uygulamalarda bulunamaz.\n ç) Hizmet verdiği kişilerin tercihlerini etkileyecek nitelikteki bilgileri gizleyemez.\n d) Hizmet verdiği kişilerin menfaatlerine aykırı davranışta bulunamaz.\n e) Hizmet verdiği kişileri yasa dışı olan ve etik olmayan uygulamalara teşvik edemez.\n f) Hizmet verdiği kişilere tehdit veya taciz edici davranışlarda bulunamaz.\n g) Hizmet verdiği kişilere belge imzalatmadan önce bu belgeleri okumaları için yeterli süre verir, belgelerde yer alan hükümleri açıklar ve imzalanan belgelerin birer suretini bu kişilere teslim eder.\n ğ) Aldığı her teklifi ve karşı teklifi, hizmet verdiği kişilere doğru ve objektif bir şekilde en kısa sürede yazılı olarak veya elektronik ortamda sunar.\n h) Taşınmazın satılması veya kiralanması ya da satış veya kiralamadan vazgeçilmesi yahut yetkilendirme sözleşmesinin feshedilmesi veya süresinin sona ermesi durumunda, bu durumun gerçekleştiği tarihi izleyen üç gün içinde ilan faaliyetine son verir.\n ı) İlanlarında yetkilendirme sözleşmesine aykırı hususlara yer veremez.\n i) İlanlarında yetki belgesi numarasına, yetki belgesindeki işletme adı veya unvanına, adres bilgisi hariç olmak üzere il, ilçe, mahalle, ada ve parsel bilgileri ile 15 inci maddenin üçüncü fıkrasında belirtilen diğer bilgilere, iletişim bilgisine ve varsa taşınmazın enerji kimlik bilgilerine kolay okunabilir şekilde yer verir.\n j) Alım satım, pazarlama veya kiralamaya yetkili olmadığı taşınmaza yönelik ilan veremez.\n k) Her bir yetkilendirme sözleşmesi için fiziksel olarak veya elektronik ortamda dosya oluşturur. Yetkilendirme sözleşmesini ve bu sözleşme çerçevesinde verilen hizmetler kapsamında düzenlenen sözleşme ve diğer belgeleri dosyasında en az beş yıl süreyle saklar.\n l) 6 ncı maddenin birinci fıkrasının (d) bendinin (4) numaralı alt bendinde belirtilen adli sicil şartını haiz olmayan emlak danışmanı istihdam edemez.\n (3) Sözleşmeli işletmenin taraf olduğu yetkilendirme, alım satıma aracılık, kiralamaya aracılık ve hizmet ortaklığı sözleşmeleri, sözleşmeyle bağlı olunan işletmenin sorumlu emlak danışmanı tarafından kontrol edilerek imzalanır.",
+      "preview": "(Değişik:RG-14/10/2020-31274) (1) Taşınmaz ticaretiyle iştigal edilen iş yeri ikamet amacıyla kullanılamaz ve bu iş yerinde başka bir ticari…",
+      "kitap": null,
+      "kisim": null,
+      "bolum": "ÜÇÜNCÜ BÖLÜM · Faaliyetlere İlişkin Yükümlülükler",
+      "ayirim": null,
+      "maddeBaslik": "Taşınmaz ticaretinde uyulacak ilke ve kurallar",
+      "sectionPath": [
+        "ÜÇÜNCÜ BÖLÜM · Faaliyetlere İlişkin Yükümlülükler",
+        "Taşınmaz ticaretinde uyulacak ilke ve kurallar"
+      ]
+    },
+    {
+      "id": "yonetmelik:24645:m:15",
+      "maddeKind": "madde",
+      "maddeNo": "15",
+      "heading": "Madde 15",
+      "text": "(Değişik:RG-14/10/2020-31274)\n (1) Taşınmaz ticaretine yönelik hizmetler, iş sahibi ile işletme veya sözleşmeli işletme arasında yazılı şekilde yapılan yetkilendirme sözleşmesine dayanılarak verilir.\n (2) Yetkilendirme sözleşmesi birer nüshası taraflarda kalacak şekilde en az iki nüsha düzenlenir. Bu sözleşmede asgari olarak aşağıdaki bilgilere yer verilir:\n a) İşletme veya sözleşmeli işletmenin yetki belgesi numarası ve iletişim bilgileri ile sorumlu emlak danışmanının adı, soyadı ve imzası.\n b) İş sahibinin gerçek kişi olması durumunda bu kişinin adı, soyadı, T.C. kimlik numarası veya yabancı kimlik numarası ile iletişim bilgileri ve imzası; tüzel kişi olması durumunda ise tüzel kişinin unvanı ve iletişim bilgileri ile temsile yetkili kişisinin adı, soyadı ve imzası.\n c) İşletme veya sözleşmeli işletme tarafından verilecek hizmetler ve hizmet bedelleri.\n ç) Tarafların hak ve yükümlülükleri.\n d) Kararlaştırılması halinde oran veya tutarı işletme veya sözleşmeli işletme için toplam hizmet bedelini aşmamak koşuluyla tarafların sözleşmeden cayması durumunda ödenecek cayma bedeli ve sözleşmenin hiç veya gereği gibi ifa edilmemesi halinde uygulanacak ceza koşulu ile tarafların diğer mali ve hukuki sorumlulukları.\n e) Sözleşmenin süresi.\n f) Tarafların tebligat adresleri.\n (3) Alım satım ve kiralamalara ilişkin yetkilendirme sözleşmelerinde ikinci fıkradaki bilgilerle birlikte taşınmaza ilişkin asgari olarak aşağıdaki bilgilere yer verilir:\n a) İmar ve yapı kullanma izin durumu.\n b) Tapu kaydı bilgileri, cinsi ve adresi.\n c) Büyüklüğü, yaşı ve fiili kullanım durumu.\n ç) Kat, cephe ve manzara gibi konum özellikleri.\n d) Toplu taşıma araçlarının duraklarına yaklaşık mesafesi.\n e) Sosyal ve kültürel mekânlara yaklaşık mesafesi.\n f) Oda, salon, banyo, tuvalet ve balkon sayısı ile bunların yaklaşık büyüklükleri gibi iç özellikler.\n g) Apartman, site, bina veya müstakil olma durumu ile sosyal ve kültürel donatıları gibi dış özellikleri.\n ğ) Araziler için hisse, emsal ve öngörülen bina yüksekliği bilgileri ile üzerinde ekili veya dikili ürün bulunup bulunmadığı.\n h) Üzerinde ipotek, haciz ve benzeri kısıtlamaların bulunup bulunmadığı.\n (4) Proje aşamasında olup inşasına başlanmamış veya inşasına başlanmış olmakla birlikte henüz tamamlanmamış taşınmazlar, ticari nitelikteki taşınmazlar ve tapu kütüğüne kayıtlı olmayan taşınmazlara ilişkin yetkilendirme sözleşmeleri ile iş sahibinin alıcı veya kiracı olduğu yetkilendirme sözleşmelerinde ikinci ve üçüncü fıkralardaki bilgilerden uygun olanlar ile yeterli bilgilendirme yapmaya elverişli diğer bilgilere yer verilir.\n (5) İkinci ve üçüncü fıkralardaki bilgilerin ilgili elektronik sistemlerden veya kayıtlardan sağlanamaması durumunda iş sahibinin yazılı veya elektronik ortamdaki beyanı esas alınır. İş sahibinin beyan ettiği bilgilerin gerçeği yansıtmamasından iş sahibi sorumludur.",
+      "preview": "(Değişik:RG-14/10/2020-31274) (1) Taşınmaz ticaretine yönelik hizmetler, iş sahibi ile işletme veya sözleşmeli işletme arasında yazılı şekil…",
+      "kitap": null,
+      "kisim": null,
+      "bolum": "ÜÇÜNCÜ BÖLÜM · Faaliyetlere İlişkin Yükümlülükler",
+      "ayirim": null,
+      "maddeBaslik": "Yetkilendirme sözleşmesi",
+      "sectionPath": [
+        "ÜÇÜNCÜ BÖLÜM · Faaliyetlere İlişkin Yükümlülükler",
+        "Yetkilendirme sözleşmesi"
+      ]
+    },
+    {
+      "id": "yonetmelik:24645:m:16",
+      "maddeKind": "madde",
+      "maddeNo": "16",
+      "heading": "Madde 16",
+      "text": "(Değişik:RG-14/10/2020-31274)\n (1) Alım satıma aracılık hizmeti sonucunda alıcı ve satıcı ile işletme veya sözleşmeli işletme arasında alım satıma aracılık sözleşmesi düzenlenir.\n (2) Alım satıma aracılık sözleşmesi birer nüshası taraflarda kalacak şekilde en az üç nüsha düzenlenir. Bu sözleşmede asgari olarak aşağıdaki bilgilere yer verilir:\n a) İşletme veya sözleşmeli işletmenin yetki belgesi numarası, iletişim bilgileri ve tebligat adresi ile sorumlu emlak danışmanının adı, soyadı ve imzası.\n b) Alıcı veya satıcının gerçek kişi olması durumunda bu kişinin adı, soyadı, T.C. kimlik numarası veya yabancı kimlik numarası, iletişim bilgileri, tebligat adresi ve imzası; tüzel kişi olması durumunda ise tüzel kişinin unvanı, iletişim bilgileri ve tebligat adresi ile temsile yetkili kişisinin adı, soyadı ve imzası.\n c) Taşınmazın tapu kaydı bilgileri, cinsi ve adresi ile varsa taşınmazın enerji kimlik bilgileri.\n ç) Taşınmazın alım satım bedeli ve bu bedelin ödenme yöntemi.\n d) Kararlaştırılması halinde oran veya tutarı işletme veya sözleşmeli işletme için hizmet bedelini aşmamak koşuluyla alıcı veya satıcının sözleşmeden cayması durumunda karşı tarafa ve işletme veya sözleşmeli işletmeye ödenecek cayma bedeli ve sözleşmenin hiç veya gereği gibi ifa edilmemesi halinde uygulanacak ceza koşulu.\n e) Hizmet bedeli.\n f) Tapu harcı ve döner sermaye hizmet bedeli gibi masrafların alıcı ve satıcı arasındaki paylaşım usulü.\n g) İlgili kanuna göre sözleşmenin uygulanmasından doğan uyuşmazlıklarda hangi il mahkeme ve icra dairelerinin yetkili olduğu hususu, uyuşmazlığın çözümü için arabuluculuk veya tahkim gibi alternatif çözüm yollarına başvurulmasına ilişkin kayıtlar ve kararlaştırması halinde tarafların diğer hukuki ve mali sorumlulukları.",
+      "preview": "(Değişik:RG-14/10/2020-31274) (1) Alım satıma aracılık hizmeti sonucunda alıcı ve satıcı ile işletme veya sözleşmeli işletme arasında alım s…",
+      "kitap": null,
+      "kisim": null,
+      "bolum": "ÜÇÜNCÜ BÖLÜM · Faaliyetlere İlişkin Yükümlülükler",
+      "ayirim": null,
+      "maddeBaslik": "Alım satıma aracılık sözleşmesi",
+      "sectionPath": [
+        "ÜÇÜNCÜ BÖLÜM · Faaliyetlere İlişkin Yükümlülükler",
+        "Alım satıma aracılık sözleşmesi"
+      ]
+    },
+    {
+      "id": "yonetmelik:24645:m:17",
+      "maddeKind": "madde",
+      "maddeNo": "17",
+      "heading": "Madde 17",
+      "text": "(Değişik:RG-14/10/2020-31274)\n (1) Kiralamaya aracılık hizmeti sonucunda kiracı ve kiralayan ile işletme veya sözleşmeli işletme arasında kiralamaya aracılık sözleşmesi düzenlenir.\n (2) Kiralamaya aracılık sözleşmesi birer nüshası taraflarda kalacak şekilde en az üç nüsha düzenlenir. Bu sözleşmede asgari olarak aşağıdaki bilgilere yer verilir:\n a) İşletme veya sözleşmeli işletmenin yetki belgesi numarası, iletişim bilgileri ve tebligat adresi ile sorumlu emlak danışmanının adı, soyadı ve imzası.\n b) Kiracı veya kiralayanın gerçek kişi olması durumunda bu kişinin adı, soyadı, T.C. kimlik numarası veya yabancı kimlik numarası, iletişim bilgileri, tebligat adresi ve imzası; tüzel kişi olması durumunda ise tüzel kişinin unvanı, iletişim bilgileri ve tebligat adresi ile temsile yetkili kişisinin adı, soyadı ve imzası.\n c) Taşınmazın tapu kaydı bilgileri, cinsi, adresi ve özellikleri ile varsa taşınmazın enerji kimlik bilgileri.\n ç) Taşınmazın kira bedeli ile kira bedelinin yıllık artış oranı ve ödenme yöntemi.\n d) Kararlaştırılması halinde oran veya tutarı işletme veya sözleşmeli işletme için hizmet bedelini aşmamak koşuluyla kiracı veya kiralayanın sözleşmeden cayması durumunda karşı tarafa ve işletme veya sözleşmeli işletmeye ödenecek cayma bedeli ve sözleşmenin hiç veya gereği gibi ifa edilmemesi halinde uygulanacak ceza koşulu.\n e) Hizmet bedeli.\n f) İlgili kanuna göre sözleşmenin uygulanmasından doğan uyuşmazlıklarda hangi il mahkeme ve icra dairelerinin yetkili olduğu hususu, uyuşmazlığın çözümü için arabuluculuk veya tahkim gibi alternatif çözüm yollarına başvurulmasına ilişkin kayıtlar ve kararlaştırması halinde tarafların diğer hukuki ve mali sorumlulukları.",
+      "preview": "(Değişik:RG-14/10/2020-31274) (1) Kiralamaya aracılık hizmeti sonucunda kiracı ve kiralayan ile işletme veya sözleşmeli işletme arasında kir…",
+      "kitap": null,
+      "kisim": null,
+      "bolum": "ÜÇÜNCÜ BÖLÜM · Faaliyetlere İlişkin Yükümlülükler",
+      "ayirim": null,
+      "maddeBaslik": "Kiralamaya aracılık sözleşmesi",
+      "sectionPath": [
+        "ÜÇÜNCÜ BÖLÜM · Faaliyetlere İlişkin Yükümlülükler",
+        "Kiralamaya aracılık sözleşmesi"
+      ]
+    },
+    {
+      "id": "yonetmelik:24645:m:18",
+      "maddeKind": "madde",
+      "maddeNo": "18",
+      "heading": "Madde 18",
+      "text": "(Değişik:RG-14/10/2020-31274)\n (1) İşletme veya sözleşmeli işletme, yetkilendirme sözleşmesinde yer alması koşuluyla hizmetin ortak verilmesi hususunda başka bir veya birden fazla işletme veya sözleşmeli işletme ile yetkilendirme sözleşmesinin konusuna yönelik ortak çalışma yürütebilir.\n (2) Hizmet ortaklığı sözleşmesi birer nüshası taraflarda kalacak şekilde düzenlenir. Bu sözleşmede asgari olarak aşağıdaki bilgilere yer verilir:\n a) İşletme veya sözleşmeli işletmelerin yetki belgesi numarası, unvanı ve iletişim bilgileri ile sorumlu emlak danışmanının adı, soyadı ve imzası.\n b) Sözleşmenin konusu.\n c) Hizmet bedelinin paylaşım usulü.\n ç) Tarafların hak ve yükümlülükleri.\n (3) İşletme veya sözleşmeli işletme tarafından, hizmet ortaklığı sözleşmesinin düzenlendiği gün iş sahibine bilgi verilerek bu sözleşmenin bir örneği düzenlenme tarihinden itibaren üç gün içinde iş sahibine yazılı olarak veya elektronik ortamda gönderilir. Gönderime ilişkin ispat yükü gönderimi yapan işletmeye veya sözleşmeli işletmeye aittir.",
+      "preview": "(Değişik:RG-14/10/2020-31274) (1) İşletme veya sözleşmeli işletme, yetkilendirme sözleşmesinde yer alması koşuluyla hizmetin ortak verilmesi…",
+      "kitap": null,
+      "kisim": null,
+      "bolum": "ÜÇÜNCÜ BÖLÜM · Faaliyetlere İlişkin Yükümlülükler",
+      "ayirim": null,
+      "maddeBaslik": "Hizmet ortaklığı sözleşmesi",
+      "sectionPath": [
+        "ÜÇÜNCÜ BÖLÜM · Faaliyetlere İlişkin Yükümlülükler",
+        "Hizmet ortaklığı sözleşmesi"
+      ]
+    },
+    {
+      "id": "yonetmelik:24645:m:19",
+      "maddeKind": "madde",
+      "maddeNo": "19",
+      "heading": "Madde 19",
+      "text": "(Değişik:RG-14/10/2020-31274)\n (1) Alım satımına veya kiralanmasına aracılık edilen taşınmazın alıcı veya kiracıya fiziksel olarak veya elektronik ortamda gösterilmesi hizmeti, taşınmaz gösterme belgesi düzenlenmek suretiyle verilir.\n (2) Taşınmaz gösterme belgesi, birer nüshası taraflarda kalacak şekilde en az iki nüsha düzenlenir. Bu belgede asgari olarak aşağıdaki bilgilere yer verilir:\n a) İşletme veya sözleşmeli işletmenin yetki belgesi numarası ve iletişim bilgileri ile sorumlu emlak danışmanının adı, soyadı ve imzası.\n b) Taşınmazın gösterildiği kişinin adı, soyadı, T.C. kimlik numarası veya yabancı kimlik numarası ile iletişim bilgileri ve imzası.\n c) Taşınmazın tapu kaydı bilgileri, cinsi ve adresi.\n ç) Taşınmazın hangi amaçla gösterildiği ve gösterilme tarihi.\n d) Hizmet bedeli oranı veya tutarı.\n (3) Taşınmaz gösterme belgesi, her bir alıcı veya kiracı için ayrı ayrı düzenlenir. Taşınmaz gösterme belgesinin birden fazla taşınmaz için düzenlenmesi durumunda alıcı veya kiracının imzası her bir taşınmaz için ayrı ayrı alınır.\n (4) Taşınmazı gösterme hizmeti karşılığında herhangi bir bedel talep edilemez.",
+      "preview": "(Değişik:RG-14/10/2020-31274) (1) Alım satımına veya kiralanmasına aracılık edilen taşınmazın alıcı veya kiracıya fiziksel olarak veya elekt…",
+      "kitap": null,
+      "kisim": null,
+      "bolum": "ÜÇÜNCÜ BÖLÜM · Faaliyetlere İlişkin Yükümlülükler",
+      "ayirim": null,
+      "maddeBaslik": "Taşınmaz gösterme belgesi",
+      "sectionPath": [
+        "ÜÇÜNCÜ BÖLÜM · Faaliyetlere İlişkin Yükümlülükler",
+        "Taşınmaz gösterme belgesi"
+      ]
+    },
+    {
+      "id": "yonetmelik:24645:m:20",
+      "maddeKind": "madde",
+      "maddeNo": "20",
+      "heading": "Madde 20",
+      "text": "(Değişik:RG-14/10/2020-31274)\n (1) Alım satıma aracılık hizmetine ilişkin hizmet bedeli oranı, alım satıma aracılık sözleşmesinde yer alan satış bedelinin katma değer vergisi hariç yüzde dördünden fazla olamaz.\n (2) Kiralamaya aracılık hizmetine ilişkin hizmet bedeli, kiralamaya aracılık sözleşmesinde yer alan kira bedelinin katma değer vergisi hariç bir aylık tutarından fazla olamaz.\n (3) Alım satım veya kiralamaya aracılık hizmetleri ile aynı anda bu hizmetlerle ilişkili olarak 13 üncü maddede belirtilen diğer hizmetlerin de verilmesi durumunda, ayrı yetkilendirme sözleşmesi düzenlenmiş olsa dahi sadece bir hizmet bedeli alınabilir ve bu bedel, alım satıma aracılık hizmeti için birinci fıkrada belirtilen orandan, kiralamaya aracılık hizmeti için ise ikinci fıkrada belirtilen tutardan fazla olamaz.\n (4) İşletme ve sözleşmeli işletme, yetkilendirme sözleşmesine konu hizmetin verilmesi ile hizmet bedeline hak kazanır.\n (5) Alım satım ve kiralamaya aracılık hizmetlerinde, birinci fıkrada belirtilen orandan ve ikinci fıkrada belirtilen tutardan fazla olmayacak şekilde belirlenen hizmet bedeli, alım satıma veya kiralamaya aracılık sözleşmelerinde aksi kararlaştırılmadıkça taraflar arasında eşit paylaşılarak ödenir.\n (6) Bir taşınmazın alım satımı hususunda alıcı ve satıcı, kiralanması hususunda ise kiracı ve kiralayan ile ayrı ayrı yetkilendirme sözleşmesi yapılmış olması durumunda sadece bir hizmet bedeli alınabilir. Bu durumda hizmet bedeli, birinci fıkrada belirtilen orandan ve ikinci fıkrada belirtilen tutardan fazla olmayacak şekilde alım satıma veya kiralamaya aracılık sözleşmelerinde yeniden belirlenir.\n (7) 18 inci madde çerçevesinde yürütülen ortak çalışma sonucunda hak kazanılan hizmet bedeli, alım satıma veya kiralamaya aracılık sözleşmelerinde belirlenen işletme veya sözleşmeli işletmeye ödenir ve hizmet ortaklığı sözleşmesinde belirtilen usulde paylaşılır. Bu sözleşmede hizmet bedelinin paylaşımı hususunda hüküm bulunmaması halinde bu bedel taraflar arasında eşit olarak paylaşılır.\n (8) Taşınmazın yetkilendirme sözleşmesinin süresi içinde, taşınmaz gösterme belgesini düzenleyen işletme veya sözleşmeli işletme bertaraf edilerek doğrudan iş sahibinden satın alınması veya kiralanması durumunda hizmet bedeline hak kazanılır.\n (9) Yetki belgesi iptal edilen işletme ve sözleşmeli işletmenin, iptal tarihi itibarıyla geçerli olan yetkilendirme sözleşmeleri feshedilmiş sayılır. Sözleşmenin feshedilmiş sayılmasından önce verilmiş olan hizmetler için hizmet bedeline hak kazanılır.",
+      "preview": "(Değişik:RG-14/10/2020-31274) (1) Alım satıma aracılık hizmetine ilişkin hizmet bedeli oranı, alım satıma aracılık sözleşmesinde yer alan sa…",
+      "kitap": null,
+      "kisim": null,
+      "bolum": "ÜÇÜNCÜ BÖLÜM · Faaliyetlere İlişkin Yükümlülükler",
+      "ayirim": null,
+      "maddeBaslik": "Hizmet bedeli",
+      "sectionPath": [
+        "ÜÇÜNCÜ BÖLÜM · Faaliyetlere İlişkin Yükümlülükler",
+        "Hizmet bedeli"
+      ]
+    },
+    {
+      "id": "yonetmelik:24645:m:21",
+      "maddeKind": "madde",
+      "maddeNo": "21",
+      "heading": "Madde 21",
+      "text": "(Başlığı ile Birlikte Değişik:RG-14/10/2020-31274)\n (1) Sözleşmeli işletme faaliyetinde bulunulabilmesi için işletme ile sözleşmeli işletme arasında yazılı sözleşme yapılır. Birer nüshası taraflarda kalacak şekilde en az iki nüsha düzenlenen bu sözleşmede asgari olarak aşağıdaki bilgilere yer verilir:\n a) İşletmenin yetki belgesi numarası ve iletişim bilgileri ile sorumlu emlak danışmanının adı, soyadı ve imzası.\n b) Sözleşmeli işletme sahibinin gerçek kişi olması durumunda bu kişinin adı, soyadı, T.C. kimlik numarası veya yabancı kimlik numarası ile iletişim bilgileri ve imzası; tüzel kişi veya şube olması durumunda ise tüzel kişi veya şubenin unvanı, iletişim bilgileri ve tebligat adresi ile yetkili temsilcisinin adı, soyadı ve imzası.\n c) Hizmet bedelinin taraflar arasında paylaşım usulü.\n ç) Sözleşmenin konusu ve süresi.\n d) Tarafların hak ve yükümlülükleri ile tebligat adresleri.\n (2) Sözleşmeli işletme, sadece bir işletmeye sözleşmeyle bağlı olarak taşınmaz ticareti faaliyetinde bulunabilir.",
+      "preview": "(Başlığı ile Birlikte Değişik:RG-14/10/2020-31274) (1) Sözleşmeli işletme faaliyetinde bulunulabilmesi için işletme ile sözleşmeli işletme a…",
+      "kitap": null,
+      "kisim": null,
+      "bolum": "DÖRDÜNCÜ BÖLÜM · Çeşitli ve Son Hükümler",
+      "ayirim": null,
+      "maddeBaslik": "Sözleşmeli işletme",
+      "sectionPath": [
+        "DÖRDÜNCÜ BÖLÜM · Çeşitli ve Son Hükümler",
+        "Sözleşmeli işletme"
+      ]
+    },
+    {
+      "id": "yonetmelik:24645:m:22",
+      "maddeKind": "madde",
+      "maddeNo": "22",
+      "heading": "Madde 22",
+      "text": "(Değişik:RG-14/10/2020-31274)\n (1) Bakanlık, bu Yönetmeliğin uygulanması, uygulamada çıkan sorunlar ve şikâyetlerle ilgili denetim yapmaya yetkilidir. Bakanlık bu yetkisini il müdürlükleri aracılığıyla da kullanabilir.\n (2) Yetkili idareler, Bakanlığın talebi üzerine bu Yönetmelik kapsamında ön inceleme mahiyetinde denetim yapmakla görevlidir.\n (3) Yetkili idareler tarafından ikinci fıkra kapsamında yapılan denetimin sonuçları, denetimin sonuçlandığı tarihten itibaren on gün içinde il müdürlüğüne bildirilir.\n (4) (Değişik:RG-31/8/2023-32295) Bu Yönetmeliğin 12 nci maddesinin ikinci fıkrasına aykırı hareket edenler hakkında 6563 sayılı Kanunun 12 nci maddesinin birinci fıkrasının (d) bendinde, diğer hükümlere aykırı hareket edenler hakkında 6585 sayılı Kanunun 18 inci maddesinde öngörülen idari para cezaları Bakanlıkça uygulanır.\n (5) Sözleşmeli işletmenin bu Yönetmelik hükümlerine aykırı hareket ettiğinin tespit edilmesi ve bu aykırılığın sözleşmeyle bağlı olunan işletmenin kontrolündeki hususlara ilişkin olması durumunda işletme ve sözleşmeli işletme hakkında ayrı ayrı idari para cezası uygulanır.\n (6) İdari para cezalarının uygulanmasında, (Ek ibare:RG-31/8/2023-32295) 6585 sayılı Kanunun 18 inci maddesinin ikinci, beşinci ve altıncı fıkralarında yer alan hükümler saklıdır.",
+      "preview": "(Değişik:RG-14/10/2020-31274) (1) Bakanlık, bu Yönetmeliğin uygulanması, uygulamada çıkan sorunlar ve şikâyetlerle ilgili denetim yapmaya ye…",
+      "kitap": null,
+      "kisim": null,
+      "bolum": "DÖRDÜNCÜ BÖLÜM · Çeşitli ve Son Hükümler",
+      "ayirim": null,
+      "maddeBaslik": "Denetim ve ceza hükümleri",
+      "sectionPath": [
+        "DÖRDÜNCÜ BÖLÜM · Çeşitli ve Son Hükümler",
+        "Denetim ve ceza hükümleri"
+      ]
+    },
+    {
+      "id": "yonetmelik:24645:m:ek:1",
+      "maddeKind": "ek",
+      "maddeNo": "1",
+      "heading": "Ek Madde 1",
+      "text": "(Ek:RG-29/4/2026-33238)\n (1) İşletmelerin ve diğer gerçek veya tüzel kişilerin taşınmaz satışlarında ödemenin bir kısmının veya tamamının nakit, havale, elektronik fon transferi veya Bakanlıkça belirlenen diğer ödeme yöntemleriyle yapılması halinde taşınmaz satış bedeli, taşınmaz mülkiyeti ile satış bedelinin eş zamanlı el değiştirmesini sağlayacak şekilde oluşturulan ödeme sistemi üzerinden ödenir.\n (2) Taşınmaz satış bedelinin bir kısmının veya tamamının 19/10/2005 tarihli ve 5411 sayılı Bankacılık Kanununda tanımlanan banka veya 21/11/2012 tarihli ve 6361 sayılı Finansal Kiralama, Faktoring, Finansman ve Tasarruf Finansman Şirketleri Kanununda tanımlanan finansman ve tasarruf finansman şirketleri tarafından kredilendirilmesi halinde kredi tutarı haricindeki ödemeler için ödeme sistemi kullanılır.\n (3) Ödeme sistemi üzerinden yapılan her işlemde kullanım bedeli alınır. Kullanım bedeli satıcıya aktarılan taşınmaz satış bedelinden mahsup edilir.\n (4) Ödeme sistemine ilişkin her türlü iş ve işlemin takibi, teknik sorunların tespiti ve çözüm önerilerinin geliştirilmesi amacıyla Bakanlık ve Çevre, Şehircilik ve İklim Değişikliği Bakanlığının ilgili birim temsilcilerinden oluşan bir komisyon oluşturulur.\n (5) Ödeme sisteminin kurulmasına ve işletilmesine, sisteme dahil olmayacak taşınmaz satışlarına, verilen hizmetler karşılığında alınacak kullanım bedeli ile bu bedelin paylaşımına ve dördüncü fıkrada belirtilen komisyonun kuruluşuna, çalışmasına, görev ve sorumluluklarına ilişkin usul ve esaslar Çevre, Şehircilik ve İklim Değişikliği Bakanlığının görüşü alınarak Bakanlık tarafından belirlenir ve Bakanlığın resmî internet sayfasında duyurulur.",
+      "preview": "(Ek:RG-29/4/2026-33238) (1) İşletmelerin ve diğer gerçek veya tüzel kişilerin taşınmaz satışlarında ödemenin bir kısmının veya tamamının nak…",
+      "kitap": null,
+      "kisim": null,
+      "bolum": "DÖRDÜNCÜ BÖLÜM · Çeşitli ve Son Hükümler",
+      "ayirim": null,
+      "maddeBaslik": "Ödeme sistemi",
+      "sectionPath": [
+        "DÖRDÜNCÜ BÖLÜM · Çeşitli ve Son Hükümler",
+        "Ödeme sistemi"
+      ]
+    },
+    {
+      "id": "yonetmelik:24645:m:gecici:1",
+      "maddeKind": "gecici",
+      "maddeNo": "1",
+      "heading": "Geçici Madde 1",
+      "text": "(1) Bu maddenin yürürlüğe girdiği tarih itibarıyla taşınmaz ticaretiyle iştigal eden (…)(1) tacirler ile esnaf ve sanatkârların faaliyetlerine devam edebilmeleri için (Değişik ibare:RG-11/12/2019-30975)(2) 31/8/2020 tarihine kadar durumlarını, 6 ncı maddenin birinci fıkrasındaki şartlara uygun hale getirerek yetki belgesi alması gerekir.\n (2) (Değişik:RG-14/10/2020-31274) (Değişik ibare:RG-16/4/2021-31456) 14/10/2020 tarihi itibarıyla taşınmaz ticaretine ilişkin gelir veya kurumlar vergisi ya da meslek odası kaydı bulunan işletme ve sözleşmeli işletmelerin;\n a) Gerçek kişi işletmesi olması halinde, o tarihteki işletme sahibi,\n b) Tüzel kişi işletmesi veya şube olması halinde, o tarihte taşınmaz ticareti faaliyetlerini yürüten yetkili temsilcilerinden biri,\n tarafından yapılan yetki belgesi başvurularında 6 ncı maddenin birinci fıkrasının (d) bendinin 2 numaralı alt bendinde belirtilen (Değişik ibare:RG-16/4/2021-31456) ilköğretim mezuniyeti şartı aranmaz.\n (3) (Değişik:RG-14/10/2020-31274) 5/6/2018 tarihi itibarıyla taşınmaz ticaretine ilişkin gelir veya kurumlar vergisi ya da meslek odası kaydı bulunan işletmeler adına ikinci fıkrada belirtilen kişiler tarafından (Değişik ibare:RG-16/4/2021-31456) 31/7/2021 tarihine kadar yapılan yetki belgesi başvurularında, 5/6/2018 tarihinden önce Milli Eğitim Bakanlığı, Milli Eğitim Bakanlığınca yetkilendirilen kurum ve kuruluşlar veya üniversitelerden taşınmaz ticaretine ilişkin eğitim sertifikası alınmış olması koşuluyla, 6 ncı maddenin birinci fıkrasının (ç) bendinde belirtilen mesleki yeterlilik belgesi şartı aranmaz.\n (4) (Değişik:RG-14/10/2020-31274) (Değişik ibare:RG-16/4/2021-31456) 14/10/2020 tarihi itibarıyla taşınmaz ticaretine ilişkin gelir veya kurumlar vergisi ya da meslek odası kaydı bulunan işletme ve sözleşmeli işletmeler adına, ikinci fıkrada belirtilen kişiler tarafından (Değişik ibare:RG-16/4/2021-31456) 31/7/2021 tarihine kadar yapılan yetki belgesi başvurularında:\n a) 6 ncı maddenin birinci fıkrasının (d) bendinin 5 numaralı alt bendinde belirtilen mesleki eğitim şartı aranmaksızın yetki belgesi verilir. Söz konusu şartı haiz olunduğunu gösteren belgenin 31/12/2021 tarihine kadar Bilgi Sistemine aktarılmaması veya il müdürlüğüne teslim edilmemesi halinde bu işletmelerin yetki belgeleri iptal edilir.\n b) 6 ncı maddenin birinci fıkrasının (d) bendinin 6 numaralı alt bendinde belirtilen mesleki deneyim şartı aranmaz.\n (5) (Değişik:RG-14/10/2020-31274) 5/6/2018 tarihi itibarıyla taşınmaz ticaretine ilişkin gelir veya kurumlar vergisi ya da meslek odası kaydı bulunan sözleşmeli işletmeler adına ikinci fıkrada belirtilen kişiler tarafından (Değişik ibare:RG-16/4/2021-31456) 31/7/2021 tarihine kadar yapılan yetki belgesi başvurularında da üçüncü fıkra ile dördüncü fıkranın (a) bendi uygulanır.\n (6) (Ek:RG-14/10/2020-31274) (Değişik ibare:RG-16/4/2021-31456) 14/10/2020 tarihi itibarıyla emlak danışmanlığı yapanlar hakkında 14 üncü maddenin ikinci fıkrasının (l) bendi uygulanmaz.\n (7) (Ek:RG-14/10/2020-31274) 31/3/2021 tarihinden önce Seviye 5 mesleki yeterlilik belgesi alan emlak danışmanlarının bu belgeleri ilgili mevzuatı kapsamında iptal edilmediği sürece bu kişilerde Seviye 4 mesleki yeterlilik belgesi şartı aranmaz.\n (8) (Ek:RG-14/10/2020-31274) 1/1/2021 tarihi itibarıyla taşınmaz ticaretiyle iştigal eden işletmeler, sorumlu emlak danışmanı ve emlak danışmanları ile sözleşmeli işletmelerine ilişkin bilgileri 28/2/2021 tarihine kadar Bilgi Sistemine aktarır.\n (9) (Ek:RG-14/5/2024-32546) Bu fıkranın yürürlüğe girdiği tarih itibarıyla taşınmaz ticaretine ilişkin gelir veya kurumlar vergisi ya da meslek odası kaydı bulunan işletme ve sözleşmeli işletmeler adına, ikinci fıkrada belirtilen kişiler tarafından 31/12/2024 tarihine kadar yapılan yetki belgesi başvurularında 6 ncı maddenin birinci fıkrasının (d) bendinin (6) numaralı alt bendinde belirtilen mesleki deneyim şartı aranmaz. Bakanlık, bu tarihi altı aya kadar uzatmaya yetkilidir.\n (10) (Ek:RG-29/4/2026-33238) 1/7/2026 tarihine kadar yapılacak taşınmaz satışlarında ek 1 inci maddede belirtilen ödeme sisteminin kullanılması zorunlu değildir. Bakanlık bu tarihi üç aya kadar uzatmaya yetkilidir.",
+      "preview": "(1) Bu maddenin yürürlüğe girdiği tarih itibarıyla taşınmaz ticaretiyle iştigal eden (…)(1) tacirler ile esnaf ve sanatkârların faaliyetleri…",
+      "kitap": null,
+      "kisim": null,
+      "bolum": "DÖRDÜNCÜ BÖLÜM · Çeşitli ve Son Hükümler",
+      "ayirim": null,
+      "maddeBaslik": "Geçiş hükümleri",
+      "sectionPath": [
+        "DÖRDÜNCÜ BÖLÜM · Çeşitli ve Son Hükümler",
+        "Geçiş hükümleri"
+      ]
+    },
+    {
+      "id": "yonetmelik:24645:m:23",
+      "maddeKind": "madde",
+      "maddeNo": "23",
+      "heading": "Madde 23",
+      "text": "(1) Bu Yönetmeliğin;\n a) 21 inci maddesinin birinci fıkrası yayımı tarihinden üç ay sonra,\n b) Diğer maddeleri yayımı tarihinde,\n yürürlüğe girer.",
+      "preview": "(1) Bu Yönetmeliğin; a) 21 inci maddesinin birinci fıkrası yayımı tarihinden üç ay sonra, b) Diğer maddeleri yayımı tarihinde, yürürlüğe gir…",
+      "kitap": null,
+      "kisim": null,
+      "bolum": "DÖRDÜNCÜ BÖLÜM · Çeşitli ve Son Hükümler",
+      "ayirim": null,
+      "maddeBaslik": "Yürürlük",
+      "sectionPath": [
+        "DÖRDÜNCÜ BÖLÜM · Çeşitli ve Son Hükümler",
+        "Yürürlük"
+      ]
+    },
+    {
+      "id": "yonetmelik:24645:m:24",
+      "maddeKind": "madde",
+      "maddeNo": "24",
+      "heading": "Madde 24",
+      "text": "(1) Bu Yönetmelik hükümlerini (Mülga ibare:RG-14/10/2020-31274) (…) Ticaret Bakanı yürütür.\n _____________\n (1) 9/6/2018 tarihli ve 30446 sayılı Resmi Gazete’de yayımlanan Düzeltme ile, 5/6/2018 tarihli ve 30442 sayılı Resmî Gazete’de yayımlanan, Taşınmaz Ticareti Hakkında Yönetmeliğin geçici 1 inci maddesinin birinci fıkrasında yer alan “ve üçüncü fıkra kapsamında yer almayan” ibaresi Gümrük ve Ticaret Bakanlığının 08.06.2018 tarihli ve 70897689-439.99 sayılı yazısına istinaden madde metninden çıkartılarak düzeltilmiştir.\n (2) Bu değişiklik 5/12/2019 tarihinden geçerli olmak üzere yayımı tarihinde yürürlüğe girer.\n (3) 14/10/2020 tarihli ve 31274 sayılı Resmî Gazete’de yayımlanan değişiklikle maddeye ikinci fıkradan sonra gelmek üzere üçüncü fıkra eklenmiş ve diğer fıkralar buna göre teselsül ettirilmiştir. Bu değişiklik 1/1/2021 tarihinde yürürlüğe girer.\n (4) 14/10/2020 tarihli ve 31274 sayılı Resmî Gazete’de yayımlanan değişiklikle başlığı ile birlikte değiştirilen bu maddenin ikinci fıkrasının (b) ve (ç) bentleri 1/1/2021 tarihinde yürürlüğe girer.\n (5) Bu değişiklik yayımı tarihinden iki ay sonra yürürlüğe girer.\n (6) 31/8/2023 tarihli ve 32295 sayılı Resmî Gazete’de yayımlanan değişiklik ile Yönetmeliğin 12 nci maddesinin ikinci fıkrasına (c) bendinden sonra gelmek üzere (ç) bendi eklenmiş ve diğer bentler buna göre teselsül ettirilmiştir.\n\n Yönetmeliğin Yayımlandığı Resmî Gazete’nin\n\n Tarihi\n Sayısı\n\n 5/6/2018\n 30442\n\n Yönetmelikte Değişiklik Yapan Yönetmeliklerin Yayımlandığı Resmî Gazetelerin\n\n Tarihi\n Sayısı\n\n 1.\n 11/12/2019\n 30975\n\n 2.\n 14/10/2020\n 31274\n\n 3.\n 16/4/2021\n 31456\n\n 4.\n 31/8/2023\n 32295\n\n 5.\n 14/5/2024\n 32546\n\n 6.\n 30/5/2025\n 32915\n\n 7.\n 29/4/2026\n 33238",
+      "preview": "(1) Bu Yönetmelik hükümlerini (Mülga ibare:RG-14/10/2020-31274) (…) Ticaret Bakanı yürütür. _____________ (1) 9/6/2018 tarihli ve 30446 sayı…",
+      "kitap": null,
+      "kisim": null,
+      "bolum": "DÖRDÜNCÜ BÖLÜM · Çeşitli ve Son Hükümler",
+      "ayirim": null,
+      "maddeBaslik": "Yürütme",
+      "sectionPath": [
+        "DÖRDÜNCÜ BÖLÜM · Çeşitli ve Son Hükümler",
+        "Yürütme"
+      ]
+    }
+  ]
+}

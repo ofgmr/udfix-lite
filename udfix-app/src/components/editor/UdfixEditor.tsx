@@ -1,6 +1,7 @@
 import type { EditorView } from '@tiptap/pm/view'
 import { useEditor, EditorContent, Editor } from '@tiptap/react'
-import React, { useCallback, useEffect, useMemo, useRef, useState } from 'react'
+import type { JSONContent } from '@tiptap/core'
+import React, { useCallback, useEffect, useLayoutEffect, useMemo, useRef, useState } from 'react'
 import { useShallow } from 'zustand/react/shallow'
 import { useLayoutStore } from '../../stores/useLayoutStore';
 import { useHeaderFooterStore } from '../../stores/useHeaderFooterStore';
@@ -14,6 +15,7 @@ import { useDocumentCommentsStore } from '../../stores/useDocumentCommentsStore'
 import { DataService } from '../../services/dataService'
 import VersionHistoryPanel from './VersionHistoryPanel'
 import {
+    EDITOR_MARGIN_COMMENT_GUTTER_PX,
     EDITOR_RULER_LEFT_CONTROLS_WIDTH_PX,
 } from '../../utils/editorLayout'
 import { Ruler } from './Ruler'
@@ -43,7 +45,7 @@ import { trySelectListItemNodeForMarkerEditing } from '../../utils/listItemMarke
 import { NOMAI_FS_ENTRY_MIME } from '../../utils/processDockviewFileDrop'
 import { useUdfixEditorAutosave } from '../../hooks/useUdfixEditorAutosave'
 import { useUdfixEditorRecoveryDraft } from '../../hooks/useUdfixEditorRecoveryDraft'
-import { stripUyapVerificationFromHtml } from '../../utils/uyapVerification'
+import { stripUyapVerificationFromHtml, stripUyapVerificationFromTipTapJson } from '../../utils/uyapVerification'
 import { useUdfixEditorVersionHistory } from '../../hooks/useUdfixEditorVersionHistory'
 import { useUdfixEditorSearchAndHistoryShortcuts } from '../../hooks/useUdfixEditorSearchAndHistoryShortcuts'
 import { useHeaderFooterPanelOnDoubleClick } from '../../hooks/useHeaderFooterPanelOnDoubleClick'
@@ -56,6 +58,7 @@ import {
     UYAP_IMPORT_META_STORAGE_PREFIX,
 } from '../../utils/uyapImportMeta'
 import { UdfEditorSignatureBadge } from './UdfEditorSignatureBadge';
+import EditorScrollPageTooltip from './EditorScrollPageTooltip';
 import MaterialIcon from '../ui/MaterialIcon';
 import {
     EMPTY_TIPTAP_DOC,
@@ -177,7 +180,7 @@ const UdfixEditor: React.FC<UdfixEditorProps> = ({
             const jsonRaw = localStorage.getItem(`nomai-udf-initial-json-${id}`);
             if (jsonRaw) {
                 try {
-                    return JSON.parse(jsonRaw) as Record<string, unknown>;
+                    return stripUyapVerificationFromTipTapJson(JSON.parse(jsonRaw) as JSONContent);
                 } catch {
                     /* fall through */
                 }
@@ -200,7 +203,9 @@ const UdfixEditor: React.FC<UdfixEditorProps> = ({
         const trimmed = saved.trim();
         if (trimmed.startsWith('{')) {
             try {
-                return normalizeTipTapDocContent(JSON.parse(trimmed) as unknown);
+                return stripUyapVerificationFromTipTapJson(
+                    normalizeTipTapDocContent(JSON.parse(trimmed) as unknown),
+                );
             } catch {
                 return saved;
             }
@@ -209,6 +214,7 @@ const UdfixEditor: React.FC<UdfixEditorProps> = ({
     };
 
     const extensions = useMemo(() => createUdfixEditorExtensions(documentId), [documentId]);
+    const initialContent = useMemo(() => loadContent(documentId), [documentId]);
 
     const editorProps = useMemo(
         () => ({
@@ -295,8 +301,8 @@ const UdfixEditor: React.FC<UdfixEditorProps> = ({
     const editor = useEditor(
         {
             extensions,
-            content: loadContent(documentId),
-            immediatelyRender: true,
+            content: initialContent,
+            immediatelyRender: false,
             shouldRerenderOnTransaction: false,
             editorProps,
             onCreate: () => {
@@ -341,13 +347,33 @@ const UdfixEditor: React.FC<UdfixEditorProps> = ({
     }, [editor, docTitle]);
 
     const pageSize = useUdfixEditorPageSize(editor);
-    const gridContentWidth = useMemo(
-        () =>
-            showRuler && !isZenMode
-                ? pageSize.pageWidth + EDITOR_RULER_LEFT_CONTROLS_WIDTH_PX
-                : pageSize.pageWidth,
-        [showRuler, isZenMode, pageSize.pageWidth],
-    );
+    const draftCommentId = useDocumentCommentsStore((s) => s.draftCommentId);
+    const storedComments = useDocumentCommentsStore((s) => s.comments);
+    const commentGutterPx = useMemo(() => {
+        if (isZenMode) return 0;
+        const hasDraft = Boolean(draftCommentId);
+        const hasOpen = Object.values(storedComments).some((c) => !c.resolved);
+        return hasDraft || hasOpen ? EDITOR_MARGIN_COMMENT_GUTTER_PX : 0;
+    }, [isZenMode, draftCommentId, storedComments]);
+    const rulerColPx = showRuler && !isZenMode ? EDITOR_RULER_LEFT_CONTROLS_WIDTH_PX : 0;
+    const gridContentWidth = pageSize.pageWidth + rulerColPx + commentGutterPx;
+
+    const canvasScrollRef = useRef({ top: 0, left: 0 });
+    useEffect(() => {
+        const el = editorScrollContainerRef.current;
+        if (!el) return;
+        const onScroll = () => {
+            canvasScrollRef.current = { top: el.scrollTop, left: el.scrollLeft };
+        };
+        el.addEventListener('scroll', onScroll, { passive: true });
+        return () => el.removeEventListener('scroll', onScroll);
+    }, []);
+    useLayoutEffect(() => {
+        const el = editorScrollContainerRef.current;
+        if (!el) return;
+        el.scrollTop = canvasScrollRef.current.top;
+        el.scrollLeft = canvasScrollRef.current.left;
+    }, [commentGutterPx]);
 
     const effectiveEditorZoom = editorZoomMode === 'fit' ? editorFitScale : editorZoomPreset;
 
@@ -501,7 +527,7 @@ const UdfixEditor: React.FC<UdfixEditorProps> = ({
 
     useEffect(() => {
         return () => {
-            useHeaderFooterStore.getState().save();
+            void useHeaderFooterStore.getState().save();
         };
     }, []);
 
@@ -534,19 +560,6 @@ const UdfixEditor: React.FC<UdfixEditorProps> = ({
         dom.addEventListener('keydown', onKeyDown, true);
         return () => dom.removeEventListener('keydown', onKeyDown, true);
     }, [editor]);
-
-    useEffect(() => {
-        if (!editor || editor.isDestroyed || !documentId) return;
-        if (!editor.view?.dom) return;
-        // UDF: content is already set in useEditor({ content: loadContent(documentId) }).
-        // A second setContent here downgrades JSON→HTML after onCreate and breaks live HF sync.
-        if (documentId.startsWith('udf:')) return;
-        const newContent = loadContent(documentId);
-        if (editor.getHTML() !== newContent) {
-            editor.commands.setContent(newContent);
-            editor.commands.focus('start');
-        }
-    }, [documentId, editor]);
 
     useEffect(() => {
         if (editor && !editor.isDestroyed && editor.view && editor.view.dom) {
@@ -626,7 +639,14 @@ const UdfixEditor: React.FC<UdfixEditorProps> = ({
     );
 
     if (!editor) {
-        return <div className="flex items-center justify-center h-full text-gray-400">Editör yükleniyor...</div>
+        return (
+            <div className="flex h-full w-full flex-col bg-background">
+                <div className="h-10 shrink-0 border-b border-white/5 bg-background/80" />
+                <div className="flex flex-1 items-center justify-center text-xs text-muted-foreground">
+                    Editör hazırlanıyor…
+                </div>
+            </div>
+        );
     }
 
     const isUdfDocument = documentId.startsWith('udf:');
@@ -657,7 +677,7 @@ const UdfixEditor: React.FC<UdfixEditorProps> = ({
                 <div
                     id="editor-toolbar-root"
                     className={cn(
-                        'relative z-[var(--z-interface)] w-full flex flex-col items-center bg-background backdrop-blur-none transition-all duration-300 ease-out overflow-x-hidden overflow-y-hidden min-h-0',
+                        'relative z-[var(--z-interface)] w-full min-w-0 flex flex-col items-center bg-background backdrop-blur-none transition-all duration-300 ease-out overflow-x-hidden overflow-y-hidden min-h-0',
                         isZenMode
                             ? 'max-h-0 opacity-0 pointer-events-none -translate-y-2 scale-[0.98]'
                             : 'max-h-[320px] opacity-100 translate-y-0 scale-100'
@@ -729,14 +749,18 @@ const UdfixEditor: React.FC<UdfixEditorProps> = ({
                             display: 'grid',
                             ...(showRuler && !isZenMode
                                 ? {
-                                      gridTemplateColumns: `${EDITOR_RULER_LEFT_CONTROLS_WIDTH_PX}px ${pageSize.pageWidth}px`,
+                                      gridTemplateColumns: commentGutterPx
+                                          ? `${EDITOR_RULER_LEFT_CONTROLS_WIDTH_PX}px ${pageSize.pageWidth}px ${commentGutterPx}px`
+                                          : `${EDITOR_RULER_LEFT_CONTROLS_WIDTH_PX}px ${pageSize.pageWidth}px`,
                                       gridTemplateRows: 'auto 1fr',
-                                      width: pageSize.pageWidth + EDITOR_RULER_LEFT_CONTROLS_WIDTH_PX,
+                                      width: gridContentWidth,
                                   }
                                 : {
-                                      gridTemplateColumns: `${pageSize.pageWidth}px`,
+                                      gridTemplateColumns: commentGutterPx
+                                          ? `${pageSize.pageWidth}px ${commentGutterPx}px`
+                                          : `${pageSize.pageWidth}px`,
                                       gridTemplateRows: '1fr',
-                                      width: pageSize.pageWidth,
+                                      width: gridContentWidth,
                                   }),
                             margin: '0 auto',
                             position: 'relative',
@@ -770,7 +794,13 @@ const UdfixEditor: React.FC<UdfixEditorProps> = ({
                                 <EditorContent editor={editor} className="min-h-full" />
                             </div>
 
-                            {!isZenMode && <MarginComments editor={editor} documentId={documentId} />}
+                            {!isZenMode && (
+                                <MarginComments
+                                    editor={editor}
+                                    documentId={documentId}
+                                    zoom={effectiveEditorZoom}
+                                />
+                            )}
                             {isUdfDocument && !isZenMode ? (
                                 <UdfEditorSignatureBadge metadata={signatureMeta} />
                             ) : null}
@@ -778,6 +808,7 @@ const UdfixEditor: React.FC<UdfixEditorProps> = ({
                     </div>
                     </div>
                 </div>
+                <EditorScrollPageTooltip scrollRef={editorScrollContainerRef} />
             </div>
 
             {editor && !editor.isDestroyed && (

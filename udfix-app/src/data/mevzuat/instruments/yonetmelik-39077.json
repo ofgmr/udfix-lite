@@ -1,0 +1,699 @@
+{
+  "id": "yonetmelik:39077",
+  "kind": "yonetmelik",
+  "no": "39077",
+  "title": "Orman Kanununun 17 nci Maddesinin Üçüncü Fıkrasının Uygulanması Hakkında Yönetmelik",
+  "shortName": "Orman 17/3 Yön.",
+  "aliases": [
+    "Orman 17/3 Yön.",
+    "Orman Kanununun 17 nci Maddesinin Üçüncü Fıkrasının Uygulanması Hakkında Yönetmelik",
+    "39077"
+  ],
+  "tur": 7,
+  "tertip": 5,
+  "sourceUrl": "https://www.mevzuat.gov.tr/mevzuat?MevzuatNo=39077&MevzuatTur=7&MevzuatTertip=5",
+  "kabulTarihi": null,
+  "maddeCount": 40,
+  "maddeler": [
+    {
+      "id": "yonetmelik:39077:m:1",
+      "maddeKind": "madde",
+      "maddeNo": "1",
+      "heading": "Madde 1",
+      "text": "(1) Bu Yönetmeliğin amacı, 31/8/1956 tarihli ve 6831 sayılı Orman Kanununun 17 nci maddesinin üçüncü fıkrası, 115 inci, ek 9 uncu, ek 11 inci ve geçici 8 inci maddelerine göre verilecek izinlere ve bu izinlerden tahsil edilecek bedellere ait iş ve işlemleri düzenlemektir.",
+      "preview": "(1) Bu Yönetmeliğin amacı, 31/8/1956 tarihli ve 6831 sayılı Orman Kanununun 17 nci maddesinin üçüncü fıkrası, 115 inci, ek 9 uncu, ek 11 inc…",
+      "kitap": null,
+      "kisim": null,
+      "bolum": "BİRİNCİ BÖLÜM · Amaç, Kapsam, Dayanak ve Tanımlar",
+      "ayirim": null,
+      "maddeBaslik": "Amaç ve kapsam",
+      "sectionPath": [
+        "BİRİNCİ BÖLÜM · Amaç, Kapsam, Dayanak ve Tanımlar",
+        "Amaç ve kapsam"
+      ]
+    },
+    {
+      "id": "yonetmelik:39077:m:2",
+      "maddeKind": "madde",
+      "maddeNo": "2",
+      "heading": "Madde 2",
+      "text": "(1) Bu Yönetmelik, 31/8/1956 tarihli ve 6831 sayılı Orman Kanununun 17 nci maddesinin üçüncü fıkrası ve ek 5 inci maddesine dayanılarak hazırlanmıştır.",
+      "preview": "(1) Bu Yönetmelik, 31/8/1956 tarihli ve 6831 sayılı Orman Kanununun 17 nci maddesinin üçüncü fıkrası ve ek 5 inci maddesine dayanılarak hazı…",
+      "kitap": null,
+      "kisim": null,
+      "bolum": "BİRİNCİ BÖLÜM · Amaç, Kapsam, Dayanak ve Tanımlar",
+      "ayirim": null,
+      "maddeBaslik": "Dayanak",
+      "sectionPath": [
+        "BİRİNCİ BÖLÜM · Amaç, Kapsam, Dayanak ve Tanımlar",
+        "Dayanak"
+      ]
+    },
+    {
+      "id": "yonetmelik:39077:m:3",
+      "maddeKind": "madde",
+      "maddeNo": "3",
+      "heading": "Madde 3",
+      "text": "(1) Bu Yönetmelikte geçen;\n a) Ağaçlandırma bedeli: İzin verilen alan üzerinden bir defaya mahsus alınan bedeli,\n b) Ağaç röleve planı: İzin verilen alan üzerinde bulunan boyu 5 metre ve daha uzun ağaçlarla sık ağaçlık alanlarda yapılacak işlemler, çıkarılacak ve özelliği gereği kalması gereken ağaçların koordinatları ile gösterildiği planı,\n c) Arazi izin bedeli: Verilen izinlerden orman idaresince alınacak kullanım bedelini,\n ç) Bakan: Tarım ve Orman Bakanını,\n d) Bakanlık: Tarım ve Orman Bakanlığını,\n e) Bedel Artış Katsayısı (BAK): Her yıl bir önceki yıla ilişkin olarak 4/1/1961 tarihli ve 213 sayılı Vergi Usul Kanunu uyarınca belirlenen yeniden değerleme oranını,\n f) Bölge müdürlüğü: Orman Genel Müdürlüğüne bağlı orman bölge müdürlüklerini,\n g) Çevresel etki değerlendirmesi (ÇED) belgesi: 25/11/2014 tarihli ve 29186 sayılı Resmî Gazete’de yayımlanan Çevresel Etki Değerlendirmesi Yönetmeliğine göre verilecek ÇED olumlu kararı veya ÇED gerekli değildir kararını,\n ğ) Depolama bedeli: İzin verilen sahada yapılacak depolama hacmi üzerinden alınacak bedeli,\n h) Erozyon bedeli: 11/1/2017 tarihli ve 29945 sayılı Resmî Gazete’de yayımlanan Ağaçlandırma ve Erozyon Kontrolü Hizmetlerine İlişkin Yönetmeliğin 4 üncü maddesinin birinci fıkrasının (c) bendine göre alınacak ağaçlandırma ve erozyon kontrolü gelirini,\n ı) Genel bütçe kapsamındaki kamu idareleri: 10/12/2003 tarihli ve 5018 sayılı Kamu Malî Yönetimi ve Kontrol Kanununa ekli (I) sayılı cetvelde yer alan idareleri,\n i) Genel Müdürlük: Orman Genel Müdürlüğünü,\n j) Heyet: Bölge müdürlüğünce; bölge müdür yardımcısı, şube müdürü, mühendis veya ilgili orman işletme müdür yardımcısı başkanlığında; ilgili orman işletme müdür yardımcısı, ilgili orman işletme şefi varsa kadastro ve mülkiyet şefi ve/veya teknik elemandan oluşturulan en az üç kişilik komisyonu,\n k) İzin: Bu Yönetmelik hükümlerine göre Bakanlıkça verilen ön izni veya kesin izni,\n l) Kademeli kapatma planı: Orman ekosisteminin tesisi maksadıyla ağaçlandırma ve silvikültür tekniklerine uygun, iznin başlangıcından sona ermesine kadar geçen sürede, izin alanının kapatılmasını takiben öngörülen nihai haline uygun olarak kapatılmasını ve tabiata kazandırılmasını gösteren planı,\n m) Kamu kurum ve kuruluşları: Bu Yönetmelikte tanımlanan genel bütçe kapsamı dışında yer alan kamu idarelerini,\n n) Katı atık bertaraf ve düzenli depolama tesisleri: Evsel, endüstriyel, tıbbi, tehlikeli atıklar ile inşaat ve yıkıntı atıklarının usulüne uygun olarak geri kazanıldıkları, bertaraf edildikleri veya belirli teknik standartlara göre depolandıkları tesisleri,\n o) Kesin izin: Bu Yönetmelik hükümlerine göre Bakanlıkça amacı doğrultusunda kullanılmak üzere verilen izni,\n ö) Kira bedeli: İzne konu orman sayılan alandaki tesislerin bir kısmının veya tamamının işletme hakkının kiralanması halinde, kiralayan ile kiracı arasında düzenlenen sözleşmede belirtilen ve kiralama işleminden dolayı kiralayan tarafından tahsil edilen tüm bedelleri,\n p) Liman geri hizmet alanı: Yük ve yolcunun liman ile ilgili iş ve işlemlerin tesis edildiği bürolar ile yük için yeterli geçici depo, yükleme, boşaltma, deniz ulaşım araçlarının yakıt, su, bakım-onarım, tadilat, atık alımı, yolcuların yeme-içme, elektrik, haberleşme, dinlenme gibi ihtiyaçlarının karşılandığı liman ardı tesisleri,\n r) Orköy bedeli: 13/6/2012 tarihli ve 28322 sayılı Resmî Gazete’de yayımlanan Orman Köylülerinin Kalkındırılmalarının Desteklenmesi Faaliyetlerine İlişkin Yönetmeliğin 5 inci maddesinin birinci fıkrasının (b) bendine göre alınacak orman köylüleri kalkınma gelirleri tahsis payını,\n s) Ormancılık bürosu: 29/6/2006 tarihli ve 5531 sayılı Orman Mühendisliği, Orman Endüstri Mühendisliği ve Ağaç İşleri Endüstri Mühendisliği Hakkında Kanuna göre kurulan büroyu veya şirketi,\n ş) Orman idaresi: Orman Genel Müdürlüğü merkez ve taşra teşkilatını,\n t) Orman ürünleri bürosu: 5531 sayılı Kanuna göre kurulan büroyu veya şirketi,\n u) Ön izin: Kesin izinde istenen belgelerin hazırlanması için verilen ve sahada çalışma hakkı vermeyen izni,\n ü) Rayiç bedel: Kırk dokuz yıllık kesin izin süresi sonunda orman idaresince doksan dokuz yıla kadar uzatılan izinlerden rayiç değer üzerinden belirlenecek yıllık kullanma bedelini,\n v) Rayiç değer: Kırk dokuz yıllık kesin izin süresi sonunda orman idaresince doksan dokuz yıla kadar uzatılan izinlerde; yer, bina ve tesislere ait arazi izin bedelinin tespiti maksadıyla 8/9/1983 tarihli ve 2886 sayılı Devlet İhale Kanunu hükümlerine göre tespit ve takdir edilen değeri,\n y) Ruhsat: Belirli bir bölgede petrol, doğalgaz ile jeotermal ve doğal mineralli su arama veya işletme faaliyetlerinin yürütülebilmesi için ilgili kurum tarafından verilen yetki belgesini,\n z) Saha analiz raporu: İzin talep edilen alanın mülkiyet durumu, alandaki mevcut ağaç türleri, kapalılık ve gelişim çağlarını, alanı yansıtır görselleri içerir raporu,\n aa) Sokak hayvanları bakımevi: Barınacak yeri olmayan veya sahibinin ya da koruyucusunun ev ve arazisinin sınırları dışında bulunan ve herhangi bir sahip veya koruyucunun kontrolü ya da doğrudan denetimi altında bulunmayan sahipsiz evcil hayvanların, kısırlaştırılıp aşılanarak alındıkları ortama bırakılıncaya veya bu zaman zarfında sahiplendirilinceye kadar geçici olarak kaldığı tesisleri,\n bb) Teminat: Tedavüldeki Türk parasını, bankalar tarafından verilen süresiz teminat mektuplarını, Hazine ve Maliye Bakanlığınca ihraç edilen Devlet iç borçlanma senetleri ve bu senetler yerine düzenlenen belgeleri,\n cc) Toplam proje bedeli: İzne konu edilecek tesislerin yapım maliyetini,\n çç) Vaziyet planı: İzin sahalarının koruma kullanma dengesi içerisinde, üzerinde hangi alanların ne şekilde ve ne maksatla kullanılacağının özel işaretler ile gösterildiği, koordinatlı, 1/1000 veya uygun ölçekli planları,\n dd) Yİ-ÜFE: Türkiye İstatistik Kurumu tarafından bir önceki yılın aynı ayına göre açıklanan yıllık yurt içi üretici fiyatları endeksini,\n ifade eder.\n İKİNCİ BÖLÜM\n Verilecek İzinler, Müracaat ve Değerlendirme\n 17 nci maddenin üçüncü fıkrasına göre verilecek izinler",
+      "preview": "(1) Bu Yönetmelikte geçen; a) Ağaçlandırma bedeli: İzin verilen alan üzerinden bir defaya mahsus alınan bedeli, b) Ağaç röleve planı: İzin v…",
+      "kitap": null,
+      "kisim": null,
+      "bolum": "BİRİNCİ BÖLÜM · Amaç, Kapsam, Dayanak ve Tanımlar",
+      "ayirim": null,
+      "maddeBaslik": "Tanımlar ve kısaltmalar",
+      "sectionPath": [
+        "BİRİNCİ BÖLÜM · Amaç, Kapsam, Dayanak ve Tanımlar",
+        "Tanımlar ve kısaltmalar"
+      ]
+    },
+    {
+      "id": "yonetmelik:39077:m:4",
+      "maddeKind": "madde",
+      "maddeNo": "4",
+      "heading": "Madde 4",
+      "text": "(1) Ormanlık alanlarda kamu yararı ve zaruret bulunması halinde; yol, liman geri hizmet alanı, havaalanı, demiryolu, teleferik hattı, tünel gibi ulaşım tesislerine; patlayıcı madde emniyet alanı, yer altında yapılacak patlayıcı madde deposu, savunma ve güvenlik tesislerine; enerji nakil hattı, trafo binası, enerji üretim santralleri, ölçüm ve gözlem istasyonları gibi enerji tesislerine; telefon iletim hattı, iletişim panosu, ölçüm istasyonu, R/L tesisleri, radyo-televizyon verici istasyonu ve antenleri, elektronik haberleşme sistemlerine ait baz istasyonları, fiber optik kablo gibi haberleşme tesislerine; su arama, jeotermal kaynak ve doğal mineralli su arama, su kuyusu, kaptaj, su isale hattı, su deposu gibi su tesislerine; atıksu tesislerine; petrol ve doğalgaz boru hattı; azot, argon ve oksijen gazlarının kullanıldığı hava ayrıştırma tesislerine; alt yapı tesislerine; katı atık aktarma istasyonu, katı atık bertaraf ve düzenli depolama tesislerine; ruhsata dayalı petrol ve doğalgaz arama, işletilme ve yeraltı doğalgaz depolanmasına ilişkin tesislere; yeraltı depolama tesislerine; baraj, gölet, sokak hayvanları bakımevi, mezarlık tesislerine; aile sağlığı merkezi, hastane gibi sağlık tesislerine; ilk, orta, lise ve dini eğitim tesisi ile dini eğitim tesisine bağlı uygulama maksatlı ibadethane tesisi gibi eğitim tesislerine; futbol sahası, kapalı spor salonu, atış poligonu gibi kalıcı konaklama tesisi olmayan spor tesislerine; (Danıştay Sekizinci Dairesinin 3/7/2024 tarihli ve E.:2022/3180 K.:2024/4095 sayılı karar ile iptal edilen ibare: adli hizmet tesislerine; ceza infaz kurumu tesislerine) ve bunlarla ilgili yer, bina ve tesislere izin verilebilir.\n (2) Gerçek veya özel hukuk tüzel kişileri ya da vakıflar tarafından kurulan yükseköğretim kurumları hariç olmak üzere; yükseköğretim kurumlarının eğitim ve araştırma maksatlı tesislerine ve izin verilen bu alan içinde izin sahibi yükseköğretim kurumuna veya Kredi ve Yurtlar Genel Müdürlüğüne yurt yapılması maksadıyla izin verilebilir.\n (3) Sağlık, eğitim, spor, (Danıştay Sekizinci Dairesinin 3/7/2024 tarihli ve E.:2022/3180 K.:2024/4095 sayılı karar ile iptal edilen ibare: adli hizmet ve ceza infaz kurumu) tesisleri için genel bütçe kapsamındaki ilgili kamu idarelerine izin verilebilir.\n (4) Diğer kamu kurum ve kuruluşlarına ve gerçek ve özel hukuk tüzel kişilerine sağlık, eğitim, spor ve adli hizmet ve ceza infaz kurumu tesisi yapımı maksadıyla izin verilmez. Ancak kamu özel iş birliği modeli çerçevesinde yapılacak sağlık ve eğitim tesislerinde ilgili bakanlıkların talebi üzerine yüklenici adına üst hakkı tesis edilebilir.\n (5) Yer altında inşa edilecek tesislerin yüzeye isabet eden izdüşümleri için izin alınır.\n (6) Devlet ormanlarında, erişme kontrolü uygulanan karayollarındaki ulaştırma yapıları ve müştemilatı olan hizmet tesisleri ile bakım işletme tesislerine, karayolu sınır çizgisi içinde kalmak kaydıyla izin verilir.\n (7) Lisanssız elektrik üretim (Mülga ibare:RG-15/2/2023-32105)[1] tesislerine orman sayılan alanlarda izin verilmez. Ancak bu madde kapsamında ve turizm maksadıyla izin verilen bina ve tesislerin çatı ve cepheleri ile baraj ve gölet rezervuar alanları üzerinde ve rezervuarlı veya regülatörlü hidroelektrik üretim tesisleri sahaları kapsamındaki su yüzeylerine kurulan enerji üretim tesislerine izin verilebilir.\n (8) (Ek:RG-15/2/2023-32105) (Danıştay Sekizinci Dairesinin 5/3/2025 tarihli ve E.:2023/2178; K.:2025/1636 sayılı kararı ile iptal fıkra; Üzerinde ağaç ve ağaççık toplulukları bulunmayan, ormancılık faaliyetleri ve teknik olarak orman kurulması mümkün olmayan fiilen taşlık, kayalık, verimsiz orman alanlarında lisanslı güneş enerjisine dayalı elektrik üretim tesislerine izin verilebilir.)\n (9) (Ek:RG-15/2/2023-32105) Havaalanı veya havalimanlarında pistlere, taksi yollarına, apron ve bunlara bitişik sahalara, hava araçlarının kalkmasını, inmesini ve yer manevralarını yapmasını sağlayan, hava araçlarının yakıt, bakım ve diğer ihtiyaçlarının karşılanmasını ve yük ile yolcu indirilip bindirilmesini temin edici tesislere ve belirli durumlarda doğrudan uçuş faaliyeti amacıyla kullanılan bina ve yapılara veya bunların bazı kısımlarına ve bu bölümlerin hepsine girişin kontrollü olduğu yerler ile yolcuların sağlık, otel, motel, lokanta, akaryakıt istasyonu, dini tesis, terminal binaları, alışveriş üniteleri gibi zaruri ihtiyaçlarını karşılayacak tesislere izin verilebilir.",
+      "preview": "(1) Ormanlık alanlarda kamu yararı ve zaruret bulunması halinde; yol, liman geri hizmet alanı, havaalanı, demiryolu, teleferik hattı, tünel…",
+      "kitap": null,
+      "kisim": null,
+      "bolum": "BİRİNCİ BÖLÜM · Amaç, Kapsam, Dayanak ve Tanımlar",
+      "ayirim": null,
+      "maddeBaslik": "Tanımlar ve kısaltmalar",
+      "sectionPath": [
+        "BİRİNCİ BÖLÜM · Amaç, Kapsam, Dayanak ve Tanımlar",
+        "Tanımlar ve kısaltmalar"
+      ]
+    },
+    {
+      "id": "yonetmelik:39077:m:5",
+      "maddeKind": "madde",
+      "maddeNo": "5",
+      "heading": "Madde 5",
+      "text": "(1) Ormanlık alanlarda talep sahibi, e-Devlet üzerinden talep yazısı ile beraber;\n a) Saha analiz raporunu,\n b) Koordinat özet çizelgesini,\n c) 1/1000 veya uygun ölçekli vaziyet planını veya bina ve tesislere ilişkin avan projesini,\n ç) Enerji izinlerinde ön lisans veya lisansını, mevcut izin verilen alan üzerinde kurulacak 14/3/2013 tarihli ve 6446 sayılı Elektrik Piyasası Kanununun 14 üncü maddesi çerçevesinde yenilenebilir enerji kaynaklarına dayalı ilgili bakanlıktan alınmış lisanssız üretim yapabileceğine dair belgesini, petrol-doğalgaz izinlerinde ruhsatını, liman geri hizmet alanı izinlerinde deniz yüzeyinin kiralandığına ilişkin sözleşmesini,\n d) Su izinlerinde yeraltı suyu arama belgesini veya su kiralama/kullanma/tahsis belgesini, ruhsatını veya kira sözleşmesini,\n e) (Değişik:RG-15/2/2023-32105) Korunacak ağaç bulunması halinde 1/1000 veya uygun ölçekli ağaç röleve planını,\n f) Okul, hastane, (Değişik ibare:RG-15/2/2023-32105) aile sağlığı merkezi gibi bina izinlerinde, hidroelektrik santral tesislerinde santral binası, rüzgar enerji santrallerinde türbin alanları, termik, doğal gaz çevrim, nükleer güç santrallerinde, katı atık bertaraf ve düzenli depolama tesisi, atıksu arıtma, sokak hayvanları bakımevi, su arıtma, liman geri hizmet alanı, havaalanı, spor tesisi izinlerinde; 1/1000 ölçekli uygulama imar planını veya ilgili idareden alınacak imar planı gerektiren yapı ve tesislerden olmadığına dair yazıyı,\n g) Katı atık bertaraf ve düzenli depolama tesisleri ile kazı fazlası malzeme alanı izin taleplerinde depolama öncesi ve depolama sonrası nihai kodları gösterir çevresindeki topoğrafik yapı ile uyumlu ve orman idaresinin kabul edeceği kademeli kapatma planını,\n ğ) ÇED Yönetmeliği kapsamına giren tesisler için ÇED belgesini,\n h) (Değişik:RG-15/2/2023-32105) Bedelli izinlerde talep edilen sahada yapılacak tesislerin, metraj cetveli ile genel bütçe kapsamındaki ilgili kamu idareleri veya kamu kurum ve kuruluşlarınca belirlenecek cari yıl birim fiyatlarına veya TEİAŞ/TEDAŞ tarafından tesis edilecek enerji iletim/dağıtım hatlarına ait kilometrik birim fiyatlarına veya proforma faturalarına göre hazırlanmış onaylı keşif özetlerini,\n ekleyerek kesin izin için veya (a), (b), (c) ve (ç) bentlerinde belirtilen belgeleri ekleyerek ön izin için müracaatta bulunur. Ayrıca bu fıkradaki istenilen belgelerden bir takımını fiziksel olarak Bölge Müdürlüğüne gönderir.\n (2) Mevzuat gereği alınması gereken ilgili kurum görüş yazıları, talep sahibi tarafından müracaat evrakına eklenir. Kamu kurum ve kuruluşları hariç müracaat sahibinin kurum görüş yazılarını temin edemediğini belgelendirmesi halinde, ilgili kurum görüş yazıları orman idaresi tarafından istenebilir.\n (3) İznin süre uzatımı veya devirlerinde birinci fıkranın (f) bendindeki belgeler istenmez.",
+      "preview": "(1) Ormanlık alanlarda talep sahibi, e-Devlet üzerinden talep yazısı ile beraber; a) Saha analiz raporunu, b) Koordinat özet çizelgesini, c)…",
+      "kitap": null,
+      "kisim": null,
+      "bolum": "BİRİNCİ BÖLÜM · Amaç, Kapsam, Dayanak ve Tanımlar",
+      "ayirim": null,
+      "maddeBaslik": "Müracaat",
+      "sectionPath": [
+        "BİRİNCİ BÖLÜM · Amaç, Kapsam, Dayanak ve Tanımlar",
+        "Müracaat"
+      ]
+    },
+    {
+      "id": "yonetmelik:39077:m:6",
+      "maddeKind": "madde",
+      "maddeNo": "6",
+      "heading": "Madde 6",
+      "text": "(1) Ormanlık alandaki taleplerde Bölge Müdürlüğü yapılan müracaatı öncelikle e-Devlet üzerinden sisteme yüklenen evrak üzerinde inceler, eksiklikler varsa on işgünü içinde müracaat sahibine bildirir. Eksiklikler tamamlanıncaya kadar talep değerlendirmeye alınmaz. Evrakın tam olması halinde heyet tarafından arazi üzerinde gerekli incelemeler yapılarak, talebin Devlet ormanlarına isabet eden kısımları için ön izin veya kesin izin raporu düzenlenir.\n (2) Ormanlık alandan verilen izin, müracaat sahibine tebliğ edilir. Tebligat tarihinden itibaren en geç altı ay içerisinde izin sahibinden teminat, bedeller ve onaylı taahhüt senedi alınır. Tebligat tarihinden itibaren altı ay içerisinde bedellerin yatırılmaması, teminatın veya onaylı taahhüt senedinin verilmemesi halinde ise saha teslimi yapılmaz, herhangi bir bildirime gerek kalmaksızın izin iptal edilmiş sayılır. Aynı yerle ilgili yeniden izin talep edilmesi yeni izin talebi olarak değerlendirilir.\n (3) İzin başlangıç tarihi, izin olurunda ayrıca izin başlangıç tarihi belirtilmemiş ise izin olurunun verildiği tarihtir. İznin uzatıldığı durumlarda izin başlangıç tarihi ilk iznin verildiği tarihtir.\n (4) İzin verilen alanın ve üzerinde yapılması planlanan yapı ve tesislerin, diğer kanunlar uyarınca izin, görüş, onay veya muvafakat alınması gereken yerlerden olması halinde izin sahibince gerekli izin, onay veya muvafakat ve görüşler alınarak çalışma yapılır.",
+      "preview": "(1) Ormanlık alandaki taleplerde Bölge Müdürlüğü yapılan müracaatı öncelikle e-Devlet üzerinden sisteme yüklenen evrak üzerinde inceler, eks…",
+      "kitap": null,
+      "kisim": null,
+      "bolum": "BİRİNCİ BÖLÜM · Amaç, Kapsam, Dayanak ve Tanımlar",
+      "ayirim": null,
+      "maddeBaslik": "İnceleme ve değerlendirme",
+      "sectionPath": [
+        "BİRİNCİ BÖLÜM · Amaç, Kapsam, Dayanak ve Tanımlar",
+        "İnceleme ve değerlendirme"
+      ]
+    },
+    {
+      "id": "yonetmelik:39077:m:7",
+      "maddeKind": "madde",
+      "maddeNo": "7",
+      "heading": "Madde 7",
+      "text": "(1) Verilen ön izinlerde ön izin bedeli, kesin izinlerde ise;\n a) Ağaçlandırma bedeli,\n b) Arazi izin bedeli,\n c) Orköy bedeli,\n ç) Erozyon bedeli,\n alınır.\n (2) Katı atık bertaraf ve düzenli depolama tesisi ve kazı fazlası malzeme alanı izinlerinde birinci fıkradaki bedellere ilave olarak depolama bedeli izin başlangıcında defaten alınır. Ancak;\n a) Enerji üretim santrallerinin elektrik üretimi neticesinde oluşan küllerinin depolanacağı katı atık bertaraf ve düzenli depolama tesisi kesin izinlerinde depolama bedeli olarak sadece depolama bedelinin 1/8’i,\n b) Diğer katı atık bertaraf ve düzenli depolama tesisi kesin izinlerinde inşaat ve yıkıntı atığı tesisleri hariç depolama bedeli olarak sadece depolama bedelinin 1/2’si,\n c) Katı atık bertaraf ve düzenli depolama tesisi olarak verilen inşaat ve yıkıntı atığı tesisleri kesin izinlerinde depolama bedelinin tamamı,\n olarak izin başlangıcında defaten alınır.\n ç) Genel bütçe kapsamındaki kamu idareleri ile kamu kurum ve kuruluşları adına verilen izinlerden depolama bedeli alınmaz. Ancak kamu kurum ve kuruluşları adına verilen inşaat ve yıkıntı atığı tesisi izinlerinden depolama bedelinin tamamı alınır.\n (3) İletişim panoları için verilen izinlerde bedel hesaplarında pano metrekaresi izin alanı olarak alınır. Çift taraflı, kullanılan panolarda alan iki katı olarak hesap edilir.\n (4) İl özel idareleri, büyükşehir belediyeleri, belediyeler, köy tüzel kişilikleri, 26/5/2005 tarihli ve 5355 sayılı Mahalli İdare Birlikleri Kanununa göre kurulan birliklerin kâr gayesi bulunmaksızın ve kamu yararına yönelik hizmetlerde kullanılmak üzere yapacakları tesislerden, büyükşehir belediyelerinde su hizmetlerini yürütmekle görevli olan birimler adına olan su tesisi izinlerinden, 12/11/2012 tarihli ve 6360 sayılı On Dört İlde Büyükşehir Belediyesi ve Yirmi Yedi İlçe Kurulması ile Bazı Kanun ve Kanun Hükmünde Kararnamelerde Değişiklik Yapılmasına Dair Kanuna göre köy iken mahalle haline gelmiş yerleşim yerlerine, köylere ve bağlı yerleşim birimlerine hizmet etmesi gayesi ile ormanlık alanlarda Türkiye Elektrik Dağıtım Anonim Şirketi Genel Müdürlüğü adına yapılacak enerji nakil hatları ve bunlara ait trafo binalarından; ağaçlandırma bedeli, orköy bedeli ile erozyon bedeli alınmaz. Arazi izin bedeli ise yüzde doksan beş indirimli olarak alınır.\n (5) Jeotermal kaynak ve doğal mineralli su arama maksadıyla Maden Tetkik ve Arama Genel Müdürlüğüne verilecek izinlerden orköy bedeli ile erozyon bedeli alınmaz.\n (6) Yer üstünü bozmadan yer altında yapılacak tesislerden arazi izin bedeli alınır, ağaçlandırma, orköy ve erozyon bedeli alınmaz. Tünel giriş ve çıkışları ile yer üstünü bozan kısımlarından tüm bedeller alınır.\n (7) Savunma Sanayi Başkanlığınca yapılacak savunma maksatlı tesislere ve bunların müştemilatına verilen izinlerden 6831 sayılı Kanunun ek 9 uncu maddesinin birinci fıkrası gereğince bedel alınmaz.\n (8) 6831 sayılı Kanunun ek 9 uncu maddesinin ikinci fıkrası gereğince 9/5/1985 tarihli ve 3202 sayılı Köye Yönelik Hizmetler Hakkında Kanun çerçevesinde köye ve bağlı yerleşim birimlerine yönelik yol, su, atıksu, gölet, mezarlık ve altyapı tesisi yapımı maksadı ile il özel idareleri adına verilen izinlerden bedel alınmaz.\n (9) 10/5/2005 tarihli ve 5346 sayılı Yenilenebilir Enerji Kaynaklarının Elektrik Enerjisi Üretimi Amaçlı Kullanımına İlişkin Kanun kapsamındaki yenilenebilir enerji kaynaklarına dayalı elektrik üretim tesisleri ile Bakanlık tarafından düzenlenen bir maden işletme ruhsatı ve izni kapsamında 4/6/1985 tarihli ve 3213 sayılı Maden Kanununun 2 nci maddesinin IV. Grup (b) bendinde yer alan madenlerin girdi olarak kullanıldığı elektrik üretim tesislerinde tesis, ulaşım yolları ve şebeke bağlantı noktasına kadarki Türkiye Elektrik İletim A.Ş. ve dağıtım şirketlerine devredilecek olanların enerji nakil hattı izinleri ile termik santralin işletilmesi esnasında ortaya çıkan katı atıkların bertarafı ve düzenli depolanması için gereken alanlar dâhil verilen izinler için 14/3/2013 tarihli ve 6446 sayılı Elektrik Piyasası Kanununun geçici 4 üncü maddesinde belirtilen şekliyle bedeller alınır. Kamu kurum ve kuruluşlarınca yapılan ve varlık satışı suretiyle özelleştirilen termik santrallerin işletilmesi esnasında ortaya çıkan katı atıkların bertarafı ve düzenli depolanması için ise özelleştirme esnasında izinli olanların bedelleri, aynı maddedeki şekliyle özelleştirildiği tarihten itibaren on yıl için uygulanarak alınır.\n (10) Mevcut izin verilen alan üzerinde kurulacak lisanssız elektrik üretim tesisi izinlerinden birinci fıkrada belirtilen bedellerin tamamı alınır.\n (11) 25/6/2010 tarihli ve 6001 sayılı Karayolları Genel Müdürlüğünün Hizmetleri Hakkında Kanunun 28 inci maddesi gereği Karayolları Genel Müdürlüğüne, 18/12/1953 tarihli ve 6200 sayılı Devlet Su İşleri Genel Müdürlüğünce Yürütülen Hizmetler Hakkında Kanunun ek 5 inci maddesinin ikinci fıkrası gereği Devlet Su İşleri Genel Müdürlüğüne verilecek izinlerden herhangi bir bedel alınmaz.\n (12) İzinli baraj, gölet alanlarında su ile kaplı alanlardan üçüncü kişilerce balıkçılık yapılmasına izin sahibince izin verilmesi halinde genel bütçe kapsamındaki kamu idareleri ile kamu kurum ve kuruluşlarından herhangi bir bedel alınmaz, gerçek ve özel hukuk tüzel kişilerinden ise kira bedelinin yüzde ellisi alınır.\n (13) Genel bütçe kapsamındaki kamu idarelerine verilecek izinlerden bedel alınmaz.\n (14) Genel bütçe kapsamındaki kamu idareleri ile kamu kurum ve kuruluşlarına verilen ön izinlerden bedel alınmaz.\n (15) 6831 sayılı Kanunun ek 9 uncu maddesinin üçüncü fıkrası gereğince gerçek veya özel hukuk tüzel kişileri ya da vakıflar tarafından kurulan yükseköğretim kurumları hariç olmak üzere; yükseköğretim kurumlarına eğitim ve araştırma maksatlı tesisler yapılması için mezkûr Kanunun 17 nci maddesinin üçüncü fıkrası esaslarına göre ormanlık alanlardan verilen izinler ile bu alan içinde izin sahibi yükseköğretim kurumuna veya Kredi ve Yurtlar Genel Müdürlüğüne yurt yapılması maksadıyla verilen izinlerden ağaçlandırma bedeli ile arazi izin bedeli alınır, orköy bedeli ile erozyon bedeli alınmaz.\n (16) Genel bütçe kapsamındaki kamu idareleri ile kamu kurum ve kuruluşlarınca yapılan, işletilen, işlettirilen veya yap-işlet-devret modeli esas alınarak yaptırılan ve işlettirilen erişme kontrolü uygulanan karayollarındaki ulaştırma yapıları ve müştemilatı olan hizmet tesisleri ile bakım işletme tesislerden herhangi bir bedel alınmaz.\n (17) Demiryolu, otoyol, Devlet ve il yolları ile su isale hatlarının yapımı sırasında zorunlu olarak ortaya çıkan kazı fazlası malzemenin depolanması için genel bütçe kapsamındaki kamu idareleri ile kamu kurum ve kuruluşları adına verilen bedelsiz kazı fazlası malzemenin depolanması izinlerinden sadece ağaçlandırma bedeli alınır.\n (18) Enerji Piyasası Düzenleme Kurumu tarafından düzenlenmiş ön lisansla birlikte diğer kurum ve kuruluşlardan alınması gereken izin, onay, ruhsat, muvafakat ve bu Yönetmelikte istenilen diğer belgelerle kesin izin için müracaat edilmesi halinde;\n a) Bakanlıkça kesin izin verilebilir. Bu durumda verilecek kesin iznin süresi üç yıldan fazla olamaz. Ön lisans ile verilen kesin izin süresince, izin alanının metrekaresi ile cari yıl ağaçlandırma birim metrekare bedelinin 1/5’i ile çarpımı sonucu bulunacak bedel bu izin süresince her yıl alınır. Başkaca bedel alınmaz. İzin sahibince taahhüt senedi verilir, teminat beş katı olarak alınır. Bu yerler için saha teslimi yapılmaz, sahada çalışma yapılmasına müsaade edilmez. Ancak, izin sahibinin müracaatı halinde Enerji Piyasası Düzenleme Kurumu tarafından ön lisans için verilen ek süre kadar izin süresi Bakanlıkça uzatılır, bu süre içinde, izin sahibince ek taahhüt senedi verilir, bedeller alınmaya devam edilir.\n b) Enerji Piyasası Düzenleme Kurumundan alınan lisansın idareye teslim edilmesini müteakip lisans süresi dikkate alınarak izin süresi uzatılır, bu maddede belirtilen şekliyle kesin izin için belirtilen bedeller alınır. İzin süresinin uzatılması halinde bedellerin tahsil edilmesi ve yeniden düzenlenecek taahhüt senedinin izin sahibince idareye teslim edilmesini müteakip saha teslimi yapılarak, sahada çalışma yapılmasına müsaade edilir.\n c) Lisansın, ön lisansa istinaden ek süre dahil verilen kesin izin süresi içerisinde idareye teslim edilmemesi halinde herhangi bir bildirime gerek kalmaksızın verilen izin iptal edilir. Tahsil edilen bedeller iade edilmez.\n ç) Ön lisans döneminde verilen izne dayanılarak ön lisans sahibi lehine irtifak hakkı tesis edilmez. Ancak, lisansın idareye teslim edilerek izin süresinin uzatılmasına ilişkin işlemler tamamlandıktan sonra izin sahibi tarafından talep edilmesi halinde, 24 üncü maddeye göre izin sahibi lehine irtifak hakkı tesis edilir.",
+      "preview": "(1) Verilen ön izinlerde ön izin bedeli, kesin izinlerde ise; a) Ağaçlandırma bedeli, b) Arazi izin bedeli, c) Orköy bedeli, ç) Erozyon bede…",
+      "kitap": null,
+      "kisim": null,
+      "bolum": "ÜÇÜNCÜ BÖLÜM · Bedeller ve Teminat",
+      "ayirim": null,
+      "maddeBaslik": "Alınacak bedeller",
+      "sectionPath": [
+        "ÜÇÜNCÜ BÖLÜM · Bedeller ve Teminat",
+        "Alınacak bedeller"
+      ]
+    },
+    {
+      "id": "yonetmelik:39077:m:8",
+      "maddeKind": "madde",
+      "maddeNo": "8",
+      "heading": "Madde 8",
+      "text": "(1) Alınacak bedellerden;\n a) Ağaçlandırma bedeli; Genel Müdürlükçe, Asgari Ücret Tespit Komisyonu tarafından tespit edilen işçilerin bir günlük normal çalışma karşılığı asgari ücretlerinin 294 gün/hektar katsayısıyla çarpımı sonucu belirlenen ağaçlandırma birim hektar bedelinin, izin alanı ile çarpımı sonucu,\n b) Arazi izin bedeli; izin alanının metrekaresi, cari yıl ağaçlandırma birim metrekare bedeli, bu Yönetmeliğin ekinde yer alan izin türü katsayısı (Ek-1), ekolojik denge katsayısı (Ek-2) ve il katsayısının (Ek-3) çarpımlarının sonucu,\n c) Orköy bedeli; toplam proje bedelinin yüzde üçü (%3) alınarak,\n ç) Erozyon bedeli; toplam proje bedelinin yüzde ikisi (%2) alınarak,\n d) Depolama bedeli; cari yıl bir metrekare ağaçlandırma bedelinin, büyükşehir belediyesi bulunan illerde dört katı, diğer illerde ise üç katının toplam depolama hacmi ile çarpımı sonucu,\n bulunur.\n (2) Bedel hesaplarında Devlet ormanına isabet eden bölümler esas alınır.\n (3) Bu bedellerden arazi izin bedeli her yıl, diğer bedeller izin başlangıcında bir defaya mahsus defaten alınır.\n (4) Yılı birim fiyatları yayımlanıncaya kadar bir önceki yıl birim fiyatlarına göre hesaplanan proje maliyet bedelleri BAK oranında arttırılmak suretiyle güncellenebilir.\n (5) Ön izin bedeli; izin alanının metrekaresi ile cari yıl ağaçlandırma birim metrekare bedelinin 30 hektara kadar olan ön izinlerde 1/10’u, 30 hektar dâhil daha büyük olan ön izinlerde ise 1/5’i ile çarpımı sonucu bulunacak bedel olup bir defaya mahsus alınır. Süre uzatımlarında ayrıca bedel alınmaz.\n (6) Arazi izin bedeli izin başlangıç tarihi esas alınarak bildirime gerek kalmaksızın her yıl defaten tahsil edilir. Müteakip yıllara ait arazi izin bedeli BAK oranında artırılmak suretiyle tespit edilerek bildirime gerek kalmaksızın izin başlangıç tarihinde defaten tahsil edilir.\n (7) Sonraki yıl bedellerinin peşin ödenmesinin talep edilmesi halinde, ödenmesi talep edilen yıllara ait bedeller ödemenin yapıldığı yıl bedeli üzerinden defaten tahsil edilebilir.\n (8) Bu Yönetmelik hükümlerine göre alınacak; tüm bedeller ve teminat Genel Müdürlüğün özel bütçe hesabına yatırılır.\n (9) Ek-1’de yer alan izin türü katsayısı tablosunda izin türlerinin dışında farklı bir taleple karşılaşılması durumunda bedel hesaplamasına esas olacak izin türü katsayısını belirlemeye Genel Müdürlük yetkilidir.\n (10) (Mülga:RG-15/2/2023-32105)\n (11) Verilecek izin, birden çok izin türünü kapsaması halinde arazi izin bedeli her bir izin türü için ayrı ayrı hesaplanır ve toplamı arazi izin bedeli olarak alınır.\n (12) Enerji üretim santrali izinlerinde toplam proje bedeli; lisansında belirtilen tesisin toplam kurulu gücünün (MWm), orman sayılan alanın proje alanına oranlanması sonucu bulunacak miktarla, Enerji Piyasası Düzenleme Kurumu tarafından yayımlanan elektrik piyasasında ilgili kaynak bazındaki toplam birim yatırım tutarının (TL/MWm) çarpımıyla hesaplanır.\n (13) İzin verilen alanın bir kısmının iptali halinde; iznin devam eden kısmı için arazi izin bedeli, kısmi iptalden önceki taahhüt senedinde belirtilen bedel üzerinden oranlanarak hesap edilir.\n (14) (Değişik ibare:RG-15/2/2023-32105) TEİAŞ ve TEDAŞ tarafından orman sayılan alanlarda tesis edilecek, enerji iletim ve dağıtım tesislerinin emniyet alanları içinde kalan sahalar ile bu tesislerin yapımı, bakımı, onarımı ve ulaşımı için gerekli olan alanların ilgili mevzuata göre alınması gereken izin ve işlemleri, müracaat tarihinden itibaren, ilgili kurum ve kuruluşlar tarafından altmış gün içinde sonuçlandırılır. Alınması gereken arazi izin bedeli başkaca bir indirim yoksa %50 indirimli uygulanır.\n (15) İzin süresinin bir yıldan az veya izin bitim tarihi belli olanlar için, arazi izin bedeli bu sürelere göre oranlanarak hesap edilir.",
+      "preview": "(1) Alınacak bedellerden; a) Ağaçlandırma bedeli; Genel Müdürlükçe, Asgari Ücret Tespit Komisyonu tarafından tespit edilen işçilerin bir gün…",
+      "kitap": null,
+      "kisim": null,
+      "bolum": "ÜÇÜNCÜ BÖLÜM · Bedeller ve Teminat",
+      "ayirim": null,
+      "maddeBaslik": "Bedellerin tespiti",
+      "sectionPath": [
+        "ÜÇÜNCÜ BÖLÜM · Bedeller ve Teminat",
+        "Bedellerin tespiti"
+      ]
+    },
+    {
+      "id": "yonetmelik:39077:m:9",
+      "maddeKind": "madde",
+      "maddeNo": "9",
+      "heading": "Madde 9",
+      "text": "(1) Bu Yönetmelik hükümlerine göre bedelli olarak verilen izinlerde, zamanında ödenmeyen bedeller için, izinlerin iptaline ilişkin hükümler saklı kalmak kaydıyla bildirime gerek kalmaksızın 21/7/1953 tarihli ve 6183 sayılı Amme Alacaklarının Tahsil Usulü Hakkında Kanunun 51 inci maddesinde yer alan gecikme zammı oranında faiz uygulanır. Kısmen ödeme yapılması halinde yapılan ödeme öncelikle faize mahsup edilir.",
+      "preview": "(1) Bu Yönetmelik hükümlerine göre bedelli olarak verilen izinlerde, zamanında ödenmeyen bedeller için, izinlerin iptaline ilişkin hükümler…",
+      "kitap": null,
+      "kisim": null,
+      "bolum": "ÜÇÜNCÜ BÖLÜM · Bedeller ve Teminat",
+      "ayirim": null,
+      "maddeBaslik": "Gecikme zammı",
+      "sectionPath": [
+        "ÜÇÜNCÜ BÖLÜM · Bedeller ve Teminat",
+        "Gecikme zammı"
+      ]
+    },
+    {
+      "id": "yonetmelik:39077:m:10",
+      "maddeKind": "madde",
+      "maddeNo": "10",
+      "heading": "Madde 10",
+      "text": "(1) Teminat; bir hektar için cari yıl ağaçlandırma bedelinin 1/10’undan az olmamak kaydıyla cari yıl ağaçlandırma bedelinin onda biri ile izin alanının çarpımı sonucu bulunur. Ancak iletişim panosu izinlerinde teminat bedeli bir hektar için cari yıl ağaçlandırma bedelinin onda biridir. İzin başlangıcında bir defa alınır. Süre uzatımlarında ve izin devirlerinde güncellenir. Genel bütçe kapsamındaki kamu idareleri ile kamu kurum ve kuruluşlarından ve ön izinlerden teminat alınmaz.\n (2) Alınan teminat her ne suretle olursa olsun haczedilemez, üzerine ihtiyati tedbir konulamaz, tespit ve tahsiline itiraz edilemez.\n (3) Teminat olarak alınan değerler, teminat olarak kabul edilen değerler ile değiştirilebilir.",
+      "preview": "(1) Teminat; bir hektar için cari yıl ağaçlandırma bedelinin 1/10’undan az olmamak kaydıyla cari yıl ağaçlandırma bedelinin onda biri ile iz…",
+      "kitap": null,
+      "kisim": null,
+      "bolum": "ÜÇÜNCÜ BÖLÜM · Bedeller ve Teminat",
+      "ayirim": null,
+      "maddeBaslik": "Teminat",
+      "sectionPath": [
+        "ÜÇÜNCÜ BÖLÜM · Bedeller ve Teminat",
+        "Teminat"
+      ]
+    },
+    {
+      "id": "yonetmelik:39077:m:11",
+      "maddeKind": "madde",
+      "maddeNo": "11",
+      "heading": "Madde 11",
+      "text": "(1) İznin herhangi bir sebeple sona ermesi halinde kesin izinde alınan bedeller iade edilmez. Teminat ise, taahhüt senedinde belirtilen yükümlülüklerin yerine getirilmesi durumunda iade edilir. Aksi halde alınan teminat idarece irat kaydedilir. Teminat borca mahsup edilmez.\n (2) İzin sahibinin kesin izinden vazgeçtiğini ve faaliyetini durdurduğunu orman idaresine yazılı olarak bildirdiği durumlarda orman idaresince sahanın geri teslim alındığı tarihte tahakkuk eden bedellerin tamamı tahsil edilir, müteakip yıllara ait bedel tahakkuk ettirilmez.\n (3) Ancak;\n a) İzin sahibinin kesin izin başlangıç tarihinden itibaren bir yıl içinde vazgeçmesi nedeniyle iznin iptal edilmesi ve yatırılan bedellerin ve teminatın iptal tarihinden itibaren en geç üç ay içinde iadesinin talep edilmesi halinde; izin verilen saha içinde hiçbir noktada çalışma yapılmamış olması ve izin öncesi doğal yapının bozulmamış olmasının heyetçe düzenlenecek raporla tespiti ve bölge müdürlüğünün onayı ile arazi izin bedeli dışındaki bedeller ve teminat faizsiz olarak iade edilir.\n b) Verilen kesin iznin her ne şekilde olursa olsun izin sahibinin kusur ve/veya ihmalinin bulunmadığı durumlar nedeniyle iptal edilmesi ve iptalini müteakip altı ay içinde izin sahibinin talep etmesi halinde; izin verilen sahada çalışma yapılmadığının, izin öncesi doğal yapının bozulmadığının heyetçe düzenlenecek raporla tespiti halinde, alınan tüm bedeller ve teminat faizsiz olarak iade edilir.\n (4) Kesin izin verilen sahanın bir kısmı üzerindeki iznin iptal edilmesi halinde alınan bedeller iade edilmez. Ancak arazi izin bedeli ve teminat yeni duruma göre güncellenir.\n (5) Ön izin bedeli iade edilmez.",
+      "preview": "(1) İznin herhangi bir sebeple sona ermesi halinde kesin izinde alınan bedeller iade edilmez. Teminat ise, taahhüt senedinde belirtilen yükü…",
+      "kitap": null,
+      "kisim": null,
+      "bolum": "ÜÇÜNCÜ BÖLÜM · Bedeller ve Teminat",
+      "ayirim": null,
+      "maddeBaslik": "Teminat ve bedellerin iadesi",
+      "sectionPath": [
+        "ÜÇÜNCÜ BÖLÜM · Bedeller ve Teminat",
+        "Teminat ve bedellerin iadesi"
+      ]
+    },
+    {
+      "id": "yonetmelik:39077:m:12",
+      "maddeKind": "madde",
+      "maddeNo": "12",
+      "heading": "Madde 12",
+      "text": "(1) Müracaatta istenen belgelerle birlikte;\n a) 5355 sayılı Kanuna göre kurulan birlikler ile kooperatifler yönetim kurulu kararını,\n b) Köy muhtarlıkları, kaymakam veya vali tarafından onaylanmış köy ihtiyar heyeti kararını,\n c) Özel hukuk tüzel kişileri ise vekaleten müracaatlarda vekaletname, temsilen müracaatlarda yetki belgesini ve faal olduğuna ilişkin ilgili kurumlardan alınacak belgeyi ve sicil tasdiknamesini,\n ç) Gerçek kişiler ise vekâleten müracaatlarda vekâletname ve sicil tasdiknamesini,\n taleplerine eklerler.\n (2) Genel bütçe kapsamındaki kamu idareleri ile kamu kurum ve kuruluşları bağlı oldukları bakanlıklarının veya genel müdürlüklerinin resmî yazısı ile müracaat eder veya yetki devri kapsamında taşra birimlerinin müracaatı sağlanır.",
+      "preview": "(1) Müracaatta istenen belgelerle birlikte; a) 5355 sayılı Kanuna göre kurulan birlikler ile kooperatifler yönetim kurulu kararını, b) Köy m…",
+      "kitap": null,
+      "kisim": null,
+      "bolum": "DÖRDÜNCÜ BÖLÜM · İzin İşlemlerine İlişkin Hükümler",
+      "ayirim": null,
+      "maddeBaslik": "Müracaat şekli",
+      "sectionPath": [
+        "DÖRDÜNCÜ BÖLÜM · İzin İşlemlerine İlişkin Hükümler",
+        "Müracaat şekli"
+      ]
+    },
+    {
+      "id": "yonetmelik:39077:m:13",
+      "maddeKind": "madde",
+      "maddeNo": "13",
+      "heading": "Madde 13",
+      "text": "(1) Genel bütçe kapsamındaki kamu idareleri ile kamu kurum ve kuruluşları bünyelerinde görevli orman mühendisi veya orman yüksek mühendislerince düzenlenenler hariç olmak üzere talep alanlarını gösterir saha analiz raporu, (Danıştay Sekizinci Dairesinin 18/11/2025 tarihli ve E.:2022/753; K.:2025/8769 sayılı kararı ile iptal ibare; koordinat özet çizelgesi), vaziyet planı kademeli kapatma planı ve ağaç röleve planı ormancılık bürosu tarafından düzenlenerek imzalanır.\n (2) Kademeli kapatma planı, ağaç röleve planı, vaziyet planı ile koordinat özet çizelgeleri heyet tarafından kontrol edilir ve uygunluğu onaylanır.\n (3) (Değişik:RG-15/2/2023-32105) Genel bütçe kapsamındaki kamu idareleri ile kamu kurum ve kuruluşlarınca onaylı keşif özetleri hariç, keşif özetleri ve keşif özetlerinin vaziyet planlarına uygunluğu kontrol edilerek bölge müdürlüğü makine ikmal şube müdürlüğünce onaylanır.\n (4) Sokak hayvanları bakımevi izinlerinde Bakanlık Doğa Koruma ve Milli Parklar Genel Müdürlüğünün uygun görüşü alınır.\n (5) Bedelsiz izinlerde metraj ve keşif özeti istenmez.\n (6) (Değişik:RG-15/2/2023-32105) Taahhüt senetleri güvenli elektronik imza ile imzalanır veya her sayfası noter tarafından onaylanır. Ancak genel bütçe kapsamındaki kamu idareleri ile kamu kurum ve kuruluşlarından alınacak taahhüt senedinin her sayfası kurum yetkilisi tarafından onaylanır, noter onayı aranmaz.",
+      "preview": "(1) Genel bütçe kapsamındaki kamu idareleri ile kamu kurum ve kuruluşları bünyelerinde görevli orman mühendisi veya orman yüksek mühendisler…",
+      "kitap": null,
+      "kisim": null,
+      "bolum": "DÖRDÜNCÜ BÖLÜM · İzin İşlemlerine İlişkin Hükümler",
+      "ayirim": null,
+      "maddeBaslik": "İzin rapor eklerinin hazırlanması ve onaylanması",
+      "sectionPath": [
+        "DÖRDÜNCÜ BÖLÜM · İzin İşlemlerine İlişkin Hükümler",
+        "İzin rapor eklerinin hazırlanması ve onaylanması"
+      ]
+    },
+    {
+      "id": "yonetmelik:39077:m:14",
+      "maddeKind": "madde",
+      "maddeNo": "14",
+      "heading": "Madde 14",
+      "text": "(1) Uygun görülen taleplere yirmi dört aya kadar ön izin verilebilir. Ön izin sahibinin ön izin süresi son günü mesai bitimine kadar bölge müdürlüğüne süre uzatımı talebinde bulunması ve mevcut taahhüt senedi hükümlerini kabul ettiğine dair ek taahhüt senedi vermesi halinde, ön izin süresinin bitim tarihinden itibaren on iki ay süreyle ön izin ve sorumlulukları devam eder. Ön izin süresi nükleer tesis izinlerinde toplam altmış ay, diğerlerinde ise toplam otuz altı aydır. Ancak, nükleer tesis izinlerinde mevcut ön izin süresinin yetmemesi ve talep edilmesi halinde Bakanlıkça uygun görülecek süre kadar ön izin uzatılabilir.\n (2) Ön izin süresi içinde saha teslimi yapılmaz ve hiçbir inşaat faaliyetine müsaade edilmez.\n (3) Ön izin; izin süresi son günü mesai bitimine kadar süre uzatımı talebiyle bölge müdürlüğüne müracaat edilmemesi, izin sahibinin vazgeçmesi veya istenen belgelerin süresi içinde tamamlanarak orman idaresine verilmemesi halinde resen iptal edilmiş sayılır.\n (4) Süre uzatmaları dahil, ön izin süresi içinde herhangi bir sebeple kesin izne dönüşmemiş ön izinler için herhangi bir hak iddia edilemez.\n (5) Ön izin süresi içinde mevzuatta kesin izin verilmesini engelleyen değişiklik olması halinde ön izin iptal edilir.",
+      "preview": "(1) Uygun görülen taleplere yirmi dört aya kadar ön izin verilebilir. Ön izin sahibinin ön izin süresi son günü mesai bitimine kadar bölge m…",
+      "kitap": null,
+      "kisim": null,
+      "bolum": "DÖRDÜNCÜ BÖLÜM · İzin İşlemlerine İlişkin Hükümler",
+      "ayirim": null,
+      "maddeBaslik": "Ön izin ve ön izin süre uzatımı",
+      "sectionPath": [
+        "DÖRDÜNCÜ BÖLÜM · İzin İşlemlerine İlişkin Hükümler",
+        "Ön izin ve ön izin süre uzatımı"
+      ]
+    },
+    {
+      "id": "yonetmelik:39077:m:15",
+      "maddeKind": "madde",
+      "maddeNo": "15",
+      "heading": "Madde 15",
+      "text": "(1) İzinlerin süre uzatımında arazi izin bedeli bu Yönetmelik hükümlerine göre güncellenir ve kesin izin süresi kırk dokuz yılı geçemez. Ancak uzatmalar dahil toplam kırk dokuz yıllık süre sonunda 16 ncı maddeye göre süre uzatımı yapılabilir.\n (2) İzin süresinin dolması, izin sahibinin vazgeçmesi, saha tesliminden itibaren üç yıl içinde yatırıma başlanılmaması, bu Yönetmelik ve taahhüt senedi hükümlerine aykırı davranılması halinde kesin izin iptal edilerek ilgiliye tebliğ edilir. Ancak, yatırıma başlanma süresi Bakanlığın uygun gördüğü zaruri hallerde Bakanlık onayı ile iki yıl daha uzatılabilir.\n (3) Tebligat tarihinden itibaren altı ay içerisinde ilk yıl bedellerinin yatırılmaması, teminatın veya onaylı taahhüt senedinin verilmemesi halinde her hangi bir bildirime gerek kalmaksızın verilen kesin izin iptal edilmiş sayılır. Devam eden yıl bedellerinin son ödeme tarihinden itibaren bir yıl içerisinde ödenmemesi halinde kesin izin iptal edilir. Ancak 6183 sayılı Kanunun 51 inci maddesinde belirtilen gecikme zammı oranında hesaplanacak faizi ile birlikte ödeyeceğini kabul ettiğine dair ek taahhüt senedi verilmesi kaydıyla bir yıl daha ek süre verilebilir.\n (4) İznin herhangi bir şekilde sona ermesi halinde; sahalar orman idaresince teslim alınır.",
+      "preview": "(1) İzinlerin süre uzatımında arazi izin bedeli bu Yönetmelik hükümlerine göre güncellenir ve kesin izin süresi kırk dokuz yılı geçemez. Anc…",
+      "kitap": null,
+      "kisim": null,
+      "bolum": "DÖRDÜNCÜ BÖLÜM · İzin İşlemlerine İlişkin Hükümler",
+      "ayirim": null,
+      "maddeBaslik": "Kesin izin ve kesin izin süre uzatımı",
+      "sectionPath": [
+        "DÖRDÜNCÜ BÖLÜM · İzin İşlemlerine İlişkin Hükümler",
+        "Kesin izin ve kesin izin süre uzatımı"
+      ]
+    },
+    {
+      "id": "yonetmelik:39077:m:16",
+      "maddeKind": "madde",
+      "maddeNo": "16",
+      "heading": "Madde 16",
+      "text": "(1) Kırk dokuz yıllık kesin izin süresi sonunda, yükümlülüklerinin tamamını yerine getirmiş, taahhüt senetlerine uygunluk sağlamış izinlerin süresi; izin maksat ve şartlarına uygun olarak faaliyet gösteren izin sahibinin talep etmesi, orman idaresinin uygun görmesi halinde yer, bina ve tesislerin rayiç değerine göre yıllık hesaplanacak rayiç bedel üzerinden doksan dokuz yıla kadar uzatılabilir. Ancak kırk dokuz yıllık kesin izin süresi sonunda, yükümlülüklerinin tamamını yerine getirmiş, taahhüt senetlerine uygunluk sağlamış enerji üretim/iletim/dağıtım tesislerine ait izin ve işlemleri, talep edilmesi hâlinde son ödenen arazi izin bedeli 213 sayılı Kanun uyarınca belirlenen yeniden değerleme oranında arttırılmak sureti ile doksan dokuz yıla kadar uzatılır. Orman idaresi gerek görmesi halinde uzatma sürelerini on yıllık dilimler halinde kullandırabilir. Tesislerin orman idaresine devir işlemleri bu süre sonunda yapılır.\n (2) Rayiç bedel; izinli alanın arazi rayiç değeri ile bu alanda bulunan bina ve tesislerin rayiç değerlerinin toplamının yüzde ikisidir. Ancak rayiç bedel, izinli alan için hesaplanacak cari yıl arazi izin bedelinin iki katından az olamaz. Müteakip yıllara ait rayiç bedel BAK oranında artırılmak suretiyle tespit edilerek bildirime gerek kalmaksızın izin başlangıç tarihinde defaten alınır.\n (3) Rayiç değer üzerinden süre uzatımlarında teminat güncellenir.\n (4) Rayiç değer üzerinden uzatılan izin sahası içinde ek izin talep edilmesi halinde ilave yapılacak tesislerin bedel hesabı bu maddeye göre yapılır. İzin süresi, rayiç değer üzerinden yapılan izin süresi uzatımını geçemez. Rayiç değer üzerinden süre uzatımı yapılan iznin herhangi bir şekilde iptal edilmesi halinde verilen ek izinde iptal edilir.\n (5) Kırk dokuz yıllık kesin izin süresi sonunda, yükümlülüklerinin tamamını yerine getirmiş, taahhüt senetlerine uygunluk sağlamış, il özel idareleri, büyükşehir belediyeleri, belediyeler, köy tüzel kişilikleri, 5355 sayılı Kanuna göre kurulan birliklerin kâr gayesi bulunmaksızın ve kamu yararına yönelik hizmetlerde kullanılmak üzere yaptıkları tesis izinleri ve büyükşehir belediyelerinde su hizmetlerini yürütmekle görevli olan birimler adına olan su tesisi izinleri; rayiç bedel yüzde doksan beş indirimli olarak alınmak suretiyle doksan dokuz yıla kadar uzatılabilir. Ancak bu bedel izinli alan için hesaplanacak cari yıl arazi izin bedelinden az olamaz.\n (6) Bu Yönetmeliğe göre bedelsiz olan izinlerde rayiç değer üzerinden süre uzatımlarında da bedel alınmaz.",
+      "preview": "(1) Kırk dokuz yıllık kesin izin süresi sonunda, yükümlülüklerinin tamamını yerine getirmiş, taahhüt senetlerine uygunluk sağlamış izinlerin…",
+      "kitap": null,
+      "kisim": null,
+      "bolum": "DÖRDÜNCÜ BÖLÜM · İzin İşlemlerine İlişkin Hükümler",
+      "ayirim": null,
+      "maddeBaslik": "Rayiç değer üzerinden süre uzatımı",
+      "sectionPath": [
+        "DÖRDÜNCÜ BÖLÜM · İzin İşlemlerine İlişkin Hükümler",
+        "Rayiç değer üzerinden süre uzatımı"
+      ]
+    },
+    {
+      "id": "yonetmelik:39077:m:17",
+      "maddeKind": "madde",
+      "maddeNo": "17",
+      "heading": "Madde 17",
+      "text": "(1) Ön izin devredilemez.\n (2) Kesin izin; taahhüt senedi hükümlerine ve sürelerine bağlı kalmak kaydıyla talep edilmesi halinde Bakanlıkça devir edilebilir. Devir alanın, devir eden adına olan ruhsat, lisans, tahsis belgesinin devrini alması, taahhüt senedi ve teminat vermesi zorunludur. Aksi halde devir edenin orman idaresine karşı sorumlulukları aynen devam eder.\n (3) Sağlık, eğitim, spor ile adli hizmet binası ve ceza infaz kurumu tesisi için verilen izinler devredilemez.\n (4) İzinlerin devir edilmesi halinde arazi izin bedeli bu Yönetmelik hükümlerine göre güncellenir, bir defaya mahsus alınan bedeller alınmaz.",
+      "preview": "(1) Ön izin devredilemez. (2) Kesin izin; taahhüt senedi hükümlerine ve sürelerine bağlı kalmak kaydıyla talep edilmesi halinde Bakanlıkça d…",
+      "kitap": null,
+      "kisim": null,
+      "bolum": "DÖRDÜNCÜ BÖLÜM · İzin İşlemlerine İlişkin Hükümler",
+      "ayirim": null,
+      "maddeBaslik": "İzin devri",
+      "sectionPath": [
+        "DÖRDÜNCÜ BÖLÜM · İzin İşlemlerine İlişkin Hükümler",
+        "İzin devri"
+      ]
+    },
+    {
+      "id": "yonetmelik:39077:m:18",
+      "maddeKind": "madde",
+      "maddeNo": "18",
+      "heading": "Madde 18",
+      "text": "(1) Mülkiyeti konusunda uyuşmazlık bulunması nedeniyle mahkemeye intikal etmiş yerlerde hükmün kesinleşmesine kadar izin verilmez.\n (2) Ancak, ilgili birimlerce izne konu projenin yapılmasına ilişkin kamulaştırma maksadıyla kamu yararı kararı alınması halinde; yargılama sonucunda, ihtilaflı yerin orman sınırları dışında kalması durumunda talep sahibinden, kamulaştırmadan doğacak bedellerin ödeneceğine ve her türlü sorumluluğun yerine getirileceğine dair taahhüt senedi alınarak izin verilir.\n (3) Yargılama sonucunda ihtilaflı yerin orman sınırları dışında kalması halinde verilen izin iptal edilir. Ancak alınan bedeller iade edilmez, teminat faizsiz olarak iade edilir.",
+      "preview": "(1) Mülkiyeti konusunda uyuşmazlık bulunması nedeniyle mahkemeye intikal etmiş yerlerde hükmün kesinleşmesine kadar izin verilmez. (2) Ancak…",
+      "kitap": null,
+      "kisim": null,
+      "bolum": "DÖRDÜNCÜ BÖLÜM · İzin İşlemlerine İlişkin Hükümler",
+      "ayirim": null,
+      "maddeBaslik": "Mülkiyet uyuşmazlığı",
+      "sectionPath": [
+        "DÖRDÜNCÜ BÖLÜM · İzin İşlemlerine İlişkin Hükümler",
+        "Mülkiyet uyuşmazlığı"
+      ]
+    },
+    {
+      "id": "yonetmelik:39077:m:19",
+      "maddeKind": "madde",
+      "maddeNo": "19",
+      "heading": "Madde 19",
+      "text": "(1) Herhangi bir sebeple izni iptal edilen ancak üzerinde bina ve tesis bulunmayan sahalar bu Yönetmelik hükümlerine göre yeniden izne konu edilebilir. Üzerinde bina ve tesis bulunanlar ise eksiksiz ve bedelsiz olarak Genel Müdürlüğün tasarrufuna geçer, sabit kıymetlere alınarak orman idaresince değerlendirilir. Orman idaresinin teslim almak istemediği bina ve tesisler ise izin sahibince yerinden kaldırılarak orman sınırları dışına çıkartılır.",
+      "preview": "(1) Herhangi bir sebeple izni iptal edilen ancak üzerinde bina ve tesis bulunmayan sahalar bu Yönetmelik hükümlerine göre yeniden izne konu…",
+      "kitap": null,
+      "kisim": null,
+      "bolum": "DÖRDÜNCÜ BÖLÜM · İzin İşlemlerine İlişkin Hükümler",
+      "ayirim": null,
+      "maddeBaslik": "İzni iptal edilen sahaların yeniden izne konu edilmesi ve tesislerin değerlendirilmesi",
+      "sectionPath": [
+        "DÖRDÜNCÜ BÖLÜM · İzin İşlemlerine İlişkin Hükümler",
+        "İzni iptal edilen sahaların yeniden izne konu edilmesi ve tesislerin değerlendirilmesi"
+      ]
+    },
+    {
+      "id": "yonetmelik:39077:m:20",
+      "maddeKind": "madde",
+      "maddeNo": "20",
+      "heading": "Madde 20",
+      "text": "(1) Hizmet gideri olarak; arazi incelemelerine katılacak personelin 10/2/1954 tarihli ve 6245 sayılı Harcırah Kanunu hükümlerine göre ödenecek harcırahları ile zaruri olarak kullanılan resmî hizmet vasıtalarının işletme giderleri, talep sahibince Genel Müdürlük özel bütçesinin hizmet ve işletme gelirleri hesabına yatırılır. Bu tutarlar özel bütçeye gelir kaydedilir. Hizmet giderleri yatırılmadığı takdirde arazi incelemesine çıkılmaz.\n (2) Genel bütçe kapsamındaki kamu idareleri ile kamu kurum ve kuruluşlarından hizmet giderleri alınmaz.",
+      "preview": "(1) Hizmet gideri olarak; arazi incelemelerine katılacak personelin 10/2/1954 tarihli ve 6245 sayılı Harcırah Kanunu hükümlerine göre ödenec…",
+      "kitap": null,
+      "kisim": null,
+      "bolum": "DÖRDÜNCÜ BÖLÜM · İzin İşlemlerine İlişkin Hükümler",
+      "ayirim": null,
+      "maddeBaslik": "Hizmet giderleri",
+      "sectionPath": [
+        "DÖRDÜNCÜ BÖLÜM · İzin İşlemlerine İlişkin Hükümler",
+        "Hizmet giderleri"
+      ]
+    },
+    {
+      "id": "yonetmelik:39077:m:21",
+      "maddeKind": "madde",
+      "maddeNo": "21",
+      "heading": "Madde 21",
+      "text": "(1) İzin sahaları takvim yılı içinde en az bir defa dosya ve arazi üzerinde heyetçe kontrol edilerek tutanak tanzim edilir. Ancak su isale hattı, baraj, gölet, doğalgaz boru hattı, petrol boru hattı, elektronik haberleşme sistemlerine ait baz istasyonu, enerji nakil hattı, yol, telefon iletim hattı izinlerinde saha kontrolleri yatırım tamamlanıncaya kadar her yıl, yatırımın tamamlanmasını takiben sonu sıfır ve beş ile biten yıllarda yapılır.\n (2) Takvim yılı içinde kontrol edilen izinlerin yüzde ikisi bölge müdürlüğünce ayrıca incelemeye tabi tutulur.\n (3) Ayrıca izin sahaları koruma ekiplerince ilgili mevzuat hükümlerine göre periyodik olarak kontrol edilir.\n (4) İzin sahasında her türlü hak ve yükümlülük izin sahibine aittir. Ancak, bu Yönetmelik gereği izin verilen alanlarda izin sahibi ile üçüncü kişi veya kuruluşlar arasındaki sözleşmeye dayanılarak yapılan faaliyetlerden izin sahibi üçüncü kişi ile birlikte sorumludur.\n (5) İznin dayanağı olan bilgi ve belgelerden doğacak her türlü sorumluluk izin sahibine aittir.\n (6) Ormanlık alanlarda, izin verilen proje dışında tesis yapılamaz. İzinli saha içinde yapılacak ilave tesisler için bu Yönetmelik hükümlerine göre izin alınması mecburidir. İzinsiz yapılan tesislere 6831 sayılı Kanun hükümlerine göre orman idaresince el konulur.\n (7) Verilen izinler maksadı dışında kullanılamaz. Verilen izinlerde orman yangınlarına karşı her türlü tedbir izin sahibince alınır.",
+      "preview": "(1) İzin sahaları takvim yılı içinde en az bir defa dosya ve arazi üzerinde heyetçe kontrol edilerek tutanak tanzim edilir. Ancak su isale h…",
+      "kitap": null,
+      "kisim": null,
+      "bolum": "DÖRDÜNCÜ BÖLÜM · İzin İşlemlerine İlişkin Hükümler",
+      "ayirim": null,
+      "maddeBaslik": "İzin sahalarının kontrolü, sorumluluk ve ilave tesis yapılması",
+      "sectionPath": [
+        "DÖRDÜNCÜ BÖLÜM · İzin İşlemlerine İlişkin Hükümler",
+        "İzin sahalarının kontrolü, sorumluluk ve ilave tesis yapılması"
+      ]
+    },
+    {
+      "id": "yonetmelik:39077:m:22",
+      "maddeKind": "madde",
+      "maddeNo": "22",
+      "heading": "Madde 22",
+      "text": "(1) Talep sahasının bir bölümünün veya tamamının 6831 sayılı Kanunun 16 ncı maddesi, 17 nci maddesinin üçüncü fıkrası ve 18 inci maddesine göre verilen bir başka izin alanına isabet etmesi halinde daha önce verilen izin sahibinin muvafakatı aranır, muvafakat verilmemesi halinde İdarece resen izin verilebilir. Talep sahibince mevcut izinle ilgili gerekli tedbirler alınarak çalışılır. Talep sahibinden her türlü zarar ziyandan sorumlu olacağına dair ek taahhüt senedi alınır.",
+      "preview": "(1) Talep sahasının bir bölümünün veya tamamının 6831 sayılı Kanunun 16 ncı maddesi, 17 nci maddesinin üçüncü fıkrası ve 18 inci maddesine g…",
+      "kitap": null,
+      "kisim": null,
+      "bolum": "DÖRDÜNCÜ BÖLÜM · İzin İşlemlerine İlişkin Hükümler",
+      "ayirim": null,
+      "maddeBaslik": "Aynı alana isabet eden izinler",
+      "sectionPath": [
+        "DÖRDÜNCÜ BÖLÜM · İzin İşlemlerine İlişkin Hükümler",
+        "Aynı alana isabet eden izinler"
+      ]
+    },
+    {
+      "id": "yonetmelik:39077:m:23",
+      "maddeKind": "madde",
+      "maddeNo": "23",
+      "heading": "Madde 23",
+      "text": "(1) İzin raporunu hazırlayan heyetçe, talebin ormanlık alanda yapılmasında kamu yararı ve zaruret olup olmadığı hususu; faaliyetin orman sınırları dışında gerçekleştirilmesi imkânının bulunup bulunmadığı irdelenerek tespit edilir.\n (2) Ormanlık alanlarda izin verilmesinde kamu yararı ve zaruret bulunması halinde heyet tarafından öncelikle bozuk orman alanlarından uygun yerler araştırılır, bozuk alan bulunmadığının tespit edilmesi halinde diğer alanlarda da izin verilebilir.\n (3) Ancak bu Yönetmelikte izin verileceği belirtilen faaliyetlerden Bakanlıkça belirleneceklerin kamu yararı ve zaruret kararı, Bakanlıkça alınır.",
+      "preview": "(1) İzin raporunu hazırlayan heyetçe, talebin ormanlık alanda yapılmasında kamu yararı ve zaruret olup olmadığı hususu; faaliyetin orman sın…",
+      "kitap": null,
+      "kisim": null,
+      "bolum": "DÖRDÜNCÜ BÖLÜM · İzin İşlemlerine İlişkin Hükümler",
+      "ayirim": null,
+      "maddeBaslik": "Kamu yararı ve zaruret halinin tespiti",
+      "sectionPath": [
+        "DÖRDÜNCÜ BÖLÜM · İzin İşlemlerine İlişkin Hükümler",
+        "Kamu yararı ve zaruret halinin tespiti"
+      ]
+    },
+    {
+      "id": "yonetmelik:39077:m:24",
+      "maddeKind": "madde",
+      "maddeNo": "24",
+      "heading": "Madde 24",
+      "text": "(1) Kesin iznin irtifak hakkına dönüştürülmesinin talep edilmesi halinde, Bakanlığın görüşü ile birlikte, bu talep Çevre, Şehircilik ve İklim Değişikliği Bakanlığına gönderilir. Çevre, Şehircilik ve İklim Değişikliği Bakanlığınca uygun görülmesi halinde, adına kesin izin verilen yatırımcı lehine 6831 sayılı Kanunun 115 inci maddesine ve 22/11/2001 tarihli ve 4721 sayılı Türk Medeni Kanunu hükümlerine göre kat irtifakı kurulmaması kaydıyla irtifak hakkı tesis edilir.\n (2) Çevre, Şehircilik ve İklim Değişikliği Bakanlığı irtifak hakkının tapuya tescili sırasında kesin izin sözleşmesinde gerekli gördüğü değişiklikleri yapabilir.\n (3) Kesin iznin irtifak hakkına dönüştürülmesi halinde resmî senet hükümleri uygulanır.\n (4) Bağımsız ve sürekli üst hakkı tesisine izin verilebilir. Bu hak Bakanlıktan izin alınmadan devredilebilir. Bu durumda, irtifak hakkını herhangi bir şekilde devralan kişiler, bir ay içinde orman idaresinin ve Çevre, Şehircilik ve İklim Değişikliği Bakanlığının belirleyeceği yeni bedel ve şartlarla ilgili tapu müdürlüğünde yeniden resmî senet düzenlemek ve yenilenmiş resmî senedi ve/veya taahhüt senedini idareye vermek zorundadırlar. Aksi takdirde verilen izin ve üst hakkı iptal edilir.\n (5) İznin iptal edilmesi halinde varsa tapudan irtifak hakkı terkin edilir.",
+      "preview": "(1) Kesin iznin irtifak hakkına dönüştürülmesinin talep edilmesi halinde, Bakanlığın görüşü ile birlikte, bu talep Çevre, Şehircilik ve İkli…",
+      "kitap": null,
+      "kisim": null,
+      "bolum": "DÖRDÜNCÜ BÖLÜM · İzin İşlemlerine İlişkin Hükümler",
+      "ayirim": null,
+      "maddeBaslik": "İrtifak hakkı tesisi",
+      "sectionPath": [
+        "DÖRDÜNCÜ BÖLÜM · İzin İşlemlerine İlişkin Hükümler",
+        "İrtifak hakkı tesisi"
+      ]
+    },
+    {
+      "id": "yonetmelik:39077:m:25",
+      "maddeKind": "madde",
+      "maddeNo": "25",
+      "heading": "Madde 25",
+      "text": "(1) Ormanlık alanda lojman, idari bina ve sosyal tesislere izin verilmez.\n (2) Ormanlık alanda yapılması zorunlu olan yollar çevreye zarar vermeyecek şekilde ekskavatörle yapılır, yol yapımından çıkan malzeme ormana zarar vermeyecek şekilde izinli alanlara taşınır.\n (3) Sokak hayvanları bakımevi maksadıyla genel bütçe kapsamındaki kamu idareleri, büyükşehir belediyeleri, il ve ilçe belediyelerine izin verilebilir.\n (4) Mezarlık tesis izinleri sadece büyükşehir belediyelerine, belediyelere, il özel idarelerine ve köy tüzel kişiliklerine verilebilir.\n (5) Bu Yönetmeliğe göre verilen izne konu tesislerin inşaatı esnasında ormanlık alandan çıkan orman toprağını da içeren kazı fazlası malzemelerin depolanacağı izin alanlarına, izin alanı dışından getirilecek herhangi bir malzeme dökülemez. (Danıştay Sekizinci Dairesinin 3/7/2024 tarihli ve E.:2022/3180 K.:2024/4095 sayılı karar ile iptal edilen ikinci cümle: Ancak orman alanı dışındaki demiryolu, otoyol, Devlet ve il yolları ile su isale hatlarının yapımında zorunlu olarak ortaya çıkan kazı fazlası malzemenin depolanması amacıyla da Genel Müdürlüğün belirleyeceği alanlarda izin verilebilir.) Bu sahalar izin sahibince ağaçlandırılacak hale getirilerek geri teslim edilir. İzin verilen genel bütçe kapsamındaki kamu idaresi veya kamu kurum ve kuruluşunca ihale edilmek suretiyle inşa ettirilecek tesislerde kazı fazlası ve şantiye yeri için sözleşme hükümlerine göre izin sahibine veya yüklenici adına izin verilebilir.\n (6) Ceza infaz kurumu, savunma ve güvenlik amaçlı verilecek bina ve tesislere ait izin taleplerinde vaziyet planında yapılacak bina ve tesislerin adları belirtilmeden dış sınırlarının gösterilmesi yeterlidir.\n (7) Sağlık, eğitim, yükseköğretim kurumları, spor, adli hizmet ve ceza infaz kurumu gibi tesisler için; vaziyet planında gösterilen bina ve tesis taban alanları toplamının en fazla yüzde yirmisi kadar fazlası alana izin verilebilir.\n (8) Tünel şeklinde yer altında yapılacak depolama tesislerine, tünel girişinde ve tünel izdüşümünün üzerindeki orman örtüsünün zarar görmemesi kaydıyla izin verilebilir. Depolamanın nevine göre ilgili birimlerden gerekli izinlerin alınması izin sahibinin sorumluluğundadır. İzin verilen bu tesiste patlayıcı madde depolanması halinde çevre güvenlik alanları için yer üstünde de emniyet sahasına izin verilebilir. Ormanlık alanda olmayan yer üstündeki patlayıcı madde depolarına çevre güvenlik alanı için izin verilebilir. Ormanlık alanda yer üstünde patlayıcı madde deposuna izin verilemez.\n (9) Bu Yönetmeliğe göre izin verilen saha sınırları içinde ve izin veriliş maksadına uygun uygulama imar planı yaptırılabilir. Ancak izin verilen ormanlık alan bağlı olduğu orman parselinden ifrazen ayrılamaz.\n (10) Lisanssız elektrik üretim (Mülga ibare:RG-15/2/2023-32105)[2] tesislerine orman sayılan alanlarda izin verilmez.",
+      "preview": "(1) Ormanlık alanda lojman, idari bina ve sosyal tesislere izin verilmez. (2) Ormanlık alanda yapılması zorunlu olan yollar çevreye zarar ve…",
+      "kitap": null,
+      "kisim": null,
+      "bolum": "DÖRDÜNCÜ BÖLÜM · İzin İşlemlerine İlişkin Hükümler",
+      "ayirim": null,
+      "maddeBaslik": "Kısıtlamalar",
+      "sectionPath": [
+        "DÖRDÜNCÜ BÖLÜM · İzin İşlemlerine İlişkin Hükümler",
+        "Kısıtlamalar"
+      ]
+    },
+    {
+      "id": "yonetmelik:39077:m:26",
+      "maddeKind": "madde",
+      "maddeNo": "26",
+      "heading": "Madde 26",
+      "text": "(1) Değerlendirme Komisyonu, Bakan Yardımcısı başkanlığında, Orman Genel Müdürü, Orman Genel Müdür Yardımcısı ile Genel Müdürlük İzin ve İrtifak Dairesi Başkanından oluşur.\n (2) Değerlendirme komisyonunun görevleri şunlardır:\n a) 8/11/2003 tarihinden önce Bakanlıkça turizm kesin izni verilmiş tesislerin işlemleri ve irtifak hakkı kurulması taleplerini değerlendirmek.\n b) 12/3/1982 tarihli ve 2634 sayılı Turizmi Teşvik Kanununa göre Kültür ve Turizm Bakanlığının tahsis taleplerini değerlendirmek.\n c) Yükseköğretim kurumlarının eğitim ve araştırma maksatlı tesis izin talepleri ile izin verilen bu alan içinde izin sahibi yükseköğretim kurumuna veya Kredi ve Yurtlar Genel Müdürlüğüne yurt yapılması maksadıyla yapılan izin taleplerini değerlendirmek.\n ç) Katı atık bertaraf ve düzenli depolama tesis taleplerini değerlendirmek.\n d) Genel Müdürlükçe değerlendirme komisyonunca değerlendirilmesi talep edilen müracaatları değerlendirmek.\n e) Bu Yönetmeliğe ilişkin iş ve işlemlerde mevzuatta açık hüküm bulunmayan hususları değerlendirmek.\n (3) Değerlendirme komisyonu kararları oy çokluğuyla alınır.\n (4) Değerlendirme komisyonunun sekreterya hizmetlerini, Genel Müdürlük İzin ve İrtifak Dairesi Başkanlığı yürütür.\n BEŞİNCİ BÖLÜM\n 6831 Sayılı Kanunun Ek 11 inci Maddesine İlişkin İşlemler",
+      "preview": "(1) Değerlendirme Komisyonu, Bakan Yardımcısı başkanlığında, Orman Genel Müdürü, Orman Genel Müdür Yardımcısı ile Genel Müdürlük İzin ve İrt…",
+      "kitap": null,
+      "kisim": null,
+      "bolum": "DÖRDÜNCÜ BÖLÜM · İzin İşlemlerine İlişkin Hükümler",
+      "ayirim": null,
+      "maddeBaslik": "Değerlendirme komisyonu ve görevleri",
+      "sectionPath": [
+        "DÖRDÜNCÜ BÖLÜM · İzin İşlemlerine İlişkin Hükümler",
+        "Değerlendirme komisyonu ve görevleri"
+      ]
+    },
+    {
+      "id": "yonetmelik:39077:m:27",
+      "maddeKind": "madde",
+      "maddeNo": "27",
+      "heading": "Madde 27",
+      "text": "(1) Turizm izinleri dışında, sağlık, eğitim ve spor tesisi yapımı maksadıyla verilen izinlere konu asli tesislerin dışındaki kafeterya, kantin, otopark gibi yan ünitelerin, diğer izinlere konu tesislerin tamamının veya bir bölümünün kiralanmasının izin sahibi tarafından talep edilmesi halinde heyetçe konu incelenir. İnceleme raporu düzenlenir. Uygun görülenlere Bakanlıkça izin verilir.\n (2) Sağlık, eğitim, spor, adli hizmet ve ceza infaz kurumu tesisi yapımı maksadıyla verilen izinlere konu asli tesislerin kiralanmasına, işletme hakkının devredilmesine, yap-işlet-devret modeli ile yaptırılmasına izin verilmez. Ancak 8/11/2003 tarihinden önce genel bütçe kapsamındaki kamu idareleri adına araştırma, eğitim ve dinlenme tesisi yapılması maksadıyla verilen izinlerin üçüncü kişilere işlettirilmesine Bakanlıkça izin verilebilir.\n (3) İzne konu tesislerin tamamının veya bir bölümünün üçüncü kişilere kiralanmasına izin verilmesi halinde, izin sahibi;\n a) Kiracı ile arasındaki sözleşmenin noter onaylı bir suretini,\n b) İzin başlangıcında alınan taahhüt senedinde, kira sözleşmesinde belirtilen tarihten itibaren kira bedelinin yüzde ellisinin en geç bir ay içinde olmak üzere her yıl Genel Müdürlük özel bütçe hesabına yatırılacağına, kira sözleşmesinin sona ermesi halinde en geç bir ay içinde orman idaresine bildirileceğine, aksi halde doğacak her türlü hukuki ve mali yükümlülüklerden sorumlu olacağına ilişkin hüküm bulunmaması halinde, bu hususları içeren ek taahhüt senedini orman idaresine verir.\n c) Ancak sağlık, eğitim, yükseköğretim kurumu ve spor tesisi yapımı maksadıyla verilen izinlere konu asli tesislerin dışındaki kafeterya, kantin, otopark gibi yan ünitelerin kiralanması halinde; harp, yangın, deprem, afet, salgın hastalık gibi mücbir sebeplerden kaynaklı kiralanan tesislerin işletilemediğinin belgelendirilmesi durumunda bu süreler için kira bedeli alınmaz.\n (4) Kira bedelinin aylık ödenmesi halinde aylık kira bedeli on iki ile çarpılır bulunan bedelin yüzde ellisi kira sözleşmesinde belirtilen ilk kira ödeme tarihinden itibaren en geç bir ay içinde ödenir.\n (5) Aksi halde verilen kiralama izni resen iptal edilir.",
+      "preview": "(1) Turizm izinleri dışında, sağlık, eğitim ve spor tesisi yapımı maksadıyla verilen izinlere konu asli tesislerin dışındaki kafeterya, kant…",
+      "kitap": null,
+      "kisim": null,
+      "bolum": "DÖRDÜNCÜ BÖLÜM · İzin İşlemlerine İlişkin Hükümler",
+      "ayirim": null,
+      "maddeBaslik": "İzne konu tesislerin kiraya verilmesi",
+      "sectionPath": [
+        "DÖRDÜNCÜ BÖLÜM · İzin İşlemlerine İlişkin Hükümler",
+        "İzne konu tesislerin kiraya verilmesi"
+      ]
+    },
+    {
+      "id": "yonetmelik:39077:m:28",
+      "maddeKind": "madde",
+      "maddeNo": "28",
+      "heading": "Madde 28",
+      "text": "(1) Genel bütçe kapsamındaki kamu idareleri ile diğer kamu kurum ve kuruluşlarına verilen bedelsiz izinlerin, özelleştirme uygulamaları kapsamında işletme hakkının devri hâlinde işletme hakkı devir bedeli üzerinden orman sayılan alanların devredilen toplam kullanım alanları içindeki yüzde oranı dikkate alınarak hesaplanacak tutarın binde beşi bir defaya mahsus olmak üzere işletici tarafından devir alma tarihinden itibaren üç ay içinde defaten Genel Müdürlük özel bütçe hesabına yatırılır.\n (2) Bu izinlerden ayrıca bir bedel alınmaz.\n (3) İzinler, ilgili genel bütçe kapsamındaki kamu idareleri ile diğer kamu kurum ve kuruluşları adına devam eder. Ancak taahhüt senetlerinde yer alan haklar işletme süresi içinde aynı şekilde işleticiler tarafından kullanılır ve yükümlülükler işletme süresi içinde işleticiler tarafından yerine getirilir.\n (4) İzin başlangıcında alınan taahhüt senedinde, taahhüt senetlerinde yer alan hakların işletme süresi içinde aynı şekilde işleticiler tarafından kullanılacağı ve yükümlülüklerin yine işletme süresi içinde işleticiler tarafından yerine getirileceğine ilişkin hüküm bulunmaması halinde işletmeciden ek taahhüt senedi alınır.\n (5) Ancak izinlerin birden fazla olması halinde alınacak ek taahhüt senedi her bir izin için ayrı ayrı alınabileceği gibi tüm izinler için tek bir taahhüt senedi de alınabilir.",
+      "preview": "(1) Genel bütçe kapsamındaki kamu idareleri ile diğer kamu kurum ve kuruluşlarına verilen bedelsiz izinlerin, özelleştirme uygulamaları kaps…",
+      "kitap": null,
+      "kisim": null,
+      "bolum": "DÖRDÜNCÜ BÖLÜM · İzin İşlemlerine İlişkin Hükümler",
+      "ayirim": null,
+      "maddeBaslik": "Bedelsiz izinlerin özelleştirme uygulamaları kapsamında işletme hakkının devri",
+      "sectionPath": [
+        "DÖRDÜNCÜ BÖLÜM · İzin İşlemlerine İlişkin Hükümler",
+        "Bedelsiz izinlerin özelleştirme uygulamaları kapsamında işletme hakkının devri"
+      ]
+    },
+    {
+      "id": "yonetmelik:39077:m:29",
+      "maddeKind": "madde",
+      "maddeNo": "29",
+      "heading": "Madde 29",
+      "text": "(1) Kamu kurum ve kuruluşlarına verilen bedelli izinlerin özelleştirme uygulamaları kapsamında işletme hakkının devri halinde, taahhüt senedinde yer alan bedeller dışında işletme hakkı bedeli üzerinden herhangi bir bedel alınmaz.\n (2) Kamu kurum ve kuruluşları adına verilmiş izinlerin, grup olarak işletme hakkının devri halinde, bu grup içinde yer alan varsa bedelsiz izinler bedelliye dönüştürülür ve buna uygun yeni taahhüt senedi alınır. Bu izinlerden de taahhüt senedinde yer alan bedeller dışında işletme hakkı bedeli üzerinden herhangi bir bedel alınmaz.\n (3) İzinler, ilgili genel bütçe kapsamındaki kamu idareleri ile diğer kamu kurum ve kuruluşları adına devam eder. Ancak taahhüt senetlerinde yer alan haklar işletme süresi içinde aynı şekilde işleticiler tarafından kullanılır ve yükümlülükler yine işletme süresi içinde işleticiler tarafından yerine getirilir. Taahhüt senedinden doğan bedeller işletmeci tarafından yatırılır.\n (4) İzin başlangıcında alınan taahhüt senedinde, taahhüt senetlerinde yer alan hakların işletme süresi içinde aynı şekilde işleticiler tarafından kullanılacağı ve yükümlülüklerin yine işletme süresi içinde işleticiler tarafından yerine getirileceğine ilişkin hüküm bulunmaması halinde işletmeciden, ek taahhüt senedi alınır.\n (5) Ancak izinlerin birden fazla olması halinde alınacak ek taahhüt senedi her bir izin için ayrı ayrı alınabileceği gibi tüm izinler için tek bir taahhüt senedi de alınabilir.",
+      "preview": "(1) Kamu kurum ve kuruluşlarına verilen bedelli izinlerin özelleştirme uygulamaları kapsamında işletme hakkının devri halinde, taahhüt sened…",
+      "kitap": null,
+      "kisim": null,
+      "bolum": "DÖRDÜNCÜ BÖLÜM · İzin İşlemlerine İlişkin Hükümler",
+      "ayirim": null,
+      "maddeBaslik": "Bedelli izinlerin özelleştirme uygulamaları kapsamında işletme hakkının devri",
+      "sectionPath": [
+        "DÖRDÜNCÜ BÖLÜM · İzin İşlemlerine İlişkin Hükümler",
+        "Bedelli izinlerin özelleştirme uygulamaları kapsamında işletme hakkının devri"
+      ]
+    },
+    {
+      "id": "yonetmelik:39077:m:30",
+      "maddeKind": "madde",
+      "maddeNo": "30",
+      "heading": "Madde 30",
+      "text": "(1) Genel bütçe kapsamındaki kamu idareleri ile diğer kamu kurum ve kuruluşlarına verilen izinlere konu tesislerin yap-işlet-devret modeli ile yaptırılması hâlinde işletme hakkı bedeli üzerinden herhangi bir bedel alınmaz.\n (2) İzinler, ilgili genel bütçe kapsamındaki kamu idareleri ile diğer kamu kurum ve kuruluşları adına devam eder. Ancak taahhüt senetlerinde yer alan haklar işletme süresi içinde aynı şekilde işleticiler tarafından kullanılır ve yükümlülükler yine işletme süresi içinde işleticiler tarafından yerine getirilir.\n (3) İzin başlangıcında alınan taahhüt senedinde, taahhüt senetlerinde yer alan hakların işletme süresi içinde aynı şekilde işleticiler tarafından kullanılacağı ve yükümlülüklerin yine işletme süresi içinde işleticiler tarafından yerine getirileceğine ilişkin hüküm bulunmaması halinde, işletmeciden ek taahhüt senedi alınır.\n (4) İzinlerin birden fazla olması halinde alınacak ek taahhüt senedi her bir izin için ayrı ayrı alınabileceği gibi tüm izinler için tek bir taahhüt senedi de alınabilir.",
+      "preview": "(1) Genel bütçe kapsamındaki kamu idareleri ile diğer kamu kurum ve kuruluşlarına verilen izinlere konu tesislerin yap-işlet-devret modeli i…",
+      "kitap": null,
+      "kisim": null,
+      "bolum": "DÖRDÜNCÜ BÖLÜM · İzin İşlemlerine İlişkin Hükümler",
+      "ayirim": null,
+      "maddeBaslik": "Bedelsiz izinlerin yap-işlet-devret modeli ile yaptırılması",
+      "sectionPath": [
+        "DÖRDÜNCÜ BÖLÜM · İzin İşlemlerine İlişkin Hükümler",
+        "Bedelsiz izinlerin yap-işlet-devret modeli ile yaptırılması"
+      ]
+    },
+    {
+      "id": "yonetmelik:39077:m:31",
+      "maddeKind": "madde",
+      "maddeNo": "31",
+      "heading": "Madde 31",
+      "text": "(1) Kamu kurum ve kuruluşlarına verilen bedelli izinlere konu tesislerin yap-işlet-devret modeli esas alınarak yaptırılması ve işlettirilmesi halinde taahhüt senedinde yer alan bedeller dışında herhangi bir bedel alınmaz.\n (2) İzinler, ilgili kamu kurum ve kuruluşları adına devam eder. Ancak taahhüt senetlerinde yer alan haklar işletme süresi içinde aynı şekilde işleticiler tarafından kullanılır ve yükümlülükler yine işletme süresi içinde işleticiler tarafından yerine getirilir. Taahhüt senedinden doğan bedeller işletmeci tarafından yatırılır.\n (3) İzin başlangıcında alınan taahhüt senedinde, taahhüt senetlerinde yer alan hakların işletme süresi içinde aynı şekilde işleticiler tarafından kullanılacağı ve yükümlülüklerin yine işletme süresi içinde işleticiler tarafından yerine getirileceğine ilişkin hüküm bulunmaması halinde işletmeciden, ek taahhüt senedi alınır.\n (4) Ancak izinlerin birden fazla olması halinde alınacak ek taahhüt senedi her bir izin için ayrı ayrı alınabileceği gibi tüm izinler için tek bir taahhüt senedi de alınabilir.",
+      "preview": "(1) Kamu kurum ve kuruluşlarına verilen bedelli izinlere konu tesislerin yap-işlet-devret modeli esas alınarak yaptırılması ve işlettirilmes…",
+      "kitap": null,
+      "kisim": null,
+      "bolum": "DÖRDÜNCÜ BÖLÜM · İzin İşlemlerine İlişkin Hükümler",
+      "ayirim": null,
+      "maddeBaslik": "Bedelli izinlerin yap-işlet-devret modeli ile yaptırılması",
+      "sectionPath": [
+        "DÖRDÜNCÜ BÖLÜM · İzin İşlemlerine İlişkin Hükümler",
+        "Bedelli izinlerin yap-işlet-devret modeli ile yaptırılması"
+      ]
+    },
+    {
+      "id": "yonetmelik:39077:m:32",
+      "maddeKind": "madde",
+      "maddeNo": "32",
+      "heading": "Madde 32",
+      "text": "(1) 6831 sayılı Kanunun ek 11 inci maddesinin yürürlük tarihi olan 13/7/2010 tarihinden önce genel bütçe kapsamındaki kamu idareleri ile diğer kamu kurum ve kuruluşlarına verilen bedelsiz izinlerin işletme hakkının devredilmiş veya izinlere konu tesislerin yap-işlet-devret modeli ile yaptırılmış olması hâlinde herhangi bir bedel alınmaz.\n (2) Kamu kurum ve kuruluşlarına verilen bedelli izinlerde ise taahhüt senedinde yer alan bedeller dışında herhangi bir bedel alınmaz. Taahhüt senedinden doğan bedeller işletmeci tarafından ödenir.\n (3) İzinler, ilgili kamu idareleri veya kamu kurum ve kuruluşları adına devam eder. Ancak taahhüt senetlerinde yer alan haklar işletme süresi içinde aynı şekilde işleticiler tarafından kullanılır ve yükümlülükler yine işletme süresi içinde işleticiler tarafından yerine getirileceğine ilişkin ek taahhüt senedi alınır.\n Kamu özel iş birliği modeli çerçevesinde sağlık ve eğitim tesislerine verilen izinler ve üst hakkı kurulması",
+      "preview": "(1) 6831 sayılı Kanunun ek 11 inci maddesinin yürürlük tarihi olan 13/7/2010 tarihinden önce genel bütçe kapsamındaki kamu idareleri ile diğ…",
+      "kitap": null,
+      "kisim": null,
+      "bolum": "DÖRDÜNCÜ BÖLÜM · İzin İşlemlerine İlişkin Hükümler",
+      "ayirim": null,
+      "maddeBaslik": "Kiralama, işletme hakkı devri, yap-işlet-devret modeli ile yaptırılan mevcut izinler",
+      "sectionPath": [
+        "DÖRDÜNCÜ BÖLÜM · İzin İşlemlerine İlişkin Hükümler",
+        "Kiralama, işletme hakkı devri, yap-işlet-devret modeli ile yaptırılan mevcut izinler"
+      ]
+    },
+    {
+      "id": "yonetmelik:39077:m:33",
+      "maddeKind": "madde",
+      "maddeNo": "33",
+      "heading": "Madde 33",
+      "text": "(1) Sağlık Bakanlığınca sağlık tesislerinin, Milli Eğitim Bakanlığınca eğitim tesislerinin kamu özel iş birliği modeli çerçevesinde yaptırılması veya mevcut izinli tesislerin yenilenmesinin talep edilmesi halinde bu Yönetmeliğe göre izin verilebilir. Ancak yeni izin taleplerinde heyet tarafından öncelikle bozuk orman alanlarından uygun yerler araştırılır, bozuk alan bulunmadığının tespit edilmesi halinde diğer alanlarda da izin verilebilir.\n (2) Verilen izinler için ilgili bakanlıklarca yüklenici adına üst hakkı tesisi talep edilmesi halinde; yüklenici tarafından izinli alana ait cari yıl ağaçlandırma bedelinin yatırılması ve Çevre, Şehircilik ve İklim Değişikliği Bakanlığınca iznin bulunduğu bölge müdürlüğü sınırları içinde izin alanının en az iki katı kadar alanın ağaçlandırılmak üzere Genel Müdürlüğe tahsis edilmesi halinde ilgili bakanlıklarca bildirilen yüklenici adına izin süresi ile sınırlı olmak kaydı ile üst hakkı kurulur. Ancak verilen izin, ilgili bakanlıklar adına devam eder ve taahhüt senedi hükümlerinden orman idaresine karşı sorumlu olduğuna dair yükleniciden ek taahhüt senedi alınır.\n (3) Bu izinlerde yüklenici adına üst hakkı tesis edilmesi aşamasında alınan ağaçlandırma bedeli dışında kira dâhil başkaca bir bedel alınmaz.\n ALTINCI BÖLÜM\n Çeşitli ve Son Hükümler\n Yürürlükten kaldırılan yönetmelik",
+      "preview": "(1) Sağlık Bakanlığınca sağlık tesislerinin, Milli Eğitim Bakanlığınca eğitim tesislerinin kamu özel iş birliği modeli çerçevesinde yaptırıl…",
+      "kitap": null,
+      "kisim": null,
+      "bolum": "DÖRDÜNCÜ BÖLÜM · İzin İşlemlerine İlişkin Hükümler",
+      "ayirim": null,
+      "maddeBaslik": "Kiralama, işletme hakkı devri, yap-işlet-devret modeli ile yaptırılan mevcut izinler",
+      "sectionPath": [
+        "DÖRDÜNCÜ BÖLÜM · İzin İşlemlerine İlişkin Hükümler",
+        "Kiralama, işletme hakkı devri, yap-işlet-devret modeli ile yaptırılan mevcut izinler"
+      ]
+    },
+    {
+      "id": "yonetmelik:39077:m:34",
+      "maddeKind": "madde",
+      "maddeNo": "34",
+      "heading": "Madde 34",
+      "text": "(1) 18/4/2014 tarihli ve 28976 sayılı Resmî Gazete’de yayımlanan Orman Kanununun 17/3 ve 18 inci Maddelerinin Uygulama Yönetmeliği yürürlükten kaldırılmıştır.",
+      "preview": "(1) 18/4/2014 tarihli ve 28976 sayılı Resmî Gazete’de yayımlanan Orman Kanununun 17/3 ve 18 inci Maddelerinin Uygulama Yönetmeliği yürürlükt…",
+      "kitap": null,
+      "kisim": null,
+      "bolum": "DÖRDÜNCÜ BÖLÜM · İzin İşlemlerine İlişkin Hükümler",
+      "ayirim": null,
+      "maddeBaslik": "Kiralama, işletme hakkı devri, yap-işlet-devret modeli ile yaptırılan mevcut izinler",
+      "sectionPath": [
+        "DÖRDÜNCÜ BÖLÜM · İzin İşlemlerine İlişkin Hükümler",
+        "Kiralama, işletme hakkı devri, yap-işlet-devret modeli ile yaptırılan mevcut izinler"
+      ]
+    },
+    {
+      "id": "yonetmelik:39077:m:gecici:1",
+      "maddeKind": "gecici",
+      "maddeNo": "1",
+      "heading": "Geçici Madde 1",
+      "text": "(1) Bu Yönetmeliğin yürürlüğe girmesinden önce verilen izinlerin süre uzatımında ve devirlerinde, ayrıca devam eden izinlerde izin sahibinin talebi halinde; bu Yönetmelik hükümleri uygulanır ve buna uygun taahhüt senedi alınır, geçmişte bedelli verilen izinler bu Yönetmeliğe göre değerlendirildiğinde bedelsiz olması halinde bedelsiz taahhüt senedi alınır.\n (2) Bedelli izinlerde, izin sahibinin talebi üzerine yeni taahhüt senedi düzenlenmesi halinde; taahhüt senedinin düzenlendiği yıla ait arazi izin bedeli, en son tutanak bedeli esas alınarak o yıla ait BAK yayımlanmış ise BAK oranında, yayımlanmamış ise Yİ-ÜFE değişim oranlarında güncellenerek belirlenir, (Değişik ibare:RG-15/2/2023-32105) 7 nci maddenin dördüncü fıkrası uygulanmaz.\n (3) Bu Yönetmeliğin yürürlüğe girmesinden önce verilmiş izinlerde arazi izin bedellerinin arttırılması için uygulanan “Deflatör” veya “Yİ-ÜFE” artış oranı yerine, bu Yönetmeliğin yürürlüğe girmesi ile bu Yönetmelikte belirtilen “BAK” artış oranı uygulanır, bildirime gerek kalmaksızın izin başlangıç tarihinde defaten tahsil edilir.\n (4) Taahhüt senetlerinde müteakip yıllara ait bedellere ilişkin olarak “Deflatör” veya “Yİ-ÜFE” artış oranı dışında bedel artış hükmü bulunan izinlerde en son tanzim edilen tutanakla belirlenen bedel veya artışla ulaşılan bedel o yıla ait BAK yayımlanmış ise BAK oranında, yayımlanmamış ise Yİ-ÜFE değişim oranında artırılarak cari yıl arazi izin bedeli hesaplanır, tutanak tanzim edilir. Devam eden yıl bedelleri bu Yönetmelik hükümlerine göre her yıl BAK oranında artırılarak bildirime gerek kalmaksızın izin başlangıç tarihinde defaten tahsil edilir.\n (5) 6831 sayılı Kanunun 17 nci maddesine göre 8/11/2003 tarihinden önce kesin izne konu edilmiş ancak ilgili maddenin değişmesi sonucu artık izin verilemeyen, turizm ve diğer izinlerin izin hakları devam eder. İzinli saha içinde kalmak kaydıyla mevcut tesislere (Danıştay Sekizinci Dairesinin 3/7/2024 tarihli ve E.:2022/3180 K.:2024/4095 sayılı karar ile iptal edilen ibare: ilave), tadilat, kapasite, tür ve sınıf değişikliği izni Bakanlık onayı ile verilebilir. Değişen madde hükmü gereğince izin verilemeyecek talepler için geçmişte verilmiş ön izinler ise kesin izne dönüştürülemez. Bu ön izinler resen iptal edilmiş sayılır.\n (6) 21/1/2017 tarihinden önce, 5346 sayılı Kanun kapsamındaki yenilenebilir enerji kaynaklarına dayalı elektrik üretim tesisleri ile ilgili Bakanlık tarafından düzenlenen bir maden işletme ruhsatı ve izni kapsamında 3213 sayılı Kanunun 2 nci maddesinin IV. Grup (b) bendinde yer alan madenlerin girdi olarak kullanıldığı elektrik üretim tesislerinde termik santralin işletilmesi esnasında ortaya çıkan katı atıkların bertarafı ve düzenli depolanması için gereken alanlar için verilen izinlerin izin sahipleri ile kamu kurum ve kuruluşlarınca yapılan ve varlık satışı suretiyle özelleştirilen termik santrallerin işletilmesi esnasında ortaya çıkan katı atıkların bertarafı ve düzenli depolanması maksadıyla özelleştirme esnasında verilen izinlerin izin sahipleri tarafından; bu izin işlemleri hakkında Bakanlık veya Genel Müdürlük aleyhine varsa açılmış davalardan tüm yargılama giderleri üstlenilerek kayıtsız ve şartsız olarak feragat edilmesi ve izinden kaynaklanan her türlü mali ve diğer yükümlülüklerin yerine getirilmesi şartıyla, bu izinlere ilişkin taahhüt senetlerinin bedele ilişkin hükümleri, 7 nci maddenin dokuzuncu fıkrasına uyarlanır ve yeniden düzenlenecek taahhüt senetleri, izin sahipleri tarafından orman idaresine teslim edilir. Uyarlamanın yapıldığı tarihten önceki dönemlere ait izin bedellerinde herhangi bir indirim yapılmaz, tahsil edilenler iade edilmez.",
+      "preview": "(1) Bu Yönetmeliğin yürürlüğe girmesinden önce verilen izinlerin süre uzatımında ve devirlerinde, ayrıca devam eden izinlerde izin sahibinin…",
+      "kitap": null,
+      "kisim": null,
+      "bolum": "DÖRDÜNCÜ BÖLÜM · İzin İşlemlerine İlişkin Hükümler",
+      "ayirim": null,
+      "maddeBaslik": "Mevcut izinlerin devamı",
+      "sectionPath": [
+        "DÖRDÜNCÜ BÖLÜM · İzin İşlemlerine İlişkin Hükümler",
+        "Mevcut izinlerin devamı"
+      ]
+    },
+    {
+      "id": "yonetmelik:39077:m:gecici:2",
+      "maddeKind": "gecici",
+      "maddeNo": "2",
+      "heading": "Geçici Madde 2",
+      "text": "(1) 8/11/2003 tarihinden önce verilen turizm izinleriyle ilgili olarak mahkemelerde dava açılması veya müteşebbisin iradesi dışında yatırımın gerçekleştirilmesini imkansız kılacak ve Bakanlık tarafından da uygun görülecek bir idari işlemle karşılaşılması durumunda müteşebbisin;\n a) İzin ve varsa irtifak hakkı süresinin dondurulmasını talep etmesi,\n b) İznin başlangıç tarihi ile iznin dondurulduğu tarih arasında varsa ödenmeyen arazi izin bedeli veya irtifak hakkı tesis edilmiş ise irtifak hakkı bedelini, 6183 sayılı Kanunun 51 inci maddesinde belirtilen oranda hesaplanacak gecikme zammı oranında hesaplanacak faizi ile birlikte ödemesi,\n c) İznin yeniden başlayacağı tarih itibarıyla, Kültür ve Turizm Bakanlığınca tespit edilen; yataklı tesisler için yatak başı, yataksız tesisler için metrekare birim fiyatları ile çarpımı sonucu bulunacak toplam proje bedelinin binde beşi oranında belirlenecek yeni bedelin, o yıla ait arazi izin veya irtifak hakkı bedeli sayılmak üzere, ödeneceğine ilişkin taahhüt senedi vermesi,\n halinde izin veya irtifak hakkı süresi talep tarihi esas alınarak dondurulabilir.\n (2) Dondurulan süre için müteşebbisten arazi izin bedeli veya irtifak hakkı bedeli alınmaz. Dondurulan süre izin süresinden sayılmaz. İzin veya irtifak hakkı süresinin dondurulmasına neden olan sebeplerin ortadan kalkması durumunda izin veya irtifak hakkı süresi kaldığı yerden işlemeye devam eder. Ancak, izin veya irtifak hakkı süresinin dondurulduğu sebepler ortadan kalktığı halde, müteşebbis tarafından orman idaresinin bu durumdan haberdar edilmemesi halinde, geçen süre normal izin veya irtifak hakkı süresinden sayılır ve geçen süre için arazi izin veya irtifak hakkı bedeli 6183 sayılı Kanunun 51 inci maddesinde belirtilen gecikme zammı oranında hesaplanacak faizi ile birlikte alınır. İznin yeniden başlayacağı tarihte Kültür ve Turizm Bakanlığınca tespit edilen; yataklı tesisler için yatak başı, yataksız tesisler için metrekare birim fiyatları ile çarpımı sonucu bulunacak toplam proje bedelinin binde beşi oranında belirlenecek yeni bedel alınır.\n (3) Turizm yatırım/işletme belgesinin iptali halinde, taahhüt senetlerinde aksi hüküm bulunmuş olsa dahi en geç bir yıl içinde alınacak yeni belge orman idaresine verilir. Bu süre uygun görülmesi halinde Bakanlık onayı ile uzatılabilir. Aksi halde izin iptal edilir.\n (4) Tesislerin; inşaatına kesin izin tarihinden itibaren en geç iki yıl içerisinde başlanması ve kesin izin tarihini izleyen beşinci yıl sonunda işletmeye açılması mecburidir. Turizm yatırım belgesinde konu ile ilgili olarak meydana gelecek değişiklikler değerlendirmeye alınacaktır. Ancak, bu süreler; harp, yangın, deprem, toprak kayması gibi mücbir sebepler veya Bakanlığın uygun gördüğü zaruri hallerde Bakanlık onayı ile uzatılabilir.\n (5) İzinli saha içinde kalmak kaydıyla verilecek; bedellendirmeye esas ilave, tadilat, kapasite, tür ve sınıf değişikliği izinlerinde Kültür ve Turizm Bakanlığınca turizm yatırımı türleri için her yıl belirlenen birim maliyetlere göre hesaplanacak ilave proje bedelinin; binde beşi oranında arazi izin bedeli, yüzde üçü (%3) oranında orköy bedeli, yüzde ikisi (%2) oranında erozyon bedeli ile ek taahhüt senedi ve ek teminat alınır. Kapasite, tür ve sınıfın düşmesi halinde bedellerde herhangi bir indirime gidilmez.\n (6) Herhangi bir şekilde irtifak hakkı kurulmamış kesin izinler; tesis işletmeye açılıncaya kadar; izin verilen müteşebbisin, şirket sermayesinin yüzde elli biri (% 51) kendisinde kalması ve izni devir alan tarafından bu Yönetmelik hükümlerine göre güncellenecek arazi izin bedeli, teminat ve yeni taahhüt senedi vermesi, tesisler işletmeye açıldıktan sonra ise devir alan müteşebbislerce bu Yönetmelik hükümlerine göre güncellenecek arazi izin bedeli, teminat ve yeni taahhüt senedi verilmesi kaydıyla, Bakanlıkça devredilebilir.\n (7) Herhangi bir şekilde irtifak hakkı kurulmuş kesin izinler ise tesisin işletmeye açılıp açılmadığına bakılmaksızın, Çevre, Şehircilik ve İklim Değişikliği Bakanlığının uygun görüşünün alınması, bu Yönetmelik hükümlerine göre güncellenecek arazi izin bedeli, teminat ve yeni taahhüt senedi alınması kaydıyla, Bakanlıkça devredilebilir.\n (8) Şirket hisse devri veya unvan değişikliği talep edilmesi halinde; tesis işletmeye açılmış olsun veya olmasın, taahhüt senedi veya resmî senetlerdeki izin ve irtifak hakkı sürelerine bağlı kalmak ve daha önce alınan taahhüt senedi hükümlerinin kabul edildiğine, tüm borç ve taahhütlerinden sorumlu olduğuna dair ek taahhüt alınması kaydıyla Bakanlıkça izin verilebilir.\n (9) Her türlü devir halinde; devredenin devir tarihine kadar, devralanın ise devir tarihinden başlamak üzere izin süresi sonuna kadar bu Yönetmelik ve taahhüt senedi hükümlerinden doğan hukuki ve mali sorumlulukları devam eder.\n (10) Tesisler, müteşebbis tarafından, Bakanlıktan izin alınması kaydıyla üçüncü kişilere işlettirilebilir. Alt ünitelerin üçüncü kişilere işlettirilmesi halinde Bakanlığa bilgi verilir, ancak Bakanlık onayı aranmaz. Kira yoluyla üçüncü şahıslara işlettirilmesi halinde, müteşebbisin kesin izin taahhüt senedi ve irtifak hakkı taahhüt senedindeki sorumlulukları aynen devam eder.\n (11) Ayrıca yapılan yatırımın işletmeye geçtiği tarihten başlamak üzere, yüzde iki (%2) gayrisafi yıllık gelir payı aşağıda izah edildiği şekilde tahsil edilir:\n a) Yüzde iki (%2) hasılat payı; izin verilen arazi üzerinde kurulan işletmelere ait; yılın ilk günü ile son günü arasındaki tahsil edilmiş olsun veya olmasın tahakkuk eden her türlü satış hasılatı, hizmet satış bedelleri, izne esas konu dahilindeki her türlü kira gelirleri, faiz gelirleri ile izin verilen alan içerisinde herhangi bir isim altında elde edilen gelirlerin Hazine ve Maliye Bakanlığı tarafından yayımlanan muhasebe sistemi uygulama genel tebliğleri ile belirlenen tek düzen muhasebe sistemindeki gelir tablosuna esas net satışlar ve gelir tablosu içeriğinde bulunan diğer olağan gelir ve karlar ile diğer olağandışı gelir ve karların toplamının yüzde ikisi (%2)’dir. Takip eden yılın mayıs ayı sonuna kadar izin sahibinden tahsil edilir. Bu tesise ait cari yıl öncesi vergi dairesine sunulan gelir tablosu ile yüzde iki (%2) hasılat payına ait hesaplama cetvelinin 1/6/1989 tarihli ve 3568 sayılı Serbest Muhasebeci Mali Müşavirlik ve Yeminli Mali Müşavirlik Kanununa göre yetkili kılınan yeminli mali müşavire tasdik ettirilmesi zorunludur. Birden çok taahhüt senedi bulunan izinlerde ilk taahhüt senedindeki ödeme tarihi esas alınır. Taahhüt senedinde gelir payının yılın ilk beş ayında ödenmesine dair hüküm bulunanlar taahhüt senetlerine bakılmaksızın mayıs ayında ödeme yapabilir.\n b) İzinli saha üzerinde kurulan tesislerin işletmeciliğinin üçüncü kişi veya kuruluşlara kiraya verilmesi halinde, kiracıların yapacakları kiraya verme işlemleri de dahil olmak üzere, kiraya verenlerden kira bedeli üzerinden, son kiracı olan işleticiden ise yüzde iki (%2) hasılat payı tahsil edilir. Kiracı veya kiracılar işletme hasılatı üzerinden yüzde iki (%2) hasılat payını özel bütçe hesabına yatırmayı taahhüt eder. Taahhüt, kira kontratının tanzim edildiği tarihten itibaren bir ay içinde yapılır. Kiracıların taahhütte bulunmamalarından dolayı bunlardan alınamayan yüzde iki (%2) hasılat payı kiraya verenlerden alınır. Kiracıların yıllık işletme hasılatını beyan etmesi ile yüzde iki (%2) hasılat payını yatırmasında ve tespitinde yatırımcı için öngörülen esaslar uygulanır. Kira üzerinden alınacak işletme hasılatları kira sözleşmelerinde yer alan ödeme tarihinden itibaren en geç bir ay içinde tahsil edilir.\n c) Tesisin kısmen orman sayılan, kısmen orman sayılmayan alanda kurulu olması durumunda yüzde iki (%2) hasılat payı orman sayılan alanın genel alana oranlanması suretiyle hesaplanır. İzinli tesisi de kapsayan birden fazla tesise ait bilançonun tek olarak düzenlenmesi halinde, izinli tesise ait Hazine ve Maliye Bakanlığı tarafından yayımlanan muhasebe sistemi uygulama genel tebliğleri ile belirlenen tek düzen muhasebe sistemindeki gelir tablosu yetkili yeminli mali müşavir tarafından ayrılarak düzenlenir ve onaylı olarak orman idaresine verilir. Alt kiracılar tarafından ilgili vergi dairesine sunulan ve dairesince de onaylanan gelir veya kurumlar vergisi beyannamesindeki gelir tablosu da esas alınabilir.\n (12) Orköy bedeli, 2634 sayılı Kanunun 15 inci maddesine göre tahsil edilir.\n (13) Müteakip yıllara ait arazi izin bedelleri, BAK değişim oranında arttırılmak suretiyle tespit edilerek, bildirime gerek kalmaksızın izin başlangıç tarihinden itibaren en geç bir ay içinde her yıl defaten tahsil edilir.\n (14) Teminat, toplam proje bedelinin yüzde üçü (%3) oranında izin başlangıcında bir defa alınır. Süre uzatımlarında, izin devirlerinde ve on yılda bir güncellenir. Genel bütçe kapsamındaki kamu idareleri ile kamu kurum ve kuruluşlarından teminat alınmaz.\n (15) Yatırımcı tarafından, kesin iznin irtifak hakkına dönüştürülmesinin talep edilmesi halinde Bakanlığın görüşü ile birlikte, bu talep Çevre, Şehircilik ve İklim Değişikliği Bakanlığına gönderilir. Çevre, Şehircilik ve İklim Değişikliği Bakanlığınca da uygun görülmesi halinde, adına kesin izin verilen yatırımcı lehine 6831 sayılı Kanunun 115 inci ve geçici 8 inci maddeleri ile 4721 sayılı Türk Medeni Kanunu hükümlerine göre; irtifak hakkı tesis edilir. Çevre, Şehircilik ve İklim Değişikliği Bakanlığı irtifak hakkının tapuya tescili sırasında kesin izin sözleşmesinde gerekli gördüğü değişiklikleri yapabilir. Kesin iznin irtifak hakkına dönüştürülmesi halinde resmî senet hükümleri uygulanır. Ancak irtifak hakları üzerinde kat irtifakı kurulamaz.\n (16) Kesin izin; sürenin dolması, izin sahibinin vazgeçmesi, bu Yönetmelik veya taahhüt senedi hükümlerine aykırı davranılması, Kültür ve Turizm Bakanlığınca verilen turizm yatırımı/işletmesi belgesinin alınamaması veya bu belgelerden iptal edilmiş olanların yenilenmemiş olması halinde, Bakanlık onayı ile iptal edilerek, sona erer. İptal işlemi ilgiliye tebliğ edilir. Varsa irtifak hakkı da tapudan terkin edilir. Devlet ormanları üzerindeki her türlü bina ve tesisler eksiksiz ve bedelsiz olarak en geç üç ay içinde orman idaresinin tasarrufuna geçer. Söz konusu bina ve tesisler Genel Müdürlükçe değerlendirilir.\n (17) Rayiç değer üzerinden süre uzatımlarında rayiç bedel; Kültür ve Turizm Bakanlığınca tespit edilen; yataklı tesisler için yatak başı, yataksız tesisler için metrekare birim fiyatları ile çarpımı sonucu bulunacak toplam proje bedelinin yüzde beşi (%5)’dir. Bu oran termal ve kış turizmi maksatlı izinlerde yüzde iki buçuk (%2,5)’tur. Rayiç değer üzerinden uzatılan izin sahası içinde ek izin talep edilmesi halinde ilave yapılacak tesislerin bedel hesabı bu fıkraya göre yapılır. İzin süresi, rayiç değer üzerinden yapılan izin süresi uzatımını geçemez. Rayiç değer üzerinden süre uzatımı yapılan iznin herhangi bir şekilde iptal edilmesi halinde verilen ek izinde iptal edilir. Müteakip yıllara ait rayiç bedel BAK oranında artırılarak izin başlangıç tarihinde defaten alınır.\n (18) ATM cihazı gibi hasılatı tespit edilemeyen kiralamalarda izin sahibinden kiralama bedelinin %50’si tahsil edilir. Bu kiralamalardan ayrıca bir bedel alınmaz.\n (19) Kültür ve Turizm Bakanlığınca düzenlenmiş turizm yatırımı veya işletmesi belgeli tesiste meydana gelen tür ve sınıf değişikliklerinde, Kültür ve Turizm Bakanlığınca belgenin düzenlendiği tarih itibarıyla yılı birim maliyetler üzerinden arazi fark izin bedeli; kapasite artışlarında ise, Kültür ve Turizm Bakanlığınca belgenin düzenlendiği tarih itibarıyla artan kapasite için yılı birim maliyetler üzerinden tespit edilen ek arazi izin bedeli tahsil edilir. Kapasite, tür ve sınıfın artması halinde, artışlardan kaynaklanan orköy ve erozyon bedeli, değişikliğin Bakanlıkça uygun görüldüğü tarih esas alınarak ayrıca tahsil edilir.",
+      "preview": "(1) 8/11/2003 tarihinden önce verilen turizm izinleriyle ilgili olarak mahkemelerde dava açılması veya müteşebbisin iradesi dışında yatırımı…",
+      "kitap": null,
+      "kisim": null,
+      "bolum": "DÖRDÜNCÜ BÖLÜM · İzin İşlemlerine İlişkin Hükümler",
+      "ayirim": null,
+      "maddeBaslik": "Kesin izin verilen mevcut turizm izinlerine ilişkin iş ve işlemler",
+      "sectionPath": [
+        "DÖRDÜNCÜ BÖLÜM · İzin İşlemlerine İlişkin Hükümler",
+        "Kesin izin verilen mevcut turizm izinlerine ilişkin iş ve işlemler"
+      ]
+    },
+    {
+      "id": "yonetmelik:39077:m:gecici:3",
+      "maddeKind": "gecici",
+      "maddeNo": "3",
+      "heading": "Geçici Madde 3",
+      "text": "(1) Bu Yönetmeliğin yayımı tarihinden önceki müracaatlardan değerlendirme aşamasında olan taleplere bu Yönetmelik hükümleri uygulanır.\n Büyükşehir belediyesi kurulan yerler ile mülga olan kamu kurum ve kuruluşları adına önceden verilmiş izinler",
+      "preview": "(1) Bu Yönetmeliğin yayımı tarihinden önceki müracaatlardan değerlendirme aşamasında olan taleplere bu Yönetmelik hükümleri uygulanır. Büyük…",
+      "kitap": null,
+      "kisim": null,
+      "bolum": "DÖRDÜNCÜ BÖLÜM · İzin İşlemlerine İlişkin Hükümler",
+      "ayirim": null,
+      "maddeBaslik": "Önceden yapılan müracaatların değerlendirilmesi",
+      "sectionPath": [
+        "DÖRDÜNCÜ BÖLÜM · İzin İşlemlerine İlişkin Hükümler",
+        "Önceden yapılan müracaatların değerlendirilmesi"
+      ]
+    },
+    {
+      "id": "yonetmelik:39077:m:gecici:4",
+      "maddeKind": "gecici",
+      "maddeNo": "4",
+      "heading": "Geçici Madde 4",
+      "text": "(1) Büyükşehir belediyelerinin kuruluşundan önce il özel idareleri, kapanan belediyelere ve köy tüzel kişilikleri adına verilmiş olan izinler aynı hak ve sorumluluklar ile büyükşehir belediyeleri adına devredilmiş sayılır ve büyükşehir belediyeleri adına devam eder. Bu izinlerin taahhüt senetlerindeki yükümlülüklerden orman idaresine karşı büyükşehir belediyeleri sorumludur. Talep halinde bu Yönetmelik hükümleri uygulanır ve buna uygun yeni taahhüt senedi alınır.\n (2) Mülga kamu kurum ve kuruluşlar adına verilmiş izinler, değişen mevzuat gereği bu görevi yürütmek ile görevli kamu kurum ve kuruluşu adına aynı hak ve sorumlukla devam eder.",
+      "preview": "(1) Büyükşehir belediyelerinin kuruluşundan önce il özel idareleri, kapanan belediyelere ve köy tüzel kişilikleri adına verilmiş olan izinle…",
+      "kitap": null,
+      "kisim": null,
+      "bolum": "DÖRDÜNCÜ BÖLÜM · İzin İşlemlerine İlişkin Hükümler",
+      "ayirim": null,
+      "maddeBaslik": "Önceden yapılan müracaatların değerlendirilmesi",
+      "sectionPath": [
+        "DÖRDÜNCÜ BÖLÜM · İzin İşlemlerine İlişkin Hükümler",
+        "Önceden yapılan müracaatların değerlendirilmesi"
+      ]
+    },
+    {
+      "id": "yonetmelik:39077:m:35",
+      "maddeKind": "madde",
+      "maddeNo": "35",
+      "heading": "Madde 35",
+      "text": "(1) Bu Yönetmelik yayımı tarihinde yürürlüğe girer.",
+      "preview": "(1) Bu Yönetmelik yayımı tarihinde yürürlüğe girer.",
+      "kitap": null,
+      "kisim": null,
+      "bolum": "DÖRDÜNCÜ BÖLÜM · İzin İşlemlerine İlişkin Hükümler",
+      "ayirim": null,
+      "maddeBaslik": "Yürürlük",
+      "sectionPath": [
+        "DÖRDÜNCÜ BÖLÜM · İzin İşlemlerine İlişkin Hükümler",
+        "Yürürlük"
+      ]
+    },
+    {
+      "id": "yonetmelik:39077:m:36",
+      "maddeKind": "madde",
+      "maddeNo": "36",
+      "heading": "Madde 36",
+      "text": "(1) Bu Yönetmelik hükümlerini Tarım ve Orman Bakanı yürütür.\n\n Ekleri için tıklayınız.\n\n Yönetmeliğin Yayımlandığı Resmî Gazete’nin\n\n Tarihi\n Sayısı\n\n 30/11/2021\n 31675\n\n Yönetmelikte Değişiklik Yapan Yönetmeliklerin Yayımlandığı Resmî Gazetelerin\n\n Tarihi\n Sayısı\n\n 1.\n 15/2/2023\n 32105\n\n 2.\n\n [1] Danıştay Sekizinci Dairesinin 5/3/2025 tarihli ve E.:2023/2178; K.:2025/1636 sayılı kararı ile bu değişiklik iptal edilmiştir.\n\n [2] Danıştay Sekizinci Dairesinin 5/3/2025 tarihli ve E.:2023/2178; K.:2025/1636 sayılı kararı ile bu değişiklik iptal edilmiştir.",
+      "preview": "(1) Bu Yönetmelik hükümlerini Tarım ve Orman Bakanı yürütür. Ekleri için tıklayınız. Yönetmeliğin Yayımlandığı Resmî Gazete’nin Tarihi Sayıs…",
+      "kitap": null,
+      "kisim": null,
+      "bolum": "DÖRDÜNCÜ BÖLÜM · İzin İşlemlerine İlişkin Hükümler",
+      "ayirim": null,
+      "maddeBaslik": "Yürütme",
+      "sectionPath": [
+        "DÖRDÜNCÜ BÖLÜM · İzin İşlemlerine İlişkin Hükümler",
+        "Yürütme"
+      ]
+    }
+  ]
+}

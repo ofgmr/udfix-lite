@@ -1,0 +1,580 @@
+{
+  "id": "yonetmelik:39647",
+  "kind": "yonetmelik",
+  "no": "39647",
+  "title": "Çevresel Etki Değerlendirmesi Yönetmeliği",
+  "shortName": "ÇED Yön.",
+  "aliases": [
+    "ÇED Yön.",
+    "Çevresel Etki Değerlendirmesi Yönetmeliği",
+    "39647"
+  ],
+  "tur": 7,
+  "tertip": 5,
+  "sourceUrl": "https://www.mevzuat.gov.tr/mevzuat?MevzuatNo=39647&MevzuatTur=7&MevzuatTertip=5",
+  "kabulTarihi": null,
+  "maddeCount": 33,
+  "maddeler": [
+    {
+      "id": "yonetmelik:39647:m:1",
+      "maddeKind": "madde",
+      "maddeNo": "1",
+      "heading": "Madde 1",
+      "text": "(1) Bu Yönetmeliğin amacı, Çevresel Etki Değerlendirmesi (ÇED) sürecinde uyulacak idari ve teknik usul ve esasları düzenlemektir.",
+      "preview": "(1) Bu Yönetmeliğin amacı, Çevresel Etki Değerlendirmesi (ÇED) sürecinde uyulacak idari ve teknik usul ve esasları düzenlemektir.",
+      "kitap": null,
+      "kisim": null,
+      "bolum": "BİRİNCİ BÖLÜM · Başlangıç Hükümleri",
+      "ayirim": null,
+      "maddeBaslik": "Amaç",
+      "sectionPath": [
+        "BİRİNCİ BÖLÜM · Başlangıç Hükümleri",
+        "Amaç"
+      ]
+    },
+    {
+      "id": "yonetmelik:39647:m:2",
+      "maddeKind": "madde",
+      "maddeNo": "2",
+      "heading": "Madde 2",
+      "text": "(1) Bu Yönetmelik;\n a) Çevresel Etki Değerlendirmesi Başvuru Dosyası, Çevresel Etki Değerlendirmesi Raporu ile Proje Tanıtım Dosyasının hangi tür projeler için isteneceği ve içereceği konuları,\n b) Çevresel Etki Değerlendirmesi sürecinde uyulacak idari ve teknik usul ve esasları,\n c) Çevresel Etki Değerlendirmesi kapsamına giren projelerin başvuru, inşaat öncesi, inşaat, işletme ve işletme sonrası izlenmesi, kontrolü ve denetlenmesini,\n ç) Çevresel Etki Değerlendirmesi sisteminin, çevre yönetiminde etkin ve yaygın biçimde uygulanabilmesi ve kurumsal yapısının güçlendirilmesi için gerekli eğitim çalışmalarını,\n kapsar.",
+      "preview": "(1) Bu Yönetmelik; a) Çevresel Etki Değerlendirmesi Başvuru Dosyası, Çevresel Etki Değerlendirmesi Raporu ile Proje Tanıtım Dosyasının hangi…",
+      "kitap": null,
+      "kisim": null,
+      "bolum": "BİRİNCİ BÖLÜM · Başlangıç Hükümleri",
+      "ayirim": null,
+      "maddeBaslik": "Kapsam",
+      "sectionPath": [
+        "BİRİNCİ BÖLÜM · Başlangıç Hükümleri",
+        "Kapsam"
+      ]
+    },
+    {
+      "id": "yonetmelik:39647:m:3",
+      "maddeKind": "madde",
+      "maddeNo": "3",
+      "heading": "Madde 3",
+      "text": "(1) Bu Yönetmelik, 9/8/1983 tarihli ve 2872 sayılı Çevre Kanununun 10 uncu maddesine dayanılarak hazırlanmıştır.",
+      "preview": "(1) Bu Yönetmelik, 9/8/1983 tarihli ve 2872 sayılı Çevre Kanununun 10 uncu maddesine dayanılarak hazırlanmıştır.",
+      "kitap": null,
+      "kisim": null,
+      "bolum": "BİRİNCİ BÖLÜM · Başlangıç Hükümleri",
+      "ayirim": null,
+      "maddeBaslik": "Dayanak",
+      "sectionPath": [
+        "BİRİNCİ BÖLÜM · Başlangıç Hükümleri",
+        "Dayanak"
+      ]
+    },
+    {
+      "id": "yonetmelik:39647:m:4",
+      "maddeKind": "madde",
+      "maddeNo": "4",
+      "heading": "Madde 4",
+      "text": "(1) Bu Yönetmelikte geçen;\n a) Anons: Gerçekleştirilmesi planlanan projenin ÇED süreci hakkında, projeden etkilenecek veya etkilenmesi muhtemel halkın yaşadığı yer/yerlerde, ilgili belediyeler ve muhtarlıklarca yapılan sesli duyuruyu,\n b) (Değişik:RG-26/6/2025-32938) Askıda ilan: Gerçekleştirilmesi planlanan projenin ÇED süreci hakkında, projeden etkilenecek veya etkilenmesi muhtemel halkın yaşadığı yer/yerlerde, il müdürlüğü, kaymakamlık ve muhtarlıkta bulunan askı ilan yerlerinde yapılan yazılı duyuruyu,\n c) Bakanlık: Çevre, Şehircilik ve İklim Değişikliği Bakanlığını,\n ç) Bakanlıkça yeterlik verilmiş kurum/kuruluşlar: Çevresel etki değerlendirmesi başvuru dosyası, çevresel etki değerlendirmesi raporu, proje tanıtım dosyası, proje ilerleme raporu hazırlamak ve sunmak için gerekli şartları taşıyan kurum/kuruluşları,\n d) Başvuru bedeli: Ek-2’deki listede yer alan projelerin proje bedeline göre, Bakanlıkça belirlenmiş olan ve başvuru sırasında proje sahibi veya yetkilisi tarafından ödendiğine dair ibrazı gereken tutarı,\n e) Çevresel etki değerlendirmesi (ÇED): Gerçekleştirilmesi planlanan projelerin çevreye olabilecek olumlu ve olumsuz etkilerinin belirlenmesinde, olumsuz yöndeki etkilerin önlenmesi ya da çevreye zarar vermeyecek ölçüde en aza indirilmesi için alınacak önlemlerin, seçilen yer ile teknoloji alternatiflerinin belirlenerek değerlendirilmesinde ve projelerin uygulanmasının izlenmesi ve kontrolünde sürdürülecek çalışmaları,\n f) Çevresel etki değerlendirmesi başvuru dosyası: Ek-3’te yer alan genel format esas alınarak hazırlanan dosyayı,\n g) Çevresel etki değerlendirmesi genel formatı: Gerçekleştirilmesi planlanan ve Ek-1’deki listede yer alan projelerin özelliklerini, yerini, olası etkilerini ve öngörülen önlemleri içeren ve projeyi genel boyutları ile tanıtan ÇED başvuru dosyasının hazırlanması sırasında esas alınacak Ek-3’teki genel formatı,\n ğ) (Mülga:RG-5/3/2026-33187)\n h) Çevresel etki değerlendirmesi (Değişik ibare:RG-5/3/2026-33187) raporu hazırlanmalıdır kararı: Ek-2’deki listede yer alan çevresel etkileri ön inceleme ve değerlendirmeye tabi projelerin, incelenmesi ve değerlendirilmesi sonucunda çevresel etki değerlendirmesi raporu hazırlanmasının gerektiğini belirten Bakanlık kararını,\n ı) (Danıştay İdari Dava Daireleri Kurulunun 26/10/2023 tarihli ve YD İtiraz No.:2023/796 sayılı kararı ile yürütmesi durdurulan bent) (Yeniden Düzenleme:RG-26/6/2025-32938) Çevresel etki değerlendirmesi proje alanı: Yapılması planlanan projenin ana ve yardımcı ünitelerinin içerisinde bulunduğu koordinatlarla sınırlandırılan alanı,\n i) (Değişik:RG-5/3/2026-33187) Çevresel etki değerlendirmesi olumlu kararı: Çevresel etki değerlendirmesi uygulanacak projelere ait çevresel etki değerlendirmesi raporu hakkında Komisyon tarafından yapılan değerlendirmeler dikkate alınarak, projenin çevre üzerindeki muhtemel olumsuz etkilerinin, alınacak önlemler sonucu ilgili mevzuat ve bilimsel esaslara göre kabul edilebilir düzeylerde olduğunun belirlenmesi üzerine projenin gerçekleşmesinde çevre açısından sakınca görülmediğini belirten Bakanlık kararı ile, Ek-2’deki listede yer alan çevresel etkileri ön inceleme ve değerlendirmeye tabi projelere ait proje tanıtım dosyasının incelenmesi ve değerlendirilmesi sonucunda, projenin çevre üzerindeki muhtemel olumsuz etkilerinin, alınacak önlemler sonucunda ilgili mevzuat ve bilimsel esaslara göre kabul edilebilir düzeyde olduğunun belirlenmesi üzerine, projenin gerçekleşmesinde çevre açısından sakınca görülmediğini belirten Bakanlık kararını,\n j) Çevresel etki değerlendirmesi olumsuz kararı: Çevresel etki değerlendirmesi raporu hakkında Komisyonca yapılan değerlendirmeler dikkate alınarak, projenin çevre üzerindeki muhtemel olumsuz etkileri nedeniyle gerçekleştirilmesinde çevre açısından sakınca görüldüğünü belirten Bakanlık kararını,\n k) Çevresel etki değerlendirmesi raporu: Ek-1’deki listede yer alan veya Bakanlıkça \"Çevresel Etki Değerlendirmesi (Değişik ibare:RG-5/3/2026-33187) Raporu Hazırlanmalıdır kararı verilen bir proje için belirlenen özel formata göre hazırlanacak raporu,\n l) Çevresel etki değerlendirmesi raporu özel formatı: Çevresel etki değerlendirmesi raporunun hazırlanmasında esas alınmak üzere; Komisyon tarafından projenin önemli çevresel boyutları ile halkın bilgilendirilmesi ve sürece katılımı toplantısındaki görüş ve öneriler göz önüne alınmak suretiyle Ek-3’teki çevresel etki değerlendirmesi genel formatında belirtilen ana başlıklar altında ele alınması gereken konuları tanımlayan formatı,\n m) Çevresel etki değerlendirmesi süreci: Gerçekleştirilmesi planlanan projenin çevresel etki değerlendirmesinin yapılması için; başvuru, inşaat öncesi, inşaat, işletme ve işletme sonrası çalışmaları kapsayan süreci,\n n) Çevrimiçi ÇED süreci yönetim sistemi: ÇED sürecindeki iş ve işlemlerin elektronik ortamda gerçekleştirileceği sistemi,\n o) Duyarlı yöreler: Çevresel etkilere karşı biyolojik, fiziksel, ekonomik, sosyal ve kültürel nitelikli özellikleri ile duyarlı olan veya mevcut kirlilik yükü çevre ve halk sağlığını bozucu düzeylere ulaştığı belirlenen yörelerle, ülkemiz mevzuatı ve taraf olunan uluslararası sözleşmeler uyarınca korunması gerekli görülen ve Ek-5’te yer alan alanları,\n ö) Denetim: Gerçekleştirilmesi planlanan projeye dair (Mülga ibare:RG-5/3/2026-33187) \"Çevresel Etki Değerlendirmesi Olumlu\" kararı alındıktan sonra, (Mülga ibare:RG-5/3/2026-33187) inşaat, işletme ve işletme sonrası dönemine ilişkin, kararın verilmesine esas teşkil eden şartlar doğrultusunda yürütülüp yürütülmediğinin tespit edilmesine yönelik çalışmaların bütününü,\n p) Entegre Proje: Bu Yönetmeliğe tabi olan, faaliyet konuları veya işlevleri açısından birbirine bağlı ve tamamlayıcı nitelikteki birden fazla faaliyeti kapsayan projeleri,\n r) Etki: Gerçekleştirilmesi planlanan bir projenin; hazırlık, inşaat ve işletme sırasında ya da işletme sonrasında, çevre unsurlarında doğrudan ya da dolaylı olarak, kısa veya uzun dönemde, geçici ya da kalıcı, olumlu ya da olumsuz yönde ortaya çıkması olası değişiklikleri,\n s) Etki alanı: Gerçekleştirilmesi planlanan bir projenin işletme öncesi, işletme döneminde ve işletme sonrasında etkilediği alanı,\n ş) Halk: Türkiye Cumhuriyeti vatandaşları ile Türkiye’de ikamet eden yabancıları,\n t) Halkın bilgilendirilmesi ve sürece katılımı: ÇED sürecinin başlangıcından sonuna kadar, halkı proje hakkında bilgilendirmek, projeye ilişkin görüş ve önerilerini almak üzere paydaş katılım planında detayları belirlenen her türlü etkinliği, (broşür, tanıtıcı film, resmi duyuru, toplantı, bilgilendirme ofisi ve benzeri),\n u) İlgili halk: Gerçekleştirilmesi planlanan projeden etkilenen veya etkilenmesi muhtemel olan halkı,\n ü) İl müdürlüğü: Çevre, Şehircilik ve İklim Değişikliği İl Müdürlüğünü,\n v) Kapsam dışı: Niteliği, prosesi, türü, üretim yöntemi vb. itibariyle, bu Yönetmelikte yer almayan veya bu Yönetmelikte yer almasına rağmen Ek-1 ve Ek-2’deki listelerde belirlenen eşik değerlerin altında planlanan projeleri,\n y) Kapsam ve özel format belirleme: ÇED sürecine tabi projeler için halkın bilgilendirilmesi ve sürece katılımı toplantısından sonra format verme aşamasına kadar yapılacak iş ve işlemleri,\n z) Komisyon: Proje için verilecek özel formatın kapsamını belirlemek ve hazırlanan ÇED raporunu inceleyip değerlendirmek üzere Bakanlık tarafından kurulan Komisyonu,\n aa) Kümülatif etki değerlendirme: Yapılması planlanan projenin, planlandığı alan ile projeden doğrudan etkilenecek alanlar veya kaynaklar üzerinde oluşturabileceği çevresel risk ve etkilerinin; mevcut, planlanan veya proje ile doğrudan ilgisi olabilecek diğer faaliyetlerle birlikte belirlenmesi ve analiz edilmesini,\n bb) Mücbir sebep: (Değişik ibare:RG-5/3/2026-33187) ÇED Olumlu kararı verilmiş olan projeler için bu Yönetmelikte tanımlanmış olan karar geçerlik süresi içerisinde yatırıma başlanılmasına doğrudan engel teşkil edecek; doğal afet, olağanüstü hal, idari yargı kararları (projenin tamamının yapılmasını etkileyecek şekilde yürütmenin durdurulması/iptal kararı varsa) gibi dıştan gelen fiili bir durumu,\n cc) Özel format bedeli: (Değişik ibare:RG-5/3/2026-33187) 7 nci ve 24 üncü maddeler kapsamında ÇED başvuru dosyası Bakanlığa sunulan projelerin proje bedeline göre, Bakanlıkça belirlenmiş olan ve ÇED raporu özel formatı verilebilmesi için proje sahibi veya yetkilisi tarafından ödendiğine dair ibrazı gereken tutarı,\n çç) Paydaş katılım planı: Planlanan projenin tüm aşamalarında, projeden etkilenebilecek veya projeyi etkileyebilecek ya da proje ile ilgisi olabilecek tüzel/gerçek kişilerle (paydaşlarla) ne şekilde, hangi yöntemler ve araçlar kullanılarak iletişim kurulacağının ve bilgilendirme yapılacağının açıklandığı planı,\n dd) Proje: Gerçekleştirilmesi planlanan yatırımı,\n ee) Proje bedeli: Proje kapsamında, fiili olarak sahada yapılacak ünitelerin/tesislerin asgari yatırım tutarını (Arazi edinimi, saha düzenlemesi, bina-inşaat giderleri, makine-ekipman ile teçhizat giderleri, kurulum maliyetleri ve benzeri),\n ff) (Değişik:RG-5/3/2026-33187) Proje ilerleme raporu: ÇED raporu hazırlanarak ÇED Olumlu kararı alındıktan sonra, komisyonca belirlenen periyotlarda yatırımın inşaat dönemine ilişkin kaydedilen gelişmeleri içeren raporu,\n gg) Proje sahibi: Projeyi gerçekleştirecek gerçek veya tüzel kişiyi,\n ğğ) Proje tanıtım dosyası: Çevresel etkileri ön inceleme ve değerlendirmeye tabi projeler için Ek-4’te yer alan genel format esas alınarak hazırlanan dosyayı,\n hh) Yatırıma başlama: Yapılması planlanan proje için alınmış olan (Değişik ibare:RG-5/3/2026-33187) ÇED Olumlu kararı sonrasında, karara konu projede yer alan ana veya yardımcı ünitelerinin, mer’i mevzuat kapsamında gerekli izinleri alındıktan sonra inşa faaliyetlerine başlanılmasını veya üretime geçilmesini,\n ıı) Yatırım süreci izleme: Gerçekleştirilmesi planlanan projeye dair \"Çevresel Etki Değerlendirmesi Olumlu\" kararı alındıktan sonra, proje ilerleme raporuna göre yapılan değerlendirmeleri,\n ii) (Ek:RG-5/3/2026-33187) Muaf: Niteliği, prosesi, türü, üretim yöntemi itibarıyla Ek-1 ve Ek-2’deki listelerde yer alan, ancak işletmeye veya üretime geçtiği tarihte yürürlükte olan, bu Yönetmelikte yer almayan veya bu Yönetmelik hükümlerine göre kazanılmış hakları sebebiyle bu Yönetmelik hükümleri uygulanmayan projeleri,\n jj) (Ek:RG-5/3/2026-33187) Özel işleme tabi atık: Atık yönetimi uygulamaları kapsamında özel yönetimi olan atık elektrikli ve elektronik eşyalar, atık pil ve akümülatörler, ömrünü tamamlamış araçlar, ömrünü tamamlamış lastikler, atık yağlar ve bitkisel atık yağları,\n kk) (Ek:RG-5/3/2026-33187) Proje revizyon başvuru bedeli: ÇED Olumlu kararı verilmiş olan ve karara esas ÇED proje alanı sınırları içerisinde, kapasite artışı olmaksızın ana ve/veya yardımcı ünitelerinde alansal revizyon planlanan projelerin başvurusu ile ilgili Bakanlıkça belirlenmiş olan ve proje sahibi veya yetkilisi tarafından ödenmesi ve ibrazı gereken tutarı,\n ifade eder.",
+      "preview": "(1) Bu Yönetmelikte geçen; a) Anons: Gerçekleştirilmesi planlanan projenin ÇED süreci hakkında, projeden etkilenecek veya etkilenmesi muhtem…",
+      "kitap": null,
+      "kisim": null,
+      "bolum": "BİRİNCİ BÖLÜM · Başlangıç Hükümleri",
+      "ayirim": null,
+      "maddeBaslik": "Tanımlar",
+      "sectionPath": [
+        "BİRİNCİ BÖLÜM · Başlangıç Hükümleri",
+        "Tanımlar"
+      ]
+    },
+    {
+      "id": "yonetmelik:39647:m:5",
+      "maddeKind": "madde",
+      "maddeNo": "5",
+      "heading": "Madde 5",
+      "text": "(1) (Değişik:RG-5/3/2026-33187) Bu Yönetmeliğe tabi projeler hakkında “ÇED Olumlu”, “ÇED Olumsuz” ve “ÇED Raporu Hazırlanmalıdır” kararlarını verme yetkisi Bakanlığa aittir. Ancak Bakanlık gerekli gördüğü durumlarda Ek-2’deki listede yer alan projeler için “ÇED Olumlu” ve/veya “ÇED Raporu Hazırlanmalıdır” kararının verilmesi konusundaki yetkisini, sınırlarını belirleyerek il müdürlüğüne devredebilir.\n (2) Bu Yönetmelik hükümlerine göre (Değişik ibare:RG-5/3/2026-33187) “ÇED Olumlu” kararı tesis edilmeden önce;\n a) Projenin gerçekleştirilmesinin ilgili mevzuat bakımından uygun olmadığının tespiti halinde, ÇED süreci aşamasına bakılmaksızın sonlandırılır. ÇED sürecinin sonlandırıldığı Bakanlık ve il müdürlüğü internet sayfasından ilan edilir.\n b) Proje sahibi veya yetkili temsilcisinin talep etmesi halinde ÇED süreci, aşamasına bakılmaksızın sonlandırılır. ÇED sürecinin sonlandırıldığı Bakanlık ve il müdürlüğü tarafından internet sayfasından ilan edilir.\n Çevresel etki değerlendirmesi başvuru dosyası, çevresel etki değerlendirmesi raporu veya proje tanıtım dosyası hazırlama yükümlülüğü",
+      "preview": "(1) (Değişik:RG-5/3/2026-33187) Bu Yönetmeliğe tabi projeler hakkında “ÇED Olumlu”, “ÇED Olumsuz” ve “ÇED Raporu Hazırlanmalıdır” kararların…",
+      "kitap": null,
+      "kisim": null,
+      "bolum": "İKİNCİ BÖLÜM · Genel Hükümler",
+      "ayirim": null,
+      "maddeBaslik": "Yetki",
+      "sectionPath": [
+        "İKİNCİ BÖLÜM · Genel Hükümler",
+        "Yetki"
+      ]
+    },
+    {
+      "id": "yonetmelik:39647:m:6",
+      "maddeKind": "madde",
+      "maddeNo": "6",
+      "heading": "Madde 6",
+      "text": "(1) Bu Yönetmelik kapsamındaki bir projeyi gerçekleştirmeyi planlayan gerçek veya tüzel kişiler; Çevresel Etki Değerlendirmesine tabi projeleri için; ÇED Başvuru Dosyasını ve ÇED Raporunu, Çevresel Etkileri Ön İnceleme ve Değerlendirmeye Tabi Projeleri için de Proje Tanıtım Dosyasını, Bakanlıkça yeterlik verilmiş kurum/kuruluşlara hazırlatmak, ilgili makama sunulmasını sağlamak ve proje kapsamında verdikleri taahhütlere uymakla yükümlüdürler.\n (2) Kamu kurum/kuruluşları, bu Yönetmelik hükümlerinin yerine getirilmesi sürecinde proje sahiplerinin veya Bakanlıkça yeterlik verilmiş kurum/kuruluşların isteyeceği konuya ilişkin her türlü bilgi, doküman ve görüşü vermekle yükümlüdürler.\n (3) Bu Yönetmeliğe tabi projeler için \"Çevresel Etki Değerlendirmesi Olumlu\" kararı (Mülga ibare:RG-5/3/2026-33187) alınmadıkça bu projelerle ilgili teşvik, onay, izin, yapı ve kullanım ruhsatı verilemez, proje için yatırıma başlanamaz ve ihale edilemez. Ancak bu durum söz konusu teşvik, onay, izin ve ruhsat süreçlerine başvurulmasına engel teşkil etmez.",
+      "preview": "(1) Bu Yönetmelik kapsamındaki bir projeyi gerçekleştirmeyi planlayan gerçek veya tüzel kişiler; Çevresel Etki Değerlendirmesine tabi projel…",
+      "kitap": null,
+      "kisim": null,
+      "bolum": "İKİNCİ BÖLÜM · Genel Hükümler",
+      "ayirim": null,
+      "maddeBaslik": "Yetki",
+      "sectionPath": [
+        "İKİNCİ BÖLÜM · Genel Hükümler",
+        "Yetki"
+      ]
+    },
+    {
+      "id": "yonetmelik:39647:m:7",
+      "maddeKind": "madde",
+      "maddeNo": "7",
+      "heading": "Madde 7",
+      "text": "(1) Bu Yönetmeliğin;\n a) Ek-1’deki listede yer alan projelere,\n b) (Değişik ibare:RG-5/3/2026-33187) “ÇED Raporu Hazırlanmalıdır” kararı verilen projelere,\n c) Kapsam dışı değerlendirilen veya (Mülga ibare:RG-5/3/2026-33187) muafiyeti bulunan projelere ilişkin kapasite artırımı ve/veya alan genişletilmesinin planlanması halinde, mevcut proje kapasitesi ve kapasite artışları toplamı ile birlikte projenin yeni kapasitesinin Ek-1’deki listede yer aldığı projelere,\n ÇED raporu hazırlanması zorunludur.",
+      "preview": "(1) Bu Yönetmeliğin; a) Ek-1’deki listede yer alan projelere, b) (Değişik ibare:RG-5/3/2026-33187) “ÇED Raporu Hazırlanmalıdır” kararı veril…",
+      "kitap": null,
+      "kisim": null,
+      "bolum": "ÜÇÜNCÜ BÖLÜM · Çevresel Etki Değerlendirmesi Yöntemi",
+      "ayirim": null,
+      "maddeBaslik": "Çevresel etki değerlendirmesi uygulanacak projeler",
+      "sectionPath": [
+        "ÜÇÜNCÜ BÖLÜM · Çevresel Etki Değerlendirmesi Yöntemi",
+        "Çevresel etki değerlendirmesi uygulanacak projeler"
+      ]
+    },
+    {
+      "id": "yonetmelik:39647:m:8",
+      "maddeKind": "madde",
+      "maddeNo": "8",
+      "heading": "Madde 8",
+      "text": "(1) 7 nci maddede tanımlanmış projeler ile ilgili olarak; proje sahibi tarafından vekâleten yetkilendirilen ve Bakanlıkça verilmiş yeterlik belgesi bulunan kurum/kuruluşlar, Ek-3’te yer alan ÇED genel formatı esas alınarak hazırlanmış ÇED başvuru dosyasını Bakanlığa sunar.\n (2) Bakanlık, başvuru dosyasındaki bilgi ve belgeleri genel formata uygunluk bakımından inceler. Bu işlemler 5 iş günü içinde tamamlanır. Ek-3’te yer alan ÇED genel formatına uygun hazırlanmadığı anlaşılan ÇED başvuru dosyası, eksiklikleri tamamlanmak üzere iade edilir. İade edilen ÇED başvuru dosyası (Değişik ibare:RG-5/3/2026-33187) 30 takvim günü içinde yeniden sunulmazsa ÇED süreci sonlandırılır. (Ek cümle:RG-5/3/2026-33187) Eksikliklerin tamamlanması için verilen 30 takvim günlük süre Bakanlıkça yeterlik verilmiş kurum/kuruluşların kullanacağı toplam süreyi ifade eder.\n (3) İnceleme sonucunda, başvuru dosyasının Ek-3’te yer alan genel formata uygun hazırlandığına karar verilmesi halinde, Bakanlık tarafından başvuru dosyasındaki bilgiler dikkate alınarak, ilgili kamu kurum ve kuruluşları ile Bakanlık yetkililerinden oluşan bir Komisyon kurulur. (Danıştay Dördüncü Dairesinin 6/11/2025 tarihli ve E.:2023/11530; K.:2025/5827 sayılı kararı ile iptal cümle; ÇED süreci içerisinde gerek görülmesi halinde komisyona üye eklenebilir veya çıkarılabilir.)\n (4) (Değişik:RG-26/6/2025-32938) Proje ile ilgili olarak başvurunun yapıldığı, ÇED sürecinin başladığı, ÇED başvuru dosyasının halkın görüşüne açıldığı ve ÇED süreci tamamlanana kadar projeye ilişkin görüş ve önerilerin il müdürlüğüne veya Bakanlığa verilebileceğine dair duyuru, Bakanlık ve il müdürlüğü internet sayfasında ilan edilir. Ayrıca il müdürlüğü tarafından askıda ilan, anons ve benzeri şekilde de halka duyurulur.\n (5) Bakanlık, halkın bilgilendirilmesi ve sürece katılımı amacıyla yapılacak toplantının tarihini ve ÇED raporu özel formatının belirlenmesi için görüş verilmesi gereken nihai tarihi belirten bir yazıyı komisyon üyelerine gönderir. Ek-3’te yer alan genel format doğrultusunda hazırlanmış ÇED başvuru dosyası Komisyon üyelerine gönderilir.\n (6) Bakanlık, gerekli gördüğü hallerde, projenin konusu, türü ve proje için belirlenen yerin özelliklerini de dikkate alarak; üniversiteler, enstitüler, araştırma ve uzman kuruluşları, meslek odaları, sendikalar, birlikler, sivil toplum örgütlerini de komisyona dâhil edebilir ve toplantılarına üye olarak çağırabilir.\n (7) Komisyonda kurum ve kuruluş temsilcisi olarak görev yapan üyelerin, yeterli mesleki bilgi ve deneyime sahip olmaları ve temsil ettikleri kurum/kuruluşların görev alanlarıyla sınırlı olmak üzere görüş vermeye yetkili kılınmış olmaları esastır.",
+      "preview": "(1) 7 nci maddede tanımlanmış projeler ile ilgili olarak; proje sahibi tarafından vekâleten yetkilendirilen ve Bakanlıkça verilmiş yeterlik…",
+      "kitap": null,
+      "kisim": null,
+      "bolum": "ÜÇÜNCÜ BÖLÜM · Çevresel Etki Değerlendirmesi Yöntemi",
+      "ayirim": null,
+      "maddeBaslik": "Çevresel etki değerlendirmesi sürecinin başlatılması ve komisyonun kuruluşu",
+      "sectionPath": [
+        "ÜÇÜNCÜ BÖLÜM · Çevresel Etki Değerlendirmesi Yöntemi",
+        "Çevresel etki değerlendirmesi sürecinin başlatılması ve komisyonun kuruluşu"
+      ]
+    },
+    {
+      "id": "yonetmelik:39647:m:9",
+      "maddeKind": "madde",
+      "maddeNo": "9",
+      "heading": "Madde 9",
+      "text": "(1) Halkı yatırım hakkında bilgilendirmek, projeye ilişkin görüş ve önerilerini almak üzere; Bakanlıkça yeterlik verilmiş kurum/kuruluşlar ve (Değişik ibare:RG-5/3/2026-33187) proje sahibi ya da yetkili temsilcisinin katılımı ile Bakanlıkça belirlenen tarihte, projeden en çok etkilenmesi beklenen ilgili halkın kolaylıkla ulaşabileceği il müdürlüğü tarafından belirlenen merkezi bir yer ve saatte halkın bilgilendirilmesi ve sürece katılımı toplantısı düzenlenir. (Ek cümleler:RG-5/3/2026-33187) Toplantı, Bakanlık ve il müdürlüğü tarafından internet sayfasında ilan edilir. Ayrıca il müdürlüğü tarafından projeden en çok etkilenmesi beklenen yerlerde gerekli yazışmalar yapılarak askıda ilan veya anons yoluyla da halka duyurulur. Toplantıya Bakanlıkça yeterlik verilmiş kurum/kuruluşlar ile proje sahibi ya da yetkili temsilcisinin katılımının olmaması durumunda toplantı bir defaya mahsus ertelenir ve Bakanlıkça belirlenen yeni bir tarihte toplantı düzenlenir. Yeni tarihte düzenlenen toplantıya Bakanlıkça yeterlik verilmiş kurum/kuruluşlar ile proje sahibi ya da yetkili temsilcisinin ikinci defa katılımının olmaması durumunda ÇED süreci sonlandırılır.\n (2) Bakanlıkça yeterlik verilmiş kurum/kuruluşlar toplantı tarihini, saatini, yerini ve konusunu belirten bir ilanı; projenin gerçekleştirileceği yörede yayımlanan yerel süreli yayın ile birlikte yaygın süreli yayın olarak tanımlanan bir gazetede toplantı tarihinden en az 10 takvim günü önce yayımlatır.\n (3) Halkın bilgilendirilmesi ve sürece katılımı toplantısı, il müdürünün veya görevlendireceği bir yetkilinin başkanlığında yapılır. Toplantıda halkın; proje hakkında bilgilendirilmesi, görüş, öneri ve sorularının alınması sağlanır. Halk tarafından dile getirilen görüş, öneri ve itirazlar toplantı hakkında düzenlenecek tutanakta belirtilir. Toplantı başkanı, katılımcılardan görüşlerini yazılı olarak vermelerini isteyebilir. (Değişik cümle:RG-5/3/2026-33187) Proje yeri inceleme ve toplantı tutanakları, bir sureti il müdürlüğünde kalmak üzere son görüş verme tarihine kadar Çevrimiçi ÇED Süreci Yönetim Sistemine yüklenir.\n (4) Komisyon üyeleri, özel format belirleme öncesinde, projenin planlandığı alanı inceleyebilir, bildirilen tarihte düzenlenecek halkın bilgilendirilmesi ve sürece katılımı toplantısına katılabilirler.\n (5) Halkı, proje ve etkileri hakkında bilgilendirmek, halkın projeye ilişkin görüş ve önerilerini almak üzere, Bakanlıkça yeterlik verilmiş kurum/kuruluşlar tarafından paydaş katılım planı (PKP) hazırlanır. Hazırlanan paydaş katılım planı ÇED başvuru dosyası ekinde sunulur. Bakanlık gerekli gördüğü durumlarda, yeterlik verilmiş kurum/kuruluşlardan halkın bilgilendirilmesine yönelik olarak ÇED süreci boyunca; bilgilendirici broşür dağıtılması, anket, seminer gibi çalışmalar yapılması veya proje ile ilgili internet sitesi hazırlanarak bilgi paylaşılması gibi ilave çalışmalar yapmasını da isteyebilir. Ayrıca Bakanlık tarafından talep edilmesi halinde ÇED süreci içerisinde bu plan güncellenir.",
+      "preview": "(1) Halkı yatırım hakkında bilgilendirmek, projeye ilişkin görüş ve önerilerini almak üzere; Bakanlıkça yeterlik verilmiş kurum/kuruluşlar v…",
+      "kitap": null,
+      "kisim": null,
+      "bolum": "ÜÇÜNCÜ BÖLÜM · Çevresel Etki Değerlendirmesi Yöntemi",
+      "ayirim": null,
+      "maddeBaslik": "Halkın bilgilendirilmesi ve sürece katılımı toplantısı",
+      "sectionPath": [
+        "ÜÇÜNCÜ BÖLÜM · Çevresel Etki Değerlendirmesi Yöntemi",
+        "Halkın bilgilendirilmesi ve sürece katılımı toplantısı"
+      ]
+    },
+    {
+      "id": "yonetmelik:39647:m:10",
+      "maddeKind": "madde",
+      "maddeNo": "10",
+      "heading": "Madde 10",
+      "text": "(1) Komisyon üyesi kurum/kuruluşların görüş ve önerileri ile halktan gelen görüş ve öneriler doğrultusunda Bakanlıkça ÇED raporu özel formatı hazırlanır.\n (2) (Değişik:RG-5/3/2026-33187) ÇED raporu özel formatı, Bakanlık tarafından format için komisyon üyelerine yazılı olarak bildirilen son görüş verme tarihinden itibaren 30 takvim günü içerisinde Çevrimiçi ÇED Süreci Yönetim Sistemine yüklenir. Özel format bedeli, son görüş verme tarihinden itibaren ve yatırıldığı tarihteki özel format bedeline göre 30 takvim günü içerisinde yatırılmaz ise ÇED süreci sonlandırılır.\n (3) (Değişik:RG-5/3/2026-33187) Format bedelinin yatırıldığına ilişkin dekontun Çevrimiçi ÇED Süreci Yönetim Sistemine yüklenmesinden sonra, Bakanlıkça 7 iş günü içerisinde özel format verilir.\n (4) (Değişik:RG-5/3/2026-33187) Bakanlıkça yeterlik verilmiş kurum/kuruluşlar özel formatın veriliş tarihinden itibaren 1 yıl içerisinde ÇED raporunu Bakanlığa sunmakla yükümlüdür. 1 yıllık süre bitmeden talep edilmesi halinde bir defaya mahsus en fazla 180 takvim günü ek süre verilebilir. Belirtilen süreler içerisinde ÇED raporu sunulmaz ise ÇED süreci sonlandırılır.",
+      "preview": "(1) Komisyon üyesi kurum/kuruluşların görüş ve önerileri ile halktan gelen görüş ve öneriler doğrultusunda Bakanlıkça ÇED raporu özel format…",
+      "kitap": null,
+      "kisim": null,
+      "bolum": "ÜÇÜNCÜ BÖLÜM · Çevresel Etki Değerlendirmesi Yöntemi",
+      "ayirim": null,
+      "maddeBaslik": "Çevresel etki değerlendirmesi raporu özel formatının belirlenmesi",
+      "sectionPath": [
+        "ÜÇÜNCÜ BÖLÜM · Çevresel Etki Değerlendirmesi Yöntemi",
+        "Çevresel etki değerlendirmesi raporu özel formatının belirlenmesi"
+      ]
+    },
+    {
+      "id": "yonetmelik:39647:m:11",
+      "maddeKind": "madde",
+      "maddeNo": "11",
+      "heading": "Madde 11",
+      "text": "(1) Bakanlıkça yeterlik verilmiş kurum/kuruluşlar tarafından hazırlanan ÇED raporu Bakanlığa sunulur. ÇED raporunun özel formatına uygunluğu ve belirlenen çalışma grubunda yer alması gereken meslek uzmanlarınca hazırlanıp hazırlanmadığı hakkındaki inceleme Bakanlık tarafından 7 iş günü içinde sonuçlandırılır. ÇED raporunun özel formatına uygun olmadığı ve/veya belirlenen çalışma grubunca hazırlanmadığının anlaşılması halinde ÇED raporu iade edilir. İade edilen ÇED raporunun eksiklikleri tamamlanarak 30 takvim günü içerisinde Bakanlığa sunulması gerekmektedir. Süresi içerisinde sunulmaması halinde ÇED süreci sonlandırılır. ÇED raporunun tamamlanması için verilen 30 takvim günlük süre (Değişik ibare:RG-5/3/2026-33187) Bakanlıkça yeterlik verilmiş kurum/kuruluşların kullanacağı toplam süreyi ifade eder.\n (2) Bakanlıkça verilen özel formata uygun hazırlandığı tespit edilen ÇED raporu hakkında görüşlerinin alınması amacıyla, toplantı tarihini ve yerini belirten bir yazı ile komisyon üyeleri (Değişik:RG-5/3/2026-33187) komisyon toplantısına davet edilir. Bakanlığa sunulan ÇED raporu, komisyon üyelerine gönderilir.\n (3) Proje ile ilgili inceleme değerlendirme sürecinin başladığı ve ÇED raporunun halkın görüşüne açıldığı, Bakanlık ve il müdürlüğü tarafından internet sayfasından ilan edilir. Ayrıca (Ek ibare:RG-5/3/2026-33187) il müdürlüğü tarafından askıda ilan veya anons yoluyla da halka duyurulur.\n (4) İlgililer, ÇED raporunu ilan edilmesinden itibaren rapor hakkında görüş ve önerilerini Bakanlığa veya il müdürlüğüne bildirebilirler. İl müdürlüğüne bildirilen görüşler Bakanlığa iletilir. Bu görüşler komisyon tarafından dikkate alınır ve Bakanlıkça yeterlik verilmiş kurum/kuruluşlar tarafından son şekli verilen ÇED raporuna yansıtılır.",
+      "preview": "(1) Bakanlıkça yeterlik verilmiş kurum/kuruluşlar tarafından hazırlanan ÇED raporu Bakanlığa sunulur. ÇED raporunun özel formatına uygunluğu…",
+      "kitap": null,
+      "kisim": null,
+      "bolum": "ÜÇÜNCÜ BÖLÜM · Çevresel Etki Değerlendirmesi Yöntemi",
+      "ayirim": null,
+      "maddeBaslik": "Çevresel etki değerlendirmesi raporunun Bakanlığa sunulması",
+      "sectionPath": [
+        "ÜÇÜNCÜ BÖLÜM · Çevresel Etki Değerlendirmesi Yöntemi",
+        "Çevresel etki değerlendirmesi raporunun Bakanlığa sunulması"
+      ]
+    },
+    {
+      "id": "yonetmelik:39647:m:12",
+      "maddeKind": "madde",
+      "maddeNo": "12",
+      "heading": "Madde 12",
+      "text": "(1) (Değişik ibare:RG-5/3/2026-33187) Komisyon, toplantı günü ve saatine kadar görüşünü yazılı olarak bildiren üyeler dâhil salt çoğunluk ile toplanır. Komisyon üyeleri, temsil ettikleri kurum/kuruluşu ilgilendiren konulardaki yetki, görev ve sorumlulukları çerçevesinde görevlendirilirler ve kurum/kuruluşları adına görüş bildirirler. Komisyon başkanı toplantıda üyelerden görüşlerini yazılı olarak vermelerini isteyebilir. Yazılı görüş veren kurum/kuruluş temsilcilerinin sonraki toplantılara katılmamaya ilişkin istemleri Komisyon başkanınca değerlendirilir. (Ek cümle:RG-5/3/2026-33187) Komisyon üyesi kurum/kuruluşlar, görüşlerini ayrıca Çevrimiçi ÇED Süreci Yönetim Sistemine de yükler.\n (2) İnceleme değerlendirme toplantı tarihinden itibaren 30 takvim günü içerisinde görüş bildirmeyen kurum/kuruluşun görüşü olumlu kabul edilir. Görüş bildirmek için ilave süreye ihtiyaç duyulması halinde talep ilgili komisyon üyesi tarafından yazılı olarak Bakanlığa iletilir. Kurum/kuruluşların ilave süre talepleri Bakanlık tarafından dikkate alınır.\n (3) (Değişik:RG-5/3/2026-33187) Proje sahibi ya da yetkili temsilcisi ile Bakanlıkça yeterlik verilmiş kurum/kuruluşlar, komisyon üyelerini bilgilendirmek için toplantılarda hazır bulunurlar. Proje sahibi ya da yetkili temsilcisi ile Bakanlıkça yeterlik verilmiş kurum/kuruluşların hazır bulunmaması durumunda toplantı bir defaya mahsus ertelenir ve Bakanlıkça belirlenen yeni bir tarihte toplantı düzenlenir. Yeni tarihte düzenlenen toplantıya proje sahibi ya da yetkili temsilcisi ile Bakanlıkça yeterlik verilmiş kurum/kuruluşların ikinci defa hazır bulunmaması durumunda ÇED süreci sonlandırılır. Gerekli hallerde komisyon toplantıları elektronik ortamda video konferans ve benzeri yöntemle de yapılabilir. Toplantının düzenlenme şekli komisyon üyelerine gönderilen davet yazısında belirtilir.\n (4) Komisyon, Bakanlıkça yeterlik verilmiş kurum/kuruluşlardan proje ile ilgili geniş kapsamlı bilgi vermesini, araç gereç sağlamasını, konusu itibarıyla Bakanlıkça ya da Bakanlıkça yeterlik verilmiş özel veya kamuya ait kurum/kuruluşların laboratuvarlarınca analiz, deney ve ölçümler yapmasını veya yaptırmasını isteyebilir.\n (5) Su, toprak ve benzeri analizlerde, tartışmalı durum olması halinde şahit numuneye başvurulabilir. Bu işlemlerin sonuçlarını Bakanlıkça yeterlik verilmiş kurum/kuruluşlar Bakanlığa sunmakla yükümlüdürler.\n (6) Komisyon gerekli görürse, görevlendireceği üyeleri aracılığı ile projenin gerçekleştirilmesi planlanan yerde ve benzer tesislerde inceleme yapabilir.\n (7) ÇED raporunda önemli eksiklik ve yanlışların görülmesi durumunda Komisyon, bunların giderilmesini Bakanlıkça yeterlik verilmiş kurum/kuruluşlardan veya ilgili kurumlardan ister. Bu durumda, inceleme ve değerlendirme süreci durdurulur. Eksiklikler tamamlanmadan veya gerekli düzeltmeler yapılmadan Komisyon çalışmalarına devam edilmez.\n (8) (Değişik:RG-5/3/2026-33187) Bakanlıkça yeterlik verilmiş kurum/kuruluşlar süreci durdurulan projelerde 180 takvim günü içerisinde eksiklikleri tamamlamak veya gerekli düzeltmeleri yapmakla yükümlüdür. Belirtilen süre içerisinde ÇED raporu sunulmaz ise ÇED süreci sonlandırılır.\n (9) Bakanlıkça yeterlik verilmiş kurum/kuruluşların ÇED raporunda gerekli görülen düzeltmeleri yapıp yeniden Bakanlığa sunmasından sonra; (Ek ibare:RG-5/3/2026-33187) toplantı tarihini ve yerini belirten bir yazı ile Komisyon toplantıya çağırılır. Toplantının yapılması ile birlikte inceleme ve değerlendirme süreci kaldığı yerden işlemeye başlar.\n (10) Birinci toplantıda ÇED süreci durdurulmuş olan ve dokuzuncu fıkradaki şartları sağlayarak süreci kaldığı yerden tekrar başlatılan projelerde;\n a) ÇED raporu içerisinde yapılan düzeltmenin Komisyonun ikinci toplantısında yeterli bulunmaması halinde süreç durdurma işlemi 1 kez daha yapılabilir. İkinci süreç durdurma işleminden sonra eksiklikleri tamamlanmış ÇED raporunun (Değişik ibare:RG-5/3/2026-33187) 90 takvim günü içerisinde Bakanlığa sunulması gerekmektedir. Sunulmaması halinde ÇED süreci sonlandırılır.\n b) İkinci süreç durdurma işleminden sonra (a) bendinde verilen sürede ÇED raporunun Bakanlığa sunulması halinde, istenilen çalışmaların yapılıp yapılmadığının tespiti için son kez (üçüncü kez) komisyon üyeleri toplantıya çağrılır. Bu durumda yapılacak komisyon toplantısında raporda yapılan düzeltmelerin yeterli bulunması halinde ÇED raporuna son şekli verilir. Yeterli bulunmaması halinde yeni bir komisyon toplantısı yapılmayacağı tutanak altına alınır ve ÇED süreci sonlandırılır.\n (11) Komisyon tarafından, inceleme ve değerlendirme toplantıları sırasında;\n a) ÇED Raporu ve eklerinin yeterli ve uygun olup olmadığına,\n b) Yapılan incelemelerin, hesaplamaların ve değerlendirmelerin yeterli düzeyde veri, bilgi ve belgeye dayandırılıp dayandırılmadığına,\n c) Projenin çevreye olabilecek etkilerinin kapsamlı bir şekilde incelenip incelenmediğine,\n ç) Çevreye olabilecek olumsuz etkilerin giderilmesi için gerekli önlemlerin yer alınıp alınmadığına,\n d) Halktan gelen görüş ve önerilere çözüm getirilip getirilmediğine,\n ilişkin inceleme ve değerlendirmeler yapılır.\n (12) Fiziki ortamda katılım ile gerçekleştirilen toplantılarda, toplantı sonucunu belirten tutanak Bakanlık tarafından düzenlenir ve komisyon üyeleri tarafından imza altına alınır. Toplantının video konferans ve benzeri yöntemler ile elektronik ortamda yapılması halinde ise; yazılı görüş bildiren veya uzaktan erişim ile katılım sağlayan kurum/kuruluşları ve toplantı sonucunu belirten tutanak Bakanlık tarafından düzenlenir.\n Komisyon tarafından incelenerek son şekli verilen çevresel etki değerlendirmesi raporu ve ilgili dokümanların Bakanlığa sunulması",
+      "preview": "(1) (Değişik ibare:RG-5/3/2026-33187) Komisyon, toplantı günü ve saatine kadar görüşünü yazılı olarak bildiren üyeler dâhil salt çoğunluk il…",
+      "kitap": null,
+      "kisim": null,
+      "bolum": "ÜÇÜNCÜ BÖLÜM · Çevresel Etki Değerlendirmesi Yöntemi",
+      "ayirim": null,
+      "maddeBaslik": "Komisyonun çalışma usulü ve çevresel etki değerlendirmesi raporunun incelenmesi",
+      "sectionPath": [
+        "ÜÇÜNCÜ BÖLÜM · Çevresel Etki Değerlendirmesi Yöntemi",
+        "Komisyonun çalışma usulü ve çevresel etki değerlendirmesi raporunun incelenmesi"
+      ]
+    },
+    {
+      "id": "yonetmelik:39647:m:13",
+      "maddeKind": "madde",
+      "maddeNo": "13",
+      "heading": "Madde 13",
+      "text": "(Değişik:RG-5/3/2026-33187)\n (1) Komisyon tarafından incelenerek son şekli verilen ÇED raporu, Bakanlıkça yeterlik verilmiş kurum/kuruluşlar tarafından komisyon toplantılarının sona erdirilmesinden sonraki 10 takvim günü içerisinde Bakanlığa sunulur. Belirtilen süre içerisinde ÇED raporu sunulmaz ise ÇED süreci sonlandırılır.\n (2) Sunulan raporda eksiklik tespit edilmesi durumunda rapor iade edilir. İade edilen rapordaki eksikliklerin iade tarihinden itibaren 60 takvim günü içerisinde tamamlanmaması halinde ÇED süreci sonlandırılır. Son şekli verilen ÇED raporunun tamamlanması için verilen 60 takvim günlük süre Bakanlıkça yeterlik verilmiş kurum/kuruluşların kullanacağı toplam süreyi ifade eder.",
+      "preview": "(Değişik:RG-5/3/2026-33187) (1) Komisyon tarafından incelenerek son şekli verilen ÇED raporu, Bakanlıkça yeterlik verilmiş kurum/kuruluşlar…",
+      "kitap": null,
+      "kisim": null,
+      "bolum": "ÜÇÜNCÜ BÖLÜM · Çevresel Etki Değerlendirmesi Yöntemi",
+      "ayirim": null,
+      "maddeBaslik": "Komisyonun çalışma usulü ve çevresel etki değerlendirmesi raporunun incelenmesi",
+      "sectionPath": [
+        "ÜÇÜNCÜ BÖLÜM · Çevresel Etki Değerlendirmesi Yöntemi",
+        "Komisyonun çalışma usulü ve çevresel etki değerlendirmesi raporunun incelenmesi"
+      ]
+    },
+    {
+      "id": "yonetmelik:39647:m:14",
+      "maddeKind": "madde",
+      "maddeNo": "14",
+      "heading": "Madde 14",
+      "text": "(1) Komisyon tarafından incelenerek son şekli verilen ÇED raporu, halkın görüş ve önerilerini almak üzere, Bakanlık ve/veya il müdürlüğü tarafından askıda ilan ve internet aracılığı ile 10 takvim günü görüşe açılır. Bakanlıkça proje ile ilgili karar alma sürecinde bu görüşler de değerlendirilir. Bakanlık halktan gelen görüşler doğrultusunda, rapor içeriğinde gerekli eksikliklerin tamamlanmasını, ek çalışmalar yapılmasını ya da Komisyonun yeniden toplanmasını isteyebilir. Nihai ÇED raporu ve eklerinin proje sahibinin taahhüdü altında olduğunu belirten taahhüt yazısı ve taahhüdü imzalayan yetkilinin noter onaylı imza sirküleri ile (Değişik ibare:RG-5/3/2026-33187) onaylı Türkiye Ticaret Sicili Gazetesi 5 iş günü içerisinde Bakanlığa sunulur. (Ek cümle:RG-5/3/2026-33187) Belirtilen belgelerin tamamlanması için verilen 5 iş günlük süre Bakanlıkça yeterlik verilmiş kurum/kuruluşların kullanacağı toplam süreyi ifade eder. Kamu kurum/kuruluşlarından noter onaylı imza sirküleri ile (Değişik ibare:RG-5/3/2026-33187) onaylı Türkiye Ticaret Sicili Gazetesi istenmez.\n (2) Birinci fıkrada belirtilen belgeler, süresi içerisinde gerekçesi belirtilmeden sunulmaz ise projenin ÇED süreci sonlandırılır.\n (3) Bakanlık, Komisyon çalışmalarını ve halkın görüşlerini dikkate alarak proje için \"ÇED Olumlu\" ya da \"ÇED Olumsuz\" kararı verir. Verilen karar görüşü alınan komisyon üyesi kurum/kuruluşlara, proje sahibine ve Bakanlıkça yeterlik verilmiş kurum/kuruluşlara bildirilir. (Ek cümle:RG-5/3/2026-33187) “ÇED Olumlu” kararı verilen projelerde, ilgili kurum/kuruluşların da kendi mevzuatı kapsamında izin işlemleri ile izleme ve denetim faaliyetlerini gerçekleştirme sorumluluğu bulunmakta olup komisyon üyesi kurum/kuruluş görüşlerindeki hususlara/taahhütlere aykırı işlem yapıldığının ilgili kurum/kuruluş tarafından Bakanlığa veya ilgili il müdürlüğüne bildirilmesi halinde 2872 sayılı Kanunun ilgili hükümlerine göre ayrıca işlem tesis edilir.\n (4) Proje için verilen \"ÇED Olumlu\" ya da \"ÇED Olumsuz\" kararı, karar tarihinden itibaren Bakanlık ve il müdürlüğü internet sitesinde süresiz, askıda 30 takvim günü ilan edilerek halka duyurulur.\n (5) \"ÇED Olumlu\" kararı verilen proje için 5 yıl içinde mücbir sebep bulunmaksızın yatırıma başlanmaması durumunda \"ÇED Olumlu\" kararı geçersiz sayılır.\n (6) Yatırıma başlanılmamış olan projeler için verilen ÇED Olumlu kararları, proje sahibinin talebi ve talebin Bakanlık tarafından uygun görülmesi halinde geçersiz sayılır. Bu şekilde geçersiz sayılan kararlar Bakanlık ve il müdürlüğü tarafından internet sayfasında ilan edilir.",
+      "preview": "(1) Komisyon tarafından incelenerek son şekli verilen ÇED raporu, halkın görüş ve önerilerini almak üzere, Bakanlık ve/veya il müdürlüğü tar…",
+      "kitap": null,
+      "kisim": null,
+      "bolum": "ÜÇÜNCÜ BÖLÜM · Çevresel Etki Değerlendirmesi Yöntemi",
+      "ayirim": null,
+      "maddeBaslik": "Çevresel etki değerlendirmesi olumlu veya çevresel etki değerlendirmesi olumsuz kararı",
+      "sectionPath": [
+        "ÜÇÜNCÜ BÖLÜM · Çevresel Etki Değerlendirmesi Yöntemi",
+        "Çevresel etki değerlendirmesi olumlu veya çevresel etki değerlendirmesi olumsuz kararı"
+      ]
+    },
+    {
+      "id": "yonetmelik:39647:m:15",
+      "maddeKind": "madde",
+      "maddeNo": "15",
+      "heading": "Madde 15",
+      "text": "(1) Bu Yönetmeliğin;\n a) Ek-2’deki listede yer alan projeler,\n b) Kapsam dışı değerlendirilen veya (Mülga ibare:RG-5/3/2026-33187) muafiyeti bulunan projelere ilişkin kapasite artırımı ve/veya genişletilmesinin planlanması halinde, mevcut proje kapasitesi ve kapasite artışları toplamı ile birlikte projenin yeni kapasitesi Ek-2’deki listede belirtilen projeler,\n için proje tanıtım dosyası hazırlanması zorunludur.",
+      "preview": "(1) Bu Yönetmeliğin; a) Ek-2’deki listede yer alan projeler, b) Kapsam dışı değerlendirilen veya (Mülga ibare:RG-5/3/2026-33187) muafiyeti b…",
+      "kitap": null,
+      "kisim": null,
+      "bolum": "DÖRDÜNCÜ BÖLÜM · Ön İnceleme ve Değerlendirme Yöntemi",
+      "ayirim": null,
+      "maddeBaslik": "Çevresel etkileri ön inceleme ve değerlendirmeye tabi projeler",
+      "sectionPath": [
+        "DÖRDÜNCÜ BÖLÜM · Ön İnceleme ve Değerlendirme Yöntemi",
+        "Çevresel etkileri ön inceleme ve değerlendirmeye tabi projeler"
+      ]
+    },
+    {
+      "id": "yonetmelik:39647:m:16",
+      "maddeKind": "madde",
+      "maddeNo": "16",
+      "heading": "Madde 16",
+      "text": "(1) 15 inci maddede tanımlanmış projelerin çevresel etkilerinin incelenmesi amacıyla, proje sahibi tarafından vekâleten yetkilendirilen ve Bakanlıkça yeterlik verilmiş olan kurum/kuruluşlar tarafından; Ek-4’te yer alan formata göre proje tanıtım dosyası hazırlanır. Hazırlanan proje tanıtım dosyası, proje tanıtım dosyasında ve eklerinde yer alan bilgi ve belgelerin doğru olduğunu belirtir proje sahibince onaylı taahhüt yazısı ile başvuru bedelinin ödendiğine dair dekontla birlikte Bakanlığa sunulur.\n (2) Bakanlık, proje için hazırlanan proje tanıtım dosyasını Ek-4’te yer alan format çerçevesinde 5 iş günü içinde inceler. Formata uygun hazırlanmadığı tespit edilen proje tanıtım dosyası, tamamlanmak üzere iade edilir. Eksiklikleri tamamlanan dosya 15 takvim günü içinde yeniden Bakanlığa sunulur. Sunulmaması durumunda ÇED süreci sonlandırılır. Formata uygun hazırlandığı tespit edilen proje tanıtım dosyasına konu proje ile ilgili ÇED inceleme değerlendirme süreci başlatılır.\n (3) Formata uygun hazırlandığı tespit edilen ve (Ek ibare:RG-5/3/2026-33187) Bakanlıkça proje yeri incelemesi yapılarak ÇED inceleme ve değerlendirme süreci başlatılan projelerde;\n a) Kurum/kuruluş görüşü alınmasına ve toplantı düzenlenmesine gerek duyulmaması, hazırlanan dosyanın yeterli bulunması ve benzeri durumlarda, Bakanlık tarafından 15 iş günü içinde ÇED inceleme ve değerlendirme süreci tamamlanarak karar aşamasına geçilir.\n b) Bakanlık tarafından gerekli görülmesi halinde, dosyadaki bilgiler dikkate alınarak ilgili kurum/kuruluşlardan yazılı görüş istenebilir veya ilgili kurum/kuruluşlarla toplantı düzenlenebilir. Yazılı görüş istenilmesi halinde görüş talep yazı tarihinden itibaren, toplantı düzenlenmesi halinde ise toplantı tarihinden itibaren 30 takvim günü içerisinde görüş bildirmeyen kurum/kuruluşun görüşü olumlu kabul edilir. Görüş bildirmek için ilave süreye ihtiyaç duyulması halinde talep ilgili komisyon üyesi tarafından yazılı olarak Bakanlığa iletilir. Kurum/kuruluşların ilave süre talepleri Bakanlık tarafından dikkate alınır. (Ek cümle:RG-5/3/2026-33187) Komisyon üyesi kurum/kuruluşlar, görüşlerini ayrıca Çevrimiçi ÇED Süreci Yönetim Sistemine de yükler.\n c) Bakanlıkça gerekli görülmesi halinde yeterlik verilmiş kurum/kuruluşlardan proje ile ilgili geniş kapsamlı bilgi vermesi, araç gereç sağlaması, analiz, deney ve ölçümler yapması veya yaptırması istenebilir.\n (4) Bakanlıkça; dosyada tespit edilen eksiklikler veya yer alması gereken bilgi/belgeler ile alınmış olan kurum/kuruluş görüşleri, yeterlik verilmiş kurum/kuruluşa yazılı olarak iletilir. Bakanlıkça iletilen görüşler doğrultusunda yeterlik sahibi kurum/kuruluş tarafından hazırlanan proje tanıtım dosyası (Değişik ibare:RG-5/3/2026-33187) 180 takvim günü içinde Bakanlığa sunulur. Bu süre içerisinde proje tanıtım dosyası sunulmazsa ÇED süreci sonlandırılır.\n (5) Eksiklik bildirimi Bakanlık tarafından en çok 3 kez yapılabilir. İade edilen proje tanıtım dosyası süresi içerisinde sunulmaz veya yapılan düzeltme yeterli görülmezse ÇED süreci sonlandırılır. Eksiklik bildirilen proje tanıtım dosyasının tamamlanması için verilen (Değişik ibare:RG-5/3/2026-33187) 180 takvim günlük süre Bakanlıkça yeterlik verilmiş kurum/kuruluşların kullanacağı toplam süreyi ifade eder.\n (6) Proje tanıtım dosyasının, belirtilen süre içinde sunulması ve bilgi/belgelerin yeterli bulunması halinde karar aşamasına geçilir.\n Çevresel etkileri ön inceleme ve değerlendirmeye tabi projeler için ÇED olumlu veya ÇED raporu hazırlanmalıdır kararı",
+      "preview": "(1) 15 inci maddede tanımlanmış projelerin çevresel etkilerinin incelenmesi amacıyla, proje sahibi tarafından vekâleten yetkilendirilen ve B…",
+      "kitap": null,
+      "kisim": null,
+      "bolum": "DÖRDÜNCÜ BÖLÜM · Ön İnceleme ve Değerlendirme Yöntemi",
+      "ayirim": null,
+      "maddeBaslik": "Başvuru ve inceleme",
+      "sectionPath": [
+        "DÖRDÜNCÜ BÖLÜM · Ön İnceleme ve Değerlendirme Yöntemi",
+        "Başvuru ve inceleme"
+      ]
+    },
+    {
+      "id": "yonetmelik:39647:m:17",
+      "maddeKind": "madde",
+      "maddeNo": "17",
+      "heading": "Madde 17",
+      "text": "(Başlığı ile Birlikte Değişik:RG-5/3/2026-33187)\n (1) Bakanlık, inceleme değerlendirme süreci tamamlanarak karar aşamasına geçilen proje hakkında 5 iş günü içinde “ÇED Olumlu” veya “ÇED Raporu Hazırlanmalıdır” kararını verir. Verilen karar il müdürlüğüne, görüş alınan kurum/kuruluşlara, proje sahibine ve Bakanlıkça yeterlik verilmiş kurum/kuruluşlara bildirilir. Bu karar il müdürlüğü tarafından internet sayfasında süresiz ve askıda 30 takvim günü ilan edilerek halka duyurulur. “ÇED Olumlu” kararı verilen projelerde, ilgili kurum/kuruluşların da kendi mevzuatı kapsamında izin işlemleri ile izleme ve denetim faaliyetlerini gerçekleştirme sorumluluğu bulunmakta olup komisyon üyesi kurum/kuruluş görüşlerindeki hususlara/taahhütlere aykırı işlem yapıldığının ilgili kurum/kuruluş tarafından Bakanlığımıza veya ilgili il müdürlüğüne bildirilmesi halinde 2872 sayılı Kanunun ilgili hükümlerine göre ayrıca işlem tesis edilir.\n (2) “ÇED Olumlu” kararı verilen proje için 5 yıl içinde mücbir sebep bulunmaksızın yatırıma başlanmaması durumunda “ÇED Olumlu” kararı geçersiz sayılır. Bu şekilde geçersiz sayılan kararlar Bakanlık ve il müdürlüğü tarafından internet sayfasında ilan edilir.\n (3) Yatırıma başlanılmamış olan projeler için verilen “ÇED Olumlu” kararları, proje sahibinin talebi ve talebin Bakanlık tarafından uygun görülmesi halinde geçersiz sayılır. Bu şekilde geçersiz sayılan kararlar Bakanlık ve il müdürlüğü tarafından internet sayfasında ilan edilir.\n (4) “ÇED Raporu Hazırlanmalıdır” kararı verilen projeler için ÇED başvuru dosyası hazırlanarak Bakanlığa başvuru yapılması gerekir. Ancak, “ÇED Raporu Hazırlanmalıdır” kararına esas şartların değişmesi halinde, 15 inci madde hükümlerine göre yeniden başvuru yapılabilir.",
+      "preview": "(Başlığı ile Birlikte Değişik:RG-5/3/2026-33187) (1) Bakanlık, inceleme değerlendirme süreci tamamlanarak karar aşamasına geçilen proje hakk…",
+      "kitap": null,
+      "kisim": null,
+      "bolum": "DÖRDÜNCÜ BÖLÜM · Ön İnceleme ve Değerlendirme Yöntemi",
+      "ayirim": null,
+      "maddeBaslik": "Başvuru ve inceleme",
+      "sectionPath": [
+        "DÖRDÜNCÜ BÖLÜM · Ön İnceleme ve Değerlendirme Yöntemi",
+        "Başvuru ve inceleme"
+      ]
+    },
+    {
+      "id": "yonetmelik:39647:m:18",
+      "maddeKind": "madde",
+      "maddeNo": "18",
+      "heading": "Madde 18",
+      "text": "(1) (Değişik:RG-5/3/2026-33187) Bakanlık, “ÇED Olumlu” kararı verilen projelerle ilgili olarak, “ÇED Olumlu” kararına esas nihai ÇED raporunda veya proje tanıtım dosyasında taahhüt edilen hususların yerine getirilip getirilmediğini izler, kontrol eder ve denetler. Bakanlık, nihai ÇED raporuna esas proje ilerleme raporlarında belirtilen iş ve işlemlerin doğruluğunu kontrol eder.\n (2) Bakanlık birinci fıkradaki görevleri yerine getirirken gerekli görmesi durumunda ilgili kurum/kuruluşlarla işbirliği yapar.\n (3) Proje sahibi \"ÇED Olumlu\" (Mülga ibare:RG-5/3/2026-33187) kararını aldıktan sonra, projede planlanan bu Yönetmeliğe tabi değişiklikleri Bakanlığa veya ilgili il müdürlüğüne bildirmekle yükümlüdür.\n (4) (Ek ibare:RG-5/3/2026-33187) ÇED raporu hazırlanarak “ÇED Olumlu” kararı verilen projelerin proje sahibi; komisyonca belirlenen periyotlarda yatırımda kaydedilen gelişmeleri içeren proje ilerleme raporunu, Bakanlıkça yeterlik verilen ve söz konusu projenin ÇED raporunun hazırlanmasında görev almayan kurum/kuruluşlara hazırlatarak elektronik sisteme yüklemek ve Bakanlık denetimlerinde sunmakla yükümlüdür. Yükümlülüğün yerine getirilmesine yönelik yöntem Bakanlıkça belirlenir.",
+      "preview": "(1) (Değişik:RG-5/3/2026-33187) Bakanlık, “ÇED Olumlu” kararı verilen projelerle ilgili olarak, “ÇED Olumlu” kararına esas nihai ÇED raporun…",
+      "kitap": null,
+      "kisim": null,
+      "bolum": "BEŞİNCİ BÖLÜM · İzleme ve Denetim",
+      "ayirim": null,
+      "maddeBaslik": "Yatırımın izlenmesi ve denetimi",
+      "sectionPath": [
+        "BEŞİNCİ BÖLÜM · İzleme ve Denetim",
+        "Yatırımın izlenmesi ve denetimi"
+      ]
+    },
+    {
+      "id": "yonetmelik:39647:m:19",
+      "maddeKind": "madde",
+      "maddeNo": "19",
+      "heading": "Madde 19",
+      "text": "(1) Bu Yönetmelik kapsamındaki projelerde;\n a) (Değişik:RG-5/3/2026-33187) Çevresel Etki Değerlendirmesi Uygulanacak Projeler kapsamında yer alan ve “ÇED Olumlu” kararı alınmadan başlanan faaliyetler Bakanlıkça veya Bakanlığın yazılı talimatı ile doğrudan il müdürlüğü tarafından, Çevresel Etkileri Ön İnceleme ve Değerlendirmeye Tabi Projeler kapsamında yer alan ve “ÇED Olumlu” kararı alınmadan başlanan faaliyetler ise mahallin en büyük mülki amiri tarafından süre verilmeksizin durdurulur. “ÇED Olumlu” kararı alınmadıkça yatırıma ilişkin durdurma kararı kaldırılmaz. “ÇED Olumlu” kararı alınmaz ise yatırımcı faaliyet alanını eski haline getirmekle yükümlüdür. Bu konuda 2872 sayılı Kanunun ilgili hükümlerine göre işlem tesis edilir.\n b) “ÇED Olumlu” kararı (Mülga ibare:RG-5/3/2026-33187) verildikten sonra, proje sahibi tarafından nihai ÇED raporu veya proje tanıtım dosyasında taahhüt edilen hususlara uyulmadığının tespit edilmesi durumunda söz konusu taahhütlere uyulması için projeyle ilgili Bakanlıkça/il müdürlüğünce bir defaya mahsus olmak üzere ve bir yılı aşmamak üzere süre verilebilir. Bu süre sonunda taahhüt edilen hususlara uyulmaz ise yatırım durdurulur. Yükümlülükler yerine getirilmedikçe durdurma kararı kaldırılmaz. Bu konuda 2872 sayılı Kanunun ilgili hükümlerine göre işlem tesis edilir.",
+      "preview": "(1) Bu Yönetmelik kapsamındaki projelerde; a) (Değişik:RG-5/3/2026-33187) Çevresel Etki Değerlendirmesi Uygulanacak Projeler kapsamında yer…",
+      "kitap": null,
+      "kisim": null,
+      "bolum": "BEŞİNCİ BÖLÜM · İzleme ve Denetim",
+      "ayirim": null,
+      "maddeBaslik": "Bu Yönetmeliğe aykırı uygulamaların durdurulması",
+      "sectionPath": [
+        "BEŞİNCİ BÖLÜM · İzleme ve Denetim",
+        "Bu Yönetmeliğe aykırı uygulamaların durdurulması"
+      ]
+    },
+    {
+      "id": "yonetmelik:39647:m:20",
+      "maddeKind": "madde",
+      "maddeNo": "20",
+      "heading": "Madde 20",
+      "text": "(1) \"ÇED Olumlu\" (Mülga ibare:RG-5/3/2026-33187) kararı bulunan ve eşik değeri olan projelerde yapılacak kapasite artışı ve/veya alan genişletilmesinin planlanması durumunda, her bir kapasite artışı miktarının mevcut proje kapasitesi ile toplanması ve bu toplamın;\n a) Ek-1’deki listede yer alan eşik değer ve üzerinde kalması durumunda, 8 inci madde kapsamında başvuru yapılması gerekmektedir.\n b) Ek-2’deki listede yer alan eşik değer ve üzerinde kalması durumunda, 16 ncı madde kapsamında başvuru yapılması gerekmektedir.\n (2) “ÇED Olumlu” (Mülga ibare:RG-5/3/2026-33187) kararı bulunan projelerde kapasite artışı ve/veya genişletilmesinin planlanması halinde, planlanan projenin etkileri, mevcut karara esas çevresel etkiler ile birlikte kümülatif olarak değerlendirilir.",
+      "preview": "(1) \"ÇED Olumlu\" (Mülga ibare:RG-5/3/2026-33187) kararı bulunan ve eşik değeri olan projelerde yapılacak kapasite artışı ve/veya alan genişl…",
+      "kitap": null,
+      "kisim": null,
+      "bolum": "ALTINCI BÖLÜM · Çeşitli ve Son Hükümler",
+      "ayirim": null,
+      "maddeBaslik": "Kapasite artışları",
+      "sectionPath": [
+        "ALTINCI BÖLÜM · Çeşitli ve Son Hükümler",
+        "Kapasite artışları"
+      ]
+    },
+    {
+      "id": "yonetmelik:39647:m:21",
+      "maddeKind": "madde",
+      "maddeNo": "21",
+      "heading": "Madde 21",
+      "text": "(Başlığı ile Birlikte Değişik:RG-5/3/2026-33187)\n (1) Proje sahibinin herhangi bir nedenle değişmesi durumunda; projenin yeni sahibi, projenin devrine konu bilgi ve belgeleri [devir sözleşmesi (noter veya ilgili idaresince onaylı), tapu senedi, ilgili idaresince onaylı icra/ihale sonuç belgeleri ve benzeri], nihai ÇED raporu/proje tanıtım dosyası ve eklerinin projenin yeni sahibinin taahhüdü altında olduğunu belirten taahhütnamesini ve taahhüdü imzalayan yetkilinin noter onaylı imza sirküleri ile onaylı Türkiye Ticaret Sicili Gazetesini 90 takvim günü içerisinde ilgili il müdürlüğüne sunmakla yükümlüdür. Devir tarihinden itibaren projenin önceki sahibinin taahhüt ve yükümlülükleri başka bir işleme gerek kalmaksızın projenin yeni sahibi tarafından üstlenilmiş sayılır.\n (2) Proje sahibine ait ünvanın değişmesi durumunda; ünvan değişikliği ile ilgili bilgi ve belgelerin (Türkiye Ticaret Sicili Gazetesi ve benzeri) onaylı sureti ile beraber yeni ünvan kapsamında yeniden düzenlenen taahhütname ve taahhüdü imzalayan yetkilinin noter onaylı imza sirkülerinin 90 takvim günü içerisinde ilgili il müdürlüğüne sunulması yükümlülüğü bulunmakta olup, projeye ait tüm taahhüt ve yükümlülükler ünvan değişikliği tarihinden itibaren başka bir işleme gerek kalmaksızın üstlenilmiş sayılır.\n (3) Proje sahibi ve/veya ünvan değişikliği başvurularına ilişkin değerlendirme, yerinde incelemeyi müteakip ilgili il müdürlüğünce yapılır.",
+      "preview": "(Başlığı ile Birlikte Değişik:RG-5/3/2026-33187) (1) Proje sahibinin herhangi bir nedenle değişmesi durumunda; projenin yeni sahibi, projeni…",
+      "kitap": null,
+      "kisim": null,
+      "bolum": "ALTINCI BÖLÜM · Çeşitli ve Son Hükümler",
+      "ayirim": null,
+      "maddeBaslik": "Proje sahibinin değişmesi, projenin devri veya ünvan değişikliği",
+      "sectionPath": [
+        "ALTINCI BÖLÜM · Çeşitli ve Son Hükümler",
+        "Proje sahibinin değişmesi, projenin devri veya ünvan değişikliği"
+      ]
+    },
+    {
+      "id": "yonetmelik:39647:m:22",
+      "maddeKind": "madde",
+      "maddeNo": "22",
+      "heading": "Madde 22",
+      "text": "(1) Bakanlık, ÇED uygulamalarına ilişkin olarak, gerektiğinde yerli ve yabancı kurum/kuruluşlar ile işbirliği halinde her türlü eğitim, plan, program ve proje çalışmaları yapabilir; kitap, kitapçık, rehber ve her çeşit doküman hazırlayabilir, seminer ve toplantılar düzenleyebilir.",
+      "preview": "(1) Bakanlık, ÇED uygulamalarına ilişkin olarak, gerektiğinde yerli ve yabancı kurum/kuruluşlar ile işbirliği halinde her türlü eğitim, plan…",
+      "kitap": null,
+      "kisim": null,
+      "bolum": "ALTINCI BÖLÜM · Çeşitli ve Son Hükümler",
+      "ayirim": null,
+      "maddeBaslik": "Çevresel etki değerlendirmesi uygulamalarının güçlendirilmesi",
+      "sectionPath": [
+        "ALTINCI BÖLÜM · Çeşitli ve Son Hükümler",
+        "Çevresel etki değerlendirmesi uygulamalarının güçlendirilmesi"
+      ]
+    },
+    {
+      "id": "yonetmelik:39647:m:23",
+      "maddeKind": "madde",
+      "maddeNo": "23",
+      "heading": "Madde 23",
+      "text": "(1) Askeri projelerle ilgili ÇED uygulamaları, Milli Savunma Bakanlığının veya İçişleri Bakanlığının görüşü alınarak Bakanlık tarafından belirlenir.",
+      "preview": "(1) Askeri projelerle ilgili ÇED uygulamaları, Milli Savunma Bakanlığının veya İçişleri Bakanlığının görüşü alınarak Bakanlık tarafından bel…",
+      "kitap": null,
+      "kisim": null,
+      "bolum": "ALTINCI BÖLÜM · Çeşitli ve Son Hükümler",
+      "ayirim": null,
+      "maddeBaslik": "Askeri projeler",
+      "sectionPath": [
+        "ALTINCI BÖLÜM · Çeşitli ve Son Hükümler",
+        "Askeri projeler"
+      ]
+    },
+    {
+      "id": "yonetmelik:39647:m:24",
+      "maddeKind": "madde",
+      "maddeNo": "24",
+      "heading": "Madde 24",
+      "text": "(1) Aşağıdaki projeler için uygulanacak ÇED sürecine ilişkin yöntem Bakanlıkça belirlenir:\n a) Afet riski altındaki alanların dönüştürülmesi işlemleri, doğal afetler sonucu yıkılan, bozulan, tahrip olan veya hasar gören herhangi bir yatırımın bulunduğu yerde kısmen veya tamamen yeniden gerçekleştirilmesi planlanan projeler ile doğal afet, (Ek ibare:RG-5/3/2026-33187) kuraklık, kaza ve benzeri acil durumlarda ortaya çıkan çevre kirliliğinin önlenmesi için ivedilikle yapılması gereken projeler.\n b) Bu Yönetmeliğe tabi olmayan veya Ek-2’deki listeye tabi olduğu halde proje sahibinin ÇED raporu hazırlama talebinin Bakanlıkça uygun görüldüğü projeler.\n c) Organize sanayi bölgeleri, ihtisas organize sanayi bölgeleri, endüstri bölgeleri, serbest bölgeler ile teknoloji geliştirme bölgelerinde kurulması planlanan projeler.\n ç) Stratejik çevresel değerlendirme yapılan alanlarda kurulması planlanan projeler.\n d) Teknoloji değişikliği uygulamak suretiyle, verim artırımına, doğal kaynak kullanımını azaltmaya ve/veya çevre kirliliğini azaltmaya yönelik yapılmak istenilen değişiklikler, Ar-Ge çalışmaları veya prototip üretim yapan projeler.\n e) Ek-1 veya Ek-2’deki listelerde olup, eşik değeri olmayan projelerde yapılacak her türlü değişikliği içeren projeler.\n f) (Ek:RG-5/3/2026-33187) Onaylı planlarda kültür ve turizm koruma ve gelişim bölgesi, turizm merkezi, turizm tesis alanı olarak belirlenen alanlar ile belediye ve mücavir alan sınırları içerisinde kentsel yapı yoğunluğu fazla olan il ya da ilçe merkezlerinde yer alan mevcut işletmede olan turizm tesisleri ile bu tesislerde yapılacak kapasite artışlarına ilişkin projeler.\n g) (Ek:RG-5/3/2026-33187) “ÇED Olumlu” kararı verilmiş olan ve karara esas ÇED proje alanı sınırları içerisinde, proje revizyon başvuru bedelinin ödenmesi mukabilinde, kapasite artışı olmaksızın ana ve/veya yardımcı ünitelerinde alansal revizyon planlanan projeler.",
+      "preview": "(1) Aşağıdaki projeler için uygulanacak ÇED sürecine ilişkin yöntem Bakanlıkça belirlenir: a) Afet riski altındaki alanların dönüştürülmesi…",
+      "kitap": null,
+      "kisim": null,
+      "bolum": "ALTINCI BÖLÜM · Çeşitli ve Son Hükümler",
+      "ayirim": null,
+      "maddeBaslik": "Olağanüstü durumlar ve özel hükümler",
+      "sectionPath": [
+        "ALTINCI BÖLÜM · Çeşitli ve Son Hükümler",
+        "Olağanüstü durumlar ve özel hükümler"
+      ]
+    },
+    {
+      "id": "yonetmelik:39647:m:25",
+      "maddeKind": "madde",
+      "maddeNo": "25",
+      "heading": "Madde 25",
+      "text": "(1) Bu Yönetmeliğe tabi birden fazla projeyi kapsayan entegre bir projenin planlanması halinde, Bakanlıkça entegre proje için tek bir ÇED başvuru dosyası/proje tanıtım dosyası hazırlanması istenir.",
+      "preview": "(1) Bu Yönetmeliğe tabi birden fazla projeyi kapsayan entegre bir projenin planlanması halinde, Bakanlıkça entegre proje için tek bir ÇED ba…",
+      "kitap": null,
+      "kisim": null,
+      "bolum": "ALTINCI BÖLÜM · Çeşitli ve Son Hükümler",
+      "ayirim": null,
+      "maddeBaslik": "Entegre projeler",
+      "sectionPath": [
+        "ALTINCI BÖLÜM · Çeşitli ve Son Hükümler",
+        "Entegre projeler"
+      ]
+    },
+    {
+      "id": "yonetmelik:39647:m:26",
+      "maddeKind": "madde",
+      "maddeNo": "26",
+      "heading": "Madde 26",
+      "text": "(1) Proje tanıtım dosyası, ÇED başvuru dosyası, ÇED raporu ve proje ilerleme raporu hazırlayacak kurum ve kuruluşlar Bakanlıktan yeterlik belgesi almakla yükümlüdürler. Yeterlik belgesinin verilmesi, yeterlik belgesi verilen kurum/kuruluşların denetimi ve belgenin iptal edilmesi ile ilgili usul ve esaslar Bakanlıkça düzenlenir.",
+      "preview": "(1) Proje tanıtım dosyası, ÇED başvuru dosyası, ÇED raporu ve proje ilerleme raporu hazırlayacak kurum ve kuruluşlar Bakanlıktan yeterlik be…",
+      "kitap": null,
+      "kisim": null,
+      "bolum": "ALTINCI BÖLÜM · Çeşitli ve Son Hükümler",
+      "ayirim": null,
+      "maddeBaslik": "Yeterlik belgesi",
+      "sectionPath": [
+        "ALTINCI BÖLÜM · Çeşitli ve Son Hükümler",
+        "Yeterlik belgesi"
+      ]
+    },
+    {
+      "id": "yonetmelik:39647:m:27",
+      "maddeKind": "madde",
+      "maddeNo": "27",
+      "heading": "Madde 27",
+      "text": "(1) ÇED sürecine ilişkin iş ve işlemler, Çevrimiçi ÇED Süreci Yönetim Sisteminden (e-ÇED) yürütülür. Çevrimiçi ÇED Süreci Yönetim Sisteminin yürütülmesine ilişkin iş ve işlemler Bakanlık tarafından belirlenir ve Bakanlığın internet sayfasında ilan edilir.",
+      "preview": "(1) ÇED sürecine ilişkin iş ve işlemler, Çevrimiçi ÇED Süreci Yönetim Sisteminden (e-ÇED) yürütülür. Çevrimiçi ÇED Süreci Yönetim Sisteminin…",
+      "kitap": null,
+      "kisim": null,
+      "bolum": "ALTINCI BÖLÜM · Çeşitli ve Son Hükümler",
+      "ayirim": null,
+      "maddeBaslik": "Çevrimiçi ÇED süreci yönetim sistemi",
+      "sectionPath": [
+        "ALTINCI BÖLÜM · Çeşitli ve Son Hükümler",
+        "Çevrimiçi ÇED süreci yönetim sistemi"
+      ]
+    },
+    {
+      "id": "yonetmelik:39647:m:28",
+      "maddeKind": "madde",
+      "maddeNo": "28",
+      "heading": "Madde 28",
+      "text": "(1) Bakanlık, gerekli gördüğü hallerde bu Yönetmeliğin uygulanmasına ilişkin olarak düzenleme (Değişik ibare:RG-5/3/2026-33187) yapabilir.\n Yürürlükten kaldırılan yönetmelik",
+      "preview": "(1) Bakanlık, gerekli gördüğü hallerde bu Yönetmeliğin uygulanmasına ilişkin olarak düzenleme (Değişik ibare:RG-5/3/2026-33187) yapabilir. Y…",
+      "kitap": null,
+      "kisim": null,
+      "bolum": "ALTINCI BÖLÜM · Çeşitli ve Son Hükümler",
+      "ayirim": null,
+      "maddeBaslik": "Düzenleme yetkisi",
+      "sectionPath": [
+        "ALTINCI BÖLÜM · Çeşitli ve Son Hükümler",
+        "Düzenleme yetkisi"
+      ]
+    },
+    {
+      "id": "yonetmelik:39647:m:29",
+      "maddeKind": "madde",
+      "maddeNo": "29",
+      "heading": "Madde 29",
+      "text": "(1) 25/11/2014 tarihli ve 29186 sayılı Resmî Gazete’de yayımlanan Çevresel Etki Değerlendirmesi Yönetmeliği yürürlükten kaldırılmıştır.",
+      "preview": "(1) 25/11/2014 tarihli ve 29186 sayılı Resmî Gazete’de yayımlanan Çevresel Etki Değerlendirmesi Yönetmeliği yürürlükten kaldırılmıştır.",
+      "kitap": null,
+      "kisim": null,
+      "bolum": "ALTINCI BÖLÜM · Çeşitli ve Son Hükümler",
+      "ayirim": null,
+      "maddeBaslik": "Düzenleme yetkisi",
+      "sectionPath": [
+        "ALTINCI BÖLÜM · Çeşitli ve Son Hükümler",
+        "Düzenleme yetkisi"
+      ]
+    },
+    {
+      "id": "yonetmelik:39647:m:gecici:1",
+      "maddeKind": "gecici",
+      "maddeNo": "1",
+      "heading": "Geçici Madde 1",
+      "text": "(1) Bu Yönetmeliğin yürürlük tarihinden önce, ÇED başvuru dosyası/proje tanıtım dosyası il müdürlüğüne ya da Bakanlığa sunulmuş projelere, bu Yönetmeliğin lehte olan hükümleri ve/veya başvuru tarihinde yürürlükte olan Yönetmelik hükümleri uygulanır.\n (2) (Ek:RG-5/3/2026-33187) 19/7/2025 tarihli ve 7554 sayılı Bazı Kanunlarda Değişiklik Yapılmasına Dair Kanunun 1 inci maddesinin yürürlük tarihinden önce bu Yönetmeliğin Ek-2’sindeki liste kapsamında değerlendirilerek gerçekleşmesinde çevre açısından sakınca görülmediğine ilişkin karar verilmiş olup, karar geçerliği devam eden projelere, bu Yönetmeliğin dördüncü, beşinci ve altıncı bölümlerinde “ÇED Olumlu” kararı kapsamında belirtilen hükümler uygulanır.\n Muafiyet hakkı olan projeler (Değişik başlık:RG-5/3/2026-33187)",
+      "preview": "(1) Bu Yönetmeliğin yürürlük tarihinden önce, ÇED başvuru dosyası/proje tanıtım dosyası il müdürlüğüne ya da Bakanlığa sunulmuş projelere, b…",
+      "kitap": null,
+      "kisim": null,
+      "bolum": "ALTINCI BÖLÜM · Çeşitli ve Son Hükümler",
+      "ayirim": null,
+      "maddeBaslik": "Geçiş süreci",
+      "sectionPath": [
+        "ALTINCI BÖLÜM · Çeşitli ve Son Hükümler",
+        "Geçiş süreci"
+      ]
+    },
+    {
+      "id": "yonetmelik:39647:m:gecici:2",
+      "maddeKind": "gecici",
+      "maddeNo": "2",
+      "heading": "Geçici Madde 2",
+      "text": "(1) 7/2/1993 tarihli ve 21489 sayılı Resmî Gazete’de yayımlanan mülga Çevresel Etki Değerlendirmesi Yönetmeliğinin yayımı tarihinden önce üretime ve/veya işletmeye başladığı belgelenen projeler bu Yönetmelik hükümlerinden muaftır.\n (2) 23/6/1997 tarihinden önce kamu yatırım programına alınmış olup, 29/5/2013 tarihi itibarıyla üretim veya işletmeye başlamış olan projeler ile bunların gerçekleştirilmesi için zorunlu olan yapı ve tesisler bu Yönetmelik hükümlerinden muaftır.",
+      "preview": "(1) 7/2/1993 tarihli ve 21489 sayılı Resmî Gazete’de yayımlanan mülga Çevresel Etki Değerlendirmesi Yönetmeliğinin yayımı tarihinden önce ür…",
+      "kitap": null,
+      "kisim": null,
+      "bolum": "ALTINCI BÖLÜM · Çeşitli ve Son Hükümler",
+      "ayirim": null,
+      "maddeBaslik": "Geçiş süreci",
+      "sectionPath": [
+        "ALTINCI BÖLÜM · Çeşitli ve Son Hükümler",
+        "Geçiş süreci"
+      ]
+    },
+    {
+      "id": "yonetmelik:39647:m:30",
+      "maddeKind": "madde",
+      "maddeNo": "30",
+      "heading": "Madde 30",
+      "text": "(1) Bu Yönetmelik yayımı tarihinde yürürlüğe girer.",
+      "preview": "(1) Bu Yönetmelik yayımı tarihinde yürürlüğe girer.",
+      "kitap": null,
+      "kisim": null,
+      "bolum": "ALTINCI BÖLÜM · Çeşitli ve Son Hükümler",
+      "ayirim": null,
+      "maddeBaslik": "Yürürlük",
+      "sectionPath": [
+        "ALTINCI BÖLÜM · Çeşitli ve Son Hükümler",
+        "Yürürlük"
+      ]
+    },
+    {
+      "id": "yonetmelik:39647:m:31",
+      "maddeKind": "madde",
+      "maddeNo": "31",
+      "heading": "Madde 31",
+      "text": "(1) Bu Yönetmelik hükümlerini Çevre, Şehircilik ve İklim Değişikliği Bakanı yürütür.\n\n Ekleri için tıklayın.\n\n Yönetmeliğin Yayımlandığı Resmî Gazete’nin\n\n Tarihi\n Sayısı\n\n 29/7/2022\n 31907\n\n Yönetmelikte Değişiklik Yapan Yönetmeliklerin Yayımlandığı Resmî Gazetelerin\n\n Tarihi\n Sayısı\n\n 1.\n 26/6/2025\n 32938\n\n 2.\n 5/3/2026\n 33187",
+      "preview": "(1) Bu Yönetmelik hükümlerini Çevre, Şehircilik ve İklim Değişikliği Bakanı yürütür. Ekleri için tıklayın. Yönetmeliğin Yayımlandığı Resmî G…",
+      "kitap": null,
+      "kisim": null,
+      "bolum": "ALTINCI BÖLÜM · Çeşitli ve Son Hükümler",
+      "ayirim": null,
+      "maddeBaslik": "Yürütme",
+      "sectionPath": [
+        "ALTINCI BÖLÜM · Çeşitli ve Son Hükümler",
+        "Yürütme"
+      ]
+    }
+  ]
+}

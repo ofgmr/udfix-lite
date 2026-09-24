@@ -3,7 +3,7 @@ import { pickExportHeaderFooterSection } from '../headerFooterExportPick';
 import { resolveCssVarsInHtmlString } from '../resolveCssVarsForExport';
 import { prepareHfSectionForRasterExport, rasterizeHfBandHtml, type UdfHfRasterBand } from '../udfHfRasterExport';
 import { useHeaderFooterStore } from '../../stores/useHeaderFooterStore';
-import { EDITOR_PAGE_WIDTH_PX } from '../editorLayout';
+import { EDITOR_PAGE_MARGIN_LEFT_PX, EDITOR_PAGE_MARGIN_RIGHT_PX, EDITOR_PAGE_WIDTH_PX } from '../editorLayout';
 
 export type DocxHfMargins = {
     marginLeft?: number;
@@ -11,8 +11,8 @@ export type DocxHfMargins = {
 };
 
 export function docxContentWidthPt(margins: DocxHfMargins | null | undefined): number {
-    const mLeft = margins?.marginLeft ?? 50;
-    const mRight = margins?.marginRight ?? 50;
+    const mLeft = margins?.marginLeft ?? EDITOR_PAGE_MARGIN_LEFT_PX;
+    const mRight = margins?.marginRight ?? EDITOR_PAGE_MARGIN_RIGHT_PX;
     const contentWidthPx = Math.max(200, EDITOR_PAGE_WIDTH_PX - mLeft - mRight);
     return contentWidthPx * 0.75;
 }

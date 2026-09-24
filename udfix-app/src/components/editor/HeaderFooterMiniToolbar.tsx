@@ -3,7 +3,8 @@ import type { Editor } from '@tiptap/react';
 import MaterialIcon from '../ui/MaterialIcon';
 import { cn } from '../../lib/utils';
 import { applyEditorTextColor } from '../../utils/editorTextColor';
-import { ALL_FONTS, FONT_GROUPS } from '../../fonts/offlineFontRegistry';
+import { FONT_GROUPS } from '../../fonts/offlineFontRegistry';
+import { matchOfflineFont, primaryFontName } from '../../utils/fontFamilyResolve';
 import { preloadAllBundledFonts } from '../../fonts/loadBundledFont';
 import {
     applyHfMiniEditorTextAlign,
@@ -23,13 +24,11 @@ const LINE_HEIGHTS = [
 function resolveFontStack(raw: string | undefined): string {
     const trimmed = (raw ?? '').trim();
     if (!trimmed) return 'Inter, sans-serif';
-    const hit = ALL_FONTS.find((f) => f.stack === trimmed) ?? ALL_FONTS.find((f) => trimmed.includes(f.name));
-    return hit?.stack ?? trimmed;
+    return matchOfflineFont(trimmed)?.stack ?? trimmed;
 }
 
 function resolveFontName(stack: string): string {
-    const hit = ALL_FONTS.find((f) => f.stack === stack) ?? ALL_FONTS.find((f) => stack.includes(f.name));
-    return hit?.name ?? stack.split(',')[0].replace(/['"]/g, '').trim();
+    return matchOfflineFont(stack)?.name ?? primaryFontName(stack) ?? stack;
 }
 
 interface HeaderFooterMiniToolbarProps {

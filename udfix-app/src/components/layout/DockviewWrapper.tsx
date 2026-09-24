@@ -7,7 +7,11 @@ import { useLayoutStore } from '../../stores/useLayoutStore';
 import { cn } from '../../lib/utils';
 import { DockviewTab } from './DockviewTab';
 import { DataService } from '../../services/dataService';
-import { getUdfixDocumentIdForPanel, isEditorPanelId } from '../../utils/dockviewNoteTab';
+import {
+    DEFAULT_EDITOR_DOCUMENT_ID,
+    getUdfixDocumentIdForPanel,
+    isEditorPanelId,
+} from '../../utils/dockviewNoteTab';
 import {
     allowDockviewFileDragOver,
     dockviewPanelFileDropHandlers,
@@ -63,17 +67,13 @@ function releaseUyapPreview(documentId: string) {
 const panelFileDrop = dockviewPanelFileDropHandlers();
 
 const EditorPanel = (_props: IDockviewPanelProps) => {
-    const { setEditor, activeDocument } = useLayoutStore(
-        useShallow((s) => ({
-            setEditor: s.setEditor,
-            activeDocument: s.activeDocument,
-        })),
-    );
+    const setEditor = useLayoutStore((s) => s.setEditor);
     const [showHistory, setShowHistory] = React.useState(false);
     const params =
         typeof _props.api?.getParameters === 'function' ? _props.api.getParameters() : _props.params;
     const documentId =
-        getUdfixDocumentIdForPanel(_props.api.id, activeDocument, params) ?? activeDocument;
+        getUdfixDocumentIdForPanel(_props.api.id, DEFAULT_EDITOR_DOCUMENT_ID, params) ??
+        DEFAULT_EDITOR_DOCUMENT_ID;
 
     return (
         <div
@@ -299,30 +299,42 @@ function getPopoutWindows(api: LayoutDockviewApi): Window[] {
 }
 
 export const DockviewWrapper: React.FC = () => {
-    const { setDockviewApi, dockviewApi, activeDocument, documents, viewerFile, isZenMode } =
-        useLayoutStore(
-            useShallow((s) => ({
-                setDockviewApi: s.setDockviewApi,
-                dockviewApi: s.dockviewApi,
-                activeDocument: s.activeDocument,
-                documents: s.documents,
-                viewerFile: s.viewerFile,
-                isZenMode: s.isZenMode,
-            })),
-        );
+    const { setDockviewApi, dockviewApi, viewerFile, isZenMode } = useLayoutStore(
+        useShallow((s) => ({
+            setDockviewApi: s.setDockviewApi,
+            dockviewApi: s.dockviewApi,
+            viewerFile: s.viewerFile,
+            isZenMode: s.isZenMode,
+        })),
+    );
 
     React.useEffect(() => {
         if (!dockviewApi) return;
 
-        for (const panel of dockviewApi.panels) {
-            if (isEditorPanelId(panel.id)) {
-                const params = typeof panel.api?.getParameters === 'function' ? panel.api.getParameters() : {};
-                const documentId = getUdfixDocumentIdForPanel(panel.id, activeDocument, params);
-                const currentDoc = documents.find((d) => d.id === documentId);
-                if (currentDoc) panel.api.setTitle?.(currentDoc.title);
+        const syncEditorTitles = (
+            activeDocument: string,
+            documents: { id: string; title: string }[],
+        ) => {
+            for (const panel of dockviewApi.panels) {
+                if (isEditorPanelId(panel.id)) {
+                    const params =
+                        typeof panel.api?.getParameters === 'function' ? panel.api.getParameters() : {};
+                    const documentId = getUdfixDocumentIdForPanel(panel.id, activeDocument, params);
+                    const currentDoc = documents.find((d) => d.id === documentId);
+                    if (currentDoc) panel.api.setTitle?.(currentDoc.title);
+                }
             }
-        }
-    }, [dockviewApi, activeDocument, documents]);
+        };
+
+        const initial = useLayoutStore.getState();
+        syncEditorTitles(initial.activeDocument, initial.documents);
+        return useLayoutStore.subscribe((next, prev) => {
+            if (next.documents === prev.documents && next.activeDocument === prev.activeDocument) {
+                return;
+            }
+            syncEditorTitles(next.activeDocument, next.documents);
+        });
+    }, [dockviewApi]);
 
     React.useEffect(() => {
         if (!dockviewApi) return;

@@ -24,6 +24,15 @@ import {
     shouldSkipEmptyHfLibraryWrite,
     writeHfPresetsToLocalStorage,
 } from '../utils/hfPresetLibrary';
+import {
+    isDocumentHfPayloadEmpty,
+    parseDocumentHfPayload,
+    readDocumentHfFromLocalStorage,
+    removeDocumentHfFromLocalStorage,
+    resolveDocumentHfLoad,
+    writeDocumentHfToLocalStorage,
+    type DocumentHfPersistedPayload,
+} from '../utils/documentHfPersistence';
 import type { UyapPageNumberFontAttrs } from '../utils/uyapExportBuild';
 
 // ── Types ──────────────────────────────────────────────────
@@ -211,8 +220,8 @@ interface HeaderFooterState {
     clearPreview: () => void;
 
     // Persistence
-    load: (documentId: string) => void;
-    save: () => void;
+    load: (documentId: string) => Promise<void>;
+    save: () => Promise<void>;
 
     // Computed    // Helpers
     getContentForPage: (pageIndex: number, totalPages: number) => HeaderFooterSection;
@@ -223,9 +232,66 @@ interface HeaderFooterState {
 
 // ── Constants ──────────────────────────────────────────────
 
-const STORAGE_PREFIX = 'nomai-hf-';
-
 let presetsHydratePromise: Promise<void> | null = null;
+let documentHfLoadSeq = 0;
+let hydratedDocumentHfId: string | null = null;
+
+function emptySections(): HeaderFooterState['sections'] {
+    return {
+        default: emptySection(),
+        firstPage: emptySection(),
+        lastPage: emptySection(),
+        oddPage: emptySection(),
+        evenPage: emptySection(),
+    };
+}
+
+function snapshotDocumentHfPayload(state: {
+    differentFirstPage: boolean;
+    differentLastPage: boolean;
+    differentOddEvenPages: boolean;
+    sections: HeaderFooterState['sections'];
+    settings: HeaderFooterSettings;
+}): DocumentHfPersistedPayload {
+    return {
+        differentFirstPage: state.differentFirstPage,
+        differentLastPage: state.differentLastPage,
+        differentOddEvenPages: state.differentOddEvenPages,
+        sections: cloneSections(state.sections),
+        settings: { ...state.settings },
+    };
+}
+
+function storeSliceFromDocumentHfPayload(payload: DocumentHfPersistedPayload | null): {
+    differentFirstPage: boolean;
+    differentLastPage: boolean;
+    differentOddEvenPages: boolean;
+    sections: HeaderFooterState['sections'];
+    settings: HeaderFooterSettings;
+} {
+    if (!payload) {
+        return {
+            differentFirstPage: false,
+            differentLastPage: false,
+            differentOddEvenPages: false,
+            sections: emptySections(),
+            settings: defaultSettings(),
+        };
+    }
+    return {
+        differentFirstPage: payload.differentFirstPage,
+        differentLastPage: payload.differentLastPage,
+        differentOddEvenPages: payload.differentOddEvenPages,
+        sections: {
+            default: { ...emptySection(), ...payload.sections.default },
+            firstPage: { ...emptySection(), ...payload.sections.firstPage },
+            lastPage: { ...emptySection(), ...payload.sections.lastPage },
+            oddPage: { ...emptySection(), ...payload.sections.oddPage },
+            evenPage: { ...emptySection(), ...payload.sections.evenPage },
+        },
+        settings: normalizeHeaderFooterSettings(payload.settings),
+    };
+}
 
 async function persistHeaderFooterLibrary(
     presets: HeaderFooterPreset[],
@@ -475,7 +541,7 @@ export const useHeaderFooterStore = create<HeaderFooterState>()((set, get) => ({
     // Apply / Discard
     applyChanges: () => {
         flushAllHfEditors();
-        get().save();
+        void get().save();
         set({
             lastUpdated: Date.now(),
             panelOpen: false,
@@ -645,60 +711,68 @@ export const useHeaderFooterStore = create<HeaderFooterState>()((set, get) => ({
     },
 
     // Persistence
-    load: (documentId) => {
-        const raw = localStorage.getItem(`${STORAGE_PREFIX}${documentId}`);
-        if (raw) {
-            try {
-                const parsed = JSON.parse(raw);
-                set({
-                    currentDocumentId: documentId,
-                    differentFirstPage: parsed.differentFirstPage ?? false,
-                    differentLastPage: parsed.differentLastPage ?? false,
-                    differentOddEvenPages: parsed.differentOddEvenPages ?? false,
-                    sections: {
-                        default: { ...emptySection(), ...parsed.sections?.default },
-                        firstPage: { ...emptySection(), ...parsed.sections?.firstPage },
-                        lastPage: { ...emptySection(), ...parsed.sections?.lastPage },
-                        oddPage: { ...emptySection(), ...parsed.sections?.oddPage },
-                        evenPage: { ...emptySection(), ...parsed.sections?.evenPage },
-                    },
-                    settings: normalizeHeaderFooterSettings(parsed.settings),
-                });
-            } catch {
-                set({ currentDocumentId: documentId });
-            }
-        } else {
-            set({
-                currentDocumentId: documentId,
-                differentFirstPage: false,
-                differentLastPage: false,
-                differentOddEvenPages: false,
-                sections: {
-                    default: emptySection(),
-                    firstPage: emptySection(),
-                    lastPage: emptySection(),
-                    oddPage: emptySection(),
-                    evenPage: emptySection(),
-                },
-                settings: defaultSettings(),
-            });
+    load: async (documentId) => {
+        const seq = ++documentHfLoadSeq;
+        const lsPayload = readDocumentHfFromLocalStorage(documentId);
+        hydratedDocumentHfId = null;
+        set({
+            currentDocumentId: documentId,
+            ...storeSliceFromDocumentHfPayload(lsPayload),
+        });
+
+        let dbPayload = null as ReturnType<typeof parseDocumentHfPayload>;
+        try {
+            dbPayload = parseDocumentHfPayload(await DataService.getDocumentHeaderFooter(documentId));
+        } catch {
+            /* Vite / missing IPC — localStorage only */
         }
+        if (seq !== documentHfLoadSeq) return;
+
+        const resolution = resolveDocumentHfLoad(dbPayload, lsPayload);
+        set({
+            currentDocumentId: documentId,
+            ...storeSliceFromDocumentHfPayload(resolution.payload),
+        });
+        hydratedDocumentHfId = documentId;
         void get().loadAllPresets();
+
+        if (!resolution.migrateFromLocalStorage || !resolution.payload) return;
+        try {
+            const result = await DataService.setDocumentHeaderFooter({
+                documentId,
+                payload: resolution.payload,
+                allowEmpty: isDocumentHfPayloadEmpty(resolution.payload),
+            });
+            if (seq !== documentHfLoadSeq) return;
+            if (result?.ok && !result.skippedEmpty) {
+                removeDocumentHfFromLocalStorage(documentId);
+            }
+        } catch (err) {
+            console.warn('[hf] SQLite document HF migrate failed; kept localStorage copy.', err);
+        }
     },
 
-    save: () => {
+    save: async () => {
         const state = get();
-        const data = {
-            differentFirstPage: state.differentFirstPage,
-            differentLastPage: state.differentLastPage,
-            differentOddEvenPages: state.differentOddEvenPages,
-            sections: state.sections,
-            settings: state.settings,
-        };
-        localStorage.setItem(
-            `${STORAGE_PREFIX}${state.currentDocumentId}`,
-            JSON.stringify(data)
-        );
+        const documentId = state.currentDocumentId;
+        if (!documentId || documentId !== hydratedDocumentHfId) return;
+        const data = snapshotDocumentHfPayload(state);
+        const allowEmpty = isDocumentHfPayloadEmpty(data);
+        try {
+            const result = await DataService.setDocumentHeaderFooter({
+                documentId,
+                payload: data,
+                allowEmpty,
+            });
+            if (result?.ok && !result.skippedEmpty) {
+                removeDocumentHfFromLocalStorage(documentId);
+                return;
+            }
+            if (result?.ok && result.skippedEmpty) return;
+        } catch {
+            /* Vite / missing IPC — localStorage fallback */
+        }
+        writeDocumentHfToLocalStorage(documentId, data);
     },
 
     getContentForPage: (pageIndex, totalPages) => {

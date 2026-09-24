@@ -20,8 +20,10 @@ import MaterialIcon from '../ui/MaterialIcon';
 import { Button } from '../ui/button';
 import { Collapsible, CollapsibleContent, CollapsibleTrigger } from '../ui/collapsible';
 import { Input } from '../ui/input';
+import { HoverCard, HoverCardContent, HoverCardTrigger } from '../ui/hover-card';
 import { Popover, PopoverContent, PopoverTrigger } from '../ui/popover';
 import { ScrollArea } from '../ui/scroll-area';
+import { MatterHintDrawer } from './MatterHintDrawer';
 import { toast } from 'sonner';
 import { cn } from '../../lib/utils';
 import { humanizeUyapMessage, humanizeWalkEventLine } from '../../lib/uyapUserMessages';
@@ -47,9 +49,11 @@ import { KATIR_UPGRADE_URL, dashboardHasKatirCorpus, type AppEntitlements } from
 
 const SEARCH_DEBOUNCE_MS = 250;
 const RECENT_UYAP_EVRAK_LIMIT = 100;
+const RECENT_HINT_OPEN_DELAY_MS = 160;
+const RECENT_HINT_CLOSE_DELAY_MS = 180;
 const EVRAK_WAIT_TOAST_ID = 'uyap-evrak-wait';
 const EVRAK_WAIT_TOAST_MSG = 'Dosya indirilirken lütfen bekleyiniz.';
-const glassCard = 'rounded-xl border border-border/70 bg-card/55 shadow-xl backdrop-blur-xl';
+const glassCard = 'rounded-xl border border-border/70 bg-card shadow-xl backdrop-blur-xl';
 const paneScroll =
     'min-w-0 [&>[data-radix-scroll-area-viewport]>div]:!block [&>[data-radix-scroll-area-viewport]>div]:min-w-0 [&>[data-radix-scroll-area-viewport]>div]:max-w-full';
 
@@ -271,37 +275,15 @@ type MembershipCopy = {
 };
 
 function membershipCopy(entitlements: AppEntitlements): MembershipCopy {
-    const { phase, katirLive, upgradePending, periodEndsAt, graceEndsAt } = entitlements;
-    if (upgradePending && !katirLive) {
-        return {
-            icon: 'system_update',
-            badge: 'Güncelleme',
-            title: 'Katır Paketi Bekleniyor',
-            body: 'Üyelik alındı. Güncelleme bitince köprü açılır.',
-            tone: 'neutral',
-            dateLabel: periodEndsAt ? 'Bitiş' : null,
-            dateIso: periodEndsAt,
-            acquireLabel: 'Güncellemeyi Denetle',
-        };
-    }
+    const { phase, katirLive, periodEndsAt, graceEndsAt } = entitlements;
     switch (phase) {
         case 'anonymous':
-            return {
-                icon: 'login',
-                badge: 'Giriş',
-                title: 'Katır’a Giriş',
-                body: 'E-posta ile giriş yapın. Üyelik olmadan köprü açılmaz.',
-                tone: 'neutral',
-                dateLabel: null,
-                dateIso: null,
-                acquireLabel: 'Katır Edin',
-            };
         case 'authenticated':
             return {
-                icon: 'card_membership',
-                badge: 'Üyelik Yok',
-                title: 'Katır Üyeliği',
-                body: 'Oturum açık. UYAP senkronizasyonu için Katır üyeliği gerekir.',
+                icon: 'key',
+                badge: 'Lisans',
+                title: 'Katır Lisansı',
+                body: 'Ödeme veya hediye linki UDFIX’i açar. Açılmazsa sitedeki kodu aşağıya yazın.',
                 tone: 'neutral',
                 dateLabel: null,
                 dateIso: null,
@@ -311,14 +293,14 @@ function membershipCopy(entitlements: AppEntitlements): MembershipCopy {
             return {
                 icon: katirLive ? 'verified' : 'inventory_2',
                 badge: 'Üye',
-                title: katirLive ? 'Katır Üyeliği' : 'Katır Paketi Yok',
+                title: 'Katır Üyeliği',
                 body: katirLive
                     ? 'Üyelik dönemi içinde.'
                     : 'Üyelik var. Bu kurulumda canlı yol kapalı.',
                 tone: katirLive ? 'neutral' : 'warning',
                 dateLabel: periodEndsAt ? 'Bitiş' : null,
                 dateIso: periodEndsAt,
-                acquireLabel: 'Güncellemeyi Denetle',
+                acquireLabel: 'Katır Yenile',
             };
         case 'grace':
             return {
@@ -428,12 +410,10 @@ function WalkStatusSummary({
     const lines = Array.isArray(events) && events.length
         ? [...events]
               .reverse()
-              .slice(0, 5)
+              .slice(0, 12)
               .map((row) => ({ ...row, message: humanizeWalkEventLine(row.message) }))
               .filter((row) => row.message)
         : [];
-
-    if (lines.length === 0) return null;
 
     return (
         <Popover open={open} onOpenChange={setOpen}>
@@ -459,16 +439,20 @@ function WalkStatusSummary({
                 className="z-[var(--z-command-palette-floating)] w-72 p-2"
                 onOpenAutoFocus={(event) => event.preventDefault()}
             >
-                <div className="max-h-40 overflow-y-auto text-[11px] leading-relaxed">
-                    {lines.map((row, index) => (
-                        <div
-                            key={`${row.at}-${index}`}
-                            className={cn('break-words', eventClass(row.level))}
-                        >
-                            <span className="text-muted-foreground/80">{eventTime(row.at)} </span>
-                            {row.message}
-                        </div>
-                    ))}
+                <div className="max-h-52 overflow-y-auto text-[11px] leading-relaxed">
+                    {lines.length === 0 ? (
+                        <div className="text-muted-foreground">Henüz işlem yok.</div>
+                    ) : (
+                        lines.map((row, index) => (
+                            <div
+                                key={`${row.at}-${index}`}
+                                className={cn('break-words', eventClass(row.level))}
+                            >
+                                <span className="text-muted-foreground/80">{eventTime(row.at)} </span>
+                                {row.message}
+                            </div>
+                        ))
+                    )}
                 </div>
             </PopoverContent>
         </Popover>
@@ -719,6 +703,112 @@ function DownloadEvrakButton({
     );
 }
 
+function isRecentEvrakHintTarget(target: EventTarget | null): boolean {
+    return target instanceof Element && Boolean(target.closest('[data-recent-evrak-hint]'));
+}
+
+function RecentEvrakRow({
+    row,
+    selected,
+    busy,
+    katirLive,
+    onSelect,
+    onView,
+    onDownload,
+}: {
+    row: UyapRecentEvrak;
+    selected: boolean;
+    busy: boolean;
+    katirLive: boolean;
+    onSelect: (row: UyapRecentEvrak) => void;
+    onView: (row: UyapRecentEvrak) => void;
+    onDownload: (row: UyapRecentEvrak) => void;
+}) {
+    const hintId = useId();
+    const triggerRef = useRef<HTMLButtonElement>(null);
+    const { tur, date } = recentCardLabel(row);
+    const court = recentCourtName(row);
+    const partiesLine = String(row.parties_line || '').trim();
+    const typeLabel = String(row.dosya_tur_label || '').trim();
+    const hasHints = Boolean(partiesLine || typeLabel);
+    const [hintOpen, setHintOpen] = useState(false);
+
+    const button = (
+        <button
+            ref={triggerRef}
+            type="button"
+            aria-describedby={hasHints ? hintId : undefined}
+            className={cn(
+                'min-w-0 w-full flex-1 rounded-lg px-2 py-1 text-left hover:bg-accent/50',
+                selected
+                    ? 'bg-primary/20 text-foreground ring-1 ring-inset ring-primary/45'
+                    : 'text-foreground/80',
+            )}
+            onClick={() => onSelect(row)}
+            onFocus={() => {
+                if (hasHints) setHintOpen(true);
+            }}
+            onBlur={(event) => {
+                if (isRecentEvrakHintTarget(event.relatedTarget)) return;
+                setHintOpen(false);
+            }}
+        >
+            <span className="block min-w-0 truncate">
+                {row.file_number}
+                <span className="text-muted-foreground"> · {tur}</span>
+            </span>
+            <span className="block min-w-0 truncate text-[11px] text-muted-foreground">
+                {court}
+                {date ? ` · ${date}` : ''}
+            </span>
+        </button>
+    );
+
+    return (
+        <li className="flex min-w-0 items-center gap-1.5">
+            {hasHints ? (
+                <div className="min-w-0 flex-1">
+                    <HoverCard
+                        open={hintOpen}
+                        onOpenChange={(next) => {
+                            if (!next && triggerRef.current === document.activeElement) return;
+                            setHintOpen(next);
+                        }}
+                        openDelay={RECENT_HINT_OPEN_DELAY_MS}
+                        closeDelay={RECENT_HINT_CLOSE_DELAY_MS}
+                    >
+                        <HoverCardTrigger asChild>{button}</HoverCardTrigger>
+                        <HoverCardContent
+                            id={hintId}
+                            data-recent-evrak-hint=""
+                            side="right"
+                            align="start"
+                            sideOffset={10}
+                            collisionPadding={8}
+                            variant="glass"
+                            className="z-[var(--z-command-palette-floating)] w-72 max-w-[18rem] p-3"
+                        >
+                            <MatterHintDrawer partiesLine={partiesLine} typeLabel={typeLabel} />
+                        </HoverCardContent>
+                    </HoverCard>
+                </div>
+            ) : (
+                button
+            )}
+            <ViewEvrakButton
+                disabled={busy || (!katirLive && !row.file_path)}
+                title={!katirLive && !row.file_path ? 'Katır ile indirilir' : 'Görüntüle'}
+                onClick={() => onView(row)}
+            />
+            <DownloadEvrakButton
+                disabled={busy || !katirLive}
+                title={katirLive ? 'İndir' : 'Katır ile indirilir'}
+                onClick={() => onDownload(row)}
+            />
+        </li>
+    );
+}
+
 function EvrakCardRow({
     doc,
     ek = [],
@@ -947,6 +1037,8 @@ function sliceOpeningChartMonths(
         case 12:
         case 24:
         case 36:
+        case 48:
+        case 60:
             return months.slice(-range);
         default: {
             const _never: never = range;
@@ -956,6 +1048,8 @@ function sliceOpeningChartMonths(
 }
 
 function chartAxisLabelStep(length: number): number {
+    if (length > 48) return 6;
+    if (length > 36) return 4;
     if (length > 20) return 3;
     if (length > 14) return 2;
     return 1;
@@ -1516,34 +1610,26 @@ function trailingWindowOf(
         icraAlacakAlacakli: 0,
         icraAlacakBorclu: 0,
     };
+    const pick = (window: UyapTrailingOpenings['window12'], count: number | undefined) =>
+        window
+            ? {
+                  count: window.count,
+                  byType: { ...EMPTY_BY_TYPE, ...window.byType },
+                  icraAlacakAlacakli: window.icraAlacakAlacakli,
+                  icraAlacakBorclu: window.icraAlacakBorclu,
+              }
+            : { ...empty, count: count ?? 0 };
     switch (months) {
         case 12:
-            return trailing?.window12
-                ? {
-                      count: trailing.window12.count,
-                      byType: { ...EMPTY_BY_TYPE, ...trailing.window12.byType },
-                      icraAlacakAlacakli: trailing.window12.icraAlacakAlacakli,
-                      icraAlacakBorclu: trailing.window12.icraAlacakBorclu,
-                  }
-                : { ...empty, count: trailing?.months12 ?? 0 };
+            return pick(trailing?.window12, trailing?.months12);
         case 24:
-            return trailing?.window24
-                ? {
-                      count: trailing.window24.count,
-                      byType: { ...EMPTY_BY_TYPE, ...trailing.window24.byType },
-                      icraAlacakAlacakli: trailing.window24.icraAlacakAlacakli,
-                      icraAlacakBorclu: trailing.window24.icraAlacakBorclu,
-                  }
-                : { ...empty, count: trailing?.months24 ?? 0 };
+            return pick(trailing?.window24, trailing?.months24);
         case 36:
-            return trailing?.window36
-                ? {
-                      count: trailing.window36.count,
-                      byType: { ...EMPTY_BY_TYPE, ...trailing.window36.byType },
-                      icraAlacakAlacakli: trailing.window36.icraAlacakAlacakli,
-                      icraAlacakBorclu: trailing.window36.icraAlacakBorclu,
-                  }
-                : { ...empty, count: trailing?.months36 ?? 0 };
+            return pick(trailing?.window36, trailing?.months36);
+        case 48:
+            return pick(trailing?.window48, trailing?.months48);
+        case 60:
+            return pick(trailing?.window60, trailing?.months60);
         default: {
             const _never: never = months;
             return _never;
@@ -1571,7 +1657,7 @@ function TrailingMetricsGrid({
     ];
     return (
         <div className="mb-1.5 overflow-hidden rounded-lg border border-border/60 bg-card/35 text-[10px] shadow-sm backdrop-blur-xl">
-            <div className="grid grid-cols-[minmax(4.5rem,1fr)_repeat(3,minmax(0,1fr))] gap-px">
+            <div className="grid grid-cols-[minmax(4.5rem,1fr)_repeat(5,minmax(0,1fr))] gap-px">
                 <div className="px-1.5 py-1 text-muted-foreground">Son</div>
                 {windows.map((col) => (
                     <div
@@ -1618,49 +1704,36 @@ function KatirMembershipPanel({
     variant: 'gate' | 'grace';
 }) {
     const [busy, setBusy] = useState(false);
-    const [email, setEmail] = useState(entitlements.accountEmail ?? '');
+    const [activationCode, setActivationCode] = useState('');
     const [error, setError] = useState<string | null>(null);
     const copy = membershipCopy(entitlements);
     const dateLine = copy.dateIso ? formatScanClock(copy.dateIso) : null;
-    const showSignIn = variant === 'gate' && !entitlements.signedIn;
-    const showUpdate = copy.acquireLabel === 'Güncellemeyi Denetle';
     const showAcquire = copy.acquireLabel === 'Katır Edin' || copy.acquireLabel === 'Katır Yenile';
-
-    useEffect(() => {
-        setEmail(entitlements.accountEmail ?? '');
-    }, [entitlements.accountEmail]);
+    const showRemove = entitlements.signedIn && variant === 'gate';
+    const showCodeBackup = variant === 'gate' && entitlements.phase !== 'entitled' && entitlements.phase !== 'grace';
 
     const onUpgradeSite = async () => {
         const result = await DataService.openExternalUrl(KATIR_UPGRADE_URL);
         if (!result.ok) toast.error(result.error || 'Sayfa açılamadı');
     };
 
-    const onResumeUpgrade = async () => {
-        setBusy(true);
-        try {
-            const result = await DataService.startKatirUpgrade();
-            if (!result.ok) toast.error(result.error || 'Güncelleme başlatılamadı');
-        } finally {
-            setBusy(false);
-        }
-    };
-
-    const onSignIn = async () => {
+    const onApplyCode = async () => {
         setBusy(true);
         setError(null);
         try {
-            const result = await DataService.signInAccount(email);
+            const result = await DataService.activateLicenseKey(activationCode.trim());
             if (!result.ok) {
-                setError(result.error || 'Giriş başarısız');
+                setError(result.error || 'Kod uygulanamadı');
                 return;
             }
+            setActivationCode('');
             onChanged?.();
         } finally {
             setBusy(false);
         }
     };
 
-    const onSignOut = async () => {
+    const onRemoveKey = async () => {
         setBusy(true);
         try {
             await DataService.signOutAccount();
@@ -1703,89 +1776,63 @@ function KatirMembershipPanel({
                             {copy.dateLabel} {dateLine}
                         </p>
                     ) : null}
-                    {entitlements.signedIn && entitlements.accountEmail ? (
-                        <p className="mt-1 truncate text-[11px] text-muted-foreground">{entitlements.accountEmail}</p>
-                    ) : null}
                 </div>
             </div>
 
-            {showSignIn ? (
+            <div className="flex flex-wrap items-center gap-2">
+                {showAcquire && entitlements.phase !== 'entitled' ? (
+                    <Button
+                        type="button"
+                        size="sm"
+                        className="h-8 px-3"
+                        disabled={busy}
+                        onClick={() => void onUpgradeSite()}
+                    >
+                        {copy.acquireLabel}
+                    </Button>
+                ) : null}
+                {showRemove ? (
+                    <Button
+                        type="button"
+                        size="sm"
+                        variant="ghost"
+                        className="h-8 px-3"
+                        disabled={busy}
+                        onClick={() => void onRemoveKey()}
+                    >
+                        Anahtarı kaldır
+                    </Button>
+                ) : null}
+            </div>
+            {showCodeBackup ? (
                 <form
                     className="flex min-w-0 flex-col gap-2"
                     onSubmit={(event) => {
                         event.preventDefault();
-                        void onSignIn();
+                        void onApplyCode();
                     }}
                 >
                     <Input
-                        type="email"
-                        autoComplete="username"
-                        placeholder="E-posta"
-                        aria-label="E-posta"
-                        value={email}
+                        autoComplete="off"
+                        placeholder="Aktivasyon kodu"
+                        aria-label="Aktivasyon kodu"
+                        value={activationCode}
                         error={Boolean(error)}
-                        onChange={(event) => setEmail(event.target.value)}
+                        onChange={(event) => setActivationCode(event.target.value)}
                         className="h-9 border-border/70 bg-card/45"
                     />
                     {error ? <p className="text-xs text-destructive">{error}</p> : null}
-                    <div className="flex flex-wrap items-center gap-2">
-                        <Button
-                            type="submit"
-                            size="sm"
-                            className="h-8 px-3"
-                            disabled={busy || !email.trim()}
-                        >
-                            Giriş Yap
-                        </Button>
-                        <Button
-                            type="button"
-                            size="sm"
-                            variant="ghost"
-                            className="h-8 px-3"
-                            disabled={busy}
-                            onClick={() => void onUpgradeSite()}
-                        >
-                            Katır Edin
-                        </Button>
-                    </div>
+                    <Button
+                        type="submit"
+                        size="sm"
+                        variant="ghost"
+                        className="h-8 w-fit px-3"
+                        disabled={busy || !activationCode.trim()}
+                    >
+                        Kodu uygula
+                    </Button>
                 </form>
-            ) : (
-                <div className="flex flex-wrap items-center gap-2">
-                    {showUpdate ? (
-                        <Button
-                            type="button"
-                            size="sm"
-                            className="h-8 px-3"
-                            disabled={busy}
-                            onClick={() => void onResumeUpgrade()}
-                        >
-                            Güncellemeyi Denetle
-                        </Button>
-                    ) : showAcquire ? (
-                        <Button
-                            type="button"
-                            size="sm"
-                            className="h-8 px-3"
-                            disabled={busy}
-                            onClick={() => void onUpgradeSite()}
-                        >
-                            {copy.acquireLabel}
-                        </Button>
-                    ) : null}
-                    {entitlements.signedIn && variant === 'gate' ? (
-                        <Button
-                            type="button"
-                            size="sm"
-                            variant="ghost"
-                            className="h-8 px-3"
-                            disabled={busy}
-                            onClick={() => void onSignOut()}
-                        >
-                            Çıkış
-                        </Button>
-                    ) : null}
-                </div>
-            )}
+            ) : null}
         </div>
     );
 }
@@ -1882,15 +1929,17 @@ function KatirStatusRow({
                         size="sm"
                         variant="ghost"
                         className="h-6 px-1.5 text-[11px]"
-                        title="Oturumu kapat ve köprüyü durdur"
+                        title="Lisansı kaldır ve köprüyü durdur"
                         onClick={() => {
                             void DataService.signOutAccount();
                         }}
                     >
-                        Çıkış
+                        Anahtarı kaldır
                     </Button>
                 ) : null}
-                <WalkStatusSummary events={status?.lastWalk?.events} />
+                <WalkStatusSummary
+                    events={status?.activity?.length ? status.activity : status?.lastWalk?.events}
+                />
             </div>
         </div>
     );
@@ -2190,8 +2239,8 @@ const KatirDashboardPanel = React.memo(function KatirDashboardPanel({
                             {chartMode === 'cumulative' ? (
                                 <p className="mb-1 text-[10px] text-muted-foreground">
                                     {showAktifStok
-                                        ? 'Kümülatif açılış (görünür pencere); aktif stok = kümülatif açılış − kümülatif kapanış.'
-                                        : 'Kümülatif açılış (görünür pencere). Kapanış serisi kapalıysa bu stok değildir.'}
+                                        ? ''
+                                        : ''}
                                 </p>
                             ) : null}
                             <OpeningTimeline
@@ -2734,47 +2783,21 @@ export const UyapCommandTab: React.FC = () => {
                                         <p className="text-xs text-muted-foreground">Henüz UYAP Evrak Kartı Yok.</p>
                                     ) : (
                                         <ul className="min-w-0 space-y-0.5 text-sm">
-                                            {recentEvrak.map((row) => {
-                                                const { tur, date } = recentCardLabel(row);
-                                                const on = selected?.id === row.matter_id;
-                                                const court = recentCourtName(row);
-                                                return (
-                                                    <li key={row.id} className="flex min-w-0 items-center gap-1.5">
-                                                        <button
-                                                            type="button"
-                                                            className={cn(
-                                                                'min-w-0 flex-1 rounded-lg px-2 py-1 text-left hover:bg-accent/50',
-                                                                on
-                                                                    ? 'bg-primary/20 text-foreground ring-1 ring-inset ring-primary/45'
-                                                                    : 'text-foreground/80',
-                                                            )}
-                                                            onClick={() => {
-                                                                const pick = recentToPick(row);
-                                                                if (pick) selectMatter(pick);
-                                                            }}
-                                                        >
-                                                            <span className="block min-w-0 truncate">
-                                                                {row.file_number}
-                                                                <span className="text-muted-foreground"> · {tur}</span>
-                                                            </span>
-                                                            <span className="block min-w-0 truncate text-[11px] text-muted-foreground">
-                                                                {court}
-                                                                {date ? ` · ${date}` : ''}
-                                                            </span>
-                                                        </button>
-                                                        <ViewEvrakButton
-                                                            disabled={busy || (!katirLive && !row.file_path)}
-                                                            title={!katirLive && !row.file_path ? 'Katır ile indirilir' : 'Görüntüle'}
-                                                            onClick={() => void onViewRecent(row)}
-                                                        />
-                                                        <DownloadEvrakButton
-                                                            disabled={busy || !katirLive}
-                                                            title={katirLive ? 'İndir' : 'Katır ile indirilir'}
-                                                            onClick={() => void onDownloadRecent(row)}
-                                                        />
-                                                    </li>
-                                                );
-                                            })}
+                                            {recentEvrak.map((row) => (
+                                                <RecentEvrakRow
+                                                    key={row.id}
+                                                    row={row}
+                                                    selected={selected?.id === row.matter_id}
+                                                    busy={busy}
+                                                    katirLive={katirLive}
+                                                    onSelect={(next) => {
+                                                        const pick = recentToPick(next);
+                                                        if (pick) selectMatter(pick);
+                                                    }}
+                                                    onView={(next) => void onViewRecent(next)}
+                                                    onDownload={(next) => void onDownloadRecent(next)}
+                                                />
+                                            ))}
                                         </ul>
                                     )}
                                 </div>

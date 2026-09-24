@@ -1,3 +1,6 @@
+import type { JSONContent } from '@tiptap/core';
+import { parseHtmlFragment } from './sanitizeDocumentHtml';
+
 /**
  * UYAP mahkeme evrakları: `content.xml` içindeki `<webID>` ve ZIP `documentproperties.xml`
  * (uyapdogrulamakodu, uyapsicil) ile PDF/ekranda görünen doğrulama bandı.
@@ -106,18 +109,125 @@ export function buildUyapVerificationNoticeText(meta: UyapVerificationMeta): str
     return text;
 }
 
-/** QR içeriği: portal + erişim anahtarı (UYAP çıktılarıyla uyumlu kısa form). */
+/**
+ * QR içeriği: portal + erişim anahtarı (UYAP çıktılarıyla uyumlu kısa form).
+ * Native UYAP PDFs under `debug/UDF_QR/` and `debug/eyp/` decode to
+ * `http://vatandas.uyap.gov.tr <webID>` (space-separated; webID may contain
+ * spaced dashes). Not a query-string URL. Do not change without a new decode.
+ */
 export function buildUyapVerificationQrPayload(meta: UyapVerificationMeta): string {
     return `${UYAP_VATANDAS_PORTAL_URL} ${meta.accessToken.trim()}`;
 }
 
-/** TipTap’e gömülmemesi için editör HTML’inden doğrulama bandını çıkarır. */
+const UYAP_VERIFICATION_NODE_SELECTOR = '[data-uyap-verification], .uyap-verification-block';
+
+/** Distinctive UYAP PDF sentence; leftover copies in TipTap JSON/HTML match this. */
+export const UYAP_VERIFICATION_NOTICE_MARKER = 'UYAP Bilişim Sistemindeki bu dokümana';
+
+export function htmlContainsUyapVerification(html: string): boolean {
+    if (!html) return false;
+    return html.includes('uyap-verification') || html.includes(UYAP_VERIFICATION_NOTICE_MARKER);
+}
+
+export function countUyapVerificationNoticeOccurrences(html: string): number {
+    if (!html) return 0;
+    let count = 0;
+    let from = 0;
+    while (from < html.length) {
+        const at = html.indexOf(UYAP_VERIFICATION_NOTICE_MARKER, from);
+        if (at < 0) break;
+        count += 1;
+        from = at + UYAP_VERIFICATION_NOTICE_MARKER.length;
+    }
+    return count;
+}
+
+/** True when a text node is an adopted/exported UYAP verification sentence (not body copy). */
+export function isUyapVerificationNoticeText(text: string): boolean {
+    const t = text.replace(/\s+/g, ' ').trim();
+    if (!t.includes(UYAP_VERIFICATION_NOTICE_MARKER)) return false;
+    if (!t.includes('vatandas.uyap.gov.tr')) return false;
+    return t.length < 800;
+}
+
+function stripUyapVerificationFromHtmlWithRegex(html: string): string {
+    let out = html;
+    out = out.replace(
+        /<(section|div|table)\b[^>]*(?:data-uyap-verification|uyap-verification-block)[^>]*>[\s\S]*?<\/\1>/gi,
+        '',
+    );
+    const blockTags = ['p', 'li', 'h1', 'h2', 'h3', 'h4', 'h5', 'h6', 'td', 'th'];
+    for (const tag of blockTags) {
+        const re = new RegExp(`<${tag}\\b[^>]*>[\\s\\S]*?<\\/${tag}>`, 'gi');
+        out = out.replace(re, (block) => (block.includes(UYAP_VERIFICATION_NOTICE_MARKER) ? '' : block));
+    }
+    return out.replace(/\n{3,}/g, '\n\n').trim();
+}
+
+function stripUyapVerificationNoticeElements(root: ParentNode): void {
+    root.querySelectorAll(UYAP_VERIFICATION_NODE_SELECTOR).forEach((el) => el.remove());
+    root.querySelectorAll('p, li, h1, h2, h3, h4, h5, h6, td, th').forEach((el) => {
+        if (!isUyapVerificationNoticeText(el.textContent || '')) return;
+        const block = el.closest('section, table, p, li') ?? el;
+        block.remove();
+    });
+}
+
+/** TipTap’e gömülmemesi için editör HTML’inden doğrulama bandını çıkarır (parser-based). */
 export function stripUyapVerificationFromHtml(html: string): string {
-    if (!html || !html.includes('uyap-verification')) return html;
-    return html
-        .replace(/<section\b[^>]*\bdata-uyap-verification\b[^>]*>[\s\S]*?<\/section>/gi, '')
-        .replace(/<div\b[^>]*\bdata-uyap-verification\b[^>]*>[\s\S]*?<\/div>/gi, '')
-        .trim();
+    if (!htmlContainsUyapVerification(html)) return html;
+    const wrap = parseHtmlFragment(html);
+    if (!wrap) {
+        return stripUyapVerificationFromHtmlWithRegex(html);
+    }
+    stripUyapVerificationNoticeElements(wrap);
+    return wrap.innerHTML.trim();
+}
+
+function collectTipTapText(node: JSONContent): string {
+    if (typeof node.text === 'string') return node.text;
+    if (!node.content?.length) return '';
+    return node.content.map(collectTipTapText).join('');
+}
+
+function hasElementChildren(node: JSONContent): boolean {
+    return Boolean(node.content?.some((child) => child.type && child.type !== 'text'));
+}
+
+function shouldDropUyapVerificationJsonNode(node: JSONContent): boolean {
+    if (node.type === 'doc') return false;
+    const attrs = node.attrs ?? {};
+    if (attrs['data-uyap-verification'] === true || attrs['data-uyap-verification'] === 'true') {
+        return true;
+    }
+    const className = typeof attrs.class === 'string' ? attrs.class : '';
+    if (className.includes('uyap-verification-block')) return true;
+    if (hasElementChildren(node)) return false;
+    return isUyapVerificationNoticeText(collectTipTapText(node));
+}
+
+/**
+ * Drop adopted QR/notice nodes from TipTap JSON so autosave / UDF export never
+ * persist a temp PDF pin.
+ */
+export function stripUyapVerificationFromTipTapJson(doc: JSONContent): JSONContent {
+    const walk = (node: JSONContent): JSONContent | null => {
+        if (shouldDropUyapVerificationJsonNode(node)) return null;
+        if (!node.content?.length) return node;
+        const next = node.content.map(walk).filter((child): child is JSONContent => child != null);
+        if (next.length === 0 && node.type !== 'doc') return null;
+        if (next.length === node.content.length && next.every((child, i) => child === node.content![i])) {
+            return node;
+        }
+        return { ...node, content: next };
+    };
+    return walk(doc) ?? { type: 'doc', content: [{ type: 'paragraph' }] };
+}
+
+/** Live ProseMirror DOM: remove every verification node, not only the temp-export attr. */
+export function stripUyapVerificationDom(root: ParentNode | null | undefined): void {
+    if (!root) return;
+    stripUyapVerificationNoticeElements(root);
 }
 
 export const UDF_VERIFICATION_STORAGE_PREFIX = 'nomai-udf-verification-';

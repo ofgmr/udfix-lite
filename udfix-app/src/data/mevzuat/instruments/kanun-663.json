@@ -1,0 +1,1379 @@
+{
+  "id": "kanun:663",
+  "kind": "kanun",
+  "no": "663",
+  "title": "Sağlık Bakanlığı ve Bağlı Kuruluşlarının Teşkilat ve Görevleri Hakkında Kanun Hükmünde Kararname",
+  "shortName": "KHK 663",
+  "aliases": [
+    "KHK 663",
+    "Sağlık Bakanlığı ve Bağlı Kuruluşlarının Teşkilat ve Görevleri Hakkında Kanun Hükmünde Kararname",
+    "663"
+  ],
+  "tur": 4,
+  "tertip": 5,
+  "sourceUrl": "https://www.mevzuat.gov.tr/mevzuat?MevzuatNo=663&MevzuatTur=4&MevzuatTertip=5",
+  "kabulTarihi": null,
+  "maddeCount": 80,
+  "maddeler": [
+    {
+      "id": "kanun:663:m:1",
+      "maddeKind": "madde",
+      "maddeNo": "1",
+      "heading": "Madde 1",
+      "text": "(Mülga: 2/7/2018-KHK-703/25 md.)",
+      "preview": "(Mülga: 2/7/2018-KHK-703/25 md.)",
+      "kitap": null,
+      "kisim": null,
+      "bolum": "BİRİNCİ BÖLÜM · Amaç, Kapsam ve Görevler",
+      "ayirim": null,
+      "maddeBaslik": "Amaç ve kapsam",
+      "sectionPath": [
+        "BİRİNCİ BÖLÜM · Amaç, Kapsam ve Görevler",
+        "Amaç ve kapsam"
+      ]
+    },
+    {
+      "id": "kanun:663:m:2",
+      "maddeKind": "madde",
+      "maddeNo": "2",
+      "heading": "Madde 2",
+      "text": "(Mülga: 2/7/2018-KHK-703/25 md.)",
+      "preview": "(Mülga: 2/7/2018-KHK-703/25 md.)",
+      "kitap": null,
+      "kisim": null,
+      "bolum": "BİRİNCİ BÖLÜM · Amaç, Kapsam ve Görevler",
+      "ayirim": null,
+      "maddeBaslik": "Görevler",
+      "sectionPath": [
+        "BİRİNCİ BÖLÜM · Amaç, Kapsam ve Görevler",
+        "Görevler"
+      ]
+    },
+    {
+      "id": "kanun:663:m:3",
+      "maddeKind": "madde",
+      "maddeNo": "3",
+      "heading": "Madde 3",
+      "text": "(Mülga: 2/7/2018-KHK-703/25 md.)",
+      "preview": "(Mülga: 2/7/2018-KHK-703/25 md.)",
+      "kitap": null,
+      "kisim": null,
+      "bolum": "İKİNCİ BÖLÜM · Bakanlık Teşkilatı",
+      "ayirim": null,
+      "maddeBaslik": "Teşkilat",
+      "sectionPath": [
+        "İKİNCİ BÖLÜM · Bakanlık Teşkilatı",
+        "Teşkilat"
+      ]
+    },
+    {
+      "id": "kanun:663:m:4",
+      "maddeKind": "madde",
+      "maddeNo": "4",
+      "heading": "Madde 4",
+      "text": "(Mülga: 2/7/2018-KHK-703/25 md.)",
+      "preview": "(Mülga: 2/7/2018-KHK-703/25 md.)",
+      "kitap": null,
+      "kisim": null,
+      "bolum": "İKİNCİ BÖLÜM · Bakanlık Teşkilatı",
+      "ayirim": null,
+      "maddeBaslik": "Bakan",
+      "sectionPath": [
+        "İKİNCİ BÖLÜM · Bakanlık Teşkilatı",
+        "Bakan"
+      ]
+    },
+    {
+      "id": "kanun:663:m:5",
+      "maddeKind": "madde",
+      "maddeNo": "5",
+      "heading": "Madde 5",
+      "text": "(Mülga: 2/7/2018-KHK-703/25 md.)",
+      "preview": "(Mülga: 2/7/2018-KHK-703/25 md.)",
+      "kitap": null,
+      "kisim": null,
+      "bolum": "İKİNCİ BÖLÜM · Bakanlık Teşkilatı",
+      "ayirim": null,
+      "maddeBaslik": "Müsteşar ve Müsteşar Yardımcıları",
+      "sectionPath": [
+        "İKİNCİ BÖLÜM · Bakanlık Teşkilatı",
+        "Müsteşar ve Müsteşar Yardımcıları"
+      ]
+    },
+    {
+      "id": "kanun:663:m:6",
+      "maddeKind": "madde",
+      "maddeNo": "6",
+      "heading": "Madde 6",
+      "text": "(Mülga: 2/7/2018-KHK-703/25 md.)",
+      "preview": "(Mülga: 2/7/2018-KHK-703/25 md.)",
+      "kitap": null,
+      "kisim": null,
+      "bolum": "İKİNCİ BÖLÜM · Bakanlık Teşkilatı",
+      "ayirim": null,
+      "maddeBaslik": "Sağlık Politikaları Kurulu",
+      "sectionPath": [
+        "İKİNCİ BÖLÜM · Bakanlık Teşkilatı",
+        "Sağlık Politikaları Kurulu"
+      ]
+    },
+    {
+      "id": "kanun:663:m:7",
+      "maddeKind": "madde",
+      "maddeNo": "7",
+      "heading": "Madde 7",
+      "text": "(Mülga: 2/7/2018-KHK-703/25 md.)",
+      "preview": "(Mülga: 2/7/2018-KHK-703/25 md.)",
+      "kitap": null,
+      "kisim": null,
+      "bolum": "ÜÇÜNCÜ BÖLÜM · Hizmet Birimleri",
+      "ayirim": null,
+      "maddeBaslik": "Hizmet birimleri",
+      "sectionPath": [
+        "ÜÇÜNCÜ BÖLÜM · Hizmet Birimleri",
+        "Hizmet birimleri"
+      ]
+    },
+    {
+      "id": "kanun:663:m:8",
+      "maddeKind": "madde",
+      "maddeNo": "8",
+      "heading": "Madde 8",
+      "text": "(Mülga: 2/7/2018-KHK-703/25 md.)",
+      "preview": "(Mülga: 2/7/2018-KHK-703/25 md.)",
+      "kitap": null,
+      "kisim": null,
+      "bolum": "ÜÇÜNCÜ BÖLÜM · Hizmet Birimleri",
+      "ayirim": null,
+      "maddeBaslik": "Sağlık Hizmetleri Genel Müdürlüğü",
+      "sectionPath": [
+        "ÜÇÜNCÜ BÖLÜM · Hizmet Birimleri",
+        "Sağlık Hizmetleri Genel Müdürlüğü"
+      ]
+    },
+    {
+      "id": "kanun:663:m:9",
+      "maddeKind": "madde",
+      "maddeNo": "9",
+      "heading": "Madde 9",
+      "text": "(Mülga: 2/7/2018-KHK-703/25 md.)",
+      "preview": "(Mülga: 2/7/2018-KHK-703/25 md.)",
+      "kitap": null,
+      "kisim": null,
+      "bolum": "ÜÇÜNCÜ BÖLÜM · Hizmet Birimleri",
+      "ayirim": null,
+      "maddeBaslik": "Acil Sağlık Hizmetleri Genel Müdürlüğü",
+      "sectionPath": [
+        "ÜÇÜNCÜ BÖLÜM · Hizmet Birimleri",
+        "Acil Sağlık Hizmetleri Genel Müdürlüğü"
+      ]
+    },
+    {
+      "id": "kanun:663:m:10",
+      "maddeKind": "madde",
+      "maddeNo": "10",
+      "heading": "Madde 10",
+      "text": "(Mülga: 2/7/2018-KHK-703/25 md.)",
+      "preview": "(Mülga: 2/7/2018-KHK-703/25 md.)",
+      "kitap": null,
+      "kisim": null,
+      "bolum": "ÜÇÜNCÜ BÖLÜM · Hizmet Birimleri",
+      "ayirim": null,
+      "maddeBaslik": "Sağlığın Geliştirilmesi Genel Müdürlüğü",
+      "sectionPath": [
+        "ÜÇÜNCÜ BÖLÜM · Hizmet Birimleri",
+        "Sağlığın Geliştirilmesi Genel Müdürlüğü"
+      ]
+    },
+    {
+      "id": "kanun:663:m:11",
+      "maddeKind": "madde",
+      "maddeNo": "11",
+      "heading": "Madde 11",
+      "text": "(Mülga: 2/7/2018-KHK-703/25 md.)",
+      "preview": "(Mülga: 2/7/2018-KHK-703/25 md.)",
+      "kitap": null,
+      "kisim": null,
+      "bolum": "ÜÇÜNCÜ BÖLÜM · Hizmet Birimleri",
+      "ayirim": null,
+      "maddeBaslik": "Sağlık Bilgi Sistemleri Genel Müdürlüğü",
+      "sectionPath": [
+        "ÜÇÜNCÜ BÖLÜM · Hizmet Birimleri",
+        "Sağlık Bilgi Sistemleri Genel Müdürlüğü"
+      ]
+    },
+    {
+      "id": "kanun:663:m:12",
+      "maddeKind": "madde",
+      "maddeNo": "12",
+      "heading": "Madde 12",
+      "text": "(Mülga: 19/11/2014-6569/45 md.)",
+      "preview": "(Mülga: 19/11/2014-6569/45 md.)",
+      "kitap": null,
+      "kisim": null,
+      "bolum": "ÜÇÜNCÜ BÖLÜM · Hizmet Birimleri",
+      "ayirim": null,
+      "maddeBaslik": "Sağlık Araştırmaları Genel Müdürlüğü",
+      "sectionPath": [
+        "ÜÇÜNCÜ BÖLÜM · Hizmet Birimleri",
+        "Sağlık Araştırmaları Genel Müdürlüğü"
+      ]
+    },
+    {
+      "id": "kanun:663:m:13",
+      "maddeKind": "madde",
+      "maddeNo": "13",
+      "heading": "Madde 13",
+      "text": "(Mülga: 2/7/2018-KHK-703/25 md.)",
+      "preview": "(Mülga: 2/7/2018-KHK-703/25 md.)",
+      "kitap": null,
+      "kisim": null,
+      "bolum": "ÜÇÜNCÜ BÖLÜM · Hizmet Birimleri",
+      "ayirim": null,
+      "maddeBaslik": "Sağlık Yatırımları Genel Müdürlüğü",
+      "sectionPath": [
+        "ÜÇÜNCÜ BÖLÜM · Hizmet Birimleri",
+        "Sağlık Yatırımları Genel Müdürlüğü"
+      ]
+    },
+    {
+      "id": "kanun:663:m:14",
+      "maddeKind": "madde",
+      "maddeNo": "14",
+      "heading": "Madde 14",
+      "text": "(Mülga: 2/7/2018-KHK-703/25 md.)\n\n Halk Sağlığı Genel Müdürlüğü\n MADDE 14/A- (Ek: 15/8/2017-KHK-694/185 md.; Aynen kabul: 1/2/2018-7078/178 md.; Mülga: 2/7/2018-KHK-703/25 md.)\n\n Kamu Hastaneleri Genel Müdürlüğü\n MADDE 14/B- (Ek: 15/8/2017-KHK-694/185 md.; Aynen kabul: 1/2/2018-7078/178 md.; Mülga: 2/7/2018-KHK-703/25 md.)",
+      "preview": "(Mülga: 2/7/2018-KHK-703/25 md.) Halk Sağlığı Genel Müdürlüğü MADDE 14/A- (Ek: 15/8/2017-KHK-694/185 md.; Aynen kabul: 1/2/2018-7078/178 md.…",
+      "kitap": null,
+      "kisim": null,
+      "bolum": "ÜÇÜNCÜ BÖLÜM · Hizmet Birimleri",
+      "ayirim": null,
+      "maddeBaslik": "Dış İlişkiler ve Avrupa Birliği Genel Müdürlüğü",
+      "sectionPath": [
+        "ÜÇÜNCÜ BÖLÜM · Hizmet Birimleri",
+        "Dış İlişkiler ve Avrupa Birliği Genel Müdürlüğü"
+      ]
+    },
+    {
+      "id": "kanun:663:m:15",
+      "maddeKind": "madde",
+      "maddeNo": "15",
+      "heading": "Madde 15",
+      "text": "(Mülga: 2/7/2018-KHK-703/25 md.)",
+      "preview": "(Mülga: 2/7/2018-KHK-703/25 md.)",
+      "kitap": null,
+      "kisim": null,
+      "bolum": "ÜÇÜNCÜ BÖLÜM · Hizmet Birimleri",
+      "ayirim": null,
+      "maddeBaslik": "Hukuk Müşavirliği",
+      "sectionPath": [
+        "ÜÇÜNCÜ BÖLÜM · Hizmet Birimleri",
+        "Hukuk Müşavirliği"
+      ]
+    },
+    {
+      "id": "kanun:663:m:16",
+      "maddeKind": "madde",
+      "maddeNo": "16",
+      "heading": "Madde 16",
+      "text": "(Mülga: 2/7/2018-KHK-703/25 md.)",
+      "preview": "(Mülga: 2/7/2018-KHK-703/25 md.)",
+      "kitap": null,
+      "kisim": null,
+      "bolum": "ÜÇÜNCÜ BÖLÜM · Hizmet Birimleri",
+      "ayirim": null,
+      "maddeBaslik": "Denetim Hizmetleri Başkanlığı",
+      "sectionPath": [
+        "ÜÇÜNCÜ BÖLÜM · Hizmet Birimleri",
+        "Denetim Hizmetleri Başkanlığı"
+      ]
+    },
+    {
+      "id": "kanun:663:m:17",
+      "maddeKind": "madde",
+      "maddeNo": "17",
+      "heading": "Madde 17",
+      "text": "(Mülga: 2/7/2018-KHK-703/25 md.)",
+      "preview": "(Mülga: 2/7/2018-KHK-703/25 md.)",
+      "kitap": null,
+      "kisim": null,
+      "bolum": "ÜÇÜNCÜ BÖLÜM · Hizmet Birimleri",
+      "ayirim": null,
+      "maddeBaslik": "Strateji Geliştirme Başkanlığı",
+      "sectionPath": [
+        "ÜÇÜNCÜ BÖLÜM · Hizmet Birimleri",
+        "Strateji Geliştirme Başkanlığı"
+      ]
+    },
+    {
+      "id": "kanun:663:m:18",
+      "maddeKind": "madde",
+      "maddeNo": "18",
+      "heading": "Madde 18",
+      "text": "(Mülga: 2/7/2018-KHK-703/25 md.)",
+      "preview": "(Mülga: 2/7/2018-KHK-703/25 md.)",
+      "kitap": null,
+      "kisim": null,
+      "bolum": "ÜÇÜNCÜ BÖLÜM · Hizmet Birimleri",
+      "ayirim": null,
+      "maddeBaslik": "Yönetim Hizmetleri Genel Müdürlüğü",
+      "sectionPath": [
+        "ÜÇÜNCÜ BÖLÜM · Hizmet Birimleri",
+        "Yönetim Hizmetleri Genel Müdürlüğü"
+      ]
+    },
+    {
+      "id": "kanun:663:m:19",
+      "maddeKind": "madde",
+      "maddeNo": "19",
+      "heading": "Madde 19",
+      "text": "(Mülga: 2/7/2018-KHK-703/25 md.)\n\n Basın ve Halkla İlişkiler Müşavirliği\n MADDE 19/A- (Ek: 4/7/2012-6354/15 md.; Mülga: 2/7/2018-KHK-703/25 md.)",
+      "preview": "(Mülga: 2/7/2018-KHK-703/25 md.) Basın ve Halkla İlişkiler Müşavirliği MADDE 19/A- (Ek: 4/7/2012-6354/15 md.; Mülga: 2/7/2018-KHK-703/25 md.…",
+      "kitap": null,
+      "kisim": null,
+      "bolum": "ÜÇÜNCÜ BÖLÜM · Hizmet Birimleri",
+      "ayirim": null,
+      "maddeBaslik": "Özel Kalem Müdürlüğü",
+      "sectionPath": [
+        "ÜÇÜNCÜ BÖLÜM · Hizmet Birimleri",
+        "Özel Kalem Müdürlüğü"
+      ]
+    },
+    {
+      "id": "kanun:663:m:20",
+      "maddeKind": "madde",
+      "maddeNo": "20",
+      "heading": "Madde 20",
+      "text": "(Mülga: 2/7/2018-KHK-703/25 md.)\n\n DÖRDÜNCÜ BÖLÜM\n Yüksek Sağlık Şûrası, Tıpta Uzmanlık Kurulu,",
+      "preview": "(Mülga: 2/7/2018-KHK-703/25 md.) DÖRDÜNCÜ BÖLÜM Yüksek Sağlık Şûrası, Tıpta Uzmanlık Kurulu,",
+      "kitap": null,
+      "kisim": null,
+      "bolum": "ÜÇÜNCÜ BÖLÜM · Hizmet Birimleri",
+      "ayirim": null,
+      "maddeBaslik": "Bakanlık Müşavirleri",
+      "sectionPath": [
+        "ÜÇÜNCÜ BÖLÜM · Hizmet Birimleri",
+        "Bakanlık Müşavirleri"
+      ]
+    },
+    {
+      "id": "kanun:663:m:21",
+      "maddeKind": "madde",
+      "maddeNo": "21",
+      "heading": "Madde 21",
+      "text": "(Mülga: 2/7/2018-KHK-703/25 md.)",
+      "preview": "(Mülga: 2/7/2018-KHK-703/25 md.)",
+      "kitap": null,
+      "kisim": null,
+      "bolum": "ÜÇÜNCÜ BÖLÜM · Hizmet Birimleri",
+      "ayirim": null,
+      "maddeBaslik": "Yüksek Sağlık Şûrası",
+      "sectionPath": [
+        "ÜÇÜNCÜ BÖLÜM · Hizmet Birimleri",
+        "Yüksek Sağlık Şûrası"
+      ]
+    },
+    {
+      "id": "kanun:663:m:22",
+      "maddeKind": "madde",
+      "maddeNo": "22",
+      "heading": "Madde 22",
+      "text": "(Mülga: 2/7/2018-KHK-703/25 md.)",
+      "preview": "(Mülga: 2/7/2018-KHK-703/25 md.)",
+      "kitap": null,
+      "kisim": null,
+      "bolum": "ÜÇÜNCÜ BÖLÜM · Hizmet Birimleri",
+      "ayirim": null,
+      "maddeBaslik": "Tıpta Uzmanlık Kurulu",
+      "sectionPath": [
+        "ÜÇÜNCÜ BÖLÜM · Hizmet Birimleri",
+        "Tıpta Uzmanlık Kurulu"
+      ]
+    },
+    {
+      "id": "kanun:663:m:23",
+      "maddeKind": "madde",
+      "maddeNo": "23",
+      "heading": "Madde 23",
+      "text": "(1) (Mülga: 2/7/2018-KHK-703/25 md.)\n (2) (Mülga: 2/7/2018-KHK-703/25 md.)\n (3) (Mülga: 2/7/2018-KHK-703/25 md.)\n (4) (Mülga: 2/7/2018-KHK-703/25 md.)\n (5) (Mülga: 2/7/2018-KHK-703/25 md.)\n (6) Kurulun görevleri şunlardır:\n a) Yeni bir sağlık mesleğinin veya dalının ihdasında görüş bildirmek.\n b) Sağlık mesleklerinin eğitim müfredatı hakkında görüş bildirmek.\n c) Sağlık mesleklerinin etik ilkelerini belirlemek.\n ç) Meslek mensuplarının meslekî yeterlilik ve etik eğitimi ile hasta hakları eğitimine tâbi tutulmasına ve eğitimlerin süresine ve müfredatına karar vermek.\n d) Sağlık engeli sebebiyle mesleğin icrasının yasaklanmasına karar vermek.\n e) Meslekten geçici veya sürekli men etmeye karar vermek.\n (7) Meslekî yetersizliğe ilişkin ihbar ve şikâyetler Kurulca doğrudan değerlendirmeye alınmaz. Bu ihbar ve şikâyetler öncelikle denetim görevlileri veya il ve ilçe sağlık müdürlüklerince incelemeye tâbi tutulur. Yapılan inceleme neticesinde fiilin meslekî yeterlilik değerlendirmesi yapılması veya meslekî müeyyide uygulanması gerektirdiğinin tespit edilmesi hâlinde kanaat raporunu içeren inceleme dosyası Kurula gönderilir. Ayrıca fiil hakkında adlî kovuşturma yapılmış ise, verilen kararlar da Kurula intikal ettirilir. İdarî inceleme veya varsa adlî kovuşturma kapsamında elde edilen bilgi ve belgeler de değerlendirilerek, genel hükümler saklı kalmak üzere Kurulca;\n a) Mesleğinde yetersizliği tespit edilenler ile dikkatsiz ve özensiz davranışla ölüme veya vücut fonksiyon kaybına sebep olanların yetersiz görüldükleri alanda meslekî yeterlilik eğitimine tâbi tutulmalarına karar verilir. Bu eğitim, yetersiz görülen alanda teorik ve/veya pratik eğitim ve/veya başka bir sağlık meslek mensubunun nezaret ve sorumluluğunda meslek icrası şeklinde yaptırılabilir. Yeterlilik eğitimine tâbi tutulanlar eğitim sonunda Kurulun belirleyeceği teorik ve/veya uygulamalı sınava tâbi tutulur. Bu sınavda başarılı olanlar mesleğini icraya devam eder; başarısız olanlar meslek icrasından men edilir. Meslekten men edilenler, durumlarına göre Kurulca belirlenen eğitime devam ettirilerek veya eğitime tâbi tutulmadan yapılacak müteakip sınavlarda başarı gösterdiği takdirde meslek icra etme hakkını yeniden kazanır.\n b) Hasta hakları uygulamalarına veya etik ilkelere aykırı davranışı sebebiyle ikiden fazla yazılı ikaz edilen veya ilgili mevzuatına göre disiplin cezası uygulanan sağlık meslek mensubu, hasta hakları veya etik ilkeler eğitim programına tâbi tutulur.\n c) (İptal: Anayasa Mahkemesinin 14/2/2013 tarihli ve E.: 2011/150, K. 2013/30 Sayılı Kararı ile.; Değişik: 12/7/2013-6495/73 md.) Meslek icrası esnasında sonucunu öngörerek veya görevinin gereklerine aykırı hareket ederek veyahut görevinin gereklerini yapmakta ihmal veya gecikme göstererek bir kişinin ağır derecede olmayan engelliliğine sebebiyet verenlerin üç aydan bir yıla kadar meslekten geçici men edilmesine karar verilir. Bu fiillerin beş yıl içinde tekrarı hâlinde verilecek cezalarda alt ve üst sınırlar iki katı olarak uygulanır.\n ç) (İptal: Anayasa Mahkemesinin 14/2/2013 tarihli ve E.: 2011/150, K. 2013/30 Sayılı Kararı ile.; Değişik: 12/7/2013-6495/73 md.) Meslek icrası esnasında sonucunu öngörerek veya görevinin gereklerine aykırı hareket ederek veyahut görevinin gereklerini yapmakta ihmal veya gecikme göstererek bir kişinin ağır engelliliğine veya ölümüne sebebiyet verenlerin bir yıldan üç yıla kadar meslekten geçici menine karar verilir. Bu fiillerin beş yıl içinde tekrarı hâlinde meslekten sürekli men kararı verilir.\n (8) Mesleğini icra etmesine mâni ve iyileşmesi mümkün olmayan aklî, ruhî ve bedenî hastalığı ortaya konulan sağlık meslek mensupları, Kurulun kararı ile mesleğini icradan yasaklanabilir.\n (9) Meslekî yetersizliğinden dolayı bir uzmanlık dalında mesleğini icra edemeyeceğine karar verilen meslek mensuplarının yetersizliğinin niteliğine göre uzmanlık öncesi sahip olduğu sağlık mesleğini icra edebilmelerine karar verilebilir.\n (10) Aynı olaydan dolayı ilgili hakkında ceza takibatına veya disiplin soruşturmasına başlanmış olması bu maddeye göre işlem yapılmasını geciktirmez ve engellemez; ilgilinin mahkûm olması veya olmaması ile disiplin cezası verilmiş veya verilmemiş olması hâlleri, ayrıca meslekî müeyyide uygulanmasını etkilemez.\n (11) Kanunla kurulmuş meslek odalarının ve birliklerinin kuruluş kanunlarındaki disiplin hükümleri saklıdır. Ancak fiilin her iki kanuna göre de müeyyide gerektirmesi hâlinde bu Kanun hükümleri uygulanır.\n (12) Meslekten geçici men edilmesine karar verilen Devlet memurları, men müddetince aylıksız izinli sayılır veya talepleri hâlinde aynı süreyle mesleği ile ilişkisi bulunmayan durumlarına uygun başka bir kadroya atanır. Sözleşmeli olanların sözleşmeleri men müddetince ücretsiz olarak askıya alınır. Meslekten sürekli men edilmesine karar verilen Devlet memurları istekleri hâlinde, mesleği ile ilişkisi bulunmayan durumlarına uygun başka bir kadroya atanır, aksi halde görevleri sona erer. Meslekten sürekli men edilmesine karar verilen sözleşmeli personelin sözleşmeleri sona erer.\n (13) Bu maddeye göre mesleğini geçici olarak sürdüremeyeceklerin durumları kayıtlara işlenir. Meslekten sürekli men edilmesine karar verilenlerin veya mesleğini icra etmekten yasaklananların diplomaları, uzmanlık veya meslek belgeleri Bakanlıkça iptal edilir ve sistemden kaydı silinir.\n (14) Bu maddenin uygulanmasına ilişkin usûl ve esaslar Bakanlık tarafından çıkarılacak yönetmelikle düzenlenir.",
+      "preview": "(1) (Mülga: 2/7/2018-KHK-703/25 md.) (2) (Mülga: 2/7/2018-KHK-703/25 md.) (3) (Mülga: 2/7/2018-KHK-703/25 md.) (4) (Mülga: 2/7/2018-KHK-703/…",
+      "kitap": null,
+      "kisim": null,
+      "bolum": "ÜÇÜNCÜ BÖLÜM · Hizmet Birimleri",
+      "ayirim": null,
+      "maddeBaslik": "Sağlık Meslekleri Kurulunun görevleri[2]",
+      "sectionPath": [
+        "ÜÇÜNCÜ BÖLÜM · Hizmet Birimleri",
+        "Sağlık Meslekleri Kurulunun görevleri[2]"
+      ]
+    },
+    {
+      "id": "kanun:663:m:24",
+      "maddeKind": "madde",
+      "maddeNo": "24",
+      "heading": "Madde 24",
+      "text": "(Mülga:2/1/2014-6514/2 md.)",
+      "preview": "(Mülga:2/1/2014-6514/2 md.)",
+      "kitap": null,
+      "kisim": null,
+      "bolum": "ÜÇÜNCÜ BÖLÜM · Hizmet Birimleri",
+      "ayirim": null,
+      "maddeBaslik": "Uzlaştırma prosedürü",
+      "sectionPath": [
+        "ÜÇÜNCÜ BÖLÜM · Hizmet Birimleri",
+        "Uzlaştırma prosedürü"
+      ]
+    },
+    {
+      "id": "kanun:663:m:25",
+      "maddeKind": "madde",
+      "maddeNo": "25",
+      "heading": "Madde 25",
+      "text": "(Mülga: 2/7/2018-KHK-703/25 md.)\n Hastane koordinasyon kurulu ve görevleri\n MADDE 25/A- (Ek: 15/8/2017-KHK-694/188 md.; Aynen kabul: 1/2/2018-7078/181 md. ; Mülga: 2/7/2018-KHK-703/25 md.) (Başlığı ile Birlikte Yeniden Düzenleme: 21/2/2024-7496/26 md.)\n (1) Hastane hizmetlerinin düzenli, etkin ve verimli yürütülmesini teminen hizmet birimleri arasında koordinasyonu sağlamak üzere hastane koordinasyon kurulu kurulur. Hastane koordinasyon kurulu, başhekimin başkanlığında;\n a) Hastane gelişim planlarını onaylar, uygulamasını takip ve koordine eder.\n b) 7/5/1987 tarihli ve 3359 sayılı Sağlık Hizmetleri Temel Kanununun ek 9 uncu maddesi kapsamında sözleşme imzalanan personelin sözleşmede belirtilen yükümlülüklerinin yerine getirilmesini takip ve gerektiğinde sözleşmenin feshine esas olmak üzere ikaz eder ve disiplin cezası verilmesi gereken hâlleri tespit eder.\n c) İlgili mevzuatta verilen diğer görevleri yerine getirir.\n (2) En az üç en fazla yedi üyeden oluşan hastane koordinasyon kurulunun; teşkil olacağı hastanelere ilişkin esaslar, karar ve toplanma yeter sayıları, üyelerinin nitelikleri, çalışma usul ve esasları ile sekretaryası Sağlık Bakanlığınca çıkarılan yönetmelikle belirlenir.",
+      "preview": "(Mülga: 2/7/2018-KHK-703/25 md.) Hastane koordinasyon kurulu ve görevleri MADDE 25/A- (Ek: 15/8/2017-KHK-694/188 md.; Aynen kabul: 1/2/2018-…",
+      "kitap": null,
+      "kisim": null,
+      "bolum": "BEŞİNCİ BÖLÜM · Taşra Teşkilatı",
+      "ayirim": null,
+      "maddeBaslik": "Taşra teşkilatı",
+      "sectionPath": [
+        "BEŞİNCİ BÖLÜM · Taşra Teşkilatı",
+        "Taşra teşkilatı"
+      ]
+    },
+    {
+      "id": "kanun:663:m:26",
+      "maddeKind": "madde",
+      "maddeNo": "26",
+      "heading": "Madde 26",
+      "text": "(Mülga: 15/8/2017-KHK-694/203 md.; Aynen kabul: 1/2/2018-7078/189 md.)",
+      "preview": "(Mülga: 15/8/2017-KHK-694/203 md.; Aynen kabul: 1/2/2018-7078/189 md.)",
+      "kitap": null,
+      "kisim": null,
+      "bolum": "ALTINCI BÖLÜM · Bağlı Kuruluşlar",
+      "ayirim": null,
+      "maddeBaslik": "Türkiye Halk Sağlığı Kurumu",
+      "sectionPath": [
+        "ALTINCI BÖLÜM · Bağlı Kuruluşlar",
+        "Türkiye Halk Sağlığı Kurumu"
+      ]
+    },
+    {
+      "id": "kanun:663:m:27",
+      "maddeKind": "madde",
+      "maddeNo": "27",
+      "heading": "Madde 27",
+      "text": "(Mülga: 2/7/2018-KHK-703/25 md.)",
+      "preview": "(Mülga: 2/7/2018-KHK-703/25 md.)",
+      "kitap": null,
+      "kisim": null,
+      "bolum": "ALTINCI BÖLÜM · Bağlı Kuruluşlar",
+      "ayirim": null,
+      "maddeBaslik": "Türkiye İlaç ve Tıbbî Cihaz Kurumu",
+      "sectionPath": [
+        "ALTINCI BÖLÜM · Bağlı Kuruluşlar",
+        "Türkiye İlaç ve Tıbbî Cihaz Kurumu"
+      ]
+    },
+    {
+      "id": "kanun:663:m:28",
+      "maddeKind": "madde",
+      "maddeNo": "28",
+      "heading": "Madde 28",
+      "text": "(1) (Mülga: 2/7/2018-KHK-703/25 md.)\n (2) (Mülga: 2/7/2018-KHK-703/25 md.)\n (3) (Mülga: 2/7/2018-KHK-703/25 md.)\n (4) Genel Müdürlükte çalışan memurlar ile sözleşmeli personelden, taşra teşkilatında görev yapan tabipler için en yüksek Devlet memuru aylığının (ek gösterge dâhil) % 400’ünü (…)[3] geçmemek üzere ek ödeme yapılabilir. Ek ödemenin oranı ile usûl ve esasları; görev yapılan birim ve iş hacmi, görevin önem ve güçlüğü, çalışma süresi, personelin sınıfı, kadro unvanı, derecesi ve atanma biçimi gibi kriterler ile personele aylık ve özlük hakları dışında ilgili mevzuatına göre yapılan diğer ilave ödemeler dikkate alınmak suretiyle Hazine ve Maliye Bakanlığının uygun görüşü üzerine Sağlık Bakanlığınca belirlenir. Bu ödemelerden damga vergisi hariç herhangi bir vergi kesilmez.[4]\n (5) (Mülga: 2/7/2018-KHK-703/25 md.)",
+      "preview": "(1) (Mülga: 2/7/2018-KHK-703/25 md.) (2) (Mülga: 2/7/2018-KHK-703/25 md.) (3) (Mülga: 2/7/2018-KHK-703/25 md.) (4) Genel Müdürlükte çalışan…",
+      "kitap": null,
+      "kisim": null,
+      "bolum": "ALTINCI BÖLÜM · Bağlı Kuruluşlar",
+      "ayirim": null,
+      "maddeBaslik": "Türkiye Hudut ve Sahiller Sağlık Genel Müdürlüğü",
+      "sectionPath": [
+        "ALTINCI BÖLÜM · Bağlı Kuruluşlar",
+        "Türkiye Hudut ve Sahiller Sağlık Genel Müdürlüğü"
+      ]
+    },
+    {
+      "id": "kanun:663:m:29",
+      "maddeKind": "madde",
+      "maddeNo": "29",
+      "heading": "Madde 29",
+      "text": "(Mülga: 15/8/2017-KHK-694/203 md.; Aynen kabul: 1/2/2018-7078/189 md.)",
+      "preview": "(Mülga: 15/8/2017-KHK-694/203 md.; Aynen kabul: 1/2/2018-7078/189 md.)",
+      "kitap": null,
+      "kisim": null,
+      "bolum": "ALTINCI BÖLÜM · Bağlı Kuruluşlar",
+      "ayirim": null,
+      "maddeBaslik": "Türkiye Kamu Hastaneleri Kurumu",
+      "sectionPath": [
+        "ALTINCI BÖLÜM · Bağlı Kuruluşlar",
+        "Türkiye Kamu Hastaneleri Kurumu"
+      ]
+    },
+    {
+      "id": "kanun:663:m:30",
+      "maddeKind": "madde",
+      "maddeNo": "30",
+      "heading": "Madde 30",
+      "text": "(Mülga: 15/8/2017-KHK-694/203 md.; Aynen kabul: 1/2/2018-7078/189 md.)",
+      "preview": "(Mülga: 15/8/2017-KHK-694/203 md.; Aynen kabul: 1/2/2018-7078/189 md.)",
+      "kitap": null,
+      "kisim": null,
+      "bolum": "ALTINCI BÖLÜM · Bağlı Kuruluşlar",
+      "ayirim": null,
+      "maddeBaslik": "Kamu Hastaneleri Birliklerinin kuruluşu",
+      "sectionPath": [
+        "ALTINCI BÖLÜM · Bağlı Kuruluşlar",
+        "Kamu Hastaneleri Birliklerinin kuruluşu"
+      ]
+    },
+    {
+      "id": "kanun:663:m:31",
+      "maddeKind": "madde",
+      "maddeNo": "31",
+      "heading": "Madde 31",
+      "text": "(Mülga: 15/8/2017-KHK-694/203 md.; Aynen kabul: 1/2/2018-7078/189 md.)",
+      "preview": "(Mülga: 15/8/2017-KHK-694/203 md.; Aynen kabul: 1/2/2018-7078/189 md.)",
+      "kitap": null,
+      "kisim": null,
+      "bolum": "ALTINCI BÖLÜM · Bağlı Kuruluşlar",
+      "ayirim": null,
+      "maddeBaslik": "Genel Sekreterin ve hastane yöneticisinin görev, yetki ve sorumlulukları",
+      "sectionPath": [
+        "ALTINCI BÖLÜM · Bağlı Kuruluşlar",
+        "Genel Sekreterin ve hastane yöneticisinin görev, yetki ve sorumlulukları"
+      ]
+    },
+    {
+      "id": "kanun:663:m:32",
+      "maddeKind": "madde",
+      "maddeNo": "32",
+      "heading": "Madde 32",
+      "text": "(Mülga: 15/8/2017-KHK-694/203 md.; Aynen kabul: 1/2/2018-7078/189 md.)",
+      "preview": "(Mülga: 15/8/2017-KHK-694/203 md.; Aynen kabul: 1/2/2018-7078/189 md.)",
+      "kitap": null,
+      "kisim": null,
+      "bolum": "ALTINCI BÖLÜM · Bağlı Kuruluşlar",
+      "ayirim": null,
+      "maddeBaslik": "Birlik personelinin niteliği ve statüsü",
+      "sectionPath": [
+        "ALTINCI BÖLÜM · Bağlı Kuruluşlar",
+        "Birlik personelinin niteliği ve statüsü"
+      ]
+    },
+    {
+      "id": "kanun:663:m:33",
+      "maddeKind": "madde",
+      "maddeNo": "33",
+      "heading": "Madde 33",
+      "text": "(Mülga: 15/8/2017-KHK-694/203 md.; Aynen kabul: 1/2/2018-7078/189 md.)",
+      "preview": "(Mülga: 15/8/2017-KHK-694/203 md.; Aynen kabul: 1/2/2018-7078/189 md.)",
+      "kitap": null,
+      "kisim": null,
+      "bolum": "ALTINCI BÖLÜM · Bağlı Kuruluşlar",
+      "ayirim": null,
+      "maddeBaslik": "Sözleşmeli personelin malî hakları ve yükümlülükleri",
+      "sectionPath": [
+        "ALTINCI BÖLÜM · Bağlı Kuruluşlar",
+        "Sözleşmeli personelin malî hakları ve yükümlülükleri"
+      ]
+    },
+    {
+      "id": "kanun:663:m:34",
+      "maddeKind": "madde",
+      "maddeNo": "34",
+      "heading": "Madde 34",
+      "text": "(Mülga: 15/8/2017-KHK-694/203 md.; Aynen kabul: 1/2/2018-7078/189 md.)",
+      "preview": "(Mülga: 15/8/2017-KHK-694/203 md.; Aynen kabul: 1/2/2018-7078/189 md.)",
+      "kitap": null,
+      "kisim": null,
+      "bolum": "ALTINCI BÖLÜM · Bağlı Kuruluşlar",
+      "ayirim": null,
+      "maddeBaslik": "Birlik hastanelerinin gruplandırılması ve denetimi",
+      "sectionPath": [
+        "ALTINCI BÖLÜM · Bağlı Kuruluşlar",
+        "Birlik hastanelerinin gruplandırılması ve denetimi"
+      ]
+    },
+    {
+      "id": "kanun:663:m:35",
+      "maddeKind": "madde",
+      "maddeNo": "35",
+      "heading": "Madde 35",
+      "text": "(Mülga: 2/7/2018-KHK-703/25 md.)",
+      "preview": "(Mülga: 2/7/2018-KHK-703/25 md.)",
+      "kitap": null,
+      "kisim": null,
+      "bolum": "YEDİNCİ BÖLÜM · Bağlı Kuruluşların Teşkilat Yapısı",
+      "ayirim": null,
+      "maddeBaslik": "Bağlı kuruluşların teşkilatı",
+      "sectionPath": [
+        "YEDİNCİ BÖLÜM · Bağlı Kuruluşların Teşkilat Yapısı",
+        "Bağlı kuruluşların teşkilatı"
+      ]
+    },
+    {
+      "id": "kanun:663:m:36",
+      "maddeKind": "madde",
+      "maddeNo": "36",
+      "heading": "Madde 36",
+      "text": "(Mülga: 2/7/2018-KHK-703/25 md.)",
+      "preview": "(Mülga: 2/7/2018-KHK-703/25 md.)",
+      "kitap": null,
+      "kisim": null,
+      "bolum": "YEDİNCİ BÖLÜM · Bağlı Kuruluşların Teşkilat Yapısı",
+      "ayirim": null,
+      "maddeBaslik": "Bağlı kuruluş yöneticilerinin görev, yetki ve sorumlulukları",
+      "sectionPath": [
+        "YEDİNCİ BÖLÜM · Bağlı Kuruluşların Teşkilat Yapısı",
+        "Bağlı kuruluş yöneticilerinin görev, yetki ve sorumlulukları"
+      ]
+    },
+    {
+      "id": "kanun:663:m:37",
+      "maddeKind": "madde",
+      "maddeNo": "37",
+      "heading": "Madde 37",
+      "text": "(Mülga: 2/7/2018-KHK-703/25 md.)",
+      "preview": "(Mülga: 2/7/2018-KHK-703/25 md.)",
+      "kitap": null,
+      "kisim": null,
+      "bolum": "SEKİZİNCİ BÖLÜM · Sorumluluk ve Yetkiler",
+      "ayirim": null,
+      "maddeBaslik": "Yöneticilerin sorumlulukları",
+      "sectionPath": [
+        "SEKİZİNCİ BÖLÜM · Sorumluluk ve Yetkiler",
+        "Yöneticilerin sorumlulukları"
+      ]
+    },
+    {
+      "id": "kanun:663:m:38",
+      "maddeKind": "madde",
+      "maddeNo": "38",
+      "heading": "Madde 38",
+      "text": "(Mülga: 2/7/2018-KHK-703/25 md.)",
+      "preview": "(Mülga: 2/7/2018-KHK-703/25 md.)",
+      "kitap": null,
+      "kisim": null,
+      "bolum": "SEKİZİNCİ BÖLÜM · Sorumluluk ve Yetkiler",
+      "ayirim": null,
+      "maddeBaslik": "Yetki devri",
+      "sectionPath": [
+        "SEKİZİNCİ BÖLÜM · Sorumluluk ve Yetkiler",
+        "Yetki devri"
+      ]
+    },
+    {
+      "id": "kanun:663:m:39",
+      "maddeKind": "madde",
+      "maddeNo": "39",
+      "heading": "Madde 39",
+      "text": "(Mülga: 2/7/2018-KHK-703/25 md.)",
+      "preview": "(Mülga: 2/7/2018-KHK-703/25 md.)",
+      "kitap": null,
+      "kisim": null,
+      "bolum": "SEKİZİNCİ BÖLÜM · Sorumluluk ve Yetkiler",
+      "ayirim": null,
+      "maddeBaslik": "Koordinasyon ve işbirliği",
+      "sectionPath": [
+        "SEKİZİNCİ BÖLÜM · Sorumluluk ve Yetkiler",
+        "Koordinasyon ve işbirliği"
+      ]
+    },
+    {
+      "id": "kanun:663:m:40",
+      "maddeKind": "madde",
+      "maddeNo": "40",
+      "heading": "Madde 40",
+      "text": "(Mülga: 2/7/2018-KHK-703/25 md.)",
+      "preview": "(Mülga: 2/7/2018-KHK-703/25 md.)",
+      "kitap": null,
+      "kisim": null,
+      "bolum": "SEKİZİNCİ BÖLÜM · Sorumluluk ve Yetkiler",
+      "ayirim": null,
+      "maddeBaslik": "Düzenleme yetkisi",
+      "sectionPath": [
+        "SEKİZİNCİ BÖLÜM · Sorumluluk ve Yetkiler",
+        "Düzenleme yetkisi"
+      ]
+    },
+    {
+      "id": "kanun:663:m:41",
+      "maddeKind": "madde",
+      "maddeNo": "41",
+      "heading": "Madde 41",
+      "text": "(Mülga: 2/7/2018-KHK-703/25 md.)",
+      "preview": "(Mülga: 2/7/2018-KHK-703/25 md.)",
+      "kitap": null,
+      "kisim": null,
+      "bolum": "SEKİZİNCİ BÖLÜM · Sorumluluk ve Yetkiler",
+      "ayirim": null,
+      "maddeBaslik": "Performans değerlendirmesi",
+      "sectionPath": [
+        "SEKİZİNCİ BÖLÜM · Sorumluluk ve Yetkiler",
+        "Performans değerlendirmesi"
+      ]
+    },
+    {
+      "id": "kanun:663:m:42",
+      "maddeKind": "madde",
+      "maddeNo": "42",
+      "heading": "Madde 42",
+      "text": "(Değişik: 15/8/2017-KHK-694/190 md.; Değiştirilerek kabul: 1/2/2018-7078/183 md.)\n (1) Bakanlıkta ekli (II) sayılı cetvelde belirtilen pozisyonlarda sözleşmeli olarak personel istihdam edilir. Yeni açılacak hastaneler için söz konusu cetveldeki başhekim, başhekim yardımcısı, müdür ve müdür yardımcısı pozisyonu sayıları, Hazine ve Maliye Bakanlığının uygun görüşü üzerine Bakanlıkça %20’ye kadar artırılabilir. Bakanlık ve bağlı kuruluşlarındaki diğer personel 657 sayılı Kanun ve 4924 sayılı Kanuna tabi olarak çalışır.\n (2) (Mülga: 2/7/2018-KHK-703/25 md.)\n (3) Ekli (II) sayılı cetvelde belirtilen pozisyonlardaki sözleşmeli personelde, en az lisans eğitimi veren yükseköğretim kurumlarından mezun olma şartı ve 657 sayılı Kanunun 48 inci maddesinde sayılan genel şartlar aranır.\n (4) (Mülga: 2/7/2018-KHK-703/25 md.)\n (5) Eğitim ve araştırma hastaneleri başhekiminin eğitim görevlisi tabip veya tıp alanında doçent veya profesör unvanlı tabip; diğer hastane başhekimlerinin uzman tabip veya tıp, hukuk, kamu yönetimi, işletme, sağlık yönetimi alanında lisans, yüksek lisans veya doktora eğitimi almış tabip; yüz yatağın altındaki hastanelerin ve 112 il ambulans servisi başhekimlerinin tabip; ağız ve diş sağlığı ile ilgili hastanelerde başhekimin diş hekimi olması; başhekim yardımcılarının ise tıp, diş hekimliği veya eczacılık öğrenimi almış olması veya lisansüstü eğitim yapmış olmaları kaydıyla sağlık bilimleri lisansiyeri olması gerekir.[7]\n (6) Açıktan alınacak uzmanların Kamu Personeli Seçme Sınavından en az yetmiş puan almış olmaları şarttır. Uzmanların dağılımına ve işe alımına ilişkin usul ve esaslar Bakanlık tarafından belirlenir. Açıktan istihdam edilen uzmanların oranı toplam uzman sayısının yüzde otuzunu geçemez.\n (7) Ekli (II) sayılı cetvelde yer alan sözleşmeli personelle ilgili bu maddede belirtilen asgari şartların dışında Bakanlıkça ilave nitelik ve şartlar belirlenebilir.\n (8) İlgili birimlerin fonksiyonları, rolleri ve hizmet ihtiyaçları dikkate alınarak ekli (II) sayılı cetvelde belirtilen sözleşmeli personel pozisyonlarının normları Bakanlıkça belirlenir.\n (9) Ekli (II) sayılı cetvelde belirtilen pozisyonlardaki sözleşmeli personelin sözleşmeleri Bakan tarafından imzalanır. Bakan, gerekli gördüğü hallerde sözleşme imzalama yetkisini merkez teşkilatı ile taşra teşkilatındaki yöneticilere devredebilir.\n (10) Ekli (II) sayılı cetvelde belirtilen pozisyonlardaki sözleşmeli personelin sözleşmeleri iki yıldan dört yıla kadar yapılabilir ve süre sonunda tekrar sözleşme imzalanabilir. Bu şekilde istihdam edilecek personelle yapılacak sözleşme ekinde kurumsal hedefler ve performans değerlendirme kriterleri de gözetilerek hazırlanan bireysel performans kriterleri ve hedefleri belirtilir. Sözleşme eki performans hedeflerindeki gerçekleşmelere bağlı olarak süresinden önce de sözleşmeler sona erdirilebilir. Başarısızlık sebebiyle il sağlık müdürünün değişmesi halinde başarısızlığa sebebiyet veren başkan ve yardımcıları ile ilçe sağlık müdürlerinin ve başhekimlerin sözleşmeleri kendiliğinden sona erer. Başarısızlık sebebiyle başhekimlerin sözleşmesinin sona erdirilmesi halinde başhekim yardımcıları ile müdür ve yardımcılarının sözleşmeleri de kendiliğinden sona erer. Sürenin bitmesi veya herhangi bir sebeple sözleşmenin sona ermesi halinde yeni sözleşmeler yapılıncaya kadar bu görevler iki ayı geçmemek kaydıyla geçici süreli görevlendirilenler tarafından yürütülür. Başhekimin değişmesine bağlı olarak sözleşmesi sona eren personelle yeniden sözleşme yapılabilir.\n (11) Ekli (II) sayılı cetvelde belirtilen sözleşmeli pozisyonlarda açıktan istihdam edilen personelin herhangi bir suretle sözleşmeleri sona erdiğinde ilişikleri kesilir ve sözleşmeli çalışmaları, memurluk veya diğer personel istihdam şekillerinden birine geçiş bakımından kazanılmış hak teşkil etmez.\n (12) Kamu kurum ve kuruluşlarında memur olarak istihdam edilenlerden uygun niteliklere sahip olanlar, kendilerinin isteği ve kurumlarının muvafakati ile ekli (II) sayılı cetvelde belirtilen pozisyonlarda sözleşmeli statüde istihdam edilebilir. Bu şekilde istihdam edilenler kurumlarından aylıksız izinli sayılır. Bunlara kurumlarınca peşin olarak ödenen aylıklar için borç çıkarılmaz ve sözleşme ücretleri takip eden aybaşı itibarıyla ödenmeye başlanır. Söz konusu personel aylıksız izinli sayıldıkları kadro unvanları dikkate alınmak suretiyle 5510 sayılı Kanunun 4 üncü maddesinin birinci fıkrasının (c) bendine tabi olmaya devam ederler. İlgililerin bu şekilde aylıksız izinde geçirdikleri süreler önceki kadro unvanları esas alınmak suretiyle emekli keseneğine esas aylık unsurlarının veya sigorta primine esas kazanç unsurlarının tespitinde dikkate alınır. Bu fıkra kapsamına girenlerin aylıksız izinli sayıldıkları süreler emekli ikramiyesinin hesabında dikkate alınır. Yükseköğretim kurumlarının öğretim üyesi kadrosunda bulunanlardan sözleşmeli statüde istihdam edilenlerin sözleşmeli olarak çalıştıkları süreler, akademik unvanların kazanılması, yükseköğretim kurumları dışında kullanılması ve diğer özlük işlemlerinde değerlendirilmesi bakımından yükseköğretim kurumlarında geçmiş sayılır. Sözleşmesi herhangi bir surette sona eren personel, bir ay içinde kurumuna müracaatı halinde, kurumunca bir ay içinde kadrosuna atanır ve bu görevlerde geçen hizmetleri kazanılmış hak aylık ve derecelerinde değerlendirilir.\n (13) Ekli (II) sayılı cetvelde belirtilen pozisyonlarda sözleşmeli istihdam edilenlerden onikinci fıkra kapsamına girmeyenler, sosyal güvenlik açısından 5510 sayılı Kanunun 4 üncü maddesinin birinci fıkrasının (a) bendi kapsamında kabul edilirler.\n (14) Ekli (II) sayılı cetvelde belirtilen personele, 657 sayılı Kanunun 4 üncü maddesinin (B) fıkrasına göre belirlenen tavan ücret esas alınarak genel bütçeden ekli (III) sayılı cetvelde belirlenen oranlarda peşin olarak ücret ödenir. Ayrıca bağış, faiz ve kira gelirleri hariç olmak üzere döner sermaye gelirlerinden aynı cetvelde belirlenen tavan oranları geçmemek kaydıyla ek ödeme yapılabilir. Bakanlıkça belirlenen hizmet sunum şartları ve kriterleri de dikkate alınmak suretiyle, bu ödemenin oranı ile usul ve esasları; personelin görevi, eğitim durumu, çalışma şartları ve çalışma süreleri, hizmete katkısı, performansı ve çalıştığı hastanenin grubu gibi unsurlar esas alınarak Hazine ve Maliye Bakanlığının uygun görüşü üzerine Bakanlıkça belirlenir.[8]\n (15) Ekli (II) sayılı cetvelde belirtilen sözleşmeli personele yapılacak ek ödemeler, çalışmayı takip eden ayın başında yapılır. Sözleşmeli personele yukarıda sayılanlar dışında herhangi bir ad altında ödeme yapılamaz ve sözleşmelere bu hususta hüküm konulamaz.\n (16) Sözleşmeli personel; kazanç getirici başka bir iş yapamaz, resmî veya özel herhangi bir müessesede maaşlı, ücretli veya sözleşmeli olarak görev alamaz, serbest olarak sanat ve mesleklerini icra edemez, 657 sayılı Kanunda Devlet memurları için yasaklanmış bulunan eylemlerde bulunamaz.\n (17) Sözleşmeli personelin haftalık çalışma süresi emsali Devlet memurları ile aynıdır.\n (18) Sözleşmeli personel olarak görev yapanlar, ihtiyaç halinde Bakanlığın ve bağlı kuruluşlarının merkez teşkilatında daire başkanı ve daha üst yönetici kadrolarıyla Türkiye Sağlık Enstitüleri Başkanlığının Başkan, Başkan Yardımcısı, Enstitü Başkanı ve Genel Sekreter unvanlı kadrolarında süreli olarak görevlendirilebilir ve bu husus sözleşmelerde belirtilir.\n (19) Sözleşmeli personelin izinleri ve sosyal güvenlik açısından 5510 sayılı Kanunun 4 üncü maddesinin birinci fıkrasının (a) bendi kapsamına girenlerin iş sonu tazminatı hususlarında 657 sayılı Kanunun 4 üncü maddesinin birinci fıkrasının (B) bendine göre istihdam edilen sözleşmeli personele ilişkin hükümler uygulanır. Söz konusu personel için işsizlik sigortası primi ödenmez.\n (20) Sözleşmeli personelin disiplin amirlerinin tayini ile çalışma usul ve esasları Bakanlık tarafından belirlenir. Bunlardan idari görevlerde bulunanlara memurların disiplin amirliği yetkisi verilebilir.\n (21) Devlet hizmeti yükümlülüğünü yapmakta olan personel, atanmış olduğu sağlık kurumunda bu madde kapsamında sözleşmeli personel olarak çalıştırılabilir. Ancak il merkezindeki sağlık kurumlarına atanmış olan Devlet hizmeti yükümlüleri il sağlık müdürlüğündeki sözleşmeli pozisyonlarında çalıştırılabilir. Bu personelin sözleşmeli olarak geçen süreleri Devlet hizmeti yükümlülüğünden sayılır.\n (22) 4924 sayılı Kanun hükümleri çerçevesinde sözleşmeli olarak çalışan tabipler ihtiyaç halinde, istihdam edildikleri hizmet biriminde olmak kaydıyla, ekli (II) sayılı cetvelde sayılan başhekim ve başhekim yardımcısı veya lüzumu halinde ilçelerde ilçe sağlık müdürü pozisyonlarında görevlendirilebilir. Bu şekilde görevlendirilenlere bu görevlerinden dolayı ayrıca herhangi bir ödeme yapılmaz.",
+      "preview": "(Değişik: 15/8/2017-KHK-694/190 md.; Değiştirilerek kabul: 1/2/2018-7078/183 md.) (1) Bakanlıkta ekli (II) sayılı cetvelde belirtilen pozisy…",
+      "kitap": null,
+      "kisim": null,
+      "bolum": "DOKUZUNCU BÖLÜM · Personele İlişkin Hükümler",
+      "ayirim": null,
+      "maddeBaslik": "Atama, personelin niteliği ve mali haklar[5][6]",
+      "sectionPath": [
+        "DOKUZUNCU BÖLÜM · Personele İlişkin Hükümler",
+        "Atama, personelin niteliği ve mali haklar[5][6]"
+      ]
+    },
+    {
+      "id": "kanun:663:m:43",
+      "maddeKind": "madde",
+      "maddeNo": "43",
+      "heading": "Madde 43",
+      "text": "(Mülga: 2/7/2018-KHK-703/25 md.)",
+      "preview": "(Mülga: 2/7/2018-KHK-703/25 md.)",
+      "kitap": null,
+      "kisim": null,
+      "bolum": "DOKUZUNCU BÖLÜM · Personele İlişkin Hükümler",
+      "ayirim": null,
+      "maddeBaslik": "Kadrolar",
+      "sectionPath": [
+        "DOKUZUNCU BÖLÜM · Personele İlişkin Hükümler",
+        "Kadrolar"
+      ]
+    },
+    {
+      "id": "kanun:663:m:44",
+      "maddeKind": "madde",
+      "maddeNo": "44",
+      "heading": "Madde 44",
+      "text": "(Mülga: 2/7/2018-KHK-703/25 md.)\n\n Ürün denetmenliği\n MADDE 44/A- (Ek: 4/7/2012-6354/17 md.; Mülga: 2/7/2018-KHK-703/25 md.)",
+      "preview": "(Mülga: 2/7/2018-KHK-703/25 md.) Ürün denetmenliği MADDE 44/A- (Ek: 4/7/2012-6354/17 md.; Mülga: 2/7/2018-KHK-703/25 md.)",
+      "kitap": null,
+      "kisim": null,
+      "bolum": "DOKUZUNCU BÖLÜM · Personele İlişkin Hükümler",
+      "ayirim": null,
+      "maddeBaslik": "Uzman ve Denetçi istihdamı",
+      "sectionPath": [
+        "DOKUZUNCU BÖLÜM · Personele İlişkin Hükümler",
+        "Uzman ve Denetçi istihdamı"
+      ]
+    },
+    {
+      "id": "kanun:663:m:45",
+      "maddeKind": "madde",
+      "maddeNo": "45",
+      "heading": "Madde 45",
+      "text": "(1) Bakanlık ve bağlı kuruluşlarında özel bilgi ve ihtisas gerektiren nitelikli bir işin yapılması veya proje hazırlanması veya yürütülmesi için 657 sayılı Kanun ve diğer kanunların sözleşmeli personel çalıştırılması hakkındaki hükümlerine bağlı olmaksızın proje süresince ve her halde üç yıla kadar sözleşme ile yerli ve yabancı uzman çalıştırılabilir.\n (2) Bu şekilde çalıştırılacak personel sayısı yüzelliyi geçemez ve bunların Bakanlık ve bağlı kuruluşlarına dağılımı Bakan tarafından belirlenir.\n (3) Sözleşmeli olarak çalıştırılacaklara ödenecek ücret 657 sayılı Kanunun 4 üncü maddesinin (B) fıkrasına göre çalıştırılanlar için uygulanmakta olan sözleşme ücreti tavanının beş katını geçemez. Bu personel, sosyal güvenlik yönünden 5510 sayılı Kanunun 4 üncü maddesinin birinci fıkrasının (a) bendi kapsamında sigortalı sayılır.\n (4) Bu suretle çalıştırılacak uzmanların nitelikleri, alınma usûlü ve sözleşme ücretlerinin tespiti ile sözleşme usûl ve esasları Bakanlık ve Hazine ve Maliye Bakanlığınca müştereken belirlenir.[9]\n\n Sözleşmeli sağlık personeli istihdamı\n MADDE 45/A- (Ek: 3/10/2016-KHK-676/76 md.; Aynen kabul: 1/2/2018-7070/62 md.)\n (1) Bakanlık ve bağlı kuruluşları, merkez teşkilatları hariç olmak üzere ve öncelikle personel istihdamında güçlük çekilen yerlerde, 657 sayılı Devlet Memurları Kanununun 4 üncü maddesinin (B) fıkrası uyarınca ilgili mevzuatı gereği kura ile ataması öngörülenler dışında 190 sayılı Kanun Hükmünde Kararnameye ekli cetvellerde Sağlık Hizmetleri ve Yardımcı Sağlık Hizmetleri Sınıfı kapsamında yer alan unvanlarla vize edilmiş pozisyonlarda bu maddede öngörülen şartlarla sözleşmeli personel istihdam edebilir.\n (2) Bu kapsamdaki sözleşmeli sağlık personeli Kamu Personel Seçme Sınavı (KPSS) sonucuna göre Bakanlık ve bağlı kuruluşlarına Öğrenci Seçme ve Yerleştirme Merkezi (ÖSYM) Başkanlığı tarafından yapılacak yerleştirme ile atanabileceği gibi pozisyon ve ihtiyaç durumuna göre KPSS puanı esas alınarak Bakanlık tarafından yapılacak sözlü sınavla da atama yapılabilir. (İptal cümle: Anayasa Mahkemesinin 24/7/2019 tarihli ve E.:2018/73, K.:2019/65 Sayılı Kararı ile.)\n (3) Bu madde uyarınca atanan sözleşmeli sağlık personeli üç yıl süreyle başka bir yere atanamaz. Aile birliği mazeretine bağlı yer değiştirmelerde bu madde uyarınca istihdam edilen personelin eşi bu personele tabidir. Ancak sözleşmeli sağlık personelinin bulunduğu ilde bir yıl görev yapması ve vizeli pozisyon bulunması durumunda; eşlerin her ikisinin de Bakanlık ve bağlı kuruluşlarında sözleşmeli veya eşlerden birinin sözleşmeli, diğerinin Bakanlık ve bağlı kuruluşlarında veya diğer bir kamu kurum veya kuruluşunda kadrolu statüde istihdam ediliyor olması halinde hizmet ihtiyacının daha fazla olduğu yere atamaları yapılabilir.[10]\n (4) Sözleşmeli sağlık personelinden üç yıllık çalışma süresini tamamlayanlar talepleri halinde bulundukları yerde 657 sayılı Kanunun 4 üncü maddesinin (A) bendi kapsamındaki kadrolara atanır. Bu kadrolara atananlar, aynı yerde en az bir yıl daha görev yapar, bunlar hakkında adaylık hükümleri uygulanmaz.10\n (5) Bu madde hükümlerine göre kadrolara atananların, 657 sayılı Kanunun 4 üncü maddesinin (B) bendi uyarınca sözleşmeli pozisyonlarda geçirdikleri hizmet süreleri, öğrenim durumlarına göre yükselebilecekleri dereceleri aşmamak kaydıyla kazanılmış hak aylık derece ve kademelerinin tespitinde değerlendirilir.\n (6) Bu madde kapsamında memur kadrolarına atananlara iş sonu tazminatı ödenmez. Bu personelin önceden iş sonu tazminatı ödenmiş süreleri hariç, iş sonu tazminatına esas olan toplam hizmet süreleri, 8/6/1949 tarihli ve 5434 sayılı Türkiye Cumhuriyeti Emekli Sandığı Kanunu ve 31/5/2006 tarihli ve 5510 sayılı Sosyal Sigortalar ve Genel Sağlık Sigortası Kanunu hükümleri uyarınca ödenecek emekli ikramiyesine esas toplam hizmet süresinin hesabında dikkate alınır.\n (7) Bu madde çerçevesinde sözleşmeli personelin atanacağı memur kadroları, 190 sayılı Kanun Hükmünde Kararnameye ekli cetvellerde yer alan sınıf, unvan ve derecelerine uygun olmak şartıyla, başka bir işleme gerek kalmaksızın atama işleminin yapıldığı tarih itibarıyla ihdas edilerek ilgisine göre Bakanlık veya bağlı kuruluşlarının 190 sayılı Kanun Hükmünde Kararnameye ekli cetvellerinin ilgili bölümlerine eklenmiş ve kadrolara atananların pozisyonları başka bir işleme gerek kalmaksızın iptal edilmiş sayılır. İhdas edilen kadrolar ile iptal edilen pozisyonlar; unvanı, sınıfı, adedi, derecesi, teşkilatı ve birimi belirtilmek suretiyle atama tarihinden itibaren iki ay içinde Hazine ve Maliye Bakanlığı ve Devlet Personel Başkanlığına bildirilir.[11]\n (8) Bu madde kapsamında sözleşmeli sağlık personeli pozisyonlarına yapılan atama, sözleşmenin imzalanmasıyla geçerlilik kazanır. Sözleşme, imzalanmadan herhangi bir hak doğurmaz.",
+      "preview": "(1) Bakanlık ve bağlı kuruluşlarında özel bilgi ve ihtisas gerektiren nitelikli bir işin yapılması veya proje hazırlanması veya yürütülmesi…",
+      "kitap": null,
+      "kisim": null,
+      "bolum": "DOKUZUNCU BÖLÜM · Personele İlişkin Hükümler",
+      "ayirim": null,
+      "maddeBaslik": "Sözleşmeli uzman çalıştırılması",
+      "sectionPath": [
+        "DOKUZUNCU BÖLÜM · Personele İlişkin Hükümler",
+        "Sözleşmeli uzman çalıştırılması"
+      ]
+    },
+    {
+      "id": "kanun:663:m:46",
+      "maddeKind": "madde",
+      "maddeNo": "46",
+      "heading": "Madde 46",
+      "text": "(Mülga: 2/7/2018-KHK-703/25 md.)",
+      "preview": "(Mülga: 2/7/2018-KHK-703/25 md.)",
+      "kitap": null,
+      "kisim": null,
+      "bolum": "DOKUZUNCU BÖLÜM · Personele İlişkin Hükümler",
+      "ayirim": null,
+      "maddeBaslik": "Komisyonlarda yer alacaklara yapılacak ödeme",
+      "sectionPath": [
+        "DOKUZUNCU BÖLÜM · Personele İlişkin Hükümler",
+        "Komisyonlarda yer alacaklara yapılacak ödeme"
+      ]
+    },
+    {
+      "id": "kanun:663:m:47",
+      "maddeKind": "madde",
+      "maddeNo": "47",
+      "heading": "Madde 47",
+      "text": "(Mülga: 2/7/2018-KHK-703/25 md.)",
+      "preview": "(Mülga: 2/7/2018-KHK-703/25 md.)",
+      "kitap": null,
+      "kisim": null,
+      "bolum": "ONUNCU BÖLÜM · Hizmete İlişkin Hükümler",
+      "ayirim": null,
+      "maddeBaslik": "Bilgi toplama, işleme ve paylaşma yetkisi",
+      "sectionPath": [
+        "ONUNCU BÖLÜM · Hizmete İlişkin Hükümler",
+        "Bilgi toplama, işleme ve paylaşma yetkisi"
+      ]
+    },
+    {
+      "id": "kanun:663:m:48",
+      "maddeKind": "madde",
+      "maddeNo": "48",
+      "heading": "Madde 48",
+      "text": "(Mülga: 2/7/2018-KHK-703/25 md.)",
+      "preview": "(Mülga: 2/7/2018-KHK-703/25 md.)",
+      "kitap": null,
+      "kisim": null,
+      "bolum": "ONUNCU BÖLÜM · Hizmete İlişkin Hükümler",
+      "ayirim": null,
+      "maddeBaslik": "Hizmet binası ve sağlık tesisi yaptırma",
+      "sectionPath": [
+        "ONUNCU BÖLÜM · Hizmete İlişkin Hükümler",
+        "Hizmet binası ve sağlık tesisi yaptırma"
+      ]
+    },
+    {
+      "id": "kanun:663:m:49",
+      "maddeKind": "madde",
+      "maddeNo": "49",
+      "heading": "Madde 49",
+      "text": "(Mülga: 2/7/2018-KHK-703/25 md.)",
+      "preview": "(Mülga: 2/7/2018-KHK-703/25 md.)",
+      "kitap": null,
+      "kisim": null,
+      "bolum": "ONUNCU BÖLÜM · Hizmete İlişkin Hükümler",
+      "ayirim": null,
+      "maddeBaslik": "Sağlık Serbest Bölgeleri",
+      "sectionPath": [
+        "ONUNCU BÖLÜM · Hizmete İlişkin Hükümler",
+        "Sağlık Serbest Bölgeleri"
+      ]
+    },
+    {
+      "id": "kanun:663:m:50",
+      "maddeKind": "madde",
+      "maddeNo": "50",
+      "heading": "Madde 50",
+      "text": "(Mülga: 2/7/2018-KHK-703/25 md.)",
+      "preview": "(Mülga: 2/7/2018-KHK-703/25 md.)",
+      "kitap": null,
+      "kisim": null,
+      "bolum": "ONUNCU BÖLÜM · Hizmete İlişkin Hükümler",
+      "ayirim": null,
+      "maddeBaslik": "Tıbbî ürün ve hizmetlerin üretiminin teşvik edilmesi",
+      "sectionPath": [
+        "ONUNCU BÖLÜM · Hizmete İlişkin Hükümler",
+        "Tıbbî ürün ve hizmetlerin üretiminin teşvik edilmesi"
+      ]
+    },
+    {
+      "id": "kanun:663:m:51",
+      "maddeKind": "madde",
+      "maddeNo": "51",
+      "heading": "Madde 51",
+      "text": "(1) Bakanlık ve bağlı kuruluşları insanî ve teknik yardım amacıyla yurt dışında geçici sağlık hizmet birimleri kurabilir, kurdurabilir, işletebilir ve işlettirebilir; bu amaçla ulusal ve uluslararası sivil toplum kuruluşları, finans ve yardım kuruluşları ile işbirliği ve ortak çalışma yapabilir, insan ve malî kaynakları ile destek sağlayabilir.\n (2) (Değişik: 21/2/2013-6428/25 md.) Bu amaçla görevlendirilen personele yurt dışındaki görevleri süresince gündelik verilmez ve gittikleri ülkelerde sürekli görevle bulunan ve dokuzuncu derecenin birinci kademesinden aylık alan meslek memurlarına ödenmekte olan yurt dışı aylığını geçmemek üzere unvanları itibarıyla Cumhurbaşkanı kararıyla belirlenen tutarda aylık ödeme yapılır. Ayrıca, bu personel döner sermaye ek ödemesi dâhil her türlü mali ve sosyal haklardan faydalanmaya devam eder. Bu amaçla görevlendirilen personelden Devlet hizmeti yükümlülüğü bulunanların yurt dışındaki görevlerde geçen süreleri Devlet hizmeti yükümlülüğünden sayılır.\n (3) (Ek: 15/8/2017-KHK-694/191 md.; Aynen kabul: 1/2/2018-7078/184 md.) Bakanlık, yurt dışında sağlık hizmeti sunmak amacıyla sağlık hizmet birimleri kurabilir ve işletebilir. Bu amaçla ulusal ve uluslararası sivil toplum kuruluşları, finans ve yardım kuruluşları ile işbirliği ve ortak çalışma yapabilir. Bu kapsamdaki sağlık hizmet birimlerinin kuruluşu, işleyişi, personel istihdamı ve bunlara mali ve sosyal hak kapsamında yapılacak ödemeler ile diğer mali ve idari hususlar Cumhurbaşkanınca belirlenir. Bu fıkra kapsamında kamu kurumlarında çalışanlardan görevlendirilenler, çalıştıkları sürede aylıksız izinli sayılır. Aylıksız izin verilmek suretiyle görevlendirilenlerden, önceki görevleri sebebiyle ve 5510 sayılı Kanunun 4 üncü maddesinin birinci fıkrasının (c) bendi veya geçici 4 üncü maddesi kapsamında sigortalı veyahut iştirakçi sayılanların; aylıksız izinli sayıldıkları sürece aynı kapsamdaki sigortalılık veya iştirakçilik ilişkisi devam eder. İlgililerin bu şekilde aylıksız izinde geçirdikleri süreler önceki kadro unvanları esas alınmak suretiyle emekli keseneğine esas aylık unsurlarının veya sigorta primine esas kazanç unsurlarının tespitinde ve emekli ikramiyesinin hesabında dikkate alınır. Bu fıkra kapsamına girenler ile bunların yurt dışında birlikte yaşadıkları ve 5510 sayılı Kanuna göre bakmakla yükümlü oldukları kişilerin yurt dışındaki sağlık giderleri, aylıksız izin dönemini geçmemek kaydıyla sürekli görevle yurt dışına gönderilen Devlet memurları için 5510 sayılı Kanunda belirlenmiş olan usul ve esaslar çerçevesinde karşılanır. Bu fıkra uyarınca görevlendirilenlerden görev süresinin bitimini veya görevlendirmenin sonlandırılmasını izleyen onbeş gün içinde görevlerine dönmeyenler memuriyetten çekilmiş sayılırlar. Göreve dönenlerin aylıksız izinde geçirdikleri süreler kazanılmış hak aylık ve derecelerinde değerlendirilir.[13]\n (4) Birinci fıkra kapsamında hizmet alımı veya kamu özel ortaklığı modeliyle özel sektör tarafından işletilen sağlık hizmet birimlerinde ve bölümlerinde çalıştırılacak Bakanlık personeli beş yılı geçmemek üzere çalıştıkları sürede aylıksız izinli sayılır.13",
+      "preview": "(1) Bakanlık ve bağlı kuruluşları insanî ve teknik yardım amacıyla yurt dışında geçici sağlık hizmet birimleri kurabilir, kurdurabilir, işle…",
+      "kitap": null,
+      "kisim": null,
+      "bolum": "ONUNCU BÖLÜM · Hizmete İlişkin Hükümler",
+      "ayirim": null,
+      "maddeBaslik": "Yurt dışı sağlık hizmet birimleri[12]",
+      "sectionPath": [
+        "ONUNCU BÖLÜM · Hizmete İlişkin Hükümler",
+        "Yurt dışı sağlık hizmet birimleri[12]"
+      ]
+    },
+    {
+      "id": "kanun:663:m:52",
+      "maddeKind": "madde",
+      "maddeNo": "52",
+      "heading": "Madde 52",
+      "text": "(Mülga: 2/7/2018-KHK-703/25 md.)",
+      "preview": "(Mülga: 2/7/2018-KHK-703/25 md.)",
+      "kitap": null,
+      "kisim": null,
+      "bolum": "ONUNCU BÖLÜM · Hizmete İlişkin Hükümler",
+      "ayirim": null,
+      "maddeBaslik": "Gönüllü sağlık hizmeti ve sağlık gözlemciliği",
+      "sectionPath": [
+        "ONUNCU BÖLÜM · Hizmete İlişkin Hükümler",
+        "Gönüllü sağlık hizmeti ve sağlık gözlemciliği"
+      ]
+    },
+    {
+      "id": "kanun:663:m:53",
+      "maddeKind": "madde",
+      "maddeNo": "53",
+      "heading": "Madde 53",
+      "text": "(Mülga: 2/7/2018-KHK-703/25 md.)",
+      "preview": "(Mülga: 2/7/2018-KHK-703/25 md.)",
+      "kitap": null,
+      "kisim": null,
+      "bolum": "ONUNCU BÖLÜM · Hizmete İlişkin Hükümler",
+      "ayirim": null,
+      "maddeBaslik": "Yayın zorunluluğu",
+      "sectionPath": [
+        "ONUNCU BÖLÜM · Hizmete İlişkin Hükümler",
+        "Yayın zorunluluğu"
+      ]
+    },
+    {
+      "id": "kanun:663:m:54",
+      "maddeKind": "madde",
+      "maddeNo": "54",
+      "heading": "Madde 54",
+      "text": "(1) Bakanlık ve bağlı kuruluşlarında; sağlık hizmeti sunumu sırasında veya bu görevlerden dolayı personele karşı işlenen suçlar sebebiyle ceza hukuku kapsamında yürütülmekte olan işlemler ve davalarda personelin talebi üzerine Bakanlık ve bağlı kuruluşlarınca hukukî yardım yapılır. (Ek cümle: 4/7/2012-6354/18 md. ) Bakanlık ve bağlı kuruluşları merkez ve taşra teşkilatı ile döner sermaye teşkilatı kadrolarında bulunan hukuk birimi amirleri, hukuk müşavirleri ve avukatlar, ayrıca vekâletname ibraz etmeksizin ilgili personeli vekil sıfatı ile temsil eder. Bu yardımın usûl ve esasları Bakanlıkça belirlenir.\n (2) (Ek:15/11/2018-7151/38 md.) Devlet ve vakıf üniversitelerine ait birimlerde görevli sağlık çalışanlarına da birinci fıkra çerçevesinde ilgili üniversite tarafından hukuki yardım yapılır. Bu yardımın usul ve esasları Yükseköğretim Kurulu tarafından belirlenir.",
+      "preview": "(1) Bakanlık ve bağlı kuruluşlarında; sağlık hizmeti sunumu sırasında veya bu görevlerden dolayı personele karşı işlenen suçlar sebebiyle ce…",
+      "kitap": null,
+      "kisim": null,
+      "bolum": "ONUNCU BÖLÜM · Hizmete İlişkin Hükümler",
+      "ayirim": null,
+      "maddeBaslik": "Hukukî yardım",
+      "sectionPath": [
+        "ONUNCU BÖLÜM · Hizmete İlişkin Hükümler",
+        "Hukukî yardım"
+      ]
+    },
+    {
+      "id": "kanun:663:m:55",
+      "maddeKind": "madde",
+      "maddeNo": "55",
+      "heading": "Madde 55",
+      "text": "(Mülga: 2/7/2018-KHK-703/25 md.)",
+      "preview": "(Mülga: 2/7/2018-KHK-703/25 md.)",
+      "kitap": null,
+      "kisim": null,
+      "bolum": "ONUNCU BÖLÜM · Hizmete İlişkin Hükümler",
+      "ayirim": null,
+      "maddeBaslik": "Sağlık personelinin ihtiyaç hâlinde çağrıya uyması",
+      "sectionPath": [
+        "ONUNCU BÖLÜM · Hizmete İlişkin Hükümler",
+        "Sağlık personelinin ihtiyaç hâlinde çağrıya uyması"
+      ]
+    },
+    {
+      "id": "kanun:663:m:56",
+      "maddeKind": "madde",
+      "maddeNo": "56",
+      "heading": "Madde 56",
+      "text": "(1) Bakanlık veya bağlı kuruluşlarının kadrolarında tıpta ve diş hekimliğinde uzmanlık mevzuatına göre diğer kamu kurum ve kuruluşlarında uzmanlık eğitimi veya yan dal uzmanlık eğitimi yaptırılabilir. Bu şekilde eğitim yapmak isteyenler, döner sermaye ek ödemesi hariç her türlü malî ve sosyal hakları Bakanlık veya bağlı kuruluşları tarafından karşılanmak üzere ilgili kurum ve kuruluşlarda görevlendirilebilir. (Mülga üçüncü cümle: 8/4/2022-7394/37 md.) (…) (Mülga dördüncü cümle: 8/4/2022-7394/37 md.) (…) (Mülga beşinci cümle: 8/4/2022-7394/37 md.) (…) (Mülga altıncı cümle: 8/4/2022-7394/37 md.) (…)\n (2) (Mülga: 8/4/2022-7394/37 md.)",
+      "preview": "(1) Bakanlık veya bağlı kuruluşlarının kadrolarında tıpta ve diş hekimliğinde uzmanlık mevzuatına göre diğer kamu kurum ve kuruluşlarında uz…",
+      "kitap": null,
+      "kisim": null,
+      "bolum": "ONUNCU BÖLÜM · Hizmete İlişkin Hükümler",
+      "ayirim": null,
+      "maddeBaslik": "Uzmanlık eğitimi yaptırılması[14]",
+      "sectionPath": [
+        "ONUNCU BÖLÜM · Hizmete İlişkin Hükümler",
+        "Uzmanlık eğitimi yaptırılması[14]"
+      ]
+    },
+    {
+      "id": "kanun:663:m:57",
+      "maddeKind": "madde",
+      "maddeNo": "57",
+      "heading": "Madde 57",
+      "text": "(Mülga: 2/7/2018-KHK-703/25 md.) (Yeniden düzenleme: 21/7/2025-7557/25 md.)\n (1) Bakanlık ve bağlı kuruluşlarınca düzenlenecek veya onaylanacak her türlü ruhsatlandırma, ürün üretim ve satış izin belgesi ve mesul müdürlük belgesi ile permi ve sertifikalar üzerinden iki milyon Türk lirasını geçmemek üzere Bakanlıkça belirlenecek tarifelere göre ücret alınır. Bu tarifeler her yıl bir önceki yıla ilişkin olarak 4/1/1961 tarihli ve 213 sayılı Vergi Usul Kanununun mükerrer 298 inci maddesinin (B) fıkrası hükmü uyarınca tespit ve ilan edilen yeniden değerleme oranında, takvim yılı başından geçerli olmak üzere artırılmak suretiyle uygulanır. Ancak Bakanlıkça alınması teşvik edilen belgelerden ücret alınmayabilir.\n (2) Bakanlık ve bağlı kuruluşlarınca düzenlenecek, Bakanlık ve bağlı kuruluşlarının planlamaları çerçevesinde, gerçek veya tüzel kişilere sağlık alanında belirli bir hizmeti verebilme veya hastane ve benzeri sağlık kuruluşları açabilme yetkisi veren lisanslar açık artırma ile belirlenecek bedel karşılığında verilir. Lisans verilmesi ilgili faaliyet için gerekli olan izin veya ruhsat yerine geçmez. Lisans verilmesinin usul ve esasları Bakanlıkça belirlenir ve bu usul ve esasların açık artırmaya ilişkin hükümlerinin belirlenmesinde Kamu İhale Kurumunun ve Rekabet Kurumunun görüşleri alınır.\n (3) Bu maddenin birinci fıkrası kapsamında tahsil edilen tutarlar ilgisine göre genel bütçeye veya özel bütçeli bağlı kuruluşların bütçelerine; ikinci fıkrası kapsamında tahsil edilen tutarların %75’i Uluslararası Sağlık Hizmetleri Anonim Şirketine, %25’i ise genel bütçeye gelir kaydedilir.",
+      "preview": "(Mülga: 2/7/2018-KHK-703/25 md.) (Yeniden düzenleme: 21/7/2025-7557/25 md.) (1) Bakanlık ve bağlı kuruluşlarınca düzenlenecek veya onaylanac…",
+      "kitap": null,
+      "kisim": null,
+      "bolum": "ONBİRİNCİ BÖLÜM · Çeşitli ve Son Hükümler",
+      "ayirim": null,
+      "maddeBaslik": "Ruhsatlandırma ve lisans bedeli",
+      "sectionPath": [
+        "ONBİRİNCİ BÖLÜM · Çeşitli ve Son Hükümler",
+        "Ruhsatlandırma ve lisans bedeli"
+      ]
+    },
+    {
+      "id": "kanun:663:m:58",
+      "maddeKind": "madde",
+      "maddeNo": "58",
+      "heading": "Madde 58",
+      "text": "(1) (23/4/1981 tarihli ve 2451 sayılı Bakanlıklar ve Bağlı Kuruluşlarda Atama Usûlüne İlişkin Kanunu ile ilgili olup yerine işlenmiştir.)\n (2) (10/12/2003 tarihli ve 5018 sayılı Kamu Malî Yönetimi ve Kontrol Kanunu ile ilgili olup yerine işlenmiştir.)\n (3) 190 sayılı Kanun Hükmünde Kararnamenin eki (I) sayılı Cetvelde yer alan Refik Saydam Hıfzıssıhha Merkezi Başkanlığı ve Hudut ve Sahiller Sağlık Genel Müdürlüğü kadroları ile birlikte çıkarılmış; Sağlık Bakanlığına ait kadrolar iptal edilmiştir.[15]\n (4) Ekli (1) sayılı listede yer alan kadrolar ihdas edilerek 190 sayılı Kanun Hükmünde Kararnamenin eki cetvellere, Sağlık Bakanlığı, (…)[16] Türkiye İlaç ve Tıbbî Cihaz Kurumu, Türkiye Hudut ve Sahiller Sağlık Genel Müdürlüğü bölümleri olarak eklenmiştir.16[17]\n (5) (10/2/1954 tarihli ve 6245 sayılı Harcırah Kanunu ile ilgili olup yerine işlenmiştir.)\n (6) (657 sayılı Devlet Memurları Kanununu ile ilgili olup yerine işlenmiştir.)\n (7) (7/5/1987 tarihli ve 3359 sayılı Kanun ile ilgili olup yerine işlenmiştir.)\n (8) (11/4/1928 tarihli ve 1219 sayılı Tababet ve Şuabatı San'atlarının Tarzı İcrasına Dair Kanun ile ilgili olup yerine işlenmiştir.)\n (9) (25/2/1954 tarihli ve 6283 sayılı Hemşirelik Kanunu ile ilgili olup yerine işlenmiştir.)\n (10) (24/11/2004 tarihli ve 5258 sayılı Aile Hekimliği Pilot Uygulaması Hakkında Kanun ile ilgili olup yerine işlenmiştir.)\n (11) (24/4/1930 tarihli ve 1593 sayılı Umumi Hıfzıssıhha Kanunu ile ilgili olup yerine işlenmiştir.)\n (12) (7/6/1985 tarihli ve 3224 sayılı Türk Diş Hekimleri Birliği Kanunu ile ilgili olup yerine işlenmiştir.)[18]\n (13) (4/1/1961 tarihli ve 209 sayılı Sağlık Bakanlığına Bağlı Sağlık Kurumları ile Esenlendirme (Rehabilitasyon) Tesislerine Verilecek Döner Sermaye Hakkında Kanun ile ilgili olup yerine işlenmiştir.)\n (14) Bu maddenin yayımı tarihinde;\n a) 13/12/1983 tarihli ve 181 sayılı Sağlık Bakanlığının Teşkilat ve Görevleri Hakkında Kanun Hükmünde Kararname,\n b) 30/12/1940 tarihli ve 3959 sayılı Türkiye Cumhuriyeti Merkez Hıfzıssıhha Müessesesi Teşkiline Dair Kanun,\n c) 3/3/1926 tarihli ve 767 sayılı Türk Kodeksi Hakkında Kanun,\n ç) 9/7/1943 tarihli ve 4459 sayılı Köy Ebeleri ve Köy Sağlık Memurları Teşkilatı Yapılmasına ve 3017 Numaralı Sıhhat ve İçtimai Muavenet Vekaleti Teşkilat ve Memurin Kanununun Bazı Maddelerinin Değiştirilmesine Dair Kanun,\n d) 24/4/1530 tarihli ve 1593 sayılı Umumi Hıfzıssıhha Kanununun 10 ilâ 15 inci maddeleri, 17 nci maddesi ve 180 inci maddesi,\n e) 7/5/1987 tarihli ve 3359 sayılı Sağlık Hizmetleri Temel Kanununun 5 inci, 6 ncı, 7 nci ve 8 inci maddeleri ile 9 uncu maddesinin (a) bendi,\n f) 11/4/1928 tarihli ve 1219 sayılı Tababet ve Şuabatı San'atlarının Tarzı İcrasına Dair Kanunun 9 uncu maddesi,\n g) 4/1/1961 tarihli ve 209 sayılı Sağlık Bakanlığına Bağlı Sağlık Kurumları ile Esenlendirme (Rehabilitasyon) Tesislerine Verilecek Döner Sermaye Hakkında Kanunun 7 nci, 8 inci, 9 uncu ve 11 inci maddeleri ile 12 nci maddesinin ikinci fıkrası ile ek 4 üncü maddesi,\n ğ) 23/1/1953 tarihli ve 6023 sayılı Türk Tabipleri Birliği Kanunun 1 inci maddesinde geçen “tabipliğin kamu ve kişi yararına uygulanıp geliştirilmesini sağlamak” ibaresi,[19]\n yürürlükten kaldırılmıştır.\n (15) Mevzuatta, bu Kanun Hükmünde Kararname ile yürürlükten kaldırılan kanun, kanun hükmünde kararname veya maddelerine yapılan atıflar, bu Kanun Hükmünde Kararnameye veya ilgili hükümlerine; Sağlık Bakanlığı, Refik Saydam Hıfzıssıhha Merkezi Başkanlığı ve Hudut ve Sahiller Sağlık Genel Müdürlüğüne yapılan atıflar, bu Kanun Hükmünde Kararname ile yeniden yapılandırılan Sağlık Bakanlığı veya görev ve faaliyet alanlarına göre ilgili bağlı kuruluşlarına yapılmış sayılır.",
+      "preview": "(1) (23/4/1981 tarihli ve 2451 sayılı Bakanlıklar ve Bağlı Kuruluşlarda Atama Usûlüne İlişkin Kanunu ile ilgili olup yerine işlenmiştir.) (2…",
+      "kitap": null,
+      "kisim": null,
+      "bolum": "ONBİRİNCİ BÖLÜM · Çeşitli ve Son Hükümler",
+      "ayirim": null,
+      "maddeBaslik": "Atıflar, değiştirilen ve yürürlükten kaldırılan hükümler",
+      "sectionPath": [
+        "ONBİRİNCİ BÖLÜM · Çeşitli ve Son Hükümler",
+        "Atıflar, değiştirilen ve yürürlükten kaldırılan hükümler"
+      ]
+    },
+    {
+      "id": "kanun:663:m:ek:1",
+      "maddeKind": "ek",
+      "maddeNo": "1",
+      "heading": "Ek Madde 1",
+      "text": "(Ek: 15/8/2017-KHK-694/192 md.; Aynen kabul: 1/2/2018-7078/185 md.)\n (1) 190 sayılı Kanun Hükmünde Kararnamenin eki (I) sayılı cetvelde yer alan Türkiye Halk Sağlığı Kurumu ve Türkiye Kamu Hastaneleri Kurumu kadroları ile birlikte cetvelden çıkarılmıştır. Bu cetvellerde yer alan kadrolar, merkez teşkilatlarındaki Kurum Başkanı, Kurum Başkan Yardımcısı ve I. Hukuk Müşaviri kadroları ile Türkiye Halk Sağlığı Kurumunun taşra teşkilatındaki müdür ve müdür yardımcısı kadroları ile münhal şube müdürü kadroları hariç olmak üzere, 190 sayılı Kanun Hükmünde Kararnamenin eki (I) sayılı cetvelin Sağlık Bakanlığına ait bölümünün ilgisine göre merkez, taşra ve döner sermaye teşkilatına ait kısımlarına eklenmiştir. Aynı cetvelin Sağlık Bakanlığına ait bölümünün merkez teşkilatı kısmındaki “genel müdür” kadro sayısı “10”, “genel müdür yardımcısı” kadro sayısı “22” şeklinde değiştirilmiş; taşra teşkilatındaki il sağlık müdürü, il sağlık müdür yardımcısı ve ilçe sağlık müdürü kadroları ile münhal şube müdürü kadroları iptal edilerek anılan cetvelden çıkarılmıştır. Ekli (7) sayılı listede yer alan kadrolar ihdas edilerek 190 sayılı Kanun Hükmünde Kararnamenin eki (I) sayılı cetvelin Türkiye Hudut ve Sahiller Sağlık Genel Müdürlüğüne ait bölümüne eklenmiştir.",
+      "preview": "(Ek: 15/8/2017-KHK-694/192 md.; Aynen kabul: 1/2/2018-7078/185 md.) (1) 190 sayılı Kanun Hükmünde Kararnamenin eki (I) sayılı cetvelde yer a…",
+      "kitap": null,
+      "kisim": null,
+      "bolum": "ONBİRİNCİ BÖLÜM · Çeşitli ve Son Hükümler",
+      "ayirim": null,
+      "maddeBaslik": "Atıflar, değiştirilen ve yürürlükten kaldırılan hükümler",
+      "sectionPath": [
+        "ONBİRİNCİ BÖLÜM · Çeşitli ve Son Hükümler",
+        "Atıflar, değiştirilen ve yürürlükten kaldırılan hükümler"
+      ]
+    },
+    {
+      "id": "kanun:663:m:ek:2",
+      "maddeKind": "ek",
+      "maddeNo": "2",
+      "heading": "Ek Madde 2",
+      "text": "(Ek:26/7/2018-7146/19 md.)\n (1) Uluslararası sağlık hizmetleri alanında ülkemizde sunulan hizmetlerin tanıtımını yapmak, kamu ve özel sektörün sağlık turizmine yönelik faaliyetlerini desteklemek ve koordine etmek, uluslararası sağlık hizmetlerine ilişkin politika ve stratejiler ile hizmet sunum standartları ve akreditasyon kriterleri konusunda Bakanlığa önerilerde bulunmak üzere Uluslararası Sağlık Hizmetleri unvanı ile bir anonim şirket (USHAŞ) kurulmuştur. USHAŞ’ın ilgili olduğu bakanlık Sağlık Bakanlığıdır.\n (2) USHAŞ’ın faaliyet konuları şunlardır:\n a) Uluslararası sağlık hizmetleri alanında aracılık faaliyeti gösteren kurumlara yetki belgesi vermek.\n b) Ülkemizin sağlık hizmetlerinin uluslararası tanıtımını yapmak, bu alandaki tanıtım ve bilgilendirme faaliyetlerini koordine etmek, yönlendirmek ve desteklemek.\n c) Uluslararası sağlık hizmetlerine ilişkin aracılık faaliyetlerinde bulunmak, verilen yetki çerçevesinde kamu ve özel sektör kuruluşları adına uluslararası sağlık hizmetlerine ilişkin sözleşme yapmak, yapılan sözleşmelerin yürütülmesine destek olmak.\n ç) Uluslararası sağlık hizmetlerine ilişkin bilgi alma başvurularına cevap vermek, şikâyetler ve anlaşmazlıkların çözümü için ilgili merciler nezdinde girişimlerde bulunmak, tarafların karşılaşabilecekleri sorunları tespit ederek önleyici tedbirler almak.\n d) Ülkemizin sağlık sisteminin tanıtımını yapmak, sağlık sistemleri, sağlık finansmanı ve kamu özel işbirliği modelleri konusunda uluslararası kişi ve kuruluşlara danışmanlık yapmak, bu alanlarda sistemlerin kurulması ve geliştirilmesine ilişkin yurt dışı talepleri karşılamak, projeler yapmak ve uygulamak.\n e) (Değişik: 15/11/2018-7151/39 md.) Yurt dışında sağlık kuruluşu açmak, işletmek, ortaklık kurmak ve işbirliği yapmak, sağlık ve eğitim amacına yönelik bina inşa etmek ve ettirmek, ilaç, cihaz ve tıbbî malzeme tedariki yapmak.\n f) (Değişik: 15/11/2018-7151/39 md.) Sağlık meslek eğitimi turizmine yönelik faaliyetlerde bulunmak; yurt içindeki eğitim kurumlarına yurt dışından öğrenci teminine aracılık etmek, yurt dışında eğitim kurumu açmak ve eğitim faaliyetinde bulunmak.\n g) Faaliyet alanına giren konularda ulusal ve uluslararası kongre, seminer ve benzeri etkinliklerde bulunmak, araştırma ve yayın yapmak.\n ğ) Uluslararası sağlık hizmetlerine ilişkin politika ve stratejiler, hizmet sunum standartları, akreditasyon kriterleri, fiyat tarifeleri ve hukuki düzenlemeler konusunda ilgili kuruluşlarla işbirliği yapmak ve bu konularda Bakanlığa önerilerde bulunmak.\n h) Sağlık meslekleri eğitimi konusunda teşvikler geliştirmek, bu alanda uluslararası öğrencileri ve eğitim kurumlarını desteklemek.\n (3) USHAŞ, bu Kanun ve 13/1/2011 tarihli ve 6102 sayılı Türk Ticaret Kanununun bu Kanuna aykırı bulunmayan hükümlerine göre hazırlanacak ana sözleşmesinin imzalanmasını müteakip yapılacak tescil ve ilan ile faaliyete geçer. Türk Ticaret Kanununun kuruluşa, ayni ve nakdi sermayesinin vaz’ına müteallik hükümleri USHAŞ hakkında uygulanmaz.\n (4) USHAŞ’ın yurt içinde ve yurt dışında şirket kurması veya bir şirkete %50’den fazla hisseyle ortak olmasına karar vermeye Cumhurbaşkanı yetkilidir.\n (5) USHAŞ’ın hisselerinin tamamı Hazine ve Maliye Bakanlığına aittir. Ancak, Hazine ve Maliye Bakanlığının mülkiyet hakkı ile kâr payı hakkına halel gelmemek ve pay sahipliğinden kaynaklanan bütün mali haklar Hazine ve Maliye Bakanlığında kalmak kaydıyla, USHAŞ’taki pay sahipliğine bağlı oy, yönetim, temsil, denetim gibi hak ve yetkiler Sağlık Bakanlığı tarafından kullanılır. USHAŞ işletme bütçesi Genel Kurul onayına sunulmadan önce Hazine ve Maliye Bakanlığının uygun görüşü alınır.\n (6) USHAŞ’ın başlangıç sermayesi on milyon Türk lirası olup, bu tutar Hazine ve Maliye Bakanlığı tarafından karşılanır.\n (7) USHAŞ’ta, 22/5/2003 tarihli ve 4857 sayılı İş Kanununa tabi personel istihdam edilir. Çalışacak personel sayısı 150 kişidir, Cumhurbaşkanı bu sayıyı dört katına kadar artırmaya yetkilidir. İstihdam edilecek personele ödenecek ücret ile diğer tüm mali ve sosyal hakların aylık ortalaması Cumhurbaşkanınca şirket için belirlenecek üst sınırı aşamaz.\n (8) USHAŞ, ceza ve ihalelerden yasaklama hükümleri hariç 4/1/2002 tarihli ve 4734 sayılı Kamu İhale Kanunu, 5/1/2002 tarihli ve 4735 sayılı Kamu İhale Sözleşmeleri Kanunu ve 18/6/1984 tarihli ve 233 sayılı Kamu İktisadi Teşebbüsleri Hakkında Kanun Hükmünde Kararnameye tabi değildir.\n (9) Yönetim kurulunda görev alanlara 22/1/1990 tarihli ve 399 sayılı Kanun Hükmünde Kararnamenin 34 üncü maddesine göre kamu iktisadi teşebbüsleri yönetim kurulu başkan ve üyelerine ödenen tutarda ödeme yapılır.",
+      "preview": "(Ek:26/7/2018-7146/19 md.) (1) Uluslararası sağlık hizmetleri alanında ülkemizde sunulan hizmetlerin tanıtımını yapmak, kamu ve özel sektörü…",
+      "kitap": null,
+      "kisim": null,
+      "bolum": "ONBİRİNCİ BÖLÜM · Çeşitli ve Son Hükümler",
+      "ayirim": null,
+      "maddeBaslik": "Atıflar, değiştirilen ve yürürlükten kaldırılan hükümler",
+      "sectionPath": [
+        "ONBİRİNCİ BÖLÜM · Çeşitli ve Son Hükümler",
+        "Atıflar, değiştirilen ve yürürlükten kaldırılan hükümler"
+      ]
+    },
+    {
+      "id": "kanun:663:m:ek:3",
+      "maddeKind": "ek",
+      "maddeNo": "3",
+      "heading": "Ek Madde 3",
+      "text": "(Ek:21/7/2025-7557/26 md.)\n (1) Bu Kanun Hükmünde Kararnamenin 42 nci maddesi kapsamında istihdam edilen sözleşmeli personele disipline aykırı fiil ve hâllerin gerçekleşmesi durumunda verilmesi gereken disiplin cezaları, disiplin cezası vermeye yetkili merciler ve disiplin kurulları ile disipline dair diğer hususlar hakkında bu Kanun Hükmünde Kararnamede yer alan hükümler dışında 657 sayılı Kanunun disiplin ile ilgili hükümleri uygulanır. Devlet memurluğundan çıkarma cezası Yüksek Disiplin Kurulunca verilecek karar sonrası sözleşmenin feshedilmesi suretiyle uygulanır ve bu kişilerin memuriyet ile ilişikleri kesilir.\n (2) Ekli (II) sayılı cetvelde belirtilen pozisyonlarda sözleşmeli istihdam edilenlerden 42 nci maddenin on ikinci fıkrası kapsamına girmeyenler hakkında kademe ilerlemesinin durdurulması cezası, brüt ücretinin 1/6 - 1/4 arasında kesinti yapılması şeklinde uygulanır.",
+      "preview": "(Ek:21/7/2025-7557/26 md.) (1) Bu Kanun Hükmünde Kararnamenin 42 nci maddesi kapsamında istihdam edilen sözleşmeli personele disipline aykır…",
+      "kitap": null,
+      "kisim": null,
+      "bolum": "ONBİRİNCİ BÖLÜM · Çeşitli ve Son Hükümler",
+      "ayirim": null,
+      "maddeBaslik": "Atıflar, değiştirilen ve yürürlükten kaldırılan hükümler",
+      "sectionPath": [
+        "ONBİRİNCİ BÖLÜM · Çeşitli ve Son Hükümler",
+        "Atıflar, değiştirilen ve yürürlükten kaldırılan hükümler"
+      ]
+    },
+    {
+      "id": "kanun:663:m:gecici:1",
+      "maddeKind": "gecici",
+      "maddeNo": "1",
+      "heading": "Geçici Madde 1",
+      "text": "(Mülga: 2/7/2018-KHK-703/25 md.)",
+      "preview": "(Mülga: 2/7/2018-KHK-703/25 md.)",
+      "kitap": null,
+      "kisim": null,
+      "bolum": "ONBİRİNCİ BÖLÜM · Çeşitli ve Son Hükümler",
+      "ayirim": null,
+      "maddeBaslik": "Atıflar, değiştirilen ve yürürlükten kaldırılan hükümler",
+      "sectionPath": [
+        "ONBİRİNCİ BÖLÜM · Çeşitli ve Son Hükümler",
+        "Atıflar, değiştirilen ve yürürlükten kaldırılan hükümler"
+      ]
+    },
+    {
+      "id": "kanun:663:m:gecici:2",
+      "maddeKind": "gecici",
+      "maddeNo": "2",
+      "heading": "Geçici Madde 2",
+      "text": "(Mülga: 2/7/2018-KHK-703/25 md.)",
+      "preview": "(Mülga: 2/7/2018-KHK-703/25 md.)",
+      "kitap": null,
+      "kisim": null,
+      "bolum": "ONBİRİNCİ BÖLÜM · Çeşitli ve Son Hükümler",
+      "ayirim": null,
+      "maddeBaslik": "Atıflar, değiştirilen ve yürürlükten kaldırılan hükümler",
+      "sectionPath": [
+        "ONBİRİNCİ BÖLÜM · Çeşitli ve Son Hükümler",
+        "Atıflar, değiştirilen ve yürürlükten kaldırılan hükümler"
+      ]
+    },
+    {
+      "id": "kanun:663:m:gecici:3",
+      "maddeKind": "gecici",
+      "maddeNo": "3",
+      "heading": "Geçici Madde 3",
+      "text": "(Mülga: 2/7/2018-KHK-703/25 md.)",
+      "preview": "(Mülga: 2/7/2018-KHK-703/25 md.)",
+      "kitap": null,
+      "kisim": null,
+      "bolum": "ONBİRİNCİ BÖLÜM · Çeşitli ve Son Hükümler",
+      "ayirim": null,
+      "maddeBaslik": "Atıflar, değiştirilen ve yürürlükten kaldırılan hükümler",
+      "sectionPath": [
+        "ONBİRİNCİ BÖLÜM · Çeşitli ve Son Hükümler",
+        "Atıflar, değiştirilen ve yürürlükten kaldırılan hükümler"
+      ]
+    },
+    {
+      "id": "kanun:663:m:gecici:4",
+      "maddeKind": "gecici",
+      "maddeNo": "4",
+      "heading": "Geçici Madde 4",
+      "text": "(Mülga: 2/7/2018-KHK-703/25 md.)",
+      "preview": "(Mülga: 2/7/2018-KHK-703/25 md.)",
+      "kitap": null,
+      "kisim": null,
+      "bolum": "ONBİRİNCİ BÖLÜM · Çeşitli ve Son Hükümler",
+      "ayirim": null,
+      "maddeBaslik": "Atıflar, değiştirilen ve yürürlükten kaldırılan hükümler",
+      "sectionPath": [
+        "ONBİRİNCİ BÖLÜM · Çeşitli ve Son Hükümler",
+        "Atıflar, değiştirilen ve yürürlükten kaldırılan hükümler"
+      ]
+    },
+    {
+      "id": "kanun:663:m:gecici:5",
+      "maddeKind": "gecici",
+      "maddeNo": "5",
+      "heading": "Geçici Madde 5",
+      "text": "(Mülga: 2/7/2018-KHK-703/25 md.)",
+      "preview": "(Mülga: 2/7/2018-KHK-703/25 md.)",
+      "kitap": null,
+      "kisim": null,
+      "bolum": "ONBİRİNCİ BÖLÜM · Çeşitli ve Son Hükümler",
+      "ayirim": null,
+      "maddeBaslik": "Atıflar, değiştirilen ve yürürlükten kaldırılan hükümler",
+      "sectionPath": [
+        "ONBİRİNCİ BÖLÜM · Çeşitli ve Son Hükümler",
+        "Atıflar, değiştirilen ve yürürlükten kaldırılan hükümler"
+      ]
+    },
+    {
+      "id": "kanun:663:m:gecici:6",
+      "maddeKind": "gecici",
+      "maddeNo": "6",
+      "heading": "Geçici Madde 6",
+      "text": "(Mülga: 2/7/2018-KHK-703/25 md.)",
+      "preview": "(Mülga: 2/7/2018-KHK-703/25 md.)",
+      "kitap": null,
+      "kisim": null,
+      "bolum": "ONBİRİNCİ BÖLÜM · Çeşitli ve Son Hükümler",
+      "ayirim": null,
+      "maddeBaslik": "Atıflar, değiştirilen ve yürürlükten kaldırılan hükümler",
+      "sectionPath": [
+        "ONBİRİNCİ BÖLÜM · Çeşitli ve Son Hükümler",
+        "Atıflar, değiştirilen ve yürürlükten kaldırılan hükümler"
+      ]
+    },
+    {
+      "id": "kanun:663:m:gecici:7",
+      "maddeKind": "gecici",
+      "maddeNo": "7",
+      "heading": "Geçici Madde 7",
+      "text": "(Mülga: 2/7/2018-KHK-703/25 md.)",
+      "preview": "(Mülga: 2/7/2018-KHK-703/25 md.)",
+      "kitap": null,
+      "kisim": null,
+      "bolum": "ONBİRİNCİ BÖLÜM · Çeşitli ve Son Hükümler",
+      "ayirim": null,
+      "maddeBaslik": "Atıflar, değiştirilen ve yürürlükten kaldırılan hükümler",
+      "sectionPath": [
+        "ONBİRİNCİ BÖLÜM · Çeşitli ve Son Hükümler",
+        "Atıflar, değiştirilen ve yürürlükten kaldırılan hükümler"
+      ]
+    },
+    {
+      "id": "kanun:663:m:gecici:8",
+      "maddeKind": "gecici",
+      "maddeNo": "8",
+      "heading": "Geçici Madde 8",
+      "text": "(Mülga: 2/7/2018-KHK-703/25 md.)",
+      "preview": "(Mülga: 2/7/2018-KHK-703/25 md.)",
+      "kitap": null,
+      "kisim": null,
+      "bolum": "ONBİRİNCİ BÖLÜM · Çeşitli ve Son Hükümler",
+      "ayirim": null,
+      "maddeBaslik": "Atıflar, değiştirilen ve yürürlükten kaldırılan hükümler",
+      "sectionPath": [
+        "ONBİRİNCİ BÖLÜM · Çeşitli ve Son Hükümler",
+        "Atıflar, değiştirilen ve yürürlükten kaldırılan hükümler"
+      ]
+    },
+    {
+      "id": "kanun:663:m:gecici:9",
+      "maddeKind": "gecici",
+      "maddeNo": "9",
+      "heading": "Geçici Madde 9",
+      "text": "(Mülga: 2/7/2018-KHK-703/25 md.)",
+      "preview": "(Mülga: 2/7/2018-KHK-703/25 md.)",
+      "kitap": null,
+      "kisim": null,
+      "bolum": "ONBİRİNCİ BÖLÜM · Çeşitli ve Son Hükümler",
+      "ayirim": null,
+      "maddeBaslik": "Atıflar, değiştirilen ve yürürlükten kaldırılan hükümler",
+      "sectionPath": [
+        "ONBİRİNCİ BÖLÜM · Çeşitli ve Son Hükümler",
+        "Atıflar, değiştirilen ve yürürlükten kaldırılan hükümler"
+      ]
+    },
+    {
+      "id": "kanun:663:m:gecici:10",
+      "maddeKind": "gecici",
+      "maddeNo": "10",
+      "heading": "Geçici Madde 10",
+      "text": "(Mülga: 2/7/2018-KHK-703/25 md.)",
+      "preview": "(Mülga: 2/7/2018-KHK-703/25 md.)",
+      "kitap": null,
+      "kisim": null,
+      "bolum": "ONBİRİNCİ BÖLÜM · Çeşitli ve Son Hükümler",
+      "ayirim": null,
+      "maddeBaslik": "Atıflar, değiştirilen ve yürürlükten kaldırılan hükümler",
+      "sectionPath": [
+        "ONBİRİNCİ BÖLÜM · Çeşitli ve Son Hükümler",
+        "Atıflar, değiştirilen ve yürürlükten kaldırılan hükümler"
+      ]
+    },
+    {
+      "id": "kanun:663:m:gecici:11",
+      "maddeKind": "gecici",
+      "maddeNo": "11",
+      "heading": "Geçici Madde 11",
+      "text": "(Mülga: 2/7/2018-KHK-703/25 md.)",
+      "preview": "(Mülga: 2/7/2018-KHK-703/25 md.)",
+      "kitap": null,
+      "kisim": null,
+      "bolum": "ONBİRİNCİ BÖLÜM · Çeşitli ve Son Hükümler",
+      "ayirim": null,
+      "maddeBaslik": "Atıflar, değiştirilen ve yürürlükten kaldırılan hükümler",
+      "sectionPath": [
+        "ONBİRİNCİ BÖLÜM · Çeşitli ve Son Hükümler",
+        "Atıflar, değiştirilen ve yürürlükten kaldırılan hükümler"
+      ]
+    },
+    {
+      "id": "kanun:663:m:gecici:12",
+      "maddeKind": "gecici",
+      "maddeNo": "12",
+      "heading": "Geçici Madde 12",
+      "text": "(Mülga: 2/7/2018-KHK-703/25 md.)",
+      "preview": "(Mülga: 2/7/2018-KHK-703/25 md.)",
+      "kitap": null,
+      "kisim": null,
+      "bolum": "ONBİRİNCİ BÖLÜM · Çeşitli ve Son Hükümler",
+      "ayirim": null,
+      "maddeBaslik": "Atıflar, değiştirilen ve yürürlükten kaldırılan hükümler",
+      "sectionPath": [
+        "ONBİRİNCİ BÖLÜM · Çeşitli ve Son Hükümler",
+        "Atıflar, değiştirilen ve yürürlükten kaldırılan hükümler"
+      ]
+    },
+    {
+      "id": "kanun:663:m:gecici:13",
+      "maddeKind": "gecici",
+      "maddeNo": "13",
+      "heading": "Geçici Madde 13",
+      "text": "(Ek: 2/1/2014-6514/8 md; Mülga: 2/7/2018-KHK-703/25 md.)",
+      "preview": "(Ek: 2/1/2014-6514/8 md; Mülga: 2/7/2018-KHK-703/25 md.)",
+      "kitap": null,
+      "kisim": null,
+      "bolum": "ONBİRİNCİ BÖLÜM · Çeşitli ve Son Hükümler",
+      "ayirim": null,
+      "maddeBaslik": "Atıflar, değiştirilen ve yürürlükten kaldırılan hükümler",
+      "sectionPath": [
+        "ONBİRİNCİ BÖLÜM · Çeşitli ve Son Hükümler",
+        "Atıflar, değiştirilen ve yürürlükten kaldırılan hükümler"
+      ]
+    },
+    {
+      "id": "kanun:663:m:gecici:14",
+      "maddeKind": "gecici",
+      "maddeNo": "14",
+      "heading": "Geçici Madde 14",
+      "text": "(Ek: 6/2/2014-6518/122 md.; Mülga: 2/7/2018-KHK-703/25 md.)",
+      "preview": "(Ek: 6/2/2014-6518/122 md.; Mülga: 2/7/2018-KHK-703/25 md.)",
+      "kitap": null,
+      "kisim": null,
+      "bolum": "ONBİRİNCİ BÖLÜM · Çeşitli ve Son Hükümler",
+      "ayirim": null,
+      "maddeBaslik": "Atıflar, değiştirilen ve yürürlükten kaldırılan hükümler",
+      "sectionPath": [
+        "ONBİRİNCİ BÖLÜM · Çeşitli ve Son Hükümler",
+        "Atıflar, değiştirilen ve yürürlükten kaldırılan hükümler"
+      ]
+    },
+    {
+      "id": "kanun:663:m:gecici:15",
+      "maddeKind": "gecici",
+      "maddeNo": "15",
+      "heading": "Geçici Madde 15",
+      "text": "(Ek: 15/8/2017-KHK-694/193 md.; Değiştirilerek kabul: 1/2/2018-7078/186 md.; Mülga: 2/7/2018-KHK-703/25 md.)",
+      "preview": "(Ek: 15/8/2017-KHK-694/193 md.; Değiştirilerek kabul: 1/2/2018-7078/186 md.; Mülga: 2/7/2018-KHK-703/25 md.)",
+      "kitap": null,
+      "kisim": null,
+      "bolum": "ONBİRİNCİ BÖLÜM · Çeşitli ve Son Hükümler",
+      "ayirim": null,
+      "maddeBaslik": "Atıflar, değiştirilen ve yürürlükten kaldırılan hükümler",
+      "sectionPath": [
+        "ONBİRİNCİ BÖLÜM · Çeşitli ve Son Hükümler",
+        "Atıflar, değiştirilen ve yürürlükten kaldırılan hükümler"
+      ]
+    },
+    {
+      "id": "kanun:663:m:gecici:16",
+      "maddeKind": "gecici",
+      "maddeNo": "16",
+      "heading": "Geçici Madde 16",
+      "text": "(Ek:8/4/2022-7394/38 md.)\n (1) Bu maddenin yürürlüğe girdiği tarihten önce bu maddeyi ihdas eden Kanunla 56 ncı maddenin yürürlükten kaldırılan hükümleri kapsamında uzmanlık eğitimi devam edenlerin Bakanlığa hizmet yükümlülüğü sona erer ve bunlara eğitimleri süresince yapılan ödemeler için borç çıkarılmaz.\n (2) Bu maddenin yürürlüğe girdiği tarihten önce yapılan en son uzmanlık eğitimi giriş sınavına giren adaylardan 657 sayılı Devlet Memurları Kanununa göre görevden çekilen veya çekilmiş sayılanlar 56 ncı madde kapsamında bir eğitim programına yerleştirilmeleri halinde bir defaya mahsus olmak üzere 657 sayılı Kanunun 97 nci maddesinin (A) ve (B) bentlerinde belirlenmiş sürelerin dolması beklenmeksizin uzmanlık eğitimine başlayabilir.",
+      "preview": "(Ek:8/4/2022-7394/38 md.) (1) Bu maddenin yürürlüğe girdiği tarihten önce bu maddeyi ihdas eden Kanunla 56 ncı maddenin yürürlükten kaldırıl…",
+      "kitap": null,
+      "kisim": null,
+      "bolum": "ONBİRİNCİ BÖLÜM · Çeşitli ve Son Hükümler",
+      "ayirim": null,
+      "maddeBaslik": "Atıflar, değiştirilen ve yürürlükten kaldırılan hükümler",
+      "sectionPath": [
+        "ONBİRİNCİ BÖLÜM · Çeşitli ve Son Hükümler",
+        "Atıflar, değiştirilen ve yürürlükten kaldırılan hükümler"
+      ]
+    },
+    {
+      "id": "kanun:663:m:gecici:17",
+      "maddeKind": "gecici",
+      "maddeNo": "17",
+      "heading": "Geçici Madde 17",
+      "text": "(Ek:19/1/2023-7433/7 md.)\n 28/11/2022 tarihi itibarıyla Sağlık Bakanlığı teşkilatında 14/7/1965 tarihli ve 657 sayılı Devlet Memurları Kanununun 86 ncı maddesi kapsamında açıktan vekil ebe ve hemşire olarak görev yapmakta olan ve aynı Kanunun 48 inci maddesinde belirtilen genel şartları taşıyanlar, bu maddenin yürürlüğe girdiği tarihten itibaren otuz gün içinde müracaat etmeleri hâlinde, Bakanlık tarafından ebe ve hemşire kadrolarına atanırlar. Bu madde uyarınca memur kadrolarına atananların dört yıl süreyle başka kamu kurum ve kuruluşlarına nakli yapılamaz.\n Bu madde kapsamında atama yapılacak kadrolar, başka bir işleme gerek kalmaksızın atama işleminin yapıldığı tarih itibarıyla ihdas edilerek kadro ve pozisyonlara ilişkin mevzuatın eki cetvellerin Bakanlığa ait bölümüne eklenmiş sayılır. İhdas edilen kadrolar; unvanı, sınıfı, adedi ve derecesi belirtilmek suretiyle atamanın yapıldığı tarihten itibaren bir ay içinde Kamu Personel Bilgi Sisteminin bulunduğu kuruma bildirilir.",
+      "preview": "(Ek:19/1/2023-7433/7 md.) 28/11/2022 tarihi itibarıyla Sağlık Bakanlığı teşkilatında 14/7/1965 tarihli ve 657 sayılı Devlet Memurları Kanunu…",
+      "kitap": null,
+      "kisim": null,
+      "bolum": "ONBİRİNCİ BÖLÜM · Çeşitli ve Son Hükümler",
+      "ayirim": null,
+      "maddeBaslik": "Atıflar, değiştirilen ve yürürlükten kaldırılan hükümler",
+      "sectionPath": [
+        "ONBİRİNCİ BÖLÜM · Çeşitli ve Son Hükümler",
+        "Atıflar, değiştirilen ve yürürlükten kaldırılan hükümler"
+      ]
+    },
+    {
+      "id": "kanun:663:m:59",
+      "maddeKind": "madde",
+      "maddeNo": "59",
+      "heading": "Madde 59",
+      "text": "(1) Bu Kanun Hükmünde Kararname yayımı tarihinde yürürlüğe girer.",
+      "preview": "(1) Bu Kanun Hükmünde Kararname yayımı tarihinde yürürlüğe girer.",
+      "kitap": null,
+      "kisim": null,
+      "bolum": "ONBİRİNCİ BÖLÜM · Çeşitli ve Son Hükümler",
+      "ayirim": null,
+      "maddeBaslik": "Yürürlük",
+      "sectionPath": [
+        "ONBİRİNCİ BÖLÜM · Çeşitli ve Son Hükümler",
+        "Yürürlük"
+      ]
+    },
+    {
+      "id": "kanun:663:m:60",
+      "maddeKind": "madde",
+      "maddeNo": "60",
+      "heading": "Madde 60",
+      "text": "(1) Bu Kanun Hükmünde Kararname hükümlerini Bakanlar Kurulu yürütür.\n (I) SAYILI CETVEL\n SAĞLIK BAKANLIĞI TEŞKİLATI\n (Mülga: 2/7/2018-KHK-703/25 md.)\n (II) SAYILI CETVEL[20]\n (Değişik: 15/8/2017-KHK-694/194 md.; Aynen kabul: 1/2/2018-7078/187 md.)\n\n SÖZLEŞMELİ PERSONEL POZİSYON UNVAN VE SAYILARI\n\n POZİSYON UNVANI\n POZİSYON SAYISI\n\n İL SAĞLIK MÜDÜRÜ\n 81\n\n İLÇE SAĞLIK MÜDÜRÜ\n 700\n\n BAŞKAN\n 400\n\n BAŞKAN YARDIMCISI\n 600\n\n BAŞHEKİM\n 850\n\n BAŞHEKİM YARDIMCISI\n 2.000\n\n MÜDÜR\n 1.600\n\n MÜDÜR YARDIMCISI\n 2.000\n\n UZMAN*\n 1.600\n\n TOPLAM\n 9.831\n\n * Uzman personel: İl sağlık müdürlükleri ve ilçe nüfusu yüz binin üzerindeki ilçe sağlık müdürlüklerinde, belirlenen alan ve vasıflarda özel bir meslek bilgisi, tecrübe veya ihtisasını gerektiren hizmetlerde sözleşmeli personel pozisyonuna bağlı olarak istihdam edilen personeli ifade eder.\n (III) SAYILI CETVEL\n (Değişik: 15/8/2017-KHK-694/194 md.; Aynen kabul: 1/2/2018-7078/187 md.)\n\n SÖZLEŞME ÜCRETİ CETVELİ\n\n Unvanı\n Sözleşme Ücreti Oranı (%)\n Ek Ödeme Tavan Oranı (%)\n\n İl Sağlık Müdürü\n\n a) Profesör, Doçent, Eğitim Görevlisi\n 250\n 500\n\n b) Uzman Hekim, Hekim*\n 200\n 400\n\n c) Hekim\n 200\n 300\n\n Başkan\n\n a) Profesör, Doçent, Eğitim Görevlisi\n 200\n 500\n\n b) Uzman Hekim, Hekim*\n 200\n 400\n\n c) Diğer\n 200\n 300\n\n Başkan Yardımcısı\n\n a) Profesör, Doçent, Eğitim Görevlisi\n 150\n 500\n\n b) Uzman Hekim, Hekim*\n 150\n 400\n\n c) Diğer\n 150\n 300\n\n İlçe Sağlık Müdürü\n\n a) Profesör, Doçent ve Eğitim Görevlisi\n 150\n 400\n\n b) Uzman Hekim, Hekim*\n 150\n 300\n\n c) Pratisyen Hekim\n 150\n 200\n\n Uzman\n 100\n 125\n\n Başhekim\n\n a) Profesör, Doçent ve Eğitim Görevlisi Hekim\n 150\n 600\n\n b) Uzman Hekim, Uzman Diş Hekimi, Hekim ve Diş Hekimi*\n 150\n 450\n\n c) Hekim, Diş Hekimi\n 150\n 200\n\n Başhekim Yardımcısı\n\n a) Uzman Hekim, Uzman Diş Hekimi, Hekim*\n 150\n 270\n\n b) Hekim, Diş Hekimi, Eczacı\n 150\n 180\n\n c) Lisansüstü eğitim yapmış sağlık bilimleri lisansiyerleri\n 100\n 125\n\n Müdür\n 100\n 125\n\n Müdür Yardımcısı\n 75\n 75\n\n (*) Tıp alanında doktora yapmış tabip veyahut hukuk, kamu yönetimi, işletme ve sağlık yönetimi alanında lisans, yüksek lisans veya doktora eğitimi almış tabip\n 663 SAYILI KHK'YE EK VE DEĞİŞİKLİK GETİREN MEVZUATIN VEYA\n ANAYASA MAHKEMESİ KARARLARININ YÜRÜRLÜĞE GİRİŞ\n TARİHLERİNİ GÖSTERİR LİSTE\n\n Değiştiren Kanunun/ KHK’nin veya İptal Eden Anayasa Mahkemesi Kararının Numarası\n 663 Sayılı KHK’nin Değişen Maddeleri\n Yürürlüğe Giriş Tarihi\n\n KHK/666\n 28\n 14/1/2012 tarihinden geçerli olmak üzere 2/11/2011\n\n 6354\n 7, 8, 10, 19/A, 25, 33, 44/A, 54,\n Ek-III sayılı Cetvel,\n Geçici Madde 4\n 12/7/2012\n\n 6428\n 33, 51\n 9/3/2013\n\n 6462\n 23\n 3/5/2013\n\n Anayasa Mahkemesinin 14/2/2013 tarihli ve E.: 2011/150, K.: 2013/30 sayılı Kararı\n 16, 23,58\n 25/6/2013\n\n Anayasa Mahkemesinin 14/2/2013 tarihli ve E.: 2011/150, K.: 2013/30 sayılı Kararı\n 44, 47, 55\n Kararın yürürlüğe gireceği 25/6/2013 tarihinden 9 ay sonra\n\n 6495\n 23, 44, 47\n 2/8/2013\n\n Anayasa Mahkemesinin 27/12/2012 tarihli ve\n E.: 2011/139, K.: 2012/205 sayılı Kararı\n 28\n 10/10/2013\n\n 6514\n 16, 24, 32, 33, 35, 55, 57,\n Geçici Madde 13\n 18/1/2014\n\n 6518\n 9, Geçici Madde 14\n 19/2/2014\n\n 6569\n 3\n 26/11/2014\n\n 7, 12, (I) sayılı cetvel\n 26/11/2017\n\n Anayasa Mahkemesinin 4/12/2014 tarihli ve E.: 2013/114, K.: 2014/22 Sayılı (Yürürlüğü Durdurma) Kararı\n 47\n 6/12/2014\n\n Anayasa Mahkemesinin 4/12/2014 tarihli ve\n E.: 2013/114, K.: 2014/184 sayılı Kararı\n 47\n 16/7/2015\n\n 6698\n 47\n 7/4/2016\n\n KHK/676\n 45/A\n 29/10/2016\n\n 7070\n 45/A\n 8/3/2018\n\n KHK/694\n 7, 14/A, 14/B, 23, 25, 25/A, 26, 29, 30, 31, 32, 33, 34, 35, 42, 51, 58, EK MADDE 1, GEÇİCİ MADDE 15, (I) SAYILI CETVEL, (II) SAYILI CETVEL, (III) SAYILI CETVEL\n 25/8/2017\n\n KHK/696\n 42, GEÇİCİ MADDE 15\n 24/12/2017\n\n 7078\n 7, 14/A, 14/B, 23, 25, 25/A, 26, 29, 30, 31, 32, 33, 34, 35, 42, 51, 58, EK MADDE 1, GEÇİCİ MADDE 15, (I) SAYILI CETVEL, (II) SAYILI CETVEL, (III) SAYILI CETVEL\n 8/3/2018\n\n KHK/703\n KHK’nin Adı, 1 ila 22, 23, 25 ila 27, 28, 35 ila 41, 42, 43 ila 44/A, 45, 45/A, 46 ila 50, 51, 52, 53, 55, 56, 57, Geçici Madde 1 ila Geçici Madde 15, Ek (I) sayılı cetvel\n 24/6/2018 tarihinde birlikte yapılan Türkiye Büyük Millet Meclisi ve Cumhurbaşkanlığı seçimleri sonucunda Cumhurbaşkanının andiçerek göreve başladığı tarihte (9/7/2018)\n\n 7146\n EK MADDE 2\n 3/8/2018\n\n 7151\n 42, 54, Ek Madde 2\n 5/12/2018\n\n 7180\n 45/A\n 5/7/2019\n\n Anayasa Mahkemesinin 24/7/2019 tarihli ve E.:2018/73; K.:2019/65 sayılı Kararı\n 45/A\n Kararın Resmî Gazete’de yayımlanmasından (29/11/2019 tarihinden) başlayarak 9 ay sonra\n\n 7394\n 56, Geçici Madde 16\n 15/4/2022\n\n 7433\n Geçici Madde 17\n 26/1/2023\n\n 7496\n 25/A\n 1/3/2024\n\n 7557\n 57, Ek Madde 3, ekli (II) sayılı cetvel\n 24/7/2025\n\n [1] Bu KHK’nin Adı “Sağlık Bakanlığı ve Bağlı Kuruluşlarının Teşkilat ve Görevleri Hakkında Kanun Hükmünde Kararname” iken 2/7/2018 tarihli ve 703 sayılı KHK’nin 25 inci maddesiyle metne işlendiği şekilde değiştirilmiştir.\n\n [2] Bu madde başlığı “Sağlık Meslekleri Kurulu” iken 2/7/2018 tarihli ve 703 sayılı KHK’nin 25 inci maddesiyle metne işlendiği şekilde değiştirilmiştir.\n\n [3] 11/10/2011 tarihli ve 666 sayılı KHK’nin 1 inci maddesiyle, bu fıkrada yer alan “, merkez ve taşra teşkilatında görev yapan diğer personel için %200’ünü” ibaresi yürürlükten kaldırılmış olup, daha sonra 11/10/2011 tarihli ve 666 sayılı KHK ile bu fıkrada yapılan düzenleme; 10/10/2013 tarihli ve 28791 sayılı Resmî Gazete’de yayımlanan Anayasa Mahkemesi’nin 27/12/2012 tarihli ve E.: 2011/139, K.: 2012/205 sayılı Kararı ile iptal edilmiştir.\n\n [4] 2/7/2018 tarihli ve 703 sayılı KHK’nin 25 inci maddesiyle, bu fıkrada yer alan “Maliye Bakanlığının” ibaresi “Hazine ve Maliye Bakanlığının” şeklinde değiştirilmiştir.\n\n [5] 15/8/2017 tarihli ve 694 sayılı KHK’nin 190 ıncı maddesiyle, bu maddenin “atama” olan başlığı, metne işlendiği şekilde değiştirilmiş, daha sonra bu hüküm 1/2/2018 tarihli ve 7078 sayılı Kanunun 183 üncü maddesiyle aynen kabul edilerek kanunlaşmıştır.\n\n [6] 2/7/2018 tarihli ve 703 sayılı KHK’nin 25 inci maddesiyle, bu maddenin birinci fıkrasında yer alan “Maliye Bakanlığının” ibaresi “Hazine ve Maliye Bakanlığının” şeklinde değiştirilmiştir.\n\n [7] 15/11/2018 tarihli ve 7151 sayılı Kanunun 37 nci maddesiyle bu fıkrada yer alan “yüz yatağın altındaki hastane başhekimlerinin tabip” ibaresi “yüz yatağın altındaki hastanelerin ve 112 il ambulans servisi başhekimlerinin tabip” şeklinde değiştirilmiştir.\n\n [8] 2/7/2018 tarihli ve 703 sayılı KHK’nin 25 inci maddesiyle, bu fıkrada yer alan “Maliye Bakanlığının” ibaresi “Hazine ve Maliye Bakanlığının” şeklinde değiştirilmiştir.\n\n [9] 2/7/2018 tarihli ve 703 sayılı KHK’nin 25 inci maddesiyle, bu fıkrada yer alan “Maliye Bakanlığınca” ibaresi “Hazine ve Maliye Bakanlığınca” şeklinde değiştirilmiştir.\n\n [10] 27/6/2019 tarihli ve 7180 sayılı Kanunun 19 uncu maddesiyle üçüncü fıkrada yer alan “dört” ibaresi “üç” şeklinde, dördüncü fıkrada yer alan “dört” ibaresi “üç” şeklinde ve “iki” ibaresi “bir” şeklinde değiştirilmiştir.\n\n [11] 2/7/2018 tarihli ve 703 sayılı KHK’nin 25 inci maddesiyle, bu fıkrada yer alan “Maliye Bakanlığı” ibaresi “Hazine ve Maliye Bakanlığı” şeklinde değiştirilmiştir.\n\n [12] 2/7/2018 tarihli ve 703 sayılı KHK’nin 25 inci maddesiyle, bu maddenin ikinci fıkrasında yer alan “Bakanlar Kurulu” ibaresi “Cumhurbaşkanı” şeklinde ve üçüncü fıkrasında yer alan “Bakanlar Kurulunca” ibaresi “Cumhurbaşkanınca” şeklinde değiştirilmiştir.\n\n [13] 15/8/2017 tarihli ve 694 sayılı KHK’nin 191 inci maddesiyle, 51 inci maddeye ikinci fıkradan sonra gelmek üzere üçüncü fıkra eklenmiş ve mevcut üçüncü fıkra dördüncü fıkra şeklinde teselsül ettirilmiş, daha sonra bu hüküm 1/2/2018 tarihli ve 7078 sayılı Kanunun 184 üncü maddesiyle aynen kabul edilerek kanunlaşmıştır.\n\n [14] 2/7/2018 tarihli ve 703 sayılı KHK’nin 25 inci maddesiyle, bu maddenin birinci fıkrasında yer alan “Maliye Bakanlığı” ibaresi “Hazine ve Maliye Bakanlığı” şeklinde değiştirilmiştir.\n\n [15] Bu fıkrada yer alan kadrolarla ilgili olarak 2/11/2011 tarihli ve 28103 (Mükerrer) sayılı Resmî Gazete’ye bakınız.\n\n [16] 15/8/2017 tarihli ve 694 sayılı KHK’nin 203 üncü maddesiyle bu fıkrada yer alan “Türkiye Kamu Hastaneleri Kurumu, Türkiye Halk Sağlığı Kurumu” ibaresi yürürlükten kaldırlmış, daha sonra bu hüküm 1/2/2018 tarihli ve 7078 sayılı Kanunun 189 uncu maddesiyle aynen kabul edilerek kanunlaşmıştır.\n\n [17] Bu fıkrada yer alan kadrolarla ilgili olarak 2/11/2011 tarihli ve 28103 (Mük.) sayılı Resmî Gazete’ye bakınız.\n\n [18] Anayasa Mahkemesinin 14/2/2013 tarihli ve E.: 2011/150, K.:2013/30 sayılı Kararıyla bu fıkra iptal edilmiştir.\n\n [19] Anayasa Mahkemesinin 14/2/2013 tarihli ve E.: 2011/150, K.:2013/30 sayılı Kararıyla bu bent iptal edilmiştir.\n\n [20] 21/7/2025 tarihli ve 7557 sayılı Kanunun 27 nci maddesiyle ekli (II) sayılı cetvelde yer alan “Uzman personel: İl sağlık müdürlüklerinde” ibaresi “Uzman personel: İl sağlık müdürlükleri ve ilçe nüfusu yüz binin üzerindeki ilçe sağlık müdürlüklerinde” şeklinde değiştirilmiştir.",
+      "preview": "(1) Bu Kanun Hükmünde Kararname hükümlerini Bakanlar Kurulu yürütür. (I) SAYILI CETVEL SAĞLIK BAKANLIĞI TEŞKİLATI (Mülga: 2/7/2018-KHK-703/2…",
+      "kitap": null,
+      "kisim": null,
+      "bolum": "ONBİRİNCİ BÖLÜM · Çeşitli ve Son Hükümler",
+      "ayirim": null,
+      "maddeBaslik": "Yürütme",
+      "sectionPath": [
+        "ONBİRİNCİ BÖLÜM · Çeşitli ve Son Hükümler",
+        "Yürütme"
+      ]
+    }
+  ]
+}

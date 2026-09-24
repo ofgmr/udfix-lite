@@ -1,0 +1,881 @@
+{
+  "id": "yonetmelik:4847",
+  "kind": "yonetmelik",
+  "no": "4847",
+  "title": "Hasta Hakları Yönetmeliği",
+  "shortName": "Hasta Hakları Yön.",
+  "aliases": [
+    "Hasta Hakları Yön.",
+    "Hasta Hakları Yönetmeliği",
+    "4847"
+  ],
+  "tur": 7,
+  "tertip": 5,
+  "sourceUrl": "https://www.mevzuat.gov.tr/mevzuat?MevzuatNo=4847&MevzuatTur=7&MevzuatTertip=5",
+  "kabulTarihi": null,
+  "maddeCount": 51,
+  "maddeler": [
+    {
+      "id": "yonetmelik:4847:m:1",
+      "maddeKind": "madde",
+      "maddeNo": "1",
+      "heading": "Madde 1",
+      "text": "Bu Yönetmelik; temel insan haklarının sağlık hizmetleri sahasındaki yansıması olan ve başta Türkiye Cumhuriyeti Anayasası'nda, diğer mevzuatta ve milletlerarası hukuki metinlerde kabul edilen \"hasta hakları\"nı somut olarak göstermek ve sağlık hizmeti verilen bütün kurum ve kuruluşlarda ve sağlık kurum ve kuruluşları dışında sağlık hizmeti verilen hallerde, insan haysiyetine yakışır şekilde herkesin \"hasta hakları\"ndan faydalanabilmesine, hak ihlallerinden korunabilmesine ve gerektiğinde hukuki korunma yollarını fiilen kullanabilmesine dair usül ve esasları düzenlemek amacı ile hazırlanmıştır.",
+      "preview": "Bu Yönetmelik; temel insan haklarının sağlık hizmetleri sahasındaki yansıması olan ve başta Türkiye Cumhuriyeti Anayasası'nda, diğer mevzuat…",
+      "kitap": null,
+      "kisim": null,
+      "bolum": null,
+      "ayirim": null,
+      "maddeBaslik": "Amaç",
+      "sectionPath": [
+        "Amaç"
+      ]
+    },
+    {
+      "id": "yonetmelik:4847:m:2",
+      "maddeKind": "madde",
+      "maddeNo": "2",
+      "heading": "Madde 2",
+      "text": "Bu Yönetmelik; sağlık hizmeti verilen resmi ve özel bütün kurum ve kuruluşları, bu kurum ve kuruluşlarda veya bunların dışında hizmete katılan her kademedeki ve unvandaki ilgilileri ve hizmetten faydalanma hakkını haiz olan bütün fertleri kapsar.",
+      "preview": "Bu Yönetmelik; sağlık hizmeti verilen resmi ve özel bütün kurum ve kuruluşları, bu kurum ve kuruluşlarda veya bunların dışında hizmete katıl…",
+      "kitap": null,
+      "kisim": null,
+      "bolum": null,
+      "ayirim": null,
+      "maddeBaslik": "Kapsam",
+      "sectionPath": [
+        "Kapsam"
+      ]
+    },
+    {
+      "id": "yonetmelik:4847:m:3",
+      "maddeKind": "madde",
+      "maddeNo": "3",
+      "heading": "Madde 3",
+      "text": "(Başlığı ile birlikte değişik:RG-16/1/2019-30657) Bu Yönetmelik; 7/5/1987 tarihli ve 3359 sayılı Sağlık Hizmetleri Temel Kanununa ve 10/7/2018 tarihli ve 30474 sayılı Resmî Gazete’de yayımlanan 1 sayılı Cumhurbaşkanlığı Teşkilatı Hakkında Cumhurbaşkanlığı Kararnamesinin 355 inci ve 508 inci maddelerine dayanılarak hazırlanmıştır.",
+      "preview": "(Başlığı ile birlikte değişik:RG-16/1/2019-30657) Bu Yönetmelik; 7/5/1987 tarihli ve 3359 sayılı Sağlık Hizmetleri Temel Kanununa ve 10/7/20…",
+      "kitap": null,
+      "kisim": null,
+      "bolum": null,
+      "ayirim": null,
+      "maddeBaslik": "Dayanak",
+      "sectionPath": [
+        "Dayanak"
+      ]
+    },
+    {
+      "id": "yonetmelik:4847:m:4",
+      "maddeKind": "madde",
+      "maddeNo": "4",
+      "heading": "Madde 4",
+      "text": "Bu Yönetmelik'te geçen deyimlerden;\n a) Bakanlık: Sağlık Bakanlığı'nı,\n b) Hasta: Sağlık hizmetlerinden faydalanma ihtiyacı bulunan kimseyi,\n c) Personel: Hizmetin, resmi veya özel sağlık kurumlarında ve kuruluşlarında veya serbest olarak sunulmasına bakılmaksızın, sağlık hizmetinin verilmesine iştirak eden bütün sağlık meslekleri mensuplarını ve sağlık meslekleri mensubu olmasa bile sağlık hizmetinin verilmesine sorumlu olarak iştirak eden kimseleri,\n d) (Değişik:RG-8/5/2014-28994) Sağlık kurum ve kuruluşu: Sağlık hizmeti verilen kamu veya özel bütün kurum ve kuruluşları ile tababet icra edilen bütün yerleri,\n e) Hasta hakları: Sağlık hizmetlerinden faydalanma ihtiyacı bulunan fertlerin, sırf insan olmaları sebebiyle sahip bulundukları ve T.C. Anayasası, milletlerarası andlaşmalar, kanunlar ve diğer mevzuat ile teminat altına alınmış bulunan haklarını,\n f) (Ek:RG-8/5/2014-28994) Yeterlik: Yaşının küçüklüğü yüzünden veya akıl hastalığı, akıl zayıflığı, sarhoşluk ya da bunlara benzer sebeplerden biriyle akla uygun biçimde davranma yeteneğinden yoksun olmayan onay verenin önerilen tıbbi müdahalede karşılaşabileceği ya da reddettiğinde doğabilecek sonuçları makul bir şekilde anlama ve değerlendirme yeteneğine sahip olma halini,\n g) (Ek:RG-8/5/2014-28994) Tıbbi müdahale: Tıp mesleğini icraya yetkili kişiler tarafından uygulanan, sağlığı koruma, hastalıkların teşhis ve tedavisi için ilgili meslekî yükümlülükler ve standartlara uygun olarak tıbbın sınırları içinde gerçekleştirilen fizikî ve ruhî girişimi,\n ğ) (Ek:RG-8/5/2014-28994) Bilgilendirme: Yapılması planlanan her türlü tıbbi müdahale öncesinde müdahaleyi gerçekleştirecek sağlık meslek mensubu tarafından kişiye gerekli bilginin verilmesini,\n h) (Ek:RG-8/5/2014-28994) Rıza: Kişinin tıbbi müdahaleyi serbest iradesiyle ve bilgilendirilmiş olarak kabul etmesini,\n ifade eder.",
+      "preview": "Bu Yönetmelik'te geçen deyimlerden; a) Bakanlık: Sağlık Bakanlığı'nı, b) Hasta: Sağlık hizmetlerinden faydalanma ihtiyacı bulunan kimseyi, c…",
+      "kitap": null,
+      "kisim": null,
+      "bolum": null,
+      "ayirim": null,
+      "maddeBaslik": "Tanımlar",
+      "sectionPath": [
+        "Tanımlar"
+      ]
+    },
+    {
+      "id": "yonetmelik:4847:m:5",
+      "maddeKind": "madde",
+      "maddeNo": "5",
+      "heading": "Madde 5",
+      "text": "Sağlık hizmetlerinin sunulmasında aşağıdaki ilkelere uyulması şarttır:\n a) Bedeni, ruhi ve sosyal yönden tam bir iyilik hali içinde yaşama hakkının, en temel insan hakkı olduğu, hizmetin her safhasında daima gözönünde bulundurulur.\n b) Herkesin yaşama, maddi ve manevi varlığını koruma ve geliştirme hakkını haiz olduğu ve hiçbir merci veya kimsenin bu hakkı ortadan kaldırmak yetkisinin olmadığı bilinerek, hastaya insanca muamelede bulunulur.\n c) Sağlık hizmetinin verilmesinde, hastaların, ırk, dil, din ve mezhep, cinsiyet, siyasi düşünce, felsefi inanç ve ekonomik ve sosyal durumları ile sair farklılıkları dikkate alınamaz. Sağlık hizmetleri, herkesin kolayca ulaşabileceği şekilde planlanıp düzenlenir.\n d) Tıbbi zorunluluklar ve kanunlarda yazılı haller dışında, rızası olmaksızın kişinin vücut bütünlüğüne ve diğer kişilik haklarına dokunulamaz.\n e) Kişi, rızası ve Bakanlığın izni olmaksızın tıbbi araştırmalara tabi tutulamaz.\n f) Kanun ile müsaade edilen haller ile tıbbi zorunluluklar dışında, hastanın özel hayatının ve aile hayatının gizliliğine dokunulamaz.",
+      "preview": "Sağlık hizmetlerinin sunulmasında aşağıdaki ilkelere uyulması şarttır: a) Bedeni, ruhi ve sosyal yönden tam bir iyilik hali içinde yaşama ha…",
+      "kitap": null,
+      "kisim": null,
+      "bolum": null,
+      "ayirim": null,
+      "maddeBaslik": "İlkeler",
+      "sectionPath": [
+        "İlkeler"
+      ]
+    },
+    {
+      "id": "yonetmelik:4847:m:6",
+      "maddeKind": "madde",
+      "maddeNo": "6",
+      "heading": "Madde 6",
+      "text": "Hasta, adalet ve hakkaniyet ilkeleri çerçevesinde sağlıklı yaşamanın teşvik edilmesine yönelik faaliyetler ve koruyucu sağlık hizmetleri de dahil olmak üzere, sağlık hizmetlerinden ihtiyaçlarına uygun olarak faydalanma hakkına sahiptir. Bu hak, sağlık hizmeti veren bütün kurum ve kuruluşlar ile sağlık hizmetinde görev alan personelin adalet ve hakkaniyet ilkelerine uygun hizmet verme yükümlülüklerini de içerir.",
+      "preview": "Hasta, adalet ve hakkaniyet ilkeleri çerçevesinde sağlıklı yaşamanın teşvik edilmesine yönelik faaliyetler ve koruyucu sağlık hizmetleri de…",
+      "kitap": null,
+      "kisim": null,
+      "bolum": "İKİNCİ BÖLÜM · Sağlık Hizmetlerinden Faydalanma Hakkı",
+      "ayirim": null,
+      "maddeBaslik": "Adalet ve Hakkaniyete Uygun Olarak Faydalanma",
+      "sectionPath": [
+        "İKİNCİ BÖLÜM · Sağlık Hizmetlerinden Faydalanma Hakkı",
+        "Adalet ve Hakkaniyete Uygun Olarak Faydalanma"
+      ]
+    },
+    {
+      "id": "yonetmelik:4847:m:7",
+      "maddeKind": "madde",
+      "maddeNo": "7",
+      "heading": "Madde 7",
+      "text": "Hasta, sağlık hizmetlerinden nasıl faydalanabileceği konusunda bilgi isteyebilir. Bu hak, hangi sağlık kuruluşundan hangi şartlara göre faydalanılabileceğini, sağlık kurum ve kuruluşları tarafından verilen her türlü hizmet ve imkanın neler olduğunu ve müracaat edilen kuruluşta verilen sağlık hizmetlerinden faydalanma usulüne öğrenme haklarını da kapsar.\n Bütün sağlık kurum ve kuruluşları, hastayı birinci fıkra uyarınca bilgilendirmek için yeterli teknik donanımı haiz birimi oluşturmak; bu birimde, hastaya kesin ve yeterli bilgi verebilecek nitelik ve ehliyete sahip personeli daimi olarak istihdam etmek ve hastanın ihtiyacı olan birimlere kolayca ulaşabilmesini temin etmek üzere, kuruluşun uygun yerlerinde bilgilendirici tabela, broşür ve işaretler bulundurmak gibi tedbirleri almak zorundadırlar.",
+      "preview": "Hasta, sağlık hizmetlerinden nasıl faydalanabileceği konusunda bilgi isteyebilir. Bu hak, hangi sağlık kuruluşundan hangi şartlara göre fayd…",
+      "kitap": null,
+      "kisim": null,
+      "bolum": "İKİNCİ BÖLÜM · Sağlık Hizmetlerinden Faydalanma Hakkı",
+      "ayirim": null,
+      "maddeBaslik": "Bilgi İsteme",
+      "sectionPath": [
+        "İKİNCİ BÖLÜM · Sağlık Hizmetlerinden Faydalanma Hakkı",
+        "Bilgi İsteme"
+      ]
+    },
+    {
+      "id": "yonetmelik:4847:m:8",
+      "maddeKind": "madde",
+      "maddeNo": "8",
+      "heading": "Madde 8",
+      "text": "Hasta; tabi olduğu mevzuatın öngördüğü usül ve şartlara uyulmak kaydı ile, sağlık kurum ve kuruluşunu seçme ve seçtiği sağlık kuruluşunda verilen sağlık hizmetinden faydalanma hakkına sahiptir.\n Mevzuat ile belirlenmiş sevk sistemine uygun olmak şartı ile hasta sağlık kuruluşunu değiştirebilir. Ancak, kuruluşu değiştirmenin hayati tehlikeye yol açıp açmayacağı ve hastalığının daha da ağırlaşıp ağırlaşmayacağı hususlarında hastanın tabip tarafından aydınlatılması ve hayati tehlike bakımından sağlık kuruluşunun değiştirilmesinde tıbben sakınca görülmemesi esastır.\n Acil vak'alar dışında, herhangi bir sosyal güvenlik kuruluşuna bağlı olup da mevzuatın öngördüğü sevk zincirine uymayanlar aradaki ücret farkını kendileri karşılar.\n Hastanın sağlık kuruluşunda kalmasında tıbben fayda bulunmayan veya bir başka sağlık kuruluşuna nakli gerekli olan hallerde, durum hastaya veya 15 inci maddenin ikinci fıkrasında belirtilen kişilere açıklanır. Nakilden önce, gereken bilgiler nakil talebinde bulunulan veya tıbben uygun görülen sağlık kuruluşuna, sevkeden kuruluş veya mevzuatla belirlenen yetkililerce verilir. Her iki durumda da hizmetin aksamadan ve kesintisiz olarak verilmesi esastır.",
+      "preview": "Hasta; tabi olduğu mevzuatın öngördüğü usül ve şartlara uyulmak kaydı ile, sağlık kurum ve kuruluşunu seçme ve seçtiği sağlık kuruluşunda ve…",
+      "kitap": null,
+      "kisim": null,
+      "bolum": "İKİNCİ BÖLÜM · Sağlık Hizmetlerinden Faydalanma Hakkı",
+      "ayirim": null,
+      "maddeBaslik": "Sağlık Kuruluşunu Seçme ve Değiştirme",
+      "sectionPath": [
+        "İKİNCİ BÖLÜM · Sağlık Hizmetlerinden Faydalanma Hakkı",
+        "Sağlık Kuruluşunu Seçme ve Değiştirme"
+      ]
+    },
+    {
+      "id": "yonetmelik:4847:m:9",
+      "maddeKind": "madde",
+      "maddeNo": "9",
+      "heading": "Madde 9",
+      "text": "Hastaya talebi halinde, kendisine sağlık hizmeti verecek veya vermekte olan tabiplerin ve diğer personelin kimlikleri, görev ve unvanları hakkında bilgi verilir.\n Mevzuat ile belirlenmiş usüllere uyulmak şartı ile hastanın, kendisine sağlık hizmeti verecek olan personeli serbestçe seçme, tedavisi ile ilgilenen tabibi değiştirme ve başka tabiplerin konsültasyonunu istemek hakkı vardır.\n Personeli seçme, tabibi değiştirme ve konsültasyon isteme hakları kullanıldığında, mevzuat ile belirlenen ücret farkı, bu hakları kullanan hasta tarafından karşılanır.",
+      "preview": "Hastaya talebi halinde, kendisine sağlık hizmeti verecek veya vermekte olan tabiplerin ve diğer personelin kimlikleri, görev ve unvanları ha…",
+      "kitap": null,
+      "kisim": null,
+      "bolum": "İKİNCİ BÖLÜM · Sağlık Hizmetlerinden Faydalanma Hakkı",
+      "ayirim": null,
+      "maddeBaslik": "Personeli Tanıma, Seçme ve Değiştirme",
+      "sectionPath": [
+        "İKİNCİ BÖLÜM · Sağlık Hizmetlerinden Faydalanma Hakkı",
+        "Personeli Tanıma, Seçme ve Değiştirme"
+      ]
+    },
+    {
+      "id": "yonetmelik:4847:m:10",
+      "maddeKind": "madde",
+      "maddeNo": "10",
+      "heading": "Madde 10",
+      "text": "Sağlık kuruluşunun hizmet verme imkanlarının yetersiz veya sınırlı olması sebebiyle sağlık hizmeti talebi zamanında karşılanamayan hallerde, hastanın, öncelik hakkının tıbbi kriterlere dayalı ve objektif olarak belirlenmesini istemek hakkı vardır.\n Acil ve adli vak'alar ile yaşlılar ve (Değişik ibare:RG-16/1/2019-30657) engelliler hakkında öncelik sırasının belirlenmesinde ilgili mevzuat hükümleri uygulanır.",
+      "preview": "Sağlık kuruluşunun hizmet verme imkanlarının yetersiz veya sınırlı olması sebebiyle sağlık hizmeti talebi zamanında karşılanamayan hallerde,…",
+      "kitap": null,
+      "kisim": null,
+      "bolum": "İKİNCİ BÖLÜM · Sağlık Hizmetlerinden Faydalanma Hakkı",
+      "ayirim": null,
+      "maddeBaslik": "Öncelik Sırasının Belirlenmesini İsteme",
+      "sectionPath": [
+        "İKİNCİ BÖLÜM · Sağlık Hizmetlerinden Faydalanma Hakkı",
+        "Öncelik Sırasının Belirlenmesini İsteme"
+      ]
+    },
+    {
+      "id": "yonetmelik:4847:m:11",
+      "maddeKind": "madde",
+      "maddeNo": "11",
+      "heading": "Madde 11",
+      "text": "Hasta, modern tıbbi bilgi ve teknolojinin gereklerine uygun olarak teşhisinin konulmasını, tedavisinin yapılmasını ve bakımını istemek hakkına sahiptir.\n Tababetin ilkelerine ve tababet ile ilgili mevzuat hükümlerine aykırı veya aldatıcı mahiyette teşhis ve tedavi yapılamaz.",
+      "preview": "Hasta, modern tıbbi bilgi ve teknolojinin gereklerine uygun olarak teşhisinin konulmasını, tedavisinin yapılmasını ve bakımını istemek hakkı…",
+      "kitap": null,
+      "kisim": null,
+      "bolum": "İKİNCİ BÖLÜM · Sağlık Hizmetlerinden Faydalanma Hakkı",
+      "ayirim": null,
+      "maddeBaslik": "Tıbbi Gereklere Uygun Teşhis, Tedavi ve Bakım",
+      "sectionPath": [
+        "İKİNCİ BÖLÜM · Sağlık Hizmetlerinden Faydalanma Hakkı",
+        "Tıbbi Gereklere Uygun Teşhis, Tedavi ve Bakım"
+      ]
+    },
+    {
+      "id": "yonetmelik:4847:m:12",
+      "maddeKind": "madde",
+      "maddeNo": "12",
+      "heading": "Madde 12",
+      "text": "Teşhis, tedavi veya korunma maksadı olmaksızın, ölüme veya hayati tehlikeye yol açabilecek veya vücut bütünlüğünü ihlal edebilecek veya akli veya bedeni mukavemeti azaltabilecek hiçbir şey yapılamaz ve talep de edilemez.",
+      "preview": "Teşhis, tedavi veya korunma maksadı olmaksızın, ölüme veya hayati tehlikeye yol açabilecek veya vücut bütünlüğünü ihlal edebilecek veya akli…",
+      "kitap": null,
+      "kisim": null,
+      "bolum": "İKİNCİ BÖLÜM · Sağlık Hizmetlerinden Faydalanma Hakkı",
+      "ayirim": null,
+      "maddeBaslik": "Tıbbi Gereklilikler Dışında Müdahale Yasağı",
+      "sectionPath": [
+        "İKİNCİ BÖLÜM · Sağlık Hizmetlerinden Faydalanma Hakkı",
+        "Tıbbi Gereklilikler Dışında Müdahale Yasağı"
+      ]
+    },
+    {
+      "id": "yonetmelik:4847:m:13",
+      "maddeKind": "madde",
+      "maddeNo": "13",
+      "heading": "Madde 13",
+      "text": "Ötenazi yasaktır.\n Tıbbi gereklerden bahisle veya her ne suretle olursa olsun, hayat hakkından vazgeçilemez. Kendisinin veya bir başkasının talebi olsa dahil, kimsenin hayatına son verilemez.",
+      "preview": "Ötenazi yasaktır. Tıbbi gereklerden bahisle veya her ne suretle olursa olsun, hayat hakkından vazgeçilemez. Kendisinin veya bir başkasının t…",
+      "kitap": null,
+      "kisim": null,
+      "bolum": "İKİNCİ BÖLÜM · Sağlık Hizmetlerinden Faydalanma Hakkı",
+      "ayirim": null,
+      "maddeBaslik": "Ötenazi Yasağı",
+      "sectionPath": [
+        "İKİNCİ BÖLÜM · Sağlık Hizmetlerinden Faydalanma Hakkı",
+        "Ötenazi Yasağı"
+      ]
+    },
+    {
+      "id": "yonetmelik:4847:m:14",
+      "maddeKind": "madde",
+      "maddeNo": "14",
+      "heading": "Madde 14",
+      "text": "Personel, hastanın durumunun gerektirdiği tıbbi özeni gösterir. Hastanın hayatını kurtarmak veya sağlığını korumak mümkün olmadığı takdirde dahi, ıstırabını azaltmaya veya dindirmeye çalışmak zorunludur.",
+      "preview": "Personel, hastanın durumunun gerektirdiği tıbbi özeni gösterir. Hastanın hayatını kurtarmak veya sağlığını korumak mümkün olmadığı takdirde…",
+      "kitap": null,
+      "kisim": null,
+      "bolum": "İKİNCİ BÖLÜM · Sağlık Hizmetlerinden Faydalanma Hakkı",
+      "ayirim": null,
+      "maddeBaslik": "Tıbbi Özen Gösterilmesi",
+      "sectionPath": [
+        "İKİNCİ BÖLÜM · Sağlık Hizmetlerinden Faydalanma Hakkı",
+        "Tıbbi Özen Gösterilmesi"
+      ]
+    },
+    {
+      "id": "yonetmelik:4847:m:15",
+      "maddeKind": "madde",
+      "maddeNo": "15",
+      "heading": "Madde 15",
+      "text": "(Başlığı ile birlikte değişik:RG-8/5/2014-28994)\n Hastaya;\n a) Hastalığın muhtemel sebepleri ve nasıl seyredeceği,\n b) Tıbbi müdahalenin kim tarafından nerede, ne şekilde ve nasıl yapılacağı ile tahmini süresi,\n c) Diğer tanı ve tedavi seçenekleri ve bu seçeneklerin getireceği fayda ve riskler ile hastanın sağlığı üzerindeki muhtemel etkileri,\n ç) Muhtemel komplikasyonları,\n d) Reddetme durumunda ortaya çıkabilecek muhtemel fayda ve riskleri,\n e) Kullanılacak ilaçların önemli özellikleri,\n f) Sağlığı için kritik olan yaşam tarzı önerileri,\n g) Gerektiğinde aynı konuda tıbbî yardıma nasıl ulaşabileceği,\n hususlarında bilgi verilir.",
+      "preview": "(Başlığı ile birlikte değişik:RG-8/5/2014-28994) Hastaya; a) Hastalığın muhtemel sebepleri ve nasıl seyredeceği, b) Tıbbi müdahalenin kim ta…",
+      "kitap": null,
+      "kisim": null,
+      "bolum": "ÜÇÜNCÜ BÖLÜM · Sağlık Durumu İle İlgili Bilgi Alma Hakkı",
+      "ayirim": null,
+      "maddeBaslik": "Bilgilendirmenin Kapsamı",
+      "sectionPath": [
+        "ÜÇÜNCÜ BÖLÜM · Sağlık Durumu İle İlgili Bilgi Alma Hakkı",
+        "Bilgilendirmenin Kapsamı"
+      ]
+    },
+    {
+      "id": "yonetmelik:4847:m:16",
+      "maddeKind": "madde",
+      "maddeNo": "16",
+      "heading": "Madde 16",
+      "text": "Hasta, sağlık durumu ile ilgili bilgiler bulunan dosyayı ve kayıtları, doğrudan veya vekili veya kanuni temsilcisi vasıtası ile inceleyebilir ve bir suretini alabilir. Bu kayıtlar, sadece hastanın tedavisi ile doğrudan ilgili olanlar tarafından görülebilir.",
+      "preview": "Hasta, sağlık durumu ile ilgili bilgiler bulunan dosyayı ve kayıtları, doğrudan veya vekili veya kanuni temsilcisi vasıtası ile inceleyebili…",
+      "kitap": null,
+      "kisim": null,
+      "bolum": "ÜÇÜNCÜ BÖLÜM · Sağlık Durumu İle İlgili Bilgi Alma Hakkı",
+      "ayirim": null,
+      "maddeBaslik": "Kayıtları İnceleme",
+      "sectionPath": [
+        "ÜÇÜNCÜ BÖLÜM · Sağlık Durumu İle İlgili Bilgi Alma Hakkı",
+        "Kayıtları İnceleme"
+      ]
+    },
+    {
+      "id": "yonetmelik:4847:m:17",
+      "maddeKind": "madde",
+      "maddeNo": "17",
+      "heading": "Madde 17",
+      "text": "Hasta; sağlık kurum ve kuruluşları nezdinde bulunan kayıtlarında eksik, belirsiz ve hatalı tıbbi ve şahsi bilgilerin tamamlanmasını, açıklanmasını, düzeltilmesini ve nihai sağlık durumu ve şahsi durumuna uygun hale getirilmesini isteyebilir.\n Bu hak, hastanın sağlık durumu ile ilgili raporlara itiraz ve aynı veya başka kurum ve kuruluşlarda sağlık durumu hakkında yeni rapor düzenlenmesini isteme haklarını da kapsar.",
+      "preview": "Hasta; sağlık kurum ve kuruluşları nezdinde bulunan kayıtlarında eksik, belirsiz ve hatalı tıbbi ve şahsi bilgilerin tamamlanmasını, açıklan…",
+      "kitap": null,
+      "kisim": null,
+      "bolum": "ÜÇÜNCÜ BÖLÜM · Sağlık Durumu İle İlgili Bilgi Alma Hakkı",
+      "ayirim": null,
+      "maddeBaslik": "Kayıtların Düzeltilmesini İsteme",
+      "sectionPath": [
+        "ÜÇÜNCÜ BÖLÜM · Sağlık Durumu İle İlgili Bilgi Alma Hakkı",
+        "Kayıtların Düzeltilmesini İsteme"
+      ]
+    },
+    {
+      "id": "yonetmelik:4847:m:18",
+      "maddeKind": "madde",
+      "maddeNo": "18",
+      "heading": "Madde 18",
+      "text": "(Değişik:RG-8/5/2014-28994)\n Bilgi, mümkün olduğunca sade şekilde, tereddüt ve şüpheye yer verilmeden, hastanın sosyal ve kültürel düzeyine uygun olarak anlayabileceği şekilde verilir.\n Hasta, tıbbi müdahaleyi gerçekleştirecek sağlık meslek mensubu tarafından tıbbi müdahale konusunda sözlü olarak bilgilendirilir. Bilgilendirme ve tıbbi müdahaleyi yapacak sağlık meslek mensubunun farklı olmasını zorunlu kılan durumlarda, bu duruma ilişkin hastaya açıklama yapılmak suretiyle bilgilendirme yeterliliğine sahip başka bir sağlık meslek mensubu tarafından bilgilendirme yapılabilir.\n Hastanın kendisinin bilgilendirilmesi esastır. Hastanın kendisi yerine bir başkasının bilgilendirilmesini talep etmesi halinde, bu talep kişinin imzası ile yazılı olarak kayıt altına alınmak kaydıyla sadece bilgilendirilmesi istenilen kişilere bilgi verilir.\n Hasta, aynı şikayeti ile ilgili olarak bir başka hekimden de sağlık durumu hakkında ikinci bir görüş almayı talep edebilir.\n Acil durumlar dışında, bilgilendirme hastaya makul süre tanınarak yapılır.\n Bilgilendirme uygun ortamda ve hastanın mahremiyeti korunarak yapılır.\n Hastanın talebi halinde yapılacak işlemin bedeline ilişkin bilgiler sağlık hizmet sunucusunun ilgili birimleri tarafından verilir.",
+      "preview": "(Değişik:RG-8/5/2014-28994) Bilgi, mümkün olduğunca sade şekilde, tereddüt ve şüpheye yer verilmeden, hastanın sosyal ve kültürel düzeyine u…",
+      "kitap": null,
+      "kisim": null,
+      "bolum": "ÜÇÜNCÜ BÖLÜM · Sağlık Durumu İle İlgili Bilgi Alma Hakkı",
+      "ayirim": null,
+      "maddeBaslik": "Bilgi Vermenin Usulü",
+      "sectionPath": [
+        "ÜÇÜNCÜ BÖLÜM · Sağlık Durumu İle İlgili Bilgi Alma Hakkı",
+        "Bilgi Vermenin Usulü"
+      ]
+    },
+    {
+      "id": "yonetmelik:4847:m:19",
+      "maddeKind": "madde",
+      "maddeNo": "19",
+      "heading": "Madde 19",
+      "text": "Hastanın manevi yapısı üzerinde fena tesir yapmak suretiyle hastalığın artması ihtimalinin bulunması ve hastalığın seyrinin ve sonucunun vahim görülmesi hallerinde, teşhisin saklanması caizdir.\n Hastaya veya yakınlarına, hastanın sağlık durumu hakkında bilgi verilip verilmemesi, yukarıdaki fıkrada belirtilen şartlar çerçevesinde tabibinin takdirine bağlıdır.\n Tedavisi olmayan bir teşhis, ancak bir tabip tarafından ve tam bir ihtiyat içinde hastaya hissettirilebilir veya bildirilebilir. Hastanın aksi yönde bir talebinin bulunmaması veya açıklanacağı şahsın önceden belirlenmemesi halinde, böyle bir teşhis ailesine bildirilir.",
+      "preview": "Hastanın manevi yapısı üzerinde fena tesir yapmak suretiyle hastalığın artması ihtimalinin bulunması ve hastalığın seyrinin ve sonucunun vah…",
+      "kitap": null,
+      "kisim": null,
+      "bolum": "ÜÇÜNCÜ BÖLÜM · Sağlık Durumu İle İlgili Bilgi Alma Hakkı",
+      "ayirim": null,
+      "maddeBaslik": "Bilgi Verilmesi Caiz Olmayan ve Tedbir Alınması Gereken haller",
+      "sectionPath": [
+        "ÜÇÜNCÜ BÖLÜM · Sağlık Durumu İle İlgili Bilgi Alma Hakkı",
+        "Bilgi Verilmesi Caiz Olmayan ve Tedbir Alınması Gereken haller"
+      ]
+    },
+    {
+      "id": "yonetmelik:4847:m:20",
+      "maddeKind": "madde",
+      "maddeNo": "20",
+      "heading": "Madde 20",
+      "text": "(Değişik:RG-8/5/2014-28994)\n İlgili mevzuat hükümleri ve/veya yetkili mercilerce alınacak tedbirlerin gerektirdiği haller dışında; kişi, sağlık durumu hakkında kendisinin, yakınlarının ya da hiç kimsenin bilgilendirilmemesini talep edebilir. Bu durumda kişinin kararı yazılı olarak alınır. Hasta, bilgi verilmemesi talebini istediği zaman değiştirebilir ve bilgi verilmesini talep edebilir.",
+      "preview": "(Değişik:RG-8/5/2014-28994) İlgili mevzuat hükümleri ve/veya yetkili mercilerce alınacak tedbirlerin gerektirdiği haller dışında; kişi, sağl…",
+      "kitap": null,
+      "kisim": null,
+      "bolum": "ÜÇÜNCÜ BÖLÜM · Sağlık Durumu İle İlgili Bilgi Alma Hakkı",
+      "ayirim": null,
+      "maddeBaslik": "Bilgi Verilmesini Yasaklama",
+      "sectionPath": [
+        "ÜÇÜNCÜ BÖLÜM · Sağlık Durumu İle İlgili Bilgi Alma Hakkı",
+        "Bilgi Verilmesini Yasaklama"
+      ]
+    },
+    {
+      "id": "yonetmelik:4847:m:21",
+      "maddeKind": "madde",
+      "maddeNo": "21",
+      "heading": "Madde 21",
+      "text": "Hastanın, mahremiyetine saygı gösterilmesi esastır. Hasta mahremiyetinin korunmasını açıkça talep de edebilir. Her türlü tıbbi müdahale, hastanın mahremiyetine saygı gösterilmek suretiyle icra edilir.\n Mahremiyete saygı gösterilmesi ve bunu istemek hakkı;\n a) Hastanın, sağlık durumu ile ilgili tıbbi değerlendirmelerin gizlilik içerisinde yürütülmesini,\n b) Muayenenin, teşhisin, tedavinin ve hasta ile doğrudan teması gerektiren diğer işlemlerin makul bir gizlilik ortamında gerçekleştirilmesini,\n c) Tıbben sakınca olmayan hallerde yanında bir yakınının bulunmasına izin verilmesini,\n d) Tedavisi ile doğrudan ilgili olmayan kimselerin, tıbbi müdahale sırasında bulunmamasını,\n e) Hastalığın mahiyeti gerektirmedikçe hastanın şahsi ve ailevi hayatına müdahale edilmemesini,\n f) Sağlık harcamalarının kaynağının gizli tutulmasını, kapsar.\n Ölüm olayı, mahremiyetin bozulması hakkını vermez.\n Eğitim verilen sağlık kurum ve kuruluşlarında, hastanın tedavisi ile doğrudan ilgili olmayanların tıbbi müdahale sırasında bulunması gerekli ise; önceden veya tedavi sırasında bunun için hastanın ayrıca rızası alınır.",
+      "preview": "Hastanın, mahremiyetine saygı gösterilmesi esastır. Hasta mahremiyetinin korunmasını açıkça talep de edebilir. Her türlü tıbbi müdahale, has…",
+      "kitap": null,
+      "kisim": null,
+      "bolum": "DÖRDÜNCÜ BÖLÜM · Hasta Haklarının Korunması",
+      "ayirim": null,
+      "maddeBaslik": "Mahremiyete Saygı Gösterilmesi",
+      "sectionPath": [
+        "DÖRDÜNCÜ BÖLÜM · Hasta Haklarının Korunması",
+        "Mahremiyete Saygı Gösterilmesi"
+      ]
+    },
+    {
+      "id": "yonetmelik:4847:m:22",
+      "maddeKind": "madde",
+      "maddeNo": "22",
+      "heading": "Madde 22",
+      "text": "Kanunda gösterilen istisnalar hariç olmak üzere, kimse, rızası olmaksızın ve verdiği rızaya uygun olmayan bir şekilde tıbbi ameliyeye tabi tutulamaz.\n Bir suç işlediği veya buna iştirak ettiği şüphesi altında bulunan kişinin işlediği suçun muhtemel delillerinin, kendisinin veya mağdurun vücudunda olduğu düşünülen hallerde; bu delillerin ortaya çıkarılması için sanığın veya mağdurun tıbbi ameliyeye tabi tutulması, hakimin kararına bağlıdır.\n Gecikmesinde sakınca bulunan hallerde bu ameliye, cumhuriyet savcısının talebi üzerine yapılabilir.",
+      "preview": "Kanunda gösterilen istisnalar hariç olmak üzere, kimse, rızası olmaksızın ve verdiği rızaya uygun olmayan bir şekilde tıbbi ameliyeye tabi t…",
+      "kitap": null,
+      "kisim": null,
+      "bolum": "DÖRDÜNCÜ BÖLÜM · Hasta Haklarının Korunması",
+      "ayirim": null,
+      "maddeBaslik": "Rıza Olmaksızın Tıbbi Ameliyeye Tabi Tutulmama",
+      "sectionPath": [
+        "DÖRDÜNCÜ BÖLÜM · Hasta Haklarının Korunması",
+        "Rıza Olmaksızın Tıbbi Ameliyeye Tabi Tutulmama"
+      ]
+    },
+    {
+      "id": "yonetmelik:4847:m:23",
+      "maddeKind": "madde",
+      "maddeNo": "23",
+      "heading": "Madde 23",
+      "text": "Sağlık hizmetinin verilmesi sebebiyle edinilen bilgiler, kanun ile müsaade edilen haller dışında, hiçbir şekilde açıklanamaz.\n Kişinin rızasına dayansa bile, kişilik haklarından bütünüyle vazgeçilmesi, bu hakların başkalarına devri veya aşırı şekilde sınırlanması neticesini doğuran hallerde bilginin açıklanması, bunları açıklayanın hukuki sorumluluğunu kaldırmaz.\n Hukuki ve ahlaki yönden geçerli ve haklı bir sebebe dayanmaksızın hastaya zarar verme ihtimali bulunan bilginin ifşa edilmesi, personelin ve diğer kimselerin hukuki ve cezai sorumluluğunu da gerektirir.\n Araştırma ve eğitim amacı ile yapılan faaliyetlerde de hastanın kimlik bilgileri, rızası olmaksızın açıklanamaz.",
+      "preview": "Sağlık hizmetinin verilmesi sebebiyle edinilen bilgiler, kanun ile müsaade edilen haller dışında, hiçbir şekilde açıklanamaz. Kişinin rızası…",
+      "kitap": null,
+      "kisim": null,
+      "bolum": "DÖRDÜNCÜ BÖLÜM · Hasta Haklarının Korunması",
+      "ayirim": null,
+      "maddeBaslik": "Bilgilerin Gizli Tutulması",
+      "sectionPath": [
+        "DÖRDÜNCÜ BÖLÜM · Hasta Haklarının Korunması",
+        "Bilgilerin Gizli Tutulması"
+      ]
+    },
+    {
+      "id": "yonetmelik:4847:m:24",
+      "maddeKind": "madde",
+      "maddeNo": "24",
+      "heading": "Madde 24",
+      "text": "(Değişik:RG-8/5/2014-28994)\n Tıbbi müdahalelerde hastanın rızası gerekir. Hasta küçük veya mahcur ise velisinden veya vasisinden izin alınır. Hastanın, velisinin veya vasisinin olmadığı veya hazır bulunamadığı veya hastanın ifade gücünün olmadığı hallerde, bu şart aranmaz.\n Kanuni temsilcinin rızasının yeterli olduğu hallerde dahi, anlatılanları anlayabilecekleri ölçüde, küçük veya kısıtlı olan hastanın dinlenmesi suretiyle mümkün olduğu kadar bilgilendirme sürecine ve tedavisi ile ilgili alınacak kararlara katılımı sağlanır.\n Sağlık kurum ve kuruluşları tarafından engellilerin durumuna uygun bilgilendirme yapılmasına ve rıza alınmasına yönelik gerekli tedbirler alınır.\n Kanuni temsilci tarafından rıza verilmeyen hallerde, müdahalede bulunmak tıbben gerekli ise, velayet ve vesayet altındaki hastaya tıbbi müdahalede bulunulabilmesi; Türk Medeni Kanununun 346 ncı ve 487 inci maddeleri uyarınca mahkeme kararına bağlıdır.\n Tıbbi müdahale sırasında isteğini açıklayabilecek durumda bulunmayan bir hastanın, tıbbî müdahale ile ilgili olarak önceden açıklamış olduğu istekleri göz önüne alınır.\n Yeterliğin zaman zaman kaybedildiği tekrarlayıcı hastalıklarda, hastadan yeterliği olduğu dönemde onu kaybettiği dönemlere ilişkin yapılacak tıbbi müdahale için rıza vermesi istenebilir.\n Hastanın rızasının alınamadığı hayati tehlikesinin bulunduğu ve bilincinin kapalı olduğu acil durumlar ile hastanın bir organının kaybına veya fonksiyonunu ifa edemez hale gelmesine yol açacak durumun varlığı halinde, hastaya tıbbi müdahalede bulunmak rızaya bağlı değildir. Bu durumda hastaya gerekli tıbbi müdahale yapılarak durum kayıt altına alınır. Ancak bu durumda, mümkünse hastanın orada bulunan yakını veya kanuni temsilcisi; mümkün olmadığı takdirde de tıbbi müdahale sonrasında hastanın yakını veya kanuni temsilcisi bilgilendirilir. Ancak hastanın bilinci açıldıktan sonraki tıbbi müdahaleler için hastanın yeterliği ve ifade edebilme gücüne bağlı olarak rıza işlemlerine başvurulur.\n Sağlık kurum ve kuruluşlarında yatarak tedavisi tamamlanan hastaya, genel sağlık durumu, ilaçları, kontrol tarihleri diyet ve sonrasında neler yapması gerektiği gibi bilgileri içeren taburcu sonrası tedavi planı sağlık meslek mensubu tarafından sözel olarak anlatılır. Daha sonra bu tedavi planının yer aldığı epikrizin bir nüshası hastaya verilir.",
+      "preview": "(Değişik:RG-8/5/2014-28994) Tıbbi müdahalelerde hastanın rızası gerekir. Hasta küçük veya mahcur ise velisinden veya vasisinden izin alınır.…",
+      "kitap": null,
+      "kisim": null,
+      "bolum": "BEŞİNCİ BÖLÜM · Tıbbi Müdahalede Hastanın Rızası",
+      "ayirim": null,
+      "maddeBaslik": "Hastanın Rızası ve İzin",
+      "sectionPath": [
+        "BEŞİNCİ BÖLÜM · Tıbbi Müdahalede Hastanın Rızası",
+        "Hastanın Rızası ve İzin"
+      ]
+    },
+    {
+      "id": "yonetmelik:4847:m:25",
+      "maddeKind": "madde",
+      "maddeNo": "25",
+      "heading": "Madde 25",
+      "text": "Kanunen zorunlu olan haller dışında ve doğabilecek olumsuz sonuçların sorumluluğu hastaya ait olmak üzere; hasta kendisine uygulanması planlanan veya uygulanmakta olan tedaviyi reddetmek veya durdurulmasını istemek hakkına sahiptir. Bu halde, tedavinin uygulanmamasından doğacak sonuçların hastaya veya kanuni temsilcilerine veyahut yakınlarına anlatılması ve bunu gösteren yazılı belge alınması gerekir.\n Bu hakkın kullanılması, hastanın sağlık kuruluşuna tekrar müracaatında hasta aleyhine kullanılamaz.",
+      "preview": "Kanunen zorunlu olan haller dışında ve doğabilecek olumsuz sonuçların sorumluluğu hastaya ait olmak üzere; hasta kendisine uygulanması planl…",
+      "kitap": null,
+      "kisim": null,
+      "bolum": "BEŞİNCİ BÖLÜM · Tıbbi Müdahalede Hastanın Rızası",
+      "ayirim": null,
+      "maddeBaslik": "Tedaviyi Reddetme ve Durdurma",
+      "sectionPath": [
+        "BEŞİNCİ BÖLÜM · Tıbbi Müdahalede Hastanın Rızası",
+        "Tedaviyi Reddetme ve Durdurma"
+      ]
+    },
+    {
+      "id": "yonetmelik:4847:m:26",
+      "maddeKind": "madde",
+      "maddeNo": "26",
+      "heading": "Madde 26",
+      "text": "(Başlığı ile birlikte değişik:RG-8/5/2014-28994)\n Mevzuatta öngörülen durumlar ile uyuşmazlığa mahal vermesi tıbben muhtemel görülen tıbbi müdahaleler için sağlık kurum ve kuruluşunca 15 inci maddedeki bilgileri içeren rıza formu hazırlanır. Rıza formunda yer alan bilgiler; sözlü olarak hastaya aktarılarak rıza formu hastaya veya kanuni temsilcisine imzalatılır. Rıza formu iki nüsha olarak imza altına alınır ve bir nüshası hastanın dosyasına konulur, diğeri ise hastaya veya kanuni temsilcisine verilir. Acil durumlarda tıbbi müdahalenin hasta tarafından kabul edilmemesi durumunda, bu beyan imzalı olarak alınır, imzadan imtina etmesi halinde durum tutanak altına alınır. Rıza formu bilgilendirmeyi yapan ve tıbbi müdahaleyi gerçekleştirecek sağlık meslek mensubu tarafından imzalanır. Verilen bilgilerin doğruluğundan ilgili sağlık meslek mensubu sorumludur. Rıza formları arşiv mevzuatına uygun olarak muhafaza edilir.",
+      "preview": "(Başlığı ile birlikte değişik:RG-8/5/2014-28994) Mevzuatta öngörülen durumlar ile uyuşmazlığa mahal vermesi tıbben muhtemel görülen tıbbi mü…",
+      "kitap": null,
+      "kisim": null,
+      "bolum": "BEŞİNCİ BÖLÜM · Tıbbi Müdahalede Hastanın Rızası",
+      "ayirim": null,
+      "maddeBaslik": "Rıza Formu",
+      "sectionPath": [
+        "BEŞİNCİ BÖLÜM · Tıbbi Müdahalede Hastanın Rızası",
+        "Rıza Formu"
+      ]
+    },
+    {
+      "id": "yonetmelik:4847:m:27",
+      "maddeKind": "madde",
+      "maddeNo": "27",
+      "heading": "Madde 27",
+      "text": "Klinik veya laboratuar muayeneleri sonucunda bilinen klasik tedavi metodlarının hastaya fayda vermeyeceğinin sabit olması ve daha evvel deney hayvanları üzerinde kafi derecede tecrübe edilmek suretiyle faydalı tesirlerinin anlaşılması ve hastanın rızasının bulunması şartları birlikte mevcut olduğunda, bilinen klasik tedavi metodları yerine başka bir tedavi usulü uygulanabilir. Ayrıca, bilinen klasik tedavi metodu dışındaki bir metodun uygulanabilmesi için, hastaya faydalı olacağının ve bu tedavinin bilinen klasik tedavi usullerinden daha elverişsiz sonuç vermeyeceğinin muhtemel olması da şarttır.\n Evvelce tecrübe edilmemiş bir tıbbi tedavi ve müdahale usulü, ancak zarar vermeyeceğinin ve hastayı kurtaracağının mutlak olarak öngörülmesi halinde yapılabilir.\n Altıncı Bölüm'de yer alan hükümler saklıdır.",
+      "preview": "Klinik veya laboratuar muayeneleri sonucunda bilinen klasik tedavi metodlarının hastaya fayda vermeyeceğinin sabit olması ve daha evvel dene…",
+      "kitap": null,
+      "kisim": null,
+      "bolum": "BEŞİNCİ BÖLÜM · Tıbbi Müdahalede Hastanın Rızası",
+      "ayirim": null,
+      "maddeBaslik": "Alışılmış Olmayan Tedavi Usullerinin Uygulanması",
+      "sectionPath": [
+        "BEŞİNCİ BÖLÜM · Tıbbi Müdahalede Hastanın Rızası",
+        "Alışılmış Olmayan Tedavi Usullerinin Uygulanması"
+      ]
+    },
+    {
+      "id": "yonetmelik:4847:m:28",
+      "maddeKind": "madde",
+      "maddeNo": "28",
+      "heading": "Madde 28",
+      "text": "Mevzuatın öngördüğü istisnalar dışında, rıza herhangi bir şekle bağlı değildir.\n Hukuka ve ahlaka aykırı olarak alınan rıza hükümsüzdür ve bu şekilde alınan rızaya dayanılarak müdahalede bulunulamaz.",
+      "preview": "Mevzuatın öngördüğü istisnalar dışında, rıza herhangi bir şekle bağlı değildir. Hukuka ve ahlaka aykırı olarak alınan rıza hükümsüzdür ve bu…",
+      "kitap": null,
+      "kisim": null,
+      "bolum": "BEŞİNCİ BÖLÜM · Tıbbi Müdahalede Hastanın Rızası",
+      "ayirim": null,
+      "maddeBaslik": "Rızanın Şekli ve Geçerliliği",
+      "sectionPath": [
+        "BEŞİNCİ BÖLÜM · Tıbbi Müdahalede Hastanın Rızası",
+        "Rızanın Şekli ve Geçerliliği"
+      ]
+    },
+    {
+      "id": "yonetmelik:4847:m:29",
+      "maddeKind": "madde",
+      "maddeNo": "29",
+      "heading": "Madde 29",
+      "text": "18 yaşından küçük ve mümeyyiz olmayanlardan organ ve doku alınamaz. Bu şartları tamam olanlardan teşhis, tedavi ve bilimsel amaçlar ile organ veya doku alınması, 2238 sayılı Organ ve Doku Alınması, Saklanması ve Nakli Hakkında Kanun'un 6 ncı maddesinde öngörülen yazılı şekil şartına tabidir. Ölüden organ ve doku alınma şartı ve cesetlerin bilimsel araştırma için muhafazası hususunda 2238 sayılı Kanun'un 14 üncü maddesi hükümleri saklıdır.",
+      "preview": "18 yaşından küçük ve mümeyyiz olmayanlardan organ ve doku alınamaz. Bu şartları tamam olanlardan teşhis, tedavi ve bilimsel amaçlar ile orga…",
+      "kitap": null,
+      "kisim": null,
+      "bolum": "BEŞİNCİ BÖLÜM · Tıbbi Müdahalede Hastanın Rızası",
+      "ayirim": null,
+      "maddeBaslik": "Organ ve Doku Alınmasında Rıza",
+      "sectionPath": [
+        "BEŞİNCİ BÖLÜM · Tıbbi Müdahalede Hastanın Rızası",
+        "Organ ve Doku Alınmasında Rıza"
+      ]
+    },
+    {
+      "id": "yonetmelik:4847:m:30",
+      "maddeKind": "madde",
+      "maddeNo": "30",
+      "heading": "Madde 30",
+      "text": "İlgilinin rızası mevcut olsun veya olmasın, Bakanlık tarafından tespit edilmiş olanlar dışındaki ilaç ve araçlar aile planlaması hizmetlerinde kullanılamaz.\n Gebeliğin sona erdirilmesi, 2827 sayılı Nüfus Planlaması Hakkında Kanun ile öngörülen şartlara tabidir.\n Sterilizasyon ve gebeliğin sona erdirilmesi hallerinde, hastanın rızası ile evli ise eşinin de rızası gereklidir.",
+      "preview": "İlgilinin rızası mevcut olsun veya olmasın, Bakanlık tarafından tespit edilmiş olanlar dışındaki ilaç ve araçlar aile planlaması hizmetlerin…",
+      "kitap": null,
+      "kisim": null,
+      "bolum": "BEŞİNCİ BÖLÜM · Tıbbi Müdahalede Hastanın Rızası",
+      "ayirim": null,
+      "maddeBaslik": "Aile Planlanması Hizmetleri ve Gebeliğin Sona Erdirilmesi",
+      "sectionPath": [
+        "BEŞİNCİ BÖLÜM · Tıbbi Müdahalede Hastanın Rızası",
+        "Aile Planlanması Hizmetleri ve Gebeliğin Sona Erdirilmesi"
+      ]
+    },
+    {
+      "id": "yonetmelik:4847:m:31",
+      "maddeKind": "madde",
+      "maddeNo": "31",
+      "heading": "Madde 31",
+      "text": "(Başlığı ile birlikte değişik:RG-8/5/2014-28994)\n Rıza alınırken hastanın veya kanuni temsilcisinin tıbbi müdahalenin konusu ve sonuçları hakkında bilgilendirilip aydınlatılması esastır.\n Hastanın verdiği rıza, tıbbi müdahalenin gerektirdiği sürecin devamı olan ve zorunlu sayılabilecek rutin işlemleri de kapsar.\n Tıbbi müdahale, hasta tarafından verilen rızanın sınırları içerisinde olması gerekir.\n Hastaya tıbbi müdahalede bulunulurken yapılan işlemin genişletilmesi gereği doğduğunda müdahale genişletilmediği takdirde hastanın bir organının kaybına veya fonksiyonunu ifa edemez hale gelmesine yol açabilecek tıbbi zaruret hâlinde rıza aranmaksızın tıbbi müdahale genişletilebilir.",
+      "preview": "(Başlığı ile birlikte değişik:RG-8/5/2014-28994) Rıza alınırken hastanın veya kanuni temsilcisinin tıbbi müdahalenin konusu ve sonuçları hak…",
+      "kitap": null,
+      "kisim": null,
+      "bolum": "BEŞİNCİ BÖLÜM · Tıbbi Müdahalede Hastanın Rızası",
+      "ayirim": null,
+      "maddeBaslik": "Rızanın Kapsamı ve Aranmayacağı Haller",
+      "sectionPath": [
+        "BEŞİNCİ BÖLÜM · Tıbbi Müdahalede Hastanın Rızası",
+        "Rızanın Kapsamı ve Aranmayacağı Haller"
+      ]
+    },
+    {
+      "id": "yonetmelik:4847:m:32",
+      "maddeKind": "madde",
+      "maddeNo": "32",
+      "heading": "Madde 32",
+      "text": "Hiç kimse; Bakanlığın izni ve kendi rızası bulunmaksızın, tecrübe, araştırma veya eğitim amaçlı hiçbir tıbbi müdahale konusu yapılamaz.\n Tıbbi araştırmalardan beklenen tıbbi fayda ve toplum menfaati, üzerinde araştırma yapılmasına rıza gösteren gönüllünün hayatından ve vücut bütünlüğünün korunmasından üstün tutulamaz.\n Tıbbi araştırmalar, sadece, mevzuata göre araştırmada bulunmayan yetkili ve yeterli tıbbi bilgi ve tecrübeyi haiz olan personel tarafından, mevzuat ile belirlenmiş bulunan yerlerde yürütülür.\n Gönüllünün tıbbi araştırmaya rıza göstermiş olması, bu araştırmada görev alan personelin sorumluluğunu ortadan kaldırmaz.",
+      "preview": "Hiç kimse; Bakanlığın izni ve kendi rızası bulunmaksızın, tecrübe, araştırma veya eğitim amaçlı hiçbir tıbbi müdahale konusu yapılamaz. Tıbb…",
+      "kitap": null,
+      "kisim": null,
+      "bolum": "ALTINCI BÖLÜM · Tıbbi Araştırmalar",
+      "ayirim": null,
+      "maddeBaslik": "Tıbbi Araştırmalarda Rıza",
+      "sectionPath": [
+        "ALTINCI BÖLÜM · Tıbbi Araştırmalar",
+        "Tıbbi Araştırmalarda Rıza"
+      ]
+    },
+    {
+      "id": "yonetmelik:4847:m:33",
+      "maddeKind": "madde",
+      "maddeNo": "33",
+      "heading": "Madde 33",
+      "text": "Araştırmalarda, gönüllünün sağlığına ve diğer kişilik haklarına zarar verilmemesi için gereken bütün tedbirler alınır. Araştırmanın gönüllüye vereceği muhtemel zararlar önceden tespit edilemediği takdirde; gönüllü, rızası bulunsa dahi, araştırma konusu yapılamaz.\n Gönüllü; araştırmanın maksadı, usulü, muhtemel faydaları ve zararları ve araştırmaya iştirak etmekten vazgeçebileceği ve araştırmanın her safhasında başlangıçta verdiği rızayı geri alabileceği hususlarında, önceden yeterince bilgilendirilir.",
+      "preview": "Araştırmalarda, gönüllünün sağlığına ve diğer kişilik haklarına zarar verilmemesi için gereken bütün tedbirler alınır. Araştırmanın gönüllüy…",
+      "kitap": null,
+      "kisim": null,
+      "bolum": "ALTINCI BÖLÜM · Tıbbi Araştırmalar",
+      "ayirim": null,
+      "maddeBaslik": "Gönüllünün Korunması ve Bilgilendirilmesi",
+      "sectionPath": [
+        "ALTINCI BÖLÜM · Tıbbi Araştırmalar",
+        "Gönüllünün Korunması ve Bilgilendirilmesi"
+      ]
+    },
+    {
+      "id": "yonetmelik:4847:m:34",
+      "maddeKind": "madde",
+      "maddeNo": "34",
+      "heading": "Madde 34",
+      "text": "Tıbbi araştırma hakkında yeterince bilgilendirilmiş olan gönüllünün rızasının maddi veya manevi hiçbir baskı altında olmaksızın, tamamen serbest iradesine dayanılarak alınmasına azami ihtimam gösterilir.\n Tıbbi araştırmalarda rıza yazılı şekil şartına tabidir.",
+      "preview": "Tıbbi araştırma hakkında yeterince bilgilendirilmiş olan gönüllünün rızasının maddi veya manevi hiçbir baskı altında olmaksızın, tamamen ser…",
+      "kitap": null,
+      "kisim": null,
+      "bolum": "ALTINCI BÖLÜM · Tıbbi Araştırmalar",
+      "ayirim": null,
+      "maddeBaslik": "Rıza Alınmasının Usülü ve Şekli",
+      "sectionPath": [
+        "ALTINCI BÖLÜM · Tıbbi Araştırmalar",
+        "Rıza Alınmasının Usülü ve Şekli"
+      ]
+    },
+    {
+      "id": "yonetmelik:4847:m:35",
+      "maddeKind": "madde",
+      "maddeNo": "35",
+      "heading": "Madde 35",
+      "text": "Reşit ve mümeyyiz olmayanlara, kendilerine faydası olmadan, sırf tıbbi araştırma amacı güden tıbbi müdahaleler hiçbir surette tatbik edilemez. Faydaları bulunması şartı ile reşit ve mümeyyiz olmayanlar üzerinde tıbbi araştırma yapılması, velilerinin veya vasilerinin rızasına bağlıdır.\n Kanuni temsilci tarafından muvafakat verilmeyen hallerde, 24 üncü maddenin ikinci fıkrası hükmü uygulanır.",
+      "preview": "Reşit ve mümeyyiz olmayanlara, kendilerine faydası olmadan, sırf tıbbi araştırma amacı güden tıbbi müdahaleler hiçbir surette tatbik edileme…",
+      "kitap": null,
+      "kisim": null,
+      "bolum": "ALTINCI BÖLÜM · Tıbbi Araştırmalar",
+      "ayirim": null,
+      "maddeBaslik": "Küçüklerin ve Mümeyyiz Olmayanların Durumu",
+      "sectionPath": [
+        "ALTINCI BÖLÜM · Tıbbi Araştırmalar",
+        "Küçüklerin ve Mümeyyiz Olmayanların Durumu"
+      ]
+    },
+    {
+      "id": "yonetmelik:4847:m:36",
+      "maddeKind": "madde",
+      "maddeNo": "36",
+      "heading": "Madde 36",
+      "text": "Özel mevzuatına göre izin veya ruhsat alınmış olsa dahi, sırf tıbbi araştırma amacı ile hasta üzerinde kendi rızası ve Bakanlığın izni bulunmaksızın hiçbir ilaç ve terkip kullanılamaz.\n İlaç ve terkiplerin tıbbi araştırmada kullanımı, 29/11/1993 tarihli ve 21480 sayılı Resmi Gazete'de yayımlanan İlaç Araştırmaları Hakkında Yönetmelik hükümlerine tabidir.",
+      "preview": "Özel mevzuatına göre izin veya ruhsat alınmış olsa dahi, sırf tıbbi araştırma amacı ile hasta üzerinde kendi rızası ve Bakanlığın izni bulun…",
+      "kitap": null,
+      "kisim": null,
+      "bolum": "ALTINCI BÖLÜM · Tıbbi Araştırmalar",
+      "ayirim": null,
+      "maddeBaslik": "İlaç ve Terkiplerin Araştırma Amacıyla Kullanımı",
+      "sectionPath": [
+        "ALTINCI BÖLÜM · Tıbbi Araştırmalar",
+        "İlaç ve Terkiplerin Araştırma Amacıyla Kullanımı"
+      ]
+    },
+    {
+      "id": "yonetmelik:4847:m:37",
+      "maddeKind": "madde",
+      "maddeNo": "37",
+      "heading": "Madde 37",
+      "text": "Herkesin, sağlık kurum ve kuruluşlarında güvenlik içinde olmayı bekleme ve bunu istemek hakları vardır.\n Bütün sağlık kurum ve kuruluşları, hastaların ve ziyaretçi ve refakatçi gibi yakınlarının can ve mal güvenliklerinin korunması ve sağlanması için gerekli tedbirleri almak zorundadırlar.\n Tutuklu ve hükümlerin sağlık kurum ve kuruluşlarında muhafazaları ile ilgili özel mevzuat hükümleri saklıdır.",
+      "preview": "Herkesin, sağlık kurum ve kuruluşlarında güvenlik içinde olmayı bekleme ve bunu istemek hakları vardır. Bütün sağlık kurum ve kuruluşları, h…",
+      "kitap": null,
+      "kisim": null,
+      "bolum": "YEDİNCİ BÖLÜM · Diğer Haklar",
+      "ayirim": null,
+      "maddeBaslik": "Güvenliğin Sağlanması",
+      "sectionPath": [
+        "YEDİNCİ BÖLÜM · Diğer Haklar",
+        "Güvenliğin Sağlanması"
+      ]
+    },
+    {
+      "id": "yonetmelik:4847:m:38",
+      "maddeKind": "madde",
+      "maddeNo": "38",
+      "heading": "Madde 38",
+      "text": "Sağlık kurum ve kuruluşlarının imkanları ölçüsünde hastalara dini vecibelerini serbestçe yerine getirebilmeleri için gereken tedbirler alınır.\n Kurum hizmetlerinde aksamalara sebebiyet verilmemek, başkalarını rahatsız etmemek ve personelce düzenlenip yürütülen tıbbi tedaviye hiç bir şekilde müdahalede bulunulmamak şartı ile hastalara dini telkinde bulunmak ve onları manevi yönden desteklemek üzere talepleri halinde, dini inançlarına uygun olan din görevlisi davet edilir. Bunun için, sağlık kurum ve kuruluşlarında uygun zaman ve mekan belirlenir.\n İfadeye muktedir olmayıp da dini inancı bilinen ve kimsesiz olan agoni halindeki hastalar için de, talep şartı aranmaksızın, dini inançlarına uygun olan din görevlisi çağrılır.\n Bu hakların nasıl ve ne zaman kullanılacağı ve bu konuda alınacak tedbirler, sağlık kuruluşunun çalışma usul ve esaslarını gösteren mevzuatta ayrıca düzenlenir.",
+      "preview": "Sağlık kurum ve kuruluşlarının imkanları ölçüsünde hastalara dini vecibelerini serbestçe yerine getirebilmeleri için gereken tedbirler alını…",
+      "kitap": null,
+      "kisim": null,
+      "bolum": "YEDİNCİ BÖLÜM · Diğer Haklar",
+      "ayirim": null,
+      "maddeBaslik": "Dini Vecibeleri Yerine Getirebilme ve Dini Hizmetlerden Faydalanma",
+      "sectionPath": [
+        "YEDİNCİ BÖLÜM · Diğer Haklar",
+        "Dini Vecibeleri Yerine Getirebilme ve Dini Hizmetlerden Faydalanma"
+      ]
+    },
+    {
+      "id": "yonetmelik:4847:m:39",
+      "maddeKind": "madde",
+      "maddeNo": "39",
+      "heading": "Madde 39",
+      "text": "Hasta, kişilik değerlerine uygun bir şekilde ve ortamda sağlık hizmetlerinden faydalanma hakkına sahiptir.\n Sağlık hizmetlerinde görev alan bütün personel; hastalara, yakınlarına ve ziyaretçilere güleryüzlü, nazik, şefkatli ve sağlık hizmetleri ile ilgili mevzuat ve bu Yönetmelik hükümlerine uygun şekilde davranmak zorundadır.\n Sağlık hizmetlerinin her safhasında, hastalara, onların bedeni ve ruhi durumları dikkate alınarak, hangi işlemin neden ve nasıl yapıldığı, yapılacağı ve bekletilmeleri sözkonusu ise, bekletilmenin sebepleri hususunda gerekli ve yeterli bilgi verilir.\n Sağlık kurum ve kuruluşlarında, insan haysiyetine yakışır gereken her türlü hijyenik şartların sağlanması, gürültünün ve rahatsız edici diğer bütün etkenlerin bertaraf edilmesi esastır. Gerektiğinde, bu hususlar hasta tarafından talep konusu yapılabilir.\n Hasta ziyaretçilerinin kabul edilmesi, kurum veya kuruluşça belirlenen usul ve esaslara uygun olarak ve hastaların huzur ve sükunlarını bozacak fiil ve tutumlara sebebiyet vermeyecek şekilde gerçekleştirilir ve bu konuda gereken tedbirler alınır.",
+      "preview": "Hasta, kişilik değerlerine uygun bir şekilde ve ortamda sağlık hizmetlerinden faydalanma hakkına sahiptir. Sağlık hizmetlerinde görev alan b…",
+      "kitap": null,
+      "kisim": null,
+      "bolum": "YEDİNCİ BÖLÜM · Diğer Haklar",
+      "ayirim": null,
+      "maddeBaslik": "İnsani Değerlere Saygı Gösterilmesi ve Ziyaret",
+      "sectionPath": [
+        "YEDİNCİ BÖLÜM · Diğer Haklar",
+        "İnsani Değerlere Saygı Gösterilmesi ve Ziyaret"
+      ]
+    },
+    {
+      "id": "yonetmelik:4847:m:40",
+      "maddeKind": "madde",
+      "maddeNo": "40",
+      "heading": "Madde 40",
+      "text": "Muayene ve tedavi sırasında hastaya yardımcı olmak üzere; mevzuatın ve kurum imkanlarının elverdiği ve hastanın sağlık durumunun gerektirdiği ölçüde, tedaviden sorumlu olan tabibin uygun görmesine bağlı olarak, refakatçi bulundurulması istenebilir.\n Bu hakkın nasıl ve ne zaman kullanılacağı ve bu konuda alınacak tedbirler, sağlık kurum ve kuruluşunun çalışma usül ve esaslarını gösteren mevzuata ayrıca düzenlenir.",
+      "preview": "Muayene ve tedavi sırasında hastaya yardımcı olmak üzere; mevzuatın ve kurum imkanlarının elverdiği ve hastanın sağlık durumunun gerektirdiğ…",
+      "kitap": null,
+      "kisim": null,
+      "bolum": "YEDİNCİ BÖLÜM · Diğer Haklar",
+      "ayirim": null,
+      "maddeBaslik": "Refakatçi Bulundurma",
+      "sectionPath": [
+        "YEDİNCİ BÖLÜM · Diğer Haklar",
+        "Refakatçi Bulundurma"
+      ]
+    },
+    {
+      "id": "yonetmelik:4847:m:41",
+      "maddeKind": "madde",
+      "maddeNo": "41",
+      "heading": "Madde 41",
+      "text": "Hastalar, aşağıdaki hallerde sağlık hizmetlerinden bulundukları yerlerde de faydalanabilirler:\n a) Koruyucu sağlık hizmetlerinin verilmesinde,\n b) Tıbbi sebeplerden dolayı sağlık kuruluşuna bizzat gidilemeyen veya götürülemeyen hallerde,\n c) Tabii afetler gibi olağanüstü hallerde.\n Hizmetin sağlık kuruluşu dışında verilmesi ile ilgili usul ve esaslar, Bakanlık tarafından ayrıca düzenlenir.",
+      "preview": "Hastalar, aşağıdaki hallerde sağlık hizmetlerinden bulundukları yerlerde de faydalanabilirler: a) Koruyucu sağlık hizmetlerinin verilmesinde…",
+      "kitap": null,
+      "kisim": null,
+      "bolum": "YEDİNCİ BÖLÜM · Diğer Haklar",
+      "ayirim": null,
+      "maddeBaslik": "Hizmetin Sağlık Kurum ve Kuruluşu Dışında Verilmesi",
+      "sectionPath": [
+        "YEDİNCİ BÖLÜM · Diğer Haklar",
+        "Hizmetin Sağlık Kurum ve Kuruluşu Dışında Verilmesi"
+      ]
+    },
+    {
+      "id": "yonetmelik:4847:m:42",
+      "maddeKind": "madde",
+      "maddeNo": "42",
+      "heading": "Madde 42",
+      "text": "Hastanın ve hasta ile ilgili bulunanların, hasta haklarının ihlali halinde, mevzuat çerçevesinde her türlü müracaat, şikayet ve dava hakları vardır.\n Hastanın Uyması Gereken Kurallar\n Madde 42/A – (Ek:RG-8/5/2014-28994)\n Hasta sağlık hizmeti alırken aşağıdaki kurallara uyar:\n a) Başvurduğu sağlık kurum ve kuruluşunun kural ve uygulamalarına uygun davranır ve katılımcı bir yaklaşımla teşhis ve tedavi ekibinin bir parçası olduğu bilinciyle hareket eder.\n b) Yakınmalarını, daha önce geçirdiği hastalıkları, gördüğü tedavileri ve tıbbi müdahaleleri, eğer varsa halen kullandığı ilaçları ve sağlığıyla ilgili bilgileri mümkün olduğunca eksiksiz ve doğru olarak verir.\n c) Hekim tarafından belirlenen sürelerde kontrole gelmeli ve tedavisinin gidişatı hakkında geri bildirimlerde bulunur.\n ç) Randevu tarih ve saatine uyar ve değişiklikleri ilgili yere bildirir.\n d) İlgili mevzuata göre öncelik tanınan hastalar ile diğer hastaların ve personelin haklarına saygı gösterir.\n e) Personele sözlü ve fiziki saldırıya yönelik davranışlarda bulunmaz.\n f) Haklarının ihlal edildiğini düşündüğünde veya sorun yaşadığında (Değişik İbare:RG-23/12/2016-29927) hasta hakları birimine başvurur.\n Hasta Hakları Birimleri (1) Hasta Hakları Kurulları, Sertifikalı Eğitim\n Madde 42/B – (Ek:RG-8/5/2014-28994)\n Hasta hakları uygulamalarının yürütülmesi amacıyla sağlık kurum ve kuruluşları bünyesinde (Değişik İbare:RG-23/12/2016-29927) hasta hakları birimleri oluşturulur.\n İl sağlık müdürlüğü; üniversite hastaneleri, (Mülga ibare:RG-16/1/2019-30657)(…) özel sağlık kurum ve kuruluşları, kamu hastaneleri, ağız diş sağlığı merkezleri, aile sağlığı merkezleri ve toplum sağlığı merkezlerinden gelen başvuruları değerlendirmek, karara bağlamak, öneri sunmak ve düzeltici işlemleri belirlemek üzere Hasta Hakları Kurulu oluşturur.\n Kurul, başkan dahil aşağıdaki üyelerden oluşur. İl sağlık müdürü veya müdürlük temsilcisi Kurulun başkanıdır.\n (Değişik dördüncü fıkra:RG-16/1/2019-30657) Diğer üyeler şunlardır: Şikayet edilen personelin varsa üyesi olduğu kamu kurumu niteliğindeki meslek kuruluşlarından bir temsilci, şikayet edilen personelin varsa üyesi olduğu işyeri sendika temsilcisi, şikayet edilen personelin görev yaptığı kurumun ildeki üst yöneticisi tarafından görevlendirilen bir kurum temsilcisi, özel sağlık kuruluşlarında ise kuruluşun üst yöneticisi tarafından belirlenen bir temsilci, hasta hakları derneklerinden yoksa tüketici derneklerinden bir temsilci, ildeki insan hakları kurulundan bir temsilci, valilikçe görevlendirilen bir vatandaş.\n Birden fazla hasta hakları derneğinin veya tüketici derneğinin başvurması durumunda, dernek temsilcisi il sağlık müdürlüğünce kura yoluyla belirlenir.\n İl sağlık müdürlüğü ihtiyaç halinde birden fazla kurul oluşturabilir.\n Bu Yönetmelik kapsamında yapılacak sertifikalı eğitimler 4/2/2014 tarihli ve 28903 sayılı Resmî Gazete’de yayımlanan Sağlık Bakanlığı Sertifikalı Eğitim Yönetmeliği hükümlerine tabidir.\n Kurulun Görevleri, Çalışma Usul ve Esasları\n Madde 42/C – (Ek:RG-8/5/2014-28994)\n Kurulun görevleri ile çalışma usul ve esasları şunlardır;\n a) Kurul, sağlık kurum ve kuruluşu tarafından yerinde çözülemeyen yazılı ve/veya elektronik başvuruları değerlendirir.\n b) Hasta hakları uygulamalarına veya etik ilkelere aykırı davranış sebebiyle kurul tarafından verilen ihlal kararları, ilgili sağlık kurum ve kuruluşuna ve ilgili personele yazılı olarak tebliğ edilir. Son altı ay içerisinde ikiden fazla hak ihlali kararı verilen sağlık meslek mensubu hakkındaki dosya 663 sayılı Sağlık Bakanlığı ve Bağlı Kuruluşlarının Teşkilat ve Görevleri Hakkında Kanunun 23 üncü maddesinin yedinci fıkrasının (b) bendi hükmüne göre Sağlık Meslekleri Kuruluna gönderilir.\n c) Kurul, gerek görürse hasta hakları ihlaline sebep olabilecek uygulamaları inceler ve hasta haklarının geliştirilmesi için öneri ve düzeltici işlem belirlenmesine karar verir. Sağlık kurum ve kuruluşu belirlenen süre içinde gerekli önlemleri alır, girişimlerde bulunur ve yapılan işlem hakkında kurulu bilgilendirir.\n ç) (Mülga Cümle:RG-23/12/2016-29927) (…) Sekretarya hizmetleri il sağlık müdürlüğü hasta hakları koordinatörlüğünce yürütülür.\n d) Kurul, başvurunun kurula ulaştığı tarihten itibaren otuz gün içerisinde başvuru hakkında karar verir.\n e) Kurul, üye tam sayısının salt çoğunluğu ile toplanır ve toplantıya katılan üyelerin salt çoğunluğu ile karar alır. Karara itirazı olan üyelerin karşı oy gerekçeleri, kararın altına özet olarak yazılır.\n f) Kararlar, üyeler tarafından imzalanarak dosyalanır. Kararlar ilgili sağlık kurum ve kuruluşu ile başvurana bildirilir.\n g) (Değişik İbare:RG-23/12/2016-29927) Hasta hakları birimine yapılan başvurular ve kurulda görüşülen dosyalar gizlidir, hiçbir şekilde üçüncü kişilere bilgi verilemez. Bilgi ve dosyalar resmi olarak talep edilmesi kaydıyla idari soruşturma yapan incelemeciye ya da adli mercilere gizliliğe riayet edilerek verilir. Kurul üyeleri gizliliğe riayet etmekle yükümlüdür.\n ğ) Kurul gerek gördüğünde ilgilileri kurula davet edebilir.\n h) Sivil toplum temsilcisi ve sendika temsilcisi olan üyelerin görev süresi takvim yılıdır. Komisyon üyelerinin görev süresi iki yıldır. Süresi dolan üyeler tekrar görevlendirilebilir. Kurul toplantılarına mazeretsiz olarak üst üste üç defa katılmayan üyenin üyeliği sona erer ve bu kişiler üç yıl süreyle yeniden üye olarak seçilemez. Herhangi bir sebeple boşalan üyelik için kalan süreyi tamamlamak üzere yeni üye seçilir.\n ı) Tıbbi hata iddialarına ilişkin başvurular kurul tarafından değerlendirilmez.\n İl sağlık müdürlüğünce bu Yönetmelik uygulamalarına aykırı davranışı tespit edilen kurul üyelerinin üyeliğine son verilir ve bunlar beş yıl süreyle yeniden üye olarak seçilemez.\n Hasta hakları kurulu kararlarının özeti, şikayet edilen kişi isimlerine yer verilmeksizin il sağlık müdürlüğünün internet sayfasında duyurulur.",
+      "preview": "Hastanın ve hasta ile ilgili bulunanların, hasta haklarının ihlali halinde, mevzuat çerçevesinde her türlü müracaat, şikayet ve dava hakları…",
+      "kitap": null,
+      "kisim": null,
+      "bolum": "SEKİZİNCİ BÖLÜM · Sorumluluk ve Hukuki Korunma Yolları",
+      "ayirim": null,
+      "maddeBaslik": "Müracaat, Şikayet ve Dava Hakkı",
+      "sectionPath": [
+        "SEKİZİNCİ BÖLÜM · Sorumluluk ve Hukuki Korunma Yolları",
+        "Müracaat, Şikayet ve Dava Hakkı"
+      ]
+    },
+    {
+      "id": "yonetmelik:4847:m:43",
+      "maddeKind": "madde",
+      "maddeNo": "43",
+      "heading": "Madde 43",
+      "text": "Hasta haklarının ihlali halinde, personeli istihdam eden kurum ve kuruluş aleyhine maddi veya manevi veyahut hem maddi ve hem de manevi tazminat davası açılabilir.\n Ancak, aleyhine dava açılacak merciin kamu kurum ve kuruluşu olması halinde;\n a) 2577 sayılı İdari Yargılama Usulü Kanunu'nun 12 nci maddesine göre; hakkın bir idari işlem dolayısı ile ihlal edilmesi halinde ilgililer, doğrudan doğruya tam yargı davası veya iptal ve tam yargı davalarını birlikte açabilecekleri gibi ilk önce iptal davası açarak bu davanın karara bağlanması üzerine dava açma süresi içerisinde tam yargı davası açabilirler.\n b) Aynı Kanun'un 13 üncü maddesi uyarınca, zarar verici eylemin öğrenildiği tarihten itibaren en geç bir yıl içinde maddi ve manevi tazminat olarak istenilen tazminat miktarı ayrı ayrı gösterilerek idareye müracaat edilmesi ve talebin açıkça veya zımnen reddi halinde kanuni süresi içinde idari yargı mercilerinde dava açılması gerekir.",
+      "preview": "Hasta haklarının ihlali halinde, personeli istihdam eden kurum ve kuruluş aleyhine maddi veya manevi veyahut hem maddi ve hem de manevi tazm…",
+      "kitap": null,
+      "kisim": null,
+      "bolum": "SEKİZİNCİ BÖLÜM · Sorumluluk ve Hukuki Korunma Yolları",
+      "ayirim": null,
+      "maddeBaslik": "Sağlık Kurum ve Kuruluşlarının Sorumluluğu",
+      "sectionPath": [
+        "SEKİZİNCİ BÖLÜM · Sorumluluk ve Hukuki Korunma Yolları",
+        "Sağlık Kurum ve Kuruluşlarının Sorumluluğu"
+      ]
+    },
+    {
+      "id": "yonetmelik:4847:m:44",
+      "maddeKind": "madde",
+      "maddeNo": "44",
+      "heading": "Madde 44",
+      "text": "Bu Yönetmelik'te gösterilmiş olan hasta haklarının fiilen kullanılmasına mani olan veya bu hakları başka şekilde ihlal eden personelin, cezai, mali ve inzibati sorumluluklarının tamamı veya bunlardan bir kısmı doğabilir.\n Birinci fıkrada belirtilen sorumluluklar haricinde, ihlalin durumuna göre, personeli istihdam eden kurum ve kuruluş tarafından personel hakkında uygulanacak idari tedbir ve müeyyideler saklıdır.",
+      "preview": "Bu Yönetmelik'te gösterilmiş olan hasta haklarının fiilen kullanılmasına mani olan veya bu hakları başka şekilde ihlal eden personelin, ceza…",
+      "kitap": null,
+      "kisim": null,
+      "bolum": "SEKİZİNCİ BÖLÜM · Sorumluluk ve Hukuki Korunma Yolları",
+      "ayirim": null,
+      "maddeBaslik": "Devlet Memuru veya Diğer Kamu Görevlisi Personelin Sorumluluğu",
+      "sectionPath": [
+        "SEKİZİNCİ BÖLÜM · Sorumluluk ve Hukuki Korunma Yolları",
+        "Devlet Memuru veya Diğer Kamu Görevlisi Personelin Sorumluluğu"
+      ]
+    },
+    {
+      "id": "yonetmelik:4847:m:45",
+      "maddeKind": "madde",
+      "maddeNo": "45",
+      "heading": "Madde 45",
+      "text": "Kamu kurum ve kuruluşlarında görevli personelin, hasta haklarını ihlal eden fiil ve halleri, şikayet halinde veya idarece kendiliğinden tespit edildiğinde, hadisenin takibi, soruşturulması ve gerekir ise müeyyideye bağlanması için doğrudan valiliklerce veyahut Bakanlık veya personelin görevli olduğu kurumlar tarafından müfettiş veya muhakkik görevlendirilir.",
+      "preview": "Kamu kurum ve kuruluşlarında görevli personelin, hasta haklarını ihlal eden fiil ve halleri, şikayet halinde veya idarece kendiliğinden tesp…",
+      "kitap": null,
+      "kisim": null,
+      "bolum": "SEKİZİNCİ BÖLÜM · Sorumluluk ve Hukuki Korunma Yolları",
+      "ayirim": null,
+      "maddeBaslik": "Kamu Personelinin Sorumluluğunu Tespit Usulü",
+      "sectionPath": [
+        "SEKİZİNCİ BÖLÜM · Sorumluluk ve Hukuki Korunma Yolları",
+        "Kamu Personelinin Sorumluluğunu Tespit Usulü"
+      ]
+    },
+    {
+      "id": "yonetmelik:4847:m:46",
+      "maddeKind": "madde",
+      "maddeNo": "46",
+      "heading": "Madde 46",
+      "text": "Hasta haklarının Devlet memuru veya diğer kamu görevlisi personel tarafından ve görevleri sırasında herhangi bir şekilde ihlali halinde uygulanacak müeyyideler aşağıda gösterilmiştir:\n a) Kamu görevlisi olan personelin fiilinin niteliğine göre, soruşturmacı tarafından hakkında disiplin cezası teklif edilmiş ise, mevzuatın öngördüğü disiplin cezaları yetkili amir veya kurullarca usulüne göre takdir edilir.\n b) Hak ihlali aynı zamanda ceza hukukuna göre suç teşkil ettiği takdirde, memur olan personel hakkında, Memurin Muhakematı Hakkında Kanunu Muvakkat hükümlerine göre yapılan soruşturma sonucunda lüzum-u muhakeme kararı verilir ise, dosya cumhuriyet başsavcılığı'na gönderilerek ceza davası açılması ve böylece personel hakkında fiiline uygun bulunan cezai müeyyidenin tatbiki sağlanır.\n c) Anayasa'nın 40 ıncı maddesinin ikinci fıkrası, 129 uncu maddesinin beşinci fıkrası ve 657 sayılı Devlet Memurları Kanunu'nun 13 üncü maddesi ve ilgili diğer mevzuat uyarınca, memurların ve diğer kamu görevlilerinin hukuki sorumluluğu doğrudan doğruya memur aleyhine açılacak dava yolu ile gerçekleştirilemez. Dava, 43 üncü maddede gösterilen usule göre, ancak idare aleyhine açılabilir. Bu personelin hukuki sorumluluğunun doğması, idare aleyhine açılacak dava neticesinde tazmin kararı verilmesine bağlıdır.\n Kamu görevlisi personelin verdiği zarar, mahkeme kararı üzerine idare tarafından tazmin edildikten sonra, müsebbibi olan sorumlu personele rücu edilir.\n d) Kamu görevlisi personelin mesleklerini resmi görevleri dışında serbest olarak icra etmekte iken işledikleri fiillerden dolayı haklarında 47 nci maddeye göre işlem yapılır.",
+      "preview": "Hasta haklarının Devlet memuru veya diğer kamu görevlisi personel tarafından ve görevleri sırasında herhangi bir şekilde ihlali halinde uygu…",
+      "kitap": null,
+      "kisim": null,
+      "bolum": "SEKİZİNCİ BÖLÜM · Sorumluluk ve Hukuki Korunma Yolları",
+      "ayirim": null,
+      "maddeBaslik": "Kamu Personeli Hakkındaki Müeyyideler",
+      "sectionPath": [
+        "SEKİZİNCİ BÖLÜM · Sorumluluk ve Hukuki Korunma Yolları",
+        "Kamu Personeli Hakkındaki Müeyyideler"
+      ]
+    },
+    {
+      "id": "yonetmelik:4847:m:47",
+      "maddeKind": "madde",
+      "maddeNo": "47",
+      "heading": "Madde 47",
+      "text": "Hasta haklarının Devlet memuru veya diğer kamu görevlisi olmayan personel tarafından herhangi bir şekilde ihlali halinde uygulanacak müeyyideler aşağıda gösterilmiştir:\n a) Kamu görevlisi olmayan personel; hakları ihlal edilen hastanın doğrudan vaki olacak şikayeti üzerine veya bu fiillerin başka şekilde tespiti halinde Bakanlık veya başka kurum ve kuruluşlar tarafından yapılan bildirim üzerine, bunların özel kanunlara göre kurulmuş olan kamu kurumu niteliğindeki meslek kuruluşları haysiyet divanlarınca disiplin cezaları ile cezalandırılabilir.\n b) Kamu görevlisi olmayan personelin hasta haklarını ihlallerinden doğan hukuki sorumlulukları, genel hükümlere göre doğrudan doğruya kendilerine veya bunları çalıştıran kurum ve kuruluşlara karşı veya hem kendilerine ve hem de çalıştıranlara karşı birlikte dava açılarak ileri sürülebilir.\n c) Kamu görevlisi olmayan personel hakkında, ceza hukukuna göre suç teşkil eden fiilleri sebebiyle cezai müeyyideler tatbik edilmesi, genel hükümlere göre doğrudan doğruya cumhuriyet savcılıklarına yapılacak ihbar veya şikayet yoluyla gerçekleştirilebilir.",
+      "preview": "Hasta haklarının Devlet memuru veya diğer kamu görevlisi olmayan personel tarafından herhangi bir şekilde ihlali halinde uygulanacak müeyyid…",
+      "kitap": null,
+      "kisim": null,
+      "bolum": "SEKİZİNCİ BÖLÜM · Sorumluluk ve Hukuki Korunma Yolları",
+      "ayirim": null,
+      "maddeBaslik": "Kamu Görevlisi Olmayan Personelin Sorumluluğu",
+      "sectionPath": [
+        "SEKİZİNCİ BÖLÜM · Sorumluluk ve Hukuki Korunma Yolları",
+        "Kamu Görevlisi Olmayan Personelin Sorumluluğu"
+      ]
+    },
+    {
+      "id": "yonetmelik:4847:m:48",
+      "maddeKind": "madde",
+      "maddeNo": "48",
+      "heading": "Madde 48",
+      "text": "Sağlık kurum ve kuruluşlarının yetkilileri; bu Yönetmelik'te ve diğer mevzuatta belirtilen hasta haklarının lafzına ve ruhuna uygun olarak kullanılabilmesine yardımcı olmak amacı ile bu Yönetmelik'te gösterilen \"hasta hakları\"nı bir liste, tabela veya broşür haline getirerek, bunları sağlık kurum ve kuruluşunun, hastalar, personel ve ziyaretçiler tarafından kolayca ulaşılıp okunabilecek uygun yerlerinde bulundurmak da dahil olmak üzere, gereken bütün tedbirleri almakla mükellef ve yetkilidir.",
+      "preview": "Sağlık kurum ve kuruluşlarının yetkilileri; bu Yönetmelik'te ve diğer mevzuatta belirtilen hasta haklarının lafzına ve ruhuna uygun olarak k…",
+      "kitap": null,
+      "kisim": null,
+      "bolum": "DOKUZUNCU BÖLÜM · Son Hükümler",
+      "ayirim": null,
+      "maddeBaslik": "Kurum ve Kuruluş Yetkililerinin Görevi",
+      "sectionPath": [
+        "DOKUZUNCU BÖLÜM · Son Hükümler",
+        "Kurum ve Kuruluş Yetkililerinin Görevi"
+      ]
+    },
+    {
+      "id": "yonetmelik:4847:m:49",
+      "maddeKind": "madde",
+      "maddeNo": "49",
+      "heading": "Madde 49",
+      "text": "Milli güvenliğin, kamu düzeninin, kamu yararının, genel ahlakın ve genel sağlığın korunması maksatları ve kanun hükümleri ile getirilen özel düzenlemeler ve sınırlamalar saklıdır.\n Geçiş Hükmü\n GEÇİÇİ MADDE 1 – (Ek:RG-8/5/2014-28994) (Değişik:RG-23/12/2016-29927)\n Sağlık kurum ve kuruluşları bünyesinde bulunan hasta iletişim birimleri, en geç bir ay içerisinde hasta hakları birimine dönüştürülür.",
+      "preview": "Milli güvenliğin, kamu düzeninin, kamu yararının, genel ahlakın ve genel sağlığın korunması maksatları ve kanun hükümleri ile getirilen özel…",
+      "kitap": null,
+      "kisim": null,
+      "bolum": "DOKUZUNCU BÖLÜM · Son Hükümler",
+      "ayirim": null,
+      "maddeBaslik": "Saklı Olan Hükümler",
+      "sectionPath": [
+        "DOKUZUNCU BÖLÜM · Son Hükümler",
+        "Saklı Olan Hükümler"
+      ]
+    },
+    {
+      "id": "yonetmelik:4847:m:50",
+      "maddeKind": "madde",
+      "maddeNo": "50",
+      "heading": "Madde 50",
+      "text": "Bu Yönetmelik, yayımı tarihinde yürürlüğe girer.",
+      "preview": "Bu Yönetmelik, yayımı tarihinde yürürlüğe girer.",
+      "kitap": null,
+      "kisim": null,
+      "bolum": "DOKUZUNCU BÖLÜM · Son Hükümler",
+      "ayirim": null,
+      "maddeBaslik": "Yürürlük",
+      "sectionPath": [
+        "DOKUZUNCU BÖLÜM · Son Hükümler",
+        "Yürürlük"
+      ]
+    },
+    {
+      "id": "yonetmelik:4847:m:51",
+      "maddeKind": "madde",
+      "maddeNo": "51",
+      "heading": "Madde 51",
+      "text": "Bu Yönetmelik hükümlerini Sağlık Bakanı yürütür.\n ______________________\n (1) 23/12/2016 tarihli ve 29927 sayılı Resmi Gazete’de yayımlanan değişiklik ile Yönetmeliğin 42/B maddesinin başlığında yer alan “hasta iletişim birimleri” ibaresi “hasta hakları birimleri” olarak değiştirilmiştir.\n (2)\n Yönetmeliğin Yayımlandığı Resmî Gazete'nin\n\n Tarihi\n Sayısı\n\n 1/8/1998\n 23420\n\n Yönetmelikte Değişiklik Yapan Yönetmeliklerin Yayımlandığı Resmî Gazete'nin\n\n Tarihi\n Sayısı\n\n 1-\n 8/5/2014\n 28994\n\n 2-\n 23/12/2016\n 29927\n\n 3-\n 16/1/2019\n 30657",
+      "preview": "Bu Yönetmelik hükümlerini Sağlık Bakanı yürütür. ______________________ (1) 23/12/2016 tarihli ve 29927 sayılı Resmi Gazete’de yayımlanan de…",
+      "kitap": null,
+      "kisim": null,
+      "bolum": "DOKUZUNCU BÖLÜM · Son Hükümler",
+      "ayirim": null,
+      "maddeBaslik": "Yürütme",
+      "sectionPath": [
+        "DOKUZUNCU BÖLÜM · Son Hükümler",
+        "Yürütme"
+      ]
+    }
+  ]
+}
