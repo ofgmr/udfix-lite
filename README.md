@@ -2,10 +2,11 @@
 
 Türkiye’deki avukatlar için **hukuk bürosu iş istasyonu**. Bir UDF editör, not editörü, evrensel belge görüntüleyici, müvekkil, dava, bilgi veritabanı içerir. Hazır şablonlar, takvim, yapılacaklar ve daha fazlası. 
 
-Dilekçe Word’de, delil Acrobat’ta, vekalet e-postada, TCKN başka klasörde değil, hepsi tek programda.
+Dilekçe UDE/Word’de, delil Acrobat’ta, vekalet klasörde, TCKN/VKN, adres, notlarınız, içtihatlar, takvim, mevzuat hepsi tek programda. HEPSİ KENDİ BİLGİSAYARINIZDA.
 
-UDFIX bir kelime işlemci, UDF dönüştürücü veya bulut arşivi değil. 
-Yapay zeka, lisans, abonelik, bulutta saklama YOK. 
+UDFIX sadece bir kelime işlemci, UDF dönüştürücü veya bulut arşivi değil. Editör, Görüntüleyici ve Veri Tabanı yönetim alanı.
+
+YAPAY ZEKA, ABONELİK, BULUTTA İŞLEME YOK.
 
 UYAP’a geri yükleyeceğiniz UDF’yi yazıp düzenler, müvekkil ve dosyalarınızı yerelde tutar, PDF’den e-postaya kadar dosya ve evrakları uygulamadan çıkmadan görüntüleyebilirsiniz.
 
