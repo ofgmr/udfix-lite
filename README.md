@@ -4,9 +4,13 @@ Türkiye’deki avukatlar için **hukuk bürosu iş istasyonu**. Bir UDF editör
 
 Dilekçe Word’de, delil Acrobat’ta, vekalet e-postada, TCKN başka klasörde değil, hepsi tek programda.
 
-UDFIX bir kelime işlemci, UDF dönüştürücü veya bulut arşivi değil. Yapay zeka, lisans, abonelik, bulutta saklama YOK. UYAP’a geri yükleyeceğiniz UDF’yi yazıp düzenler, müvekkil ve dosyalarınızı yerelde tutar, PDF’den e-postaya kadar delili uygulamadan çıkmadan açarsınız.
+UDFIX bir kelime işlemci, UDF dönüştürücü veya bulut arşivi değil. 
+Yapay zeka, lisans, abonelik, bulutta saklama YOK. 
+
+UYAP’a geri yükleyeceğiniz UDF’yi yazıp düzenler, müvekkil ve dosyalarınızı yerelde tutar, PDF’den e-postaya kadar dosya ve evrakları uygulamadan çıkmadan görüntüleyebilirsiniz.
 
 🔒 Gizlilik Odaklı: Belgeleriniz ve verileriniz %100 kendi bilgisayarınızda kalır; sunucuya yüklenmez.
+OCR: Yerel (link:https://github.com/teserract)
 
 !! TÜBİTAK tarafından e-imza servisinin kapatılması ve ücretsiz API olmaması nedeniyle 1 Haziran 2026 itibariyle imzalama yapılamamaktadır.
 
