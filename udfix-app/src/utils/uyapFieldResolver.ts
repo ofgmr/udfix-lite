@@ -2,6 +2,7 @@ import type { XmlField, XmlParagraph, XmlTextSpan } from '../types/uyapXml';
 import { uyapParagraphPlainText } from './uyapParagraphText';
 import { sanitizeTrustedDocumentHtml } from './sanitizeDocumentHtml';
 import { stripHtmlTags } from './stripHtmlTags';
+import type { UyapImportedComment } from './uyapComments';
 
 type DataRecord = Record<string, unknown>;
 type XmlOffsetNode = { $: { startOffset?: string; length?: string } & Record<string, string | undefined> };
@@ -15,6 +16,7 @@ export interface UyapTemplateContext {
      * scoped record (one instance) instead of always taking the first match in dataRoot.
      */
     scopedGroupRecord?: DataRecord | null;
+    comments?: UyapImportedComment[];
 }
 
 export interface UyapRenderedSpan {
@@ -22,6 +24,11 @@ export interface UyapRenderedSpan {
     /** Raw HTML fragment (e.g. imza table) — only used by HTML export path */
     html?: string;
     attrs?: Record<string, string | undefined>;
+    /** Offset of `text[0]` in `content.xml` CDATA (when the run is a CDATA slice). */
+    cdataStart?: number;
+    /** UYAP comment ids covering this run after comment-range explode. */
+    commentIds?: string[];
+    commentPayloads?: Record<string, string>;
 }
 
 type OffsetSegment =
@@ -529,6 +536,7 @@ function renderSegmentsOnce(
         rendered.push({
             text,
             attrs: segment.node.$,
+            cdataStart: start,
         });
     }
 

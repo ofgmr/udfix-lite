@@ -8,7 +8,7 @@ export type ThemePalette =
     | 'oxford'
     | 'slate'
     | 'verdict'
-    | 'chancellor'
+    | 'clerk'
     | 'contrast';
 
 export type ThemeMode = 'light' | 'dark' | 'system';
@@ -53,7 +53,7 @@ export const THEME_PALETTES: ThemeMeta[] = [
     },
     {
         id: 'oxford',
-        name: 'Bordo',
+        name: 'Bilirkişi',
         description: 'Bordo ve krem',
         lightAccent: '#6B2D2D',
         darkAccent: '#A65D5D',
@@ -62,7 +62,7 @@ export const THEME_PALETTES: ThemeMeta[] = [
     },
     {
         id: 'slate',
-        name: 'Arduvaz',
+        name: 'Hakim',
         description: 'Tek renk',
         lightAccent: '#4A4E69',
         darkAccent: '#9A9DB3',
@@ -79,8 +79,8 @@ export const THEME_PALETTES: ThemeMeta[] = [
         darkBg: '#0B1411',
     },
     {
-        id: 'chancellor',
-        name: 'Şansölye',
+        id: 'clerk',
+        name: 'Katip',
         description: 'Konyak ve kehribar',
         lightAccent: '#8C5E3C',
         darkAccent: '#D9A066',
@@ -89,7 +89,7 @@ export const THEME_PALETTES: ThemeMeta[] = [
     },
     {
         id: 'contrast',
-        name: 'Yüksek Kontrast',
+        name: 'Stajyer',
         description: 'Siyah ve beyaz',
         lightAccent: '#000000',
         darkAccent: '#FFE500',
@@ -153,6 +153,9 @@ export const useThemeStore = create<ThemeState>()(
             }),
             onRehydrateStorage: () => (state) => {
                 if (!state) return;
+                if ((state.palette as string) === 'chancellor') {
+                    state.palette = 'clerk';
+                }
                 if (!THEME_PALETTES.some((p) => p.id === state.palette)) {
                     state.palette = 'gavel';
                 }

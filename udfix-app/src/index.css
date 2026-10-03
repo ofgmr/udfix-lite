@@ -259,7 +259,7 @@
 }
 
 /* ============================================================
-   4. BORDO — Bordo ve krem
+   4. BİLİRKİŞİ — Bordo ve krem
    ============================================================ */
 .theme-oxford {
     --primary: #6B2D2D;
@@ -326,7 +326,7 @@
 }
 
 /* ============================================================
-   5. ARDUVAZ — Tek renk
+   5. HAKİM — Tek renk
    ============================================================ */
 .theme-slate {
     --primary: #4A4E69;
@@ -460,9 +460,9 @@
 }
 
 /* ============================================================
-   7. ŞANSÖLYE — Konyak ve kehribar
+   7. KATİP — Konyak ve kehribar
    ============================================================ */
-.theme-chancellor {
+.theme-clerk {
     --primary: #8C5E3C;
     --primary-foreground: #ffffff;
     --background: #FDFBF7;
@@ -494,7 +494,7 @@
     --sidebar-border: rgba(140, 94, 60, 0.12);
 }
 
-.theme-chancellor.dark {
+.theme-clerk.dark {
     --primary: #D9A066;
     --primary-foreground: #442B1B;
     --background: #1C1917;
@@ -527,7 +527,7 @@
 }
 
 /* ============================================================
-   8. YÜKSEK KONTRAST — Siyah ve beyaz
+   8. STAJYER — Siyah ve beyaz
    ============================================================ */
 .theme-contrast {
     --primary: #000000;
@@ -930,12 +930,26 @@
     color: var(--muted-foreground) !important;
 }
 
-/* Pagination Plus Styles */
+/*
+  PaginationPlus `.page` nodes are empty float spacers (`margin-top` only).
+  Their used box is 0×0 and sits on the breaker — i.e. the top-left of every
+  footer. Outline/box-shadow on that box paints a stray 1–2px spec on the
+  canvas and in any export that clones the live pagination DOM. Keep them
+  invisible; paper chrome belongs on `.a4-page`, not on these spacers.
+  Do NOT `display: none` — that would drop the margin-top and collapse pages.
+*/
 .ProseMirror .page {
-    outline: 1px solid var(--editor-border);
-    outline-offset: 0;
-    box-shadow: 0 1px 8px rgba(0, 0, 0, 0.08);
+    outline: none;
+    box-shadow: none;
     background: transparent;
+    border: none;
+    width: 0;
+    min-width: 0;
+    max-width: 0;
+    overflow: hidden;
+    pointer-events: none;
+    font-size: 0;
+    line-height: 0;
 }
 
 /*

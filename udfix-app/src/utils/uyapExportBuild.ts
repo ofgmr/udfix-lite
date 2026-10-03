@@ -667,41 +667,78 @@ function createTextAccumulator(): TextAccumulator {
     return acc;
 }
 
+function namedStyleRunDefaults(styleRef?: string): { size?: string; bold?: boolean; italic?: boolean } {
+    switch (styleRef) {
+        case 'UDFIX-H1':
+            return { size: '18', bold: true };
+        case 'UDFIX-H2':
+            return { size: '16', bold: true };
+        case 'UDFIX-H3':
+            return { size: '14', bold: true };
+        case 'UDFIX-H4':
+            return { size: '13', bold: true };
+        case 'UDFIX-H5':
+            return { size: '12', bold: true };
+        case 'UDFIX-H6':
+            return { size: '11', bold: true };
+        default:
+            return {};
+    }
+}
+
 function marksToContentAttrs(marks: TipTapMark[] | undefined, styleRef?: string): string {
     let attributes = styleRef ? ` style="${escapeXmlAttr(styleRef)}"` : '';
-    if (!marks?.length) return attributes;
+    let hasSize = false;
+    let hasBold = false;
+    let hasItalic = false;
 
-    for (const mark of marks) {
-        if (mark.type === 'footnote') {
-            attributes += ' superscript="true"';
-            continue;
-        }
-        if (mark.type === 'bold') attributes += ' bold="true"';
-        if (mark.type === 'italic') attributes += ' italic="true"';
-        if (mark.type === 'underline') attributes += ' underline="true"';
-        if (mark.type === 'strike') attributes += ' strikethrough="true"';
-        if (mark.type === 'superscript') attributes += ' superscript="true"';
-        if (mark.type === 'subscript') attributes += ' subscript="true"';
-        if (mark.type === 'textStyle') {
-            const attrs = mark.attrs;
-            if (attrs?.fontFamily) {
-                const fam = primaryFontFamilyForUyap(String(attrs.fontFamily));
-                if (fam) attributes += ` family="${fam}"`;
+    if (marks?.length) {
+        for (const mark of marks) {
+            if (mark.type === 'footnote') {
+                attributes += ' superscript="true"';
+                continue;
             }
-            if (attrs?.fontSize) {
-                attributes += ` size="${escapeXmlAttr(String(attrs.fontSize).replace(/pt/gi, '').replace(/px/gi, ''))}"`;
+            if (mark.type === 'bold') {
+                attributes += ' bold="true"';
+                hasBold = true;
             }
-            if (attrs?.color) {
-                const fg = cssColorToUyapForeground(String(attrs.color));
-                if (fg) attributes += ` foreground="${fg}"`;
-                else attributes += ` foreground="${escapeXmlAttr(String(attrs.color))}"`;
+            if (mark.type === 'italic') {
+                attributes += ' italic="true"';
+                hasItalic = true;
             }
-        }
-        if (mark.type === 'highlight') {
-            const bg = cssColorToUyapForeground(String(mark.attrs?.color ?? '#ffff00'));
-            attributes += bg ? ` background="${bg}"` : ' background="-256"';
+            if (mark.type === 'underline') attributes += ' underline="true"';
+            if (mark.type === 'strike') attributes += ' strikethrough="true"';
+            if (mark.type === 'superscript') attributes += ' superscript="true"';
+            if (mark.type === 'subscript') attributes += ' subscript="true"';
+            if (mark.type === 'textStyle') {
+                const attrs = mark.attrs;
+                if (attrs?.fontFamily) {
+                    const fam = primaryFontFamilyForUyap(String(attrs.fontFamily));
+                    if (fam) attributes += ` family="${fam}"`;
+                }
+                if (attrs?.fontSize) {
+                    attributes += ` size="${escapeXmlAttr(String(attrs.fontSize).replace(/pt/gi, '').replace(/px/gi, ''))}"`;
+                    hasSize = true;
+                }
+                if (attrs?.color) {
+                    const fg = cssColorToUyapForeground(String(attrs.color));
+                    if (fg) attributes += ` foreground="${fg}"`;
+                    else attributes += ` foreground="${escapeXmlAttr(String(attrs.color))}"`;
+                }
+            }
+            if (mark.type === 'highlight') {
+                const bg = cssColorToUyapForeground(String(mark.attrs?.color ?? '#ffff00'));
+                attributes += bg ? ` background="${bg}"` : ' background="-256"';
+            }
         }
     }
+
+    // UYAP Doküman Editörü ignores custom <styles> names (UDFIX-H1 …) and paints
+    // hvl-default (12pt, not bold) unless size/bold/italic live on <content>.
+    const named = namedStyleRunDefaults(styleRef);
+    if (named.size && !hasSize) attributes += ` size="${named.size}"`;
+    if (named.bold && !hasBold) attributes += ' bold="true"';
+    if (named.italic && !hasItalic) attributes += ' italic="true"';
     return attributes;
 }
 
@@ -864,21 +901,113 @@ function buildImageElement(attrs: Record<string, unknown> | undefined, acc: Text
     return `<image imageData="${base64Data}" width="${pxToUyapPt(widthPx)}" height="${pxToUyapPt(heightPx)}" alignment="${align}" startOffset="${placeholder.start}" length="${placeholder.length}"${description} />`;
 }
 
-function buildTableColumnSpans(firstRow: JSONContent | undefined, colCount: number): string {
-    const cells =
-        firstRow?.content?.filter((c) => c.type === 'tableCell' || c.type === 'tableHeader') ?? [];
-    const colwidths = cells.map((cell) => {
-        const cw = cell.attrs?.colwidth;
-        if (Array.isArray(cw) && cw.length > 0 && Number.isFinite(Number(cw[0]))) {
-            return Number(cw[0]);
+function isTableCellNode(node: JSONContent | undefined): boolean {
+    return node?.type === 'tableCell' || node?.type === 'tableHeader';
+}
+
+function cellColspan(cell: JSONContent): number {
+    const n = Number(cell.attrs?.colspan ?? 1);
+    return Number.isFinite(n) && n > 1 ? Math.floor(n) : 1;
+}
+
+/** TipTap TablePlus may nest rows in `tableRowGroup` (tbody). */
+function collectTableRows(table: JSONContent): JSONContent[] {
+    const rows: JSONContent[] = [];
+    for (const child of table.content ?? []) {
+        if (child.type === 'tableRow') {
+            rows.push(child);
+            continue;
         }
-        return null;
-    });
-    if (colwidths.length === colCount && colwidths.every((w) => w != null && w > 0)) {
-        return colwidths.map((w) => pxToUyapPt(w!)).join(',');
+        if (child.type === 'tableRowGroup') {
+            for (const inner of child.content ?? []) {
+                if (inner.type === 'tableRow') rows.push(inner);
+            }
+        }
     }
-    const span = Math.floor(100 / Math.max(1, colCount));
-    return Array(colCount).fill(span).join(',');
+    return rows;
+}
+
+/** Logical column count: sum of colspans, max across rows (TipTap first-row length ignores colspan). */
+function tableLogicalColumnCount(table: JSONContent): number {
+    let max = 0;
+    for (const row of collectTableRows(table)) {
+        let cols = 0;
+        for (const cell of row.content ?? []) {
+            if (!isTableCellNode(cell)) continue;
+            cols += cellColspan(cell);
+        }
+        max = Math.max(max, cols);
+    }
+    return Math.max(1, max);
+}
+
+function parseUyapColumnSpans(raw: unknown, colCount: number): number[] | null {
+    if (typeof raw !== 'string' || !raw.trim()) return null;
+    const parts = raw.split(',').map((s) => Number.parseFloat(s.trim()));
+    if (parts.length !== colCount || parts.some((n) => !Number.isFinite(n) || n <= 0)) return null;
+    return parts;
+}
+
+function percentColumnSpans(weights: number[]): string {
+    const n = Math.max(1, weights.length);
+    const total = weights.reduce((sum, w) => sum + (Number.isFinite(w) && w > 0 ? w : 0), 0);
+    if (total <= 0) {
+        const even = Math.floor(100 / n);
+        const out = Array.from({ length: n }, () => even);
+        out[n - 1] = 100 - even * (n - 1);
+        return out.map((x) => String(Math.max(1, x))).join(',');
+    }
+    const raw = weights.map((w) => (Math.max(0, w) / total) * 100);
+    const rounded = raw.map((x) => Math.max(1, Math.round(x)));
+    const delta = 100 - rounded.reduce((sum, x) => sum + x, 0);
+    rounded[n - 1] += delta;
+    if (rounded[n - 1] < 1) {
+        const donor = rounded.indexOf(Math.max(...rounded));
+        rounded[donor] += rounded[n - 1] - 1;
+        rounded[n - 1] = 1;
+    }
+    return rounded.join(',');
+}
+
+function firstRowColumnWeights(firstRow: JSONContent | undefined, colCount: number): number[] | null {
+    if (!firstRow) return null;
+    const weights: number[] = [];
+    for (const cell of firstRow.content ?? []) {
+        if (!isTableCellNode(cell)) continue;
+        const span = cellColspan(cell);
+        const cw = cell.attrs?.colwidth;
+        const nums = Array.isArray(cw)
+            ? cw.map((x) => Number(x)).filter((n) => Number.isFinite(n) && n > 0)
+            : [];
+        if (nums.length >= span) {
+            for (let i = 0; i < span; i += 1) weights.push(nums[i]);
+        } else if (nums.length === 1 && span >= 1) {
+            const each = nums[0] / span;
+            for (let i = 0; i < span; i += 1) weights.push(each);
+        } else {
+            return null;
+        }
+    }
+    return weights.length === colCount ? weights : null;
+}
+
+/**
+ * Native UYAP `columnSpans` are relative percents (~100). Pixel `colwidth` must not
+ * be written as pt (UYAP then treats 200px as a 150% column).
+ */
+function buildTableColumnSpans(table: JSONContent, firstRow: JSONContent | undefined, colCount: number): string {
+    const weights = firstRowColumnWeights(firstRow, colCount);
+    if (weights) return percentColumnSpans(weights);
+    const imported = parseUyapColumnSpans(table.attrs?.columnSpans, colCount);
+    if (imported) return imported.map((n) => String(n)).join(',');
+    return percentColumnSpans(Array.from({ length: colCount }, () => 1));
+}
+
+function uyapTableIsBorderless(attrs: JSONContent['attrs'] | undefined): boolean {
+    const border = String(attrs?.border ?? '');
+    const width = String(attrs?.borderWidth ?? '1').trim();
+    const style = String(attrs?.borderStyle ?? 'solid').trim().toLowerCase();
+    return border === 'borderNone' || width === '0' || style === 'none';
 }
 
 function buildCellOpenTag(cell: JSONContent): string {
@@ -903,19 +1032,22 @@ function buildCellOpenTag(cell: JSONContent): string {
 
 function buildTableOpenTag(node: JSONContent, colCount: number, columnSpans: string): string {
     const attrs = node.attrs ?? {};
-    const borderWidth = attrs.borderWidth != null ? String(attrs.borderWidth) : '1';
-    const borderStyle = attrs.borderStyle != null ? String(attrs.borderStyle) : 'solid';
+    const borderless = uyapTableIsBorderless(attrs);
     const tableAlign = ALIGN_MAP[String(attrs.alignment ?? attrs.textAlign ?? '').toLowerCase()];
     const parts = [
         `<table tableName="${escapeXmlAttr(String(attrs.tableName ?? 'Tablo'))}"`,
         `columnCount="${colCount}"`,
         `columnSpans="${columnSpans}"`,
-        `border="borderCell"`,
-        `borderWidth="${escapeXmlAttr(borderWidth)}"`,
-        `borderColor="-16777216"`,
+        `border="${borderless ? 'borderNone' : 'borderCell'}"`,
     ];
+    if (!borderless) {
+        const borderWidth = attrs.borderWidth != null ? String(attrs.borderWidth) : '1';
+        parts.push(`borderWidth="${escapeXmlAttr(borderWidth)}"`);
+        parts.push('borderColor="-16777216"');
+        const borderStyle = attrs.borderStyle != null ? String(attrs.borderStyle) : 'solid';
+        if (borderStyle !== 'solid') parts.push(`borderType="${escapeXmlAttr(borderStyle)}"`);
+    }
     if (tableAlign) parts.push(`alignment="${tableAlign}"`);
-    if (borderStyle !== 'solid') parts.push(`borderType="${escapeXmlAttr(borderStyle)}"`);
     return `${parts.join(' ')}>`;
 }
 
@@ -1179,13 +1311,13 @@ export function buildUyapContentXml(
                 nodeXml += processNode(child, listLevel, listIndex, isOrdered);
             });
         } else if (node.type === 'table') {
-            const firstRow = node.content?.find((r) => r.type === 'tableRow');
-            const colCount = firstRow?.content?.length ?? 1;
-            const columnSpans = buildTableColumnSpans(firstRow, colCount);
+            const rows = collectTableRows(node);
+            const firstRow = rows[0];
+            const colCount = tableLogicalColumnCount(node);
+            const columnSpans = buildTableColumnSpans(node, firstRow, colCount);
             nodeXml += buildTableOpenTag(node, colCount, columnSpans);
 
-            node.content?.forEach((row: JSONContent, rowIndex: number) => {
-                if (row.type !== 'tableRow') return;
+            rows.forEach((row: JSONContent, rowIndex: number) => {
                 const isHeaderRow = row.content?.every((c) => c.type === 'tableHeader') ?? false;
                 const rowType = isHeaderRow ? 'headerRow' : 'dataRow';
                 const rowHeight = cssSizeToUyapPt(row.attrs?.height);
@@ -1201,9 +1333,14 @@ export function buildUyapContentXml(
                 row.content?.forEach((cell: JSONContent) => {
                     if (cell.type !== 'tableCell' && cell.type !== 'tableHeader') return;
                     nodeXml += buildCellOpenTag(cell);
+                    let cellXml = '';
                     cell.content?.forEach((cellChild: JSONContent) => {
-                        nodeXml += processNode(cellChild);
+                        cellXml += processNode(cellChild);
                     });
+                    if (!cellXml) {
+                        cellXml = processNode({ type: 'paragraph', content: [] });
+                    }
+                    nodeXml += cellXml;
                     nodeXml += '</cell>';
                 });
                 nodeXml += '</row>';

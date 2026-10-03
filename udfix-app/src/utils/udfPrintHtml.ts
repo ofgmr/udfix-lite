@@ -5,6 +5,7 @@ import {
     EDITOR_PAGE_WIDTH_PX,
     EDITOR_PAGINATION_BODY_VERTICAL_BASE_PX,
 } from './editorLayout';
+import { UYAP_SILENT_TAB_SIZE_CSS } from './uyapParagraphText';
 
 /** Shared print/PDF styles for UYAP UDF HTML (viewer + batch export). */
 
@@ -46,7 +47,7 @@ export const UDF_CONTENT_PRINT_CSS = `
     line-height: 1.6;
     color: #000;
     white-space: pre-wrap;
-    tab-size: 2.5cm;
+    tab-size: ${UYAP_SILENT_TAB_SIZE_CSS};
 }
 .udf-content img {
     display: block;

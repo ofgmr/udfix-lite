@@ -24,7 +24,7 @@
     --hf-border-strong: var(--border);
     --hf-text: var(--foreground);
     --hf-text-muted: var(--muted-foreground);
-    /* `--input` is the shadcn border token (solid black/white in Yüksek Kontrast), not a fill. */
+    /* `--input` is the shadcn border token (solid black/white in Stajyer), not a fill. */
     --hf-input-bg: var(--secondary);
     /* Typography — override these per-document if needed */
     --hf-default-font-size: 11px;
@@ -173,17 +173,22 @@
     box-sizing: border-box !important;
 }
 
-/* The -left div fills all available width (our compileHfHtml output goes here) */
+/* The -left div fills all available width (our compileHfHtml output goes here).
+   Plugin CSS uses `display: inline-block` + float, which shrink-wraps an empty
+   compiled band to 0px so a `border-top` separator collapses to a 1px spec. */
 .rm-with-pagination .rm-page-header-left,
 .rm-with-pagination .rm-page-footer-left,
 .rm-with-pagination .rm-first-page-footer .rm-page-footer-left,
 .rm-with-pagination .rm-page-footer-1 .rm-page-footer-left {
+    display: block !important;
     flex: 1 1 100% !important;
+    width: 100% !important;
     min-width: 0 !important;
     float: none !important;
     margin: 0 !important;
     padding: 0 !important;
     overflow: visible !important;
+    list-style: none !important;
 }
 
 /* Hide the right slot — all content is packed into the left slot */
@@ -564,7 +569,7 @@
     transform: translate(0, -50%);
 }
 
-/* Yüksek Kontrast: no blur punch-through; ink follows --card-foreground, not --input. */
+/* Stajyer: no blur punch-through; ink follows --card-foreground, not --input. */
 .theme-contrast .hf-panel,
 .theme-contrast.dark .hf-panel {
     backdrop-filter: none;

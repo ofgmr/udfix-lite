@@ -3,6 +3,7 @@ import {
     AlertDialog,
     AlertDialogCancel,
     AlertDialogContent,
+    AlertDialogDescription,
     AlertDialogFooter,
     AlertDialogHeader,
     AlertDialogTitle,
@@ -63,7 +64,11 @@ export const UdfOpenChoiceDialog: React.FC = () => {
                     <AlertDialogTitle className="text-base font-semibold">
                         UDF dosyasını nasıl açmak istersiniz?
                     </AlertDialogTitle>
-                    <p className="text-sm text-muted-foreground break-all">{fileName}</p>
+                    <AlertDialogDescription className="break-all">
+                        {fileName
+                            ? `${fileName} dosyasını editörde düzenleyebilir veya görüntüleyicide açabilirsiniz.`
+                            : 'UDF dosyasını editörde düzenleyebilir veya görüntüleyicide açabilirsiniz.'}
+                    </AlertDialogDescription>
                     {!canUseEditor && (
                         <p className="text-xs text-amber-600 dark:text-amber-400">
                             Dosya yolu okunamadı; yalnızca görüntüleyicide açılabilir.

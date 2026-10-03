@@ -12,6 +12,8 @@ import { flushAllHfEditors } from './hfEditorFlushRegistry';
 import { useHeaderFooterStore } from '../stores/useHeaderFooterStore';
 import { compileHfColumnsForUdfExport, headerFooterSectionHasExportableContent } from './udfHfExportColumns';
 import { getPaginationMargins } from './paginationMarginSync';
+import { collectCommentsForUdfExport } from './uyapComments';
+import { useDocumentCommentsStore } from '../stores/useDocumentCommentsStore';
 import { stripUyapVerificationFromTipTapJson } from './uyapVerification';
 import {
     buildPageFormatFromMargins,
@@ -353,6 +355,8 @@ function hfEmitPlan(
 async function packageUdfZipBytes(input: {
     contentXml: string;
     commentsXml?: string | null;
+    /** Drop leftover `comments.xml` when regenerating content (even if commentsXml is null). */
+    replaceComments?: boolean;
     preserveZipEntries?: Record<string, Uint8Array>;
     zipResources?: Record<string, Uint8Array>;
     signatureOptions?: UyapSignatureExportOptions;
@@ -415,7 +419,7 @@ async function packageUdfZipBytes(input: {
     if (input.preserveZipEntries) {
         for (const [name, data] of Object.entries(input.preserveZipEntries)) {
             if (name === 'content.xml') continue;
-            if (name === 'comments.xml' && input.commentsXml) continue;
+            if (name === 'comments.xml' && (input.commentsXml || input.replaceComments)) continue;
             if (name === 'sign.sgn' && (!keepUnsignedSignFile || generatedSignSgn)) continue;
             if (
                 (name === 'udfix-signature-manifest.json' || name === 'nomai-signature-manifest.json') &&
@@ -540,6 +544,7 @@ export const UyapIO = {
         return packageUdfZipBytes({
             contentXml,
             commentsXml,
+            replaceComments: !preservedContentXml,
             preserveZipEntries,
             zipResources: options?.zipResources,
             signatureOptions: options?.signature,
@@ -565,8 +570,12 @@ export const UyapIO = {
     ): Promise<Uint8Array> {
         const json = stripUyapVerificationFromTipTapJson(editor.getJSON());
         const margins = getPaginationMargins(editor);
+        const documentId = useDocumentCommentsStore.getState().documentId;
+        const commentsForXml =
+            options?.commentsForXml ?? collectCommentsForUdfExport(editor, documentId);
         const merged: UdfExportOptions = {
             ...options,
+            commentsForXml: commentsForXml.length > 0 ? commentsForXml : undefined,
             pageFormat: options?.pageFormat ?? buildPageFormatFromMargins(margins ?? undefined),
         };
         return this.generateUdfBytesFromJson(json, headerText, footerText, merged);

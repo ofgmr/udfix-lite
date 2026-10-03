@@ -16,6 +16,7 @@ import { tryCloseActiveTabShortcut } from './closeActiveTab';
 /**
  * Global layout shortcuts wired from the central registry.
  * Command palette (Mod+K) stays in CommandPalette.tsx because it owns dialog open state.
+ * Capture phase so Mod+1…6 wins over Chromium’s tab-index default.
  */
 export function useAppKeyboardShortcuts(): void {
     useEffect(() => {
@@ -84,7 +85,6 @@ export function useAppKeyboardShortcuts(): void {
             for (const shortcut of DATABASE_SEARCH_SHORTCUTS) {
                 const entry = getRegistryEntry(shortcut.registryId);
                 if (entry && matchesCombo(e, entry.combo)) {
-                    if (shouldDeferLayoutShortcutToEditor()) return;
                     e.preventDefault();
                     trackShortcutUsed(shortcut.registryId);
                     useLayoutStore.getState().openRightPanelSearch(shortcut.panel);
@@ -94,7 +94,6 @@ export function useAppKeyboardShortcuts(): void {
 
             const calendarPanel = getRegistryEntry('database-open-calendar');
             if (calendarPanel && matchesCombo(e, calendarPanel.combo)) {
-                if (shouldDeferLayoutShortcutToEditor()) return;
                 e.preventDefault();
                 trackShortcutUsed('database-open-calendar');
                 useLayoutStore.getState().toggleRightPanel('calendar');
@@ -102,7 +101,7 @@ export function useAppKeyboardShortcuts(): void {
             }
         };
 
-        window.addEventListener('keydown', onKeyDown);
-        return () => window.removeEventListener('keydown', onKeyDown);
+        window.addEventListener('keydown', onKeyDown, true);
+        return () => window.removeEventListener('keydown', onKeyDown, true);
     }, []);
 }

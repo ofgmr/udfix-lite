@@ -1,4 +1,5 @@
 import { useEffect } from 'react';
+import { toast } from 'sonner';
 import { useLayoutStore } from '../stores/useLayoutStore';
 import {
     APP_PREFERENCES_CHANGED_EVENT,
@@ -6,6 +7,11 @@ import {
     type AppMenuAction,
     type AppPreferences,
 } from '../preferences/appPreferencesTypes';
+import {
+    KATIR_LICENSE_RESULT_EVENT,
+    openCommandPalette,
+    type KatirLicenseResultDetail,
+} from '../components/layout/commandPaletteEvents';
 import {
     loadAppPreferencesFromMain,
     migrateLegacyPreferencesToMain,
@@ -92,11 +98,28 @@ export function useApplicationMenuBridge(): void {
                         name: action.name,
                     });
                     return;
+                case 'open-viewer-file':
+                    useLayoutStore.getState().closeExplorerPanel();
+                    useLayoutStore.getState().openInNewViewerTab({
+                        url: action.path,
+                        name: action.name,
+                    });
+                    return;
                 case 'open-calendar':
                     useLayoutStore.getState().openRightPanel('calendar');
                     return;
                 case 'notifications-changed':
                     window.dispatchEvent(new Event(NOTIFICATIONS_CHANGED_EVENT));
+                    return;
+                case 'katir-license-result':
+                    openCommandPalette('uyap');
+                    if (action.ok) toast.success('Katır lisansı bu Mac’e bağlandı.');
+                    else toast.error(action.error || 'Lisans kodu uygulanamadı.');
+                    window.dispatchEvent(
+                        new CustomEvent<KatirLicenseResultDetail>(KATIR_LICENSE_RESULT_EVENT, {
+                            detail: { ok: action.ok, error: action.error },
+                        }),
+                    );
                     return;
                 default: {
                     const _never: never = action;

@@ -330,7 +330,7 @@ app.whenReady().then(async () => {
     ipcMain.handle('fs-file-url', (_event, rawPath: string) => {
         try {
             const filePath = normalizeAbsolutePath(String(rawPath || ''));
-            if (!fs.existsSync(filePath) || !isNomaiFileServingAllowed(filePath)) return null;
+            if (!fs.existsSync(filePath) || !fs.statSync(filePath).isFile() || !isNomaiFileServingAllowed(filePath)) return null;
             const normalized = filePath.replace(/\\/g, '/');
             return `nomai-file://${encodeURI(normalized)}`;
         } catch {
@@ -438,6 +438,10 @@ app.whenReady().then(async () => {
 
     ipcMain.handle('fs-read-file-binary', async (_, rawFilePath: string) => {
         const filePath = normalizeAbsolutePath(rawFilePath);
+        const stat = await fs.promises.stat(filePath);
+        if (!stat.isFile()) {
+            throw new Error(`Not a file: ${filePath}`);
+        }
         return fs.promises.readFile(filePath);
     });
 

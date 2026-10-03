@@ -12,6 +12,11 @@ import { isEditorRasterImageExtension } from '../../utils/editorImagePolicy'
 import MarginComments from './MarginComments'
 import SearchPanel from './SearchPanel'
 import { useDocumentCommentsStore } from '../../stores/useDocumentCommentsStore'
+import {
+    collectCommentsFromTipTapJson,
+    hydrateStoredComments,
+    patchCommentPayloadsOnEditor,
+} from '../../utils/uyapComments'
 import { DataService } from '../../services/dataService'
 import VersionHistoryPanel from './VersionHistoryPanel'
 import {
@@ -349,6 +354,7 @@ const UdfixEditor: React.FC<UdfixEditorProps> = ({
     const pageSize = useUdfixEditorPageSize(editor);
     const draftCommentId = useDocumentCommentsStore((s) => s.draftCommentId);
     const storedComments = useDocumentCommentsStore((s) => s.comments);
+    const commentsRevision = useDocumentCommentsStore((s) => s.revision);
     const commentGutterPx = useMemo(() => {
         if (isZenMode) return 0;
         const hasDraft = Boolean(draftCommentId);
@@ -489,7 +495,16 @@ const UdfixEditor: React.FC<UdfixEditorProps> = ({
 
     useEffect(() => {
         useDocumentCommentsStore.getState().setDocumentId(documentId);
-    }, [documentId]);
+        if (!editor || editor.isDestroyed) return;
+        const fromMarks = collectCommentsFromTipTapJson(editor.getJSON());
+        hydrateStoredComments(documentId, fromMarks);
+        useDocumentCommentsStore.getState().reloadFromStorage();
+    }, [documentId, editor]);
+
+    useEffect(() => {
+        if (!editor || editor.isDestroyed) return;
+        patchCommentPayloadsOnEditor(editor, useDocumentCommentsStore.getState().comments);
+    }, [editor, commentsRevision]);
 
     const {
         versions,

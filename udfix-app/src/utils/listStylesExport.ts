@@ -57,7 +57,7 @@ ol li > ol {
     margin-top: 0.1em;
 }
 
-/* Paginated print: keep list items out of the footer band. */
+/* Paginated print: keep list items out of the footer band (real paged media). */
 @media print {
     ol > li,
     ul:not([data-type="taskList"]) > li {

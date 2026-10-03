@@ -1,5 +1,5 @@
 import { useEffect, useRef } from 'react';
-import { useThemeStore, THEME_PALETTES, type ThemeMode, type ThemePalette } from '../../stores/useThemeStore';
+import { useThemeStore, THEME_PALETTES, type ThemeMode } from '../../stores/useThemeStore';
 import {
     DropdownMenu,
     DropdownMenuContent,
@@ -143,7 +143,7 @@ export function ThemePicker({ onSideFlyoutOpenChange }: ThemePickerProps) {
                                 return (
                                     <button
                                         key={p.id}
-                                        onClick={() => setPalette(p.id as ThemePalette)}
+                                        onClick={() => setPalette(p.id)}
                                         title={p.name}
                                         className={cn(
                                             'flex items-center justify-center rounded-full p-0.5 transition-all duration-150 cursor-pointer',

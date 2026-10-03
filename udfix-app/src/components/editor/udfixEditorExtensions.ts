@@ -16,6 +16,38 @@ import { BubbleMenu as BubbleMenuExtension } from '@tiptap/extension-bubble-menu
 import { FileHandler } from '@tiptap/extension-file-handler'
 import Comment from '@sereneinserenade/tiptap-comment-extension'
 import { CommentHighlight } from '../../extensions/CommentHighlight'
+
+const UdfixComment = Comment.extend({
+    addAttributes() {
+        return {
+            ...this.parent?.(),
+            commentPayload: {
+                default: null,
+                parseHTML: (element: HTMLElement) => element.getAttribute('data-comment-payload'),
+                renderHTML: (attributes: { commentPayload?: string | null }) =>
+                    attributes.commentPayload
+                        ? { 'data-comment-payload': attributes.commentPayload }
+                        : {},
+            },
+        };
+    },
+    parseHTML() {
+        return [
+            {
+                tag: 'span[data-comment-id]',
+                getAttrs: (el: HTMLElement | string) => {
+                    if (typeof el === 'string') return false;
+                    const commentId = el.getAttribute('data-comment-id')?.trim();
+                    if (!commentId) return false;
+                    return {
+                        commentId,
+                        commentPayload: el.getAttribute('data-comment-payload'),
+                    };
+                },
+            },
+        ];
+    },
+});
 import {
     EDITOR_PAGE_HEIGHT_PX,
     EDITOR_PAGE_MARGIN_LEFT_PX,
@@ -273,7 +305,7 @@ export function createUdfixEditorExtensions(documentId: string): Extensions {
                 });
             },
         }),
-        Comment.configure({
+        UdfixComment.configure({
             HTMLAttributes: {
                 class: 'comment-highlight',
             },

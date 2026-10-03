@@ -8,5 +8,7 @@ export type AppMenuAction =
     | { type: 'open-workspace-recent'; path: string }
     | { type: 'close-active-tab' }
     | { type: 'open-udf-file'; path: string; name: string }
+    | { type: 'open-viewer-file'; path: string; name: string }
     | { type: 'open-calendar' }
-    | { type: 'notifications-changed' };
+    | { type: 'notifications-changed' }
+    | { type: 'katir-license-result'; ok: boolean; error?: string };

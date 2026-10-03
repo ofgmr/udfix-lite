@@ -236,12 +236,19 @@ table.udf-hf-page:last-child {
   display: block;
   box-sizing: border-box;
   width: 100%;
+  min-width: 100%;
   overflow: visible;
   font-size: 10px;
   line-height: 1.4;
   color: #000;
   visibility: visible;
   opacity: 1;
+  list-style: none;
+}
+.udf-hf-header > div, .udf-hf-footer > div {
+  width: 100%;
+  min-width: 100%;
+  box-sizing: border-box;
 }
 .udf-hf-header { vertical-align: top; }
 .udf-hf-footer { vertical-align: bottom; }

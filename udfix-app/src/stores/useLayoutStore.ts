@@ -34,6 +34,11 @@ export type ViewerOpenFile = {
     previewDocumentId?: string;
 };
 
+export type OpenViewerTabOptions = {
+    targetViewerPanelId?: string;
+    forceSiblingTab?: boolean;
+};
+
 function viewerParams(file: ViewerOpenFile) {
     return {
         fileUrl: file.url,
@@ -368,7 +373,7 @@ interface LayoutState {
     // Dockview API (Non-persisted)
     dockviewApi: LayoutDockviewApi | null;
     setDockviewApi: (api: LayoutDockviewApi | null) => void;
-    pendingViewerOpen: { file: ViewerOpenFile; options?: { targetViewerPanelId?: string; forceSiblingTab?: boolean } } | null;
+    pendingViewerOpens: Array<{ file: ViewerOpenFile; options?: OpenViewerTabOptions }>;
 
     // Editor Save State
     editorSaveState: 'saved' | 'saving' | 'unsaved' | 'error';
@@ -396,7 +401,7 @@ interface LayoutState {
     openNoteInNewTab: (noteId: string, title?: string) => void;
     openInNewViewerTab: (
         file: ViewerOpenFile,
-        options?: { targetViewerPanelId?: string; forceSiblingTab?: boolean }
+        options?: OpenViewerTabOptions
     ) => void;
     /** Araç çubuğu: görüntüleyici grubunda yeni boş sekme. */
     openEmptyViewerTab: () => void;
@@ -424,11 +429,11 @@ interface LayoutState {
         fsPath: string | null;
         viewerUrl: string;
         name: string;
-        viewerOptions?: { targetViewerPanelId?: string; forceSiblingTab?: boolean };
+        viewerOptions?: OpenViewerTabOptions;
     } | null;
     requestUdfOpenChoice: (
         file: { fsPath: string | null; viewerUrl: string; name: string },
-        viewerOptions?: { targetViewerPanelId?: string; forceSiblingTab?: boolean },
+        viewerOptions?: OpenViewerTabOptions,
     ) => void;
     clearUdfOpenChoice: () => void;
     /** Opsiyonel ince veri şeridi paneli açar */
@@ -619,13 +624,17 @@ export const useLayoutStore = create<LayoutState>()(
 
             // Dockview API
             dockviewApi: null,
-            pendingViewerOpen: null,
+            pendingViewerOpens: [],
             setDockviewApi: (api) => {
                 set({ dockviewApi: api });
-                const pending = get().pendingViewerOpen;
-                if (api && pending) {
-                    set({ pendingViewerOpen: null });
-                    queueMicrotask(() => get().openInNewViewerTab(pending.file, pending.options));
+                const pending = get().pendingViewerOpens;
+                if (api && pending.length > 0) {
+                    set({ pendingViewerOpens: [] });
+                    queueMicrotask(() => {
+                        for (const item of pending) {
+                            get().openInNewViewerTab(item.file, item.options);
+                        }
+                    });
                 }
             },
 
@@ -687,7 +696,9 @@ export const useLayoutStore = create<LayoutState>()(
             openInNewViewerTab: (file, options) => {
                 const api = get().dockviewApi;
                 if (!api) {
-                    set({ pendingViewerOpen: { file, options } });
+                    set({
+                        pendingViewerOpens: [...get().pendingViewerOpens, { file, options }],
+                    });
                     return;
                 }
 

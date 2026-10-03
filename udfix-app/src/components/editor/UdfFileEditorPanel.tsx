@@ -1,7 +1,7 @@
 import React from 'react';
 import type { Editor } from '@tiptap/react';
 import UdfixEditor from './UdfixEditor';
-import { parseUyapToHtml, parseUyapToTipTap, udfXmlContainsTable, udfXmlHasNestedTable } from '../../utils/converter';
+import { resolveUdfEditorInitialContent } from '../../utils/udfEditorContent';
 import {
     parseUyapImportMeta,
     UYAP_IMPORT_META_STORAGE_PREFIX,
@@ -9,7 +9,6 @@ import {
 import {
     buildUyapVerificationMetaFromZipEntries,
     persistUyapVerificationMeta,
-    stripUyapVerificationFromHtml,
     type UyapVerificationMeta,
 } from '../../utils/uyapVerification';
 import UyapVerificationBand from './UyapVerificationBand';
@@ -34,6 +33,14 @@ import { mapUyapSigningErrorMessage } from '../../utils/udfSignatureState';
 import { formatSaveErrorMessage } from '../../utils/saveErrorMessage';
 import { settleUdfSave, settleUdfSaveAs } from '../../utils/udfSaveBus';
 import { sanitizeTrustedDocumentHtml } from '../../utils/sanitizeDocumentHtml';
+import {
+    collectCommentsForUdfExport,
+    collectCommentsFromTipTapJson,
+    decodeZipEntryUtf8,
+    hydrateStoredComments,
+    parseUyapCommentsXml,
+    persistImportedComments,
+} from '../../utils/uyapComments';
 
 interface UdfFileEditorPanelProps {
     filePath: string;
@@ -126,34 +133,27 @@ const UdfFileEditorPanel: React.FC<UdfFileEditorPanelProps> = ({ filePath, fileN
                 const templateAnalysis = UyapIO.analyzeContentXmlForUyapTemplate(contentXml);
                 const protectTemplate = templateAnalysis.isUyapProtectedTemplate;
                 setIsUyapTemplateProtected(protectTemplate);
-                if (protectTemplate) {
-                    const html = sanitizeTrustedDocumentHtml(
-                        stripUyapVerificationFromHtml(
-                            (await parseUyapToHtml(contentXml)) || '<p></p>',
-                        ),
-                    );
-                    localStorage.removeItem(`nomai-udf-initial-json-${documentId}`);
-                    writeUdfEditorHtmlDraft(documentId, html);
-                    return;
-                }
 
-                let useStructured = false;
-                if (!udfXmlContainsTable(contentXml) || !udfXmlHasNestedTable(contentXml)) {
-                    const doc = await parseUyapToTipTap(contentXml);
-                    if (doc?.content && doc.content.length > 0) {
-                        localStorage.removeItem(`nomai-content-${documentId}`);
-                        localStorage.setItem(`nomai-udf-initial-json-${documentId}`, JSON.stringify(doc));
-                        useStructured = true;
-                    }
-                }
-                if (!useStructured) {
+                const commentsXml = decodeZipEntryUtf8(preserveZipEntries['comments.xml']);
+                const importedComments = parseUyapCommentsXml(commentsXml);
+                persistImportedComments(documentId, importedComments);
+
+                const initial = await resolveUdfEditorInitialContent(
+                    contentXml,
+                    documentId,
+                    importedComments,
+                );
+                if (cancelled) return;
+                if (typeof initial === 'string') {
                     localStorage.removeItem(`nomai-udf-initial-json-${documentId}`);
-                    const html = sanitizeTrustedDocumentHtml(
-                        stripUyapVerificationFromHtml(
-                            (await parseUyapToHtml(contentXml)) || '<p></p>',
-                        ),
+                    writeUdfEditorHtmlDraft(documentId, sanitizeTrustedDocumentHtml(initial));
+                } else {
+                    localStorage.removeItem(`nomai-content-${documentId}`);
+                    localStorage.setItem(
+                        `nomai-udf-initial-json-${documentId}`,
+                        JSON.stringify(initial),
                     );
-                    writeUdfEditorHtmlDraft(documentId, html);
+                    hydrateStoredComments(documentId, collectCommentsFromTipTapJson(initial));
                 }
             } catch (e: unknown) {
                 if (!cancelled) {
@@ -203,6 +203,7 @@ const UdfFileEditorPanel: React.FC<UdfFileEditorPanelProps> = ({ filePath, fileN
                 preserveZipEntries: preserveZipEntriesRef.current,
                 signature: signatureOptions,
                 pageFormat,
+                commentsForXml: collectCommentsForUdfExport(editorRef.current, documentId),
                 ...hfExtras,
             });
         },

@@ -1,14 +1,114 @@
 diff --git a/node_modules/tiptap-pagination-plus/dist/PaginationPlus.js b/node_modules/tiptap-pagination-plus/dist/PaginationPlus.js
-index 186b675..4fe4112 100644
+index 186b675..f41e7f0 100644
 --- a/node_modules/tiptap-pagination-plus/dist/PaginationPlus.js
 +++ b/node_modules/tiptap-pagination-plus/dist/PaginationPlus.js
-@@ -523,12 +523,20 @@ const getExistingPageCount = (view) => {
+@@ -50,7 +50,10 @@ const refreshPage = (targetNode, paginationEnabled = true) => {
+             const lastPageBreak = (_a = paginationElement.lastElementChild) === null || _a === void 0 ? void 0 : _a.querySelector(".breaker");
+             if (lastPageBreak) {
+                 const minHeight = lastPageBreak.offsetTop + lastPageBreak.offsetHeight;
+-                targetNode.style.minHeight = `calc(${minHeight}px + 2px)`;
++                const nextMin = `calc(${minHeight}px + 2px)`;
++                if (targetNode.style.minHeight !== nextMin) {
++                    targetNode.style.minHeight = nextMin;
++                }
+             }
+         }
+     }
+@@ -346,7 +349,13 @@ export const PaginationPlus = Extension.create({
+                             const pageCount = getNewPageCount(view, Object.assign(Object.assign({}, _currentOptions), pageConfig));
+                             const currentPageCount = getExistingPageCount(view);
+                             const triggerUpdate = (_footerHeight) => {
++                                if (nomaiTriggerPending.has(view))
++                                    return;
++                                nomaiTriggerPending.add(view);
+                                 requestAnimationFrame(() => {
++                                    nomaiTriggerPending.delete(view);
++                                    if (!view.dom || !view.dom.isConnected)
++                                        return;
+                                     const tr = view.state.tr.setMeta(page_count_meta_key, { footerHeight: _footerHeight });
+                                     view.dispatch(tr);
+                                 });
+@@ -402,10 +411,16 @@ export const PaginationPlus = Extension.create({
+                                 }
+                             }
+                             if (maxContentHeight) {
+-                                view.dom.style.setProperty(`--rm-max-content-child-height`, `${maxContentHeight - 10}px`);
++                                const maxVar = `${maxContentHeight - 10}px`;
++                                if (view.dom.style.getPropertyValue("--rm-max-content-child-height") !== maxVar) {
++                                    view.dom.style.setProperty(`--rm-max-content-child-height`, maxVar);
++                                }
+                             }
+                             Object.entries(pageContentHeightVariable).forEach(([key, value]) => {
+-                                view.dom.style.setProperty(`--${key}`, value);
++                                const cssName = `--${key}`;
++                                if (view.dom.style.getPropertyValue(cssName) !== value) {
++                                    view.dom.style.setProperty(cssName, value);
++                                }
+                             });
+                             refreshPage(view.dom, _currentOptions.enabled);
+                             return;
+@@ -523,12 +538,75 @@ const getExistingPageCount = (view) => {
      }
      return 0;
  };
 +/** NOMAI: prevent runaway page widgets + view.update dispatch storm */
 +const NOMAI_MAX_TOTAL_PAGES = 500;
 +const NOMAI_MAX_ADD_PAGES_PER_PASS = 24;
++/** Ignore subpixel / zoom remainder so 9↔10 page flip-flops cannot run forever. */
++const NOMAI_PAGE_GAP_EPS_PX = 2;
++const NOMAI_PAGE_COUNT_HYSTERESIS = true;
++const NOMAI_PAGE_COUNT_CHANGE_WINDOW_MS = 400;
++const NOMAI_PAGE_COUNT_MAX_CHANGES = 6;
++const nomaiPageCountBudget = new WeakMap();
++const nomaiTriggerPending = new WeakSet();
++const nomaiCssZoom = (el) => {
++    let factor = 1;
++    let node = el;
++    while (node && node.nodeType === 1 && node !== document.documentElement) {
++        const zStr = window.getComputedStyle(node).zoom;
++        if (zStr && zStr !== "normal") {
++            const z = Number.parseFloat(zStr);
++            if (Number.isFinite(z) && z > 0)
++                factor *= z;
++        }
++        node = node.parentElement;
++    }
++    return factor > 0 ? factor : 1;
++};
++const freezeNomaiPageCount = (view, raw) => {
++    if (!NOMAI_PAGE_COUNT_HYSTERESIS)
++        return raw;
++    const now = Date.now();
++    const docSize = view.state.doc.content.size;
++    let budget = nomaiPageCountBudget.get(view);
++    if (!budget || budget.docSize !== docSize) {
++        budget = { last: raw, frozen: null, changes: 0, windowStart: now, docSize };
++        nomaiPageCountBudget.set(view, budget);
++        return raw;
++    }
++    if (budget.frozen != null) {
++        if (raw === budget.frozen || raw === budget.frozen - 1)
++            return budget.frozen;
++        budget.frozen = null;
++        budget.changes = 0;
++        budget.windowStart = now;
++        budget.last = raw;
++        return raw;
++    }
++    if (now - budget.windowStart > NOMAI_PAGE_COUNT_CHANGE_WINDOW_MS) {
++        budget.windowStart = now;
++        budget.changes = 0;
++    }
++    if (raw !== budget.last) {
++        budget.changes += 1;
++        budget.last = raw;
++    }
++    if (budget.changes > NOMAI_PAGE_COUNT_MAX_CHANGES) {
++        budget.frozen = Math.max(budget.last, raw);
++        return budget.frozen;
++    }
++    return raw;
++};
  const calculatePageCount = (view, pageOptions, headerHeight = 0, footerHeight = 0) => {
      var _a;
      const editorDom = view.dom;
@@ -26,39 +126,52 @@ index 186b675..4fe4112 100644
      const paginationElement = editorDom.querySelector("[data-rm-pagination]");
      const currentPageCount = getExistingPageCount(view);
      if (paginationElement) {
-@@ -540,28 +548,29 @@ const calculatePageCount = (view, pageOptions, headerHeight = 0, footerHeight =
-             const lastPageGap = lastElementRect.bottom -
-                 lastPageBreakRect.bottom;
-             if (lastPageGap > 0) {
+@@ -537,31 +615,31 @@ const calculatePageCount = (view, pageOptions, headerHeight = 0, footerHeight =
+         if (lastElementOfEditor && lastPageBreak) {
+             const lastElementRect = lastElementOfEditor.getBoundingClientRect();
+             const lastPageBreakRect = lastPageBreak.getBoundingClientRect();
+-            const lastPageGap = lastElementRect.bottom -
+-                lastPageBreakRect.bottom;
+-            if (lastPageGap > 0) {
 -                const addPage = Math.ceil(lastPageGap / pageContentAreaHeight);
 -                return currentPageCount + addPage;
++            const lastPageGapVisual = lastElementRect.bottom - lastPageBreakRect.bottom;
++            const lastPageGap = lastPageGapVisual / nomaiCssZoom(editorDom);
++            if (lastPageGap > NOMAI_PAGE_GAP_EPS_PX) {
 +                let addPage = Math.ceil(lastPageGap / pageContentAreaHeight);
 +                addPage = Math.min(NOMAI_MAX_ADD_PAGES_PER_PASS, addPage);
-+                return Math.min(NOMAI_MAX_TOTAL_PAGES, currentPageCount + addPage);
++                return freezeNomaiPageCount(view, Math.min(NOMAI_MAX_TOTAL_PAGES, currentPageCount + addPage));
              }
-             else {
-                 const allBreaksAfterLastElement = Array.from(paginationElement.querySelectorAll(".breaker"));
-                 const allBreaksAfterLastElementRect = allBreaksAfterLastElement.filter(element => element.getBoundingClientRect().top > lastElementRect.bottom);
-                 const removePage = allBreaksAfterLastElementRect.length;
-                 if (removePage > 1) {
+-            else {
+-                const allBreaksAfterLastElement = Array.from(paginationElement.querySelectorAll(".breaker"));
+-                const allBreaksAfterLastElementRect = allBreaksAfterLastElement.filter(element => element.getBoundingClientRect().top > lastElementRect.bottom);
+-                const removePage = allBreaksAfterLastElementRect.length;
+-                if (removePage > 1) {
 -                    return currentPageCount - removePage;
-+                    return Math.min(NOMAI_MAX_TOTAL_PAGES, currentPageCount - removePage);
-                 }
-                 else {
+-                }
+-                else {
 -                    return currentPageCount;
-+                    return Math.min(NOMAI_MAX_TOTAL_PAGES, currentPageCount);
-                 }
+-                }
++            if (lastPageGap >= -NOMAI_PAGE_GAP_EPS_PX) {
++                return freezeNomaiPageCount(view, Math.min(NOMAI_MAX_TOTAL_PAGES, currentPageCount));
++            }
++            const allBreaksAfterLastElement = Array.from(paginationElement.querySelectorAll(".breaker"));
++            const allBreaksAfterLastElementRect = allBreaksAfterLastElement.filter(element => element.getBoundingClientRect().top > lastElementRect.bottom + NOMAI_PAGE_GAP_EPS_PX);
++            const removePage = allBreaksAfterLastElementRect.length;
++            if (removePage > 1) {
++                return freezeNomaiPageCount(view, Math.min(NOMAI_MAX_TOTAL_PAGES, currentPageCount - removePage));
              }
++            return freezeNomaiPageCount(view, Math.min(NOMAI_MAX_TOTAL_PAGES, currentPageCount));
          }
 -        return 1;
-+        return Math.min(NOMAI_MAX_TOTAL_PAGES, 1);
++        return freezeNomaiPageCount(view, Math.min(NOMAI_MAX_TOTAL_PAGES, 1));
      }
      else {
          const editorHeight = editorDom.scrollHeight;
          let pageCount = Math.ceil(editorHeight / pageContentAreaHeight);
          pageCount = pageCount <= 0 ? 1 : pageCount;
 -        return pageCount;
-+        return Math.min(NOMAI_MAX_TOTAL_PAGES, pageCount);
++        return freezeNomaiPageCount(view, Math.min(NOMAI_MAX_TOTAL_PAGES, pageCount));
      }
  };
  const getNewPageCount = (view, pageOptions) => {

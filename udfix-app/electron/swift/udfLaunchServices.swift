@@ -6,6 +6,7 @@ import UniformTypeIdentifiers
 private let bundleId = "com.ofg.udfix"
 private let customUti = "com.ofg.udfix.udf"
 private let udfExtension = "udf"
+private let urlScheme = "udfix"
 
 private func allUdfContentTypeIds() -> [String] {
     var ids = Set<String>()
@@ -125,6 +126,31 @@ private func runRegister() {
     print("ok")
 }
 
+private func defaultUrlSchemeBundleId() -> String? {
+    guard let unmanaged = LSCopyDefaultHandlerForURLScheme(urlScheme as CFString) else { return nil }
+    return unmanaged.takeRetainedValue() as String
+}
+
+private func runCheckUrlScheme() {
+    print(defaultUrlSchemeBundleId() ?? "none")
+}
+
+private func runSetUrlScheme() {
+    registerAppBundle()
+    guard NSWorkspace.shared.urlForApplication(withBundleIdentifier: bundleId) != nil else {
+        print("missing")
+        exit(1)
+    }
+    let status = LSSetDefaultHandlerForURLScheme(urlScheme as CFString, bundleId as CFString)
+    registerAppBundle()
+    if defaultUrlSchemeBundleId() == bundleId {
+        print("ok")
+        exit(0)
+    }
+    print(status == noErr ? "partial" : "fail")
+    exit(1)
+}
+
 switch CommandLine.arguments.dropFirst().first ?? "check" {
 case "check":
     runCheck()
@@ -132,7 +158,11 @@ case "set-default":
     runSetDefault()
 case "register":
     runRegister()
+case "check-url-scheme":
+    runCheckUrlScheme()
+case "set-url-scheme":
+    runSetUrlScheme()
 default:
-    fputs("usage: udfLaunchServices.swift [check|set-default|register]\n", stderr)
+    fputs("usage: udfLaunchServices.swift [check|set-default|register|check-url-scheme|set-url-scheme]\n", stderr)
     exit(2)
 }

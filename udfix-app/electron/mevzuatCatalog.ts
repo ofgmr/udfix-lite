@@ -286,11 +286,6 @@ export type MevzuatYonetmelikCatalogEntry = MevzuatCatalogEntry & {
     turCandidates: number[];
 };
 
-/**
- * Focused lawyer-relevant yönetmelikler / tüzük / tebliğ. Numbers come from
- * mevzuat.gov.tr iframe URLs (not invented). Generate skips any that do not resolve.
- * Tur: 7 then 4 for kurum/bakanlık yönetmeliği; 21 CB yönetmeliği; 9 tebliğ/tarife; 2 tüzük.
- */
 export const YONETMELIK_CATALOG: MevzuatYonetmelikCatalogEntry[] = [
     {
         no: '15828',

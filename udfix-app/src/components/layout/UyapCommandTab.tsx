@@ -27,7 +27,6 @@ import { MatterHintDrawer } from './MatterHintDrawer';
 import { toast } from 'sonner';
 import { cn } from '../../lib/utils';
 import { humanizeUyapMessage, humanizeWalkEventLine } from '../../lib/uyapUserMessages';
-import { closeCommandPalette } from './commandPaletteEvents';
 import { isUniversalViewerSupported } from '../../utils/viewerSupportedFormats';
 import { resolveViewerExtension } from '../../utils/viewerExtension';
 import { deriveUyapEvrakTree, type DerivedRelatedGroup, type DerivedTurFolder } from '../../lib/uyapEvrakTreeHelper';
@@ -46,6 +45,10 @@ import {
 } from '../../lib/uyapChartPrefs';
 import { toKatirPlotMonths, type ChartPlotMonth } from '../../lib/uyapChartMath';
 import { KATIR_UPGRADE_URL, dashboardHasKatirCorpus, type AppEntitlements } from '../../lib/appEntitlements';
+import {
+    KATIR_LICENSE_RESULT_EVENT,
+    type KatirLicenseResultDetail,
+} from './commandPaletteEvents';
 
 const SEARCH_DEBOUNCE_MS = 250;
 const RECENT_UYAP_EVRAK_LIMIT = 100;
@@ -198,7 +201,7 @@ function liveLine(status: UyapBridgeStatus | null, entitlements: AppEntitlements
                 return 'Katır paketi yok, köprü kapalı.';
             case 'anonymous':
             case undefined:
-                return 'Katır için e-posta ile giriş yapın.';
+                return 'Katır için bir lisans edinin.';
             default: {
                 const _never: never = entitlements?.phase as never;
                 void _never;
@@ -510,8 +513,6 @@ async function waitForDocOnDisk(matterId: string, docId: string, timeoutMs = 800
 }
 
 async function openDocInMainViewer(doc: UyapEvrakDoc) {
-    closeCommandPalette();
-    await DataService.focusMainWindow();
     if (!doc.file_path) {
         toast.error('Dosya bulunamadı');
         return;
@@ -796,7 +797,7 @@ function RecentEvrakRow({
                 button
             )}
             <ViewEvrakButton
-                disabled={busy || (!katirLive && !row.file_path)}
+                disabled={(!row.file_path && (busy || !katirLive))}
                 title={!katirLive && !row.file_path ? 'Katır ile indirilir' : 'Görüntüle'}
                 onClick={() => onView(row)}
             />
@@ -1732,6 +1733,22 @@ function KatirMembershipPanel({
             setBusy(false);
         }
     };
+
+    useEffect(() => {
+        const onProtocol = (event: Event) => {
+            const detail = (event as CustomEvent<KatirLicenseResultDetail>).detail;
+            if (!detail) return;
+            if (detail.ok) {
+                setError(null);
+                setActivationCode('');
+                onChanged?.();
+                return;
+            }
+            setError(detail.error || 'Lisans kodu uygulanamadı.');
+        };
+        window.addEventListener(KATIR_LICENSE_RESULT_EVENT, onProtocol);
+        return () => window.removeEventListener(KATIR_LICENSE_RESULT_EVENT, onProtocol);
+    }, [onChanged]);
 
     const onRemoveKey = async () => {
         setBusy(true);

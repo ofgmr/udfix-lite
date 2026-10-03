@@ -1,5 +1,5 @@
 import { app } from 'electron';
-import { execFile } from 'child_process';
+import { execFile, execFileSync } from 'child_process';
 import fs from 'fs';
 import path from 'path';
 import { promisify } from 'util';
@@ -7,6 +7,17 @@ import { promisify } from 'util';
 const execFileAsync = promisify(execFile);
 
 const UDFIX_BUNDLE_ID = 'com.ofg.udfix';
+const UDFIX_URL_SCHEME = 'udfix';
+const LSREGISTER =
+    '/System/Library/Frameworks/CoreServices.framework/Frameworks/LaunchServices.framework/Support/lsregister';
+const DEV_ELECTRON_BUNDLE_ID = 'com.github.Electron';
+
+type LaunchServicesCommand =
+    | 'check'
+    | 'set-default'
+    | 'register'
+    | 'set-url-scheme'
+    | 'check-url-scheme';
 
 export type UdfHandlerCheckResult = {
     utis: Array<{ uti: string; bundleId: string }>;
@@ -26,7 +37,7 @@ function launchServicesHelperPaths(): { executable: string; args: string[] } | n
 
     // Development fallback when the helper was not compiled yet.
     if (!app.isPackaged) {
-        const script = path.join(__dirname, 'swift', 'udfLaunchServices.swift');
+        const script = path.join(__dirname, '..', 'electron', 'swift', 'udfLaunchServices.swift');
         if (fs.existsSync(script)) {
             return { executable: '/usr/bin/swift', args: [script] };
         }
@@ -35,7 +46,7 @@ function launchServicesHelperPaths(): { executable: string; args: string[] } | n
     return null;
 }
 
-async function runSwiftLaunchServicesCommand(command: 'check' | 'set-default' | 'register'): Promise<string> {
+async function runSwiftLaunchServicesCommand(command: LaunchServicesCommand): Promise<string> {
     const helper = launchServicesHelperPaths();
     if (!helper) {
         throw new Error('udfLaunchServices helper is missing');
@@ -45,6 +56,59 @@ async function runSwiftLaunchServicesCommand(command: 'check' | 'set-default' | 
         maxBuffer: 256 * 1024,
     });
     return stdout.trim();
+}
+
+function resolveDevElectronAppPath(): string | null {
+    const fromExec = path.resolve(process.execPath, '..', '..', '..');
+    if (path.basename(fromExec) === 'Electron.app' && fs.existsSync(fromExec)) {
+        return fromExec;
+    }
+    const fromModule = path.join(__dirname, '..', 'node_modules', 'electron', 'dist', 'Electron.app');
+    if (fs.existsSync(fromModule)) return fromModule;
+    return null;
+}
+
+function unregisterDevElectronBundle(): void {
+    if (process.platform !== 'darwin' || app.isPackaged) return;
+    const electronApp = resolveDevElectronAppPath();
+    if (!electronApp || !fs.existsSync(LSREGISTER)) return;
+    try {
+        execFileSync(LSREGISTER, ['-u', electronApp], { timeout: 15_000, stdio: 'ignore' });
+    } catch {
+        /* best effort */
+    }
+}
+
+export async function readUdixUrlSchemeHandlerBundleId(): Promise<string | null> {
+    if (process.platform !== 'darwin') return null;
+    try {
+        const stdout = await runSwiftLaunchServicesCommand('check-url-scheme');
+        if (!stdout || stdout === 'none') return null;
+        return stdout;
+    } catch {
+        return null;
+    }
+}
+
+export async function claimPackagedUdixUrlScheme(): Promise<void> {
+    if (process.platform !== 'darwin') return;
+    try {
+        await runSwiftLaunchServicesCommand('set-url-scheme');
+    } catch {
+        /* packaged app missing, or helper not built yet */
+    }
+}
+
+/** Unpackaged Electron.dev must not keep `udfix://`. Point Launch Services at `com.ofg.udfix` when that app exists. */
+export async function reclaimUdixUrlSchemeForPackagedApp(): Promise<void> {
+    if (process.platform !== 'darwin') return;
+    if (!app.isPackaged) {
+        const current = await readUdixUrlSchemeHandlerBundleId();
+        if (!current || current === DEV_ELECTRON_BUNDLE_ID) {
+            unregisterDevElectronBundle();
+        }
+    }
+    await claimPackagedUdixUrlScheme();
 }
 
 function parseCheckOutput(stdout: string): UdfHandlerCheckResult {
@@ -110,6 +174,7 @@ export async function registerUdfixWithLaunchServices(): Promise<void> {
     } catch {
         /* best effort */
     }
+    await claimPackagedUdixUrlScheme();
 }
 
-export { UDFIX_BUNDLE_ID };
+export { UDFIX_BUNDLE_ID, UDFIX_URL_SCHEME };

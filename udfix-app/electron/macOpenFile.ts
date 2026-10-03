@@ -1,31 +1,49 @@
 import { app, BrowserWindow } from 'electron';
 import path from 'path';
 import { MENU_CHANNEL, type AppMenuAction } from './applicationMenuTypes';
+import { assertUserFsPathAllowed } from './fsPathPolicy';
 import { noteUdfFolderForRecents } from './workspaceMenuActions';
 import {
-    collectUdfPathsFromArgv,
-    isUdfFilePath,
+    classifyMacOpenPath,
+    collectOpenablePathsFromArgv,
+    type MacOpenableKind,
     normalizeOpenPath,
 } from './macOpenFilePaths';
 
 type CreateMainWindowFn = () => BrowserWindow;
 type GetMainWindowFn = () => BrowserWindow | null;
 
-const pendingUdfFiles: string[] = [];
+type PendingOpen = { kind: MacOpenableKind; path: string };
+
+const pendingOpens: PendingOpen[] = [];
 let createMainWindow: CreateMainWindowFn | null = null;
 let getMainWindow: GetMainWindowFn | null = null;
 
-function broadcastOpenUdfFile(filePath: string): void {
+function allowOpenPath(filePath: string): string | null {
     const normalized = normalizeOpenPath(filePath);
-    if (!normalized || !isUdfFilePath(normalized)) return;
+    if (!normalized) return null;
+    try {
+        return assertUserFsPathAllowed(normalized);
+    } catch {
+        return null;
+    }
+}
 
-    noteUdfFolderForRecents(path.dirname(normalized));
-
-    const payload: AppMenuAction = {
-        type: 'open-udf-file',
-        path: normalized,
-        name: path.basename(normalized),
-    };
+function broadcastOpenFile(kind: MacOpenableKind, filePath: string): void {
+    let payload: AppMenuAction;
+    switch (kind) {
+        case 'udf':
+            noteUdfFolderForRecents(path.dirname(filePath));
+            payload = { type: 'open-udf-file', path: filePath, name: path.basename(filePath) };
+            break;
+        case 'viewer':
+            payload = { type: 'open-viewer-file', path: filePath, name: path.basename(filePath) };
+            break;
+        default: {
+            const _never: never = kind;
+            return _never;
+        }
+    }
 
     for (const win of BrowserWindow.getAllWindows()) {
         if (!win.isDestroyed()) {
@@ -34,7 +52,7 @@ function broadcastOpenUdfFile(filePath: string): void {
     }
 }
 
-function deliverToMainWindow(filePath: string): void {
+function deliverToMainWindow(kind: MacOpenableKind, filePath: string): void {
     if (!getMainWindow || !createMainWindow) return;
 
     let win = getMainWindow();
@@ -42,7 +60,7 @@ function deliverToMainWindow(filePath: string): void {
         win = createMainWindow();
     }
 
-    const send = () => broadcastOpenUdfFile(filePath);
+    const send = () => broadcastOpenFile(kind, filePath);
     if (win.webContents.isLoading()) {
         win.webContents.once('did-finish-load', send);
     } else {
@@ -54,16 +72,20 @@ function deliverToMainWindow(filePath: string): void {
     win.focus();
 }
 
-function queueOrOpenUdfFile(filePath: string): void {
-    const normalized = normalizeOpenPath(filePath);
-    if (!normalized || !isUdfFilePath(normalized)) return;
+function queueOrOpenFile(filePath: string): void {
+    const allowed = allowOpenPath(filePath);
+    if (!allowed) return;
+    const kind = classifyMacOpenPath(allowed);
+    if (!kind) return;
 
     if (!app.isReady()) {
-        if (!pendingUdfFiles.includes(normalized)) pendingUdfFiles.push(normalized);
+        if (!pendingOpens.some((item) => item.path === allowed)) {
+            pendingOpens.push({ kind, path: allowed });
+        }
         return;
     }
 
-    deliverToMainWindow(normalized);
+    deliverToMainWindow(kind, allowed);
 }
 
 export function registerMacOpenFileHandlers(): void {
@@ -71,7 +93,7 @@ export function registerMacOpenFileHandlers(): void {
 
     app.on('open-file', (event, filePath) => {
         event.preventDefault();
-        queueOrOpenUdfFile(filePath);
+        queueOrOpenFile(filePath);
     });
 }
 
@@ -84,12 +106,12 @@ export function initMacOpenFileDelivery(deps: {
 }
 
 export function drainStartupUdfOpenRequests(argv: string[] = process.argv): void {
-    for (const filePath of collectUdfPathsFromArgv(argv)) {
-        queueOrOpenUdfFile(filePath);
+    for (const item of collectOpenablePathsFromArgv(argv)) {
+        queueOrOpenFile(item.path);
     }
 
-    const queued = pendingUdfFiles.splice(0, pendingUdfFiles.length);
-    for (const filePath of queued) {
-        deliverToMainWindow(filePath);
+    const queued = pendingOpens.splice(0, pendingOpens.length);
+    for (const item of queued) {
+        deliverToMainWindow(item.kind, item.path);
     }
 }

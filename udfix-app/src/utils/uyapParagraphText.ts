@@ -3,6 +3,14 @@ import type { UyapRenderedSpan } from './uyapFieldResolver';
 /** UYAP gövde sekmesi (~72 pt ilk durak) → CSS `tab-size`. */
 export const UYAP_DEFAULT_IMPORT_TAB_SIZE_PX = 72 * (96 / 72) * (4 / 3);
 
+/**
+ * Editor + PDF/print silent tab stops when the paragraph has no UYAP `TabSet`.
+ * Must stay a physical length (`cm`), not computed `px` — printToPDF maps px at a
+ * different used-size than the screen canvas, so copied `tab-size: 94px` drifts
+ * vs the editor's `tab-size: 2.5cm`.
+ */
+export const UYAP_SILENT_TAB_SIZE_CSS = '2.5cm';
+
 /** Editörde blok arası boşluk (`nomaiUyapBlockGap`); CDATA sonu ayrıca `nomaiUyapParagraphEnd`. */
 export const UYAP_IMPORT_BLOCK_GAP_MARGIN = '0.65em';
 

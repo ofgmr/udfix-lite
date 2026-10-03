@@ -12,7 +12,7 @@ import {
     isUdfixEditorTabPanelId,
 } from '../../utils/dockviewNoteTab';
 import { finalizeNoteEditorIfRegistered } from '../../utils/noteEditorCloseRegistry';
-import { getCommentIdsInDocumentOrder, getStoredComments } from '../../utils/commentUtils';
+import { collectCommentsForUdfExport } from '../../utils/uyapComments';
 import { useNotesStore } from '../../stores/useNotesStore';
 import { exportToDOCX, exportToPDF, sanitizeExportBaseName } from '../../utils/exportUtils';
 import { exportEditorToMarkdown } from '../../utils/markdownExport';
@@ -309,28 +309,7 @@ export const DockviewTab = (props: DockviewTabProps) => {
             }, buildPageFormatFromMargins(getPaginationMargins(editor), settings));
 
             const docId = getPanelDocumentId();
-            const commentsForXml: Array<{
-                id: string;
-                text: string;
-                author?: string;
-                resolved?: boolean;
-                date?: string;
-            }> = [];
-            if (docId) {
-                const stored = getStoredComments(docId);
-                for (const id of getCommentIdsInDocumentOrder(editor)) {
-                    const c = stored[id];
-                    if (c?.text?.trim()) {
-                        commentsForXml.push({
-                            id,
-                            text: c.text,
-                            author: c.author,
-                            resolved: c.resolved,
-                            date: c.date,
-                        });
-                    }
-                }
-            }
+            const commentsForXml = docId ? collectCommentsForUdfExport(editor, docId) : [];
             const stagedSignRequest = docId ? consumeUyapSignRequestForExport(docId) : null;
             signingAttempt = Boolean(stagedSignRequest);
             if (stagedSignRequest) {

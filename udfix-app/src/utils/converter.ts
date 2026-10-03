@@ -32,6 +32,8 @@ import {
     uyapImagesToHtml,
     uyapImagesToTipTapNodes,
 } from './uyapImageHtml';
+import type { UyapImportedComment } from './uyapComments';
+import { importedCommentPayload, splitTextByCommentRanges } from './uyapComments';
 
 /** xml2js child node when `explicitChildren` + `preserveChildrenOrder` are enabled. */
 type XmlOrderedChild = { '#name'?: string } & Record<string, unknown>;
@@ -80,12 +82,16 @@ function getRawText(template: XmlParseResult['template']): string {
     return typeof raw === 'string' ? raw : '';
 }
 
-function buildTemplateContext(template: XmlParseResult['template']): UyapTemplateContext {
+function buildTemplateContext(
+    template: XmlParseResult['template'],
+    comments?: UyapImportedComment[],
+): UyapTemplateContext {
     const { root, hasDataSection } = buildUyapDataRoot(template.data);
     return {
         rawText: getRawText(template),
         dataRoot: root,
         hasDataSection,
+        comments: comments && comments.length > 0 ? comments : undefined,
     };
 }
 
@@ -122,11 +128,52 @@ function marksFromSpanAttrs(attrs: Record<string, string | undefined> | undefine
     return marks;
 }
 
+function explodeSpansForComments(
+    spans: ReturnType<typeof renderUyapParagraphSpans>,
+    comments: UyapImportedComment[] | undefined,
+): ReturnType<typeof renderUyapParagraphSpans> {
+    if (!comments?.length) return spans;
+    const payloads: Record<string, string> = {};
+    for (const comment of comments) {
+        payloads[comment.id] = importedCommentPayload(comment);
+    }
+    const out: ReturnType<typeof renderUyapParagraphSpans> = [];
+    for (const span of spans) {
+        if (span.html || !span.text) {
+            out.push(span);
+            continue;
+        }
+        const parts = splitTextByCommentRanges(span.text, span.cdataStart, comments);
+        let offset = 0;
+        for (const part of parts) {
+            out.push({
+                ...span,
+                text: part.text,
+                cdataStart: span.cdataStart != null ? span.cdataStart + offset : undefined,
+                commentIds: part.commentIds,
+                commentPayloads: part.commentIds.length > 0 ? payloads : undefined,
+            });
+            offset += part.text.length;
+        }
+    }
+    return out;
+}
+
 function spansToTiptapNodes(spans: ReturnType<typeof renderUyapParagraphSpans>): TiptapNode[] {
     const nodes: TiptapNode[] = [];
     for (const span of spans) {
         if (!span.text) continue;
         const marks = marksFromSpanAttrs(span.attrs);
+        for (const commentId of span.commentIds ?? []) {
+            const payload = span.commentPayloads?.[commentId];
+            marks.push({
+                type: 'comment',
+                attrs: {
+                    commentId,
+                    ...(payload ? { commentPayload: payload } : {}),
+                },
+            });
+        }
         nodes.push({
             type: 'text',
             text: span.text,
@@ -163,9 +210,14 @@ function createUyapXmlParser(extra?: ConstructorParameters<typeof xml2js.Parser>
     return new xml2js.Parser({ ...XML2JS_SAFE_OPTIONS, ...extra });
 }
 
-/** Nested `<table>` inside a cell forces HTML import path. */
+/** Nested `<table>` inside a cell forces HTML import path. Sibling tables must not match. */
 export function udfXmlHasNestedTable(xmlData: string): boolean {
-    return /<cell[\s>][\s\S]*?<table[\s>]/i.test(xmlData);
+    const cellRe = /<cell\b[^>]*>([\s\S]*?)<\/cell>/gi;
+    for (const match of xmlData.matchAll(cellRe)) {
+        const inner = match[1] ?? '';
+        if (/<table[\s>]/i.test(inner)) return true;
+    }
+    return false;
 }
 
 async function parseParagraphFragment(xml: string): Promise<XmlParagraph | null> {
@@ -240,8 +292,15 @@ function renderTableHtml(table: XmlTable, ctx: UyapTemplateContext): string {
         ? `--table-border-width: 0px; --table-border-style: none; ${tableStyle}`
         : tableStyle;
     const dataBorder = borderNone ? ' data-uyap-border="none"' : '';
-    let html = `<table${tableClass}${dataBorder} style="${styleValue}">`;
+    const dataSpans = tAttrs.columnSpans
+        ? ` data-uyap-column-spans="${escapeHtml(String(tAttrs.columnSpans))}"`
+        : '';
+    const dataName = tAttrs.tableName
+        ? ` data-uyap-table-name="${escapeHtml(String(tAttrs.tableName))}"`
+        : '';
+    let html = `<table${tableClass}${dataBorder}${dataSpans}${dataName} style="${styleValue}">`;
     html += tableColumnWidthStyles(tAttrs.columnSpans, columnCount);
+    html += '<tbody>';
 
     const rows = table.row ?? [];
     const expandRows = expandTableRowsForRepeatingData(rows, ctx);
@@ -277,7 +336,7 @@ function renderTableHtml(table: XmlTable, ctx: UyapTemplateContext): string {
         }
         html += '</tr>';
     }
-    html += '</table>';
+    html += '</tbody></table>';
     return html;
 }
 
@@ -366,18 +425,19 @@ function renderTableTipTap(table: XmlTable, ctx: UyapTemplateContext): TiptapNod
 
 function renderParagraphHtml(p: XmlParagraph, ctx: UyapTemplateContext): string {
     const { spans, blockGapAfter, paragraphEnd } = finalizeUyapParagraphText(renderUyapParagraphSpans(p, ctx));
+    const commented = explodeSpansForComments(spans, ctx.comments);
     const hasImages = paragraphHasImages(p);
-    if (!paragraphHasVisibleContent(spans) && !hasImages) {
+    if (!paragraphHasVisibleContent(commented) && !hasImages) {
         return '';
     }
 
-    let pContent = spansToHtml(spans);
+    let pContent = spansToHtml(commented);
     if (hasImages) {
         pContent += uyapImagesToHtml(p.image);
     }
 
     const pStyle = uyapParagraphStyleForHtml(p, {
-        hasTabCharacters: uyapParagraphHasTabCharacters(spans),
+        hasTabCharacters: uyapParagraphHasTabCharacters(commented),
         blockGapAfter,
     });
     const extraAttrs = uyapParagraphHtmlAttrs(p, { blockGapAfter, paragraphEnd });
@@ -391,8 +451,9 @@ function renderParagraphHtml(p: XmlParagraph, ctx: UyapTemplateContext): string 
 
 function renderParagraphTipTap(p: XmlParagraph, ctx: UyapTemplateContext): TiptapNode | null {
     const { spans, blockGapAfter, paragraphEnd } = finalizeUyapParagraphText(renderUyapParagraphSpans(p, ctx));
+    const commented = explodeSpansForComments(spans, ctx.comments);
     const imageNodes = uyapImagesToTipTapNodes(p.image);
-    if (!paragraphHasVisibleContent(spans) && imageNodes.length === 0) {
+    if (!paragraphHasVisibleContent(commented) && imageNodes.length === 0) {
         return null;
     }
 
@@ -405,7 +466,7 @@ function renderParagraphTipTap(p: XmlParagraph, ctx: UyapTemplateContext): Tipta
     const tiptapBlock: TiptapNode = {
         type: isHeading ? 'heading' : 'paragraph',
         attrs: isHeading ? { ...attrs, level: uyapHeadingLevel(p) } : attrs,
-        content: [...spansToTiptapNodes(spans), ...imageNodes],
+        content: [...spansToTiptapNodes(commented), ...imageNodes],
     };
 
     return tiptapBlock;
@@ -451,7 +512,10 @@ async function renderUyapBandToHtml(
     return `<${bandTag} class="udf-${bandTag}-band">${inner}</${bandTag}>`;
 }
 
-export async function parseUyapToTipTap(xmlData: string): Promise<TiptapDoc | null> {
+export async function parseUyapToTipTap(
+    xmlData: string,
+    options?: { comments?: UyapImportedComment[] },
+): Promise<TiptapDoc | null> {
     const parser = createUyapXmlParser();
 
     try {
@@ -462,7 +526,7 @@ export async function parseUyapToTipTap(xmlData: string): Promise<TiptapDoc | nu
             return null;
         }
 
-        const ctx = buildTemplateContext(result.template);
+        const ctx = buildTemplateContext(result.template, options?.comments);
         const tiptapDoc: TiptapDoc = {
             type: 'doc',
             content: [],
@@ -501,6 +565,7 @@ export async function parseUyapToTipTap(xmlData: string): Promise<TiptapDoc | nu
 export interface ParseUyapToHtmlOptions {
     /** Viewer-only. Editor import must omit this — QR stays export overlay, not TipTap HTML. */
     verification?: UyapVerificationMeta | null;
+    comments?: UyapImportedComment[];
 }
 
 export async function parseUyapToHtml(
@@ -517,7 +582,7 @@ export async function parseUyapToHtml(
             return null;
         }
 
-        const ctx = buildTemplateContext(result.template);
+        const ctx = buildTemplateContext(result.template, options?.comments);
         let html = '<div class="udf-content">';
 
         const renderParagraph = (p: XmlParagraph) => renderParagraphHtml(p, ctx);

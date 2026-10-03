@@ -237,6 +237,162 @@
         "rank": "Owner",
         "icon": "udf.icns",
         "mimeType": "application/x-uyap-udf"
+      },
+      {
+        "ext": "eyp",
+        "name": "EYP Paketi",
+        "description": "Elektronik Yazışma Paketi",
+        "role": "Viewer",
+        "rank": "Alternate",
+        "mimeType": "application/x-eyp"
+      },
+      {
+        "ext": "pdf",
+        "name": "PDF Belgesi",
+        "role": "Viewer",
+        "rank": "Alternate",
+        "mimeType": "application/pdf"
+      },
+      {
+        "ext": [
+          "md",
+          "markdown"
+        ],
+        "name": "Markdown Belgesi",
+        "role": "Viewer",
+        "rank": "Alternate",
+        "mimeType": "text/markdown"
+      },
+      {
+        "ext": [
+          "docx",
+          "doc"
+        ],
+        "name": "Word Belgesi",
+        "role": "Viewer",
+        "rank": "Alternate",
+        "mimeType": "application/vnd.openxmlformats-officedocument.wordprocessingml.document"
+      },
+      {
+        "ext": "odt",
+        "name": "OpenDocument Metin",
+        "role": "Viewer",
+        "rank": "Alternate",
+        "mimeType": "application/vnd.oasis.opendocument.text"
+      },
+      {
+        "ext": "rtf",
+        "name": "RTF Belgesi",
+        "role": "Viewer",
+        "rank": "Alternate",
+        "mimeType": "text/rtf"
+      },
+      {
+        "ext": "txt",
+        "name": "Metin Belgesi",
+        "role": "Viewer",
+        "rank": "Alternate",
+        "mimeType": "text/plain"
+      },
+      {
+        "ext": [
+          "xlsx",
+          "xls"
+        ],
+        "name": "Excel Çalışma Kitabı",
+        "role": "Viewer",
+        "rank": "Alternate",
+        "mimeType": "application/vnd.openxmlformats-officedocument.spreadsheetml.sheet"
+      },
+      {
+        "ext": "csv",
+        "name": "CSV Tablosu",
+        "role": "Viewer",
+        "rank": "Alternate",
+        "mimeType": "text/csv"
+      },
+      {
+        "ext": [
+          "jpg",
+          "jpeg"
+        ],
+        "name": "JPEG Görüntü",
+        "role": "Viewer",
+        "rank": "Alternate",
+        "mimeType": "image/jpeg"
+      },
+      {
+        "ext": "png",
+        "name": "PNG Görüntü",
+        "role": "Viewer",
+        "rank": "Alternate",
+        "mimeType": "image/png"
+      },
+      {
+        "ext": "webp",
+        "name": "WebP Görüntü",
+        "role": "Viewer",
+        "rank": "Alternate",
+        "mimeType": "image/webp"
+      },
+      {
+        "ext": "gif",
+        "name": "GIF Görüntü",
+        "role": "Viewer",
+        "rank": "Alternate",
+        "mimeType": "image/gif"
+      },
+      {
+        "ext": "bmp",
+        "name": "BMP Görüntü",
+        "role": "Viewer",
+        "rank": "Alternate",
+        "mimeType": "image/bmp"
+      },
+      {
+        "ext": "svg",
+        "name": "SVG Görüntü",
+        "role": "Viewer",
+        "rank": "Alternate",
+        "mimeType": "image/svg+xml"
+      },
+      {
+        "ext": [
+          "tiff",
+          "tif"
+        ],
+        "name": "TIFF Görüntü",
+        "role": "Viewer",
+        "rank": "Alternate",
+        "mimeType": "image/tiff"
+      },
+      {
+        "ext": "eml",
+        "name": "E-posta",
+        "role": "Viewer",
+        "rank": "Alternate",
+        "mimeType": "message/rfc822"
+      },
+      {
+        "ext": "msg",
+        "name": "Outlook E-posta",
+        "role": "Viewer",
+        "rank": "Alternate",
+        "mimeType": "application/vnd.ms-outlook"
+      },
+      {
+        "ext": "zip",
+        "name": "ZIP Arşivi",
+        "role": "Viewer",
+        "rank": "Alternate",
+        "mimeType": "application/zip"
+      },
+      {
+        "ext": "jar",
+        "name": "JAR Arşivi",
+        "role": "Viewer",
+        "rank": "Alternate",
+        "mimeType": "application/java-archive"
       }
     ],
     "directories": {
@@ -301,6 +457,23 @@
             "UTTypeIconFiles": [
               "udf.icns"
             ]
+          },
+          {
+            "UTTypeIdentifier": "com.ofg.udfix.eyp",
+            "UTTypeDescription": "EYP Paketi",
+            "UTTypeConformsTo": [
+              "public.data",
+              "public.content",
+              "public.zip-archive"
+            ],
+            "UTTypeTagSpecification": {
+              "public.filename-extension": [
+                "eyp"
+              ],
+              "public.mime-type": [
+                "application/x-eyp"
+              ]
+            }
           }
         ]
       }

@@ -591,6 +591,9 @@ const CommandPalette: React.FC = () => {
                         focusSearchInput();
                     }
                 }}
+                onFocusOutside={(event) => {
+                    event.preventDefault();
+                }}
             >
                 <DialogTitle className="sr-only">Komut paleti</DialogTitle>
                 <Tabs

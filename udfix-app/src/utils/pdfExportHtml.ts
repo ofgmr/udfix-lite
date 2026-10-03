@@ -4,6 +4,7 @@ import { compileHfHtml, type CompileHfOptions } from './compileHfHtml';
 import { EDITOR_PAGE_WIDTH_PX } from './editorLayout';
 import { hoistPinnedPrintChromeFromHtml } from './pdfExportPaginationChrome';
 import { stripNestedStyleTagTokens } from './stripHtmlTags';
+import { UYAP_SILENT_TAB_SIZE_CSS } from './uyapParagraphText';
 
 /** Page / section breaks + optional continuous section marker */
 export function getUdfixBreakAndSectionCss(): string {
@@ -156,7 +157,10 @@ export function buildPdfBodyTypographyDeclsFromProseMirror(pmRoot: HTMLElement):
         { value: cs.fontOpticalSizing, decl: (v) => `font-optical-sizing: ${v}` },
         { value: cs.textRendering, decl: (v) => `text-rendering: ${v}` },
         { value: cs.wordSpacing, decl: (v) => `word-spacing: ${v}` },
-        { value: cs.tabSize, decl: (v) => `tab-size: ${v}` },
+        // Do not snapshot `tab-size` here: computed style is px and printToPDF
+        // would place double-tab stops differently than the editor's 2.5cm.
+        // Native body CSS pins `UYAP_SILENT_TAB_SIZE_CSS`; TabSet paragraphs keep
+        // their inline `tab-size`.
         // `font-synthesis` is read-only on some platforms; guarding to a string
         // keeps the snapshot defensive across Electron versions.
         { value: (cs as unknown as { fontSynthesis?: string }).fontSynthesis, decl: (v) => `font-synthesis: ${v}` },
@@ -187,7 +191,7 @@ export function getPaginationPlusPdfCss(): string {
       white-space: pre-wrap;
       word-wrap: break-word;
       /* Match index.css — print window does not load app stylesheet; tabs collapse without this. */
-      tab-size: 2.5cm;
+      tab-size: ${UYAP_SILENT_TAB_SIZE_CSS};
     }
     .ProseMirror.rm-with-pagination {
       box-sizing: border-box !important;
@@ -630,7 +634,39 @@ export function buildNativeBodyPdfHtml(input: {
       -webkit-print-color-adjust: exact;
       print-color-adjust: exact;
     }
-    .udf-pdf-body p { margin: 0; white-space: pre-wrap; word-wrap: break-word; }
+    /*
+     * Silent tabs must match the editor (.ProseMirror { tab-size: 2.5cm }).
+     * Chromium's default is 8 spaces; computed px from the canvas also drifts
+     * in printToPDF. Length units stay physical on A4. Inline TabSet tab-size
+     * on a paragraph still wins.
+     */
+    .udf-pdf-body {
+      tab-size: ${UYAP_SILENT_TAB_SIZE_CSS};
+      white-space: pre-wrap;
+      word-wrap: break-word;
+    }
+    .udf-pdf-body p,
+    .udf-pdf-body li,
+    .udf-pdf-body td,
+    .udf-pdf-body th {
+      margin: 0;
+      white-space: pre-wrap;
+      word-wrap: break-word;
+    }
+    .udf-pdf-body :where(h1, h2, h3, h4, h5, h6) {
+      white-space: pre-wrap;
+      word-wrap: break-word;
+      font-weight: 600;
+      line-height: 1.28;
+      margin-top: 0.45em;
+      margin-bottom: 0.35em;
+    }
+    .udf-pdf-body h1 { font-size: 1.875rem; font-weight: 700; letter-spacing: -0.02em; }
+    .udf-pdf-body h2 { font-size: 1.5rem; font-weight: 700; }
+    .udf-pdf-body h3 { font-size: 1.25rem; font-weight: 600; }
+    .udf-pdf-body h4 { font-size: 1.125rem; font-weight: 600; }
+    .udf-pdf-body h5 { font-size: 1rem; font-weight: 600; }
+    .udf-pdf-body h6 { font-size: 0.875rem; font-weight: 600; }
     table, .table-plus, .table-plus-wrapper, tr, td, th {
       break-inside: auto;
       page-break-inside: auto;

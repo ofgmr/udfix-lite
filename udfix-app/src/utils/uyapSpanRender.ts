@@ -61,15 +61,25 @@ export function spansToHtml(spans: UyapRenderedSpan[]): string {
         // TipTap HTML parse collapses raw newlines inside <p>; <br> survives.
         const escaped = escapeHtml(span.text).replace(/\n/g, '<br>');
 
+        let inner: string;
         if (span.attrs?.superscript === 'true') {
-            html += `<sup style="${spanStyle}">${escaped}</sup>`;
+            inner = `<sup style="${spanStyle}">${escaped}</sup>`;
         } else if (span.attrs?.subscript === 'true') {
-            html += `<sub style="${spanStyle}">${escaped}</sub>`;
+            inner = `<sub style="${spanStyle}">${escaped}</sub>`;
         } else if (spanStyle) {
-            html += `<span style="${spanStyle}">${escaped}</span>`;
+            inner = `<span style="${spanStyle}">${escaped}</span>`;
         } else {
-            html += escaped;
+            inner = escaped;
         }
+
+        if (span.commentIds?.length) {
+            for (const id of span.commentIds) {
+                const payload = span.commentPayloads?.[id];
+                const payloadAttr = payload ? ` data-comment-payload="${escapeHtml(payload)}"` : '';
+                inner = `<span data-comment-id="${escapeHtml(id)}" class="comment-highlight"${payloadAttr}>${inner}</span>`;
+            }
+        }
+        html += inner;
     }
     return html;
 }

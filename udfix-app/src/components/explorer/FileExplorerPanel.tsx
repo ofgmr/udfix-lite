@@ -22,13 +22,14 @@ import {
     ContextMenuItem,
     ContextMenuSeparator,
 } from '../ui/context-menu';
-import { Dialog, DialogContent, DialogFooter, DialogHeader, DialogTitle } from '../ui/dialog';
+import { Dialog, DialogContent, DialogDescription, DialogFooter, DialogHeader, DialogTitle } from '../ui/dialog';
 import { Input } from '../ui/input';
 import { Button } from '../ui/button';
 import {
     AlertDialog,
     AlertDialogCancel,
     AlertDialogContent,
+    AlertDialogDescription,
     AlertDialogFooter,
     AlertDialogHeader,
     AlertDialogTitle,
@@ -938,6 +939,8 @@ export const FileExplorerPanel: React.FC = () => {
         [clearPendingRename, openFile, renamePath, renameValue, renameCommit, scheduleDelayedRename, selectedPath, starred, refreshAll, createFolderInline, showDateColumn, startRename, showInFolder],
     );
 
+    const deleteConfirmNode = deleteConfirmPath ? findByPath(treeData, deleteConfirmPath) : null;
+
     return (
         <TooltipProvider delayDuration={250}>
         <div className="flex h-full min-h-0 shrink-0 [contain:layout]" style={{ width: panelWidth }}>
@@ -1129,6 +1132,11 @@ export const FileExplorerPanel: React.FC = () => {
                             {inputDialog?.kind === 'tagAdd' && 'Etiket ekle'}
                             {inputDialog?.kind === 'tagRemove' && 'Etiket kaldır'}
                         </DialogTitle>
+                        <DialogDescription>
+                            {inputDialog?.kind === 'tagAdd'
+                                ? 'Bu öğeye eklenecek etiket adını yazın.'
+                                : 'Kaldırılacak etiket adını yazın.'}
+                        </DialogDescription>
                     </DialogHeader>
                     <Input
                         variant="glass"
@@ -1158,7 +1166,12 @@ export const FileExplorerPanel: React.FC = () => {
             <AlertDialog open={deleteConfirmPath !== null} onOpenChange={(o) => !o && setDeleteConfirmPath(null)}>
                 <AlertDialogContent variant="glass" className="glass-panel border-white/10">
                     <AlertDialogHeader>
-                        <AlertDialogTitle> {deleteConfirmPath ? findByPath(treeData, deleteConfirmPath)?.name ?? deleteConfirmPath : ''} silinsin mi? </AlertDialogTitle>
+                        <AlertDialogTitle> {deleteConfirmNode?.name ?? deleteConfirmPath ?? ''} silinsin mi? </AlertDialogTitle>
+                        <AlertDialogDescription>
+                            {deleteConfirmNode?.isDirectory
+                                ? 'Klasör ve içindeki dosyalar silinecek. Bu işlem geri alınamaz.'
+                                : 'Bu dosya silinecek. Bu işlem geri alınamaz.'}
+                        </AlertDialogDescription>
                     </AlertDialogHeader>
                     <AlertDialogFooter>
                         <AlertDialogCancel>İptal</AlertDialogCancel>

@@ -20,5 +20,9 @@ export const UDFIX_RAIL_LOGO_BY_THEME = Object.fromEntries(
     ]),
 ) as Record<ThemePalette, { light: string; dark: string }>;
 
+export function getUdfixRailLogoPair(palette: ThemePalette): { light: string; dark: string } {
+    return UDFIX_RAIL_LOGO_BY_THEME[palette] ?? UDFIX_RAIL_LOGO_BY_THEME.gavel;
+}
+
 /** About dialog — full light wordmark. */
 export const UDFIX_ABOUT_LOGO_URL = brand(brandingManifest.aboutLogoSvg);

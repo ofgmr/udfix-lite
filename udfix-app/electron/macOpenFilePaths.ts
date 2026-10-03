@@ -1,7 +1,23 @@
 import path from 'path';
+import {
+    isMacViewerFilePath,
+    isUdfFilePath,
+    resolveMacOpenExtension,
+} from './macViewerFileTypes';
 
-export function isUdfFilePath(filePath: string): boolean {
-    return path.extname(filePath).toLowerCase() === '.udf';
+export { isMacViewerFilePath, isUdfFilePath, resolveMacOpenExtension };
+
+export type MacOpenableKind = 'udf' | 'viewer';
+
+export type MacOpenablePath = {
+    kind: MacOpenableKind;
+    path: string;
+};
+
+export function classifyMacOpenPath(filePath: string): MacOpenableKind | null {
+    if (isUdfFilePath(filePath)) return 'udf';
+    if (isMacViewerFilePath(filePath)) return 'viewer';
+    return null;
 }
 
 export function normalizeOpenPath(rawPath: string): string | null {
@@ -15,14 +31,22 @@ export function normalizeOpenPath(rawPath: string): string | null {
     }
 }
 
-export function collectUdfPathsFromArgv(argv: string[]): string[] {
-    const out: string[] = [];
+export function collectOpenablePathsFromArgv(argv: string[]): MacOpenablePath[] {
+    const out: MacOpenablePath[] = [];
     for (const arg of argv) {
         if (arg.startsWith('-')) continue;
         const normalized = normalizeOpenPath(arg);
-        if (normalized && isUdfFilePath(normalized) && !out.includes(normalized)) {
-            out.push(normalized);
-        }
+        if (!normalized) continue;
+        const kind = classifyMacOpenPath(normalized);
+        if (!kind) continue;
+        if (out.some((item) => item.path === normalized)) continue;
+        out.push({ kind, path: normalized });
     }
     return out;
+}
+
+export function collectUdfPathsFromArgv(argv: string[]): string[] {
+    return collectOpenablePathsFromArgv(argv)
+        .filter((item) => item.kind === 'udf')
+        .map((item) => item.path);
 }

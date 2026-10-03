@@ -1,4 +1,5 @@
 import { normalizeHfColumnHtmlForExport } from './normalizeHfColumnHtml';
+import { stripHtmlTags } from './stripHtmlTags';
 
 /**
  * compileHfHtml.ts
@@ -158,6 +159,17 @@ function resolveColumnTexts(opts: CompileHfOptions): ColumnTexts {
     };
 }
 
+/** True when a compiled column would paint something (text, image, or a page token). */
+function hfColumnHasVisibleContent(html: string): boolean {
+    const s = String(html || '').trim();
+    if (!s) return false;
+    if (/<(img|svg)\b/i.test(s)) return true;
+    if (/\{(?:page|total|totalPages|date|title)\}/i.test(s)) return true;
+    if (/data-type\s*=\s*["']variable["']/i.test(s)) return true;
+    const text = stripHtmlTags(s).replace(/&nbsp;/gi, ' ').replace(/\s+/g, ' ').trim();
+    return text.length > 0;
+}
+
 const COL_BASE = `min-width:0;box-sizing:border-box;overflow:visible;padding:0 ${HF_COLUMN_GAP_PX / 2}px`;
 
 /** Returns the flex styles for each layout */
@@ -218,8 +230,12 @@ export function compileHfHtml(opts: CompileHfOptions): string {
 
     const { left: rLeft, center: rCenter, right: rRight } = resolveColumnTexts(opts);
 
-    // If all three columns are empty, return empty string (don't render empty bar)
-    if (!rLeft && !rCenter && !rRight) return '';
+    // Empty `<p></p>` from mini-editors is not a real band. Rendering it still
+    // emits a flex box + separator `border-top` that collapses to a 1px spec at
+    // the footer’s top-left in the editor and in PDF/UDF exports.
+    if (!hfColumnHasVisibleContent(rLeft) && !hfColumnHasVisibleContent(rCenter) && !hfColumnHasVisibleContent(rRight)) {
+        return '';
+    }
 
     const col = getColStyles(layout);
 
@@ -244,6 +260,7 @@ export function compileHfHtml(opts: CompileHfOptions): string {
         'align-items:flex-start',
         `gap:${HF_COLUMN_GAP_PX}px`,
         'width:100%',
+        'min-width:100%',
         'box-sizing:border-box',
         'font-family:Inter,sans-serif',
         'font-size:10px',
@@ -289,7 +306,9 @@ function getDocxColumnWidths(layout: CompileHfOptions['layout']): [number, numbe
 export function compileHfHtmlForDocx(opts: CompileHfOptions): string {
     const { layout, separatorColor, separatorWidth, showSeparator, indent = 0, isHeader = true } = opts;
     const { left, center, right } = resolveColumnTexts(opts);
-    if (!left && !center && !right) return '';
+    if (!hfColumnHasVisibleContent(left) && !hfColumnHasVisibleContent(center) && !hfColumnHasVisibleContent(right)) {
+        return '';
+    }
 
     const [wLeft, wCenter, wRight] = getDocxColumnWidths(layout);
     const sepColor = showSeparator && (separatorColor?.trim() || 'rgba(0, 0, 0, 0.3)');

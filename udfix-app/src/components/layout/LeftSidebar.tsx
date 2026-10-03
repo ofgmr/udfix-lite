@@ -11,7 +11,7 @@ import { formatShortcutKeys } from '../../shortcuts/format';
 import { getRegistryEntry } from '../../shortcuts/registry';
 import { openCommandPalette } from './commandPaletteEvents';
 import { NotificationBell } from './NotificationBell';
-import { UDFIX_RAIL_LOGO_BY_THEME } from '../../branding/udfixBrandAssets';
+import { getUdfixRailLogoPair } from '../../branding/udfixBrandAssets';
 import { useShowUserGuidanceLabels } from '../../hooks/useShowUserGuidanceLabels';
 import { GuidanceRailButtonContent, guidanceRailSurfaceClass } from '../ui/userGuidance';
 
@@ -41,7 +41,7 @@ function UdfixRailLogo() {
     const palette = useThemeStore((s) => s.palette);
     const isDarkMode = useResolvedDarkMode();
     const showGuidance = useShowUserGuidanceLabels();
-    const logoPair = UDFIX_RAIL_LOGO_BY_THEME[palette];
+    const logoPair = getUdfixRailLogoPair(palette);
     const logoSrc = isDarkMode ? logoPair.dark : logoPair.light;
     const commandPaletteShortcut = formatShortcutKeys(getRegistryEntry('command-palette')!.combo);
 

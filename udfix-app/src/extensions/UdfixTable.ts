@@ -1,8 +1,10 @@
 import { TablePlus } from 'tiptap-table-plus'
+import { TableCommandExtension } from 'tiptap-table-plus/dist/TableCommandExtension.js'
 import { TablePlusNodeView } from 'tiptap-table-plus/dist/pagination/TablePlusNodeView.js'
 import type { Node as PmNode } from '@tiptap/pm/model'
 import type { Editor } from '@tiptap/core'
 import { tableEditing, mergeCells, splitCell } from '@tiptap/pm/tables'
+import { UdfixTableRowGroup } from './UdfixTableRowGroup'
 
 /** Sync border attrs to the real DOM table (TablePlus uses a custom node view). */
 class UdfixTableNodeView extends TablePlusNodeView {
@@ -38,6 +40,13 @@ class UdfixTableNodeView extends TablePlusNodeView {
 
 export const UdfixTable = TablePlus.extend({
     name: 'table',
+
+    addExtensions() {
+        const inherited = (this.parent?.() ?? []).filter(
+            (ext) => ext.name !== 'tableRowGroup' && ext.name !== 'tableCommandExtension',
+        )
+        return [UdfixTableRowGroup, ...inherited, TableCommandExtension]
+    },
 
     addOptions() {
         const parentOpts = this.parent?.() || {}
@@ -86,6 +95,36 @@ export const UdfixTable = TablePlus.extend({
                     return val ? val.trim() : 'solid';
                 },
                 renderHTML: () => ({}),
+            },
+            tableName: {
+                default: null,
+                parseHTML: (element: HTMLElement) => element.getAttribute('data-uyap-table-name'),
+                renderHTML: (attributes: Record<string, unknown>) => {
+                    const v = attributes.tableName;
+                    if (typeof v !== 'string' || !v.trim()) return {};
+                    return { 'data-uyap-table-name': v };
+                },
+            },
+            columnSpans: {
+                default: null,
+                parseHTML: (element: HTMLElement) => element.getAttribute('data-uyap-column-spans'),
+                renderHTML: (attributes: Record<string, unknown>) => {
+                    const v = attributes.columnSpans;
+                    if (typeof v !== 'string' || !v.trim()) return {};
+                    return { 'data-uyap-column-spans': v };
+                },
+            },
+            border: {
+                default: null,
+                parseHTML: (element: HTMLElement) =>
+                    element.getAttribute('data-uyap-border') === 'none' ||
+                    element.classList.contains('uyap-border-none')
+                        ? 'borderNone'
+                        : element.getAttribute('data-uyap-border'),
+                renderHTML: (attributes: Record<string, unknown>) => {
+                    if (attributes.border === 'borderNone') return { 'data-uyap-border': 'none' };
+                    return {};
+                },
             },
         }
     },

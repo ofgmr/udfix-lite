@@ -4,8 +4,8 @@ import { getStoredComments, saveStoredComments } from '../utils/commentUtils';
 
 /**
  * Single source of truth for comment metadata (text, replies, resolved) per document.
- * Persists to localStorage (`nomai-comments-${documentId}`); can later be swapped for IPC/SQLite
- * without changing UI components.
+ * localStorage (`nomai-comments-${documentId}`) is the live cache; document HTML/JSON
+ * `data-comment-payload` and UDF `comments.xml` are the durable copies.
  */
 interface DocumentCommentsState {
     documentId: string;

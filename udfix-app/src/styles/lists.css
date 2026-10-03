@@ -142,42 +142,75 @@
 }
 
 /*
- * Pagination içerik sütununda: işaretçiyi hafif içe çek — tam -100% sol marj çizgisinin dışına taşmasın.
- * (Liste marginLeft / ruler ile uyum)
+ * PaginationPlus `.page` / `.breaker` are sibling floats. `break-inside: avoid-page`
+ * is ignored on screen (not paged media). A normal `li` can start in the leftover
+ * strip above the footer float while its inner `<p>` wraps to the next page — the
+ * absolutely positioned `::before` marker stays with the `li` top (number in the
+ * footer, body on the next sheet).
+ *
+ * `rm-with-pagination` is on `.ProseMirror` itself, not an ancestor.
  */
-.rm-with-pagination .ProseMirror ol li::before,
-.rm-with-pagination .ProseMirror ul:not([data-type="taskList"]) > li::before {
-    width: var(--list-marker-width, 34px);
-    min-width: var(--list-marker-width, 34px);
-    padding-right: 8px;
-}
-
-/* Sayfa içi sütun: liste gövdesi sağ sayfa marjı dışına taşmasın */
-.rm-with-pagination .ProseMirror :is(ol, ul:not([data-type="taskList"])) {
+.ProseMirror.rm-with-pagination :is(ol, ul:not([data-type="taskList"])) {
     max-width: 100%;
     box-sizing: border-box;
-    /* Prevent horizontal overflow at container level */
     overflow-x: visible;
 }
 
-.rm-with-pagination .ProseMirror :is(ol, ul:not([data-type="taskList"])) > li {
+/*
+ * Numbered items: flex + baseline so `::before` shares the first line of `<p>`
+ * (absolute `top: 0.14em` / `line-height: 1.35` cannot track UYAP line-height).
+ * Flex container is a BFC, so the whole item (marker + body) still cannot sit
+ * in the leftover strip above `.breaker`. Hang the marker in `--t-ml` via
+ * negative margin — same gutter as `right: 100%`.
+ */
+.ProseMirror.rm-with-pagination ol li {
+    display: flex;
+    flex-wrap: wrap;
+    align-items: first baseline;
     box-sizing: border-box;
-    max-width: 100%;
-    /* Ensure nested lists don't grow beyond parent */
+    width: 100%;
+    max-width: calc(100% - var(--t-ml, 40px));
     overflow-wrap: break-word;
     word-break: break-word;
 }
 
-/* Sayfa kırığı: mümkünse tek öğeyi ikiye bölmeden sonraki sayfaya taşı (footer bandına süzülmeyi azaltır) */
-.rm-with-pagination .ProseMirror ol > li,
-.rm-with-pagination .ProseMirror ul:not([data-type="taskList"]) > li {
-    break-inside: avoid-page;
-    page-break-inside: avoid;
+.ProseMirror.rm-with-pagination ol li::before {
+    position: static;
+    top: auto;
+    right: auto;
+    flex: 0 0 var(--list-marker-width, 34px);
+    align-self: baseline;
+    line-height: inherit;
+    margin-left: calc(-1 * (var(--list-marker-width, 34px) + 8px));
+    margin-right: 8px;
+    padding-right: 0;
 }
 
-/* Deep nesting protection: max 5 levels, after that prevent further margin growth */
-.rm-with-pagination .ProseMirror ol ol ol ol ol ol,
-.rm-with-pagination .ProseMirror ul:not([data-type="taskList"]) ul:not([data-type="taskList"]) ul:not([data-type="taskList"]) ul:not([data-type="taskList"]) ul:not([data-type="taskList"]) ul:not([data-type="taskList"]) {
+.ProseMirror.rm-with-pagination ol li > :is(p, div, h1, h2, h3, h4, h5, h6) {
+    flex: 1 1 0;
+    min-width: 0;
+    max-width: none;
+}
+
+.ProseMirror.rm-with-pagination ol li > :is(ol, ul) {
+    flex: 1 1 100%;
+}
+
+/*
+ * Unordered items keep native ::marker (`display: list-item`). Independent FC
+ * still prevents footer-split; do not use `display: flex` here.
+ */
+.ProseMirror.rm-with-pagination ul:not([data-type="taskList"]) > li {
+    contain: layout;
+    box-sizing: border-box;
+    width: 100%;
+    max-width: calc(100% - var(--t-ml, 40px));
+    overflow-wrap: break-word;
+    word-break: break-word;
+}
+
+.ProseMirror.rm-with-pagination ol ol ol ol ol ol,
+.ProseMirror.rm-with-pagination ul:not([data-type="taskList"]) ul:not([data-type="taskList"]) ul:not([data-type="taskList"]) ul:not([data-type="taskList"]) ul:not([data-type="taskList"]) ul:not([data-type="taskList"]) {
     --t-ml: 20px !important;
 }
 
