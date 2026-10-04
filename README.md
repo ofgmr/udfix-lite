@@ -11,7 +11,7 @@ YAPAY ZEKA, ABONELİK, BULUTTA İŞLEME YOK.
 UYAP’a geri yükleyeceğiniz UDF’yi yazıp düzenler, müvekkil ve dosyalarınızı yerelde tutar, PDF’den e-postaya kadar dosya ve evrakları uygulamadan çıkmadan görüntüleyebilirsiniz.
 
 🔒 Gizlilik Odaklı: Belgeleriniz ve verileriniz %100 kendi bilgisayarınızda kalır; sunucuya yüklenmez.
-OCR: Yerel (link:https://github.com/teserract)
+OCR: Yerel https://github.com/teserract
 
 !! TÜBİTAK tarafından e-imza servisinin kapatılması ve ücretsiz API olmaması nedeniyle 1 Haziran 2026 itibariyle imzalama yapılamamaktadır.
 
