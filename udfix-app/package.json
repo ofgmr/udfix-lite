@@ -1,9 +1,9 @@
 {
   "name": "udfix-app",
   "private": true,
-  "version": "1.0.0",
+  "version": "1.1.0",
   "udfixVersions": {
-    "lite": "1.0.0"
+    "lite": "1.1.0"
   },
   "license": "Apache-2.0 WITH Commons-Clause",
   "productName": "UDFIX",
