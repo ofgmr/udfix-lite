@@ -1,3 +1,4 @@
+import type { Slice } from '@tiptap/pm/model'
 import type { EditorView } from '@tiptap/pm/view'
 import { useEditor, EditorContent, Editor } from '@tiptap/react'
 import type { JSONContent } from '@tiptap/core'
@@ -45,7 +46,14 @@ import { createUdfixEditorExtensions } from './udfixEditorExtensions'
 import { useUdfixEditorTypographyDefaults } from '../../hooks/useUdfixEditorTypographyDefaults'
 import { useUdfixEditorPageSize } from '../../hooks/useUdfixEditorPageSize'
 import { applySectionNextPageBridge } from '../../utils/paginationMarginSync'
-import { pastePlainMatchingDestination } from '../../utils/editorPaste'
+import {
+    inheritDestinationFormattingOnPaste,
+    keepPastedAttrsOnEmptyTextblock,
+    pastePlainMatchingDestination,
+    promotePreservedLineBreaks,
+    splitPastedLineBreaks,
+} from '../../utils/editorPaste'
+import { sanitizePastedEditorHtml } from '../../utils/pastedHtml'
 import { trySelectListItemNodeForMarkerEditing } from '../../utils/listItemMarkerSelection'
 import { NOMAI_FS_ENTRY_MIME } from '../../utils/processDockviewFileDrop'
 import { useUdfixEditorAutosave } from '../../hooks/useUdfixEditorAutosave'
@@ -226,9 +234,11 @@ const UdfixEditor: React.FC<UdfixEditorProps> = ({
             attributes: {
                 class: 'tiptap focus:outline-none min-h-[297mm]',
             },
-            transformPastedHTML: (html: string) => {
-                return html.replace(/style="[^"]*"/g, '');
-            },
+            transformPastedHTML: (html: string) => sanitizePastedEditorHtml(promotePreservedLineBreaks(html)),
+            transformPasted: (slice: Slice, view: EditorView, plain: boolean) =>
+                splitPastedLineBreaks(inheritDestinationFormattingOnPaste(slice, view.state, plain)),
+            handlePaste: (view: EditorView, _event: ClipboardEvent, slice: Slice) =>
+                keepPastedAttrsOnEmptyTextblock(view, slice),
             handleClick: (view: EditorView, _pos: unknown, event: MouseEvent) => {
                 const target = event.target as HTMLElement;
                 const mentionElement = target.closest('[data-type="mention"]') as HTMLElement | null;

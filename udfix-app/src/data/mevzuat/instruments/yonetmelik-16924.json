@@ -13,7 +13,7 @@
   "tertip": 5,
   "sourceUrl": "https://www.mevzuat.gov.tr/mevzuat?MevzuatNo=16924&MevzuatTur=7&MevzuatTertip=5",
   "kabulTarihi": null,
-  "maddeCount": 30,
+  "maddeCount": 32,
   "maddeler": [
     {
       "id": "yonetmelik:16924:m:1",
@@ -24,13 +24,10 @@
       "preview": "(1) Bu Yönetmeliğin amacı; iş sağlığı ve güvenliği hizmetlerini yürütmek üzere kurulacak işyeri sağlık ve güvenlik birimlerinin kuruluşu ile…",
       "kitap": null,
       "kisim": null,
-      "bolum": "BİRİNCİ BÖLÜM · Amaç, Kapsam, Dayanak ve Tanımlar",
+      "bolum": null,
       "ayirim": null,
-      "maddeBaslik": "Amaç",
-      "sectionPath": [
-        "BİRİNCİ BÖLÜM · Amaç, Kapsam, Dayanak ve Tanımlar",
-        "Amaç"
-      ]
+      "maddeBaslik": null,
+      "sectionPath": []
     },
     {
       "id": "yonetmelik:16924:m:2",
@@ -41,11 +38,10 @@
       "preview": "(1) Bu Yönetmelik, 20/6/2012 tarihli ve 6331 sayılı İş Sağlığı ve Güvenliği Kanunu kapsamında yer alan işyerlerini kapsar.",
       "kitap": null,
       "kisim": null,
-      "bolum": "BİRİNCİ BÖLÜM · Amaç, Kapsam, Dayanak ve Tanımlar",
+      "bolum": null,
       "ayirim": null,
       "maddeBaslik": "Kapsam",
       "sectionPath": [
-        "BİRİNCİ BÖLÜM · Amaç, Kapsam, Dayanak ve Tanımlar",
         "Kapsam"
       ]
     },
@@ -58,11 +54,10 @@
       "preview": "(1) Bu Yönetmelik; İş Sağlığı ve Güvenliği Kanununun 6 ncı, (Değişik ibare:RG-18/12/2014-29209) 8 inci, 24 üncü, 27 nci, 30 uncu ve 31 inci…",
       "kitap": null,
       "kisim": null,
-      "bolum": "BİRİNCİ BÖLÜM · Amaç, Kapsam, Dayanak ve Tanımlar",
+      "bolum": null,
       "ayirim": null,
       "maddeBaslik": "Dayanak",
       "sectionPath": [
-        "BİRİNCİ BÖLÜM · Amaç, Kapsam, Dayanak ve Tanımlar",
         "Dayanak"
       ]
     },
@@ -75,11 +70,10 @@
       "preview": "(1) Bu Yönetmelikte geçen: a) Bakanlık: Çalışma ve Sosyal Güvenlik Bakanlığını, b) Çalışan temsilcisi: İş sağlığı ve güvenliği ile ilgili ça…",
       "kitap": null,
       "kisim": null,
-      "bolum": "BİRİNCİ BÖLÜM · Amaç, Kapsam, Dayanak ve Tanımlar",
+      "bolum": null,
       "ayirim": null,
       "maddeBaslik": "Tanımlar ve kısaltmalar",
       "sectionPath": [
-        "BİRİNCİ BÖLÜM · Amaç, Kapsam, Dayanak ve Tanımlar",
         "Tanımlar ve kısaltmalar"
       ]
     },
@@ -292,7 +286,7 @@
       "maddeKind": "madde",
       "maddeNo": "17",
       "heading": "Madde 17",
-      "text": "(1) (Değişik:RG-18/12/2014-29209) OSGB tarafından yetki belgesi almak amacıyla yapılan başvuru Genel Müdürlükçe en geç on iş günü içinde incelenir. 19/1/2013 tarihli ve 28533 sayılı Resmî Gazete’de yayımlanan Elektronik Tebligat Yönetmeliği çerçevesinde kayıtlı elektronik posta sistemi üzerinden yazılı olarak bildirilen eksiklikler en geç kırk beş gün içinde tamamlanır. Herhangi bir eksikliği bulunmayan başvurular için en geç yirmi iş günü içinde yerinde inceleme yapılır. Yerinde inceleme işlemlerinde tespit edilen eksikliklerin giderilmesi için en fazla kırk beş gün süre verilir. Belirlenen sürelerde eksiklikler giderilmez ise dosya iade edilir ve iadeden itibaren bir yıl boyunca yapılan başvurular, bir yılın tamamlanmasına kadar askıya alınır.\n (2) OSGB’nin bu Yönetmelikte belirtilen şartları taşıması halinde, başvuru dosyasında bildirilen tam süreli çalışanlara ait Sosyal Güvenlik Kurumu işe giriş bildirgesinin Genel Müdürlüğe gönderilmesini takiben başvuru dosyasında belirtilen adres ve unvana münhasıran, en geç on iş günü içerisinde Genel Müdürlükçe Ek-2’deki örneğine uygun yetki belgesi düzenlenir. Başka bir adreste şube açılması istendiği takdirde, aynı usul ve esaslar dâhilinde işlem yapılır.\n (3) (Mülga:RG-18/12/2014-29209)\n (4) OSGB’ler yetki belgesi almadan veya süresi içerisinde vize işlemini tamamlamadan bu Yönetmelik kapsamında belirtilen faaliyetleri yapamazlar.\n (5) OSGB’ler, aşağıda belirtilen hususlara uymak zorundadır.\n a) (Değişik:RG-18/12/2014-29209) Tabela ve basılı evrak, broşür, afiş ve diğer elektronik ortamlarda herhangi bir amaçla kullanılan her türlü yazılı ve görsel dokümanda sadece yetki belgesinde belirtilen isim ve unvan kullanılır.\n b) OSGB’ler tarafından, EK-8’deki örneğine uygun, kurum unvanına göre hazırlanan ve (Değişik ibare:RG-18/12/2014-29209) boy/en oranı 2/3 olan tabela, OSGB’nin bulunduğu binanın uygun bir kısmına veya girişine asılır. Aynı binada, Genel Müdürlükçe yetkilendirilen birden fazla kurum bulunması durumunda, kullanılacak tabela için Genel Müdürlük onayı alınması şartıyla, tüm unvanları gösteren tek bir tabela kullanılabilir. Bakanlık logosu, bu tabela haricinde hiçbir yazılı veya görsel doküman veya ortamda kullanılamaz.\n c) Özel kuruluşlar tarafından, kamu kurum ve kuruluşlarına ait olan isimler ticari isim veya unvan olarak kullanılamaz.\n (6) OSGB tarafından başvuru dosyasında beyan edilen yerleşim planı, bina ve donanımda Genel Müdürlük onayı alınmadan hiçbir şekilde değişiklik yapılamaz.\n (7) (Ek:RG-31/1/2013-28545) Bakanlıkça yetkilendirilen (Değişik ibare:RG-4/2/2024-32450) ÇASMER’ler işyeri hekimliği ve diğer sağlık personeli hizmetlerini 12 nci maddenin üçüncü fıkrasında belirtilen şartları iş güvenliği uzmanı odası hariç yerine getirmeleri durumunda sunabilirler. İş sağlığı ve güvenliği hizmetlerini vermek istedikleri takdirde 12 nci ve 16 ncı maddelerde belirtilen şartları yerine getirirler. (Değişik ibare:RG-4/2/2024-32450) ÇASMER’lerin yetkilendirilme ve denetimine ilişkin usul ve esaslar Sağlık Bakanlığı ve Bakanlığın birlikte hazırlayacakları genelge ile belirlenir.\n Ortak sağlık ve güvenlik birimleri ile çalışan sağlığı merkezlerinin denetimi\n MADDE 17/A- (Ek:RG-4/2/2024-32450)\n (1) Ortak sağlık ve güvenlik birimlerinin kontrol ve denetimleri, Genel Müdürlükte görevli çalışma uzmanı ve çalışma uzman yardımcıları, mühendis, fizikçi, kimyager, biyolog ve tabipler tarafından yerine getirilir. Bu konularda yetkilendirilenler mümkün olduğu kadar işyerinde işi aksatmamak, işverenin ve işyerinin meslek sırları ile gördükleri ve öğrendikleri hususları tamamen gizli tutmakla yükümlüdür.\n (2) OSGB’lerin denetimleri, yerinde veya dijital altyapı vasıtasıyla uzaktan erişim yoluyla gerçekleştirilir. Denetimlerde tespit edilen ihlallere göre bu Yönetmelikte yer verilen idari yaptırımların uygulanması hususunda denetim personeli tutanak tutar ve rapor hazırlar. Tutanak ve raporlar, denetim personelince Genel Müdürlüğe teslim edilir.\n (3) OSGB’lerin denetimleri esnasında tespit edilen bulgularda ihmali bulunan; iş güvenliği uzmanına İş Güvenliği Uzmanlarının Görev, Yetki, Sorumluluk ve Eğitimleri Hakkında Yönetmelik, işyeri hekimleri ve diğer sağlık personeline ise İşyeri Hekimi ve Diğer Sağlık Personelinin Görev, Yetki, Sorumluluk ve Eğitimleri Hakkında Yönetmelik hükümleri doğrultusunda idari yaptırım uygulanır.\n (4) ÇASMER’lerin denetimleri, bu madde hükümleri ile 17 nci maddenin yedinci fıkrasında belirtilen genelge hükümlerine göre yapılır.",
+      "text": "(1) (Değişik:RG-18/12/2014-29209) OSGB tarafından yetki belgesi almak amacıyla yapılan başvuru Genel Müdürlükçe en geç on iş günü içinde incelenir. 19/1/2013 tarihli ve 28533 sayılı Resmî Gazete’de yayımlanan Elektronik Tebligat Yönetmeliği çerçevesinde kayıtlı elektronik posta sistemi üzerinden yazılı olarak bildirilen eksiklikler en geç kırk beş gün içinde tamamlanır. Herhangi bir eksikliği bulunmayan başvurular için en geç yirmi iş günü içinde yerinde inceleme yapılır. Yerinde inceleme işlemlerinde tespit edilen eksikliklerin giderilmesi için en fazla kırk beş gün süre verilir. Belirlenen sürelerde eksiklikler giderilmez ise dosya iade edilir ve iadeden itibaren bir yıl boyunca yapılan başvurular, bir yılın tamamlanmasına kadar askıya alınır.\n (2) OSGB’nin bu Yönetmelikte belirtilen şartları taşıması halinde, başvuru dosyasında bildirilen tam süreli çalışanlara ait Sosyal Güvenlik Kurumu işe giriş bildirgesinin Genel Müdürlüğe gönderilmesini takiben başvuru dosyasında belirtilen adres ve unvana münhasıran, en geç on iş günü içerisinde Genel Müdürlükçe Ek-2’deki örneğine uygun yetki belgesi düzenlenir. Başka bir adreste şube açılması istendiği takdirde, aynı usul ve esaslar dâhilinde işlem yapılır.\n (3) (Mülga:RG-18/12/2014-29209)\n (4) OSGB’ler yetki belgesi almadan veya süresi içerisinde vize işlemini tamamlamadan bu Yönetmelik kapsamında belirtilen faaliyetleri yapamazlar.\n (5) OSGB’ler, aşağıda belirtilen hususlara uymak zorundadır.\n a) (Değişik:RG-18/12/2014-29209) Tabela ve basılı evrak, broşür, afiş ve diğer elektronik ortamlarda herhangi bir amaçla kullanılan her türlü yazılı ve görsel dokümanda sadece yetki belgesinde belirtilen isim ve unvan kullanılır.\n b) OSGB’ler tarafından, EK-8’deki örneğine uygun, kurum unvanına göre hazırlanan ve (Değişik ibare:RG-18/12/2014-29209) boy/en oranı 2/3 olan tabela, OSGB’nin bulunduğu binanın uygun bir kısmına veya girişine asılır. Aynı binada, Genel Müdürlükçe yetkilendirilen birden fazla kurum bulunması durumunda, kullanılacak tabela için Genel Müdürlük onayı alınması şartıyla, tüm unvanları gösteren tek bir tabela kullanılabilir. Bakanlık logosu, bu tabela haricinde hiçbir yazılı veya görsel doküman veya ortamda kullanılamaz.\n c) Özel kuruluşlar tarafından, kamu kurum ve kuruluşlarına ait olan isimler ticari isim veya unvan olarak kullanılamaz.\n (6) OSGB tarafından başvuru dosyasında beyan edilen yerleşim planı, bina ve donanımda Genel Müdürlük onayı alınmadan hiçbir şekilde değişiklik yapılamaz.\n (7) (Ek:RG-31/1/2013-28545) Bakanlıkça yetkilendirilen (Değişik ibare:RG-4/2/2024-32450) ÇASMER’ler işyeri hekimliği ve diğer sağlık personeli hizmetlerini 12 nci maddenin üçüncü fıkrasında belirtilen şartları iş güvenliği uzmanı odası hariç yerine getirmeleri durumunda sunabilirler. İş sağlığı ve güvenliği hizmetlerini vermek istedikleri takdirde 12 nci ve 16 ncı maddelerde belirtilen şartları yerine getirirler. (Değişik ibare:RG-4/2/2024-32450) ÇASMER’lerin yetkilendirilme ve denetimine ilişkin usul ve esaslar Sağlık Bakanlığı ve Bakanlığın birlikte hazırlayacakları genelge ile belirlenir.",
       "preview": "(1) (Değişik:RG-18/12/2014-29209) OSGB tarafından yetki belgesi almak amacıyla yapılan başvuru Genel Müdürlükçe en geç on iş günü içinde inc…",
       "kitap": null,
       "kisim": null,
@@ -302,6 +296,23 @@
       "sectionPath": [
         "DÖRDÜNCÜ BÖLÜM · İşyeri Sağlık ve Güvenlik Birimi ile Ortak Sağlık ve Güvenlik Biriminin",
         "Ortak sağlık ve güvenlik birimlerinin yetkilendirilmesi"
+      ]
+    },
+    {
+      "id": "yonetmelik:16924:m:17/A",
+      "maddeKind": "madde",
+      "maddeNo": "17/A",
+      "heading": "Madde 17/A",
+      "text": "(Ek:RG-4/2/2024-32450)\n (1) Ortak sağlık ve güvenlik birimlerinin kontrol ve denetimleri, Genel Müdürlükte görevli çalışma uzmanı ve çalışma uzman yardımcıları, mühendis, fizikçi, kimyager, biyolog ve tabipler tarafından yerine getirilir. Bu konularda yetkilendirilenler mümkün olduğu kadar işyerinde işi aksatmamak, işverenin ve işyerinin meslek sırları ile gördükleri ve öğrendikleri hususları tamamen gizli tutmakla yükümlüdür.\n (2) OSGB’lerin denetimleri, yerinde veya dijital altyapı vasıtasıyla uzaktan erişim yoluyla gerçekleştirilir. Denetimlerde tespit edilen ihlallere göre bu Yönetmelikte yer verilen idari yaptırımların uygulanması hususunda denetim personeli tutanak tutar ve rapor hazırlar. Tutanak ve raporlar, denetim personelince Genel Müdürlüğe teslim edilir.\n (3) OSGB’lerin denetimleri esnasında tespit edilen bulgularda ihmali bulunan; iş güvenliği uzmanına İş Güvenliği Uzmanlarının Görev, Yetki, Sorumluluk ve Eğitimleri Hakkında Yönetmelik, işyeri hekimleri ve diğer sağlık personeline ise İşyeri Hekimi ve Diğer Sağlık Personelinin Görev, Yetki, Sorumluluk ve Eğitimleri Hakkında Yönetmelik hükümleri doğrultusunda idari yaptırım uygulanır.\n (4) ÇASMER’lerin denetimleri, bu madde hükümleri ile 17 nci maddenin yedinci fıkrasında belirtilen genelge hükümlerine göre yapılır.",
+      "preview": "(Ek:RG-4/2/2024-32450) (1) Ortak sağlık ve güvenlik birimlerinin kontrol ve denetimleri, Genel Müdürlükte görevli çalışma uzmanı ve çalışma…",
+      "kitap": null,
+      "kisim": null,
+      "bolum": "DÖRDÜNCÜ BÖLÜM · İşyeri Sağlık ve Güvenlik Birimi ile Ortak Sağlık ve Güvenlik Biriminin",
+      "ayirim": null,
+      "maddeBaslik": "Ortak sağlık ve güvenlik birimleri ile çalışan sağlığı merkezlerinin denetimi",
+      "sectionPath": [
+        "DÖRDÜNCÜ BÖLÜM · İşyeri Sağlık ve Güvenlik Birimi ile Ortak Sağlık ve Güvenlik Biriminin",
+        "Ortak sağlık ve güvenlik birimleri ile çalışan sağlığı merkezlerinin denetimi"
       ]
     },
     {
@@ -377,7 +388,7 @@
       "maddeKind": "madde",
       "maddeNo": "22",
       "heading": "Madde 22",
-      "text": "(Başlığı ile birlikte değişik:RG-18/12/2014-29209)\n (1) Bu Yönetmelik uyarınca yetkilendirilen OSGB’lerin yetki belgeleri, ihtar puanları toplamının 300’e ulaşması durumunda Genel Müdürlükçe altı ay süreyle askıya alınır.\n (2) Yetki belgesi askıya alınan OSGB’ler, askıya alınma süresince bu Yönetmelik kapsamındaki yetkilerini kullanamazlar.\n (3) Aşağıdaki durumlardan birinin varlığının tespiti halinde;\n a) Bu Yönetmelik gereği düzenlenen evrakın gerçeğe aykırılığının tespiti halinde üç ay,\n b) Şirket ortaklarının uygunsuzluğunun ilgili kuruma bildirilmesine rağmen durumun 30 gün içerisinde düzeltilmemesi halinde üç ay,\n c) Bakanlıkça belirlenen esaslara aykırı şekilde şube veya irtibat bürosu açmaları halinde altı ay,\n ç) Yetki aldığı adres veya il sınırları dışında hizmet verilmesi halinde altı ay,\n d) Sunmakla yükümlü oldukları hizmetlerin tamamını veya bir kısmını devretmesi halinde altı ay,\n e) Genel Müdürlükten onay alınmadan adres değişikliği yapılması veya unvan değişikliği ile ilgili bildirim yükümlülüğünü 30 gün içinde yerine getirmemesi halinde bir yıl,\n süreyle ilgili merkez veya şubeye verilen yetki belgesinin geçerliliği askıya alınır.\n (4) OSGB’lerin yetki belgesi;\n a) 16 ncı maddede istenen başvuru evraklarından herhangi birinin gerçeğe aykırılığının tespiti halinde,\n b) Bir vize döneminde üç defa askıya alınması halinde,\n c) Belgesinin geçerliliğinin askıda olduğu süre içinde sözleşme yaptığının veya hizmet verdiğinin tespiti halinde,\n doğrudan iptal edilir.\n (5) Yetki belgesi iptal edilen OSGB ve şubelerinin kurucu veya ortaklarının, iptal tarihinden itibaren iki yıl içerisinde yaptığı başvurular; iki yılın tamamlanmasına kadar askıya alınır.\n (6) Belgesinin geçerliliği askıya alınanlar veya iptal edilenlere Genel Müdürlükçe yazılı bildirim yapılır ve internet sayfasında ilan edilir.\n (7) Yetki belgesinin iptali veya geçerliliğinin askıya alınması durumunda önceden yapılan hizmet ve iş sözleşmelerinden doğan hukuki sonuçlardan OSGB’ler sorumludur.\n (8) Bu Yönetmelik uyarınca kurumlara uygulanan yetki belgesinin askıya alınma veya iptaline ilişkin işlemlere itirazlar, işlemlerin tebliğ tarihinden itibaren en geç on iş günü içinde Genel Müdürlüğe yapılır. Bu süreden sonra yapılacak itirazlar dikkate alınmaz.\n İtiraz komisyonunun çalışma şekli\n MADDE 22/A – (Ek:RG-18/12/2014-29209)\n (1) İtiraz Komisyonu, bu Yönetmelik uyarınca yetkilendirilen veya belgelendirilen kişi veya kurumların belgelerinin askıya alınması veya iptali ile ilgili itirazları değerlendirerek karara bağlar. Komisyonun kararı, oy çokluğuyla alınır. Oyların eşitliği halinde Başkanın oyu belirleyicidir. Komisyon kararı, Genel Müdürlükçe uygulanır.\n (2) (Ek:RG-28/2/2020-31053) İtiraz Komisyonunu oluşturan unvan adlarının iptal olması veya değişmesi halinde yerine atanacak üyeler Bakanlık oluru ile belirlenir.\n Yürürlükten kaldırılan yönetmelik",
+      "text": "(Başlığı ile birlikte değişik:RG-18/12/2014-29209)\n (1) Bu Yönetmelik uyarınca yetkilendirilen OSGB’lerin yetki belgeleri, ihtar puanları toplamının 300’e ulaşması durumunda Genel Müdürlükçe altı ay süreyle askıya alınır.\n (2) Yetki belgesi askıya alınan OSGB’ler, askıya alınma süresince bu Yönetmelik kapsamındaki yetkilerini kullanamazlar.\n (3) Aşağıdaki durumlardan birinin varlığının tespiti halinde;\n a) Bu Yönetmelik gereği düzenlenen evrakın gerçeğe aykırılığının tespiti halinde üç ay,\n b) Şirket ortaklarının uygunsuzluğunun ilgili kuruma bildirilmesine rağmen durumun 30 gün içerisinde düzeltilmemesi halinde üç ay,\n c) Bakanlıkça belirlenen esaslara aykırı şekilde şube veya irtibat bürosu açmaları halinde altı ay,\n ç) Yetki aldığı adres veya il sınırları dışında hizmet verilmesi halinde altı ay,\n d) Sunmakla yükümlü oldukları hizmetlerin tamamını veya bir kısmını devretmesi halinde altı ay,\n e) Genel Müdürlükten onay alınmadan adres değişikliği yapılması veya unvan değişikliği ile ilgili bildirim yükümlülüğünü 30 gün içinde yerine getirmemesi halinde bir yıl,\n süreyle ilgili merkez veya şubeye verilen yetki belgesinin geçerliliği askıya alınır.\n (4) OSGB’lerin yetki belgesi;\n a) 16 ncı maddede istenen başvuru evraklarından herhangi birinin gerçeğe aykırılığının tespiti halinde,\n b) Bir vize döneminde üç defa askıya alınması halinde,\n c) Belgesinin geçerliliğinin askıda olduğu süre içinde sözleşme yaptığının veya hizmet verdiğinin tespiti halinde,\n doğrudan iptal edilir.\n (5) Yetki belgesi iptal edilen OSGB ve şubelerinin kurucu veya ortaklarının, iptal tarihinden itibaren iki yıl içerisinde yaptığı başvurular; iki yılın tamamlanmasına kadar askıya alınır.\n (6) Belgesinin geçerliliği askıya alınanlar veya iptal edilenlere Genel Müdürlükçe yazılı bildirim yapılır ve internet sayfasında ilan edilir.\n (7) Yetki belgesinin iptali veya geçerliliğinin askıya alınması durumunda önceden yapılan hizmet ve iş sözleşmelerinden doğan hukuki sonuçlardan OSGB’ler sorumludur.\n (8) Bu Yönetmelik uyarınca kurumlara uygulanan yetki belgesinin askıya alınma veya iptaline ilişkin işlemlere itirazlar, işlemlerin tebliğ tarihinden itibaren en geç on iş günü içinde Genel Müdürlüğe yapılır. Bu süreden sonra yapılacak itirazlar dikkate alınmaz.",
       "preview": "(Başlığı ile birlikte değişik:RG-18/12/2014-29209) (1) Bu Yönetmelik uyarınca yetkilendirilen OSGB’lerin yetki belgeleri, ihtar puanları top…",
       "kitap": null,
       "kisim": null,
@@ -387,6 +398,23 @@
       "sectionPath": [
         "ALTINCI BÖLÜM · Çeşitli ve Son Hükümler",
         "Yetkilerin askıya alınması, iptali ve itiraz"
+      ]
+    },
+    {
+      "id": "yonetmelik:16924:m:22/A",
+      "maddeKind": "madde",
+      "maddeNo": "22/A",
+      "heading": "Madde 22/A",
+      "text": "(Ek:RG-18/12/2014-29209)\n (1) İtiraz Komisyonu, bu Yönetmelik uyarınca yetkilendirilen veya belgelendirilen kişi veya kurumların belgelerinin askıya alınması veya iptali ile ilgili itirazları değerlendirerek karara bağlar. Komisyonun kararı, oy çokluğuyla alınır. Oyların eşitliği halinde Başkanın oyu belirleyicidir. Komisyon kararı, Genel Müdürlükçe uygulanır.\n (2) (Ek:RG-28/2/2020-31053) İtiraz Komisyonunu oluşturan unvan adlarının iptal olması veya değişmesi halinde yerine atanacak üyeler Bakanlık oluru ile belirlenir.\n Yürürlükten kaldırılan yönetmelik",
+      "preview": "(Ek:RG-18/12/2014-29209) (1) İtiraz Komisyonu, bu Yönetmelik uyarınca yetkilendirilen veya belgelendirilen kişi veya kurumların belgelerinin…",
+      "kitap": null,
+      "kisim": null,
+      "bolum": "ALTINCI BÖLÜM · Çeşitli ve Son Hükümler",
+      "ayirim": null,
+      "maddeBaslik": "İtiraz komisyonunun çalışma şekli",
+      "sectionPath": [
+        "ALTINCI BÖLÜM · Çeşitli ve Son Hükümler",
+        "İtiraz komisyonunun çalışma şekli"
       ]
     },
     {
@@ -400,10 +428,10 @@
       "kisim": null,
       "bolum": "ALTINCI BÖLÜM · Çeşitli ve Son Hükümler",
       "ayirim": null,
-      "maddeBaslik": "Yetkilerin askıya alınması, iptali ve itiraz",
+      "maddeBaslik": "İtiraz komisyonunun çalışma şekli",
       "sectionPath": [
         "ALTINCI BÖLÜM · Çeşitli ve Son Hükümler",
-        "Yetkilerin askıya alınması, iptali ve itiraz"
+        "İtiraz komisyonunun çalışma şekli"
       ]
     },
     {

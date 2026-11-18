@@ -12,7 +12,7 @@
   "tertip": 3,
   "sourceUrl": "https://www.mevzuat.gov.tr/mevzuat?MevzuatNo=6831&MevzuatTur=1&MevzuatTertip=3",
   "kabulTarihi": "31/8/1956",
-  "maddeCount": 158,
+  "maddeCount": 159,
   "maddeler": [
     {
       "id": "kanun:6831:m:1",
@@ -1767,8 +1767,24 @@
       "maddeKind": "madde",
       "maddeNo": "111",
       "heading": "Madde 111",
-      "text": "Bu kanunun 3 üncü maddesiyle orman rejimi altına alınan yerlerde ve 23, 24, 25 inci maddeler gereğince muhafaza ormanı ve milli park olarak ayrılmış ormanlarda, ormanlara mütaallik suçları işliyenlerin müstahak olacakları ceza iki misli olarak hükmolunur.\n\n Madde 111/a – (Ek : 3/11/1988 - 3493/15 md.; Değişik : 23/1/2008-5728/218 md.)\n Bu Kanunda mercii belirtilmemiş idarî yaptırım kararları, orman işletme şefleri tarafından verilir.",
+      "text": "Bu kanunun 3 üncü maddesiyle orman rejimi altına alınan yerlerde ve 23, 24, 25 inci maddeler gereğince muhafaza ormanı ve milli park olarak ayrılmış ormanlarda, ormanlara mütaallik suçları işliyenlerin müstahak olacakları ceza iki misli olarak hükmolunur.",
       "preview": "Bu kanunun 3 üncü maddesiyle orman rejimi altına alınan yerlerde ve 23, 24, 25 inci maddeler gereğince muhafaza ormanı ve milli park olarak…",
+      "kitap": null,
+      "kisim": null,
+      "bolum": null,
+      "ayirim": null,
+      "maddeBaslik": "V. Ceza Hükümleri:",
+      "sectionPath": [
+        "V. Ceza Hükümleri:"
+      ]
+    },
+    {
+      "id": "kanun:6831:m:111/a",
+      "maddeKind": "madde",
+      "maddeNo": "111/a",
+      "heading": "Madde 111/a",
+      "text": "(Ek : 3/11/1988 - 3493/15 md.; Değişik : 23/1/2008-5728/218 md.)\n Bu Kanunda mercii belirtilmemiş idarî yaptırım kararları, orman işletme şefleri tarafından verilir.",
+      "preview": "(Ek : 3/11/1988 - 3493/15 md.; Değişik : 23/1/2008-5728/218 md.) Bu Kanunda mercii belirtilmemiş idarî yaptırım kararları, orman işletme şef…",
       "kitap": null,
       "kisim": null,
       "bolum": null,
@@ -2407,8 +2423,8 @@
       "maddeKind": "madde",
       "maddeNo": "119",
       "heading": "Madde 119",
-      "text": "Bu kanun hükümlerini icraya İcra Vekilleri Heyeti memurdur.",
-      "preview": "Bu kanun hükümlerini icraya İcra Vekilleri Heyeti memurdur.",
+      "text": "Bu kanun hükümlerini icraya İcra Vekilleri Heyeti memurdur.\n\n1. 23/9/1983 tarihli ve 2896 sayılı Kanunun geçici maddeleri:",
+      "preview": "Bu kanun hükümlerini icraya İcra Vekilleri Heyeti memurdur. 1. 23/9/1983 tarihli ve 2896 sayılı Kanunun geçici maddeleri:",
       "kitap": null,
       "kisim": null,
       "bolum": null,
@@ -2429,9 +2445,9 @@
       "kisim": null,
       "bolum": null,
       "ayirim": null,
-      "maddeBaslik": "1. 23/9/1983 tarihli ve 2896 sayılı Kanunun geçici maddeleri:",
+      "maddeBaslik": "Müteferrik Hükümler",
       "sectionPath": [
-        "1. 23/9/1983 tarihli ve 2896 sayılı Kanunun geçici maddeleri:"
+        "Müteferrik Hükümler"
       ]
     },
     {
@@ -2445,9 +2461,9 @@
       "kisim": null,
       "bolum": null,
       "ayirim": null,
-      "maddeBaslik": "1. 23/9/1983 tarihli ve 2896 sayılı Kanunun geçici maddeleri:",
+      "maddeBaslik": "Müteferrik Hükümler",
       "sectionPath": [
-        "1. 23/9/1983 tarihli ve 2896 sayılı Kanunun geçici maddeleri:"
+        "Müteferrik Hükümler"
       ]
     },
     {
@@ -2461,9 +2477,9 @@
       "kisim": null,
       "bolum": null,
       "ayirim": null,
-      "maddeBaslik": "1. 23/9/1983 tarihli ve 2896 sayılı Kanunun geçici maddeleri:",
+      "maddeBaslik": "Müteferrik Hükümler",
       "sectionPath": [
-        "1. 23/9/1983 tarihli ve 2896 sayılı Kanunun geçici maddeleri:"
+        "Müteferrik Hükümler"
       ]
     },
     {
@@ -2477,9 +2493,9 @@
       "kisim": null,
       "bolum": null,
       "ayirim": null,
-      "maddeBaslik": "1. 23/9/1983 tarihli ve 2896 sayılı Kanunun geçici maddeleri:",
+      "maddeBaslik": "Müteferrik Hükümler",
       "sectionPath": [
-        "1. 23/9/1983 tarihli ve 2896 sayılı Kanunun geçici maddeleri:"
+        "Müteferrik Hükümler"
       ]
     },
     {
@@ -2487,35 +2503,35 @@
       "maddeKind": "gecici",
       "maddeNo": "5",
       "heading": "Geçici Madde 5",
-      "text": "Bu Kanunun yürürlüğe girdiği tarihten önce 6831 sayılı Orman Kanununun 17 nci ve 115 inci maddelerine istinaden 99 yıl süreyle verilmiş bulunan izin ve irtifak haklarındaki süreye ilişkin haklar saklı olup, bunlar hakkında bu Kanunla değiştirilen 17 nci maddenin 3 üncü fıkrasındaki 49 yıl sonundaki süre uzatımıyla ilgili hüküm uygulanmaz ve yapılmış her türlü bina ve tesislerin bedelsiz ve eksiksiz hazineye devri işlemi bu 99 yıllık süre sonunda yapılır.\n 2. 3/11/1988 tarih ve 3493 sayılı Kanunun geçici maddesi:\n Geçici Madde – Bu Kanunun yürürlüğe girdiği tarihten önce 6831, 1475, 2918 ve 2926 sayılı Kanun hükümlerine muhalefetten açılan ve devam eden davalardan, kanunların değiştirilen hükümlerine göre mahkemelerin görev alanı dışına çıkarılan suçlarla ilgili olanlar hakkında görevsizlik kararı verilir, varsa tutuklular derhal tahliye edilir. Kararın bir örneği ve tutanak ilgisine göre mahallin en büyük mülki amirine, Çalışma ve Sosyal Güvenlik Bakanlığı Bölge Müdürüne, Bağ-Kur İl Müdürüne, İl Emniyet Müdürlüğüne veya ilçe emniyet amirliğine veya orman bölge şefliğine gönderilir. Bu makamlar, evrakın ilgilileri hakkında tutanaklarında yazılı suçlarının Kanunun değişikliğinden önceki cezalarından sadece para cezasının asgari haddini uygulamak suretiyle karar verirler. Verilecek para cezasından, aynı suçtan dolayı tutuklu kılınan süreler 647 sayılı Cezaların İnfazı Hakkında Kanunun 4 üncü maddesinin birinci fıkrasının birinci bendinde kabahatler için gösterilen asgari hadde göre hesap edilerek mahsup edilir. Para cezaları 6183 sayılı Amme Alacaklarının Tahsil Usulü Hakkında Kanun hükümlerine göre tahsil olunur.\n Bu Kanunun yürürlüğe girdiği tarihten önce 6831, 1475, 2918 ve 2926 sayılı Kanunların değiştirilen hükümlerine göre mahkemelerin görev alanı dışına çıkarılan suçlardan dolayı kesinleşmiş ve henüz yerine getirilmemiş mahkümiyet kararlarının sadece para cezasına ilişkin kısımları infaz olunur ve hükümlü olanlar ise derhal tahliye edilir. İnfaz edilecek para cezasından, aynı suçtan dolayı tutuklu ve hükümlü kalınan süreler 647 sayılı Cezaların İnfazı Hakkında Kanunun 4 üncü maddesinin birinci fıkrasının birinci bendinde kabahatler için gösterilen asgari hadde göre hesap edilerek mahsup edilir.",
+      "text": "Bu Kanunun yürürlüğe girdiği tarihten önce 6831 sayılı Orman Kanununun 17 nci ve 115 inci maddelerine istinaden 99 yıl süreyle verilmiş bulunan izin ve irtifak haklarındaki süreye ilişkin haklar saklı olup, bunlar hakkında bu Kanunla değiştirilen 17 nci maddenin 3 üncü fıkrasındaki 49 yıl sonundaki süre uzatımıyla ilgili hüküm uygulanmaz ve yapılmış her türlü bina ve tesislerin bedelsiz ve eksiksiz hazineye devri işlemi bu 99 yıllık süre sonunda yapılır.\n 2. 3/11/1988 tarih ve 3493 sayılı Kanunun geçici maddesi:\n Geçici Madde – Bu Kanunun yürürlüğe girdiği tarihten önce 6831, 1475, 2918 ve 2926 sayılı Kanun hükümlerine muhalefetten açılan ve devam eden davalardan, kanunların değiştirilen hükümlerine göre mahkemelerin görev alanı dışına çıkarılan suçlarla ilgili olanlar hakkında görevsizlik kararı verilir, varsa tutuklular derhal tahliye edilir. Kararın bir örneği ve tutanak ilgisine göre mahallin en büyük mülki amirine, Çalışma ve Sosyal Güvenlik Bakanlığı Bölge Müdürüne, Bağ-Kur İl Müdürüne, İl Emniyet Müdürlüğüne veya ilçe emniyet amirliğine veya orman bölge şefliğine gönderilir. Bu makamlar, evrakın ilgilileri hakkında tutanaklarında yazılı suçlarının Kanunun değişikliğinden önceki cezalarından sadece para cezasının asgari haddini uygulamak suretiyle karar verirler. Verilecek para cezasından, aynı suçtan dolayı tutuklu kılınan süreler 647 sayılı Cezaların İnfazı Hakkında Kanunun 4 üncü maddesinin birinci fıkrasının birinci bendinde kabahatler için gösterilen asgari hadde göre hesap edilerek mahsup edilir. Para cezaları 6183 sayılı Amme Alacaklarının Tahsil Usulü Hakkında Kanun hükümlerine göre tahsil olunur.\n Bu Kanunun yürürlüğe girdiği tarihten önce 6831, 1475, 2918 ve 2926 sayılı Kanunların değiştirilen hükümlerine göre mahkemelerin görev alanı dışına çıkarılan suçlardan dolayı kesinleşmiş ve henüz yerine getirilmemiş mahkümiyet kararlarının sadece para cezasına ilişkin kısımları infaz olunur ve hükümlü olanlar ise derhal tahliye edilir. İnfaz edilecek para cezasından, aynı suçtan dolayı tutuklu ve hükümlü kalınan süreler 647 sayılı Cezaların İnfazı Hakkında Kanunun 4 üncü maddesinin birinci fıkrasının birinci bendinde kabahatler için gösterilen asgari hadde göre hesap edilerek mahsup edilir.\n\n3. 17/6/2004 tarihli ve 5192 sayılı Kanunun Geçici Maddesi:",
       "preview": "Bu Kanunun yürürlüğe girdiği tarihten önce 6831 sayılı Orman Kanununun 17 nci ve 115 inci maddelerine istinaden 99 yıl süreyle verilmiş bulu…",
       "kitap": null,
       "kisim": null,
       "bolum": null,
       "ayirim": null,
-      "maddeBaslik": "1. 23/9/1983 tarihli ve 2896 sayılı Kanunun geçici maddeleri:",
+      "maddeBaslik": "Müteferrik Hükümler",
       "sectionPath": [
-        "1. 23/9/1983 tarihli ve 2896 sayılı Kanunun geçici maddeleri:"
+        "Müteferrik Hükümler"
       ]
     },
     {
-      "id": "kanun:6831:m:gecici:1",
+      "id": "kanun:6831:m:gecici:1~2",
       "maddeKind": "gecici",
       "maddeNo": "1",
       "heading": "Geçici Madde 1",
-      "text": "Orman Kanununun bu Kanunla değişik 71 inci maddesi hükümleri uyarınca geçmişe yönelik herhangi bir tazminat farkı ödenmez.",
-      "preview": "Orman Kanununun bu Kanunla değişik 71 inci maddesi hükümleri uyarınca geçmişe yönelik herhangi bir tazminat farkı ödenmez.",
+      "text": "Orman Kanununun bu Kanunla değişik 71 inci maddesi hükümleri uyarınca geçmişe yönelik herhangi bir tazminat farkı ödenmez.\n\n4. 31/3/2011 tarihli ve 6217 sayılı Kanunun Geçici Maddesi:",
+      "preview": "Orman Kanununun bu Kanunla değişik 71 inci maddesi hükümleri uyarınca geçmişe yönelik herhangi bir tazminat farkı ödenmez. 4. 31/3/2011 tari…",
       "kitap": null,
       "kisim": null,
       "bolum": null,
       "ayirim": null,
-      "maddeBaslik": "3. 17/6/2004 tarihli ve 5192 sayılı Kanunun Geçici Maddesi:",
+      "maddeBaslik": "Müteferrik Hükümler",
       "sectionPath": [
-        "3. 17/6/2004 tarihli ve 5192 sayılı Kanunun Geçici Maddesi:"
+        "Müteferrik Hükümler"
       ]
     },
     {
-      "id": "kanun:6831:m:gecici:3",
+      "id": "kanun:6831:m:gecici:3~2",
       "maddeKind": "gecici",
       "maddeNo": "3",
       "heading": "Geçici Madde 3",
@@ -2525,9 +2541,9 @@
       "kisim": null,
       "bolum": null,
       "ayirim": null,
-      "maddeBaslik": "4. 31/3/2011 tarihli ve 6217 sayılı Kanunun Geçici Maddesi:",
+      "maddeBaslik": "Müteferrik Hükümler",
       "sectionPath": [
-        "4. 31/3/2011 tarihli ve 6217 sayılı Kanunun Geçici Maddesi:"
+        "Müteferrik Hükümler"
       ]
     }
   ]

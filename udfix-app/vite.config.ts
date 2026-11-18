@@ -28,7 +28,7 @@ function tesseractTraineddataDevPlugin(): Plugin {
     res.statusCode = 200
     res.setHeader('Content-Type', 'application/octet-stream')
     res.setHeader('Cache-Control', 'no-cache')
-    fs.createReadStream(filePath).pipe(res as NodeJS.WritableStream)
+    fs.createReadStream(filePath).pipe(res as unknown as NodeJS.WritableStream)
   }
 
   return {

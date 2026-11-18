@@ -375,8 +375,9 @@ export const DockviewWrapper: React.FC = () => {
     };
 
     React.useEffect(() => {
+        if (!dockviewApi) return;
         let observer: MutationObserver | null = null;
-        if (dockviewApi) {
+        {
             const syncAllPopoutThemes = () => {
                 for (const popoutWindow of getPopoutWindows(dockviewApi)) {
                     syncThemeToPopoutWindow(window, popoutWindow);
@@ -411,7 +412,6 @@ export const DockviewWrapper: React.FC = () => {
                 unsubTheme();
             };
         }
-        return () => observer?.disconnect();
     }, [dockviewApi]);
 
     const isCanvasEmpty = panelCount === 0;
@@ -441,7 +441,15 @@ export const DockviewWrapper: React.FC = () => {
         };
 
         const onCaptureDrop = (event: DragEvent) => {
-            if (processDockviewFileDrop(event)) {
+            const dataTransfer = event.dataTransfer;
+            if (!dataTransfer) return;
+            if (
+                processDockviewFileDrop({
+                    dataTransfer,
+                    target: event.target,
+                    defaultPrevented: event.defaultPrevented,
+                })
+            ) {
                 event.preventDefault();
                 event.stopPropagation();
             }

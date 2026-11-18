@@ -53,6 +53,14 @@ export function stageUyapSignRequestForExport(documentId: string, request: UyapS
     });
 }
 
+export function hasPendingUyapSignRequest(documentId: string): boolean {
+    const safeDocumentId = String(documentId ?? '').trim();
+    if (!safeDocumentId) return false;
+    cleanupExpiredSessions();
+    const entry = sessionByDocumentId.get(safeDocumentId);
+    return Boolean(entry && entry.expiresAt > Date.now());
+}
+
 export function consumeUyapSignRequestForExport(documentId: string): UyapSignRequest | null {
     const safeDocumentId = String(documentId ?? '').trim();
     if (!safeDocumentId) {

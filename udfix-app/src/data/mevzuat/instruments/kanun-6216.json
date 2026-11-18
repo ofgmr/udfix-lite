@@ -12,7 +12,7 @@
   "tertip": 5,
   "sourceUrl": "https://www.mevzuat.gov.tr/mevzuat?MevzuatNo=6216&MevzuatTur=1&MevzuatTertip=5",
   "kabulTarihi": "30/3/2011",
-  "maddeCount": 80,
+  "maddeCount": 81,
   "maddeler": [
     {
       "id": "kanun:6216:m:1",
@@ -1306,7 +1306,7 @@
       "maddeKind": "madde",
       "maddeNo": "73",
       "heading": "Madde 73",
-      "text": "(1) Raportörler ve raportör yardımcıları bilgi ve görgülerini artırma, lisansüstü eğitim, bilimsel araştırma ya da karşılıklı iş birliği çerçevesinde yabancı ülke mahkemeleri, üniversiteler veya uluslararası kuruluşlarda çalışmak veya öğrenim görmek üzere Başkanlıkça iki yıla kadar yurt dışında görevlendirilebilirler. Başkanlıkça gerekli görüldüğü takdirde bu süreler bir katına kadar uzatılabilir.\n (2) Bu kapsamda yurt dışında görevlendirilenlerin; mali hakları, yükümlülükleri, mecburî hizmetleri, giderlerinin karşılanması, aylık ve ödeneklerinin transferi konularında Devlet memurlarına ilişkin hükümler uygulanır.\n (3) Bu Kanun hükümlerine göre yabancı ülkelere gönderilenlerin derece yükselmeleri, kademe ilerlemeleri, emeklilik, aylık, ödenek ve diğer bütün özlük hakları ile yükümlülükleri devam eder.\n\n Mahkemede staj\n MADDE 73/A – (Ek:8/7/2021-7331/26 md.)\n (1) Hâkim ve savcı yardımcıları ile avukat stajyerleri, Mahkemede staj yapabilir. Bu maddenin uygulanmasına ilişkin usul ve esaslar yönetmelikle düzenlenir.[24]",
+      "text": "(1) Raportörler ve raportör yardımcıları bilgi ve görgülerini artırma, lisansüstü eğitim, bilimsel araştırma ya da karşılıklı iş birliği çerçevesinde yabancı ülke mahkemeleri, üniversiteler veya uluslararası kuruluşlarda çalışmak veya öğrenim görmek üzere Başkanlıkça iki yıla kadar yurt dışında görevlendirilebilirler. Başkanlıkça gerekli görüldüğü takdirde bu süreler bir katına kadar uzatılabilir.\n (2) Bu kapsamda yurt dışında görevlendirilenlerin; mali hakları, yükümlülükleri, mecburî hizmetleri, giderlerinin karşılanması, aylık ve ödeneklerinin transferi konularında Devlet memurlarına ilişkin hükümler uygulanır.\n (3) Bu Kanun hükümlerine göre yabancı ülkelere gönderilenlerin derece yükselmeleri, kademe ilerlemeleri, emeklilik, aylık, ödenek ve diğer bütün özlük hakları ile yükümlülükleri devam eder.",
       "preview": "(1) Raportörler ve raportör yardımcıları bilgi ve görgülerini artırma, lisansüstü eğitim, bilimsel araştırma ya da karşılıklı iş birliği çer…",
       "kitap": null,
       "kisim": "BEŞİNCİ KISIM · Mali Hükümler, Personel ve Özlük İşleri",
@@ -1317,6 +1317,24 @@
         "BEŞİNCİ KISIM · Mali Hükümler, Personel ve Özlük İşleri",
         "BİRİNCİ BÖLÜM · Mali, Sosyal ve Diğer Haklar",
         "Yabancı ülkelere gönderilme"
+      ]
+    },
+    {
+      "id": "kanun:6216:m:73/A",
+      "maddeKind": "madde",
+      "maddeNo": "73/A",
+      "heading": "Madde 73/A",
+      "text": "(Ek:8/7/2021-7331/26 md.)\n (1) Hâkim ve savcı yardımcıları ile avukat stajyerleri, Mahkemede staj yapabilir. Bu maddenin uygulanmasına ilişkin usul ve esaslar yönetmelikle düzenlenir.[24]",
+      "preview": "(Ek:8/7/2021-7331/26 md.) (1) Hâkim ve savcı yardımcıları ile avukat stajyerleri, Mahkemede staj yapabilir. Bu maddenin uygulanmasına ilişki…",
+      "kitap": null,
+      "kisim": "BEŞİNCİ KISIM · Mali Hükümler, Personel ve Özlük İşleri",
+      "bolum": "BİRİNCİ BÖLÜM · Mali, Sosyal ve Diğer Haklar",
+      "ayirim": null,
+      "maddeBaslik": "Mahkemede staj",
+      "sectionPath": [
+        "BEŞİNCİ KISIM · Mali Hükümler, Personel ve Özlük İşleri",
+        "BİRİNCİ BÖLÜM · Mali, Sosyal ve Diğer Haklar",
+        "Mahkemede staj"
       ]
     },
     {

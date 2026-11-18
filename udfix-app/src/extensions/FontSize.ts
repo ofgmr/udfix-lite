@@ -1,4 +1,4 @@
-import { Extension } from '@tiptap/core'
+import { Extension, type CommandProps } from '@tiptap/core'
 import '@tiptap/extension-text-style'
 import { buildStepFontSizeTransaction } from '../utils/fontSizeStep'
 
@@ -8,9 +8,7 @@ export type FontSizeOptions = {
 
 declare module '@tiptap/core' {
     interface Commands<ReturnType> {
-        fontSize: {
-            setFontSize: (fontSize: string) => ReturnType
-            unsetFontSize: () => ReturnType
+        udfixFontSize: {
             stepFontSize: (direction: 1 | -1) => ReturnType
         }
     }
@@ -61,7 +59,7 @@ export const FontSize = Extension.create<FontSizeOptions>({
                     .removeEmptyTextStyle()
                     .run()
             },
-            stepFontSize: (direction) => ({ tr, state, dispatch }) => {
+            stepFontSize: (direction: 1 | -1) => ({ tr, state, dispatch }: CommandProps) => {
                 const result = buildStepFontSizeTransaction(state, direction, tr)
                 if (!result) return false
                 if (dispatch) dispatch(result.tr)

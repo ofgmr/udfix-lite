@@ -16,15 +16,28 @@ import { UyapIO, buildUdfHfExportOptionsFromStore } from '../../utils/uyapIO';
 import { getPaginationMargins } from '../../utils/paginationMarginSync';
 import { buildPageFormatFromMargins } from '../../utils/uyapExportBuild';
 import { warnHfPageVariantsOmittedFromNonPdfExport } from '../../utils/hfPageVariantExportWarning';
+import { warnUdfOfficialEditorLimits } from '../../utils/uyapOfficialEditorWarning';
 import { useHeaderFooterStore } from '../../stores/useHeaderFooterStore';
 import { FileSystemService } from '../../services/fileSystemService';
 import { DataService } from '../../services/dataService';
 import { toSystemPath } from '../../utils/localResource';
 import { useLayoutStore } from '../../stores/useLayoutStore';
-import { consumeUyapSignRequestForExport } from '../../utils/uyapTokenSession';
+import { consumeUyapSignRequestForExport, hasPendingUyapSignRequest } from '../../utils/uyapTokenSession';
 import { UyapIpcSigner } from '../../utils/uyapIpcSigner';
 import { syncUdfSignatureMetadataFromEntries } from '../../utils/udfSignatureFromEntries';
 import { readUdfSignatureMetadata, type UdfSignatureMetadata } from '../../utils/udfSignatureState';
+import {
+    allowSignedUdfOriginalOverwrite,
+    armSignedUdfProtection,
+    dispatchSignedUdfEditReverted,
+    isSignedUdfWriteBlocked,
+    joinUdfDirectory,
+    releaseSignedUdfProtection,
+    signedUdfCopyFileName,
+    SignedUdfWriteDeferredError,
+} from '../../utils/signedUdfEditGate';
+import SignedUdfEditDialog from './SignedUdfEditDialog';
+import type { JSONContent } from '@tiptap/core';
 import { isUyapDebugEnabled, uyapDebugLog } from '../../utils/uyapDebug';
 import { toast, toastUyapSigningError } from '../../lib/glass-utils';
 import { matchesCombo } from '../../shortcuts/match';
@@ -57,6 +70,20 @@ function basenameFromPath(filePath: string): string {
     return slash >= 0 ? filePath.slice(slash + 1) : filePath;
 }
 
+async function allocateSignedUdfCopyPath(filePath: string, fileName: string): Promise<string> {
+    const directory = parentDirectory(filePath);
+    const taken = new Set<string>();
+    if (directory) {
+        try {
+            const entries = await FileSystemService.listDirectory(directory);
+            for (const entry of entries) taken.add(entry.name);
+        } catch (error) {
+            console.warn('signed udf copy directory listing failed', error);
+        }
+    }
+    return joinUdfDirectory(directory, signedUdfCopyFileName(fileName, taken));
+}
+
 /** Open-tab HTML draft for TipTap. Local-first cache, not a credential. */
 function writeUdfEditorHtmlDraft(documentId: string, html: string): void {
     localStorage.setItem(`nomai-content-${documentId}`, html);
@@ -70,7 +97,11 @@ const UdfFileEditorPanel: React.FC<UdfFileEditorPanelProps> = ({ filePath, fileN
     const [isUdfMarkedTemplate, setIsUdfMarkedTemplate] = React.useState(false);
     const [udfSignatureMeta, setUdfSignatureMeta] = React.useState<UdfSignatureMetadata | null>(null);
     const [uyapVerificationMeta, setUyapVerificationMeta] = React.useState<UyapVerificationMeta | null>(null);
+    const [signedPromptOpen, setSignedPromptOpen] = React.useState(false);
+    const [signedPromptBusy, setSignedPromptBusy] = React.useState(false);
+    const [editorEpoch, setEditorEpoch] = React.useState(0);
     const editorRef = React.useRef<Editor | null>(null);
+    const baselineJsonRef = React.useRef<JSONContent | null>(null);
     const preserveZipEntriesRef = React.useRef<Record<string, Uint8Array>>({});
     const originalContentXmlRef = React.useRef<string | null>(null);
     const setEditorSaveState = useLayoutStore((s) => s.setEditorSaveState);
@@ -84,8 +115,12 @@ const UdfFileEditorPanel: React.FC<UdfFileEditorPanelProps> = ({ filePath, fileN
         (editor: Editor) => {
             editorRef.current = editor;
             setEditor(editor);
+            if (readUdfSignatureMetadata(documentId)?.signed && !baselineJsonRef.current) {
+                baselineJsonRef.current = editor.getJSON();
+            }
+            setEditorEpoch((epoch) => epoch + 1);
         },
-        [setEditor],
+        [documentId, setEditor],
     );
 
     React.useEffect(() => {
@@ -97,6 +132,8 @@ const UdfFileEditorPanel: React.FC<UdfFileEditorPanelProps> = ({ filePath, fileN
             setIsUdfMarkedTemplate(false);
             setUdfSignatureMeta(null);
             setUyapVerificationMeta(null);
+            setSignedPromptOpen(false);
+            baselineJsonRef.current = null;
             preserveZipEntriesRef.current = {};
             originalContentXmlRef.current = null;
             try {
@@ -115,7 +152,10 @@ const UdfFileEditorPanel: React.FC<UdfFileEditorPanelProps> = ({ filePath, fileN
                 preserveZipEntriesRef.current = preserveZipEntries;
                 originalContentXmlRef.current = contentXml;
                 await syncUdfSignatureMetadataFromEntries(documentId, preserveZipEntries);
-                setUdfSignatureMeta(readUdfSignatureMetadata(documentId));
+                const signatureMeta = readUdfSignatureMetadata(documentId);
+                setUdfSignatureMeta(signatureMeta);
+                if (signatureMeta?.signed) armSignedUdfProtection(documentId);
+                else releaseSignedUdfProtection(documentId);
                 const verificationMeta = buildUyapVerificationMetaFromZipEntries(
                     contentXml,
                     preserveZipEntries,
@@ -189,6 +229,7 @@ const UdfFileEditorPanel: React.FC<UdfFileEditorPanelProps> = ({ filePath, fileN
             }
             const hf = useHeaderFooterStore.getState();
             warnHfPageVariantsOmittedFromNonPdfExport(documentId);
+            warnUdfOfficialEditorLimits(editorRef.current.getText(), documentId);
             const pageFormat = buildPageFormatFromMargins(getPaginationMargins(editorRef.current), hf.settings);
             const hfExtras = await buildUdfHfExportOptionsFromStore(
                 hf.settings,
@@ -229,9 +270,21 @@ const UdfFileEditorPanel: React.FC<UdfFileEditorPanelProps> = ({ filePath, fileN
                 setUyapVerificationMeta(nextVerification);
             }
             await syncUdfSignatureMetadataFromEntries(targetDocumentId, preserveZipEntries);
-            setUdfSignatureMeta(readUdfSignatureMetadata(targetDocumentId));
+            if (targetDocumentId === documentId) {
+                const nextSignature = readUdfSignatureMetadata(targetDocumentId);
+                setUdfSignatureMeta(nextSignature);
+                if (nextSignature?.signed) {
+                    armSignedUdfProtection(documentId);
+                    if (editorRef.current && !editorRef.current.isDestroyed) {
+                        baselineJsonRef.current = editorRef.current.getJSON();
+                    }
+                } else {
+                    releaseSignedUdfProtection(documentId);
+                    baselineJsonRef.current = null;
+                }
+            }
         },
-        [],
+        [documentId],
     );
 
     const handleSave = React.useCallback(async () => {
@@ -242,6 +295,19 @@ const UdfFileEditorPanel: React.FC<UdfFileEditorPanelProps> = ({ filePath, fileN
             const saveError = new Error('Editör hazır değil; imzalama başlatılamadı.');
             toastUyapSigningError(saveError);
             settleUdfSave(panelId, saveError);
+            return;
+        }
+        const signingPending = hasPendingUyapSignRequest(documentId);
+        if (isUyapTemplateProtected && !signingPending) {
+            setEditorSaveState('saved');
+            toast.message('UYAP şablon UDF: içerik korunuyor, imzasız kayıtta dosya değiştirilmedi.');
+            settleUdfSave(panelId);
+            return;
+        }
+        if (isSignedUdfWriteBlocked(documentId) && !signingPending) {
+            setSignedPromptOpen(true);
+            setEditorSaveState('unsaved');
+            settleUdfSave(panelId, new SignedUdfWriteDeferredError());
             return;
         }
         setIsSaving(true);
@@ -328,6 +394,93 @@ const UdfFileEditorPanel: React.FC<UdfFileEditorPanelProps> = ({ filePath, fileN
         setEditorSaveState,
         setSignExportOverlay,
     ]);
+
+    const discardSignedEdits = React.useCallback(() => {
+        if (signedPromptBusy) return;
+        const editor = editorRef.current;
+        const baseline = baselineJsonRef.current;
+        if (!editor || editor.isDestroyed || !baseline) return;
+        editor.commands.setContent(baseline, { emitUpdate: false });
+        dispatchSignedUdfEditReverted(documentId);
+        setSignedPromptOpen(false);
+        setEditorSaveState('saved');
+        uyapDebugLog('udf-panel', 'signed udf edit discarded', { documentId, filePath });
+    }, [documentId, filePath, setEditorSaveState, signedPromptBusy]);
+
+    const continueSignedUdfOnCopy = React.useCallback(async () => {
+        if (signedPromptBusy) return;
+        if (!editorRef.current) {
+            toast.error('Editör hazır değil.');
+            return;
+        }
+        setSignedPromptBusy(true);
+        setEditorSaveState('saving');
+        try {
+            const targetPath = await allocateSignedUdfCopyPath(filePath, fileName || 'Belge.udf');
+            const bytes = await buildSaveBytes();
+            await FileSystemService.writeFileBinary(targetPath, bytes);
+            const newName = basenameFromPath(targetPath);
+            dispatchSignedUdfEditReverted(documentId);
+            uyapDebugLog('udf-panel', 'signed udf edit moved to copy', { documentId, filePath, targetPath });
+            toast.success('Kopya üzerinde devam ediliyor', { description: newName });
+            setSignedPromptOpen(false);
+            setEditorSaveState('saved');
+            retargetUdfEditorTab(filePath, targetPath, newName);
+        } catch (e: unknown) {
+            const message = e instanceof Error ? e.message : 'Kopya oluşturulamadı.';
+            toast.error('Kopya oluşturulamadı', { description: message });
+            setEditorSaveState('unsaved');
+        } finally {
+            setSignedPromptBusy(false);
+        }
+    }, [
+        buildSaveBytes,
+        documentId,
+        fileName,
+        filePath,
+        retargetUdfEditorTab,
+        setEditorSaveState,
+        signedPromptBusy,
+    ]);
+
+    const confirmSignedOverwrite = React.useCallback(async () => {
+        if (signedPromptBusy) return;
+        setSignedPromptBusy(true);
+        try {
+            allowSignedUdfOriginalOverwrite(documentId);
+            setSignedPromptOpen(false);
+            uyapDebugLog('udf-panel', 'signed udf overwrite confirmed', { documentId, filePath });
+            await handleSave();
+        } finally {
+            setSignedPromptBusy(false);
+        }
+    }, [documentId, filePath, handleSave, signedPromptBusy]);
+
+    React.useEffect(() => {
+        const editor = editorRef.current;
+        if (!editor || editor.isDestroyed) return;
+        const onUpdate = ({
+            transaction,
+        }: {
+            transaction?: { docChanged: boolean; getMeta: (key: string) => unknown };
+        }) => {
+            if (!transaction?.docChanged) return;
+            if (transaction.getMeta('addToHistory') === false) return;
+            if (transaction.getMeta('preventUpdate')) return;
+            if (!isSignedUdfWriteBlocked(documentId)) return;
+            setSignedPromptOpen(true);
+        };
+        editor.on('update', onUpdate);
+        return () => {
+            editor.off('update', onUpdate);
+        };
+    }, [documentId, editorEpoch]);
+
+    React.useEffect(() => {
+        return () => {
+            releaseSignedUdfProtection(documentId);
+        };
+    }, [documentId]);
 
     const handleSaveAs = React.useCallback(async () => {
         if (isSaving) {
@@ -476,6 +629,19 @@ const UdfFileEditorPanel: React.FC<UdfFileEditorPanelProps> = ({ filePath, fileN
                 </div>
                 {uyapVerificationMeta ? <UyapVerificationBand meta={uyapVerificationMeta} /> : null}
             </div>
+            <SignedUdfEditDialog
+                open={signedPromptOpen}
+                fileName={fileName || 'Belge.udf'}
+                signerLabel={udfSignatureMeta?.signed ? udfSignatureMeta.signerName : null}
+                busy={signedPromptBusy}
+                onWorkOnCopy={() => {
+                    void continueSignedUdfOnCopy();
+                }}
+                onEditOriginal={() => {
+                    void confirmSignedOverwrite();
+                }}
+                onDiscard={discardSignedEdits}
+            />
         </div>
     );
 };

@@ -52,7 +52,7 @@ function measureCommentAnchorTopPx(
 }
 
 const MarginComments: React.FC<MarginCommentsProps> = ({ editor, documentId, zoom = 1 }) => {
-    const commentsRevision = useDocumentCommentsStore((s) => s.revision);
+    useDocumentCommentsStore((s) => s.revision);
     const draftCommentId = useDocumentCommentsStore((s) => s.draftCommentId);
     const draftCommentText = useDocumentCommentsStore((s) => s.draftCommentText);
     const setDraftCommentText = useDocumentCommentsStore((s) => s.setDraftCommentText);

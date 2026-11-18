@@ -20,6 +20,7 @@ import {
 } from '../../components/ui/select';
 import {
     Popover,
+    PopoverAnchor,
     PopoverContent,
     PopoverTrigger,
 } from '../../components/ui/popover';
@@ -180,7 +181,7 @@ const ParagraphStyleSelectItem = React.forwardRef<React.ElementRef<typeof Select
             <Tooltip>
                 <TooltipTrigger asChild>
                     <div className="flex flex-col items-center justify-center w-[48px] gap-2">
-                        <div className="relative flex h-[20px] w-[36px] shrink-0 items-center justify-center overflow-visible rounded border border-border/50 bg-background group-data-[state=checked]:border-primary/40 group-data-[state=checked]:bg-primary/5 transition-colors group-data-[state=checked]:shadow-[0_0_8px_hsl(var(--primary)/0.2)]">
+                        <div className="relative flex h-[20px] w-[36px] shrink-0 items-center justify-center overflow-visible rounded border border-border/50 bg-background group-data-[state=checked]:border-primary/40 group-data-[state=checked]:bg-primary/5 transition-colors group-data-[state=checked]:shadow-[0_0_8px_color-mix(in_srgb,var(--primary)_22%,transparent)]">
                             <span className={cn("pointer-events-none select-none leading-none", value === getHeadingSelectValue(editor) ? "blur-[0.5px]" : "")} style={{ ...previewStyle, whiteSpace: 'nowrap' }}>Aa</span>
                         </div>
                         <div className="flex w-full items-center justify-center gap-1 relative overflow-visible">
@@ -258,17 +259,6 @@ const FontSizeInput: React.FC<FontSizeInputProps> = ({ editor }) => {
         }
     }, [displayValue, mixed]);
 
-    useEffect(() => {
-        if (!open) return;
-        const onPointerDown = (e: PointerEvent) => {
-            if (!comboRef.current?.contains(e.target as Node)) {
-                setOpen(false);
-            }
-        };
-        document.addEventListener('pointerdown', onPointerDown);
-        return () => document.removeEventListener('pointerdown', onPointerDown);
-    }, [open]);
-
     const applySize = (val: string) => {
         const n = parseFloat(val);
         if (!isNaN(n) && n > 0) {
@@ -292,6 +282,7 @@ const FontSizeInput: React.FC<FontSizeInputProps> = ({ editor }) => {
     const sizeTooltip = mixed ? 'Karışık yazı boyutu (pt)' : 'Font Boyutu (pt)';
 
     return (
+        <Popover open={open} onOpenChange={setOpen}>
         <div className="relative flex items-center gap-0.5">
             <ToolbarTooltip label="Yazı boyutunu küçült">
                 <Button
@@ -308,6 +299,7 @@ const FontSizeInput: React.FC<FontSizeInputProps> = ({ editor }) => {
             </ToolbarTooltip>
 
             <ToolbarTooltip label={sizeTooltip}>
+                <PopoverAnchor asChild>
                 <div
                     ref={comboRef}
                     title={sizeTooltip}
@@ -366,34 +358,8 @@ const FontSizeInput: React.FC<FontSizeInputProps> = ({ editor }) => {
                     >
                         <MaterialIcon icon="arrow_drop_down" size={14} />
                     </button>
-
-                    {open && (
-                        <div
-                            className="absolute left-0 top-[calc(100%+4px)] z-[var(--z-floating)] flex max-h-52 w-20 flex-col overflow-y-auto rounded-md border border-white/10 bg-popover p-1 text-popover-foreground shadow-md glass-bg"
-                            role="listbox"
-                            aria-label="Önceden tanımlı yazı boyutları"
-                            onMouseDown={(e) => e.preventDefault()}
-                        >
-                            {EDITOR_FONT_SIZES_PT.map((s) => (
-                                <button
-                                    key={s}
-                                    type="button"
-                                    role="option"
-                                    aria-selected={!mixed && inputVal === String(s)}
-                                    className={`text-sm px-2 py-0.5 rounded hover:bg-muted text-left transition-colors ${!mixed && inputVal === String(s) ? 'bg-muted font-semibold' : ''}`}
-                                    onClick={() => {
-                                        setInputVal(String(s));
-                                        applySize(String(s));
-                                        setOpen(false);
-                                        inputRef.current?.blur();
-                                    }}
-                                >
-                                    {s}
-                                </button>
-                            ))}
-                        </div>
-                    )}
                 </div>
+                </PopoverAnchor>
             </ToolbarTooltip>
 
             <ToolbarTooltip label="Yazı boyutunu büyüt">
@@ -410,6 +376,42 @@ const FontSizeInput: React.FC<FontSizeInputProps> = ({ editor }) => {
                 </Button>
             </ToolbarTooltip>
         </div>
+        <PopoverContent
+            align="start"
+            sideOffset={4}
+            className="glass-glow flex w-20 max-h-52 flex-col overflow-y-auto p-1"
+            onOpenAutoFocus={(e) => e.preventDefault()}
+            onCloseAutoFocus={(e) => e.preventDefault()}
+            onInteractOutside={(e) => {
+                if (comboRef.current?.contains(e.target as Node)) e.preventDefault();
+            }}
+        >
+            <div
+                role="listbox"
+                aria-label="Önceden tanımlı yazı boyutları"
+                className="flex flex-col"
+                onMouseDown={(e) => e.preventDefault()}
+            >
+                {EDITOR_FONT_SIZES_PT.map((s) => (
+                    <button
+                        key={s}
+                        type="button"
+                        role="option"
+                        aria-selected={!mixed && inputVal === String(s)}
+                        className={`rounded px-2 py-0.5 text-left text-sm transition-colors hover:bg-muted ${!mixed && inputVal === String(s) ? 'bg-muted font-semibold' : ''}`}
+                        onClick={() => {
+                            setInputVal(String(s));
+                            applySize(String(s));
+                            setOpen(false);
+                            inputRef.current?.blur();
+                        }}
+                    >
+                        {s}
+                    </button>
+                ))}
+            </div>
+        </PopoverContent>
+        </Popover>
     );
 };
 
@@ -444,7 +446,7 @@ const FontFamilyPicker: React.FC<FontFamilyPickerProps> = ({ editor }) => {
                     <MaterialIcon icon="arrow_drop_down" size={16} className="shrink-0 opacity-60" />
                 </Button>
             </PopoverTrigger>
-            <PopoverContent className="w-52 p-1 glass" align="start" onOpenAutoFocus={(e) => e.preventDefault()}>
+            <PopoverContent className="glass-glow w-52 p-1" align="start" onOpenAutoFocus={(e) => e.preventDefault()}>
                 <div className="max-h-[360px] overflow-y-auto custom-scrollbar">
                     {FONT_GROUPS.map((group, gi) => (
                         <div key={group.label}>
@@ -738,7 +740,7 @@ const EditorToolbar: React.FC<EditorToolbarProps> = ({
                                 </Tooltip>
                                 <DropdownMenuContent
                                     align="start"
-                                    className="w-43 p-0 glass max-h-[220px] overflow-y-auto shadow-sm border-muted/40"
+                                    className="glass-glow w-64 max-h-[220px] !overflow-y-auto p-0"
                                 >
                                     {/* Üst Kısım: Hızlı İşlem */}
                                     <DropdownMenuItem
@@ -950,7 +952,7 @@ const EditorToolbar: React.FC<EditorToolbarProps> = ({
                             </SelectTrigger>
                             <SelectContent
                                 sideOffset={6}
-                                className="w-auto p-1.5 rounded-xl glass shadow-xl"
+                                className="glass-glow w-auto rounded-xl p-1.5"
                             >
                                 <div className="grid grid-cols-3 gap-1">
                                     <ParagraphStyleSelectItem value="p" textValue={BLOCK_STYLE_META.p.textValue} styleKey="p" shortcutLabel={shortcutHintFor('p')} editor={editor} />
@@ -1012,7 +1014,7 @@ const EditorToolbar: React.FC<EditorToolbarProps> = ({
                             <DropdownMenuContent
                                 align="start"
                                 collisionPadding={16}
-                                className="w-[260px] max-h-[min(28rem,calc(100vh-2rem))] overflow-y-auto overscroll-contain p-1.5 glass shadow-2xl border-muted/30"
+                                className="glass-glow w-[260px] max-h-[min(28rem,calc(100vh-2rem))] !overflow-y-auto overscroll-contain p-1.5"
                             >
                                 <div className="flex items-center gap-1.5 p-1">
                                     <div className="flex bg-muted/20 p-0.5 rounded-md flex-1 min-w-0">
@@ -1185,7 +1187,7 @@ const EditorToolbar: React.FC<EditorToolbarProps> = ({
                             </ToolbarTooltip>
                             <DropdownMenuContent
                                 align="start"
-                                className="w-[200px] p-1.5 glass shadow-xl border-muted/30"
+                                className="glass-glow w-[200px] p-1.5"
                             >
                                 {/* Page Break */}
                                 <div className="px-1 pt-0.5 pb-1">
@@ -1348,7 +1350,7 @@ const EditorToolbar: React.FC<EditorToolbarProps> = ({
                                     </Button>
                                 </DropdownMenuTrigger>
                             </ToolbarTooltip>
-                            <DropdownMenuContent align="start" className="w-[130px] glass p-1.5">
+                            <DropdownMenuContent align="start" className="glass-glow w-[130px] p-1.5">
                                 <DropdownMenuItem
                                     className="text-xs"
                                     onClick={() => {
@@ -1488,7 +1490,7 @@ const EditorToolbar: React.FC<EditorToolbarProps> = ({
                                             Numaralı Liste
                                         </TooltipContent>
                                     </Tooltip>
-                                    <PopoverContent className="w-auto p-1.5 glass backdrop-blur-xl border border-border/40 shadow-lg rounded-xl" align="start" sideOffset={6}>
+                                    <PopoverContent className="glass-glow w-auto rounded-xl p-1.5" align="start" sideOffset={6}>
                                         <div className="flex flex-wrap gap-1.5 max-w-[280px] justify-center">
                                             {/* Default: 1. a. i. */}
                                             <button

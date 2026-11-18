@@ -12,7 +12,7 @@
   "tertip": 5,
   "sourceUrl": "https://www.mevzuat.gov.tr/mevzuat?MevzuatNo=5549&MevzuatTur=1&MevzuatTertip=5",
   "kabulTarihi": "11/10/2006",
-  "maddeCount": 33,
+  "maddeCount": 36,
   "maddeler": [
     {
       "id": "kanun:5549:m:1",
@@ -151,7 +151,7 @@
       "maddeKind": "madde",
       "maddeNo": "9",
       "heading": "Madde 9",
-      "text": "(1) Kanunları veya faaliyet konuları gereğince, ekonomik olaylara, servet unsurlarına, vergi mükellefiyetlerine, nüfus bilgilerine ve yasa dışı faaliyetlere ilişkin kayıt tutan kamu kurum ve kuruluşları ile kamu kurumu niteliğindeki kurum ve kuruluşların bilgi işlem sistemlerine Bakanlık ve ilgili Bakanlığın veya kamu kurumu niteliğindeki kurum ve kuruluşların yetkili organlarının birlikte belirleyeceği usûl ve esaslar dahilinde Başkanlıkça erişim sistemi kurulabilir.\n (2) Türkiye Cumhuriyet Merkez Bankası hariç kamu sermayeli bankalar ile kamu iktisadî teşebbüsleri birinci fıkra kapsamı dışındadır.\n\n Elektronik tebligat\n MADDE 9/A- (Ek: 18/6/2014-6545/87 md.)\n (1) Bu Kanun ve 7/2/2013 tarihli ve 6415 sayılı Terörizmin Finansmanının Önlenmesi Hakkında Kanunun uygulanması kapsamında yapılacak tebligatlar, 11/2/1959 tarihli ve 7201 sayılı Tebligat Kanununun 7/A maddesinde düzenlenen elektronik tebligata ilişkin usullere bağlı olmaksızın, elektronik ortamda tebliğ edilebilir ve tebligata elektronik ortamda cevap verilmesi istenebilir. Bu şekilde yapılan tebligatlar karşı tarafa ulaştığında tebliğ edilmiş sayılır.\n (2) Başkanlık, elektronik ortamda yapılacak tebligatla ilgili her türlü teknik altyapıyı kurmaya veya kurulmuş olanları kullanmaya, tebliğe elverişli elektronik adres kullanma ve cevapların elektronik ortamda verilmesi zorunluluğu getirmeye, elektronik ortamda tebliğ yapılacaklar ile elektronik ortamdaki tebligata ilişkin diğer usul ve esasları belirlemeye yetkilidir.",
+      "text": "(1) Kanunları veya faaliyet konuları gereğince, ekonomik olaylara, servet unsurlarına, vergi mükellefiyetlerine, nüfus bilgilerine ve yasa dışı faaliyetlere ilişkin kayıt tutan kamu kurum ve kuruluşları ile kamu kurumu niteliğindeki kurum ve kuruluşların bilgi işlem sistemlerine Bakanlık ve ilgili Bakanlığın veya kamu kurumu niteliğindeki kurum ve kuruluşların yetkili organlarının birlikte belirleyeceği usûl ve esaslar dahilinde Başkanlıkça erişim sistemi kurulabilir.\n (2) Türkiye Cumhuriyet Merkez Bankası hariç kamu sermayeli bankalar ile kamu iktisadî teşebbüsleri birinci fıkra kapsamı dışındadır.",
       "preview": "(1) Kanunları veya faaliyet konuları gereğince, ekonomik olaylara, servet unsurlarına, vergi mükellefiyetlerine, nüfus bilgilerine ve yasa d…",
       "kitap": null,
       "kisim": null,
@@ -161,6 +161,23 @@
       "sectionPath": [
         "İKİNCİ BÖLÜM · Yükümlülükler ve Bilgi Değişimi",
         "Erişim sistemi"
+      ]
+    },
+    {
+      "id": "kanun:5549:m:9/A",
+      "maddeKind": "madde",
+      "maddeNo": "9/A",
+      "heading": "Madde 9/A",
+      "text": "(Ek: 18/6/2014-6545/87 md.)\n (1) Bu Kanun ve 7/2/2013 tarihli ve 6415 sayılı Terörizmin Finansmanının Önlenmesi Hakkında Kanunun uygulanması kapsamında yapılacak tebligatlar, 11/2/1959 tarihli ve 7201 sayılı Tebligat Kanununun 7/A maddesinde düzenlenen elektronik tebligata ilişkin usullere bağlı olmaksızın, elektronik ortamda tebliğ edilebilir ve tebligata elektronik ortamda cevap verilmesi istenebilir. Bu şekilde yapılan tebligatlar karşı tarafa ulaştığında tebliğ edilmiş sayılır.\n (2) Başkanlık, elektronik ortamda yapılacak tebligatla ilgili her türlü teknik altyapıyı kurmaya veya kurulmuş olanları kullanmaya, tebliğe elverişli elektronik adres kullanma ve cevapların elektronik ortamda verilmesi zorunluluğu getirmeye, elektronik ortamda tebliğ yapılacaklar ile elektronik ortamdaki tebligata ilişkin diğer usul ve esasları belirlemeye yetkilidir.",
+      "preview": "(Ek: 18/6/2014-6545/87 md.) (1) Bu Kanun ve 7/2/2013 tarihli ve 6415 sayılı Terörizmin Finansmanının Önlenmesi Hakkında Kanunun uygulanması…",
+      "kitap": null,
+      "kisim": null,
+      "bolum": "İKİNCİ BÖLÜM · Yükümlülükler ve Bilgi Değişimi",
+      "ayirim": null,
+      "maddeBaslik": "Elektronik tebligat",
+      "sectionPath": [
+        "İKİNCİ BÖLÜM · Yükümlülükler ve Bilgi Değişimi",
+        "Elektronik tebligat"
       ]
     },
     {
@@ -321,8 +338,8 @@
       "maddeKind": "madde",
       "maddeNo": "19",
       "heading": "Madde 19",
-      "text": "(Mülga: 2/7/2018-KHK-703/15 md.)\n\n İşlemlerin ertelenmesi[12]\n MADDE 19/A- (Ek: 14/4/2016 - 6704/20 md.)\n (1) Yükümlüler nezdinde veya bunlar aracılığıyla yapılmaya teşebbüs edilen ya da hâlihazırda devam eden işlemleri, işleme konu malvarlığının aklama veya terörün finansmanı suçu ile ilişkili olduğuna dair şüphe bulunması üzerine; Başkanlıkça şüpheyi teyit etmek, işlemi analiz etmek ya da gerekli görüldüğünde analiz sonuçlarını yetkili makamlara intikal ettirmek amacıyla yedi iş günü süreyle askıya almaya veya bu işlemlerin aynı süreyle gerçekleşmesine izin vermemeye Bakan yetkilidir. (Ek cümle:27/12/2020-7262/25 md.) Bakan bu yetkisini bakan yardımcısına devredebilir.\n (2) Bu yetki, yabancı bir muadil kuruluşun işlemin askıya alınması veya gerçekleşmesine izin verilmemesi yönündeki gerekçeli talebinde yer alan işlemler hakkında da Başkanlıkça aklama veya terörün finansmanı suçu ile ilişkili olduğuna dair şüphe görülmesi şartıyla mütekabiliyet ilkesi gözetilerek kullanılabilir.\n (3) (Ek:27/12/2020-7262/25 md.) Birinci fıkra kapsamında askıya alınan veya gerçekleşmesine izin verilmeyen işlemi, alınan karara aykırı şekilde gerçekleştiren yükümlülere işlem tutarı kadar Başkanlıkça idari para cezası verilir. Ancak verilecek idari para cezası elli bin Türk lirasından az olamaz.\n (4) Bu maddenin uygulanmasına ilişkin diğer usul ve esaslar Bakanlık tarafından çıkarılan yönetmelikle belirlenir.",
-      "preview": "(Mülga: 2/7/2018-KHK-703/15 md.) İşlemlerin ertelenmesi[12] MADDE 19/A- (Ek: 14/4/2016 - 6704/20 md.) (1) Yükümlüler nezdinde veya bunlar ar…",
+      "text": "(Mülga: 2/7/2018-KHK-703/15 md.)",
+      "preview": "(Mülga: 2/7/2018-KHK-703/15 md.)",
       "kitap": null,
       "kisim": null,
       "bolum": "DÖRDÜNCÜ BÖLÜM · Başkanlık ve Koordinasyon Kurulu",
@@ -331,6 +348,23 @@
       "sectionPath": [
         "DÖRDÜNCÜ BÖLÜM · Başkanlık ve Koordinasyon Kurulu",
         "Başkanlığın görev ve yetkileri"
+      ]
+    },
+    {
+      "id": "kanun:5549:m:19/A",
+      "maddeKind": "madde",
+      "maddeNo": "19/A",
+      "heading": "Madde 19/A",
+      "text": "(Ek: 14/4/2016 - 6704/20 md.)\n (1) Yükümlüler nezdinde veya bunlar aracılığıyla yapılmaya teşebbüs edilen ya da hâlihazırda devam eden işlemleri, işleme konu malvarlığının aklama veya terörün finansmanı suçu ile ilişkili olduğuna dair şüphe bulunması üzerine; Başkanlıkça şüpheyi teyit etmek, işlemi analiz etmek ya da gerekli görüldüğünde analiz sonuçlarını yetkili makamlara intikal ettirmek amacıyla yedi iş günü süreyle askıya almaya veya bu işlemlerin aynı süreyle gerçekleşmesine izin vermemeye Bakan yetkilidir. (Ek cümle:27/12/2020-7262/25 md.) Bakan bu yetkisini bakan yardımcısına devredebilir.\n (2) Bu yetki, yabancı bir muadil kuruluşun işlemin askıya alınması veya gerçekleşmesine izin verilmemesi yönündeki gerekçeli talebinde yer alan işlemler hakkında da Başkanlıkça aklama veya terörün finansmanı suçu ile ilişkili olduğuna dair şüphe görülmesi şartıyla mütekabiliyet ilkesi gözetilerek kullanılabilir.\n (3) (Ek:27/12/2020-7262/25 md.) Birinci fıkra kapsamında askıya alınan veya gerçekleşmesine izin verilmeyen işlemi, alınan karara aykırı şekilde gerçekleştiren yükümlülere işlem tutarı kadar Başkanlıkça idari para cezası verilir. Ancak verilecek idari para cezası elli bin Türk lirasından az olamaz.\n (4) Bu maddenin uygulanmasına ilişkin diğer usul ve esaslar Bakanlık tarafından çıkarılan yönetmelikle belirlenir.",
+      "preview": "(Ek: 14/4/2016 - 6704/20 md.) (1) Yükümlüler nezdinde veya bunlar aracılığıyla yapılmaya teşebbüs edilen ya da hâlihazırda devam eden işleml…",
+      "kitap": null,
+      "kisim": null,
+      "bolum": "DÖRDÜNCÜ BÖLÜM · Başkanlık ve Koordinasyon Kurulu",
+      "ayirim": null,
+      "maddeBaslik": "İşlemlerin ertelenmesi[12]",
+      "sectionPath": [
+        "DÖRDÜNCÜ BÖLÜM · Başkanlık ve Koordinasyon Kurulu",
+        "İşlemlerin ertelenmesi[12]"
       ]
     },
     {
@@ -472,8 +506,25 @@
       "maddeKind": "madde",
       "maddeNo": "28",
       "heading": "Madde 28",
-      "text": "(1) Bu Kanunun 13 ve 16 ncı maddelerinde yer alan maktu tutarlar her yılın başından geçerli olmak üzere, bir önceki yıl için 4/1/1961 tarihli ve 213 sayılı Vergi Usul Kanunu uyarınca belirlenen yeniden değerleme oranında artırılarak uygulanır. Hesaplamalarda on Yeni Türk Lirasına kadar olan tutarlar dikkate alınmaz.\n\n EK MADDE 1 ‒(Ek:26/9/2011-KHK-659/17)\n Başkanlık, aklama suçunun araştırılması ve incelenmesi ile yükümlülük denetimi görevlerini, denetim elemanları arasından Başkanın talebi üzerine ilgili birim amirinin teklifi ve bağlı veya ilgili bulundukları bakanın onayı ile belirlenerek Başkanlık emrinde üç yıla kadar geçici süreyle görevlendirilen denetim elemanları vasıtasıyla da yerine getirebilir. Bu süre aynı usul ve esaslar dahilinde üç yıla kadar daha uzatılabilir. Başkanlık emrinde görevlendirilen denetim elemanlarına görev süresi boyunca 25 inci madde uyarınca süre sınırlamasına tabi olmaksızın ek ödeme yapılır.",
+      "text": "(1) Bu Kanunun 13 ve 16 ncı maddelerinde yer alan maktu tutarlar her yılın başından geçerli olmak üzere, bir önceki yıl için 4/1/1961 tarihli ve 213 sayılı Vergi Usul Kanunu uyarınca belirlenen yeniden değerleme oranında artırılarak uygulanır. Hesaplamalarda on Yeni Türk Lirasına kadar olan tutarlar dikkate alınmaz.",
       "preview": "(1) Bu Kanunun 13 ve 16 ncı maddelerinde yer alan maktu tutarlar her yılın başından geçerli olmak üzere, bir önceki yıl için 4/1/1961 tarihl…",
+      "kitap": null,
+      "kisim": null,
+      "bolum": "BEŞİNCİ BÖLÜM · Çeşitli ve Son Hükümler",
+      "ayirim": null,
+      "maddeBaslik": "Maktu tutarların artırımı",
+      "sectionPath": [
+        "BEŞİNCİ BÖLÜM · Çeşitli ve Son Hükümler",
+        "Maktu tutarların artırımı"
+      ]
+    },
+    {
+      "id": "kanun:5549:m:ek:1",
+      "maddeKind": "ek",
+      "maddeNo": "1",
+      "heading": "Ek Madde 1",
+      "text": "(Ek:26/9/2011-KHK-659/17)\n Başkanlık, aklama suçunun araştırılması ve incelenmesi ile yükümlülük denetimi görevlerini, denetim elemanları arasından Başkanın talebi üzerine ilgili birim amirinin teklifi ve bağlı veya ilgili bulundukları bakanın onayı ile belirlenerek Başkanlık emrinde üç yıla kadar geçici süreyle görevlendirilen denetim elemanları vasıtasıyla da yerine getirebilir. Bu süre aynı usul ve esaslar dahilinde üç yıla kadar daha uzatılabilir. Başkanlık emrinde görevlendirilen denetim elemanlarına görev süresi boyunca 25 inci madde uyarınca süre sınırlamasına tabi olmaksızın ek ödeme yapılır.",
+      "preview": "(Ek:26/9/2011-KHK-659/17) Başkanlık, aklama suçunun araştırılması ve incelenmesi ile yükümlülük denetimi görevlerini, denetim elemanları ara…",
       "kitap": null,
       "kisim": null,
       "bolum": "BEŞİNCİ BÖLÜM · Çeşitli ve Son Hükümler",

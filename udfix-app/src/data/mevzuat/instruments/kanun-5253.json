@@ -12,7 +12,7 @@
   "tertip": 5,
   "sourceUrl": "https://www.mevzuat.gov.tr/mevzuat?MevzuatNo=5253&MevzuatTur=1&MevzuatTertip=5",
   "kabulTarihi": "4/11/2004",
-  "maddeCount": 43,
+  "maddeCount": 47,
   "maddeler": [
     {
       "id": "kanun:5253:m:1",
@@ -440,7 +440,7 @@
       "maddeKind": "madde",
       "maddeNo": "26",
       "heading": "Madde 26",
-      "text": "Derneklerin, tüzüklerinde gösterilen amaçları gerçekleştirmek üzere, eğitim ve öğretim faaliyetleri için yurt, pansiyon; üyeleri için lokal açmaları ve lokallerinde alkollü içki kullanılması ile bu tesislerin işletilmesi mülkî idare amirinden izin almalarına bağlıdır. (Mülga cümle:21/11/2024-7533/30 md.)\n\n Dernek lokallerinin açılması ve işletilmesi\n MADDE 26/A- (Ek:21/11/2024-7533/31 md.)\n En az bir yıldan beri faaliyette bulunan dernekler lokal açabilirler. Federasyon ve konfederasyonlarda bu şart aranmaz. Çocuk dernekleri lokal açamaz.\n Patlayıcı, parlayıcı ve yanıcı gibi tehlikeli maddeler üretilen, satılan, kullanılan ve depolanan yerlerde, öğretim kurumlarında, ibadethanelerde, öğretim kurumlarına ve ibadethanelere yüz metreden yakın mesafe içinde, öğrenci yurtlarının bulunduğu binalarda, itfaiye ve ambulans gibi müdahale ve yardım hizmetlerinin kolaylıkla ulaşamayacağı yerlerde, binaların ortak kullanılan bağımsız bölümlerinde, sabit veya seyyar olarak kullanılan kara, deniz, hava ve her çeşit taşıma araçlarında lokal açılamaz. Lokallerin açılmasına ilişkin usuller yönetmelikle düzenlenir.\n Lokalin hangi derneğe ait olduğunu belirten tabelanın dışarıdan ilk bakışta görülebilecek bir yere asılması zorunludur. Dernek lokallerinde bir sorumlu müdür bulunur. Dernek lokallerine mülki idare amiri tarafından alkollü içki izni verilebilmesi için lokalin içkili yer bölgesi içinde bulunması zorunludur. Dernek lokallerinde mülki idare amirinin kararıyla canlı müzik izni verilebilir.\n Dernek lokalleri, yönetim kurullarınca hazırlanan yönergeye göre işletilir. Lokallerin işletilmesine ilişkin usuller yönetmelikle düzenlenir.\n\n Dernek lokallerinin denetimi ve kapatılması\n MADDE 26/B- (Ek:21/11/2024-7533/32 md.)\n Lokallerin denetimi mülki idare amiri tarafından kamu görevlilerine veya kolluk kuvvetlerine yaptırılır. Lokal denetiminde önceden bildirimde bulunma ve mesai saatleri içinde yapılması şartı aranmaz.\n Bu Kanuna aykırı faaliyet gösterdiği, kumar oynandığı, alkollü içki sunumuna ilişkin izinler alınmaksızın alkollü içki kullandırıldığı, 24/6/2004 tarihli ve 5199 sayılı Hayvanları Koruma Kanunu kapsamında hayvanlara kötü muamelede bulunulduğu, fiziki veya psikolojik acı çektirildiği denetimde yetkilendirilmiş kişiler tarafından tespit edilen lokaller mülki idare amiri tarafından otuz günü geçmemek üzere geçici süreyle faaliyetten men edilir.\n Lokallerde 5237 sayılı Kanun kapsamında kumar oynanması için yer ve imkan sağlanmasının, uyuşturucu veya uyarıcı madde imal ve ticaretinin, kullanımının, kullanımının kolaylaştırılmasının, 10/7/1953 tarihli ve 6136 sayılı Ateşli Silahlar ve Bıçaklar ile Diğer Aletler Hakkında Kanuna aykırı silah bulundurulmasının veya satılmasının denetimde yetkilendirilmiş kişiler tarafından tespiti durumunda veya ikinci fıkrada belirtilen fiiller nedeniyle bir yıl içinde üç defa faaliyetten men edilen lokallerde, bu fiiller tekrar işlendiği takdirde lokal açma ve işletme belgesi mülki idare amirince iptal edilir.\n Bu maddenin uygulanmasına ilişkin usuller yönetmelikle düzenlenir.",
+      "text": "Derneklerin, tüzüklerinde gösterilen amaçları gerçekleştirmek üzere, eğitim ve öğretim faaliyetleri için yurt, pansiyon; üyeleri için lokal açmaları ve lokallerinde alkollü içki kullanılması ile bu tesislerin işletilmesi mülkî idare amirinden izin almalarına bağlıdır. (Mülga cümle:21/11/2024-7533/30 md.)",
       "preview": "Derneklerin, tüzüklerinde gösterilen amaçları gerçekleştirmek üzere, eğitim ve öğretim faaliyetleri için yurt, pansiyon; üyeleri için lokal…",
       "kitap": null,
       "kisim": null,
@@ -453,12 +453,63 @@
       ]
     },
     {
+      "id": "kanun:5253:m:26/A",
+      "maddeKind": "madde",
+      "maddeNo": "26/A",
+      "heading": "Madde 26/A",
+      "text": "(Ek:21/11/2024-7533/31 md.)\n En az bir yıldan beri faaliyette bulunan dernekler lokal açabilirler. Federasyon ve konfederasyonlarda bu şart aranmaz. Çocuk dernekleri lokal açamaz.\n Patlayıcı, parlayıcı ve yanıcı gibi tehlikeli maddeler üretilen, satılan, kullanılan ve depolanan yerlerde, öğretim kurumlarında, ibadethanelerde, öğretim kurumlarına ve ibadethanelere yüz metreden yakın mesafe içinde, öğrenci yurtlarının bulunduğu binalarda, itfaiye ve ambulans gibi müdahale ve yardım hizmetlerinin kolaylıkla ulaşamayacağı yerlerde, binaların ortak kullanılan bağımsız bölümlerinde, sabit veya seyyar olarak kullanılan kara, deniz, hava ve her çeşit taşıma araçlarında lokal açılamaz. Lokallerin açılmasına ilişkin usuller yönetmelikle düzenlenir.\n Lokalin hangi derneğe ait olduğunu belirten tabelanın dışarıdan ilk bakışta görülebilecek bir yere asılması zorunludur. Dernek lokallerinde bir sorumlu müdür bulunur. Dernek lokallerine mülki idare amiri tarafından alkollü içki izni verilebilmesi için lokalin içkili yer bölgesi içinde bulunması zorunludur. Dernek lokallerinde mülki idare amirinin kararıyla canlı müzik izni verilebilir.\n Dernek lokalleri, yönetim kurullarınca hazırlanan yönergeye göre işletilir. Lokallerin işletilmesine ilişkin usuller yönetmelikle düzenlenir.",
+      "preview": "(Ek:21/11/2024-7533/31 md.) En az bir yıldan beri faaliyette bulunan dernekler lokal açabilirler. Federasyon ve konfederasyonlarda bu şart a…",
+      "kitap": null,
+      "kisim": null,
+      "bolum": "DÖRDÜNCÜ BÖLÜM · İzne Tâbi Faaliyetler",
+      "ayirim": null,
+      "maddeBaslik": "Dernek lokallerinin açılması ve işletilmesi",
+      "sectionPath": [
+        "DÖRDÜNCÜ BÖLÜM · İzne Tâbi Faaliyetler",
+        "Dernek lokallerinin açılması ve işletilmesi"
+      ]
+    },
+    {
+      "id": "kanun:5253:m:26/B",
+      "maddeKind": "madde",
+      "maddeNo": "26/B",
+      "heading": "Madde 26/B",
+      "text": "(Ek:21/11/2024-7533/32 md.)\n Lokallerin denetimi mülki idare amiri tarafından kamu görevlilerine veya kolluk kuvvetlerine yaptırılır. Lokal denetiminde önceden bildirimde bulunma ve mesai saatleri içinde yapılması şartı aranmaz.\n Bu Kanuna aykırı faaliyet gösterdiği, kumar oynandığı, alkollü içki sunumuna ilişkin izinler alınmaksızın alkollü içki kullandırıldığı, 24/6/2004 tarihli ve 5199 sayılı Hayvanları Koruma Kanunu kapsamında hayvanlara kötü muamelede bulunulduğu, fiziki veya psikolojik acı çektirildiği denetimde yetkilendirilmiş kişiler tarafından tespit edilen lokaller mülki idare amiri tarafından otuz günü geçmemek üzere geçici süreyle faaliyetten men edilir.\n Lokallerde 5237 sayılı Kanun kapsamında kumar oynanması için yer ve imkan sağlanmasının, uyuşturucu veya uyarıcı madde imal ve ticaretinin, kullanımının, kullanımının kolaylaştırılmasının, 10/7/1953 tarihli ve 6136 sayılı Ateşli Silahlar ve Bıçaklar ile Diğer Aletler Hakkında Kanuna aykırı silah bulundurulmasının veya satılmasının denetimde yetkilendirilmiş kişiler tarafından tespiti durumunda veya ikinci fıkrada belirtilen fiiller nedeniyle bir yıl içinde üç defa faaliyetten men edilen lokallerde, bu fiiller tekrar işlendiği takdirde lokal açma ve işletme belgesi mülki idare amirince iptal edilir.\n Bu maddenin uygulanmasına ilişkin usuller yönetmelikle düzenlenir.",
+      "preview": "(Ek:21/11/2024-7533/32 md.) Lokallerin denetimi mülki idare amiri tarafından kamu görevlilerine veya kolluk kuvvetlerine yaptırılır. Lokal d…",
+      "kitap": null,
+      "kisim": null,
+      "bolum": "DÖRDÜNCÜ BÖLÜM · İzne Tâbi Faaliyetler",
+      "ayirim": null,
+      "maddeBaslik": "Dernek lokallerinin denetimi ve kapatılması",
+      "sectionPath": [
+        "DÖRDÜNCÜ BÖLÜM · İzne Tâbi Faaliyetler",
+        "Dernek lokallerinin denetimi ve kapatılması"
+      ]
+    },
+    {
       "id": "kanun:5253:m:27",
       "maddeKind": "madde",
       "maddeNo": "27",
       "heading": "Madde 27",
-      "text": "Kamu yararına çalışan dernekler, Cumhurbaşkanı kararıyla tespit edilir. Bir derneğin kamu yararına çalışan derneklerden sayılabilmesi için, en az bir yıldan beri faaliyette bulunması ve derneğin amacı ve bu amacı gerçekleştirmek üzere giriştiği faaliyetlerin topluma yararlı sonuçlar verecek nitelikte ve ölçüde olması şarttır.[8]\n Kamu yararına çalışan dernek statüsünün kazanılması, kaybedilmesi ve gerekli belgeler ile diğer esas ve usuller yönetmelikte düzenlenir.\n Kamu yararına çalışan dernekler en az iki yılda bir denetlenir. Yapılan denetimler sonucunda düzenlenen raporlar üzerine, kamu yararına çalışan derneklerin organlarında görev alan üyeler veya ilgili personel, hapis cezası verilmesini gerektiren suçların işlendiğinin tespit edilmesi halinde, geçici bir tedbir olarak İçişleri Bakanınca görevden uzaklaştırılabilir.[9] (Mülga son cümle: 8/6/2006-5519/1 md.)\n (Ek fıkra: 8/6/2006-5519/1 md.) Dernek merkezinin bulunduğu ilin valisi, görevden uzaklaştırılma kararının derneğe bildirilmesiyle eş zamanlı olarak, görevden uzaklaştırılan organların yerlerine; Türk Medenî Kanunu hükümlerine göre dernek merkezinin bulunduğu yerdeki sulh hukuk mahkemesinden kayyım atanmasını ister. Mahkeme bir hafta içinde, öncelikle dernek üyeleri arasından görevden uzaklaştırılanların sayısı kadar kayyım atanmasına karar verir ve bu kararda kayyımın görev ve yetkileri ile dernek tarafından kayyıma verilecek ücret de belirtilir. Kayyımın görevi dava sonucu verilen hüküm kesinleşinceye kadar devam eder. Çeşitli nedenlerle boşalan bu kayyımların yerine, aynı usûlle yeni kayyım atanır.\n Kamu yararına çalıştıklarına karar verilen dernekler, denetimler sonunda bu niteliklerini kaybettikleri tespit edilirse, birinci fıkrada öngörülen usulle haklarında alınan kamu yararına çalışan derneklerden sayılma kararı kaldırılır.\n Türkiye Kızılay Derneği ve Türk Hava Kurumunun tüzüklerini onaylamaya Cumhurbaşkanı yetkilidir.[10]\n Kamu yararına çalışan derneklerin mallarına karşı suç işleyenler Devlet malına karşı suç işlemiş gibi cezalandırılır.\n\n Madde 27/A- (Ek: 15/1/2009 – 5832/1 md.)\n Türkiye Kızılay Derneği uluslararası anlaşmalara göre tayin edilen nitelik ve duruma göre; merkezinde genel kurul, yönetim kurulu ve denetim kurulu, şubelerinde genel kurul ve yönetim kurulu oluşturulması şartıyla tüzüğünde belirlenen şekilde teşkilatlanır ve yönetilir. Kızılay’ın iş ve işlemleri; kanunların verdiği görev ve yetkilere, tüzüğüne ve yönetim kurulunca çıkarılan yönetmeliklere göre yürütülür.",
+      "text": "Kamu yararına çalışan dernekler, Cumhurbaşkanı kararıyla tespit edilir. Bir derneğin kamu yararına çalışan derneklerden sayılabilmesi için, en az bir yıldan beri faaliyette bulunması ve derneğin amacı ve bu amacı gerçekleştirmek üzere giriştiği faaliyetlerin topluma yararlı sonuçlar verecek nitelikte ve ölçüde olması şarttır.[8]\n Kamu yararına çalışan dernek statüsünün kazanılması, kaybedilmesi ve gerekli belgeler ile diğer esas ve usuller yönetmelikte düzenlenir.\n Kamu yararına çalışan dernekler en az iki yılda bir denetlenir. Yapılan denetimler sonucunda düzenlenen raporlar üzerine, kamu yararına çalışan derneklerin organlarında görev alan üyeler veya ilgili personel, hapis cezası verilmesini gerektiren suçların işlendiğinin tespit edilmesi halinde, geçici bir tedbir olarak İçişleri Bakanınca görevden uzaklaştırılabilir.[9] (Mülga son cümle: 8/6/2006-5519/1 md.)\n (Ek fıkra: 8/6/2006-5519/1 md.) Dernek merkezinin bulunduğu ilin valisi, görevden uzaklaştırılma kararının derneğe bildirilmesiyle eş zamanlı olarak, görevden uzaklaştırılan organların yerlerine; Türk Medenî Kanunu hükümlerine göre dernek merkezinin bulunduğu yerdeki sulh hukuk mahkemesinden kayyım atanmasını ister. Mahkeme bir hafta içinde, öncelikle dernek üyeleri arasından görevden uzaklaştırılanların sayısı kadar kayyım atanmasına karar verir ve bu kararda kayyımın görev ve yetkileri ile dernek tarafından kayyıma verilecek ücret de belirtilir. Kayyımın görevi dava sonucu verilen hüküm kesinleşinceye kadar devam eder. Çeşitli nedenlerle boşalan bu kayyımların yerine, aynı usûlle yeni kayyım atanır.\n Kamu yararına çalıştıklarına karar verilen dernekler, denetimler sonunda bu niteliklerini kaybettikleri tespit edilirse, birinci fıkrada öngörülen usulle haklarında alınan kamu yararına çalışan derneklerden sayılma kararı kaldırılır.\n Türkiye Kızılay Derneği ve Türk Hava Kurumunun tüzüklerini onaylamaya Cumhurbaşkanı yetkilidir.[10]\n Kamu yararına çalışan derneklerin mallarına karşı suç işleyenler Devlet malına karşı suç işlemiş gibi cezalandırılır.",
       "preview": "Kamu yararına çalışan dernekler, Cumhurbaşkanı kararıyla tespit edilir. Bir derneğin kamu yararına çalışan derneklerden sayılabilmesi için,…",
+      "kitap": null,
+      "kisim": null,
+      "bolum": "DÖRDÜNCÜ BÖLÜM · İzne Tâbi Faaliyetler",
+      "ayirim": null,
+      "maddeBaslik": "Kamu yararına çalışan dernekler",
+      "sectionPath": [
+        "DÖRDÜNCÜ BÖLÜM · İzne Tâbi Faaliyetler",
+        "Kamu yararına çalışan dernekler"
+      ]
+    },
+    {
+      "id": "kanun:5253:m:27/A",
+      "maddeKind": "madde",
+      "maddeNo": "27/A",
+      "heading": "Madde 27/A",
+      "text": "(Ek: 15/1/2009 – 5832/1 md.)\n Türkiye Kızılay Derneği uluslararası anlaşmalara göre tayin edilen nitelik ve duruma göre; merkezinde genel kurul, yönetim kurulu ve denetim kurulu, şubelerinde genel kurul ve yönetim kurulu oluşturulması şartıyla tüzüğünde belirlenen şekilde teşkilatlanır ve yönetilir. Kızılay’ın iş ve işlemleri; kanunların verdiği görev ve yetkilere, tüzüğüne ve yönetim kurulunca çıkarılan yönetmeliklere göre yürütülür.",
+      "preview": "(Ek: 15/1/2009 – 5832/1 md.) Türkiye Kızılay Derneği uluslararası anlaşmalara göre tayin edilen nitelik ve duruma göre; merkezinde genel kur…",
       "kitap": null,
       "kisim": null,
       "bolum": "DÖRDÜNCÜ BÖLÜM · İzne Tâbi Faaliyetler",
@@ -508,7 +559,7 @@
       "maddeKind": "madde",
       "maddeNo": "30",
       "heading": "Madde 30",
-      "text": "Dernekler;\n a) Tüzüklerinde gösterilen amaç ve bu amacı gerçekleştirmek üzere sürdürüleceği belirtilen çalışma konuları dışında faaliyette bulunamazlar.\n b) Anayasa ve kanunlarla açıkça yasaklanan amaçları veya konusu suç teşkil eden fiilleri gerçekleştirmek amacıyla kurulamaz.\n c) Askerliğe, millî savunma ve genel kolluk hizmetlerine hazırlayıcı öğretim ve eğitim faaliyetlerinde bulunamaz, bu amaçları gerçekleştirmek üzere kamp veya eğitim yerleri açamazlar. Üyeleri için özel kıyafet veya üniforma kullanamazlar.\n\n Görevden uzaklaştırma ve faaliyetten geçici alıkoyma\n MADDE 30/A- (Ek:27/12/2020-7262/15 md.) (İptal:Anayasa Mahkemesinin 18/1/2024 Tarihli ve E: 2021/28, K: 2024/11 Sayılı Kararı ile.)",
+      "text": "Dernekler;\n a) Tüzüklerinde gösterilen amaç ve bu amacı gerçekleştirmek üzere sürdürüleceği belirtilen çalışma konuları dışında faaliyette bulunamazlar.\n b) Anayasa ve kanunlarla açıkça yasaklanan amaçları veya konusu suç teşkil eden fiilleri gerçekleştirmek amacıyla kurulamaz.\n c) Askerliğe, millî savunma ve genel kolluk hizmetlerine hazırlayıcı öğretim ve eğitim faaliyetlerinde bulunamaz, bu amaçları gerçekleştirmek üzere kamp veya eğitim yerleri açamazlar. Üyeleri için özel kıyafet veya üniforma kullanamazlar.",
       "preview": "Dernekler; a) Tüzüklerinde gösterilen amaç ve bu amacı gerçekleştirmek üzere sürdürüleceği belirtilen çalışma konuları dışında faaliyette bu…",
       "kitap": null,
       "kisim": null,
@@ -518,6 +569,23 @@
       "sectionPath": [
         "BEŞİNCİ BÖLÜM · Yasaklar",
         "Kurulması yasak olan dernekler ve yasak faaliyetler"
+      ]
+    },
+    {
+      "id": "kanun:5253:m:30/A",
+      "maddeKind": "madde",
+      "maddeNo": "30/A",
+      "heading": "Madde 30/A",
+      "text": "(Ek:27/12/2020-7262/15 md.) (İptal:Anayasa Mahkemesinin 18/1/2024 Tarihli ve E: 2021/28, K: 2024/11 Sayılı Kararı ile.)",
+      "preview": "(Ek:27/12/2020-7262/15 md.) (İptal:Anayasa Mahkemesinin 18/1/2024 Tarihli ve E: 2021/28, K: 2024/11 Sayılı Kararı ile.)",
+      "kitap": null,
+      "kisim": null,
+      "bolum": "BEŞİNCİ BÖLÜM · Yasaklar",
+      "ayirim": null,
+      "maddeBaslik": "Görevden uzaklaştırma ve faaliyetten geçici alıkoyma",
+      "sectionPath": [
+        "BEŞİNCİ BÖLÜM · Yasaklar",
+        "Görevden uzaklaştırma ve faaliyetten geçici alıkoyma"
       ]
     },
     {

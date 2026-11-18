@@ -1,7 +1,7 @@
 import Mention from '@tiptap/extension-mention';
 import { mergeAttributes } from '@tiptap/core';
 import { DataService } from '../../services/dataService';
-import { formatWikiLinkNoteRef, findWikiLinkSuggestionMatch } from '../../utils/wikiLinks';
+import { findWikiLinkSuggestionMatch } from '../../utils/wikiLinks';
 import { findTagSuggestionMatch } from '../../utils/tagSuggestionMatch';
 import { turkishIncludes } from '../../utils/turkishSearch';
 import { textTemplateHashSuggestion } from '../editor/textTemplateSuggestion';

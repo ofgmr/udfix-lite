@@ -1105,14 +1105,15 @@ export const useLayoutStore = create<LayoutState>()(
                 const api = get().dockviewApi;
                 if (!api) return;
                 const active = api.activePanel as DockviewPanelApiLike | undefined;
-                if (!active?.api?.close) return;
+                const close = active?.api?.close;
+                if (!active || !close) return;
                 void (async () => {
                     try {
                         const noteId = getNoteIdFromPanelId(active.id);
                         if (noteId) {
                             await finalizeNoteEditorIfRegistered(noteId);
                         }
-                        active.api.close();
+                        close();
                     } catch (error) {
                         console.warn('close active tab failed', error);
                     }

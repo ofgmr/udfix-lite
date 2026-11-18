@@ -12,7 +12,7 @@
   "tertip": 5,
   "sourceUrl": "https://www.mevzuat.gov.tr/mevzuat?MevzuatNo=5411&MevzuatTur=1&MevzuatTertip=5",
   "kabulTarihi": "19/10/2005",
-  "maddeCount": 206,
+  "maddeCount": 208,
   "maddeler": [
     {
       "id": "kanun:5411:m:1",
@@ -1171,7 +1171,7 @@
       "maddeKind": "madde",
       "maddeNo": "66",
       "heading": "Madde 66",
-      "text": "Bu Kanunun 43 üncü maddesinin birinci fıkrası hükmü gereğince, konsolide bazda sınırlama ve oranlara tâbi olan ana ortaklık bankalar ve bunların yurt içi ve yurt dışı bağlı ortaklıkları, birlikte kontrol edilen ortaklıkları, şube ve temsilcilikleri konsolide denetime tâbidir.\n Birinci fıkrada belirtilen kuruluşlar, öncelikle iç kontrol, risk yönetimi ve iç denetim sistemleri, muhasebe ve finansal raporlama birimi, finansal tablolar ve raporları ile risk grubuna kullandırılan kredilere ilişkin bilgi ve belgeler olmak üzere her türlü kayıt, bilgi, belge, yapı ve sistemlerini konsolide denetime uygun ve hazır hale getirmek zorundadırlar.\n Bağlı ortaklık ve birlikte kontrol edilen ortaklıkların bu Kanun uyarınca yapılacak konsolide denetimi, gerek duyulması hâlinde, Kurum ve konsolide denetime tâbi kuruluşların denetimi ve gözetimi ile yetkili mercilerle birlikte gerçekleştirilir. Denetim sonuçları ile denetime esas bilgi ve belgeler anılan yetkili mercilerin görüşü alınarak Kurulca belirlenecek usûl ve esaslara göre paylaşılır ve kullanılır.\n\n Bankalarca hazırlanacak önlem planı\n Madde 66/A – (Ek:20/2/2020-7222/6 md.)\n Kurulca sistemik önemli olarak belirlenen bankalar, Kanun ve Kanuna istinaden çıkarılan düzenlemelerde yer alan koruyucu hükümlere uyumsuzluk nedeniyle veya sair suretle mali bünyelerinde bozulma yaratacak hâllerden herhangi birinin görülmesi veya görülme ihtimalinin ortaya çıkması hâlinde alınacak tedbirlerin önceden belirlenmesi maksadıyla, Kurulca belirlenecek usul ve esaslar çerçevesinde önlem planı hazırlamak ve Kuruma göndermekle yükümlüdür.\n Bu bankalar, konsolide veya konsolide olmayan bazda yaptıkları değerlendirmeler sonucunda, mali bünyelerinde bozulma yaratacak hâllerden herhangi birinin gerçekleşmesi veya gerçekleşme ihtimalinin ortaya çıkması durumlarında, önlem planında yer alan konsolide veya konsolide olmayan bazda uygulanacak tedbirleri almak ve ivedilikle Kuruma bilgi vermekle yükümlüdür.\n Kurumca konsolide veya konsolide olmayan bazda yapılan denetimler sonucunda mali bünyede bozulma meydana getirecek hâllerin gerçekleştiğinin veya gerçekleşme ihtimalinin tespit edilmesi hâlinde Kurum, bankadan önlem planında yer alan tedbirlerden birini veya birkaçını almasını isteyebilir. Bu maddenin uygulanmasına ilişkin usul ve esaslar Kurulca belirlenir.",
+      "text": "Bu Kanunun 43 üncü maddesinin birinci fıkrası hükmü gereğince, konsolide bazda sınırlama ve oranlara tâbi olan ana ortaklık bankalar ve bunların yurt içi ve yurt dışı bağlı ortaklıkları, birlikte kontrol edilen ortaklıkları, şube ve temsilcilikleri konsolide denetime tâbidir.\n Birinci fıkrada belirtilen kuruluşlar, öncelikle iç kontrol, risk yönetimi ve iç denetim sistemleri, muhasebe ve finansal raporlama birimi, finansal tablolar ve raporları ile risk grubuna kullandırılan kredilere ilişkin bilgi ve belgeler olmak üzere her türlü kayıt, bilgi, belge, yapı ve sistemlerini konsolide denetime uygun ve hazır hale getirmek zorundadırlar.\n Bağlı ortaklık ve birlikte kontrol edilen ortaklıkların bu Kanun uyarınca yapılacak konsolide denetimi, gerek duyulması hâlinde, Kurum ve konsolide denetime tâbi kuruluşların denetimi ve gözetimi ile yetkili mercilerle birlikte gerçekleştirilir. Denetim sonuçları ile denetime esas bilgi ve belgeler anılan yetkili mercilerin görüşü alınarak Kurulca belirlenecek usûl ve esaslara göre paylaşılır ve kullanılır.",
       "preview": "Bu Kanunun 43 üncü maddesinin birinci fıkrası hükmü gereğince, konsolide bazda sınırlama ve oranlara tâbi olan ana ortaklık bankalar ve bunl…",
       "kitap": null,
       "kisim": "ALTINCI KISIM · Denetim ve Alınacak Önlemler",
@@ -1181,6 +1181,23 @@
       "sectionPath": [
         "ALTINCI KISIM · Denetim ve Alınacak Önlemler",
         "Konsolide denetim"
+      ]
+    },
+    {
+      "id": "kanun:5411:m:66/A",
+      "maddeKind": "madde",
+      "maddeNo": "66/A",
+      "heading": "Madde 66/A",
+      "text": "(Ek:20/2/2020-7222/6 md.)\n Kurulca sistemik önemli olarak belirlenen bankalar, Kanun ve Kanuna istinaden çıkarılan düzenlemelerde yer alan koruyucu hükümlere uyumsuzluk nedeniyle veya sair suretle mali bünyelerinde bozulma yaratacak hâllerden herhangi birinin görülmesi veya görülme ihtimalinin ortaya çıkması hâlinde alınacak tedbirlerin önceden belirlenmesi maksadıyla, Kurulca belirlenecek usul ve esaslar çerçevesinde önlem planı hazırlamak ve Kuruma göndermekle yükümlüdür.\n Bu bankalar, konsolide veya konsolide olmayan bazda yaptıkları değerlendirmeler sonucunda, mali bünyelerinde bozulma yaratacak hâllerden herhangi birinin gerçekleşmesi veya gerçekleşme ihtimalinin ortaya çıkması durumlarında, önlem planında yer alan konsolide veya konsolide olmayan bazda uygulanacak tedbirleri almak ve ivedilikle Kuruma bilgi vermekle yükümlüdür.\n Kurumca konsolide veya konsolide olmayan bazda yapılan denetimler sonucunda mali bünyede bozulma meydana getirecek hâllerin gerçekleştiğinin veya gerçekleşme ihtimalinin tespit edilmesi hâlinde Kurum, bankadan önlem planında yer alan tedbirlerden birini veya birkaçını almasını isteyebilir. Bu maddenin uygulanmasına ilişkin usul ve esaslar Kurulca belirlenir.",
+      "preview": "(Ek:20/2/2020-7222/6 md.) Kurulca sistemik önemli olarak belirlenen bankalar, Kanun ve Kanuna istinaden çıkarılan düzenlemelerde yer alan ko…",
+      "kitap": null,
+      "kisim": "ALTINCI KISIM · Denetim ve Alınacak Önlemler",
+      "bolum": null,
+      "ayirim": null,
+      "maddeBaslik": "Bankalarca hazırlanacak önlem planı",
+      "sectionPath": [
+        "ALTINCI KISIM · Denetim ve Alınacak Önlemler",
+        "Bankalarca hazırlanacak önlem planı"
       ]
     },
     {
@@ -1341,7 +1358,7 @@
       "maddeKind": "madde",
       "maddeNo": "76",
       "heading": "Madde 76",
-      "text": "Bankalar, müşterilerinin, verilen hizmetlerden kaynaklanan her türlü sorularına cevap verecek bir sistem kurmakla ve bu hizmetle ilgili bilgiyi müşterilerine bildirmekle yükümlüdür. Bankalar, kredi sözleşmelerinin onaylı bir örneğini müşterilerine vermek zorundadır. Talepleri hâlinde müşteri ile yapılan diğer işlemlere ilişkin her türlü belgenin bir örneği de müşterilere verilir.\n (Değişik ikinci fıkra:18/6/2020-7247/6 md.) Bu Kanunun 4 üncü maddesinde yer alan faaliyet konularına ilişkin bankalar ve müşteriler arasındaki ilişkiler, yazılı şekilde veya uzaktan iletişim araçlarının kullanılması suretiyle mesafeli olarak ya da mesafeli olsun olmasın Kurulun yazılı şeklin yerine geçebileceğini belirlediği ve bir bilişim veya elektronik haberleşme cihazı üzerinden gerçekleştirilecek ve müşteri kimliğinin doğrulanmasına imkân verecek yöntemler yoluyla kurulacak sözleşmeler ile düzenlenir ve buna ilişkin usûl ve esaslar Kurul tarafından belirlenir. 7/11/2013 tarihli ve 6502 sayılı Tüketicinin Korunması Hakkında Kanun hükümleri saklı kalmak kaydıyla, bankalar ile bireysel müşterileri arasında akdedilecek sözleşmelerin içeriğinde yer alması gereken asgarî hususlar ile tip sözleşmelerin uygulanacağı işlemler, Kurulun uygun görüşü alınarak kuruluş birlikleri tarafından belirlenir.\n Bankaların, kimliklerini ve vergi numaralarını belgelemeyen müşterileri adına mevduat, katılım fonu, kredi ve her ne ad altında olursa olsun hesap açmaları, sözleşme düzenlemeleri, havale ve kambiyo hizmetleri ile diğer bankacılık ve malî hizmetleri vermeleri yasaktır. Bu fıkranın uygulanmasına ilişkin usûl ve esaslar Kurumun görüşü alınarak Malîye Bakanlığınca düzenlenir. Bu fıkra hükmüne ve Malîye Bakanlığınca yapılan düzenlemelere uymayanlar hakkında 2.4.1998 tarihli ve 4358 sayılı Kanunun 5 inci maddesi hükmünün uygulanması bu Kanunun kovuşturma usûlü hükümlerine tâbi değildir.\n\n Finansal piyasalarda manipülasyon ve yanıltıcı işlemler\n Madde 76/A – (Ek:20/2/2020-7222/11 md.)\n Bu Kanun kapsamındaki bankalar tarafından; 4 üncü maddede sayılan işlemler yoluyla finansal piyasalarda yapay arz, talep veya döviz kuru dahil fiyat oluşumunu sağlamak amaçlı işlem ve uygulamaların yapılması, internet ortamı dahil farklı araçlarla gerçeğe aykırı veya yanıltıcı bilgilerin yayılması, tasarruf sahiplerinin gerçeğe aykırı veya yanıltıcı şekilde yönlendirilmesi ya da bu amaçları sağlamaya yönelik benzer işlem ve uygulamaların yapılması, finansal piyasalarda manipülasyon ve yanıltıcı işlemler olarak kabul edilir. Bu madde kapsamına giren işlem ve uygulamalar Kurul tarafından belirlenir ve Resmî Gazete’de yayımlanır.",
+      "text": "Bankalar, müşterilerinin, verilen hizmetlerden kaynaklanan her türlü sorularına cevap verecek bir sistem kurmakla ve bu hizmetle ilgili bilgiyi müşterilerine bildirmekle yükümlüdür. Bankalar, kredi sözleşmelerinin onaylı bir örneğini müşterilerine vermek zorundadır. Talepleri hâlinde müşteri ile yapılan diğer işlemlere ilişkin her türlü belgenin bir örneği de müşterilere verilir.\n (Değişik ikinci fıkra:18/6/2020-7247/6 md.) Bu Kanunun 4 üncü maddesinde yer alan faaliyet konularına ilişkin bankalar ve müşteriler arasındaki ilişkiler, yazılı şekilde veya uzaktan iletişim araçlarının kullanılması suretiyle mesafeli olarak ya da mesafeli olsun olmasın Kurulun yazılı şeklin yerine geçebileceğini belirlediği ve bir bilişim veya elektronik haberleşme cihazı üzerinden gerçekleştirilecek ve müşteri kimliğinin doğrulanmasına imkân verecek yöntemler yoluyla kurulacak sözleşmeler ile düzenlenir ve buna ilişkin usûl ve esaslar Kurul tarafından belirlenir. 7/11/2013 tarihli ve 6502 sayılı Tüketicinin Korunması Hakkında Kanun hükümleri saklı kalmak kaydıyla, bankalar ile bireysel müşterileri arasında akdedilecek sözleşmelerin içeriğinde yer alması gereken asgarî hususlar ile tip sözleşmelerin uygulanacağı işlemler, Kurulun uygun görüşü alınarak kuruluş birlikleri tarafından belirlenir.\n Bankaların, kimliklerini ve vergi numaralarını belgelemeyen müşterileri adına mevduat, katılım fonu, kredi ve her ne ad altında olursa olsun hesap açmaları, sözleşme düzenlemeleri, havale ve kambiyo hizmetleri ile diğer bankacılık ve malî hizmetleri vermeleri yasaktır. Bu fıkranın uygulanmasına ilişkin usûl ve esaslar Kurumun görüşü alınarak Malîye Bakanlığınca düzenlenir. Bu fıkra hükmüne ve Malîye Bakanlığınca yapılan düzenlemelere uymayanlar hakkında 2.4.1998 tarihli ve 4358 sayılı Kanunun 5 inci maddesi hükmünün uygulanması bu Kanunun kovuşturma usûlü hükümlerine tâbi değildir.",
       "preview": "Bankalar, müşterilerinin, verilen hizmetlerden kaynaklanan her türlü sorularına cevap verecek bir sistem kurmakla ve bu hizmetle ilgili bilg…",
       "kitap": null,
       "kisim": "YEDİNCİ KISIM · Kanunî Yükümlülükler",
@@ -1351,6 +1368,23 @@
       "sectionPath": [
         "YEDİNCİ KISIM · Kanunî Yükümlülükler",
         "Müşteri hakları"
+      ]
+    },
+    {
+      "id": "kanun:5411:m:76/A",
+      "maddeKind": "madde",
+      "maddeNo": "76/A",
+      "heading": "Madde 76/A",
+      "text": "(Ek:20/2/2020-7222/11 md.)\n Bu Kanun kapsamındaki bankalar tarafından; 4 üncü maddede sayılan işlemler yoluyla finansal piyasalarda yapay arz, talep veya döviz kuru dahil fiyat oluşumunu sağlamak amaçlı işlem ve uygulamaların yapılması, internet ortamı dahil farklı araçlarla gerçeğe aykırı veya yanıltıcı bilgilerin yayılması, tasarruf sahiplerinin gerçeğe aykırı veya yanıltıcı şekilde yönlendirilmesi ya da bu amaçları sağlamaya yönelik benzer işlem ve uygulamaların yapılması, finansal piyasalarda manipülasyon ve yanıltıcı işlemler olarak kabul edilir. Bu madde kapsamına giren işlem ve uygulamalar Kurul tarafından belirlenir ve Resmî Gazete’de yayımlanır.",
+      "preview": "(Ek:20/2/2020-7222/11 md.) Bu Kanun kapsamındaki bankalar tarafından; 4 üncü maddede sayılan işlemler yoluyla finansal piyasalarda yapay arz…",
+      "kitap": null,
+      "kisim": "YEDİNCİ KISIM · Kanunî Yükümlülükler",
+      "bolum": null,
+      "ayirim": null,
+      "maddeBaslik": "Finansal piyasalarda manipülasyon ve yanıltıcı işlemler",
+      "sectionPath": [
+        "YEDİNCİ KISIM · Kanunî Yükümlülükler",
+        "Finansal piyasalarda manipülasyon ve yanıltıcı işlemler"
       ]
     },
     {

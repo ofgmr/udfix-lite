@@ -12,7 +12,7 @@
   "tertip": 5,
   "sourceUrl": "https://www.mevzuat.gov.tr/mevzuat?MevzuatNo=2464&MevzuatTur=1&MevzuatTertip=5",
   "kabulTarihi": "26/5/1981",
-  "maddeCount": 103,
+  "maddeCount": 104,
   "maddeler": [
     {
       "id": "kanun:2464:m:1",
@@ -22,14 +22,11 @@
       "text": "Konu:",
       "preview": "Konu:",
       "kitap": null,
-      "kisim": "BİRİNCİ KISIM · Belediye Vergileri",
-      "bolum": "İKİNCİ BÖLÜM · İlan ve Reklam Vergisi",
+      "kisim": null,
+      "bolum": null,
       "ayirim": null,
       "maddeBaslik": null,
-      "sectionPath": [
-        "BİRİNCİ KISIM · Belediye Vergileri",
-        "İKİNCİ BÖLÜM · İlan ve Reklam Vergisi"
-      ]
+      "sectionPath": []
     },
     {
       "id": "kanun:2464:m:12",
@@ -39,14 +36,11 @@
       "text": "Belediye sınırları ile mücavir alanları içinde yapılan her türlü İlan ve reklam, İlan ve Reklam Vergisine tabidir.",
       "preview": "Belediye sınırları ile mücavir alanları içinde yapılan her türlü İlan ve reklam, İlan ve Reklam Vergisine tabidir.",
       "kitap": null,
-      "kisim": "BİRİNCİ KISIM · Belediye Vergileri",
-      "bolum": "İKİNCİ BÖLÜM · İlan ve Reklam Vergisi",
+      "kisim": null,
+      "bolum": null,
       "ayirim": null,
       "maddeBaslik": null,
-      "sectionPath": [
-        "BİRİNCİ KISIM · Belediye Vergileri",
-        "İKİNCİ BÖLÜM · İlan ve Reklam Vergisi"
-      ]
+      "sectionPath": []
     },
     {
       "id": "kanun:2464:m:13",
@@ -56,13 +50,11 @@
       "text": "İlan ve Reklam Vergisinin mükellefi, yurt dışından gönderilen ilan ve reklamlar dahil olmak üzere, ilan ve reklamı kendi adına yapan veya yaptıran gerçek veya tüzel kişilerdir.\n İlan ve reklam işlerini mutat meslek olarak ifa edenler, başkaları adına yaptıkları ilan ve reklamlara ait vergileri mükellefler adına ilgili belediyeye yatırmaktan sorumludurlar.",
       "preview": "İlan ve Reklam Vergisinin mükellefi, yurt dışından gönderilen ilan ve reklamlar dahil olmak üzere, ilan ve reklamı kendi adına yapan veya ya…",
       "kitap": null,
-      "kisim": "BİRİNCİ KISIM · Belediye Vergileri",
-      "bolum": "İKİNCİ BÖLÜM · İlan ve Reklam Vergisi",
+      "kisim": null,
+      "bolum": null,
       "ayirim": null,
       "maddeBaslik": "Mükellef ve sorumlu:",
       "sectionPath": [
-        "BİRİNCİ KISIM · Belediye Vergileri",
-        "İKİNCİ BÖLÜM · İlan ve Reklam Vergisi",
         "Mükellef ve sorumlu:"
       ]
     },
@@ -74,13 +66,11 @@
       "text": "Aşağıda sayılan ilan ve reklamlardan vergi alınmaz.\n 1. Türkiye Radyo Televizyon Kurumu tarafından yayınlanan ve yapılan ilan ve reklamlar,\n 2. Her türlü gazete, dergi ve kitaplarda yapılan ilan ve reklamlar,\n 3. Gerçek kişilerin ikametgahlarının iç veya dış kapılarına konan ve kimliklerini gösteren levhalar,\n 4. İşletmelerin iştigal veya imal konusu maddelerinin ambalajları üzerinde bulunan ve kendi işlerine ait ilan ve reklamları ile ambalaj muhtevasından olan prospektüs ve tarifnameler,\n 5. Gerçek veya tüzel kişilere ait işyerlerinin içine veya dışına asılan iş sahibinin kimliği ile işin mahiyetini gösteren ve alanı 1/2 metrekareyi aşmayan ışıksız levhalar, (Alanı 1/2 metrekareyi aşan levhalar, aşan kısım üzerinden vergiye tabidir.)\n 6. Genel ve katma bütçeli idareler ile il özel idarelerinin, belediyelerin, köylerin ve bunların kuracakları birliklerin ve Posta - Telgraf - Telefon ve T.C. Devlet Demiryolları İşletmelerinin yapacakları her türlü ilan ve reklamlar,\n 7. Siyasi Partiler Kanununa göre, siyasi partilerin siyasi faaliyet sınırları içinde yapacakları ilan ve reklamlar,\n 8. Altıncı bentte yazılı idarelerle, kooperatifler ve kamu kurumu niteliğindeki meslek kuruluşları tarafından ülke ürünlerinin ve turizminin reklamını yapmak ve herhangi bir ticari ve sınai kuruluşa ait olmamak üzere hazırlanan her türlü levha ve afişlerle, aynı kuruluşlar tarafından Türkiye'deki ticaret, sanayi, tarım ve mesleki müesseselerinin isim ve ticaret unvanları ile ad ve adreslerini ihtiva etmek üzere yayınlanacak kitap, broşür, katalog ve dergiler,\n 9. Umumi mahallere reklam amacı ile konulacak sıra, bank ve benzeri gereçler üzerindeki ilan ve reklamlar,\n 10. Sinema ve tiyatroların kendi programlarına ilişkin olarak gösterinin yapıldığı binanın içinde ve dış yüzünde yaptıkları ilan ve reklamlar.\n 11. (Ek: 2/6/2022-7408/1 md.) Türkiye’de gerçekleştirilen fuarların düzenlendiği iç alanlarda yapılan ilan ve reklamlar.",
       "preview": "Aşağıda sayılan ilan ve reklamlardan vergi alınmaz. 1. Türkiye Radyo Televizyon Kurumu tarafından yayınlanan ve yapılan ilan ve reklamlar, 2…",
       "kitap": null,
-      "kisim": "BİRİNCİ KISIM · Belediye Vergileri",
-      "bolum": "İKİNCİ BÖLÜM · İlan ve Reklam Vergisi",
+      "kisim": null,
+      "bolum": null,
       "ayirim": null,
       "maddeBaslik": "İstisna ve muaflıklar:",
       "sectionPath": [
-        "BİRİNCİ KISIM · Belediye Vergileri",
-        "İKİNCİ BÖLÜM · İlan ve Reklam Vergisi",
         "İstisna ve muaflıklar:"
       ]
     },
@@ -92,13 +82,11 @@
       "text": "İlan ve Reklam Vergisi aşağıdaki tarifeye göre alınır.\n\n (Değişik Tarife: 30/12/2004-5281/16 md.)\n Verginin Tutarı (YTL)\n\n En az\n En çok\n\n 1. Dükkân, ticarî ve sınaî müessese ve serbest meslek erbabınca çeşitli yerlere asılan ve takılan her çeşit levha, yazı ve resim gibi tüm sabit ilân ve reklamların beher metrekaresinden yıllık olarak:\n 20\n 100\n\n 2. Motorlu taşıt araçlarının içine veya dışına konulan ilân ve reklamların beher metrekaresinden yıllık olarak:\n 8\n 40\n\n 3. Cadde, sokak ve yaya kaldırımları üzerine gerilen, binaların cephe ve yanlarına asılan bez veya sair maddeler vasıtasıyla yapılan geçici mahiyetteki ilân ve reklamların metrekaresinden haftalık olarak:\n 2\n 10\n\n 4. Işıklı veya projeksiyonlu ilân ve reklamlardan her metrekare için yıllık olarak:\n 30\n 150\n\n 5. İlân ve reklam amacıyla dağıtılan broşür, katalog, duvar ve cep takvimleri, biblolar veya benzerlerinin her biri için:\n 0,01\n 0,25\n\n 6. Mahiyeti ne olursa olsun yapıştırılacak çeşitli afişler ve benzerlerinin beherinin metrekaresinden:\n 0,02\n 0,50\n\n Vergi tarifesinin uygulanmasında aşağıdaki esaslara uyulur:\n a) Metrekare üzerinden yapılan hesaplamalarda, yarım metrekareye kadar olan kesirler yarım metrekareye, yarım metrekareyi aşanlar ise tam metrekareye tamamlanır.\n b) Herhangi bir yüzeye yazılmak, takılmak veya çizilmek suretiyle yapılan ilan ve reklamlarda yazı ve resimlerin kapladığı alanın yüzölçümü esas alınır.\n c) Çok cepheli ilan ve reklamlarda metrekare hesabı her cephe için ayrı ayrı nazara alınır,\n d) Vergi tarifesinin 1, 2 ve 4 üncü bentlerinde belirtilen ilan ve reklamların süresi 6 aydan; 3 üncü bendinde belirtilen ilan ve reklamın süresi 1 haftadan az olursa vergi miktarının yarısı alınır. 6 ayı geçen süreler 1 yıl, hafta kesirleri de tam hafta sayılır.\n e) Vergi tarifesinin 5 ve 6 ncı bentlerinde yer alan ve çok nüsha olarak basılan ilan ve reklamlar üzerinde basımevinin ticari unvanı, adresi ve kaç nüsha olarak basıldığı ayrıca belirtilir.",
       "preview": "İlan ve Reklam Vergisi aşağıdaki tarifeye göre alınır. (Değişik Tarife: 30/12/2004-5281/16 md.) Verginin Tutarı (YTL) En az En çok 1. Dükkân…",
       "kitap": null,
-      "kisim": "BİRİNCİ KISIM · Belediye Vergileri",
-      "bolum": "İKİNCİ BÖLÜM · İlan ve Reklam Vergisi",
+      "kisim": null,
+      "bolum": null,
       "ayirim": null,
       "maddeBaslik": "Tarife ve nispet:[1]",
       "sectionPath": [
-        "BİRİNCİ KISIM · Belediye Vergileri",
-        "İKİNCİ BÖLÜM · İlan ve Reklam Vergisi",
         "Tarife ve nispet:[1]"
       ]
     },
@@ -110,13 +98,11 @@
       "text": "Vergiye tabi ilan ve reklamlarda, ilan ve reklam işinin mükellefçe yapılması halinde ilan veya reklam işinin yapılmasından önce mükellef tarafından, ilan ve reklam işinin bu işi mutad meslek olarak ifa edenler tarafından yapılması halinde ilan ve reklam işini yapanlarca ilan veya reklamın yapıldığı ayı takip eden ayın 20 nci günü akşamına kadar verilecek beyanname üzerine, tarh ve tahakkuk ettirilir. Beyannameler vergi tarifesinin 1, 2, 3, 4, 5 ve 6 ncı bentlerinde yazılı ilan ve reklamlarda bunların yayınlandığı, dağıtıldığı veya teşhir edildiği mahallin belediyesine verilir,\n İlan ve Reklam Vergisi, beyanname verme süresi içinde ödenir. Şu kadar ki belediye meclisleri vergi tarifesinin 1, 2 ve 4 üncü bentlerinde yazılı yıllık ilan ve reklamlara ait vergileri, yılı içinde, iki eşit taksitte almaya yetkilidirler.\n İlan ve Reklam Vergisinin ödendiğinin belgelendirilmesi yönünden ilgili belediyeler gerekli usulleri ihdas edebilirler.",
       "preview": "Vergiye tabi ilan ve reklamlarda, ilan ve reklam işinin mükellefçe yapılması halinde ilan veya reklam işinin yapılmasından önce mükellef tar…",
       "kitap": null,
-      "kisim": "BİRİNCİ KISIM · Belediye Vergileri",
-      "bolum": "İKİNCİ BÖLÜM · İlan ve Reklam Vergisi",
+      "kisim": null,
+      "bolum": null,
       "ayirim": null,
       "maddeBaslik": "Verginin tarhı ve ödenmesi:",
       "sectionPath": [
-        "BİRİNCİ KISIM · Belediye Vergileri",
-        "İKİNCİ BÖLÜM · İlan ve Reklam Vergisi",
         "Verginin tarhı ve ödenmesi:"
       ]
     },
@@ -128,12 +114,11 @@
       "text": "Bu Kanunun 21 inci maddesinde belirtilen ve belediye sınırları ile mücavir alanlar içinde yer alan eğlence işletmelerinin faaliyetleri Eğlence Vergisine tabidir.",
       "preview": "Bu Kanunun 21 inci maddesinde belirtilen ve belediye sınırları ile mücavir alanlar içinde yer alan eğlence işletmelerinin faaliyetleri Eğlen…",
       "kitap": null,
-      "kisim": "BİRİNCİ KISIM · Belediye Vergileri",
+      "kisim": null,
       "bolum": "ÜÇÜNCÜ BÖLÜM · Eğlence Vergisi",
       "ayirim": null,
       "maddeBaslik": "Konu:",
       "sectionPath": [
-        "BİRİNCİ KISIM · Belediye Vergileri",
         "ÜÇÜNCÜ BÖLÜM · Eğlence Vergisi",
         "Konu:"
       ]
@@ -146,12 +131,11 @@
       "text": "Verginin mükellefi, eğlence yerlerini işleten gerçek veya tüzelkişilerdir.",
       "preview": "Verginin mükellefi, eğlence yerlerini işleten gerçek veya tüzelkişilerdir.",
       "kitap": null,
-      "kisim": "BİRİNCİ KISIM · Belediye Vergileri",
+      "kisim": null,
       "bolum": "ÜÇÜNCÜ BÖLÜM · Eğlence Vergisi",
       "ayirim": null,
       "maddeBaslik": "Mükellef:",
       "sectionPath": [
-        "BİRİNCİ KISIM · Belediye Vergileri",
         "ÜÇÜNCÜ BÖLÜM · Eğlence Vergisi",
         "Mükellef:"
       ]
@@ -164,12 +148,11 @@
       "text": "Aşağıda belirtilen eğlence faaliyetlerinden bu vergi alınmaz:\n 1. Ulusal bayramlar veya tarihi özellik taşıyan günler nedeniyle genel ve katma bütçeli idareler ile il özel idareleri, belediyeler, köyler ve bunların kurdukları birlikleri tarafından düzenlenen ve kazanç amacı gütmeyen tören, şenlik, müsabaka ve gösterilerle balo, temsil ve benzeri faaliyetler,\n 2. Genel ve katma bütçeli idareler, il özel idareleri, belediyeler ve köyler tarafından kültürel, sosyal, turistik ve ekonomik amaçlarla düzenlenen kongre, konferans, fuar, festival, şenlik, sergi ve benzeri faaliyetler ile tertip edilen eğlenceler ve konserler.\n 3. Eğitim ve öğretim kuruluşları ile okul dernekleri, kamu yararına çalışan dernekler, orduevleri, askeri gazinolar ve askeri dinlenme tesislerinde tertiplenen eğlenceler.\n 4. (Değişik: 14/3/2007-5602/10 md.) Spor Toto Teşkilat Başkanlığı tarafından düzenlenen müşterek bahis oynanması.\n 5. (Ek: 3/10/1984 – 3048/1 md.) Bira, alkollü içki içilmeyen, satılmayan ve ruhsatnamelerde kahvehane, kıraathane, çayhane ve çay ocakları olduğu belirtilen yerler.\n (Ek fıkra:24/6/2026-7587/14 md.) Bu Kanunun 21 inci maddesinin birinci fıkrasının (I) numaralı bendi kapsamında biletle girilen yerlerde, 18 yaşını veya tahsilde olup 25 yaşını doldurmamış kişilere düzenlenen biletler için vergi alınmaz.",
       "preview": "Aşağıda belirtilen eğlence faaliyetlerinden bu vergi alınmaz: 1. Ulusal bayramlar veya tarihi özellik taşıyan günler nedeniyle genel ve katm…",
       "kitap": null,
-      "kisim": "BİRİNCİ KISIM · Belediye Vergileri",
+      "kisim": null,
       "bolum": "ÜÇÜNCÜ BÖLÜM · Eğlence Vergisi",
       "ayirim": null,
       "maddeBaslik": "İstisna ve muaflıklar:",
       "sectionPath": [
-        "BİRİNCİ KISIM · Belediye Vergileri",
         "ÜÇÜNCÜ BÖLÜM · Eğlence Vergisi",
         "İstisna ve muaflıklar:"
       ]
@@ -182,12 +165,11 @@
       "text": "1. Biletle girilen yerlerde, Eğlence Vergisi hariç olmak üzere bilet bedeli olarak sağlanan gayri safi hasılat (bilet bedeli dışında bağış veya başka adlar altında alınan paralar dahil).\n 2. (Değişik: 14/3/2007-5602/10 md.) Müşterek bahislerde, iştirakçilerden tahsil edilen tutardan Katma Değer Vergisi düşüldükten sonra kalan tutar.\n 3. (Değişik: 3/10/1984 – 3048/2 md.) Biletle girilmesi zorunlu olmayan bar, pavyon, gazino, gece kulübü, taverna, diskotek, kabare, dansing, bilardo ve masa futbolu salonları gibi eğlence yerlerinde işin mahiyetine göre çalışılan her gün için bu Kanunun 96 ncı maddesine göre tespit edilen miktardır.[2]",
       "preview": "1. Biletle girilen yerlerde, Eğlence Vergisi hariç olmak üzere bilet bedeli olarak sağlanan gayri safi hasılat (bilet bedeli dışında bağış v…",
       "kitap": null,
-      "kisim": "BİRİNCİ KISIM · Belediye Vergileri",
+      "kisim": null,
       "bolum": "ÜÇÜNCÜ BÖLÜM · Eğlence Vergisi",
       "ayirim": null,
       "maddeBaslik": "Matrah:",
       "sectionPath": [
-        "BİRİNCİ KISIM · Belediye Vergileri",
         "ÜÇÜNCÜ BÖLÜM · Eğlence Vergisi",
         "Matrah:"
       ]
@@ -200,12 +182,11 @@
       "text": "Eğlence Vergisi aşağıdaki nispet ve miktarlarda alınır.\n\n Verginin Nispeti %\n\n I –Biletle Girilen Yerlerde:\n\n 1. Yerli film göstermelerinden[4]\n 20 (0)\n\n 2.Yabancı film göstermelerinden4\n 50 (0)\n\n 3. Tiyatro, opera, operet, bale, karagöz, kukla ve orta- oyunundan[5]\n 5 (0)\n\n 4. Spor müsabakaları, at yarışları ve konserlerden4\n 10 (0)\n\n 5. Sirkler, lunaparklar, çalgılı bahçeler ve benzerlerinden\n 20\n\n II – (Değişik: 14/3/2007-5602/10 md.) Müşterek Bahislerde:\n 5\n\n III – (Değişik: 30/12/2004-5281/17 md.) Biletle girilmesi zorunlu olmayan eğlence yerlerinden (Günlük, YTL)\n 5 100\n\n (Ek ikinci fıkra: 21/2/2001 – 4629/6 md.; Değişik: 3/3/2004 – 5101/2 md.) (I) numaralı bendin (1) ve (2) numaralı alt bentleri ile yerli ve yabancı film gösterimlerine ilişkin belirlenen vergi bu Kanunun 22 nci maddesinin (1) numaralı bendinde öngörüldüğü şekilde hesaplanarak biletler kullanılmadan önce mahallin mal müdürlüğüne veya muhasebe müdürlüğüne emaneten yatırılır. Ödemenin yapıldığına dair banka dekontunun ibrazı üzerine belediye tarafından biletlere özel damga konulur. Ödeme yapmayanlar hakkında 6183 sayılı Amme Alacaklarının Tahsil Usulü Hakkında Kanun hükümleri uygulanır. Bahsi geçen yerlerde toplanan meblağın % 75’i Kültür ve Turizm Bakanlığı Merkez Saymanlık hesabına, % 25’i ilgili belediyeye tahsilini takip eden ayın onbeşinci günü akşamına kadar aktarılır. (Ek cümle: 30/12/2004-5281/17 md.) Maliye Bakanlığı yukarıdaki şartlara bağlı kalmaksızın, biletle girilen yerlere ilişkin eğlence vergisinin hesaplanması ve ödenmesine dair işlemlerin ödeme kaydedici cihaz kullanılarak veya elektronik belge düzenlenmek suretiyle yapılmasına ait usûl ve esasları belirlemeye yetkilidir.[6][7]",
       "preview": "Eğlence Vergisi aşağıdaki nispet ve miktarlarda alınır. Verginin Nispeti % I –Biletle Girilen Yerlerde: 1. Yerli film göstermelerinden[4] 20…",
       "kitap": null,
-      "kisim": "BİRİNCİ KISIM · Belediye Vergileri",
+      "kisim": null,
       "bolum": "ÜÇÜNCÜ BÖLÜM · Eğlence Vergisi",
       "ayirim": null,
       "maddeBaslik": "Nispet ve miktar:[3]",
       "sectionPath": [
-        "BİRİNCİ KISIM · Belediye Vergileri",
         "ÜÇÜNCÜ BÖLÜM · Eğlence Vergisi",
         "Nispet ve miktar:[3]"
       ]
@@ -218,12 +199,11 @@
       "text": "1. Vergi biletle girilen yerlerde bilet bedellerine eklenmek suretiyle hesaplanır ve belediye tarafından özel damga konulması sırasında ödenir. Bu suretle alınan biletlerin kullanılmadan iadesi halinde peşin olarak ödenen vergi geri verilir.\n Genel ve Katma Bütçeli idarelerle İl Özel İdareleri ve köyler tarafından yürütülen spor müsabakaları, at yarışları ve benzeri faaliyetlerde bilet bedeli ile birlikte alınan vergi takip eden 20 gün içinde ilgili belediyeye ödenir.\n 2. Müşterek bahislerde her aya ait vergi o ayı takip eden ayın 20 nci günü akşamına kadar ilgili belediyeye bir beyanname ile bildirilir ve aynı sürede ödenir.\n 3. Biletle girilmesi zorunlu olmayan eğlence yerlerinde her aya ait vergi o ayı takip eden ayın 20 nci günü akşamına kadar ilgili belediyeye yatırılır.",
       "preview": "1. Vergi biletle girilen yerlerde bilet bedellerine eklenmek suretiyle hesaplanır ve belediye tarafından özel damga konulması sırasında öden…",
       "kitap": null,
-      "kisim": "BİRİNCİ KISIM · Belediye Vergileri",
+      "kisim": null,
       "bolum": "ÜÇÜNCÜ BÖLÜM · Eğlence Vergisi",
       "ayirim": null,
       "maddeBaslik": "Verginin ödenmesi:",
       "sectionPath": [
-        "BİRİNCİ KISIM · Belediye Vergileri",
         "ÜÇÜNCÜ BÖLÜM · Eğlence Vergisi",
         "Verginin ödenmesi:"
       ]
@@ -236,12 +216,11 @@
       "text": "28 – (Mülga: 7/11/1984 – 3074/8 md.)",
       "preview": "28 – (Mülga: 7/11/1984 – 3074/8 md.)",
       "kitap": null,
-      "kisim": "BİRİNCİ KISIM · Belediye Vergileri",
+      "kisim": null,
       "bolum": "DÖRDÜNCÜ BÖLÜM · Akaryakıt Tüketim Vergisi",
       "ayirim": null,
       "maddeBaslik": null,
       "sectionPath": [
-        "BİRİNCİ KISIM · Belediye Vergileri",
         "DÖRDÜNCÜ BÖLÜM · Akaryakıt Tüketim Vergisi"
       ]
     },
@@ -253,12 +232,11 @@
       "text": "(Değişik: 4/12/1985 – 3239/119 md.)\n Belediye sınırları ve mücavir alanlar içinde Posta Telgraf Telefon işletmesi tarafından tahsil edilen telefon, teleks, faksimili ve data ücretleri (tesis, devir ve nakil ücretleri hariç) Haberleşme Vergisine tabidir.",
       "preview": "(Değişik: 4/12/1985 – 3239/119 md.) Belediye sınırları ve mücavir alanlar içinde Posta Telgraf Telefon işletmesi tarafından tahsil edilen te…",
       "kitap": null,
-      "kisim": "BİRİNCİ KISIM · Belediye Vergileri",
+      "kisim": null,
       "bolum": "BEŞİNCİ BÖLÜM · Çeşitli Vergiler",
       "ayirim": null,
       "maddeBaslik": "Konu:",
       "sectionPath": [
-        "BİRİNCİ KISIM · Belediye Vergileri",
         "BEŞİNCİ BÖLÜM · Çeşitli Vergiler",
         "Konu:"
       ]
@@ -271,12 +249,11 @@
       "text": "Haberleşme Vergisinin mükellefi, telefon, teleks, faksimili ve data ücretlerini tahsil eden Posta Telgraf Telefon İdaresidir.",
       "preview": "Haberleşme Vergisinin mükellefi, telefon, teleks, faksimili ve data ücretlerini tahsil eden Posta Telgraf Telefon İdaresidir.",
       "kitap": null,
-      "kisim": "BİRİNCİ KISIM · Belediye Vergileri",
+      "kisim": null,
       "bolum": "BEŞİNCİ BÖLÜM · Çeşitli Vergiler",
       "ayirim": null,
       "maddeBaslik": "Mükellef:",
       "sectionPath": [
-        "BİRİNCİ KISIM · Belediye Vergileri",
         "BEŞİNCİ BÖLÜM · Çeşitli Vergiler",
         "Mükellef:"
       ]
@@ -289,12 +266,11 @@
       "text": "Haberleşme Vergisinin matrahı, tesis, devir ve nakil ücretleri hariç olmak üzere tahsil edilen ücrettir. Matraha gider vergileri dahil edilmez.",
       "preview": "Haberleşme Vergisinin matrahı, tesis, devir ve nakil ücretleri hariç olmak üzere tahsil edilen ücrettir. Matraha gider vergileri dahil edilm…",
       "kitap": null,
-      "kisim": "BİRİNCİ KISIM · Belediye Vergileri",
+      "kisim": null,
       "bolum": "BEŞİNCİ BÖLÜM · Çeşitli Vergiler",
       "ayirim": null,
       "maddeBaslik": "Matrah:",
       "sectionPath": [
-        "BİRİNCİ KISIM · Belediye Vergileri",
         "BEŞİNCİ BÖLÜM · Çeşitli Vergiler",
         "Matrah:"
       ]
@@ -307,12 +283,11 @@
       "text": "(Değişik birinci cümle: 12/1/1989 – 3517/5 md.) Haberleşme vergisinin nispeti yüzde 1’dir. Ancak genel ve katma bütçeli kurumlarla il özel idare ve belediyelere ve bunların kurdukları birliklere ait teleks, faksimili ve data ücretinden vergi alınmaz.",
       "preview": "(Değişik birinci cümle: 12/1/1989 – 3517/5 md.) Haberleşme vergisinin nispeti yüzde 1’dir. Ancak genel ve katma bütçeli kurumlarla il özel i…",
       "kitap": null,
-      "kisim": "BİRİNCİ KISIM · Belediye Vergileri",
+      "kisim": null,
       "bolum": "BEŞİNCİ BÖLÜM · Çeşitli Vergiler",
       "ayirim": null,
       "maddeBaslik": "Nispet:",
       "sectionPath": [
-        "BİRİNCİ KISIM · Belediye Vergileri",
         "BEŞİNCİ BÖLÜM · Çeşitli Vergiler",
         "Nispet:"
       ]
@@ -325,12 +300,11 @@
       "text": "Bir ay içinde tahsil edilen telefon, teleks, faksimili ve data ücretlerine isabet eden Haberleşme Vergisi, ilgili belediyeye tahsilatı takip eden ayın sonuna kadar bir beyanname ile bildirilir ve aynı süre içinde tediye edilir.\n Beyannamelerin şekil ve muhtevası Çevre ve Şehircilik ve Maliye Bakanlıklarınca tayin ve tespit olunur.[8]",
       "preview": "Bir ay içinde tahsil edilen telefon, teleks, faksimili ve data ücretlerine isabet eden Haberleşme Vergisi, ilgili belediyeye tahsilatı takip…",
       "kitap": null,
-      "kisim": "BİRİNCİ KISIM · Belediye Vergileri",
+      "kisim": null,
       "bolum": "BEŞİNCİ BÖLÜM · Çeşitli Vergiler",
       "ayirim": null,
       "maddeBaslik": "Beyan ve ödeme:",
       "sectionPath": [
-        "BİRİNCİ KISIM · Belediye Vergileri",
         "BEŞİNCİ BÖLÜM · Çeşitli Vergiler",
         "Beyan ve ödeme:"
       ]
@@ -343,12 +317,11 @@
       "text": "Belediye sınırları ve mücavir alanlar içinde elektrik ve havagazı tüketimi, Elektrik ve Havagazı Tüketim Vergisine tabidir.",
       "preview": "Belediye sınırları ve mücavir alanlar içinde elektrik ve havagazı tüketimi, Elektrik ve Havagazı Tüketim Vergisine tabidir.",
       "kitap": null,
-      "kisim": "BİRİNCİ KISIM · Belediye Vergileri",
+      "kisim": null,
       "bolum": "BEŞİNCİ BÖLÜM · Çeşitli Vergiler",
       "ayirim": null,
       "maddeBaslik": "Konu:",
       "sectionPath": [
-        "BİRİNCİ KISIM · Belediye Vergileri",
         "BEŞİNCİ BÖLÜM · Çeşitli Vergiler",
         "Konu:"
       ]
@@ -361,12 +334,11 @@
       "text": "Elektrik ve Havagazı tüketenler, Elektrik ve Havagazı Tüketim Vergisini ödemekle mükelleftirler.\n (Değişik ikinci fıkra: 9/7/2008-5784/14 md.) 20/2/2001 tarihli ve 4628 sayılı Elektrik Piyasası Kanununa göre elektrik enerjisini tedarik eden ve havagazını dağıtan kuruluşlar, satış bedeli ile birlikte bu verginin de tahsilinden ve ilgili belediyeye yatırılmasından sorumludurlar. Organize sanayi bölgelerinde tüketilen elektrik enerjisinin vergisini organize sanayi bölgeleri tüzel kişiliklerine elektriği temin eden kuruluş öder.",
       "preview": "Elektrik ve Havagazı tüketenler, Elektrik ve Havagazı Tüketim Vergisini ödemekle mükelleftirler. (Değişik ikinci fıkra: 9/7/2008-5784/14 md.…",
       "kitap": null,
-      "kisim": "BİRİNCİ KISIM · Belediye Vergileri",
+      "kisim": null,
       "bolum": "BEŞİNCİ BÖLÜM · Çeşitli Vergiler",
       "ayirim": null,
       "maddeBaslik": "Mükellef ve sorumlu:",
       "sectionPath": [
-        "BİRİNCİ KISIM · Belediye Vergileri",
         "BEŞİNCİ BÖLÜM · Çeşitli Vergiler",
         "Mükellef ve sorumlu:"
       ]
@@ -379,12 +351,11 @@
       "text": "Aşağıdaki yazılı yerlerde ve şekillerde tüketilen elektrik ve havagazı vergiden müstesnadır.\n 1. Kazanç amacı gütmemek şartıyla işletilen; hastane, dispanser, klinik, sağlık ocağı ve merkezleri, rehabilitasyon, teşhis ve tedavi merkez ve kurumları, doğum ve çocuk bakımevleri, kreşler, sanatoryum, Prevantoryum gibi sağlık kuruluşları ile düşkünler evi, yetimhaneler, Çocuk Esirgeme Kurumu ve korunmaya muhtaç çocukları koruma birliklerine ait çocuk yurtları ve bunlara bağlı işyerleri gibi sosyal yardım kuruluşlarında,\n 2. Dini hizmetlerin ifasına mahsus ve umuma açık bulunan cami, mescit, kilise ve havra gibi ibadethanelerde,\n 3. Milletlerarası panayır, sergi ve fuarlarda, bunların giriş yerlerinde, mal teşhir edilen ve satılan pavyonlarda,\n 4. Doğrudan doğruya elektrik ve havagazı üreten dağıtım ve istihsal müesseselerinde.",
       "preview": "Aşağıdaki yazılı yerlerde ve şekillerde tüketilen elektrik ve havagazı vergiden müstesnadır. 1. Kazanç amacı gütmemek şartıyla işletilen; ha…",
       "kitap": null,
-      "kisim": "BİRİNCİ KISIM · Belediye Vergileri",
+      "kisim": null,
       "bolum": "BEŞİNCİ BÖLÜM · Çeşitli Vergiler",
       "ayirim": null,
       "maddeBaslik": "İstisnalar:",
       "sectionPath": [
-        "BİRİNCİ KISIM · Belediye Vergileri",
         "BEŞİNCİ BÖLÜM · Çeşitli Vergiler",
         "İstisnalar:"
       ]
@@ -397,12 +368,11 @@
       "text": "(Değişik: 9/7/2008-5784/15 md.)\n Verginin matrahı; elektriğin iletimi, dağıtımı ve perakende satış hizmetlerine ilişkin bedelleri hariç olmak üzere, elektrik enerjisi satış bedeli ile havagazının satış bedelidir. Matraha vergi, fon ve paylar dahil edilmez.",
       "preview": "(Değişik: 9/7/2008-5784/15 md.) Verginin matrahı; elektriğin iletimi, dağıtımı ve perakende satış hizmetlerine ilişkin bedelleri hariç olmak…",
       "kitap": null,
-      "kisim": "BİRİNCİ KISIM · Belediye Vergileri",
+      "kisim": null,
       "bolum": "BEŞİNCİ BÖLÜM · Çeşitli Vergiler",
       "ayirim": null,
       "maddeBaslik": "Matrah:",
       "sectionPath": [
-        "BİRİNCİ KISIM · Belediye Vergileri",
         "BEŞİNCİ BÖLÜM · Çeşitli Vergiler",
         "Matrah:"
       ]
@@ -415,12 +385,11 @@
       "text": "Elektrik ve Havagazı Tüketim Vergisi aşağıda gösterilen nispetlerde alınır.\n a) İmal ve istihsal, taşıma, yükleme boşaltma, soğutma, telli ve telsiz telgraf ve telefon müraselesi işlerinde tüketilen elektriğin satış bedeli üzerinden yüzde 1,\n b) (a) bendi dışında kalan maksatlar için tüketilen elektriğin satış bedeli üzerinden yüzde 5,\n c) Havagazının satış bedelinden yüzde 5.",
       "preview": "Elektrik ve Havagazı Tüketim Vergisi aşağıda gösterilen nispetlerde alınır. a) İmal ve istihsal, taşıma, yükleme boşaltma, soğutma, telli ve…",
       "kitap": null,
-      "kisim": "BİRİNCİ KISIM · Belediye Vergileri",
+      "kisim": null,
       "bolum": "BEŞİNCİ BÖLÜM · Çeşitli Vergiler",
       "ayirim": null,
       "maddeBaslik": "Nispet:",
       "sectionPath": [
-        "BİRİNCİ KISIM · Belediye Vergileri",
         "BEŞİNCİ BÖLÜM · Çeşitli Vergiler",
         "Nispet:"
       ]
@@ -433,12 +402,11 @@
       "text": "Elektrik enerjisini tedarik eden veya havagazını dağıtan kuruluşlar tahsil ettikleri vergiyi, tahsil tarihini takibeden ayın 20 nci günü akşamına kadar belediyeye bir beyanname ile bildirmeye ve vergiyi aynı sürede ödemeye mecburdurlar. Elektrik ve havagazı işleri bütçesi içinde yer alan belediyeler bu hükümden müstesnadır.[9]",
       "preview": "Elektrik enerjisini tedarik eden veya havagazını dağıtan kuruluşlar tahsil ettikleri vergiyi, tahsil tarihini takibeden ayın 20 nci günü akş…",
       "kitap": null,
-      "kisim": "BİRİNCİ KISIM · Belediye Vergileri",
+      "kisim": null,
       "bolum": "BEŞİNCİ BÖLÜM · Çeşitli Vergiler",
       "ayirim": null,
       "maddeBaslik": "Beyan ve ödeme:",
       "sectionPath": [
-        "BİRİNCİ KISIM · Belediye Vergileri",
         "BEŞİNCİ BÖLÜM · Çeşitli Vergiler",
         "Beyan ve ödeme:"
       ]
@@ -451,12 +419,11 @@
       "text": "Belediye sınırları ve mücavir alanlar içindeki menkul ve gayrimenkul mallar için yapılan yangın sigortaları dolayısıyla alınan primler; Yangın Sigortası Vergisine tabidir.",
       "preview": "Belediye sınırları ve mücavir alanlar içindeki menkul ve gayrimenkul mallar için yapılan yangın sigortaları dolayısıyla alınan primler; Yang…",
       "kitap": null,
-      "kisim": "BİRİNCİ KISIM · Belediye Vergileri",
+      "kisim": null,
       "bolum": "BEŞİNCİ BÖLÜM · Çeşitli Vergiler",
       "ayirim": null,
       "maddeBaslik": "Konu:",
       "sectionPath": [
-        "BİRİNCİ KISIM · Belediye Vergileri",
         "BEŞİNCİ BÖLÜM · Çeşitli Vergiler",
         "Konu:"
       ]
@@ -469,12 +436,11 @@
       "text": "Yangın Sigortası Vergisini, sigorta şirketleri ödemekle mükelleftir.",
       "preview": "Yangın Sigortası Vergisini, sigorta şirketleri ödemekle mükelleftir.",
       "kitap": null,
-      "kisim": "BİRİNCİ KISIM · Belediye Vergileri",
+      "kisim": null,
       "bolum": "BEŞİNCİ BÖLÜM · Çeşitli Vergiler",
       "ayirim": null,
       "maddeBaslik": "Mükellef:",
       "sectionPath": [
-        "BİRİNCİ KISIM · Belediye Vergileri",
         "BEŞİNCİ BÖLÜM · Çeşitli Vergiler",
         "Mükellef:"
       ]
@@ -487,12 +453,11 @@
       "text": "Yangın Sigortası Vergisinin matrahı, yapılan yangın sigorta muameleleri dolayısıyla alınan primlerin tutarıdır.\n Sigorta şirketleri vergilendirme dönemi içinde iptal edilen yangın sigorta muamelelerine ait primleri, iptalin vukubulduğu döneme ait matrahtan indirilebilirler.",
       "preview": "Yangın Sigortası Vergisinin matrahı, yapılan yangın sigorta muameleleri dolayısıyla alınan primlerin tutarıdır. Sigorta şirketleri vergilend…",
       "kitap": null,
-      "kisim": "BİRİNCİ KISIM · Belediye Vergileri",
+      "kisim": null,
       "bolum": "BEŞİNCİ BÖLÜM · Çeşitli Vergiler",
       "ayirim": null,
       "maddeBaslik": "Matrah:",
       "sectionPath": [
-        "BİRİNCİ KISIM · Belediye Vergileri",
         "BEŞİNCİ BÖLÜM · Çeşitli Vergiler",
         "Matrah:"
       ]
@@ -505,12 +470,11 @@
       "text": "Yangın Sigortası Vergisinin nispeti yüzde 10’dur.",
       "preview": "Yangın Sigortası Vergisinin nispeti yüzde 10’dur.",
       "kitap": null,
-      "kisim": "BİRİNCİ KISIM · Belediye Vergileri",
+      "kisim": null,
       "bolum": "BEŞİNCİ BÖLÜM · Çeşitli Vergiler",
       "ayirim": null,
       "maddeBaslik": "Nispet:",
       "sectionPath": [
-        "BİRİNCİ KISIM · Belediye Vergileri",
         "BEŞİNCİ BÖLÜM · Çeşitli Vergiler",
         "Nispet:"
       ]
@@ -520,17 +484,33 @@
       "maddeKind": "madde",
       "maddeNo": "44",
       "heading": "Madde 44",
-      "text": "Mükellefler bir ay içindeki vergiye tabi muamelelerini ertesi ayın 20 nci günü akşamına kadar bağlı bulundukları belediyeye bir beyanname ile bildirmeye ve hesaplanan vergiyi aynı sürede ödemeye mecburdurlar. Beyannamelerin şekil ve muhtevası Maliye ve Ticaret bakanlıklarının görüşü alınarak Çevre ve Şehircilik Bakanlığınca tayin ve tespit olunur.[10]\n\n 4. Çevre temizlik vergisi:[11]\n Mükerrer Madde 44 – (Değişik:25/12/2003 – 5035/41 md.)\n Belediye sınırları ve mücavir alanlar içinde bulunan ve belediyelerin çevre temizlik hizmetlerinden yararlanan konut, iş yeri ve diğer şekillerde kullanılan binalar çevre temizlik vergisine tabidir.\n Genel ve katma bütçeli idareler, il özel idareleri, belediyeler, köyler, bunların kuracakları birlikler, darülaceze ve benzeri kuruluşlar ve üniversiteler tarafından münhasıran hizmetlerinde kullanılan binalar, Kızılay Genel Merkezi ile şubeleri ve kampları, Kredi ve Yurtlar Kurumuna ait öğrenci yurtları, korumalı işyerleri ile umuma açık ibadet yerleri, karşılıklı olmak şartıyla elçilik ve konsolosluk hizmetlerinde kullanılanlarla elçilerin ikametine mahsus olan binalar, milletlerarası kuruluşlar ve bunların temsilcilikleri tarafından kullanılan binalar ile bunların müştemilatı vergiye tâbi değildir.[12]\n Verginin mükellefi, binaları kullananlardır. Mükellefiyet binanın kullanımı ile başlar.\n (Değişik dördüncü fıkra: 30/12/2004-5281/18 md.) Konutlara ait çevre temizlik vergisi, su tüketim miktarı esas alınmak suretiyle metreküp başına büyükşehirlerde 15 YKr, diğer yerlerde 12 YKr olarak hesaplanır.\n (Değişik beşinci fıkra: 30/12/2004-5281/18 md.) İşyerleri ve diğer şekilde kullanılan binalara ait Çevre Temizlik Vergisi, aşağıdaki tarifeye göre alınır ve büyükşehirlerde % 25 artırımlı uygulanır.\n\n Yıllık Vergi Tutarı (YTL)\n\n Bina Grupları\n 1. Derece\n 2. Derece\n 3. Derece\n 4. Derece\n 5. Derece\n\n 1. Grup\n 1.400\n 1.120\n 840\n 700\n 560\n\n 2. Grup\n 850\n 670\n 500\n 420\n 340\n\n 3. Grup\n 560\n 450\n 340\n 280\n 225\n\n 4. Grup\n 280\n 225\n 170\n 140\n 115\n\n 5. Grup\n 170\n 140\n 100\n 85\n 70\n\n 6. Grup\n 85\n 70\n 50\n 40\n 30\n\n 7. Grup\n 30\n 25\n 18\n 15\n 12\n\n Belediyenin çevre temizlik hizmetlerinden yararlanan ancak, su ihtiyacını belediyece tesis edilmiş su şebekesi haricinden karşılayan konutlara ilişkin çevre temizlik vergisi, yukarıdaki tarifenin yedinci grubunun belediye meclisince belirlenecek derecesi üzerinden hesaplanır.\n Su tüketim miktarı esas alınmak suretiyle hesaplanan çevre temizlik vergisi, su faturasında ayrıca gösterilmek suretiyle tahakkuk etmiş sayılır. Bu suretle tahakkuk eden vergi, su tüketim bedeli ile birlikte belediyelerce tahsil edilir. Su ve kanalizasyon hizmetleri ayrı bir kanunla düzenlenmiş bulunan büyük şehir belediye sınırları ve mücavir alanlardaki çevre temizlik vergisi ise 20.11.1981 tarihli ve 2560 sayılı Kanun hükümlerine göre kurulan su ve kanalizasyon idarelerince tahsil edilir.\n İş yeri ve diğer şekillerde kullanılan binalara ait çevre temizlik vergisi, belediyelerce binaların tarifedeki derecelere intibak ettirilmesi üzerine her yılın Ocak ayında yıllık tutarı itibarıyla tahakkuk etmiş sayılır. Tahakkuk eden vergi, bir defaya mahsus olmak üzere, belediyelerin ilan mahallerinde bir ay süreyle topluca ilan edilir. İş yeri ve diğer şekilde kullanılan binalarla ilgili olarak tahakkuk eden bu vergi, her yıl, emlak vergisinin taksit sürelerinde ödenir.\n Su ve kanalizasyon idareleri büyük şehir dahilindeki her ilçe veya ilk kademe belediyesinin belediye ve mücavir alan sınırları içinde bulunan konutlara ilişkin olarak tahsil ettiği çevre temizlik vergisi ile bu verginin süresinde ödenmemesi nedeniyle tahsil ettiği gecikme zammının yüzde seksenini tahsilatı takip eden ayın yirminci günü akşamına kadar bir bildirim ile ilgili belediyeye bildirerek aynı süre içinde öder. Tahsil edilen vergi ve gecikme zammının yüzde yirmisini ise münhasıran çöp imha tesislerinin kuruluş ve işletmelerinde kullanılmak üzere büyük şehir belediyesinin hesabına tahsilatı takip eden ayın yirminci günü akşamına kadar aktarır. Büyük şehir belediye sınırları içinde bulunan belediyelerin kendileri tarafından tahsil edilen çevre temizlik vergisinin yüzde yirmisi aynı esaslar çerçevesinde büyük şehir belediyelerine aktarılır.\n Tahsil ettiği vergiyi veya gecikme zammını yukarıda belirtilen süre içinde ilgili belediyeye yatırmayan idarelerden, bu tutarlar 6183 sayılı Amme Alacaklarının Tahsil Usulü Hakkında Kanun hükümlerine göre gecikme zammı tatbik edilerek tahsil edilir.\n Bu maddenin dördüncü ve beşinci fıkralarında yer alan tutarlar, her yıl yeniden değerleme oranında artırılır. Bu tutarların belirlenmesinde, vergi tutarlarının yüzde beşini aşmayan kesirleri dikkate alınmaz.\n Cumhurbaşkanı; beşinci fıkradaki tarifede yer alan bina gruplarını belirlemeye ve bu maddenin dördüncü ve beşinci fıkralarında yer alan tutarları yöreler, belediyelerin nüfusları ve bina grupları itibarıyla ayrı ayrı dörtte birine kadar indirmeye veya yarısına kadar artırmaya yetkilidir.[13]\n Belediye meclisleri, bulundukları mahallin sosyal ve ekonomik farklılıkları ile büyüklüklerini de dikkate alarak binaların hangi dereceye gireceğini tespit etmeye yetkilidir.\n Maliye Bakanlığı, mükellefiyetle ilgili olarak bildirim verdirmeye ve buna ilişkin usulleri belirlemeye, Çevre ve Şehircilik Bakanlığının da görüşünü alarak bu maddenin uygulanmasına ilişkin usul ve esasları belirlemeye yetkilidir.[14]",
+      "text": "Mükellefler bir ay içindeki vergiye tabi muamelelerini ertesi ayın 20 nci günü akşamına kadar bağlı bulundukları belediyeye bir beyanname ile bildirmeye ve hesaplanan vergiyi aynı sürede ödemeye mecburdurlar. Beyannamelerin şekil ve muhtevası Maliye ve Ticaret bakanlıklarının görüşü alınarak Çevre ve Şehircilik Bakanlığınca tayin ve tespit olunur.[10]",
       "preview": "Mükellefler bir ay içindeki vergiye tabi muamelelerini ertesi ayın 20 nci günü akşamına kadar bağlı bulundukları belediyeye bir beyanname il…",
       "kitap": null,
-      "kisim": "BİRİNCİ KISIM · Belediye Vergileri",
+      "kisim": null,
       "bolum": "BEŞİNCİ BÖLÜM · Çeşitli Vergiler",
       "ayirim": null,
       "maddeBaslik": "Beyan ve ödeme:",
       "sectionPath": [
-        "BİRİNCİ KISIM · Belediye Vergileri",
         "BEŞİNCİ BÖLÜM · Çeşitli Vergiler",
         "Beyan ve ödeme:"
+      ]
+    },
+    {
+      "id": "kanun:2464:m:mukerrer:44",
+      "maddeKind": "mukerrer",
+      "maddeNo": "44",
+      "heading": "Mükerrer Madde 44",
+      "text": "(Değişik:25/12/2003 – 5035/41 md.)\n Belediye sınırları ve mücavir alanlar içinde bulunan ve belediyelerin çevre temizlik hizmetlerinden yararlanan konut, iş yeri ve diğer şekillerde kullanılan binalar çevre temizlik vergisine tabidir.\n Genel ve katma bütçeli idareler, il özel idareleri, belediyeler, köyler, bunların kuracakları birlikler, darülaceze ve benzeri kuruluşlar ve üniversiteler tarafından münhasıran hizmetlerinde kullanılan binalar, Kızılay Genel Merkezi ile şubeleri ve kampları, Kredi ve Yurtlar Kurumuna ait öğrenci yurtları, korumalı işyerleri ile umuma açık ibadet yerleri, karşılıklı olmak şartıyla elçilik ve konsolosluk hizmetlerinde kullanılanlarla elçilerin ikametine mahsus olan binalar, milletlerarası kuruluşlar ve bunların temsilcilikleri tarafından kullanılan binalar ile bunların müştemilatı vergiye tâbi değildir.[12]\n Verginin mükellefi, binaları kullananlardır. Mükellefiyet binanın kullanımı ile başlar.\n (Değişik dördüncü fıkra: 30/12/2004-5281/18 md.) Konutlara ait çevre temizlik vergisi, su tüketim miktarı esas alınmak suretiyle metreküp başına büyükşehirlerde 15 YKr, diğer yerlerde 12 YKr olarak hesaplanır.\n (Değişik beşinci fıkra: 30/12/2004-5281/18 md.) İşyerleri ve diğer şekilde kullanılan binalara ait Çevre Temizlik Vergisi, aşağıdaki tarifeye göre alınır ve büyükşehirlerde % 25 artırımlı uygulanır.\n\n Yıllık Vergi Tutarı (YTL)\n\n Bina Grupları\n 1. Derece\n 2. Derece\n 3. Derece\n 4. Derece\n 5. Derece\n\n 1. Grup\n 1.400\n 1.120\n 840\n 700\n 560\n\n 2. Grup\n 850\n 670\n 500\n 420\n 340\n\n 3. Grup\n 560\n 450\n 340\n 280\n 225\n\n 4. Grup\n 280\n 225\n 170\n 140\n 115\n\n 5. Grup\n 170\n 140\n 100\n 85\n 70\n\n 6. Grup\n 85\n 70\n 50\n 40\n 30\n\n 7. Grup\n 30\n 25\n 18\n 15\n 12\n\n Belediyenin çevre temizlik hizmetlerinden yararlanan ancak, su ihtiyacını belediyece tesis edilmiş su şebekesi haricinden karşılayan konutlara ilişkin çevre temizlik vergisi, yukarıdaki tarifenin yedinci grubunun belediye meclisince belirlenecek derecesi üzerinden hesaplanır.\n Su tüketim miktarı esas alınmak suretiyle hesaplanan çevre temizlik vergisi, su faturasında ayrıca gösterilmek suretiyle tahakkuk etmiş sayılır. Bu suretle tahakkuk eden vergi, su tüketim bedeli ile birlikte belediyelerce tahsil edilir. Su ve kanalizasyon hizmetleri ayrı bir kanunla düzenlenmiş bulunan büyük şehir belediye sınırları ve mücavir alanlardaki çevre temizlik vergisi ise 20.11.1981 tarihli ve 2560 sayılı Kanun hükümlerine göre kurulan su ve kanalizasyon idarelerince tahsil edilir.\n İş yeri ve diğer şekillerde kullanılan binalara ait çevre temizlik vergisi, belediyelerce binaların tarifedeki derecelere intibak ettirilmesi üzerine her yılın Ocak ayında yıllık tutarı itibarıyla tahakkuk etmiş sayılır. Tahakkuk eden vergi, bir defaya mahsus olmak üzere, belediyelerin ilan mahallerinde bir ay süreyle topluca ilan edilir. İş yeri ve diğer şekilde kullanılan binalarla ilgili olarak tahakkuk eden bu vergi, her yıl, emlak vergisinin taksit sürelerinde ödenir.\n Su ve kanalizasyon idareleri büyük şehir dahilindeki her ilçe veya ilk kademe belediyesinin belediye ve mücavir alan sınırları içinde bulunan konutlara ilişkin olarak tahsil ettiği çevre temizlik vergisi ile bu verginin süresinde ödenmemesi nedeniyle tahsil ettiği gecikme zammının yüzde seksenini tahsilatı takip eden ayın yirminci günü akşamına kadar bir bildirim ile ilgili belediyeye bildirerek aynı süre içinde öder. Tahsil edilen vergi ve gecikme zammının yüzde yirmisini ise münhasıran çöp imha tesislerinin kuruluş ve işletmelerinde kullanılmak üzere büyük şehir belediyesinin hesabına tahsilatı takip eden ayın yirminci günü akşamına kadar aktarır. Büyük şehir belediye sınırları içinde bulunan belediyelerin kendileri tarafından tahsil edilen çevre temizlik vergisinin yüzde yirmisi aynı esaslar çerçevesinde büyük şehir belediyelerine aktarılır.\n Tahsil ettiği vergiyi veya gecikme zammını yukarıda belirtilen süre içinde ilgili belediyeye yatırmayan idarelerden, bu tutarlar 6183 sayılı Amme Alacaklarının Tahsil Usulü Hakkında Kanun hükümlerine göre gecikme zammı tatbik edilerek tahsil edilir.\n Bu maddenin dördüncü ve beşinci fıkralarında yer alan tutarlar, her yıl yeniden değerleme oranında artırılır. Bu tutarların belirlenmesinde, vergi tutarlarının yüzde beşini aşmayan kesirleri dikkate alınmaz.\n Cumhurbaşkanı; beşinci fıkradaki tarifede yer alan bina gruplarını belirlemeye ve bu maddenin dördüncü ve beşinci fıkralarında yer alan tutarları yöreler, belediyelerin nüfusları ve bina grupları itibarıyla ayrı ayrı dörtte birine kadar indirmeye veya yarısına kadar artırmaya yetkilidir.[13]\n Belediye meclisleri, bulundukları mahallin sosyal ve ekonomik farklılıkları ile büyüklüklerini de dikkate alarak binaların hangi dereceye gireceğini tespit etmeye yetkilidir.\n Maliye Bakanlığı, mükellefiyetle ilgili olarak bildirim verdirmeye ve buna ilişkin usulleri belirlemeye, Çevre ve Şehircilik Bakanlığının da görüşünü alarak bu maddenin uygulanmasına ilişkin usul ve esasları belirlemeye yetkilidir.[14]",
+      "preview": "(Değişik:25/12/2003 – 5035/41 md.) Belediye sınırları ve mücavir alanlar içinde bulunan ve belediyelerin çevre temizlik hizmetlerinden yarar…",
+      "kitap": null,
+      "kisim": null,
+      "bolum": "BEŞİNCİ BÖLÜM · Çeşitli Vergiler",
+      "ayirim": null,
+      "maddeBaslik": "4. Çevre temizlik vergisi:[11]",
+      "sectionPath": [
+        "BEŞİNCİ BÖLÜM · Çeşitli Vergiler",
+        "4. Çevre temizlik vergisi:[11]"
       ]
     },
     {
@@ -1167,7 +1147,7 @@
       "maddeKind": "madde",
       "maddeNo": "79",
       "heading": "Madde 79",
-      "text": "Belediyeler ve belediyelere bağlı müesseselerden istenecek her türlü kayıt suretleriyle gayrimenkullerle ilgili harita plan ve krokilerin suretleri, Kayıt ve Suret Harcına tabidir.\n\n Altyapı kazı izni harcı:\n Mükerrer Madde 79 - (Ek: 15/2/2018-7099/10 md.)\n Belediye sınırları ve mücavir alanlar içinde umumi hizmet alanlarında yapılacak kazı işlemleri için belediyece verilecek altyapı kazı izni, altyapı kazı izni harcına tabidir. Bu harcın mükellefi altyapı kazı izni talebinde bulunanlardır.\n Altyapı kazı izni harcının matrahı, öncelikle Çevre ve Şehircilik Bakanlığınca yayımlanan birim fiyatlar olmak üzere Ulaştırma, Denizcilik ve Haberleşme Bakanlığı veya bunların ilgili birimlerince yayımlanan birim fiyatlarının, bu idarelerde kazı alanı türü itibarıyla birim fiyatının olmaması halinde diğer kamu kurum ve kuruluşlarınca yayımlanan birim fiyatlarının, kazı alanıyla çarpılması sonucu bulunan ve alan tahrip tutarı olarak tanımlanan tutardır. Altyapı kazı izni harcı, alan tahrip tutarı üzerinden binde 2 oranında alınır. Cumhurbaşkanı belediye grupları itibarıyla bu oranı yarısına kadar indirmeye, on katına kadar artırmaya yetkilidir.[27]\n Bu madde kapsamında verilecek altyapı kazı izinleri için ilgili belediyeden altyapı kazı izni belgesi alınır. Altyapı kazı izni başvuruları on beş gün içerisinde sonuçlandırılır. Altyapı kazı alanı ile kazı sırasında diğer altyapı tesislerine zarar verilmesi halinde bu tesisler kazıyı yapan tarafından eski haline getirilir. Altyapı kazı alanı, alan tahrip tutarının peşin yatırılması veya alan tahrip tutarı kadar teminat verilmesi halinde belediyece de kapatılabilir. İzinsiz altyapı kazısı yapanlara veya altyapı kazı alanını usulüne uygun kapatmayanlara belediye encümenince alan tahrip tutarının beş katına kadar idari para cezası verilir. İdari para cezası, ilgilisine tebliğ tarihinden itibaren bir ay içinde ödenir. Bu yerlerin alan tahrip tutarı, varsa teminatı düşülerek ayrıca tahsil edilir.",
+      "text": "Belediyeler ve belediyelere bağlı müesseselerden istenecek her türlü kayıt suretleriyle gayrimenkullerle ilgili harita plan ve krokilerin suretleri, Kayıt ve Suret Harcına tabidir.",
       "preview": "Belediyeler ve belediyelere bağlı müesseselerden istenecek her türlü kayıt suretleriyle gayrimenkullerle ilgili harita plan ve krokilerin su…",
       "kitap": null,
       "kisim": "İKİNCİ KISIM · Belediye Harçları",
@@ -1178,6 +1158,24 @@
         "İKİNCİ KISIM · Belediye Harçları",
         "SEKİZİNCİ BÖLÜM · Çeşitli Harçlar",
         "Kayıt ve suret harcı:"
+      ]
+    },
+    {
+      "id": "kanun:2464:m:mukerrer:79",
+      "maddeKind": "mukerrer",
+      "maddeNo": "79",
+      "heading": "Mükerrer Madde 79",
+      "text": "(Ek: 15/2/2018-7099/10 md.)\n Belediye sınırları ve mücavir alanlar içinde umumi hizmet alanlarında yapılacak kazı işlemleri için belediyece verilecek altyapı kazı izni, altyapı kazı izni harcına tabidir. Bu harcın mükellefi altyapı kazı izni talebinde bulunanlardır.\n Altyapı kazı izni harcının matrahı, öncelikle Çevre ve Şehircilik Bakanlığınca yayımlanan birim fiyatlar olmak üzere Ulaştırma, Denizcilik ve Haberleşme Bakanlığı veya bunların ilgili birimlerince yayımlanan birim fiyatlarının, bu idarelerde kazı alanı türü itibarıyla birim fiyatının olmaması halinde diğer kamu kurum ve kuruluşlarınca yayımlanan birim fiyatlarının, kazı alanıyla çarpılması sonucu bulunan ve alan tahrip tutarı olarak tanımlanan tutardır. Altyapı kazı izni harcı, alan tahrip tutarı üzerinden binde 2 oranında alınır. Cumhurbaşkanı belediye grupları itibarıyla bu oranı yarısına kadar indirmeye, on katına kadar artırmaya yetkilidir.[27]\n Bu madde kapsamında verilecek altyapı kazı izinleri için ilgili belediyeden altyapı kazı izni belgesi alınır. Altyapı kazı izni başvuruları on beş gün içerisinde sonuçlandırılır. Altyapı kazı alanı ile kazı sırasında diğer altyapı tesislerine zarar verilmesi halinde bu tesisler kazıyı yapan tarafından eski haline getirilir. Altyapı kazı alanı, alan tahrip tutarının peşin yatırılması veya alan tahrip tutarı kadar teminat verilmesi halinde belediyece de kapatılabilir. İzinsiz altyapı kazısı yapanlara veya altyapı kazı alanını usulüne uygun kapatmayanlara belediye encümenince alan tahrip tutarının beş katına kadar idari para cezası verilir. İdari para cezası, ilgilisine tebliğ tarihinden itibaren bir ay içinde ödenir. Bu yerlerin alan tahrip tutarı, varsa teminatı düşülerek ayrıca tahsil edilir.",
+      "preview": "(Ek: 15/2/2018-7099/10 md.) Belediye sınırları ve mücavir alanlar içinde umumi hizmet alanlarında yapılacak kazı işlemleri için belediyece v…",
+      "kitap": null,
+      "kisim": "İKİNCİ KISIM · Belediye Harçları",
+      "bolum": "SEKİZİNCİ BÖLÜM · Çeşitli Harçlar",
+      "ayirim": null,
+      "maddeBaslik": "Altyapı kazı izni harcı:",
+      "sectionPath": [
+        "İKİNCİ KISIM · Belediye Harçları",
+        "SEKİZİNCİ BÖLÜM · Çeşitli Harçlar",
+        "Altyapı kazı izni harcı:"
       ]
     },
     {
@@ -1239,7 +1237,7 @@
       "maddeKind": "madde",
       "maddeNo": "83",
       "heading": "Madde 83",
-      "text": "Yaptıkları işler ve gördükleri hizmetler dolayısıyla özel mevzuatı gereğince belediyelerden sağlık belgesi almak mecburiyetinde olan kişilere verilecek bu tür belgeler ile bunların belli aralıklarla yenilenmeleri “Sağlık Belgesi Harcına” tabidir.\n\n Esnaf muaflığı belgesi harcı:\n Mükerrer Madde 83 – (Ek: 22/7/1998-4369/79 md.; Mülga: 11/8/1999-4444/14 md.)",
+      "text": "Yaptıkları işler ve gördükleri hizmetler dolayısıyla özel mevzuatı gereğince belediyelerden sağlık belgesi almak mecburiyetinde olan kişilere verilecek bu tür belgeler ile bunların belli aralıklarla yenilenmeleri “Sağlık Belgesi Harcına” tabidir.",
       "preview": "Yaptıkları işler ve gördükleri hizmetler dolayısıyla özel mevzuatı gereğince belediyelerden sağlık belgesi almak mecburiyetinde olan kişiler…",
       "kitap": null,
       "kisim": "İKİNCİ KISIM · Belediye Harçları",
@@ -1250,6 +1248,24 @@
         "İKİNCİ KISIM · Belediye Harçları",
         "SEKİZİNCİ BÖLÜM · Çeşitli Harçlar",
         "Sağlık belgesi harcı:"
+      ]
+    },
+    {
+      "id": "kanun:2464:m:mukerrer:83",
+      "maddeKind": "mukerrer",
+      "maddeNo": "83",
+      "heading": "Mükerrer Madde 83",
+      "text": "(Ek: 22/7/1998-4369/79 md.; Mülga: 11/8/1999-4444/14 md.)",
+      "preview": "(Ek: 22/7/1998-4369/79 md.; Mülga: 11/8/1999-4444/14 md.)",
+      "kitap": null,
+      "kisim": "İKİNCİ KISIM · Belediye Harçları",
+      "bolum": "SEKİZİNCİ BÖLÜM · Çeşitli Harçlar",
+      "ayirim": null,
+      "maddeBaslik": "Esnaf muaflığı belgesi harcı:",
+      "sectionPath": [
+        "İKİNCİ KISIM · Belediye Harçları",
+        "SEKİZİNCİ BÖLÜM · Çeşitli Harçlar",
+        "Esnaf muaflığı belgesi harcı:"
       ]
     },
     {
@@ -1480,7 +1496,7 @@
       "maddeKind": "madde",
       "maddeNo": "97",
       "heading": "Madde 97",
-      "text": "(Değişik: 4/12/1985 – 3239/125 md.)\n Belediyeler bu Kanunda harç veya katılma payı konusu yapılmayan ve ilgililerin isteğine bağlı olarak ifa edecekleri her türlü hizmet (…)[40] için belediye meclislerince düzenlenecek tarifelere göre ücret almaya yetkilidir. Belediye’ye tekel olarak verilmiş işler kendi özel hükümlerine tabidir.\n (İkinci fıkra iptal: Anayasa Mahkemesinin 31/3/1987 tarihli ve E: 86/20, K.: 87/9 sayılı kararı ile)\n\n Müze giriş ücretleri ile madenlerden belediyelere pay:\n Mükerrer Madde 97 – (Ek: 4/12/1985 – 3239/126 md.)\n a) Cumhurbaşkanlığına bağlı milli saraylar hariç belediye ve mücavir alan sınırları içinde gerçek ve tüzelkişilerce işletilen her türlü müzelerin giriş ücretlerinin % 5’i belediye payı olarak ayrılır.[41][42]\n Belediye payı olarak ayrılan miktarın, tahsilini takip eden ayın 15 inci günü akşamına kadar müzenin bulunduğu yer (27.6.1984 gün ve 3030 sayılı Kanunun uygulandığı şehirde Büyük Şehir Belediyelerine) belediyesine ödenmesi mecburidir.\n Büyük Şehir Belediyelerince tahsil edilen payın yüzde 75’i Çevre ve Şehircilik Bakanlığınca bildirilecek son genel nüfus sayımı sonuçlarına göre nüfusları oranında ilgili ilçe belediyelerine dağıtılır.[43]\n b) (Değişik: 26/5/2004-5177/33 md.) Belediye sınırları ve mücavir alanlar içinde faaliyet gösteren maden işletmelerince, 3213 sayılı Maden Kanununun 14 üncü maddesinde yer alan paylara ilaveten yıllık satış tutarının % 0,2’si nispetinde belediye payı ayrılır.\n Bu pay, Devlet hakkının Hazineye ödenmesi sırasında ruhsat sahibi tarafından ilgili belediyeye ödenir.",
+      "text": "(Değişik: 4/12/1985 – 3239/125 md.)\n Belediyeler bu Kanunda harç veya katılma payı konusu yapılmayan ve ilgililerin isteğine bağlı olarak ifa edecekleri her türlü hizmet (…)[40] için belediye meclislerince düzenlenecek tarifelere göre ücret almaya yetkilidir. Belediye’ye tekel olarak verilmiş işler kendi özel hükümlerine tabidir.\n (İkinci fıkra iptal: Anayasa Mahkemesinin 31/3/1987 tarihli ve E: 86/20, K.: 87/9 sayılı kararı ile)",
       "preview": "(Değişik: 4/12/1985 – 3239/125 md.) Belediyeler bu Kanunda harç veya katılma payı konusu yapılmayan ve ilgililerin isteğine bağlı olarak ifa…",
       "kitap": null,
       "kisim": "DÖRDÜNCÜ KISIM · Çeşitli Hükümler",
@@ -1490,6 +1506,23 @@
       "sectionPath": [
         "DÖRDÜNCÜ KISIM · Çeşitli Hükümler",
         "Ücrete tabi işler:"
+      ]
+    },
+    {
+      "id": "kanun:2464:m:mukerrer:97",
+      "maddeKind": "mukerrer",
+      "maddeNo": "97",
+      "heading": "Mükerrer Madde 97",
+      "text": "(Ek: 4/12/1985 – 3239/126 md.)\n a) Cumhurbaşkanlığına bağlı milli saraylar hariç belediye ve mücavir alan sınırları içinde gerçek ve tüzelkişilerce işletilen her türlü müzelerin giriş ücretlerinin % 5’i belediye payı olarak ayrılır.[41][42]\n Belediye payı olarak ayrılan miktarın, tahsilini takip eden ayın 15 inci günü akşamına kadar müzenin bulunduğu yer (27.6.1984 gün ve 3030 sayılı Kanunun uygulandığı şehirde Büyük Şehir Belediyelerine) belediyesine ödenmesi mecburidir.\n Büyük Şehir Belediyelerince tahsil edilen payın yüzde 75’i Çevre ve Şehircilik Bakanlığınca bildirilecek son genel nüfus sayımı sonuçlarına göre nüfusları oranında ilgili ilçe belediyelerine dağıtılır.[43]\n b) (Değişik: 26/5/2004-5177/33 md.) Belediye sınırları ve mücavir alanlar içinde faaliyet gösteren maden işletmelerince, 3213 sayılı Maden Kanununun 14 üncü maddesinde yer alan paylara ilaveten yıllık satış tutarının % 0,2’si nispetinde belediye payı ayrılır.\n Bu pay, Devlet hakkının Hazineye ödenmesi sırasında ruhsat sahibi tarafından ilgili belediyeye ödenir.",
+      "preview": "(Ek: 4/12/1985 – 3239/126 md.) a) Cumhurbaşkanlığına bağlı milli saraylar hariç belediye ve mücavir alan sınırları içinde gerçek ve tüzelkiş…",
+      "kitap": null,
+      "kisim": "DÖRDÜNCÜ KISIM · Çeşitli Hükümler",
+      "bolum": null,
+      "ayirim": null,
+      "maddeBaslik": "Müze giriş ücretleri ile madenlerden belediyelere pay:",
+      "sectionPath": [
+        "DÖRDÜNCÜ KISIM · Çeşitli Hükümler",
+        "Müze giriş ücretleri ile madenlerden belediyelere pay:"
       ]
     },
     {
@@ -1769,8 +1802,8 @@
       "maddeKind": "madde",
       "maddeNo": "107",
       "heading": "Madde 107",
-      "text": "Bu Kanunu Bakanlar Kurulu yürütür.",
-      "preview": "Bu Kanunu Bakanlar Kurulu yürütür.",
+      "text": "Bu Kanunu Bakanlar Kurulu yürütür.\n\n1 – 21/1/1982 tarihli ve 2589 sayılı Kanunun geçici maddeleri:\n\nGeçici Madde 1 -\nBina İnşaat Vergisi ödenmek suretiyle inşaat ruhsatı alınmış bulunan hallerde inşaat ruhsatının sonradan kısmen veya tamamen iptal edilmesi halinde, daha önce ödenmiş bulunan ve iptal edilen kısma isabet eden Bina İnşaat Vergisi, Maliye Vergi dairelerince mükellefe red ve iade edilir.\n\nGeçici Madde 2 -\nBu Kanunun yürürlük tarihinden önceki dönemlere ait Bina İnşaat Vergisinin tarh, tahakkuk ve tahsilinde, 1318 sayılı Finansman Kanununun Bina İnşaat Vergisine ilişkin hükümleri ile ek ve değişikliklerine ait kanun hükümleri uygulanır.\n\nGeçici Madde 3 -\n1982 ve 1983 takvim yıllarında, bu Kanunla 2464 sayılı Kanuna eklenen Bina İnşaat Harcının Ek Madde 6’da yer alan tarifesinde kayıtlı en az miktarların yarısı uygulanır.\n Şu kadar ki 100 m2 ye kadar olan konut inşaatlarında söz konusu tarifede kayıtlı en az miktarlar uygulanır.\n\n 2 – 3/10/1984 tarihli ve 3048 sayılı Kanunun geçici maddesi:\n Geçici Madde – 2464 sayılı Belediye Gelirleri Kanununun 19 uncu maddesinin istisna ve muaflıklar bölümüne ilave edilen 5 inci bent gereğince itiraz safhasında ve açılmış davalar, bu Kanunun yayımı tarihinde bütün neticeleri ile ortadan kalkar.\n 2464 SAYILI KANUNA EK VE DEĞİŞİKLİK GETİREN MEVZUATIN VEYA\n ANAYASA MAHKEMESİ KARARLARININ YÜRÜRLÜĞE GİRİŞ\n TARİHLERİNİ GÖSTERİR TABLO\n\n Değiştiren Kanunun veya İptal Eden Anayasa Mahkemesi Kararının Numarası\n 2464 Sayılı Kanunun Değişen veya İptal Edilen Maddeleri\n Yürürlüğe Giriş Tarihi\n\n 2589\n 80, 106, Ek Madde 1, Ek Madde 2, Ek Madde 3, Ek Madde 4, Ek Madde 5, Ek Madde 6, İşlenemeyen Hükümler\n 1/2/1982\n\n 3048\n 19, İşlenemeyen Hükümler\n 6/10/1984\n\n 3074\n 23, 24, 25, 26, 27, 28\n 1/12/1984\n\n 3239\n 29, 45, 46, 47, 48, 49, 50, 51, 72, 89, 91, 93, 96, 97, 104\n 1/1/1986\n\n 3365\n 1, 80, Geçici Madde 4\n 1/1/1987 tarihinden geçerli olmak üzere 26/5/1987\n\n 3914\n Mükerrer Madde 44\n 24/7/1993 tarihini izleyen aybaşında\n\n 4369\n 80 inci maddesi\n 29/7/1998\n\n 4444\n 9 uncu maddesi\n 1/1/2000\n\n 4629\n 21\n 1/1/2002 tarihinden geçerli olmak üzere 3/3/2001 tarihinde\n\n 5035\n Mükerrer Madde 44, Geçici Madde 5\n 2/1/2004\n\n 5101\n 21,52\n 12/3/2004\n\n 5177\n Mükerrer Madde 97\n 5/6/2004\n\n 5281\n 15, 21, Mükerrer Madde 44, 56, 60, 63, 70, 74, 77, 84 ve Ek Madde 6\n 1/1/2005 tarihinden geçerli olmak üzere 31/12/2004\n\n 5602\n 19, 20, 21\n 21/3/2007 tarihini izleyen aybaşında\n\n 5679\n Ek Madde 2, Madde 80\n 7/6/2007\n\n 5784\n 35, 37, 39\n 26/7/2008\n\n 5917\n Geçici Madde 6\n 10/7/2009\n\n 6360\n 86\n 6/12/2012\n\n Anayasa Mahkemesinin 29/12/2011 tarihli ve\n E.: 2010/62 ve\n K.: 2011/175 sayılı Kararı\n 96/B\n 19/5/2012 tarihinden başlayarak bir yıl sonra\n (19/5/2013)\n\n 6487\n 20, 60, 96\n 19/5/2013 tarihinden geçerli olmak üzere 11/6/2013\n\n 6518\n Mükerrer Madde 44\n 19/2/2014\n\n 6527\n 96, Geçici Madde 7\n 1/3/2014\n\n 6728\n Ek Madde 2, 80\n 9/8/2016\n\n 7033\n 58\n 1/7/2017\n\n 7099\n Mükerrer Madde 79\n 10/3/2018\n\n KHK/700\n Mükerrer Madde 44, 76, Mükerrer Madde 79, 89, 93, 96, 100,\n Geçici Madde 7\n 24/6/2018 tarihinde birlikte yapılan Türkiye Büyük Millet Meclisi ve Cumhurbaşkanlığı seçimleri sonucunda Cumhurbaşkanının andiçerek göreve başladığı tarihte (9/7/2018)\n\n KHK/703\n Mükerrer 97\n 24/6/2018 tarihinde birlikte yapılan Türkiye Büyük Millet Meclisi ve Cumhurbaşkanlığı seçimleri sonucunda Cumhurbaşkanının andiçerek göreve başladığı tarihte (9/7/2018)\n\n 7153\n 33, 44, Mükerrer 44, 85, 89, 94, 95, Mükerrer 97,104\n 10/12/2018\n\n 7162\n 21\n 30/1/2019\n\n 7261\n 56\n 30/12/2020\n\n 7327\n Ek Madde 7\n 19/6/2021\n\n 7408\n 14\n 4/6/2022\n\n 7587\n 19\n 1/7/2026\n\n 2464 SAYILI KANUNUN ÇEŞİTLİ MADDELERİNDEKİ ORAN VE MİKTARLARDA ÇEŞİTLİ MEVZUAT İLE YAPILAN\n DEĞİŞİKLİKLER CETVELİ\n\n Değişiklik Yapan\n Kararnamenin/Tebliğin\n Yayımlandığı Resmî Gazete'nin\n Değişiklik Gören Madde\n\n Tarihi\n Numarası\n Tarihi\n Numarası\n\n 28/12/1983\n 83/7539\n 31/12/1983\n 18268\n Ek madde 6\n\n 20/12/1985\n 85/10174\n 26/12/1985\n 18970\n 21\n\n 13/1/1988\n 88/12514\n 10/3/1988\n 19750\n 65, 74, 77, Ek madde 6, 84\n\n 7/1/1991\n 91/1365\n 8/2/1991\n 20780\n 21\n\n 3/5/1992\n 92/3278\n 5/9/1992\n 21336\n 15, 21, 56, 60, 65, 74, 77, Ek Madde 6, 84\n\n Tebliğ\n 22\n 13/12/1996\n 22846\n Mükkerrer 44\n\n Tebliğ\n 23\n 16/12/1997\n 23202 Mük.\n Mükkerrer 44\n\n Tebliğ\n 24\n 1/12/1998\n 23540 Mük.\n Mükkerrer 44\n\n Tebliğ\n 26\n 16/12/1999\n 23908\n Mükkerrer 44\n\n Tebliğ\n 27\n 21/12/2000\n 24267\n Mükerrer 44\n\n Tebliğ\n 28\n 14/12/2001\n 24613\n Mükerrer 44\n\n Tebliğ\n 29\n 28/12/2002\n 24977\n Mükerrer 44\n\n Tebliğ\n 32\n 30/12/2005\n 26039\n Mükerrer 44\n\n Tebliğ\n 33\n 20/12/2006\n 26382\n Mükerrer 44\n\n Tebliğ\n 34\n 26/12/2007\n 26738\n Mükkerrer 44\n\n Tebliğ\n 35\n 23/12/2008\n 27089\n Mükkerrer 44\n\n Tebliğ\n 38\n 29/12/2009\n 27447\n Mükkerrer 44\n\n Tebliğ\n 39\n 29/12/2010\n 27800 (6.Mük.)\n Mükkerrer 44\n\n Tebliğ\n 40\n 26/12/2011\n 28154\n Mükkerrer 44\n\n Tebliğ\n 42\n 31/12/2012\n 28514 (4.Mük.)\n Mükkerrer 44\n\n Tebliğ\n 43\n 30/12/2013\n 28867 (Mük.)\n Mükkerrer 44\n\n 10/2/2014\n 2014/5896\n 18/2/2014\n 28917\n 15, 21, 56, 60, 84\n\n Tebliğ\n 46\n 30/12/2014\n 29221\n Mükkerrer 44\n\n Tebliğ\n 47\n 25/12/2015\n 29573\n Mükkerrer 44\n\n Tebliğ\n 48\n 27/12/2016\n 29931\n Mükkerrer 44\n\n Tebliğ\n 49\n 29/12/2017\n 30285 (Mük.)\n Mükkerrer 44\n\n Tebliğ\n 51\n 31/12/2018\n 30642 (3.Mük.)\n Mükerrer Madde 44\n\n Tebliğ\n 52\n 27/12/2019\n 30991 (2.Mük.)\n Mükerrer Madde 44\n\n Tebliğ\n 53\n 29/12/2020\n 31349 (Mük)\n Mükerrer Madde 44\n\n Tebliğ\n 54\n 21/12/2021\n 31696\n Mükerrer Madde 44\n\n Tebliğ\n 55\n 30/12/2022\n 32059 (2. Mük)\n Mükerrer Madde 44\n\n Tebliğ\n 55\n 30/12/2023\n 32415 (2. Mük)\n Mükerrer Madde 44\n\n Tebliğ\n 58\n 30/12/2024\n 32768 (2. Mük)\n Mükerrer Madde 44\n\n Tebliğ\n 59\n 31/12/2025\n 33124 (5.Mük)\n Mükerrer Madde 44\n\n [1] Bu maddede yer alan maktu vergi ve harç tarifeleri ile ilgili olarak, 18/2/2014 tarihli ve 28917 sayılı Resmi Gazete’de yayımlanan 10/2/2014 tarihli ve 2014/5896 sayılı Bakanlar Kurulu Kararı Eki Karara bakınız.\n\n [2] 24/5/2013 tarihli ve 6487 sayılı Kanunun 14 üncü maddesiyle, bu bentte yer alan “Belediye Meclislerince takdir edilecek miktardır.” İbaresi, “bu Kanunun 96 ncı maddesine göre tespit edilen miktardır.” şeklinde değiştirilmiştir.\n\n [3] Bu maddede yer alan maktu vergi ve harç tarifeleri ile ilgili olarak, 18/2/2014 tarihli ve 28917 sayılı Resmi Gazete’de yayımlanan 10/2/2014 tarihli ve 2014/5896 sayılı Bakanlar Kurulu Kararı Eki Karara bakınız.\n\n [4] Bu alt bentlere Kanunla getirilmiş olan miktar aynen bırakılmış olup, 21/12/2022 tarihli ve 6584 sayılı Cumhurbaşkanı Kararı ile 1/1/2023 tarihinden geçerli olarak tespit edilen miktarlar ise, metne parantez içinde siyah punto ile işlenmiştir.\n\n [5] Bu alt bende Kanunla getirilmiş olan miktar aynen bırakılmış olup, 8/2/1991 tarihli ve 20780 sayılı Resmî Gazete’de yayımlanan 7/1/1991 tarihli ve 91/1365 sayılı Bakanlar Kurulu Kararı ile tespit edilen miktar metne parantez içinde siyah punto ile işlenmiştir.\n\n [6] 30/12/2004 tarihli ve 5281 sayılı Kanunun 17 nci maddesiyle, bu fıkrada yer alan “ her ayın onbeşinci günü akşamına kadar“ ibaresi, “ biletler kullanılmadan önce“ olarak değiştirilmiştir.\n\n [7] 18/1/2019 tarihli ve 7162 sayılı Kanunun 5 inci maddesiyle bu fıkraya “ödeme kaydedici cihaz kullanılarak” ibaresinden sonra gelmek üzere “veya elektronik belge düzenlenmek suretiyle” ibaresi eklenmiştir.\n\n [8] 29/11/2018 tarihli ve 7153 sayılı Kanunun 28 inci maddesiyle bu fıkrada yer alan “İçişleri” ibaresi “Çevre ve Şehircilik” şeklinde değiştirilmiştir.\n\n [9] 9/7/2008 tarihli ve 5784 sayılı Kanunun 16 ncı maddesiyle; bu maddenin birinci cümlesinde yer alan “Elektrik ve havagazını” ibaresi “Elektrik enerjisini tedarik eden veya havagazını” şeklinde değiştirilmiştir.\n\n [10] 29/11/2018 tarihli ve 7153 sayılı Kanunun 28 inci maddesiyle bu fıkrada yer alan “İçişleri” ibaresi “Çevre ve Şehircilik” şeklinde değiştirilmiştir.\n\n [11] Bu maddenin 1/1/2026 tarihinden itibaren uygulanması ile ilgili olarak; 31/12/2025 tarihli ve 33124 (5. Mükerrer) sayılı Resmî Gazete’de yayımlanan Hazine ve Maliye Bakanlığının (Gelir İdaresi Başkanlığı) Belediye Gelirleri Kanunu Genel Tebliği (Seri No: 59) ‘ne bakınız.\n\n [12] 6/2/2014 tarihli ve 6518 sayılı Kanunun 12 nci maddesiyle, bu fıkrada yer alan “öğrenci yurtları” ibaresinden sonra gelmek üzere “, korumalı işyerleri” ibaresi eklenmiştir.\n\n [13] 2/7/2018 tarihli ve 700 sayılı KHK’nin 63 üncü maddesiyle, bu fıkrada yer alan “Bakanlar Kurulu” ibaresi “Cumhurbaşkanı” şeklinde değiştirilmiştir.\n\n [14] 29/11/2018 tarihli ve 7153 sayılı Kanunun 28 inci maddesiyle bu fıkrada yer alan “İçişleri” ibaresi “Çevre ve Şehircilik” şeklinde değiştirilmiştir.\n\n [15] Bu maddede yer alan maktu vergi ve harç tarifeleri ile ilgili olarak, 18/2/2014 tarihli ve 28917 sayılı Resmi Gazete’de yayımlanan 10/2/2014 tarihli ve 2014/5896 sayılı Bakanlar Kurulu Kararı Eki Karara bakınız.\n\n [16] 18/6/2017 tarihli ve 7033 sayılı Kanunun 12 nci maddesiyle, bu maddede yer alan “Hafta tatili ve ulusal” ibaresi “Ulusal” şeklinde değiştirilmiştir.\n\n [17] Bu maddede yer alan maktu vergi ve harç tarifeleri ile ilgili olarak, 18/2/2014 tarihli ve 28917 sayılı Resmi Gazete’de yayımlanan 10/2/2014 tarihli ve 2014/5896 sayılı Bakanlar Kurulu Kararı Eki Karara bakınız.\n\n [18] 24/5/2013 tarihli ve 6487 sayılı Kanunun 15 inci maddesiyle, bu bentte yer alan “20 YTL’den az; 800 YTL’den çok olmamak üzere belediye meclislerince tespit edilir.” Ibaresi “20 TL’den az, 800 TL’den çok olmamak üzere bu Kanunun 96 ncı maddesine göre tespit edilir.” şeklinde değiştirilmiştir.\n\n [19] Bu maddeye; 30/12/2004 tarihli ve 5281 sayılı Kanunun 21 inci maddesiyle, “kaynak sularının“ ibaresinden sonra gelmek üzere “(işlenmiş sular dahil)” ibaresi eklenmiştir.\n\n [20] Bu maddede düzenlenen harç oranlarıyla ilgili olarak; 7/5/2005 tarihli ve 25808 sayılı Resmi Gazete’de yayımlanan 13/4/2005 tarihli ve 2005/8730 sayılı Bakanlar Kurulu Kararının Eki Listeye bakınız.\n\n [21] 30/12/2004 tarihli ve 5281 sayılı Kanunun 22 nci maddesiyle, bu maddede yer alan “500.000 lirayı” ibaresi, “100 Yeni Türk Lirasını” olarak değiştirilmiştir.\n\n [22] Bu maddede düzenlenen harç oranlarıyla ilgili olarak; 7/5/2005 tarihli ve 25808 sayılı Resmi Gazete’de yayımlanan 13/4/2005 tarihli ve 2005/8730 sayılı Bakanlar Kurulu Kararının Eki Listeye bakınız.\n\n [23] 2/7/2018 tarihli ve 700 sayılı KHK’nin 63 üncü maddesiyle, bu fıkrada yer alan “kanun ve tüzük” ibaresi “mevzuat” şeklinde değiştirilmiştir.\n\n [24] Bu maddede düzenlenen harç oranlarıyla ilgili olarak; 7/5/2005 tarihli ve 25808 sayılı Resmi Gazete’de yayımlanan 13/4/2005 tarihli ve 2005/8730 sayılı Bakanlar Kurulu Kararının Eki Listeye bakınız.\n\n [25] 15/7/2016 tarihli ve 6728 sayılı Kanunun 41 inci maddesiyle, bu fıkrada yer alan “Kültür ve Turizm Bakanlığı” ibaresi “Yatırım Teşvik Belgesi kapsamında inşa edilen binalar, Kültür ve Turizm Bakanlığı” şeklinde değiştirilmiştir.\n\n [26] Bu maddede düzenlenen harç oranlarıyla ilgili olarak; 7/5/2005 tarihli ve 25808 sayılı Resmi Gazete’de yayımlanan 13/4/2005 tarihli ve 2005/8730 sayılı Bakanlar Kurulu Kararının Eki Listeye bakınız.\n\n [27] 2/7/2018 tarihli ve 700 sayılı KHK’nin 63 üncü maddesiyle, bu fıkrada yer alan “Bakanlar Kurulu” ibaresi “Cumhurbaşkanı” şeklinde değiştirilmiştir.\n\n [28] 1/6/2007 tarihli ve 5679 sayılı Kanunun 2 nci maddesiyle bu fıkrada yer alan “ahır” ibaresinden önce gelmek üzere “sera ve benzeri örtü altı tarım faaliyetinde kullanılmak üzere inşa edilen tesisler,” ibaresi ve “Bina İnşaat Harcı” ibaresinden önce gelmek üzere “5302 sayılı İl Özel İdaresi Kanunu uyarınca alınacak ücretler ile” ibaresi eklenmiştir.\n\n [29] 15/7/2016 tarihli ve 6728 sayılı Kanunun 42 nci maddesiyle, bu fıkrada yer alan “7269 sayılı” ibaresi “Yatırım Teşvik Belgesi kapsamında inşa edilen yapı ve tesisler, 7269 sayılı” şeklinde değiştirilmiştir.\n\n [30] Bu maddenin son fıkrası, 18/5/1987 tarih ve 3365 sayılı Kanunla yapılan değişiklikler (2) fıkra halinde düzenlenmiştir.\n\n [31] Bu maddede yer alan maktu vergi ve harç tarifeleri ile ilgili olarak, 18/2/2014 tarihli ve 28917 sayılı Resmi Gazete’de yayımlanan 10/2/2014 tarihli ve 2014/5896 sayılı Bakanlar Kurulu Kararı Eki Karara bakınız.\n\n [32] 29/11/2018 tarihli ve 7153 sayılı Kanunun 28 inci maddesiyle bu fıkrada yer alan “İçişleri” ibaresi “Çevre ve Şehircilik” şeklinde değiştirilmiştir.\n\n [33] 2/7/2018 tarihli ve 700 sayılı KHK’nin 63 üncü maddesiyle, bu bentte yer alan “Bakanlar Kurulu” ibaresi “Cumhurbaşkanı” şeklinde değiştirilmiştir.\n\n [34] 29/11/2018 tarihli ve 7153 sayılı Kanunun 28 inci maddesiyle bu bentte yer alan “İçişleri” ibaresi “Çevre ve Şehircilik” şeklinde değiştirilmiştir.\n\n [35] 2/7/2018 tarihli ve 700 sayılı KHK’nin 63 üncü maddesiyle, bu fıkrada yer alan “Bakanlar Kurulu” ibaresi “Cumhurbaşkanı” şeklinde ve “Bakanlar Kurulunca” ibaresi “Cumhurbaşkanınca” şeklinde değiştirilmiştir.\n\n [36] 29/11/2018 tarihli ve 7153 sayılı Kanunun 28 inci maddesiyle bu fıkrada yer alan “Maliye, Bayındırlık ve İmar ve İskan Bakanlıklarının görüşü alınarak İçişleri” ibaresi “Hazine ve Maliye Bakanlığının görüşü alınarak Çevre ve Şehircilik” şeklinde değiştirilmiştir.\n\n [37] 29/11/2018 tarihli ve 7153 sayılı Kanunun 28 inci maddesiyle bu fıkrada yer alan “Maliye Bakanlığı ile Devlet Planlama Teşkilatının görüşü alınarak İçişleri” ibaresi “Hazine ve Maliye Bakanlığı ile Cumhurbaşkanlığı Strateji ve Bütçe Başkanlığının görüşü alınarak Çevre ve Şehircilik” şeklinde değiştirilmiştir.\n\n [38] 2/7/2018 tarihli ve 700 sayılı KHK’nin 63 üncü maddesiyle, bu maddenin (A) fıkrasının birinci paragrafında yer alan “Bakanlar Kurulu” ibaresi “Cumhurbaşkanı” şeklinde ve ikinci paragrafında yer alan “, İçişleri Bakanlığının görüşü ve Maliye Bakanlığının teklifi üzerine Bakanlar Kurulunca” ibaresi “üzerine Cumhurbaşkanınca” şeklinde değiştirilmiştir.\n\n [39]2/7/2018 tarihli ve 700 sayılı KHK’nin 63 üncü maddesiyle, bu fıkrada yer alan “Bakanlar Kurulu” ibaresi “Cumhurbaşkanı” şeklinde değiştirilmiştir.\n\n [40] Anayasa Mahkemesinin 31/3/1987 tarih ve E.86/20, K. 87/9 sayılı kararı ile bu kısımda yer alan “…. ve belediye ve mücavir alan sınırları içerisinde yer altı sularından kamu ve özel kişiler tarafından elde edilen kullanma ve sanayi suları…” ibaresi iptal edilmiştir.\n\n [41] 22/7/1998 tarih ve 4369 sayılı Kanunun 81 inci maddesi ile bu fıkrada yeralan “müzelerin giriş ücretlerinin “% 40”ı ibaresi, “müzelerin giriş ücretlerinin % 5’i” şeklinde değiştirilmiştir.\n\n [42] 2/7/2018 tarihli 703 sayılı KHK’nin 50 nci maddesiyle, bu bentte yer alan “Türkiye Büyük Millet Meclisine” ibaresi “Cumhurbaşkanlığına” şeklinde değiştirilmiştir.\n\n [43] 29/11/2018 tarihli ve 7153 sayılı Kanunun 28 inci maddesiyle bu fıkrada yer alan “İçişleri” ibaresi “Çevre ve Şehircilik” şeklinde değiştirilmiştir.\n\n [44] 2/7/2018 tarihli ve 700 sayılı KHK’nin 63 üncü maddesiyle, bu fıkrada yer alan “Bakanlar Kurulunca” ibaresi “Cumhurbaşkanınca” şeklinde değiştirilmiştir.\n\n [45] 29/11/2018 tarihli ve 7153 sayılı Kanunun 28 inci maddesiyle bu fıkrada yer alan “İçişleri” ibaresi “Çevre ve Şehircilik” şeklinde değiştirilmiştir.\n\n [46] 2/7/2018 tarihli ve 700 sayılı KHK’nin 63 üncü maddesiyle, bu maddede yer alan “Bakanlar Kurulunca” ibaresi “Cumhurbaşkanınca” şeklinde değiştirilmiştir.",
+      "preview": "Bu Kanunu Bakanlar Kurulu yürütür. 1 – 21/1/1982 tarihli ve 2589 sayılı Kanunun geçici maddeleri: Geçici Madde 1 - Bina İnşaat Vergisi ödenm…",
       "kitap": null,
       "kisim": "DÖRDÜNCÜ KISIM · Çeşitli Hükümler",
       "bolum": null,
@@ -1779,57 +1812,6 @@
       "sectionPath": [
         "DÖRDÜNCÜ KISIM · Çeşitli Hükümler",
         "Yürütme:"
-      ]
-    },
-    {
-      "id": "kanun:2464:m:gecici:1",
-      "maddeKind": "gecici",
-      "maddeNo": "1",
-      "heading": "Geçici Madde 1",
-      "text": "Bina İnşaat Vergisi ödenmek suretiyle inşaat ruhsatı alınmış bulunan hallerde inşaat ruhsatının sonradan kısmen veya tamamen iptal edilmesi halinde, daha önce ödenmiş bulunan ve iptal edilen kısma isabet eden Bina İnşaat Vergisi, Maliye Vergi dairelerince mükellefe red ve iade edilir.",
-      "preview": "Bina İnşaat Vergisi ödenmek suretiyle inşaat ruhsatı alınmış bulunan hallerde inşaat ruhsatının sonradan kısmen veya tamamen iptal edilmesi…",
-      "kitap": null,
-      "kisim": "DÖRDÜNCÜ KISIM · Çeşitli Hükümler",
-      "bolum": null,
-      "ayirim": null,
-      "maddeBaslik": "1 – 21/1/1982 tarihli ve 2589 sayılı Kanunun geçici maddeleri:",
-      "sectionPath": [
-        "DÖRDÜNCÜ KISIM · Çeşitli Hükümler",
-        "1 – 21/1/1982 tarihli ve 2589 sayılı Kanunun geçici maddeleri:"
-      ]
-    },
-    {
-      "id": "kanun:2464:m:gecici:2",
-      "maddeKind": "gecici",
-      "maddeNo": "2",
-      "heading": "Geçici Madde 2",
-      "text": "Bu Kanunun yürürlük tarihinden önceki dönemlere ait Bina İnşaat Vergisinin tarh, tahakkuk ve tahsilinde, 1318 sayılı Finansman Kanununun Bina İnşaat Vergisine ilişkin hükümleri ile ek ve değişikliklerine ait kanun hükümleri uygulanır.",
-      "preview": "Bu Kanunun yürürlük tarihinden önceki dönemlere ait Bina İnşaat Vergisinin tarh, tahakkuk ve tahsilinde, 1318 sayılı Finansman Kanununun Bin…",
-      "kitap": null,
-      "kisim": "DÖRDÜNCÜ KISIM · Çeşitli Hükümler",
-      "bolum": null,
-      "ayirim": null,
-      "maddeBaslik": "1 – 21/1/1982 tarihli ve 2589 sayılı Kanunun geçici maddeleri:",
-      "sectionPath": [
-        "DÖRDÜNCÜ KISIM · Çeşitli Hükümler",
-        "1 – 21/1/1982 tarihli ve 2589 sayılı Kanunun geçici maddeleri:"
-      ]
-    },
-    {
-      "id": "kanun:2464:m:gecici:3",
-      "maddeKind": "gecici",
-      "maddeNo": "3",
-      "heading": "Geçici Madde 3",
-      "text": "1982 ve 1983 takvim yıllarında, bu Kanunla 2464 sayılı Kanuna eklenen Bina İnşaat Harcının Ek Madde 6’da yer alan tarifesinde kayıtlı en az miktarların yarısı uygulanır.\n Şu kadar ki 100 m2 ye kadar olan konut inşaatlarında söz konusu tarifede kayıtlı en az miktarlar uygulanır.\n\n 2 – 3/10/1984 tarihli ve 3048 sayılı Kanunun geçici maddesi:\n Geçici Madde – 2464 sayılı Belediye Gelirleri Kanununun 19 uncu maddesinin istisna ve muaflıklar bölümüne ilave edilen 5 inci bent gereğince itiraz safhasında ve açılmış davalar, bu Kanunun yayımı tarihinde bütün neticeleri ile ortadan kalkar.\n 2464 SAYILI KANUNA EK VE DEĞİŞİKLİK GETİREN MEVZUATIN VEYA\n ANAYASA MAHKEMESİ KARARLARININ YÜRÜRLÜĞE GİRİŞ\n TARİHLERİNİ GÖSTERİR TABLO\n\n Değiştiren Kanunun veya İptal Eden Anayasa Mahkemesi Kararının Numarası\n 2464 Sayılı Kanunun Değişen veya İptal Edilen Maddeleri\n Yürürlüğe Giriş Tarihi\n\n 2589\n 80, 106, Ek Madde 1, Ek Madde 2, Ek Madde 3, Ek Madde 4, Ek Madde 5, Ek Madde 6, İşlenemeyen Hükümler\n 1/2/1982\n\n 3048\n 19, İşlenemeyen Hükümler\n 6/10/1984\n\n 3074\n 23, 24, 25, 26, 27, 28\n 1/12/1984\n\n 3239\n 29, 45, 46, 47, 48, 49, 50, 51, 72, 89, 91, 93, 96, 97, 104\n 1/1/1986\n\n 3365\n 1, 80, Geçici Madde 4\n 1/1/1987 tarihinden geçerli olmak üzere 26/5/1987\n\n 3914\n Mükerrer Madde 44\n 24/7/1993 tarihini izleyen aybaşında\n\n 4369\n 80 inci maddesi\n 29/7/1998\n\n 4444\n 9 uncu maddesi\n 1/1/2000\n\n 4629\n 21\n 1/1/2002 tarihinden geçerli olmak üzere 3/3/2001 tarihinde\n\n 5035\n Mükerrer Madde 44, Geçici Madde 5\n 2/1/2004\n\n 5101\n 21,52\n 12/3/2004\n\n 5177\n Mükerrer Madde 97\n 5/6/2004\n\n 5281\n 15, 21, Mükerrer Madde 44, 56, 60, 63, 70, 74, 77, 84 ve Ek Madde 6\n 1/1/2005 tarihinden geçerli olmak üzere 31/12/2004\n\n 5602\n 19, 20, 21\n 21/3/2007 tarihini izleyen aybaşında\n\n 5679\n Ek Madde 2, Madde 80\n 7/6/2007\n\n 5784\n 35, 37, 39\n 26/7/2008\n\n 5917\n Geçici Madde 6\n 10/7/2009\n\n 6360\n 86\n 6/12/2012\n\n Anayasa Mahkemesinin 29/12/2011 tarihli ve\n E.: 2010/62 ve\n K.: 2011/175 sayılı Kararı\n 96/B\n 19/5/2012 tarihinden başlayarak bir yıl sonra\n (19/5/2013)\n\n 6487\n 20, 60, 96\n 19/5/2013 tarihinden geçerli olmak üzere 11/6/2013\n\n 6518\n Mükerrer Madde 44\n 19/2/2014\n\n 6527\n 96, Geçici Madde 7\n 1/3/2014\n\n 6728\n Ek Madde 2, 80\n 9/8/2016\n\n 7033\n 58\n 1/7/2017\n\n 7099\n Mükerrer Madde 79\n 10/3/2018\n\n KHK/700\n Mükerrer Madde 44, 76, Mükerrer Madde 79, 89, 93, 96, 100,\n Geçici Madde 7\n 24/6/2018 tarihinde birlikte yapılan Türkiye Büyük Millet Meclisi ve Cumhurbaşkanlığı seçimleri sonucunda Cumhurbaşkanının andiçerek göreve başladığı tarihte (9/7/2018)\n\n KHK/703\n Mükerrer 97\n 24/6/2018 tarihinde birlikte yapılan Türkiye Büyük Millet Meclisi ve Cumhurbaşkanlığı seçimleri sonucunda Cumhurbaşkanının andiçerek göreve başladığı tarihte (9/7/2018)\n\n 7153\n 33, 44, Mükerrer 44, 85, 89, 94, 95, Mükerrer 97,104\n 10/12/2018\n\n 7162\n 21\n 30/1/2019\n\n 7261\n 56\n 30/12/2020\n\n 7327\n Ek Madde 7\n 19/6/2021\n\n 7408\n 14\n 4/6/2022\n\n 7587\n 19\n 1/7/2026\n\n 2464 SAYILI KANUNUN ÇEŞİTLİ MADDELERİNDEKİ ORAN VE MİKTARLARDA ÇEŞİTLİ MEVZUAT İLE YAPILAN\n DEĞİŞİKLİKLER CETVELİ\n\n Değişiklik Yapan\n Kararnamenin/Tebliğin\n Yayımlandığı Resmî Gazete'nin\n Değişiklik Gören Madde\n\n Tarihi\n Numarası\n Tarihi\n Numarası\n\n 28/12/1983\n 83/7539\n 31/12/1983\n 18268\n Ek madde 6\n\n 20/12/1985\n 85/10174\n 26/12/1985\n 18970\n 21\n\n 13/1/1988\n 88/12514\n 10/3/1988\n 19750\n 65, 74, 77, Ek madde 6, 84\n\n 7/1/1991\n 91/1365\n 8/2/1991\n 20780\n 21\n\n 3/5/1992\n 92/3278\n 5/9/1992\n 21336\n 15, 21, 56, 60, 65, 74, 77, Ek Madde 6, 84\n\n Tebliğ\n 22\n 13/12/1996\n 22846\n Mükkerrer 44\n\n Tebliğ\n 23\n 16/12/1997\n 23202 Mük.\n Mükkerrer 44\n\n Tebliğ\n 24\n 1/12/1998\n 23540 Mük.\n Mükkerrer 44\n\n Tebliğ\n 26\n 16/12/1999\n 23908\n Mükkerrer 44\n\n Tebliğ\n 27\n 21/12/2000\n 24267\n Mükerrer 44\n\n Tebliğ\n 28\n 14/12/2001\n 24613\n Mükerrer 44\n\n Tebliğ\n 29\n 28/12/2002\n 24977\n Mükerrer 44\n\n Tebliğ\n 32\n 30/12/2005\n 26039\n Mükerrer 44\n\n Tebliğ\n 33\n 20/12/2006\n 26382\n Mükerrer 44\n\n Tebliğ\n 34\n 26/12/2007\n 26738\n Mükkerrer 44\n\n Tebliğ\n 35\n 23/12/2008\n 27089\n Mükkerrer 44\n\n Tebliğ\n 38\n 29/12/2009\n 27447\n Mükkerrer 44\n\n Tebliğ\n 39\n 29/12/2010\n 27800 (6.Mük.)\n Mükkerrer 44\n\n Tebliğ\n 40\n 26/12/2011\n 28154\n Mükkerrer 44\n\n Tebliğ\n 42\n 31/12/2012\n 28514 (4.Mük.)\n Mükkerrer 44\n\n Tebliğ\n 43\n 30/12/2013\n 28867 (Mük.)\n Mükkerrer 44\n\n 10/2/2014\n 2014/5896\n 18/2/2014\n 28917\n 15, 21, 56, 60, 84\n\n Tebliğ\n 46\n 30/12/2014\n 29221\n Mükkerrer 44\n\n Tebliğ\n 47\n 25/12/2015\n 29573\n Mükkerrer 44\n\n Tebliğ\n 48\n 27/12/2016\n 29931\n Mükkerrer 44\n\n Tebliğ\n 49\n 29/12/2017\n 30285 (Mük.)\n Mükkerrer 44\n\n Tebliğ\n 51\n 31/12/2018\n 30642 (3.Mük.)\n Mükerrer Madde 44\n\n Tebliğ\n 52\n 27/12/2019\n 30991 (2.Mük.)\n Mükerrer Madde 44\n\n Tebliğ\n 53\n 29/12/2020\n 31349 (Mük)\n Mükerrer Madde 44\n\n Tebliğ\n 54\n 21/12/2021\n 31696\n Mükerrer Madde 44\n\n Tebliğ\n 55\n 30/12/2022\n 32059 (2. Mük)\n Mükerrer Madde 44\n\n Tebliğ\n 55\n 30/12/2023\n 32415 (2. Mük)\n Mükerrer Madde 44\n\n Tebliğ\n 58\n 30/12/2024\n 32768 (2. Mük)\n Mükerrer Madde 44\n\n Tebliğ\n 59\n 31/12/2025\n 33124 (5.Mük)\n Mükerrer Madde 44\n\n [1] Bu maddede yer alan maktu vergi ve harç tarifeleri ile ilgili olarak, 18/2/2014 tarihli ve 28917 sayılı Resmi Gazete’de yayımlanan 10/2/2014 tarihli ve 2014/5896 sayılı Bakanlar Kurulu Kararı Eki Karara bakınız.\n\n [2] 24/5/2013 tarihli ve 6487 sayılı Kanunun 14 üncü maddesiyle, bu bentte yer alan “Belediye Meclislerince takdir edilecek miktardır.” İbaresi, “bu Kanunun 96 ncı maddesine göre tespit edilen miktardır.” şeklinde değiştirilmiştir.\n\n [3] Bu maddede yer alan maktu vergi ve harç tarifeleri ile ilgili olarak, 18/2/2014 tarihli ve 28917 sayılı Resmi Gazete’de yayımlanan 10/2/2014 tarihli ve 2014/5896 sayılı Bakanlar Kurulu Kararı Eki Karara bakınız.\n\n [4] Bu alt bentlere Kanunla getirilmiş olan miktar aynen bırakılmış olup, 21/12/2022 tarihli ve 6584 sayılı Cumhurbaşkanı Kararı ile 1/1/2023 tarihinden geçerli olarak tespit edilen miktarlar ise, metne parantez içinde siyah punto ile işlenmiştir.\n\n [5] Bu alt bende Kanunla getirilmiş olan miktar aynen bırakılmış olup, 8/2/1991 tarihli ve 20780 sayılı Resmî Gazete’de yayımlanan 7/1/1991 tarihli ve 91/1365 sayılı Bakanlar Kurulu Kararı ile tespit edilen miktar metne parantez içinde siyah punto ile işlenmiştir.\n\n [6] 30/12/2004 tarihli ve 5281 sayılı Kanunun 17 nci maddesiyle, bu fıkrada yer alan “ her ayın onbeşinci günü akşamına kadar“ ibaresi, “ biletler kullanılmadan önce“ olarak değiştirilmiştir.\n\n [7] 18/1/2019 tarihli ve 7162 sayılı Kanunun 5 inci maddesiyle bu fıkraya “ödeme kaydedici cihaz kullanılarak” ibaresinden sonra gelmek üzere “veya elektronik belge düzenlenmek suretiyle” ibaresi eklenmiştir.\n\n [8] 29/11/2018 tarihli ve 7153 sayılı Kanunun 28 inci maddesiyle bu fıkrada yer alan “İçişleri” ibaresi “Çevre ve Şehircilik” şeklinde değiştirilmiştir.\n\n [9] 9/7/2008 tarihli ve 5784 sayılı Kanunun 16 ncı maddesiyle; bu maddenin birinci cümlesinde yer alan “Elektrik ve havagazını” ibaresi “Elektrik enerjisini tedarik eden veya havagazını” şeklinde değiştirilmiştir.\n\n [10] 29/11/2018 tarihli ve 7153 sayılı Kanunun 28 inci maddesiyle bu fıkrada yer alan “İçişleri” ibaresi “Çevre ve Şehircilik” şeklinde değiştirilmiştir.\n\n [11] Bu maddenin 1/1/2026 tarihinden itibaren uygulanması ile ilgili olarak; 31/12/2025 tarihli ve 33124 (5. Mükerrer) sayılı Resmî Gazete’de yayımlanan Hazine ve Maliye Bakanlığının (Gelir İdaresi Başkanlığı) Belediye Gelirleri Kanunu Genel Tebliği (Seri No: 59) ‘ne bakınız.\n\n [12] 6/2/2014 tarihli ve 6518 sayılı Kanunun 12 nci maddesiyle, bu fıkrada yer alan “öğrenci yurtları” ibaresinden sonra gelmek üzere “, korumalı işyerleri” ibaresi eklenmiştir.\n\n [13] 2/7/2018 tarihli ve 700 sayılı KHK’nin 63 üncü maddesiyle, bu fıkrada yer alan “Bakanlar Kurulu” ibaresi “Cumhurbaşkanı” şeklinde değiştirilmiştir.\n\n [14] 29/11/2018 tarihli ve 7153 sayılı Kanunun 28 inci maddesiyle bu fıkrada yer alan “İçişleri” ibaresi “Çevre ve Şehircilik” şeklinde değiştirilmiştir.\n\n [15] Bu maddede yer alan maktu vergi ve harç tarifeleri ile ilgili olarak, 18/2/2014 tarihli ve 28917 sayılı Resmi Gazete’de yayımlanan 10/2/2014 tarihli ve 2014/5896 sayılı Bakanlar Kurulu Kararı Eki Karara bakınız.\n\n [16] 18/6/2017 tarihli ve 7033 sayılı Kanunun 12 nci maddesiyle, bu maddede yer alan “Hafta tatili ve ulusal” ibaresi “Ulusal” şeklinde değiştirilmiştir.\n\n [17] Bu maddede yer alan maktu vergi ve harç tarifeleri ile ilgili olarak, 18/2/2014 tarihli ve 28917 sayılı Resmi Gazete’de yayımlanan 10/2/2014 tarihli ve 2014/5896 sayılı Bakanlar Kurulu Kararı Eki Karara bakınız.\n\n [18] 24/5/2013 tarihli ve 6487 sayılı Kanunun 15 inci maddesiyle, bu bentte yer alan “20 YTL’den az; 800 YTL’den çok olmamak üzere belediye meclislerince tespit edilir.” Ibaresi “20 TL’den az, 800 TL’den çok olmamak üzere bu Kanunun 96 ncı maddesine göre tespit edilir.” şeklinde değiştirilmiştir.\n\n [19] Bu maddeye; 30/12/2004 tarihli ve 5281 sayılı Kanunun 21 inci maddesiyle, “kaynak sularının“ ibaresinden sonra gelmek üzere “(işlenmiş sular dahil)” ibaresi eklenmiştir.\n\n [20] Bu maddede düzenlenen harç oranlarıyla ilgili olarak; 7/5/2005 tarihli ve 25808 sayılı Resmi Gazete’de yayımlanan 13/4/2005 tarihli ve 2005/8730 sayılı Bakanlar Kurulu Kararının Eki Listeye bakınız.\n\n [21] 30/12/2004 tarihli ve 5281 sayılı Kanunun 22 nci maddesiyle, bu maddede yer alan “500.000 lirayı” ibaresi, “100 Yeni Türk Lirasını” olarak değiştirilmiştir.\n\n [22] Bu maddede düzenlenen harç oranlarıyla ilgili olarak; 7/5/2005 tarihli ve 25808 sayılı Resmi Gazete’de yayımlanan 13/4/2005 tarihli ve 2005/8730 sayılı Bakanlar Kurulu Kararının Eki Listeye bakınız.\n\n [23] 2/7/2018 tarihli ve 700 sayılı KHK’nin 63 üncü maddesiyle, bu fıkrada yer alan “kanun ve tüzük” ibaresi “mevzuat” şeklinde değiştirilmiştir.\n\n [24] Bu maddede düzenlenen harç oranlarıyla ilgili olarak; 7/5/2005 tarihli ve 25808 sayılı Resmi Gazete’de yayımlanan 13/4/2005 tarihli ve 2005/8730 sayılı Bakanlar Kurulu Kararının Eki Listeye bakınız.\n\n [25] 15/7/2016 tarihli ve 6728 sayılı Kanunun 41 inci maddesiyle, bu fıkrada yer alan “Kültür ve Turizm Bakanlığı” ibaresi “Yatırım Teşvik Belgesi kapsamında inşa edilen binalar, Kültür ve Turizm Bakanlığı” şeklinde değiştirilmiştir.\n\n [26] Bu maddede düzenlenen harç oranlarıyla ilgili olarak; 7/5/2005 tarihli ve 25808 sayılı Resmi Gazete’de yayımlanan 13/4/2005 tarihli ve 2005/8730 sayılı Bakanlar Kurulu Kararının Eki Listeye bakınız.\n\n [27] 2/7/2018 tarihli ve 700 sayılı KHK’nin 63 üncü maddesiyle, bu fıkrada yer alan “Bakanlar Kurulu” ibaresi “Cumhurbaşkanı” şeklinde değiştirilmiştir.\n\n [28] 1/6/2007 tarihli ve 5679 sayılı Kanunun 2 nci maddesiyle bu fıkrada yer alan “ahır” ibaresinden önce gelmek üzere “sera ve benzeri örtü altı tarım faaliyetinde kullanılmak üzere inşa edilen tesisler,” ibaresi ve “Bina İnşaat Harcı” ibaresinden önce gelmek üzere “5302 sayılı İl Özel İdaresi Kanunu uyarınca alınacak ücretler ile” ibaresi eklenmiştir.\n\n [29] 15/7/2016 tarihli ve 6728 sayılı Kanunun 42 nci maddesiyle, bu fıkrada yer alan “7269 sayılı” ibaresi “Yatırım Teşvik Belgesi kapsamında inşa edilen yapı ve tesisler, 7269 sayılı” şeklinde değiştirilmiştir.\n\n [30] Bu maddenin son fıkrası, 18/5/1987 tarih ve 3365 sayılı Kanunla yapılan değişiklikler (2) fıkra halinde düzenlenmiştir.\n\n [31] Bu maddede yer alan maktu vergi ve harç tarifeleri ile ilgili olarak, 18/2/2014 tarihli ve 28917 sayılı Resmi Gazete’de yayımlanan 10/2/2014 tarihli ve 2014/5896 sayılı Bakanlar Kurulu Kararı Eki Karara bakınız.\n\n [32] 29/11/2018 tarihli ve 7153 sayılı Kanunun 28 inci maddesiyle bu fıkrada yer alan “İçişleri” ibaresi “Çevre ve Şehircilik” şeklinde değiştirilmiştir.\n\n [33] 2/7/2018 tarihli ve 700 sayılı KHK’nin 63 üncü maddesiyle, bu bentte yer alan “Bakanlar Kurulu” ibaresi “Cumhurbaşkanı” şeklinde değiştirilmiştir.\n\n [34] 29/11/2018 tarihli ve 7153 sayılı Kanunun 28 inci maddesiyle bu bentte yer alan “İçişleri” ibaresi “Çevre ve Şehircilik” şeklinde değiştirilmiştir.\n\n [35] 2/7/2018 tarihli ve 700 sayılı KHK’nin 63 üncü maddesiyle, bu fıkrada yer alan “Bakanlar Kurulu” ibaresi “Cumhurbaşkanı” şeklinde ve “Bakanlar Kurulunca” ibaresi “Cumhurbaşkanınca” şeklinde değiştirilmiştir.\n\n [36] 29/11/2018 tarihli ve 7153 sayılı Kanunun 28 inci maddesiyle bu fıkrada yer alan “Maliye, Bayındırlık ve İmar ve İskan Bakanlıklarının görüşü alınarak İçişleri” ibaresi “Hazine ve Maliye Bakanlığının görüşü alınarak Çevre ve Şehircilik” şeklinde değiştirilmiştir.\n\n [37] 29/11/2018 tarihli ve 7153 sayılı Kanunun 28 inci maddesiyle bu fıkrada yer alan “Maliye Bakanlığı ile Devlet Planlama Teşkilatının görüşü alınarak İçişleri” ibaresi “Hazine ve Maliye Bakanlığı ile Cumhurbaşkanlığı Strateji ve Bütçe Başkanlığının görüşü alınarak Çevre ve Şehircilik” şeklinde değiştirilmiştir.\n\n [38] 2/7/2018 tarihli ve 700 sayılı KHK’nin 63 üncü maddesiyle, bu maddenin (A) fıkrasının birinci paragrafında yer alan “Bakanlar Kurulu” ibaresi “Cumhurbaşkanı” şeklinde ve ikinci paragrafında yer alan “, İçişleri Bakanlığının görüşü ve Maliye Bakanlığının teklifi üzerine Bakanlar Kurulunca” ibaresi “üzerine Cumhurbaşkanınca” şeklinde değiştirilmiştir.\n\n [39]2/7/2018 tarihli ve 700 sayılı KHK’nin 63 üncü maddesiyle, bu fıkrada yer alan “Bakanlar Kurulu” ibaresi “Cumhurbaşkanı” şeklinde değiştirilmiştir.\n\n [40] Anayasa Mahkemesinin 31/3/1987 tarih ve E.86/20, K. 87/9 sayılı kararı ile bu kısımda yer alan “…. ve belediye ve mücavir alan sınırları içerisinde yer altı sularından kamu ve özel kişiler tarafından elde edilen kullanma ve sanayi suları…” ibaresi iptal edilmiştir.\n\n [41] 22/7/1998 tarih ve 4369 sayılı Kanunun 81 inci maddesi ile bu fıkrada yeralan “müzelerin giriş ücretlerinin “% 40”ı ibaresi, “müzelerin giriş ücretlerinin % 5’i” şeklinde değiştirilmiştir.\n\n [42] 2/7/2018 tarihli 703 sayılı KHK’nin 50 nci maddesiyle, bu bentte yer alan “Türkiye Büyük Millet Meclisine” ibaresi “Cumhurbaşkanlığına” şeklinde değiştirilmiştir.\n\n [43] 29/11/2018 tarihli ve 7153 sayılı Kanunun 28 inci maddesiyle bu fıkrada yer alan “İçişleri” ibaresi “Çevre ve Şehircilik” şeklinde değiştirilmiştir.\n\n [44] 2/7/2018 tarihli ve 700 sayılı KHK’nin 63 üncü maddesiyle, bu fıkrada yer alan “Bakanlar Kurulunca” ibaresi “Cumhurbaşkanınca” şeklinde değiştirilmiştir.\n\n [45] 29/11/2018 tarihli ve 7153 sayılı Kanunun 28 inci maddesiyle bu fıkrada yer alan “İçişleri” ibaresi “Çevre ve Şehircilik” şeklinde değiştirilmiştir.\n\n [46] 2/7/2018 tarihli ve 700 sayılı KHK’nin 63 üncü maddesiyle, bu maddede yer alan “Bakanlar Kurulunca” ibaresi “Cumhurbaşkanınca” şeklinde değiştirilmiştir.",
-      "preview": "1982 ve 1983 takvim yıllarında, bu Kanunla 2464 sayılı Kanuna eklenen Bina İnşaat Harcının Ek Madde 6’da yer alan tarifesinde kayıtlı en az…",
-      "kitap": null,
-      "kisim": "DÖRDÜNCÜ KISIM · Çeşitli Hükümler",
-      "bolum": null,
-      "ayirim": null,
-      "maddeBaslik": "1 – 21/1/1982 tarihli ve 2589 sayılı Kanunun geçici maddeleri:",
-      "sectionPath": [
-        "DÖRDÜNCÜ KISIM · Çeşitli Hükümler",
-        "1 – 21/1/1982 tarihli ve 2589 sayılı Kanunun geçici maddeleri:"
       ]
     }
   ]

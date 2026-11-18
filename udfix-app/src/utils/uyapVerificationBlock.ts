@@ -23,16 +23,18 @@ type ProseMirrorDomObserver = {
  * Pause ProseMirror's mutation observer so a temp export pin is not adopted into
  * the document (which would persist through autosave and stack on re-export).
  */
-export function pauseProseMirrorDomObserver(view: { domObserver?: ProseMirrorDomObserver } | null | undefined): () => void {
-    const observer = view?.domObserver;
-    if (!observer?.stop || !observer?.start) return () => {};
-    observer.flush?.();
-    observer.stop();
+export function pauseProseMirrorDomObserver(view: object | null | undefined): () => void {
+    const observer = (view as { domObserver?: ProseMirrorDomObserver } | null | undefined)?.domObserver;
+    const stop = observer?.stop;
+    const start = observer?.start;
+    if (!stop || !start) return () => {};
+    observer?.flush?.();
+    stop();
     let resumed = false;
     return () => {
         if (resumed) return;
         resumed = true;
-        observer.start();
+        start();
     };
 }
 

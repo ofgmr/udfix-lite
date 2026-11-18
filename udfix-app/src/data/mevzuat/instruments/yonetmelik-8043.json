@@ -14,7 +14,7 @@
   "tertip": 5,
   "sourceUrl": "https://www.mevzuat.gov.tr/mevzuat?MevzuatNo=8043&MevzuatTur=7&MevzuatTertip=5",
   "kabulTarihi": null,
-  "maddeCount": 120,
+  "maddeCount": 123,
   "maddeler": [
     {
       "id": "yonetmelik:8043:m:1",
@@ -195,7 +195,7 @@
       "maddeKind": "madde",
       "maddeNo": "12",
       "heading": "Madde 12",
-      "text": "(Başlığıyla birlikte değişik:RG-16/4/2013-28620)\n Disiplin soruşturması kaydı; icra ve iflâs daireleri görevlileri hakkında yürütülen disiplin soruşturması ile ilgili tutulan kayıttır.\n Bu kayıtta; sıra numarası, müşteki veya varsa kanuni temsilcisinin veya vekilinin adı, soyadı, adresi, başvurma tarihi, hakkında şikâyette bulunulanın adı, soyadı, unvan ve sicil numarası, karar tarih ve numarası yer alır.\n\n Haciz takip kaydı\n MADDE 12/A – (Ek:RG-27/06/2007-26565) (Başlığıyla birlikte değişik:RG-16/4/2013-28620)\n Haciz takip kaydı; haciz talebine istinaden haciz, teslim ve satış harcının yatırıldığı tarihlere göre işlendiği kayıttır.\n Bu kayıtta; sıra numarası, dosya numarası, alacaklının, varsa kanuni temsilcisinin veya vekilinin adı, soyadı, sayman mutemedi alındı makbuzu yevmiye numarası, tarihi, sütunları yer alır.\n\n ÜÇÜNCÜ BÖLÜM\n (Değişik ibare:RG-16/4/2013-28620) Kayıtlara İlişkin Ortak Hükümler",
+      "text": "(Başlığıyla birlikte değişik:RG-16/4/2013-28620)\n Disiplin soruşturması kaydı; icra ve iflâs daireleri görevlileri hakkında yürütülen disiplin soruşturması ile ilgili tutulan kayıttır.\n Bu kayıtta; sıra numarası, müşteki veya varsa kanuni temsilcisinin veya vekilinin adı, soyadı, adresi, başvurma tarihi, hakkında şikâyette bulunulanın adı, soyadı, unvan ve sicil numarası, karar tarih ve numarası yer alır.",
       "preview": "(Başlığıyla birlikte değişik:RG-16/4/2013-28620) Disiplin soruşturması kaydı; icra ve iflâs daireleri görevlileri hakkında yürütülen disipli…",
       "kitap": null,
       "kisim": null,
@@ -204,6 +204,22 @@
       "maddeBaslik": "Disiplin soruşturması kaydı",
       "sectionPath": [
         "Disiplin soruşturması kaydı"
+      ]
+    },
+    {
+      "id": "yonetmelik:8043:m:12/A",
+      "maddeKind": "madde",
+      "maddeNo": "12/A",
+      "heading": "Madde 12/A",
+      "text": "(Ek:RG-27/06/2007-26565) (Başlığıyla birlikte değişik:RG-16/4/2013-28620)\n Haciz takip kaydı; haciz talebine istinaden haciz, teslim ve satış harcının yatırıldığı tarihlere göre işlendiği kayıttır.\n Bu kayıtta; sıra numarası, dosya numarası, alacaklının, varsa kanuni temsilcisinin veya vekilinin adı, soyadı, sayman mutemedi alındı makbuzu yevmiye numarası, tarihi, sütunları yer alır.\n\n ÜÇÜNCÜ BÖLÜM\n (Değişik ibare:RG-16/4/2013-28620) Kayıtlara İlişkin Ortak Hükümler",
+      "preview": "(Ek:RG-27/06/2007-26565) (Başlığıyla birlikte değişik:RG-16/4/2013-28620) Haciz takip kaydı; haciz talebine istinaden haciz, teslim ve satış…",
+      "kitap": null,
+      "kisim": null,
+      "bolum": null,
+      "ayirim": null,
+      "maddeBaslik": "Haciz takip kaydı",
+      "sectionPath": [
+        "Haciz takip kaydı"
       ]
     },
     {
@@ -803,8 +819,8 @@
       "maddeKind": "madde",
       "maddeNo": "48",
       "heading": "Madde 48",
-      "text": "(Mülga:RG-8/3/2022-31772)\n\n Taşınırın ihale usulü\n MADDE 48/A – (Ek:RG-16/4/2013-28620) (Mülga:RG-8/3/2022-31772)",
-      "preview": "(Mülga:RG-8/3/2022-31772) Taşınırın ihale usulü MADDE 48/A – (Ek:RG-16/4/2013-28620) (Mülga:RG-8/3/2022-31772)",
+      "text": "(Mülga:RG-8/3/2022-31772)",
+      "preview": "(Mülga:RG-8/3/2022-31772)",
       "kitap": null,
       "kisim": null,
       "bolum": "YEDİNCİ BÖLÜM · Basılı Kâğıtların Düzenlenme Amacı ve Kullanma Biçimi",
@@ -813,6 +829,23 @@
       "sectionPath": [
         "YEDİNCİ BÖLÜM · Basılı Kâğıtların Düzenlenme Amacı ve Kullanma Biçimi",
         "Taşınırın açık artırma ilânı"
+      ]
+    },
+    {
+      "id": "yonetmelik:8043:m:48/A",
+      "maddeKind": "madde",
+      "maddeNo": "48/A",
+      "heading": "Madde 48/A",
+      "text": "(Ek:RG-16/4/2013-28620) (Mülga:RG-8/3/2022-31772)",
+      "preview": "(Ek:RG-16/4/2013-28620) (Mülga:RG-8/3/2022-31772)",
+      "kitap": null,
+      "kisim": null,
+      "bolum": "YEDİNCİ BÖLÜM · Basılı Kâğıtların Düzenlenme Amacı ve Kullanma Biçimi",
+      "ayirim": null,
+      "maddeBaslik": "Taşınırın ihale usulü",
+      "sectionPath": [
+        "YEDİNCİ BÖLÜM · Basılı Kâğıtların Düzenlenme Amacı ve Kullanma Biçimi",
+        "Taşınırın ihale usulü"
       ]
     },
     {
@@ -837,8 +870,8 @@
       "maddeKind": "madde",
       "maddeNo": "50",
       "heading": "Madde 50",
-      "text": "(Mülga:RG-8/3/2022-31772)\n\n Taşınmazın ihale usulü\n MADDE 50/A – (Ek:RG-16/4/2013-28620) (Mülga:RG-8/3/2022-31772)",
-      "preview": "(Mülga:RG-8/3/2022-31772) Taşınmazın ihale usulü MADDE 50/A – (Ek:RG-16/4/2013-28620) (Mülga:RG-8/3/2022-31772)",
+      "text": "(Mülga:RG-8/3/2022-31772)",
+      "preview": "(Mülga:RG-8/3/2022-31772)",
       "kitap": null,
       "kisim": null,
       "bolum": "YEDİNCİ BÖLÜM · Basılı Kâğıtların Düzenlenme Amacı ve Kullanma Biçimi",
@@ -847,6 +880,23 @@
       "sectionPath": [
         "YEDİNCİ BÖLÜM · Basılı Kâğıtların Düzenlenme Amacı ve Kullanma Biçimi",
         "Taşınmazın açık artırma ilânı"
+      ]
+    },
+    {
+      "id": "yonetmelik:8043:m:50/A",
+      "maddeKind": "madde",
+      "maddeNo": "50/A",
+      "heading": "Madde 50/A",
+      "text": "(Ek:RG-16/4/2013-28620) (Mülga:RG-8/3/2022-31772)",
+      "preview": "(Ek:RG-16/4/2013-28620) (Mülga:RG-8/3/2022-31772)",
+      "kitap": null,
+      "kisim": null,
+      "bolum": "YEDİNCİ BÖLÜM · Basılı Kâğıtların Düzenlenme Amacı ve Kullanma Biçimi",
+      "ayirim": null,
+      "maddeBaslik": "Taşınmazın ihale usulü",
+      "sectionPath": [
+        "YEDİNCİ BÖLÜM · Basılı Kâğıtların Düzenlenme Amacı ve Kullanma Biçimi",
+        "Taşınmazın ihale usulü"
       ]
     },
     {

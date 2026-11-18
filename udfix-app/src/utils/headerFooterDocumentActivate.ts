@@ -1,4 +1,3 @@
-import type { Editor } from '@tiptap/react';
 import { useLayoutStore } from '../stores/useLayoutStore';
 import { useHeaderFooterStore } from '../stores/useHeaderFooterStore';
 import { applyUyapImportMetaToHeaderFooterStore } from './uyapImportApply';

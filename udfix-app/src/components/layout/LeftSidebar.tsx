@@ -10,7 +10,6 @@ import { useThemeStore } from '../../stores/useThemeStore';
 import { formatShortcutKeys } from '../../shortcuts/format';
 import { getRegistryEntry } from '../../shortcuts/registry';
 import { openCommandPalette } from './commandPaletteEvents';
-import { NotificationBell } from './NotificationBell';
 import { getUdfixRailLogoPair } from '../../branding/udfixBrandAssets';
 import { useShowUserGuidanceLabels } from '../../hooks/useShowUserGuidanceLabels';
 import { GuidanceRailButtonContent, guidanceRailSurfaceClass } from '../ui/userGuidance';
@@ -145,7 +144,6 @@ export function LeftSidebarFooter({
             )}
         >
             <UdfixRailLogo />
-            <NotificationBell />
             <ZenModeToggle />
             <div className={cn('w-full transition-opacity duration-300', isZenMode && 'opacity-70 hover:opacity-100')}>
                 <ThemePicker onSideFlyoutOpenChange={onGuidanceFlyoutOpenChange} />

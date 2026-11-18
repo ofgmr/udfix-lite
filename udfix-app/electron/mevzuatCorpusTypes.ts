@@ -1,5 +1,5 @@
 export type MevzuatInstrumentKind = 'kanun' | 'yonetmelik';
-export type MevzuatMaddeKind = 'madde' | 'ek' | 'gecici';
+export type MevzuatMaddeKind = 'madde' | 'ek' | 'gecici' | 'ekGecici' | 'mukerrer';
 
 export type MevzuatMaddeRecord = {
     id: string;

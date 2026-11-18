@@ -28,6 +28,7 @@ import {
     recordTypeLabel,
 } from '../../data/matterTaxonomy';
 import { visibleMatterAttributeRows } from '../../utils/matterAttributeSearch';
+import { MatterLedgerAccount } from './MatterLedgerAccount';
 import { MerciNameField } from './MerciNameField';
 import { EntityFormPopoutButton } from '../layout/EntityFormPopoutButton';
 
@@ -84,6 +85,7 @@ export const MatterFormContent: React.FC<MatterFormContentProps> = ({
     const [selectedPartyId, setSelectedPartyId] = useState('');
     const [selectedRole, setSelectedRole] = useState('MÜVEKKİL');
     const [showPartyAdd, setShowPartyAdd] = useState(false);
+    const [ledgerRefresh, setLedgerRefresh] = useState(0);
 
     useEffect(() => {
         if (!panelApi?.group?.api) return;
@@ -257,6 +259,7 @@ export const MatterFormContent: React.FC<MatterFormContentProps> = ({
             if (!matter?.id) {
                 onCancel?.(); // close panel if it was newly created
             } else {
+                setLedgerRefresh((value) => value + 1);
                 setIsEditing(false); // return to view mode
             }
         } catch (error) {
@@ -297,6 +300,13 @@ export const MatterFormContent: React.FC<MatterFormContentProps> = ({
             },
         });
     }, [matter, title, onSuccess, onCancel]);
+
+    const ledgerAccount = isExisting && matter?.id ? (
+        <>
+            <Separator className="my-1 border-white/5" />
+            <MatterLedgerAccount mode="matter" matterId={matter.id} refreshKey={ledgerRefresh} />
+        </>
+    ) : null;
 
     const statusConfig = STATUS_CONFIG[status];
     const headerTitle = title.trim() || 'Dosya Başlığı';
@@ -441,6 +451,8 @@ export const MatterFormContent: React.FC<MatterFormContentProps> = ({
                                 <p className="text-xs text-muted-foreground/60 italic">Henüz taraf eklenmemiş</p>
                             )}
                         </div>
+
+                        {ledgerAccount}
 
                         {visibleMatterAttributeRows(attributeRows).length > 0 && <Separator className="my-1 border-white/5" />}
 
@@ -645,6 +657,8 @@ export const MatterFormContent: React.FC<MatterFormContentProps> = ({
                             </div>
                         )}
                     </div>
+
+                    {ledgerAccount}
 
                     <Separator className="my-1 border-white/5" />
 

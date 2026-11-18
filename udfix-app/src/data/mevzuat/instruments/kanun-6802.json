@@ -12,7 +12,7 @@
   "tertip": 3,
   "sourceUrl": "https://www.mevzuat.gov.tr/mevzuat?MevzuatNo=6802&MevzuatTur=1&MevzuatTertip=3",
   "kabulTarihi": "13/7/1956",
-  "maddeCount": 30,
+  "maddeCount": 29,
   "maddeler": [
     {
       "id": "kanun:6802:m:1",
@@ -231,8 +231,8 @@
       "maddeKind": "ek",
       "maddeNo": "1",
       "heading": "Ek Madde 1",
-      "text": "5 (Ek : 17/4/1981 - 2447/10 md.; Mülga: 25/10/1984 - 3065/61 md.)",
-      "preview": "5 (Ek : 17/4/1981 - 2447/10 md.; Mülga: 25/10/1984 - 3065/61 md.)",
+      "text": "5 (Ek : 17/4/1981 - 2447/10 md.; Mülga: 25/10/1984 - 3065/61 md.)\n\nÜÇÜNCÜ KISIM\n\nEk Madde 1 -\n4 (Ek : 29/7/1970 - 1318/67 md,; Mülga: 21/1/1982 - 2589/5 md.)",
+      "preview": "5 (Ek : 17/4/1981 - 2447/10 md.; Mülga: 25/10/1984 - 3065/61 md.) ÜÇÜNCÜ KISIM Ek Madde 1 - 4 (Ek : 29/7/1970 - 1318/67 md,; Mülga: 21/1/198…",
       "kitap": null,
       "kisim": "İKİNCİ KISIM · Hizmet Vergileri",
       "bolum": "DÖRDÜNCÜ BÖLÜM",
@@ -241,22 +241,6 @@
       "sectionPath": [
         "İKİNCİ KISIM · Hizmet Vergileri",
         "DÖRDÜNCÜ BÖLÜM"
-      ]
-    },
-    {
-      "id": "kanun:6802:m:ek:1",
-      "maddeKind": "ek",
-      "maddeNo": "1",
-      "heading": "Ek Madde 1",
-      "text": "4 (Ek : 29/7/1970 - 1318/67 md,; Mülga: 21/1/1982 - 2589/5 md.)",
-      "preview": "4 (Ek : 29/7/1970 - 1318/67 md,; Mülga: 21/1/1982 - 2589/5 md.)",
-      "kitap": null,
-      "kisim": "ÜÇÜNCÜ KISIM",
-      "bolum": null,
-      "ayirim": null,
-      "maddeBaslik": null,
-      "sectionPath": [
-        "ÜÇÜNCÜ KISIM"
       ]
     },
     {

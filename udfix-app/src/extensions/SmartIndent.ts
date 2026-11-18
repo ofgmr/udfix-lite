@@ -14,17 +14,18 @@ export const SmartIndent = Extension.create({
 
     addCommands() {
         return {
-            smartIndent: () => ({ editor }) => {
-                // If inside a paragraph or heading → visual margin indent
+            smartIndent: () => ({ editor, chain }) => {
+                // Same transaction as this command. `editor.commands.indent()`
+                // dispatches a second transaction and throws
+                // "Applying a mismatched transaction" (Shift-Tab / toolbar).
                 if (editor.isActive('paragraph') || editor.isActive('heading')) {
-                    return editor.commands.indent()
+                    return chain().indent().run()
                 }
                 return false
             },
-            smartOutdent: () => ({ editor }) => {
-                // If inside a paragraph or heading → reduce visual margin
+            smartOutdent: () => ({ editor, chain }) => {
                 if (editor.isActive('paragraph') || editor.isActive('heading')) {
-                    return editor.commands.outdent()
+                    return chain().outdent().run()
                 }
                 return false
             },

@@ -1,4 +1,4 @@
-import { app, BrowserWindow, ipcMain, dialog, session, shell, protocol, Notification, type OpenDialogOptions, type WebPreferences } from 'electron';
+import { app, BrowserWindow, ipcMain, dialog, session, shell, protocol, type OpenDialogOptions, type WebPreferences } from 'electron';
 import path from 'path';
 import fs from 'fs';
 import { setupDatabase, registerDatabaseHandlers } from './database';
@@ -22,6 +22,7 @@ import {
     registerTelemetryHandlers,
 } from './telemetryService';
 import { attachAutoOpenDevTools } from './devTools';
+import { initDiagnosticsLog } from './diagnosticsLog';
 import { startupFlushSummary, startupMark } from './startupTiming';
 import { initUpdateService, registerUpdateHandlers, disposeUpdateService } from './updateService';
 import { registerMacOpenFileHandlers, initMacOpenFileDelivery, drainStartupUdfOpenRequests } from './macOpenFile';
@@ -31,7 +32,6 @@ import { registerUdfixWithLaunchServices } from './macLaunchServices';
 import { syncUdfDefaultHandlerPreference } from './macUdfDefaultHandler';
 import { registerUdfQuickLookPlugins } from './macUdfQuickLook';
 import { DEST_DIR_APP_OWNED, isAppOwnedEvrakPath, purgeAppOwnedUyapPreviewDirs } from './uyapEvrakStorage';
-import { startCalendarReminderService, stopCalendarReminderService } from './calendarReminderService';
 import { assertUserFsPathAllowed } from './fsPathPolicy';
 import { isNomaiFileServingAllowed } from './nomaiFileProtocol';
 import { loadPrintHtmlFile, PRINT_WINDOW_WEB_PREFERENCES } from './printHtml';
@@ -51,7 +51,15 @@ class UyapSigningError extends Error {
     }
 }
 
-async function signDetachedContentXml(): Promise<never> {
+type DetachedSignResult = {
+    notes: unknown[];
+    signatureBytes: Uint8Array;
+    signerName?: string | null;
+    signedAtIso?: string | null;
+    certificateValidUntilIso?: string | null;
+};
+
+async function signDetachedContentXml(_params: unknown): Promise<DetachedSignResult> {
     throw new UyapSigningError('SIGNER_NOT_CONFIGURED', 'E-imza bu kaynak ağacında yapılandırılmaz.');
 }
 
@@ -259,6 +267,7 @@ function createWindow(): BrowserWindow {
 app.whenReady().then(async () => {
     startupMark('main:whenReady');
     installIpcSecurityGuard();
+    initDiagnosticsLog();
     applyMacAppIcon();
     startupMark('main:branding');
     registerRendererSecurityHandlers();
@@ -314,17 +323,6 @@ app.whenReady().then(async () => {
             return true;
         }
         return false;
-    });
-
-    ipcMain.handle('app-show-native-notification', (_event, payload?: { title?: string; body?: string }) => {
-        if (!Notification.isSupported()) return { ok: false };
-        const note = new Notification({
-            title: payload?.title || 'UDFIX',
-            body: payload?.body || '',
-            silent: false,
-        });
-        note.show();
-        return { ok: true };
     });
 
     ipcMain.handle('fs-file-url', (_event, rawPath: string) => {
@@ -737,15 +735,6 @@ app.whenReady().then(async () => {
     drainStartupUdfOpenRequests();
     await setupMacPlatformMenus();
     initUpdateService(userDataPath);
-    startCalendarReminderService({
-        showMainWindow: () => {
-            const win = createWindow();
-            if (win.isMinimized()) win.restore();
-            win.show();
-            win.focus();
-            return win;
-        },
-    });
 
     // Set Spellchecker to Turkish and English natively in Electron
     session.defaultSession.setSpellCheckerLanguages(['tr-TR', 'en-GB']);
@@ -1101,7 +1090,6 @@ app.on('window-all-closed', () => {
 });
 
 app.on('will-quit', () => {
-    stopCalendarReminderService();
     try {
         session.defaultSession.flushStorageData();
     } catch {

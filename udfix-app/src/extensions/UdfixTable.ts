@@ -3,16 +3,43 @@ import { TableCommandExtension } from 'tiptap-table-plus/dist/TableCommandExtens
 import { TablePlusNodeView } from 'tiptap-table-plus/dist/pagination/TablePlusNodeView.js'
 import type { Node as PmNode } from '@tiptap/pm/model'
 import type { Editor } from '@tiptap/core'
-import { tableEditing, mergeCells, splitCell } from '@tiptap/pm/tables'
+import { tableEditing, mergeCells, splitCell, CellSelection } from '@tiptap/pm/tables'
 import { UdfixTableRowGroup } from './UdfixTableRowGroup'
+import { createDragFrame, type DragFrame } from '../utils/dragFrame'
+
+export { CellSelection }
 
 /** Sync border attrs to the real DOM table (TablePlus uses a custom node view). */
 class UdfixTableNodeView extends TablePlusNodeView {
     declare contentDOM: HTMLTableElement
+    private columnDrag: DragFrame<number[]>
 
     constructor(node: PmNode, getPos: () => number | undefined, editor: Editor, options: Record<string, unknown>) {
         super(node, getPos, editor, options)
+        this.columnDrag = createDragFrame((values) => {
+            this.commitColumnSizes(values, false)
+        })
         this.applyBorderStyles(node)
+    }
+
+    /**
+     * TablePlus writes column CSS on every mousemove and the node on mouseup.
+     * CSS updates share one animation frame. mouseup still commits the final widths.
+     */
+    updateValues(values: number[], updateNode = false): void {
+        if (updateNode) {
+            const pending = this.columnDrag.flush()
+            this.commitColumnSizes(pending ?? values, true)
+            return
+        }
+        this.columnDrag.push(values)
+    }
+
+    private commitColumnSizes(values: number[], updateNode: boolean): void {
+        const proto = TablePlusNodeView.prototype as unknown as {
+            updateValues: (values: number[], updateNode?: boolean) => void
+        }
+        proto.updateValues.call(this, values, updateNode)
     }
 
     update(node: PmNode): boolean {
@@ -137,24 +164,8 @@ export const UdfixTable = TablePlus.extend({
     addCommands() {
         return {
             ...this.parent?.(),
-            mergeCells: () => ({ state, dispatch, editor }) => {
-                const result = mergeCells(state, dispatch)
-                if (result && dispatch && editor && editor.view) {
-                    setTimeout(() => {
-                        editor.view.updateState(editor.view.state)
-                    }, 0)
-                }
-                return result
-            },
-            splitCell: () => ({ state, dispatch, editor }) => {
-                const result = splitCell(state, dispatch)
-                if (result && dispatch && editor && editor.view) {
-                    setTimeout(() => {
-                        editor.view.updateState(editor.view.state)
-                    }, 0)
-                }
-                return result
-            },
+            mergeCells: () => ({ state, dispatch }) => mergeCells(state, dispatch),
+            splitCell: () => ({ state, dispatch }) => splitCell(state, dispatch),
         }
     },
 

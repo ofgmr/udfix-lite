@@ -26,7 +26,6 @@ import type {
     HeaderFooterSettings,
 } from '../stores/useHeaderFooterStore';
 import type { HfVariantCompiled, HfOverlayPayload } from '../../electron/pdfOverlayShared';
-import { resolveHfVariantKey, resolveHfPageTokens } from '../../electron/pdfOverlayShared';
 
 export type { HfVariantCompiled, HfOverlayPayload } from '../../electron/pdfOverlayShared';
 

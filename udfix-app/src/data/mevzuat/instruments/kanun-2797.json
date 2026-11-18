@@ -12,7 +12,7 @@
   "tertip": 5,
   "sourceUrl": "https://www.mevzuat.gov.tr/mevzuat?MevzuatNo=2797&MevzuatTur=1&MevzuatTertip=5",
   "kabulTarihi": "4/2/1983",
-  "maddeCount": 98,
+  "maddeCount": 93,
   "maddeler": [
     {
       "id": "kanun:2797:m:1",
@@ -498,7 +498,7 @@
       "maddeKind": "madde",
       "maddeNo": "30",
       "heading": "Madde 30",
-      "text": "(Değişik birinci cümle: 18/6/2014-6545/33 md.) Yargıtay Birinci Başkanı seçilebilmek için en az altı yıl, Yargıtay Cumhuriyet Başsavcısı, Birinci Başkanvekili ve Yargıtay Cumhuriyet Başsavcıvekili seçilebilmek için en az beş yıl, daire başkanı seçilebilmek için en az üç yıl süreyle Yargıtay üyeliği yapmış olmak zorunludur. Bu süreler Yargıtay üyeliğine başlama tarihinden hesaplanır.\n\n Genel Sekreterin nitelikleri, seçimi ve görev süresi:\n Madde 30/A – (Ek: 18/6/2014-6545/34 md.)\n Genel Sekreter, Yargıtay üyeleri arasından Birinci Başkan tarafından seçilir.[11]\n Genel Sekreterin görev süresi iki yıldır. Ancak bu süre sona ermeden Birinci Başkanın kararı üzerine veya Birinci Başkanın görevinin sona ermesi hâlinde Genel Sekreterin görevi sona erer. Görevi sona eren Genel Sekreter bir kere daha seçilebilir.",
+      "text": "(Değişik birinci cümle: 18/6/2014-6545/33 md.) Yargıtay Birinci Başkanı seçilebilmek için en az altı yıl, Yargıtay Cumhuriyet Başsavcısı, Birinci Başkanvekili ve Yargıtay Cumhuriyet Başsavcıvekili seçilebilmek için en az beş yıl, daire başkanı seçilebilmek için en az üç yıl süreyle Yargıtay üyeliği yapmış olmak zorunludur. Bu süreler Yargıtay üyeliğine başlama tarihinden hesaplanır.",
       "preview": "(Değişik birinci cümle: 18/6/2014-6545/33 md.) Yargıtay Birinci Başkanı seçilebilmek için en az altı yıl, Yargıtay Cumhuriyet Başsavcısı, Bi…",
       "kitap": null,
       "kisim": null,
@@ -508,6 +508,23 @@
       "sectionPath": [
         "DÖRDÜNCÜ BÖLÜM · Nitelikler – Seçim ve Atama",
         "Yargıtay Üyelerinin nitelikleri ve seçimi:"
+      ]
+    },
+    {
+      "id": "kanun:2797:m:30/A",
+      "maddeKind": "madde",
+      "maddeNo": "30/A",
+      "heading": "Madde 30/A",
+      "text": "(Ek: 18/6/2014-6545/34 md.)\n Genel Sekreter, Yargıtay üyeleri arasından Birinci Başkan tarafından seçilir.[11]\n Genel Sekreterin görev süresi iki yıldır. Ancak bu süre sona ermeden Birinci Başkanın kararı üzerine veya Birinci Başkanın görevinin sona ermesi hâlinde Genel Sekreterin görevi sona erer. Görevi sona eren Genel Sekreter bir kere daha seçilebilir.",
+      "preview": "(Ek: 18/6/2014-6545/34 md.) Genel Sekreter, Yargıtay üyeleri arasından Birinci Başkan tarafından seçilir.[11] Genel Sekreterin görev süresi…",
+      "kitap": null,
+      "kisim": null,
+      "bolum": "DÖRDÜNCÜ BÖLÜM · Nitelikler – Seçim ve Atama",
+      "ayirim": null,
+      "maddeBaslik": "Genel Sekreterin nitelikleri, seçimi ve görev süresi:",
+      "sectionPath": [
+        "DÖRDÜNCÜ BÖLÜM · Nitelikler – Seçim ve Atama",
+        "Genel Sekreterin nitelikleri, seçimi ve görev süresi:"
       ]
     },
     {
@@ -889,7 +906,7 @@
       "maddeKind": "madde",
       "maddeNo": "53",
       "heading": "Madde 53",
-      "text": "Yargıtay Birinci Başkanlığında, Yargıtay dairelerinde, kurullarında birer, Yargıtay Cumhuriyet Başsavcılığında ise yeteri kadar yazı işleri bürosu bulunur.\n Bürolarda bir yazı işleri müdürü, yeteri kadar yazı işleri müdür yardımcısı, memur, katip, mübaşir ve odacı bulunur.\n Yazı İşleri Müdürlüğüne, öncelikle hukuk fakültesi mezunları; bunlardan müracaat eden olmadığı takdirde sırasıyla Adalet Yüksekokulu, fakülte, yüksekokul, lise veya ticaret lisesi mezunları veya en az beş yıl yazı işleri müdür yardımcılığı veya ilk derece mahkemelerinde aynı süre yazı işleri müdürlüğü yapmış olanlar atanır.\n Yazı işleri müdür yardımcılığına atanabilmek için lise veya ticaret lisesini bitirmiş olmak veya Yargıtayda en az beş yıl süre ile katiplik veya ilk derece mahkemelerinde aynı süre yazı işleri müdür yardımcılığı veya katiplik yapmış olmak gerekir.\n Bürolara yapılacak atamalarda ve atanacakların bütün özlük haklarıyla sair işlemlerinde bu Kanunda yazılı istisnalar dışında Devlet Memurları Kanununun ilgili hükümleri uygulanır.[17]\n Açılan kadrolara ilk kez atanacaklar Yönetim Kurulunca yapılacak açık yarışma sınavı ile belli edilir. Naklen atanacaklar için daire başkanı veya amirinin ve Yargıtay Cumhuriyet Başsavcılığı yazı işleri büroları için Yargıtay Cumhuriyet Başsavcısının inhaları göz önünde tutulur.\n Yarışma sınavında kazananlar başarı sırasına göre bir çizelge ile tespit olunarak en üst derecede kazananlardan başlamak üzere sıra ile atama yapılır.\n Yazı İşleri Müdürü büronun birinci derecede sorumlu görevlisidir. Büro işlerinin düzenle yürütülmesini sağlar ve Yargıtay İç Yönetmeliğinde gösterilen görevleri yapar.\n\n Bilgi İşlem Merkezi Müdürlüğü ve görevleri\n Madde 53/A – (Ek: 9/2/2011 – 6110/10 md.)\n Bilgi İşlem Merkezi, Yargıtay Birinci Başkanlığına bağlı olarak görev yapar ve bir müdür yönetiminde yeteri kadar şef, mühendis, programcı, çözümleyici, bilgisayar işletmeni, veri hazırlama ve kontrol işletmeni ile teknisyenden oluşur.\n Bilgi İşlem Merkezi Müdürlüğünün görevleri şunlardır:\n a) Yargıtay Başkanlığında bilgi işlem sistemini ilk derece ve bölge adliye mahkemeleri bilişim sistemiyle koordineli olarak kurmak, işletmek, bakım ve onarımlarını yapmak veya yaptırmak, bilgi işlem sistemleri ile ilgili teknolojileri ve gelişmeleri takip ederek ihtiyaçlara göre gerekli güncellemeleri yapmak, Yargıtay Başkanlığının ihtiyaçlarına göre projeler üreterek yazılım geliştirmek ve güncellemek.\n b) Gerektiğinde, diğer kamu kurum ve kuruluşlarının geliştirmiş olduğu yazılımlarla uyumunu sağlamak, uluslararası kapsamda, sistemler arası çevrim içi ve çevrim dışı veri akışını ve koordinasyonu sağlamak, bilişim teknolojileri ile ilgili ulusal ve uluslararası faaliyetlerde Yargıtay Birinci Başkanlığınca verilen görevleri yerine getirmek.\n c) Yargıtayın faaliyet alanına ilişkin olarak hazırlanan karar, mevzuat, genelge, görüş, metin ve belgelerin, Türkiye’nin üyesi olduğu ve yargı yetkisi tanınan uluslararası mahkeme kararlarının, kullanıcıların hizmetine sunulması için gerekli desteği sağlamak.\n d) Yargıtay Başkanlığı bilgi sistemlerinde güvenlik politikalarının usul ve esaslarının belirlenmesi, uygulanması ve güncellenerek denetlenmesini sağlamak.\n e) Bilgisayar ve bilgi sistemlerinin kullanılmasında Yargıtay Başkanlığınca çıkartılacak esasları hazırlamak, Yargıtayın tüm birimlerinde görev yapan bilgisayar kullanıcılarının talepleri de dikkate alınarak gerekli eğitimlerini sağlamak.\n f) Yargıtay Başkanlığı tarafından verilen benzeri görevleri yapmak.",
+      "text": "Yargıtay Birinci Başkanlığında, Yargıtay dairelerinde, kurullarında birer, Yargıtay Cumhuriyet Başsavcılığında ise yeteri kadar yazı işleri bürosu bulunur.\n Bürolarda bir yazı işleri müdürü, yeteri kadar yazı işleri müdür yardımcısı, memur, katip, mübaşir ve odacı bulunur.\n Yazı İşleri Müdürlüğüne, öncelikle hukuk fakültesi mezunları; bunlardan müracaat eden olmadığı takdirde sırasıyla Adalet Yüksekokulu, fakülte, yüksekokul, lise veya ticaret lisesi mezunları veya en az beş yıl yazı işleri müdür yardımcılığı veya ilk derece mahkemelerinde aynı süre yazı işleri müdürlüğü yapmış olanlar atanır.\n Yazı işleri müdür yardımcılığına atanabilmek için lise veya ticaret lisesini bitirmiş olmak veya Yargıtayda en az beş yıl süre ile katiplik veya ilk derece mahkemelerinde aynı süre yazı işleri müdür yardımcılığı veya katiplik yapmış olmak gerekir.\n Bürolara yapılacak atamalarda ve atanacakların bütün özlük haklarıyla sair işlemlerinde bu Kanunda yazılı istisnalar dışında Devlet Memurları Kanununun ilgili hükümleri uygulanır.[17]\n Açılan kadrolara ilk kez atanacaklar Yönetim Kurulunca yapılacak açık yarışma sınavı ile belli edilir. Naklen atanacaklar için daire başkanı veya amirinin ve Yargıtay Cumhuriyet Başsavcılığı yazı işleri büroları için Yargıtay Cumhuriyet Başsavcısının inhaları göz önünde tutulur.\n Yarışma sınavında kazananlar başarı sırasına göre bir çizelge ile tespit olunarak en üst derecede kazananlardan başlamak üzere sıra ile atama yapılır.\n Yazı İşleri Müdürü büronun birinci derecede sorumlu görevlisidir. Büro işlerinin düzenle yürütülmesini sağlar ve Yargıtay İç Yönetmeliğinde gösterilen görevleri yapar.",
       "preview": "Yargıtay Birinci Başkanlığında, Yargıtay dairelerinde, kurullarında birer, Yargıtay Cumhuriyet Başsavcılığında ise yeteri kadar yazı işleri…",
       "kitap": null,
       "kisim": null,
@@ -899,6 +916,23 @@
       "sectionPath": [
         "YEDİNCİ BÖLÜM · İdari Birimler ve Bürolar",
         "Yazı işleri büroları:"
+      ]
+    },
+    {
+      "id": "kanun:2797:m:53/A",
+      "maddeKind": "madde",
+      "maddeNo": "53/A",
+      "heading": "Madde 53/A",
+      "text": "(Ek: 9/2/2011 – 6110/10 md.)\n Bilgi İşlem Merkezi, Yargıtay Birinci Başkanlığına bağlı olarak görev yapar ve bir müdür yönetiminde yeteri kadar şef, mühendis, programcı, çözümleyici, bilgisayar işletmeni, veri hazırlama ve kontrol işletmeni ile teknisyenden oluşur.\n Bilgi İşlem Merkezi Müdürlüğünün görevleri şunlardır:\n a) Yargıtay Başkanlığında bilgi işlem sistemini ilk derece ve bölge adliye mahkemeleri bilişim sistemiyle koordineli olarak kurmak, işletmek, bakım ve onarımlarını yapmak veya yaptırmak, bilgi işlem sistemleri ile ilgili teknolojileri ve gelişmeleri takip ederek ihtiyaçlara göre gerekli güncellemeleri yapmak, Yargıtay Başkanlığının ihtiyaçlarına göre projeler üreterek yazılım geliştirmek ve güncellemek.\n b) Gerektiğinde, diğer kamu kurum ve kuruluşlarının geliştirmiş olduğu yazılımlarla uyumunu sağlamak, uluslararası kapsamda, sistemler arası çevrim içi ve çevrim dışı veri akışını ve koordinasyonu sağlamak, bilişim teknolojileri ile ilgili ulusal ve uluslararası faaliyetlerde Yargıtay Birinci Başkanlığınca verilen görevleri yerine getirmek.\n c) Yargıtayın faaliyet alanına ilişkin olarak hazırlanan karar, mevzuat, genelge, görüş, metin ve belgelerin, Türkiye’nin üyesi olduğu ve yargı yetkisi tanınan uluslararası mahkeme kararlarının, kullanıcıların hizmetine sunulması için gerekli desteği sağlamak.\n d) Yargıtay Başkanlığı bilgi sistemlerinde güvenlik politikalarının usul ve esaslarının belirlenmesi, uygulanması ve güncellenerek denetlenmesini sağlamak.\n e) Bilgisayar ve bilgi sistemlerinin kullanılmasında Yargıtay Başkanlığınca çıkartılacak esasları hazırlamak, Yargıtayın tüm birimlerinde görev yapan bilgisayar kullanıcılarının talepleri de dikkate alınarak gerekli eğitimlerini sağlamak.\n f) Yargıtay Başkanlığı tarafından verilen benzeri görevleri yapmak.",
+      "preview": "(Ek: 9/2/2011 – 6110/10 md.) Bilgi İşlem Merkezi, Yargıtay Birinci Başkanlığına bağlı olarak görev yapar ve bir müdür yönetiminde yeteri kad…",
+      "kitap": null,
+      "kisim": null,
+      "bolum": "YEDİNCİ BÖLÜM · İdari Birimler ve Bürolar",
+      "ayirim": null,
+      "maddeBaslik": "Bilgi İşlem Merkezi Müdürlüğü ve görevleri",
+      "sectionPath": [
+        "YEDİNCİ BÖLÜM · İdari Birimler ve Bürolar",
+        "Bilgi İşlem Merkezi Müdürlüğü ve görevleri"
       ]
     },
     {
@@ -957,7 +991,7 @@
       "maddeKind": "madde",
       "maddeNo": "57",
       "heading": "Madde 57",
-      "text": "Yargıtaydaki kurulların, üyelerin, tetkik hakimleri ve Yargıtay Cumhuriyet Başsavcı yardımcıları ile diğer personelin görev ve yetkileri, çalışma usulleri, seçimlerin yöntemi, tutulacak defterler, kullanılacak basılı kağıtlar ile bu Kanunun uygulanmasına ilişkin diğer hususlar Yargıtay Büyük Genel Kurulunun oy çoğunluğuyla kabul edeceği İç Yönetmelikle düzenlenir.",
+      "text": "Yargıtaydaki kurulların, üyelerin, tetkik hakimleri ve Yargıtay Cumhuriyet Başsavcı yardımcıları ile diğer personelin görev ve yetkileri, çalışma usulleri, seçimlerin yöntemi, tutulacak defterler, kullanılacak basılı kağıtlar ile bu Kanunun uygulanmasına ilişkin diğer hususlar Yargıtay Büyük Genel Kurulunun oy çoğunluğuyla kabul edeceği İç Yönetmelikle düzenlenir.\n\nResmi Gazete‘de yayınlanma:",
       "preview": "Yargıtaydaki kurulların, üyelerin, tetkik hakimleri ve Yargıtay Cumhuriyet Başsavcı yardımcıları ile diğer personelin görev ve yetkileri, ça…",
       "kitap": null,
       "kisim": null,
@@ -980,10 +1014,10 @@
       "kisim": null,
       "bolum": "SEKİZİNCİ BÖLÜM · Çeşitli Hükümler",
       "ayirim": null,
-      "maddeBaslik": "Resmi Gazete‘de yayınlanma:",
+      "maddeBaslik": "Adli araverme:",
       "sectionPath": [
         "SEKİZİNCİ BÖLÜM · Çeşitli Hükümler",
-        "Resmi Gazete‘de yayınlanma:"
+        "Adli araverme:"
       ]
     },
     {
@@ -1517,7 +1551,7 @@
       "maddeKind": "madde",
       "maddeNo": "70",
       "heading": "Madde 70",
-      "text": "Bu Kanun hükümlerini Bakanlar Kurulu yürütür.\n\n (I) SAYILI KADRO CETVELİ\n (Ek cetvel:14/11/2024-7532/10 md.)\n KURUMU : YARGITAY\n TEŞKİLATI : MERKEZ\n\n UNVANI\n DERECESİ\n ADEDİ\n\n Birinci Başkan\n 1\n 1\n\n Cumhuriyet Başsavcısı\n 1\n 1\n\n Birinci Başkanvekili\n 1\n 2\n\n Cumhuriyet Başsavcıvekili\n 1\n 1\n\n Daire Başkanı\n 1\n 24\n\n Üye\n 1\n 311\n\n İç Denetçi\n 1-5\n 3\n\n TOPLAM\n 343\n\n 4/2/1983 TARİH VE 2797 SAYILI KANUNA İŞLENEMEYEN HÜKÜMLER\n 1 – 20/5/1987 tarih ve 3368 sayılı Kanunun Geçici Maddesi :\n Geçici Madde – Bu Kanun yürürlüğe girdiği tarihte Yedinci Hukuk Dairesinde bulunan işlerin yarısı, Onaltıncı Hukuk Dairesinin kurulup göreve başladığı tarihte, Başkanlar Kurulunun tespit edeceği esaslar dahilinde bu daireye devredilir.",
+      "text": "Bu Kanun hükümlerini Bakanlar Kurulu yürütür.\n\n (I) SAYILI KADRO CETVELİ\n (Ek cetvel:14/11/2024-7532/10 md.)\n KURUMU : YARGITAY\n TEŞKİLATI : MERKEZ\n\n UNVANI\n DERECESİ\n ADEDİ\n\n Birinci Başkan\n 1\n 1\n\n Cumhuriyet Başsavcısı\n 1\n 1\n\n Birinci Başkanvekili\n 1\n 2\n\n Cumhuriyet Başsavcıvekili\n 1\n 1\n\n Daire Başkanı\n 1\n 24\n\n Üye\n 1\n 311\n\n İç Denetçi\n 1-5\n 3\n\n TOPLAM\n 343\n\n 4/2/1983 TARİH VE 2797 SAYILI KANUNA İŞLENEMEYEN HÜKÜMLER\n 1 – 20/5/1987 tarih ve 3368 sayılı Kanunun Geçici Maddesi :\n Geçici Madde – Bu Kanun yürürlüğe girdiği tarihte Yedinci Hukuk Dairesinde bulunan işlerin yarısı, Onaltıncı Hukuk Dairesinin kurulup göreve başladığı tarihte, Başkanlar Kurulunun tespit edeceği esaslar dahilinde bu daireye devredilir.\n\n2 – 30/5/1991 tarih ve 3749 sayılı Kanunun Geçici Maddeleri:\n\nGeçici Madde 1 -\nDiğer dairelerden bu Kanunla yeni kurulan dairelere verilen işlerin devri, Başkanlar Kurulunun tespit edeceği esaslara göre dairelerin kurulup göreve başladığı tarihte ilgili Daire Başkanlıklarınca sağlanır.\n Bu Kanunla ihdas edilen üye kadrolarına, Hakimler ve Savcılar Yüksek Kurulu Başkanının teklifi üzerine, ilgili Kanun hükümleri uygulanmak suretiyle üye seçimi yapılır.\n\nGeçici Madde 2 -\n3402 sayılı Kadastro Kanunundan önce yürürlükte bulunan 2613 sayılı Kadastro ve Tapu Tahriri Kanununun 27 nci maddesinde yazılı ve 5572 sayılı Kanuna dayanılarak görevlendirilen asliye mahkemelerince verilen hüküm ve kararlar ile 766 sayılı Tapulama Kanununa göre çözümlenen dava ve işlerin temyiz tetkikatlarına Yedinci, Onaltıncı ve Onyedinci Hukuk Dairelerince devam olunur.\n\n3 – 7/12/1994 tarih ve 4053 sayılı Kanunun Geçici Maddesi:\n\nGeçici Madde 1 -\nDiğer dairelerden bu Kanunla yeni kurulan dairelere işlerin devri, Başkanlar Kurulunun tespit edeceği esaslara göre dairelerin kurulup göreve başladığı tarihte ilgili daire başkanlıklarınca sağlanır.\n\n4 – 15/7/2003 tarih ve 4929 sayılı Kanunun Geçici Maddesi:\n\nGeçici Madde 1 -\nBu Kanunla yapılan değişiklikler halen devam etmekte olan seçimlere de uygulanır.\n\n5 – 9/2/2011 tarihli ve 6110 sayılı Kanunun Geçici Maddesi: [24]\n\nGeçici Madde 1 -\n(1) Danıştay Başkanlık Kurulu ile Yargıtay Başkanlar Kurulu, bu Kanunla ihdas edilen üye kadrolarına seçim yapılmasından ve dairelerde çalışacak üyelerin belirlenmesinden itibaren bir ay içinde toplanarak daireler arasındaki işbölümüne ilişkin karar tasarısını hazırlar, Danıştayda Genel Kurulun ve Yargıtayda Büyük Genel Kurulun onayına sunar. Danıştayda Genel Kurulun, Yargıtayda Büyük Genel Kurulun işbölümünün onaylanmasına ilişkin kararları Resmî Gazetede yayımlanıp yürürlüğe girinceye kadar bu Kanunla yapılan değişiklikten önceki işbölümüne ilişkin hükümler uygulanmaya devam olunur.\n (2) Daha önce başka dairelerde görülmekte olup da dairesi değiştirilen dava dosyaları mevcut hâlleriyle ilgili daireye gönderilir.\n (3) Bu Kanunla Yargıtayda ihdas edilen üye kadrolarına seçim yapılmasından itibaren onbeş gün içinde Birinci Başkanlık Kurulu yeniden belirlenir. Üyelerin hangi dairelerde görev yapacağını, dairelerin iş durumunu ve ihtiyaçlarını göz önünde tutarak, oluşturulan yeni Başkanlık Kurulu belirler.\n\n6- 31/3/2011 tarihli ve 6217 sayılı Kanunun 17 nci maddesi:[25]\n\nMadde 17 -\nBu Kanuna ekli (1) sayılı listede yer alan kadrolar ihdas edilerek 13/12/1983 tarihli ve 190 sayılı Genel Kadro ve Usulü Hakkında Kanun Hükmünde Kararnamenin eki (I) sayılı cetvelin Danıştay Başkanlığına ait bölümüne, ekli (2) sayılı listede yer alan kadrolar ihdas edilerek 190 sayılı Kanun Hükmünde Kararnamenin eki (I) sayılı cetvelin Yargıtay Başkanlığına ait bölümüne eklenmiştir.\n\n7- 2/12/2014 tarihli ve 6572 sayılı Kanunun 49 uncu maddesi:[26]\n\nMadde 49 -\nBu Kanuna ekli (1) sayılı listede yer alan kadrolar ihdas edilerek 13/12/1983 tarihli ve 190 sayılı Genel Kadro ve Usulü Hakkında Kanun Hükmünde Kararnamenin eki (II) sayılı cetvelin Adalet Bakanlığına ait bölümüne; ekli (2) sayılı listede yer alan kadrolar ihdas edilerek 190 sayılı Kanun Hükmünde Kararnamenin eki (I) sayılı cetvelin, (3) sayılı listede yer alan kadrolar ihdas edilerek (II) sayılı cetvelin Yargıtay Başkanlığına ait bölümüne; ekli (4) sayılı listede yer alan kadrolar ihdas edilerek 190 sayılı Kanun Hükmünde Kararnamenin eki (I) sayılı cetvelin, (5) sayılı listede yer alan kadrolar ihdas edilerek (II) sayılı cetvelin Danıştay Başkanlığına ait bölümüne; ekli (6) sayılı listede yer alan kadrolar ihdas edilerek l90 sayılı Kanun Hükmünde Kararnamenin eki (I) sayılı cetvelin Adalet Bakanlığına ait bölümüne eklenmiştir.\n\n 2797 SAYILI KANUNA EK VE DEĞİŞİKLİK GETİREN MEVZUATIN VEYA\n ANAYASA MAHKEMESİ TARAFINDAN VERİLEN İPTAL KARARLARININ\n YÜRÜRLÜĞE GİRİŞ TARİHLERİNİ GÖSTERİR LİSTE\n\n Değiştiren Kanunun/ KHK’nin veya İptal Eden Anayasa Mahkemesi Kararının Numarası\n 2797 Kanunun Değişen veya İptal Edilen Maddeleri\n Yürürlüğe Giriş Tarihi\n\n 2958\n Geçici Madde 10\n 19/11/1983\n\n KHK/243\n 67\n 31/12/1984\n\n 3164\n Ek Madde\n 22/3/1985\n\n 3368\n 5, 14\n 26/5/1987\n\n 3749\n 55\n 5/6/1991\n\n 4053\n 5\n 11/12/1994\n\n 4574\n 55\n 13/6/2000\n\n 4929\n 31\n 22/7/2003\n\n 5218\n 14\n 21/7/2004\n\n 5219\n 28\n 21/7/2004\n\n 5235\n 56\n 1/1/2005\n\n 15\n 1/4/2005\n\n 6110\n 5,14,17, 31,33,40, 53/A ve İşlenemeyen Hüküm\n 14/2/2011\n\n 6217\n İşlenemeyen Hüküm\n 14/4/2011\n\n KHK/650\n 30, Geçici Madde 11,\n Geçici Madde 12\n 26/8/2011\n\n 56\n 1/1/2012\n\n KHK/666\n 55\n 31/12/2011 tarihinden geçerli olmak üzere 2/11/2011\n\n Anayasa Mahkemesi’nin 18/7/2012 tarihli ve\n E.: 2011/113 K.: 2012/108 sayılı Kararı\n 56\n 1/1/2013 tarihinden başlayarak altı ay sonra (1/7/2013)\n\n 6494\n 29, 56\n 7/7/2013\n\n Anayasa Mahkemesi’nin 27/12/2012 tarihli ve\n E.: 2011/139, K.: 2012/205 sayılı Kararı\n 55\n 10/10/2013\n\n 6545\n 5, 10, 14, 23, 30, 30/A, 32, 33,\n Geçici Madde 13\n 28/6/2014\n\n 6572\n 5, 14, 27, 29, 36, 59, Geçici Madde 14, İşlenmeyen hüküm\n 12/12/2014\n\n 6644\n 17, 60\n 11/4/2015\n\n 6723\n 5, 7, 29, 30, 30/A, 55, 60,\n Geçici Madde 15\n 23/7/2016\n\n KHK/680\n 7, 14, 15, 46\n 6/1/2017\n\n KHK/690\n 46\n 29/4/2017\n\n KHK/696\n 15, 29, 64, Ek Madde 2,\n Geçici Madde 15, Geçici Madde 16, Geçici Madde 17\n 24/12/2017\n\n 7072\n 7, 14, 15, 46\n 8/3/2018\n\n 7079\n 15, 29, 64, Ek Madde 2, Geçici Madde 15, Geçici Madde 16, Geçici Madde 17\n 8/3/2018\n\n KHK/703\n 50, 55, Geçici Madde 18\n 24/6/2018 tarihinde birlikte yapılan Türkiye Büyük Millet Meclisi ve Cumhurbaşkanlığı seçimleri sonucunda Cumhurbaşkanının andiçerek göreve başladığı tarihte\n (9/7/2018)\n\n Anayasa Mahkemesi’nin 10/12/2020 tarihli ve E.:2016/144 K.:2020/75 sayılı Kararı ile.\n Geçici Madde 15\n 1/10/2021\n\n 7413\n 10, 33\n 28/6/2022\n\n 7532\n Ek Madde 3, (I) Sayılı Cetvel\n 27/11/2024\n\n [1] 1/7/2016 tarihli ve 6723 sayılı Kanunun 15 inci maddesiyle, bu maddede yer alan “yirmi üç” ibareleri “on iki” şeklinde değiştirilmiştir.\n\n [2] 1/7/2016 tarihli ve 6723 sayılı Kanunun 16 ncı maddesiyle, bu maddenin ikinci fıkrada yer alan “beş” ibaresi “üç”, “beşten” ibaresi “üçten”, “daire sayısının en az iki katı” ibaresi “her daireden en az bir” şeklinde değiştirilmiş ve üçüncü fıkrasında yer alan “ve başkanlarının katıldığı dairelerden bir, katılmadığı dairelerden iki üyenin” ibaresi madde metninden çıkarılmıştır.\n\n [3] 18/6/2014 tarihli ve 6545 sayılı Kanunun 30 uncu maddesiyle, bu fıkrada yer alan yer alan “dördü” ibareleri “altısı”, “sekiz” ibaresi “on iki”, “ikisi” ibareleri “dördü” ve “dört” ibaresi “sekiz” şeklinde değiştirilmiştir.\n\n [4] 23/6/2022 tarihli ve 7413 sayılı Kanunun 17 nci maddesiyle bu maddede yer alan “altısı” ibareleri “dördü” şeklinde, “on iki” ibaresi “sekiz” şeklinde, “dördü” ibareleri “ikisi” şeklinde ve “sekiz” ibaresi “dört” şeklinde değiştirilmiştir.\n\n [5] 2/12/2014 tarihli ve 6572 sayılı Kanunun 22 nci maddesiyle, bu fıkrada yer alan “hukuk veya ceza dairesi olarak belirlenmesi ile” ibaresi madde metninden çıkarılmıştır.\n\n [6] 18/6/2014 tarihli ve 6545 sayılı Kanunun 31 inci maddesiyle, bu fıkrada yer alan “arasındaki” ibaresi “hukuk veya ceza dairesi olarak belirlenmesi ile aralarındaki” şeklinde ve “üçte” ibaresi “onda” şeklinde değiştirilmiş; mevcut birinci fıkrasının üçüncü ve dördüncü cümlelerinde yer alan “işbölümü” ibareleri madde metninden çıkarılmıştır.\n\n [7] 26/9/2004 tarihli ve 5235 sayılı Kanunun 51 inci maddesiyle 1/4/2005 tarihinden geçerli olmak üzere (2) numaralı bende (a) alt bendi eklenmiş ve diğer alt bentler buna göre teselsül ettirilmiştir.\n\n [8] 18/6/2014 tarihli ve 6545 sayılı Kanunun 32 nci maddesiyle, bu fıkrada yer alan “lüzumunda” ibaresinden sonra gelmek üzere “Yargıtayda görev yapan birinci sınıfa ayrılmış” ibaresi eklenmiştir.\n\n [9] 8/8/2011 tarihli ve 650 sayılı KHK’nin 12 nci maddesiyle, bu maddenin birinci fıkrasında yer alan “sekiz yıl” ibaresi “dört yıl”, “altı yıl” ibaresi “üç yıl” şeklinde değiştirilmiş ve metne işlenmiştir.\n\n [10] 1/7/2016 tarihli ve 6723 sayılı Kanunun 18 inci maddesiyle, bu maddede yer alan “on” ibaresi “altı” şeklinde değiştirilmiştir.\n\n [11] 1/7/2016 tarihli ve 6723 sayılı Kanunun 19 uncu maddesiyle, bu fıkrada yer alan “en az beş yıl Yargıtay üyeliği yapmış olanlar” ibaresi “Yargıtay üyeleri” şeklinde değiştirilmiştir.\n\n [12] Bu fıkrada yer alan “en az üçte ikisinin” ibaresi, 9/2/2011 tarihli ve 6110 sayılı Kanunun 14 üncü maddesi ile “salt çoğunluğunun” şeklinde değiştirilmiş ve metne işlenmiştir\n\n [13] 18/6/2014 tarihli ve 6545 sayılı Kanunun 36 ncı maddesiyle, bu fıkrada yer alan “iki” ibareleri “üç”, “bir” ibareleri “iki” şeklinde değiştirilmiştir.\n\n [14] 23/6/2022 tarihli ve 7413 sayılı Kanunun 18 inci maddesiyle bu fıkrada yer alan “üç” ibareleri “iki” şeklinde, “iki” ibareleri “bir” şeklinde değiştirilmiştir.\n\n [15] 2/1/2017 tarihli ve 680 sayılı KHK’nin 5 inci maddesiyle, bu fıkrada yer alan “Yargıtay Ceza Genel Kuruluna” ibaresi “Yargıtay ilgili ceza dairesine” şeklinde değiştirilmiş, daha sonra bu hüküm 1/2/2018 tarihli ve 7072 sayılı Kanunun 4 üncü maddesiyle aynen kabul edilerek kanunlaşmıştır.\n\n [16] 2/7/2018 tarihli ve 703 sayılı Kanun Hükmünde Kararnamenin 186 ncı maddesiyle bu bentte yer alan “, tüzük, yönetmelik” ibaresi madde metninden çıkarılmıştır.\n\n [17] Bu hükmün uygulanmasında ek 1 inci maddeye bakınız.\n\n [18] 11/10/2011 tarihli ve 666 sayılı KHK ile bu maddede yapılan düzenlemeler; 10/10/2013 tarihli ve 28791 sayılı Resmi Gazete’de yayımlanan Anayasa Mahkemesi’nin 27/12/2012 tarihli ve E.: 2011/139, K.: 2012/205 sayılı Kararı ile iptal edilmiştir.\n\n [19] 1/7/2016 tarihli 6723 sayılı Kanunun 20 nci maddesiyle, bu maddenin birinci fıkrasında yer alan “ellimilyar liraya” ibareleri “on milyon Türk lirasına” şeklinde değiştirilmiştir.\n\n [20] 2/7/2018 tarihli ve 703 sayılı Kanun Hükmünde Kararnamenin 186 ncı maddesiyle bu fıkrada yer alan “Maliye Bakanlığının görüşü alınarak Bakanlar Kurulu” ibaresi “Cumhurbaşkanı” şeklinde değiştirilmiştir.\n\n [21] Bu madde başlığı “Hukuk dava dosyalarının Yargıtaya gönderilmesi:” iken, 1/4/2015 tarihli ve 6644 sayılı Kanunun 2 nci maddesiyle metne işlendiği şekilde değiştirilmiştir.\n\n [22] Bu maddede yer alan kadrolar için 24/12/2017 tarihli ve 30280 sayılı Resmi Gazete’ye ve 8/3/2018 tarihli ve 30354 (Mükerrer) sayılı Resmi Gazete’ye bakınız.\n\n [23] 20/11/2017 tarihli ve 696 sayılı KHK’nin 44 üncü maddesiyle, bu fıkrada yer alan “üç” ibaresi “altı” şeklinde değiştirilmiş, daha sonra bu hüküm 1/2/2018 tarihli ve 7079 sayılı Kanunun 39 uncu maddesiyle aynen kabul edilerek kanunlaşmıştır.\n\n [24] Bu maddede yer alan kadrolar için 14/2/2011 tarihli ve 27846 sayılı Resmi Gazete’ye bakınız.\n\n [25] Bu maddede yer alan kadrolarla ilgili olarak 14/4/2011 tarihli ve 27905 sayılı Resmi Gazete’ye bakınız.\n\n [26] Bu maddede yer alan kadrolarla ilgili olarak 12/12/2014 tarihli ve 29203 Mükerrer sayılı Resmi Gazete’ye bakınız.",
       "preview": "Bu Kanun hükümlerini Bakanlar Kurulu yürütür. (I) SAYILI KADRO CETVELİ (Ek cetvel:14/11/2024-7532/10 md.) KURUMU : YARGITAY TEŞKİLATI : MERK…",
       "kitap": null,
       "kisim": null,
@@ -1527,125 +1561,6 @@
       "sectionPath": [
         "ONUNCU BÖLÜM · Son Hükümler",
         "Yürütme:"
-      ]
-    },
-    {
-      "id": "kanun:2797:m:gecici:1",
-      "maddeKind": "gecici",
-      "maddeNo": "1",
-      "heading": "Geçici Madde 1",
-      "text": "Diğer dairelerden bu Kanunla yeni kurulan dairelere verilen işlerin devri, Başkanlar Kurulunun tespit edeceği esaslara göre dairelerin kurulup göreve başladığı tarihte ilgili Daire Başkanlıklarınca sağlanır.\n Bu Kanunla ihdas edilen üye kadrolarına, Hakimler ve Savcılar Yüksek Kurulu Başkanının teklifi üzerine, ilgili Kanun hükümleri uygulanmak suretiyle üye seçimi yapılır.",
-      "preview": "Diğer dairelerden bu Kanunla yeni kurulan dairelere verilen işlerin devri, Başkanlar Kurulunun tespit edeceği esaslara göre dairelerin kurul…",
-      "kitap": null,
-      "kisim": null,
-      "bolum": "ONUNCU BÖLÜM · Son Hükümler",
-      "ayirim": null,
-      "maddeBaslik": "2 – 30/5/1991 tarih ve 3749 sayılı Kanunun Geçici Maddeleri:",
-      "sectionPath": [
-        "ONUNCU BÖLÜM · Son Hükümler",
-        "2 – 30/5/1991 tarih ve 3749 sayılı Kanunun Geçici Maddeleri:"
-      ]
-    },
-    {
-      "id": "kanun:2797:m:gecici:2",
-      "maddeKind": "gecici",
-      "maddeNo": "2",
-      "heading": "Geçici Madde 2",
-      "text": "3402 sayılı Kadastro Kanunundan önce yürürlükte bulunan 2613 sayılı Kadastro ve Tapu Tahriri Kanununun 27 nci maddesinde yazılı ve 5572 sayılı Kanuna dayanılarak görevlendirilen asliye mahkemelerince verilen hüküm ve kararlar ile 766 sayılı Tapulama Kanununa göre çözümlenen dava ve işlerin temyiz tetkikatlarına Yedinci, Onaltıncı ve Onyedinci Hukuk Dairelerince devam olunur.",
-      "preview": "3402 sayılı Kadastro Kanunundan önce yürürlükte bulunan 2613 sayılı Kadastro ve Tapu Tahriri Kanununun 27 nci maddesinde yazılı ve 5572 sayı…",
-      "kitap": null,
-      "kisim": null,
-      "bolum": "ONUNCU BÖLÜM · Son Hükümler",
-      "ayirim": null,
-      "maddeBaslik": "2 – 30/5/1991 tarih ve 3749 sayılı Kanunun Geçici Maddeleri:",
-      "sectionPath": [
-        "ONUNCU BÖLÜM · Son Hükümler",
-        "2 – 30/5/1991 tarih ve 3749 sayılı Kanunun Geçici Maddeleri:"
-      ]
-    },
-    {
-      "id": "kanun:2797:m:gecici:1",
-      "maddeKind": "gecici",
-      "maddeNo": "1",
-      "heading": "Geçici Madde 1",
-      "text": "Diğer dairelerden bu Kanunla yeni kurulan dairelere işlerin devri, Başkanlar Kurulunun tespit edeceği esaslara göre dairelerin kurulup göreve başladığı tarihte ilgili daire başkanlıklarınca sağlanır.",
-      "preview": "Diğer dairelerden bu Kanunla yeni kurulan dairelere işlerin devri, Başkanlar Kurulunun tespit edeceği esaslara göre dairelerin kurulup görev…",
-      "kitap": null,
-      "kisim": null,
-      "bolum": "ONUNCU BÖLÜM · Son Hükümler",
-      "ayirim": null,
-      "maddeBaslik": "3 – 7/12/1994 tarih ve 4053 sayılı Kanunun Geçici Maddesi:",
-      "sectionPath": [
-        "ONUNCU BÖLÜM · Son Hükümler",
-        "3 – 7/12/1994 tarih ve 4053 sayılı Kanunun Geçici Maddesi:"
-      ]
-    },
-    {
-      "id": "kanun:2797:m:gecici:1",
-      "maddeKind": "gecici",
-      "maddeNo": "1",
-      "heading": "Geçici Madde 1",
-      "text": "Bu Kanunla yapılan değişiklikler halen devam etmekte olan seçimlere de uygulanır.",
-      "preview": "Bu Kanunla yapılan değişiklikler halen devam etmekte olan seçimlere de uygulanır.",
-      "kitap": null,
-      "kisim": null,
-      "bolum": "ONUNCU BÖLÜM · Son Hükümler",
-      "ayirim": null,
-      "maddeBaslik": "4 – 15/7/2003 tarih ve 4929 sayılı Kanunun Geçici Maddesi:",
-      "sectionPath": [
-        "ONUNCU BÖLÜM · Son Hükümler",
-        "4 – 15/7/2003 tarih ve 4929 sayılı Kanunun Geçici Maddesi:"
-      ]
-    },
-    {
-      "id": "kanun:2797:m:gecici:1",
-      "maddeKind": "gecici",
-      "maddeNo": "1",
-      "heading": "Geçici Madde 1",
-      "text": "(1) Danıştay Başkanlık Kurulu ile Yargıtay Başkanlar Kurulu, bu Kanunla ihdas edilen üye kadrolarına seçim yapılmasından ve dairelerde çalışacak üyelerin belirlenmesinden itibaren bir ay içinde toplanarak daireler arasındaki işbölümüne ilişkin karar tasarısını hazırlar, Danıştayda Genel Kurulun ve Yargıtayda Büyük Genel Kurulun onayına sunar. Danıştayda Genel Kurulun, Yargıtayda Büyük Genel Kurulun işbölümünün onaylanmasına ilişkin kararları Resmî Gazetede yayımlanıp yürürlüğe girinceye kadar bu Kanunla yapılan değişiklikten önceki işbölümüne ilişkin hükümler uygulanmaya devam olunur.\n (2) Daha önce başka dairelerde görülmekte olup da dairesi değiştirilen dava dosyaları mevcut hâlleriyle ilgili daireye gönderilir.\n (3) Bu Kanunla Yargıtayda ihdas edilen üye kadrolarına seçim yapılmasından itibaren onbeş gün içinde Birinci Başkanlık Kurulu yeniden belirlenir. Üyelerin hangi dairelerde görev yapacağını, dairelerin iş durumunu ve ihtiyaçlarını göz önünde tutarak, oluşturulan yeni Başkanlık Kurulu belirler.",
-      "preview": "(1) Danıştay Başkanlık Kurulu ile Yargıtay Başkanlar Kurulu, bu Kanunla ihdas edilen üye kadrolarına seçim yapılmasından ve dairelerde çalış…",
-      "kitap": null,
-      "kisim": null,
-      "bolum": "ONUNCU BÖLÜM · Son Hükümler",
-      "ayirim": null,
-      "maddeBaslik": "5 – 9/2/2011 tarihli ve 6110 sayılı Kanunun Geçici Maddesi: [24]",
-      "sectionPath": [
-        "ONUNCU BÖLÜM · Son Hükümler",
-        "5 – 9/2/2011 tarihli ve 6110 sayılı Kanunun Geçici Maddesi: [24]"
-      ]
-    },
-    {
-      "id": "kanun:2797:m:17",
-      "maddeKind": "madde",
-      "maddeNo": "17",
-      "heading": "Madde 17",
-      "text": "Bu Kanuna ekli (1) sayılı listede yer alan kadrolar ihdas edilerek 13/12/1983 tarihli ve 190 sayılı Genel Kadro ve Usulü Hakkında Kanun Hükmünde Kararnamenin eki (I) sayılı cetvelin Danıştay Başkanlığına ait bölümüne, ekli (2) sayılı listede yer alan kadrolar ihdas edilerek 190 sayılı Kanun Hükmünde Kararnamenin eki (I) sayılı cetvelin Yargıtay Başkanlığına ait bölümüne eklenmiştir.",
-      "preview": "Bu Kanuna ekli (1) sayılı listede yer alan kadrolar ihdas edilerek 13/12/1983 tarihli ve 190 sayılı Genel Kadro ve Usulü Hakkında Kanun Hükm…",
-      "kitap": null,
-      "kisim": null,
-      "bolum": "ONUNCU BÖLÜM · Son Hükümler",
-      "ayirim": null,
-      "maddeBaslik": "6- 31/3/2011 tarihli ve 6217 sayılı Kanunun 17 nci maddesi:[25]",
-      "sectionPath": [
-        "ONUNCU BÖLÜM · Son Hükümler",
-        "6- 31/3/2011 tarihli ve 6217 sayılı Kanunun 17 nci maddesi:[25]"
-      ]
-    },
-    {
-      "id": "kanun:2797:m:49",
-      "maddeKind": "madde",
-      "maddeNo": "49",
-      "heading": "Madde 49",
-      "text": "Bu Kanuna ekli (1) sayılı listede yer alan kadrolar ihdas edilerek 13/12/1983 tarihli ve 190 sayılı Genel Kadro ve Usulü Hakkında Kanun Hükmünde Kararnamenin eki (II) sayılı cetvelin Adalet Bakanlığına ait bölümüne; ekli (2) sayılı listede yer alan kadrolar ihdas edilerek 190 sayılı Kanun Hükmünde Kararnamenin eki (I) sayılı cetvelin, (3) sayılı listede yer alan kadrolar ihdas edilerek (II) sayılı cetvelin Yargıtay Başkanlığına ait bölümüne; ekli (4) sayılı listede yer alan kadrolar ihdas edilerek 190 sayılı Kanun Hükmünde Kararnamenin eki (I) sayılı cetvelin, (5) sayılı listede yer alan kadrolar ihdas edilerek (II) sayılı cetvelin Danıştay Başkanlığına ait bölümüne; ekli (6) sayılı listede yer alan kadrolar ihdas edilerek l90 sayılı Kanun Hükmünde Kararnamenin eki (I) sayılı cetvelin Adalet Bakanlığına ait bölümüne eklenmiştir.\n\n 2797 SAYILI KANUNA EK VE DEĞİŞİKLİK GETİREN MEVZUATIN VEYA\n ANAYASA MAHKEMESİ TARAFINDAN VERİLEN İPTAL KARARLARININ\n YÜRÜRLÜĞE GİRİŞ TARİHLERİNİ GÖSTERİR LİSTE\n\n Değiştiren Kanunun/ KHK’nin veya İptal Eden Anayasa Mahkemesi Kararının Numarası\n 2797 Kanunun Değişen veya İptal Edilen Maddeleri\n Yürürlüğe Giriş Tarihi\n\n 2958\n Geçici Madde 10\n 19/11/1983\n\n KHK/243\n 67\n 31/12/1984\n\n 3164\n Ek Madde\n 22/3/1985\n\n 3368\n 5, 14\n 26/5/1987\n\n 3749\n 55\n 5/6/1991\n\n 4053\n 5\n 11/12/1994\n\n 4574\n 55\n 13/6/2000\n\n 4929\n 31\n 22/7/2003\n\n 5218\n 14\n 21/7/2004\n\n 5219\n 28\n 21/7/2004\n\n 5235\n 56\n 1/1/2005\n\n 15\n 1/4/2005\n\n 6110\n 5,14,17, 31,33,40, 53/A ve İşlenemeyen Hüküm\n 14/2/2011\n\n 6217\n İşlenemeyen Hüküm\n 14/4/2011\n\n KHK/650\n 30, Geçici Madde 11,\n Geçici Madde 12\n 26/8/2011\n\n 56\n 1/1/2012\n\n KHK/666\n 55\n 31/12/2011 tarihinden geçerli olmak üzere 2/11/2011\n\n Anayasa Mahkemesi’nin 18/7/2012 tarihli ve\n E.: 2011/113 K.: 2012/108 sayılı Kararı\n 56\n 1/1/2013 tarihinden başlayarak altı ay sonra (1/7/2013)\n\n 6494\n 29, 56\n 7/7/2013\n\n Anayasa Mahkemesi’nin 27/12/2012 tarihli ve\n E.: 2011/139, K.: 2012/205 sayılı Kararı\n 55\n 10/10/2013\n\n 6545\n 5, 10, 14, 23, 30, 30/A, 32, 33,\n Geçici Madde 13\n 28/6/2014\n\n 6572\n 5, 14, 27, 29, 36, 59, Geçici Madde 14, İşlenmeyen hüküm\n 12/12/2014\n\n 6644\n 17, 60\n 11/4/2015\n\n 6723\n 5, 7, 29, 30, 30/A, 55, 60,\n Geçici Madde 15\n 23/7/2016\n\n KHK/680\n 7, 14, 15, 46\n 6/1/2017\n\n KHK/690\n 46\n 29/4/2017\n\n KHK/696\n 15, 29, 64, Ek Madde 2,\n Geçici Madde 15, Geçici Madde 16, Geçici Madde 17\n 24/12/2017\n\n 7072\n 7, 14, 15, 46\n 8/3/2018\n\n 7079\n 15, 29, 64, Ek Madde 2, Geçici Madde 15, Geçici Madde 16, Geçici Madde 17\n 8/3/2018\n\n KHK/703\n 50, 55, Geçici Madde 18\n 24/6/2018 tarihinde birlikte yapılan Türkiye Büyük Millet Meclisi ve Cumhurbaşkanlığı seçimleri sonucunda Cumhurbaşkanının andiçerek göreve başladığı tarihte\n (9/7/2018)\n\n Anayasa Mahkemesi’nin 10/12/2020 tarihli ve E.:2016/144 K.:2020/75 sayılı Kararı ile.\n Geçici Madde 15\n 1/10/2021\n\n 7413\n 10, 33\n 28/6/2022\n\n 7532\n Ek Madde 3, (I) Sayılı Cetvel\n 27/11/2024\n\n [1] 1/7/2016 tarihli ve 6723 sayılı Kanunun 15 inci maddesiyle, bu maddede yer alan “yirmi üç” ibareleri “on iki” şeklinde değiştirilmiştir.\n\n [2] 1/7/2016 tarihli ve 6723 sayılı Kanunun 16 ncı maddesiyle, bu maddenin ikinci fıkrada yer alan “beş” ibaresi “üç”, “beşten” ibaresi “üçten”, “daire sayısının en az iki katı” ibaresi “her daireden en az bir” şeklinde değiştirilmiş ve üçüncü fıkrasında yer alan “ve başkanlarının katıldığı dairelerden bir, katılmadığı dairelerden iki üyenin” ibaresi madde metninden çıkarılmıştır.\n\n [3] 18/6/2014 tarihli ve 6545 sayılı Kanunun 30 uncu maddesiyle, bu fıkrada yer alan yer alan “dördü” ibareleri “altısı”, “sekiz” ibaresi “on iki”, “ikisi” ibareleri “dördü” ve “dört” ibaresi “sekiz” şeklinde değiştirilmiştir.\n\n [4] 23/6/2022 tarihli ve 7413 sayılı Kanunun 17 nci maddesiyle bu maddede yer alan “altısı” ibareleri “dördü” şeklinde, “on iki” ibaresi “sekiz” şeklinde, “dördü” ibareleri “ikisi” şeklinde ve “sekiz” ibaresi “dört” şeklinde değiştirilmiştir.\n\n [5] 2/12/2014 tarihli ve 6572 sayılı Kanunun 22 nci maddesiyle, bu fıkrada yer alan “hukuk veya ceza dairesi olarak belirlenmesi ile” ibaresi madde metninden çıkarılmıştır.\n\n [6] 18/6/2014 tarihli ve 6545 sayılı Kanunun 31 inci maddesiyle, bu fıkrada yer alan “arasındaki” ibaresi “hukuk veya ceza dairesi olarak belirlenmesi ile aralarındaki” şeklinde ve “üçte” ibaresi “onda” şeklinde değiştirilmiş; mevcut birinci fıkrasının üçüncü ve dördüncü cümlelerinde yer alan “işbölümü” ibareleri madde metninden çıkarılmıştır.\n\n [7] 26/9/2004 tarihli ve 5235 sayılı Kanunun 51 inci maddesiyle 1/4/2005 tarihinden geçerli olmak üzere (2) numaralı bende (a) alt bendi eklenmiş ve diğer alt bentler buna göre teselsül ettirilmiştir.\n\n [8] 18/6/2014 tarihli ve 6545 sayılı Kanunun 32 nci maddesiyle, bu fıkrada yer alan “lüzumunda” ibaresinden sonra gelmek üzere “Yargıtayda görev yapan birinci sınıfa ayrılmış” ibaresi eklenmiştir.\n\n [9] 8/8/2011 tarihli ve 650 sayılı KHK’nin 12 nci maddesiyle, bu maddenin birinci fıkrasında yer alan “sekiz yıl” ibaresi “dört yıl”, “altı yıl” ibaresi “üç yıl” şeklinde değiştirilmiş ve metne işlenmiştir.\n\n [10] 1/7/2016 tarihli ve 6723 sayılı Kanunun 18 inci maddesiyle, bu maddede yer alan “on” ibaresi “altı” şeklinde değiştirilmiştir.\n\n [11] 1/7/2016 tarihli ve 6723 sayılı Kanunun 19 uncu maddesiyle, bu fıkrada yer alan “en az beş yıl Yargıtay üyeliği yapmış olanlar” ibaresi “Yargıtay üyeleri” şeklinde değiştirilmiştir.\n\n [12] Bu fıkrada yer alan “en az üçte ikisinin” ibaresi, 9/2/2011 tarihli ve 6110 sayılı Kanunun 14 üncü maddesi ile “salt çoğunluğunun” şeklinde değiştirilmiş ve metne işlenmiştir\n\n [13] 18/6/2014 tarihli ve 6545 sayılı Kanunun 36 ncı maddesiyle, bu fıkrada yer alan “iki” ibareleri “üç”, “bir” ibareleri “iki” şeklinde değiştirilmiştir.\n\n [14] 23/6/2022 tarihli ve 7413 sayılı Kanunun 18 inci maddesiyle bu fıkrada yer alan “üç” ibareleri “iki” şeklinde, “iki” ibareleri “bir” şeklinde değiştirilmiştir.\n\n [15] 2/1/2017 tarihli ve 680 sayılı KHK’nin 5 inci maddesiyle, bu fıkrada yer alan “Yargıtay Ceza Genel Kuruluna” ibaresi “Yargıtay ilgili ceza dairesine” şeklinde değiştirilmiş, daha sonra bu hüküm 1/2/2018 tarihli ve 7072 sayılı Kanunun 4 üncü maddesiyle aynen kabul edilerek kanunlaşmıştır.\n\n [16] 2/7/2018 tarihli ve 703 sayılı Kanun Hükmünde Kararnamenin 186 ncı maddesiyle bu bentte yer alan “, tüzük, yönetmelik” ibaresi madde metninden çıkarılmıştır.\n\n [17] Bu hükmün uygulanmasında ek 1 inci maddeye bakınız.\n\n [18] 11/10/2011 tarihli ve 666 sayılı KHK ile bu maddede yapılan düzenlemeler; 10/10/2013 tarihli ve 28791 sayılı Resmi Gazete’de yayımlanan Anayasa Mahkemesi’nin 27/12/2012 tarihli ve E.: 2011/139, K.: 2012/205 sayılı Kararı ile iptal edilmiştir.\n\n [19] 1/7/2016 tarihli 6723 sayılı Kanunun 20 nci maddesiyle, bu maddenin birinci fıkrasında yer alan “ellimilyar liraya” ibareleri “on milyon Türk lirasına” şeklinde değiştirilmiştir.\n\n [20] 2/7/2018 tarihli ve 703 sayılı Kanun Hükmünde Kararnamenin 186 ncı maddesiyle bu fıkrada yer alan “Maliye Bakanlığının görüşü alınarak Bakanlar Kurulu” ibaresi “Cumhurbaşkanı” şeklinde değiştirilmiştir.\n\n [21] Bu madde başlığı “Hukuk dava dosyalarının Yargıtaya gönderilmesi:” iken, 1/4/2015 tarihli ve 6644 sayılı Kanunun 2 nci maddesiyle metne işlendiği şekilde değiştirilmiştir.\n\n [22] Bu maddede yer alan kadrolar için 24/12/2017 tarihli ve 30280 sayılı Resmi Gazete’ye ve 8/3/2018 tarihli ve 30354 (Mükerrer) sayılı Resmi Gazete’ye bakınız.\n\n [23] 20/11/2017 tarihli ve 696 sayılı KHK’nin 44 üncü maddesiyle, bu fıkrada yer alan “üç” ibaresi “altı” şeklinde değiştirilmiş, daha sonra bu hüküm 1/2/2018 tarihli ve 7079 sayılı Kanunun 39 uncu maddesiyle aynen kabul edilerek kanunlaşmıştır.\n\n [24] Bu maddede yer alan kadrolar için 14/2/2011 tarihli ve 27846 sayılı Resmi Gazete’ye bakınız.\n\n [25] Bu maddede yer alan kadrolarla ilgili olarak 14/4/2011 tarihli ve 27905 sayılı Resmi Gazete’ye bakınız.\n\n [26] Bu maddede yer alan kadrolarla ilgili olarak 12/12/2014 tarihli ve 29203 Mükerrer sayılı Resmi Gazete’ye bakınız.",
-      "preview": "Bu Kanuna ekli (1) sayılı listede yer alan kadrolar ihdas edilerek 13/12/1983 tarihli ve 190 sayılı Genel Kadro ve Usulü Hakkında Kanun Hükm…",
-      "kitap": null,
-      "kisim": null,
-      "bolum": "ONUNCU BÖLÜM · Son Hükümler",
-      "ayirim": null,
-      "maddeBaslik": "7- 2/12/2014 tarihli ve 6572 sayılı Kanunun 49 uncu maddesi:[26]",
-      "sectionPath": [
-        "ONUNCU BÖLÜM · Son Hükümler",
-        "7- 2/12/2014 tarihli ve 6572 sayılı Kanunun 49 uncu maddesi:[26]"
       ]
     }
   ]

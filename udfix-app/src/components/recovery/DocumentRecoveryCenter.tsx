@@ -8,6 +8,7 @@ import { Button } from '../ui/button';
 import { Badge } from '../ui/badge';
 import { cn } from '../../lib/utils';
 import { toast } from '../../lib/glass-utils';
+import { DOCUMENT_RECOVERY_LIST_MAX } from '../../../electron/shared/documentRecoveryLimits';
 
 const dateFormatter = new Intl.DateTimeFormat('tr-TR', {
     day: '2-digit',
@@ -54,7 +55,7 @@ const DocumentRecoveryCenter: React.FC<IDockviewPanelProps> = (props) => {
     const loadItems = React.useCallback(async () => {
         setLoading(true);
         try {
-            const rows = await DataService.listDocumentRecoveryItems(20);
+            const rows = await DataService.listDocumentRecoveryItems(DOCUMENT_RECOVERY_LIST_MAX);
             setItems(rows);
         } catch (error) {
             console.warn('Document recovery list failed', error);
@@ -111,7 +112,9 @@ const DocumentRecoveryCenter: React.FC<IDockviewPanelProps> = (props) => {
                         </div>
                         <div>
                             <h3 className="text-sm font-semibold">Belge Kurtarma Merkezi</h3>
-                            <p className="text-[11px] text-muted-foreground">Son 20 çalışma kopyası, taslak ve yetim versiyon</p>
+                            <p className="text-[11px] text-muted-foreground">
+                                Son {DOCUMENT_RECOVERY_LIST_MAX} kayıt listelenir. Daha eskiler silinmez.
+                            </p>
                         </div>
                     </div>
                 </div>

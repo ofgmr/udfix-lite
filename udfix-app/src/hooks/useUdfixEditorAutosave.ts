@@ -9,6 +9,11 @@ import { getUdfEditorPanelIdFromDocumentId } from '../utils/dockviewNoteTab';
 import { requestUdfSaveAndWait } from '../utils/udfSaveBus';
 import { invalidateUdfSignatureIfPresent } from '../utils/udfSignatureState';
 import {
+    isSignedUdfWriteBlocked,
+    isSignedUdfWriteDeferred,
+    SIGNED_UDF_EDIT_REVERTED_EVENT,
+} from '../utils/signedUdfEditGate';
+import {
     APP_PREFERENCES_CHANGED_EVENT,
     type AppPreferences,
 } from '../preferences/appPreferencesTypes';
@@ -21,7 +26,7 @@ type SaveState = 'saved' | 'saving' | 'unsaved' | 'error';
 export function useUdfixEditorAutosave(
     editor: Editor | null,
     documentId: string,
-    setEditorSaveState: (state: SaveState) => void,
+    setEditorSaveState: (state: SaveState, errorMessage?: string | null) => void,
 ): {
     dirtyRef: MutableRefObject<boolean>;
     performSave: (options?: { manual?: boolean; forceVersion?: boolean }) => Promise<void>;
@@ -50,6 +55,10 @@ export function useUdfixEditorAutosave(
     const performSave = useCallback(
         async (options?: { manual?: boolean; forceVersion?: boolean }) => {
             if (!editor || editor.isDestroyed || !documentId || isSavingRef.current) return;
+            if (documentId.startsWith('udf:') && isSignedUdfWriteBlocked(documentId)) {
+                setEditorSaveState('unsaved');
+                return;
+            }
             isSavingRef.current = true;
             setEditorSaveState('saving');
             try {
@@ -104,6 +113,10 @@ export function useUdfixEditorAutosave(
                 setEditorSaveState('saved');
                 await DataService.clearDocumentDraft(documentId);
             } catch (err: unknown) {
+                if (isSignedUdfWriteDeferred(err)) {
+                    setEditorSaveState('unsaved');
+                    return;
+                }
                 const message = formatSaveErrorMessage(err);
                 console.warn('Save failed', err);
                 setEditorSaveState('error', message);
@@ -119,7 +132,15 @@ export function useUdfixEditorAutosave(
 
     useEffect(() => {
         if (!editor || editor.isDestroyed || !documentId) return;
-        const onUpdate = () => {
+        const onUpdate = ({ transaction }: { transaction?: { docChanged: boolean; getMeta: (key: string) => unknown } }) => {
+            const programmatic = transaction?.getMeta('addToHistory') === false;
+            if (isSignedUdfWriteBlocked(documentId)) {
+                if (saveTimeoutRef.current) clearTimeout(saveTimeoutRef.current);
+                if (programmatic || transaction?.docChanged === false) return;
+                dirtyRef.current = true;
+                setEditorSaveState('unsaved');
+                return;
+            }
             dirtyRef.current = true;
             setEditorSaveState('unsaved');
             if (editor.isFocused) {
@@ -135,6 +156,18 @@ export function useUdfixEditorAutosave(
         };
         editor.on('update', onUpdate);
 
+        const onReverted = (event: Event) => {
+            const detail = (event as CustomEvent<{ documentId?: string }>).detail;
+            if (detail?.documentId !== documentId) return;
+            dirtyRef.current = false;
+            if (saveTimeoutRef.current) {
+                clearTimeout(saveTimeoutRef.current);
+                saveTimeoutRef.current = null;
+            }
+            setEditorSaveState('saved');
+        };
+        window.addEventListener(SIGNED_UDF_EDIT_REVERTED_EVENT, onReverted);
+
         const onBeforeUnload = () => {
             if (saveTimeoutRef.current) clearTimeout(saveTimeoutRef.current);
             void performSave({ forceVersion: true });
@@ -147,6 +180,7 @@ export function useUdfixEditorAutosave(
                 void performSave({ forceVersion: true });
             }
             editor.off('update', onUpdate);
+            window.removeEventListener(SIGNED_UDF_EDIT_REVERTED_EVENT, onReverted);
             window.removeEventListener('beforeunload', onBeforeUnload);
         };
     }, [editor, documentId, performSave, setEditorSaveState]);

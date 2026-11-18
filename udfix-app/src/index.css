@@ -635,7 +635,7 @@
     --glass-panel-bg: #000000;
 }
 
-.theme-contrast :is(.glass, .glass-bg, .glass-frosted, .glass-fluted, .glass-crystal, .glass-panel, .glass-tooltip),
+.theme-contrast :is(.glass, .glass-bg, .glass-frosted, .glass-fluted, .glass-crystal, .glass-panel, .glass-tooltip, .glass-glow),
 .theme-contrast .nomai-command-palette,
 .theme-contrast .nomai-command-palette :where(.glass, .glass-bg, .glass-panel, [cmdk-input-wrapper]) {
     backdrop-filter: none !important;
@@ -753,6 +753,39 @@
 .dark .glass-panel,
 [class*="theme-"].dark .glass-panel {
     box-shadow: 0 12px 48px rgba(0, 0, 0, 0.45);
+}
+
+/** Thin glass with a soft theme glow. Menus and row-edge controls. */
+.glass-glow {
+    background: var(--glass-bg);
+    backdrop-filter: blur(16px) saturate(160%);
+    -webkit-backdrop-filter: blur(16px) saturate(160%);
+    border: 1px solid var(--glass-border);
+    box-shadow:
+        inset 0 1px 0 color-mix(in srgb, var(--foreground) 8%, transparent),
+        0 0 12px color-mix(in srgb, var(--primary) 28%, transparent);
+}
+
+.dark .glass-glow,
+[class*="theme-"].dark .glass-glow {
+    box-shadow:
+        inset 0 1px 0 color-mix(in srgb, var(--foreground) 12%, transparent),
+        0 0 14px color-mix(in srgb, var(--primary) 36%, transparent);
+}
+
+button.glass-glow:hover,
+[role="checkbox"].glass-glow:hover {
+    background: color-mix(in srgb, var(--primary) 10%, var(--glass-bg));
+}
+
+.glass-glow[data-state="checked"] {
+    background: color-mix(in srgb, var(--primary) 16%, var(--glass-bg));
+    box-shadow: inset 0 0 0 1px color-mix(in srgb, var(--primary) 35%, transparent);
+}
+
+.dark .glass-glow[data-state="checked"],
+[class*="theme-"].dark .glass-glow[data-state="checked"] {
+    box-shadow: inset 0 0 0 1px color-mix(in srgb, var(--primary) 45%, transparent);
 }
 
 /*
@@ -1752,16 +1785,22 @@ sup.footnote-ref.ProseMirror-selectednode {
     cursor: text;
 }
 
-/* PDF.js renders spans with position:absolute — make sure they are selectable */
+/* PDF.js renders spans with position:absolute — make sure they are selectable.
+   Do not override font-family here: pdf.js sets --scale-x from the inline family,
+   and a different family makes the hit box miss the painted glyphs. Turkish
+   fallbacks are appended in pdfTextSelection after that scale is corrected.
+   OCR words are positioned by their own box, so they keep a system stack. */
 .textLayer span,
 .textLayer br {
     color: transparent !important;
-    /* PDF font names often lack Turkish glyphs; system stack keeps selection metrics stable */
-    font-family: system-ui, -apple-system, "Segoe UI", Roboto, "Noto Sans", sans-serif !important;
     user-select: text !important;
     -webkit-user-select: text !important;
     pointer-events: auto !important;
     cursor: text;
+}
+
+.textLayer span.ocr-word {
+    font-family: system-ui, -apple-system, "Segoe UI", Roboto, "Noto Sans", sans-serif !important;
 }
 
 /* ============================================================
@@ -1806,9 +1845,44 @@ sup.footnote-ref.ProseMirror-selectednode {
 .ocr-word::selection,
 .textLayer span::selection {
     background: Highlight !important;
-    background: rgba(0, 120, 215, 0.4) !important;
-    /* Standart seçim mavisi */
+    background: color-mix(in srgb, AccentColor, transparent 42%) !important;
     color: transparent !important;
+}
+
+/* Geometric line boxes replace ::selection once they exist. Native selection
+   stays available for rotated runs, where the line boxes are not used. */
+.textLayer.pdf-geom-select:has(.pdf-line-selection, .pdf-line-caret) ::selection {
+    background: transparent !important;
+    color: transparent !important;
+}
+
+.pdf-line-selection-root {
+    position: absolute;
+    inset: 0;
+    z-index: 3;
+    pointer-events: none;
+    user-select: none;
+    -webkit-user-select: none;
+}
+
+.pdf-line-selection,
+.pdf-line-caret {
+    position: absolute;
+    pointer-events: none;
+    background: Highlight;
+    background: color-mix(in srgb, AccentColor, transparent 38%);
+    border-radius: 3px;
+}
+
+.pdf-line-caret {
+    border-radius: 1px;
+    background: AccentColor;
+}
+
+/* The viewer inverts the page for dark mode. Invert the overlay again so the
+   selection stays the system accent instead of turning orange. */
+.dark-mode-pdf-canvas .pdf-line-selection-root {
+    filter: invert(1) hue-rotate(180deg);
 }
 
 /* ============================================================

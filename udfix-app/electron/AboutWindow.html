@@ -44,8 +44,15 @@
       font-size: 12px;
       color: #5a6b6b;
     }
+    .grant {
+      margin: 14px 0 0;
+      max-width: 280px;
+      font-size: 11px;
+      line-height: 1.45;
+      color: #3d5c5c;
+    }
     .developer {
-      margin-top: 14px;
+      margin-top: 12px;
       font-size: 12px;
       color: #444;
     }
@@ -55,7 +62,11 @@
   <img id="logo" src="branding/10-l_logo.svg" width="128" height="128" alt="UDFIX Logo" />
   <p class="tagline">Tek ekran, akıllı editör, güçlü arşiv.</p>
   <p class="version" id="version"></p>
-  <p class="developer">©2025-2026 OFG</p>
+  <p class="grant">
+    UDFix, bireysel kullanımlar için süresiz, ücretsiz lisanslanmıştır.
+    Yazılım satılamaz. Katır köprüsü ayrı ve ücretlidir.
+  </p>
+  <p class="developer">© 2026 OFG</p>
   <script>
     const params = new URLSearchParams(location.search);
     const v = params.get('v');

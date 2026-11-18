@@ -21,7 +21,9 @@ import {
 import { isPartyAddressTagKey, getPartyAddressTagLabel } from '../../data/uyap/partyAddressTagCatalog';
 import { useLayoutStore } from '../../stores/useLayoutStore';
 import { cn } from '../../lib/utils';
+import { MatterLedgerAccount } from '../matters/MatterLedgerAccount';
 import { EntityFormPopoutButton } from '../layout/EntityFormPopoutButton';
+import { saveClientLedgerCsv } from '../../lib/saveClientLedgerCsv';
 import { useClientReportUiStore } from '../../stores/useClientReportUiStore';
 
 export interface PartyFormContentProps {
@@ -72,6 +74,7 @@ export const PartyFormContent: React.FC<PartyFormContentProps> = ({
     const [mattersOpen, setMattersOpen] = useState(false);
     const [notesOpen, setNotesOpen] = useState(false);
     const openClientReport = useClientReportUiStore((s) => s.openReport);
+    const [ledgerExporting, setLedgerExporting] = useState(false);
 
     // Core fields
     const [fullName, setFullName] = useState('');
@@ -259,6 +262,12 @@ export const PartyFormContent: React.FC<PartyFormContentProps> = ({
     const nameFieldLabel = isPersonKind ? 'Ad Soyad' : 'Kurum Ünvanı';
     const namePlaceholder = isPersonKind ? 'Tam ad' : 'Ticari ünvan';
     const headerName = fullName.trim() || nameFieldLabel;
+    const ledgerAccount = party?.id && isClient ? (
+        <>
+            <Separator className="my-1 border-white/5" />
+            <MatterLedgerAccount mode="party" partyId={party.id} partyName={fullName || party.full_name} />
+        </>
+    ) : null;
     const handleDelete = useCallback(() => {
         if (!party?.id) return;
         const partyId = party.id;
@@ -412,6 +421,8 @@ export const PartyFormContent: React.FC<PartyFormContentProps> = ({
                             </div>
                         )}
 
+                        {ledgerAccount}
+
                         {(relatedLoading || relatedMatters.length > 0 || relatedNotes.length > 0) && (
                             <Separator className="my-1 border-white/5" />
                         )}
@@ -455,6 +466,26 @@ export const PartyFormContent: React.FC<PartyFormContentProps> = ({
                                         >
                                             <MaterialIcon icon="download" size={12} className="mr-1" />
                                             Rapor (CSV)
+                                        </Button>
+                                        <Button
+                                            type="button"
+                                            variant="ghost"
+                                            size="sm"
+                                            className="h-7 shrink-0 px-2 text-[10px]"
+                                            disabled={ledgerExporting}
+                                            onClick={() => {
+                                                if (!party?.id) return;
+                                                setLedgerExporting(true);
+                                                void saveClientLedgerCsv(party.id, fullName || party.full_name)
+                                                    .then((result) => {
+                                                        if (result === 'saved') toast.success('Hesap CSV kaydedildi');
+                                                    })
+                                                    .catch(() => toast.error('Hesap CSV kaydedilemedi'))
+                                                    .finally(() => setLedgerExporting(false));
+                                            }}
+                                        >
+                                            <MaterialIcon icon="account_balance_wallet" size={12} className="mr-1" />
+                                            Hesap (CSV)
                                         </Button>
                                         </div>
                                         {mattersOpen && (
@@ -527,6 +558,7 @@ export const PartyFormContent: React.FC<PartyFormContentProps> = ({
                     </div>
                 ) : (
                 <div className="p-3 space-y-4">
+                    {ledgerAccount}
                     {/* Party Kind */}
                     <div className="space-y-1">
                         <Label className="text-[9px] text-muted-foreground uppercase tracking-widest opacity-80">Taraf Tipi</Label>

@@ -27,6 +27,7 @@ import { toast, toastUdfExportError } from '../../lib/glass-utils';
 import { formatSaveErrorMessage } from '../../utils/saveErrorMessage';
 import { mapUyapSigningErrorMessage } from '../../utils/udfSignatureState';
 import { requestUdfSaveAndWait, requestUdfSaveAsAndWait } from '../../utils/udfSaveBus';
+import { isSignedUdfWriteDeferred } from '../../utils/signedUdfEditGate';
 import { FileSystemService } from '../../services/fileSystemService';
 import { isProbablyLocalPath, toSystemPath } from '../../utils/localResource';
 import {
@@ -88,7 +89,7 @@ export const DockviewTab = (props: DockviewTabProps) => {
         ...rest
     } = props;
     const rootRef = React.useRef<HTMLDivElement | null>(null);
-    const [contextMenuOpen, setContextMenuOpen] = React.useState(false);
+    const contextMenuTriggerRef = React.useRef<HTMLSpanElement | null>(null);
     const [contextMenuPoint, setContextMenuPoint] = React.useState<{ x: number; y: number } | null>(null);
 
     const [isEditing, setIsEditing] = useState(false);
@@ -483,8 +484,20 @@ export const DockviewTab = (props: DockviewTabProps) => {
         if (!(revealPath || (canPopoutViewer && !isViewerInPopout))) return;
         e.preventDefault();
         setContextMenuPoint({ x: e.clientX, y: e.clientY });
-        setContextMenuOpen(true);
     };
+    React.useEffect(() => {
+        const trigger = contextMenuTriggerRef.current;
+        if (!contextMenuPoint || !trigger) return;
+        // Radix ContextMenu.Root ignores `open`. A contextmenu event on the trigger is what opens it.
+        trigger.dispatchEvent(
+            new MouseEvent('contextmenu', {
+                bubbles: true,
+                cancelable: true,
+                clientX: contextMenuPoint.x,
+                clientY: contextMenuPoint.y,
+            }),
+        );
+    }, [contextMenuPoint]);
 
     return (
         <TooltipProvider delayDuration={0}>
@@ -657,7 +670,13 @@ export const DockviewTab = (props: DockviewTabProps) => {
                                         className="cursor-pointer transition-colors text-muted-foreground hover:text-primary hover:opacity-100 flex"
                                         onClick={async (e) => {
                                             e.stopPropagation();
-                                            await handleUdfixSave('dockview-save-icon');
+                                            try {
+                                                await handleUdfixSave('dockview-save-icon');
+                                            } catch (error) {
+                                                if (!isSignedUdfWriteDeferred(error)) {
+                                                    console.warn('UDF save failed', error);
+                                                }
+                                            }
                                         }}
                                     />
                                 </div>
@@ -956,14 +975,13 @@ export const DockviewTab = (props: DockviewTabProps) => {
                     </div>
             {(revealPath || (canPopoutViewer && !isViewerInPopout)) && (
                 <ContextMenu
-                    open={contextMenuOpen}
                     onOpenChange={(open) => {
-                        setContextMenuOpen(open);
                         if (!open) setContextMenuPoint(null);
                     }}
                 >
                     <ContextMenuTrigger asChild>
                         <span
+                            ref={contextMenuTriggerRef}
                             aria-hidden
                             style={{
                                 position: 'fixed',

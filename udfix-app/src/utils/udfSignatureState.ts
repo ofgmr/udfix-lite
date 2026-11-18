@@ -491,7 +491,7 @@ function extractSigningApiDetail(raw: string, stripped: string): string | null {
     return null;
 }
 
-function resolveSigningSummary(error: unknown, raw: string, stripped: string): string | null {
+function resolveSigningSummary(error: unknown, _raw: string, stripped: string): string | null {
     const code = parseUyapSigningErrorCode(error);
     if (code) {
         return UYAP_SIGN_CODE_MESSAGES[code];

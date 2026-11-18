@@ -13,6 +13,7 @@ import {
 import { Label } from '../../components/ui/label';
 import { Separator } from '../../components/ui/separator';
 import { Button } from '../../components/ui/button';
+import { applyParagraphStyleSelectValue } from '../../utils/blockStyleApply';
 
 interface ParagraphPanelProps {
     editor: Editor | null;
@@ -208,12 +209,8 @@ const ParagraphPanel: React.FC<ParagraphPanelProps> = ({ editor }) => {
                                             editor.isActive('heading', { level: 6 }) ? '6' : '0'
                     }
                     onValueChange={(value) => {
-                        const level = parseInt(value);
-                        if (level === 0) {
-                            editor.chain().focus().setParagraph().run();
-                        } else {
-                            editor.chain().focus().setHeading({ level: level as 1 | 2 | 3 | 4 | 5 | 6 }).run();
-                        }
+                        const level = parseInt(value, 10);
+                        applyParagraphStyleSelectValue(editor, level === 0 ? 'p' : `h${level}`);
                     }}
                 >
                     <SelectTrigger className="w-full">

@@ -14,7 +14,7 @@
   "tertip": 5,
   "sourceUrl": "https://www.mevzuat.gov.tr/mevzuat?MevzuatNo=5780&MevzuatTur=7&MevzuatTertip=5",
   "kabulTarihi": null,
-  "maddeCount": 80,
+  "maddeCount": 85,
   "maddeler": [
     {
       "id": "yonetmelik:5780:m:1",
@@ -764,7 +764,7 @@
       "maddeKind": "madde",
       "maddeNo": "45",
       "heading": "Madde 45",
-      "text": "Baro idari işlemleri, baro başkanı, başkanlık divanı ve görevli personel tarafından yürütülür.\n Baro başkanı, aynı zamanda baro idari teşkilatının da başıdır.\n Avukatların ve diğer kişilerin başvuru yeri baro başkanlığıdır.\n Sayman; para alma ve verme işlemlerinde düzenlenen kağıtları; başkan ile birlikte, başkanın yokluğunda da başkan yardımcısı veya genel sekreter ile birlikte imzalar.\n Baro başkanı veya yönetim kurulu, levhada yazılı avukatlara veya avukat stajyerlerine, geçici olmak kaydıyla idari işlerin yürütülmesinde görev verebilir.\n Hizmetler ücretsizdir.\n Komisyon, Kurul ve Heyet Görevlendirilmeleri\n Madde 45/A- (Ek:RG-7/7/2022-31889)\n Birden fazla baro kurulan illerde, özel kanununa göre baro tüzel kişiliği dışında kurulmuş komisyon, kurul ve heyetlere mevzuat gereği üye veya temsilci görevlendirmeleri, eşit ve dönüşümlü temsil esası uyarınca her bir görev süresi için bir nolu barodan başlamak üzere sıra ile yapılır. Görevlendirme yapılacak komisyon, kurul veya heyet, mevcut üyenin görev süresi tamamlanmadan önce, sıradaki baroya görevlendirme için başvurur.",
+      "text": "Baro idari işlemleri, baro başkanı, başkanlık divanı ve görevli personel tarafından yürütülür.\n Baro başkanı, aynı zamanda baro idari teşkilatının da başıdır.\n Avukatların ve diğer kişilerin başvuru yeri baro başkanlığıdır.\n Sayman; para alma ve verme işlemlerinde düzenlenen kağıtları; başkan ile birlikte, başkanın yokluğunda da başkan yardımcısı veya genel sekreter ile birlikte imzalar.\n Baro başkanı veya yönetim kurulu, levhada yazılı avukatlara veya avukat stajyerlerine, geçici olmak kaydıyla idari işlerin yürütülmesinde görev verebilir.\n Hizmetler ücretsizdir.",
       "preview": "Baro idari işlemleri, baro başkanı, başkanlık divanı ve görevli personel tarafından yürütülür. Baro başkanı, aynı zamanda baro idari teşkila…",
       "kitap": null,
       "kisim": null,
@@ -774,6 +774,23 @@
       "sectionPath": [
         "YEDİNCİ BÖLÜM · Baro Yönetim Kurulları ve Baroların Çalışmaları",
         "İdari İşlemlerin Yürütülmesi"
+      ]
+    },
+    {
+      "id": "yonetmelik:5780:m:45/A",
+      "maddeKind": "madde",
+      "maddeNo": "45/A",
+      "heading": "Madde 45/A",
+      "text": "(Ek:RG-7/7/2022-31889)\n Birden fazla baro kurulan illerde, özel kanununa göre baro tüzel kişiliği dışında kurulmuş komisyon, kurul ve heyetlere mevzuat gereği üye veya temsilci görevlendirmeleri, eşit ve dönüşümlü temsil esası uyarınca her bir görev süresi için bir nolu barodan başlamak üzere sıra ile yapılır. Görevlendirme yapılacak komisyon, kurul veya heyet, mevcut üyenin görev süresi tamamlanmadan önce, sıradaki baroya görevlendirme için başvurur.",
+      "preview": "(Ek:RG-7/7/2022-31889) Birden fazla baro kurulan illerde, özel kanununa göre baro tüzel kişiliği dışında kurulmuş komisyon, kurul ve heyetle…",
+      "kitap": null,
+      "kisim": null,
+      "bolum": "YEDİNCİ BÖLÜM · Baro Yönetim Kurulları ve Baroların Çalışmaları",
+      "ayirim": null,
+      "maddeBaslik": "Komisyon, Kurul ve Heyet Görevlendirilmeleri",
+      "sectionPath": [
+        "YEDİNCİ BÖLÜM · Baro Yönetim Kurulları ve Baroların Çalışmaları",
+        "Komisyon, Kurul ve Heyet Görevlendirilmeleri"
       ]
     },
     {
@@ -1240,7 +1257,7 @@
       "maddeKind": "madde",
       "maddeNo": "73",
       "heading": "Madde 73",
-      "text": "Barolar ve Türkiye Barolar Birliğinin idari ve mali denetimi, hazırlanacak program dahilinde adalet müfettişlerince yapılır.\n İdari denetim; barolar ve Türkiye Barolar Birliği organlarının görevlerini kanun hükümlerine uygun olarak yapıp yapmadıklarını tespite yönelik olup, bu sebeple tüm kayıt, işlem, defter, her türlü evrak ve belgelerin (Ek ibare:RG-26/1/2024-32441) fiziksel veya elektronik ortamda incelenmesi suretiyle yapılır.\n Mali denetim;\n a) Barolar ve Türkiye Barolar Birliğinin gelir ve giderlerin incelenmesi,\n b) Giderlerin amacına ve usulüne uygun olup olmadığı,\n c) Gelirlerin yasal kaynaklara dayalı ve zamanında eksiksiz olarak kayıtlara intikal ettirilip ettirilmediği,\n d) Üye keseneklerinin tahsil edilip edilmediği,\n e) Türkiye Barolar Birliği keseneklerinin vaktinde ödenip ödenmediği,\n f) Ölüm yardımı keseneklerinin hak sahiplerine ödenmek üzere Türkiye Barolar Birliğine vaktinde gönderilip gönderilmediği,\n g) Barolar ve Türkiye Barolar Birliğinin, memur ve hizmetlilerin prim ve stopaj vergileri ile ücretlerini, baroların avukatlara ait Sosyal Sigortalar Kurumu prim borçlarını zamanında ödeyip ödemedikleri,\n h) Baro hesaplarında herhangi bir suiistimal bulunup bulunmadığı,\n ı) (Değişik ibare:RG-26/1/2024-32441) CMK hesaplarının denetimi,\n hususlarını kapsar.\n Denetimin amacına uygun ve sağlıklı yürütülebilmesi için, denetim süresince yetkililer müfettişlere yardımcı olur. İstenilen bilgi ve belgeler geciktirilmeden temin edilir.\n Yapılan denetimde, mahallinde giderilmesi mümkün aksaklıklar dışında öneriye değer hususlar ilgili baroya ve Türkiye Barolar Birliğine bildirilir. Müteakip denetimde bu hususlara uyulup uyulmadığı üzerinde durulur.\n Denetim sırasında idari ve mali konularda tespit edilecek organların usulsüzlük ve yolsuzluklarından dolayı yapılan soruşturma sonunda düzenlenecek fezlekeli evrak Adalet Bakanlığı Teftiş Kurulu Başkanlığına tevdi edilir.\n\n (Ek bölüm:RG-6/9/2008-26989)\n ONÜÇÜNCÜ BÖLÜM\n Sürekli Avukatlık Hizmetlerinde Uygulanacak Esaslar\n\n Sözleşme yapılması ve sözleşmede bulunması gereken hükümler\n MADDE 73/A – Sürekli avukatlık hizmeti içeren çalışma şekillerinde, 1136 sayılı Avukatlık Kanununa ve Avukatlık Asgari Ücret Tarifesine uygun, yazılı sürekli avukatlık hizmetleri sözleşmesi düzenlenmesi zorunludur. Bu sözleşme taraf sayısından bir fazla nüsha olarak hazırlanır. Birer nüshası taraflara, bir nüshası da sözleşmenin tarafı olan avukat tarafından kayıtlı olduğu baroya verilir. Sözleşme metninde uyuşmazlık çıkması halinde Baroda saklanan nüshaya itibar edilir.\n Her baro sözleşmeler için ayrıca bir kayıt defteri tutar ve bu deftere yıl bağlantılı sıra numarasına göre sözleşmeler kayıt edilir. Kaydı yapılan sözleşme kayıt sıra numarasına göre sözleşmeler klasöründe, bir fotokopisi de avukatın sicil dosyasında saklanır.\n Sözleşmede;\n a) İş sahibinin adı, soyadı, mesleki ya da ticari unvanı, adresi, vergi/T.C. kimlik numarası,\n b) Avukatın/avukatlık bürosunun/avukatlık ortaklığının adı, soyadı, unvanı, vergi/T.C. kimlik numarası,\n c) İşin tanımı,\n ç) Avukatlık ücreti ve bu ücretin ödenme şekli,\n d) Sözleşme hükümlerinin Avukatlık Asgari Ücret Tarifesi değişikliklerine uyarlanacağı,\n e) Süresi,\n g) Sona erme koşulları,\n ğ) İşin harç ve giderlerinin iş sahibine ait olduğu, bunların peşin olarak ya da avukatın ilk talebinde derhal ödenmesi gerektiği, sözleşmede yazılı adresin avukatın bu konudaki taleplerini ileteceği adres olduğu, bu adrese yapılan tebligatların iş sahibine yapılmış sayılacağı,\n h) (Mülga:RG-7/9/2010-27695)\n yer alır.\n Serbest meslek makbuzu veya bordro düzenlenmesi ve baroya ibraz\n MADDE 73/B – 1136 sayılı Avukatlık Kanunu kapsamındaki sürekli avukatlık hizmeti içeren çalışma şekillerinde sözleşmelere göre tahsil edilen avukatlık ücretine ilişkin serbest meslek makbuz veya bordro örnekleri, her yıl sonunda avukat tarafından bir liste ekinde kayıtlı olduğu baro başkanlığına sunulur. Bu belgeler avukatın sicil dosyasında saklanır.\n Kanuna uygun davranmayan tüzel kişiler ve yıllık rapor\n MADDE 73/C – 1136 sayılı Avukatlık Kanununun 35 inci maddesinin üçüncü fıkrasına aykırı davranan tüzel kişiler, merkezlerinin bulunduğu yer barosu tarafından takip edilerek haklarında suç duyurusunda bulunulur. Baro başkanlığı bu konudaki çalışmaların sonuçlarını sözleşmeye taraf olan avukatları da içeren bir rapor ile her yıl sonunda Türkiye Barolar Birliğine bildirir.\n Disiplin sorumluluğu\n MADDE 73/D – 73/A ve 73/B maddelerine aykırı davranışlar ile Avukatlık Asgari Ücret Tarifesi altında vekalet ücreti kararlaştırılması Meslek Kurallarına aykırılık oluşturur.",
+      "text": "Barolar ve Türkiye Barolar Birliğinin idari ve mali denetimi, hazırlanacak program dahilinde adalet müfettişlerince yapılır.\n İdari denetim; barolar ve Türkiye Barolar Birliği organlarının görevlerini kanun hükümlerine uygun olarak yapıp yapmadıklarını tespite yönelik olup, bu sebeple tüm kayıt, işlem, defter, her türlü evrak ve belgelerin (Ek ibare:RG-26/1/2024-32441) fiziksel veya elektronik ortamda incelenmesi suretiyle yapılır.\n Mali denetim;\n a) Barolar ve Türkiye Barolar Birliğinin gelir ve giderlerin incelenmesi,\n b) Giderlerin amacına ve usulüne uygun olup olmadığı,\n c) Gelirlerin yasal kaynaklara dayalı ve zamanında eksiksiz olarak kayıtlara intikal ettirilip ettirilmediği,\n d) Üye keseneklerinin tahsil edilip edilmediği,\n e) Türkiye Barolar Birliği keseneklerinin vaktinde ödenip ödenmediği,\n f) Ölüm yardımı keseneklerinin hak sahiplerine ödenmek üzere Türkiye Barolar Birliğine vaktinde gönderilip gönderilmediği,\n g) Barolar ve Türkiye Barolar Birliğinin, memur ve hizmetlilerin prim ve stopaj vergileri ile ücretlerini, baroların avukatlara ait Sosyal Sigortalar Kurumu prim borçlarını zamanında ödeyip ödemedikleri,\n h) Baro hesaplarında herhangi bir suiistimal bulunup bulunmadığı,\n ı) (Değişik ibare:RG-26/1/2024-32441) CMK hesaplarının denetimi,\n hususlarını kapsar.\n Denetimin amacına uygun ve sağlıklı yürütülebilmesi için, denetim süresince yetkililer müfettişlere yardımcı olur. İstenilen bilgi ve belgeler geciktirilmeden temin edilir.\n Yapılan denetimde, mahallinde giderilmesi mümkün aksaklıklar dışında öneriye değer hususlar ilgili baroya ve Türkiye Barolar Birliğine bildirilir. Müteakip denetimde bu hususlara uyulup uyulmadığı üzerinde durulur.\n Denetim sırasında idari ve mali konularda tespit edilecek organların usulsüzlük ve yolsuzluklarından dolayı yapılan soruşturma sonunda düzenlenecek fezlekeli evrak Adalet Bakanlığı Teftiş Kurulu Başkanlığına tevdi edilir.\n\n (Ek bölüm:RG-6/9/2008-26989)",
       "preview": "Barolar ve Türkiye Barolar Birliğinin idari ve mali denetimi, hazırlanacak program dahilinde adalet müfettişlerince yapılır. İdari denetim;…",
       "kitap": null,
       "kisim": null,
@@ -1253,6 +1270,74 @@
       ]
     },
     {
+      "id": "yonetmelik:5780:m:73/A",
+      "maddeKind": "madde",
+      "maddeNo": "73/A",
+      "heading": "Madde 73/A",
+      "text": "Sürekli avukatlık hizmeti içeren çalışma şekillerinde, 1136 sayılı Avukatlık Kanununa ve Avukatlık Asgari Ücret Tarifesine uygun, yazılı sürekli avukatlık hizmetleri sözleşmesi düzenlenmesi zorunludur. Bu sözleşme taraf sayısından bir fazla nüsha olarak hazırlanır. Birer nüshası taraflara, bir nüshası da sözleşmenin tarafı olan avukat tarafından kayıtlı olduğu baroya verilir. Sözleşme metninde uyuşmazlık çıkması halinde Baroda saklanan nüshaya itibar edilir.\n Her baro sözleşmeler için ayrıca bir kayıt defteri tutar ve bu deftere yıl bağlantılı sıra numarasına göre sözleşmeler kayıt edilir. Kaydı yapılan sözleşme kayıt sıra numarasına göre sözleşmeler klasöründe, bir fotokopisi de avukatın sicil dosyasında saklanır.\n Sözleşmede;\n a) İş sahibinin adı, soyadı, mesleki ya da ticari unvanı, adresi, vergi/T.C. kimlik numarası,\n b) Avukatın/avukatlık bürosunun/avukatlık ortaklığının adı, soyadı, unvanı, vergi/T.C. kimlik numarası,\n c) İşin tanımı,\n ç) Avukatlık ücreti ve bu ücretin ödenme şekli,\n d) Sözleşme hükümlerinin Avukatlık Asgari Ücret Tarifesi değişikliklerine uyarlanacağı,\n e) Süresi,\n g) Sona erme koşulları,\n ğ) İşin harç ve giderlerinin iş sahibine ait olduğu, bunların peşin olarak ya da avukatın ilk talebinde derhal ödenmesi gerektiği, sözleşmede yazılı adresin avukatın bu konudaki taleplerini ileteceği adres olduğu, bu adrese yapılan tebligatların iş sahibine yapılmış sayılacağı,\n h) (Mülga:RG-7/9/2010-27695)\n yer alır.",
+      "preview": "Sürekli avukatlık hizmeti içeren çalışma şekillerinde, 1136 sayılı Avukatlık Kanununa ve Avukatlık Asgari Ücret Tarifesine uygun, yazılı sür…",
+      "kitap": null,
+      "kisim": null,
+      "bolum": "ONÜÇÜNCÜ BÖLÜM · Sürekli Avukatlık Hizmetlerinde Uygulanacak Esaslar",
+      "ayirim": null,
+      "maddeBaslik": "Sözleşme yapılması ve sözleşmede bulunması gereken hükümler",
+      "sectionPath": [
+        "ONÜÇÜNCÜ BÖLÜM · Sürekli Avukatlık Hizmetlerinde Uygulanacak Esaslar",
+        "Sözleşme yapılması ve sözleşmede bulunması gereken hükümler"
+      ]
+    },
+    {
+      "id": "yonetmelik:5780:m:73/B",
+      "maddeKind": "madde",
+      "maddeNo": "73/B",
+      "heading": "Madde 73/B",
+      "text": "1136 sayılı Avukatlık Kanunu kapsamındaki sürekli avukatlık hizmeti içeren çalışma şekillerinde sözleşmelere göre tahsil edilen avukatlık ücretine ilişkin serbest meslek makbuz veya bordro örnekleri, her yıl sonunda avukat tarafından bir liste ekinde kayıtlı olduğu baro başkanlığına sunulur. Bu belgeler avukatın sicil dosyasında saklanır.",
+      "preview": "1136 sayılı Avukatlık Kanunu kapsamındaki sürekli avukatlık hizmeti içeren çalışma şekillerinde sözleşmelere göre tahsil edilen avukatlık üc…",
+      "kitap": null,
+      "kisim": null,
+      "bolum": "ONÜÇÜNCÜ BÖLÜM · Sürekli Avukatlık Hizmetlerinde Uygulanacak Esaslar",
+      "ayirim": null,
+      "maddeBaslik": "Serbest meslek makbuzu veya bordro düzenlenmesi ve baroya ibraz",
+      "sectionPath": [
+        "ONÜÇÜNCÜ BÖLÜM · Sürekli Avukatlık Hizmetlerinde Uygulanacak Esaslar",
+        "Serbest meslek makbuzu veya bordro düzenlenmesi ve baroya ibraz"
+      ]
+    },
+    {
+      "id": "yonetmelik:5780:m:73/C",
+      "maddeKind": "madde",
+      "maddeNo": "73/C",
+      "heading": "Madde 73/C",
+      "text": "1136 sayılı Avukatlık Kanununun 35 inci maddesinin üçüncü fıkrasına aykırı davranan tüzel kişiler, merkezlerinin bulunduğu yer barosu tarafından takip edilerek haklarında suç duyurusunda bulunulur. Baro başkanlığı bu konudaki çalışmaların sonuçlarını sözleşmeye taraf olan avukatları da içeren bir rapor ile her yıl sonunda Türkiye Barolar Birliğine bildirir.",
+      "preview": "1136 sayılı Avukatlık Kanununun 35 inci maddesinin üçüncü fıkrasına aykırı davranan tüzel kişiler, merkezlerinin bulunduğu yer barosu tarafı…",
+      "kitap": null,
+      "kisim": null,
+      "bolum": "ONÜÇÜNCÜ BÖLÜM · Sürekli Avukatlık Hizmetlerinde Uygulanacak Esaslar",
+      "ayirim": null,
+      "maddeBaslik": "Kanuna uygun davranmayan tüzel kişiler ve yıllık rapor",
+      "sectionPath": [
+        "ONÜÇÜNCÜ BÖLÜM · Sürekli Avukatlık Hizmetlerinde Uygulanacak Esaslar",
+        "Kanuna uygun davranmayan tüzel kişiler ve yıllık rapor"
+      ]
+    },
+    {
+      "id": "yonetmelik:5780:m:73/D",
+      "maddeKind": "madde",
+      "maddeNo": "73/D",
+      "heading": "Madde 73/D",
+      "text": "73/A ve 73/B maddelerine aykırı davranışlar ile Avukatlık Asgari Ücret Tarifesi altında vekalet ücreti kararlaştırılması Meslek Kurallarına aykırılık oluşturur.",
+      "preview": "73/A ve 73/B maddelerine aykırı davranışlar ile Avukatlık Asgari Ücret Tarifesi altında vekalet ücreti kararlaştırılması Meslek Kurallarına…",
+      "kitap": null,
+      "kisim": null,
+      "bolum": "ONÜÇÜNCÜ BÖLÜM · Sürekli Avukatlık Hizmetlerinde Uygulanacak Esaslar",
+      "ayirim": null,
+      "maddeBaslik": "Disiplin sorumluluğu",
+      "sectionPath": [
+        "ONÜÇÜNCÜ BÖLÜM · Sürekli Avukatlık Hizmetlerinde Uygulanacak Esaslar",
+        "Disiplin sorumluluğu"
+      ]
+    },
+    {
       "id": "yonetmelik:5780:m:74",
       "maddeKind": "madde",
       "maddeNo": "74",
@@ -1261,11 +1346,11 @@
       "preview": "Avukatlık Kanununun Geçici 13 üncü maddesinin birinci fıkrası uyarınca dava vekilliği yapmaları kabul edilenler, barolarca düzenlenen listey…",
       "kitap": null,
       "kisim": null,
-      "bolum": "ONİKİNCİ BÖLÜM · Denetim",
+      "bolum": "ONÜÇÜNCÜ BÖLÜM · Sürekli Avukatlık Hizmetlerinde Uygulanacak Esaslar",
       "ayirim": null,
       "maddeBaslik": "Dava Vekilleri",
       "sectionPath": [
-        "ONİKİNCİ BÖLÜM · Denetim",
+        "ONÜÇÜNCÜ BÖLÜM · Sürekli Avukatlık Hizmetlerinde Uygulanacak Esaslar",
         "Dava Vekilleri"
       ]
     },
@@ -1278,11 +1363,11 @@
       "preview": "Avukatlık Kanununun Geçici 17 nci maddesi hükümleri saklı kalmak üzere bu Yönetmeliğin 74 üncü maddesi ile avukatlık mesleğine kabul, yalnız…",
       "kitap": null,
       "kisim": null,
-      "bolum": "ONİKİNCİ BÖLÜM · Denetim",
+      "bolum": "ONÜÇÜNCÜ BÖLÜM · Sürekli Avukatlık Hizmetlerinde Uygulanacak Esaslar",
       "ayirim": null,
       "maddeBaslik": "Dava ve İş Takipçileri",
       "sectionPath": [
-        "ONİKİNCİ BÖLÜM · Denetim",
+        "ONÜÇÜNCÜ BÖLÜM · Sürekli Avukatlık Hizmetlerinde Uygulanacak Esaslar",
         "Dava ve İş Takipçileri"
       ]
     },
@@ -1295,11 +1380,11 @@
       "preview": "20/2/1973 tarihli ve 14454 sayılı Resmî Gazete’de yayımlanan Avukatlık Kanunu Yönetmeliği yürürlükten kaldırılmıştır.",
       "kitap": null,
       "kisim": null,
-      "bolum": "ONİKİNCİ BÖLÜM · Denetim",
+      "bolum": "ONÜÇÜNCÜ BÖLÜM · Sürekli Avukatlık Hizmetlerinde Uygulanacak Esaslar",
       "ayirim": null,
       "maddeBaslik": "Yürürlükten Kaldırılan Hükümler",
       "sectionPath": [
-        "ONİKİNCİ BÖLÜM · Denetim",
+        "ONÜÇÜNCÜ BÖLÜM · Sürekli Avukatlık Hizmetlerinde Uygulanacak Esaslar",
         "Yürürlükten Kaldırılan Hükümler"
       ]
     },
@@ -1312,11 +1397,11 @@
       "preview": "Bu Yönetmeliğin 13 üncü maddesi uyarınca Türkiye Barolar Birliği tarafından düzenlenen avukat kimlikleri dışındaki kimlikler, 1/1/2003 tarih…",
       "kitap": null,
       "kisim": null,
-      "bolum": "ONİKİNCİ BÖLÜM · Denetim",
+      "bolum": "ONÜÇÜNCÜ BÖLÜM · Sürekli Avukatlık Hizmetlerinde Uygulanacak Esaslar",
       "ayirim": null,
       "maddeBaslik": "Yürürlükten Kaldırılan Hükümler",
       "sectionPath": [
-        "ONİKİNCİ BÖLÜM · Denetim",
+        "ONÜÇÜNCÜ BÖLÜM · Sürekli Avukatlık Hizmetlerinde Uygulanacak Esaslar",
         "Yürürlükten Kaldırılan Hükümler"
       ]
     },
@@ -1329,11 +1414,11 @@
       "preview": "(Ek:RG-6/9/2008-26989) Bu Yönetmeliğin onüçüncü bölüm hükümlerinin yürürlük tarihinden önce düzenlenen sürekli avukatlık hizmetleri sözleşme…",
       "kitap": null,
       "kisim": null,
-      "bolum": "ONİKİNCİ BÖLÜM · Denetim",
+      "bolum": "ONÜÇÜNCÜ BÖLÜM · Sürekli Avukatlık Hizmetlerinde Uygulanacak Esaslar",
       "ayirim": null,
       "maddeBaslik": "Mevcut sözleşmelerin uyumu",
       "sectionPath": [
-        "ONİKİNCİ BÖLÜM · Denetim",
+        "ONÜÇÜNCÜ BÖLÜM · Sürekli Avukatlık Hizmetlerinde Uygulanacak Esaslar",
         "Mevcut sözleşmelerin uyumu"
       ]
     },
@@ -1346,11 +1431,11 @@
       "preview": "Bu Yönetmelik yayımı tarihinde yürürlüğe girer.",
       "kitap": null,
       "kisim": null,
-      "bolum": "ONİKİNCİ BÖLÜM · Denetim",
+      "bolum": "ONÜÇÜNCÜ BÖLÜM · Sürekli Avukatlık Hizmetlerinde Uygulanacak Esaslar",
       "ayirim": null,
       "maddeBaslik": "Yürürlük",
       "sectionPath": [
-        "ONİKİNCİ BÖLÜM · Denetim",
+        "ONÜÇÜNCÜ BÖLÜM · Sürekli Avukatlık Hizmetlerinde Uygulanacak Esaslar",
         "Yürürlük"
       ]
     },
@@ -1363,11 +1448,11 @@
       "preview": "Bu Yönetmelik hükümleri Türkiye Barolar Birliği Yönetim Kurulu tarafından yürütülür. ___________ (1) 6/9/2008 tarihli ve 26989 sayılı Resmi…",
       "kitap": null,
       "kisim": null,
-      "bolum": "ONİKİNCİ BÖLÜM · Denetim",
+      "bolum": "ONÜÇÜNCÜ BÖLÜM · Sürekli Avukatlık Hizmetlerinde Uygulanacak Esaslar",
       "ayirim": null,
       "maddeBaslik": "Yürütme",
       "sectionPath": [
-        "ONİKİNCİ BÖLÜM · Denetim",
+        "ONÜÇÜNCÜ BÖLÜM · Sürekli Avukatlık Hizmetlerinde Uygulanacak Esaslar",
         "Yürütme"
       ]
     }

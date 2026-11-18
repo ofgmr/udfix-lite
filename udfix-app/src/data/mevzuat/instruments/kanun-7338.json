@@ -465,7 +465,7 @@
       "maddeKind": "madde",
       "maddeNo": "26",
       "heading": "Madde 26",
-      "text": "Bu kanunun hükümlerini icraya İcra Vekilleri Heyeti memurdur.\n\n 8/6/1959 TARİHLİ VE 7338 SAYILI ANA KANUNA İŞLENEMEYEN GEÇİCİ MADDELER:\n 1. 15/2/1963 tarihli ve 188 Sayılı Kanunun geçici maddesi:\n Geçici Madde – Bu kanun yürürlüğe girdiği tarihten önce vukubulan intikaller eski hükümlere göre vergilendirilir.",
+      "text": "Bu kanunun hükümlerini icraya İcra Vekilleri Heyeti memurdur.\n\n 8/6/1959 TARİHLİ VE 7338 SAYILI ANA KANUNA İŞLENEMEYEN GEÇİCİ MADDELER:\n 1. 15/2/1963 tarihli ve 188 Sayılı Kanunun geçici maddesi:\n Geçici Madde – Bu kanun yürürlüğe girdiği tarihten önce vukubulan intikaller eski hükümlere göre vergilendirilir.\n\n2. 26/10/1988 tarihli ve 3482 sayılı Kanunun geçici maddesi:",
       "preview": "Bu kanunun hükümlerini icraya İcra Vekilleri Heyeti memurdur. 8/6/1959 TARİHLİ VE 7338 SAYILI ANA KANUNA İŞLENEMEYEN GEÇİCİ MADDELER: 1. 15/…",
       "kitap": null,
       "kisim": null,
@@ -477,7 +477,7 @@
       ]
     },
     {
-      "id": "kanun:7338:m:gecici:1",
+      "id": "kanun:7338:m:gecici:1~2",
       "maddeKind": "gecici",
       "maddeNo": "1",
       "heading": "Geçici Madde 1",
@@ -487,9 +487,9 @@
       "kisim": null,
       "bolum": null,
       "ayirim": null,
-      "maddeBaslik": "2. 26/10/1988 tarihli ve 3482 sayılı Kanunun geçici maddesi:",
+      "maddeBaslik": "Kaldırılan kanunlar ve hükümler:",
       "sectionPath": [
-        "2. 26/10/1988 tarihli ve 3482 sayılı Kanunun geçici maddesi:"
+        "Kaldırılan kanunlar ve hükümler:"
       ]
     }
   ]

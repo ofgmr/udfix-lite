@@ -1,5 +1,6 @@
 import {
     app,
+    BrowserWindow,
     Menu,
     type MenuItemConstructorOptions,
 } from 'electron';
@@ -23,6 +24,8 @@ import {
 import { refreshMacPlatformMenus } from './macAppLifecycle';
 import { promptSetUdfDefaultHandler } from './macUdfDefaultHandler';
 import { MENU_CHANNEL } from './applicationMenuTypes';
+import { toggleDevToolsForWindow } from './devTools';
+import { exportDiagnosticsLog, revealDiagnosticsLog } from './diagnosticsLog';
 
 export { MENU_CHANNEL };
 export type { AppMenuAction } from './applicationMenuTypes';
@@ -81,17 +84,39 @@ function toggleTelemetryConsent(): void {
     void rebuildApplicationMenu();
 }
 
+function focusedWindow(): BrowserWindow | null {
+    return BrowserWindow.getFocusedWindow() ?? BrowserWindow.getAllWindows()[0] ?? null;
+}
+
+/** Always present, including the packaged app (there is no DevTools menu there today). */
+function supportMenuItems(): MenuItemConstructorOptions {
+    return {
+        label: 'Yardım',
+        submenu: [
+            {
+                label: 'Geliştirici Araçları',
+                accelerator: 'CmdOrCtrl+Shift+I',
+                click: () => toggleDevToolsForWindow(focusedWindow()),
+            },
+            {
+                label: 'Günlük klasörünü göster',
+                accelerator: 'CmdOrCtrl+Shift+L',
+                click: () => revealDiagnosticsLog(),
+            },
+            {
+                label: 'Günlükleri dışa aktar…',
+                click: () => void exportDiagnosticsLog(focusedWindow()),
+            },
+        ],
+    };
+}
+
 function developerMenuItems(): MenuItemConstructorOptions[] {
     if (!isRendererDevelopmentHost()) return [];
     return [
         {
             label: 'Geliştirici',
             submenu: [
-                {
-                    role: 'toggleDevTools',
-                    label: 'Geliştirici Araçları',
-                },
-                { type: 'separator' },
                 { role: 'reload', label: 'Yeniden Yükle' },
                 { role: 'forceReload', label: 'Önbelleksiz Yeniden Yükle' },
             ],
@@ -232,6 +257,7 @@ function buildTemplate(prefs: AppPreferences): MenuItemConstructorOptions[] {
             fileMenu,
             ...developerMenuItems(),
             shortcutsMenu,
+            supportMenuItems(),
         ];
     }
 
@@ -264,7 +290,7 @@ function buildTemplate(prefs: AppPreferences): MenuItemConstructorOptions[] {
         ],
     };
 
-    return [appMenu, editMenu, fileMenu, ...developerMenuItems(), shortcutsMenu];
+    return [appMenu, editMenu, fileMenu, ...developerMenuItems(), shortcutsMenu, supportMenuItems()];
 }
 
 export function rebuildApplicationMenu(): void {

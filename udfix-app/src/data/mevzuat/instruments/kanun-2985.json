@@ -12,7 +12,7 @@
   "tertip": 5,
   "sourceUrl": "https://www.mevzuat.gov.tr/mevzuat?MevzuatNo=2985&MevzuatTur=1&MevzuatTertip=5",
   "kabulTarihi": "2/3/1984",
-  "maddeCount": 38,
+  "maddeCount": 35,
   "maddeler": [
     {
       "id": "kanun:2985:m:1",
@@ -25,10 +25,8 @@
       "kisim": null,
       "bolum": null,
       "ayirim": null,
-      "maddeBaslik": "Amaç ve kapsam:",
-      "sectionPath": [
-        "Amaç ve kapsam:"
-      ]
+      "maddeBaslik": null,
+      "sectionPath": []
     },
     {
       "id": "kanun:2985:m:2",
@@ -563,8 +561,8 @@
       "maddeKind": "madde",
       "maddeNo": "10",
       "heading": "Madde 10",
-      "text": "Bu Kanun hükümlerini Bakanlar Kurulu yürütür.",
-      "preview": "Bu Kanun hükümlerini Bakanlar Kurulu yürütür.",
+      "text": "Bu Kanun hükümlerini Bakanlar Kurulu yürütür.\n\n1 – 9/4/1990 tarih ve 412 sayılı KHK'nin geçici maddeleri:\n\nGeçici Madde 1 -\nToplu Konut İdaresinin 1990 Mali Yılı harcamaları Toplu Konut ve Kamu Ortaklığı bütçesinden karşılanır.\n\nGeçici Madde 2 -\nBu Kanun Hükmünde Kararname ile kurulan Toplu Konut İdaresi Başkanlığı teşkilatlanıncaya kadar, hizmetleri Kamu Ortaklığı İdaresi Başkanlığı personeli eliyle yürütülür.\n\nGeçici Madde 3 -\nDiğer mevzuatta Toplu Konut ve Kamu Ortaklığı İdaresine yapılmış olan atıflar, hizmetin özelliğine göre Kamu Ortaklığı İdaresi Başkanlığı veya Toplu Konut İdaresi Başkanlığına ilişkin düzenlemelerin ilgili hükümlerine yapılmış sayılır.\n 2985 sayılı Kanunda, geçen Yüksek Planlama Kurulu deyimleri \"Toplu Konut İdaresi Başkanlığı\" olarak değiştirilmiştir.\n 2985 SAYILI KANUNA EK VE DEĞİŞİKLİK GETİREN MEVZUATIN VEYA\n ANAYASA MAHKEMESİ TARAFINDAN İPTAL EDİLEN HÜKÜMLERİN\n YÜRÜRLÜĞE GİRİŞ TARİHİNİ GÖSTERİR LİSTE\n\n Değiştiren Kanunun/ KHK’nin/İptal Eden Anayasa Mahkemesi\n Kararının Numarası\n 2985 Sayılı Kanunun Değişen veya İptal Edilen Maddeleri\n Yürürlüğe Giriş Tarihi\n\n 3189\n 2\n 8/5/1985\n\n 3291\n 3\n 3/6/1986\n\n 3397\n 3\n 27/6/1987\n\n 3571\n a) 3, 5 ve 8 inci maddeler\n\n b) 11, 12, 13 ve 14 üncü maddeler\n\n c) Diğer maddeler\n 1/1/1989 tari hinden geçerli olmak üzere 20/6/1989\n 1/7/1989\n\n 20/6/1989\n\n KHK/412\n Ek Madde 1, Ek Madde 3, Ek Madde 4, Ek Madde 5\n 10/4/1990\n\n 3645\n Ek Madde 1, Geçici Madde 2\n 20/5/1990\n\n 3827\n 2\n 11/7/1992\n\n 4684\n a) 1 inci maddenin (A) ve (B) fıkraları\n\n b) 5,6,7,8,9,10,11,12,13,14,15 ve 16 ncı maddeleri ile geçici 3 üncü maddesinin (f) fıkrası dışındaki diğer fıkraları\n\n c)Geçici 3 üncü maddesinin (f) fıkrası\n\n d) Diğer maddeleri\n 25/11/2000 tarihinden geçerli olarak 3/7/2001\n\n 1/1/2002\n\n 1/1/2001 tarihinden geçerli olmak üzere 3/7/2001\n\n 3/7/2001\n\n 4767\n Geçici Madde 3\n 3/7/2002\n\n 4864\n 10 uncu maddesi\n Diğer maddeleri\n 14/12/2001\n 1/1/2003 tarihinden geçerli olmak üzere 6/6/2003\n\n 4966\n 2, Ek Madde 1\n 7/8/2003\n\n 5162\n 4, Ek Madde 1,Ek Madde 6, Ek Madde 7\n 12/5/2004\n\n 5273\n Ek Madde 1, 2, 3, 4, 5, 6, 7, 8 ve 9\n 15/12/2004\n\n 5281\n 2\n 1/1/2005 tarihinden geçerli olmak üzere 31/12/2004\n\n 5335\n Ek Madde 3, Geçici Madde 5 ve 6\n 27/4/2005\n\n 5492\n Ek Madde 9\n 4/5/2006\n\n 5582\n Ek Madde 10\n 6/3/2007\n\n 5610\n Ek Madde 11 ile Geçici Madde 7\n 6/4/2007\n\n 5766\n Ek Madde 12\n 6/6/2008\n\n 5793\n 4, 6, Ek Madde 1, 7, 13 ve Geçici Madde 8\n 6/8/2008\n\n 5953\n Ek Madde 14, 15, Geçici Madde 4\n 9/3/2010\n\n 6009\n Ek Madde 16\n 1/8/2010\n\n KHK/648\n Ek Madde 3\n 17/8/2011\n\n KHK/661\n Ek Madde 3\n 2/11/2011\n\n 6306\n 2\n 31/5/2012\n\n 6353\n Ek Madde 2\n 12/7/2012\n\n 6495\n Ek Madde 2\n 2/8/2013\n\n KHK/703\n 2, 4, Ek Madde 1, Ek Madde 3,\n Ek Madde 16\n 24/6/2018 tarihinde birlikte yapılan Türkiye Büyük Millet Meclisi ve Cumhurbaşkanlığı seçimleri sonucunda Cumhurbaşkanının andiçerek göreve başladığı tarihte (9/7/2018)\n\n 7579\n 6, Ek Madde 17\n 22/5/2026\n\n [1] a -28/12/1987 tarih ve 304 sayılı KHK'nin 5 inci maddesi ile; bu Kanundaki ve diğer kanunlardaki \"Toplu Konut ve Kamu Ortaklığı Kurulu\", \"Koordinasyon Kurulu\" ve \"Kamu Ortaklığı Kurulu\" ibareleri, \"Yüksek Planlama Kurulu\" olarak değiştirilmiş ve daha sonra bu hüküm 3701 sayılı Kanunla aynen kabul edilmek suretiyle kanunlaşmıştır.\n b -9/4/1990 tarih ve 412 sayılı KHK'nin geçici 3 üncü maddesi ile de bu Kanunda yer alan \"Yüksek Planlama Kurulu\" deyimleri \"Toplu Konut İdaresi Başkanlığı\" olarak değiştirilmiştir.\n\n [2] Bu maddedeki “Toplu Konut Fonunun meydana getirilmesi ve kullanılması” ibaresi 20/6/2001 tarih ve 4648 sayılı Kanunla metinden çıkarılmış olup, bu değişiklik 1/1/2002 tarihinde yürürlüğe girmiştir.\n\n [3] Bu madde başlığı; “Toplu Konut Fonu” iken, 20/6/2001 tarih ve 4684 sayılı Kanunla metne işlendiği şekilde değiştirilmiştir.\n\n [4] 16/5/2012 tarihli ve 6306 sayılı Kanunun 13 üncü maddesiyle bu maddeye (f) bendinden sonra gelmek (g) bendi eklenmiş ve mevcut (g) bendi (h) bendi olarak teselsül ettirilmiştir.\n\n [5] Bu bentte yer alan \"tahsis edilen ödenekten,\" ibaresi, 30/12/2004 tarihli ve 5281 sayılı Kanunun 43 üncü maddesiyle \" tahsis edilen ödenek ve 29.6.2001 tarihli ve 4705 sayılı Kanunun 1 inci maddesi uyarınca alınan harçlardan” olarak değiştirilmiş ve metne işlenmiştir.\n\n [6] 2/7/2018 tarihli ve 703 sayılı KHK’nin 155 inci maddesiyle, bu fıkrada yer alan “Bakanlar Kurulunca” ibaresi “Cumhurbaşkanınca” şeklinde değiştirilmiştir.\n\n [7] 2/7/2018 tarihli ve 703 sayılı KHK’nin 155 inci maddesiyle, bu fıkrada yer alan “Başkanlık kanundaki” ibaresinden sonra gelmek üzere “ve Cumhurbaşkanlığı Kararnamelerindeki” ibaresi eklenmiştir.\n\n [8] 7/5/2026 tarihli ve 7579 sayılı Kanunun 10 uncu maddesiyle bu madde başlığına “kanunlar” ibaresinden sonra gelmek üzere “ve sözleşme uygulamaları” ibaresi eklenmiştir.\n\n [9] 31/7/2003 tarihli ve 4966 sayılı Kanunun 4 üncü maddesiyle (h) bendinden sonra gelmek üzere (ı), (j), (k) ve (l) bentleri eklenmiş ve mevcut (i) bendi, (m) bendi olarak teselsül ettirilmiştir.\n\n [10] 2/7/2018 tarihli ve 703 sayılı KHK’nin 155 inci maddesiyle, bu fıkrada yer alan “Başbakanlığa” ibaresi “Çevre ve Şehircilik Bakanlığına” şeklinde değiştirilmiştir.\n\n [11] Bu bentte yer alan “kurulmuş şirketlere iştirak etmek” ibaresi, 5/5/2004 tarihli ve 5162 sayılı Kanunun 3 üncü maddesiyle “kurulmuş şirketlere ve finans kurumlarına ortak olmak”şeklinde değiştirilmiştir.\n\n [12] 24/7/2008 tarihli ve 5793 sayılı Kanunun 9 uncu maddesiyle (m) bendi eklenmiş ve mevcut (m) bendi (n) bendi olarak teselsül ettirilmiştir.\n\n [13] 8/12/2004 tarihli ve 5273 sayılı Kanunun 8 inci maddesiyle 412 sayılı Kanun Hükmünde Kararname ile eklenen Ek Madde 1’den sonra gelen maddelerin numaraları metne işlendiği şekilde yeniden teselsül ettirilmiştir.\n\n [14] Bu arada yer alan “veya Sosyal Sigortalar Kurumu” ibaresi, 21/4/2005 tarihli ve 5335 sayılı Kanunun 12 nci maddesiyle madde metninden çıkartılmıştır.\n\n [15] 2/7/2018 tarihli ve 703 sayılı KHK’nin 155 inci maddesiyle, Ek Madde 3’ün beşinci fıkrasında yer alan “Bakanlar Kurulunca” ibaresi “Cumhurbaşkanınca” şeklinde değiştirilmiş, altıncı fıkrasında yer alan “Başbakanlık ile” ibaresi madde metninden çıkarılmıştır.\n\n [16] Bu madde ile ihdas edilen kadrolarla ilgili olarak 6/8/2008 tarihli ve 26959 sayılı Resmi Gazete’ye bakınız.\n\n [17] 2/7/2018 tarihli ve 703 sayılı KHK’nin 155 inci maddesiyle, bu maddede yer alan “Kanunlar” ibaresinden sonra gelmek üzere “ve Cumhurbaşkanlığı Kararnameleri” ibaresi ve “kanunlardan” ibaresinden sonra gelmek üzere “ve Cumhurbaşkanlığı Kararnamelerinden” ibaresi eklenmiştir.",
+      "preview": "Bu Kanun hükümlerini Bakanlar Kurulu yürütür. 1 – 9/4/1990 tarih ve 412 sayılı KHK'nin geçici maddeleri: Geçici Madde 1 - Toplu Konut İdares…",
       "kitap": null,
       "kisim": null,
       "bolum": null,
@@ -572,54 +570,6 @@
       "maddeBaslik": "Yürütme:",
       "sectionPath": [
         "Yürütme:"
-      ]
-    },
-    {
-      "id": "kanun:2985:m:gecici:1",
-      "maddeKind": "gecici",
-      "maddeNo": "1",
-      "heading": "Geçici Madde 1",
-      "text": "Toplu Konut İdaresinin 1990 Mali Yılı harcamaları Toplu Konut ve Kamu Ortaklığı bütçesinden karşılanır.",
-      "preview": "Toplu Konut İdaresinin 1990 Mali Yılı harcamaları Toplu Konut ve Kamu Ortaklığı bütçesinden karşılanır.",
-      "kitap": null,
-      "kisim": null,
-      "bolum": null,
-      "ayirim": null,
-      "maddeBaslik": "1 – 9/4/1990 tarih ve 412 sayılı KHK'nin geçici maddeleri:",
-      "sectionPath": [
-        "1 – 9/4/1990 tarih ve 412 sayılı KHK'nin geçici maddeleri:"
-      ]
-    },
-    {
-      "id": "kanun:2985:m:gecici:2",
-      "maddeKind": "gecici",
-      "maddeNo": "2",
-      "heading": "Geçici Madde 2",
-      "text": "Bu Kanun Hükmünde Kararname ile kurulan Toplu Konut İdaresi Başkanlığı teşkilatlanıncaya kadar, hizmetleri Kamu Ortaklığı İdaresi Başkanlığı personeli eliyle yürütülür.",
-      "preview": "Bu Kanun Hükmünde Kararname ile kurulan Toplu Konut İdaresi Başkanlığı teşkilatlanıncaya kadar, hizmetleri Kamu Ortaklığı İdaresi Başkanlığı…",
-      "kitap": null,
-      "kisim": null,
-      "bolum": null,
-      "ayirim": null,
-      "maddeBaslik": "1 – 9/4/1990 tarih ve 412 sayılı KHK'nin geçici maddeleri:",
-      "sectionPath": [
-        "1 – 9/4/1990 tarih ve 412 sayılı KHK'nin geçici maddeleri:"
-      ]
-    },
-    {
-      "id": "kanun:2985:m:gecici:3",
-      "maddeKind": "gecici",
-      "maddeNo": "3",
-      "heading": "Geçici Madde 3",
-      "text": "Diğer mevzuatta Toplu Konut ve Kamu Ortaklığı İdaresine yapılmış olan atıflar, hizmetin özelliğine göre Kamu Ortaklığı İdaresi Başkanlığı veya Toplu Konut İdaresi Başkanlığına ilişkin düzenlemelerin ilgili hükümlerine yapılmış sayılır.\n 2985 sayılı Kanunda, geçen Yüksek Planlama Kurulu deyimleri \"Toplu Konut İdaresi Başkanlığı\" olarak değiştirilmiştir.\n 2985 SAYILI KANUNA EK VE DEĞİŞİKLİK GETİREN MEVZUATIN VEYA\n ANAYASA MAHKEMESİ TARAFINDAN İPTAL EDİLEN HÜKÜMLERİN\n YÜRÜRLÜĞE GİRİŞ TARİHİNİ GÖSTERİR LİSTE\n\n Değiştiren Kanunun/ KHK’nin/İptal Eden Anayasa Mahkemesi\n Kararının Numarası\n 2985 Sayılı Kanunun Değişen veya İptal Edilen Maddeleri\n Yürürlüğe Giriş Tarihi\n\n 3189\n 2\n 8/5/1985\n\n 3291\n 3\n 3/6/1986\n\n 3397\n 3\n 27/6/1987\n\n 3571\n a) 3, 5 ve 8 inci maddeler\n\n b) 11, 12, 13 ve 14 üncü maddeler\n\n c) Diğer maddeler\n 1/1/1989 tari hinden geçerli olmak üzere 20/6/1989\n 1/7/1989\n\n 20/6/1989\n\n KHK/412\n Ek Madde 1, Ek Madde 3, Ek Madde 4, Ek Madde 5\n 10/4/1990\n\n 3645\n Ek Madde 1, Geçici Madde 2\n 20/5/1990\n\n 3827\n 2\n 11/7/1992\n\n 4684\n a) 1 inci maddenin (A) ve (B) fıkraları\n\n b) 5,6,7,8,9,10,11,12,13,14,15 ve 16 ncı maddeleri ile geçici 3 üncü maddesinin (f) fıkrası dışındaki diğer fıkraları\n\n c)Geçici 3 üncü maddesinin (f) fıkrası\n\n d) Diğer maddeleri\n 25/11/2000 tarihinden geçerli olarak 3/7/2001\n\n 1/1/2002\n\n 1/1/2001 tarihinden geçerli olmak üzere 3/7/2001\n\n 3/7/2001\n\n 4767\n Geçici Madde 3\n 3/7/2002\n\n 4864\n 10 uncu maddesi\n Diğer maddeleri\n 14/12/2001\n 1/1/2003 tarihinden geçerli olmak üzere 6/6/2003\n\n 4966\n 2, Ek Madde 1\n 7/8/2003\n\n 5162\n 4, Ek Madde 1,Ek Madde 6, Ek Madde 7\n 12/5/2004\n\n 5273\n Ek Madde 1, 2, 3, 4, 5, 6, 7, 8 ve 9\n 15/12/2004\n\n 5281\n 2\n 1/1/2005 tarihinden geçerli olmak üzere 31/12/2004\n\n 5335\n Ek Madde 3, Geçici Madde 5 ve 6\n 27/4/2005\n\n 5492\n Ek Madde 9\n 4/5/2006\n\n 5582\n Ek Madde 10\n 6/3/2007\n\n 5610\n Ek Madde 11 ile Geçici Madde 7\n 6/4/2007\n\n 5766\n Ek Madde 12\n 6/6/2008\n\n 5793\n 4, 6, Ek Madde 1, 7, 13 ve Geçici Madde 8\n 6/8/2008\n\n 5953\n Ek Madde 14, 15, Geçici Madde 4\n 9/3/2010\n\n 6009\n Ek Madde 16\n 1/8/2010\n\n KHK/648\n Ek Madde 3\n 17/8/2011\n\n KHK/661\n Ek Madde 3\n 2/11/2011\n\n 6306\n 2\n 31/5/2012\n\n 6353\n Ek Madde 2\n 12/7/2012\n\n 6495\n Ek Madde 2\n 2/8/2013\n\n KHK/703\n 2, 4, Ek Madde 1, Ek Madde 3,\n Ek Madde 16\n 24/6/2018 tarihinde birlikte yapılan Türkiye Büyük Millet Meclisi ve Cumhurbaşkanlığı seçimleri sonucunda Cumhurbaşkanının andiçerek göreve başladığı tarihte (9/7/2018)\n\n 7579\n 6, Ek Madde 17\n 22/5/2026\n\n [1] a -28/12/1987 tarih ve 304 sayılı KHK'nin 5 inci maddesi ile; bu Kanundaki ve diğer kanunlardaki \"Toplu Konut ve Kamu Ortaklığı Kurulu\", \"Koordinasyon Kurulu\" ve \"Kamu Ortaklığı Kurulu\" ibareleri, \"Yüksek Planlama Kurulu\" olarak değiştirilmiş ve daha sonra bu hüküm 3701 sayılı Kanunla aynen kabul edilmek suretiyle kanunlaşmıştır.\n b -9/4/1990 tarih ve 412 sayılı KHK'nin geçici 3 üncü maddesi ile de bu Kanunda yer alan \"Yüksek Planlama Kurulu\" deyimleri \"Toplu Konut İdaresi Başkanlığı\" olarak değiştirilmiştir.\n\n [2] Bu maddedeki “Toplu Konut Fonunun meydana getirilmesi ve kullanılması” ibaresi 20/6/2001 tarih ve 4648 sayılı Kanunla metinden çıkarılmış olup, bu değişiklik 1/1/2002 tarihinde yürürlüğe girmiştir.\n\n [3] Bu madde başlığı; “Toplu Konut Fonu” iken, 20/6/2001 tarih ve 4684 sayılı Kanunla metne işlendiği şekilde değiştirilmiştir.\n\n [4] 16/5/2012 tarihli ve 6306 sayılı Kanunun 13 üncü maddesiyle bu maddeye (f) bendinden sonra gelmek (g) bendi eklenmiş ve mevcut (g) bendi (h) bendi olarak teselsül ettirilmiştir.\n\n [5] Bu bentte yer alan \"tahsis edilen ödenekten,\" ibaresi, 30/12/2004 tarihli ve 5281 sayılı Kanunun 43 üncü maddesiyle \" tahsis edilen ödenek ve 29.6.2001 tarihli ve 4705 sayılı Kanunun 1 inci maddesi uyarınca alınan harçlardan” olarak değiştirilmiş ve metne işlenmiştir.\n\n [6] 2/7/2018 tarihli ve 703 sayılı KHK’nin 155 inci maddesiyle, bu fıkrada yer alan “Bakanlar Kurulunca” ibaresi “Cumhurbaşkanınca” şeklinde değiştirilmiştir.\n\n [7] 2/7/2018 tarihli ve 703 sayılı KHK’nin 155 inci maddesiyle, bu fıkrada yer alan “Başkanlık kanundaki” ibaresinden sonra gelmek üzere “ve Cumhurbaşkanlığı Kararnamelerindeki” ibaresi eklenmiştir.\n\n [8] 7/5/2026 tarihli ve 7579 sayılı Kanunun 10 uncu maddesiyle bu madde başlığına “kanunlar” ibaresinden sonra gelmek üzere “ve sözleşme uygulamaları” ibaresi eklenmiştir.\n\n [9] 31/7/2003 tarihli ve 4966 sayılı Kanunun 4 üncü maddesiyle (h) bendinden sonra gelmek üzere (ı), (j), (k) ve (l) bentleri eklenmiş ve mevcut (i) bendi, (m) bendi olarak teselsül ettirilmiştir.\n\n [10] 2/7/2018 tarihli ve 703 sayılı KHK’nin 155 inci maddesiyle, bu fıkrada yer alan “Başbakanlığa” ibaresi “Çevre ve Şehircilik Bakanlığına” şeklinde değiştirilmiştir.\n\n [11] Bu bentte yer alan “kurulmuş şirketlere iştirak etmek” ibaresi, 5/5/2004 tarihli ve 5162 sayılı Kanunun 3 üncü maddesiyle “kurulmuş şirketlere ve finans kurumlarına ortak olmak”şeklinde değiştirilmiştir.\n\n [12] 24/7/2008 tarihli ve 5793 sayılı Kanunun 9 uncu maddesiyle (m) bendi eklenmiş ve mevcut (m) bendi (n) bendi olarak teselsül ettirilmiştir.\n\n [13] 8/12/2004 tarihli ve 5273 sayılı Kanunun 8 inci maddesiyle 412 sayılı Kanun Hükmünde Kararname ile eklenen Ek Madde 1’den sonra gelen maddelerin numaraları metne işlendiği şekilde yeniden teselsül ettirilmiştir.\n\n [14] Bu arada yer alan “veya Sosyal Sigortalar Kurumu” ibaresi, 21/4/2005 tarihli ve 5335 sayılı Kanunun 12 nci maddesiyle madde metninden çıkartılmıştır.\n\n [15] 2/7/2018 tarihli ve 703 sayılı KHK’nin 155 inci maddesiyle, Ek Madde 3’ün beşinci fıkrasında yer alan “Bakanlar Kurulunca” ibaresi “Cumhurbaşkanınca” şeklinde değiştirilmiş, altıncı fıkrasında yer alan “Başbakanlık ile” ibaresi madde metninden çıkarılmıştır.\n\n [16] Bu madde ile ihdas edilen kadrolarla ilgili olarak 6/8/2008 tarihli ve 26959 sayılı Resmi Gazete’ye bakınız.\n\n [17] 2/7/2018 tarihli ve 703 sayılı KHK’nin 155 inci maddesiyle, bu maddede yer alan “Kanunlar” ibaresinden sonra gelmek üzere “ve Cumhurbaşkanlığı Kararnameleri” ibaresi ve “kanunlardan” ibaresinden sonra gelmek üzere “ve Cumhurbaşkanlığı Kararnamelerinden” ibaresi eklenmiştir.",
-      "preview": "Diğer mevzuatta Toplu Konut ve Kamu Ortaklığı İdaresine yapılmış olan atıflar, hizmetin özelliğine göre Kamu Ortaklığı İdaresi Başkanlığı ve…",
-      "kitap": null,
-      "kisim": null,
-      "bolum": null,
-      "ayirim": null,
-      "maddeBaslik": "1 – 9/4/1990 tarih ve 412 sayılı KHK'nin geçici maddeleri:",
-      "sectionPath": [
-        "1 – 9/4/1990 tarih ve 412 sayılı KHK'nin geçici maddeleri:"
       ]
     }
   ]
