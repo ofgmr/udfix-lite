@@ -41,6 +41,7 @@ export function pdfJsDocumentInitOptions(baseWindow?: Window): {
     useWorkerFetch: boolean;
     verbosity: number;
     isEvalSupported: boolean;
+    enableScripting: boolean;
     enableXfa: boolean;
 } {
     return {
@@ -54,6 +55,8 @@ export function pdfJsDocumentInitOptions(baseWindow?: Window): {
         useWorkerFetch: false,
         verbosity: 0,
         isEvalSupported: false,
+        // GHSA-hq66-cqwq-w95j: PDF.js scripting defaults on through 5.x and runs attacker JS from a PDF.
+        enableScripting: false,
         enableXfa: false,
     };
 }

@@ -9,6 +9,7 @@ import {
 } from '../../stores/useHeaderFooterStore';
 import { cn } from '../../lib/utils';
 import { useEditor, EditorContent } from '@tiptap/react';
+import { toast } from 'sonner';
 import StarterKit from '@tiptap/starter-kit';
 import { HfHardBreak } from '../../extensions/HfHardBreak';
 import { HfImageExtension } from '../../extensions/HfImageExtension';
@@ -38,8 +39,10 @@ import {
     editorMaxVerticalMarginTotalPx,
 } from '../../utils/editorLayout';
 import { normalizeHfColumnHtml } from '../../utils/normalizeHfColumnHtml';
+import { setContentWithoutEmit } from '../../utils/setContentQuiet';
 import { hfVariableSpansToTokens } from '../../utils/compileHfHtml';
 import { syncHfImageAlignFromParagraphInEditor } from '../../utils/hfImageAlignExport';
+import { keepPastedAttrsOnEmptyTextblock } from '../../utils/editorPaste';
 import { parseHtmlFragment, sanitizeTrustedDocumentHtml } from '../../utils/sanitizeDocumentHtml';
 
 // ── Variable Definitions ──────────────────────────────────
@@ -227,6 +230,7 @@ const RichDropZone: React.FC<DropZoneProps> = ({ label, value, onChange, placeho
             }, 80);
         },
         editorProps: {
+            handlePaste: (view, _event, slice) => keepPastedAttrsOnEmptyTextblock(view, slice),
             handleDrop: (_view, event) => {
                 if (event.dataTransfer?.files?.[0]) {
                     const file = event.dataTransfer.files[0];
@@ -242,7 +246,7 @@ const RichDropZone: React.FC<DropZoneProps> = ({ label, value, onChange, placeho
                         reader.onload = (ev) => {
                             const result = ev.target?.result as string;
                             if (result && editor) {
-                                editor.chain().focus().setImage({ src: result, width: '64px', hfSized: true }).run();
+                                editor.chain().focus().setImage({ src: result, width: '64px' as unknown as number, hfSized: true }).run();
                             }
                         };
                         reader.readAsDataURL(file);
@@ -353,7 +357,7 @@ const RichDropZone: React.FC<DropZoneProps> = ({ label, value, onChange, placeho
                 const nextWrap = parseHtmlFragment(next);
                 if (!nowWrap || !nextWrap) return;
                 if (nowWrap.innerHTML === nextWrap.innerHTML) return;
-                editor.commands.setContent(next, false);
+                setContentWithoutEmit(editor, next);
             });
         }
     }, [editor, value]);
@@ -407,7 +411,7 @@ const RichDropZone: React.FC<DropZoneProps> = ({ label, value, onChange, placeho
         const reader = new FileReader();
         reader.onload = (ev) => {
             const src = ev.target?.result as string;
-            if (src) editor.chain().focus().setImage({ src, width: '64px', hfSized: true }).run();
+            if (src) editor.chain().focus().setImage({ src, width: '64px' as unknown as number, hfSized: true }).run();
         };
         reader.readAsDataURL(file);
         e.target.value = '';

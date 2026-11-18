@@ -12,7 +12,7 @@
   "tertip": 5,
   "sourceUrl": "https://www.mevzuat.gov.tr/mevzuat?MevzuatNo=2575&MevzuatTur=1&MevzuatTertip=5",
   "kabulTarihi": "6/1/1982",
-  "maddeCount": 135,
+  "maddeCount": 139,
   "maddeler": [
     {
       "id": "kanun:2575:m:1",
@@ -316,7 +316,7 @@
       "maddeKind": "madde",
       "maddeNo": "19",
       "heading": "Madde 19",
-      "text": "(Değişik: 22/3/1990 - 3619/2 md.)\n 1 – (Yeniden düzenleme: 27/6/2013 – 6494/8 md.) Başkanlar Kurulu, Danıştay Başkanının başkanlığında Başsavcı, başkanvekilleri ve daire başkanlarından oluşur.\n 2 – Daire başkanının mazereti halinde, Kurula, dairenin en kıdemli üyesi katılır.\n 3 – Kararlar oy çokluğu ile verilir.\n 4 – Oylarda eşitlik halinde Başkanın bulunduğu taraf çoğunluğu sağlamış sayılır.\n\n Başkanlık Kurulu[27]\n Madde 19/A – (Ek: 8/8/2011-KHK-650/7 md.; İptal: Anayasa Mahkemesi’nin 18/7/2012 tarihli ve E.: 2011/113 K.: 2012/108 sayılı Kararı ile.; Yeniden düzenleme: 27/6/2013 – 6494/9 md.)\n 1. Başkanlık Kurulu; Danıştay Başkanının başkanlığında, üçü daire başkanı üçü Danıştay üyesi olmak üzere altı asıl ve ikisi daire başkanı ikisi Danıştay üyesi olmak üzere dört yedek üyeden oluşur.\n\n Başkanlık Kurulu üyelerinin seçimleri[28]\n Madde 19/B – (Ek: 8/8/2011-KHK-650/7 md. İptal: Anayasa Mahkemesi’nin 18/7/2012 tarihli ve E.: 2011/113 K.: 2012/108 sayılı Kararı ile.; Yeniden düzenleme: 27/6/2013 – 6494/10 md.)\n 1. Başkanlık Kuruluna seçilecek asıl ve yedek üyeler Danıştay Genel Kurulunca seçilir. Başkanlık Kurulu üyeliğine aynı daireden birden fazla kimse seçilemez.\n 2. Başkanlık Kurulu, üye tamsayısı ile toplanır. Asıl üyelerden birinin Kurula katılamaması hâlinde, noksanlık yedeği ile tamamlanır.\n 3. Başkanlık Kurulu üyeleri kendileri ile ilgili konularda Kurul toplantılarına katılamazlar.\n 4. Başkanlık Kuruluna seçilecek olanların tamamının bir oy pusulasında gösterilmesi suretiyle oy kullanılması da mümkündür. Aday çıkmadığı veya yeter sayıda başvuru olmadığı takdirde Başkanlar Kurulu tarafından gizli oyla ve oy çokluğu ile adaylar dışından seçilebileceklerin üç katı aday gösterilir. Seçimler 10 uncu madde hükümleri gereğince yapılır.\n 5. Başkanlık Kuruluna seçilenlerin görev süresi iki yıl olup bir seçim dönemi geçmeden yeniden seçilemezler.\n 6. Başkanlık Kurulu üyeliğine seçilen daire başkan ve üyelerinin seçim süresi dolmadan bu sıfatları değiştiğinde Kurul üyeliğinden ayrılmış sayılırlar.\n 7. Başkanlık Kurulu üyeliğinin herhangi bir nedenle boşalması hâlinde on beş gün içinde boşalan üyelik için seçim yapılır ve seçilen üye, yerine seçildiği üyenin süresini tamamlar.",
+      "text": "(Değişik: 22/3/1990 - 3619/2 md.)\n 1 – (Yeniden düzenleme: 27/6/2013 – 6494/8 md.) Başkanlar Kurulu, Danıştay Başkanının başkanlığında Başsavcı, başkanvekilleri ve daire başkanlarından oluşur.\n 2 – Daire başkanının mazereti halinde, Kurula, dairenin en kıdemli üyesi katılır.\n 3 – Kararlar oy çokluğu ile verilir.\n 4 – Oylarda eşitlik halinde Başkanın bulunduğu taraf çoğunluğu sağlamış sayılır.",
       "preview": "(Değişik: 22/3/1990 - 3619/2 md.) 1 – (Yeniden düzenleme: 27/6/2013 – 6494/8 md.) Başkanlar Kurulu, Danıştay Başkanının başkanlığında Başsav…",
       "kitap": null,
       "kisim": null,
@@ -326,6 +326,40 @@
       "sectionPath": [
         "ÜÇÜNCÜ BÖLÜM · Daire ve Kurullar",
         "Başkanlar Kurulu[26]"
+      ]
+    },
+    {
+      "id": "kanun:2575:m:19/A",
+      "maddeKind": "madde",
+      "maddeNo": "19/A",
+      "heading": "Madde 19/A",
+      "text": "(Ek: 8/8/2011-KHK-650/7 md.; İptal: Anayasa Mahkemesi’nin 18/7/2012 tarihli ve E.: 2011/113 K.: 2012/108 sayılı Kararı ile.; Yeniden düzenleme: 27/6/2013 – 6494/9 md.)\n 1. Başkanlık Kurulu; Danıştay Başkanının başkanlığında, üçü daire başkanı üçü Danıştay üyesi olmak üzere altı asıl ve ikisi daire başkanı ikisi Danıştay üyesi olmak üzere dört yedek üyeden oluşur.",
+      "preview": "(Ek: 8/8/2011-KHK-650/7 md.; İptal: Anayasa Mahkemesi’nin 18/7/2012 tarihli ve E.: 2011/113 K.: 2012/108 sayılı Kararı ile.; Yeniden düzenle…",
+      "kitap": null,
+      "kisim": null,
+      "bolum": "ÜÇÜNCÜ BÖLÜM · Daire ve Kurullar",
+      "ayirim": null,
+      "maddeBaslik": "Başkanlık Kurulu[27]",
+      "sectionPath": [
+        "ÜÇÜNCÜ BÖLÜM · Daire ve Kurullar",
+        "Başkanlık Kurulu[27]"
+      ]
+    },
+    {
+      "id": "kanun:2575:m:19/B",
+      "maddeKind": "madde",
+      "maddeNo": "19/B",
+      "heading": "Madde 19/B",
+      "text": "(Ek: 8/8/2011-KHK-650/7 md. İptal: Anayasa Mahkemesi’nin 18/7/2012 tarihli ve E.: 2011/113 K.: 2012/108 sayılı Kararı ile.; Yeniden düzenleme: 27/6/2013 – 6494/10 md.)\n 1. Başkanlık Kuruluna seçilecek asıl ve yedek üyeler Danıştay Genel Kurulunca seçilir. Başkanlık Kurulu üyeliğine aynı daireden birden fazla kimse seçilemez.\n 2. Başkanlık Kurulu, üye tamsayısı ile toplanır. Asıl üyelerden birinin Kurula katılamaması hâlinde, noksanlık yedeği ile tamamlanır.\n 3. Başkanlık Kurulu üyeleri kendileri ile ilgili konularda Kurul toplantılarına katılamazlar.\n 4. Başkanlık Kuruluna seçilecek olanların tamamının bir oy pusulasında gösterilmesi suretiyle oy kullanılması da mümkündür. Aday çıkmadığı veya yeter sayıda başvuru olmadığı takdirde Başkanlar Kurulu tarafından gizli oyla ve oy çokluğu ile adaylar dışından seçilebileceklerin üç katı aday gösterilir. Seçimler 10 uncu madde hükümleri gereğince yapılır.\n 5. Başkanlık Kuruluna seçilenlerin görev süresi iki yıl olup bir seçim dönemi geçmeden yeniden seçilemezler.\n 6. Başkanlık Kurulu üyeliğine seçilen daire başkan ve üyelerinin seçim süresi dolmadan bu sıfatları değiştiğinde Kurul üyeliğinden ayrılmış sayılırlar.\n 7. Başkanlık Kurulu üyeliğinin herhangi bir nedenle boşalması hâlinde on beş gün içinde boşalan üyelik için seçim yapılır ve seçilen üye, yerine seçildiği üyenin süresini tamamlar.",
+      "preview": "(Ek: 8/8/2011-KHK-650/7 md. İptal: Anayasa Mahkemesi’nin 18/7/2012 tarihli ve E.: 2011/113 K.: 2012/108 sayılı Kararı ile.; Yeniden düzenlem…",
+      "kitap": null,
+      "kisim": null,
+      "bolum": "ÜÇÜNCÜ BÖLÜM · Daire ve Kurullar",
+      "ayirim": null,
+      "maddeBaslik": "Başkanlık Kurulu üyelerinin seçimleri[28]",
+      "sectionPath": [
+        "ÜÇÜNCÜ BÖLÜM · Daire ve Kurullar",
+        "Başkanlık Kurulu üyelerinin seçimleri[28]"
       ]
     },
     {
@@ -435,7 +469,7 @@
       "maddeKind": "madde",
       "maddeNo": "26",
       "heading": "Madde 26",
-      "text": "(Değişik : 2/6/2000 - 4575/3 md.)\n (Değişik birinci fıkra : 9/2/2011-6110/3 md.) İdari uyuşmazlıklar ve davalar; İkinci, Üçüncü, Dördüncü, Beşinci, Altıncı, Yedinci, Sekizinci, Dokuzuncu ve Onuncu daireler ile idari ve vergi dava daireleri kurullarında incelenir ve karara bağlanır.[32]\n (Yeniden düzenleme: 27/6/2013 – 6494/11 md.; Değişik ikinci fıkra: 2/12/2014-6572/13 md.) Başkanlık Kurulu, iş yükü bakımından zorunluluk doğması hâlinde vergi dava daireleri, idari dava daireleri veya idari dairelerden birinin veya birkaçının görev alanını değiştirerek bu daireleri; vergi dava dairesi, idari dava dairesi veya idari daire olarak görevlendirebilir.\n (Yeniden düzenleme: 27/6/2013 – 6494/11 md.) Görevlendirilen dairedeki dosyaların vergi ve idari uyuşmazlıklara ilişkin görev ayrımı gözetilerek hangi daireye ve nasıl devredileceği, görevlendirilen daireye görevlendirildiği alan içinde hangi daire işlerinin verileceği hususları Başkanlık Kurulu kararıyla belirlenir. Bu kararlar Resmî Gazete’de yayımlanır ve yayımını izleyen ay başından itibaren uygulanır.\n Daire Başkanı ve üyeleri, dairenin görevlendirildiği işlere bakan dava dairesi genel kuruluna katılır.\n\n İkinci dairenin görevleri\n Madde 26/A - (Ek: 2/6/2004 - 5183/6 md.; Mülga: 9/2/2011-6110/14 md.)",
+      "text": "(Değişik : 2/6/2000 - 4575/3 md.)\n (Değişik birinci fıkra : 9/2/2011-6110/3 md.) İdari uyuşmazlıklar ve davalar; İkinci, Üçüncü, Dördüncü, Beşinci, Altıncı, Yedinci, Sekizinci, Dokuzuncu ve Onuncu daireler ile idari ve vergi dava daireleri kurullarında incelenir ve karara bağlanır.[32]\n (Yeniden düzenleme: 27/6/2013 – 6494/11 md.; Değişik ikinci fıkra: 2/12/2014-6572/13 md.) Başkanlık Kurulu, iş yükü bakımından zorunluluk doğması hâlinde vergi dava daireleri, idari dava daireleri veya idari dairelerden birinin veya birkaçının görev alanını değiştirerek bu daireleri; vergi dava dairesi, idari dava dairesi veya idari daire olarak görevlendirebilir.\n (Yeniden düzenleme: 27/6/2013 – 6494/11 md.) Görevlendirilen dairedeki dosyaların vergi ve idari uyuşmazlıklara ilişkin görev ayrımı gözetilerek hangi daireye ve nasıl devredileceği, görevlendirilen daireye görevlendirildiği alan içinde hangi daire işlerinin verileceği hususları Başkanlık Kurulu kararıyla belirlenir. Bu kararlar Resmî Gazete’de yayımlanır ve yayımını izleyen ay başından itibaren uygulanır.\n Daire Başkanı ve üyeleri, dairenin görevlendirildiği işlere bakan dava dairesi genel kuruluna katılır.",
       "preview": "(Değişik : 2/6/2000 - 4575/3 md.) (Değişik birinci fıkra : 9/2/2011-6110/3 md.) İdari uyuşmazlıklar ve davalar; İkinci, Üçüncü, Dördüncü, Be…",
       "kitap": null,
       "kisim": null,
@@ -445,6 +479,23 @@
       "sectionPath": [
         "DÖRDÜNCÜ BÖLÜM · Danıştay'ın, Daire ve Kurulların Görevleri",
         "İdari uyuşmazlık ve davalarda görev[31]"
+      ]
+    },
+    {
+      "id": "kanun:2575:m:26/A",
+      "maddeKind": "madde",
+      "maddeNo": "26/A",
+      "heading": "Madde 26/A",
+      "text": "(Ek: 2/6/2004 - 5183/6 md.; Mülga: 9/2/2011-6110/14 md.)",
+      "preview": "(Ek: 2/6/2004 - 5183/6 md.; Mülga: 9/2/2011-6110/14 md.)",
+      "kitap": null,
+      "kisim": null,
+      "bolum": "DÖRDÜNCÜ BÖLÜM · Danıştay'ın, Daire ve Kurulların Görevleri",
+      "ayirim": null,
+      "maddeBaslik": "İkinci dairenin görevleri",
+      "sectionPath": [
+        "DÖRDÜNCÜ BÖLÜM · Danıştay'ın, Daire ve Kurulların Görevleri",
+        "İkinci dairenin görevleri"
       ]
     },
     {
@@ -571,8 +622,8 @@
       "maddeKind": "madde",
       "maddeNo": "34",
       "heading": "Madde 34",
-      "text": "(Mülga: 9/2/2011-6110/14 md.)\n\n Onbirinci dairenin görevleri\n Madde 34/A – (Ek: 8/12/1994 - 4055/3 md.; Mülga: 9/2/2011-6110/14 md.)\n\n Onikinci dairenin görevleri\n Madde 34/B – (Ek:8/12/1994 - 4055/3 md.; Mülga: 9/2/2011-6110/14 md.)\n\n Onüçüncü dairenin görevleri\n Madde 34/C – (Ek:2/6/2004 – 5183/9 md.; (Mülga: 9/2/2011-6110/14 md.)",
-      "preview": "(Mülga: 9/2/2011-6110/14 md.) Onbirinci dairenin görevleri Madde 34/A – (Ek: 8/12/1994 - 4055/3 md.; Mülga: 9/2/2011-6110/14 md.) Onikinci d…",
+      "text": "(Mülga: 9/2/2011-6110/14 md.)",
+      "preview": "(Mülga: 9/2/2011-6110/14 md.)",
       "kitap": null,
       "kisim": null,
       "bolum": "DÖRDÜNCÜ BÖLÜM · Danıştay'ın, Daire ve Kurulların Görevleri",
@@ -581,6 +632,57 @@
       "sectionPath": [
         "DÖRDÜNCÜ BÖLÜM · Danıştay'ın, Daire ve Kurulların Görevleri",
         "Onuncu dairenin görevleri"
+      ]
+    },
+    {
+      "id": "kanun:2575:m:34/A",
+      "maddeKind": "madde",
+      "maddeNo": "34/A",
+      "heading": "Madde 34/A",
+      "text": "(Ek: 8/12/1994 - 4055/3 md.; Mülga: 9/2/2011-6110/14 md.)",
+      "preview": "(Ek: 8/12/1994 - 4055/3 md.; Mülga: 9/2/2011-6110/14 md.)",
+      "kitap": null,
+      "kisim": null,
+      "bolum": "DÖRDÜNCÜ BÖLÜM · Danıştay'ın, Daire ve Kurulların Görevleri",
+      "ayirim": null,
+      "maddeBaslik": "Onbirinci dairenin görevleri",
+      "sectionPath": [
+        "DÖRDÜNCÜ BÖLÜM · Danıştay'ın, Daire ve Kurulların Görevleri",
+        "Onbirinci dairenin görevleri"
+      ]
+    },
+    {
+      "id": "kanun:2575:m:34/B",
+      "maddeKind": "madde",
+      "maddeNo": "34/B",
+      "heading": "Madde 34/B",
+      "text": "(Ek:8/12/1994 - 4055/3 md.; Mülga: 9/2/2011-6110/14 md.)",
+      "preview": "(Ek:8/12/1994 - 4055/3 md.; Mülga: 9/2/2011-6110/14 md.)",
+      "kitap": null,
+      "kisim": null,
+      "bolum": "DÖRDÜNCÜ BÖLÜM · Danıştay'ın, Daire ve Kurulların Görevleri",
+      "ayirim": null,
+      "maddeBaslik": "Onikinci dairenin görevleri",
+      "sectionPath": [
+        "DÖRDÜNCÜ BÖLÜM · Danıştay'ın, Daire ve Kurulların Görevleri",
+        "Onikinci dairenin görevleri"
+      ]
+    },
+    {
+      "id": "kanun:2575:m:34/C",
+      "maddeKind": "madde",
+      "maddeNo": "34/C",
+      "heading": "Madde 34/C",
+      "text": "(Ek:2/6/2004 – 5183/9 md.; (Mülga: 9/2/2011-6110/14 md.)",
+      "preview": "(Ek:2/6/2004 – 5183/9 md.; (Mülga: 9/2/2011-6110/14 md.)",
+      "kitap": null,
+      "kisim": null,
+      "bolum": "DÖRDÜNCÜ BÖLÜM · Danıştay'ın, Daire ve Kurulların Görevleri",
+      "ayirim": null,
+      "maddeBaslik": "Onüçüncü dairenin görevleri",
+      "sectionPath": [
+        "DÖRDÜNCÜ BÖLÜM · Danıştay'ın, Daire ve Kurulların Görevleri",
+        "Onüçüncü dairenin görevleri"
       ]
     },
     {
@@ -877,7 +979,7 @@
       "maddeKind": "madde",
       "maddeNo": "52",
       "heading": "Madde 52",
-      "text": "(Yeniden düzenleme: 27/6/2013-6494/13 md.)\n 1. Başkanlar Kurulunun görevleri şunlardır:\n a) (Mülga: 2/12/2014-6572/17 md.)\n b) (Mülga: 2/12/2014-6572/17 md.)\n c) (Mülga: 2/12/2014-6572/17 md.)\n d) (Mülga: 2/12/2014-6572/17 md.)\n e) Danıştay daireleri arasında çıkan görev uyuşmazlıklarını karara bağlamak\n f) Ayrı yargı çevrelerinde bulunan idare ve vergi mahkemeleri arasında görev ve yetkiye ilişkin uyuşmazlıklarda ve bağlantılı davalarda merci tayinini yapmak\n g) Danıştay Başkanının Kurulda görüşülmesini uygun gördüğü işleri görüşmek ve karara bağlamak\n 2. Başkanlar Kurulu, Danıştay Başkanının davetiyle toplanır.\n 3. (Değişik: 2/12/2014-6572/17 md.) Başkanlar Kurulunun kararları kesin olup bu kararlar aleyhine başka bir yargı merciine başvurulamaz.\n\n Başkanlık Kurulunun görevleri[40]\n Madde 52/A– (Ek: 8/8/2011-KHK-650/8 md.; İptal: Anayasa Mahkemesi’nin 18/7/2012 tarihli ve E.: 2011/113 K.: 2012/108 sayılı Kararı ile.; Yeniden düzenleme: 27/6/2013-6494/14 md.; Değişik: 2/12/2014-6572/18 md.)\n 1. Başkanlık Kurulunun görevleri şunlardır:\n a) Üyelerin görev yerlerini, dairelerin iş durumunu ve ihtiyaçlarını göz önünde tutarak belirlemek.\n b) Zorunlu hâllerde daire başkanı ve üyelerin dairelerini değiştirmek.\n c) Danıştay tetkik hâkimlerinin çalışacakları daireleri, kurulları ve görecekleri işleri belli etmek ve gerektiğinde yerlerini değiştirmek.\n d) Daireler arasında iş bölümünü belirlemek.\n e) Yetkili merciin neresi olduğu belirtilmemiş olan yönetim işlerini belli etmek veya bu işleri yapmak.\n f) Kanunlarla verilen diğer görevleri yerine getirmek.\n 2. (İptal: Anayasa Mahkemesi’nin 10/2/2016 tarihli ve E.: 2015/18, K.: 2016/12 sayılı Kararı ile.; Yeniden düzenleme: 1/7/2016-6723/10 md.) Başkanlık Kurulunun kararlarına karşı ilgililerce Başkanlar Kuruluna yedi gün içinde itiraz edilebilir. Başkanlar Kurulu, Başkanlık Kurulu kararlarını aynen onaylayabileceği gibi değiştirerek de onaylayabilir. İtiraz üzerine verilen kararlar kesin olup, bu kararlar aleyhine başka bir yargı merciine başvurulamaz.",
+      "text": "(Yeniden düzenleme: 27/6/2013-6494/13 md.)\n 1. Başkanlar Kurulunun görevleri şunlardır:\n a) (Mülga: 2/12/2014-6572/17 md.)\n b) (Mülga: 2/12/2014-6572/17 md.)\n c) (Mülga: 2/12/2014-6572/17 md.)\n d) (Mülga: 2/12/2014-6572/17 md.)\n e) Danıştay daireleri arasında çıkan görev uyuşmazlıklarını karara bağlamak\n f) Ayrı yargı çevrelerinde bulunan idare ve vergi mahkemeleri arasında görev ve yetkiye ilişkin uyuşmazlıklarda ve bağlantılı davalarda merci tayinini yapmak\n g) Danıştay Başkanının Kurulda görüşülmesini uygun gördüğü işleri görüşmek ve karara bağlamak\n 2. Başkanlar Kurulu, Danıştay Başkanının davetiyle toplanır.\n 3. (Değişik: 2/12/2014-6572/17 md.) Başkanlar Kurulunun kararları kesin olup bu kararlar aleyhine başka bir yargı merciine başvurulamaz.",
       "preview": "(Yeniden düzenleme: 27/6/2013-6494/13 md.) 1. Başkanlar Kurulunun görevleri şunlardır: a) (Mülga: 2/12/2014-6572/17 md.) b) (Mülga: 2/12/201…",
       "kitap": null,
       "kisim": null,
@@ -887,6 +989,23 @@
       "sectionPath": [
         "DÖRDÜNCÜ BÖLÜM · Danıştay'ın, Daire ve Kurulların Görevleri",
         "Başkanlar Kurulunun görevleri[39]"
+      ]
+    },
+    {
+      "id": "kanun:2575:m:52/A",
+      "maddeKind": "madde",
+      "maddeNo": "52/A",
+      "heading": "Madde 52/A",
+      "text": "(Ek: 8/8/2011-KHK-650/8 md.; İptal: Anayasa Mahkemesi’nin 18/7/2012 tarihli ve E.: 2011/113 K.: 2012/108 sayılı Kararı ile.; Yeniden düzenleme: 27/6/2013-6494/14 md.; Değişik: 2/12/2014-6572/18 md.)\n 1. Başkanlık Kurulunun görevleri şunlardır:\n a) Üyelerin görev yerlerini, dairelerin iş durumunu ve ihtiyaçlarını göz önünde tutarak belirlemek.\n b) Zorunlu hâllerde daire başkanı ve üyelerin dairelerini değiştirmek.\n c) Danıştay tetkik hâkimlerinin çalışacakları daireleri, kurulları ve görecekleri işleri belli etmek ve gerektiğinde yerlerini değiştirmek.\n d) Daireler arasında iş bölümünü belirlemek.\n e) Yetkili merciin neresi olduğu belirtilmemiş olan yönetim işlerini belli etmek veya bu işleri yapmak.\n f) Kanunlarla verilen diğer görevleri yerine getirmek.\n 2. (İptal: Anayasa Mahkemesi’nin 10/2/2016 tarihli ve E.: 2015/18, K.: 2016/12 sayılı Kararı ile.; Yeniden düzenleme: 1/7/2016-6723/10 md.) Başkanlık Kurulunun kararlarına karşı ilgililerce Başkanlar Kuruluna yedi gün içinde itiraz edilebilir. Başkanlar Kurulu, Başkanlık Kurulu kararlarını aynen onaylayabileceği gibi değiştirerek de onaylayabilir. İtiraz üzerine verilen kararlar kesin olup, bu kararlar aleyhine başka bir yargı merciine başvurulamaz.",
+      "preview": "(Ek: 8/8/2011-KHK-650/8 md.; İptal: Anayasa Mahkemesi’nin 18/7/2012 tarihli ve E.: 2011/113 K.: 2012/108 sayılı Kararı ile.; Yeniden düzenle…",
+      "kitap": null,
+      "kisim": null,
+      "bolum": "DÖRDÜNCÜ BÖLÜM · Danıştay'ın, Daire ve Kurulların Görevleri",
+      "ayirim": null,
+      "maddeBaslik": "Başkanlık Kurulunun görevleri[40]",
+      "sectionPath": [
+        "DÖRDÜNCÜ BÖLÜM · Danıştay'ın, Daire ve Kurulların Görevleri",
+        "Başkanlık Kurulunun görevleri[40]"
       ]
     },
     {
@@ -1608,7 +1727,7 @@
       "maddeKind": "madde",
       "maddeNo": "95",
       "heading": "Madde 95",
-      "text": "Basına, haber ajanslarına, radyo ve televizyona Danıştayla ilgili bilgi ve demeçler, Danıştay Başkanı veya yetkili kılacağı bir görevli tarafından verilebilir.\n\n Bilgi İşlem Merkezi Müdürlüğü ve görevleri\n Madde 95 /A – (Ek: 31/3/2011-6217/16 md.)\n Bilgi İşlem Merkezi, Danıştay Başkanlığına bağlı olarak görev yapar ve bir müdür yönetiminde yeteri kadar şef, mühendis, programcı, çözümleyici, bilgisayar işletmeni, veri hazırlama ve kontrol işletmeni ile teknisyenden oluşur.\n Bilgi İşlem Merkezi Müdürlüğünün görevleri şunlardır:\n a) Danıştay Başkanlığında bilgi işlem sistemini ilk derece ve bölge idare mahkemeleri bilişim sistemiyle koordineli olarak kurmak, işletmek, bakım ve onarımlarını yapmak veya yaptırmak, bilgi işlem sistemleri ile ilgili teknolojileri ve gelişmeleri takip ederek ihtiyaçlara göre gerekli güncellemeleri yapmak, Danıştay Başkanlığının ihtiyaçlarına göre projeler üreterek yazılım geliştirmek ve güncellemek.\n b) Gerektiğinde, diğer kamu kurum ve kuruluşlarının geliştirmiş olduğu yazılımlarla uyumu sağlamak, uluslararası kapsamda, sistemler arası çevrim içi ve çevrim dışı veri akışını ve koordinasyonu sağlamak, bilişim teknolojileri ile ilgili ulusal ve uluslararası faaliyetlerde Danıştay Başkanlığınca verilen görevleri yerine getirmek.\n c) Danıştayın faaliyet alanına ilişkin olarak hazırlanan karar, mevzuat, genelge, görüş, metin ve belgelerin, Türkiye’nin üyesi olduğu ve yargı yetkisi tanınan uluslararası mahkeme kararlarının, kullanıcıların hizmetine sunulması için gerekli desteği sağlamak.\n d) Danıştay Başkanlığı bilgi sistemlerinde güvenlik politikalarının usul ve esaslarının belirlenmesi, uygulanması ve güncellenerek denetlenmesini sağlamak.\n e) Bilgisayar ve bilgi sistemlerinin kullanılmasında Danıştay Başkanlığınca çıkartılacak esasları hazırlamak, Danıştayın tüm birimlerinde görev yapan bilgisayar kullanıcılarının talepleri de dikkate alınarak gerekli eğitimlerini sağlamak.\n f) Danıştay Başkanlığı tarafından verilen benzeri görevleri yapmak.",
+      "text": "Basına, haber ajanslarına, radyo ve televizyona Danıştayla ilgili bilgi ve demeçler, Danıştay Başkanı veya yetkili kılacağı bir görevli tarafından verilebilir.",
       "preview": "Basına, haber ajanslarına, radyo ve televizyona Danıştayla ilgili bilgi ve demeçler, Danıştay Başkanı veya yetkili kılacağı bir görevli tara…",
       "kitap": null,
       "kisim": null,
@@ -1618,6 +1737,23 @@
       "sectionPath": [
         "DOKUZUNCU BÖLÜM · Çeşitli Hükümler",
         "Basına bilgi verme"
+      ]
+    },
+    {
+      "id": "kanun:2575:m:95/A",
+      "maddeKind": "madde",
+      "maddeNo": "95/A",
+      "heading": "Madde 95/A",
+      "text": "(Ek: 31/3/2011-6217/16 md.)\n Bilgi İşlem Merkezi, Danıştay Başkanlığına bağlı olarak görev yapar ve bir müdür yönetiminde yeteri kadar şef, mühendis, programcı, çözümleyici, bilgisayar işletmeni, veri hazırlama ve kontrol işletmeni ile teknisyenden oluşur.\n Bilgi İşlem Merkezi Müdürlüğünün görevleri şunlardır:\n a) Danıştay Başkanlığında bilgi işlem sistemini ilk derece ve bölge idare mahkemeleri bilişim sistemiyle koordineli olarak kurmak, işletmek, bakım ve onarımlarını yapmak veya yaptırmak, bilgi işlem sistemleri ile ilgili teknolojileri ve gelişmeleri takip ederek ihtiyaçlara göre gerekli güncellemeleri yapmak, Danıştay Başkanlığının ihtiyaçlarına göre projeler üreterek yazılım geliştirmek ve güncellemek.\n b) Gerektiğinde, diğer kamu kurum ve kuruluşlarının geliştirmiş olduğu yazılımlarla uyumu sağlamak, uluslararası kapsamda, sistemler arası çevrim içi ve çevrim dışı veri akışını ve koordinasyonu sağlamak, bilişim teknolojileri ile ilgili ulusal ve uluslararası faaliyetlerde Danıştay Başkanlığınca verilen görevleri yerine getirmek.\n c) Danıştayın faaliyet alanına ilişkin olarak hazırlanan karar, mevzuat, genelge, görüş, metin ve belgelerin, Türkiye’nin üyesi olduğu ve yargı yetkisi tanınan uluslararası mahkeme kararlarının, kullanıcıların hizmetine sunulması için gerekli desteği sağlamak.\n d) Danıştay Başkanlığı bilgi sistemlerinde güvenlik politikalarının usul ve esaslarının belirlenmesi, uygulanması ve güncellenerek denetlenmesini sağlamak.\n e) Bilgisayar ve bilgi sistemlerinin kullanılmasında Danıştay Başkanlığınca çıkartılacak esasları hazırlamak, Danıştayın tüm birimlerinde görev yapan bilgisayar kullanıcılarının talepleri de dikkate alınarak gerekli eğitimlerini sağlamak.\n f) Danıştay Başkanlığı tarafından verilen benzeri görevleri yapmak.",
+      "preview": "(Ek: 31/3/2011-6217/16 md.) Bilgi İşlem Merkezi, Danıştay Başkanlığına bağlı olarak görev yapar ve bir müdür yönetiminde yeteri kadar şef, m…",
+      "kitap": null,
+      "kisim": null,
+      "bolum": "DOKUZUNCU BÖLÜM · Çeşitli Hükümler",
+      "ayirim": null,
+      "maddeBaslik": "Bilgi İşlem Merkezi Müdürlüğü ve görevleri",
+      "sectionPath": [
+        "DOKUZUNCU BÖLÜM · Çeşitli Hükümler",
+        "Bilgi İşlem Merkezi Müdürlüğü ve görevleri"
       ]
     },
     {
@@ -2220,7 +2356,7 @@
       "maddeKind": "madde",
       "maddeNo": "98",
       "heading": "Madde 98",
-      "text": "Bu Kanun hükümlerini Bakanlar Kurulu yürütür.\n\n (I) SAYILI KADRO CETVELİ\n (Ek cetvel:14/11/2024-7532/9 md.)\n KURUMU : DANIŞTAY\n TEŞKİLATI : MERKEZ\n\n UNVANI\n DERECESİ\n ADEDİ\n\n Başkan\n 1\n 1\n\n Başsavcı\n 1\n 1\n\n Başkanvekili\n 1\n 2\n\n Daire Başkanı\n 1\n 12\n\n Üye\n 1\n 96\n\n Savcı\n 1\n 70\n\n Tetkik Hâkimi\n 1-7\n 494\n\n İç Denetçi\n 1-5\n 3\n\n TOPLAM\n 679\n\n 6/1/1982 TARİHLİ VE 2575 SAYILI ANA KANUNA İŞLENEMEYEN HÜKÜMLER:\n 1) 22/3/1990 tarihli ve 3619 sayılı Kanunun geçici maddesi:\n Geçici Madde – Bu Kanunun yürürlüğe girdiği tarihte belediyeler ile il özel idarelerinin seçimle gelen organlarının organlık sıfatlarını kaybetmeleri talebiyle Danıştay dışındaki idari yargı mercilerine intikal etmiş dosyalar, herhangi bir karar verilmeksizin onbeş gün içinde Danıştaya gönderilir.\n\n 2) 2/6/2000 tarihli ve 4575 sayılı Kanunun geçici maddesi:",
+      "text": "Bu Kanun hükümlerini Bakanlar Kurulu yürütür.\n\n (I) SAYILI KADRO CETVELİ\n (Ek cetvel:14/11/2024-7532/9 md.)\n KURUMU : DANIŞTAY\n TEŞKİLATI : MERKEZ\n\n UNVANI\n DERECESİ\n ADEDİ\n\n Başkan\n 1\n 1\n\n Başsavcı\n 1\n 1\n\n Başkanvekili\n 1\n 2\n\n Daire Başkanı\n 1\n 12\n\n Üye\n 1\n 96\n\n Savcı\n 1\n 70\n\n Tetkik Hâkimi\n 1-7\n 494\n\n İç Denetçi\n 1-5\n 3\n\n TOPLAM\n 679\n\n 6/1/1982 TARİHLİ VE 2575 SAYILI ANA KANUNA İŞLENEMEYEN HÜKÜMLER:\n 1) 22/3/1990 tarihli ve 3619 sayılı Kanunun geçici maddesi:\n Geçici Madde – Bu Kanunun yürürlüğe girdiği tarihte belediyeler ile il özel idarelerinin seçimle gelen organlarının organlık sıfatlarını kaybetmeleri talebiyle Danıştay dışındaki idari yargı mercilerine intikal etmiş dosyalar, herhangi bir karar verilmeksizin onbeş gün içinde Danıştaya gönderilir.\n\n 2) 2/6/2000 tarihli ve 4575 sayılı Kanunun geçici maddesi:\n\nGeçici Madde 1 -\nBu Kanunun yürürlüğe girdiği tarihten önce ilk derece mahkemesi olarak Danıştayda açılmış bulunan ve bu Kanunla idare mahkemlerinin görevleri kapsamına alınan davalar Danıştayda sonuçlandırılır.\n\n 3) 9/2/2011 tarihli ve 6110 sayılı Kanunun geçici maddesi:[50]\n\nGeçici Madde 1 -\n(1) Danıştay Başkanlık Kurulu ile Yargıtay Başkanlar Kurulu, bu Kanunla ihdas edilen üye kadrolarına seçim yapılmasından ve dairelerde çalışacak üyelerin belirlenmesinden itibaren bir ay içinde toplanarak daireler arasındaki işbölümüne ilişkin karar tasarısını hazırlar, Danıştayda Genel Kurulun ve Yargıtayda Büyük Genel Kurulun onayına sunar. Danıştayda Genel Kurulun, Yargıtayda Büyük Genel Kurulun işbölümünün onaylanmasına ilişkin kararları Resmî Gazetede yayımlanıp yürürlüğe girinceye kadar bu Kanunla yapılan değişiklikten önceki işbölümüne ilişkin hükümler uygulanmaya devam olunur.\n (2) Daha önce başka dairelerde görülmekte olup da dairesi değiştirilen dava dosyaları mevcut hâlleriyle ilgili daireye gönderilir.\n (3) Bu Kanunla Yargıtayda ihdas edilen üye kadrolarına seçim yapılmasından itibaren onbeş gün içinde Birinci Başkanlık Kurulu yeniden belirlenir. Üyelerin hangi dairelerde görev yapacağını, dairelerin iş durumunu ve ihtiyaçlarını göz önünde tutarak, oluşturulan yeni Başkanlık Kurulu belirler.\n\n4 – 31/3/2011 tarihli ve 6217 sayılı Kanunun 17 nci maddesi:\n\nMadde 17 -\nBu Kanuna ekli (1) sayılı listede yer alan kadrolar ihdas edilerek 13/12/1983 tarihli ve 190 sayılı Genel Kadro ve Usulü Hakkında Kanun Hükmünde Kararnamenin eki (I) sayılı cetvelin Danıştay Başkanlığına ait bölümüne, ekli (2) sayılı listede yer alan kadrolar ihdas edilerek 190 sayılı Kanun Hükmünde Kararnamenin eki (I) sayılı cetvelin Yargıtay Başkanlığına ait bölümüne eklenmiştir.[51]\n\n5- 2/12/2014 tarihli ve 6572 sayılı Kanunun 49 uncu maddesi:\n\nMadde 49 -\nBu Kanuna ekli (1) sayılı listede yer alan kadrolar ihdas edilerek 13/12/1983 tarihli ve 190 sayılı Genel Kadro ve Usulü Hakkında Kanun Hükmünde Kararnamenin eki (II) sayılı cetvelin Adalet Bakanlığına ait bölümüne; ekli (2) sayılı listede yer alan kadrolar ihdas edilerek 190 sayılı Kanun Hükmünde Kararnamenin eki (I) sayılı cetvelin, (3) sayılı listede yer alan kadrolar ihdas edilerek (II) sayılı cetvelin Yargıtay Başkanlığına ait bölümüne; ekli (4) sayılı listede yer alan kadrolar ihdas edilerek 190 sayılı Kanun Hükmünde Kararnamenin eki (I) sayılı cetvelin, (5) sayılı listede yer alan kadrolar ihdas edilerek (II) sayılı cetvelin Danıştay Başkanlığına ait bölümüne; ekli (6) sayılı listede yer alan kadrolar ihdas edilerek l90 sayılı Kanun Hükmünde Kararnamenin eki (I) sayılı cetvelin Adalet Bakanlığına ait bölümüne eklenmiştir.[52]\n 2575 SAYILI KANUNA EK VE DEĞİŞİKLİK GETİREN MEVZUATIN VEYA\n ANAYASA MAHKEMESİ TARAFINDAN İPTAL EDİLEN HÜKÜMLERİN\n YÜRÜRLÜĞE GİRİŞ TARİHİNİ GÖSTERİR LİSTE\n\n Değiştiren Kanunun/ KHK’nin İptal Eden\n Anayasa Mahkemesi Kararının Numarası\n 2575 Sayılı Kanunun Değişen veya İptal Edilen Maddeleri\n Yürürlüğe Giriş Tarihi\n\n 3619\n 10, 19, 23, 25, 38, 46, 91, Ek Madde 1, Geçici Madde 18, İşlenemeyen Hüküm\n 10/4/1990\n\n 4055\n 34/A, 34/B\n 11/12/1994\n\n 4492\n 23, 42, 46, 48\n 21/12/1999\n\n 4575\n 24, 26, Geçici Madde 19, İşlenemeyen Hüküm\n 15/6/2000\n\n 5020\n 34\n 26/12/2003\n\n 5183\n 13,16, 24, 26, 26/A, 34/A, 34/B, 37, 41, 42, 43, 44 üncü maddeleri,\n Geçici Madde 20, 21, 22\n 17, 34/C maddeleri\n\n 2/6/2004\n\n 1/1/2005\n\n 5219\n 86\n 1/1/2005\n\n 5917\n Geçici Madde 23\n 10/7/2009\n\n 6110\n 8, 10, 13, 17, 26, 26/A, 27, 28, 29,30, 31, 32, 33, 34, 34/A, 34/B, 34/C, 37 ve İşlenemeyen Hüküm\n 14/2/2011\n\n 6217\n 52, 95/A ve İşlenemeyen Hüküm\n 14/4/2011\n\n KHK/650\n 5, 10, 12, 19, 19/A, 19/B, 26, 27, 52, 52/A, 55, 84, 86\n 85\n 26/8//2011\n\n 1/1/2012\n\n 6352\n 8, 24, 60, 61, Geçici Madde 24, 25\n 5/7/2012\n\n Anayasa Mahkemesinin 18/7/2012 tarihli ve\n E.: 2011/113 K.: 2012/ 108 sayılı Kararı\n 5, 19, 19/A, 19/B, 26, 27, 52, 52/A, 55, 84, 86\n 1/1/2013 tarihinden başlayarak altı ay sonra\n (1/7/2013)\n\n 6494\n 5, 8, 9, 11, 14, 19, 19/A, 19/B, 26, 27, 52, 52/A, 55, 84, 86\n 7/7/2013\n\n 6572\n 8, 11, 13, 14, 16, 17, 26, 27, 41, 42, 52, 52/A, Geçici Madde 24, 26, İşlenemeyen Hüküm\n 12/12/2014\n\n Anayasa Mahkemesi’nin 10/2/2016 tarihli ve\n E.: 2015/18, K.: 2016/12 sayılı Kararı\n 52/A\n 17/5/2016\n\n 6723\n 9, 10, 13, 16, 17, 23, 26, 41, 42, 52/A, Geçici Madde 24, Geçici Madde 27\n 23/7/2016\n\n KHK/696\n 8, 64, Ek Madde 2, Geçici Madde 24, Geçici Madde 27, Geçici Madde 28\n 24/12/2017\n\n 7079\n 8, 64, Ek Madde 2, Geçici Madde 24, Geçici Madde 27, Geçici Madde 28\n 8/3/2018\n\n KHK/703\n 2, 8, 9, 23, 24, 42, 48, 87,\n Geçici Madde 29, Geçici Madde 30,\n 24/6/2018 tarihinde birlikte yapılan Türkiye Büyük Millet Meclisi ve Cumhurbaşkanlığı seçimleri sonucunda Cumhurbaşkanının andiçerek göreve başladığı tarihte (9/7/2018)\n\n 7251\n Geçici Madde 31\n 28/07/2020\n\n Anayasa Mahkemesi’nin 10/12/2020 tarihli ve E.:2016/144 K.:2020/75 sayılı Kararı\n Geçici Madde 27\n 1/10/2021\n\n 7413\n Geçici Madde 24, Geçici Madde 27\n 28/6/2022\n\n 7532\n Ek Madde 3, (I) Sayılı Cetvel\n 27/11/2024\n\n 7547\n Geçici Madde 29\n 16/5/2025\n\n 7589\n Geçici Madde 27\n 23/7/2026 tarihinden itibaren geçerli olmak üzere yayımı tarihinde\n (31/7/2026)\n\n [1] Bu Kanunda geçen \"Devlet Başkanı\" deyimi, 11/1/1983 tarih ve 2779 sayılı Kanunun 1. maddesi gereğince \"Cumhurbaşkanı\" olarak düzeltilmiştir.\n\n [2] Bu Kanunda geçen \"İdari Dava Daireleri Genel Kurulu\" ibareleri, \"İdari Dava Daireleri Kurulu\"; \"Vergi Dava Daireleri Genel Kurulu\" ibareleri, \"Vergi Dava Daireleri \" olarak 2/6/2004 tarihli ve 5183 sayılı Kanunun 15 inci maddesiyle değiştirilmiştir.\n\n [3] 2/7/2018 tarihli 703 sayılı KHK’nin 184 üncü maddesiyle, bu fıkrada yer alan “hükümetle” ibaresi “yürütmeyle” ve “Başbakanlık” ibaresi “Cumhurbaşkanlığı” şeklinde değiştirilmiştir.\n\n [4] 8/8/2011 tarihli ve 650 sayılı KHK’nin 4 üncü maddesiyle, bu maddeye (g) bendinden sonra gelmek üzere (h) bendi eklenmiş ve mevcut bentler buna göre teselsül ettirilmiştir.\n\n [5] 2/7/2012 tarihli ve 6352 sayılı Kanunun 44 üncü maddesiyle, bu maddenin (1) numaralı fıkrasının (d) bendine “Türkiye Büyük Millet Meclisi Genel Sekreterliği,” ibaresi ile (e) bendine “ile düzenleyici ve denetleyici kurumların başkanlıkları,” ibaresi eklenmiş, aynı maddenin (3) numaralı fıkrasında yer alan “yirmi yıl” ibaresi “onbeş yıl” şeklinde değiştirilmiştir.\n\n [6] 2/12/2014 tarihli ve 6572 sayılı Kanunun 7 nci maddesiyle, bu maddenin birinci fıkrasına (d) bendinden sonra gelmek üzere (e) bendi eklenmiş ve diğer bentler buna göre teselsül ettirilmiştir.\n\n [7] 2/7/2018 tarihli 703 sayılı KHK’nin 184 üncü maddesiyle, bu bentte yer alan “Bakanlık,” ibaresinden sonra gelmek üzere “Cumhurbaşkanı yardımcılığı, bakan yardımcılığı,” ibaresi eklenmiştir.\n\n [8] 2/7/2018 tarihli 703 sayılı KHK’nin 184 üncü maddesiyle, bu bentte yer alan “Cumhurbaşkanlığı Genel Sekreterliği,” ibaresinden sonra gelmek üzere “Cumhurbaşkanlığı İdari İşler Başkanlığı,” ibaresi eklenmiştir.\n\n [9] 9/2/2011 tarihli ve 6110 sayılı Kanunun 14 üncü maddesiyle, bu fıkrada yer alan, “yukarıda sayılan görevlerde toplam olarak en az üç yıl “ ibaresi yürürlükten kaldırılmıştır.\n\n [10] 1/7/2016 tarihli ve 6723 sayılı Kanunun 1 inci maddesiyle, bu maddeye ikinci fıkrasından sonra gelmek üzere fıkralar eklenmiş ve diğer fıkralar buna göre teselsül ettirilmiştir.\n\n [11] 2/7/2018 tarihli 703 sayılı KHK’nin 184 üncü maddesiyle, bu fıkrada yer alan “Başbakanlığa” ibaresi “Cumhurbaşkanlığına” şeklinde değiştirilmiştir.\n\n [12] 2/7/2018 tarihli 703 sayılı KHK’nin 184 üncü maddesiyle, bu fıkrada yer alan “Başbakanlığa” ibaresi “Cumhurbaşkanlığına” şeklinde değiştirilmiştir.\n\n [13] 8/8/2011 tarihli ve 650 sayılı KHK’nin 5 inci maddesiyle, bu maddede yer alan “sekiz yıl” ibaresi “dört yıl”, “altı yıl” ibaresi “üç yıl” olarak değiştirilmiştir.\n\n [14] 1/7/2016 tarihli ve 6723 sayılı Kanunun 2 nci maddesiyle, bu maddede yer alan “dört” ibaresi “altı” olarak değiştirilmiştir.\n\n [15] 27/6/2013 tarihli ve 6494 sayılı Kanunun 6 ncı maddesiyle, bu fıkrada yer alan “Başkanlık Kurulu” ibaresi “Başkanlar Kurulu” şeklinde değiştirilmiştir.\n\n [16] 2/12/2014 tarihli ve 6572 sayılı Kanunun 8 inci maddesiyle, bu fıkrada yer alan “Başkanlar” ibaresi “Başkanlık” şeklinde değiştirilmiştir.\n\n [17] Bu madde başlığı “Memurların nitelikleri ve atanmaları” iken, 8/8/2011 tarihli ve 650 sayılı KHK’nin 6 ncı maddesiyle metne işlendiği şekilde değiştirilmiştir.\n\n [18] 2/12/2014 tarihli ve 6572 sayılı Kanunun 9 uncu maddesiyle, bu fıkrada yer alan “ondördü” ibaresi “on beşi”, “biri” ibaresi “ikisi” ve “onbeş” ibaresi “on yedi” şeklinde değiştirilmiştir.\n\n [19] 1/7/2016 tarihli ve 6723 sayılı Kanunun 3 üncü maddesiyle, bu fıkrada yer alan “on beşi” ibaresi “dokuzu”, “ikisi” ibaresi “biri” ve “on yedi” ibaresi “on” şeklinde değiştirilmiştir.\n\n [20] 27/6/2013 tarihli ve 6494 sayılı Kanunun 7 nci maddesiyle, bu fıkrada yer alan “Başkanlık Kurulu” ibaresi “Başkanlar Kurulu” şeklinde değiştirilmiştir.\n\n [21] 2/12/2014 tarihli ve 6572 sayılı Kanunun 10 uncu maddesiyle, bu fıkrada yer alan “Başkanlar” ibaresi “Başkanlık” şeklinde değiştirilmiştir.\n\n [22] 1/7/2016 tarihli ve 6723 sayılı Kanunun 4 üncü maddesiyle, bu fıkrada yer alan “onbeştir” ibaresi “dokuzdur” şeklinde değiştirilmiştir.\n\n [23] Bu madde başlığı “İdari ve vergi dava daireleri genel kurulları” iken, 2/6/2004 tarihli ve 5183 sayılı Kanunun 3 üncü maddesiyle metne işlendiği şekilde değiştirilmiştir.\n\n [24] 2/12/2014 tarihli ve 6572 sayılı Kanunun 12 nci maddesiyle, bu fıkrada yer alan “otuzbir” ibaresi “yirmi beş” şeklinde değiştirilmiştir.\n\n [25] 1/7/2016 tarihli ve 6723 sayılı Kanunun 5 inci maddesiyle, bu fıkrada yer alan “yirmi beş” ibaresi “on beş” ve “onüçtür” ibaresi “on birdir” şeklinde değiştirilmiştir.\n\n [26] 8/8/2011 tarihli ve 650 sayılı KHK’nin 10 uncu maddesiyle, bu madde başlığı “Başkanlık kurulu”iken “Başkanlar Kurulu” ve birinci fıkrasında yer alan “Başkanlık Kurulu” ibaresi “Başkanlar Kurulu” şeklinde değiştirilmiş olup, daha sonra bu düzenleme Anayasa Mahkemesi’nin 18/7/2012 tarihli ve E.: 2011/113 K.: 2012/108 sayılı Kararı ile iptal edilmiş ve 27/6/2013 tarihli ve 6494 sayılı Kanunun 8 inci maddesiyle metne işlendiği şekilde yeniden düzenlenmiştir.\n\n [27] 27/6/2013 tarihli ve 6494 sayılı Kanunun 9 uncu maddesiyle, bu madde başlığı metne işlendiği şekilde yeniden düzenlenmiştir.\n\n [28] 27/6/2013 tarihli ve 6494 sayılı Kanunun 10 uncu maddesiyle, bu madde başlığı metne işlendiği şekilde yeniden düzenlenmiştir.\n\n [29] 2/7/2018 tarihli 703 sayılı KHK’nin 184 üncü maddesiyle, bu bentte yer alan ““Tüzük tasarılarını inceler;” ibaresi madde metninden çıkarılmıştır.\n\n [30] 2/6/2004 tarihli ve 5183 sayılı Kanunun 4 üncü maddesiyle bu bentte yer alan \"Danıştay idari dairelerince“ ibaresi, “Danıştay İdari Dairesince” şeklinde değiştirilmiştir.\n\n [31] 2/12/2014 tarihli ve 6572 sayılı Kanunun 13 üncü maddesiyle, bu maddenin birinci fıkrasında “Ondördüncü ve Onbeşinci” ibaresi “On dördüncü, On beşinci ve On altıncı” şeklinde, üçüncü fıkrasında yer alan “Başkanlar” ibaresi “Başkanlık” şeklinde değiştirilmiştir.\n\n [32] 1/7/2016 tarihli ve 6723 sayılı Kanunun 7 nci maddesiyle, bu fıkrada yer alan “Dokuzuncu, Onuncu, Onbirinci, Onikinci, Onüçüncü, On dördüncü, On beşinci ve On altıncı” ibaresi “Dokuzuncu ve Onuncu” şeklinde değiştirilmiştir.\n\n [33] Bu madde başlığı “Üçüncü dairenin görevleri”iken, 9/2/2011 tarihli ve 6110 sayılı Kanunun 4 üncü maddesiyle metne işlendiği şekilde değiştirilmiştir.\n\n [34] 2/12/2014 tarihli ve 6572 sayılı Kanunun 15 inci maddesiyle, bu maddede yer alan “Birinci Daire ve” ibaresi “Birinci ve On yedinci daireler ile” şeklinde değiştirilmiştir.\n\n [35] 1/7/2016 tarihli ve 6723 sayılı Kanunun 8 inci maddesiyle, bu fıkrada yer alan “Birinci ve On yedinci daireler ile” ibaresi “Birinci Daire ve” şeklinde değiştirilmiştir.\n\n [36] Bu madde başlığı “Birinci dairenin görevleri” iken, 2/12/2014 tarihli ve 6572 sayılı Kanunun 16 ncı maddesiyle metne işlendiği şekilde, aynı maddenin birinci fıkrasında yer alan “Birinci Daire:” ibaresi “Birinci ve On yedinci daireler:” şeklinde değiştirilmiştir.\n\n [37] Bu madde başlığı “Birinci ve On Yedinci dairelerin görevleri” iken, 1/7/2016 tarihli ve 6723 sayılı Kanunun 9 uncu maddesiyle, metne işlendiği şekilde, aynı maddenin birinci fıkrasında yer alan “Birinci ve On yedinci daireler:” ibaresi “Birinci daire:” şeklinde değiştirilmiştir.\n\n [38] 2/7/2018 tarihli 703 sayılı KHK’nin 184 üncü maddesiyle, bu madde başlığında yer alan “Kanun ve tüzük tasarıları ile” ibaresi ile birinci fıkrasında yer alan “kanun tasarı ve teklifleri ile tüzük tasarıları üzerindeki incelemesini,” ibaresi madde metninden çıkarılmıştır.\n\n [39] 8/8/2011 tarihli ve 650 sayılı KHK’nin 10 uncu maddesiyle, bu maddenin başlığı “Başkanlık kurulunun görevleri” iken “Başkanlar Kurulunun görevleri”, birinci fıkrasında yer alan “Başkanlık Kurulu” ibaresi “Başkanlar Kurulu” şeklinde değiştirilmiş, daha sonra Anayasa Mahkemesi’nin 18/7/2012 tarihli ve E.: 2011/113 K.: 2012/108 sayılı Kararı ile bu maddenin başlığı ve birinci fıkrasında yer alan “Başkanlar Kurulu” ibaresi ile a), b) bentleri ile üçüncü fıkrası iptal edilmiş olup, sonra da 27/6/2013 tarihli ve 6494 sayılı Kanunun 13 üncü maddesiyle mezkur madde başlığı ve madde metni metne işlendiği şekilde yeniden düzenlenmiştir.\n\n [40] 27/6/2013 tarihli ve 6494 sayılı Kanunun 14 üncü maddesiyle bu maddenin başlığı metne işlendiği şekilde yeniden düzenlenmiştir.\n\n [41] 2/7/2018 tarihli 703 sayılı KHK’nin 184 üncü maddesiyle, bu bentte yer alan “Kanun tasarı ve teklifleri ile tüzük tasarıları hariç olmak üzere hükümetçe verilecek ivedi veya” ibaresi madde metninden çıkarılmıştır.\n\n [42] Bu maddede yer alan kadrolar için 24/12/2017 tarihli ve 30280 sayılı Resmi Gazete’ye ve 8/3/2018 tarihli ve 30354 (Mükerrer) sayılı Resmi Gazete’ye bakınız.\n\n [43] 1/7/2016 tarihli ve 6723 sayılı Kanunun 11 inci maddesiyle, bu maddenin birinci fıkrasında yer alan “31/12/2016” ibaresi “31/12/2019”, aynı fıkranın (a) bendinde yer alan “yirmi” ibaresi “on dört” ve (c) bendinde yer alan “onbeştir” ibaresi “on birdir” şeklinde değiştirilmiştir.\n\n [44] 2/12/2014 tarihli ve 6572 sayılı Kanunun 19 uncu maddesiyle, bu fıkrada yer alan “Bu Kanunun yayımı tarihinden itibaren üç yıl süreyle” ibaresi “31/12/2016 tarihine kadar” şeklinde değiştirilmiştir.\n\n [45] 20/11/2017 tarihli ve 696 sayılı KHK’nin 34 üncü maddesiyle, bu fıkrada yer alan “31/12/2019” ibaresi “31/12/2022” şeklinde değiştirilmiş, daha sonra bu hüküm 1/2/2018 tarihli ve 7079 sayılı Kanunun 29 uncu maddesiyle aynen kabul edilerek kanunlaşmıştır.\n\n [46] 23/6/2022 tarihli ve 7413 sayılı Kanunun 15 inci maddesiyle bu fıkrada yer alan “31/12/2022” ibaresi “31/12/2026” şeklinde değiştirilmiştir.\n\n [47] 20/11/2017 tarihli ve 696 sayılı KHK’nin 35 inci maddesiyle, bu fıkrada yer alan “üç” ibaresi “altı” şeklinde değiştirilmiş, daha sonra bu hüküm 1/2/2018 tarihli ve 7079 sayılı Kanunun 30 uncu maddesiyle aynen kabul edilerek kanunlaşmıştır.\n\n [48] 23/6/2022 tarihli ve 7413 sayılı Kanunun 16 ncı maddesiyle bu fıkrada yer alan “altı” ibaresi “on” şeklinde değiştirilmiştir.\n\n [49] 16/7/2026 tarihli ve 7589 sayılı Kanunun 3 üncü maddesiyle bu fıkrada yer alan “on yıl” ibaresi “on dört yıl” şeklinde değiştirilmiştir.\n\n [50] Bu madddede yer alan kadrolarla ilgili olarak 14/2/2011 tarihli ve 27846 sayılı Resmi Gazete’ye bakınız.\n\n [51] Bu madddede yer alan kadrolarla ilgili olarak 14/4/2011 tarihli ve 27905 sayılı Resmi Gazete’ye bakınız.\n\n [52] Bu madddede yer alan kadrolarla ilgili olarak 12/12/2014 tarihli ve 29203 Mükerrer sayılı Resmi Gazete’ye bakınız.",
       "preview": "Bu Kanun hükümlerini Bakanlar Kurulu yürütür. (I) SAYILI KADRO CETVELİ (Ek cetvel:14/11/2024-7532/9 md.) KURUMU : DANIŞTAY TEŞKİLATI : MERKE…",
       "kitap": null,
       "kisim": null,
@@ -2230,74 +2366,6 @@
       "sectionPath": [
         "ONUNCU BÖLÜM · Son Hükümler",
         "Yürütme"
-      ]
-    },
-    {
-      "id": "kanun:2575:m:gecici:1",
-      "maddeKind": "gecici",
-      "maddeNo": "1",
-      "heading": "Geçici Madde 1",
-      "text": "Bu Kanunun yürürlüğe girdiği tarihten önce ilk derece mahkemesi olarak Danıştayda açılmış bulunan ve bu Kanunla idare mahkemlerinin görevleri kapsamına alınan davalar Danıştayda sonuçlandırılır.\n\n 3) 9/2/2011 tarihli ve 6110 sayılı Kanunun geçici maddesi:[50]",
-      "preview": "Bu Kanunun yürürlüğe girdiği tarihten önce ilk derece mahkemesi olarak Danıştayda açılmış bulunan ve bu Kanunla idare mahkemlerinin görevler…",
-      "kitap": null,
-      "kisim": null,
-      "bolum": "ONUNCU BÖLÜM · Son Hükümler",
-      "ayirim": null,
-      "maddeBaslik": "Yürütme",
-      "sectionPath": [
-        "ONUNCU BÖLÜM · Son Hükümler",
-        "Yürütme"
-      ]
-    },
-    {
-      "id": "kanun:2575:m:gecici:1",
-      "maddeKind": "gecici",
-      "maddeNo": "1",
-      "heading": "Geçici Madde 1",
-      "text": "(1) Danıştay Başkanlık Kurulu ile Yargıtay Başkanlar Kurulu, bu Kanunla ihdas edilen üye kadrolarına seçim yapılmasından ve dairelerde çalışacak üyelerin belirlenmesinden itibaren bir ay içinde toplanarak daireler arasındaki işbölümüne ilişkin karar tasarısını hazırlar, Danıştayda Genel Kurulun ve Yargıtayda Büyük Genel Kurulun onayına sunar. Danıştayda Genel Kurulun, Yargıtayda Büyük Genel Kurulun işbölümünün onaylanmasına ilişkin kararları Resmî Gazetede yayımlanıp yürürlüğe girinceye kadar bu Kanunla yapılan değişiklikten önceki işbölümüne ilişkin hükümler uygulanmaya devam olunur.\n (2) Daha önce başka dairelerde görülmekte olup da dairesi değiştirilen dava dosyaları mevcut hâlleriyle ilgili daireye gönderilir.\n (3) Bu Kanunla Yargıtayda ihdas edilen üye kadrolarına seçim yapılmasından itibaren onbeş gün içinde Birinci Başkanlık Kurulu yeniden belirlenir. Üyelerin hangi dairelerde görev yapacağını, dairelerin iş durumunu ve ihtiyaçlarını göz önünde tutarak, oluşturulan yeni Başkanlık Kurulu belirler.",
-      "preview": "(1) Danıştay Başkanlık Kurulu ile Yargıtay Başkanlar Kurulu, bu Kanunla ihdas edilen üye kadrolarına seçim yapılmasından ve dairelerde çalış…",
-      "kitap": null,
-      "kisim": null,
-      "bolum": "ONUNCU BÖLÜM · Son Hükümler",
-      "ayirim": null,
-      "maddeBaslik": "Yürütme",
-      "sectionPath": [
-        "ONUNCU BÖLÜM · Son Hükümler",
-        "Yürütme"
-      ]
-    },
-    {
-      "id": "kanun:2575:m:17",
-      "maddeKind": "madde",
-      "maddeNo": "17",
-      "heading": "Madde 17",
-      "text": "Bu Kanuna ekli (1) sayılı listede yer alan kadrolar ihdas edilerek 13/12/1983 tarihli ve 190 sayılı Genel Kadro ve Usulü Hakkında Kanun Hükmünde Kararnamenin eki (I) sayılı cetvelin Danıştay Başkanlığına ait bölümüne, ekli (2) sayılı listede yer alan kadrolar ihdas edilerek 190 sayılı Kanun Hükmünde Kararnamenin eki (I) sayılı cetvelin Yargıtay Başkanlığına ait bölümüne eklenmiştir.[51]",
-      "preview": "Bu Kanuna ekli (1) sayılı listede yer alan kadrolar ihdas edilerek 13/12/1983 tarihli ve 190 sayılı Genel Kadro ve Usulü Hakkında Kanun Hükm…",
-      "kitap": null,
-      "kisim": null,
-      "bolum": "ONUNCU BÖLÜM · Son Hükümler",
-      "ayirim": null,
-      "maddeBaslik": "4 – 31/3/2011 tarihli ve 6217 sayılı Kanunun 17 nci maddesi:",
-      "sectionPath": [
-        "ONUNCU BÖLÜM · Son Hükümler",
-        "4 – 31/3/2011 tarihli ve 6217 sayılı Kanunun 17 nci maddesi:"
-      ]
-    },
-    {
-      "id": "kanun:2575:m:49",
-      "maddeKind": "madde",
-      "maddeNo": "49",
-      "heading": "Madde 49",
-      "text": "Bu Kanuna ekli (1) sayılı listede yer alan kadrolar ihdas edilerek 13/12/1983 tarihli ve 190 sayılı Genel Kadro ve Usulü Hakkında Kanun Hükmünde Kararnamenin eki (II) sayılı cetvelin Adalet Bakanlığına ait bölümüne; ekli (2) sayılı listede yer alan kadrolar ihdas edilerek 190 sayılı Kanun Hükmünde Kararnamenin eki (I) sayılı cetvelin, (3) sayılı listede yer alan kadrolar ihdas edilerek (II) sayılı cetvelin Yargıtay Başkanlığına ait bölümüne; ekli (4) sayılı listede yer alan kadrolar ihdas edilerek 190 sayılı Kanun Hükmünde Kararnamenin eki (I) sayılı cetvelin, (5) sayılı listede yer alan kadrolar ihdas edilerek (II) sayılı cetvelin Danıştay Başkanlığına ait bölümüne; ekli (6) sayılı listede yer alan kadrolar ihdas edilerek l90 sayılı Kanun Hükmünde Kararnamenin eki (I) sayılı cetvelin Adalet Bakanlığına ait bölümüne eklenmiştir.[52]\n 2575 SAYILI KANUNA EK VE DEĞİŞİKLİK GETİREN MEVZUATIN VEYA\n ANAYASA MAHKEMESİ TARAFINDAN İPTAL EDİLEN HÜKÜMLERİN\n YÜRÜRLÜĞE GİRİŞ TARİHİNİ GÖSTERİR LİSTE\n\n Değiştiren Kanunun/ KHK’nin İptal Eden\n Anayasa Mahkemesi Kararının Numarası\n 2575 Sayılı Kanunun Değişen veya İptal Edilen Maddeleri\n Yürürlüğe Giriş Tarihi\n\n 3619\n 10, 19, 23, 25, 38, 46, 91, Ek Madde 1, Geçici Madde 18, İşlenemeyen Hüküm\n 10/4/1990\n\n 4055\n 34/A, 34/B\n 11/12/1994\n\n 4492\n 23, 42, 46, 48\n 21/12/1999\n\n 4575\n 24, 26, Geçici Madde 19, İşlenemeyen Hüküm\n 15/6/2000\n\n 5020\n 34\n 26/12/2003\n\n 5183\n 13,16, 24, 26, 26/A, 34/A, 34/B, 37, 41, 42, 43, 44 üncü maddeleri,\n Geçici Madde 20, 21, 22\n 17, 34/C maddeleri\n\n 2/6/2004\n\n 1/1/2005\n\n 5219\n 86\n 1/1/2005\n\n 5917\n Geçici Madde 23\n 10/7/2009\n\n 6110\n 8, 10, 13, 17, 26, 26/A, 27, 28, 29,30, 31, 32, 33, 34, 34/A, 34/B, 34/C, 37 ve İşlenemeyen Hüküm\n 14/2/2011\n\n 6217\n 52, 95/A ve İşlenemeyen Hüküm\n 14/4/2011\n\n KHK/650\n 5, 10, 12, 19, 19/A, 19/B, 26, 27, 52, 52/A, 55, 84, 86\n 85\n 26/8//2011\n\n 1/1/2012\n\n 6352\n 8, 24, 60, 61, Geçici Madde 24, 25\n 5/7/2012\n\n Anayasa Mahkemesinin 18/7/2012 tarihli ve\n E.: 2011/113 K.: 2012/ 108 sayılı Kararı\n 5, 19, 19/A, 19/B, 26, 27, 52, 52/A, 55, 84, 86\n 1/1/2013 tarihinden başlayarak altı ay sonra\n (1/7/2013)\n\n 6494\n 5, 8, 9, 11, 14, 19, 19/A, 19/B, 26, 27, 52, 52/A, 55, 84, 86\n 7/7/2013\n\n 6572\n 8, 11, 13, 14, 16, 17, 26, 27, 41, 42, 52, 52/A, Geçici Madde 24, 26, İşlenemeyen Hüküm\n 12/12/2014\n\n Anayasa Mahkemesi’nin 10/2/2016 tarihli ve\n E.: 2015/18, K.: 2016/12 sayılı Kararı\n 52/A\n 17/5/2016\n\n 6723\n 9, 10, 13, 16, 17, 23, 26, 41, 42, 52/A, Geçici Madde 24, Geçici Madde 27\n 23/7/2016\n\n KHK/696\n 8, 64, Ek Madde 2, Geçici Madde 24, Geçici Madde 27, Geçici Madde 28\n 24/12/2017\n\n 7079\n 8, 64, Ek Madde 2, Geçici Madde 24, Geçici Madde 27, Geçici Madde 28\n 8/3/2018\n\n KHK/703\n 2, 8, 9, 23, 24, 42, 48, 87,\n Geçici Madde 29, Geçici Madde 30,\n 24/6/2018 tarihinde birlikte yapılan Türkiye Büyük Millet Meclisi ve Cumhurbaşkanlığı seçimleri sonucunda Cumhurbaşkanının andiçerek göreve başladığı tarihte (9/7/2018)\n\n 7251\n Geçici Madde 31\n 28/07/2020\n\n Anayasa Mahkemesi’nin 10/12/2020 tarihli ve E.:2016/144 K.:2020/75 sayılı Kararı\n Geçici Madde 27\n 1/10/2021\n\n 7413\n Geçici Madde 24, Geçici Madde 27\n 28/6/2022\n\n 7532\n Ek Madde 3, (I) Sayılı Cetvel\n 27/11/2024\n\n 7547\n Geçici Madde 29\n 16/5/2025\n\n 7589\n Geçici Madde 27\n 23/7/2026 tarihinden itibaren geçerli olmak üzere yayımı tarihinde\n (31/7/2026)\n\n [1] Bu Kanunda geçen \"Devlet Başkanı\" deyimi, 11/1/1983 tarih ve 2779 sayılı Kanunun 1. maddesi gereğince \"Cumhurbaşkanı\" olarak düzeltilmiştir.\n\n [2] Bu Kanunda geçen \"İdari Dava Daireleri Genel Kurulu\" ibareleri, \"İdari Dava Daireleri Kurulu\"; \"Vergi Dava Daireleri Genel Kurulu\" ibareleri, \"Vergi Dava Daireleri \" olarak 2/6/2004 tarihli ve 5183 sayılı Kanunun 15 inci maddesiyle değiştirilmiştir.\n\n [3] 2/7/2018 tarihli 703 sayılı KHK’nin 184 üncü maddesiyle, bu fıkrada yer alan “hükümetle” ibaresi “yürütmeyle” ve “Başbakanlık” ibaresi “Cumhurbaşkanlığı” şeklinde değiştirilmiştir.\n\n [4] 8/8/2011 tarihli ve 650 sayılı KHK’nin 4 üncü maddesiyle, bu maddeye (g) bendinden sonra gelmek üzere (h) bendi eklenmiş ve mevcut bentler buna göre teselsül ettirilmiştir.\n\n [5] 2/7/2012 tarihli ve 6352 sayılı Kanunun 44 üncü maddesiyle, bu maddenin (1) numaralı fıkrasının (d) bendine “Türkiye Büyük Millet Meclisi Genel Sekreterliği,” ibaresi ile (e) bendine “ile düzenleyici ve denetleyici kurumların başkanlıkları,” ibaresi eklenmiş, aynı maddenin (3) numaralı fıkrasında yer alan “yirmi yıl” ibaresi “onbeş yıl” şeklinde değiştirilmiştir.\n\n [6] 2/12/2014 tarihli ve 6572 sayılı Kanunun 7 nci maddesiyle, bu maddenin birinci fıkrasına (d) bendinden sonra gelmek üzere (e) bendi eklenmiş ve diğer bentler buna göre teselsül ettirilmiştir.\n\n [7] 2/7/2018 tarihli 703 sayılı KHK’nin 184 üncü maddesiyle, bu bentte yer alan “Bakanlık,” ibaresinden sonra gelmek üzere “Cumhurbaşkanı yardımcılığı, bakan yardımcılığı,” ibaresi eklenmiştir.\n\n [8] 2/7/2018 tarihli 703 sayılı KHK’nin 184 üncü maddesiyle, bu bentte yer alan “Cumhurbaşkanlığı Genel Sekreterliği,” ibaresinden sonra gelmek üzere “Cumhurbaşkanlığı İdari İşler Başkanlığı,” ibaresi eklenmiştir.\n\n [9] 9/2/2011 tarihli ve 6110 sayılı Kanunun 14 üncü maddesiyle, bu fıkrada yer alan, “yukarıda sayılan görevlerde toplam olarak en az üç yıl “ ibaresi yürürlükten kaldırılmıştır.\n\n [10] 1/7/2016 tarihli ve 6723 sayılı Kanunun 1 inci maddesiyle, bu maddeye ikinci fıkrasından sonra gelmek üzere fıkralar eklenmiş ve diğer fıkralar buna göre teselsül ettirilmiştir.\n\n [11] 2/7/2018 tarihli 703 sayılı KHK’nin 184 üncü maddesiyle, bu fıkrada yer alan “Başbakanlığa” ibaresi “Cumhurbaşkanlığına” şeklinde değiştirilmiştir.\n\n [12] 2/7/2018 tarihli 703 sayılı KHK’nin 184 üncü maddesiyle, bu fıkrada yer alan “Başbakanlığa” ibaresi “Cumhurbaşkanlığına” şeklinde değiştirilmiştir.\n\n [13] 8/8/2011 tarihli ve 650 sayılı KHK’nin 5 inci maddesiyle, bu maddede yer alan “sekiz yıl” ibaresi “dört yıl”, “altı yıl” ibaresi “üç yıl” olarak değiştirilmiştir.\n\n [14] 1/7/2016 tarihli ve 6723 sayılı Kanunun 2 nci maddesiyle, bu maddede yer alan “dört” ibaresi “altı” olarak değiştirilmiştir.\n\n [15] 27/6/2013 tarihli ve 6494 sayılı Kanunun 6 ncı maddesiyle, bu fıkrada yer alan “Başkanlık Kurulu” ibaresi “Başkanlar Kurulu” şeklinde değiştirilmiştir.\n\n [16] 2/12/2014 tarihli ve 6572 sayılı Kanunun 8 inci maddesiyle, bu fıkrada yer alan “Başkanlar” ibaresi “Başkanlık” şeklinde değiştirilmiştir.\n\n [17] Bu madde başlığı “Memurların nitelikleri ve atanmaları” iken, 8/8/2011 tarihli ve 650 sayılı KHK’nin 6 ncı maddesiyle metne işlendiği şekilde değiştirilmiştir.\n\n [18] 2/12/2014 tarihli ve 6572 sayılı Kanunun 9 uncu maddesiyle, bu fıkrada yer alan “ondördü” ibaresi “on beşi”, “biri” ibaresi “ikisi” ve “onbeş” ibaresi “on yedi” şeklinde değiştirilmiştir.\n\n [19] 1/7/2016 tarihli ve 6723 sayılı Kanunun 3 üncü maddesiyle, bu fıkrada yer alan “on beşi” ibaresi “dokuzu”, “ikisi” ibaresi “biri” ve “on yedi” ibaresi “on” şeklinde değiştirilmiştir.\n\n [20] 27/6/2013 tarihli ve 6494 sayılı Kanunun 7 nci maddesiyle, bu fıkrada yer alan “Başkanlık Kurulu” ibaresi “Başkanlar Kurulu” şeklinde değiştirilmiştir.\n\n [21] 2/12/2014 tarihli ve 6572 sayılı Kanunun 10 uncu maddesiyle, bu fıkrada yer alan “Başkanlar” ibaresi “Başkanlık” şeklinde değiştirilmiştir.\n\n [22] 1/7/2016 tarihli ve 6723 sayılı Kanunun 4 üncü maddesiyle, bu fıkrada yer alan “onbeştir” ibaresi “dokuzdur” şeklinde değiştirilmiştir.\n\n [23] Bu madde başlığı “İdari ve vergi dava daireleri genel kurulları” iken, 2/6/2004 tarihli ve 5183 sayılı Kanunun 3 üncü maddesiyle metne işlendiği şekilde değiştirilmiştir.\n\n [24] 2/12/2014 tarihli ve 6572 sayılı Kanunun 12 nci maddesiyle, bu fıkrada yer alan “otuzbir” ibaresi “yirmi beş” şeklinde değiştirilmiştir.\n\n [25] 1/7/2016 tarihli ve 6723 sayılı Kanunun 5 inci maddesiyle, bu fıkrada yer alan “yirmi beş” ibaresi “on beş” ve “onüçtür” ibaresi “on birdir” şeklinde değiştirilmiştir.\n\n [26] 8/8/2011 tarihli ve 650 sayılı KHK’nin 10 uncu maddesiyle, bu madde başlığı “Başkanlık kurulu”iken “Başkanlar Kurulu” ve birinci fıkrasında yer alan “Başkanlık Kurulu” ibaresi “Başkanlar Kurulu” şeklinde değiştirilmiş olup, daha sonra bu düzenleme Anayasa Mahkemesi’nin 18/7/2012 tarihli ve E.: 2011/113 K.: 2012/108 sayılı Kararı ile iptal edilmiş ve 27/6/2013 tarihli ve 6494 sayılı Kanunun 8 inci maddesiyle metne işlendiği şekilde yeniden düzenlenmiştir.\n\n [27] 27/6/2013 tarihli ve 6494 sayılı Kanunun 9 uncu maddesiyle, bu madde başlığı metne işlendiği şekilde yeniden düzenlenmiştir.\n\n [28] 27/6/2013 tarihli ve 6494 sayılı Kanunun 10 uncu maddesiyle, bu madde başlığı metne işlendiği şekilde yeniden düzenlenmiştir.\n\n [29] 2/7/2018 tarihli 703 sayılı KHK’nin 184 üncü maddesiyle, bu bentte yer alan ““Tüzük tasarılarını inceler;” ibaresi madde metninden çıkarılmıştır.\n\n [30] 2/6/2004 tarihli ve 5183 sayılı Kanunun 4 üncü maddesiyle bu bentte yer alan \"Danıştay idari dairelerince“ ibaresi, “Danıştay İdari Dairesince” şeklinde değiştirilmiştir.\n\n [31] 2/12/2014 tarihli ve 6572 sayılı Kanunun 13 üncü maddesiyle, bu maddenin birinci fıkrasında “Ondördüncü ve Onbeşinci” ibaresi “On dördüncü, On beşinci ve On altıncı” şeklinde, üçüncü fıkrasında yer alan “Başkanlar” ibaresi “Başkanlık” şeklinde değiştirilmiştir.\n\n [32] 1/7/2016 tarihli ve 6723 sayılı Kanunun 7 nci maddesiyle, bu fıkrada yer alan “Dokuzuncu, Onuncu, Onbirinci, Onikinci, Onüçüncü, On dördüncü, On beşinci ve On altıncı” ibaresi “Dokuzuncu ve Onuncu” şeklinde değiştirilmiştir.\n\n [33] Bu madde başlığı “Üçüncü dairenin görevleri”iken, 9/2/2011 tarihli ve 6110 sayılı Kanunun 4 üncü maddesiyle metne işlendiği şekilde değiştirilmiştir.\n\n [34] 2/12/2014 tarihli ve 6572 sayılı Kanunun 15 inci maddesiyle, bu maddede yer alan “Birinci Daire ve” ibaresi “Birinci ve On yedinci daireler ile” şeklinde değiştirilmiştir.\n\n [35] 1/7/2016 tarihli ve 6723 sayılı Kanunun 8 inci maddesiyle, bu fıkrada yer alan “Birinci ve On yedinci daireler ile” ibaresi “Birinci Daire ve” şeklinde değiştirilmiştir.\n\n [36] Bu madde başlığı “Birinci dairenin görevleri” iken, 2/12/2014 tarihli ve 6572 sayılı Kanunun 16 ncı maddesiyle metne işlendiği şekilde, aynı maddenin birinci fıkrasında yer alan “Birinci Daire:” ibaresi “Birinci ve On yedinci daireler:” şeklinde değiştirilmiştir.\n\n [37] Bu madde başlığı “Birinci ve On Yedinci dairelerin görevleri” iken, 1/7/2016 tarihli ve 6723 sayılı Kanunun 9 uncu maddesiyle, metne işlendiği şekilde, aynı maddenin birinci fıkrasında yer alan “Birinci ve On yedinci daireler:” ibaresi “Birinci daire:” şeklinde değiştirilmiştir.\n\n [38] 2/7/2018 tarihli 703 sayılı KHK’nin 184 üncü maddesiyle, bu madde başlığında yer alan “Kanun ve tüzük tasarıları ile” ibaresi ile birinci fıkrasında yer alan “kanun tasarı ve teklifleri ile tüzük tasarıları üzerindeki incelemesini,” ibaresi madde metninden çıkarılmıştır.\n\n [39] 8/8/2011 tarihli ve 650 sayılı KHK’nin 10 uncu maddesiyle, bu maddenin başlığı “Başkanlık kurulunun görevleri” iken “Başkanlar Kurulunun görevleri”, birinci fıkrasında yer alan “Başkanlık Kurulu” ibaresi “Başkanlar Kurulu” şeklinde değiştirilmiş, daha sonra Anayasa Mahkemesi’nin 18/7/2012 tarihli ve E.: 2011/113 K.: 2012/108 sayılı Kararı ile bu maddenin başlığı ve birinci fıkrasında yer alan “Başkanlar Kurulu” ibaresi ile a), b) bentleri ile üçüncü fıkrası iptal edilmiş olup, sonra da 27/6/2013 tarihli ve 6494 sayılı Kanunun 13 üncü maddesiyle mezkur madde başlığı ve madde metni metne işlendiği şekilde yeniden düzenlenmiştir.\n\n [40] 27/6/2013 tarihli ve 6494 sayılı Kanunun 14 üncü maddesiyle bu maddenin başlığı metne işlendiği şekilde yeniden düzenlenmiştir.\n\n [41] 2/7/2018 tarihli 703 sayılı KHK’nin 184 üncü maddesiyle, bu bentte yer alan “Kanun tasarı ve teklifleri ile tüzük tasarıları hariç olmak üzere hükümetçe verilecek ivedi veya” ibaresi madde metninden çıkarılmıştır.\n\n [42] Bu maddede yer alan kadrolar için 24/12/2017 tarihli ve 30280 sayılı Resmi Gazete’ye ve 8/3/2018 tarihli ve 30354 (Mükerrer) sayılı Resmi Gazete’ye bakınız.\n\n [43] 1/7/2016 tarihli ve 6723 sayılı Kanunun 11 inci maddesiyle, bu maddenin birinci fıkrasında yer alan “31/12/2016” ibaresi “31/12/2019”, aynı fıkranın (a) bendinde yer alan “yirmi” ibaresi “on dört” ve (c) bendinde yer alan “onbeştir” ibaresi “on birdir” şeklinde değiştirilmiştir.\n\n [44] 2/12/2014 tarihli ve 6572 sayılı Kanunun 19 uncu maddesiyle, bu fıkrada yer alan “Bu Kanunun yayımı tarihinden itibaren üç yıl süreyle” ibaresi “31/12/2016 tarihine kadar” şeklinde değiştirilmiştir.\n\n [45] 20/11/2017 tarihli ve 696 sayılı KHK’nin 34 üncü maddesiyle, bu fıkrada yer alan “31/12/2019” ibaresi “31/12/2022” şeklinde değiştirilmiş, daha sonra bu hüküm 1/2/2018 tarihli ve 7079 sayılı Kanunun 29 uncu maddesiyle aynen kabul edilerek kanunlaşmıştır.\n\n [46] 23/6/2022 tarihli ve 7413 sayılı Kanunun 15 inci maddesiyle bu fıkrada yer alan “31/12/2022” ibaresi “31/12/2026” şeklinde değiştirilmiştir.\n\n [47] 20/11/2017 tarihli ve 696 sayılı KHK’nin 35 inci maddesiyle, bu fıkrada yer alan “üç” ibaresi “altı” şeklinde değiştirilmiş, daha sonra bu hüküm 1/2/2018 tarihli ve 7079 sayılı Kanunun 30 uncu maddesiyle aynen kabul edilerek kanunlaşmıştır.\n\n [48] 23/6/2022 tarihli ve 7413 sayılı Kanunun 16 ncı maddesiyle bu fıkrada yer alan “altı” ibaresi “on” şeklinde değiştirilmiştir.\n\n [49] 16/7/2026 tarihli ve 7589 sayılı Kanunun 3 üncü maddesiyle bu fıkrada yer alan “on yıl” ibaresi “on dört yıl” şeklinde değiştirilmiştir.\n\n [50] Bu madddede yer alan kadrolarla ilgili olarak 14/2/2011 tarihli ve 27846 sayılı Resmi Gazete’ye bakınız.\n\n [51] Bu madddede yer alan kadrolarla ilgili olarak 14/4/2011 tarihli ve 27905 sayılı Resmi Gazete’ye bakınız.\n\n [52] Bu madddede yer alan kadrolarla ilgili olarak 12/12/2014 tarihli ve 29203 Mükerrer sayılı Resmi Gazete’ye bakınız.",
-      "preview": "Bu Kanuna ekli (1) sayılı listede yer alan kadrolar ihdas edilerek 13/12/1983 tarihli ve 190 sayılı Genel Kadro ve Usulü Hakkında Kanun Hükm…",
-      "kitap": null,
-      "kisim": null,
-      "bolum": "ONUNCU BÖLÜM · Son Hükümler",
-      "ayirim": null,
-      "maddeBaslik": "5- 2/12/2014 tarihli ve 6572 sayılı Kanunun 49 uncu maddesi:",
-      "sectionPath": [
-        "ONUNCU BÖLÜM · Son Hükümler",
-        "5- 2/12/2014 tarihli ve 6572 sayılı Kanunun 49 uncu maddesi:"
       ]
     }
   ]

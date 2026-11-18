@@ -27,6 +27,16 @@ const HTML_ENTITIES: Record<string, string> = {
     lsquo: "'",
     rdquo: '"',
     ldquo: '"',
+    ouml: 'ö',
+    Ouml: 'Ö',
+    uuml: 'ü',
+    Uuml: 'Ü',
+    ccedil: 'ç',
+    Ccedil: 'Ç',
+    scedil: 'ş',
+    Scedil: 'Ş',
+    gbreve: 'ğ',
+    Gbreve: 'Ğ',
 };
 
 export function iframeUrl(no: string, tertip: number, tur = MEVZUAT_TUR_KANUN): string {
@@ -67,21 +77,38 @@ export function htmlToPlainText(html: string): string {
 }
 
 const MADDE_DASH = String.raw`[-.\u2010-\u2015\u2212:]`;
+const MADDE_LETTER = String.raw`[A-Za-zÇĞİÖŞÜÂÎÛçğıöşüâîû]`;
+const MADDE_PREFIX =
+    String.raw`(?:(Mükerrer|MÜKERRER)\s+)?(?:(Ek|EK)\s+)?(?:(Geçici|GEÇİCİ)\s+)?`;
+const MADDE_NUM =
+    String.raw`(\d+)(?:\s*/\s*(${MADDE_LETTER})|(${MADDE_LETTER}))?`;
 
 export function normalizeMaddeHeadings(text: string): string {
     return text.replace(
         new RegExp(
-            `((?:(?:Ek|EK|Geçici|GEÇİCİ)\\s+)?)(Madde|MADDE)\\s+(\\d+[A-Za-z]?)\\s*(${MADDE_DASH})`,
+            `((?:(?:Ek|EK|Geçici|GEÇİCİ|Mükerrer|MÜKERRER)\\s+)*)(Madde|MADDE)\\s+(\\d+)(?:\\s*/\\s*(${MADDE_LETTER})|(${MADDE_LETTER}))?\\s*(${MADDE_DASH})`,
             'g',
         ),
-        (_m, prefix: string, label: string, num: string, dash: string) =>
-            `${(prefix || '').replace(/\s+/g, ' ')}${label} ${num} ${dash}`
+        (
+            _m,
+            prefix: string,
+            label: string,
+            num: string,
+            slash: string | undefined,
+            glued: string | undefined,
+            dash: string,
+        ) => {
+            const suffix = slash ? `/${slash}` : glued || '';
+            return `${(prefix || '').replace(/\s+/g, ' ')}${label} ${num}${suffix} ${dash}`;
+        },
     );
 }
 
 export function countMaddeler(text: string): number {
-    const matches = text.match(/(?:^|\n)\s*(?:(?:Ek|Geçici)\s+)?Madde\s+\d+/gi);
-    return matches?.length ?? 0;
+    const re = new RegExp(MADDE_HEAD_RE.source, MADDE_HEAD_RE.flags);
+    let count = 0;
+    while (re.exec(text)) count += 1;
+    return count;
 }
 
 export function extractKabulTarihi(text: string): string | null {
@@ -113,14 +140,49 @@ export type SplitMadde = {
 };
 
 const MADDE_HEAD_RE = new RegExp(
-    String.raw`(?:^|\n)\s*((?:Ek|EK|Geçici|GEÇİCİ)\s+)?(Madde|MADDE)\s+(\d+[A-Za-z]?)\s*` + MADDE_DASH,
+    String.raw`(?:^|\n)\s*${MADDE_PREFIX}(Madde|MADDE)\s+${MADDE_NUM}\s*` + MADDE_DASH,
     'gi',
 );
 
-function maddeKindFromPrefix(prefix: string): MevzuatMaddeKind {
-    const folded = prefix.trim().toLocaleLowerCase('tr-TR');
-    if (folded.startsWith('ek')) return 'ek';
-    if (folded.startsWith('geçici') || folded.startsWith('gecici')) return 'gecici';
+const APPENDIX_TAIL_RE =
+    /İŞLENEMEYEN\s+HÜK|YÜRÜRLÜĞE\s+GİRİŞ\s+TARİH(?:LERİNİ)?\s+GÖSTER|DEĞİŞİKLİK\s+GETİREN\s+MEVZUAT/i;
+// "1 – 6/10/1988 … sayılı Kanunun geçici maddeleri" / "hükmüdür". A bent such as
+// "2. 13/1/2011 tarihli ve 6102 sayılı …" is ordinary article text, not this list.
+const UNINCORPORATED_ITEM_RE =
+    /(?:^|\n)\s*\d{1,3}\s*(?:[)\]]|[\u2010-\u2015\u2212-])\s+\d{1,2}[./]\d{1,2}[./]\d{2,4}[^\n]{0,160}sayılı[^\n]{0,80}(?:hükm|madde|geçici|kararname)/i;
+
+type MaddeOrder = { n: number; suffix: string };
+
+export function parseMaddeNoOrder(no: string): MaddeOrder | null {
+    const match = new RegExp(
+        String.raw`^(\d+)(?:/(${MADDE_LETTER})|(${MADDE_LETTER}))?$`,
+    ).exec(no.trim());
+    if (!match) return null;
+    return {
+        n: Number(match[1]),
+        suffix: (match[2] || match[3] || '').toLocaleLowerCase('tr-TR'),
+    };
+}
+
+/** True when `next` continues the same madde sequence (gaps allowed, `4` then `4/A`). */
+export function isNextMaddeNo(previous: string | null, next: string): boolean {
+    const cur = parseMaddeNoOrder(next);
+    if (!cur) return false;
+    if (!previous) return true;
+    const prev = parseMaddeNoOrder(previous);
+    if (!prev) return false;
+    if (cur.n > prev.n) return true;
+    if (cur.n < prev.n) return false;
+    if (!prev.suffix && cur.suffix) return true;
+    if (prev.suffix && cur.suffix && cur.suffix.localeCompare(prev.suffix, 'tr') > 0) return true;
+    return false;
+}
+
+function maddeKindFromPrefixes(mukerrer: string, ek: string, gecici: string): MevzuatMaddeKind {
+    if (mukerrer) return 'mukerrer';
+    if (ek && gecici) return 'ekGecici';
+    if (ek) return 'ek';
+    if (gecici) return 'gecici';
     return 'madde';
 }
 
@@ -130,6 +192,10 @@ function maddeHeading(kind: MevzuatMaddeKind, maddeNo: string): string {
             return `Ek Madde ${maddeNo}`;
         case 'gecici':
             return `Geçici Madde ${maddeNo}`;
+        case 'ekGecici':
+            return `Ek Geçici Madde ${maddeNo}`;
+        case 'mukerrer':
+            return `Mükerrer Madde ${maddeNo}`;
         case 'madde':
             return `Madde ${maddeNo}`;
         default: {
@@ -139,10 +205,29 @@ function maddeHeading(kind: MevzuatMaddeKind, maddeNo: string): string {
     }
 }
 
+function maddeNoFromMatch(digits: string, slash: string | undefined, glued: string | undefined): string {
+    if (slash) return `${digits}/${slash}`;
+    if (glued) return `${digits}${glued}`;
+    return digits;
+}
+
+function tailLines(slice: string, count = 8): string {
+    const lines = slice
+        .split('\n')
+        .map((line) => line.trim())
+        .filter(Boolean);
+    return lines.slice(-count).join('\n');
+}
+
+function appendixSignal(slice: string): boolean {
+    const tail = tailLines(slice);
+    return APPENDIX_TAIL_RE.test(tail) || UNINCORPORATED_ITEM_RE.test(tail);
+}
+
 export function splitMaddeler(text: string): SplitMadde[] {
     const normalized = normalizeMaddeHeadings(text);
     const re = new RegExp(MADDE_HEAD_RE.source, MADDE_HEAD_RE.flags);
-    const matches: Array<{
+    const found: Array<{
         index: number;
         headEnd: number;
         kind: MevzuatMaddeKind;
@@ -152,14 +237,44 @@ export function splitMaddeler(text: string): SplitMadde[] {
     while ((match = re.exec(normalized))) {
         const full = match[0];
         const leadingNewline = full.startsWith('\n') ? 1 : 0;
-        matches.push({
+        found.push({
             index: match.index + leadingNewline,
             headEnd: match.index + full.length,
-            kind: maddeKindFromPrefix(match[1] || ''),
-            no: match[3],
+            kind: maddeKindFromPrefixes(match[1] || '', match[2] || '', match[3] || ''),
+            no: maddeNoFromMatch(match[5] || '', match[6], match[7]),
         });
     }
-    if (matches.length === 0) return [];
+    if (found.length === 0) return [];
+
+    const matches: typeof found = [];
+    const lastNo: Record<MevzuatMaddeKind, string | null> = {
+        madde: null,
+        ek: null,
+        gecici: null,
+        ekGecici: null,
+        mukerrer: null,
+    };
+    let appendixMode = false;
+    let consumedUntil = 0;
+    for (const candidate of found) {
+        const between = normalized.slice(consumedUntil, candidate.index);
+        const signal = appendixSignal(between);
+        const follows = isNextMaddeNo(lastNo[candidate.kind], candidate.no);
+        if (appendixMode || signal) {
+            // A cited bent can look like an işlenemeyen list. A later madde that
+            // still continues the sequence is the law itself, not that appendix.
+            const realContinuation = follows && candidate.kind !== 'gecici';
+            if (!realContinuation) {
+                appendixMode = true;
+                continue;
+            }
+            appendixMode = false;
+        }
+        if (!follows && candidate.kind !== 'gecici') continue;
+        matches.push(candidate);
+        lastNo[candidate.kind] = candidate.no;
+        consumedUntil = candidate.headEnd;
+    }
 
     const out: SplitMadde[] = [];
     for (let i = 0; i < matches.length; i += 1) {
@@ -213,6 +328,10 @@ export function maddeRecordId(
             return `${base}:m:ek:${maddeNo}`;
         case 'gecici':
             return `${base}:m:gecici:${maddeNo}`;
+        case 'ekGecici':
+            return `${base}:m:ek-gecici:${maddeNo}`;
+        case 'mukerrer':
+            return `${base}:m:mukerrer:${maddeNo}`;
         default: {
             const _exhaustive: never = maddeKind;
             return _exhaustive;

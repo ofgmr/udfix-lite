@@ -82,7 +82,10 @@ export const PDFViewer: React.FC<PDFViewerProps> = ({ fileUrl, searchQuery = '' 
                     containerRef.current?.ownerDocument.defaultView ?? window;
                 const loadingTask = pdfjs.getDocument(buildPdfDocumentInit(fileUrl, ownerWindow));
                 const newDoc = await loadingTask.promise;
-                if (cancelled) { newDoc.destroy(); return; }
+                if (cancelled) {
+                    void newDoc.loadingTask.destroy();
+                    return;
+                }
 
                 // Swap in the new doc first — React will unmount old PDFPages
                 // with the old doc reference still intact (no race).
@@ -94,7 +97,7 @@ export const PDFViewer: React.FC<PDFViewerProps> = ({ fileUrl, searchQuery = '' 
                 // will have run their cleanup and cancelled their render tasks).
                 if (oldDoc) {
                     // Small delay so React can flush unmount effects before destroy
-                    setTimeout(() => { try { oldDoc.destroy(); } catch { /* ignore */ } }, 300);
+                    setTimeout(() => { void oldDoc.loadingTask.destroy().catch(() => { /* ignore */ }); }, 300);
                 }
 
                 setCurrentPage(1);
@@ -110,7 +113,7 @@ export const PDFViewer: React.FC<PDFViewerProps> = ({ fileUrl, searchQuery = '' 
     // Cleanup on unmount
     useEffect(() => {
         return () => {
-            if (docRef.current) { try { docRef.current.destroy(); } catch { /* ignore */ } }
+            if (docRef.current) { void docRef.current.loadingTask.destroy().catch(() => { /* ignore */ }); }
         };
     }, []);
 

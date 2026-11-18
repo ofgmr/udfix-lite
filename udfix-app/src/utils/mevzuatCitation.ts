@@ -97,14 +97,18 @@ function aliasFuzzyHit(aliasFolded: string, source: MevzuatAliasSource, queryFol
 }
 
 const MADDE_PREFIX = String.raw`(?:m(?:adde|d)?\.?\s*)`;
-const MADDE_NO = String.raw`(\d+[A-Za-z]?)`;
+const MADDE_NO = String.raw`(\d+(?:\/[a-z]|[a-z])?)`;
 const FIKRA = String.raw`(?:\s*\/\s*(\d+))?`;
 
 function maddeKindFromQuery(raw: string): { kind: MevzuatMaddeKind; rest: string } {
     const trimmed = raw.trim();
+    const ekGecici = trimmed.match(/^(?:ek)\s+(?:gecici)\s+(.*)$/i);
+    if (ekGecici) return { kind: 'ekGecici', rest: ekGecici[1] };
+    const mukerrer = trimmed.match(/^(?:mukerrer)\s+(.*)$/i);
+    if (mukerrer) return { kind: 'mukerrer', rest: mukerrer[1] };
     const ek = trimmed.match(/^(?:ek)\s+(.*)$/i);
     if (ek) return { kind: 'ek', rest: ek[1] };
-    const gecici = trimmed.match(/^(?:ge[cç]ici)\s+(.*)$/i);
+    const gecici = trimmed.match(/^(?:gecici)\s+(.*)$/i);
     if (gecici) return { kind: 'gecici', rest: gecici[1] };
     return { kind: 'madde', rest: trimmed };
 }
@@ -260,9 +264,8 @@ export function parseMevzuatCitation(
     if (aliasHit && aliasHit.rest) {
         const parsed = parseMaddeAndFikra(aliasHit.rest);
         if (parsed) {
-            const kindFromRest = matchAlias(folded, index) ? maddeKindFromQuery(folded).kind : maddeKindHint;
-            const maddeKind =
-                aliasHit.rest !== afterKindQuery && maddeKindHint !== 'madde' ? maddeKindHint : kindFromRest;
+            const kindFromRest = maddeKindFromQuery(aliasHit.rest).kind;
+            const maddeKind = kindFromRest !== 'madde' ? kindFromRest : maddeKindHint;
             return {
                 kind: aliasHit.alias.target.kind,
                 instrumentNo: aliasHit.alias.target.no,
@@ -314,6 +317,12 @@ export function formatMaddeCitation(input: {
             break;
         case 'gecici':
             heading = `Geçici m.${input.maddeNo}`;
+            break;
+        case 'ekGecici':
+            heading = `Ek geçici m.${input.maddeNo}`;
+            break;
+        case 'mukerrer':
+            heading = `Mükerrer m.${input.maddeNo}`;
             break;
         case 'madde':
             heading = `m.${input.maddeNo}`;

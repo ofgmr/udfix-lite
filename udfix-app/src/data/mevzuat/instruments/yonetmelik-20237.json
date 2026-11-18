@@ -13,7 +13,7 @@
   "tertip": 5,
   "sourceUrl": "https://www.mevzuat.gov.tr/mevzuat?MevzuatNo=20237&MevzuatTur=7&MevzuatTertip=5",
   "kabulTarihi": null,
-  "maddeCount": 24,
+  "maddeCount": 25,
   "maddeler": [
     {
       "id": "yonetmelik:20237:m:1",
@@ -24,13 +24,10 @@
       "preview": "(1) Bu Yönetmeliğin amacı, mesafeli sözleşmelere ilişkin uygulama usul ve esaslarını düzenlemektir.",
       "kitap": null,
       "kisim": null,
-      "bolum": "BİRİNCİ BÖLÜM · Amaç, Kapsam, Dayanak ve Tanımlar",
+      "bolum": null,
       "ayirim": null,
-      "maddeBaslik": "Amaç",
-      "sectionPath": [
-        "BİRİNCİ BÖLÜM · Amaç, Kapsam, Dayanak ve Tanımlar",
-        "Amaç"
-      ]
+      "maddeBaslik": null,
+      "sectionPath": []
     },
     {
       "id": "yonetmelik:20237:m:2",
@@ -41,11 +38,10 @@
       "preview": "(1) Bu Yönetmelik, mesafeli sözleşmelere uygulanır. (2) Bu Yönetmelik hükümleri; a) Finansal hizmetler, b) Otomatik makineler aracılığıyla y…",
       "kitap": null,
       "kisim": null,
-      "bolum": "BİRİNCİ BÖLÜM · Amaç, Kapsam, Dayanak ve Tanımlar",
+      "bolum": null,
       "ayirim": null,
       "maddeBaslik": "Kapsam",
       "sectionPath": [
-        "BİRİNCİ BÖLÜM · Amaç, Kapsam, Dayanak ve Tanımlar",
         "Kapsam"
       ]
     },
@@ -58,11 +54,10 @@
       "preview": "(1) Bu Yönetmelik, 7/11/2013 tarihli ve 6502 sayılı Tüketicinin Korunması Hakkında Kanunun 48 inci ve 84 üncü maddelerine dayanılarak hazırl…",
       "kitap": null,
       "kisim": null,
-      "bolum": "BİRİNCİ BÖLÜM · Amaç, Kapsam, Dayanak ve Tanımlar",
+      "bolum": null,
       "ayirim": null,
       "maddeBaslik": "Dayanak",
       "sectionPath": [
-        "BİRİNCİ BÖLÜM · Amaç, Kapsam, Dayanak ve Tanımlar",
         "Dayanak"
       ]
     },
@@ -75,11 +70,10 @@
       "preview": "(1) Bu Yönetmeliğin uygulanmasında; a) Dijital içerik: Bilgisayar programı, uygulama, oyun, müzik, video ve metin gibi dijital şekilde sunul…",
       "kitap": null,
       "kisim": null,
-      "bolum": "BİRİNCİ BÖLÜM · Amaç, Kapsam, Dayanak ve Tanımlar",
+      "bolum": null,
       "ayirim": null,
       "maddeBaslik": "Tanımlar",
       "sectionPath": [
-        "BİRİNCİ BÖLÜM · Amaç, Kapsam, Dayanak ve Tanımlar",
         "Tanımlar"
       ]
     },
@@ -207,7 +201,7 @@
       "maddeKind": "madde",
       "maddeNo": "12",
       "heading": "Madde 12",
-      "text": "(Değişik:RG-23/8/2022-31932)(2)\n (1) Satıcı, cayma hakkına konu malın, iade için ön bilgilendirmede belirtilen taşıyıcıya teslim edildiği tarihten itibaren on dört gün içinde, varsa malın tüketiciye teslim masrafları da dahil olmak üzere tahsil edilen tüm ödemeleri iade etmekle yükümlüdür. Ancak tüketicinin malı, iade için öngörülenin haricinde bir taşıyıcı ile iade etmesi durumunda söz konusu yükümlülük malın satıcıya ulaştığı tarihten itibaren başlar. Platform üzerinden kurulan ve bedelin tahsiline aracılık edilen mesafeli sözleşmelerde aracı hizmet sağlayıcı, teslim sonrası bedelin satıcıya aktarıldığı durum hariç olmak üzere bu fıkrada belirtilen ödemelerin tüketiciye iade edilmesinden satıcı ile birlikte müteselsilen sorumludur.\n (2) Malın tesliminden önce cayma hakkının kullanılması durumunda satıcı ile platform üzerinden kurulan ve bedelin tahsiline aracılık edilen mesafeli sözleşmelerde aracı hizmet sağlayıcı, cayma hakkının kullanıldığına ilişkin bildirimin kendisine ulaştığı tarihten itibaren on dört gün içinde, varsa malın tüketiciye teslim masrafları da dahil olmak üzere tahsil edilen tüm ödemeleri iade etmekle yükümlüdür.\n (3) Hizmet ifasına ilişkin sözleşmelerde cayma hakkının kullanılması durumunda sağlayıcı ile platform üzerinden kurulan ve bedelin tahsiline aracılık edilen mesafeli sözleşmelerde aracı hizmet sağlayıcı, cayma hakkının kullanıldığına ilişkin bildirimin kendisine ulaştığı tarihten itibaren on dört gün içinde tahsil edilen tüm ödemeleri iade etmekle yükümlüdür.\n (4) Satıcı veya sağlayıcı, birinci, ikinci ve üçüncü fıkralarda belirtilen tüm geri ödemeleri, (Mülga ibare:RG-24/5/2025-32909)(4) tüketicinin satın alırken kullandığı ödeme aracına uygun bir şekilde ve tüketiciye herhangi bir masraf veya yükümlülük getirmeden tek seferde yapmak zorundadır. Platform üzerinden kurulan mesafeli sözleşmelerde satıcı veya sağlayıcı adına bedel tahsil etmesi halinde, mal veya hizmetin tüketiciye teslim veya ifası sonrası bedelin satıcıya veya sağlayıcıya aktarıldığı durumlar hariç olmak üzere, aracı hizmet sağlayıcı bu yükümlülüğün yerine getirilmesinden satıcı veya sağlayıcı ile birlikte müteselsilen sorumludur. Ödemenin kredi kartı ile yapılmış olması durumunda, 23/2/2006 tarihli ve 5464 sayılı Banka Kartları ve Kredi Kartları Kanunu kapsamındaki kart çıkaran kuruluşlar; satıcı, sağlayıcı veya aracı hizmet sağlayıcı tarafından aktarılan tutarı, kendilerine ulaşmasını takiben kart hamilinin kullanılabilir limitine tek seferde ilave etmekle yükümlüdür.\n (5) (Değişik:RG-24/5/2025-32909)(4) Cayma hakkının kullanımında, 5 inci maddenin birinci fıkrasının (g) bendi kapsamında, satıcının iade için belirttiği taşıyıcı aracılığıyla malın geri gönderilmesi halinde, tüketici iadeye ilişkin masraflardan sorumlu tutulamaz. Satıcının ön bilgilendirmede iade için herhangi bir taşıyıcıyı belirtmediği durumda ise tüketiciden iade masrafına ilişkin herhangi bir bedel talep edilemez. İade için ön bilgilendirmede belirtilen taşıyıcının, tüketicinin bulunduğu yerde şubesinin olmaması durumunda satıcı, ilave hiçbir masraf talep etmeksizin iade edilmek istenen malın tüketiciden alınmasını sağlamakla yükümlüdür. Platform üzerinden kurulan mesafeli sözleşmelerde ise iade için öngörülen taşıyıcıya ilişkin bilgiye ön bilgilendirmede yer verilmemesi ya da belirtilen taşıyıcının tüketicinin bulunduğu yerde şubesinin olmaması aracı hizmet sağlayıcıdan kaynaklanıyorsa söz konusu masraf ve yükümlülükler aracı hizmet sağlayıcı tarafından karşılanmak zorundadır.\n (6) Platform üzerinden kurulan mesafeli sözleşmelerde, satıcı veya sağlayıcı, tüketicinin cayma hakkını kullandığına ilişkin kendisine ulaşan bildirimi aracı hizmet sağlayıcıya derhal ulaştırmakla yükümlüdür.\n Aracı hizmet sağlayıcının yükümlülükleri\n MADDE 12/A- (Ek:RG-23/8/2022-31932)(1)\n (1) Aracı hizmet sağlayıcı, platform üzerinden kurulan mesafeli sözleşmelerden doğan hak ve yükümlülüklerin kullanım süresi boyunca tüketicilerin aşağıda belirtilen hususlara ilişkin talep ve bildirimlerini iletebilmelerine ve takip edebilmelerine elverişli bir sistemi kurmak, kesintisiz olarak açık tutmak zorundadır:\n a) Cayma hakkının kullanıldığına dair bildirim.\n b) Sözleşmenin feshine dair bildirim.\n c) Bedel iadesi talebi.\n ç) Tüketicilerin satıcı veya sağlayıcı ile yaptıkları işlemlere ilişkin kayıtların talebi.\n d) Teslimat veya ifaya ilişkin talep ve şikayetler.\n (2) Aracı hizmet sağlayıcı, birinci fıkrada belirtilen talep ve bildirimleri, satıcı veya sağlayıcıya derhal iletmek zorundadır.\n (3) Aracı hizmet sağlayıcı, ön bilgilendirmenin yapılması, teyidi ve ön bilgilendirmenin yapıldığının ispatından satıcı veya sağlayıcı ile birlikte müteselsilen sorumludur.\n (4) Veri girişinin aracı hizmet sağlayıcı tarafından yapıldığı durumlarda, 5 inci maddede belirlenen ön bilgilendirmede bulunulması zorunlu hususlardaki eksikliklerden aracı hizmet sağlayıcı sorumludur.\n (5) Aracı hizmet sağlayıcı, bu Yönetmelikte yer alan hususlardan dolayı tüketicinin satıcı veya sağlayıcılar ile yaptıkları işlemlere ilişkin kayıtların üç yıl boyunca tutulmasından ve istenilmesi halinde bu bilgilerin ilgili kurum ve kuruluşlar ile tüketicilere verilmesinden sorumludur.\n (6) Aracı hizmet sağlayıcı, satıcı veya sağlayıcı ile yaptığı aracılık hizmetine ilişkin sözleşmeye aykırı uygulamaları nedeniyle satıcı ve sağlayıcının Kanunun 48 inci maddesine ve bu Yönetmelik hükümlerine aykırı davranmasına sebep olduğu her bir tüketici işleminden sorumludur.\n (7) Satıcı veya sağlayıcı adına bedel tahsil etmesi halinde aracı hizmet sağlayıcı;\n a) Malın teslimi veya hizmetin ifasından önce tüketicinin cayma hakkını kullanması durumunda cayma hakkının kullanıldığına ilişkin bildirimin kendisine ulaştığı tarihten itibaren,\n b) Malın tesliminden sonra tüketicinin cayma hakkını kullanması durumunda, cayma bildiriminin kendisine ulaştığı tarih itibarıyla bedel satıcıya aktarılmamışsa cayma hakkına konu malın, iade için öngörülen taşıyıcıya teslim edildiği tarihten veya iade için öngörülenin haricinde bir taşıyıcı ile iade edilmesi durumunda da satıcıya ulaştığı tarihten itibaren,(2)\n c) Tüketicinin 16 ncı maddede belirtilen sözleşmeyi fesih hakkını kullanması durumunda fesih bildiriminin kendisine ulaştığı tarihten itibaren,\n on dört gün içinde, tahsil ettiği mal veya hizmet bedeli ile teslimat masraflarının tüketiciye iadesinden, satıcı veya sağlayıcı ile birlikte müteselsilen sorumludur.\n (8) Aracı hizmet sağlayıcı, satıcı veya sağlayıcının onayı olmaksızın düzenlediği kampanyalı, promosyonlu veya indirimli satışlara ilişkin olarak aracılık ettiği mesafeli sözleşmelerde kampanya ve benzeri taahhütlerin karşılanmamasının neden olduğu sözleşmenin hiç ya da gereği gibi ifa edilmemesi hallerinden sorumludur.\n (9) Satışa sunulan mal veya hizmete ilişkin platform üzerinden yapılan reklam ve tanıtımlarda taahhüt edilen bilgiler ile ön bilgilendirmede bulunması zorunlu hususların uyumlu olmasından ve ispatından aracı hizmet sağlayıcı sorumludur.",
+      "text": "(Değişik:RG-23/8/2022-31932)(2)\n (1) Satıcı, cayma hakkına konu malın, iade için ön bilgilendirmede belirtilen taşıyıcıya teslim edildiği tarihten itibaren on dört gün içinde, varsa malın tüketiciye teslim masrafları da dahil olmak üzere tahsil edilen tüm ödemeleri iade etmekle yükümlüdür. Ancak tüketicinin malı, iade için öngörülenin haricinde bir taşıyıcı ile iade etmesi durumunda söz konusu yükümlülük malın satıcıya ulaştığı tarihten itibaren başlar. Platform üzerinden kurulan ve bedelin tahsiline aracılık edilen mesafeli sözleşmelerde aracı hizmet sağlayıcı, teslim sonrası bedelin satıcıya aktarıldığı durum hariç olmak üzere bu fıkrada belirtilen ödemelerin tüketiciye iade edilmesinden satıcı ile birlikte müteselsilen sorumludur.\n (2) Malın tesliminden önce cayma hakkının kullanılması durumunda satıcı ile platform üzerinden kurulan ve bedelin tahsiline aracılık edilen mesafeli sözleşmelerde aracı hizmet sağlayıcı, cayma hakkının kullanıldığına ilişkin bildirimin kendisine ulaştığı tarihten itibaren on dört gün içinde, varsa malın tüketiciye teslim masrafları da dahil olmak üzere tahsil edilen tüm ödemeleri iade etmekle yükümlüdür.\n (3) Hizmet ifasına ilişkin sözleşmelerde cayma hakkının kullanılması durumunda sağlayıcı ile platform üzerinden kurulan ve bedelin tahsiline aracılık edilen mesafeli sözleşmelerde aracı hizmet sağlayıcı, cayma hakkının kullanıldığına ilişkin bildirimin kendisine ulaştığı tarihten itibaren on dört gün içinde tahsil edilen tüm ödemeleri iade etmekle yükümlüdür.\n (4) Satıcı veya sağlayıcı, birinci, ikinci ve üçüncü fıkralarda belirtilen tüm geri ödemeleri, (Mülga ibare:RG-24/5/2025-32909)(4) tüketicinin satın alırken kullandığı ödeme aracına uygun bir şekilde ve tüketiciye herhangi bir masraf veya yükümlülük getirmeden tek seferde yapmak zorundadır. Platform üzerinden kurulan mesafeli sözleşmelerde satıcı veya sağlayıcı adına bedel tahsil etmesi halinde, mal veya hizmetin tüketiciye teslim veya ifası sonrası bedelin satıcıya veya sağlayıcıya aktarıldığı durumlar hariç olmak üzere, aracı hizmet sağlayıcı bu yükümlülüğün yerine getirilmesinden satıcı veya sağlayıcı ile birlikte müteselsilen sorumludur. Ödemenin kredi kartı ile yapılmış olması durumunda, 23/2/2006 tarihli ve 5464 sayılı Banka Kartları ve Kredi Kartları Kanunu kapsamındaki kart çıkaran kuruluşlar; satıcı, sağlayıcı veya aracı hizmet sağlayıcı tarafından aktarılan tutarı, kendilerine ulaşmasını takiben kart hamilinin kullanılabilir limitine tek seferde ilave etmekle yükümlüdür.\n (5) (Değişik:RG-24/5/2025-32909)(4) Cayma hakkının kullanımında, 5 inci maddenin birinci fıkrasının (g) bendi kapsamında, satıcının iade için belirttiği taşıyıcı aracılığıyla malın geri gönderilmesi halinde, tüketici iadeye ilişkin masraflardan sorumlu tutulamaz. Satıcının ön bilgilendirmede iade için herhangi bir taşıyıcıyı belirtmediği durumda ise tüketiciden iade masrafına ilişkin herhangi bir bedel talep edilemez. İade için ön bilgilendirmede belirtilen taşıyıcının, tüketicinin bulunduğu yerde şubesinin olmaması durumunda satıcı, ilave hiçbir masraf talep etmeksizin iade edilmek istenen malın tüketiciden alınmasını sağlamakla yükümlüdür. Platform üzerinden kurulan mesafeli sözleşmelerde ise iade için öngörülen taşıyıcıya ilişkin bilgiye ön bilgilendirmede yer verilmemesi ya da belirtilen taşıyıcının tüketicinin bulunduğu yerde şubesinin olmaması aracı hizmet sağlayıcıdan kaynaklanıyorsa söz konusu masraf ve yükümlülükler aracı hizmet sağlayıcı tarafından karşılanmak zorundadır.\n (6) Platform üzerinden kurulan mesafeli sözleşmelerde, satıcı veya sağlayıcı, tüketicinin cayma hakkını kullandığına ilişkin kendisine ulaşan bildirimi aracı hizmet sağlayıcıya derhal ulaştırmakla yükümlüdür.",
       "preview": "(Değişik:RG-23/8/2022-31932)(2) (1) Satıcı, cayma hakkına konu malın, iade için ön bilgilendirmede belirtilen taşıyıcıya teslim edildiği tar…",
       "kitap": null,
       "kisim": null,
@@ -217,6 +211,23 @@
       "sectionPath": [
         "ÜÇÜNCÜ BÖLÜM · Cayma Hakkının Kullanımı ve Tarafların Yükümlülükleri",
         "Satıcı veya sağlayıcının yükümlülükleri"
+      ]
+    },
+    {
+      "id": "yonetmelik:20237:m:12/A",
+      "maddeKind": "madde",
+      "maddeNo": "12/A",
+      "heading": "Madde 12/A",
+      "text": "(Ek:RG-23/8/2022-31932)(1)\n (1) Aracı hizmet sağlayıcı, platform üzerinden kurulan mesafeli sözleşmelerden doğan hak ve yükümlülüklerin kullanım süresi boyunca tüketicilerin aşağıda belirtilen hususlara ilişkin talep ve bildirimlerini iletebilmelerine ve takip edebilmelerine elverişli bir sistemi kurmak, kesintisiz olarak açık tutmak zorundadır:\n a) Cayma hakkının kullanıldığına dair bildirim.\n b) Sözleşmenin feshine dair bildirim.\n c) Bedel iadesi talebi.\n ç) Tüketicilerin satıcı veya sağlayıcı ile yaptıkları işlemlere ilişkin kayıtların talebi.\n d) Teslimat veya ifaya ilişkin talep ve şikayetler.\n (2) Aracı hizmet sağlayıcı, birinci fıkrada belirtilen talep ve bildirimleri, satıcı veya sağlayıcıya derhal iletmek zorundadır.\n (3) Aracı hizmet sağlayıcı, ön bilgilendirmenin yapılması, teyidi ve ön bilgilendirmenin yapıldığının ispatından satıcı veya sağlayıcı ile birlikte müteselsilen sorumludur.\n (4) Veri girişinin aracı hizmet sağlayıcı tarafından yapıldığı durumlarda, 5 inci maddede belirlenen ön bilgilendirmede bulunulması zorunlu hususlardaki eksikliklerden aracı hizmet sağlayıcı sorumludur.\n (5) Aracı hizmet sağlayıcı, bu Yönetmelikte yer alan hususlardan dolayı tüketicinin satıcı veya sağlayıcılar ile yaptıkları işlemlere ilişkin kayıtların üç yıl boyunca tutulmasından ve istenilmesi halinde bu bilgilerin ilgili kurum ve kuruluşlar ile tüketicilere verilmesinden sorumludur.\n (6) Aracı hizmet sağlayıcı, satıcı veya sağlayıcı ile yaptığı aracılık hizmetine ilişkin sözleşmeye aykırı uygulamaları nedeniyle satıcı ve sağlayıcının Kanunun 48 inci maddesine ve bu Yönetmelik hükümlerine aykırı davranmasına sebep olduğu her bir tüketici işleminden sorumludur.\n (7) Satıcı veya sağlayıcı adına bedel tahsil etmesi halinde aracı hizmet sağlayıcı;\n a) Malın teslimi veya hizmetin ifasından önce tüketicinin cayma hakkını kullanması durumunda cayma hakkının kullanıldığına ilişkin bildirimin kendisine ulaştığı tarihten itibaren,\n b) Malın tesliminden sonra tüketicinin cayma hakkını kullanması durumunda, cayma bildiriminin kendisine ulaştığı tarih itibarıyla bedel satıcıya aktarılmamışsa cayma hakkına konu malın, iade için öngörülen taşıyıcıya teslim edildiği tarihten veya iade için öngörülenin haricinde bir taşıyıcı ile iade edilmesi durumunda da satıcıya ulaştığı tarihten itibaren,(2)\n c) Tüketicinin 16 ncı maddede belirtilen sözleşmeyi fesih hakkını kullanması durumunda fesih bildiriminin kendisine ulaştığı tarihten itibaren,\n on dört gün içinde, tahsil ettiği mal veya hizmet bedeli ile teslimat masraflarının tüketiciye iadesinden, satıcı veya sağlayıcı ile birlikte müteselsilen sorumludur.\n (8) Aracı hizmet sağlayıcı, satıcı veya sağlayıcının onayı olmaksızın düzenlediği kampanyalı, promosyonlu veya indirimli satışlara ilişkin olarak aracılık ettiği mesafeli sözleşmelerde kampanya ve benzeri taahhütlerin karşılanmamasının neden olduğu sözleşmenin hiç ya da gereği gibi ifa edilmemesi hallerinden sorumludur.\n (9) Satışa sunulan mal veya hizmete ilişkin platform üzerinden yapılan reklam ve tanıtımlarda taahhüt edilen bilgiler ile ön bilgilendirmede bulunması zorunlu hususların uyumlu olmasından ve ispatından aracı hizmet sağlayıcı sorumludur.",
+      "preview": "(Ek:RG-23/8/2022-31932)(1) (1) Aracı hizmet sağlayıcı, platform üzerinden kurulan mesafeli sözleşmelerden doğan hak ve yükümlülüklerin kulla…",
+      "kitap": null,
+      "kisim": null,
+      "bolum": "ÜÇÜNCÜ BÖLÜM · Cayma Hakkının Kullanımı ve Tarafların Yükümlülükleri",
+      "ayirim": null,
+      "maddeBaslik": "Aracı hizmet sağlayıcının yükümlülükleri",
+      "sectionPath": [
+        "ÜÇÜNCÜ BÖLÜM · Cayma Hakkının Kullanımı ve Tarafların Yükümlülükleri",
+        "Aracı hizmet sağlayıcının yükümlülükleri"
       ]
     },
     {

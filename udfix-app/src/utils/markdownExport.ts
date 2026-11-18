@@ -1,6 +1,5 @@
 import type { JSONContent } from '@tiptap/core';
 import type { Editor } from '@tiptap/react';
-import { generateHTML } from '@tiptap/core';
 import { MarkdownManager } from '@tiptap/markdown';
 import { saveAs } from 'file-saver';
 import JSZip from 'jszip';

@@ -5,6 +5,7 @@ import * as pdfjs from 'pdfjs-dist/legacy/build/pdf.mjs';
 import { cn } from '../../lib/utils';
 import { enqueueOcr, applyWords } from '../../services/ocrService';
 import { hasExtractablePdfText } from '../../utils/pdfjsDocument';
+import { bindPdfPageTextLayer, preparePdfTextLayer, settlePdfTextLayer } from './pdfTextSelection';
 
 // ─── Module-level OCR result cache ───────────────────────────────────────────
 // PDF fingerprint + sayfa indexi → words[]
@@ -45,12 +46,18 @@ export const PDFPage: React.FC<PDFPageProps> = ({
     const [isOcrRunning, setIsOcrRunning] = useState(false);
 
     useEffect(() => {
+        const layer = textLayerRef.current;
+        if (!layer) return;
+        return bindPdfPageTextLayer(layer);
+    }, []);
+
+    useEffect(() => {
         if (!pdfDocument || !width) return;
 
         ocrDoneRef.current = false;
         const generation = ++renderGenRef.current;
         let mounted = true;
-        let ocrTimer: ReturnType<typeof setTimeout> | null = null;
+        let ocrTimer: number | null = null;
         const canvasEl = canvasRef.current;
         const targetPageIndex = pageIndex;
 
@@ -119,7 +126,7 @@ export const PDFPage: React.FC<PDFPageProps> = ({
                 const textContent = await page.getTextContent();
                 if (isStale()) return;
 
-                tl.style.setProperty('--scale-factor', String(calculatedScale));
+                preparePdfTextLayer(tl, scaledViewport.scale, scaledViewport.userUnit);
 
                 if (hasExtractablePdfText(textContent)) {
                     const textLayer = new (pdfjs as any).TextLayer({
@@ -129,6 +136,7 @@ export const PDFPage: React.FC<PDFPageProps> = ({
                     });
                     textLayerInst.current = textLayer;
                     await textLayer.render();
+                    if (!isStale()) settlePdfTextLayer(tl);
                     if (isStale()) {
                         try { textLayer.cancel(); } catch { /* ignore */ }
                         tl.innerHTML = '';
@@ -139,6 +147,7 @@ export const PDFPage: React.FC<PDFPageProps> = ({
 
                     if (ocrCache.has(key)) {
                         applyWords(ocrCache.get(key)!, tl, 1);
+                        settlePdfTextLayer(tl);
                     } else {
                         ocrTimer = window.setTimeout(() => {
                             void (async () => {
@@ -168,6 +177,7 @@ export const PDFPage: React.FC<PDFPageProps> = ({
                                     if (isStale()) return;
                                     ocrCache.set(key, words);
                                     applyWords(words, tl, 1);
+                                    settlePdfTextLayer(tl);
                                 } catch (err) {
                                     ocrDoneRef.current = false;
                                     console.error(`[OCR] Sayfa ${targetPageIndex + 1} başarısız:`, err);
@@ -279,7 +289,6 @@ export const PDFPage: React.FC<PDFPageProps> = ({
                     WebkitUserSelect: 'text',
                     pointerEvents: 'auto',
                     cursor: 'text',
-                    overflow: 'hidden',
                 }}
             />
 

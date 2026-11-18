@@ -6,6 +6,13 @@ import { HfImageNodeView } from '../components/editor/HfImageNodeView';
 /** Marker class: user-sized HF logos keep stored width; unsized imgs follow ruler max-height. */
 export const HF_SIZED_IMAGE_CLASS = 'hf-sized-img';
 
+declare module '@tiptap/extension-image' {
+    interface SetImageOptions {
+        /** Stored as a CSS length (`64px`) even though the base command types width as a number. */
+        hfSized?: boolean;
+    }
+}
+
 /** Compact resizable image for header/footer mini editors. */
 export const HfImageExtension = Image.extend({
     name: 'image',
@@ -88,6 +95,6 @@ export const HfImageExtension = Image.extend({
     },
 
     addNodeView() {
-        return ReactNodeViewRenderer(HfImageNodeView, { inline: true });
+        return ReactNodeViewRenderer(HfImageNodeView);
     },
 });

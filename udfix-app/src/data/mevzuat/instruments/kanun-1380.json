@@ -12,7 +12,7 @@
   "tertip": 5,
   "sourceUrl": "https://www.mevzuat.gov.tr/mevzuat?MevzuatNo=1380&MevzuatTur=1&MevzuatTertip=5",
   "kabulTarihi": "22/3/1971",
-  "maddeCount": 54,
+  "maddeCount": 51,
   "maddeler": [
     {
       "id": "kanun:1380:m:1",
@@ -25,10 +25,8 @@
       "kisim": null,
       "bolum": null,
       "ayirim": null,
-      "maddeBaslik": "Şümul:",
-      "sectionPath": [
-        "Şümul:"
-      ]
+      "maddeBaslik": null,
+      "sectionPath": []
     },
     {
       "id": "kanun:1380:m:2",
@@ -819,8 +817,8 @@
       "maddeKind": "madde",
       "maddeNo": "41",
       "heading": "Madde 41",
-      "text": "Bu kanunun hükümlerini Bakanlar Kurulu yürütür.",
-      "preview": "Bu kanunun hükümlerini Bakanlar Kurulu yürütür.",
+      "text": "Bu kanunun hükümlerini Bakanlar Kurulu yürütür.\n\n1 - 15/5/1986 tarihli ve 3288 sayılı Kanunun geçici maddeleri:\n\nGeçici Madde 1 -\nHalen faaliyette bulunan sanayi kuruluşları ve işyerleri, bu Kanunun yürürlüğe girmesinden itibaren bir yıl içerisinde, atık suların ve zararlı maddelerin su ürünleri üreme ve istihsal yerlerine ve civarlarına akmasını önleyecek tedbirleri almak ve arıtma tesislerini kurmak ve işletmekle yükümlüdür.\n Bir yıllık süre, zaruri hallerde Bakanlar Kurulu Kararı ile altı ay uzatılabilir.[9]\n\nGeçici Madde 2 -\nBu Kanunun yürürlüğünden önce faaliyetleri men edilmiş bulunan sanayi kuruluşları ile işyerleri hakkında da geçici 1 inci madde hükmü uygulanır ve bunlar bu Kanunun yürürlüğe girdiği tarihten itibaren faaliyetlerine devam edebilirler.\n\nGeçici Madde 3 -\nBu Kanuna göre hazırlanacak yönetmelikler yürürlüğe girinceye kadar, mevcut tüzüğün bu Kanuna aykırı olmayan hükümlerinin uygulanmasına devam edilir.\n 1380 SAYILI KANUNA EK VE DEĞİŞİKLİK GETİREN MEVZUATIN VEYA\n ANAYASA MAHKEMESİ KARARLARININ YÜRÜRLÜĞE GİRİŞ\n TARİHLERİNİ GÖSTERİR TABLO\n\n Değiştiren Kanunun/ KHK’nin veya İptal Eden Anayasa Mahkemesi Kararının Numarası\n 1380 Sayılı Kanunun Değişen veya İptal Edilen Maddeleri\n Yürürlüğe Giriş Tarihi\n\n 3288\n 1, 3, 7, 14, 17, 26, 27, 36\n 28/5/1986\n\n 4916\n 4, Geçici Madde 3\n 19/7/2003\n\n 4950\n 13, 21, 23, 32, 33, 34, 36,\n Ek Madde 3\n (Yayım tarihi olan 29/7/2003’ten altı ay sonra)\n 29/1/2004\n\n 5957\n (6215 ile değişik)\n 26\n 1/1/2012\n\n 5996\n 23, 36\n 13/12/2010\n\n KHK/698\n 18\n 24/6/2018 tarihinde birlikte yapılan Türkiye Büyük Millet Meclisi ve Cumhurbaşkanlığı seçimleri sonucunda Cumhurbaşkanının andiçerek göreve başladığı tarihte\n\n 7191\n 3, 4, 17, 18, 22, 25, 32, 33, 34, 35, 36, Ek Madde 3, Ek Madde 4, Ek Madde 5, Ek Madde 6,\n Ek Madde 7\n 1/1/2020\n\n Anayasa Mahkemesinin 12/11/2020 tarihli ve E.:2020/10; K.::2020/67 sayılı Kararı\n 22\n 17/2/2021\n\n [1] 15/5/1986 tarih ve 3288 sayılı Kanunun 8 inci maddesi ile, bu Kanunda geçen \"Ticaret Bakanlığı\" ile \"Tarım Bakanlığı\" deyimleri \"Tarım Orman ve Köyişleri Bakanlığı\", \"Tüzük\" deyimi ise, \"yönetmelik\" olarak değiştirilmiştir.\n\n [2] 11/3/2010 tarihli ve 5957 sayılı Sebze ve Meyveler ile Yeterli Arz ve Talep Derinliği Bulunan Diğer Malların Ticaretinin Düzenlenmesi Hakkında Kanunun 18 inci maddesiyle, bu Kanunda 5957 sayılı Kanun hükümlerine aykırılık bulunması durumunda mezkur kanun hükümlerinin uygulanacağı hüküm altına alınmıştır.\n\n [3] 22/7/2003 tarihli ve 4950 sayılı Kanunla bu madde başlığı, \"Üretme havuzları:\" iken metne işlendiği şekilde değiştirilmiştir.\n\n [4] 6/11/2019 tarihli ve 7191 sayılı Kanunun 4 üncü maddesiyle bu fıkrada yer alan “Cumhurbaşkanı,” ibaresi “Cumhurbaşkanı yetkilidir.” şeklinde değiştirilmiştir.\n\n [5] 6/11/2019 tarihli ve 7191 sayılı Kanunun 5 inci maddesiyle bu fıkrada yer alan “Tarım Orman ve Köyişleri” ibaresi “Tarım ve Orman” şeklinde değiştirilmiştir.\n\n [6] Anayasa Mahkemesinin 12/11/2020 tarihli ve Esas No.:2020/10; Karar No.:2020/67 sayılı Kararı ile bu fıkranın üçüncü cümlesinde yer alan “…yaptırılır.” ibaresinin “…onayı,…” ve “…kabulü…” ibareleri yönünden iptaline karar verilmiştir.\n\n [7] 6/11/2019 tarihli ve 7191 sayılı Kanunun 6 ncı maddesiyle bu fıkrada yer alan “su ürünleri zabıt ve müsadere edilerek haklarında” ibaresi “su ürünlerine el konulup mülkiyeti kamuya geçirilerek bunlar hakkında” şeklinde değiştirilmiştir.\n\n [8] Önceki madde metninde madde başlığı olmadığı halde 4950 sayılı Kanunun 5 inci maddesinde \"madde başlığı ile değiştirilmiştir\" hükmü yer aldığından anılan Kanunun hükmü olan madde başlığı metne işlenmiştir.\n\n [9] Bu maddede öngörülen bir yıllık süre, Bakanlar Kurulunun 20/5/1987 tarih ve 87/11786 sayılı Kararı ile, 28/5/1987 tarihinden itibaren 6 ay uzatılmıştır.",
+      "preview": "Bu kanunun hükümlerini Bakanlar Kurulu yürütür. 1 - 15/5/1986 tarihli ve 3288 sayılı Kanunun geçici maddeleri: Geçici Madde 1 - Halen faaliy…",
       "kitap": null,
       "kisim": null,
       "bolum": null,
@@ -828,54 +826,6 @@
       "maddeBaslik": "Yürürlükten kaldırılan hükümler:",
       "sectionPath": [
         "Yürürlükten kaldırılan hükümler:"
-      ]
-    },
-    {
-      "id": "kanun:1380:m:gecici:1",
-      "maddeKind": "gecici",
-      "maddeNo": "1",
-      "heading": "Geçici Madde 1",
-      "text": "Halen faaliyette bulunan sanayi kuruluşları ve işyerleri, bu Kanunun yürürlüğe girmesinden itibaren bir yıl içerisinde, atık suların ve zararlı maddelerin su ürünleri üreme ve istihsal yerlerine ve civarlarına akmasını önleyecek tedbirleri almak ve arıtma tesislerini kurmak ve işletmekle yükümlüdür.\n Bir yıllık süre, zaruri hallerde Bakanlar Kurulu Kararı ile altı ay uzatılabilir.[9]",
-      "preview": "Halen faaliyette bulunan sanayi kuruluşları ve işyerleri, bu Kanunun yürürlüğe girmesinden itibaren bir yıl içerisinde, atık suların ve zara…",
-      "kitap": null,
-      "kisim": null,
-      "bolum": null,
-      "ayirim": null,
-      "maddeBaslik": "1 - 15/5/1986 tarihli ve 3288 sayılı Kanunun geçici maddeleri:",
-      "sectionPath": [
-        "1 - 15/5/1986 tarihli ve 3288 sayılı Kanunun geçici maddeleri:"
-      ]
-    },
-    {
-      "id": "kanun:1380:m:gecici:2",
-      "maddeKind": "gecici",
-      "maddeNo": "2",
-      "heading": "Geçici Madde 2",
-      "text": "Bu Kanunun yürürlüğünden önce faaliyetleri men edilmiş bulunan sanayi kuruluşları ile işyerleri hakkında da geçici 1 inci madde hükmü uygulanır ve bunlar bu Kanunun yürürlüğe girdiği tarihten itibaren faaliyetlerine devam edebilirler.",
-      "preview": "Bu Kanunun yürürlüğünden önce faaliyetleri men edilmiş bulunan sanayi kuruluşları ile işyerleri hakkında da geçici 1 inci madde hükmü uygula…",
-      "kitap": null,
-      "kisim": null,
-      "bolum": null,
-      "ayirim": null,
-      "maddeBaslik": "1 - 15/5/1986 tarihli ve 3288 sayılı Kanunun geçici maddeleri:",
-      "sectionPath": [
-        "1 - 15/5/1986 tarihli ve 3288 sayılı Kanunun geçici maddeleri:"
-      ]
-    },
-    {
-      "id": "kanun:1380:m:gecici:3",
-      "maddeKind": "gecici",
-      "maddeNo": "3",
-      "heading": "Geçici Madde 3",
-      "text": "Bu Kanuna göre hazırlanacak yönetmelikler yürürlüğe girinceye kadar, mevcut tüzüğün bu Kanuna aykırı olmayan hükümlerinin uygulanmasına devam edilir.\n 1380 SAYILI KANUNA EK VE DEĞİŞİKLİK GETİREN MEVZUATIN VEYA\n ANAYASA MAHKEMESİ KARARLARININ YÜRÜRLÜĞE GİRİŞ\n TARİHLERİNİ GÖSTERİR TABLO\n\n Değiştiren Kanunun/ KHK’nin veya İptal Eden Anayasa Mahkemesi Kararının Numarası\n 1380 Sayılı Kanunun Değişen veya İptal Edilen Maddeleri\n Yürürlüğe Giriş Tarihi\n\n 3288\n 1, 3, 7, 14, 17, 26, 27, 36\n 28/5/1986\n\n 4916\n 4, Geçici Madde 3\n 19/7/2003\n\n 4950\n 13, 21, 23, 32, 33, 34, 36,\n Ek Madde 3\n (Yayım tarihi olan 29/7/2003’ten altı ay sonra)\n 29/1/2004\n\n 5957\n (6215 ile değişik)\n 26\n 1/1/2012\n\n 5996\n 23, 36\n 13/12/2010\n\n KHK/698\n 18\n 24/6/2018 tarihinde birlikte yapılan Türkiye Büyük Millet Meclisi ve Cumhurbaşkanlığı seçimleri sonucunda Cumhurbaşkanının andiçerek göreve başladığı tarihte\n\n 7191\n 3, 4, 17, 18, 22, 25, 32, 33, 34, 35, 36, Ek Madde 3, Ek Madde 4, Ek Madde 5, Ek Madde 6,\n Ek Madde 7\n 1/1/2020\n\n Anayasa Mahkemesinin 12/11/2020 tarihli ve E.:2020/10; K.::2020/67 sayılı Kararı\n 22\n 17/2/2021\n\n [1] 15/5/1986 tarih ve 3288 sayılı Kanunun 8 inci maddesi ile, bu Kanunda geçen \"Ticaret Bakanlığı\" ile \"Tarım Bakanlığı\" deyimleri \"Tarım Orman ve Köyişleri Bakanlığı\", \"Tüzük\" deyimi ise, \"yönetmelik\" olarak değiştirilmiştir.\n\n [2] 11/3/2010 tarihli ve 5957 sayılı Sebze ve Meyveler ile Yeterli Arz ve Talep Derinliği Bulunan Diğer Malların Ticaretinin Düzenlenmesi Hakkında Kanunun 18 inci maddesiyle, bu Kanunda 5957 sayılı Kanun hükümlerine aykırılık bulunması durumunda mezkur kanun hükümlerinin uygulanacağı hüküm altına alınmıştır.\n\n [3] 22/7/2003 tarihli ve 4950 sayılı Kanunla bu madde başlığı, \"Üretme havuzları:\" iken metne işlendiği şekilde değiştirilmiştir.\n\n [4] 6/11/2019 tarihli ve 7191 sayılı Kanunun 4 üncü maddesiyle bu fıkrada yer alan “Cumhurbaşkanı,” ibaresi “Cumhurbaşkanı yetkilidir.” şeklinde değiştirilmiştir.\n\n [5] 6/11/2019 tarihli ve 7191 sayılı Kanunun 5 inci maddesiyle bu fıkrada yer alan “Tarım Orman ve Köyişleri” ibaresi “Tarım ve Orman” şeklinde değiştirilmiştir.\n\n [6] Anayasa Mahkemesinin 12/11/2020 tarihli ve Esas No.:2020/10; Karar No.:2020/67 sayılı Kararı ile bu fıkranın üçüncü cümlesinde yer alan “…yaptırılır.” ibaresinin “…onayı,…” ve “…kabulü…” ibareleri yönünden iptaline karar verilmiştir.\n\n [7] 6/11/2019 tarihli ve 7191 sayılı Kanunun 6 ncı maddesiyle bu fıkrada yer alan “su ürünleri zabıt ve müsadere edilerek haklarında” ibaresi “su ürünlerine el konulup mülkiyeti kamuya geçirilerek bunlar hakkında” şeklinde değiştirilmiştir.\n\n [8] Önceki madde metninde madde başlığı olmadığı halde 4950 sayılı Kanunun 5 inci maddesinde \"madde başlığı ile değiştirilmiştir\" hükmü yer aldığından anılan Kanunun hükmü olan madde başlığı metne işlenmiştir.\n\n [9] Bu maddede öngörülen bir yıllık süre, Bakanlar Kurulunun 20/5/1987 tarih ve 87/11786 sayılı Kararı ile, 28/5/1987 tarihinden itibaren 6 ay uzatılmıştır.",
-      "preview": "Bu Kanuna göre hazırlanacak yönetmelikler yürürlüğe girinceye kadar, mevcut tüzüğün bu Kanuna aykırı olmayan hükümlerinin uygulanmasına deva…",
-      "kitap": null,
-      "kisim": null,
-      "bolum": null,
-      "ayirim": null,
-      "maddeBaslik": "1 - 15/5/1986 tarihli ve 3288 sayılı Kanunun geçici maddeleri:",
-      "sectionPath": [
-        "1 - 15/5/1986 tarihli ve 3288 sayılı Kanunun geçici maddeleri:"
       ]
     }
   ]

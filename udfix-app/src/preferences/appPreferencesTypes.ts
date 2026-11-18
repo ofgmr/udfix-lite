@@ -18,7 +18,6 @@ export interface AppPreferences {
 }
 
 export const APP_PREFERENCES_CHANGED_EVENT = 'udfix-app-preferences-changed';
-export const NOTIFICATIONS_CHANGED_EVENT = 'udfix-notifications-changed';
 
 export type AppMenuAction =
     | { type: 'preferences-changed'; preferences: AppPreferences }
@@ -28,5 +27,4 @@ export type AppMenuAction =
     | { type: 'open-udf-file'; path: string; name: string }
     | { type: 'open-viewer-file'; path: string; name: string }
     | { type: 'open-calendar' }
-    | { type: 'notifications-changed' }
     | { type: 'katir-license-result'; ok: boolean; error?: string };

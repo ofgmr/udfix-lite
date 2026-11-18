@@ -18,6 +18,7 @@ import {
     type HfExportSegment,
 } from './udfHfExportSegments';
 import { htmlStringToPlainText } from './htmlPlainText';
+import { escapeXmlCdata, stripIllegalXmlChars } from './xmlText';
 import type { UyapSignatureExportOptions } from './uyapSignature';
 import type { UyapParagraphEnd } from './uyapParagraphText';
 import { cssLineHeightToUyapLineSpacing } from './uyapParagraphAttrs';
@@ -187,7 +188,8 @@ export interface UyapExportBuildExtras {
     zipResources?: Record<string, Uint8Array>;
 }
 
-const UYAP_IMAGE_PLACEHOLDER_CHAR = '\u00b8';
+/** Stand-in in the UDF text stream where an `<image>` sits. Not user text. */
+export const UYAP_IMAGE_PLACEHOLDER_CHAR = '\u00b8';
 
 const ALIGN_MAP: Record<string, string> = {
     left: '0',
@@ -210,7 +212,7 @@ const CELL_VALIGN_MAP: Record<string, string> = {
 
 /** Minimal XML 1.0 attribute escaping. */
 export function escapeXmlAttr(value: string): string {
-    return value
+    return stripIllegalXmlChars(value)
         .replace(/&/g, '&amp;')
         .replace(/"/g, '&quot;')
         .replace(/</g, '&lt;');
@@ -343,39 +345,6 @@ function collectFootnotesFromTipTapJson(doc: JSONContent): Array<{ id: string; n
         doc.content.forEach(walk);
     }
     return Array.from(byId.values()).sort((a, b) => a.number - b.number);
-}
-
-function hfEmitPlan(
-    layout: UyapHfLayoutPreset,
-    left: string,
-    center: string,
-    right: string,
-): Array<{ html: string; alignment: string }> {
-    const L = (left || '').trim();
-    const C = (center || '').trim();
-    const R = (right || '').trim();
-    switch (layout) {
-        case '1-col':
-            if (C) return [{ html: center || '', alignment: '1' }];
-            if (L) return [{ html: left || '', alignment: '1' }];
-            if (R) return [{ html: right || '', alignment: '1' }];
-            return [];
-        case '2-col-70-30':
-        case '2-col-80-20':
-        case '2-col-30-70':
-        case '2-col-20-80':
-            return [
-                ...(L ? [{ html: left || '', alignment: '0' }] : []),
-                ...(R ? [{ html: right || '', alignment: '2' }] : []),
-            ];
-        case '3-col-equal':
-        default:
-            return [
-                ...(L ? [{ html: left || '', alignment: '0' }] : []),
-                ...(C ? [{ html: center || '', alignment: '1' }] : []),
-                ...(R ? [{ html: right || '', alignment: '2' }] : []),
-            ];
-    }
 }
 
 const A4_WIDTH_PT = 595.28;
@@ -586,7 +555,7 @@ function buildCommentsXml(
     let elementsInner = '';
     let indx = 0;
     for (const row of ordered) {
-        const text = (row.text || '').replace(/\r\n/g, '\n');
+        const text = stripIllegalXmlChars((row.text || '').replace(/\r\n/g, '\n'));
         if (!text.trim()) continue;
         const range = ranges.get(row.id);
         if (!range || range.endExclusive <= range.start) continue;
@@ -604,7 +573,7 @@ function buildCommentsXml(
     return `<?xml version="1.0" encoding="UTF-8" ?> 
 
 <template format_id="1.8" >
-<content><![CDATA[${commentsCdata}]]></content>
+<content><![CDATA[${escapeXmlCdata(commentsCdata)}]]></content>
 <elements resolver="hvl-default" >
 ${elementsInner}
 </elements>
@@ -638,11 +607,25 @@ function appendUyapParagraphEndContent(
  * so a TipTap hard break is a new paragraph with the same attrs. A paragraph whose
  * only child is a hard break stays one empty paragraph.
  */
+/** Characters the editor paints as a new line (`white-space: pre-wrap`) but UYAP drops inside one paragraph. */
+const EDITOR_LINE_BREAK = /\r\n|\n|\r|\u2028|\u2029|\u000b/;
+
 function splitParagraphContentOnHardBreaks(content: JSONContent[] | undefined): JSONContent[][] {
     const segments: JSONContent[][] = [[]];
+    const pushBreak = () => {
+        segments.push([]);
+    };
     for (const child of content ?? []) {
         if (child.type === 'hardBreak') {
-            segments.push([]);
+            pushBreak();
+            continue;
+        }
+        if (child.type === 'text' && typeof child.text === 'string' && EDITOR_LINE_BREAK.test(child.text)) {
+            const pieces = child.text.split(/\r\n|\n|\r|\u2028|\u2029|\u000b/);
+            pieces.forEach((piece, index) => {
+                if (piece) segments[segments.length - 1].push({ ...child, text: piece });
+                if (index < pieces.length - 1) pushBreak();
+            });
             continue;
         }
         segments[segments.length - 1].push(child);
@@ -658,10 +641,11 @@ function createTextAccumulator(): TextAccumulator {
         rawText: '',
         offset: 0,
         append(text: string) {
+            const safe = stripIllegalXmlChars(text);
             const start = this.offset;
-            this.rawText += text;
-            this.offset += text.length;
-            return { start, length: text.length };
+            this.rawText += safe;
+            this.offset += safe.length;
+            return { start, length: safe.length };
         },
     };
     return acc;
@@ -1165,22 +1149,116 @@ function toRoman(num: number): string {
     return roman;
 }
 
-function getListPrefix(level: number, index: number, isOrdered: boolean): string {
-    if (!isOrdered) return '• ';
-    const i = index + 1;
-    switch (level % 5) {
-        case 0:
-            return `${i}. `;
-        case 1:
-            return `${String.fromCharCode(64 + i)}. `;
-        case 2:
-            return `${String.fromCharCode(96 + i)}. `;
-        case 3:
-            return `${toRoman(i)}. `;
-        case 4:
-            return `(${i}) `;
+type ListStyleName = 'default' | 'legal' | 'roman' | 'paren' | 'outline';
+
+interface ListExportContext {
+    level: number;
+    index: number;
+    ordered: boolean;
+    style: ListStyleName;
+    /** 1-based numbers from the styled list root down to this item. */
+    path: number[];
+}
+
+function asListStyle(raw: unknown, fallback: ListStyleName): ListStyleName {
+    switch (raw) {
+        case 'default':
+        case 'legal':
+        case 'roman':
+        case 'paren':
+        case 'outline':
+            return raw;
         default:
-            return `${i}. `;
+            return fallback;
+    }
+}
+
+function alphaLabel(n: number, upper: boolean): string {
+    if (n <= 0) return upper ? 'A' : 'a';
+    let value = n;
+    let label = '';
+    while (value > 0) {
+        value -= 1;
+        label = String.fromCharCode((upper ? 65 : 97) + (value % 26)) + label;
+        value = Math.floor(value / 26);
+    }
+    return label;
+}
+
+/** Marker text matching the editor list CSS, including the trailing space UDF needs. */
+function getListPrefix(list: ListExportContext): string {
+    if (!list.ordered) return '• ';
+    const n = list.path[list.path.length - 1] ?? list.index + 1;
+    const depth = Math.max(0, list.path.length - 1);
+    const path = list.path.length > 0 ? list.path : [n];
+    if (depth >= 5 && list.style !== 'legal') return '• ';
+    switch (list.style) {
+        case 'legal':
+            return `${path.join('.')}. `;
+        case 'default':
+            switch (depth) {
+                case 0:
+                    return `${n}. `;
+                case 1:
+                    return `${alphaLabel(n, false)}. `;
+                case 2:
+                    return `${toRoman(n)}. `;
+                case 3:
+                    return `(${n}) `;
+                case 4:
+                    return `(${alphaLabel(n, false)}) `;
+                default:
+                    return '• ';
+            }
+        case 'roman':
+            switch (depth) {
+                case 0:
+                    return `${toRoman(n).toUpperCase()}. `;
+                case 1:
+                    return `${alphaLabel(n, true)}. `;
+                case 2:
+                    return `${n}. `;
+                case 3:
+                    return `${alphaLabel(n, false)}. `;
+                case 4:
+                    return `${toRoman(n)}. `;
+                default:
+                    return '• ';
+            }
+        case 'paren':
+            switch (depth) {
+                case 0:
+                    return `${n}) `;
+                case 1:
+                    return `${alphaLabel(n, false)}) `;
+                case 2:
+                    return `${toRoman(n)}) `;
+                case 3:
+                    return `[${n}] `;
+                case 4:
+                    return `[${alphaLabel(n, false)}] `;
+                default:
+                    return '• ';
+            }
+        case 'outline':
+            switch (depth) {
+                case 0:
+                    return `${alphaLabel(n, true)}. `;
+                case 1:
+                    return `${n}. `;
+                case 2:
+                    return `${alphaLabel(n, false)}. `;
+                case 3:
+                    return `${toRoman(n)}. `;
+                default: {
+                    const letter = alphaLabel(n, false);
+                    return `${letter}${letter}. `;
+                }
+            }
+        default: {
+            const unexpected: never = list.style;
+            return unexpected;
+        }
     }
 }
 
@@ -1237,7 +1315,7 @@ export function buildUyapContentXml(
         }
     };
 
-    const processNode = (node: JSONContent, listLevel = -1, listIndex = -1, isOrdered = false): string => {
+    const processNode = (node: JSONContent, list: ListExportContext | null = null): string => {
         let nodeXml = '';
 
         if (node.type === 'paragraph' || node.type === 'heading') {
@@ -1253,10 +1331,10 @@ export function buildUyapContentXml(
             segments.forEach((segment, segmentIndex) => {
                 if (segmentIndex === 0 && needUyapPageBreak) nodeXml += emitUyapPageBreak();
 
-                nodeXml += buildParagraphOpenTag(node, listLevel);
+                nodeXml += buildParagraphOpenTag(node, list?.level ?? -1);
 
-                if (segmentIndex === 0 && listLevel >= 0 && listIndex >= 0) {
-                    const prefix = getListPrefix(listLevel, listIndex, isOrdered);
+                if (segmentIndex === 0 && list && list.level >= 0) {
+                    const prefix = getListPrefix(list);
                     const appended = acc.append(prefix);
                     nodeXml += `<content startOffset="${appended.start}" length="${appended.length}" bold="true" />`;
                 }
@@ -1299,16 +1377,30 @@ export function buildUyapContentXml(
                 nodeXml += '</paragraph>';
             }
         } else if (node.type === 'bulletList' || node.type === 'orderedList') {
-            const newLevel = listLevel + 1;
-            const newIsOrdered = node.type === 'orderedList';
+            const ordered = node.type === 'orderedList';
+            const declared = node.attrs?.listTypeName;
+            const style = ordered ? asListStyle(declared, list?.style ?? 'default') : (list?.style ?? 'default');
+            const startRaw = Number(node.attrs?.start);
+            const startAt = Number.isFinite(startRaw) && startRaw > 0 ? startRaw : 1;
+            const inheritPath =
+                ordered && (declared == null || declared === '') && list?.ordered === true && style === list.style;
             node.content?.forEach((listItem: JSONContent, index: number) => {
+                if (listItem.type !== 'listItem') return;
+                const number = startAt + index;
+                const next: ListExportContext = {
+                    level: (list?.level ?? -1) + 1,
+                    index,
+                    ordered,
+                    style,
+                    path: ordered ? [...(inheritPath && list ? list.path : []), number] : [],
+                };
                 listItem.content?.forEach((child: JSONContent) => {
-                    nodeXml += processNode(child, newLevel, index, newIsOrdered);
+                    nodeXml += processNode(child, next);
                 });
             });
         } else if (node.type === 'listItem') {
             node.content?.forEach((child: JSONContent) => {
-                nodeXml += processNode(child, listLevel, listIndex, isOrdered);
+                nodeXml += processNode(child, list);
             });
         } else if (node.type === 'table') {
             const rows = collectTableRows(node);
@@ -1468,7 +1560,7 @@ export function buildUyapContentXml(
 
     const contentXml = `<?xml version="1.0" encoding="UTF-8" ?>
 <template ${templateAttrs}>
-<content><![CDATA[${acc.rawText}]]></content>
+<content><![CDATA[${escapeXmlCdata(acc.rawText)}]]></content>
 ${propertiesXml}
 <elements resolver="hvl-default">
 ${elementsXml}

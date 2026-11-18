@@ -24,7 +24,7 @@ const LETTERED_PAREN_RE = /^([a-ğıi])\s*\)\s*(.*)$/i;
 const AMENDMENT_RE = /^\((?:Değişik|Degisik|Ek|Mülga|Mulga|İptal|Iptal)\b/i;
 const INSTRUMENT_TITLE_RE = /\b(?:KANUNU|KANUN|Y[OÖ]NETMEL[Iİ][GĞ][Iİ]|Y[OÖ]NETMEL[Iİ]K)\s*$/i;
 const FOOTNOTE_TAIL_RE = /(?:\[[\d.,;\s]+\])+\s*$/;
-const MADDE_LINE_RE = /^(?:Ek\s+|Geçici\s+)?(?:Madde|MADDE)\s+\d/i;
+const MADDE_LINE_RE = /^(?:Mükerrer\s+)?(?:Ek\s+)?(?:Geçici\s+)?(?:Madde|MADDE)\s+\d/i;
 
 export type StructuralHeadingKind = 'kitap' | 'kisim' | 'bolum' | 'ayirim';
 export type NestedHeadingKind = 'letterMajor' | 'roman' | 'numbered' | 'letterMinor' | 'title';
@@ -111,7 +111,7 @@ function isAllCapsShort(value: string): boolean {
 function looksLikePlainTitle(value: string): boolean {
     const core = stripHeadingDecorations(value);
     if (core.length < 2 || core.length > HEADING_MAX_CHARS) return false;
-    if (core.endsWith('.')) return false;
+    if (isTerminatedSentence(core)) return false;
     if (/[,;]$/.test(core)) return false;
     if (!startsWithTurkishUpper(core)) return false;
     if (INSTRUMENT_TITLE_RE.test(core)) return false;
@@ -144,7 +144,21 @@ function structuralKindFromLine(value: string): StructuralHeadingKind | null {
 }
 
 function isTerminatedSentence(text: string): boolean {
-    return stripHeadingDecorations(text).endsWith('.');
+    const core = stripHeadingDecorations(text);
+    return /[.!?](?:\s*\d{1,3})?$/.test(core);
+}
+
+function isPublicationMeta(text: string): boolean {
+    return /^(?:kanun\s+numaras|kabul\s+tarihi|yay[ıi]mland[ıi][ğg][ıi]\s+d[üu]stur|resm[iî]\s+gazete)\b/i.test(
+        text,
+    );
+}
+
+function isUnincorporatedListItem(text: string): boolean {
+    return (
+        /^\d{1,3}\s*(?:[)\]]|[-.\u2010-\u2015\u2212])\s+\d{1,2}[./]\d{1,2}[./]\d{2,4}\b/i.test(text) &&
+        /sayılı/i.test(text)
+    );
 }
 
 export function classifyHeadingLine(raw: string): ClassifiedHeading | null {
@@ -152,6 +166,7 @@ export function classifyHeadingLine(raw: string): ClassifiedHeading | null {
     if (!text || text.length > HEADING_MAX_CHARS) return null;
     if (FIKRA_RE.test(text) || AMENDMENT_RE.test(text)) return null;
     if (MADDE_LINE_RE.test(text)) return null;
+    if (isPublicationMeta(text) || isUnincorporatedListItem(text)) return null;
     if (text.startsWith('[') || text.startsWith('http')) return null;
 
     if (STRUCTURAL_RE.test(stripHeadingDecorations(text))) {
@@ -486,7 +501,8 @@ export function assignMaddeHeadings(
         }
         const incoming = nextHeadings;
         applyHeadings(hierarchy, incoming);
-        const trailing = peelTrailingHeadings(text);
+        const hasNext = i + 1 < maddeler.length;
+        const trailing = hasNext ? peelTrailingHeadings(text) : { body: text, headings: [] as string[] };
         if (trailing.headings.length) peeledAny = true;
         text = trailing.body;
         nextHeadings = trailing.headings;

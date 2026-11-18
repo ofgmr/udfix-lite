@@ -12,7 +12,7 @@
   "tertip": 5,
   "sourceUrl": "https://www.mevzuat.gov.tr/mevzuat?MevzuatNo=1163&MevzuatTur=1&MevzuatTertip=5",
   "kabulTarihi": "24/4/1969",
-  "maddeCount": 122,
+  "maddeCount": 119,
   "maddeler": [
     {
       "id": "kanun:1163:m:1",
@@ -23,13 +23,10 @@
       "preview": "(Değişik: 21/4/2004-5146/ 1 md.) Tüzel kişiliği haiz olmak üzere ortaklarının belirli ekonomik menfaatlerini ve özellikle meslek veya geçiml…",
       "kitap": null,
       "kisim": null,
-      "bolum": "BİRİNCİ BÖLÜM · Kooperatif ve Kuruluşu",
+      "bolum": null,
       "ayirim": null,
-      "maddeBaslik": "A) Tarif:",
-      "sectionPath": [
-        "BİRİNCİ BÖLÜM · Kooperatif ve Kuruluşu",
-        "A) Tarif:"
-      ]
+      "maddeBaslik": null,
+      "sectionPath": []
     },
     {
       "id": "kanun:1163:m:2",
@@ -40,11 +37,10 @@
       "preview": "(Değişik: 15/2/2018-7099/7 md.) Bir kooperatif en az 7 ortak tarafından imzalanacak anasözleşme ile kurulur. Anasözleşmenin ticaret sicili m…",
       "kitap": null,
       "kisim": null,
-      "bolum": "BİRİNCİ BÖLÜM · Kooperatif ve Kuruluşu",
+      "bolum": null,
       "ayirim": null,
       "maddeBaslik": "B) Kuruluş, muteberlik şartları, isim kullanma yetkisi:",
       "sectionPath": [
-        "BİRİNCİ BÖLÜM · Kooperatif ve Kuruluşu",
         "B) Kuruluş, muteberlik şartları, isim kullanma yetkisi:"
       ]
     },
@@ -57,11 +53,10 @@
       "preview": "Ana sözleşme, Ticaret Bakanlığına verilir. Bakanlığın kuruluşa izin vermesi halinde, kooperatif merkezinin bulunduğu yer ticaret siciline te…",
       "kitap": null,
       "kisim": null,
-      "bolum": "BİRİNCİ BÖLÜM · Kooperatif ve Kuruluşu",
+      "bolum": null,
       "ayirim": null,
       "maddeBaslik": "C) İzin verme, tescil ve ilan:",
       "sectionPath": [
-        "BİRİNCİ BÖLÜM · Kooperatif ve Kuruluşu",
         "C) İzin verme, tescil ve ilan:"
       ]
     },
@@ -74,11 +69,10 @@
       "preview": "Kooperatif anasözleşmesinde aşağıdaki hususlara ait hükümlerin yer olması gerektir. 1. Kooperatifin adı ve merkezi, 2. Kooperatifin amacı ve…",
       "kitap": null,
       "kisim": null,
-      "bolum": "BİRİNCİ BÖLÜM · Kooperatif ve Kuruluşu",
+      "bolum": null,
       "ayirim": null,
       "maddeBaslik": "I – Mecburi hükümler:",
       "sectionPath": [
-        "BİRİNCİ BÖLÜM · Kooperatif ve Kuruluşu",
         "I – Mecburi hükümler:"
       ]
     },
@@ -91,11 +85,10 @@
       "preview": "Anasözleşme ayrıca aşağıdaki hususları da kapsıyabilir. 1. Genel kurulun toplantısı, kararların alınması, oyların kullanılması hakkındaki hü…",
       "kitap": null,
       "kisim": null,
-      "bolum": "BİRİNCİ BÖLÜM · Kooperatif ve Kuruluşu",
+      "bolum": null,
       "ayirim": null,
       "maddeBaslik": "II – İhtiyari hükümler:",
       "sectionPath": [
-        "BİRİNCİ BÖLÜM · Kooperatif ve Kuruluşu",
         "II – İhtiyari hükümler:"
       ]
     },
@@ -108,11 +101,10 @@
       "preview": "5 inci maddenin 1 ve 2 nci bentlerinde yazılı hususlar hakkında anasözleşmede hüküm olmadığı takdirde aşağıdaki hükümler uygulanır. 1. Genel…",
       "kitap": null,
       "kisim": null,
-      "bolum": "BİRİNCİ BÖLÜM · Kooperatif ve Kuruluşu",
+      "bolum": null,
       "ayirim": null,
       "maddeBaslik": "III – Yorumlayıcı hükümler:",
       "sectionPath": [
-        "BİRİNCİ BÖLÜM · Kooperatif ve Kuruluşu",
         "III – Yorumlayıcı hükümler:"
       ]
     },
@@ -125,11 +117,10 @@
       "preview": "Kooperatif ticaret siciline tescil ile tüzel kişilik kazanır. Tescilden önce kooperatif namına işlem yapanlar bunlardan şahsan ve zincirleme…",
       "kitap": null,
       "kisim": null,
-      "bolum": "BİRİNCİ BÖLÜM · Kooperatif ve Kuruluşu",
+      "bolum": null,
       "ayirim": null,
       "maddeBaslik": "E) Tüzel kişiliğin kazanılması ve sorumluluk:",
       "sectionPath": [
-        "BİRİNCİ BÖLÜM · Kooperatif ve Kuruluşu",
         "III – Yorumlayıcı hükümler:",
         "E) Tüzel kişiliğin kazanılması ve sorumluluk:"
       ]
@@ -2061,8 +2052,8 @@
       "maddeKind": "madde",
       "maddeNo": "102",
       "heading": "Madde 102",
-      "text": "Bu kanun hükümlerini Bakanlar kurulu yürütür.",
-      "preview": "Bu kanun hükümlerini Bakanlar kurulu yürütür.",
+      "text": "Bu kanun hükümlerini Bakanlar kurulu yürütür.\n\n1 – 6/10/1988 tarihli ve 3476 sayılı Kanunun Geçici Maddeleri:\n\nGeçici Madde 1 -\nUnvanlı 1 inci maddede belirlenen esasa uymayan kooperatifler ve üst kuruluşları, anasözleşme değişikliği yapmak suretiyle unvanlarını altı ay içinde bu Kanuna uygun hale getirerek tescil ettirmek zorundadırlar.\n Bu Kanunun 14 üncü maddesiyle değiştirilen 56 ncı maddenin birinci fıkrasının (2) numaralı bendine göre, aynı türde birden fazla kooperatifte yönetim kurulu üyesi olanlar, Kanunun yürürlüğe girmesini takip eden 3 ay içerisinde bu üyeliklerinden yalnız birini tercih ederek diğerlerinden ayrılırlar.\n\nGeçici Madde 2 -\nBu Kanunun yürürlük tarihinden önce tüzelkişilik kazanmış olan kooperatif üst kuruluşları bu Kanun hükümlerine göre kurulmuş sayılır.\n\nGeçici Madde 3 -\nHalen kurulmuş ve faaliyette bulunan kooperatifler, anasözleşmelerini iki yıl içerisinde bu Kanun hükümlerine intibak ettirmek zorundadırlar. Bu hususa riayet etmiyen kooperatifler dağılmış sayılır. Kanunen tasfiye ile görevlendirilmiş kimseler tarafından dağılmadan başlıyarak iki ay içerisinde tasfiyeye geçilmediği takdirde, ilgili bakanlık veya Hazine tarafından mahkemeden tasfiye memuru atanması istenebilir.\n Anasözleşmelerini bu Kanuna intibak ettirmek için kooperatiflerin yapacakları genel kurullar, olağan genel kurulların usül ve çoğunluğuna göre toplanır ve karar verirler.\n\n 1163 SAYILI KANUNA EK VE DEĞİŞİKLİK GETİREN MEVZUATIN VEYA\n ANAYASA MAHKEMESİ KARARLARININ\n YÜRÜRLÜĞE GİRİŞ TARİHLERİNİ GÖSTERİR TABLO\n\n Değiştiren Kanunun/KHK’nin veya İptal Eden Anayasa Mahkemesi Kararının Numarası\n 1163 sayılı Kanunun değişen veya iptal edilen maddeleri\n Yürürlüğe Giriş\n Tarihi\n\n 1496\n Geçici Madde\n 10/8/1971\n\n 2475\n 52, Geçici Madde\n 10/6/1981\n\n 3381\n 19\n 25/6/1987\n\n 3476\n Ek Madde 2’nin dördüncü bendinin ikinci fıkrası\n 25/4/1989\n\n Diğer hükümleri\n 25/10/1988\n\n 4274\n 92, Ek Madde 2\n 17/6/1997\n\n 4363\n 19\n 2/6/1998\n\n 4629\n 83, 94\n 1/1/2002 tarihinden geçerli olmak üzere 3/3/2001\n\n 5146\n 1, 9\n 7/5/2004\n\n 5728\n 25, 56, 62, Ek Madde 2\n 8/2/2008\n\n 5983\n 48, 81, 90\n 13/6/2010\n\n 6172\n Ek Madde 1, Geçici Madde 3, Geçici Madde 4\n 13/12/2010\n\n 77\n 22/3/2011\n\n 6215\n Ek Madde 3\n 12/4/2011\n\n 6525\n Ek Madde 4, Geçici Madde 5\n 27/2/2014\n\n 7033\n 45\n 1/7/2017\n\n 7099\n 2, 61, 89\n 10/3/2018\n\n 7101\n 63\n 15/3/2018\n\n KHK/700\n 19, 80, 87, 91\n 24/6/2018 tarihinde birlikte yapılan Türkiye Büyük Millet Meclisi ve Cumhurbaşkanlığı seçimleri sonucunda Cumhurbaşkanının andiçerek göreve başladığı tarihte (9/7/2018)\n\n 7333\n Ek Madde 4, Geçici Madde 5\n 28/7/2021\n\n 7339\n 8, 19, 24, 45, 55, 56, 62, 65, 69, 72, 81, 87, 93, Ek Madde 2, Ek Madde 5, Geçici Madde 6, Geçici Madde 7, Geçici Madde 8, Geçici Madde 9\n 26/10/2021\n\n 7346\n Geçici Madde 10\n 26/10/2021 tarihinden itibaren geçerli olmak üzere yayımı tarihinde (25/12/2021)\n\n 7410\n Geçici Madde 11\n 15/6/2022\n\n 7435\n 87, Geçici Madde 8\n 1/2/2023\n\n Anayasa Mahkemesinin 16/2/2023 Tarihli ve E: 2022/126, K: 2023/29 Sayılı Kararı\n Geçici Madde 11\n 9/3/2023\n\n 7418\n 6\n 1/4/2023\n\n 7511\n Geçici Madde 8\n 26/4/2024 tarihinden itibaren uygulanmak üzere yayımı tarihinde\n (29/5/2024)\n\n Geçici Madde 9\n 29/5/2024\n\n 7579\n Ek Madde 6\n 22/5/2026\n\n [1] 13/12/1983 tarih ve 183 sayılı Kanun Hükmünde Kararnamenin 50 nci maddesi hükmü gereğince anılan maddede sayılan kooperatiflerle ilgili olarak Ticaret Bakanlığına ve Bakanına verilmiş olan görev ve yetkiler Tarım Orman ve Köyişleri Bakanlığına ve Bakanına devrolunmuştur.\n\n [2] 11/3/2010 tarihli ve 5957 sayılı Sebze ve Meyveler ile Yeterli Arz ve Talep Derinliği Bulunan Diğer Malların Ticaretinin Düzenlenmesi Hakkında Kanunun 18 inci maddesiyle, bu Kanunda 5957 sayılı Kanun hükümlerine aykırılık bulunması durumunda mezkur kanun hükümlerinin uygulanacağı hüküm altına alınmıştır.\n\n [3] 13/10/2022 tarihli ve 7418 sayılı Kanunun 28 inci maddesiyle; bu bentte yer alan “mahalli gazete” ibaresi “bir mahalli gazete ve bir internet haber sitesi” şeklinde değiştirilmiştir.\n\n [4] 14/7/2009 tarihli ve 2009/15233 sayılı Bakanlar Kurulu Kararı ile ; 1163 sayılı Kooperatifler Kanununa tabi kooperatiflerde, bir ortaklık payının değerinin 100 (yüz) Türk Lirasına yükseltilmesi kararlaştırılmıştır.\n\n [5] 2/7/2018 tarihli ve 700 sayılı KHK’nin 57 nci maddesiyle, bu fıkrada yer alan “Bakanlar Kurulu” ibaresi “Cumhurbaşkanı” şeklinde değiştirilmiştir.\n\n [6] 21/10/2021 tarihli ve 7339 sayılı Kanunun 2 nci maddesiyle bu fıkranın birinci cümlesinde yer alan “100.000 liradır.” ibaresi “100 Türk lirasıdır.” şeklinde değiştirilmiştir.\n\n [7] 21/10/2021 tarihli ve 7339 sayılı Kanunun 2 nci maddesiyle bu fıkrada yer alan “10.000 lira” ibaresi “100 Türk lirası” şeklinde değiştirilmiştir.\n\n [8] 23/1/2008 tarihli ve 5728 sayılı Kanunun 337 nci maddesiyle; bu maddede yer alan “500 liradan 10000 liraya kadar ağır para cezasıyla veya her ikisiyle birlikte cezalandırılır.” ibaresi “adlî para cezası ile cezalandırılır.” şeklinde değiştirilmiştir.\n\n [9] 21/10/2021 tarihli ve 7339 sayılı Kanunun 4 üncü maddesiyle bu fıkranın üçüncü cümlesinde yer alan “üç” ibaresi “iki” şeklinde değiştirilmiştir.\n\n [10] 21/10/2021 tarihli ve 7339 sayılı Kanunun 6 ncı maddesiyle bu bentte yer alan “Aynı türde” ibaresi “Amacı ve esas faaliyet konusu aynı olan” şeklinde değiştirilmiştir.\n\n [11] Anayasa Mahkemesi’nin 25/2/2010 tarihli ve E.: 2008/17, K.: 2010/44 sayılı Kararı ile bu bentte yer alan “… milli savunmaya karşı suçlar, devlet sırlarına karşı suçlar ve casusluk,…” ibaresi iptal edilmiştir.\n\n [12] 23/1/2008 tarihli ve 5728 sayılı Kanunun 339 uncu maddesiyle, bu fıkrada yer alan “Devlet memurları gibi ceza görürler.” ibaresi “kamu görevlisi gibi cezalandırılır.” şeklinde değiştirilmiştir.\n\n [13] 2/7/2018 tarihli ve 700 sayılı KHK’nin 57 nci maddesiyle, bu fıkrada yer alan “Ticaret Bakanlığınca hazırlanacak bir tüzükle” ibaresi “Cumhurbaşkanınca çıkarılan yönetmelikle” şeklinde değiştirilmiştir.\n\n [14] 2/7/2018 tarihli ve 700 sayılı KHK’nin 57 nci maddesiyle, bu fıkrada yer alan “tüzükte” ibaresi “Cumhurbaşkanınca çıkarılan yönetmelikle” şeklinde değiştirilmiştir.\n\n [15] 21/10/2021 tarihli ve 7339 sayılı Kanunun 14 üncü maddesiyle bu bentte yer alan “üçüncü fıkrasına” ibaresi “üçüncü ve dördüncü fıkralarına” şeklinde değiştirilmiş, bende “16 ncı maddenin beşinci fıkrasına,” ibaresinden sonra gelmek üzere “24 üncü maddenin birinci fıkrasına, 46 ncı maddenin ikinci fıkrasına,” ibaresi eklenmiş, bentte yer alan “altıncı fıkrasına” ibaresi “ikinci ve altıncı fıkralarına” şeklinde değiştirilmiş, bende “fıkralarına” ibaresinden sonra gelmek üzere “, 62 nci maddenin ikinci fıkrası gereği sorumlulukları altında bulunan para, mal, defter, belge ve diğer kooperatif varlıklarını teslim etmeyen” ibaresi, “memurları” ibaresinden sonra gelmek üzere “ile 72 nci maddenin dördüncü fıkrasına aykırı hareket eden kooperatif üst kuruluşlarının yönetim kurulu üyeleri” ibaresi eklenmiştir.\n\n [16] 21/10/2021 tarihli ve 7339 sayılı Kanunun 14 üncü maddesiyle bu bentte yer alan “Genel kurulu” ibaresi “45 inci maddenin birinci fıkrası gereği genel kurulu zamanında” şeklinde, “altı” ibaresi “dokuz” şeklinde değiştirilmiştir.\n\n [17] 21/10/2021 tarihli ve 7339 sayılı Kanunun 14 üncü maddesiyle bu bentte yer alan “66 ve 67 nci maddeye aykırı hareket eden” ibaresi “66 ncı maddeye, 67 nci maddenin birinci ve ikinci fıkralarına aykırı hareket eden ve ek 3 üncü maddeye aykırı uygulamaları araştırmayan” şeklinde, “altı” ibaresi “dokuz” şeklinde değiştirilmiştir.\n\n [18] 23/5/2024 tarihli 7511 sayılı Kanunun 2 nci maddesi ile bu fıkranın birinci cümlesinde yer alan “üç” ibaresi “beş” şeklinde değiştirilmiştir.",
+      "preview": "Bu kanun hükümlerini Bakanlar kurulu yürütür. 1 – 6/10/1988 tarihli ve 3476 sayılı Kanunun Geçici Maddeleri: Geçici Madde 1 - Unvanlı 1 inci…",
       "kitap": null,
       "kisim": null,
       "bolum": "DOKUZUNCU BÖLÜM · Çeşitli Hükümler",
@@ -2071,57 +2062,6 @@
       "sectionPath": [
         "DOKUZUNCU BÖLÜM · Çeşitli Hükümler",
         "I) Kanunu yürütecek makam:"
-      ]
-    },
-    {
-      "id": "kanun:1163:m:gecici:1",
-      "maddeKind": "gecici",
-      "maddeNo": "1",
-      "heading": "Geçici Madde 1",
-      "text": "Unvanlı 1 inci maddede belirlenen esasa uymayan kooperatifler ve üst kuruluşları, anasözleşme değişikliği yapmak suretiyle unvanlarını altı ay içinde bu Kanuna uygun hale getirerek tescil ettirmek zorundadırlar.\n Bu Kanunun 14 üncü maddesiyle değiştirilen 56 ncı maddenin birinci fıkrasının (2) numaralı bendine göre, aynı türde birden fazla kooperatifte yönetim kurulu üyesi olanlar, Kanunun yürürlüğe girmesini takip eden 3 ay içerisinde bu üyeliklerinden yalnız birini tercih ederek diğerlerinden ayrılırlar.",
-      "preview": "Unvanlı 1 inci maddede belirlenen esasa uymayan kooperatifler ve üst kuruluşları, anasözleşme değişikliği yapmak suretiyle unvanlarını altı…",
-      "kitap": null,
-      "kisim": null,
-      "bolum": "DOKUZUNCU BÖLÜM · Çeşitli Hükümler",
-      "ayirim": null,
-      "maddeBaslik": "1 – 6/10/1988 tarihli ve 3476 sayılı Kanunun Geçici Maddeleri:",
-      "sectionPath": [
-        "DOKUZUNCU BÖLÜM · Çeşitli Hükümler",
-        "1 – 6/10/1988 tarihli ve 3476 sayılı Kanunun Geçici Maddeleri:"
-      ]
-    },
-    {
-      "id": "kanun:1163:m:gecici:2",
-      "maddeKind": "gecici",
-      "maddeNo": "2",
-      "heading": "Geçici Madde 2",
-      "text": "Bu Kanunun yürürlük tarihinden önce tüzelkişilik kazanmış olan kooperatif üst kuruluşları bu Kanun hükümlerine göre kurulmuş sayılır.",
-      "preview": "Bu Kanunun yürürlük tarihinden önce tüzelkişilik kazanmış olan kooperatif üst kuruluşları bu Kanun hükümlerine göre kurulmuş sayılır.",
-      "kitap": null,
-      "kisim": null,
-      "bolum": "DOKUZUNCU BÖLÜM · Çeşitli Hükümler",
-      "ayirim": null,
-      "maddeBaslik": "1 – 6/10/1988 tarihli ve 3476 sayılı Kanunun Geçici Maddeleri:",
-      "sectionPath": [
-        "DOKUZUNCU BÖLÜM · Çeşitli Hükümler",
-        "1 – 6/10/1988 tarihli ve 3476 sayılı Kanunun Geçici Maddeleri:"
-      ]
-    },
-    {
-      "id": "kanun:1163:m:gecici:3",
-      "maddeKind": "gecici",
-      "maddeNo": "3",
-      "heading": "Geçici Madde 3",
-      "text": "Halen kurulmuş ve faaliyette bulunan kooperatifler, anasözleşmelerini iki yıl içerisinde bu Kanun hükümlerine intibak ettirmek zorundadırlar. Bu hususa riayet etmiyen kooperatifler dağılmış sayılır. Kanunen tasfiye ile görevlendirilmiş kimseler tarafından dağılmadan başlıyarak iki ay içerisinde tasfiyeye geçilmediği takdirde, ilgili bakanlık veya Hazine tarafından mahkemeden tasfiye memuru atanması istenebilir.\n Anasözleşmelerini bu Kanuna intibak ettirmek için kooperatiflerin yapacakları genel kurullar, olağan genel kurulların usül ve çoğunluğuna göre toplanır ve karar verirler.\n\n 1163 SAYILI KANUNA EK VE DEĞİŞİKLİK GETİREN MEVZUATIN VEYA\n ANAYASA MAHKEMESİ KARARLARININ\n YÜRÜRLÜĞE GİRİŞ TARİHLERİNİ GÖSTERİR TABLO\n\n Değiştiren Kanunun/KHK’nin veya İptal Eden Anayasa Mahkemesi Kararının Numarası\n 1163 sayılı Kanunun değişen veya iptal edilen maddeleri\n Yürürlüğe Giriş\n Tarihi\n\n 1496\n Geçici Madde\n 10/8/1971\n\n 2475\n 52, Geçici Madde\n 10/6/1981\n\n 3381\n 19\n 25/6/1987\n\n 3476\n Ek Madde 2’nin dördüncü bendinin ikinci fıkrası\n 25/4/1989\n\n Diğer hükümleri\n 25/10/1988\n\n 4274\n 92, Ek Madde 2\n 17/6/1997\n\n 4363\n 19\n 2/6/1998\n\n 4629\n 83, 94\n 1/1/2002 tarihinden geçerli olmak üzere 3/3/2001\n\n 5146\n 1, 9\n 7/5/2004\n\n 5728\n 25, 56, 62, Ek Madde 2\n 8/2/2008\n\n 5983\n 48, 81, 90\n 13/6/2010\n\n 6172\n Ek Madde 1, Geçici Madde 3, Geçici Madde 4\n 13/12/2010\n\n 77\n 22/3/2011\n\n 6215\n Ek Madde 3\n 12/4/2011\n\n 6525\n Ek Madde 4, Geçici Madde 5\n 27/2/2014\n\n 7033\n 45\n 1/7/2017\n\n 7099\n 2, 61, 89\n 10/3/2018\n\n 7101\n 63\n 15/3/2018\n\n KHK/700\n 19, 80, 87, 91\n 24/6/2018 tarihinde birlikte yapılan Türkiye Büyük Millet Meclisi ve Cumhurbaşkanlığı seçimleri sonucunda Cumhurbaşkanının andiçerek göreve başladığı tarihte (9/7/2018)\n\n 7333\n Ek Madde 4, Geçici Madde 5\n 28/7/2021\n\n 7339\n 8, 19, 24, 45, 55, 56, 62, 65, 69, 72, 81, 87, 93, Ek Madde 2, Ek Madde 5, Geçici Madde 6, Geçici Madde 7, Geçici Madde 8, Geçici Madde 9\n 26/10/2021\n\n 7346\n Geçici Madde 10\n 26/10/2021 tarihinden itibaren geçerli olmak üzere yayımı tarihinde (25/12/2021)\n\n 7410\n Geçici Madde 11\n 15/6/2022\n\n 7435\n 87, Geçici Madde 8\n 1/2/2023\n\n Anayasa Mahkemesinin 16/2/2023 Tarihli ve E: 2022/126, K: 2023/29 Sayılı Kararı\n Geçici Madde 11\n 9/3/2023\n\n 7418\n 6\n 1/4/2023\n\n 7511\n Geçici Madde 8\n 26/4/2024 tarihinden itibaren uygulanmak üzere yayımı tarihinde\n (29/5/2024)\n\n Geçici Madde 9\n 29/5/2024\n\n 7579\n Ek Madde 6\n 22/5/2026\n\n [1] 13/12/1983 tarih ve 183 sayılı Kanun Hükmünde Kararnamenin 50 nci maddesi hükmü gereğince anılan maddede sayılan kooperatiflerle ilgili olarak Ticaret Bakanlığına ve Bakanına verilmiş olan görev ve yetkiler Tarım Orman ve Köyişleri Bakanlığına ve Bakanına devrolunmuştur.\n\n [2] 11/3/2010 tarihli ve 5957 sayılı Sebze ve Meyveler ile Yeterli Arz ve Talep Derinliği Bulunan Diğer Malların Ticaretinin Düzenlenmesi Hakkında Kanunun 18 inci maddesiyle, bu Kanunda 5957 sayılı Kanun hükümlerine aykırılık bulunması durumunda mezkur kanun hükümlerinin uygulanacağı hüküm altına alınmıştır.\n\n [3] 13/10/2022 tarihli ve 7418 sayılı Kanunun 28 inci maddesiyle; bu bentte yer alan “mahalli gazete” ibaresi “bir mahalli gazete ve bir internet haber sitesi” şeklinde değiştirilmiştir.\n\n [4] 14/7/2009 tarihli ve 2009/15233 sayılı Bakanlar Kurulu Kararı ile ; 1163 sayılı Kooperatifler Kanununa tabi kooperatiflerde, bir ortaklık payının değerinin 100 (yüz) Türk Lirasına yükseltilmesi kararlaştırılmıştır.\n\n [5] 2/7/2018 tarihli ve 700 sayılı KHK’nin 57 nci maddesiyle, bu fıkrada yer alan “Bakanlar Kurulu” ibaresi “Cumhurbaşkanı” şeklinde değiştirilmiştir.\n\n [6] 21/10/2021 tarihli ve 7339 sayılı Kanunun 2 nci maddesiyle bu fıkranın birinci cümlesinde yer alan “100.000 liradır.” ibaresi “100 Türk lirasıdır.” şeklinde değiştirilmiştir.\n\n [7] 21/10/2021 tarihli ve 7339 sayılı Kanunun 2 nci maddesiyle bu fıkrada yer alan “10.000 lira” ibaresi “100 Türk lirası” şeklinde değiştirilmiştir.\n\n [8] 23/1/2008 tarihli ve 5728 sayılı Kanunun 337 nci maddesiyle; bu maddede yer alan “500 liradan 10000 liraya kadar ağır para cezasıyla veya her ikisiyle birlikte cezalandırılır.” ibaresi “adlî para cezası ile cezalandırılır.” şeklinde değiştirilmiştir.\n\n [9] 21/10/2021 tarihli ve 7339 sayılı Kanunun 4 üncü maddesiyle bu fıkranın üçüncü cümlesinde yer alan “üç” ibaresi “iki” şeklinde değiştirilmiştir.\n\n [10] 21/10/2021 tarihli ve 7339 sayılı Kanunun 6 ncı maddesiyle bu bentte yer alan “Aynı türde” ibaresi “Amacı ve esas faaliyet konusu aynı olan” şeklinde değiştirilmiştir.\n\n [11] Anayasa Mahkemesi’nin 25/2/2010 tarihli ve E.: 2008/17, K.: 2010/44 sayılı Kararı ile bu bentte yer alan “… milli savunmaya karşı suçlar, devlet sırlarına karşı suçlar ve casusluk,…” ibaresi iptal edilmiştir.\n\n [12] 23/1/2008 tarihli ve 5728 sayılı Kanunun 339 uncu maddesiyle, bu fıkrada yer alan “Devlet memurları gibi ceza görürler.” ibaresi “kamu görevlisi gibi cezalandırılır.” şeklinde değiştirilmiştir.\n\n [13] 2/7/2018 tarihli ve 700 sayılı KHK’nin 57 nci maddesiyle, bu fıkrada yer alan “Ticaret Bakanlığınca hazırlanacak bir tüzükle” ibaresi “Cumhurbaşkanınca çıkarılan yönetmelikle” şeklinde değiştirilmiştir.\n\n [14] 2/7/2018 tarihli ve 700 sayılı KHK’nin 57 nci maddesiyle, bu fıkrada yer alan “tüzükte” ibaresi “Cumhurbaşkanınca çıkarılan yönetmelikle” şeklinde değiştirilmiştir.\n\n [15] 21/10/2021 tarihli ve 7339 sayılı Kanunun 14 üncü maddesiyle bu bentte yer alan “üçüncü fıkrasına” ibaresi “üçüncü ve dördüncü fıkralarına” şeklinde değiştirilmiş, bende “16 ncı maddenin beşinci fıkrasına,” ibaresinden sonra gelmek üzere “24 üncü maddenin birinci fıkrasına, 46 ncı maddenin ikinci fıkrasına,” ibaresi eklenmiş, bentte yer alan “altıncı fıkrasına” ibaresi “ikinci ve altıncı fıkralarına” şeklinde değiştirilmiş, bende “fıkralarına” ibaresinden sonra gelmek üzere “, 62 nci maddenin ikinci fıkrası gereği sorumlulukları altında bulunan para, mal, defter, belge ve diğer kooperatif varlıklarını teslim etmeyen” ibaresi, “memurları” ibaresinden sonra gelmek üzere “ile 72 nci maddenin dördüncü fıkrasına aykırı hareket eden kooperatif üst kuruluşlarının yönetim kurulu üyeleri” ibaresi eklenmiştir.\n\n [16] 21/10/2021 tarihli ve 7339 sayılı Kanunun 14 üncü maddesiyle bu bentte yer alan “Genel kurulu” ibaresi “45 inci maddenin birinci fıkrası gereği genel kurulu zamanında” şeklinde, “altı” ibaresi “dokuz” şeklinde değiştirilmiştir.\n\n [17] 21/10/2021 tarihli ve 7339 sayılı Kanunun 14 üncü maddesiyle bu bentte yer alan “66 ve 67 nci maddeye aykırı hareket eden” ibaresi “66 ncı maddeye, 67 nci maddenin birinci ve ikinci fıkralarına aykırı hareket eden ve ek 3 üncü maddeye aykırı uygulamaları araştırmayan” şeklinde, “altı” ibaresi “dokuz” şeklinde değiştirilmiştir.\n\n [18] 23/5/2024 tarihli 7511 sayılı Kanunun 2 nci maddesi ile bu fıkranın birinci cümlesinde yer alan “üç” ibaresi “beş” şeklinde değiştirilmiştir.",
-      "preview": "Halen kurulmuş ve faaliyette bulunan kooperatifler, anasözleşmelerini iki yıl içerisinde bu Kanun hükümlerine intibak ettirmek zorundadırlar…",
-      "kitap": null,
-      "kisim": null,
-      "bolum": "DOKUZUNCU BÖLÜM · Çeşitli Hükümler",
-      "ayirim": null,
-      "maddeBaslik": "1 – 6/10/1988 tarihli ve 3476 sayılı Kanunun Geçici Maddeleri:",
-      "sectionPath": [
-        "DOKUZUNCU BÖLÜM · Çeşitli Hükümler",
-        "1 – 6/10/1988 tarihli ve 3476 sayılı Kanunun Geçici Maddeleri:"
       ]
     }
   ]

@@ -13,7 +13,7 @@
   "tertip": 5,
   "sourceUrl": "https://www.mevzuat.gov.tr/mevzuat?MevzuatNo=5402&MevzuatTur=1&MevzuatTertip=5",
   "kabulTarihi": "3/7/2005",
-  "maddeCount": 37,
+  "maddeCount": 40,
   "maddeler": [
     {
       "id": "kanun:5402:m:1",
@@ -24,13 +24,10 @@
       "preview": "(1) Bu Kanunun amacı; denetimli serbestlik ve koruma kurullarının kuruluş, görev ve çalışma esas ve usûllerini düzenlemektir.[2]",
       "kitap": null,
       "kisim": null,
-      "bolum": "BİRİNCİ BÖLÜM · Amaç, Kapsam ve Tanımlar",
+      "bolum": null,
       "ayirim": null,
-      "maddeBaslik": "Amaç",
-      "sectionPath": [
-        "BİRİNCİ BÖLÜM · Amaç, Kapsam ve Tanımlar",
-        "Amaç"
-      ]
+      "maddeBaslik": null,
+      "sectionPath": []
     },
     {
       "id": "kanun:5402:m:2",
@@ -41,11 +38,10 @@
       "preview": "(1) Bu Kanun; Denetimli Serbestlik Hizmetleri Danışma Kurulu, Denetimli Serbestlik Daire Başkanlığı, denetimli serbestlik müdürlükleri ile k…",
       "kitap": null,
       "kisim": null,
-      "bolum": "BİRİNCİ BÖLÜM · Amaç, Kapsam ve Tanımlar",
+      "bolum": null,
       "ayirim": null,
       "maddeBaslik": "Kapsam",
       "sectionPath": [
-        "BİRİNCİ BÖLÜM · Amaç, Kapsam ve Tanımlar",
         "Kapsam"
       ]
     },
@@ -58,11 +54,10 @@
       "preview": "(1) Bu Kanunda yer alan; a) Bakan: Adalet Bakanını, b) Bakanlık: Adalet Bakanlığını, c) (Değişik: 5/4/2012-6291/6 md.) Danışma Kurulu: Denet…",
       "kitap": null,
       "kisim": null,
-      "bolum": "BİRİNCİ BÖLÜM · Amaç, Kapsam ve Tanımlar",
+      "bolum": null,
       "ayirim": null,
       "maddeBaslik": "Tanımlar",
       "sectionPath": [
-        "BİRİNCİ BÖLÜM · Amaç, Kapsam ve Tanımlar",
         "Tanımlar"
       ]
     },
@@ -213,8 +208,26 @@
       "maddeKind": "madde",
       "maddeNo": "12",
       "heading": "Madde 12",
-      "text": "(1) Müdürlüğün soruşturma evresindeki görevleri şunlardır:[11][12]\n a) 5271 sayılı Ceza Muhakemesi Kanununun 109 uncu maddesinin üçüncü fıkrasının (b), (c), (e), (j), (k) ve (l) bentleri ile 3/7/2005 tarihli ve 5395 sayılı Çocuk Koruma Kanununun 20 nci maddesinin birinci fıkrasının (a), (b) ve (c) bentlerine göre adlî kontrol altına alınan şüphelilerle ilgili olarak, kararda belirtilen yükümlülüklerin yerine getirilmesine ilişkin çalışmaları yürütmek.\n b) Cumhuriyet başsavcılığınca gerekli görüldüğünde, şüpheli hakkında sosyal araştırma raporu düzenleyip sunmak.\n c) (Mülga:17/10/2019-7188/37 md.)\n d) İstek hâlinde şüpheliye psiko-sosyal danışmanlık yapmak.\n\n Uyuşturucu veya uyarıcı madde kullananlar hakkında uygulanacak tedavi ve/veya denetimli serbestlik tedbirlerine ilişkin görevler\n Madde 12/A- (Ek:28/3/2023-7445/27 md.)\n (1) Türk Ceza Kanununun 191 inci maddesi gereğince Cumhuriyet savcısı tarafından hakkında denetimli serbestlik tedbiri veya tedavi ve denetimli serbestlik tedbiri verilen şüpheliyle ilgili olarak denetimli serbestlik müdürlüğünce;\n a) Tedaviye tabi tutulmak,\n b) Belirlenen programlara katılmak,\n c) Çocuklarla bir arada olmayı gerektiren ortamlarda çalışmaktan yasaklanmak,\n d) Belirlenen yer veya bölgelere gitmemek,\n e) Bir bölgede denetim veya gözetim altında bulunmak,\n f) Eğitim kurumuna, eğitim programına veya mesleki uğraşlarına ilişkin eğitime devam etmek,\n g) Belirli etkinlikleri yapmaktan yasaklanmak,\n h) Gözetim altında ücret karşılığı çalıştırılmak,\n ı) Silah bulunduramamak veya taşıyamamak, gerektiğinde sahip olunan silahları makbuz karşılığında adli emanete teslim etmek,\n i) Her türlü taşıtları veya bunlardan bazılarını kullanamamak ve gerektiğinde makbuz karşılığında sürücü belgesini teslim etmek,\n yükümlülüklerinden en az üçüne veya daha fazlasına karar verilir. Yükümlülükler, şüphelinin ihtiyacına göre bu fıkrada belirtilenlerle sınırlı olarak her aşamada değiştirilebilir veya ilave yükümlülükler getirilebilir. Gerekli görülmesi halinde denetimli serbestlik süresi içinde şüphelinin uyuşturucu veya uyarıcı madde kullanıp kullanmadığının tespit edilmesi için denetimli serbestlik müdürlüğü tarafından test yapılabilir veya bu amaçla şüphelinin ilgili kuruma sevki sağlanabilir.\n (2) Birinci fıkra uyarınca tedaviye tabi tutulmak yükümlülüğüne karar verildiği takdirde bu karar derhal ilgili sağlık kurumuna gönderilir. Bu durumda şüpheli, sağlık kurumunda ayakta veya yatarak tıbbi tedaviye tabi tutulur. Sağlık kurumu, gerekli görmesi halinde şüphelinin rehabilitasyon amaçlı programlara katılmasına da karar verir. Şüpheli, uyuşturucu veya uyarıcı madde kullanıp kullanmadığının tespiti için her zaman sağlık kurumunca çağrılabilir, kolluk görevlileri aynı amaca yönelik olarak şüpheliyi sağlık kurumuna yönlendirebilir. Kolluk görevlileri sağlık kurumunun çağrısının gerçekleştirilmesi bakımından sağlık kurumuna yardım etmekle görevlidir.\n (3) Soruşturma evresinde veya bu madde uyarınca belirlenen yükümlülüklerin yerine getirilmesi sırasında Cumhuriyet savcısı veya yetkili kamu görevlileri, 22/11/2001 tarihli ve 4721 sayılı Türk Medenî Kanununun 432 nci maddesinde yer alan koşulların bulunması halinde ayrıca bu durumu, yetkili vesayet makamına bildirir.\n (4) Yükümlülüklerin belirlenmesi veya yerine getirilebilmesi bakımından gerekli görülmesi halinde bu madde uyarınca yapılacak iş ve işlemler hakkında şüphelinin ailesine bilgi verilebilir veya ailesinden bilgi istenebilir.\n (5) Şüpheli, bu madde uyarınca yapılan işlemlerin kanun veya diğer mevzuat hükümlerine aykırı olduğu gerekçesiyle iki hafta içinde şikâyet yoluyla Cumhuriyet savcısına başvurabilir. Cumhuriyet savcısı bu başvuruları gecikmeksizin değerlendirir.\n (6) Bu madde hükümleri Türk Ceza Kanununun 191 inci maddesinin sekizinci fıkrası uyarınca verilecek kararlar bakımından da uygulanır. Bu durumda beşinci fıkra uyarınca yapılacak başvurular, kararı veren mahkemece değerlendirilir.\n (7) Bu maddenin ikinci fıkrası uyarınca uygulanacak yükümlülükler ile denetimli serbestlik tedbiri uygulanarak cezanın infaz edilmesi durumunda uygulanan tedavi ve rehabilitasyon programlarına katılma yükümlülüğü, Sağlık Bakanlığının uygun göreceği tedavi ve rehabilitasyon merkezlerinde yerine getirilir. Sağlık Bakanlığınca uygun tedavi ve rehabilitasyon merkezleri açılır. Sağlık Bakanlığınca uygun görülen kurum ve kuruluşlar tarafından da bu merkezler açılabilir. Kendiliğinden bu merkezlere başvuran kişiler de tedavi ve rehabilitasyon hizmetinden faydalandırılır. Sağlık Bakanlığının tedavi ve rehabilitasyon hizmetlerine ilişkin ihtiyaç ve talepleri tüm bakanlıklar, belediyeler ve ilgili diğer kamu kurum ve kuruluşları tarafından karşılanır.\n (8) Bu madde uyarınca hakkında yükümlülüğe karar verilenler için yetki ve görevleri dahilinde tüm bakanlıklar, belediyeler ve ilgili diğer kamu kurum ve kuruluşları tarafından görevleri kapsamında eğitim, sosyal uyum ve denetim amacıyla her türlü çalışma yürütülür.",
+      "text": "(1) Müdürlüğün soruşturma evresindeki görevleri şunlardır:[11][12]\n a) 5271 sayılı Ceza Muhakemesi Kanununun 109 uncu maddesinin üçüncü fıkrasının (b), (c), (e), (j), (k) ve (l) bentleri ile 3/7/2005 tarihli ve 5395 sayılı Çocuk Koruma Kanununun 20 nci maddesinin birinci fıkrasının (a), (b) ve (c) bentlerine göre adlî kontrol altına alınan şüphelilerle ilgili olarak, kararda belirtilen yükümlülüklerin yerine getirilmesine ilişkin çalışmaları yürütmek.\n b) Cumhuriyet başsavcılığınca gerekli görüldüğünde, şüpheli hakkında sosyal araştırma raporu düzenleyip sunmak.\n c) (Mülga:17/10/2019-7188/37 md.)\n d) İstek hâlinde şüpheliye psiko-sosyal danışmanlık yapmak.\n\n Uyuşturucu veya uyarıcı madde kullananlar hakkında uygulanacak tedavi ve/veya denetimli serbestlik tedbirlerine ilişkin görevler",
       "preview": "(1) Müdürlüğün soruşturma evresindeki görevleri şunlardır:[11][12] a) 5271 sayılı Ceza Muhakemesi Kanununun 109 uncu maddesinin üçüncü fıkra…",
+      "kitap": null,
+      "kisim": "İKİNCİ KISIM · Kuruluş, Teşkilât ve Görev",
+      "bolum": "ÜÇÜNCÜ BÖLÜM · Müdürlük[8]",
+      "ayirim": null,
+      "maddeBaslik": "Soruşturma evresindeki görevler",
+      "sectionPath": [
+        "İKİNCİ KISIM · Kuruluş, Teşkilât ve Görev",
+        "ÜÇÜNCÜ BÖLÜM · Müdürlük[8]",
+        "Soruşturma evresindeki görevler"
+      ]
+    },
+    {
+      "id": "kanun:5402:m:12/A",
+      "maddeKind": "madde",
+      "maddeNo": "12/A",
+      "heading": "Madde 12/A",
+      "text": "(Ek:28/3/2023-7445/27 md.)\n (1) Türk Ceza Kanununun 191 inci maddesi gereğince Cumhuriyet savcısı tarafından hakkında denetimli serbestlik tedbiri veya tedavi ve denetimli serbestlik tedbiri verilen şüpheliyle ilgili olarak denetimli serbestlik müdürlüğünce;\n a) Tedaviye tabi tutulmak,\n b) Belirlenen programlara katılmak,\n c) Çocuklarla bir arada olmayı gerektiren ortamlarda çalışmaktan yasaklanmak,\n d) Belirlenen yer veya bölgelere gitmemek,\n e) Bir bölgede denetim veya gözetim altında bulunmak,\n f) Eğitim kurumuna, eğitim programına veya mesleki uğraşlarına ilişkin eğitime devam etmek,\n g) Belirli etkinlikleri yapmaktan yasaklanmak,\n h) Gözetim altında ücret karşılığı çalıştırılmak,\n ı) Silah bulunduramamak veya taşıyamamak, gerektiğinde sahip olunan silahları makbuz karşılığında adli emanete teslim etmek,\n i) Her türlü taşıtları veya bunlardan bazılarını kullanamamak ve gerektiğinde makbuz karşılığında sürücü belgesini teslim etmek,\n yükümlülüklerinden en az üçüne veya daha fazlasına karar verilir. Yükümlülükler, şüphelinin ihtiyacına göre bu fıkrada belirtilenlerle sınırlı olarak her aşamada değiştirilebilir veya ilave yükümlülükler getirilebilir. Gerekli görülmesi halinde denetimli serbestlik süresi içinde şüphelinin uyuşturucu veya uyarıcı madde kullanıp kullanmadığının tespit edilmesi için denetimli serbestlik müdürlüğü tarafından test yapılabilir veya bu amaçla şüphelinin ilgili kuruma sevki sağlanabilir.\n (2) Birinci fıkra uyarınca tedaviye tabi tutulmak yükümlülüğüne karar verildiği takdirde bu karar derhal ilgili sağlık kurumuna gönderilir. Bu durumda şüpheli, sağlık kurumunda ayakta veya yatarak tıbbi tedaviye tabi tutulur. Sağlık kurumu, gerekli görmesi halinde şüphelinin rehabilitasyon amaçlı programlara katılmasına da karar verir. Şüpheli, uyuşturucu veya uyarıcı madde kullanıp kullanmadığının tespiti için her zaman sağlık kurumunca çağrılabilir, kolluk görevlileri aynı amaca yönelik olarak şüpheliyi sağlık kurumuna yönlendirebilir. Kolluk görevlileri sağlık kurumunun çağrısının gerçekleştirilmesi bakımından sağlık kurumuna yardım etmekle görevlidir.\n (3) Soruşturma evresinde veya bu madde uyarınca belirlenen yükümlülüklerin yerine getirilmesi sırasında Cumhuriyet savcısı veya yetkili kamu görevlileri, 22/11/2001 tarihli ve 4721 sayılı Türk Medenî Kanununun 432 nci maddesinde yer alan koşulların bulunması halinde ayrıca bu durumu, yetkili vesayet makamına bildirir.\n (4) Yükümlülüklerin belirlenmesi veya yerine getirilebilmesi bakımından gerekli görülmesi halinde bu madde uyarınca yapılacak iş ve işlemler hakkında şüphelinin ailesine bilgi verilebilir veya ailesinden bilgi istenebilir.\n (5) Şüpheli, bu madde uyarınca yapılan işlemlerin kanun veya diğer mevzuat hükümlerine aykırı olduğu gerekçesiyle iki hafta içinde şikâyet yoluyla Cumhuriyet savcısına başvurabilir. Cumhuriyet savcısı bu başvuruları gecikmeksizin değerlendirir.\n (6) Bu madde hükümleri Türk Ceza Kanununun 191 inci maddesinin sekizinci fıkrası uyarınca verilecek kararlar bakımından da uygulanır. Bu durumda beşinci fıkra uyarınca yapılacak başvurular, kararı veren mahkemece değerlendirilir.\n (7) Bu maddenin ikinci fıkrası uyarınca uygulanacak yükümlülükler ile denetimli serbestlik tedbiri uygulanarak cezanın infaz edilmesi durumunda uygulanan tedavi ve rehabilitasyon programlarına katılma yükümlülüğü, Sağlık Bakanlığının uygun göreceği tedavi ve rehabilitasyon merkezlerinde yerine getirilir. Sağlık Bakanlığınca uygun tedavi ve rehabilitasyon merkezleri açılır. Sağlık Bakanlığınca uygun görülen kurum ve kuruluşlar tarafından da bu merkezler açılabilir. Kendiliğinden bu merkezlere başvuran kişiler de tedavi ve rehabilitasyon hizmetinden faydalandırılır. Sağlık Bakanlığının tedavi ve rehabilitasyon hizmetlerine ilişkin ihtiyaç ve talepleri tüm bakanlıklar, belediyeler ve ilgili diğer kamu kurum ve kuruluşları tarafından karşılanır.\n (8) Bu madde uyarınca hakkında yükümlülüğe karar verilenler için yetki ve görevleri dahilinde tüm bakanlıklar, belediyeler ve ilgili diğer kamu kurum ve kuruluşları tarafından görevleri kapsamında eğitim, sosyal uyum ve denetim amacıyla her türlü çalışma yürütülür.",
+      "preview": "(Ek:28/3/2023-7445/27 md.) (1) Türk Ceza Kanununun 191 inci maddesi gereğince Cumhuriyet savcısı tarafından hakkında denetimli serbestlik te…",
       "kitap": null,
       "kisim": "İKİNCİ KISIM · Kuruluş, Teşkilât ve Görev",
       "bolum": "ÜÇÜNCÜ BÖLÜM · Müdürlük[8]",
@@ -267,7 +280,7 @@
       "maddeKind": "madde",
       "maddeNo": "15",
       "heading": "Madde 15",
-      "text": "(1) Müdürlüğün salıverme sonrası görevleri şunlardır:[19]\n a) 5275 sayılı Ceza ve Güvenlik Tedbirlerinin İnfazı Hakkında Kanunun 107 nci maddesinin;\n 1) Yedinci fıkrasında düzenlenen denetim süresinde hükümlünün kamu kuruluşunda veya bir başkasının gözetiminde ücretle çalıştırılması,\n 2) Sekizinci fıkrasında düzenlenen çocuk hükümlülerin, gerektiğinde barınma imkânı da bulunan bir eğitim kurumuna yerleştirilmesi,\n 3) Dokuzuncu fıkrasında düzenlenen uzman bir kişinin görevlendirilmesi ve hükümlünün davranışlarının izlenerek infaz hâkimine rapor verilmesi,[20]\n 4) Onikinci fıkrasında düzenlenen denetim süresinde hükümlünün yükümlülüklere uyması veya hapis cezasını gerektiren kasıtlı bir suç işlememesi,\n 5) Ondördüncü fıkrasında düzenlenen denetim süresini iyi hâlle geçirmesi,\n Biçimindeki yükümlülüklerin denetimi kapsamında kendisine verilen görevleri, gerektiğinde kolluk ve ilgili diğer makamlarla işbirliği yaparak yerine getirmek.\n b) 5275 sayılı Ceza ve Güvenlik Tedbirlerinin İnfazı Hakkında Kanunun 108 inci maddesinin dördüncü ve altıncı fıkraları gereğince düzenlenen denetim süresinin iyi hâlle geçirilmesi yükümlülüğünün denetimi kapsamında kendisine verilen görevleri, gerektiğinde kolluk makamlarıyla işbirliği yaparak yerine getirmek.\n c) 5275 sayılı Ceza ve Güvenlik Tedbirlerinin İnfazı Hakkında Kanunun 107 nci maddesinin onuncu fıkrasında belirtilen denetimli serbestlik tedbirinin veya belirlenen yükümlülüklerin kaldırılması konusunda düzenleyeceği bir raporla görüş bildirmek.\n d) Koruma kurulları; kamu kurum ve kuruluşları, kamu kurumu niteliğindeki meslek kuruluşları, kamu yararına çalışan vakıf ve dernekler ile uygun görülen gönüllü gerçek ve tüzel kişilerle işbirliği yaparak 5275 sayılı Ceza ve Güvenlik Tedbirlerinin İnfazı Hakkında Kanunun 90 ve 91 inci maddelerinde düzenlenen, salıverilen kişilerin iş bulmalarına veya meslek ve sanatlarıyla ilgili bir iş kurmalarına, çevre ve aileleriyle olabilecek psiko-sosyal sorunların çözümüne yardımcı olmak.\n e) Hükümlülerin yeniden suç işlemesinin önlenmesi ve topluma kazandırılmasını sağlayıcı etkenleri güçlendirme amacına yönelik çalışmalar yapmak.\n\n Elektronik cihazların kullanılması suretiyle takip\n Madde 15/A - (Ek: 5/4/2012-6291/4 md.)\n (1) Şüpheli, sanık ve hükümlülerin toplum içinde izlenmesi, gözetimi ve denetimi elektronik cihazların kullanılması suretiyle de yerine getirilebilir. (Ek cümle:14/4/2020-7242/59 md.) Bu izleme, rızası alınmak koşuluyla şüpheli, sanık ve hükümlüye ait elektronik cihazlar kullanılmak suretiyle de yapılabilir.\n (2) İzleme, gözetim ve denetime ilişkin esas ve usuller yönetmelikle düzenlenir.",
+      "text": "(1) Müdürlüğün salıverme sonrası görevleri şunlardır:[19]\n a) 5275 sayılı Ceza ve Güvenlik Tedbirlerinin İnfazı Hakkında Kanunun 107 nci maddesinin;\n 1) Yedinci fıkrasında düzenlenen denetim süresinde hükümlünün kamu kuruluşunda veya bir başkasının gözetiminde ücretle çalıştırılması,\n 2) Sekizinci fıkrasında düzenlenen çocuk hükümlülerin, gerektiğinde barınma imkânı da bulunan bir eğitim kurumuna yerleştirilmesi,\n 3) Dokuzuncu fıkrasında düzenlenen uzman bir kişinin görevlendirilmesi ve hükümlünün davranışlarının izlenerek infaz hâkimine rapor verilmesi,[20]\n 4) Onikinci fıkrasında düzenlenen denetim süresinde hükümlünün yükümlülüklere uyması veya hapis cezasını gerektiren kasıtlı bir suç işlememesi,\n 5) Ondördüncü fıkrasında düzenlenen denetim süresini iyi hâlle geçirmesi,\n Biçimindeki yükümlülüklerin denetimi kapsamında kendisine verilen görevleri, gerektiğinde kolluk ve ilgili diğer makamlarla işbirliği yaparak yerine getirmek.\n b) 5275 sayılı Ceza ve Güvenlik Tedbirlerinin İnfazı Hakkında Kanunun 108 inci maddesinin dördüncü ve altıncı fıkraları gereğince düzenlenen denetim süresinin iyi hâlle geçirilmesi yükümlülüğünün denetimi kapsamında kendisine verilen görevleri, gerektiğinde kolluk makamlarıyla işbirliği yaparak yerine getirmek.\n c) 5275 sayılı Ceza ve Güvenlik Tedbirlerinin İnfazı Hakkında Kanunun 107 nci maddesinin onuncu fıkrasında belirtilen denetimli serbestlik tedbirinin veya belirlenen yükümlülüklerin kaldırılması konusunda düzenleyeceği bir raporla görüş bildirmek.\n d) Koruma kurulları; kamu kurum ve kuruluşları, kamu kurumu niteliğindeki meslek kuruluşları, kamu yararına çalışan vakıf ve dernekler ile uygun görülen gönüllü gerçek ve tüzel kişilerle işbirliği yaparak 5275 sayılı Ceza ve Güvenlik Tedbirlerinin İnfazı Hakkında Kanunun 90 ve 91 inci maddelerinde düzenlenen, salıverilen kişilerin iş bulmalarına veya meslek ve sanatlarıyla ilgili bir iş kurmalarına, çevre ve aileleriyle olabilecek psiko-sosyal sorunların çözümüne yardımcı olmak.\n e) Hükümlülerin yeniden suç işlemesinin önlenmesi ve topluma kazandırılmasını sağlayıcı etkenleri güçlendirme amacına yönelik çalışmalar yapmak.",
       "preview": "(1) Müdürlüğün salıverme sonrası görevleri şunlardır:[19] a) 5275 sayılı Ceza ve Güvenlik Tedbirlerinin İnfazı Hakkında Kanunun 107 nci madd…",
       "kitap": null,
       "kisim": "İKİNCİ KISIM · Kuruluş, Teşkilât ve Görev",
@@ -278,6 +291,24 @@
         "İKİNCİ KISIM · Kuruluş, Teşkilât ve Görev",
         "ÜÇÜNCÜ BÖLÜM · Müdürlük[8]",
         "Salıverme sonrası görevler"
+      ]
+    },
+    {
+      "id": "kanun:5402:m:15/A",
+      "maddeKind": "madde",
+      "maddeNo": "15/A",
+      "heading": "Madde 15/A",
+      "text": "(Ek: 5/4/2012-6291/4 md.)\n (1) Şüpheli, sanık ve hükümlülerin toplum içinde izlenmesi, gözetimi ve denetimi elektronik cihazların kullanılması suretiyle de yerine getirilebilir. (Ek cümle:14/4/2020-7242/59 md.) Bu izleme, rızası alınmak koşuluyla şüpheli, sanık ve hükümlüye ait elektronik cihazlar kullanılmak suretiyle de yapılabilir.\n (2) İzleme, gözetim ve denetime ilişkin esas ve usuller yönetmelikle düzenlenir.",
+      "preview": "(Ek: 5/4/2012-6291/4 md.) (1) Şüpheli, sanık ve hükümlülerin toplum içinde izlenmesi, gözetimi ve denetimi elektronik cihazların kullanılmas…",
+      "kitap": null,
+      "kisim": "İKİNCİ KISIM · Kuruluş, Teşkilât ve Görev",
+      "bolum": "ÜÇÜNCÜ BÖLÜM · Müdürlük[8]",
+      "ayirim": null,
+      "maddeBaslik": "Elektronik cihazların kullanılması suretiyle takip",
+      "sectionPath": [
+        "İKİNCİ KISIM · Kuruluş, Teşkilât ve Görev",
+        "ÜÇÜNCÜ BÖLÜM · Müdürlük[8]",
+        "Elektronik cihazların kullanılması suretiyle takip"
       ]
     },
     {
@@ -460,7 +491,7 @@
       "maddeKind": "madde",
       "maddeNo": "26",
       "heading": "Madde 26",
-      "text": "(1) Denetimli serbestlik ve yardım ile koruma hizmetlerini yürütmek üzere bu Kanun ile oluşturulan taşra teşkilâtında görevli Devlet memurları; hizmet sınıfı, unvan ve derecelerine göre ceza infaz kurumları ve tutukevlerinde görev yapan emsallerine 657 sayılı Devlet Memurları Kanununun 152 nci maddesi uyarınca ödenen zam ve tazminatlardan yararlanırlar.\n (2) Danışma Kurulunun toplantılarına katılan üyelere 6245 sayılı Harcırah Kanunu hükümlerine göre harcırah ödenir.\n (3) Denetimli serbestlik ve yardım ile koruma hizmetleri için Bakanlık bütçesine yeterli ödenek konulur. Bu hizmetlerde çalışan gönüllülere, talepleri üzerine fiilen çalıştıkları her gün için ulaşım ve iaşe giderleri karşılığı olarak yapılacak günlük ödeme tutarı ve tüm gönüllülere ödeme yapılabilecek yıllık toplam gün sayısı bütçe kanunlarıyla belirlenir. Bu ödemelerden herhangi bir vergi ve kesinti yapılmaz.\n (4) (Ek:14/4/2020-7242/60 md.) Denetimli serbestlik tedbiri altında bulunan ve denetimli serbestlik müdürlüğü tarafından muhtaç durumda olduğu tespit edilen yükümlülerin, kamuya yararlı bir işte ücretsiz çalıştırılma yükümlülüğünü yerine getirirken mutat vasıta ile yaptıkları yol giderleri müdürlük bütçesinden, iaşe giderleri ise çalıştırıldıkları kurum bütçesinden karşılanabilir.\n\n Müdür ve müdür yardımcılığına atanma\n Madde 26/A - (Ek: 5/4/2012-6291/5 md.)\n (1) Denetimli serbestlik müdürlüklerine, en az dört yıllık eğitim veren fakülte ve yüksekokullardan veya bunlara denkliği Yükseköğretim Kurulunca kabul edilmiş yurtdışındaki yükseköğretim kurumlarından mezun olanlar arasından yazılı ve Bakanlıkça yapılacak mülakat sınav sonucuna göre denetimli serbestlik müdür yardımcısı atanır.\n (2) Denetimli serbestlik müdür yardımcılığı yazılı ve mülakat sınavı ile denetimli serbestlik müdür yardımcılarının denetimli serbestlik müdürlüğüne, denetimli serbestlik müdürlerinin denetimli serbestlik müdür yardımcılığına atanmalarına ilişkin usul ve esaslar yönetmelikle düzenlenir.\n\n Yönetmelik",
+      "text": "(1) Denetimli serbestlik ve yardım ile koruma hizmetlerini yürütmek üzere bu Kanun ile oluşturulan taşra teşkilâtında görevli Devlet memurları; hizmet sınıfı, unvan ve derecelerine göre ceza infaz kurumları ve tutukevlerinde görev yapan emsallerine 657 sayılı Devlet Memurları Kanununun 152 nci maddesi uyarınca ödenen zam ve tazminatlardan yararlanırlar.\n (2) Danışma Kurulunun toplantılarına katılan üyelere 6245 sayılı Harcırah Kanunu hükümlerine göre harcırah ödenir.\n (3) Denetimli serbestlik ve yardım ile koruma hizmetleri için Bakanlık bütçesine yeterli ödenek konulur. Bu hizmetlerde çalışan gönüllülere, talepleri üzerine fiilen çalıştıkları her gün için ulaşım ve iaşe giderleri karşılığı olarak yapılacak günlük ödeme tutarı ve tüm gönüllülere ödeme yapılabilecek yıllık toplam gün sayısı bütçe kanunlarıyla belirlenir. Bu ödemelerden herhangi bir vergi ve kesinti yapılmaz.\n (4) (Ek:14/4/2020-7242/60 md.) Denetimli serbestlik tedbiri altında bulunan ve denetimli serbestlik müdürlüğü tarafından muhtaç durumda olduğu tespit edilen yükümlülerin, kamuya yararlı bir işte ücretsiz çalıştırılma yükümlülüğünü yerine getirirken mutat vasıta ile yaptıkları yol giderleri müdürlük bütçesinden, iaşe giderleri ise çalıştırıldıkları kurum bütçesinden karşılanabilir.",
       "preview": "(1) Denetimli serbestlik ve yardım ile koruma hizmetlerini yürütmek üzere bu Kanun ile oluşturulan taşra teşkilâtında görevli Devlet memurla…",
       "kitap": null,
       "kisim": "ÜÇÜNCÜ KISIM · Çeşitli ve Son Hükümler",
@@ -470,6 +501,23 @@
       "sectionPath": [
         "ÜÇÜNCÜ KISIM · Çeşitli ve Son Hükümler",
         "Malî hükümler"
+      ]
+    },
+    {
+      "id": "kanun:5402:m:26/A",
+      "maddeKind": "madde",
+      "maddeNo": "26/A",
+      "heading": "Madde 26/A",
+      "text": "(Ek: 5/4/2012-6291/5 md.)\n (1) Denetimli serbestlik müdürlüklerine, en az dört yıllık eğitim veren fakülte ve yüksekokullardan veya bunlara denkliği Yükseköğretim Kurulunca kabul edilmiş yurtdışındaki yükseköğretim kurumlarından mezun olanlar arasından yazılı ve Bakanlıkça yapılacak mülakat sınav sonucuna göre denetimli serbestlik müdür yardımcısı atanır.\n (2) Denetimli serbestlik müdür yardımcılığı yazılı ve mülakat sınavı ile denetimli serbestlik müdür yardımcılarının denetimli serbestlik müdürlüğüne, denetimli serbestlik müdürlerinin denetimli serbestlik müdür yardımcılığına atanmalarına ilişkin usul ve esaslar yönetmelikle düzenlenir.\n\n Yönetmelik",
+      "preview": "(Ek: 5/4/2012-6291/5 md.) (1) Denetimli serbestlik müdürlüklerine, en az dört yıllık eğitim veren fakülte ve yüksekokullardan veya bunlara d…",
+      "kitap": null,
+      "kisim": "ÜÇÜNCÜ KISIM · Çeşitli ve Son Hükümler",
+      "bolum": null,
+      "ayirim": null,
+      "maddeBaslik": "Müdür ve müdür yardımcılığına atanma",
+      "sectionPath": [
+        "ÜÇÜNCÜ KISIM · Çeşitli ve Son Hükümler",
+        "Müdür ve müdür yardımcılığına atanma"
       ]
     },
     {
@@ -483,10 +531,10 @@
       "kisim": "ÜÇÜNCÜ KISIM · Çeşitli ve Son Hükümler",
       "bolum": null,
       "ayirim": null,
-      "maddeBaslik": "Malî hükümler",
+      "maddeBaslik": "Müdür ve müdür yardımcılığına atanma",
       "sectionPath": [
         "ÜÇÜNCÜ KISIM · Çeşitli ve Son Hükümler",
-        "Malî hükümler"
+        "Müdür ve müdür yardımcılığına atanma"
       ]
     },
     {

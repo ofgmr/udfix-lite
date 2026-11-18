@@ -12,7 +12,7 @@
   "tertip": 5,
   "sourceUrl": "https://www.mevzuat.gov.tr/mevzuat?MevzuatNo=6446&MevzuatTur=1&MevzuatTertip=5",
   "kabulTarihi": "14/3/2013",
-  "maddeCount": 73,
+  "maddeCount": 74,
   "maddeler": [
     {
       "id": "kanun:6446:m:1",
@@ -201,7 +201,7 @@
       "maddeKind": "madde",
       "maddeNo": "12",
       "heading": "Madde 12",
-      "text": "(1) Elektrik enerjisi ve/veya kapasitenin uluslararası enterkonneksiyon şartı oluşmuş ülkelere ihracatı, tedarik lisansı sahibi şirketler ve üretim şirketleri tarafından, Bakanlığın uygun görüşü doğrultusunda, bu Kanun ve ikincil mevzuatı uyarınca Kurul onayıyla yapılabilir.\n (2) Elektrik enerjisi ve/veya kapasitesinin uluslararası enterkonneksiyon şartı oluşmuş ülkelerden ithalatı, tedarik lisansı sahibi şirketler tarafından, Bakanlığın uygun görüşü doğrultusunda, bu Kanun ve ikincil mevzuatı uyarınca Kurul onayıyla yapılabilir.\n (3) Sınırda yer alan illerde kurduğu üretim tesisinde ürettiği elektriği iletim veya dağıtım sistemine bağlantı tesis etmeden kuracağı özel direkt hat ile ihraç etmek isteyen tüzel kişilere, üretim lisansı almak kaydıyla Bakanlığın uygun görüşü doğrultusunda Kurulca izin verilebilir.\n (4) Sınır bölgelerinde elektrik enerjisinin temini amacıyla, teknik gereklilik doğması hâlinde geçici olarak izole bölge yöntemiyle elektrik ithalatına Bakanlığın uygun görüşü doğrultusunda Kurulca izin verilebilir.\n (5) İthalat ve ihracat faaliyetlerine ilişkin usul ve esaslar Kurum tarafından çıkarılan yönetmelikle düzenlenir.\n\n Toplayıcılık faaliyeti\n MADDE 12/A- (Ek:22/12/2022-7429/9 md.)\n (1) Toplayıcı, şebeke kullanıcıları tarafından anlaşma yoluyla yetkilendirilir. Şebeke kullanıcıları, enerji tedarik etmek üzere anlaşmalı oldukları tedarik lisansı sahibi tüzel kişileri toplayıcı olarak yetkilendiremez.\n (2) Toplayıcı, anlaşmalı olduğu kullanıcıların tüketim ve/veya üretim programlarını yönetir, söz konusu kullanıcılar adına elektrik enerjisi ve/veya kapasitesinin alınıp satılmasına ilişkin piyasa işlemlerini yürütür ve yan hizmetlere ilişkin tedarik süreçlerine katılabilir.\n (3) Toplayıcılık faaliyeti, toplayıcı lisansına veya tedarik lisansına sahip tüzel kişiler tarafından yürütülebilir.\n (4) Toplayıcılık faaliyetlerine ilişkin usul ve esaslar Kurum tarafından çıkarılan yönetmelikle düzenlenir.",
+      "text": "(1) Elektrik enerjisi ve/veya kapasitenin uluslararası enterkonneksiyon şartı oluşmuş ülkelere ihracatı, tedarik lisansı sahibi şirketler ve üretim şirketleri tarafından, Bakanlığın uygun görüşü doğrultusunda, bu Kanun ve ikincil mevzuatı uyarınca Kurul onayıyla yapılabilir.\n (2) Elektrik enerjisi ve/veya kapasitesinin uluslararası enterkonneksiyon şartı oluşmuş ülkelerden ithalatı, tedarik lisansı sahibi şirketler tarafından, Bakanlığın uygun görüşü doğrultusunda, bu Kanun ve ikincil mevzuatı uyarınca Kurul onayıyla yapılabilir.\n (3) Sınırda yer alan illerde kurduğu üretim tesisinde ürettiği elektriği iletim veya dağıtım sistemine bağlantı tesis etmeden kuracağı özel direkt hat ile ihraç etmek isteyen tüzel kişilere, üretim lisansı almak kaydıyla Bakanlığın uygun görüşü doğrultusunda Kurulca izin verilebilir.\n (4) Sınır bölgelerinde elektrik enerjisinin temini amacıyla, teknik gereklilik doğması hâlinde geçici olarak izole bölge yöntemiyle elektrik ithalatına Bakanlığın uygun görüşü doğrultusunda Kurulca izin verilebilir.\n (5) İthalat ve ihracat faaliyetlerine ilişkin usul ve esaslar Kurum tarafından çıkarılan yönetmelikle düzenlenir.",
       "preview": "(1) Elektrik enerjisi ve/veya kapasitenin uluslararası enterkonneksiyon şartı oluşmuş ülkelere ihracatı, tedarik lisansı sahibi şirketler ve…",
       "kitap": null,
       "kisim": null,
@@ -211,6 +211,23 @@
       "sectionPath": [
         "İKİNCİ BÖLÜM · Elektrik Piyasası Faaliyetleri ve Lisanslar",
         "İthalat ve ihracat faaliyetleri"
+      ]
+    },
+    {
+      "id": "kanun:6446:m:12/A",
+      "maddeKind": "madde",
+      "maddeNo": "12/A",
+      "heading": "Madde 12/A",
+      "text": "(Ek:22/12/2022-7429/9 md.)\n (1) Toplayıcı, şebeke kullanıcıları tarafından anlaşma yoluyla yetkilendirilir. Şebeke kullanıcıları, enerji tedarik etmek üzere anlaşmalı oldukları tedarik lisansı sahibi tüzel kişileri toplayıcı olarak yetkilendiremez.\n (2) Toplayıcı, anlaşmalı olduğu kullanıcıların tüketim ve/veya üretim programlarını yönetir, söz konusu kullanıcılar adına elektrik enerjisi ve/veya kapasitesinin alınıp satılmasına ilişkin piyasa işlemlerini yürütür ve yan hizmetlere ilişkin tedarik süreçlerine katılabilir.\n (3) Toplayıcılık faaliyeti, toplayıcı lisansına veya tedarik lisansına sahip tüzel kişiler tarafından yürütülebilir.\n (4) Toplayıcılık faaliyetlerine ilişkin usul ve esaslar Kurum tarafından çıkarılan yönetmelikle düzenlenir.",
+      "preview": "(Ek:22/12/2022-7429/9 md.) (1) Toplayıcı, şebeke kullanıcıları tarafından anlaşma yoluyla yetkilendirilir. Şebeke kullanıcıları, enerji teda…",
+      "kitap": null,
+      "kisim": null,
+      "bolum": "İKİNCİ BÖLÜM · Elektrik Piyasası Faaliyetleri ve Lisanslar",
+      "ayirim": null,
+      "maddeBaslik": "Toplayıcılık faaliyeti",
+      "sectionPath": [
+        "İKİNCİ BÖLÜM · Elektrik Piyasası Faaliyetleri ve Lisanslar",
+        "Toplayıcılık faaliyeti"
       ]
     },
     {

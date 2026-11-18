@@ -1,6 +1,7 @@
 import { Extension } from '@tiptap/core';
 import type { CommandProps, RawCommands } from '@tiptap/core';
-import { Plugin, PluginKey } from '@tiptap/pm/state';
+import type { Node as PmNode } from '@tiptap/pm/model';
+import { Plugin, PluginKey, type Transaction } from '@tiptap/pm/state';
 import { Decoration, DecorationSet } from '@tiptap/pm/view';
 
 export interface CommentHighlightOptions {
@@ -13,6 +14,47 @@ declare module '@tiptap/core' {
             setCommentHighlight: (commentId: string | null) => ReturnType;
         };
     }
+}
+
+export const commentHighlightKey = new PluginKey<DecorationSet>('commentHighlight');
+
+/** Text uses an inline decoration. Any other marked node, including atoms, uses a node decoration. */
+export function commentHighlightDecorations(
+    doc: PmNode,
+    activeId: string,
+    highlightClass: string,
+): DecorationSet {
+    const decorations: Decoration[] = [];
+    doc.descendants((node, pos) => {
+        const mark = node.marks.find(
+            (candidate) => candidate.type.name === 'comment' && candidate.attrs.commentId === activeId,
+        );
+        if (!mark) return;
+        const to = pos + node.nodeSize;
+        if (node.isText) {
+            decorations.push(
+                Decoration.inline(pos, to, { class: highlightClass }, { udfixKind: 'inline' }),
+            );
+            return;
+        }
+        decorations.push(
+            Decoration.node(pos, to, { class: highlightClass }, { udfixKind: 'node' }),
+        );
+    });
+    return DecorationSet.create(doc, decorations);
+}
+
+export function applyCommentHighlight(
+    tr: Transaction,
+    oldSet: DecorationSet,
+    highlightClass: string,
+): DecorationSet {
+    const activeId = tr.getMeta('commentHighlight') as string | null | undefined;
+    if (activeId !== undefined) {
+        if (activeId === null) return DecorationSet.empty;
+        return commentHighlightDecorations(tr.doc, activeId, highlightClass);
+    }
+    return oldSet.map(tr.mapping, tr.doc);
 }
 
 export const CommentHighlight = Extension.create<CommentHighlightOptions>({
@@ -42,42 +84,18 @@ export const CommentHighlight = Extension.create<CommentHighlightOptions>({
 
         return [
             new Plugin({
-                key: new PluginKey('commentHighlight'),
+                key: commentHighlightKey,
                 state: {
                     init() {
                         return DecorationSet.empty;
                     },
                     apply(tr, oldSet) {
-                        // Check for meta to update active comment
-                        const activeId = tr.getMeta('commentHighlight');
-
-                        // If activeId is provided (string or null), recompute decorations
-                        if (activeId !== undefined) {
-                            if (activeId === null) return DecorationSet.empty;
-
-                            const decorations: Decoration[] = [];
-                            tr.doc.descendants((node, pos) => {
-                                const mark = node.marks.find(
-                                    (m) => m.type.name === 'comment' && m.attrs.commentId === activeId
-                                );
-                                if (mark) {
-                                    decorations.push(
-                                        Decoration.inline(pos, pos + node.nodeSize, {
-                                            class: highlightClass,
-                                        })
-                                    );
-                                }
-                            });
-                            return DecorationSet.create(tr.doc, decorations);
-                        }
-
-                        // Otherwise, map existing decorations
-                        return oldSet.map(tr.mapping, tr.doc);
+                        return applyCommentHighlight(tr, oldSet, highlightClass);
                     },
                 },
                 props: {
                     decorations(state) {
-                        return this.getState(state);
+                        return commentHighlightKey.getState(state);
                     },
                 },
             }),

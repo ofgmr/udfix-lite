@@ -14,40 +14,8 @@ import { Placeholder } from '@tiptap/extension-placeholder'
 import { getEditorPlaceholderOptions } from '../../utils/editorEmptyPlaceholder'
 import { BubbleMenu as BubbleMenuExtension } from '@tiptap/extension-bubble-menu'
 import { FileHandler } from '@tiptap/extension-file-handler'
-import Comment from '@sereneinserenade/tiptap-comment-extension'
 import { CommentHighlight } from '../../extensions/CommentHighlight'
-
-const UdfixComment = Comment.extend({
-    addAttributes() {
-        return {
-            ...this.parent?.(),
-            commentPayload: {
-                default: null,
-                parseHTML: (element: HTMLElement) => element.getAttribute('data-comment-payload'),
-                renderHTML: (attributes: { commentPayload?: string | null }) =>
-                    attributes.commentPayload
-                        ? { 'data-comment-payload': attributes.commentPayload }
-                        : {},
-            },
-        };
-    },
-    parseHTML() {
-        return [
-            {
-                tag: 'span[data-comment-id]',
-                getAttrs: (el: HTMLElement | string) => {
-                    if (typeof el === 'string') return false;
-                    const commentId = el.getAttribute('data-comment-id')?.trim();
-                    if (!commentId) return false;
-                    return {
-                        commentId,
-                        commentPayload: el.getAttribute('data-comment-payload'),
-                    };
-                },
-            },
-        ];
-    },
-});
+import { UdfixComment } from '../../extensions/UdfixComment'
 import {
     EDITOR_PAGE_HEIGHT_PX,
     EDITOR_PAGE_MARGIN_LEFT_PX,
@@ -80,6 +48,8 @@ import { createDebouncedAtMentionItems } from '../../utils/atMentionItems'
 import { emptyPlaceholderSuggestion, textTemplateHashSuggestion } from './textTemplateSuggestion'
 import { ListMarkerFormat } from '../../extensions/ListMarkerFormat'
 import { ParagraphStyleShortcuts } from '../../extensions/ParagraphStyleShortcuts'
+import { PreserveStoredMarks } from '../../extensions/PreserveStoredMarks'
+import { TableTrailingParagraph } from '../../extensions/TableTrailingParagraph'
 import { compileHfHtml } from '../../utils/compileHfHtml'
 import { UdfixTable } from '@/extensions/UdfixTable'
 import { VariableSlot } from '../../extensions/VariableSlot'
@@ -230,6 +200,7 @@ export function createUdfixEditorExtensions(documentId: string): Extensions {
         TableRowPlus,
         TableHeaderPlus,
         TableCellPlus,
+        TableTrailingParagraph,
         ImageExtension,
         PageBreak,
         SectionBreakInsert,
@@ -261,6 +232,7 @@ export function createUdfixEditorExtensions(documentId: string): Extensions {
         Indent,
         ListMarkerFormat,
         ParagraphStyleShortcuts,
+        PreserveStoredMarks,
         LineHeight,
         FootnoteExtension,
         CharacterCount,

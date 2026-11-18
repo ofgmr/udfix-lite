@@ -1,3 +1,4 @@
+import type { LedgerKind, MatterLedgerRow } from '../lib/matterLedger';
 import type { EditorTypographyPayload } from '../utils/editorTypography';
 import type { BlockStyleKey } from '../utils/blockStyleFormat';
 import { getElectronInvoke } from '../utils/electronBridge';
@@ -533,6 +534,12 @@ export interface DocumentRecoveryContent {
 const getInvoke = (): (<T>(channel: string, ...args: unknown[]) => Promise<T>) =>
     getElectronInvoke() as (<T>(channel: string, ...args: unknown[]) => Promise<T>);
 
+function throwIfLedgerError(result: unknown): void {
+    if (!result || typeof result !== 'object' || !('error' in result)) return;
+    const message = (result as { error?: unknown }).error;
+    if (message) throw new Error(String(message));
+}
+
 export const DataService = {
     // === DATA METHODS ===
 
@@ -648,6 +655,46 @@ export const DataService = {
     async deleteMatterDecision(id: string): Promise<void> {
         const invoke = getInvoke();
         await invoke('db-delete-matter-decision', id);
+    },
+
+    async listMatterLedger(filter: { matterId?: string; partyId?: string }): Promise<MatterLedgerRow[]> {
+        const invoke = getInvoke();
+        const raw = await invoke('db-list-matter-ledger', filter);
+        return Array.isArray(raw) ? (raw as MatterLedgerRow[]) : [];
+    },
+
+    async addMatterLedgerEntry(row: {
+        matter_id?: string | null;
+        party_id: string;
+        kind: LedgerKind;
+        description: string;
+        amount_minor: number;
+        entry_date: string;
+        balance_minor?: number | null;
+        detail_json?: string | null;
+    }): Promise<void> {
+        const invoke = getInvoke();
+        throwIfLedgerError(await invoke('db-add-matter-ledger', row));
+    },
+
+    async updateMatterLedgerEntry(row: {
+        id: string;
+        matter_id?: string | null;
+        party_id: string;
+        kind: LedgerKind;
+        description: string;
+        amount_minor: number;
+        entry_date: string;
+        balance_minor?: number | null;
+        detail_json?: string | null;
+    }): Promise<void> {
+        const invoke = getInvoke();
+        throwIfLedgerError(await invoke('db-update-matter-ledger', row));
+    },
+
+    async deleteMatterLedgerEntry(id: string): Promise<void> {
+        const invoke = getInvoke();
+        throwIfLedgerError(await invoke('db-delete-matter-ledger', id));
     },
 
     // --- Notes ---
@@ -1304,7 +1351,7 @@ export const DataService = {
         return invoke('db-upsert-editor-document', params);
     },
 
-    async listDocumentRecoveryItems(limit = 20): Promise<EditorDocumentRecoveryItem[]> {
+    async listDocumentRecoveryItems(limit = 100): Promise<EditorDocumentRecoveryItem[]> {
         const invoke = getInvoke();
         const rows = await invoke<EditorDocumentRecoveryItem[]>('db-list-document-recovery-items', limit);
         return Array.isArray(rows) ? rows : [];
@@ -1452,11 +1499,19 @@ export const DataService = {
         }
     },
 
-    async activateLicenseKey(licenseKey: string): Promise<{ ok: boolean; error?: string }> {
+    async activateLicenseKey(
+        licenseKey: string,
+        email?: string,
+    ): Promise<{ ok: boolean; error?: string }> {
         try {
             const invoke = getInvoke();
             const trimmed = licenseKey.trim();
-            return await invoke('app-account-activate-katir', { activationCode: trimmed, licenseKey: trimmed });
+            const claimEmail = email?.trim() || '';
+            return await invoke('app-account-activate-katir', {
+                activationCode: trimmed,
+                licenseKey: trimmed,
+                email: claimEmail,
+            });
         } catch (err) {
             return { ok: false, error: err instanceof Error ? err.message : String(err) };
         }
@@ -1517,6 +1572,7 @@ export const DataService = {
         dosya?: string;
         downloadNew?: boolean;
         hesap?: boolean;
+        courtMoney?: boolean;
         keys?: string[];
         stale?: boolean;
         preview?: boolean;
@@ -1626,43 +1682,6 @@ export const DataService = {
             return Array.isArray(rows) ? rows : [];
         } catch {
             return null;
-        }
-    },
-
-    async listNotifications(opts?: { unreadOnly?: boolean; limit?: number }): Promise<AppNotification[]> {
-        try {
-            const invoke = getInvoke();
-            const rows = await invoke<AppNotification[]>('db-list-notifications', opts);
-            return Array.isArray(rows) ? rows : [];
-        } catch {
-            return [];
-        }
-    },
-
-    async markNotificationRead(id: string): Promise<{ ok: boolean }> {
-        try {
-            const invoke = getInvoke();
-            return await invoke('db-mark-notification-read', id);
-        } catch {
-            return { ok: false };
-        }
-    },
-
-    async markAllNotificationsRead(): Promise<{ ok: boolean }> {
-        try {
-            const invoke = getInvoke();
-            return await invoke('db-mark-notifications-read-all');
-        } catch {
-            return { ok: false };
-        }
-    },
-
-    async showNativeNotification(payload: { title: string; body?: string }): Promise<void> {
-        try {
-            const invoke = getInvoke();
-            await invoke('app-show-native-notification', payload);
-        } catch {
-            /* ignore */
         }
     },
 
@@ -1940,16 +1959,4 @@ export type UyapRecentEvrak = {
     dosya_tur_label?: string | null;
 };
 
-export type AppNotification = {
-    id: string;
-    kind: string;
-    title: string;
-    body: string | null;
-    matter_id: string | null;
-    read_at: string | null;
-    payload_json: string | null;
-    created_at: string;
-    parties_line?: string | null;
-    /** Matter-card UYAP label: `uyap_icra_takip_yolu` or `uyap_dava_turu`, never coarse `dosyaTur`. */
-    dosya_tur_label?: string | null;
-};
+

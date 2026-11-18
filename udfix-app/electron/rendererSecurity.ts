@@ -1,6 +1,7 @@
 import { app, session, type Session, type WebContents } from 'electron';
 import path from 'path';
 import { pathToFileURL } from 'url';
+import { isRendererPermissionAllowed } from './rendererPermission';
 
 /** Unpackaged dev build (`NODE_ENV=development`). */
 export function isRendererDevelopmentHost(): boolean {
@@ -156,15 +157,7 @@ export function attachWebContentsSecurityGuards(webContents: WebContents, devMod
     });
 
     webContents.session.setPermissionRequestHandler((_contents, permission, callback) => {
-        switch (permission) {
-            case 'media':
-            case 'geolocation':
-            case 'openExternal':
-                callback(false);
-                return;
-            default:
-                callback(true);
-        }
+        callback(isRendererPermissionAllowed(permission));
     });
 
     webContents.setWindowOpenHandler(({ url }) => {

@@ -9,7 +9,7 @@ import { usePartiesStore } from '../../stores/usePartiesStore';
 import { cn } from '../../lib/utils';
 import MaterialIcon from '../ui/MaterialIcon';
 import { Button } from '../ui/button';
-import { Checkbox } from '../ui/checkbox';
+import { Checkbox, glassEdgeCheckboxClass } from '../ui/checkbox';
 import { CalendarEventForm } from './CalendarEventForm';
 import {
     MONTH_NAMES_TR,
@@ -337,7 +337,8 @@ export const CalendarPanel: React.FC = () => {
                                         : 'Tamamlandı olarak işaretle'
                                 }
                                 title={ev.is_completed ? 'Yeniden aç' : 'Tamamlandı'}
-                                className="flex h-auto min-h-full w-7 shrink-0 self-stretch items-center justify-center rounded-none rounded-r-lg border-0 border-l border-white/10 bg-transparent hover:bg-white/5 data-[state=checked]:bg-primary/20 data-[state=checked]:text-primary"
+                                className={cn(glassEdgeCheckboxClass, 'rounded-r-lg')}
+                                onClick={(event) => event.stopPropagation()}
                             />
                         </div>
                     );

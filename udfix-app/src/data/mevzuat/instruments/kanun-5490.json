@@ -12,7 +12,7 @@
   "tertip": 5,
   "sourceUrl": "https://www.mevzuat.gov.tr/mevzuat?MevzuatNo=5490&MevzuatTur=1&MevzuatTertip=5",
   "kabulTarihi": "25/4/2006",
-  "maddeCount": 91,
+  "maddeCount": 93,
   "maddeler": [
     {
       "id": "kanun:5490:m:1",
@@ -137,7 +137,7 @@
       "maddeKind": "madde",
       "maddeNo": "8",
       "heading": "Madde 8",
-      "text": "(Başlığı ile Birlikte Değişik:18/10/2018-7148/32 md.)\n (1) 4/4/2013 tarihli ve 6458 sayılı Yabancılar ve Uluslararası Koruma Kanunu kapsamındaki yabancılara kimlik numarası vermeye, bunları yabancılar kütüğüne kaydetmeye ve herhangi bir işlem sebebiyle Türkiye’de bir kamu kurumuna veya dış temsilciliklerimize müracaat eden yabancılara, talep etmeleri hâlinde yabancı kimlik numarası (YKN) vermeye Bakanlık yetkilidir. Diplomatik misyon mensupları bu hükmün kapsamı dışındadır.\n (2) Yabancı kimlik numarasının geçerlilik süresi, başvuru esnasında ve sonrasında istenilecek belgeler ile diğer hususlar İçişleri Bakanlığınca çıkarılacak yönetmelikle belirlenir.\n\n Mavi Kartlıların kayıtları\n MADDE 8/A- (Ek: 9/5/2012-6304/12 md.)\n (1) Doğumla Türk vatandaşı olup da çıkma izni almak suretiyle Türk vatandaşlığını kaybedenler ve bunların 5901 sayılı Kanunun 28 inci maddesinde belirtilen altsoyları, Genel Müdürlükçe elektronik ortamda tutulan Mavi Kartlılar Kütüğüne kaydedilir. Bu Kütüğe kaydedilenler, her türlü nüfus olaylarını yurt içinde nüfus müdürlüklerine, yurt dışında ise dış temsilciliklere beyan etmekle yükümlüdürler.",
+      "text": "(Başlığı ile Birlikte Değişik:18/10/2018-7148/32 md.)\n (1) 4/4/2013 tarihli ve 6458 sayılı Yabancılar ve Uluslararası Koruma Kanunu kapsamındaki yabancılara kimlik numarası vermeye, bunları yabancılar kütüğüne kaydetmeye ve herhangi bir işlem sebebiyle Türkiye’de bir kamu kurumuna veya dış temsilciliklerimize müracaat eden yabancılara, talep etmeleri hâlinde yabancı kimlik numarası (YKN) vermeye Bakanlık yetkilidir. Diplomatik misyon mensupları bu hükmün kapsamı dışındadır.\n (2) Yabancı kimlik numarasının geçerlilik süresi, başvuru esnasında ve sonrasında istenilecek belgeler ile diğer hususlar İçişleri Bakanlığınca çıkarılacak yönetmelikle belirlenir.",
       "preview": "(Başlığı ile Birlikte Değişik:18/10/2018-7148/32 md.) (1) 4/4/2013 tarihli ve 6458 sayılı Yabancılar ve Uluslararası Koruma Kanunu kapsamınd…",
       "kitap": null,
       "kisim": "İKİNCİ KISIM · Nüfus Hizmetlerinin Yürütülmesi",
@@ -148,6 +148,24 @@
         "İKİNCİ KISIM · Nüfus Hizmetlerinin Yürütülmesi",
         "BİRİNCİ BÖLÜM · Yetkililer ve Nüfus Kütükleri",
         "Yabancıların kayıtlarının tutulması"
+      ]
+    },
+    {
+      "id": "kanun:5490:m:8/A",
+      "maddeKind": "madde",
+      "maddeNo": "8/A",
+      "heading": "Madde 8/A",
+      "text": "(Ek: 9/5/2012-6304/12 md.)\n (1) Doğumla Türk vatandaşı olup da çıkma izni almak suretiyle Türk vatandaşlığını kaybedenler ve bunların 5901 sayılı Kanunun 28 inci maddesinde belirtilen altsoyları, Genel Müdürlükçe elektronik ortamda tutulan Mavi Kartlılar Kütüğüne kaydedilir. Bu Kütüğe kaydedilenler, her türlü nüfus olaylarını yurt içinde nüfus müdürlüklerine, yurt dışında ise dış temsilciliklere beyan etmekle yükümlüdürler.",
+      "preview": "(Ek: 9/5/2012-6304/12 md.) (1) Doğumla Türk vatandaşı olup da çıkma izni almak suretiyle Türk vatandaşlığını kaybedenler ve bunların 5901 sa…",
+      "kitap": null,
+      "kisim": "İKİNCİ KISIM · Nüfus Hizmetlerinin Yürütülmesi",
+      "bolum": "BİRİNCİ BÖLÜM · Yetkililer ve Nüfus Kütükleri",
+      "ayirim": null,
+      "maddeBaslik": "Mavi Kartlıların kayıtları",
+      "sectionPath": [
+        "İKİNCİ KISIM · Nüfus Hizmetlerinin Yürütülmesi",
+        "BİRİNCİ BÖLÜM · Yetkililer ve Nüfus Kütükleri",
+        "Mavi Kartlıların kayıtları"
       ]
     },
     {
@@ -479,7 +497,7 @@
       "maddeKind": "madde",
       "maddeNo": "27",
       "heading": "Madde 27",
-      "text": "(1) Boşanma veya evliliğin iptaline ilişkin kararlarda aşağıdaki bilgilere yer verilmesi zorunludur:\n a) Tarafların Türkiye Cumhuriyeti kimlik numarası, adı, soyadı, doğum yeri ve tarihi, baba ve ana adları ile kadının evlenmeden önceki soyadı ve aile kütüğünde kayıtlı olduğu yer bilgileri.\n b) Evlilik içinde doğmuş çocuklar ve bunların kimlik bilgileri.\n c) Karara ait usûl mevzuatının öngördüğü diğer esas ve usûle ait hükümler.\n\n Yabancı ülke adlî veya idarî makamlarınca verilen boşanma kararlarının nüfus kütüğüne tescili\n MADDE 27/A – (Ek: 17/4/2017-KHK-690/4 md.; Aynen kabul: 1/2/2018-7077/3 md.)\n (1) Yabancı ülke adlî veya idarî makamlarınca boşanmaya, evliliğin butlanına, iptaline veya mevcut olup olmadığının tespitine ilişkin olarak verilen kararlar; bizzat veya vekilleri aracılığıyla tarafların birlikte veya taraflardan birinin ölmüş ya da yabancı olması halinde Türk vatandaşı olan diğer taraf veya vekilinin tek başına başvurması, verildiği devlet kanunlarına göre konusunda yetkili adlî veya idarî makam tarafından verilmiş ve usulen kesinleşmiş olması ve Türk kamu düzenine açıkça aykırı bulunmaması şartlarıyla nüfus kütüğüne tescil edilir.[8]\n (2) Nüfus kütüğüne yapılacak tescil işlemleri, yurt dışında kararın verildiği ülkedeki dış temsilcilikler, yurt içinde ise Bakanlık tarafından belirlenen nüfus müdürlükleri tarafından yapılır.\n (3) Bu maddede sayılan şartlar yerine getirilmediği gerekçesiyle tescil talebi reddedilen kararların Türkiye’de tanınması, 27/11/2007 tarihli ve 5718 sayılı Milletlerarası Özel Hukuk ve Usul Hukuku Hakkında Kanun uyarınca yapılır.\n (4) Bu maddenin uygulanmasına ilişkin usul ve esaslar Bakanlık tarafından yönetmelikle belirlenir.",
+      "text": "(1) Boşanma veya evliliğin iptaline ilişkin kararlarda aşağıdaki bilgilere yer verilmesi zorunludur:\n a) Tarafların Türkiye Cumhuriyeti kimlik numarası, adı, soyadı, doğum yeri ve tarihi, baba ve ana adları ile kadının evlenmeden önceki soyadı ve aile kütüğünde kayıtlı olduğu yer bilgileri.\n b) Evlilik içinde doğmuş çocuklar ve bunların kimlik bilgileri.\n c) Karara ait usûl mevzuatının öngördüğü diğer esas ve usûle ait hükümler.",
       "preview": "(1) Boşanma veya evliliğin iptaline ilişkin kararlarda aşağıdaki bilgilere yer verilmesi zorunludur: a) Tarafların Türkiye Cumhuriyeti kimli…",
       "kitap": null,
       "kisim": "ÜÇÜNCÜ KISIM · Nüfus Olayları",
@@ -490,6 +508,24 @@
         "ÜÇÜNCÜ KISIM · Nüfus Olayları",
         "ÜÇÜNCÜ BÖLÜM · Boşanma ve Evliliğin İptali",
         "Boşanma veya evliliğin iptali kararlarında bulunması gerekli hususlar"
+      ]
+    },
+    {
+      "id": "kanun:5490:m:27/A",
+      "maddeKind": "madde",
+      "maddeNo": "27/A",
+      "heading": "Madde 27/A",
+      "text": "(Ek: 17/4/2017-KHK-690/4 md.; Aynen kabul: 1/2/2018-7077/3 md.)\n (1) Yabancı ülke adlî veya idarî makamlarınca boşanmaya, evliliğin butlanına, iptaline veya mevcut olup olmadığının tespitine ilişkin olarak verilen kararlar; bizzat veya vekilleri aracılığıyla tarafların birlikte veya taraflardan birinin ölmüş ya da yabancı olması halinde Türk vatandaşı olan diğer taraf veya vekilinin tek başına başvurması, verildiği devlet kanunlarına göre konusunda yetkili adlî veya idarî makam tarafından verilmiş ve usulen kesinleşmiş olması ve Türk kamu düzenine açıkça aykırı bulunmaması şartlarıyla nüfus kütüğüne tescil edilir.[8]\n (2) Nüfus kütüğüne yapılacak tescil işlemleri, yurt dışında kararın verildiği ülkedeki dış temsilcilikler, yurt içinde ise Bakanlık tarafından belirlenen nüfus müdürlükleri tarafından yapılır.\n (3) Bu maddede sayılan şartlar yerine getirilmediği gerekçesiyle tescil talebi reddedilen kararların Türkiye’de tanınması, 27/11/2007 tarihli ve 5718 sayılı Milletlerarası Özel Hukuk ve Usul Hukuku Hakkında Kanun uyarınca yapılır.\n (4) Bu maddenin uygulanmasına ilişkin usul ve esaslar Bakanlık tarafından yönetmelikle belirlenir.",
+      "preview": "(Ek: 17/4/2017-KHK-690/4 md.; Aynen kabul: 1/2/2018-7077/3 md.) (1) Yabancı ülke adlî veya idarî makamlarınca boşanmaya, evliliğin butlanına…",
+      "kitap": null,
+      "kisim": "ÜÇÜNCÜ KISIM · Nüfus Olayları",
+      "bolum": "ÜÇÜNCÜ BÖLÜM · Boşanma ve Evliliğin İptali",
+      "ayirim": null,
+      "maddeBaslik": "Yabancı ülke adlî veya idarî makamlarınca verilen boşanma kararlarının nüfus kütüğüne tescili",
+      "sectionPath": [
+        "ÜÇÜNCÜ KISIM · Nüfus Olayları",
+        "ÜÇÜNCÜ BÖLÜM · Boşanma ve Evliliğin İptali",
+        "Yabancı ülke adlî veya idarî makamlarınca verilen boşanma kararlarının nüfus kütüğüne tescili"
       ]
     },
     {

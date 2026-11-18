@@ -3,7 +3,6 @@ import { toast } from 'sonner';
 import { useLayoutStore } from '../stores/useLayoutStore';
 import {
     APP_PREFERENCES_CHANGED_EVENT,
-    NOTIFICATIONS_CHANGED_EVENT,
     type AppMenuAction,
     type AppPreferences,
 } from '../preferences/appPreferencesTypes';
@@ -107,9 +106,6 @@ export function useApplicationMenuBridge(): void {
                     return;
                 case 'open-calendar':
                     useLayoutStore.getState().openRightPanel('calendar');
-                    return;
-                case 'notifications-changed':
-                    window.dispatchEvent(new Event(NOTIFICATIONS_CHANGED_EVENT));
                     return;
                 case 'katir-license-result':
                     openCommandPalette('uyap');

@@ -13,7 +13,7 @@
   "tertip": 5,
   "sourceUrl": "https://www.mevzuat.gov.tr/mevzuat?MevzuatNo=3713&MevzuatTur=1&MevzuatTertip=5",
   "kabulTarihi": "12/4/1991",
-  "maddeCount": 49,
+  "maddeCount": 52,
   "maddeler": [
     {
       "id": "kanun:3713:m:1",
@@ -130,8 +130,8 @@
       "maddeKind": "madde",
       "maddeNo": "8",
       "heading": "Madde 8",
-      "text": "(Yeniden düzenleme: 29/6/2006-5532/7 md.; Mülga:7/2/2013-6415/18 md.)\n\n Nitelikli hal\n Madde 8/A- (Ek: 29/6/2006-5532/7 md.)\n Bu Kanun kapsamına giren suçların kamu görevinin sağladığı nüfuz kötüye kullanılmak suretiyle işlenmesi halinde, verilecek ceza yarı oranında artırılır.\n\n Tüzel kişilerin sorumluluğu\n Madde 8/B- (Ek: 29/6/2006-5532/7 md.)\n Bu Kanun kapsamına giren suçların bir tüzel kişinin faaliyeti çerçevesinde işlenmesi halinde, Türk Ceza Kanununun 60 ıncı maddesine göre bunlara özgü güvenlik tedbirlerine hükmolunur.",
-      "preview": "(Yeniden düzenleme: 29/6/2006-5532/7 md.; Mülga:7/2/2013-6415/18 md.) Nitelikli hal Madde 8/A- (Ek: 29/6/2006-5532/7 md.) Bu Kanun kapsamına…",
+      "text": "(Yeniden düzenleme: 29/6/2006-5532/7 md.; Mülga:7/2/2013-6415/18 md.)",
+      "preview": "(Yeniden düzenleme: 29/6/2006-5532/7 md.; Mülga:7/2/2013-6415/18 md.)",
       "kitap": null,
       "kisim": null,
       "bolum": null,
@@ -139,6 +139,38 @@
       "maddeBaslik": "Terörün finansmanı",
       "sectionPath": [
         "Terörün finansmanı"
+      ]
+    },
+    {
+      "id": "kanun:3713:m:8/A",
+      "maddeKind": "madde",
+      "maddeNo": "8/A",
+      "heading": "Madde 8/A",
+      "text": "(Ek: 29/6/2006-5532/7 md.)\n Bu Kanun kapsamına giren suçların kamu görevinin sağladığı nüfuz kötüye kullanılmak suretiyle işlenmesi halinde, verilecek ceza yarı oranında artırılır.",
+      "preview": "(Ek: 29/6/2006-5532/7 md.) Bu Kanun kapsamına giren suçların kamu görevinin sağladığı nüfuz kötüye kullanılmak suretiyle işlenmesi halinde,…",
+      "kitap": null,
+      "kisim": null,
+      "bolum": null,
+      "ayirim": null,
+      "maddeBaslik": "Nitelikli hal",
+      "sectionPath": [
+        "Nitelikli hal"
+      ]
+    },
+    {
+      "id": "kanun:3713:m:8/B",
+      "maddeKind": "madde",
+      "maddeNo": "8/B",
+      "heading": "Madde 8/B",
+      "text": "(Ek: 29/6/2006-5532/7 md.)\n Bu Kanun kapsamına giren suçların bir tüzel kişinin faaliyeti çerçevesinde işlenmesi halinde, Türk Ceza Kanununun 60 ıncı maddesine göre bunlara özgü güvenlik tedbirlerine hükmolunur.",
+      "preview": "(Ek: 29/6/2006-5532/7 md.) Bu Kanun kapsamına giren suçların bir tüzel kişinin faaliyeti çerçevesinde işlenmesi halinde, Türk Ceza Kanununun…",
+      "kitap": null,
+      "kisim": null,
+      "bolum": null,
+      "ayirim": null,
+      "maddeBaslik": "Tüzel kişilerin sorumluluğu",
+      "sectionPath": [
+        "Tüzel kişilerin sorumluluğu"
       ]
     },
     {
@@ -333,7 +365,7 @@
       "maddeKind": "madde",
       "maddeNo": "20",
       "heading": "Madde 20",
-      "text": "(Değişik: 29/6/2006-5532/14 md.)\n Terörle mücadelede görev veren veya bu görevi ifa eden adlî, istihbarî, idarî ve askerî görevliler, kolluk görevlileri, Ceza ve Tevkifevleri Genel Müdürü ve Genel Müdür Yardımcıları, terör suçlularının muhafaza edildiği ceza ve tutukevlerinin savcıları ve müdürleri, Devlet Güvenlik Mahkemelerinde görev yapmış hâkim ve savcılar, Ceza Muhakemesi Kanununun 250 nci maddesiyle yetkili kılınmış ağır ceza mahkemelerinde görev yapan hâkim ve savcılar ile bu görevlerinden ayrılmış olanlar ve terör örgütlerinin açık hedefi haline gelen veya getirilenler ile suçların aydınlatılmasında yardımcı olanlar hakkında gerekli koruma tedbirleri Devlet tarafından alınır.\n Ceza Muhakemesi Kanununun 250 nci maddesi uyarınca Hâkimler ve Savcılar Yüksek Kurulunca görevlendirilecek ağır ceza mahkemeleri başkan ve üyeleri ile bu mahkemelerin görev alanına giren suçları soruşturmakla ve kovuşturmakla görevli Cumhuriyet savcılarının korunma ve güvenlik talepleri ilgili makam ve mercilerce öncelikle ve ivedilikle yerine getirilir. Koruma için ihtiyaç duyulan araç ve gereçler Adalet ve İçişleri bakanlıklarınca temin edilir.\n Bu koruma tedbirleri; talep halinde estetik cerrahi yoluyla fizyolojik görünümün değiştirilmesi dahil, nüfus kaydı, ehliyet, evlenme cüzdanı, diploma ve benzeri belgelerin değiştirilmesi, askerlik işleminin düzenlenmesi, menkul ve gayrimenkul mal varlıklarıyla ilgili hakları, sosyal güvenlik ve diğer hakların korunması gibi hususlarda düzenleme yapılır. (Değişik: 11/2/2014-6519/57 md.) Korumaya alınmış emekli personelden, meskende korunmaları mutlak surette zorunlu bulunanlar Cumhurbaşkanlığınca belirlenecek konutlardan yararlandırılır.\n Bu tedbirlerin uygulanmasında, İçişleri Bakanlığı ile ilgili diğer kurum ve kuruluşlar gerekli her türlü gizlilik kurallarına uymak zorundadırlar.\n Koruma tedbirleriyle ilgili esas ve usûller Cumhurbaşkanınca çıkarılacak bir yönetmelik ile belirlenir.(11)\n Yukarıda sayılanlardan kamu görevlileri, görevlerinden ayrılmış olsalar dahi terör suçluları tarafından kendilerine veya eş ve çocuklarının canına vuku bulan bir taarruzu savmak için silah kullanmaya yetkilidirler.\n\n Zararların tazmini amacıyla tedbir konulması\n Madde 20/A- (Ek: 15/8/2016-KHK-671/31 md.; Aynen kabul: 9/11/2016-6757/27 md.)\n Türk Ceza Kanununun İkinci Kitap Dördüncü Kısım Dördüncü, Beşinci, Altıncı ve Yedinci Bölümünde tanımlanan suçlar ve bu Kanun kapsamına giren suçlar nedeniyle gerçek veya tüzel kişiler ile kamu kurum ve kuruluşlarının uğradığı zararların tazmini amacıyla, soruşturma aşamasında Cumhuriyet savcısının talebi üzerine sulh ceza hâkimi, kovuşturma aşamasında mahkeme tarafından, şüpheli veya sanıklara ait taşınmazların veya kara, deniz ya da hava ulaşım araçlarının devir ve temlikini veya bunlarla ilgili hak tesisini önlemek ya da tasarruf yetkisini kısıtlamak için şerh düşülmesine ve bu kişilerin yardımlaşma kurum ve sandıklarından olan alacaklarına tedbir konulmasına karar verilebilir. Taşınmazlarla ilgili karar tapu kütüğüne; kara, deniz ve hava ulaşım araçlarıyla ilgili karar ise bu araçların kayıtlı bulunduğu sicile şerh verilmek suretiyle icra olunur. Kovuşturmaya yer olmadığına dair kararın kesinleşmesi halinde veya şerhin konulduğu tarihten itibaren iki yıl içinde, şerhin devamı yönünde hukuk mahkemesinden verilmiş ihtiyati haciz veya ihtiyati tedbir kararı ibraz edilmediği takdirde şerh kendiliğinden terkin edilir.[13]\n (Ek fıkra: 5/6/2017-KHK-691/7 md.; Aynen kabul: 31/1/2018-7069/7 md.) Birinci fıkra kapsamına giren suçlar nedeniyle gerçek veya tüzel kişiler ile kamu kurum ve kuruluşlarının uğradığı zararların tazmini amacıyla açılan davalarda; davalının adres kayıt sisteminde adresinin bulunmaması veya bulunup da tebligata elverişli olmaması halinde, mahkemece, dava dilekçesinin özeti tirajı ellibinin üzerinde olan ve yurt düzeyinde dağıtımı yapılan gazetelerden biri vasıtasıyla ilan edilir. Yapılacak ilanda davalının bir ay içinde yurtiçinde tebligata elverişli bir adres veya 11/2/1959 tarihli ve 7201 sayılı Tebligat Kanununun 7/a maddesi uyarınca kayıtlı elektronik posta adresi bildirmemesi ya da davada kendisini avukatla temsil ettirmemesi halinde, yargılamaya yokluğunda devam olunacağı, yargılama aşamalarında başkaca tebligat yapılmayarak hüküm verileceği ve hükmün de aynı usulle tebliğ edileceği ihtar edilir. Adresi yabancı ülkede bulunan davalıya çıkarılacak tebligatta, bu fıkrada belirtilen ilanda yer alan hususlar ile yabancı ülke adresine bir daha tebligat yapılmayacağı ihtarına yer verilir.\n (Ek fıkra: 5/6/2017-KHK-691/7 md.; Aynen kabul: 31/1/2018-7069/7 md.) Birinci fıkra kapsamında açılan davaların kısmen veya tamamen reddi halinde, davacı aleyhine maktu avukatlık ücretine hükmolunur. Ancak belirlenen ücret dava değerini geçemez.",
+      "text": "(Değişik: 29/6/2006-5532/14 md.)\n Terörle mücadelede görev veren veya bu görevi ifa eden adlî, istihbarî, idarî ve askerî görevliler, kolluk görevlileri, Ceza ve Tevkifevleri Genel Müdürü ve Genel Müdür Yardımcıları, terör suçlularının muhafaza edildiği ceza ve tutukevlerinin savcıları ve müdürleri, Devlet Güvenlik Mahkemelerinde görev yapmış hâkim ve savcılar, Ceza Muhakemesi Kanununun 250 nci maddesiyle yetkili kılınmış ağır ceza mahkemelerinde görev yapan hâkim ve savcılar ile bu görevlerinden ayrılmış olanlar ve terör örgütlerinin açık hedefi haline gelen veya getirilenler ile suçların aydınlatılmasında yardımcı olanlar hakkında gerekli koruma tedbirleri Devlet tarafından alınır.\n Ceza Muhakemesi Kanununun 250 nci maddesi uyarınca Hâkimler ve Savcılar Yüksek Kurulunca görevlendirilecek ağır ceza mahkemeleri başkan ve üyeleri ile bu mahkemelerin görev alanına giren suçları soruşturmakla ve kovuşturmakla görevli Cumhuriyet savcılarının korunma ve güvenlik talepleri ilgili makam ve mercilerce öncelikle ve ivedilikle yerine getirilir. Koruma için ihtiyaç duyulan araç ve gereçler Adalet ve İçişleri bakanlıklarınca temin edilir.\n Bu koruma tedbirleri; talep halinde estetik cerrahi yoluyla fizyolojik görünümün değiştirilmesi dahil, nüfus kaydı, ehliyet, evlenme cüzdanı, diploma ve benzeri belgelerin değiştirilmesi, askerlik işleminin düzenlenmesi, menkul ve gayrimenkul mal varlıklarıyla ilgili hakları, sosyal güvenlik ve diğer hakların korunması gibi hususlarda düzenleme yapılır. (Değişik: 11/2/2014-6519/57 md.) Korumaya alınmış emekli personelden, meskende korunmaları mutlak surette zorunlu bulunanlar Cumhurbaşkanlığınca belirlenecek konutlardan yararlandırılır.\n Bu tedbirlerin uygulanmasında, İçişleri Bakanlığı ile ilgili diğer kurum ve kuruluşlar gerekli her türlü gizlilik kurallarına uymak zorundadırlar.\n Koruma tedbirleriyle ilgili esas ve usûller Cumhurbaşkanınca çıkarılacak bir yönetmelik ile belirlenir.(11)\n Yukarıda sayılanlardan kamu görevlileri, görevlerinden ayrılmış olsalar dahi terör suçluları tarafından kendilerine veya eş ve çocuklarının canına vuku bulan bir taarruzu savmak için silah kullanmaya yetkilidirler.",
       "preview": "(Değişik: 29/6/2006-5532/14 md.) Terörle mücadelede görev veren veya bu görevi ifa eden adlî, istihbarî, idarî ve askerî görevliler, kolluk…",
       "kitap": null,
       "kisim": null,
@@ -343,6 +375,23 @@
       "sectionPath": [
         "DÖRDÜNCÜ BÖLÜM · Çeşitli Hükümler",
         "Koruma tedbirleri[12]"
+      ]
+    },
+    {
+      "id": "kanun:3713:m:20/A",
+      "maddeKind": "madde",
+      "maddeNo": "20/A",
+      "heading": "Madde 20/A",
+      "text": "(Ek: 15/8/2016-KHK-671/31 md.; Aynen kabul: 9/11/2016-6757/27 md.)\n Türk Ceza Kanununun İkinci Kitap Dördüncü Kısım Dördüncü, Beşinci, Altıncı ve Yedinci Bölümünde tanımlanan suçlar ve bu Kanun kapsamına giren suçlar nedeniyle gerçek veya tüzel kişiler ile kamu kurum ve kuruluşlarının uğradığı zararların tazmini amacıyla, soruşturma aşamasında Cumhuriyet savcısının talebi üzerine sulh ceza hâkimi, kovuşturma aşamasında mahkeme tarafından, şüpheli veya sanıklara ait taşınmazların veya kara, deniz ya da hava ulaşım araçlarının devir ve temlikini veya bunlarla ilgili hak tesisini önlemek ya da tasarruf yetkisini kısıtlamak için şerh düşülmesine ve bu kişilerin yardımlaşma kurum ve sandıklarından olan alacaklarına tedbir konulmasına karar verilebilir. Taşınmazlarla ilgili karar tapu kütüğüne; kara, deniz ve hava ulaşım araçlarıyla ilgili karar ise bu araçların kayıtlı bulunduğu sicile şerh verilmek suretiyle icra olunur. Kovuşturmaya yer olmadığına dair kararın kesinleşmesi halinde veya şerhin konulduğu tarihten itibaren iki yıl içinde, şerhin devamı yönünde hukuk mahkemesinden verilmiş ihtiyati haciz veya ihtiyati tedbir kararı ibraz edilmediği takdirde şerh kendiliğinden terkin edilir.[13]\n (Ek fıkra: 5/6/2017-KHK-691/7 md.; Aynen kabul: 31/1/2018-7069/7 md.) Birinci fıkra kapsamına giren suçlar nedeniyle gerçek veya tüzel kişiler ile kamu kurum ve kuruluşlarının uğradığı zararların tazmini amacıyla açılan davalarda; davalının adres kayıt sisteminde adresinin bulunmaması veya bulunup da tebligata elverişli olmaması halinde, mahkemece, dava dilekçesinin özeti tirajı ellibinin üzerinde olan ve yurt düzeyinde dağıtımı yapılan gazetelerden biri vasıtasıyla ilan edilir. Yapılacak ilanda davalının bir ay içinde yurtiçinde tebligata elverişli bir adres veya 11/2/1959 tarihli ve 7201 sayılı Tebligat Kanununun 7/a maddesi uyarınca kayıtlı elektronik posta adresi bildirmemesi ya da davada kendisini avukatla temsil ettirmemesi halinde, yargılamaya yokluğunda devam olunacağı, yargılama aşamalarında başkaca tebligat yapılmayarak hüküm verileceği ve hükmün de aynı usulle tebliğ edileceği ihtar edilir. Adresi yabancı ülkede bulunan davalıya çıkarılacak tebligatta, bu fıkrada belirtilen ilanda yer alan hususlar ile yabancı ülke adresine bir daha tebligat yapılmayacağı ihtarına yer verilir.\n (Ek fıkra: 5/6/2017-KHK-691/7 md.; Aynen kabul: 31/1/2018-7069/7 md.) Birinci fıkra kapsamında açılan davaların kısmen veya tamamen reddi halinde, davacı aleyhine maktu avukatlık ücretine hükmolunur. Ancak belirlenen ücret dava değerini geçemez.",
+      "preview": "(Ek: 15/8/2016-KHK-671/31 md.; Aynen kabul: 9/11/2016-6757/27 md.) Türk Ceza Kanununun İkinci Kitap Dördüncü Kısım Dördüncü, Beşinci, Altınc…",
+      "kitap": null,
+      "kisim": null,
+      "bolum": "DÖRDÜNCÜ BÖLÜM · Çeşitli Hükümler",
+      "ayirim": null,
+      "maddeBaslik": "Zararların tazmini amacıyla tedbir konulması",
+      "sectionPath": [
+        "DÖRDÜNCÜ BÖLÜM · Çeşitli Hükümler",
+        "Zararların tazmini amacıyla tedbir konulması"
       ]
     },
     {

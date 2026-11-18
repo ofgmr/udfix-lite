@@ -3,6 +3,14 @@ import path from 'path';
 import fs from 'fs';
 import { createHash, randomUUID } from 'crypto';
 import { registerIpcHandler } from './ipcAllowlist';
+import { counterpartyLabel, isLedgerKind, isLedgerSource, parseLedgerWrite } from './shared/matterLedger';
+import { asUyapCourtMoneyPage } from './shared/uyapCourtMoney';
+import { applyUyapCourtMoney } from './uyapCourtMoneyApply';
+import {
+    listDocumentRecoveryItems,
+    readDocumentRecoveryContent,
+    titleForRecoveredDocument,
+} from './documentRecoveryList';
 import { buildFtsMatchQuery } from './ftsQuery';
 import {
     coalesceOpeningMonth,
@@ -77,6 +85,22 @@ let sqlitePath: string | null = null;
 
 export function getSqlitePath(): string | null {
     return sqlitePath;
+}
+
+export function applyStoredUyapCourtMoney(payload: unknown, seatLawyerName?: string | null) {
+    if (!db) {
+        return {
+            ok: false as const,
+            error: 'Veritabanı hazır değil',
+            inserted: 0,
+            updated: 0,
+            removed: 0,
+            skipped: 0,
+            files: 0,
+            unmatched: [] as Array<{ dosyaNo: string; reason: string }>,
+        };
+    }
+    return applyUyapCourtMoney(db, payload, { seatLawyerName });
 }
 
 type UyapAggCache<T> = { fingerprint: string; payload: T };
@@ -876,7 +900,6 @@ function initSchema() {
     migrateEntityAttributeTables(db);
     migrateAppMeta(db);
     purgeKnowledgeBaseKanunRows(db);
-    migrateNotifications(db);
     migrateDedupeUyapEvrakDocuments(db);
     migrateDeadlinesPartyId(db);
     migrateTasksAndDeadlineTaskId(db);
@@ -921,24 +944,45 @@ function findPartyIdsForContextFilter(database: Database.Database, partyId: stri
     const meta = parsePartyMetadata(party.metadata);
     const uyap = (meta.uyap ?? {}) as Record<string, unknown>;
     const dedupKey = typeof uyap.dedupKey === 'string' ? uyap.dedupKey : null;
+    const aliasKeys = Array.isArray(uyap.aliasDedupKeys)
+        ? uyap.aliasDedupKeys.filter((item): item is string => typeof item === 'string' && item.trim().length > 0)
+        : [];
+    const aliasNames = Array.isArray(uyap.aliasNames)
+        ? uyap.aliasNames.filter((item): item is string => typeof item === 'string' && item.trim().length > 0)
+        : [];
     const ids = new Set<string>([partyId]);
+    const keys = [...new Set([dedupKey, ...aliasKeys].filter((item): item is string => Boolean(item)))];
+    const names = [...new Set([party.full_name, ...aliasNames].filter((item): item is string => Boolean(item && item.trim())))];
 
-    if (dedupKey) {
-        const rows = database
-            .prepare(
-                `SELECT id FROM parties WHERE json_extract(metadata, '$.uyap.dedupKey') = ?`
-            )
-            .all(dedupKey) as Array<{ id: string }>;
-        for (const row of rows) ids.add(row.id);
-    }
-
-    if (party.full_name) {
+    if (keys.length > 0) {
+        const placeholders = keys.map(() => '?').join(', ');
         const rows = database
             .prepare(
                 `SELECT id FROM parties
-                 WHERE TRIM(LOWER(full_name)) = TRIM(LOWER(?))`
+                 WHERE json_extract(metadata, '$.uyap.dedupKey') IN (${placeholders})
+                    OR EXISTS (
+                        SELECT 1
+                        FROM json_each(COALESCE(json_extract(metadata, '$.uyap.aliasDedupKeys'), '[]'))
+                        WHERE json_each.value IN (${placeholders})
+                    )`
             )
-            .all(party.full_name) as Array<{ id: string }>;
+            .all(...keys, ...keys) as Array<{ id: string }>;
+        for (const row of rows) ids.add(row.id);
+    }
+
+    if (names.length > 0) {
+        const nameJson = JSON.stringify(names);
+        const rows = database
+            .prepare(
+                `SELECT id FROM parties
+                 WHERE TRIM(LOWER(full_name)) IN (SELECT TRIM(LOWER(value)) FROM json_each(?))
+                    OR EXISTS (
+                        SELECT 1
+                        FROM json_each(COALESCE(json_extract(metadata, '$.uyap.aliasNames'), '[]'))
+                        WHERE TRIM(LOWER(json_each.value)) IN (SELECT TRIM(LOWER(value)) FROM json_each(?))
+                    )`
+            )
+            .all(nameJson, nameJson) as Array<{ id: string }>;
         for (const row of rows) ids.add(row.id);
     }
 
@@ -2849,23 +2893,6 @@ function seedUyapReferenceCatalog(insertSeed: Database.Statement) {
     }
 }
 
-function migrateNotifications(database: Database.Database) {
-    database.exec(`
-        CREATE TABLE IF NOT EXISTS notifications (
-            id TEXT PRIMARY KEY,
-            kind TEXT NOT NULL,
-            title TEXT NOT NULL,
-            body TEXT,
-            matter_id TEXT,
-            read_at DATETIME,
-            payload_json TEXT,
-            created_at DATETIME DEFAULT CURRENT_TIMESTAMP
-        );
-        CREATE INDEX IF NOT EXISTS idx_notifications_created ON notifications(created_at DESC);
-        CREATE INDEX IF NOT EXISTS idx_notifications_unread ON notifications(read_at, created_at DESC);
-    `);
-}
-
 const HIDDEN_MATTER_ATTRIBUTE_KEY = 'uyap_evrak_sayfa';
 
 function migrateAppMeta(database: Database.Database) {
@@ -2935,53 +2962,6 @@ export function setAppMeta(database: Database.Database, key: string, value: stri
         )
         .run(key, value);
 }
-
-export function hasNotificationDedupeKey(database: Database.Database, dedupeKey: string): boolean {
-    const row = database
-        .prepare(
-            `SELECT 1 AS ok FROM notifications WHERE json_extract(payload_json, '$.dedupeKey') = ? LIMIT 1`,
-        )
-        .get(dedupeKey) as { ok: number } | undefined;
-    return Boolean(row);
-}
-
-export function insertAppNotification(
-    database: Database.Database,
-    row: {
-        kind: string;
-        title: string;
-        body?: string | null;
-        matterId?: string | null;
-        payload?: Record<string, unknown> | null;
-    },
-): string {
-    const id = randomUUID();
-    database
-        .prepare(
-            `INSERT INTO notifications (id, kind, title, body, matter_id, payload_json)
-             VALUES (?, ?, ?, ?, ?, ?)`,
-        )
-        .run(
-            id,
-            row.kind,
-            row.title,
-            row.body ?? null,
-            row.matterId ?? null,
-            row.payload ? JSON.stringify(row.payload) : null,
-        );
-    return id;
-}
-
-type NotificationListRow = {
-    id: string;
-    kind: string;
-    title: string;
-    body: string | null;
-    matter_id: string | null;
-    read_at: string | null;
-    payload_json: string | null;
-    created_at: string;
-};
 
 type NotificationTurAttrKey = 'uyap_dava_turu' | 'uyap_icra_takip_yolu' | 'icra_takip_yolu';
 
@@ -3164,44 +3144,6 @@ function applyMatterHintFields<T extends { matter_id?: string | null }>(
         };
         return { ...row, ...hint };
     });
-}
-
-function decorateNotificationList(
-    database: Database.Database,
-    rows: NotificationListRow[],
-): Array<NotificationListRow & MatterHintFields> {
-    return applyMatterHintFields(database, rows);
-}
-
-export type CalendarReminderRow = {
-    id: string;
-    event_type: string | null;
-    event_date: string;
-    description: string | null;
-    is_completed: number;
-    matter_id: string | null;
-    file_number: string | null;
-    court_name: string | null;
-};
-
-export function listCalendarReminderEvents(
-    database: Database.Database,
-    fromDateKey: string,
-    toDateKey: string,
-): CalendarReminderRow[] {
-    return database
-        .prepare(
-            `SELECT d.id, d.event_type, d.event_date, d.description, d.is_completed, d.matter_id,
-                    m.file_number, m.court_name
-             FROM deadlines d
-             LEFT JOIN matters m ON m.id = d.matter_id
-             WHERE d.is_completed = 0
-               AND d.event_type IN ('DURUSMA', 'SURE', 'GOREV')
-               AND substr(d.event_date, 1, 10) >= ?
-               AND substr(d.event_date, 1, 10) <= ?
-             ORDER BY d.event_date ASC`,
-        )
-        .all(fromDateKey, toDateKey) as CalendarReminderRow[];
 }
 
 type UyapEvrakDedupeRow = {
@@ -3470,6 +3412,49 @@ function migrateDomainLegalEntities(database: Database.Database) {
     database.exec(`
         CREATE INDEX IF NOT EXISTS idx_matter_decisions_matter ON matter_decisions(matter_id)
     `);
+
+    database.exec(`
+        CREATE TABLE IF NOT EXISTS matter_ledger (
+            id TEXT PRIMARY KEY,
+            matter_id TEXT,
+            party_id TEXT NOT NULL,
+            kind TEXT NOT NULL CHECK(kind IN ('masraf', 'harc', 'avans')),
+            description TEXT NOT NULL,
+            amount_minor INTEGER NOT NULL CHECK(amount_minor > 0),
+            entry_date TEXT NOT NULL,
+            source TEXT NOT NULL DEFAULT 'manual' CHECK(source IN ('manual', 'katir', 'import')),
+            external_key TEXT,
+            uyap_page TEXT,
+            receipt_no TEXT,
+            payer_name TEXT,
+            court_unit TEXT,
+            remaining_minor INTEGER,
+            balance_minor INTEGER,
+            detail_json TEXT,
+            created_at DATETIME DEFAULT CURRENT_TIMESTAMP,
+            updated_at DATETIME DEFAULT CURRENT_TIMESTAMP,
+            FOREIGN KEY (matter_id) REFERENCES matters(id) ON DELETE CASCADE,
+            FOREIGN KEY (party_id) REFERENCES parties(id) ON DELETE CASCADE
+        )
+    `);
+    database.exec(`
+        CREATE INDEX IF NOT EXISTS idx_matter_ledger_matter ON matter_ledger(matter_id)
+    `);
+    database.exec(`
+        CREATE INDEX IF NOT EXISTS idx_matter_ledger_party ON matter_ledger(party_id)
+    `);
+    database.exec(`
+        CREATE UNIQUE INDEX IF NOT EXISTS idx_matter_ledger_external
+        ON matter_ledger(source, external_key)
+        WHERE external_key IS NOT NULL AND TRIM(external_key) != ''
+    `);
+    addColumnIfMissing(database, 'matter_ledger', 'uyap_page', 'uyap_page TEXT');
+    addColumnIfMissing(database, 'matter_ledger', 'receipt_no', 'receipt_no TEXT');
+    addColumnIfMissing(database, 'matter_ledger', 'payer_name', 'payer_name TEXT');
+    addColumnIfMissing(database, 'matter_ledger', 'court_unit', 'court_unit TEXT');
+    addColumnIfMissing(database, 'matter_ledger', 'remaining_minor', 'remaining_minor INTEGER');
+    addColumnIfMissing(database, 'matter_ledger', 'balance_minor', 'balance_minor INTEGER');
+    addColumnIfMissing(database, 'matter_ledger', 'detail_json', 'detail_json TEXT');
 }
 
 type NoteRow = {
@@ -3496,38 +3481,6 @@ type DocumentVersionRow = {
     size_bytes: number;
     label?: string | null;
 };
-
-type DocumentRecoverySqlRow = {
-    document_id: string;
-    title?: string | null;
-    kind?: string | null;
-    file_path?: string | null;
-    created_at?: string | null;
-    updated_at?: string | null;
-    last_opened_at?: string | null;
-    latest_version_at?: string | null;
-    latest_version_no?: number | null;
-    version_count?: number | null;
-    latest_size_bytes?: number | null;
-    draft_updated_at?: string | null;
-    is_orphan?: number | null;
-    sort_at?: string | null;
-};
-
-function titleForRecoveredDocument(documentId: string, title?: string | null, filePath?: string | null): string {
-    const trimmed = String(title ?? '').trim();
-    if (trimmed) return trimmed;
-    if (filePath) return path.basename(filePath);
-    if (documentId.startsWith('udf:')) {
-        try {
-            const decoded = decodeURIComponent(documentId.slice('udf:'.length));
-            return path.basename(decoded) || 'Kurtarılan UDF';
-        } catch {
-            return 'Kurtarılan UDF';
-        }
-    }
-    return 'Kurtarılan Belge';
-}
 
 function runInsertNoteRow(
     database: Database.Database,
@@ -4147,6 +4100,188 @@ export function registerDatabaseHandlers() {
         return db!.prepare(`DELETE FROM matter_decisions WHERE id = ?`).run(rid);
     });
 
+    registerIpcHandler(
+        'db-list-matter-ledger',
+        (_, filter?: { matterId?: string; partyId?: string }) => {
+            const matterId = String(filter?.matterId || '').trim();
+            const partyId = String(filter?.partyId || '').trim();
+            if (!matterId && !partyId) return [];
+            const params: string[] = [];
+            const cond: string[] = [];
+            if (matterId) {
+                cond.push('e.matter_id = ?');
+                params.push(matterId);
+            }
+            if (partyId) {
+                const ids = findPartyIdsForContextFilter(db!, partyId);
+                cond.push(`e.party_id IN (${ids.map(() => '?').join(', ')})`);
+                params.push(...ids);
+            }
+            const rows = db!
+                .prepare(
+                    `SELECT e.id, e.matter_id, e.party_id, e.kind, e.description, e.amount_minor,
+                            e.entry_date, e.source, e.created_at, e.updated_at,
+                            e.uyap_page, e.receipt_no, e.payer_name, e.court_unit,
+                            e.remaining_minor, e.balance_minor, e.detail_json,
+                            m.title AS matter_title, m.court_name, m.file_number,
+                            p.full_name AS party_name
+                     FROM matter_ledger e
+                     LEFT JOIN matters m ON m.id = e.matter_id
+                     LEFT JOIN parties p ON p.id = e.party_id
+                     WHERE ${cond.join(' AND ')}
+                     ORDER BY e.entry_date DESC, e.created_at DESC`
+                )
+                .all(...params) as Array<{
+                id: string;
+                matter_id: string | null;
+                party_id: string;
+                kind: string;
+                description: string;
+                amount_minor: number;
+                entry_date: string;
+                source: string;
+                created_at?: string;
+                updated_at?: string;
+                uyap_page?: string | null;
+                receipt_no?: string | null;
+                payer_name?: string | null;
+                court_unit?: string | null;
+                remaining_minor?: number | null;
+                balance_minor?: number | null;
+                detail_json?: string | null;
+                matter_title?: string | null;
+                court_name?: string | null;
+                file_number?: string | null;
+                party_name?: string | null;
+            }>;
+
+            const matterIds = [...new Set(rows.map((row) => row.matter_id).filter((id): id is string => Boolean(id)))];
+            const linksByMatter = new Map<string, Array<{ party_id: string; role: string; full_name: string }>>();
+            if (matterIds.length > 0) {
+                const links = db!
+                    .prepare(
+                        `SELECT mp.matter_id, mp.party_id, mp.role, p.full_name
+                         FROM matter_parties mp
+                         JOIN parties p ON p.id = mp.party_id
+                         WHERE mp.matter_id IN (${matterIds.map(() => '?').join(', ')})`
+                    )
+                    .all(...matterIds) as Array<{
+                    matter_id: string;
+                    party_id: string;
+                    role: string | null;
+                    full_name: string | null;
+                }>;
+                for (const link of links) {
+                    const list = linksByMatter.get(link.matter_id) ?? [];
+                    list.push({
+                        party_id: link.party_id,
+                        role: link.role || '',
+                        full_name: link.full_name || '',
+                    });
+                    linksByMatter.set(link.matter_id, list);
+                }
+            }
+
+            return rows.flatMap((row) => {
+                if (!isLedgerKind(row.kind)) return [];
+                return [
+                    {
+                        id: row.id,
+                        matter_id: row.matter_id,
+                        party_id: row.party_id,
+                        kind: row.kind,
+                        description: row.description,
+                        amount_minor: row.amount_minor,
+                        entry_date: row.entry_date,
+                        source: isLedgerSource(row.source) ? row.source : 'manual',
+                        created_at: row.created_at,
+                        updated_at: row.updated_at,
+                        uyap_page: asUyapCourtMoneyPage(row.uyap_page),
+                        receipt_no: row.receipt_no ?? null,
+                        payer_name: row.payer_name ?? null,
+                        court_unit: row.court_unit ?? null,
+                        remaining_minor: row.remaining_minor ?? null,
+                        balance_minor: row.balance_minor ?? null,
+                        detail_json: row.detail_json ?? null,
+                        matter_title: row.matter_title ?? null,
+                        court_name: row.court_name ?? null,
+                        file_number: row.file_number ?? null,
+                        party_name: row.party_name ?? null,
+                        counterparty_names: row.matter_id
+                            ? counterpartyLabel(linksByMatter.get(row.matter_id) ?? [], row.party_id)
+                            : '',
+                    },
+                ];
+            });
+        }
+    );
+
+    const ledgerLinkError = (value: { matter_id: string | null; party_id: string }): string | null => {
+        const party = db!.prepare(`SELECT id FROM parties WHERE id = ?`).get(value.party_id);
+        if (!party) return 'Müvekkil bulunamadı';
+        if (!value.matter_id) return null;
+        const matter = db!.prepare(`SELECT id FROM matters WHERE id = ?`).get(value.matter_id);
+        if (!matter) return 'Dosya bulunamadı';
+        const link = db!
+            .prepare(`SELECT 1 AS ok FROM matter_parties WHERE matter_id = ? AND party_id = ?`)
+            .get(value.matter_id, value.party_id);
+        if (!link) return 'Bu müvekkil dosyaya bağlı değil';
+        return null;
+    };
+
+    registerIpcHandler('db-add-matter-ledger', (_, row: Record<string, unknown>) => {
+        const parsed = parseLedgerWrite(row);
+        if (!parsed.ok) return { error: parsed.error };
+        const linkError = ledgerLinkError(parsed.value);
+        if (linkError) return { error: linkError };
+        const id = randomUUID();
+        db!.prepare(
+            `INSERT INTO matter_ledger (
+                id, matter_id, party_id, kind, description, amount_minor, entry_date,
+                balance_minor, detail_json, source, created_at, updated_at
+             ) VALUES (
+                @id, @matter_id, @party_id, @kind, @description, @amount_minor, @entry_date,
+                @balance_minor, @detail_json, 'manual', CURRENT_TIMESTAMP, CURRENT_TIMESTAMP
+             )`
+        ).run({ id, ...parsed.value });
+        return { id };
+    });
+
+    registerIpcHandler('db-update-matter-ledger', (_, row: Record<string, unknown>) => {
+        const id = String(row.id || '').trim();
+        if (!id) return { error: 'Satır bulunamadı' };
+        const existing = db!.prepare(`SELECT id, detail_json FROM matter_ledger WHERE id = ?`).get(id) as {
+            id: string;
+            detail_json: string | null;
+        } | undefined;
+        if (!existing) return { error: 'Satır bulunamadı' };
+        const parsed = parseLedgerWrite(row);
+        if (!parsed.ok) return { error: parsed.error };
+        const linkError = ledgerLinkError(parsed.value);
+        if (linkError) return { error: linkError };
+        const detail_json = parsed.value.detail_json !== null ? parsed.value.detail_json : existing.detail_json;
+        db!.prepare(
+            `UPDATE matter_ledger SET
+                matter_id=@matter_id, party_id=@party_id, kind=@kind, description=@description,
+                amount_minor=@amount_minor, entry_date=@entry_date, balance_minor=@balance_minor,
+                detail_json=@detail_json, updated_at=CURRENT_TIMESTAMP
+             WHERE id=@id`
+        ).run({ id, ...parsed.value, detail_json });
+        return { id };
+    });
+
+    registerIpcHandler('db-delete-matter-ledger', (_, id: string) => {
+        const rid = String(id || '').trim();
+        if (!rid) return { error: 'Satır bulunamadı' };
+        const result = db!.prepare(`DELETE FROM matter_ledger WHERE id = ?`).run(rid);
+        if (!result.changes) return { error: 'Satır bulunamadı' };
+        return { id: rid };
+    });
+
+    registerIpcHandler('db-apply-uyap-court-money', (_, payload: unknown, seatLawyerName?: string | null) => {
+        return applyStoredUyapCourtMoney(payload, seatLawyerName);
+    });
+
     // --- NOTES ---
 
     registerIpcHandler('db-get-notes', (_, filters?: { parentType?: string, parentId?: string, isPinned?: boolean }) => {
@@ -4404,130 +4539,12 @@ export function registerDatabaseHandlers() {
         }
     );
 
-    registerIpcHandler('db-list-document-recovery-items', (_, limit = 20) => {
-        const safeLimit = Number.isFinite(limit) ? Math.max(1, Math.min(100, Number(limit))) : 20;
-        const rows = db!
-            .prepare(
-                `WITH latest_version_no AS (
-                    SELECT document_id, MAX(version_no) AS version_no
-                    FROM document_versions
-                    GROUP BY document_id
-                ),
-                latest_versions AS (
-                    SELECT v.*
-                    FROM document_versions v
-                    JOIN latest_version_no lv
-                      ON lv.document_id = v.document_id
-                     AND lv.version_no = v.version_no
-                ),
-                version_counts AS (
-                    SELECT document_id, COUNT(*) AS version_count
-                    FROM document_versions
-                    GROUP BY document_id
-                ),
-                all_document_ids AS (
-                    SELECT document_id FROM editor_documents
-                    UNION
-                    SELECT document_id FROM document_versions
-                    UNION
-                    SELECT document_id FROM document_drafts
-                )
-                SELECT
-                    ids.document_id,
-                    ed.title,
-                    ed.kind,
-                    ed.file_path,
-                    ed.created_at,
-                    ed.updated_at,
-                    ed.last_opened_at,
-                    lv.created_at AS latest_version_at,
-                    lv.version_no AS latest_version_no,
-                    COALESCE(vc.version_count, 0) AS version_count,
-                    lv.size_bytes AS latest_size_bytes,
-                    dd.updated_at AS draft_updated_at,
-                    CASE WHEN ed.document_id IS NULL THEN 1 ELSE 0 END AS is_orphan,
-                    COALESCE(dd.updated_at, ed.last_opened_at, ed.updated_at, lv.created_at, ed.created_at) AS sort_at
-                FROM all_document_ids ids
-                LEFT JOIN editor_documents ed ON ed.document_id = ids.document_id
-                LEFT JOIN latest_versions lv ON lv.document_id = ids.document_id
-                LEFT JOIN version_counts vc ON vc.document_id = ids.document_id
-                LEFT JOIN document_drafts dd ON dd.document_id = ids.document_id
-                ORDER BY datetime(sort_at) DESC
-                LIMIT ?`
-            )
-            .all(safeLimit) as DocumentRecoverySqlRow[];
-
-        return rows.map((row) => {
-            const kind = row.kind === 'udf' || row.document_id.startsWith('udf:') ? 'udf' : 'editor';
-            const filePath =
-                row.file_path ||
-                (kind === 'udf'
-                    ? (() => {
-                          try {
-                              return decodeURIComponent(row.document_id.slice('udf:'.length));
-                          } catch {
-                              return null;
-                          }
-                      })()
-                    : null);
-            const fileExists = filePath ? fs.existsSync(filePath) : null;
-            return {
-                document_id: row.document_id,
-                title: titleForRecoveredDocument(row.document_id, row.title, filePath),
-                kind,
-                file_path: filePath,
-                file_exists: fileExists,
-                created_at: row.created_at,
-                updated_at: row.updated_at,
-                last_opened_at: row.last_opened_at,
-                latest_version_at: row.latest_version_at,
-                latest_version_no: row.latest_version_no ?? null,
-                version_count: row.version_count ?? 0,
-                latest_size_bytes: row.latest_size_bytes ?? null,
-                draft_updated_at: row.draft_updated_at,
-                has_draft: Boolean(row.draft_updated_at),
-                is_orphan: Boolean(row.is_orphan),
-                sort_at: row.sort_at,
-            };
-        });
+    registerIpcHandler('db-list-document-recovery-items', (_, limit?: unknown) => {
+        return listDocumentRecoveryItems(db!, limit);
     });
 
     registerIpcHandler('db-get-document-recovery-content', (_, documentId: string) => {
-        const id = String(documentId || '').trim();
-        if (!id) return null;
-        const draft = db!
-            .prepare(
-                `SELECT content, checksum, updated_at
-                 FROM document_drafts
-                 WHERE document_id = ?`
-            )
-            .get(id) as { content: string; checksum: string; updated_at: string } | undefined;
-        if (draft) {
-            return {
-                document_id: id,
-                content: draft.content,
-                checksum: draft.checksum,
-                source: 'draft',
-                updated_at: draft.updated_at,
-            };
-        }
-        const latest = db!
-            .prepare(
-                `SELECT content, checksum, created_at
-                 FROM document_versions
-                 WHERE document_id = ?
-                 ORDER BY version_no DESC
-                 LIMIT 1`
-            )
-            .get(id) as { content: string; checksum: string; created_at: string } | undefined;
-        if (!latest) return null;
-        return {
-            document_id: id,
-            content: latest.content,
-            checksum: latest.checksum,
-            source: 'version',
-            updated_at: latest.created_at,
-        };
+        return readDocumentRecoveryContent(db!, documentId);
     });
 
     registerIpcHandler('db-upsert-document-draft', (_, payload: { documentId: string; content: string }) => {
@@ -6033,39 +6050,6 @@ export function registerDatabaseHandlers() {
              WHERE id = ?`,
         ).run(JSON.stringify(meta), id);
         return { ok: true, deleted: true };
-    });
-
-    registerIpcHandler('db-list-notifications', (_, opts?: { unreadOnly?: boolean; limit?: number }) => {
-        const limit = Math.min(100, Math.max(1, Number(opts?.limit) || 40));
-        const rows = opts?.unreadOnly
-            ? (db!
-                  .prepare(
-                      `SELECT id, kind, title, body, matter_id, read_at, payload_json, created_at
-                       FROM notifications
-                       WHERE read_at IS NULL
-                       ORDER BY created_at DESC
-                       LIMIT ?`,
-                  )
-                  .all(limit) as NotificationListRow[])
-            : (db!
-                  .prepare(
-                      `SELECT id, kind, title, body, matter_id, read_at, payload_json, created_at
-                       FROM notifications
-                       ORDER BY created_at DESC
-                       LIMIT ?`,
-                  )
-                  .all(limit) as NotificationListRow[]);
-        return decorateNotificationList(db!, rows);
-    });
-
-    registerIpcHandler('db-mark-notification-read', (_, id: string) => {
-        db!.prepare(`UPDATE notifications SET read_at = CURRENT_TIMESTAMP WHERE id = ? AND read_at IS NULL`).run(id);
-        return { ok: true };
-    });
-
-    registerIpcHandler('db-mark-notifications-read-all', () => {
-        const result = db!.prepare(`UPDATE notifications SET read_at = CURRENT_TIMESTAMP WHERE read_at IS NULL`).run();
-        return { ok: true, changes: result.changes };
     });
 
     registerIpcHandler('db-add-folder', (_, folder) => {

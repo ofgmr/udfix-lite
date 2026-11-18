@@ -33,7 +33,9 @@ export const DocxExportDialog: React.FC<ExportDialogProps> = ({ isOpen, onClose,
                 documentId: activeDocument,
             });
 
-            const blob = new Blob([buffer], {
+            const bytes = new Uint8Array(buffer.byteLength);
+            bytes.set(buffer);
+            const blob = new Blob([bytes], {
                 type: 'application/vnd.openxmlformats-officedocument.wordprocessingml.document',
             });
 

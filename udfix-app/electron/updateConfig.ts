@@ -26,7 +26,7 @@ export type UpdateFeedSelection = {
     requestHeaders?: Record<string, string>;
 };
 
-export function resolveUpdateFeed(): UpdateFeedSelection {
+export function resolveUpdateFeed(_userDataPath?: string): UpdateFeedSelection {
     const fromEnv = process.env.UDFIX_UPDATE_FEED_URL?.trim();
     let url = LITE_UPDATE_FEED_URL;
     if (!app.isPackaged && fromEnv) {
@@ -39,6 +39,6 @@ export function resolveUpdateFeed(): UpdateFeedSelection {
     return { url: withSlash(url) };
 }
 
-export function resolveUpdateFeedUrl(): string | undefined {
-    return resolveUpdateFeed().url;
+export function resolveUpdateFeedUrl(userDataPath?: string): string | undefined {
+    return resolveUpdateFeed(userDataPath).url;
 }

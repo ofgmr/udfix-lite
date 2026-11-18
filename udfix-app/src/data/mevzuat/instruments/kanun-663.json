@@ -13,7 +13,7 @@
   "tertip": 5,
   "sourceUrl": "https://www.mevzuat.gov.tr/mevzuat?MevzuatNo=663&MevzuatTur=4&MevzuatTertip=5",
   "kabulTarihi": null,
-  "maddeCount": 80,
+  "maddeCount": 86,
   "maddeler": [
     {
       "id": "kanun:663:m:1",
@@ -24,13 +24,10 @@
       "preview": "(Mülga: 2/7/2018-KHK-703/25 md.)",
       "kitap": null,
       "kisim": null,
-      "bolum": "BİRİNCİ BÖLÜM · Amaç, Kapsam ve Görevler",
+      "bolum": null,
       "ayirim": null,
-      "maddeBaslik": "Amaç ve kapsam",
-      "sectionPath": [
-        "BİRİNCİ BÖLÜM · Amaç, Kapsam ve Görevler",
-        "Amaç ve kapsam"
-      ]
+      "maddeBaslik": null,
+      "sectionPath": []
     },
     {
       "id": "kanun:663:m:2",
@@ -41,11 +38,10 @@
       "preview": "(Mülga: 2/7/2018-KHK-703/25 md.)",
       "kitap": null,
       "kisim": null,
-      "bolum": "BİRİNCİ BÖLÜM · Amaç, Kapsam ve Görevler",
+      "bolum": null,
       "ayirim": null,
       "maddeBaslik": "Görevler",
       "sectionPath": [
-        "BİRİNCİ BÖLÜM · Amaç, Kapsam ve Görevler",
         "Görevler"
       ]
     },
@@ -241,8 +237,8 @@
       "maddeKind": "madde",
       "maddeNo": "14",
       "heading": "Madde 14",
-      "text": "(Mülga: 2/7/2018-KHK-703/25 md.)\n\n Halk Sağlığı Genel Müdürlüğü\n MADDE 14/A- (Ek: 15/8/2017-KHK-694/185 md.; Aynen kabul: 1/2/2018-7078/178 md.; Mülga: 2/7/2018-KHK-703/25 md.)\n\n Kamu Hastaneleri Genel Müdürlüğü\n MADDE 14/B- (Ek: 15/8/2017-KHK-694/185 md.; Aynen kabul: 1/2/2018-7078/178 md.; Mülga: 2/7/2018-KHK-703/25 md.)",
-      "preview": "(Mülga: 2/7/2018-KHK-703/25 md.) Halk Sağlığı Genel Müdürlüğü MADDE 14/A- (Ek: 15/8/2017-KHK-694/185 md.; Aynen kabul: 1/2/2018-7078/178 md.…",
+      "text": "(Mülga: 2/7/2018-KHK-703/25 md.)",
+      "preview": "(Mülga: 2/7/2018-KHK-703/25 md.)",
       "kitap": null,
       "kisim": null,
       "bolum": "ÜÇÜNCÜ BÖLÜM · Hizmet Birimleri",
@@ -251,6 +247,40 @@
       "sectionPath": [
         "ÜÇÜNCÜ BÖLÜM · Hizmet Birimleri",
         "Dış İlişkiler ve Avrupa Birliği Genel Müdürlüğü"
+      ]
+    },
+    {
+      "id": "kanun:663:m:14/A",
+      "maddeKind": "madde",
+      "maddeNo": "14/A",
+      "heading": "Madde 14/A",
+      "text": "(Ek: 15/8/2017-KHK-694/185 md.; Aynen kabul: 1/2/2018-7078/178 md.; Mülga: 2/7/2018-KHK-703/25 md.)",
+      "preview": "(Ek: 15/8/2017-KHK-694/185 md.; Aynen kabul: 1/2/2018-7078/178 md.; Mülga: 2/7/2018-KHK-703/25 md.)",
+      "kitap": null,
+      "kisim": null,
+      "bolum": "ÜÇÜNCÜ BÖLÜM · Hizmet Birimleri",
+      "ayirim": null,
+      "maddeBaslik": "Halk Sağlığı Genel Müdürlüğü",
+      "sectionPath": [
+        "ÜÇÜNCÜ BÖLÜM · Hizmet Birimleri",
+        "Halk Sağlığı Genel Müdürlüğü"
+      ]
+    },
+    {
+      "id": "kanun:663:m:14/B",
+      "maddeKind": "madde",
+      "maddeNo": "14/B",
+      "heading": "Madde 14/B",
+      "text": "(Ek: 15/8/2017-KHK-694/185 md.; Aynen kabul: 1/2/2018-7078/178 md.; Mülga: 2/7/2018-KHK-703/25 md.)",
+      "preview": "(Ek: 15/8/2017-KHK-694/185 md.; Aynen kabul: 1/2/2018-7078/178 md.; Mülga: 2/7/2018-KHK-703/25 md.)",
+      "kitap": null,
+      "kisim": null,
+      "bolum": "ÜÇÜNCÜ BÖLÜM · Hizmet Birimleri",
+      "ayirim": null,
+      "maddeBaslik": "Kamu Hastaneleri Genel Müdürlüğü",
+      "sectionPath": [
+        "ÜÇÜNCÜ BÖLÜM · Hizmet Birimleri",
+        "Kamu Hastaneleri Genel Müdürlüğü"
       ]
     },
     {
@@ -326,8 +356,8 @@
       "maddeKind": "madde",
       "maddeNo": "19",
       "heading": "Madde 19",
-      "text": "(Mülga: 2/7/2018-KHK-703/25 md.)\n\n Basın ve Halkla İlişkiler Müşavirliği\n MADDE 19/A- (Ek: 4/7/2012-6354/15 md.; Mülga: 2/7/2018-KHK-703/25 md.)",
-      "preview": "(Mülga: 2/7/2018-KHK-703/25 md.) Basın ve Halkla İlişkiler Müşavirliği MADDE 19/A- (Ek: 4/7/2012-6354/15 md.; Mülga: 2/7/2018-KHK-703/25 md.…",
+      "text": "(Mülga: 2/7/2018-KHK-703/25 md.)",
+      "preview": "(Mülga: 2/7/2018-KHK-703/25 md.)",
       "kitap": null,
       "kisim": null,
       "bolum": "ÜÇÜNCÜ BÖLÜM · Hizmet Birimleri",
@@ -336,6 +366,23 @@
       "sectionPath": [
         "ÜÇÜNCÜ BÖLÜM · Hizmet Birimleri",
         "Özel Kalem Müdürlüğü"
+      ]
+    },
+    {
+      "id": "kanun:663:m:19/A",
+      "maddeKind": "madde",
+      "maddeNo": "19/A",
+      "heading": "Madde 19/A",
+      "text": "(Ek: 4/7/2012-6354/15 md.; Mülga: 2/7/2018-KHK-703/25 md.)",
+      "preview": "(Ek: 4/7/2012-6354/15 md.; Mülga: 2/7/2018-KHK-703/25 md.)",
+      "kitap": null,
+      "kisim": null,
+      "bolum": "ÜÇÜNCÜ BÖLÜM · Hizmet Birimleri",
+      "ayirim": null,
+      "maddeBaslik": "Basın ve Halkla İlişkiler Müşavirliği",
+      "sectionPath": [
+        "ÜÇÜNCÜ BÖLÜM · Hizmet Birimleri",
+        "Basın ve Halkla İlişkiler Müşavirliği"
       ]
     },
     {
@@ -428,8 +475,8 @@
       "maddeKind": "madde",
       "maddeNo": "25",
       "heading": "Madde 25",
-      "text": "(Mülga: 2/7/2018-KHK-703/25 md.)\n Hastane koordinasyon kurulu ve görevleri\n MADDE 25/A- (Ek: 15/8/2017-KHK-694/188 md.; Aynen kabul: 1/2/2018-7078/181 md. ; Mülga: 2/7/2018-KHK-703/25 md.) (Başlığı ile Birlikte Yeniden Düzenleme: 21/2/2024-7496/26 md.)\n (1) Hastane hizmetlerinin düzenli, etkin ve verimli yürütülmesini teminen hizmet birimleri arasında koordinasyonu sağlamak üzere hastane koordinasyon kurulu kurulur. Hastane koordinasyon kurulu, başhekimin başkanlığında;\n a) Hastane gelişim planlarını onaylar, uygulamasını takip ve koordine eder.\n b) 7/5/1987 tarihli ve 3359 sayılı Sağlık Hizmetleri Temel Kanununun ek 9 uncu maddesi kapsamında sözleşme imzalanan personelin sözleşmede belirtilen yükümlülüklerinin yerine getirilmesini takip ve gerektiğinde sözleşmenin feshine esas olmak üzere ikaz eder ve disiplin cezası verilmesi gereken hâlleri tespit eder.\n c) İlgili mevzuatta verilen diğer görevleri yerine getirir.\n (2) En az üç en fazla yedi üyeden oluşan hastane koordinasyon kurulunun; teşkil olacağı hastanelere ilişkin esaslar, karar ve toplanma yeter sayıları, üyelerinin nitelikleri, çalışma usul ve esasları ile sekretaryası Sağlık Bakanlığınca çıkarılan yönetmelikle belirlenir.",
-      "preview": "(Mülga: 2/7/2018-KHK-703/25 md.) Hastane koordinasyon kurulu ve görevleri MADDE 25/A- (Ek: 15/8/2017-KHK-694/188 md.; Aynen kabul: 1/2/2018-…",
+      "text": "(Mülga: 2/7/2018-KHK-703/25 md.)",
+      "preview": "(Mülga: 2/7/2018-KHK-703/25 md.)",
       "kitap": null,
       "kisim": null,
       "bolum": "BEŞİNCİ BÖLÜM · Taşra Teşkilatı",
@@ -438,6 +485,23 @@
       "sectionPath": [
         "BEŞİNCİ BÖLÜM · Taşra Teşkilatı",
         "Taşra teşkilatı"
+      ]
+    },
+    {
+      "id": "kanun:663:m:25/A",
+      "maddeKind": "madde",
+      "maddeNo": "25/A",
+      "heading": "Madde 25/A",
+      "text": "(Ek: 15/8/2017-KHK-694/188 md.; Aynen kabul: 1/2/2018-7078/181 md. ; Mülga: 2/7/2018-KHK-703/25 md.) (Başlığı ile Birlikte Yeniden Düzenleme: 21/2/2024-7496/26 md.)\n (1) Hastane hizmetlerinin düzenli, etkin ve verimli yürütülmesini teminen hizmet birimleri arasında koordinasyonu sağlamak üzere hastane koordinasyon kurulu kurulur. Hastane koordinasyon kurulu, başhekimin başkanlığında;\n a) Hastane gelişim planlarını onaylar, uygulamasını takip ve koordine eder.\n b) 7/5/1987 tarihli ve 3359 sayılı Sağlık Hizmetleri Temel Kanununun ek 9 uncu maddesi kapsamında sözleşme imzalanan personelin sözleşmede belirtilen yükümlülüklerinin yerine getirilmesini takip ve gerektiğinde sözleşmenin feshine esas olmak üzere ikaz eder ve disiplin cezası verilmesi gereken hâlleri tespit eder.\n c) İlgili mevzuatta verilen diğer görevleri yerine getirir.\n (2) En az üç en fazla yedi üyeden oluşan hastane koordinasyon kurulunun; teşkil olacağı hastanelere ilişkin esaslar, karar ve toplanma yeter sayıları, üyelerinin nitelikleri, çalışma usul ve esasları ile sekretaryası Sağlık Bakanlığınca çıkarılan yönetmelikle belirlenir.",
+      "preview": "(Ek: 15/8/2017-KHK-694/188 md.; Aynen kabul: 1/2/2018-7078/181 md. ; Mülga: 2/7/2018-KHK-703/25 md.) (Başlığı ile Birlikte Yeniden Düzenleme…",
+      "kitap": null,
+      "kisim": null,
+      "bolum": "BEŞİNCİ BÖLÜM · Taşra Teşkilatı",
+      "ayirim": null,
+      "maddeBaslik": "Hastane koordinasyon kurulu ve görevleri",
+      "sectionPath": [
+        "BEŞİNCİ BÖLÜM · Taşra Teşkilatı",
+        "Hastane koordinasyon kurulu ve görevleri"
       ]
     },
     {
@@ -751,8 +815,8 @@
       "maddeKind": "madde",
       "maddeNo": "44",
       "heading": "Madde 44",
-      "text": "(Mülga: 2/7/2018-KHK-703/25 md.)\n\n Ürün denetmenliği\n MADDE 44/A- (Ek: 4/7/2012-6354/17 md.; Mülga: 2/7/2018-KHK-703/25 md.)",
-      "preview": "(Mülga: 2/7/2018-KHK-703/25 md.) Ürün denetmenliği MADDE 44/A- (Ek: 4/7/2012-6354/17 md.; Mülga: 2/7/2018-KHK-703/25 md.)",
+      "text": "(Mülga: 2/7/2018-KHK-703/25 md.)",
+      "preview": "(Mülga: 2/7/2018-KHK-703/25 md.)",
       "kitap": null,
       "kisim": null,
       "bolum": "DOKUZUNCU BÖLÜM · Personele İlişkin Hükümler",
@@ -764,11 +828,28 @@
       ]
     },
     {
+      "id": "kanun:663:m:44/A",
+      "maddeKind": "madde",
+      "maddeNo": "44/A",
+      "heading": "Madde 44/A",
+      "text": "(Ek: 4/7/2012-6354/17 md.; Mülga: 2/7/2018-KHK-703/25 md.)",
+      "preview": "(Ek: 4/7/2012-6354/17 md.; Mülga: 2/7/2018-KHK-703/25 md.)",
+      "kitap": null,
+      "kisim": null,
+      "bolum": "DOKUZUNCU BÖLÜM · Personele İlişkin Hükümler",
+      "ayirim": null,
+      "maddeBaslik": "Ürün denetmenliği",
+      "sectionPath": [
+        "DOKUZUNCU BÖLÜM · Personele İlişkin Hükümler",
+        "Ürün denetmenliği"
+      ]
+    },
+    {
       "id": "kanun:663:m:45",
       "maddeKind": "madde",
       "maddeNo": "45",
       "heading": "Madde 45",
-      "text": "(1) Bakanlık ve bağlı kuruluşlarında özel bilgi ve ihtisas gerektiren nitelikli bir işin yapılması veya proje hazırlanması veya yürütülmesi için 657 sayılı Kanun ve diğer kanunların sözleşmeli personel çalıştırılması hakkındaki hükümlerine bağlı olmaksızın proje süresince ve her halde üç yıla kadar sözleşme ile yerli ve yabancı uzman çalıştırılabilir.\n (2) Bu şekilde çalıştırılacak personel sayısı yüzelliyi geçemez ve bunların Bakanlık ve bağlı kuruluşlarına dağılımı Bakan tarafından belirlenir.\n (3) Sözleşmeli olarak çalıştırılacaklara ödenecek ücret 657 sayılı Kanunun 4 üncü maddesinin (B) fıkrasına göre çalıştırılanlar için uygulanmakta olan sözleşme ücreti tavanının beş katını geçemez. Bu personel, sosyal güvenlik yönünden 5510 sayılı Kanunun 4 üncü maddesinin birinci fıkrasının (a) bendi kapsamında sigortalı sayılır.\n (4) Bu suretle çalıştırılacak uzmanların nitelikleri, alınma usûlü ve sözleşme ücretlerinin tespiti ile sözleşme usûl ve esasları Bakanlık ve Hazine ve Maliye Bakanlığınca müştereken belirlenir.[9]\n\n Sözleşmeli sağlık personeli istihdamı\n MADDE 45/A- (Ek: 3/10/2016-KHK-676/76 md.; Aynen kabul: 1/2/2018-7070/62 md.)\n (1) Bakanlık ve bağlı kuruluşları, merkez teşkilatları hariç olmak üzere ve öncelikle personel istihdamında güçlük çekilen yerlerde, 657 sayılı Devlet Memurları Kanununun 4 üncü maddesinin (B) fıkrası uyarınca ilgili mevzuatı gereği kura ile ataması öngörülenler dışında 190 sayılı Kanun Hükmünde Kararnameye ekli cetvellerde Sağlık Hizmetleri ve Yardımcı Sağlık Hizmetleri Sınıfı kapsamında yer alan unvanlarla vize edilmiş pozisyonlarda bu maddede öngörülen şartlarla sözleşmeli personel istihdam edebilir.\n (2) Bu kapsamdaki sözleşmeli sağlık personeli Kamu Personel Seçme Sınavı (KPSS) sonucuna göre Bakanlık ve bağlı kuruluşlarına Öğrenci Seçme ve Yerleştirme Merkezi (ÖSYM) Başkanlığı tarafından yapılacak yerleştirme ile atanabileceği gibi pozisyon ve ihtiyaç durumuna göre KPSS puanı esas alınarak Bakanlık tarafından yapılacak sözlü sınavla da atama yapılabilir. (İptal cümle: Anayasa Mahkemesinin 24/7/2019 tarihli ve E.:2018/73, K.:2019/65 Sayılı Kararı ile.)\n (3) Bu madde uyarınca atanan sözleşmeli sağlık personeli üç yıl süreyle başka bir yere atanamaz. Aile birliği mazeretine bağlı yer değiştirmelerde bu madde uyarınca istihdam edilen personelin eşi bu personele tabidir. Ancak sözleşmeli sağlık personelinin bulunduğu ilde bir yıl görev yapması ve vizeli pozisyon bulunması durumunda; eşlerin her ikisinin de Bakanlık ve bağlı kuruluşlarında sözleşmeli veya eşlerden birinin sözleşmeli, diğerinin Bakanlık ve bağlı kuruluşlarında veya diğer bir kamu kurum veya kuruluşunda kadrolu statüde istihdam ediliyor olması halinde hizmet ihtiyacının daha fazla olduğu yere atamaları yapılabilir.[10]\n (4) Sözleşmeli sağlık personelinden üç yıllık çalışma süresini tamamlayanlar talepleri halinde bulundukları yerde 657 sayılı Kanunun 4 üncü maddesinin (A) bendi kapsamındaki kadrolara atanır. Bu kadrolara atananlar, aynı yerde en az bir yıl daha görev yapar, bunlar hakkında adaylık hükümleri uygulanmaz.10\n (5) Bu madde hükümlerine göre kadrolara atananların, 657 sayılı Kanunun 4 üncü maddesinin (B) bendi uyarınca sözleşmeli pozisyonlarda geçirdikleri hizmet süreleri, öğrenim durumlarına göre yükselebilecekleri dereceleri aşmamak kaydıyla kazanılmış hak aylık derece ve kademelerinin tespitinde değerlendirilir.\n (6) Bu madde kapsamında memur kadrolarına atananlara iş sonu tazminatı ödenmez. Bu personelin önceden iş sonu tazminatı ödenmiş süreleri hariç, iş sonu tazminatına esas olan toplam hizmet süreleri, 8/6/1949 tarihli ve 5434 sayılı Türkiye Cumhuriyeti Emekli Sandığı Kanunu ve 31/5/2006 tarihli ve 5510 sayılı Sosyal Sigortalar ve Genel Sağlık Sigortası Kanunu hükümleri uyarınca ödenecek emekli ikramiyesine esas toplam hizmet süresinin hesabında dikkate alınır.\n (7) Bu madde çerçevesinde sözleşmeli personelin atanacağı memur kadroları, 190 sayılı Kanun Hükmünde Kararnameye ekli cetvellerde yer alan sınıf, unvan ve derecelerine uygun olmak şartıyla, başka bir işleme gerek kalmaksızın atama işleminin yapıldığı tarih itibarıyla ihdas edilerek ilgisine göre Bakanlık veya bağlı kuruluşlarının 190 sayılı Kanun Hükmünde Kararnameye ekli cetvellerinin ilgili bölümlerine eklenmiş ve kadrolara atananların pozisyonları başka bir işleme gerek kalmaksızın iptal edilmiş sayılır. İhdas edilen kadrolar ile iptal edilen pozisyonlar; unvanı, sınıfı, adedi, derecesi, teşkilatı ve birimi belirtilmek suretiyle atama tarihinden itibaren iki ay içinde Hazine ve Maliye Bakanlığı ve Devlet Personel Başkanlığına bildirilir.[11]\n (8) Bu madde kapsamında sözleşmeli sağlık personeli pozisyonlarına yapılan atama, sözleşmenin imzalanmasıyla geçerlilik kazanır. Sözleşme, imzalanmadan herhangi bir hak doğurmaz.",
+      "text": "(1) Bakanlık ve bağlı kuruluşlarında özel bilgi ve ihtisas gerektiren nitelikli bir işin yapılması veya proje hazırlanması veya yürütülmesi için 657 sayılı Kanun ve diğer kanunların sözleşmeli personel çalıştırılması hakkındaki hükümlerine bağlı olmaksızın proje süresince ve her halde üç yıla kadar sözleşme ile yerli ve yabancı uzman çalıştırılabilir.\n (2) Bu şekilde çalıştırılacak personel sayısı yüzelliyi geçemez ve bunların Bakanlık ve bağlı kuruluşlarına dağılımı Bakan tarafından belirlenir.\n (3) Sözleşmeli olarak çalıştırılacaklara ödenecek ücret 657 sayılı Kanunun 4 üncü maddesinin (B) fıkrasına göre çalıştırılanlar için uygulanmakta olan sözleşme ücreti tavanının beş katını geçemez. Bu personel, sosyal güvenlik yönünden 5510 sayılı Kanunun 4 üncü maddesinin birinci fıkrasının (a) bendi kapsamında sigortalı sayılır.\n (4) Bu suretle çalıştırılacak uzmanların nitelikleri, alınma usûlü ve sözleşme ücretlerinin tespiti ile sözleşme usûl ve esasları Bakanlık ve Hazine ve Maliye Bakanlığınca müştereken belirlenir.[9]",
       "preview": "(1) Bakanlık ve bağlı kuruluşlarında özel bilgi ve ihtisas gerektiren nitelikli bir işin yapılması veya proje hazırlanması veya yürütülmesi…",
       "kitap": null,
       "kisim": null,
@@ -778,6 +859,23 @@
       "sectionPath": [
         "DOKUZUNCU BÖLÜM · Personele İlişkin Hükümler",
         "Sözleşmeli uzman çalıştırılması"
+      ]
+    },
+    {
+      "id": "kanun:663:m:45/A",
+      "maddeKind": "madde",
+      "maddeNo": "45/A",
+      "heading": "Madde 45/A",
+      "text": "(Ek: 3/10/2016-KHK-676/76 md.; Aynen kabul: 1/2/2018-7070/62 md.)\n (1) Bakanlık ve bağlı kuruluşları, merkez teşkilatları hariç olmak üzere ve öncelikle personel istihdamında güçlük çekilen yerlerde, 657 sayılı Devlet Memurları Kanununun 4 üncü maddesinin (B) fıkrası uyarınca ilgili mevzuatı gereği kura ile ataması öngörülenler dışında 190 sayılı Kanun Hükmünde Kararnameye ekli cetvellerde Sağlık Hizmetleri ve Yardımcı Sağlık Hizmetleri Sınıfı kapsamında yer alan unvanlarla vize edilmiş pozisyonlarda bu maddede öngörülen şartlarla sözleşmeli personel istihdam edebilir.\n (2) Bu kapsamdaki sözleşmeli sağlık personeli Kamu Personel Seçme Sınavı (KPSS) sonucuna göre Bakanlık ve bağlı kuruluşlarına Öğrenci Seçme ve Yerleştirme Merkezi (ÖSYM) Başkanlığı tarafından yapılacak yerleştirme ile atanabileceği gibi pozisyon ve ihtiyaç durumuna göre KPSS puanı esas alınarak Bakanlık tarafından yapılacak sözlü sınavla da atama yapılabilir. (İptal cümle: Anayasa Mahkemesinin 24/7/2019 tarihli ve E.:2018/73, K.:2019/65 Sayılı Kararı ile.)\n (3) Bu madde uyarınca atanan sözleşmeli sağlık personeli üç yıl süreyle başka bir yere atanamaz. Aile birliği mazeretine bağlı yer değiştirmelerde bu madde uyarınca istihdam edilen personelin eşi bu personele tabidir. Ancak sözleşmeli sağlık personelinin bulunduğu ilde bir yıl görev yapması ve vizeli pozisyon bulunması durumunda; eşlerin her ikisinin de Bakanlık ve bağlı kuruluşlarında sözleşmeli veya eşlerden birinin sözleşmeli, diğerinin Bakanlık ve bağlı kuruluşlarında veya diğer bir kamu kurum veya kuruluşunda kadrolu statüde istihdam ediliyor olması halinde hizmet ihtiyacının daha fazla olduğu yere atamaları yapılabilir.[10]\n (4) Sözleşmeli sağlık personelinden üç yıllık çalışma süresini tamamlayanlar talepleri halinde bulundukları yerde 657 sayılı Kanunun 4 üncü maddesinin (A) bendi kapsamındaki kadrolara atanır. Bu kadrolara atananlar, aynı yerde en az bir yıl daha görev yapar, bunlar hakkında adaylık hükümleri uygulanmaz.10\n (5) Bu madde hükümlerine göre kadrolara atananların, 657 sayılı Kanunun 4 üncü maddesinin (B) bendi uyarınca sözleşmeli pozisyonlarda geçirdikleri hizmet süreleri, öğrenim durumlarına göre yükselebilecekleri dereceleri aşmamak kaydıyla kazanılmış hak aylık derece ve kademelerinin tespitinde değerlendirilir.\n (6) Bu madde kapsamında memur kadrolarına atananlara iş sonu tazminatı ödenmez. Bu personelin önceden iş sonu tazminatı ödenmiş süreleri hariç, iş sonu tazminatına esas olan toplam hizmet süreleri, 8/6/1949 tarihli ve 5434 sayılı Türkiye Cumhuriyeti Emekli Sandığı Kanunu ve 31/5/2006 tarihli ve 5510 sayılı Sosyal Sigortalar ve Genel Sağlık Sigortası Kanunu hükümleri uyarınca ödenecek emekli ikramiyesine esas toplam hizmet süresinin hesabında dikkate alınır.\n (7) Bu madde çerçevesinde sözleşmeli personelin atanacağı memur kadroları, 190 sayılı Kanun Hükmünde Kararnameye ekli cetvellerde yer alan sınıf, unvan ve derecelerine uygun olmak şartıyla, başka bir işleme gerek kalmaksızın atama işleminin yapıldığı tarih itibarıyla ihdas edilerek ilgisine göre Bakanlık veya bağlı kuruluşlarının 190 sayılı Kanun Hükmünde Kararnameye ekli cetvellerinin ilgili bölümlerine eklenmiş ve kadrolara atananların pozisyonları başka bir işleme gerek kalmaksızın iptal edilmiş sayılır. İhdas edilen kadrolar ile iptal edilen pozisyonlar; unvanı, sınıfı, adedi, derecesi, teşkilatı ve birimi belirtilmek suretiyle atama tarihinden itibaren iki ay içinde Hazine ve Maliye Bakanlığı ve Devlet Personel Başkanlığına bildirilir.[11]\n (8) Bu madde kapsamında sözleşmeli sağlık personeli pozisyonlarına yapılan atama, sözleşmenin imzalanmasıyla geçerlilik kazanır. Sözleşme, imzalanmadan herhangi bir hak doğurmaz.",
+      "preview": "(Ek: 3/10/2016-KHK-676/76 md.; Aynen kabul: 1/2/2018-7070/62 md.) (1) Bakanlık ve bağlı kuruluşları, merkez teşkilatları hariç olmak üzere v…",
+      "kitap": null,
+      "kisim": null,
+      "bolum": "DOKUZUNCU BÖLÜM · Personele İlişkin Hükümler",
+      "ayirim": null,
+      "maddeBaslik": "Sözleşmeli sağlık personeli istihdamı",
+      "sectionPath": [
+        "DOKUZUNCU BÖLÜM · Personele İlişkin Hükümler",
+        "Sözleşmeli sağlık personeli istihdamı"
       ]
     },
     {

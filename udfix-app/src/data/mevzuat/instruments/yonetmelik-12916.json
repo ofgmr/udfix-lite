@@ -13,7 +13,7 @@
   "tertip": 5,
   "sourceUrl": "https://www.mevzuat.gov.tr/mevzuat?MevzuatNo=12916&MevzuatTur=7&MevzuatTertip=5",
   "kabulTarihi": null,
-  "maddeCount": 113,
+  "maddeCount": 116,
   "maddeler": [
     {
       "id": "yonetmelik:12916:m:1",
@@ -23,15 +23,11 @@
       "text": "(1) Bu Yönetmelik, 4/1/2002 tarihli ve 4734 sayılı Kamu İhale Kanunu kapsamındaki idarelerin, bu Kanuna göre gerçekleştirecekleri yapım işleri ihalelerinde uygulayacakları usul ve esasları düzenlemek amacıyla hazırlanmıştır.\n (2) (Ek:RG- 18/5/2024-32550)(10) Kamu Alımlarının Elektronik Ortamda Yapılmasına İlişkin Uygulama Yönetmeliği hükümleri saklıdır.",
       "preview": "(1) Bu Yönetmelik, 4/1/2002 tarihli ve 4734 sayılı Kamu İhale Kanunu kapsamındaki idarelerin, bu Kanuna göre gerçekleştirecekleri yapım işle…",
       "kitap": null,
-      "kisim": "BİRİNCİ KISIM · Genel Hükümler",
-      "bolum": "BİRİNCİ BÖLÜM · Amaç, Kapsam, Dayanak ve Tanımlar",
+      "kisim": null,
+      "bolum": null,
       "ayirim": null,
-      "maddeBaslik": "Amaç ve kapsam",
-      "sectionPath": [
-        "BİRİNCİ KISIM · Genel Hükümler",
-        "BİRİNCİ BÖLÜM · Amaç, Kapsam, Dayanak ve Tanımlar",
-        "Amaç ve kapsam"
-      ]
+      "maddeBaslik": null,
+      "sectionPath": []
     },
     {
       "id": "yonetmelik:12916:m:2",
@@ -41,13 +37,11 @@
       "text": "(1) Bu Yönetmelik, 4734 sayılı Kanunun 53 üncü maddesine dayanılarak hazırlanmıştır.\n\n Tanımlar ve kısaltmalar (Değişik başlık:RG- 18/5/2024-32550)(10)",
       "preview": "(1) Bu Yönetmelik, 4734 sayılı Kanunun 53 üncü maddesine dayanılarak hazırlanmıştır. Tanımlar ve kısaltmalar (Değişik başlık:RG- 18/5/2024-3…",
       "kitap": null,
-      "kisim": "BİRİNCİ KISIM · Genel Hükümler",
-      "bolum": "BİRİNCİ BÖLÜM · Amaç, Kapsam, Dayanak ve Tanımlar",
+      "kisim": null,
+      "bolum": null,
       "ayirim": null,
       "maddeBaslik": "Dayanak",
       "sectionPath": [
-        "BİRİNCİ KISIM · Genel Hükümler",
-        "BİRİNCİ BÖLÜM · Amaç, Kapsam, Dayanak ve Tanımlar",
         "Dayanak"
       ]
     },
@@ -59,13 +53,11 @@
       "text": "(1) Bu Yönetmeliğin uygulanmasında 4734 sayılı Kanunun 4 üncü maddesindeki tanımlar (Değişik ibare:RG- 18/5/2024-32550)(10) ile Kamu Alımlarının Elektronik Ortamda Yapılmasına İlişkin Uygulama Yönetmeliğinin 3 üncü maddesindeki tanım ve kısaltmaların yanında;\n a) (Değişik:RG-16/7/2011-27996) (Mülga:RG-13/8/2012-28383)\n b) Benzer iş: İhale konusu iş veya işin bölümleriyle nitelik ve büyüklük bakımından benzerlik gösteren, aynı veya benzer inşaat tekniği gerektiren, tesis, makine, teçhizat ve diğer ekipman ile mali güç, ihtisas ve organizasyon gerekleri itibariyle benzer özellikteki işleri,\n c) (Değişik:RG-16/3/2011-27876) Eşik değer: 4734 sayılı Kanunun 13 üncü maddesinde düzenlenen ilan ve davet süreleri ve kuralları ile ihalelere sadece yerli isteklilerin katılmasına ilişkin hükümlerin uygulanmasında kullanılmak üzere, yapım işleri için Kanunun 8 inci maddesinin birinci fıkrasının (c) bendinde belirlenen ve aynı Kanunun 67 nci maddesi uyarınca güncellenen parasal limiti,\n ç) İş: Yapım işlerini,\n d) İş deneyim belgesi: Adayın veya isteklinin ihale konusu iş veya benzer işlerdeki deneyimini gösteren; iş bitirme belgesi, iş durum belgesi, iş denetleme belgesi ve iş yönetme belgesini,\n e) Kanun: 4734 sayılı Kamu İhale Kanununu,\n f) Yaklaşık maliyet: İhale onay belgesi düzenlenmeden önce idarece her türlü fiyat araştırması yapılarak, katma değer vergisi (KDV) hariç olmak üzere hesaplanan ve dayanakları ile birlikte bir hesap cetvelinde gösterilen, ihale konusu işin öngörülen bedelini,\n g) (Ek:RG-16/3/2011-27876) (Mülga:RG- 18/5/2024-32550)(10)\n ğ) (Ek:RG-16/3/2011-27876) (Mülga:RG- 18/5/2024-32550)(10)\n h) (Ek:RG/7/6/2014-29023, geçerlilik:1/2/2014) (Değişik:RG-30/7/2025-32971)(11) Endeks: Türkiye İstatistik Kurumu tarafından yayımlanan Yurt İçi Üretici Fiyat Genel Endeksini,\n ı) (Ek: 19.06.2018-30453/m RG/ 1. md.)Esaslı unsur: Proje bütünlüğü çerçevesinde yapının amacı ile işlevi ve/veya gerçekleştirilen toplam iş tutarı içerisindeki farklı iş gruplarına ait tutarların dağılımı göz önünde bulundurularak belirlenen ana iş grubunu,\n i) (Ek: 19.06.2018-30453/m RG/1. md.) İş grubu: Yapım İşlerinde Benzer İş Grupları Tebliğinin eki Yapım İşlerinde Benzer İş Grupları Listesindeki ilgili iş grubunu,\n j) (Ek:RG- 18/5/2024-32550)(10) EKAP Yönetmeliği: Kamu Alımlarının Elektronik Ortamda Yapılmasına İlişkin Uygulama Yönetmeliğini,\n k) (Ek:RG-30/7/2025-32971)(11) (Değişik:RG-9/4/2026-33219) Alt endeks: Türkiye İstatistik Kurumu tarafından aylık yayımlanan endekslerden; rayiçler için Yurt İçi Üretici Fiyat Endeksi (2003=100) CPA 2008 kısım, bölüm ve gruplarına göre tarihsel seri tablosu ile Yurt İçi Üretici Fiyat Endeksi 2003=100, CPA 2008 seçilmiş sınıflar tablosunun alt sektörler itibarıyla ilgili endeksini, işçilik rayiçleri için ise Tüketici Fiyat Genel Endeksini,\n ifade eder.",
       "preview": "(1) Bu Yönetmeliğin uygulanmasında 4734 sayılı Kanunun 4 üncü maddesindeki tanımlar (Değişik ibare:RG- 18/5/2024-32550)(10) ile Kamu Alımlar…",
       "kitap": null,
-      "kisim": "BİRİNCİ KISIM · Genel Hükümler",
-      "bolum": "BİRİNCİ BÖLÜM · Amaç, Kapsam, Dayanak ve Tanımlar",
+      "kisim": null,
+      "bolum": null,
       "ayirim": null,
       "maddeBaslik": "Dayanak",
       "sectionPath": [
-        "BİRİNCİ KISIM · Genel Hükümler",
-        "BİRİNCİ BÖLÜM · Amaç, Kapsam, Dayanak ve Tanımlar",
         "Dayanak"
       ]
     },
@@ -77,12 +69,11 @@
       "text": "(1) İdareler, yapacakları ihalelerde; saydamlığı, rekabeti, eşit muameleyi, güvenirliği, gizliliği, kamuoyu denetimini, ihtiyaçların uygun şartlarla ve zamanında karşılanmasını ve kaynakların verimli kullanılmasını sağlamakla sorumludur.\n (2) Aralarında kabul edilebilir doğal bir bağlantı olmadığı sürece yapım işleri, mal alımı ve hizmet alımı bir arada ihale edilemez.\n (3) Eşik değerin veya parasal limitlerin altında kalmak ya da bu Yönetmelikte yer alan diğer hükümlerin uygulanmasından kaçınmak amacıyla yapım işleri kısımlara bölünemez.\n (4) İhalelerde açık ihale usulü ve belli istekliler arasında ihale usulü temel usullerdir. Pazarlık usulü ile ihale yapılması ve doğrudan temin yoluyla ihtiyaçların karşılanması ise ancak Kanunda belirtilen özel hallerde mümkündür.\n (5) Açık ihale usulü ve pazarlık usulü ile yapılacak ihalelerde ihale dokümanı, belli istekliler arasında ihale usulü ile yapılacak ihalelerde ön yeterlik ve ihale dokümanı hazırlanmadan ihale veya ön yeterlik ilanı ya da davet yapılamaz.\n (6) Ödeneği bulunmayan hiçbir iş için ihaleye çıkılamaz.\n (7) Kurulun uygun görüşü olmadıkça, Kanunun 22 nci maddesinin (d) bendindeki yer alan parasal limit dahilinde yapılacak harcamaların yıllık toplamı, idarelerin bütçelerine yapım işleri için konulacak ödeneklerin %10’unu aşamaz. İdareler, anılan parasal limit dahilinde gerçekleştirecekleri yapım işlerinde, yapım işleri için ayrılan ve yıllık bütçelerinde belirlenen toplam ödenek miktarını dikkate alırlar.\n (8) İlgili mevzuatı gereğince Çevresel Etki Değerlendirme (ÇED) raporu gerekli olan işlerde ihaleye çıkılabilmesi için ÇED olumlu belgesinin alınmış olması zorunludur. Ancak, doğal afetlere bağlı olarak acilen ihale edilecek yapım işlerinde ÇED raporu aranmaz.\n (9) Ön ilan yapılacak hallerde, mali yılın başlangıcından itibaren mümkün olan en kısa sürede bu ilanın yapılabilmesini teminen işin yaklaşık maliyeti hesaplanır ve ihale onay belgesi düzenlenerek onay alınır.",
       "preview": "(1) İdareler, yapacakları ihalelerde; saydamlığı, rekabeti, eşit muameleyi, güvenirliği, gizliliği, kamuoyu denetimini, ihtiyaçların uygun ş…",
       "kitap": null,
-      "kisim": "BİRİNCİ KISIM · Genel Hükümler",
+      "kisim": null,
       "bolum": "İKİNCİ BÖLÜM · Uygulama İlkeleri ve Yaklaşık Maliyet",
       "ayirim": null,
       "maddeBaslik": "Temel ilkeler",
       "sectionPath": [
-        "BİRİNCİ KISIM · Genel Hükümler",
         "İKİNCİ BÖLÜM · Uygulama İlkeleri ve Yaklaşık Maliyet",
         "Temel ilkeler"
       ]
@@ -95,12 +86,11 @@
       "text": "(1) (Değişik cümle:RG-16/3/2011-27876) İhaleye çıkılmadan önce ve ihale sürecinde idarelerin aşağıda belirtilen hususlara uymaları zorunludur:\n a) Birden fazla yılı kapsayan işlerde ihaleye çıkılabilmesi için, işin süresine uygun olarak yıllar itibarıyla öngörülen ödeneğin bütçelerinde bulunmasını sağlamak üzere programlamanın yapılmış olması zorunludur. İlk yıl için öngörülen ödenek proje maliyetinin %10’undan az olamaz ve başlangıçta daha sonraki yıllar için programlanmış olan ödenek dilimleri sonraki yıllarda azaltılamaz.\n b) Öngörülen ödeneklerin kullanılmasına imkan verecek süre dikkate alınarak, idarelerce ihalelerin zamanında yapılması, birden fazla yılı kapsayan ve yatırım niteliği olan işlerde (doğal afetler ile ihalenin ivedi olarak yapılmasını gerektiren haller hariç) ise yılın ilk dokuz ayında ihalenin sonuçlandırılması esastır.\n c) Arsa temin edilmeden, mülkiyet, kamulaştırma ve gerekli hallerde imar işlemleri tamamlanmadan ve uygulama projeleri yapılmadan ihaleye çıkılamaz. İhale konusu işin özgün nitelikte ve karmaşık olması nedeniyle teknik ve malî özelliklerinin gerekli olan netlikte belirlenemediği durumlarda ön veya kesin proje üzerinden ihaleye çıkılabilir. Uygulama projesi bulunan işlerde anahtar teslimi götürü bedel teklif alınmak suretiyle ihale yapılması zorunludur. Ancak, doğal afetler nedeniyle uygulama projesi yapılması için yeterli süre bulunmayan işlerde ön veya kesin proje üzerinden, her türlü onarım işleri ile işin yapımı sırasında belli aşamalarda arazi ve zemin etütleri gerekmesi veya uygulamada imar ve güzergâh değişikliklerinin muhtemel olması nedenleriyle ihaleden önce uygulama projesi yapılamayan, bina işleri hariç, işlerde ise kesin proje üzerinden ihaleye çıkılabilir. Bu işlerin uygulama projesi yapılabilen kısımlar için anahtar teslimi götürü bedel, uygulama projesi yapılamayan kısımlarda ise her bir kalem iş için birim fiyat teklif almak suretiyle ihale yapılabilir. Arsa temini, mülkiyet ve kamulaştırma işlemlerinin tamamlanması şartı, baraj ve büyük sulama, içmesuyu isale hattı, enerji nakil hattı, trafo, trafo merkezleri, şalt tesisleri, kaptajlar, su depoları, karayolu, liman ve havaalanı, demiryolu, petrol ve doğalgaz boru hattı projelerinde aranmaz.\n ç) 2/3/1984 tarihli ve 2985 sayılı Toplu Konut Kanunu kapsamındaki (Değişik ibare:RG-16/3/2011-27876) projelerde, Kanunun; 5 inci maddesinin beşinci ve altıncı fıkraları ile, 62 nci maddesinin (a) ve (b) bendi hükümleri uygulanmaksızın ve 62 nci maddesinin (c) bendindeki kamulaştırma, mülkiyet, arsa temini, imar işlemleri ve uygulama projesine ilişkin şartlar aranmaksızın ihaleye çıkılabilir. Ancak, ÇED raporu zorunluluğu bulunan hallerde sözleşme imzalanmadan önce bu raporun alınması zorunludur.\n d) Doğal afetler nedeniyle uygulama projesi yapılması için yeterli süre bulunmayan hallerde teklif birim fiyat üzerinden ihaleye çıkılması durumunda, bu duruma ilişkin açıklayıcı bilgi ve kanıtlayıcı belgeler; işin yapımı sırasında belli aşamalarda arazi ve zemin etüdü gerektirmesi gerekçesiyle teklif birim fiyat üzerinden ihaleye çıkılmasına karar verilen ihalelerde ise, gerekli arazi ve zemin etütlerinin ihaleden önce yapılamama nedenleri, (Değişik ibare:RG- 18/5/2024-32550)(10) ilgili e-formda belirtilir.\n e) (Ek bent:RG-16/3/2011-27876) (Mülga:RG- 18/5/2024-32550)(10)\n (2) (Ek fıkra:13/12/2017-30269 R.G./1. md.) İhale dokümanının, zorunlu teknik nedenler dışında malzemelere ilişkin Çevre ve Şehircilik Bakanlığı tarafından, makine ve ekipmanlara ilişkin Bilim, Sanayi ve Teknoloji Bakanlığı tarafından belirlenen ve Kurum tarafından ilan edilen listede yer alan makine, malzeme ve ekipmanın yapım aşamasında kullanılmasını sağlayacak şekilde hazırlanması zorunludur.",
       "preview": "(1) (Değişik cümle:RG-16/3/2011-27876) İhaleye çıkılmadan önce ve ihale sürecinde idarelerin aşağıda belirtilen hususlara uymaları zorunludu…",
       "kitap": null,
-      "kisim": "BİRİNCİ KISIM · Genel Hükümler",
+      "kisim": null,
       "bolum": "İKİNCİ BÖLÜM · Uygulama İlkeleri ve Yaklaşık Maliyet",
       "ayirim": null,
       "maddeBaslik": "İhalelerde uyulması zorunlu hususlar",
       "sectionPath": [
-        "BİRİNCİ KISIM · Genel Hükümler",
         "İKİNCİ BÖLÜM · Uygulama İlkeleri ve Yaklaşık Maliyet",
         "İhalelerde uyulması zorunlu hususlar"
       ]
@@ -113,12 +103,11 @@
       "text": "(1) Yerli istekli, Türk vatandaşı gerçek kişiler ile Türkiye Cumhuriyeti kanunlarına göre kurulmuş tüzel kişiliklerdir.\n (2) Gerçek kişilerin yerli istekli oldukları, başvuru veya teklif mektubunda yer alan Türkiye Cumhuriyeti kimlik numarasından anlaşılır. Tüzel kişilerin yerli istekli oldukları ise başvuru veya teklif kapsamında sunulan belgeler üzerinden değerlendirilir. Yerli istekli olunduğuna ilişkin ayrıca bir belge istenilemez.\n (3) Ortak girişimlerin yerli istekli sayılması için, ortak girişimi oluşturan ortakların her birinin yerli istekli olması zorunludur.\n\n Tebligat esasları (Değişik başlık:RG- 18/5/2024-32550)(10)",
       "preview": "(1) Yerli istekli, Türk vatandaşı gerçek kişiler ile Türkiye Cumhuriyeti kanunlarına göre kurulmuş tüzel kişiliklerdir. (2) Gerçek kişilerin…",
       "kitap": null,
-      "kisim": "BİRİNCİ KISIM · Genel Hükümler",
+      "kisim": null,
       "bolum": "İKİNCİ BÖLÜM · Uygulama İlkeleri ve Yaklaşık Maliyet",
       "ayirim": null,
       "maddeBaslik": "Yerli istekli",
       "sectionPath": [
-        "BİRİNCİ KISIM · Genel Hükümler",
         "İKİNCİ BÖLÜM · Uygulama İlkeleri ve Yaklaşık Maliyet",
         "Yerli istekli"
       ]
@@ -131,12 +120,11 @@
       "text": "(1) (Değişik:RG-16/3/2011-27876; Değişik: RG-24/9/2013-28775; Değişik: 07/06/2014–29023 R.G./2.md., yürürlük: 1/1/2015) (1) İdareler tarafından aday, istekli ve istekli olabileceklere tebligat (Mülga ibare:RG- 18/5/2024-32550)(10) EKAP üzerinden (Mülga ibare:RG- 18/5/2024-32550)(10) yapılır.\n (2) EKAP üzerinden tebligat, (Değişik ibare:RG- 18/5/2024-32550)(10)EKAP Yönetmeliğinde belirtilen esas ve usuller çerçevesinde gerçekleştirilir.\n (3) Tebligatın haklı veya zorunlu nedenlerle (Değişik ibare:RG- 18/5/2024-32550)(10) EKAP üzerinden yapılamaması halinde (Ek ibare:RG- 18/5/2024-32550)(10) imza karşılığı elden tebligat yapılması yöntemine öncelik tanınarak Kanunun 65 inci maddesinin birinci fıkrasının (a) bendinde sayılan diğer yöntemlere başvurulur.\n (4) İadeli taahhütlü mektupla yapılan tebligatta, mektubun teslim edildiği tarih tebliğ tarihi sayılır.\n (5) Faks ile yapılan tebligatta, bildirim tarihi tebliğ tarihi sayılır. Bu şekilde yapılan tebligatın aynı gün idare tarafından teyit edilmesi zorunludur. Teyit işleminin gerçekleşmiş kabul edilebilmesi için tebligatın iadeli taahhütlü mektupla bildirime çıkarılmış olması yeterlidir. Tebligatın, teyit işlemi ile bildirim tarihini kapsayacak şekilde ayrıca belgelendirilmesi gerekmektedir. Aksi takdirde tebligat usulsüz yapılmış sayılır ve Tebligat Kanununun usule aykırı tebliğe ilişkin hükümleri uygulanır.\n (6) (Değişik:RG- 18/5/2024-32550)(10) İdare tarafından ortak girişimlere tebligat, pilot veya koordinatör ortağa yapılır.\n (7) Aday, istekli ve istekli olabilecekler tarafından idare ile yapılacak yazışmalarda, (Ek ibare: 16.03.2019-30716 RG/2. md.; yürürlük: 01.06.2019) EKAP dışında elektronik ortam ve faks kullanılamaz. (Mülga cümle:16.03.2019-30716 RG/2. md., yürürlük: 01.06.2019)",
       "preview": "(1) (Değişik:RG-16/3/2011-27876; Değişik: RG-24/9/2013-28775; Değişik: 07/06/2014–29023 R.G./2.md., yürürlük: 1/1/2015) (1) İdareler tarafın…",
       "kitap": null,
-      "kisim": "BİRİNCİ KISIM · Genel Hükümler",
+      "kisim": null,
       "bolum": "İKİNCİ BÖLÜM · Uygulama İlkeleri ve Yaklaşık Maliyet",
       "ayirim": null,
       "maddeBaslik": "Yerli istekli",
       "sectionPath": [
-        "BİRİNCİ KISIM · Genel Hükümler",
         "İKİNCİ BÖLÜM · Uygulama İlkeleri ve Yaklaşık Maliyet",
         "Yerli istekli"
       ]
@@ -149,12 +137,11 @@
       "text": "(1) İdare tarafından, ihale onay belgesi düzenlenmeden önce, bu Yönetmelikte belirlenen esas ve usullere göre miktar tespiti ve fiyat araştırması yapılmak suretiyle ihale konusu işin KDV hariç yaklaşık maliyeti hesaplanır ve dayanakları ile birlikte bir hesap cetvelinde gösterilir.\n (2) Ön ilan yayımlanmadan önce yapı tekniği ve ihtiyaç programına göre tahmin edilen fiziki miktar veya kapsam esas alınarak hesaplanan yaklaşık maliyet, ihale veya ön yeterlik ilanı öncesi gerekiyorsa yeniden hesaplanır.\n (3) İhale konusu işin bir kısmına teklif verilmesinin mümkün olduğu hallerde, yaklaşık maliyet her bir kısım için ayrı ayrı olmak üzere işin tamamı dikkate alınarak hesaplanır.\n (4) İhale konusu işin bünyesine girecek veya yardımcı olarak kullanılacak malzeme, araç, teçhizat, makine ve ekipman gibi unsurların idare tarafından verilmesi durumunda; yaklaşık maliyet, bu unsurların bedeli hariç tutularak hesaplanır ve bu unsurların listesi yaklaşık maliyet hesap cetvelinin ekine konulur.\n (5) İhale komisyonu tarafından yaklaşık maliyet teklif fiyatları ile birlikte açıklanır. Bu aşamadan önce yaklaşık maliyet açıklanamaz ve ilan edilemez. Pazarlık usulü ile yapılan ihalede ise yaklaşık maliyet, son yazılı teklifler ile birlikte açıklanır.\n (6) Yaklaşık maliyetin idarelerce hesaplanması esastır. Ancak, işin özelliğinden dolayı, idarelerce hazırlanmasının mümkün olmaması sebebiyle teknik şartnamenin danışmanlık hizmeti alınarak hazırlatılması durumunda, yaklaşık maliyet de bu kapsamda hesaplatılabilir.",
       "preview": "(1) İdare tarafından, ihale onay belgesi düzenlenmeden önce, bu Yönetmelikte belirlenen esas ve usullere göre miktar tespiti ve fiyat araştı…",
       "kitap": null,
-      "kisim": "BİRİNCİ KISIM · Genel Hükümler",
+      "kisim": null,
       "bolum": "İKİNCİ BÖLÜM · Uygulama İlkeleri ve Yaklaşık Maliyet",
       "ayirim": null,
       "maddeBaslik": "Yaklaşık maliyete ilişkin ilkeler",
       "sectionPath": [
-        "BİRİNCİ KISIM · Genel Hükümler",
         "İKİNCİ BÖLÜM · Uygulama İlkeleri ve Yaklaşık Maliyet",
         "Yaklaşık maliyete ilişkin ilkeler"
       ]
@@ -167,12 +154,11 @@
       "text": "(1) Yaklaşık maliyet hesabına esas miktarların tespiti için öncelikle aşağıda yer alan çalışmaların yapılması gereklidir:\n a) Arazi ve zemin etüdünün yapılması; uygulama projesi üzerinden anahtar teslimi götürü bedel teklif almak suretiyle ihale edilecek işlerde arazi ve zemin etüt çalışmalarının; ön ve/veya kesin proje üzerinden birim fiyat teklif almak suretiyle ihale edilecek işlerde ise, mümkün olan arazi ve zemin etüt çalışmalarının yapılmış olması zorunludur.\n b) Proje zorunluluğu; bina işlerinde uygulama projesi, diğer işlerin uygulama projesi yapılabilen kısımları için uygulama projesi, yapılamayan kısımları için kesin proje; doğal afetler nedeniyle uygulama projesi yapılması için yeterli süre bulunmayan işler ile ihale konusu işin özgün nitelikte ve karmaşık olması nedeniyle teknik ve malî özelliklerinin gerekli olan netlikte belirlenemediği durumlarda ise ön ve/veya kesin projenin hazırlanması ve yaklaşık maliyetin söz konusu projelere dayanılarak hesaplanması gerekir.\n c) Mahal listesi hazırlanması; ön, kesin veya uygulama projelerine dayalı olarak, işin bünyesindeki imalat kalemlerinin adını ve yapılacağı yerleri gösteren ve yaklaşık maliyetin hazırlanmasına esas teşkil eden mahal listeleri hazırlanır.\n ç) Metraj listelerinin hazırlanması; ihale konusu işe ait proje ve mahal listelerindeki ölçü ve tariflere göre işin bünyesine giren imalatların hangi kısımda ve ne miktarda yapılacağının belirlenmesi amacıyla; anahtar teslimi götürü bedel teklif almak suretiyle ihale edilecek işlerde iş kalemi ve/veya iş grubu, birim fiyat teklif almak suretiyle ihale edilecek işlerde ise iş kalemi şeklinde metraj listeleri düzenlenir.\n d) Birim fiyat ve imalat tariflerinin hazırlanması; Ön ve/veya kesin projeye dayalı olarak birim fiyat teklif almak suretiyle ihale edilecek işlerde, idareler, iş kaleminin adını, yapım şartlarını, ölçü yeri ve şeklini, birimini, birim fiyata dahil ve hariç unsurları ihtilafa meydan vermeyecek biçimde teknik olarak açıklayan birim fiyat tarifleri hazırlar.\n e) Anahtar teslimi götürü bedel işlerde; uygulama projeleri ve mahal listelerine dayalı olarak imalat iş kalemleri veya iş gruplarının teknik tarif ve özellikleri belirlenir.",
       "preview": "(1) Yaklaşık maliyet hesabına esas miktarların tespiti için öncelikle aşağıda yer alan çalışmaların yapılması gereklidir: a) Arazi ve zemin…",
       "kitap": null,
-      "kisim": "BİRİNCİ KISIM · Genel Hükümler",
+      "kisim": null,
       "bolum": "İKİNCİ BÖLÜM · Uygulama İlkeleri ve Yaklaşık Maliyet",
       "ayirim": null,
       "maddeBaslik": "Yaklaşık maliyetin hesaplanmasına esas miktarların tespiti",
       "sectionPath": [
-        "BİRİNCİ KISIM · Genel Hükümler",
         "İKİNCİ BÖLÜM · Uygulama İlkeleri ve Yaklaşık Maliyet",
         "Yaklaşık maliyetin hesaplanmasına esas miktarların tespiti"
       ]
@@ -185,12 +171,11 @@
       "text": "(1) İdarelerce, ihale konusu işin yaklaşık maliyetine ilişkin fiyat ve rayiçlerin tespitinde;\n a) İhaleyi yapan idarenin daha önce gerçekleştirdiği, ihale konusu işe benzer nitelikteki işlerin sözleşmelerinde ortaya çıkan fiyatlar,\n b) Kamu kurum ve kuruluşlarınca belirlenerek yayımlanmış birim fiyat ve rayiçler,\n c) İlgili meslek odaları, üniversiteler veya benzeri kuruluşlarca belirlenerek yayımlanmış fiyat ve rayiçler,\n ç) Yüklenici veya alt yüklenici olarak faaliyet gösteren, konusunda deneyimli kişi ve kuruluşlardan alınacak, ihale konusu işe benzer nitelikteki işlere ilişkin maliyetler,\n d) İdarenin piyasa araştırmasına dayalı rayiç ve fiyat tespitleri,\n esas alınır.\n (2) İdareler, yaklaşık maliyete ilişkin fiyat ve rayiçlerin tespitinde (a), (b), (c), (ç) ve (d) bentlerinde belirtilen fiyat ve rayiçlerin birini, birkaçını veya tamamını herhangi bir öncelik sırası olmaksızın kullanabilirler.\n (3) İşin bütünü, iş grubu, iş kalemi ve malzeme rayici bazında yapılacak piyasa araştırmasına dayalı fiyat tespitlerinde; iş, imalat ve/veya malzemenin yapımcılarından, üreticilerinden, ana bayilerinden, toptancılarından, yetkili satıcılarından ve satıcılarından fiyatlar veya proforma faturalar alınmak ve gerekli karşılaştırmalar yapılmak suretiyle uygun fiyatlar belirlenir. Tereddüt edilen fiyatların gerçek piyasa rayiçlerine uygun olup olmadığı hususu Ticaret ve/veya Sanayi Odalarından alınacak yazılı rayiçlerle netleştirilir.\n (4) Fiyat araştırması için yapılan çalışmalarda fiyat sorulacak kişi ve kuruluşlara yazılan yazıda fiyatı tespit edilecek iş grubu, iş kalemi veya malzemenin ayrıntılı özellikleri ve standardına yer verilir, fiyat istenecek kişi ve kuruluşlara aynı koşulları taşıyan yazılarla başvurulur ve fiyatlar Katma Değer Vergisi hariç istenir. İstenen özellikleri taşımayan fiyat bildirimleri ve proforma faturaları dikkate alınmaz.\n (5) (Ek:RG-30/7/2025-32971)(11) Yaklaşık maliyet tespit edilirken kamu kurum ve kuruluşlarınca belirlenerek yayımlanmış birim fiyat ve rayiçlerin esas alınması halinde, güncelliğini kaybeden birim fiyat ve/veya rayiçler, ilgili alt endeks veya endeksle güncellenir. Güncelleme, yaklaşık maliyetin belirlendiği tarihin içinde bulunduğu aydan bir önceki aya ait alt endeks veya endeksin, kamu kurum ve kuruluşlarınca belirlenerek yayımlanmış birim fiyat ve rayiçlerin yürürlüğe konulduğu tarihin içinde bulunduğu aydan bir önceki aya ait alt endeks veya endekse bölünmesi suretiyle bulunan katsayı üzerinden yapılır.",
       "preview": "(1) İdarelerce, ihale konusu işin yaklaşık maliyetine ilişkin fiyat ve rayiçlerin tespitinde; a) İhaleyi yapan idarenin daha önce gerçekleşt…",
       "kitap": null,
-      "kisim": "BİRİNCİ KISIM · Genel Hükümler",
+      "kisim": null,
       "bolum": "İKİNCİ BÖLÜM · Uygulama İlkeleri ve Yaklaşık Maliyet",
       "ayirim": null,
       "maddeBaslik": "Yaklaşık maliyet hesabına esas fiyat ve rayiçlerin tespiti",
       "sectionPath": [
-        "BİRİNCİ KISIM · Genel Hükümler",
         "İKİNCİ BÖLÜM · Uygulama İlkeleri ve Yaklaşık Maliyet",
         "Yaklaşık maliyet hesabına esas fiyat ve rayiçlerin tespiti"
       ]
@@ -203,12 +188,11 @@
       "text": "(1) (Değişik:RG-3/7/2009-27277) İş kalemi ve/veya iş grubu şeklinde tespit edilen imalat miktarlarının, Yönetmeliğin 10 uncu maddesine göre belirlenen ve yüklenici karı ve genel gider ihtiva etmeyen fiyatlarla çarpımı sonucu bulunan tutar KDV hariç olarak hesaplanır ve bulunan bu tutara % 25 oranında yüklenici kar ve genel gider karşılığı eklenmek suretiyle yaklaşık maliyet tespit edilir.\n (2) (Değişik:RG-3/7/2009-27277)Yaklaşık maliyetin hesaplanmasına ilişkin hesap cetveli ve icmal tablosu hazırlayanlarca imzalanmak suretiyle ihale onay belgesine eklenir.\n (3) (Değişik:RG-7/6/2014-29023)Yaklaşık maliyet, güncelliğini kaybetmesi halinde, ilk ilan veya davet tarihine kadar güncellenir. (Ek cümleler:RG-30/7/2025-32971)(11) Bu durumda, fiyat farkı verilmesi öngörülen işler için yapılacak güncellemede, 27/6/2013 tarihli ve 2013/5217 sayılı Bakanlar Kurulu Kararı ile yürürlüğe konulan 4734 Sayılı Kamu İhale Kanununa Göre İhale Edilen Yapım İşlerinde Uygulanacak Fiyat Farkına İlişkin Esaslara göre hesaplanan fiyat farkı katsayısı (Pn) kullanılır. Pn hesabındaki güncel endekslere esas olarak ilk ilan veya davet tarihinin içinde bulunduğu aydan bir önceki aya ait endeksler, temel endekslere esas olarak ise yaklaşık maliyetin hesaplandığı tarihin içinde bulunduğu aydan bir önceki aya ait endeksler kullanılır. Fiyat farkı verilmesi öngörülmeyen işler için yapılacak güncellemede, ilk ilan veya davet tarihinin içinde bulunduğu aydan bir önceki aya ait endeksin yaklaşık maliyetin hesaplandığı tarihin içinde bulunduğu aydan bir önceki aya ait endekse bölünmesi suretiyle bulunan katsayı kullanılır.\n\n ÜÇÜNCÜ BÖLÜM\n İhale Usulünün Tespiti, İhale ve Ön Yeterlik Dokümanı\n\n Uygulanacak ihale usulünün tespiti ve ihale kaydı (Değişik madde başlığı: RG-16/3/2011-27876)",
       "preview": "(1) (Değişik:RG-3/7/2009-27277) İş kalemi ve/veya iş grubu şeklinde tespit edilen imalat miktarlarının, Yönetmeliğin 10 uncu maddesine göre…",
       "kitap": null,
-      "kisim": "BİRİNCİ KISIM · Genel Hükümler",
+      "kisim": null,
       "bolum": "İKİNCİ BÖLÜM · Uygulama İlkeleri ve Yaklaşık Maliyet",
       "ayirim": null,
       "maddeBaslik": "Yaklaşık maliyetin hesaplanması ve güncellenmesi",
       "sectionPath": [
-        "BİRİNCİ KISIM · Genel Hükümler",
         "İKİNCİ BÖLÜM · Uygulama İlkeleri ve Yaklaşık Maliyet",
         "Yaklaşık maliyetin hesaplanması ve güncellenmesi"
       ]
@@ -221,12 +205,11 @@
       "text": "(1) İdare tarafından, Kanunun 18, 19, 20 ve 21 inci maddelerindeki hükümler doğrultusunda, uygulanacak ihale usulü belirlenir. Kanunun 20 ve 21 inci maddelerinde belirtilen hallerde belli istekliler arasında ihale usulü veya pazarlık usulü ile ihale yapılabilir.\n (2) (Ek:RG-16/3/2011-27876) İhale ve/veya ön yeterlik dokümanının hazırlanmasından önce idare tarafından EKAP üzerinden ihale kaydı yapılır. İhale kaydı yapılan her bir ihaleye ihale kayıt numarası verilir ve bu aşamadan sonra ihale ile ilgili yapılacak her işlemde bu numara kullanılır.\n (3) (Ek:RG-16/3/2011-27876) Ön ilan yapılan ihalelerde ihale kaydı ön ilan hazırlanmadan önce yapılır.",
       "preview": "(1) İdare tarafından, Kanunun 18, 19, 20 ve 21 inci maddelerindeki hükümler doğrultusunda, uygulanacak ihale usulü belirlenir. Kanunun 20 ve…",
       "kitap": null,
-      "kisim": "BİRİNCİ KISIM · Genel Hükümler",
+      "kisim": null,
       "bolum": "İKİNCİ BÖLÜM · Uygulama İlkeleri ve Yaklaşık Maliyet",
       "ayirim": null,
       "maddeBaslik": "Yaklaşık maliyetin hesaplanması ve güncellenmesi",
       "sectionPath": [
-        "BİRİNCİ KISIM · Genel Hükümler",
         "İKİNCİ BÖLÜM · Uygulama İlkeleri ve Yaklaşık Maliyet",
         "Yaklaşık maliyetin hesaplanması ve güncellenmesi"
       ]
@@ -239,12 +222,11 @@
       "text": "(1) İhale dokümanında; isteklilere talimatları da içeren idari şartname, sözleşme tasarısı, işin projesini de kapsayan teknik şartname ile gerekli diğer belge ve bilgiler bulunur.\n (2) Belli istekliler arasında ihale usulü ile yapılacak ihalelerin ön yeterlik dokümanında; adaylarda aranılan şartlara, ön yeterlik kriterlerine ve gerekli diğer belge ve bilgilere yer verilir. Ayrıca, yeterlikleri tespit edilenler arasından belli sayıda adayın ihaleye davet edilmesinin öngörüldüğü hallerde, sıralama kriterleri ve puanlama yöntemi ile beşten az olmamak üzere listeye alınacak aday sayısı da ön yeterlik dokümanında belirtilir.\n (3) İhale veya ön yeterlik dokümanında yapılan düzenlemeler birbirine aykırı olamaz.",
       "preview": "(1) İhale dokümanında; isteklilere talimatları da içeren idari şartname, sözleşme tasarısı, işin projesini de kapsayan teknik şartname ile g…",
       "kitap": null,
-      "kisim": "BİRİNCİ KISIM · Genel Hükümler",
+      "kisim": null,
       "bolum": "İKİNCİ BÖLÜM · Uygulama İlkeleri ve Yaklaşık Maliyet",
       "ayirim": null,
       "maddeBaslik": "İhale ve ön yeterlik dokümanının içeriği",
       "sectionPath": [
-        "BİRİNCİ KISIM · Genel Hükümler",
         "İKİNCİ BÖLÜM · Uygulama İlkeleri ve Yaklaşık Maliyet",
         "İhale ve ön yeterlik dokümanının içeriği"
       ]
@@ -257,12 +239,11 @@
       "text": "(1) (Değişik:RG- 18/5/2024-32550)(10) İhale ve/veya ön yeterlik dokümanı idare tarafından EKAP’ta hazırlanır. Dokümanın ihale işlem dosyasında muhafazası zorunludur.\n (2) İdare tarafından ihale ve/veya ön yeterlik dokümanının hazırlanmasında, bu Yönetmelik ekinde yer alan; tip şartnameler, (Mülga ibare:RG- 18/5/2024-32550)(10) tip sözleşme, Yapım İşleri Genel Şartnamesi ve Kurum tarafından yayımlanan diğer mevzuat esas alınır.\n (3) İdare, ihale dokümanını ilan yapılacak hallerde ilk ilan tarihine, davet yapılacak hallerde ise davet tarihine kadar hazırlar. Belli istekliler arasında ihale usulü ile yapılacak ihalelerde, ön yeterlik dokümanı ile ihale dokümanı, ön yeterlik ilan tarihine kadar hazırlanır.\n (4) İhale veya ön yeterlik dokümanının Türkçe hazırlanması zorunludur. Ancak, yabancı isteklilere açık olan ihalelerde, dokümanın tamamı veya bir kısmı Türkçe yanında başka dillerde de hazırlanabilir. (Değişik ibare: 16.03.2019-30716 RG/3. md.,yürürlük: 01.06.2019)Bu durumda başka dillerde hazırlanan doküman da EKAP’a yüklenir ancak dokümanın anlaşılmasında, yorumlanmasında ve anlaşmazlıkların çözümünde Türkçe metin esas alınır.",
       "preview": "(1) (Değişik:RG- 18/5/2024-32550)(10) İhale ve/veya ön yeterlik dokümanı idare tarafından EKAP’ta hazırlanır. Dokümanın ihale işlem dosyasın…",
       "kitap": null,
-      "kisim": "BİRİNCİ KISIM · Genel Hükümler",
+      "kisim": null,
       "bolum": "İKİNCİ BÖLÜM · Uygulama İlkeleri ve Yaklaşık Maliyet",
       "ayirim": null,
       "maddeBaslik": "İhale ve ön yeterlik dokümanının hazırlanması",
       "sectionPath": [
-        "BİRİNCİ KISIM · Genel Hükümler",
         "İKİNCİ BÖLÜM · Uygulama İlkeleri ve Yaklaşık Maliyet",
         "İhale ve ön yeterlik dokümanının hazırlanması"
       ]
@@ -275,12 +256,11 @@
       "text": "(1) İdare, uygulayacağı ihale usulüne ilişkin (Mülga ibare:RG- 18/5/2024-32550)(10) tip idari şartnameyi esas alarak idari şartnamesini hazırlar. Tip idari şartnamede boş bırakılan veya dipnota alınan hususlar, işin özelliğine göre 4734 sayılı Kanun, 5/1/2002 tarihli ve 4735 sayılı Kamu İhale Sözleşmeleri Kanunu ve diğer mevzuat hükümlerine aykırı olmayacak şekilde düzenlenir.\n (2) İdare, tip idari şartnamelerde düzenlenmeyen ve işin özelliğine göre düzenlenmesine gerek duyulan hususları, 4734 ve 4735 sayılı Kanunlar ile diğer mevzuat hükümlerine aykırı olmamak koşuluyla, maddeler halinde düzenleyerek “Diğer Hususlar” bölümüne ekleyebilir.",
       "preview": "(1) İdare, uygulayacağı ihale usulüne ilişkin (Mülga ibare:RG- 18/5/2024-32550)(10) tip idari şartnameyi esas alarak idari şartnamesini hazı…",
       "kitap": null,
-      "kisim": "BİRİNCİ KISIM · Genel Hükümler",
+      "kisim": null,
       "bolum": "İKİNCİ BÖLÜM · Uygulama İlkeleri ve Yaklaşık Maliyet",
       "ayirim": null,
       "maddeBaslik": "İdari şartname",
       "sectionPath": [
-        "BİRİNCİ KISIM · Genel Hükümler",
         "İKİNCİ BÖLÜM · Uygulama İlkeleri ve Yaklaşık Maliyet",
         "İdari şartname"
       ]
@@ -293,12 +273,11 @@
       "text": "(1) İdare, belli istekliler arasında ihale usulü ile yapacağı ihalede, ön yeterlik şartnamesini, bu Yönetmelik ekinde yer alan tip ön yeterlik şartnamesini esas alarak hazırlar. Tip ön yeterlik şartnamesinde boş bırakılan veya dipnota alınan hususlar, işin özelliği ve ihale usulüne göre 4734 ve 4735 sayılı Kanunlar ile diğer mevzuat hükümlerine aykırı olmayacak şekilde düzenlenir.\n (2) İdare, tip ön yeterlik şartnamesinde düzenlenmeyen ve işin özelliğine göre düzenlenmesine gerek duyulan hususları, 4734 ve 4735 sayılı Kanunlar ile diğer mevzuat hükümlerine aykırı olmamak koşuluyla, maddeler halinde düzenleyerek “Diğer Hususlar” bölümüne ekleyebilir.",
       "preview": "(1) İdare, belli istekliler arasında ihale usulü ile yapacağı ihalede, ön yeterlik şartnamesini, bu Yönetmelik ekinde yer alan tip ön yeterl…",
       "kitap": null,
-      "kisim": "BİRİNCİ KISIM · Genel Hükümler",
+      "kisim": null,
       "bolum": "İKİNCİ BÖLÜM · Uygulama İlkeleri ve Yaklaşık Maliyet",
       "ayirim": null,
       "maddeBaslik": "Ön yeterlik şartnamesi",
       "sectionPath": [
-        "BİRİNCİ KISIM · Genel Hükümler",
         "İKİNCİ BÖLÜM · Uygulama İlkeleri ve Yaklaşık Maliyet",
         "Ön yeterlik şartnamesi"
       ]
@@ -311,12 +290,11 @@
       "text": "(1) İşin teknik ayrıntıları ve şartları ile projesini de kapsayan teknik şartnameler hazırlanarak ihale dokümanına dahil edilir. Teknik şartnamelerde belirlenecek teknik kriterlerin, verimliliği ve fonksiyonelliği sağlamaya yönelik olması, rekabeti engelleyici hususlar içermemesi ve bütün istekliler için fırsat eşitliği sağlaması zorunludur.\n (2) Teknik şartnamede, varsa ulusal ve/veya uluslararası teknik standartlara uygunluğu sağlamaya yönelik düzenlemeler de yapılır. Bu şartnamede teknik özelliklere ve tanımlamalara yer verilir. Belli bir marka, model, patent, menşei, kaynak veya ürün belirtilemez ve belirli bir marka veya modele yönelik özellik ve tanımlamalara yer verilemez. Ancak, ulusal ve/veya uluslararası teknik standartların bulunmaması veya teknik özelliklerin belirlenmesinin mümkün olmaması hallerinde “veya dengi” ifadesine yer verilmek şartıyla marka veya model belirtilebilir.\n (3) Teknik şartnamenin idare tarafından hazırlanması esastır. Ancak, işin özelliğinin gerektirdiği hallerde ihale yetkilisi tarafından onaylanması kaydıyla, teknik şartname Kanun hükümlerine uygun olarak danışmanlık hizmet sunucularına hazırlattırılabilir.",
       "preview": "(1) İşin teknik ayrıntıları ve şartları ile projesini de kapsayan teknik şartnameler hazırlanarak ihale dokümanına dahil edilir. Teknik şart…",
       "kitap": null,
-      "kisim": "BİRİNCİ KISIM · Genel Hükümler",
+      "kisim": null,
       "bolum": "İKİNCİ BÖLÜM · Uygulama İlkeleri ve Yaklaşık Maliyet",
       "ayirim": null,
       "maddeBaslik": "Teknik şartname",
       "sectionPath": [
-        "BİRİNCİ KISIM · Genel Hükümler",
         "İKİNCİ BÖLÜM · Uygulama İlkeleri ve Yaklaşık Maliyet",
         "Teknik şartname"
       ]
@@ -329,12 +307,11 @@
       "text": "(1) İdare, sözleşme tasarısını bu Yönetmeliğin ekinde yer alan tip sözleşmeyi esas alarak hazırlar.\n (2) Tip sözleşmede boş bırakılan veya dipnota alınan hususlar, işin özelliğine ve 4734 ve 4735 sayılı Kanunlar ile diğer mevzuat hükümlerine aykırı olmayacak şekilde düzenlenir.\n (3) İdare, tip sözleşmede düzenlenmeyen ve işin özelliğine göre düzenlenmesine gerek duyulan hususları, 4734 ve 4735 sayılı Kanunlar ile diğer mevzuat hükümlerine aykırı olmamak koşuluyla, maddeler halinde düzenleyerek “Diğer Hususlar” bölümüne ekleyebilir.",
       "preview": "(1) İdare, sözleşme tasarısını bu Yönetmeliğin ekinde yer alan tip sözleşmeyi esas alarak hazırlar. (2) Tip sözleşmede boş bırakılan veya di…",
       "kitap": null,
-      "kisim": "BİRİNCİ KISIM · Genel Hükümler",
+      "kisim": null,
       "bolum": "İKİNCİ BÖLÜM · Uygulama İlkeleri ve Yaklaşık Maliyet",
       "ayirim": null,
       "maddeBaslik": "Sözleşme Tasarısı",
       "sectionPath": [
-        "BİRİNCİ KISIM · Genel Hükümler",
         "İKİNCİ BÖLÜM · Uygulama İlkeleri ve Yaklaşık Maliyet",
         "Sözleşme Tasarısı"
       ]
@@ -347,12 +324,11 @@
       "text": "(1) İhale konusu işe ilişkin yaklaşık maliyet hesap cetveli, şartnameler, sözleşme tasarısı ve diğer doküman ihale onay belgesine eklenir ve bu belge ihale yetkilisinin onayına sunulur.\n (2) Ön ilan yapılması durumunda, bu ilandan önce ihale onay belgesi ihale yetkilisinin onayına sunulur. Bu belgeye sadece yaklaşık maliyet hesap cetvelinin eklenmesi yeterlidir. İhale veya ön yeterlik ilanı yayımlanmadan önce, yeniden ihale onay belgesi hazırlanarak ihale yetkilisinin onayına sunulur.\n (3) (Mülga:RG-16/3/2011-27876)\n (4) (Mülga:RG-16/3/2011-27876)",
       "preview": "(1) İhale konusu işe ilişkin yaklaşık maliyet hesap cetveli, şartnameler, sözleşme tasarısı ve diğer doküman ihale onay belgesine eklenir ve…",
       "kitap": null,
-      "kisim": "BİRİNCİ KISIM · Genel Hükümler",
+      "kisim": null,
       "bolum": "DÖRDÜNCÜ BÖLÜM · İhale Onayının Alınması, İhale Komisyonu ve İhale İşlem Dosyası",
       "ayirim": null,
       "maddeBaslik": "İhale onayının alınması",
       "sectionPath": [
-        "BİRİNCİ KISIM · Genel Hükümler",
         "DÖRDÜNCÜ BÖLÜM · İhale Onayının Alınması, İhale Komisyonu ve İhale İşlem Dosyası",
         "İhale onayının alınması"
       ]
@@ -365,12 +341,11 @@
       "text": "(1) İhale yetkilisi, ihaleyi gerçekleştirmek üzere Kanunun 6 ncı maddesi gereğince, ihale ilanı veya ön yeterlik ilanı ya da davet tarihini izleyen en geç üç gün içinde ihale komisyonunu oluşturur.\n (2) İhale komisyonu, tek sayıda olmak üzere başkan dahil en az beş kişiden oluşur. Üyelerden en az ikisinin ihale konusu işin uzmanı ve diğer bir üyenin muhasebe veya mali işlerden sorumlu personel olması zorunludur. İhale komisyonunun görevlendirilmesi sırasında komisyonun eksiksiz toplanacağı dikkate alınarak, asıl üyeler ile bu üyelerin yerine geçecek aynı niteliklere sahip yeterli sayıda yedek üyenin isimleri ve bu üyelerin komisyonda hangi sıfatla yer alacakları belirtilir.\n (3) İhale komisyonunun idarenin personelinden oluşturulması esastır. Ancak; ihaleyi yapan idarede yeterli sayıda veya nitelikte personel bulunmaması halinde, Kanun kapsamındaki idarelerden komisyona üye alınabilir.\n (4) İhale sürecindeki değerlendirmeleri yapmak üzere oluşturulan ihale komisyonu dışında, başka adlar altında komisyonlar kurulamaz.\n (5) İhale komisyonu eksiksiz olarak toplanır ve kararlar çoğunlukla alınır. Komisyon üyeleri, kararlarda çekimser kalamaz. Komisyon başkanı ve üyeleri oy ve kararlarından sorumlu olup; karşı oy kullanan komisyon üyeleri, gerekçelerini komisyon kararına yazmak ve imzalamak zorundadır. İhale komisyonunca alınan kararlar ve düzenlenen tutanaklar, komisyon başkan ve üyelerinin adları ve soyadları, unvanları ve komisyondaki sıfatları belirtilerek imzalanır.\n (6) İhale komisyonu, teklif veya başvuru kapsamında yer alan belgelerin doğruluğunu teyit için gerekli gördüğü belge ve bilgileri isteyebilir. Komisyon tarafından bu doğrultuda yapılan talepler, ilgililerce ivedilikle yerine getirilir.",
       "preview": "(1) İhale yetkilisi, ihaleyi gerçekleştirmek üzere Kanunun 6 ncı maddesi gereğince, ihale ilanı veya ön yeterlik ilanı ya da davet tarihini…",
       "kitap": null,
-      "kisim": "BİRİNCİ KISIM · Genel Hükümler",
+      "kisim": null,
       "bolum": "DÖRDÜNCÜ BÖLÜM · İhale Onayının Alınması, İhale Komisyonu ve İhale İşlem Dosyası",
       "ayirim": null,
       "maddeBaslik": "İhale komisyonunun kurulması ve çalışma esasları",
       "sectionPath": [
-        "BİRİNCİ KISIM · Genel Hükümler",
         "DÖRDÜNCÜ BÖLÜM · İhale Onayının Alınması, İhale Komisyonu ve İhale İşlem Dosyası",
         "İhale komisyonunun kurulması ve çalışma esasları"
       ]
@@ -383,12 +358,11 @@
       "text": "(1) İdare, ihalesi yapılacak her iş için bir ihale işlem dosyası düzenler. (Değişik cümle:RG-16/3/2011-27876) Bu dosyada ihale sürecinin bulunduğu aşamaya göre (Mülga ibare:RG- 18/5/2024-32550)(10) aşağıdaki belgeler yer alır:\n a) İhale onay belgesi ve eki yaklaşık maliyet hesap cetveli.\n b) (Değişik:RG- 18/5/2024-32550)(10) Teklif türünün belirlenmesi ile ilgili e-form.\n c) Ekonomik açıdan en avantajlı teklifin fiyatla birlikte fiyat dışı unsurlar da dikkate alınarak belirleneceği ihalelerde; fiyat dışı unsurlara, bu unsurların parasal değerlerine veya nispi ağırlıklarına ve hesaplama yöntemine yönelik düzenlemenin gerekçelerinin yer aldığı açıklama belgesi.\n ç) İhale ve/veya ön yeterlik dokümanı ile düzenlenmiş ise zeyilname ve yapılmış ise açıklamalar.\n d) (Mülga bent:16.03.2019-30716 RG/4. md.,yürürlük: 01.06.2019)\n e) İlan ve/veya davet metinleri.\n f) Şikayet başvuruları ile bu başvurular üzerine idare tarafından alınan kararlar ve bunların bildirimine ilişkin belgeler.\n g) İtirazen şikayet başvurusunda bulunulmuş ise başvuruya ilişkin olarak idare ile Kurum arasındaki tüm yazışmalar ve Kurumun verdiği kararların onaylı örnekleri.\n ğ) Aday veya istekliler tarafından sunulan başvurular veya teklifler.\n h) İhale komisyonu tutanak ve kararları.\n ı) Sözleşme bedelinin Kanunun 53 üncü maddesinin (j) bendinin (1) numaralı alt bendinde belirtilen miktarı aşması durumunda; bu bedel üzerinden hesaplanacak tutarın Kurumun banka hesabına yatırıldığına ilişkin makbuzun aslı.\n i) İhale süreci ile ilgili diğer belgeler.\n (2) İhale işlem dosyasının birer örneği, ilân veya daveti izleyen üç gün içinde idare tarafından ihale komisyonu üyelerine verilir.",
       "preview": "(1) İdare, ihalesi yapılacak her iş için bir ihale işlem dosyası düzenler. (Değişik cümle:RG-16/3/2011-27876) Bu dosyada ihale sürecinin bul…",
       "kitap": null,
-      "kisim": "BİRİNCİ KISIM · Genel Hükümler",
+      "kisim": null,
       "bolum": "DÖRDÜNCÜ BÖLÜM · İhale Onayının Alınması, İhale Komisyonu ve İhale İşlem Dosyası",
       "ayirim": null,
       "maddeBaslik": "İhale işlem dosyası",
       "sectionPath": [
-        "BİRİNCİ KISIM · Genel Hükümler",
         "DÖRDÜNCÜ BÖLÜM · İhale Onayının Alınması, İhale Komisyonu ve İhale İşlem Dosyası",
         "İhale işlem dosyası"
       ]
@@ -401,12 +375,11 @@
       "text": "(1) İhale ve ön yeterlik ilanı, Kanunun 13 üncü maddesindeki hükümlere göre (Değişik ibare:RG- 18/5/2024-32550)(10) e-formlar kullanılarak yayımlanır.\n (2) İhale veya ön yeterlik ilanlarında yer alan bilgilerin, ihale veya ön yeterlik dokümanını oluşturan belgelerdeki düzenlemelere uygun olması gerekir. İhale ve/veya ön yeterlik dokümanında belirtilmeyen hususlara, ihale ve ön yeterlik ilanında yer verilemez.\n (3) İhale ve/veya ön yeterlik dokümanı hazırlanmadan ilan yayımlanamaz.\n (4) İlân sürelerinin hesaplanmasında ilânın yayımlandığı gün dikkate alınır, ihale günü veya son başvuru günü dikkate alınmaz. Kanunun 13 üncü maddesinde belirtilen ilân sürelerine uyulmak üzere, ilân yapılmasına kadar geçecek süre de gözönüne alınarak ilân yayımlanacak yerlere yeterli süre öncesinde ilân metinlerinin gönderilmesi zorunludur.",
       "preview": "(1) İhale ve ön yeterlik ilanı, Kanunun 13 üncü maddesindeki hükümlere göre (Değişik ibare:RG- 18/5/2024-32550)(10) e-formlar kullanılarak y…",
       "kitap": null,
-      "kisim": "BİRİNCİ KISIM · Genel Hükümler",
+      "kisim": null,
       "bolum": "BEŞİNCİ BÖLÜM · İlan Süreleri ve Kuralları ile İhale ve Ön Yeterlik Dokümanına İlişkin Hususlar",
       "ayirim": null,
       "maddeBaslik": "İhale ve ön yeterlik ilanı",
       "sectionPath": [
-        "BİRİNCİ KISIM · Genel Hükümler",
         "BEŞİNCİ BÖLÜM · İlan Süreleri ve Kuralları ile İhale ve Ön Yeterlik Dokümanına İlişkin Hususlar",
         "İhale ve ön yeterlik ilanı"
       ]
@@ -419,12 +392,11 @@
       "text": "(1) İdare, yaklaşık maliyeti eşik değere eşit veya bu değeri aşan ihaleler için Kamu İhale Bülteninde ön ilan yapabilir. Ön ilan yapılmış olması idareye ihale yapma yükümlülüğü getirmez.\n (2) Ön ilan yapılan hallerde, 24 üncü maddede belirtilen süre indiriminden yararlanılabilmesi için;\n a) İhale veya ön yeterlik ilanının ön ilan tarihinden itibaren en az kırk gün sonra yapılması,\n b) İhalenin açık ihale veya belli istekliler arasında ihale usullerinden biriyle gerçekleştirilmesi,\n zorunludur.\n (3) Ön ilana ilişkin düzeltme ilanı yapılamaz.\n (4) Ön ilanın, yıl içerisinde ihale edilmesi planlanmış işlere ilişkin olarak, mali yılın başlangıcını izleyen mümkün olan en kısa sürede yayımlanması gerekmektedir.\n (5) Bir ön ilana bağlı olarak sadece bir ihale gerçekleştirilebilir.\n (6) Ön ilanlar Kamu İhale Bülteninde ücretsiz yayımlanır.",
       "preview": "(1) İdare, yaklaşık maliyeti eşik değere eşit veya bu değeri aşan ihaleler için Kamu İhale Bülteninde ön ilan yapabilir. Ön ilan yapılmış ol…",
       "kitap": null,
-      "kisim": "BİRİNCİ KISIM · Genel Hükümler",
+      "kisim": null,
       "bolum": "BEŞİNCİ BÖLÜM · İlan Süreleri ve Kuralları ile İhale ve Ön Yeterlik Dokümanına İlişkin Hususlar",
       "ayirim": null,
       "maddeBaslik": "Ön ilan",
       "sectionPath": [
-        "BİRİNCİ KISIM · Genel Hükümler",
         "BEŞİNCİ BÖLÜM · İlan Süreleri ve Kuralları ile İhale ve Ön Yeterlik Dokümanına İlişkin Hususlar",
         "Ön ilan"
       ]
@@ -437,12 +409,11 @@
       "text": "(1) İlanların, elektronik araçlar ile hazırlanması ve gönderilmesi halinde, Kanunun 13 üncü maddesinin birinci fıkrasının (a) bendinin (1) numaralı alt bendindeki ilan süresi yedi gün kısaltılabilir.\n (2) İlan ile ihale ve ön yeterlik dokümanına Elektronik Kamu Alımları Platformu üzerinden doğrudan erişimin temin edilmesi halinde, Kanunun 13 üncü maddesinin birinci fıkrasının (a) bendinin (1) numaralı alt bendindeki ilan süresi ile belli istekliler arasında ihale usulü ile yapılacak ihalelerde ön yeterliği belirlenen adaylara yapılacak kırk günlük davet süresi beş gün kısaltılabilir.\n (3) Uluslararası ilan yapılan haller dahil usulüne uygun ön ilan yapılması halinde kırk günlük ilan ve davet süresi en fazla yirmidört güne kadar indirilebilir. Bu süre herhangi bir nedenle daha fazla kısaltılamaz.\n (4) Mevzuat hükümlerine uygun olmayan ön ilanlar yenilenmedikçe süre indiriminden yararlanılamaz.",
       "preview": "(1) İlanların, elektronik araçlar ile hazırlanması ve gönderilmesi halinde, Kanunun 13 üncü maddesinin birinci fıkrasının (a) bendinin (1) n…",
       "kitap": null,
-      "kisim": "BİRİNCİ KISIM · Genel Hükümler",
+      "kisim": null,
       "bolum": "BEŞİNCİ BÖLÜM · İlan Süreleri ve Kuralları ile İhale ve Ön Yeterlik Dokümanına İlişkin Hususlar",
       "ayirim": null,
       "maddeBaslik": "İhale ilan ve davet sürelerinin kısaltılması",
       "sectionPath": [
-        "BİRİNCİ KISIM · Genel Hükümler",
         "BEŞİNCİ BÖLÜM · İlan Süreleri ve Kuralları ile İhale ve Ön Yeterlik Dokümanına İlişkin Hususlar",
         "İhale ilan ve davet sürelerinin kısaltılması"
       ]
@@ -455,12 +426,11 @@
       "text": "(1) Kanunun 13, 24 ve 25 inci maddelerinde belirtilen hükümlere uygun olmayan ilanlar geçersizdir.\n (2) İlanın, Kanunun 24 ve 25 inci maddelerindeki hükümlere uygun olmadığının anlaşılması durumunda; Kanunun 13 üncü maddesine göre yirmibeş ve kırk günlük ilan süresi bulunan ihalelerde, ilanın yayımlanmasını takip eden onbeş gün, diğer ihalelerde ise on gün içinde hatalı hususlar için düzeltme ilanı yapılarak ihale veya ön yeterlik gerçekleştirilebilir. Bu durumda düzeltme ilanı, (Değişik ibare:RG- 18/5/2024-32550)(10) ilgili e-form kullanılarak ilanın hatalı yayımlandığı yayın organında ve aynı şekilde yayımlanır.\n\n İhale ve ön yeterlik dokümanının görülmesi ve indirilmesi (Değişik başlık:RG- 18/5/2024-32550)(10)",
       "preview": "(1) Kanunun 13, 24 ve 25 inci maddelerinde belirtilen hükümlere uygun olmayan ilanlar geçersizdir. (2) İlanın, Kanunun 24 ve 25 inci maddele…",
       "kitap": null,
-      "kisim": "BİRİNCİ KISIM · Genel Hükümler",
+      "kisim": null,
       "bolum": "BEŞİNCİ BÖLÜM · İlan Süreleri ve Kuralları ile İhale ve Ön Yeterlik Dokümanına İlişkin Hususlar",
       "ayirim": null,
       "maddeBaslik": "İlanın uygun olmaması",
       "sectionPath": [
-        "BİRİNCİ KISIM · Genel Hükümler",
         "BEŞİNCİ BÖLÜM · İlan Süreleri ve Kuralları ile İhale ve Ön Yeterlik Dokümanına İlişkin Hususlar",
         "İlanın uygun olmaması"
       ]
@@ -473,12 +443,11 @@
       "text": "(Değişik madde: 16.03.2019-30716 RG/5. md.,yürürlük: 01.06.2019)\n (1) (Değişik:RG- 18/5/2024-32550)(10) İhale ve/veya ön yeterlik dokümanı EKAP’ta görülebilir. Ancak ihaleye katılabilmek için EKAP hesabına giriş yapılarak dokümanın indirilmesi zorunludur. Ortak girişimlerde ortaklardan herhangi birinin dokümanı indirmiş olması yeterlidir.\n (2) İlansız ihalelerde dokümanı sadece davet edilenler görebilir ve (Mülga ibare:RG- 18/5/2024-32550)(10) indirebilir.\n (3) (Mülga:RG- 18/5/2024-32550)(10)\n (4) Dokümanın görülmesi ve (Mülga ibare:RG- 18/5/2024-32550)(10) indirilmesi için herhangi bir bedel talep edilemez.",
       "preview": "(Değişik madde: 16.03.2019-30716 RG/5. md.,yürürlük: 01.06.2019) (1) (Değişik:RG- 18/5/2024-32550)(10) İhale ve/veya ön yeterlik dokümanı EK…",
       "kitap": null,
-      "kisim": "BİRİNCİ KISIM · Genel Hükümler",
+      "kisim": null,
       "bolum": "BEŞİNCİ BÖLÜM · İlan Süreleri ve Kuralları ile İhale ve Ön Yeterlik Dokümanına İlişkin Hususlar",
       "ayirim": null,
       "maddeBaslik": "İlanın uygun olmaması",
       "sectionPath": [
-        "BİRİNCİ KISIM · Genel Hükümler",
         "BEŞİNCİ BÖLÜM · İlan Süreleri ve Kuralları ile İhale ve Ön Yeterlik Dokümanına İlişkin Hususlar",
         "İlanın uygun olmaması"
       ]
@@ -491,12 +460,11 @@
       "text": "(1) İlan yapıldıktan sonra ihale ve ön yeterlik dokümanında değişiklik yapılmaması esastır. Değişiklik yapılması zorunlu olursa, bunu gerektiren sebep ve zorunluluklar bir tutanakla tespit edilerek önceki ilanlar geçersiz sayılır ve ihale yeniden aynı şekilde ilan olunur. Ancak; teklif ve başvuruların hazırlanmasını etkileyebilecek maddi veya teknik hatalar veya eksikliklerin idarece tespit edilmesi ya da idareye yazılı olarak bildirilmesi halinde, zeyilname düzenlenmek suretiyle dokümanda değişiklik yapılabilir. Yapılan bu değişikliklere ilişkin zeyilname, (Ek ibare: 16.03.2019-30716 RG/6. md., yürürlük: 01.06.2019) ihale dokümanının bir parçası olarak EKAP’a yüklenir ve ihale veya son başvuru tarihinden en az on gün öncesinde bilgi sahibi olmalarını temin edecek şekilde, (Değişik ibare:RG- 18/5/2024-32550)(10) EKAP hesabına giriş yaparak doküman indirenlerin tamamına (Değişik ibare: 07/06/2014-29023 R.G./5. md., yürürlük: 1/1/2015) (Mülga ibare:RG- 18/5/2024-32550)(10) tebligat esasları çerçevesinde gönderilir. Ancak, belirlenen maddi veya teknik hataların veya eksikliklerin ilanda da bulunması halinde ise ihale sürecine devam edilebilmesi Kanunun 26 ncı maddesine göre düzeltme ilanı yapılması ile mümkündür.\n (2) Yapılan değişiklik nedeniyle tekliflerin veya başvuruların hazırlanabilmesi için ek süreye ihtiyaç duyulması halinde, ihale veya son başvuru tarihi bir defaya mahsus olmak üzere en fazla yirmi gün zeyilname ile ertelenebilir. Zeyilname düzenlenmesi halinde; tekliflerini vermiş veya başvurularını yapmış olan istekli veya adaylara teklif veya başvurularını geri çekerek, yeniden teklif verme veya başvuru yapma imkanı tanınır.\n (3) Ön yeterlik başvurusu veya teklif verme aşamasında, ihale veya ön yeterlik dokümanında açıklanmasına ihtiyaç duyulan hususlarla ilgili olarak ihale ve son başvuru tarihinden yirmi gün öncesine kadar yazılı olarak açıklama talep edilebilir. Bu tarihten sonra yapılacak açıklama talepleri değerlendirmeye alınmaz.\n (4) Açıklama talebinin idarece uygun görülmesi halinde idarece yapılacak açıklama, (Ek ibare: 16.03.2019-30716 R.G/ 6. md., yürürlük: 01.06.2019) ihale dokümanının bir parçası olarak EKAP’a yüklenir ve bu tarihe kadar (Değişik ibare:RG- 18/5/2024-32550)(10) EKAP hesabına giriş yaparak doküman indirenlerin tamamına (Değişik ibare: 07/06/2014-29023 R.G./5. md.,, yürürlük: 1/1/2015) (Mülga ibare:RG- 18/5/2024-32550)(10) tebligat esasları çerçevesinde gönderilir. İdarenin bu yazılı açıklaması, ihale veya son başvuru tarihinden en az on gün önce tüm istekli olabilecekler, adaylar veya isteklilerin bilgi sahibi olmalarını sağlayacak şekilde yapılır. Açıklamada, sorunun tarifi ve idarenin ayrıntılı cevapları yer alır; ancak açıklama talebinde bulunanın kimliği belirtilmez. (Mülga cümle: 16.03.2019-30716 R.G/ 6. md., yürürlük: 01.06.2019)\n (5) (Değişik:RG-3/7/2009-27277) Kanunun 55 inci maddesi uyarınca şikayet üzerine yapılan incelemede; başvuruların ya da tekliflerin hazırlanmasını veya işin gerçekleştirilmesini etkileyebilecek maddi veya teknik hataların veya eksikliklerin bulunması ve idarece ihale veya ön yeterlik dokümanında düzeltme yapılmasına karar verilmesi halinde, ihale veya son başvuru tarihine on günden az süre kalmış olsa dahi gerekli düzeltme yapılarak yukarıda belirtilen usule göre son başvuru veya ihale tarihi bir defa daha ertelenebilir. Belirlenen maddi veya teknik hataların veya eksikliklerin ilanda da bulunması halinde ise ihale sürecine devam edilebilmesi, ancak Kanunun 26 ncı maddesine göre düzeltme ilanı yapılması ile mümkündür.",
       "preview": "(1) İlan yapıldıktan sonra ihale ve ön yeterlik dokümanında değişiklik yapılmaması esastır. Değişiklik yapılması zorunlu olursa, bunu gerekt…",
       "kitap": null,
-      "kisim": "BİRİNCİ KISIM · Genel Hükümler",
+      "kisim": null,
       "bolum": "BEŞİNCİ BÖLÜM · İlan Süreleri ve Kuralları ile İhale ve Ön Yeterlik Dokümanına İlişkin Hususlar",
       "ayirim": null,
       "maddeBaslik": "İhale ve ön yeterlik dokümanında değişiklik veya açıklama yapılması",
       "sectionPath": [
-        "BİRİNCİ KISIM · Genel Hükümler",
         "BEŞİNCİ BÖLÜM · İlan Süreleri ve Kuralları ile İhale ve Ön Yeterlik Dokümanına İlişkin Hususlar",
         "İhale ve ön yeterlik dokümanında değişiklik veya açıklama yapılması"
       ]
@@ -509,12 +477,11 @@
       "text": "(1) İdarenin gerekli gördüğü ya da dokümanda yer alan belgelerde ihalenin yapılmasına engel olan ve düzeltilmesi mümkün bulunmayan hususların bulunduğunun tespit edildiği hallerde ihale veya son başvuru saatinden önce ihale iptal edilebilir.\n (2) İhale veya son başvuru saatinden önce ihalenin iptal edilmesi durumunda, (Değişik ibare:RG- 18/5/2024-32550)(10) ilgili e-form kullanılarak, ilanın yayımlandığı yayın organında ihalenin iptal edildiği hususu ile gerekçesi hemen ilan edilerek duyurulur. Bu aşamaya kadar başvuru yapmış veya teklif vermiş olanlara ihalenin iptal edildiği ayrıca tebliğ edilir.\n (3) İhalenin iptal edilmesi halinde, yapılmış olan bütün başvurular veya verilmiş olan bütün teklifler reddedilmiş sayılır ve açılmaksızın iade edilir. İhalenin iptal edilmesi nedeniyle idareden herhangi bir hak talebinde bulunulamaz.\n (4) İhalenin iptal edilmesi durumunda, iptal nedenleri gözden geçirilerek yeniden ihaleye çıkılabilir.",
       "preview": "(1) İdarenin gerekli gördüğü ya da dokümanda yer alan belgelerde ihalenin yapılmasına engel olan ve düzeltilmesi mümkün bulunmayan hususları…",
       "kitap": null,
-      "kisim": "BİRİNCİ KISIM · Genel Hükümler",
+      "kisim": null,
       "bolum": "BEŞİNCİ BÖLÜM · İlan Süreleri ve Kuralları ile İhale ve Ön Yeterlik Dokümanına İlişkin Hususlar",
       "ayirim": null,
       "maddeBaslik": "İhale veya son başvuru saatinden önce ihalenin iptal edilmesi",
       "sectionPath": [
-        "BİRİNCİ KISIM · Genel Hükümler",
         "BEŞİNCİ BÖLÜM · İlan Süreleri ve Kuralları ile İhale ve Ön Yeterlik Dokümanına İlişkin Hususlar",
         "İhale veya son başvuru saatinden önce ihalenin iptal edilmesi"
       ]
@@ -866,8 +833,26 @@
       "maddeKind": "madde",
       "maddeNo": "48",
       "heading": "Madde 48",
-      "text": "(1) Aday ve isteklilerin ihale konusu iş veya benzer işlerle ilgili iş deneyimlerinin değerlendirilmesinde; tek sözleşmeye dayalı olarak alınmış iş deneyim belgeleri dikkate alınır. Birden fazla iş deneyimi toplanarak değerlendirilemez.\n (2) (Değişik: 19.06.2018-30453/m RG/ 5. Md.) İhale konusu iş veya benzer iş kapsamında bulunmayan işlerin tutarları iş deneyiminde değerlendirmeye alınmaz. Ancak, iş deneyim belgesine konu işin esaslı unsurunun ihale konusu iş veya benzer işe uygun olması halinde iş deneyim belgesi tutarının tamamı değerlendirilir.\n (3)(Değişik:RG-16/7/2011-27996)İş ortaklığı tarafından gerçekleştirilen işlerden edinilen iş deneyim belgelerindeki tutarlar, aday veya isteklinin belge sahibi iş ortaklığındaki hisse oranları esas alınarak değerlendirilir. Ancak ihaleye katılan iş ortaklığının ortakları tarafından ortaklık oranları ve yapısı aynı olmak kaydıyla daha önce kurulmuş olan iş ortaklığının gerçekleştirdiği bir işten elde ettiği iş deneyim belgesi sunulması halinde, iş ortaklığının iş deneyiminin değerlendirilmesinde ortakların hisse oranlarına bakılmaksızın sunduğu belge üzerindeki tutar esas alınır.\n (4) Konsorsiyum tarafından gerçekleştirilen işlerde, ortakların iş deneyim tutarı, gerçekleştirdikleri iş kısmına ilişkin tutar esas alınarak dikkate alınır.\n (5) İş deneyim belgelerinin değerlendirilmesinde;\n a) İş bitirme belgelerinde, belgeye konu işin geçici kabul tarihinin ilk ilan veya davet tarihinden geriye doğru son onbeş yıl içinde olması,\n b) İş durum belgelerinde, belgeye konu işin gerçekleşme oranının toplam sözleşme bedelinin en az % 80’ine ulaştığı tarihin, ihalenin ilk ilan veya davet tarihinden geriye doğru son onbeş yıl içinde olması ve ilk sözleşme bedelinin tamamlanması,\n c) İş denetleme ve iş yönetme belgelerinde,\n 1) Belgeye konu işin geçici kabul tarihinin ilk ilan veya davet tarihinden geriye doğru son on beş yılda içinde olması kaydıyla, ilk sözleşme bedelinin en az % 80’i oranında fiilen denetleme veya yönetme faaliyetinde bulunulmuş olması,\n 2) (Değişik:RG-24/9/2013-28775;Değişik:RG-7/6/2014-29023) Gerçekleşme oranının toplam sözleşme bedelinin en az % 80’ine ulaştığı tarihin, ihalenin ilk ilan veya davet tarihinden geriye doğru son onbeş yıl içinde olduğu ve ilk sözleşme bedelinin tamamlandığı işlerde; ilk sözleşme bedelinin en az % 80’i oranında fiilen denetleme veya yönetme faaliyetinde bulunulmuş olması,\n şartı aranır ve geçici kabul tarihi veya gerçekleşme oranının toplam sözleşme bedelinin en az % 80’ine ulaştığı tarihin, ihale ilk ilan veya davet tarihi ile ihale veya son başvuru tarihi arasında olduğu işler de bu kapsamda değerlendirilir.\n (6) (Değişik:RG-16/7/2011-27996; Değişik:RG-24/9/2013-28775; Değişik:RG-7/6/2014-29023; Değişik:RG-7/6/2014-29023, yürürlük:19/8/2014) İş deneyim belge tutarlarının değerlendirilmesinde;\n a) İş bitirme ve iş durum belge tutarları tam olarak,\n b) Denetim veya yönetim faaliyetleri nedeniyle alınan belge tutarları beşte bir oranında,\n dikkate alınır.\n (7) (Ek: RG-16/7/2011-27996)[2] (Mülga fıkra: RG-7/6/2014-29023, yürürlük: 19/8/2014)\n (8) Mühendis veya mimarların, aldıkları lisans eğitimine uygun yapım işleri ihalelerinde, iş deneyimi olarak mezuniyet belgelerini sunmaları durumunda;\n a) İş deneyimi bulunmayan mühendis veya mimarların; toplam süresi onbeş yılı geçmemek kaydıyla mezuniyetlerinden sonra geçen her yıl, Kanunun 62 nci maddesinin birinci fıkrasının (h) bendinde belirtilen tutar kadar,\n b) İş deneyimi bulunan mühendis veya mimarların; onbeş yıllık sınırlamaya tabi tutulmaksızın, mezuniyetlerinden sonra geçen her yıl Kanunun 62 nci maddesinin birinci fıkrasının (h) bendinde belirtilen tutar kadar,\n benzer iş deneyimi olarak dikkate alınır.\n (9) (Ek fıkra:RG-7/6/2014-29023,yürürlük:19/8/2014) Yapımla ilgili hizmet işlerinden elde edilen belgeler yapım işlerinde kullanılamaz.\n (10) (Ek fıkra: 25/01/2017-29959 R.G./8. Md.; Mülga fıkra: 13/12/2017-30269 R.G./3.md.)\n\n Kanun kapsamındaki idarelere taahhüt edilenler dışında yurt dışında gerçekleştirilen işler için düzenlenen belgeler\n MADDE 48/A – (Ek madde: 13.06.2019-30800 RG/ 7. Md., yürürlük: 23.06.2019)\n (1) Kanun kapsamındaki idarelere taahhüt edilenler dışında yurt dışında gerçekleştirilen işler için düzenlenen belgeler, sadece iş bitirme belgesi niteliğinde olması kaydıyla, belge sahibi tarafından veya 13/1/2011 tarihli ve 6102 sayılı Türk Ticaret Kanununun 195 inci maddesinin ikinci fıkrası gereğince pay çoğunluğuna dayanarak kurulan şirketler topluluğu ilişkisi içinde kullanılabilir. Belgenin şirketler topluluğu ilişkisi içinde kullanılması durumunda, [bu hukuki ilişkinin ilk ilan veya davet tarihinden sonra düzenlenen ve düzenlendiği tarihten geriye doğru son bir yıldır kesintisiz olarak bu şartın tescil edildiğini ve korunduğunu gösteren belgeyle tevsik edilmesi][3]; hakların donması veya hakimiyetin hukuka aykırı biçimde kullanılması durumlarının ortaya çıkmamış olması; bildirim, tescil ve ilan yükümlülüklerinin usulüne uygun biçimde yapılmış olması gerekir.\n (2) Belgenin bu madde kapsamındaki şirketler topluluğu ilişkisi içinde kullanılması, ancak hakim şirketin bağlı şirketin belgesini kullanması halinde mümkündür. Bağlı şirketler herhangi bir hukuki ilişkiye dayanarak hakim şirketin belgesini kullanamazlar.\n (3) Bu madde kapsamında düzenlenen iş bitirme belgesini kullanarak yeterlik kriterini sağlayan yüklenicinin, pay çoğunluğuna dayanan şirketler topluluğu ilişkisini teminat süresinin sonuna kadar koruması zorunludur.\n (4) (Değişik:RG- 18/5/2024-32550)(10) Birinci fıkrada düzenlenen hukuki ilişkiyi ve bu ilişkinin süresini tevsik eden belge, ilgili e-forma uygun olarak aday veya istekli tarafından başvuru veya teklif kapsamında sunulur.",
+      "text": "(1) Aday ve isteklilerin ihale konusu iş veya benzer işlerle ilgili iş deneyimlerinin değerlendirilmesinde; tek sözleşmeye dayalı olarak alınmış iş deneyim belgeleri dikkate alınır. Birden fazla iş deneyimi toplanarak değerlendirilemez.\n (2) (Değişik: 19.06.2018-30453/m RG/ 5. Md.) İhale konusu iş veya benzer iş kapsamında bulunmayan işlerin tutarları iş deneyiminde değerlendirmeye alınmaz. Ancak, iş deneyim belgesine konu işin esaslı unsurunun ihale konusu iş veya benzer işe uygun olması halinde iş deneyim belgesi tutarının tamamı değerlendirilir.\n (3)(Değişik:RG-16/7/2011-27996)İş ortaklığı tarafından gerçekleştirilen işlerden edinilen iş deneyim belgelerindeki tutarlar, aday veya isteklinin belge sahibi iş ortaklığındaki hisse oranları esas alınarak değerlendirilir. Ancak ihaleye katılan iş ortaklığının ortakları tarafından ortaklık oranları ve yapısı aynı olmak kaydıyla daha önce kurulmuş olan iş ortaklığının gerçekleştirdiği bir işten elde ettiği iş deneyim belgesi sunulması halinde, iş ortaklığının iş deneyiminin değerlendirilmesinde ortakların hisse oranlarına bakılmaksızın sunduğu belge üzerindeki tutar esas alınır.\n (4) Konsorsiyum tarafından gerçekleştirilen işlerde, ortakların iş deneyim tutarı, gerçekleştirdikleri iş kısmına ilişkin tutar esas alınarak dikkate alınır.\n (5) İş deneyim belgelerinin değerlendirilmesinde;\n a) İş bitirme belgelerinde, belgeye konu işin geçici kabul tarihinin ilk ilan veya davet tarihinden geriye doğru son onbeş yıl içinde olması,\n b) İş durum belgelerinde, belgeye konu işin gerçekleşme oranının toplam sözleşme bedelinin en az % 80’ine ulaştığı tarihin, ihalenin ilk ilan veya davet tarihinden geriye doğru son onbeş yıl içinde olması ve ilk sözleşme bedelinin tamamlanması,\n c) İş denetleme ve iş yönetme belgelerinde,\n 1) Belgeye konu işin geçici kabul tarihinin ilk ilan veya davet tarihinden geriye doğru son on beş yılda içinde olması kaydıyla, ilk sözleşme bedelinin en az % 80’i oranında fiilen denetleme veya yönetme faaliyetinde bulunulmuş olması,\n 2) (Değişik:RG-24/9/2013-28775;Değişik:RG-7/6/2014-29023) Gerçekleşme oranının toplam sözleşme bedelinin en az % 80’ine ulaştığı tarihin, ihalenin ilk ilan veya davet tarihinden geriye doğru son onbeş yıl içinde olduğu ve ilk sözleşme bedelinin tamamlandığı işlerde; ilk sözleşme bedelinin en az % 80’i oranında fiilen denetleme veya yönetme faaliyetinde bulunulmuş olması,\n şartı aranır ve geçici kabul tarihi veya gerçekleşme oranının toplam sözleşme bedelinin en az % 80’ine ulaştığı tarihin, ihale ilk ilan veya davet tarihi ile ihale veya son başvuru tarihi arasında olduğu işler de bu kapsamda değerlendirilir.\n (6) (Değişik:RG-16/7/2011-27996; Değişik:RG-24/9/2013-28775; Değişik:RG-7/6/2014-29023; Değişik:RG-7/6/2014-29023, yürürlük:19/8/2014) İş deneyim belge tutarlarının değerlendirilmesinde;\n a) İş bitirme ve iş durum belge tutarları tam olarak,\n b) Denetim veya yönetim faaliyetleri nedeniyle alınan belge tutarları beşte bir oranında,\n dikkate alınır.\n (7) (Ek: RG-16/7/2011-27996)[2] (Mülga fıkra: RG-7/6/2014-29023, yürürlük: 19/8/2014)\n (8) Mühendis veya mimarların, aldıkları lisans eğitimine uygun yapım işleri ihalelerinde, iş deneyimi olarak mezuniyet belgelerini sunmaları durumunda;\n a) İş deneyimi bulunmayan mühendis veya mimarların; toplam süresi onbeş yılı geçmemek kaydıyla mezuniyetlerinden sonra geçen her yıl, Kanunun 62 nci maddesinin birinci fıkrasının (h) bendinde belirtilen tutar kadar,\n b) İş deneyimi bulunan mühendis veya mimarların; onbeş yıllık sınırlamaya tabi tutulmaksızın, mezuniyetlerinden sonra geçen her yıl Kanunun 62 nci maddesinin birinci fıkrasının (h) bendinde belirtilen tutar kadar,\n benzer iş deneyimi olarak dikkate alınır.\n (9) (Ek fıkra:RG-7/6/2014-29023,yürürlük:19/8/2014) Yapımla ilgili hizmet işlerinden elde edilen belgeler yapım işlerinde kullanılamaz.\n (10) (Ek fıkra: 25/01/2017-29959 R.G./8. Md.; Mülga fıkra: 13/12/2017-30269 R.G./3.md.)\n\n Kanun kapsamındaki idarelere taahhüt edilenler dışında yurt dışında gerçekleştirilen işler için düzenlenen belgeler",
       "preview": "(1) Aday ve isteklilerin ihale konusu iş veya benzer işlerle ilgili iş deneyimlerinin değerlendirilmesinde; tek sözleşmeye dayalı olarak alı…",
+      "kitap": null,
+      "kisim": "İKİNCİ KISIM · İhaleye Katılımda Yeterlik",
+      "bolum": "ALTINCI BÖLÜM · İş Deneyim Belgelerinin Değerlendirilmesi",
+      "ayirim": null,
+      "maddeBaslik": "Değerlendirmeye ilişkin esaslar",
+      "sectionPath": [
+        "İKİNCİ KISIM · İhaleye Katılımda Yeterlik",
+        "ALTINCI BÖLÜM · İş Deneyim Belgelerinin Değerlendirilmesi",
+        "Değerlendirmeye ilişkin esaslar"
+      ]
+    },
+    {
+      "id": "yonetmelik:12916:m:48/A",
+      "maddeKind": "madde",
+      "maddeNo": "48/A",
+      "heading": "Madde 48/A",
+      "text": "(Ek madde: 13.06.2019-30800 RG/ 7. Md., yürürlük: 23.06.2019)\n (1) Kanun kapsamındaki idarelere taahhüt edilenler dışında yurt dışında gerçekleştirilen işler için düzenlenen belgeler, sadece iş bitirme belgesi niteliğinde olması kaydıyla, belge sahibi tarafından veya 13/1/2011 tarihli ve 6102 sayılı Türk Ticaret Kanununun 195 inci maddesinin ikinci fıkrası gereğince pay çoğunluğuna dayanarak kurulan şirketler topluluğu ilişkisi içinde kullanılabilir. Belgenin şirketler topluluğu ilişkisi içinde kullanılması durumunda, [bu hukuki ilişkinin ilk ilan veya davet tarihinden sonra düzenlenen ve düzenlendiği tarihten geriye doğru son bir yıldır kesintisiz olarak bu şartın tescil edildiğini ve korunduğunu gösteren belgeyle tevsik edilmesi][3]; hakların donması veya hakimiyetin hukuka aykırı biçimde kullanılması durumlarının ortaya çıkmamış olması; bildirim, tescil ve ilan yükümlülüklerinin usulüne uygun biçimde yapılmış olması gerekir.\n (2) Belgenin bu madde kapsamındaki şirketler topluluğu ilişkisi içinde kullanılması, ancak hakim şirketin bağlı şirketin belgesini kullanması halinde mümkündür. Bağlı şirketler herhangi bir hukuki ilişkiye dayanarak hakim şirketin belgesini kullanamazlar.\n (3) Bu madde kapsamında düzenlenen iş bitirme belgesini kullanarak yeterlik kriterini sağlayan yüklenicinin, pay çoğunluğuna dayanan şirketler topluluğu ilişkisini teminat süresinin sonuna kadar koruması zorunludur.\n (4) (Değişik:RG- 18/5/2024-32550)(10) Birinci fıkrada düzenlenen hukuki ilişkiyi ve bu ilişkinin süresini tevsik eden belge, ilgili e-forma uygun olarak aday veya istekli tarafından başvuru veya teklif kapsamında sunulur.",
+      "preview": "(Ek madde: 13.06.2019-30800 RG/ 7. Md., yürürlük: 23.06.2019) (1) Kanun kapsamındaki idarelere taahhüt edilenler dışında yurt dışında gerçek…",
       "kitap": null,
       "kisim": "İKİNCİ KISIM · İhaleye Katılımda Yeterlik",
       "bolum": "ALTINCI BÖLÜM · İş Deneyim Belgelerinin Değerlendirilmesi",
@@ -1082,8 +1067,44 @@
       "maddeKind": "madde",
       "maddeNo": "60",
       "heading": "Madde 60",
-      "text": "(Değişik:RG-30/11/2021-31675)[7]\n (1) İhale komisyonu verilen teklifleri değerlendirdikten sonra Kurum tarafından belirlenen yönteme göre sınır değeri hesaplar.\n (2) Aşırı düşük teklif tespit ve değerlendirme işlemlerine ilişkin olarak, ihale ilanı ve dokümanında belirtilmek kaydıyla üçüncü, dördüncü ve beşinci fıkralardaki koşullar çerçevesinde aşağıdaki seçeneklerden bir tanesi kullanılır.\n a) Sınır değerin altında olan teklifler ihale komisyonunca aşırı düşük teklif olarak tespit edilir ve bu teklif sahiplerinden Kurum tarafından belirlenen kriterlere göre teklifte önemli olduğu tespit edilen bileşenler ile ilgili ayrıntılar yazılı olarak istenir. İhale komisyonu;\n 1) Yapım yönteminin ekonomik olması, [\n 2) Seçilen teknik çözümler ve teklif sahibinin işin yerine getirilmesinde kullanacağı avantajlı koşullar,\n 3) Teklif edilen işin özgünlüğü,\n gibi hususlarda yapılan yazılı açıklamaları dikkate alarak aşırı düşük teklifleri değerlendirir. Bu değerlendirme sonucunda, açıklamaları yeterli görülmeyen veya yazılı açıklamada bulunmayan isteklilerin teklifleri reddedilir.\n b) Aşırı düşük teklif sınır değerinin altında teklif sunan isteklilerin teklifi açıklama istenmeksizin reddedilir.\n (3) Yaklaşık maliyeti Kanunun 8 inci maddesinde öngörülen eşik değerin (Değişik ibare:RG-18/5/2024-32550)(9) yarısına eşit veya bu değerin üzerinde olan ihalelerde, ikinci fıkranın (a) bendinin kullanılması zorunludur.\n (4) Yaklaşık maliyeti Kanunun 8 inci maddesinde öngörülen eşik değerin (Değişik ibare:RG-18/5/2024-32550)(9) yarısına kadar olan ihalelerde ikinci fıkranın (a) veya (b) bendindeki seçeneklerden birisinin kullanılması zorunludur.\n (5) Kurum tarafından yayımlanan aşırı düşük teklif açıklama istenilmeksizin reddedilecek tekliflere ilişkin alımlar listesinde yer alan işlerin ihalelerinde ikinci fıkranın (b) bendinin kullanılması zorunludur.\n\n Elektronik ihale (Ek madde: 19.06.2018-30453/m RG/7. Md., yürürlük: 2.1.2019)\n MADDE 60/A – (Mülga:RG- 18/5/2024-32550)(10)\n Elektronik eksiltme (Ek madde: 19.06.2018-30453/m RG/7. Md., yürürlük: 01.11.2018)\n MADDE 60/B – (1) İlan ve dokümanda belirtilmek kaydıyla, ön projeyle çıkılan yapım işleri hariç olmak üzere; açık ihale veya belli istekliler arasında ihale usulleri ile yapılan ve Kanunun 38 inci maddesinde öngörülen açıklama istenilmeksizin sonuçlandırılan ihalelerde, fiyat veya fiyat ile birlikte fiyat dışı unsurlar üzerinden, sayılan usuller ile yapılan diğer ihalelerde ise yalnızca fiyat dışı unsurlar üzerinden elektronik eksiltme yapılabilir.\n (2) (Değişik cümle:RG- 18/5/2024-32550)(10) Elektronik eksiltmeye davet edilecek istekliler ilgili e-form kullanılarak aynı anda eksiltmeye davet edilirler. (Değişik cümle: 16.03.2019-30716 R.G/13. Md.,yürürlük:26.03.2019)Davet edilmeyecek isteklilere ise davet edilmeme gerekçeleri elektronik eksiltme başlamadan önce bildirilir. Eksiltme gerekli durumlarda ertelenebilir.\n (3) Davette, eksiltmeye konu fiyat ve/veya fiyat dışı unsurlar ile eksiltmenin zamanı, süresi, tur sayısı ve asgari fark aralığı gibi gerekli hususlar belirtilir.\n (4) (Değişik cümle:RG- 18/5/2024-32550)(10) Yeni teklifler EKAP üzerinden e-teklif olarak verilir. E-teklifte, yeni fiyatlar ve/veya fiyat dışı unsurlara ilişkin yeni değerler, en az asgari fark aralığı kadar eksiltilmek suretiyle teklif edilebilir.(Ek cümle: 16.03.2019-30716 R.G/13. Md.,yürürlük:26.03.2019)Birden fazla kalemden oluşan ihalelerde/kısımlarda eksiltme kalem fiyatları üzerinden yapılır ve eksiltilmiş kalem fiyatlarının toplamı, eksiltilmiş teklif olarak verilir.\n (5) (Değişik:RG- 18/5/2024-32550)(10) Fiyat veya fiyat ile birlikte fiyat dışı unsurlar üzerinden elektronik eksiltme yapılması öngörülen ihalelerde; tekliflerin açıldığı aşamaya ilişkin tutanak, eksiltmeden önce, isteklilerin yalnızca kendi durumunu görebileceği şekilde hazırlanarak bildirilir. Teklif verenler, teklif fiyatları ve eksiltmeye konu fiyat dışı unsurların değerleri ise yaklaşık maliyet ile birlikte, elektronik eksiltme tamamlandıktan sonra açıklanır.\n (6) Davetin gönderildiği tarihten itibaren iki iş günü geçmeden eksiltmeye başlanamaz.\n (7) Elektronik eksiltmenin her aşamasında, isteklilere o andaki sıralamaları EKAP üzerinde bildirilir. (Mülga cümleler: 30.09.2020-31260 R.G/5. Md., yürürlük: 20.10.2020)\n (8) Ekonomik açıdan en avantajlı teklifin fiyat dışı unsurlar da dikkate alınarak belirlendiği ihalelerde, yapılan ilk değerlendirme sonucu ile eksiltmede verilen yeni tekliflere göre sıralamayı düzenleyen matematiksel formül de davette bildirilir. Bu formül, ihale ilanında veya ihale dokümanında belirtildiği şekilde ekonomik açıdan en avantajlı teklifin tespitinde kullanılan bütün unsurların varsa nispi ağırlıklarını da içerir.\n (9) Eksiltmede tur sayısı beşi geçemez ve turlardan birinde yeni teklif vermeyen istekli, sonraki turlarda da teklif veremez.\n (10) Eksiltmeye katılarak yeni teklif veren isteklilerin son teklifleri geçerli kabul edilerek önceki teklifleri değerlendirmeye alınmaz. (Ek ibare:16.03.2019-30716 R.G/13. Md., yürürlük: 26.03.2019)Eksiltmeye yeni bir isteklinin katılmasına yol açacak şekilde (Mülga ibare:RG- 18/5/2024-32550)(10) değişiklik olması sebebiyle tekrar eksiltme yapılması halinde, yeni eksiltme daha önceki eksiltmede verilmiş olan son teklifler üzerinden yapılır.",
+      "text": "(Değişik:RG-30/11/2021-31675)[7]\n (1) İhale komisyonu verilen teklifleri değerlendirdikten sonra Kurum tarafından belirlenen yönteme göre sınır değeri hesaplar.\n (2) Aşırı düşük teklif tespit ve değerlendirme işlemlerine ilişkin olarak, ihale ilanı ve dokümanında belirtilmek kaydıyla üçüncü, dördüncü ve beşinci fıkralardaki koşullar çerçevesinde aşağıdaki seçeneklerden bir tanesi kullanılır.\n a) Sınır değerin altında olan teklifler ihale komisyonunca aşırı düşük teklif olarak tespit edilir ve bu teklif sahiplerinden Kurum tarafından belirlenen kriterlere göre teklifte önemli olduğu tespit edilen bileşenler ile ilgili ayrıntılar yazılı olarak istenir. İhale komisyonu;\n 1) Yapım yönteminin ekonomik olması, [\n 2) Seçilen teknik çözümler ve teklif sahibinin işin yerine getirilmesinde kullanacağı avantajlı koşullar,\n 3) Teklif edilen işin özgünlüğü,\n gibi hususlarda yapılan yazılı açıklamaları dikkate alarak aşırı düşük teklifleri değerlendirir. Bu değerlendirme sonucunda, açıklamaları yeterli görülmeyen veya yazılı açıklamada bulunmayan isteklilerin teklifleri reddedilir.\n b) Aşırı düşük teklif sınır değerinin altında teklif sunan isteklilerin teklifi açıklama istenmeksizin reddedilir.\n (3) Yaklaşık maliyeti Kanunun 8 inci maddesinde öngörülen eşik değerin (Değişik ibare:RG-18/5/2024-32550)(9) yarısına eşit veya bu değerin üzerinde olan ihalelerde, ikinci fıkranın (a) bendinin kullanılması zorunludur.\n (4) Yaklaşık maliyeti Kanunun 8 inci maddesinde öngörülen eşik değerin (Değişik ibare:RG-18/5/2024-32550)(9) yarısına kadar olan ihalelerde ikinci fıkranın (a) veya (b) bendindeki seçeneklerden birisinin kullanılması zorunludur.\n (5) Kurum tarafından yayımlanan aşırı düşük teklif açıklama istenilmeksizin reddedilecek tekliflere ilişkin alımlar listesinde yer alan işlerin ihalelerinde ikinci fıkranın (b) bendinin kullanılması zorunludur.\n\n Elektronik ihale (Ek madde: 19.06.2018-30453/m RG/7. Md., yürürlük: 2.1.2019)",
       "preview": "(Değişik:RG-30/11/2021-31675)[7] (1) İhale komisyonu verilen teklifleri değerlendirdikten sonra Kurum tarafından belirlenen yönteme göre sın…",
+      "kitap": null,
+      "kisim": "İKİNCİ KISIM · İhaleye Katılımda Yeterlik",
+      "bolum": "İKİNCİ BÖLÜM · Başvuruların ve Tekliflerin Alınması, Açılması ve Değerlendirilmesi",
+      "ayirim": null,
+      "maddeBaslik": "Tekliflerin değerlendirilmesi",
+      "sectionPath": [
+        "İKİNCİ KISIM · İhaleye Katılımda Yeterlik",
+        "İKİNCİ BÖLÜM · Başvuruların ve Tekliflerin Alınması, Açılması ve Değerlendirilmesi",
+        "Tekliflerin değerlendirilmesi"
+      ]
+    },
+    {
+      "id": "yonetmelik:12916:m:60/A",
+      "maddeKind": "madde",
+      "maddeNo": "60/A",
+      "heading": "Madde 60/A",
+      "text": "(Mülga:RG- 18/5/2024-32550)(10)\n Elektronik eksiltme (Ek madde: 19.06.2018-30453/m RG/7. Md., yürürlük: 01.11.2018)",
+      "preview": "(Mülga:RG- 18/5/2024-32550)(10) Elektronik eksiltme (Ek madde: 19.06.2018-30453/m RG/7. Md., yürürlük: 01.11.2018)",
+      "kitap": null,
+      "kisim": "İKİNCİ KISIM · İhaleye Katılımda Yeterlik",
+      "bolum": "İKİNCİ BÖLÜM · Başvuruların ve Tekliflerin Alınması, Açılması ve Değerlendirilmesi",
+      "ayirim": null,
+      "maddeBaslik": "Tekliflerin değerlendirilmesi",
+      "sectionPath": [
+        "İKİNCİ KISIM · İhaleye Katılımda Yeterlik",
+        "İKİNCİ BÖLÜM · Başvuruların ve Tekliflerin Alınması, Açılması ve Değerlendirilmesi",
+        "Tekliflerin değerlendirilmesi"
+      ]
+    },
+    {
+      "id": "yonetmelik:12916:m:60/B",
+      "maddeKind": "madde",
+      "maddeNo": "60/B",
+      "heading": "Madde 60/B",
+      "text": "(1) İlan ve dokümanda belirtilmek kaydıyla, ön projeyle çıkılan yapım işleri hariç olmak üzere; açık ihale veya belli istekliler arasında ihale usulleri ile yapılan ve Kanunun 38 inci maddesinde öngörülen açıklama istenilmeksizin sonuçlandırılan ihalelerde, fiyat veya fiyat ile birlikte fiyat dışı unsurlar üzerinden, sayılan usuller ile yapılan diğer ihalelerde ise yalnızca fiyat dışı unsurlar üzerinden elektronik eksiltme yapılabilir.\n (2) (Değişik cümle:RG- 18/5/2024-32550)(10) Elektronik eksiltmeye davet edilecek istekliler ilgili e-form kullanılarak aynı anda eksiltmeye davet edilirler. (Değişik cümle: 16.03.2019-30716 R.G/13. Md.,yürürlük:26.03.2019)Davet edilmeyecek isteklilere ise davet edilmeme gerekçeleri elektronik eksiltme başlamadan önce bildirilir. Eksiltme gerekli durumlarda ertelenebilir.\n (3) Davette, eksiltmeye konu fiyat ve/veya fiyat dışı unsurlar ile eksiltmenin zamanı, süresi, tur sayısı ve asgari fark aralığı gibi gerekli hususlar belirtilir.\n (4) (Değişik cümle:RG- 18/5/2024-32550)(10) Yeni teklifler EKAP üzerinden e-teklif olarak verilir. E-teklifte, yeni fiyatlar ve/veya fiyat dışı unsurlara ilişkin yeni değerler, en az asgari fark aralığı kadar eksiltilmek suretiyle teklif edilebilir.(Ek cümle: 16.03.2019-30716 R.G/13. Md.,yürürlük:26.03.2019)Birden fazla kalemden oluşan ihalelerde/kısımlarda eksiltme kalem fiyatları üzerinden yapılır ve eksiltilmiş kalem fiyatlarının toplamı, eksiltilmiş teklif olarak verilir.\n (5) (Değişik:RG- 18/5/2024-32550)(10) Fiyat veya fiyat ile birlikte fiyat dışı unsurlar üzerinden elektronik eksiltme yapılması öngörülen ihalelerde; tekliflerin açıldığı aşamaya ilişkin tutanak, eksiltmeden önce, isteklilerin yalnızca kendi durumunu görebileceği şekilde hazırlanarak bildirilir. Teklif verenler, teklif fiyatları ve eksiltmeye konu fiyat dışı unsurların değerleri ise yaklaşık maliyet ile birlikte, elektronik eksiltme tamamlandıktan sonra açıklanır.\n (6) Davetin gönderildiği tarihten itibaren iki iş günü geçmeden eksiltmeye başlanamaz.\n (7) Elektronik eksiltmenin her aşamasında, isteklilere o andaki sıralamaları EKAP üzerinde bildirilir. (Mülga cümleler: 30.09.2020-31260 R.G/5. Md., yürürlük: 20.10.2020)\n (8) Ekonomik açıdan en avantajlı teklifin fiyat dışı unsurlar da dikkate alınarak belirlendiği ihalelerde, yapılan ilk değerlendirme sonucu ile eksiltmede verilen yeni tekliflere göre sıralamayı düzenleyen matematiksel formül de davette bildirilir. Bu formül, ihale ilanında veya ihale dokümanında belirtildiği şekilde ekonomik açıdan en avantajlı teklifin tespitinde kullanılan bütün unsurların varsa nispi ağırlıklarını da içerir.\n (9) Eksiltmede tur sayısı beşi geçemez ve turlardan birinde yeni teklif vermeyen istekli, sonraki turlarda da teklif veremez.\n (10) Eksiltmeye katılarak yeni teklif veren isteklilerin son teklifleri geçerli kabul edilerek önceki teklifleri değerlendirmeye alınmaz. (Ek ibare:16.03.2019-30716 R.G/13. Md., yürürlük: 26.03.2019)Eksiltmeye yeni bir isteklinin katılmasına yol açacak şekilde (Mülga ibare:RG- 18/5/2024-32550)(10) değişiklik olması sebebiyle tekrar eksiltme yapılması halinde, yeni eksiltme daha önceki eksiltmede verilmiş olan son teklifler üzerinden yapılır.",
+      "preview": "(1) İlan ve dokümanda belirtilmek kaydıyla, ön projeyle çıkılan yapım işleri hariç olmak üzere; açık ihale veya belli istekliler arasında ih…",
       "kitap": null,
       "kisim": "İKİNCİ KISIM · İhaleye Katılımda Yeterlik",
       "bolum": "İKİNCİ BÖLÜM · Başvuruların ve Tekliflerin Alınması, Açılması ve Değerlendirilmesi",

@@ -1,4 +1,5 @@
 import React, { useEffect, useState } from 'react';
+import { toast } from 'sonner';
 import { type Party, DataService } from '../../services/dataService';
 import MaterialIcon from '../../components/ui/MaterialIcon';
 import { Button } from '../../components/ui/button';
@@ -14,6 +15,7 @@ import { useLayoutStore } from '../../stores/useLayoutStore';
 import { CopyContentButton } from '../../components/ui/CopyContentButton';
 import { formatPartyCopyText } from '../../utils/entityCopyText';
 import { copyTextWithToast } from '../../utils/copyText';
+import { saveClientLedgerCsv } from '../../lib/saveClientLedgerCsv';
 import { useClientReportUiStore } from '../../stores/useClientReportUiStore';
 
 interface ClientWidgetProps {
@@ -144,6 +146,20 @@ const ClientWidget: React.FC<ClientWidgetProps> = React.memo(({
                             className="gap-2 text-xs"
                         >
                             <MaterialIcon icon="download" size={14} /> Müvekkil raporu (CSV)
+                        </DropdownMenuItem>
+                        <DropdownMenuItem
+                            onSelect={(e) => {
+                                e.preventDefault();
+                                if (!party.id) return;
+                                void saveClientLedgerCsv(party.id, party.full_name)
+                                    .then((result) => {
+                                        if (result === 'saved') toast.success('Hesap CSV kaydedildi');
+                                    })
+                                    .catch(() => toast.error('Hesap CSV kaydedilemedi'));
+                            }}
+                            className="gap-2 text-xs"
+                        >
+                            <MaterialIcon icon="account_balance_wallet" size={14} /> Hesap raporu (CSV)
                         </DropdownMenuItem>
                         <DropdownMenuItem
                             onSelect={(e) => {

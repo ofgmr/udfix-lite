@@ -1,8 +1,15 @@
 diff --git a/node_modules/tiptap-pagination-plus/dist/PaginationPlus.js b/node_modules/tiptap-pagination-plus/dist/PaginationPlus.js
-index 186b675..f41e7f0 100644
+index 186b675..5822627 100644
 --- a/node_modules/tiptap-pagination-plus/dist/PaginationPlus.js
 +++ b/node_modules/tiptap-pagination-plus/dist/PaginationPlus.js
-@@ -50,7 +50,10 @@ const refreshPage = (targetNode, paginationEnabled = true) => {
+@@ -1,6 +1,5 @@
+ import { Extension } from "@tiptap/core";
+ import { Plugin, PluginKey } from "@tiptap/pm/state";
+-import { ReplaceStep, ReplaceAroundStep, AddMarkStep, RemoveMarkStep, RemoveNodeMarkStep, AttrStep } from "@tiptap/pm/transform";
+ import { Decoration, DecorationSet } from "@tiptap/pm/view";
+ import { deepEqualIterative, footerClickEvent, getCustomPages, getFooter, getFooterHeight, getHeader, getHeaderHeight, getHeight, headerClickEvent, updateCssVariables } from "./utils";
+ const page_count_meta_key = "PAGE_COUNT_META_KEY";
+@@ -50,7 +49,10 @@ const refreshPage = (targetNode, paginationEnabled = true) => {
              const lastPageBreak = (_a = paginationElement.lastElementChild) === null || _a === void 0 ? void 0 : _a.querySelector(".breaker");
              if (lastPageBreak) {
                  const minHeight = lastPageBreak.offsetTop + lastPageBreak.offsetHeight;
@@ -14,8 +21,81 @@ index 186b675..f41e7f0 100644
              }
          }
      }
-@@ -346,7 +349,13 @@ export const PaginationPlus = Extension.create({
-                             const pageCount = getNewPageCount(view, Object.assign(Object.assign({}, _currentOptions), pageConfig));
+@@ -284,12 +286,18 @@ export const PaginationPlus = Extension.create({
+                         };
+                     },
+                     apply: (tr, oldDeco, oldState, newState) => {
+-                        const { options: _currentOptions, config: pageConfig } = getPageConfig(storage, this.options);
+-                        if (storage.enabled === storage.appliedConfig.enabled && storage.enabled === false && storage.appliedConfig.enabled === false) {
++                        nomaiBump("apply");
++                        const pageMeta = tr.getMeta(page_count_meta_key);
++                        const configChanged = nomaiPaginationConfigChanged(storage);
++                        // Page count depends on layout. Measuring here forces a reflow on the
++                        // pre-update DOM during every keystroke. The view schedules that read.
++                        if (!pageMeta && !configChanged) {
++                            nomaiBump("applySkippedMeasure");
++                            return oldDeco;
++                        }
++                        if (!editor.view || !editor.view.dom) {
+                             return oldDeco;
+                         }
+-                        const pageCount = getNewPageCount(editor.view, Object.assign(Object.assign({}, _currentOptions), pageConfig));
+-                        const currentPageCount = getExistingPageCount(editor.view);
+                         const getNewDecoration = () => {
+                             const { options: _currentOptions, config: pageConfig } = getPageConfig(storage, this.options);
+                             updateCssVariables(editor.view.dom, _currentOptions);
+@@ -304,29 +312,8 @@ export const PaginationPlus = Extension.create({
+                                 footerHeight
+                             };
+                         };
+-                        if (
+-                        // If pagination is enabled only then check for other changes
+-                        (pageCount > 1 ? pageCount : 1) !== currentPageCount ||
+-                            storage.enabled !== storage.appliedConfig.enabled ||
+-                            storage.pageBreakBackground !== storage.appliedConfig.pageBreakBackground ||
+-                            storage.pageHeight !== storage.appliedConfig.pageHeight ||
+-                            storage.pageWidth !== storage.appliedConfig.pageWidth ||
+-                            storage.marginTop !== storage.appliedConfig.marginTop ||
+-                            storage.marginBottom !== storage.appliedConfig.marginBottom ||
+-                            storage.marginLeft !== storage.appliedConfig.marginLeft ||
+-                            storage.marginRight !== storage.appliedConfig.marginRight ||
+-                            storage.pageGap !== storage.appliedConfig.pageGap ||
+-                            storage.contentMarginTop !== storage.appliedConfig.contentMarginTop ||
+-                            storage.contentMarginBottom !== storage.appliedConfig.contentMarginBottom ||
+-                            storage.headerLeft !== storage.appliedConfig.headerLeft ||
+-                            storage.headerRight !== storage.appliedConfig.headerRight ||
+-                            storage.footerLeft !== storage.appliedConfig.footerLeft ||
+-                            storage.footerRight !== storage.appliedConfig.footerRight ||
+-                            !deepEqualIterative(storage.appliedConfig.customHeader, storage.customHeader) ||
+-                            !deepEqualIterative(storage.appliedConfig.customFooter, storage.customFooter)) {
+-                            return getNewDecoration();
+-                        }
+-                        return oldDeco;
++                        nomaiBump("applyRebuild");
++                        return getNewDecoration();
+                     },
+                 },
+                 props: {
+@@ -336,17 +323,23 @@ export const PaginationPlus = Extension.create({
+                     },
+                 },
+                 view: (editorView) => {
+-                    return {
+-                        update: (view) => {
+-                            const { options: _currentOptions, config: pageConfig } = getPageConfig(storage, this.options);
+-                            if (!pageConfig.enabled && !view.dom.hasAttribute("rm-pagination-disabled")) {
+-                                refreshPage(view.dom, false);
+-                                return;
+-                            }
+-                            const pageCount = getNewPageCount(view, Object.assign(Object.assign({}, _currentOptions), pageConfig));
++                    const runMeasure = (view) => {
++                        nomaiBump("layoutReads");
++                        const { options: _currentOptions, config: pageConfig } = getPageConfig(storage, this.options);
++                        if (!pageConfig.enabled && !view.dom.hasAttribute("rm-pagination-disabled")) {
++                            refreshPage(view.dom, false);
++                            return;
++                        }
++                        const pageCount = getNewPageCount(view, Object.assign(Object.assign({}, _currentOptions), pageConfig));
                              const currentPageCount = getExistingPageCount(view);
                              const triggerUpdate = (_footerHeight) => {
 +                                if (nomaiTriggerPending.has(view))
@@ -28,7 +108,38 @@ index 186b675..f41e7f0 100644
                                      const tr = view.state.tr.setMeta(page_count_meta_key, { footerHeight: _footerHeight });
                                      view.dispatch(tr);
                                  });
-@@ -402,10 +411,16 @@ export const PaginationPlus = Extension.create({
+@@ -355,8 +348,28 @@ export const PaginationPlus = Extension.create({
+                                 triggerUpdate();
+                                 return;
+                             }
+-                            const headerHeight = getHeaderHeight(view.dom, getCustomPages(_currentOptions.customHeader, {}), "content");
+-                            const footerHeight = getFooterHeight(view.dom, getCustomPages({}, _currentOptions.customFooter), "content");
++                            const headerKey = `${_currentOptions.headerLeft}|${_currentOptions.headerRight}|${JSON.stringify(_currentOptions.customHeader || {})}`;
++                            const footerKey = `${_currentOptions.footerLeft}|${_currentOptions.footerRight}|${JSON.stringify(_currentOptions.customFooter || {})}`;
++                            let headerHeight;
++                            let footerHeight;
++                            if (storage.nomaiHeaderKey === headerKey && storage.nomaiHeaderHeight) {
++                                headerHeight = storage.nomaiHeaderHeight;
++                                nomaiBump("headerCacheHit");
++                            }
++                            else {
++                                headerHeight = getHeaderHeight(view.dom, getCustomPages(_currentOptions.customHeader, {}), "content");
++                                storage.nomaiHeaderKey = headerKey;
++                                storage.nomaiHeaderHeight = headerHeight;
++                            }
++                            if (storage.nomaiFooterKey === footerKey && storage.nomaiFooterHeight) {
++                                footerHeight = storage.nomaiFooterHeight;
++                                nomaiBump("footerCacheHit");
++                            }
++                            else {
++                                footerHeight = getFooterHeight(view.dom, getCustomPages({}, _currentOptions.customFooter), "content");
++                                storage.nomaiFooterKey = footerKey;
++                                storage.nomaiFooterHeight = footerHeight;
++                            }
+                             const footerHeightForCurrentPages = new Map();
+                             for (let i = 0; i <= pageCount; i++) {
+                                 if (footerHeight.has(i)) {
+@@ -402,13 +415,43 @@ export const PaginationPlus = Extension.create({
                                  }
                              }
                              if (maxContentHeight) {
@@ -46,8 +157,60 @@ index 186b675..f41e7f0 100644
 +                                }
                              });
                              refreshPage(view.dom, _currentOptions.enabled);
-                             return;
-@@ -523,12 +538,75 @@ const getExistingPageCount = (view) => {
+-                            return;
++                        };
++                    return {
++                        update: (view, prevState) => {
++                            nomaiBump("viewUpdates");
++                            const { config: pageConfig } = getPageConfig(storage, this.options);
++                            if (!pageConfig.enabled && !view.dom.hasAttribute("rm-pagination-disabled")) {
++                                refreshPage(view.dom, false);
++                                return;
++                            }
++                            const docChanged = !prevState || !prevState.doc.eq(view.state.doc);
++                            if (!docChanged && !nomaiPaginationConfigChanged(storage)) {
++                                nomaiBump("viewSkipped");
++                                return;
++                            }
++                            if (nomaiMeasurePending.has(view)) {
++                                nomaiBump("viewCoalesced");
++                                return;
++                            }
++                            nomaiMeasurePending.add(view);
++                            requestAnimationFrame(() => {
++                                nomaiMeasurePending.delete(view);
++                                if (!view.dom || !view.dom.isConnected)
++                                    return;
++                                runMeasure(view);
++                            });
+                         },
+                     };
+                 }
+@@ -420,16 +463,14 @@ export const PaginationPlus = Extension.create({
+                         return buildDecorations(state.doc);
+                     },
+                     apply(tr, old) {
+-                        if (tr.docChanged ||
+-                            tr.steps.some(step => step instanceof ReplaceStep) ||
+-                            tr.steps.some(step => step instanceof ReplaceAroundStep) ||
+-                            tr.steps.some(step => step instanceof AddMarkStep) ||
+-                            tr.steps.some(step => step instanceof RemoveMarkStep) ||
+-                            tr.steps.some(step => step instanceof RemoveNodeMarkStep) ||
+-                            tr.steps.some(step => step instanceof AttrStep)) {
+-                            return buildDecorations(tr.doc);
++                        if (!tr.docChanged)
++                            return old;
++                        if (!nomaiTransactionTouchesNode(tr, "hardBreak")) {
++                            nomaiBump("brMapped");
++                            return old.map(tr.mapping, tr.doc);
+                         }
+-                        return old;
++                        nomaiBump("brFullBuilds");
++                        return buildDecorations(tr.doc);
+                     }
+                 },
+                 props: {
+@@ -523,12 +564,135 @@ const getExistingPageCount = (view) => {
      }
      return 0;
  };
@@ -61,6 +224,66 @@ index 186b675..f41e7f0 100644
 +const NOMAI_PAGE_COUNT_MAX_CHANGES = 6;
 +const nomaiPageCountBudget = new WeakMap();
 +const nomaiTriggerPending = new WeakSet();
++const nomaiMeasurePending = new WeakSet();
++function nomaiBump(name) {
++    const stats = globalThis.__UDFIX_PAGINATION_STATS;
++    if (!stats) return;
++    stats[name] = (stats[name] || 0) + 1;
++}
++function nomaiPaginationConfigChanged(storage) {
++    const applied = storage.appliedConfig;
++    if (!applied) return true;
++    return storage.enabled !== applied.enabled
++        || storage.pageBreakBackground !== applied.pageBreakBackground
++        || storage.pageHeight !== applied.pageHeight
++        || storage.pageWidth !== applied.pageWidth
++        || storage.marginTop !== applied.marginTop
++        || storage.marginBottom !== applied.marginBottom
++        || storage.marginLeft !== applied.marginLeft
++        || storage.marginRight !== applied.marginRight
++        || storage.pageGap !== applied.pageGap
++        || storage.contentMarginTop !== applied.contentMarginTop
++        || storage.contentMarginBottom !== applied.contentMarginBottom
++        || storage.headerLeft !== applied.headerLeft
++        || storage.headerRight !== applied.headerRight
++        || storage.footerLeft !== applied.footerLeft
++        || storage.footerRight !== applied.footerRight
++        || !deepEqualIterative(applied.customHeader, storage.customHeader)
++        || !deepEqualIterative(applied.customFooter, storage.customFooter);
++}
++function nomaiTransactionTouchesNode(tr, typeName) {
++    let doc = tr.before;
++    for (const step of tr.steps) {
++        const from = step.from;
++        const to = step.to;
++        if (typeof from === "number" && typeof to === "number" && from < to) {
++            let found = false;
++            const end = Math.min(to, doc.content.size);
++            if (from < end) {
++                doc.nodesBetween(from, end, (node) => {
++                    if (node.type.name === typeName) {
++                        found = true;
++                        return false;
++                    }
++                });
++            }
++            if (found) return true;
++        }
++        const slice = step.slice;
++        if (slice) {
++            let found = false;
++            slice.content.descendants((node) => {
++                if (node.type.name === typeName) {
++                    found = true;
++                    return false;
++                }
++            });
++            if (found) return true;
++        }
++        doc = step.apply(doc).doc;
++    }
++    return false;
++}
 +const nomaiCssZoom = (el) => {
 +    let factor = 1;
 +    let node = el;
@@ -126,7 +349,7 @@ index 186b675..f41e7f0 100644
      const paginationElement = editorDom.querySelector("[data-rm-pagination]");
      const currentPageCount = getExistingPageCount(view);
      if (paginationElement) {
-@@ -537,31 +615,31 @@ const calculatePageCount = (view, pageOptions, headerHeight = 0, footerHeight =
+@@ -537,31 +701,31 @@ const calculatePageCount = (view, pageOptions, headerHeight = 0, footerHeight =
          if (lastElementOfEditor && lastPageBreak) {
              const lastElementRect = lastElementOfEditor.getBoundingClientRect();
              const lastPageBreakRect = lastPageBreak.getBoundingClientRect();

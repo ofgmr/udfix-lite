@@ -13,7 +13,7 @@
   "tertip": 5,
   "sourceUrl": "https://www.mevzuat.gov.tr/mevzuat?MevzuatNo=6331&MevzuatTur=1&MevzuatTertip=5",
   "kabulTarihi": "20/6/2012",
-  "maddeCount": 50,
+  "maddeCount": 52,
   "maddeler": [
     {
       "id": "kanun:6331:m:1",
@@ -406,7 +406,7 @@
       "maddeKind": "madde",
       "maddeNo": "24",
       "heading": "Madde 24",
-      "text": "(1) Bu Kanun hükümlerinin uygulanmasının izlenmesi ve teftişi, iş sağlığı ve güvenliği yönünden teftiş yapmaya yetkili Bakanlık iş müfettişlerince yapılır. Bu Kanun kapsamında yapılacak teftiş ve incelemelerde, 4857 sayılı Kanunun 92, 93, 96, 97 ve 107 nci maddeleri uygulanır.\n (2) (Mülga: 25/1/2024-7495/8 md.)\n (3) Askeri işyerleriyle yurt güvenliği için gerekli maddeler üretilen işyerlerinin denetim ve teftişi konusu ve sonuçlarına ait işlemler, Millî Savunma Bakanlığı ve Bakanlıkça birlikte hazırlanacak yönetmeliğe göre yürütülür.\n\n Bakanlığın inceleme, kontrol, denetim yetki ve sorumluluğu\n MADDE 24/A- (Ek: 25/1/2024-7495/9 md.)\n (1) Bakanlık bu Kanun kapsamındaki eğitim kurumları, ortak sağlık ve güvenlik birimleri, ekipman muayene kuruluşları, iş hijyeni ölçüm, test ve analiz laboratuvarlarında inceleme, yetkilendirme, kontrol ve denetim yapmaya yetkilidir. Bakanlık adına inceleme, kontrol ve denetim İş Sağlığı ve Güvenliği Genel Müdürlüğünde görevli çalışma uzmanı ve çalışma uzman yardımcısı, mühendis, fizikçi, kimyager, biyolog ve tabip unvanlı personel tarafından yerine getirilir. Bu madde kapsamında görevlendirilen personel inceleme, kontrol ve denetim esnasında mümkün olduğu kadar işi aksatmamak, işverenin ve işyerinin meslek sırları ile gördükleri ve öğrendikleri hususları tamamen gizli tutmakla yükümlüdür. Görevlendirilen personele işveren veya çalışanlar tarafından gereken kolaylık sağlanır. Bu fıkraya ilişkin usul ve esaslar Bakanlıkça düzenlenir.\n (2) Bu madde kapsamında görev yapan Bakanlık personeli kolluk kuvvetlerinin yardımına ihtiyaç duydukları takdirde, askeri işyerleri hariç olmak üzere, durumu ilgili mülki idare amirine iletirler. Mülki idare amiri 10/6/1949 tarihli ve 5442 sayılı İl İdaresi Kanunu ile 4/7/1934 tarihli ve 2559 sayılı Polis Vazife ve Salâhiyet Kanununun verdiği yetkiler çerçevesinde yapacağı değerlendirme sonucunda bu talebi uygun bulursa yeteri kadar kolluk kuvveti görevlendirir.\n (3) Bu madde kapsamında inceleme, kontrol ve denetim için görevlendirilenler hakkında 10/2/1954 tarihli ve 6245 sayılı Harcırah Kanununun 33 üncü maddesinin (b) fıkrası hükmü uygulanır.",
+      "text": "(1) Bu Kanun hükümlerinin uygulanmasının izlenmesi ve teftişi, iş sağlığı ve güvenliği yönünden teftiş yapmaya yetkili Bakanlık iş müfettişlerince yapılır. Bu Kanun kapsamında yapılacak teftiş ve incelemelerde, 4857 sayılı Kanunun 92, 93, 96, 97 ve 107 nci maddeleri uygulanır.\n (2) (Mülga: 25/1/2024-7495/8 md.)\n (3) Askeri işyerleriyle yurt güvenliği için gerekli maddeler üretilen işyerlerinin denetim ve teftişi konusu ve sonuçlarına ait işlemler, Millî Savunma Bakanlığı ve Bakanlıkça birlikte hazırlanacak yönetmeliğe göre yürütülür.",
       "preview": "(1) Bu Kanun hükümlerinin uygulanmasının izlenmesi ve teftişi, iş sağlığı ve güvenliği yönünden teftiş yapmaya yetkili Bakanlık iş müfettişl…",
       "kitap": null,
       "kisim": null,
@@ -419,11 +419,28 @@
       ]
     },
     {
+      "id": "kanun:6331:m:24/A",
+      "maddeKind": "madde",
+      "maddeNo": "24/A",
+      "heading": "Madde 24/A",
+      "text": "(Ek: 25/1/2024-7495/9 md.)\n (1) Bakanlık bu Kanun kapsamındaki eğitim kurumları, ortak sağlık ve güvenlik birimleri, ekipman muayene kuruluşları, iş hijyeni ölçüm, test ve analiz laboratuvarlarında inceleme, yetkilendirme, kontrol ve denetim yapmaya yetkilidir. Bakanlık adına inceleme, kontrol ve denetim İş Sağlığı ve Güvenliği Genel Müdürlüğünde görevli çalışma uzmanı ve çalışma uzman yardımcısı, mühendis, fizikçi, kimyager, biyolog ve tabip unvanlı personel tarafından yerine getirilir. Bu madde kapsamında görevlendirilen personel inceleme, kontrol ve denetim esnasında mümkün olduğu kadar işi aksatmamak, işverenin ve işyerinin meslek sırları ile gördükleri ve öğrendikleri hususları tamamen gizli tutmakla yükümlüdür. Görevlendirilen personele işveren veya çalışanlar tarafından gereken kolaylık sağlanır. Bu fıkraya ilişkin usul ve esaslar Bakanlıkça düzenlenir.\n (2) Bu madde kapsamında görev yapan Bakanlık personeli kolluk kuvvetlerinin yardımına ihtiyaç duydukları takdirde, askeri işyerleri hariç olmak üzere, durumu ilgili mülki idare amirine iletirler. Mülki idare amiri 10/6/1949 tarihli ve 5442 sayılı İl İdaresi Kanunu ile 4/7/1934 tarihli ve 2559 sayılı Polis Vazife ve Salâhiyet Kanununun verdiği yetkiler çerçevesinde yapacağı değerlendirme sonucunda bu talebi uygun bulursa yeteri kadar kolluk kuvveti görevlendirir.\n (3) Bu madde kapsamında inceleme, kontrol ve denetim için görevlendirilenler hakkında 10/2/1954 tarihli ve 6245 sayılı Harcırah Kanununun 33 üncü maddesinin (b) fıkrası hükmü uygulanır.",
+      "preview": "(Ek: 25/1/2024-7495/9 md.) (1) Bakanlık bu Kanun kapsamındaki eğitim kurumları, ortak sağlık ve güvenlik birimleri, ekipman muayene kuruluşl…",
+      "kitap": null,
+      "kisim": null,
+      "bolum": "ÜÇÜNCÜ BÖLÜM · Konsey, Kurul ve Koordinasyon",
+      "ayirim": null,
+      "maddeBaslik": "Bakanlığın inceleme, kontrol, denetim yetki ve sorumluluğu",
+      "sectionPath": [
+        "ÜÇÜNCÜ BÖLÜM · Konsey, Kurul ve Koordinasyon",
+        "Bakanlığın inceleme, kontrol, denetim yetki ve sorumluluğu"
+      ]
+    },
+    {
       "id": "kanun:6331:m:25",
       "maddeKind": "madde",
       "maddeNo": "25",
       "heading": "Madde 25",
-      "text": "(1) İşyerindeki bina ve eklentilerde, çalışma yöntem ve şekillerinde veya iş ekipmanlarında çalışanlar için hayati tehlike oluşturan bir husus tespit edildiğinde; bu tehlike giderilinceye kadar, hayati tehlikenin niteliği ve bu tehlikeden doğabilecek riskin etkileyebileceği alan ile çalışanlar dikkate alınarak, işyerinin bir bölümünde veya tamamında iş durdurulur. Ayrıca çok tehlikeli sınıfta yer alan maden, metal ve yapı işleri ile tehlikeli kimyasallarla çalışılan işlerin yapıldığı veya büyük endüstriyel kazaların olabileceği işyerlerinde, risk değerlendirmesi yapılmamış olması durumunda iş durdurulur.\n (2) İş sağlığı ve güvenliği bakımından teftişe yetkili üç iş müfettişinden oluşan heyet, iş sağlığı ve güvenliği bakımından teftişe yetkili iş müfettişinin tespiti üzerine gerekli incelemeleri yaparak, tespit tarihinden itibaren iki gün içerisinde işin durdurulmasına karar verebilir. Ancak tespit edilen hususun acil müdahaleyi gerektirmesi hâlinde; tespiti yapan iş müfettişi, heyet tarafından karar alınıncaya kadar geçerli olmak kaydıyla işi durdurur.\n (3) İşin durdurulması kararı, ilgili mülki idare amirine ve işyeri dosyasının bulunduğu Çalışma ve İş Kurumu il müdürlüğüne bir gün içinde gönderilir. İşin durdurulması kararı, mülki idare amiri tarafından kolluk kuvvetleri marifetiyle yirmidört saat içinde yerine getirilir. Ancak, tespit edilen hususun acil müdahaleyi gerektirmesi nedeniyle verilen işin durdurulması kararı, mülki idare amiri tarafından kolluk kuvvetleri marifetiyle aynı gün yerine getirilir.[11]\n (4) İşveren, yerine getirildiği tarihten itibaren altı iş günü içinde, yetkili iş mahkemesinde işin durdurulması kararına itiraz edebilir. İtiraz, işin durdurulması kararının uygulanmasını etkilemez. Mahkeme itirazı öncelikle görüşür ve altı iş günü içinde karara bağlar. Mahkeme kararı kesindir.\n (5) İşverenin işin durdurulmasını gerektiren hususların giderildiğini Bakanlığa yazılı olarak bildirmesi hâlinde, en geç yedi gün içinde işyerinde inceleme yapılarak işverenin talebi sonuçlandırılır.\n (6) İşveren, işin durdurulması sebebiyle işsiz kalan çalışanlara ücretlerini ödemekle veya ücretlerinde bir düşüklük olmamak üzere meslek veya durumlarına göre başka bir iş vermekle yükümlüdür.\n (7) (Ek: 4/4/2015-6645/2 md.) Çok tehlikeli sınıfta yer alan ve ihale ile alınan işlerde; teknolojik gelişme, iş gücü kapasitesinin artırılması, üretim metotlarında yenilik gibi bir kısım unsurlar sağlanmadan üretim ve/veya imalat planlarına, iş programlarına aykırı hareket edilerek üretim zorlaması nedeniyle hayati tehlike oluşturacak şekilde çalışma biçimleri, işin durdurulma sebebi sayılır.\n (8) (Ek: 4/4/2015-6645/2 md.) İşyerinde durdurulan işlerde izinsiz çalışma yaptıran işveren veya işveren vekillerine üç yıldan beş yıla kadar hapis cezası verilir.\n\n Ölümlü iş kazası sebebiyle kamu ihalesinden yasaklama\n MADDE 25/A – (Ek: 4/4/2015-6645/3 md.)\n Ölümlü iş kazası meydana gelen maden işyerlerinde kusuru yargı kararı ile tespit edilen işveren, mahkeme tarafından iki yıl süreyle kamu ihalelerine katılmaktan 5/1/2002 tarihli ve 4735 sayılı Kamu İhale Sözleşmeleri Kanununun 26 ncı maddesinin ikinci fıkrasında sayılanlarla birlikte yasaklanır. Kararın bir örneği işverenin siciline işlenmek üzere Kamu İhale Kurumuna gönderilir ve Kurumun internet sayfasında ilan edilir.",
+      "text": "(1) İşyerindeki bina ve eklentilerde, çalışma yöntem ve şekillerinde veya iş ekipmanlarında çalışanlar için hayati tehlike oluşturan bir husus tespit edildiğinde; bu tehlike giderilinceye kadar, hayati tehlikenin niteliği ve bu tehlikeden doğabilecek riskin etkileyebileceği alan ile çalışanlar dikkate alınarak, işyerinin bir bölümünde veya tamamında iş durdurulur. Ayrıca çok tehlikeli sınıfta yer alan maden, metal ve yapı işleri ile tehlikeli kimyasallarla çalışılan işlerin yapıldığı veya büyük endüstriyel kazaların olabileceği işyerlerinde, risk değerlendirmesi yapılmamış olması durumunda iş durdurulur.\n (2) İş sağlığı ve güvenliği bakımından teftişe yetkili üç iş müfettişinden oluşan heyet, iş sağlığı ve güvenliği bakımından teftişe yetkili iş müfettişinin tespiti üzerine gerekli incelemeleri yaparak, tespit tarihinden itibaren iki gün içerisinde işin durdurulmasına karar verebilir. Ancak tespit edilen hususun acil müdahaleyi gerektirmesi hâlinde; tespiti yapan iş müfettişi, heyet tarafından karar alınıncaya kadar geçerli olmak kaydıyla işi durdurur.\n (3) İşin durdurulması kararı, ilgili mülki idare amirine ve işyeri dosyasının bulunduğu Çalışma ve İş Kurumu il müdürlüğüne bir gün içinde gönderilir. İşin durdurulması kararı, mülki idare amiri tarafından kolluk kuvvetleri marifetiyle yirmidört saat içinde yerine getirilir. Ancak, tespit edilen hususun acil müdahaleyi gerektirmesi nedeniyle verilen işin durdurulması kararı, mülki idare amiri tarafından kolluk kuvvetleri marifetiyle aynı gün yerine getirilir.[11]\n (4) İşveren, yerine getirildiği tarihten itibaren altı iş günü içinde, yetkili iş mahkemesinde işin durdurulması kararına itiraz edebilir. İtiraz, işin durdurulması kararının uygulanmasını etkilemez. Mahkeme itirazı öncelikle görüşür ve altı iş günü içinde karara bağlar. Mahkeme kararı kesindir.\n (5) İşverenin işin durdurulmasını gerektiren hususların giderildiğini Bakanlığa yazılı olarak bildirmesi hâlinde, en geç yedi gün içinde işyerinde inceleme yapılarak işverenin talebi sonuçlandırılır.\n (6) İşveren, işin durdurulması sebebiyle işsiz kalan çalışanlara ücretlerini ödemekle veya ücretlerinde bir düşüklük olmamak üzere meslek veya durumlarına göre başka bir iş vermekle yükümlüdür.\n (7) (Ek: 4/4/2015-6645/2 md.) Çok tehlikeli sınıfta yer alan ve ihale ile alınan işlerde; teknolojik gelişme, iş gücü kapasitesinin artırılması, üretim metotlarında yenilik gibi bir kısım unsurlar sağlanmadan üretim ve/veya imalat planlarına, iş programlarına aykırı hareket edilerek üretim zorlaması nedeniyle hayati tehlike oluşturacak şekilde çalışma biçimleri, işin durdurulma sebebi sayılır.\n (8) (Ek: 4/4/2015-6645/2 md.) İşyerinde durdurulan işlerde izinsiz çalışma yaptıran işveren veya işveren vekillerine üç yıldan beş yıla kadar hapis cezası verilir.",
       "preview": "(1) İşyerindeki bina ve eklentilerde, çalışma yöntem ve şekillerinde veya iş ekipmanlarında çalışanlar için hayati tehlike oluşturan bir hus…",
       "kitap": null,
       "kisim": null,
@@ -433,6 +450,23 @@
       "sectionPath": [
         "ÜÇÜNCÜ BÖLÜM · Konsey, Kurul ve Koordinasyon",
         "İşin durdurulması"
+      ]
+    },
+    {
+      "id": "kanun:6331:m:25/A",
+      "maddeKind": "madde",
+      "maddeNo": "25/A",
+      "heading": "Madde 25/A",
+      "text": "(Ek: 4/4/2015-6645/3 md.)\n Ölümlü iş kazası meydana gelen maden işyerlerinde kusuru yargı kararı ile tespit edilen işveren, mahkeme tarafından iki yıl süreyle kamu ihalelerine katılmaktan 5/1/2002 tarihli ve 4735 sayılı Kamu İhale Sözleşmeleri Kanununun 26 ncı maddesinin ikinci fıkrasında sayılanlarla birlikte yasaklanır. Kararın bir örneği işverenin siciline işlenmek üzere Kamu İhale Kurumuna gönderilir ve Kurumun internet sayfasında ilan edilir.",
+      "preview": "(Ek: 4/4/2015-6645/3 md.) Ölümlü iş kazası meydana gelen maden işyerlerinde kusuru yargı kararı ile tespit edilen işveren, mahkeme tarafında…",
+      "kitap": null,
+      "kisim": null,
+      "bolum": "ÜÇÜNCÜ BÖLÜM · Konsey, Kurul ve Koordinasyon",
+      "ayirim": null,
+      "maddeBaslik": "Ölümlü iş kazası sebebiyle kamu ihalesinden yasaklama",
+      "sectionPath": [
+        "ÜÇÜNCÜ BÖLÜM · Konsey, Kurul ve Koordinasyon",
+        "Ölümlü iş kazası sebebiyle kamu ihalesinden yasaklama"
       ]
     },
     {

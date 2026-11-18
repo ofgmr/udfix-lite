@@ -2,47 +2,19 @@ import type { Editor } from '@tiptap/react';
 import type { Node } from '@tiptap/pm/model';
 import type { BlockStyleKey } from './blockStyleFormat';
 import type { EditorTypographyPayload } from './editorTypography';
-import { applyTypographyPayload } from './editorTypography';
-import { SUBTITLE_FONT_PT, TITLE_FONT_PT } from './blockStyleApply';
-
-/** Toolbar’daki başlık/alt başlık sezgisiyle uyum (nomaiBlockStyle yokken pt ile ayırt). */
-function firstTextStyleFontSize(node: Node): string | undefined {
-    let out: string | undefined;
-    node.descendants((child) => {
-        if (child.isText) {
-            const ts = child.marks.find((m) => m.type.name === 'textStyle');
-            if (ts) {
-                out = (ts.attrs as { fontSize?: string }).fontSize;
-                return false;
-            }
-        }
-        return true;
-    });
-    return out;
-}
+import { applySavedParagraphFormatting } from './blockStyleApply';
 
 function blockMatchesStyleKey(node: Node, key: BlockStyleKey): boolean {
     if (key === 'p') {
         if (node.type.name !== 'paragraph') return false;
         const slot = node.attrs.nomaiBlockStyle as string | null | undefined;
-        if (slot === 'title' || slot === 'subtitle') return false;
-        const fs = firstTextStyleFontSize(node);
-        if (fs === TITLE_FONT_PT || fs === SUBTITLE_FONT_PT) return false;
         return slot == null || slot === '' || slot === 'normal';
     }
     if (key === 'title') {
-        if (node.type.name !== 'paragraph') return false;
-        const slot = node.attrs.nomaiBlockStyle as string | null | undefined;
-        if (slot === 'subtitle') return false;
-        if (slot === 'title') return true;
-        return firstTextStyleFontSize(node) === TITLE_FONT_PT;
+        return node.type.name === 'paragraph' && node.attrs.nomaiBlockStyle === 'title';
     }
     if (key === 'subtitle') {
-        if (node.type.name !== 'paragraph') return false;
-        const slot = node.attrs.nomaiBlockStyle as string | null | undefined;
-        if (slot === 'title') return false;
-        if (slot === 'subtitle') return true;
-        return firstTextStyleFontSize(node) === SUBTITLE_FONT_PT;
+        return node.type.name === 'paragraph' && node.attrs.nomaiBlockStyle === 'subtitle';
     }
     const level = parseInt(key.replace('h', ''), 10);
     if (level >= 1 && level <= 6) {
@@ -80,7 +52,7 @@ export function propagateBlockStyleDefaultsToDocument(
         } else {
             editor.chain().focus().setTextSelection(innerFrom).run();
         }
-        if (applyTypographyPayload(editor, payload)) {
+        if (applySavedParagraphFormatting(editor, payload)) {
             updated += 1;
         }
     }

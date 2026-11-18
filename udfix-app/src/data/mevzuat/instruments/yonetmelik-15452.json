@@ -13,7 +13,7 @@
   "tertip": 5,
   "sourceUrl": "https://www.mevzuat.gov.tr/mevzuat?MevzuatNo=15452&MevzuatTur=7&MevzuatTertip=5",
   "kabulTarihi": null,
-  "maddeCount": 31,
+  "maddeCount": 32,
   "maddeler": [
     {
       "id": "yonetmelik:15452:m:1",
@@ -24,13 +24,10 @@
       "preview": "(1) Bu Yönetmeliğin amacı vergi incelemelerinde uyulacak usul ve esasları düzenlemektir.",
       "kitap": null,
       "kisim": null,
-      "bolum": "BİRİNCİ BÖLÜM · Amaç, Kapsam, Dayanak ve Tanımlar",
+      "bolum": null,
       "ayirim": null,
-      "maddeBaslik": "Amaç ve kapsam",
-      "sectionPath": [
-        "BİRİNCİ BÖLÜM · Amaç, Kapsam, Dayanak ve Tanımlar",
-        "Amaç ve kapsam"
-      ]
+      "maddeBaslik": null,
+      "sectionPath": []
     },
     {
       "id": "yonetmelik:15452:m:2",
@@ -41,11 +38,10 @@
       "preview": "(1) Bu Yönetmelik, 4/1/1961 tarihli ve 213 sayılı Vergi Usul Kanununun 140 ıncı maddesi ile (Değişik ibare:RG-7/4/2021-31447) 1 sayılı Cumhu…",
       "kitap": null,
       "kisim": null,
-      "bolum": "BİRİNCİ BÖLÜM · Amaç, Kapsam, Dayanak ve Tanımlar",
+      "bolum": null,
       "ayirim": null,
       "maddeBaslik": "Dayanak",
       "sectionPath": [
-        "BİRİNCİ BÖLÜM · Amaç, Kapsam, Dayanak ve Tanımlar",
         "Dayanak"
       ]
     },
@@ -58,11 +54,10 @@
       "preview": "(Değişik:RG-7/4/2021-31447) (1) Bu Yönetmelikte geçen; a) Bakan: Hazine ve Maliye Bakanını, b) Bakanlık: Hazine ve Maliye Bakanlığını, c) Ba…",
       "kitap": null,
       "kisim": null,
-      "bolum": "BİRİNCİ BÖLÜM · Amaç, Kapsam, Dayanak ve Tanımlar",
+      "bolum": null,
       "ayirim": null,
       "maddeBaslik": "Tanımlar",
       "sectionPath": [
-        "BİRİNCİ BÖLÜM · Amaç, Kapsam, Dayanak ve Tanımlar",
         "Tanımlar"
       ]
     },
@@ -394,7 +389,7 @@
       "maddeKind": "madde",
       "maddeNo": "23",
       "heading": "Madde 23",
-      "text": "(1) İncelemeler mümkün olan en kısa sürede tamamlanır. İncelemeye başlanıldığı tarihten itibaren, tam inceleme yapılması halinde en fazla bir yıl, sınırlı inceleme yapılması halinde (Mülga ibare:RG-7/4/2021-31447) en fazla altı ay (Ek ibare:RG-7/4/2021-31447) , katma değer vergisi iade incelemelerinde ise en fazla üç ay içinde incelemenin bitirilmesi esastır.\n (2) Birinci fıkrada belirtilen süreler içerisinde incelemenin bitirilemeyeceğinin anlaşılması halinde, vergi incelemesi yapmaya yetkili olanlar, gerekçeli bir yazı ile bağlı oldukları birimden, inceleme süresinin bitiminden en geç on gün önce, ek süre talep edebilirler.\n (3) Ek süre talebi ilgili birim tarafından değerlendirildikten sonra (Değişik ibare:RG-7/4/2021-31447) tam ve sınırlı incelemelerde altı ayı, katma değer vergisi iade incelemelerinde ise iki ayı geçmemek üzere ek süre verilebilir. Bu durumda, incelemenin bitirilememe nedeni ilgili birim tarafından nezdinde inceleme yapılana yazılı olarak bildirilir.\n (4) İlgili birimler, incelemenin zamanında bitirilmesini sağlayacak gerekli tedbirleri almakla yükümlüdür.\n (5) İnceleme görevinin başka bir inceleme elemanına devredilmesi gerektiği hallerde, inceleme kalan süre içinde tamamlanır.\n (6) Sınırlı incelemenin, sonradan ortaya çıkan durumlar nedeniyle tam incelemeye dönüşmesi halinde, inceleme süresi sınırlı incelemeye başlanılan tarih itibarıyla hesaplanır.\n (7) Ek süre dahil olmak üzere, süresinde herhangi bir vergi inceleme raporu düzenlenmemesi halinde durum, vergi incelemesi yapmaya yetkili olanlar tarafından gerekçeleri ile birlikte yazılı olarak bağlı oldukları birime bildirilir. İlgili inceleme ve denetim birimi, incelemeyi bitiremeyen inceleme elemanı hakkında disiplin hükümlerini uygulayabilir.\n (8) İnceleme, neticesi alınmamış hesap dönemi de dahil olmak üzere, tarh zamanaşımı süresi sonuna kadar her zaman yapılabilir. Evvelce inceleme yapılmış veya matrahın re’sen takdir edilmiş olması yeniden inceleme yapılmasına ve gerekirse tarhiyatın ikmaline mani değildir.\n (9) 13/6/2006 tarihli ve 5520 sayılı Kurumlar Vergisi Kanununun 17 nci maddesi ile 15/3/2007 tarihli ve 5604 sayılı Malî Tatil İhdas Edilmesi Hakkında Kanun hükümleri saklıdır.\n Uluslararası bilgi değişimi amacıyla yapılacak incelemeler\n MADDE 23/A – (Ek:RG-6/11/2015-29524)\n (1) Uluslararası anlaşmalarda yer alan bilgi değişimine ilişkin hükümler çerçevesinde bilginin sağlanmasına yönelik gerçekleştirilecek araştırmalar öncelikli olarak ele alınır ve en kısa zamanda tamamlanır. Bu süre, bilgi talebinin Başkanlığa ulaştırıldığı tarihten itibaren iki ayı geçemez.",
+      "text": "(1) İncelemeler mümkün olan en kısa sürede tamamlanır. İncelemeye başlanıldığı tarihten itibaren, tam inceleme yapılması halinde en fazla bir yıl, sınırlı inceleme yapılması halinde (Mülga ibare:RG-7/4/2021-31447) en fazla altı ay (Ek ibare:RG-7/4/2021-31447) , katma değer vergisi iade incelemelerinde ise en fazla üç ay içinde incelemenin bitirilmesi esastır.\n (2) Birinci fıkrada belirtilen süreler içerisinde incelemenin bitirilemeyeceğinin anlaşılması halinde, vergi incelemesi yapmaya yetkili olanlar, gerekçeli bir yazı ile bağlı oldukları birimden, inceleme süresinin bitiminden en geç on gün önce, ek süre talep edebilirler.\n (3) Ek süre talebi ilgili birim tarafından değerlendirildikten sonra (Değişik ibare:RG-7/4/2021-31447) tam ve sınırlı incelemelerde altı ayı, katma değer vergisi iade incelemelerinde ise iki ayı geçmemek üzere ek süre verilebilir. Bu durumda, incelemenin bitirilememe nedeni ilgili birim tarafından nezdinde inceleme yapılana yazılı olarak bildirilir.\n (4) İlgili birimler, incelemenin zamanında bitirilmesini sağlayacak gerekli tedbirleri almakla yükümlüdür.\n (5) İnceleme görevinin başka bir inceleme elemanına devredilmesi gerektiği hallerde, inceleme kalan süre içinde tamamlanır.\n (6) Sınırlı incelemenin, sonradan ortaya çıkan durumlar nedeniyle tam incelemeye dönüşmesi halinde, inceleme süresi sınırlı incelemeye başlanılan tarih itibarıyla hesaplanır.\n (7) Ek süre dahil olmak üzere, süresinde herhangi bir vergi inceleme raporu düzenlenmemesi halinde durum, vergi incelemesi yapmaya yetkili olanlar tarafından gerekçeleri ile birlikte yazılı olarak bağlı oldukları birime bildirilir. İlgili inceleme ve denetim birimi, incelemeyi bitiremeyen inceleme elemanı hakkında disiplin hükümlerini uygulayabilir.\n (8) İnceleme, neticesi alınmamış hesap dönemi de dahil olmak üzere, tarh zamanaşımı süresi sonuna kadar her zaman yapılabilir. Evvelce inceleme yapılmış veya matrahın re’sen takdir edilmiş olması yeniden inceleme yapılmasına ve gerekirse tarhiyatın ikmaline mani değildir.\n (9) 13/6/2006 tarihli ve 5520 sayılı Kurumlar Vergisi Kanununun 17 nci maddesi ile 15/3/2007 tarihli ve 5604 sayılı Malî Tatil İhdas Edilmesi Hakkında Kanun hükümleri saklıdır.",
       "preview": "(1) İncelemeler mümkün olan en kısa sürede tamamlanır. İncelemeye başlanıldığı tarihten itibaren, tam inceleme yapılması halinde en fazla bi…",
       "kitap": null,
       "kisim": null,
@@ -404,6 +399,23 @@
       "sectionPath": [
         "DÖRDÜNCÜ BÖLÜM · Vergi İncelemesinde Süre",
         "İnceleme süresi"
+      ]
+    },
+    {
+      "id": "yonetmelik:15452:m:23/A",
+      "maddeKind": "madde",
+      "maddeNo": "23/A",
+      "heading": "Madde 23/A",
+      "text": "(Ek:RG-6/11/2015-29524)\n (1) Uluslararası anlaşmalarda yer alan bilgi değişimine ilişkin hükümler çerçevesinde bilginin sağlanmasına yönelik gerçekleştirilecek araştırmalar öncelikli olarak ele alınır ve en kısa zamanda tamamlanır. Bu süre, bilgi talebinin Başkanlığa ulaştırıldığı tarihten itibaren iki ayı geçemez.",
+      "preview": "(Ek:RG-6/11/2015-29524) (1) Uluslararası anlaşmalarda yer alan bilgi değişimine ilişkin hükümler çerçevesinde bilginin sağlanmasına yönelik…",
+      "kitap": null,
+      "kisim": null,
+      "bolum": "DÖRDÜNCÜ BÖLÜM · Vergi İncelemesinde Süre",
+      "ayirim": null,
+      "maddeBaslik": "Uluslararası bilgi değişimi amacıyla yapılacak incelemeler",
+      "sectionPath": [
+        "DÖRDÜNCÜ BÖLÜM · Vergi İncelemesinde Süre",
+        "Uluslararası bilgi değişimi amacıyla yapılacak incelemeler"
       ]
     },
     {

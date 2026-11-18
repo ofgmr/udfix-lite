@@ -13,7 +13,7 @@
   "tertip": 5,
   "sourceUrl": "https://www.mevzuat.gov.tr/mevzuat?MevzuatNo=20059207&MevzuatTur=21&MevzuatTertip=5",
   "kabulTarihi": null,
-  "maddeCount": 60,
+  "maddeCount": 61,
   "maddeler": [
     {
       "id": "yonetmelik:20059207:m:1",
@@ -23,15 +23,11 @@
       "text": "Bu Yönetmeliğin amacı, işyeri açma ve çalışma ruhsatlarının verilmesinde uygulanacak esas ve usulleri düzenlemektir.",
       "preview": "Bu Yönetmeliğin amacı, işyeri açma ve çalışma ruhsatlarının verilmesinde uygulanacak esas ve usulleri düzenlemektir.",
       "kitap": null,
-      "kisim": "BİRİNCİ KISIM · Genel Hükümler",
-      "bolum": "BİRİNCİ BÖLÜM · Amaç, Kapsam, Dayanak ve Tanımlar",
+      "kisim": null,
+      "bolum": null,
       "ayirim": null,
-      "maddeBaslik": "Amaç",
-      "sectionPath": [
-        "BİRİNCİ KISIM · Genel Hükümler",
-        "BİRİNCİ BÖLÜM · Amaç, Kapsam, Dayanak ve Tanımlar",
-        "Amaç"
-      ]
+      "maddeBaslik": null,
+      "sectionPath": []
     },
     {
       "id": "yonetmelik:20059207:m:2",
@@ -41,13 +37,11 @@
       "text": "Bu Yönetmelik, sıhhî ve gayrisıhhî işyerleri ile umuma açık istirahat ve eğlence yerlerinin ruhsatlandırılması ve denetlenmesine dair iş ve işlemleri kapsar.",
       "preview": "Bu Yönetmelik, sıhhî ve gayrisıhhî işyerleri ile umuma açık istirahat ve eğlence yerlerinin ruhsatlandırılması ve denetlenmesine dair iş ve…",
       "kitap": null,
-      "kisim": "BİRİNCİ KISIM · Genel Hükümler",
-      "bolum": "BİRİNCİ BÖLÜM · Amaç, Kapsam, Dayanak ve Tanımlar",
+      "kisim": null,
+      "bolum": null,
       "ayirim": null,
       "maddeBaslik": "Kapsam",
       "sectionPath": [
-        "BİRİNCİ KISIM · Genel Hükümler",
-        "BİRİNCİ BÖLÜM · Amaç, Kapsam, Dayanak ve Tanımlar",
         "Kapsam"
       ]
     },
@@ -59,13 +53,11 @@
       "text": "Bu Yönetmelik, 24/4/1930 tarihli ve 1593 sayılı Umumi Hıfzıssıhha Kanunu, 15/5/1930 tarihli ve 1608 sayılı Umuru Belediyeye Müteallik Ahkâmı Cezaiye Hakkında 16 Nisan 1340 Tarih ve 486 Numaralı Kanunun Bazı Maddelerini Muaddil Kanun, 4/7/1934 tarihli 2559 sayılı Polis Vazife ve Selahiyet Kanunu, 14/6/1989 tarihli ve 3572 sayılı İşyeri Açma ve Çalışma Ruhsatlarına Dair Kanun Hükmünde Kararnamenin Değiştirilerek Kabulüne Dair Kanun, 12/4/2000 tarihli ve 4562 sayılı Organize Sanayi Bölgeleri Kanunu, 9/1/2002 tarihli ve 4737 sayılı Endüstri Bölgeleri Kanunu, 10/7/2004 tarihli ve 5216 sayılı Büyükşehir Belediyesi Kanunu, 22/2/2005 tarihli ve 5302 sayılı İl Özel İdaresi Kanunu, 3/7/2005 tarihli ve 5393 sayılı Belediye Kanunu hükümleri ile 3/5/1985 tarihli ve 3194 sayılı İmar Kanununun ek 11 inci maddesinin birinci fıkrasının (ç) ve (f) bentlerine dayanılarak hazırlanmıştır.(1)(2)(3)",
       "preview": "Bu Yönetmelik, 24/4/1930 tarihli ve 1593 sayılı Umumi Hıfzıssıhha Kanunu, 15/5/1930 tarihli ve 1608 sayılı Umuru Belediyeye Müteallik Ahkâmı…",
       "kitap": null,
-      "kisim": "BİRİNCİ KISIM · Genel Hükümler",
-      "bolum": "BİRİNCİ BÖLÜM · Amaç, Kapsam, Dayanak ve Tanımlar",
+      "kisim": null,
+      "bolum": null,
       "ayirim": null,
       "maddeBaslik": "Dayanak",
       "sectionPath": [
-        "BİRİNCİ KISIM · Genel Hükümler",
-        "BİRİNCİ BÖLÜM · Amaç, Kapsam, Dayanak ve Tanımlar",
         "Dayanak"
       ]
     },
@@ -77,13 +69,11 @@
       "text": "Bu Yönetmelikte geçen deyimlerden;\n a) (Değişik:RG-17/4/2021-31457-C.K.-3835/1 md.) Yetkili idare: Belediye sınırları ve mücavir alanlar dışı ile kanunlarda münhasıran il özel idaresine yetki verilen hususlarda il özel idaresini, büyükşehir belediyesi sınırları içinde büyükşehir belediyesinin yetkili olduğu konularda büyükşehir belediyesini, bunların dışında kalan hususlarda büyükşehir ilçe belediyesini, belediye sınırları ve mücavir alanlar içinde belediyeyi, organize sanayi bölgesi sınırları içinde organize sanayi bölgesi tüzel kişiliğini, endüstri bölgesi sınırları içinde Sanayi ve Teknoloji Bakanlığını ve teknoloji geliştirme bölgesi yönetici şirketi ile bölgede yer alan AR-GE ve tasarım faaliyetinde bulunan firmalar için Sanayi ve Teknoloji Bakanlığı il müdürlüklerini,\n _____________\n (1) 9/6/2020 tarihli ve 31150 sayılı Resmî Gazete’de yayımlanan 2626 sayılı Cumhurbaşkanı Kararının 1 inci maddesiyle, bu fıkraya “24/4/1930 tarihli ve 1593 sayılı Umumi Hıfzıssıhha Kanunu,” ibaresinden sonra gelmek üzere “15/5/1930 tarihli ve 1608 sayılı Umuru Belediyeye Müteallik Ahkâmı Cezaiye Hakkında 16 Nisan 1340 Tarih ve 486 Numaralı Kanunun Bazı Maddelerini Muaddil Kanun,” ibaresi eklenmiştir.\n (2) 25/8/2022 tarihli ve 31934 sayılı Resmî Gazete’de yayımlanan 5987 sayılı Cumhurbaşkanı Kararının 1 inci maddesiyle, bu fıkraya “12/4/2000 tarihli ve 4562 sayılı Organize Sanayi Bölgeleri Kanunu,” ibaresinden sonra gelmek üzere “9/1/2002 tarihli ve 4737 sayılı Endüstri Bölgeleri Kanunu,” ibaresi eklenmiştir.\n (3) 11/12/2025 tarihli ve 33104 sayılı Resmî Gazete’de yayımlanan 10681 sayılı Cumhurbaşkanı Kararının 1 inci maddesiyle bu maddede yer alan “3/7/2005 tarihli ve 5393 sayılı Belediye Kanununa” ibaresi “3/7/2005 tarihli ve 5393 sayılı Belediye Kanunu hükümleri ile 3/5/1985 tarihli ve 3194 sayılı İmar Kanununun ek 11 inci maddesinin birinci fıkrasının (ç) ve (f) bentlerine” şeklinde değiştirilmiştir.\n 4730\n\n b) Gayrisıhhî müessese: Faaliyeti sırasında çevresinde bulunanlara biyolojik, kimyasal, fiziksel, ruhsal ve sosyal yönden az veya çok zarar veren veya vermesi muhtemel olan ya da doğal kaynakların kirlenmesine sebep olabilecek müesseseleri,\n c) (Değişik:RG-17/4/2021-31457-C.K.-3835/1 md.) Birinci sınıf gayrisıhhî müessese: Konutlardan ve insan ikametine mahsus diğer yerlerden mutlaka uzak bulundurulmaları gereken müesseseleri,\n d) (Değişik:RG-17/4/2021-31457-C.K.-3835/1 md.) İkinci sınıf gayrisıhhî müessese: Konutlardan ve insan ikametine mahsus diğer yerlerden mutlaka uzak bulundurulmaları gerekmeyen, bununla birlikte müessesenin faaliyetinin gerektirdiği durumlarda izin verilmeden önce civarında ikamet edenlerin esenlik ve istirahati hususunda konumu, tesisatı ve vaziyeti itibarıyla bir zarar vermeyeceğine kanaat oluşması için inceleme yapılması gerekli müesseseleri,\n e) (Değişik:RG-17/4/2021-31457-C.K.-3835/1 md.) Üçüncü sınıf gayrisıhhî müessese: Konutların ve insan ikametine mahsus diğer yerlerin yanında açılabilmesi için sıhhî nezarete tabi tutulması yeterli olan müesseseleri,\n f) Sıhhî müessese: Gayrisıhhî müesseseler dışında kalan her türlü işyerini,\n g) (Değişik:RG-11/12/2025-33104-CK-10681/2 md.) Umuma açık istirahat ve eğlence yeri: Bu Yönetmeliğin eki (EK-3 UMUMA AÇIK İSTİRAHAT VE EĞLENCE YERLERİ LİSTESİ)’nde yer alan ve kişilerin tek tek veya toplu olarak eğlenmesi, dinlenmesi veya konaklaması için açılan günübirlik tesisler, eğlence merkezleri, turizm kompleksleri, tatil merkezleri ile otel, motel, pansiyon, kamping ve benzeri konaklama yerleri; gazino, pavyon, meyhane, bar, birahane, içkili lokanta, taverna ve benzeri içkili yerler; sinema, kahvehane ve kıraathaneler; kumar ve kazanç kastı olmamak şartıyla adı ne olursa olsun bilgi ve maharet artırıcı veya zeka geliştirici nitelikteki elektronik oyun alet ve makinelerinin, video ve televizyon oyunlarının içerisinde bulunduğu elektronik oyun yerleri; internet salonları, lunaparklar, sirkler ve benzeri yerleri,\n h) İçkili yer bölgesi: Belediye sınırları ve mücavir alanlar içinde belediye meclisi, bu sınırlar dışında il genel meclisi tarafından valilik veya kaymakamlığın görüşü alınarak tespit edilen ve içerisinde şarap ve bira dahil her türlü alkollü içeceğin verilebileceği işyerlerinin açılabileceği bölgeyi,\n ı) Doğal kaynaklar: Hava, su, toprak ve doğada bulunan cansız varlıkları,\n j) Çevre sağlığı: İnsan sağlığının çevredeki fizikî, kimyevî, biyolojik, sosyal ve psiko-sosyal faktörlerle tespit edilen yaşam kalitesini,\n k) (Değişik: 19/3/2007 – 2007/11882 K.) İnceleme kurulu: Birinci sınıf gayrisıhhî müesseseler için yer seçimi ve tesis kurma, deneme veya açılma izni amacıyla inceleme yapan kurulu,\n l) Yer seçimi ve tesis kurma izni: Birinci sınıf gayrisıhhî müesseselerde tesisin yapılmasından önce söz konusu yerde kurulup kurulamayacağı konusunda ve kurulacak yer, proje ve belgelerin uygun görülmesi durumunda müessesenin kurulması için yetkili idarece verilen izni,\n m) Deneme izni: Gayrisıhhî müesseselerde onaylı projelerine göre yapılan müessesenin, planlanan şekilde çalışıp çalışmadığının ve doğal kaynakların kirlenmesini önlemek için alınan tedbirlerin yeterli olup olmadığının tespiti için yetkili idarenin izni ve denetimi altında belirli bir süre deneme mahiyetindeki faaliyetlere verilen geçici izni,\n n) İşyeri açma ve çalışma ruhsatı: Yetkili idareler tarafından bu Yönetmelik kapsamındaki işyerlerinin açılıp faaliyet göstermesi için verilen izni,\n o) Mahallin en büyük mülkî idare amiri: İllerde valiyi, büyükşehir belediyesi hudutları içinde kalanlar dahil ilçelerde kaymakamı,\n p) Kolluk: Polis ve jandarma teşkilatını,\n r) (Değişik:RG-11/12/2025-33104-CK-10681/2 md.) Konaklama yeri: Otel, tatil köyü, motel, pansiyon, apart otel, kırsal turizm tesisi, mobil ev, konaklama amaçlı mesire yeri, konaklamalı orman parkı, kamping, lüks çadır ve asıl fonksiyonları müşterilerin konaklama ihtiyaçlarını sağlamak olan benzeri yerleri,\n s) Organize sanayi bölgesi: 12/4/2000 tarihli ve 4562 sayılı Organize Sanayi Bölgeleri Kanununa göre kurulan özel hukuk tüzel kişisini,\n t) (Ek:RG-9/6/2020-31150-C.K-2626/2 md.) İş yeri: Ticari, sınai, zirai veya mesleki bir faaliyetin ya da girişimin icrasına tahsis edilen veya bu faaliyetlerde kullanılan, kara ya da su üzerindeki açık veya kapalı alanda bulunan sabit ya da mobil yerleri,\n u) (Ek:RG-9/6/2020-31150-C.K-2626/2 md.) Sınıf tespiti: Bu Yönetmelik ile sınıflandırması yapılmamış bir gayrisıhhî müessesenin kendi içinde kaçıncı sınıfta bulunduğunun tespiti amacıyla Sağlık Bakanlığınca yapılan tespiti ve sınıflandırmayı,\n v) (Ek:RG-17/4/2021-31457-C.K.-3835/1 md.) Endüstri bölgesi: Ülke ekonomisini uluslararası rekabet edebilir bir yapıya kavuşturmak, teknoloji transferini sağlamak, üretim ve istihdamı artırmak, yabancı sermaye girişini hızlandırmak ve özellikle üretim maliyetleri açısından büyük ölçekli yatırımlar için uygun sanayi alanı oluşturmak üzere 9/1/2002 tarihli ve 4737 sayılı Endüstri Bölgeleri Kanunu gereğince kurulacak üretim bölgelerini,\n 4731\n\n y) (Ek:RG-17/4/2021-31457-C.K.-3835/1 md.) Teknoloji geliştirme bölgesi: Yüksek/ileri teknoloji kullanan ya da yeni teknolojilere yönelik firmaların, belirli bir üniversite veya yüksek teknoloji enstitüsü ya da AR-GE merkez veya enstitüsünün olanaklarından yararlanarak teknoloji veya yazılım ürettikleri/geliştirdikleri, teknolojik bir buluşu ticari bir ürün, yöntem veya hizmet haline dönüştürmek için faaliyet gösterdikleri ve bu yolla bölgenin kalkınmasına katkıda bulundukları, 26/6/2001 tarihli ve 4691 sayılı Teknoloji Geliştirme Bölgeleri Kanunu gereğince aynı üniversite, yüksek teknoloji enstitüsü ya da AR-GE merkez veya enstitüsü alanı içinde veya yakınında kurulan; akademik, ekonomik ve sosyal yapının bütünleştiği siteyi veya bu özelliklere sahip teknoparkı,\n ifade eder.",
       "preview": "Bu Yönetmelikte geçen deyimlerden; a) (Değişik:RG-17/4/2021-31457-C.K.-3835/1 md.) Yetkili idare: Belediye sınırları ve mücavir alanlar dışı…",
       "kitap": null,
-      "kisim": "BİRİNCİ KISIM · Genel Hükümler",
-      "bolum": "BİRİNCİ BÖLÜM · Amaç, Kapsam, Dayanak ve Tanımlar",
+      "kisim": null,
+      "bolum": null,
       "ayirim": null,
       "maddeBaslik": "Tanımlar",
       "sectionPath": [
-        "BİRİNCİ KISIM · Genel Hükümler",
-        "BİRİNCİ BÖLÜM · Amaç, Kapsam, Dayanak ve Tanımlar",
         "Tanımlar"
       ]
     },
@@ -95,12 +85,11 @@
       "text": "İşyeri açma ve çalışma ruhsatı verilen işyerleri aşağıda belirtilen şartları taşımak zorundadır:\n a) İş sağlığı ve güvenliği ile ilgili olarak mevzuatta öngörülen tedbirlerin alınmış olması,\n b) 634 sayılı Kat Mülkiyeti Kanunu kapsamına giren gayrimenkullerin, tapu kütüğünde mesken olarak gösterilen bağımsız bölümlerinde sinema, tiyatro, kahvehane, gazino, pavyon, bar, kulüp, dans salonu ve benzeri eğlence ve toplantı yerleri; fırın, lokanta, pastane, süthane gibi gıda ve beslenme yerleri; imalathane, boyahane, basımevi, dükkan, galeri ve çarşı gibi işyerlerinin açılması hususunda kat maliklerinin oy birliği ile karar alması,\n Tapuda iş yeri olarak görünen yerlerde, umuma açık istirahat ve eğlence yeri açılması durumunda yönetim planında aksine bir hüküm yoksa, kat maliklerinin oy çokluğu ile aldığı kararın bulunması,\n c) Özel yapı şeklini gerektiren sinema, tiyatro, düğün salonu, otel, hamam, sauna; ekmek fırını ile akaryakıt, sıvılaştırılmış petrol gazı, sıvılaştırılmış doğal gaz ve sıkıştırılmış doğal gaz istasyonu için yapı kullanma izin belgesinin alınmış olması,\n d) Umuma açık istirahat ve eğlence yerlerinde genel asayiş ve güvenlik yönünden yetkili kolluk kuvvetinin görüşünün alınmış olması,\n e) Umuma açık istirahat ve eğlence yerlerinin, patlayıcı, parlayıcı, yanıcı ve benzeri tehlikeli maddeler üretilen, satılan, kullanılan, depolanan yerler ile gaz dolum tesislerine mevzuatın öngördüğü uzaklıkta bulunması,\n f) (Ek: 23/5/2011 – 2011/1900 K.) Madencilik faaliyetleri sırasında patlayıcı madde kullanılan yerlerde 27/11/1973 tarihli ve 7/7551 sayılı Bakanlar Kurulu Kararı ile yürürlüğe konulan Parlayıcı, Patlayıcı, Tehlikeli ve Zararlı Maddelerle Çalışılan İşyerlerinde ve İşlerde Alınacak Tedbirler Hakkında Tüzük, 14/8/1987 tarihli ve 87/12028 sayılı Bakanlar Kurulu Kararı ile yürürlüğe konulan Tekel Dışı Bırakılan Patlayıcı Maddelerle Av Malzemesi ve Benzerlerinin Üretimi, İthali, Taşınması, Saklanması, Depolanması, Satışı, Kullanılması, Yok Edilmesi, Denetlenmesi Usul ve Esaslarına İlişkin Tüzük ve 26/12/2003 tarihli ve 25328 sayılı Resmi Gazetede yayımlanan Patlayıcı Ortamların Tehlikelerinden Çalışanların Korunması Hakkında Yönetmelik hükümlerine uygun tedbirlerin alınması,\n g) Karayolu kenarındaki işyerleri için karayolu trafik güvenliğinin sağlanmış ve geçiş yolu izin belgesinin alınmış olması,(2)\n h) Umuma açık istirahat ve eğlence yerleri; patlayıcı, parlayıcı ve yanıcı maddelerin üretildiği, satıldığı ve depolandığı işyerleri; otuz kişiden fazla çalışanın bulunduğu her türlü işyerleri, ana giriş kapıları dışında cadde ve sokağa doğrudan bağlantısı olmayan ve birden fazla işyerinin bir arada bulunduğu iş hanı, çarşı ve benzeri işyerlerinde yangına karşı gerekli önlemlerinin alındığını gösteren itfaiye raporunun alınması, diğer işyerlerinde ise yangına karşı gerekli tedbirlerin alınmış olması,\n _______________________\n (1) 23/5/2011 tarihli ve 2011/1900 sayılı Bakanlar Kurulu Kararı Eki Yönetmeliğinin 1 inci maddesi ile bu maddenin birinci fıkrasına (f) bendi eklenmiş diğer bentler buna göre teselsül ettirilmiş ve metne işlenmiştir.\n (2) 17/4/2021 tarihli ve 31457 sayılı Resmî Gazete’de yayımlanan 3835 sayılı Cumhurbaşkanı Kararının 2 nci maddesiyle, bu bende “karayolu trafik güvenliğinin sağlanmış” ibaresinden sonra gelmek üzere “ve geçiş yolu izin belgesinin alınmış” ibaresi eklenmiştir.\n 4732\n\n ı) Umuma açık istirahat ve eğlence yerlerinden meyhane, bar, kahvehane, kıraathane, elektronik oyun merkezi, internet salonu ile açıkta alkollü içki satılan işyerlerinin okul, yurt, mabet bina ve tesislerine mevzuatın öngördüğü uzaklıkta bulunması,(1)\n j) Sınaî, tıbbî ve radyoaktif atık üreten işyerlerinde bu atıkların toplanması, taşınması, depolanması, işlenmesi ve bertarafı konusunda gerekli tedbirlerin ve izinlerin alınmış olması,\n k) (Değişik:RG-11/12/2025-33104-CK-10681/3 md.) İş yerlerinin engelliler, yaşlılar ve diğer hareket kısıtlılığı bulunan kişiler için erişilebilirlik mevzuatına uygun olarak düzenlenmesi,\n l) Yabancı uyrukluların işyeri açması ve çalıştırması konusunda, yabancılarla ilgili mevzuat hükümlerine uyulması.\n m) (Ek: 29/6/2010 – 2010/671 K.; Değişik: 10/11/2014-2014/7002 K.) Ekmek fırınlarının bu amaca tahsisli ayrık nizamda müstakil binalarda açılmış olması (Ancak, alışveriş merkezleri içinde bulunan 1000 m2 ve üstü alana sahip hipermarket, süpermarket, grossmarket ve megamarket gibi adlarla açılan işyerleri bünyesinde yer alan fırınlarda ayrık nizamda müstakil bina şartı aranmaz.),\n n) (Ek: 29/6/2010 – 2010/671 K.)Yanıcı ve parlayıcı madde kategorisindeki sıvıların depolanması amacıyla kullanılan tesis ve düzeneklerde, işyeri açma ve çalışma ruhsatında kayıtlı hacimden fazla ve başka kategoriden sıvı depolanmaması, bu tesis ve düzeneklerde gerçekleştirilecek tadilatların ruhsata işlenmeden faaliyete geçirilmemesi.\n o) (Ek: 12/12/2016-2016/9607 K.) Sıvılaştırılmış petrol gazı tüp dağıtım merkezleri ve perakende satış yerleri ile bunların varsa tüp depolamak için kullandığı yerlerde işyerlerine giren ve çıkanların tespiti amacıyla gerekli kamera kayıt sisteminin kurulması (Bu sistem aracılığıyla elde edilen kayıtlar otuz gün süre ile saklanır ve kayıtlar yetkili makamlar haricindeki kişi ve kuruluşlara verilemez.).\n Yetkili idareler, işyeri açma ve çalışma ruhsatının verilmesinden sonra yapacakları denetimlerde bu hususların yerine getirilip getirilmediğini kontrol eder.\n (Değişik üçüncü fıkra: 19/3/2007 – 2007/11882 K.) Turizm işletme belgeli tesisler, işletme belgesinin düzenlenmesine esas hususlarla ilgili olarak sadece Kültür ve Turizm Bakanlığı tarafından denetlenir. (Mülga cümle:RG-11/12/2025-33104-CK-10681/3 md.)\n Umuma açık istirahat ve eğlence yerleri için bu hususlar işyeri açma ve çalışma ruhsatı verilmeden önce yerinde kontrol edilir.\n ___________\n (1) 25/1/2020 tarihli ve 31019 sayılı Resmî Gazete’de yayımlanan 2048 sayılı Cumhurbaşkanı Kararının 1 inci maddesiyle, bu bende “elektronik oyun merkezi” ibaresinden sonra gelmek üzere “, internet salonu” ibaresi eklenmiştir.\n 4732-1\n\n (Ek fıkra: 29/6/2010 – 2010/671 K.) Fabrika, şantiye, nakliye filosu ve benzeri işletmelerin ticari amaç dışında kendi faaliyetlerinin gerekli kıldığı yanıcı ve parlayıcı madde kategorisindeki sıvıların depolanması veya kendi araçlarına yakıt ikmali yapılması amacıyla kullanılan düzenekler, özel mevzuatındaki hükümler saklı kalmak kaydıyla, bu Yönetmelik ekindeki depolama hacimleri esas alınarak gayrisıhhî müessese olarak ruhsatlandırılır.\n (Ek fıkra: 23/5/2011 – 2011/1900 K.) Maden üretim faaliyetleri ile bu faaliyetlere dayalı olarak üretim yapılan geçici tesislerle ilgili bu Yönetmeliğin uygulanmasında 4/6/1985 tarihli ve 3213 sayılı Maden Kanununun 7 nci maddesinde yer alan hususlar öncelikle dikkate alınır.\n (Ek fıkra: 12/3/2012-2012/2958 K.) Birden fazla işyerinin bir arada bulunduğu iş hanı, çarşı ve benzeri işyerlerinde yangına karşı gerekli önlemlerin alındığını gösteren itfaiye raporu bu binaların yönetimi tarafından alınır ve yapıda değişiklik olmadığı sürece buralardaki işyerleri için ayrıca münferit itfaiye raporu aranmaz. Yangın tedbirlerini etkileyecek şekilde yapıda değişiklik yapılması durumunda yalnızca yapısında değişiklik yapılan işyerinin sahibinden münferit itfaiye raporu istenir.",
       "preview": "İşyeri açma ve çalışma ruhsatı verilen işyerleri aşağıda belirtilen şartları taşımak zorundadır: a) İş sağlığı ve güvenliği ile ilgili olara…",
       "kitap": null,
-      "kisim": "BİRİNCİ KISIM · Genel Hükümler",
+      "kisim": null,
       "bolum": "İKİNCİ BÖLÜM · Ortak hükümler",
       "ayirim": null,
       "maddeBaslik": "İşyerlerinde aranacak genel şartlar(1)",
       "sectionPath": [
-        "BİRİNCİ KISIM · Genel Hükümler",
         "İKİNCİ BÖLÜM · Ortak hükümler",
         "İşyerlerinde aranacak genel şartlar(1)"
       ]
@@ -113,12 +102,11 @@
       "text": "(Değişik birinci fıkra: 19/3/2007 – 2007/11882 K.) Yetkili idarelerden usulüne uygun olarak işyeri açma ve çalışma ruhsatı alınmadan işyeri açılamaz ve çalıştırılamaz. İşyerlerine bu Yönetmelikte belirtilen yetkili idareler dışında diğer kamu kurum ve kuruluşları ile ilgili meslek kuruluşları tarafından özel mevzuatına göre verilen izinler ile tescil ve benzeri işlemler bu Yönetmelik hükümlerine göre ruhsat alma mükellefiyetini ortadan kaldırmaz. İşyeri açma ve çalışma ruhsatı alınmadan açılan işyerleri yetkili idareler tarafından kapatılır.\n İşyeri ruhsatları yetkili idarelerin en üst amiri veya görevlendireceği yetkili tarafından bu Yönetmelikte öngörülen sürede imzalanır; ruhsat için ayrıca, meclis veya encümen tarafından bir karar alınmaz. Ruhsat, Örnek 5’te yer alan bilgileri içerecek şekilde düzenlenir.\n İşyeri açmak isteyen gerçek veya tüzel kişiler, işyerlerini bu Yönetmeliğe uygun olarak tanzim ettikten sonra Örnek 1 ve 2’de yer alan durumlarına uygun formu doldurarak yetkili idareye başvurur.\n Bu Yönetmeliğe göre yapılacak her türlü ruhsat başvurusunda, müracaat sahibine başvuruyu kabul eden görevlinin adı, soyadı ve unvanı ile başvurunun yapıldığı tarih ve saati gösteren Örnek 6’da yer alan alındı belgesi verilir. Ayrıca, başvuru ve beyan formu ile ekli evrakın verilmesi sırasında başvuruyu kabul eden görevli tarafından yapılacak ön incelemede tespit edilen noksanlıklar, müracaat sahibine verilen alındı belgesinde gösterilir. Bu Yönetmelikte belirtilen ruhsatlandırmaya ilişkin süreler eksik belgelerin yetkili idareye verilmesi ile başlar.\n 16/12/2003 tarihli ve 25318 sayılı Resmi Gazetede yayımlanan Çevresel Etki Değerlendirmesi Yönetmeliği ekindeki listede yer alan işletmelerle, birinci sınıf gayrisıhhî müessese grubunda yer alan işletmelerin aynı olması durumunda, yetkili idareler ruhsat verirken Çevresel Etki Değerlendirme (ÇED) dosyasında yer alan belgelere göre işlem yapar.\n\n 4732-2",
       "preview": "(Değişik birinci fıkra: 19/3/2007 – 2007/11882 K.) Yetkili idarelerden usulüne uygun olarak işyeri açma ve çalışma ruhsatı alınmadan işyeri…",
       "kitap": null,
-      "kisim": "BİRİNCİ KISIM · Genel Hükümler",
+      "kisim": null,
       "bolum": "İKİNCİ BÖLÜM · Ortak hükümler",
       "ayirim": null,
       "maddeBaslik": "İşyeri açılması",
       "sectionPath": [
-        "BİRİNCİ KISIM · Genel Hükümler",
         "İKİNCİ BÖLÜM · Ortak hükümler",
         "İşyeri açılması"
       ]
@@ -131,12 +119,11 @@
       "text": "Yetkili idareler tarafından verilen işyeri açma ve çalışma ruhsatlarının örnekleri aylık olarak sigorta il müdürlüğüne ve ilgili ise ticaret siciline veya esnaf siciline gönderilir. (1)\n Umuma açık istirahat ve eğlence yerleri için düzenlenen işyeri açma ve çalışma ruhsatlarının bir örneği en geç yedi gün içinde yetkili idare tarafından kolluğa gönderilir.",
       "preview": "Yetkili idareler tarafından verilen işyeri açma ve çalışma ruhsatlarının örnekleri aylık olarak sigorta il müdürlüğüne ve ilgili ise ticaret…",
       "kitap": null,
-      "kisim": "BİRİNCİ KISIM · Genel Hükümler",
+      "kisim": null,
       "bolum": "İKİNCİ BÖLÜM · Ortak hükümler",
       "ayirim": null,
       "maddeBaslik": "Bildirim (1)",
       "sectionPath": [
-        "BİRİNCİ KISIM · Genel Hükümler",
         "İKİNCİ BÖLÜM · Ortak hükümler",
         "Bildirim (1)"
       ]
@@ -149,12 +136,11 @@
       "text": "(Değişik birinci fıkra:RG-17/4/2021-31457-C.K.-3835/3 md.) Ruhsatta belirtilen faaliyet konusu, faaliyet alanı ve adresin değişmemesi kaydıyla iş yerinin devredilmesi halinde, devralan kişinin başvurusu üzerine dosyadaki bilgi ve belgeler esas alınmak suretiyle yeni işletmeci adına tekrar ruhsat düzenlenir. Ancak devredilmek istenen iş yerinin fiziki durumu ve ruhsat dosyasındaki bilgi ve belgelerin işletmecinin kusuru sebebiyle faaliyet konusuyla ilgili bu Yönetmelik kapsamında karşılanması gereken mevzuat hükümlerine aykırı olması halinde, söz konusu aykırılıklar ve noksanlıklar giderilmeden yeni işletmeci adına ruhsat düzenlenemez.\n (Ek fıkra: 12/3/2012-2012/2958 K.) Umuma açık istirahat ve eğlence yerleri ile gayrisıhhî müesseseler hariç olmak üzere, sıhhî işyerleri için adresin değişmemesi kaydıyla faaliyet konusunun değiştiği durumlarda ruhsat başvurusunda bulunulması halinde, dosyadaki bilgi ve belgeler esas alınarak yeni faaliyet konusu ile ilgili şartlar karşılanmak kaydıyla başvuru sahibi adına tekrar ruhsat düzenlenir.\n İşyerine yeni ortak alınması veya ortaklardan birinin ayrılması durumunda yeni ruhsat düzenlenmez.\n İşyerinin başka bir adrese nakledilmesi halinde yeniden ruhsatlandırılması esastır.\n Mahalle, cadde, sokak ve benzeri yerlerin isim veya numaralarının değişmesi nedeniyle aynı işyeri için yeni ruhsat düzenlenmez. Ruhsatta yer alan bilgiler güncellenir.\n İşyeri sahibinin ölümü halinde, yeni ruhsat düzenlenmeksizin kanunî mirasçıları adına eski ruhsatın intibakı yapılır.\n Ruhsatın yenilenmesi veya intibakı gereken hallerde yetkili idareye en geç üç ay içinde müracaat edilmesi zorunludur. Bu süre mirasçılar için altı ay olarak uygulanır. Süresi içinde müracaat yapılmadığının yetkili idarelerce tespiti durumunda tespit tarihinden itibaren onbeş günlük süre verilir. Bu süre sonunda ruhsat yenilenmediği veya intibak yaptırılmadığı hallerde ruhsat iptal edilir.",
       "preview": "(Değişik birinci fıkra:RG-17/4/2021-31457-C.K.-3835/3 md.) Ruhsatta belirtilen faaliyet konusu, faaliyet alanı ve adresin değişmemesi kaydıy…",
       "kitap": null,
-      "kisim": "BİRİNCİ KISIM · Genel Hükümler",
+      "kisim": null,
       "bolum": "İKİNCİ BÖLÜM · Ortak hükümler",
       "ayirim": null,
       "maddeBaslik": "İşletmecinin değişmesi ve işyerinin nakli",
       "sectionPath": [
-        "BİRİNCİ KISIM · Genel Hükümler",
         "İKİNCİ BÖLÜM · Ortak hükümler",
         "İşletmecinin değişmesi ve işyerinin nakli"
       ]
@@ -167,12 +153,11 @@
       "text": "Bu Yönetmelik kapsamına girmesine rağmen adı ve nitelikleri belirtilmeyen sıhhî bir işyerinin açılması halinde, benzeri işyerleri için öngörülen esaslara göre işlem yapılır.\n (Değişik fıkra:RG-9/6/2020-31150-C.K-2626/4 md.) Bu Yönetmelik ile sınıf tespiti yapılmamış gayrisıhhî müesseseler için sınıf tespiti; ilgili tesisin neden olabileceği kirleticilerin nitelik ve niceliği ile izalesi konusundaki proje ve açıklama raporu, neden olabileceği çevre sağlığı riskleri, açıklamalı proses akım şeması, eğer kurulu ise kapasite raporu (yoksa kişinin beyanı), toplam motor gücü, toplam personel sayısı ve tesisin diğer özelliklerine ilişkin bilgi ve belgeler dikkate alınarak Sağlık Bakanlığı tarafından yapılarak Çevre, Şehircilik ve İklim Değişikliği Bakanlığına bildirilir.(2)\n\n ––––––––––––––\n (1) 12/3/2012 tarihli ve 2012/2958 sayılı Bakanlar Kurulu Kararının Eki Yönetmeliğin 10 uncu maddesiyle, bu maddenin birinci fıkrasında yer alan “ilgili ise ticaret siciline” ibaresinden sonra gelmek üzere “veya esnaf siciline” ibaresi eklenmiş ve metne işlenmiştir.\n (2) 25/8/2022 tarihli ve 31934 sayılı Resmî Gazete’de yayımlanan 5987 sayılı Cumhurbaşkanı Kararının 2 nci maddesiyle, bu fıkrada yer alan “yapılır.” ibaresi “yapılarak Çevre, Şehircilik ve İklim Değişikliği Bakanlığına bildirilir.” şeklinde değiştirilmiştir.\n 4733",
       "preview": "Bu Yönetmelik kapsamına girmesine rağmen adı ve nitelikleri belirtilmeyen sıhhî bir işyerinin açılması halinde, benzeri işyerleri için öngör…",
       "kitap": null,
-      "kisim": "BİRİNCİ KISIM · Genel Hükümler",
+      "kisim": null,
       "bolum": "İKİNCİ BÖLÜM · Ortak hükümler",
       "ayirim": null,
       "maddeBaslik": "Yönetmelikte yer almayan işyerleri",
       "sectionPath": [
-        "BİRİNCİ KISIM · Genel Hükümler",
         "İKİNCİ BÖLÜM · Ortak hükümler",
         "Yönetmelikte yer almayan işyerleri"
       ]
@@ -185,12 +170,11 @@
       "text": "Adresi ve işleticisi aynı olan ve birden fazla faaliyet konusu bulunan işyerlerine, ana faaliyet dalı esas alınarak tek ruhsat düzenlenir. Talî faaliyet konuları ruhsatta ayrıca belirtilir.\n Aynı adreste bulunsa bile ana faaliyet konusu veya işletmecisi farklı olan işyerlerine ayrı ayrı ruhsat düzenlenir.\n İşyerlerinin depo olarak kullandıkları yerler, işyeri açma ve çalışma ruhsatında gösterilir.\n (Ek fıkra: 23/5/2011 – 2011/1900 K.) Gayrisıhhî müesseseler kapsamına giren maden üretim faaliyetleri ile bu faaliyetlere dayalı olarak üretim yapılan geçici tesisler için birlikte veya ayrı ayrı verilen işyeri açma ve çalışma ruhsatı, ÇED kapsamındaki madencilik faaliyetleri için ÇED koordinatları içindeki alanı, bunun dışındaki madencilik faaliyetleri için maden ruhsat alanının tamamı ile geçici tesisleri kapsar. Maden ruhsat sahasındaki faaliyetler esas alınarak maden ruhsat sahibi adına ya da maden ruhsat sahibinin muvafakati bulunmak kaydıyla işletmeci adına işyeri açma ve çalışma ruhsatı düzenlenir. Ancak, aynı maden ruhsat sahasında bulunsa bile işletmecisi farklı olan maden üretim faaliyetleri ve bu faaliyetlere dayalı olarak üretim yapılan geçici tesisler için ayrı ayrı işyeri açma ve çalışma ruhsatı düzenlenir.\n (Ek fıkra: RG-25/8/2022-31934-C.K-5987/3 md.) Gayrisıhhî müesseselerde tâlî faaliyet konuları, ana faaliyet konusunun sınıfıyla aynı veya alt düzeyde olacak şekilde belirlenir.",
       "preview": "Adresi ve işleticisi aynı olan ve birden fazla faaliyet konusu bulunan işyerlerine, ana faaliyet dalı esas alınarak tek ruhsat düzenlenir. T…",
       "kitap": null,
-      "kisim": "BİRİNCİ KISIM · Genel Hükümler",
+      "kisim": null,
       "bolum": "İKİNCİ BÖLÜM · Ortak hükümler",
       "ayirim": null,
       "maddeBaslik": "Birden fazla faaliyet konusu bulunan işyerleri",
       "sectionPath": [
-        "BİRİNCİ KISIM · Genel Hükümler",
         "İKİNCİ BÖLÜM · Ortak hükümler",
         "Birden fazla faaliyet konusu bulunan işyerleri"
       ]
@@ -203,12 +187,11 @@
       "text": "İşyeri açma ve çalışma ruhsatı, işyerinde herkesin görebileceği şekilde asılır.",
       "preview": "İşyeri açma ve çalışma ruhsatı, işyerinde herkesin görebileceği şekilde asılır.",
       "kitap": null,
-      "kisim": "BİRİNCİ KISIM · Genel Hükümler",
+      "kisim": null,
       "bolum": "İKİNCİ BÖLÜM · Ortak hükümler",
       "ayirim": null,
       "maddeBaslik": "Ruhsatın işyerinde bulundurulması",
       "sectionPath": [
-        "BİRİNCİ KISIM · Genel Hükümler",
         "İKİNCİ BÖLÜM · Ortak hükümler",
         "Ruhsatın işyerinde bulundurulması"
       ]
@@ -812,7 +795,7 @@
       "maddeKind": "madde",
       "maddeNo": "45",
       "heading": "Madde 45",
-      "text": "(Değişik:RG-19/4/2019-30750-C.K.-1003/1 md.)\n Bu Yönetmelikte yer alan hükümlerin uygulanmasına ilişkin olarak il özel idareleri tarafından istenecek görüşler İçişleri Bakanlığınca, diğer yetkili idareler tarafından istenecek görüşler ise Çevre, Şehircilik ve İklim Değişikliği Bakanlığınca verilir. İçişleri Bakanlığı tarafından verilen görüşlerde, uygulama birliğinin sağlanması maksadıyla Çevre, Şehircilik ve İklim Değişikliği Bakanlığının konuyla ilgili görüşü alınır.(1)\n Çevre, Şehircilik ve İklim Değişikliği Bakanlığınca ruhsat düzenlenmesi\n Madde 45/A- (Ek:RG-11/12/2025-33104-CK-10681/5 md.)\n Devletin hüküm ve tasarrufu altında bulunan veya mülkiyeti Hazineye, kamu kurum veya kuruluşlarına veya gerçek kişilere veyahut özel hukuk tüzel kişilerine ait olan taşınmazlar üzerinde kamu veya özel sektör tarafından gerçekleştirilecek olan yatırımlara ya da yürütülecek faaliyetlere ilişkin olarak işletmecilerce bu Yönetmeliğe uygun olarak başvuru yapılmış olduğu halde başvuru tarihinden itibaren iki ay içinde yetkili idarece işyeri açma ve çalışma ruhsatı verilmemesi halinde Çevre, Şehircilik ve İklim Değişikliği Bakanlığı Döner Sermaye İşletmesi Müdürlüğü Yılı Birim Fiyat Listesinde yer alan bedeli mukabilinde resen işyeri açma ve çalışma ruhsatı vermeye Çevre, Şehircilik ve İklim Değişikliği Bakanlığı yetkilidir.\n Bu madde gereğince düzenlenecek işyeri açma ve çalışma ruhsatları, Çevre, Şehircilik ve İklim Değişikliği Bakanlığının il müdürlükleri tarafından düzenlenir.\n Bu madde gereğince işletmeci tarafından ruhsat talebinde bulunulması durumunda il müdürlüğü yetkili idarenin dosyaya ilişkin görüşünü ister. Yetkili idare, işyeri açma ve çalışma ruhsatına ilişkin iş ve işlemlerin yapılmama gerekçesini etraflıca açıklayarak konu hakkındaki görüşünü en geç on beş gün içinde il müdürlüğüne bildirir. Süresinde görüş verilmemesi durumunda başvuruya ilişkin olumlu görüş verilmiş sayılır. Yetkili idare tarafından verilen görüş sonrasında dosyasında en geç on beş gün içinde yapılan incelemede talebin bu Yönetmeliğe uygun olduğunun anlaşılması halinde, il müdürlüğü resen ruhsat düzenlemeye yetkilidir. Yapılan incelemede mevzuata aykırılıkların ve noksanlıkların tespit edilmesi halinde bu aykırılıklar ve noksanlıklar aynı süre içinde başvuru sahibine bildirilir. Aykırılıklar giderildiğinde veya noksanlıklar tamamlandığında yapılacak başvuru üzerine il müdürlüğü resen ruhsat düzenlemeye yetkilidir. İl müdürlüğünce ruhsat düzenlenmesi durumunda düzenlenen ruhsat ile başvuru/beyan formu ve eklerinin onaylı bir örneği ruhsat düzenlendikten sonra en geç üç iş günü içinde yetkili idareye gönderilir.\n İl müdürlükleri, ruhsata esas kesinleştirici mahiyette denetim yapamaz ve düzenlenen ruhsata ilişkin bilgiler ile birlikte denetim yapılması hususunu en geç üç iş günü içinde yetkili idaresine bildirir. Bildirim yapılmasına rağmen yetkili idaresince bu Yönetmelikte düzenlenen süreler içinde denetim yapılmaması halinde sorumluluk yetkili idareye aittir.\n Yetkili idarece yapılacak denetimlerde, ruhsat iptalini veya güncellenmesini gerektiren hususların tespit edilmesi halinde durum, gerekçeleriyle birlikte gereğinin yapılması amacıyla il müdürlüğüne bildirilir.\n\n Yürürlükten kaldırılan yönetmelik",
+      "text": "(Değişik:RG-19/4/2019-30750-C.K.-1003/1 md.)\n Bu Yönetmelikte yer alan hükümlerin uygulanmasına ilişkin olarak il özel idareleri tarafından istenecek görüşler İçişleri Bakanlığınca, diğer yetkili idareler tarafından istenecek görüşler ise Çevre, Şehircilik ve İklim Değişikliği Bakanlığınca verilir. İçişleri Bakanlığı tarafından verilen görüşlerde, uygulama birliğinin sağlanması maksadıyla Çevre, Şehircilik ve İklim Değişikliği Bakanlığının konuyla ilgili görüşü alınır.(1)",
       "preview": "(Değişik:RG-19/4/2019-30750-C.K.-1003/1 md.) Bu Yönetmelikte yer alan hükümlerin uygulanmasına ilişkin olarak il özel idareleri tarafından i…",
       "kitap": null,
       "kisim": "BEŞİNCİ KISIM · Geçici ve Son Hükümler",
@@ -822,6 +805,23 @@
       "sectionPath": [
         "BEŞİNCİ KISIM · Geçici ve Son Hükümler",
         "Uygulamaya ilişkin esaslar"
+      ]
+    },
+    {
+      "id": "yonetmelik:20059207:m:45/A",
+      "maddeKind": "madde",
+      "maddeNo": "45/A",
+      "heading": "Madde 45/A",
+      "text": "(Ek:RG-11/12/2025-33104-CK-10681/5 md.)\n Devletin hüküm ve tasarrufu altında bulunan veya mülkiyeti Hazineye, kamu kurum veya kuruluşlarına veya gerçek kişilere veyahut özel hukuk tüzel kişilerine ait olan taşınmazlar üzerinde kamu veya özel sektör tarafından gerçekleştirilecek olan yatırımlara ya da yürütülecek faaliyetlere ilişkin olarak işletmecilerce bu Yönetmeliğe uygun olarak başvuru yapılmış olduğu halde başvuru tarihinden itibaren iki ay içinde yetkili idarece işyeri açma ve çalışma ruhsatı verilmemesi halinde Çevre, Şehircilik ve İklim Değişikliği Bakanlığı Döner Sermaye İşletmesi Müdürlüğü Yılı Birim Fiyat Listesinde yer alan bedeli mukabilinde resen işyeri açma ve çalışma ruhsatı vermeye Çevre, Şehircilik ve İklim Değişikliği Bakanlığı yetkilidir.\n Bu madde gereğince düzenlenecek işyeri açma ve çalışma ruhsatları, Çevre, Şehircilik ve İklim Değişikliği Bakanlığının il müdürlükleri tarafından düzenlenir.\n Bu madde gereğince işletmeci tarafından ruhsat talebinde bulunulması durumunda il müdürlüğü yetkili idarenin dosyaya ilişkin görüşünü ister. Yetkili idare, işyeri açma ve çalışma ruhsatına ilişkin iş ve işlemlerin yapılmama gerekçesini etraflıca açıklayarak konu hakkındaki görüşünü en geç on beş gün içinde il müdürlüğüne bildirir. Süresinde görüş verilmemesi durumunda başvuruya ilişkin olumlu görüş verilmiş sayılır. Yetkili idare tarafından verilen görüş sonrasında dosyasında en geç on beş gün içinde yapılan incelemede talebin bu Yönetmeliğe uygun olduğunun anlaşılması halinde, il müdürlüğü resen ruhsat düzenlemeye yetkilidir. Yapılan incelemede mevzuata aykırılıkların ve noksanlıkların tespit edilmesi halinde bu aykırılıklar ve noksanlıklar aynı süre içinde başvuru sahibine bildirilir. Aykırılıklar giderildiğinde veya noksanlıklar tamamlandığında yapılacak başvuru üzerine il müdürlüğü resen ruhsat düzenlemeye yetkilidir. İl müdürlüğünce ruhsat düzenlenmesi durumunda düzenlenen ruhsat ile başvuru/beyan formu ve eklerinin onaylı bir örneği ruhsat düzenlendikten sonra en geç üç iş günü içinde yetkili idareye gönderilir.\n İl müdürlükleri, ruhsata esas kesinleştirici mahiyette denetim yapamaz ve düzenlenen ruhsata ilişkin bilgiler ile birlikte denetim yapılması hususunu en geç üç iş günü içinde yetkili idaresine bildirir. Bildirim yapılmasına rağmen yetkili idaresince bu Yönetmelikte düzenlenen süreler içinde denetim yapılmaması halinde sorumluluk yetkili idareye aittir.\n Yetkili idarece yapılacak denetimlerde, ruhsat iptalini veya güncellenmesini gerektiren hususların tespit edilmesi halinde durum, gerekçeleriyle birlikte gereğinin yapılması amacıyla il müdürlüğüne bildirilir.\n\n Yürürlükten kaldırılan yönetmelik",
+      "preview": "(Ek:RG-11/12/2025-33104-CK-10681/5 md.) Devletin hüküm ve tasarrufu altında bulunan veya mülkiyeti Hazineye, kamu kurum veya kuruluşlarına v…",
+      "kitap": null,
+      "kisim": "BEŞİNCİ KISIM · Geçici ve Son Hükümler",
+      "bolum": null,
+      "ayirim": null,
+      "maddeBaslik": "Çevre, Şehircilik ve İklim Değişikliği Bakanlığınca ruhsat düzenlenmesi",
+      "sectionPath": [
+        "BEŞİNCİ KISIM · Geçici ve Son Hükümler",
+        "Çevre, Şehircilik ve İklim Değişikliği Bakanlığınca ruhsat düzenlenmesi"
       ]
     },
     {
@@ -835,10 +835,10 @@
       "kisim": "BEŞİNCİ KISIM · Geçici ve Son Hükümler",
       "bolum": null,
       "ayirim": null,
-      "maddeBaslik": "Uygulamaya ilişkin esaslar",
+      "maddeBaslik": "Çevre, Şehircilik ve İklim Değişikliği Bakanlığınca ruhsat düzenlenmesi",
       "sectionPath": [
         "BEŞİNCİ KISIM · Geçici ve Son Hükümler",
-        "Uygulamaya ilişkin esaslar"
+        "Çevre, Şehircilik ve İklim Değişikliği Bakanlığınca ruhsat düzenlenmesi"
       ]
     },
     {
@@ -1063,7 +1063,7 @@
       ]
     },
     {
-      "id": "yonetmelik:20059207:m:gecici:1",
+      "id": "yonetmelik:20059207:m:gecici:1~2",
       "maddeKind": "gecici",
       "maddeNo": "1",
       "heading": "Geçici Madde 1",

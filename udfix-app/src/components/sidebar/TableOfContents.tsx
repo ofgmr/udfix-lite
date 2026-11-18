@@ -1,47 +1,17 @@
 import React, { useEffect, useState } from 'react';
 import type { Editor } from '@tiptap/react';
+import { bindTableOfContents, type TocHeading } from './tableOfContentsBind';
 
 interface TableOfContentsProps {
     editor: Editor | null;
 }
 
-interface TOCItem {
-    level: number;
-    text: string;
-    pos: number;
-}
-
 const TableOfContents: React.FC<TableOfContentsProps> = ({ editor }) => {
-    const [items, setItems] = useState<TOCItem[]>([]);
+    const [items, setItems] = useState<TocHeading[]>([]);
 
     useEffect(() => {
         if (!editor) return;
-
-        const updateTOC = () => {
-            const headings: TOCItem[] = [];
-            editor.state.doc.descendants((node, pos) => {
-                if (node.type.name === 'heading') {
-                    headings.push({
-                        level: node.attrs.level,
-                        text: node.textContent,
-                        pos
-                    });
-                }
-            });
-            setItems(headings);
-        };
-
-        // Initial update
-        updateTOC();
-
-        // Listen for updates
-        editor.on('update', updateTOC);
-        editor.on('selectionUpdate', updateTOC);
-
-        return () => {
-            editor.off('update', updateTOC);
-            editor.off('selectionUpdate', updateTOC);
-        };
+        return bindTableOfContents(editor, setItems);
     }, [editor]);
 
     const handleItemClick = (pos: number) => {

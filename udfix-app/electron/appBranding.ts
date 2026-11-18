@@ -164,7 +164,7 @@ export function showAboutDialog(): void {
 
     aboutWindow = createBrandedChildWindow({
         width: 340,
-        height: 400,
+        height: 460,
         title: `Hakkında ${UDFIX_APP_NAME}`,
         htmlFile: 'AboutWindow.html',
         query: {

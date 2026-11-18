@@ -8,3 +8,4 @@ export * from './matterUyapMetadata';
 export * from './matterUyapVisibility';
 export * from './matterUyapFormUtils';
 export * from './uyapDosyaTurMapping';
+export * from './uyapHarcMasraf';

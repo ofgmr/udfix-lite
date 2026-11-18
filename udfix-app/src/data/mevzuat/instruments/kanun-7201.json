@@ -13,7 +13,7 @@
   "tertip": 3,
   "sourceUrl": "https://www.mevzuat.gov.tr/mevzuat?MevzuatNo=7201&MevzuatTur=1&MevzuatTertip=3",
   "kabulTarihi": "11/2/1959",
-  "maddeCount": 68,
+  "maddeCount": 71,
   "maddeler": [
     {
       "id": "kanun:7201:m:1",
@@ -114,7 +114,7 @@
       "maddeKind": "madde",
       "maddeNo": "7",
       "heading": "Madde 7",
-      "text": "Tebligat uçakla veya postada kullanılan diğer seri veya hususi vasıtalarla veya muhtelif işaretli telgraflarla da yaptırılabilir.\n Tebliğin bu vasıtalardan hangisiyle yapılacağı alakalının talebi üzerine veya re'sen mahkeme reisi, hakim veya tebliği yaptıracak diğer merciler tarafından tensip edilir. Bu takdirde bunlara ait ücretler, PTT ücretleri tarifesine göre bu vasıtalarla tebliği istiyenden tebliğ ücretinden ayrı olarak alınır.\n\n Elektronik tebligat:\n Madde 7/a - (Ek : 11/1/2011-6099/2 md.) (Değişik:28/2/2018-7101/48 md.)\n Aşağıda belirtilen gerçek ve tüzel kişilere tebligatın elektronik yolla yapılması zorunludur.\n 1. 10/12/2003 tarihli ve 5018 sayılı Kamu Malî Yönetimi ve Kontrol Kanununa ekli (I), (II), (III) ve (IV) sayılı cetvellerde yer alan kamu idareleri ile bunlara bağlı döner sermayeli kuruluşlar.\n 2. 5018 sayılı Kanunda tanımlanan mahallî idareler.\n 3. Özel kanunla kurulmuş diğer kamu kurum ve kuruluşları ile kanunla kurulan fonlar ve kefalet sandıkları.\n 4. Kamu iktisadi teşebbüsleri ile bunların bağlı ortaklıkları, müessese ve işletmeleri.\n 5. Sermayesinin yüzde ellisinden fazlası kamuya ait diğer ortaklıklar.\n 6. Kamu kurumu niteliğindeki meslek kuruluşları ve üst kuruluşları.\n 7. Kanunla kurulanlar da dahil olmak üzere tüm özel hukuk tüzel kişileri.\n 8. Noterler.\n 9. Baro levhasına yazılı avukatlar.\n 10. Sicile kayıtlı arabulucular ve bilirkişiler.\n 11. İdareleri, kamu iktisadi teşebbüslerini veya sermayesinin yüzde ellisinden fazlası kamuya ait diğer ortaklıkları; adli ve idari yargı mercileri, icra müdürlükleri veya hakemler nezdinde vekil sıfatıyla temsile yetkili olan kişilerin bağlı bulunduğu birim.\n Birinci fıkra kapsamı dışında kalan gerçek ve tüzel kişilere, talepleri hâlinde elektronik tebligat adresi verilir. Bu durumda bu kişilere tebligatın elektronik yolla yapılması zorunludur.\n Birinci ve ikinci fıkra hükümlerine göre elektronik yolla tebligatın zorunlu bir sebeple yapılamaması hâlinde bu Kanunda belirtilen diğer usullerle tebligat yapılır.\n Elektronik yolla tebligat, muhatabın elektronik adresine ulaştığı tarihi izleyen beşinci günün sonunda yapılmış sayılır.\n Bu Kanun uyarınca yapılan elektronik tebligat işlemleri, Posta ve Telgraf Teşkilatı Anonim Şirketi tarafından kurulan ve işletilen Ulusal Elektronik Tebligat Sistemi üzerinden yürütülür. Posta ve Telgraf Teşkilatı Anonim Şirketi, sistemin güvenliğini ve bu sistemde kayıtlı verilerin muhafazasını sağlayacak her türlü tedbiri alır.\n Bu maddenin uygulanmasına ilişkin usul ve esaslar yönetmelikle belirlenir.",
+      "text": "Tebligat uçakla veya postada kullanılan diğer seri veya hususi vasıtalarla veya muhtelif işaretli telgraflarla da yaptırılabilir.\n Tebliğin bu vasıtalardan hangisiyle yapılacağı alakalının talebi üzerine veya re'sen mahkeme reisi, hakim veya tebliği yaptıracak diğer merciler tarafından tensip edilir. Bu takdirde bunlara ait ücretler, PTT ücretleri tarifesine göre bu vasıtalarla tebliği istiyenden tebliğ ücretinden ayrı olarak alınır.",
       "preview": "Tebligat uçakla veya postada kullanılan diğer seri veya hususi vasıtalarla veya muhtelif işaretli telgraflarla da yaptırılabilir. Tebliğin b…",
       "kitap": null,
       "kisim": null,
@@ -123,6 +123,22 @@
       "maddeBaslik": "Uçak, telgraf ve diğer vasıtalarla tebligat ve ücretleri:",
       "sectionPath": [
         "Uçak, telgraf ve diğer vasıtalarla tebligat ve ücretleri:"
+      ]
+    },
+    {
+      "id": "kanun:7201:m:7/a",
+      "maddeKind": "madde",
+      "maddeNo": "7/a",
+      "heading": "Madde 7/a",
+      "text": "(Ek : 11/1/2011-6099/2 md.) (Değişik:28/2/2018-7101/48 md.)\n Aşağıda belirtilen gerçek ve tüzel kişilere tebligatın elektronik yolla yapılması zorunludur.\n 1. 10/12/2003 tarihli ve 5018 sayılı Kamu Malî Yönetimi ve Kontrol Kanununa ekli (I), (II), (III) ve (IV) sayılı cetvellerde yer alan kamu idareleri ile bunlara bağlı döner sermayeli kuruluşlar.\n 2. 5018 sayılı Kanunda tanımlanan mahallî idareler.\n 3. Özel kanunla kurulmuş diğer kamu kurum ve kuruluşları ile kanunla kurulan fonlar ve kefalet sandıkları.\n 4. Kamu iktisadi teşebbüsleri ile bunların bağlı ortaklıkları, müessese ve işletmeleri.\n 5. Sermayesinin yüzde ellisinden fazlası kamuya ait diğer ortaklıklar.\n 6. Kamu kurumu niteliğindeki meslek kuruluşları ve üst kuruluşları.\n 7. Kanunla kurulanlar da dahil olmak üzere tüm özel hukuk tüzel kişileri.\n 8. Noterler.\n 9. Baro levhasına yazılı avukatlar.\n 10. Sicile kayıtlı arabulucular ve bilirkişiler.\n 11. İdareleri, kamu iktisadi teşebbüslerini veya sermayesinin yüzde ellisinden fazlası kamuya ait diğer ortaklıkları; adli ve idari yargı mercileri, icra müdürlükleri veya hakemler nezdinde vekil sıfatıyla temsile yetkili olan kişilerin bağlı bulunduğu birim.\n Birinci fıkra kapsamı dışında kalan gerçek ve tüzel kişilere, talepleri hâlinde elektronik tebligat adresi verilir. Bu durumda bu kişilere tebligatın elektronik yolla yapılması zorunludur.\n Birinci ve ikinci fıkra hükümlerine göre elektronik yolla tebligatın zorunlu bir sebeple yapılamaması hâlinde bu Kanunda belirtilen diğer usullerle tebligat yapılır.\n Elektronik yolla tebligat, muhatabın elektronik adresine ulaştığı tarihi izleyen beşinci günün sonunda yapılmış sayılır.\n Bu Kanun uyarınca yapılan elektronik tebligat işlemleri, Posta ve Telgraf Teşkilatı Anonim Şirketi tarafından kurulan ve işletilen Ulusal Elektronik Tebligat Sistemi üzerinden yürütülür. Posta ve Telgraf Teşkilatı Anonim Şirketi, sistemin güvenliğini ve bu sistemde kayıtlı verilerin muhafazasını sağlayacak her türlü tedbiri alır.\n Bu maddenin uygulanmasına ilişkin usul ve esaslar yönetmelikle belirlenir.",
+      "preview": "(Ek : 11/1/2011-6099/2 md.) (Değişik:28/2/2018-7101/48 md.) Aşağıda belirtilen gerçek ve tüzel kişilere tebligatın elektronik yolla yapılmas…",
+      "kitap": null,
+      "kisim": null,
+      "bolum": null,
+      "ayirim": null,
+      "maddeBaslik": "Elektronik tebligat:",
+      "sectionPath": [
+        "Elektronik tebligat:"
       ]
     },
     {
@@ -419,7 +435,7 @@
       "maddeKind": "madde",
       "maddeNo": "25",
       "heading": "Madde 25",
-      "text": "Yabancı memlekette tebliğ o memleketin salahiyetli makamı vasıtasiyle yapılır. Bunun için anlaşma veya o memleket kanunları müsait ise, o yerdeki Türkiye siyasi memuru veya konsolosu tebligat yapılmasını salahiyetli makamdan ister.\n (Mülga: 19/3/2003-4829/18 md.)\n Yabancı memleketlerde bulunan kimselere tebliğ olunacak evrak, tebligatı çıkaran merciin bağlı bulunduğu vekalet vasıtasiyle Dışişleri Bakanlığıne, oradan damemuriyet havzası nazarı itibara alınarak ilgili Türkiye Elçiliğine veya Konsolosluğuna gönderilir.\n (Ek: 6/6/1985 - 3220/8 md.) Şu kadar ki, Dışişleri Bakanlığının aracılığına lüzum görülmeyen hallerde tebligat evrakı, ilgili Bakanlıkça doğrudan doğruya o yerdeki Türkiye Büyükelçiliğine veya Başkonsolosluğuna gönderilebilir.\n\n Siyasî temsilcilik aracılığıyla yabancı ülkedeki Türk vatandaşlarına tebligat:\n Madde 25/a- (Ek: 19/3/2003-4829/8 md.)\n Yabancı ülkede kendisine tebliğ yapılacak kimse Türk vatandaşı olduğu takdirde tebliğ o yerdeki Türkiye Büyükelçiliği veya Konsolosluğu aracılığıyla da yapılabilir.\n Bu hâlde bildirimi Türkiye Büyükelçiliği veya Konsolosluğu veya bunların görevlendireceği bir memur yapar.\n Tebliğin konusu ile hangi merci tarafından çıkarıldığı bilgilerinin yer aldığı ve otuz gün içinde başvurulmadığı takdirde tebliğin yapılmış sayılacağı ihtarını içeren bildirim, muhataba o ülkenin mevzuatının izin verdiği yöntemle gönderilir.\n Bildirimin o ülkenin mevzuatına göre muhataba tebliğ edildiği belgelendirildiğinde, tebliğ tarihinden itibaren otuz gün içinde Türkiye Büyükelçiliği veya Konsolosluğuna başvurulmadığı takdirde tebligat otuzuncu günün bitiminde yapılmış sayılır. Muhatap Türkiye Büyükelçiliği veya Konsolosluğuna başvurduğu takdirde tebliğ evrakını almaktan kaçınırsa bu hususta düzenlenecek tutanak tarihinde tebliğ yapılmış sayılır. Evrak bekletilmeksizin merciine iade edilir.\n (Ek fıkra: 11/1/2011-6099/7 md.) Bu maddeye göre kazaî merciler tarafından çıkarılacak tebligatta, tebliğ evrakı doğrudan o yerdeki Türkiye Büyükelçiliği veya Konsolosluğuna gönderilebilir.",
+      "text": "Yabancı memlekette tebliğ o memleketin salahiyetli makamı vasıtasiyle yapılır. Bunun için anlaşma veya o memleket kanunları müsait ise, o yerdeki Türkiye siyasi memuru veya konsolosu tebligat yapılmasını salahiyetli makamdan ister.\n (Mülga: 19/3/2003-4829/18 md.)\n Yabancı memleketlerde bulunan kimselere tebliğ olunacak evrak, tebligatı çıkaran merciin bağlı bulunduğu vekalet vasıtasiyle Dışişleri Bakanlığıne, oradan damemuriyet havzası nazarı itibara alınarak ilgili Türkiye Elçiliğine veya Konsolosluğuna gönderilir.\n (Ek: 6/6/1985 - 3220/8 md.) Şu kadar ki, Dışişleri Bakanlığının aracılığına lüzum görülmeyen hallerde tebligat evrakı, ilgili Bakanlıkça doğrudan doğruya o yerdeki Türkiye Büyükelçiliğine veya Başkonsolosluğuna gönderilebilir.",
       "preview": "Yabancı memlekette tebliğ o memleketin salahiyetli makamı vasıtasiyle yapılır. Bunun için anlaşma veya o memleket kanunları müsait ise, o ye…",
       "kitap": null,
       "kisim": null,
@@ -432,12 +448,46 @@
       ]
     },
     {
+      "id": "kanun:7201:m:25/a",
+      "maddeKind": "madde",
+      "maddeNo": "25/a",
+      "heading": "Madde 25/a",
+      "text": "(Ek: 19/3/2003-4829/8 md.)\n Yabancı ülkede kendisine tebliğ yapılacak kimse Türk vatandaşı olduğu takdirde tebliğ o yerdeki Türkiye Büyükelçiliği veya Konsolosluğu aracılığıyla da yapılabilir.\n Bu hâlde bildirimi Türkiye Büyükelçiliği veya Konsolosluğu veya bunların görevlendireceği bir memur yapar.\n Tebliğin konusu ile hangi merci tarafından çıkarıldığı bilgilerinin yer aldığı ve otuz gün içinde başvurulmadığı takdirde tebliğin yapılmış sayılacağı ihtarını içeren bildirim, muhataba o ülkenin mevzuatının izin verdiği yöntemle gönderilir.\n Bildirimin o ülkenin mevzuatına göre muhataba tebliğ edildiği belgelendirildiğinde, tebliğ tarihinden itibaren otuz gün içinde Türkiye Büyükelçiliği veya Konsolosluğuna başvurulmadığı takdirde tebligat otuzuncu günün bitiminde yapılmış sayılır. Muhatap Türkiye Büyükelçiliği veya Konsolosluğuna başvurduğu takdirde tebliğ evrakını almaktan kaçınırsa bu hususta düzenlenecek tutanak tarihinde tebliğ yapılmış sayılır. Evrak bekletilmeksizin merciine iade edilir.\n (Ek fıkra: 11/1/2011-6099/7 md.) Bu maddeye göre kazaî merciler tarafından çıkarılacak tebligatta, tebliğ evrakı doğrudan o yerdeki Türkiye Büyükelçiliği veya Konsolosluğuna gönderilebilir.",
+      "preview": "(Ek: 19/3/2003-4829/8 md.) Yabancı ülkede kendisine tebliğ yapılacak kimse Türk vatandaşı olduğu takdirde tebliğ o yerdeki Türkiye Büyükelçi…",
+      "kitap": null,
+      "kisim": null,
+      "bolum": "İKİNCİ FASIL · Tebligat Esasları",
+      "ayirim": null,
+      "maddeBaslik": "Siyasî temsilcilik aracılığıyla yabancı ülkedeki Türk vatandaşlarına tebligat:",
+      "sectionPath": [
+        "İKİNCİ FASIL · Tebligat Esasları",
+        "Siyasî temsilcilik aracılığıyla yabancı ülkedeki Türk vatandaşlarına tebligat:"
+      ]
+    },
+    {
       "id": "kanun:7201:m:26",
       "maddeKind": "madde",
       "maddeNo": "26",
       "heading": "Madde 26",
-      "text": "Anlaşmalar hükümleri ve mütekabiliyet esasları mahfuz kalmak şartiyle, Türkiye'de mukim yerli ve yabancı şahıslara tebliğ edilmek üzere ecnebi bir memleketin elçiliğinden veya havzasında bulunduğu valilik kanalı ile konsolosluğundan Dışişleri Bakanlığına tevdi olunan evrak, ilgili vekalet kanalı ile salahiyetli mercie gönderilir ve tebliğ muamelesinin ifasını mütaakıp tasdikli olarak aynı yollardan iade edilir.\n\n Kuzey Kıbrıs Türk Cumhuriyeti’nde konuşlu askeri birlik, karargâh ve kurumlardan Türkiye Cumhuriyeti’nde bulunan kişi veya kurumlara yapılacak tebligat usulü:\n Madde 26/A- (Ek: 12/6/2024-7517/3 md.)\n Kuzey Kıbrıs Türk Cumhuriyeti’nde konuşlu askeri birlik, karargâh ve kurumlardan Türkiye Cumhuriyeti’nde bulunan kişi veya kurumlara yapılacak tebligatlar, bu Kanun hükümlerine göre Posta ve Telgraf Teşkilatı Anonim Şirketinin istihdam ettiği ya da hizmet alımı suretiyle çalıştırdığı personel veya memur vasıtasıyla yapılır.",
+      "text": "Anlaşmalar hükümleri ve mütekabiliyet esasları mahfuz kalmak şartiyle, Türkiye'de mukim yerli ve yabancı şahıslara tebliğ edilmek üzere ecnebi bir memleketin elçiliğinden veya havzasında bulunduğu valilik kanalı ile konsolosluğundan Dışişleri Bakanlığına tevdi olunan evrak, ilgili vekalet kanalı ile salahiyetli mercie gönderilir ve tebliğ muamelesinin ifasını mütaakıp tasdikli olarak aynı yollardan iade edilir.\n\n Kuzey Kıbrıs Türk Cumhuriyeti’nde konuşlu askeri birlik, karargâh ve kurumlardan Türkiye Cumhuriyeti’nde bulunan kişi veya kurumlara yapılacak tebligat usulü:",
       "preview": "Anlaşmalar hükümleri ve mütekabiliyet esasları mahfuz kalmak şartiyle, Türkiye'de mukim yerli ve yabancı şahıslara tebliğ edilmek üzere ecne…",
+      "kitap": null,
+      "kisim": null,
+      "bolum": "İKİNCİ FASIL · Tebligat Esasları",
+      "ayirim": null,
+      "maddeBaslik": "Türkiye'deki elçilik veya konsolosluklardan tevdi olunan tebligat evrakı:",
+      "sectionPath": [
+        "İKİNCİ FASIL · Tebligat Esasları",
+        "Türkiye'deki elçilik veya konsolosluklardan tevdi olunan tebligat evrakı:"
+      ]
+    },
+    {
+      "id": "kanun:7201:m:26/A",
+      "maddeKind": "madde",
+      "maddeNo": "26/A",
+      "heading": "Madde 26/A",
+      "text": "(Ek: 12/6/2024-7517/3 md.)\n Kuzey Kıbrıs Türk Cumhuriyeti’nde konuşlu askeri birlik, karargâh ve kurumlardan Türkiye Cumhuriyeti’nde bulunan kişi veya kurumlara yapılacak tebligatlar, bu Kanun hükümlerine göre Posta ve Telgraf Teşkilatı Anonim Şirketinin istihdam ettiği ya da hizmet alımı suretiyle çalıştırdığı personel veya memur vasıtasıyla yapılır.",
+      "preview": "(Ek: 12/6/2024-7517/3 md.) Kuzey Kıbrıs Türk Cumhuriyeti’nde konuşlu askeri birlik, karargâh ve kurumlardan Türkiye Cumhuriyeti’nde bulunan…",
       "kitap": null,
       "kisim": null,
       "bolum": "İKİNCİ FASIL · Tebligat Esasları",

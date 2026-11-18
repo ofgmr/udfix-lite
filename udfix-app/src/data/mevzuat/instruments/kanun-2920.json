@@ -12,7 +12,7 @@
   "tertip": 5,
   "sourceUrl": "https://www.mevzuat.gov.tr/mevzuat?MevzuatNo=2920&MevzuatTur=1&MevzuatTertip=5",
   "kabulTarihi": "14/10/1983",
-  "maddeCount": 153,
+  "maddeCount": 154,
   "maddeler": [
     {
       "id": "kanun:2920:m:1",
@@ -1217,8 +1217,8 @@
       "maddeKind": "madde",
       "maddeNo": "68",
       "heading": "Madde 68",
-      "text": "Hava aracının teferruat ve mütemmim cüzüleri hokkında Medeni Kanunun 619 ve 621 inci maddeleri uygulanır.\n\n Öncelikle uygulanacak hüküm\n Madde 68/A– (Ek: 4/7/2012-6353/15 md.)\n Türkiye Cumhuriyeti adına 16/11/2001 tarihinde Cape Town’da imzalanan ve 10/3/2011 tarihli ve 6192 sayılı Kanunla onaylanması uygun bulunan “Taşınır Donanım Üzerindeki Uluslararası Teminatlar Hakkında Sözleşme” ve “Taşınır Donanım Üzerindeki Uluslararası Teminatlar Hakkında Sözleşmeye İlişkin Hava Aracı Donanımına Özgü Konulara Dair Protokol” ile kanunların aynı konuda farklı hükümler içermesi nedeniyle çıkabilecek uyuşmazlıklarda “Taşınır Donanım Üzerindeki Uluslararası Teminatlar Hakkında Sözleşme” ve “Taşınır Donanım Üzerindeki Uluslararası Teminatlar Hakkında Sözleşmeye İlişkin Hava Aracı Donanımına Özgü Konulara Dair Protokol” hükümleri esas alınır.",
-      "preview": "Hava aracının teferruat ve mütemmim cüzüleri hokkında Medeni Kanunun 619 ve 621 inci maddeleri uygulanır. Öncelikle uygulanacak hüküm Madde…",
+      "text": "Hava aracının teferruat ve mütemmim cüzüleri hokkında Medeni Kanunun 619 ve 621 inci maddeleri uygulanır.",
+      "preview": "Hava aracının teferruat ve mütemmim cüzüleri hokkında Medeni Kanunun 619 ve 621 inci maddeleri uygulanır.",
       "kitap": null,
       "kisim": "İKİNCİ KISIM · Hava Seyrüseferinin Genel Hükümleri",
       "bolum": "BEŞİNCİ BÖLÜM · Hava Araçları ve Sicillerin Tutulması",
@@ -1228,6 +1228,24 @@
         "İKİNCİ KISIM · Hava Seyrüseferinin Genel Hükümleri",
         "BEŞİNCİ BÖLÜM · Hava Araçları ve Sicillerin Tutulması",
         "Teferruat ve mütemmim cüzüler"
+      ]
+    },
+    {
+      "id": "kanun:2920:m:68/A",
+      "maddeKind": "madde",
+      "maddeNo": "68/A",
+      "heading": "Madde 68/A",
+      "text": "(Ek: 4/7/2012-6353/15 md.)\n Türkiye Cumhuriyeti adına 16/11/2001 tarihinde Cape Town’da imzalanan ve 10/3/2011 tarihli ve 6192 sayılı Kanunla onaylanması uygun bulunan “Taşınır Donanım Üzerindeki Uluslararası Teminatlar Hakkında Sözleşme” ve “Taşınır Donanım Üzerindeki Uluslararası Teminatlar Hakkında Sözleşmeye İlişkin Hava Aracı Donanımına Özgü Konulara Dair Protokol” ile kanunların aynı konuda farklı hükümler içermesi nedeniyle çıkabilecek uyuşmazlıklarda “Taşınır Donanım Üzerindeki Uluslararası Teminatlar Hakkında Sözleşme” ve “Taşınır Donanım Üzerindeki Uluslararası Teminatlar Hakkında Sözleşmeye İlişkin Hava Aracı Donanımına Özgü Konulara Dair Protokol” hükümleri esas alınır.",
+      "preview": "(Ek: 4/7/2012-6353/15 md.) Türkiye Cumhuriyeti adına 16/11/2001 tarihinde Cape Town’da imzalanan ve 10/3/2011 tarihli ve 6192 sayılı Kanunla…",
+      "kitap": null,
+      "kisim": "İKİNCİ KISIM · Hava Seyrüseferinin Genel Hükümleri",
+      "bolum": "BEŞİNCİ BÖLÜM · Hava Araçları ve Sicillerin Tutulması",
+      "ayirim": null,
+      "maddeBaslik": "Öncelikle uygulanacak hüküm",
+      "sectionPath": [
+        "İKİNCİ KISIM · Hava Seyrüseferinin Genel Hükümleri",
+        "BEŞİNCİ BÖLÜM · Hava Araçları ve Sicillerin Tutulması",
+        "Öncelikle uygulanacak hüküm"
       ]
     },
     {

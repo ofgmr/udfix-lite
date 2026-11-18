@@ -13,7 +13,7 @@
   "tertip": 5,
   "sourceUrl": "https://www.mevzuat.gov.tr/mevzuat?MevzuatNo=2324&MevzuatTur=21&MevzuatTertip=5",
   "kabulTarihi": null,
-  "maddeCount": 148,
+  "maddeCount": 149,
   "maddeler": [
     {
       "id": "yonetmelik:2324:m:1",
@@ -24,13 +24,10 @@
       "preview": "(1) Bu Yönetmeliğin amacı, ceza infaz kurumlarının yönetimine, ceza ve güvenlik tedbirlerinin ne şekilde yerine getirileceğine ilişkin usul…",
       "kitap": null,
       "kisim": null,
-      "bolum": "BİRİNCİ BÖLÜM · Amaç, Kapsam, Dayanak ve Tanımlar",
+      "bolum": null,
       "ayirim": null,
-      "maddeBaslik": "Amaç ve kapsam",
-      "sectionPath": [
-        "BİRİNCİ BÖLÜM · Amaç, Kapsam, Dayanak ve Tanımlar",
-        "Amaç ve kapsam"
-      ]
+      "maddeBaslik": null,
+      "sectionPath": []
     },
     {
       "id": "yonetmelik:2324:m:2",
@@ -41,11 +38,10 @@
       "preview": "(1) Bu Yönetmelik, 14/6/1930 tarihli ve 1721 sayılı Hapishane ve Tevkifhanelerin İdaresi Hakkında Kanun, 6/8/1997 tarihli ve 4301 sayılı Cez…",
       "kitap": null,
       "kisim": null,
-      "bolum": "BİRİNCİ BÖLÜM · Amaç, Kapsam, Dayanak ve Tanımlar",
+      "bolum": null,
       "ayirim": null,
       "maddeBaslik": "Dayanak",
       "sectionPath": [
-        "BİRİNCİ BÖLÜM · Amaç, Kapsam, Dayanak ve Tanımlar",
         "Dayanak"
       ]
     },
@@ -58,11 +54,10 @@
       "preview": "(1) Bu Yönetmelikte yer alan; a) Bakan: Adalet Bakanını, b) Bakanlık: Adalet Bakanlığını, c) Genel Müdür: Ceza ve Tevkifevleri Genel Müdürün…",
       "kitap": null,
       "kisim": null,
-      "bolum": "BİRİNCİ BÖLÜM · Amaç, Kapsam, Dayanak ve Tanımlar",
+      "bolum": null,
       "ayirim": null,
       "maddeBaslik": "Tanımlar",
       "sectionPath": [
-        "BİRİNCİ BÖLÜM · Amaç, Kapsam, Dayanak ve Tanımlar",
         "Tanımlar"
       ]
     },
@@ -1414,7 +1409,7 @@
       "maddeKind": "madde",
       "maddeNo": "83",
       "heading": "Madde 83",
-      "text": "(1) Hükümlüler, kurumların içinde veya dışında işyurduna ait atölye, tesis ve benzeri üniteler ile kurum dışındaki başka işyerlerinde çalıştırılabilirler. Bu çalışmalarına karşılık hükümlülere, İşyurtları Kurumu Yüksek Kurulunca belirlenen ücret ödenir. Açık kurumlardaki hükümlülerden iş temin edildiği hâlde çalışmayanlar, işi savsaklayanlar, boykot edenler, sürekli hastalığı sebebiyle çalışamayacak durumda olanlar ve iş düzenine uyum sağlayamayanlar, işyurdu yönetim kurulu kararı ve infaz hâkiminin onayı ile kapalı kurumlara iade edilirler.\n (2) Hükümlüler kurum dışında kendi işyerlerinde veya üçüncü dereceye kadar kan ve kayın hısımlarına ait iş yerlerinde çalıştırılamazlar. Bu tür işyerlerinde çalıştığı tespit edilen hükümlüler birinci fıkra hükümlerine göre kapalı kuruma iade edilir. Gerekli özeni göstermeyen idareciler hakkında da yasal işlem yapılır.\n (3) Kurum dışında çalıştırılma işveren veya temsilcisi ile işyurdu bulunan kurumlarda işyurdu müdürü, işyurdu bulunmayan kurumlarda ise mahalli Cumhuriyet başsavcısının imzaları ile düzenlenen protokol çerçevesinde gerçekleştirilir. Protokolde ücret, çalışma saatleri, ulaşım, iaşe, güvenlik, protokolün süresi ve diğer hususlar düzenlenir. Protokol kapsamında çalıştırmada hükümlüler için işyurduna ödenecek ücret, onaltı yaştan büyükler için uygulanan asgari ücretten aşağı olamaz. Protokol, onay için Ceza İnfaz Kurumları ile Tutukevleri İşyurtları Kurumuna gönderilir.\n (4) Hükümlüler en az iki kişiden oluşan ekipler hâlinde çalıştırılır.\n (5) Kurum dışında çalışan hükümlülerin çalışma güvenliği işverence sağlanır. İş kazalarının ve meslek hastalıklarının yasal yükümlülüğünden işveren sorumludur.\n (6) Kurum dışında çalıştırılan hükümlülerin, çalıştıkları işyerlerinde gece barındırılmalarına izin verilmez. Çalışılan yer kurumlarına yakınsa, geceleri kurumlarına dönmeleri zorunludur. Kurumların bulunduğu yerin dışında bir işyerinde çalıştırılan hükümlülerin gece barındırılmaları, çalıştıkları yere en yakın açık kurumda, bulunmadığı takdirde kapalı kurumun hükümlü ve tutuklularla irtibatı olmayan bir bölümünde sağlanır.\n\n Bir kamu kurumu veya kuruluşu nezaretinde çalıştırma\n MADDE 83/A- (Ek:RG-12/11/2021-31657-CK-4773/33 md.)\n (1) Açık ceza infaz kurumlarında bulunan hükümlüler, ceza infaz kurumu görevlilerinin denetiminde, kamu kurum ve kuruluşlarının iş alanlarında, geceleyin bu kurum ve kuruluşlar tarafından barındırılmak suretiyle çalıştırılabilirler. Bu şekilde çalıştırılan süre, azami süre sınırına bakılmaksızın 5275 sayılı Kanunun 105/A maddesi uyarınca denetimli serbestlik tedbiri uygulanmak suretiyle infaz edilecek süreye ilave edilir. Hükümlü denetimli serbestlik infaz rejimine bu kapsamda çalıştığı süre kadar erken ayrılır.\n (2) Bu madde kapsamında hükümlü çalıştırmak isteyen kamu kurum ve kuruluşları, taleplerini Genel Müdürlüğe iletir. Talep yazısında çalışılacak iş kolu, çalışma yeri ve hükümlülerin barındırılacakları yer, çalıştırılması düşünülen hükümlü sayısı, yapılacak işin niteliği, çalışılacak süre gibi hususlar belirtilir. Gerektiğinde yerinde inceleme de yapılmak suretiyle talebin uygun olup olmadığına karar verilir.\n (3) Talep, Genel Müdürlükçe uygun görüldüğü takdirde çalışacak hükümlüler; çalışma bölgesindeki kurum ve hükümlü sayısı da göz önünde bulundurularak Genel Müdürlükçe uygun görülecek açık ceza infaz kurumlarının idare ve gözlem kurulları tarafından belirlenir. Bu kapsamda çalıştırılacak hükümlülerin belirlenmesinde hükümlülerin talebi, sağlık ve işe uygunluk durumları, işin niteliği gibi hususlar dikkate alınır.\n (4) Hükümlülerin çalışma gün ve saatleri, ulaşım, iaşe, barınma, güvenlik, iş güvenliği, iş ile ilgili eğitim ve çalışmanın gerekli kıldığı diğer yükümlülükler ilgili kurum ile Genel Müdürlük arasında düzenlenecek bir protokol ile belirlenir.\n (5) Hükümlülerin iyileştirilmesi ve yeniden topluma kazandırılması kapsamında yapılan bu çalışmalarda, işyurtları bünyesinde çalıştırılan usta hükümlülere ödenen gündelikten az olmamak üzere protokol ile belirlenecek tutar, ilgili kurum tarafından doğrudan hükümlülere ödenir ve bu hükümlülerden yiyecek bedelleri alınmaz.\n (6) Bu madde kapsamında çalıştırılan hükümlülerin tutum ve davranışları, çalışma ve yaşam koşullarının uygunluğu ile hükümlülerin bu koşullara uyumu, belirli aralıklarla veya sürekli olarak Genel Müdürlükçe uygun görülen açık ceza infaz kurumu personeli tarafından denetlenir. Bu denetim, elektronik cihazların kullanılması suretiyle de yerine getirilebilir.\n (7) Bu madde kapsamında çalıştırılan hükümlülerin avukat ve noterle görüşme, ziyaret, haberleşme, internetten yararlanma, hediye kabul etme ve beraberinde kişisel eşya bulundurma gibi hak ve yükümlülükleri ile hükümlülerin hak ve yükümlülüklerine dair ilgili mevzuatta düzenlenen diğer hususlara ilişkin usul ve esaslar dördüncü fıkrada belirtilen protokol ile düzenlenir. Protokolde hüküm bulunmaması hâlinde hükümlüyü çalıştıran kurum tarafından belirlenen ilke ve kurallar uygulanır.\n (8) Çalışma ve yaşam koşullarına ilişkin kurallara uyum gösteremediği ilgili kurum tarafından rapor edilen hükümlüler, açık ceza infaz kurumuna geri gönderilir. Hükümlünün açık ceza infaz kurumuna gönderilmesine neden olan eylemi, 5275 sayılı Kanunun disiplin cezalarını düzenleyen hükümleri ile uzlaşır nitelikte ise bu eylem hakkında ayrıca disiplin işlemi yapılır.\n (9) Kurumda çalışmakta iken izne gidip de dönmeyen veya iki günden fazla bir süre geçtikten sonra dönen hükümlüler ile kurumda çalışmakta iken firar eden hükümlüler hakkında Türk Ceza Kanununun 292 nci ve devamı maddeleri uygulanır ve bu hükümlüler kapalı ceza infaz kurumuna gönderilir.\n (10) Bu kapsamda çalıştırılan hükümlülerin cezalarının infazına ilişkin her türlü iş ve işlemler hükümlüyü gönderen açık ceza infaz kurumu tarafından yerine getirilir.\n (11) Bu madde gereğince yapılan çalışmalarda, iyileştirme ve yeniden topluma kazandırma ilkeleri esas alınır.",
+      "text": "(1) Hükümlüler, kurumların içinde veya dışında işyurduna ait atölye, tesis ve benzeri üniteler ile kurum dışındaki başka işyerlerinde çalıştırılabilirler. Bu çalışmalarına karşılık hükümlülere, İşyurtları Kurumu Yüksek Kurulunca belirlenen ücret ödenir. Açık kurumlardaki hükümlülerden iş temin edildiği hâlde çalışmayanlar, işi savsaklayanlar, boykot edenler, sürekli hastalığı sebebiyle çalışamayacak durumda olanlar ve iş düzenine uyum sağlayamayanlar, işyurdu yönetim kurulu kararı ve infaz hâkiminin onayı ile kapalı kurumlara iade edilirler.\n (2) Hükümlüler kurum dışında kendi işyerlerinde veya üçüncü dereceye kadar kan ve kayın hısımlarına ait iş yerlerinde çalıştırılamazlar. Bu tür işyerlerinde çalıştığı tespit edilen hükümlüler birinci fıkra hükümlerine göre kapalı kuruma iade edilir. Gerekli özeni göstermeyen idareciler hakkında da yasal işlem yapılır.\n (3) Kurum dışında çalıştırılma işveren veya temsilcisi ile işyurdu bulunan kurumlarda işyurdu müdürü, işyurdu bulunmayan kurumlarda ise mahalli Cumhuriyet başsavcısının imzaları ile düzenlenen protokol çerçevesinde gerçekleştirilir. Protokolde ücret, çalışma saatleri, ulaşım, iaşe, güvenlik, protokolün süresi ve diğer hususlar düzenlenir. Protokol kapsamında çalıştırmada hükümlüler için işyurduna ödenecek ücret, onaltı yaştan büyükler için uygulanan asgari ücretten aşağı olamaz. Protokol, onay için Ceza İnfaz Kurumları ile Tutukevleri İşyurtları Kurumuna gönderilir.\n (4) Hükümlüler en az iki kişiden oluşan ekipler hâlinde çalıştırılır.\n (5) Kurum dışında çalışan hükümlülerin çalışma güvenliği işverence sağlanır. İş kazalarının ve meslek hastalıklarının yasal yükümlülüğünden işveren sorumludur.\n (6) Kurum dışında çalıştırılan hükümlülerin, çalıştıkları işyerlerinde gece barındırılmalarına izin verilmez. Çalışılan yer kurumlarına yakınsa, geceleri kurumlarına dönmeleri zorunludur. Kurumların bulunduğu yerin dışında bir işyerinde çalıştırılan hükümlülerin gece barındırılmaları, çalıştıkları yere en yakın açık kurumda, bulunmadığı takdirde kapalı kurumun hükümlü ve tutuklularla irtibatı olmayan bir bölümünde sağlanır.",
       "preview": "(1) Hükümlüler, kurumların içinde veya dışında işyurduna ait atölye, tesis ve benzeri üniteler ile kurum dışındaki başka işyerlerinde çalışt…",
       "kitap": null,
       "kisim": null,
@@ -1424,6 +1419,23 @@
       "sectionPath": [
         "ON BİRİNCİ BÖLÜM · Hükümlülerin Yükümlülükleri, Hakları ve Çalıştırılmaları",
         "Kurum içinde ve kurum dışında çalıştırmada uygulanacak ilkeler"
+      ]
+    },
+    {
+      "id": "yonetmelik:2324:m:83/A",
+      "maddeKind": "madde",
+      "maddeNo": "83/A",
+      "heading": "Madde 83/A",
+      "text": "(Ek:RG-12/11/2021-31657-CK-4773/33 md.)\n (1) Açık ceza infaz kurumlarında bulunan hükümlüler, ceza infaz kurumu görevlilerinin denetiminde, kamu kurum ve kuruluşlarının iş alanlarında, geceleyin bu kurum ve kuruluşlar tarafından barındırılmak suretiyle çalıştırılabilirler. Bu şekilde çalıştırılan süre, azami süre sınırına bakılmaksızın 5275 sayılı Kanunun 105/A maddesi uyarınca denetimli serbestlik tedbiri uygulanmak suretiyle infaz edilecek süreye ilave edilir. Hükümlü denetimli serbestlik infaz rejimine bu kapsamda çalıştığı süre kadar erken ayrılır.\n (2) Bu madde kapsamında hükümlü çalıştırmak isteyen kamu kurum ve kuruluşları, taleplerini Genel Müdürlüğe iletir. Talep yazısında çalışılacak iş kolu, çalışma yeri ve hükümlülerin barındırılacakları yer, çalıştırılması düşünülen hükümlü sayısı, yapılacak işin niteliği, çalışılacak süre gibi hususlar belirtilir. Gerektiğinde yerinde inceleme de yapılmak suretiyle talebin uygun olup olmadığına karar verilir.\n (3) Talep, Genel Müdürlükçe uygun görüldüğü takdirde çalışacak hükümlüler; çalışma bölgesindeki kurum ve hükümlü sayısı da göz önünde bulundurularak Genel Müdürlükçe uygun görülecek açık ceza infaz kurumlarının idare ve gözlem kurulları tarafından belirlenir. Bu kapsamda çalıştırılacak hükümlülerin belirlenmesinde hükümlülerin talebi, sağlık ve işe uygunluk durumları, işin niteliği gibi hususlar dikkate alınır.\n (4) Hükümlülerin çalışma gün ve saatleri, ulaşım, iaşe, barınma, güvenlik, iş güvenliği, iş ile ilgili eğitim ve çalışmanın gerekli kıldığı diğer yükümlülükler ilgili kurum ile Genel Müdürlük arasında düzenlenecek bir protokol ile belirlenir.\n (5) Hükümlülerin iyileştirilmesi ve yeniden topluma kazandırılması kapsamında yapılan bu çalışmalarda, işyurtları bünyesinde çalıştırılan usta hükümlülere ödenen gündelikten az olmamak üzere protokol ile belirlenecek tutar, ilgili kurum tarafından doğrudan hükümlülere ödenir ve bu hükümlülerden yiyecek bedelleri alınmaz.\n (6) Bu madde kapsamında çalıştırılan hükümlülerin tutum ve davranışları, çalışma ve yaşam koşullarının uygunluğu ile hükümlülerin bu koşullara uyumu, belirli aralıklarla veya sürekli olarak Genel Müdürlükçe uygun görülen açık ceza infaz kurumu personeli tarafından denetlenir. Bu denetim, elektronik cihazların kullanılması suretiyle de yerine getirilebilir.\n (7) Bu madde kapsamında çalıştırılan hükümlülerin avukat ve noterle görüşme, ziyaret, haberleşme, internetten yararlanma, hediye kabul etme ve beraberinde kişisel eşya bulundurma gibi hak ve yükümlülükleri ile hükümlülerin hak ve yükümlülüklerine dair ilgili mevzuatta düzenlenen diğer hususlara ilişkin usul ve esaslar dördüncü fıkrada belirtilen protokol ile düzenlenir. Protokolde hüküm bulunmaması hâlinde hükümlüyü çalıştıran kurum tarafından belirlenen ilke ve kurallar uygulanır.\n (8) Çalışma ve yaşam koşullarına ilişkin kurallara uyum gösteremediği ilgili kurum tarafından rapor edilen hükümlüler, açık ceza infaz kurumuna geri gönderilir. Hükümlünün açık ceza infaz kurumuna gönderilmesine neden olan eylemi, 5275 sayılı Kanunun disiplin cezalarını düzenleyen hükümleri ile uzlaşır nitelikte ise bu eylem hakkında ayrıca disiplin işlemi yapılır.\n (9) Kurumda çalışmakta iken izne gidip de dönmeyen veya iki günden fazla bir süre geçtikten sonra dönen hükümlüler ile kurumda çalışmakta iken firar eden hükümlüler hakkında Türk Ceza Kanununun 292 nci ve devamı maddeleri uygulanır ve bu hükümlüler kapalı ceza infaz kurumuna gönderilir.\n (10) Bu kapsamda çalıştırılan hükümlülerin cezalarının infazına ilişkin her türlü iş ve işlemler hükümlüyü gönderen açık ceza infaz kurumu tarafından yerine getirilir.\n (11) Bu madde gereğince yapılan çalışmalarda, iyileştirme ve yeniden topluma kazandırma ilkeleri esas alınır.",
+      "preview": "(Ek:RG-12/11/2021-31657-CK-4773/33 md.) (1) Açık ceza infaz kurumlarında bulunan hükümlüler, ceza infaz kurumu görevlilerinin denetiminde, k…",
+      "kitap": null,
+      "kisim": null,
+      "bolum": "ON BİRİNCİ BÖLÜM · Hükümlülerin Yükümlülükleri, Hakları ve Çalıştırılmaları",
+      "ayirim": null,
+      "maddeBaslik": "Bir kamu kurumu veya kuruluşu nezaretinde çalıştırma",
+      "sectionPath": [
+        "ON BİRİNCİ BÖLÜM · Hükümlülerin Yükümlülükleri, Hakları ve Çalıştırılmaları",
+        "Bir kamu kurumu veya kuruluşu nezaretinde çalıştırma"
       ]
     },
     {

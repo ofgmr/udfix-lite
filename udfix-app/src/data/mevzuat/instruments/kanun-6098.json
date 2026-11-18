@@ -13,7 +13,7 @@
   "tertip": 5,
   "sourceUrl": "https://www.mevzuat.gov.tr/mevzuat?MevzuatNo=6098&MevzuatTur=1&MevzuatTertip=5",
   "kabulTarihi": "11/1/2011",
-  "maddeCount": 650,
+  "maddeCount": 649,
   "maddeler": [
     {
       "id": "kanun:6098:m:1",
@@ -12841,8 +12841,8 @@
       "maddeKind": "madde",
       "maddeNo": "649",
       "heading": "Madde 649",
-      "text": "Bu Kanun hükümlerini Bakanlar Kurulu yürütür.",
-      "preview": "Bu Kanun hükümlerini Bakanlar Kurulu yürütür.",
+      "text": "Bu Kanun hükümlerini Bakanlar Kurulu yürütür.\n\n1- 31/3/2011 tarihli ve 6217 sayılı Kanunun hükmüdür:\n\nGeçici Madde 2 -\n(Değişik: 4/7/2012-6353/53 md.)\n Kiracının Türk Ticaret Kanununda tacir olarak sayılan kişiler ile özel hukuk ve kamu hukuku tüzel kişileri olduğu işyeri kiralarında, 11/1/2011 tarihli ve 6098 sayılı Türk Borçlar Kanununun 323, 325, 331, 340, 342, 343, 344, 346 ve 354 üncü maddeleri 1/7/2012 tarihinden itibaren 8 yıl süreyle uygulanmaz. Bu halde, kira sözleşmelerinde bu maddelerde belirtilmiş olan konulara ilişkin olarak sözleşme serbestisi gereği kira sözleşmesi hükümleri tatbik olunur. Kira sözleşmelerinde hüküm olmayan hallerde mülga Borçlar Kanunu hükümleri uygulanır.\n\n 6098 SAYILI KANUNA EK VE DEĞİŞİKLİK GETİREN MEVZUATIN VEYA\n ANAYASA MAHKEMESİ KARARLARININ YÜRÜRLÜĞE GİRİŞ\n TARİHLERİNİ GÖSTERİR TABLO\n\n Değiştiren Kanunun/ KHK’nin veya İptal Eden Anayasa Mahkemesi Kararının Numarası\n 6098 Sayılı Kanunun Değişen veya İptal Edilen Maddeleri\n Yürürlüğe Giriş Tarihi\n\n 6111\n 15\n 1/7/2012\n\n 6217\n İşlenemeyen Hüküm\n 14/4/2011\n\n 6353\n İşlenemeyen Hüküm\n 12/7/2012\n\n 6455\n 584\n 11/4/2013\n\n KHK/700\n 256, 407\n 24/6/2018 tarihinde birlikte yapılan Türkiye Büyük Millet Meclisi ve Cumhurbaşkanlığı seçimleri sonucunda Cumhurbaşkanının andiçerek göreve başladığı tarihte\n (9/7/2018)\n\n 7161\n 344\n 1/1/2019 tarihinden geçerli olmak üzere yayımı tarihinde\n\n 7409\n Geçici Madde 1\n 11/6/2022\n\n 7456\n Geçici Madde 2\n 15/7/2023\n\n 7589\n 55\n 31/7/2026\n\n [1] 2/7/2018 tarihli ve 700 sayılı Kanun Hükmünde Kararnamenin 190 ıncı maddesiyle bu fıkrada yer alan “Bakanlar Kurulu” ibaresi “Cumhurbaşkanı” şeklinde değiştirilmiştir.\n\n [2] Bu madde 1/7/2012 tarihinden itibaren 8 yıl süreyle uygulanmaz. Bu halde, kira sözleşmelerinde bu maddelerde belirtilmiş olan konulara ilişkin olarak sözleşme serbestisi gereği kira sözleşmesi hükümleri tatbik olunur. Kira sözleşmelerinde hüküm olmayan hallerde mülga Borçlar Kanunu hükümleri uygulanır.\n\n [3] 17/1/2019 tarihli ve 7161 sayılı Kanunun 56 ncı maddesiyle, bu maddenin birinci ve ikinci fıkrasında yer alan “üretici fiyat endeksindeki artış” ibareleri “tüketici fiyat endeksindeki oniki aylık ortalamalara göre değişim” şeklinde değiştirilmiştir.\n\n [4] 17/1/2019 tarihli ve 7161 sayılı Kanunun 56 ncı maddesiyle , bu maddenin üçüncü fıkrasında yer alan “üretici fiyat endeksindeki artış” ibaresi “tüketici fiyat endeksindeki oniki aylık ortalamalara göre değişim” şeklinde değiştirilmiş ve maddenin dördüncü fıkrasına “kararlaştırılmışsa,” ibaresinden sonra gelmek üzere “20/2/1930 tarihli ve 1567 sayılı Türk Parasının Kıymetini Koruma Hakkında Kanun hükümleri saklı kalmak şartıyla,” ibaresi eklenmiştir.\n\n [5] 2/7/2018 tarihli ve 700 sayılı Kanun Hükmünde Kararnamenin 190 ıncı maddesiyle bu fıkrada yer alan “Çalışma ve Sosyal Güvenlik Bakanlığı, Maliye Bakanlığı ve Hazine Müsteşarlığından sorumlu Devlet Bakanlığı müştereken” ibaresi “Cumhurbaşkanlığı” şeklinde değiştirilmiştir.",
+      "preview": "Bu Kanun hükümlerini Bakanlar Kurulu yürütür. 1- 31/3/2011 tarihli ve 6217 sayılı Kanunun hükmüdür: Geçici Madde 2 - (Değişik: 4/7/2012-6353…",
       "kitap": null,
       "kisim": "İKİNCİ KISIM · Özel Borç İlişkileri",
       "bolum": "ONSEKİZİNCİ BÖLÜM · Adi Ortaklık Sözleşmesi",
@@ -12852,24 +12852,6 @@
         "İKİNCİ KISIM · Özel Borç İlişkileri",
         "ONSEKİZİNCİ BÖLÜM · Adi Ortaklık Sözleşmesi",
         "Yürütme"
-      ]
-    },
-    {
-      "id": "kanun:6098:m:gecici:2",
-      "maddeKind": "gecici",
-      "maddeNo": "2",
-      "heading": "Geçici Madde 2",
-      "text": "(Değişik: 4/7/2012-6353/53 md.)\n Kiracının Türk Ticaret Kanununda tacir olarak sayılan kişiler ile özel hukuk ve kamu hukuku tüzel kişileri olduğu işyeri kiralarında, 11/1/2011 tarihli ve 6098 sayılı Türk Borçlar Kanununun 323, 325, 331, 340, 342, 343, 344, 346 ve 354 üncü maddeleri 1/7/2012 tarihinden itibaren 8 yıl süreyle uygulanmaz. Bu halde, kira sözleşmelerinde bu maddelerde belirtilmiş olan konulara ilişkin olarak sözleşme serbestisi gereği kira sözleşmesi hükümleri tatbik olunur. Kira sözleşmelerinde hüküm olmayan hallerde mülga Borçlar Kanunu hükümleri uygulanır.\n\n 6098 SAYILI KANUNA EK VE DEĞİŞİKLİK GETİREN MEVZUATIN VEYA\n ANAYASA MAHKEMESİ KARARLARININ YÜRÜRLÜĞE GİRİŞ\n TARİHLERİNİ GÖSTERİR TABLO\n\n Değiştiren Kanunun/ KHK’nin veya İptal Eden Anayasa Mahkemesi Kararının Numarası\n 6098 Sayılı Kanunun Değişen veya İptal Edilen Maddeleri\n Yürürlüğe Giriş Tarihi\n\n 6111\n 15\n 1/7/2012\n\n 6217\n İşlenemeyen Hüküm\n 14/4/2011\n\n 6353\n İşlenemeyen Hüküm\n 12/7/2012\n\n 6455\n 584\n 11/4/2013\n\n KHK/700\n 256, 407\n 24/6/2018 tarihinde birlikte yapılan Türkiye Büyük Millet Meclisi ve Cumhurbaşkanlığı seçimleri sonucunda Cumhurbaşkanının andiçerek göreve başladığı tarihte\n (9/7/2018)\n\n 7161\n 344\n 1/1/2019 tarihinden geçerli olmak üzere yayımı tarihinde\n\n 7409\n Geçici Madde 1\n 11/6/2022\n\n 7456\n Geçici Madde 2\n 15/7/2023\n\n 7589\n 55\n 31/7/2026\n\n [1] 2/7/2018 tarihli ve 700 sayılı Kanun Hükmünde Kararnamenin 190 ıncı maddesiyle bu fıkrada yer alan “Bakanlar Kurulu” ibaresi “Cumhurbaşkanı” şeklinde değiştirilmiştir.\n\n [2] Bu madde 1/7/2012 tarihinden itibaren 8 yıl süreyle uygulanmaz. Bu halde, kira sözleşmelerinde bu maddelerde belirtilmiş olan konulara ilişkin olarak sözleşme serbestisi gereği kira sözleşmesi hükümleri tatbik olunur. Kira sözleşmelerinde hüküm olmayan hallerde mülga Borçlar Kanunu hükümleri uygulanır.\n\n [3] 17/1/2019 tarihli ve 7161 sayılı Kanunun 56 ncı maddesiyle, bu maddenin birinci ve ikinci fıkrasında yer alan “üretici fiyat endeksindeki artış” ibareleri “tüketici fiyat endeksindeki oniki aylık ortalamalara göre değişim” şeklinde değiştirilmiştir.\n\n [4] 17/1/2019 tarihli ve 7161 sayılı Kanunun 56 ncı maddesiyle , bu maddenin üçüncü fıkrasında yer alan “üretici fiyat endeksindeki artış” ibaresi “tüketici fiyat endeksindeki oniki aylık ortalamalara göre değişim” şeklinde değiştirilmiş ve maddenin dördüncü fıkrasına “kararlaştırılmışsa,” ibaresinden sonra gelmek üzere “20/2/1930 tarihli ve 1567 sayılı Türk Parasının Kıymetini Koruma Hakkında Kanun hükümleri saklı kalmak şartıyla,” ibaresi eklenmiştir.\n\n [5] 2/7/2018 tarihli ve 700 sayılı Kanun Hükmünde Kararnamenin 190 ıncı maddesiyle bu fıkrada yer alan “Çalışma ve Sosyal Güvenlik Bakanlığı, Maliye Bakanlığı ve Hazine Müsteşarlığından sorumlu Devlet Bakanlığı müştereken” ibaresi “Cumhurbaşkanlığı” şeklinde değiştirilmiştir.",
-      "preview": "(Değişik: 4/7/2012-6353/53 md.) Kiracının Türk Ticaret Kanununda tacir olarak sayılan kişiler ile özel hukuk ve kamu hukuku tüzel kişileri o…",
-      "kitap": null,
-      "kisim": "İKİNCİ KISIM · Özel Borç İlişkileri",
-      "bolum": "ONSEKİZİNCİ BÖLÜM · Adi Ortaklık Sözleşmesi",
-      "ayirim": null,
-      "maddeBaslik": "1- 31/3/2011 tarihli ve 6217 sayılı Kanunun hükmüdür:",
-      "sectionPath": [
-        "İKİNCİ KISIM · Özel Borç İlişkileri",
-        "ONSEKİZİNCİ BÖLÜM · Adi Ortaklık Sözleşmesi",
-        "1- 31/3/2011 tarihli ve 6217 sayılı Kanunun hükmüdür:"
       ]
     }
   ]

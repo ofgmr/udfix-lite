@@ -86,7 +86,7 @@ const EditorFloatingToolbar: React.FC<EditorFloatingToolbarProps> = ({
             return;
         }
 
-        let debounceId: ReturnType<typeof setTimeout> | null = null;
+        let debounceId: number | null = null;
         const updatePageCount = () => {
             if (debounceId !== null) window.clearTimeout(debounceId);
             debounceId = window.setTimeout(() => {
@@ -216,7 +216,7 @@ const EditorFloatingToolbar: React.FC<EditorFloatingToolbarProps> = ({
                                 >
                                     <MaterialIcon icon="zoom_in" size={20} />
                                 </SelectTrigger>
-                    <SelectContent className="min-w-[120px]" align="start" side="right">
+                    <SelectContent className="glass-glow min-w-[120px]" align="start" side="right">
                         {ZOOM_PRESETS.map((z) => (
                             <SelectItem key={z.value} value={String(Math.round(z.value * 100))}>
                                 {z.label}

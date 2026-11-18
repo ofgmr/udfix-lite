@@ -12,7 +12,7 @@
   "tertip": 5,
   "sourceUrl": "https://www.mevzuat.gov.tr/mevzuat?MevzuatNo=6493&MevzuatTur=1&MevzuatTertip=5",
   "kabulTarihi": "20/6/2013",
-  "maddeCount": 45,
+  "maddeCount": 46,
   "maddeler": [
     {
       "id": "kanun:6493:m:1",
@@ -23,13 +23,10 @@
       "preview": "(1) Bu Kanunun amacı, ödeme ve menkul kıymet mutabakat sistemlerine, ödeme hizmetlerine, ödeme kuruluşlarına ve elektronik para kuruluşların…",
       "kitap": null,
       "kisim": null,
-      "bolum": "BİRİNCİ BÖLÜM · Amaç, Kapsam ve Tanımlar",
+      "bolum": null,
       "ayirim": null,
-      "maddeBaslik": "Amaç",
-      "sectionPath": [
-        "BİRİNCİ BÖLÜM · Amaç, Kapsam ve Tanımlar",
-        "Amaç"
-      ]
+      "maddeBaslik": null,
+      "sectionPath": []
     },
     {
       "id": "kanun:6493:m:2",
@@ -40,11 +37,10 @@
       "preview": "(1) Bu Kanun, ödeme ve menkul kıymet mutabakat sistemlerini, ödeme hizmetlerini, ödeme kuruluşları ile elektronik para kuruluşlarını kapsar.",
       "kitap": null,
       "kisim": null,
-      "bolum": "BİRİNCİ BÖLÜM · Amaç, Kapsam ve Tanımlar",
+      "bolum": null,
       "ayirim": null,
       "maddeBaslik": "Kapsam",
       "sectionPath": [
-        "BİRİNCİ BÖLÜM · Amaç, Kapsam ve Tanımlar",
         "Kapsam"
       ]
     },
@@ -57,11 +53,10 @@
       "preview": "(1) Bu Kanunun uygulanmasında; a) Alıcı: Ödeme işlemine konu fonun ulaşması istenen gerçek veya tüzel kişiyi, b) Banka: Türkiye Cumhuriyet M…",
       "kitap": null,
       "kisim": null,
-      "bolum": "BİRİNCİ BÖLÜM · Amaç, Kapsam ve Tanımlar",
+      "bolum": null,
       "ayirim": null,
       "maddeBaslik": "Tanımlar",
       "sectionPath": [
-        "BİRİNCİ BÖLÜM · Amaç, Kapsam ve Tanımlar",
         "Tanımlar"
       ]
     },
@@ -240,7 +235,7 @@
       "maddeKind": "madde",
       "maddeNo": "14",
       "heading": "Madde 14",
-      "text": "(1) Bu Kanun kapsamında ödeme hizmetleri alanında faaliyette bulunmak isteyen ödeme kuruluşu Bankadan izin almak kaydıyla faaliyette bulunabilir.\n (2) Ödeme kuruluşunun;\n a) Anonim şirket şeklinde kurulması,\n b) Sermayesinde yüzde on ve üzerinde paya sahip olanların ve kontrolü elinde bulunduranların 5411 sayılı Kanunda banka kurucuları için aranan nitelikleri haiz olması,\n c) Pay senetlerinin nakit karşılığı çıkarılması ve tamamının nama yazılı olması,\n ç) Nakden ve her türlü muvazaadan ari ödenmiş sermayesinin bu Kanunun 12 nci maddesinin birinci fıkrasının (e) bendinde yer alan hizmetleri sunan ödeme kuruluşları için en az bir milyon Türk Lirası, diğer ödeme kuruluşları için ise en az iki milyon Türk Lirası olması,\n d) Bu Kanun kapsamındaki işlemleri gerçekleştirebilecek yönetim, yeterli personel ve teknik donanıma sahip olması ve şikâyet ve itirazlarla ilgili birimleri oluşturması,\n e) Bu Kanun kapsamında yürütecekleri faaliyetlerin sürekliliğine ve ödeme hizmeti kullanıcılarına ilişkin fon ve bilgilerin güvenliğine ve gizliliğine dair gerekli tedbirleri alması,\n f) Bankanın denetimini engellemeyecek şeffaf ve açık bir ortaklık yapısı ve organizasyon şemasına sahip olması,\n şarttır.\n (3) Ödeme kuruluşu, ödeme hizmeti sunarken sadece ödeme işlemi için kullanılıyor olması şartıyla ödeme hesabı tutabilir. Ödeme ve elektronik para kuruluşlarının ödeme hizmeti ile ilgili olarak aldığı fonlar, 5411 sayılı Kanunun 60 ıncı maddesine göre mevduat veya katılım fonu veya bu Kanun kapsamında elektronik para olarak değerlendirilmez.\n (4) Ödeme kuruluşu kredi verme faaliyetinde bulunamaz. Ödeme hizmetleri ile ilgili olarak yürütülen faaliyetlerin kredi verme faaliyeti kapsamına girip girmediği Bankaca çıkarılacak yönetmelikle belirlenir.\n (5) Banka, ödeme kuruluşu tarafından yapılamayacak faaliyetleri belirlemeye yetkilidir.\n (6) Bu maddenin uygulanmasına, ödeme kuruluşunun kurulmasına ilişkin istenecek bilgi ve belgelere, işleyişine, sermaye ve özkaynak yapısına, şube, temsilci veya dış hizmet sağlayıcı kullanımına, kurumsal yönetim ilkelerine, iç sistemlerine, bilgi sistemleri yönetimine ve bu Kanun kapsamına girmeyen diğer faaliyetlerine ilişkin usul ve esaslar, Mali Suçları Araştırma Kurulunun görüşünün alınması suretiyle Bankaca çıkarılacak yönetmelikle belirlenir.\n\n Özellik gösteren ödeme hizmetleri\n MADDE 14/A- (Ek:12/11/2019-7192/9 md.)\n (1) 12 nci maddenin birinci fıkrasının münhasıran (g) bendinde yer alan hizmeti sunan ödeme kuruluşları için bu Kanunda öngörülen pay senetlerinin nakit karşılığı çıkarılması, tamamının nama yazılı olması ve asgari sermaye yükümlülüğü aranmaz.\n (2) Banka, bir ödeme hizmeti sağlayıcısındaki verilerin 12 nci maddenin birinci fıkrasının (f) ve (g) bentlerinde yer alan faaliyetler kapsamında başka bir ödeme hizmeti sağlayıcısı ile paylaşılmasına ilişkin her türlü usul ve esası belirlemeye yetkilidir.",
+      "text": "(1) Bu Kanun kapsamında ödeme hizmetleri alanında faaliyette bulunmak isteyen ödeme kuruluşu Bankadan izin almak kaydıyla faaliyette bulunabilir.\n (2) Ödeme kuruluşunun;\n a) Anonim şirket şeklinde kurulması,\n b) Sermayesinde yüzde on ve üzerinde paya sahip olanların ve kontrolü elinde bulunduranların 5411 sayılı Kanunda banka kurucuları için aranan nitelikleri haiz olması,\n c) Pay senetlerinin nakit karşılığı çıkarılması ve tamamının nama yazılı olması,\n ç) Nakden ve her türlü muvazaadan ari ödenmiş sermayesinin bu Kanunun 12 nci maddesinin birinci fıkrasının (e) bendinde yer alan hizmetleri sunan ödeme kuruluşları için en az bir milyon Türk Lirası, diğer ödeme kuruluşları için ise en az iki milyon Türk Lirası olması,\n d) Bu Kanun kapsamındaki işlemleri gerçekleştirebilecek yönetim, yeterli personel ve teknik donanıma sahip olması ve şikâyet ve itirazlarla ilgili birimleri oluşturması,\n e) Bu Kanun kapsamında yürütecekleri faaliyetlerin sürekliliğine ve ödeme hizmeti kullanıcılarına ilişkin fon ve bilgilerin güvenliğine ve gizliliğine dair gerekli tedbirleri alması,\n f) Bankanın denetimini engellemeyecek şeffaf ve açık bir ortaklık yapısı ve organizasyon şemasına sahip olması,\n şarttır.\n (3) Ödeme kuruluşu, ödeme hizmeti sunarken sadece ödeme işlemi için kullanılıyor olması şartıyla ödeme hesabı tutabilir. Ödeme ve elektronik para kuruluşlarının ödeme hizmeti ile ilgili olarak aldığı fonlar, 5411 sayılı Kanunun 60 ıncı maddesine göre mevduat veya katılım fonu veya bu Kanun kapsamında elektronik para olarak değerlendirilmez.\n (4) Ödeme kuruluşu kredi verme faaliyetinde bulunamaz. Ödeme hizmetleri ile ilgili olarak yürütülen faaliyetlerin kredi verme faaliyeti kapsamına girip girmediği Bankaca çıkarılacak yönetmelikle belirlenir.\n (5) Banka, ödeme kuruluşu tarafından yapılamayacak faaliyetleri belirlemeye yetkilidir.\n (6) Bu maddenin uygulanmasına, ödeme kuruluşunun kurulmasına ilişkin istenecek bilgi ve belgelere, işleyişine, sermaye ve özkaynak yapısına, şube, temsilci veya dış hizmet sağlayıcı kullanımına, kurumsal yönetim ilkelerine, iç sistemlerine, bilgi sistemleri yönetimine ve bu Kanun kapsamına girmeyen diğer faaliyetlerine ilişkin usul ve esaslar, Mali Suçları Araştırma Kurulunun görüşünün alınması suretiyle Bankaca çıkarılacak yönetmelikle belirlenir.",
       "preview": "(1) Bu Kanun kapsamında ödeme hizmetleri alanında faaliyette bulunmak isteyen ödeme kuruluşu Bankadan izin almak kaydıyla faaliyette bulunab…",
       "kitap": null,
       "kisim": null,
@@ -250,6 +245,23 @@
       "sectionPath": [
         "DÖRDÜNCÜ BÖLÜM · Ödeme Hizmetleri ve Ödeme Kuruluşları",
         "Ödeme kuruluşu[3]"
+      ]
+    },
+    {
+      "id": "kanun:6493:m:14/A",
+      "maddeKind": "madde",
+      "maddeNo": "14/A",
+      "heading": "Madde 14/A",
+      "text": "(Ek:12/11/2019-7192/9 md.)\n (1) 12 nci maddenin birinci fıkrasının münhasıran (g) bendinde yer alan hizmeti sunan ödeme kuruluşları için bu Kanunda öngörülen pay senetlerinin nakit karşılığı çıkarılması, tamamının nama yazılı olması ve asgari sermaye yükümlülüğü aranmaz.\n (2) Banka, bir ödeme hizmeti sağlayıcısındaki verilerin 12 nci maddenin birinci fıkrasının (f) ve (g) bentlerinde yer alan faaliyetler kapsamında başka bir ödeme hizmeti sağlayıcısı ile paylaşılmasına ilişkin her türlü usul ve esası belirlemeye yetkilidir.",
+      "preview": "(Ek:12/11/2019-7192/9 md.) (1) 12 nci maddenin birinci fıkrasının münhasıran (g) bendinde yer alan hizmeti sunan ödeme kuruluşları için bu K…",
+      "kitap": null,
+      "kisim": null,
+      "bolum": "DÖRDÜNCÜ BÖLÜM · Ödeme Hizmetleri ve Ödeme Kuruluşları",
+      "ayirim": null,
+      "maddeBaslik": "Özellik gösteren ödeme hizmetleri",
+      "sectionPath": [
+        "DÖRDÜNCÜ BÖLÜM · Ödeme Hizmetleri ve Ödeme Kuruluşları",
+        "Özellik gösteren ödeme hizmetleri"
       ]
     },
     {

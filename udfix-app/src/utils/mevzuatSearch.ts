@@ -7,7 +7,7 @@ import {
     type MevzuatAliasSource,
     type MevzuatCitation,
 } from './mevzuatCitation';
-import { turkishHaystack, turkishHaystackIncludes } from './turkishSearch';
+import { turkishHaystack, turkishHaystackIncludes, turkishSearchFold } from './turkishSearch';
 
 export const MEVZUAT_SEARCH_LIMIT = 40;
 
@@ -65,7 +65,9 @@ function hitFromMadde(
 
 function findCitedMadde(instrument: MevzuatInstrumentFile, citation: MevzuatCitation) {
     return instrument.maddeler.find(
-        (madde) => madde.maddeKind === citation.maddeKind && madde.maddeNo === citation.maddeNo,
+        (madde) =>
+            madde.maddeKind === citation.maddeKind &&
+            turkishSearchFold(madde.maddeNo) === turkishSearchFold(citation.maddeNo),
     );
 }
 

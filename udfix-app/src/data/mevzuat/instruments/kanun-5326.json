@@ -12,7 +12,7 @@
   "tertip": 5,
   "sourceUrl": "https://www.mevzuat.gov.tr/mevzuat?MevzuatNo=5326&MevzuatTur=1&MevzuatTertip=5",
   "kabulTarihi": "30/3/2005",
-  "maddeCount": 49,
+  "maddeCount": 53,
   "maddeler": [
     {
       "id": "kanun:5326:m:1",
@@ -708,7 +708,7 @@
       "maddeKind": "madde",
       "maddeNo": "42",
       "heading": "Madde 42",
-      "text": "(1) Meydanlara veya parklara, cadde veya sokak kenarlarındaki kamuya ait duvar veya alanlara, rızası olmaksızın özel kişilere ait alanlara bez, kâğıt ve benzeri afiş ve ilân asan kişiye, yüz Türk Lirasından üçbin Türk Lirasına kadar idarî para cezası verilir. Aynı içerikteki afiş ve ilânlar, tek fiil sayılır.\n (2) Birinci fıkra hükmü, yetkili makamlardan alınan açık ve yazılı izne dayalı olarak asılan afiş ve ilânlar açısından uygulanmaz. Bu izinde, afiş ve ilânın asılacağı zaman dilimi açık bir şekilde gösterilir. Bu afiş ve ilânlar izin verilen gerçek veya tüzel kişi tarafından bu sürenin dolmasını müteakip derhal toplatılır. Toplatma yükümlülüğüne aykırı hareket edilmesi halinde birinci fıkra hükmüne göre idarî para cezası verilir.\n (3) Bu afiş ve ilânların kaldırılmasına ilişkin masraflar da ilgili kişilerden ayrıca tahsil edilir.\n (4) Bu kabahatler dolayısıyla idarî para cezasına, kolluk veya belediye zabıta görevlileri karar verir.\n (5) Özel kanunlardaki hükümler saklıdır.\n\n Asılsız çağrı ve asılsız ihbar\n Madde 42/A- (2/7/2018-KHK-703/20 md.) (Başlığı ile Birlikte Değişik:8/5/2025-7547/13 md.)\n (1) 112 Acil Çağrı Merkezini meşgul etmek amacıyla arayarak görevlilerle konuşan veya ısrarla çağrı bırakan kişiye, il valileri tarafından binbeşyüz Türk Lirası idari para cezası verilir.\n (2) 112 Acil Çağrı Merkezine yapılan ihbarın asılsız olduğunun olay yerine giden ekiplerce tutanakla tespit edilmesi halinde kişiye, il valileri tarafından onbeşbin Türk Lirası idari para cezası verilir.\n (3) Bu maddede yazılı fiillerin bir yıl içinde tekrarı halinde idari para cezası iki katı olarak uygulanır.",
+      "text": "(1) Meydanlara veya parklara, cadde veya sokak kenarlarındaki kamuya ait duvar veya alanlara, rızası olmaksızın özel kişilere ait alanlara bez, kâğıt ve benzeri afiş ve ilân asan kişiye, yüz Türk Lirasından üçbin Türk Lirasına kadar idarî para cezası verilir. Aynı içerikteki afiş ve ilânlar, tek fiil sayılır.\n (2) Birinci fıkra hükmü, yetkili makamlardan alınan açık ve yazılı izne dayalı olarak asılan afiş ve ilânlar açısından uygulanmaz. Bu izinde, afiş ve ilânın asılacağı zaman dilimi açık bir şekilde gösterilir. Bu afiş ve ilânlar izin verilen gerçek veya tüzel kişi tarafından bu sürenin dolmasını müteakip derhal toplatılır. Toplatma yükümlülüğüne aykırı hareket edilmesi halinde birinci fıkra hükmüne göre idarî para cezası verilir.\n (3) Bu afiş ve ilânların kaldırılmasına ilişkin masraflar da ilgili kişilerden ayrıca tahsil edilir.\n (4) Bu kabahatler dolayısıyla idarî para cezasına, kolluk veya belediye zabıta görevlileri karar verir.\n (5) Özel kanunlardaki hükümler saklıdır.",
       "preview": "(1) Meydanlara veya parklara, cadde veya sokak kenarlarındaki kamuya ait duvar veya alanlara, rızası olmaksızın özel kişilere ait alanlara b…",
       "kitap": null,
       "kisim": "İKİNCİ KISIM · Çeşitli Kabahatler",
@@ -721,11 +721,28 @@
       ]
     },
     {
+      "id": "kanun:5326:m:42/A",
+      "maddeKind": "madde",
+      "maddeNo": "42/A",
+      "heading": "Madde 42/A",
+      "text": "(2/7/2018-KHK-703/20 md.) (Başlığı ile Birlikte Değişik:8/5/2025-7547/13 md.)\n (1) 112 Acil Çağrı Merkezini meşgul etmek amacıyla arayarak görevlilerle konuşan veya ısrarla çağrı bırakan kişiye, il valileri tarafından binbeşyüz Türk Lirası idari para cezası verilir.\n (2) 112 Acil Çağrı Merkezine yapılan ihbarın asılsız olduğunun olay yerine giden ekiplerce tutanakla tespit edilmesi halinde kişiye, il valileri tarafından onbeşbin Türk Lirası idari para cezası verilir.\n (3) Bu maddede yazılı fiillerin bir yıl içinde tekrarı halinde idari para cezası iki katı olarak uygulanır.",
+      "preview": "(2/7/2018-KHK-703/20 md.) (Başlığı ile Birlikte Değişik:8/5/2025-7547/13 md.) (1) 112 Acil Çağrı Merkezini meşgul etmek amacıyla arayarak gö…",
+      "kitap": null,
+      "kisim": "İKİNCİ KISIM · Çeşitli Kabahatler",
+      "bolum": null,
+      "ayirim": null,
+      "maddeBaslik": "Asılsız çağrı ve asılsız ihbar",
+      "sectionPath": [
+        "İKİNCİ KISIM · Çeşitli Kabahatler",
+        "Asılsız çağrı ve asılsız ihbar"
+      ]
+    },
+    {
       "id": "kanun:5326:m:43",
       "maddeKind": "madde",
       "maddeNo": "43",
       "heading": "Madde 43",
-      "text": "(1) Yetkili makamlardan ruhsat almaksızın kanuna göre yasak olmayan silahları park, meydan, cadde veya sokaklarda görünür bir şekilde taşıyan kişiye, kolluk tarafından elli Türk Lirası idarî para cezası verilir.\n\n Tüzel kişilerin sorumluluğu[9]\n Madde 43/A- (Ek: 26/6/2009-5918/9 md.)\n (1) Daha ağır idarî para cezasını gerektiren bir kabahat oluşturmadığı hallerde, bir tüzel kişinin organ veya temsilcisi ya da organ veya temsilci olmamakla birlikte bu tüzel kişinin faaliyeti çerçevesinde görev üstlenen bir kişi tarafından;[10]\n a) 5237 sayılı Türk Ceza Kanununun;\n 1) 157 nci ve 158 inci maddelerinde tanımlanan dolandırıcılık suçunun,\n 2) (Ek:27/12/2020-7262/19 md.) 188 inci maddesinde tanımlanan uyuşturucu veya uyarıcı madde imal ve ticareti suçunun,\n 3) 235 inci maddesinde tanımlanan ihaleye fesat karıştırma suçunun,\n 4) 236 ncı maddesinde tanımlanan edimin ifasına fesat karıştırma suçunun,\n 5) 252 nci maddesinde tanımlanan rüşvet suçunun,\n 6) 282 nci maddesinde tanımlanan suçtan kaynaklanan malvarlığı değerlerini aklama suçunun,\n b) 19/10/2005 tarihli ve 5411 sayılı Bankacılık Kanununun 160 ıncı maddesinde tanımlanan zimmet suçunun,\n c) 21/3/2007 tarihli ve 5607 sayılı Kaçakçılıkla Mücadele Kanununda tanımlanan kaçakçılık suçlarının,\n ç) 4/12/2003 tarihli ve 5015 sayılı Petrol Piyasası Kanununun Ek 5 inci maddesinde tanımlanan suçun,\n d) (Değişik:27/12/2020-7262/19 md.) 7/2/2013 tarihli ve 6415 sayılı Terörizmin Finansmanının Önlenmesi Hakkında Kanunun 4 üncü maddesinde tanımlanan terörizmin finansmanı suçunun,\n tüzel kişinin yararına olarak işlenmesi halinde, ayrıca bu tüzel kişiye onbin Türk Lirasından elli milyon Türk Lirasına kadar idarî para cezası verilir. (Ek cümle:27/12/2020-7262/19 md.) Ancak idari para cezası, işleme veya eyleme konu menfaatin iki katından az olamaz.\n (2) Bu madde hükümlerine göre idari para cezasına karar vermeye, birinci fıkrada sayılan suçlardan dolayı yargılama yapmakla görevli mahkeme yetkilidir.\n (3) (Ek:27/12/2020-7262/19 md.) (İptal fıkra: Anayasa Mahkemesinin 18/1/2024 Tarihli ve E: 2021/28, K: 2024/11 Sayılı Kararı ile.)\n\n Tüzel kişilerin bildirim yükümlülüğü\n Madde 43/B – (Ek: 2/7/2012-6352/102 md.)\n (1) 5411 sayılı Kanunun 3 üncü maddesinde tanımlanan; bankalara, finansal kuruluşlara veya paranın sayım ve incelemesini yaparak bankalara destek hizmeti veren kuruluşlar ile mevzuat çerçevesinde dövize ilişkin işlemler yapmasına izin verilen şirketlere, her ne amaçla olursa olsun ibraz edilen paranın sahte olduğunun anlaşılması halinde, 5237 sayılı Kanunun 278 inci maddesinde düzenlenen bildirim yükümlülüğü yerine getirilmediği takdirde, bu maddede sayılan tüzel kişilere Cumhuriyet savcısı tarafından bin Türk Lirasından beşbin Türk Lirasına kadar idarî para cezası verilir.\n\n Amaç dışı bıçak taşıma\n Madde 43/C- (Ek:8/8/2026-7593/8 md.)\n (1) Her ne ad altında olursa olsun, 10/7/1953 tarihli ve 6136 sayılı Ateşli Silahlar ve Bıçaklar ile Diğer Aletler Hakkında Kanun kapsamı dışında kalan her tür bıçak ile diğer kesici, delici veya bereleyici aletlerin;\n a) 11/9/1981 tarihli ve 2521 sayılı Avda ve Sporda Kullanılan Tüfekler, Nişan Tabancaları ve Av Bıçaklarının Yapımı, Alımı, Satımı ve Bulundurulmasına Dair Kanuna göre ruhsatlandırılan yerler ile ilgili yönetmeliğe göre ruhsatlandırılan işyerleri dışında satışı ve sergilenmesi,[11]\n b) Onsekiz yaşından küçük çocuklara satılması ve çocuklar tarafından satın alınması veya taşınması,\n yasaktır.\n (2) Birinci fıkrada sayılan yasaklara uymayan kişiye beşbin Türk Lirası, kabahate konu bıçak veya aletlerin sayı veya nitelik bakımından vahim olması halinde ise onbin Türk Lirası idarî para cezası verilir. Ayrıca bu kabahatin işlendiğini öğrenen işletici veya sorumlunun yetkili makamlara bildirim yapmaması halinde beşbin Türk Lirası idarî para cezası verilir.\n (3) Birinci fıkrada sayılan kabahatin konusunu oluşturan veya işlenmesi suretiyle elde edilen eşyanın mülkiyetinin kamuya geçirilmesine karar verilir.\n (4) Birinci fıkrada sayılan kabahat dolayısıyla idarî para cezasına ve elkoymaya kolluk görevlileri, mülkiyetin kamuya geçirilmesine mülkî amir tarafından karar verilir.\n (5) Birinci fıkradaki kabahati işlediği sırada onbeş yaşını doldurmamış çocuk hakkında çocuğun üstün yararı gözetilerek, 3/7/2005 tarihli ve 5395 sayılı Çocuk Koruma Kanunu hükümleri uyarınca koruyucu, destekleyici ve yönlendirme tedbirlerine karar verilmesi amacıyla mülkî amir tarafından çocuk hâkiminden tedbir talebinde bulunulur.\n (6) Bu madde hükümleri internet satışları ve mesafeli satışlar için de uygulanır.\n (7) Bir sanat veya mesleğin icrası ve eğitim için gerekli bıçak, şiş ve benzerlerinin icra yerinde ve icra eden kişilerce kullanılması, bulundurulması ve taşınması bu madde hükümlerine tabi değildir.",
+      "text": "(1) Yetkili makamlardan ruhsat almaksızın kanuna göre yasak olmayan silahları park, meydan, cadde veya sokaklarda görünür bir şekilde taşıyan kişiye, kolluk tarafından elli Türk Lirası idarî para cezası verilir.",
       "preview": "(1) Yetkili makamlardan ruhsat almaksızın kanuna göre yasak olmayan silahları park, meydan, cadde veya sokaklarda görünür bir şekilde taşıya…",
       "kitap": null,
       "kisim": "İKİNCİ KISIM · Çeşitli Kabahatler",
@@ -735,6 +752,57 @@
       "sectionPath": [
         "İKİNCİ KISIM · Çeşitli Kabahatler",
         "Silah taşıma"
+      ]
+    },
+    {
+      "id": "kanun:5326:m:43/A",
+      "maddeKind": "madde",
+      "maddeNo": "43/A",
+      "heading": "Madde 43/A",
+      "text": "(Ek: 26/6/2009-5918/9 md.)\n (1) Daha ağır idarî para cezasını gerektiren bir kabahat oluşturmadığı hallerde, bir tüzel kişinin organ veya temsilcisi ya da organ veya temsilci olmamakla birlikte bu tüzel kişinin faaliyeti çerçevesinde görev üstlenen bir kişi tarafından;[10]\n a) 5237 sayılı Türk Ceza Kanununun;\n 1) 157 nci ve 158 inci maddelerinde tanımlanan dolandırıcılık suçunun,\n 2) (Ek:27/12/2020-7262/19 md.) 188 inci maddesinde tanımlanan uyuşturucu veya uyarıcı madde imal ve ticareti suçunun,\n 3) 235 inci maddesinde tanımlanan ihaleye fesat karıştırma suçunun,\n 4) 236 ncı maddesinde tanımlanan edimin ifasına fesat karıştırma suçunun,\n 5) 252 nci maddesinde tanımlanan rüşvet suçunun,\n 6) 282 nci maddesinde tanımlanan suçtan kaynaklanan malvarlığı değerlerini aklama suçunun,\n b) 19/10/2005 tarihli ve 5411 sayılı Bankacılık Kanununun 160 ıncı maddesinde tanımlanan zimmet suçunun,\n c) 21/3/2007 tarihli ve 5607 sayılı Kaçakçılıkla Mücadele Kanununda tanımlanan kaçakçılık suçlarının,\n ç) 4/12/2003 tarihli ve 5015 sayılı Petrol Piyasası Kanununun Ek 5 inci maddesinde tanımlanan suçun,\n d) (Değişik:27/12/2020-7262/19 md.) 7/2/2013 tarihli ve 6415 sayılı Terörizmin Finansmanının Önlenmesi Hakkında Kanunun 4 üncü maddesinde tanımlanan terörizmin finansmanı suçunun,\n tüzel kişinin yararına olarak işlenmesi halinde, ayrıca bu tüzel kişiye onbin Türk Lirasından elli milyon Türk Lirasına kadar idarî para cezası verilir. (Ek cümle:27/12/2020-7262/19 md.) Ancak idari para cezası, işleme veya eyleme konu menfaatin iki katından az olamaz.\n (2) Bu madde hükümlerine göre idari para cezasına karar vermeye, birinci fıkrada sayılan suçlardan dolayı yargılama yapmakla görevli mahkeme yetkilidir.\n (3) (Ek:27/12/2020-7262/19 md.) (İptal fıkra: Anayasa Mahkemesinin 18/1/2024 Tarihli ve E: 2021/28, K: 2024/11 Sayılı Kararı ile.)",
+      "preview": "(Ek: 26/6/2009-5918/9 md.) (1) Daha ağır idarî para cezasını gerektiren bir kabahat oluşturmadığı hallerde, bir tüzel kişinin organ veya tem…",
+      "kitap": null,
+      "kisim": "İKİNCİ KISIM · Çeşitli Kabahatler",
+      "bolum": null,
+      "ayirim": null,
+      "maddeBaslik": "Tüzel kişilerin sorumluluğu[9]",
+      "sectionPath": [
+        "İKİNCİ KISIM · Çeşitli Kabahatler",
+        "Tüzel kişilerin sorumluluğu[9]"
+      ]
+    },
+    {
+      "id": "kanun:5326:m:43/B",
+      "maddeKind": "madde",
+      "maddeNo": "43/B",
+      "heading": "Madde 43/B",
+      "text": "(Ek: 2/7/2012-6352/102 md.)\n (1) 5411 sayılı Kanunun 3 üncü maddesinde tanımlanan; bankalara, finansal kuruluşlara veya paranın sayım ve incelemesini yaparak bankalara destek hizmeti veren kuruluşlar ile mevzuat çerçevesinde dövize ilişkin işlemler yapmasına izin verilen şirketlere, her ne amaçla olursa olsun ibraz edilen paranın sahte olduğunun anlaşılması halinde, 5237 sayılı Kanunun 278 inci maddesinde düzenlenen bildirim yükümlülüğü yerine getirilmediği takdirde, bu maddede sayılan tüzel kişilere Cumhuriyet savcısı tarafından bin Türk Lirasından beşbin Türk Lirasına kadar idarî para cezası verilir.",
+      "preview": "(Ek: 2/7/2012-6352/102 md.) (1) 5411 sayılı Kanunun 3 üncü maddesinde tanımlanan; bankalara, finansal kuruluşlara veya paranın sayım ve ince…",
+      "kitap": null,
+      "kisim": "İKİNCİ KISIM · Çeşitli Kabahatler",
+      "bolum": null,
+      "ayirim": null,
+      "maddeBaslik": "Tüzel kişilerin bildirim yükümlülüğü",
+      "sectionPath": [
+        "İKİNCİ KISIM · Çeşitli Kabahatler",
+        "Tüzel kişilerin bildirim yükümlülüğü"
+      ]
+    },
+    {
+      "id": "kanun:5326:m:43/C",
+      "maddeKind": "madde",
+      "maddeNo": "43/C",
+      "heading": "Madde 43/C",
+      "text": "(Ek:8/8/2026-7593/8 md.)\n (1) Her ne ad altında olursa olsun, 10/7/1953 tarihli ve 6136 sayılı Ateşli Silahlar ve Bıçaklar ile Diğer Aletler Hakkında Kanun kapsamı dışında kalan her tür bıçak ile diğer kesici, delici veya bereleyici aletlerin;\n a) 11/9/1981 tarihli ve 2521 sayılı Avda ve Sporda Kullanılan Tüfekler, Nişan Tabancaları ve Av Bıçaklarının Yapımı, Alımı, Satımı ve Bulundurulmasına Dair Kanuna göre ruhsatlandırılan yerler ile ilgili yönetmeliğe göre ruhsatlandırılan işyerleri dışında satışı ve sergilenmesi,[11]\n b) Onsekiz yaşından küçük çocuklara satılması ve çocuklar tarafından satın alınması veya taşınması,\n yasaktır.\n (2) Birinci fıkrada sayılan yasaklara uymayan kişiye beşbin Türk Lirası, kabahate konu bıçak veya aletlerin sayı veya nitelik bakımından vahim olması halinde ise onbin Türk Lirası idarî para cezası verilir. Ayrıca bu kabahatin işlendiğini öğrenen işletici veya sorumlunun yetkili makamlara bildirim yapmaması halinde beşbin Türk Lirası idarî para cezası verilir.\n (3) Birinci fıkrada sayılan kabahatin konusunu oluşturan veya işlenmesi suretiyle elde edilen eşyanın mülkiyetinin kamuya geçirilmesine karar verilir.\n (4) Birinci fıkrada sayılan kabahat dolayısıyla idarî para cezasına ve elkoymaya kolluk görevlileri, mülkiyetin kamuya geçirilmesine mülkî amir tarafından karar verilir.\n (5) Birinci fıkradaki kabahati işlediği sırada onbeş yaşını doldurmamış çocuk hakkında çocuğun üstün yararı gözetilerek, 3/7/2005 tarihli ve 5395 sayılı Çocuk Koruma Kanunu hükümleri uyarınca koruyucu, destekleyici ve yönlendirme tedbirlerine karar verilmesi amacıyla mülkî amir tarafından çocuk hâkiminden tedbir talebinde bulunulur.\n (6) Bu madde hükümleri internet satışları ve mesafeli satışlar için de uygulanır.\n (7) Bir sanat veya mesleğin icrası ve eğitim için gerekli bıçak, şiş ve benzerlerinin icra yerinde ve icra eden kişilerce kullanılması, bulundurulması ve taşınması bu madde hükümlerine tabi değildir.",
+      "preview": "(Ek:8/8/2026-7593/8 md.) (1) Her ne ad altında olursa olsun, 10/7/1953 tarihli ve 6136 sayılı Ateşli Silahlar ve Bıçaklar ile Diğer Aletler…",
+      "kitap": null,
+      "kisim": "İKİNCİ KISIM · Çeşitli Kabahatler",
+      "bolum": null,
+      "ayirim": null,
+      "maddeBaslik": "Amaç dışı bıçak taşıma",
+      "sectionPath": [
+        "İKİNCİ KISIM · Çeşitli Kabahatler",
+        "Amaç dışı bıçak taşıma"
       ]
     },
     {
@@ -748,10 +816,10 @@
       "kisim": "İKİNCİ KISIM · Çeşitli Kabahatler",
       "bolum": null,
       "ayirim": null,
-      "maddeBaslik": "Silah taşıma",
+      "maddeBaslik": "Amaç dışı bıçak taşıma",
       "sectionPath": [
         "İKİNCİ KISIM · Çeşitli Kabahatler",
-        "Silah taşıma"
+        "Amaç dışı bıçak taşıma"
       ]
     },
     {
@@ -765,10 +833,10 @@
       "kisim": "İKİNCİ KISIM · Çeşitli Kabahatler",
       "bolum": null,
       "ayirim": null,
-      "maddeBaslik": "Silah taşıma",
+      "maddeBaslik": "Amaç dışı bıçak taşıma",
       "sectionPath": [
         "İKİNCİ KISIM · Çeşitli Kabahatler",
-        "Silah taşıma"
+        "Amaç dışı bıçak taşıma"
       ]
     },
     {
@@ -782,10 +850,10 @@
       "kisim": "İKİNCİ KISIM · Çeşitli Kabahatler",
       "bolum": null,
       "ayirim": null,
-      "maddeBaslik": "Silah taşıma",
+      "maddeBaslik": "Amaç dışı bıçak taşıma",
       "sectionPath": [
         "İKİNCİ KISIM · Çeşitli Kabahatler",
-        "Silah taşıma"
+        "Amaç dışı bıçak taşıma"
       ]
     },
     {
@@ -799,10 +867,10 @@
       "kisim": "İKİNCİ KISIM · Çeşitli Kabahatler",
       "bolum": null,
       "ayirim": null,
-      "maddeBaslik": "Silah taşıma",
+      "maddeBaslik": "Amaç dışı bıçak taşıma",
       "sectionPath": [
         "İKİNCİ KISIM · Çeşitli Kabahatler",
-        "Silah taşıma"
+        "Amaç dışı bıçak taşıma"
       ]
     },
     {

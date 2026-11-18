@@ -1,6 +1,7 @@
 import { NodeViewWrapper } from '@tiptap/react';
 import React, { useRef } from 'react';
 import { cn } from '../../lib/utils';
+import { nextImageResizeWidth } from '../../utils/dragFrame';
 import type { Node } from '@tiptap/pm/model';
 import type { Editor } from '@tiptap/react';
 
@@ -19,17 +20,16 @@ export const ImageNodeView: React.FC<ImageNodeViewProps> = ({ node, updateAttrib
         const startX = event.clientX;
         const startWidth = containerRef.current?.offsetWidth || 0;
 
+        let latestWidth = startWidth;
         const onMouseMove = (moveEvent: MouseEvent) => {
-            const deltaX = moveEvent.clientX - startX;
-            const newWidth = direction === 'right' ? startWidth + deltaX : startWidth - deltaX;
-            // Keep image usable and avoid jumping to full width.
-            const finalWidth = Math.max(120, newWidth);
-            updateAttributes({ width: `${finalWidth}px` });
+            latestWidth = nextImageResizeWidth(startWidth, startX, moveEvent.clientX, direction);
+            if (containerRef.current) containerRef.current.style.width = `${latestWidth}px`;
         };
 
         const onMouseUp = () => {
             document.removeEventListener('mousemove', onMouseMove);
             document.removeEventListener('mouseup', onMouseUp);
+            updateAttributes({ width: `${latestWidth}px` });
         };
 
         document.addEventListener('mousemove', onMouseMove);

@@ -12,7 +12,7 @@
   "tertip": 5,
   "sourceUrl": "https://www.mevzuat.gov.tr/mevzuat?MevzuatNo=3402&MevzuatTur=1&MevzuatTertip=5",
   "kabulTarihi": "21/6/1987",
-  "maddeCount": 68,
+  "maddeCount": 70,
   "maddeler": [
     {
       "id": "kanun:3402:m:1",
@@ -560,7 +560,7 @@
       "maddeKind": "madde",
       "maddeNo": "33",
       "heading": "Madde 33",
-      "text": "Kadastro işlemlerinin bir bölgede tamamlanmasından sonra veya iş hacmi itibariyle kadastro mahkemesinin devamına ihtiyaç kalmadığının anlaşılması halinde, Adalet Bakanlığı o bölgede kadastro mahkemesini kaldırmaya ve görülmekte olan dava dosyalarını taşınmaz malların bulunduğu mahalli asliye hukuk mahkemesine devretmeye yetkilidir. Bu mahkemede davaya bu Kanunda yazılı usul ve esasa göre, kaldığı noktadan devam olunur.\n Devredilen bu davalar ile kesinleşmemiş kadastro tespitleri aleyhine sonradan mahalli mahkemelerde açılacak davalarda, dördüncü bölüm hükümleri uygulanır.\n Bu Kanunun uygulandığı yerler dışında bulunan taşınmaz mallar hakkında da 14, 15, 17, 18, 20, 21 inci maddeler uygulanır.\n Bu Kanunun zilyede tanıdığı haklar, kadastrosuna başlanan bölgede zilyedin leh ve aleyhine açılan davalarda iddia ve defi olarak ileri sürülebilir. Bu hükümler henüz kesinleşmemiş davalarda da uygulanır.\n\n Kadastro mahkemesinin yargı çevresinin değiştirilmesi:\n Madde 33/A – (Ek: 2/7/2012-6352/73)\n İş yoğunluğu ve coğrafi durum dikkate alınarak bir kadastro mahkemesinin kaldırılmasına ve başka bir kadastro mahkemesinin yargı çevresine dâhil edilmesine, Adalet Bakanlığının teklifi üzerine Hâkimler ve Savcılar Yüksek Kurulu tarafından karar verilebilir.",
+      "text": "Kadastro işlemlerinin bir bölgede tamamlanmasından sonra veya iş hacmi itibariyle kadastro mahkemesinin devamına ihtiyaç kalmadığının anlaşılması halinde, Adalet Bakanlığı o bölgede kadastro mahkemesini kaldırmaya ve görülmekte olan dava dosyalarını taşınmaz malların bulunduğu mahalli asliye hukuk mahkemesine devretmeye yetkilidir. Bu mahkemede davaya bu Kanunda yazılı usul ve esasa göre, kaldığı noktadan devam olunur.\n Devredilen bu davalar ile kesinleşmemiş kadastro tespitleri aleyhine sonradan mahalli mahkemelerde açılacak davalarda, dördüncü bölüm hükümleri uygulanır.\n Bu Kanunun uygulandığı yerler dışında bulunan taşınmaz mallar hakkında da 14, 15, 17, 18, 20, 21 inci maddeler uygulanır.\n Bu Kanunun zilyede tanıdığı haklar, kadastrosuna başlanan bölgede zilyedin leh ve aleyhine açılan davalarda iddia ve defi olarak ileri sürülebilir. Bu hükümler henüz kesinleşmemiş davalarda da uygulanır.",
       "preview": "Kadastro işlemlerinin bir bölgede tamamlanmasından sonra veya iş hacmi itibariyle kadastro mahkemesinin devamına ihtiyaç kalmadığının anlaşı…",
       "kitap": null,
       "kisim": null,
@@ -570,6 +570,23 @@
       "sectionPath": [
         "BEŞİNCİ BÖLÜM · Uyuşmazlıkların Kadastro Mahkemesinde Çözümlenmesi",
         "Bu Kanunun uygulanacağı diğer haller:"
+      ]
+    },
+    {
+      "id": "kanun:3402:m:33/A",
+      "maddeKind": "madde",
+      "maddeNo": "33/A",
+      "heading": "Madde 33/A",
+      "text": "(Ek: 2/7/2012-6352/73)\n İş yoğunluğu ve coğrafi durum dikkate alınarak bir kadastro mahkemesinin kaldırılmasına ve başka bir kadastro mahkemesinin yargı çevresine dâhil edilmesine, Adalet Bakanlığının teklifi üzerine Hâkimler ve Savcılar Yüksek Kurulu tarafından karar verilebilir.",
+      "preview": "(Ek: 2/7/2012-6352/73) İş yoğunluğu ve coğrafi durum dikkate alınarak bir kadastro mahkemesinin kaldırılmasına ve başka bir kadastro mahkeme…",
+      "kitap": null,
+      "kisim": null,
+      "bolum": "BEŞİNCİ BÖLÜM · Uyuşmazlıkların Kadastro Mahkemesinde Çözümlenmesi",
+      "ayirim": null,
+      "maddeBaslik": "Kadastro mahkemesinin yargı çevresinin değiştirilmesi:",
+      "sectionPath": [
+        "BEŞİNCİ BÖLÜM · Uyuşmazlıkların Kadastro Mahkemesinde Çözümlenmesi",
+        "Kadastro mahkemesinin yargı çevresinin değiştirilmesi:"
       ]
     },
     {
@@ -611,7 +628,7 @@
       "maddeKind": "madde",
       "maddeNo": "36",
       "heading": "Madde 36",
-      "text": "Taraflardan her biri dava harcını, dinlenmesini talep ettiği tanık ve bilirkişi ücretini ve diğer yargılama giderlerini karşılamak zorundadır. Davacı hakim tarafından belirlenecek süre içinde gerekli giderleri mahkeme veznesine yatırmadığı takdirde, onunla ilgili delillere dayanmaktan vazgeçmiş sayılır. Bu Kanun gereğince resen yapılması gereken soruşturma ve tebligat işlemleri için zaruri giderler, ileride haksız çıkacak taraftan alınmak üzere bütçeye konulan ödenekten karşılanır.\n Kadastro hakimi, dava harcı, yargılama giderlerinin tespit ve hesaplanmasında ilgili taşınmaz mala ait son beyan dönemi emlak vergisi değerini esas alır.\n Hakim, hükmün kesinleşmesinden itibaren onbeş gün içinde giderin miktarı ile mükellefin kimliği ve en son ikametgahını bir yazı ile maliyeye bildirir.\n Bu yazıda belirtilen giderler maliye tarafından yapılacak tebligattan başlayarak iki ay içinde ödenir. Süresi içinde ödenmeyen giderler için Amme Alacaklarının Tahsil Usulü Hakkında Kanun hükümleri uygulanır.\n Kadastrosu yapılan taşınmaz mallara, emlak vergisi son beyan dönemi esas alınarak 492 sayılı Harçlar Kanununa ekli 4 sayılı tarifede gösterilen oranlarda, kadastro harcı tahakkuk ettirilir.\n Kadastrosu yapılan yerlerde, emlak vergisi değeri belli olmayan taşınmaz mallara, kadastro ve dava harcı ile yargılama giderlerine esas olmak üzere kadostro komisyonunca kıymet takdir edilir.\n Kamu tarafından açılan davalarda yargılama giderleri:\n Madde 36 /A – (Ek: 11/1/2011-6099/16 md.)\n Kadastro işlemi ile oluşan tespit ve kayıtların iptali için Devlet veya diğer kamu kurum ve kuruluşları tarafından kayıt lehtarına karşı kadastro mahkemeleri ile genel mahkemelerde açılan davalarda davalı aleyhine vekâlet ücreti dâhil, yargılama giderine hükmolunmaz.",
+      "text": "Taraflardan her biri dava harcını, dinlenmesini talep ettiği tanık ve bilirkişi ücretini ve diğer yargılama giderlerini karşılamak zorundadır. Davacı hakim tarafından belirlenecek süre içinde gerekli giderleri mahkeme veznesine yatırmadığı takdirde, onunla ilgili delillere dayanmaktan vazgeçmiş sayılır. Bu Kanun gereğince resen yapılması gereken soruşturma ve tebligat işlemleri için zaruri giderler, ileride haksız çıkacak taraftan alınmak üzere bütçeye konulan ödenekten karşılanır.\n Kadastro hakimi, dava harcı, yargılama giderlerinin tespit ve hesaplanmasında ilgili taşınmaz mala ait son beyan dönemi emlak vergisi değerini esas alır.\n Hakim, hükmün kesinleşmesinden itibaren onbeş gün içinde giderin miktarı ile mükellefin kimliği ve en son ikametgahını bir yazı ile maliyeye bildirir.\n Bu yazıda belirtilen giderler maliye tarafından yapılacak tebligattan başlayarak iki ay içinde ödenir. Süresi içinde ödenmeyen giderler için Amme Alacaklarının Tahsil Usulü Hakkında Kanun hükümleri uygulanır.\n Kadastrosu yapılan taşınmaz mallara, emlak vergisi son beyan dönemi esas alınarak 492 sayılı Harçlar Kanununa ekli 4 sayılı tarifede gösterilen oranlarda, kadastro harcı tahakkuk ettirilir.\n Kadastrosu yapılan yerlerde, emlak vergisi değeri belli olmayan taşınmaz mallara, kadastro ve dava harcı ile yargılama giderlerine esas olmak üzere kadostro komisyonunca kıymet takdir edilir.",
       "preview": "Taraflardan her biri dava harcını, dinlenmesini talep ettiği tanık ve bilirkişi ücretini ve diğer yargılama giderlerini karşılamak zorundadı…",
       "kitap": null,
       "kisim": null,
@@ -621,6 +638,23 @@
       "sectionPath": [
         "BEŞİNCİ BÖLÜM · Uyuşmazlıkların Kadastro Mahkemesinde Çözümlenmesi",
         "Yargılama giderleri, kadastro harcı ve tahakkuku:"
+      ]
+    },
+    {
+      "id": "kanun:3402:m:36/A",
+      "maddeKind": "madde",
+      "maddeNo": "36/A",
+      "heading": "Madde 36/A",
+      "text": "(Ek: 11/1/2011-6099/16 md.)\n Kadastro işlemi ile oluşan tespit ve kayıtların iptali için Devlet veya diğer kamu kurum ve kuruluşları tarafından kayıt lehtarına karşı kadastro mahkemeleri ile genel mahkemelerde açılan davalarda davalı aleyhine vekâlet ücreti dâhil, yargılama giderine hükmolunmaz.",
+      "preview": "(Ek: 11/1/2011-6099/16 md.) Kadastro işlemi ile oluşan tespit ve kayıtların iptali için Devlet veya diğer kamu kurum ve kuruluşları tarafınd…",
+      "kitap": null,
+      "kisim": null,
+      "bolum": "BEŞİNCİ BÖLÜM · Uyuşmazlıkların Kadastro Mahkemesinde Çözümlenmesi",
+      "ayirim": null,
+      "maddeBaslik": "Kamu tarafından açılan davalarda yargılama giderleri:",
+      "sectionPath": [
+        "BEŞİNCİ BÖLÜM · Uyuşmazlıkların Kadastro Mahkemesinde Çözümlenmesi",
+        "Kamu tarafından açılan davalarda yargılama giderleri:"
       ]
     },
     {

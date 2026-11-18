@@ -1,5 +1,7 @@
 import xml2js from 'xml2js';
 import { XML2JS_SAFE_OPTIONS } from './xml2jsSafe';
+import { parseXmlRepairingAdjacentAttributes } from './uyapXmlRepair';
+import { UYAP_IMAGE_PLACEHOLDER_CHAR } from './uyapExportBuild';
 import type {
     XmlCell,
     XmlParagraph,
@@ -210,6 +212,20 @@ function createUyapXmlParser(extra?: ConstructorParameters<typeof xml2js.Parser>
     return new xml2js.Parser({ ...XML2JS_SAFE_OPTIONS, ...extra });
 }
 
+function logXmlParseFailure(kind: 'XML' | 'HTML', error: unknown, documentId?: string): void {
+    const id = documentId ? ` documentId=${documentId}` : '';
+    const suffix = kind === 'HTML' ? ' (HTML)' : '';
+    console.error(`XML Parse Hatası${suffix}:${id}`, error);
+}
+
+async function parseUyapDocumentXml(xmlData: string): Promise<{ result: XmlParseResult; xml: string }> {
+    const parsed = await parseXmlRepairingAdjacentAttributes(xmlData, async (candidate) => {
+        const parser = createUyapXmlParser();
+        return (await parser.parseStringPromise(candidate)) as XmlParseResult;
+    });
+    return { result: parsed.value, xml: parsed.xml };
+}
+
 /** Nested `<table>` inside a cell forces HTML import path. Sibling tables must not match. */
 export function udfXmlHasNestedTable(xmlData: string): boolean {
     const cellRe = /<cell\b[^>]*>([\s\S]*?)<\/cell>/gi;
@@ -222,10 +238,12 @@ export function udfXmlHasNestedTable(xmlData: string): boolean {
 
 async function parseParagraphFragment(xml: string): Promise<XmlParagraph | null> {
     const wrapped = `<?xml version="1.0"?><root>${xml}</root>`;
-    const parser = createUyapXmlParser({ explicitArray: true });
     try {
-        const parsed = (await parser.parseStringPromise(wrapped)) as { root?: { paragraph?: XmlParagraph[] } };
-        return parsed.root?.paragraph?.[0] ?? null;
+        const parsed = await parseXmlRepairingAdjacentAttributes(wrapped, async (candidate) => {
+            const parser = createUyapXmlParser({ explicitArray: true });
+            return (await parser.parseStringPromise(candidate)) as { root?: { paragraph?: XmlParagraph[] } };
+        });
+        return parsed.value.root?.paragraph?.[0] ?? null;
     } catch {
         return null;
     }
@@ -233,15 +251,17 @@ async function parseParagraphFragment(xml: string): Promise<XmlParagraph | null>
 
 async function parseTableFragment(xml: string): Promise<XmlTable | null> {
     const wrapped = `<?xml version="1.0"?><root>${xml}</root>`;
-    const parser = createUyapXmlParser({
-        explicitArray: true,
-        explicitChildren: true,
-        preserveChildrenOrder: true,
-        childkey: '$$',
-    });
     try {
-        const parsed = (await parser.parseStringPromise(wrapped)) as { root?: { table?: XmlTable[] } };
-        return parsed.root?.table?.[0] ?? null;
+        const parsed = await parseXmlRepairingAdjacentAttributes(wrapped, async (candidate) => {
+            const parser = createUyapXmlParser({
+                explicitArray: true,
+                explicitChildren: true,
+                preserveChildrenOrder: true,
+                childkey: '$$',
+            });
+            return (await parser.parseStringPromise(candidate)) as { root?: { table?: XmlTable[] } };
+        });
+        return parsed.value.root?.table?.[0] ?? null;
     } catch {
         return null;
     }
@@ -397,8 +417,7 @@ function renderTableTipTap(table: XmlTable, ctx: UyapTemplateContext): TiptapNod
             const cAttrs = cell.$ ?? {};
             const cellContent: TiptapNode[] = [];
             for (const cp of cell.paragraph ?? []) {
-                const pNode = renderParagraphTipTap(cp, ctx);
-                if (pNode) cellContent.push(pNode);
+                cellContent.push(...renderParagraphTipTap(cp, ctx));
             }
             if (cellContent.length === 0) {
                 cellContent.push({ type: 'paragraph', content: [] });
@@ -449,13 +468,21 @@ function renderParagraphHtml(p: XmlParagraph, ctx: UyapTemplateContext): string 
     return `<${tag} style="${pStyle}"${attrStr}>${pContent}</${tag}>`;
 }
 
-function renderParagraphTipTap(p: XmlParagraph, ctx: UyapTemplateContext): TiptapNode | null {
+function visibleTextNodes(nodes: TiptapNode[]): boolean {
+    return nodes.some((node) => (node.text ?? '').replace(/\s+/g, '').length > 0);
+}
+
+/**
+ * UDF stores `<image>` inside `<paragraph>`. The editor image node is a block,
+ * so it cannot stay inside that paragraph. Split on the export placeholder and
+ * emit text paragraphs and image blocks in offset order.
+ */
+function blocksForUyapParagraph(p: XmlParagraph, ctx: UyapTemplateContext): TiptapNode[] {
     const { spans, blockGapAfter, paragraphEnd } = finalizeUyapParagraphText(renderUyapParagraphSpans(p, ctx));
     const commented = explodeSpansForComments(spans, ctx.comments);
     const imageNodes = uyapImagesToTipTapNodes(p.image);
-    if (!paragraphHasVisibleContent(commented) && imageNodes.length === 0) {
-        return null;
-    }
+    const textNodes = spansToTiptapNodes(commented);
+    if (!paragraphHasVisibleContent(commented) && imageNodes.length === 0) return [];
 
     const attrs = uyapParagraphAttrsToTipTap(p, {
         blockGapAfter,
@@ -463,13 +490,59 @@ function renderParagraphTipTap(p: XmlParagraph, ctx: UyapTemplateContext): Tipta
         hasTabElements: (p.tab?.length ?? 0) > 0,
     });
     const isHeading = uyapParagraphBlockKind(p) === 'heading';
-    const tiptapBlock: TiptapNode = {
+    const wrapText = (content: TiptapNode[]): TiptapNode => ({
         type: isHeading ? 'heading' : 'paragraph',
         attrs: isHeading ? { ...attrs, level: uyapHeadingLevel(p) } : attrs,
-        content: [...spansToTiptapNodes(commented), ...imageNodes],
-    };
+        content,
+    });
 
-    return tiptapBlock;
+    if (imageNodes.length === 0) {
+        return [wrapText(textNodes)];
+    }
+
+    const blocks: TiptapNode[] = [];
+    let textBuffer: TiptapNode[] = [];
+    let imageIndex = 0;
+    const flushText = () => {
+        const content = textBuffer;
+        textBuffer = [];
+        if (visibleTextNodes(content)) blocks.push(wrapText(content));
+    };
+    for (const node of textNodes) {
+        if (node.type !== 'text' || !node.text?.includes(UYAP_IMAGE_PLACEHOLDER_CHAR)) {
+            textBuffer.push(node);
+            continue;
+        }
+        const parts = node.text.split(UYAP_IMAGE_PLACEHOLDER_CHAR);
+        parts.forEach((part, index) => {
+            if (part) {
+                textBuffer.push({
+                    type: 'text',
+                    text: part,
+                    ...(node.marks ? { marks: node.marks } : {}),
+                });
+            }
+            if (index < parts.length - 1) {
+                flushText();
+                const image = imageNodes[imageIndex];
+                if (image) {
+                    blocks.push(image);
+                    imageIndex += 1;
+                }
+            }
+        });
+    }
+    flushText();
+    while (imageIndex < imageNodes.length) {
+        const image = imageNodes[imageIndex];
+        if (image) blocks.push(image);
+        imageIndex += 1;
+    }
+    return blocks;
+}
+
+function renderParagraphTipTap(p: XmlParagraph, ctx: UyapTemplateContext): TiptapNode[] {
+    return blocksForUyapParagraph(p, ctx);
 }
 
 function pageBreakTipTapNode(): TiptapNode {
@@ -486,12 +559,14 @@ function pageBreakHtml(): string {
 async function parseParagraphsInBand(xml: string): Promise<XmlParagraph[]> {
     const inner = xml.replace(/^<(header|footer)\b[^>]*>/i, '').replace(/<\/(header|footer)>$/i, '');
     const wrapped = `<?xml version="1.0"?><band>${inner}</band>`;
-    const parser = createUyapXmlParser({ explicitArray: true });
     try {
-        const parsed = (await parser.parseStringPromise(wrapped)) as {
-            band?: { paragraph?: XmlParagraph[] };
-        };
-        return parsed.band?.paragraph ?? [];
+        const parsed = await parseXmlRepairingAdjacentAttributes(wrapped, async (candidate) => {
+            const parser = createUyapXmlParser({ explicitArray: true });
+            return (await parser.parseStringPromise(candidate)) as {
+                band?: { paragraph?: XmlParagraph[] };
+            };
+        });
+        return parsed.value.band?.paragraph ?? [];
     } catch {
         return [];
     }
@@ -500,7 +575,7 @@ async function parseParagraphsInBand(xml: string): Promise<XmlParagraph[]> {
 async function renderUyapBandToHtml(
     bandXml: string,
     bandTag: 'header' | 'footer',
-    ctx: UyapTemplateContext,
+    _ctx: UyapTemplateContext,
     renderParagraph: (p: XmlParagraph) => string,
 ): Promise<string> {
     const paragraphs = await parseParagraphsInBand(bandXml);
@@ -514,12 +589,10 @@ async function renderUyapBandToHtml(
 
 export async function parseUyapToTipTap(
     xmlData: string,
-    options?: { comments?: UyapImportedComment[] },
+    options?: { comments?: UyapImportedComment[]; documentId?: string },
 ): Promise<TiptapDoc | null> {
-    const parser = createUyapXmlParser();
-
     try {
-        const result = (await parser.parseStringPromise(xmlData)) as XmlParseResult;
+        const { result, xml } = await parseUyapDocumentXml(xmlData);
 
         if (!result.template || !result.template.content) {
             console.error('Geçersiz UYAP XML formatı');
@@ -532,7 +605,7 @@ export async function parseUyapToTipTap(
             content: [],
         };
 
-        const ordered = extractUyapElementsInOrder(xmlData);
+        const ordered = extractUyapElementsInOrder(xml);
         for (const el of ordered) {
             if (el.tag === 'header' || el.tag === 'footer') continue;
             if (el.tag === 'page-break') {
@@ -550,14 +623,13 @@ export async function parseUyapToTipTap(
             if (el.tag === 'paragraph') {
                 const p = await parseParagraphFragment(el.xml);
                 if (!p) continue;
-                const node = renderParagraphTipTap(p, ctx);
-                if (node) tiptapDoc.content.push(node);
+                tiptapDoc.content.push(...renderParagraphTipTap(p, ctx));
             }
         }
 
         return tiptapDoc;
     } catch (error) {
-        console.error('XML Parse Hatası:', error);
+        logXmlParseFailure('XML', error, options?.documentId);
         return null;
     }
 }
@@ -566,16 +638,15 @@ export interface ParseUyapToHtmlOptions {
     /** Viewer-only. Editor import must omit this — QR stays export overlay, not TipTap HTML. */
     verification?: UyapVerificationMeta | null;
     comments?: UyapImportedComment[];
+    documentId?: string;
 }
 
 export async function parseUyapToHtml(
     xmlData: string,
     options?: ParseUyapToHtmlOptions,
 ): Promise<string | null> {
-    const parser = createUyapXmlParser();
-
     try {
-        const result = (await parser.parseStringPromise(xmlData)) as XmlParseResult;
+        const { result, xml } = await parseUyapDocumentXml(xmlData);
 
         if (!result.template || !result.template.content) {
             console.error('Geçersiz UYAP XML formatı');
@@ -587,7 +658,7 @@ export async function parseUyapToHtml(
 
         const renderParagraph = (p: XmlParagraph) => renderParagraphHtml(p, ctx);
 
-        const ordered = extractUyapElementsInOrder(xmlData);
+        const ordered = extractUyapElementsInOrder(xml);
         for (const el of ordered) {
             if (el.tag === 'header') {
                 html += await renderUyapBandToHtml(el.xml, 'header', ctx, renderParagraph);
@@ -617,7 +688,7 @@ export async function parseUyapToHtml(
         // `verification` and strip leftovers via `stripUyapVerificationFromHtml`.
         return appendUyapVerificationToHtml(html, options?.verification);
     } catch (error) {
-        console.error('XML Parse Hatası (HTML):', error);
+        logXmlParseFailure('HTML', error, options?.documentId);
         return null;
     }
 }

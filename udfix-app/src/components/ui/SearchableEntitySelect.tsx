@@ -1,4 +1,4 @@
-import React, { useMemo, useState } from 'react';
+import { useMemo, useState } from 'react';
 import { cn } from '../../lib/utils';
 import MaterialIcon from './MaterialIcon';
 import { Button } from './button';

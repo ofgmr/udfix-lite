@@ -12,7 +12,7 @@
   "tertip": 5,
   "sourceUrl": "https://www.mevzuat.gov.tr/mevzuat?MevzuatNo=2911&MevzuatTur=1&MevzuatTertip=5",
   "kabulTarihi": "6/10/1983",
-  "maddeCount": 44,
+  "maddeCount": 45,
   "maddeler": [
     {
       "id": "kanun:2911:m:1",
@@ -23,13 +23,10 @@
       "preview": "Bu Kanun; toplantı ve gösteri yürüyüşü düzenleme hakkının kullanılmasında uygulanacak şekil, şart ve usuller ile gerçek ve tüzelkişilerin dü…",
       "kitap": null,
       "kisim": null,
-      "bolum": "BİRİNCİ BÖLÜM · Genel Hükümler",
+      "bolum": null,
       "ayirim": null,
-      "maddeBaslik": "Amaç ve kapsam",
-      "sectionPath": [
-        "BİRİNCİ BÖLÜM · Genel Hükümler",
-        "Amaç ve kapsam"
-      ]
+      "maddeBaslik": null,
+      "sectionPath": []
     },
     {
       "id": "kanun:2911:m:2",
@@ -40,11 +37,10 @@
       "preview": "Bu Kanunda geçen deyimlerden; a) Toplantı; belirli konular üzerinde halkı aydınlatmak ve bir kamuoyu yaratmak suretiyle o konuyu benimsetmek…",
       "kitap": null,
       "kisim": null,
-      "bolum": "BİRİNCİ BÖLÜM · Genel Hükümler",
+      "bolum": null,
       "ayirim": null,
       "maddeBaslik": "Tanımlar",
       "sectionPath": [
-        "BİRİNCİ BÖLÜM · Genel Hükümler",
         "Tanımlar"
       ]
     },
@@ -57,11 +53,10 @@
       "preview": "Herkes, önceden izin almaksızın, bu Kanun hükümlerine göre silahsız ve saldırısız olarak kanunların suç saymadığı belirli amaçlarla toplantı…",
       "kitap": null,
       "kisim": null,
-      "bolum": "BİRİNCİ BÖLÜM · Genel Hükümler",
+      "bolum": null,
       "ayirim": null,
       "maddeBaslik": "Toplantı ve gösteri yürüyüşü hakkı",
       "sectionPath": [
-        "BİRİNCİ BÖLÜM · Genel Hükümler",
         "Toplantı ve gösteri yürüyüşü hakkı"
       ]
     },
@@ -74,11 +69,10 @@
       "preview": "Aşağıda belirtilen toplantı ve faaliyetler bu Kanun hükümlerine tabi değildir. a) Siyasi partilerin, kamu kurumu niteliğindeki meslek kurulu…",
       "kitap": null,
       "kisim": null,
-      "bolum": "BİRİNCİ BÖLÜM · Genel Hükümler",
+      "bolum": null,
       "ayirim": null,
       "maddeBaslik": "İstisnalar",
       "sectionPath": [
-        "BİRİNCİ BÖLÜM · Genel Hükümler",
         "İstisnalar"
       ]
     },
@@ -91,11 +85,10 @@
       "preview": "Seçim zamanlarında yapılacak propaganda toplantıları ile ilgili kanun hükümleri saklıdır.",
       "kitap": null,
       "kisim": null,
-      "bolum": "BİRİNCİ BÖLÜM · Genel Hükümler",
+      "bolum": null,
       "ayirim": null,
       "maddeBaslik": "Seçim zamanına ilişkin hükümler",
       "sectionPath": [
-        "BİRİNCİ BÖLÜM · Genel Hükümler",
         "Seçim zamanına ilişkin hükümler"
       ]
     },
@@ -580,7 +573,7 @@
       "maddeKind": "madde",
       "maddeNo": "34",
       "heading": "Madde 34",
-      "text": "27 nci maddedeki yasağa aykırı hareket edenler toplantı veya yürüyüş vukubulmamış veya vukubulmuş olup da ilk emir ve ihtar üzerine dağıtılmış ise, fiil daha ağır bir cezayı gerektiren ayrı bir suç teşkil etmediği takdirde bir yıl altı aydan dört yıla, toplantı ve yürüyüş zorla dağıtılmış ise üç yıldan beş yıla kadar hapis cezası ile cezalandırılır.\n\n Çocuklar hakkında uygulanmayacak hüküm\n Madde 34/A – (Ek: 22/7/2010 - 6008/3 md.)\n Bu Kanuna aykırı toplantı ve gösteri yürüyüşlerine katılarak direnme suçunu veya katıldıkları toplantı ve gösteri yürüyüşleri sırasında propaganda suçunu işleyen çocuklar hakkında bu suçlara bağlı olarak ayrıca 3713 sayılı Terörle Mücadele Kanununun 2 nci maddesinin ikinci fıkrası hükmü uygulanmaz.",
+      "text": "27 nci maddedeki yasağa aykırı hareket edenler toplantı veya yürüyüş vukubulmamış veya vukubulmuş olup da ilk emir ve ihtar üzerine dağıtılmış ise, fiil daha ağır bir cezayı gerektiren ayrı bir suç teşkil etmediği takdirde bir yıl altı aydan dört yıla, toplantı ve yürüyüş zorla dağıtılmış ise üç yıldan beş yıla kadar hapis cezası ile cezalandırılır.",
       "preview": "27 nci maddedeki yasağa aykırı hareket edenler toplantı veya yürüyüş vukubulmamış veya vukubulmuş olup da ilk emir ve ihtar üzerine dağıtılm…",
       "kitap": null,
       "kisim": null,
@@ -590,6 +583,23 @@
       "sectionPath": [
         "YEDİNCİ BÖLÜM · Ceza Hükümleri",
         "Tahrikçiler ve suç ortakları"
+      ]
+    },
+    {
+      "id": "kanun:2911:m:34/A",
+      "maddeKind": "madde",
+      "maddeNo": "34/A",
+      "heading": "Madde 34/A",
+      "text": "(Ek: 22/7/2010 - 6008/3 md.)\n Bu Kanuna aykırı toplantı ve gösteri yürüyüşlerine katılarak direnme suçunu veya katıldıkları toplantı ve gösteri yürüyüşleri sırasında propaganda suçunu işleyen çocuklar hakkında bu suçlara bağlı olarak ayrıca 3713 sayılı Terörle Mücadele Kanununun 2 nci maddesinin ikinci fıkrası hükmü uygulanmaz.",
+      "preview": "(Ek: 22/7/2010 - 6008/3 md.) Bu Kanuna aykırı toplantı ve gösteri yürüyüşlerine katılarak direnme suçunu veya katıldıkları toplantı ve göste…",
+      "kitap": null,
+      "kisim": null,
+      "bolum": "YEDİNCİ BÖLÜM · Ceza Hükümleri",
+      "ayirim": null,
+      "maddeBaslik": "Çocuklar hakkında uygulanmayacak hüküm",
+      "sectionPath": [
+        "YEDİNCİ BÖLÜM · Ceza Hükümleri",
+        "Çocuklar hakkında uygulanmayacak hüküm"
       ]
     },
     {

@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "generatedAt": "2026-09-24T16:18:22.378Z",
+  "generatedAt": "2026-10-30T19:12:18.410Z",
   "instruments": [
     {
       "id": "kanun:1",
@@ -17,7 +17,7 @@
       ],
       "tur": 19,
       "tertip": 5,
-      "maddeCount": 562
+      "maddeCount": 667
     },
     {
       "id": "kanun:193",
@@ -33,7 +33,7 @@
       ],
       "tur": 1,
       "tertip": 4,
-      "maddeCount": 238
+      "maddeCount": 245
     },
     {
       "id": "kanun:197",
@@ -49,7 +49,7 @@
       ],
       "tur": 1,
       "tertip": 5,
-      "maddeCount": 33
+      "maddeCount": 27
     },
     {
       "id": "kanun:210",
@@ -80,7 +80,7 @@
       ],
       "tur": 1,
       "tertip": 4,
-      "maddeCount": 440
+      "maddeCount": 482
     },
     {
       "id": "kanun:488",
@@ -95,7 +95,7 @@
       ],
       "tur": 1,
       "tertip": 5,
-      "maddeCount": 44
+      "maddeCount": 41
     },
     {
       "id": "kanun:492",
@@ -110,7 +110,7 @@
       ],
       "tur": 1,
       "tertip": 5,
-      "maddeCount": 157
+      "maddeCount": 151
     },
     {
       "id": "kanun:634",
@@ -126,7 +126,7 @@
       ],
       "tur": 1,
       "tertip": 5,
-      "maddeCount": 88
+      "maddeCount": 83
     },
     {
       "id": "kanun:657",
@@ -142,7 +142,7 @@
       ],
       "tur": 1,
       "tertip": 5,
-      "maddeCount": 372
+      "maddeCount": 394
     },
     {
       "id": "kanun:663",
@@ -158,7 +158,7 @@
       ],
       "tur": 4,
       "tertip": 5,
-      "maddeCount": 80
+      "maddeCount": 86
     },
     {
       "id": "kanun:854",
@@ -173,7 +173,7 @@
       ],
       "tur": 1,
       "tertip": 5,
-      "maddeCount": 62
+      "maddeCount": 60
     },
     {
       "id": "kanun:1136",
@@ -189,7 +189,7 @@
       ],
       "tur": 1,
       "tertip": 5,
-      "maddeCount": 236
+      "maddeCount": 232
     },
     {
       "id": "kanun:1163",
@@ -204,7 +204,7 @@
       ],
       "tur": 1,
       "tertip": 5,
-      "maddeCount": 122
+      "maddeCount": 119
     },
     {
       "id": "kanun:1219",
@@ -264,7 +264,7 @@
       ],
       "tur": 1,
       "tertip": 5,
-      "maddeCount": 54
+      "maddeCount": 51
     },
     {
       "id": "kanun:1512",
@@ -279,7 +279,7 @@
       ],
       "tur": 1,
       "tertip": 5,
-      "maddeCount": 236
+      "maddeCount": 239
     },
     {
       "id": "kanun:1567",
@@ -295,7 +295,7 @@
       ],
       "tur": 1,
       "tertip": 3,
-      "maddeCount": 15
+      "maddeCount": 13
     },
     {
       "id": "kanun:1593",
@@ -341,7 +341,7 @@
       ],
       "tur": 1,
       "tertip": 3,
-      "maddeCount": 401
+      "maddeCount": 486
     },
     {
       "id": "kanun:2464",
@@ -356,7 +356,7 @@
       ],
       "tur": 1,
       "tertip": 5,
-      "maddeCount": 103
+      "maddeCount": 104
     },
     {
       "id": "kanun:2547",
@@ -371,7 +371,7 @@
       ],
       "tur": 1,
       "tertip": 5,
-      "maddeCount": 221
+      "maddeCount": 211
     },
     {
       "id": "kanun:2548",
@@ -402,7 +402,7 @@
       ],
       "tur": 1,
       "tertip": 3,
-      "maddeCount": 41
+      "maddeCount": 40
     },
     {
       "id": "kanun:2575",
@@ -417,7 +417,7 @@
       ],
       "tur": 1,
       "tertip": 5,
-      "maddeCount": 135
+      "maddeCount": 139
     },
     {
       "id": "kanun:2576",
@@ -432,7 +432,7 @@
       ],
       "tur": 1,
       "tertip": 5,
-      "maddeCount": 41
+      "maddeCount": 48
     },
     {
       "id": "kanun:2577",
@@ -448,7 +448,7 @@
       ],
       "tur": 1,
       "tertip": 5,
-      "maddeCount": 81
+      "maddeCount": 82
     },
     {
       "id": "kanun:2634",
@@ -463,7 +463,7 @@
       ],
       "tur": 1,
       "tertip": 5,
-      "maddeCount": 67
+      "maddeCount": 65
     },
     {
       "id": "kanun:2644",
@@ -495,7 +495,7 @@
       ],
       "tur": 1,
       "tertip": 5,
-      "maddeCount": 204
+      "maddeCount": 198
     },
     {
       "id": "kanun:2797",
@@ -510,7 +510,7 @@
       ],
       "tur": 1,
       "tertip": 5,
-      "maddeCount": 98
+      "maddeCount": 93
     },
     {
       "id": "kanun:2802",
@@ -526,7 +526,7 @@
       ],
       "tur": 1,
       "tertip": 5,
-      "maddeCount": 170
+      "maddeCount": 157
     },
     {
       "id": "kanun:2820",
@@ -542,7 +542,7 @@
       ],
       "tur": 1,
       "tertip": 5,
-      "maddeCount": 153
+      "maddeCount": 150
     },
     {
       "id": "kanun:2863",
@@ -572,7 +572,7 @@
       ],
       "tur": 1,
       "tertip": 5,
-      "maddeCount": 61
+      "maddeCount": 54
     },
     {
       "id": "kanun:2873",
@@ -617,7 +617,7 @@
       ],
       "tur": 1,
       "tertip": 5,
-      "maddeCount": 44
+      "maddeCount": 45
     },
     {
       "id": "kanun:2918",
@@ -633,7 +633,7 @@
       ],
       "tur": 1,
       "tertip": 5,
-      "maddeCount": 191
+      "maddeCount": 187
     },
     {
       "id": "kanun:2920",
@@ -648,7 +648,7 @@
       ],
       "tur": 1,
       "tertip": 5,
-      "maddeCount": 153
+      "maddeCount": 154
     },
     {
       "id": "kanun:2942",
@@ -663,7 +663,7 @@
       ],
       "tur": 1,
       "tertip": 5,
-      "maddeCount": 69
+      "maddeCount": 68
     },
     {
       "id": "kanun:2985",
@@ -678,7 +678,7 @@
       ],
       "tur": 1,
       "tertip": 5,
-      "maddeCount": 38
+      "maddeCount": 35
     },
     {
       "id": "kanun:3065",
@@ -695,7 +695,7 @@
       ],
       "tur": 1,
       "tertip": 5,
-      "maddeCount": 114
+      "maddeCount": 110
     },
     {
       "id": "kanun:3194",
@@ -725,7 +725,7 @@
       ],
       "tur": 1,
       "tertip": 5,
-      "maddeCount": 127
+      "maddeCount": 119
     },
     {
       "id": "kanun:3218",
@@ -755,7 +755,7 @@
       ],
       "tur": 1,
       "tertip": 5,
-      "maddeCount": 48
+      "maddeCount": 47
     },
     {
       "id": "kanun:3402",
@@ -770,7 +770,7 @@
       ],
       "tur": 1,
       "tertip": 5,
-      "maddeCount": 68
+      "maddeCount": 70
     },
     {
       "id": "kanun:3621",
@@ -816,7 +816,7 @@
       ],
       "tur": 1,
       "tertip": 5,
-      "maddeCount": 49
+      "maddeCount": 52
     },
     {
       "id": "kanun:4054",
@@ -831,7 +831,7 @@
       ],
       "tur": 1,
       "tertip": 5,
-      "maddeCount": 73
+      "maddeCount": 72
     },
     {
       "id": "kanun:4342",
@@ -861,7 +861,7 @@
       ],
       "tur": 1,
       "tertip": 5,
-      "maddeCount": 69
+      "maddeCount": 68
     },
     {
       "id": "kanun:4458",
@@ -876,7 +876,7 @@
       ],
       "tur": 1,
       "tertip": 5,
-      "maddeCount": 250
+      "maddeCount": 260
     },
     {
       "id": "kanun:4562",
@@ -891,7 +891,7 @@
       ],
       "tur": 1,
       "tertip": 5,
-      "maddeCount": 50
+      "maddeCount": 52
     },
     {
       "id": "kanun:4646",
@@ -936,7 +936,7 @@
       ],
       "tur": 1,
       "tertip": 5,
-      "maddeCount": 66
+      "maddeCount": 63
     },
     {
       "id": "kanun:4691",
@@ -967,7 +967,7 @@
       ],
       "tur": 1,
       "tertip": 5,
-      "maddeCount": 1032
+      "maddeCount": 1031
     },
     {
       "id": "kanun:4734",
@@ -983,7 +983,7 @@
       ],
       "tur": 1,
       "tertip": 5,
-      "maddeCount": 107
+      "maddeCount": 104
     },
     {
       "id": "kanun:4735",
@@ -998,7 +998,7 @@
       ],
       "tur": 1,
       "tertip": 5,
-      "maddeCount": 51
+      "maddeCount": 50
     },
     {
       "id": "kanun:4760",
@@ -1014,7 +1014,7 @@
       ],
       "tur": 1,
       "tertip": 5,
-      "maddeCount": 30
+      "maddeCount": 31
     },
     {
       "id": "kanun:4857",
@@ -1075,7 +1075,7 @@
       ],
       "tur": 1,
       "tertip": 5,
-      "maddeCount": 42
+      "maddeCount": 41
     },
     {
       "id": "kanun:4982",
@@ -1120,7 +1120,7 @@
       ],
       "tur": 1,
       "tertip": 5,
-      "maddeCount": 117
+      "maddeCount": 115
     },
     {
       "id": "kanun:5070",
@@ -1196,7 +1196,7 @@
       ],
       "tur": 1,
       "tertip": 5,
-      "maddeCount": 39
+      "maddeCount": 40
     },
     {
       "id": "kanun:5216",
@@ -1242,7 +1242,7 @@
       ],
       "tur": 1,
       "tertip": 5,
-      "maddeCount": 347
+      "maddeCount": 349
     },
     {
       "id": "kanun:5253",
@@ -1257,7 +1257,7 @@
       ],
       "tur": 1,
       "tertip": 5,
-      "maddeCount": 43
+      "maddeCount": 47
     },
     {
       "id": "kanun:5271",
@@ -1273,7 +1273,7 @@
       ],
       "tur": 1,
       "tertip": 5,
-      "maddeCount": 352
+      "maddeCount": 349
     },
     {
       "id": "kanun:5275",
@@ -1289,7 +1289,7 @@
       ],
       "tur": 1,
       "tertip": 5,
-      "maddeCount": 136
+      "maddeCount": 139
     },
     {
       "id": "kanun:5300",
@@ -1334,7 +1334,7 @@
       ],
       "tur": 1,
       "tertip": 5,
-      "maddeCount": 49
+      "maddeCount": 53
     },
     {
       "id": "kanun:5346",
@@ -1349,7 +1349,7 @@
       ],
       "tur": 1,
       "tertip": 5,
-      "maddeCount": 25
+      "maddeCount": 28
     },
     {
       "id": "kanun:5393",
@@ -1364,7 +1364,7 @@
       ],
       "tur": 1,
       "tertip": 5,
-      "maddeCount": 102
+      "maddeCount": 101
     },
     {
       "id": "kanun:5395",
@@ -1380,7 +1380,7 @@
       ],
       "tur": 1,
       "tertip": 5,
-      "maddeCount": 53
+      "maddeCount": 63
     },
     {
       "id": "kanun:5402",
@@ -1396,7 +1396,7 @@
       ],
       "tur": 1,
       "tertip": 5,
-      "maddeCount": 37
+      "maddeCount": 40
     },
     {
       "id": "kanun:5403",
@@ -1411,7 +1411,7 @@
       ],
       "tur": 1,
       "tertip": 5,
-      "maddeCount": 37
+      "maddeCount": 51
     },
     {
       "id": "kanun:5411",
@@ -1426,7 +1426,7 @@
       ],
       "tur": 1,
       "tertip": 5,
-      "maddeCount": 206
+      "maddeCount": 208
     },
     {
       "id": "kanun:5442",
@@ -1486,7 +1486,7 @@
       ],
       "tur": 1,
       "tertip": 5,
-      "maddeCount": 91
+      "maddeCount": 93
     },
     {
       "id": "kanun:5510",
@@ -1502,7 +1502,7 @@
       ],
       "tur": 1,
       "tertip": 5,
-      "maddeCount": 246
+      "maddeCount": 245
     },
     {
       "id": "kanun:5520",
@@ -1518,7 +1518,7 @@
       ],
       "tur": 1,
       "tertip": 5,
-      "maddeCount": 72
+      "maddeCount": 76
     },
     {
       "id": "kanun:5543",
@@ -1548,7 +1548,7 @@
       ],
       "tur": 1,
       "tertip": 5,
-      "maddeCount": 33
+      "maddeCount": 36
     },
     {
       "id": "kanun:5607",
@@ -1563,7 +1563,7 @@
       ],
       "tur": 1,
       "tertip": 5,
-      "maddeCount": 42
+      "maddeCount": 43
     },
     {
       "id": "kanun:5651",
@@ -1579,7 +1579,7 @@
       ],
       "tur": 1,
       "tertip": 5,
-      "maddeCount": 24
+      "maddeCount": 27
     },
     {
       "id": "kanun:5682",
@@ -1609,7 +1609,7 @@
       ],
       "tur": 1,
       "tertip": 5,
-      "maddeCount": 65
+      "maddeCount": 70
     },
     {
       "id": "kanun:5686",
@@ -1670,7 +1670,7 @@
       ],
       "tur": 1,
       "tertip": 5,
-      "maddeCount": 79
+      "maddeCount": 80
     },
     {
       "id": "kanun:5846",
@@ -1686,7 +1686,7 @@
       ],
       "tur": 1,
       "tertip": 3,
-      "maddeCount": 111
+      "maddeCount": 115
     },
     {
       "id": "kanun:5901",
@@ -1763,7 +1763,7 @@
       ],
       "tur": 1,
       "tertip": 5,
-      "maddeCount": 53
+      "maddeCount": 60
     },
     {
       "id": "kanun:6098",
@@ -1779,7 +1779,7 @@
       ],
       "tur": 1,
       "tertip": 5,
-      "maddeCount": 650
+      "maddeCount": 649
     },
     {
       "id": "kanun:6100",
@@ -1795,7 +1795,7 @@
       ],
       "tur": 1,
       "tertip": 5,
-      "maddeCount": 449
+      "maddeCount": 447
     },
     {
       "id": "kanun:6102",
@@ -1811,7 +1811,7 @@
       ],
       "tur": 1,
       "tertip": 5,
-      "maddeCount": 1550
+      "maddeCount": 1551
     },
     {
       "id": "kanun:6112",
@@ -1827,7 +1827,7 @@
       ],
       "tur": 1,
       "tertip": 5,
-      "maddeCount": 58
+      "maddeCount": 59
     },
     {
       "id": "kanun:6136",
@@ -1842,7 +1842,7 @@
       ],
       "tur": 1,
       "tertip": 3,
-      "maddeCount": 41
+      "maddeCount": 44
     },
     {
       "id": "kanun:6183",
@@ -1858,7 +1858,7 @@
       ],
       "tur": 1,
       "tertip": 3,
-      "maddeCount": 137
+      "maddeCount": 134
     },
     {
       "id": "kanun:6216",
@@ -1873,7 +1873,7 @@
       ],
       "tur": 1,
       "tertip": 5,
-      "maddeCount": 80
+      "maddeCount": 81
     },
     {
       "id": "kanun:6284",
@@ -1903,7 +1903,7 @@
       ],
       "tur": 1,
       "tertip": 5,
-      "maddeCount": 34
+      "maddeCount": 35
     },
     {
       "id": "kanun:6325",
@@ -1919,7 +1919,7 @@
       ],
       "tur": 1,
       "tertip": 5,
-      "maddeCount": 41
+      "maddeCount": 45
     },
     {
       "id": "kanun:6326",
@@ -1950,7 +1950,7 @@
       ],
       "tur": 1,
       "tertip": 5,
-      "maddeCount": 50
+      "maddeCount": 52
     },
     {
       "id": "kanun:6356",
@@ -1980,7 +1980,7 @@
       ],
       "tur": 1,
       "tertip": 5,
-      "maddeCount": 63
+      "maddeCount": 68
     },
     {
       "id": "kanun:6362",
@@ -1996,7 +1996,7 @@
       ],
       "tur": 1,
       "tertip": 5,
-      "maddeCount": 158
+      "maddeCount": 171
     },
     {
       "id": "kanun:6446",
@@ -2011,7 +2011,7 @@
       ],
       "tur": 1,
       "tertip": 5,
-      "maddeCount": 73
+      "maddeCount": 74
     },
     {
       "id": "kanun:6458",
@@ -2027,7 +2027,7 @@
       ],
       "tur": 1,
       "tertip": 5,
-      "maddeCount": 131
+      "maddeCount": 134
     },
     {
       "id": "kanun:6493",
@@ -2042,7 +2042,7 @@
       ],
       "tur": 1,
       "tertip": 5,
-      "maddeCount": 45
+      "maddeCount": 46
     },
     {
       "id": "kanun:6502",
@@ -2058,7 +2058,7 @@
       ],
       "tur": 1,
       "tertip": 5,
-      "maddeCount": 91
+      "maddeCount": 95
     },
     {
       "id": "kanun:6563",
@@ -2180,7 +2180,7 @@
       ],
       "tur": 1,
       "tertip": 3,
-      "maddeCount": 30
+      "maddeCount": 29
     },
     {
       "id": "kanun:6831",
@@ -2195,7 +2195,7 @@
       ],
       "tur": 1,
       "tertip": 3,
-      "maddeCount": 158
+      "maddeCount": 159
     },
     {
       "id": "kanun:7036",
@@ -2258,7 +2258,7 @@
       ],
       "tur": 1,
       "tertip": 3,
-      "maddeCount": 68
+      "maddeCount": 71
     },
     {
       "id": "kanun:7223",
@@ -2350,7 +2350,7 @@
       ],
       "tur": 21,
       "tertip": 5,
-      "maddeCount": 50
+      "maddeCount": 51
     },
     {
       "id": "yonetmelik:2324",
@@ -2366,7 +2366,7 @@
       ],
       "tur": 21,
       "tertip": 5,
-      "maddeCount": 148
+      "maddeCount": 149
     },
     {
       "id": "yonetmelik:3935",
@@ -2398,7 +2398,7 @@
       ],
       "tur": 7,
       "tertip": 5,
-      "maddeCount": 51
+      "maddeCount": 54
     },
     {
       "id": "yonetmelik:5040",
@@ -2479,7 +2479,7 @@
       ],
       "tur": 7,
       "tertip": 5,
-      "maddeCount": 80
+      "maddeCount": 85
     },
     {
       "id": "yonetmelik:7076",
@@ -2495,7 +2495,7 @@
       ],
       "tur": 7,
       "tertip": 5,
-      "maddeCount": 31
+      "maddeCount": 32
     },
     {
       "id": "yonetmelik:8043",
@@ -2512,7 +2512,7 @@
       ],
       "tur": 7,
       "tertip": 5,
-      "maddeCount": 120
+      "maddeCount": 123
     },
     {
       "id": "yonetmelik:8197",
@@ -2624,7 +2624,7 @@
       ],
       "tur": 7,
       "tertip": 5,
-      "maddeCount": 113
+      "maddeCount": 116
     },
     {
       "id": "yonetmelik:13354",
@@ -2640,7 +2640,7 @@
       ],
       "tur": 9,
       "tertip": 5,
-      "maddeCount": 131
+      "maddeCount": 135
     },
     {
       "id": "yonetmelik:15452",
@@ -2656,7 +2656,7 @@
       ],
       "tur": 7,
       "tertip": 5,
-      "maddeCount": 31
+      "maddeCount": 32
     },
     {
       "id": "yonetmelik:15592",
@@ -2721,7 +2721,7 @@
       ],
       "tur": 7,
       "tertip": 5,
-      "maddeCount": 30
+      "maddeCount": 32
     },
     {
       "id": "yonetmelik:19819",
@@ -2753,7 +2753,7 @@
       ],
       "tur": 7,
       "tertip": 5,
-      "maddeCount": 24
+      "maddeCount": 25
     },
     {
       "id": "yonetmelik:23615",
@@ -2786,7 +2786,7 @@
       ],
       "tur": 7,
       "tertip": 5,
-      "maddeCount": 78
+      "maddeCount": 79
     },
     {
       "id": "yonetmelik:23818",
@@ -2834,7 +2834,7 @@
       ],
       "tur": 7,
       "tertip": 5,
-      "maddeCount": 95
+      "maddeCount": 97
     },
     {
       "id": "yonetmelik:24638",
@@ -2948,7 +2948,7 @@
       ],
       "tur": 7,
       "tertip": 5,
-      "maddeCount": 113
+      "maddeCount": 114
     },
     {
       "id": "yonetmelik:38760",
@@ -3012,7 +3012,7 @@
       ],
       "tur": 7,
       "tertip": 5,
-      "maddeCount": 151
+      "maddeCount": 152
     },
     {
       "id": "yonetmelik:40940",
@@ -3092,7 +3092,7 @@
       ],
       "tur": 21,
       "tertip": 5,
-      "maddeCount": 60
+      "maddeCount": 61
     },
     {
       "id": "yonetmelik:20124093",
@@ -3140,7 +3140,7 @@
       ],
       "tur": 21,
       "tertip": 5,
-      "maddeCount": 56
+      "maddeCount": 62
     }
   ]
 }

@@ -3,6 +3,10 @@ export const CALENDAR_EVENT_TYPES = [
     { value: 'KESIF', label: 'Keşif', dotClass: 'bg-amber-500' },
     { value: 'SURE', label: 'Süre', dotClass: 'bg-sky-500' },
     { value: 'GOREV', label: 'Görev', dotClass: 'bg-emerald-500' },
+    { value: 'TOPLANTI', label: 'Toplantı', dotClass: 'bg-violet-500' },
+    { value: 'TELEKONFERANS', label: 'Telekonferans', dotClass: 'bg-cyan-500' },
+    { value: 'ZIYARET', label: 'Ziyaret', dotClass: 'bg-orange-500' },
+    { value: 'ETKINLIK', label: 'Etkinlik', dotClass: 'bg-fuchsia-500' },
     { value: 'DIGER', label: 'Diğer', dotClass: 'bg-muted-foreground' },
 ] as const;
 

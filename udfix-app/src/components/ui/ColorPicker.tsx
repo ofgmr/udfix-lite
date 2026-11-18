@@ -72,7 +72,7 @@ const ColorPicker: React.FC<ColorPickerProps> = ({
         color && color !== '#ffffff' ? color : defaultHighlight;
 
     const swatches = (
-        <PopoverContent className="w-auto p-3" align="start">
+        <PopoverContent className="glass-glow w-auto p-3" align="start">
             <div className="flex gap-2">
                 {colors.map((c) => {
                     const isYinYang = Boolean(c.yinYang);

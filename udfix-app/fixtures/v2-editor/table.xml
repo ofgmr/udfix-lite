@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<template format_id="1.8">
+<content><![CDATA[Sentetik kalem
+]]></content>
+<elements>
+<table tableName="Ornek" columnCount="2" columnSpans="50,50" border="borderCell">
+<row rowName="row0" rowType="headerRow"><cell><paragraph Alignment="0"><content startOffset="0" length="8" /></paragraph></cell><cell><paragraph Alignment="0"><content startOffset="9" length="5" /></paragraph></cell></row>
+</table>
+</elements>
+</template>

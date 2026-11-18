@@ -1,0 +1,2 @@
+Düz metin. Türkçe karakter: ğüşıöç.
+İkinci satır.

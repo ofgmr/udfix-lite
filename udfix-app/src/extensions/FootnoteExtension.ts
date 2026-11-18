@@ -1,5 +1,7 @@
 import { Mark, mergeAttributes } from '@tiptap/core'
-import { Plugin, PluginKey } from '@tiptap/pm/state'
+import type { Node as PmNode } from '@tiptap/pm/model'
+import { Plugin, PluginKey, type Transaction } from '@tiptap/pm/state'
+import type { AddMarkStep, ReplaceStep, Step } from '@tiptap/pm/transform'
 
 export interface FootnoteOptions {
     HTMLAttributes: Record<string, unknown>
@@ -15,8 +17,81 @@ declare module '@tiptap/core' {
     }
 }
 
+/** Nodes visited by the numbering walk. Plain typing should leave this at 0. */
+export const footnoteScanStats = { nodes: 0 }
+
+function nodeHasFootnote(node: PmNode): boolean {
+    if (node.marks.some((mark) => mark.type.name === 'footnote')) return true
+    let found = false
+    node.descendants((child) => {
+        if (child.marks.some((mark) => mark.type.name === 'footnote')) {
+            found = true
+            return false
+        }
+        return !found
+    })
+    return found
+}
+
+function rangeHasFootnote(doc: PmNode, from: number, to: number): boolean {
+    if (from === to) return false
+    const max = doc.content.size
+    const start = Math.max(0, Math.min(from, max))
+    const end = Math.max(start, Math.min(to, max))
+    if (start === end) return false
+    let found = false
+    doc.nodesBetween(start, end, (node) => {
+        if (node.marks.some((mark) => mark.type.name === 'footnote')) {
+            found = true
+            return false
+        }
+        return !found
+    })
+    return found
+}
+
+function stepJsonId(step: Step): string {
+    const labeled = step as Step & { jsonID?: string }
+    return labeled.jsonID ?? ''
+}
+
+/**
+ * True when a step adds, removes, or replaces a footnote mark.
+ * Step classes are compared by jsonID because the editor and this module
+ * can each load their own copy of prosemirror-transform.
+ */
+export function transactionTouchesFootnote(tr: Transaction): boolean {
+    if (!tr.docChanged) return false
+    let doc = tr.before
+    for (const step of tr.steps) {
+        const kind = stepJsonId(step)
+        if (kind === 'addMark' || kind === 'removeMark') {
+            const mark = (step as AddMarkStep).mark
+            if (mark.type.name === 'footnote') return true
+        } else if (kind === 'replace' || kind === 'replaceAround') {
+            const replace = step as ReplaceStep
+            let inserted = false
+            replace.slice.content.forEach((node) => {
+                if (!inserted && nodeHasFootnote(node)) inserted = true
+            })
+            if (inserted || rangeHasFootnote(doc, replace.from, replace.to)) return true
+        } else if (kind === 'attr') {
+            // Footnote numbers live on the mark, not on a node attribute.
+        } else {
+            return true
+        }
+        const applied = step.apply(doc)
+        if (applied.failed || !applied.doc) return true
+        doc = applied.doc
+    }
+    return false
+}
+
 export const FootnoteExtension = Mark.create<FootnoteOptions>({
     name: 'footnote',
+    // Superscript also parses every `sup`. This mark must be tried first so
+    // `sup[data-footnote-id]` keeps its id and note text on paste.
+    priority: 1000,
     inclusive: false,
 
     addOptions() {
@@ -187,12 +262,15 @@ export const FootnoteExtension = Mark.create<FootnoteOptions>({
         return [
             new Plugin({
                 key: new PluginKey('footnoteNumbering'),
-                appendTransaction(_transactions, _oldState, newState) {
+                appendTransaction(transactions, _oldState, newState) {
+                    if (!transactions.some((tr) => transactionTouchesFootnote(tr))) return null
+
                     const tr = newState.tr
                     let modified = false
                     let counter = 1
 
                     newState.doc.descendants((node, pos) => {
+                        footnoteScanStats.nodes += 1
                         // Check if node has footnote mark
                         const footnoteMark = node.marks.find(m => m.type.name === 'footnote')
                         if (footnoteMark) {

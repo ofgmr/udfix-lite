@@ -120,7 +120,6 @@ export const EmailViewer: React.FC<EmailViewerProps> = ({ fileUrl, searchQuery =
     const openAttachment = useCallback((att: any) => {
         try {
             const { openInNewViewerTab } = useLayoutStore.getState();
-            const ownerWindow = viewerHost?.getOwnerWindow() ?? window;
             const viewerOpts = viewerHost?.panelId
                 ? { targetViewerPanelId: viewerHost.panelId, forceSiblingTab: true }
                 : undefined;

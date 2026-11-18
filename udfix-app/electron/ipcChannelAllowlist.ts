@@ -29,8 +29,11 @@ const INVOKE_EXACT = new Set([
     'uyap-bridge-walk-start',
     'uyap-bridge-walk-stop',
     'uyap-bridge-schedule-set',
-    'app-show-native-notification',
     'fs-file-url',
+    'diagnostics-log',
+    'diagnostics-heartbeat',
+    'diagnostics-reveal-log',
+    'diagnostics-export-log',
 ]);
 
 /** `db-` covers library + per-document HF: db-get/set-header-footer-library, db-get/set-document-hf. */

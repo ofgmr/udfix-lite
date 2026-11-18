@@ -1,14 +1,17 @@
-## Native / üçüncü taraf (npm dışı)
+## Native / vendored (not npm)
 
 ### UDF QuickLook (Finder önizleme + küçük resim)
 
-macOS Finder’da `.udf` Space önizlemesi ve simge küçük resmi
-[saidsurucu/udf-quicklook-extension](https://github.com/saidsurucu/udf-quicklook-extension)
-projesine dayanır (yazar: saidsurucu). Kaynak bu depoda yoktur; atıf upstream içindir.
-Paketlenmiş `UDFIX.app` Finder eklentisi olarak taşır.
+- Proje: [saidsurucu/udf-quicklook-extension](https://github.com/saidsurucu/udf-quicklook-extension)
+- Yazar: saidsurucu
+- Konum: `scripts/udf-quicklook-extension/`
+- Upstream lisans dosyası yok; kaynak herkese açık. UDFIX bu ağacı Finder
+  QuickLook eklentisi olarak paketler (`UDFIX.app/Contents/PlugIns`). Ayrıntı:
+  `scripts/udf-quicklook-extension/NOTICE.md`.
 
 ### ZIPFoundation
 
 - https://github.com/weichsel/ZIPFoundation
 - Lisans: MIT
-- QuickLook eklentisinin `.udf` (ZIP) açma bağımlılığı.
+- UDF `.udf` (ZIP) açmak için QuickLook eklentisinin Swift bağımlılığı
+  (`Package.resolved` → 0.9.20).

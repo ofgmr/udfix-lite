@@ -116,20 +116,10 @@ export function applyTypographyPayload(editor: Editor, p: EditorTypographyPayloa
     const chain = editor.chain().focus();
     let touched = false;
 
-    if (p.fontFamily != null && p.fontFamily !== '') {
-        chain.setFontFamily(p.fontFamily);
-        touched = true;
-    } else if (p.fontFamily === '') {
-        chain.unsetFontFamily();
-        touched = true;
-    }
-
-    if (p.fontSize != null && p.fontSize !== '') {
-        // FontSize extension
-        (chain as unknown as { setFontSize: (s: string) => typeof chain }).setFontSize(p.fontSize);
-        touched = true;
-    }
-
+    // Block steps (line height, alignment, margins) clear stored marks.
+    // Apply them first so the font and the other inline marks that follow
+    // stay on the caret — otherwise an empty document drops the saved font
+    // and the next keystroke or paste comes out in the page default.
     if (p.lineHeight != null && p.lineHeight !== '') {
         chain.setLineHeight(p.lineHeight);
         touched = true;
@@ -140,14 +130,6 @@ export function applyTypographyPayload(editor: Editor, p: EditorTypographyPayloa
         touched = true;
     }
 
-    if (p.color != null && p.color !== '') {
-        chain.setColor(p.color);
-        touched = true;
-    } else if (p.color === '') {
-        chain.unsetColor();
-        touched = true;
-    }
-
     if (p.marginTop != null && p.marginTop !== '') {
         chain.setMarginTop(p.marginTop);
         touched = true;
@@ -155,6 +137,27 @@ export function applyTypographyPayload(editor: Editor, p: EditorTypographyPayloa
 
     if (p.marginBottom != null && p.marginBottom !== '') {
         chain.setMarginBottom(p.marginBottom);
+        touched = true;
+    }
+
+    if (p.fontFamily != null && p.fontFamily !== '') {
+        chain.setFontFamily(p.fontFamily);
+        touched = true;
+    } else if (p.fontFamily === '') {
+        chain.unsetFontFamily();
+        touched = true;
+    }
+
+    if (p.fontSize != null && p.fontSize !== '') {
+        (chain as unknown as { setFontSize: (s: string) => typeof chain }).setFontSize(p.fontSize);
+        touched = true;
+    }
+
+    if (p.color != null && p.color !== '') {
+        chain.setColor(p.color);
+        touched = true;
+    } else if (p.color === '') {
+        chain.unsetColor();
         touched = true;
     }
 

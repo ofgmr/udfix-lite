@@ -13,7 +13,7 @@
   "tertip": 3,
   "sourceUrl": "https://www.mevzuat.gov.tr/mevzuat?MevzuatNo=1567&MevzuatTur=1&MevzuatTertip=3",
   "kabulTarihi": "20/2/1930",
-  "maddeCount": 15,
+  "maddeCount": 13,
   "maddeler": [
     {
       "id": "kanun:1567:m:1",
@@ -26,10 +26,8 @@
       "kisim": null,
       "bolum": null,
       "ayirim": null,
-      "maddeBaslik": "Yayımlandığı Düstur : Tertip: 3 Cilt: 11 Sayfa: 68",
-      "sectionPath": [
-        "Yayımlandığı Düstur : Tertip: 3 Cilt: 11 Sayfa: 68"
-      ]
+      "maddeBaslik": null,
+      "sectionPath": []
     },
     {
       "id": "kanun:1567:m:2",
@@ -42,10 +40,8 @@
       "kisim": null,
       "bolum": null,
       "ayirim": null,
-      "maddeBaslik": "Yayımlandığı Düstur : Tertip: 3 Cilt: 11 Sayfa: 68",
-      "sectionPath": [
-        "Yayımlandığı Düstur : Tertip: 3 Cilt: 11 Sayfa: 68"
-      ]
+      "maddeBaslik": null,
+      "sectionPath": []
     },
     {
       "id": "kanun:1567:m:3",
@@ -58,10 +54,8 @@
       "kisim": null,
       "bolum": null,
       "ayirim": null,
-      "maddeBaslik": "Yayımlandığı Düstur : Tertip: 3 Cilt: 11 Sayfa: 68",
-      "sectionPath": [
-        "Yayımlandığı Düstur : Tertip: 3 Cilt: 11 Sayfa: 68"
-      ]
+      "maddeBaslik": null,
+      "sectionPath": []
     },
     {
       "id": "kanun:1567:m:4",
@@ -74,10 +68,8 @@
       "kisim": null,
       "bolum": null,
       "ayirim": null,
-      "maddeBaslik": "Yayımlandığı Düstur : Tertip: 3 Cilt: 11 Sayfa: 68",
-      "sectionPath": [
-        "Yayımlandığı Düstur : Tertip: 3 Cilt: 11 Sayfa: 68"
-      ]
+      "maddeBaslik": null,
+      "sectionPath": []
     },
     {
       "id": "kanun:1567:m:5",
@@ -90,10 +82,8 @@
       "kisim": null,
       "bolum": null,
       "ayirim": null,
-      "maddeBaslik": "Yayımlandığı Düstur : Tertip: 3 Cilt: 11 Sayfa: 68",
-      "sectionPath": [
-        "Yayımlandığı Düstur : Tertip: 3 Cilt: 11 Sayfa: 68"
-      ]
+      "maddeBaslik": null,
+      "sectionPath": []
     },
     {
       "id": "kanun:1567:m:ek:1",
@@ -106,10 +96,8 @@
       "kisim": null,
       "bolum": null,
       "ayirim": null,
-      "maddeBaslik": "Yayımlandığı Düstur : Tertip: 3 Cilt: 11 Sayfa: 68",
-      "sectionPath": [
-        "Yayımlandığı Düstur : Tertip: 3 Cilt: 11 Sayfa: 68"
-      ]
+      "maddeBaslik": null,
+      "sectionPath": []
     },
     {
       "id": "kanun:1567:m:ek:2",
@@ -122,10 +110,8 @@
       "kisim": null,
       "bolum": null,
       "ayirim": null,
-      "maddeBaslik": "Yayımlandığı Düstur : Tertip: 3 Cilt: 11 Sayfa: 68",
-      "sectionPath": [
-        "Yayımlandığı Düstur : Tertip: 3 Cilt: 11 Sayfa: 68"
-      ]
+      "maddeBaslik": null,
+      "sectionPath": []
     },
     {
       "id": "kanun:1567:m:ek:3",
@@ -138,10 +124,8 @@
       "kisim": null,
       "bolum": null,
       "ayirim": null,
-      "maddeBaslik": "Yayımlandığı Düstur : Tertip: 3 Cilt: 11 Sayfa: 68",
-      "sectionPath": [
-        "Yayımlandığı Düstur : Tertip: 3 Cilt: 11 Sayfa: 68"
-      ]
+      "maddeBaslik": null,
+      "sectionPath": []
     },
     {
       "id": "kanun:1567:m:ek:4",
@@ -154,10 +138,8 @@
       "kisim": null,
       "bolum": null,
       "ayirim": null,
-      "maddeBaslik": "Yayımlandığı Düstur : Tertip: 3 Cilt: 11 Sayfa: 68",
-      "sectionPath": [
-        "Yayımlandığı Düstur : Tertip: 3 Cilt: 11 Sayfa: 68"
-      ]
+      "maddeBaslik": null,
+      "sectionPath": []
     },
     {
       "id": "kanun:1567:m:ek:5",
@@ -170,10 +152,8 @@
       "kisim": null,
       "bolum": null,
       "ayirim": null,
-      "maddeBaslik": "Yayımlandığı Düstur : Tertip: 3 Cilt: 11 Sayfa: 68",
-      "sectionPath": [
-        "Yayımlandığı Düstur : Tertip: 3 Cilt: 11 Sayfa: 68"
-      ]
+      "maddeBaslik": null,
+      "sectionPath": []
     },
     {
       "id": "kanun:1567:m:gecici:1",
@@ -186,10 +166,8 @@
       "kisim": null,
       "bolum": null,
       "ayirim": null,
-      "maddeBaslik": "Yayımlandığı Düstur : Tertip: 3 Cilt: 11 Sayfa: 68",
-      "sectionPath": [
-        "Yayımlandığı Düstur : Tertip: 3 Cilt: 11 Sayfa: 68"
-      ]
+      "maddeBaslik": null,
+      "sectionPath": []
     },
     {
       "id": "kanun:1567:m:6",
@@ -202,58 +180,22 @@
       "kisim": null,
       "bolum": null,
       "ayirim": null,
-      "maddeBaslik": "Yayımlandığı Düstur : Tertip: 3 Cilt: 11 Sayfa: 68",
-      "sectionPath": [
-        "Yayımlandığı Düstur : Tertip: 3 Cilt: 11 Sayfa: 68"
-      ]
+      "maddeBaslik": null,
+      "sectionPath": []
     },
     {
       "id": "kanun:1567:m:7",
       "maddeKind": "madde",
       "maddeNo": "7",
       "heading": "Madde 7",
-      "text": "Bu kanun hükümlerinin icrasına Bakanlar Kurulu memurdur.\n\n 20/2/1930 Tarihli ve 1567 Sayılı Ana Kanuna İşlenemeyen Geçici Maddeler:\n 1 – 7/5/1985 tarihli ve 3196 sayılı Kanunun geçici maddesi:\n Geçici Madde – Bu Kanunun yürürlüğe girdiği tarihte 1567 sayılı Kanuna muhalefetten dolayı tutuklu veya hükümlü olanlar derhal tahliye edilirler.\n 1567 sayılı Kanuna göre verilmiş ve henüz yerine getirilmemiş mahkümiyet kararlarının yalnızca para cezalarına ilişkin kısımları infaz olunur. Hürriyeti bağlayıcı cezalar ile mütemmim ve feri cezalar infaz edilmez. İnfaz edilecek para cezasından, aynı suçtan dolayı daha önce tutuklu kalınan süreler ile infaz edilmekte olan hürriyeti bağlayıcı cezadan fiilen infaz edilmiş olan süreler, 647 sayılı Cezaların İnfazı Hakkında Kanunun 4 üncü maddesinin birinci fıkrasının 1 numaralı bendindeki cürümler için gösterilen asgari hadde göre hesap edilerek mahsup edilir.\n 1567 sayılı Kanuna muhalefetten açılmış olup da bu Kanunun yürürlüğe girdiği tarihte henüz karara bağlanmamış davalarda, sanık, hakim tarafından verilecek 10 günlük mehil içinde bu Kanunla getirilen ağır para cezasının aşağı haddini yargılama giderleriyle birlikte merciine ödediği takdirde kamu davası ortadan kaldırılır, ancak müsadere hükmü uygulanır. Verilen mehil içinde paranın ödenmemesi halinde ise kamu davasına devam olunur.\n\n 2 – 15/2/1989 tarihli ve 3521 sayılı Kanunun geçici maddesi:\n Geçici Madde – Bu Kanunun yürürlük tarihinden önce ticari amaçlarla ihraç edilen ve süresinde yurda getirilmemiş olan mal bedeli dövizlerin, bu Kanunun yürürlük tarihinden itibaren otuz gün içinde yurda getirilerek bir bankaya satılması halinde cari alış kurundan alımları yapılır.\n Verilen süre içinde yurda getirilmeyerek bankalara satışı yapılmayan açık taahhüt hesaplarına ait dövizlerle ilgili olarak, bu dövizlerin, 1 inci maddeye göre çıkarılan kararlar uyarınca yurda getirilmeleri gereken tarihteki kur ile verilen sürenin son günündeki kura göre hesaplanacak kur farkları ilgililerden, 6183 sayılı Kanuna göre tahsil olunur.\n Yukarıdaki fıkralara göre alımı yapılan döviz ve kur farkları ile ilgili açık taahhüt hesapları kapatılır.",
+      "text": "Bu kanun hükümlerinin icrasına Bakanlar Kurulu memurdur.\n\n 20/2/1930 Tarihli ve 1567 Sayılı Ana Kanuna İşlenemeyen Geçici Maddeler:\n 1 – 7/5/1985 tarihli ve 3196 sayılı Kanunun geçici maddesi:\n Geçici Madde – Bu Kanunun yürürlüğe girdiği tarihte 1567 sayılı Kanuna muhalefetten dolayı tutuklu veya hükümlü olanlar derhal tahliye edilirler.\n 1567 sayılı Kanuna göre verilmiş ve henüz yerine getirilmemiş mahkümiyet kararlarının yalnızca para cezalarına ilişkin kısımları infaz olunur. Hürriyeti bağlayıcı cezalar ile mütemmim ve feri cezalar infaz edilmez. İnfaz edilecek para cezasından, aynı suçtan dolayı daha önce tutuklu kalınan süreler ile infaz edilmekte olan hürriyeti bağlayıcı cezadan fiilen infaz edilmiş olan süreler, 647 sayılı Cezaların İnfazı Hakkında Kanunun 4 üncü maddesinin birinci fıkrasının 1 numaralı bendindeki cürümler için gösterilen asgari hadde göre hesap edilerek mahsup edilir.\n 1567 sayılı Kanuna muhalefetten açılmış olup da bu Kanunun yürürlüğe girdiği tarihte henüz karara bağlanmamış davalarda, sanık, hakim tarafından verilecek 10 günlük mehil içinde bu Kanunla getirilen ağır para cezasının aşağı haddini yargılama giderleriyle birlikte merciine ödediği takdirde kamu davası ortadan kaldırılır, ancak müsadere hükmü uygulanır. Verilen mehil içinde paranın ödenmemesi halinde ise kamu davasına devam olunur.\n\n 2 – 15/2/1989 tarihli ve 3521 sayılı Kanunun geçici maddesi:\n Geçici Madde – Bu Kanunun yürürlük tarihinden önce ticari amaçlarla ihraç edilen ve süresinde yurda getirilmemiş olan mal bedeli dövizlerin, bu Kanunun yürürlük tarihinden itibaren otuz gün içinde yurda getirilerek bir bankaya satılması halinde cari alış kurundan alımları yapılır.\n Verilen süre içinde yurda getirilmeyerek bankalara satışı yapılmayan açık taahhüt hesaplarına ait dövizlerle ilgili olarak, bu dövizlerin, 1 inci maddeye göre çıkarılan kararlar uyarınca yurda getirilmeleri gereken tarihteki kur ile verilen sürenin son günündeki kura göre hesaplanacak kur farkları ilgililerden, 6183 sayılı Kanuna göre tahsil olunur.\n Yukarıdaki fıkralara göre alımı yapılan döviz ve kur farkları ile ilgili açık taahhüt hesapları kapatılır.\n\n3 – 30/7/2003 tarihli ve 4961 sayılı Kanunun geçici maddeleri:\n\nGeçici Madde 1 -\nBu Kanunun yürürlük tarihinden önce 1567 sayılı Kanunun 3 üncü maddesinin (b) bendine istinaden kesinleşen mahkeme kararları ile hükmolunan, ancak henüz tahsil edilmemiş bulunan para cezalarına esas teşkil eden yurda getirilmesi gereken kıymetin ödeme tarihindeki Türkiye Cumhuriyet Merkez Bankası alış kurları üzerinden yüzde beşinin, bu Kanunun yayımı tarihinden itibaren doksan gün içinde ilgili vergi dairesine ödenmesi veya bu Kanunun yürürlük tarihinden önce 6183 sayılı Amme Alacaklarının Tahsil Usulü Hakkında Kanun hükümlerine göre kısmen tahsil edilen para cezasının yurda getirilmesi gereken kıymetin başvuru tarihindeki Türkiye Cumhuriyet Merkez Bankası alış kurları üzerinden hesap edilen tutarının yüzde beşine tekabül ettiğinin tespiti halinde, kesinleşmiş mahkeme kararları bütün neticeleri ile ortadan kalkar. Fazla ödenen tutarlar iade edilmez.\n Bu Kanunun yürürlüğe girdiği tarihten itibaren doksan gün içinde yükümlü oldukları kıymetleri cari kurdan yurda getirenlerin, cari kur üzerinden hesaplanan değer ile defter kayıtlarında yer alan ihracat bedeli arasındaki fark, pasifte bir fon hesabında izlenir. Bu fon sermayeye eklenmesi halinde gelir veya kurumlar vergisine tabi tutulmaz.\n\nGeçici Madde 2 -\nBu Kanunun yürürlük tarihinden önce 1567 sayılı Kanuna istinaden yürürlüğe konulan mevzuat hükümleri uyarınca süresi içinde zorunlu döviz ve efektif devir ve satış yükümlülüklerini yerine getirmeyen yetkili müesseseler ve kıymetli maden aracı kuruluşları, bu Kanunun yayımı tarihinden itibaren yüzelli gün içinde devirle yükümlü oldukları kıymetin yüzde birine tekabül eden tutarın, ödeme tarihindeki Türkiye Cumhuriyet Merkez Bankası alış kurları üzerinden Türk Lirası karşılığını ilgili vergi dairesine ödemeleri halinde, bu konuda açılmış davalar ile idarî işlemler bütün neticeleri ile ortadan kalkar.\n Bu Kanunun yürürlük tarihinden önce 1567 sayılı Türk Parasının Kıymetini Koruma Hakkında Kanun hükümlerine göre haklarında kambiyo takibi başlatılan, ancak henüz yargıya intikal ettirilmeyenlerin, bu Kanunun yayımı tarihinden itibaren yüzelli gün içinde yükümlü oldukları kıymeti yurda getirmeleri halinde bu konuda yürütülen idarî işlemler ortadan kalkar. Bu hüküm çerçevesinde yurda getirilen kıymetler için cari kur uygulanır.\n Kanunun yayımı tarihinden itibaren en çok yüzseksen gün içinde kambiyo takibine konu kıymetin yüzde dördüne tekabül eden tutarın ödeme tarihindeki Türkiye Cumhuriyet Merkez Bankası alış kurları üzerinden Türk Lirası karşılığını ilgili vergi dairesine ödemeleri halinde, bu konuda açılmış davalar ile idarî işlemler ortadan kalkar.\n 25.2.2003 tarihli ve 4811 sayılı Vergi Barışı Kanunundan yararlanarak adlarına salınan vergileri ödeyen ya da ödeme plânına bağlatan ihracatçı gözüken malî kuruluşlar hakkında geçici 2 nci maddedeki yüzde dört oran yüzde bir olarak uygulanır.\n\n (1) SAYILI ÜCRET TARİFESİ\n (Ek:20/7/2025-7555/3 md.)\n\n Ticari amaçla döviz alım satımında bulunmak üzere bu Kanun kapsamında faaliyet iznine tabi anonim şirketlerden alınacak ücretler\n Ücret Tutarı\n\n (1)\n Şube açma yetkisini haiz ise;\n\n a)\n 1 numaralı faaliyet bölgesi\n 25.907.400 TL\n\n b)\n 2 numaralı faaliyet bölgesi\n 21.589.500 TL\n\n c)\n 3 numaralı faaliyet bölgesi\n 17.271.600 TL\n\n ç)\n 4 numaralı faaliyet bölgesi\n 12.953.700 TL\n\n (2)\n Şube açma yetkisini haiz değil ise;\n\n a)\n 1 numaralı faaliyet bölgesi\n 23.748.450 TL\n\n b)\n 2 numaralı faaliyet bölgesi\n 19.430.550 TL\n\n c)\n 3 numaralı faaliyet bölgesi\n 15.112.650 TL\n\n ç)\n 4 numaralı faaliyet bölgesi\n 10.794.750 TL\n\n (3)\n Şube açma yetkisini haiz olanların şube açma izni başvurusu için;\n\n a)\n 1 numaralı faaliyet bölgesi\n 14.393.000 TL\n\n b)\n 2 numaralı faaliyet bölgesi\n 11.514.400 TL\n\n c)\n 3 numaralı faaliyet bölgesi\n 8.635.800 TL\n\n ç)\n 4 numaralı faaliyet bölgesi\n 5.757.200 TL\n\n (2) SAYILI ÜCRET TARİFESİ\n (Ek:20/7/2025-7555/3 md.)\n\n Ücret Tutarı\n\n (1)\n Borsa İstanbul Anonim Şirketi Kıymetli Madenler Piyasasında üye olarak kıymetli madenlere ilişkin faaliyet göstermek üzere verilecek faaliyet izinlerinde alınacak ücret\n 28.786.000 TL\n\n (3) SAYILI ÜCRET TARİFESİ\n (Ek:20/7/2025-7555/3 md.)\n\n Ücret Tutarı\n\n (1)\n Kıymetli maden rafinaj faaliyetlerinde bulunmak üzere verilecek faaliyet izinlerinde alınacak ücret (her bir üretim yeri ve her bir kıymetli maden türü için ayrı ayrı olmak üzere)\n 40.300.400 TL\n\n 1567 SAYILI KANUNA EK VE DEĞİŞİKLİK GETİREN MEVZUATIN VEYA ANAYASA MAHKEMESİ İPTAL KARARLARININ YÜRÜRLÜĞE GİRİŞ TARİHLERİNİ GÖSTERİR TABLO\n\n Değiştiren Kanunun/KHK’nin veya İptal Eden Anayasa Mahkemesi Kararının Numarası\n 1567 sayılı Kanunun değişen veya iptal edilen maddeleri\n Yürürlüğe Giriş Tarihi\n\n 2100\n —\n 23/1/1933\n\n 2686\n —\n 18/4/1935\n\n 3070\n —\n 2/12/1936\n\n 3336\n —\n 19/3/1938\n\n 3974\n —\n 15/1/1941\n\n 4328\n —\n 26/12/1942\n\n 4512\n —\n 29/1/1944\n\n 5014\n —\n 24/2/1947\n\n 5540\n —\n 18/2/1950\n\n 6060\n —\n 26/2/1953\n\n 6258\n —\n 20/2/1954\n\n 7220\n —\n 25/2/1959\n\n 402\n —\n 20/2/1964\n\n 723\n —\n 17/2/1966\n\n 753\n —\n 15/3/1966\n\n 990\n —\n 31/1/1968\n\n 1224\n —\n 11/2/1970\n\n 3196\n —\n 24/5/1985\n\n 3521\n —\n 28/2/1989\n\n 4961\n —\n 6/8/2003\n\n 5827\n 3,4,5\n 30/12/2008\n\n KHK/646\n Ek Madde 1\n 10/7/2011\n\n 7144\n 3, 5\n 25/5/2018\n\n KHK/700\n 1, 3, Ek Madde 2, Ek Madde 3, Ek Madde 5\n 24/6/2018 tarihinde birlikte yapılan Türkiye Büyük Millet Meclisi ve Cumhurbaşkanlığı seçimleri sonucunda Cumhurbaşkanının andiçerek göreve başladığı tarihte\n (9/7/2018)\n\n 7263\n Geçici Madde 1\n 3/2/2021\n\n 7333\n 4\n 28/7/2021\n\n Anayasa Mahkemesinin 9/5/2024 Tarihli ve E: 2021/106, K: 2024/101 Sayılı Kararı\n 4\n Yayımından dokuz ay sonra 22/7/2025\n\n 7555\n 1, 3, 4, (1) Sayılı Ücret Tarifesi, (2) Sayılı Ücret Tarifesi, (3) Sayılı Ücret Tarifesi\n 24/7/2025\n\n Anayasa Mahkemesinin 17/6/2025 tarihli ve E.:2024/193, K.:2025/136 sayılı Kararı\n 2, Ek Madde 5\n 15/10/2025\n\n [1] 7/3/1954 tarih ve 6326 sayılı Kanunun 5/4/1973 tarih ve 1702 sayılı Kanunla değişik 118 inci maddesi gereğince bu kanun petrol hakkı sahiplerine de uygulanır.\n\n [2] Bu Kanunda geçen \"İcra Vekilleri Heyeti\" ibareleri, \"Bakanlar Kurulu\"; \"Maliye Vekaleti\" ibareleri, \"Hazine Müsteşarlığının bağlı bulunduğu Bakanlık\"; \"Cumhuriyet müddeiumumileri\" ibareleri, \"Cumhuriyet savcıları\" olarak, ek 1 inci maddede geçen \"kambiyo kontrolörleri\" ibaresi ise \"Hazine kontrolörleri ve stajyer Hazine kontrolörleri\" şeklinde değiştirilmiştir.\n\n [3] Bakanlar Kurulunun 25/10/1988 tarihli ve 88/13431 sayılı \"Bedelsiz İthala ta İlişkin Karar\" 14/11/1988 tarihli ve 19979 Mükerrer sayılı Resmî Gazete'de yayımlanmıştır.\n\n [4] 2/7/2018 tarihli ve 700 sayılı KHK’nin 8 inci maddesiyle, bu fıkrada yer alan “Bakanlar Kurulunun” ibaresi “Cumhurbaşkanının” şeklinde değiştirilmiştir.\n\n [5] 16/5/2018 tarihli ve 7144 sayılı Kanunun birinci fıkrasıyla 3 üncü maddeye beşinci fıkra eklenmiş ve diğer fıkralar buna göre teselsül ettirilmiştir.\n\n [6] 20/7/2025 tarihli ve 7555 sayılı Kanunun 2 nci maddesiyle bu fıkranın birinci cümlesinde yer alan “ticari” ibaresi “yetkisiz” şeklinde ve “bir aydan altı aya kadar, tekrarı halinde ise sürekli olarak” ibaresi “bir ay süreyle” şeklinde değiştirilmiştir.\n\n [7] 20/7/2025 tarihli ve 7555 sayılı Kanunun 2 nci maddesiyle bu fıkrada yer alan “Hazine Müsteşarlığının” ibaresi “Hazine ve Maliye Bakanlığının” şeklinde değiştirilmiştir.\n\n [8] 20/7/2025 tarihli ve 7555 sayılı Kanunun 2 nci maddesiyle bu fıkrada yer alan “suç” ibaresi “kabahat” şeklinde değiştirilmiştir.\n\n [9] 7/7/2011 tarihli ve 646 sayılı KHK’nin 2 nci maddesiyle, bu maddenin birinci fıkrasında yer alan “Maliye müfettişleri ile Maliye müfettiş muavinleri, hesap uzman ve yardımcıları” ibaresi “Vergi Müfettişleri ve Vergi Müfettiş Yardımcıları” şeklinde değiştirilmiştir.\n\n [10] 2/7/2018 tarihli ve 700 sayılı KHK’nin 8 inci maddesiyle, bu fıkrada yer alan “Bakanlar Kurulu” ibaresi “Cumhurbaşkanı” şeklinde değiştirilmiştir.\n\n [11] 2/7/2018 tarihli ve 700 sayılı KHK’nin 8 inci maddesiyle, bu fıkrada yer alan “Bakanlar Kurulu” ibaresi “Cumhurbaşkanı” şeklinde değiştirilmiştir.\n\n [12] Maddedeki üç yıllık süre; 2100, 2686, 3336, 3974, 4512, 5014, 5540, 6060, 6258, 7220, 402, 723 ve 990 sayılı Kanunlarla çeşitli tarihlerde uzatılmış olup, en son 3/2/1970 tarih ve 1224 sayılı Kanunla süresiz olarak uzatılmıştır.",
       "preview": "Bu kanun hükümlerinin icrasına Bakanlar Kurulu memurdur. 20/2/1930 Tarihli ve 1567 Sayılı Ana Kanuna İşlenemeyen Geçici Maddeler: 1 – 7/5/19…",
       "kitap": null,
       "kisim": null,
       "bolum": null,
       "ayirim": null,
-      "maddeBaslik": "Yayımlandığı Düstur : Tertip: 3 Cilt: 11 Sayfa: 68",
-      "sectionPath": [
-        "Yayımlandığı Düstur : Tertip: 3 Cilt: 11 Sayfa: 68"
-      ]
-    },
-    {
-      "id": "kanun:1567:m:gecici:1",
-      "maddeKind": "gecici",
-      "maddeNo": "1",
-      "heading": "Geçici Madde 1",
-      "text": "Bu Kanunun yürürlük tarihinden önce 1567 sayılı Kanunun 3 üncü maddesinin (b) bendine istinaden kesinleşen mahkeme kararları ile hükmolunan, ancak henüz tahsil edilmemiş bulunan para cezalarına esas teşkil eden yurda getirilmesi gereken kıymetin ödeme tarihindeki Türkiye Cumhuriyet Merkez Bankası alış kurları üzerinden yüzde beşinin, bu Kanunun yayımı tarihinden itibaren doksan gün içinde ilgili vergi dairesine ödenmesi veya bu Kanunun yürürlük tarihinden önce 6183 sayılı Amme Alacaklarının Tahsil Usulü Hakkında Kanun hükümlerine göre kısmen tahsil edilen para cezasının yurda getirilmesi gereken kıymetin başvuru tarihindeki Türkiye Cumhuriyet Merkez Bankası alış kurları üzerinden hesap edilen tutarının yüzde beşine tekabül ettiğinin tespiti halinde, kesinleşmiş mahkeme kararları bütün neticeleri ile ortadan kalkar. Fazla ödenen tutarlar iade edilmez.\n Bu Kanunun yürürlüğe girdiği tarihten itibaren doksan gün içinde yükümlü oldukları kıymetleri cari kurdan yurda getirenlerin, cari kur üzerinden hesaplanan değer ile defter kayıtlarında yer alan ihracat bedeli arasındaki fark, pasifte bir fon hesabında izlenir. Bu fon sermayeye eklenmesi halinde gelir veya kurumlar vergisine tabi tutulmaz.",
-      "preview": "Bu Kanunun yürürlük tarihinden önce 1567 sayılı Kanunun 3 üncü maddesinin (b) bendine istinaden kesinleşen mahkeme kararları ile hükmolunan,…",
-      "kitap": null,
-      "kisim": null,
-      "bolum": null,
-      "ayirim": null,
-      "maddeBaslik": "3 – 30/7/2003 tarihli ve 4961 sayılı Kanunun geçici maddeleri:",
-      "sectionPath": [
-        "3 – 30/7/2003 tarihli ve 4961 sayılı Kanunun geçici maddeleri:"
-      ]
-    },
-    {
-      "id": "kanun:1567:m:gecici:2",
-      "maddeKind": "gecici",
-      "maddeNo": "2",
-      "heading": "Geçici Madde 2",
-      "text": "Bu Kanunun yürürlük tarihinden önce 1567 sayılı Kanuna istinaden yürürlüğe konulan mevzuat hükümleri uyarınca süresi içinde zorunlu döviz ve efektif devir ve satış yükümlülüklerini yerine getirmeyen yetkili müesseseler ve kıymetli maden aracı kuruluşları, bu Kanunun yayımı tarihinden itibaren yüzelli gün içinde devirle yükümlü oldukları kıymetin yüzde birine tekabül eden tutarın, ödeme tarihindeki Türkiye Cumhuriyet Merkez Bankası alış kurları üzerinden Türk Lirası karşılığını ilgili vergi dairesine ödemeleri halinde, bu konuda açılmış davalar ile idarî işlemler bütün neticeleri ile ortadan kalkar.\n Bu Kanunun yürürlük tarihinden önce 1567 sayılı Türk Parasının Kıymetini Koruma Hakkında Kanun hükümlerine göre haklarında kambiyo takibi başlatılan, ancak henüz yargıya intikal ettirilmeyenlerin, bu Kanunun yayımı tarihinden itibaren yüzelli gün içinde yükümlü oldukları kıymeti yurda getirmeleri halinde bu konuda yürütülen idarî işlemler ortadan kalkar. Bu hüküm çerçevesinde yurda getirilen kıymetler için cari kur uygulanır.\n Kanunun yayımı tarihinden itibaren en çok yüzseksen gün içinde kambiyo takibine konu kıymetin yüzde dördüne tekabül eden tutarın ödeme tarihindeki Türkiye Cumhuriyet Merkez Bankası alış kurları üzerinden Türk Lirası karşılığını ilgili vergi dairesine ödemeleri halinde, bu konuda açılmış davalar ile idarî işlemler ortadan kalkar.\n 25.2.2003 tarihli ve 4811 sayılı Vergi Barışı Kanunundan yararlanarak adlarına salınan vergileri ödeyen ya da ödeme plânına bağlatan ihracatçı gözüken malî kuruluşlar hakkında geçici 2 nci maddedeki yüzde dört oran yüzde bir olarak uygulanır.\n\n (1) SAYILI ÜCRET TARİFESİ\n (Ek:20/7/2025-7555/3 md.)\n\n Ticari amaçla döviz alım satımında bulunmak üzere bu Kanun kapsamında faaliyet iznine tabi anonim şirketlerden alınacak ücretler\n Ücret Tutarı\n\n (1)\n Şube açma yetkisini haiz ise;\n\n a)\n 1 numaralı faaliyet bölgesi\n 25.907.400 TL\n\n b)\n 2 numaralı faaliyet bölgesi\n 21.589.500 TL\n\n c)\n 3 numaralı faaliyet bölgesi\n 17.271.600 TL\n\n ç)\n 4 numaralı faaliyet bölgesi\n 12.953.700 TL\n\n (2)\n Şube açma yetkisini haiz değil ise;\n\n a)\n 1 numaralı faaliyet bölgesi\n 23.748.450 TL\n\n b)\n 2 numaralı faaliyet bölgesi\n 19.430.550 TL\n\n c)\n 3 numaralı faaliyet bölgesi\n 15.112.650 TL\n\n ç)\n 4 numaralı faaliyet bölgesi\n 10.794.750 TL\n\n (3)\n Şube açma yetkisini haiz olanların şube açma izni başvurusu için;\n\n a)\n 1 numaralı faaliyet bölgesi\n 14.393.000 TL\n\n b)\n 2 numaralı faaliyet bölgesi\n 11.514.400 TL\n\n c)\n 3 numaralı faaliyet bölgesi\n 8.635.800 TL\n\n ç)\n 4 numaralı faaliyet bölgesi\n 5.757.200 TL\n\n (2) SAYILI ÜCRET TARİFESİ\n (Ek:20/7/2025-7555/3 md.)\n\n Ücret Tutarı\n\n (1)\n Borsa İstanbul Anonim Şirketi Kıymetli Madenler Piyasasında üye olarak kıymetli madenlere ilişkin faaliyet göstermek üzere verilecek faaliyet izinlerinde alınacak ücret\n 28.786.000 TL\n\n (3) SAYILI ÜCRET TARİFESİ\n (Ek:20/7/2025-7555/3 md.)\n\n Ücret Tutarı\n\n (1)\n Kıymetli maden rafinaj faaliyetlerinde bulunmak üzere verilecek faaliyet izinlerinde alınacak ücret (her bir üretim yeri ve her bir kıymetli maden türü için ayrı ayrı olmak üzere)\n 40.300.400 TL\n\n 1567 SAYILI KANUNA EK VE DEĞİŞİKLİK GETİREN MEVZUATIN VEYA ANAYASA MAHKEMESİ İPTAL KARARLARININ YÜRÜRLÜĞE GİRİŞ TARİHLERİNİ GÖSTERİR TABLO\n\n Değiştiren Kanunun/KHK’nin veya İptal Eden Anayasa Mahkemesi Kararının Numarası\n 1567 sayılı Kanunun değişen veya iptal edilen maddeleri\n Yürürlüğe Giriş Tarihi\n\n 2100\n —\n 23/1/1933\n\n 2686\n —\n 18/4/1935\n\n 3070\n —\n 2/12/1936\n\n 3336\n —\n 19/3/1938\n\n 3974\n —\n 15/1/1941\n\n 4328\n —\n 26/12/1942\n\n 4512\n —\n 29/1/1944\n\n 5014\n —\n 24/2/1947\n\n 5540\n —\n 18/2/1950\n\n 6060\n —\n 26/2/1953\n\n 6258\n —\n 20/2/1954\n\n 7220\n —\n 25/2/1959\n\n 402\n —\n 20/2/1964\n\n 723\n —\n 17/2/1966\n\n 753\n —\n 15/3/1966\n\n 990\n —\n 31/1/1968\n\n 1224\n —\n 11/2/1970\n\n 3196\n —\n 24/5/1985\n\n 3521\n —\n 28/2/1989\n\n 4961\n —\n 6/8/2003\n\n 5827\n 3,4,5\n 30/12/2008\n\n KHK/646\n Ek Madde 1\n 10/7/2011\n\n 7144\n 3, 5\n 25/5/2018\n\n KHK/700\n 1, 3, Ek Madde 2, Ek Madde 3, Ek Madde 5\n 24/6/2018 tarihinde birlikte yapılan Türkiye Büyük Millet Meclisi ve Cumhurbaşkanlığı seçimleri sonucunda Cumhurbaşkanının andiçerek göreve başladığı tarihte\n (9/7/2018)\n\n 7263\n Geçici Madde 1\n 3/2/2021\n\n 7333\n 4\n 28/7/2021\n\n Anayasa Mahkemesinin 9/5/2024 Tarihli ve E: 2021/106, K: 2024/101 Sayılı Kararı\n 4\n Yayımından dokuz ay sonra 22/7/2025\n\n 7555\n 1, 3, 4, (1) Sayılı Ücret Tarifesi, (2) Sayılı Ücret Tarifesi, (3) Sayılı Ücret Tarifesi\n 24/7/2025\n\n Anayasa Mahkemesinin 17/6/2025 tarihli ve E.:2024/193, K.:2025/136 sayılı Kararı\n 2, Ek Madde 5\n 15/10/2025\n\n [1] 7/3/1954 tarih ve 6326 sayılı Kanunun 5/4/1973 tarih ve 1702 sayılı Kanunla değişik 118 inci maddesi gereğince bu kanun petrol hakkı sahiplerine de uygulanır.\n\n [2] Bu Kanunda geçen \"İcra Vekilleri Heyeti\" ibareleri, \"Bakanlar Kurulu\"; \"Maliye Vekaleti\" ibareleri, \"Hazine Müsteşarlığının bağlı bulunduğu Bakanlık\"; \"Cumhuriyet müddeiumumileri\" ibareleri, \"Cumhuriyet savcıları\" olarak, ek 1 inci maddede geçen \"kambiyo kontrolörleri\" ibaresi ise \"Hazine kontrolörleri ve stajyer Hazine kontrolörleri\" şeklinde değiştirilmiştir.\n\n [3] Bakanlar Kurulunun 25/10/1988 tarihli ve 88/13431 sayılı \"Bedelsiz İthala ta İlişkin Karar\" 14/11/1988 tarihli ve 19979 Mükerrer sayılı Resmî Gazete'de yayımlanmıştır.\n\n [4] 2/7/2018 tarihli ve 700 sayılı KHK’nin 8 inci maddesiyle, bu fıkrada yer alan “Bakanlar Kurulunun” ibaresi “Cumhurbaşkanının” şeklinde değiştirilmiştir.\n\n [5] 16/5/2018 tarihli ve 7144 sayılı Kanunun birinci fıkrasıyla 3 üncü maddeye beşinci fıkra eklenmiş ve diğer fıkralar buna göre teselsül ettirilmiştir.\n\n [6] 20/7/2025 tarihli ve 7555 sayılı Kanunun 2 nci maddesiyle bu fıkranın birinci cümlesinde yer alan “ticari” ibaresi “yetkisiz” şeklinde ve “bir aydan altı aya kadar, tekrarı halinde ise sürekli olarak” ibaresi “bir ay süreyle” şeklinde değiştirilmiştir.\n\n [7] 20/7/2025 tarihli ve 7555 sayılı Kanunun 2 nci maddesiyle bu fıkrada yer alan “Hazine Müsteşarlığının” ibaresi “Hazine ve Maliye Bakanlığının” şeklinde değiştirilmiştir.\n\n [8] 20/7/2025 tarihli ve 7555 sayılı Kanunun 2 nci maddesiyle bu fıkrada yer alan “suç” ibaresi “kabahat” şeklinde değiştirilmiştir.\n\n [9] 7/7/2011 tarihli ve 646 sayılı KHK’nin 2 nci maddesiyle, bu maddenin birinci fıkrasında yer alan “Maliye müfettişleri ile Maliye müfettiş muavinleri, hesap uzman ve yardımcıları” ibaresi “Vergi Müfettişleri ve Vergi Müfettiş Yardımcıları” şeklinde değiştirilmiştir.\n\n [10] 2/7/2018 tarihli ve 700 sayılı KHK’nin 8 inci maddesiyle, bu fıkrada yer alan “Bakanlar Kurulu” ibaresi “Cumhurbaşkanı” şeklinde değiştirilmiştir.\n\n [11] 2/7/2018 tarihli ve 700 sayılı KHK’nin 8 inci maddesiyle, bu fıkrada yer alan “Bakanlar Kurulu” ibaresi “Cumhurbaşkanı” şeklinde değiştirilmiştir.\n\n [12] Maddedeki üç yıllık süre; 2100, 2686, 3336, 3974, 4512, 5014, 5540, 6060, 6258, 7220, 402, 723 ve 990 sayılı Kanunlarla çeşitli tarihlerde uzatılmış olup, en son 3/2/1970 tarih ve 1224 sayılı Kanunla süresiz olarak uzatılmıştır.",
-      "preview": "Bu Kanunun yürürlük tarihinden önce 1567 sayılı Kanuna istinaden yürürlüğe konulan mevzuat hükümleri uyarınca süresi içinde zorunlu döviz ve…",
-      "kitap": null,
-      "kisim": null,
-      "bolum": null,
-      "ayirim": null,
-      "maddeBaslik": "3 – 30/7/2003 tarihli ve 4961 sayılı Kanunun geçici maddeleri:",
-      "sectionPath": [
-        "3 – 30/7/2003 tarihli ve 4961 sayılı Kanunun geçici maddeleri:"
-      ]
+      "maddeBaslik": null,
+      "sectionPath": []
     }
   ]
 }
